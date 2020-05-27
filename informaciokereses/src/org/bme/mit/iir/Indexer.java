@@ -2,22 +2,26 @@ package org.bme.mit.iir;
 
 import com.google.gson.Gson;
 
+import java.io.BufferedReader;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.io.PrintWriter;
+import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.*;
 import java.util.stream.Collectors;
+import java.util.stream.Stream;
 
 public class Indexer {
-    private String searchDirectoryPath="../res/corpus";
+    private String searchDirectoryPath="../res/a";
     private String outputFilePath="indices.json";
     private String stopWordsFilePath="../res/stopwords.txt";
     private Map<String, Map<String, Integer>> indexMap = new HashMap<>();
     private Util util = new Util();
     private TermRecognizer termRecognizer;
+    private Gson gson = new Gson();
 
     {
         try {
@@ -88,13 +92,7 @@ public class Indexer {
 
             frequency.keySet().forEach(System.out::println);
 
-            var map = frequency.get("baba");
 
-            for (Map.Entry<String, Integer> entry : map.entrySet() ) {
-                System.out.println(entry.getKey() + ":" + entry.getValue());
-            }
-
-            Gson gson = new Gson();
             String json = gson.toJson(frequency);
             printToFile(outputFilePath, json);
 
@@ -103,7 +101,65 @@ public class Indexer {
         }
     }
 
+    public void findDocumentsWithAllWords(List<String> words, int minSearchWords){
+        HashMap<String,Map<String, Double>> dx = gson.fromJson(readFile(outputFilePath), HashMap.class);
+        HashMap<String, DocumentStats> result = new HashMap<>();
 
+        for(String word : words){
+            var docs = dx.get(word);
+            for(var entry: docs.entrySet()){
+                String doc = entry.getKey();
+
+                var statEntry = result.get(doc);
+                if(statEntry == null){
+                    var newDocumentStat = new DocumentStats();
+                    newDocumentStat.incrementSearchWords();
+                    newDocumentStat.increaseTotalFrequency(entry.getValue());
+
+                    result.put(doc, newDocumentStat);
+                } else{
+                    statEntry.incrementSearchWords();
+                    statEntry.increaseTotalFrequency(entry.getValue());
+                }
+            }
+        }
+        HashMap<String, Integer> finalResultMap = new HashMap<>();
+        for(var entry: result.entrySet()){
+            if(entry.getValue().getSearchWords()>=minSearchWords){
+                //Value considered by search: product of search words and total frequency
+                finalResultMap.put(entry.getKey(), (int) (entry.getValue().searchWords*entry.getValue().totalFrequency));
+            }
+        }
+        var megaResults = sortMapByValue(finalResultMap);
+        megaResults.forEach(System.out::println);
+    }
+
+    class DocumentStats{
+        private Double searchWords = 0.0;
+        private Double totalFrequency = 0.0;
+
+        public void incrementSearchWords(){
+            searchWords++;
+        }
+        public void increaseTotalFrequency(Double increaseValue){
+            totalFrequency += increaseValue;
+        }
+
+        public Double getSearchWords() {
+            return searchWords;
+        }
+
+        public Double getTotalFrequency() {
+            return totalFrequency;
+        }
+    }
+
+    public Stream<Map.Entry<String, Integer>> sortMapByValue(Map<String, Integer> map ){
+        Stream<Map.Entry<String, Integer>> sorted =
+                map.entrySet().stream()
+                        .sorted(Map.Entry.comparingByValue());
+        return sorted;
+    }
 
     //Returns all files in the directory and subdirectories
     public Map<String, Integer> getFrequenciesOfFile(String filePath) throws IOException {
@@ -117,5 +173,19 @@ public class Indexer {
         } catch (FileNotFoundException e) {
             e.printStackTrace();
         }
+    }
+
+    public String readFile(String filePath){
+        String json = "";
+        try {
+            try (BufferedReader br = Files.newBufferedReader(Paths.get(filePath), StandardCharsets.UTF_8)) {
+                for (String line = null; (line = br.readLine()) != null;) {
+                    json += line;
+                }
+            }
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+        return json;
     }
 }

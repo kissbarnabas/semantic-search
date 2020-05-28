@@ -1,0 +1,16 @@
+A Linuxra támad a Microsoft olcsó Windows Servere
+
+A Microsoft hivatalosan is bejelentette a Windows Server család legújabb tagját, a Foundationt, amelyet egészen kis vállalatoknak, legfeljebb néhány tucat fõt foglalkoztató cégeknek szán olyan alapfeladatok ellátására mint fájl- és nyomtatómegosztás, távoli hozzáférés, de az operációs rendszer akár webszerverként is használható, de üzleti alkalmazásokat is futthatnak rajta.
+
+
+
+A Foundation számos dologban különbözik a Windows Server Standard változatától. Az elsõ és legfontosabb az árazás, a Foundationhöz nem kell klienslicenceket (CAL) vásárolni, azok benne vannak az árban -- CAL licenc egyedül a Remote Desktop Services (Terminal Services) és RMS használatához szükséges. Egy Foundation Serverhez legfeljebb 15 felhasználó csatlakozhat. Fontos megkötés, hogy bár a Foundation Server akár Active Directory szerver vagy tartományvezérlõ is lehet, de csak olyan tartománynak lehet tagja, ahol nincs másféle Windows Server operációs rendszer.
+
+Korlátozás még, hogy az operációs rendszer legfeljebb egy fizikai processzort támogat, a memória mérete pedig nem lehet nagyobb 8 gigabájtnál. A Foundation Server nem virtualizálható, nem is tartalmazza a Hyper-V köztesréteget és vendég operációs rendszerként sem használható. Bár a licencszerzõdés kimondottan nem tiltja meg, hogy a Foundation Serverre valaki hypervisort telepítsen, a memóriakorlát miatt aligha fogja bárki is konszolidációs platformként választani. Az operációs rendszer a Server Core telepítést sem támogatja.
+
+
+ Egyéb megkötések azonban nincsenek a Foundationsben, a szoftver tartalmazza a SharePoint Servicest, tehát csomportmunka támogatására is használható, de akár Windows Server Standard változatán hitelesített üzleti alkalmazások, az Exchange Server vagy a SQL Server is elindul rajta, bár a processzor- és a memóriakorlát miatt ilyen feladatokra csak korlátozottan alkalmas. Ha valakinek ilyen igényei vannak, egyébként is érdemesebb a Small Business Server beszerzését megfontolnia, ez egyébként a 15 felhasználónál nagyobb hálózatok esetében is igaz.
+
+[+] Megjelentek a Microsoft kis- és középvállalati szerverei 
+
+A Windows Server Foundationnel a Microsoft látható célja, hogy a Windows Server 2008 alapjaira építve egy olyan szerver operációs rendszert dobjon a piacra, amely megfelelõ lehet azoknak a kis cégeknek, amelyek eddig az alapfeladatok ellátására Linuxot használtak. A vonzó árazással, illetve az egyszerûnek ígért felügyelettel a redmondiak komoly kihívót állítanak a szabad operációs rendszernek. A Windows Server Foundation a vállalattól kapott információk szerint õsszel érkezik Magyarországra és a tervek szerint csak szerverekkel együtt értékesítik majd.

@@ -1,0 +1,14 @@
+Már októberben megérkezhet az AMD új szerverchipje
+
+Tajvani források szerint az AMD már októberben piacra dobja elsõ 45 nanométeres csíkszélsségû szerverprocesszorait, a Shanghai kódnevû Opteronokat. Állítólag 2,3 és 2,7 GHz közötti változatokban jönnek a chipek, szám szerint összesen kilenc különféle változatban, amelyek közül öt a kétfoglalatos, négy pedig a négy- vagy többfoglalatos szerverekbe kerülhet. 
+
+
+
+A négymagos, 45 nanométeres Shanghai lényegében a 65 nanométeres Barcelona optikai miniatürizációjának tekinthetõ néhány apróbb csiszolással, és megnövelt méretû, 6 megabájtos harmadszintû gyorsítótárral. A kevés módosítást bizonyítja az is, hogy a Shanghai néhány negyedévvel a Barcelona után érkezik. A chipeket, és asztali változattal, a Denebbel együtt a tavaszi CeBIT-en demózta is már a vállalat, a chipek prototípusai már hónapok óta a partnereknél vannak.
+
+Az elõdjénél háromszor nagyobb L3 gyorsítótárat felvonultató Shanghai-tól leginkább a jól cache-elhetõ szerverfeladatok alatt várható gyorsulás, de a nagy cache a skálázódást is segíti. Szintén ezt szolgálja a HyperTransport 3.0 linkek megjelenése, amelyek 2,6 GHz-es órajelen járva másodpercenként 41 gigabájtos sávszélességet ígérnek, azonban a tajvani Digi-times értesülései szerint az elsõ változatok csak a HyperTransport 1.0 verziót támogatják majd, a 3.0-s változatok érkezésére 2009 második negyedévéig várni kell, amikor az SR5600 chipkészletet is bemutatja a cég.
+
+
+ A tajvani lap úgy értesült, jövõ februárban további öt Shanghai-magos Opteronnal bõvülhet az AMD kínálata, amelyek alacsony fogyasztású (55W) modellek lesznek -- közülük három tartozik majd a 2000-as sorozatba, kettõ pedig a 8000-esbe. Ezek mellett érkezni fog két nagy teljesítményû, 105 wattos modell a számításigényes környezetekben üzemelõ gépek számára.
+
+A Shanghainak az Intel teljes szerverfrontjával kell küzdenie nagyjából egy éven keresztül, az alsóházban a Core-mikroarchitektúrára épülõ négymagos Harpertownokkal, a középmezõnyben a közelgõ következõ generációs Nehalemmel (már integrált memóriavezérlõ és ), míg a négyutas szervereknél a hatmagos Dunningtonnal.

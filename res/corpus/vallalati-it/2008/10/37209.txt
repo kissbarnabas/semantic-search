@@ -1,0 +1,16 @@
+Kapható a Netgear hatlemezes hálózati adattárolója
+
+Új, akár hat merevlemezzel bõvíthetõ hálózati adattárolóval (NAS) bõvítette kínálatát a Netgear. A tavasszal bejelentett ReadyNAS Pro termékek a kis- és középvállalkozások centralizált hálózati tárolási szükségleteinek kielégítésére készült -- a gyártó ajánlása szerint legfeljebb 200 kliensig.
+
+
+
+A ReadyNAS Pro, a ReadyNAS termékcsalád legújabb és leggyorsabb tagja, legfeljebb 6 TB hálózati tárhelyet biztosít -- a felhasználók Windows, Linux és Macintosh platformok alól érhetik el az adattárolókat, mely fájlok megosztására és biztonsági mentésére egyaránt bõséges terepet kínál. A Netgear új hálózati tárolói támogatják a RAID 0, 1, 5, 6, valamint az X-RAID2 üzemmódokat, a redundáns adatelérést emellett kettõ Gigabit Ethernet port is szolgálja.
+
+
+A kompakt, akár az asztalon elhelyezhetõ házzal rendelkezõ ReadyNAS Pro termékek hat darab zárható, menet közben cserélhetõ lemeztálcájuk révén legfeljebb hat SATA II merevlemezt támogatnak. Az adattárolókhoz a három USB 2.0 porton keresztül külsõ USB-meghajtókat, nyomtatókat és akkumulátoros szünetmentes tápegységeket lehet csatlakoztatni.
+
+
+
+A ReadyNAS Pro a szokásos webalapú felhasználói felülettel és beállítási varázslóval konfigurálható, emellett LCD-kijelzõvel is rendelkezik, amely jelzi a rendszer mûködési paramétereit, illetve az esetleges a hibákat, amikrõl figyelmeztetõ e-mail is kérhetõ. A ReadyNAS Pro hálózati adattárolók a gyártó szerint nem csak rendkívül biztonságos adattárolást, hanem gyors adatelérést is nyújtanak: a Netgear saját mérései szerint a NAS-ek másodpercenként 108 MB-os sebességgel olvashatók és 102 megabájttal írhatók.
+
+A Netgear ReadNAS Pro három változatban kerül forgalomba októberben: az 1,5 TB-os megoldás három 500 GB-os, a 3 TB-os példány három 1 TB-os, a 6 TB-os csúcsmodell pedig hat 1 TB-os Serial ATA II merevlemezt tartalmaz. A legolcsóbb példány 2000 dollárba kerül a tengerentúlon, ötéves standard jótállással.

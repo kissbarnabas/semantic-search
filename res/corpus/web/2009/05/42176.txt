@@ -1,0 +1,15 @@
+Feleslegessé válhat a mobilos zeneletöltés?
+
+3-in-1: Online, zene, mobil
+A Spotify idén januárban nevezte ki a korábban a Yahoo üzleti fejlesztési vezetõjeként dolgozó Gustav Söderströmöt mobil megoldásokkal foglalkozó igazgatójává, ami egyértelmûen azt jelentette, hogy a svéd vállalat komolyan gondolja az online streaming zene hordozhatóvá tételét. Nemrégiben az API nyilvánossá tételekor is azt hangsúlyozták, hogy a fejlesztõk kreativitásában bízva remélik, hogy minél több platformra eljut a termékük. 
+
+A Google Android alatt futó Spotify-alkalmazás ugyan már mûködõképes, de még nem elérhetõ a felhasználók számára. A Spotify szerint még további fejlesztések és apróbb változtatások hiányoznak, de a YouTube-videón is látható demó jól mutatja az elképzeléseiket. A normál lejátszás, keresés, playlist kezelés mellett a legérdekesebb funkció a szinkronizáció az offline lejátszáshoz. A Spotify a merevlemezen tárolja a lejátszandó fájlokat, de az asztali alkalmazáshoz szükséges a folyamatos internetkapcsolat. A fájlok összekeverése, kódolása nyilvánvalóan másolásvédelmi célokaz szolgál, ez érthetõ is. A mobil esetében viszont kétséges, hogy a szolgáltatás minõsége garantálható lenne, ha minden esetben internetkapcsolatra lenne szükség. 
+
+
+
+
+A Spotify egy szám vagy egy lejátszási lista betöltésekor letölti elõre a fájlokat, s ismétléskor azokat már nem újratölti, hanem cache-bõl olvassa be, így elméletileg nem lenne feltétlenül szükség folyamatos 3G kapcsolatra, de az sem lenne megengedhetõ, hogy egy pincébe vagy egy mélygarázsba leérve megáll a zenelejátszás pusztán azért, mert nincs térerõ. Így egy-egy listát egy könnyed mozdulattal lehet majd a mobil változatban szinkronizálni, és az elérhetõ marad a telefon memóriájából, s nem követel további adatforgalmat.
+
+Befellegzett a zeneáruházaknak?
+
+Ezzel a funkcióval viszont komoly riválisává válhat az iTunes-nak, hiszen itt nem kell megvásárolni a zeneszámokat, hanem átalánydíjas havi elõfizetésért vagy egyes országokban óránként 40 másodpercnyi beszúrt reklámért cserébe díjmentesen lehet elérni a több millió számot. Az Androidos megjelenés már biztos, az iPhone változat sorsát viszont az is befolyásolja, hogy mit szól ehhez az Apple.

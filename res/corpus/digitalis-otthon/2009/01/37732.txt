@@ -1,0 +1,17 @@
+Egyszerû SMS-sel megbéníthatók a symbianos okostelefonok
+
+Egy különlegesen megformázott SMS-sel megbénítható a Symbian OS operációs rendszert futtató okostelefonok üzenetkezelõ funkciója -- figyelmeztet az F-Secure. A német Tobias Engel által az év utolsó napjaiban bemutatott támadás a UIQ és Series 60 platformmal rendelkezõ készülékek ellen egyaránt hatásos, a Series 60 3rd Edition Feature Pack 2-t vagy S60 5th Editiont futtató készülékek már nem érintettek szerencsére.
+
+
+
+A támadás lényegében szolgáltatásmegtagadásra kényszeríti és megbénítja a telefon üzenetkezelõ rendszerét, amely így SMS-eket és MMS-eket sem fogad, de egyébként a készülék továbbra is mûködik és a felhasználó nem is szerez tudomást arról, hogy az üzenetfogadás szolgáltatás megállt -- olvasható az F-Secure blogjában. A támadás kivitelezéséhez nincs szükség semmiféle speciális ismeretre, szinte bármilyen mobiltelefonról elküldhetõ a speciális SMS.
+
+
+ Maga az üzenet nem bonyolult, mindössze egy több mint 32 karakterbõl álló e-mail címet kell tartalmaznia @ jellel, valamint utána egy szóközzel. Az e-mail cím természetesen lehet kitalált, vagy akár teljesen hamis is. Bizonyos készülékeket már egyetlen ilyen üzenet is meg tud bénítani, másokat csak több, egymást követõ SMS-sel lehet kiütni.
+
+
+
+
+
+
+A mobiltelefon gazdája sajnos semmit sem tehet az ilyen támadások kivédésére, a megbénított készüléket pedig csak egy gyári resettel lehet ]jra életre lehelni. Azonban mivel a telefon mûködésében semmi sem utal arra, hogy nem képes üzenetet fogadni, a felhasználó aligha fog gyanakodni, így sok üzenetet egyszerûen nem kapnak meg soha. Szerencsére a mobilszolgáltatók egyszerûen kiszûrhetik az ilyen speciális üzeneteket és leállíthatják a továbbítást. Eközben az F-Secure Mobile Security szoftver új változatába már bekerült az ilyen támadások elleni védelem, ennek a programnak a 7 napos próbaváltozata elérhetõ az F-Secure weboldalán.

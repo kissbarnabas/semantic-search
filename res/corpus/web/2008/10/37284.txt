@@ -1,0 +1,27 @@
+Alázza a Google az OpenID-t
+
+A nyáron a MySpace, pár napja a Microsoft, tegnap pedig a Google jelentette be, hogy támogatni fogja az egységes bejelentkezést lehetõvé tevõ OpenID megoldást szolgáltatási felületein. Elméletileg így a jövõben szinte kivétel nélkül, minden internetezõ képes lesz egyetlen azonosítójával elérni a különbözõ webhelyeket, hisz a három említett nagy szereplõ valamelyikénél minden internetezõ majdnem biztosan regisztrálva van. A gyakorlat viszont mást mutat.
+
+
+
+Kedden a Google is megerõsítette, hogy támogatni fogják az OpenID 2.0 protokollt, azt a megosztott azonosítási rendszert, ami lehetõvé teszi az internet-felhasználóknak, hogy egy bejelentkezés révén több szolgáltatást, weboldalt érjenek el, szükségtelenné téve a tucatnyi jelszó megjegyzését. Az OpenID egy decentralizált, szabadon felhasználható, nyitott szabvány, amivel kezelhetõ minden felhasználói információ.
+
+Az OpenID elterjedése ezzel együtt alighanem a kisebb weboldalak tulajdonosainak könnyíti majd meg az életét. A Google (illetve a Microsoft) színrelépésével pedig felhasználók százmilliói intézhetik el a bejelentkezést és a regisztrációt az új eléréseikhez a már meglévõ Google (vagy LiveID) fiók segítségével. Mi több, a Google megengedi majd, hogy a csatolt fiókok adatait egy központi helyen tárolják -- kicsit jobban megnvizsgálva a megoldást azonban kiderül, hogy nem is olyan önzetlen gesztusról van szó.
+
+
+Egyrészt nem teljesen szabad a Google-féle OpenID felhasználása, hisz a szolgáltató korlátozza az OpenID együttmûködéseket: minden fejlesztõnek egy jelentkezési adatlapot kell kitöltenie az oldal URL-jével illetve OpenID azonosítójával, amit egyedileg bírálnak el a cégnél. Néhány szolgáltató viszont már meg is kapta az elérését, például a Plaxo és a Zoho, igaz ez utóbbi már hónapok óta üzemeltet egy hasonló megoldást, ráadásul úgy, hogy gyakorlatilag konkurensei egymásnak a Google-lel.
+
+
+
+Sok a trükk 
+
+
+
+A legérdekesebb mégsem ez a korlátozás, hanem az OpenID szabvány szétagaztatása azáltal, hogy a Google visszafelé nem engedi mûködni ezt a rendszert, tehát a többi OpenID weboldal regisztrációjával nem lehet bejelentkezni a Google rendszerébe. Ezzel gyakorlatilag egy saját protokollt hozott létre a keresõóriás, ahol a megszokottal ellentétben, egy független oldalon a Gmail címet begépelve a login mezõbe, az ottani szerver engedélyt kér a Google-tõl, hogy használhassa az OpenID szabványt egy XML dokumentum áttöltésével a Google szerverére. Amennyiben a szolgáltató rendben találja az adatokat, akkor visszaküld egy XML-t a felhasználó OpenID URI-jével (Unified Resource Identifier). 
+
+
+
+Ez a magatartás teljesen kirekesztõ, hiszen a meglévõ Google felhasználók számára nyújt többletszolgáltatást egy eddig nyitott szabvány segítségével, míg a többi szolgáltatónál OpenID fiókot regisztrálókat a körön kívül tartja, hasonlóan a Microsoft és a Yahoo megoldásához. A három legnagyobb tehát nyitott volt arra, hogy kibocsátóként megjelenjen, de egyikõjük sem akar elfogadó lenni. Így egyelõre annyi elõnye van az OpenID nagyok általi használatának, hogy a kisebb szereplõk több regisztrált felhasználót csábíthatnak magukhoz azáltal, hogy a jól ismert loginnév-jelszó párossal is elérhetõek.
+
+
+Egyesek viszont úgy vélik, hogy az OpenID-nek továbbra is egy teljesen nyitott szabványnak kellene maradnia, s a Google nem engedheti meg magának, hogy újraírja azt -- a szkeptikusok az azonos technológián alapuló, de inkompatibilis változat fejlesztését a szabvány hátbaszúrásának gondolják.

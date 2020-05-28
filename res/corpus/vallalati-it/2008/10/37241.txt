@@ -1,0 +1,43 @@
+Elõször demonstrálta a Microsoft a Windows 7-et és a webes Office-t
+
+A Microsoft Professional Developers Conference 2008 második napján a redmondi szoftvercég elsõ alkalommal mutatta be a nyilvánosság elõtt a következõ asztali Windowst, amirõl pár hete már kiderült, hogy Windows 7 néven kerül forgalomba. 
+
+
+
+Kicsit más mint a Vista
+
+A Windows 7 fejlesztése gõzerõvel zajlik, de a szoftver még nem érte el a béta állapotot. Ennek megfelelõen a most bemutatott verzió még nem tartalmazza a végleges változatba szánt összes képességet és szolgáltatást, talán ezért is lehet, hogy a demó nem igazán volt meggyõzõ. Az új operációs rendszer kapcsán bemutatott képességek java ugyanis pusztán kozmetikai változás a Windows Vistához képest: némileg átalakult az asztal és a taskbar, jobban testreszabhatók lettek egyes grafikai elemek  és megjelentek új menük is. Megszûnt a Vista Sidebar is, pontosabban az egész asztal Sidebarrá alakult át, a widgetek nem csak a jobb oldalon, hanem bárhol elhelyezhetõk.
+
+Ilyen lesz a Windows 7
+
+A kényelmes használatot fokozni hivatott újdonság, hogy a taskbaron mostantól nem csak egyszerûen váltogatni lehet az alkalmazások között, hanem minden alkalmazáshoz saját menü is tartozik, amelyben egyedi, rá jellemzõ funkciókat érhetünk el. A Windows Media Playerben például elindíthatjuk vagy megállíthatjuk a lejátszást, az Internet Explorerben új ablakot vagy tabot nyithatunk, vagy akár bezárhatunk a meglevõek közül néhányat. 
+
+További, a megjelenéssel, illetve megjelenítéssel kapcsolatos fejlesztés, hogy a Windows 7 nem csak elõre beállított grafikai részletességi beállításokkal (DPI) mûködik, hanem tetszõlegessel.  A többmonitoros konfigurációk támogatásán is javítottak, emellett az operációs rendszerben egyetlen billentyûnyomással lehet a projektoros vetítési módok között váltogatni. Szintén a felhasználói interfészt érintõ fejlesztés, hogy a Windows 7-be épített alkalmazások (pl. WordPad, Calculator, Paint) már az Office 2007-bõl ismerõs "szalag" menüvel irányíthatók. A WordPad támogatja az ODF és OOXML állományokat is.
+
+Minden szoftvernek saját menüje van a taskbaron
+
+Mi az új?
+
+Persze vannak azért figyelemre méltó újdonságok is a Windows 7-ben. A merevlemezek mellett már hordozható meghajtók tartalma is védhetõ a BitLockerrel, a Device Stage-nek köszönhetõen a korábbinál jobban, kényelmesebben kezelhetõk a számítógéphez csatlakoztatott mobil eszközök (mobiltelefon, PDA), emellett az operációs rendszert felkészítették az érintéses használatra is. Ilyenkor például a menük "megnyúlnak", hogy a felhasználó ujja könnyebben eltalálja a menüpontokat.
+
+Némileg átalakult a Windows Explorerbe épített keresõ is, ami az összes keresést lefuttatja a hálózatban található más gépeken is: az itt megtalált állományokat a Windows 7 ugyanúgy képes kezelni, mintha csak a gépbe épített meghajtón lennének. További újdonság a Windows 7-ben, hogy az operációs rendszer a korábbinál zökkenõmentesebben képes váltani a hálózati környezetek között, például ha a munkahelyi laptopot a felhasználó csatlakoztatja az otthoni hálózatához, a PC automatikusan felismeri a környezõ gépeket, nyomtatókat, más eszközöket &#8211; ezzel a fehasználónak nem kell törõdnie.
+
+Az új Start menü
+
+A fõleg fejleszõkbõl álló közönség körében a taps hangereje alapján a legnagyobb tetszést az a képesség aratta, hogy a Windows 7 natívan kezeli a VHD (Virtual Hard Drive) virtuális lemezképeket, amelyeket nem csak létrehozni tud, hanem akár mountolni is, sõt, akár bootolni is róluk.
+Szintén nagy tetszést aratott, hogy a Vista-felhasználókat sokszor az õrületbe kergetõ User Account Control is változott némiképp a Windows 7-ben, egy csúszka segítségével be lehet állítani, milyen szigorú védelemre van szükség (hasonlóan az Internet Explorer biztonsági beállításaihoz). 
+
+
+ Steven Sinofsky, a Windows 7 fejlesztéséért felelõs Microsoft-vezetõ elõadásában kiemelte, a Windows 7 programozói nagy figyelmet fektettek az erõforrások gazdaságos felhasználására, ezért aztán az operációs rendszer hardverigénye csökkent, sebessége pedig megnõtt. Sinofsky szerint akár egy 1 gigabájt memóriával felszerelt, Atom-alapú netbookon is használható a Windows 7.
+
+Sinofsky hangsúlyozta, mivel a Windows 7 a Vista, illetve a Windows Server 2008 továbbfejlesztett kernelére épül, a meghajtóprogramok és szoftverek kompatibilisek maradnak az új Windowszal. Az operációs rendszer megjelenésének idõpontjával kapcsolatban továbbra sincs új információ, a "feature complete", vagyis a végleges változat összes funkcióját tartalmazó elsõ béta 2009 elején esedékes, a végleges verziót pedig még mindig 3 évvel a Vista utánra ígérik, ami 2009 végét vagy 2010 elejét jelenti.
+
+Webre megy az Office
+
+Valószínûleg a Windows 7-tel együtt érkezik az Office következõ változata, az Office 14 is, amelynek egyes komponensei végre nem csak PC-re telepíthetõ, hanem böngészõben futó, online elérhetõ változatban is elérhetõk lesznek. Az Office Web Applications keretében a Microsoft a Word, az Excel, a PowerPoint, illetve OneNote alkalmazásokat viszi a netre.
+
+Excel a böngészõben
+
+A weben keresztül elérhetõ változatok funkcionalitása némileg korlátozott a PC-kre telepített "teljes" szoftverekéhez képest, de a mai bemutató alapján még így is meglepõen sokat tudnak. A felhasználók létrehozhatnak és szerkeszthetnek szöveget, táblázatot, prezentációt, illetve jegyzeteket, amiket aztán meg is oszthatnak egymással, közösen dolgozhatnak rajtuk. A fájlokat nem csak a webes Office-ból, hanem a telepített változatból ugyanúgy elérhetik, a  közös dokumentumokban elvégzett változtatások folyamatosan frissülnek minden "résztvevõnél".
+
+A webes Office üzleti modelljét egyelõre nem hozta nyilvánosságra a Microsoft, de a hírek szerint reklámokat megjelenítõ ingyenes változat is lesz az elõfizetéses konstrukció mellett.

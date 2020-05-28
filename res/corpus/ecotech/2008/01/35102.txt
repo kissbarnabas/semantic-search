@@ -1,0 +1,33 @@
+Egymilliárd dollárért veszi meg a MySQL-t a Sun Microsystems
+
+Megvásárolja a legnépszerûbb nyílt forrású adatbázist, a MySQL-t fejlesztõ és forgalmazó MySQL AB vállalatot a Sun Microsystems, amely a kerek 1 milliárd dolláros vételárat 800 millió dollár készpénzben és 200 millió dollár értékû részvényopcióban egyenlíti ki. Az akvizícióval a Sun belépett a közel 18 milliárd dolláros adatbázispiacra, amelyet az Oracle és az IBM ural. 
+
+
+
+A "webkettesek" alapja
+
+A MySQL a világ második legnagyobb, független, nyílt forrású termékekkel foglalkozó vállalat a Red Hat mögött. A cég 25 országban van jelen és mintegy 400 embert foglalkoztat, az Ovum 2006-os elemzése szerint a nyílt forrású adatbázis-piac 49 százalékát tartja kézben. A tranzakció lezárását követõen a MySQL a Sun Microsystems szoftverüzletágába olvad bele, Marten Mickos, a MySQL elnök-vezérigazgatója pedig csatlakozik a vállalathoz.
+
+
+
+Egyszer volt...
+A MySQL-t korábban az Oracle is megkereste egy felvásárlási ajánlattal -- mondta el egy 2006-os interjúban Marten Mickos, a cég vezetõje, aki nem árulta el, hogy ez pontosan mikor történt és az Oracle mennyit ajánlott. Mickos akkor nem állt kötélnek, egy évvel ezelõtt pedig még arról beszélt, a MySQL-t tõzsdére viszik.
+
+
+
+Világszerte weboldalak milliói futnak MySQL-en, olyan ismert site-ok egyes szolgáltatásai alapulnak a nyílt forrású adatbázison, mint a Facebook, a Google, a Yahoo, vagy a Youtube. A MySQL valódi ikonja a webes világnak, az ún. LAMP szoftverrendszer (Linux, Apache, MySQL, PHP/Perl) egyik alapköve. A Sun várakozásai szerint a "Web 2.0" világ továbbra is bõvül, közösség szolgáltatások garmadája jelenik meg a neten, amelyek jó része MySQL-en alapul majd. A webes cégek körében rendkívüli vonzerõt jelent a MySQL nyíltsága és ingyenessége a Sun szerint.
+
+A Sun az akvizícióval azt szeretné elérni, hogy a MySQL ne csak a webes világban, hanem a vállalatok termelési rendszereiben, akár tranzakcionális környezetben is elterjedjen, amelyhez kulcsfontosságú lesz a Sun, mint támogató "hátország" neve, piaci ereje, valamint mûszaki háttere. A nagyvállalati világban, az informatikai infrastruktúra szívében ugyanis csak olyan megoldásoknak van helye, amelyekhez az üzleti kritikus igényekhez igazodó terméktámogatás is elérhetõ. A Sun ezért nem csak egyszerûen megvásárolja a MySQL-t, hanem rögtön egy globális támogatási programot is indít, amelynek keretén belül ugyanolyan szintû támogatást nyújt az adatbázishoz, mint bármely más Sun termékhez.
+
+Együtt, mûködve
+
+A MySQL eddig sem volt magára hagyva. Tavaly áprilisban az IBM jelentette be, hogy támogatni fogja a nyílt forráskódú adatbáziskezelõt saját szerverein, és támogatási szolgáltatásokat is viszontértékesít, egy évvel korábban, 2006 áprilisában pedig a HP teljes bevezetési, konzultációs, valamint integrációs és üzemeltetési támogatást biztosít a MySQL  adatbázishoz, illetve viszonteladóin keresztül értékesíteni is fogja a MySQL  elõfizetéseket. A MySQL-nek világszerte 100 viszonteladója és disztribútora van, 400 szottverjfelesztõ partnere, konzultációs és integrációs szolgáltatásokat pedig 175 cég nyújt. 
+
+A Sun fejlesztõi emellett azon dolgoznak majd, hogy a lehetõ legnagyobb teljesítményt sajtolják ki a MySQL-bõl. A vállalat olyan komplett megoldáscsmagokat is kínálni fog, amelyek saját szervereibõl, tárolóiból, operációs rendszerébõl és immár saját adatbázisából állnak, Jonathan Schwartz elnök-vezérigazgató ígérete szerint olyan ár-teljesítmény aránnyal, hogy attól mindenkinek kidülled majd a szeme. A Sun egyébként korábban a PostgreSQL-lel szeretett volna betörni a vállalati adatbázisok piacára, támogatást nyújtva a népszerû nyílt forrású szoftverhez, azonban eme erõfeszítéseit inkább kevesebb, mint több siker koronázta.
+
+
+ A relációs adatbázispiac az egyik leggyorsabban növekedõ szegmens a szoftveriparon belül, a Gartner felmérése szerint 2006-ban a teljes piac 12,2 százalékkal 17,7 milliárd dollárra emelkedett. A nyílt forrású adatbázisok (pl. MySQL, Ingres) a piacnál közel háromszor gyorsabb ütemben növekedtek 2006-ban, és a Gartner friss elõrejelzése szerint ez a piaci szegmens 2012-re 1 milliárd dolláros lesz, ami évi átlagban 40 százalékos növekedést jelent. 
+
+Elterelõ hadmûvelet
+
+A bejelentéssel egyidõben tette közzé elõzetes negyedéves eredményeit is a Sun. A negyedik naptári negyedévre esõ második pénzügyi negyedévben a cég forgalma 3,6 milliárd dollár volt, ami mindössze 1 százalékos növekedés éves szinten, vagyis a Sun továbbra sem képes magát egészségesen növekedõ pályára állítani. A negyedéves nettó eredmény 230-265 millió dollár között lesz a Sun szerint, szemben az egy évvel korábban elért 133 millió dollárral. Az elõzetes mutatók nagyjából fedik az elemzõi várakozásokat, a végleges eredményeket január 24-én hozza nyilvánosságra a cég. A MySQL-akvizíció bejelentése azonban feledtette a részvényesekkel a pénzügyi teljesítményt, a tõzsdei nyitás elõtt már több mint 4 százalékot erõsödtek a papírok.

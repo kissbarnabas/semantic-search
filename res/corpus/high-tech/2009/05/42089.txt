@@ -1,0 +1,10 @@
+Atom processzor váltja az AMD Geode-ot a világ egyik legkisebb számítógépében
+
+A Fit-PC 2 szakított az elõd gyengécske 500 megahertzes AMD Geode processzorával, melynek helyét egy Intel Atom Z510 lapka vette át. Az Intel processzora 1,6 gigahertzen jár, mellette 1 gigabájtnyi DDR2-memória található. A parányi, 11,5x10,1x2,7 centiméteres, mindössze 330 grammos számítógép kivehetõ, cserélhetõ 2,5 hüvelykes merevlemezzel rendelkezik, mely alapesetben 160 gigabájtnyi adatot tárolhat.
+
+
+
+
+A gép méretei miatt értelemszerûen nem kerülhetett bele optikai meghajtó, azt csak külsõ egységként csatlakoztathatjuk hozzá a hat USB 2.0 kapu egyikén keresztül. A hálózati kapcsolatok vezetékes és vezeték nélküli adapterek segítségével egyaránt kiépíthetõk, elõzõ gigabit sebességre is képes, utóbbi pedig a 802.11 b/g szabványokat ismeri. A hátoldal a LAN-csatlakozó és a négy USB-kapu mellett a külsõ tápegység aljzatát, a hang ki- és bemeneteket, valamint egy HDMI-portot is tartalmaz, de a vezeték nélküli csatoló antennája is ide csavarható fel.
+
+Az elõlap a maradék két USB-port mellett infraporttal és egy miniSD-kártyahellyel rendelkezik. A géphez Windows XP, vagy Ubuntu Linux is kérhetõ, melyek munkaasztala akár 1920x1080 képpontos felbontásban is megjelenhet. A gép a bejelentés idõpontjától már kapható, ára az operációs rendszertõl, valamint kiépítettségtõl függõen 245-400 dollár.

@@ -1,0 +1,18 @@
+Hamarosan véglegesítik az ExpressCard 2.0 szabványt
+
+ A Personal Computer Memory Card International Association (PCMCIA) bejelentette, hogy az utolsókat simítják az ExpressCard 2.0 szabványon, melyhez a ma véglegesített USB 3.0, illetve a PCI Express 2.0 szabványok adják az alapokat.
+
+
+
+Az 1989-ben alapított PCMCIA állítása szerint az ExpressCard 2.0 szabványa épülõ bõvítõkártyák akár tízszeres sebességet is kínálhatnak a jelenlegi ExpressCard-változatokhoz képest. A lényegesen magasabb sebesség kedvez majd az ebbe a szabványba illeszkedõ új memóriabõvítéseknek és adattárolóknak, akár a SATA II interfésszel ellátott merevlemezeknek is.
+
+
+Az ExpressCard 2.0 visszafelé kompatibilis lesz a jelenlegi szabvánnyal, így az ExpressCard 2.0 bõvítõréssel ellátott, de késõbb megjelenõ számítógépek (javarészt noteszgépek) képesek lesznek majd fogadni a jelenleg kapható 1.2 verziószámú kártyákat is, melyek természetesen csak a saját képességeik szerint üzemelnek majd a 2.0-ás résekben is.
+
+A fentiekbõl következik, hogy az ExpressCard 2.0 nem szakít a 34- és az 54 milliméteres fizikai méretekkel, a kártyák külsõre megegyeznek majd a jelenlegi megoldásokkal, bár esély lehet nagyon magas teljesítményre képes kártyaváltozatok esetében a meglévõ konnektorok mellett egy további, extra csatlakozósorra is. A PCI Express-alapú 2.0-ás kártyák 5 gigabit másodperces adatátviteli sebességgel a jelenlegi 1.2-es változat teljesítményének kétszeresét képesek majd nyújtani, az USB 3.0 szabvány szerint üzemelõk pedig a jelenlegi, USB-s változatok sebességének tízszeresét is. 
+
+Jelenlegi Express Card 1.2 változatok
+
+Az 54 és 34 milliméteres szélességû változatokban létezõ, a noteszgéppel USB 2.0 és PCI Express interfészen keresztül egyaránt csatlakozni képes ExpressCard szabvány a 17 éves, 3,3, 5, valamint 10,5 milliméteres változatokban létezõ PCMCIA-kártyák és ezek toldozott-foltozott, továbbfejlesztett változatainak leváltására hivatott új bõvítõhely szabvány.
+
+Az ExpressCard szabvány mellé eddig többek között a Dell, a Fujitsu Siemens, a HP, az Intel, a Lenovo, a Lexar Media, az LG Electronics, a Microsoft, a Sony, a Texas Instruments és a Toshiba állt. A jelenlegi kínálatban már fellelhetõk Wi-Fi adapterek, vezetékes hálózati kártyák, HSDPA modulok, TV-tunerek, FireWire-, párhuzamos, és USB-adapterek, memóriabõvítések és SATA merevlemez-vezérlõk is. Az új szabvány szerint készülõ elsõ termékek a jelenlegieket 2010-ben válthatják, miután a 2.0-ás szabvány véglegesítése a következõ hónapokban megtörténik.

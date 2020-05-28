@@ -1,0 +1,16 @@
+Világrekorder kapacitású FB-DIMM memóriamodul az Elpidától
+
+A világ legnagyobb kapacitású FB-DIMM-jével rukkolt elõ az Elpida. A memóriaéhes alkalmazásokhoz szánt modult a japán vállalat saját tokozási technikájával állította elõ. Az energiatakarékosnak ígért modulok elsõ szállítmányai augusztus végén indulnak meg, a tömegtermelés beindulása pedig az év végére várható.
+
+
+
+A 16 gigabájtos Fully Buffered DIMM-et 2 gigabites DDR2 SDRAM chipekbõl alkotta meg a vállalat, a magas sûrûséget pedig rétegelt tokozási  (stacked FBGA) technikájával tudta elérni -- egy szabványos 240 tûs modulra így 64 darab DRAM-chipet integrált. Ilyen tokozási technikákat évek óta alkalmaz a vállalat a nagy kapacitássûrûség elérése érdekében. A rétegelési technikák, ahogyan nevük is mutatja, több szilíciumlapka egymásra helyezését takarja egyetlen tokon belül, de léteznek megoldások tokok rétegezésére is és egybetokozására is. Ezek a technikák gyakran magukba foglalják a szilíciumszeletek vékonyabbra csiszolását is. 
+
+
+A 64 darab rétegelt DRAM-chip már tisztes hõfejlõdést produkál, nem beszélve az FB-DIMM-eknél meglévõ buffer (AMB) extra fogyasztásáról. Egy FB-DIMM akár 5-8 wattal is többet fogyaszthat egy normál DDR2-esnél, ráadásul a korai implementációk fogyasztása gyakorlatilag egyáltalán nem skálázódott a terheléssel, így egy alacsony terhelésû, nagy memóriakapacitású szervernél a különbség drasztikusan megnövekszik -- igaz, az FB-DIMM teljesítmény szempontjából és magas kapacitású és terhelésû, párhuzamos memóriamûveletekben intenzív környezetbe tervezték. 
+
+Az Elpida ugyanakkor állítja, 16 gigabájtos modulja nagyjából egy 8 gigabájtos fogyasztásával rendelkezik. Ezt alacsony fogyasztású DDR2 DRAM-chipekkel és alacsony fogyasztású IDT AMB-vel éri el. A japán memóriagyártó szerint a szerverpiac igényli ezeket a jelenleg extrém kapacitásúnak számító modulokat, és a jövõben is tovább fókuszál a magas sûrûséget megcélzó fejlesztésekre. Az Elpida és az IDT közleménye szerint úgy értek el kétszeres kapacitást, hogy a fogyasztás változatlan maradt. A magas sûrûség és relatív kedvezõ fogyasztás mellett az Elpida 16 gigabájtos FB-DIMM-je multi-rank, vagyis DRAM chipek több csoportja is hozzáférhetõ párhuzamosan. A 16 gigabájtos modul segítségével nagyobb kapacitást érhetnek el a szerverek, vagy adott kapacitást kevesebb foglalattal, kompaktabb kivitelben -- a magas sûrûség kifejezetten kedvez a virtualizált blade környzeteknek.
+
+
+
+Az FB-DIMM az ipar válasza a növekvõ memóriakapacitás és memóriaszintû párhuzamosság iránti igényekre. A normál DDR2, késõbb pedig DDR3 DRAM-chipeket elmaszkoló buffer segítségével kevesebb huzalozással implementálható egy-egy FB-DIMM csatorna, valamint az egyidejûleg kiszolgálható memóriamûveletek száma is megugrik. Cserébe a modulok magasabb ára mellett nagyobb fogyasztással, és magasabb késleltetéssel kell fizetni közepesnél alacsonyabb terhelésnél -- erõteljes terhelés esetében az FB-DIMM memóriaalrendszer válaszképesebb marad. Az Intel az FB-DIMM egyik fõ kifejlesztõje és támogatója, kettõ-négyutas szerverchipsetjeinek többsége FB-DIMM vezérlõvel bír. 

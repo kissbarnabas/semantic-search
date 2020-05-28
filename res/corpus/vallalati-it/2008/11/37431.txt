@@ -1,0 +1,18 @@
+Itt a világ elsõ nagyfelbontású, színes 3D nyomtatója
+
+Korábban is beszámoltunk már a 3D nyomtatás fejleményeirõl, többek között a normál papírral dolgozó Mcor Matrix 3D készülékrõl, ezúttal teljesítményben és színképzésben számolhatunk be elõrelépésrõl. A ZPrinter 650 az iparág eddigi legnagyobb, legjobb színminõségû és legfinomabb felbontású 3D nyomtató berendezése. 
+
+
+
+Mûszaki fejlesztés, oktatás, építészet, térinformatika és a szórakoztatóipari alkalmazások területére szánják a ZPrinter 650-et. Az új  modellnyomtató nagyméretû, nagy felbontású, többszínû modelleket képes elkészíteni. A munkatér mérete 254x381x203 milliméter, ilyen méretben eddig nem dolgoztak 3D-nyomtatók. A nagy tér több, kisebb modell együttes nyomtatását is lehetõvé teszi.
+
+Irodai környezetben is üzemeltethetõ a Zprinter 650
+
+Toábbra is a Z Corporation az egyetlen cég ebben az iparágban, amely többszínû modell nyomtatására alkalmas 3D-nyomtatókat gyárt. A világon elsõként a ZPrinter 650 fekete nyomtatófejjel is rendelkezik a szokásos cián, bíbor, sárga és színtelen nyomtatófejek mellett, hogy alkatrészenként tetszõleges színt állíthassunk elõ segítségével, anélkül, hogy külön kellene nyomtatnunk az egyes részeket.  A ZPrinter 650 térnyomtató 24-bites, teljes színspektrumot használ öt nyomtatófejjel, hogy egyszerre több színben tudjon nyomtatni. A piacon fellelhetõ más 3D-nyomtatók csak egy színben tudnak dolgozni, elõre színezett kellékanyagok felhasználásával. Ez a megközelítés külön modellnyomtatást kíván, ismétlõdõ anyagbetöltést és a kívánt többszínû modell késõbbi aprólékos összerakását a külön nyomtatott alkatrészekbõl.
+
+Egy több elemet tartalmazó színes modell közelképe
+
+
+A gyártó által közzétett képek alapján a nagyfokú részletesség mellett azért megfigyelhetõk felületi egyenetlenségek az elkészült modelleket és persze az építõanyag nem tökéletesen fehér, ami a gyakorlatban úgy tûnik korlátozza az elõállítható színek számát, fotóminõséget azért senki se várjon -- egyelõre -- ezektõl a készülékektõl. 
+
+Más nyomtatókét kétszeresen meghaladó, 600 x 540 dpi-s felbontással állíthatók elõ a tárgyak, a részletességet és a termelékenységet illetõen is a béta tesztelõ felhasználók nagyon pozitívan nyilatkoztak. A gyártó közleménye szerint a ZPrinter 650 közelítõleg öt-tízszer gyorsabb más rendszereknél, napok helyett órák alatt készítve el a kívánt modellt. A ZPrinter 650 már kapható a Z Corporation világszerte mûködõ viszonteladói hálózatán keresztül, így Magyarországon is, javasolt kiskereskedelmi ára 51 ezer euró.

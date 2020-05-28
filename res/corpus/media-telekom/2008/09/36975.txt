@@ -1,0 +1,18 @@
+Már mobiltelefonon is megmutatja az utcaképet a Google Maps
+
+A Google továbbra sem fogyott ki a fejlesztésekbõl, most a Google Maps lépett egy fokozattal magasabb szintre. A gyakorta támadott Street View szolgáltatás, ahol a térképhez csatolva megjelennek a Google által készített fotók is a helyszínrõl, immáron mobiltelefonon keresztül is elérhetõ.
+
+
+
+A 2005 februárjában bejelentett Google Maps az asztali Google Earth szoftvernek a webes testvére, melynek segítségével nem csak szimplán térképeket és mûholdfelvételeket lehet böngészni, hanem útvonaltervezõként is szolgál, és nem utolsósorban alapja számos úgynevezett "mash-up" szolgáltatáshoz, melyekbõl mára  találunk példákat. A Google Maps alá fejlesztett szolgáltatások segítségével amerikai nagyvárosokban például kiszámíthatjuk a taxiköltséget, egy másikkal megnézhetjük, hogy mennyi szárazföld tûnne el adott tengerszint-emelkedés során, illetve megtudhatjuk, hogy mikor kel és nyugszik a nap, de hazánkban például kereshetünk kocsmákat, szórakozóhelyeket, értékeléssel együtt.
+
+A Google 2007-ben új fejezetet nyitott a szolgáltatásban, amikor is kiadta a Maps mobilos változatát, így végre nem kellett memorizálni a pontos térképet, nem kellett kinyomtatni, hanem bármikor elõhívhatóvá vált útközben is. Bizonyos készülékeknél ráadásul a szoftver a cellainformációkból képes meghatározni, hogy nagyjából hol vagyunk, ami természetesen nem GPS-pontosságú (a GPS-vevõvel rendelkezõ készülékeken a mûholdas helyzetmeghatározás is mûködik), de hasznos lehet. Hétfõn ez, a "mobile My Location" funkció is egy új verziót kapott, ami precízebb helyzetmeghatározást tesz lehetõvé, a korábbi akár többszáz méteres pontatlansághoz képest.
+
+Mindenhol 
+
+A Street View funkció eddig csupán játékszernek tûnhetett, hiszen kizárólag a webes felületen keresztül volt elérhetõ, de a mobil változatba integrálással sokat segíthet a címek megtalálásában. A házszámok bogarászása helyett a gyalogosok betölthetnek egy fotót a keresett címrõl, így csupán az épületet vagy az adott üzlet kirakatát kell felismerni a sikeres célbaéréshez. Ugyanilyen dilemma lehet egy bonyolult keresztezõdésben felismerni, hogy pontosan melyik utcába is kellene bemennünk, vagy ha nem tudjuk betájolni magunkat valahol, akkor nem mindegy, hogy az utca jobb vagy bal oldalán haladunk és melyik irányba.
+
+
+A gyalogosan közlekedõk számára a Google szintén az új javás Maps szoftverben egy új bétaváltozatát mutatta be az útvonaltervezõnek, aminek segítségével néhány kilométeres távokra tervezhetünk gyalogos útvonalakat. A mobil Google Maps így ma már egy teljes értékû mobil navigációs szolgáltatássá nõtte ki magát, mely ingyenesen kínálja a térképek és a mûholdas nézet mellett a különbözõ üzletek listáját, útvonaltervezést, tömegközlekedési információkat, sõt buszmenetrendeket is a világ több mint 50 városában.
+
+Ugyan az új változat több funkciót, pontosabb helyzetmeghatározást és gyorsabb keresést is fel tud mutatni, de egyelõre csak BlackBerry készülékekre és néhány egyéb telefonra elérhetõ. Az iPhone-okra elõretelepített változat még természetesen a régebbi verzió, s az új egy ideig még nem is mûködik az Apple okostelefonján. 

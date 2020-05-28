@@ -1,0 +1,30 @@
+A pénzügyi krízisben a bátor IT-vezetõké a szerencse
+
+A héten zajló Gartner Symposium/ITxpo 2008 fõ témája természetesen a pénzügyi krízis, illetve a villámgyorsan megváltozott körülményekhez való alkalmazkodás. A neves elemzõ- és tanácsadócég szerint a vállalatok informatikai vezetõinek létszámstopra vagy rosszabb esetben leépítésekre és a büdzsék befagyasztására kell számítaniuk, viszont akik a kedvezõtlen körülmények között is elég bátrak hosszú távú, stratégiai döntések meghozatalához, azok elõnyre tehetnek szert a versenytársakkal szemben, amire akkor is építhetnek, ha majd jobbra fordulnak a dolgok.
+
+
+
+Egyre több feladat, egyre kevesebb ember
+
+A floridai Orlandóban mintegy 6 ezer informatikai vezetõ gyûlt össze a Gartner évente tartott rendezvényén, ahol természetesen a mára globálissá vált pénzügyi, gazdasági válság túlélése volt a legfontosabb téma. Az elemzõcég szerint nem lesz olyan mértékû az IT-büdzsék csökkenése mint a dotkom-bukta idején, jövõre az informatikai kiadások 2,3 százalékkal növekedni fognak, bár ez elmarad a Gartner által korábban várt 5,8 százaléktól. Ez azonban globális adat, ami azt jelenti, a növekedés kizárólag a fejlõdõ országokban várható, az olyan fejlett gazdaságokban mint az Egyesült Államok vagy Nyugat-Európa, inkább csökkenésre lehet számítani.
+
+A Gartner vezetõ elemzõje, Peter Sondergaard szerint a krízis leginkább a létszámhiányban lesz tetten érhetõ a cégek informatikai részlegeinél, ami minden menedzser rémálma. Jobb esetben ez létszámstopot, rosszabb esetben pedig leépítéseket jelent majd, miközben az üzlet a megváltozott körülmények között ugyanúgy elvárja majd az informatika támogató mûködését, sõt, a kritikus helyzet miatt talán még "követelõzõbb" lesz mint korábban. Az eredmény: az IT-részlegeknek még több feladat jut, amelyet  kevesebb emberrel kell megoldniuk. Az informatikai vezetõknek fel kell készülnie a legrosszabbra, ki kell választani a kulcsfontosságú munkatársakat, és foggal-körömmel ragaszkodni hozzájuk -- javasolja a Gartner.
+
+A mértéktelen takarékosság kora jön
+
+"A mértéktelen fogyasztás korának vége, a mértéktelen takarékosság kora jön" -- mondta Whit Andrews, a Gartner alelnöke. "A világ megváltozott, és az önök szerepe informatikai vezetõként szintén meg fog változni." Andrews úgy vélekedett, hogy a jövõbeli siker vagy bukás azon múlik, mit tesznek most a cégek. Friss szemmel meg kell vizsgálni minden informatikai projektet, fel kell tenni az olyan kulcskérdéseket, mint a "mire való?", "miért van rá szükség?", "hány ember kell hozzá?", és a válaszok alapján eldönteni, valóban szükségesek-e, illetve kihozhatók-e kevesebb pénzbõl. A projektek között szigorú preferencialistát kell létrehozni, és a legfontosabbakra koncentrálni, miközben a lehetõ legnagyobb tartalékot kell felhalmozni. "Semmi sem olyan erõs mint a készpénz" -- mondta Andrews.
+
+Gond van
+
+A megváltozott körülmények a nyilvánvalóan olyan megoldások felé terelhetik a cégeket, amikkel költségeket takaríthatnak meg, egyszerûsíthetik a mûködést. Ezek a technológiák -- például a virtualizáció -- már eddig is jelen voltak, de a Gartner Symposium/ITxpón elhangzottak szerint épp a pénzügyi krízis lehet majd az a hajtóerõ, a katalizátor, ami az eddig hezitáló cégeket rákényszeríti ezek használatára a hatékonyság növelése érdekében. Fontos szerep jut az infrastruktúra modernizálásának stratégiai szinten, beleértve például a kevéssé hasznos rendszerektõl vagy alkalmazásoktól való megszabadulást. A modernizálást azért nem lehet elhanyagolni, mert akik ezt most meglépik, azok az idõk jobbra fordultával már teljes erejükkel az üzletre, a bõvülésre, a fejlesztésekre tudnak koncentrálni, miközben a többiek még sebeiket nyalogatják.
+
+Innoválj!
+
+Az informatikai részlegekkel szemben támasztott elvárások és a teljesítõképesség között olyan nagy a különbség, amekkora csak lehet. Az IT-vezetõknek minden fineszüket, ravaszságukat be kell vetniük annak érdekében, hogy zárják az ollót. "Az innováció emberi tevékenység, és nem is mindig új technológiákról szól" -- mondta Kathy Harris, a Gartner alelnöke és vezetõ elemzõje. "Gyakran csak arról van szó, hogy megváltoztatjuk az IT-pénzek elköltésének összetételét. Ma az informatikai vezetõk a tranzakciók felgyorsítására koncentrálnak, talán ideje lenne a döntési folyamatokat gyorsítani."
+
+
+ A gyors döntések megszületéséhez elengedhetetlen a kommunikáció felgyorsítása is, például egységesített kommunikációs megoldások (Unified Communications) bevezetésével. A Gartner szerint a közeljövõben kikerülhetetlen lesz a "web 2.0" eszközök vállalati alkalmazása is, és itt nem feltétlenül "vállalati web 2.0"-ról van szó, hanem akár a fogyasztói piacon már mûködõ, bevált eszközök megjelenésérõl a cégek mindennapjaiban. A jelszó: aki lemarad, kimarad. Azok a vállalatok, amelyek nem nyitnak a közösségi platformok felé, csak némán fognak tátogni akkor, amikor igazából hallatni kellene a hangjukat.
+
+Minden dollárt úgy kell elkölteni, mintha az lenne az utolsó
+
+Múlt héten az egyik legnagyobb informatikai kockázatitõke-befektetõ társulás, a kaliforniai Sequoia Capital vezetõje, Michael Moritz beszélt a szilícium-völgybeli vállalatok elnök-vezérigazgatói elõtt a pénzügyi krízis várható hatásairól. Moritz meglehetõsen borús képet festett a közeljövõrõl, szerinte a cégeknek most a növekedés helyett a puszta túlélésre kell játszania, minden más mellékes. Azonnali intézkedéseket kell hozni, költségeket kell csökkenteni és senki nem nézhet vissza -- mondta Moritz. "Minden dollárt úgy kell elkölteni, mintha az lenne az utolsó."

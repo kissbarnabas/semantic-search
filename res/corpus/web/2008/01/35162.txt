@@ -1,0 +1,12 @@
+Újabb vadon terjedõ mobilvírusra bukkantak
+
+Vadon terjedõ mobilvírust talált a Fortinet egyik ügyfele, egy mobilszolgáltató. A Symbian operációs rendszert futtató készülékeket megfertõzõ kártevõ multimédiás üzenetben terjed, és képnek, zenének vagy videónak próbálja álcázni magát. Mivel azonban az üzenetben egy végrehajtható állomány van, és a felhasználónak jóvá kell hagynia a telepítést, ezért a SymbOS/Beselo.A kártevõ csak a valóban óvatlan mobiltulajdonosoknak okozhat gondot.
+
+
+
+Település után a féreg a telefonkönyben tárolt összes számra elküldi magát,  ezzel nem csak bosszúságot, hanem komoly számlát is generálva. Emellett a Beselo néhány saját maga által generált telefonszámra is megpróbál MMS-t küldeni, az eddigi információk szerint ezek mind egy kínai mobilszolgáltató hálózatában található, részben valódi elõfizetõkhöz tartozó számok.
+
+
+ A Fortinet Threat Response Team európai vezetõje, Guillaume Lovet szerint a Beselo nem egy laboratóriumi körülmények között kikísérletezett példakód, hanem egy vadon terjedõ kártevõ, amelynek mintáját az egyik ügyfelük, egy "nagy-nagy mobilszolgáltató) juttatta el hozzájuk. A férget az EMEA régióban találták, és most próbálják felderíteni, mi lehet a kínai szál -- egyes feltételezések szerint Kínába eljutva nagyon gyorsan terjedhet, mivel ott többszáz millió mobilelõfizetõ él.
+
+Biztonsági cégek régóta vízionálják a mobil kártevõk gyors elterjedését, azonban eddig csak laboratóriumi körülmények között szaporodó mintakódokról és elszigetelt esetekrõl lehetett hallani. A korai kártevõk leginkább a Bluetooth-kapcsolatot használták fel a terjedésre, késõbb megjelntek az MMS-ben fertõzõ férgek is, amelyek nem csak fertõznek, hanem a telefonszámlát is felduzzasztják. A Symbian operációs rendszert támadó kódok közös tulajdonsága, hogy csak a felhasználó jóváhagyásával tudnak feltelepülni a készülékre, így ha valaki nem engedélyezi váratlanul felbukkanó szoftverek installálását, gyakorlatilag védve van.

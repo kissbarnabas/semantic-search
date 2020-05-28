@@ -1,0 +1,28 @@
+Április végén érkezik a Nav N Go iGO 8 Europe navigációs szoftver
+
+Már kevesebb, mint két hetet kell várni a Nav N Go legújabb navigációs programjára. A már néhány gyártónál (például HP, Sony) korábban bemutatott szoftver dobozos formában április 28-tól lesz kapható. A mai sajtótájékoztatón elhangzott, hogy bizonyos korábbi változatokhoz a tervek szerint már a jövõ héttõl meg lehet vásárolni, le lehet tölteni a frissítést.
+
+
+
+Átszabták
+
+A 3D-s megjelenítéssel bõvült, sokat okosodott navigációs szoftver memóriakártyás változata egyetlen kivitelben, Európa (kivéve Oroszország) 43 országának részletes térképét tartalmazó változatban lesz megvásárolható hajszálnyival 40 ezer forint alatt. A microSD kártyán érkezõ, miniSD- és SD-adapterekkel felszerelt szoftvercsomag számtalan új funkcióval és 3-dimenziós megjelenítéssel könnyíti meg a navigálást.
+
+A Nav N Go iGO 8 a korábbiakhoz hasonlóan vásárlást követõen rögtön használható, és igen sok GPS-szel felszerelt, vagy külsõ GPS-hez csatlakoztatott Windows Mobile-os tenyérgéppel, okostelefonnal használható -- a bizonyítottan kompatilibis készülékek listája a Nav N Go oldalán a teszteléseknek megfelelõen folyamatosan bõvül. A szoftver elvárja az érintõképernyõt, a legalább 300 MHz-es processzort és 64 megabájtnyi memóriát, optimális futásához azonban legalább 400 MHz-es órajel és 128 megabájtnyi memória szükségeltetik. A támogatott képernyõmódok közül hiányzik a 240 x 240 pixeles felbontás, az általános QVGA mellett azonban VGA és WideVGA sem okoz problémát.
+
+A szoftver felületét teljesen átszabták, a teljes üzemmód mellett egy kevésbé gyakorlott felhasználókat inkább kiszolgáló normál mód is választható, mely egyszerûbb kezelést biztosít. A navigáló képernyõn a három adatmezõ tartalma szabadabban állítható, a navigációt pedig az is segíti, hogy nem csak az éppen következõ, hanem azt követõ navigációs utasítás is kijelzésre kerül, így két egymás utáni gyors forduló nem okoz majd kellemetlen meglepetést a sofõrnek. A képernyõn tisztán látható a tervezés típusa, így láthatjuk, ha gyalogos módban maradt a készülék. 
+
+A térképek nagyítása-kicsinyítése egyszerûbbé vált, három kedvenc nézõpontot pedig "gyorsikonokra" menthetünk, melyek között egyetlen gombnyomással könnyedén váltogathatunk. Az új megjelenítõ motor és felhasználói felület mellett az útvonaltervezés is újabbal bõvült, a "jól követhetõ mód" minimalizálni próbálja a kanyarodások, útvonalváltozatások számát. Az érdekes pontok már nem csak egy adott hely, hanem a tervezett útvonal mentén is kereshetõk, így egy köztes célpont érintéséhez nem feltétlenül kell letérni az optimális útról.
+
+A Nav N Go iGO 8 legfontosabb fejlesztése azonban egyértelmûen a háromdimenziós megjelenítés, Magyarországon csaknem 30 nagyobb városban, például Miskolcon, Szegeden és Gyõrben érhetõk el a 3D-s várostérképek, beleértve az épületobjektumokat is, Budapesten pedig ezek mellett 25 nevezetes építmény, így például a Parlament, vagy a Hõsök tere pontos mása is megjelenik a navigációs képernyõn.
+
+
+
+Frissíthetünk
+
+
+Újdonság a tartalommenedzselõ szoftver is, mellyel szoftver- és térképfrissítéseket, ingyenes és fizetõs extrákat szerezhetünk majd be, sõt, késõbb akár további térképekhez -- például Egyesült Államok, Észak-Amerika -- is hozzájuthatunk. A szoftverrel megszabadulhatunk a felesleges térképektõl is, így plusz helyet szabadíthatunk fel más célra a 2 gigabájtos memóriakártyán. A törölt adatok természetesen késõbb bármikor visszaállíthatók. A saját útvonalak, importált adatok, Google Earth-bõl exportált útvonalak, pontok (KML) is ezzel a szoftverrel másolhatók készülékünkbe.
+
+A Nav N Go néhány napon belül lehetõvé teszi a régi iGO My way felhasználók számára, hogy akár ingyen frissítsék meglévõ szoftverüket az új Nav N Go iGO 8-ra. A verziófrissítés csak interneten keresztül, a my.navngo.com címen lesz elérhetõ. Az új program azok számára érhetõ majd el ingyenesen, akik 2008-ban vásárolták teljes Európa térképpel forgalomba hozott iGO My way 2006 szoftverüket, a korábbi vásárlóknak 89 euróba kerül a frissítés. A korábbi szoftver 1 gigabájtos kártyájára azonban nem fér fel minden térkép, így az új tartalommenedzselõ szoftver segítségével kell kiválasztaniuk, melyekre lesz éppen szükségük, s melyek maradjanak ki a telepítésbõl -- természetesen késõbb másképpen is variálhatják a térképlistát.
+
+A korábbi vásárlók számára a DiFo Magyarországgal közösen csereprogram is indul június 30-ig, bármilyen korábbi, legális iGO kártya leadásával bruttó 28 ezer forintért lehet egy teljes, dobozos iGO 8-hoz jutni. A csere elõtt azonban érdemes ellenõrizni, készülékünk alkalmas-e az iGO 8 futtatására. A Magyarország, illetve a Kelet-Európa térképes iGO My way 2006 felhasználók nem tudnak frissíteni a Nav N Go iGO 8-ra, mert memóriakártyájuk kapacitása nem elegendõ az új 3D-s térképek tárolására. Számukra továbbra is kínálnak majd ingyenes TopMap térképfrissítéseket a 2006-os verzióhoz. Az Nyugat-Európa térképpel rendelkezõ tulajdonosok szintén 89 euróért frissíthetnek majd az interneten keresztül.

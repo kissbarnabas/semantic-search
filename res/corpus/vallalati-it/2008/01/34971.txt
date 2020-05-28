@@ -1,0 +1,14 @@
+Izraeli céggel és EMC-s aggyal erõsít a tárolórendszerek területén az IBM
+
+Az IBM egy nem nyilvános, ám bennfenntes források szerint 300-350 millió dollárhoz közeli összegért megvásárolta az adattárolási megoldásokkal foglalkozó, magánkézben levõ izraeli XIV vállalatot, amely a Nagy Kék tárolási megoldásokkal foglalkozó System Storage részlegébe olvad bele.
+
+
+
+Az akvizícióval nem csak értékes technológiák, hanem komoly szakemberek is az IBM-hez kerülnek. Az XIV igazgatótanácsának elnöke ugyanis az a Moshe Yanai, aki az EMC-nél a 90-es években a csúcskategóriás Symmetrix (ma DMX) tárolórendszereket tervezte, amelyekkel a vállalat az adattárolási piaci élére állt. Yanai összesen 18 szabadalmat jegyez adattárolási területén, és egyes elemzõk szerint az IBM lényegében õt magát akarta megszerezni a felvásárlással.
+
+
+Hogy mekkora az ügylet jelentõsége, azt jól mutatja, hogy 10 éve ez az elsõ akvizíció, amelyet az IBM szerverekért és tárolókért felelõs üzletága végrehajtott, Yanai pedig egybõl "fellow" pozícióban csatlakozik az IBM-hez, ami a lehetõ legmagasabb mûszaki beosztásnak felel meg. Ahhoz, hogy valaki egy ilyen világméretû informatikai cégnél fellow beosztásba kerüljön, lényegében élõ legendának kell lenni.
+
+Yanai 2002-ben hagyta ott az EMC-t és alapította az XIV-t, ahol a  vezetése alatt dolgozták ki azt a technológiát, amely apró darabokra szeleteli a tárolandó adatmennyiséget és egyenlõen elosztja azokat a meghajtók között, ezáltal a lehetõ legnagyobb teljesítményt kihozva a diszkekbõl. Az  XIV Nextra architektúra nem csak jól méretezhetõ, hanem öngyógyító is, valamint saját magát képes optimalizálni a legnagyobb sebesség érdekében, ráadásul olcsó hardvereken is hatékonyan használható -- magyarázta az IBM egyik szóvivõje a felvásárlás indítékát.
+
+Az IBM elsõsorban a "Web 2.0" jellegû felhasználás terjedése miatt vette meg az XIV-t, amelynek architektúrája a vállalat szerint különösen alkalmas a felhasználók által elõállított hatalmas mennyiségû és egyre növekedõ tömegû adat költséghatékony tárolására. Világszerte mintegy 4 petabájt, azaz 4 ezer terabájt adatot tárolnak Nextra rendszerekben.

@@ -1,0 +1,16 @@
+Commodore C64-et idézõ Cybernet &quot;egybeszámítógép&quot;
+
+A Cybernet bemutatta billentyûzettel egybeépített számítógépét, melynek megjelenése a 80-as évek legnagyobb példányszámban eladott gépét a 8 bites Commodore C64-et idézi, ám azzal ellentétben a burkolat alatt mai, igen erõs hardver lapul.
+
+
+
+A Cybernet ZPC-GX31 (Zero Footprint-PC) elsõ ránézésre egy tapipaddal egybeépített multimédiás billentyûzetnek tûnik, vagy épp a fent említett C64 reinkarnációjának, amely a beépített hardverek helyigénye miatt éppúgy, mint a 80-as évek slágere, hátrafelé vastagodik. Valójában egy komplett PC rejtõzik a burkolat alatt, a bal oldalon kapott helyet egy optikai meghajtó, mely ferdén van beépítve, a burkolat felsõ élével párhuzamos. A gép belterében asztali számítógép-részegységek találhatók, hétköznapi 3,5 hüvelykes merevlemez felel az adattárolásért, az adatok feldolgozása pedig kiszereléstõl függõen Core 2 Duo, vagy Core 2 Quad processzorok feladata.
+
+
+A ZPC-GX31 Intel G31 Express Chipsettel ellátott alaplapjába normál DDR2 memóriamodulok illeszthetõk, ezek segítségével akár négy gigabájt rendszermemória is kiépíthetõ. A speciális gépház miatt a processzor hûtésérõl a gyártó által fejlesztett rézalapú, hõcsöves hûtõegység gondoskodik, melynek bordáiról a helyhiány miatt egy nagy helyett két kicsi ventilátor vezeti el a termelt hõt a szabadba.
+
+
+
+A bõvítések Mini PCI és PCI-e szabványok szerint csatlakoztathatók, utóbbi esetben normál magasságú kártya is alkalmazható, mert az egy olyan adapter segítségével csatlakoztatható az alaplaphoz, mely 90 fokban elfordítva az alaplappal párhuzamosan rendezi a kiegészítõ kártyát. A ZPC-GX31 egy további, 2,5 hüvelykes kivehetõ merevlemezzel is kiegészíthetõ, és a korábbi évekre jellemzõ párhuzamos, illetve soros portra csatlakoztatható speciális kiegészítõk is tovább használhatók vele, mert rendelkezik a hátoldalon az ehhez szükséges portokkal. A tápegység nem került bele a gépházba, külsõ egységként szállítja a mûködéshez szükséges 180 wattot.
+
+A gépházon megtalálható egy multiformátumú kártyaolvasó is, amelybe CF kártyaváltozatot is illeszthetünk. A Cybernet nem csak otthoni felhasználásra ajánlja a hétköznapi dobozházban rejlõ gépváltozatoknál kevesebb kábellel összekötendõ kis helyigényû számítógépet, a célzott piaci területek között kórházak, államigazgatási szervezetek, vagy akár bankok -- a ZPC-GX31 bankkártya-olvasóval is rendelhetõ -- egyaránt megtalálhatók. A billentyûzet-PC 629 dolláros ártól vásárolható meg a tengerentúlon, alig többért, mint amennyit 1982-ben a C64-ért kellett fizetni.

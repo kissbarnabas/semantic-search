@@ -1,0 +1,24 @@
+Háromnegyedével csökkent a spamek száma, miután lekapcsoltak egy hírhedt szolgáltatót
+
+Drasztikusan csökkent globálisan a kéretlen reklámlevelek száma, miután egy kaliforniai webhoszting szolgáltató szervereit leállították ezen a héten kedden. A sajtóban megjelent hírek szerint a lefülelt szolgáltató igazi virtuális bûnbarlangot üzemeltetett, ahol a hamisított gyógyszereket kínáló spamektõl a gyerekpornóig minden téma elõfordult. A lekapcsolást követõen pedig egyik pillanatról a másikra 75 százalékkal esett a spam-forgalom.
+
+
+
+Figyelem, az interneten polgárõrség mûködik!
+
+Az IT-biztonsági közösség hosszasabb nyomozása után derült fény pontos részletekre arról a szerverrõl, ami az egyik legkomolyabb koordinátora  volt a globális spamküldésnek. A kaliforniai San Joséban mûködõ McColo Corp.-nál mûködtetett szerver leállítása után az IronPort biztonságtechnikai cég statisztikái szerint soha nem látott mértékben esett a világszerte a kéretlen reklámüzenetek mennyisége. 
+
+Az elmúlt négy hónapban a Security Fix blog/civil csoport adatokat gyûjtött a McColo Corpról, ami egyesek szerint a ma mûködõ egyik leghírhedtebb cyberbûnözõi csoporttal ápol kapcsolatokat. Miután kellõ mennyiségû bizonyítékot találtak, a csoport megkereste azt az internetszolgáltatót, amin keresztül a McColo gépeinek nagy része az internettel érintkezett. A szolgáltató készségesen együttmûködött, bár nem volt annyira proaktív, mint a McColo másik szolgáltatója, aki a hírek hallatán azonnal lekapcsolta kétes ügyfelét a hálózatról.
+
+Látványos 
+
+Azon túl, hogy a gyanúsított cég weboldala nem elérhetõ, amerikai szakértõk tesztjei alapján egyetlen, McColohoz tartozó weboldal sem mûködik az eset óta. A cég természetesen a hivatalos megkeresésekre nem reagál, sõt, a helyi sajtó szerint napok óta egyáltalán nem elérhetõ. A lekapcsolt szerver feladata nem közvetlenül a kéretlen levelek küldése, hanem a botnetek vezérlése, koordinálása volt, így most nagyszámú olyan zombigép lehet a világban, ami jelenleg senki nem irányít. 
+
+
+Az IronPort saját eszközeivel 190 millió spamet számol naponta, az akció napján ez 112 millióra csökkent. A HWSW saját tapasztalatai szerint hazánkban is érezhetõ volt a kiesés, körülbelül harmadára, negyedére esett vissza a .hu végzõdésû emailcímekre érkezett spamek száma is, ami a tegnap már újra növekedésnek indult. A kéretlen levelek összetétele érdemben nem változott, de úgy tûnik az ázsiai, illetve orosz spameket nem, vagy csak kevéssé érintette a McColo likvidálása.
+
+Pünkösdi
+
+Ekkora mértékû kiesés még talán nem volt korábban, hasonlóak viszont igen. Nem olyan régen, szeptemberben kapcsoltak le egy másik shírhedt spamküldõt Kaliforniában, de néhány nappal késõbb új otthont talált az adatbázisának és a programjainak. A jelen helyzet ugyan drasztikusabb, de ez nem jelenti azt, hogy a hatása állandó maradhat. Az új fõhadiszállást az illetékesek napok alatt felálítják valahol máshol, így a gyõzelem rövidnek bizonyulhat, de legalább kellemes érzés. 
+
+A szakértõk számítottak arra, hogy hamar visszaáll a normális rend, körülbelül egy hétre becsülték azt az idõt, amennyi alatt minden rendszert újra létrehoznak a bûnözõk. Sõt, azt jósolják, hogy az idei karácsonyi szezon minden eddiginél több és trükkösebb spamet hoz a felhasználók postafiókjaiba.

@@ -1,0 +1,15 @@
+A rendszergazdák harmada rendszeresen betekint bizalmas céges információkba
+
+A Cyber-Ark az Infosecurity Europe 2009 és az RSA Security 2009 rendezvényen több mint 400 rendszergazdát faggatott, akiknek 35 százaléka vallotta be, hogy már visszaélt kivételezett helyzetével és olyan bizalmas személyes vagy vállalati információt használt fel magáncélra, amelyhez nem lett volna joga hozzáférni. A megkérdezettek leginkább a dolgozók személyes adataira és fizetésére, ügyféladatokra, cégfelvásárlásokkal és összeolvadásokkal kapcsolatos tervekre, marketing-információkra, valamint a leépítésre váró alkalmazottak névsorára kíváncsiak.
+Egyre több vállalat alkalmaz különféle módszereket az emelt
+jogosultságú felhasználók tevékenységének követésére, a megkérdezett
+rendszergazdák több mint 70 százaléka ezek közé tartozik. Ugyanakkor a
+válaszadók közel háromnegyede állította, meg tudja kerülni ezeket az intézkedéseket, vagyis anélkül tudnak érzékeny adatok között kutakodni, azokat lemásolni vagy elküldeni, hogy ennek a tevékenységnek bárhol nyoma maradna. 
+A bizalmas adatok szivárgásával kapcsolatos jelenlegi gyakorlatok
+gyengeségét mutatja, hogy a válaszadók több mint harmada gondolja azt,
+cégétõl kikerült már érzékeny információ és ez a versenytársak kezébe jutott. A cégek ötödénél fordult már elõ belsõ szabotázs vagy az informatikai házirend szándékos megsértése -- derül ki a felmérésbõl.
+
+
+
+
+A válaszadók jelentõs része bevallotta, elbocsátása esetén tízbõl négy rendszergazda magával&nbsp; vinne a cégtõl bizalmas információkat, a legtöbben ügyféladatokat, az e-mail szerver beállításához szükséges jelszavakat, a vezetõk jelszavait, kutatás-fejlesztési terveket és pénzügyi jelentéseket zsákmányolnának. A Cyber-Ark egy évvel korábban is elvégezte ugyanezt a felmérést, akkor a válaszadók zöme csak a vezetõk jelszavait és az ügyfél-adatbázist tulajdonította volna el, a mostani felmérés alapján azonban mindent vinnének, amit csak tudnak.

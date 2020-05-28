@@ -1,0 +1,39 @@
+Összezavarta a GVH az internetszolgáltatókat: mit szabad hirdetni?
+
+Túlértelmezte a december 11-tõl hatályos kormányrendeletet a Gazdasági- és Versenyhivatal: hónapokkal korábbi eljárásainak tapasztalatai alapján úgy ítélte meg, hogy megtévesztõ, ha az internetszolgáltatók hirdetéseikben feltüntetik a maximális elméleti sávszélességet, éppen emiatt szabott ki az elmúlt év során összesen 95 millió forintnyi bírságot a Magyar Telekomra, az Invitelre, valamint a UPC-re.
+
+
+
+A maximum ne csak elmélet legyen!
+
+A december 11-én hatályba lépett, "az elektronikus hírközlési szolgáltatás minõségének a fogyasztók védelmével összefüggõ követelményeirõl" rendelkezõ 229/2008. kormányrendelet az elsõ számú mellékletének 4. pontjában kötelezõvé tette az internetszolgáltatók számára, hogy a garantált minimum értékeket is jelenítsék meg a meghirdetett sávszélesség mellett. A GVH szerint ugyanakkor a maximálisan elérhetõ sávszélesség reklámozása megtévesztõ.
+
+
+
+Miért lassabb az internet a meghirdetettnél?
+A  DSL esetében a DSLAM-tól mért távolság a szûk keresztmetszet, míg a kábelinternetes technológiáknál az azonos alközponton zajló egyidejû adatforgalom lassíthatja a kommunikációt. Fõként a DSL-oldalon jelent komoly problémát, hogy a központtól 1 kilométerre a szolgáltatók még képesek nyújtani a magasabb sávszélességet, de ez fokozatosan csökken minden egyes méterrel, amennyivel távolabb van az ügyfél modemje.
+
+
+
+A "különbözõ DSL díjcsomagok esetében elérhetõ sávszélességrõl adott tájékoztatásokban alkalmazott 'akár' és 'maximális' kitételek [...] alkalmazása önmagában nem jelent automatikus felmentést a vállalatok számára a jogsértés alól. Igaz, az 'akár' és a "maximális" szavak általában véve nem szükségszerûen megvalósuló lehetõséget jelentenek, ám a reklámokban nem elméleti, hanem reális lehetõséget kell közzétenni" -- áll a GVH közleményében. További magyarázatért megpróbáltuk elérni a hivatalt, ami eddig nem sikerült.
+
+ A versenyhivatal a Magyar Telekom, az Invitel és a UPC ellen indított vizsgálatok során azt tapasztalta, hogy a maximális értékek egyszer sem valósultak meg, ebbõl pedig azt a következtetést vonta le, hogy az internetszolgáltatók jogsértést követtek el. Arról nem szól a közlemény, hogy a maximális és a mért sávszélesség között mekkora volt az eltérés, és hogy figyelembe vették-e a technológiai sajátosságokat. 
+
+A kormányrendelet mást mond
+
+Szûcs László, a UPC kommunikációs igazgatója a HWSW-nek elmondta, mindeddig egyértelmûnek tûnt számukra a rendelet szövege, a GVH közleménye alapján azonban nyilvánvalóan szükséges tisztázni az illetékes hatóságokkal az elõírás pontos értelmezését. A kormányrendelet szövegével szövege úgy szól: "az a) pont szerinti értékeket (garantált le- és feltöltési sebesség) az adott díjcsomagnál, a sávszélesség megadása mellett, minden esetben (ÁSZF, hirdetés, egyéb) fel kell tüntetni." A UPC is ennek szó szerinti olvasata alapján alkalmazta már novembertõl azt a gyakolatot, hogy hirdetéseiben mind az elméleti maximum, mind pedig a garantált minimum értékeket feltünteti, ezzel teljes körû tájékoztatást adva az érdeklõdõknek. 
+
+
+ A szövegben található "sávszélesség" szó ugyan pontatlan, hiszen arról nem szól, hogy milyen érték is ez, de a gyakorlatot figyelembe véve vélelmezhetõ, hogy a kormányrendelet a garantált értékek feltüntetését a maximális elméleti sebesség mellé kéri jelölni. Ez két módon érhetõ el, egyrészt úgy, ahogy a Magyar Telekom vagy a UPC is eljárt, mindkét adatot megadja, vagy úgy, mint az Invitel, amely egyiket sem teszi közzé a reklámjaiban, csupán az ÁSZF-ben, de ott szintén mindkettõt. 
+
+Szûcs szerint a GVH kommunikációjában körülírt eljárás merõben eltérne nemcsak az eddig megszokott egységes hazai tájékoztatási módoktól, de a bevett nemzetközi gyakorlattól is. A maximális elméleti értékek feltüntetése ugyanis a közmegegyezés szerint internet-hozzáférési kategória-besorolást jelent, ami alapján az elõfizetõ mérlegelhet, milyen jellegû felhasználásra alkalmas csomagot kíván igénybe venni. 
+
+Amennyiben csak a minimum értékeket ismerhetik meg a felhasználók, akkor téves képet alkothatnak az elõfizethetõ internetkapcsolatokról. Más szolgáltatói vélemények szerint az nem meríti ki a megtévesztés fogalmát, hogy az elõfizetõk nem olvassák el alaposan a szerzõdési feltételeket, sem a hirdetéseket, arról nem is beszélve, hogy a legtöbb laikus felhasználónak fogalma sincs még a mértékegységrõl sem, nemhogy a DSL technológia mûködésérõl vagy annak korlátairól.
+
+Hogy választhat akkor az ügyfél?
+
+Sólyom Balázs, a T-Home sajtókapcsolatokért felelõs munkatársa a HWSW-nek leszögezte, õk mindenképp meg fognak felelni az elõírásoknak, de egyébként nem tartják veszélyesnek a maximális elméleti sávszélesség megjelenítését. A szerzõdésben és az ügyféltájékoztatókban jó ideje benne vannak a garantált és a maximális sávszélességek is, illetve ezek magyarázatai. "A maximális sávszélesség valósabb összehasonlítási alapot jelent az ügyfelek számára, s a cég reklámanyagai minden esetben utalnak arra, hogy a sávszélesség nem garantált" -- mondta Sólyom.
+
+Amennyiben a GVH közleménye nem egy kommunikációs zavar, hanem valóban büntetnék az elméleti maximális sebesség promótálását, akkor azzal óriási galibát okoznának, hiszen fõként a hozzá nem értõk számára lenne érthetetlen, hogy a korábbi 1-2-8-10-20 megabites kapcsolat hogyan arányosítható a garantált értékekkel megjelenõ hirdetésekhez, illetve szinte zsákbamacska lenne, hogy egy adott kapcsolat a garantált felett még mire lehet képes. 
+
+Azt is nehéz lenne megkövetelni a DSL-szolgáltatóktól, hogy az elérhetõ átlagos sebességet tüntessék fel, ugyanis az a távolsággal együtt változik, így ami az egyik ügyfélnek már nem megvalósítható, az a másiknak még alulmúlja a valós értéket. A valós értéknél kevesebbet kommunikálni pedig legalább ugyanolyan megtévesztés, mint az ellenkezõje, esetleg jobban esik, mert úgy érzi a felhasználó, hogy van "ingyen ebéd".

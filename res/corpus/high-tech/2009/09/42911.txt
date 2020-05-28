@@ -1,0 +1,12 @@
+Új, nyílt útinfó szabványt fejleszt a TomTom
+
+A szabad szabvány legnagyobb elõnye, hogy bármely gyártó és bármely térképkészítõ cég adatbázisaival és rendszereivel képes lehet együttmûködni, így nem arról van szó, hogy az egyik cég kieszelt egy új funkciót, hanem siker esetén a jelenlegi TMC rendszert felváltó új megoldás jöhet létre.
+Az OpenLR (Open Location Referencing) technológia  azt ígéri, hogy kevés adatforgalom mellett képes nagy mennyiségû információt szállítani a navigációs eszközökre. A valós idejû információk segítségével a felhasználók sok utazási idõt spórolhatnának meg, hiszen az útvonaltervezéskor és a navigáláskor a készülékek képesek lennének kurrens adatok alapján dönteni. A TMC-hez hasonlóan a balesetek vagy az útépítések megjelennének, azzal a különbséggel, hogy minden azonnal továbbítódna az eszközökre, s nem lennének felesleges hurkok.
+A TomTom szívesen bevonna egyéb fejlesztõket is a projektbe, akik hozzá tudnának járulni egy ilyen rendszer üzemeltetéséhez, illetve az OpenLR-en belül a tartalomszolgáltatók jogdíjmentesen férnének hozzá minden helyszínhez, legyen az bármely navigálható térképen.
+
+A TomTom jelenleg is használ a tervezés javítására saját adatbázisokat, melyeket a felhasználóik eszközeinek adataiból szed össze. Ez viszont nem valós idejû, hanem statisztikai elven mûködik, tehát egyelõre csak azt tudja, hogy mely útvonalak dugulnak be az év adott hónapjában, egy adott napon, napszakban. Képes figyelembe venni, hogy nyaranta Budapest útjai üresebbek, az M7-es pénteken és szombaton viszont mindig sûrû lefelé, de ennek ellenére egy lámpaátkalibrálás vagy egy idõszakos útlezárás miatt máshol kialakuló dugóval nem tud mit kezdeni.
+Ez a valós idejû, adatkommunikációval erõsített funkció lehet tehát a következõ kiugrási pont a navigációs piacon, amit a TomTom biztosan fog használni a készülékeiben. További részleteket a rendszerrõl a szeptember 21-én kezdõdõ ITS World Congress-en árulnak majd el.	     
+                  
+                  
+                  
+                   

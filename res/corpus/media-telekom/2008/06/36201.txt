@@ -1,0 +1,16 @@
+Szabványosítják a femtocellákat, a mobil adótornyokat
+
+[Techworld] A mobilszolgáltatók és készülékgyártók gyors megegyezésre jutottak -- ez igen ritka mostanában --, hogy fel kell gyorsítani a femtocellák piacra érkezését, ennek pedig egyik feltétele egy szabvány létrehozása. A fentomcellák otthonokba telepíthetõ mini adótornyok, melyek jelentõsen javíthatják a harmadik generációs mobilhálózati lefedettséget és akár extra szolgáltatások bevezetésére is lehetõséget nyújthatnak.
+
+
+
+A 3GPP égisze alatt már együttmûködõ piaci szereplõk egy szabványosított protokollt szeretnének kidolgozni, azaz sztenderdizálni szeretnék a femtocellákat. A készülékek így könnyebben piacra kerülhetnének, hiszen biztosított lenne a kompatibilitás, az egységes felület, a garantált mûködés. Az Iu-h szabványt, melyet a Femto Forum segítségével dolgoznak ki, már az év végén, 2008 decemberében véglegesítenék és publikálnák.
+
+A Femto Forum nem üldögélt babérjain, a márciusi találkozójukon már elõkészítették a szabványosítást, számba vették a lehetõségeket. A konkrét követelményeket megfogalmazó szolgáltatók bevonása kissé bonyolultabbá teszi a képletet, azonban a hardvergyártók így valóban olyan készülékeket alkothatnak, melyek megfelelnek az azokat használók kívánalmainak is.
+
+
+A gyártók által készített jelenlegi készülékek egyike sem felel meg maradéktalanul a szolgáltatók igényeinek, így a közösen létrehozott szabvány sokat lendíthet a femtocellák terjedésének ütemén. A már piacra dobott készülékek többsége utólagosan is "okosítható", frissíthetõ, így amennyiben szoftveresen ez megoldható lesz, akár az új szabványra is felkészíthetõk lesznek, pontosan illeszkedve a szolgáltatók igényeihez.
+
+Sprint Airave femtocella
+
+A szabvány elsõsorban azt fekteti majd le, hogy egy femtocella miképpen kommunikáljon az otthoni szélessávú interneten keresztül a szolgáltató átjárójával, a telefonhálózat magjával. Ez fõként a jövõbeni LTE-generációváltás során lehet fontos kérdés, hiszen utóbbi protokolljai mások. Ugyanakkor az LTE-képes mobilkészülékek vissza tudnak majd váltani 3G-kommunikációra is, így ez alapvetõen azért nem okoz nagy problémát.

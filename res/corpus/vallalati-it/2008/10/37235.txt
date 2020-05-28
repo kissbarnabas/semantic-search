@@ -1,0 +1,41 @@
+Symantec: felértékelõdik a katasztrófa utáni helyreállítási tervek szerepe
+
+A virtualizáció megjelenése és terjedése jelentõsen átírta a katasztrófa utáni helyreállítási terveket is, ahogy a vállalatok egyre több alkalmazást és adatot kezelnek virtualizált környezetben -- derül ki a Symantec által 15 országban elvégzett kutatásból, amelynek során több mint ezer szervezetet vizsgáltak. Az eredményekbõl alapján a szervezeteknek komoly problémát okoz a folyamatok automatizálása, ennek hiánya pedig jelentõs hibaforrás.
+
+ 
+
+Felértékelõdik a helyreállítás szerepe
+
+Gyorsan szaporodnak a létfontosságú alkalmazások a szervezeteknél és nõ a tárolt adatmennyiség is, így a helyreállítási tervek (disaster recovery plan) szerepe felértékelõdik. A válaszadók átlagosan az alkalmazásaik 56 százalékát tartják üzletileg kritikusnak, mégis, helyreállítási terv csak ezek alig több mint felére készült -- derül ki a Symantec felmérésébõl. A létfontosságú alkalmazások számának gyarapodása mellett is rögzített költségvetés miatt egyre nagyobb kihívást jelent a rendelkezésr eállás biztosítása, a cégeknek ezért olcsóbb módszereket kell találniuk az alkalmazások megvédésére.
+
+
+ A katasztrófa utáni helyreállításra vonatkozó tervek nem porfogónak készültek, a megkérdezett szervezetek egyharmadánál volt rá szükség az elmúlt év során. A katasztrófák legsûrûbb okai a hardver- és szoftverhibák, a külsõ veszélyek, az áramszünet és az elektromos zavarok, illetve a természeti csapások, de gyakori eset az alkalmazottak véletlen vagy szándékos károkozása is. A leállásokat okozó események rendszerességét ismerve az informatikai szervezeteknek számítaniuk kell arra, hogy  helyreállítási terveiket tesztelniük is kell.
+ 
+Gondot okozhat a virtualizáció
+
+A válaszadók nemzetközi viszonylatban 55, az Egyesült Államokban 64 százaléka a virtualizációt nevezte meg a helyreállítási tervek átértékelését kiváltó legfõbb tényezõként. A virtualizált környezetekben a fizikai környezethez alkalmas folyamatok azonban nem feltétlenül mûködnek, és a helyreállító-eszközök sem minden esetben elég fejlettek, nem biztosítanak ugyanolyan védelmet, mint a fizikai környezetre szabott társaik. A válaszadók szerint virtuális gépeik 35 százaléka még nem szerepel a szervezetek helyreállítási terveiben, és csak 37 százalékuk menti az összes virtuális rendszert.
+ 
+A legtöbb válaszadó arra panaszkodott, hogy a meglevõ eszközei nem, vagy csak korlátozottan képesek virtuális környezeteket menteni és visszaállítani. A második leggyakoribb problémájuk a szervezeteknek, hogy eszközparkjuk túlságosan összetett és heterogén, ami megnehezíti a mentést és a visszaállítást. Összességében a válaszadók 35 százaléka hivatkozott a létfontosságú adatok és alkalmazások védelme terén a túl sok különbözõ eszközre, illetve ennek olyan kedvezõtlen hatásaira, mint a nagyobb oktatási költségek, a hatékonyság hiánya, a nagyobb szoftverköltség, illetve a munkaerõ-igény.
+
+Nem csak tervet kell készíteni, gyakorolni is kell
+
+Helyreállítási tervet nem csak készíteni szükséges, hanem a mûködését ellenõrizni is. Az informatikai szervezetek 93 százaléka próbálta ki a helyreállítási tervét annak létrehozása óta, de ezeknek a próbáknak harminc százaléka nem sikerült maradéktalanul. A 2007-es helyzethez képest javulás látható, akkor ötven százalék volt ez az érték. Csak 16 százalékuknál volt mindig hibátlan a próba. A tesztek sikertelenségének fõ oka a legyakrabban az emberi vagy mûszaki hiba, az elégtelen IT-infrastruktúrát, az elavult tervek vagy a célra alkalmatlan módszerek. 
+
+
+Hazai helyzet
+Pulai András a HWSW megkeresésére elmondta, saját tapasztalatai alapján a hazai vállalatok és szervezetek nemzetközi összehasonlításban jócskán el vannak maradva a helyreállítási tervek fejlettsége terén. Sokan egyáltalán nem is törõdnek azzal, hogyan tudnák katasztrófa után visszaállítani az üzletmenetet, ahol pedig van erre terv, a legtöbbször nem tesztelik, ezért aztán az érintettek nem is szereznek gyakorlatot abban, hogyan kell a tervet végrehajtani.   .
+
+
+
+
+
+
+A felmérés szerint a szervezetek körülbelül 47 százaléka csak évente egyszer, vagy még annél is ritkábban teszteli a helyreállítási terveit. Ennek két fõ oka van: attól félnek, hogy megzavarják az üzletmenetet, illetve szûkösek az erõforrásaik. Meglepõ módon a válaszadók ötöte állította, hogy a helyreállítási terv kipróbálása kihat az eladásra és a nyereségre is. Ázsiában és az EMEA-régióban kevésbé próbálják ki a helyreállítási terveket, itt a megkérdezettek 8, illetve 12 százaléka sohasem tart próbát.
+ 
+"Olyan ez, mint a korcsolyázás vagy a biciklizés, aki sokat sokat gyakorol, az hátrafelé korcsolyázik, míg a másik csak bukdácsol a jégen" -- mondta Pulai András, a Symantec vezetõ rendszermérnöke. "Ilyen katasztrófa esetén a teljes mûködés helyreállítása is. A disaster recovery terv akkor igazán hatékony, ha gyakorolják, rutint szereznek benne. A próbák során fény derülhet arra is, érvényesek-e a jogosultságok, vagy például ugyanott tárolják-e az adott eszközt, ahol a legutóbbi teszt során volt."
+
+A felmérés arra is rámutatott, hogy a vezetõk egyre inkább kivonják magukat a helyreállítási terv készítésébõl. A 2007-es felmérésben a válaszadók 55 százaléka mondta azt, hogy a helyreállítási bizottságban részt vesz a cég informatikai vagy mûszaki felsõvezetõje, illetve informatikai igazgatója, 2008-ra azonban ez az arány  33 százalékra csökkent. Ugyanakkor az is kiderül az eredményekbõl, hogy ahol a vezetõk részt vettek a tervezésben, a helyreállítás általában sikeresebb volt.
+
+Sokáig tart
+ 
+A sikeres helyreállítási próbák alapján úgy tûnik, javulás mutatkozik az iparág ezen területén, de csak a válaszadók 31 százaléka vélte úgy, hogy a fõ adatközpontját ért komoly csapás esetén képes egy napon belül alapszinten mûködni. Csak 3 százalékuk gondolja, hogy 12 órán belül képes alapszinten újra mûködni, a megkérdezettek közel fele szerint a normális mûködés 100 százalékos helyreállítása egy teljes hetet igényel.

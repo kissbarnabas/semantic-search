@@ -1,0 +1,18 @@
+Blokkolná a régi, sebezhetõ böngészõket a PayPal
+
+[Ars Technica] Folyamatosan nõ az adathalász támadások száma, az ilyen kísérletek legtöbbször banki információk, online számlák belépési nevei és jelszavai megszerzésére irányulnak. A Sophos adatai szerint 2006-ban az ilyen céllal kiküldött e-mailek 75 százalékában az eBay-es vagy PayPalos regisztrációnk adatait próbálták megszerezni.
+
+
+
+Az internetes bankok, vagy cégek, mint a PayPal különbözõ megoldásokkal védekeznek az adathalász kísérletek ellen. Az ezen a héten megtartott RSA Conference rendezvényen a PayPal fellebbenti a fátylat néhány jövõbeni ellenszerérõl. A vállalat eddig fõként a már elszenvedett károk enyhítésére, az illetéktelen kezekbe került számlák visszaszerzésére tett erõfeszítéseket, az utóbbi idõben azonban inkább a megelõzésé lett a fõszerep.
+
+A PayPal már eddig is együttmûködött számos internetszolgáltatóval, hogy még azelõtt megállítsa az adathalász e-maileket, mielõtt azok a felhasználók postafiókjába kerülhetnének. Saját e-mailjeiben digitális aláírásokat helyezett el, melyekkel ellenõrizhetõ az üzenet eredetisége. A következõ lépés már ennél drasztikusabb lesz: a PayPal tervbe vette, hogy rendszerét csak újabb, fejlettebb böngészõkkel lehet majd igénybe venni.
+
+
+"A PayPal látogathatósága ezekkel az öreg böngészõkkel ahhoz hasonlítható, mintha egy autógyártó lehetõvé tenné a sofõrök számára, hogy biztonsági öv nélküli autót vásároljanak" -- áll a dokumentumban. Az élvonalbeli böngészõkkel, így a Firefox 2, Internet Explorer 7.0, az Opera 9.25+ és Safari 3.x and up) szoftverekkel a PayPal oldalak gond nélkül látogathatók lesznek.
+
+
+
+A régebbi böngészõkkel, mint a Firefox 1.5, Opera 8, vagy Internet Explorer 6 is beléphetünk majd az oldalra, azonban rögtön egy figyelmeztetést láthatunk, miszerint ezek a szoftverek nem védhetnek meg minket az adathalász támadásoktól, és nem támogatják az Extended Validation SSL aláírásokat. Az ennél régebbi böngészõket, mint az Internet Explorer 5, Opera 4-7.2, vagy Firefox 1.0 már teljesen blokkolni fogja a PayPal.
+
+A phishing, azaz adathalász támadások itthon is egyre gyakoribbak. A legutóbbi nagy támadás a Raiffeisen Bank hazai ügyfeleit érte, akiket egy az eredeti banki oldalra megszólalásig hasonlító, adathalász oldalra irányítottak, majd ott belépési neveket és jelszavakat kértek tõlük azonosítás céljából. Az ilyen kísérleteket az egyre okosabb adathalász szoftverek, illetve maguk a továbbfejlesztett böngészõk is megpróbálják kiszûrni -- a fenti levelek ellen azonban egyelõre tehetetlenek.

@@ -1,0 +1,16 @@
+Elég egy szabad USB-kapu az Iogear vezeték nélküli képtovábbítójának
+
+Vezeték nélkül lehet továbbítani a számítógép képét bármilyen D-sub, azaz VGA-bemenettel rendelkezõ megjelenítõre az Iogear új adapterével -- a gyártó azonban ezúttal nem egy újabb VGA-átjátszót hozott forgalomba, a két egységbõl álló kit használatához ezúttal nem kell lefoglalni vagy megosztani a PC VGA-kimenetét, elég egy szabad USB-kaput keresni.
+
+
+
+Az Iogear Wireless USB to VGA kit a gyártó szerint az elsõ olyan vezeték nélküli képtovábbító rendszer, mely nem a PC erre a célra rendszeresített kimenetérõl kapja a képet, hanem egy speciális eszközrõl -- tulajdonképpen egy külsõ USB-s videovezérlõrõl. Az USB Implementers Forum által is bevizsgált és jóváhagyott kit pendrive-méretû jeladóját ennek megfelelõen a számítógép valamelyik USB-portjához kell csatlakoztatni, míg a vevõegység egy szabványos D-Sub kimeneten át küldi a képet a megjelenítõnek.
+
+A Wireless USB to VGA kit a gyártó elképzelése szerint tárgyalásokon, projektorokhoz csatlakoztatva és otthon, a szórakoztatóelektronikai rendszer részeként egyaránt beválhat: a rendszer mindenesetre maximum 15 méteres sugarú körben képes továbbítani 720p felbontású képjelet. A HD-felbontás alkalmazása ettõl függetlenül nem feltétlenül jelenti azt, hogy bármilyen HD-mozi átjátszható lesz a készülékkel, az analóg megjelenítési rendszer ugyanis semmilyen tartalomvédelmi algoritmust nem implementál, így a Blu-ray filmek képe is csak csökkentett felbontásban jelenhet meg.
+
+
+
+
+Az Iogear megoldása mindazonáltal így is jó eséllyel csak átmeneti szerepet tölthet be addig, amíg a kifejezetten vezeték nélküli kép- és hangtovábbításra rendszeresített átviteli szabványok elkészülnek. A több iparági szereplõ által közösen fejlesztett Wireless Home Digital Interface (WHDI) szabványosítási folyamata az utóbbi hónapokban jelentõsen felgyorsult, így jövõre már megjelenhetnek az elsõ WHDI-kompatibilis eszközök. Ezek egymástól maximum 30 méteres távolságra tudnak majd továbbítani akár 1080p felbontású képet és többcsatornás, Dolby Digital vagy DTS hangot.
+
+Az Iogear vezeték nélküli USB-VGA átjátszója szeptemberben jelenhet meg a boltokban, 229 dolláros ajánlott fogyasztói áron.

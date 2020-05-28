@@ -1,0 +1,12 @@
+Elindult a felkészülés a Windows 7 érkezésére
+
+A közelgõ Windows 7 és Windows Server 2008 R2 operációs rendszerek érkezésére való felkészülés támogatására új  Ecosystem Readiness programokat indított a Microsoft. Redmond elsõsorban a hardver- és szoftverfejlesztõket igyekszik támogatni abban, hogy termékeik kifogástalanul együtt tudjanak mûködni az új platformokkal, amihez béta buildeket, tesztelõ eszközöket, dokumentációt és tesztlabort is kínál. 
+
+
+
+A Microsoft az API-kész Windows 7 bétaverzió elkészültét követõen osztotta meg elõször az operációs rendszer elsõ bétáját, majd a stabilnak minõsített új béta buildekre alapozva most, februárban elindította az Ecosystem Readiness Programot. A végleges programozási interfészekkel ugyanis a szoftver- és hardverfejlesztõk megkezdhetik a tesztelést, és a kapott eredmények azonosak lesznek a végleges, piacra kerülõ Windows 7-tel is, ezen a téren a Microsoft ugyanis már nem változtat a rendszeren. A Microsoft szerint e téren sokat fejlõdött a cég megközelítése a korábbi Windows-kiadásokhoz képest.
+
+
+A Microsoft minden szükséges eszközt rendelkezésre bocsát annak érdekében, hogy a partnerek kompatibilissé tegyék vele termékeiket, kihasználva az operációs rendszer adta lehetõségeket, mint például a multi-touch támogatáss, legyen szó szoftverrõl vagy hardverrõl. A vállalat leszögezi ugyanakkor, hogy Windows Vistát támogató alkalmazások és eszközök többségében elméletileg ugyanúgy kellene mûködnie Windows 7 alatt is -- a továbbfejlesztések azonban elkerülhetetlenül okoznak eltéréseket, és ezekre mielõbb érdemes fényt deríteni.
+
+A Readiness programhoz történõ csatlakozás azért is fontos, mert a fejlesztõk így férhetnek hozzá az aktuálisan legfrissebb béta kiadásokhoz -- a publikus béta kedden zárult. A Microsoft ezenkívül  A Windows 7 mellett hasonló program indult a kisebb inkrementális fejlesztéseket felvonultató Windows Server 2008 R2 támogatására is. Mindkét operációs rendszer 2010 elejére várható. A Readiness programhoz itt lehet hozzáférni. 

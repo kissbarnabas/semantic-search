@@ -1,0 +1,28 @@
+ODF-et és PDF-et is támogat a Microsoft Office 2007 SP2
+
+A Microsoft bejelentette, hogy az Office 2007 jövõre érkezõ második szervizcsomagjának telepítése után az irodai csomag teljes körû támogatást nyújt majd az XPS, ODF és PDF állományokhoz. 
+
+
+
+Támogatás az ODF-hez, PDF-hez és XPS-hez
+
+A 2009 elsõ felére ígért Office 2007 Service Pack 2 felhasználói megnyithatják és szerkeszthetik az ODF fájlokat, a munkájukat pedig az eddig támogatott formátumok mellett ODF-be, XPS-be vagy PDF-be is menthetik anélkül, hogy ehhez bármiféle kiegészítõt, plugint, konvertert vagy akármilyen külsõ alkalmazást igénybe kellene venniük. Az SP2 telepítése után az Office 2007-ben alapértelmezetté tehetõ az ODF formátum használata. A redmondi cég emellett továbbra is fejleszti a nyílt forrású Open XML-ODF konvertáló szoftvert, amelyek segítségével az Office XP-be és Office 2003-ba is importálhatók ODF fájlok.
+
+"Az ügyfelektõl és kormányzati szervektõl már régóta halljuk, hogy ezt várják tõlünk" -- mondta Tom Robertson, a Microsoft szabványokért és együttmûködésért felelõs vezetõje. "Azért is fontos ezt most bejelenteni, mert részt kívánunk venni az ODF karbantartásában." A Microsoft tagja lesz az ODF mögött álló OASIS-nek (Organization for the Advancement of Structured Information Standards). Az OASIS-en belül létrehoznak egy olyan munkacsoportot, amely az ODF és az Open XML kompatibilitását hivatott elõmozdítani, és az sem kizárt, hogy végül a két formátum közös alapokra épüljön. A Microsoft emellett azt is bejelentette, hogy aktívan részt kíván venni az XPS és a PDF szabványosítási folyamatában is.
+
+"A bejelentés az interoperábilitás gyõzelme" -- mondta lapunknak Lerch Attila, a Microsoft üzletfejlesztési igazgatója. "Az Office 2007 által támogatott formátumok kiterjesztése még könnyebbé teszi a felhasználók életét, akik ezután külsõ konverterek, szûrõk nélkül kezelhetik ezeket az állományokat. Ugyanakkor továbbra is az a véleményünk, hogy bizonyos feladatokra az üzleti alkalmazások hordozó formátumaként tervezett Office Open XML alkalmasabb az ODF-nél."
+
+A szabványos OOXML támogatás csak az Office 14-ben érkezik
+
+A Microsoft által támogatott és nemrégiben ISO-szabvánnyá vált Open XML immár szabványos verzióját még nem fogja támogatni az Office 2007 SP2, az csak az irodai szoftvercsomag következõ, 14-es változatában érkezik meg, amely várhatóan 2009 végén vagy 2010-ben kerül piacra. Ennek oka, hogy a szabványosítási folyamat során a formátumot számos ponton módosították, és ezeket a módosításokat úgy kell átvezetni, hogy az Open XML közben kompatibilis maradjon az Office 2007-ben bevezetett, de még nem szabványos verzióval is.
+
+A Microsoft kritikusai szerint az ODF-támogatás bejelentését is ez indokolja. Mivel az utóbbi idõben számos ügyfél, elsõsorban kormányzati szervezet felõl elvárást lett az ISO-szabványos dokumentumformátumok támogatása, és az Office 2007 egyelõre nem támogatja az ISO-szabványos OOXML-t, ezért a Microsoft addig az ODF-fel próbálja meg befoltozni a rést a szoftveren, hogy ne veszítse el a megrendeléseket -- mondja Andy Updegrove, az ODF egyik zászlóvivõje, a Linux Foundation alapítója.
+
+
+Lerch Attila lapunk érdeklõdésére elmondta, az Office 2007 által implementált OOXML a szabványos változatnak egyfajta részhalmaza, így az ebben létrehozott fájlok, például szöveges állományok, táblázatok vagy prezentációk a késõbbiekben is olvashatók, szerkeszthetõk, használhatók maradnak az Office késõbbi verzióiban is, illetve minden olyan szoftverben, amely támogatja az OOXML-t. Az OOXML szabványban bekövetkezett változások elsõsorban az üzleti funkcionalitást érintik -- magyarázta Lerch.
+
+Kína saját dokumentumformátumát is támogatja a Microsoft
+
+A redmondi cég emellett azt is közölte, hogy támogatja a kínai nemzeti dokumentumformátumot, a UOF-et (Uniform Office Format). A vállalat ennek érdekében részt vesz egy nyílt forrású projektben, amelynek célja egy UOF-Open XML konvertáló program létrehozása, de a késõbbiekben a kínai piacra szánt Office-változatok natív támogatást nyújtanak majd az ilyen állományokhoz.
+
+"A termékeink nyíltságának növelésével, és a dokumentumfotmátumok fejlesztéséért és karbantartásáért felelõs szervezetekhez csatlakozással új lehetõségeket nyitunk a fejlesztõk [...] elõtt, beleértve a nyílt forrású közösségeket, hogy új értéket hozzanak létre az ügyfelek számára" -- mondta a bejelentés kapcsán Chris Capossela, az Office-ért is felelõs Microsoft Business Division vezetõje.

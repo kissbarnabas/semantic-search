@@ -1,0 +1,16 @@
+Kipróbálható a Google Android 1.5 SDK
+
+A Google betekintést enged mobil operációs rendszerének hamarosan megjelenõ 1.5-ös verziójába, a programozók már most készülhetnek az új, javított, ráncfelvarrt Andorid érkezésére. A demó mellett egy szoftverfejlesztõi csomag (SDK) is elérhetõvé vált, ami ugyan mûködõképes, de a cég szerint még nem érdemes programokat kiadni a korai változattal.
+
+
+
+A "Cupcake" kódnéven futó Android 1.5 frissítés számos új lehetõséget ad hozzá a Google Linux-alapú operációs rendszeréhez, s befoltozza azokat a réseket, melyek a legtöbb kritika alapját adták a T-Mobile G1 megjelenése után. Változik a kezelõfelület is, s a legtöbb funkción csiszoltak az elsõ felhasználói tapasztalatok alapján. Az egyik legfontosabb hiánypótlás a kijelzõn megjelenõ virtuális billentyûzet, amit sokan hiányoltak.
+
+Az Android 1.5 megjelenésével lehetõség nyílik majd videók rögzítésére és azok lejátszására, illetve a felvett mozgóképek akár közvetlenül is feltölthetõek lesznek a YouTube-ra. A multimédiás képességek javítása mellett a Google több elemet átemel a Chrome böngészõbõl a mobil operációs rendszerbe, például a Squirrelfish technológiát, ami gyorsabb JavaScript-futtatást tesz lehetõvé. Az új fejlesztõkészleten belül egy továbbfejlesztett API is bemutatkozik, ami a widgetek programozását teszi könnyebbé. 
+
+A jövõbeni SDK-k mindegyike kivétel nélkül az Android több verzióját is támogatni fogja, azaz a programozók több verzióra is elkészíthetik szoftvereiket, anélkül, hogy több fejlesztõi kitet kellene használniuk, illetve a telepítendõ programok közül sem kell majd több verziót elérhetõvé tenni. Az 1.5-öt is tartalmazó SDK-ból egy korai változat máris letölthetõ, igaz a Google hangsúlyozza, hogy ez még messze nem a kész változat.
+
+
+"Bátorítok mindenkit, hogy kezdjen el dolgozni ezzel a korai SDK-val, de ugyanakkor kérek mindenkit, hogy ne feledje, az Android 1.5 még nincs kész" -- írta Xavier Ducrohet az Android fejlesztõi blogon. "Az API-k többsége már mûködik, de a végsõ változatban még lehetnek változtatások." Így nagyon fontos, hogy fejleszteni el lehet kezdeni az új SDK-val, de ezzel készült programokat még nem érdemes kiadni, mert nem biztos, hogy azok a végleges eszközökön mûködni fognak. 
+
+Nem kell viszont sokat várni a teljes verzióig, hiszen a Google ígérete szerint április végén már biztosan megjelenik az új Android. A ráncfelvarrás rá is fér a szoftverre, hiszen fel kell vennie a harcot az Apple, Nokia, Palm és RIM operációs rendszereinek új változataival. Szoftveresen az elõny az Androidnál lehet, viszont az igazi probléma eddig sem a gyenge tudás volt, hanem a készülékek hiánya. Egyelõre csak a HTC az Android-úttörõ, de idén várhatóan megtörik a jég, hiszen a Samsung, a Sony Ericsson, a Motorola és az Asus-Garmin biztosan elõrukkol év végéig a Google operációs rendszerét használó okostelefonokkal.

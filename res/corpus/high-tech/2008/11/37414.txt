@@ -1,0 +1,14 @@
+Nincs változás a szuperszámítógépeket rangsoroló lista élén
+
+Frissült a világ legnagyobb teljesítményû szuperszámítógépeit rangsoroló Top500 lista, amelynek élén nincs változás, továbbra is a Los Alamos National Laboratoryban mûködõ IBM Roadrunner az éllovas (1,1 petaflops), a nemrégiben továbbfejlesztett Jaguar (1,06 petaflops) szoros versenyben a második helyen végzett. Eddig ez a két rendszer törte át az 1 petaflopsos álomhatárt, mindkettõ az amerikai energiaügyi minisztérium (DoE) tulajdonában van, mint ahogy a tíz legerõsebb gépbõl hét.
+
+
+
+Hogy a szuperszámítógépek teljesítménye milyen gyorsan növekedik, jól mutatja, hogy a júniusi Top500 listára már 9 teraflopsos teljesítménnyel fel lehetett kerülni, a frissebb rangsor utolsó helyezettje ezzel szemben 12,6 teraflops teljesítményû -- fél éve ez még a 267. helyre lett volna elég. Az 500 legerõsebb gép összesített teljesítménye 16,95 petaflops, 44 százalékkal több mint júniusban, és közel két és félszer annyi mint egy évvel ezelõtt.
+
+Az Egyesült Államok továbbra is õrzi szuperhatalmi pozícióját a nagyteljesítményû számítástechnika területén, az 500 legerõsebb gépbõl 291 az USA-ban található. A legerõsebb olyan gép, ami nem az Egyesült Államokban található, a kínai Dawning 5000. Európa 151 rendszerrel képviseli magát a listán, Ázsia pedig 47-tel. Fél évvel ezelõtt Európa még több mint 180 rendszert mondhatott magáénak a Top500-on, a kontinensen Nagy-Britanniában és Németországban található a legtöbb szuperszámítógép.
+
+
+ Az Intel dominanciája egyre erõteljesebb a nagyteljesítményû számítástechnika világában. A Top500 listán szereplõ rendszerek több mint háromnegyede Intel processzorra épül, a második legnagyobb processzorszállító az IBM, a harmadik pedig szoros versenyben az AMD. A négymagos chipek villámgyorsan átvették az uralmat, az 500 gépbõl 336-ban már ilyenek dolgoznak, 153-ban kétmagosak, 4-ben pedig egymagosak. A PlayStation 3-ból ismert kilencmagos Cell chipre 7 szuperszámítógép épül az 500-ból.
+
+Változás történt ugyanakkor a szállítók listáján, a HP megtörte az IBM hegemóniáját. Az 500 legerõsebb szuperszámítógépbõl 209-et a HP szállított, az IBM 188 darabbal képviselteti magát a listán.

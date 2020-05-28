@@ -1,0 +1,27 @@
+Még mindig sokan választják új géphez is a Windows XP-t
+
+[CW/HWSW] Az újonnan vásárolt PC-k több mint egy harmadánál a régebbi Windows XP-re cserélik a Vista helyett -- derül ki a Devil Mountain Software kutatásából. A lefelé frissítések egy része még a gyárban történik, de számos felhasználó önállóan oldja meg az XP telepítést.
+
+
+
+A közösségi alapokon mûködõ tesztelési hálózatot mûködtetõ Devil Mountain Software Inc szerint az általuk vizsgált három ezernél is több PC közel 35 százalékán a gyárilag telepített Vista helyett továbbra is az XP-t választották a felhasználók. Craig Barth, a Devil Mountain technológiai vezetõje elmondása szerint a gépek egy részét már a gyártóknál, mint a HP vagy Dell, eleve XP-vel szerelik fel, kihasználva a Vista licenc által biztosított lehetõséget, illetve gyakran a felhasználók maguk végzik el a visszabutítást - írja az amerikai Computerworld.
+
+A tesztelési hálózaton belül a cég kigyûjtötte az adatbázisból azokat a gépeket, melyeket az elmúlt fél évben vásároltak, amikor is a Microsoft operációs rendszerei közül már csak a Vista licenc volt megvásárolható a gépekkel együtt. A válogatást a számítógépek és azok alkatrészeinek modellszámai, a gyártók katalógusai alapján állították össze. 
+
+Nem kell a csilli-villi 
+
+A 35 százalék csak egy becslés, hiszen csak a mi felhasználóink attitûdjét tükrözi csupán, viszont az biztos, hogy az embererk élnek a legális Vista downgradelehetõségével -- mondta Barth. A Microsoft végfelhasználói licenc szerzõdésének alapján a Vista Business és a Vista Ultimate visszaváltható XP Professionalre, illetve a Vista Enterprise verziót választó vállalatok is megtehetik ugyanezt. 
+
+
+Habár a Microsoft nyugdíjazta a Windows XP-t június végén, azaz leállította a hétéves operációs rendszer szállítását a kereskedõk és a nagy gyártók irányába, de néhány OEM gyártó továbbra is forgalmaz új PC-ket elõretelepített XP-vel. A HP például ígéretet tett arra, hogy 2009 júliusig megtartja az asztali gépeknél, munkaállomásoknál és notebookoknál egyaránt az XP választásának lehetõségét. 
+
+
+
+A Devil Mountain szerint az eladott Vista licencek száma nem egyezik meg a valójában ezzel az operációs rendszerrel használt rendszerek számával. Ezen állításukat az "Exo.performance.network" tesztjeinek adataira alapozzák, melyben számos nagyvállalati ügyfelük gépeinek adatai is szerepelnek. Ez a közösségi tesztkörnyezet, az Xpnet, teljességgel felhasználók által vezérelt projekt. A rendszeres szavazások, kérdõívek eredményei közvetlen visszacsatolást jelentenek a résztvevõknek az adott témákban és fókusz területeken. Kiemelten foglalkoznak például a közös Windows alkalmazások és szolgáltatások viselkedésével, vizsgálják a különbözõ OS-ek és azok verziói közti migráció hatásait, összehasonlítják a különbözõ platformok valós hatékonyságát, illetve termék életciklus elõrejelzéseket készítenek a hardver/szoftver kombinációkhoz.
+
+Világméretû tesztkörnyezet 
+
+Az elõzõ évben a Devil Mountain készített egy Vista-XP összehasonlító teljesítményvizsgálatot, melynek eredményei alapján azt állították, hogy az XP a valóságban jóval gyorsabb utódjánál. Craig Barth szerint azóta sem változott túl sok minden, majd hozzáteszi: "Minden, amit láttam, tisztán azt mutatja, hogy a Vista egy olyan operációs rendszer, melynek sosem kellett volna megjelennie."
+
+
+Barth állítása szerint, ha a Vistát lecsupaszítjuk annyira, hogy funkcionalitásban a lehetõ legközelebb álljon az XP-hez, még akkor is 40 százalékkal lassabban teljesített. "A Vista teljesítménye egy folyamatos probléma, az egyetlen dolog, ami megmenti a Microsoftot, a gyorsabb processzorok és a több memória, ami jellemzi a mai PC-ket. Moore törvénye mindig az õ oldalukon állt."

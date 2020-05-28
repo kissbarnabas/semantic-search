@@ -1,0 +1,14 @@
+Negyed évszázados trónját vesztheti a MIDI egy új hangszermodellezéssel szemben
+
+[Ars Technica] Negyed évszázada velünk van, eddig mégsem talált ki senki rugalmasabb és jobb, egyszerûbb megoldást a zenészek számára a MIDI-nél. A Rochester Egyetem professzora, Mark Bocko és kutatótársai úgy gondolják találtak egy jobb megoldást, mellyel egy 20 másodperces klarinétszólót kevesebb mint 1 kilobájtnyi adatban tudtak kompletten eltárolni.
+
+
+
+Bocko professzor és két doktorandusz kutatótársa, Xiaoxiao Dong és Mark Sterling kombinálták a fizikai hangszermodellezést a zenész mozdulatainak, tevékenységének szimulációjával, lényegében a MIDI interfész által közvetített adatokhoz újabbakat rögzítve. Az igazi különlegességge a megoldásnak, hogy a hangszer szintéziséhez akusztikus elemzést is alkalmaztak.
+
+ A MIDI egyszerûbb megközelítésével szemben Bocko programja szó szerint meghallgatja a zenész elõadását, mérve és feljegyezve minden apró paramétert, egyben rögzítve a zenész teljes tevékenységét, ujjainak mozgását, légzésvételét és még számos más adatot. A begyûjtött adatokból egy "fonetikus szókincs" készíthetõ, mellyel a MIDI-hez hasonló kisebb állományméret mellett írható le pontosabban egy hangszer megszólaltatásának mikéntje.
+
+
+A rendszer egyelõre egyetlen klarinét hangját képes megszólaltatni, a kutatócsapat egyelõre ezt az egyetlen hangszert modellezte le. Az adatokat másodpercenként húszszor rögzítik, mely igény szerint tovább növelhetõ. A projekt eredeti célja az volt, hogy megvizsgálja a zenei elõadások eredeti formájú közvetítésének lehetõségét az Internet2 hálózaton keresztül, a kutatás azonban késõbb más irányt vett.
+
+Az új elgondolás szerinti rögzítés eltér a MIDI kiegészítéseiként szánt más megoldásoktól, mint például az Open Sound Controltól, hiszen a megszólaltatott hangjegyek mellett ez konkrétan azt is leírja, hogyan, miképpen szólaltatja meg fizikálisan a hangszert az elõadó. A pszichoakusztikus tömörítést, mint például az MP3 formátum ez a megoldás garantáltan nem váltja le, de nagy segítséget jelenthet késõbb például a zeneszerzõk számára.

@@ -1,0 +1,20 @@
+Az Apple az élre állt a böngészõk gyorsasági versenyében: itt a Safari 4 béta
+
+[IW/HWSW] A böngészõháború fokozódik, s a Chrome, Opera, Internet Explorer 8, Firefox, Fennec és a napokban bejelentett Gazelle mellett az Apple is erõsít. Tegnap megjelent a Safari 4 nyilvános bétája, melyrõl egyszerûen azt állítja a fejlesztõ, hogy a világ leggyorsabb és leginnovatívabb böngészõje.
+
+
+
+"Az Apple azért hozta létre a Safarit, hogy visszahozza az innovációt, sebességet és a nyílt szabványokat a webböngészõk világába, s a mai napon ezen törekvésünk irányába egy újabb nagy lépést tettünk" -- mondta Philip Schiller, az Apple termékmarketingért felelõs alelnöke. "A Safari 4 a leggyorsabb és a leghatékonyabb böngészõ Mac és Windows platformra, a HTML5 és a CSS 3 szabványok jelentõs integrációjával megerõsítve, ami lehetõvé teszi a következõ generációs webes alkalmazások használatát."
+
+Ahogyan a Google a Chrome esetében a V8 JavaScript-motort  , úgy az Apple az új "Nitro JavaScript" megoldásra esküszik, mely állítása szerint harmincszor gyorsabb, mint az Internet Explorer 7 és több mint háromszor gyorsabb, mint a Firefox 3. A mosópor- és kozmetikumreklámokhoz hasonlóan arra is kitér a marketing, hogy a Safari 4 háromszor gyorsabban tölti be a weboldalakat mint riválisai -- az apróbetûs kitétel persze az, hogy ezek az adatok függnek a szoftvert futtató rendszer konfigurációjától, a hálózati kapcsolatoktól és egyéb tényezõktõl.
+
+Annak ellenére, hogy kissé komikus a reklámokból ismert összehasonlítgatás, a böngészõháborúban mégis ez tûnik a legfontosabb kritériumnak. Az Apple, Google, Microsoft, Mozilla és az Opera is felismerte, hogy a siker érdekében fontos a minél gyorsabb mûködés.
+
+Látványos, mint mindig 
+
+A citált összehasonlítás ugyanakkor csalóka lehet, hiszen a Safari 4 nem méri önmagát a Chrome, a Firefox 3.1 illetve az Internet Explorer 8 RC1 Windows verzióihoz, és az Apple által innovatívnak nevezett funkciók nagyrésze is elérhetõ Firefox alatt is, igaz ott többnyire olyan kiegészítõk révén, mint a gyorsan népszerûvé vált Ubiquity parancssoros interfész.  Amiben viszont biztosan aranyérmes a Safari 4: elsõként teljesítette sikeresen a Web Standards Project Acid 3 tesztjét, ami a jelenleg használt webes szabványokkal való kompatibilitást vizsgálja. 
+
+A böngészõ felülete elsõ ránézésre valóban számos újdonságot hordoz, az Apple beemelte például a népszerû "Cover Flow" navigációt a webes elõzmények és a könyvjelzõk kezelésére, illetve a Chrome-hoz hasonlóan grafikusan jeleníti meg a leggyakrabban látogatott oldalak elõnézeti képét. További figyelemre méltó fejlesztések a fülek drag-and-drop kezelése, a címmezõk automatikus  kitöltése, az intelligens keresõ, minden elemre kiterjedõ zoom, beépített webfejlesztõi eszközök. 
+
+
+Az elsõ felhasználói tesztek egy része alátámasztja, hogy valóban gyors szoftverrõl van szó, viszont azt több tesztelõ is megjegyzi, hogy a bétaverziójú Apple böngészõ Windowsos verziója nem túl stabil, s gyakran éri fagyhalál. A HWSW olvasói természetesen hamarosan egy alapos, mindenre kiterjedõ, kritikus tesztet olvashatnak az új jövevényrõl.

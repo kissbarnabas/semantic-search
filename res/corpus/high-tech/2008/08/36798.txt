@@ -1,0 +1,22 @@
+Kína bemutatta következõ generációs mikroprocesszor-architektúráját
+
+Az idei Hot Chips konferencia keretén belül szerdán a bemutatkozott a kínai fejlesztésû Godson-3 architektúra, melynek implementációra jelenleg is fejlesztés alatt áll. Az új többmagos chip a korábbinál egy nagyságrenddel gyorsabb x86-os végrehajtást és a jövõben könnyedén skálázható architektúrát ígér. 
+
+
+
+MIPS64 és x86 egyben
+
+A Godson-3 lesz az elsõ kínai fejlesztésû mikroprocesszor, mely négy általános célú processzormagot integrál egyetlen lapkára. Az STMicroelectronics 65 nanométeres eljárásán implementált chipet a Kínai Tudományos Akadémia Számítógép Technológiai Intézetének 200 mérnöke fejleszti, a tape-out (a chip terveinek véglegesítése) még év vége elõttre várható.  A chip fogyasztása legfeljebb 10 watt, 1 gigahertzes órajelen. 
+
+A processzormagok MIPS64 utasításkészlettel rendelkeznek, ugyanakkor ettõl a generációtól kezdve már hardveres x86-os dekódolóegységet is kaptak 200 új utasítással az x86-os utasítások végrehajtására, mellyel egy nagyságrenddel ugrik meg a teljesítmény a korábbi szoftveres megoldáshoz képest. A GS464 kódnévre hallgató magok négy utasítás dekódolására képesek órajelenként, szuperskalár soronkívüli végrehajtással rendelkeznek, a végrehajtóegységeket pedig 64 kilobájtos dedikált utasítás- és adattárak látják el. A Godson-2 processzorra nagyban hasonlító magok natív teljesítménye egyenként nagyjából egy 2 gigahertzes Pentium 4-ének felel meg, állítják a fejlesztõk.
+
+A magok 128 bites AXI interfészen keresztül csatlakoznak a külvilághoz, mely egy switchre kapcsolódik. A magok ezen a switchen át kommunikálnak a többi maggal, az egyelõre ismeretlen méretû osztott négybankos L2 tárral és rajta keresztül a memóriavezérlõkkel, valamint a perifériákkal. A switch segítségével egyúttal tovább skálázható is az architektúra, ahol egy switch egy csomópontnak (node) felel meg.  Minden node négy maggal, önálló memóriavezérlõvel és osztott L2 gyorsítótárral bír. A kínai mérnökök által mutatott prezentáció alapján a Godson-3 generáció 4x4-es hálózati szervezésben akár 16 csomópontig skálázódhat, összesen 64 általános célú és specializált maggal.
+
+
+Jelenleg is folyik már egy két csomópontot megvalósító chip fejlesztése, melyben a második csomópont nem általános célú, hanem bizonyos mûveletekre optimalizált magokat fog integrálni. A GStera kódnévre hallgató magok nagyteljesítményû lebegõpontos mûveletvégzésre specializálódtak, ami elsõsorban mûszaki-tudományos feladatokat végzõ kódoknak kedvez. Az egyes magok MAC (multiply-accumulate) egységbõl állnak, hatalmas regiszterfájlokkal megtámogatva, így csúcsteljesítményük 16 gigaflops lehet 1 gigahertzen, mindössze 10 watt extra fogyasztásért cserébe.
+
+Stratégiai jelentõség
+
+Kína célja az, hogy a Godson-3 chipekre alapozva 2010-ben egy petaflopsos teljesítményû szuperszámítógépet építsen, demonstrálva ezzel az ország technológiai fejlõdését, ugyanakkor kisebb konfigurációkba is szánják majd a lapkákat. Az önálló processzorfejlesztések Kína számára stratégiai jelentõséggel bírnak az ország szuperhatalmi törekvéseiben, ugyanis csak így tudják függetleníteni magukat elsõsorban az Egyesült Államoktól, mely a nagyteljesítményû chipek tervezése terén jelenleg  egyeduralkodó.  
+
+Eközben a Godson-2 fejlesztései sem állnak le, hanem az integráció és energiahatékonyság fokozását célozzák. A Godson-2F az északi hidat, a 2H pedig mindent egyetlen chipre integrál, beleértve a grafikus magot is. A Godson processzorokat korlátozott mennyiségben kínai számítógépekben alkalmazzák, melyek iskolákban és egyéb közintézményekben találhatóak. A legelsõ Godson 2002-ben bukkant fel az államilag támogatott BLX IC Design mûhelyébõl, ez azonban még csak nagyjából egy Pentium II teljesítményét hozta.

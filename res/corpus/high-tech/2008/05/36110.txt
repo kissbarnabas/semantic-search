@@ -1,0 +1,12 @@
+Örökre véget lehet majd vetni a szoftverkalózkodásnak?
+
+[Gamesindustry.biz/HWSW] Véget lehet vetni a játékkalózkodásnak, véli az Atari alapítója. A játékipar egyik úttörõjének számító Nolan Bushnell szerint az egyre több, eddig elsõsorban üzleti célú számítógépben megtalálható TPM-chip segítségével megállítható a játékszoftverek másolása, ami egyes területeken komoly problémát jelent az iparnak.
+
+
+
+Bushnell a Wedbush Morgan Securities egyik konferenciáján beszélt arról, hogy a játékkalózkodás hamarosan a múlté lehet, köszönhetõen a Trusted Platform Module (TPM) chipeknek. "Van egy TPM nevû lopakodó titkosító chip, mely a legtöbb most kijövõ számítógép alaplapján rajta lesz" -- mondta Bushnell a brit Gamesindustry.biz alapján. Becslések szerint tavaly mintegy 100 millió PC-t szállítottak le TPM-mel világszerte, vagyis az új számítógépek több mint harmada rendelkezik már a titkosítást és hitelesítést hardveresen végzõ chippel, melyeket jelenleg leginkább jelszavak és adatok titkosítására alkalmaznak szervezetek, de alkalmas például számos logikai támadás és keyloggerek kizárására is.
+
+
+"Amit ez jelent, az az, hogy a játékiparban képesek leszünk egy teljességgel hitelesített magánkulccsal titkosítani -- mely feltörhetetlen az embereknek az interneten és jelszavak továbbadásával. Ez egy hatalmas piac fejlesztését teszi majd lehetõvé néhány területen, ahol a kalózkodás valódi problémát jelentett" -- mondta el Bushnell. Véleménye szerint amint a TPM bázisa megfelelõen nagy lesz, olyan piacok is elkezdenek bevételt termelni, melyekre korábban egyszerûen nem volt ésszerû belépni, mint például Ázsia. 
+
+Bushnell ugyanakkor úgy véli, a TPM használata segítheti a szoftverek digitális jogkezelését, a filmek és zene illegális másolását azonban nem lesz képes megállítani. "Ha megnézheted, meghallgathatod, másolhatod. A játékokkal más a helyzet, mert a játék maga mélyen egybefonódik a kóddal. A TPM valójában teljesen megállíthatja a játék kalózkodását" -- véli a 65 éves Bushnell, aki 36 évvel ezelõtt alapította a legendás Atarit. A TPM segítségével egy online, TPM-re felkészített szoftverrõl képes harmdik fél, például a játékkiadó megállapítani, hogy módosították-e a kódját, vagy hogy egyáltalán az adott hardvernek van-e jogosultsága a szoftver futtatására. Az ellenõrzött szoftver következménye az is, hogy online játékokban megszüntethetõvé válnak a csalások.

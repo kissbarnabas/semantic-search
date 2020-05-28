@@ -1,0 +1,24 @@
+A magyar névszerverek kétharmada sebezhetõ
+
+A hazai DNS-szerverek közel kétharmadára még nem telepítették azt a javítást, amely a Dan Kaminsky által felfedezett sebezhetõséget küszöböli ki -- derül ki a BME Híradástechnikai tanszékének kritpográfiával és biztonsággal foglalkozó laboratóriuma által tegnapelõtt elvégzett felmérésbõl, amely több mint 5800 DNS-szerverre terjedt ki.
+
+
+
+Sok a sérülékeny szerver
+
+A DNS-hiba a cache "megmégezését" teszi lehetõvé, ez lényegében lehetõvé teszi a támadók számára, hogy a névkiszolgálóhoz érkezõ kéréseket átirányítsák. A sikeres támadáshoz elengedhetetlenül szükséges, hogy a DNS szerver válaszoljon a támadó kéréseire, a megvizsgált szerverek jelentõs többsége szerencsére úgy volt konfigurálva, hogy ne fogadjon "kívülrõl" kéréseket, illetve rekurzív kéréseket. A megvizsgált 5861 DNS-szerverbõl 2107 hajtott végre lekérdezést, amelyek közül 1437 volt sebezhetõ -- ez az összes szerver 24,5 százaléka, de a lekérdezést végrehajtóknak 68 százaléka.
+
+A tanulmány szerzõi mindazonáltal megjegyzik, hogy ha egy szerver nem válaszol a külsõ kérésre, az nem jelent védettséget. "Nagyon könnyen elérhetõ az, hogy a védettnek tûnõ szerver a támadó által igényelt DNS lekérdezést végezze el, tucatnyi példát mutat erre Kaminsky is elõadásában. Ezért a bezárt, csak belsõ hálózatból elérhetõ szerverek elleni külsõ támadás igencsak elképzelhetõ, tûzfalas technikával, szoftverfrissítés nélkül nem
+lehet biztonságos helyzetet teremteni" -- olvasható a Bencsáth Boldizsár és Buttyán Levente által jegyzett cikkben.
+
+
+Világszerte gyorsan javították a DNS szervereket
+
+Milyen támadások várhatók?
+
+
+ A szerzõk szerint a sebezhetõséget sokféleképpen ki lehet használni, leginkább phishingre, de akár levelezõrendszerek is támadhatók -- bûnözõk akár módosíthatják a leveleket is. "Levelezésnél a támadás sikere nem csak attól függ, hogy a saját internetszolgáltatónk védett-e, hanem attól is, hogy a partnerünk védett szolgáltatókon küldi-e tovább a válaszlevelet. Elég egy védtelen állomás, és a levél lehallgatható, vagy módosítható lehet" -- mondta a HWSW-nek Bencsáth Boldizsár, a szerzõk egyike.
+
+Elképzelhetõ támadási mód még, hogy bûnözõk valamelyik szoftver automatikus frissítési szolgáltatásán keresztül saját kártékony kódjukat csempészik a sebezhetõ DNS-hez csatlakozó felhasználók gépére. Ha a támadók elég rafináltak, akár még SSL/TLS-en védett, titkosított csatornán zajló kommunikációt is meg tudnak fertõzni, hiszen az is DNS-ek használatával zajlik. A tanulmány szerzõi szerint a sérülékenységet spamküldésre is fel lehet használni.
+
+A BME-n megvizsgálták a legnagyobb hazai internetszolgáltatók névszervereit, az eredmények megnyugtatónak tûnnek: a tizenöt legnagyobb szolgáltató közül csak kettõt találtak, amely rendelkezett sebezhetõ DNS-szerverekkel.

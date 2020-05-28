@@ -1,0 +1,22 @@
+Elindult az Invitel internetes televíziós szolgáltatása, az InviTV
+
+Különösebb hírverés nélkül elindította IP-televíziós szolgáltatását az Invitel: az InviTV három-az-egyben, tehát telefont, internetet és tévézést nyújtó Invitel Trió csomagokban most kedvezményes áron fizethetõ elõ. A szolgáltatás a TVnet TVtévé internetes tévére hasonlít a szolgáltatóoldali videorögzítés lehetõségével.
+
+
+
+Mini csomagok
+
+Az InviTV adásai rézdróton, az ADSL technológia segítségével jutnak el az elõfizetõhöz, hasonlóan a T-Home TV-hez és a TVtévéhez. A szolgáltatás gyakorlatilag az Invitel teljes saját hálózatán elérhetõ, legalábbis ott, ahol az ADSL hozzáférés sebessége képes a legalább 7 megabit/s-os letöltési sebességre. Ennél alacsonyabb sávszélességre alkalmas telefonvonalakra nem rendelhetõ meg az IP-televíziós szolgáltatás.
+
+A csatornaválaszték két alapcsomagból, a 26-csatornás Alap és a 46-csatornás Családi csomagokból áll, illetve különbözõ mini csomagokkal tovább bõvíthetõ a nézhetõ állomások köre. Az IP-televíziós extra szolgáltatások jelentõs része, így az elektronikus mûsorkalauz (EPG), az online videotéka, a megállítható és esetenként visszatekerhetõ adás, a gyerekzár itt is rendelkezésre áll.
+
+Az InviTV a TVnet megoldásához hasonlóan videorögzítést is kínál, azonban nem a felhasználó oldalán, a set-top-box beépített merevlemezével, hanem a szolgáltatói oldalon biztosított tárhellyel. Ennek a megoldásnak az a legnagyobb elõnye, hogy akár több csatorna adása is rögzíthetõ egyidejûleg, míg a tévén mást nézünk. Hátránya azonban a jóval korlátozottabb hely (5 vagy 10 óra), és hogy csak azoknak a csatornáknak az anyaga rögzíthetõ ilyen módon, amelyiknél erre a csatorna tulajdonosa engedélyt adott -- így nem minden adó adásait vehetjük fel.
+
+Három nappal korábbi adás is visszanézhetõ
+
+
+A szerver oldali folyamatos rögzítés elõnye még, hogy akár 72 órával is visszaléphetünk az idõben, és olyan anyagokat is visszanézhetünk, melyeket más IP-televíziós rendszereknél be kellene programozni felvételre, vagy folyamatosan bekapcsolva kellene tartani a set-top-boxot, hogy visszatekerhessük az élõ adást.
+
+Motorola set-top-box és az ismeretlen gateway
+
+Az InviTV a lakásban szintén két egységbõl áll, melyet ingyenesen biztosítanak és szerelnek fel: az ADSL-modemet és internetes telefont is biztosító Tilgin Vood 452w media gateway akár Wi-Fi-kapcsolódást is lehetõvé tesz, ehhez kapcsolódik Etherneten a Motorola set-top-box, melynek kimenetei bármilyen régebbi, vagy újabb (HDMI) televízió csatlakoztatását is lehetõvé teszik. Egy ADSL-vonalon legfeljebb két set-top-box üzemeltethetõ egymás mellett, egymástól függetlenül, a második vevõberendezésért pedig bérleti díjat kell fizetni, ehhez azonban plusz sávszélességre lehet szükség. A felmerülõ kérdésekre az Invitel GYIK-je adhat gyors és érhetõ választ.

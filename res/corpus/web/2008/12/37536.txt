@@ -1,0 +1,26 @@
+Megfigyelték a brit internetezõket
+
+Az Egyesült Királyságban újabb privát szférát érintõ botrány van kialakulóban, ugyanis a nyomozóhatóságok utánaeredtek annak az idén nyáron kiszivárgott dokumentumnak, amely azt bizonyítja, hogy a British Telecom internetszolgáltató 18 ezer elõfizetõ webböngészési aktivitását monitorozta és adatbányász eszközökkel is elemezte még 2006 õszén. Természetesen errõl a felhasználókat elfelejtették tájékoztatni.
+
+
+
+
+Titokban keresgél
+
+
+A BT az elõfizetõk gépe és az internet közé rakott Webwise nevû dinamikus phishingszûrõ segítségével volt képes észrevétlenül gyûjteni a böngészési adatokat. A szolgáltatást úgy mutatták be, hogy az képes az elõfizetõt tájékoztatni arról, amennyiben veszélyes oldalra téved, észleli a kártevõket vagy a visszaélésekre lehetõséget adó oldalakat. A technikai megoldás részletei nem kerültek nyilvánosságra, bár sejthetõ lett volna, hogy minden oldallekérést megvizsgál a szoftver. Persze ez nem jelentette volna azt automatikusan, hogy ezeket regisztrálja, majd késõbb elemzi is.
+
+A Webwise szolgáltatást a BT-nek egy brit reklámcég, a Phorm nyújtotta, amely már korábban is kapott negatív nyilvánosságot, illetve a brit hatóságok is vizsgálódtak a cég után. Az ottani szakértõk szerint a Phrom által kínált reklámpiaci szolgáltatások emlékeztetnek egy korábbi, a NebuAd tevékenységére, melyet komolyan meghurcoltak a britek.
+
+Antiphishing címszóval gyûjtötték az adatokat
+
+Az "opt-in online reklámozás" lényege, hogy a hirdetõk (ebben az esetben) az internetszolgáltatótól szerzett felhasználói adatok alapján célozzák a hirdetéseiket. A böngészés közben meglátogatott oldalak listája, az ott eltöltött idõ mennyisége, a keresések témája segít feltérképezni a felhasználó érdeklõdési körét, személyiségtípusát. Az ilyen célzott reklámokat pedig jóval drágábban lehet értékesíteni, hiszen a hirdetõ is tisztában van vele, hogy kisebb meddõszórással lehet számolni.
+
+A módszer viszont egyáltalán nem illegális. A Google a felhasználóinak a Gmail levelezésükben található szövegek, keresések, vagy a Google ToolBar telepítésével a teljes webes aktivitás elemzésével tökéletesíti a célozhatóságot. Sõt, Magyarországon a piac sajátosságait kihasználva a Medián a Webprofil szolgáltatásán belül a közösségi hálózatoktól, hazai ingyenes levelezõrendszerektõl nyert deperszonalizált demográfiai adatokat nyer ki, amivel napi lebontásban megmondható minden egyes weboldal látogatói összetétele.
+
+
+Az ebbõl a szempontból szigorúbb briteknél viszont dönthet úgy a bíróság, hogy a BT vétett a törvények ellen, fõleg annak fényében, hogy a Phorm már így is szúrja az EU szabályozók szemét. A BT eközben elõre menekül és a kritizált Webwise programhoz 10 ezer elõfizetõt keres, akik önként és tudatosan részt vennének a programban.
+
+Az elõfizetõk nem bánják ha figyelik õket
+
+Feltételezhetõ lenne, hogy ez a terv nem sikerül, de valójában semmi nem áll az útjában. A felhasználók nagy részét egyáltalán nem érdekli, hogy az adatait elemzik, felhasználják arra a célra, hogy a reklámozási modelleket fejlesszék. Sõt, egyesek örömmel csatlakoznak, hiszen a saját igényeiknek megfelelõ hirdetéseket kaphatnak, amennyiben részt vesznek a programban. Az egyetlen probléma -- hasonlóan ahhoz a gyakorlathoz, amit anno a hazai szereplõk is elkövettek --, hogy az egyébként vállalható módszert nem nyilvánosan vezették be, hanem a felhasználók háta mögött, azok megkérdezése nélkül.

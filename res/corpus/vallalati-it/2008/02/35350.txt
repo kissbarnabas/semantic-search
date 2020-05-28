@@ -1,0 +1,14 @@
+Még vasárnap éjfélig lehet jelentkezni a 24 órás BME programozóversenyre
+
+Még vasárnap éjfélig lehet jelentkezni a BME immár hagyományosnak tekinthetõ 24 órás programozóversenyére, mely évrõl évre növekvõ külföldi érdeklõdéssel zajlik. Az 5 ezer eurós összdíjazású verseny háromfõs csapatok között zajlik, de egyedül is érdemes regisztrálni,  ugyanis az oldalon társakat is lehet keresni. 
+
+
+
+A nevezést követõen 2007. február 24-én (közép-európai idõ szerint) délelõtt 10 és délután 3 óra között kerül sor egy interneten keresztül lebonyolított elõválogatóra, ahol 8 algoritmikus jellegû problémát kell a csapatoknak megoldani. Az itt legjobbnak bizonyuló harminc csapat kerül be a május 2-4 között, Budapesten megrendezett 24 órás döntõbe, ahol már csak egyetlen, ám kifejezetten összetett feladatot kell megoldania a csapatoknak.
+
+A tavalyi versenyen a csapatoknak egy-egy virtuális ûrhajót kellett irányítaniuk, a cél az ûrbeli bolygókon található kincsek megszerzése volt. Ehhez a csapatoknak elõször radart és hajtómûveket kellett fejleszteniük az ûrhajókra, majd ezeket össze kellett kapcsolniuk hogy navigálni és mozogni tudjanak az ûrben, ezután a hálózatról "tölthették le" a fegyvereket és a pajzsokat. Az univerzumot a csapatok ûrhajói mellett az ellenséges Kwargok népesítették be, õk õrizték a bolygók kincseit. Pontokat a játékosok a kincsek gyûjtésével és a Kwargok, illetve egymás megsemmisítésével szerezhettek. 
+
+
+A tavalyi versenyen 11 ország harminc csapata küzdött, és teljes svéd uralommal zárult, ugyanis az elsõ három helyet mind svédek szerezték meg. Nincs megkötés a versenyzõk által használható fejlesztõeszközökre, operációs rendszerre, valamint írásos segédanyagokra vonatkozóan, külsõ segítség azonban nem vehetõ igénybe. Az elõválogatóhoz hasonlóan a döntõben is a saját számítógépeikkel dolgozhatnak a versenyzõk. A feladatokat a BME informatika karának doktorandusz hallgatói írják.
+
+Regisztráció és az események nyomon követése a  challenge24.org oldalon.

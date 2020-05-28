@@ -1,0 +1,16 @@
+Befoltozták az Adobe Acrobat és a Reader kritikus biztonsági rését
+
+Egy nappal a saját maga által kitûzött határidõ lejárta elõtt befoltozta PDF-kezelõ szoftvereinek kritikus biztonsági rését az Adobe. Az Adobe Reader és az Adobe Acrobat programokat érintõ sérülékenységet több mint két hónapja fedezték fel, a szoftvercég azonban elõször február 19-én figyelmeztette felhasználóit arra, hogy számítógépük potenciális veszélynek van kitéve, ha használják az alkalmazásokat.
+
+
+
+Az Adobe múlt hónapban kiadott biztonsági figyelmeztetése szerint a PDF-fájlok beolvasásáért felelõs rutinban olyan hiba maradt, amelyet egy speciálisan elõkészített állománnyal kihasználva támadók akár teljes kontrollt szerezhetnek a számítógép felett, azaz saját kártékony kódjaikat futtathatják, adatokat módosíthatnak vagy tulajdoníthatnak el, vagy akár további támadásokat indíthatnak más rendszerek ellen. A szoftvercég március 11-ére ígért javítást az Acrobat Reader és az Acrobat 9-es verziójához, a korábbi, 8-as és 7-es változatok windowsos és mac-es kiadásait csak március 18-án frissítik, végül március 25-én érkezik a linux és solaris platformokra írt kód javítása.
+
+David Lenoe, a cég illetékes menedzsere blogbejegyzésében rámutat, hogy a most érkezett javítás a biztonsági rés "no click" variánsát is befoltozza -- a rosszindulatú kódok futtatásához ugyanis korábbi jelentések szerint az sem feltétlenül szükséges, hogy a felhasználó belenézzen a dokumentumba (azaz rákattintson), a Windows Intézõ ugyanis bizonyos beállítások esetén megteszi ezt magától (például a dokumentum-elõnézethez, vagy a cím kiolvasásához), ráadásul a Windows indexelõ szolgáltatásának kíváncsiságát is kihasználhatják a támadók.
+
+
+A szoftvercég saját bevallása szerint január 16. óta tud a PDF-kezelõ rendszer biztonsági résérõl, melyrõl konkrét részleteket egyelõre továbbra sem fed fel a nagyközönség elõtt. Egyes források szerint a sebezhetõséget a támadók már ennél is korábban, január legelején kihasználták, de az sem kizárt, hogy az elsõ támadásokat még tavaly indították (a McAfee szerint a bejelentés idején meglehetõsen kevés célzott támadás használta ki a szoftverek sebezhetõségét).
+
+A programok sebezhetõségére február 12-én irányította rá újra a figyelmet a Symantec, az Adobe ezt követõen öt nappal kénytelen volt elismerni a biztonsági rés létezését. Egyes szakértõk akkor különösen aggályosnak találták a késlekedést, nem beszélve arról, hogy a szoftvercég elõre közölte, hogy több hétre lesz szüksége a kritikus sérülékenység kijavításához.
+
+Az Adobe Reader és Acrobat 9.1-es, javított verziója egyelõre a szoftvercég weboldalán keresztül érhetõ el, késõbb a programok frissítési szolgáltatásával is telepíthetõ lesz.

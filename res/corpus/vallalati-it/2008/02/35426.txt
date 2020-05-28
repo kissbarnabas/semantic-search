@@ -1,0 +1,12 @@
+Adatközpont-felügyeleti megoldások terén erõsít a Novell
+
+Felvásárolja a felügyeleti megoldásokat fejlesztõ kanadai PlateSpin vállalatot a Novell. A 205 millió dolláros tranzakció hónapokon belül lezárulhat, a virtuális és fizikai szerverek menedzselésére szolgáló eszközök gyártója a Novell felügyeleti megoldásokat fejlesztõ részlegébe olvad bele.
+
+
+
+A PlateSpin PowerConvert segítségével a feladatok dinamikusan mozgathatók az adatközponton belül a szerverek között, akár egyik géprõl a másikra. Az sem jelent problémát, ha a különféle szervereken eltérõek az operációs rendszerek és a virtualizációs köztesrétegek, ugyanis a PowerConvert képes a virtuális gépeket egyik formátumból a másikba konvertálni. A PlateSpin új terméke a januában bemutatott Forge készülék (appliance), ami akár 25 szerver védelmét is el tudja látni azáltal, hogy a kritikus feladatokat virtuális gépként is futtatja, így amennyiben a szolgáltatás hardver- vagy egyéb hiba miatt kiesik, átmenetileg átveszi a helyét, megakadályozva a teljes leállást.
+
+
+ A PlateSpint termékei szállítófüggetlenek, lényegében akármilyen szerverrel együtt tudnak mûködni, legyen szó Windows, Linux vagy UNIX operációs rendszerrõl, illetve Xen, VMware vagy Hyper-V virtualizációs köztesrétegrõl. Ron Hovsepian, a Novell elnök-vezérigazgatója a bejelentés kapcsán ugyanakkor sietett leszögezni, a vállalat ki fogja használni a Microsofttal kötött stratégiai megállapodásában rejlõ lehetõségeket.
+
+A PlateSpin a Novell Systems and Resource Management üzletágának részévé válik, amely jelenleg is fejleszt olyan megoldásokat, amelyek adatközpontok felügyeletére szolgálnak. Ezek közül a virtuális gépek telepítésére és menedzselésére való ZENworks Virtual Machine Manager, illetve a szabály-alapú erõforráselosztást lehetõvé tevõ ZENworks Orchestrator kiegészítõi lehetnek a PlateSpin termékei és technológiái.

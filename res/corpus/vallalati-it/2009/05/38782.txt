@@ -1,0 +1,15 @@
+Kaphatók az APC új adatközpont-felügyeleti megoldásai
+
+A modern adatközpontokban a megfelelõ hûtés egyre komolyabb problémát okoz, amelyet csak tetéznek az olyan megoldások mint a blade szerverek vagy a virtualizáció. Ezek egyfelõl megnövelik a teljesítménysûrûséget, amelyet ha nem követ megfelelõ hûtés, könnyen a berendezések meghibásodását vagy idõ elõtti halálát jelentheti. Az Uptime Institute szerint ahogy 24 Celsius fok felett minden 8 fokos hõmérsékletnövekedés felezi az eszközök várható élettartamát. A virtualizáció a gépek kihasználtságának növekedésén túl ráadásul a terhelés dinamikus változását hozza magával, ahogy a virtuális gépek "vándorolnak" az infrastruktúrán, erre pedig az üzemeltetõknek is fel kell készülniük, ehhez viszont szükségesek a pontos adatok. 
+
+
+ A szerverek fogyasztásáról és az általuk kibocsátott hõ növekedésérõl sok szó esik, Szarka Attila, az APC vezetõ rendszermérnöke szerint ugyanakkor kevés szó esik a hálózati berendezésekrõl, pedig ezek hûtése is egyre komolyabb problémává kezd válni, ahogy az Ethernet-hálózat az IP-telefónia révén például átveszi a kommunikáció támogatását, így a cégek egyre több és egyre nagyobb teljesítményû hálózati eszközt használnak. Ma már a vállalatok hálózati szekrényeiben is olyan mennyiségû hõ keletkezhet, amely az eszközök idõ elõtti meghibásodását okozhatja.
+
+Az infrastruktúra fizikai felügyelete nem csak a hûtési problémák felismerése szempontjából elengedhetetlen, segítségével például kiszûrhetõ az emberi hibából adódó leállások egy része is: a kamerákkal nyomon követhetõ, kik léptek be az adatközpontba és ott pontosan mit csináltak -- ez akár a törvényi szabályozásoknak való megfelelés ("compliance") szempontjából is kritikus fontosságú információ lehet. Persze a kamerák nem csak embereket követhetnek, segítségükkel akár több ezer kilométeres távolságból ellenõrizhetõ, hogy egy riasztást valóban mi okozott, tényleg van-e beázás vagy éppen tûz.
+
+
+NetBotz 550
+
+Az új NetBotz termékek már CAT5/6 kábelezést használnak, amely lehetõvé teszi a készülékek közötti távolság jelentõs növelését, a kamerák pedig zárható USB-csatlakozókat kaptak, így elkerülhetõ a kapcsolat véletlen megszakítása. Az eszközök áramellátása már Power over Ethernet (PoE) segítségével is történhet, ami szintén egyszerûsíti a kábelezést, nincs szükség falba vagy álmennyezetbe rejtett tápegységekre. Újdonság, hogy a NetBotz család tagjai kompatibilisek lettek a Pelco IP-kameráival, de akár meglevõ CCTV kamerák is használhatók a NetBotz-cal.
+
+A legfelsõ kategóriás központi modul (NetBotz 550) akár 78 szenzort és 8 kamerát is képes kezelni, az eseményekrõl pedig akár több riasztást is tud küldeni, közvetlenül a rendszergazdának és akár az adatközpont-felügyeleti megoldásnak (pl. IBM Tivoli, HP OpenView).

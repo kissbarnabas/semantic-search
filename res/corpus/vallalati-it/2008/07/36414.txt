@@ -1,0 +1,16 @@
+Bárki használhatja a Credit Suisse saját fejlesztésû virtualizációs felügyeleti rendszerét
+
+Virtuális gépeket felügyeletére szolgáló szoftvermegoldással lépett elõ a DynamicOps. A Virtual Resource Management nevû terméket a Credit Suisse-nél három éve kezdték fejleszteni, és már két éve használják. A termék annyira jól sikerült, hogy a Credit Suisse egy új vállalatot hozott létre a továbbfejlesztésre, illetve a szoftver értékesítésére. 
+
+
+
+A Credit Suisse-nél 2005 óta foglalkoznak a szervervirtualizációval. A vállalatnál azonban rádöbbentek, hogy a technológia rendkívül bonyolulttá teszi többek között a házirendek kezelését, a biztonsági beállításokat, valamint a belsõ elszámolást. Mivel nem találtak a piacon elérhetõ megoldást a problémákra, házon belüli fejlesztésbe kezdtek, amelynek az eredeménye a Virtual Resource Management (VRM).
+
+A VRM egy olyan átfogó megoldás, amely képes a virtuális infrastruktúrát az egész életciklusa alatt menedzselni, a virtuális gépek létrehozásától azok végleges törlésééig, figyelembe véve olyan szempontokat is, mint hogy az image-ek tárolnak-e olyan adatokat, amelyeket törvényi elõírások szerint meg kellene õrizni, illetve azt, hogy egy adott szerveren futó virtuális gépek pontosan mennyi erõforrást használnak, mivel a szolgáltatások belsõ elszámolásának ez az alapja.
+
+
+"A VRM-mel szerverek, desktopok, alkalmazások és eszközök egyetlen csomagban menedzselhetõk, így a korábbinál gyorsabban és olcsóbban alakíthatók ki egyedi környezetek. Az IT-szakemberek pedig gyorsabban fejleszthetnek ki új alkalmazásokat és termékeket" -- mondta Rich Krueger, a DynamicOps vezetõje.
+
+A VRM számos virtualizációs köztesréteggel kompatibilis, beleértve a VMware-t, Xent, a Microsoft Hyper-V-t, illetve a Sun xVM-et is. A segítségével a felhasználók elõre rögzített folyamatok és házirendek alapján, automatikusan tudnak virtuális gépeket létrehozni, migrálni, a használatukat nyomon követni (és jelenteni, számlázni), majd dolguk végeztével kivonni az üzembõl. A VRM integrálható konfiguráció-menedzsment adatbázisokkal (CMDB), illetve más virtualizációs felügyeleti megoldásokkal (pl. VirtualCenter). 
+
+A VRM-et a DynamicOps szerint más pénzügyi intézetek mellett az egészségügyben, iparban és kereskedelemben érdekelt szervezetek is használják már, mostantól pedig bárki számára elérhetõ, az ára felügyelt virtuális gépenként 99 dollár. A DynamicOps szerint a VRM már bizonyított, a Credit Suisse adatközpontjaiban már másfél éve éles üzemben mûködik és több ezer virtuális gépet felügyelnek a segítségével. Elemzõk úgy vélik, ez a konzervatív nagyvállalati ügyfélkörben óriási elõny a többi hasonló termékkel szemben.

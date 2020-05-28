@@ -1,0 +1,10 @@
+A francia autógyártók imádják a SUSE Linuxot
+
+Nagyjából egy éve annak, hogy a PSA Peugeot Citroen bejelentette, mintegy 20 ezer asztali gépén cseréli le az operációs rendszert SUSE Linux Enterprise Desktopra, és 2500 szerverére telepít SUSE Linux Enterprise Linux Servert. Most a másik nagy francia autógyár, a Renult döntött a kaméleonos operációs rendszer mellett, akik a Microsoft és a Novell között 2006-ban létrejött megállapodás értelmében több mint ezer SUSE Linux Enterprise Server SP1 licencet hívtak le, mivel teljes linuxos infrastruktúrájukat ezen konszolidálják.
+
+
+
+A Reanult választása azért esett épp a SUSE Linuxra, mert ez mûködik együtt a legjobban a windowsos környezettel, valamint a lehetõ legjobb teljesítményt nyújta virtualizációs feladatok esetén -- állítja a cég. "A Microsofttal együttmûködésben fejlesztett, az együttmûködés elõsegítését és erõteljes virtualizációs megoldások létrehozását célzó erõfeszítéseink nagy hasznára vannak az ügyfeleknek" -- mondta Susan Heystee, a Novell stratégiai kapcsolatokért felelõs vezetõje. "Ha a Windowszal való együttmûködésrõl van szó, mindenkinél jobbak vagyunk" -- tette hozzá Ron Hovsepian, a Novell elnök-vezérigazgatója.
+
+
+ Amint arról lapunk is beszámolt, a Microsoft és a Novell 2006 õszén kötöttek nagyszabású együttmûködési megállapodást, amelynek keretén belül a Microsoft a Novell SUSE disztribúciót fogja ajánlani azon ügyfeleinek, amelyek a nyílt forráskódú megoldás után érdeklõdnek. A két cég egy közös kutatás-fejlesztési központot is létrehozott, ahol a SUSE Linux és a Windows együttmûködését javítják például a virtualizáció terén. A Novell azóta már kiadott egy meghajtócsomagot (SUSE Linux Enterprise Virtual Machine Driver Pack), amely lehetõvé teszi Windows és Linux változtatás nélküli, közel natív sebességû futtatását a Xen paravirtualizációs hypervisoron, amennyiben a szerverben hardveres virtualizációs támogatással bíró Intel vagy AMD processzorok mûködnek.

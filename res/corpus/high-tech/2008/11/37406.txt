@@ -1,0 +1,38 @@
+Hamarosan jön az AMD ultrahordozható platformja, de a Fusion két évet csúszik
+
+Az AMD tegnapi elemzõi konferenciáján számolt be a közeljövõre vonatkozó terveirõl. A cég kínálatába jövõre érkeznek a kimondottan ultrahordozható gépekbe szánt processzorok, a grafikus chipet integráló Fusion megjelenését pedig két évvel eltolták.
+
+
+
+Jön az ultrahordozható platform
+
+Az AMD egészen másképp képzeli el az ultrahordozható gépek jövõjét mint az Intel. A második legnagyobb chipgyártó nem a netbookokra koncentrál, inkább a 13 hüvelykes kijelzõvel szerelt, vékony és könnyû modellekben hisz, ugyanis ezeken érhetõ el az a típusú PC-s élmény, amire a vevõk a vállalat szerint vágynak. "A vevõk nem elégedettek a mini-notebookok által nyújtott élménnyel" -- mondta Bahr Mahony, a notebookokba szánt termékek marketingjéért felelõs vezetõ.
+
+Való igaz, a kereskedõk és gyártók alapján a vevõk részérõl rengeteg egyelõre a túlkapás a netbookok alacsony ára miatt, sokan csalódnak, az értékesítési mutatók összességében mégis a kategória hatalmas sikerét jelzik. Az AU Optronics tajvani LCD-panelgyártó becslése szerint 13-14 millió mini notebook kerül a piacra idén, az Intel jövõre már 40 millió leszállítását várja. Az IDC adatai alapján a harmadik negyedévben már a teljes notebookpiac 13 százalékát adták a mini gépek, melyek elsõsorban az olyan fejlett piacokon fogynak a legjobban, mint Nyugat-Európa.
+
+
+
+Az AMD 2009-ben két új ultramobil platformot dob piacra jövõre, a Congót és a Yukont. Elõbbi a Conesus kódnevû kétmagos processzorból, valamint az RS780M és SB710 north- és southbridge chipbõl áll, utóbbi pedig az egymagos Huron processzort, az RS690E nortbridge-et és az SB600 southbridge-et tartalmazza. A vállalat ígérete szerint a Congo és a Yukon platformok, vagyis a processzor és a chipkészlet együttes fogyasztása nem fogja elérni a 25 wattot.
+
+Az AMD által nyilvánosságra hozott információk szerint a Conesus egy kétmagos, még 65 nanométeres csíkszélességgel gyártott processzor 1 megabájt másodszintû gyorsítótárral és DDR2-vezérlõvel, a helytakarékosság érdekében BGA tokozásban. A chipet a tervek szerint 2010-ben követi majd a 45 nanométeres csíkszélességû, 2 megabájt cache-t tartalmazó, DDR3-vezérlõvel felvértezett Geneva. 
+
+Erõsebb az Atomnál, olcsóbb a Centrinónál
+
+Az AMD által megcélzott 25 wattos keret ugyan több mint kétszerese az Intel Atom N270 chipbõl és a hozzá tartozó 945GSE Express chipkészletbõl álló platform fogyasztásának (TDP) azonban az AMD annál jóval nagyobb számítási teljesítményt is ígér, így a felhasználók nem lesznek a jelenlegi netbookok keretei közé szorítva, az ultrahordozható gépeken is futtathatják ugyanazokat az alkalmazásokat amiket az asztali PC-ken vagy notebookokon, nem szükséges egy csökkentett teljesítményû platformhoz igazodniuk. A modern chipek által felvonultatott kifinomult energiagazdálkodási technikáknak köszönhetõen ráadásul a fogyasztás a teljesítményigénnyel párhuzamosan jól skálázható, így alacsony terhelés mellett a TDP töredékére szorítható le a rendszer áramfelvétele.
+
+
+Az Intelnél a "teljes értékû" Centrino mobil platform és az Atom között elég nagy szakadék feszül, Randy Allen, az AMD processzordivíziójának vezetõje szerint ennek legfõbb oka, hogy a legnagyobb chipgyártó el akarja kerülni, hogy az olcsó netbookok népszerûsége a drágább termékeket veszélyeztesse. Ezért az Intel-alapú netbookok képességei erõteljesen korlátozottak, a kijelzõk zömmel kicsik és kisfelbontásúak (jellemzõen 1024x600 pixel).
+
+Az AMD-rõl korábban úgy hírlett, teljesen feladja a netbook-piacot, miután a Bobcat kódnevû fejlesztése eltûnt a süllyesztõben. A tavaly nyáron napvilágot látott információk szerint a vállalat egy nagyon alacsony fogyasztású K8-változattal akarta megcélozni ezt a szegmenst, azonban a 2008-ra ígért Bobcatrõl azóta egy szó sem esett, az Intel pedig az Atommal letarolta a piacot, kiszorítva lényegében a nemrég még nagy reményeket szövögetõ VIA-t is. A jövõ év elsõ felére ígért Yukonnal az AMD megjelent ugyan a mini notebook szegmensében, elsõsorban azonban nem azt célozza, hanem a teljes értékû ultrahordozható gépeket.
+
+
+
+A jelenlegi mainstream notebookplatform, az AMD Puma utódja 2009 második felében érkezik Tigris kódnéven (az új platformoknál az AMD folyóneveket alkalmaz). A Tigris már a Caspian kódnévû processzort alkalmazza majd, melynek legfontosabb újítása a 45 nanométeres csíkszélesség. A Tigris új chipsetet használ majd, az RS880M és SB710 párost. Ezt követõen 2010-ben érkeznek a négymagos Champlain processzorokat alkalmazó mainstream Danube.
+
+Integrált CPU-GPU és új mikroarchitektúra csak 2011-ben
+
+Az AMD korábban 2009 második felére idõzítette az x86-os processzort és grafikus magok integráló Fusion termékeit, a jelenlegi termékterveken azonban 2011-ben bukkannak fel elõször az ilyen fejlesztések. Ez azt jelenti, hogy legalább két projektet szanált útközben a vállalat, elsõként a Falcont, majd a kompromisszumos Swiftet, és ez magyarázza a kétéves késlekedést.A Llano négy processzormaghoz integrál egy Radeon grafikus magot, és mainstream notebookot céloz, míg az ultrahordozható kategóriában az Ontario indul két processzormaggal.
+
+
+
+Ezek a chipek már egy új mikroarchitektúrát implementálnak, melynek kódneve Bulldozer. A chipek 32 nanométeres csíkszélességû eljárással készülnek majd, ami gazdaságossá teheti a szilíciumon történõ integrációt -- az AMD magyarázata szerint éppen emiatt változtattak a terveken, a 45 nanométeres változatok hozadéka ugyanis nem állt volna arányban a belé ölt erõfeszítésekkel. Az Intel jövõ év közepe táján jelenik meg multi-chip tokozással integrált processzor-grafikus chip termékeivel. Az AMD már teszteli 32 nanométeres eljárását drezdai Fab 36 üzemében, kereskedelmi bevezetése 2010 második felére várható -- az elmúlt generációk alapján nagyjából egy évvel az Intelt követõen. A 32 nanométeres generációnál az AMD is bevezeti a magas k együtthatójú kapuszigetelõt és fémkapukat, egyúttal ultraalacsony k együtthatójú levegõs szigetelõréseket is alkalmaz majd a szivárgás elfojtására -- a terméktervek alapján azonban ezeket a technikákat az addigra Foundry néven kiszervezett gyártás nagyteljesítményû SOI-logikák számára nem kínálja.

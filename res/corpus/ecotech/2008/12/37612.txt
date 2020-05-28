@@ -1,0 +1,18 @@
+Fizetésképtelenség fenyegeti a Qimondát, Európa egyetlen memóriagyártóját
+
+Miután a DDR2 DRAM-árak továbbra sem indultak emelkedésnek, sõt, korábban elképzelhetetlenül mély szinteket értek el, a Samsung kivételével lényegében az összes memóriagyártó likviditási problémával nézhet hamarosan szembe. A hírek szerint már a szakadék szélén táncol a német Qimonda, és forrásbevonási lehetõségeket keres a koreai Hynix is.
+
+
+
+A német Infineon memóriagyártó divíziójának kiválásával létrehozott Qimonda múlt heti közleményben tudatta, hogy befektetõket vagy hitelezõket keres a csõd elkerülése érdekében, egyúttal elhalasztja negyedéves pénzügyi jelentésének közzétételét. A vállalat szóvivõje szerint 2009 elsõ negyedévének végére fizetésképtelenné válhat a memóriagyártó, amennyiben a jelenlegi ütemben fogyasztja tovább készpénzállományát, és nem tud tõkét bevonni.
+
+
+ A cég 432 millió euró készpénzzel rendelkezett szeptember végén, 200 millióval kevesebbel, mint három hónappal korábban. A Qimonda elsõ féléves vesztesége 787 millió eurót tett ki, és az elõzetes jelentése alapján veszteségei tovább mélyültek a harmadik negyedévben, így kilenchavi deficitje 1,2 milliárd euró fölé rúg. Bár a negyedév során eladta az Inotera memóriagyártóban birtokolt tulajdonrészét a Micronnak, az így befolyt mintegy 310 millió euró nagy részét valószínûleg fel is élte közben.
+
+Ezzel egyidõben a Hynix is forrásokat keres hitelezõinél, ugyanakkor jobb pozíciókkal rendelkezik német társánál. A világ második legnagyobb DRAM-gyártója akár 700 millió dollárnak megfelelõ friss tõkét is bevonna, közlése szerint négy koreai hitelezõvel jelenleg 554 millió dollár lehívásáról tárgyalnak, egyezség azonban nem született. A friss tõkével a Hynix pénzügyi biztonságban agresszívan folytathatja tõkeberuházásait, hogy minél hamarabb vezesse be a kisebb geometriájú gyártástechnológiát, mellyel leszorítható a fajlagos elõállítási költség.
+
+Mikor idén év elején 2 dollár/gigabit alá esett a DDR2-memória ára, az egész ipar és megfigyelõk az árak emelkedését várta. Ezek az elõrejelzések végül oda vezettek, hogy a gyártók agresszívan növelni kezdték termelésüket, így a már egyébként is túlzottan magas készletszintek tovább emelkedtek, az árak pedig emiatt az év második felében újabb mélyrepülésbe kezdtek. Az azonnali üzletkötések decemberben már gigabitenként 70 dollárcent, vagyis 150 forint alá kerültek a DRAMeXchange memóriatõzsde adatai alapján. A piackutató cég becslése szerint csak a tokozási és tesztelési költség 35-40 centet tesz ki, így a szilíciumért mindössze gigabitenként 30 centet kapnak a DRAM-gyártók nagyjából --  költségük viszont átlagosan 1 dollár környékén mozog egy gigabites chip esetében.
+
+
+
+A gyártók hatalmas veszteségeket szenvednek el az elhúzódó és évtizedek óta nem látott ipari válság hatására. Tajvan két legnagyobb DRAM-gyártója, a PowerChip és a Nanya, melyek a világpiac mintegy tizedét adják, 456 millió és 267 millió, míg a japán Elpida és az amerikai Micron pedig rendre 316 és 344 millió dollárt vesztettek csak a legutóbbi negyedévben. A gyártókat ráadásul kettõs recesszió sújtja, ugyanis a NAND flash piacon is súlyos árdepresszió alakult ki, az árak 80 százalékkal estek idén. Mindezek eredményeként 2010-re múlva két-három gyártó maradhat a porondon, amivel lényegében lezárulhat a memóriaipar évtizedek óta tartó folyamatos konszolidációja.

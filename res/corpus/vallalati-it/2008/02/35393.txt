@@ -1,0 +1,14 @@
+Katonai bevetésre is alkalmas tabletet mutatott be a Roper
+
+Az amerikai Roper a zord környezeti viszonyoknak, illetve mostoha felhasználási körülményeknek ellenállni képes számítógépek specialistája, kínálatában számos mobil számítógép található, melyeket még tenyérgépek és Windows Mobile által kordában tartott okostelefon is kiegészít. A cég új tabletje, a Duros szintén zord viszonyok közé készült -- ahogy azt a neve is sugallja: erõs és tartós.
+
+
+
+Annak ellenére, hogy az ütés- és vízálló kivitel nem épp a legfiligránabb burkolatot feltételezi, a készülék a gumibetétek ellenére parányi, 260x198x43 milliméter méretû, 8,9 hüvelykes, 800x600 képpontos érintésérzékeny kijelzõje alatt a központi egység társaságában 256 megabájttól 1 gigabájtig skálázható memóriát, illetve 40-120 gigabájtos merevlemezt, vagy 512-64 gigabájtos SSD meghajtót találunk. A tábla beltere tág határok között változtatható, rendelhetõ AMD Geode LX800, valamint Intel Celeron M processzorral egyaránt, melyek közül az elsõ 800 megahertzen üzemel, utóbbi pedig 1 gigahertzen. A kapcsolattartás igen fontos lehet olyan helyszínen, amely az iroda melegétõl mentesít, ezért a Duros szinte minden lehetõséggel felszerelhetõ, nem hiányzik a felsorolásból a WLAN-modul mellõl a GPRS, a 3G, a Bluetooth, valamint a GPS sem.
+
+
+ A Duros akkumulátora "gyorscserélhetõ", akár menet közben is áttehetjük a kiürült helyére a feltöltött második áramforrásunkat, így a munkamenetet sem kell befejezni, vagy félbeszakítani. A tablet emellett a por- és vízállóság tekintetében az IP-65 (IEC 60526) ajánlásoknak, a rázkódás elleni védelem-, a magas- és alacsony hõmérsékletû helyeken történõ üzem-, valamint az ütésállóság oldaláról pedig a MILSPEC 810F katonai szabványnak felel meg maradéktalanul.
+
+
+
+A Duros -20 és +50 Celsius fok között üzemeltethetõ, inaktív állapotban azonban -30 vagy +75 fokot is elvisel. A páratartalom 10-95 százalékos lehet, a leejtést pedig akár csípõmagasságból indítva is tûri, utóbbit egyébként 26 különbözõ szögbõl is megejtette a gyártó a teszt során, természetesen kikapcsolt állapotú merevlemezzel, vagy SSD meghajtóval. A gyártó a Linux, illetve Windows XP változataival rendelhetõ Durosra egy év garanciát vállal, amelyet további egy, illetve két évvel hosszabbíthatunk.

@@ -1,0 +1,14 @@
+Lehallgathatók a változó bitrátával kódolt internetes telefonhívások
+
+[Techworld] Nem csak a titkosítatlan internettelefonálás nyitott könyv a hozzáértõknek: a Johns Hopkins Egyetem kutatói szerint az egyes tömörítési metódusok is árulkodóak lehetnek, visszafejthetõvé teszik a beszélgetést annak ellenére, hogy magát a titkosítást nem törik meg.
+
+
+
+Az internettelefonálás egyre népszerûbb, már nem csak az internetezõk, hanem a vállalatok körében is, ahol különösen fontos, hogy érzékeny vállalati adatok, hívások ne kerülhessenek illetéktelen kezekbe. A védelemrõl elméletileg erõs titkosítás gondoskodhat, de valójában ez nem biztos, hogy elegendõ biztonságot nyújt. A változó bitrátájú tömörítés is árulkodó lehet.
+
+Az egyetem kutatói rájöttek, hogy a VoIP-hívások jellegzetes adatátvitelébõl adódóan a változó bitrátájú kódolás árulkodó nyomokat hagyhat az egyes adatcsomagokon, melyek útnak indulnak a virtuális telefonvonal másik oldala felé. A változó kódolás (VBR) elõnye az, hogy erõforrást, sávszélességet spórol azzal, hogy a jobban tömöríthetõ részleteket -- például egy szünet két kimondott szó között -- alacsonyabb, a kevésbé tömöríthetõeket nagyobb bitrátával tárolja el, mindvégig azonos minõségre törekedve.
+
+
+Ez a különbség az adatcsomagok méretén is nyomon követhetõ, ami árulkodó lehet a szavakra, a jellemzõen használt frázisok akár 90 százalékos pontossággal detektálhatók egy elõzetesen elkészített szótár alapján. Az elhangzott mondandó összességében átlagosan 50 százalékos eredményességgel állítható helyre. A visszafejtett szavakból, frázisokból nyelvi motorok alkothatnak automatikusan teljes mondatokat.
+
+A szótár összeállításánál ráadásul koncentrálhatnak az adott üzlettel kapcsolatos beszélgetések jellemzõ szavaira is, mely így növelheti a pontosságot. A jelenleg széleskörûen használt protokollok, így a Secure Real-time Transport Protocol sem tartalmaz védelmet az ilyen lehallgatás ellen.

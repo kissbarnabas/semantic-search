@@ -1,0 +1,26 @@
+A Google Apps szolgáltatást vezetik be Washington D.C. közigazgatásában
+
+[Bloomberg/HWSW] A Google nem csak a keresõpiacon konkurense a Microsoftnak, a redmondi óriás fejõstehenét, az Office-családot is  fenyegeti. Az Egyesült Államok fõvárosában, Washington D.C.-ben 38 ezer közalkalmazott számára teszik lehetõvé, hogy az Office alkalmazásai helyett a Google online szövegszerkesztõjét, táblázatkezelõjét és levelezõjét használják a napi munkához.
+
+
+
+Google a házban
+
+Az évi félmillió dolláros szerzõdés értelmében Washington D.C. közalkalmazottjai (tanárok, tûzoltók, könyvelõk, stb.) a Google webes alkalmazásait használhatják alternatívaként a számítógépekre telepített Microsoft-szoftverek helyett. Vivek Kundra, District of Columbia (D.C.) technológiai vezetõje elhatározta, hogy rendbe teszi a magas költségeket generáló, túlbonyolított, vírusok és egyéb kártevõk által megszállt városi számítógépes hálózatot. A nagytakarítás egyik hozadéka pedig a Google Apps bevezetése lett. 
+
+Kundra szerint a kormányzat informatikai szemmel nézve végfelhasználó, ennek ellenére sok kormányzati szerv dönt úgy, hogy maga kezd neki szoftvereket fejleszteni. "Amikor Washingtonba jöttem, a kávézóban használt laptopom nagyobb teljesítményû volt, mint egy átlagos tanár vagy rendõr gépe. Megvizsgáltuk a cloud computing modellt és arra jutottunk, sokkal olcsóbb mint saját infrastruktúrát birtokolni" -- mondta az informatikai vezetõ.
+
+Bonyolódik 
+
+Pro és kontra
+
+"Ha a Google tovább folytatja az olyan nagy ügyfelek megszerzését, mint amilyen Washington D.C., akkor a Microsoft nagyon sok licencet fog veszíteni" -- mondta Jeffrey Lindsay, a Sanford C. Bernstein elemzõje. A redmondiak évente 19 milliárd dolláros bevételt könyvelhetnek el az olyan alkalmazásokból, mint az Office, de idén már több komolyabb csatát kellett megvívniuk az ifjú ellenféllel. Ugyan az egyik óriásügyfél, a Procter&Gamble Co.-t is megkísértette a Google, de õk maradtak a Microsoft mellett, ellentétben például a Genentech-kel vagy D.C. közszférájával. 
+
+A Standard & Poor elemzõje Scott Kessler ezzel szemben azt állítja, hogy "a Microsoft beásta magát, és nem fog jelentõs mértékû piacot veszíteni a Google-lel szemben egyhamar, ezt pedig a kihívó is pontosan tudja." A Google saját szerverein tárol minden felhasználói fájlt, a szoftverek száma egyelõre kimerül néhány funkcióban (melyek valóban a leggyakrabban használt általános célú funkciók, de akkor is korlátozott a számuk), ráadásul egyáltalán nem mûködnek, ha nem él az internetkapcsolat.
+
+
+A "Kundra-üzleteként" elhíresült szerzõdés félmilliós összege halovány a Google 16,6 milliárdos tavalyi forgalma mellett, de a komolytalan ötletként indult irodai alkalmazások bevételei már most legalább három százalékot tesznek ki a teljes tortából. Világszerte több mint 500 ezer szervezet használja a Google Apps-t és naponta háromezerrel nõ a számuk. Azonban mivel egyelõre fõleg kisvállalkozások és egyetemek a jellemzõ ügyfelek, ezért hiába a nagy szám, nincs igazi súlyuk még a globális piacon. 
+
+Erõsen kapaszkodik a Microsoft
+
+Fõleg úgy, hogy az említett 500 ezerügyfél fele az ingyenes, reklámokkal támogatott változatot veszi igénybe, s csak a maradék fizeti be az évente 50 dolláros díjat minden felhasználó után. A Google igyekszik a funkcionalitást bõvíteni, megbízhatóbbá tenni a rendszerét, eközben a Microsoft éppen ott erõsít, ahol a Google jár elõrébb. A redmondiak új irodai szoftvereiben a közös munka, a megosztás és az online jelenlét kapták a  fókuszt, közben pedig gyors ütemben telepítik az adatközpontokat a felhasználók kiszolgálására. "Úgy tekintünk a Google-re, mint egy újabb elszánt kihívóra" -- mondta Keith Hodson, a Microsoft szóvivõje. Ugyanakkor nyugodtan állította, hogy az ilyen szerzõdések nem jelentenek számukra veszteséget, mert több éves megállapodásuk van többek közt Wahington D.C. városvezetésével és iskoláival is a Windows és Office szoftverekre. 

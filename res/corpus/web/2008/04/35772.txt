@@ -1,0 +1,12 @@
+Kritikus hibákat foltozott a Flash beépülõ modulon az Adobe
+
+[eWeek] Újabb frissítés érkezett az Adobe szinte minden internetre kapcsolódó számítógépen megtalálható beépülõ moduljához, a Flash Playerhez. Az újabb változat számos biztonsági rést foltoz, többek között legalább hét kritikus fontosságút is, mellyekkel át lehetett venni az irányítást a megtámadott képek fölött.
+
+
+
+A frissítés az Adobe Flash Player 9.0.115.0 és 8.0.39.0 változataihoz, vagy ennél korábbiakhoz tölthetõ le az Adobe oldaláról. Az Adobe Flash a webes videó és animáció de facto szabványa, hiszen az internetre kapcsolódó számítógépek 99 százaléka támogatja. A beépülõ modult folyamatosan fejlesztik, legutóbb a H.264 videokodek, formátum támogatását építette be az Adobe, mellyel már nagyfelbontású videók is továbbíthatók.
+
+
+A Flash mobil változata, a Flash Lite egyre több internetböngészésre is alkalmas mobiltelefonon kap helyet, a Flash 8-ra épülõ Flash Lite 3 epdig minden olyan videóformátumot támogat, amit az Adobe Flash, beleértve a streaming tartalmakat is. Ez a változat még csak a Nokia N95-ön érhetõ el, de a Microsoft nemrég bejelentette, hogy licenceli az Adobe-tól a Flash Lite technológiát, így hamarosan Windows Mobile-os okostelefonokon is megjelenhet.
+
+A legutóbb megjelent Adobe Flash 9 (Update 3) teljes képernyõs lejátszást is biztosít az ismertebb böngészõkben, Windows, Macintosh és Linux platformokon egyaránt. Az új Flash Player további fontos újdonsága, hogy kihasználja a legtöbb PC-ben ma már megtalálható hardveres videogyorsítást és a többmagos processzorokban rejlõ lehetõségeket.

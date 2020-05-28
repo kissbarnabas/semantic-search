@@ -1,0 +1,22 @@
+Visszavonulásra kényszerülhet a RapidShare fájlmegosztó
+
+Üzleti modell nélkül maradhat a RapidShare fájlmegosztó szolgáltatás, amennyiben a német bíróság legújabb, szerzõi jogokat, illetve azok megsértését szabályozó döntése jogerõs marad. Miután egy német jogtulajdonos beperelte, a RapidShare kénytelen volt elkezdeni bizonygatni, hogy mindent megtett az illegális tartalmak kiszûréséért, az pedig, hogy náluk érhetõ el legkönnyebben minden frissen megjelent tartalom illegális másolata, az puszta véletlen.
+
+
+
+A radar alatt
+
+A RapidShare az egyik legnagyobb szolgáltató, mely nagyméretû fájlok tárolását kínálja az internetfelhasználóknak, akik családjukkal, ismerõseikkel szeretnének megosztani adatokat, de nem áll rendelkezésükre ehhez alkalmas háttér. A szolgáltatás eredetileg 2006-ban indult a rapidshare.de domainnév alatt, de nem sokkal késõbb .com végzõdéssel is elérhetõvé vált. A népszerûség gyorsan jött, egy évvel az indulás után nár a világ minden táján szívesen használták .
+
+A RapidShare-en minden alapszolgáltatás ingyenes, de a korlátlan tárhelyért vagy a várakozás nélküli letöltésért vagy a nagy sávszélességért fizetni kell, hiszen ezek prémiumszolgáltatásnak számítanak. A webes fájlmegosztók kilógtak eddig a "warez" kategóriából, hiszen semmi közük nincs a zene- és filmipar által célkeresztjébe került peer-to-peer technológiákhoz, így elkerülték a figyelmet. Pedig az egyszerû webes felülettel bárki meg tud küzdeni, még azok is, akiknek semmilyen internetes tapasztalatuk nincs.
+
+A modell mûködni is kezdett, sikeressé vált, ráadásul olyannyira, hogy néhány régióban a RapidShare az összes adatforgalom 5 százalékát generálta -- nem kis részben az itt tárolt jogvédett anyagoknak köszönhetõen, amelyekre a linkeket általában fórumokon vagy blogokon lehet megtalálni. Ahogyan a többi népszerû fájlcserélõt is, a RapidShare-t is az emelte magasba, hogy képes a nagyméretû fájlokat egyszerûen célba juttatni, ráadásul nem probléma neki a jogvédett tartalom illegális másolása.
+
+Minden fájlt ellenõrizni kellene
+
+A németországi per nem ment valami jól a RapidShare-nek, és úgy tûnik a késõbbiekben csak rosszabra fordulhat a helyzet. A bíróság véleménye szerint a szolgáltató nem harcolt elég keményen a kalózkodás ellen, a szûrõik pedig nem elég hatékonyak. Éppen ezért a hamburgi bíróság döntése alapján a cégnek aktívvá kell válnia a jogvédett tartalmak illegális megosztása elleni harcban, nem elegendõ a külön megkeresés után eltávolítani az adott fájlokat. A bíróság döntése alapján a RapidShare-nek kötelessége proaktívan ellenõrizni a tartalmakat publikálás elõtt, továbbá naplóznia kell a potenciális kalózjelöltek, azaz minden felhasználó IP-címét is.
+
+
+A szolgáltatásban eddig is voltak beépítve védõgátak, például az egyszer már törölt állományokat nem lehetett újra feltölteni.  A bíróságon azzal védekezett a cég, hogy hat alkalmazottjuk teljes munkaidõben azzal foglalkozott, hogy a jogvédett tartalmakat eltávolítsa, de egyszerûen lehetetlennek tartják, hogy annyi erõforrást fordítsanak az ellenõrzésre, hogy minden fájl sorra kerüljön. A vádlott szerint lehetetlen lenne az üzleti életben maradni, ha ezt így csinálja valaki.
+
+A bíróság egyszerûen rövidre zárta a kérdést: "egy olyan üzleti modell, mely nem használja az elfogadott megelõzési módszereket, az ne számítson a jog védelmére." A bíróságot természetesen az már nem érdekelte, hogy az "elfogadott módszerek" ebben az esetben lehetetlenné tennék a mûködést. Amennyiben a RapidShare-nek egyenként manuálisan kell átnéznie minden fájlt a feltöltés után, akkor akár be is zárhatja kapuit. A 2005-ben indult szolgáltatás megszüntetése a kommentárok szerint egyszerûbb és olcsóbb lenne, mint betartani a bíróság határozatát.

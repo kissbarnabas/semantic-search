@@ -1,0 +1,12 @@
+Erõsen javasolt az Adobe Reader olvasószoftver frissítése
+
+[Techworld] Valszínûleg súlyos biztonsági rést foltozott be dokumentomolvasó alkalmazásán az Adobe, ugyanis erõsen javasolja a felhasználók számára a szoftver frissítését. A legújabb, 8.1.2-es változatra a beépített frissítõrutinnal a legegyszerûbb áttérni.
+
+
+
+Az Adobe nem árult el bõvebb információkat errõl a befoltozott résrõl, de biztonsági szakértõk szerint a számítógép valószínûleg könnyen támadható volt az olvasóprogramon keresztül. A Secunia jelenleg is vizsgálja, hogy az Adobe pontosan mit változtatott a programon, így képet kaphatnak majd arról, milyen hibát szüntetett meg az Adobe.
+
+
+A Secunia szerint egyelõre sem mintakódok létezésérõl, sem támadási kísérletekrõl nincsenek információk, de a PDF-es spamek tündöklése és késõbbi bukása korábban is rámutatott arra, hogy a formátumban megbíznak az internetezõk. Egy potenciális támadáshoz egy Adobe Readerben lévõ biztonsági rés különösen jó alapot adhatna. A Secunia becslése szerint a PC-k 60 százalékán megtalálható az Adobe Reader.
+
+Legutóbb 2007 szeptemberének végén találtak súlyos biztonsági rést az Adobe Readerben, ezt kihasználva egy elõre preparált PDF-állománnyal a támadók átvehették az irányítást a gép felett. A hiba a legújabb, 8.1-es változatú szoftverekben is fellelhetõ volt.

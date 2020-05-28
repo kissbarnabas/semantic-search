@@ -1,0 +1,26 @@
+Richard Stallman: az ingyen szoftver nem szabad szoftver!
+
+Budapesten tartott elõadást Richard Stallman, a legismertebb szabadszoftver-aktivista, a Free Software Foundation elnöke, a GPL licenc írója, a GNU projekt atyja, aki még ajándékba sem fogad el tulajdonosi szoftvert és nem néz DVD-t.
+
+
+
+Minden szoftver legyen szabad!
+
+A szabad szoftverek pápája rögtön azzal kezdte elõadását, hogy leszögezte, nála a "free software" az szabad szoftvert jelent, nem pedig ingyenest. Hiába ingyenes egy szoftver, ha nem szabad a forráskódját megnézni, módosítani és terjeszteni, akkor az nem szabad szoftver, az ördögtõl való és tûzzel-vassal üldözni kell. Stallman saját bevallása szerint soha nem fizetett szoftverért, és nem is használ nem szabad szoftvereket, hallgatóságát pedig arra kérte, õk se tegyék. "Minden szoftvernek szabadnak kell lennie hogy minden felhasználó szabad lehessen" -- mondta az aktivista.
+
+Mitõl szabad egy szoftver? Attól, hogy nem kell fizetni a használatáért, hogy elérhetõ és módosítható a forráskódja és hogy szabadon másolható, továbbadható, terjeszthetõ. Ami ezeknek a kritériumoknak nem felel meg, az nem szabad szoftvert, hanem tulajdonosi, még akkor is ha ingyenes, még akkor is ha a forráskódja nyilvános. Stallman szerint a programok csak ebbe a két kategóriába tartozhatnak. A "nyílt forrás" nem más mint egy marketing-terminológia, amelyet azok a vállalatok találtak ki, amelyek a szabad szoftverek üzleti elõnyeit (fejlesztési metódus) szerették volna hangsúlyossá tenni. A fejleszésközpontú megközelítés a vállalatok számára nagyobb marketingértékkel bír, mint az egyéni szabadságjogok.
+
+
+ Sokan vannak, akik kényelembõl lemondanak a szabadságukról a tulajdonosi szoftverek által biztosított kényelemért cserébe, de Stallman szerint ezzel nem csak ártanak a társadalomnak, hanem elvesztik a kontrollt a számítógépes rendszerük felett, nem tudják ellenõrizni milyen programok mit tesznek az adataikkal, gépükkel. Éppen ezért a mostanában divatos SaaS ("software as a service") modellel szemben is fenntartásai vannak a szabad szoftverek pápájának, hiszen a felhasználó nem tudhatja, a szolgáltatónál futó programok mit csinálnak, hogy mûködnek. 
+
+Az aktivista szerint az iskolákból ki kellene tiltani a tulajdonosi szoftvereket, ugyanis gyártóik ezeket úgy használják mint a drogokat. A diákok ingyen megkapják õket, függõségbe kerülnek, és amikor elhagyják az iskolát és dolgozni kezdenek, már csak pénzért kaphatják meg õket. Iskolában csak és kizárólag szabad szoftvereknek van helye, amelyeket a tanárok és diákok használhatnak, megnézhetik a forráskódjukat, azt módosíthatják, így hozhatják létre saját szoftverüket -- programozni is így lehet megtanulni Stallman szerint.
+
+A jogkezelõ rendszerek korlátozzák a felhasználókat
+
+A digitális jogkezelõ rendszerek (DRM) ellen is szót emelt Stallman. A DVD-k másolásvédelme a tulajdonosi szoftverekhez hasonlóan korlátozza a felhasználók szabadságát, tehát aki DVD-t vásárol, az közvetetten ezt az iparági összeesküvést támogatja -- fogalmazott Stallman, majd hozzátette, hogy õ még ingyen sem fogad el senkitõl DVD-t, hiszen szabad szoftverrel  nem lehet lejátszani. Az elõadáson elhangzottak szerint a DRM nem csak a felhasználókat korlátozza, hanem azon készülékek képességeit is, amelyekbe beépítik a DRM-et, tehát felhasználói szemmel nézve ezek hibásak, bénák. Stallman felhívta a figyelmet a DefectiveByDesign.org oldalra, amely a DRM-ellenes kampány központja.
+
+  Az elektronikus könyvolvasók is megkapták a magukét a szabad szoftverek szószólójától, aki szerint az "Amazon Swindle" vagy a "Sony Shreader" csak a jogtulajdonosok kísérlete arra, hogy az olvasókat megfosszák a könyvekkel kapcsolatos jogaiktól, azaz hogy akárhányszor elolvashassák õket, kölcsönadhassák õket a barátaiknak vagy hogy kikölcsönözhessék õket a könyvtárból. Hogy ezt Stallman mennyire komolyan gondolja az is mutatja, hogy annak idején az életrajzát csak olyan e-könyvkiadónál engedte megjelenni, amely lehetõvé tette a szabad hozzáférést és nem alkalmazott DRM-et.
+
+Nem technikai kérdés
+
+Stallman szerint szabad szoftvert használni morális kötelessége mindenkinek, aki elõre szeretné mozdítani a társadalmat, a kérdést pedig nem technikai, hanem filozófiai és etikai síkon kell vizsgálni. A tulajdonosi  szoftverek rabszolgává teszik a felhasználókat, a szoftvercégek ezeken keresztül próbálják meg uralmuk alá hajtani az embereket. "Ez digitális gyarmatosítás."

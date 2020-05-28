@@ -1,0 +1,29 @@
+Ambiciózus processzorral rukkol elõ a VIA nyáron
+
+Újra partiban a VIA?
+
+Alig néhány hete, hogy beszámoltunk a VIA Technologies hányatott sorsáról. A tajvani vállalat az ezredfordulót követõen a számítógépipar nagy reménységének számított, chipsetjeivel, energiahatékony processzoraival valamint kompakt platformjaival dollármilliárdos globális nagyvállalattá kívánt válni. Jelenléte mára azonban marginalizálódott a piacon, forgalmának nagy része pedig elolvadt. Iparági pletykák szerint a VIA visszavonul a kereskedelmi chipsetek piacáról, kizárólag teljes platformokat fog kínálni a jövõben.
+
+Ilyen körülmények közé érkezve az amerikai tervezõközpontban kifejlesztett Isaiah nagyban meghatározhatja a VIA késõbbi sorsát. A vállalat riválisaihoz képest erõsen korlátozott pénzügyi és mérnöki erõforrásai, valamint a saját félvezetõgyártás jelentette mûszaki hátránya ellenére az új mikroarchitektúra feltûnõen ambiciózus. Az Isaiah kifejezetten modern x86-os processzor benyomását kelti: a chip egy 64-bites, soronkívüli végrehajtással és gazdag erõforrásokkal rendelkezõ processzormagot implementál 65 nanométeres gyártástechnológián, mely vélhetõen az IBM nagyteljesítményû eljárását takarja. Az órajel a 2 gigahertzet is meghaladhatja. A cikk korábban tévesen állította, hogy az Isaiah kétmagos lenne, a kétmagos változat fejlesztése még folyamatban van.
+
+Az Isaiah fejlesztéseinek célja nem a csúcsteljesítmény felmutatása, hanem a leghatékonyabb x86-os processzor létrehozása volt, írja Glenn Henry, a VIA amerikai processzortervezõ leánya, a Centaur Technology alapítója és vezetõje az Extremetechen publikált bemutató cikkében.  A mainstream felhasználókat megcélzó hatékonyság a chip felépítésén keresztül a gyártási költségben és energiahatékonyságban egyaránt megmutatkozik az ígéretek szerint. Az Isaiah a VIA elsõ soronkívüli végrehajtású processzora, a jelenlegi és korábbi mikroarchitektúrák mellõzték azt annak komplexitása miatt, mely a fejlesztési erõforrások mellett  jelentõs tranzisztorszámot és energiabüdzsét emészt fel.
+
+
+A hatékonyság mellett cél volt a legújabb utasításkészletek, így a 64-bites és SSE-kiterjesztések támogatása is, mellyel legújabb szoftverek is probléma nélkül futtathatóak. A tervezõcsapat koncepciója az volt, hogy a processzorkutatási terület legújabb vívmányaira alapozva hozzanak létre egy teljesen új mikroarchitektúrát, maguk mögött tudva az elõzõ generációk örökségeit, miközben az új chip platformszinten kompatibilis marad. Az Isaiah C7-nél azonos órajel és fogyasztás mellett 2-4-szer nagyobb teljesítményt ígér.
+
+Ígéretes architektúra
+
+A hatékonyság szem elõtt tartása és a pazarlás kerülése az egész designt áthatni látszik. Az órajelenként három utasítás dekódolására képes Isaiah mindegyik dekódere képes kettõ kombinálható x86-os utasítás összeolvasztására (macrofusion), továbbá a mikroutasításokkal is képes ugyanezt megtenni, csökkentve az utasítások számát, spórolva a processzor belsõ feldolgozási kapacitásával. A kidobott végrehajtási idõ és energia minimalizálása érdekében a fejlesztõk több specializált, összesen 8 elágazásbecslõ alkalmazása mellett döntöttek a feldolgozás két fokozatában. A különbözõ becslõk közös szavazásokkal határozzák meg az elágazás irányát. 
+
+
+A szilícium kihasználtságának maximalizálása érdekében az Isaiah exkluzív (az L1 adatait nem tartalmazó) 1 megabájt, 16-utasan asszociatív L2 cache-t alkalmaz 64 kilobájt 16-utas L1 cache-ek mellett -- az Intel Core L1 cache mérete és asszociativitása fele akkora, míg az L2 bár 4 megabájt, csak 8-utasan asszociatív, amivel relatíve alacsonyabb hatékonyságú.
+
+ A multimédia végrehajtóegység 2 órajeles késleltetéssel rendelkezik bármilyen lebegõpontos összeadás, és egy órajeles késleltetéssel a legtöbb SSE-utasítás esetében. A memóriaegyégek mellett az Isaiah két egészpontos végrehajtó blokkal bír. Az Isaiah megörökli az elõdök hardveres kriptográfiai gyorsító blokkját, a PadLock motort, valamint immár hardveresen támogatja a virtualizációt is, mégpedig az Intel kezelésével kompatibilis módon.
+
+A hatékony felépítés mellett a design kifinomult dinamikus energiagazdálkodással bír. A modern processzorok a terhelés függvényében képesek különbözõ állapotokat felvenni, melyekhez különbözõ feszültség-órajel szintek tartoznak. Az Isaiah mindezt ugyanakkor teljesítményveszteség nélkül, "ingyen" produkálja azáltal, hogy két független órajelgenerátor áramkört alkalmaz, melyek összedolgoznak. A processzor órajelének változásakor a szabadon álló áramkör veszi fel a kívánt állapotot, majd veszi át az órajel generálását, majd a felszabaduló másik készen áll az újabb változásra -- az iteráció a kívánt állapot eléréséig tart, mindeközben a processzor végrehajtása és a busz továbbra is üzemel, míg például az Intel chipek esetében felfüggesztésre kerülnek.
+
+Az órajel és feszültség a terhelés függvényében történõ szabályozása mellett az Isaiah képes további szempontokat figyelembe venni. A processzor energiagazdálkodási logikája a hõmérséklet változásával is kalkulál, így egy bizonyos, a "vártnál" alacsonyabb hõmérséklet  követõen az üzembiztos mûködéshez szükséges feszültséget is redukálja, jelentõsen csökkentve a fogyasztást. Ugyanezt megfordítva, teljes terhelésen képes a nominális értéken túl hajtani a processzort, ha azt a hõmérséklet lehetõvé teszi. A hûtésben korlátozott rendszerek érdekében a maximális elfogadott maghõmérséklet szoftveres úton csökkenthetõ.
+
+Készülnek a fejlettebb utódok is
+
+Az Isaiah a VIA ígérete szerint elsõ implementációja csak az új családnak, az utódok fejlesztései már megkezdõdtek. Az Isaiah-családdal a VIA vélhetõen az olcsó vagy rendkívül alacsony fogyasztást megkövetelõ területek célozza meg, miközben teljesítménye megfelelõ lehet a mindennapi használat során. Az ígéretek szerint idén nyáron kezdi meg a chip szállításait a VIA. Henry cikke az Extremetech oldalain itt olvasható.

@@ -1,0 +1,14 @@
+Megtántorodott az NVIDIA az AMD ellencsapásától
+
+Húsz százalékkal esett vissza éves szinten az NVIDIA október 26-val zárult negyedéve, ennek ellenére a vállalat elõrelépésként értékelte azt az elõzõhöz képest, ugyanis újra nyereséget termelt. A világ legnagyobb árbevételû grafikuschip-tervezõje vissza kívánja foglalni az AMD-vel szemben elvesztett piacrészeit.
+
+
+
+Az NVIDIA háromhavi forgalma 897,7 millió dollárt tett ki, szemben a tavalyi 1,12 milliárddal, miközben a második negyedéves árbevételét sem tudta lényegében felülmúlni a hagyományosan nagyon erõs harmadik negyedéves szezonalitás ellenére sem -- a Jon Peddie Research adatai alapján közel 18 százalékkal több grafikus chipet szállítottak le a vállalatok, mint a második negyedévben. Az adózott nyereség 61,7 millió dollárt tett ki, szemben a tavalyi 236 millióval, a rendkívüli kiadásoktól tisztított nyereség 111,4 milló lett volna. Az AMD egyértelmûen hatalmas nyomás alá helyezi a vállalatot ATI Radeon grafikus családjával.
+
+Az elõzõ negyedévet az NVIDIA rég nem látott veszteséggel zárta, miután bizonyos GeForce lapkáival kapcsolatos visszahívások és garanciális javítások 196 millió dolláros költsége lehúzta eredményeit, miközben az új AMD ATI Radeon 4000-es generáció megjelenése is megkezdte kifejteni hatását. A második negyedéves 120,9 millió dollár veszteséget követõ 61,7 millió dollár nyereség az NVIDIA szerint az elõrelépés egyértelmû jele. "Több fronton is jól haladtunk a negyedév alatt" -- fogalmazott Jen-Hsun Huang elnök-vezérigazgató. "A teljesítményorientált szegmensünket 55 nanométerre mozgattuk át, és készen állunk az elvesztett részesedés visszaszerzésére".
+
+
+A Jon Peddie Research adatai alapján az NVIDIA nemcsak árprés alá került a bosszúszomjas AMD részérõl, de a piac 18 százalékos bõvülése közepette valójában képtelen volt több grafikus chipet értékesíteni a megelõzõ negyedévhez képest. Ez a stagnálás 3,6 százalékpontjába került, melybõl 2,5 pontot az AMD szerzett meg. Miközben rohamosan veszti el forgalmát az asztali videokártyáknál, addig az Intel Centrino 2 megjelenése is rosszul érintette a céget, a platformot ugyanis erõteljesen az Intel integrált magok, és meglepetésre, az AMD ATI Radeonok dominálják -- a két cég büszkén mutogatja közös mobiltermékeiket a játékosok számára.
+
+Bár az NVIDIA továbbra is vezet az AMD elõtt, és több mint másfélszer több grafikus chipet értékesített a harmadik negyedévben, elõállítási költségei lényegesen magasabbak, ugyanis a GT200 még 55 nanométeren is több mint másfélszer nagyobb területû az RV770-nél, az elõállítási költsége ennek megfelelõen drámaian magasabb, miközben a teljesítményfölény sokkal moderáltabb -- a csúcskategóriás szegmenst, ahol a GT200 ki tudja futni magát, multi-chip kártyákkal fedi le az AMD. Az NVIDIA problémája egyszerû: az AMD jelenleg sokkal több teljesítményt tud kicsikarni egységnyi szilícium területbõl.

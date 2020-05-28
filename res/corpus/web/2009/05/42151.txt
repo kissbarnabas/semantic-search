@@ -1,0 +1,26 @@
+Adattolvajok szállták meg a Facebookot
+
+Becsapós
+
+A múlt héten kirobbant facebookos phishing-támadásnak sok millió figyelmetlen áldozata lett. A módszer a szokásos, az azonnali üzenetküldõkön, fõként a Live Messengeren már ismerõs forgatókönyv adaptálódott a Facebookra is. A felhasználó üzenetet kap valamely ismerõsétõl, barátjáról, amiben valamilyen körítés mellett egy link is található. Rákattintva azonban nem egy érdekes oldalra, hanem a Facebookhoz megtévesztõen hasonlító oldalra kerül a felhasználó, ahol be kellene írnia a loginnevét és jelszavát. Laikusok számára úgy tûnik, mintha csak kiléptette volna õket a rendszer és újra be kellene lépni, ami a legtöbb ember számára kicsit sem gyanús. 
+
+A Twitteren hasonló módon indult egy phishing-támadás, de ott még arra is figyeltek az adattolvajok, hogy az URL se legyen feltûnõ, ezért a twitter.com helyett a tvvitter.com domaint használták, a dizájn pedig itt is megszólalásig azonos az eredetivel. A gyors kommunikációt elõnyként pozicionáló rendszereknél ez esetben a sebesség volt a legnagyobb ellenség, mert mire a történet nyilvánosságot kapott, addigra tûzvészként söpört végig az egész világon.
+
+Könnyen és gyorsan
+
+
+
+A közösségi oldalakon történõ adathalászat népszerûségének alapja épp az, hogy nagyon könnyû adatokat szerezni, a felhasználók nem gyanakvóak, és egyszerre hihetetlen mennyiségû embert lehet elérni. Akik pedig nem a legújabb verziójú böngészõket használják frissített phishing-szûrõvel, vagy nem készültek fel egyéb módon az ilyen támadásokra, többnyire be is kapják a csalit.A Facebook-hozzáférés ellopása az adatszerzõ akció folytatására tökéletes, spamküldésre is kiváló, az igazi fenyegetés viszont az, hogy a legtöbb ember ugyanazt a jelszót és felhasználói nevet használja minden egyes szolgáltatás esetében, így a közösségi hálózat mellett akár banki, vállalati, és egyéb hozzáférések, adatok is veszélybe kerülhetnek. 
+
+A legjobb megoldás, ha valaki képes felismerni a félrevezetõnek szánt támadásokat, de ha egy felhasználó nem biztos magában, akkor mindenképp érdemes az Internet Explorer 8 vagy a Firefox 3 böngészõket használni, utóbbiban a NoScript kiegészítõ segítségével könnyen le lehet buktatni a legtöbb rosszindulatú oldalt. A legjobb orvosság viszont továbbra is a címsor ellenõrzése gyanús esetekben, illetve a beérkezõ furcsa levelek ignorálása.
+
+Változtass jelszót!
+
+Aki áldozatává vált bármelyik támadásnak, akár a Live Messenger hónapok óta tartó akciójának vagy a Facebookon Twitteren terjedõ járványnak, az azonnal változtassa meg jelszavait, s ha már úgyis aktuális, akkor gondolja át a jelszókezelési stratégiáit. 
+
+
+A fontos szájtok esetében mindig egyedi jelszót érdemes választani, s csak a lényegtelen tömegregisztrációhoz közös jelszavakat használni. Az internetbank, webes levelezõ, közösségi szolgáltatások mind kiemelt biztonsági figyelmet érdemelnek. A jelszavak legalább 8 karakter hosszú szám-betû kombinációk legyenek, ha speciális karakter is belefér, akkor még jobb. A jelszó ne szótári szavakat tartalmazzon, vagy ha igen, akkor a magánhangzókat érdemes számokkal helyettesíteni vagy szándékosan helytelenül írni a szót.
+
+Droidtámadás
+
+A kellemetlen, de ártalmatlan spam mellett amennyiben vállalati környezetben okoz galibát a phishing, akkor annak komolyabb következményei lehetnek. Márpedig a kutatások szerint a nyilvánvaló publikus célok mellett valójában a vállalati adatszerzés a cél. A Intrepidus Group által idén végzett kutatás, mely világszerte 69 ezer vállalati dolgozót vizsgált, megállapította, hogy a felhasználók 23 százaléka fogékony a támadásokra, kattintanak, válaszolnak. Sõt, a becsaphatóak 60 százaléka a levél megérkezését követõ 3 órán belül cselekszik, ami a gyakorlatban azt jelenti, hogy pillanatok alatt az egész világon lehet fertõzni.

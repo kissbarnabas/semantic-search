@@ -1,0 +1,12 @@
+Gartner: tévedtünk, mégis az IBM vezeti a szerverpiacot
+
+Visszamenõleg módosította az elsõ negyedévre vonatkozó szerverpiaci jelentését a Gartner. A módosított számok alapján a piac 4,3 százalék helyett csak 2,5 százalékkal nõtt, és az élen is megcserélõdött a sorrend, a HP helyett mégis az IBM ül a trónon.
+
+
+
+A friss statisztika szerint az elsõ negyedévben az IBM 3,9 milliárd dollár értékben forgalmazott szervereket, ezzel piacvezetõ a 3,77 milliárdos bevételt elkönyvelõ HP elõtt. A harmadik helyen az 1,6 milliárd dollárt kaszáló Dell áll, a negyediken pedig a Sun Microsystems, amely a vizsgált idõszakban 1,3 milliárd dollár értékben adott el szervereket. Az ötödik legnagyobb szerverszállító a Fujitsu (Siemens) 732 milliós bevétellel. Forgalom szempontjából a legnagyobb növekedést a Dell érte el, de a texasi cég is csak 6,6 százalékkal tudta növelni bevételét egy év alatt, ahogy egyre inkább teret nyernek az alsóbb kategóriás kiszolgálók. A nagyok közül egyedül a Sun szerverforgalma csökkent, a cég 0,7 százalékos bevétel-visszaesés volt kénytelen elkönyvelni.
+
+
+ A leszállított gépek darabszámát tekintve semmi és senki sem fenyegeti a HP utalmát, a kaliforniaiak által eladott 683 ezer szervert a Dell 516 ezres volumene meg sem közelíti, bár azt mindenképp meg kell jegyezni, hogy a Dell a HP-nál kétszer nagyobb ütemben, 15,8 százalékkal növelte szállításait. Az IBM 302 ezer szervert adott el az elsõ negyedévben és egy picivel a piaci átlag alatt nõtt, míg a negyedik helyen álló Sun 84 ezer rendszert szállított le, a volumen növekedése náluk is mérsékelt, 6,6 százalékos volt. Az öt legnagyobb cég közül egyedül a Fujitsu (Siemens) volumene csökkent, 2,6 százalékkal.
+
+A Gartner eredetileg májusban tette közzé elsõ negyedéves szerverpiaci jelentését. Az "adatok további elemzése" nyomán módosított számok a HP-ra nézve kedvezõtlenek, az eredeti prognózisban még 4 milliárd fölé becsülte a cég szerverforgalmát a Gartner, amelyet most 3,7 milliárd dollárra módosított. A HP értékesítési volumenére vonatkozó adatait azonban nem módosította a Gartner.

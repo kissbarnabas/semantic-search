@@ -1,0 +1,16 @@
+Nagyobb teljesítményt és jobb skálázhatóságot ígér a MySQL 5.4
+
+A MySQL Conference Expón elrajtolt az immár a Sun Microsystems irányítása alatt fejlesztett nyílt forrású adatbázis legújabb változata, amely egyelõre csak elõzetes változatban tölthetõ le a www.mysql.com/5.4 weboldalról.
+
+
+
+A MySQL 5.4 leginkább teljesítmény és skálázhatóság terén hoz újdonságokat, a fejlesztések lehetõvé teszik az InnoDB motornak hogy akár 16-utas x86 szervereken és 64-utas CMT szervereken is skálázódjon -- utóbbi a Sun UltraSPARC T-sorozatú processzoraira épülõ rendszereket takarja. A Sunnál kiemelt figyelmet fordítottak a többmagos processzorok támogatására, ennek érdekében módosítottak többek között a memória- és szálkezelésen is.
+
+
+ Jó hír a fejlesztõknek és a felhasználóknak, hogy a MySQL 5.4-ben bevezetett újdonságoknak köszönhetõen a meglevõ alkalmazások anélkül kapcsolhatnak magasabb sebességi fokozatba, hogy a kódjukhoz hozzá kellene nyúlni, az adatbázisban található, nagyobb teljesítményt és jobb skálázhatóságot célzó fejlesztések jó része ugyanis transzparens.
+
+Az adatbázis teljesítményét olyan fejlesztések javítják mint a lekérdezések optimalizálása, új lekérdezési algoritmusok bevezetése és új tárolt eljárások megjelenése, ezeknek köszönhetõen a MySQL 5.4 sebessége látványosan felülmúlja elõdeiét. Természetesen a tényleges gyorsulás mértéke változó, de egyes lekérdezések futási ideje a töredékére esett vissza -- állítja a Sun. A szoftverben emellett számos módosítást hajtottak végre annak érdekében, hogy a lehetõ legjobban fusson Solaris operációs rendszeren.
+
+"A MySQL 5.4 jobban használható scale-up környezetben, nagy multiprocesszoros rendszerekben. Töltsék le az elõzetes verziót és küldjék el nekünk visszajelzéseiket, azt szeretnénk ha ez lenne minden idõk legjobb minõségû és leggyorsabb MySQL-kiadása " -- mondta a MySQL Conference & Expo rendezvényen Karen Tegan Padir, a Sun MySQL-ért és infrastruktúra-szoftverekért felelõs vezetõje.
+
+A MySQL új verziója szokás szerint számtalan hardver- és szoftverplatformon lesz elérhetõ, beleértve a Solarist, Linuxot, Windowst, Mac OS X-et, Free BSD-t, HP-UX, IBM AIX UNIX-változatokat, valamint az IBM i5/OS operációs rendszert. A szoftver elõzetese jelenleg forráskódként, valamint 64 bites Linuxon és Solaris 10-en futó változatban tölthetõ le. A végleges változat érkezésének idõpontja egyelõre nem ismert.

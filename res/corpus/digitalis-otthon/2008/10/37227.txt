@@ -1,0 +1,24 @@
+Teljesen nyílt forrásúvá vált a Google Android
+
+[eWeek/HWSW] A Google megnyitotta az Android szoftverplatform teljes forráskódját és Apache licenc alatt elérhetõvé tette. Ez nem csak azt jelenti, hogy a fejlesztõk, szolgáltatók és hardvergyártók a legmélyebb rétegekig beleláthatnak a kódba, hanem azt is, hogy lényegében bárki piacra dobhat olyan telefont, ami erre a szoftverre épül.
+
+
+
+Teljes szabadság
+
+Az Apache licenc megengedi a szoftver szabad felhasználását, terjesztését és módosítását, azonban a GPL-lel ellentétben a módosított kódot nem kötelezõ nyilvánosságra hozni, illetve az így létrejött kód licence is tetszõleges lehet. A nyílt forrású licencek közül az Apache adja talán a legnagyobb szabadságot a szoftver- és készülékfejlesztõknek, ugyanis anélkül építhetnek egyedi megoldásokat az Androidra alapozva, hogy azokat feltétlen tovább kellene adniuk -- a mobilszolgáltatók aligha látnák szívesen, hogy egyedi megoldásaik a versenytársaknál bukkannak fel.
+ 
+
+ A Google kevesebb mint egy évvel ezelõtt indította útjára mobilos szoftverplatformját, amelyre elsõként a HTC épített készüléket. Az egyelõre kizárólag az amerikai T-Mobile kínálatában kapható G1 készülékrõl szeptember végén lebbent fel a fátyol, a mobilt interneten elõrendelõ vásárlókhoz holnap kezdik meg a termékek kiszállítását, a Google ennek alkalmából nyitotta meg az Androidot.
+
+A platform -- beleértve a hálózati és a telefon réteget -- teljes felszabadítása a Google szerint az alkalmazások számának gyors növekedéséhez vezet, illetve a készülékgyártók közötti versenynek köszönhetõen több, olcsóbb és jobb minõségû Android-alapú telefont eredményezhet. "Egyszerûen fogod a forráskódot, felteszed a hardverre és van egy mûködõ telefonod" -- mondta Erik Tseng, a Google Android programmenedzsere.
+
+Az elsõ: G1
+
+Az elsõ Android-alapú telefonban, az elcsúsztatható QWERTY-billentyûzettel és érintõképernyõvel rendelkezõ T-Mobile G1-ben egy 528 MHz-es Qualcomm 7201 processzor dolgozik, mellette 64 megabájt RAM, illetve 128 megabájt ROM ad helyet a programoknak. Természetesen microSD kártyával bõvíthetõ a tárhely, a készülékbe szerelt fényképezõgép 3,1 megapixel felbontású, míg a 3,17 hüvelyk átmérõjû kijelzõ 480x320 pixelt képes megjeleníteni -- épp annyit mint az iPhone.
+
+
+
+A G1 nem meglepõ módon négysávos GSM, támogatja az UMTS, HSDPA, SUPL szabványokat, találunk benne 802.11b/g vezetéknélküli csatolót, GPS-vevõt és Bluetooth 2.0-t. Igaz, ez utóbbi az iPhone-hoz hasonlóan korlátozva lesz a headsetekre és vezetéknélküli fülhallgatókra, a fájlátvitelt egyelõre nem engedi a telefon. A G1 az Egyesült Államokban 179 dollárba kerül, de az iPhone-hoz hasonlóan a készülék megvásárlása 2 év T-Mobile hûséghez, illetve adatcsomag-elõfizetéshez kötött.
+
+Az öreg kontinensen csak az Egyesült Királyság lakosai ismerkedhetnek a G1-gyel idén novembertõl, a többi ország 2009 elsõ félévében zárkózik majd fel fokozatosan. Az elsõ negyedévben Németország, Csehország, Ausztria és Hollandia számíthat Android telefonokra, Magyarország valószínûleg a lista utolsó körében csatlakozik majd.

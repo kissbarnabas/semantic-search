@@ -1,0 +1,11 @@
+iPhone-ra és Windowsra is azonnal kézbesíti a leveleket a Gmail
+
+Nem kell többé az iPhone, illetve a Windows Mobile platformot választó Gmail-felhasználóknak 15 perces késleltetéssel számolni az e-mailek automatikus letöltésénél, ugyanis a Google Sync mostantól támogatja ezeken a készülékeken is a push e-mail-t, azaz új levél érkezésekor a szerver azonnal kiküldi azt a kliensnek, s nem kell a mobilnak folyamatos kérésekkel bombázni a szervert.
+Ha már a mobil készülék folyamatosan online van, akkor ennek érdemes kihasználni az elõnyeit, s a ritmusos ismétlõdõ lekérdezések helyett egyszerûbb a push megoldást választani. Korábban Windows Mobile-on és iPhone-on csak egy külsõ program segítségével lehetett volna csak ugyanezt megoldani, de immár az Apple készülékek saját belsõ email/határidõnapló kliensével is mûködik az állandó szinkronizáció. A Google Syncen keresztüli push e-mail funkcióhoz iPhone OS 3.0  szükséges legalább, illetve ajánlott egy teljes készülékmentést készíteni a beállítás elõtt. Utána viszont egyszerûen, három-négy lépésben beállítható. Mindössze követni kell a Google leírását, beírva a felhasználói nevet, jelszót és az Exchange-szerver címét (m.google.com).
+
+Ezt követõen kiválasztható, hogy a levelek, kontaktlista és határidõnapló közül melyek legyenek szinkronban tartva. Ha mindent sikerült beállítani, akkor a Gmail webes felületén és az eszköz képernyõjén egy idõben jelennek meg majd az új levelek. A részletes leírás és további segítség az m.google.com/sync webcímen található.
+Ami az iPhone-on gyerekjáték, az a Windows Mobile platformon kissé bonyolultabb. Elméletileg ott is lehetséges ugyanezen beállítás, de a Google nem specifikálta, hogy mely verziók támogatják, a leírások hiányosak, s egy gyors teszt során egy Windows Mobile 6.1-et futtató telefonon nem is sikerült beállítani a Syncet a Google instrukciói alapján.	     
+                  
+                  
+                  
+                   

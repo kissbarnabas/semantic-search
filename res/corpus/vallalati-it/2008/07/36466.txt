@@ -1,0 +1,10 @@
+Erõsen ajánlott biztonsági frissítés 64-bites Linux 2.6.25 kernelekhez
+
+A stabil Linux kernelt karbantartó csapat erõsen ajánlja, hogy a 64-bites x86 (x86-64) platformon többfelhasználós Linux-környezetet futtatók azonnal frissítsék a 2.6.25 verziójú rendszermagot, ugyanis egy hiba lehetõvé teheti helyi felhasználók számára jogosultsági szintjük megemelését.
+
+
+
+Greg Kroah-Hartman, a Novell alkalmazottja és a kernel egyik karbantartója a Linux kernel levelezõlistáján jelentette be a 2.6.25.11 kernel elérhetõségét, melyet erõsen javasol olyan rendszerekre, melyekhez nem megbízható helyi felhasználók is hozzáférnek. A 2.6.25.11-es kernel ugyanis foltozza azt a sebezhetõséget, mely x86-64-es processzoron futó gépeken lehetõvé teszi a privilégium jogosulatlan emelését. A támadási felületet nem részletezte Kroah-Hartman. 
+
+
+A 2.6.25.11 alig néhány nappal követi a .10-es kiadást, mely a sys32_ptrace funkció rendszerinstabilitást okozó sebezhetõségét foltozta. Hogy ezek a hibák a legfrissebb, 2.6.26-os kernelben is megtalálhatóak-e, nem tudni, ugyanakkor Kroah-Hartman levelében kifejezetten a 2.6.25-ról beszélt, így valószínûsíthetõen nem. Néhány hónappal ezelõtt egy másik jogosultságelevációs hibát fedeztek fel a Linux kernel 2.6.17-tól a 2.6.24.1-ig terjedõ verzióiban. Ezt kiaknázó exploitok is születtek, ugyanakkor egy szigorúan korlátozott felhasználó szerencsés esetben le sem tudja futtatni a támadó kódot.

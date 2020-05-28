@@ -1,0 +1,31 @@
+Kell a Google fordítóprogramjának az emberi segítség
+
+Nem adja fel
+
+
+
+A Google Translation Toolkittel a szerkesztõk, fordítók könnyen javíthatják ki a gépi fordítást a helyesebb, értelmes változatra. Az eszköz már nem weboldalakra és kifejezésekre fókuszál, hanem teljes szövegekre, dokumentumokra is felkészült. A Google hivatalos blogján hozott példa szerint ha egy arabul beszélõ olvasó egy Wikipedia-cikket szeretne lefordítani saját nyelvére, akkor betölti a dokumentumot a Translator Toolkitbe, az automata elvégzi a fordítást, amit a felhasználó kézzel korrigálhat és egy kattintással akár publikálhatja is vagy továbbküldheti bárhová. A korrigálásban segítségére lesznek a fordítást segítõ keresések, a kétnyelvû szótárak és a felhasználói értékelési rendszer.
+
+
+ 
+
+A Translation Toolkitet a Google összekapcsolta a Wikipediával, a programból közvetlenül lehet a népszerû közösségi enciklopédiába tartalmat feltölteni: ez az elsõ fontos terület, ahol a Google szeretné bevetni a fejlesztését. A lényeg az emberi javításokban van, mert a teljes szövegeket átbogarászó önkéntesek által végzett korrekciókat megtanulja a rendszer és egyre jobban finomodik majd a fordítás minõsége mind a 47 nyelven.
+
+Kapcsolt üzemek
+
+Az eszköz továbbá integráltan tartalmaz Knol-támogatást (a Google tudástára) is, és elboldogul a legtöbb szabványos dokumentumtípussal, beleértve a HTML-t és a Wordöt. A profi fordítók felé is próbál nyitni az online cég, mégpedig azzal, hogy olyan funkciókat is beépített mint a fordítási memória, illetve a szakszövegek értelmezését segítõ terminológiai szedet.
+
+
+
+
+
+
+
+A Google Translate primitív
+
+Pataki E. Balázs, a Sztaki Szótár egyik fejlesztõje úgy tudja, hogy a Google megoldása többnyire statisztikai alapon próbálja meg kitalálni, hogy több egymást követõ szó együtt mit jelenthet. Ennek eredményeképp a változatos és bonyolult magyar nyelvben sokszor a legtriviálisabb fordulatokat is helytelenül fordítja, például könnyedén lesz állításból tagadás. A Google fordítója jelenleg primitív, inkább szórakoztató, mint hasznos.
+
+
+Pataki szerint ugyanakkor a Google fordítás nagyon hasznos is lehet más karakterkészletekrõl való szöveg átemelésekor, vagy teljesen idegen nyelvvel való találkozáskor, persze csak úgy ha saját nyelvi intelligenciánkat is hozzáadjuk. Ha a kontextust ismeri a felhasználó, akkor a rossz fordításból is kisilabizálható a lényeg. 
+
+A Google Translate hiába gyenge még, a Mountain View-i cég szívén viseli sorsát, s a fejlesztések, törekvések, új elemek megjelenésének dinamikáját nézve akár pár éven belül áttörés is lehetséges. Az Európai Unió egyik most futó, FP7 kiírásában szerepel egy EU-finanszírozott integrált projekt, ami öt év leforgása alatt létrehozna egy, a Google Translate-t meghaladó, az összes európai nyelvre mûködõ gépi fordítót. A megvalósulás esélye ugyan csekély, de már részeredmények is sokat segíthetnének az európai kommunikációban.

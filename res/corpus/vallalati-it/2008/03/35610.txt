@@ -1,0 +1,17 @@
+Szinte fájdalommentes SPARC-migráció x86-ra a legújabb QuickTransittal
+
+Költséghatékonyabb Intel vagy AMD processzorral szerelt szerverre migrálhatóak a Solaris/SPARC platformra írt alkalmazások immár anélkül, hogy a Solaris operációs rendszert le kellene cserélnünk. Az ezredfordulón alapított Transitive a napokban jelentette be következõ QuickTransit termékét, mellyel immár Solaris/SPARC binárisok futtathatóak Solaris/x86-64 platformon is, mindenféle módosítás nélkül -- a szoftver megkapta a Sun Solaris minõsítését is.
+
+
+
+A Transitive futásidejû fordításra épülõ technológiája már számos szoftverben megtalálható, így például az Apple számítógépeinek migrációját is segítette PowerPC-rõl x86-ra azáltal, hogy az eredetileg Mac OS/PowerPC-re írt alkalmazások némi teljesítménycsökkenés árán ugyan, de futottak Mac OS/x86 konfigurációkon, míg az Apple vagy a független szoftverfejlesztõk nem portolták azokat -- de a Transitive megoldása biztosítja, hogy az IBM System p Linux partíciói akár x86-os Linux kódot is futtathatnak, de az SGI IRIX/MIPS-Linux/Itanium migrációját is támogatja. 
+
+
+Nem csak partnerei számára biztosít azonban technológiát a vállalat, QuickTransit néven kereskedelmi szoftverként is megvásárolhatóak megoldásai. Eleddig, vélhetõen fõként az Intel támogatásának hatására, a Solaris/SPARC képezte a kiszemelt forrásplatformot: már négy évvel ezelõtt demonstrálta a Solaris/SPARC alkalmazások futtathatóságát Linux/Itaniumon, majd ezt a Linux/x86-64 kombóra is kiterjesztette. Az Intel ezt kihasználva természetesen jópárszor elsütötte, hogy a legnagyobb teljesítményû Solaris/SPARC konfiguráció Itanium-alapú.
+
+A QuickTransit for Solaris/SPARC to Solaris/x86-64 elõnyének az bizonyulhat sok felhasználó számára, hogy nem szükséges Linuxra váltani ahhoz, hogy x86-os gépek váltsák fel a SPARC dobozokat -- az átállás a lehetõ legfájdalommentesebb, megtartható a Solarisos környezet a rendszergazdák számára már ismert felügyeleti eszközökkel. A Transitive technológiájából fakadóan az alkalmazások nem egy elszigetelt konténerben futnak, hanem az operációs rendszer "natív" környezetében, a felhasználói térben, a natív kóddal bíró szoftverekkel teljesen megegyezõen, így használatuk és menedzselésük sem különbözik.
+
+[+] A QuickTransit technológiájának mûködése
+
+
+Mivel a technológia platformagnosztikus, a jövõben további migrációs irányok megnyitása is várható. A közleményben a Transitive bejelentette egyúttal azt is, hogy a Sunnal közösen vizsgálják x86-os szoftverek SPARC-on való futtatásának lehetõségét is, és egy ideje munkálatok folynak a z/OS kódok Linux/Itaniumra mozgatásával kapcsolatban is. Bár az alkalmazások virtualizált futtatása felvet tesztelhetõség- és hibakeresésbeli kérdéseket, a HWSW úgy tudja, hogy már üzemelnek teszt- vagy éles szerverek, melyek Solaris/SPARC kódot futtatnak Linux/Itanium alapokon.

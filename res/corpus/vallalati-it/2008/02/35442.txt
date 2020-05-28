@@ -1,0 +1,35 @@
+Megérkezett az X300, mely a tökéletes ThinkPad a Lenovo szerint
+
+Nagy felhajtás közepette Párizsban mutatta  be új ThinkPad notebookját Európának a Lenovo. Az X300 a vállalat eddig "legtitkosabb terméke" volt, hangzott el, mely a cég reményei szerint nem csak a cég portfóliójában, de a piacon is új kategóriát teremt. 
+
+
+
+Az ideális ultrahordozható?
+
+Formátumából fakadóan az X300 elsõ ránézésre egy bizalomgerjesztõ vékony és könnyû kategóriájú modell (thin&light), hasonlóan például a Fujitsu Siemens LifeBook S-sorozatához. A Lenovo azonban nem restelli ultrahordozhatónak hívni a gépet, mely bár mérete miatt vitatható állítás, messze nem nélkülöz minden alapot. Az X300 ugyanis bár 13,3 hüvelykes szélesvásznú kijelzõvel szerelt, a beépített DVD-író ellenére is legvékonyabb pontján 18,5 milliméter vastag, és tömege mindössze 1,42 kilogramm 3-cellás akkumulátorral, mely 3-4 óra üzemidõt biztosít -- a kivehetõ optikai meghajtó nélkül 1,33 kilogramm is elérhetõ. Igen impresszív paraméterek, egy X60s vagy X61s például vastagabb és valamivel nehezebb is azonos akkumulátoridõ mellett. 
+
+A 13,3 hüvelykes széles kijelzõ révén természetesen azonban 2-2,5 ujjnyival ugyan szélesebb egy X60-nál, miközben mélysége nagyjából megegyezik, az X300 azonban így is rendkívül kompakt a piacon lévõ modellek többségéhez viszonyítva. A Santa Rosa Centrino platformra épülõ gép ugyanolyan kisméretû tokozást alkalmazó Core 2 Duo processzort alkalmaz, mint amilyen az Apple MacBook Airben debütált néhány hete -- az alacsony feszültségû chip órajele 1,2 gigahertz. Ésszerûnek tûnik feltételezni, hogy az X300-zzal a Lenovo olyan, természetesen fõként üzleti felhasználókat céloz meg, akik nagyobb formátumú gépeket használnak, de igényelnék a nagyobb mobilitást -- kisebb tömeg és méret, hosszabb akkumulátoridõ. 
+
+ 
+
+David McQuarrie termékmenedzser azonban a HWSW-nek elmondta,  várakozásaik szerint a korábbi X-sorozat és más ultrahordozható használói közül fognak sokan váltani. Véleménye szerint azok, akik valóban sokat vannak úton, és idejük nagy részét irodán kívül töltik (extrém mobil felhasználók, ahogyan a cég nevezi a csoportot), értékelni fogják a nagyobb méretû és felbontású kijelzõt és kényelmesebb billentyûzetet.
+
+
+ Személy szerint õ is ezért fog váltani, közölte, pedig jelenleg egy X60-at használ. Kétségtelen, a WXGA+ (1440x900) felbontású, LED-háttérvilágítású panel lényegesen, közel 66 százalékkal nagyobb munkaterületet ad, mint a 12 hüvelykes XGA (1024x768) panelek, mely a mai világot jellemzõ hatékonyság- és termelékenységfétis közepette valóban segítséget jelenthet a munkavégzésben.
+
+10 óra! 10 óra! 
+
+A Lenovo szerint az X300 a tökéletes ThinkPad, és szükségszerûen nagyobb szélességen kívül valóban nehéz fogást találni a papírformán. McQuarrie nem gyõzte eléggé sulykolni, hogy az X300 nemcsak legvékonyabb gépek egyike, hanem 10 órás üzemidõ is elérhetõ vele -- ezt annyiszor hangoztatta, hogy valószínûleg a hostessek is megjegyezték elõadása végére. A 10 órát egy nagykapacitású elsõdleges, és a DVD-író helyére behelyezett másodlagos akkumulátorral együtt képes elérni, tömege ekkor 1,6 kilogramm. 
+
+
+ Balra az X300, jobbra egy HWSW-s X60s, középen a vaku fénye
+ 
+Kizárólag SSD-vel
+
+A vékony forma és mobilitás érdekében a Lenovo húzott egy merészet: a gép kizárólag SSD-vel, vagyis flash memóriachipekbõl felépülõ solid state drive-val hozzáférhetõ. Az indoklás kézenfekvõ: az SSD-vel gyorsabb programindítások érhetõek el, miközben kevesebbet fogyaszt és kevésbé melegszik, mechanikus alkatrész hiányában megbízhatóbb, sokkal nagyobb sokkhatásnak is ellenáll, és teljesen hangtalan. 
+
+A merevlemezeknek azonban még jó ideig sokkal nagyobb kapacitást nyújtanak alacsonyabb áron. Az X300-ba épített 64 gigabájtos, 1,8 hüvelykes Samsung SSD ugyanis jócskán megdobja az X300 árát, mely ezzel a prémium kategóriába kerül -- induló ára 2000 euró körül lesz. McQuarrie szerint azonban a célpiac egyrészt megfizeti ezt, és igényli az SSD tulajdonságait, nem pedig öncélú technológia. Másrészt pedig, érvelt, olyan rohamos ütemben csökken az SSD-k ára, miközben növekszik a teljesítményük, hogy ez az árképzési hátrány hamar elolvad. A Lenovo az X300-zal volument igyekszik felépíteni az SSD-k mögé, ami segíti, erõsíti ezt a tendenciát, mondta el, ezáltal pedig az adoptációt.
+
+Csúcstechnikától töltve
+
+Az SSD-n és LED-es háttérvilágítású panelen kívül az X300 további elõremutató megoldásként UWB-t (vezeték nélküli USB-t), GPS-vevõt és WiMAX vagy HSDPA-vezérlõt is integrálhat. A gép vékony méretei és tömege ellenére Roll Cage merevítést alkalmaz, melynek anyaga nem magnézium ötvözet már, hanem szén- és üvegszál keveréke. A Lenovo szerint az X300 ThinkPadként természetesen továbbviszi az elõdöknél megszokott megbízhatóságot és biztonsági funkciókat, így az ujjlenyomat olvasó, a letiltható portok és a titkosítható adattároló alapfelszereltség a ThinkVantage szoftvercsomaggal egyetemben. Piaci megjelenése tavaszra várható, a HWSW-nek pedig remélhetõleg a közeljövõben lehetõsége nyílik egy kiadósabb tesztelésre is.

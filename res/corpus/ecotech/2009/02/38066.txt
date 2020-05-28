@@ -1,0 +1,18 @@
+Csõdbe ment a Spansion japán leánya, a szakadék szélén a cég
+
+Becsõdölt a Spansion, a világ legnagyobb NOR flash-gyártójának japán leánya, figyelmeztetve a teljes vállalat összedõlésének közelségére. A cég tegnap közölte, hogy csõdvédelemért folyamodik hatalmas tartozásainak rendezésének érdekében. Három hete a német Qimonda, Európa egyetlen memóriagyártója jelentett csõdöt, miután a hitelezõ bankok nem látták mûködõképesnek az üzleti tervet, így nem nyújtottak segítséget. Mindkét vállalat a memóriapiacot sújtó tartós árdepresszió áldozata, mely dollár tízmilliárdos nagyságrendû veszteséget okozott eddig az iparnak.
+
+
+
+A Spansion japán részlege tegnap közölte, hogy csõdvédelmet kér mintegy 810 millió dolláros tartozással. A Spansion Japan csõdeljárása nincs kihatással az amerikai anyavállalat mûködésére, állította a cég, melynek részesedése 40 százalékot tesz ki a NOR flash-piacon. A Spansion januárban közölte, hogy stratégiai alternatívát keres jelenlegi helyzetére, beleértve az eladást vagy összeolvadást más vállalatokkal, aminek kidolgozásában a Barclays Capital is részt vesz. Egyes pletykák szerint az anyavállalat közel jár a Chapterr 11-hez, vagyis az amerikai csõdvédelemhez. A cég gyakorlatilag semmit nem ér, az AMD és Fujitsu vegyesvállalatának papírjai kibocsátásuk óta 99,5 százalékot estek, mûködésének négy éve alatt egyszer sem mutatott fel nyereséget.
+
+A NOR flash memóriákat fõképp mobiltelefonokban alkalmazzák szoftverek tárolására és futtatására, ugyanis eza memóriatípus a RAM-hoz hasonlóan  gyors hozzáférésû, ugyanakkor nem felejt. Hátránya, hogy rendkívül lassan írható, valamint kapacitásához mérten drágább a NAND-nál. Az akár kétszer nagyobb kapacitássûrûségû, sokkal gyorsabb írást és gyorsabb szekvenciális olvasást lehetõvé tévõ NAND terjedésével egyre inkább szorítja ki a NOR chipeket, ahogyan az adattárolási és írási igények folyamatosan emelkednek. 
+
+
+A NOR területe így az olyan kis memóriaigényû beágyazott területekre szûkül leginkább, mint például mobiltelefonok, fényképezõgépek és más elektronikus eszközök szoftvereinek tárolása és betöltése, míg az adatokat, amennyiben igény van rá, NAND flash memória tárolja. A NOR elõnyt élvez a alsókategóriás termékeknél, ugyanis egyszerûbb és olcsóbb rendszerek építhetõek vele annak köszönhetõen, hogy akár egyetlen NOR chippel ki lehet szolgálni az alkalmazásprocesszort, ugyanis háttértárként és RAM-ként funkcionál egyszerre. 
+
+A NAND-technológiába ölt fejlesztések azonban, mellyel alkalmassá válnak operációs rendszerek bootolására is, a NOR hagyományos, ROM-szerû alkalmazási területeit is veszélybe sodorják hosszú távon. Az iSuppli becslése szerint a NOR-piac tavaly 6,4 milliárd dollárra zsugorodott, ami közel 17 százalékos esés -- ilyen körülmények között a Spansion önálló túlélésre gyakorlatilag esélytelen.
+
+[+] Csõdöt jelentett a Qimonda, Európa egyetlen memóriagyártója  
+
+ A túltermeléses környezetet és a gazdasági válságot a NAND sem úszta meg, az iparág történetében elsõként szenvedett el tavaly csökkenést, 14 százalékkal 12 milliárd dollárra zuhant vissza a forgalom. Elemzõk szerint a Spansion Japan esetleges bedõlése nem lesz döntõ kihatással a többi gyártóra, ahogyan a NOR-piac zsugorodik, és átadja helyét a NAND technológiának. A Spansion nem jelentõs szereplõ a NAND-piacon.

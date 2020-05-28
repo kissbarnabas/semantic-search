@@ -1,0 +1,23 @@
+Informatika beruházás nélkül, fix havidíjért: hamarosan indul a Virtualoso
+
+A Virtualoso legfontosabb elõnye a felhasználók számára, hogy beruházás nélkül, villámgyorsan vezethetnek be a közös munkát támogató informatikai szolgáltatásokat. A Virtualoso lelke egy portál, ahol a cégek maguk végezhetik a legfontosabb adminisztrációs teendõket: tájékozódhatnak a kínálatról, akár szerzõdést is köthetnek online, ha pedig már felhasználók, olyan feladatokat végezhetnek el pofonegyszerûen, amelyhez egyébként rendszergazdák segítségét szokták kérni. Egy telekonferencia megszervezése vagy egy új e-mail fiók létrehozása csak pár kattintás.
+E-mail, csoportmunka, szerverbérlet
+A Virtualoso keretében jelenleg négy szolgáltatás érhetõ el. A Virtualoso eMail egy hosztolt,&nbsp; Exchange-alapú e-mail szolgáltatás, amely természetesen kezeli a felhasználók naptárait is, vírus- és spamszûrés is tartozik hozzá és saját domain alatt is igénybe vehetõ. A postafiókot Outlookból, webes felületrõl vagy ActiveSync segítségével szinte bármilyen okostelefonról el lehet érni.A Virtualoso WorkPlace egy hosztolt SharePoint-alapú dokumentumkezelõ rendszer, a Cisco WebEx-alapú Virtualoso Meeting pedig telefonos konferenciák megszervezéséhez, illetve videokonferenciára, dokumentum-, képernyõ- és alkalmazásmegosztásra használható.
+A T-Systems mindezeket az alkalmazásokat a saját adatközpontjában található szervereken maga üzemelteti, így a felhasználóknak errõl nem kell gondoskodnia, azaz nem kell szervert vásárolniuk, operációs rendszert és alkalmazásokat telepíteniük,beállítaniuk és mûködtetniük nincs szükségük még részmunkaidõs rendszergazdára sem. A szolgáltatás mellé 24 órás helpdesket is biztosít a T-Systems, de a
+Virtualoso portálon számos szöveges dokumentum és bemutató videó is
+megtalálható, amelyek választ adnak a leggyakrabban felmerülõ kérdésekre. 
+A kínálat negyedik eleme a Virtualoso Server. A Magyar Telekom felmérése szerint a hazai kis- és középvállalatok jellemzõen saját telephelyükön mûködtetik szervereiket, amelyekhez gyakran egy egyszerû ADSL jelenti a kapcsolatot a külvilág felé. Az egyszerûbb webes alkalmazásokat, például weboldalt vagy webshopot, esetleg ügyviteli rendszert mûködtetõ cégeknek ajánlja a Virtualoso Servert a cég, amelynek keretében egy virtuális szervert bérelhetnek, akár operációs rendszerrel vagy anélkül, 24 órás operátori felügyelettel, távoli eléréssel.
+A Virtualoso Server alapját egy Xen-alapú virtualizált háttérinfrastruktrúra adja, amelyeken kilencféle operációs rendszer támogatott (Windows Server 2003 és 2008 Standard és Web Edition, illetve különféle Linux-változatok). A virtualizált infrastruktúra lehetõvé teszi, hogy hardverhiba esetén a szolgáltatások egy másik fizikai kiszolgálóra átterhelõdve automatikusan újrainduljanak, így a T-Systems 99,95 százalékos rendelkezésre állást garantál, ami&nbsp; évente alig több mint 4 óra kiesést enged meg legfeljebb. A virtuális gépek 512 megabájt vagy 1 gigabájt memóriával, 20 vagy 40 gigabájt redundáns háttértárral és 50 vagy 100 Mbps sávszélességgel rendelkezhetnek.
+Szolgáltatásként igénybe vett szoftver
+A SaaS, azaz "szolgáltatásként igénybe vett szoftver" koncepció lényege, hogy az ügyfélnek nem kell foglalkoznia egy
+komplex IT-rendszer kidolgozásával és implementációjával, sem
+beruházásokat nem kell eszközölnie, helyette szolgáltatásként fizet elõ
+az igényelt funkciókra. Azonnal alkalmazni tudja a szoftvert és a cég
+igényeinek megfelelõen tudja skálázni az igénybe vett szolgáltatások
+körét és mennyiségét, így a költségeket is egyszerûen kontroll alatt
+lehet tartani -- rendkívül jól hangzó ígéretek.
+A Magyar Telekom a távközlésben már bevált árazási modellben szeretné informatikai szolgáltatásait népszerûsíteni, amihez jó terep a jelenlegi, hiszen a nagy felhasználói tömeget jelentõ kis- és középvállalatoknak&nbsp; minden lehetséges módot meg kell ragadniuk a
+spórolásra, fejlesztésekrõl pedig a legtöbb helyen nem is álmodhatnak. A vállalatoknak ebben a konstrukcióban semmire nem kell beruházniuk és csak azokért a szolgáltatásokért
+kell fizetniük, melyet használnak is, és csak annyi felhasználó után,
+ahányan ténylegesen igénybe is veszik a rendszert.
+Papp István, a T-Systems vezetõje a HWSW kérdésére elmondta, a vállalat mintegy 500 millió forintot ruházott be a Virtualoso elindítására és úgy számol, ez az összeg 3 éven belül megtérül.

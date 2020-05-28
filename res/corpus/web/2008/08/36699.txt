@@ -1,0 +1,16 @@
+Újdonságok a Microsoft Live Messenger 9-ben
+
+[Mess.be/HWSW] Hamarosan megújul a Microsoft Live Messenger, a 9-es verzió nem csak a külsejét tekintve lesz elõrelépés, hanem új kényelmi szolgáltatásokat is tartalmaz majd. A megjelenés idõpontját azonban még mindig homály fedi, pedig a fejlesztés már jó ideje zajlik.
+
+
+
+A hazánkban is rendkívüli népszerûségnek örvendõ azonnali üzenetküldõ alkalmazás 9-es verziója már teljes egészében a Windows Presentation Foundation megjelenítési rétegre épül, ennek köszönhetõen nem csak a fõablak és a párbeszédablak, hanem az összes ablak igazodik a Windows Vista új stílusához, teljesen eltûnnek tehát a régebbi Windowsok hangulatát árasztó grafikus megoldások.
+
+A külcsín megújulásánál talán sokkal fontosabbak az új funkciók. A Live Messenger 9-ben partnereinket csoportokba rendezhetjük és a csoportokat együtt kezelhetjük: egyetlen kattintással indíthatunk többszereplõs beszélgetést, küldhetünk fájlokat vagy oszthatunk meg képeket. A képmegosztás egyébként szintén új szolgáltatása a Live Messenger 9-nek, egy vagy akár több képet is megoszthatunk a partnerünkkel, partnereinkkel, a fotók között galériaszerûen elõre- és hátralapozhatunk. A Microsoft szoros integrációt ígér a Zune lejátszóval is.
+
+
+ Korábban napvilágra került információk szerint az üzenetküldõ következõ változata biztonság terén is fejlõdik: a szoftverbõl jelezni lehet majd a Microsoft számára az úgynevezett SPIM-kísérleteket, azaz üzenetküldõn keresztüli kéretlen üzeneteket, melyeket általában a szpemmerek által megszerzett, ismerõs felhasználói fiókokon keresztül küldenek ki. Nem csak kéretlen leveleket próbálnak ilyen módon más felhasználókra zúdítani az internetes bûnözõk, de trójaik, vírusok terjesztéséhez is egyre gyakrabban használják fel ezeket a rendszereket.
+
+Állítólag a 9-es verzióban végre akár több számítógépen -- vagy más eszközön, windowsos okostelefonon, Xbox 360 konzolon -- egyidõben is bejelentkezhetünk az üzenetküldõ rendszerbe, egy-egy újabb belépés nem léptet ki majd az elõzõ géprõl, eszközrõl. Jelenleg egyidõben csak egyetlen kliens csatlakozhat a Live Messenger rendszerhez. További újdonság lesz, hogy GIF animációk is beállíthatók lesznek felhasználói képként, személyre, adott kapcsolatra szabhatók lesznek a hangjelzések, illetve közvetlenül kattinthatók lesznek az információs panelre került weblinkek, melyeket most még külön ki kell másolni a böngészõ címsorába.
+
+A korábban MSN Messenger néven ismert Windows Live Messenger a legnépszerûbb azonnali üzenetküldõ alkalmazás, a comScore Media Metrix adatai szerint decemberben az azonnali üzenetküldõk piacán a részesedése megközelítette a 60 százalékot. Magyarországon közel 1,5 millióra tehetõ a Messengert használók száma, vagyis tíz internetezõbõl több mint négyen használják.

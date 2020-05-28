@@ -1,0 +1,14 @@
+ASUS kommunikátor a láthatáron
+
+A Nokia Communicator sikerein felbuzdulva az ASUS is bemutatta hasonló megoldását, az M930W modellszámmal ellátott, QWERTY billentyûzettel is felszerelt mobil mindenesét. A készülék csukott állapotban sokkal jobban mutat az Nokia E90-nél, kinyitva azonban nagyobb belsõ kijelzõre számítottunk.
+
+
+
+A Windows Mobile 6 Pro operációs rendszert futtató ASUS M930W egyaránt rendelkezik 802.11 b/g vezeték nélküli hálózati csatolóval és HSDPA adatátviteli képességekkel, ezáltal kétféleképp is megvalósítható a szélessávú internetelérés, de Wi-Fi vagy 3,5G lefedettség hiányában EDGE vagy GPRS módra válthat vissza a telefon. A számítási teljesítményért Marvell PXA270M 520 megahertzen üzemelõ processzor felelõs, ezt 256 megabájt ROM és 128 megabájt RAM egészíti ki.
+
+
+Az M930W felnyitása után a QWERTY billentyûzet és a navigálógomok felett sajnos csak egy parányi kijelzõ tárul elénk, amelynek kis méretére csak egyetlen magyarázatot találtunk, a 4:3 képarány megtartását. Nagy kár a jobb- és baloldalt látható kihasználatlan területért. A kijelzõre visszatérve jobb alsó sarokban épúgy mint a csukott állapotban megtalálható a hívás indítására és befejezésére szolgáló zöld és piros gomb.
+
+
+
+Az M930W helymeghatározásra is alkalmas, mert a tervezõk GPS vevõegységnek is találtak helyet a nyitható gépházban. A készülékben megtalálható egy Bluetooth 2.0 +EDR rádió is, de ez a fentiek mellett már természetes. A memória MicroSD-SDHC kártyákkal bõvíthetõ, ebbõl a változatból akár 32 gigabájtost is képes a készülék kezelni. A multimédia területe a Windows Mobile 6 Pro adottságaira támaszkodik, ezt egészíti ki a 3,2 megapixeles kamera. Az ASUS M930W még az elsõ negyedévben forgalomba kerül, áráról egyelõre nincs információnk.

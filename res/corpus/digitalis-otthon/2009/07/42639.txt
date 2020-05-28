@@ -1,0 +1,12 @@
+Android-alapú médialejátszó a Creative-tól
+
+A Creative bemutatta a Zii Egg nevû médialejátszóját, amelyet a Google Android operációs rendszerre telepített Plaszma nevû szoftverplatform mûködtet. A készülék 3,5 hüvelykes, 320x480 pixeles képernyõt tartalmaz, amely akár 10 ujj érintését is képes érzékelni. A Zii Egg processzora elég nagy teljesítményû akár 1080p anyagok lejátszásához is, ezeket videokimeneten keresztül közvetlenül tévén élvezheti a tulajdonos.
+
+
+A Zii Eggben 32 ggiabájt flash memória van, de a kapacitás SDHC kártyákkal még tovább bõvíthetõ, így bõven lesz hely filmeknek, zenéknek vagy akár játékoknak is, a ZiiLABS ZMS-05 chip ugyanis OpenGL ES révén 3D-grafikus gyorsítást is kínál. A készülékben Bluetooth (2.1+EDR), 802.11b/g szabványú Wi-Fi-vezérlõ és GPS-vevõ is van, valamint két kamera, az elõlapon egy 640x480 pixeles, a hátlapon pedig egy nagyobb felbontású. Említésre méltó még a készülék mozgását, döntését érzékelõ szenzor, illetve a Zii Egg tömege, amely 1200 mAh kapacitású akkumulátorral is csak 105 gramm.
+
+A Zii Egg 400 dollárért vásárolható meg, azonban egyelõre csak egy fejlesztõi készlet formájában. A Creative valószínûleg nem is fogja más formában árusítani a terméket, a vállalat elképzelései szerint OEM-gyártóként más cégek számára kínálja majd a készüléket, amelyet azok saját nevük alatt dobhatnak piacra.	     
+                  
+                  
+                  
+                   

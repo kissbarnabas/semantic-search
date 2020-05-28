@@ -1,0 +1,12 @@
+Olcsó NVIDIA platform a Windows XP-s netbookokhoz
+
+Az ION LE névre keresztelt platform hardver tekintetében teljesen megegyezik az ION-nal, azonban csak DirectX 9-et támogat, a Vistában bevezetett DX10-et és a Windows 7-ben érkezõ DX11-et nem. A vállalat szerint egy olcsó, Windows XP-t futtató netbookon semmi jelentõség nincs a DX10 és DX11 támogatásának, a ma elérhetõ legtöbb játék még mindig DX9-et igények, a nagyfelbontású videók lejátszásához pedig szintén elegendõ a Microsoft grafikus alkalmazásprogramozási interfészének korábbi változatát támogatni.
+A GeForce 9400 MCP79 egy integrált grafikus vezérlõt tartalmazó chipkészlet, ami valójában egyetlen lapkából áll. Ez tartalmazza a kétcsatornás DDR3 memóriavezérlõt, a hangvezérlõt, a gigabites Ethernet-vezérlõt, PCI Express és USB-csatolókat, valamint a legfeljebb 2560x1600 pixeles felbontást támogató grafikus magot, amely 16 egységesített shadert vonultat fel és az NVIDIA állítása szerint ötször-tízszer gyorsabb az Intel netbookokba szánt videochipjénél.
+Az egyik elsõ ION-alapú netbook, a Lenovo IdeaPad S12
+
+Tesztünk szerint grafikus feladatok alatt az ION valóban remek teljesítményt nyújt a kategóriához mérten, azonban a kereskedelmi siker eddig várat magára, egyelõre csak egy-két gyártó kínálatában találni ION-alapú konfigurációt. Az NVIDIA szerint ennek az az oka, hogy az Intel jelentõs kedvezménnyel adja az Atom processzort a gyártóknak, ha Intel chipkészletet vásárolnak hozzá, ezért összességében jóval drágább ION-alapú gépet építeni.
+Az ION LE ezt a problémát úgy próbálja megoldani, hogy egy költséghatékony alternatívát nyújt a PC-gyártók számára, akik az operációs rendszeren is spórolhatnak. Ha egy cég nem akar  Windows Vistát vagy Windows 7-et telepíteni a netbookjaira, megelégszik a Windows XP-vel -- amely a Windows 7 megjelenése után még egy évig elérhetõ lesz netbookokon -- , költséghatékonyan teheti meg. Az NVIDIA ráadásul nem korlátozza az ION felhasználhatóságát, így akár 10 hüvelyknél nagyobb gépek is építhetõk a platform köré.	     
+                  
+                  
+                  
+                   

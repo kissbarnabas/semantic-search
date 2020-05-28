@@ -1,0 +1,22 @@
+Éretté válik virtualizációs szoftverek piaca, sikerrel tör elõre a Microsoft
+
+A Microsoft nyáron piacra dobott virtualizációs szoftvere egyre több vevõt hódít el a VMware-rõl -- derül ki az IDC elemzésébõl. A piac egyre érettebbé válik, a liceneladások növekedése lassul, a bevételek bõvülését pedig az ingyenes Hyper-V népszerûsége korlátozza.
+
+
+
+Éretté váló piac
+
+Az IDC adatai szerint a második negyedévben 53 szézalékkal nõtt a virtualizációs szoftverek piaca az eladott licencek alapján. Egy negyedévvel korábban még 72 százalékos volt a növekedés, de a piac bõvülése már egy éve lassul, ami az IDC szerint az éretté válás elõszele. A piaci növekedés motorját az x86-os szegmens, illetve az Itanium-alapú rendszerek képezik, a bevétel 60, illetve 18 százalékos növekedésével. A hagyományos CISC/RISC szerverek virtualizálására szolgáló szoftverek forgalma 15, illetve 7 százalékkal csökkent ugyanakkor.
+
+
+ "A végfelhasználókkal folytatott párbeszéd alapján az IDC úgy látja, a nagyvolumenû konszolidációs lehetõségek -- az x86-os virtualizációs piac könnyen elérhetõ eredményei -- egyre szûkülnek. Ez összességében kisebb értékû megállapodásokat eredményez" -- vélekedett Brett Waldman, az IDC elemzõje, aki szerint az új piaci lehetõségeket már nem a nagyvállalati  konszolidációs projektek tartogatják, hanem más területek, például a középvállalatoknál. 
+
+Még az élen a VMware
+
+A virtualizációs szoftverek piacán a VMware továbbra is toronymagasan vezetõ, a cég részesedése az eladott licencek számát nézve 44 százalék az IDC szerint. A Hyper-V megjelenésével a Microsoft azonban máris az elõkelõ második helyre ugrott, és a licenceladások alapján 23 százalékos részesedést ért el, bár ezek többsége még Virtual Server 2005 volt. Waldman szerint hosszú távon azonban egyértelmûen várható a Hyper-V térnyerése a VMware-megoldások, illetve a Microsoft saját Virtual Server 2005-jének kárára. A harmadik legnépszerûbb virtualizációs platform a Parallels Virtuozzo, emellett említést érdemel még a Xen, amely a Citrix szárnyai alatt ugyan erõre kapott, de az elterjedtsége ezzel együtt is igen alacsony.
+
+A virtualizációs szoftverek forgalma 15 százalékkal bõvült a második negyedévben, a növekedés az x86-os szegmensnek köszönhetõ, ahol 39 százalékkal erõsödtek az eladások. Bevétel alapján a Microsoft részesedése mindössze 1,1 százalék volt, hiszen mind a Virtual Server 2005, mind a Hyper-V ingyen, vagy legalábbis jelképes összegért elérhetõ. Bevételarányosan a VMware részesedése 78 százalék volt, amivel a cég toronymagasan elsõ, a második helyen a Parallels áll a Virtuozzóval.
+
+A HP szervereit virtualizálják a legtöbbször
+
+A virtualizált szerverek szállításai 52 százalékkal növekedtek a második negyedévben, ami lassulás az elsõ negyedévben elért 70 százalékhoz képest, de ez részben a piaci szezonalitásnak köszönhetõ. A legtöbb virtualizált szervert a HP szállította (ProLiant és Integrity), a cég részesedése 34 százalék volt az IDC szerint. A második helyet a Dell kaparintottta meg 29 százalékkal, majd az IBM következett 16 százalékkal.

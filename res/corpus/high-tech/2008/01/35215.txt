@@ -1,0 +1,12 @@
+Két nap alatt építették fel a világ harmadik legerõsebb szuperszámítógépét
+
+Mindössze 48 óra kellett ahhoz, hogy az Intel Rio Ranchó-i (Új-Mexikó, USA) telephelyén összeszereljék és üzembe állítsák a világ harmadik legnagyobb teljesítményû szuperszámítógépét, a több mint 14 ezer Xeonból álló Encantót ("mágia").
+
+
+
+A 14366 darab 3 GHz-es Intel Xeon processzort, 172 terabájt háttértárat és 28 terabájt memóriát felvonultató szuperszámítógép csúcsteljesítménye 172 teraFLOPS, amellyel jelenleg a világon a harmadik legerõsebb. Az SGI Altix Ice  8200 kétfoglalatos blade csomópontokat Infiniband hálózat kapcsolja össze. A SUSE Linux operációs rendszert futtató konfigurációt az SGI szállította és telepítette, múlt csütörtökön érkeztek meg az elsõ raklapok és szombat estére már mûködött a masina.
+
+
+A gép ugyan az Intel telephelyén, a vállalat egyik chipgyárának szomszédságában található, az Encanto valójában nem az Intelé, hanem Új-Mexikó szövetségi állam megrendelésére készült, és a kapacitását oktatási és tudományos intézmények mellett akár vállalatok is igénybe vehetik. Bill Richardson, Új-Mexikó kormányzója úgy véli, a rendelkezésre álló kapacitás olyan vonzerõt jelent, amelynek a high-tech cégek nem tudnak majd ellenállni, így az állam akár középtávon is az Egyesült Államok tudományos központjai közé emelkedhet.
+
+A világ legnagyobb teljesítményû gépeit rangsoroló listán az elsõ 5 helyezett közül 3 blade-alapú rendszer található, ami azt bizonyítja, hogy ez a platform nem csak üzleti környezetben, hanem akár tudományos célokra is bevethetõ. A blade-ek nagy elõnye, a teljesítménysûrûség egyben a legnagyobb hátránya is, ugyanis nagy számítási kapacitás van összezsúfolva viszonylag kis helyen, és ezzel a hõfejlõdéssel csak a legmodernebb hûtõberendezések tudnak lépést tartani.

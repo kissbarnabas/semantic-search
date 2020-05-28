@@ -1,0 +1,28 @@
+Az online feketegazdaság a recesszió idején is virágzik
+
+Tizennegyedik alkalommal tette közzé az internetes biztonsági fenyegetésekrõl szóló jelentését a Symantec. A felmérés alapján az online bûnözõk aktivitása a recesszió ellenére lankadatlan, sõt, egyre fokozódik: a Symantec szakértõi 2008-ban minden eddiginél több, összesen 1,6 millió új kártevõt azonosítottak, többet mint a korábbi hét év alatt összesen. 
+
+
+
+Több új kártevõ mint a korábbi hét évben összesen
+
+Megállíthatatlanul terjednek a webalapú támadások, a legtöbb kártevõ pedig már az áldozatok számítógépén tárolt bizalmas információkat próbálja megszerezni. A Symantec adatai szerint a tavaly azonosított kártevõk 90 százaléka utazott a felhasználók személyes, bizalmas adataira, például felhasználói nevekre, jelszavakra, bankkártya-információkra. Az adatok ellopását célzó kártékony programok több mint háromnegyede a billentyûleütések figyelésével próbál meg értékes információkat szerezni.
+
+Az ellopott adatok, különösen a hitelkártya- és bankszámla-információk értékesítésére specializálódott, jól szervezett feketegazdaság továbbra is  virul. A feketepiacon már 160 forintnak megfelelõ összegért lehet teljes személyazonosságot (nevet, címet, születési dátumot, bankkártya-adatokat) vásárolni, de az árak egészen 16 ezer forintig felmehetnek attól függõen, hogy mekkora összeg található a személyhez tartozó bankkártyán, hitelkártyán, bankszámlán. Egy teljesen hozzáférhetõ, csapolható, kipróbált bankszámla-hozzáférést 220 ezer forintos áron vásárolhatnak a bûnözõk -- az innen megszerzett pénzt szakértõi becslések szerint 10-15 percbe telik nyomtalanul eltüntetni.
+
+"A kártékony kódok rekordiramú szaporodásával az is látható, hogy a támadók a néhány kód tömeges elterjesztésétõl a milliónyi különbözõ veszélyforrás mikroterjesztése felé mozdultak el" -- mondta Gombás László, a Symantec Képviselet vezetõ technikai konzultánsa. "A kiberbûnözõk bizalmas információk, különösen bankszámla-hozzáférési és hitelkártyaadatok ellopására szánt, egyedi igényekhez igazított veszélyforrások létrehozásából és terjesztésébõl húznak hasznot."
+
+A böngészõkbe beépülõ modulokat támadják
+
+A Symantec biztonsági jelentése szerint a támadók egyre inkább a böngészõk sebezhetõségeit próbálják meg kihasználni -- mind sûrûbbek az olyan támadások, melyek során jól ismert, a felhasználók által megbízhatónak tartott oldalakat törnek fel a bûnözõk (pl. SQL kódbeszúrással) és ott saját kódjukat helyezik el, amely például kártékony programot próbál meg letölteni a látogatók számítógépére ("drive by download"), vagy a bûnözõk saját oldalára irányítja õket. 
+
+
+ Szerencsére a böngészõk fejlesztõi egyre nagyobb hangsúlyt fektetnek a rendszeres frissítések kiadására, a Symantec szerint a legtöbb pótolnivalója az Apple-nek van ezen a téren. A Safari kritikus sérülékenységeit tavaly átlagosan 9 nappal a dokumentálásuk után javította csak az Apple. Érdekesség, hogy a dokumentált sebehzetõségek közül 99-et a Mozilla böngészõiben találtak meg tavaly, míg az Internet Explorer esetében csak 47-et leltek, a Safariban 40-et, az Operában pedig 35-öt.
+
+A böngészõk ma már biztonságosnak mondhatók, azonban a browserekbe beépülõ modulok (pl. Flash, Acrobat Reader, QuickTime, Java) javítására látszólag sem a gyártók, sem a felhasználók nem koncentrálnak. Így egy naprakészen tartott operációs rendszert és legújabb verziójú böngészõt futtató PC is szabad préda lehet a támadók számára. Mivel a vállalatok rendszerint a kritikus sebezhetõségek kijavítását célzó patcheket telepítik elõször, a támadók gyakran nem is ezeket, hanem kevéssé fontos sérülékenységeket próbálnak meg kihasználni akár úgy is, hogy több hibát egyszerre támadnak.
+
+E-mailben érkezõ fenyegetések
+
+Továbbra is rendkívül népszerûek az adathalász, azaz phishing-támadások. 2008-ban a Symantec 55 ezernél is több adathalász webhelyet talált, ami 66 százalékkal több a 2007-es adatnál. 2008-ban az adathalászok 76 százaléka vetette ki horgát a pénzügyi szolgáltatások terén, míg 2007-ben 52 százalékuk tette ezt. Ma már nem kell különösebb elõképzettség adathalászati támadások végrehajtásához, a feketepiacon hozzáférhetõk olyan eszközök, amelyek birtokában szinte bárki végrehajtjat ilyet. A szoftverek képesek automatikusan feltérképezni a támadni kívánt bank weboldalát, elkészítik annak másolatát és akár magukat a phishing-leveleket is szétküldik a potenciális áldozatoknak. 
+
+A Symantec biztonsági jelentésébõl az is kiderül, hogy a levélszemét mennyisége is egyre nõ, 2008-ban a vállalat becslése szerint több mint 349 milliárd kéretlen levél utazott a világhálón, ezek tették ki a teljes levélforgalom több mint négyötödét -- 2007-ben még csak 119,6 milliárdra becsülte a spam mennyiségét a cég. 2008-ban a bothálózatok voltak a felelõsek a levélszemét körülbelül 90 százalékának a terjesztéséért. Ezeket a botneteket szinte bárki kibérelheti saját céljaira, például spamküldésre vagy akár elosztott szolgáltatásmegtagadásos támadások indítására.

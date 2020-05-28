@@ -1,0 +1,26 @@
+A beágyazott szoftverek terén erõsít az Intel
+
+De kicsoda az a Wind River?
+A Wind River beolvasztásával az Intel célja, hogy chipjeivel a hagyományos értelemben vett informatika (PC-k, szerverek, mobil eszközök) határain túl is tudjon terjeszkedni, például az (autó)ipar felé. A világszerte több mint 1600 dolgozót foglalkoztató, kaliforniai központú Wind River ügyfelei közé olyan cégek tartoznak mint a BMW, a Boeing, a Bombardier, a Mitsubishi, a Motorola és a Sony, a termékeit autókban, kamerákban, forgalomirányító jelzõlámpákban, routerekben, projektorokban, de a Spirit és Opportunity marsjárók is a Wind Rivertõl származó szoftvert futtatnak.
+A Wind River termékeinek zászlóshajója a VxWorks valós idejû beágyazott operációs rendszer, az ehhez kapcsolódó, Eclipse-alapú Wind River Workbench integrált fejlesztõi környezet, valamint a Wind River Compiler. A cégnek van saját Linux-disztribúciója is kimondottan beágyazott célokra, a Wind River Linux ARM, MIPS, PPC, x86 és SPARC processzorokon egyaránt futtatható. A most aláírt szerzõdés értelmében a Wind River az Intel 100 százalékos tulajdonában mûködõ leányvállalatként üzemel tovább, azaz szervezeti integrációról (egyelõre) nincs szó.
+Újabb hatalmas piac az x86 számára
+&nbsp;A beágyazott szoftverek területén a Wind River mellett több szereplõ is tevékenykedik (pl. QNX, MontaVista Linux, Microsoft), az iparágban azonban egyelõre a vertikumok a jellemzõk, vagyis a hardverszállítók többsége maga fejleszti a szoftvereket is. A felvásárlás lehetõvé teszi az Intel számára a ezena területen,
+amelyhez az Atom szolgáltatja a hardveres alapokat, de a Wind River
+révén az Intel mostantól megfelelõ szoftveres eszközöket is a vevõk
+rendelkezésére tudja bocsátani.
+
+Az Intel szerint a beágyazott rendszerek piaca évi sokmilliárd dolláros lehetõséget tartogat, amely egyre duzzad -- már nem csak az autók, de a háztartási berendezések és ipari gépek is elképzelhetetlenek beágyazott elektronika, intelligencia nélkül, ez a terület évente több milliárd chipet szippant fel, amelyek egyelõre leginkább ARM vagy MIPS utasításkészlet-architektúrára épülnek, ezeknek azonban potens kihívója az Atom. A beágyazott piac jó lehetõség az Intel számára, hogy méretgazdaságossági elõnyeit kamatoztathassa, hosszú távon pedig az x86-ot itt is meghatározó szereplõvé emelje.
+
+
+Atom-alapú alaplap beágyazott rendszerekhez
+
+Együtt a TSMC-vel
+Amint arról a HWSW is beszámolt, az Intel és a TSMC idén márciusban együttmûködési megállapodást kötött, amelynek célja Atom-alapú integrált rendszerchipek tervezése és szállítása. A megállapodás lehetõvé teszi az Intel számára, hogy továbbra is a processzorok fejlesztésére koncentráljon, egyre potensebb
+architektúrákat produkálva, eközben a TSMC, mint a világ legnagyobb és
+legsikeresebb szerzõdéses félvezetõgyártója az egyedi
+ügyféligények alapján a testreszabást, valamint az egyedi chipek
+termelését végzi.
+A TSMC-vel kötött stratégiai szövetség célja, hogy kiterjessze az Intel x86-os jelenlétét
+a hagyományosan az ARM által dominált területekre, mint a
+mobiltelefonok, digitális videorekorderek, intelligens online set-top
+boxok. Ebbe az irányvonalba illeszkedik a Wind River megvásárlása, amely révén az Intel nem csak a hardvert, hanem a szoftvert is szállítani tudja.

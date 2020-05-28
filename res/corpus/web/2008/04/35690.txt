@@ -1,0 +1,10 @@
+Szemét a hálón -- az internet forgalmának 10 százaléka felesleges adat
+
+A hálózati forgalomelemzõ megoldásokkal foglalkozó Arbor Networks felmérése szerint az interneten utazó csomagok jelentõs része, idõszaktól függõen 1-6 százaléka csupán DDoS-támadásokhoz (túlterhelés) használt "szemét", amelyek jelentõs erõforrásokat kötnek le a szolgáltatóknál. A világhálón utazó spamekkel együtt akár a 10 százalékot is elérheti az az adatmennyiség, amely teljesen fölöslegesen kerül továbbításra, csak a felhasználók mindennapjait keseríti meg.
+
+
+
+Az Arbor világszerte összesen 68 internetszolgáltatónál több mint 1300 hálózati eszköz forgalmát monitorozta annak érdekében, hogy felmérést készítsen a kártékony adatokról. Az eredmények alapján folyamatosan 1-3 százalék között mozog a DDoS-támadásokhoz használt netes "szemét" csomagok részaránya, de egyes idõszakokban ez elérheti a 6 százalékot is -- ekkora sávszélesség már százezer dolláros nagyságrendû összegbe kerül, de a bûnözõk természetesen nem fizetnek érte, hiszen botnetek által mások számítógépeit használják a DDoS-támadásokhoz, így valójában maguk a felhasználók a károsultak.
+
+
+ A 18 hónapon át végzett vizsgálat alapján a SYN és ICMP csomagok aránya szinte sose csökkent 1 százalék alá. A legcsendesebb idõszakok az ünnepek, talán mert ilyenkor viszonylag kevesen interneteznek, és talán maguk a bûnözõk is pihennek egy kicsit. A DDoS-támadások legnépszerûbb célpontjai egyébként az IRC-szerverek az Arbor Networks szerint.

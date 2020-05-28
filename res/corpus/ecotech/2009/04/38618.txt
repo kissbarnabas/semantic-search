@@ -1,0 +1,16 @@
+VIA platformra tér át az OLPC XO laptop
+
+A Via C7-M váltja fel az AMD Geodét az OLCP XO netbook processzorának szerepében, jelentette be az One Laptop Per Child szervezet. A megállapodás bár extra forgalomhoz juttatja a felszínen maradásért küzdõ VIA Technologiest, visszafogott jelentõséggel bír az OLPC program korlátozott sikeressége miatt, ráadásul a következõ generációs XO hardver már minden bizonnyal egy ARM-processzor köré épül. 
+
+
+
+Az XO-1 egy hardverfrissítés keretében áttért a VIA VX855 alaplapi chip köré épülõ platformra, mely ultraalacsony feszültségû C7-M processzort alkalmaz. A processzor órajele 1 gigahertz. A DDR2 memóriát kezelõ VX855 egy Chrome9 grafikus magot is integrál, DirectX 9 támogatással, és hardveres H.264, MPEG-2, MPEG-4, VMW9 (VC-1) és DivX gyorsítással. A chip HD Audio résszel is rendelkezik, ahogyan közvetlenül tudja fogadni a webkamera képét is. A memória méretét megnégyszerezte, 1 gigabájtra növelte az OLPC, míg az alapkiépítettségû háttértár szintén négyszer nagyobb, 4 gigabájt lett, opcionálisan pedig 8 gigabájttal is rendelhetõ. 
+
+ Néhány apróbb változtatást is tartalmaz az új platform, így például új Wi-Fi adaptert, SSD-vezérlõt. A kijelzõ és az akkumulátor, vagy a külsõ kivitel lényegében változatlan maradt, a cél az volt, hogy az XO egy korszerûbb elektronikát kapjon azonos ár és fogyasztás mellett. Az új hardver egyben frissített OLPC szoftverrel érkezik, a változások azonban a kompatibilitás biztosítása érdekében kerültek bele. A XO-1 Gen 1.5 elsõ változatai május végére érhetik el a driverfejlesztõket, az alkalmazásfejlesztõknek augusztus végéig kell várniuk a tesztgépekre. 
+
+
+A hardverfrissítés idõszerû volt, kétséges ugyanakkor, hogy mennyire tudja segíteni az OLPC program sikerességét, és felpörgetni az XO eladásait. Piackutatási adatok alapján negyedévente nagyjából 100 ezer XO találhat gazdára világszerte. Tekintve, hogy fejlõdõ országok általános iskolái számára célzott non-profit termékrõl van szó, ez a mennyiség nem kevés, ugyanakkor nem elegendõ ahhoz, hogy a program az eredetileg tervezett 100 dolláros küszöböt megközelítse. A gépeket kezdettõl fogva a Quanta gyártja, becslések szerint 150-180 dollár közötti áron. 
+
+ További probléma, hogy a kereslet hektikus, nagy megrendelések formájában érkezik, és nehezen kiszámítható. Eddig lényegében három országban aratott sikert, Uruguayban, Peruban és Mexikóban -- ez a három ország az eddigi XO-megrendelések 80 százalékát adják. Az ezeken kívül esõ egyetlen jelentõsebb tételt a 2007-es Give One Get One program adta, melynek keretén belül az amerikai fogyasztók egy XO megvásárlásával egy másik példányt is megfinanszíroztak, mely egy fejlõdõ országbeli gyerekhez került -- összesen 167 ezer darabot sikerült így eladni. Nem biztató, hogy tavaly novembere óta egyetlen nagyobb megrendelésrõl sem tudni.
+
+Látható tehát, hogy a továbbra is zsugorodó árbevétellel küzdõ VIA számára az OLPC nem lehet a megmentõ, nem képes ugyanis stabilan elegendõen nagy volument generálni. Már csak azért sem, mert az OLPC a második generációs XO laptopnál ARM-processzor mellett dönt, mellyel még alacsonyabb elõállítási költség és fogyasztás érhetõ el. A tervek szerint 2010-ben megjelenõ XO-2-vel az OLPC célja a 75 dolláros határ elérése.

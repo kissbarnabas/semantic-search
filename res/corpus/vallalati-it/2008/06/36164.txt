@@ -1,0 +1,16 @@
+A Microsoft idejekorán megkezdi a driverek tesztelését a Windows 7-tel
+
+Egy, a Microsoft weboldalán elérhetõ dokumentum szerint a Windows 7 elsõ bétájának megjelenését követõen csak azok a meghajtóprogramok kaphatnak Windows Vista logót, amelyeket a fejlesztõk a 2010-re ígért operációs rendszerrel is leteszteltek. 
+
+
+
+A redmondi cég ezzel lényegében rákényszeríti a hardvergyártókat, hogy a meghajtóikat idejében elkezdjét tesztelni az új operációs rendszerrel, de jó okkal: a korai teszteléssel az esetleges problémák hamarabb felszínre kerülhetnek, és a hardvergyártók még azelõtt kijavíthatják õket, hogy a Windows 7 megjelenne. "A vásárlóknak szüksége van arra, hogy bizonyosságot szerezzenek [...] arról, hogy a hardverek a frissítés után is teljesen mûködõképesek" -- olvasható a dokumentumban. Az eredmények beküldése "lehetõvé teszi a Microsoft és a partnerek számára, hogy kiértékeljék az eredményeket és [...] kijavítsák a hibákat az új operációs rendszerben és a hardverekben."
+
+
+ A Microsoft utolsó asztali Windowsainak fogadtatását rendre beárnyékolta a szegényes driver-ellátottság. Emlékezetes, hogy a Windows Vistát megelõzõen a Windows XP és a Windows 2000 is a (jó minõségû) meghajtóprogramok hiányával küzdött. Sokan azért nem váltottak át az új operációs rendszerekre, mert a kedvenc hardvereikhez egyáltalán nem volt driver, akik pedig átváltottak, gyakran szembesültek a meghajtók hiányosságaival, így a véleményformáló geekek, az elsõ fecskék sokszor kedvezõtlen tapasztalatokat szereztek.
+
+A Windows Vista egyik fontos újdonsága volt a drivermodell megváltoztatása, a meghajtók a nagyobb biztonság és stabilitás érdekében részben átkerültek kernelmódból felhasználói módba. Ez a változás azonban úgy tûnik, túl nagy falatnak bizonyult a driverfejlesztõk számára, a grafikus meghajtókkal kapcsolatban legalábbis számos probléma merült fel. Egy, a Microsoft ellen indított perben benyújtott dokumentumokból kiderült például, hogy 2007-ben a redmondi céghez beérkezett logok alapján a Vista-fagyások több mint negyedét az NVIDIA grafikus chipekhez kiadott meghajtók okozták. A második legtöbb problémát (18%) a Microsoft által írt eszközmeghajtók okozták, a harmadik legtöbb lefagyásról az AMD (ATI) driverei tehetnek.
+
+A Microsoft ennek a jelenségnek igyekszik elébe menni a Windows Hardware Logo program megváltoztatásával. Az a cég, amely nem küldi el a Windows 7 bétával lefolytatott tesztek eredményeit a Microsoftnak, nem használhatja a "Certified for Windows Vista" emblémát sem. Mivel a Windows 7 megjelenéséig még legalább másfél év van hátra, a redmondi cég és a hardvergyártó partnerek közös erõfeszítéssel elvileg elérhetik azt, hogy az új operációs rendszer megjelenésekor ne a driverek hiányáról, rossz minõségérõl szóljanak a hírek.
+
+A Windows 7-tel kapcsolatban egyelõre igen kevés információ áll rendelkezésre, azt sem tudni, az elsõ béta mikor érkezik -- a HWSW úgy tudja, akár már idén megjelenhet. Az új operációs rendszer a Windows Server 2008 továbbfejlesztett kernelére fog épülni, a meghajtóprogramok és alkalmazások kompatibilitása azonban megmarad, így a Vistához kiadott szoftverek és driverek ugyanúgy mûködnek a Windows 7-en is -- mondta nemérigben egy interjúban Steven Sinofsky, aki a Windowsok fejlesztését irányítja.

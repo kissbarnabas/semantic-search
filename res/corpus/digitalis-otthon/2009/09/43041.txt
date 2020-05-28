@@ -1,0 +1,16 @@
+Jövõre jön a 10 gigabites optikai összeköttetés a PC-kbe
+
+Rézkábel helyett helyett optikai szál otthon is
+Az utóbbi években a PC-ket és a perifériákat összekapcsoló interfészek sebessége látványosan növekedett, mivel egyre nagyobb mennyiségû adat gyors átvitelére van szükség, gondoljunk akár az USB-re, a FireWire-re, a HDMI-re vagy a DisplayPortra. Ezen technológiák azonban jellemzõen rézvezetékeket használnak, amelyek egy idõ után korlátozzák az elérhetõ sávszélességet, illetve az elektromágneses interferencia miatt a  kábelek is rövidek.
+Az optikai kommunikáció nem csak nagyságrendekkel gyorsabb mint a vezetékes, különbözõ hullámhosszúságú jelek alkalmazásával egy adott optikai vezetéken több adatsáv is továbbítható egyidejûleg, így az elérhetõ sávszélesség költséghatékonyan sokszorozható. Az optikai szálon utazó fotonok lényegesen kisebb hõt bocsátanak ki magukból mint a rézvezetéken áramló elektronok. Emellett az optikai megoldások elõnye, hogy az áramló adatok "lehallgathatatlanok", mivel nem bocsátanak ki elektromágneses sugárzást.
+
+Az adatközpontokban a legnagyobb sávszélességû összeköttetések már régóta optikai alapokra épülnek, az Intel által demózott Light Peak pedig otthoni környezetbe, a PC-k világába is elvinné az optikai technológiát. A technológia lelke egy aprócska modulátor, amely az elektromos jelet miniatûr infravörös lézerek segítségével fénnyé alakítja, majd a jel fogadója fotodetektorok segítségével a fénybõl újra elektromos jelet állít elõ. A szükséges vezérlõchipet az Intel szállítaná, az optikai komponenseket pedig gyártópartnerek közremûködésével állítaná elõ.
+
+Light Peak
+Az IDF-en demózott Light Peak modul, amely a kontrollert, a modulátort és a csatlakozót tartalmazza, mindössze 12x12 milliméter méretû, a használt kábelben az optikai szál pedig csupán 125 mikrométer, vagyis hasonlóan vastag mint egy emberi hajszál. Perlmutter egy 10 Gbps sebességû Light Peak összeköttetést demózott 30 méteres kábelen, de ahogy a technológia fejlõdik és a gyártás olcsóbbá válik, akár 40 vagy 100 Gbps sebesség is elérhetõ az Intel szerint.
+A Light Peak csak egy fizikai réteg, amelyre lényegében tetszõleges protokoll ráültethetõ, így az optikai összeköttetés használható lenne nagyfelbontású videó és térhatású hang átvitelére például egy PC és egy tévé között, csatlakoztathatók nagy sávszélességet igénylõ perifériák (adattárolás, videodigitalizálás), kiváltható lenne vele a hálózati kábel is. Perlmutter úgy véli, a mai PC-k egyik fontos kényelmi problémája, hogy a sokféle periféria kapcsolásához sokféle kábelre van szükség, ezeket idõvel mind felválthatná a Light Peak.
+Az Intel várakozásai szerint az optikai összeköttetéshez szükséges alkatrészeket az évtized végére annyira le lehet kicsinyíteni, hogy nem csak számítógépeke és perifériákat, hanem akár közvetlenül a chipeket is össze lehet majd így kapcsolni, de a távlati cél az, hogy egy chipen belül is optikai kommunikációs váltsa fel a rézvezetékeket. A vállalat ezért azon dolgozik, hogy az alkatrészeket szilíciumból készítse el, mert akkor nem csak könnyen miniatürizálhatók, hanem a félvezetõiparban bevált eljárások segítségével óriási mennyiségben, olcsón gyárthatók.	     
+                  
+                  
+                  
+                   

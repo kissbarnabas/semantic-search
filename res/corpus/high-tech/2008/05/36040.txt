@@ -1,0 +1,14 @@
+Az Mtron bemutatta sebességrekorder SSD-meghajtóját
+
+A villámgyors SSD meghajtóiról híres Mtron még feljebb tornázta a sebességet, vadonatúj meghajtói a jelenlegi leggyorsabbak a piacon.
+
+
+
+A koreai Mtron a napokban jelentette be, hogy befejezõdtek az új PRO 7500 SSD-sorozat fejlesztései, ezzel a gyártó állítása szerint a piacon elérhetõ jelenlegi leggyorsabb megoldás született meg. A tárolók SATA II csatolófellettel illeszkedhetnek a vezérlõkhöz, 2,5 hüvelykes és 3,5 hüvelykes méretben egyaránt elérhetõek, az általuk nyújott tárterület pedig 32 gigabájttól 128 gigabájtig terjedhet.
+
+
+A PRO 7500 sorozatot a gyártó vállalati környezetbe szánja, írási- és olvasási sebességük egyaránt kimagasló, elõzõ 120 megabájt, utóbbi pedig 130 megabájt adat mozgatását jelenti másodpercenként. A magas számokból számíthattunk rá, hogy az új sorozat alkotói SLC (Single Level Cell) felépítésûek, amelyek nagy általánosságban véve is gyorsabbak a többszintes cellaszervezésû (MLC: Multi Level Cell) típusoknál, amelyek hátránya leginkább az írási mûveleteknél érzékelhetõ. 
+
+
+
+Az Mtron a meghajtók élettartamát napi 50 megabájtnyi adat írása mellett 140 évre teszi, az adatbiztonság tekintetében 25 celsius fokos környezeti hõmérséklet mellett tíz évet ígér. A 2005-ben alapított vállalat a PRO 7500-as sorozatot a Tokióban ma még nyitva tartó Data Storage Expo rendezvényre is magával hozta, ahonnan Ausztráliába viszi, ott a CeBIT Australia kiállításon lesz látható május 20-tól 22-ig. Bár konkrét árról a gyártó még nem tett említést, a sorozat nevének "PRO", végzõdésébõl, illetve abból, hogy az Mtron a terméket vállalati környezetbe szánja arra következtethetünk, hogy a friss sorozat sem lesz olcsóbb a gyártó többi, szintén borsos árú megoldásainál.

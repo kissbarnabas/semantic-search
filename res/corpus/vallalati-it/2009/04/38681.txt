@@ -1,0 +1,20 @@
+Virtualizációval teszi XP-kompatibilissé a Windows 7-et a Microsoft
+
+A Microsoft virtualizáció segítségével könnyítené meg az átállást Windows XP-rõl Windows 7-re. Az új asztali operációs rendszer Professional, Enterprise és Ultimate változatában helyet kapó "Windows XP Mode" lehetõvé teszi Windows XP-re fejlesztett alkalmazások változtatás nélküli futtatását egy elszigetelt környezetben, így az alkalmazáskompatibilitási problémák nem akadályozzák az áttérést az új Windowsra.
+
+
+
+Az XPM lényegében ugyanúgy mûködik, mintha a Windows 7-et futtató PC-n egy virtualizált környezetben futna egy Windows XP SP3, amelyre feltelepíthetõ az adott alkalmazás. Ami nagy különbség, hogy az alkalmazás ugyan a virtualizált Windows XP-re települ, de a gazda operációs rendszerbõl, azaz a Windows 7-bõl ugyanúgy indítható mint bármilyen más program. Így a felhasználók egyetlen asztali környezetbõl futtathatják a Windows XP-t igénylõ alkalmazásaikat a Windows 7-en natívan mûködõ programokkal.
+
+A Dimensional Research által nemrégiben elvégzett, mintegy 1100 informatikai vezetõ bevonásával végzett felmérés szerint a vállalatok számára az új Windows bevezetését esetlegesen akadályozó egyik legfontosabb tényezõ az alkalmazáskompatibilitás. A Windows 7 a Vista leszármazottja, kompatibilis az elõdjével, az XPM-nek köszönhetõen pedig a Windows XP-vel is biztosított a szinte 100 százalékos kompatibilitás, így gyakorlatilag nem lesz olyan, jelenleg is használatban levõ windowsos szoftver, amely ne futna Windows 7-en.
+
+
+Két Word egymás mellett (Forrás: Windows Supersite)
+
+
+
+ A virtualizáció jól használható alkalmazáskompatibilitási problémák legyõzéséhez. Vállalati környezetben az XPM hatalmas elõnye a VMware-en vagy más hypervisoron virtualizált Windows XP-vel szemben, hogy az XPM mûködése központilag adminisztrálható Active Directory és csoportházirendek segítségével. Emellett az sem elhanyagolható tényezõ, hogy az XPM önmagában tartalmaz egy teljes értékû Windows XP SP3 licencet, így azért nem kell külön fizetni.
+
+Az ingyenesen letölthetõ kiegészítõ a következõ generációs Virtual PC-re (Virtual PC 7, VPC) és a Remote Desktop Protocolra (RDP) épül és hardveres virtualizációs támogatással felvértezett processzort (Intel VT, AMD V) igényel. A Windows XP Mode bétaváltozata várhatóan a héten jelenik meg, a végleges verziót pedig a Windows 7 megjelenése körül teszi elérhetõvé majd a Microsoft. Redmond már ezen a héten kiadja a Windows 7 megjelenésre szánt változatát (RC) a TechNet- és MSDN-elõfizetõk számára, a nagyközönség pedig május 5-étõl férhet hozzá.
+
+A Microsoft közben ingyenes kompatibilitási tesztelést aján a fejlesztõcégeknek. A májusi TechEd Conference & Expo rendezvényen a "Windows 7 Bring Your Own Apps Lab" keretében a cég ingyenes tanácsadást biztosít azoknak a fejlesztõknek, akik elhozzák és tesztelik alkalmazásukat az új operációs rendszeren.

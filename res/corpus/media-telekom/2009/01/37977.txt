@@ -1,0 +1,35 @@
+M-Labs: Lebuknak az adatforgalmat korlátozó szolgáltatók
+
+[IW/HWSW] Az internet atyja, Vint Cerf, a Google vezetõ internet evangelistája a héten bemutatta az internet semlegessége mellett kiállni szándékozó új projektjét, a Measurement Labot. A Google, a PlanetLab Consortium, a New America Foundation Open Technology Institute által támogatott kutatási platform célja, hogy a felhasználók számára fejlett hálózati diagnosztikai eszközöket nyújtsanak. Ezek segítségével mindenki tisztán látja majd, hogy a szolgáltatója milyen eszközökkel korlátozza vagy priorizálja az adatforgalmát.
+
+
+
+Az internet legyen semleges
+
+"A Google-nél komolyan törõdünk azzal, hogy internetet megtartsuk egy nyílt és szabad platformnak, ahol a felhasználók döntenek és határozzák meg az új irányokat" -- írja Vint Cerf, Stephen Stuartal, egy Google-mérnökkel közösen vezetett blogbejegyzésben. "Mindegy ki, mit gondol az internet semlegességérõl vagy az internetszolgáltatók hálózatmenedzsmentjérõl, abban mindenki egyetért, hogy a felhasználók jólinformáltak akarnak lenni arról, hogy mit kapnak, mikor elõfizetnek egy szélessávú szolgáltatásra. A megfelelõ adatok pedig a megbízható szolgáltatói gyakorlatok alapjai. Az átláthatóság mindig is kritikus tényezõje volt az internet fejlõdésének, az M-Labs pedig éppen azért szeretné fejleszteni az ezzel kapcsolatos kutatásokat, hogy segítsen fenntartani az egészséges, innovatív internetet."
+
+M-Labs: tudd meg az igazat!
+
+A Google eddig sem rejtette véka alá a semleges internettel kapcsolatos véleményét, de ezzel a bejelentéssel nyíltan nekimennek a szolgáltatók trükközõ magatartásának. A Google célja, hogy a telekommunikációs cégek számára nehézzé tegye azt adatforgalom korlátozását, bizonyos típusainak, protokolljainak, alkalmazásainak blokkolását, mint a BiTTorrent vagy a Skype. A peer-to-peer zabolázása sok esetben az illegális fájlcsere miatt elfogadhatónak tûnik a közvélemény számára, ugyanakkor számos jövõbemutató üzleti modellt teljesen ellehetetlenít, amit a startupból lett mamut nem néz jó szemmel.
+
+Eric Schmidt, a Google vezérigazgatója azt írta egy tavalyi nyílt levelében, hogy "ma az internet egy információs szupersztráda, ahol bárki -- legyen kicsi vagy nagy, átlagos vagy különc -- egyenlõ hozzáféréssel kell rendelkezzen. Eközben viszont a telefon és kábel monopóliumok, akik az internetelérések majdnem egészét uralják, ki szeretnék választani, hogy kik férjenek hozzá leggyorsabban az adatokhoz és milyen tartalmak legyenek elõnyben. Egy kétszintû rendszert építenek, ahol elállják az ugródeszkához vezetõ utat azok elõtt, akik nem tudnak fizetni."
+
+
+Összeesküvés elmélet
+
+
+A telekommunikációs cégek természetesen mindezt másként látják. A Hands Off the Internet nevû csoport, mely mögött többek közt az AT&T áll, vitatják azt is, hogy a meglévõ szabályok védik-e az elõfizetõket, de szerintük a felvetett új, semlegességre alapuló szabályozások még nehezebbé tennék a megkérdõjelezhetõ tartalmak blokkolását.
+
+
+A rendszer sem teljesen következetes, hiszen tavaly az USA-ban az FCC támadta a Comcast szolgáltatót, amiért forgalommenedzsment eszközöket vetett be a fájlcserélõ alkalmazások korlátozására. Egy másik helyen viszont a Cox Communications azt jelentette be, hogy késleltetni fogja a nem valós-idejû alkalmazások internetforgalmát, hogy megelõzze a torlódásokat. (Ez körülbelül olyan lenne, mintha a reggeli forgalmi dugóban azokat az autósokat félreállítanák, akiket nem büntetnek meg a munkahelyükön ha elkésnek.)
+
+
+
+
+Amennyiben ez a gyakorlat teret nyer, akkor a szolgáltatók saját megítélésük szerint bármikor lassíthatnák a letöltéseket, p2p forgalmat, levelezõrendszereket, arra hivatkozva, hogy kell az erõforrás a weboldalak letöltéséhez, streaming videók továbbításához és az online játékhoz.
+
+
+Utópia
+
+
+A Google erõs véleménye az internet semlegességével kapcsolatban nyilván nem véletlen, bár az is elõfordulhat, hogy a "Don't be evil" elv nyomán védik a gyengébbet. Ugyanakkor inkább valószínû, hogy a cégnél komoly tervek vannak a következõ évek szolgáltatásaival kapcsolatban, mely akár a p2p korlátozás, akár egyéb limitáló tényezõ miatt sérülhet. Ugyanakkor a Google-tõl teljesen független internetguruk, mint Tim Berners-Lee, a web 2.0 atyja is kiáll az internet semlegességének megõrzéséért. Szerinte ez az alapja egy igazságos, versengõ piaci gazdaságnak, illetve az online demokráciának.

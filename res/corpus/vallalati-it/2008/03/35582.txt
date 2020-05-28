@@ -1,0 +1,16 @@
+Csúcskategóriás Sun szalagkönyvtáron archiválja mûsorait az RTL Klub
+
+Az RTL Klub a Sun Microsystems csúcskategóriás szalagkönyvtárát vetette be mûsorainak archiválására, leváltva korábbi megoldását, amely szintén Sun/StorageTek termék volt, azonban 135 terabájtos kapacitása betelt. 
+
+
+
+A most bevezetett konfigurációban a SL8500 moduláris szalagkönyvtár 1448 kazettát tud kezelni, ami kazettánként 500 gigabájtos kapacitást figyelembe véve 724 terabájtot jelent. A kazetta-kapacitás a késõbbiekben akár 10 ezer slotig bõvíthetõ egy könyvtáron belül, de lehetõség van akár több könyvtár összefûzésére is. Az archiválórendszert a Front Porch Digital által fejlesztett DIVArchive szoftver vezérli -- ez a kombináció rendkívül közkeletû a broadcast alkalmazások területén.
+
+
+ A kiépített rendszer lelke három darab StorageTek T10000 szalagos meghajtó, amelyeknek Magyarországon ezzel a telepítéssel az RTL Klub lett az elsõ felhasználója. A T10000 az eszköz szintjén kínál AES-256 titkosítást, függetlenül a mentett adatok típusától, az operációs rendszertõl vagy az alkalmazástól. A vállalat közleménye szerint a titkosítás nem befolyásolja az adatmentés vagy visszatöltés sebességét, vagyis továbbra is elérhetõ a másodpercenként 120 megabájtos írási sebesség.
+
+Sun StorageTek SL8500 szalagkönyvtár
+
+"Mivel az RTL Klub a meglévõ StorageTek L700 szalagkönyvtárat teljes megelégedéssel használja, egyértelmû volt, hogy hûek maradunk a Sunhoz" -- magyarázta Szentpéteri Gábor, az RTL Klub mûszaki vezetõje. "Az alkalmazott Sun/StorageTek hardver és a DIVArchive szoftver párosítása a piacon elérhetõ legmegbízhatóbb és legjobban skálázható megoldás. Broadcast-körökben ez amolyan etalon." A rendszert a Rexfilm Kft. építette ki, amely a Sun StorageTek termékek kiemelt forgalmazója és szolgáltatási partnere Magyarországon, Bulgáriában és Romániában.
+
+Általános vélekedés a piacon, hogy a tárolórendszerek hagyományosan nagy vásárlóin, azaz a pénzintézeteken és távközlési szolgáltatókon túl a médiaipar lesz a jövõben az ilyen berendezések  és megoldások legnagyobb növekedést produkáló felvevõpiaca. Ma már a mûsorok készítésre szinte a kezdektõl fogva digitális technológia felhasználásával történik, beleértve a rögzítést, vágást, az utómunkát, a tárolást, illetve a sugárzást is. A nagyfelbontású videók, adások megjelenésével és terjedésével a tárolókapacitás iránti igény hatványozottan nõ.

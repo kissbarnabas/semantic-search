@@ -1,0 +1,14 @@
+Fél perc alatt továbbít egy DVD-nyi adatot a Kizuna kommunikációs mûhold
+
+[Techworld] Új rekordot állított fel a mûholdas adattovábbításban a frissen fellõtt japán Kizuna kommunikációs mûhold: két csatorna összekapcsolásával 1,2 gigabit/s-os fullduplex - azaz mindkét irányban rendelkezésre álló -- adatátviteli sebességet értek el a mérnökök. Ezzel a sávszélességgel körülbelül 30 másodperc alatt lehet egy egész DVD-nyi adatot továbbítani.
+
+
+
+A tesztet május másodikán, a mûhold ellenõrzése közben futtatták le, az adatokat két, egyenként 622 megabit/s-os sebességre képes csatornán továbbította a mûhold. A kombinált sávszélesség több mint 1,2 gigabit volt másodpercenként, a Földrõl a mûholdra, illetve onnan vissza a Földre egyaránt. 
+
+A Kizuna kommunikációs mûholdat február 22-én állították Föld körüli pályára, célja nagysebességû internet biztosítása olyan helyeken Ázsiában, ahol a vezetékes, vagy más vezeték nélküli elérések kiépítése gazdaságtalan, vagy éppenséggel megvalósíthatatlan lenne. A hatalmas adatátviteli sebességet a mûholdba épített ATM switch teszi lehetetõvé, eddig ilyen eszközt nem helyeztek el egyetlen mûholdon sem.
+
+
+A jelenlegi megoldásoknál a mûholdas rendszerben továbbítandó adatot visszasugározzák egy földi állomásra, ott demodulálják, meghatározzák a csomag irányát, majd újra modulálják és felküldik a mûholdra, hogy elérhesse célját. Ezzel rengeteg sávszélességet vesztegetnek el. A mûholdba épített ATM switch ezt a feladatot teljesen átvállalja, szabaddá téve a transzponder teljes sávszélességét.
+
+A tesztek szerint a mûhold egy kisméretû, kompakt 45 cm-es antennával 1,5 megabit/s-os le- és feltöltési sebességet nyújt, míg egy 1,2 m-es átlójú tányérral már 155 megabit/s-os le- és feltöltési sebesség is elérhetõ. Ez utóbbi szintén rekordnak számít.

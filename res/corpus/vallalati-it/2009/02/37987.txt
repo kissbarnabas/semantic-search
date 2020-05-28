@@ -1,0 +1,14 @@
+Hamarosan vége a Windows javítócsomagjait blokkoló algoritmus pályafutásának
+
+Pár hónapon belül fel kell készülniük a Windows Vista elsõ, illetve az XP harmadik szervizcsomagjának a bevezetésére azoknak a vállalati rendszergazdáknak, akik eddig egy a Microsoft által kiadott blokkolóalgoritmussal akadályozták meg, hogy a munkahelyi számítógépekre automatikus frissítésként települjön a javítás -- figyelmeztet a szoftvercég. 
+
+
+
+A vállalat a nagyobb, az IT-infrastruktúrát vagy a rendszerkörnyezetet jelentõsen befolyásoló frissítései elõtt gyakorta tesz közzé ilyen alkalmazásokat, ezek általában adott idõpontig kiiktatják a gépre amúgy automatikusan letöltõdõ frissítést azért, hogy az informatikai részlegeknek elegendõ idõt biztosítsanak a tesztelésre és bevezetésre. A Microsoft 2007 decemberében, tehát jóval a javítások végleges kiadásainak megjelenése elõtt tette elérhetõvé azokat a kódokat, mely a Windows Vista elsõ és a Windows XP harmadik szervizcsomagjának az automatikus telepítését akadályozzák meg.
+
+
+A frissítések blokkolására használható, három formában elérhetõ (futtatható program, regisztrációs adatbázist módosító script és csoportházirend-sablon) eszköz április 28-án feloldja a Vista SP1, május 19-én pedig az XP SP3 telepítésének blokkolását a Windows Update automatikus frissítési szolgáltatásán keresztül.
+
+A Microsoft rendszerint egy év haladékot ad a vállalati rendszergazdáknak a javítócsomagok tesztelésére, illetve a bevezetés elõkészítésére, az automatikus letöltést megakadályozó program a megadott dátum elérése után hatástalanítja magát. A szoftver a Vista szervizcsomagjánál annak megjelenését követõen csaknem napra pontosan egy évig aktív, az XP esetében azonban ennél valamivel rövidebb ideig tartja vissza a javítást (a végleges XP SP3 ugyanis tavaly júliusban jelent meg).
+
+A Microsoft január elején hasonló céllal tette elérhetõvé azt a kódot, mely az Internet Explorer webböngészõ 8-as változatának automatikus telepítését akadályozza meg. A programnak nincs hatása azokon a számítógépeken, melyekre valamelyik korábbi tesztváltozatot már telepítették, illetve a többi hasonló célt szolgáló frissítésblokkolóval egyetemben csak a Windows Update frissítõszolgáltatások mûködésére van hatással, azaz az olyan, vállalati szintû frissítõrendszerek mûködését nem befolyásolja, mint a Windows Server Update Services (WSUS), vagy a System Management Server (SMS).

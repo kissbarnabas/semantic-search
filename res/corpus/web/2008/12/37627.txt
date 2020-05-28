@@ -1,0 +1,14 @@
+Patch-kedd után 0-day szerda: javítatlan sebezhetõség maradt az Internet Explorerben
+
+Minden idõk legnagyobb frissítéscsomagját adta ki tegnapelõtt a Microsoft, mégis maradtak foltozatlan biztonsági lyukak a vállalat szoftvereiben. A szakembereket az Internet Explorerben és a WordPadben felfedezett sebezhetõségek foglalkoztatják a leginkább.
+
+
+
+A redmondi cég összesen négy kritkus sérülékenységet foltozott kedden az Internet Explorerben, azonban felbukkant egy újabb, amelyet Ázsiában máris támadnak, bár a jelentések szerint a támadókód elég megbízhatatlan, csak az esetek harmadában mûködõképes. A biztonsági rés a böngészõ HTML-megjelenítõ motorjában található, és a span HTML-tag segítségével használható ki. 
+
+
+ A Microsoft megerõsítette, hogy a tegnapi frissítések során erre a hibára nem adott ki javítást és jelenleg is vizsgálja a beérkezett jelentéseket. A sebezhetõség egy teljesen frissített Windows XP SP3 operációs rendszerre telepített Internet Explorer 7-ben is jelen van -- a Vista érintettségét egyelõre nem erõsítették meg.
+
+Szakemberek egybehangzó véleménye szerint nem véletlen, hogy a támadások éppen a decemberi patch-kedden indultak útjukra, ez arra enged következtetni, hogy a bûnözõk már korábban felfedezték ezt a sérülékenységet és elkezdték a támadó kódokat fejleszteni. Mivel a Microsoft havonta egyszer ad ki frissítést a szoftvereihez, elméletileg január közepéig szabadon garázdálkodhatnak ezek a kódok, persze ha a helyzet súlyosbodik, a redmondiak alighanem soron kívüli javítást adnak majd ki.
+
+Biztonsági hibát találtak a WordPad Tect Converterben is, amelyet már szintén támadnak, noha ez a sérülékenység Windows XP SP3, Windows Vista és Windows Server 2008 operációs rendszeren már nem használható ki, csak korábbi Windows-változatokon. A sikeres támadáshoz egy elõre preparát WordPad-állományt (.wri) kell megnyitni az áldozatnak, ezzel távoli felhasználó az éppen bejelentkezett felhasználóéval megegyezõ jogosultságokat szerezhet. A Microsoft megkezdte a sebezhetõség kiértékelését.

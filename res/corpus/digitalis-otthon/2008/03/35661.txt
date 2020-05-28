@@ -1,0 +1,14 @@
+További részletek a HP 2133 ultramobil számítógéprõl
+
+A HP közelgõ ultramobil számítógépével kapcsolatban már többször adtunk hírt az addig kiszivárgott információkról, most azonban találgatások és lehetséges jellemzõk helyett konkrétumokat közölhetünk a nem kevesebb mint négy különbözõ változatról -- árakkal és a piacra kerülés dátumával együtt.
+
+
+
+A HP 2133 noteszek most már bizonyos, hogy a VIA alacsonyfogyasztású platformját zárják a gépházba, amely 1,2 gigahertzes frekvencián három változatban üzemel majd, a negyedik pedig egy 1,6 gigahertzes lapkát kap. A 8,9 hüvelykes kijelzõ mind a négy gépben 1280 x 768 képpontot jelenít meg, a merevlemez pedig 120 és 160 gigabájtos modellekbõl kerül a burkolat alá, melyek között SSD meghajtót nem, de 7200 fordulaton pörgõ változatot találhatunk.
+
+
+A VIA C7-M processzorral karöltve VIA Chrome 9 UMA lapkakészlet dolgozik egy, illetve két gigabájtnyi, 667 megahertzes DDR2 memória társaságában. A hálózati kapcsolatok a beépített 802.11 a/b/g vezeték nélküli csatolóval is kiépíthetõk, de a 2133 mobiltelefonokhoz, nyomtatókhoz, egyéb eszközökhöz Bluetooth 2.0 adapterrel is képes lesz csatlakozni. Az áramellátásról három, illetve hatcellás akkumulátor is gondoskodhat.
+
+
+
+A Windows Vista Business, Home Basic, valamint SuSE Linux operációs rendszerekkel egyaránt választható négy különbözõ ultramobil noteszgép egyedi modellszáma még nem ismert, a merevlemezkapacitástól, memória méretétõl, a processzor frekvenciájától és a telepített operációs rendszertõl függõen 549, 599, 749, illetve 849 dolláros áron érkeznek, és április 7-étõl vásárolhatók majd meg.

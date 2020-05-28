@@ -1,0 +1,16 @@
+Alacsony fogyasztású S3 grafikus chip netbookokba
+
+Kimondottan alacsony fogyasztású mobil eszközökbe, leginkább netbookokba szánja új grafikus vezérlõjét a szebb napokat is látott S3 Graphics. A VIA divíziójaként tevékenykedõ S3 új terméke a Chrome 400 ULP (Ultra Low Power) sorozat, amely alacsony fogyasztás mellett kínál DirectX 10.1 gyorsítást és 1080i/p HD-lejátszást.
+
+
+
+A vállalat közleménye szerint az egyre népszerûbb mini notebookok és ultramobil PC-k grafikus képességeinek komoly határt szab a videochipekhez szükséges hûtés, ami a Chrome 400 ULP-nek nem lehet probléma, hiszen a maximális fogyasztása és hõtermelése mindössze 7 watt, ami minden versenytárs elé helyezi, legalábbis ebben a kategóriában. A netbookok és UMPC-ka ma még chipsetbe épített grafikus vezérlõvel kerülnek a boltokba, az S3 szerint a Chrome 400 ULP lehetõvé teszi, hogy ebben a kategóriában is megjelenjenek a dedikált megoldások.
+
+A PCI Express csatolófelületû, egységes shader architektúrát felvonultató S3 Graphics Chrome 400 ULP sorozat jelenleg három tagot számlál, köztük a 430-as modellt netbookokba és UMPC-kbe ajánlja a cég, a Chrome 435 viszont már akár notebookokba is beépíthetõ lehet a gyártó szerint. Az S3 azt állítja, a Chrome 435 a versenytársaknál 40 százalékkal alacsonyabb fogyasztás mellett képes azonos teljesítményre, pontos adatok azonban a közleményben nem szerepelnek, így az sem, hogy milyen ternékekkel hasonlítottták össze a chipet.
+
+
+ A Chrome 440 ULP már két HD-jelfolyam párhuzamos megjelenítésére is képes (a H.264, VC-1/WMV HD és MPEG2-HD dekódolás hardveresen gyorsított), az S3 szerint 3D megjelenítési képességei megfelelõvé teszik akár asztali gépekben való használatra is, eközben a fogyasztása 60 százalékkal alacsonyabb a vetélytársakénál.
+
+Az alacsony fogyasztásért az architektúra mellett a PowerWise technológia felel, amely az S3 energiatakarékos megoldáscsomagja: a chip a terhelés függvényében folyamatosan képes a saját órajelét és mûködési feszültségét állítani a lehetõ legkisebb energiafelhasználás érdekében, ami az akkumulátoros üzemidõre is kedvezõ hatással van. Ma már egyébként az összes mobil grafikus chip képes ilyen trükkökre, beleérve a chipkészletbe integrált megoldásokat is.  
+
+Egyelõre nem tudni, milyen notebookokkban találkozhatunk a Chrome 400 ULP sorozat tagjaival, az S3 Graphics mindössze annyit jelentett be, hogy a Fujitsu a megrendelõi között van.

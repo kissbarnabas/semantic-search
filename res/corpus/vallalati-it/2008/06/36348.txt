@@ -1,0 +1,47 @@
+Megjelent a Microsoft hypervisora
+
+A Microsoft tegnap kiadta a Hyper-V virtualizációs köztesréteg végleges változatát, amelyet bárki letölthetõ a cég weboldaláról, az automatikus frissítõszolgáltatáson keresztül pedig július 8-án lesz elérhetõ. A Hyper-V a Windows Server 2008 egyik szerepköreként telepíthetõ, kizárólag az x64-es változaton. 
+
+
+
+Idõben jött
+
+A Microsoft öt éve lépett be a virtualizációs piacra, amikor 2003-ban megvásárolta a Connectix nevû céget. A redmondiak Virtual PC-je és Virtual Servere lényegében a Connectix terméke, csak miután a Microsoft bekebelezte  céget, átkeresztelték õket. A Virtual PC és a Virtual Server még nem is "igazi" hypervisorok, hanem hoszt-alapú megoldások, amelyeken csak néhány típusú operációs rendszer mûködik vendégként. A Hyper-V ezzel szemben már valódi mikrokerneles hypervisor, ami közvetlenül a hardveren fut, és lényegében bármilyen x86-os operációs rendszert képes futtatni.
+
+A Hyper-V, eredeti kódnevén Viridian fejlesztése 2005-ben kezdõdött és a redmondi cég utóbbi idõben mutatott formájához képes meglepõ módon idõre befejezõdött, a Microsoft mindig is 2008-ra tervezte a premiert. A Windows Server 2008-ba még nem került be a Hyper-V, de a szoftvergyártó azt ígérte, legkésõbb 180 nappal az új szerver operációs rendszer premierje után elérhetõ lesz. Ezek alapján a Hyper-V megjelenésének végsõ határideje augusztus vége lett volna, de a Microsoft kivételesen nem csúszott el és két hónappal határidõ elõtt kiadta a terméket.
+
+
+ Ami igaz az igaz, annak érdekében, hogy a fejlesztés idõre elkészüljön, a Microsoft 2007-ben kénytelen volt számûzni egy pár funkciót a Hyper-V-bõl, például nem lehet a virtuális gépeket leállítás nélkül egyik fizikai szerverrõl a másikra mozgatni (live migration), illetve nem lehet a mûködõ virtuális gépekhez "menet közben" további erõforrásokat hozzárendelni. Ezek azonban a Microsoft szerint rétegigények, a legtöbb felhasználó számára nem fontosak. A Hyper-V egy késõbbi változatába azonban bele fognak kerülni.
+
+
+
+
+Mire a nagy felhajtás?
+
+Szerverkörnyezetben a virtualizáció egyik legfontosabb bevetési területe a konszolidáció, amikor több szerver feladatait egy gépre vonják össze, az  erõforrások hatékonyabb kihasználása érdekében. Ilyenkor egy szerveren több operációs rendszeren, egymástól elszigetelve futnak az alkalmazások, amelyek nem érintik egymás mûködését -- az egyik hibája, lefagyása nem rántja magával a többit. Természetesen amennyiben hardverhiba fordul elõ, az a virtuális gépek mindegyikét érinti, azonban egy dinamikus virtualizált környezetben a virtuális gépek hiba esetén automatikusan átmigrálhatók egy másik fizikai szerverre, és ott futhatnak tovább, a kiesés szinte csak szemvillanásnyi, de legfeljebb néhány másodperc. A virtualizáció hatékonyan használható még tesztelésre, fejlesztésre is.
+
+
+
+
+"A Hyper-V megjelenésével a világ legnagyobb piaci részesedésével bíró szerver operációs rendszere egy teljes értékû, type1-es, integrált hypervisorral rendelkezik" -- mondta lapunknak Lepenye Tamás, a Microsoft nagyvállalati üzletágának rendszermérnöke. "A Hyper-V architektúrájából fakadóan nem kell újratanulni a driverek írását, vagyis a processzorokra vonatkozó megkötéseket leszámítva gyakorlatilag a Windows HCL-en megtalálható összes szerver alkalmas a hypervisor fogadására. Hardveroldalon ez a ma ismert legszélesebb választék."
+
+
+A Hyper-V legfeljebb 16 processzormagot és 2 terabájt memóriát támogat, a futtatható virtuális gépek (vendégek) száma nincs korlátozva, azoknak csak a rendelkezésre álló erõforrások szabnak határt. Egy vendég operációs rendszerhez akár négy processzort is rendelhetünk, vagyis a teljesítményigényesebb szerveralkalmazások is futtathatók virtualizált környezetben. Vendégként lényegében az összes létezõ 32- és 64-bites Windows (asztali és szerver), Linux és egyéb operációs rendszer mûködik, a kifejezetten támogatott operációs rendszerek listája megtalálható a Microsoft oldalán.
+
+Lepenye hangsúlyozta, a Hyper-V és a köré épülõ infrastruktúra nem várja el egy teljesen új tudás megszerzését az ügyfelektõl: a meglévõ Windows üzemeltetési ismereteket újrahasznosíthatják. "Ugyanez igaz a menedzsment infrastruktúrára is. A cluster-ismeretek a Quick migration-nél, a Configuration Management-ismeretek a hostok frissítésénél és az elvárt konfiguráció-menedzsmentnél, az Operations Management-ismeretek pedig a szerverfelügyeletnél hasznosulnak és persze közben kiegészülnek a virtualizációs ismeretekkel.
+
+Egyre bõvülõ piac
+
+A Microsoft a Hyper-V kiadásával tehát hivatalosan is belépett az egyelõre a VMware által uralt x86-os szervervirtualizáció területére. A Hyper-V elõnye a Vmware hasonló kategóriás termékeivel szemben, hogy a Windows Server 2008-ra ingyen elérhetõ, miközben a VMware ESX egy kétprocesszoros szerverre legalább 1500 dollárba kerül. Bár funkcionalitását tekintve egyelõre hátrányban van a Microsoft hypervisora, és a VMware köré épült szoftverinfrastruktúra is sokoldalúbb még, Redmond gyorsan dolgozza le a hátrányát.  
+
+A redmondiak szerencséjére az x86-os virtualizáció egy fejlõdõ piac, ahol még van hely új szereplõknek. Az iSuppli piacelemzõ cég szerint a tavaly leszállított szervereknek még csak alig több mint 8 százalékát virtualizálták a felhasználók, az elõrejelzés szerint idén ez 11 százalékra növekszik, de még 2011-re is csak 20 százalékot tesz ki, vagyis a virtualizációs megoldások elõtt fényes jövõ látszik. Ezzel párhuzamosan a domináns szerverméret egyre inkább a kétutas, amelyek az egyre több szálat futtatni képes processzorokkal szerelve a legtöbb workloadot már ki tudják szolgálni.
+
+"Arra számítunk, hogy nagyságrendekkel növekszik majd a virtualizációra építõ IT szervezetek és rendszerek száma" -- mondta a HWSW-nek Lepenye. "A Microsoft meggyõzõdése, hogy a virtualizáció csak akkor fejti ki áldásos hatását, ha alapos tervezõ munka elõzi meg, az üzemeltetés pedig átalakul és a rendszerfelügyelet egy új minõségi szintre lép. A Microsoft felelõssége a felhasználók ellátása a lehetõ legtöbb tervezési segédlettel, emellett feladata és egyben üzleti lehetõsége olyan minõségi rendszerfelügyeleti szoftverek készítése, amellyel a virtualizáció igéreteit be lehet váltani."
+
+A Microsoft tavaly õsszel adta ki a System Center Virtual Machine Manager 2007-et, azonban az a verzió még nem alkalmas a Hyper-V-n futó virtuális gépek felügyeletére, ez a képesség az idén szeptemberre ígért Virtal Machine Manager 2008-ben mutatkozik be, amelynek a bétája már elérhetõ a Microsoft weboldalán. A VMM 2008-ból nem csak Hyper-V, hanem VMware ESX Server és Microsoft Virtual Server környezetben futó virtuális gépek is felügyelhetõk.
+
+A Magyar Posta weboldalai is virtuális szervereken futnak
+
+Nemzetközi szinten már számos vállalat használja élesben a Hyper-V technológiát, köztük maga a Microsoft, amely több weboldalát (TechNet, MSDN, Microsoft.com) futtatja virtualizált szervereken. A naponta 38 millió látogatót kiszolgáló Microsoft.com infrastruktúrája 50 százalékban virtuális gépeken alapul. Magyarországon a Hyper-V egyik elsõ felhasználója a Magyar Posta, ahol a nagy rendelkezésreállás és a terheléselosztás érdekében vetik be a szervervirtualizációt.
+
+"Bár a projekt tervezésekor még mindkét termék [Windows Server 2008, Hyper-V] béta-verziójánál tartott, mégis mellettük döntöttünk, mert ár és érték arányát tekintve ez a megoldás minden másnál jobban lefedte igényeinket" -- mondta a Computerworldnek Bene Zsolt rendszermérnök. "Ma már éles környezetben, a Windows Server 2008 és a Hyper-V technológia alapjain publikálunk webes szolgáltatásokat házon belül és azon kívül, a Magyar Posta nyilvánosan elérhetõ honlapja számára is."

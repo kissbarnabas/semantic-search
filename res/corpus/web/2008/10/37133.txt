@@ -1,0 +1,16 @@
+Néhány hetet késni fog a Firefox 3.1
+
+Néhány héttel elcsúsztatják a Firefox 3.1 megjelenését annak érdekében, hogy újabb funkciókkal egészítsék ki a böngészõt. A négy-öt hetes késésért cserébe a felhasználók az Internet Explorerhez és a Chrome-hoz hasonlóan titokban maradhatnak az interneten (Private browsing), illetve még jobb, fejlettebb címsort használhatnak.
+
+
+
+A sokszor egyszerûen "pornómódként" emlegetett Private browsing bekapcsolása után a böngészõ nem tárol semmilyen információt, amibõl a PC-n kideríthetõ lenne, hogy a felhasználó merre járt, milyen weboldalakat látogatott meg, mit töltött le. A böngészõ bezárásakor törlõdnek a sütik, az elõzmények közé sem kerül be semmi, a begépelt jelszavakat sem tárolja el a szoftver, és a mentett állományok is eltûnnek a letöltések listájából. A Mozilla nem tagadja, hogy ezt a funkciót azért szeretnék mindenképpen beépíteni az új Firefoxba, hogy ne maradjanak le az Internet Explorer 8 és a Google frissen kiadott Chrome-ja mögött, amikben szintén megtalálható ez a szolgáltatás.
+
+A Chrome jött, látott, de egyelõre nem gyõzött, a különféle statisztikák szerint a részesedése egyelõre 1 százalék körüli. A termék két legfontosabb vonzereje a JavaScriptek villámgyors végrehajtása, illetve a "pornómód" lehetnek, azonban a Firefox 3.1 mind a kettõt tartalmazni fogja -- utóbbit a TraceMonkey motor révén. A TraceMonkey kódnévre hallgató JavaScript-interpreter a Mozilla várakozásai szerint lehetõvé fogja tenni, hogy a webes alkalmazások ugyanolyan sebességgel fussanak a böngészõben, mintha csak a gépre telepített natív szoftverek lennének.
+
+Egy tegnapi döntés szerint a Private browsing mód a Firefox 3.1 második bétájába kerül bele elõször, ami valószínûleg novemberben jelenik meg. Ezzel párhuzamosan a személyes adatok törlésére szolgáló funkciót is átdolgozzák, a felhasználó például megadhatja, hogy mennyi idõre visszamenõleg szeretné törölni a meglátogatott oldalak listáját vagy a cookie-kat. Némileg megváltoztatják a fülek (tab) kezelését is a Firefox 3.1-ben, lehetõség lesz egy tabot egyszerûen a desktopra dobni, ami új ablakban nyítja meg az adott oldalt. Módosítják a beépülõ modulok telepítésére és eltávolítására szolgáló rutint is (állítólag a Firefox 2.0-ban használt változat tér majd vissza).
+
+
+ További fejlesztésekrõl is szó van természetesen, de még nem született döntés arról, hogy ezek bekerülhetnek-e a Firefox 3.1-be. Az egyik ilyen az Operához vagy a Chrome-hoz hasonló "gyorsindítás" panel, amelyen az utoljára meglátogatott oldalak elõnézeti képe szerepel. A Firefoxhoz beépülõ modul formájában jelenleg is elérhetõ ez a szolgáltatás, de a késõbbiekben alapfunkcióvá válhat annak érdekében, hogy még kényelmesebbé tegye a böngészést.
+
+A Firefox 3.1 elsõ bétáját a jövõ hétre ígéri a Mozilla, a második béta kódját pedig november elején fagyasztják be, a nyilvános tesztelés ezt követõen néhány héttel kezdõdhet meg. Az eredeti tervek szerint a Firefox 3.1-nek 2008 végén vagy 2009 elején fog megjelenni, de a több hetes csúszás és a korábbi tapasztalatok alapján egyre biztosabbnak látszik, hogy csak 2009-ben készül el.

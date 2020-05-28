@@ -1,0 +1,16 @@
+Az Intel bemutatta második generációs sulinoteszét
+
+Az Intel az éppen zajló IDF rendezvényen mutatta be legújabb, második generációs iskolanoteszét, amely természetesen Intel processzort tartalmaz. Az új Classmate noteszgép vezeték nélküli hálózati csatolót kapott, akkumulátoros üzemideje pedig jóval hosszabb lett.
+
+
+
+A frissített noteszgép 802.11 b/g vezeték nélküli és vezetékes hálózati csatolóval egyaránt rendelkezik, a kisiskolások által generált szélsõséges üzemi körülményeket pedig a robusztus gépházon kívül vízálló billentyûzet is tûri. A gép belsejében az elsõ generációban alkalmazottal megyegyezõ 900 megahertzes Celeron M processzor felel a számításokért, de az Intel külön kitért arra, hogy a késõbbi modellekben Atom processzor üzemel majd.
+
+A két új, netbook kategóriába sorolt változat az elõdben található 256 megabájtnyi memória dupláját kapta, hét-, vagy kilenc hüvelykes kijelzõ, hatcellás akkumulátor, valamint webkamera tartozik melléjük, a háttértároló pedig egy 30 gigabájtos merevlemez az eddigi egy gigabájtnyi flash-tárral szemben. Az iskolába szánt noteszek alkalmasak a Windows XP futtatására, de természetesen igény esetén Linux disztribúcióval is elboldogulnak. A gyártótól a tanterembe elõtelepített tananyagokkal is érkezhetnek, melyek már több mint nyolc nyelven készültek el.
+
+
+Az elsõ Classmate PC-t speciális szoftverekkel szállították, amelyek lehetõvé tették a gépek ellenõrzését, és egyes alkalmazások gyerekzáras tiltását is. A tanárok prezentációt tarhattak az egyes gépek monitorán, és nyomon követhették a nebulók tevékenységét, akik vele, vagy akár egymással együttmûködve is tanulhattak. Az Intel ezenkívül a gépek pontos nyilvántartásához is segítséget nyújt, amivel megakadályozható azok nyom nélküli eltûnése, többek között egy TPM-chip révén, ami bizonyos idõközönként megköveteli az iskolai infrastruktúrára csatlakoztatást, különben használhatatlanná teszi a gépet. Ezek a lehetõségek a második generációs gépekbõl sem hiányoznak.
+
+
+
+"A világ gyerekeinek mindössze öt százaléka használ számítógépet és jut el a világhálóra. Az oktatás a legjobb példa arra, hogy a technológia  miként teheti jobbá az életünket. Az Intel processzoros Classmate PC egy azon utak közül, amellyel támogathatjuk a gyerekek oktatását" -- mondta Andrew Chien az Intel alelnöke. Bár a szándék nemes, az amazon weboldalán április 4-étõl megtalálható Classmate PC 400 dolláros ára nem teszi a készüléket kivételessé napjaink Eee õrületében.

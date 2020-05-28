@@ -1,0 +1,14 @@
+Küszöbön az Internet Explorer kiadásra jelölt változatának a megjelenése
+
+Egyre közelebb kerül az Internet Explorer webböngészõ soron következõ, 8-as generációjának megjelenése -- a szoftver a bétaüzem után lassan megérik a kiadásra, az elsõ kiadásra jelölt (RC) változat érkezése heteken, de akár napokon belül várható. A csaknem végleges kódot a Microsoft állítólag már meg is küldte a legközelebbi partnereinek.
+
+
+
+Az Internet Explorer új generációja már az ajtóban kopogtat, hívta fel a webfejlesztõk figyelmét Dean Hachamovitch, a böngészõért felelõs részleg vezetõje. Hachamovitch egyelõre nem árult el konkrét részleteket arról, hogy a program pontosan mikor jelenik meg, a korábbi nyilatkozatok és az elõzetes várakozások azonban arra utalnak, hogy az RC-változat valamikor a jövõ év elején készülhet el. A végleges változat érkezésérõl is csak annyit tudni, hogy a szoftver valamikor 2009-ben várható.
+
+
+Az Internet Explorer 7 esetében az RC és a végleges verzió megjelenése között kevesebb mint két hónap telt csak el. Az Internet Explorer 8 RC-jét minden tekintetben "véglegesre" tervezi a Microsoft, és arra biztatja a webfejlesztõket, hogy az oldalaikat és kódjaikat azonnal kezdjék majd el tesztelni a kiadásra jelölt változattal, hogy biztosítsák a kompatibilitást.
+
+Az Internet Explorer 8 jelenleg a második bétánál tart, ezt az augusztusban kiadott verziót bárki letöltheti és kipróbálhatja, szeptember közepe óta magyarul is elérhetõ. Az IE8 fõleg a használhatóság és a biztonság terén hoz újdonságokat, de a webes szabványok támogatása is sokat fejlõdött, aminek eredményeképp a böngészõ lényegében az összes standarddal kompatibilis. Emellett a fejlesztõk nagy hangsúlyt fektettek a sebességre is, amely miatt az Internet Explorer 7-et sok kritika érte.
+
+Egyelõre nem tudni biztosan, hogy az augusztusi Beta 2-hez képest milyen új funkciók jelenhetnek meg a véglegesnek jelölt Internet Explorer kiadásban. A szoftvercég részérõl korábban úgy nyilatkoztak, hogy az augusztus 27-én kiadott Beta 2 verzió funkcionalitását tekintve már végleges változat, új elemek tehát nem kerülnek a böngészõbe a fejlesztéskor, csupán a hibák javítása van már hátra.

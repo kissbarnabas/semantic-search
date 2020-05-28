@@ -1,0 +1,12 @@
+Máris csökkenteni kényszerült Phenom II árait az AMD
+
+Alig két hete kerültek piacra az AMD Phenom II processzorai, a vállalat máris csökkenti az árakat. A lépésre az Intel múlt heti Core 2 Quad árcsökkentései kényszerítik.
+
+
+
+Az AMD a január eleji CES alkalmával jelentette be 45 nanométeres asztali chipjeinek hozzáférhetõségét. A Phenom II néven piacra kerülõ processzorok két modell formájában jelentek meg, 3 és 2,8 gigahertzes órajeleken, 6 megabájt harmadszintû gyorsítótárral. Elõbbi, a 940-es jelölésû valamivel a 2,66 gigahertzes Intel Core 2 Quad Q9400 (2x3 MB L2 cache) fölé került árazásban, utóbbi, a Phenom II 920 pedig lényegében a 2,5 gigahertzes Q8300-zal (2x2 MB L2) kapott hasonló árcédulát.
+
+Az Intel az elmúlt vasárnap jelentõsen csökkentette Core 2 Quad processzorainak árát, szokás szerint egy lépcsõfokkal lejjebb tolva a termékvonalat az árstruktúrában -- máshogyan fogalmazva egy adott modell tipikusan az eggyel alacsonyabb teljesítményfokozatú árának magasságába került. Ennek megfelelõen a Q9400 a Q8300 korábbi ára alá került, ami 20 százalékos csökkenést jelent, és nagyjából ugyanennyivel csökkent a Q8300-as ára is, mely a még 65 nanométeres eljárással készült Q6600 árát vette fel. Az AMD nyilvánvalóan ezt a mozgást követi, a Phenom II 940 és 920 a Q9400 és Q8300 után eredt, 18 és 17 százalékos csökkentést kapva. Az AMD egyúttal a 3,1 gigahertzes Phenom II 950 bevezetésére is készül. 
+
+
+Árcsökkentõ lépését az Intel nem a külsõ kereslet gyengélkedésével, vagy az AMD jelentette versennyel, hanem a megszokott termék-életciklussal indokolta. A világ legnagyobb processzorgyártójának forgalma ötödével esett vissza a negyedik negyedévben, üzemi nyeresége felére esett vissza, és aggasztó kilátásokat tett közzé az idei elsõ negyedévre. Az AMD csütörtökön teszi közzé számait, és várhatóan igen súlyos veszteségrõl jelent majd.

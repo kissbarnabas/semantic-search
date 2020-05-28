@@ -1,0 +1,14 @@
+Csak október közepéig támogatja az Office 2003 SP2-t a Microsoft
+
+A Microsoft három hét múlva beszünteti az Office 2003 Service Pack 2 támogatását, így azoknak, akik az irodai csomag öt éve megjelent változatát használják, frissíteniük kell a tavaly õsszel kiadott SP3-ra. 
+
+
+
+Az Office 2003 SP3-ban elsõsorban a biztonsággal kapcsolatos fejlesztések kaptak helyet, de javítottak a Windows Vista-kompatibilitáson is. A biztonsági újítások között számos olyan kapott helyet, amely az Office 2007-ben már megtalálható, de a 2003-as verzióból eddig hiányzott. A Service Pack 3 összesen több mint 450 apró hiba javítását tartalmazza, ezek között számos olyan található, amely megnehezítette vagy egyenesen lehetetlenné tette az Office 2003 együttmûködését egyes újabb Microsoft-szoftverekkel, például a Vistával vagy az Internet Explorer 7-tel.
+
+A redmondi vállalat egy Office javítócsomagot a következõ verzió megjelenése után egy évig támogat. Az Office 2003 SP3 tavaly szeptemberben érkezett meg, az Office 2003 SP2 támogatása pedig október 14-ig, vagyis az októberi patch keddig tart majd. Aznap még érkezhetnek hibajavítások az Office 2003 SP2-höz, de ezt követõen már csak az Office 2003 SP3-hoz jönnek patchek. Bár az Office 2007 már egy ideje piacon van, az Office 2003-hoz 2014-ig biztosít terméktámogatást a Microsoft.
+
+
+ Az Office 2003 SP3 az év elején került be a lapokba, amikor kiderült, hogy nem nyit meg egyes régebbi típusú fájlokat. A redmondi cég szerint azért volt szükség az elavult Word, Excel, PowerPoint, Lotus 1-2-3, Corel Quattro és Corel Draw dokumentumok blokkolására, mivel azok "nem biztonságosak".
+
+A szóban forgó fájlformátumok (pl. Word 6.0, Excel és PowerPoint 97, stb.) ma már szinte egyáltalán nincsenek napi használatban -- ugyanakkor a kizárásuk az Office 2003-ból azt jelenti, hogy ha mégis elõkerül egy ilyen állomány, annak tartalmát gyakorlatilag lehetetlen lesz "visszaszerezni". A javítócsomaggal frissített Office összesen 24 fájlformátumot tagad meg, köztük a jelenlegi legfrissebb Office for Mac által használatakat is. A Microsoft azóta elérhetõvé tett egy leírást, amelyet követve megkerülhetõ ez a korlátozás.

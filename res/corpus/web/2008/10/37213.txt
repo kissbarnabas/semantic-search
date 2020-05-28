@@ -1,0 +1,10 @@
+Asztali gépen is kipróbálható a Mozilla mobil böngészõje
+
+A Mozilla az elmúlt hét végén kiadta elsõ mobiltelefonos böngészõjének, a Firefox Mobile-nak a nyilvános alfaváltozatát. A Fennec (sivatagi róka) kódnéven fejlesztett mobiltelefonos böngészõ a Gecko motor 1.9-es változatára épül, amire a Firefox 3.1-et is alapozzák. A most kiadott alfaváltozatot természetesen szigorúan csak tesztelõknek, szoftver- és webfejlesztõknek szánja a Mozilla, semmiképpen sem éles környezetbe.
+
+
+
+A Fennec egyelõre egyetlen mobil eszközön fut, a Debian Linux-alapú Maemo operációs rendszerre épülõ Nokia N810 Internet Tableten, ami azonban nem túl elterjedt. A Mozilla ígérete szerint készül egy Windows Mobile-ra írt változat is, azonban az egyelõre nem tart még az alfa-állapotnál, így korai lenne a nyilvános tesztelése. Annak érdekében azonban, hogy minél többen ki tudják próbálni a böngészõt, asztali operációs rendszerekre is elkészítették, így Windowst, Mac OS X-et és Linuxot futtató felhasználók egyaránt letölthetik és kísérletezhetnek vele. A Mozilla várakozásai szerint az add-onok fejlesztése is megindulhat ezzel, így mire a végleges verzió megjelenik, már lesznek bõvítmények a Firefox Mobile-hoz.
+
+
+ A Fennec egy modern mobiltelefonos böngészõ, támogatja az érintõkijelzõket, a Firefoxhoz hasonlóan lehetõséget nyújt több fül egyidejû megnyitására, amik között a váltogatást kis elõnézeti képek segítik. A Firefox Mobile címsora is tudja azokat a trükköket, amiket az asztali gépekre szánt változat, azaz kereshetõ. Említést érdemel még a jelszómenedzser és a felugró ablakokat blokkoló rutin, valamint a tárolt személyes adatokat egyetlen kattintásra törlõ funkció. A késõbbi változatokban várható a TraceMonkey nevû villámgyors JavaSctript-motor felbukkanása, valamint a Gecko 1.9.1-ben elérhetõ Geolocation szolgáltatás megjelenése, ami a kereséseket helyfüggõ szolgáltatássá változtatja.

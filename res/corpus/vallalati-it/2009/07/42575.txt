@@ -1,0 +1,13 @@
+Több mint 20 ezer sornyi forráskódot ad a Linuxnak a Microsoft
+
+A Microsoft története során elõször ad ki forráskódot közvetlenül a linuxos közösségnek, mégpedig GPLv2 licenc alatt. A vállalat a Hyper-V virtualizációs köztesréteg eszközmeghajtóit tette elérhetõvé, amelyek használatával a Hyper V-n futó Linux operációs rendszerek teljesítménye növekedhet. A bejelentésre a kaliforniai San Joséban zajló O'Reilly Open Source Convention rendezvényen került sor.
+"A stratégiánk az együttmûködés javítása a Windows platform és több nyílt forrású technológia között, beleértve a Linuxot is, hogy biztosítsuk a választás lehetõségét, amelyet az ügyfelek elvárnak" -- mondta Sam Ramji, a Microsoft szervertermékekért és fejlesztõi eszközökért felelõs részlegének platformstratégiai vezetõje.
+
+"Az ügyfeleinktõl azt halljuk, hogy egyetlen virtualizációs platformot szeretnének használni, a linuxos eszközmeghajtók lehetõvé teszik a Linuxot futtató ügyfelek számára, hogy windowsos és linuxos szervereiket egy virtualizációs platformon konszolidálják" -- tette hozzá Tom Hanrahan, a Microsoft Open Source Technology Center vezetõje. "A fejlesztéssel az eredeti célunk az volt, hogy segítsük a Linux futását virtuális gépként a Hyper-V-n."
+Mindenkinek jó
+Ramji szerint a Microsoft, a Linux-disztribútorok és az ügyfelek számára egyformán hasznos, hogy a Linux teljesítménye növekedik olyan virtualizált környezetben,ahol Windows Server a gazda operációs rendszer. A most kiadott forráskódok kernelbe építésével a Linuxok közel natív sebességgel futhatnak Hyper-V alatt, ugyanazokat a szintetikus eszközöket használva, amelyek a virtualizált Windowsok teljesítményét növelik.
+A Microsoft fejlesztései elsõsorban az I/O teljesítményre lehetnek jó hatással. A Microsoft által Enlightened I/O-nak hívott technológia lényegében nem mást takar, mint a felsõ szintû kommunikációs protokollok (pl. SCSI) virtualizációt figyelembe vevõ implementációját, amelyek révén megkerülhetõ az eszközemulációs réteg. Ez gyorsítja a kommunikációt, növelve a hálózati, storage vagy éppen grafikus teljesítményt, azonban ezt a vendég operációs rendszernek is támogatnia kell. A jelenleg piacon levõ operációs rendszerek közül kizárólag a Windows Server 2008, a Windows Vista és a SUSE Linux támogatja az Enlightened I/O-t, azonban a mostani bejelentés hatására ez a jövõben megváltozhat és az összes Linuxba bekerülhet a támogatás.	     
+                  
+                  
+                  
+                   

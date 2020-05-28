@@ -1,0 +1,16 @@
+Jóval több mint okostelefon a MIU komplett, extrákkal is kiegészített számítógépe
+
+A MIU HDPC-je (Hybrid Dual Portable Computer) a Nokia E90 Communicatornál csak lehelletnyivel nagyobb külsõben tálalja a Windows XP futtatásának lehetõségét. A kisgép a telefonálás mellett navigációra, multimédiás tartalmak lejátszására, mobiltévézésre egyaránt alkalmas.
+
+
+
+A MIU (Mobile Intelligent Ubiquitous Technology) számítógépének felhajtható kijelzõje alatt teljes, hüvelykujjal nyomogatható QWERTY billentyûzet található, melyet egy egérhelyettesítõ pozicionálóeszköz is megtámogat. Erre a billentyûzetre a kijelzõ igény szerint vissza is hajtható. A készülék lelke a VIA 1 GHz-es C7M alacsonyfogyasztású processzora, amely akár 4 gigabájtnyi rendszermemóriából is dolgozhat. A háttértár maximuma 60 gigabájtos mini, 1,3 hüvelykes merevlemez, vagy igény esetén 4 gigabájtnyi SSD, amelyeket a ma már igen nagy kapacitású változatokban is elérhetõ miniSD és microSD kártyákkal is kiegészíthetünk.
+
+
+ A kijelzõ négy hüvelyken tálal 800x480 képpontot, vagyis képppontsûrûsége hatalmas. Ezen az érintésérzékeny kijelzõn a Windows XP munkaasztala éppúgy megjelenhet, mint a Linux Qplus beépített operációs rendszer képernyõje -- az operációs rendszerek közül bootolás elõtt választhatunk is. A HDPC telefonmoduljának paramétereirõl eddig nem közölt a koreai gyártó részleteket, de szinte biztos, hogy nem marad ki belõle a szélessávú internetelérés lehetõsége, ezért a készülék piacoktól függõen akár HSDPA szabvány szerint is cserélhet majd adatot.
+
+
+
+A kapcsolatok Bluetooth 2.0 rádió segítségével, vagy 802.11 b/g vezeték nélküli adapter használatával egyaránt kiépíthetõk, vezetékes csatlakoztathatóságot két USB 2.0 kapu kínál. A helymeghatározás szerelmesei használhatják a minit navigációra is, a GPS-modul része az alapfelszereltségnek. A manapság oly népszerû fotó-geotagging (a JPEG képfájlok információkat tároló EXIF részébe beillesztett földrajzi koordináták) a hátoldali nagyfelbontású fényképezõgéppel intézhetõ.
+
+A sztereo hangszórókkal is ellátott, 163x67x24,5 milliméteres, 387 grammos HDPC akkumulátoros üzemideje a gyári adatok alapján 7 óra, de ez kisteljesítményû üzem esetén akár 90 órán át is tarthat. A legörvendetesebb hír, hogy a minden földi jóval ellátott, igazán hordozható gép júliusban 500 dollár körüli áron kerülhet a boltok polcaira Koreában. A sikeres szereplést követõen egy-két hónappal késõbb Európába is megérkezhet.

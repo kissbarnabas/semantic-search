@@ -1,0 +1,38 @@
+Piacon a Nehalem - világrekord teljesítmény, egyelõre csak kevesek számára
+
+A mai naptól nyilvánosan is hozzáférhetõek az Intel Nehalem chipek, elsõként az asztali számítógépekbe. A Core i7 néven piacra kerülõ processzorok a felsõ- és középkategóriába lépnek be, a teljesítményéhes felhasználókat célozva, az alsóbb szegmensekbe szánt változatok a termelés felfutásával párhuzamosan a következõ negyedévek során jelennek meg. A Nehalem tovább fokozza az Intel eddig is egyértelmû elõnyét, melyet többszálúsított és memóriaérzékeny kóddal képes leginkább megmutatni.
+
+
+
+Három modell, két világrekord
+
+A négymagos, magonként két utasításszálat futtató Nehalem háromféle asztali változatban debütál, melyeket lényegében az órajel, és természetesen az ár különböztet meg. A Core i7-965 képviseli a csúcsváltozatot, 3,2 gigahertzes névleges órajellel rendelkezik, ezért cserébe 999 dolláros nettó listaárat kér az Intel ezer darabos rendelés esetén -- ez Európában nagyjából 1000 eurós kiskereskedelmi árra fordul le jelenleg. A felsõkategóriás modell 2,93 gigahertzes órajellel és 562 dolláros listaárral rendelkezik (550-600 euro kiskereskedelmi ár), a középkategóriás változat órajele pedig 2,66 gigahertz, ezért 284 dollárt kér a gyártó (280-310 euro). Mindegyik modell 130 wattos TDP kerettel rendelkezik, 8 megabájt L3 cache-t és háromcsatornás DDR3-1066 memóriavezérlõt integrál a négy processzormag mellé. 
+
+ A Nehalem mikroarchitektúra a  Core továbbfejlesztésével született meg, és ismét bevezeti a Hyper-Threadinget. Leglényegesebb újítása azonban az új rendszerarchitektúra, mely szakít a korábbi buszrendszerrel, és integrált memóriavezérlõre, valamint alacsony késleltetésû, magas sávszélességet biztosító pont-pont összeköttetésekre (QPI) épül -- a topológia lényegében megegyezik az AMD 2003-ban bemutatott Direct Connect architektútárval. A csúcsváltozat extraként a mainstream változatokénál 33 százalékkal gyorsabb, 6,4 gigatranszfer/másodperc sebességû Quick Path Interconnect (QPI) linkkel rendelkezik a grafikus chipek, háttértár és egyéb perifériák felé, így a teljes sávszélesség 25,6 gigabájt/másodperc.
+
+[+]  Nehalem: minden részlet a helyére került
+
+A Nehalem az Intel állítása szerint új világrekordot állított fel az iparági szabványnak tekinthetõ SPEC CPU2006 tesztcsomagban. Az egész számokkal végzett többszálú mûveleti feldolgozóképességet vizsgáló SPECint_rate_base2006 tesztben 117 pontot ért el a chip, elsõként törve át a 100 pontos lélektani határt. A korábbi leggyorsabb Intel Core 2 Extreme QX9770 (3,2 gigahertz) 83,1 pontot ért el, vagyis a Nehalem átlagosan 40 százalékot gyorsult a 12 kódból felépülõ teszt alatt, melyek közt GCC compilerrel történõ fordítás, bzip2 tömörítés, kombinatorikai szimplex optimalizáció és H.264 videotömörítés is található. 
+
+ A lebegõpontos számításokban intenzív kódokat tartalmazó SPECfp_rate_base2006 tesztben 82,9 pontot ért el az i7-965, ez 60 százalékkal magasabb a QX9770 eredményénél. A SPEC CPU2006 kódok láthatóan nagyon fekszenek a Nehalemnek, az AMD-vel szembeni elõny bõdületes: a Core i7-965 önmagában nagyobb összesített teljesítményt mutat két 2,7 gigahertzes Shanghainál SPECint_rate_base2006 alatt (113), és mindössze 20 százalékkal maradt el a SPECfp_rate_base2006 esetében (105) -- becslésünk szerint. A jelentések egyelõre nem érhetõek el a SPEC (Standard Performance Evaluation Corporation) oldalán, így részletes elemzésükre még nem nyílik lehetõség.
+
+
+A Prohardver! méréseiben bár a Nehalem nem harcolt ki ekkora fölényt elõdjével szemben, a játékoktól megtisztított 23 százalék feletti sebességelõny így is meggyõzõ -- a tesztet számításintenzív tömörítõ, audio, grafikus és renderelõ kódok, vagyis tipikus munkaállomás-alkalmazások teszik ki. A Nehalem csak megfelelõen párhuzamosított, memóriaérzékeny kód esetén képes kivillantani erõsségeit, nem véletlenül készített az Intel egy ajánlott szoftverlistát a tesztelõknek -- ilyen kódok alatt egy középkategóriás, 2,66 gigahertzes Core i7-920-tól megkapjuk azt a teljesítményt, amit korábban egy ötször annyiba kerülõ Core 2 Extreme QX9770 nyújtott.  
+
+[+]  Az Intel visszaküldte az AMD-t az elõzõ évezredbe 
+
+A Prohardver! 21 mérésében átlagosan 56 százalékkal gyorsabb a legerõsebb Nehalem az AMD legsebesebb, 2,6 gigahertzes Phenomjánál -- a Nehalemnek kevésbé kedvezõ kódoknál is 30 százalékos a fölény, 3D-renderben 43-55 százalék -- egy teoretikus, 3,2 gigahertzes Phenom még mindig átlagosan 40 százalék feletti hátrányban volna. A i7-920 átlagosan 40 százalékos elõnnyel bír, tipikusan 25-50 százalékkal gyorsabb a Phenom X4 9950-nél, cserébe mintegy 100 dollárral többet kell az Intelnél kicsengetni érte.
+
+Kevesek játékszere
+
+Szintén generációs váltás elõtt áll az AMD, rövidesen megkezdi ugyanis 45 nanométeres asztali chipjeinek bevezetését. A Deneb legmagasabb órajele kezdetben 3 gigahertz lesz a HWSW bennfentes forrásai által megerõsített információk alapján, így a 15 százalékkal magasabb órajel és 6 megabájtra növelt L3 cache a fentihez hasonló alkalmazásokban tipikusan 15-30 százalékos teljesítménynövekedést eredményezhet becsléseink szerint. A versenyképessége javulása mellett az elõállítási költséget is lejjebb szorítja az AMD: a mintegy 15 százalékkal kisebb lapkaméret és az AMD 45 nanométeres eljárásának alacsonyabb területre vetített hibasûrûsége (defect density) miatt lényegesen magasabb kihozatal érhetõ el szilíciumszeletenként, mint a 65 nanométeres generáció esetében.
+
+[+]  Ígéretesnek tûnnek az AMD 45 nanométeres chipjei 
+
+Bár a Deneb jelentõsen javíthat az AMD helyzetén, a Nehalem egyértelmûen maga mögött tudja majd tartani a számításintenzív területeken, miközben az árérzékenyebb felhasználókért folytatott versenyben a rendkívül olcsón termelhetõ Core 2 családdal kell szembenéznie, melyekkel az Intel bármilyen árharcba képes lenne belemenni, amennyiben szükséges.
+
+ A felhasználók többsége számára ugyanakkor továbbra is a kétmagos chipek tûnnek ideális választásnak. A grafikailag limitált játékok, rosszul vagy egyáltalán nem párhuzamosított asztali alkalmazások (mint amilyenek a böngészõk és irodai szoftverek nagy része is) futtatása esetén a négymagos, Hyper-Threadinggel 8 szál párhuzamos végrehajtására képes Nehalem erõforrásai kihasználátlanok maradnak akkor is, ha éppen szükség volna nagy teljesítményre egy komplex táblázat vagy grafikus dokumentum kezelésekor.
+
+ Az Európában eladott asztali PC-k kevesebb mint 2 százalékát teszik ki a munkaállomások, becsli az IDC, míg a normál asztali PC-k több mint 80 százaléka 1000 dollár alatti árkategóriába tartozik, az 1000-1500 dollár közötti szegmens 15 százalékot sem hasít ki, az ennél drágább konfigurációk pedig az eladott gépek kevesebb mint 2 százalékát adják. Magyarországon ezek az arányok még gyengébbek, vagyis a Nehalem bár brutális teljesítményre képes, piaci szempontból jelenleg nagyobb a füstje, mint a lángja, a felhasználók többsége nem fogja megfizetni a magas árat, amit nemcsak a processzor, de az új alaplap és DDR3-memória is megemel.
+
+ Az i7-portfólió a következõ negyedévekben teljesedik ki olcsóbb négymagos, valamint késõbb kétmagos változatokkal, melyek már grafikus magot is tartalmaznak majd tokon belül -- eközben a DDR3-memória ára is meredeken csökken majd. Tekintve azonban a viszonylag nagy, 263 négyzetmilliméteres magméretet, az Intel várhatóan nem siet majd lenyomni az árat, a piac alsóbb részeit továbbra is Core 2 chipekkel szolgálja majd ki, míg bevetésre készen nem áll a 32 nanométeres csíkszélességû gyártástechnológia, ami 2009 második felére várható. A Nehalemre épülõ egy- és kétutas Xeonok érkezése (Nehalem-EP) március magasságában érkeznek a jelenleg ismert információk alapján.

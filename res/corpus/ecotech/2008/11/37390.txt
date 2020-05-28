@@ -1,0 +1,14 @@
+A Novell a többi linuxos cégnek farkasa
+
+A többi Linux-disztribúció felhasználóit vette célba a Novell, a vállalat új programja keretében olyan cégeket migrálna SUSE Linux Enterprise Serverre, amelyek jelenleg más Linux-változatot, elsõsorban Red Hatet vagy  Red Hat-alapú, közösségi fejlesztésû CentOS-t használnak. 
+
+
+
+Úgy látszik, a Novell megelégelte a Red Hat megkérdõjelezhetetlen dominanciáját a Linux-piacon és közvetlenül a riválisára támadt: közleményében a Red Hat és a CentOS disztribúciók felhasználóit emelte ki, mint potenciális célpontokat. A Novell szerint ezt a programot ügyféligény szülte, a cég közleményében az áll, egyre több vállalat szeretne más disztribúciókról SUSE Linuxra váltani, azonban nem rendelkezik a migrációhoz szükséges tapasztalattal és szakértelemmel.
+
+Az ajánlat keretében a Novell átvállalja az ügyfé meglevõ Linux-disztribúciójának támogatását két évre, ezalatt pedig SUSE Linux Enterprise Serverre cseréli le azt. A Novell terjeszti a biztonsági javításokat és egyéb javításokat és a Red Hat forráskódból elkészíti a bináris patcheket is, emellett garantálja a kompatibilitást, vagyis hogy az általa frissített, karbantartott és támogatott Red Hat Enterprise Linux és CentOS kompatibilis marad az "eredetivel", így az alkalmazásokat nem szükséges módosítani, testreszabni.
+
+
+ A Novell napi 24 órás telefonos támogatást is nyújt Red Hat Enterprise Linux 3-hoz, 4-hez és 5-höz, illetve a a Red Hat-alapú CenOS-hez ugyanazokkal a szolgáltatási szintekkel, amelyeket a saját SUSE Linux Enterprise Serverére vállal. A cég emellett létrehoz egy weboldalt, ahol a SUSE Linuxra történõ migrációt megkönnyítõ eszközöket és dokumentációkat tesz közzé, illetve igény szerint további szolgáltatásokat (pl. oktatás) is biztosít.
+
+A Novell támogatási és migrációs szolgáltatása ingyen rendelkezésére áll azoknak az ügyfeleknek akik szerverenként és évente 3750 dollárért megrendelik a SUSE Linux Enterprise Server kiemelt támogatási csomagját három évre. 

@@ -1,0 +1,22 @@
+A második félévben érkeznek az elsõ a Google Androidot futtató mobilok?
+
+[Techworld] Számos gyártó bemutatta az Androidot futtató készülékét, protopípusát a barcelonai Mobile World Congress 2008 rendezvényen, nem csak a kommunikációs lapkákat gyártó cégek, hanem kisebb, nevesincs vállalatok is. Közöttük olyan is volt, aki érintõképernyõs mobilba varázsolta a Google mobilplatformját. 
+
+
+
+Drasztikusan csökkenõ fejlesztési idõ
+
+A mûködõ prototípusok többségének a nagyobb gyártók, a Freescale, a  Marvell, az NEC, a Qualcomm, vagy a Texas Instruments standján szentelt nagyobb figyelmet a közönség. A gyártók többsége meglepõ kijelentésre ragadtattal el magát, szerintük akár már a második félében megjelenhetnek az elsõ androidos mobilok a piacon, jó fél évvel korábban, mint azt várták.
+
+A Texas Instruments két különbözõ készüléket állított ki, mely Androidot futtatott. Az egyik az egyetlen lapkából álló, Android számára fejlesztett alkalmazás processzor és rádióvezérlõ egységbõl készített OMAP850-en alapult, míg a másikban az OMAP3430 multimédiás processzor dolgozott, akár 720 soros, progresszív HDTV-adások feldolgozására is felkészítve -- utóbbi a felsõkategóriás mobilok lelke lehet.
+
+
+A Texas Instrument internetes mobileszközök termékmenedzsere, Ramesh Iyer szerint az Android drasztikusan lecsökkenti egy új telefon szoftverének fejlesztési idejét. Míg eddig tipikusan 14-18 hónap volt egy-egy új készülék szoftverének kifejlesztése -- ez tapasztalható is a szinte bétás szoftverekben --, az Androidos telefonok ennél sokkal kevesebb idõ alatt piacra dobható állapotba kerülhetnek.
+
+Érintõképernyõs telefon demója
+
+Széleskörû támogatás
+
+Az Android fejlesztését a Google által létrehozott Open Handset Alliance felügyeli. A szervezet egy nyílt szoftverinfrastruktúrát hozott létre, melyre egyszerûbb és gyorsabb az alkalmazások fejlesztése is. A Google-nél úgy vélik, a közös platform egyformán jó a mobilgyártóknak, a szolgáltatóknak, a fejlesztõknek és a felhasználóknak is.
+
+A vállalat több mint 33 céget állított a projekt mellé, a sorban telefongyártók (HTC, Samsung, Motorola, LG), szolgáltatók (T-Mobile, Sprint Nextel, NTT DoCoMo, Telefónica, Telecom Italia), illetve a mobil ökoszisztémában érdekelt egyéb cégek (eBay, Intel,Broadcom, Qualcomm, NVIDIA, Wind River) egyaránt megtalálhatók.

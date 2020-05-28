@@ -1,0 +1,11 @@
+Heteken belül itt a Firefox 3.5.1
+
+"Ennek a kiadásnak az a célja, hogy gyorsjavítást kínáljon azokra a lefagyásokra és más hibákra, melyek miatt majdnem el kellett halasztanunk a megjelenést" -- idézi a ComputerWorld a Mozilla egyik nyilvános fejlesztõi értekezletén elhangzottakat. Az információk szerint legalább három kritikus hibáról van szó, ezek közül az egyikre már a végleges Firefox 3.5 megjelenése elõtt egy héttel kész volt a javítás, a Mozillát azonban sürgette a határidõ: a fejlesztõk a második negyedévre ígérték a Firefox 3.5 megjelenését, a program ráadásul így is csak az utolsó pillanatban vált elérhetõvé.
+A három kritikus hibából legalább egy az elõdjénél jóval gyorsabb, TraceMonkey fantázianevû JavaScript-motort érinti -- ez az a komponens, melynek fejlesztése a leghosszabbra nyúlt, és mellyel kapcsolatosan komolyan felmerült belsõ körökben, hogy a hibák miatt végül kihagyják a végleges verzióból. Az efféle gyorsjavítások egyébként nem teljesen szokatlanok a Mozillától: a Firefox 3.0.1 nem egészen egy hónappal a Firefox 3.0 tavaly június 19-i debütálása után érkezett.
+
+A Firefox 3.5 tegnapelõtti megjelenését nem kísérte különösebb felhajtás, így bár a programot az elsõ másfél napban 6,5 milliószor töltötték le a Mozilla szervereirõl, nem tudta megismételni közvetlen elõdje sikerét: a Firefox 3.0 már az elsõ 24 órában túl volt a 8,3 millió letöltésen. A program letöltési számlálója jelenleg 7,5 milliónál tart, így van még rá esély, hogy a Firefox 3.5 népszerûsége a megjelenést követõ három napban megelõzi az Apple Safari 4-ét, melyet 11 millióan töltöttek le számítógépükre az elsõ 72 órában.
+A Firefox 3.5 Windows, Linux és Mac platformokra érhetõ el több mint 70 nyelven a Mozilla letöltési oldaláról. A 3.5.1-es verzó minden bizonnyal az eddigi gyakorlat szerint automatikus és manuális frissítésként is elérhetõ lesz a böngészõn belül.	     
+                  
+                  
+                  
+                   

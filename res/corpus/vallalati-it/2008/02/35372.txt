@@ -1,0 +1,12 @@
+Több mint egy hónapja kész a Vista SP1
+
+Vajon mire vár a Microsoft a Windows Vista SP1 kiadásával? A vállalat a tesztelõkhöz eljuttatott levelében beismerte, hogy a végleges változat bitrõl bitre megegyezik a január 7-én kiadott "RC Refresh 2" (6001.18000) verzióval, vagyis az "aranykód" már több mint egy hónapos. A Vista SP1 végleges változatának elkészültét február 4-én jelentette be a Microsoft, azonban letölteni csak március közepétõl lehet. "Azok, akik feltelepítették az SP1 RC Refresh 2-t, nem kell installálják a végleges változatot -- hiszen már meg is van" -- írta a tesztelõknek a Microsoft Windows Vista Beta Team.
+
+
+
+A csúszás egyik oka, hogy egyes hardvergyártók a driverek fejlesztésénél nem követték teljesen a Microsoft specifikációit, és a tesztek szerint ezért néhány eszközmeghajtó nem mûködik az SP1 telepítését követõen. A Microsoft ezért idõt hagyott a gyártóknak arra, hogy kijavítsák ezeket a drivereket. A másik magyarázat szerint csak azért márciusban lesz elérhetõ a Vista SP1, mert a Microsoft biztos akar lenni benne, hogy ha egy felhasználó beszerzi a Windows Vistát, akkor biztosan az SP1-gyel frissített változatot kapja, függetlenül attól hogy dobozos terméket választ, vagy géppel együtt veszi meg az operációs rendszert. Ahhoz viszont idõ kell, hogy az SP1-et tartalmazó Vista eljusson a boltokba és a PC-gyártókhoz.
+
+
+Mike Nash, a Microsoft Windows termékmenedzsment-csoport részérõl egy blogbejegyzésben leírja, a Windows Vista SP1 március közepén öt nyelven (angol, német, francia, spanyol, japán) lesz elérhetõ a Windows Update és a Microsoft Update szolgáltatáson keresztül. Ha a Windows Update  észleli, hogy a gépen "problémás" driver található, automatikusan nem ajánlja fel az SP1 telepítését, bár a felhasználó ilyenkor is letöltheti. A szervizcsomag április közepétõl érkezik meg minden felhasználóhoz az automatikus frissítési szolgáltatáson keresztül, bár a problémás meghajtóprogramot tartalmazó gépekre ilyenkor sem kerül fel az SP1.
+
+Amint a kérdéses driverekbõl lesz frissebb változat, és a felhasználók feltelepítik õket, a Windows Update egybõl engedélyezni fogja az SP1 automatikus letöltését és telepítését. A március közepe és április közepe közötti idõben a Microsoft az SP1 lokalizálásán is dolgozni fog, így az év negyedik hónapján a magyar nyelvû szervizcsomag is megérkezhet a felhasználókhoz.

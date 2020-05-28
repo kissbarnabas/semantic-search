@@ -1,0 +1,14 @@
+Bárki letöltheti a Microsoft virtualizációs köztesrétegét: itt a Hyper-V RC0
+
+A Microsoft megjelentette a Hyper-V virtualizációs köztesrétegének kiadásra jelölt változatát (Release Candidate), a legújabb elõzetes a végleges verzió összes funkciójával rendelkezik. 
+
+
+
+A Hyper-V a Microsoft mikrokerneles hypervisora, ami képes a szerver erõforrásainak (memória, processzor, stb.) megosztására, ezáltal lehetõvé téve több operációs rendszer párhuzamos futtatását egy szerveren. Az elõzõ béták csak a Windows Server 2008 részeként voltak elérhetõk, a most kiadott RC0 azonban önállóan is letölthetõ a Microsoft weboldaláról. A jelenlegi információk alapján úgy tûnik, a végleges verzió viszonylag hamar megjelenhet.
+
+A Hyper-V RC0  legfontosabb újdonságai közé tartozik, hogy Windows Server 2008, Windows Server 2003, Windows XP és Vista mellett már Windows Server 2003 SP2, Windows Vista SP1, Windows XP SP3, valamint SUSE Linux Enterprise Server 10 is futtatható rajta virtuális gépként. A gazdagépek terén is történt változás, a Windows Server 2008 x64 hivatalos megjelenésével a Hyper-V immár ezen is fut, ráadásul nem csak az angol, hanem a német és japán változaton is, legyen szó akár Standard, Enterprise vagy Datacenter kivitelrõl (Server Core telepítésen is használható).
+
+
+ Az RC0 verzió a Microsoft tájékoztatása szerint a korábbinál több hardverkonfigurációt támogat, emellett javítottak a teljesítményén és a robosztusságán. A végleges változat megjelenésével a Microsoft korábban csak annyit ígért, hogy a Windows Server 2008 hivatalos premierjét követõ 180 napon belül elérhetõ lesz a Hyper-V, ez azt jelenti, hogy legkésõbb augusztusban itt kell legyen.
+
+A Hyper-V kezdetben legfeljebb 16 processzormagot és 2 terabájt memóriát támogat, a futtatható virtuális gépek (vendégek) száma nincs korlátozva, azoknak csak a rendelkezésre álló erõforrások szabnak határt. Sajnos a Hyper-V funkcionalitását korábban már meg kellett kurtítani annak érdekében, hogy a kitûzött határidõre megjelenhessen, így a szoftver nem  képes a virtuális gépeket mûködés közben egyik fizikai szerverrõl a másikra mozgatni, nem lehet a mûködõ virtuális gépekhez "menet közben" további erõforrásokat hozzárendelni. A Hyper-V számûzött funkciói egy késõbbi változatban lesznek elérhetõk.

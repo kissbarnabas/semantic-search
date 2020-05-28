@@ -1,0 +1,23 @@
+Papírgyárat vett a Google
+
+A cím könnyen megtévesztõ lehet, sõt a Reuters és a Techcrunch is csak késõbb pontosította az információt, hogy miért is vásárolta fel az amerikai online óriás egy finn papírgyár telephelyét. A megoldás egyszerûen annyi, hogy a papírgyár veszteséges volt, csõdbe megy, a Google viszont szívesen telepítene adatközpontot az óriási hangárszerû épületekbe -- szép fricska a nyomtatott sajtónak.
+
+
+
+A XXI. század megszilárdulásának egyik biztos jele lehet az, amikor egy 1996-ban két egyetemista által alapított online szolgáltatásokkal foglalkozó vállalkozás, a XX. században még prosperáló ipar egy gigantikus telephelyét vásárolja fel, mivel a csomagolóanyagokat, papír és fa termékeket gyártó vállalat már évek óta veszteségesen üzemel és még a saját infrastruktúráját sem tudja fenntartani.
+
+
+Ez volt 
+
+
+A tegnapi napon a finn Stora Enso csoport bejelentette, hogy a Google megvásárolja a cég épületeit, illetve a "Summa Mill" telephely majdnem teljes egészét, ahol a múlt hónapig bezárólag papírgyártás folyt. Az ingatlanokért a Google 40 millió eurót fizet, melybõl a cég 15 milliót azonnal korábbi veszteségeinek ellentételezésére használhat fel.
+
+
+
+Az elsõ híradások értetlenkedve szemlélték, vajon milyen célja lehet a Google-nek egy ilyen ipari létesítménnyel, de azóta a Reuters is megerõsítette, hogy az épület némi átalakítás után szerverparkként, adatközpontként üzemel majd tovább. A Google egyébként is folyamatosan építi központjait világszerte, így önmagában egy újabb farm létesítése valójában nem nagy hírértékû. 
+
+Tavalyi információk szerint a Google-nek 15 jelentõsebb adatközpontja van az Egyesült Államokban, legalább öt Európában és továbbiak épülõben a világ más pontjain is. Tavaly Ausztriában például egy 185 hektáros területet vásárolt a cég, ahol zöldmezõs beruházásként épített egy újabb központot. Tudomásunk szerint Budapesten is biztosan van egy kisebb center, amit az is alátámaszt, hogy korábban a Google Jobs oldalakon fõvárosunkba kerestek szerverüzemeltetéshez több szakembert is.
+
+Ez lesz 
+
+A finn cég esete csupán a papírgyár és a szeverterem ellentét miatt hívta fel magára a figyelmet, habár a döntés nagyon is ésszerû. A Stora Enso epületei óriási hangárokból, nagyobb egybefüggõ és kisebb szeparált részekbõl állnak, ami ideális egy szerverfarm létesítéséhez is. Másrészt a papírgyártás is egy nagyon energiaigényes folyamat, ennek a  telepnek éves fogyasztása fénykorában 1000 gigawattóra volt évente, tehát a nagykapacitású elektromos hálózat is adott a helyszínen, így sem idõt sem pénzt nem kell ennek biztosítására fordítani.

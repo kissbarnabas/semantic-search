@@ -1,0 +1,12 @@
+Energiatakarékos kijelzõt fejleszt az OLPC mûszaki vezetõjének új cége
+
+A One Laptop Per Child mûszaki vezetõje Mary Lou Jepsen új vállalata olyan kijelzõk létrehozását tûzte ki célul, amelyek tizedannyit fogyasztanak a jelenlegi megoldásokhoz képest, ezzel látványosan megnövelik a noteszgépek akkumulátoros üzemidejét. Kiépítéstõl függõen egy notebook fogyasztásának harmadát is adhatja a kijelzõ, így energiahatékony megoldás alkalmazásával itt sokat lehet spórolni.  
+
+
+
+Jepsen cége, a Pixel Qi 2009 második felére tervezi az új, ultraalacsony teljesítményfelvételû megjelenítõ bemutatását, amelynek gyártásához sem új anyagokra, sem új technológiára nem lesz szükség -- ígéri weboldalán a társaság. Ugyanitt az is olvasható, hogy egy év múlva nem csak egy egyszerû technológiai demóval rukkol elõ a cég, hanem egy sorozatban gyártható megjelenítõvel.
+
+
+ Az OLPX XO notesz megjelenítõjének érdekessége, hogy kedvezõ fényviszonyok mellett háttérvilágítás nélkül is látható. A mérnökök most azon dolgoznak, hogy továbbdejlesszék ezt a kijelzõt úgy, hogy az még jobban olvasható legyen gyenge fényviszontok közepette is. A Pixel Qi emellett olyan e-papírt is készít, ami ugyanolyan fehér színû mint a valódi papír, de szöveg mellett színes képek és videók megjelenítésére is alkalmas.
+
+A Pixel Qi több notebookgyártóval és e-bookgyártóval együttmûködik. "Akár öt-tízszeresése is megnövelhetjük az akkumulátoros üzemidõt egy notebook esetében. Ez azt jelenti, hogy nem kell néhány óránként újratölteni az akkumulátort, hanem elég 20-40 óránként" -- mondta Jepsen.

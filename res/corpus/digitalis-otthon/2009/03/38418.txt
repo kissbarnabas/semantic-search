@@ -1,0 +1,12 @@
+Elkészült a Windows Home Server második frissítése
+
+A Microsoft elérhetõvé tette otthoni szervertermékének, a Windows Home Servernek második kiegészítõ-, javítócsomagját. A Windows Home Server (WHS) PowerPack 2 az új funkciók mellett a 2007-ben megjelent, médiafájlok megosztására specializálódott operációs rendszerben korábban felfedezett hibákat is javítja.
+
+
+
+Az új javítócsomag, melyet elsõként az MSDN-elõfizetõk tölthetnek le, elsõsorban a külsõ eszközök (Windows Media Extender) csatlakoztatását könnyíti meg, így ezek a berendezések (például az Xbox360 játékkonzol) mostantól könyvtárszinten érik el a Windows Home Serveren tárolt tartalmakat. A fejlesztõk ezzel együtt egyszerûsítették a kliensek csatlakoztatási folyamatát, illetve használhatóbbá, átláthatóbbá varázsolták a távoli elérés funkciót is.
+
+
+A WHS PowerPack 2 további újítása, hogy a rendszer mostantól támogatja az MPEG4-videók streamelését a Windows Media Connecten keresztül, a fájlok metaadatait (elõadó/közremûködõk, cím, mûfaj stb.) is kiolvassa, rendszerezi. Az operációs rendszer eddig kizárólag az AVI, MPEG-1, MPEG-2, WMV formátumokat ismerte, emellett a Microsoft által fejlesztett, kevéssé elterjedt DVR-MS (Microsoft Digital Video Recording) videókkal boldogult.
+
+A Windows Home Server elsõ javítócsomagja tavaly nyáron jelent meg. A PowerPack 1 nem elsõsorban az újdonságok miatt vált kritikus frissítéssé, hanem azért, mert a Microsoft ezzel a javítócsomaggal küszöbölte ki véglegesen azt a súlyos, adatvesztést okozó hibát, mely miatt az operációs rendszer teljes állománykezelési rendszerét újra kellett írni. A probléma súlyát jól érzékeltette, hogy a programozóknak több mint fél évükbe telt a javítás elkészítése.

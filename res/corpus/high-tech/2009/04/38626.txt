@@ -1,0 +1,8 @@
+Hardveres titkosítást alkalmaznak a Samsung új SSD-i
+
+Amerevlemezpiacon ma már szinte általánosnak számítanak azok a meghajtók, amelyek beépített hardveres titkosítást tartalmaznak a maximális biztonság érdekében -- a Seagate 2006 óta forgalmaz ilyen merevlemezeket. Az SSD-k terén most a Samsungnak jutott eszébe ezt bevezetni. "Az üzleti felhasználók mostantól egyszerre kapnak hatalmas teljesítményt és maximális biztonságot egyetlen meghajtóban" -- mondta Jim Elliott, a Samsung Semiconductor memóriatermékekért felelõs alelnöke.
+
+
+ A Samsung hardveres titkosítást tartalmazó SSD-i 1,8" és 2,5" kivitelben egyaránt elérhetõk, kapacitásuk 64, 128 vagy 256 gigabájt lehet. A FDE (Full Drive Encryption) technológia teljes egészében hardveres. A Samsung szerint nem jár teljesítményveszteséggel, ráadásul a lehetõ legbiztonságosabb, mivel a titkosításhoz használt kulcs a meghajtóban marad, nem kerül át az operációs rendszerbe vagy az alkalmazásokba.
+
+A Samsung hardveres titkosítást alkalmazó SSD-i elsõként a Dell üzleti noteszgépeiben érhetõk el, a Latitude  E4200, E4300, E6500 és E6400 modellek máris rendelhetõk ilyen meghajtókkal.

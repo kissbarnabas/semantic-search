@@ -1,0 +1,32 @@
+Saját x86-processzor felé kacsingat az NVIDIA
+
+Az x86-os processzorpiac felé kacsingat az NVIDIA. A vállalat egy pénzügyi elemzõk számára rendezett tegnapi konferencián elhintette annak lehetõségét, hogy grafikus maggal integrált CPU-val jelentkezik, amelyeket kisebb teljesítményû, olcsó eszközökbe, például netbookokba okostelefonokba vagy mobil internetterminálokba (MID) szán.
+
+
+
+Új piacok felé
+
+Mára teljesen nyilvánvalóvá vált, hogy az x86 az olyan mobil eszközök felé is terjeszkedik, amelyek szegmensében korábban az ARM architektúra volt az egyeduralkodó, lényegében errõl szól az Intel és a TSMC stratégiai megállapodása is. A félvezetõgyártási eljárások fejlõdésével lehetõvé válik apró, keveset fogyasztó x86-os processzorra épülõ integrált rendszerchipek elkészítése, amelyek elegendõen keveset fogyasztanak ahhoz, hogy akár mobil internetterminálokba vagy okostelefonokba is bekerüljenek. 
+
+A PC-k, notebookok és szerverek után ez egy új piac a PC-iparban érdekelt gyártók számára, ráadásul hatalmas. Míg asztali és hordozható PC-kbõl és x86-os szerverekbõl idén 257 millió darabot fognak eladni a Gartner szerint, mobiltelefonból több mint 1 milliárdot, de az x86-os chipek által belátható idõn belül megcélozható okostelefonokból is 200 millió fogyhat majd. Az ABI Research adatai szerint 2009-ben az eladott mobilok 17 százaléka lesz okostelefon, és részarányuk folyamatosan nõni fog. Egy másik piackutató, az iSuppli úgy látja, az okostelefon-piac növekedése 2013-ig még a legrosszabb esetben is 18 százalék lesz évi átlagban.
+
+Ez a lehetõség nem csak a terület ura, az Intel, de az NVIDIA számára is vonzó természetesen. Michael Hara, az NVIDIA befektetõi kapcsolatokért felelõs vezetõje sietett leszögezni, a vállalatnál még nem született döntés az x86-os processzorgyártásáról, és ha lesz is ilyen terméke a cégnek, két-három éven belül nem várható a megjelenése. Egyelõre arról sem született döntés, hogy a cég maga tervezné meg az x86-os processzort vagy licencelné azt. Derek Perez NVIDIA-szóvivõ szerint minden lehetõséget megvizsgálnak.
+
+A Tegra nyomában
+
+Az NVIDIA jelenleg is rendelkezik egy ARM processzormagot és GeForce videovezérlõt is tartalmazó integrált rendszerchippel (SoC, System on a Chip), a Tegrával, amely köré olyan mobil multimédiás eszközök építhetõk, amelyek számára nem jelent gondot a weboldalak megjelenítése, nagyfelbontású videók lejátszása, vagy a 3D grafika sem, mégis akár egy egész napon át mûködnek akkumulátorról. A barcelonai Mobile World Congress látogatói mûködés közben is láthatták a Tegrát, amint Google Androidot futtat.
+
+
+
+
+ "A Tegra [...] egy teljes számítógép egyetlen chipen, és a piacának legfontosabb elvárása hogy keveset fogyasszon, kicsi legyen és nagyon hatékony -- mondta a Morgan Stanley Technology Conference-en Michael Hara, majd hozzátette: "egy napon az x86-os piacon is érdemes lesz ezzel a megközelítéssel próbálkozni."
+
+Az NVIDIA számára a hosszú távú versenyképességhez különösen fontos lenne egy saját x86-chip. A PC-gyártás a platformokról szól, akár  munkaállomásokról, akár notebookokról, akár mobil eszközökrõl beszélünk és a jelentõs szereplõk közül az NVIDIA az egyetlen, amely nem rendelkezik saját platformmal. Az Intel maga kínál processzort, chipsetet és grafikus vezérlõt, akár integrálva is, az AMD az ATI felvásárlásával lépett erre az útra, de még a VIA-nak is van processzora, chipkészlete és videovezérlõje.
+
+Logikus lenne a VIA felvásárlása
+
+Meg nem erõsített iparági pletykák szerint az NVIDIA már korábban is próbálkozott saját x86-os mag kifejlesztésével, az ilyen irányú projektek azonban csúfos kudarcot vallottak. Logikus lépés lenne a kaliforniai cég részérõl a VIA Technologies felvásárlása, amely a Nano révén az Intel Atommal versenyképes, fejlett architektúrájú x86-os processzorral rendelkezik, és komoly kompetenciát halmozott fel energiahatékony chipek tervezésében.
+
+[+] 2009 várható bukásai: VIA Technologies
+
+A VIA jelenlegi piaci értéke félmilliárd dollár körül van, míg az NVIDIA-é 4,5 milliárd dollár, emellett a cég 1,2 milliárd dollár készpénztartalékkal is rendelkezik, így az akvizíció egy részvénycserés és készpénzes ügylet keretén belül lebonyolítható lenne. Az NVIDIA-nak nincsenenek adósságai sem, így hitelt is könnyedén kaphatna a VIA bekebelezéséhez.

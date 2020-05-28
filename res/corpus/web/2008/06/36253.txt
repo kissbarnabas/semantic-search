@@ -1,0 +1,12 @@
+Jövõ kedden érkezik a Firefox 3 végleges változata
+
+A Mozilla bejelentette, jövõ kedden érkezik a Firefox nyílt forrású böngészõ 3.0 verziójának végleges változata. A vállalat már régóta készül a premierre, amelyet egy Guinness-rekorddal szeretne emlékezetessé tenni: meg szeretnék dönteni a napi letöltések számát.
+
+
+
+Közben a böngészõbõl kénytelenek voltak kiadni egy harmadik kiadásra jelölt verziót (RC3) is, mivel az Apple Mac OS X legújabb frissítésébe egy olyan hiba került, amely bizonyos esetekben rendszerlefagyáshoz vezethet. Bár a problémás kód nem a Firefoxban van, hanem az operációs rendszerben, a Mozilla úgy határozott, hogy módosítja a Firefoxot annak érdekében, hogy ne okozhasson problémát. Egyúttal a fejlesztõk tájékoztatták az Apple-t is a hibáról.
+
+
+ A Firefox 3.0 RC3 letölthetõ a Mozilla weboldaláról, de a böngészõ a beépített frissítõrutinon keresztül is képes letölteni a legújabb verziót. Noha a vállalat a windowsos és linuxos Firefox 3-ból is adott ki RC3-as verziót, ezek semmiben sem különböznek az RC2-tõl, mivel a felfedezett hiba csak Mac OS X 10.5.3 operációs rendszeren fordulhat elõ. Mindazonáltal aki szeretné frissíteni a Firefoxát, innen letöltheti a legújabb verziót Windowsra, Linuxra és Mac OS X-re is.
+
+A Firefox 2.0 és a Firefox 3.0 megjelenése között majdnem 2 év telt el, de a feszített ütemterv miatt egyes új funkciók így sem kerültek be a böngészõbe, így még az õsszel várható a Firefox 3.1, amely a 3.0-ba tervezett, de végül kimaradt újdonságokat tartalmazza majd.

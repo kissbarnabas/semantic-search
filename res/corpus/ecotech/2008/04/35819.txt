@@ -1,0 +1,14 @@
+Sokkal naivabban bánnak jelszavaikkal a nõk, de a férfiak sem elég gyanakvóak
+
+Javulóban a felhasználók biztonságtudatossága, ám továbbra is súlyos problémák mutatkoznak, derül ki egy brit felmérésbõl. A kutatás arra is rávilágít, hogy bizonyos területeken a nõk látványosan naivabbak  a férfiaknál, míg más esetekben alig van különbség a nemek között.
+
+
+
+Az Infosecurity Europe 576 londoni irodai alkalmazottat vetett alá tesztnek, melynek célja a figyelem felkeltése volt az úgynevezett social engineering típusú támadásokkal kapcsolatban, vagyis mikor a bûnözõk emberektõl igyekeznek kicsalni kritikus információkat, melyekkel késõbb tovább operálhatnak. A felmérés célját elhallgató kérdezõbiztosok egy szelet csokoládét ajánlottak fel a kérdõív kitöltésért cserébe.
+
+A jelszavak kezelése különösen kritikus pontja a szervezetek informatikai rendszereinek védelmében. Dolánszky György, a Kürt  információbiztonsági szakértõje a HWSW-nek egy korábban adott interjúja során elmondta, hogy a jelszavak jelentik a cégek többségénél a legnagyobb biztonsági kockázatot, emberi és technikai oldalról egyaránt. Az Infosecurity emberi oldalt vizsgáló kutatásában egy szelet csokoládéért az alanyok 21 százaléka osztotta meg jelszavait -- ami még így is hatalmas javulást jelent az elõzõ évi lesújtó, 64 százalékos arányhoz viszonyítva. Különösen óvatlanok a nõk, akinek 45 százaléka cselekedett felelõtlenül, míg férfiaknál ez a mutató "mindössze" 10 százaléka.
+
+
+Nem segíti a biztonság fokozását az sem, hogy az emberek 31 százaléka egyetlen, újabb 31 százaléka kettõ, míg 16 százalékuk is csak három jelszót használ az összes rendszerhez, ráadásul 43 százalékuk sosem változtat rajtuk -- ellenpontként az Infosecurity talált olyan felhasználót is, aki 32 jelszóval bírt. További súlyosbító tényezõként a megkérdezettek fele válaszolt úgy, hogy ismeri egy vagy több kollégájuk jelszavát, sõt 58 százalékuk telefonon keresztül is megadná, ha a telefonáló azt állítaná, az informatikai részlegtõl hívja. 
+
+Jelszavaiknál is elõvigyázatlanabbul bánnak azonban érzékeny személyes adataikkal az emberek. A válaszadók 61 százaléka árulta el pontos születési dátumát, majd a kutatók szintén kicsalták telefonszámaikat, így egy névvel együtt késõbb már sokkal veszélyesebb social engineering támadásokat intézhetnek a bûnözõk, mint például banki adatok kicsalása. Ekkor ráadásul már a férfiak többségének tudatossága is odaveszett, és például 60 százalékuk osztotta meg kapcsolati adatait egy idegennel, míg a nõknek 62. Végsõ tanulságként az Infosecurity közölte, a megkérdezettek szinte megdöbbentek, hogy valójában a kutatás egy támadást szimulált, ugyanis sosem gondolták volna a jólszituált, elegánsan öltözött biztosokról, hogy bûnözõk -- ezúttal valóban nem voltak azok.

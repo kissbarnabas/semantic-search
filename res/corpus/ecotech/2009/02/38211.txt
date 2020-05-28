@@ -1,0 +1,14 @@
+Vegyes eredményekkel zárta idei elsõ negyedévét a Novell
+
+Vegyes eredményekkel zárta a januárban véget ért elsõ pénzügyi negyedévét a Novell. A vállalat forgalma az új licenceladások drámai visszaesése miatt csökkent, a cég nyeresége is apadt. A stratégiai területek közül a Linux és a rendszerfelügyelet területén tudott csak növekedést elérni a cég.
+
+
+
+A vállalat 215 millió dolláros forgalmat könyelhetett el az elsõ negyedévben, ez 7 százalékos visszaesés éves összevetésben. Az üzemi eredmény közel kétszeresére, 14 millió dollárra nõtt, a nettó profit pedig 11 millió dollárt tett ki, szemben a tavalyi év azonos idõszakában elkönyvelt 17 millió dollárral. A részvényenkénti eredmény 1 centtel felülmúlta az elemzõi várakozásokat, ami fõleg az árfolyamingadozás kedvezõ hatásának köszönhetõ, a bevétel azonban elmaradt a 229 millió dolláros prognózistól.
+
+
+ A Novell bevételének még mindig közel felét adó munkacsoport-termékek forgalma 9 százalékkal csökkent, a biztonsági szoftverek értékesítésébõl származó bevétel 8 százalékkal apadt, a rendszerfelügyeleti portfólió az akvizícióknak köszönhetõen 9 százalékkal duzzadt. A SUSE Linuxot is tartalmazó Open Platform Solutions termékcsoport forgalma éves szinten 24 százalékkal emelkedett, de még így is csak 17 százalékát adta a teljes bevételnek.
+
+A Novell forgalmából mindössze 28 millió dollárt tett ki az új licencek értékesítése, a fennmaradó rész szoftverkarbantartásból, elõfizetésekbõl és szolgáltatásokból származott. A jövõbeli kilátásokra nézve intõ jel, hogy az új licencértékesítés 30 százalékkal zuhant, a biztonsági szoftverek (azonosság- és hozzáféréskezelés) területén a visszaesés 50 százalékos volt. A cég a munkacsoport-szoftverek terén is apadó eladásokkal kell szembenézzen, a korábbi NetWare-felhasználókat képtelen az Open Enterprise Server felé terelni és a Groupwise is egyre marginalizálódik az Exchange és a Lotus árnyékában. Licenceladási szempontból a rendszerfelügyeleti portfólió volt az egyetlen növekedést produkáló terület, itt 15 százalék volt a bõvülés, bár az igaz, hogy egy évvel korábban ez a szegmens nagyon gyengén teljesített.
+
+A Novellnek minden lehetõsége megvan arra, hogy a recesszió nyertesei közé tartotton. Piaci elemzõk egybehangzó véleménye szerint a válság a nyílt forrású szoftverek, a hatékonyságot növelõ rendszerfelügyeleti termékek felé fogják terelni a vállalatokat, a biztonsági megoldásokra pedig folyamatosan költeni fognak a cégek, ugyanis ezt a területet még kedvezõtlen pénzügyi körülmények között sem lehet hanyagolni. Az  eredmények alapján azonban a Novell kizárólag linuxos területen tudja pénzre váltani ezt a lehetõséget, ami elsõsorban a Microsofttal 2006-ban kötött megállapodásnak köszönhetõ -- lényegében a Microsoft a SUSE Linux legnagyobb disztribútora. Kérdés, hogy a megállapodás 2012-ben esedékes lejárta után is marad-e a lendület.

@@ -1,0 +1,26 @@
+Nem az operációs rendszer, a böngészõ biztonságáért kell aggódnunk
+
+A Microsoft most ötödször adta ki féléves biztonsági helyzetjelentését, aminek tanúsága szerint a napvilágra került sebezhetõségek száma csökken, de továbbra is sok köztük a súlyos sérülékenység. A bûnözõk ma már nem az operációs rendszerek gyenge pontjait támadják, hanem a rajta futó szoftvereket, elsõsorban a böngészõket és azok beépülõ moduljait.
+
+
+
+A böngészõk pluginjeit támadják
+
+2008 elsõ felében iparágszerte több mint 2500 sérülékenységre derült fény (ezek közül néhány tucat köthetõ a Microsoft termékeihez), ez 2007 második feléhez képest 4 százalékos, 2007 elsõ felével összevetve pedig 19 százalékos csökkenés. Ugyanakkor -- derül ki a Microsoft jelentésébõl -- a sérülékenységek 48 százaléka súlyos besorolású a CVCC (Common Vulnerability Scoring System) alapján, ráadásul a sebezhetõségek több mint fele egyszerûen kihasználható.
+
+
+ Míg korábban az operációs rendszer volt a támadók elsõszámú célpontja, ma már egyértelmûen a böngészõ, illetve az ebbe beépülõ programok. A kiszivárgott sérülékenységeknek mindössze 9 százaléka volt operációs rendszerrel (Windows, Linux, OS X, UNIX-ok) kapcsolatos, a fennmaradó 91 százalékra alkalmazásokban bukkantak, leginkább böngészõkben, médialejátszókban, illetve dokumentumkezelõ szoftverekben. Ennek megfelelõen az exploitok sem az operációs rendszerek általában gyorsan javított sérülékenységeire készülnek leginkább, az adatok szerint az Apple QuickTime, a RealPlayer és a WinZIP hibái a támadók legkedveltebb célpontjai.
+
+A Microsoft Malicious Software Removal Tool által a számítógépekrõl eltávolított kártevõk száma 43 százalékkal nõtt fél év alatt -- derül ki a jelentésbõl. A legelterjedtebb kártevõk a trójai letöltõk és a "dropperek", amelyek kértékony kódokat csempésznek az áldozat gépére. A leggyakoribb kártevõk régióról régióra mások, összességében azonban kimondható, hogy a fejlettebb országokban a PC-k kisebb arányban fertõzöttek. A jelentés szerint a Vistát is kisebb arányban fertõzik meg mint a Windows XP-t, ami arra utal, az új operációs rendszerben bevezetet biztonsági intézkedések valóban hasznosak és jól mûködnek. 
+
+Potencianövelõt vegyenek!
+
+A hosztolt Microsoft Exchange levelezõszerverek átlagosan az e-mailek 90 százalékát törölték, mivel azok kéretlen reklámot tartalmaztak, a spamek aránya nem változott számottevõen 2007 második fele óta. A legtöbb spamben gyógyszereket (51%) reklámoztak, többségében potencianövelõ készítményeket (30%), azonban a hirdetések jelentõs részét valójában csalók terjesztették, akik eltûntek az áldozatok pénzével, vagy a megadott adatokat használták illetéktelenül. Emellett jellemzõek voltak még a részvényárfolyamok manipulálására szolgáló, vásárlása biztató levelek, illetve a fõiskolai, egyetemi diploma könnyû megszerzését ígérõ spamek is.
+
+A kiküldött spamek 2,5 százaléka tartalmazott phishing-oldalra mutató linket. A jelentés szerint az adathalász, azaz phishing weboldalak száma nem változott számottevõen 2007 második feléhez képest, a célpontok továbbra is jellemzõen a pénzintézetek ügyfelei közül kerülnek ki. Egyre inkább jellemzõ, hogy a phishing-támadásokat nem csak amerikai, hanem más országok (pl. Nagy-Britannia, India) bankjai ellen is indítanak -- a leginkább veszélyeztetett célpontok továbbra is az angol anyanyelvû felhasználók.
+
+Az e-mailekben érkezõ fenyegetések közül a legnépszerûbbek az olyan HTML formátumú levelek, amelyek megnyitáskor vagy elõnézetnél egy iFrame-ben kártékony kódot próbálnak meg a felhasználó gépére csempészni (HTML/iFrameRef). Az ilyen módszerre építõ támadások hétszer gyakoribbak voltak mint a második legelterjedtebb. Érdekesség, hogy a bûnözõk annak ellenére sokszor próbálkoznak ezzel, hogy az ilyen támadásokat kivédõ frissítés négy éve elérhetõ.
+
+A magyar helyzet
+
+Az országokat egyenként is vizsgáló jelentés szerint hazánkban 2008 elsõ felében 37 százalékkal nõtt a fertõzött számítógépek száma. A leggyakoribb fertõzések itt is trójai programok és dropperek számlájára írhatók, a leginkább elterjedtt Win32/Zlob, Win32/Vundo és Win32/Renos kártevõk világszerte széles körben fertõznek, ugyanakkor a Magyarországok ötödik legelterjedtebb kártevõ, a géphez távoli hozzáférést adó Win32/Oderoor már nincs a globális élmezõnyben. A Microsoft jelentése szerint hazánkban gyakoriak a kéretlen reklámokat megjelenítõ AdWare-ek is, az összes fertõzés közel 20 százalékát adják.

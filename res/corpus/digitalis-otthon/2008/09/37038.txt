@@ -1,0 +1,59 @@
+Kipróbáltuk: Fujitsu Siemens Amilo Mini netbook
+
+Rájár a rúd mostanában a Fujitsu Siemens Computersre. Úgy hírlik a német-japán multicég már nem húzza sokáig ebben a felállásban, a gyártó közben már Németországban sem számít piacvezetõnek, hazánkban pedig -- ha minden az eddigiek szerint alakul -- dobogós helyre sem állhat fel év végén a notebookpiacon. És most itt a cég elsõ netbookja, az Amilo Mini Ui 3520, ami a legtöbb konkurenséhez képest -- ki tudja miért -- alaposan elkésett. Egyik csapás a másik után.
+
+
+
+Ki korán kel...
+
+A netbookok mezõnyét tekintve a Fujitsu Siemens azok közé a gyártók közé tartozik, akik kivárásra játszottak: hadd bukjon a koncepcióval az Asus, az MSI, netán az Acer, teszteljék csak saját pénzükön õk a piacot. Csakhogy a koncepció egyáltalán nem bukott meg, éppen ellenkezõleg, a netbookokat viszik mint a cukrot, így a Fujitsu Siemensnek, mint alapvetõen konzumerorientált gyártónak nincs más választása, követnie kell a tajvaniakat.
+
+
+
+A cég éppen ezért kissé megkésve, az augusztusi IFA-n lebbentette csak fel a fátylat saját netbookjáról, az Amilo Minirõl (teljes típusjelzése Amilo Mini Ui 3520). Azt eddig is tudni lehetett a géprõl, hogy legtöbb konkurenséhez hasonlóan Atom-alapú megoldás lesz, 8,9 hüvelykes képátlójú kijelzõvel, ám itt szóba se jön a flash-meghajtó -- a gép kizárólag merevlemezzel kerül forgalomba, 1 gigabájt memóriával és Windows XP Home operációs rendszerrel.
+
+A netbook a magyar piacon csak valamikor október közepe-vége tájékán kerülhet forgalomba, egy elsõszériás példány azonban már szeptember végén eljutott a HWSW-hez, így meg tudtuk nézni, hogy a Fujitsu Siemens mivel igyekszik megnyerni a netbookokra áhítozó vásárlóközönséget. A hozzánk eljutott tesztverzió a cég szakemberének állítása szerint semmiben nem különbözik majd a végleges változattól, persze a magyar piacon forgalomba hozott gépek teljes magyar lokalizációt kapnak (a tesztgépnek angol kiosztású billentyûzete volt és angol nyelvû Windows XP futott rajta).
+
+Ipari dizájn
+
+Az biztos, hogy a Fujitsu Siemens netbookja markáns megjelenésével kitûnik majd a tömegbõl: az áruházak polcain egymás mellett sorakozó gépek közül ez lesz az egyik legfigyelemfelkeltõbb példány, más kérdés, hogy ezzel eléri-e a célját a gyártó, azaz végül az Amilo Mini landol-e a kosárban. Meggyõzõdésünk szerint a netbook-szegmens vásárlóit (legalábbis Magyarországon) többnyire egy dolog érdekli -- a fogyasztói ár --, úgyhogy ha sikerül jól beárazni a gépet, tulajdonképpen teljesen mellékes, milyen külsõt álmodnak meg neki a tervezõk.
+
+Azért elmondjuk, hogy az Amilo Mini a Fujitsu Siemens Amilo családjának új formatervét követi, amely állítólag hosszú évek gondos munkájával nyerte el jelenlegi állapotát. A dizájn alapvetõen a fehér-fekete színek kontrasztjára épül, emellett látványosan szakít a gömbölyded formákkal, helyette határozott ívek adják a fõ csapásirányt. Bár a nagyobb Amilo gépek fényes mûanyagborítást kapnak (melyre a Fujitsu Siemens valamiért különösen büszke), az Amilo Mininél ennek nyoma sincs, a fekete és fehér burkolati elemek legjobb esetben is átlagos minõségi látszatot keltõ mattfelületû mûanyagból készültek.
+
+
+
+A szögletes formaterv egyik kevésbé szerencsés velejárója, hogy a Fujitsu Siemens netbookja kifejezetten zömök látszatot kelt, pedig méreteit és tömegét tekintve alig különbözik az átlagtól. A gyártó a netbookok dizájnjánál szakít egy a konkurencia által elõszeretettel alkalmazott megoldással is: nevezetesen Amilo Mini kizárólag egy színben kerül forgalomba, a netbook fedlapjára azonban rá lehet pattintani egy többféle színben kapható, vagy akár teljesen átlátszó (fotóknak) fedõt, ami így valamelyest egyéniséget -- na meg persze további vaskosságot -- kölcsönözhet a gépnek.
+
+Keretbe foglalva
+
+Az Amilo Mini ugyan 8,9 hüvelykes kijelzõvel ellátott netbook, de a kávára ránézve nyilvánvaló, hogy nagyobb TFT-panel is elfért volna a gépben. A Fujitsu Siemens netbookjában egyébként ugyanaz az 1024x600 pixeles felbontású, 8,9 hüvelykes, mattfelületû panel található, mint az Acer Aspire One-ban, a káván ugyanakkor alul is és felül is 3-3 centiméter holttér található, ami rengeteg egy ekkora gépnél -- igaz, felül ott a webkamera, de annak messze nincs szüksége ennyi helyre. A kijelzõ egyébként csak nagyjából 130 fokos szögben hajtható hátra -- az akkumulátor és a hátsó borítás engedné tovább is, de a kiegyensúlyozás annyira szerencsétlen, hogy ölben tartva így is jó eséllyel felbillen a gép, ha nem tartjuk rajta a kezünket.
+
+
+
+A kijelzõ alatt található klaviatúra sem tölti ki a teljes rendelkezésre álló teret, ami itt sajnos egyértelmûen a használhatóság rovására megy: a gombok így túl kicsik, ráadásul a gombsor úgy rugózik a helyén, hogy ha rágógumival lenne odatapasztva, akkor is jobb gépelési komfortot kapnánk. A tapipad felépítése a HP 2133-ason és az Acer Aspire One-on található megoldáshoz hasonlít, azaz a gombok nem alulra, hanem az érintõmezõ két oldalára kerültek, így használatuk megszokást igényel.
+
+
+
+
+A gép a csatlakozókat és az interfészeket tekintve átlagosat nyújt, pontosabban van, amibõl az átlaghoz képest kevesebbet (csak két USB kapu található rajta), van amibõl többet (az Amilo Mini egyike azon kevés netbookoknak, amelyeken ExpressCard foglalatot is elhelyeztek). A gép oldalain és elõlapján a már említettek mellett VGA-kimenet, hangcsatlakozók, Ethernet-csatlakozó és memóriakártya-olvasó található, a szellõzõnyílás balra fújja ki a meleg levegõt, közvetlenül a baloldali tenyértámasz alatt.
+
+Csak Atommal és csak merevlemezzel
+
+Mint korábban említettük, a Fujitsu Siemens Amilo Mini az Intel 1,6 GHz-es Atom processzorára épülõ megoldás, mely az eddigi tapasztalatok alapján a lehetõ legjobb választás egy ilyen hordozható számítógépbe. A processzor mellé energiatakarékos lapkakészlet (i945GSE) és 1 gigabájt DDR2-667-es memória (ez a lapkakészlet korlátaiból adódóan csak 533 MHz-en jár) dukál az Amilo Miniben. A háttértár a Toshiba 60 gigabájtos, 1,8 hüvelykes merevlemeze, ami ugyan valamivel lassabb, mint a Wind-nél is alkalmazott 2,5 hüvelykes példány, cserébe viszont energiatakarékosabb is. A Fujitsu Siemens az Atheros 802.11a/g-kompatibilis WLAN-adapterét és egy Bluetooth-modult épített még netbookjába.
+
+
+A Fujitsu Siemens Amilo Mini alapvetõen hozza azt a teljesítményt, melyet az eddigi, Atom-alapú netbookoknál láthattunk, azaz a gép internetezésre, alapvetõ irodai munkára gond nélkül használható, továbbá korlátozottan multimédiás feladatokra is befogható. Így például a HD-videók megjelenítése sem okoz neki gondot, igaz, itt sok múlik a tényleges felbontáson és a kódoláson.
+
+
+
+A gépen külön funkciógombbal bekapcsolható egy, a processzor throttling-üzemmódját aktiváló szoftver, ami 800 MHz-ben korlátozza le a CPU órajelét, így a számítógép kissé tovább húzhatja akkumulátorról -- mi a próbák során nem mértünk jelentõs eltérést, nagyjából két és fél- három órán keresztül bírta az Amilo a gyárilag mellé csomagolt 31 wattórás akkumulátorral, azaz az Amilo Mini fogyasztása nagyságrendileg 10-13 watt között alakul átlagosan. A gép használat közben nem melegedett fel túlságosan, mondhatni a Fujitsu Siemens szokásához hûen inkább alulra sugározta ki a meleget, így ölbe véve nem a legkellemesebb a használata. Az Amilo Mini hûtése mindeközben halkan duruzsol, a folyamatosan járó ventilátor zaja egyáltalán nem zavaró.
+
+Jó, de versenyképes?
+
+Mindezekbõl látszik, hogy a Fujitsu Siemens Amilo Mini technikailag alapvetõen jól beleillik a netbookok mezõnyébe -- használata számunkra sem jelentett csalódást, amennyiben elvárásaink reálisak maradtak. Sajnos a Fujitsu Siemens netbookja ettõl függetlenül tökéletesen érdektelen marad: míg az eddigi konkurensek kivétel nélkül tudtak újat mutatni (az Asus volt a kategóriateremtõ, a Wind hozott elõször nagyobb kijelzõt és merevlemezt, az Aspire One-ba elõször került 3G-s modem és egyébként is, az Acer elképesztõ dömpinget kínál saját netbookjából), az Amilo Mini az új design ellenére szerintünk meglehetõsen jellegtelenre sikerült, ráadásul a megvalósításba is hiba csúszott itt-ott (csenevész klaviatúra, túl vaskos kijelzõkeret).
+
+Számunkra úgy tûnik, mintha a gyártó mindössze egy kötelezõ kört tudott volna le a termék piacra dobásával -- nem tudjuk eldönteni, hogy ez azért van így, mert a német-japán multi csak az EMEA-régió számára termel, vagy valami más, termékpolitikával kapcsolatos döntés húzódik a háttérben, mindenesetre kicsit sajnáljuk, hogy a Fujitsu Siemensnek ezúttal csak ennyire futotta. Szeretnénk, ha a gyártó következõ próbálkozása ennél jobban megdobogtatná a szívünket.
+
+A gép október második felében kerül forgalomba Magyarországon, 95 ezer forintos fogyasztói áron.
+
+A Fujitsu Siemens Amilo Mini netbookot a gyártó hazai képviseletétõl kaptuk kölcsön.

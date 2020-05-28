@@ -1,0 +1,22 @@
+A Cisco is felszállt a zöld vonatra
+
+A barcelonai Networkers konferencián a Cisco Systems fellebbentette a fátylat EnergyWise technológiájáról, amely lehetõvé teszi az IP-hálózatra csatlakoztatott összes eszköz áramfelvételének mérését, riportolását és csökkentését.
+
+
+
+Az IP-hálózatra csatlakozó összes eszközt képes felügyelni
+
+A hatékony energiagazdálkodás nem csak környezetvédelmi szempontok miatt fontos, hanem közvetlen költségcsökkentési lehetõség is. A hálózati berendezések vezetõ gyártójaként most a Cisco is felszállt a "zöld vonatra": a cég különleges helyzetben van, ugyanis az õ eszközei azok, amelyek irányítják a hálózati forgalmat, ennél fogva "mindent látnak" és mindenhová elérnek. Az EnergyWise alkalmas lehet arra, hogy összefogja a különféle berendezések fogyasztásával kapcsolatos információkat és az energiatakarékossági házirendeket.
+
+Az EnergyWise elsõként a Cisco Catalyst 2000-es és 3000-es sorozatú kapcsolóihoz lesz elérhetõ egy ingyenes szoftverfrissítésként, a nyáron pedig a Catalyst 4000-es, jövõre pedig a 6000-es termékcsaládhoz is megjelenik. Az EnergyWise alkalmazásprogramozási interfészei szabadon hozzáférhetõk bárki számára, így lényegében akármelyik cég fejleszthet kompatibilis megoldást, illetve felkészítheti saját, IP-hálózatra csatlakozó termékeit az EnergyWise támogatására. 
+
+Az energiatakarékos technológia lehetõvé teszi azoknak az eszközöknek a lekapcsolását vagy energiatakarékos üzemmódba állítását, amelyek közvetlenül az Ethernet-hálózaton kapják a mûködéshez szükséges áramot (Power over Ethernet, PoE). Késõbb, várhatóan 2009 nyarán meg fognak jelenni olyan kiegészítések, amelyekkel nem csak PoE-eszközök, hanem más berendezések, például szerverek, PC-k, nyomtatók vagy hálózati eszközök is kikapcsolhatók vagy energiatakarékos módba küldhetõk, ha éppen nincs rájuk szükség. 
+
+Iparági összefogás
+
+ Az EnergyWise önmagában persze nem elég ahhoz, hogy egy vállalat hatékonyan tudja csökkenteni energiafelhasználását, ehhez szükség van megfelelõ felügyeleti szoftverekre is. A Cisco több partnerrel is bejelentett együttmûködési megállapodást az EnergyWise támogatásáról, többek között a PC-s energiafelügyeleti megoldást fejlesztõ Verdiemmel, a hálózatfelügyeleti megoldásokban utazó Solarwindsszel, valamint a Scheider Electric-kel.
+
+
+Megfelelõ felügyeleti szoftverrel különféle házirendek határozhatók meg a fogyasztók "kordában tartására". Ha például a vállalatnak van IP-hálózathoz kapcsolódó kártyás beléptetõrendszere, az EnergyWise segítségével könnyen megoldható, hogy az irodákban csak akkor égjen a világítás, menjen a légkondícionáló és mûködjenek a vezeték nélküli hozzáférési pontok, ha tényleg van ott valaki -- egyébként pazarlás is lenne ezeket a berendezéseket mûködtetni.
+
+A Cisco emellett bejelentette a Richards-Zeta vállalat akvizícióját. A kaliforniai cég  olyan interfészt fejleszt, amelyen keresztül az EnergyWise képes összekapcsolódni az épületmenedzsment-megoldásokkal, és így felügyelni az olyan fogyasztókat is mint a légkondicionálók vagy a világítótestek.

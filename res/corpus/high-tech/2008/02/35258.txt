@@ -1,0 +1,22 @@
+Egymillió PlayStation 3 kutatja már az Alzheimer-kór ellenszerét
+
+A Sony Computer Entertainment bejelentette, hogy nem kevesebb mint egymillió PlayStation 3 játékkonzolt regisztráltak a Folding@Home egészségügyi kutatóprogram elosztott rendszerébe. A konzolok és az azon futó speciális program segítségével hatalmas számítási teljesítményhez jutott a projektet kezelõ Stanford Egyetem.
+
+
+
+Elosztott számítások
+
+A Folding@Home néven ismert projektben proteinek molekuláris szintû kialakulását, felépítését szimulálják elosztott számítások révén, hogy a tudósok jobban megérthessék viselkedésüket, hatásukat, és egyes kórok kialakulásának mikéntjét. A tudomány szerint bizonyos betegségek, például az az Alzheimer- vagy a Parkinson-kór, valószínûleg proteinek hibás kialakulásának és felhalmozódásának a következményei.
+
+A molekuláris szimuláció a számítástechnika mai fejlettségi szintjén hatalmas feladatnak bizonyul, és a hagyományos megközelítéssel, azaz még szuperszámítógépekkel is szinte képtelenség gyors elõrehaladást elérni. Még a legerõsebb konfigurációk is milliószor lassabbak, mint a valóság, azaz a testünkben végbemenõ folyamatok.
+
+
+Ezekre a megoldhatatlanul nagy feladatokra vetik be az elosztott projekteket, mikor a számításokat megfelelõen apró csomagokra szeletelik, amelyeket aztán a résztvevõ számítógépek ezrei, tízezrei tölthetnek le az internet segítségével, majd feldolgozás után visszaküldik az eredményeket. Ilyen projekt keretében folyik a proteinek vizsgálata is, amely Folding@Home néven fut, de hasonló tervezetbõl ma már több tucat mûködik, köztük a földönkívüli intelligencia meglétét kutató SETI@home is.
+
+
+
+PS3-on is
+
+A Sony tavaly március 22-én tette elérhetõvé azt a firmware-frissítést, mellyel elsõként csatlakozhattak a PlayStation 3 konzolok tulajdonosai a Folding@Home prokjekthez. Azóta átlagban 30 másodpercenként lépett be egy-egy újabb konzol a rendszerbe. Egy-egy PS3 konzol tíz nagyobb teljesítményû PC "erejével" ér fel, így egyes számításokat tizedannyi idõ alatt, évek helyett hetek alatt futtathatnak le a konzolok segítségével.
+
+A konzolok összesített számítási teljesítménye tavaly szeptemberben érte el az egy petaflopsos értéket, jelenleg pedig a Folding@Home teljes számítási teljesítményének háromnegyedét a játékkonzolok adják. Pillanatnyilag 23909 aktív PS3 processzor közel 600 teraflops számítási teljesítményt biztosít a projektek számára.

@@ -1,0 +1,24 @@
+IBM System x szervereket klónoz a Lenovo
+
+Két hónapja sincs, hogy a Lenovo belépett a munkaállomások piacára ThinkStation termékcsaládjával, mellyel a vállalati ügyfelek irányában kezdte meg termékkínálatának bõvítését. A kínai gyökerû szállító egy következõ lépésként a napokban jelentette be, hogy szervertechnológiát licencel az IBM-tõl, és az erre alapozó szerverek már idén a piacra kerülhetnek világszerte egyes országokban, az általános hozzáférhetõség jövõre tehetõ.
+
+
+
+System x klónozás
+
+
+A megállapodás értelmében a Lenovo hozzájut az IBM belépõkategóriás System x technológiájához, mely alapján saját torony- és rackformátumú gépeket fog gyártani és forgalmazni. A Lenovo az egyes, kiválasztott IBM System x rendszerekkel mûszakilag teljesen megegyezõ szervereket fog gyártani, árulta el a HWSW kérdésére Gottlieb István, a Lenovo Magyarország vezérigazgatója. Hozzátette, az IBM System x szerverek továbbra is az IBM gyártó- és logisztikai bázisán készülnek, ahogyan a Lenovo szerverei is saját forrásúak lesznek -- vagyis gyakorlatilag klónozásról beszélhetünk.
+
+
+A megállapodás nem terjed ki az IBM saját fejlesztésû, csúcskategóriás chipsetjeire, melyekkel akár 32-utas osztottmemóriás konfigurációk is építhetõek Xeonokkal, sem az IBM BladeCenterre. A Kék Óriás ugyanakkor finanszírozási és mûszaki szolgáltatásokkal fogja támogatni a Lenovo szervereladásait. A System x megoldásain alapuló, egy- és kétutas x86-os szerverekkel a Lenovo így Kínán kívül is megjelenik a szerverpiacon, ugyanakkor a terméktervek még nem ismertek, közölte Gottlieb.  A kínai gyökerekkel rendelkezõ, mára az Egyesült Államokban bejegyzett és vegyes amerikai-kínai vezetéssel bíró Lenovo Kínában teljes informatikai infrastruktúrát szállít, és nemcsak a legnagyobb PC-gyártóként, hanem a legnagyobb IT-vállalatként ismert.
+
+Az IBM név kell, nem a technológia
+
+A döntést, hogy saját megoldásaik helyett nyíltan az IBM technológiájának alkalmazása mellett döntöttek, a bizalom kérdése magyarázza. Az IBM veszteséges PC-részlegének átvételét követõen a Lenovo megtartotta nemcsak a ThinkPad, de az IBM nevet is az elsõ években, annak érdekében, hogy minimalizálja a bizalom- és piacvesztést. Ahogyan Gottlieb még tavaly fogalmazott, eleinte kellemetlen volt az ex-IBM-es csapatnak az új nevet magyarázni, az IBM termékekkel és névvel a hátuk mögött mára azonban a Lenovo nem jelent problémát -- így a cég nemrég el is hagyta az IBM megnevezést ThinkPad termékeibõl.
+
+
+A Lenovónak az IBM belépõkategóriás System x szervereinek technológiájára nem annak mûszaki értéke, esetleges felsõbbrendûsége miatt van szüksége -- az olcsó x86-os tömegszerverek között minimális technikai különbségek vannak hardveres szinten, melyek többnyire a tápellátás, hûtés és szervizelhetõség területeit érintik. A 4 évre szóló licencszerzõdéssel a Lenovo a szerverek területén is megszerezte magának az IBM név jelentette bizalmat, mellyel könnyebben szerezhet meg ügyfeleket, és bõvítheti partnerhálózatát.
+
+Az alsókategóriás x86-szerverek értékesítésére a Lenovo jelenlegi hálózata is megfelelõ, mondta el Gottlieb. "Azok a partnerek, akik az eddigi termékportfólió értékesítésében is jeleskedtek, azok alkalmasak arra, hogy x86-os szervereket is forgalmazzanak", megfelelõ továbbképzést követõen. Mint elmondta, az ügyfelek részérõl folyamatosan érzékelik az igényt, hogy a kliensek mellé szervereket is biztosítsanak, vagyis a piacon van kereslet Lenovo kiszolgálók iránt. A Lenovo szerverek érkezésének idejét Gottlieb nem tudta kommentálni.
+
+Nincs érdekkonfliktusAz ügylet természetesen az IBM számára is elõnyökkel szolgál. A vállalat ugyanis hagyományosan a nagyvállalati rendszerek szegmensében erõs, míg jelenléte a KKV-szektorban sokkal kisebb, azt a HP, Dell és sok kisebb név uralja. Richard Hume, az IBM moduláris rendszerekért felelõs egyik igazgatója a CMP Channel magazinnak elmondta, hogy vállalata kisebb szerverek piacán egyszámjegyû, és ez az a terület, melyet partnerhálózata révén a Lenovo eredményesen elérhet. "A szándék az, hogy az üzlet egy olyan részébe is beszálljunk, ahol jelenleg nem veszünk részt" -- fogalmazott a vezetõ.

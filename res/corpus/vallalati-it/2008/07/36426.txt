@@ -1,0 +1,16 @@
+Olcsó tárolókkal jelentkezett a Sun Microsystems
+
+Új merevlemezes tárolókkal jelentkezett a Sun Microsystems, a J-sorozatú diszkdobozok kimondottan azokat a felhasználási területeket célozzák, ahol a nagy kapacitás mellett a legalacsonyabb ár a legfontosabb szempont -- a Sun szerint az 1 gigabájtra vetített költség akár 1 dollár is lehet. 
+
+
+
+A tegnap bemutatott újdonságok közül a legkisebb a J4200-as modell, amely mindössze 48 SAS vagy SATA merevlemezt tartalmaz, a J4400 már 192 darabot, a J4500 csúcsváltozat pedig 480-at, ennek kapacitása akár 192 terabájt is lehet. A tárolók "szupersûrû" kialakításúak, még a J4500 is csak 16U magas. A termékek elnevezésében a J a JBOD-re (Just a Bunch of Disks) utal, vagyis ezek a tárolók nem RAID-tömbök, nem biztosítják a RAID-del elérhetõ adatbiztonságot és teljesítménynövekedést -- persze szoftveres RAID-re van lehetõség, illetve igény esetén kapható hozzájuk RAID-et támogató Host Adapter, amelyet szintén tegnap dobott piacra a Sun. 
+
+
+ A nagy kapacitás és az alacsony költség mellett az eszközök teljesítménye is kielégítõ, a már 7 ezer dollárért megvehetõ J4400 az SPC-1 tesztben a legjobb ár/teljesítmény aránnyal rendelkezõ tároló lett. A nagyobb megbízhatóság és rendelkezésre állás érdekében az összes új egység firmware-e üzem közben frissíthetõ és a legfontosabb alkatrészek (tápegységek, lemezek, I/O modulok, hûtõventilátorok) is melegen cserélhetõk.
+
+A Sun Storage J4500 diszkfiókja
+
+Az új belépõszintû tárolók mellett a Sun frissítette a Sun Fire X4500 tárolószerverét is. A Thumper kódnéven fejlesztett eszköz egy 48 merevlemezt és egy kétfoglalatos Opteron-alapú szervert egy 4U magas házban tartalmazó szerver. A Thumpert mostantól négymagos Opteronokkal lehet kapni, ennek megfelelõen a modellszáma X4540-re emelkedett (kódbeve pedig Thor). A Sun szerint az X4540 jól használható olyan környezetben, ahol nagy statikus adattömeget kell folyamatosan elérhetõvé tenni, például különféle digitális média-archívumokban, legyen szó akár filmekrõl, vagy akár tervrajzokról, orvosi felvételekrõl.
+
+A Sun Storage J4200 induló ára 3 ezer dollár, a J4400-at 7 ezer dollártól lehet hazavinni, a J4500-ért pedig legalább 33 ezer dollárt kell leszurkolni. A Sun Fire X4540 listaára 23 ezer dollár. Zsemlye Tamás, a Sun Microsystems Kft. tárolómegoldásokért felelõs üzletágának vezetõje szerint a hazai vevõk körében a J4200 lehet a legnépszerûbb modell. 

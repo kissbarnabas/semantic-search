@@ -1,0 +1,9 @@
+Magyarul is megtanult a HP Service Manager
+
+A HP Service Managernek már korábban is voltak eseti, ügyféligény        szerinti magyar nyelvû kezelõfelületei, ám a 7.10-es verzió az elsõ, amely "dobozos megoldásként" magyarul érkezik az ügyfélhez. A        szoftverben alkalmazott terminológia az ITIL v3-as verziójának magyar        nyelvû kiadásán alapul, ami a vállalat szerint megkönnyíti az ITIL folyamatleírások és a Service Manager közötti összhang megteremtését. Az ITIL v3 a       korábbi, v2-es verziójához képest is közel háromszor annyi folyamatot        tartalmaz, amelyek a HP Service Managerben így egyértelmûen megtalálhatók        immár magyarul is. 
+A HP tapasztalatai szerint a magyar nagyvállalatok közel egy        évtizede kezdtek az ügyfélszolgálatuk támogatására szoftveres megoldásokat        alkalmazni. "Az ügyfélszolgálati szoftverek bevezetésének egyik        legfontosabb célja az, hogy a vállalatok az ügyfélszolgálatokra beérkezõ        hibabejelentéseket egy csatornába tereljék, így az ügyfelektõl, vagy a        vállalat dolgozóitól érkezõ bejelentések teljes életciklusát nyomon tudják        követni" -- mondta Bukits Róbert, a HP        Magyarország szoftverüzletágának  vezetõje.
+A felhasználók ma már        nem csupán a hibabejelentések menedzselésére, illetve az IT-helpdeskek        támogatására alkalmazzák a szolgáltatásmenedzsment-megoldásokat, hanem banki, távközlési, illetve        közüzemi ügyfélszolgálatok folyamatainak szabályozására is egyre többen        veszik igénybe ezeket a szoftvereket. "A Service Manager immár akár        eszközbeszerzési igények kezelésére is alkalmazható, például az új        kollégáknak szükséges informatikai, irodai eszközök megrendelése is        könnyedén leadhatóvá, illetve nyomon követhetõvé válik" -- teszi hozzá        Bukits Róbert.	     
+                  
+                  
+                  
+                   

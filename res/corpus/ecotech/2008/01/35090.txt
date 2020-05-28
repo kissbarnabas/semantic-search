@@ -1,0 +1,12 @@
+Idén már a 2 gigabájt memóriával szerelt PC-k válnak tipikussá
+
+A Samsung Electronics pénzügyi jelentésébõl kiderül, hogy a DRAM-piacot az elmúlt év folyamán sújtó túltermeléssel megzuhant árak megtették hatásukat. Az IDC becslése szerint tavaly dinamikusan emelkedett az új számítógépekbe épített átlagos memóriakapacitás, és a piackutató idénre is további meredek emelkedést jósol az árszintnek, valamint a Windows Vista terjedésének köszönhetõen. A csatornákban felhalmozódott készletek miatt a Samsung az elsõ félévre továbbra is túlkínálatot jelez.
+
+
+
+A Vista megjelenése elõtt az új PC-ket átlagosan 1 gigabájtnál memóriával szállították, ez az új Windows piacra kerülését követõen 1,1 gigabájtra emelkedett az elsõ negyedévben, becsli az IDC, amit elsõsorban nem az új, memóriaéhes operációs rendszer, hanem a DDR2 árak éve eleji drámai zuhanása magyaráz. A Vista és DDR2-árak egyesült hatásaként a második negyedévre már 1,4 gigabájtra ugrott az új PC-k átlagos memóriamennyisége, majd az év végére már 1,6 gigabájtra emelkedett.
+
+Az IDC adatai alapján tavaly 259 millió PC talált gazdára világszerte, az átlagos memóriakapacitás pedig 68 százalékkal emelkedett 2006-hoz képest. A Samsung és a piackutató várakozásai alapján idén is kitart a lendület, bár némileg veszít erejébõl, ahogyan a Vista terjedése által gerjesztett keresletnövelõ hatás gyengül, valamint a gyártók reményei szerint az árazás is stabilizálódik. Idén kezdõdik meg a DDR3 memóriára történõ migráció is, ami szintén az árak emelkedésének irányába, a kapacitás növelése ellen hat. Az év egészére az IDC átlagosan 2 gigabájt kapacitást vár, vagyis az év második felében már 2 gigabájt felett lesz a jellemzõ memóriaméret. Az NPD adatai alapján az Egyesült Államok üzleteiben értékesített gépek többsége már tavaly decemberben 2 gigabájt vagy több memóriát alkalmazott.
+
+
+Idén 290 millió PC talál gazdára világszerte, véli az IDC, ami az elõzõ évihez hasonlóan 12 százalékos növekedést feltételez. A Samsung szerint a túlkínálat az idei elsõ fél év során is kitart, ami egybevág elemzõk korábbi várakozásaival. Ennek ellensúlyozására számos gyártó a következõ hónapokra idõzíti egyes gyártósorainak karbantartását, valamint igyekeznek a nyereségesebb szegmensek felé diverzifikálni termelésüket, mint a beágyazott grafikus, vagy fogyasztói elektronikába épített DRAM-ok. Szintén az árak stablilizálódása irányában hathat a DRAM-kapacitások egy részének NAND-termelésre terelése is, bár néhány szereplõ számára a flash piaci környezet sem sokkal kedvezõbb.

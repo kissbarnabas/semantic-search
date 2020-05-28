@@ -1,0 +1,18 @@
+Közel 60 millió forintos vérdíj a Conficker féreg írójáért
+
+Nem kevesebb mint 250 ezer dolláros, vagyis 58 millió forintnak megfelelõ vérdíjat tûzött ki a Microsoft a Conficker féregért felelõs bûnözõk fejére. Az F-Secure adatai alapján legalább 1,9 millió IP-címen találhatók fertõzött számítógépek, melyek száma valószínûleg 10 millió felett van -- Magyarországon is legalább tízezres nagyságrendben.
+
+
+
+A Microsoft októberben fedezte fel, hogy windowsos számítógépeken eddig ismeretlen kártevõk terjednek, melyek az operációs rendszeren futó Windows Server szolgáltatásban megtalálható biztonsági rést használják ki túlcsordulásos technikával, és leginkább belsõ hálózatokon okozhatnak kitöréseket -- a Conficker ráadásul már USB-s adathordozókon is terjed. Amennyiben egy féreg bejut a gépre, úgy átveheti az uralmat, manipulálva a jogosultságokat és a felhasználói fiókokat, egyúttal további fertõzéses támadásokat indít.
+
+A szoftvervállalat október 23-án rendkívüli javítást adott ki a sebezhetõség foltozásához, MS08-067 jelöléssel. A sebezhetõséget a Windows 2000, Windows XP és Windows Server 2003 esetében kritikusnak, a Vista és a Server 2008 szempontjából viszont közepesnek minõsítette a Microsoft. A biztonsági szakemberek akkor úgy értékelték a helyzetet, hogy bár a sebezhetõség kritikus, tömeges kitöréstõl nem kell tartani, ez egyébként nem is jellemzõ a modern számítógépes bûnözés korában, ahol a célzott, csendben végrehajtott akciók a tipikusak. A zero-day férgek kódja ráadásul nem volt alkalmas generális támadásokra, a támadónak ismernie kellett a pontos Windows-buildet és lokalizációt. 
+
+[+] Minden eddiginél több és súlyosabb szoftversebezhetõséget találtak tavaly  
+
+Az ezt követõ hetek csendesen teltek, a fertõzések elszigeteltnek tûntek, és jellemzõen az olyan országokban bukkantak fel, mint Kína. Az új év azonban váratlanul fordulatot hozott, és a Conficker, más néven Downadup robbanásszerû terjedésnek indult. Az F-Secure saját, a féreg kódjának elemzésére épült kalkulációja január második felére 9 millióra becsülte a fertõzött gépek számát, melyek nagyjából 1 millió IP-címen keresztül csatlakoztak az internetre.
+
+
+ Legújabb méréseiben a biztonsági cég kiterjesztette az elemzett IP-tartományt, és jelenleg 1,9 millió érintett IP-címet regisztrál, melyek átlagosan akár több tucat gépet is takarhatnak. A fertõzések több mint fele az olyan nagy, egyúttal magas arányú kalózkodással sújtott fejlõdõ országokban található, mint Kína, Brazília, Oroszország vagy India. A Conficker/Downadup pontos célja egyelõre nem világos.
+
+A fertõzés nagysága miatt a Microsoft úgy döntött, nem tolerálja a bûnözõk megmenekülését, ezért újra benyúlt a zsebébe, és 250 ezer dollárt tûzött ki a felelõsök fejére. Ekkora összeg sem garantálja azonban a sikert. A vállalat egyik hasonló akciója sikerrel járt ugyan, a Sasser féreg írójának beazonosításáért felajánlott összeget ki is fizették a redmondiak, három másik (Blaster, MyDoom, Sobig) esetben azonban sosem csípték nyakon az elkövetõt. A Sasser íróját 2005-ben egy év kilenc hónap felfüggesztett börtönre ítélték, amit a szakma elfogadhatatlanul erõtlennek tartott. Sven Jaschan börtön helyett végül állást kapott egy biztonsági cégtõl. 

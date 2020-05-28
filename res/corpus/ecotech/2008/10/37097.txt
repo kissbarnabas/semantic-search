@@ -1,0 +1,39 @@
+Amerikai kézbe kerülhet Európa egyetlen memóriagyártója
+
+Harmadik hete lebeg a piacon a hír, hogy a Micron felvásárlási tárgyalásokat folytat a Qimondával. A Handelsblatt német üzleti lap értesülései szerint a két memóriagyártó felsõvezetõi számos megbeszélést tartottak az elmúlt hetek során, a legújabb iparági információk szerint pedig már megegyezés is született, mindössze az ügylet formális bejelentése van hátra. A Qimonda ezzel a DRAM-ipart immár második éve sújtó mély recesszió elsõ áldozatává válhat.
+
+
+
+A hitelválság a memóriapiacra is begyûrûzik
+
+A pénzügyi világválság hatására eközben elapadnak a DRAM-gyártók tõkeforrásai, így a gyártási beruházások mértéke drámaian visszaesik, valamint komoly fizetõképességi problémái adódhatnak néhány szereplõnek -- értékeli a helyzetet az iSuppli piackutató. A készpénzhiány egészen 2009 elejéig is kitarthat, becsli a cég. A ProMOS, mely a világ nyolcadik DRAM-gyártója, ráadásként a napokban közölte, 10-15 százalékkal csökkenti termelését a megkezdett negyedik negyedévben, követve ezzel az Elpida, a PowerChip és Hynix hasonló lépéseit.
+
+Nagyjából három hete röppent fel az elsõ hír az American Technology Research egy elemzõjétõl, hogy az amerikai Micron vizsgálja a német Qimonda felvásárlásának lehetõségét. Ezt az értesülést számos forrás is megerõsítette, köztük a Handelsblatt német üzleti lap is.
+
+ A Digitimes friss piaci értesülésekre hivatkozva pénteken már azt írta, megköttetett az egyezség, és csak a hivatalos bejelentés várat magára. Amennyiben megtörténik a tranzakció, úgy a világ negyedik és ötödik DRAM-gyártója fúzionál, a kombinált vállalat pedig egybõl a Hynixszel rivalizálhat majd a második helyért. 
+
+A Micron valószínûleg régebbóta készült a német rivális megszerzésére, eddig azonban kivárásra játszott, nem véletlenül. A Qimonda ugyanis a több mint egy éve tartó DRAM-ipari recesszió legnagyobb vesztese, a cég piaci kapitalizációja tavaly júliusa óta több mint 94 százalékkal zuhant vissza: 2007 nyarán még 5,8 milliárd dollárt ért a vállalat, a múlt pénteki záróáron ugyanakkor mindössze 338,6 milliót. A Micron piaci értéke 3,38 milliárdot tesz ki, így a vételár egy részét, vagy akár egészét is kiegyenlítheti részvénycserével.
+
+
+Az Infineonból leválasztott Qimonda 2007 második negyedévében még könnyedén a harmadik legnagyobb DRAM-gyártó volt a világon, 13,5 százalékos részesedéssel, 2008 második három hónapjára azonban 8,9 százalékra és az ötödik helyre esett vissza, miután éves szinten DRAM-forgalmának 40 százaléka tûnt el.
+
+
+A DDR2-válság
+Miután a gyártók túlzott kapacitásbõvítései, és a Vista vártnál alacsonyabb keresletélénkítõ hatása miatt a DDR2-árak tavaly mintegy 85 százalékkal estek vissza, 2008-ra mindenki optimistán tekintett -- megfigyelõk azt hitték, hogy az ipar elérte mélypontját. Az év elsõ felét az árak hullámvasutazása jellemezte: stabilan felfelé indulni látszottak, röviddel ezután azonban ismét mélyrepülésbe kezdtek, majd kezdõdött az egész elölrõl. Az árak emelkedését elõrejelzõ kilátások ugyanis a termelés agresszív, kiszorító növelésére ösztönözték a nagy gyártókat, köztük élen a Samsunggal, miközben a felvásárlók elõrehozták beszerzéseiket.
+
+Mindez végül azt eredményezte, hogy a gyártók erõsen növekvõ szállításokra készültek fel, az aktuális kereslet azonban messze alulmúlta a várakozásokat, ahogyan a PC-gyártóknál és master disztribútoroknál hatalmas készletek halmozódtak fel -- a harmadik negyedévben a már így is nyomott szintrõl újabb zuhanórepülésbe kezdtek az árak. A DRAMeXchange üzletkötési adatai alapján az 1 gigabites DDR2 chipek árai már 1,2 dollár, vagyis több gyártó önköltségi szintje alá is beestek, miközben erre az idõszakra 2,5-3 dolláros árszintben reménykedett az ipar. Egy 2 gigabájtos DDR2-modul ma fele annyiba kerül mint egy évvel korábban, pedig az ipar azt hitte, annál már nincs lejjebb. Egy 2 gigabájtos DDR2 DIMM ára 2007 eleje óta nagyjából tizenötödére esett vissza.
+
+Bár a fellendülés idejével és mértékével kapcsolatban eltérnek a vélemények, abban mindenki egyetért, hogy végül elkerülhetetlen az árak emelkedése, ahogyan a gyártók egyszerûen kivéreznek és nem lesznek képesek további kapacitásbõvítéseket finanszírozni, vagy akár ki is hullanak a piacról -- a továbbra agresszívan terjeszkedõ, és az árakat szándékosan alacsonyan tartó Samsung Electronics célja éppen ez. Az iSuppli szerint legkésõbb 2009 második felére kezdõdik meg javulás, és lezárulhat végül az iparág eddigi történetének egyik legsúlyosabb válsága.
+
+
+
+ A vállalat az utolsó öt lezárt negyedévben, a DDR2-árak mélyrepülésének kezdetét követõen több mint 2,1 milliárd euró (2,85 milliárd dollár) veszteséget volt kénytelen elkönyvelni, az elmúlt három negyedévben pedig már összesen 423 millió euró készpénzt vesztett mûködésébõl fakadóan -- az eladási árak a készpénzkiadással járó változó költsége alá estek be. A vállalat készpénzállománya rövidtávú kötelezettségei alá csökkent. Rendkívül nehéz helyzetben vannak a memóriagyártók, a DRAM mellett ugyanis a NAND-piacot is recessziós állapotok jellemzik.
+
+Elõre a második helyre
+
+A amerikai lakásárak váratlan csökkenése miatt bedõlt jelzálogpiac problémáinak globális pénzügyi krízissé fajulásával a hitelforrások is megdrágultak, ahogyan a bizalmat vesztett bankok igyekeznek minimalizálni kockázataikat, így a Qimonda súlyos likviditási helyzetbe került, a versenyképességét  biztosító tõkeberuházások gyakorlatilag teljesen elapadtak. A Qimonda beolvasztásával a Micron ugyanakkor számos elõnyre szert tenne, leginkább méretgazdaságosságát növelné, ami különösen kritikus a jelenlegi piaci környezetben. A két vállalat ideális partnerek, ugyanis egymás közelében találhatóak üzemeik Tajvanon és az Egyesült Államokban egyaránt. A Qimonda üzemeinek konverziója a Micron által használt félvezetõgyártási eljárásokra mintegy 100 millió dollárt emésztene fel.
+
+Bár a Micron a németekénél sokkal erõsebb készpénzpozícióval bír, és a jelenlegi kíméletlen környezetben is képes pozitív mûködési cash-flow-t felmutatni, a DDR2-árak összeomlása elõl nem menekülhetett: az elmúlt öt negyedévet összesen 1,78 milliárd dolláros veszteséggel zárta. A Qimonda felvásárlásával megszerzett termelési és logisztikai bázissal, valamint szabadalmakkal a Micron egy Samsung-kaliberû szereplõvé válhat, véli az ügyletet elsõként megszellõztetõ American Technology Research. Amennyiben az összeolvadás sikeresen lezárul, úgy az iSuppli második negyedéves adatai alapján az új Micron a piac 19,8 százalékát birtokolná, megelõzve ezzel a 19,5 százalékos Hynixot, és a 15,4 százalékos Elpidát. A Samsunggal együtt a négy legnagyobb a piac 85 százalékát birtokolná.
+
+
+A DDR2-árak fojtogató nyomása elõl a gyártók kisebb geometriájú gyártási eljárások bevezetésével igyekeznek lélegzethez jutni. Jelenleg 60 nanométeres tartományban mozognak gyártók, és az év második felében indul meg az 50 nanométeres osztályú eljárások bevezetése. Az átállást a világpiac felét uraló két dél-koreai cég, a Samsung és a Hynix vezeti, elõbbi 68 nanométeres technológiája után az 56 nanométeres csíkszélességet alkalmazza, míg utóbbi 66-ról 54 nanométerre. Az Elpida és a PowerChip egy lépéssel hátrébb tartanak, és terveik szerint 65 nanométeres csíkszélességre állnak át idén.

@@ -1,0 +1,20 @@
+Üzleti intelligenciában erõsít a Microsoft
+
+A Microsoft a Seattle-ben zajló Business Intelligence konferenciáján elárult néhány részletet a 2010-ben érkezõ új SQL Serverrõl, amelyet egyelõre Kilimanjaro néven fejlesztenek. Ted Kummert, a Microsoft Data and Platform Storage Division vezetõje hangsúlyozta, a vállalat a jövõben egyre több üzletiintelligencia-funkciót épít az SQL Serverbe.
+
+
+
+Ió, ció, integráció
+
+A Kilimanjaro fejlesztésének egyik részeként a Project Gemini nevû kezdeményezés alatt a Microsoft olyan szolgáltatással vértezi fel az SQL Servert, amely lehetõvé teszi a szoros integrációt a Microsoft Office család tagjaival. Az Office-felhasználók közvetlenül a számukra már ismert felületen érhetik el az SQL Serverben tárolt adatokat, és az Office-ba épített képességek segítségével lényegében saját üzletiintelligencia-alkalmazásokat, egyfajta mash-upokat hozhatnak létre, amelyeket a SharePoint révén akár meg is oszthatnak egymással.
+
+Az Excel vitán felül a legszélesebb körben elterjedt táblázatkezelõ, ami az üzleti életben de facto szabvánnyá vált, egyben maga is egy üzletiintelligencia-eszköz. Kézenfekvõnek tûnik tehát, hogy ezt az Excelt az üzleti intelligencia front-endjeként használja a Microsoft. A Business Intelligence konferencián elhangzottak alapján azonban nem csak az Office-szal, hanem a Dynamics 2009 vállalatirányítási termékekkel is szorosan együttmûködhet majd a Gemini révén az új SQL Server. A Microsoft reményei szerint ez lesz a kulcselõnye az üzletiintelligencia-piacon.
+
+A Microsoft alig két hónapja adta ki az SQL Server 2008-at, amelybõl egyébként készül egy kimondottan üzletiintelligencia-feladatokra szánt változat is, Madison kódnéven. Ehhez a redmondi cég a DATallegro felvásárlásával megszerzett technológiákat fogja integrálni a szoftverbe. A 2010 elejére várt Madisonnal állítólag több száz csomópontos BI-clusterek építhetõk, akár petabájtos kapacitással. A Madisont több hardvergyártó partnerrel (pl. Dell, HP, Unisys, Bull, EMC) közösen viszi majd piacra.
+
+
+ Ted Kummert elmondta, a Microsoft továbbra is tartja magát ahhoz a tervhez, hogy az SQL Serverbõl 24-26 havonta jelenjen meg új változat. Ennek megfelelõen a Kilimanjaro nyilvános tesztváltozata nagyjából egy év múlva elérhetõ lesz, a végleges változat pedig legkorábban 2010-ben várható.
+
+Az Excel a legelterjedtebb BI-eszköz
+
+Az IDC 2007-es felmérése szerint az üzleti intelligencia szoftverek piaca 12,1 százalékkal 7 milliárd dollár fölé emelkedett. A piacvezetõ az azóta az SAP tulajdonába került Business Objects volt 14,2 százalékkal. A második helyen az SAS végzett 11,2 százalékkal, míg az IBM kezébe került Cognos 10,1 százalékot szerzett meg. A negyedik helyre a Hyperion felszippantásával az Oracle került 8 százalékkal, míg a Microsoft a sarkában loholt 7,9 százalékkal. Az IDC megjegyzi, hogy bár nem kalkulálja a cég BI-bevételei közé, máig az Excel a legelterjedtebb BI-eszköz a világon.

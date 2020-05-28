@@ -1,0 +1,23 @@
+Hamis PNA-kat foglalt le a VPOP
+
+Hamis, Demo Beta licenccel rendelkezõ iGO My Way szoftverrel szerelt készülékeket foglalt le a VPOP veszprémi és szolnoki üzletekben. Az razzia során olyan Bluepanther márkájú készülékekre bukkantak, melyek az eredeti helyett az iGO MyWay 2006 feltört változatait futtatták.
+
+
+
+Rossz útra tévedt 
+
+
+A HWSW információi szerint mind veszprémi, mind a szolnoki razziák már idén, az elmúlt 1-2 hétben zajlottak le kisebb, mobiltelefonokkal és GPS-készülékekkel foglalkozó kereskedésekben. Mindkét esetben az eredetivel megegyezõ hardverekre telepítették fel az iGo MyWay 2006 Demo Beta változatát, melyek egyébként teljesértékû szoftverváltozatok, azzal a kitétellel, hogy legálisan nem frissíthetõek, s kereskedelmi forgalomban nem kaphatóak, hiszen csupán bemutató jellegû használatra szánták õket. 
+
+Az igazi 
+
+Mivel egy PNA végfelhasználói árában a térképek és a szoftver licencdíja komoly részt tesz ki, ezért az illegális kópia használatával gyanúsan olcsón tudták értékesíteni a hamis eszközöket. Az elkövetõk annyira alaposak voltak, hogy még az szoftver indításakor megjelenõ animációt is kicserélték az eredeti Bluepanther "Logic Gear" feliratára, tehát a csalást csak a licencverziók listázásával lehet tetten érni, amit bárki megtehet a "Beállítások -- Névjegy" menüpontban. 
+
+Akit átvertek, megjárta
+
+Szendõfi Borbála, a Nav N Go sajtókapcsolati munkatársa a HWSW-nek elmondta, hogy arról nincs tudomásuk, hogy a csalók hogyan szereztek szoftver nélküli PNA készülékeket, melyekre az interneten is fellelhetõ tört változatot késõbb feltöltötték. Az akció eredetével kapcsolatban azt viszont megtudtuk, hogy a Nav N Go évek óta küzd a kalózkodás és a hamisítás ellen, s a cég jogi osztálya folyamatos kapcsolatban áll a VPOP-vel, és szükség esetén értesítik a hatóságot, akik a törvényeknek megfelelõen intézkednek, de erre a sérelmet szenvedett cégnek már nincs rálátása.
+
+
+Lapunk azon kérdésére, hogy mi történik azokkal a vásárlókkal, akik a csalás áldozatául esnek, Szendõfi azt nyilatkozta, hogy ugyan õket nem üldözi vagy bünteti senki, ugyanakkor számukra a terméktámogatás és a frissítés lehetõsége elúszott. A Nav N Go nem is rendelkezik olyan programmal, melynek keretében az illegális változatok kifehéríthetõek lennének, hanem inkább azt javasolják, hogy körültekintõ módon, megbízható forrásból vásároljanak, illetve vásárlás elõtt ellenõrizzék le a terméket.
+
+A fogyasztók számára Demo verziójú szoftver kereskedelmi forgalomban nem elérhetõ, az idõkorlátos felhasználásra biztosított licenc sem jellemzõ, de amennyiben a korlát lejárta után is mûködik a program, akkor szintén biztos, hogy tört változatról van szó. A PNA készülékeknél a licencszám felett a hardver márkája is fel van tüntetve, az iGO 8 PDA változata pedig csakis külön termékként, eredeti dobozban kapható. 

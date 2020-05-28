@@ -1,0 +1,13 @@
+Foltozatlan sebezhetõség a PowerPointban
+
+A PowerPoint sebezhetõségét kihasználó támadások terjedésére figyelmeztet a Microsoft. Az eddig foltozatlan sérülékenységet kihasználva támadók akár teljes irányítást szerezhetnek az áldozatok gépe felett. A népszerû prezentációkészítõ több változata is érintett, a 2007-es verzió nem, de az Office 2003-ban, Office XP-ben, az Office 2003-ban és az Office 2004 for Macben levõ igen.
+
+
+
+A Microsoft tájékoztatása szerint egyelõre kis számú célzott támadást észleltek csak. A Secunia dán biztonsági cég ettõl függetlenül a lehetõ legsúlyosabb besorolást adott a sérülékenységnek, feltehetõen a PowerPoint elterjedtsége miatt. Az egyelõre közelebbrõl meg nem határozott hiba lehetõvé teszi a támadók számára, hogy egy preparált PowerPoint-állomány megnyitásakor más memóriaterületeket is elérjenek. A felhasználónak tehát egy speciálisan módosított állományt kell megnyitia a gépén, például egy weboldalról letöltve vagy e-mail csatományból. 
+
+
+ A Microsoft hagyományosan minden hónap második keddjén teszi közzé hibajavításait a termékeihez. Áprilisban a "patch kedd" jövõ héten esedékes, egyelõre nem tudni, a redmondiak elkészülnek-e addigra a javítással. A cég biztonsági termékei, a OneCare Live és a Forefront szignatúráit azonban már frissítette a sérülékenységet kihasználó kártevõk lenyomataival, így ezek felhasználói elvben biztonságban vannak -- persze az ismeretlen forrásból származó fájlok megnyitása egyébként sem ajánlott. Az exploitok a VirusTotalon is megtalálhatók már.
+ 
+
+A márciusi patch kedden összesen három sebezhetõséget foltozott be a Microsoft, ugyanakkor az Excel akkorra már ismertté vált sérülékenységét nem javította ki. A biztonsági rés a támadók számára lehetõvé teszi, hogy preparált Excel-fájlokkal saját kódjukat juttassák be az áldozat számítógépére, innentõl pedig lényegében szabad számukra a vásár, adatokat lophatnak vagy törölhetnek, további kártevõket tölthetnek le, illetve a gépet más támadások indítására vagy spamküldésre használhatják.

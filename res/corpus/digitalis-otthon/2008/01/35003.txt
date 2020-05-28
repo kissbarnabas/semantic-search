@@ -1,0 +1,14 @@
+Érkezik a Google és az Ubuntu házasságából született gOS új verziója
+
+Alig két hónapja érkezett meg az Ubuntu Linux és a Google webes alkalmazások házasításából született Good OS, a jövõ heti Consumer Electronics Shown máris bemutatják a 2.0 verziót, amelynek fejlesztési kódneve Rocket.
+
+
+
+A gOS 1.0 meglepõen nagy népszerûségre tett szert, miután az Egyesült Államok nagyáruházaiban kapható ultraolcsó PC-k némelyike ezt futtatta. Az igen egyszerû, átlátható kezelõfelületre épülõ Linux-disztribúció legfontosabb tulajdonsága, hogy a Google webes alkalmazásaira épít, bár néhány elõre telepített szoftvert (pl. OpenOffice, Firefox, Skype, Thunderbird, Pidgin) is tartalmaz. A gOS elsõsorban akkor jöhet kapóra, ha egy végletesen egyszerû, ingyenes operációs rendszert keresünk például egy régebbi gép számára, amivel az tökéletesen mûködõ webes munkahellyé varázsolható.
+
+
+A gOS 1.0-hoz hasonlóan a 2.0 is az Ubuntu Linux 7.10-re épül, azonban a KDE vagy Gnome helyett a sokkal helytakarékosabb E17 kezelõfelületet tartalmazza. Felépítésébõl adódóan a gOS használatához élõ internetkapcsolat szükséges, ami azonban gyakran nem áll rendelkezésre -- gondoljunk csak az utazásra. Ezért a gOS 2.0-nak már része lesz a Google Gears, amelynek segítségével a webalkalmazásokat akkor is igénybe vehetjük, ha épp nem lógunk a neten -- a szinkronizáció az elsõ csatlakozáskor megtörténik.
+
+
+
+A különbségek persze nem merülnek ki ennyiben, a gOS 2.0 az elõdjénél több alkalmazást is tartalmaz, többek között egy böngészõben futó webkamera-szoftvert, amelyet kimondottan a gOS-hez fejlesztettek. Az újdonságok közé tartozik még a Google Reader, Talk és Finance integráció, valamint a Box.net révén az online adattárolás. A szuperolcsó számítógépeirõl ismert Everex a január 7-i premierrel egyidõben megkezdi a gOS 2.0-val telepített PC-i forgalmazását az USA legnagyobb kiskereskedelmi áruházláncában, a Wal-Martban, de az operációs rendszert bárki ingyen letöltheti és kipróbálhatja.

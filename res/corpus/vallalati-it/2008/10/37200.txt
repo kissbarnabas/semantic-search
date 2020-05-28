@@ -1,0 +1,17 @@
+Szerverekbe szánt SSD-vel jelentkezett az Intel
+
+Megkezdte szerverekbe és tárolórendszerekbe szánt SSD-inek szállítását az Intel. A vállalat még az augusztusi Intel Developer Forumon lebbentette fel a fátylat errõl a termékvonalról, ami mostantól vált elérhetõvé, természetesen nem a végfelhasználók, hanem a szervergyártók számára.
+
+
+
+Az egyelõre csak 32 gigabájtos kivitelben kapható X-25E Extreme SATA SSD nevében szinte minden fontos információ megtalálható a kivitelt illetõen: a pörgõ tányérok helyett flash memóriachipeket felvonultató meghajtó 2,5 hüvelykes SATA merevlemezek helyére építhetõ be. Az 50 nanométeres cskíszélességgel gyártott, single cell technológiával elõállított lapkákból felépülõ SSD másodpercenként 35 ezer I/O mûveletre képes az Intel szerint (4 kilobájtos blokkok véletlenszerû olvasása mellett), írási teljesítménye másodpercenként 3300 mûvelet (4 kilobájtos blokkok véletlenszerû írása).
+
+Tányérok helyett flash memóriachipek
+
+
+ Az Intel X-25E Extreme szekvenciális olvasási sebessége másodpercenként 250 megabájt, írási sebessége pedig 170 megabájt. Az olvasási késleltetés 75 mikromásodperc, ami mintegy negyvenszer kisebb egy 2,5 hüvelykes, percenként 15 ezret pörgõ merevlemezének. Az SSD-k nem csak sebesebbek a tányérokat pörgetõ meghajtóknál, hanem mozgó alkatrészek hiányában csendesebbek és kevesebbet is fogyasztanak. Az Intel X-25E terhelés alatt sem kér többet 2,4 wattnál, üresjáratban pedig beéri 0,4 wattal.
+
+
+[+] EMC: a mi flash-technológiánk más!
+
+A 32 gigabájtos Intel X-25E Extreme SATA SSD listaára 695 dollár. A gyártó tájékoztatása szerint a 64 gigabájtos verzió mintapéldányainak szállítása már megkezdõdött, a piaci bevezetése pedig 2009 elsõ negyedévében esedékes.

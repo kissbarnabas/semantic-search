@@ -1,0 +1,14 @@
+A Zebra Technologies bemutatta a világ elsõ mobil termáltrenszferes RFID-nyomtatóját
+
+Az újonnan bemutatott Zebra termáltranszferes nyomtatók kültéri használatra is alkalmasak, az RP4T pedig RFID-kompatibilis is. Az RP4T így teljessé teszi a Zebra RFID-nyomtatók palettáját, mivel a gyártó mostantól az eddigi asztali készülékek mellé hordozható változatot is kínál. 
+
+
+
+Nem csak a nyomtatók alkalmasak mobil használatra, de a szokásosnál strapabíróbb nyomtatványok is  készíthetõk velük. A Zebra termáltranszferes P4T és RP4T nyomtatói lehetõvé teszik keményebb alapanyagú vonalkódok és nyugták készítését, melyek ennek köszönhetõen hosszabb élettartammal rendelkeznek. A merevebb címkék különleges körülmények -- erõs napsugárzás, meleg, nedves vagy hideg éghajlat -- átvészelésére is megfelelõek. Az RFID-t támogató RP4T emellett teljesen kompatibilis az UHF EPC Gen 2 intelligens címkézési rendszerekkel, így egy modern, a termékek és tranzakciók nyomon követhetõségét fokozottan szem elõtt tartó rendszer építõköve lehet.
+
+RFID-kompatibilis változatban is kapható a P4T
+
+a P4T és RP4T készülékeket 8 megabájt flash és 16 megabájt SRAM memóriával szerelik fel, a 32 bites processzor és a beépített USB lehetõvé teszi a vezeték nélküli és a vezetékes technikák közötti választást. A WPA2 protokoll támogatásának köszönhetõen a vezeték nélküli átvitel biztonsága is javult.  A P4T és a RP4T egyaránt támogatja a passzív EPC 1-es és 2-es osztályú protokollokat is. 
+
+
+ Egy új tervezési megoldással egyszerûbbé vált az adatok és a papír betöltése is.Mivel az új készülékek kültéri címkézésnél is rugalmasan alkalmazhatók, ezért a gyártó meglátása szerint várhatóan az iparban, illetve a különbözõ gyártósoroknál lesz népszerû. A terepen, kiskereskedelemben, kormányzati szektorban dolgozók számára jelenthet még nagy elõnyt a hordozható technológia.

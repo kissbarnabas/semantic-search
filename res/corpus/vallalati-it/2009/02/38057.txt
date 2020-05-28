@@ -1,0 +1,16 @@
+Mostantól gyakorlatilag mindegyik okostelefonnal képes szinkronizálni a Google Sync
+
+Hétfõtõl az összes elterjedt okostelefon-platformmal együttmûködik a Google szinkronizáló szolgáltatása a Sync, miután a keresõcég kiadta a szoftver Windows Mobile-alapú telefonokkal, iPhone-okkal és SyncML protokollt használó készülékekkel (zömében symbianes Nokia mobilok) kompatibilis változatát. A Sync a Google Calendar eseményeit és a Gmail levelezõrendszer kapcsolatait szinkronizálja a mobiltelefon saját naptárával és névjegyzékével.
+
+
+
+A két szinkronizálási funkció ugyanakkor csak az iPhone-felhasználók és a Windows Mobile-t futtató okostelefonok tulajdonosai számára érhetõ el egyszerre, utóbbi esetében a Microsoft Exhange Activesync protokollt felhasználva mûködik a rendszer. A Gmail-kontaktokat és a naptárbejegyzéseket szinkronizáló Sync a fenti két platformnál push technológiát használ, azaz a webalapú szolgáltatásba vagy a telefon saját naptárába vagy névjegyzékébe felvitt változtatásokat gyakorlatilag azonnal átvezeti a szolgáltatás.
+
+
+
+
+A SyncML-alapú szinkronizálást alkalmazó készülékek (tipikusan ilyenek az S60-alapú Nokia mobilok) esetében jelenleg csak a Gmail névjegyzék szinkronizálása mûködik, egyelõre nem tudni, hogy a naptárbejegyzések átvitele mikor lesz támogatott. A SyncML-alapú rendszereknél ráadásul a felhasználónak magának kell kezdeményeznie a szinkronizálási folyamatot.
+
+A Google Sync szolgáltatás konfigurálása bármelyik, fentebb említett platformhoz tartozó mobiltelefonról elvégezhetõ, a szolgáltatás bekapcsolásához szükséges lépések azonban eltérõek lehetnek. A Google egyben felhívja a figyelmet, hogy a szolgáltatás jelenleg bétaállapotú (leszámítva a BlackBerry okostelefonokkal együttmûködõ komponensét, melyet tavaly mutattak be), elsõ használatakor pedig a mobiltelefonon lévõ összes névjegyet és naptárbejegyzést lecseréli a webes adatbázisban található információkra, így a kipróbálás elõtt erõsen ajánlott teljes rendszermentést végezni a telefonon.
+
+A keresõcég Sync szinkronizáló szolgáltatása az m.google.com/sync weboldalról érhetõ el az okostelefonok beépített böngészõit használva.

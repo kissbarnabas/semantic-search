@@ -1,0 +1,18 @@
+A tárolópiacot is fékezi a válság
+
+A negyedik negyedévben 7,3 milliárd dollárt tett ki a merevlemezes tárolópiac, ami 5,9 százalékos visszaesés 2007 azonos idõszakához képest -- adta hírül az IDC piackutató vállalat. A csökkenés oka a szerverpiac összeomlása, a külsõ tárolók még tartják magukat, itt 0,5 százalékkal 5,3 milliárd dollárra esett a forgalom. A leszállított diszkkapacitás eközben 27,3 százalékkal nõtt egy év alatt és megközelítette a 2500 petabájtot.
+
+
+
+Korábban úgy tûnt, a tárolópiac egyike lesz azoknak, amelyeket egyáltalán nem érint a recesszió, mivel a vállalatok és szervezetek mind több és több adatot hoznak létre és tárolnak. Az IDC beszámolója szerint az egyes szegmensek külön-külön mozogtak, a csúcskategóriában a vevõk lényegében felhagytak a vásárlással, de a közép- és belépõkategóriában élénk volt az érdeklõdés.
+
+
+ A hálózati tárolók (NAS és SAN) forgalma összességében 3,6 százalékal 4,1 milliárd dollár fölé növekedett, a terület korlátlan ura az EMC 28,6 százalékos részesedéssel, a második IBM már csak 14,5 százalékos piacrészt tudott megkaparintani. A SAN-piac 2,2 százalékkal nõtt egy év alatt, itt is az EMC vezet 24,2 százalékkal a 16,5 százalékos IBM elõtt. A NAS-szegmens forgalma 8,6 százalékkal emelkedett egy év alatt, az EMC 43,8 százalékos részesedését a második helyezett NetApp 24,1 százalékkal követte. 
+
+
+[+] Összesett a szerverpiac a negyedik negyedévben
+
+Továbbra is lendületesen bõvül az iSCSI SAN-piac, az IDC 61,6 százalékos növekedést mért 2007 negyedik negyedévével összevetve. Ennek a szegmensnek a vezetõje a Dell, amely 35,3 százalékos részesedését az EqualLogic 2007 végi felvásárlásának köszönheti. Az FC SAN-szegmens 3,2 százalékos csökkenést szenvedett el, ahogy a méregdrága berendezések vásárlói a recesszió közepette az olcsóbb, költséghatékonyabb eszklözök felé fordultak. A "pénz nem számít" kategórián kívül egyre nagyobb teret nyernek az iSCSI SAN eszközök, amelyek folyamatosan fejlõdnek, és a vásárlók is egyre inkább bíznak bennük.
+
+
+A külsõ tárolók szegmensében az EMC megtartotta piacvezetõ pozícióját, a cég bevételarányos részesedése 23,3 százalék volt a negyedik negyedévben. A második helyen álló IBM jelentõsen visszacsúszott, 2007 végén még az eladások 17,7 százalékát adta, ez 15,7 százalékra olvadt. A harmadik helyen álló HP bevételarányos részesedése 12,2 százalékról 13 százalékra duzzadt. A legnagyobb növekedést (szokás szerint) a Dell érte el, a cég 10 százalékkal tudta növelni merevlemezes tárolókból származó forgalmát, ezzel részesedése 9,3 százalékra emelkedett. Az ötödik helyet a Hitachi (7,8%), a hatodikat a NetApp (7,0%) szerezte meg, a Sunnak be kellett érnie a hetedik hellyel és 5,2 százalékos részesedéssel, amihez 10 százalékos forgalomcsökkenés is társult.

@@ -1,0 +1,14 @@
+Olcsó blade rendszert dob piacra az Intel
+
+Blade szerver platformot mutatott be az Intel, mely nyílt iparági specifikációknak megfelelõ. A vállalat célja ezzel az, hogy a hagyományos formátumokhoz hasonlóan sztenderdizálja a blade kivitelû szerverek szegmensét is, melyet jelenleg a HP és az IBM dominál sajátfejlesztésû, zárt megoldásaikkal. A lépés elsõsorban a kisebb szerverszállítók és rendszerintegrátorok számára kínál lehetõséget, hogy blade megoldásokkal jelenjenek meg a piacon.
+
+
+
+Az Intel saját, egy-, két vagy négyutas szerverplatformjai mára gyakorlatilag teljesen közönségessé tették az inteles x86-os torony- és rackszerverek piacát, így gyakorlatilag bárki összeállíthat magának a meghatározó szerverszállítók gépeivel hardvertechnikailag közel egyenértékû konfigurációt a piacon hozzáférhetõ alkatrészekbõl -- a vállalatok ma már elsõsorban nem ezen a szinten különböztetik meg magukat, és próbálnak hozzáadott értéket kínálni, sokkal inkább döntõ a menedzselhetõség,  megoldásszállítás, és technikai támogatás.
+
+Ugyanerre az útra kívánja ráterelni a blade rendszereket is a chipgyártó óriás. A különbözõ szállítók (HP, IBM, Dell, Sun, Fujitsu Siemens) blade keretei és gépei ugyanis fizikailag inkompatibilisek egymással, ami azt eredményezi, hogy az ügyfél egy keretet csak adott gyártó szervereivel bõvíthet tovább, ami erõteljesen tompítja a versenyt. Igaz, a többi szervernél a kizárólag saját gépeiket támogató menedzsment felületen keresztül igyekeznek a cégek riválisaikat nehéz helyzetbe hozni.
+
+
+Az Intel Clear Bay platform egy 6U magas blade keretet alkalmaz, mely 6 darab kétutas, szintén közönséges elemekbõl felépülõ blade szervert képes fogadni, akár négymagos Xeon processzorokkal, vagyis egy keret akár 48 processzormaggal is populálható, 192 gigabájt memória társaságában. A keret 14 darab 2,5 hüvelykes SAS merevlemezt, két tárolóvezérlõ és egy menedzsment modult, valamint két gigabites Ethernet switchet képes támogatni. A menedzsment technológia virtuális tároló feltérképezést, integrált SAN-t is támogat többek között. 
+
+Az Intel célja az, hogy letörje a blade rendszerek magasabb bekerülési árát, így a Clear Bay kódnevû platformot kifejezetten olcsó megoldásként igyekszik a piacon pozicionálni. Az árazás egyelõre nem publikus,  egyelõre Észak-Amerikában fut egy promóció viszonteladók számára, melyek mindössze 1000 dollárért hozzáférhetnek egy alapfelszereltségû kerethez, valamint egy barebone blade modulhoz. Egy viszonteladó oldalán A Modular Server System néven futó rendszerrõl tovább részletek az Intel oldalán itt olvashatóak.

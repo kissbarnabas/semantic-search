@@ -1,0 +1,27 @@
+Kényelmes weboldaltesztelés fejlesztõknek
+
+1001 böngészõ meséi
+
+Ugyan a versenyhivatalok a Microsoft Internet Explorer dominanciájáról tárgyalnak folyamatosan, s a Firefox, Safari, illetve a Chrome böngészõket leszámítva szinte kuriózumnak számít, ha valaki másféle böngészõt használ, mégis viszonylag színes a paletta. Windows alatt az Internet Explorer 8, 7, 6, illetve 5.5, a Firefox 1.5, 2.0, 3.0,  vagy az Opera, Safari, Seamonkey, Chrome, Flock különbözõ verzióinál érdemes a webmestereknek meggyõzõdni a helyes megjelenésrõl. Linux, illetve BSD rendszereknél pedig szintén hasonló számú variáció érdemel kiemelt figyelmet.
+
+A manuális megoldás, miszerint valaki feltelepíti az összes operációs rendszert és böngészõt, biztosan nem célravezetõ, fõleg ha figyelembe veszi valaki azt, hogy különbözõ felbontásokat is figyelni kellene, illetve akár azt is, hogy a JavaScript engedélyezve van-e vagy sem. Az Adobe erre a problémakörre mutatott be egy professzionális megoldást, ahol a webcím megadása után a rendszer minden kiválasztott változatban készít egy képernyõmentést, melyeket utána egyszerûen át lehet futni, hogy minden rendben van-e. 
+
+
+ 
+
+
+Azonnali összehasonlítás
+
+Az Adobe  BrowserLab szolgáltatás alapjaként a szinte azonnal elkészülõ képernyõmentések szolgáltnak, ezen felül viszont a képek összevetésére is számtalan lehetõség nyílik, kezdve az egyszerû listázástól a félig áttetszõ réteges összehasonlításig. Az Adobe nem meglepõ módon a funkciót nem egy kósza darabnak szánja, hanem teljes Dreamweaver CS4 integrációt is fejlesztett, így kedvezve azoknak a webfejlesztõknek, akik õket választották.
+
+A választható böngészõk száma viszont egyelõre kicsi: Firefox 2/3 (Windows XP, OS X), IE 6/7 (Windows XP), illetve Safari 3 (OS X), de ez várhatóan a jövõben bõvülni fog. A szolgáltatást bárki egyszerûen kipróbálhatja, mindössze egy Adobe.com regisztrációra van szükség. Aki az ingyen játékszernél komolyabb funkcionalitást szeretne, annak rendelkeznie kell a Dreamweaver CS4 licenccel is, ahol összehasonlítható például a szerkesztett helyi tartalom és az éles is.
+
+
+ 
+
+
+Gazdagabb alternatív
+
+Ugyanerre a tematikára már létezett korábban is megoldás, mégpedig a BrowserShots nevû szolgáltatás, ami jóval kiforrottabb, de a háttérszolgáltatásokban gyengélkedik. Összesen 20 különbözõ böngészõ  92 verzióját ismeri, a felbontást 640 pixel szélességtõl 1680-ig lehet állítani, illetve a Java, JavaScript és Flash meglétét és azok verzióit is ki lehet választani. 
+
+A képek megszületése és feltöltése viszont akár egy órán keresztül is eltarthat, illetve limitált a lekérdezések száma, bár havi díjért cserébe jár prioritás a feldolgozásban, illetve a regisztált felhasználók akár több lekérdezést is indíthatnak. Az összehasonlítás viszont már újra manuális feladat, ami miatt a tesztelés továbbra is egy idõrabló és sok odafigyelést igénylõ tevékenység marad.

@@ -1,0 +1,22 @@
+Nyílt forrású vállalati alkalmazásplatformmal jelentkezett a Sun Microsystems
+
+Szinte teljes egészében nyílt forrású webes alkalmazásplatformot jelentett be a Sun Microsystems, amelynek központjában a GlassFish alkalmazásszerver legújabb változata áll. Az árazást a cég úgy alakította ki, hogy az a jelenlegi gazdasági környezetben is vonzó legyen.
+
+
+
+Integrált, tesztelt, kulcsrakész
+
+A GlassFish Portfolio részei olyan népszerû nyílt forrású megoldások mint az Apache Tomcat, a Ruby, a PHP, egy Liferay-alapú portál és természetesen a GlassFish Enterprise Server, amely a Sun égisze alatt létrehozott nyílt forrású alkalmazásszerver -- a csomagnak van néhány, nem nyílt komponense is. Ezeket a alkotóelemeket a GlassFish Portfolióban a Sun integrálja és összehangolja, emellett -- igény esetén -- akár 24 órás nagyvállalati szintû támogatást is biztosít hozzájuk.
+
+ Mark Herring, a Sun köztesszoftverkért felelõs marketing-vezetõje szerint ha korábban valaki nyílt forrású alapokon próbált vállalati alkalmazásokat fejleszteni, a különféle komponensek integrációja valóságos rémálom volt. Ezt a feladatot a Sun most leveszi az ügyfelek válláról és a GlassFish Portfolio formájában egy komplett, elõre integrált és tesztelt platformot biztosít. A megcélzott vevõkör a webre fejlesztõ és a nagyvállalati alkalmazásokat építõ cégek. 
+
+A csomag szíve és lelke a GlassFish Enterprise Server 2.1, amely a Sun új, teljesen nyílt forrású vállalati alkalmazásszervere, a Sun Application Server 9.1 utóda. Tartozik hozzá egy Enterprise Service Bus, amely a nyílt forrású, szabványos (Java Business Integration, Java EE)  OpenESB-n alapul. A GlassFish ESB egy teljesen moduláris vállalati SOA keretrendszer, ahol a központi szervizbuszra plug-inként kapcsolódnak az adaptereket reprezentáló komponensek. Ezek száma a közösség lelkesedésének köszönhetõen folyamatosan bõvül.
+
+
+ A GlassFish Portfolio minimális számú, nem nyílt forrású komponenseinek egyike a GlassFish Enterprise Manager, amely az alkalmazásszerver monitorozására és finomhangolására használható. A beépített "performance advisor" segítségével az adott környezet és alkalmazás függvényében optimalizálhatók a beállítások, akár futásidõben is, a GlassFish moduljainak, illetve a rajta futó alkalmazásoknak a paraméterei grafikus felületen is megjeleníthetõk. A GlassFish Enterprise Manager csak a GlassFish Portfoliót megvásálró ügyfelek számára érhetõ el.
+
+Az integrált alkalmazásplatform további komponense a Web Space Server, amely a Sun új, Liferay-alapú portálja. A Liferay egy kedvelt, nyílt forrású portálmotor, amelyet a Sun a GlassFish Portfolióban egyrészt integrált a többi termékkel, másrészt saját fejlesztésekkel egészített ki -- ezeket a kódokat át is adta a Liferay-közösségnek. Noha maga a szoftver nyílt forráskódú, a vásárlók jogosultak egyes zárt accelerator csomagokat is használni. Az újdonságok listája a GlassFish Web Stackkel lesz teljes, amely webalkalmazások (PHP, Ruby, Java) platformjaként kíván tündökölni -- a klasszikus "AMP" (Apache, MySQL, PHP/Perl) komponensek mellett része a Tomcat, Memcached, Squid és Lighttpd is. 
+
+Szerverenkénti árazás
+
+ A GlassFish Portfolio már 999 dolláros áron licencelhetõ, vagyis a konkurens megoldások árának töredékéért megkapható, miközben versenyképes teljesítményt biztosít, vagyis ár-teljesítmény arányban verhetetlen a Sun szerint. A versenytársaktól (pl. Oracle/BEA, IBM) eltérõen az árazás nem processzorokat, hanem szervereket vesz alapul, ami tovább növeli árelõnyét a nagyobb installációk esetén.

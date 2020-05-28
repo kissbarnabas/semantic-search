@@ -1,0 +1,12 @@
+A Safari a leggyorsabb böngészõ a Futuremark szerint
+
+A böngészõháború fellángolásával kiemelt figyelmet kapott az egyes szoftverek sebessége. Ahogy a weboldalak bonyolódnak, a felhasznált technikák fejlõdnek, a webalkalmazások egyre összetettebbek lesznek, az oldalak megjelenítése is egyre lassul, ha nincs kéznél egy gyors webböngészõ. 
+
+
+
+Számos teszt született már a böngészõk összehasonlítására, most egy újabbal bõvült ezek sora. A Peacekeeper érdekessége, hogy a tesztprogramjairól ismertté vált Futuremark fejlesztette, amely korábban a 3DMarkkal, illetve a PCMarkkal alapozta meg hírnevét. Az ingyenesen elérhetõ Peacekeeper egy online alkalmazás, amely éles weboldalak viselkedésébõl vett minták, feladatok (pl. keresés, renderelés, JavaScript-futtatás) segítségével méri a böngészõk sebességét.
+
+A Peacekeeper nem csak tesztel, hanem az eredményeket meg is õrzi és összehasonlíthatóvá is teszi, az egyre duzzadó adatbázis pedig segítséget nyújt a legjobb böngészõ kiválasztásához. A jelenleg rendelkezésre álló adatok szerint egyébként a leggyorsabb böngészõ a Safari 4, ezt szorosan követi a Google Chrome, az Opera és a Firefox 3 már jelentõsen le van szakadva, a leglassabb pedig az Internet Explorer 7. Ugyanazon a PC-n futtatva a sebességkülönbség a Safari és az IE7 között majdnem hétszeres.
+
+
+ A közösségi oldalak, videomegosztók vagy akár a webes levelezõk komolyan leterhelik a böngészõt. A Peacekeeperben elvégzett tesztek szerint a ma elérhetõ népszerû programok sebessége között látványos különbség van, vagyis a felhasználók a számítógép helyett a böngészõ cseréjével is érezhetõen nagyobb sebességre válthatnak. Persze a sebesség nem minden, a böngészõk között ezerféle szempont alapján lehet rangsort felállítani, az azonban egyértelmû, hogy a gyorsaság ma már alapkövetelmény.

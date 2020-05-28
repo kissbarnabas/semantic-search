@@ -1,0 +1,17 @@
+Adathalász támadás a freemailesek ellen: sose add ki a jelszavadat senkinek!
+
+Mondhatni sablonos adathalász levéllel próbálnak jelszavakhoz jutni azok a rosszindulatú ismeretlenek, akik a "freemail..admin"@freemail.hu címrõl küldték szét üzeneteiket számos freemail postafiókba. Soha ne adjuk ki jelszavunkat senkinek, akkor sem, ha látszólag az üzemeltetõ kéri!
+
+
+
+A levél szövege szerint a rendszert üzemeltetõ Axelero Rt.
+központi adatbázisát törték fel, ami már eleve gyanús lehet, hiszen az Axelero több mint két éve, 2005 májusában keresztelkedett át T-Online-ra. A levél írói a fenti "adminisztrációs e-mailre" -- mely szintén gyanús módon egy szimpla freemail címrõl jön -- kérik vissza egy üres levélben a felhasználók nevét és jelszavát egybeírva, a levél tárgyában.
+
+Az elválasztás nélkül írt adatoknak elméletileg semmi értelme nem lenne, azonban a válaszoló levélíró saját e-mailcímével azonosítja azt, hogy a karaktersorozat meddig a felhasználói neve, és honnan kezdve a jelszava. A gyanút eloszlatandó külön figyelmeztetik a felhasználókat arra, hogy jelszavukat ne adják ki senkinek, csak a "freemail webmaster-hírlevél"-nek.
+
+
+A phishing, azaz adathalász támadások itthon is egyre gyakoribbak. A legutóbbi nagy támadás a Raiffeisen Bank hazai ügyfeleit érte, akiket egy az eredeti banki oldalra megszólalásig hasonlító, adathalász oldalra irányítottak, majd ott belépési neveket és jelszavakat kértek tõlük azonosítás céljából. Az ilyen kísérleteket az egyre okosabb adathalász szoftverek, illetve maguk a továbbfejlesztett böngészõk is megpróbálják kiszûrni -- a fenti levelek ellen azonban egyelõre tehetetlenek.
+
+
+
+A vírusok, trójaik mellett az adathalász támadások is egyre célzottabbak, a levelek egyre meggyõzõbbé válnak, és a támadók például képesek csak olyanoknak elküldeni egy-egy adathalász levelet, akik valóban az adott bank ügyfelei, így kisebb a lebukás veszélye.

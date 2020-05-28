@@ -1,0 +1,12 @@
+Multiple Inboxes: újabb hasznos funkcióval bõvült a Gmail
+
+Újabb hasznos szolgáltatással bõvült a Google itthon is kedvelt levelezõje, a Gmail. A Labsban található "Multiple Inboxes" funkció segítségével akár több virtuális fiókot is létrehozhatunk a Gmailben, amelyek tartalmát folyamatosan figyelemmel követhetük.
+
+
+
+A szolgáltatás egyike azoknak, amelyeket a Google fejlesztõi a munkaidejük azon 20 százalékában hoztak létre, amely kimondottan a saját új ötletek megvalósítására szolgál. A Multiple Inboxes abból a felismerésbõl születet, hogy sokan szeretik valamilyen szempont szerint csoportosítani az üzeneteiket, például címkékkel és szûrõkkel, ugyanakkor örülnének annak, ha az ilyen módon megjelölt leveleket folyamatosan szemmel tudnák tartani.
+
+
+
+
+ A Multiple Inboxes bekapcsolása után a Gmailben a szokásos panel mellett (vagy alatt) külön listán láthatjuk például a megcsillagozott leveleket, a piszkozatokat, az elküldött e-maileket vagy valamilyen szempont szerint szûrt, címkézett üzeneteket. A Multiple Inboxest a Labs menüben lehet bekapcsolni, majd a Settings menüben konfigurálni. Bár a több "virtuális fiók" egyidejû megjelenése komoly káoszt okozhat, aki ezt képes átlátni, és a napokban bevezetett új címkézési rendszerrel együtt használni, annak nagy segítség lehet.

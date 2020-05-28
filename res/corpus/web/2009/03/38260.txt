@@ -1,0 +1,29 @@
+Már bétateszteli szemantikus keresõjét a Microsoft
+
+A Yahoo! felvásárlásának kudarcát követõen a Microsoft figyelme ismét a keresõtechnológia fejlesztésének erõsítése felé fordult, aminek elsõ gyümölcse már érésben van. A szoftveróriás már teszteli a Kumo kódnévû keresõjét, mely szemantikus technológiára épít.
+
+
+
+Kumo: viharfelhõk a Google felett, vagy csak bárányfelhõ?
+
+A Microsoft jelenleg belsõ bétatesztelést folytat, és megkérte alkalmazottait, próbálgassák a számukra Kumo.com címen elérhetõ keresõt, és adjanak visszajelzést . A Microsoftból érkezõ live.com látogatásokat a cég a Kumóra irányítja, ami azt jelzi, elõrehaladott állapotban van a motor -- a Microsoft mintegy 90 ezer alkalmazottal rendelkezik. A Kumo, mely japánul felhõt jelent, minden bizonnyal magában hordoz a Powerset tavalyi felvásárlásával megszerzett megoldásokat is. A cégtõl kiszivárgott, és azóta hivatalosan is elismert belsõ kommüniké és felvételek alapján egyértelmûen szemantikus keresõrõl van szó.
+
+
+Levelében Satya Nadella, az online divízió kutatás-fejlesztésért felelõs alelnöke azt írja, a találatok csoportosításával és a navigáció könnyítésével igyekeznek segíteni a felhasználókat, hogy gyorsabban találják meg azt, amire szükségük van. A Microsoft szerint a jelenlegi keresõk bár rengeteget fejlõdtek az elmúlt évek során, a statisztikák szerint a felhasználók nagyrésze sikertelenül próbálkozik, és az esetek közel felében több mint 20 percet is elidõzik a keresõvel.
+
+
+Szemantikus?
+
+A szemantikus keresõknek az a célja, hogy egy magasabb szintre emeljék a keresõmotorok munkáját, vagyis a weboldalak jelentését tárolják el, ne csak a kulcsszavak mintáját. Ez természetesen teljes újrafeldolgozást igényel mélyreható, sokkal számításigényesebb elemzéssel, és a generált metaadatok tömege is hatalmassá duzzadhat. A végsõ cél az, hogy a keresõ értse a különbséget a barack pálinka és a Barack Obama között, és ha rákeresünk a barack szóra, akkor csoportosítsa a találatokat jelentésüktõl függõen, és akár kérdést is lehessen intézni hozzá, melyet jó eséllyel képes megválaszolni a metaadatok tömegébõl kibányászott információval. A keresõk szerencsére fokozatosan is beolthatók szemantikus technológiával, nincs szükség törésre, az eddigi megoldások egyszeri eldobására.
+
+
+
+
+
+Az egyik példakeresésben az Audi S8 modellel kapcsolatban gyûjt csoportosított információkat a Kumo, mint például specifikációk, tesztek, alkatrészek, új és használt autók vásárlása, fórumok. Egy másikban Taylor Swift country énekesnõvel kapcsolatban gyûjti ki a motor a dalokat, szövegeket, biográfiákat. A Kumo, mely információink szerint már magyarul is tud, valószínûleg még idén bekerül a Live Search alá, így hamarosan bárki megnézheti, mit fõzött ki a Microsoft.  Nadella levelét a Kumóról készült képekkel a Wall Street Journal holdudvarához tartozó All Things Digital blogon lehet megtalálni.
+
+Út a Powerset felé
+
+A Microsoft az online tevékenységbe ölt dollármilliárdokat követõen sem tudta felvenni a versenyt a keresõpiacon, a Google szolgáltatását nagyjából hússzor gyakrabban használják a netezõk. Redmond, látva, hogy önerõbõl nem jut messze, tavaly év elején egy több mint 40 milliárd dollár értékû felvásárlási javaslattal állt a Yahoo! elé, a Google ellen szintén szenvedõ dotkom-cég vezetése azonban a pénzügyi és piaci realitások elfogadása helyett az arroganciát választotta, és sorozatosan elutasította a rendkívül magas stratégiai prémiumot tartalmazó árat. A Microsoft úgy érvelt, a két vállalatnak csak együtt van esélye felvenni a harcot a Google hegemóniájával szemben.
+
+Látva a Yahoo! makacs ellenállását és megszállott Microsoft-averzióját, Steve Ballmer csapata kihátrált a tranzakció mögül, és más irányban lépett tovább. A szoftveróriás tavaly nyáron vásárolta fel a Powersetet, mely a szemantikus keresõtechnológia fejlesztésével foglalkozó törpecégek egyike. A tranzakció értékét nem hozták nyilvánosságra, becslések szerint 100 millió dollár körül alakulhatott. A felvásárlás mögötti logika kettõs: a Microsoft gyorsan és viszonylag olcsón jutott technológiához, mégpedig olyan technológiához, mely minden jel szerint hamarosan felváltja a jelenlegi, nagyrészt szintaktikára építõ keresõmotorokat. Másképpen fogalmazva a Microsoft egy olyan, új pályán igyekszik versenyezni, ahol kiegyenlítettebb küzdelmet folytathat a Google-lel. 

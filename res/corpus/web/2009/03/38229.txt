@@ -1,0 +1,16 @@
+Világhódító útra indult a Microsoft Business Productivity Online Suite
+
+Az Egyesült Államok után további 19 országban tette elérhetõvé online üzleti szolgáltatáscsomagját a Microsoft, amely hosztolt formában, havidíjért cserébe kínálja a vállalat legnépszerûbb csoportmunka-megoldásait, az Exchange-et és a SharePointot, az Office Live Meetinget és az Office Communications Online-t, amely egy hosztolt egységes üzenetkezelõ megoldás.
+
+
+
+A Business Productivity Online Suite (BPOS) tavaly õsszel debütált az Egyesült Államokban. A szolgáltatás igénybevevõi segítségével ugyanazokat a funkciókat érhetik el, amelyeket a szoftverek telepített változatai biztosítanak, azonban a csoportmunkát támogató szoftverek nem a felhasználó szerverein futnak, hanem a a Microsoft adatközpontjában, és az üzemeltetésrõl is a redmondiak gondoskodnak -- a vállalt rendelkezésreállás  99,9 százalék, ami évente legfeljebb 8,7 óra nem tervezett kiesést jelent. Az ügyfél webes felületen természetesen finomhangolhatja a mûködést.
+
+A BPOS felhasználónként havonta 15 dollárba kerül, de létezik egy olcsóbb változata, a Deskless Worker Suite, amely mindössze 3 dollár -- cserébe a felhasználónak meg kell elégednie a webes hozzáféréssel és 500 gigabájt tárhellyel. Ezt a konstrukciót azoknak dolgozta ki a Microsoft, akik nem ülnek egész nap az irodában, és csak ritkábban van szükségük arra hogy levelezzenek. Európában a BPOS ára felhasználónként havi 12,7 euró vagy 10 font, a Deskless Worker Suite havidíja 2,5 euró vagy 2 font. 
+
+
+ A globális indulást egy nagyszabású megállapodással ünnepelte a Microsoft, a cég a GlaxoSmithKline 100 ezer dolgozója által használt Lotus-alapú megoldását cseréli Business Productivity Online Suite-ra (BPOS). A GlaxoSmithKline-nál hét éve használnak Lotust Notes-t. A bejelentésbõl kiderül, hogy a 100 ezer dolgozó közül 15 ezren a Deskless Worker Suite változatot kapják majd. 
+
+Világszerte 19 országban érhetõ el már a Business Productivity Online Suite: Ausztriában, Belgiumban, Kanadában, Dániában, Finnországban, Franciaországban, Németországban, Írországban, Olaszországban, Japánban, Hollandiában, Új-Zélandon, Norvégiában, Portugáliában, Spanyolországban, Svédországban, Nagy-Britanniában és az Egyesült Államokban. Az új országokban a cégek egyelõre csak tesztelhetik a megoldást, megvásárolni áprilistól lehet majd. A HWSW úgy tudja, a Microsoft számára Magyarország a harmadrangú országok közé tartozik, ezért hazánkba alighanem csak a következõ lépcsõben érkezhet meg a BPOS.
+
+A magyar cégek addig sem maradnak hosztolt Microsoft-környezet nélkül, a Central Europe On-Demand február közepén jelentette be indulását. A cég kínálatában a Microsoft Exchange Server 2007, Microsoft Office Outlook 2007, Microsoft Windows SharePoint Services 3.0, Microsoft Office Communications Server 2007 mellett kihelyezett biztonsági mentési és helyreállítási szolgáltatások szerepelnek. Az árak a házon belüli szolgáltatásra jellemzõ költségszint töredékét teszik ki: a standard Microsoft Exchange 2007 például felhasználónként 5-15 euróba kerül havonta, mindenféle egyszeri beruházási díj nélkül.

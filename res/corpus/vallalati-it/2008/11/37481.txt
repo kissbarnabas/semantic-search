@@ -1,0 +1,14 @@
+Bérelhetõ kis- és középvállalati informatika a T-Sytemstõl
+
+A T-Systems és a Cisco a múlt heti Cisco Expón jelentette be közös megoldását, amelynek keretében havidíjért nyújt szélessávú internetet, IP-alapú telefonszolgáltatást, alközponti és számítógépes hálózatüzemeltetést, biztonsági funkciókat és irodai készülékeket kis- és középvállalatok számára. 
+
+
+
+A T-Systems szerint a kis- és középvállalatok hatékonyságát látványosan fokozhatják a modern informatikai megoldások, azonban sok szervezetnél a beruházás kezdeti költségigénye, az informatikai szakemberek hiánya és a jelentõs szervezési erõforrásigény miatt a fejlesztések legtöbbször nem valósulnak meg. A T-Systems a rendszer paramétereitõl függõen munkaállomásonként havi 5-15 ezer forintos átalánydíjért vállalja a kiépítést és üzemeltetést.
+
+
+ Mindezért az elõfizetõ egy olyan IP-alapú üzleti kommunikációs megoldást kap, amely magában egyesíti a szimmetrikus szélessávú internetkapcsolatot, az IP-telefóniát, az egységes üzenetküldést, a hangpostát, az ügyfélkapcsolati alkalmazásokat, az audio- és videolehetõségeket, az interaktív konferenciamegoldásokat, illetve a jelenléti (presence) és mobilitási megoldásokat. A megoldás alapja a Cisco UC 500 berendezés.
+
+"A tervezhetõ költségek, a szolgáltatásokkal kapcsolatos adminisztráció csökkenése, valamint a megbízhatóan mûködõ rendszer összességében olyan elõnyöket jelent, amelyek véleményem szerint nem fogják elkerülni a versenyhelyzetben levõ cégek figyelmét" -- mondta Király István, a T-Systems marketing igazgatója. "Azt gondolom, hogy néhány év múlva már csodálkozni fogunk, miért nem eleve így épült fel az informatika és a kommunikáció a kisebb cégeknél, annyira kézenfekvõ a menedzselt szolgáltatások mûködése&#8221; -- tette hozzá Vass Gábor, a Cisco Magyarország partnerkapcsolati és marketing igazgatója. 
+
+A szolgáltatás célcsoportja mintegy 15 ezer hazai szervezet, az ezeknél mûködõ mintegy 455 ezer PC-bõl közel 400 ezer hálózatba van kötve a Bell Research kutatása szerint. A 44 ezer telephelybõl mintegy 31 ezernél található helyi informatikai hálózat, azaz az összes telephely mintegy 70 százalékánál van legalább 2 számítógép "összekötve". Ennek ellenére a szervezetek háromnegyede csak egy telephelyen üzemeltet LAN-t, és az összes PC-nek mintegy 85 százaléka a központokban található.

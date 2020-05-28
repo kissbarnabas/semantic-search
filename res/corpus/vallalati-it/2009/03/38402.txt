@@ -1,0 +1,20 @@
+Megadta magát a Sun az IBM-nek
+
+[The Wall Street Journal/HWSW] Minden jel szerint elõrehaladott állapotban van az IBM és a Sun Microsystems összeolvadása. A Kék Óriás ügyvédjei már a Sun szerzõdéseit és dokumentumait fésülik át, mintegy átvilágítva a céget,  ami arra utal, hogy a Sun részérõl gyakorlatilag zöld utat kapott az ügylet -- írja belsõs forrásokra hivatkozva a Wall Street Journal és a Bloomberg.
+
+
+
+Már a szerzõdéseket vizsgálják
+
+Az IBM jogászcsapatai a Sun szerzõdéseit és dokumentumait vizsgálják át az ilyenkor szokásos elvárható gondosság elvétõl vezérelve. Amennyiben a lap értesülései pontosak, úgy gyakorlatilag tényként kezelhetõ, hogy a Sun vezetése teljesen elkötelezte magát a vállalat eladása mellett, hiszen a Sun gyakorlatilag teljes vertikumában versenytársa az IBM-nek, ennek ellenére megosztja vele üzleti titkait. A Bloomberg forrásai szerint az akvizíció bejelentése akár már a héten megtörténhet.
+
+Ez az átvilágítás napokba telik, és egyelõre nem tudni, mikor fejezõdik be. Az IBM az elmúlt öt év során több tucat felvásárlást hajtott végre, így jelentõs rutinnal rendelkezik a célpontok kiértékelésében és integrációjában. A Sun tevékenységei kiterjedtek és összetettek, komplex szerzõdéses viszonyban áll partnereivel és ügyfeleivel is, így a szokásosnál hosszabb lehet a procedúra. Ilyen bonyolító tényezõk lehetnek a keresztlicencelési megállapodások, mint amilyen a Microsofttal 2004-ben aláírt, a különféle zárt és nyílt szoftverlicencek, vagy a kulcsügyfelek iránti szerzõdéses kötelezettségek. A WSJ forrásai szerint az IBM valószínûleg a Sun felvásárlása mellet dönt majd, a megállapodás értéke 6,5 és 8 milliárd dollár közé eshet. A Bloomberg forrásai részvényenként 10 dollárra taksálják a tranzakciót, ami 7,4 milliárd dolláros vételárat jelent. 
+
+Eltûnhet a Sun a süllyesztõben
+
+A készülõdõ IBM-Sun fúzióról múlt héten rántotta le a leplet a WSJ, meg nem erõsített értesülések szerint azonban a Sun már tavaly év vége óta keres magának szakmai vevõt, és többek közt a HP-t és a Dellt is megkereste. A Sun vezetõinek eladás mögötti logikája továbbra sem nyilvánvaló, amennyiben ugyanis az IBM vásárolná meg a céget, az valószínûleg a vállalat nagy részének végét is jelenti egyúttal. A Sunnak alig van ugyanis olyan termékvonala, melynek nincs IBM-es megfelelõje, kezdve a SPARC/Solaris üzleti kritikus gépektõl az x86-os tömegszervereken és HPC-megoldásokon át a merevlemezes és szalagos tárolókig, infrastrukturális és alkalmazásszoftverekig.
+
+
+ Valószínûtlen, hogy az IBM meghagyná a Sunt önálló entitásként, ahogyan az is valószínûtlen, hogy termékeit átemelné magának. Az IBM minden bizonnyal leginkább piacot, technológiát valamint némi fejlesztõi erõforrást vásárolna, és középtávon a Sun jelenlegi termékkínálatának nagy részét valószínûleg megszüntetné vagy beolvasztaná saját portfóliójába. Ezzel nagyban megnövelné a piaci koncentrációt a számára fontos UNIX-piacon, melynek kétharmadát birtokolja a Sunnal együtt, a nagyvállalati szalagos tárolók területén pedig gyakorlatilag egyeduralkodóvá válna, versenytárs nélkül -- ez utóbbi egyébként trösztellenes szempontból a leginkább aggályos pontja lehet egy ilyen tranzakciónak.
+
+Az IBM-et a piacszerzés mellett motiválhatta az is, nehogy egy riválisa kezére jusson a Sun, különös tekintettel a hatalmas pénzügyi erõvel rendelkezõ Ciscóra, vagy a brutális költséghatékonyságáról ismert Dellre, melyek számára a Sun lényegében komplementerként szolgált volna a szerverpiaci terjeszkedésben. Mint arról a HWSW is beszámolt, a Cisco belépett a szerverpiacra, hogy az adatközpontok egy átfogóbb beszállítójává váljon, kihívva maga ellen a HP-t és az IBM-et is.

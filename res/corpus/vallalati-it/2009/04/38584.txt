@@ -1,0 +1,14 @@
+Hamarosan érkeznek az APC új infrastruktúrafelügyeleti megoldásai
+
+Bár az APC by Schneider Electric már a márciusi CeBIT-en bemutatta az adatközpont fizikai infrastruktúrájának felügyeletére szolgáló InfraStruXure Central, Capacity Manager és Change Manager új változatát, a termékek új funkcióinak jó része csak májustól válik elérhetõvé.
+
+
+
+Az APC korábbi, kizárólag saját termékeket támogató InfraStruXure Manager termékét leváltó InfraStruXure Central alapjául szolgáló megoldás a NetBotz 2005-ös felvásárlásával került a cég birtokába. A két termék egyesítésébõl született meg az InfraStruXure Central, amelyet 2007 óta kínál a vállalat, ma már ez az APC egyedüli felügyeleti platformja, amely természetesen nem csak az APC, hanem más gyártók termékeivel is együttmûködik. "Az APC által kínált adatközponti menedzsment megoldás nemcsak az APC által gyártott fizikai infrastruktúra eszközök, hanem a legkülönbözõbb gyártóktól származó építõelemek, például hûtés vagy teljesítményeloszlás integrálására is lehetõséget nyújt" -- mondta Szarka Attila, az APC vezetõ rendszermérnöke.
+
+Az InfraStruXure Central új Modbus TCP kimenete szabványos megoldást nyújt a rackszintû energia-, hûtés- és környezetadatok, valamint riasztások integrálására a különbözõ épületfelügyeleti rendszerekbe. A kétféle rendszer közötti kommunikáció lehetõvé teszi, hogy a felhasználók az adatközponti infrastruktúra és az azt támogató épület-infrastruktúra adatait egy rendszerben jelenítsék meg és integrálják. Az InfraStruXure Central legfrissebb verziójának tömeges konfigurálási funkciója segítségével a egyszerre több hasonló APC-eszköz konfigurációit tárolhatják, változtathatják vagy frissíthetik.
+
+A termékcsomag két szoftvermodulja, a Capacity Manager és Change Manager nem korábban betáplált adatokra hagyatkozik, hanem valós, mért adatokra épülõ tervezõeszközt ad az informatikai vezetõk kezébe. Számukra jó hír, hogy a Capacity Manager már a hálózati csatlakozások, födémteherbírás vagy akár az álpadlós hûtés szimulációval kiegészített tervezést is lehetõvé teszi -- mondta el Szarka Attila. Ezek segítségével felfedezhetõk a túlmelegedéshez, alacsonyabb rendelkezésre álláshoz és a kihasználatlan kapacitásokhoz vezetõ hûtési problémák. További újdonság a a Capacity Manager új kiegészítése, az Energy Cost Management Report modul, amely egy meghatározott eszközcsoport kWh-ban mért energiafelhasználását mutatja meg.
+
+
+ Az InfraStruXure Central háromféle kivitelben vásárolható meg a felhasználói igényeknek megfelelõen növekvõ bõvítési lehetõséggel. Mindegyik készülék tartalmazza az adatközpont-felügyeleti szoftverek új generációját: a Change Manager, a Capacity Manager, a Surveillance modulok és a ModBus TCP kimenet szoftvereit, amelyek engedélyezése licenckulccsal történik. Az InfraStruXure Central, Change Manager és Capacity Manager 5.1-es verziója májusban válik világszerte elérhetõvé.

@@ -1,0 +1,44 @@
+Megfigyeli az e-mail forgalmat a brit állam
+
+A nagy testvér figyelõ szemeitõl való félelem a telekommunikáció fejlõdésével egyre komolyabb árnyékként vetül a felhasználókra. A kormányok terrorizmustól való félelme pedig szinte bármilyen megfigyelési lehetõség számára zöld utat biztosít. Egy most hatályba lépõ EU-direktíva pedig szinte megkoronázza a "paranoia-ipart", azzal, hogy az internetszolgáltatókat és a telekommunikációs cégeket arra kötelez, hogy tárolják el a felhasználóik által bonyolított kommunikációs tranzakciók adatait.
+
+
+
+
+
+Az Egyesült Királyság paranoiás
+
+
+Az Egyesült Királyság a tegnapi napon a gyakorlatban is életbe léptette azt ez Európai Unió által elfogadott direktívát, miszerint az internetszolgáltatóknak egy éven keresztül minden felhasználói emailt és kommunikációs adatot rögzíteniük kell, s amennyiben egy bûncselekménnyel kapcsolatos nyomozás úgy kívánja, ahhoz hozzáférést kell engedni a megfelelõ hatóságoknak vagy egyéb szervezeteknek.
+
+
+Jim Killock, az Open Rights Group igazgatója egyszerûen "õrült direktívának" nevezte az új irányelvet, s úgy gondolja, hogy potenciálisan veszélyes következményekkel járhat az efféle kontroll az állampolgárok számára. Az irányelv ugyanis azt javasolja a törvényalkotóknak, hogy kényszerítsenek minden internetszolgáltatót az Európai Unióban arra, hogy tárolják el a felhasználók kapcsolatainak adatait egy éven keresztül.
+
+
+Õrült direktíva
+
+
+Ez ugyan nem érintené a tartalmat, tehát nem derülhetne ki, hogy mirõl chatelt az adott felhasználó vagy pontosan mit töltött le, mit olvasott el, arról viszont pontos kép maradna mindenkirõl, hogy mely egyének léptek kapcsolatba egymással. Egy ugyanilyen direktívát erõltetnek egyébként a telefonszolgáltatókkal kapcsolatban, akiknek a híváslistákat kellene eltárolniuk 12 hónapon keresztül. Amennyiben valamilyen bûneset gyanúja vetül valakire, akkor a hatóságok a megfelelõ garanciákkal hozzáférhetnének az adatbázisokhoz.
+
+
+A direktíva hatálybalépésével párhuzamosan az EU tagállamai most megkezdik a jogharmonizációs folyamatokat, melyekkel megpróbálják saját nemzeti jogi kontextusukba illeszteni az elvárt megoldásokat.
+
+Sokba kerül a szolgáltatóknak
+
+Nem csak a jogvédõknek, hanem az internetszolgáltatóknak sem tetszik ugyanakkor az új szabályozás: A szolgáltatók többnyire azt kifogásolják, hogy az adatok rögzítése és tárolása súlyos többletköltségeket róna rájuk. Ezt az érvet viszont az Egyesült Királyság kormánya lepattintaná azzal, hogy beleegyezik abba, hogy kompenzálják az ISP-ket az adatkezelés költségeivel.
+
+Ezzel kapcsolatban viszont biztosan lesznek komoly csaták, hiszen az egyik brit mobiltelefon-szolgáltató, aki tesztjelleggel korábban két napra vonatkozóan eltárolta az adatokat, már adott ajánlatot arra, hogy mennyiért tenné ezt 12 hónapon keresztül. Az összeg pedig 875 ezer angol font, azaz jelenlegi árfolyamon közel 300 millió forint lenne az adófizetõk pénzébõl. Pedig ez csak egyetlen szolgáltató és ráadásul telefonos, ahol feltételezhetõen egyszerûbb és kisebb adatbázist kell fenntartani, mint az internetszolgáltatók esetében.
+
+
+Egy 2004-es brit jelentés szerint egy nagyobb ISP számára 20-40 ezer terabyte adatot jelentene egy ügyfél éves email-forgalom adatainak rögzítése, amihez már egy komolyabb adatpark fenntartása lenne szükséges. Az Egyesült Királyságban mégis támogatták az ötletet, sõt õk eszelték ki ezt a megoldást és tolták végig az EU szabályalkotóin. Svédország viszont teljesen elzárkózik bármilyen hasonló megfigyeléstõl, míg Németországban jelenleg is bírósági szinten küzdenek az ellenzõk és a támogatók.
+
+
+Kell a biztonság?
+
+
+A támogatók azzal védekeznek, hogy már jelenleg is több bûncselekmény van, melyet a telekommunikációs szolgáltatóktól nyert adatok alapján oldottak meg, s több gyilkos és terrorizmussal gyanúsított személyt fogtak el a hatóságok a technológiának köszönhetõen. Az ellenzõk viszont azzal érvelnek, hogy a hatóságokon kívül akár több száz egyéb szervezet is hozzáférhet az adatokhoz, ami komoly személyiségi jogi aggályokat vet fel.
+
+Az ellen nem biztos, hogy véd
+
+
+A megoldást ráadásul egy erõs kritika érheti, amiért éppen az ügy apropóját adó terrorizmus ellen tûnik hatástalannak, hiszen bármilyen szolgáltatói kontroll is van, az nem tud mit kezdeni a privát titkosítással, az internet cloud szolgáltatásokkal, proxy szolgáltatásokkal. Így a rendszer leginkább a tudatlan erõszakos bûnözõk lefülelésében nyújthat komoly elõnyt. Igaz azon az áron, hogy a felhasználók ezentúl jóval kiszolgáltatottabbnak érezhetik magukat az állammal szemben, illetve az adófizetõk pénzébõl százmilliós, milliárdos összegeket kell erre költeni.

@@ -1,0 +1,12 @@
+Akár 160 gigabájtos SSD jöhet hamarosan az Inteltõl
+
+Tavaly láttak napvilágot az Intel Z-P140 SSD termékvonalával kapcsolatos híradások, e meghajtók maximum 16 gigabájtnyi kapacitással és 30 megabájt írási, valamint 40 megabájt másodpercenkénti olvasási sebességgel szálltak szembe a jelen jóval gyorsabb megoldásaival. A helyzet változni látszik, 80-tól 160 gigabájtig kerülnek majd forgalomba az új generációs megoldások, melyek jellemzõi a 100 megabájt olvasási és 70 megabájt írási sebesség lesz.
+
+
+
+Az Intel új SSD meghajtói MLC (Multi Level Cell) felépítésben kínálják a Samsung, valamint a BitMICRO megoldásainál jóval nagyobb teljesítményt, amely számokban kifejezve akár 160 gigabájtnyi kapacitást, valamint másodpercenkét 100 megabájtos olvasási és 70 megabájtos írási sebességet jelenthet. A meghajtók a csatolófelület tekintetében is elváltottak a korábbi megoldásoktól, az újdonságok SATA II kapcsolaton illeszkedhetnek a számítógép vezérlõjéhez.
+
+
+Az Intel NAND-termékekért felelõs részlegének képviseletében Troy Winslow bizakodóan nyilatkozott, szerinte az új meghajtók mutatják majd meg a fogyasztóknak, hogy SSD-tárolók nem csak egyféleképp gyárthatók, maga az SSD felépítése, valamint a kontroller chip és a hozzá tartozó vezérlõszoftver eltérései nagy különbségek forrásai lehetnek. Az újdonságok 1,8, valamint 2,5 hüvelykes fizikai formátumban egyaránt a noteszekbe kerülhetnek.
+
+Az Intel szerint a következõ hónapokban további áreséseknek lehetünk tanúi, 2009-re a mai árak feléért vehetünk majd SSD-ket, 2010-re pedig az rak ismét a felére csökkennek majd. A Samsung marketing-igazgatója, Michael Yang kicsit szolidabb értékekben jósol, szerinte az SSD árcsökkenések 35-45 százalékban realizálódnak évrõl-évre.

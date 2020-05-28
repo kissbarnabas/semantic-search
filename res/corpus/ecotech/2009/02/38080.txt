@@ -1,0 +1,20 @@
+Komoly költségmegtakarítást hozhat a vállalatoknak a software as a service modell
+
+A Central Europe On-Demand és a Microsoft ma bejelentette, hogy Magyarországon, egyben a közép-európai régió országaiban elsõként egységes platformra épülõ, szolgáltatásként nyújtott alkalmazásokat (software as a service, SaaS) vezet be. A rendkívül rugalmas konstrukció segítségével a felhasználók költséget takaríthatnak meg, egyszerûsíthetik IT-döntéshozatali folyamataikat, csökkenthetik általános IT-költségeiket és méretrugalmas, biztonságos IT-környezetet alakíthatnak ki. 
+
+
+
+Komplett szolgáltatást kínálnak
+
+"Az új üzleti modell felválthatja, kiegészítheti a bevált licencelési konstrukciót, a mostani gazdasági helyzetben pedig az az aktualitása, hogy nem kell szoftver- vagy hardvereszközökre beruházni, hanem komplett szolgáltatást tud vásárolni az ügyfél. Úgy gondoljuk, hogy ennek komoly piacbõvítõ hatása lesz" -- mondta el az együttmûködési megállapodást bejelentõ mai sajtótájékoztatón Drajkó László, a Microsoft Magyarország ügyvezetõje. "A Central Europe On-Demand az elsõ olyan partner a régióban, aki hostolt Microsoft alkalmazásokat kínál. Mostantól olyanok is elérhetik ezeket az alkalmazásokat, akik eddig nem tudták megfizetni, nem tudták kialakítani a használatukhoz szükséges struktúrát" -- fejtette ki Budafoki Róbert, a Central Europe On-Demand elsõ embere.
+
+A SaaS (Software as a Service, azaz a szoftver, mint szolgáltatás) modell a legtöbb vállalati méretszegmens számára ideális megoldás lehet, mivel -- az alacsonyabb költségigény mellett -- kisebb a kockázata és lehetõvé teszi az ügyfelek számára, hogy gyorsan lecseréljék azokat az alkalmazásokat, melyek nem váltak be, vagy amelyeket más okból kifolyólag nem használnak. A vállalatoknak ebben a konstrukcióban csak azokért a szolgáltatásokért kell fizetniük, melyet használnak is, és csak annyi felhasználó után, ahányan ténylegesen igénybe is veszik a rendszert.
+
+Lényegesen olcsóbb lehet
+
+A Central Europe On-Demand kínálatában Microsoft Exchange Server 2007, Microsoft Office Outlook 2007, Microsoft Windows SharePoint Services 3.0, Microsoft Office Communications Server 2007, valamint kihelyezett biztonsági mentési és helyreállítási szolgáltatások szerepelnek (ez utóbbiak hátterét egy holland cég, a Backup Agent biztosítja). Budafoki kiemelte, hogy a szolgáltatást vezetõ távközlési szolgáltatók közvetítésével, biztonságos adatközpontokban mûködõ, 99,99 százalékos garantált rendelkezésre állású carrier-grade hosting platformról nyújtják. Az árak a házon belüli szolgáltatásra jellemzõ költségszint töredékét teszik ki: a standard Microsoft Exchange 2007 üzleti levelezési szoftver például felhasználónként 5-15 euróba kerül havonta, mindenféle egyszeri beruházási díj nélkül.
+
+
+A Central Europe On-Demand-del folytatott együttmûködés a Microsoft "szoftver+szolgáltatások" (S+S = Software + Service) stratégiájának része. Ennek lényege, hogy az ügyfelek havi elõfizetési díj ellenében használják a rendkívül megbízható és biztonságos távoli adatközpontban futó szoftvereket. A konstrukcióval a vállalatok jelenlegi infrastruktúra-költségeik töredékéért jutnak hozzá egyébként lényegesen drágábban licencelhetõ vagy használható üzleti szoftveralkalmazásokhoz és professzionális szolgáltatásokhoz.
+
+Budafoki a sajtótájékoztatón elmondta, hogy cége a regionális stratégiájával összhangban napokon belül megnyitja varsói irodáját, amely várhatóan két hónapon belül indítja el szolgáltatásait. A Central Europe On-Demand ezt követõen a cseh, román és szlovák piacon is megjelenik, valamint további kelet-európai országokban folytatja terjeszkedését.

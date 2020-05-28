@@ -1,0 +1,20 @@
+Huszonöt megabites internet a Magyar Telekomnál, de nem Pesten
+
+Az elõzetes ígéreteknek megfelelõen elindult a Magyar Telekom hálózatán a VDSL-alapú internetszolgáltatás, a cég lakossági ügyfelei, illetve a nagykereskedelmi partnereknél elõfizetõ felhasználók így mától vehetik igénybe az akár 25 megabit/másodperces letöltési és 5 megabites feltöltési sávszélességet biztosító vezetékes adatátviteli technológiát. A garantált sávszélesség azonban ennél lényegesen kevesebb: mindössze 4 megabit/másodperc letöltési, és 1 megabit/másodperc feltöltési irányba.
+
+
+
+Félig réz, félig optika
+
+A VDSL-alapú internet részben a már meglévõ infrastruktúrára építve, az ADSL-hez hasonló aszimmetrikus adatátviteli közeget nyújt, a létesítésnek azonban szigorúbb mûszaki feltételei vannak, így a rézkábel nyomvonal-távolsága a központtól, vagy DSLAM-tõl (kvázi kisközpont) az elõfizetõi végpontig nem lehet több egy kilométernél. A kiépítés -- feltételezve, hogy meglévõ ADSL-elõfizetésrõl váltanak át VDSL-re -- ügyféloldalon nem igényel új kábelezést, pusztán a végberendezést, a modemet kell lecserélni az elõfizetõnél.
+
+A Magyar Telekom tavaly nyáron indította el a VDSL2+ hálózat tesztüzemét egy budapesti kerületben, ahol az Ericsson közremûködésével építették ki a teszthálózatot. A gyorsabb internet akkor elsõsorban a cég IPTV-platformjába integrált HD-szolgáltatásnak nyújtott alapot, a széles körben elérhetõ ADSL-hálózatok által rendelkezésre bocsátott sávszélesség ugyanis túl szûkös a HD-adások továbbításához.
+
+A távközlési szolgáltató végül több mint egy évig tesztelte és fejlesztette VDSL-hálózatát, melybe kezdetben nagyjából 100 ezer magyarországi háztartást tudnak bekapcsolni. A cégnél ma indult a T-Home márkanév alatt értékesített lakossági VDSL-szolgáltatás, mely önálló internetelõfizetésként, és IPTV-csomaggal együtt egyaránt elérhetõ lesz. A Magyar Telekom két konstrukcióban, T-Home DSL Classic Extra (telefonvonal mellé) és T-Home DSL Solo Extra (a csupasz ADSL-hez hasonlóan vezetékes telefonszolgáltatás nélkül) néven értékesíti a VDSL-szolgáltatást. Elõbbi 9890, utóbbi 11 390 forintba kerül havonta 1 év hûségidõ vállalással.
+
+Itt a HDonIPTV is
+
+
+A VDSL-alapú internet nemcsak gyorsabb letöltésre ad lehetõséget az ügyfél számára: a T-Home TV IPTV-szolgáltatás csatornakínálatába a VDSL-csomagokkal egy idõben bevezetésre kerültek a HD-adók (Eurosport HD, Filmbox HD, National Geographic HD, Voom HD, HBO HD), melyeket egy csomagban (1290 forintos havi elõfizetési díjért), vagy külön-külön (390 forintos havi elõfizetési díj fejében) lehet igényelni. Az említett csomagban nincs benne az HBO HD, melyet csak önállóan, 800 forintos havidíj ellenében nézhetnek a T-Home IPTV-ügyfelei.
+
+A Magyar Telekom korábbi ígérete szerint a VDSL-alapú internetet az indulás napján 100 ezer magyarországi háztartás számára teszik mûszakilag elérhetõvé. A lefedettség egyelõre a fõvárosban a legnagyobb, de ott is meglehetõsen foghíjas, így például jelenleg egyetlen pesti kerületben sem tud létesíteni a szolgáltató VDSL-alapú kapcsolatot. A gyors internet így mind a T-Home, mind a nagykereskedelmi partnerek ügyfelei számára jelen pillanatban Budapesten (a II., XI., XXII. kerületek bizonyos részein) Budakeszin, Budajenõn, Telkin, Szentendrén, Pécsett, Debrecenben és Székesfehérvár bizonyos részein érhetõ el. Szerettük volna megtudni, hogy a késõbbiekben milyen ütemben és milyen területen várhatók további VDSL-fejlesztések, errõl azonban lapunk megkeresésére nem közölt információkat a Magyar Telekom.

@@ -1,0 +1,12 @@
+Génmódosított vírusokra épülhetnek a jövõ akkumulátorai
+
+A MIT kutatócsoportja az eredetileg baktériumokat fertõzõ M13 vírus egy génmódosított változatát használta fel az akkumulátorhoz. A vírusok elektromos töltést hordozó anyagot -- vas-foszfátot -- kötnek meg és kapcsolnak rendkívül vékony szén nanocsövekhez, ezzel vezetõréteget képezve. Az így felépülõ elektródák egyik legnagyobb elõnye a hagyományos, lítiumionos megoldásokhoz képest, hogy azoknál lényegesen gyorsabban tudják a töltést felszabadítani, ami nagyobb áramerõsséghez, azaz végsõ soron hosszabb akkumulátoros üzemidõhöz vezethet.
+
+"Elméletileg háromszor annyi ideig üzemeltethetnénk vele egy iPodot, mint egy normál, lítiumionos akkumulátorral" -- nyilatkozta Angela Belcher, a kutatócsoport vezetõje. "Megfelelõ méretezés esetén akár [hibrid] autókban is lehetne használni" -- emelte ki a szakember, hozzátéve, hogy a technológia egyelõre legfeljebb csak elméletben skálázható ilyen szintre. Az újfajta akkumulátorok ezzel együtt környezetbarát gyártásuk és mûködésük révén is vonzó alternatívát képezhetnek a jelenleg használt technológiákkal szemben.
+
+A vírusokat használó akkumulátor prototípusa jelenleg leginkább egy gombelemhez hasonlít, mérete nagyjából egy pénzérmének felel meg. A technológia egyik legnagyobb hátránya, hogy a töltési ciklusok száma egyelõre meglehetõsen korlátozott -- az akkumulátor 100 töltés után drasztikusan veszíteni kezd kapacitásából.
+
+
+A kutatócsoport elsõsorban ezen a problémán próbál úrrá lenni, illetve jobb vezetõképességû anyagokkal (mangán-foszfát, nikkel-foszfát) kísérletezik. Az elsõ, kereskedelmi forgalomba hozott akkumulátorok megjelenésének feltétele, hogy az új anyagokkal végzett kísérletek eredményesen záruljanak.
+
+A MIT kutatói az utóbbi években különösen aktívnak számítottak az újabb akkumulátortechnológiák kifejlesztése terén. A Nature magazin március közepén számolt be arról a projektrõl, mely a hagyományos, lítiumionos akkumulátorok töltésvándorlásának felgyorsítását tûzte ki célul. A kutatók rájöttek, hogy megfelelõ anyagszerkezetet használva olyan akkumulátorcellák építhetõk, melyekben az ionok lényegesen gyorsabban mozognak, így az akkumulátor gyakorlatilag másodpercek alatt feltölthetõ.

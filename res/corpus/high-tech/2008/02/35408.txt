@@ -1,0 +1,18 @@
+Kinyerhetõ a merevlemezt titkosító kulcspár a noteszgépekbõl
+
+[Computerworld] Nem nyújt elegendõ védelmet a Princeton Egyetem kutatói szerint a merevlemez szoftveres titkosítása: mind a Windows Vista BitLockerjével, mind a Mac OS X FileVaultjával védett adatokhoz szükséges titkosító kulcspárok kinyerhetõk a számítógépekbõl.
+
+
+
+Alex Halderman, a Princeton végzõs diákja szerint bár a számítógép kikapcsolásakor, vagy éppen bekapcsolásakor törlõdnek ezek az adatok a memóriából, ez nem elég gyorsan történik meg. A támadók egy alvó üzemmódba helyzett számítógépet kikapcsolva majd újra elindítva, mobil merevlemezrõl a megfelelõ programot futtatva néhány másodpercig még kinyerhetik a megfelelõ kódrészletet a számítógép memóriájából, még azelõtt, hogy az operációs rendszer gondoskodhatna annak elrejtésérõl.
+
+Néhány számítógép törli a memóriáját a számítógép bekapcsolásakor, ám a kutatók szerint egy ellopott noteszgépnél, vagy asztali számítógépnél ez sem jelent komoly akadályt. A memóriamodulokat -50 Celsius fokra hûtve, és egy másik számítógépbe áthelyezve szintén elérhetõk voltak az érzékeny adatok, akár több mint tíz perces elektromos áram nélküli állást követõen is.
+
+Az adatok titkosítása az Egyesült Államokban komoly tájékoztatási kötelezettségtõl, és ezzel súlyos dollárokba fájó költségtõl mentesítheti a cégeket, a vállalatoknak ugyanis értesíteniük kell minden egyes személyt, céget, akiknek adatait tõlük ellopják, vagy elvesztik. A törvények titkosítás esetén mentességet adnak -- ez azonban más veszélyeket is rejthet magában, hasonlóan ahhoz, ha egy törhetetlen széf kulcsa elveszik.
+
+
+
+
+A titkosító kulcsokat menedzselõ rendszer sérülése, esetleg megtámadása, tönkretétele esetén visszafejthetetlenek lesznek adataink, akár az egész merevlemez tartalma. Egy ilyen baleset, vagy szándékolt esemény hosszú idejû és rendkívül fájdalmas -- könnyen összegesíthetõ kárt -- okozhat.
+
+A titkosításból származó veszélyekkel nem csak a vállalatok szembesülhetnek. Felfigyeltek a lehetõségre a "rosszfiúk" is, a jövõben támadások érhetik a titkosító kulcsokat kezelõ rendszereket, infrastruktúrákat, egy-egy cég akár zsarolható is lesz a megszerzett, módosított kulcsoknak köszönhetõen. A szakértõk szerint ez egy újabb "osztálya" lehet a DoS, túlterheléses támadásoknak, azonban túltherhelés nélkül.

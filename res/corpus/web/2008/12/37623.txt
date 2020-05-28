@@ -1,0 +1,21 @@
+Natív x86 kódot futtat böngészõbõl a Google Native Client
+
+Újabb szintre emeli az online alkalmazások képességeit a Google. A bemutatott Native Client nem kevesebbet tesz lehetõvé, minthogy natív kódot futtasson a böngészõ, ami lehetõvé teszi tetszõleges komplexitású számítások elvégzését. Ennek demonstrálására a Google böngészõben futtatható Quake-et mutatott be. A technológia ugyanakkor még hosszú fejlesztés elõtt áll, mielõtt általánosan használhatóvá válna.
+
+
+
+A Google célja, hogy tovább erõsítse az online alkalmazások térnyerését a rezidens szoftverekkel szemben, mely folyamat a számítógépek teljesítményének, a böngészõk és programozási technikák, valamint a szélessávú kapcsolatoknak köszönhetõen az elmúlt években erõsödött fel. Szemben azonban az eddigi szkriptet és saját binárist futásidõben interpretáló  megoldásoktól, a Native Client natív x86-os kódot hajt végre böngészõtõl és operációs rendszertõl függetlenül.
+
+Ezzel pedig a lehetõségek tárháza határtalanná válik, és csak az aktuális PC-bázis gyengébb gépeinek teljesítménye, valamint a rendelkezésre álló sávszélesség korlátozza be azt. A Native Client elméletileg jóval nagyobb teljesítmény érhetõ el, ugyanis nem állnak a kód és a gép közé nehézkes köztesrétegek, mint például a Sun Java, Microsoft Silverlight vagy Adobe AIR  esetében, melyekkel lényegében szintén tetszõleges online alkalmazás hozható már létre. A Google késõbb más processzorarchitektúrák, például az ARM és PowerPC támogatását is tervezi.
+
+
+
+A gondolat, hogy a böngészõn keresztül natív x86-os kódot hajthat végre egy weboldal, azonnal ellenérzéseket váltott ki a szakma egy részébõl. A Hungarian Unix Portal látogatói, kik jellemzõen rendszergazdák, például többségükben nem szimpatizáltak az ötlettel. Éppen ez az oka annak, hogy a Google a Native Client fejlesztésének egy korai fázisában a nyilvánosság elé lépett, megnyitotta a forráskódot, és igyekszik bevonni a fejlesztõi közösséget a technológia tökéletesítésébe, mely egyelõre nem alkalmas általános felhasználásra, már a böngészõ plug-in telepítéséhez is szükséges némi hozzáértés.
+
+
+A biztonság érdekében a Google szigorú szabályokat állított fel a Native Client modulokkal szemben, melyek elõírják annak struktúráját a könnyû elemzés érdekében, és nem tartalmazhatnak bizonyos kombinációjú utasítássorozatokat. Ez a keretrendszer azt szolgálja, hogy meggátolja a feltételezhetõen rosszindulatú kód futtatását -- nem triviális feladat, és a kódok többségét így is portolni kell majd a Native Client futtatáshoz. 
+
+
+[+]  JavaFX: legyen webkettes a Java is!
+
+Éppen emiatt egyesek azt is kijelentették, hogy a kezdeményezés egyszerûen ostoba, és a jelenlegi eszközökre alapozva már bármit meg lehet alkotni, melyek kiforrott biztonsági architektúrával rendelkeznek, nem beszélve a kényelmi szolgáltatásokról, mint amilyen a memóriakezelés is, melyek felgyorsítják a fejlesztést. Lehetséges, a Google azonban a jelenleginél sokkal vékonyabb szoftverréteget szeretne látni a PC-ken, és sokkal több alkalmazást a weben -- mégpedig minél elõbb. További információk, példakódokkal és dokumentációval a Native Client honlapján.

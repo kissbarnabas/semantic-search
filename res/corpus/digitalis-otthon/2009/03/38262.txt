@@ -1,0 +1,16 @@
+A netbookokhoz külön készít Office-t a Microsoft
+
+A netbookok igényeire szabott változat is készül az Office 14-bõl -- mondta el a Morgan Stanley Technology Conference-en Stephen Elop, a Microsoft Business Division vezetõje. 
+
+
+
+A történelmének legnagyobb visszaesését átélõ PC-piacon az olcsó netbookok jelentik az egyetlen növekedõ szegmenst. A Gartner elõrejelzése szerint 2009-ben a PC-piac mintegy 12 százalékkal zsugorodik, eközben a netbookok forgalma a tavalyi duplájára emelkedik és 21 millió darabot tesz ki. A Microsoft már korábban felismerte a netbookok fontosságát, a cég számtalanszor hangsúlyozta, hogy õszre várható új asztali operációs rendszere, a Windows 7 zökkenõmentesen használható ezeket az apró, olcsó számítógépeken.
+
+Windows 7-bõl nem lesz kimondottan netbookokra szánt változat, a Microsoft a gyártókra bízza, melyik verziót telepítik a netbookokra, az Office esetében azonban már más a helyzet. "Vannak új módszerek arra, hogy a netbook-piacra szánt termékverziókból pénzt csináljunk. Ha valaki csak párszáz dollárt költ egy netbookra, vajon mennyiért akar rá irodai szoftvert venni?" -- tette fel a költõi kérdést Stephen Elop, aki példaként említette az Office otthoni és iskolai verzióját, ami kedvezõ árának köszönhetõen gyorsan népszerû lett és jelentõs bevételt termelt a vállalat számára.
+
+
+ Steve Ballmer múlt heti, Wall Streeten tartott tájékoztatóján is utalt arra, a Microsoft számára fontos kérdés, hogy a netbook-specifikus szoftverváltozatokba milyen képességeket épít, illetve milyen áron adja majd õket, milyen különbségek lesznek az üzleti felhasználásra szánt, a teljes értékû fogyasztói, valamint a netbook-szoftverek között. A netbookokra szánt Office-kiadásról még semmit sem tudni, egyelõre rejtély, miben különbözik majd ez a változat a többitõl.
+
+Egyelõre nagyon keveset tudni magáról az Office 14-rõl is, még a megjelenés ideje is bizonytalan, korábbi információk és pletykák alapján úgy sejthetõ, 2010 elsõ felében érkezik csak. Az Office 14 legfontosabb új képességei alighanem az új SharePointtal és új SQL Serverrel együtt használhatók majd ki. Az Office-felhasználók közvetlenül, a számukra már ismert felületen érhetik el az SQL Serverben tárolt adatokat, és az Office-ba épített képességek segítségével lényegében saját üzletiintelligencia-alkalmazásokat, egyfajta mash-upokat hozhatnak létre, amelyeket a SharePoint révén akár meg is oszthatnak egymással.
+
+Fontos újdonság lesz, hogy a legnépszerûbb Office-alkalmazások (Word, Excel, PowerPoint) online szolgáltatásként is elérhetõk lesznek a vevõk számára. A "webes Office-szal", a Web Applicationsszel a felhasználók a böngészõjükön keresztül érhetik el az Office-dokumentumokat, és online szerkeszthetik õket. A szoftverek online változatai kísértetiesen hasonlít majd a PC-re telepített eredetikhez, hasonló lesz a menürendszerük is -- a cél az, hogy a felhasználók ugyanúgy tudják majd kezelni, mintha csak a saját gépükön levõ alkalmazást indították volna el.

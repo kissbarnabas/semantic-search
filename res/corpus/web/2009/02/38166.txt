@@ -1,0 +1,20 @@
+DoS-támadással vesznek elégtételt egyes legyõzött Xbox-játékosok
+
+Egy multiplayer játékban elpáholni valakit többnyire nem jár több következménnyel, mint néhány szitokszó vagy duzzogás az ellenféltõl, de az Xbox Live felhasználók újabban ennél több büntetésre is számíthatnak, ugyanis a dühös vesztesek gyakran DoS-támadásokkal (Denial of Service) vesznek revansot. A Microsoft egyelõre tehetetlenül áll a jelenség elõtt.
+
+
+
+Új fegyver az arzenálban
+
+A Denial of Service, azaz szolgáltatásmegtagadásos támadások lényege, hogy több számítógéprõl kérésekkel bombázzák a célpontot, a sok haszontalan adatcsomag közt elvesznek a hasznosak és elérhetetlenné válik a gép, illetve a gép számára a külvilág. Elõszeretettel bénítottak meg már évekkel ezelõtt is webszervereket, szolgáltatásokat vagy vállalati hálózatokat hackerek ezzel a módszerrel, de mára annyira egyszerûen elérhetõ egy ilyen támadás, hogy az online játékosok is képesek ezzel stresszelni egymást.
+
+
+ A BBC Today számolt be arról, hogy az utóbbi idõben, fõleg néhány játék esetében megszaporodtak a fentebb ismertetett "flood" támadások, illetve a lap arról is ír, hogy a Microsoft is vizsgálja az eseteket. A szolgáltató viszont egyelõre nem tud túl sokat tenni az ügyben, hiszen a trükkös eszköz nem magát az Xbox Live szolgáltatást támadja, hanem az azt igénybe vevõ felhasználó internetkapcsolatát. A Microsoft egyik képviselõje az Ars Technica szerkesztõségének nyilatkozta még pénteken, hogy valóban több esetben kaptak bejelentéseket ezzel kapcsolatban és vizsgálódnak is az ügyben. .
+
+Nem menekülsz!
+
+A trükk alapjában véve egyszerû. Mint minden internetalapú szolgáltatás, az Xbox Live is IP-címek alapján azonosítja a felhasználókat, a rosszindulatú támadóknak tehát nincs más dolga, mint azonosítani a célpontot és rázúdítani a támadást. Ehhez az Xbox elé egy PC-t kötnek, aminek segítségével monitorozzák az adatforgalmat (sniff), amibõl kiderül, hogy mely IP címekkel kommunikál a konzol a játék közben. Ehhez ma már nem feltétlenül kell internetgurunak lenni, az internet sötét bugyraiban pénzért árulják a támadásra alkalmas szoftvereket, amelyet akár gyerekek is megvehetnekik, akik aztán infantilis bosszúvágyuknak néhány kattintás és 20 dollár segítségével nyomatékot adhatnak.
+
+Egyelõre nincs gyógyír
+
+A támadások ellen többféle megoldást is ajánlanak a szakértõk, de ezek egyike sem garancia a sikerre. Azonnali hatása annak van, ha valaki újra csatlakozik az internetre, így új IP-címet kap a szolgáltatójától, de ezután bármikor újra összefuthat rosszakarójával, aki megismételheti a támadást. Visszatérõ esetekben a Microsoft ajánlása szerint érdemes az internetszolgáltatóval felvenni a kapcsolatot, minden esetet dokumentálni, jelenteni, ezzel könnyítve az adminisztrátorok dolgát. Ugyanígy érdemes a Microsoft felé is jelezni az eseteket, õk annyit tudnak tenni, hogy azokat a felhasználókat, akik így rendezik konfliktusaikat, azonnal kitiltják az Xbox Live hálózatból.

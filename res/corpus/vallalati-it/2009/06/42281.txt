@@ -1,0 +1,38 @@
+A kisvállalati rendszergazdák az outsourcing ellenségei?
+
+Sokszor a kis- és középvállalatoknál foglalkoztatott rendszergazdák ellenállásán buknak el az outsourcing-projektek, az informatika üzemeltetésével megbízott szakemberek az állásuk féltése miatt megvezetik a gazdasági döntéshozókat -- hangzott el a Navigator Informatika Zrt. által rendezett sajtóbeszélgetésen. Juhász Lajos, a cég vezérigazgatója szerint "a rendszergazdák terjeszik az [outsourcinggal kapcsolatos] tévhiteket."
+
+Megfelelõ elõkészítés szükséges
+Magyarországon még százmilliós üzletek megkötésekor sem jellemzõ, hogy a vállalatok külsõ, független tanácsadót vonnának be a döntési folyamatokba, s ez igaz outsourcing esetén is. A kis- és közepes szervezeteknél gyakori, hogy a felsõvezetés az informatikával foglalkozó munkatársaktól, rendszergazdáktól vár véleményt, akik a saját állásukat féltve igyekeznek az outsourcingot rossz színben feltüntetni. Az outsourcing drágább mint a házon belüli üzemeltetés, beruházás szükséges hozzá, nem biztonságos, le kell cserélni a szoftvereket, a vállalat elveszti a kontrollt a rendszere felett -- ezek a leggyakoribb kifogások a kiszervezés ellen.
+Hogy ezek a kifogások csak kifogások-e vagy az adott cégnél valóban igazak, annak megállapításához egy átfogó felmérésre, költségelemzésre van szükség. A tisztánlátás érdekében akár független tanácsadót is érdemes lehet bevonni, amely objektíven tudja számba venni a házon belüli és a kiszervezett üzemeltetés elõnyeit, hátrányait, valamint az ezekkel járó költségeket. Ez az a lépés, amelyet a legtöbb kis- és középvállalat nem tesz meg, a vezetõk döntésüket gyakran pont azoknak a rendszergazdáknak a tanácsára alapozzák, akiknek az állása az outsourcing nyomán akár meg is szûnhet, így végeredményben&nbsp; ellenérdekelt félnek számítanak az ügylet megkötésében.
+Juhász Lajos szerint a Navigator az outsourcing-ügyfeleinél dolgozó informatikai szakemberek mintegy 70 százalékát átveszi, így a rendszergazdák elõtt nem a munkanélküliség az egyetlen jövõkép. A Navigatorhoz kerülõ szakemberek ráadásul karrierjük folyamán változatos kihívásokkal találkozhatnak, rendszeres szakmai képzéseken vesznek részt, és a munkaterhelésük is állandó -- igaz, kevesebb önállóságot kapnak mint a kis cégek rendszereit üzemeltetõ "magányos hõsök". 
+Sok múlik a szerzõdésen
+A Navigator szerzõdésben garantált szolgáltatási szintek mellett, fix költséggel, ITIL módszertannal üzemelteti ügyfelei informatikai rendszereit, azonban hogy az ügyletbõl végül valódi üzleti elõny származzon, nagy hangsúlyt kell fektetni a szerzõdés elõkészítésére. Tisztázni kell, hogy az együttmûködés milyen tevékenységekre és eszközökre terjed ki, illetve ki kell kötni azt is, hogy pontosan mi történik a szerzõdés lejártakor. Sokan attól tartanak, hogy nem tudnak megszabadulni az outsourcing-szolgáltatótól, azonban ez nem jellemzõ, legtöbben a szerzõdéses idõtartam végén újrakötik a megállapodást, immár jóval kedvezõbb díjakkal -- mondta Juhász Lajos. 
+"Az IT-outsourcing alapvetõen üzleti döntés, ezért már az
+IT-outsourcing szerzõdés elkészítésekor nagy hangsúlyt kell fektetnünk
+a jövõben elvárt szolgáltatási szintek, illetve a szerzõdéses garanciák tisztázására,
+hiszen a szolgáltatás során szerzett rossz tapasztalatok nagymértékben
+erõsíthetik a tévhitek kialakulását, azaz növelhetik a bizalmatlanságot
+az IT-outsourcinggal szemben"&nbsp; -- vélekedik Juhász Lajos. "Mi a hosszú
+távú és sikeres együttmûködésben hiszünk, éppen ezért tevékenységünk
+során mindig arra törekszünk, hogy kölcsönös bizalmon alapuló
+kapcsolatot alakítsunk ki ügyfeleinkkel, és már a szerzõdéskötéskor minden szakmai támogatást megadjunk leendõ partnereink számára."
+Tóthmátyás Tibor, a Navigátor elnöke hangsúlyozta, az outsourcing-szolgáltató a szerzõdésben nem csak a költségmegtakarítást garantálja, hanem jogi és anyagi garanciát is vállal a szolgáltatási szintekre, amely az ügyfél bizalmát erõsítheti. Egy kisvállalatnál részmunkaidõben foglalkoztatott rendszergazdán lehetetlen egy váratlan leállás vagy adatszivárgás miatt bekövetkezõ üzleti veszteség több millió vagy tízmillió forintos anyagi kárát behajtani -- mondta Tóthmátyás.
+
+Sok az érdeklõdõ
+Az IDC nemrégiben frissített, az informatikai szolgáltatások európai
+piacára vonatkozó elõrejelzése szerint idén mindössze 4,4 százalékkal
+nõ az outsourcing-szektor forgalma, azonban ezzel még mindig a
+húzóágazatok közé tartozik majd, mivel minden más szolgáltatási
+területen (pl. oktatás, rendszerintegráció, támogatás) csökkennek a
+bevételek. Az outsourcing-piac fellendülésének köszönhetõen a teljes
+szolgáltatáspiac 0,6 százalékkal bõvül az idén, de jövõre is csak 2,2
+százalékos fellendüléssel számol az IDC. Magyarországon az IT-szolgáltatáspiac negyedét adja az outsourcing az IVSZ szerint.
+A recessziónak minden piaci logika szerint a kiszervezés elõretörését
+kellene hoznia Magyarországon is, azonban a Navigator Zrt.
+tapasztalatai szerint ez egyelõre nem érezhetõ. Noha az elsõ félév során a megkeresések,
+üzleti lehetõségek száma növekedett tavalyhoz képest, az értékesítési
+ciklusok megnyúltak, a vállalatok a bizonytalan környezetben látszólag
+képtelenek hosszú távú, stratégiai döntéseket hozni még akkor is, ha
+beruházás nélkül tudják csökkenteni a költségeiket, ami a Navigator
+ígérete.

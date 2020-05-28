@@ -1,0 +1,18 @@
+Megjelent az Opera Mini 4.2 végleges kiadása
+
+Ismét gyorsabb és okosabb lett az Opera Mini mobiltelefonos böngészõ. Az Opera Software Java-alapú böngészõje a folyamatos fejlesztéseknek köszönhetõen egyre népszerûbb: a múlt hónapban 21 millió felhasználó mintegy ötmilliárd oldalletöltést generált a telefonok beépített böngészõjénél többnyire sokkal kompaktabb és könnyebben kezelhetõ Opera Minivel.
+
+
+
+Több mint fél év elteltével új verziója jelent meg az Opera Mini webböngészõnek, mely a korábbi kiadásoknál mondhatni szokásosan lényegesen gyorsabb lett: a norvég szoftvercég szerint a 4.2-es verzió november közepén megjelent bétaváltozatával szerzett tapasztalatok alapján kijelenthetõ, hogy az új Opera Mini -- a kibõvített amerikai szerverparknak köszönhetõen -- nagyjából 30 százalékkal gyorsabban tölti be a weboldalakat a 4.1-es kiadáshoz képest.
+
+
+ Bár a gyorsulást a tengerentúli és ázsiai felhasználók tapasztalhatják majd, az Opera állítja, hogy a szerveroptimalizáció hatására más régiókban is érezhetõen javul a mobil webböngészõ teljesítménye. A böngészés sebessége az Opera Mini sajátosságaiból fakadóan szinte kizárólag a szerverfarmon múlik: a program voltaképpen csak egy megjelenítõablaka az oldal elõre renderelt képének.
+
+
+
+Fontos mérföldkõ az Opera Mini történelmében, hogy a most megjelent, 4.2-es verzió immár a Google Android mobil platformjára is elérhetõ. A cég idén áprilisban egy technikai elõzetest ugyan már kiadott az újszülött rendszerhez, az androidos Opera Mini elsõ publikus bétáját csak a mostani kiadás alkalmával tette elérhetõvé a fejlesztõ.
+
+Az Opera Mini valamelyest testreszabható is lett, az eddigi színvilággal együtt összesen hét téma (skin) állítható be a böngészõ menüjében. Az új verzióban továbbfejlesztették a böngészõ RTSP-támogatását (real time streaming protocol), így az Opera Mini 4.2-t használva mostantól a legtöbb Nokia és Sony Ericsson mobiltelefonnal megjeleníthetõk a Youtube mobilportálján található videók. A mostani kiadással megjelent az Opera Link szinkronizálási lehetõség is, mely az asztali gépre telepített Opera böngészõ és az Opera Mini közti szinkronizálási feladatokat látja el.
+
+Az Opera Software mobiltelefonos webböngészõje immár több mint kilencven nyelvre fordítva érhetõ el. A letöltéshez a legcélszerûbb ellátogatni a www.mini.opera.com weboldalra, ahonnan egy kattintással elérhetõ a telefon operációs rendszerének megfelelõ változat.

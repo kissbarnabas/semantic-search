@@ -1,0 +1,14 @@
+Itt a Flock közösségi webböngészõ 2.5-ös verizója
+
+A közösségi böngészõ 2.5-ös verziója elsõsorban az óriási népszerûséget szerzett mikroblogging-szolgáltatáshoz kapcsolódóan kapott újításokat, így a böngészõ beépített Twitter-oldalsávja ettõl a változattól sokkal átláthatóbban és testreszabhatóan jeleníti meg a feedet. Új a FlockCast szolgáltatás is, mely lehetõvé teszi, hogy a felhasználó egyszerre több közösségi szolgáltatásra vagy blogoldalra felvezesse a frissítést (a Flock jelenleg 22 ilyen szolgáltatást ismer). 
+A Flock egyik elsõdleges célja, hogy a webes tartalmak lehetõ legegyszerûb megosztását kínálja, ezért a felhasználónak elég csak behúznia a szöveget, a képeket vagy a videót az erre a célra létrehozott oldalsávra (Flock Sidebar), a program automatikusan elvégzi a megosztást. A Flock 2.5 további újításai közé tartozik egyebek mellett az integrált FaceBook chat kliens is, valamint a böngészõ mostantól kompatibilis a nagyjából 22 millió regisztrált felhasználóval rendelkezõ Bebo közösségi oldallal is.
+A Flock-ot 2005-ben hívta életre az a Bart Decrem, aki anno jelentõsen
+hozzájárult a Mozilla Foundation sikeréhez, valamint õ indította el az
+1999 és 2001 alatt lassan elhaló kezdeményezést, az Eazelt, ami
+elsõdleges céljául azt tûzte ki, hogy az asztali gépekre szánt Linux
+kényelmesebb legyen a mindennapi felhasználók számára is. A Flockban az
+alapul szolgáló Firefoxhoz képest a könyvjelzõk kezelését
+átalakították, hogy azokat egyszerûen meg lehessen osztani másokkal is,
+és természetesen, mint minden modern böngészõ, a Flock is képes RSS
+hírcsatornák megjelenítésére és a blogok integrált támogatására.
+A Flock új verziója egyelõre csak angol nyelven érhetõ el, Windows, Mac OS X és Linux platformokra egyaránt. Az ingyenesen használható program a böngészõ saját weboldaláról tölthetõ le.

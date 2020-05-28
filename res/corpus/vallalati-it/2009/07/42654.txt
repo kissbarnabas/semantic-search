@@ -1,0 +1,10 @@
+Befoltozta a Flash sebezhetõségét az Adobe
+
+A Windows, Mac és Linux platformot egyaránt érintõ biztonsági rés kihasználásával támadók távoli hozzáféréssel saját kódjukat futtathatták az áldozatok gépén, adatokat törölhetnek vagy lophatnak, a gépet más támadások indítására használhatják fel. Speciálisan elõkészített PDF és SWF állományokkal már július eleje óta támadják ezt a sérülékenységet, ezt maga az Adobe is elismerte. Biztonsági cégek elõször vadon terjedõ preparált PDF-állományokat észleltek, így elõször úgy tûnt, hogy csak a népszerû Reader sebezhetõségérõl van szó, de késõbb kiderült, hogy valójában ezek a Flasht támadják.
+
+A vállalat által most kiadott frissítés összesen 12 hibát javít, köztük a fenti sebezhetõséget. A patch emellett a Microsoft Active Template Libraryben felfedezett sérülékenységeket is javítja, amelyre kedden adott ki soron kívüli foltozást a Microsoft. Ezzel az Adobe az elsõ jelentõs szoftvergyártó, amelyrõl kiderült, hogy termékeiben felhasználta a Microsoft sérülékeny kódját, a jövõben alighanem további javítások érkeznek majd más szoftvercégektõl is, amelyek szintén a hibás sablonkönyvtárra építették alkalmazásaikat.
+A javított Flash Player 9 (9.0.246.0) és Flash Player 10 (10.0.32.18) letölthetõ az Adobe oldaláról. Az Adobe AIR-t is frissíteni kell, az 1.5.2-es verzióra, a legújabb változat letölthetõ az Adobe weboldaláról.	     
+                  
+                  
+                  
+                   

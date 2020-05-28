@@ -1,0 +1,11 @@
+Hibás javítás teszi használhatatlanná a SharePoint Servert
+
+A javítócsomag hibája szerencsére nem érinti a felsorolt termékekben tárolt adatok integritását vagy a beállításokat, csupán a végfelhasználók számára teszi elérhetetlenné a szervertermékeket az SP2 telepítése utáni 180. napon, mintha csak egy idõkorlátos próbaváltozatról lenne szó. Az azt megelõzõ idõszakban a szoftverek mûködése sem változik, funkcionalitásuk teljes marad, mivel az SP2 hibája csak az aktivációt érinti.
+
+A hibás javítócsomagokat április legvégén adta ki a cég. A Microsoft már dolgozik a javításon, amelyet valószínûleg még jóval azelõtt közzétesz, hogy az ügyfeleknél futó telepítéseket érintené a 180 napos korlátozás. Amennyiben valaki megjelenése napján feltepeítette a SharePoint Server 2007 SP2-t, október 21-ig van ideje feltenni a javítást. A probléma (a Search Server 2008 Express kivételével) a patch telepítése nélkül is orvosolható, a felhasználónak elég újra beírnia a termékazonosítót (Product ID number, PID). Termékazonosítót a Volume Licensing Service Centerbe bejelentkezve kérhetnek az ügyfelek.
+
+Tavaly augusztusban egy hasonló hiba érintette a VMware ESX Server 3.5-öt, amelynek második frissítésében(Update 2) a licencellenõrzõ kód hibája miatt a
+szoftver lejártnak érzékelte az érvényes licenceket is, és nem
+indította el a virtuális gépeket. A probléma súlyosságát tetézte, hogy mindez épp az augusztusi patch kedden történt,
+vagyis aznap, amikor a Microsoft kiadja szokásos hibajavításait,
+ilyenkor világszerte gépek millióit frissítik és indítják újra. A VMware aztán hamar elkészült a javítással.

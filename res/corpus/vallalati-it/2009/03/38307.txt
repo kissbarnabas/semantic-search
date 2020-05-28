@@ -1,0 +1,14 @@
+Microsoft: teljes értékû SQL Server kerül az Azure platformba
+
+Teljes értékû relációs adatbázissal bõvül a Microsoft cloud-platformja, az Azure -- olvasható a SQL Data Services (SDS) fejlesztõi blogban. A tavaly õsszel bejelentett Azure-be korábban egy SQL Server-alapú, de korlátozott funkcionalitású adatbázist képzeltek el a Microsoft-mérnökök, azonban a CTP (Community Technology Preview) program keretén belül beérkezett visszajelzések alapján úgy döntöttek, kiterjesztik a képességeit.
+
+
+
+A bejelentés szerint a SQL Data Services szolgáltatásait, funkcióit tekintve lényegében egyenértékû egy telepített SQL Serverrel, az egyedüli lényeges különbség a sebesség, hiszen a SQL Data Services az internetes felhõben fut. Ez a változás nagy lökést adhat a cloud-alkalmazásoknak, hiszen a fejlesztõknek nem kell beérniük egy egyszerû, "lebutított" adatbázissal, hanem egy teljes funkcionalitású relációs adatbáziskezelõvel dolgozhatnak. Az SDS egyebek mellett támogatja a tárolt eljárásokat, triggereket, kompatibilis a Visual Studióval, az ADO.Net-tel és az ODBC API-val is, az összes meglevõ fejlesztõi és felügyeleti eszközzel, csakúgy mint a SQL Server.
+
+A SQL Data Services a SQL Server által is használt, még a Sybase-tõl származó Tabular Data Stream protokollon keresztül érhetõ el, ez biztosítja a kapcsolatot az adatbázis és az alkalmazás között. Mivel a TDS egy nyilvánosan hozzáférhetõ protokoll, a SQL Data Services-t nem csak az Azure-re fejlesztett, .NET-nyelvekben megírt szoftverek tudják használni, hanem lényegében bármilyen alkalmazás, bármilyen platformon, bárhol a világon -- mondta el a HWSW-nek Bátorfi Zsolt, a Microsoft fejlesztési platform üzletágának technológiai szakértõje, akitõl azt is megtudtuk, az SDS egyik vezetõ fejlesztõje a magyar származású Cseri István.
+
+
+ A lépés azt is jelenti, hogy a fejlesztõk akár a meglevõ alkalmazásaik alatt is elkezdhetik használni a SQL Data Servicest adatbáziskezelõként, ehhez csupán annyit kell tenniük, hogy módosítják a connectrion stringet, amely az alkalmazás számára definiálja az adatbázis elérésének módját.
+
+"Ma a vállalati és webes alkalmazások fejlesztése két, egymástól távol álló világ" -- mondta az Azure tavaly õszi bejelentésekor a HWSW-nek Kõnig Tibor, a Microsoft fõmérnöke. "Az Azure és a cloud-szolgáltatások megjelenése paradigmaváltást sejtet. Valójában az alkalmazásfejlesztõk élete könnyebbé válik azáltal, hogy a kliensre és a felhõbe szánt alkalmazásokat pontosan ugyanazokkal a módszerekkel és eszközökkel fejleszthetik, így a két világ eggyé válik."

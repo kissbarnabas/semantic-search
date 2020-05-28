@@ -1,0 +1,11 @@
+A világ legkisebb memóriacelláját demonstrálta az IBM
+
+A világ legkisebb mûködõ SRAM celláját sikerült laboratóriumi körülmények között megalkotnia az IBM-vezette félvezetõipari kutatási csapatnak. A 22 nanométeres csíkszélességû félvezetõ-eljárással készített SRAM lapka egyfajta erõdemonstráció az érintettek részérõl a miniatürizációs versenyben, a technológia kereskedelmi bevetése 4-5 év múlva várható.
+
+
+
+Az IBM, az AMD, a Freescale, az STMicroelectronics, a Toshiba, valamint a College of Nanoscale Science and Engineering közösen jelentették be, hogy létrehozták a világ elsõ ismert SRAM chipjét, mely már 22 nanométeres eljárással készült. Ennek köszönhetõen egy hat tranzisztorból felépülõ (6T) cella 0,1 négyzet-mikrométer területû, ami új rekord. Az eljárás immerziós litográfiát, valamint magas k együtthatójú szigetelõt és és fémkapukat alkalmazott. A chipet a New York-i Állami Egyetem College of Nanoscale Science and Engineering (CNSE) karán érték el, mely a félvezetõipari szövetség kutatásainak egyik központja.
+
+A 22 nanométeres technológia két teljes generációnyira van a jelenleg kereskedelmileg alkalmazható 45 nanométeres eljárástól, így bevezetésére 4 éven túl kell számolni. Az újabb és újabb miniatürizációs ugrásokat tipikusan SRAM chipekkel demonstrálják elõször, ezek ugyanis rendkívül egyszerû, repetitív struktúrák. A 22 nanométeres generáció elõtt az IBM és partnerei, élen az AMD-vel a 45 nanométeres eljárást kereskedelmi bevezetésén dolgoznak jelenleg, hogy a negyedik negyedévre piacon lehessenek a már ezzel készült AMD-mikroprocesszorok.
+
+ Még fejlesztési fázisban tart a 32 nanométeres technológia is, mellyel a szövetség ismét az élre akar törni félvezetõ-technológiában, aminek érdekében már kezdettõl fogva alkalmaznak magas k együtthatójú dielektrikumokat és fémkapukat, melyeket az Intel vetett be elsõként a már tömegtermelésben lévõ 45 nanométeres gyártástechnológiáján. 

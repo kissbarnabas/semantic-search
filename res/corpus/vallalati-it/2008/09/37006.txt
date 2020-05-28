@@ -1,0 +1,24 @@
+Új hõs a vírusirtó-piacon: Sunbelt Vipre
+
+Öt év munkáját magában foglaló, saját fejlesztésû motorral érkezett meg a mai napon az amerikai Sunbelt új teljeskörû biztonsági programja, a Vipre, mely egyben végzi el a klasszikus vírusvédelmi feladatokat és a manapság egyre több bosszúságot okozó kémprogramokkal is elbír. Az új termék igyekszik a szoftverkalózkodás kérdésében is javítani a tendenciákon, hiszen fix díjért cserébe korlátlan számban használható családi licencet kínál, így az egy otthonban elõforduló minden PC és notebook felvértezhetõ védelemmel trükközés nélkül.
+
+
+
+Változó veszélyek
+
+Bódis Ákos, a Sunbelt hazai forgalmazójának, a Yellow Cube 2000 Kft.-nek az ügyvezetõje a Vipre magyarországi bemutatóját egy rövid vírustörténelmi áttekintéssel kezdte, prezentálva, hogy miért van szükség szemléletváltásra és folyamatos követésre a vírusírtók piacán. Kiemelte, hogy manapság már nem jellemzõek a mindent elsöprõ vírus-, illetve féregtámadások, ugyanis a bûnözõk inkább több ezer kisebb variánst engednek útjukra a kártevõkbõl. Ezek különösebb figyelemfelkeltés nélkül szedhetik áldozataikat és a minták is lassabban jutnak el a víruslaborokba, mintha egy globális, tömeges fenyegetés indulna.
+
+A kártevõket terjesztõ szervezetek célja egyfelõl, hogy megszerezzék a felhasználók személyes adatait, másfelõl hogy egy adott gépet minél tovább irányításuk alatt tarthassanak feltûnés nélkül, spamküldésre vagy DoS támadások indítására használva. A felhasználók helyzetét nehezíti, hogy szinte naponta jelennek meg ál-vírusírtó programok, melyeknek tömegesen esnek áldozatul a naiv internetezõk. Nem elég, hogy ezek kiiktatnak minden egyéb védelmet, feltelepítik a kártevõk egy egész repertoárját, manapság pedig gyakran kínálják fel a "fizetõs, regisztrált változat" megvételét, amivel biztos, ami biztos alapon még párszor az áldozat kártyáját is megterhelik -- persze vírust ezek sem irtanak. Magyarországon egyelõre ez nem öltött még tömeges méreteket, valószínûleg a lokalizáció hiánya miatt, de amint feltûnik egy magyar nyelvû álprogram, akkor azonnal ezrével dõlnek majd be a rutintalanok.
+
+A vírusok helyett tehát manapság a kémprogramok és trójaik jelentik a legnagyobb gondot, a fent említett spamküldés és DoS visszaélések mellett pedig a számítógépre telepített Microsoft szoftverek licenckulcsaira, World of Warcraft jelszavakra és email fiókokra vadásznak leginkább a cyberbûnözõk. Bódis Ákos szerint az egyik komoly hiányosság a védekezésben, hogy a vírusírtók magja nem változott kellõ mértékben, nem voltak képesek lekövetni a fejlõdést, illetve gyakran figyelmenkívül hagyják a valós kémprogram-veszélyt.
+
+Kielégíthetõ-e minden igény?
+
+Ezzel ellentétben a bemutató szerint az új Vipre igyekszik minden igénynek megfelelni, hiszen a fejlesztéskor a koncepció az volt, hogy a termék legyen gyors, észrevétlen, kevés erõforrást igényeljen és kezelje a komplex támadásokat és kártevõket is, de eközben ne akadályozza a mindennapi munkát üzenetekkel, kérdésekkel, tiltásokkal.
+
+A forgalmazó elmondása szerint a Vipre egy közel öt éves fejlesztéssorozat végeredménye, melyben a Symantec és az ESET laborjaiból átcsábított mérnökök is komoly részt vállaltak. A teljesen új motor nem kevesebbet ígér, hogy egy 1 gigabájt memóriát tartalmazó "átlagos PC-n" futtatva beéri a teljes rendszermemória fél százalékával, eközben pedig a versenytársaknál gyorsabban futtatja le a kereséseket. A naponta 3-4 ígért frissítés és a jelenleg 10 millió különbözõ kártevõ ismerete pedig komoly biztonságérzetet adhat a felhasználóknak.
+
+
+A szoftvert ugyan egyszerû kezelõfelületûnek tartja a fejlesztõ, de gyakorlatilag alig tér el a menük komplexitása egy átlagos programétól, körülbelül félúton van a Symantec Norton 360 és az Internet Security között, így elõfordulhat, hogy a professzionális felhasználóknak kevés, a laikusoknak pedig túl sok lesz a funkció. 
+
+A laikusokra pedig számít a Sunbelt, hiszen a vállalati licencek mellett egy családi konstrukciót is létrehozott, amivel az egy évre 13490 forintért vásárolt licenc érvényes egy otthon minden számítógépére attól függetlenül, hogy az kettõ vagy éppen 9 darab. A program ugyan már a mai naptól megvásárolható, de egyelõre csak angol nyelven, míg a lokalizált változat év végére várható.

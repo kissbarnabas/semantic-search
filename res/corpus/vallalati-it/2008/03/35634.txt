@@ -1,0 +1,57 @@
+Kipróbáltuk: windowsos Palm Treo 500 okostelefon
+
+Az Egyesült Államokban tavaly õsszel debütált a Palm szuperolcsó okostelefonja, a Centro, amelynek nem sokkal késõbb elkészült a Windows Mobile-t futtató változata is. Ez a készülék egy ideig csak a Vodafone kínálatában volt megtalálható Palm Treo 500v néven, majd nemrégiben "szolgáltatófüggetlenül" is elérhetõvé vált, és pár hete Magyarországon is kapható. Mi az RRC DiFo üzletágától kaptunk kölcsön egyet.
+
+
+
+Apróság
+
+A Treo 500 egy windowsos okostelefon, amelynek teljes QWERTY billentyûzete van, így elsõsorban azok érdeklõdésére tarthat számot, akik sokat SMS-eznek, vagy éppen leveleznek a telefonjukon. A Windows Mobile Standard operációs rendszeren minden megtalálható, ami ahhoz szükséges, hogy a telefont a vállalati e-mail szerverhez kapcsoljuk, így aztán ideális flottatelefon lehet a Treo 500. Magyarországon már szinte minden nagyobb településen elérhetõ 3G mobilhálózat, így aztán a Wi-Fi hiánya sem akkora érvágás, bár a HSDPA-támogatásnak azért örültünk volna. Bluetooth (2.0 EDR) szerencsére van.
+
+
+
+
+Csak akkora, mint egy iPod
+
+A Palm OS-t futtató Centróval azonos külsejû Treo 500 a legkisebb okostelefon a Palm kínálatában, nagy kijelzõje és teljes QWERTY billentyûzete ellenére csak akkora, mint egy merevlemezes iPod, és a zsebet sem húzza túlságosan a 120 grammos tömege. Méretéhez viszonyított könnyûsége ellenére a Treo 500 remekül megépített készülék benyomását kelti, az anyagválasztás kitûnõ, a telefon nem érzõdik "gagyinak", pedig a borítása mûanyag. A képernyõt körbeölelõ krómkeret és az azonos anyagból készült navigációs gomb kimondottan elengánssá teszi a megjelenést, még egy cégvezetõ is büszkén veheti elõ a Treót, üzleti partnerei biztos nem fognak összesúgni, hogy vajon miért csak ilyenre futotta neki.
+
+Nagyot mutat
+
+A Treo 500 elõlapjának felsõ részét teljesen elfoglaló kijelzõ 320x240 pixel és 65 ezer színárnyalat megjelenítésére képes, de 2,4 hüvelykes mérete miatt elsõre még nagyobb felbontásúnak is tûnik, a megjelenõ grafika sima, "pixelmentes", a színek ragyogók. A fényerõ szerencsére tág határok között állítható, ennek köszönhetõen még vakító napsütésben is kiválóan láthatóan marad a megjelenítõ, nem kell kezünkkel leárnyékolnunk, ha "házon kívül" tartózkodunk.
+
+A kijelzõ alatt kaptak a funkciógombok, illetve a négy irányba billenthetõ navigációs gomb, szerencsére ezek mindegyike kellõen nagy, a mellényúlás tehát kizárt. Legalul a teljes QWERTY billentyûzet terpeszkedik, ezzel viszont nemigen voltam kibékülve. Mivel a gombok felülete erõsen domborított (mintha csak apró katicabogarak lennének), eleinte könnyen lecsúszott róluk az ujjam, pedig nem különösebben nagyok vagy vastagok. A saját Sony Ericsson P990i-m billentyûzetét sokkal kényelmesebbnek gondolom, pedig azon a gombok még kisebbek is. QWERTY-billenytûzetes okostelefont használó barátaim ugyanakkor nem panaszkodtak a Treóra, lehet hogy csak számomra volt szokatlan a P990i után.
+
+Ezeken kívül még összesen négy gomb található a Treo 500-on, mégpedig a bal élén. A két felsõ a hangerõt növeli, illetve csökkenti, a legalsó pedig a webböngészõt indítja el. Ezek a funkciók fixen rá vannak "drótozva" a billentyûkre, legalábbis a Windows Mobile operációs rendszerben sehol sem találtam lehetõséget a megváltoztatásra. Egy tekerõ azért elfért volna a Treón, hogy egyszerûbb legyen a menük használata, vagy éppen a képernyõn megjelenõ dokumentumok görgetése, de anélkül is remekül használható a telefon. A gép felsõ élén van a ki-bekapcsoló gomb, de semmi más: ez az elsõ Treo, ahol elhagyták a vibráló módot aktiváló kapcsolót.
+
+
+2 megapixel, semmi fakszni
+
+
+Bár a gép szíve egy 412 MHz-es Marvell Xscale processzor, a Treo mégis lassúcska, a menük használatakor, a szoftverek indításakor kicsit sokáig gondolkodik. Ezt némileg ellensúlyozza, hogy a memóriája kimondottan bõséges, az összesen 256 megabájt tárból 150 áll a felhasználó rendelkezésére, amennyiben ebbõl kifut, microSD kártyával bõvíthet. A memóriakártya az akkumulátor alatt kapott helyet, így a cseréjéhez sajnos ki kell venni a hátlapot (nem egyszerû), és az 1200 mAh-s áramforrást. A készülék hátoldalán egyébként egy 2 megapixel felbontású kamera is helyet kapott, de annyira gyatra minõségû, hogy szót sem érdemel -- egy üzleti telefontól persze nem is elvárás a jó fényképezõ. Az elõlapon nincs kamera, így a videotelefonálásról is le kell mondanunk.
+
+Az óriási kijelzõ tálcán kínálja a lehetõséget, hogy a Treo 500-ból kiváló mobil multimédiás mindenes legyen. A nagy beépített memória, a microSD kártyás bõvíthetõség, valamint a Windows Mobile operációs rendszeren elérhetõ szoftverek széles tárháza mind ezt erõsítik, zenelejátszásra, filmnézésre is remekül használható az okostelefon. A headset/fülhallgató csatlakozója a készülék alsó élén kapott helyet, ugyanitt van a miniUSB aljzat, ahová az adatkábel, valamint a töltõ csatlakozik. Hasznos figyelmesség a Palmtól, hogy a Treo 500-hoz mellékelt hálózati adatpter lényegében minden országban használható, ugyanis többféle konnektorba (kontinentális Európa, Nagy-Britannia, Egyesült Államok) is bedugható, az utazó üzletembereknek tehát ezzel már nem kell törõdniük.
+
+Néhány szó az operációs rendszerrõl
+
+A gépen Windows Mobile 6 Standard operációs rendszer fut, ez az érintõképernyõt nélkülözõ készülékekre tervezett változata a Microsoft mobiltelefonos szoftverének. A telefonra elõre telepítve megtalálható minden fontos program, amire egy üzleti felhasználónak szükséges lehet (pl. Internet Explorer, Word, Excel, PowerPoint, PDF-olvasó), és szerencsére a platformra több ezer szoftver készült már, így van választék bõven üzleti alkalmazásokból, játékokból, mindenbõl. Sajnos egyes apróságokhoz szükség is lesz "third party" program használatára, mivel az operációs rendszer néha kicsit butácska, de ez már nem a Palm hibája (ilyen érthetetlen gyengeség például, hogy ébresztési idõpontból csak egyet tud tárolni a Windows Mobile 6 Standard).
+
+
+
+
+Elegáns
+
+Alapállapotban a kijelzõn az utoljára indított szoftverek, a dátum, a következõ naptárbejegyzés, az elvégzendõ feladatok, a beérkezett üzenetek száma, valamint az éppen aktív csengetési profil látszanak -- illetve igény szerint a Microsoft Live Search keresõmezõje. A kissé butácska shellt érdemes egy fejlettebbre cserélni, amelyen még több információt érhetünk el, mivel a Windows Mobile 6 Standardnak ezt a részét nemigen lehet testre szabni, csak a színeket és a témákat cserélhetjük. Jó lett volna, ha a kedvenc szoftvereink parancsikonjait folyamatosan az indítóképernyõn tarthattuk volna, erre azonban nincs lehetõség -- gyorstárcsázó gombot ugyanakkor rendelhetünk hozzájuk.
+
+Az is furcsa volt nekem, hogy az alkalmazásokat tartalmazó menüben a programok sorrendjét nem változtathatjuk meg, elõször a gyári szoftverek következnek, majd az általunk telepítettek, szigorúan a telepítés sorrendjében. További nagy fájdalmam, hogy a telefon semmilyen formában nem figyelmeztet az új üzenetekre, vagy az elmulasztott hívásokra, ezekrõl csak akkor szerzünk tudomást, ha megnézzük a kijelõt. Jó lett volna, ha esetleg a töltésjelzõ LED villogtatásával a felhasználó tudtára adná a Treo: "hé, figyelj rám, üzeneted jött!". 
+
+A windowsos okostelefonok legnagyobb erénye a bõséges szoftverellátottság mellett a szoros integráció a Microsoft többi termékével, például az Office komponenseivel, vagy akár más szoftverekkel. Szinkronizálhatjuk naptárunkat, leveleinket, határidõnaplónkat, akár még a böngészõ könyvjelzõit is, de ezek ma már minden okostelefonban alapfunkciók. A windowsos készülékek viszont számos apró, de hasznos trükköt tudnak, például ha a beépített naptár szerint éppen üzleti tárgyalásunk vagy más elfoglaltságunk van, arra az idõre automatikusan a vibráló hívásprofilt aktiválja a Treo, így aztán akkor sem csörren meg, ha véletlenül elfelejtettük lenémítani. Az is tetszett, hogy a címtárból mindössze egyetlen kattintással elérhetõ az adott személy térképe az elõre telepített Google Mapsben.
+
+Szerettük
+
+A Palm Treo 500 a nálunk töltött egy hét alatt egy jól összerakott, kényelmesen használható okostelefonnak bizonyult. A Windows Mobile operációs rendszer néha kicsit butácska ugyan, de a hiányosságait utólag telepített szoftverekkel nem csak egyszerûen ellensúlyozni lehet, hanem lényegében bármit ki lehet hozni belõle, amit csak egy okostelefon tudhat. Nagyon megszerettük a Treót, és bátran ajánljuk mindenkinek, aki egy "normális méretû" windowsos készüléket keres, és nem hiányzik neki a villámgyors HSDPA vagy a Wi-Fi. 
+
+Tipp: A telefonhoz csak egy "gyorstalpaló" felhasználói kézikönyvet mellékelnek, a teljes útmutatót az ActiveSync-et és az Outlook 2007 próbaváltozatát is tartalmazó CD-rõl érhetjük el. Érdemes jól áttanulmányozni, mivel számos olyan trükköt ismerhetünk meg, amelyre magunktól valószínûleg sose jönnénk rá. A termékrõl a palm.com oldalon egyébként említést sem tesznek, információkért az európai Palm-oldalt kell felkeresni.
+
+Véleménye van?
+szóljon hozzá a fórumban
+írjon szerkesztõségünknek!

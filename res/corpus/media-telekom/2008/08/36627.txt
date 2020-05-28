@@ -1,0 +1,14 @@
+Egyszerûen N-esíthetjük Wi-Fi hálózatunkat a NetGear készletével
+
+Bármilyen vezeték nélküli vagy vezetékes routerhez, gatewayhez utólag hozzákapcsolható a NetGear Wireless-N HD Access Pointja, amely a 802.11n szabványtervezetnek megfelelõ sebességû vezeték nélküli hálózatot hoz létre az 5 GHz-es frekvencián.
+
+
+
+A gyártó szerint ebben a tartományban kisebb az interferencia valószínûsége, ezáltal nagyobb lehet az adatátviteli sebesség, stabilabbak a kapcsolatok. Az eszköz access pointként is bridge-ként is mûködhet, vezeték nélküli összeköttetést biztosítva játékkonzolok vagy szórakoztató berendezések számára. A hat antennával ellátott Wireless-N HD Access Pointtal egy meglevõ 802.11b/g szabványú hálózat is kibõvíthetõ. Ekkor a kompatibilis eszközök a lehetõ legnagyobb Wireless-N sebességgel csatlakoznak, miközben a régebbi notebookok vagy más berendezések számára megmarad a 802.11b/g hálózat.
+
+A 23 ezer forintos ajánlott áron kapható Wireless-N Upgrade Kit része egy kétsávos (2,4/5 GHz), USB-s RangeMax Dual-Band Wireless-N Adapter, amely a 802.11b/g hálózatok mellett az 5 GHz-es Draft-N vezeték nélküli hálózatokkal is szót ért. Az egyszerû csatlakozás érdekében a Wireless-N Upgrade Kit mindkét tagja WPS (Wi-Fi Protected Setup) kompatibilis, vagyis a felhasználóknak nem kell jelszavakat és titkosítási kulcsokat fejben tartaniuk, egyetlen gombnyomással csatlakozhatnak a hálózathoz.
+
+
+  A vezeték nélküli számítógépes kommunikációs szabványokat kidolgozó Wi-Fi Alliance májusban fogadta el a 802.11n szabvány 4.0-s tervezetét, a korábbiaknál gyorsabb és nagyobb hatótávolságú vezeték nélküli adatcserét szavatoló technológia példátlanul hosszú ideig tartó fejlesztése tehát lassan a finishez közeledik. A végleges 802.11n szabványra épülõ elsõ eszközök azonban így is csak jó másfél év múlva jelenhetnek meg.
+
+A szabványosítási hercehurcáktól függetlenül is ugrásszerûen nõtt a kereslet a 802.11n szabvány egy évvel ezelõtt publikált, 2.0-s tervezetével kompatibilis eszközök iránt, így az idei esztendõben értékesített Wi-Fi chipsetek mintegy fele megfelel majd az új szabvány tervezetének. Az ABI piackutató elõrejelzése szerint öt év múlva a Wi-Fi eszközök 90 százaléka fogja támogatni az új -- addigra vélhetõen már teljesen kiforrott és véglegesített -- szabványt.

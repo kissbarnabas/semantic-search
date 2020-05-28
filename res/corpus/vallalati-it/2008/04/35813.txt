@@ -1,0 +1,20 @@
+Az IT-vezetõk többségének fogalma sincs, mihez kezdjen a növekvõ energiaéhséggel
+
+Az informatikai vezetõk közel fele hamarosan kifut a rendelkezésre álló helybõl, hûtési kapacitásból vagy energiabüdzsébõl -- derül ki egy friss felmérésbõl. Az eredmények egybeesnek a korábbiakkal, és megerõsítik, hogy az IT-eszközök elszabaduló fogyasztásának gátat kell vetni.
+
+
+
+Sokat spórolhatnának -- mégsem teszik
+
+A Business Performance Management Forum által elvégzett felmérés során 150 informatikai felsõvezetõt kérdeztek meg az adatközpontjuk üzemeltetésének körülményeirõl. Aggasztónak tûnik, hogy a válaszadók háromnegyede 3-ast, vagy annál rosszabb osztályzatot adott saját cége energiatakarékosságára, a megkérdezettek közel kétharmada pedig azt állította, egyelõre nincsenek környezettudatos terveik az adatközpontokat illetõen, noha a válaszadók fele mondta, hogy a szervezeténél nõtt az energiafogyasztás az elmúlt évben, az áremelkedés ellenére is.
+
+
+ A BPM Forum vezetõje, Derek Kober szerint meghökkentõen nagy az eltérés az IT-vezetõk gondolatai is tettei között. "Az energiaárak az égbe szöknek, mint ahogy az adatfeldolgozás költségei is. Mégis, a cégek kétharmadának nincs terve arra nézve, mit kezdjen a növekedõ energiaéhséggel" -- mondta Kober a Techworld magazinnak, hozzátéve, hogy az informatikai vezetõk még mindig nem ismerték fel az energiatakarékos technológiák jelentõségét. "Az ilyen és ehhez hasonló tanulmányok egyik célja az, hogy felhívjuk a figyelmet a problémákra."
+
+A megkérdezettek közel 20 százaléka évente legalább 1 millió dollárt költ energiára, 8 százaléknál pedig 10 millió dollárnál is magasabb a villanyszámla. A tanulmány alapján egy környezetbarát, energiatakarékos adatközpont üzemeltetése nem jár többletköltséggel, hosszú távon a "zöld" technológiák komoly megtakarítást jelentenek. A válaszadók több mint 20 százaléka úgy becsülte, évente legalább 100 ezer dollárt takaríthatna meg a szerverek és tárolók mûködtetésére és hûtésére fordított energiaköltségen, de a megkérdezettek 6 százaléka évi 1 millió dollárnál is többet spórolhatna saját bevallása szerint.
+
+Megállíthatatlanul nõ a fogyasztás
+
+Egy 2007 elején nyilvánosságra hozott kutatás szerint 2005-ben világszerte 14 millió kilowattot tett ki a világ adatközpontjaiban található szerverek és tárolók, valamint a hûtésükrõl gondoskodó berendezések összfogyasztása, ami 7,2 milliárd dolláros költséget jelentett az üzemeltetõknek.  A növekedést elsõsorban a használatban lévõ szerverek számának emelkedése magyarázza. Az energiafelvétel öt év alatt megduplázódott, ez alapján 2006-ban az összesített villanyszámla meghaladhatta a 8 milliárdot. Az IDC szerint csak az amerikai adatközpontok összfogyasztása akkora, hogy öt atomerõmû teljes kapacitása kellena a táplálásukhoz.
+
+A gyártók és szállítók különféle módszerekkel kísérleteznek annak érdekében, hogy a lehetõ leginkább takarékos berendezésekkel rukkoljanak elõ. Az erõfeszítések a hardverek minden területét érintik, legyen szó akár nagyobb hatásfokú tápegységekrõl, az erõforrásokat jobban kihasználó processzorokról, alacsonyabb feszültségen mûködõ memóriákról, vagy akár a terheléstõl függõen lassabban pörgõ merevlemezekrõl. Egy amerikai startup nemrégiben bejelentette, hogy 50 hajóból álló flottát tervez a vízre bocsátani, amelyek adatközpontokat tartalmaznak majd, a cég szerint ezek környezetbarátabbak lehetnek az épületekben üzemelõ társaiknál.

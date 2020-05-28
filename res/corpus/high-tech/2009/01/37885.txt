@@ -1,0 +1,20 @@
+Helymeghatározáson alapuló személyi biztonsági rendszeren dolgozik a Nokia és a Securitas
+
+Többek közt a veszélyeztetett, vagy magukat fenyegetve érzõ személyek védelmét szolgálja az a mobiltechnológiára és mûholdas helymeghatározó rendszer (GPS) elegyére épülõ szolgáltatás, melyet a Nokia és a svéd biztonsági cég, a Securitas közösen fejleszt. 
+
+
+
+Több mint segélyhívó
+
+A két cég elképzelései szerint a személybiztonság a GPS-vevõvel ellátott mobiltelefonok által nyújtott nyomkövetõ funkciókkal új szintre emelhetõ, így gyorsabban érkezhet segítség a krízishelyzetben, de a rendszer segít megkeresni a legközelebbi barátot, hozzátartozót, vagy a csellengõ gyereket is. A szolgáltatás a késõbbiekben az igényeknek és a lehetõségeknek megfelelõen ezeken túl újabb komponensekkel is bõvíthetõ majd.
+
+Az év elsõ felében elindul Svédországban a Securitas és a Nokia együttmûködésében készülõ Safe-2-Go szolgáltatás, melynek alapját egy GPS-vevõvel ellátott, Symbian Series 60-alapú mobiltelefon és egy erre fejlesztett alkalmazás adja a személy- és vagyonbiztonságban, valamint biztonságtechnikában utazó Securitas közleménye szerint. A rendszer a hagyományos, telefonos segélyhívó szolgáltatások alapjaiból indul ki, azonban ezeknél jóval hatékonyabban képes a segítségnyújtásra, köszönhetõen az alany, vagy alanyok mûholdas helymeghatározásából adódó, automatikusan közvetített többletinformációknak.
+
+Segítség kérdés nélkül
+
+A Safe-2-Go kezdetben négy alapszolgáltatásból áll majd. Ezek közül az Assist hasonlít leginkább a hagyományos segélykérõkhöz: a veszélybe került személy itt egy gombnyomással kérhet segítséget a Securitas biztonsági központjától, mely a szokásos, vészhelyzetekben kritikus rutinkérdések nélkül értesül arról, hogy ki a segítségkérõ, pontosan hol tartózkodik, illetve adott esetben kiket (családtagok, barátok stb.) kell értesítenie a biztonsági cégnek.
+
+
+A Find szolgáltatás egy bizonyos hozzátartozó, ismerõs vagy barát aktuális helyzetének felkutatásában segíti a Safe-2-Go használóját -- természetesen annak beleegyezésével --, míg a Zone funkció automatikus SMS-értesítést küld arról, ha egy kijelölt személy belép valahová vagy elhagy egy megjelölt zónát. Ez a szolgáltatás leginkább a gyermekeikért aggódó szülõk számára lehet hasznos, akik a Zone segítségével automatikus tájékoztatást kapnak arról, hogy csemetéjük beért az iskolába, vagy éppen hazaérkezett. Az utolsó, Friends névre keresztelt szolgáltatás hasonlít a fentebb tárgyalt Find-hez, azzal a különbséggel, hogy nem egyetlen személyhez köthetõ, hanem az összes barát helyzetét felvázolja.
+
+A Nokia és a Securitas Safe-2-Go rendszerét idén több európai országban is bevezetik. Azt egyelõre nem tudni, hogy mely országok csatlakoznak Svédországhoz 2009-ben, illetve arról sincs információ, hogy milyen konstrukcióban és mennyi pénzért lesz majd elérhetõ a szolgáltatás.

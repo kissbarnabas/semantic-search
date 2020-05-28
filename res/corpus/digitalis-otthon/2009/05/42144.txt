@@ -1,0 +1,17 @@
+ATI Radeon az ASUS új netbookjában
+
+Az ASUS Eee PC 1000HV a 256 megabájt saját memóriával ellátott ATI Mobility Radeon HD 3450 videochippel lép túl a netbookokban általánosan elterjedt integrált Intel vezérlõk szerény teljesítményén, így élvezhetõbb 3D-megjelenítést, valamint folyamatos HD-videolejátszást kaphatunk. Az 1000HV-ben az erõs videochipnek egy 1,66&nbsp; Intel Atom N280 processzor a párja, de a beltérben még 1 gigabájt memóriát, valamint 160 gigabájtos merevlemezt is találunk.
+A Radeon HD 3450 az RV620 kódnevû chipre épül, mely 40 végrehajtóegységet
+és 64-bites DDR2 illetve GDDR3 memóriavezérlõt alkalmaz. A chip natívan
+támogatja a DisplayPort és DVI kimeneteket, kiegészítõvel a HDMI-t is,
+valamint 1080p felbontású h.264 és VC-1 videók dekódolását is elvégzi
+az integrált Unified Video Decoder révén. A lapka a modern játékok futtatására kevéssé alkalmas, megcélzott felhasználási területéne inkább a videolejátszás és a Vista/Windows 7 grafikus felületének megjelenítése.
+
+A 10,1 hüvelykes, 1024x600 képpontos kijelzõvel ellátott, 266x38x191 1000HV egyébként külsõre majdnem megegyezik az Intel vezérlõvel szerelt 1000HA modellel, külsõre talán a billentyûzet árulhatja el a különbséget, a tapipad pedig támogatja a többujjas vezérlést is. Az 1000HV rendelkezik Bluetooth 2.0 adóvevõvel, hálózati kapcsolatokat pedig vezetékes és 802.11n vezeték nélküli hálózati csatolóval egyaránt ki lehet építeni. Az ASUS netbookja kártyaolvasót is kapott, ami az SD/SDHC, illetve MMC formátumokkal ért szót. A netbook kijelzõjének kávájában egy 1,3 megapixeles webkamera néz a használóval farkasszemet, USB-csatlakozós perifériákból egyszerre hármat fogadhat. Hiába a HD-lejátszásra is alkalmas videovezérlõ, külsõ megjelenítõt csak VGA-kimenetre kapcsolhat a felhasználó, HDMI- vagy DVI-port sajnos nincs a gépben.
+
+
+
+
+
+
+ A gép 6 cellás akkumlátora maximum 5 órán keresztül adhat áramot. Az Eee PC 1000HV árát az ASUS hivatalosan még nem közölte, de valószínûleg a 450 eurós ársávba érkezik a közeljövõben. A gép a júniusi Computexen várhatóan csoportosan bemutatkozó, NVIDIA Ion platformra épülõ netbookok ellenfele lehet. Az Iont még tavaly õsszel jelentette be az NVIDIA, azonban eddig egyetlen netbookban sem láthattuk, piaci pletykák szerint a legnagyobb tajvani informatikai seregszemlén várható az elsõ fecskék megjelenése.

@@ -1,0 +1,20 @@
+Likviditási zavarba került és vevõt keres az ultramobil PC-irõl ismert OQO
+
+[WSJ/HWSW] Vevõt keres a pénzzavarba került OQO, amely apró számítógépeivel vált ismertté. A cég története azonban hamar véget érhet, a hírek szerint az OQO Model 2+ gyártása még el sem kezdõdött, mikor több forgalmazó visszamondta a rendelést a várható kereslethiány miatt. 
+
+
+
+A 2000-ben alapított OQO elõször 2002-ben hallatott magáról, amikor a Windows Hardware Engineering Conference-en bemutatta kéziszámítógép-méretû, de teljes értékû, Windows XP-t futtató PC-jét, amely Transmeta Crusoe TM5800 processzorra, 10 gigabájtos merevlemezre és 256 megabájt memóriára épült. A készüléket FireWire és USB csatlakozókkal is ellátták és vezeték nélküli kommunikációs képességekkel (Wi-Fi, Bluetooth) is felvértezték. A 4 hüvelykes kijelzõvel rendelkezõ OQO Model 01 végül csak 2004 végén mutatkozott be a piacon.
+
+OQO Model 01
+
+Az OQO elgondolása az volt, hogy az aprócska windowsos PC-k jóval többre képesek mint a hasonló méretû PDA-k, ráadásul nem lépnek fel adatszinkronizációs kérdések és az állományokat sem kell konvertálni. A gondtalan használatnak csak az akkuidõ szab gátat, az OQO-t 3 óra után töltõre kell tenni, egy PDA még viszonylag intenzív használat mellett is kibír egy napot. A Model 01 ára megközelítette a 2000 dollárt, egy akkori csúcskategóriás PDA vagy okostelefon árának többszörösét kérték érte. 
+
+ Az OQO Model 01 sikerét erõteljesen visszavetette a késése, 2004-es piaci megjelenésekor a Crusoe processzor már elavultnak számított, igen lassúcska volt, a tesztelõk emellett panaszkodtak a kijelzõ gyenge fényerejére, az akkumulátoros üzemidõ rövidségére is. A takarékos processzor ellenére a gép melegedési problémákkal is küszködött. Miután a Transmeta kivonult a processzorpiacról, az OQO gépeibe az VIA alacsony feszültségû C7M chipjei kerültek, a 2007-ben bemutatott Model 02 már Vistát futtatott, 60 gigabájtos merevlemezzel és 1 gigabájtos memóriával rendelkezett, kijelzõjének mérete és felbontása is megnõtt az elõdhöz képest.
+
+
+ A legújabb, Model 2+ névre keresztelt változatot az idei CES-en mutatta be az OQO. Ez a gép már Atom processzorra épül és OLED megjelenítõt alkalmaz. A 2 gigabájtnyi rendszermemóriával szerelt Model 2+ háttértárként 40, 80, 120 gigabájtos merevlemezeket, vagy 32, illetve 64 gigabájtos SSD-t is tartalmazhat. Egyelõre nem tudni, valaha piacra kerül-e ez a változat, ugyanis a pénztelenség miatt kérdésessé vált a gyártása is, az OQO egyelõre annyi forrást sem tud elõteremteni, hogy beindítsa a tömegtermelést.
+
+OQO Model 2+
+
+Bob Rosin, az OQO értékesítési és marketing-vezetõje a Wall Street Journalnak elmondta, a vállalat igyekezett spórolni ahol csak lehetett, a recesszió azonban kirántotta a lába alól a talajt, sok megrendelést visszamondtak, sokat pedig késve fizettek ki, ami végül likviditási zavarokhoz vezetett. A vállalat most vevõt keres, a vezetõség szerint ugyanis csak így biztosítható az OQO túlélése. Hogy mely vállalatokkal folynak tárgyalások az eladásról, azt Rosen titoktartási nyilatkozatra hivatkozva nem árulta el. Korántsem biztos azonban, hogy sikerül vevõt találni, nem zárható ki, hogy a céget végül fel kell számolni.

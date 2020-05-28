@@ -1,0 +1,20 @@
+Feltámadtak a Radeonok a notebookpiacon
+
+[Jon Peddie Research/HWSW] Régóta nem látott negyedik negyedévet zárt a grafikus processzorok piaca, áll a Jon Peddie Research (JPR) jelentésében. A három vezetõ szállító mind talált magának erõsséget, miközben a kisebb szereplõk megszenvedték az elmúlt egy évet. 
+
+
+
+Évek óta nem látott magasságban a piac
+
+Hat éve nem mutatott olyan mértékû negyedéves növekedést a grafikus processzorok piaca, mint 2007 utolsó három hónapjában. Az utolsó negyedévben 106 millió videochip került leszállításra a JPR becslése szerint, ami 17 százalékkal haladja meg a harmadik negyedéves volument, míg éves szinten 27 százalékos a bõvülés nagysága. A negyedik negyedév hagyományosan erõsebb a harmadiknál, a szezonalitás mértéke azonban igen nagy változékonyságot mutatott az elmúlt évek során: 2006-ban például gyakorlatilag lapos volt, míg 2005-ben több mint 16 százalékos növekedést mutatott.
+
+Az Intel továbbra is magabiztos õrzi vezetõ helyét az összesített listán, amit természetesen rendkívül olcsó, a chipkészletbe integrált grafikus megoldásaival biztosít. A világ legnagyobb chipgyártója közel 44 millió darabot szállított le, 40 százalékkal többet 2006 végéhez képest, amivel 3,7 százalékponttal magasabb, 41,1 százalékos részedést szerzett meg. A második közel 10 százalékpontos lemaradással az NVIDIA, mely a legmagasabb ütemû növekedést produkálta. A vállalat 42,3 százalékkal több, 33,8 millió grafikus chipet értékesített a negyedév során, amivel 31,8 százalékra növelte részesedését.
+
+Az R600-architektúrára épülõ termékek nehezen indult felfuttatását követõen az AMD volumene megkapaszkodott, így enyhén a piaci ütem alatti bõvüléssel 24,2 millió chipen adott túl, ami 22,8 százalékos részesedést jelent, szemben az egy évvel korábbi 23 százalékkal. A piaci átlagot túlteljesítette a teljesen marginalizálódott Matrox, mely 110 ezer chipjével 0,1 százalékot tudhat magáénak. A három nagy grafikus szállító küzdelmét a SiS és a VIA szenvedte meg leginkább, melyek eladásai nagyjából felére estek vissza, így 1,9 és 2,3 százalékkal kellett beérniük.
+
+
+A negyedév során 66,8 millió darabos asztali szegmensben az Intel hajszállal visszavette a vezetést az NVIDIA-tól, 37,7-37,1 százalék arányban, mely viharos gyorsasággal szerezte meg az év során az elsõ helyet. Az átmeneti, nem kis siker annak köszönhetõ többek között, hogy az NVIDIA nagy teret nyert az AMD-vel szemben az asztali szegmensben, a nagyobb teljesítményû chipeket alkalmazó bõvítõkártyás piac kétharmadát kaparintva meg. Az NVIDIA nyomásának hatására az AMD 19 százalékra szorult itt vissza.
+
+Robbantottak a Radeonok
+
+A korábbi negyedévekhez képest ugyanakkor nagyban megváltozott azonban a dinamika a notebookpiacon, melynek nagysága 39,6 millióra rúgott. Az NVIDIA rohamos léptékben nyert teret az év során az Intellel szemben, az év elsõ 9 hónapjában 12 százalékponttal 32 százalékra növelve részesedését, míg az Intel eközben 10 százalékponttal 45 százalékra szorult vissza. A negyedik negyedév nagy befutója azonban az AMD, amit vélhetõen a nemrég bejelentett új , R600-családhoz tartozó Mobility Radeonok felfutó szállításai magyaráznak. Az AMD egy negyedév alatt több mint 8 százalékponttal 29,1 százalékra növelte részesedését, miközben az NVIDIA 22,8 százalékra esett vissza, miközben az Intel 46,8 százalékon tartotta magát.

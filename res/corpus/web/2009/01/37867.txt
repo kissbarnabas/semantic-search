@@ -1,0 +1,26 @@
+LotusLive: vállalati webkettõ az IBM-tõl
+
+Lotusphere konferenciáján az IBM bejelentette a LotusLive szolgáltatáscsomagot, amely egy hosztolt üzenetkezelõ, csoportmunka- és közösségi hálózati megoldás kimondottan vállalatok számára. A Nagy Kék a Microsoft Windows Live és a Google Apps területére igyekszik behatolni.
+
+
+
+Vállalati webkettõ
+
+A Lotus 1995-ös felvásárlásával az IBM lett a vállalati kommunikációs és kollaborációs megoldások egyik legnagyobb szállítója. A cég hagyományosan a nagyvállalatokat célozta meg termékeivel, azonban az elmúlt néhány évben a kis- és közepes cégek közül sokan vezettek be eredetileg fogyasztóknak szánt megoldásokat, mint amilyen például a Gmail és a Google Docs vagy éppen a Zoho. Az ilyen szolgáltatások elõnye, hogy leveszik az üzemeltetés terhét az ügyfél válláról, így akár informatikai kompetencia nélkül is használhatók.
+
+Erre ráébredve az IBM -- és persze a Microsoft is -- elmozdultak a szoftver-mint-szolgáltatás irányába, ráérezve arra trendre, hogy az e-mail, az üzenetküldés vagy éppen a csoportmunka-támogatás ma már nem jelentenek versenyelõnyt a cégeknek, hanem olyan alapszintû szükségletté váltak mint az áram, a víz vagy a fûtés. A felhasználók egyáltalán nem akarnak törõdni tehát a levelezés mûködtetésével, viszont elvárják, hogy a nap 24 órájában folyamatosan rendelkezésükre álljon.
+
+A "fogyasztói internet" korszakának fontos vívmánya a közösségi hálózat, amelyet a cégek is egyre nagyobb elõszeretettel használnak a mindennapi munkavégzéshez. A közösségi hálózatok által biztosított szolgáltatások ugyanis elõsegítik a cégen belül a hatékonyabb kommunikációt -- a dolgozók egyszerûen oszthatnak meg információkat, illetve nyomon követhetik, hogy mások éppen mivel foglalkoznak. A LotusLive lehetõvé teszi egy vállalati közösségi hálózat létrehozását a megfelelõ biztosági szintekkel és jogokkal.
+
+A LotusLive részei
+
+A LotusLive Notes (korábban Lotus Notes Hosted Messaging) egy hosztolt e-mail szolgáltatás, amelyhez az asztali gépre telepített Notes klienssel lehet csatlakozni. A megoldás elõnye, hogy a vállalatnak nem kell foglalkoznia a levelezõszerver üzemeltetésével, mentésekkel, archiválással, ezekrõl az IBM gondoskodik. A hamarosan érkezõ LotusLive iNotes lehetõvé teszi, hogy telepített Notes nélkül, egy webböngészõn keresztül is elérhessék a leveleiket a felhasználók, bárhol is vannak.
+
+
+ A csoportmunkát támogató szolgáltatások a LotusLive Engage csomagban érhetõk el. Itt megtalálhatjuk az együttmûködéshez szükséges eszközöket, például a közösségi teret, dokumentum- és fájlmegosztást, projektkezelõt, ûrlap- és grafikonszerkesztõt, illetve azonnali üzenetküldõt is, valamint egy webkonferencia-alkalmazást. A LotusLive Connections az Engage funkcióit kínálja, kivéve a webkonferenciát és az alkalmazásmegosztást.
+
+A LotusLive csomag része még a Meetings, amely korábban Lotus Sametime Unyte Meeting néven szerepelt az IBM kínálatában. A Meetings segítségével web-, hang- és videokonferenciák tarthatók, amelyek során a résztvevõk megoszthatnak egymással dokumentumokat vagy akár alkalmazásokat (screencast), illetve rögzíthetik is az eseményt. A LotusLive Events a Meetings funkcióin felül olyan szolgáltatásokat kínál mint a meghívók és emlékeztetõk kiküldése az eseményre, a regisztrációk kezelése, illetve az események utólagos követése.
+
+Együttmûködés másokkal
+
+A LotusLive teljesen nyílt szabványokra alapul, ezért egyszerûen integrálható más alkalmazásokkal. A Lotusphere-en az IBM több új együttmûködést is bejelentett, többek között a Skype-pal, a LinkedInnel, illetve a Salesforce.com-mal. Az együttmûködések keretében ezek a cégek lehetõvé teszik saját megoldásaik integrálását a LotusLive-val. A Skype-pal kötött megállapodás például lehetõvé teszi, hogy a LotusLive felhasználói a beépített eszközöket használják arra, hogy Skype-on keresztül üzenetet küldjenek ismerõseiknek vagy felhívják õket.

@@ -1,0 +1,12 @@
+Hét kritikus Windows-hibára jön holnap javítás, ebbõl három a Media Playert érinti
+
+Hét kritikus biztonsági frissítés és további öt ajánlott javítás jelenik meg holnap a Microsoft különbözõ frissitõszolgáltatásain, a Windows Update-en, a Microsoft Update-en és a Windows Server Update Services-en -- tájékoztatta a felhasználókat a szoftvercég múlt héten kiadott, szokásos patch-kedd elõrejelzésén.
+
+
+
+A kritikus frissítések közül három a cég médialejátszó alkalmazását, a Windows Media Player 11 különbözõ platformokra írt változatait frissíti, ezen kívül az Internet Explorerhez és az Office programcsomag különbözõ komponenseihez is érkezik kritikus javítás. A Microsoft a hét kritikus frissítésen kívül további öt fontos frissítést is közzétesz, egyebek mellett az Outlook Expresshez, a Messenger szolgáltatáshoz és az Office irodai programcsomaghoz.
+
+
+A szoftvercég ezúttal a szokásosnál is kevesebb részlettel szolgált az augusztus második keddjén megjelenõ programfrissítésekrõl, biztonsági javításokról. Ez a gyakorlat õsztõl jelentõsen változhat: a Microsoft a múlt heti Black Hat biztonsági konferencián több olyan kezdeményezést is bejelentett, mely a késõbbiekben a hatékonyabbá tennék a redmondi cég, a biztonsági szoftvereket gyártó cégek és az üzleti végfelhasználók közti kommunikációt.
+
+Az õsszel induló Active Protection Program lényege, hogy a hibajavításokkal kapcsolatos részletes információk még a "patch kedd" elõtt elérhetõvé válnak a biztonsági cégek számára, ezáltal azok meg tudják kezdeni a felkészülést a sérülékenységek azonosítására és elhárítására, mielõtt még a bûnözõk megírnák a sebezhetõségeket kihasználó kódokat. "A Microsoft célja az Active Protection Programmal, hogy a védelmet fejlesztõ biztonsági cégek elõnnyel induljanak a versenyben" -- mondta el a múlt héten a Black Hat biztonságtechnikai konferencián Andrew Cushman, a Microsoft Security Response and Outreach Team vezetõje.

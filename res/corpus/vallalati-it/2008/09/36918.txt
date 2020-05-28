@@ -1,0 +1,16 @@
+Két új professzionális grafikus vezérlõ az AMD kínálatában
+
+Két újabb, professzionális felhasználóknak készült videokártyával egészült ki az AMD augusztusban bemutatott FirePro termékvonala. Ez a termékcsalád az évek óta piacon lévõ FireGL vezérlõkhöz hasonlóan professzionális felhasználásra, elsõsorban CAD- és DCC-környezetekhez készült -- a kínálatba most egy alsó-középkategóriás és egy csúcskategóriás videokártya érkezett.
+
+
+
+Az új modellkínálat csúcsát mostantól az ATI FirePro V8700 jelenti: a kártyára a kommersz szegmensbe szánt Radeon HD 4870-es vezérlõknél is alkalmazott RV770XT grafikus processzort építi a gyártó -- a 55 nanométeres gyártástechnológiával készülõ chip 800 stream egységet tartalmaz, melyekbõl 160 komplex, 640 pedig egyszerû mûveleteket végez. A FirePro V8700 grafikus feldolgozóegysége 256 bit szélességû, 108,8 GB/másodperces sávszélességû memóriabuszon keresztül kommunikál az 1 gigabájtnyi GDDR5 chipekbõl álló képpufferrel. A csúcskategóriás professzionális vezérlõ a Dual-link DVI és a két DisplayPort kimeneten kívül sztereó 3D-kimenettel is rendelkezik.
+
+Ennél jóval szerényebb teljesítményû, ugyanakkor a korábbi belépõszintû modelleket alaposan helybenhagyó grafikus feldolgozási sebességre képes az ATI FirePro V3750, melyet egy 320 feldolgozóegységet felvonultató grafikus chippel és a hozzá kapcsolt, 256 gigabájtnyi, a grafikus processzorhoz 64 bites adatsínen csatlakozó GDDR3-memóriával lát el az AMD. Az ATI FirePro V3750 az elsõ professzionális videokártya a kategóriájában, melyen a szokásos Dual-link DVI-kimeneten kívül két DisplayPort csatlakozó is található.
+
+ATI FirePro V8700
+
+
+A két új FirePro videokártya egyaránt teljes DirectX 10.1 és OpenGL 2.0 kompatibilitást nyújt, eltérõ teljesítményszegmensben. A nagyobb tudású modell -- akárcsak a korábban bejelentett FirePro V5700 -- a h.264 és VC-1 kódolású nagy felbontású videók dekódolásába is besegít a kommersz piacra szánt kártyákban is megtalálható Unified Video Decoder 2 (UVD 2) algoritmus által.
+
+Az AMD két új FirePro gyorsítókártyája a negyedik negyedévben jelenik meg a gyártó kínálatában. A nagyobb tudású modellért cserébe 1499 dollárt kérnek majd, a belépõszintû változat pedig 199 dollárba kerül majd. A cég jelenleg két FirePro videokártyát szerepeltet a kínálatában: az augusztus elején bejelentett FirePro V3700 és FirePro V5700 rendre 99 és 599 dollárba kerül.

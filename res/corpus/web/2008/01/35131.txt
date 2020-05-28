@@ -1,0 +1,14 @@
+Képzett, ám munka nélküli programozók írják a kártevõket
+
+Napjainkban a netes bûnözõk többsége Oroszországban, Kínában és Dél-Amerikában tevékenykedik, de az F-Secure elõrejelzése szerint az elkövetkezõ öt évben Afrikában, Indiában és Közép-Amerikában is komolyan felvirágzik ez a tevékenység, elsõsorban az állástalan informatikusok, programozóknak köszönhetõen.
+
+
+
+Az F-Secure feltérképezte a hálózati bûnözésben 1986 óta megfigyelhetõ változásokat. Az elsõ, 1986 és 2003 között eltelt korszakra az F-Secure szerint az a jellemzõ, hogy a kártevõket hobbiból írták olyan ártó szándékú felhasználók, akik hírnévre szerettek volna szert tenni. Az ezt követõ idõszakban a "szabadidõs" tevékenységet felváltották a célzott támadások, amiket már profik hajtottak végre, a pénzre utazva. 2003 után új, kártékony kódok elõállításával foglalkozó gócpontok alakultak ki a volt Szovjetunió területén, de Brazília és Kína is jelentõs szerepet játszik az elektronikus bûnözésben. Ezekben az országokban sok, magasan képzett informatikai szakember él, akiknek nem jut munkalehetõség -- számukra az online bûnelkövetés jövedelmezõ lehetõséget kínál az anyagi felemelkedésre.
+
+
+ Mikko Hyppönen, az F-Secure kutatási vezetõje szerint a kártékony kódok termelésével foglalkozó gócok kialakulását különféle társadalmi és gazdasági okok magyarázzák, és ezek közül legfontosabb a munkalehetõségek szûkössége. "Az utóbbi néhány évben a fejõdõ piacok nethasználatának növekedése fantasztikus méreteket öltött, Brazíliában az elõfizetõk száma már meghaladja a kétmilliót. Ezzel egyidejûleg a számítógépes bûnözés 2003 óta felszálló ágba került, akár Brazíliát, Kínát vagy a volt Szovjetunió országait tekintjük."
+
+Az internetnethasználat bõvülésének üteme jelenleg Ázsiában a leggyorsabb -- Kínában percenként 200-an csatlakoznak a netezõk táborához --, a második helyen Afrika áll. Az informatikai munkahelyek számának növekedése azonban nem követi ezt a tempót, ami a korábban már említett okok miatt teret nyit az online bûnözõknek, ezért új bûnözõi csoportok megjelenése várható. A világháló és az internetes szolgáltatások terjedését ráadásul az országok joggyakorlata csak késve tudja követni, ezért az F-Secure szerint azok a számítógépes bûnözõi csoportok, amelyek például politikai instabilitással küzdõ országokban mûködnek, könnyen elkerülhetik a  felelõsségrevonást.
+
+"Ez a trend folytatódni fog, és hatása olyan területekre is kiterjed mint Afrika, India vagy Közép-Amerika" -- jósolja Hyppönen. "Ennek egyik oka, hogy az említett térségekben kevés informatikai munkahely áll rendelkezésre. Sokan szereznek magas szintû számítástechnikai ismereteket, de csak ritkán van lehetõségük ezeket legális jövedelemszerzésre felhasználni."  Az F-Secure-nál úgy látják, a jövõben az internetes bûnözés még kifinomultabbá válik, valószínûleg egyre inkább növekedni fog a szoftverekben található sebezhetõségekre alapozó kódok (exploitok), és a célzott támadások jelentõsége. 

@@ -1,0 +1,15 @@
+Kipróbálható az ingyenes, böngészõben futó Photoshop Express
+
+[HWSW/www.szoftver.hu] Az Adobe bejelentette a Photoshop család legújabb tagját, az Adobe Photoshop Express online képszerkesztõ szoftvert. Az ingyenes, platform-független, böngészõben futtatható alkalmazás az Adobe Flex technológiára épül, melynek megjelenítéséért az igen népszerû Flash-plugin felel.
+
+
+
+A Flash-plugin széleskörû elterjedtsége biztosítja, hogy a népszerû képszerkesztõ közel minden internetre kapcsolódó számítógépen elérhetõ legyen. Az ingyenes regisztrációt követõen 2 gigabájtnyi tárhely áll a felhasználó rendelkezésére. A szoftver egyelõre csak alapvetõ szerkesztési mûveleteket kínál fel, többek között hibakorrigálás, vörös-szem eltávolítás, fekete-fehérré alakítás, kivágás, átméretezés, és egyszerûbb effektusok érhetõk el. Az átlátható kezelõfelületet a laikus felhasználók is könnyen használhatják.
+
+
+A munkát vizuális elõnézeti képek segítik, amelyek megmutatják, hogyan fog kinézni a kép a kiválasztott eszköz alkalmazása után. A Photoshop Express sokféle lehetõséget kínál a képek megosztására, az Adobe szerverén tárolt képekbõl nyitott, bárki számára elérhetõ galéria is létrehozható, de a fotók közösségi oldalakra, vagy blogokra is küldhetõk, úgy, hogy nem kell elhagyni az alkalmazás kezelõfelületét.
+
+
+
+A 
+kipróbálható Photoshop Express jelenleg nyilvános bétafázisban van, a végleges verzió megjelenése késõbb várható. Az Adobe várja a felhasználók visszajelzéseit, tapasztalatait, kéréseit az online szoftverrel kapcsolatban. Az alkalmazás minden olyan eszközön futtatható, amely rendelkezik internetkapcsolattal és a böngészõkbe (Internet Explorer, Firefox, Opera, Safari) beépülõ, Flash-pluginnel. A szoftver egyelõre csak angol változatban érhetõ el, de az Adobe más nyelvi verziókat is tervez.

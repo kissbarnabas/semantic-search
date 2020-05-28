@@ -1,0 +1,31 @@
+Magyarországra is megérkezett a Norton 360 legújabb változata
+
+Magyarországon is bemutatkozott a Symantec kimondottan otthoni átlagfelhasználóknak szánt biztonsági megoldása, a Norton 360 legújabb verziója. A termék 3.0 változata az Antivirus 2009-re, illetve az Internet Security 2009-re épül, a vállalat szerint gyorsabb a korábbiaknál, kevesebb erõforrással is beéri, emellett hasznos új szolgáltatásokkal is gazdagodott.
+
+
+
+A 2009-es generáció génjeit örökölte
+
+Az alapok azonban nem változtak, a Norton 360 továbbra is egy átfogó otthoni biztonsági termék, ami a szokásos vírusvédelmen, spamszûrõn, phishing-szûrõn és kártevõvédelmen kívül tûzfalat is tartalmaz, emellett biztonsági mentéseket is végez valamint karbantartja a PC-t anélkül, hogy a felhasználónak mélyen értenie kellene a rendszerbeállításokhoz. A 3.0 változat egyik fõ újdonsága, hogy képes tevékenységét teljesen "csendben" végezni -- a vállalat szerint ez elvárás volt a felhasználók részérõl.
+
+Korábban a Norton 360 és a Norton Internet Security eltérõ kódbázisra épültek, a Norton 3.0 azonban ugyanarra a kódra épül mint a Norton Internet Security 2009, ennek köszönhetõen kevés erõforrással beéri. Con Mallon, a Symantec fogyasztói termékekért felelõs európai vezetõje elmondta, a Symantes support-csapatához havonta mintegy 1 millió segélykérés érkezik. Ezen bejelentések alapján készült statisztikák szerint az otthoni PC-k több mint 70 százalékában 1 gigabájt vagy annál kevesebb memória van, ezért kiemelten fontos a csekély erõforrás-használat. A korlátozott erõforrásokkal gazdálkodó netbookok terjedése miatt is fontos a szerepe annak, hogy a biztonsági termékek mennyire terhelik a PC-t -- fogalmazott Mallon.
+
+
+[+] Védtelenül hagyják a bootoló PC-t a 2009-es Norton-termékek
+
+Az Internet Security 2009-cel közös kódbázisnak köszönhetõen a Norton 360 gyorsult is az elõdökhöz képest, bár valószínûleg a sebességnövekedés ugyanazoknak a trükköknek köszönhetõ, amik biztonsági szempontból akár kockázatosnak is tekinthetõk. Korábbi tesztünk szerint a Norton Internet Security 2009 bootoláskor a gyorsabb indulás érdekében védtelenül hagyja a PC-t. Egy másik trükk a Norton Insight, ami -- vitatható módon -- vírusellenõrzésnél átugorja azokat az állományokat, amelyeket biztonságosnak vél. A vérrokonság további eredménye a "pulse update", amely azt jelenti, hogy a frissítések 5-15 percenként érkeznek, ezzel a Symantec minimálisra szorítja azt az idõt, amíg a felhasználók védtelenek egy frissen felfedezett kártevõ vagy más fenyegetés ellen. 
+
+Safe Web: biztonságban az internetezõ
+
+A fontos új szolgáltatások közé tartozik a Norton Safe Web megjelenése a termékben. Ez a szolgáltatás segít a felhasználónak kiszûrni a potenciálisan veszélyes weboldalakat és keresésnél vagy böngészésnél figyelmeztet ha valaki esetleg olyan oldalra akar kattintani, amelyrõl ismert hogy kártékony. A kártékony kódokat, például trójai programokat, jelszólopókat vagy billentyûfigyelõket terjesztõ oldalak ma már akár teljesen legális oldalak is lehetnek, a bûnözõk feltörik õket és saját kódjukat helyezik el rajtuk.
+
+
+ A Norton Safe Web nem csak az informatikai biztonsági szemmel aggályos oldalakat szûri ki, hanem például azokat az online üzleteket is, amelyek nem bánnak megfelelõen a felhasználói adatokkal vagy éppen hamisított termékeket árulnak. A Symantec rendszeresen frissíti a Norton Safe Web adatbázisát, amelyet egyébként maguk a felhasználók is alakíthatnak a saját észrevételeikkel, tapasztalataikkal.
+
+Okosabb biztonsági mentés, hatékonyabb rendszerkarbantartás
+
+A biztonsági mentéseket készítõ komponens is jelentõs fejlesztésen esett át, már támogatja a pendrive-okat és más hordozható adattárolókat is. Fontos újdonság, hogy a Norton 360-nal elkészített mentéseket már olyan számítógépre is vissza lehet állítani, amelyen nem fut a Norton 360. Az online mentések visszaállítása is egyszerûbbé vált, a Norton 360 3.0-ban minden backupot egy-egy meghajtóként lát a felhasználó. A mentésekkel kapcsolatos beállítások is egy áttekinthetõbb panelre kerültek, a felhasználónak csak meg kell adnia, mit, hová és mikor szeretne menteni. A Norton 360-hoz 2 gigabájtos online tárhely is jár, az adatokat ide is lehet akár menteni. 
+
+A szoftverrel finomhangolhatók a PC beállításai is, az új verzió például már lehetõvé teszi a felhasználók számára hogy áttekintsék és módosítsák az automatikusan elinduló szoftverek listáját, sõt, akár késleltetni is lehet a nem kulcsfontosságúakat, így elkerülhetõ a gépindításnál szokásos "tumultus". A Norton 360 korábbi változatait sok kritika érte a felhasználók és a média részérõl, hogy a tevékenysége teljesen észrevétlen, egyben láthatatlan is. Az új verzióban már nyomon követhetõ, pontosan mit is csinál a program, akár idõszakos jelentések formájában is. 
+
+A Norton 360 azonnal elérhetõ Magyarországon, az ára 18000 forint körül várható, ennyiért három PC-re is feltelepíthetõ a termék és egy éves ingyenes támogatás és frissítés jár hozzá.

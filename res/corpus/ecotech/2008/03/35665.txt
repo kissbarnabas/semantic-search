@@ -1,0 +1,16 @@
+Totális kudarccal és csalással vádolják az SAP-t egy projektje kapcsán
+
+[InformationWeek] Egy bevezetés totális kudarca és csalás miatt perbe fogta a világ vezetõ vállalatirányítási szoftverszállítóját, az SAP-t egy amerikai hulladékkezelõ vállalat. A Waste Management azzal vádolja a német szoftveróriást, hogy szándékosan megtévesztette annak érdekében, hogy elnyerje a hatalmas értékû, egyben kiváló referenciával kecsegtetõ projektet.
+
+
+
+Az évi 13 milliárd dollár árbevételével globális léptékben is nagyvállalatnak számító Waste Management azzal vádolja az SAP-t, hogy megtévesztette, hogy elnyerje a 100 millió dollár értékû szoftverimplementációt. A SAP-nak ráadásul a Waste Management egyúttal elsõosztályú referenciaként is számítana vertikális hulladékkezelési megoldása, a Waste and Recycling alkalmazáscsomag számára -- a referenciából azonban úgy tûnik, botrány kerekedik, mely az eredeti szándékkal ellentétben rombolhatja is az SAP megbecsülését.
+
+A március 20-án beadott perirat szerint a SAP azt állította, hogy néhány európai hulladékkezelõnél már bevezette a szoftvert, és hogy az mûködni fog a sokkal liberálisabb, összetettebb és kompetitívebb amerikai piacon is, mely például nem hatóságilag rögzített, hanem szabadpiaci árakkal mûködik. A vállalat azt írja keresetében, hogy amerikai és németországi demonstrációkon az SAP felsõvezetõi maguk biztosították a Waste Managementet, hogy a szoftver érett, iparági szabványnak számít, mely nem igényel további testreszabást -- ezzel szemben késõbb kiderült, hogy hamis szimulációkat, szoftvermaketteket mutattak be, nemlétezõ képességekkel.
+
+
+A Waste Management az általa utólag megtévesztõnek ítélt bemutatók alapján egy 18 hónapos implementációs projektre kötött szerzõdést az SAP-vel, mely SAP R/3-ra alapozva a számlázási rendszert hivatott üzemeltetni. A projekt célja a tevékenység hatékonyságának fokozásával a bevételek növelése, valamint az ügyfelek elégedettségének emelése lett volna. A legelsõ tesztekkor azonban nyilvánvalóvá vált, hogy a legalapvetõbb bevételkezelési folyamataikat sem képes lekezelni a szoftver, írja a vállalat.
+
+A Waste Management azzal vádolja az SAP-t, hogy az a háttérben több tízezer sornyi kód átírásával igyekezett az implementáció alatt megoldani a problémákat. Ez a törekvés azonban csak rontott a helyzeten, ugyanis további hibákat eredményezett, valamint elvágta az utat a jövõbeni egyszerû upgrade-ek elõl. A Waste Management azt állítja, az eredetileg  2006 decemberére tervezték a rendszer tesztüzemét, mely azóta, 2008 márciusában sincs mégcsak annak közelében sem. A vállalat különösen fájdalmasnak érzi az esetet, ugyanis az SAP rendszere egy átfogóbb stratégiai átalakítás központi eleme lett volna.
+
+Az amerikai vállalat ki akar hátrálni az SAP-projektbõl, mely jelenlegi állás szerint 2010-re eredményezne teljes rendszert, ugyanakkor még erre sem látnak garanciát a cégnél. Ekkor ráadásul a Waste Management ismét az SAP kísérleti malacává válna egy 18-hónapos rutineljárásból egy többéves, sokkal drágább, magas kockázatú projektben, vélik az amerikaiak. A keresetben az SAP-t tisztességtelen indítékkal, csalással, gondatlan félretájékoztatással és a szerzõdés megszegésével vádolja a vállalat, és kártérítés valamint büntetés kiszabását kéri a bíróságtól.

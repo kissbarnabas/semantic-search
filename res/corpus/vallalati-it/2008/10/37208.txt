@@ -1,0 +1,14 @@
+Quadro CX: professzionális gyorsítókártya Adobe Creative Suite 4 felhasználóknak
+
+Az Adobe októberben piacra kerülõ Creative Suite 4 (CS4) alkalmazáscsomagját használó professzionális felhasználók számára kialakított videovezérlõvel bõvítette Quadro termékcsaládját az NVIDIA.
+
+
+
+Az NVIDIA Quadro CX kifejezetten az Adobe CS4 bizonyos komponenseinél bevezetett új, a grafikus feldolgozóegységre építõ folyamatokat gyorsítja. A PCI Express foglalatba passzoló videokártyával a szoftvercsomag CUDA-kompatibilis beépülõi révén egyebek mellett felgyorsítható az Adobe Premiere Pro CS4 H.264 kódolási folyamata, illetve a legtöbb effektus számítása, az elkészült anyagok pedig a kártya DisplayPort és 10 vagy 12 bites SDI-kimenetén keresztül nézhetõk vissza.
+
+
+A kártya az Adobe Photoshop CS4 legtöbb képmanipulációs mûveletének és feldolgozási folyamatának számításában is besegít a processzornak, így gyorsabb lehet a zoomolás, a képforgatás, a színkonverzió és az ecsetekkel kapcsolatos különbözõ mûveletek (átméretezés, elõnézet stb). A Quadro CX emellett az Adobe After Effects CS4 több effektjének használatát is gyorsítja.
+
+
+
+A 192 CUDA feldolgozóegységbõl felépülõ grafikus processzort tartalmazó Quadro CX-ek 1,5 gigabájtnyi GDDR3 memóriát kapnak -- a képpuffer 384 bit széles interfészen kapcsolódik a GPU-hoz, a teljes memóriasávszélesség 76,8 gigabájt másodpercenként. A maximális teljesítmény érdekében akár két Quadro CX vezérlõ is összekapcsolható SLI-üzemmódban. Az Adobe Creative Suite 4 programcsomag felhasználói számára ajánlott Quadro CX már kapható: a professzionális gyorsítókártya 2000 dollárba kerül a tengerentúlon.

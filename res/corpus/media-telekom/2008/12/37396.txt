@@ -1,0 +1,40 @@
+Szerzõi jogi tanmese: hogyan fog megbukni a videókhoz szánt DRM is?
+
+[Silicon Alley Insider/HWSW] A XXI. század azzal kezdõdött, hogy a zeneipar megpróbálta legyõzni a technológiai fejlõdést. Nekik nem sikerült. Sírás, botrány, dráma és milliárdos veszteségek árán tanulták meg a kiadók, hogy az emberek nem akarnak bonyolul megoldásokat, ha az illegális egyszerûbb, az lesz a nyerõ. A tanulságos történetbõl látszólag nem tanulva, most a filmipar ugyanabba a nyomvájúba hajt bele.
+
+
+
+A fogyasztók irányítanak
+
+A Digital Entertainment Content Ecosystem (DECE) egy új próbálkozás egy interoperábilis DRM-szabvány bevezetésére, ami a videotartalmak terjesztésének megzabolázását tûzte ki célul -- több hollywoodi médiavállalat úgy látja, ezzel megoldható lenne az illegális másolatok problémája. Ugyan a szabvány több specifikációja kidolgozás alatt van, de a szakma megítélése szerint már most látszik, hogy az egész bukásra van ítélve. David Pakman, az eMusic korábbi vezérigazgatója a Silicon Alley Insiderben osztotta meg gondolatait az új DRM-megoldással kapcsolatban.
+
+Az eMusic online zenebolt vezetése közben bizonyára megedzõdött David Pakman biztos az új DRM bukásában, hiszen ma már a fogyasztók irányítanak a piacon és nem a kiadók. Mivel a DRM-megoldások mindegyike korlátozó típusú technológia, ezért nem ösztönzik a médiavásárlást, hanem éppen ellenkezõleg, egyre kevésbé tesztik vonzóvá. A fogyasztó nem akar eleve megszorításokkal érkezõ fájlokat, hanem a könnyen elérhetõ és alacsony árú médiát preferálja. A DECE azonban továbbra sem ebbe az irányba mutat --  úgy néz ki, a jogtulajdonosok nem értik meg, hogy így soha nem veszik rá az egyébként DRM-mentes tartalmakat fogyasztó felhasználókat arra, hogy áttérjenek az új, legális generációkra.
+
+A felhasználók rugalmasságot várnak. Nem érdekli õket hogyan, de egy sorozat epizódjait alkalomadtán az iPhone kijelzõjén, máskor az autóban vagy az otthoni számítógépen szeretnék megnézni. A mûsorokat élvezni szeretnék, bárhol és bármikor, nem szenvedni velük. A DRM ezt egyáltalán nem teszi lehetõvé, az illegális és ingyenes másolatok viszont igen. Ennyi.
+
+Komoly ellenállás 
+
+Elég nagy nyomás van pedig a kiadókon: az alternatív médiafogyasztási lehetõségek száma nõ, a mozik nézõszáma csökken, a DVD-eladások pedig stagnálnak (jelentõs árcsökkentés mellett is). Az online terjesztés lehet a megoldás is a problémára, de az ipar tekinthet fenyegetésként is rá. Ugyanezen a folyamaton a zeneipar már átment, tanulságos lehet az ottani reakciókat megvizsgálni.
+
+A zeneiparban már csõdöt mondott a DRM
+
+A zeneipar elmúlt tíz éve iskolapéldája annak, hogy mi történik akkor, ha a felvilágosult fogyasztó találkozik azokkal az üzleti gyakorlatokkal, melyek elutasítják az új realitások befogadását. Pakman megemlíti, hogy õ maga is próbálkozott interoperábilis DRM szabványokkal -- például a PlaysForSure vagy a Secure Digital Music Initiative megoldásokkal --, de kudarcot vallott. A korábbi zeneboltvezetõ próbálkozott a fejekben is rendet tenni, jogi ijesztgetéssel, de ez vajmi kevés hatással volt a kalózok aktivitására. A piac végülis az esetlen próbálkozások mentén haladt tovább lehetõséget adva arra, hogy egy élelmes terjesztõ, az Apple létrehozzon egy teljesen zárt, domináns digitális kereskedést, melyet saját maga felügyelhet.
+
+Ezt követõen a zeneipar kénytelen volt irányt váltani. A kiadók a  DRM-mentes MP3 fájlok eladása felé sodródtak, ami már hozta a várt eredményeket. A digitális zenei piac növekedni kezdett és egyre többen kezdtek rájönni, hogy a kalózkodást jogi vagy technológiai eszközökkel egyaránt  lehetetlen megállítani. A jó hír az, hogy lehetséges megállítani, mégpedig olyan termékekkel, melyek legalább annyira jó minõségûek vagy még jobbak, mint a kalózváltozatok, de egyszerûbb hozzájuk jutni.
+
+A zárt ajtók mestere 
+
+A film- és a televízióipar esküdözött, hogy nem követi el ugyanazokat a hibákat, mint a zenei piac, de egyelõre a DECE pontosan ugyanazt a taktikát követi, mint ami miatt a zeneipar vesztegetett el értékes éveket. Egyelõre úgy tûnik, hogy leginkább a streaming megoldásokkal, a reklám-támogatott terjesztéssel, vagy az IMDb, a Hulu vagy a YouTube kínálta lehetõségekkel képesek a cégek megbarátkozni. A streaming felkarolásával viszont egyáltalán nem oldották fel a DRM-mentes elektronikus értékesítéssel kapcsolatos félelmeiket.
+
+A streaming egyáltalán nem biztonságosabb: rögzíteni, elmenteni a streamelt tartalmakat semmivel sem nehezebb, mint egy tévéadást rögzíteni. Fogyasztók milliói pedig meg is teszik már most ezt, ahelyett, hogy megvásárolnák a letölthetõ fájlt. Elegendõ hozzá egy egyszerû Firefox-kiegészítõ, amivel néhány kattintás a legtöbb videó elmentése a webrõl.
+
+
+Arról nem is beszélve, hogy minden energiát a streaming technológiába fektetve az ipar kiszorítja magát a médiafogyasztás számos területérõl. Elég megnézni hány hordozható videolejátszó (pl iPod, stb.) van az embereknél, melyeket nem tudnának legálisan használni a repülõn, vonaton vagy bármilyen utazás közben, olyan helyen, ahol nincs internet, vagy olyan eszközzel, ami nem támogatja a stream megoldásokat.
+
+[+] A digitális jogkezelõ rendszerek kritikája
+
+A kényelem a legfontosabb
+
+Mit keresnek a fogyasztók? Mindössze kényelmet, amit a DRM-mentes elektronikus terjesztéssel meg lehet nekik adni. Ha valaki pénzt ed egy videóért, akkor fontos, hogy minden arra alkalmas lejátszóján gond nélkül képes legyen használni, a vásárlás pedig legalább annyira legyen egyszerû, mint megvenni egy DVD-t. Egy átlagember nem akar a kompatibilitással sem foglalkozni, nem akarja feltenni azokat a kérdéseket, hogy "vajon ezt lejátsza-e az én készülékem", és "ha lecserélem egy újabbra, akkor azon is menni fog-e?"
+
+Akárhányszor körül lehet járni a témát, de Pakman szerint is egyetlen tanulság van, amit a filmeseknek látni kell: ahhoz, hogy az illegális másolatok elleni háborút megnyerjék, semmi mást nem kell tenni, mint egy olyan termékkel elõrukkolni, ami legalább olyan jól teljesít, mint az illegális alternatíva. Korrekt árazás, növekvõ kényelem és szélesebb terjesztési megoldások. Egyszerûen azt kell eladni az embereknek, amit meg akarnak venni.

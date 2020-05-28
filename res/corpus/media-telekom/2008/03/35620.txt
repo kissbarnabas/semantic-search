@@ -1,0 +1,16 @@
+A HTC lehet az elsõ, mely Androidot futtató okostelefont dob piacra
+
+[Techworld] Továbbra is nyitott a verseny az elsõ Androidot futtató okostelefon piacra dobásáért: iparági értesülések szerint vagy a koreai Samsung, vagy a tajvani HTC lesz majd az elsõ, mely még idén elérhetõvé teszi a nyílt platformú szoftvert futtató telefonját. A HTC talán némileg a Samsung elõtt járhat.
+
+
+
+A HTC andoridos telefonja a fejlesztéshez közelálló informátorok állítása szerint egy 5 hüvelyk (~12,7 cm) hosszú és 3 hüvelyk (~7,62 cm) széles, azaz meglehetõsen testes. Egyelõre ismeretlen méretû és felbontású, de az elõzõekbõl adódóan várhatóan legalább 3 hüvelykes képátlójú érintõképernyõt kaphat, és teljes QWERTY billentyûzettel ellátott modell lesz. Az még nem tisztázott, hogy a billentyûzetet tartó rész kicsúszik, vagy kifordul a kijelzõ alól.
+
+A HTC okostelefonja a legutóbbi információk szerint még idén télen, a Samsung készüléke elõtt megérkezhet, így az elsõ kereskedelmi forgalomba kerülõ androidos okostelefon lehet a piacon. A HTC szóvivõje természetesen nem kommentálta ezeket az értesüléseket, de tavaly novemberben a tajvani vállalat volt az elsõ, mely bejelentette, hogy Androidot futtató készülék fejlesztésébe fogott.
+
+
+Az Android fejlesztését a Google által létrehozott Open Handset Alliance felügyeli. A szervezet egy nyílt szoftverinfrastruktúrát hozott létre, melyre egyszerûbb és gyorsabb az alkalmazások fejlesztése is. A Google-nél úgy vélik, a közös platform egyformán jó a mobilgyártóknak, a szolgáltatóknak, a fejlesztõknek és a felhasználóknak is.
+
+
+
+A keresõóriás tavaly novemberben, egy verseny meghirdetésével együtt tette közzé a fejlesztõi segédletét (SDK), melyet azóta már frissítettek is. A segédletet naprakésszé tették, támogatja a legújabb kijelzõk extrém felbontásait, hardverelemek extra képességeit is. Az SDK része egy emulátor, mely különbözõ képességû, felbontású kijelzõvel rendelkezõ mobilokat szimulálhat, így az is tesztelhetõ, hogy egy-egy elkészített program pontosan hogyan jelenik meg, mûködik a különbözõ stílusú telefonokon.

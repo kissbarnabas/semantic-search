@@ -1,0 +1,14 @@
+Mobilokon is futhat már a JavaFX
+
+Ígéretéhez híven a Sun Microsystems elkészült a JavaFX mobilos verziójával, mely azonnal hozzáférhetõ. Ezzel egy újabb jelentõs lépést tett a vállalat a felé, hogy a lehetõ legszélesebb körben terjessze el az interaktív vizuális Java-alkalmazásokat.
+
+
+
+A JavaFX Mobile támogatása elkészült a mobiltelefonokra szánt Java Micro Edition (ME) runtime-hoz is, így megkezdõdhet annak terjesztése. A bejelentésen a Sun mellett a meghatározó mobilgyártók közül az LG Electronics és a Sony Ericsson sorakozott fel, tekintve azonban, hogy a Java széleskörûen elterjedt, mintegy 2,6 milliárd mobilon található meg a legfrissebb becslések szerint, valamint hogy a Java ME forráskódja nyílt, várhatóan viszonylag rövid idõ alatt az összes gyártó frissíti majd a készülékeivel szállított futtatási környezetet. A használatban lévõ telefonok többségének frissítésére is lehetõség nyílik a mobilhálózaton keresztül.
+
+
+A JavaFX Mobile-lal felvértezett Java ME természetesen a JavaFX fejlesztõi készlet részévé is vált, mely emiatt az 1.1-es verziószámot vette fel, ahogyan a teljes mobiltámogatás miatt maga a JavaFX is 1.1-es kiadásra váltott. A Sun állítása szerint világszerte több mint 6 millió szoftverfejlesztõ támogatja a mobil Java programozási környezetet. További információ és szoftverletöltések a JavaFX honlapján találhatóak.
+
+[+] JavaFX: legyen webkettes a Java is!  
+
+A Sun tavaly decemberben jelentette be a JavaFX-et, mely lényegében a Java fejlett audiovizuális képességekkel való felruházását hozza magával. A Java lényegében kimaradt a webkettes robbanás nagy részébõl, a webes fejlesztõk ugyanis többnyire AJAX és Flash technológiák bevetésével valósították meg az online alkalmazások többségét. A JavaFX célja, hogy egy új prezentációs réteggel felruházva a Java visszaveheti néhai elsõségét, és az olyan képességek, mint a PC- és mobilplatformok támogatása, a böngészõfüggetlen, akár offline mûködés, robusztus biztonsági modell és széleskörû API-támogatás megnyeri magának a webes fejlesztõi közösséget, beleértve a nagyvállalati alkalmazásokkal foglalkozókat is.

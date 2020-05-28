@@ -1,0 +1,36 @@
+Mélyponton az AMD, milliárdokat pazarolt el az ATI-ra
+
+Újabb leírásra szánta el magát az AMD az ATI Technologies felvásárlásával kapcsolatban, ismét beismerve, hogy túl sokat fizetett a grafikus processzoraival ismertté vált kanadai cégért még 2006-ban. A sors iróniája, hogy minderre új, ütõs Radeon családjának bevezetését követõen kényszerült. A cég válsága súlyosabb lehet a 2002-esnél is.
+
+
+
+Milliárdokat az ablakon
+
+Az Egyesült Államok Értékpapír- és Tõzsdefelügyeletéhez (SEC) benyújtott dokumentumban az AMD közölte, egy tõkeveszteség-elemzést követõen arra a megállapításra jutott, hogy az ATI felvásárlásával megszerzett szellemi javak és goodwill a korábbi várakozások alatt teljesítettek, és nem tükrözik már valós értéküket. A világ másodszámú processzorgyártója 880 millió dolláros egyszeri értékvesztési leírást könyvel el a második negyedévben -- a számviteli manõver készpénzmozgással nem jár, ugyanakkor veszteségként jelentkezik az eredménykimutatásban.
+
+Ez rövid idõn belül a második alkalom, hogy a processzorgyártó jelentõsen korrigálni kényszerül az ATI 2006-os felvásárlásával megszerzett javak eredetileg 5,4 milliárd dolláros könyv szerinti értékét. Az AMD a tavalyi negyedik negyedévben szemben 1,6 milliárdos leírást könyvelt el a kanadai céggel megszerzett javakkal kapcsolatban, így a mostani értékvesztéssel együtt már közel 2,5 milliárd dolláros túlfizetést ismert el. Az AMD egyúttal a Spansion és más érdekeltségeivel kapcsolatban is leírásra kényszerült, összesen 36 millió dollár értékben. A leírások mellett a vállalat 190 milliós egyszeri nyereséget könyvelt el elavult félvezetõgyártó berendezéseinek értékesítésébõl.
+
+Az AMD papírjaival ötéves mélyponton kereskednek, a részvények a pénteki záráskor 4,84 dolláron cseréltek gazdát, mely 2,4 százalékos napi gyengülést jelent. A vállalat piaci kapitalizációja ezzel 3 milliárd dollár alá esett vissza, idén több mint 35 százalékot, az elmúlt egy évben pedig 68 százalékot vesztett értékébõl -- az Intel papírjai azonos idõszakokban 22 és 20 százalékos mínuszt mutatnak. A vállalat számára súlyos problémát jelent, hogy rendkívül rossz pénzügyi teljesítménye az ATI felvásárlása miatt jelentõs adóssággal párosul, mindezt egy pénzügyi krízis közepette, ahol sokkal nehezebb pénzügyi forrásokhoz jutni, a tõkebevonás megdrágult.  
+
+Válságban
+
+
+Az AMD pénzügyi forrásainak apadását jól jelzi, hogy az idei 1,1 milliárd dolláros tõkeberuházási kerete szintén ötéves mélypontot ért el, egyes elemzõk szerint jövõre pedig tovább zuhanhat, amennyiben a cég valamilyen módon nem tud forrásokat bevonni -- ez gyakorlatilag egyet jelentene a vállalat jövõbeni versenyképességének drasztikus leromlásával. Összehasonlításképpen az Intel idén 5,2 milliárd dollárt tervez költeni tõkeberuházásokra, és nagyjából 6 milliárd dollárt kutatás-fejlesztésre, több mint háromszor annyit, mint riválisa.
+
+Még borúsabbá teszi a képet, hogy az AMD legfrissebb szerverpiaci terméktervén 2009-ben sem szerepel új mikroarchitektúrára épülõ mikroprocesszor, miközben az Intel az idei év végével megindítja következõ generációjának piaci bevezetését, mely tovább növeli a nyomást az AMD-n.  A cég forgalmának dereka, 80 százaléka jelenleg x86-os processzorokból származik,  igaz, ehhez szükséges a grafikus részleg gyengélkedése is. A K8 nagyobb ráncfelvarrásának tekinthetõ 10h mikroarchitektúra már ma is hátrányban van az Intel Core-ral szemben, amit rendszerarchitektúrával képes némileg ellensúlyozni -- még néhány hónapig.  
+
+[+] Felrúgta szerverpiaci terméktervét az AMD 
+
+A negyedik negyedévben az egy-kétutas szerverekben és felsõkategóriás PC-kben debütáló Nehalem kódnéven ismert generációval az Intel várhatóan bedarálja az AMD szerverpiacon realizált nyereségének nagy részét, miközben még mélyebbre nyomja az asztali termékeknél kettõs fojtással: a teljesítményéhes szegmenseknél a Nehalem fölénye, míg az alsóbb kategóriákban az alacsony költséggel termelhetõ kétmagos Wolfdale és négymagos Yorkfield termékek agresszív árazása jelent majd egyre súlyosabb problémát. A Mercury Research adatai alapján az AMD átlagos eladási ára a PC szegmensekben fele az Intelének, miközben fajlagos elõállítási költsége magasabb.
+
+Az AMD pénzügyi helyzetén némileg javíthat, hogy a grafikus chipekért felelõs részleg számára a Radeon HD 4800-as termékvonal piacra kerülésével  minden adott, hogy részesedését nyereségesen növelje, így az ATI felvásárlása kapcsán felmerült kiadások legalább egy részét megkezdheti visszatermelni. Bármilyen jól is teljesítsen azonban a jövõben az eddig veszteséges GPU-üzletág, a vállalati forgalom és nyereség derekát továbbra is processzoroknak kell hoznia, és a megtermelt nyereség elégtelen volna a processzorfejlesztések, pláne a félvezetõipari beruházások versenyképessé tételéhez -- nem beszélve arról, hogy ezzel a grafikus család versenyképességét ásná alá az AMD.
+
+[+] Gyilkosra sikerült az AMD új grafikus chipje
+
+Az AMD számára papíron két kiút létezik a jelenlegi fenntarthatatlan helyzetbõl: az egyik a tõkeintenzitás drasztikus megemelése, amivel a tõkeberuházások valamint kutatás-fejlesztés versenyképessége fokozódna, továbbá megszûnne a vállalat nehéz pénzügyi helyzete jelentette nyomás. Erre a jelenlegi helyzetben gyakorlatilag csak egy magántõkés csoport vagy befektetési alap belépésével lenne reális esély -- ahogyan azonban az iparágban elterjedt nézet is tartja, az Intellel szemben versenybe szállni ostobaság. A helyzet a 2002-eshez képest is kritikusnak tûnik, ugyanis nincs ütõs termék kilátásban, raádásul a cég súlyosan eladósodott, miközben az Intel ereje teljében van, nem pedig vakvágányon robog, ahogyan azt hat évvel ezelõtt tette a NetBursttel.
+
+Hogy komoly érdeklõdõ tõkéscsoport nincs a horizonton, azt az jelzi, hogy Hector Ruiz vezér csapata a másik irányról beszél immár lassan egy éve: az úgy nevezett "asset smart" vagy "asset light" stratégia részeként az AMD egy egyelõre nem részletezett módon drámaian csökkentené mûködésének tõkeigényét, mely gyakorlatilag egyet jelent a félvezetõgyárainak legalább részleges eladásával. Az új stratégia nyilvánosságra hozatala a közeljövõben várható. Egy, az Intellel kötött szerzõdés egyik hivatalosan meg nem erõsített kitételének értelmében ugyanakkor az AMD nem szervezheti ki termelésének több mint 20 százalékát. Amennyiben ettõl a korlátozástól nem tud megszabadulni, jelentõsen csökken a mozgástere. A cég éves elemzõi konferenciája november 13-án esedékes. 
+
+[+] Radikális változások elé néz az AMD
+
+Az AMD eközben belsõ strukturális reformon is keresztülmegy költséghatékonyságának fokozása érdekében, hogy a nyereséges mûködéshez szükséges bevételi küszöböt a negyedéves 2 milliárd dollárról 1,5 milliárd dollár közelébe szorítsák. A strukturális reform kapcsán alkalmazottainak mintegy 10 százalékától válik meg az év során a cég, ugyanakkor számos kulcspozíciót betöltõ felsõvezetõt is elvesztett. Az idei év elsõ három hónapja során mindössze 1,5 milliárd dollár árbevételt ért el az AMD, vesztesége pedig 358 millió dollárra rúgott, melybõl 50 millió dollárt az ATI felvásárlása kapcsán könyvelt el. Második negyedéves jelentését 17-én, e hét csütörtökén teszi közzé a a vállalat.

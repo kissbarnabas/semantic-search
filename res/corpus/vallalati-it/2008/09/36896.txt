@@ -1,0 +1,12 @@
+Új Dell szerverek és tárolók a virtualizáció jegyében
+
+Néhány nappal a VMware évente szokásos konferenciája, a VMworld elõtt a Dell új blade szervereket és egy új tárolót jelentett be a virtualizáció jegyében. 
+
+
+
+Az újdonságok között található az Opteron-alapú PowerEdge M805 kétfoglalatos blade szerver, illetve a négyfoglalatos PowerEdge M905. A gépek különlegessége, hogy 16, illetve 24 memóriafoglalattal rendelkeznek annak érdekében, hogy a virtualizált környezetekre jellemzõ memóriaigényeknek meg tudjanak felelni. A cég emellett közzétette az R900 szerver frissítésére vonatkozó terveit is. Az R900 egy négyfoglalatos rackszerver, amely hamarosan megkapja az Intel hatmagos Dunnington processzorait, illetve beágyazott hypervisort.
+
+
+ Tárolóoldalon a Dell újdonsága az EqualLogic iSCSI SAN-tömb, a 4U kivitelû PS5500E, amely 24 és 48 terabájtos kivitelben hozzáférhetõ -- ez háromszor nagyobb kapacitássûrûséget jelent a PS5000-es változathoz képest. A PS5500E segítségével akár 576 terabájt kapacitású EqualLogic SAN-ok is kiépíthetõk, amelyek egyetlen felületen menedzselhetõk. 
+
+Az EqualLogic tömbökhöz új szoftvert is kiadott a Dell, az Auto-Snapshot Manager/VMware Edition (ASM/VE) kimondottan VMware Infrastructure 3 környezetekre optimalizált megoldás, amely a virtuális gépek és VMFS fájlrendszerek gyors mentését és visszaállítását segíti. Az érvényes támogatási szerzõdéssel rendelkezõ ügyfelek a hónap végétõl ingyen letölthetik az ASM/VE-t a Dell terméktámogatási oldaláról. A termék  grafikus felületén egyszerûen összehangolható az EqualLogic és VirtualCenter snapshotok készítése, ami tehermentesíti az ESX Servert a snapshotok készítése alól, ami jótékony hatással van a teljesítményre is.

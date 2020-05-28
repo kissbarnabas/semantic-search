@@ -1,0 +1,38 @@
+Fellebbent a fátyol a Windows Mobile 6.5-rõl
+
+A barcelonai Mobile World Congress talán legjobban várt bejelentése a Windows Mobile 6.5 volt. A Microsoft tegnap délután rántotta le a leplet új mobiltelefonos operációs rendszerérõl, ami -- a verziószám növekedésébõl is láthatóan -- kisebb ráncfelvarráson esett át, hogy jobban megfeleljen a mai igényeknek. Az új szoftvert szolgáltatások egész sorával próbálja vonzóbbá tenni a redmondi cég.
+
+
+
+Átdolgozott kezelõfelület, jobb böngészõ
+
+A windowsos okostelefonok egyik legnagyobb hibájának a kezelõfelületet tartják, hiába fut a szoftver az érintõképernyõs készülékeken, a felületet nem igazították az ujjal böködéshez, igazán kényelmesen csak stylussal irányítható. Ezen most változtatott a Microsoft, a Windows Mobile 6.5 felületét úgy alakíották ki, hogy akár nagyobb kezû felhasználók is kényelmesen tudják ujjal használni. Megfelelõ távolságra kerültek egymástól az ikonok, és egyszerûbbé vált néhány alapfunkció (válasz a beérkezett üzenetekre, elmulasztott hívások) elérése is azáltal, hogy külön ikont kaptak a fõképernyõn, amelyeken csak el kell húzni az ujjat.
+
+
+
+
+
+
+A felhasználói felület sokat változott a 6.1-es verzió óta. Eltûnt a Start és Programok menü, a szoftverek ikonjai az iPhone-hoz hasonlóan mind a képernyõre kerültek, ráadásul sokkal nagyobbak mint korábban, így egyszerûbb az egyujjas navigáció. Noha a Windows Mobile 6.5 számos újítása az érintõképernyõs vezérléssel kapcsolatos, a hagyományos gombokkal vagy QWERTY billentyûzettel szerelt készülékek továbbra is támogatottak maradnak természetesen.
+
+A Windows Mobile 6.5-ben frissül a böngészõ is, a Microsoft ígérete szerint a beépített Internet Explorer a PC-krõl ismert Internet Explorer 6 motorjára épül és azzal nagyjából egyenértékû funkcionalitást nyújt, beleérve a Java- és Flash-támogatást is. A könnyebb navigálást egy oldalt megjelenõ sáv segíti, amelyen a nagyítás mértékét állíthatja be a felhasználó.
+
+Vonzó szolgáltatások
+
+Az új operációs rendszerrel egyidõben a Microsoft új szolgáltatásokat is bejelentett. Az egyik a HWSW által már korábban is ismertetett My Phone, amely lehetõvé teszi a készüléken tárolt információk (nevek, címek, telefonszámok, naptárbejegyzések, vagy akár fotók, zenék, más állományok) szinkronizálását egy webes tárhellyel, ahol aztán szerkeszthetõk, megoszthatók. A My Phone biztonsági másolatok készítésére is használható, illetve segítségével könnyedén lehet az adatokat egyik windowsos telefonról a másikra migrálni.
+
+
+
+
+
+
+
+ Tegnap mutatkozott be a Windows Marketplace for Mobile, amely a Microsoft online szoftveráruháza. A windowsos okostelefonokhoz mintegy 20 ezer különféle alkalmazás érhetõ el, a Marketplace célja hogy ezeket egy helyen tálalja, így a felhasználók könnyen megtalálhatják a számukra legjobbakat. A Marketplace-re csak olyan szoftverek kerülhetnek fel, amelyeket a Microsoft ellenõrzött és jóváhagyott. A Windows Mobile 6.5-0t futtató készülékekrõl mind elérhetõ lesz a Marketplace, a korábbi verzióval szerelt okostelefonok tulajdonosai pedig PC-rõl böngészhetik a kínálatot.
+
+A Microsoft egyúttal bejelentette a Recite nevû szoftvert, amely lényegében egy "hangos jegyzetfüzet" a Windows Mobile 6.x telefonokra. A program lehetõvé teszi hangos jegyzetek rögzítését anélkül, hogy ehhez menükben kellene navigálni vagy szöveget kellene begépelni. A szoftver érdekessége, hogy képes a hangos jegyzeteket a bennük található szavak alapján csoportosítani.
+
+Várható érkezés: 2009 második fele
+
+Redmond nyilvánosságra hozott néhány képernyõfotót az új operációs rendszerrõl, ezek alapján egyelõre nehéz lenne megmondani, mennyire sikerült jól a ráncfelvarrás. A Windows Mobile-hoz korábban is készültek az érintéses vezérlést egyszerûbbé tevõ felületek (pl. HTC TouchFLO, SPB MobileShell), a beépített böngészõ helyett is számos alternatíva áll rendelkezésre (Opera Mobile, Opera Mini, Skyfire, Mozilla Fennec), így összességében ezek nem látszanak akkora elõrelépésnek, hogy komolyan megfordítsák az iPhone, a Symbian OS vagy éppen a Google Android piaci elõretörését.
+
+Az új mobiltelefonos operációs rendszerrel szerelt elsõ készülékek 2009 második felében jelennek meg a boltok polcain, a támogatók közé máris csatlakozott az LG és a HTC. Noha a Windows Mobile 6.5 lényegében ugyanazokat a hardvereket támogatja, amelyeken a Windows Mobile 6.1 is fut, egyelõre nem tudni, hogy melyik telefonok szoftverét lehet majd frissíteni, mivel ez a készülékgyártóktól függ.

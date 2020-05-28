@@ -1,0 +1,22 @@
+Bizakodó a tõzsde az AMD kilátásaival kapcsolatban
+
+Meredek emelkedésnek indultak az AMD papírjai, miután a vállalat két napja piacra dobta elsõ notebook-platformját. Ez az erõsödés tegnap is kitartott az Intelt elmarasztaló koreai trösztellenes határozattól is fûtve. A befektetõk az AMD piacrészesedésének növekedését és nyereségességének javulását várják ezektõl a fejleményektõl.
+
+
+
+Ha jó a termék
+
+A Puma kódnéven ismert notebook platform piacra kerülése óta az AMD papírjai 14 százalékot (7,78 dollárra) erõsödtek a tõzsdei kereskedésben. A Puma a chipvállalat elsõ olyan terméke hordozható számítógépek számára, mely egy kifejezetten mobilitásra optimalizált processzort és mobil chipsetet kínál egyetlen csomagban. Az új platform fókusza elsõsorban a multimédiás felhasználás, piaci szempontból a fogyasztói és kisvállalati szegmensek, ahol fontos szempont lehet a notebook grafikus képessége, mely az Intel chipsetek hagyományosan legnagyobb gyengeségének számít. 
+
+ Az AMD RS780M chipkészletbe integrált DirectX 10-es Radeon HD 3200 grafikus mag számos modern játék futtatására alkalmas, emellett hardveresen gyorsítja akár HD videofolyamok dekódolását (h.264, VC-1). Az Intel Centrinóban található Graphics Media Accelerator X3100 grafikus teljesítménye nagyjából fele-harmada a Radeon HD 3200-nak, így a legtöbb, az elmúlt 3-4 év során megjelent, grafikailag igényes és népszerû játék legfeljebb diavetítés formájában tekinthetõ meg. 
+
+
+A chipset PowerXPress megoldása ráadásul képes arra, hogy a rendszer újraindítása nélkül váltson egy nagyobb teljesítményû dedikált grafikus processzorra, amennyiben rendelkezésre áll. A Puma-alapú notebookok a gyártó döntésétõl függõen Radeon HD 3400, 3600 és 3800 opciókkal is rendelhetõek, vagyis úgy kapunk nagy grafikus teljesítménypotenciált, hogy cserébe nem kell feltétlenül rövidebb akkumulátoros üzemidõvel fizetnünk. A Jon Peddie Research becslése alapján a notebookok mintegy háromnegyede rendelkezik integrált grafikával. 
+
+Bizakodás
+
+Elemzõk szerint az Intel Centrino 2 (Montevina) rajtjának késlekedésével, mely X4500 grafikus magja révén egyébként felzárkózást ígér a 3D-teljesítmény terén, a Puma lendületet szerezhet a piacon, erõsítve az AMD jelenlétét, és ami a legfontosabb, emelve az átlagos eladási árat. A Puma egyben szimbolikus jelentõséggel is bír, ugyanis az elmúlt idõszakban kedvezõtlen kép alakult ki a vállalat végrehajtásával és termékeinek versenyképességével kapcsolatban -- ezt a bizalmi deficitet csökkenti a Puma, fõleg annak széleskörû támogatottsága a notebookmárkák körében.
+
+A Puma hatása mellett további bizakodásra adhat okot az AMD és befektetõi számára, hogy Japánt követõen Dél-Koreában is illegálisan versenykorlátozónak találták az Intel kedvezményt és marketingtámogatást nyújtó gyakorlatát, mely kiszorító hatással bírt az AMD termékeire nézve. A koreai versenyhivatal trösztellenes vizsgálata megállapította, az Intel összesen 37 millió dollárt fizetett az évek során a Samsung Electronics és a Trigem Computer számára, hogy exkluzívan Intel-chipeket használjanak. Az Intel tagadja a vádakat, és várhatóan bírósághoz fordul.
+
+Az Intel piaci magatartásának megregulázása a várakozások szerint további részesedéshez segítheti a stratégiai átalakítás alatt álló AMD-t, a tõzsdén ez a hatás is megjelent. A Financial Times Deutschland múlt héten publikált értesülése szerint az Intelt az Európai Unióban is elítélik hamarosan törvénytelen versenykorlátozás miatt, és betiltják kedvezményi és marketingtámogatási rendszerét. Az Egyesült Államokban 2010 februárjában kezdõdik meg az AMD ellen Intel ellen indított polgári peres trösztellenes keresete, így az nincs kihatással a vállalat középtávú jövõjére. Az AMD kilátásait övezõ kockázatokat és bizonytalanságot jól jellemzi, hogy az elemzõi besorolások és célárak nagy szórást mutatnak.

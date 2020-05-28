@@ -1,0 +1,33 @@
+Cray: legyen személyi a szuperszámítógép!
+
+Asztali szuperszámítógépet dobott piacra a Cray, a Xeon processzorokon alapuló CX1 operációs rendszere Windows Server 2008 kimondottan erre a területre fejlesztett változata, a Windows HPC Server 2008. Ez a legolcsóbb gép a Cray történetében, és az elsõ, amely Intel processzorokon alapul.
+
+
+
+Minden dolgozónak saját szuperszámítógépet!
+
+Ahogy a számítási kapacitás egyre olcsóbb lett, egyre több szervezet engedhetett meg magának egy vagy több szuperszámítógépet, de legalábbis nagyteljesítményû, mérnöki-tudományos célra létrehozott rendszert. Ezek tervezése, telepítése és üzemeltetése azonban általában bonyolult feladat, amelyhez a legtöbb helyen nem áll rendelkezésre megfelelõen képzett szakember. A Cray és a Microsoft ajánlata lényegében egy olyan "kompakt" szuperszámítógépet tartalmaz, amelyet bárki tud üzemeltetni, aki rendelkezik windowsos tapasztalatokkal, ezáltal sokkal nagyobb közönség számára teszi hozzáférhetõvé a nagy számítási kapacitást.
+
+A "személyi szuperszámítógép" koncepció elsõ látásra furcsának tûnhet, azonban nem az. Számos területen lehet szükség a professzionális munkaállomásokat meghaladó teljesítményû személyi rendszerekre, például mérnöki területen, digitális tartalomkészítésnél, pénzügyi szimulációkhoz, vagy akár az orvostudományban. A Cray arra épít, hogy ezeken a területeken a szakemberek igen drágák (éves fizetésük a százezer dolláros nagyságrendbe esik már), ezért a termelékenységük fokozásával a munkaadók komoly elõnyre tehetnek szert.
+
+
+Volt már ilyen
+
+Korábban is voltak már próbálkozások a CX1-hez hasonló asztali szuperszámítógépek megépítésére. Az Orion Multisystems 2004-ben dobta piacra 12 darab Transmeta Crusoe processzorra épülõ rendszerét, amelyet 2005-ben követett egy 96 processzoros modell. A 100 ezer dolláros gépbõl alig néhány tucatot tudtak értékesíteni, így a vállalat 2006-ban megszûnt.
+
+
+
+
+A kutatók, fejlesztõmérnökök vagy pénzügyi szakemberek munkáját nagyban gyorsíthatja, ha egy ilyen erõs gép áll a rendelkezésükre, ugyanis nem kell az intézmény központi szuperszámítógépén gépidõt kérniük, ha egy komplex számítási mûveletet, például egy szimulációt szeretnének futtatni -- így jobban hasznosítható a többmillió dolláros "valódi" szuperszámítógépek kapacitása. 
+
+Sokan értenek a Windowshoz
+
+ A Microsoft két éve lépett be a HPC-szegmensbe a Windows Server 2003 Compute Cluster Editiönnel. A vállalat meghatározó szerepre számít ezen a piacon és szoros együttmûködést folytat a HPC alkalmazások fejlesztõivel annak érdekében, hogy az iparág-specifikus szoftvereiknek mihamarabb elkészüljön a windowsos változata is. A szoftveróriás reményei szerint öt év múlva minden kutató- és fejlesztõmérnök a munkahelyén hozzáférhet majd valamiféle szuperszámítógéphez, ami látványosan elõ fogja segíteni az innovációt.
+
+A Microsoft szerint a fürtözött rendszereken futó Windows elõnye a szegmensben szinte egyeduralkodó Linuxszal szemben, hogy könnyebben telepíthetõ, mûködtethetõ és integrálható a meglevõ windowsos környezettel, emellett az alkalmazásfejlesztés is egyszerûbb lehet, például a Visual Studio segítségével. Ennek érdekében a fejlesztõkörnyezetet felkészítették a párhuzamos alkalmazások fejlesztésére és debuggolására is.
+
+
+
+64 processzormag, 512 gigabájt memória, 4 terabájt háttértár
+
+Architektúráját illetõen a Cray CX1 egy nyolc csomópontot tartalmazó fürtözött rendszer, csomópontonként két processzorral. Az Intel a kétfoglalatos gépek számára jelenleg két- és négymagos Xeonokat kínál, maximális kiépítés mellett tehát legfeljebb 64 processzormag ereje áll rendelkezésre, a memória maximális mérete 512 gigabájt lehet, a háttértár pedig 4 terabájtig bõvíthetõ. A gépbe az ügyfelek maguk válogathatják össze a számításra, vizualizációra és adattárolásra szolgáló modulokat, igazodva a saját igényeikhez. A CX1 rugalmasan konfigurálható, az árak 25 és 60 ezer dollár, vagyis 4-10 millió forint között alakulnak.

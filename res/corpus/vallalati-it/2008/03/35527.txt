@@ -1,0 +1,35 @@
+Megkezdte a B3-as Barcelonák kereskedelmi szállításait az AMD
+
+[Digitimes/HWSW] Az AMD hivatalosan is közölte, hogy ezekben a napokban megkezdte javított Barcelona chipjének kereskedelmi szállításait, így a négymagos Opteronokkal szerelt szerverek akár heteken belül elérhetõvé válhatnak a vezetõ szerverszállítóknál, az új Phenomok pedig várhatóan áprilisban jelennek meg a boltok polcain.
+
+
+
+Heteken belül
+
+A tavaly decemberben bejelentett terveknek megfelelõen tavaszra újra megindulhatnak a négymagos Opteronok tömeges kereskedelmi szállításai, nagyjából fél évvel annak hivatalos piaci bejelentését követõen. A kritikus hibáktól megtisztított B3-as szilíciumverzió (stepping) januárra készült el, az azóta eltelt idõben a chipeket és rendszereket alapos tesztelésnek vetette alá az AMD és partnerei. A design validációja úgy tûnik, sikeresen lezárult, így hamarosan széles körben is hozzáférhetõek lesznek a négymagos Opteronokkal szerelt szerverek, valamint a magasabb órajelû Phenomok.
+
+Dirk Meyer operatív vezérigazgató a cég januári pénzügyi konferenciahívásán elmondta, elsõként a középkategóriára koncentrálnak az Opteronoknál, ami legfeljebb 2,3 gigahertzes órajelet jelent, majd a második negyedév során érkezhet a 2,5 gigahertzes változat. Mivel a hiba nem releváns PC-környezetben, a B2-es Phenomok szállításai hónapok óta folyamatosak, a vállalat azonban a piaci igényekre hivatkozva nem a minél gyorsabb, hanem az energiahatékonyabb verziókat priorizálja, így a magasabb órajelû, 2,4-2,6 gigahertzes változatok a második negyedévre várhatóak.
+
+
+Bugos a proci?
+A mai nagyteljesítményû processzorok az emberiség által valaha alkotott legbonyolultabb eszközöknek tekinthetõek, kifejlesztésük több száz ember 2-4 évnyi munkáját emészti fel. A Barcelona négy egymással kommunikáló mikroprocesszort integrál egyetlen szilíciumszeletre, összesen 463 millió tranzisztorból épül fel, 11 rétegû réz összeköttetéssel, mellyel méltán érdemli ki a legkomplexebb x86-os processzor címét. 
+
+A bonyolult felépítésnek és összetett fejlesztési folyamatnak természetes következménye, hogy elkerülhetetlenül hibák keletkeznek az architektúrában és elektronikai implementációban, pont ugyanúgy, ahogyan a szoftverek többségénél (sajnos) mára teljesen természetes az állandó hibajavítás. A processzorok rendkívül szigorú és alapos hibakeresési és javítási ciklusokon esnek át mielõtt piacra kerülnek, ami a fejlesztési költségek és idõ akár több mint harmadát is felemészthetik, ezzel együtt is azonban mindegyikben több tucat dokumentált hibáról tudni, legyen szó AMD, IBM, Intel vagy másmilyen gyártásúról. A többnyire valószínûtlen hibák nagy része sosem kerül javításra szilíciumon, mert vagy jelentéktelen, vagy szoftveresen kezelhetõ. 
+Az AMD esetében a valódi gondot az okozta, hogy olyan hibára bukkant, ami miatt saját imidzsének és a bizalom fenntartása érdekében fel kellett függesztenie a szerverváltozatok szállításait egy üzletileg kritikus szituációban, valamint a Phenomok kapcsán szándéka ellenére túldimenzionálta.
+
+
+
+Erratum 298
+
+Mint arról már lapunk is több alkalommal beszámolt, négymagos processzorarchitektúrájának, a Barcelona tavaly szeptemberi bemutatása óta problémákkal a küzd az AMD a magasabb órajelû változatok tömegtermelésének felfuttatásával. A vállalat állítása és iparági források alapján egyaránt a design finomhangolásáról, nem pedig gyártástechnológiai gyökerû akadályokról volt szó. Az "egyszerû" elektronikai optimalizáció mellett azonban olyan hibákra is fény derült, melyek az órajelek emelését, valamint a szerverváltozatok üzleti környezetben való alkalmazhatóságát gátolták.
+
+Mario Rivas, az AMD processzorokért és chipsetekért felelõs alelnöke a ChannelWebnek adott interjúja során januárban mondta el, hogy a mérnökök csak november közepére azonosították éles környezetben is elõfordulható problémaként az egyik dokumentált hibát.
+
+A szoftveres hibajavítások kidolgozását követõen hozták meg azt a nehéz döntést a cégnél, hogy mivel a hiba valódi szerverek esetében megbízhatóságbeli vagy teljesítménybeli aggályokat vet fel, ezért értesíteni kell a partnereket, és felfüggeszteni a szállításokat -- kizárólag válogatott kiemelt ügyfelek részére teljesítettek megrendeléseket, ellenõrzött, többnyire szuperszámítógépes környezetben.
+
+Lényegében a cache-koherencia lehetséges sérüléseként lehetne tömören összefoglalni a 298-as hibaként dokumentált jelenséget. Ahogyan az AMD megfogalmazza, lehetséges egy igen rövid idõablak, mikor az egyik maghoz tartozó másodszintû gyorsítótárban (L2 cache) a címfordítási tábla frissítés alatt áll ugyan, de nem kerül zárolásra, így a harmadszintû (L3 cache) gyorsítótárba másolva más magok kezdenek el dolgozni az alapján -- ezzel sérül a koherencia. A probléma oka, hogy a címfordítási tábla állapotát jelzõ bitek nem változnak meg "atomi" idõben, így cache-mûveletek férkõzhetnek be ebbe az ablakba.
+
+
+Az AMD-nek mielõbb szüksége lenne a négymagos Opteronok termelésének felfuttatására, ugyanis a vállalat rengeteg teret vesztett tavaly erõre kapott Intellel szemben. A negyedik negyedévben az Opteron részesedése 14,1 százalékra süllyedt, szemben a korábbi 20 százalékos magasságból az eladott processzorok, és 10,5 százalékra azok értéke alapján, becsli a Mercury Research.
+
+Az AMD elõtt ráadásul rohamosan szûkül az az idõ, mely rendelkezésre áll az Intel következõ generációs architektúrájának, a Nehalem harmadik-negyedik negyedévre esedékes piacra dobásáig, mely vitathatóan visszaveszi a négymagos Opteronoktól a legnagyobb komplexitású  x86-os chip címét. Egy nem a nyilvánosságnak szánt Sun-Intel prezentációból kiszivárgott elõrejelzés alapján számításintenzív kódok alatt (SPEC CPU2006) másfél-kétszeres teljesítményt ígér kétutas rendszerben a jelenlegi legerõsebb négymagos Xeonhoz, a 3,2 gigahertzes Harpertownhoz  képest.

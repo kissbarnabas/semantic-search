@@ -1,0 +1,12 @@
+Sun-disztribútor lett az RRC
+
+Az RRC-vel kötött disztribútori megállapodást a Sun Microsystems, a cél a terjeszkedés az x86-alapú szerverek piacán. A Sun egyik fókusza idén az Intel és AMD processzorra épülõ szerverek szegmense.
+
+
+
+Hernádi József, a Sun Microsysems magyarországi vezetõje szeptember végén, az idei pénzügyi évre kitûzött célokkal kapcsolatban elmondta, a cég jelentõs növekedést vár az x86-os szerverektõl. Ebben a szegmensben a Sun ma még nem jelentõs szereplõ, hazai részesedése érték és darabszám alapján sem éri el az 5 százalékot a HWSW becslései szerint, a növekedési lehetõség tehát adott. A tavalyi évben a Sun épp a szerverek területén érte el a legnagyobb növekedést, az eladások 20 százalékkal ugrottak meg egy stagnáló piacon.
+
+
+ A Sun szervereinek kizárólagos hazai disztribútora korábban az Avnet volt. Az Avnet továbbra is értékesíti a Sun teljes termékkínálatát, elsõsorban a nagyvállalatok felé, miközben az RRC az x86-os kiszolgálókra koncentrál, amelyeket fõleg kis- és középvállalatoknak értékesít majd.
+
+Polner Tamás, a Sun Microsystems marketingért felelõs vezetõje a HWSW megkeresésére elmondta, a cég stratégiájának része a partnerhálózat bõvítése olyan partnerekkel, akik üzleti tapasztalattal rendelkeznek a kis- és középvállalatok piacán. "Az RRC mint disztribútor más gyártóival már bizonyított ezen a területen. Nem csak logisztikai szolgáltatást hanem értéknövelt partner fejlesztési támogatást is biztosít. A Sun x86-os szervereivel szélesebb termékportfóliót tud majd kínálni viszonteladói részére, és meg tudja ismertetni ezen termékeket a kis és középvállalati szegmensben dolgozó informatikai partnerekkel."

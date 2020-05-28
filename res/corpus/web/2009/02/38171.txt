@@ -1,0 +1,34 @@
+Órákig elérhetetlen volt a Gmail
+
+A mai délelõtt a Google levelezõrendszere, a Gmail világméretû leállást szenvedett el. Körülbelül 10 óra óta szinte teljesen elérhetetlen a webes felület, habár a Google más szolgáltatásai, mint a Docs vagy a Reader mûködnek. Eközben a Facebook is lassan, esetenként sehogysem töltõdik be. Vihar van az internetes felhõben!
+
+
+
+Fél év alatt a második komoly leállás
+
+A Gmail fél évvel ezelõtt már produkált egy néhány órás nagyobb leállást, amely most megismétlõdni látszik. Peresztegi Zoltán, a Google hazai képviselõje a HWSW számára megerõsítette, hogy globális jelenségrõl van szó, a rendszer nem csak nálunk, de például Londonban vagy az Egyesült Államokban sem elérhetõ. Részletesebb információk nem állnak rendelkezésre egyelõre, hisz a hiba nem csak a normál felhasználókat érintette, hanem valószínûleg az elõfizetõket, sõt, a Google-dolgozókat is, így náluk is akadozik az információáramlás.
+
+A web 2.0 rémálma
+
+A leállás szinte biztosan több adatközpontokra kiterjedõ, s már ezen cikk születése közben is többen jelezték, hogy náluk megoldódni látszik a probléma. Egyes esetekben a belépés még mûködik, sõt idõnként érkeznek is levelek, de megválaszolni már nem lehet õket, míg a legtöbben az "502 Server Error" hibaüzenettel találkoznak. A Google többi szolgáltatását úgy tûnik nem érintette az eset, hiszen a Google Talk, a Reader, a Docs, a News, a Picasa is tökéletesen mûködik. Több felhasználó jelezte, hogy a POP3/IMAP letöltés mûködik, viszont a Gmail for Mobile szintén gyengélkedik.
+
+[+] Állítólag megbízhatóak
+
+Mi a teendõ?
+
+Az ilyen leállások esetén a hibaelhárítást tovább nehezítheti, hogy a kétségbeesett felhasználók ezrei vagy éppen milliói percenként nézegetik, hogy mûködik-e már a szolgáltatás, amivel gyakorlatilag egy, a szokásosnál is komolyabb terhelésnek, mondhatni egy ad hoc DoS-támadásnak teszik ki a szervereket. Az ideális megoldás ilyen esetekben az lenne, hogy mindenki igyekszik a nyilvános fórumokból, a hivatalos blogból tájékozódni és amennyiben megerõsítést nyert hogy helyreállt a rend, akkor próbál újra belépni.
+
+A Facebook is rendetlenkedik
+
+
+A hivatalos Google-blogokon egyelõre viszont semmilyen bejegyzés nincs a hibával kapcsolatban, a fél évvel ezelõtti esetet alapul véve csak a megoldással együtt kommunikálnak majd mindenrõl. A visszatérés hasonlóan az új funkciók bevezetéséhez, várhatóan szakaszosan történik majd, ha valaki azt látja, hogy a mellette ülõ kollégáinak már mûködik, akkor sem kell aggódnia. Eközben a Facebook is enyhébb teljesítményproblémákkal küzd, habár a jelenség nem öltött akkora méreteket, mint a Gmail-fiaskó. A két eset között feltételezhetõen nincs összefüggés.
+
+Az eseményeket a HWSW folyamatosan követi majd a nap folyamán, s a frissítéseket ugyanebben a hírben közzétesszük.
+
+Update 1: A Goolge Help fórumban olvasható értesítés szerint a problémát közép-európai idõ szerint 15:30-ig megoldják, igaz azt is állítja a cég, hogy a felhasználók csak kis részét érinti az eset, ami a közösségi visszajelzések alapján nem valószínû. Eközben már szinte minden médium, blog és egyéb információforrás harsog az esetrõl: Techcrunch, Webisztán, Twitter, Google News. 
+
+Update 2: Néhány órával az ígért idõpont elõtt, tehát fél kettõ körül a legtöbb helyen már újra elérhetõ a Gmail. A hivatalos közlés is megerõsítette, hogy közép-európai idõ szerint 10:30-tól jelentkeztek a problémák és ezek érintették a normál illetve az Apps-felhasználókat is. A Google azzal mentette magát, hogy akik telepítették az Offline modult, azok ez idõ alatt is elérték a leveleiket, de a cég természetesen sajnálja a kellemetlenségeket. A fórumokon legnépszerûbb találgatás szerint egy elrontott frissítés okozta a globális problémát, de egyelõre nincs hivatalos indoklás a történtekre. Mire az amerikai felhasználók felébredtek, már minden rendben volt.
+
+Update 3: Felhasználói információk szerint a kiesés a Gmail mellett a szerzõdött partner levelezõk, mint például a mailbox.hu rendszerét is érintette. A Google a tegnap este folyamán továbbá bejelentette azt is, hogy a tavaly augusztusi kieséshez hasonlóan 15 nap ingyenes használattal kompenzálja a fizetõs üzleti ügyfeleit.
+
+Update 4: A Google meglepõ módon részletes magyarázattal állt elõ a tegnapi kiesést illetõen. Ezek szerint tegnap reggel egy szokványos rutin karbantartást végeztek az egyik európai adatközpontban, ami többnyire nem okoz problémát, mert a fiókok adatai egyszerûen átkerülnek egy másik központba. Most viszont egy újonnan beépített kód, melynek célja, hogy a fiókokat fizikailag közel tartsa a felhasználó tartózkodási helyéhez, túlterhelt egy másik központot. Ez pedig dominó-hatást kiváltva borította meg a többit is.

@@ -1,0 +1,28 @@
+A Kürt ott is megtalálja a biztonsági réseket, ahol mások nem
+
+Eddigi legnagyobb biztonsági audit projektjét zárta le a Kürt nemrég, mellyel egyúttal újabb erõs referenciát szerzett magának. A magyar IT-biztonsági vállalat a világ egyik legnagyobb mobilszolgáltatója, a kuvaiti Zain rendszerének hiányosságait térképezte fel mintegy kéthavi munkával, és a vállalalat különösen büszke arra, hogy "ismeretlen" versenyzõként szerzett nevet magának hírnevet a Közel-Keleten. 
+
+
+
+Noname cégként mentek oda
+
+A Kürt globális nagyvállalatok és más hasonló specializált cégek elõtt nyerte el a Zain csoport tenderét, mely 21 országban 42 millió ügyfelének nyújt telekommunikációs szolgáltatásokat, mobiltelefonos elõfizetõinek száma meghaladja a 20 milliót. Csuba Dea, a Kürt marketingvezetõje a sikeres projekttel kapcsolatban tartott sajtókonferencián elmondta, hogy "noname cégként mentek oda", most pedig már a Zain üzleti partnereinek kiemelten ajánlja a magyar csapatot. Az ügylet értéke több százezer dollár, és tucatnyian dolgoztak rajta.
+
+A tavalyi év fordulópontot jelentett az információbiztonság terén, véli Kmetty József, a Kürt vezérigazgatója. Csak a nyilvánosságra került incidensek rendkívüli súlyos kockázatokat jeleznek, mint például az Észtország elleni összehangolt DDoS támadás (megosztott szolgáltatásmegtagadás túlterheléssel), 25 millió brit adófizetõ személyes és pénzügyi adatainak eltûnése és az erre alapozott hamisított bankkártyák tömeges felbukkanása, de az eddigi egyik legnagyobb horderejû, több hónapot felölelõ betörés során több mint 100 millió amerikai vásárló személyes adatait szerezték meg bûnözõk és értékesítették a feketepiacon. "Mindenki próbál lépni valamit" -- fogalmazott Kmetty.
+
+Ennek a trendnek a felismeréseként hozta létre a Kürt biztonsági intelligencia szolgáltatásait, melyhez kapcsolódóan immár 12 országban nagyjából 100 projekt folyik -- ezek közül a kuvaiti az eddigi legnagyobb. A biztonsági intelligencia egy komplex auditnak fogható fel, mely négy fõ elembõl épül fel: etikus hackelés, logelemzés, oktatás és nyomozás. Kmetty szerint a Kürt hackelése és logelemzése többet nyújt versenytársaiknál, ami két meghatározó tényezõre vezethetõ vissza.
+
+Nem csak automatizált eszközökkel
+
+Az egyik, hogy a kockázatokat nem szigorúan automatizáltan, hanem összefüggéseiben igyekeznek feltérképezni, jelentõs humán erõforrást bevonva, így olyan réseket is felfedeznek, melyeket korábban más auditorok nyitva hagytak. "Nagyban függ a siker attól, hogy egy-egy vállalat kultúráját milyen gyorsan tudjuk megismerni" -- kommentálta Frész Ferenc, a cég biztonsági intelligenciáért felelõs vezetõje. Ez azért fontos, tette hozzá, mert automatizált eszközökkel rengeteg cég van jelen a piacon.
+
+A másik a logelemzésben rejlik, mely nemcsak múltbéli incidensek és kockázatok feltérképezését teszi lehetõvé, hanem jövõbeni események elõrejelzése is lehetséges általa. "Képesek vagyunk arra, melyre mások nem: jóslunk" -- fogalmazott Kmetty. "Melyik biztonsági eszközön fognak valószínûleg áthatolni [...] vagy meg lehet mondani az elõkészületek alapján, ha valaki csalásra készül". Nem szabad naívnak lenni: a HWSW ismeretei szerint a nagyobb hazai bankoknál évente egyenként több tucat alkalmazottat kapnak el csalás vagy adatlopás kapcsán. Az egyik vezetõ bank biztonsági fõnöke elmondta, tõlük több mint 30 embert vittek el tavaly "bilincsbe verve".
+
+Dolánszky György információbiztonsági specialista elmondta, hogy a Zainnál nem vártak különösebbet az audittól, ugyanis négy hasonlón már korábban átestek. "De már az elsõ héten olyan hibákat láttunk, melyek bõven túlmutattak az IT-rendszereken", mondta, majd hozzátette, hogy gondok voltak a fizikai védelemmel és az outsourcing partnereknél is. Frész szerint biztonsági problémákat kódolt a rendszerbe az, hogy a szervezeti felépítés piramisszerû volt, ahol egy szint felett szinte feddhetetlennek és megkérdõjelezhetetlennek tartott emberek ültek, akik oldalirányban sem nagyon kommunikáltak egymással.
+
+
+ Az ügyfél nevesítése miatt mélyebb részleteket ugyan nem osztott meg a Kürt, de Frész annyit elárult, hogy a mintegy 16 milliós IP-tartományban több ezer hálózati eszközzel bíró vállalat auditálását követõen a vállalat mátrixszervezetté alakította magát, hogy képes legyen kezelni a problémákat, ami a vezetõket és alkalmazottakat egyaránt sokkolta a kulturális beidegzõdés miatt. 
+
+Megalázó
+
+Arra a kérdésre, hogy mennyire fogadják el az ügyfelek az audit eredményét, mennyire tartják hitelesnek az ilyen jelentéseket, Kmetty úgy válaszolt, ez valóban probléma szokott lenni, a megrendelõk gyakran próbálnak tagadni, kisebbíteni a kockázatok súlyosságát. "Amíg nem érzik magukat megalázva [a döntéshozók], addig nem reagálnak". Ilyen esetekben kerülnek elõ a felsõvezetõk személyes adatai, a biztonsági kamerák képei, az üzleti tervek, melyek elég sokkolóak általában ahhoz, hogy komolyan vegyék az audit eredményét. A foltozások vagy új rendszerek implementációját az elterjedt gyakorlat alapján nem az auditor végzi, így nem érheti az a vád, hogy túldramatizálja a problémákat.

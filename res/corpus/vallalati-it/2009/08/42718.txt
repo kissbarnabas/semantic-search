@@ -1,0 +1,10 @@
+Ismét szállítja új SSD-it az Intel
+
+Ahogyan arról a HWSW is beszámolt, az Intel felfüggesztette júliusban bemutatott új X25-M SSD-inek a szállításait, miután kiderült, hogy a BIOS-on keresztül beállított meghajtó jelszó megváltoztatásával vagy kikapcsolásával használhatatlanná válnak, továbbá a jelszó élesítésekor a rendszer lefagyhat. Ígéretéhez híven a hibákat két héten belül javította az Intel, és támogatási weboldalán már hozzáférhetõ a frissítést elvégzõ eszköz egy ISO kép formájában, mely egy FreeDos operációs rendszert is tartalmaz.
+
+Az Intel arra figyelmeztet, hogy a Safari nem jól tölti le a képfájlt, valamint NVIDIA chipsettel szerelt Maceken nem ismeri fel az eszköz az SSD-t, így más chipsettel rendelkezõ gépen kell a frissítést megtenni. Probléma lehet még, ha AHCI SATA módban, vagy RAID-ben használjuk az SSD-ket. Az augusztus 10-i dátumozású 2CV10G9 firmware kizárólag az új, 34 nanométeres chipeket alkalmazó SSD-kre vonatkozik, az eddigi X25-M és X18-M modellek esetében nem történt frissítés.
+Az Intel július 21-én jelentette be, hogy 50-60 százalékkal csökkenti X25-M SSD-inek árát, mivel sikeresen bevezette a 34 nanométeres csíkszélességû gyártástechnológiát, mellyel a korábbinál jóval olcsóbban állíthatóak elõ NAND flash chipek, mivel egyetlen szilíciumszeletre nagyjából két és félszer annyi fér el. Az új SSD-k ráadásul tovább fokozták az egyébként sem szerény írási mûveleti sebességet, és gyorsítottak a hozzáférési idõn is. Méréseink szerint az SSD-k hozzák a specifikációikban ígért 250 MB/s lineáris olvasási és 70 MB/s lineáris írási sebességet, de igazán csak a random mûveletvégzési gyorsaságban semmisíti meg a merevlemezeket.	     
+                  
+                  
+                  
+                   

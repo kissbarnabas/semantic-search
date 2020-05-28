@@ -1,0 +1,12 @@
+Felével nõ idén a virtualizációs szoftverek piaca az EMEA régióban
+
+Az EMEA régióban az idén 55 százalékkal 512 millió euróra nõ a virtualizációs szoftverek piaca -- áll a Gartner által közzétett friss elõrejelzésben. A virtualizáció segítségével ugyan csökkenthetõk a költségek, azonban a bevezetése jelentõs beruházást igényel. A Gartner vezetõ elemzõje, Rene Millman szerint az EMEA régió országainak gazdaságát fékezõ recesszió a virtualizáció terjedését is gátolja kezdetben.
+
+
+
+Az EMEA-piac zömét Nagy-Britannia, Németország és Franciaország adja, ez a három ország a teljes virtualizációs szoftverpiac 23, 22 és 16 százalékát adja egyenként. További nagy piacnak számít Hollandia, Spanyolország és Svájc is. A Gartner jelentése szerint Kelet-Európában a virtualizációs szoftverpiac mindössze 19,8 millió eurót tett ki tavaly, az idén ez 33 millió euróra bõvül. Az elemzõcég Csehországot, Magyarországot, Szlovéniát, a balti országokat, Lengyelországot és Szlovákiát sorolja azok közé, ahol a virtualizáció a leginkább elfogadott, azonban a nyugat-európai szintet egyik ország sem üti meg. A Gartner úgy látja, ezek a piacok rendkívül árérzékenyek, ezért csak a megbízható, de kedvezõ áron értékesített megoldásoknak van esélye a sikerre.
+
+
+ A virtualizációs infrastruktúra, illetve a felügyeleti megoldások szinte egyforma, 158 millió euró körüli forgalmat generáltak tavaly. A Microsoft Hyper-V megjelenésével, illetve a VMware ESX ingyenessé válásával a hangsúly egyre inkább a felügyeleti eszközök felé tolódik el, az infrastruktúra-szegmens 32 százalékkal bõvül, a felügyeleti megoldások piacán azonban 54 százalékos lesz a fellendülés, ezzel a szegmens 244 millió euróra nõ.
+
+A legnagyobb növekedés elõtt a hosztolt virtuális asztali környezetek (HVD) állnak, ezek piaca több mint négyszeresére bõvül idén, bár még így is csak 56 millió eurót tesz ki. A Gartner korábbi elemzése szerint ez a piac 2013-ra világszerte 65 milliárd dollárra bõvül, 49 millió felhasználót kiszolgálva. A HVD a szervervirtualizációhoz hasonlóan használható a költségek csökkentésére, azonban a kezdeti beruházásigény itt is fékezi a terjedést, a Gartner szerint 2010-ben indul meg az igazán nagy fellendülés ebben a szegmensben.

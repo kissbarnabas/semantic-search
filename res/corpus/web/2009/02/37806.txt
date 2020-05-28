@@ -1,0 +1,14 @@
+Kritikus sebezhetõség az Adobe Acrobatban, Readerben
+
+Már terjednek azok a speciálisan elõkészített PDF-állományok, amelyek segítségével kihasználható az Adobe Acrobatban és Readerben felfedezett, egyelõre befoltozatlan sérülékenység. A támadók teljes irányítást szerezhetnek az áldozat gépe felett.
+
+
+
+Kritikus sebezhetõségre figyelmeztet az Adobe, ami a PDF-állományok olvasására szolgáló Readerben és a fájlok létrehozására alkalmas Acrobatban egyaránt jelen van. A PDF-fájlok beolvasásáért felelõs rutinban olyan hiba maradt, amelyet egy speciálisan elõkészített állománnyal kihasználva támadók akár teljes kontrollt szerezhetnek a számítógép felett, azaz saját kártékony kódjaikat futtathatják, adatokat módosíthatnak vagy tulajdoníthatnak el, vagy akár további támadásokat indíthatnak más rendszerek ellen.
+
+A szoftvercég tudatában van a problémának és már dolgozik is a javításon, az Acrobat 9 és a Reader 9 kövekezõ frissítése azonban csak március 11-én várható, a szoftverek korábbi verzióihoz (7.x, 8.x) pedig még ennél is késõbb fog megjelenni a javítás. A vállalat addig azt tanácsolja a felhasználóknak, hogy rendszeresen frissítsék víruskeresõjüket és semmilyen körülmények között ne nyissanak meg ellenõrizetlen, megbízhatatlan forrásból érkezõ PDF-fájlokat. Megoldás lehet még egy másik PDF-olvasó, például a Foxit Reader vagy a SumatraPDF  használata.
+
+
+ A McAfee biztonsági cég szerint egyelõre csak kevés célzott támadás használja ki a PDF-olvasó sérülékenységét, azonban a jövõben egyre gyakoribbak lehetnek az ilyen esetek, ahogy mind több és több információ lát napvilágot a hibáról, illetve ahogy az online alvilágon belül elkezdenek terjedni a sebezhetõséget kihasználó példakódok. 
+
+Az online fenyegetéseket összesítõ IBM X-Force biztonsági jelentés szerint minden korábbinál több új sebezhetõségre derült fény tavaly, ezzel párhuzamosan pedig emelkedett a rések súlyossága is. A weboldalakba ágyazott rosszindulatú kódok harmada az ActiveX-et, harmada az Internet Explorert, míg az Adobe Flash és Adobe Acrobat termékeit összesen negyedük támadta.

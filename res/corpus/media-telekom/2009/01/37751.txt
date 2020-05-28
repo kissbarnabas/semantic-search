@@ -1,0 +1,20 @@
+Folyamatosan növelik hálózatuk sávszélességét a hazai mobilszolgáltatók
+
+Már mindhárom hazai mobilszolgáltató megkezdte már a leggyorsabb HSDPA-technológia bevezetését, vagy közel áll a kereskedelmi bemutatóhoz. A sort a T-Mobile nyitotta tavaly novemberben, a Pannon kevesebb mint egy hónapon belül követte, most pedig a Vodafone közölte, hogy már közeledik a 14,4 megabites HSDPA piaci premierje. 
+
+
+
+Nem a sebesség, a kapacitás a lényeg
+
+Sajnos egyetlen cég sem árulja el, hogy pontosan hol, és milyen ütemben kezdte meg, vagy tervezi megkezdeni a 14,4 megabit/s letöltési sebességet kínáló hálózat bekapcsolását. A korábbi tapasztalatok alapján Budapest belsõ kerületeiben, valamint más városok nagyobb népsûrûségû, forgalmasabb csomópontjain érdemes a fejlesztésre számítani elsõként. Olyan mobilkészülék, mely támogatná ezt a sebességet, egyelõre nincs a piacon, de a sávszélesség növelése mégsem felesleges: a szolgáltatók így több felhasználót képesek kiszolgálni egy cellában anélkül, hogy a felhasználónkénti sebesség leromlana. A bõvítés azért is szükséges, mert mindhárom szolgáltató kínál megfizethetõ, korlátlan adatforgalmat biztosító csomagokat, amelyek mágnesként vonzzák az új ügyfeleket.
+
+Az operátorok számára az elsõdleges haszon a magasabb névleges linksebességû HSDPA-verzióknál az, hogy megnövekszik egy cella szolgáltatási kapacitása, melyet szétoszt a felhasználók közt, így a növekvõ terhelést képesek úgy lekövetni, hogy a szolgáltatás színvonala lehetõleg ne szenvedje kárát. Eközben folyik a hálózatok országosan 7,2 megabitessé tétele is a bázisállomások frissítésével, miközben a 14,4-es hálózat valószínûleg csak a magas terhelésû területeken jelenik meg inkább.
+
+
+ Mindig fontos fejben tartani, hogy ezek a névleges sebességek, melyeket egy-egy felhasználó sosem érhet el a valóságban a számos zavaró tényezõ és más felhasználók aktivitása miatt. A valós sebesség a T-Mobile közlése alapján a HSDPA 7,2 technológia esetén jellemzõen 1,6 Mbps, az esetek 10 százalékában 3,1 Mbps feletti, míg a HSDPA 3,6 esetén jellemzõen 770 kbps, az esetek 10 százalékában 2,6 Mbps vagy azt meghaladó felhasználói letöltési sebesség érhetõ el. Az egyes 3G/HSDPA-hálózatok lefedettsége nagyban eltérõ, a lakosságra vetítve 60-65 százalékos. A mobil szélessávú felhasználók száma meghaladja a 400 ezret.
+
+HSUPA a Pannonnál is
+
+Nemcsak a 14,4 megabites HSDPA terén kerülnek hamarosan egy szintre a hazai mobilcégek, de a HSUPA jelenlétében is sincs már különbség. A Pannon ugyanis még karácsony elõtt közölte, a 14,4-es bázisok után a HSUPA bevezetését is megkezdte, mégpedig országosan. A másik két szolgáltató már országos HSUPA-képes hálózattal bír. Amennyiben ez, és a 7,2-es frissítés lezárul, úgy a magyarországi mobilhálózatok technológiai oldalról az elérhetõ legfrissebbek lesznek: a 3GPP Release 6 specifikációkat valósítják meg. 
+
+A következõ lépcsõfok, a Release 7 az úgynevezett HSPA+, vagy Evolved HSPA, mely tovább növeli a cellák kapacitását, 42 megabites le-, és 22 megabites másodpercenkénti feltöltési sebességre. A HSPA+ ráadásul lehetõséget nyújt teljesen IP-alapú hálózat létrehozására, ami hatalmas egyszerûsítésre és költségcsökkentésre kínál lehetõséget. A keresekdelmi HSPA+ szolgáltatáshoz szükséges berendezések azonban még fejlesztés alatt állnak, terjedésük legkorábban 2009 második felében, de inkább jövõre indulhat meg.

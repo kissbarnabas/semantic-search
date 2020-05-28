@@ -1,0 +1,39 @@
+Kipróbáltuk: Nav N Go iGO 8 Europe - az új dimenzió
+
+Új dimenzió. Nem csupán valódi harmadik a megjelenítés terén, hanem egyéb szempontokból is. A tegnapi sajtóbemutató után kíváncsian vettem kézbe az agyonsztárolt navigációs szoftvert, vajon sikerül-e neki felnõni a feladathoz, megfelelni a felfokozott várakozásoknak. Jelentem, szenzációsan jó lett. A microSD kártyán érkezõ programot rögtön a mélyvízbe vetettem, egy komoly problémával kellett szembenéznie: a Mio A702 okostelefon gyenge, 200 MHz-es processzorával és nem túl sok szabad memóriájával.
+
+
+
+Optimalizáció
+
+Az új navigációs program egyetlen kivitelben, Európa 43 országát tartalmazó változatban érkezik. A 2 gigabájtos memóriakártyán csupán 317 megabájtnyi szabad terület marad, azaz az eddig kevesebb mint 1 gigabájtnyi térképadat több mint másfélszeresére duzzadt. A program telepítése semmiben sem különbözik a korábbi változatokétól, és rögtön indítható is. Az iGO 8 a korábbi változatoknál valamivel lassabban indul -- nem csak az elsõ futtatáskor --, ezt követõen jönnek a megszokott kérdések: a nyelv és hang beállítása, majd egy új lehetõség: normál, vagy profi módban szeretnénk használni a navigációt. A normál módban lényegesen egyszerûbb felületen érhetjük el a legfontosabb funkciókat, míg a profi módban használhatunk minden létezõ opciót.
+
+
+
+Félve telepítettem fel az alkalmazást a GPS-es Mio A702 okostelefonra, egyrészt lassú, 200 MHz-es processzora, illetve kevés programmemóriája okán. Tavaly volt szerencsém a HP navigációs berendezésén látni az iGO 8-at, a programozók viszont azóta írtózatosan sokat optimalizálhattak a kódon. Õszinte meglepetés volt, hogy bár a térkép rajzolása és mozgatása kicsit döcögõsebb, mint a My way 2006 Plus-é, még éppen elfogadható sebességet nyújt bekapcsolt domborzat és épületmegjelenítés mellett is. A szoftver a jelek szerint igen jól skálázódik, még az animált menüket is be lehetett kapcsolni.
+
+Az okosabb útvonaltervezés sem volt lassabb, mint a korábbi változaton, sõt. A hétvégi sofõröknek nagy segítség lehet az új, "jól követhetõ" mód, mely a lehetõ legkevesebb fordulóval, manõverrel tervezi meg az útvonalat. A leghasznosabb viszont végre a megtervezett útvonal melletti érdekes pontok, benzinkutak, pihenõk, parkolók, POI-k keresésének lehetõsége, ez nagyon hiányzott az elõzõ változatokból. Ezentúl nem kell bûvészkedni, ha utazás közben benzinkutat keresünk a megtervezett út mellett. 
+
+    
+
+Grafikus orgia
+
+A háromdimenziós megjelenítés sokat dob az élményen, végre vizuálisan is látszik, hogy egy autópálya csomópontnál melyik út melyik felett megy el. Az épületek természetesen sokszor csak szimbólumok, a nagyobb nevezetességek kivételével véletlenszerûen generált textúrák borítják õket -- ahogyan Moha bá' a sajtótájékoztatón mondta, még nem találták fel az 1700 gigabájtos memóriakártyát, hogy fotorealisztikus legyen az egész megjelenítés, nameg adatok sem állnak erre rendelkezésre. A magassági adatok azonban többnyire passzolnak, ha valahol toronyházat jelez a program, ott valósznûleg az is van, segítve ezzel a gyors tájékozódást.
+
+
+A grafikusok sokat dolgozhattak az iGO 8 alap "bõrén" -- melyhez továbbiak is letölthetõk lesznek majd --, a felület fekvõ és álló módban is optimálisan elhelyezett, gyönyörûen megrajzolt. Tetszenek az ikonok is, melyek áttetszõvé válnak, növelve ezzel a térkép által elfoglalt helyet. Az egyetlen gombnyomással elérhetõ, 2D-s térképböngészõ mód is sokkal kezelhetõbb, villámgyorsan kereshetünk POI-kat az általunk meghatározott terület körül. Végre sokkal közelebbrõl látszanak a POI-k, benzinkutak, parkolók ikonjai is, nem akkor vesszük csak észre, amikor már elhaladtunk egy rejtettebb városi kút mellett.
+
+ 
+
+Az iGO 8 együtt tud mûködni a komolyabb navigációs berendezések Bluetooth-ával is, sajnos az A702 bekapcsolt Bluetooth moduljával nem értett szót, szürke maradt az apró ikon. A Bluetooth-on keresztül a szoftver az érdekes pontok mellé rögzített telefonszámokat is hívhatja majd, így rögtön tárcsázhatjuk a kinézett éttermet az asztalfoglaláshoz. A Nav N Go a POI-adatbázist teljesen függetlenítette, önálló állományokba szervezte, késõbbiekben óriási lehetõségeket rejthet a minél több adattal feltöltött adatbázis.
+
+  
+
+Must have
+
+Az apró változtatások, frissítések, okosítások listája sok-sok A4-es oldalt tölthetne meg, annyi van belõlük, cikkünk is csak egy gyors áttekintést nyújthat az elsõ benyomásokról. Az kétségtelen, hogy megéri a 28 ezer forintos összeget a csereprogram, 89 eurót a frissítés, közel 40 ezer forintot a teljes, dobozos verzió, az új változathoz 3 évig garantált térképfrissítést is kapunk a sok-sok új funkció mellett. Az egyetlen kérdés a kompatibilitás, vásárlás elõtt feltétlenül érdemes megvizsgálni a kompatiblitási listát, vagy bújni a fórumokat, másoknak milyen tapasztalata van -- a MIO A702 szépen futtatja az új alkalmazást, ezzel már bõvíthetjük is a listát. A Nav N Go iGO 8 új dimenziót nyitott, a konkurencia ismét felkötheti a gatyáját.
+
+
+Véleménye van?
+Szóljon hozzá a fórumban
+írjon szerkesztõségünknek!

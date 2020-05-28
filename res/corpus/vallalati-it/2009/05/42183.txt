@@ -1,0 +1,25 @@
+Jönnek a hatmagos Opteronra épülõ szerverek
+
+Elkérik az árát
+Ahogyan azt már április óta hivatalosan is tudni lehet, az Istanbul már az elsõ negyedévben tömegtermelésbe került, és szállításai megkezdõdtek májusban, így az azzal szerelt rendszerek a szerverszállítók gyorsaságától függõen akár már júniusban elérhetõvé válhatnak. A chip a várakozásoknak megfelelõen 2,6 gigahertzen debütál, de a premierkor elérhetõek lesznek 2,4 és 2,2 gigahertzes változatok is. A termelés felfutásával és optimalizálásával a harmadik negyedévre az AMD magasabb órajelû, egyúttal HE (high efficiency) és EE (extreme efficiency) energiaosztályú modelleket is tervez.
+
+Az AMD a négymagos Opteronokhoz hasonló ártartományba pozicionálja az Istanbult is, az extra lóerõket azonban meg kell fizetni. A legerõsebb kétutas (2400-as sorozatú) változatért mintegy 17 százalékos felárat kell majd fizetnünk a legdrágább, 3,1 gigahertzes Opteron 2393 SE-hez viszonyítva, míg a négy-nyolcutas gépeket megcélzó 8400-as sorozatú nem lesz drágább. Az Istanbul kínálata azonban nem követi a piac aljára a négymagos Opteronokat, az abszolút belépõkategóriás gépekbe az AMD láthatóan nem kívánja kínálni drágán termelhetõ chipjét. Ennek megfelelõen a lassabb Istanbulok is jóval drágábbak lesznek, mint a 2,6 gigahertzes négymagos Opteronok.
+
+
+Az Istanbul szilíciumáról készült felvétel, bal oldalt látható a Shanghaihoz toldott két extra mag
+
+HyperTransport Assist 
+A kettõ addicionális magon kívül a mikroarchitektúrát tekintve az Istanbul lényegében minden tekintetben megegyezik a Shanghaijal, a négy- és nyolcfoglalatos gépek számára azonban tartogat egy ínyencséget. A HyperTransport (HT) Assist egy új koherenciaprotokoll, mely lecsökkenti a processzorok közti kommunikációt azzal, hogy az L3-ban egy indexet épít fel az adatok elhelyezkedésérõl. A célzott, direkt lekérdezéssel töredékére csökkenthetõ a processzorok megszondáztatásával járó kommunikáció nagy része, ami megnöveli a processzorokat összekötõ HyperTransport linkek effektív sávszélességét, lerövidíti a "lekérdezõ" processzor válaszra való várakozását, és csökkenti a szomszédos processzorok L3 tárának terheltségét.
+Az AMD szerint ezzel a szondáztatásokkal járó forgalom több mint 70 százalékkal szorítható le, aminek hatására egy négyfoglalatos rendszerben 60 százalékkal növekszik a rendszerszintû memóriasávszélesség. Bár az index 1 megabájtnyi területet lefoglal a 6 megabájtos L3 tárból, az AMD szerint nem regisztráltak egyetlen olyan esetet sem, mikor romlott volna a teljesítmény, ugyanakkor leszögezték, hogy a HT Assistnek kétfoglalatos rendszerben nincs igazán értelme. A technika leginkább a 4-8 chippel szerelt, nagy memóriaterhelésû adatbázis és virtualizációs gazdaszervereken mutatja meg elõnyeit.
+Socket F Refresh
+
+Az Istanbul jelentõs elõrelépést képvisel tehát az órajellel kevéssé skálázódó, viszont a párhuzamosságot kedvelõ alkalmazások számára, különösen ha azok viselkedése memóriaérzékeny, mint amilyenek a már említett adatbázisok és kapcsolódó tranzakcionális rendszerek, a virtualizált környezetek is. Tekintve, hogy a Nehalem-EX a vártnál valamivel késõbb, 2010 elején érkezik, az AMD újra megkapaszkodhat a x86-szerverpiac 4-8 foglalatos, alacsony volumenû ám zsíros szegmensében, ahol az Intel továbbra is a szûk adatbuszok végein éhezõ hatmagos Xeon 7400 processzorokkal van jelen.
+
+Ahogyan azt már korábban is jeleztük, a Nehalem-EP (Xeon 5500 sorozat) árnyékában az Istanbul leginkább a 2006 nyarát követõen vásárolt, Socket F foglalatú szerverek frissítésére leginkább érdekes, aminek fontosságát maga az AMD már a Shanghai tavaly novemberi megjelenésekor elkezdte hangsúlyozni, hogy kikerülje a kilátástalan teljesítményharcot. Az osztott feszültségbetáplálással rendelkezõ Socket F alaplapokba egy BIOS-frissítést követõen beilleszthetõek az Istanbulok is, ügyes kezekkel akár negyed óra alatt -- az Istanbul az utolsó Socket F AMD-chip, mielõtt a vállalat jövõre teljesen megújítja szerverplatformját. 
+
+
+
+Így gyorsan és olcsón két-háromszoros teljesítményhez juthatunk, a processzorokon kívül&nbsp;nincs szükség semmilyen más alkatrész cseréjére, így például nem kell DDR3-memóriát vásárolnunk, és megtanulni bekonfigurálni azt, ami például a Nehalem szervereknél elsõ nekifutásra közel sem triviális feladat. A processzorok cseréjéhez az AMD még árkedvezményt is ad az Opteron Upgrade Program keretén belül, a 2000-es és 8000-es sorozatú Opteronok áraiból rendre 50 és 100
+dollár engedményt ajánl azok számára, akik frissítenek, vagyis egy
+kétutas rendszer esetén 100, egy négyutasnál 400, egy nyolcutas gépnél
+pedig 800 dollár megtakarítást jelent a processzorok árából. 

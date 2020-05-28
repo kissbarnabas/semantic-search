@@ -1,0 +1,14 @@
+Négy új processzorral bõvült az AMD üzleti platformja
+
+Négy új processzorral bõvítette múlt héten üzleti platformját az AMD, mely így összesen tizenegy processzorból áll, több négymagos, hárommagos és kétmagos megoldásból.
+
+
+
+Egy négymagos Phenom X4, egy hárommagos Phenom X3 és két kétmagos Athlon X2 processzorral egészült ki a második számú processzorgyártó tavasszal bemutatott, Perseus kódnevû üzleti platformja. Az új chipek közül a Phenom X4 9750B és a Phenom X3 8750B órajele és TDP-je megegyezik: mindkét processzor 2,4 GHz-en ketyeg és mindkettõ a 95 wattos energiaosztályba tartozik. Az Athlon X2 5600B órajele 2,9 GHz, az Athlon X2 4850B pedig 2,4 GHz-en jár, cserébe lényegesen energiatakarékosabb a másik kétmagos modellnél: elõbbi 65, utóbbi 45 wattos TDP-mutatóval bír.
+
+
+A Business Class termékekért a gyártó mintegy 5 százalékos felárat kér, cserébe az AMD hároméves garanciát vállal a termékekre, és garantálja a most piacra dobott modellek hozzáférhetõségét legalább egy, de akár 2 éven keresztül, míg a családba kerülõ új termékek piacra kerülésüket követõen egy évig biztosan elérhetõek lesznek folyamatosan. A gépparkok késõbbi homogén bõvítése így biztosított a vállalatok számára, ami egyszerûsíti a rendszerképek menedzselését.
+
+Az AMD Business Class nevû platformja kizárólag a processzorok körét határozza meg, akár a chipset és a grafikus chip is lehet más gyártótól származó. Ez a nyílt megközelítés kontrasztban áll az Intelével, mely a processzor mellett a komplett chipsetet, integrált grafikus magot, és saját távfelügyeleti (Active Management Technology) megoldást is szállít vPro platformjához, valamint sajátmárkás alaplapjaival is versenyez partnereivel. Az AMD üzleti platformba szánt processzorait a típusjelzés után illesztett &#8222;B&#8221; jelölés különbözteti meg az asztali processzorokból álló kínálat többi tagjától.
+
+Az AMD egyelõre nem hozta nyilvánosságra az új Business Class sorozatú CPU-k végfelhasználói árát.

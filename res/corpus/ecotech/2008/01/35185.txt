@@ -1,0 +1,22 @@
+Erõsen kapaszkodik a piacon az AMD, de nyomasztó az Intel árazási fölénye
+
+Halmozott problémái ellenére eredményesen kapaszkodik a piacon az AMD. A vállalat 2007 során mindössze 1 százalékpontnyi részesedést vesztett az x86-os processzorok piacán az Intel nyomása ellenére, átlagos eladási ára azonban erõsen megszenvedte a harcot, derül ki a Mercury Research által közzétett adatokból.
+
+
+
+A VIA húzta a legrövidebbet
+
+Az Intel tavaly 2,6 százalékponttal 77,1 százalékra növelte részesedését a leszállított x86-os chipek piacábn, miközben az AMD-é 1 százalékpontot vesztve 22,1 százalékra olvadt, vagyis a két vállalat harcából legnagyobb vesztesként az amúgy is perifériára szorult VIA került ki. A Mercury értékelése szerint az átlagos eladási árak stabilizálódni látszódtak az év második felében, bár a 2006-os szinthez képest így is jelentõs csökkenést mutatnak. A stabililódás jelei ugyanakkor a két vállalat közötti brutális árharc végének közeledtére utalnak. 
+
+A negyedik negyedévben az AMD 23 százalékos piaci részesedéssel bírt, míg az Intel 76,3 százalékon állt. A Mercury Researchtõl kiszivárgott táblázatok alapján az AMD minden szegmensben részesedést vesztett 2006 negyedik negyedévéhez képest, melyet ugyanakkor torzító túlszállítások jellemeztek. A szerverprocesszorok terén az AMD 14,1 százalékos részesedést szakított ki a negyedik negyedévben, míg az asztali szegmensben a cég 27,7 százalékot, a mobilprocesszorok terén pedig közel 18 százalékot szerzett.
+
+Olcsóbban drágábbat
+
+
+A Mercury Research becslése szerint az idei második negyedév során a mobilprocesszorok szállításai felülmúlják az asztali chipekét, elsõként az iparág történetében. Az AMD az év egészében növelte részesedését a mobilchipek piacán, aminek megfékezésére az Intel drasztikus árcsökkentéseket hajtott végre. A Mercury becslése szerint az Intel mobil processzorainak átlagos eladási ára közel 20 százalékkal esett 2007 során, míg az AMD-é kevesebb mint 5 százalékot, de az Intel még így is több mint 70 százalékkal drágább a riválisánál.
+
+Az Intel árazási fölénye minden szegmensben megfigyelhetõ, átlagosan 66 százalék körüli, a legnagyobb a mobilchipeknél, míg a legkisebb az Opteronoknál, ahol nagyjából 40 százalék, jól mutatva a két vállalat termékkínálatának relatív mûszaki versenyképességét adott területeken. Ennek eredményeként az AMD a szerverprocesszorok piacának mindössze 10,5 százalékát, az asztali 18,5, míg a mobilprocesszorokénak 11,2 százalékát szerezte meg érték alapján. Az Intel fölénye különösen nyomasztó annak fényében, hogy jóval alacsonyabb fajlagos elõállítási költséggel is dolgozik.
+
+2008 az ultramobil processzorok éve
+
+ Dean McCarron, a Mercury elemzõje és a jelentés szerzõje úgy gondolja, hogy az AMD problémáit túlságosan felfújták, és bár a vállalat gondokkal küzdött a négymagos termékeinek bevezetése kapcsán, összességében jól tartotta magát a processzorpiacon. Véleménye szerint az AMD stabil szereplõ olyan idõkben is, mikor sebezhetõnek tûnik az Intellel szemben. McCarron szerint 2008 az alacsony fogyasztású és olcsó processzorok éve lehet, mely a leggyorsabbnak növekvõ szegmensnek ígérkezik. A területre három új architektúra is érkezik idén: az Intel Silverthorne, az AMD Bobcat, valamint a VIA Isaiah. 

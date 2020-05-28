@@ -1,0 +1,27 @@
+ASRock ION 330: korrekt nettop NVIDIA-alapokon
+
+ASRock ION
+Az NVIDIA netbookok és nettopok számára fejlesztett platformja az ASRock gépében is otthonra talált, most ezt a konfigurációt, az ION 330-at fogtuk vallatóra. Az igen kicsiny dobozka még optikai meghajtót is tartalmaz, emiatt talán egy kissé vaskosabb mint gondoltuk. Mindezek ellenére egy hagyományos egérpadot nem lehet alatta elrejteni. Az ION 330 zongoralakk borítása alatt 320 gigabájtos merevlemezt, 2 gigabájt memóriát és kétmagos, Intel Atom 330 processzort találhatunk, ezeket egészíti ki a DVD-író, amely természetesen Blu-ray meghajtóra is cserélhetõ.
+ 
+Az ION 330 belterére természetesen voltunk annyira kíváncsiak, hogy a két fedelet tartó csavart kicsavarjuk, melynek levétele után példás rend várt bennünket. Ez nem csak a körültekintõ tervezésnek, hanem a SATA-kábeleknek és a külsõ tápegységnek is köszönhetõ, utóbbi kizárja a kábelrengeteget, amely normál esetben a tápegységtõl az alaplapig, illetve a többi fogyasztóig fut. Legfelül egy könnyen kiszerelhetõ keretben van a 2,5 hüvelykes Seagate merevlemez és a DVD-író, e két megható között pedig elegendõ a hely a levegõ áramlásához is.
+Példás beltér
+Az alaplap elsõ ránézésre Mini-ITX szabványú, ám tüzetesebben megvizsgálva csak hasonló méretû, a szabványtól még a csavarlyukak helye is eltér és természetesen a hátoldali csatlakozók sem a szokásos módon lettek elhelyezve. Ezért a ház az alaplappal bonthatatlan egységet képez, ezért aki késõbb bõvíteni akar, inkább válassza a Zotac ION-alapú Mini-ITX lapjait, melyek kis méretük ellenére akár normál ATX-házakba is beépíthetõk.
+ 
+A keret leszerelése után is marad a rendezettség, az NVIDIA-lapka és a kétmagos Atom processzor két külön hûtõbordát kapott, ezeknek a lamellái azonban egy irányba állnak, ezért a processzor bordájának oldalára épített parányi, 3 centiméteres ventilátor a lapkakészlet hûtésérõl is gondoskodik. A levegõcsere legfontosabb eleme azonban a ház saját ventilátora, mely az elõlap rostélyán belépett, elhasznált levegõt aztán végül a hátfalon eregeti ki a szabadba.
+Sokáig elég lehet
+Azt természetesen nem mondjuk, hogy a bõvítésre hamar gondolnunk kell, ha a vásárláskor elégnek bizonyul a 2 gigabájt ram, az 1,6 gigahertzes, kétmagos processzor, az ION 330 sokáig kiszolgálhat bennünket, hiszen a 320 gigabájtos merevlemez szabványos 2,5 hüvelykes darab, a DVD-író pedig szintén könnyen cserélhetõ késõbb SATA-csatolós Blu-ray meghajtóra is. Ráadásul a hátlap sem bánik szûkmarkúan a csatlakozókkal, a hangkimenetekhez optikai csatlakozó is társul, van LAN-aljzat, USB-eszközökbõl akár hatot is illeszthetünk, igaz, a billentyûzet és az egér is ezekbõl vesz el, mert  PS/2-csatlakozó nincs. A megjelenítõ a VGA-kimenet helyett használhatja a HDMI-kaput is, innentõl válik a gép igazán hordozhatóvá.
+ 
+HD-video és játékok
+Az ION 330 a processzora és NVIDIA lapkakészlete miatt gond nélkül veszi az akadályokat. A szórakozás kiterjedhet a HD-videózásra is, bár kivétel is akad, szélsõségesen magas bitráta, vagy inkább nem általános tömörítés mellett elõfordult, hogy minimális processzorterhelés mellett szaggatott lejátszást kaptunk. A gépre azonban inkább jellemzõ, hogy a nagyfelbontású tartalmakkal nemigazán gyûlik meg a baja, a processzorterhelés 5 és 30 százalék között mozgott.
+ 
+Egy 1080p felbontású WMV-állomány 26-32 százalékkal terhelte a processzort, ugyanennek a filmrészletnek 720p felbontású változata pedig 17-23 százalékkal. A H.264 kódolású 1080p mozik már csak 2-5 százaléknyit kértek a processzortól, ezeknél a klipeknél szinte kizárólag az NVIDIA lapka izzad. 32-35 százaléknyi processzorterheléssel a másik oldalon az MPEG2 kódolású próbaklipünk volt található, igaz a DivX-kódolású 1080p állományok a WMV-hez hasonlatosan szorongatták azt a 27-31 százalékos igénnyel.
+
+A filmnézés mellett pár régebbi játékot is választhatunk a szabadidõ eltöltésére, és túl sok évnyit sem kell visszanyúlnunk az idõben, hiszen az Intel vezérlõinél jóval nagyobb teljesítményre képes a GeForce 9400M lapka, amely korunk csúcskártyáival azért természetesen nem képes lépést tartani. Mindazonáltal a nem túl friss játékok közül FPS-eket és szimulátorokat is kiszemelhetünk.
+Csendes és jó, elöl azonban semmi
+Az ASRock ION 330 nettop remek kis gép, további érdekeset (ha nem akarunk sokak számára unalmas technikai részletekbe belemenni) nagyon nem lehet írni róla, de ez inkább szerencse mint hátrány, a termékkategória gépei jobb ha teszik a dolgukat ahelyett, hogy a bosszantó hibáiról kelljen sok-sok bekezdésnyit írni. Mellesleg utóbbiakból itt és most is találtunk egyet, az elõlapon egyetlen USB-port sem áll a rendelkezésünkre és mondhatja bárki, hogy a gép más területre készült, az NVIDIA ION keresztülhúzza az állításokat, és szinte követeli, hogy a gép multimédiás felhasználási körülményekre legyen elsõsorban tekintettel. Az elõlapi USB mellett sokaknak a kártyaolvasó nyílása is hiányozhat.
+A rövid idõ alatt, míg foglalkozhattunk vele, nagyon csendes gépként ismerhettük meg az ASRock ION 330-at, ami nem is kicsit javít a megítélésen. A gép jelenleg 75 ezer forintos ár környékén vásárolható meg fehérben és feketében, ez az ár pedig már komplett gépre vonatkozik, így merevlemezt, optikai meghajtót és a memóriát is megkapjuk ennyiért.
+Az ASRock ION 330-at a Ramiris Europe-tól kaptuk tesztre, köszönjük!	     
+                  
+                  
+                  
+                   

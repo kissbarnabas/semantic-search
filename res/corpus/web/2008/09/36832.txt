@@ -1,0 +1,24 @@
+Google Chrome: böngészõt fejleszt a keresõóriás
+
+Chrome néven saját böngészõ fejlesztésén munkálkodik a Google, ami a hivatalos bejelentés elõtt egy nappal szivárgott ki a webre. Az új szoftver bétája mától érhetõ el, illetve a Google közzétett egy humoros hangvételû képregényt is, mely bemutatja, miben más a Chrome, mint az eddigi megoldások.
+
+
+
+
+A 100 országban elérhetõvé tett, hétfõn "véletlenül" bejelentett, mától letölthetõ böngészõ az Android mobil platformhoz hasonlóan nyílt forráskódú megoldás. A Chrome igazi újdonságként hat a Firefox-IE8-Opera mezõnyben, legnagyobb vívmánya pedig mélyen a kódban rejlik: a böngészõfüleket (tab) teljesen izoláltan kezeli egymástól, megakadályozva így az egész böngészõ összeomlását vagy lassulását egy hibás szájt miatt. Emellett egy egészen új, sokkal hatékonyabb JavaScript-motor is része a programnak, valamint a Google oldalainak letisztultsága, minimalizmusa köszön vissza a böngészõ felületén is.
+
+[+] Google Chrome képregény elejétõl a végéig
+
+
+
+
+
+
+A Google sikeresen titokban tartotta ezt a projektet egészen tegnapig, amikor is különbözõ blogokon futótûzként terjedt el az a 38 oldalas képregény, mely a Google Chrome alapötletét, céljait, elérhetõ funkcióit, a kihívásokat és újszerû megoldásait mutatja be. A legnagyobb durranás a fent említett izolált böngészõfül, azaz minden egyes böngészési szál elkülönül egymástól, mely megakadályozza, hogy egy-egy oldal hibája miatt az egész böngészõ összeomoljon, plusz ezzel fejlettebb védelmet is kínál a rosszindulatú kódot tartalmazó weblapok ellen. 
+
+Sok megnyitott fül idõvel egyre több és több memóriát emészt fel, ha ezért a böngészõ lelassul, a felhasználó természetes reakciója, hogy elkezdi módszeresen bezárni a böngészõfüleket. A Chrome ezt kiküszöbölendõ külön kezel minden szálat, így az erõforrások könnyebben felszabaduíthatók a Google szerint. A Chrome-ba épített feladatkezelõ segítségével a felhasználó bármikor ellenõrizheti, hogy melyik weboldal foglalja a legtöbb memóriát, melyik generálja a legnagyobb adatforgalmat és melyik használja a legtöbb processzoridõt.
+
+
+Az új böngészõ egy másik, AJAX-os kódot intenzíven használó webes alkalmazásai számára különösen fontos eleme, a korábbiaknál jóval erõsebb JavaScript-motor, ami lehetõvé teszi olyan webes szolgáltatások elfogadható teljesítményû futtatását, amit ma egy böngészõn belül talán el sem tudnánk képzelni. Teszi ezt ráadásul nyílt forráskódú kezdeményezésként, ami a funkcionalitás színesedését és a gyors terjedést teheti lehetõvé. A fejlesztések során felhasználtak modulokat a Mozilla Firefoxból, az Apple WebKitbõl, illetve más programokból. Ezzel együtt nem szabad elfelejteni, hogy a Google és a Mozilla között komoly pénzügyi összefonódások is vannak -- a Google finanszírozza a Mozilla fejlesztéseinek egy részét --, melyet épp a napokban hosszabbítottak meg 2011-ig -- derül ki Mitchell Baker, a Mozilla Alapítvány elnökének blogjából. 
+
+Linus Upson blogbejegyzése szerint ez a bejelentés csupán a kezdet, hisz a Google Chrome még nagyon messze van a kész állapottól. A ma elérhetõvé váló béta verzió egyelõre csak Windows platformra érhetõ el, célja pedig csupán annyi, hogy a fejlesztõk egy szélesebb plénum elõtt vitassák meg az eredményeket, és minél hatékonyabb felhasználói visszacsatolást kapjanak. A Chrome-nak hamarosan várható maces és linuxos változata is.

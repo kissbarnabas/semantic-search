@@ -1,0 +1,14 @@
+Fejlettebb áramkörök nyomtathatók hajlékony felületre egy új félvezetõ tintával
+
+Áttörést hozhat a hajlékony kijelzõk, valamint az árumegjelölésére használt szenzorchipek elõállításában egy új összetételû félvezetõ tinta -- derül ki a Nature legfrissebb számából. Az új anyag különlegessége, hogy ez az elsõ olyan oldható félvezetõ, mely negatív elektromos töltést hordoz. Az új technológiával a jelenlegieknél fejlettebb áramkörök állíthatók elõ,  elméletileg akár közönséges papír alapokra is.
+
+
+
+Elsõként sikerült olyan oldható félvezetõt elõállítania az amerikai Polyerának és a BASF SE egyik részlegének, mely N-típusú, azaz negatív elektromos töltést hordoz. Az új anyag elõállítása során lényegében egy teljesen új molekulát kellett elõállítania a két cégnek -- nyilatkozta Antonio Facchetti, a Polyera mûszaki vezérigazgatója, aki az új gyógyszerek kikísérletezéséhez hasonlította a speciális félvezetõ létrehozásának folyamatát.
+
+A kísérletek során végül egy olyan elektronhiányos molekulát alkottak a mérnökök, mely jól szállítja a negatív töltést, emellett könnyen oldható, így tintaként használható speciális, tintasugaras elven mûködõ nyomtatókban. Ezzel a tintával lényegében bármilyen hajlékony anyagra -- vékony filmrétegekre, vagy akár papírra -- nyomtatható áramkör, de az ActivInk-nek keresztelt tintának késõbb, a technológia elõrehaladtával éppúgy hasznát vehetik a hajlékony kijelzõk gyártásánál is.
+
+
+Az ActivInk kezdetben elsõsorban az áru megjelölésére, nyomonkövetésére használt rádiófrekvenciás azonosítóchipek (RFID) elõállítása során jöhet majd jól: "Ezzel végre igazán jól használható, nagyobb teljesítményû RFID-chipeket lehetne elõállítani" -- mondta Philippe Inagaki, a vállalat vezérigazgatója. "Egyelõre még gyerekcipõben jár ez az ipar, az elsõ termékek most kezdenek csak megjelenni a piacon" -- tette hozzá a cégvezetõ, aki egyben reményét fejezte ki, hogy az ActivInkben több gyártó is fantáziát lát majd.
+
+A Polyera és a BASF SE speciális tintája elõtt több cég is próbálkozott különbözõ anyagokban oldható, hajlékony felületre felhordható félvezetõk elõállításával -- egyelõre mérsékelt sikerrel. A Xerox szakemberei 2004-ben például olyan félvezetõ tintával álltak elõ, mely P-típusú vezetõ, azaz pozitív elektromos töltést hordoz. A mostani felfedezés jelentõségét leginkább az adja, hogy a két vezetõtípus egyfajta kombinációjával lényegesen gyorsabb, energiahatékonyabb, megbízhatóbb, nem utolsósorban pedig olcsóbb áramkörök állíthatók elõ hajlékony felületeken.

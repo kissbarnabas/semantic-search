@@ -1,0 +1,16 @@
+Piacon az elsõ teljesen nyílt forrású mobiltelefon
+
+[Linuxdevices/HWSW] Megkezdte a világ elsõ nyílt forrású mobiltelefonjának kereskedelmi szállítását az OpenMoko. Az okostelefon specifikációi a többi nyílt hardverhez hasonlóan szabadon hozzáférhetõek, és természetesen tetszõlegesen testreszabható linuxos operációs rendszert futtat -- a szabadságnak azonban egyelõre borsos ára van.
+
+
+
+Az OpenMoko nem elõzmények nélkül jelent meg a piacon, már évek óta fejleszti linuxos okostelefon környezetét, és kínálja a hardverrel együtt elsõsorban szoftverfejlesztõknek de mobilgyártásban vagy forgalmazásban érdekelt cégek részére is termékfejlesztési célokból. A mostani bejelentéssel azonban a vállalat a fogyasztói piacra is be kíván hatolni, és megkezdte a  Neo Freerunner szállítását német, francia és indiai disztribútorok számára, melyet a tajvani elektronikai bérgyártó FIC állít elõ. A szállításoknak tavaly októberben meg kellett volna indulniuk, azonban kritikus hardverhibák miatt ezt kénytelenek voltak elhalasztani.
+
+
+A FreeRunner a korábbi Neo 1973 frissített változatának tekinthetõ. A készülék kijelzõje nagyméretû, 4,3 hüvelykes, felbontása pedig 640x480. A teljesítményért egy 500 megahertzes Samsung ARM alkalmazásprocesszor felel 128 megabájt memória és 256 megabájt flash tárhely társaságában. Bár a 3G-s hálózatokat nem támogatja, 802.11g Wi-Fi vezérlõvel rendelkezik, ahogyan Bluetooth kapcsolattal, és a szabadság szellemében szabványosan USB 1.1 porttal is. Ezeken túlmenõen a készülék prémium funkciókkal is rendelkezik, így 3D-s gyorsítóchippel, GPS-vevõel, és gyorsulásérzékelõkkel. 
+
+
+
+
+
+Az tojásdad okostelefon az OpenMoko projekt keretében karbantartott és fejlesztett szoftvereket használja, beleértve egy nyílt forrású Java virtuális gépet, a német Tarent által jegyzett Jalimót. Az OpenMoko szoftvercsomag közvetlen ellenfelének tekinthetõ a Google Android kezdeményezése. A nyílt forrású hardverekhez hûen az OpenMoko közzétette a FreeRunner CAD-fájljait, melyek teljesen szabadon letölthetõek a projekt oldaláról. A 3G hiányát kivéve prémium képességekért és a szabad hackelhetõségért azonban mélyen pénztárcákba kell nyúlnunk, online 400 dollárért lesz rendelhetõ az OpenMoko oldaláról.

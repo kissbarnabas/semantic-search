@@ -1,0 +1,29 @@
+Több böngészõ is bekerülhet a Windowsba
+
+Tisztességtelen verseny
+A norvég Opera Software trösztellenes beadványának nyomán 2008 elején
+indult a vizsgálat annak feltárására, hogy az Internet Explorer
+beépítése a Windowsba korlátozza-e a versenyt. "A vizsgálat során
+begyûjtött bizonyítékok alapján a Bizottság úgy véli, az Internet
+Explorer beépítése a Windowsba a PC-k 90 százalékán elérhetõvé teszi az
+Internet Explorert és ezzel torzítja a piaci versenyt a böngészõk
+között, mivel olyan mesterséges elõnyhöz juttatja az Internet
+Explorert, amellyel más böngészõk nem rendelkeznek."
+Beadványában az Opera emellett azt is nehezményezte, hogy a Microsoft
+tovább súlyosbítja a versenykorlátozást azzal, hogy a webes szabványok
+módosításával nehéz helyzetbe hozza riválisait. A fejlesztõk a domináns
+Internet Explorerhez igazították a weblapokat, amik a szabványokat
+követni igyekvõ böngészõkön viszont nem helyesen jelennek meg. "A
+Bizottság aggódik, hogy az Internet Explorer elterjedtsége arra
+ösztönzi a fejlesztõket, hogy kimondottan az Internet Explorerre
+tervezzék a weblapokat, ami végül aláássa a szolgáltatások fejlõdését"
+-- áll a Bizottság közleményében.
+
+Az EU 2004-ben kimondta, hogy a Media Player beépítése a Windowsba tisztességtelenül befolyásolta a médialejátszók piacán a versenyt, és arra kötelezte a Microsoftot, adjon ki egy olyan változatot is az operációs rendszerébõl, amely nem tartalmazza a Media Playert. A Windows XP és a Vista ezen változatai azonban a Media Playerrel együtt érkezõ verziókkal azonos áron kerültek a piacra, nem csoda hogy senkinek sem kellettek.Több böngészõ a Windowsban?
+A Neelie Kroes versenyügyi biztos által vezetett szervezet most nem az Internet Explorer eltávolítására fogja kötelezni a Microsoftot, hanem arra, hogy az operációs rendszer többféle böngészõvel szállítsa -- nyilatkozták a Wall Street Journalnak tûzhöz közeli források. Az elképzelés szerint a Windows elsõ indításakor kötelezõen megjelenne egy képernyõ, ahol a felhasználó kiválaszthatja, melyik böngészõt(ket) szeretné a gépére telepíteni és melyiket szeretné alapértelmezésként használni. A rivális böngészõk gyártói közben azért lobbiznak Brüsszelben, hogy a Bizottság kötelezze a Microsoftot arra is, hogy termékeiket automatikus frissítésként juttassa el Windowst már használók gépeire.
+A Microsoft április végén juttatta el az Európai Bizottsághoz
+tiltakozását, amelyben cáfolja, hogy tisztességtelenül versenyzett
+volna. A Wall Street Journal forrásai szerint a vállalat felvetette, vajon az EU jogosan követelheti-e tõle, hogy más gyártók termékeit is kínálja a Windowsban, illetve felhívja a figyelmet arra, hogy a PC-gyártók jelenleg is megtehetik, hogy a Windowst futtató számítógépeikre más böngészõket is feltelepítenek. 
+Emellett a Microsoft rámutat arra, hogy a statisztikák szerint az utóbbi években az Internet Explorer folyamatosan veszített piaci részesedésébõl. A francia XiTiMonitor áprilisi adatai szerint az Internet Explorert már csak a netezõk 63 százaléka használja, a Firefox részesedése 28 százalék, a harmadik legnépszerûbb böngészõ pedig a Safari, 3,4 százalékos részesedéssel. Két évvel ezelõtt az Internet Explorer piaci részesedése megközelítette a 80 százalékot.
+Évekig elhúzódhat
+A böngészõkkel kapcsolatos versenyügyi vizsgálatban hozott ítélet a következõ hetekben, hónapokban várható, még mielõtt az Európai Bizottság személyi összetétele az uniós választások hatására megváltozna. Bármi is legyen az ítélet, a Microsoft alighanem fellebbezni fog, így az ügy további évekig húzódhat.

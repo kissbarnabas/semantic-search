@@ -1,0 +1,12 @@
+Megjelent az AVG 9.0
+
+Az AVG Internet Security egyszerre vírusirtó, tûzfal, spamszûrõ, a 9.0 verzió emellett már phishing elleni védelmet is nyújt, valamint a LinkScanner segítségével a potenciálisan veszélyes weboldalakat is képes kiszûrni. A vállalat állítása szerint a fejlesztés során nagy hangsúlyt fektettek a sebességre és arra, hogy a program a lehetõ legkevesebb erõforrást kösse le.
+A scannelési sebességet persze az AVG is trükkökkel próbálja növelni. A program egyes fájlokról már az elsõ keresésnél eldönti hogy biztonságosak vagy veszélyesek-e, a biztonságosnak minõsített állományokat pedig a késõbbi keresésnél átugorja, ha csak meg nem változtak. A vállalat szerint ezzel akár felére is csökkenhet az ellenõrzés ideje, gyorsabb lesz a rendszerindítás és kevesebb erõforrást köt le a védelem. A kártevõk ellen az AVG a szokásos, lenyomaton alapuló felismerés mellett viselkedésvizsgálattal, valamint internet-alapú adatbázissal küzd, amely az engedélyezett alkalmazások listáját tartalmazza.
+
+Az AVG 9.0-ban a valós idejû kártevõvédelmet integrálták a tûzfallal és a személyes adatok ellen védelmet nyújtó modullal. A cég szerint azáltal, hogy a komponensek megosztják a kártevõk adatait, hatékonyabban lehet harcolni az újonnan felbukkanó, ismeretlen fenyegetések ellen. Teljesen áttervezték a tûzfalat, amely a korábbinál sokkal kevesebbszer igényli a felhasználó beavatkozását annak eldöntéséhez, hogy egy adott szoftver számára milyen hálózati kommunikációt engedélyezzen.
+A programcsomagban megjelent a LinkScanner technológia, amely a webezést igyekszik biztonságosabbá tenni. A böngészõben megjelenõ webcímeket a program több szempont szerint ellenõrzi és figyelmezteti a felhasználót, ha olyan linkre kattint, amely potenciálisan veszélyes, például kártevõt akar a gépre telepíteni vagy adathalászok által üzemeltetett oldal. Ehhez a saját intelligencia mellett egy folyamatosan frissülõ webes adatbázist hív segítségül az AVG.
+Az AVG 9.0, fizetõs  családi, és kis és mikrovállalati csomagjai már elérhetõek, az egygépes licenc egy évre 9900 forintba kerül, a kétéves változatért 14990 forintot kell fizetni. Az ingyenes változat október közepén érkezik a vállalat tájékoztatása szerint. Az AVG 9.0 csak a Windows 2000 vagy annál újabb Windows-változatokkal kompatibilis, beleértve a Windows 7-et is.	     
+                  
+                  
+                  
+                   

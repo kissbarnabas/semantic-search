@@ -1,0 +1,14 @@
+Megjelent a Firefox 3 elsõ kiadásra jelölt változata
+
+A vártnál hamarabb érkezett meg a Firefox 3.0 elsõ kiadásra jelölt változata (RC1), amelyet május végére ígért, de már a hétvégén elérhetõvé tett a Mozilla. Noha az RC1 már közel jár a véglegeshez, még mindig csak elõzetesnek tekinthetõ, így "éles" körülmények között nem ajánlott a használata, bár a HWSW a bétákkal is kedvezõ tapasztalatokat szerzett.
+
+
+
+A Firefox 3 legfontosabb újításai közé tartozik az elõzményeket és a könyveljzõket egy kalap alatt kezelõ Places, amely kereshetõ is. A Places nem csak az oldalak URL-jét indexeli, hanem a nevüket (title) is, így ha URL alapján nem is emlékszünk egy oldalra, a tartalmára keresve még megtalálhatjuk. A könyvjelzõk kezelése gyorsabb, kényelmesebb is lett -- elég az oldal URL-je melletti csillagra kattintani, hogy bekerüljön a kedvencek közé. A letöltéskezelõ is sokat fejlõdött, immár lehetõség van a letöltéseket átmenetileg felfüggeszteni és késõbb folytatni. Hasznos kényelmi funkció, hogy az IE7-hez és az Operához hasonlóan a Firefox 3 is képes optikai zoomra az oldalakon.
+
+A lehetõ legnagyobb biztonság elérése érdekében számos újdonságot vetettek be a Firefox fejlesztõi. Ezek közé tartozik többek között a phishing-gyanús oldalak szûrése, a fertõzött weboldalak meglátogatásakor küldött figyelmeztetés, valamint a fájlletöltés integrációja a víruskeresõvel -- amint a Firefox elkezd letölteni egy állományt, értesítést küld a víruskeresõnek. Windows Vista alatt a fájlletöltés teljesen le is tiltható egyes felhasználók számára a szülõi felügyelet menübõl. A kiegészítések kezelése is javult, a Firefox 3 megkeresi és automatikusan le is tölti a frissített add-onokat.
+
+
+ A Firefox 3 nem csak a felhasználói élményt tekintve fejlõdött sokat, az újítások egy része "láthatatlan". Ezek közé tartozik az elõdnél érezhetõen kisebb memóriaéhség, vagy a felhasználói adatok biztonságosabb tárolása -- az elmentett jelszavak, könyvjelzõk, cookie-k és egyebek akkor sem vesznek el, ha a böngészõ lefagy. A nyílt forrású böngészõ megjelenítési sebességét is sokat csiszolták, a Firefox 3-ban villámgyorsan jelennek meg és állnak össze a weboldalak.
+
+A Firefox 3 RC1 letölthetõ a Mozilla oldaláról Windows, Linux és Mac OS X operációs rendszerre. A végleges verziót júniusra ígérik a fejlesztõk.

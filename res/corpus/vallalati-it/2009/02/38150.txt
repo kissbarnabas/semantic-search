@@ -1,0 +1,12 @@
+Frissül is meg nem is a Windows 7
+
+A Windows 7 béta felhasználói február végén több frissítést is letölthetnek az operációs rendszerre, valójában azonban ezek a csomagok semmilyen új képességet, szolgáltatást vagy hibajavítást nem tartalmaznak. A Microsoft célja az öt csomag kiküldésével mindössze a frissítési szolgáltatás tesztelése. 
+
+
+
+"Február 24-tõl kezdve 5 tesztfrissítést adunk ki a Windows 7 Betát (Build 7000) futtató PC-khez a Windows Update-en keresztül Ezek a fissítések lehetõvé teszik számunkra a Windows 7 frissítési szolgáltatásainak ellenõrzését" -- olvasható a Windows 7 fejlesztõi blogban. Február 24-tõl kezdve a Windows 7 Beta felhasználói értesítést kapnak arról, hogy frissítések érhetõk el a Windows Update-en.
+
+
+Ezek a frissítések azonban nem települnek automatikusan még akkor sem, ha a Windows Update-et az automatikus frissítések fogadására állították be. A felhasználóknak maguknak kell telepíteniük a teszt frissítéseket a Windows Update-en keresztül, de természetesen el is utasíthatják a telepítést, és a "hide update" kiválasztásával el is tüntethetik ezeket a csomagokat a frissítések listájából.
+
+Eközben a redmondi vállalat a Vista második szervizcsomagjának megjelenéséhez közeledik. Kiválasztott tesztelõk már hozzáférhetnek a Windows Vista SP2 és a Windows Server 2008 SP2 elõzeteséhez, bár a Microsoft továbbra is hallgat arról, hogy a végleges változat mikor lesz elérhetõ. A redmondi vállalat 2009 második negyedévét célozza meg, ez azonban április elejét vagy június végét egyaránt jelentheti.

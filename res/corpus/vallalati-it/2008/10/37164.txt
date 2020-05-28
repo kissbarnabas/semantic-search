@@ -1,0 +1,16 @@
+SonicWALL: hálózatbiztonsági készülék kis- és közepes vállalatoknak
+
+Bemutatta kis- és középvállalatoknak szánt integrált hálózatbiztonsági készülékét a SonicWALL. Az NSA (Network Security Appliance) termékcsalád eddigi legkisebb tagja az NSA 240 egy berendezésben egyesíti a legfontosabb hálózatvédelmi eszközöket, mindemellett könnyen telepíthetõ.
+
+
+
+Az NSA 240 a korábbi NSA-család kiterjesztése az alsóbb régióba, a kisebb vállalatok felé. Az eszköz a szolgáltatásait tekintve megegyezik a terméksorozat többi tagjával, csak teljesítményben marad el azoktól -- ami ésszerû kompromisszum, hiszen a megcélzott vevõkör igényeit még így is le tudja fedni és az ára is megfizethetõ, mindössze 1200 dollár.
+
+Az NSA 240 tûzfal, gateway, behatolás-védelmi eszköz tartalomszûrõ egyben, emellett megszabadítja az e-maileket és azonnali üzeneteket (IM) a vírusoktól, férgektõl, kémprogramoktól és más kártevõktõl. Az eszköz képes a hálózati alkalmazások rendelkezésére álló sávszélességet is priorizálni az olyan esetek elkerülése érdekében, amikor az egyik dolgozó például videochateléssel vagy fájlcserével a végletekig terheli, jószerivel megbénítja cég hálózatát, és a többi alkalmazás emiatt használhatatlanná válik.
+
+
+
+
+ "Az NSA 240 azon célkitûzésünknek felel meg, hogy ügyfeleink számára olyan vezetõ egységesített kockázatkezelési megoldást biztosítsunk, amely nagyvállalati szintû biztonságot és alkalmazás-kezelést nyújt egyetlen, könnyen használható és telepíthetõ eszközön keresztül -- mondta Patrick Sweeney, a SonicWALL Network Security elnökhelyettese. "Nagy sikert várunk a terméktõl" -- tette hozzá.
+
+Az NSA 240 egyszerûen telepíthetõ, a legfontosabb beállítások egy grafikus kezelõfelülete végezhetõk el, persze azért az installáláshoz elengedhetetlen egy hálózati szakember. A 3 darab gigabites és 6 darab 100 megabites Ethernet-porttal rendelkezõ eszköz WAN-kapcsolatból és internetszolgáltatóból kettõt is kezel, amelyek között a kapcsolat megszakadása esetén képes váltani. Sõt, az NSA 240 3G-modemmel is bõvíthetõ akár, így abban az esetben is mûködõképes, elérhetõ és a szoftvere frissíthetõ, ha a vezetékes kapcsolat valamiért teljesen kiesik.</p.

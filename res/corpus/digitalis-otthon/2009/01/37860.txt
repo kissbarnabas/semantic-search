@@ -1,0 +1,16 @@
+Hónapokon belül itt az Intel válasza az AMD Yukonra
+
+Alig mutatta be az elsõsorban fogyasztóknak szánt ultrahordozható platformját az AMD, az Intel már készül is a válasszal. A Digitimes szokás szerint anonim iparági forrásaira hivatkozva állítja, hogy a vezetõ processzorgyártó új, ultra-alacsony feszültségû processzor köré épülõ platformot kíván bemutatni a második negyedévben, kifejezetten olcsó ultrahordozható notebookok számára.
+
+
+
+A tajvani magazin meg nem nevezett notebookgyártói forrásai úgy tudják, az Intel olyan termékvonalat kíván bemutatni, melyet az egyéni felhasználóknak célzott, megfizethetõ árú ultrahordozható notebookokba szán. A legnagyobb három laptopmárka, vagyis a HP, az Acer és a Dell már megkezdték felkészülésüket a termékek bemutatására, értesült a Digitimes. A várakozások szerint 10 millió ilyen olcsó ultrahordozható gépet szállíthatnak le idén. 
+
+Az AMD az év második munkanapján, január 6-án jelentette be Yukon kódnévre hallgató platformját, mellyel az olcsó netbookok, és a drága üzleti hordozható gépek közötti területre kíván behatolni. Bár kedvezõ árú ultrahordozható fogyasztói modelleket már eddig is piacra dobtak a vezetõ gyártók, eleddig elhanyagolható sikereket értek csak el. Az IDC adatai alapján Európában ezek a kedvezõ árú, 300 ezer forint alatti modellek részesedése 0,5 százalék körüli az összes notebook értékesítésén belül, miközben a drága üzleti és lifestyle modellekbõl több mint nyolcszor annyi fogy.
+
+
+Az AMD úgy gondolja, hogy ennek ellenére a magánfelhasználók igénylik az olyan olcsó hordozható gépeket, melyekkel nem kell a netbookos kompromisszumokat kötni, mint amilyen például az Intel Atom processzor a mai mércével rendkívül alacsony számítási teljesítménye, a kicsi kijelzõ és felbontás, vagy a gyenge grafikus teljesítmény. Úgy tûnik, igazat ad ebben az Intel is, új platformjának célpontja nyilvánvalóan a Yukon. Az új platform egyik oldalról sem jelent új architektúrát, a Yukon processzora, az Athlon Neo egy K8 magra épül, míg az Intel minden bizonnyal a mobil Core 2 chipjeit címkézi át. 
+
+[+] Megjelent az AMD ultrahordozható platformja - olcsó mobilitást a népeknek!  
+
+Az AMD Yukon és az Intel új platformja leginkább a 700-900 dollár közötti árszegmenst célozzák meg, ez Európában, és így Magyarországon a magasabb forgalmi adó miatt a 180-240 ezer forint közötti ársávot jelenti. Eddig egyetlen Yukon-alapú termék ismert, a HP Pavilion dv2, mely 12,1 hüvelykes kijelzõvel, vékony kivitellel, magnézium burkolattal, és 1,7 kilogrammos induló tömeggel rendelkezik, ára pedig 700 dollárról indul -- a HWSW megkeresésére azonban a HP Magyarország korábban úgy felelt, jelenleg nem tervezi a hivatalos hazai forgalmazást, mivel nem látnak rá igényt. Lépésével az Intel nemcsak kordában tartja riválisát, de a netbookok sokat vitatott kannibalizációs hatását is gyengítheti.

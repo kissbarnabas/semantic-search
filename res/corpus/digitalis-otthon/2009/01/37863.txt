@@ -1,0 +1,14 @@
+Kritikus szoftverjavítást adott ki egyes merevlemezeihez a Seagate
+
+A Seagate több, elsõsorban otthoni és kisvállalati felhasználásra szánt merevlemezsorozatát érinti az a szoftverhiba, mely feltûnõen sok felhasználónak okozott az elmúlt hetekben bosszúságot. Az érintett merevlemezek mûködését vezérlõ kód hibáját már kijavították, a frissített firmware-változatok elérhetõk a gyártó terméktámogatási weboldalán. A Seagate szerint nincs ok a pánikra, a hiba ugyanis nem eredményez adatvesztést.
+
+
+
+Új mikrokódot bocsát ki a Seagate bizonyos HDD-ihez, miután feltûnõen sok garanciális igény merült fel a cég 1 terabájt kapacitású, Barracuda 7200.11 sorozatú merevlemezivel kapcsolatban. A diszkek a felhasználói beszámolók szerint teljesen véletlenszerûen és minden elõjel nélkül adták meg magukat, kivétel nélkül a számítógép bekapcsolását kísérõ inicializálási folyamat során -- a merevlemezek tartalma innentõl permanensen elérhetetlenné válik.
+
+A Seagate minap közzétette terméktámogatási weboldalán azoknak a merevlemezeknek a sorozatszámát, melyeket a mikrokód hibája érinthet: a gyártó szerint nincs ok a pánikra, ha a HDD elérhetetlenné válik a rendszer számára, a rajta tárolt adatok ugyanis ilyenkor nem sérülnek --  ha netán mégis eltûnnek adatok, a Seagate ingyenes helyreállítást biztosít. A vállalat felhívja ugyanakkor a figyelmet arra, hogy a tavaly decemberben gyártott, Barracuda 7200.11, DiamondMax 22 és Barracuda ES.2 SATA sorozatokhoz tartozó merevlemezek tulajdonosai mielõbb vegyék fel a kapcsolatot e-mailen vagy telefonon a Seagate terméktámogatási részlegével, ahol részletes információkat kaphatnak a további teendõkrõl, illetve tájékozódhatnak arról, hogy egyáltalán érinteti-e a szoftverhiba az eszköz.
+
+
+A gyártó a gyakorlottabb felhasználók számára emellett lehetõséget biztosít a firmware otthoni frissítésére is. A Seagate weboldaláról elõször egy windowsos azonosítóprogramot ajánlott letölteni, ez pontosan detektálja az egység elektronikájával alapesetben érkezõ szoftvert és az egyéb paramétereket, majd az összegyûjtött információk alapján megállapítja, hogy szükséges-e új firmware besütése. A drive szoftvere szükség esetén egy rendszerindító CD-rõl frissíthetõ, a Seagate az eddigi gyakorlatnak megfelelõen egy erre a feladatra speciálisan összeállított CD-képet kínál letöltésre.
+
+A Seagate egyes merevlemezeit használhatatlanná tevõ szoftverhiba a lehetõ legrosszabb idõzítéssel ütötte fel a fejét: a gyártó éppen tavaly decemberben jelentette be, hogy a legtöbb, eddig öt év jótálással árult, külön komponensként forgalmazott HDD-je garanciális idõszakát három évre csökkenti azoknál a modelleknél, melyeket 2009. január 3-a után vásároltak.

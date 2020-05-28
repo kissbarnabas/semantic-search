@@ -1,0 +1,12 @@
+A végleges verzió megjelenése elõtt második RC is készül a Firefox 3.0-ból
+
+Döntött a Mozilla: második kiadásra jelölt (Release Candidate, RC) változat is lesz a Firefox 3-ból, mivel az RC1-ben olyan hibákra bukkantak, amelyeket semmiképp nem szerettek volna benthagyni a végleges verzióban. 
+
+
+
+Az RC2 kódját ma zárják le, miután az RC1-ben megtalált hibákat már kijavították, ellenõrizték és jóváhagyták. Mike Beltzner, a Mozilla vezetõ fejlesztõje egy e-mailben leírta, a második Release Candidate kiadása mindössze néhány nappal hátráltatja a végleges változat megjelenését, így a premier továbbra is június közepén esedékes. "Nagyon jól haladunk" -- vélekedett Beltzner.
+
+
+ Az RC1-ben összesen mintegy negyven hibát találtak a tesztelés során, amelyek mintegy negyede csak a lokalizált verziókat érinti. Tíz hibát azonban olyan súlyosnak ítélt a Mozilla, hogy el kellett halasztani miattuk a végleges verzió kibocsátását. A múlt héten még szóba került, hogy kiadják-e a végleges, ám hibás verziót, majd amilyen hamar csak lehet, javítsák a bugokat egy 3.0.1-es változatban, azonban végül egy második RC megjelentetése mellett döntött a Mozilla.
+
+A jelenlegi menetrend szerint a Firefox 3.0 RC2 a jövõ hét végén jelenhet meg, ezt június közepén követheti a végleges változat. A Firefox 2.0 és a Firefox 3.0 megjelenése között majdnem 2 év telt el, de a feszített ütemterv miatt egyes új funkciók így sem kerültek be a böngészõbe, így még az õsszel várható a Firefox 3.1, amely a 3.0-ba tervezett, de végül kimaradt újdonságokat tartalmazza majd.

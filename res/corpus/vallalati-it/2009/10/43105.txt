@@ -1,0 +1,13 @@
+Elkezdõdött a 802.11n szabvány hitelesítési programja
+
+A certifikációs programot a 2007-ben indult, úgynevezett "draft-n" program mintájára hozta létre a szervezet. A korábbiaknál elsõsorban gyorsabb, valamint adott esetben nagyobb hatótávú kommunikációt eredményezõ 802.11n szabvány fejlesztése és elõkészítése ekkor már öt éve zajlott, a gyártócégek, illetve az IEEE Szabványügyi Testülete több kérdésben nem tudott dûlõre jutni. A vita méretét jól jelzi, hogy az évek során több tízezernyi kiegészítõ megjegyzés született a formálódó szabvánnyal kapcsolatban.
+A 802.11n szabvány véglegesítése elõl csak szeptember közepén hárult el minden akadály, a fenti testület ekkor adta ugyanis áldását az új technológiára, ezzel összesen hét év végeláthatatlan huzavonájának vetve véget. A 802.11 alapszabvány legújabb kiegészítése révén így több eszközt, számítógépet, mobiltelefont, médialejátszót és szórakoztatóelektronikai készüléket szerelhetnek fel az elméletileg akár 600 megabit/másodperces adatátviteli sávszélességet elérõ rádiókkal.
+Az új logó
+A végleges szabvány megszületése elõtt két évvel a Wi-Fi Alliance lehetõvé tette a gyártóknak, hogy a véglegeshez közel álló, 2.0-s szabványtervezetnek megfelelõ eszközeik forgalmazását megkezdjék. A vezeték nélküli berendezéseknek egy laboratóriumi tesztvizsgálaton kellett megfelelniük ahhoz, hogy megkapják a "drat-n certified" logót, ami a vásárlókat arról igyekezett biztosítani, hogy a rádió képes együttmûködni más draft-n-es megoldásokkal.
+
+A Wi-Fi Alliance most ennek a programnak a mintájára kezdte el a végleges 802.11n tanúsítványok kiosztását, melyhez elõbb szintén át kell esniük az eszközöknek a laboratóriumi teszten. A szervezetnél ezzel együtt úgy döntöttek, hogy a draft-n tanúsítványt szerzett berendezéseknél nincs szükség újabb tesztekre, ezek - hiába nõtt idõközben 2.0-ról 11.0-ig a verziószám - automatikusan megfelelnek.
+Az új programhoz természetesen új logókat is gyártott a szövetség, ezek a vásárlók egyértelmû tájékoztatása érdekében minden olyan készülék dobozára felkerülnek, melyek megfelelnek a fent említett teszten. Az új program opciós lehetõségként a rádióstreamek számát is vizsgálja, illetve a tesztek alapján a logóban feltüntethetõ, hogy az eszköz hány streammel, azaz lényegében hány antennával képes kommunikálni, illetve milyen frekvenciákon tud adatot forgalmazni.	     
+                  
+                  
+                  
+                   

@@ -1,0 +1,10 @@
+Villámgyors, 450 gigabájtos vállalati merevlemezt mutatott be a Hitachi
+
+A Hitachi bejelentette új, 3,5 hüvelykes merevlemezét, melynek tányérjai percenként 15 ezer fordulaton pörögnek. A Hitachi 15K450 e tekintetben nem a legelsõ ilyen modell, viszont ezidáig egyike az legnagyobb kapacitású változatoknak
+
+
+
+A meghajtó 450 gigabájtnyi információ tárolására elegendõ helyet biztosít, amelyek kiolvasása a gyártó tesztjei alapján a normál egységekhez képest akár 30 százalékkal gyorsabban is megtörténhet. A meghajtó merõleges adatrögzítési technológiát alkalmaz, 16 megabájt gyorsítótár található benne, átlagos elérési ideje pedig 3,6 milliszekundum. A Hitachi az újdonságot júniustól szállítja, a környezettõl függõen Serial Attached SCSI (SAS), vagy Fibre Channel csatolófelülettel egyaránt választható. A Hitachi szerint új termékének legmegfelelõbb élõhelyét olyan szerverekben lehet elképzelni, amelyek sok adatot közvetítenek, egyidejûleg több igénylõ számára.
+
+
+ A Hitachi a legnagyobb elérhetõ kapacitású 15 ezer fordulatos meghajtóként mutatta be a 15K450 merevlemezét, amely mellett a április 7-én bejelentett Seagate Cheetah 15k.6 tároló is nyújtja ugyanezt, utóbbi 147, 300 és 450 gigabájt kapacitásban kínálja a percenkénti 15 ezer fordulatból adódó sebességtöbbletet. A Seagate Cheetah 15k.6 natív AES titkosítási funkcióval is rendelkezik, ezáltal garantálja, hogy a rajta tárolt adatokhoz még akkor sem fér hozzá senki, ha a diszk illetéktelen kezekbe kerül.

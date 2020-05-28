@@ -1,0 +1,14 @@
+Távoli nyomtatás mobiltelefonokról a RIM és a HP együttmûködése révén
+
+Együttmûködési megállapodást kötött a Hewlett-Packard és a BlackBerry okostelefonokat gyártó Research in Motion (RIM). Az együttmûködés eredményeként a kanadai cég telefonjaival akár az interneten keresztül is nyomtathatnak majd dokumentumokat a felhasználók.
+
+
+
+A HP és a RIM által közösen üzemeltetett cloudalapú nyomtatási rendszer, a CloudPrint mind a BlackBerry Enterprise Server felhasználók, mind pedig a BlackBerry Internet Service felhasználók számára lehetõséget kínál majd a különféle dokumentumok, fotók és weboldalak távoli kinyomtatására. A telefonok tulajdonosai a CloudPrint révén mindig a legközelebbi nyomtatóra küldhetik majd az adatokat -- a szolgáltatás a fejlesztõk ígérete szerint nem kizárólag a HP nyomtatóival mûködik együtt, illetve a push e-mail szolgáltatáshoz hasonlóan nem igényel bonyolult beállításokat és eszközillesztõk telepítését.
+
+
+A RIM ezzel együtt bejelentette, hogy a HP a jövõben egy olyan felügyeleti szoftver piacra dobását is tervezi, mellyel a teljes BlackBerry-környezet egy kézben fogható össze, beleértve a BlackBerry Enterprise Server vállalati platform legújabb verzióját, mely értelemszerûen a HP összes ProLiant szerverén futtatható. A BlackBerry Enterprise Server legújabb, 5.0-s verziója egyébként éppen hétfõn jelent meg, az új változat elsõsorban új adminisztrációs lehetõségekkel gazdagodott.
+
+BlackBerry Curve: barátkoznak a HP-vel
+
+A két cég egyelõre nem közölte, hogy a CloudPrint szolgáltatás pontosan mikor, illetve milyen konstrukcióban válhat elérhetõvé a nagyközönség számára. Így azt sem tudni, hogy mennyit kell majd fizetni a távoli nyomtatásért, illetve pontosan hogyan illeszkedik majd be a CloudPrint a szolgáltatásportfólióba.

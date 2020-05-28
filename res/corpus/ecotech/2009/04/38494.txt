@@ -1,0 +1,23 @@
+Ma 23 éves az IBM elsõ laptopja
+
+Épp a mai napon ünnepli az IBM az elsõ laptopjának huszonharmadik születésnapját. A PC-DOS 3,2 operációs rendszerrel forgalmazott IBM 5140 a gyártó elsõ olyan számítógépe volt, mely akkumulátorról is üzemelt. 2000 dollárt kellett érte fizetni, ami méltányos ár volt, akkoriban az új IBM PC-k ára ennek a kétszeresét közelítette.
+
+
+
+Az IBM 5140 hordozható számítógép bemutatkozásának nincs sok köze a Halley üstököshöz, mely 1986-ban járt legutóbb a földünknél, a Challenger ûrrepülõ, valamint a csernobili atomerõmû katasztrófájához sincs, a Metallica Master of Puppets albumának érkezésével pedig tényleg nehéz összehozni. Közös bennük azonban az, hogy a felsorolásban szereplõ események (a teljesség igénye nélkül) mindegyike 1986-ban történt.
+
+
+
+23 év nem kis idõ, azonban a hordozható számítógépek esetében még többnek, évszázadoknak tûnik. Az IBM 5140 talán az elsõ olyan hordozható számítógép, mely a legtöbb alappal szolgált a közel negyed évszázados fejlõdéshez. Az 5,5 kilogrammos 5140 akkor már öregecske Intel 80C88 processzora 4,77 megahertzes frekvencián dolgozott a 256 kilobájtnyi rendszermemóriából, melyet csak az akkoriban virágzásnak induló 3,5 hüvelykes floppylemezekrõl lehetett megtölteni, mert a gép az akkumulátor kímélése érdekében merevlemezzel nem rendelkezett.
+
+
+
+A kijelzõ mai szemmel olvashatatlan, 640x200 képpont felbontást kínált, melyen a 80x25-ös szöveges üzemmód betûi függõlegesen zsugorítva, eredeti magasságuk felében jelentek meg. Az 5140-es legfõbb elõnye az akkumulátoros üzemben rejlett, a gépet a korabeli tesztek szerint akár 4 órán át is lehetett hálózati konnektortól mentes helyszíneken üzemeltetni. Annak érdekében, hogy a bekapcsolási folyamat ne eméssze fel e perceket, a bekapcsológomb megnyomása után a gép készenléti üzemmódba került.
+
+
+Az IBM 5140 2000 dolláros áron nem volt a számítógépek VW bogara, az üzleti siker elmaradásáért több jellemzõje is felelõssé tehetõ.
+A laptop nehéz volt, egy 450 dolláros modemen kívül hiányzott belõle az 5155-ös elõd bõvíthetõsége, bár az 5140-eshez külsõ kiegészítõk teljes sorát, 300 dolláros nyomtatót, 200 dolláros soros-párhuzamos adaptert, illetve egy 350 dolláros CRT-monitort is lehetett illeszteni. Legutóbbi a kényelmes használatot tette lehetõvé, így ugyanis a számítógép saját LCD-megjelenítõjét le lehetett venni. Persze a hordozatóságról ekkor le kellett mondani.
+
+
+
+A beépített kijelzõ kiváltására fõleg az elsõ változatok esetében volt nagy szükség, a panelen megjelenõ információ alig volt olvasható a csapnivaló kontraszt és a háttérvilágítás hiánya miatt. A késõbbi változatok leginkább ezen a két téren hoztak javulást. Az 5140-et a vállalat IBM PS/2 L40 SX laptopja váltotta 1991-ben, melyet nem sokkal késõbb már az elsõ ThinkPad gépek követtek.

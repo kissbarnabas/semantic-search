@@ -1,0 +1,26 @@
+Új rackszekrények, kábelrendezõk és áramelosztók az APC kínálatában
+
+Új rackszerkrényekkel és rakcbe szerelhetõ kiegészítõkkel bõvítette kínálatát az APC. A régiós piacon most megjelenõ termékek elsõsorban azon felhasználók érdeklõdésére tarthatnak számot, akik nagy teljesítménysûrûségû rendszereket üzemeltetnek.
+
+
+
+A szokásosnál mélyebb rackek a szokásosnál hosszaabb szervereknek
+
+Az APC új rackjei közül az AR3357 NetShelter SX egy 48U magas, 750 milliméter széles, 1200 milliméter mély szekrény. A vállalat már tavaly õsszel bemutatott ilyen extra mély rackszekrényeket, azonban a 48U magas, 750 milliméter széles változat hiányzott a kínálatból -- eddig. Szarka Attila, az APC by Schneider Electric rendszermérnöke a HWSW megkeresésére elmondta, a szokásosnál nagyobb hosszúságú rackszekrényekre azért van szükség, hogy a nagy teljesítménysûrûségû környezetekben biztosítható legyen a szerverek elhelyezése, illetve a kábelek elvezetése még akkor is, ha a gépek esetleg hosszabbak a szokásosnál.
+
+Ma már vannak olyan szerverek, amelyek megnövekedett mélységük miatt néha még a gyártójuk által kínált rackszekrényben sem férnek el -- mondta a HWSW-nek Szarka. Ilyenkor jöhet jól az új NetShelter, amelyben nem csak a gépek, hanem a kábelek is könnyen elhelyezhetõk anélkül, hogy az hûtési problémákat okozna -- tette hozzá. Annak érdekében, hogy az 1200 milliméter mély rackszekrényben több áramellátó és adatkábelt lehessen elhelyezni, a hátulján további két kábelcsatornával rendelkezik, amik helyet biztosítanak a rack hátuljában található áramelosztók és a  tápelosztó egységek (PDU) rögzítésére. Szarka szerint a praktikus belsõ elrendezésnek köszönhetõen az APC 750 mm-es rackjeiben több a hely, mint más gyártók 800 mm-es szekrényeiben.
+
+Rendezett kábelek
+
+A 750 milliméteres NetShelter SX szekrényekhez az APC új kábelrendezõket is bemutatott, amelyeket nagy switch-ekhez és patchpanelekhez ajánlanak. Az 1U és 2U kivitelû vízszintes, mûanyagtartókkal és fedõkkel felszerelt kábelrendezõk egy- és kétoldalú kivitelben is kaphatók, oldalanként akár 250 kábelt is fogadhatnak. A 2 és 4 oszlopos, nyitott rackekhez készült kábelrendezõk az egy-egy U magasságú területeken belüli kábelrendezési problémákat oldják meg.
+
+
+ További újdonság a KoldLok Raised Floor Grommet, amely álpadlós környezetben segíti a légáramlást a kábelátvezetések rugalmas lezárásával. Egy álpadló szabad nyílásain (pl. a kábelátvezetõ nyílásokon) a levegõ nem megfelelõ helyekre áramolhat, illetve csökken az álpadló alatti statikus nyomás. A légnyomáscsökkenés befolyásolja az adatközpont hûtésének hatékonyságát, ezt igyekszik orvosolni a KoldLok család.
+
+Új áramelosztási termékek
+
+Az APC emellett új áramelosztási termékeket is bemutatott, köztük az AP7856 Metered Rack PDU-t, amely az egyetlen olyan függõleges, rackszekrénybe készült áramelosztó egység, amely nem foglal el hasznos  helyet a rackbõl, és a HP c-class blade szerverek minden részegységéhez lehetõvé teszi a hozzáférést. A háromfázisú 22kW-os PDU távolról is elérhetõ, konfigurálható és menedzselhetõ. 
+
+Az 1U és 2U kivitelben elérhetõ, beépített hálózati felügyeleti képességgel felruházott új Rack Automatic Transfer Switch-ek redundáns tápellátást biztosítanak az egy tápegységgel rendelkezõ készülékek számára, és a több csatlakozónak köszönhetõen nem igénylik másodlagos áramelosztó eszközök használatát a rackekben. Az In-Line Current Meter eszközök árammérési és felügyeleti lehetõséget biztosítanak a hálózati kapcsolattal és felügyeleti megoldással nem rendelkezõ elosztók, illetve különálló eszközök számára. Három 230 voltos modell került forgalomba, ebbõl kettõ egyfázisú, 16 és 32 amperes, a harmadik egy háromfázisú, 32 amperes modell.
+
+A fenti termékek július közepe óta vásárolhatók meg az EMEA régióban. Az újdoságok között található még egy 24U magas, 600 mm széles és 1070 mm mély rack, amelyet olyan helyekre ajánl az APC, ahol ahol kevés a hely egy EIA-310 szabvány szerinti berendezés számára. A kábelek könnyû rendezését a kábelcsatlakozó konzol, és a hátsó ajtón található nyílás biztosítja, míg a biztonságot a lezárt tetõ garantálja. Az AR3104 NetShelter SX rack augusztus végétõl lesz kapható.

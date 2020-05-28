@@ -1,0 +1,22 @@
+Húzd be a függönyt: távcsõvel is kifürkészhetõ a jelszavad
+
+[Computerworld] Kamerával és távcsõvel több értékes, személyes adathoz juthatunk, mint arra bárki számítana, állítja két kutatócsoport, akik egymástól függetlenül dolgoztak ki hasonló módszert a jelszavunk ellopásához, vagy a számítógép képernyõjén megjelenõ adatok lemásolásához. Mindehhez ráadásul nem is szükséges a közvetlen rálátás.
+
+
+
+Árulkodó tükörkép
+
+A Kaliforniai Egyetem (Santa Barbara) és a Saarland Egyetem (Saarbrucken, Németország) kutatói rájöttek, hogy a környezet tárgyain megjelenõ apró tükrözõdéseken keresztül is megfigyelhetõk egy kéz mozdulatai, amint beüt egy jelszót, vagy elolvasható egy monitor tartalma, akkor is, ha az közvetlenül nem is látszik. A saarbruckeni csapat mindennapos felületekrõl, poharakról, csészékrõl, vagy akár az emberi szembõl tükrözõdõ videóról is képes megállapítani, mit gépelt be a megfigyelt személy a billentyûzeten.
+
+A kifejlesztett Clear Shot program elemzi a videón található kézmozdulatokat és szöveggé alakítja azt. A pontosság csupán 40 százalékos, azonban ez is elegendõ ahhoz, hogy több-kevesebb pontossággal kitalálható legyen, mit írt le az adott személy a billentyûzeten. A szoftver alternatív szavakat is ajánl és az esetek nagy részében a valódi szó benne van az elsõ öt felajánlott szóban.
+
+
+A Clear Shot szinte bármilyen webkamerával együttmûködik, de a Saarland Egyetem kutatói szerint akár távcsõvel, teleszkóppal is használható, valódi távoli megfigyeléshez alapot biztosítva. A mókának indult kutatás ötletét az Egyetem ablakain tükrözõdõ, látható számítógépes képernyõk adták a csapatnak.
+
+A tányér feliratához hasonlóan tükrözõdhet a monitor képe is
+
+A fehér fal is jó
+
+A próbálkozások sikerre vezettek, egy csupán 500 dolláros távcsõvel már 5 méterrõl elolvasható egy teáscsészén tükrözõdõ, 12-es betûméretû Word dokumentum, 10 méterrõl pedig a 18-as betûméretû olvasható szabad szemmel is. Egy komolyabb teleszkóppal nagyobb távolságról, 30 méterrõl is elérhetõ ilyen tisztaságú kép. Bár a tükrözõdések igen aprók, élesebb képet nyújthatnak, mint azt bárki gondolná.
+
+A Saarland kutatói jelenleg egy új képelemzõ algoritmuson dolgoznak és csillagászatban is használt, nagyteljesítményû teleszkópokkal is kipróbálják szoftverük képességét. Ilyen teljesítménnyel akár már az is lehetõvé válhat, hogy az emberi szemben tükrözõdõ képet elemezzék, de kísérleteik során a szimpla fehér faltól két méterre elhelyezett monitor fali tükrözõdését is képesek voltak elolvasni! Egyetlen védelem van a módszer ellen: a reluxa, roló,  sötétítõfüggöny használata.

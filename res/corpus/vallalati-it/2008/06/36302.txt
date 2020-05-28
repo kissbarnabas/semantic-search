@@ -1,0 +1,15 @@
+Nagy teljesítményû, de kis helyigényû asztali színes LED nyomtató az OKI-tól
+
+Már Magyarországon is elérhetõ az OKI Printing Solutions új, C3600-as nyomtatója, amely teljesítmény-kategóriájában az egyik legkisebb helyigényû modell.
+
+
+
+290×376×479 milliméteres dimenzióival mindenképpen az apróbb színes, A/4-es lézer jellegû nyomtatók közé tartozik az OKI új, C3600-as típusjelû modellje. Ez annál is inkább komoly mutatvány a tervezõk részérõl, mivel egy in-line (vagy más néven tandem) rendszerû nyomtatómûvet sikerült a kompakt egységbe építeni, mely sorban egymás után vonultatja fel a festékezõ egységeket, így a színes oldalakat is egyetlen menetben állítja össze.  Ennek köszönhetõ  16 lap/perc színes és a 20 lap/perc monokróm nyomtatási teljesítmény. (Megjegyzendõ, hogy létezik mintegy 31 %-al kisebb térigényû színes lézernyomtató is, ez azonban csak négy lapot képes színesben kinyomtatni percenként). Az elsõ oldalt a gyártó adatai szerint 10 másodperc alatt készíti el fekete-fehérben, míg ugyanez színes dokumentumok esetében 12 másodpercet vesz igénybe. PCL és PostScript emulációval is dolgozik a készülék, így gyakorlatilag minden általában használt operációs rendszer alatt használható.
+
+
+
+
+
+Az egymenetes LED nyomtatómû mechanikája lehetõvé teszi, hogy vastag média használatát (például névkártya papír) és hosszú, legfeljebb 1,2 méteres reklámcsík nyomtatását. A nyomtatást &#8211; többek között - a Template Manager 3.0 ingyenesen mellékelt alkalmazás segíti. A PrintControl szoftver lehetõvé teszi a költségek felügyeletét, a beépített PrintSuperVision pedig böngészõn keresztül menedzselhetõvé teszi a gépet.
+
+Kétféle kellékanyag kapacitással is gazdálkodhatunk, 1500 és 2500 lapos töltettel is kaphatók a C3600-hoz toner kazetták. Emellett cserélendõ kellékanyag még a 20 000 oldal élettartamú fényhenger. Megjegyzendõ, hogy a nagyobb kapacitás gazdaságosabb fenntartást tesz lehetõvé, ami elõny, ugyanakkor a gyári tonerkazetták csak 500 oldalas belépõ töltetet tartalmaznak, így nagyon hamar szükségessé válik a kellékanyag beszerzés, ezt számítsuk bele a készülék árába. A C3600-as  júniustól megvásárolható, ajánlott végfelhasználói ára 75 ezer forint.

@@ -1,0 +1,14 @@
+Hatvan éves a világ elsõ modern számítógépe
+
+Holnap lesz hatvan éves a világ elsõ modern digitális számítógépe, a Baby. Az egytonnás masinát a Manchesteri Egyetemen építették meg, és 1948. június 21-én futott le az elsõ programja. A Baby születésnapja alkalmával egyúttal bemutatták a világ elsõ számítógépes zenéjét is, melyet a Baby leszármazottjaként egyik elsõ kereskedelmi számítógép produkált. 
+
+
+
+A Small-Scale Experimental Machine, becenevén Baby, a világ elsõ számítógépe, mely tárolta a programját, az utasításokkal és adatokkal együtt. A korábbi számítógépek vezérlését, kábelekkel, kapcsolókkal és lyukkártyákkal oldották meg. A Baby ezzel szemben katódsugaras csövekben tárolta az adatokat és az utasításokat, szám szerint négyben, valamint a kimeneti eredményeket is, melyek akkori léptékkel alacsony késleltetésû, tetszõleges hozzáférésû memóriaként szolgáltak. A számítógép bináris elven mûködött, egy utasítás egy 32 bites szóból állt, és a gép 32 utasítás és 32 adatot tudott tárolni.
+
+Egy utasítás végrehajtása 1,2 ezredmásodpercet vett igénybe, vagyis másodpercenként nagyjából 830 utasítás elvégzésére volt képes. Ez a mûveleti teljesítmény mai szemmel nevetségesnek hat a másodpercenként több milliárd mûvelet elvégzésére képes személyi számítógépekhez képest, akkor azonban gyorsan számított. A világ elsõ tárolt programja 17 utasításból állt, és 2 18. hatványának (262 144) legmagasabb osztóját kereste meg (2^17, 131 072), mégpedig úgy, hogy minden egyes egész számot kipróbált a számtól visszafelé. Bár az algoritmus kifejezetten nem volt hatékony (egy matematikában kicsit jártas ember szinte azonnal rávágná a választ), több millió utasítás végrehajtását jelentette, a gép 52 perc alatt végzett.
+
+
+A Frederic C. Williams, Tom Kilburn és Geoff Tootill által jegyzett Baby projekt eredményeként született meg késõbb a Ferranti Mark I, melyet az elsõ általános célú, programozható  kereskedelmi számítógépként tartunk nyilván. A Ferrantit 1951 februárjában szállították le. A Ferranti egy másik elsõséget is jegyez, mégpedig a legkorábbi ismert számítógépes zenét rajta játszották le. A zeneprogramot a híres Alan Turing barátja, Christopher Strachey írta, a zenét pedig a BBC rögzítette.
+
+A világ elsõ alkalmazott, Turing-képes számítógépe az ENIAC volt, mely 1946 február 14-én született meg. Az ENIAC, amely a Electrical Numerical Integrator and Computer meghatározásból létrehozott mozaikszó, korának legerõsebb számítástechnikai berendezése volt, 30 tonnát nyomott, és 18 ezer elektroncsõbõl épült fel. A Project PX fedõnevû gép megépítését a második világháború alatt a hadsereg finanszírozta. 

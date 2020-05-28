@@ -1,0 +1,11 @@
+Megjelent a Microsoft ingyenes víruskeresõje
+
+A OneCare-rel ellentétben a Security Essentials csak a kártevõvédelemre koncentrál és nem tartalmaz tûzfalat, biztonsági mentést vagy éppen a PC finomhangolására szolgáló komponenst. A Microsoft naponta frissített kártevõ-adtbázist ígér, emellett a szoftver a gyanús állományokat azonnal összeveti az interneten elérhetõ szignatúra-adatbázissal. A szoftver az összes gyanús tevékenység hatására azonnal frissíti az adatbázisát. A rootkitek elleni küzdelmet számos technológia támogatja, amelyek lehetõvé teszik például a kernelstruktúrák integritásának ellenõrzését vagy éppen a fájlrendszerhez való közvetlen hozzáférést a rosszindulatú programok, driverek eltávolításához.
+A termék a redmondiak szerint nem a Symantec, a McAfee vagy más neves gyártók szoftvereinek ellenfele kíván lenni, hanem egy olyan ingyenes biztonsági csomag, amely mindenki számára elérhetõ és megvéd az internetezés közben beszedhetõ kártevõktõl. A cég a terméket leginkább a fejlõdõ országok piacaira szánja, ahol robbanásszerûen nõ az új internetezõk száma, viszont egyáltalán nem képzettek. Az olyan országok mint Kína, India, Oroszország, Brazília és Argentína valóságos kánaánt jelentenek a rosszindulatú szoftvereknek.
+
+A program egyszerû kezelõfelületû, kezdõ felhasználók számára is könnyen átlátható. A Security Essentials bárki számára ingyen letölthetõ és telepíthetõ, aki eredeti Windows XP SP2, Windows Vista vagy Windows 7 operációs rendszerrel rendelkezik. Ingyenes kártevõvédelmi termékekbõl egyébként nem kevés akad a piacon, a legnépszerûbbek közé az Avast, az Avira és az AVG tartozik, ebbe a táborba érkezik a Security Essentials.
+A Gartner szerint az otthoni biztonsági termékek piaca az idén 4 százalékkal nõ és így 3,6 milliárd dollárt tesz ki, ami a teljes biztonsági szoftverpiac negyede.	     
+                  
+                  
+                  
+                   

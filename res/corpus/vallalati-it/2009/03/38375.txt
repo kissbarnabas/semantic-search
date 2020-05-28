@@ -1,0 +1,14 @@
+SonicWALL: biztonságos 802.11n hálózatok
+
+A SonicOS 5.2 firmware megjelenésével a SonicWALL NSA E-sorozatú, NSA és TZ 210 Unified Threat Management tûzfalai is képessé váltak a 802.11n szabvány szerinti vezeték nélküli kommunikációra. A Clean Wireless megoldás a vezetékes hálózatokhoz hasonlóan a SonicWALL szabadalmaztatott RFDPI (Reassembly-Free Deep Packet Inspection) technológiájával szûri a vezeték nélküli hálózatok forgalmát vírusok, kémprogramok vagy más kártevõk után kutatva.
+
+
+
+"A felhasználók abban a tévhitben élnek, hogy ha bekapcsolják a vezeték nélküli hálózat titkosítását, akkor a kommunikációjuk teljes biztonságban van. Tévednek" -- mondta Patrick Sweeney, a SonicWALL elnökhelyettese. &#8222;A vezeték nélküli hálózat akkor igazán biztonságos, ha nem csupán titkosítjuk a forgalmat, hanem emellett minden tartalmat megtisztítunk az olyan fenyegetésektõl mint a vírusok vagy más kártevõk."
+
+
+
+A vállalat bemutatott egy új vezeték nélküi hozzáférési pontot is. A SonicPoint N Dual Band Smart Access Point a 802.11a és 802.11n szabványokkal kompatibilis, utóbbi módban a 3 antennájának köszönhetõen akár 300 Mbps sávszélességre is képes lehet. A legújabb trendeknek megfelelõen a SonicPoint N Dual Band Smart Access Point csak Power over Ethernet tápellátással rendelkezik, vagyis a mûködéséhez szükséges áramot az Ethernet-hálózatból kapja. Egy hálózatban akár 128 ilyen hozzáférési pont is lehet, amelyek nem csak távolról felügyelhetõk, hanem a Unified Threat Management eszközökben meghatározott biztonsági házirendek is rájuk tölthetõk.
+
+
+ A SonicOS 5.2 azonnal letölthetõ a TZ és NSA tûzfalakhoz az élõ támogatási szerzõdésekkel rendelkezõ ügyfelek számára. A SonicPoint-N kétsávos hozzáférési pontok elérhetõk a SonicWALL globális disztribúciós csatornáin keresztül. 

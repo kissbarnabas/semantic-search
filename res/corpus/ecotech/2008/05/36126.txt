@@ -1,0 +1,28 @@
+Az olcsó mini noteszek piacára igyekszik behatolni a VIA
+
+Mini ultrahordozható notebookok számára készített nyíltan hozzáférhetõ referenciadesignt a VIA Technologies, hogy ezzel segítse a gyártók fejlesztéseit és lerövidítse a piacra kerüléshez szükséges idõt, ezen keresztül pedig saját chipjei iránt igyekszik keresletet gerjeszteni.
+
+
+
+Nyílt mini notebook, vagyis OpenBook
+
+A VIA OpenBook a tajvani cég közleménye szerint az ultrahordozható notebookok gyorsan növekvõ szegmensét célozza meg, a ereje pedig abban rejlik, hogy a specifikációk a CAD-állományokkal együtt a Creative Commons Attribution Share Alike 3.0 licenc alatt szabadon letölthetõek a cég partnerei számára. Az OpenBookban egy szélesvásznú 8,9 hüvelykes panel kapott helyet 1024x600-as felbontással. A gép mindössze 24 centiméter széles és 17,5 centiméter mély, vagyis felülete jóval kisebb egy A4-es lapénál, legnagyobb vastagsága pedig 3,6 centiméter. 
+
+A gép tömege a VIA szerint 1 kilogramm alatt marad, melyet egy kiskapacitású, 4 cellás, 2600 mAh-s akkumulátorral ér el -- az akkumulátoridõ ezzel ideális esetben 3-4 óra közé eshet, köszönhetõen a rendszer várhatóan jóval 10 watt alatti fogyasztásával. Az OpenBook természetesen a VIA ultramobil platformjára épít, melynek lelkét egy VIA C7-M ULV processzor képezi, azt pedig egy VIA VX800-as chipset szolgálja ki, integrált VIA Chrome9 HC3 grafikával.
+
+ Az ultraalacsony feszültségû processzor még a 90 nanométeres csíkszélességû gyártási eljáráson készült Esther magot takarja, mely legfeljebb 1,6 gigahertzes órajelen üzemelhet, adatbusza pedig másodpercenként 800 megatranszferre képes. A processzor fogyasztása tartósan legfeljebb 3,5 wattot tesz ki a VIA adatai alapján, terheletlenül ugyanakkor 0,1 wattal is beéri, az alacsony hõfejlõdés mellé pedig rendkívül kompakt, mindössze 21 milliméter oldalhosszúságú négyzetes tokozás társul.
+
+A VX800 chipset valójában egyetlen ultraitengrált chipbõl épül fel, szintén négyzetes tokozásának egy oldala pedig mindössze 33 milliméteres. Az OpenBookban legfeljebb 2 gigabájt DDR2 memóriát kezelõ chipsethez VIA Chrome9 HC3 grafikus processzor tartozik, mely DirectX 9 kódok gyorsítására képes MPEG-2, MPEG-4, VC-1 és DiVX videofolyamok dekódolásának hardveres támogatása mellett. A Realtek HD audiochip és gigabites Broadcom Ethernet vezérlõ mellett a VIA alapesetben Broadcom Wi-Fi és Bluetooth chipet szerelt a gépbe, de opcionálisan képes fogadni HSDPA, WiMAX, EV-DO kártyamodulokat is.
+
+
+Az OpenBook rendelkezik a szokásos kapcsolódási lehetõségekkel, így D-Sub VGA-kiemenet, 3 USB port, multiformátumú kártyaolvasó is megtalálható rajta, multimédiás extraként pedig webkamerát is kapunk. Az OpenBook támogatja a Windows XP és Vista mellett az összes népszerû Linux-disztribúciót a VIA állítása szerint, mely alatt nagyjából az Ubuntu, Red Hat és Fedora Core, SUSE, Gentoo és Debian disztribúciókat kell vélni.
+
+Kicsi chiptervezõ nagy reményekkel
+
+Az OpenBook nyilvánvalóan az ASUS Eee PC-vel berobbantott mini notebook szegmensbõl igyekszik minél nagyobb szeletet kihasítani majd a VIA chipjeinek azáltal, hogy leegyszerûsíti a notebookgyártók számára új modellek piacra dobását. A szabadon letölthetõ CAD-fájlokkal a tervezõk egy komplett, mûködõ gépet kapnak kiindulási alapként, melyet saját elképzeléseik szerint alakíthatnak, ami rendkívüli mértékben csökkenti a tervezési idõt, és egyúttal a fejlesztéshez tapadó költségeket. A mini notebookok szegmense, melyet az Intel netbookoknak hív, rendkívüli pezsgésben van, a nagyobb gyártók sorra jelentik be és dobják piacra termékeiket: az Eee PC-t követõen már piacon a HP Compaq 2133, közeleg az MSI Wind és az ECS G10IL, az Acer nemrég bejelentette a Computexen elinduló Aspire One-t, de jön a Gigabyte és a hírek szerint a Dell és a Clevo is készülõdik.
+
+A mára már pénzügyi problémákkal küszködõ VIA számára nagy visszatérési lehetõséget tartogatnak a mini notebookok. Jelenleg a meghatározó szereplõk közül egyedül a HP gépe épít a VIA platformjára, ugyanakkor a cég léptékével már ez is jelentõsen megdobja chipjeinek szállításait: a Digitimes információi szerint éves szinten 500 ezer darabról van szó jelenleg. A HP-hoz csatlakozhat a Gigabyte gépe is. Az Acer Aspire One gépe hivatalosan meg nem erõsített információk szerint bár Intel Atom processzorra épít, a vállalat által elõrejelzett 5-7 milliónyi "olcsó számítógép" jól jelzi a vállalatok által érzékelt piaci potenciált. Az Asustek a jelenleg folyó negyedévben 1,2-1,3 millió Eee PC eladásával számol.
+
+HP Compaq 2133
+
+Bár az OpenBookot még az Estherrel jelentette be, a VIA következõ generációs processzorának már folyik a tesztelése, a vállalat nemrég szétküldte partnerei számára a prototípusokat a rendszerek validációja céljából. Az Isaiah kódnéven ismert chip az Esthertõl egy gyökeresen eltérõ, merõben új architektúrát valósít meg a Fujitsu 65 nanométeres gyártástechnológiáján. Az energiahatékonyságot szem elõtt tartásával a mérnököknek 2-4-szer nagyobb teljesítményt sikerült kicsikarniuk a C7-tel azonos fogyasztási keretbõl, állítja a tervezõcsapat vezetõje, Glenn Henry. Az Isaiah teljesen platformkompatibilis az Estherrel, vagyis mindössze egy BIOS-frissítésre van szüksége. Kereskedelmi megjelenése a harmadik negyedévre várható.

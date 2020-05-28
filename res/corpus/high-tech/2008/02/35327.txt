@@ -1,0 +1,34 @@
+További részletek láttak napvilágot a moduláris mobiltelefonról
+
+Pár napja adtunk hírt a Modu mobiltelefon-magról, amely jelenleg Barcelonában, a Mobile World konferencián is megtekinthetõ. A készülékhez a külsõ gyártók sorra jelentik be az e mobilmagot fogadni képes héjakkal kapcsolatos fejlesztéseket, amelyek segítségével szélesíthetõ a lehetõségek skálája.
+
+
+
+Felesleges funkciók
+
+A Modu és az azt fogadó héj a mobiltelefonok esetében változtathat a felhasználási szokásokon. Eddig egy komoly, minden igényt kielégítõ felsõkategóriás telefon megvásárlásakor olyan lehetõségeket is kaptunk, amelyeket késõbb nem is használtunk. Gondoljunk csak arra, hogy a levelezõklienssel felszerelt mobilok nagy többsége erõs a multimédiás alkalmazások terén is, így a sokak számára szükségtelen, fejlett hangáramköröket is megvásároltatták velün.
+
+
+Ugyanígy járnak a hátoldali kamerával azok az internetezni vágyók is, akik nem akartak fényképet készíteni, igaz, kivételként a Nokia kínál E-series mobilokat kameramodul nélkül is -- ezek a készülékek a mai mobilkínálat ismeretében igen elenyészõ számban vannak jelen.
+
+A Modu mobiltelefon mag egy csupasz, 1 gigabájt memóriával és saját kijelzõvel ellátott minimáltelefon, amelynek képességei extra, külsõ gyártó által készített kiegészítõkkel szélesíthetõk. Ne legyen senki meglepve, az ezredfordulón bejelentett 3600-sorozatú iPAQ tenyérgépek ugyanezt a szisztémát követték, ahol a héjat kabátnak nevezték, és amelyek között GPS-modult, Bluetooth adóvevõt, PCMCIA kártyahelyet, vagy Compact Flash rést tartalmazó változatok egyaránt megtalálhatók. Ma ezeket már csak a használtpiacon lehet beszerezni, ahogy magát a 3630-as iPAQ alapgépet is.
+
+A csupasz Modu mag
+
+A Modu csak a mag
+
+A Modu esetében a mag kisebb szerepet kap az iPAQnál, itt a mag a héj segítségével éled fel csak igazán, mert a kiegészítõk többet tartalmaznak, mint az iPAQ esetében, ahol csak extrákat kapunk. Autós hasonlattal élve, míg az iPAQ kabátot tetõcsomagtartóként, vagy autórádióként foghatjuk fel, addig a Modu mag üléssel és négy mankópótkerékkel ellátott benzinmotor, amely a "karosszéria-kiegészítõbe" tolva máris komplett jármûvé válik.
+
+A Modu Barcelonában kiállított prototípusa kiegészítõk nélkül is alkalmas a telefonálásra, akkumulátora kétórás beszélgetést, három órányi zenehallgatást és háromnapos készenléti biztosít. Az elsõ, jelenlegi változat GPRS adatkapcsolatra képes, de a fejlesztések egy második generációs modell felé fordulnak, melynek adatátviteli képességei a 3G szabványig merészkednek.
+
+A kiegészítõ héjak nagy többsége saját áramforrással rendelkezik majd, ezek az akkumulátorok a magban lévõ képességekre is hatással lesznek, azzal összekapcsolódva egységesen látják majd el a mag-héj energiaigényét. A kiegészítõk között már biztosan lesz QWERTY billentyûzettel, navigációval, kamerával és/vagy nagy kijelzõvel ellátott változat is, amelyeket a modu weboldalán látható további elképzelések követhetnek.
+
+
+
+Maga a mag 72 x 37 x 7,8 milliméteres méretû, mindössze 40,1 grammot nyom, a hanghívások mellett képes rövid szöveges üzenetek kezelésére és MP3 állományok lejátszására is. A beépített hangszóró, a Bluetooth modul szintén alaptartozék. USB-s memóriakulcsként is használható, mert egy, illetve igény szerint négy gigabájtnyi memória, valamint USB 2.0 csatoló is helyet kapott benne.
+
+Hatalmas az érdeklõdés
+
+A Modu-alap forgalmazása 2008 októberében kezdõdik, három mobilszolgáltató (az olasz Telecom Italia, az orosz Vimplecom, valamint az izraeli Celcom) már biztosan felveszi a készüléklistájába. Amíg a kabátok 20 és 60 eurós ár körül mozognak majd, maga a Modu mag 200 euróért lesz kapható. A 3G adatátviteli képességekkel rendelkezõ változat 2009. nyarától várható.
+
+Az egy éve alapított cég szerint akkora az érdeklõdés az újszerû telefon iránt, hogy egy jövõ évi tõzsdére vonulással akár 250-350 millió dollár tõkét is be tud majd vonni, 2010-re pedig nem csak hogy elérheti a nyereségküszöböt, hanem akár némi profitot is termelhet. A Modu, amelynek az egyik befektetõje a memóriakártyáiról ismert SanDisk, 2011-re 1 milliárd dolláros forgalmat vár a telefonból és a kapcsolódó kiegészítõkbõl. Ennek azonban csak egy része csapódik le majd nála, a nagyobb részt a rendszer köré csoportosuló, kiegészítõket gyártó cégek teszik majd zsebre.

@@ -1,0 +1,12 @@
+Négyutas Itanium blade érkezett a HP-tól
+
+Négyutas Integrity blade szervert jelentett be a HP, tovább bõvítve ezzel BladeSystem portfólióját. Az üzletileg kritikus igényeket is kiszolgáló BL870c segítségével igen magas teljesítménysûrûség érhetõ el a négy kétmagos Itanium 2 chip és a magas memóriakapacitás révén.
+
+
+
+Az Integrity BL870c a HP szerint a hasonló képességû, rackes kivitelû megfelelõjéhez viszonyítva igen kompakt kivitelû, ugyanis a c-Class keretekkel ugyanakkora helyen két és félszer több ilyen blade kiszolgáló fér el. A blade formátumból fakadóan ráadásul egy populált keret energiahatékonysága is magasabb a rackekénél. A BL870c a BL860c kétszer erõsebb, nagyobb testvérének tekinthetõ, és kétszer vastagabb is, célja kézenfekvõ módon az erõteljesebb konfigurációt igénylõ, osztott memóriás skálázódást kedvelõ feladatok kiszolgálása. 
+
+ A BL870c négy darab kétmagos Itanium 2 9100 sorozatú chipet képes fogadni, melyek összesen 16 utasításszálat futtathatnak legfeljebb, míg a BL860c kétutas rendszer. A memóriakapacitás szintén duplázásra került, így a memóriaéhes adatbázisok és virtuális gépek futtatásához akár 96 gigabájtnyi DDR2-533 ECC modul is pakolható 24 foglaltba. A blade négy darab SAS merevlemezt képes fogadni, összesen 584 gigabájt bruttó kapacitással, opcionálisan pedig FC-vezérlõt is támogat a 4 gigabites Ethernet vezérlõ mellett. Az Integrity BL870c teljes és részletes specifikációi itt találhatóak. 
+
+
+A HP nagyobb, c7000-es c-Class kerete négy darab BL870 vagy nyolc BL860c fogadására képes, természetesen akár ProLiantekkel keverve is, míg a kisebb, c3000-es keret fele ekkora kapacitású, vagyis két darab négyutas, vagy legfeljebb négy darab kétutas Integrity blade-nek adhat helyet. Az Integrity szervercsaládban szokásos módon az új blade is támogatja hivatalosan a HP-UX 11i v2 és v3, Windows, Red Hat és SuSE, valamint az OpenVMS platformokat. A HP szerint a belépõ szintû és középkategóriás UNIX-gépek egyre inkább blade formátumúak lesznek, és az üzletileg kritikus alkalmazásokat is blade szerverek szolgálják ki. Birnbauer Péter, a HP Magyarország üzletkritikus szerverekért felelõs termékigazgatója alapján már több ügyfél is jelezte igényét az új blade iránt.

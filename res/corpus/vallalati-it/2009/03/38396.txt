@@ -1,0 +1,14 @@
+Kisebb, olcsóbb változatban is megjelenik az Oracle Database Machine
+
+Felhasználói igények miatt az Oracle az eddiginél kisebb konfigurációban is elérhetõvé teszi Database Machine tárolószerverét. A tavaly õszi OpenWorldön bemutatott, elsõsorban adattárházakhoz, adatbányászathoz fejlesztett termék a HP-vel közösen együttmûködés gyümölcse.
+
+
+
+A nagy adattárházak esetén a lekérdezések lassan futnak le, mivel az adatbázist futtató szerverek és a tárolók közötti kommunikációs csatornák egyszerûen bedugulnak. Minél nagyobb az adatbázis, annál hosszabb ez a várakozási idõ. Az Oracle szerint a diszkek és az adatbányászati intelligencia egymás mellé költöztetése a versenytárs megoldásokhoz képest akár tízszeres teljesítményt is jelenthet adatbányászati alkalmazások esetén anélkül, hogy a kódot módosítani kellene, vagy a lekérdezéseket át kellene írni.
+
+
+ "[Az adattárházakat] már nem csak szakértõk használják, egyre több jelentés is ezekbõl készül el, ezért nem ritka, hogy az üzemeltetõk teljesítményproblémákkal szembesülnek, amin az erõsebb hardver vagy az adatbáziskezelõ optimalizálása sem mindig segít" -- mondta a HWSW-nek a Database Machine megjelenésekor Radnai Szabolcs, az Oracle megoldásértékesítési képviselõje. "Kiterjedt felhasználás mellett -- amikor az adattárház a legnagyobb megtérülést hozza -- elõfordulhatnak olyan szûk keresztmetszetek, melyeket csak egy összecsiszolt konfigurációval lehet kiküszöbölni."
+
+  A Database Machine lényegében nem más, mint 14 darab, merevlemezekkel megtömött HP ProLiant szerver az adatok tárolására és 8 darab ProLiant DL360 adatbázisszerver, mindezek Infiniband interfésszel egymáshoz kapcsolva. A gépeken az Oracle saját Ubreakable Linux operációs rendszere, illetve Oracle 11g adatbázis, Real Applications Cluster, a tárolószervereken pedig Oracle Exadata Storage System fut. 450 gigabájtos gyors SAS diszkekkel rendelve ez a konfiguráció hozzávetõleg 20 terabájt felhasználói kapacitást biztosít, 1 terabájtos SATA merevlemezek használatával 45 terabájtig bõvíthetõ. A teljes rendszer egy rackszekrényt foglal el.
+
+A most bemutatott új konfiguráció lényegében megfelezi a fentit, azaz 7 tárolószervert és 4 adatbázisszervert alkalmaz, így már egy 22U magasságú kisebb szekrénnyel is beéri -- igény szerint persze tovább bõvíthetõ. A kisebb rendszer piacra dobása mellett a legfontosabb érv nem a kisebb helyfoglalás volt, hanem az alacsonyabb ár, az Oracle szerint ez az összeállítás kisebb cégek számára is elérhetõ. Egy 14 csomópontból álló konfiguráció ára 650 ezer dollártól indul, amelyhez társul a szoftverlicencek mintegy 840 ezer dolláros költsége is. A "baby" Database Machine árát az Oracle nem hozta nyilvánosságra.

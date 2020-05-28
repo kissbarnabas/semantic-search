@@ -1,0 +1,31 @@
+Végleg elbúcsúzik az internetezõktõl a Netscape
+
+[Computerworld/HWSW] Végleg elbúcsúzik a felhasználóktól a Netscape: az AOL bejelentette, hogy az õsszel megjelent 9-es verzió volt az utolsó változat a böngészõbõl, amelyet egyáltalán nem fejlesztenek tovább, február 1-tõl pedig leállnak a biztonsági frissítések kiadásával is. Az AOL szerint a Mozilla Firefox ma már olyan népszerûségre tett szert, hogy teljesen feleslegessé vált egy azonos alapokra épülõ versenytárs böngészõt fejleszteni. A cég azt javasolja a Netscape-felhasználóknak, minél hamarabb váltsanak Mozilla Firefoxra.
+
+
+
+A csúcsról a süllyesztõbe
+
+A Netscape Navigator 1.0 1994-ben jelent meg és a szoftver egyeduralkodó volt a böngészõk piacán 1995-ben, amikor a vállalat tõzsdére vonult. 1998-ban a Netscape és az Interet Explorer még fej-fej mellett harcolt a felhasználók kegyeiért, amikor az AOL bejelentette vásárlási szándékát. A Netscape az AOL védõszárnyai alatt azonban egyre jobban háttérbe szorult, ugyanis az internetszolgáltató óriásvállalat egyre kevésbé támogatta a fejlesztést és az Internet Explorer hamarosan átvette az uralmat a böngészõk piacán.
+
+
+
+
+Az IE elõretörésének egyik oka az volt, hogy ingyenesen járt a Windowshoz, miközben a Netscape-ért egészen 1998-ig fizetni kellett, ekkor tette ingyenessé a szoftvert az AOL, amely egyben a forráskódot is megnyitotta, és létrehozta annek kezelésére a Mozilla Foundationt. A Mozillánál gõzerõvel megkezdõdött a munka a Netscape 5-ös változatán, azonban a fejlesztõk végül a teljes újraírás mellett döntöttek, mivel a böngészõmotor már annyira elavult és toldozott-foldozott volt, hogy nem érte meg továbbfejleszteni. A teljesen újraírt szoftver lett a Mozilla, amelyet ma Firefox néven ismerhetünk.
+
+
+A Mozilla által gondozott, nyílt forrású Firefox hamarosan óriási népszerûségre tett szert, miközben az AOL-nál mostohagyerekként kezelt Netscape egyre inkább háttérbe szorult. A végül teljesen ejtett Netscape 5 után 2000-ben érkezett a 6-os verzió, amely azonban az akkor még meglehetõsen instabil Mozilla 0.6-ra épült, és a minõségi problémák még tovább tépázták a Netscape hírnevét -- a legtöbben csalódottan elfordultak a szoftvertõl és mást kezdtek használni, leginkább Internet Explorert.
+
+A Netscape 6 továbbfejlesztésével érkezett meg 2002-ben a Netscape 7, azonban ekkorra a Netscape már teljesen háttérbe szorult a böngészõpiacon, így szinte már senkit sem érdekelt, hogy a Mozilla 1.0.1-re épülõ szoftverben az AOL kikapcsolta a felugró ablakokat blokkolását, hogy aztán a közösség nyomására a 7.01-es verzióban újra bekapcsolja. 2005-ben jelent meg a Netscape 8, amely már a Firefoxra épült, ám képes volt az Internet Explorer motorját is használni, hogy biztosan minden weboldalt helyesen jelenítsen meg. Ugyanebben az évben az AOL elbocsátotta lényegében a teljes Netscape-csapatot, és a fejlesztést külsõ cégre bízta. Az utolsó Netscape a Firefox 2.0 kódjára épülõ 9-es változat volt, ami 2007. október 15-én jelent meg.
+
+
+
+Mindennek vége
+
+Tom Drapeau, a Netscape márkafelelõse blogjában leírta, hogy az AOL-nál egyesek erejük megfeszítésével azon dolgoztak, hogy újra sikeressé tegyék a Netscape Navigatort, ám nem jártak sikerrel, és a böngészõ nem tudott piacrészt visszahódítani az Internet Explorertõl. Az utóbbi idõben a Netscape  fejlesztését mindössze egy maroknyi mérnök végezte, akik végeredményben nem csináltak mást, mint átdolgozták a Firefox kinézetét és néhány kiegészítéssel látták el -- ismerte be Drapeau.
+
+A Netscape továbbra is letölthetõ marad az AOL weboldaláról, ennek ellenére a vállalat azt ajánlja minden felhasználónak, álljon át Firefoxra. "A Netscape Team teljes mellszélességgel kiáll a Mozilla Foundation nagyszerû munkája mellett" -- írta Drapeau. "Azt javasoljuk, töltsétek le a Firefoxot és próbáljátok ki. Tudjuk hogy élvezni fogjátok!" Az AOL elérhetõvé tette azokat a Firefox-kigeszítéseket is, amelyekkel a Firefoxból Netscape varázsolható, ezeket a Mozilla oldaláról lehet letölteni.
+
+Véleménye van?
+szóljon hozzá a fórumban
+írjon szerkesztõségünknek!

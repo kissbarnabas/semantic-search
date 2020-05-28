@@ -1,0 +1,14 @@
+Megjelent és letölthetõ az Opera 9.5 böngészõ végleges változata
+
+Egy rövid RC-tesztelést követõen megjelent az Opera Software "következõ generációs" böngészõje, a 9.5-ös végleges változata, melyhez óriási reményeket fûz a vállalat a böngészõháborúban. Az új verzió számos újdonságot hoz, kényelmesebbé és biztonságosabbá téve a böngészést.
+
+
+
+Az újdonságokat oldalakon keresztül lehetne sorolni, ide tartozik az Opera Link, amivel könyvjelzõinket szinkronizálhatjuk akár az Opera minivel is, de a második bétában található Quick Find is nagyon hasznos, ami már keres a korábban meglátogatott weboldalak szövegében is. Erõteljesen javult az adathalászati támadások, csalások elleni védelem is. Aki korábban használt Operát, annak feltûnhet a villámgyors mûködés is.
+
+
+Az új, gyorsabb motor elsõként teljesítette 100 százalékra az Acid3 tesztet, a végleges, windowsos változatnak ez viszont továbbra is csak 83 százalékosan sikerül, ezzel is a legjobb eredményt hozva a jelenleg futó böngészõk közül. Az Acid3 a Web Standards Project által gondozott weboldal, ahol a szabványoknak megfelelõ böngészõk kompatibilitását vizsgálják. Az Acid2 és 3 tesztoldal valójában nem is szabványos, a fejlesztõk célja egy olyan oldal létrehozása volt, amelynek kódja szándékosan hibás -- az Acid tesztek lényegében azt vizsgálják, hogy mit kezdenek a böngészõk ezzel a hibás kóddal.
+
+
+
+Az új böngészõváltozat támogatja az Extended Validation (EV) SSL Certificates aláírásokat, és finomhangoltak a beépített levelezõkliensen is, így az is gyorsabb, válaszképesebb lett. A böngészõ népszerûsége 2004-ben volt csúcsán, azóta bár ingyenessé is vált, a Firefox teljesen perifériára szorította. Egy nemrég készült felmérés szerint az Opera csak 1 százalékos részesedéssel rendelkezik a hazai böngészõpiacon.

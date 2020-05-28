@@ -1,0 +1,12 @@
+Három windows-javítás érkezik jövõ kedden -- támadható marad az Excel
+
+Mindössze három biztonsági frissítést készül kiadni a Microsoft a jövõ kedden esedékes, márciusi patch-kedden, derül ki a szoftvercég tegnapi emlékeztetõjébõl. A javítások kivétel nélkül a Windows operációs rendszerek biztonsági réseit foltozzák, ami azt jelenti, hogy a Microsoft Excelt érintõ, február végén felfedezett kritikus sérülékenységre egyelõre nem érkezik gyógyír.
+
+
+
+A szoftvercég egyelõre nem részletezte, hogy a jövõ kedden esedékes javítások pontosan milyen sebezhetõségre jelentenek tapaszt, mindössze annyi derül ki az elõzetesbõl, hogy a három javítás közül egy "kritikus", kettõ pedig "fontos" besorolást kap. Elõbbi az összes, támogatott Windows operációs rendszert (Windows 2000, XP, Vista, Server 2003 és 2008) érinti, utóbbiak közül egy szintén az összes Windows-verzióhoz letölthetõ, egy pedig kizárólag a szervertermékeket érinti.
+
+
+ A Microsoft a márciusi patch-kedd után továbbra is adós marad több, még tavaly felfedezett biztonsági rés befoltozásával, emellett biztos, hogy belátható idõn belül nem érkezik meg a javítás egy az Excelt érintõ, kritikus sérülékenységre sem, mely a támadók számára lehetõvé teszi, hogy preparált Excel-fájlokkal saját kódjukat juttassák be az áldozat számítógépére, innentõl pedig lényegében szabad számukra a vásár, adatokat lophatnak vagy törölhetnek, további kártevõket tölthetnek le, illetve a gépet más támadások indítására vagy spamküldésre használhatják.
+
+A Microsoft biztonsági értesítésében elismerte a hibát, ugyanakkor igyekezett kisebbíteni annak jelentõségét. A redmondiak szerint eddig csak kevés elszigetelt támadásról van szó, de természetesen már dolgoznak a javításon, amelyet a megfelelõ tesztelés után elérhetõvé tesznek, de minden jel szerint nem a márciusi patch-kedden. A vállalat addig is azt tanácsolja, senki se nyisson meg ellenõrizhetetlen forrásból származó Excel-állományokat.

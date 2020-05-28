@@ -1,0 +1,16 @@
+Tranzisztort és memrisztort is tartalmazó áramkört mutatott be a HP Labs
+
+[MIT Technology Review/HWSW] A HP kutatói tavasszal számoltak be a negyedik áramköri alapelem, a memrisztor felfedezésérõl, a most megtartott elsõ Memristor and Memristor Systems Symposium rendezvényen pedig bemutatták a világ elsõ integrált áramkörét, amely vegyesen tartalmazott tranisztorokat és memrisztorokat. A HP Labs szerint a memrisztorok alkalmazásával jóval kevesebb alkatrészre van szükség az áramkörök elõállításához, így azonos funkcionalitás mellett azok kisebbek és olcsóbbak lehetnek.
+
+
+
+1971-ben a kaliforniai Berkeley egyetem egyik kutatómérnöke (azóta professzora), Leon Chua megjósolta, hogy a kondenzátor, az ellenállás és az induktor (tekercs) mellett létezik egy negyedik áramköri alapelem, a memrisztor (memória rezisztor), amely a rajta átfolyó áram erõsségétõl és irányától függõen változtatja az ellenállását, és ezt azután is megõrzi, hogy az áramot kikapcsolták. Chua 37 évvel ezelõtt matematikai egyenletek formájában leírta a memrisztor viselkedését, és készített is egy bonyolult, kezdetleges prototípust.
+
+Idén májusban a HP Labs kutatói molekuláris elektronikai eszközökön dolgozva "véletlenül" elkészítették az elsõ ilyen alkatrészt, a témával kapcsolatos elsõ konferencián pedig arról beszéltek, hogyan integrálható a memrisztorok az áramkörökbe. Az áramkörök teljesítményét eddig rendszerint egyre több és egyre gyorsabb tranzisztor integrálásával valósították meg a chipgyártók. A memrisztor alkalmazásával viszont lehetõvé válik kevesebb alkatrész felhasználásával megépíteni egy ugyanúgy mûködõ kapcsolást. "A memrisztorokból és tranzisztorokból álló hibrid chipek jelentõs teljesítménynövekedést ígérnek" -- mondta Stan Williams, a HP Labs vezetõ kutatója.
+
+
+ A memrisztor abban különbözik jelentõsen a többi áramköri elemtõl, hogy memóriája van -- ha lekapcsoljuk az áramot, a memrisztor "emlékezik" arra, hogy milyen erõs volt a rajta átfolyó áram és továbbra is megtartja az ellenállását. Egyetlen memrisztor akár egy több tucat tranzisztorból és kondenzátorból álló kapcsolást is kiválthat, a HP Labsnál jelenleg is folynak kutatások arra vonarkozóan, hogyan lehet ezt az újonnan felfedezett áramköri alapelemet hatékonyan felhasználni.
+
+A Memristor and Memristor Systems Symposiumon a HP egy olyan mezõprogramozható kapumátrixot (FPGA) mutatott be, amely a megszokottnál jóval kevesebb tranzisztorból és emellett memrisztorokból állt. "A memrisztorok ugyanabból az anyagból vannak, amelyekbõl a normális integrált áramkörök, ezért nagyon könnyen integrálhatók a tranzisztorokkal" -- mondta Williams. Az FPGA-kat általában új áramkörök tervezéséhez használják, azonban ahhoz, hogy kellõen rugalmasan alakíthatók legyenek, rengeteg alkatrészt tartalmaznak, ezért nagyok és drágák.
+
+A memrisztor terjedése elõtt álló legnagyobb akadályt egyelõre az jelenti, hogy a frissen felfedezett alapelem használatára még nincsenek felkészülve sem az áramkörtervezõ szakemberek, sem pedig az elektronikai tervezés automatizálására szolgáló eszközök. Williams szerint azonban elég néhány év ahhoz, hogy akár kereskedelmi forgalomba kerülõ áramkörök részévé váljanak az elõször 37 éve dokumentált alkatrészek, amelyekrõl néhány hónapja még csak sejteni lehetett hogy egyáltalán léteznek.

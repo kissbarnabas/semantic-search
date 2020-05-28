@@ -1,0 +1,12 @@
+Újra elérhetõek az AMD energiahatékony négymagos Opteronjai
+
+Nagyjából egy hónappal azt követõen, hogy bejelentette négymagos Opteronjainak széleskörû hozzáférhetõségét, az AMD az alacsony fogyasztású, energiahatékony változatokat is újra piacra dobja.
+
+
+
+Mától öt energiahatékony, vagyis HE (High Efficiency) jelzésû négymagos Opteron modell vált hivatalosan is elérhetõvé. Az Opteron 2344 HE, 2346 HE és 2347 HE modellek rendre 1,7, 1,8 és 1,9 gigahertzen üzemelnek, elektronikai keretük 68 watt, míg az AMD szerint átlagosan 55 wattot emésztenek el legfeljebb számításintenzív terhelés alatt is. A kétutas szerverekbe szánt 2300-as sorozat mellett a többutas rendszerekbe szánt 8347 HE és 8346 HE modellek is újra rendelhetõek. Mint arról a HWSW is több alkalommal beszámolt, az AMD a Barcelona kódnéven ismert négymagos Opteronok kereskedelmi szállításait kénytelen volt felfüggeszteni egy késõn felfedezett hiba miatt, mely igen alacsony valószínûséggel bekövetkezõ helyzetekben ugyan, de adatsérüléshez vagy rendszerlefagyáshoz is vezethetett.
+
+
+Az AMD ezeket a chipeket kifejezetten nagysûrûségû rack vagy blade környezetekbe szánja, ahol erõsen korlátozott az egy-egy számítógépre jutó hûtési teljesítmény, valamint jelentõs költségtétellé nõtte ki magát az energia. A HE Opteronok az Intel alacsony feszültségû Xeonjaival versenyeznek, melyek termikus kerete 50 watt, és a szegmens zászlóshajója a 2,5 gigahertzes L5420, mely fõleg az Intel 45 nanométeres gyártástechnológiájának köszönhetõen élvez némi mûszaki elõnyt papíron -- rendszerszinten ugyanakkor ez a különbség akár elõjelet is válthat a futtatott kódtól függõen.
+
+Hogy versenyképesebbé tegye jelölését, az AMD a négymagos Opteron premierjével vezette be az úgynevezett average CPU powert, vagyis ACP címkét. Az ACP-t empirikus adatok alapján határozza meg a cég, többek között TPC-C, SPECCPU, SPECjbb és STREAM tesztek futtatásával. Az ACP közelebb áll az Intel metodikája alapján meghatározott TDP-hez abban, hogy empirikus adatokat gyûjt elektronikai küszöbszámok megadása helyett, ugyanakkor átlagolásának köszönhetõen már alacsonyabb számokat is mutat egyúttal. A 120, 95 és 68 wattos TDP-osztályai rendre 105, 75 és 55 wattos ACP-osztályoknak felelnek meg.

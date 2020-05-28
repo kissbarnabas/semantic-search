@@ -1,0 +1,11 @@
+JavaScript-optimalizálásban segít a Microsoft
+
+Az AJAX Profiling Extensions egy új kiegészítés a Visual Studio Team System 2008 Development Editionhöz és a Visual Studio Team Suite-hoz, amely ráadásul minden böngészõvel használható. A Microsoft Research-csel közösen fejlesztett szoftver még a letöltõdés elõtt automatikusan átírja a JavaScript függvényeket, hogy lehetõvé váljon a teljesítményük mérése és naplózása. Ezeket a teljesítményadatokat a kliens böngészõje aztán rendszeresen elküldi az IIS webszervernek, ahol megtörténik az összegyûjtésük a késõbbi elemzéshez.
+
+
+ A Visual Studióba épülõ plugin segítségével az adatok bekerülnek a Performance Analyzerbe, ahol a JavaScript kódok részletesen profilírozhatók, ugyanis itt megtekinthetõvé válnak olyan adatok, hogy a kód melyik JavaScript függvényt hívta meg a legtöbbször, vagy hogy melyik függvény futása tartott a leghosszabb ideig. Ezek ismeretében a fejlesztõk már optimalizálhatják a kódot.
+
+
+
+
+A modern webes alkalmazások egyre több JavaScriptet tartalmaznak, ahogy egyre fejlettebb funkciókat valósítanak meg, ezek azonban sok esetben már annyira elburjánzanak, hogy egy gyengébb PC már nem képes õket megfelelõ sebességgel futtatni. A felhasználói élmény szempontjából is fontos, hogy a JavaScriptek gyorsak legyenek, senki se látogat szívesen egy olyan weboldalt, használ olyan webes szolgáltatást, amelyik lassan reagál, ezáltal nehézkessé válik. Nem véletlen, hogy az új böngészõk kapcsán hangoztatott egyik legfontosabb paraméter a JavaScript-motor sebessége, az új Firefox több hónapos késését is az ezzel kapcsolatos problémák okozzák.

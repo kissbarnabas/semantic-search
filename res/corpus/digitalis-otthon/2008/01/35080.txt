@@ -1,0 +1,12 @@
+A harmadik negyedévben érkezik az olcsó és mini noteszgépek második generációja
+
+[Digitimes/HWSW] A harmadik negyedév során érkezik az Intel olcsó notebookokba tervezett platformja, mely a Shelton kódnevet viseli -- írja gyártói forrásokra hivatkozva a  Digtimes. Az ASUS Eee PC által egyengetett szegmensbe több más gyártó, köztük nagy PC-márkák is be kívánnak lépni a jelek szerint.
+
+
+
+Az Intel Shelton'08 platform a Diamondville processzor köré épít. A Diamondville a Menlow platform processzorának, a Silverthorne egy leszármazottja, mely egy egymagos, kifejezetten az energia- és költséghatékonyságot megcélzó új mikroarchitektúrát valósít meg az Intel 45 nanométeres gyártástechnológiáján. A 64-bites Silverthorne órajelenként két utasítás feldolgozására képes, nélkülözi a modern processzorok komplexitásának nagy részét kitevõ soronkívüli végrehajtást, így fogyasztása tipikusan 1 watt alatt maradhat akár. 
+
+
+A Diamondville a Silverthorne erõsebb, gyorsabb változata. A Digitimes információja alapján a chip órajele 1,6 gigahertzen debütál, 533 megahertzes adatbusszal, miközben fogyasztása  tartósan 3,5 watt alatt marad. A processzort 945GME chipset szolgálja ki, mely GMA 900/950 architektúrájú, DirectX 9-es integrált grafikus chipet alkalmaz, és DDR2 memóriát kezel.  A teljes rendszer fogyasztása, kisméretû LCD-vel 8 watt körül alakulhat, így az akkumulátoros üzemidõ 3-4 órára tehetõ majd. 
+
+A tajvani ipari lap úgy tudja, az MSI-n kívül a Gigabyte is megkezdte saját termékfejlesztését, vagyis az ASUS Eee PC-hez hasonló ultrahordozható, 300-500 dollár közé esõ gép létrehozását. A piacot uraló márkák közül a HP, a Dell és az Acer késõbb várhatóan belép a területre. Tekintve, hogy a gépek technikai specifikációja nagyon kötött, a sikerességet a design, a disztribúciós erõfesztítések és az árazás fogja meghatározni. A sztenderdizált felépítés miatt magas kereslet esetén újabb alkatrészhiány léphet fel az iparban, figyelmeztetnek a gyártók. Az ASUS Eee PC iránt a vártnál nagyobb kereslet mutatkozik, aminek hatására a termék hiánycikk. 

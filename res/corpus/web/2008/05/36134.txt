@@ -1,0 +1,14 @@
+Centeket kér a processzormagok használati díjaként a Google
+
+[Techworld] Közzétette a Google a webes alkalmazásokat fejlesztõk számára létrehozott App Engine rendszer "túlhasználati" díjait. A programozóknak továbbra is 500 megabájtnyi tárhely és akár havi 5 millió weboldal kiszolgálására elegendõ sávszélesség, erõforrás áll rendelkezésére alkalmazásonként ingyenesen, ennél nagyobb rendszerterhelés felett azonban már fizetni kell. Nem sokat.
+
+
+
+<>Az optimalizálásra ösztönzõ díjtáblázat szerint minden egyes pluszban tárolt gigabájtnyi adatárt 15-18 dollárcentet kell majd leszurkolni havonta a keresõóriásnak, míg a processzorokat jobban terhelõ, több mint 5 millió oldalletöltést generáló alkalmazások processzormagonként óránként 10-12 centtel növelik a hó végi számlát. Egy gigabájtnyi plusz kimenõ adatforgalom 11-13 centbe, az alkalmazás felé érkezõ adatok pedig 9-11 centbe kerülnek havonta.
+
+
+A Google az Apps fejlesztésben is érdekelt felhasználóinak saját tárterületét és infrastruktúráját kínálta fel áprilisban, az App Engine segítségével saját webes alkalmazásokat írhatunk. Alkalmazásainkat a Google szerverei szolgálják ki, szinte korlátlan skálázhatóságot, garantált erõforrást biztosítva. A Google Sitesszal létrehozott, kívülrõl is látható, vagy éppen intranetes oldalainkat akár saját webes alkalmazásokkal is kibõvíthetjük az Apps Engine segítségével.
+
+
+
+Mindehhez nem szükséges saját infrastruktúra, mindent a Google tárol, futtat. A béta állapotban indult App Engine kezdeti 10 ezres fejlesztõi limitje mára már 60 ezerre bõvült, de még mindig több mint 150 ezren várakoznak arra, hogy felvegyék õket a programba. A Google blogbejegyzése szerint az App Engine-ben megírt Python-alkalmazások skálázódását saját Bigtable adatbázisrendszere, illetve az automatikus terheléselosztás és replikáció teszi lehetõvé. Az alkalmazásokhoz használhatók a keresõóriás már korábban közzétett programozási interfészei is.

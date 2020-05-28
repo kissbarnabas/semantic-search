@@ -1,0 +1,14 @@
+Linuxra is megérkezett az AIR 1.5
+
+[eWeek/HWSW] Kiadta az Adobe Integrated Runtime 1.5 linuxos verzióját az Adobe Systems, így a nyílt forráskódú operációs rendszeren elméletileg ugyanúgy futnak az AIR kódok, mint bármilyen más platformon. Év végére nagyjából 100 millió PC-re telepítik az AIR futtatási környezetet, mellyel offline futtathatóak a webes alkalmazások.
+
+
+
+A Linux-támogatás egy hónappal a windowsos és maces kiadásokat követi. Az Adobe hivatalosan a két vezetõ Linux-szállító közösségi disztribúcióit támogatja, a Fedora Core 8, 9 és 10-es generációkat, az openSUSE 10.3-at, valamint az elmúlt években egyre népszerûbbé vált Ubuntut a 7.10-es verziótól. Az Adobe szerint különösen fontos a továbbra is alacsony penetrációval küzdõ Linux számára, hogy egyre nagyobb teret nyerjenek az olyan platformfüggetlen alkalmazások, mint amilyenek elkészítését és futását az AIR is lehetõvé teszi. A vállalat egyúttal elérhetõvé tette az AIR 1.5 SDK-t is Linuxon.
+
+Az Adobe AIR 1.5 új szûrõket, effekteket, 3D-transzformációkat és animációkat hozott magával, valamint kibõvített rich text elrendezést. Az új AIR a nyílt forráskódú WebKit HTML-motort és a Squirrelfish JavaScript interpretert is tartalmazza a nagyobb renderelési teljesítmény érdekében. Az üzleti felhasználás szempontjából kiemelt fontosságú a titkosított adatkezelés megjelenése, mellyel biztonságosan építhetõek vállalati alkalmazások is, hiszen immár magas fokú biztonság védi a kliensen tárolt adatokat. Az AIR-alkalmazások Flash, ActionScript, HTML, MXML és JavaScript kódból épülhetnek fel, és a fejlesztésekhez az Adobe a Flex keretrendszert ajánlja.
+
+
+ Az elmúlt hónapok során igencsak felgyorsultak az események a fejlett webes alkalmazások (rich internet application, rich client) létrehozását és futtatását lehetõvé tévõ eszközök terén. Az elmúlt években az online grafikus alkalmazásokat a Flash jelentette, az interaktív webet az AJAX-os technikák, az üzleti alkalmazásokat pedig a Java fedték le.
+
+Tavaly áprilisban azonban felkavarta az állóvizet a Microsoft, mikor megjelentette a Silverlightot, mely elõször a Flash, majd a folyamatos fejlesztésekkel a Java hegemóniáját támadta meg .NET kódok futtatásával. Valószínûleg erre reagálva született meg az AIR, mely hasonló, rezidens futás képességével is bírt már, majd nemrég a Sun Microsystems is a ringbe szállt a JavaFX-szel, mely a Java vizuális kiterjesztésének tekinthetõ lényegében. Minderre kontrázott rá a Google, mely natív x86-os kód futását kívánja megoldani a böngészõn keresztül.

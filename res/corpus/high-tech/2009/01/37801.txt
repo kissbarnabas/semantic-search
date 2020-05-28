@@ -1,0 +1,34 @@
+CES: a számítógépek metamorfózisa jön
+
+[NYT/HWSW] Ha a múlt heti Consumer Electronics Show lényegét kellene összefoglalni, akkor a legelsõ és legfontosabb dolog az lenne, hogy minden létezõ eszköz az internetre kapcsolódik, melyekkel életünk során találkozunk. A kütyüimádóknak eljött a Kánaán, de az érem másik oldala, hogy egy jó ideig a funkcionalitás fejlõdésérõl szó sem lehet, innovációnak elég az, hogy minden eszköz hálózatképessé válik.
+
+
+
+Internetet mindenhová
+
+A kiállításon felbukkanó termékek nagy része valóban azt az újdonságot kínálta, hogy képes internetkapcsolatot felépíteni, legyen szó konyhai eszközrõl vagy tévérõl. A Ford F150 kisteherautó a vállalkozókat azzal csábítja, hogy egy beépített számítógép jeleníti meg számukra a szerelési útmutatókat, tervrajzokat, amiket az internetrõl tölt le az autó. Az LG és a Samsung új televíziókészülékei is biztosra mennek, és Ethernet-portot is használnak mûsorforrásként: a Netflix online videotékában található filmeket PC vagy más lejátszó nélkül képesek lejátszani. 
+
+A véleményvezérek és az általuk befolyásolt rétegek szintjén fontos elõny lesz az internetkapcsolat a tévékben, hosszú távon pedig még többet számít majd, figyelembe véve az internetpenetráció növekedését és a lineáris televízióadások iránti érdeklõdés csökkenését -- mondta a HWW-nek  Kováts Botond, a Samsung Electronics Magyar Zrt. marketing- és PR-menedzsere. Kialakulóban van egy olyan réteg, akik a televízióra nem elsõsorban mint médiumra tekintenek, hanem mint az otthon fellelhetõ szórakoztatóelektronikai berendezések központi megjelenítõjére. 
+
+Ennek a rétegnek kedvezne a Sony vezérigazgatója is, aki azt az ígéretet tette, hogy két éven belül a japán gyártó készülékeinek 90 százaléka képes lesz az internetkapcsolatra -- a Sony pedig tévét, projektort, notebookot, kamerát, fényképezõt, házimozit, médialejátszót, autós hangrendszereket játékkonzolt és mobiltelefont is gyárt. Ezek egy része már ma is online, de éppen a maradék kategóriákban lesz az iparág számára nagy kihívás megtalálni azt a modellt, ami miatt érdemes a hálózatra csatlakozni.
+
+A nagyobb gyártók természetesen továbbra is büszkélkedhetnek majd azzal, hogy az õ készülékük szebb, nagyobb felbontású, fényesebb, nagyobb kontrasztarányú vagy gyorsabb válaszidejû, amivel elcsábíthatják majd a vásárlók egy részét, de akik hosszútávon is gondolkodnak, azok tudják, hogy a készülékeket a jövõben leginkább a bennük dolgozó szoftverek és a hozzájuk járó szolgáltatások különböztetik majd meg egymástól. A TV esetében ez a többlet jelenleg az internetkapcsolat megléte, késõbb pedig az ezen a kapcsolaton keresztül érkezõ szolgáltatások és azok minõsége lesz.
+
+A szoftver a fontos, nem a gép
+
+A hálózatosításnak az elõnye, hogy valóban átjárhatóvá válnak a felületek (ami a médiumoknál biztosan a DRM halálát okozza), viszont éppen emiatt maguk az eszközök, azok kezelõfelülete, használhatósága háttérbe szorul. Ha egy telefonon és egy teherautón a legérdekesebb dolog ugyanúgy a weboldalak tartalma, amit képesek megjeleníteni, akkor az eszköz maga kevésbé lesz középpontban. Ráadásul a lapostévék és az okostelefonok is tömegtermékké váltak, ami magával hozza az árrések csökkenését, a különleges képességek megjelenésének ritkulását és a fogyasztók rezisztaniciáját is. 
+
+A laikus fogyasztók közül szinte senkit nem fog érdekelni, hogy LCD- vagy OLED-kijelzõt bámul, hogy hidegkatódcsövek vagy LED-fényforrások pislákolnak a kristályok mögött, ha a "mûsor" ugyanaz. Így a gyártóknak más irányba kell elfordulni és a mára megszokottá vált hardverek mögé új funkciókat és tartalmat kell adnia vagy éppen a készülékek megjelenésében kell elõrelépni azonos funkcionalitás mellett.
+
+
+Még a legnagyobb mobiltelefon-gyártó, a Nokia is azt állítja, hogy a jövõbeni siker kulcsa a kapcsolt szolgáltatásokon múlik. Nyilván ezért is fektettek komoly energiákat például a zenevásárlás lehetõségébe, amihez többek közt egy egész zeneáruházat felvásároltak, s Comes with Music néven korlátlan zeneletöltést kínálnak a Nokia-telefont vásáróknak. 
+
+Az új számítógépem? 
+
+A Blaupunkt a CES-en mutatta be elsõ olyan autóhifi rendszerét, ami webrádiók adását is képes "befogni" egy GSM/HSDPA modulon keresztül. Aki számára nem elfogadható kompromisszum a kereskedelmi rádiók szûk játszási listája, annak végre eljöhet az idõ, hogy autózás közben Last.fm címkét ír be a rádióba és nem rádiófrekvenciát. A CD-rázkódásvédelem, a merevlemez és az iPod-dokkoló már mind a múlté.
+
+Számítógépek lepik el otthonainkat
+
+Azon túl, hogy a meglévõ kütyüink hálózati elérést kapnak, egy másik trend is várható. A számítógépek méretének drasztikus csökkenésével és a teljesítmény és összekapcsolhatóság javulásával olyan tárgyak is átalakulhatnak "számítógéppé", melyekrõl ez soha nem jutna eszünkbe. 
+
+Az Intel Atom vagy a VIA Nano platformoknak köszönhetõen ma már szint bármibe lehet egy teljes értékû PC-t építeni, ami ráadásul elenyészõ áramfelvétel mellett zajtalanul mûködik, elfeledtetve az emberek számítógéppel kapcsolatos negatív élményeit. Akár a hálószobában lévõ tükör is lehet egy kijelzõ, amin reggelente már ébredéskor látjuk, hogy milyen feladataink vannak aznapra, milyen az idõjárás, vagy mondjuk sztrájkol-e a BKV.

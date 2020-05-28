@@ -1,0 +1,50 @@
+Leszámolás indíthatta el a Coldfusiont megsemmisítõ razziát
+
+Minden idõk legnagyobb magyarországi warezszerver-lefoglalása történt meg a napokban a Nemzeti Nyomozóiroda akciójának révén. A hivatalos közlemény szerint a Coldfusion legkevesebb 365 millió forintnyi kár okozásával gyanúsítható, miután az akciócsoport meglelte a korábbi razziák során nem megtalált, padló alá rejtett szervereket, melyek 250 terabájtnyi kapacitásukkal is rekordméretûnek számítanak. A HWSW információi szerint a sikeres akció apropója egy, a warezmaffia berkein belül lezajló leszámolás, aminek során egymást jelentették fel a bûnözõk.
+
+
+
+Tûzvonalban
+
+A szokásos razziákhoz képest látványosan nagyobb erõkkel vonultak ki a hatóságok a napokban a Coldfusion Victor Hugo utcában lévõ telephelyére. Az ehhez hasonló akciók többnyire a VPOP akciócsoportjának, néhány szakértõnek megjelenésével és közepes rendõri jelenléttel, s néhány órán át tartó vizsgálódással jár. Jelen esetben azonban a Nemzeti Nyomzóiroda legalább 20 fõbõl álló fegyveres akciócsoportja szinte rátörte az ajtót a Coldfusion dolgozóira, mindenkit azonnal igazoltattak, s összesen nyolc embert a kihallgatás után õrizetbe is vettek. 
+
+NNI: A zsákmány 
+
+A hatóságok az április 14-i razzia során öt szervertermet vizsgáltak át, s ezúttal a dupla padlózat alá rejtett gépek is elõkerültek -- összesen 43  mûködõ szerver esett el, melyek kapacitása összesen 200-250 terabyte volt. A NNI közleménye felhívja arra is a figyelmet, hogy a rendelkezésükre álló információk alapján a világon az eddigi legnagyobb warezfogás 65 terabyte-nyi tárterület volt, így a mostani eset világrekord-gyanús.
+
+Spamek, zombik, sms-ek
+
+A Coldfusiont gyakran a "Spamfusion" gúnynévvel is illették, nyílt titok volt az online világban, hogy a cég azon túl, hogy fedezéket biztosított a különbözõ fizetõs warezoldalaknak, azokat saját zombigép-hálózatuk segítségével kiküldött kéretlen reklámlevelekkel hirdette is. A cég SMS-aggregátorként is mûködött, a Magyar Telekommal szerzõdést kötve teljes emeltdíjas tartományokra, tovább értékesítette az SMS-fizetési szolgáltatást, ezzel biztosítva saját, illetve más letöltõoldalak jövedelmét. Forrásaink szerint aki be szeretett volna szállni a "warez-üzletbe", annak elég volt megkeresni a Coldfusiont, fizetni, a cég teljes körû szolgáltatást kínált és biztos megtérülést.
+
+Az ügy egyik pikáns részlete, hogy a Coldfusion vezetõje, K. Balázs jelenleg is szökésben van. Információink szerint a razzia hírére azonnal autóba ült és elhagyta az országot, de "nem ment túl messzire". A razzia során õrizetbe vett személyek között viszont ott van egy másik ismert név, W. Norbert, aki az üzlet "kirakatembere" volt. Nyilvános fórumokon sem tagadta,  mivel foglalkoznak, a szükséges adminisztratív dolgokat, domain-regisztrációkat is õ végezte éveken keresztül, noha még csak 21 éves. Jelenleg a többi gyanúsítottal együtt a bíróság döntése alapján elõzetes letartóztatásban van.
+
+A Victor Hugo utca titkai
+
+A HWSW-t megkeresõ egyik informátor szerint az ügy háttere az ismertetett tényeknél jóval komplexebb. Ugyan a hatóságok jó ideje dolgoznak az ügyön, de ilyen elszántsággal még sosem érkeztek meg a Victor Hugo utcába, s az is furcsa, hogy többször kutattak már a Coldfusionnél, de a rejtett szervereket sosem találták meg, most pedig probléma nélkül tárták fel õket. A cég az elmúlt 2-3 évben könnyedén lavírozott a rend õrei elõtt, most viszont a hatóságok a földdel tették egyenlõvé a cég helyiségeit, az akció után üres irodák és koszos padlószõnyeg maradt csupán.
+
+A hatóságok a fától nem látták az erdõt
+
+Informátorunk állítása szerint az ügy elõremozdításában egy belsõ viszály játszott komoly szerepet. A baráti társaságként is funkcionáló szervezet egyik tagja komoly konfliktusba került a többiekkel. A feltételezések szerint, mivel ismerte a szerverek belépési jelszavait, ezért elsõként fiatalkorúakat ábrázoló pornográf anyagokat helyezett el a szervereken, majd ezt követõen értesítette a hatóságokat, s elárulta a pontos részleteket is, például hogy a titkos, elrejtett szerverek hol találhatóak. 
+
+Több mint adható
+
+A történet ezen szála nem megerõsített, csupán az eseményeket közelrõl követõ informátor beszámolójából származnak, a hivatalos közlés erre vonatkozóan nem tartalmaz részleteket. A feltételezések viszont logikusak, a történet egy másik informátor szerint is reális, s K. Balázs szökése, a nyolc személy letartóztatása, a Nemzeti Nyomozóiroda komoly fellépése, illetve az eddig tökéletesen védett Coldfusion teljes bukása is arra enged következtetni, hogy wareznél, spamnél több lehet a háttérben.
+
+16 merevlemez egy gépben, könnyen összejön a 250 terabyte
+
+Az viszont biztos, hogy a három napja történt takarítás eredményeképp pár napja eltûntek a magyar warez spamlevelek, igaz, ma már újra megjelentek -- tudta meg szerkesztõségünk a Spamwikitõl. Az elhíresült spamfigyelõ weboldal szerkesztõ-adminisztrátora szerint a Coldfusion kiesése nem szünteti meg a spam és az sms-warez problémát, maximum átrendezõdik a piac, illetve akár arra is van esély, hogy a Coldfusion újraéled, akár egy másik cég képében.
+
+Érezhetõ-e a változás?
+
+A razzia közvetlen hatásai viszont valószínûleg érezhetõek lesznek, a magyar warez-spamek 20 százaléka állítólag közvetlenül a Coldfusion hálózatából érkezett, de a levelek 75 százaléka valamilyen kapcsolatban állt a céggel. A spamek hiánya mellett komoly ûr keletkezhet az SMS-warez oldalaknál is, ugyanis a Coldfusion SMS-aggregátorként is mûködött, tehát a warezoldalak feltételezhetõen rajtuk keresztül vették fel a felhasználók által küldött emelt díjas üzenetekbõl származó bevételt, a cég kiesésével viszont most eltûnt a kifizetõ, így egy idõre megállhat az üzlet.
+
+Telekommunikációs szolgáltatóktól származó információink szerint az emelt díjas SMS egyébként is folyamatos forrása a konfliktusoknak. A warezoldalak gyakran hitegetik a regisztrálókat azzal, hogy csupán 240 forintba kerül az SMS, a számlán viszont már egy 1800 forintos tétel szerepel egy hónappal késõbb. Tudomásunk szerint a mobilszolgáltatók is tisztában vannak azzal, hogy mennyi pénzt keresnek a warez üzlettel, de az SMS-aggregátorok mögé bújó cégeket õk nem látják, s még házon belül sem tudják feltétlenül azonosítani, hogy egy adott szám pontosan kihez tartozik.
+
+A razzia után csökkent a BIX átmenõ forgalma
+
+
+A következõ napok eseményei mindenesetre tanulságosak lesznek. A Coldfusion dolgozói elõzetes letartóztatásban vannak, kérdéses, hogy mivel fogják õket vádolni, és hogy lehetséges-e bent tartani õket hosszabb idõre is. Az is kérdésl, hogy a szökésben lévõ K. Balázst sikerül-e kézre keríteni, illetve ha igen, akkor melyik országból. A 24 éves milliomos egyelõre annyira nyugodtan menekül, hogy csütörtök délután négy órakor még az iWiW-re is volt ideje bejelentkezni.
+
+A warez élt, él és élni fog?
+
+A felhasználók, illetve a tartalomtulajdonosok számára viszont a legnagyobb kérdõjel, hogy mennyi idõ alatt áll talpra a hazai fizetõs warez, megnõ-e a kereslet a lelkesedésbõl üzemeltetett torrentoldalak iránt, s hogy a Coldfusion konkurenciájának tartott cégek óvatosan csendben maradnak, vagy kihasználják az alkalmat és "piacot bõvítenek". 

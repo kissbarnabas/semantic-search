@@ -1,0 +1,44 @@
+Ütõképes lett az AMD Shanghai
+
+Hivatalosan is útjára indult az AMD következõ generációs szerverprocesszora, a Shanghai. A négymagos Opteron bár nem vonultat fel jelentõs architekturális újításokat, a gyártástechnológiai ugrásnak köszönhetõen drasztikus elõrelépést jelent a Barcelona-generációhoz  képest, aminek köszönhetõen eredményesen veheti fel a küzdelmet a piacon lévõ Xeonokkal szemben. Az AMD ismét ütõképessé vált a szerverpiacon.
+
+
+
+Új gyártástechnológia
+
+Ha le kívánjuk egyszerûsíteni, akkor a Shanghai lényegében egy Barcelona, csak minden téren számottevõen jobb nála -- olyan, amilyennek a Barcelonának mindig is lennie kellett volna.  Az új chip az AMD elsõ, 45 nanométeres csíkszélességû eljárással elõállított processzorra, és ebben gyökerezik a jelenlegi 65 nanométeres generációval szembeni minden elõnye is. A finomabb geometriájú gyártástechnológia magasabb kapcsolási sebességû, vagy adott sebességen alacsonyabb fogyasztású tranzisztorokat eredményez, aminek köszönhetõen energiahatékonyabb chipeket képes elõállítani az AMD. A Shanghai-on az AMD sunnyvale-i és bostoni tervezõcsapatai dolgoztak tandemben, a projekt kezdetetétõl a szállításokig mintegy két és fél év telt el mindössze -- rendkívül rövid idõ egy ilyen komplexitású chip esetében, nem véletlen, hogy az AMD igazi sikertörténetként könyvelte el.
+
+A 65 nanométereshez képest nagyjából fele akkora struktúrákat, és harmadával kisebb áramköröket, gyorsabb kapcsolást és energiahatékonyabb mûködést lehetõvé tévõ 45 nanométeres immerziós litográfiájú eljárás egyelõre páratlan a félvezetõiparban. Az IBM-mel karöltve az AMD olyan, tömegtermelésben alkalmazható levilágítási technikát dolgozott ki, amelynél a fényforrás és a szilíciumszelet közötti optikai vezetõközeg nem levegõ (száraz litográfia), hanem víz. A rendkívül magas tisztaságú víz litográfiai refraktív indexe 1,4, vagyis ennyivel lassul le a fény a vízben -- mivel lerövidül a hullámhossza, így a terjedési sebessége is mérséklõdik. A levegõ refraktív indexe lényegében elhanyagolható, 1,0003. 
+
+A rövidebb hullámhossz pedig nem jelent mást, mint nagyobb felbontási képességet, vagyis a finomabb struktúrák kialakításának képességét. Az iparágban jelenleg tömegesen alkalmazott 193 nanométeres fényforrásokat vizes immerzióval 138 nanométeres effektív hullámhosszra lehet fókuszálni. Bár az immerzió új és költséges litográfiai berendezések beszerzését követeli meg, és egy levilágítás is költségesebb, a 45 nanométeres generációnál még nincsen szükség egyelõre olyan trükközésekre, mint a többszörös levilágítás eltolt maszkokkal, amit az Intel is alkalmaz saját 45 nanométeres eljárásában -- két menet, kétszeres költség.  Emiatt az AMD költségbeli elõnyt élvez, véli Rolf Stephan, az AMD technológiai részlegénél a tranzisztorok kialakításáért felelõs menedzser.
+
+A nagyobb felbontás ellenére az AMD ráadásul alacsonyabb (területre vetített) meghibásodási sûrûséget ért el 45 nanométeren, mint a 65 nanométeres technológia életciklusának hasonló szakaszában, állította Stephan, ami a 45 nanométeres technológia optimalizálására fordított hosszabb idõnek köszönhetõ, magyarázta a HWSW kérdésére a szakember. Ez pedig magasabb kihozatalt, vagyis olcsóbb és nagyobb volumenû termelést tesz lehetõvé.
+
+A 45 nanométeres, negyedik generációs feszített szilíciumot használó tranzisztorokkal adott fogyasztásból nagyjából 10 százalékos teljesítménynövekedés valósítható meg, míg ugyanaz a teljesítményszint 25 százalékkal alacsonyabb fogyasztással is elérhetõ az AMD számításai szerint.  Mindez lehetõvé tette az cég mérnökei számára, hogy olyan nyitófeszültségû tranzisztorokat alkalmazzanak a Shanghai elektronikai implementációjánál, melyekkel a vezetõrétegek vékonyodása ellenére is szinten tartsák, vagy opcionálisan akár töredékére szorítsák le a szivárgási áramot, ami különösen a hatalmas L3 cache esetében kritikus. A Shanghai 6 megabájtra növelte a harmadszintû tár méretét, több mint 250 millióval 750 millió fölé emelve az integrált tranzisztorok számát, amibõl csak az L3 cache 400 milliónál is több tranzisztort emészt fel.  Shanghai áramköri blokkjait 11 rétegû fémhuzalozás köti össze egymással és a külvilággal.
+
+Minimális csiszolás
+
+A miniatürizáció mellett természetesen nem maradt az architektúra sem teljesen érintetlen, bár a változások a magok szintjén lényegében elhanyagolhatóak. Megjelent a támogatás a DDR2-800-as memóriamodulokhoz, valamint ahogyan az elõbb említettük, 2 megabájtról 6 megabájtra növekedett az L3 cache mérete, ami egyértelmûen a legfontosabb architekturális fejlesztés. A Shanghai koherens HyperTransport 3 szabványú kommunikációra is képes ugyan, ehhez azonban csak 2009 második felére érkezik meg a rendszerszintû tûmogatás.
+
+A Shanghai már képes az egyik mag L1 és L2 tárait kiírni az L3-ba, és lekapcsolni azt (Smart Fetch), energiát takarítva meg, valamint a továbbfejlesztett virtuális memóriaindexelésnek köszönhetõen gyorsult a virtuális gépek közötti váltás sebessége (Enhanced Rapid Virtualization Indexing). Az új chip továbbá fel tudja térképezni az L3 cache meghibásodott részeit, amit az operációs rendszernek támogatnia kell, így egyelõre inaktív a képesség (Cache Index Disable).
+
+Az 58 százalékkal több tranzisztor ellenére a fejlettebb félvezetõeljárásnak és az elektronikai optimalizációnak köszönhetõen az AMD nyitáskor 2,7 gigahertzes órajelet képes felmutatni, 17,4 százalékkal magasabbat a Barcelonánál, ugyanakkora, 95 wattos energiakeret (TDP) mellett.  Sõt, az AMD állítása szerint egy Shanghai-alapú rendszer 10 százalékkal kevesebb energiát fogyaszt teljes terhelésnél, és harmadával kevesebbet üresjáratban, miközben Java szerverfeladatok (SPECjbb2005) alatt például 35 százalékkal magasabb teljesítményt ad le a magasabb órajelnek és megnövelt L3 tárnak köszönhetõen -- ez éppen 50 százalékkal hatékonyabb energiafelhasználás. 
+
+
+	     
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                    A cikk több oldalból áll:
+                    
+                    
+                        1. oldal: Ütõképes lett az AMD Shanghai
+                      
+                        2. oldal: Remek teljesítmény -- de mégsem ez számít?
+                        
+                    
+                  

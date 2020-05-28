@@ -1,0 +1,41 @@
+Éles botnet-bemutató a BBC-n
+
+A brit közszolgálati televízió informatikai mûsora, a Click mindig is igyekezett közelvinni nézõihez a valóságot, ami múlt heti adásban talán túlságosan is sikerült. Egy 22 ezer PC-bõl álló illegális botnetet béreltek ahhoz, hogy bemutassák, hogyan mûködik a tömeges spamküldés illetve a DDoS-támadás. Az adás nézõi láthatják, mennyire megdöbbentõen egyszerû hozzájutni az illegális botnetekhez, a cyber-bûnözés világába.
+
+
+
+Közszolgálati zombitámadás
+
+A Click csapata akár felelõtlennek is nevezhetõ azok után, hogy adásba tettek két éles, igaz félig "laborkörülmények közt végrehajtott" botnet-támadást. Segítségként a Prevx nevû biztonságtechnikai céget kérték fel, akik a spambemutató mellett a DDoS (Distributed Denial of Service) támadáshoz is biztosítottak egy tesztszervert. Elméletileg nem sértettek törvényt, hiszen a spameket a saját emailcímeikre küldték, a Prevx pedig beleegyezett abba, hogy a tesztszervert támadják.
+
+A botnetben lévõ számítógépekrõl nem loptak el személyes adatokat, nem okoztak vele kárt, de ennek ellenére gyakorlatilag rátenyereltek több ezer ember számítógépére. A szerkesztõk azzal védekeztek az õket ért vádló vélemények ellen, hogy az érintett számítógépeken megváltoztatták a háttérképet, ami felhívta a figyelmét az addig gyanútlan felhasználóknak, hogy a gépük fertõzött.
+
+
+
+
+
+Az adásban elhangzik, hogy 300 ezer forintos áron húszmillió e-mail címet tartalmazó listát lehet vásárolni spameléshez, illetve Jacques Erasmus, a Prevx képviselõje arról is szólt, hogy amerikai és brit zombiszámítógépek darabját már 80-100 forint közti összegért is meg lehet szerezni. A mûsorban ezek segítségével be is mutatták, hogy a milliónyi email kiküldése, illetve a webes szolgáltatásokat megbénítani képes DDoS-támadás levezénylése is egy-egy hétköznapinak tûnõ, Windows alól futtatható, grafikus kezelõfelületû programmal, néhány kattintással lehetséges.
+
+Olcsó hatásvadászatnak tartja a szakma az akciót
+
+A mûsort kritizálók többsége viszont felháborítónak találta a mutatványt. A BBC szerintük hiába takarózik azzal, hogy nem sértett törvényt, az elemzõk szerint ha hívatlanul léptek be számítógépre, akkor bármilyen figyelmeztetést tettek közzé, akkor is illegális behatolónak minõsülnek. Még egy Gartner-elemzõ is elítélõen szólt a mûsorról, aki szerint ez az akció olyan, mintha egy TV-stáb felbérelne egy gyújtogatót, hogy égessen le egy elhagyatott épületet csak azért, hogy a lángokkal szórakoztassák a nézõket.
+
+Ráadásul a botnetet ki kellett fizetni, ami azt jelenti, hogy a brit adófizetõk pénzének egy része internetes bûnözõkhöz került. Ellentétben azokkal az esetekkel, mikor biztonságtechnikai cégek kutatási céllal ássák bele magukat ilyen ügyletekbe, ahol a cél az, hogy ellenállóbbá tegyék a világot a cyber-bûnözõkkel szemben, itt csupán show-elemként volt beültetve a mûsorba, egyszerû szórakoztatási céllal. 
+
+Lehet-e belõle tanulni?
+
+Kérdéses, hogy lehet-e edukatív célja, elrettentõ ereje egy ilyen akciónak, de amennyiben a már közel 500 adást megért Click nézõinek milliói fogják fel, hogy mi is történik akkor, amikor kártevõk lepik el a gépüket, akkor nagyon is támogatandó egy ilyen akció. A legtöbb embernek fogalma sincs arról sem, hogy léteznek ilyen zombihálózatok, azt pedig el sem tudják képzelni, hogyan mûködnek és mire lehet õket használni. A zsarolás és a piszkos marketing XXI. századi intézménye számára eddig az volt a jó, hogy árnyékban, zavartalanul tudott fejlõdni, anélkül, hogy a résztvevõ emberek milliói észlelték volna egyáltalán, hogy a gépeik miben vesznek rész.
+
+
+
+
+
+
+
+
+
+Abban talán lehetett volna alaposabb a BBC Click, hogy a felhasználók számára fontosabb kérdéseket feszegeti, s nem csak a látványos funkciókkal kérkedik. Míg a spamküldés és a DDoS-támadás a részt vevõ zombigép tulajdonosát nem zavarja, hiszen észrevétlen marad, addig a phising, azaz adathalász támadások, jelszavak, bankkártya-adatok ellopása nagyon is húsbavágó lehet az áldozatok számára, és ezekrõl egy szó sem esett, mint ahogy arról sem, hogy hogyan lehet védekezni a megfertõzõdés ellen, hogyan lehet visszaszerezni a zombi gép felett a kontrollt, vagy milyen jelei lehetnek annak, ha a gép egy botnet tagjává vált. 
+
+Ingyenreklám a cyber-bûnözésnek?
+
+Ezzel együtt viszont akár egy ingyenreklám is lehetne a mûsor a cyber-bûnözésnek, az érdeklõdõ, moralitásra keveset adó vállalkozó szellemûeknek ötletet és bátorítást adva arra, hogy õk is kipróbálják. Egy hálózat kritikus szolgáltatást üzemeltetõ középvállalkozásból komoly összegeket is ki lehet zsarolni DDoS-támadás fenyegetéssel, s elég egy kisebb bemutató, s a legtöbben fizetni is fognak, ahogyan ezt az adásban a Prevx képviselõje is elmondta. 

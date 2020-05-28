@@ -1,0 +1,65 @@
+Élet a Sony Ericsson Xperia X1-gyel
+
+Egy okos és drága készülék, a Sony Ericsson HTC-tõl örökbefogadott gyermeke, Windows Mobile 6.1, fémház, kicsúsztatható qwerty billentyûzet. Az Xperia X1-et több mint egy hónapig nyúztuk, eközben Bizonyított internet-terminálként, telefonként, szórakoztató központként, navigációs eszközként. A tapasztalatok azt mutatták, hogy az agyonreklámozott csillogó funkciók és a sokat kritizált hibák szinte soha nem számítanak, cserébe a készülék számos rejtegetett meglepetéssel szolgál hûséges és barkácsoló kedvû felhasználóinak.
+
+
+
+A vasálarcos
+
+Külsõre nyilván nem kell bemutatni az X1-et, mindenki megcsodálhatta már videókon, képeken, de kézbevéve sem okoz csalódást. A fémház robusztus kivitele, a telefon 161 grammos tömege pozitív élmény lesz azoknak, akik a legtöbb készüléket gyengének, törékenynek érzik. A teszt során néhány apróbb baleset érte az X1, de még az asztalról leesés sem kottyant meg neki, csak a hátlap és az akkumulátor ugrott le róla.
+
+[+] Sony Ericsson Xperia X1: Elsõ érintés
+
+A kicsúsztatható billentyûzet mechanikája finom járású és strapabíró. Az egyetlen baj vele, hogy még bezárt állapotnál sincs fix állása, így a telefon elfordításakor -- például fényképezéskor -- szét akar csúszni. A kijelzõ és a billentyûzet is egy milliméternyire be van süllyesztve a készülék síkja alá, ezért az X1 összeszedi az összes koszt, ami a nap folyamán a zsebünkben vagy kezünkön megfordul. Ha az érintõkijelzõt kézzel is nyomkodjuk, az ujjainkról a zsír és kosz a képernyõ szélein halmozódik fel, amit legalább hetente érdemes alaposan letisztítani, különben nagyon lelakottnak tûnik majd a gép.
+
+ 
+
+Az elõlap fényes fekete, illetve az oldalak krómszínû borítása bírja a gyûrõdést, apróbb karcolásokat is alig szedtek össze. A leszedhetõ hátlap mattfekete festése viszont a napi használat mellett is gyorsan kopik, karcolódik, egy idõ után akár érdemes lehet teljesen lecsiszolni, hogy legalább az alsó szürke szín látszódjon egységesen.
+
+A gombok használata kényelmes, egy és két kézzel is jól használható az X1, bár a napi rutin megszerzéséhez legalább két hét kell még talán azoknak is, akik korábban is Windows Mobile-t használtak. Sok kritika érte a QWERTY billentyûzetet is, hogy kényelmetlen írni rajta, ami nem igaz. Akinek nagyon nagy keze van, annak talán akadhatnak problémái, de egyébként két ujjal annyira pörgõsen lehet SMS-ezni, hogy folyamatosan azt vettem észre, hogy már rég elhagytam a 160 karaktert és már a harmadik üzenetnél járok. Akit zavar, hogy nincs alapból magyar ékezet, az legyen türelmes, az ékezeteket a magánhangzó beírása után egy váltógombbal lehet elõvarázsolni. 
+
+ 
+
+A hardverhez tartozik még az akkumulátor és a töltés is. Az 1500 mAh-s telep akár napokig is elég lehet, de aki sokat netezik, e-mailezik, játszik és sokat telefonál, annak sem kell aggódnia, naponta egyszer elég tölteni az X1-et. A problémák akkor kezdõdnek, ha a készülék kikapcsolásig merül, ugyanis hiába a szabványos mini-USB csatlakozós kábel, a töltés csak akkor indul el, ha a telefon be van kapcsolva. A kikapcsolt X1-et kizárólag a saját, gyári, Sony Ericsson címkés vezetéke és adaptere tudja bebikázni.
+
+ 
+
+Napi ajánlat
+
+Az okostelefonok legnagyobb erõssége, hogy az SMS-küldés és telefonálás mellett számos más dologra is képesek -- sajnos sok tervezõ elfelejti, hogy elsõsorban mégis ezekre szokás használni õket. A legnagyobb félelmem az volt, hogy a kezelõfelület nem lép túl a Windows Mobile betegségein. Ugyan lehetséges egyedi felületeket húzni az operciós rendszerre, és az interneten több elérhetõ shell és azok telepítésére vonatkozó leírás is elérhetõ, a 160 ezer forintos árért egy gyárilag is jól használható rendszer várnánk.
+
+Az agyonreklámozott X-Panel ebbõl a szempontból határeset. Alapjában véve használható, de praktikusnak, kényelmesnek semmiképp nem mondható. Egy shell esetében a leghálásabb, ha az alap operációs rendszert csak nagyon ritkán látjuk, ami a Sony Ericsson gyári felületével kapcsolatban nem igaz. 
+
+ 
+
+A normál Windows "Today" menüt az X-Panel gomb megnyomásával lehet átváltani a saját lapokra, amik közül egyszerre maximum kilenc lehet aktív a kiválasztó felületen. Mostanra már millió helyrõl összeszedhetõ az információ a gyári panelek lecseréléséhez, aki a HTC TouchFlo 3D felületébe szerelmes, annak sem lesz nehéz dolga, de a hivatalos források is kecsegtetnek használható darabokkal. Több teszt említi, hogy ezen a képernyõn állóból fekvõ nézetbe váltáskor szaggat az animáció. Ez igaz, viszont az is, hogy egy hónap alatt egyszer sem jutott eszembe a skinválasztó menüben kicsúsztatni a qwerty billentyûzetet. Kétségtlen, a készülék szoftverének optimalizálása  nem tökéletes, de a legtöbb meghurcoltatás olyan dolgok miatt érte a mobilt, ami nem életszerû.
+
+A gyárilag telepített panelek közül a napi használatra tervezett darab egy jól konfigurálható információs oldal, ahová az órán és naptáron kívül RSS-olvasót és parancsikonokat is elhelyezhetünk. Az egyetlen probléma, hogy a túlzó vágyaknak hosszú töltési idõ az eredménye. Miután 4-8 ikont és egy RSS-feedet raktam a panelre, a használhatatlanságig lassult, illetve néha egyáltalán be sem töltõdött.
+
+ 
+
+A közösségi hálózatok korában nem meglepõ, hogy alapból telepítve, illetve letölthetõen megtalálható a Google és Windows Live eszköztára, illetve egy Facebook-kliens is. A Google-panel nem nagy durranás, gyakorlatilag egy keresõt kapunk, kiegészítve a Picasa, Gmail, Calendar és Maps ikonnal, melyek megnyitják a böngészõt: a Gmail kezelése  visszalépés a Java-alapú klienshez szokottaknak, az egyedüli jól sikerül szolgáltatás itt a Maps, ami kézre áll, gyors és látványos is. 
+
+A Windows Live alapjában véve hasonló megoldás keresõvel és a Live többi, mobilon is elérhetõ funkciójával, de a Live Messenger például hiába jelentkezett be, a kontaktlistát nem szinkronizálta és a bejövõ üzeneteket sem jelenítette meg. A Facebook viszont nagyon trendi, gyors és áttekinthetõ felületet készített, aki nem bír élni anélkül, hogy a barátairól ne tudja, hogy épp mit csinálnak, vagy Facebookon keresztül kommunikál, annak kötelezõ darab, a többieknek felejtõs.
+
+ 
+
+A multimédiás részlegen három panelt találunk: rádió, médialejátszó és képnézegetõ. Mindhárom mûködik, de messze nem praktikusak. A lejátszást nem lehet innen háttérbe küldeni, a slideshow közben kikapcsolt a képernyõ háttérvilágítása és a kezelõfelület miatt picike lesz a megjelenített fotó. Egy külön indított Media Player vagy bármely saját telepítésû médialejátszó hatékonyabb megoldás, ezeket a paneleket a kipróbáláson kívül máskor eszembe sem jutott megnyitni. Tipikus kényszermegoldásnak tûnik mind a három.
+
+	     
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                    A cikk több oldalból áll:
+                    
+                    
+                        1. oldal: Élet a Sony Ericsson Xperia X1-gyel
+                      
+                        2. oldal: Kellenek a külsõ alkalmazások
+                        
+                    
+                  

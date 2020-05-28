@@ -1,0 +1,14 @@
+Oracle: új szolgáltatások régi adatbáziskezelõn
+
+Régebbi adatbáziskezelõkön is elérhetõ lesz az Oracle 11g egyik új szolgáltatása, a Real Applications Testing. A vállalat szerint ezzel a lehetõséggel élve a 9i R2 és a 10g változatok felhasználói könnyebben térhetnek majd át a tavaly megjelent 11g-re.
+
+
+
+A Real Applications Testing lényegében az éles rendszeren "felveszi", majd a tesztkörnyezeten "visszajátssza" az adatbázis-mûveleteket és egy SQL teljesítményelemzõ segítségével lehetõvé teszi az adatbázis monitorozását valódi workloadok alatt. Az ilyen jellegû feladatokat a legtöbb cégnél általában saját fejlesztésû scriptekkel oldják meg, amelyek valós terhelést próbálnak meg szimulálni, néha több, de inkább kevesebb sikerrel.
+
+Elemzõk és szakértõk egybehangzó véleménye szerint a RAT az Oracle 11g adatbázis egyik leghasznosabb új szolgáltatása, amely mostantól 10g-n és 9i R2-n is elérhetõvé válik, processzoronként 11500 dolláros vagy felhasználónként 230 dolláros listaáron. A szoftvercég szerint a régebbi adatbázisok felhasználói a RAT segítségével könnyen tesztelhetik, a saját termelési workload-jaik hogyan futanának egy újabb verziójú Oracle adatbázison, vagy akár más hardveren, ezzel csökkentve az áttérés kockázatát, illetve felgyorsítva a folyamatot.
+
+
+ Másrészt a szolgáltatás visszaportolása egyben új bevételi forrást is jelent az Oracle számára azoktól az ügyfelektõl, akik egyelõre nem akarnak 11g-re frissíteni. A Real Applications Testing ugyanis nem csak az adatbázis-verziók közötti váltásnál lehet hasznos, hanem akármilyen váltásnál, legyen szó hardvercserérõl, az operációs rendszer frissítésérõl, vagy akár az adatbázis patchelésérõl -- az Oracle szerint a RAT látványosan lerövidíti a tesztelési idõt.
+
+Mosolygó Ferenc, az Oracle konzulense egy korábbi alkalommal a HWSW-nek elmondta, az adatbázis-piacon egyre kevesebb a "zöldmezõs beruházás", az eladások jelentõs részét a Real Applications Testinghez  hasonló extrák adják. Ezt az IDC piacelemzése is megerõsíti, amelybõl kiderül, az Oracle 11g valószínû a RAT-nek, illetve a hozzá hasonló extra képességeknek köszönhette gyors terjedését.

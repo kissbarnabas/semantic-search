@@ -1,0 +1,25 @@
+Mostantól helyfüggõ találatokat ad a Google
+
+A Google nem meglepõ módon, végre meglépte azt a változtatást, ami a helyfüggõ szolgáltatások alfájaként vonulhat be a keresõ történelembe. A jövõben a mobilkészülékekrõl illetve akár az asztali gépekrõl indított keresések alapértelmezetten helyfüggõ találatokat adnak majd -- Magyarországon azonban egyelõre nem mûködik ez a lehetõség.
+
+
+
+Tudjuk, hol vagy!
+
+A helyfüggõ keresés eddig sem volt ismeretlen a Google számára, viszont egészen mostanáig a felhasználónak magának kellett megjelölnie, hogy hová szeretné szûkíteni a keresést a megfelelõ keresõkifejezéssel. Tegnaptól viszont a találati lista alapértelmezetten a helyfüggõvé vált, akár megjelöltünk helyszínt a keresési kifejezésben, akár nem.
+
+A helymeghatározás kétféleképpen történhet, mégpedig a cellainformációk alapján háromszögeléssel, illetve amennyiben a telefon rendelkezik GPS-vevõvel, akkor azzal. Jenn Taylor és Jim Muller, Google mérnökök blogbejegyzésükben egyszerûen azt írják, hogy "amennyiben Google keresést indít valaki, akkor megpróbáljuk kitalálni, hogy hol van és a találatok közül a hozzá legközelebb esõket mutatjuk meg neki". 
+
+A Google az asztali felhasználókat is igyekszik földrajzilag azonosítani, ehhez pedig az IP címet használja fel. Ez akár pontos is lehetne, de ha bármilyen proxyt használ valaki, akkor a helymeghatározás lehetetlenné válik, illetve hazánkban általánosan jellemzõ, hogy a szolgáltatók hálózati megoldásainak köszönhetõen az országban össze-vissza vannak leosztva az IP-címek és nem meglepõ, hogy ha valaki Budapesten van valójában, a szolgáltatónak köszönhetõen a Google úgy érzékelje, hogy mondjuk pécsi internetezõ.
+
+
+Magyarország kimarad
+
+A HWSW gyorstesztjébõl egyelõre az derült ki, hogy a differenciálás Magyarországon még nem mûködik. A viszonylag általánosnak mondható "Hotel" kifejezésre mobiltelefonról a "hotel.lap.hu"-t adta elsõ találatnak, illetve budapesti szállodák és azok szolgáltatásait értékesítõ utazási irodák a további helyeken. Ugyanez a találati lista angol nyelvû beállítás mellett asztali böngészõbõl külföldi szállodaláncokat, Wikipedia oldalt hoz az elsõ helyeken, s az elsõ tízbe alig kerülnek be magyar szállodák. Ugyanezt a keresést Egerbõl elvégezve szintén a lap.hu-s találat az elsõ és hasonlóan a fentiekhez magyar szállodák és utazási irodák linkjeit a további helyeken.
+
+
+Peresztegi Zoltán, a Google magyarországi képviselõje a HWSW kérdésére azt mondta, hogy "az új szolgáltatás, noha globális bejelentés, nálunk egyelõre azért nem mûködik, mert a Google Mapsre támaszkodna, ami viszont nincs lokalizálva Magyarországra. Ugyanezen okból kifolyólag nem érhetõ el magyar nyelvû beállításokkal a Google Latitude automatikus funkciója sem, amivel a felhasználók ismerõseik számára mutathatják meg aktuális tartózkodási helyüket. Nálunk, aki használni szeretné ez utóbbit, annak manuálisan kell beállítania, hogy épp hol van."
+
+Ha nincs Maps, nincs helyfüggõ keresés
+
+Arról egyelõre nincs információ, hogy a magyar Google Maps mikorra várható, de megjelenéséig egészen biztos, hogy ezek az értéknövelt szolgáltatások nem lesznek elérhetõek hazánkban. Azokon a helyeken viszont, ahol a Google Maps teljes értékûen mûködik, mostantól ha valaki egy szolgáltatásra, bármilyen aktivitásra vagy üzletre keres rá, akkor a találati lista elején egy térképet talál arról a környékrõl, ahol éppen tartózkodik, rajta a keresett egységek listájával.

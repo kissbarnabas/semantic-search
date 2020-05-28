@@ -1,0 +1,26 @@
+Újabb virtualizációs szoftver vált ingyenessé
+
+A Citrix Systems szabadon elérhetõvé teszi a XenServer virtualizációs köztesréteget, illetve bemutatta a virtualizált infrastruktúrák felügyeletére szolgáló megoldását is, a Citrix Essentialst. A cég szorosan együttmûködik a Microsofttal.
+
+
+
+Ingyenes hypervisor
+
+A Xen virtualizációs technológia a XenSource felvásárlásával került a Citrixhez. Maga a Xen egy nyílt forrású projekt, amely egy cambridge-i egyetemi kutatásból nõtte ki magát és lett az egyik legkedveltebb hypervisor Linuxon. A mögötte álló céget 2007-ben vásárolta fel 500 millió dollárért a Citrix Systems. A Xen továbbra is elérhetõ maradt szabad forrású virtualizációs köztesrétegként, a Citrix, illetve a XenSource égisze alatt pedig támogatott, fizetõs termékként -- a XenServer lényegében a Xen kereskedelmi implementációja.
+
+A XenSource felvásárlása óta eltelt idõben a virtualizációs piac megváltozott: tavaly nyáron megjelent a Microsoft Hyper-V, a VMware pedig válaszul ingyenesen elérhetõvé tette az ESX-et. A Citrix sem maradhatott ki ebbõl a sorból, hiszen ma már egyértelmûvé vált, hogy bár a hypervisor a virtualizáció alapja, a bevételt nem ez fogja termelni az érintett cégeknek, hanem a virtualizációs felügyeleti eszközök, amelyek egyben differenicálódási lehetõséget is rejtenek.
+
+ A Xen korábban fõképp vállalati Linux-disztribúciók részeként került a felhasználókhoz, például a SUSE Linux Enteprise Serverben vagy a Red Hat Enterprise Linux Serverben. A Linuxok azonban viszonylag fejletlen támogatást biztosítanak a virtualizált környezetek felügyeletéhez -- vélekedik Simon Crosby, a Citrix virtualizációs termékekért felelõs technológiai vezetõje, a Xen egykori alapítója. A Citrix célja, hogy a felhasználók ne a Linuxokban levõ közösségi változatot használják, hanem a XenServert, amely mostantól ingyenesen elérhetõ, és a teljesítménye is nagyobb, legalábbis ezt állítja Crosby. Az ingyenes elérhetõség ugyanakkor nem jelenti azt, hogy a XenServer kódját megnyitnák, az továbbra is zárt marad.
+
+A virtualizáció kora jön
+
+Az ingyenesen kínált XenServer a Citrix szerint valódi, nagyvállalati kategóriás megoldás olyan képességekkel mint a központi multi-node felügyelet, erõforrás-megosztás több szerver között és persze a XenMotion live migráció, vagyis a virtuális gépek leállítás nélküli mozgatása a fizikai szerverek között, amely rendkívül látványos, ugyanakkor valójában ma még niche-igény. A vállalat úgy véli, az ingyenes XenServer révén drámaian lecsökken a virtualizáció világába a belépés költsége, ami a mai gazdasági helyzetben nem elhanyagolható szempont.
+
+
+ A nyomott üzleti környezetben szakértõk szerint egyébként is felértékelõdik minden olyan technológia és megoldás szerepe, amellyel fokozható a hatékonyság, és ezek közé tartozik a virtualizáció is. Iparági elemzések és szakértõk becslései szerint a világszerte használt szervereknek ma még kevesebb mint ötödét virtualizálják, vagyis a technológia elõtt még hatalmas jövõ és rengeteg lehetõség áll.
+
+Együttmûködés a Microsofttal
+
+A ma bejelentett Citrix Essentials for XenServer lehetõvé teszi a XenServerrel virtualizált környezetek felügyeletét és menedzselését. A vállalat emellett elérhetõvé tette az Essentials for Hyper-V terméket is, amely ahogy azt a neve is mutatja, a Microsotft Hyper-V hypervisorral kompatibilis, így segítségével egyetlen felületrõl kezelhetõk a Hyper-V-vel virtualizált szerverek is. "Az Essentials segít az adminisztrátoroknak a nagyvállalati léptékû Hyper-V bevezetésekben" -- mondta Simon Crosby. Az Essentials szerverenként 1500-5000 dollárért lesz megvásárolható.
+
+A Citrix egy másik megállapodást is kötött a Microsofttal, amelynek értelmében a System Centerbe bekerül a  XenServer támogatása, így a redmondiak felügyeleti eszközcsaládjából is kezelhetõk lesznek a XenServerrel virtualizált gépek.

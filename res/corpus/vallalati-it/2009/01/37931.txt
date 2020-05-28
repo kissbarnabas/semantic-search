@@ -1,0 +1,14 @@
+Elindult a Symantec saját cloud-szolgáltatásának tesztüzeme
+
+Elindította saját cloud-platformjának próbaüzemét a Symantec: a GoEverywhere beta több, már létezõ, vagy éppen szárnyait bontogató cloud-szolgáltatásra kínál alternatívát, célja, hogy egy olyan biztonságos, online munkaterületet biztosítson a vállalati és egyéni felhasználók számára, mellyel bármikor, bárhonnan elérhetik a különbözõ webes alkalmazásokat.
+
+
+
+A cloud, amely az internetet felhõként ábrázoló prezentációs diákról kapta a nevét, lényegében összekapcsolt szerverek összessége, amelyek a weben keresztül elérhetõ alkalmazásokat futtatnak. Már ma is számos cloud-szolgáltatást használunk nap mint nap, gondoljunk csak például a webes levelezõkre, amelyek úgy kezelik e-mailjeinket és adatainkat, hogy azokat az interneten keresztül bárhol, bármikor elérhetjük, miközben valójában fogalmunk sincs arról, pontosan hol is találhatók, és nem is kell tudnunk: a gépek üzemeltetése, a rendelkezésre állás biztosítása nem a mi gondunk.
+
+A Symantec GoEverywhere a többi cloud-szolgáltatáshoz hasonlóan biztonságos, skálázható és költséghatékony platformot kínál, elsõsorban a kisvállalatok számára, hiszen az igények folyamatos, gyakran elõre kiszámíthatatlan hullámzása miatt  az alkalmazások, illetve a kiszolgálásukhoz szükséges infrastruktúra méretezése komoly kihívást jelent ezeknek a cégeknek, akiknek a saját IT megvásárlása, fenntartása és üzemeltetése csak teher.
+
+
+A béta szolgáltatás segítségével a felhasználók egy webböngészõben futtatható egységes, a Symantec által hosztolt felületen keresztül érhetik el a különbözõ webes szolgáltatásokat, például levelezõrendszereket vagy online dokumentumkezelõket. A GoEverywhere mindezek mellett a nagyobb, ismertebb online tárhelyekhez is hozzáférést nyújt, a felhasználók így könnyebben kezelhetik az ezeken a tárterületeken elhelyezett adataikat.
+
+A GoEverywhere mindezeket a szolgáltatásokat a lehetõ legbiztonságosabb környezetben igyekszik nyújtani a jelszavakat többszintû titkosítás védi, ugyanakkor a rendszer "Single-Sign-On" funkciójával egyetlen bejelentkezés után az összes regisztrált webes alkalmazást el tudja érni a felhasználó további azonosítási adatok megadása nélkül. A Symantec GoEverywhere bétája a http://www.goeverywhere.com/ webcímrõl érhetõ el, a kísérletezõ kedvû felhasználók név és e-mail cím megadása után kaphatnak hozzáférést a rendszerhez.

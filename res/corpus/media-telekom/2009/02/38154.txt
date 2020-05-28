@@ -1,0 +1,37 @@
+Budapesten tesztelik a mobilnet  következõ generációját
+
+A mobilkommunikációs ipar lázasan készülõdik a következõ generációs mobilhálózatok bevezetésére, melyek a jelenleg elérhetõnél egy nagyságrenddel magasabb sebességek ígéretével kecsegtetnek, újabb lökést adva ezzel a mobilinternetnek. A jelenleg ismert tervek alapján 2010-ben tömegesen indulnak meg az úgynevezett Long Term Evolution (LTE) hálózatok, globális felkészülésében a Vodafone a Budapesten is végez teszteléseket.
+
+
+
+LTE Budapesten
+
+A barcelonai Mobile World Congressen lényegében minden nagyobb operátor és infrastruktúraszállító bemutatta saját LTE-alapú megoldását. A T-Mobile például nagyfelbontású videokonferenciát hozott létre barcelonai standja és egy bonni tesztpályán körözõ furgon között, demonstrációs céllal fájletöltési sebességeket mutatott, valamint az alacsony késleltetés bizonyítékául online játékokat is ki lehetett próbálni. Az Egyesült Államok legnagyobb mobilszolgáltatója, a Verizon Wireless közölte, hogy 2010-ben megkezdi LTE-hálózatának kiépítését, mely kiegészíti jelenlegi 3G-s infrastruktúráját.
+
+A Verizonnal együttmûködõ Vodafone szintén végez LTE-teszteket, Európában három városban, Budapesten, Düsseldorfban és Madridban. A hazai Vodafone különösen aktív a cégcsoporton belül, ami a mobilinternetet illeti, ezért esett rá a választás, hogy belsõ tesztelõként funkcionáljon, árulta el a vállalat. Az LTE mellett a Vodafone HSPA+ terepteszteket is folytat Budapest területén, elõbbi technológiával 50-60 megabit/s,  utóbbival  20 megabit/s, letöltési sebességeket tudtak elérni itthon is, összhangban a nemzetközi tapasztalatokkal. A gyakorlatban ennek töredékét teszi majd ki az egy-egy felhasználó által tapasztalt sávszélesség, ugyanis egy cella kapacitásán osztoznia kell másokkal. Kereskedelmi bevezetésrõl vagy az alkalmazott berendezések típusáról egyelõre nem szívesen nyilatkozik a cég, a magyarországi bevezetés a Vodafone-nál azonban 2011 elõttre nem várható, tudta meg a HWSW.
+
+Kell az LTE
+
+A mobilszolgáltatók nagy várakozásokkal tekintenek az LTE-hálózatok, egészen pontosan az LTE elnevezésû projekt keretében kidolgozott 3GPP Release 8 szabványú eszközök alkalmazása elé. A magyarázat prózai: a mobilinternet rohamos terjedésével az operátoroknak egyre nagyobb adatforgalmat kell kiszolgálniuk, mégpedig rendkívül gazdaságosan -- az egy elõfizetésre jutó bevételeik lassan, de stabilan olvadnak, az egységnyi adat továbbításából származó bevétel rohamosan zuhan.
+
+Éppen ezért olyan technológiát akarnak, mely viszonylag költséghatékony beruházásokkal alkalmas mai szemmel hatalmasnak tûnõ mobil adatforgalmat lekezelni -- kapacitás kell, mégpedig a lehetõ legolcsóbban. A T-Mobile szerint a feladat felhasználónként havi 10 gigabájt leszállítása 10 megabit/s sebességgel -- a jelenleg nagyjából 500 ezer hazai mobilnetezõvel ez havi 5 ezer terabájt forgalmat jelentene.
+
+
+Az LTE nem 4G
+
+Az LTE-nek nevezett Release 8 szabványt sokszor negyedik generációs, vagyis 4G-s mobilhálózati technológiaként is emlegeti a szakma és a média, valójában legfeljebb pre-4G besorolást kaphat, míg Japán legnagyobb operátora, az NTT DoCoMo Super3G-nek titulálja. Ennek egyszerû oka, hogy egy 4G-s hálózatnak képesnek kell lennie 1 gigabit/s névleges sebességû linket felépíteni a bázisállomás és a terminál között, amire a Release 8 még nem, csak az LTE-Advanced néven ismert Release 9 lesz alkalmas, mely elméletileg egy szoftverfrissítésként fog érkezni, valamikor 2011 után. 
+
+
+
+ 
+
+Az iparági együttmûködés keretében megszületett LTE éppen azt tartotta szem elõtt, hogy a mobiltelkók gazdaságosan tudják hálózataikat továbbfejleszteni és üzemeltetni. Az LTE spektrumhatékonysága felhasználási körülményektõl, antennaszervezéstõl és az alkalmazott modulációtól fügõen 2,5-4-szerese a HSDPA-énak, vagyis ennyivel nagyobb áteresztõképességgel rendelkezik egy azonos frekvenciájú és szélességû csatornán, továbbá finomabban is képes szeletelni azt, ami a HSDPA-hoz viszonyítva tovább növeli az LTE-cellák terhelhetõségét.  
+
+
+ A Magyarországra várhatóan 2-3 év múlva érkezõ LTE-hálózatok átlagosan 15 megabit/s-ot ígérnek, miközben a teljesen IP-alapú felépítésnek köszönhetõen 5-20 milliszekundumra szorul le a hálózat késleltetése, szemben a jelenlegi 50-90 milliszekundummal, amivel megvalósíthatóvá válnak a triple-play (telefon, internet, IPTV) szolgáltatások is. Az LTE lényegében az UMTS természetes evolúciójának tekinthetõ, jól integrálható a jelenlegi GSM/UMTS rendszerekhez, szemben például a hasonló teljesítményû WiMAX-szal.
+
+Elõbb HSDPA 14.4, aztán HSPA+
+
+Magyarországon jelenleg mindhárom mobilszolgáltató a Release 6 specifikációknak megfelelõen frissíti fel országos 3G-hálózatát, ami névlegesen 7,2 megabites HSDPA letöltési linket és 5,76 megabites HSUPA feltöltési linket jelent. A forgalmas helyeken, úgynevezett hot spotokon a szolgáltatók 14,4 megabites HSDP-ra frissítik bázisállomásaikat, így nagyobb kapacitást szétosztva szolgálják ki a magasabb terhelést -- 14,4-es felhasználói eszközök egyelõre nincsenek is a piacon. A T-Mobile közlése alapján a tapasztalt sebesség HSDPA 7,2 technológia esetén jellemzõen 1,6 megabit/s tapasztalható, 
+
+Az LTE-t megelõzõ következõ lépcsõfok a Release 7-ben meghatározott HSPA+ lesz, mely tovább növeli a cellakapacitást, és kezdetben akár 21-28 megabit/s, késõbb 42 megabit/s linket is felépíthet, miközben a felhasználó által tapasztalt átlagos átviteli sebesség a jelenlegi másfélszeresére, 3 megabit/s fölé emelkedhet, de ideális esetekben elérhetõek lesznek az 5 megabit/s feletti sebességek is.

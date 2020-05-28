@@ -1,0 +1,22 @@
+A felhasználók igénylik a gyorsabb Wi-Fi-t, közben lassan az új szabvány is elkészül
+
+A vezeték nélküli számítógépes kommunikációs szabványokat kidolgozó Wi-Fi Alliance májusban fogadta el a 802.11n szabvány 4.0-s tervezetét, a korábbiaknál gyorsabb és nagyobb hatótávolságú vezeték nélküli adatcserét szavatoló technológia példátlanul hosszú ideig tartó fejlesztése tehát lassan a finishez közeledik. A végleges 802.11n szabványra épülõ elsõ eszközök azonban így is csak jó másfél év múlva jelenhetnek meg -- feltéve, hogy a szabványalkotóknak addig minden technikai problémát sikerül megoldaniuk, illetve képesek lesznek minden részletben megállapodni egymással.
+
+
+
+A Wi-Fi Alliance közleménye szerint a szabványosítási hercehurcáktól függetlenül is ugrásszerûen nõtt a kereslet a 802.11n szabvány egy évvel ezelõtt publikált, 2.0-s tervezetével kompatibilis eszközök iránt, így az idei esztendõben értékesített Wi-Fi chipsetek mintegy fele megfelel majd az új szabvány tervezetének. Az ABI piackutató elõrejelzése szerint öt év múlva a Wi-Fi eszközök 90 százaléka fogja támogatni az új -- addigra vélhetõen már teljesen kiforrott és véglegesített -- szabványt.
+
+Tesztet írnak
+
+A szövetség június végéig 325 eszközt minõsített be a 802.11n szabványtervezet 2.0-s változatának megfelelõen, a tesztlaborokba ráadásul egyre több új berendezést küldenek a gyártók. A Wi-Fi Alliance tesztjén egy év alatt 180 hordozható számítógép, WLAN-adapter vagy más hálózati eszköz ment át, ezek mellett éppúgy bevizsgáltak és megfelelõnek találtak különbözõ szórakoztatóelektronikai berendezéseket, televíziókat vagy médiaszervereket.
+
+Linksys WRT610N: 802.11n kommunikáció egyszerre két frekvenciasávon
+
+A 802.11n v2.0-s szabványtervezet szerinti "Wi-Fi Certified" megfelelõség odaítélése elõtt az eszközöket egy átfogó tesztnek vetik alá a mérnökök. A vizsgálatok során elsõsorban azt ellenõrzik, hogy a berendezés képes-e együttmûködni más gyártók hasonló megoldásaival, megfelelõen kezeli-e a különbözõ biztonsági protokollokat, illetve rendben van-e a visszamenõleges kompatibilitás a korábbi, 802.11a/b/g szabványokkal, azaz az eszköz garantáltan hibátlanul kell kommunikáljon az eddig piacra került több ezer, Wi-Fi kapcsolati lehetõséggel felruházott termékkel.
+
+Gyorsabb és messzebbre lõ
+
+Az új Wi-Fi szabvány az 1999-ben elfogadott 802.11a és a 2003-ban bevezetett 802.11g-nél ideális esetben akár ötször nagyobb sávszélességet és majd kétszer nagyobb sugárzási rádiuszt ígér, köszönhetõen a több antennának és a szélesebb frekvenciatartományak. A 802.11n technológia fejlesztése 2004 januárjában kezdõdött, az alapok lefektetésével. A szabványalkotó testület végül hosszas huzavona során, több tízezer, a gyártóktól vagy a felhasználóktól beérkezett javaslat vagy megjegyzés figyelembevételével folyamatosan javított a technológián.
+
+
+Bár a szabványosítási folyamat máig sem ért véget, a Wi-Fi Alliance a jelentõs iparági szereplõkkel egyetértésben úgy döntött, hogy a 802.11n technológia már ebben az állapotban is piackész lehet. A véglegesítés után -- gyártótól függõen -- elég lesz egy szoftverfrissítést végrehajtani a most megvásárolt eszközön, így az száz százalékban kompatibilis lehet a 802.11n szabvány végleges változatával.

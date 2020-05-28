@@ -1,0 +1,24 @@
+Parancssorból vezérelt web -- kipróbálható a Firefox zseniális kiegészítõje, a Ubiquity
+
+Egyszerû szöveges parancsokkal válthatók ki komplex webes mûveletek egy Firefoxhoz tegnap kiadott kiterjesztés segítségével. A böngészést jelentõsen leegyszerûsítõ, a felhasználói élményt nagy mértékben fokozó programmal, a Ubiquity-vel pofonegyszerûvé és teljesen kézenfekvõvé válik egyebek mellett a keresés, a térképes tájékozódás vagy éppen a szövegfordítás.
+
+
+
+A Mozilla Labs kedden adta ki új, túlzás nélkül minden eddiginél innovatívabb webböngészõ-kiegészítõjének, a Ubiquity-nek v0.1-es tesztverzióját. A pofonegyszerûen használható böngészõkiegészítõ egy chicagói szoftvercég, a Humanized hasonló célt szolgáló, böngészõktõl független alkalmazására, az Enzo-ra épül. A Mozilla idén januárban gyakorlatilag kivásárolta a vezetõket a cégbõl, közülük Aza Rashkin, a Humanized korábbi elnöke mutatta be kedden a Ubiquity elsõ próbaváltozatát.
+
+Mashup a javából
+
+A kiegészítõvel a statikus weboldalak és tartalmak, illetve az azokon elhelyezett információk minden eddiginél egyszerûbben manipulálhatók az egyes oldalakba ágyazott, több funkciót és adatforrást integráló webes alkalmazásokhoz, az úgynevezett mashupokhoz hasonlóan -- ezúttal azonban teljes mértékben a felhasználó egyedi igényeire szabva. A kiegészítõ lényegében egy billentyûkombinációval elõcsalható parancsablakot telepít, melybe az elõre definiált parancsokat begépelve olyan mûveleteket végezhet el egyszerûen a felhasználó, melyeket egyébként csak több lépcsõben, több böngészõablakot használva, jóval nagyobb idõráfordítással valósíthatna meg.
+
+				
+
+A Ubiquity-vel így például jelentõsen egyszerûbbé tehetõ a weboldalakon feltüntetett földrajzi címek térképen való megjelenítése: elég kijelölni a helyszínt és kiadni a "map" parancsot, pár másodpercen belül megjelenik a programablakban a Goolge maps interaktív térképe, mely ezután akár külön weboldalon is megnyitható, vagy egy kattintással e-mailbe ágyazható.
+
+Több, mint keresõ
+
+A kiegészítõ segítségével nemcsak a Google Maps alkalmazása válik kényelmesebbé: a Ubiquity a kijelölt szövegrészt képes többek közt kiemelni, lefordítani, valamint e-mail üzenetként továbbítani. A kiegészítõ egyes szavak és kifejezések után kutat az összes ismert keresõmotorban, a Wikipedián, a népszerûbb webes katalógusokban, az online áruházakban vagy éppen az értelmezõ kéziszótárban. Rashkin egy interjúban az egyszerûbb megközelítés végett éppen a fentebb említett keresõszolgáltatásokhoz hasonlította a Ubiquity-t, kiemelve, hogy a Mozilla Labs kiegészítõjénél a felhasználók nem azt gépelik be a beviteli mezõbe, hogy milyen tartalmat keresnek, hanem, hogy milyen mûveletet akarnak végezni az adott tartalommal.
+
+
+A Ubiquity fejlesztésébe bárki bekapcsolódhat: a nyílt forráskódú program parancsait minden felhasználó kiegészítheti egyszerû szkriptek beillesztésével, a mûvelet gyakorlatilag semmilyen programozói szaktudást nem igényel. Az így kiegészített parancslistát ezután közzé is lehet tenni, vagy fel lehet iratkozni a mások által elindított, akár közösségi szinten, több felhasználó együttmûködése révén létrehozott, folyamatosan bõvíthetõ listákra.
+
+A Mozilla Labs a Ubiquity projekt számára létrehozott oldalon részletesen ismerteti a kiegészítõ mûködését és útmutatást nyújt a parancslista bõvítéséhez. Ugyanitt letölthetõ a kiegészítõ, a forráskód, valamint innen lehet feliratkozni a parancsgyûjteményekre.

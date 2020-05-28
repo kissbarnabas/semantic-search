@@ -1,0 +1,10 @@
+Három kritikus biztonsági frissítés érkezik jövõ kedden a Microsofttól
+
+Négy biztonsági frissítés érkezik a májusi patch kedden, melyek közül három besorolása kritikus. A Microsoft végre közzéteszi a Windowsokba épített Jet adatbázismotor javítását, mely évek óta ismert rést foltoz be -- a jelek szerint az XP SP3 már tartalmazza a kódot, vagy a Jet egy újabb verzióját. 
+
+
+
+A májusi frissítésekkel végre széles körben hozzáférhetõ lesz a Jet Database Engine 4.0.9505.0 vagy régebbi verzióit érintõ biztonsági javítás -- a sebezhetõség Windows 2000 SP4, XP SP2 és Server 2003 SP1 operációs rendszereket érinti. Amint arról korábban már beszámoltunk, az Access és a  Visual Basic, valamint a Visual C++ adatbázis hátterét biztosító Jet oszlopkezelése (oszlopszám túlcsordulás) olyan dokumentált sebezhetõséget teremt, mely lehetõvé teszi a támadónak tetszõleges kód futtatását a rendszeren a felhasználó jogosultságán. Az egyik példatámadás például a számológépet indítja el. Ez a sebezhetõség 2005 márciusa óta ismert, a Microsoft ugyanakkor nem tette közzé meglévõ javítását, mert úgy vélte, az csak a tiltólistán lévõ MDB fájlokkal aknázható ki -- nemrég kiderült, tévedett.
+
+
+A másik két kritikus biztonsági frissítés a Microsoft Word és a Publisher számos változatát érinti. Valószínû, legalábbis a Word esetében, hogy a Microsoft a Jet motor foltozása mellett a támadási vektort is igyekszik felszámolni, vagyis a Word dokumentumba ágyazott támadás se jusson át a szövegszerkesztõ szoftveren. Mindenesetre mindhárom biztonsági frissítés távoli kód végrehajtását orvosolja a Microsoft elõzetes értesítése alapján. A negyedik, moderált jelentõségûre osztályzott frissítés a Microsoft biztonsági szoftvereiben, köztük a Live OneCare, az Antigen, Windows Defender, Forefront Security alkalmazásokban foltoz réseket, melyekkel valamilyen módon üzemképtelenné tehetõek azok.

@@ -1,0 +1,20 @@
+Egyre biztonságosabbak lesznek a nyílt forrású szoftverek
+
+Az amerikai Nemzetbiztonsági Minisztérium (Department of Homeland Security), a Coverity, valamint a Stanford Egyetem által 2006 tavaszán elindított projekt során összesen több mint 180 nyílt forrású szoftvert vizsgált meg, de ezek közül egyelõre csak 11 olyan található, amely a teszt alapján programozás szempontjából biztonságosnak tekinthetõ.  
+
+
+
+Egyre biztonságosabb nyílt forrású szoftverek
+
+Az Open Source Hardening Project eredeti célja az volt, hogy az amerikai kormányzati hivatalok számára weboldalakat és más alkalmazásokat fejlesztõ szakemberek által gyakran használt nyílt forrású szoftvereket átvilágítsák a Coverity eszközeivel, amelyek segítségével C vagy C++ nyelvben, illetve Javában írt programokban lehet hibákat keresni. A 2006 márciusa eltelt közel két év alatt több mint 50 millió kódsornyi szoftver vizsgált meg a Coverity és átlagosan ezer soronként bukkant hibára. Minden szoftver tartalmazott hibákat, volt amelyik többet, és persze voltak olyanok is, amelyek kevesebbet.
+
+A vizsgálat által kimutatott hibákat a fejlesztõk többségében javították, a Coverity által gondozott weboldal összesen 250 nyílt forrású szoftver 7826 javított hibáját tartja nyilván. A vizsgált szoftverek között megtalálhatók a legismertebb nyílt forrású szoftverek, mint a Linux kernel, a Firefox és az Apache, de hiányzik közülük például a MySQL. A vizsgálati és javítási folyamat eredményeképp 11 olyan szoftver jött létre, amely "rung 2" minõsítést ért el a Coverity biztonsági értékelésében, ezek közé tartozik az Amanda, az NTP, az OpenPAM, az OpenVPN, az Overdose, a Perl, a PHP, a Postfix, a Python, a Samba és a TCL -- ezeket a Coverity szerint a szervezetek és felhasználók bizalommal használhatják.
+
+Felfelé a biztonsági létrán
+
+
+ A Coverity biztonsági ranglétrájának legalsó fokán ("rung 0") azok a projektek találhatók, amelyeknek az ellenõrzése már megtörtént a Coverity eszközeivel, azonban az eredmények még nem jutottak el a fejlesztõkhöz. Ilyen nyílt forrású szoftverbõl jelenleg 173-at tart nyilván a Coverity, ezeket részben maga a cég választotta ki, de lényegében bármelyik nyílt forrású projekt fejlesztõi beküldhetik minõsítésre a saját terméküket.
+
+A következõ biztonsági szint ("rung 1") olyan szoftverek találhatók, amelyek fejlesztõi már felvették a kapcsolatot a Coverityvel. Számukra a cég egy külön levelezõlistát hoz létre, a megtalált hibák elemzésével és javításával kapcsolatos kommunikáció megkönnyítésére. "Rung 1" szintû nyílt forrású szoftverbõl 86-ot tart nyilván a Coverity. A cég kódelemzõ portfolióját csak fokozatosan veti be a nyílt forrású szoftvereken, ezért azok a szoftverek, amelyek teljesítették a "rung 1" kritériumokat, a "rung 2" szinten újabb ellenõrzéseken esnek át. 
+
+Érdekes egyébként, hogy számos olyan projektet tart nyilván a "rung 1" szinten a Coverity, amelyben egyetlen hibát se találtak, ugyanakkor a "rung 2" szintû szoftverekben is lehet hiba: a "rung 2" szinten bevetett új vizsgálati módszerekkel ugyanis további hibák tárhatók fel, ugyanis az elsõ szinten csak alapszintû hibákat keresnek a programokban. A vállalat szerint az ellenõrzés fokozatossága egyfajta hajtóerõ lehet a szoftverek fejlesztõi számára, lényegében minél keményebben dolgoznak a hibák felderítésén és javításán, annál fejlettebb eszközöket vethetnek be a programuk ellenõrzésére.

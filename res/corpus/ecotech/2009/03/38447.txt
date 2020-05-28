@@ -1,0 +1,26 @@
+A virtuális asztali környezetek a PC-gyártókat fenyegetik
+
+A Gartner friss elemzése szerint a hosztolt virtuális asztali környezetek (hosted virtual desktop, VHD) 2013-ra 65 milliárd dolláros piaccá növik ki magukat, a jelenlegi 500 ezer helyett eddigre 49 millió felhasználót szolgálnak majd ki, ami az üzleti PC-k piacának 40 százalékát jelenti.
+
+
+
+PC helyett, takarékosan
+
+A hosztolt virtuális desktopok használata ehetõvé teszi, hogy a felhasználók bárhol, bármikor elérhessék az általuk használt szoftvereket és adatokat, azáltal, hogy az asztali környezeteket szerveren konszolidálja -- egy kiszolgálón így több desktop környezet is futhat, amelyhez a felhasználók gyakorlatilag bármilyen kliensrõl csatlakozhatnak, akár PC-rõl, vékony kliensrõl vagy akár mobil eszközrõl.
+
+A dolgozók bárhonnan ugyanazt a környezetet, képernyõt láthatják, ugyanazokat az alkalmazásokat használhatják és ugyanazokkal az adatokkal dolgozhatnak, bárhol is vannak. Nem kell bajlódniuk szoftverek telepítésével és frissítésével sem. Üzemeltetési oldalról a fizikai és virtualizált desktop között jelentõs a különbség, utóbbi esetben ugyanis minden szoftver egy szerveren található, centralizáltan elérhetõ, menedzselhetõ, frissíthetõ, menthetõ. Egy vállalati laptop elvesztése sem jelent biztonsági eseményt, hiszen azon semmilyen adat sincs elmentve, de a elõnyöket még sorolhatnánk.
+
+"Az elmúlt 15-20 évben az elosztott számítási modell volt a domináns kliensarchitektúra, de az alkalmazások elérésében és a kliensek képességeiben történt változások számos új megoldást elõtérbe helyeztek. A hosztolt virtuális desktopok látszanak legvonzóbb alternatívának és az elfogadottsáuk villámgyorsan nõni fog a következõ 3-5 évben, elsõsorban a fejlett piacokon, ahol a meglevõ adatközpontok és kiépített infrastruktúra miatt a belépési küszöb is viszonylag alacsony" -- mondta Brian Gammage, a Garner alelnöke.
+
+Átrendezõdik a piac
+
+
+ Ez a trend jelentõs hatással lesz a PC-vásárlási szokásokra, a hosztolt virtuális desktop architektúra felépítésébõl adódóan kevésbé erõs számítógépeket igényel a felhasználók oldalán, vagy vékony klienseket, amelyeket a cégek jóval ritkábban cserélnek le. Ugyanakkor a hosztolt virtuális desktopok használata több szervert, nagyobb hálózati sávszélességet és új szoftvereket igényel, vagyis a költések a PC-k felõl más területekre tolódnak el -- a PC-gyártók bánata más piaci szereplõk öröme.
+
+Noha a jelenlegi gazdasági helyzetre sokan úgy tekintenek, mint a költséghatékony HVD-k terjedésének lehetséges katalizátorára, a Gartner szerint a bevezetésükhöz szükséges komoly kezdeti beruházások miatt egyelõre ezt senki sem lépi meg, bár a belépési küszöb itt is csökken, ahogy a szerverek egyre erõsebbek, a tárkapacitás egyre olcsóbb. 2010-ben, ahogy a világgazdaság megkezdi a kilábalást a recesszióból, és a piaci verseny miatt az árak is egyre esnek, fokozatosan gyorsul majd a HVD térnyerése, a Gartner szerint a jelenleg üzleti célokra használt PC-k 15 százalékát migrálják hosztolt virtuális desktop környezetekre 2014-re, ami 66 millió berendezést jelent, ebbõl csak az Egyesült Államokra 18 millió jut majd. 
+
+A VMware az elsõ de jön a Microsoft
+
+A hosztolt virtuális asztali környezetek szegmensében jelenleg a VMware az egyértelmû piacvezetõ a Gartner szerint, de a területen számos feltörekvõ szereplõ tevékenykedik, amelyek elsõsorban szoftvereikrõl ismertek (pl. Virtual Bridges, Red Hat), de ide számíthatjuk a Sun Microsystemst is, amely évek óta kínálja Sun Ray vékonykliens-architektúráját, amely ma már bármilyen desktop operációs rendszerrel használható, beleértve akár Windowst vagy Mac OS X-et is. Sun Ray környezetet már Magyarországon is több helyen használnak, például a Fõvárosi Csatornázási Mûvek, a Fõvárosi Bíróság és a MOL is.
+
+Az elemzõcég úgy látja, pár éven belül a Microsoft is jelentõs szereplõvé növi ki magát a hosztolt virtuális desktopok területén, részben saját fejlesztéseire, részben pedig a Citrixszel kialakított szoros kapcsolatára támaszkodva. A PC-gyártók egyelõre látszólag alszanak, a piacvezetõ szállítók közül egyelõre csak a HP-nek van saját megoldása. A Gartner szerint azonban a PC-gyártóknak nem feltétlen kell egy HVD-megoldás bevezetéséhez szükséges összes komponenst maguknak szállítani, de elengedhetetlen számukra hogy felismerjék ezeket az ügyféligényeket és felkészüljenek azok kielégítésére: PC-szállítóból megoldásszállítóvá kell válniuk.

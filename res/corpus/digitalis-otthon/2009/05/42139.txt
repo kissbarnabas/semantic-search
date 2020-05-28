@@ -1,0 +1,13 @@
+Atom processzoros médiaszerver az Acer kínálatában
+
+Az otthoni médiaszerverek elsõsorban azoknak a háztartásoknak készülnek, ahol több PC található, az elképzelés szerint egy médiaszerver megkönnyíti a képek, videók, zenék központi tárolását és megosztását. A megfelelõ szórakoztató készülékrõl, például egy hálózatra köthetõ DVD-lejátszóról vagy játékkonzolról a médiaszerverrõl is lejátszhatók a filmek, zenék, így nem kell azokat hordozni, az internet segítségével pedig akár házon kívül is hozzáférhetõk a fájlok.
+
+A Microsoft a 2007-es Consumer Electronics Show-n jelentette be a Windows Home Servert, amely egy kimondottan otthoni médiaszerverekre fejlesztett operációs rendszer a Windows Server 2008 alapjain. Ez teljesít szolgálatot az Acer új easyStore gépén, amelybe az alacsony fogyasztás és hõtermelés, valamint a lehetõ legkisebb hûtési zaj elérése érdekében Intel Atom N230 processzor került, mellette 2 gigabájt memória teljesít szolgálatot.
+
+
+
+
+A szerver összesen négy darab 3,5 hüvelykes SATA merevlemezt fogadhat, amelyek üzem közben cserélhetõk is. Alapáron csak egy darab 1 terabájtos diszket ad az Acer, a fennmaradó három bõvítõhelyet már a tulajdonosnak kell megtöltenie. A jelenleg piacon elérhetõ legnagyobb kapacitású merevlemezekkel az easyStore akár 7 terabájtig hizlalható. A burkolat eSATA portot és öt darab USB-kaput kínál, a hálózati kábelen
+pedig akár gigabit sebességgel is közlekedhetnek az adatok. Az easyStore kompatibilis a DNLA 1.5 (Digital Living Network Alliance) szabvánnyal, így együttmûködhet a háztartásban található, hálózatra kapcsolt más eszközökkel is.
+
+ A 20,3x17,8x17,8 milliméteres easyStore alapáron mindössze 399 dollárba kerül és kemény ellenfélnek ígérkezik a termékosztályban, amelybe a múlt hónapban küldött a HP is új, Atom proceszoros, windowsos résztvevõt. A szintén 400 dolláros áron kínált HP LX195 1,6 gigahertzes processzort és 1 gigabájtnyi memóriát tartalmaz, oldalán négy USB-port, valamint egy LAN-csatlakozó található.

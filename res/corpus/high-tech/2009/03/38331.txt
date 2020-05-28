@@ -1,0 +1,23 @@
+Másodpercek alatt feltölthetõk a lítiumion akkumulátorok egy új gyártástechnológia révén
+
+A feltalálók szerint forradalmasíthatja az akkumulátorgyártást az a technológia, melyet a Massachusettsi Mûszaki Egyetem (MIT) egyik oktatója fedezett fel néhány kollégájával. 
+
+
+
+Túl lassúak az ionok?
+
+A Nature tudományos magazinban publikált eljárás ezúttal nem nagyobb cellakapacitást ígér, és nincs köze a szakma által többé-kevésbé egyöntetûen az akkumulátorok új generációjának tekintett üzemanyagcellás megoldásokhoz sem. Az új akkumulátor-prototípus elõnye, hogy gyakorlatilag másodpercek alatt feltölthetõ, ráadásul a jól bevált lítiumion technológiára épül, azaz olcsón elõállítható.
+
+A lítiumion akkumulátorok napjaink legelterjedtebb újratölthetõ áramforrásainak számítanak. Lítiumion-cellákból állnak egyebek mellett a noteszgépek vagy más hordozható eszközök (médialejátszók, telefonok, fényképezõgépek stb.) akkumulátorai, de ez a típus teljesít szolgálatot az új típusú hibrid vagy elektromos gépjármûvekben is. Ezek az áramforrások a jelenleg ésszerû keretek közt elérhetõ legnagyobb energiasûrûségû megoldások, feltöltésük azonban kapacitástól függõen hosszú percekig, vagy órákig tarthat.
+
+A lassú töltés okát kutatók eddig az lítiumionok és az elektronok lassú mozgásában látták, Gerbrand Ceder, a MIT egyik kutatója kollégáival karöltve azonban mostani felfedezésével rácáfolt erre az elméletre: a tudósok számítógépes szimuláció segítségével korábban bebizonyították, hogy az elektronoknak és az ionoknak valójában rendkívül gyorsan kellene mozogniuk az akkumulátorok egyik legfõbb alkotóelemének tekintett lítium-vas-foszfátban.
+
+Tempósabban is megy
+
+A kutatók az újabb szimulációs kísérletek során jöttek rá arra, hogy az ionok az anyag szerkezeti felépítése miatt haladnak lassan: az anyag felszínén található mikroszkópikus méretû csatornák mentén sokkal gyorsabban mozognak az elektromos töltéssel rendelkezõ részecskék, mint az anyag belsejében. Ceder és tudóstársai ezért egy olyan struktúrát alkottak, mely ezeknek a csatornáknak a bejáratához irányítja az ionokat. Az így készült cella-prototípust kevesebb mint húsz másodperc alatt teljesen feltöltötték a kísérletek során -- a hagyományos technológiával készült párjánál ugyanehhez hat percre volt szükség.
+
+
+ A technológia további elõnye a gyors feltöltésen túl, hogy ezek az akkumulátorcellák a töltést is jobban tartják mint a hagyományos kialakítású megoldások, melyeket a töltésvesztés miatt rendszerint felül kell méretezni. Ez Ceder és csapata szerint azt jelentheti, hogy a felfedezés révén nemcsak villámgyorsan feltölthetõ, hanem azonos kapacitás mellet a jelenlegieknél kisebb tömegû és méretû akkumulátorok készülhetnének a jövõben.
+ 
+
+Az új eljárás bevezetésére ráadásul nem is kellene sokáig várni, tekintve, hogy a alapvetõen egy már bejáratott, elterjedt gyártási fázisra épül -- a feltaláló úgy véli, hogy az új anyagra épülõ akkumulátorok két-három éven belül piacéretté válhatnak.

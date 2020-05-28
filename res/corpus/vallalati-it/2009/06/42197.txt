@@ -1,0 +1,23 @@
+Frissült a Sun közösségi operációs rendszere
+
+Teljesen új hálózati réteg
+Az OpenSolaris 2009.06 talán legfontosabb újdonsága a Project Crossbow néven fejlesztett hálózatkezelési réteg, amely képes teljesen virtualizálni a hálózati vezérlõket (Ethernet, InfiniBand), ezáltal javítani a teljesítményt és megbízhatóságot. Ahelyett, hogy a meglevõ rendszert foltozgatták volna, a Project Crossbow keretében a virtualizált környezetek igényeinek szem elõtt tartásával az alapoktól újraírták az operációs rendszer hálózatkezelését. Korábban az OpenSolarisban minden hálózati vezérlõ fixen hozzá volt "drótozva" egy processzorhoz vagy virtuális géphez, most ez a korlát megszûnik -- akár egy notebookon belül is létrehozhatók 
+A Crossbow a tetejétõl az aljáig virtualizálja a hálózati szoftver- és hardverréteget, minden virtualizált "csatorna" egyedileg priorizálható és sávszelesség-korlát is rendelhetõ hozzá anélkül, hogy ez bármiféle teljesítményveszteséget jelentene -- állítja a Sun. Az architektúra dinamikusan menedzseli a proritásokat és a rendelkezésre álló sávszélességet. A virtualizáció további elõnye a Sun szerint, hogy a virtuális gépek már a hálózati rétegben is elkülönülnek, így például egy&nbsp; szolgáltatásmegtagadásos (DoS) támadás nem érinti a többi mûködését. A Crossbow-val létrehozott virtuális hálózati vezérlõk szabványos SNMP-eszközökkel monitorozhatók (akár HP OpenView vagy IBM Tivoli).
+Adattárolás, virtualizáció
+
+
+
+Az OpenSolaris 2009.06 jelentõs újdonságokat vonultat fel az adattárolás területén is, amely a ZFS fájlrendszerben végrehajtott fejlesztéseknek köszönhetõ. A legnagyobb dobást a flashmemórián alapulú tárolók (SSD) támogatása jelenti, ezeket az operációs rendszer képes automatikusan kezelni és segítségükkel gyorsítan az írási és olvasási mûveleteket. Az operációs rendszerbe az NFS mellé bekerült a Microsoft-féle CIFS natív támogatása, emellett átdolgozták az iSCSI és Fibre Channel protokollvezérlõket is, amik ennek köszönhetõen gyorsabbak lettek.
+Virtualizáció terén a Solaris Containerek és a Logical Domainek (LDom) mellett az xVM integrációja jelenti az újdonságot. Az xVM a Sun saját, Xen-alapú hypervisora, amely a Solarisban található fejlesztéseket is tartalmaz a nagyobb teljesítmény és megbízhatóság érdekében. A hypervisor többek között a Solarisból ismert öngyógyítást is
+alkalmazza, melynek köszönhetõen például egy meghibásodott
+memóriamodult úgy szigetel el, hogy a virtualizált rendszerek közben
+zavartalanul tovább futhatnak. Az xVM bármilyen, x86-os processzoron futó operációs rendszert képes vendégként futtatni.
+Támogatás is vehetõ
+Fontos újdonság még, hogy az OpenSolaris 2009.06 már SPARC rendszerekre is elérhetõ letölthetõ disztribúció formájában, nem csak forráskódként, a szoftver az UltraSPARC T1 és T2 mellett az UltraSPARC III és annál újabb Sun SPARC processzorokra épülõ szervereken fut, beleértve a Fujitsu SPARC64-alapú rendszereket is, és elméletileg az év végén érkezõ Rockot is támogatja már. Az x86-os világból a legújabb chipek, tehát a Xeon 5500-as sorozat (Nehalem) és az AMD hatmagos Opteronjai (Istanbul) is kompatibilisek már az OpenSolaris-szal.
+A közösségi fejlesztésû OpenSolaris a 2009.06 verzióval a Sun szerint
+elérkezett arra a szintre, hogy akár vállalati környezetben, éles
+üzemben is bevehetõ legyen. Ha valakinek problémája van és támogatásra
+van szüksége, mostantól nem csak a közösség segítségére számíthat,
+hanem közvetlenül a Suntól is vásárolhat támogatást éves elõfizetési
+díjért. Az OpenSolarishoz ugyanazok a támogatási csomagok érhetõk el
+mint a Solarishoz,

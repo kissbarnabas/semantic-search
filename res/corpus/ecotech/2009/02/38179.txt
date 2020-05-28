@@ -1,0 +1,71 @@
+Elõre menekül a Microsoft
+
+A Wall Streeten prezentálta a Microsoft stratégiai elképzeléseit tegnap Steve Ballmer, a vállalat elnök-vezérigazgatója. A cég legfontosabb üzenete, hogy a szorító gazdasági körülmények között is ugyanannyit költ kutatás-fejlesztésre mint korábban, mert hosszú távon csak ez vezethet sikerhez. 
+
+
+
+A válság ellenére sem költ kevesebbet a Microsoft
+
+Pénzügyi elemzõk elõtt tartott beszédében Ballmer elmondta, a Microsoft stratégái alaposan megvizsgálták az 1930-as évek elején történt gazdasági folyamatokat, a vállalatok akkori döntéseit és a késõbbi hatásukat és arra jutottak, a sikerhez vezetõ utat a folyamatos fejlesztés jelenti. "Az RCA, Isten nyugosztalja õket, a mi szerepmodellünk" -- mondta Ballmer arra utalva, hogy a vállalat úgy tudott a tévépiac élére állni, hogy a nehéz idõkben is folyamatosan invesztált.
+
+A Microsoft negyedik negyedéves eredményei némileg gyengébben sikerültek a vártnál, a bevétel alig nõtt, a nyereség visszaesett. A gazdasági körülményekre hivatkozva a Microsoft 5 ezer dolgozó elbocsátását jelentette be annak érdekében, hogy takarékoskodjon a költségekkel. A leépítések fejlesztõket, marketingeseket, pénzügyi, jogi, HR- és informatikai pozíciókat egyaránt érintenek. Tegnapi tájékoztatóján Ballmer elmondta, idén és jövõre 27,5 milliárdos mûködési kiadással számolnak a Microsoftnál, ennél tovább nem csökkentik a költségeket mert az már nem lenne "bölcs".
+
+A 27,5 milliárdos mûködési költségnek közel fele, 14 milliárd dollár értékesítési és marketing-kiadás, 9,5 milliárd dollárt költ kutatás-fejlesztésre a cég, a fennmaradó összeg pedig adminisztrációs költség. A Microsoft elnök-vezérigazgatója felvázolta, melyik üzleti területeken milyen rövid távú tervek várhatók. 
+
+
+
+Windows 7-re várva
+
+Ami az asztali Windowsokat illeti, ezt a területet keményen érinti a gazdasági válság, amely a PC-piacra is kíméletlenül rányomja a bélyegét, ezzel pedig a Microsoft nem tud mit kezdeni -- ismerte be Ballmer. További kihívás, hogy a növekedõ szegmensek (fejlõdõ országok, netbookok) a legkisebb nyereséget termelõ területek, amelyek ráadásul a kalózkodásnak is leginkább ki vannak téve. Ettõl függetlenül a Windows egyeduralmát nem veszélyezteti semmi rövid távon, Ballmer véleménye szerint a Windows legveszélyesebb piaci ellenfele a Windows kalózváltozata, ami "egy pokolian jó termék nagyon kedvezõ áron". 
+
+
+
+A közeljövõ fontos kérdése, hogy a Windows 7 vajon hogyan teljesít majd a netbookokon, ugyanis pont ez a terület az, amely meghozhatja a Linuxnak a régóta várt áttörést asztali környezetben. Éppen ezért a Microsoft saját védelmében nagy figyelmet fordít a netbookokra, a vállalat saját adatai szerint a gépek mintegy 90 százalékát Windowszal adják már el. 
+ A Windows 7-nek ugyan nincs kimondottan az olcsó mobil gépekhez szabott változata, a redmondiak szerint bármelyik verzió megfelelõen fut rajtuk. Kulcsfontosságú lesz, hogy a netbook-felhasználókat a Microsoft meg tudja gyõzni a drágább szoftververziók megvásárlásáról, ezzel növelheti nyereségességét.
+
+A redmondiak vezére elismerte, az Apple és a Linux is növelni tudta desktoppiaci részesedését, azonban az a pár százalékpontos bõvülés valójában nem jelent olyan drámai változást, mint ahogy azt sokan gondolják (az Apple PC-piaci részesedése továbbra is 10% alatti). A Google-ra viszont egyértelmû veszélyforrásként tekintenek Redmonban, Ballmer szerint hosszú távon potens versenytárs lehet az Android révén, amely mobiltelefonok mellett netbookokon is megjelenhet.
+
+Ballmer külön beszélt az Internet Explorer helyzetérõl, amely az utóbbi idõben felhasználókat veszít a Firefoxszal, a Chrome-mal és a Safarival szemben. A Microsoft vezére leszögezte, a böngészõpiaci részesedés igenis fontos, a böngészõ az operációs rendszer egyik kulcsfontosságú szolgáltatása és a Microsoftnak még rengeteget kell dolgoznia ezen a területen.
+
+Nehéz, de nem reménytelen a Windows Mobile helyzete
+
+A Windows mobil változata nehéz helyzetben van, ugyanis csak a harmadik legnépszerûbb platform a Symbian és a Blackberry OS mögött. A gazdasági válság a mobilok piacát sem hagyja érintetlenül, ugyanakkor látszik, hogy az eladások egyre inkább eltolódnak az okostelefonok irányába. Ballmer szerint a fogyasztói piacon a legnagyobb hírverés egyértelmûen az Apple-t és a Research In Motiont övezi, de a szolgáltatóknál a Windows Mobile egyre jobb pozíciókat harcol ki.
+
+[+] Fellebbent a fátyol a Windows Mobile 6.5-rõl
+
+A Microsoft-vezér ismét hangsúlyozta, hogy nem kíván saját telefonnal piacra lépni a Microsoft, a cég stratégiájának középpontja a szoftver eladása más gyártók készülékén, ugyanis így érhetõ el a legtöbb felhasználó -- lényegében ugyanezt teszi a Google is az Androiddal. A Windows asztali és mobil változata egyre több közös komponenssel rendelkezik, ami egyszerûsíti az integrációt és a szoftverek fejlesztését is. A cég nemrég jelentette be a Windows Mobile 6.5-öt, jövõre pedig várható a Windows Mobile 7 -- emlékeztetett Ballmer.
+
+Jól fogy az Office, de a SharePoint az igazán nagy dobás
+
+A redmondi vállalat fejõstehene egyértelmûen az Office, az irodai csomagnak lényegében nincs életképes kihívója, a sok médiafigyelmet kapó OpenOffice.org vagy akár a Google-féle Apps sem jelentõs piaci szereplõ ma még -- vélekedett Ballmer. A Microsoft számára az Office-ból és SharePointból álló irodai platform nem csak a legnagyobb nyereségtermelõ, hanem egyben a legnagyobb költséghely is, a kiadások több mint negyedét, évi 7,6 milliárd dollárt emészt fel.
+
+Az Office mögött a második legnépszerûbb irodai csomag az Office kalózváltozata -- mondta Ballmer. A tavaly piacra dobott és rendkívül kedvezményes áron kínált Otthoni és iskolai verzió megjelenése egyértelmûen felpörgette az eladásokat, az alacsony árat bõven ellensúlyozták a darabszámok, persze a nyereség zömét a vállalati telepítések hozzák, mivel ezekhez további kiegészítõket lehet eladni (pl. ForeFront, SharePoint, Exchange). 
+
+[+] 2010-ben jöhet az új Microsoft Office 
+
+A hosztolt szolgáltatásként értékesített alkalmazások (Exchange, SharePoint) iránti érdeklõdés nagyon gyorsan nõ, de még mindig csak kezdeti szakaszban tart, magyarázta Ballmer, ezért egyelõre még a Microsoft is vizsgálja, miként lehet ebbõl a területbõl a lehetõ legjobban profitálni. A jövõ legfontosabb kihívását az olyan újdonságok eladása jelenti mint a biztonsági és azonosságkezelési termékek, a következõ generációs csoportmunka-eszközök, portálok és konferencia-megoldások (Unified Communications).
+
+Bevétel és kiadás szempontjából is jelentõs terület a vállalati szoftvereké, ide csoportosul a Microsoft kiadásainak 10 százaléka. A recesszió miatt a cégek informatikai büdzséjébõl most nemigen jut forrás új fejlesztésekre, így a közeljövõben nem várható az eladások jelentõs felfutása -- ismerte be Ballmer. A piacon a legforróbb terület az üzleti intelligencia, amelyet a Microsoft több oldalról is lefed, akár az új SQL Serverbe integrált képességekkel, akár az Office-szal és a SharePointtal.
+
+Irány a cloud!
+
+A szerverszoftverek szintén jelentõs nyereségtermelõ képességgel bírnak annak ellenére, hogy a Microsoft viszonylag friss szereplõ ezen a piacon, de a Windows Server, illetve a köré épített infrastruktúra pár év alatt a piac élére katapultálta. Ez a terület viszonylag kevéssé volatilis, ugyanis az szerverszoftverek kétharmadát hosszú távú szerzõdés keretében értékesíti a Microsoft, vagyis az eladások követik szorosan a hardverpiac változásait, persze a depresszió itt is érezhetõ. A Linux potens piaci ellenfél, leginkább a webes rétegben, illetve a tudományos-mûszaki világban -- szögezte le Ballmer.
+
+
+ A szerverek területén a közeljövõben várható nagy durranás a Windows 7-tel együtt érkezõ Windows Server 2008 R2, illetve a System Center felügyeleti családban várható új komponensek. Az év végén érkezik egy vadonatúj változat a Windows Serverbõl Foundation Edition néven, ez egy kimondottan olcsó, ámde korlátozott funkcionalitású verzió, amelyrõl konkrét részleteket a jövõben árul el a cég.
+
+[+] Windows Azure néven érkezik a Microsoft cloud-platformja 
+
+Az év végére valószínûleg kereskedelmi fázisba lép a Microsoft cloud-platformja, az Azure. Ez egyértelmûen fókuszterület a vállalat számára, a fejlesztésekre szánt összegeket megduplázza a cég -- jelentette be tegnap Ballmer. Az Azure lehetõvé teszi a felhasználók számára, hogy lényegében bármilyen adatukat bárhonnan, bármilyen eszközrõl elérjék. Az Azure lehetõvé teszi a vállalatok számára, hogy egyszerûsítsék informatikai infrastruktúrájukat és alkalmazásaikat lényegében a végtelenségig skálázzák. És az Azure lehetõvé teszi a Microsoft számára, hogy gyakorlatilag az összes szoftverét a felhõbe vigye és azokat webes szolgáltatásként kínálja akár elõfizetési díjért, akár ingyen, reklámokkal támogatva.
+
+Elkeseredett harc a Google ellen
+
+Persze a Microsoft számára is van olyan terület, ahol látszólag semmi sem sikerül, ez pedig a webes hirdetés, amely egy gigantikus pénznyelõ. A cég minden évben dollármilliárdokat öl ebbe a területbe, de láthatóan nem tud javítani helyzetén és egyelõre esélye sincs utolérni a fénysebességgel mozgó Google-t. Ballmer tegnapi beszédében elmondta, a cégnek nincs más választása mint folyamatosan versenyezni, mert ha valaki egyszer feladja, akkor soha többé nem tud már visszakapaszkodni.
+
+
+
+A Microsoft ezért a maga részérõl megteszi ami megtehetõ, hat-kilenc havonta frissíti a keresõmotort, dolgoznak a találatok relevanciájának javításán. A cég az utóbbi idõben több vezetõ munkatársat tudott elcsábítani a Yahoo-tól, szorosabb együttmûködésrõl vagy más megállapodásról azonban egyelõre nincs szó, mivel Ballmer még nem találkozott hivatalosan a Yahoo új vezérével, Carol Bartz-cal. A Microsoft-vezér mindenképp szeretne valamiképp összefogni a Yahoo-val a Google ellen.
+
+Minden képernyõn ott lesz a Microsoft
+
+Végül de nem utolsósorban a Microsoft jelen van a szórakoztatás területén. Ballmer tegnapi elõadásában hangsúlyozta, hogy errõl mindenkinek az Xbox jut az eszébe, valójában a cél éppen az, hogy ne az Xbox jusson feltétlen az emberek eszébe. "Az igazi lehetõség abban rejlik, ha van egy eszköz minden tévé mellett" -- magyarázta a vezér. "Összekapcsolhatsz a tévével egy PC-t, ez a Media Center koncepció. Odatehetsz egy konzolt, ez az Xbox. Odatehetsz egy set-top boxot, ez a Media Room koncepció. Lehetnek olyan új berendezések amelyeket mi vagy mások tervezünk, amelyek szintén szerepelhetnek az egyenletben."

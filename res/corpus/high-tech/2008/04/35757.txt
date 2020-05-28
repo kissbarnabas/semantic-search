@@ -1,0 +1,25 @@
+Hamarosan piacon a HP régóta várt ultrahordozható noteszgépe
+
+Oldalunkon több híradás foglalkozott már a HP legújabb ultrahordozható noteszgépével, amelyeket most a HP hivatalos bejelentése során közölt adatokkal, valamint a korábbi négyrõl öt különbözõ változatra duzzadt modellpaletta ismertetésével egészítünk ki.
+
+
+
+A HP weboldalán elérhetõvé tette a legújabb, HP Compaq 2133 modellszámmal ellátott ultrahordozható noteszgépének specifikációit, a PC-k a mai naptól nem kevesebb mint öt különbözõ változatban rendelhetõk meg 500 és 850 dollár közötti árakon. A parányi számítógép a kilenc hüvelykes nagyfelbontású kijelzõjével megmutatja, hogy az olcsóbb, Eee PC által teremtett kategóriának legtetején lehet minõségi anyagokból, kompromisszummentes gépet is alkotni, és szinte biztosra vehetõ, hogy a 2133 nem kevés Eee-rajongót pártoltat majd át magához. A HP nem titkoltan vette célba a közoktatás területét, fontos jellemzõként számontartva, hogy a 2133 a legtöbb matematika tankönyvnél könnyebb.
+
+
+
+A korábban kiszivárgott négy változat mellé egy ötödik is felsorakozott,  mindegyikükben VIA C7M ULV alacsony fogyasztású processzor felel a számításokért, mely modelltõl függõen 1, 1,2 és 1,6 gigahertz frekvencián üzemelhet. A háttértároló 120, vagy 160 gigabájtos, hagyományos, rázkódásvédelemmel felvértezett merevlemez, vagy a mai 32, vagy 64 gigabájtos SSD-átlagtól jelentõsen elmaradó, inkább Eee PC-féle 4 gigabájtos flash meghajtó lehet.
+
+A VIA nem csak a processzort adja az 1,27 kilogrammos gépbe, hanem a komplett VIA 896 lapkakészletet is, amelynek része a Chrome 9 videochip is, mely a karcálló bevonattal ellátott, szélesvásznú, 1280x768 képpontos kijelzõn kívül akár 2048x1536 képpontos felbontásig is képes kezelni a külsõ monitorokat, melyek hagyományos VGA csatlakozón keresztül kapcsolhatók a géphez.
+
+
+
+A 255x165x27 milliméteres méretû HP Compaq 2133 anodizált alumíniumházán két USB 2.0 port, egy sztereó mikrofonbemenet és egy fülhallgató-kimenet is helyet kapott, de sztereó hangszóróval és mikrofonnal a 2133 egyébként is rendelkezik, helyet nekik a tervezõk a kijelzõ kávájában találtak. A notesz rendelhetõ VGA felbontású webkamerával is, amellyel aztán teljessé válhat a kapcsolattartás eszköztára.
+
+A 2133 az internetet gigabit sebességre is alkalmas vezetékes és 802.11 a/b/g vezeték nélküli hálózatokra kapcsolódva is elérheti, ha mobil szélessávon szeretnénk netezni, azt az 54 milliméteres ExpressCard kártyahelybe illeszthetõ HSDPA adatkártyákkal tehetjük. E bõvítõrés alatt megtalálható egy SD kártyahely is. A notesz áramellátásáért kétféle, egy 28 wattórás háromcellás, és egy 55 wattórás hatcellás akkumulátor felel. E két akkuváltozatot egy kicsi, a notesz méreteivel harmonizáló tápegység tölti.
+
+
+
+A legjobban felszerelt modell természetesen a legdrágább is egyben, de érdekes módon nem ebbe került a legnagyobb teljesítményû processzor. A 849 dolláros, Bluetooth modullal kiegészített 2133 KX871AA csúcsmodell Windows Vista Home Basic operációs rendszert futtat egy gigabájt memórával megtámogatott 1,2 gigahertzes processzoron, melléjük 160 gigabájtos háttértár szegõdik. A száz dollárral olcsóbb KX870AT-ben kisebb, 120 gigabájtos háttértárat, azonban két  gigabájt memóriát és 1,6 gigahertzes processzort találhatunk, operációs rendszere pedig a Vista Business. E két modellhez a hatcellás akkumulátort párosította a gyártó.
+
+Újabb 150 dolláros engedmény árán a Vista Home Basic változatot futtató KX868AT-t vehetjük meg, mely a legerõsebb változattól a Bluetooth adóvevõ hiányán túl a 120 gigabájtos merevlemezével és háromcellás, nagyjából 2 óra 20 percnyi üzemet kínáló akkumulátorával tér el. További 50 dollár mínusz eredménye a KX869AT, amelynek 549 dolláros ára a SUSE Linux Enterprise Desktop 10 operációs rendszernek köszönhetõ. A legkedvezõbb árú termék a modellszámában a többitõl jelentõsen eltérõ, 499 dolláros KR922UT a legkevesebbet is adja, processzora 1 gigahertzen fut, a SUSE Linux Enterprise Desktop 10 512 megabájt memóriával és négy gigabájtnyi flash tárolóval gazdálkodhat.

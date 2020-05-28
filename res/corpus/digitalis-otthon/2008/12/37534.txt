@@ -1,0 +1,62 @@
+Kipróbáltuk: Fujitsu Siemens AMILO GraphicBooster, a dokkolható videokártya
+
+Lapunk hasábjain az utóbbi években viszonylag ritkán írtunk kifejezetten játékokra optimalizált hardverekrõl, miközben a  játékfelhasználásra szánt PC-k a konzolok és a noteszgépek elõretörésének köszönhetõen folyamatosan teret vesztettek. Ám egy komoly üzletembernek is kedve szottyanhat olykor egy kis játékra, ráadásul máig vannak olyan játékmûfajok, melyek továbbra is kizárólag a PC-s közönség számára érhetõk el.
+
+
+
+Ahogy napjainkban egyre többen cserélik le asztali számítógépeiket noteszgépekre, ez a dilemma egyre élénkebben kerül elõ újra és újra a vásárlás során. Biztosan kijelenthetõ, hogy egy hordozható számítógép fizikai felépítésébõl adódóan sokkal kevésbé alkalmas a játékprogramok futtatásához elengedhetetlenül szükséges nagy teljesítményû komponensek befogadására, mûködtetésére, mint egy asztali számítógép.
+
+A hiányzó láncszem
+
+A processzorok sebességével általában kevésbé akad probléma ilyen esetben, hiszen a modern Core 2 Duo mobil CPU-k, vagy az AMD Turion X2-i komoly számítási teljesítményre képesek, a grafikus feldolgozóegység -- mely ma egy komoly, háromdimenziós számításokra kihegyezett PC legösszetettebb, legnagyobb teljesítményû komponense -- azonban tetemes fogyasztása és hõleadása miatt többnyire kompromisszumra készteti a mérnököket.
+
+
+
+A Fujitsu Siemensnél tehát rájöttek arra, hogy a notebook tulajdonosa nem feltétlenül óhajt menet közben, egy olyan kijelzõn és beviteli felületen FPS-meccseket vívni, melyeket nem erre a célra rendszeresítettek, tehát nem kell mindenáron bivalyerõs 3D-gyorsítót építeni a gépbe. Így született meg az AMILO GraphicBooster, mely jelenleg egyetlen notebook-típussal, az AMD-alapú AMILO SA 3650-nel kompatibilis.
+
+A hatalmas méretû, legalább négykilós, 17 hüvelykes kijelzõvel ellátott, noteszgépeknek csúfolt monstrumokhoz képest sokkal ésszerûbb választásnak tûnik a Fujistu Siemens megoldása, mely természetesen továbbra is kompromisszumokra késztet, ugyanakkor pár lépéssel közelebb áll a tökéletességhez. Az ötlet persze nem teljesen új, pusztán a koncepció alapján: a grafikus processzort egy külsõ házba kell pakolni, a notebook így könnyebb és vékonyabb lehet az alap integrált grafikával, de ha kell, otthon várja a gépet a Need for Speed Undercover, vagy a Crysis, nagy kijelzõvel, klaviatúrával, egérrel. A kecske is jóllakik és a káposzta is megmarad.
+
+Van benne erõ
+
+Az AMILO GraphicBooster nem más, mint egy külsõ házba pakolt, nagy teljesítményû videokártya, dedikált hûtéssel, tápegységgel és saját kimenetekkel. A nagyjából tenyérnyi méretû, dizájnos házba az AMD ma kapható legnagyobb teljesítményû mobil grafikus chipjét építette a Fujitsu Siemens: a fekete-fehér burkolat alatt egy Mobility Radeon HD 3870 lapka lapul 512 MB GDDR3 memória társaságában.
+
+Az M88 kódnevû, 55 nanométeres gyártástechnológiával készült chip felépítését tekintve teljesen megegyezik az asztali leszármazottal (a közel hétszázmillió tranzisztorból felépülõ, DirectX 10.1-kompatibilis chip 320 egységesített shadert és 160 pixel futószalagot tartalmaz), egyedül az órajelek alacsonyabbak: a mag "csupán" 650 MHz-en ketyeg, a memória IC-k pedig 1 GHz-en dolgoznak. A GraphicBooster egy speciális kábelen keresztül, PCI Express x8 összeköttetéssel kommunikál a számítógéppel -- ez ugyan lassabb mint a beépített megoldások PCI Express x16 linkje, a gyakorlatban nem fogja vissza a teljesítményt.
+
+A GraphicBoosternek természetesen saját tápegységre van szüksége a mûködéshez, a Fujitsu Siemens egy 90 wattos, a noteszgépek töltõjével  egyezõ kinézetû és felépítésû példányt csomagol a külsõ doboz mellé. Az adatlap szerint a grafikus adapter minimum 18, maximum 56 wattot fogyaszt (képzeljük el, ha ezt a notebook tápjáról, vagy akkumulátoráról kéne pluszban felvenni, nem beszélve a tetemes hõleadásról!). A dobozra két digitális kimenet is került, egy HDMI- és egy DVI-aljzat található az egyik oldalon, de van két USB-kapu is, ide leginkább billentyûzetet és egeret érdemes csatlakoztatni.
+
+
+
+A Fujitsu Siemens AMILO SA 3650 a GraphicBooster hû társa, jelenleg ez az egyetlen olyan noteszgép, melynek az oldalán megtalálható az a speciális csatlakozó, mely összeköttetést teremt a külsõ videokártya és az alapgép közt. Ez a notebook már a német-japán gyártó új dizájnkoncepciója szerint készült, mely kontrasztos, fekete-fehér színvilágot és határozott, szögletes vonalvezetést hozott. Kétségtelenül érdekesebb, mint az unalmas szürke masinák, bár azt azért nem mondanánk rá, hogy az ipari formatervezés csúcsát jelenti.
+
+Az AMILO SA 3650 13,3 hüvelykes, WXGA (1280x800 pixeles) felbontású TFT-vel szerelt noteszgép, ez pedig meghatározza a számítógép méreteit és tömegét is. Az akkumulátorral együtt nagyjából 2,4 kilogrammot nyomó notebook ugyan valamivel nehezebb a kategória átlagánál, de még mindig könnyebb és kisebb, mint a legtöbb 15,4-es gép, azaz hosszútávon biztosan kevesebb terhet fog jelenteni a hordozása.
+
+
+
+Bár elsõ ránézésre masszívnak és erõsnek látszik (a legvékonyabb pontján is 3,6 centiméter a vastagsága), sajnos a konstrukció több helyen is kifejezetten gyengének mutatkozik, így például a bekapcsológombnál és a tapipad gombjainál az egész kasztni hajlamos benyomódni kicsit nagyobb erõkifejtésre. Az anyag biztosan nem fog eltörni, ettõl függetlenül nem túl bizalomgerjesztõ jelenség. A portokat tekintve az AMILO SA 3650 ma már átlagos felhozatalt nyújt; a gép oldalaira három USB-kapu (ebbõl egy kombinált E-SATA és USB), egy FireWire-csatoló, egy DVI-kiement és egy LAN-csatlakozó került. Az optikai meghajtó slot-in rendszerû, azaz tálca nélküli mechanikát alkalmaz.
+
+
+
+A gép lelkét az AMD jelenlegi leggyorsabb mobil processzora, a 2,4 GHz-es, 2 megabájt másodszintû gyorsítótárral ellátott Turion X2 ZM-86 adja, melynek teljesítménye noteszgép-viszonylatban átlag feletti, az asztali gépek mezõnyében azonban legfeljebb átlagos lehet. A lapka cserébe beéri 35 wattnyi teljesíményfelvétellel, ami persze így is komoly fogyasztást és hõleadást jelent a gép hûtése ezért jól hallhatóan dolgozik terhelésnél, a burkolat pedig hajlamos átforrósodni, különösen a tenyértámasz környékén.
+
+A processzort összesen 4 gigabájtnyi DDR2-800-as memória szolgálja ki, melybõl a 32 bites Windows Vista Ultimate mindössze 2,2 gigabájtot lát abban az esetben, ha a GraphicBooster is csatlakozik a géphez. Az alaplapi lapkakészlet az AMD RS780M-SB700 párosból áll, melybõl elõbbi tartalmaz egy integrált megoldásokhoz képest meglehetõsen erõsnek számító grafikus magot is (Radeon HD 3200).
+
+
+
+
+A GraphicBooster és az integrált grafikus mag összesen négy kijelzõt tud meghajtani (beleértve a notebook TFT-jét), csatlakoztatáskor a Windows Vista kezelõpaneljében eldönthetõ, hogy melyiket szeretné a felhasználó alapértelmezettként kezelni -- az így létrehozott profilok a játékprogramok futtatását is egyszerûbbé teszik. A szettet három játékkal próbáltuk ki, és bár végeztünk képfrissítési méréseket, elsõsorban arra figyeltünk, hogy az adott játék az adott felbontásban megfelelõ élményt, azaz folyamatos képfrissítést ad-e.
+
+Az Unreal Tournament III viszonylag régebbi játék lévén a kijelzõ natív felbontásában még az integrált grafikus gyorsítóval is szépen futott, a GraphicBoosterrel pedig még 1680x1050 pixeles felbontásban, szûrõkkel sem volt gond. A szintén nem mai gyerek Gears of War már natív felbontásban, részletes grafikai beállításokkal és szûrõk nélkül is megizzasztotta az IGP-t, a külsõ vezérlõvel azonban soha nem ment a másodpercenkénti képkockaszám 27 alá, akárcsak a Tomb Raider Underworld demója esetében -- a szûk keresztmetszetet mindkét játéknál, több beállítás esetén is a processzor jelentette.
+
+Van benne ráció
+
+Az AMILO SA 3650 és a GraphicBooster tapasztalataink szerint ötletes kompromisszumos megoldás, jó példa arra, hogy -- kis trükkel -- a játékra használt noteszgép is lehet mobilis, könnyû és viszonylag kicsi. A megvalósításhoz alapvetõen a notebookokhoz elterjedt dokkolók adták az ötletet, de volt már hasonló -- meglehetõsen visszafogott fogadtatásban részesült -- megoldás a piacon (ASUS XG Station).
+
+A Fujitsu Siemens szerint a rendszer legnagyobb elõnye, hogy ha a GraphicBooster ereje idõvel kevésnek bizonyulna, elég csak a külsõ dobozt cserélni, a notebookot nem kell bõvíteni -- szerintünk itt azért tátong némi rés a pajzson, az újabb játékok ugyanis többnyire nem csak az erõsebb grafikus processzort, hanem a gyorsabb központi feldolgozóegységet is megkövetelik, a CPU-t márpedig az AMILO SA 3650-ben sem lehet kicserélni. Talán még elegánsabb -- és olcsóbb -- megoldás lenne, ha a GraphicBooster csak egy külsõ doboz lenne, amelybe a vásárló maga illeszthetne tetszõleges, asztali gépekbe passzoló, PCI Express felületû videokártyát a fix MXM-modul helyett.
+
+A hazai piacra egy a tesztgépnél valamivel szerényebb kiépítésû; 2,1 GHz-es Turion X2 ZM-80-as processzoros, 2 gigabájt memóriával és 250 gigabájtos merevlemezzel szerelt (a tesztgépben egy 320 GB-os HDD dolgozott) típus kerül az AMILO SA 3650-bõl. A gép várhatóan januárban kerülhet a boltokba, 280 ezer forintos bruttó fogyasztói áron (ez az összeg tartalmazza a GraphicBoostert is).
+
+A Fujitsu Siemens AMILO GraphicBoostert és az AMILO SA 3650-es noteszgépet a gyártó hazai képviseletétõl kaptuk kölcsön
+
+Véleménye van?
+Szóljon hozzá a fórumban
+írjon szerkesztõségünknek!

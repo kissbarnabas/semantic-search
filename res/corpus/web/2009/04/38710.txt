@@ -1,0 +1,16 @@
+A Facebook és a Twitter keveréke a Microsoft új közösségi szolgáltatása, a Vine
+
+Akikkel törõdsz
+
+A Microsoft saját maga a következõképp írja le a szolgáltatást: "Maradj kapcsolatban a családoddal és a barátaiddal, értesülj róla, ha valakinek segítségre van szüksége, akivel törõdsz. Kiválaszthatod, hogy kik és milyen helyek érdekelnek leginkább. Használj riasztásokat, jelentéseket és a személyes dashboard-ot, hogy képben legyél."
+
+
+ A felhasználók kiválaszthatnak helyeket és személyeket, s a velük kapcsolatos információk megjelennek majd a személyes térképen, a személyes kommunikáció pedig kiegészül 20 ezer professzionális és közösségi hírforrással, kezdve a helyi lapoktól az országosokig. A Microsoft többi webes szolgáltatásához hasonlóan itt is az Egyesült Államok a kizárólagos fókusz, így például az idõjárással kapcsolatos értesítések is csak a tengerentúlon mûködnek majd -- egyelõre regisztrációkat is csak az USA-ból fogadnak.
+
+A Vine a felhasználók ismerõseit úgy nevezi, "emberek, akikkel törõdsz", ami érezhetõen mást jelent mint a Twitter esetében, ahol "emberek, akiket követsz" a kategória neve. A Vine elsõdleges célkitûzése, hogy a kisebb magáncsoportok kezelhetõek legyenek, egyfajta fórumként vagy levelezõlistaként, kiegészülve a mobil és a helyfüggõ alkalmazások nyújtotta elõnyökkel. A Vine persze képes kommunikálni a Twitterrel és a Facebookkal is, nem akarja elvágni a külvilágtól felhasználóit, sõt, támogatja az e-mailt, mobilt és vezetékes telefont is, mint kiegészítõ csatornákat.
+
+Kliens
+
+A Vine konkurenseivel szemben kliens-alapú, amihez a .NET keretrendszer 3.5 SP1-es változatára is szükség van. A "társadalmi szolgáltatás" tehát a mai naptól béta idõszakát éli, s feltételezhetõen egy hónap múlva akár az éles mûködés is elindulhat. Onnantól kezdve az lesz a kérdés, hogy a lendületben lévõ, de kissé zsúfolt piacon elfér-e még egy szereplõ. A felhasználói bázissal viszont nem lesz gond, hiszen a Vine-hoz is elegendõ lesz a Live ID, amivel a sokmillió Live Messenger-felhasználó egyébként is rendelkezik.
+
+Az eredetileg a Windows Live csapat által fejleszteni kezdett Vine már jó ideje hánykolódik a Microsoft ötletárában, tavaly nyáron olyan feltételezések is napvilágot láttak, hogy végleg eltûnik a színrõl. Kiderült viszont, hogy valójában a Live fejlesztõktõl csupán átkerült a Microsoft Start Up Business Accelerator csoportjába, s Craig Mundie, a cég vezetõ kutatási és stratégiai vezetõje vállalta a bábáskodást a projekt felett. A Vine ötletét egyébként a Katrina hurrikán adta, a pusztítás után nagy szükség volt egy olyan szolgáltatásra, amelyet használva az emberek hírt adhattak magukról vagy megkereshették szeretteiket.

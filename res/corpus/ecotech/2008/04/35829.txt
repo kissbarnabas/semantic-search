@@ -1,0 +1,29 @@
+Rossz évkezdést követõen radikális változások elé néz az AMD
+
+Rosszul kezdte az évet az AMD. A világ második számú processzorgyártója az elsõ negyedév során minden termékszegmensében gyengébben teljesített a várakozásoknál, így újabb súlyos veszteségeket szenvedett el, de továbbra sem  tett le arról, hogy az év második felére nyereségesen mûködjön. A harmatos teljesítmény okaként a vállalat többek között a gyenge gazdasági körülményeket is megjelölte, ennek azonban élesen ellentmondani látszik az Intel történelmi rekordot jelentõ elsõ negyedéve -- a rivális ráadásul méretébõl fakadóan sokkal érzékenyebb a makrogazdasági környezet állapotára. Az AMD vezetõsége gõzerõvel dolgozik azon, hogy költséghatékonyabbá tegye a vállalatot.
+
+
+
+AMD: rosszul indult az év, de majd jobb lesz
+
+"2008 elsõ negyedéve nehéz évkezdés volt az AMD számára" -- kezdte Robert J. Rivet pénzügyi vezérigazgató a tegnapi konferenciahívást. Rivet szerint a gyenge szezonális hatást felerõsítették a globális gazdasági környezet kihívásai, és az elõzõ generációs termékeik iránt gyengülõ kereslet. "Minden üzleti szegmensünkben a várakozásoknál alacsonyabb forgalmat tapasztaltunk" -- árulta el Rivet. A tõzsde már láthatóan beárazta a negatív mutatókat, sõt a folyamatban lévõ átszervezések beígért eredményeinek hatására láthatóan még erõsödtek is a cég papírjai.
+
+A vállalat mindössze 1,5 milliárd dollár árbevételt ért el 2008 elsõ három hónapja során, vesztesége pedig 358 millió dollárra rúgott, melybõl 50 millió dollárt az ATI felvásárlása kapcsán könyvelt el. Jelenlegi formájában mintegy 2 milliárd dolláros árbevételre lenne szüksége az AMD-nek, hogy stabilan nyereségesen tudjon mûködni, de ez a küszöb a nemrég bejelentett átstrukturálásokkal több százmillió dollárral csökkenhet -- a cél a 1,5 milliárd dolláros szint. Éves összehasonlításban bár javultak a vállalat mutatói, ezt inkább az egy évvel korábbi gyászos produkció magyarázza, semmint valós javulás. 
+
+Rivet ugyanakkor bizakodását fejezte ki a jelenleg felfutásban lévõ, illetve az év során piacra kerülõ új termékeik fogadtatásával kapcsolatban: az AMD továbbra is elkötelezett az irányban, hogy az év második felében üzemi szinten nyereséget tudjon majd felmutatni. Az AMD nyereségességét nagymértékben javíthatja a 45 nanométeres gyártástechnológia bevezetése, ugyanakkor a jelenlegi 2008-as termékterveken egyetlen 45 nanométeres kétmagos chip sem szerepel, mely a volumen gerincét képezi. Rivet és Dirk Meyer operatív vezér elmondása szerint nyáron beindulhat a kereskedelmi termelés a 45 nanométeres gyártástechnológián, ugyanis addigra megfelelõen éretté válik az eljárás, míg a tömeges szállítások negyedik negyedévre esnek majd.
+
+
+Rivet megerõsítette, hogy a jelenleg folyó második negyedévben jelenik meg a Puma notebook platform, valamint elmondta, hogy a HP-tól és a Delltõl már hozzáférhetõek a négymagos Opteronokkal szerelt szerverek, és a második negyedév során újabb vezetõ szerverszállító csatlakozik a csapathoz, mely vélhetõen a Sun Microsystems. A Barcelona szállításai várhatóan már látható nyomot hagynak a cég második negyedéves pénzügyi teljesítményén. 
+
+Az elsõ negyedév során 1,2 milliárd dolláros forgalmat generált a processzorokért és chipsetekért felelõs részleg, mûködési vesztesége pedig 160 millió dollárt tett ki. A grafikus chipekért felelõs részleg 230 millió dollár forgalmat generált 11 millió dollár veszteség mellett, ami éves összehasonlításban javuló teljesítményt jelent ugyan, ugyanakkor jól jelzi, mennyire leszakadt az ex-ATI csapat az NVIDIA-tól.
+
+Radikális lépésekre van szükség
+
+Az ATI 5,4 milliárd dollár értékû felvásárlásakor az AMD számos, processzorpiaci versenyképességét nem szolgáló tevékenységre is szert tett, így konzumelektronikai eszközökben (televíziók, DVR, mobiltelefonok) alkalmazott beágyazott multimédiás chipek fejlesztésére és értékesítésére, de saját kutatás-fejlesztési költéseinek terítésére egyedi grafikus chip tervezését is vállalta a Microsoft Xbox 360 konzol számára. Mint azt a HWSW elemzése a felvásárlás bejelentésekor jelezte, ezek a stratégiailag nem kritikus tevékenységek az Intellel folytatott harc során könnyen áldozatul eshetnek: Hector Ruiz elnök-vezérigazgató a tegnapi konferenciahíváson közölte, amennyiben nem válnak nyereségessé, az AMD kilép ezekrõl a területekrõl.
+
+
+[+] Kontra: az AMD-ATI fúzió közelebbrõl
+
+"Üzleti környezetünk megváltozott a tavalyi év második fele óta, mikor  [nem stratégiai jelentõségû tevékenységeink] egy részét a növekedés profitabilitás pályáján láttunk [...] Alaposan meg kell vizsgálnunk minden tevékenységünket annak érdekében, hogy biztosítsuk, a középpontban lévõ x86-os és grafikus termékeink egészséges úton haladnak a vezetõ szerep és nyereségesség felé. Szintén alapos vizsgálat alá kell vetnünk az alaptevékenységhez nem tartozó üzlet területeinket és újraértékelni stratégiai illeszkedésüket terveinkhez, és a növekedési és nyereségességi pályájukat. Ezek hiányában ki fogunk vonulni ezekrõl a területekrõl" -- fektette le Ruiz. 
+
+Bár részleteket továbbra sem árult el, Ruiz megerõsítette, hogy dolgoznak a már korábban bejelentett stratégiai váltáson, mely az AMD mûködésének tõkeintenzitását hivatott csökkenteni, javítva a vállalat jövõbeni pénzügyi túlélõképességét. Az Intellel szemben az AMD láthatóan képtelen fenntartható módon felvenni a versenyt a félvezetõipari beruházások terén, melyek hatalmas pénzügyi terhet jelentenek a vállalat számára, így a Ruiz által meghirdetett "asset light" vagy "asset smart" minden bizonnyal egy olyan új mûködési modellt takar, ahol az AMD legalább részben megszabadul félvezetõüzemeitõl. Ruiz ígérete szerint a közeljövõben fellebbenthetik a fátylat elképzeléseikrõl, mellyel egyidõben további radikális átszervezések várhatóak a cégnél.

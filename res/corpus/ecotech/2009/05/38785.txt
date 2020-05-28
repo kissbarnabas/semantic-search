@@ -1,0 +1,15 @@
+A vártnál jobb lett az NVIDIA elsõ negyedéve
+
+Csupán 664 millió dolláros forgalmat ért el az április 26-án zárult elsõ pénzügyi negyedévben az NVIDIA, ez éves összevetésben 42 százalékos csökkenést jelent, de szekvenciálisan már 38 százalékos bõvülést. A vállalat és a piac korábban arra számított, a bevétel negyedéves összevetésben nem változik. Az olcsóbb termékek elõtérbe kerülése (a bruttó eredményhányad 30 százalék alá zuhant) és egy részvényopciókkal kapcsolatos egyszeri költség miatt az NVIDIA 201 millió dolláros nettó veszteséggel zárta az elsõ negyedévet, szemben a tavalyi 176 milliós profittal.
+
+A vállalat igen nehéz helyzetben volt, egy évvel korábban ugyanis történetének legjobb elsõ negyedévét zárta, a recesszió miatt a cégnek esélye sem volt arra, hogy ezt a teljesítményt megismételje. A katasztrofális negyedik negyedév után azonban már mutatkoznak a teljesítmény javulásának jelei, a raktárkészleteket sikerült jelentõsen lecsökkenteni. Jen-Hsun Huang elnök-vezérigazgató elmondása szerint a vállalat tartani tudta részesedését a mobil grafikus chipsetek piacán, az asztali gépekbe szánt GPU-k területén pedig még növelte is befolyását.
+
+[+] Szezonális növekedést mutatott a grafikus piac
+
+
+ Negyedéves összevetésben a bevétel felét adó GPU-üzletág 44 százalékkal növelte forgalmát, a chipset-részleg pedig közel megduplázta. A professzionális grafikus megoldásokkal foglalkozó divízió bevétele nagyjából változatlan maradt -- hangzott el az elemzõk számára rendezett telefonos konferenciahíváson.
+ 
+
+Az elnök-vezérigazgató szerint az NVIDIA sokat vár az Ion platformtól, amely GeForce 9400 videovezérlõje révén kurrens grafikus képességekkel ruházza fel a netbookokat, valamint a Tegrától, amely egy integrált rendszerchip ARM-alapú processzorral okostelefonokba, navigációs eszközökbe vagy internetezésre szánt mobil készülékekbe (MID). A tájékoztatón elhangzott továbbá, hogy az NVIDIA jól halad a 40 nanométeres csíkszélességû új grafikus processzorok fejlesztésével, amelyek közül néhány hamarosan napvilágot lát. Az év végére a 40 nanométeres chipek részaránya a teljes portfólióban elérheti a 30 százalékot is.
+
+A jelenleg is tartó második pénzügyi negyedévre az elsõhöz képest 5 százalékkal több bevételt várnak a cégnél, azonban mivel a nagy nyereségtartalmú professzionális szegmensben nem látszik javulni a helyzet, a profitabilitást a költségek csökkentésével lehet csak növelni -- vélekedett David White pénzügyi vezér.

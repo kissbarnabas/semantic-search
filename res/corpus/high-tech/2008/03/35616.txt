@@ -1,0 +1,16 @@
+Dell: semmi gond az SSD-kkel, a pletykák hamisak
+
+Cáfolta a Dell azt a weben múlt héten szárnyra kapott híresztelést, mely szerint a vállalat notebookjaiban alkalmazott SSD-k (solid state drive, szilárdtestes meghajtó) kimagaslóan rossz visszahívási mutatóval bírnak -- ráadásul néha még rosszabbul is teljesítenek. A cég hivatalos blogján egyszerûen hamisnak és megalapozatlannak titulálta ezeket az állításokat.
+
+
+
+Mint sok más, nagy csinnadrattával övezett újdonsággal kapcsolatban, úgy az SSD-ket is rengeteg szkepticizmus övezi a IT-szakma részérõl -- a támadások leginkább a korlátozott kapacitást, magas árat, valamint a feltételezett élettartamot veszik célba. A negatív hír az igazi hír örökérvényû szabályát is bizonyítva így aztán kedvezõ táptalajra talált az Avian Securities egyik elemzése, mely azt taglalta, hogy a Dell SSD-s modelljeinek 20-30 százaléka visszakerül a céghez meghibásodás miatt, vagy mert a felhasználók elégedetlenek a teljesítménnyel.
+
+A Dell hivatalos blogján, a Direct2Dellen cáfolta az Avian által citált adatokat. Lionel Menchaca vezérblogger úgy fogalmaz, az Avian számai köszönõviszonyban sincsenek a valósággal, és az elemzõcég nem vette fel velük a kapcsolatot kutatásuk során: egyszerûen nem igaz az állításuk, írja Menchaca. Hozzáteszi, hogy a globális megbízhatósági adataik azt mutatják, az SSD-k legalább ugyanolyan vagy jobb mutatókkal bírnak, mint a merevlemezek, és a szervizelési ráta egy nagyságrenddel jobb a 20-30 százalékosnál.
+
+A teljesítménnyel kapcsolatban Menchaca úgy fogalmaz, hogy az elsõgenerációs SSD-k egy 5400-as percenkénti fordulatú mobil merevlemezzel teljesítenek egy szinten, a Samsung legújabb SATA II-es meghajtói azonban, melyek a Dellnél Flash Ultra Performance SSD néven hozzáférhetõek, már felülmúlják a 7200-eseket is -- ezt alátámasztják a HWSW mérései is, a Lenovo ThinkPad X300-ban található SSD valóban kimagaslóan teljesít. Bejegyzése végén Menchaca leszögezi, elkötelezettek az SSD mellett, ugyanis kulcsszerepet fog betölteni a mobil számítástechnikában.
+
+
+Az SSD-k fejlõdési trendje alapján az iSuppli piackutató cég becslése szerint 2009-ben az ultrahordozható gépek több mint negyede bír majd SSD-vel, és nem sokkal maradnak majd egy a mainstream modellek sem ezen arány mögött. A merevlemezgyártók védekezésül flash memóriával fogják feldúsítani a HDD-ket, vagyis a hibrid meghajtók néhány száz megabájtnyi, vagy néhány gigabájtnyi flash memóriát fognak tartalmazni, hogy javítsanak teljesítményükön is fogyasztásukon.
+
+Gyorsíthat az SSD-k terjedésén a flashipart sújtó túltermelési válság, melyre többek között az amerikai hitelezési válság keltette recessziós hangulat és történelmi mélyponton lévõ dollár is ráerõsít. Az idei elsõ negyedéves adatok alapján a NAND flash árak, mely az SSD-k költségeinek túlnyomó részét képezik, gyakorlatilag ugyanúgy összeomlottak néhány hónap alatt, ahogyan történt tavaly a DDR2 DRAM-mal: az Intel adatai szerint 2008 elsõ három hónapjában 53 százalékkal zuhantak vissza az átlagos eladási árak.

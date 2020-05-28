@@ -1,0 +1,41 @@
+Kipróbáltuk: külsõ forrásból is rögzíthetünk az AVerMedia pendrive méretû tunerével
+
+Tévétunert igen régen teszteltünk oldalainkon, a több mint két éve nálunk járt Freecom DVB-T stickje is elsõsorban mérete miatt keltette fel az érdeklõdésünket. A gyártók azóta sem álltak le a fejlesztésekkel, az újabb tesztalany Avermedia AverTV Hybrid Volar HX a bizonyíték erre: még kisebb és gyakorlatilag mindent tud, amit egy tévétuner ma tudhat, illetve tudnia kell.
+
+ 
+
+Fullos körítés
+
+A megtermett pendrive méretû, külsõ, így akár noteszgépekhez is használható tévé- és rádióvevõ nem csak a digitális földfelszíni adásokkal (DVB-T) kompatibilis, de nevéhez méltón FM-rádiókat is hallgathatunk és a 2012-ig még bizonyosan mûködõ analóg földi, vagy kábeles adásokat is nézhetjük vele. A mellékelt adaptert a tuner végébe csatlakoztatva analóg forrásokból -- DVD-lejátszó, set-top-box, videokamera -- is rögzíthetünk mozgóképet a számítógépre: ez a szolgáltatás néhány évvel ezelõtt még szinte lehetetlennek tûnt ilyen méretben.
+
+ 
+
+A Hybrid Volar VX tuner elõnyei között érdemes megemlíteni a Windows Media Center támogatást is, mind a Windows XP-s, mind a Windows Vistába épített Media Center szoftverrel szót ért a kártya. Ez már csak azért is érdekes, mert a Microsoft számos tunerkártyát azzal az indokkal nem támogat, hogy csak hardveres dekódolás esetén biztosított a "tökéletes élmény" -- az Avermedia szerint ez nem így van, ezért digitális vétel esetén is egy speciális meghajtóval hitetik el a Windows Media Centerrel, hogy teljesen hardveres kártyát lát. Ez igen hasznos képesség és jól használható kiegészítõvé teszi a tunert.
+
+A dobozt kinyitva nem csak a tunerrel találjuk szemben magunkat, hiszen kapunk hozzá antennát, infrás távirányítót, S-video/kompozit videobemenetet nyújtó adaptert is a kézikönyv és a meghajtóprogramot tartalmazó CD mellé. A mini antenna inkább FM-rádiózához jó, tévéadások vételére maximum az adótorony közelében lehet elegendõ. A távirányító a tuneren lévõ apró infravevõnek küldi a jeleket, ezért azt lehetõleg ne a noteszgép mögötti, vagy a számítógép hátán lévõ portokba dugjuk, inkább használjunk USB-hosszabbítót.
+
+A kártya szó szerint hibrid. Az USB-porton csak úgy férhet át az analóg adás, vagy az analóg bemenetek képe, ha azt elõzõleg a tuner digitális formába tömöríti. Ezt a jelfolyamot a számítógépünk dekódolja jobb esetben a videokártya hardvere segítségével. Digitális földfelszíni DVB-T adás esetén a tunernek nem kell ilyen átalakítást végeznie, csupán közvetítenie, illetve rögzítenie kell az eleve digitálisan érkezõ adatokat, azonban ezt is a számítógépünknek kell dekódolnia. Ebbõl következik a tuner jövõállósága is, a szabadon vehetõ digitális csatornák esetén akár HD-felbontású adások, H.264, MPEG-4 AVC tömörítésû csatornák mûsorát is foghatjuk majd -- ha lesznek ilyenek --, hiszen a dekódolás csupán szoftveres kérdés, a számítógépünk erejétõl, képességeitõl függ majd.
+
+ 
+Gép kell hozzá
+
+Digitális adás itthon sajnos csak Budapest és Kabhegy környékén fogható, az Antenna Hungária tesztadása, de várhatóan idén õsszel, karácsonykor már 10-15 digitális adás közül választhatunk majd, melyek egy része ezzel a DVB-T-képes tunerrel is fogható lesz. Azért csak egy része, mert a leendõ multiplexekben várhatóan elõfizetési díj ellenében nézhetõ csatornák is helyet kapnak majd, ezek vételére azonban az ilyen tunerek nem lesznek alkalmasak -- nincs hova behelyezni az elõfizetõi kártyát.
+
+A hibrid kivitelbõl az is következik, hogy bár a kártya részben hardveres megoldást alkalmaz, a sikeres felvételekhez és a csatornák megtekintéséhez erõsebb gépre van szükség. Egy mai, átlagos PC-nek, noteszgépnek persze ez már semmilyen gondot nem jelent, de egy öregebb processzor kevés lehet az üdvösséghez. A HP tc1000 tabletem 1 GHz-es Baniasa -- és USB-kezelése -- csupán a tévénézéshez volt elég, folyamatosan közel 100 százalékon használva a processzort, a felvétel pedig már akadozott teljes PAL felbontás mellett.
+
+
+A videofelvételek minõségét szabadon állíthatjuk, az elõre beállított profilokhoz -- mint például az iPodoknak megfelelõ MPEG4 verzió -- sajátot is létrehozhatunk. Analóg forrásnál a szokásos MPEG-2 formátum mellett AVI-ba és Windows Media Video formátumba is rögzíthetünk. A felvétel leendõ minõségérõl szinte azonnal meg is bizonyosodhatunk, a profil kiválasztását követõen felvétel alatt ugyanezzel a bitrátával, felbontással látjuk a képet.
+
+  
+
+Megéri az árát
+
+A Hybrid Volar VX tunerhez két szoftvert is kapunk, az AverTV-t tévézésre és rádióhallgatásra hegyezték ki, míg az Aver Mediacenterrel számítógépünkön tárolt videókat, zenéket és képeket is egyetlen felületen érhetünk el, egyfajta mini Media Centert a varázsolva azokra az operációs rendszerekre, melyekben nem kapott helyet ez a Microsoft kiegészítõ. A Mediacenterrel idõeltolásos tévézés is rendelkezésre áll, megállíthatjuk az élõ adást. A szoftverek alapvetõen megbízhatóan mûködnek, bár a legújabb változatokkal is volt némi bizonytalanság a Windows XP harmadik szervizcsomagjának telepítését követõen, néha a szoftver bezárásakor végzetes hibával szembesültünk.
+
+A hosszú ékezeteink is okozhattak némi fejtörést a szoftver magyarosítóinak, azoknak ugyanis hûlt helyét találhatjuk, az összes csatorna behangolásához pedig érdemes a teljes keresést elindítani, mert bár választhatunk antenna és kábeles keresés között, a UPC csatornáinak csak körülbelül felét találta meg a legújabb, áprilisi szoftver. Az Avermedia hibrid tunerje megéri bruttó 14 ezer forint körüli végfelhasználói árát, hiszen mindent belepakoltak amit lehet, egyszerû telepíteni és kezelni, tartozékokkal is bõven el van látva. Már csak egy erõs számítógép kell hozzá.
+
+Az AverTV Hybrid Volar HX tunert a Ramiris Rubin ZRt. bocsátotta rendelkezésünkre.
+
+Véleménye van?
+Szóljon hozzá a fórumban
+írjon szerkesztõségünknek!

@@ -1,0 +1,65 @@
+Kipróbáltuk: Ubuntu 9.04 Netbook Remix
+
+Az Ubuntu elérhetõvé tette a netbookok számára készült Linux-disztribúcióját, a 9.04 Netbook Remixet, mely a legnépszerûbb gépekkel és ezek alkatrészeivel, valamint a kicsi kijelzõkkel ért szót. Az  rendszer legnagyobb ütõkártyája a kezelõfelület, mely a netbookok közül még a kevés képpont megjelenítésére alkalmas ASUS Eee PC 701 panelén is megfelelõ látványt és kezelhetõséget nyújthat.
+
+
+
+
+
+A Netbook Remix kiadást szerkesztõségünk üdvözli, és jóstehetség nélkül állíthatjuk, hogy ebben szinte az összes, lassú SSD-t tartalmazó netbook tulajdonosa is mellénk áll majd. Szilárdtest meghajtóról indítva eddigi tapasztalataink alapján a Linux jóval gyorsabbnak bizonyult a Windows XP-nél, legyen az Ubuntu, vagy akár Fedora. A Netbook Remix túlmutat az asztali változatokon, a fejlesztõk mintha kedvet is szeretnének szerezni a használatához, szerencsés esetben és pár extrém kivételtõl eltekintve nincs szükség eszközmeghajtók telepítésére és lemondani sem kell a gépünk általános részegységeirõl.
+
+Egyszerûen kipróbálható
+
+Az operációs rendszer telepítése USB-kulcsról is történhet, így nincs szükség külsõ optikai meghajtó csatlakoztatására. Az USB-kulcs elõkészítése egyszerû, a majd 1 gigabájtos telepítõkészlet mellett a bootolható USB-meghajtót elõkészítõ alkalmazás is letölthetõ az Ubuntu weboldaláról. Ha kezünkben a kulcs, törnünk sem kell a fejünket, anélkül próbálhatjuk ki a 9.04-et hogy le kelljen mondanunk gépünk gyárilag telepített Windowsról, mert az Ubuntu Netbook Remix futhat magáról az USB-meghajtóról is. Igaz, ekkor nem jegyeztethetünk meg jelszavakat, illetve beállításokat sem egy késõbbi használatra.
+
+
+
+
+
+A kulcsos indítás igen gyorsan történik, persze ebben a tekintetben nincs nagy különbség Linux és Linux között, de a Windows XP telepítéséhez, majd a driverek letöltögetéséhez szokott felhasználók alighanem tátott szájjal nézik majd, hogy pár másodperc elteltével használható rendszer kapnak. A Netbook Remix a kulcsos futtatás során megtalálta a kijelzõ natív felbontását, felismerte a vezeték nélküli hálózati csatolót, de a hangkártyával és a webkamerával sem akadt gondja.
+
+Ami elénk tárul
+
+
+A munkaasztal remek. Nem csak 1024x600-as felbontásban, hanem kisebben is, próbaképp 640x400 képpontos minimumot is kipróbáltuk, amely szintén használható, igaz inkább okostelefonos komforttal, így a Netbook Remix gyönyörûen elfuthat az olcsó Eee PC-k  800x480 képpontos panelén is, ráadásul a kis SSD-rõl igen gyorsan. Az alap betûméret nagyobb a Windowséhoz képest, gyengébben látók is örülni fognak. A külsõ kijelzõk 1280x960 képpontig támogatottak, ennél nagyobb felbontást szerkesztõségünk 1680x1050-es monitorain sem sikerült beállítanunk.
+
+
+
+
+
+Az operációs rendszer alapképernyõje három részre tagolt, baloldalt a programcsoportok vannak, középen az épp kiválasztott csoport alkalmazásai láthatók, a jobb oldali sáv a meghajtók, valamint a felhasználó mappáinak gyûjtõhelye. A navigáció egyszerû, pár perc után mindent megtalálunk, minden kézre áll és ha akarjuk, akár magyarul is, a telepítés során kiválasztható nyelvek között a miénk is megtalálható. Fontos terület a felsõ, állapotkijelzõ sáv, mely a futó programokat, jobbja pedig az akkumulátor töltöttségi fokát, a vezeték nélküli hálózat vételi erõsségét, valamint az idõt mutatja -- hasonlóan a Windows taskbarhoz.
+
+A kezelõfelület érdekessége, hogy nem támogatja a többablakos megjelenítést, tehát egy alkalmazás csak teljes képernyõn futhat. Az méretezhetõ ablakos forma elhagyása indokoltnak látszik, ám mi inkább a még kisebb kijelzõvel rendelkezõ termékkategóriára történõ fejlesztési alapokat látjuk ebben, hiszen a MID-ek jellemzõen 800x480 képpontos panelekkel rendelkeznek, melyeken dõreség nem kihasználni a teljes felbontást. Az Ubuntu 9.04 kezelõfelületét, illetve ahhoz nagyon hasonlót legelõször internetes céleszközök képernyõjén lehetett látni, a Netbook Remix gyökerei is ezekhez a gépekhez nyúlnak vissza.
+
+A baloldali sáv logikusan szervezett, legfelül a kedvencek csoportja van, ebbe a gyakran indított programok kerülhetnek, alatta a kellékek a számológéppel, terminállal, jegyzettömbbel, hogy csak a legfontosabbakat említsük. A szórakozni vágyók 17 beépített minijáték közül válogathatnak, ezek között több is kínál pár perces kipróbálásnál hosszabb ideig tartó kikapcsolódást. A grafikával kapcsolatos alkalmazások csoportjában a webkamera-kezelõ, fotórendszerezõ mellett természetesen megtalálhatjuk az elmaradhatatlan rajzolóprogramot, a Gimpet, emellé az OpenOffice rajzolója is társul.
+
+Ha még lejjebb visszük az egérmutatót, az internetes alkalmazásokhoz jutunk, ahol az Evolution email-kliens (naptárral, névjegyzékkel, feladatlistával) áll a rendelkezésünkre, a 16 protokollt ismerõ Pidgin azonnali üzenetküldõ alkalmazás, valamint a Firefox. A netes csoportot az irodai alkalmazásoké követi, a szervezõfunkciója miatt az Evolution email-kliens ide is bekerült. A fõ hangsúly azonban az OpenOffice.org 3.0 változatához tartozó szövegszerkesztõé, táblázatkezelõé és prezentációkészítõé. Ezeket az alkalmazásokat angol értelmezõ kéziszótár és e-book olvasó egészíti ki.
+
+
+
+
+
+
+Multimédiás érzékelés
+
+A multimédiát kedvelõk filmlejátszót, zenelejátszót és hangrögzítõt is kapnak, melyek spártai felületen kínálják a funkciókat. Aki winampos felületre vágyik, telepítenie kell valamit külön, de ettõl eltekintve a beépített alkalmazások, pontosabban az operációs rendszerhez mellékeltek is remekül használhatók. Az Ubuntu 9.04 Netbook Remix alaphelyzetben nem adja az összes létezõ kodekhez a támogatást, azonban egy, a rendszer számára új formátum lejátszásának érdekében igény esetén sikerrel tölti le a hiányzó kodekeket.
+
+A filmek lejátszása közben a hardver nagyjából annyit teljesít, mint Windows alatt, videókat (WMV, DivX és XviD) természetesen gond nélkül játszhatunk le, HD-állományok közül azonban folyamatos lejátszásra csak a 720p felbontásúak esetében számítsunk. Az ismert fájlformátumok problémamentesen futottak, természetesen a fentebb részletezett kodekek letöltése után. Szokatlan volt azonban hogy a kodekkeresés még a leghétköznapibb MP3-állományok elsõ lejátszását is megelõzte, tehát internetkapcsolat nélkül még a zenehallgatás is akadályokba ütközhet.
+
+
+
+
+
+Mázlink volt
+
+Az a tény, hogy elérhetõ közelségben épp egy Acer Aspire One volt, nagy szerencse, mert a jelenlegi netbook-kínálat egy szelete mindössze, amely közel 100 százalékos kompatibilitással áll a Netbook Remixhez. Van olyan modell, amellyel sajnos ma még csak kínlódás a használat. A Netbook Remix által kedvelt modellek között az Aspire One és a Wind mellett megtalálható az ASUS Eee 1000, az Eee 900a és 901, valamint a Dell Mini 9 és a Lenovo S10 netbook is.
+
+
+
+
+
+Van pár olyan gép azonban, amely használható ugyan, de néhány lehetõségrõl le kell bennük mondani, ilyen gép a HP Mini 1000, az Eee 900, valamint a 701-SD és a Samsung NC10 is, bár ezen netbookok esetében még mindig érdemes kipróbálni a speciális netbook-operációs rendszert. A telepítés a HP 2133 esetében õrültség egyedül, jelenleg ennél a gépnél tapasztalható csak a kudarc, az indokoltnál jóval magasabb a processzorterhelés és irdatlan lassú a kezelõfelület. Sajnos a 2133 esetében még a WLAN-adapter sem mûködik és még most sem teljes a lista, mely kompletten itt tekinthetõ meg.
+
+Kell, akarom!
+
+Nem kérdõjelezhetõ meg a Netbook Remix létjogosultsága. A telepítõkészlet 1 gigabájtjában minden alapszükségeletet kielégít, legyenek azok irodai feladatok, szórakozás vagy akár az internet. Valahogy az az érzésünk, hogy a Netbook Remix jobban passzol a netbookokhoz mint bármelyik Windows. Nyugodt szívvel mondhatjuk, hogy a netbookokhoz, vagy az azoknál kisebb kijelzõvel szerelt MID-ekhez, UMPC-khez, hordozhatóságuk és teljesítményük által megváltozott használati szokásokhoz az Ubuntu 9.04 Netbook Remix jobban illik, és szerencsére a hazánkban népszerû gépeket   (Acer Aspire One és az MSI Wind és jópár Eee PC) mind támogatja is.

@@ -1,0 +1,19 @@
+Kimarad az Internet Explorer a Windows 7-bõl
+
+Az Unió haragja
+"Az európai törvények betartásának biztosítása érdekében a Microsoft egy külön verziót ad ki a Windows 7-bõl európai terjesztésre, amely nem tartalmazza az Internet Explorert" -- áll a cég által a PC-gyártókhoz eljuttatott dokumentumban. "A Microsoft az IE8-at külön teszi elérhetõvé és lehetõvé teszi a PC-gyártók számára hogy az IE8-at könnyen és kényelmesen elõre telepítsék az európai [piacra szánt] gépeikre, ha ezt választják. A PC-gyártók alternatív böngészõt is telepíthetnek az IE8 helyett, és kívánságuk szerint több böngészõt is telepíthetnek, ahogy ezt mindig is tehették." 
+Amint arról a HWSW is beszámolt, az Európai Bizottság idén januárban hivatalosan is versenyjogsértõ magatartással vádolta meg a Microsoftot. A vád szerint a cég tisztességtelen elõnyhöz juttatta a böngészõpiacon az Internet Explorert azzal, hogy beépítette a Windowsba. A Microsoftot az Opera Software panaszolta be, ennek nyomán indult vizsgálat, amely alighanem a cég elmarasztalásával fog végzõdni annak ellenére, hogy az Internet Explorer piaci részesedése a 90-es évek óta nem volt ilyen alacsony és az alternatív böngészõk pont Európában a legerõsebbek. A francia AT Internet Institute (korábban XiTiMonitor) áprilisi adatai szerint az Internet Explorert már
+csak a netezõk 63 százaléka használja, a Firefox részesedése 28
+százalék, a harmadik legnépszerûbb böngészõ pedig a Safari, 3,4
+százalékos részesedéssel.
+Az Internet Explorer nélküli Windows 7 piacra dobásával az Unió haragját igyekszik csillapítani a Microsoft. A böngészõt nem tartalmazó "Windows 7 E" változatot az Unió összes országában árusítani fogják, emellett a cég a Media Playert nem tartalmazó "Windows 7 N" verziókból is eltávolítja a böngészõt. A médialejátszó nélkül operációs rendszert az Európai Bizottság 2004-es elmarasztaló ítélete nyomán dobta piacra a cég a Windows XP-bõl, majd késõbb a Vistából. Az Európai Bizottság 2004-ben kimondta, a Media Player beépítése a Windowsba tisztességtelenül befolyásolta a
+médialejátszók piacán a versenyt, és arra kötelezte a Microsoftot,
+adjon ki egy olyan változatot is az operációs rendszerébõl, amely nem
+tartalmazza a Media Playert.
+Utólag kell a böngészõt telepíteni
+A Windows XP-bõl és a Vistából azonban lehetett Media Playert tartalmazó változatot is kapni, a Windows 7 azonban Európában csak Internet Explorer nélkül kerül forgalomba. "A Microsoft Európa területén nem terjeszti a Windows 7 azon verzióit,
+amelyek tartalmazzák az IE-t, ezeket csak a világ többi részén lehet
+megvásárolni" -- áll a dokumentumban. "Ez az OEM és dobozos verzióra
+egyaránt vonatkozik." A redmondi szoftvercég megerõsítette a CNET News.com által megszellõztetett dokumentum hitelességét, azonban további kommentárt nem fûzött az ügyhöz.
+Egyelõre nem világos, a boltban megvásárolható, dobozos operációs rendszerre milyen módon lehet majd böngészõt telepíteni, hiszen Internet Explorer nélkül a többi böngészõ weboldalának meglátogatása és letöltése is lehetetlenné válik. Egy tûzhöz közeli forrás szerint az Internet Explorert CD-n és FTP-n is elérhetõvé teszi majd a Microsoft, illetve üzletekben is elérhetõ lesz, bár egyelõre ennek részletei nem tisztázottak. A Microsoft régebbi operációs rendszereit, vagyis a Windows XP-t és a Windows Vistát nem érinti ez a korlátozás, azok továbbra is beépített Internet Explorerrel érkeznek. A böngészõ eltávolítása nem érinti a Windows 7 megjelenési idejét, a Microsoft továbbra is október 22-ére ígéri a premiert a világ összes országában.
+A Microsoft egyik jogásza a cég hivatalos blogjában leírta, a cég lépéseirõl egyoldalúan határozott, azokat nem az Európai Unió rendelte el és továbbra is lehetséges, hogy a Versenyügyi Bizottság büntetést szab ki a vállalatra, illetve további lépéseket követel. 

@@ -1,0 +1,24 @@
+Megnyitja VDSL-hálózatát a Deutsche Telekom
+
+Megnyitja versenytársai elõtt VDSL-hálózatát a Deutsche Telekom, amelyen akár 50 Mbps sávszélességû kapcsolat is kiépíthetõ a háztartásokig a szokásos telefonvezetéken. 
+
+
+
+Önként, dalolva
+
+Az egykori monopolszolgáltató "önként" tette meg ezt a lépést, semmiféle törvény vagy szabályozás nem kényszeríti erre -- közölte a CeBIT-en Timotheus Höttges, a társaság értékesítési igazgatója. Sikeres lobbitevékenységének köszönhetõen a Deutsche Telekom olyan távközlési törvényt tudott elfogadtatni Németországban, amely nem kötelezi a VDSL-hálózat megnyitására -- többszöri figyelmeztetést követõen emiatt be is perelte Németországot az Európai Bizottság. "Elmúltak azok az idõk, amikor egyedül harcoltunk az egész világ ellen" -- mondta a CeBIT-en Höttges.
+
+ A Deutsche Telekom kezdetben havi 30 eurós nagykerárat kér majd el a hálózaton megjelenõ szolgáltatóktól egy VDSL-vonalért, de ez a késõbbiekben, a piaci penetráció növekedésével együtt csökkenni fog. A német Vodafone vezére, Friedrich Joussen üdvözölte a Deutsche Telekom lépését, ugyanakkor feltette a kérdést, vajon a havi 30 eurós nagykereskedelmi ár reális-e, részletekbe azonban nem bocsátkozott.
+
+
+ A német kormány februárban hirdette meg új szélessávú stratégiáját, amelynek célja hogy 2010-re az összes háztartásban elérhetõ legyen legalább 1 megabites sávszélességû internetkapcsolat, 2014-re pedig a lakások háromnegyedét elérje az akár 50 megabites sávszélességet biztosító VDSL-hálózat.
+
+A Deutsche Telekom 100 millió eurót fordít arra, hogy vidéki területeken 250 ezer háztartást kapcsoljon be a VDSL-hálózatba és az idén összesen mintegy 300 millió eurót (93 milliárd forintot) költ a VDSL-fejlesztésekre. A vállalat emellett versenytársaival is együttmûködik, Würzburgot és Hilbronnt például a Vodafone segítségével juttatják VDSL-hez, Alsó-Szászország néhány városát pedig az Energie Baden-Württemberggel együttmûködve "kábelezik be".
+
+Magyarország: VDSL helyett FTTH?
+
+Magyarországon a helyi DT-leány, a Magyar Telekom a VDSL-szolgáltatás október eleji indulása óta csak néhány pesti és vidéki lakóparkra és lakótelepre terjesztette ki a lefedettséget, alighanem a technológia sajátosságaiból fakadóan. Jogszabályi kötelezettségeinek eleget téve a Magyar Telekom ezt a hálózatot nagykereskedõként átengedi a versenytársaknak, a nagy szolgáltatók közül az EnterNet és az Externet azon nyomban be is jelentette saját VDSL-csomagjait.
+
+ A VDSL-alapú internet részben a már meglévõ infrastruktúrára építve, az ADSL-hez hasonló aszimmetrikus adatátviteli közeget nyújt, a létesítésnek azonban szigorúbb mûszaki feltételei vannak, így a rézkábel nyomvonal-távolsága a központtól, vagy DSLAM-tõl (kvázi kisközpont) az elõfizetõi végpontig nem lehet több egy kilométernél. 
+
+Eközben a  fiber-to-the-home (FTTH) optikai hálózatok fejlesztésére is koncentrál a Magyar Telekom. Az ütemterv szerint 2009 végére mintegy 200 ezer háztartásban lesz elérhetõ az újgenerációs, akár 100 megabit/másodperces letöltésre is alkalmas optikai hálózat, 2013 végéig pedig összesen 780 ezer háztartást kapcsolnak be.

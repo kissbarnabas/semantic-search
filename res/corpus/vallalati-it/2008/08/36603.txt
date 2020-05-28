@@ -1,0 +1,14 @@
+Heteken belül itt a MySQL 5.1
+
+Bár a Sun Microsystems már áprilisban bejelentette a MySQL nyílt forrású adatbáziskezelõ 5.1-es változatát, az a mai napig nem jelent meg. Úgy tûnik, a szoftver fejlesztésének utolsó simításai kissé elhúzódnak, a legfrissebb hírek szerint a MySQL 5.1 csak pár hét múlva lesz mindenki számára általánosan elérhetõ.
+
+
+
+A MySQL 5.0 még 2005 októberében jelent meg, vagyis az 5.1-es változat fejlesztése lassan három éve tart. Zack Urlocker, a nyílt forrású adatbázis mögött álló céget idén felvásároló Sun Microsystems termékigazgatója szerint a cél az, hogy a kiadott verzióban biztosan ne legyenek olyan kínos hibák, amelyek a MySQL 5.0 megjelenését is beárnyékolták. Ennek érdekében a Sun a lehetõ legkonzervatívabb megközelítést alkalmazza, és a kód minden szegletét többször is tüzetesen átvizsgálják.
+
+Nemrég Michael "Monty" Widenius, a MySQL atyja egy blogbejegyzésben arra kérte a szoftver köré szervezõdött közösség tagjait, idejében jelentsék az összes hibát, amelyet a MySQL 5.1 elõzetesében találnak. Widenius ugyanebben a bejegyzésben azt is kérte a közösség tagjaitól, segítsenek eldönteni, vajon a MySQL 5.1 valóban megérett-e a kiadásra -- úgy tûnik, mintha maguk a fejlesztõk sem bíznának a minõségbiztosítási rendszerben, és újabb blamától tartanak. Urlocker szerint egyébként már nincsenek olyan hibák a szoftverben, amelyek késleltetnék a kiadást, ugyanakkor hozzátette, a Sun számára nagy felelõsséggel jár kiadni egy terméket és azt vállalati, éles bevetésre ajánlani, illetve támogatni, ezért érthetõ, ha a cég óvatos.
+
+
+ A MySQL 5.1 érkezésével számos nagyvállalati funkció kerül be az adatbázis-kezelõbe, amelyeknek leginkább a tesztelése emészt fel sok idõt. A szoftver már támogatja a táblák és indexek particionálását, amivel felgyorsulhat a lekérések teljesítése, ugyanis csak a releváns adatpartíciókat kell az adatbáziskezelõnek "átnéznie", nem az egész táblát vagy indexet. Emellett a particionálás egyszerûsít egyes üzemeltetési és tárolási funkciókat is -- állítja a Sun.
+
+Az oszlop-alapú és hibrid replikáció bevezetése révén javult a MySQL biztonsága, robosztussága. Az oszlop-alapú replikáció két szerver között közvetlenül replikálja az adatok változásait (nem az SQL utasításokat), a hibrid replikáció pedig az adott SQL mûvelettõl függõen parancs-alapú vagy oszlop-alapú replikációt használ a legnagyobb biztoság érdekében. A Sun által kiemelt újdonságok közé tartozik még, hogy a MySQL 5.1 lehetõvé teszi az adminisztrátorok számára, hogy elõre beállított idõpontban futtassanak SQL-alapú feladatokat az adatbázis-szerveren.

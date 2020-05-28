@@ -1,0 +1,16 @@
+Új részletek az AMD notebookpiaci terveirõl -- gyorsabb Phenom is érkezett
+
+Nincs változás az AMD notebookpiaci terméktervében, két év múlva, 2011-ben érkezik az AMD integrált processzor-grafikus mag termékei, derül ki a cégrõl kiszivárgott információkból. Napvilágra kerültek az idén és jövõre debütáló notebookplatformok részletei is.
+
+
+
+A kínai expreview hardverblog birtokába került az a bizalmas AMD prezentáció, melyben a cég következõ 3 év notebook termékterve található. Változás nem látszik az eddigi publikusan elérhetõ információkhoz képest, a belsõs használatra szánt termékterv azonban jóval több részlettel szolgál. Az AMD még idén, várhatóan az év második felében megjelenõ új notebookplatformja a Tigris névre hallgat, és kétmagos Caspian processzora már 45 nanométeres csíkszélességû eljárással készül, ami elsõsorban az alacsonyabb fogyasztást és hõfejlõdést szolgálja. A Tigris az AMD RS880M chipsetre épt, mely ATI Radeon grafikus chipet integrál többet közt, és az ATI következõ generációs Mobility családját támogatja majd diszkrét grafikaként. 
+
+
+A jövõre megjelenõ Danube már a négymagos, DDR3-at vezérlõ Champlain köré épít. A Danube szintén az RS880M északi hidat használja majd, de új déli hidat kap, mely gazdagabb perifériatámogatással bír. Újdonság lesz még a diszkrét mobil grafika is, melynek kódneve Manhattan, és egyelõre csak annyit árul el róla az AMD, hogy következõ generációs nagyteljesítményû architektúra.
+
+A Sabine már a 2011-es platform, 32 nanométeres gyártástechnológiával elõállított, és grafikus egységet is integráló négymagos processzorral (Llano), mely kifejezetten alacsony fogyasztású, kompakt tokozású változatokban is érekzik majd -- többszöri csúszást követõen ez lesz a sokat emlegetett Fusion projekt elsõ gyümölcse. Az integrált grafika processzorhoz költözésével természetesen új chipsetet is kap, mely lényegében a déli hídból áll már csak. Az Intel ez év végén, vagy elején dobja piacra grafikát integráló processzorát, szintén 32 nanométeres csíkszélességen, az integráció nem szilíciumon, hanem tokon belül történik -- a gazdaságos gyárthatóság és mérnöki ésszerûség ezt diktálja. Az AMD egyelõre nem nyilatkozott arról, milyen megoldást mellett döntött.
+
+[+] Integrált CPU-GPU termékekkel árasztja el jövõre az Intel a piacot  
+
+Eközben az AMD elkezdte forgalmazni legújabb Phenom II X4 asztali processzorát, melynek órajele már 3,2 gigahertz, jelölése pedig 955. A 955-ös jelölésû modell megjelenése legalább másfél hónapja várható volt, a vállalat ugyanis február végére olyan 3 gigahertzes Opteronokat kezdett el szállítani, melyek energiakerete 95 watt, vagyis nem használják ki a legnagyobb energiaosztályt. A 125 wattos 955-ös természetesen Black Edition, vagyis szorzózár nélküli, és már AM3 foglalatba is illeszthetõ, vagyis a DDR2 mellett DDR3-memóriát is támogat már. A hivatalos ár egyelõre nem ismert, Magyarországra 70-80 ezer forint között érkezhet meg. 

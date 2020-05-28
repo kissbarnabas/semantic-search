@@ -1,0 +1,11 @@
+Itt a végleges VirtualBox 3.0
+
+A VirtualBox 3.0 vitathatatlanul igazi mérföldkõ a szoftver történetében, a VM-ek immár SMP (symmetric multi processing) mûködésre is képesek, azaz egyidejûleg több virtuális processzort használhatnak, ami a mai többmagos PC-ken jelentõs gyorsulást, és a fizikai telepítéshez közelebb esõ válaszképességet eredményezhet.
+A VM-ek a jövõben akár 32 processzort is kaphatnak Intel VT-x és AMD-V hardveres virtualizációs technikákkal felvértezett fizikai processzorokon, ami bõségesen elegendõnek ígérkezik a következõ néhány év során. Fábián Péter, a Sun szoftverrészlegének rendszermérnöke a Sunblogon arra figyelmeztet ugyanakkor, hogy AMD processzorokon a 32 bites Windows és Solaris vendégek rossz teljesítményt mutatnak SMP mûködés esetén, és további korlátozás, hogy a MacOS X kivételével 64 bites vendégek 32 bites gazdán nem támogatnak SMP-t.
+
+A fejlesztõk 3D-támogatási erõfeszítéseinek gyümölcseként egy további áttörést jelent a Direct3D API-t használó grafikus alkalmazások futtatásának megjelenése, ami kísérleti állapotban került a VirtualBox 3.0-ba, és a fejlesztõk vélhetõen egy közelgõ alverzióban minõsítik majd kiforrotnak a kódot. Fábián alapján a vendég Windowsra a D3D támogatásához szükséges guest additiont safe módban kell telepíteni. Továbbfejlõdött az OpenGL-támogatás is, immár az OpenGL 2.0 API is elérhetõ vendég Windows, Linux és Solaris rendszereken. Az OpenGL elsõként a 2.1-ben jelent meg kísérleti stádiumban, majd a 2.2 kiadásban véglegesedett.
+A 3.0 számos hibajavítást és apróbb továbbfejlesztést hozott magával, mint például javult teljesítményt kiterjesztett memórialapozást használó vendégek estén, Windows 7 RDP támogatása, vagy csiszolt beállítási felület. A változtatások teljes listája a bejelentésben olvasható. A 3.0  szoftvert a VirtualBox projekt oldaláról lehet letölteni Windows, MacOS X, Fedora, openSUSE, RHEL, SLES, Debian, Ubuntu és Solaris operációs rendszerekre.	     
+                  
+                  
+                  
+                   

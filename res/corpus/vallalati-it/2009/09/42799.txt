@@ -1,0 +1,10 @@
+Törhetõ az IIS FTP-szolgáltatása
+
+A milw0rm oldalra is beküldött exploit kifejezetten Windows 2000 szerveren futó IIS 5-öt (Internet Information Services) támad meg, de elvileg a késõbbi Windowsokon futó IIS 6-ot is beveszi, amihez kisebb módosítások lehetnek szükségesek. A kód akkor mûködik, ha a támadónak anonim hozzáférése van a FTP-hez, és ott könyvtárat is van joga létrehozni MKDIR paranccsal. A BackTrack kipróbálta a kódot, és videóban demonstrálta (SWF) annak mûködõképességét.
+
+A Microsoft elismeri a sebezhetõség meglétét, és közölte, hogy dolgoznak a javításon, mely egyelõre nem érhetõ el. A cég hozzátette, hogy nem tudnak arról, hogy valaki ezt a támadást valaha használta volna. A támadás azt használja ki, hogy az IIS nem kezeli rendesen a rosszindulatúan és abnormálisan hosszan formázott könyvtárneveket, és a NLST paranccsal túlcsordul, így  a könyvtár nevében található kódot végrehajtja.
+A legegyszerûbb megoldás az, hogy megvonjuk az írási és átnevezési jogokat a felhasználóktól, vagy amennyiben arra szükségük van, csak megbízható felhasználókat engedünk be, például IP-címtartomány szûrés vagy azonosítás segítségével. Nagyobb szervezeteknél érdemes egy hálózati szkennelést végezni, hogy található-e anonim hozzáférést, és MKDIR parancsot végrehajtani engedõ IIS FTP-k a hálózatban. Ehhez egy belga biztonsági szakember készített egy Nmap szkriptet, mely itt tölthetõ le.	     
+                  
+                  
+                  
+                   

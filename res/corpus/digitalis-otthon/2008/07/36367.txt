@@ -1,0 +1,17 @@
+Új csúcsmodell és energiatakarékos megoldások a Phenomok választékában
+
+Március óta elõször újította meg asztali számítógépekbe szánt négymagos processzorainak választékát az AMD. A második számú processzorgyártó mától egy újabb csúcsmodellt és két szerényebb teljesítményû, energiatakarékosabb lapkát is kínál a számítógépgyártóknak, illetve az egyéni felhasználóknak -- természetesen ezek már mind a B3 változatú (stepping) Barcelona-magra épülnek. 
+
+
+
+A ma piacra küldött chipek közül a legkisebb teljesítményû típus az AMD Phenom X4 9150e, mely voltaképpen a korábban megjelent X4 9100e javított változatának tekinthetõ. A chipek órajele egyezõ, mindkét modell 1,8 GHz-en jár, és mindkét változat 2 megabájt (magonként 512 KB) másodszintû és 2 megabájt megosztott harmadszintû gyorsítótárat tartalmaz. Az új, immár B3 magváltozatra épülõ Phenom X4 9150e TDP-je elõdjéhez hasonlóan 65 watt. Hasonló paraméterekkel kerül piacra az AMD Phenom X4 9350e, az egyetlen különbség, hogy ennél a típusnál 2 gigahertzre emelte a chip órajelét a gyártó.
+
+Az AMD asztaliprocesszor-válsztékának legerõsebb típusa mától a Phenom X4 9950 Black Edition, mely a nagyjából négy százalékkal megnövelt, 2,6 GHz-es órajelével a korábbi csúcsnak számító, 2,5 GHz-es X4 9850 Black Editiont taszítja le a trónról. Az új chip fogyasztása a magasabb órajelért cserébe 12 százalékkal nõtt, a lapka TDP-je így 140 watt lett. Az új csúcsmodell rendkívül magas fogyasztási mutatója azt sejteti, hogy a jelenlegi gyártástechnológia alkalmazásával ez a változat sem skálázható sokkal tovább.
+
+
+
+
+
+Az új csúcsmodellt -- akárcsak elõdjét -- a gyártó elsõsorban teljesítményigényes alkalmazásokat futtató felhasználóknak, illetve csúcsteljesítményû rendszert építõ otthoni gépépítõknek szánja, ám nem csak és kizárólag a lapka teljesítménye miatt. A Black Edition márkajelzésû processzoroknál ugyanis az órajel paraméterezéséhez használt szorzó szabadon állítható, így a tuningosok egy olyan CPU-t kapnak a kezükbe, mellyel a rendszerben rejlõ lehetõségek a lehetõ legtágabb keretek közt aknázhatók ki.
+
+Az AMD az elsõ alkalommal szerepeltet választékában két négymagos Black Edition típust, a Phenom X4 9950 megjelenésével a 9850-es modell ugyanis nem tûnik el a színrõl. A 235 dolláros áron polcokra kerülõ Phenom X4 9950 Black Edition ellenfele most az Intel egyik legjobb ár/érték arányt nyújtó kifutó négymagosa, a 2,4 GHz-es Core 2 Quad Q6600 lehet, mely jelenleg 199 dollárért kínál akkora teljesítményt, amivel az AMD új csúcsprocesszora a Prohardver korábbi tesztjei alapján nem képes tartani a lépést -- legalábbis az alap, 2,6 GHz-es órajelen.

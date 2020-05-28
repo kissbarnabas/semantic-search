@@ -1,0 +1,14 @@
+Emulátorban is futtatható az Opera Mini androidos változata
+
+A Google mobilplatformját, az Androidot futtató elsõ telefonok megjelenése még az év végéig várat magára, az Opera Software javás böngészõje, az Opera Mini technológiai elõzetese azonban már az emulátoron is elindult. Teszi ezt annak ellenére, hogy az Androidban nincs is Java ME/MIDP-támogatás.
+
+
+
+Az Opera fejlesztõi ahelyett, hogy költséges és igen hosszadalmas eljárásként újraírták volna a mini böngészõt, egy apró segédprogramot vetettek be. A MicroEmulator nyílt forrású "wrapper" a Java ME/MIDP hívásokat fordítja le az Android fejlesztõi környezetének megfelelõekre. A Mini ennek köszönhetõen futhat már az androidos telefonokat emuláló környezetben is. Az egyetlen komolyabb kihívást az AWT/Swing grafikus megjelenítõ portolása volt.
+
+
+A Google Android fejlesztõi környezetének frissített változata az év elején látott napvilágot, az Opera blogbejegyzése szerint pedig bárki könnyen telepítheti a technológiai elõzetest az abban található emulátor alá. A futás természetesen jóval lassabb lesz, mint egy majdani telefonon, illetve maga a MicroEmulator is lassíthatja egy kicsit a mini böngészõt.
+
+
+
+A szinte bármilyen mobiltelefonon elfutó, javás Mini mobilböngészõt összesen már 40 millió mobiltulajdonos használja világszerte, minden nap újabb és újabb 100 ezer felhasználó tölti le a szoftvert mobiltelefonjára. Az Opera Minivel havonta több mint 1 milliárd weboldalt böngésznek a felhasználók.

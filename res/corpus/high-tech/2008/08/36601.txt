@@ -1,0 +1,36 @@
+Larrabee: az Intel frontális támadása a Radeon és GeForce ellen
+
+ A számítógépes grafikai ipar legmagasabb presztízsû konferenciája, a SIGGRAPH közeledtével az Intel újabb információkat csepegtetett nagyteljesítményû vizualizációs architektúrájáról. A Larrabee kódnéven ismert fejlesztés hátterében egy védekezõ lépés áll, melynek célja megakadályozni, hogy Intel processzorokról más chipekre migráljon teljesítményéhes kódok egyre nagyobb tömege, ennek érdekében pedig közvetlen tûz alá veszi az AMD és NVIDIA grafikus chipjeit.
+
+
+
+Ütközési pályán
+
+Az Intel az elmúlt években egyre szélesebb nyilvánosság elõtt kezdett el beszélni arról, hogy az általános célú mikroprocesszorok és a grafikus processzorok egymás felé közelítenek, sõt ütközési pályán mozognak, és belátható idõn belül egyre bõvülõ alkalmazási területen számítanak majd egymás konkurenseinek. Miközben a processzorok az energiahatékonyság követelménye miatt egyre inkább a párhuzamosság felé mozdulnak el a magok számának és a vektoros teljesítmény fokozásával, addig a grafikai oldalról érkezõ, masszívan párhuzamos felépítésû grafikus architektúrák a rugalmasabb programozhatóság felé haladnak.  
+
+
+Az AMD által bekebelezett ATI és az NVIDIA ezirányú erõfeszítéseinek elsõ gyümölcseit már láthatjuk a közelmúltban megjelent termékeikkel kapcsolatban. Az NVIDIA CUDA compilerrel és fejlesztõi eszközökkel magas adatszintû párhuzamosságot mutató kódokat már lehet kiváló eredménnyel portolni a GeForce G80-as generációtól kezdve felfelé. A Folding@Home fehérjekutatást egy GTX 280 chip 45 százalékkal gyorsabban futtatja, mint egy 3 gigahertzes Core 2 Quad, a projekttulajdonos Stanford Egyetem állítása alapján. 
+
+Ne gondoljuk azonban, hogy a tudományos non-profit projekt egyedi: a CUDA-t támogató kereskedelmi szoftverek választéka is már meglepõen széles, így például h.264 enkódolótól az áramlástani szimulátoron át szeizmológiai és pénzügyi adatelemzõ alkalmazásokat találunk, melyek 10-100-szoros gyorsulást ígérnek a legújabb GeForce kártyák használatával a mikroprocesszorokhoz képest. Bár szakmai vélemények szerint az NVIDIA a grafikus chipek programozhatósága terén a CUDA révén lépéselõnyt élvez az AMD Stream SDK-val szemben szemben, a rivális kétségtelenül hasonló irányba lépked, és hatásos erõdemonstrációt tartott néhány hónappal ezelõtt valósidõben futó ray-tracing demókkal. Szintén a grafikus chipek alkalmazhatósági köre bõvülését jelzi, hogy a játékok fizikájának számításait is igyekeznek átvenni.
+
+A gyenge, alacsony fogyasztásra és olcsó gyárthatóságra optimalizált integrált grafikus chipekkel bíró Intel számára ez pedig nem jelent mást, minthogy az évente több milliárd dollár nyereséget termelõ mikroprocesszorai egyre több és több feladatot vesztenek el, elsõsorban szuperszámítógépes és professzionális munkaállomás területeken, ezzel pedig a vállalat piacot és pénzt veszít, hosszú távon pedig paripát és fegyvert is. Ezt a veszélyt felismerve a világ legnagyobb chipgyártója nyilvánvalóan meg akarja akadályozni, hogy Intel szilíciumról máshova vándoroljanak a számítási kapacitások. Ez a motiváció szülte meg a Larrabee projektet, melynek célja egy olyan architektúra megalkotása, mely a mikroprocesszorok programozhatóságával, és grafikus processzorok masszív párhuzamosságával egyszerre rendelkezik -- másképpen fogalmazva az Intel elõrenyomul az CPU-GPU ütközési pontra.
+
+
+Kevés új részlet
+
+Pénteken közzétett összefoglalójában, mely a SIGGRAPH prezentáció elõzetese, az Intel a Larrabee grafikus chipekkel szembeni elõnyeit ecsetelte, és kevés technikai újdonság látott valójában napvilágot. Különbözõ játékok kódjainak elemzésével az Intel arra a következtetésre jutott, hogy nincsenek tipikus futásidejû jellemzõk, a játékok között, és egy játék futása közben is nagymértékben változékony képet mutat az egyes feladatrészek erõforrásigényének aránya.
+
+
+
+
+ Így például a Gears of Warban a pixel árnyalás dominál, közel kétszer annyi idõt köt le, mint a F.E.A.R esetében, ahol viszont a mélységvizsgálat és raszterizáció bír nagyobb súllyal -- ezek az arányok egy játékon belül is nagy dinamikával változnak, ami az erõforrások kihasználtsága mellett a sávszélességigényre is kihatással van. Közismert, hogy a mai grafikus megoldások különösen érzékenyek a sávszélességre, amire az Intel a "binning rendering" nevezetû megoldást kínálja. Szemben az úgynevezett azonnali módú rendereléskor, mikor minden egyes pixelhez távoli memóriahívások tartoznak. A binek, vagyis ládikók a kép egy-egy szeletével kapcsolatos pixeladatokat tartalmazza, és az L2 cache tárolja azokat, takarékoskodva a körbusz és a beágyazott és központi memória sávszélességeivel.
+
+Az Intel szerint a Larrabee teljesen rugalmasan allokálható általános célú erõforrásai révén hatékonyabban alkalmazható a játékok képalkotási folyamatában, ahol az egyes munkafázisokat nem hardveresen dedikált logika végzi, hanem a tetszõlegesen használható vektoregységek, míg a programozhatóságot és vezérlést az x86-os mag biztosítja.
+
+A chip körbuszon kapcsol össze sok, valószínûleg több tucat soros végrehajtású skalár, rövid futószalaggal bíró teljesértékû x86-os processzormagokat, melyek teljesen koherens L1-L2 (utóbb 256k méretû) cache-hierarchiával bírnak, de a munka nagy részét dedikált regiszterszettel bíró 256 bites vektoregységek végzik majd, melyek órajelenként 16 darab egyszeres precizitású lebegõpontos mûvelet végrehajtására képesek -- nincsen dedikált grafikus logika a magokban, a chipen ugyanakkor találni dedikált textúrázó logikát, amit a hatékonyság indokol. Az erõforrások kihasználtságának fokozása érdekében a magok 4 utasításszálat kezelhetnek egyszerre, melyek közül egy a másik három számára készíti elõ a feladatokat.
+
+Az Intel részben grafikus chipnek szánja a Larrabee-t, ennek megfelelõen a driver segítségével képes lesz renderelni DirectX és OpenGL kódutakkal, de teljesen szoftveresen is, akár ray-tracinget is alkalmazva. Egyúttal azonban sokkal szélesebb körû felhasználás a cél, így a C/C++ kódolási környezet magától értetõdõ, mely programok natívan futhatnak a chipen majd. A megcélzott kódok közé a grafikus chipek esetében fentebb említettek tartoznak, így számításintenzív mûszaki-tudományos szimulációk, vizualizáció, gyors adatelemzések. Az Intel szimulációi szerint a Larrabee jól skálázódik a magok számával, és 55-95 százalékos hatékonyságot mutat fel még 64 mag megléte esetén is.
+
+
+
+A Larrabee elektronikai implementációjának részleteirõl, a magok számáról és teljesítménypotenciáljáról továbbra sem nyilatkozott az Intel, ugyanakkor távoli, 2009 végére, 2010-re tehetõ megjelenése miatt ez nem is meglepõ. Az mindenesetre bizonyosnak látszik, hogy a chippel az Intel komoly versenyzõvé válik a grafikus és a masszívan párhuzamos architektúrájú processzorok terén egyaránt, és jó eredményesen veheti fel a harcot az AMD és az NVIDIA, valamint újabban az IBM Cell-fejlesztéseivel egyaránt. 

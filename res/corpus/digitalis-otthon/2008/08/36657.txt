@@ -1,0 +1,19 @@
+Atomra válthatnak a HP netbookok is
+
+Hivatalosan meg nem erõsített hírek szerint a HP 10,1 és 10,2 hüvelykes kijelzõkkel szerelt netbookokkal válthatja le, vagy egészítheti ki a jelenleg futó 2133-as modellekbõl álló kínálatot. Az új termékek új processzort kapnak, a VIA C7-et  Intel Atom üti ki a nyeregbõl.
+
+
+
+A HP nem bevallottan ugyan, de valószínûleg érzi, processzorteljesítmény tekintetében erõsen alálõtt a vetélytársaknak gyengécske 2133 netbookjában, erre lehet bizonyság, hogy az abban alkalmazott VIA C7-M processzort jövõ év elején érkezõ gépeinél Intel Atomra cseréli. Az is kitudódott, hogy az új netbookokat a HP számára az Inventec fogja gyártani. A gépek részletes technikai adatai ugyan még nem ismertek, pár részlet napvilágra került. Az új sorozat 10,1 és 10,2 hüvelykes kijelzõket kap, elõzõ a jelenleg a 2133 netbookban alkalmazott 1280x768 pixeles megjelenítõvel ellentétben 1024x576 képpontból állítja elõ a látnivalót.
+
+[+] Melyik a jobb mini notebook: MSI Wind vagy HP 2133? 
+
+Az új netbookok hagyományos merevlemezzel és SSD-vel is rendelhetõek lesznek, remélhetõleg a 2133-as négy gigabájtos tárolójánál nagyobb változatban. Az új gépek értékesítésének kezdete valószínûleg az új kijelzõ alkalmazáasa miatt került jövõ év elejére, a jelenlegi 1280x768 képpontos kijelzõjével már idén novemberben szállíthatóak lettek volna. Remélhetõleg az új sorozat nem szakít majd a 2133-as modellre jellemzõ fémburkolattal, amely a többi gyártó termékénél elegánsabb külsõt kölcsönöz a HP netbookjának.
+
+
+
+
+A HP új netbookjaiban az Atom processzorra váltás azért váratlan, mert a VIA hamarosan, akár pár hónap múlva kijöhet Nano processzorával, amellyel a jelenlegi C7-M változatot váltja. A Nano számos téren mérföldkõ a VIA számára, így például az elsõ 64-bites utasításkészletû, és az elsõ soronkívüli végrehajtással bíró szuperskalár mikroarchitektúra. Órajelenként három utasítás feldolgozására képes, többszintû, szavazásos elagázásbecslõ rendszerrel és hatékony cache-hierarchiával rendelkezik 1 megabájtos L2 gyorsítótár mellett.
+
+
+ Persze az is könnyen elképzelhetõ, hogy a HP tudja azt, amit mi nem, például azt, hogy a Nanót mozgató fogaskerekekbe porszem került, és a megjelenési idõpont sok-sok hónappal késik. Egy hosszabb csúszást a jelenlegi processzorral a gyártó azonban sikeresnek szánt, megfelelõ teljesítményû gépben már jelenleg sem képes kiböjtölni.

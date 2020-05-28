@@ -1,0 +1,13 @@
+Hivatalos Twitter-kliens érkezik BlackBerry-re
+
+Az UberTwitter, a TwitterBerry, a SocialScope és a Tweetcaster is teljesen korrekt, használható Twitter-kliens Blackberry platformra. Az UberTwitter helyfüggõ funkciókat is felvonultat, az üzenetekhez cellainformációt vagy a GPS által mért koordinátákat is lehet csatolni. Emellett persze mindegyik klienssel könnyen követhetõek a barátok, lehet velük válasz- vagy közvetlen üzenetet küldeni, illetve retweetelni is.
+Kérdéses, hogy a RIM miért döntött  úgy, hogy kiad egy saját, hivatalos programot, de az tény, hogy a cég kihasználhatja az alkalmazásfejlesztésben szerzett tapasztalatait, illetve a hazai pálya elõnyeit. Az egyik legfontosabb eleme a hivatalos kliensnek, hogy az üzleti Blackberry Push szolgáltatást használja majd, így a felhasználóknak nem kell majd manuálisan frissíteni az üzenetfolyamot. Minden változás azonnal szinkronba kerül az okostelefonon.
+
+ÜberTwitter
+
+Emellett a program megkapja a Blackberry core (mag) alkalmazás integrációt, a kontaktlista egyesíthetõ a telefonkönyvvel, a böngészõvel, illetve a készülék beállítás varázslójával is. Ez utóbbi azt jelenti, hogy az új készülékekre is valószínûleg alapból felkerül a kliens, s minden vásárlónak felajánlja majd a varázsló az elsõ indításkor, hogy állítsa be Twitter-fiókját a telefonon is.
+A CrackBerry blog értesülései szerint az általános funkcionalitás terén viszont nem kell semmi extrára számítani, ez a program is hasonló lehetõségeket kínál majd mint társai. A felhasználók számára ez jó hír, a két legnépszerûbb blackberrys kliens, a TwitterBerry és az UberTwitter fejlesztõi viszont ellehetetlenülhetnek hosszú távon, ha a RIM integrálja saját alkalmazását.	     
+                  
+                  
+                  
+                   

@@ -1,0 +1,16 @@
+Beszáll a GCC fejlesztéseibe az Intel
+
+Beszáll a GCC, vagyis a GNU Compiler Collection fejlesztéseibe az Intel -- adta hírül a GCC projekt levelezõlistáján megjelent levelekre hivatkozva a Phoronix. A processzorgyártó óriás eddig saját fordítóprogramjaira, az Intel Compiler Collectionre (ICC) koncentrált. A vállalat compilerfejlesztéseinek célja, hogy a lehetõ legnagyobb teljesítményt csikarja ki saját processzoraiból, ez vélhetõleg a GCC-hez történõ hozzájárulások esetén sem lesz másként.
+
+
+
+Az Intel fordítóit rendszerint a kisebb kódtömegû, ugyanakkor teljesítményigényes alkalmazásokhoz használják a fejlesztõk, ahol lehetõség nyílik a kód kimerítõ optimalizálására és a hatékony debuggolásra. Az Intel rengeteg energiát ölt már compilertechnológiájába, aminek eredményeként az iparági sztenderd benchmarknak számító, Intel processzoron végzett SPEC CPU2006 mérések több mint több mint 98 százalékában részben vagy teljesen az Intel C++ és Fortran fordítóit használták, legyen szó Windows vagy Linux platformokról.
+
+Az ICC fölénye természetes, nyilvánvalóan az Intel compilerfejlesztõ csapatai rendelkeznek a legtöbb információval a processzorok lelkivilágáról. A fejlesztõk többsége, fõként az infrastrukturális és üzleti szoftverekkel foglalkozók azonban nem az Intel fordítóit használják elsõsorban, az agresszív optimalizációk miatt drasztikusan megnövekedhet a forgatási idõ, ami már önmagában sokak számára idegtépõ lehet, de a húr legtöbbeknél akkor pattan el, mikor a forgatás vagy a bináris futtatása elszáll egy hibával.
+
+
+Windows platformon a fejlesztõk által széleskörûen használt Microsoft-fordítók megfelelõen nagy teljesítményt csikarnak ki az Intel processzoraiból, így úgy tûnik, az Intel figyelme most az ingyenes és nyílt GCC felé fordul, melyet leginkább a nyílt forráskódú közösség, valamint a hobbifejlesztõk használnak. A GCC által generált kódok többsége azonban jelentõsen lassabban fut, mint az inteles vagy más kereskedelmi fordítókkal produkáltak, vagyis nem aknázzák ki az Intel processzoraiban rejlõ potenciált. 
+
+Az Intel ezen szeretne változtatni, ezért három, láthatóan igen tapasztalt  compilerfejlesztõt rendel a GCC projekthez, akik a jövõben hozzájárulnak majd ahhoz, hogy robusztusabb, nagyobb teljesítményû fordítóprogramok álljanak a nyílt forrású közösség rendelkezésére. A felhalmozott tapasztalatok átültetése mellett az Intel mérnökei leginkább abban segíthetnek, hogy az új mikroarchitektúrákhoz hamarabb érkezzen támogatás.
+
+ Az Intel a GCC támogatásában az AMD mögött jár, mely saját fordítókkal nem rendelkezvén külsõ partnerekkel, így többek közt a GCC fejlesztõivel dolgozik együtt processzorainak minél magasabb szintû támogatásán. A GCC platformfüggetlen, így számtalan processzorra és operációs rendszerre képes kódot generálni, az Intel és az AMD számára azonban kétségtelenül az x86/Windows és x86/Linux változatok a legérdekesebbek, de említésre méltóak még a BSD-k is. 

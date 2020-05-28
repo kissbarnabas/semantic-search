@@ -1,0 +1,19 @@
+Webkamerában elérhetõ az elsõ folyadéklencsés optika
+
+A Varioptic által fejlesztett folyadéklencsérõl már többször írtunk a HWSW hasábjain, de az elsõ kereskedelmi forgalomra érett termékek ideje csak most érkezett el. Az olaj és víz eltérõ fizikai tulajdonságait kihasználó folyadéklencse elõször webkamerákban teljesít szolgálatot.
+
+
+
+A Varioptic és a Shenzhen Akkord Electronics június 10-én jelentette be a két új webkamerát, amelyek a Varioptic folyadéklencséit alkalmazzák. Bõ két hét várakozás után az S1300 és az S2000 AF SnakeCam elsõ szállításai megindultak, és hamarosan elérik a vásárlókat is, mégpedig meglepõen alacsony áron. A két webkamera eltérõ felbontású CMOS szenzorok elõtt alkalmazza a Varioptic folyadéklencséit: míg az S1300-ban 1,3 megapixeles, addig az S2000-ben 2 megapixeles CMOS érzékelõt találunk.
+
+
+
+A folyadéklencsék számos elõnnyel rendelkeznek a hagyományos optikákkal szemben, amelyek közül elsõ helyen áll a kisebb méret, a csekély energiafogyasztás, valamint az alacsonyabb elõállítási költség is, de mindenképp ide sorolható a széles hõmérséklettartományban tapasztalható megbízható üzem, de még a fókuszálás gyorsasága is -- utóbbi természetesen az optika mellé párosított elektronikán is múlik -- amelynek segítségével videofelvételek közben is elérhetõ a folyamatos, filmfelvétel közben mûködõ élességállítás. A SnakeCam utóbbi elõnyt a 30 képkockás mozifelvételek rögzítése közben is kiaknázhatja.
+
+Az optikában a két üveglencse között olaj és víz található, amelyek nem keverednek egymással, formájuk, fénytörõ pontjuk pedig elektromos áram stimulálásával változatható. Ezáltal egy olyan optikai lencsét kapunk, melynek fókusztávolsága elektromos árammal, mozgó alkatrészek nélkül változtatható. A Varioptic jó optikai minõséget, a látható fénytartományban teljes átlátszóságot, gyors reakcióidõt és nagy stabilitást ígér, ráadásul olcsón elõállíthatóan, ezt bizonyítja, hogy az S1300 és az S2000 AF SnakeCam is húsz dollárért kerülhet a vásárlókhoz.
+
+
+
+A webkamerákban a Varioptic Arctic 416 optikai egysége található, nagy valószínûség szerint "berepülik" ezt az olcsó termékekben, amíg az egységeket gyártó Seiko Instruments, mely egyebek mellett merevlemez-részegységeket, nagyformátumú tintasugaras nyomtatókat, kondenzátorokat, illetve gombelemeket is gyárt, elõkészíti a mobiltelefonokba szerelhetõ modulok termelését. A Varioptic és Seiko márciusban kötött megállapodása értelmében a harmadik negyedévtõl kezdõdhet a folyadéklencsék tömegtermelése havi 500 ezer kezdeti darabszámmal, amely késõbb jelentõsen növelhetõ a piaci igények függvényében.
+
+A Seiko gyártósorairól egy helyett rögtön két típus gördülhet le, amelyek közül az Arctic 314 a 0,33 hüvelykes, a Shenzhen Akkord által forgalmazott webkamerákban megbúvó Arctic 416 pedig a kisebb fizikai méretekkel rendelkezõ 0,25 hüvelykes képérzékelõkkel szerelhetõ egységbe. Mindkét modell képes öt megapixeles felbontásig kiszolgálni a szenzorokat.

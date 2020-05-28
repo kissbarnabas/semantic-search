@@ -1,0 +1,38 @@
+Viszlát, GPU -- a PC-s grafika következõ lépcsõje a szoftveres render lesz
+
+[Ars Technica] Az "inflexiós pont", vagy hajlási pont manapság elcsépelt fogalom, amennyiben a számítástechnika bizonyos ágazatairól beszélünk, bár a legtöbb esetben csak a korlátoltság szüli a gondolatot, hogy innen már nincs tovább. Ha viszont valahol helytálló a fogalom, akkor az a számítástechnika történetének egy olyan pillanata, ami felé igen gyorsan haladunk, amikor a többmagos hardverekre és a többszálúsítást kihasználó programozásra váltás megtöri a mindeddig igaz paradigmákat, melyek a hardver és a szoftver viszonyát voltak hivatottak leírni. A probléma pedig az, hogy az ipar még nem döntötte el igazán, hogy a régit melyik új paradigmával helyettesíti majd.
+
+
+
+Visszatérés az Édenbe
+
+Fontos tény, hogy nem az egész számítástechnikai ipar fog egycsapásra átesni ezen a csúcsponton. A Moore törvényének megfelelõ fejlõdés érint minden processzortípust, így a GPU-t is. Az áttörés akkor következik be, mikor a grafikus chipek a specializált, egyedi funkciókra kihegyezett másodlagos processzorból átalakulnak egy jóval általánosabban programozható, párhuzamos eszközzé -- ez a folyamat ma már egyértelmûen megkezdõdött. Amennyiben ez megtörténik, akkor a játékgyártóknak esélyük lesz teljesen újragondolni a valós idejû 3D renderelést egészen az alapoktól.
+
+Tim Sweeney, az Epic Games egyik alapítója és vezetõ programozója  szerint ez az áttörés már sokkal régebben közeledik, mint amióta újra beszélünk róla. Anno, az Unreal Tournament megjelenése után Sweeney egy interjúban azt állította, hogy a renderelés vissza fog térni a CPU-hoz. A nagy öreg ebben az interjúban évekre lebontva megjósolta, hogy mi fog történni a 3D-piacon, s nem is tévedett sokat.
+
+Kilenc évvel ezelõtt Sweeney 2006-2007 körülrre jósolta, hogy a CPU annyira gyorssá és erõssé válik, hogy a 3D gyorsítás csak alig észrevehetõ elõnyöket nyújt majd a renderelésnél az emberi érzékelés határain belül, ezért a dedikált 3D-chipek gyártása szilíciumpazarlás lesz mindössze. Akkori állítása szerint a grafikai megoldások visszatérnek majd a szoftveres renderelés irányába, a nem tradicionális architektúrák, mint a voxel renderelés vagy a REYES-féle algoritmus (amelyre az animációs filmekhez használt Pixar PhotoRealistic RenderMan is épül) pedig új reneszánszukat élik majd.
+
+A 9 éves jóslat valóra válik 
+
+Ugyan Sweeney legalább két évet tévedett, de az akkori állításai egyre igazabbnak tûnnek, és egyre helytállóbbak a szoftveres megoldásokkal és a GPU mint fix funkciókra behuzalozott processzor halálával kapcsolatban. Az Intel nemrégiben bemutatott Larrabee terméke ugyan grafikus chipként lesz eladva, de valójában egy jól megtervezett univerzális, programozható, többmagos processzor. Ahhoz pedig nem fér sok kétség, hogy az NVIDIA és az ATI hasonló megoldásokkal áll majd elõ.
+
+Az NVIDIA nVision konferenciáján Sweeney az Ars Technica újságírójának adott interjújában bocsátkozott újabb jóslatokba, illetve egyfajta iránymutató tanításba, felkészítve a grafikus programozókat a közeljövõ kihívásaira -- írásunkban az itt elhangzottakból szemezgetünk. Az Unreal atyja szerint a fix funkciós GPU-k eltûnése egyben a grafikus API-k halálos ítélete is, így elméletben elbúcsúzhatunk a DirectX-tõl és az OpenGL-tõl is. "A játékmotorokat programozók mindössze egy C-fordítóval, egy üres szövegszerkesztõvel és fojtogató mennyiségû lehetõséggel néznek majd szembe, miközben ráveszik az új generációs általános célú hardvereket, hogy pixeleket helyezzenek a képernyõre."
+
+DirectX helyett ismét igazi programnyelvek
+
+Tim Sweeney szerint a következõ generációkban a játékfejlesztõk száz százalékban valós programnyelveket használnak majd a renderelés kódolására, mint a C++ vagy a CUDA, és nem olyan kötött API-kat, mint a DirectX vagy az OpenGL. Ennek eredményeképp teljesen mindegy lesz, hogy Intel, NVIDIA vagy ATI hardveren fut-e a kód, az számít mindössze, hogy  elégséges teljesítményû hardver legyen alatta.
+
+
+ Sweeney szerint azzal, hogy rendelkezésre állnak teljesen programozható shaderek, teljességgel anakronisztikus az a 25 évvel ezelõtt fogant ötlet, ahogy a mai videokártyák a látható teret kötött sorrendben renderelt háromszögekre osztják fel egy óriási framebufferben egy fix raszterizálót használva. "Miért kellene ilyen módon leképezni a jeleneteket, ha számos sokkal érdekesebb lehetõség is rendelkezésre áll?" -- teszi fel a kérdést Sweeney.
+
+Kompromisszumok a célhardverben
+
+Ugyanakkor nem feltétlenül kell azt gondolni, hogy kizárólag szoftveres megoldások maradnak majd a piacon. A pletykák szerint az NVIDIA következõ chipje továbbra is tartalmaz majd elõre huzalozott grafikus funkciókat, hogy támogassa a jelenleg szabványos megoldásokat. Sweeney szerint ha egy teljesen programozható GPU-val kell dolgozni, akkor nem számít az sem, ha néhány fix funkció is megbújik benne. Ha emiatt a chip mondjuk kevesebb energiát fogyaszt majd régi DirectX játékok futtatásánál vagy jobban teljesít hagyományos felhasználás esetén, gazdaságosabb lehet beletenni a hardverbe ezeket a részeket is, még akkor is, ha többnyire üresjáratban lesznek majd -- vélekedett Sweeney. A Larrabee processzorban a DirectX-támogatás már inkább visszafelé kompatibilitási kérdés, mint evolúció.
+
+Tim Sweeney is azon a véleményen van, hogy az utolsó forradalmi ugrás a DX9 volt, a tizedik verzió csupán kiegészítette azt néhány látványos, de kötött funkcióval. A DirectX 9 behozta a teljesen programozható, végtelen hosszúságú shadereket teljes lebegõpontos számítási támogatással, ez a korábbi pipeline megoldáshoz képest valóban forradalmi, minden egyéb fejlesztés viszont inkrementális, egyfajta visszatekintgetés a múltba. A DirectX 9 az utolsó jelentõs fejlõdés volt a játékok kinézetében, a következõ pedig a visszalépés lesz a szoftveres rendereléshez.
+
+Egyenlõ esélyek
+
+A közeljövõt ugyan viszonylag egyszerûen vázolta fel Sweeney az interjúban, ugyanakkor tisztán látja a kihivásait is ennek az útnak. A túl nagy szabadság és a lehetõségek végtelen száma nehezebbé teszi majd a fejlesztõknek az optimális megoldások megtalálását, szemben azzal a csõvel, amit a DirectX jelentett. A cél viszont egy gazdaságos, hatékony és minõségben elõremutató programozás lehetõvé tétele. A mostani helyzet, amikor az egyik generáción belül még csak 10 millió dollár egy játék költsége, majd a következõben már 30 millió, az tarthatatlan. Ehelyett egyszerû, könnyû programozási modellekre van szükség, melyek skálázhatóak a több szálon és több processzormagon történõ futtatáshoz. 
+
+A teljes interjú szövege itt olvasható: Ars Technica: Twilight of the GPU

@@ -1,0 +1,9 @@
+Teljeskörû szinkronizálást végez a nokiás Google Sync új verziója
+
+A két szinkronizálási funkció eddig csak az iPhone- és BlackBerry-felhasználók, valamint a Windows Mobile-t futtató okostelefonok tulajdonosai számára volt elérhetõ egyszerre, utóbbiak esetében a Microsoft Exhange Activesync protokollt felhasználva mûködött a rendszer. A Gmail-kontaktokat és a naptárbejegyzéseket szinkronizáló Sync push technológiát használ, azaz a webalapú szolgáltatásba vagy a telefon saját naptárába vagy névjegyzékébe felvitt változtatásokat gyakorlatilag azonnal átvezeti a rendszer.
+
+
+
+A Google Sync elsõ használata elõtt nem árt azonban figyelembe venni, hogy a rendszer a telepítés során adott esetben teljesen felülírhatja a mobiltelefonban tárolt névjegyzéket, a fejlesztõk ezért azt tanácsolják a kísérletezõ kedvû felhasználóknak, hogy a szolgáltatás aktiválása elõtt készítsenek biztonsági másolatot a telefonról. A szolgáltatás mûködéséhez itt is szükséges egy Exchange ActiveSync fiók elõzetes telepítése.
+
+A keresõcég Sync szinkronizáló szolgáltatásának Nokia okostelefonokhoz készült új verziója az m.google.com/sync weboldalról érhetõ el a telefonok beépített böngészõjét használva. Az új verzió egyelõre csak egy Google Calendar naptárprofil bejegyzéseit képes szinkronizálni.

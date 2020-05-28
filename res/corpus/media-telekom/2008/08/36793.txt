@@ -1,0 +1,63 @@
+Kipróbáltuk: Sony Ericsson G900, türelmetleneknek nem való
+
+A Sony Ericsson G900-at vettük közelebbrõl szemügyre -- és nagyot csalódtunk. Szinte biztosra vehetjük, hogy a türelmetlenebb kezekbõl e mobil rövid idõn belül a GSM-boltok használt készülékeket tartalmazó fiókjaiba kerül. Kár érte. 
+
+
+
+Lassú
+
+Az idén februárban bejelentett G900 érkezett szerkesztõségünkbe, melynek mûködését Symbian operációs rendszer (UIQ 3 kezelõfelülettel) koordinálja. A mobil 2,4 hüvelykes, QVGA felbontású érintésérzékeny kijelzõvel rendelkezik, mely alatt egy hagyományos billentyûzet is megtalálható. Utóbbi rendelkezik egy ötállású navigálógombbal, melyhez a jobb és baloldalt a megszokott törlés- és visszalépés gombok is megtalálhatók, sõt, még két gyorsgomb is csatlakozik melléjük, amely bizony jókora zavart okozhat a kezelésben azok számára, akik a G900-ra hagyományos mobilról váltanak.
+
+Sony Ericsson G900
+
+
+
+Visszafejlõdés?
+
+Rég elmúltak azok az idõk, amikor kivételes teljesítményre és fürge üzemre számíthattunk a gyártótól. Erre példának a 2000-ben bemutatott Ericsson R380 a legjobb, melyre az 1997-es James Bond film készítette fel a fogyasztókat az abban használt Ericsson JB988 filmkellékkel, mely azonos vonások mellett jócskán el is tért az érintõképernyõs, piacra került, végleges terméktõl. Az R380 a maga idejében ámulatbaejtõ és szívdobogtató volt, mindent tudott, aránylag kis méretben egyesítette a PDA-funkciókat a GSM telefonnal, és ami egy komplikáltabb, sokoldalú készülékbõl manapság nagyon hiányzik: nem késztette hosszú másodperces várakozásra tulajdonosát.
+
+
+
+
+A G900 technikai adatai komoly készüléket jellemeznek, van benne öt megapixeles kamera, Wi-Fi csatoló, Bluetooth rádió, valamint 3G adatátvitel, de sajnos a kezelhetõsége kritikán aluli. Már az elsõ bekapcsolás idõigénye is jóval hosszabb a szokásosnál, igaz, SIM-kártyát sem cserélget gyakran az a felhasználói réteg, akiknek a gyártó e készüléket szánta. Ennek ellenére lemerülhet az akku, ekkor azonban percekre nem állhat meg az élet. A tervezõk tisztában vannak ezzel a gyengeséggel, ezért a G900 a fõképernyõt már akkor elénktárja, amikor a bootolási folyamat még javában tart. Ha nem hagyunk egy kis idõt még neki, és elvárjuk, hogy az elsõ másodpercektõl csak velünk, a mi utasításinkkal foglakozzon, rendesen összezavarhatjuk. A lassúság egyébként bekapcsolástól kikapcsolásig tart, a készüléktõl olyan tempót ne is várjunk, amitõl megszerethetnénk.
+
+A G900 mindössze 3G adatkapcsolatot kínál, HSDPA sebességet nem ad, amely így 2008 év vége felé közeledve már a kategóriában lassan kihagyhatatlan és a hiánya ciki is. Ennek ellenére a beépített Opera böngészõ flottul tárta elénk a weboldalakat, támogatja a teljes képernyõs és a vízszintes megjelenítést is. A mobil az elsõ csatlakozás elõtt felkínálja a SIM-kártyánkhoz passzoló szolgáltató adatkapcsolatához szükséges beállítások automatikus letöltését és telepítését, ám ennek folyamatába a G900 annyira belemélyedt, hogy abból csak az akkumulátor kivétele hozta ki. A fagyást a letöltés közben aktiválódó automatikus billentyûzár okozta, mely alól a gombokat nem lehetett felszabadítani. Nagy valószínûség szerint egy késõbbi szoftverfrissítés ezen orvosol majd.
+
+Érintõkijelzõ és a softgombok
+
+A készülék másik nagy hibája, hogy a gyorsgombok és az érintõképernyõ együttes jelenléte összezavarhatja a felhasználót. Már évtizednyi idõ óta ismerjük a "softgomb" kifejezést, elsõk között az 1994 végén bejelentett Nokia 2110-ben találkozhattunk vele. A lényege, hogy a kijelzõ alatt található gombok funkciója változik, a hozzájuk tartozó parancs a kijelzõ legalsó sorában jelenik meg. Ezek a feliratok a G900 240x320 képpontos kijelzõjérõl sem hiányoznak, de itt a feliratokra kell böknünk, nem pedig az alatta lévõ gombokra. Azonban a felhasználók többsége -- így mi is -- már zsigerbõl a felirat alatti gombokra nyomunk, lassan 14 éve ezt szoktuk meg. Készüljünk arra, hogy a legváratlanabb helyzetekben kerül elénk az SMS írásának lehetõsége.
+
+SMS a "tovább" helyett
+
+Fényképezés
+
+A fényképezésre és videofelvételre is alkalmas mobil a képalkotás terén épphogy helytáll, öt megapixeles, részlettelen, zajos képeket készít, melyek élességéért autofókusz felel. Hozzá kell tennünk, hogy a képminõség egy öt megapixeles kompaktfényképezõ által kínáltaktól messze elmarad, csak akkor lehetünk elégedettek, ha fejben tartjuk, nem a fotózás a mobil elsõdleges funkciója. A sötétebb helyszíneket korlátozott távolságig LED-vaku világíthatja be, a közeli felvételekre alkalmas makróüzemmódra pedig jól hallhatóan áll át a parányi lencse. Az autofókuszos rendszer hasznot húz az érintésérzékeny kijelzõbõl: arra ujjunkkal, vagy a telefon oldalából kihúzható ceruza segítségével rábökve megadhatjuk, hogy a téma melyik része legyen éles.
+
+Öt megapixeles zajos képek
+
+Kézírásfelismerés jó, bár nem használjuk
+
+Van azonban, ami egész kellemesre sikerült, ez pedig a kézírásfelismerés. Az érintõképernyõbõl adódóan ezt a lehetõséget nem vehette a gyártó félvállról, igaz, levelek és SMS-ek írásához a gombok, és a kijelzõn kirajzolt QWERTY billentyûzet után ez már csak a harmadik szövegbeviteli mód. A betûk írását a korai Palm tenyérgépektõl eltérõen nem kell megtanulni, kétvonalas betûket (ahogy a Palmoknál a "t"-betûnél az akasztófa, vagy a "k" esetében a masni volt a helyettesítõ) is felismer a G900. Régóta SMS-ezõk az üzenethossz drasztikus, egyben indokolatlan növekedése miatt kerülték az ékezetek írását, ezért sem értékeljük sajnálatosnak, hogy az ékezetes betûk írásakor a G900 kézírásfelismerõje is gyengélkedhet.
+
+Zenehallgatás
+
+A telefon természetesen rendelkezik MP3-lejátszóval, melyet húsz állomást eltárolni képes FM-rádió is kiegészít. Utóbbi a hagyományokhoz híven feltétlen igényli a fülhallgató használatát, mert annak vezetéke antennaként is üzemel. A zenék igen jól szólnak a fülesen keresztül, de a beépített hangszórótól jó minõséget nem várhatunk, cserébe legalább hangos. A headsetes üzem finomhangolható, kiemelhetõek a mélyhangok és több hangszín közül is választhatunk. A G900 diktafonként is használható, ekkor a felvételek választhatnak a 160 megabájtos belsõ memória, vagy a behelyezett Memory Stick M2 kártya között.
+
+A G900 hátulja
+
+Mobil iroda
+
+A helytõl függtelen munkavégzést QuickOffice irodai fájlkezelõ, valamint a PDF-olvasó könnyíti, ráadásképp a találkozók során kapott névjegyeket a mobil képes beolvasni is. Az már szót sem érdemel, hogy a programok között az összes személyes adatkezelõ alkalmazást is megtaláljuk, hiszen ez ma már nem csak egy okostelefontól várható el, hanem az összes belépõkategóriás mobiltól is. A G900 akkus üzemidejérõl rosszakat nem tudunk mondani, azonban erõs nyúzásnak kitéve itt sem találkozhatunk csodával, ismerkedés közben, menüben kutakodva, fotózgatva, zenét hallgatva -- mint sok más okostelefonnál is -- hamar szükségünk lehet a töltõre.
+
+Szomorú értékelés
+
+A vékony, skandináv formavilágú burkolat sokak tetszését nyerheti el, lesznek szép számmal olyanok, akik elsõ látásra éreznek iránta vonzalmat. Tény, hogy a G900 nem bizsu, az apróbb csicsákat a letisztult vonalak váltják, a lehetõ legtávolabbra utaztatva a téglaformát a távolkeleti villogástól, és görbéktõl. A mosolyt azonban már a használat elsõ percei is lehervaszthatják, ehhez nem is kell túl finnyásnak lennie a telefont birtoklónak. Sikeres piaci szereplést a G900-nak nem jósolnánk, 80 ezer forint környékén nem ilyen telefont keresnek a komolyabb készülék iránt fogékonyak. A Symbian operációs rendszer komoly hardvert igényel a frissességhez, de ebben a 106x49x13 milliméteres, 99 grammos készülékben a 208 megahertzes ARM9 processzor õskori lelet, hiba volt abban bízni, hogy elég lesz.
+
+
+
+
+
+Sony Ericsson G900 tesztfotók, katt az eredetiért a kisképre
+ 
+
+A Sony Ericsson is érezheti a problémát, erre lehet bizonyíték, hogy a Symbian operációs rendszert a közelgõ XPERIA csúcsmobilban Windows Mobile váltja. Emellett az is nyilvánvaló, hogy annak érkezéséig is kellett a gyártónak valamivel virítania. Okosabb lett volna azonban, ha a Sony Ericsson a megváltó modell érkezéséig inkább a sikeres Cyber-shot sorra, illetve az az alatti kategóriákra összpontosított volna. Feltétlen kiemeljük, hogy véleményünk szubjektív, a használat közben átélt élményeken alapszik, azonban kikerülhetetlen mondat következik: a G900-at nem ajánljuk.

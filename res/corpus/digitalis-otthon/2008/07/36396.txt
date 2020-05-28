@@ -1,0 +1,50 @@
+Kipróbáltuk: Netgear EVA8000 Digital Entertainer HD vezeték nélküli médialejátszó
+
+A hálózati médialejátszók furcsa öszvérek: egyfajta átmenetet, vagy méginkább hidat képeznek a számítógépek és a szórakoztatóelektronikai berendezések közt. A PC-n tárolt tartalmak lejátszása nem elképzelhetetlen nélkülük, de velük sokkal kényelmesebb, és adott esetben felhõtlenebb szórakozást ígér, mint amit egy átlagos számítógép nyújtani képes. A Netgear tavaly piacra dobott otthoni hálózati médiacenterét, az EVA8000 Digital Entertainer HD-t kipróbálva arra is rá kellett jönnünk, hogy az efféle eszközök használatához, beüzemeléséhez ma már nem feltétlenül kell különféle bûvésztrükkökhöz folyamodni, az amerikai cég készüléke tehát inkább szórakoztatóelektronikai berendezés, mintsem célszámítógép.
+
+
+
+Elõször is a hasonló kaliberû hálózati médialejátszók üzembe helyezése általában mindjárt azzal kezdõdik, hogy a vásárlónak csavarhúzót kell ragadnia és szét kell szednie a készüléket, de legalábbis le kell szerelnie a burkolatot, hogy beépíthesse a házba a merevlemezt, ami a legritkább esetben tartozéka a rendszernek. Bár ez a folyamat önmagában véve nem túl bonyolult, a vevõk jelentõs része bizalmatlan az ilyen "szereld magad" megoldásokkal szemben -- tegyük hozzá, némileg joggal. A Netgear EVA8000-nél ez az aggály biztosan nem merül fel senkiben, a készülékbe ugyanis nem építhetõ be merevlemez, ami másfelõl hátrányt is jelenthet, hiszen így le kell mondani a helyben tárolt tartalmakról. Vagy mégsem?
+
+
+
+Az EVA8000 mindössze egy kéttenyérni alaplapból és tápegységbõl áll, háza azonban mégis szellõs -- alighanem azért, hogy méretben passzoljon a nappaliban található hi-fi berendezésekhez, videóhoz, DVD-játszóhoz. A sötétszürke ház elõlapja szinte kong az ürességtõl: bekapcsológomb az egyik oldalon, 6,5 milliméteres jack hangkimenet és USB-port a másikon. A lejátszónak hátul is van USB-csatlakozója, ami értelemszerûen azt jelenti, hogy bármilyen külsõ adattároló ráaggatható (feltéve, hogy nincs saját, belsõ USB hubja), a lokális adattárolás problémája tehát kipipálva.
+
+
+
+A Netgear hálózati médialejátszója -- ahogy arra neve is utal -- HD-minõségben képes lejátszani a támogatott videókat, de a standard felbontású anyagokat is felkonvertálja a megjelenítõtõl függõen 1080i vagy 1080p felbontásra. A HD felbontásokhoz nyilvánvalóan a lejátszó komponens- vagy HDMI-kimeneteit kell használni (a készülék egyszerre csak egy kimeneten ad ki képet), de a régebbi tévék tulajdonosai sem kell csüggedjenek, hiszen az EVA8000-en van három különbözõ SD-kiement is (kompozit RCA, S-Video, Scart). A hang analóg és digitális úton egyaránt távozhat a dobozból, két S/PDIF kimenet és egy sztereó RCA kimenet közül választhatunk, vagy ha modernebb erõsítõvel rendelkezünk, használhatjuk a HDMI kimenetet is a hangátvitelre.
+
+Nem csak geekeknek
+
+Az EVA8000 üzembe helyezése nem igényel különösebb szakértelmet, a folyamaton egy pár lépcsõbõl álló varázsló segíti át a felhasználót. Ha a készülék összes funkcióját használni akarjuk, PC-nkre telepítenünk kell a mellékelt Netgear Digital Entertainer szoftvert, melynek egyelõre csak windowsos és maces változata létezik, ebbõl következik, hogy bár a berendezés a szükséges hálózati protokollokat használó operációs rendszerekkel ugyan kivétel nélkül együttmûködik, bizonyos képességek csak az említett rendszerek alól érhetõk el.
+
+A PC-re telepített szoftver elvégzi helyettünk a szükséges hálózati megosztási beállításokat is, így már csak arról kell gondoskodnunk, hogy az EVA8000 lássa a helyi hálót. Ennek érdekében két adaptert, egy vezetékest (Fast Ethernet) és egy vezeték nélkülit (802.11g) foghatunk munkára. Ha elsõsorban HD-mozizáshoz vásároljuk ezt a készüléket, mindenképpen ajánlott az elõbbi használata, a vezeték nélküli kapcsolat sávszélessége -- különösen ha a hozzáférési pont és a lejátszó nincs egy helyiségben -- ugyanis hamar szûk keresztmetszetnek bizonyulhat. Talán szerencsésebb lett volna ez esetben már az újabb, 802.11n szabvány tervezetének megfelelõ WLAN-modult építeni az EVA8000-be, a Netgear azonban valamiért nem kockáztatta meg ezt a lépést, annak ellenére, hogy választékában számos, egyébként kiváló Draft-N kompatibilis hálózati berendezés található.
+
+
+
+Miután így vagy úgy egymásra talált az EVA8000 és a PC-nk, vagy a hálózati adattárunk, a médiafájlok számától függõen hosszabb-rövidebb szkennelés után kezdõdhet végre az igazi nyúzópróba. A médialejátszó tetemes mennyiségû konténert és fájlformátumot ismer, köztük külön érdemes kiemelni a manapság egyre népszerûbb MKV-t, melyrõl ugyan a készülék dobozán egy szó sem esik, a termék weboldala és a kezelési utasítás azonban már egyértelmûvé teszi, hogy a Netgear megoldása ezzel a konténerrel is boldogul, melyrõl a próba során mi magunk is meggyõzõdhettünk.
+
+
+
+A Sigma Designs referencialogikájára épülõ EVA8000 képminõsége szokás szerint elsõrangú, a megfelelõen kódolt filmek szépen jelentek meg a próbához használt HD Ready Sony Bravia LCD-n, a HD-tartalmaknál pedig -- ahogy az elvárható -- borotvaéles képet adott ki magából az EVA8000. Az internetes szolgáltatások közt érdekességként megjelenik a Youtube-videók lejátszási lehetõsége is. Ezek a kisméretû, agyontömörített videók, melyek a böngészõablakban még elfogadható minõségben jelennek meg, rettentõ rondán mutatnak a nagyméretû LCD-n.
+
+
+
+
+Az internetes lehetõségek sora egyébként nem ér véget a Youtube-os videózással és kereséssel: az EVA8000-zal a Flickeren tárolt fotók is megtekinthetõk, a lejátszóval internetes rádiókat is lehet hallgatni és RSS hírolvasó is került bele, mely a podcastokat is jól lekezeli. A készülék mindezeket a funkciókat egy jól felépített, átgondolt és egyszerû menürendszeren keresztül kínálja.
+
+Videomagnó helyett is
+
+A Netgear EVA8000 szolgáltatásai közül mindenképpen érdemes szót ejteni két különlegességrõl: egyrészt a készülék videorögzítéshez is remek segédeszköz lehet, a PC-be épített tévétunerrel karöltve (igaz, a kompatibilis tunerek listája lehetne kissé bõvebb is), valamint ha több EVA8000 található egy hálózaton, képesek kétféle üzemmódban együttmûködni. Van parti mód, ahol a lakás összes médiacentere ugyanazt a médiafájlt játssza le egyszerre, a "follow me" üzemmóddal pedig bármikor át lehet kapcsolni a lejátszást egy másik szobában lévõ EVA8000-re.
+
+
+
+Bár alapvetõen elégedettek voltunk az EVA8000-rel a rövid próba során, a berendezés azért olykor megmagyarázhatatlan jelenségekre ragadtatta magát. Arra hamar rájöttünk, hogy ha jót akarunk, mindenképpen vezetékes hálózati összeköttetést kell használnunk: a WLAN-kapcsolat annak ellenére sem adott alapot a HD-stream akadozásmentes lejátszására, hogy a készülék fél méterre volt a home gatewaytõl. Mondjuk erre dicséretes módon fel is hívja a figyelmet a gyártó.
+
+Firmware a lelke mindennek
+
+Viszonylag rövid keresgélés után találtunk aztán több olyan HD-videót is (1080p felbontású WMV HD mintafájlokat és H.264 kódolású MP4-eket), amelyeket az EVA8000 csak akadozva, vagy egyáltalán nem játszott le, egy MKV mintavideónál pedig sehogyan sem sikerült hangot kicsiholni a készülékbõl. Egyszer még a hasonló alapokra épülõ Popcorn Hour A-100-nál tapasztalt lefagyást is sikerült megcsodálnunk, és akárcsak annál a készüléknél, itt is csak teljes áramtalanítással sikerült életet lehelni a rendszerbe.
+
+
+
+Az EVA8000 alapvetõen egy okos, különleges képességekkel ellátott, de nem tökéletes hálózati médialejátszó -- valószínûleg utóbbival nem minden tekintetben érthet egyet a Netgear, az ehhez hasonló készülékek szoftverét ugyanis szinte heti rendszerességgel frissítik a gyártóik, az amerikai cég ehhez képest februárban adott ki utoljára firmware-t az EVA8000-hez. Remélhetõleg a szoftveren azért csiszolgatnak még a Netgearnél, így igazán kiforrott, és tényleg a felhõtlen szórakozást szolgáló megoldássá válhat az EVA8000. Ha 80 ezer forintos ajánlott fogyasztói árát is sikerülne kissé lejjebb szorítani, biztosak vagyunk benne, hogy nem csak az amerikai piacon találna lelkes fogadtatásra.

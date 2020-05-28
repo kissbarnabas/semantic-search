@@ -1,0 +1,26 @@
+Kipróbáltuk a Ricoh Aficio GX3050sfn zselés multifunkcióst
+
+Nyomatminõségben és alkalmazási területeit tekintve valahol a lézernyomtatók és a tintasugaras nyomtatók között foglal helyet a Ricoh legerõsebb A/4-es zselés multifunkciósa, amely a szerkesztõségünk vendége volt.
+
+
+
+Kifejezetten normál papírhoz és dokumentumnyomtatáshoz tervezték a Ricoh Aficio GX 3xxx termékcsaládjának legerõsebb tagját, a GX 3050sfn multifunkcióst, melyet duplexszel, faxszal és hálózati csatlakozással egyaránt felszereltek. A kisebb alapterület (436x490x431 milliméter) érdekében a kész lapok kiérkezve mintegy 10 centiméterre kilógnak a nyomtatóházból. Az alul beépített papíradagoló tálcába 250 lapot tölthetünk, a papírkapacitás 100 lapos kézi adagolóval és 500 lapos papírtálcával bõvíthetõ.
+
+
+ Nagyon tetszetõs és alapos a kezelõfelület kialakítása, de nem honosított sem a feliratozás, sem a kétsoros szöveges kijelzõ. A fax használható a konzolról, sõt, a mellékelt LAN-FAX meghajtó telepítését követõen helyi hálózatról is. Szkennermodulja 5 centiméter vastag tárgyakat is beolvashat, ha nem az automatikus adagolóval, hanem a beépített 600x1200 dpi felbontású síkágyas szkenner üveglapjáról dolgozunk. Természetesen rendelkezésünkre állnak a megszokott irodai beolvasás, másolás funkciók is.
+
+Ricoh Aficio GF 3050fsn
+
+Kompatibilitási okokból érti a PCL6 nyelvet a nyomtató, mely szinte minden operációs rendszer alatt támogatott, sokkal több beállítási lehetõséget kapunk azonban, ha a Ricoh saját fejlesztésû, RPCS nyelven mûködõ meghajtóját telepítjük fel, ami nagyobb nyomtatási sebességet biztosít. A LevelColor mód használatával a színes területek csökkentett fedettséggel jelennek meg, ami sebességben nem eredményez elõrelépést, de lényegesen olcsóbbá teheti a színes nyomatokat. A Ricoh szerint a LevelColor módban nyomtatott színes dokumentumok költsége monokróm szinten mozog -- az állítást pontosan ellenõrizni nem tudtuk, a próbanyomatok (lásd alább) telítettségét összevetve nagyságrendileg elképzelhetõ.
+
+Egymás mellett a normál és a LevelColor beállítással nyomtatott oldal
+
+Gél technológiával nyomtat a készülék, melyet más Ricoh készülékek kapcsán (lásd az Aficio GX 7000 tesztjét)  már részletesen ismertettünk. A tintasugarashoz igen hasonló eredményt biztosít e gélnyomtató, de nyomatminõsége normál papíron közelebb áll a lézernyomtatókéhoz. Ellentétben a legtöbb tintával, a gél villámgyorsan szárad, a nyomatok csepp- és UV-állók. Nem kifejezetten fotónyomtatására tervezték, de tintasugaras fotópapíron szebb átmeneteket biztosít, mint egy folyamatos tónusú lézernyomtató. A kitöltött területeken azonban felfedeztünk az Aficio FX3050fsn esetében is szálhibákat, így fényképhatáshoz továbbra is a tintasugaras vagy hõszublimációs fotónyomtató készülékeket ajánljuk.
+
+Nemhiába adott meg a gyártó egységesen 29 lap/perc teljesítményt, a GX 3050sfn színesben ugyanolyan gyorsan dolgozik, mint fekete-fehérben, 80 másodperc alatt elkészült egy 10 oldalas összetett dokumentummal. A gél gyors száradásának köszönhetõen a duplex egység használata alig lassítja le a munkát, azaz nem kell számottevõ idõveszteséggel számolnunk papírtakarékos, kétoldalas nyomtatáskor. Nem szembesültünk azokkal a gyakori szervizfutamokkal sem, amiket kis tintasugarasoktól megszokhattunk, a rendelkezésre állás szintje a lézernyomtatókéhoz közelít. Az áramfogyasztás azonban tintasugaras szinten mozog (legfeljebb 65 watt), ami magában is jelentõs megtakarítást jelenthet, az összkép persze a kellékanyagok árától is függ.
+
+Homlokzati oldalról, könnyen cserélhetõk a gélpatronok
+
+Monokróm munkáknál olcsón, színes oldalaknál közepes árfekvésben dolgozik a GX3050fsn, 5,62 forintos monokróm és 31 forintos színes oldalköltség jött ki nagy kapacitású kellékanyag-készlettel és a gyártó által megadott kapacitásokkal számolva. Ez vetekszik a hasonló kategóriájú lézernyomtatók költségeivel, miközben nincsenek rendszeresen cserélendõ fényhengerek, fixálómûvek. Ugyanakkor a dokumentáció nem tér ki pontosan a nyomtató terhelhetõségére, ami a fej kopása miatt vélhetõen alacsonyabb, mint egy hasonló árú lézernyomtatóé. Így csak az derül ki, hogy a fenntartási költségek kedvezõek, okos használattal (gyors duplex és LevelColor) még többet takaríthatunk meg, de hogy a készülék mennyi ideig tartható üzemben, az nem ismert.
+
+Gyors, sokoldalúan használható kis irodai eszköz a Aficio GX3050sfn, mely versenyképes az irodai lézeres multifunkciósokkal, egyedül a készülék 205 ezer forintos bekerülési árát találtuk magasnak.

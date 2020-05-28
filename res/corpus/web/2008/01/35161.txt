@@ -1,0 +1,12 @@
+Február 12-én mindenkihez megérkezik az Internet Explorer 7
+
+A február 12-én esedékes frissítések keretén belül a Microsoft a vállalati felhasználók körében is elkezdi teríteni az Internet Explorer 7-et, ezért azok az ügyfelek, akik továbbra is megmaradnának az Internet Explorer 6 mellett, a  WSUS-ban (Windows Server Update Services) tilthatják le a telepítést.
+
+
+
+A Microsoft már õsszel bejelentette, hogy mindenki számára elérhetõvé teszi az Internet Explorer 7-et. A böngészõ korábban csak eredeti Windowsra települt, de októberben ezt a korlátozást feloldották, így már kalóz operációs rendszeren is használható az IE7, a Microsoft szerint ennek legfõbb oka a biztonság: a Microsoft szándéka valószínûleg az, hogy a biztonságosabb böngészõ terjesztésével megakadályozza vagy legalábbis lelassítsa azon kártevõk terjedését, amelyek a böngészõkön át fertõzik meg a felhasználók gépeit.
+
+
+ Február 12-én az Internet Explorer 7 már Update Rollup csomagként települ a WSUS-on keresztül, így azokon a helyeken, ahol ezek a csomagok automatikusan elfogadásra kerülnek, az új böngészõ fel fog települni a gépekre. Azoknál a cégeknél, ahol továbbra is IE6-ot szeretnének használni, az adminisztrátoroknak ki kell kapcsolniuk az Update Rollup csomagok automatikus elfogadását a WSUS-ban, majd február 12-ét követõen szinkronizálniuk kell a csomagokat a WSUS szerverükkel, aztán újra engedélyezni kell az Update Rollup csomagok automatikus jóváhagyását.
+
+A Microsoft által decemberben közzétett adatok alapján több mint 300 millióan használják az Internet Explorer legújabb verzióját, amivel a második legnépszerûbb az IE6 mögött. A Net Applications 40 ezer weboldal látogatási adatai szerint az IE6 még mindig a böngészõpiac harmadát birtokolja.

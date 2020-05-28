@@ -1,0 +1,12 @@
+Megjelent az OpenOffice.org 3.0 nyílt forrású irodai csomag második bétája
+
+Megérkezett az OpenOffice.org nyílt forrású irodai szoftvercsomag 3.0 verziójának második bétája, amely bárki számára letölthetõ a projekt oldaláról. A szoftver fejlõdésének ütemét jól jelzi, hogy a májusban kiadott elsõ béta után máris itt a második, a készítõk szeptemberre ígérik a végleges verziót. A most megjelent második bétaverzióban nincsenek új funkciók vagy szolgáltatások, a fejlesztõk a meglevõeket csiszolgatták, javítgatták. 
+
+
+
+Az OpenOffice.org 3.0 a korábbi verziókhoz képest számos újdosággal szolgál. Az egyik legfontosabb, hogy köztes konverterek nélkül támogatja a Microsoft Office Open XML állományokat, amelyet az Office 2007-tel együtt vezetett be a Microsoft. Az OpenOffice.org 3.0 felhasználói ugyanúgy nyithatnak meg OOXML formátumú szöveges dokumentumokat, táblázatokat és prezentációkat, és menthetnek ebbe a formátumba, mint ODF-be, vagyis a szoftver használata szempontjából nem lesz különbség a fájltípusok között. Az OOo 3 támogatni fogja az ODF legújabb, 1.2-es verzióját is, mint ahogy a nemrég ISO-szabvánnyá vált PDF/A-t is.
+
+
+ A kezelõfelületet is áttervezték, az ikonok is frissültek, emellett a szoftver egyes komponenseit is természetesen továbbfejlesztették -- a változások hol kisebbek (pl. továbbfejlesztett képkivágás és rajzolás a prezentációkészítõben, 1024 oszlopos táblázatok), hol nagyobbak (pl. közös munka megosztott táblázatokon, új lineáris megoldóprogram, több oldalt megjelenítõ szövegszerkesztõ, táblázatszerkesztõ az Impressben).
+
+A fejlesztõk nem csak azt ígérik, hogy az OOo 3 gyorsabb és robosztusabb lesz a korábbi változatoknál, hanem azt is, hogy a szoftver végre futni fog Mac OS X operációs rendszeren, és teljesen támogatni fogja az Aqua interfészt, vagyis tökéletesen illeszkedik a Mac-es alkalmazások képi világába. Vannak olyan dolgok is azonban, amelyek hiányozni fognak az OOo 3-ból, a programcsomag továbbra sem tartalmaz majd az Outlookhoz hasonló levelezõt --  a Mozilla Thunderbird és Lightning integrációjával kapcsolatban nem történtek elõrelépések.

@@ -1,0 +1,12 @@
+A Centrino ötödik és hatodik generációjába engedett bepillantást az Intel
+
+A sanghaji IDF-en az Intel bejelentette a Centrino platform hatodik generációját, amelynek a kódneve Calpella. A 2009 tavaszán érkezõ mobil platform a Nehalem-alapú processzorokra épül, és a grafika, valamint energiatakarékosság terén egyaránt jelentõs továbblépést ígér.
+
+
+
+Az idén tavasszal érkezõ ötödik generációs Centrino, a Montevina leginkább grafika terén hoz majd újdonságokat. Az IDF-en Dadi Perlmutter, az Intel Mobility Group vezetõje a platform teljesítményét a "Universe at War: Earth Assault" játékkal demonstrálta, a szemtanúk szerint a valós idejû stratégiai játék meglepõen jól futott a kiállított notebookon. Perlmutter szerint a Montevina videovezérlõjét a nagyfelbontású tartalmak hardveres dekódolására is felkészítették, ennek köszönhetõen akár akkumulátoros üzemrõl, csökkentett órajelû processzorral is lehet majd akár Blu-ray filmeket nézni a notebookokon.
+
+
+ A jövõre érkezõ Calpella legfontosabb újdonsága a 45 nanométeres csíkszélességgel gyártott, integrált memórivezérlõt tartalmazó két- és négymagos Nehalem-generációs processzorok felvonultatása lesz, amelyek (újra) támogatják a többszálú feladatvégrehajtást (HyperThreading). A mobil Nehalembõl már készül memóriavezérlõt, integrált DX10 grafikus magot és PCI Express-kontrollert egy tokba integráló változat (Auburndale), az integráció révén jelentõsen csökkenthetõ az alaplapon szükséges hely, illetve az áramkörök bonyolultsága, ami együtt jár a költségek csökkenésével is -- még olcsóbbak lehetnek tehát a notebookok.  
+
+A jövõre érkezõ Centrino platformnak, a Calpellának vadonatúj, energiatakarékos vezeték nélküli hálózati vezérlõje lesz, amellyel az Intel szerint akár 30 perc akkumulátoros üzemidõ is megspórolható a Montevinával összevetve, bár hogy pontosan milyen konfigurációban és körülmények között, arról nem esett szó. A Calpellába még a Montevináénál is jobb grafikus vezérlõt ígér az Intel.

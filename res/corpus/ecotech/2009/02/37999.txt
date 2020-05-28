@@ -1,0 +1,30 @@
+A részvényesek nem szavazták meg az AMD kettéválását
+
+Eredménytelenül zárult az AMD tegnap tartott részvényesi közgyûlése, a vállalat ugyanis nem tudott elegendõ szavazatra szert tenni ahhoz, hogy elindítsa a chipgyártás kiszervezését. A váratlan fejlemény ugyanakkor nem fordulat, állítja a chipgyártó, egyes elemzõk azonban aggódva figyelik, miként fulladhatott kudarcba egy látszólag puszta formalitásnak indult procedúra. Mint korábban a HWSW is beszámolt róla, tavaly októberben az AMD közölte, leválasztja magáról a félvezetõgyártást, és fabless chiptervezõ cégként mûködik tovább.
+
+
+
+Késõbb döntenek
+
+Az AMD tegnap megtartott részvényesi közgyûlése határozatképtelennek bizonyult, mivel a részvényesek mindössze 42 százaléka adta le szavazatát a vállalat átalakulásával kapcsolatban. A cég szerint mindössze arról van szó, hogy túlságosan feszített tempóban hívták össze a közgyûlést, és sok részvényesnek több idõre lett volna szüksége, hogy leadhassa szavazatát. A szavazás kimenetelével kapcsolatban nem lehetnek aggályok, vélik a cégnél, ugyanis az eddig beérkezett voksok 97 százaléka támogatja az átszervezést. A következõ közgyûlést február 18-ára tûzték ki.
+
+Egyes elemzõk ugyanakkor aggályukat fejezték ki a történtekkel kapcsolatban, és a tõzsde is idegesen reagált. A cég papírjai több mint 10 százalékot estek a hír hallatán, és bár némileg visszaerõsödtek a napközbeni kereskedésben, az általános tõzsdei eladási hullámban zárásig ismét meggyengültek. Pénzügyi megfigyelõk figyelmeztetõ jelként értékelik a közgyûlés eredménytelenségét, és növekedett kockázatot éreznek. Felmerül a kézenfekvõ kérdés, hogyan nem sikerült az AMD-nek a szavazatok felét begyûjtenie, mikor a cég papírjainak 40 százaléka lényegében négy  nagybefektetõ kezében van, de a kényelmes többséghez is legfeljebb egy tucat részvényest kellett volna csak megnyerni.
+
+Mint arról a HWSW is beszámolt, az AMD a tavalyi év folyamán dolgozta ki, és októberben jelentette stratégiai átalakulását, melynek értelmében megválik a félvezetõgyártástól, és a jövõben kizárólag a chiptervezésre koncentrál. A lépés az AMD processzorainak versenyképessége szempontjából hátrányos, meglazul ugyanis a chiptervezõ és félvezetõgyártó csapatok szoros együttmûködése, egyúttal azonban kényszerû is, lényegében a cég túlélése a tét. Egyes iparági megfigyelõk szerint az AMD vezetõsége ezt nem tudta megfelelõen megértetni a részvényesekkel, esetleg az átalakulás pénzügyi részleteinek mérlege nem egyértelmû néhány befektetõ számára. 
+
+Kell a pénz
+
+ Az ATI Technologies túlárazott felvásárlásával  kiköltekezett és eladósodott, és az Intel nyomásának hatására 2006 vége óta folyamatosan súlyos veszteségeseket elszenvedõ AMD képtelen tovább finanszírozni drezdai félvezetõgyárainak versenyképesen tartását. Egy félvezetõüzem évente több százmillió dollár befektetést követel meg, és a finanszírozási igény az idõ elteltével csak növekszik, ahogyan az egyre fejlettebb gyártástechnológiák költségvonzata is emelkedik.
+
+[+] Arab tõke segítségével szervezi ki gyártását az AMD  
+
+A gyártás leválasztásával az AMD megszabadul az üzemek jelentette pénzügyi tehertõl, beleértve 1,2 milliárd dollárnyi tartozástól is, azt ugyanis a Foundry vegyesvállalat veszi át, melynek többségi tulajdonosa az Abu Dhabi-i Advanced Technology Investment Company (ATIC) lesz, mely 5 év alatt legalább 3,6 milliárd dollárt injektál a vállalkozásba. Ezen túlmenõen az ATIC és a szintén Abu Dhabi-i Mubadala összesen mintegy 800 millió dollár friss tõkét visz az AMD-hez a többségi tulajdon ellenértékeként ellenértékeként -- az AMD részesedése 34 százalék lesz.
+
+
+ A készpénzre az AMD-nek a mûködése stabilitásához szüksége is volna, ugyanis a jelenlegi körülmények közepette negyedévente több százmillió dollárral csökkenhet készpénzállománya, mely a decemberrel lezárt negyedévben 1,1 milliárd dollárra rúgott. Amennyiben a részvényesek jóváhagyják az átszervezést, úgy akár 48 órán belül megérkezhet a pénz a céghez.
+
+Új szereplõ a piacon
+
+A Foundry jövõjével kapcsolatban azonban rengeteg a kérdõjel, ami a részvényesek távolmaradására is magyarázat lehet. Az újonnan induló cég egy rendkívül volatilis iparágban, a szerzõdéses félvezetõgyártásban kezdõként, magas költségbázissal, kiépített ügyfélkör és szolgáltatási tapasztalatok nélkül jelenne meg, és erõsen kétséges, hogy a -- jelenlegi körülmények között kapacitásának csak töredékét hasznosító -- TSMC, UMC, Chartered és többi bizonyított szereplõ mellett hol talál helyet a piacon. 
+
+Figyelmeztetõ, hogy az azonos félvezetõtechnológiai platformon lévõ, és kutatás-fejlesztésben élenjáró IBM Microelecetronics sem tudta kinõni magát, és veszteségesen üzemel. Ez pedig azzal fenyeget, hogy az AMD 34 százalékos részesedésének értéke könnyen lenullázódhat, amennyiben a Foundry nem válik sikeressé, és az arabok idõvel elzárják a pénzcsapot. Nem szerencsés ómen, hogy Európa egyetlen memóriagyártója január végén, a világ legnagyobb NOR flash-gyártója, az AMD-bõl kivált Spansion japán egysége pedig tegnap jelentett csõdöt. Az AMD-nek létfontosságú, hogy megszabaduljon Drezdától, errõl azonban még láthatóan a részvényeseket is meg kell gyõznie.

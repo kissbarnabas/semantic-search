@@ -1,0 +1,17 @@
+Elindultak az elsõ LTE-tesztek a Motorola angol laborjaiban
+
+A következõ generációs mobilinternetben rejlõ lehetõségek -- a lényegesen nagyobb sávszélesség és a jobb spektrumkihasználás -- egyre több szolgáltatót és gyártócéget gyõznek meg arról, hogy a mobilnet jövõje a sokatmondó nevû Long Term Evolution-ben (LTE) rejlik. Most éppen a Motorola jelentette be, hogy elkezdte tesztelni elsõ LTE-alapú mobil szélessávú rendszerét az Egyesült Királyságban. A vállalat elõször a tavalyi Mobile World Congress alkalmával mutatta be a nagyközönségnek a technológiában rejlõ lehetõségeket, az elsõ kereskedelmi termékek idénre várhatók.
+
+
+
+Az amerikai telekommunikációs vállalat swindoni tesztlaborjában kezdte meg a jelenleg elterjedt harmadik generációs (HSDPA/HSUPA) rendszereknél lényegesen gyorsabb adatátviteli sebességet ígérõ LTE átviteli kísérleteit. A kísérletek során használt LTE-kompatibilis eszközök-prototípusok a 2,6 GHz-es frekvenciasávban továbbítottak adatot egymás közt. A Motorola egyelõre nem közölt információkat arról, hogy a tesztek során milyen átviteli sávszélesség mellett zajlott a kommunikáció, LTE rendszerben ugyanakkor ideális körülmények közt, megfelelõ eszközökkel több száz megabit adat átvitele is realitás lehet.
+
+
+
+Az amerikai gyártó mellett több világcég és világméretû hálózattal rendelkezõ szolgáltató is kísérletezik az LTE bevezetésével: az LG például tavaly decemberben mutatta be az elsõ olyan LTE-kommunikációra képes chipjét, mely kis mérete és fogyasztása révén mobiltelefonokba is beépíthetõ. Az akár 100 megabit/másodperces letöltési sebességet, valamint 50 megabit/másodperces feltöltési sebességet is elérõ modemchip elkészülte a gyártó szerint kulcsfontosságú lépés az elsõ 4G-s mobiltelefonok piacra kerülése, ezzel együtt az új hálózatok létrejötte felé.
+
+
+Az LG LTE-terminálját használta tavaly szeptemberben a német T-Mobile is az elsõ LTE-tesztfázis során, melynél 170 megabit/másodperces letöltési és 50 megabit/másodperces feltöltési sebességet sikerült mérni a folyamatosan mozgásban lévõ végponton. Az elsõ kereskedelmi szolgáltatást azonban jó eséllyel mégsem a német telekommunikációs multi, hanem a Huawei és az Ericsson közremûködésével a svéd TeliaSonera indíthatja majd valamikor jövõre a svéd és a norvég fõvárosban.
+
+Az LTE jó eséllyel pályázik arra, hogy 4G-s mobilhálózati szabvánnyá váljék késõbb, ugyanis a világ meghatározó mobilszolgáltatói, jelesen a China Mobile, a Vodafone, a T-Mobile, a Verizon Wireless vagy az NTT DoCoMo már mind letették voksukat mellette. Az LTE célja nemcsak a magas sávszélesség elérése, hanem egy rendkívül alacsony késleltetésû, teljesen IP-alapú hálózat megalkotása is, de a szolgáltatók számára talán legfontossabb, hogy drasztikusan javul a mobilhálózatok esetében leginkább érzékeny pont, a spektrumból kisajtolt kapacitás: ez az LTE esetében például a HSDPA-val szemben 3-4-szeresére emelkedik, vagyis ennyivel több felhasználót képes adott sávszélességgel kiszolgálni rugalmas spektrumszeleteléssel.
+					

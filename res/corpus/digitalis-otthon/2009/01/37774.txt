@@ -1,0 +1,43 @@
+ARM-alapú netbookok megjelenése várható
+
+Újabb erõteljes versenyzõvel bõvül a netbookokba szánt processzorok piaca, melyet jelenleg az Intel ural. A Freescale újévi meglepetésként jelentette be , hogy egy átfogó megoldással belép a szegmensbe, hogy eddig nem látott módon olcsó és hosszú akkumulátoridejû netbookok megalkotását tegye lehetõvé. A PC-piacon egyeduralkodóvá vált x86 ezzel hosszú idõ után új riválist kap, mépedig az ARM formájában. A manõver mögött meghatározó lehet Henri Richard szerepe, aki korábban az AMD marketingvezére volt.
+
+
+
+Olcsó, sokáig bírja, és tudja a Flash-t
+
+A Freescale szerint az új i.MX515 processzora köré épülõ platformra alapozva a 8,9 hüvelykes netbookok induló ára 50 ezer forint alá kerülhet, miközben az üzemidejük egy feltöltéssel elérheti a 8 órát is -- ezzel megvalósulna a kategóriateremtõ Asustek eredeti víziója. Tekintve, hogy a processzor és a chipset teljesen idegen a PC-s világtól, a Freescale egy komplett referencia netbookot dolgozott ki a Pegatronnal (ex-Asustek) közösen. "A netbookok számára kidolgozott megoldásunk lehetõ teszi majd a számítógépgyártók számára, hogy olyan vonzó termékeket fejlesszenek ki, melyek a mobiltelefonhoz hasonló üzemidõt rendkívül agresszív áron mutatnak fel" -- áll a cég közleményében. 
+
+
+ Az ABI Research legfrissebb várakozásai szerint 2013-ban 140 millió netbookot vásárolnak majd világszerte, miután az idei negyedik negyedévben robbanásszerûen növekedett a szegmens -- a tavalyi piacot 13-15 millió közé teszi az ipar. Az idei évre vonatkozóan nagy szórást mutatnak az egyes cégek várakozásai, a legagresszívebbek közé az Acer és az Intel tartoznak, melyek rendre 35 és 40 milliós eladást várnak.
+
+A legkritikusabb kérdés természetesen az, milyen szoftverek és hogyan futnak majd a gépen, hiszen a felhasználók szemszögébõl végeredményben ez határozza meg az egész termék értékét. A referenciagép Ubuntu Linuxot futtat, és Adobe Flash Lite bõvítménnyel érkezik, ami alapvetõ a weboldalak, elsõsorban a zenei és videotartalmak fogyasztásához. A jelenleg elérhetõ legfrissebb Flash Lite 3.1 a Flash Player 8 verzióra alapul, és már képes FLV-ben tárolt H.264 és Sorenson videók lejátszására is -- megfelelõ hardveres erõforrások birtokában ez elméletileg megfelelõ például a YouTube használatához.
+
+ 
+
+
+Überhatékony hardver
+
+A 65 nanométeren gyártott i.MX515 egy rendszerchip, melynek órajele az 1 gigahertzet is elérheti, egy ARM Cortex-A8 processzormagot, DDR1/DDR2-memóriavezérlõt, grafikus magot és Ethernet-, ATA- és USB-vezérlõt is integrál. A Cortex-A8 a legnagyobb teljesítményû ARM architektúra jelenleg, szuperskalár RISC-felépítésével órajelenként két utasítást képes feldolgozni, sorrendben, dinamikus ütemezéssel nem rendelkezik. Ezzel 1 gigahertzen nagyjából egy 1,6 gigahertzes Intel Atom egészpontos számítási teljesítményének a felét képes legfeljebb leadni -- a fogyasztása eközben a fél wattot sem éri el, és magterülete mindössze négy (igen, 4) négyzetmilliméter, az L1 gyorsítótárral együtt. 
+
+
+
+Az i.MX515 másik igazi csemegéje az integrált 3D-grafikus mag, mely OpenGL-támogatás mellett vektoros grafikát megjelenítõ OpenVG kódok hardveres gyorsítására is képes. Míg a viszonylag nagyteljesítményû PC-hardverek világában ez nem kritikus jelentõségû, addig a rendkívül szûkös tranzisztor- és energiabüdzsébõl dolgozó mobilchipeknél kritikus a maximális hatékonyság. Az OpenVG API-n keresztül a Flash Lite kódja a grafikus magon képes futni, jóval hatékonyabban, mint az ARM, vagy bármilyen x86-os processzoron. A Freescale azt állítja, egy 720p video valós idejû dekódolása mindössze negyed wattot emészt fel az i.MX515-ön. 
+
+ 
+
+A platform részeként a Freescale egy diszkrét energiamenedzsment áramkörrel adja rendszerchipjét, mely az akkumulátor töltését, a háttérvilágítás erejét, a rendszerchip és opcionális audiochip tápellátását, valamint különféle a gyorsulás-, fény- és érintésérzékelõ szenzorokat vezérli, melyeket szintén kínál a vállalat. Az i.MX515 rendszerchipért, az energiakezelõ IC-ért és az elõre elkészített Ubuntu rendszerképért nagyjából 20 dollárt kell majd fizetnie a gyártóknak. A netbookok többségében alkalmazott Intel Atom N270 listaára 43 dollár, ehhez jön hozzá a chipset költsége is.
+
+Houston, valami baj van: nem fut a Windows
+
+Bár a netbookok szegmense valóban robbanásszerûen növekszik, ami az összes számítógépgyártót belépésre kényszerítette, a Freescale elképzeléseinek van egy igencsak gyengen pontja, mégpedig az, hogy a processzor történetesen nem képes Windowst futtatni -- márpedig a felhasználók nagyjából 95 százaléka Windows-környezethez szokott hozzá, a Microsoft operációs rendszere egybenõtt a PC-fogalmával. A netbookoknál ez az arány jelenleg sokkal kedvezõbb ugyan, a Linux aránya elérheti a 30 százalékot is, a Windows azonban szorítja vissza a nyílt forráskódú operációs rendszert. A Freescale maga is beismeri, hogy a többség számára elsõre riasztó lehet az idegen felület, ugyanakkor gyorsan elsajátítható, állítja. 
+
+ "Csalódottak voltak, mikot látták, nem windowsos a gép, de túltették magukat ezen és rájöttek, hogyan böngésszék a webet" -- nyilatkozta az EE Times-nak Glen Burchers, a Freescale marketingigazgatója. Az MSI és a Lenovo is jelezte ugyanakkor, hogy kiugróan magas a linuxos változatok visszaviteli aránya, ami a gyártók mellett a kereskedõket is zavarja. Mindkét cég a Novell SUSE Linux Enterprise Desktopját kínálja elõtelepítve. Az Asustek egy speciális Xandros Linuxot készített az Eee PC-k számára,  magától értetõdõ, használatra kész felülettel, és állítása szerint nincs jelentõs eltérés a visszaviteli arányban a windowsos és a linuxos Eee PC-k közt. Redmond mindenesetre már a netbookokat szem elõtt tartva fejleszti a Windows 7-et, hogy az képes legyen a viszonylag kis erõforrásokkal rendelkezõ PC-ken is futni.
+
+[+] A linuxos netbookok visszaszorítása is célja a Windows 7-nek  
+
+Bárhogyan is, a 2009-es év rendkívül sok kérdésre választ adhat majd a netbookok kapcsán, mint például a szegmens növekedési üteme, a márkák erõviszonyának változása, a folyamatosan tárgyalt kannibalizáció megléte, vagy a Windows-Linux arányának alakulása. A netbookok piaca a magas ütemû növekedés miatt azonban egyúttal rendkívül turbulensnek is tûnik, és a válaszok mellett új kérdéseket is kapunk idén, hiszen az Intel jelenlegi egyeduralmát az AMD, a Via, az NVIDIA, most pedig a Freescale is támadja, miközben elmosódnak a netbook kategória határai. 
+
+[+]  Megjelent az AMD ultrahordozható platformja, a Yukon
+
+A Freescale-nek most az az elsõdleges feladata, hogy partnereket találjon i.MX515-alapú netbookok elkészítéséhez és piacra dobásáhzoz. Henri Richard, a Freescale értékesítési és marketing vezérigazgatója a Reutersnek adott interjújában állította, élénk érdeklõdés mutatkozik a tajvani szerzõdéses gyártók felõl, ami egyértelmû jele annak, hogy vevõik, vagyis  PC-márkák állnak a háttérben. "Azok a srácok sosem fejlesztenek anélkül, hogy vevõ lenne a hátuk mögött".

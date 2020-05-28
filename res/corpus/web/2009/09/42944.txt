@@ -1,0 +1,16 @@
+Képekkel keres szöveget a Bing
+
+A Microsoft Bing keresõje kicsit olyan, mint egy homokozó, ahol a Google által jól bejáratott minimalista felépítésbõl szeretne kitörni a redmondi cég. A fõoldali háttérkép, ajánlók és a vertikális adatbázisok behúzása után a Bing egy vizuális keresõvel egészül ki, mely egyelõre csak korlátozottan érhetõ el, de alapjában véve jópofa, elõremutató próbálkozás.
+Szöveg helyett képek
+A Visual Search hátat fordít a szöveges keresésnek, amikor a felhasználó linkeket kap találatként, hanem elõre összeállított tematikák között képeket válogatva lehet eljutni a megoldásig. Ami viszont szintén egy oldalnyi link, tehát a vizuális keresõ nem képeket keres, hanem ugyanúgy webes tartalmakat, csak az odáig vezetõ utat értelmezi újra.
+A képes megoldás lényege, hogy a tematikán belüli elemek egy jól azonosítható, ellenõrzött képet kapnak, s minden elem részletesen fel van címkézve, így könnyedén csoportosíthatóak kisebb egységekre. Egzakt keresésekhez egyelõre nem túl hatékony, de ha valaki mondjuk arra kíváncsi, milyen R&amp;B dalok szerepeltek az amerikai slágerlistán 1998-ban, csupán három kattintással szûkítheti az 500-as listát arra a hat darabra, amire illik a leírás. Ezután már átlátható a lista, s könnyen ki lehet választani a keresett dalt. Ugyanúgy, ha az új autók között keres valaki, akkor szûkíthet gyártóra, árra vagy éppen átlagos fogyasztásra, s egyben láthatja a takarékos autókat, s a szemrevételezés után tovább lehet lépni a részletes információk felé.
+
+Az egyetlen probléma, hogy ezek a kategóriák jelenleg elég korlátozott számban állnak rendelkezésre, s néhány perc játszadozás után unalmassá válnak, napi éles használatra teljesen alkalmatlanok. A sikerhez szükség lenne arra, hogy egy automata algoritmus végtelen számú kategóriát állítson fel, s azon belül az elemeket címkézze is. Ez viszont már a szemantikus keresés sûrûjébe vezet.
+
+A Microsoft szerint mégis ez a helyes irány, ugyanis a fogyasztóknak segítségére vannak a képek mindenféle keresési aktivitás közben. Sõt, egy saját tanulmányuk szerint 20 százalékkal gyorsabban dolgozzák fel az emberek a képi találati listákat, mint a sima szövegeseket.
+Silverlight demo
+A Visual Search megjelenítéséért egyébként a Microsoft Silverlight technológiája felel, ami valóban látványossá teszi az egymás mellé úszó képekkel a keresést. Ugyanakkor az egyszerûséget és a gyorsaságot némileg rombolja a díszítés, s a legtöbb haladó felhasználó számára nem jelenthet perspektívát a keresõszavak helyes kombinálásával szemben néhány táncoló fotó. A Microsoft viszont egy újabb területet talált, ahol bemutathatja a Silverlight képességeit. A szoftvercég kommunikációja a Visual Search mellett több új jövõbeni funkció érkezésérõl is említést tesz, a cég nem adja fel a Google üldözését. A képes keresés viszont egyelõre csak béta állapotban van, s nem is érhetõ el a fõoldalról, a kíváncsiskodóknak manuálisan kell beírni a http://bing.com/visualsearch webcímet.	     
+                  
+                  
+                  
+                   

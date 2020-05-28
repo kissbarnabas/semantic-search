@@ -1,0 +1,14 @@
+Ötven megabites letöltési sebességet kínál az Externet új PowerDSL csomagja
+
+Az Externet üzleti ügyfelei november elejétõl egy új, az eddigieknél lényegesen gyorsabb DSL-alapú internetkapcsolatra is elõfizethetnek: a cég az eddigi PowerDSL-kínálat mintájára bevezeti a két VDSL-vonalat összekapcsoló csomagját, mellyel akár 50 megabit/másodperces letöltési sebesség is elérhetõ. 
+
+
+
+Speciális routing-technológiával két VDSL-vonalat kapcsol össze az Externet új, letöltési irányba 50 megabit/másodperces, feltöltési irányba 10 megabit/másodperces sávszélességet nyújtó, kizárólag üzleti elõfizetõk számára elérhetõ internetkapcsolata. A cég álláspontja szerint a két vonal összekapcsolásával nem csupán az aggregált sávszélesség növekszik: a kapcsolat redundanciája is javul a hagyományos DSL hozzáférésekhez képest.
+
+A PowerDSL alkalmas saját telephelyen üzemeltetett szerver és nagy kapacitású VPN kiszolgálására is, alternatívát kínálva ezzel a nagyságrendekkel drágább bérelt vonalak kiváltására, de versenyképes lehet az optikai hozzáféréssel is -- áll az Externet sajtóközleményében.  A PowerDSL technológia a bérelt vonalakhoz hasonló magas szintû, közel 100 százalékos rendelkezésre állást nyújt, hiszen az egyik vonal meghibásodása esetén a kapcsolat a másik összeköttetésen failover üzemmódban továbbra is fennmarad. A szolgáltatáshoz a szolgáltatói és elõfizetõi hálózat oldalán egyaránt a Cisco útválasztói biztosítják a mûszaki hátteret.
+
+
+A VDSL-alapú PowerDSL csomagok éppúgy a Magyar Telekom hálózatát használják, mint a cég lakossági ADSL, illetve VDSL-szolgáltatásai, a lefedettség ezért egyelõre a fõvárosban a legnagyobb, de ott is meglehetõsen foghíjas, így például jelenleg egyetlen pesti kerületben sem tud létesíteni a szolgáltató VDSL-alapú PowerDSL kapcsolatot. A gyors internet jelen pillanatban Budapesten (a II., XI., XXII. kerületek bizonyos részein) Budakeszin, Budajenõn, Telkin, Szentendrén, Pécsett, Debrecenben és Székesfehérvár bizonyos részein érhetõ el.
+
+Az üzleti elõfizetõk havi nettó 37 750 forinttól érhetik el az 50 megabites aggregált sávszélességû VDSL-internetet, ezzel együtt a lefedettségi területen élõ lakossági felhasználók számára is elérhetõvé vált egy lassabb, 25 megabites letöltési sebességet kínáló VDSL-csomag is. Ezért havi bruttó 9780 forintot kell fizetni, egy év hûségidõ vállalásával.

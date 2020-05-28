@@ -1,0 +1,30 @@
+Megjelent a mobiltelefonokra optimalizált Bing is
+
+Manuális helymeghatározás
+
+
+Az új keresõ, vagy ahogy a Microsoft nevezi "döntés motor" (decision engine) mobil változata az m.bing.com oldalon érhetõ el bárki számára, illetve az amerikaiaknak elegendõ a mobil változatot népszerûsítõ aloldalon beütni a telefonszámukat és a rendszer egy szöveges üzenetben küldi el a linket.
+
+
+
+A Bing mobil oldala természetesen nélkülözi a normál nézetben lévõ háttérképet és okos gondolatokat, viszont sokkal nagyobb figyelmet kapnak a helyfüggõ keresések. A keresõmezõ alatt lévõ link segítségéve utcaszinten beállíthatják a felhasználók tartózkodási helyüket, s a keresési találatok ennek megfelelõen jelennek majd meg. A keresõ három címet el is tud tárolni, alapesetben ez az otthon, a munkahely, illetve egy szabadon választott helyszín. A késõbbiekben könnyen szûkíthetõek a találatok ezekre a címekre.
+
+
+
+ 
+
+
+Hol a kávéház? Mi az a kávéház?
+
+
+Ha valaki például egy kávéházra keres, akkor elsõként az épp használt helyprofil közelében lévõ egységeket mutatja meg a Bing, majd az alatt megpróbálja definiálni, hogy mi is az a kávézó, csakúgy, mint egy normál keresõ. A találatok mellé járnak az egyéb helyfüggõ információk is, mint a mozimûsor vagy az idõjárás. A GPS, illetve a cellainformációk használata helyett azért lehet praktikusabb a hely kézi megadása, mert így nem szorulnak ki a helyfüggõ szolgáltatásokból azok sem, akiknek nincs okostelefonja. 
+
+
+
+A mobil Bing&nbsp; beépítetten tartalmaz egy útvonaltervezõ- illetve térképszolgáltatást is, miután valaki megadta a tartózkodási helyét, egy kattintással indíthat egy autós vagy gyalogos útvonaltervezést is. Sõt, a fenti kávézós példánál maradva, ha valaki megadta tartózkodási helyét, akkor a találatok után feltûnik egy "1-click directions" lehetõség, amivel azonnal kiderülhet az is, hogyan lehet eljutni az adott kávézóhoz. A térképszoftver több lehetõséget is megjelöl, s részletesen leírja, melyik keresztezõdésnél merre kell továbbmenni és mennyit kell haladni. Az itiner mellett megjeleníthetõ a térkép is, melyet a Microsoft saját szolgáltatásából emel át, s a Navteq adatbázisát használja.
+
+
+Magyarországon nem olyan okos a Bing
+
+
+A helyfüggõ találatok rejtelmein túl a keresési beállítások között lehetõség nyílik a felnõtt tartalmak szûrésére is, akár úgy, hogy csak a szexualitást tartalmazó képeket szûri ki a Bing, de a szigorúbbak akár a szövegektõl is megóvhatják magukat. Az egyetlen probléma, ami az európai felhasználókat érinti, hogy mind tartalmi oldalon, mind a helyfüggõ funkciók tekintetében az Egyesült Államokon kívül egyelõre gyengén teljesít a keresõ, bár ez ami ez esetben már inkább az elérhetõ adatbázisok gyengesége, s nem a keresõ hibája.

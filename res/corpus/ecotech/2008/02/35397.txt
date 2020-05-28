@@ -1,0 +1,16 @@
+Nem lehet a kínaiaké a 3Com
+
+[WSJ/HWSW] Politikai harc áldozata lett a 3Com magántõkés kivásárlása, a hálózati eszközeirõl ismert amerikai céget a Bain Capital és a kínai Huawei vette volna meg 2,2 milliárd dollárért. A felek most azonban visszavonták a külföldi cégek amerikai befektetéseit vizsgáló CFIUS (Committee on Foreign Investment in the U.S.) bizottság elõl a jóváhagyási kérelmet, miután világossá vált, hogy nem fogják megkapni.
+
+
+
+Amint arról a HWSW is beszámolt, a Bain Capital magántõke-társaság tavaly õsszel jelentette be, hogy 2,2 milliárd dollár készpénzért megvásárolná a hálózati eszközök patinás nevû gyártójának számító 3Comot, a tranzakciót a 3Com igazgatótanácsa egyhangúlag elfogadta. Az ügylet részeként a 3Comban 16 százalékos kisebbségi tulajdont szerzett volna a kínai Huawei. Az ügylet révén a 3Com nem csak tõkeerõs tulajdonosra tett volna szert, hanem remek ázsiai kapcsolatokra is, valamint a Huawei révén nagy befolyást szerezhetett volna a villámgyorsan növekedõ kínai piacon.
+
+Belsõs információk szerint az ügylet kútbaesése tisztán azon múlt, hogy a CFIUS meghosszabbított, 45 napig tartó vizsgálata szerint a kínai kormányzathoz közeli Huawei kezébe került volna olyan technológia és know-how, amelyet többek között amerikai kormányhivatalok hálózati eszközeiben is használnak. A Bain és a Huawei állítólag felajánlották, hogy leválasztják és eladják a 3Com kormányzati biztonsági megoldásokkal foglalkozó részlegét, de a CFIUS számára ez nem jelentett megfelelõ biztosítékot. Az amerikai politikában az ügylet természetesen nem nélkülözte a nemzeti érzelmekre játszó nyilatkozatokat sem (pl. "Amerika biztonsága veszélye került volna" -- Duncan Hunter kaliforniai republikánus képviselõ).
+
+Emlékezetes, hogy annak idején a Lenovo-IBM ügyletet is kitartóan vizsgálta a CFIUS, azonban akkor végül zöld utat adott, most azonban megvétózta (volna) a tranzakciót attól tartva, hogy a 3Com kínai kézbe kerülése nemzetbiztonsági kockázatot jelent. Egyelõre nem tudni, a történet hogyan folytatódik, a 3Com közleménye szerint az érintettek továbbra is tárgyalnak a lehetséges folytatásról.  Iparágszerte általános vélekedés ugyanakkor, hogy az ügy komolyan befolyásolni fogja a kínai vállalatok esetleges amerikai terjeszkedését, illetve befektetéseit, de minden bizonnyal kihatással lesz majd az amerikai cégek kínai ügyleteire is.
+
+
+ A 3Comot 1979-ben alapította Bob Metcalfe, az Ethernet feltalálója. A cég (amely nevét a Computers, Communications, Compatibility szavakból kapta) Ethernet-vezérlõk gyártásával kezdte, majd a 90-es években akvizíciók egész sorával a dotkom-éra egyik nagy reménységévé vált, a hozzá fûzõdõ várakozásokat azonban nem tudta beváltani. A 3Com ma már csak árnyéka korábbi önmagának, utóbbi három pénzügyi évében a cég minden alkalommal veszteséges volt.
+
+A 3Com 2003-ban vegyesvállalatot hozott létre Huawei-3Com néven vállalati hálózati eszközök gyártására és értékesítésére. A hongkongi központú vegyesvállalat a 3Com európai és amerikai értékesítési csatornáit, valamint a Huawei erõteljes ázsiai jelenlétét próbálta kihasználni. 2006 novemberben azonban a 3Com 882 millió dollárért kivásárolta a Huawei 49 százalékos tulajdonrészét.

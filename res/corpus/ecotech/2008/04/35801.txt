@@ -1,0 +1,26 @@
+Nem egy, legalább kettõ felsõvezetõ hagyja el az AMD-t
+
+[heise online/HWSW] Tegnap számoltunk be róla, hogy elhagyja az AMD-t Phil Hester mûszaki vezérigazgató, tovább növelve a vállalattól távozó felsõvezetõk sorát, a legújabb információk szerint pedig Bob Brewer marketingstratégiáért felelõs alelnök is felállt székébõl. 
+
+
+
+Vezetési krízis?
+
+A vállalat hivatalos állásfoglalása gyakorlatilag ugyanaz, mint Hester esetében: Brewer elfogadott egy másik ajánlatot. Az alelnök nemrég még a hárommagos Phenomok rajtjánál bábáskodott. Brewer távozása önmagában kevéssé lenne érdekes esemény, ugyanakkor súlyát az adja, hogy egy idõre esik Hester lelépésével, valamint az elsõnegyedéves profitfigyelmeztetés és leépítések bejelentésével. Az AMD-t az elmúlt idõszakban sújtó elvándorlásra magyarázat lehet a Hector Ruiz elnök-vezérigazgató bûnbakkeresése, de a Ruiz vezetésével, döntéseivel egyet nem értés egyaránt.
+
+Brewerrel és Hesterrel együtt az AMD az elmúlt másfél év során immár közel egy tucatnyi felsõvezetõt vesztett. A felsõvezetõi léptékkel mérve tömeges felmondásokat részben az ATI felvásárlásakor átvett vezetõk elégedetlensége, részben a processzorgyártó részleg elmúlt években mutatott gyászos teljesítménye, valamint a Barcelona kódnéven ismert architektúra körül támadt bevezetési problémák magyarázzák. A grafikus részlegtõl az összeolvadás óta távozott már David Orton korábbi ATI elnök-vezérigazgató, Chris Evenden PR vezetõ, Victor Peng grafikus chipfejlesztésekért felelõs alelnök is, de tavaly szeptemberben hagyta el a céget Henri Richard, vállalati marketing vezérigazgató is.
+
+Az AMD múlt héten közölte, megválik alkalmazottainak 10 százalékától, mintegy 1500 alkalmazottól, annak érdekében, hogy csökkentse költségeit, és újra nyereségesen tudjon mûködni. A cég egyúttal azt is tudatta, hogy az elsõ negyedéves forgalma mindössze 1,5 milliárd dollár körül alakul, ami a szezonálisan megszokottnál kétszer nagyobb, 15 százalékos visszaesés a negyedik negyedévhez képest. A csökkenés oka, hogy minden szegmensben visszaestek az AMD eladásai. Négymagos Opteron szerverchipjeinek és magasabb órajelû Phenomjainak szállításait csak az elmúlt hetekben indította be újra a vállalat, így annak pénzügyi hatása csak a második negyedév során jelentkezhet.
+
+Elemzõk szerint a vállalat ellen dolgozik, hogy az asztali PC-k piaca, ahol az AMD a legerõsebb, lényegében alig növekszik, a fejlett országokban pedig inkább csökken, ahogy a notebookok átveszik az uralmat -- az AMD-nek a mai napig sincs mobil designja, öt évvel az Intel Centrino, és nyolc évvel a Transmeta színre lépését követõen. A nem elég versenyképes termékeken kívül az AMD magasabb fajlagos költségszinttel is dolgozik, vagyis kettõs teherrel kell megbírkóznia. Az átszervezések rövid távon ugyan lélegzetvételhez segíthetik a vállalatot, a helyzeten gyökeresen nem képesek változtatni. 
+
+A Mercury Research adatai alapján az AMD az Intelnél 30-50 százalékkal alacsonyabb átlagos eladási árra bír minden szegmensben, miközben volumene töredéke, kevesebb mint harmada az óriásénak. Gyártási költsége természetszerûleg folyamatosan magasabb, ugyanis az Intel mögött 3-4 negyedévvel váltanak finomabb geometriára -- egy teljes generációváltás akár 30-40 százalékot is faraghat a chipek elõállítási költségébõl --, és drágább, úgynevezett SOI-szeleteket munkálnak meg.
+
+El kell adni Drezdát?
+
+Az AMD számára a legsúlyosabb terhet a félvezetõgyártás által igényelt hatalmas és szakadatlan finanszírozási igény jelenti, melynek versenyképesen tartása éves szinten több százmillió dollárt emészt el, és folyamatosan növekszik -- a piacon általános nézet, hogy az AMD-nek ki kellene szerveznie termelését, hogy nyereségessé tudjon válni, valamint a felszabadult pénz egy részét a chiptervezés versenyképesebbé tételére kellene fordítania.
+
+
+A tavalyi elsõ negyedéves eredmények közzétételekor maga Hector Ruiz elnök-vezérigazgató beszélt a tõkeigényt csökkentõ úgynevezett "asset light" mûködési modellrõl, ami nem meglepõ, tekintve az AMD botrányosan rossz pénzügyi teljesítõképességét (tavaly 1,9 milliárd dollár készpénzt vesztett a cég) -- eleddig azonban semmiféle konkrétumot nem osztottak meg a felsõvezetõk az elképzelésekkel kapcsolatban.
+
+Tavaly novemberben keltek ismét lábra olyan pletykák a pénzpiacon, melyek szerint az AMD tárgyalásokat folytat a tajvani TSMC-vel, a világ legnagyobb szerzõdéses félvezetõgyártójával, hogy az vásárolja meg az AMD drezdai bázisának egy részét -- az elsõre vad spekuláció azonban számos elõnnyel szolgálhatna mindkét cég számára. Az AMD ezzel úgy tehetné sokkal gazdaságosabbá mûködését, hogy technológiailag semmiféle kockázatot vagy hátrányt nem szenvedne el chipjeinek alacsonyabb teljesítményû félvezetõ eljárásra portolásával, és friss tõkéhez is juthatna. A TSMC kezébe pedig élenjáró félvezetõtechnológia és üzem kerülhetne, amivel a nagyteljesítményû logikákat fejlesztõ ügyfeleit szolgálhatná ki -- gondoljunk csak az NVIDIA-ra, az AMD grafikus részlegére, vagy a Sun Microsystemsre. 

@@ -1,0 +1,12 @@
+Opteron-alapú Cray szuperszámítógép a világ leggyorsabbja
+
+Az amerikai energiaügyi minisztérium Oak Rudge laboratóriumában üzembe állított Cray XT szuperszámítógép a leggyorsabb a világon, teljesítménye 1,46 petaflops, így közel másfélszer erõsebb az elõzõ rekorderdnél.
+
+
+
+A korábbi csúcstartó IBM Roadrunner 1,026 petaflopsos teljesítményre  képes -- ez a rendszer szintén az amerikai energiaügyi minisztérium egyik laboratóriumában található, az új-mexikói Los Alamosban. A világ leggyorsabb szuperszámítógépeit rangsoroló listát évente kétszer frissítik, a következõ alkalommal november 17-én, az austini Supercomputing konferencián. A Top500 listát a Mannheimi Egyetem, a Tennessee Egyetem, valamint az amerikai National Energy Research Scientific Computing Center készíti el az egyes gépek Linpack benchmarkban mutatott teljesítménye alapján.
+
+A Jaguar névre hallgató rendszert még tavasszal kezdték építeni, és amikor a Top500 lista elõzõ kiadása megjelent, a gép teljesítménye alig volt több 200 teraflopsnál. Az elmúlt hónapokban azonban belehúztak az építõk és az eredetileg kitûzött határidõ elõtt végeztek a tervezett bõvítéssel, amelynek során 200 darab Cray XT5 kabinettel egészíteték ki a meglevõ 84 darab XT4-es szekrényt. A végeredmény egy több mint 45 ezer négymagos Opteront tartalmazó szuperszámítógép 362 terabájt memóriával és 10 petabájt háttértárral. A Jaguar memóriasávszélessége 578 terabájt/másodperc, I/O-sávszélessége 284 gigabájt/másodperc.
+
+
+ Az Oak Ridge laboratóriumában dolgozó tudósok máris birtokba vették a gépet és elsõként egy szupravezetéssel kapcsolatos szimulációt, amelynek során a Jaguar 1,3 petaflopsos teljesítményt adott le. A valódi éles indulás elõtt egy sor tesztet kell még végrehajtani a szuperszámítógépen, hogy 2009 elején üzembe állhasson, amit a tudósok alig várnak.

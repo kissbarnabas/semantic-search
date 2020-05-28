@@ -1,0 +1,14 @@
+Megszûnt az árverseny a processzorpiacon
+
+Az Intel végrehajtotta szokásos nyári árcsökkentését, azonban csupán maroknyi processzorának listaárát módosította -- ami azt jelzi, hogy a veszteségekkel küszködõ AMD továbbra sincs abban a helyzetben, hogy nyomás alá helyezze riválisát.
+
+
+
+A legnagyobb mértékben a Core 2 Duo sorozat csúcsmodellje, a 3,16 GHz-es E8500 ára csökkent, ezt mától fogva 266 dollár helyett 183 dolláros listaáron kínálja az Intel. Ezzel párhuzamosan az E8400 ára 183 dollárról 163 dollárra esett,  a 2,53 GHz-es, 3 megabájt L2 gyorsítótárat tartalmazó Core 2 Duo E7200 pedig 133 helyett 113 dollárért hozható el az Inteltõl, ha valaki legalább ezer chipet rendel. A Core 2 Quad család népszerû alapmodellje, a Q6600 is olcsóbb mától, 224 dollár helyett 193 dollárért kapható. Az új árstruktúrából három dolog világlik ki: az egyik, hogy az Intel a Quadok alá fésülte be a Duók árát, vagyis egyértelmûen igyekszik kínálatának felsõbb felét a négymagosok felé terelni. 
+
+A másik, hogy drasztikusan le kívánja csökkenteni Core 2 Duo kínálatát, mégpedig arra a három modellre, melyeket az árcsökkentés érint, ugyanis csak azokat ésszerû vásárolni. Harmadrészt, az elõzõekbõl következõen a vállalat 45 nanométeres termelésének parametrikus kihozatala (például órajel-fogyasztás jellemzõk) rendkívül kedvezõ -- az Intel valószínûleg képes lenne nagy volumenben piacra dobni magasabb órajelû, 3,3-3,5 gigahertzes asztali chipeket is, a Nehalem közelgõ érkezése miatt azonban tartalékol. A világ legnagyobb processzorgyártója mérsékelte néhány belépõ szintû, egyfoglalatos munkaállomásokba és szerverbe szánt Xeon árát is, a 2,4 GHz-es X3220 és a 2,2 GHz-es X3210 224 helyett 198 dollárért vásárolható meg, a Xeon E3110 ára pedig 188 dollárról 167-re esett.
+
+
+Az Intel lépésén látható, a piacon az árverseny mára nem hogy elcsendesedett, hanem gyakorlatilag egyáltalán nem létezik. A cég a Core mikroatechiktektúrára épülõ lapkáival olyan mûszaki fölénybe került az AMD-vel szemben, amelyet a Barcelona-generáció sem tudott megfordítani. A gigászi veszteségeket halmozó AMD elkeseredetten dolgozik azon, hogy ismét nyereségessé tegye a mûködését, ezért távol marad az árharctól, mint macska a forró kályhától -- így az Intelnek sincs miért aggódnia egyelõre.
+
+A júniusban véget ért második negyedévben az Intel 9,5 milliárd dolláros  bevételt ért el -- az év ezen idõszakában még soha korábban nem sikerült ekkora forgalmat realizálni. A rekordbevételhez 1,6 milliárd dolláros nettó profit társult, ami éves szinten 25 százalékos növekedést jelent. Ezzel szemben az AMD 1,35 milliádos forgalom mellett 1,19 milliárdos nettó veszteséget volt kénytelen elkönyelni, elsõsorban a felvásárolt ATI értékvesztésével kapcsolatos 880 millió dolláros leírás miatt. A negyedéves eredményekkel együtt az AMD azt is közölte, megválik Hector Ruiz elnök-vezérigazgatótól, akit Dirk Meyer operatív igazgató vált.

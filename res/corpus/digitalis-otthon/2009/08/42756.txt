@@ -1,0 +1,13 @@
+Szabványosítják a vezeték nélküli töltõket is
+
+A vezetõ elektronikai gyártókat tömörítõ Wireless Power Consortium elkészítette az alacsony teljesítményû eszközök, például mobiltelefonok vagy médialejátszók vezeték nélküli töltését lehetõvé tevõ technológiai szabvány 0.95-ös verzióját, amely azt vetíti elõre, közel lehet a végleges sztenderd megjelenése is.
+A Palm új okostelefonja, a Pre az elsõk között tette lehetõvé a vezeték nélküli akkumulátortöltést a külön megvásárolható Touchstone nevû töltõvel, amelyre a telefont csak rá kellett helyezni, s indukcióval megtörtént az akkumulátor feltöltése, Igaz, ez sokkal lassabb mintha a megszokott kábellel történne - a WPC 30 százalékos hatékonyságveszésrõl beszél a rézkábellel szemben -, de kényelmesebb és persze sokkal exkluzívabb: a Touchstone és a kábel nélküli töltéshez elengedhetetlen telefonhátlap összesen 70 dollárba kerül, ami a Pre 199 dolláros árához viszonyítva igen borsos.
+
+
+Az eljárás a következõ: a töltõben és a tölteni kívánt készülékben is van egy-egy tekercs, a töltõbõl induktív csatolással jut áram a hozzá igen közel elhelyezkedõ eszközbe. Ilyen töltõket egyébként elektromos fogkeféknél már jó ideje használnak annak érdekében, hogy ne kelljen a töltéshez szükséges csatlakozók elhelyezésével, szigetelésével bajlódni. A szervezet szerint ugyan a vezeték nélküli töltõk nem olyan hatékonyak mint a vezetékesek, de egy elég nagy vezeték nélküli töltõ akár több eszközt is tölthet egyszerre, ezzel pedig behozhatja ezt a hátrányt.
+ A jövõben várhatóan egyre több olyan készülék lát napvilágot, amely vezeték nélkül tölthetõ lesz. A Wireless Power Consortium célja a szabványosítással, hogy egységes rendszer terjedjen el és a különféle gyártók különféle készülékei kompatibilisek legyenek egymás töltõivel. Ennek érdekében a WPC bevezette a Qi emblémát, amely a szabvánnyal kompatibilis eszközöket és töltõket jelöli majd. A Qi a kínai nyelvben az életet adó energiát, életerõt jelenti. A Qi-kompatibilis töltõk legfeljebb 5 wattal tudják a rájuk rakott eszközöket tölteni.
+A Wireless Power Consortium többek között olyan cégekbõl áll mint a Philips, a Samsung, a Sanyo, a National Semiconductor, a Texas Instruments, a Logitech, az Olympus és a Duracell. A WPC tagjai szeptemberben kezdik meg a közös teszteket a Qi szabvánnyal kompatibilis eszközökkel. Egy, a WPC által végzett felmérés szerint a fogyasztók lelkesednének a vezeték nélkül tölthetõ mobil eszközökért és 90 százalékuk támogatná a szabványos töltõk bevezetését.	     
+                  
+                  
+                  
+                   

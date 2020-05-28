@@ -1,0 +1,11 @@
+Egy perc alatt feltörhetõk a titkosított WLAN-hálózatok
+
+A WPA-TKIP (Temporal Key Integrity Protocol) titkosítást elsõként feltörõ két német egyetemista, Erik Tews és Martin Beck egy új matematikai algoritmusra építve mintegy negyed negyed óra alatt tudta a Wi-Fi routertõl egy adott PC felé küldött forgalmat teljes egészében lehallgatni, a módszer emellett arra is képes volt, hogy a WPA feltörésével ezt a forgalmat meghamisítsák.
+Ohigasi Toshihiro és Morii Masakatu új módszerével állítólag mindössze egy percre van szükség ahhoz, hogy a WPA-TKIP rendszerrel titkosított adatforgalmat lehallgassák, ráadásul ezzel az eljárással szinte az összes WPA-kompatibilis hálózati eszközt fel lehet törni - állítják a szakemberek, akik részletesebben egy szeptember 25-én kezdõdõ hiroshimai szakkonferencián számolnak be felfedezésükrõl.
+
+A WLAN-hálózatokat védõ különbözõ titkosítási algoritmusok közül elsõként a legelõször létrehozott WEP (Wired Equivalent Privacy) esett el, alig pár évvel a bemutatása után. A 2002-ben elfogadott WPA szabvány szakértõk szerint már tavaly a WEP sorsára jutott, így a 2004 óta létezõ WPA2 most az egyetlen biztonságos "menedék", ezen még nem sikerült fogást találni. A két japán szakember módszere is csak a WPA-TKIP algoritmust használó berendezéseket fenyegeti, a fejlettebb WPA-AES-re (Advanced Encryption Standard) építõ rendszerek szintúgy védve vannak.
+Tekintve, hogy 2006 márciusa óta csak a WPA2 titkosítással is rendelkezõ WLAN-eszközök kaphatnak minõsítést a Wi-Fi Alliance-tõl, a ma kapható és jelenleg használatban levõ Wi-Fi eszközök lényegében gyakorlatilag kivétel nélkül képesek a fejlettebb védelem használatára, így minden körülmények között ajánlott ennek bekapcsolása, illetve alkalmazása.	     
+                  
+                  
+                  
+                   

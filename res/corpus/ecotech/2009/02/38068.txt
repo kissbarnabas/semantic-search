@@ -1,0 +1,14 @@
+2009 elején is folytatódik a processzorpiac mélyrepülése
+
+Közzétettte az x86-os processzorpiac negyedik negyedévérõl és tavalyi évérõl szóló statisztikáit az IDC. Az év végén a PC-piac megzuhanásával együtt a processzorpiac is összeomlott, 2009 elsõ felében folytatódni fog a mélyrepülés.
+
+
+
+2008 utolsó három hónapjában 17 százalékkal estek vissza a processzorszállítások a harmadik negyedévhez képest, 2007 azonos idõszakához képest pedig 11,4 százalékkal. A piac értékben ennél még jobban, rendre 18 és 22 százalékkal zsugorodott, ami az olcsó Atom chipes netbookok elõretörésével magyarázható. Atom nélkül a szállítások több mint 21 százalékkal estek volna össze. Az egész évet tekintve az x86-os processzoreladások 10 százalékkal bõvültek, a piac azonban mindössze 0,9 százalékkal dagat, így 30,8 milliárd dollárt tett ki.
+
+Az Atom sikere egyben az Intel sikere is, az olcsó mobil lapkák segítségével a világ legnagyobb chipgyártója a notebookok szegmensében a perifériára szorította az AMD-t. A negyedik negyedévben az Intel részesedése a mobil processzorok piacán 89,1 százalék volt, miközben az AMD-é 10,2 százalék. A szerver- és munkaállomás-szegmensben az Intel az eladások 88,1 százalékát kaparintotta meg, 11,9 százalékot hagyva az AMD-nek. A sunnyvale-i cég a legkevéssé nyereséges desktop szegmensben teljesített a legjobban, itt a részesedése a 26 százalékot is meghaladta, míg az Intelnek be kellett érnie 73,9 százalékkal. Az Intelen és az AMD-n kívül a VIA gyárt még x86-os chipeket, a cég azonban egy szegmensben sem tudott komoly jelenlétet elérni.
+
+
+ Az egész 2008-as évet tekintve a mobil szegmens ura az Intel volt 87,1 százalékos részesedéssel, az AMD 12,1 százalékra esett vissza. A szerver- és munkaállomás-processzorok terén a világ legnagyobb chipgyártójának részesedése  86,6 százalék volt az AMD 13,4 százaléka ellenében, a desktop szegmensben pedig 73,4 százalék és 26,4 százalék volt az arány az Intel javára.
+
+Az IDC elemzése szerint a PC-piac negyedik negyedéves összeomlása -- a harmadik negyedévben elért 15 százalék feletti növekedést stagnálás váltotta -- villámgyorsan végigyûrûzött az értékesítési csatornákon, fel egészen az alkaétrszgyártókig, magával ránta többek között a processzorpiacot is. Az év elsõ két hónapjában továbbra is gyenge keresletre számít az elemzõcég, az elõrejelzés szerint az értékesítési darabszámok csökkenése nem áll meg, növekedésre legkorábban a harmadik negyedévben van esély.

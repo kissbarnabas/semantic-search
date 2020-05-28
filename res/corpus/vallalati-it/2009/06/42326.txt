@@ -1,0 +1,17 @@
+Magyarországra is megérkeztek a Novell üzletiszolgáltatás-menedzsment eszközei
+
+2008 õszén vásárolta fel a Novell a Managed Objects vállalatot, amely üzletiszolgáltatás-felügyeleti megoldásokkal foglalkozik. Ezek a termékek összerendelik a vállalatok által használt technológiákat,
+alkalmazásokat és az üzleti szolgáltatásokat, és azokat képesek
+egységes nézetben megjeleníteni, így mind az informatikai, mind az
+üzleti vezetõk átfogóbb képet kaphatnak arról, hogy informatikai
+rendszerük hogyan biztosítja azokat. Az üzletiszolgáltatás-menedzsment lényegében lehetõvé teszi egy cég számára, hogy informatikai részlegét ne elszigetelt silóként, hanem mint egy szolgáltató szervezetet mûködtesse.
+Ahogy a vállalati informatikai rendszerek egyre bonyolultabbá váltak, szinte lehetetlen lett annak nyomon követése, hogy egy informatikai probléma milyen üzleti problémát okoz -- egy mûszaki hiba milyen üzleti folyamatokat érint. Egy rendszer leállása több üzleti folyamatban is okozhat fennakadásokat, illetve egy üzleti folyamat több informatikai rendszertõl is függhet. A Novell már régóta kínál olyan megoldásokat, amikkel az informatikai
+infrastruktúra menedzselhetõ a hardverek és a rajtuk futó szoftverek
+szintjén. A Managed Objects beolvasztásával ezt most újabb szintre, az
+üzleti szolgáltatások szintjére emelheti a cég. 
+
+A Managed Objects korábbi portfóliója Business Service Management (BSM) néven érhetõ el a Novellnél. A kínálat alapját a CMDB360 konfigurációkezelési adatbázis jelenti, de a vállalat BSM termékei együttmûködnek más CMDB megoldásokkal is. A CMDB-re épül az alkalmazások teljesítményét figyelõ Business Experience Manager, a szolgáltatási szinteket kezelõ Service Level Manager, az üzleti szolgáltatásokat nyomon követõ, mérések végzésére alkalmas Business Service Manager, illetve a vizualizációt végzõ MyMO Executive Dashboard, amely segítségével az üzleti szolgáltatások "egészségi állapota" az informatikai és az üzleti felhasználók, vezetõk felé megjeleníthetõ.
+A területen a Managed Objects -- illetve most már a Novell --
+versenytársai olyan cégek mint az IBM, a HP, vagy a BMC, illetve a
+kisebb szállítók közül a Compuware és a FireScope. Hargitai Zsolt szerint a Novell BSM elõnye a konkurenciával szemben a modularitás és a sokoldalú kapcsolódási lehetõség, a megoldás több mint 70 interfészt tartalmaz, így képes a fõbb szállítók rendszereihez csatlakozni és azokkal együttmûködni.&nbsp;
+Az üzletiszolgáltatás-menedzsment termékek piaca tavaly az év végén lesújtó válság ellenére 36 százalékkal bõvült a Forrester piackutató vállalat jelentése szerint. Hargitai Zsolt szerint Magyarországon elsõsorban a pénzintézetek felõl van érdeklõdés a BSM iránt, de lehetséges felhasználó lehet minden olyan vállalat, ahol kritikus fontosságú az informatika rendelkezésre állása, ilyenek lehetnek például a távközlési szolgáltatók vagy a közmûvek.

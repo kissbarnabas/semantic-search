@@ -1,0 +1,12 @@
+A Sun kezébe került a VirtualBox desktopvirtualizációs szoftver
+
+Felvásárolja a méltán népszerû VirtualBoxot fejlesztõ innoteket a Sun Microsystems. A tranzakcióval a Sun virtualizációs portfólióját egészítette ki a PC-oldalon, így saját megoldást kínál a jövõben fejlesztõk és felhasználók számára egyaránt számos asztali környezet párhuzamos futtatására. 
+
+
+
+Öles léptekkel indult meg a virtualizáció terén a Sun. A vállalat októberben jelentette be saját hypervisora köré épülõ szervervirtualizációs megoldását, az x86-os kiszolgálókra szánt xVM Servert. Az xVM Server a XenSource nyílt forráskódú hypervisor technológiájából és a Solaris 10 operációs rendszerbõl átvett megoldások egybegyúrásával született meg -- SPARC-on továbbra is az LDOM hypervisort alkalmazza a vállalat.
+
+
+Az xVM Server azonban szerveroldali virtualizációs megoldásként, mely Windows, Linux és Solaris vendégrendszerek fogadására készítenek fel fejlett felügyeleti (xVM Ops Center) és hibatûrõ szolgáltatásokkal, kevésbé alkalmas desktopvirtualizációra. A német innotek megszerzésével a Sun kezébe jut a VirtualBox, melyet több mint 4 millió alkalommal töltöttek le tavaly év eleje óta, kifejezetten népszerû fejlesztõk és tesztelõk körében, és támogatja az Intel és az AMD hardveres virtualizációs technológiáit is.
+
+A VirtualBox nyílt forráskódú szoftver, szabadon letölthetõ a virtualbox.org vagy openxvm.org címû oldalakról, nem kell sem fizetéssel, sem regisztrációs kulcsokkal bajlódni hozzá. A letöltendõ állomány kisebb, mint 20 megabájt, és könnyen, percek alatt telepíthetõ bármilyen modern x86-os asztali vagy hordozható számítógépre, melyen Windows, Linux, Mac OS vagy Solaris operációs rendszer fut. A VirtualBox a Windows 3.1-tõl a Vistáig terjedõ verzióit a Linux 2.2, 2.4 és 2.6 kerneleit, a Solaris x86-ot, az OS/2-t, a Netware-t és a DOS-t képes operációs rendszerként befogadni.

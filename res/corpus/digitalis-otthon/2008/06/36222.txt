@@ -1,0 +1,14 @@
+A Symantec segít megoldani az XP SP3 telepítését követõ problémákat
+
+[Techworld] A Symantec közzétett egy kis segédprogramot, ami megoldja azokat a regisztrációs adatbázisbeli problémákat, amelyek gondot okoznak a Windows XP harmadik, és a Windows Vista elsõ szervizcsomagjának telepítését követõen. A Symregfix akkor segíthet, ha Norton biztonsági szoftverek jelenléte mellett installáljuk a szervizcsomagokat.
+
+
+
+A hiba csak egyes számítógépeken jelentkezik, nem teljeskörû, de komoly gondot okoz. A tünetek meglehetõsen meredekek: az SP3 telepítését követõen szinte üres lesz az Eszkökezelõ listája, eltûnnek a hálózati csatolók és kapcsolatok, a regisztrációs adatbázis pedig több ezernyi hibás bejegyzéssel lesz tele. A Symantec eredetileg a Microsoftot okolta a probléma miatt, de késõbb részleges felelõsséget vállalt érte.
+
+
+A Symregfix a regisztrációs adatbázist védõ SymProtect komponens miatt tönkretett bejegyzéseket javítja ki, ezt a komponenst ajánlják kikapcsolni a szervizcsomagok telepítése elõtt. A SymProtect attól védi az adatbázist, hogy ahhoz kártékony programok hozzáférhessenek, az ilyen szoftvereket feltétlenül érdemes kiiktatni a Vista SP1, vagy az XP SP3 telepítése elõtt.
+
+
+
+A Symantec ezzel együtt egy javítást is készített szoftvereihez, melyet a LiveUpdate szolgáltatáson keresztül tölthetnek le a Norton biztonsági szoftvereket futtató felhasználók. A patch telepítését követõen újra kell indítani a számítógépet, a szervizcsomagok ezt követõen telepíthetõk fel.

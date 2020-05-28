@@ -1,0 +1,12 @@
+A Cisco megveszi a Jabbert
+
+A Cisco megvásárolja a nyílt protokollra épülõ azonnali üzenetküldõt fejlesztõ Jabbert. A felek nem hozták nyilvánosságra a tranzakció értékét, sem egyéb részleteket. Az ügylet várhatóan 2009 januárjára zárul le.
+
+
+
+A denveri (Colorado, USA) Jabber az azonos nevû nyílt, azonnali üzenetküldõ protokollra épülõ megoldásokat fejleszt. A Jabber alapja az Extensible Messaging and Presence Protocol (XMMP), amelynek nevében benne is van a lényege, vagyis a bõvíthetõség. Az XML technológián alapuló IM-protokoll idõközben számos funkcióval bõvült, többek között hanghívással. Az XMMP azonban nem csak üzenetküldésre vagy beszélgetésre használható, hanem más területeken is bevethetõ, például távfelügyeletre, csoportmunka-támogatásra, fájlok megosztására.
+
+Az XMMP teljesen decentralizáltan mûködik, egyik cég sem gyakorol felette ellenõrzést -- bárki indíthat szervert, ha akar. XMMP-alapú  kliensek ma már számtalan operációs rendszerre és platformra rendelkezésre állnak, a windowsos vagy linuxos PC-ktõl kezdve a mobiltelefonokig. A technológia nyíltsága miatt afféle hídként is funkcionál az eltérõ üzenetküldõ hálózatok között, lehetõvé teszi, hogy például az  Yahoo Messenger és a Gtalk felhasználói üzenetet válthassanak. 
+
+
+ A Cisco várakozásai szerint ez a felvásárlás megerõsíti jelenlétét a kollaborációs megoldások piacán. A Jabber megoldásai a Cisco meglevõ internetalapú kommunikációs termékeibe is bekerülnek, többek között az  üzenetküldésre, webkonferenciára használható, csoportmunkát támogató WebEx-be, és a Cisco Unified Communications-be. Ezek a Jabber segítségével egycsapásra együtt tudnak majd mûködni más népszerû üzenetküldõkkel is.

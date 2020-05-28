@@ -1,0 +1,12 @@
+Manipulálja-e a forgalmat az internetszolgáltatóm?
+
+[HUP] Számos internetszolgáltató hálózatának védelmére hivatkozva fenntartja magának a jogot, hogy szûrje vagy hátrányosan különböztesse meg az olyan peer-to-peer adatforgalmat, mint a BitTorrent is. Egyes vélemények szerint ezzel megsértik a hálózat semlegességének elvét, a szolgáltatók szerint azonban a felhasználók többségét védik. A Switzerland segítségével, mely egy kliens-szerver szoftveregyüttes, megállapíthatjuk, a szolgáltatónk belebabrál-e a forgalomba, állítja a kifejlesztõ Electronic Frontier Foundation.
+
+
+
+A Switzerland (utalva Svájc hagyományosan semleges történelmi szerepére) természetesen egy nyílt forrású projekt, így szabadon elérhetõ bárki számára. A jelenleg alfa változatnál járó kliensszoftver jelenleg parancssoros üzemmóddal bír csak, így haladó felhasználóknak javallott. A Switzerland célja, hogy detektálja, ha az internetszolgáltató módosítja, blokkolja az IP csomagokat, vagy ellenkezõleg, extra csomagokat injektál a forgalomba. A tesztelés nem korlátozódik egy protokollra vagy alkalmazásra, bármilyen módosítás kiszúr, legalábbis alkotóinak szándéka szerint.
+
+A Switzerland mûködése kliensek hálózatára épít, ahol a kliensek egymással kommunikálnak, majd összegzõ jelentést küldenek az elküldött és megkapott adatcsomagokról. A szerver ezen riportok alapján képes megállapítani, ha a két kliens közötti kommunikációba valamilyen durva módon beavatkoztak, például blokkoltak bizonyos csomagokat -- a csomagpriorizálást jelenleg nem képes felismerni, de a jövõbeni fejlesztésekkel várhatóan ez is hamarosan megjelenik. Az internetszolgáltatók eddigi lépéseinek hatására különösen a BitTorrent és VoIP forgalom vizsgálatára buzdít az alapítvány.
+
+
+A Switzerland jelenleg nem kínál szintetikus tesztforgalmat, a kliensek közötti, valódi alkalmazások között bonyolított adatcsomagokat elemzi, majd azokat jelenti a közös szerverre. Ez azt jelenti, hogy például a torrentforgalom elemzéséhez olyan egyedi torrentet kell létrehozni, melynek seedelése (visszatöltése) Switzerland kliensekre folyik. További részleteket a projekt honlapján találhatunk, útmutatókkal a tesztelés elvégzéséhez. Hasonló szolgáltatást a Google is ígért, konkrétumokat azonban nem tudni egyelõre.

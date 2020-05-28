@@ -1,0 +1,16 @@
+Az IBM vásárolja meg a futásidejû keresztplatformos fordítójáról ismert Transitive-et
+
+Az IBM kezébe kerül a Transitive Corporation, amelyet az x86/Linux platformra írt alkalmazások futtatására lehetõséget adó PowerVM technológiából ismerhetnek a Power-alapú rendszereket vásárlók. A vállalat azonban nem ezzel szerzett elsõsorban hírnevet magának, hanem egy olyan megoldással, amely futásidejû interpretáció segítségével lényegében bármilyen szoftvert bármilyen architektúrán képes futtatni.
+
+ 
+
+A 2000-ben alapított amerikai Transitive 2001-ben lépett a világ elé QuickTransit nevû megoldásával. A megoldás kitalálója, és kezdetben fejlesztõje a Manchesteri Egyetem számítástudomány-professzora, Alasdair Rawsthorne volt, aki a Transitive informatikai vezetõje és alapítója is egyben. A QuckTransit alapjául szolgáló technológia gyökerei egészen 1992-ig vezethetõek vissza, magának a QuickTransitnak a fejlesztése 1995-ben kezdõdött.
+
+A QuickTransit a forráskód és a bináris fájl módosítása nélkül teszi lehetõvé, hogy az bármely processzoron és operációs rendszeren fusson, ezt egy moduláris hardvervirtualizációs technológia teszi lehetõvé. Ennek elsõ összetevõje az Integration FUSE, ami a QuickTransit operációs rendszerbe történõ integrációját végzi, a második a Dynamic Binary Translator, ami a platformok utasításkészletének fordításáért felelõs. A harmadik és negyedik komponens az operációs rendszer (Operating System Mapper) és a grafikus alrendszer (Graphics Mapper) hívásait fordítja le.
+
+[+] QuickTransit: alkalmazások minden platformra?
+
+
+A QuickTransit teljesen transzparens az alkalmazások oldaláról, vagyis nem szükséges azokat módosítani vagy optimalizálni. Az operációs rendszer azonnal észleli, amint számára idegen kód indul el, és automatikusan elindítja a QuickTransitot, amely gondoskodik a fordításról. A Transitive által kifejlesztett technológia többször bizonyította már hatékonyságát. A 2006 õszén rendezett Intel Developer Forumon a világ legnagyobb chipgyártója egy olyan Itanium-alapú szervert mutatott be, amely minden addiginál nagyobb sebességgel futtatta a SPARC/Solaris párosra írt alkalmazásokat.
+
+Az IBM berkein belül a QuickTransitot egy a PowerVM Lx86 megoldásának alapjául használják. Ez a szoftver lehetõvé teszi, x86/Linux környezetre írt alkalmazások változtatás nélkül futtatását Power processzorra épülõ szervereken. A Transitive Corporation akvizíciójával kapcsolatos pénzügyi részleteket az IBM nem hozta nyilvánosságra, mint ahogy azt sem, hogy az ügylet mikorra zárulhat le. A Nagy Kék célja a QuickTransittal egy ütõképes konszolidációs és migrációs eszközkészlet létrehozása -- a technológia segítségével akár más architektúráról is könnyen mozgathatók az alkalmazások Power-alapú rendszerekre.

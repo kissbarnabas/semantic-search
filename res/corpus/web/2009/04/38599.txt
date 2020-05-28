@@ -1,0 +1,22 @@
+Tömeges videokonvertálás a cloudban
+
+Azok a cégek, melyek folyamatosan publikálnának, kénytelenek megküzdeni azzal a problémával, hogy a filmek végleges formába öntése nagyon sok idõbe kerül és óriási számítási kapacitást emészt fel. Ráadásul az automatikus folyamatok miatt drága szerverhátteret kell fenntartani, akkor is, ha egyébként nincs rájuk szükség folyamatosan.
+
+
+
+Webes FedEx
+
+A HD Cloud nevû startup vállalkozás erre a réspiacra célozza szolgáltatását, melynek lényege, hogy a (fõként webre szánt) videotartalmak publikálásához szükséges munka második felét átveszi. Miután a tartalom elõállítója végzett a szerkesztéssel, a formázást, a konvertálást, transzkódolást és az elhelyezést elvégezheti a weben keresztül. A cég egyszerûen azt mondja, hogy õ akar lenni a "webes videó FedEx-e".
+
+A szolgáltatás egyértelmûen a professzionális piacnak szól, s nem az egyéni videósokon kíván segíteni. A cég kommunikációja is nagyrészt erre épül, azzal nyugtatják a leendõ megrendelõiket, hogy az sem probléma, ha 900 darab 100 Mbps-es bitrátájú filmet kell szimultán transzkódolni, fel vannak rá készülve. A formátumok szintjén sem aprózta el a vállalást a HD Cloud, hiszen az egyszerû Adobe Flash-tõl kezdve a normál webes felbontásokon át, egészen a Full HD-ig képes ugyanolyan gyorsan elvégezni a vállalt feladatokat.
+
+Megvan az indító löket
+
+Annak ellenére, hogy a szolgáltatás még épp csak elindult, máris fel tud mutatni egy méretes ügyfelet, a Magnify.net-et, ami egy videopublikáló platform, illetve közösségi hálózat. A Magnify.net jelenleg 52 ezer vállalati ügyfelet szolgál ki, többek közt a Weather.com-ot, New York Magazine-t, Zappos.tv-t, LiveEarth-öt vagy a BlogHer.com-ot. A közös pont a felsoroltakban, hogy mind hatalmas mennyiségben jelentetnek meg nap, mint nap videókat az interneten.
+
+
+ A HD Cloud megjelenése érdekesség is a cloud-computing piacon, másrészt jelzésértékû maga a piaci igény is. Egyre erõsödõ trend, hogy a vállalatok saját infrastruktúra üzemeltetése helyett megpróbálnak áttérni cloudszolgáltatásokra áttérni. Az eddigi gyakorlat az lehetett, hogy egy adott cég kiépített egy szerverhátteret az átlagos igényeinek megfelelõen, ami egy húsdarálóként lineárisan dolgozta fel a bedobált alapanyagokat. 
+
+Több ezer videó átkódolása pillanatok alatt
+
+A HD Cloud lehetõvé teszi azt is, hogy akár több ezer darab folyamat fusson egyidõben, így a feldolgozási idõ nem számít többé szûk keresztmetszetnek. Fõleg nem úgy, ahogy a HD Cloud mûködik, hiszen a cég a konvertálás mellett vállalja azt is, hogy automatikusan elhelyezi a filmet a kívánt desztinációkon, legyen az egy hálózatba kötött gép merevlemeze, bármilyen tartalommenedzsment-rendszer vagy egy hírügynökségi site.

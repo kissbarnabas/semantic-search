@@ -1,0 +1,12 @@
+Villámgyors JavaScript a Firefox 3.1-ben
+
+A Firefox 3.1 egyik fontos újdonsága lesz az alapoktól újraírt JavaScript-motor, amely az elõdjénél egy nagyságrenddel gyorsabb lehet -- a Mozilla egyes esetekben közel negyvenszeres sebességnövekedést ígér. 
+
+
+
+A TraceMonkey kódnévre hallgató JavaScript-interpreter a Mozilla várakozásai szerint lehetõvé fogja tenni, hogy a webes alkalmazások ugyanolyan sebességgel fussanak a böngészõben, mintha csak a gépre telepített natív szoftverek lennének. Mike Schröpfer, a Mozilla fejlesztési igazgatója blogbejegyzésében bemutat egy videót, amelyen a Firefox 3 és a Firefox 3.1 sebességét veti össze egy webes fotószerkesztõ alkalmazás alatt -- az újabb verzió láthatóan gyorsabb.
+
+
+ A Firefox 3.1 jelenleg alfaverzióban érhetõ el, ebben a változatban a TraceMonkey még ki van kapcsolva, de egy késõbbi elõzetesben már valószínûleg aktiválni fogják. Mike Shaver, a Mozilla fejlesztõcsapatának egyik vezetõje, és a JavaScript alkotója egyelõre nem tudta megmondani, melyik Firefox-verzióba kerül bele elõször a TraceMonkey, de mindenképp szeretnék, hogy a 2008 végén vagy 2009 elején érkezõ Firefox 3.1 végleges változatának része lenne.
+
+Az utóbbi idõben nagy figyelmet kapott a böngészõk JavaScript-futtatási sebessége, ahogy a webalkalmazások egyre bonyolultabbá válnak. Nemrég az Apple Safari alapjául szolgáló WebKit fejlesztõi jelentettek be egy új JavaScript-motort, a SquirrelFisht, amely a SunSpider benchmark szerint 1,6-szor gyorsabb az elõdnél. Az elsõ mérések szerint a TraceMonkey már most kétszer gyorsabb a SquirrelFishnél ugyanebben a tesztben.

@@ -1,0 +1,11 @@
+Idõt nyert a Microsoft a Word szabadalomsértési perében
+
+A szabadalomsértési pert a hosszúra nyúló és eredménytelen tárgyalási folyamatok után egy kanadai cég, az i4i kezdeményezte még 2007-ben. A cég szerint a szoftveróriás szövegszerkesztõje megsérteti az XML-kezelésre vonatkozó, 1998-ban odaítélt 5,787,449 számú szabadalmat ("Egy dokumentum felépítésének és tartalmának egymástól független módosítására szolgáló módszer és rendszer"). A texasi bíróság augusztusban az i4i-nak adott igazat és megtiltotta az egyedi XML-t tartalmazó XML, DOCX és DOCM formátumú állományokkal kompatibilis Word 2003 és Word 2007 árusítását. A tiltó határozat eredetileg 60 nap múlva, azaz október közepén lépett volna életbe.
+Ám ahogy az várható volt, a Microsoft fellebbezést nyújtott be az ítélet ellen, ezzel együtt augusztus 18-án kelt beadványában kérte a végrehajtás felfüggesztését, valamint gyorsított tárgyalást kért a fellebviteli bíróságtól. A szoftvercég szerint a Word termékek amerikai forgalmazásának betiltása nem csak saját maga, hanem jelentõs OEM-partnerei számára is beláthatatlan következményekkel járt volna, hiszen a bíróság 200 millió dollár kártérítés megfizetése mellett nemcsak arra kötelezte a Microsoftot, hogy hagyjon fel a szabadalomsértõ termékének árusításával és hirdetésével, hanem a tesztelést, illetve a további támogatást is betiltotta.
+
+A nagy OEM-partnerek közül a HP és a Dell nyíltan a szoftveróriás pártjára állt, a bírósághoz beadott támogató nyilatkozatukban kiemelve, hogy a Word átalakítása, illetve az ezzel járó folyamatok (például a teljes PC-raktárkészletre új szoftvert kellene telepíteni) aránytalanul sok idõt és erõforrást igényelnének a gyártók részérõl. A két cég a végrehajtás legalább 120 napos felfüggesztését javasolta a bíróságnak.
+A fellebviteli bíróság végül eleget tett a Microsoft kéréseinek, így a két cég ügyében szeptember 23-án lesz a következõ meghallgatás.	     
+                  
+                  
+                  
+                   

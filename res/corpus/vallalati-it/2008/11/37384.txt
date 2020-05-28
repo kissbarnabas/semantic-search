@@ -1,0 +1,14 @@
+Az internetes videózás igényeit szem elõtt tartva született a Cisco új, terabites routere
+
+Az internet új korszakának leginkább meghatározó elemei a videók, ezek emésztik fel a sávszélesség nagyját, és mind többet igényelnek a Cisco szerint, ami ma jelentette be vadonatúj routerét, amelynek kifejlesztése négy évig tartott és 200 millió dollárba került.
+
+
+
+Az elsõsorban internetszolgáltatóknak, IP-tévészolgáltatóknak szánt ARS 9000 (Aggregation Services Router) áteresztõképessége másodpercenként 6,4 terabit -- a Cisco szerint ezzel négyszer gyorsabb a vetélytársak, például a Juniper vagy az Ericsson tulajdonában levõ Redback Networks hasonló termékeinél. A vállalat saját számításai szerint az ARS 9000 elegendõen nagy sávszélességgel és teljesítménnyel rendelkezik ahhoz, hogy Los Angeles összes háztartásába (1,2 millió) eljuttasson egy-egy nagyfelbontású videostreamet.
+
+
+ A hálózatiberendezés-gyártó természetesen hangzatos ideológiát is költött az új termék köré, a bejelentés egyik fõ üzenete a "zettabájt-korszak" eljövetele volt. Egy zettabájt 1000 exabájt, vagyis egymillió petabájt, azaz egymilliárd terabájt, másképp fogalmazva tíz a tizennyolcadik hatványon. A cégnél úgy gondolják, az internetes videózás, legyen szó akár elõre felvett anyagokról, akár élõ streamekrõl, az egyik legnagyobb fogyasztói a sávszélességnek, és hamarosan már nem tera-, peta- és exabájtokról, hanem zettabájtos nagyságrendekrõl kell beszélnünk.
+
+A Cisco öt évet felölelõ Visual Networking Forecast felmérése szerint  2007-tõl 2012-ig a globális IP-forgalom kétévenként megduplázódik, 2012-re pedig a teljes IP-forgalom felét a videoalapú szolgáltatások adják majd. Öt év múlva a világ IP-hálózatain 522 exabájt, vagyis több mint fél zettabájt forgalom megy majd keresztül: ez havonta mintegy 125 milliárd DVD-film letöltésének felel meg, becsli a Cisco. A vállalat kiemelt fontosságúként kezeli ezt a területet és igyekszik olyan megoldásokkal elõállni, amelyek lehetõvé teszik a felhasználók számára nagy mennyiségû video továbbítását IP-alapú hálózataikon.
+
+A Cisco ARS 9000 elsõ vásárlója a japán Softbank mobilszolgáltató, de a vállalat számos amerikai és európai szolgáltatóval tárgyal, illetve kezdett közös tesztekbe, nevek azonban nem kerültek nyilvánosságra. Maga a termék 2009 elejétõl vásárolható majd meg, az induló listaára 80 ezer dollár körül alakul.

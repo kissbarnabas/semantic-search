@@ -1,0 +1,23 @@
+Véletlen felfedezés forradalmasíthatja a fényképezõgépek képérzékelõit
+
+Dr. Eric Mazur felfedezése a digitális fényképezõgépekben alkalmazott képérzékelõ szenzorokat szoríthatja ki,  fénnyel szembeni érzékenysége a jelenlegi CCD és CMOS változatoknak 100-500-szorosa.
+
+
+
+A digitális fényképezõgépek egyre csökkenõ méretû képérzékelõ szenzorainak egyik legnagyobb problémája a csekély, vagy épp csak elégséges fényérzékenység. Az egyre kisebb szenzorok ráadásul egyre több pixelt tartalmaznak, így egyre kevesebb felület jut a képpontoknak fény gyûjtéséhez. A Harvard fizikai laboratóriumában egy véletlen felfedezés vethet véget az áldatlan állapotoknak, az itt létehozott, érdes felületû szilícium a mai megoldásokhoz képest 100-szor, 500-szor érzékenyebb a fényre.
+
+
+
+Dr. Eric Mazur
+
+
+
+A Harvard fizikusa, Eric Mazur okként azt említette, hogy ráunt a hadsereg által finanszírozott kutatásokra -- amelyek anyagi forrásait is elapadni érezte --, melyek során különbözõ fémek felületeit kezelte. Irányt váltott, és az azokon alkalmazott felületkezelési technológiát szilíciumon is kipróbálta. Az ötlet már pár éve megszületett Mazur agyában, miszerint az igen nagy teljesítményû lézerdióda által rövid, impulzusszerû sorozatokban, a teljes földfelszínt érõ napsugárzásnak megfelelõ energiával sokkolja a szilíciumszelet felszínét.
+
+A szilíciumszelet a lézeres behatását a félvezetõgyártásban, az áramköri lapok elõkészítésénél alkalmazott kén-hexafluorid maratásos kezeléssel is kiegészítették. Az eljárás során a szilíciumszelet elfeketedett, melynek okát az elektronmikroszkópos vizsgálat tárta fel: a mikroszkóp alatt az amúgy szabad szemmel változatlanul tükörsimának mutatkozó felületet apró egyenetlenségek, tüskék takarták, melyek megnövelték a szilíciumszelet felületét.
+
+ 
+
+A felfedezések egy része a véletlennek köszönhetõ, így a fekete szilícium a celofán, a teflon, vagy a cukrot ma oly sok termékben kiváltó édesítõszer, az aszpartám után áll be e sorba. Mindazonáltal a jelenlegi állapotok mellett még korai az öröm, illetve a változások iránti türelmetlen fészkelõdés, mert a technológia elõtt még hosszú, fejlesztésekkel tarkított út áll, míg a piacérett termékek is profitálhatnak az általa nyújtott elõnyökbõl.
+
+A fényre százszor- vagy ötszázszor érzékenyebb fekete szilícium elsõként éjjellátó távcsövek érzékelõjeként mutatkozhat be, melyet a SiOnyx  cég -- ami a Harvardtól 11 millió dollárért vette meg a jogokat és amelyik cégnek többek között maga a feltaláló, Dr. Eric Mazur is befektetõje -- és partnerei fejlesztenek majd. A fényképezõgépek szenzorait csak jóval késõbb válthatja le a fekete szilícium, hiszen maga az érzékenység csak egy a fontos jellemzõk közül.

@@ -1,0 +1,10 @@
+Magyarul is megtanult a Windows 7
+
+A lista igen hosszú, közel három tucat nyelvet tartalmaz, amelyek között szerencsére a magyar is megtalálható, így a Windows 7 Enterprise vagy Ultimate változatot használó cégek mától magyaríthatják az operációs rendszert. Fontos, hogy a Windows 7 Release Candidate verzióra ezek a nyelvi csomagok nem telepíthetõk, csak az operációs rendszer végleges (RTM) változatára.
+
+A Windows 7 végleges változatát augusztus eleje óta érhetik el a TechNet- és MSDN-elõfizetõk, illetve azok a vállalatok, amelyek mennyiségi licencvásárlók és van érvényes Software Assurance szerzõdése. Érvényes SA nélküli mennyiségi licencvásárlók szeptember 1-tõl vehetik meg az új asztali operációs rendszert.
+Amint az ismert a Windows Vista óta a MIcrosoft asztali operációs rendszereibe nincs belekódolva a nyelv, az angol is csak egy nyelvi csomag, így semmi akadálya nincs annak, hogy a szoftvert más nyelvekre is megtanítsuk. Ezt a nyelvi csomag letöltése után a vezérlõpult "display language" beállításai között  tehetjük meg, itt lehet nyelvi csomagot telepíteni vagy eltávolítani, majd a régióbeállítások között lehet aktívvá tenni a billentyûzetet és nyelvet választó panelen.	     
+                  
+                  
+                  
+                   

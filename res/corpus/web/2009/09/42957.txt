@@ -1,0 +1,17 @@
+Megjelent a Google Chrome 3.0
+
+A Google maga is arra figyelmeztet, hogy a Google Chrome verziószámaiból nem kell messzemenõ következtetéseket levonni. A Google Operating System blogon Alex Chitu is azt írja, hogy a Chrome 3.0-ás verziószáma nem azért van, hogy "felnõttebbnek" tûnjön a böngészõ, mint amilyen, egyszerûen a fõ verziószámok a fontos mérföldköveket hivatottak jelezni.
+Márpedig a 3.0 számos újdonsággal kecsegtet, s habár a felület nem újul meg jelentõsen, erre nincs is szükség, hiszen nem teltek el évek, s nem változott meg a webes környezet sem, hogy erre szükség legyen. Három hónappal az elsõ fejlesztõi preview után a 3.0 végre kijött a béta állapotból és helyére lép a korábbi stabil változatnak. Mivel a böngészõ automatikusan frissít, sokan valószínûleg észre sem fogják venni, hogy bármi is történt volna, hacsak nem a gyorsabb JavaScript vagy a teljes HTML5 támogatás miatt.
+Újdonságok kívül, belül
+Ami a látványt illeti, a Chrome 3.0 immáron támogat egyedi témákat is, ami a Gmail-hez hasonlóan kissé feldobja az egyébként egyszerû és kiegyensúlyozott interfészt. Aki szeretné kidekorálni a Chrome böngészõjét (is), az jelenleg 28 téma közül választhat. Az általában kevesebb mint 1 megabájt méretû témafájlok letöltés után automatikusan aktiválódnak, nem kell újraindítani a böngészõt.
+
+Megújult az "új böngészõfül" ablak is, ettõl a verziótól kezdve szabadon lehet rendezgetni a kedvenc oldalak sorrendjét, lehet rögzíteni azokat, melyeket nem akarunk, hogy eltûnjenek, illetve el lehet távolítani azokat, amik méltatlanul kerültek be. Emellett egyszerûsödött a lap felépítése, eltûnt a keresõ és az elõzmények doboz, ez mostantól egy link alatt érhetõ el, illetve a könyvjelzõ eszköztárat is kis lehet kapcsolni, hogy a már megnyitott oldalakon ne, de az új tab oldalon látsszon.
+
+A Chrome 3.0 továbbá már támogatja a HTML 5 audio és video tageket, amire egy jó ideig feltételezhetõen még nem lesz szükség. Viszont ahogyan a Firefox 3.5, úgy az új Chrome is magában hordozza a videólejátszáshoz szükséges kodeket, így nem lesz szükség a lassú és megbízhatatlan pluginekre, mint az Adobe Flash. A funkciót egyébként bárki kipróbálhatja a TinyVid.com oldalon, ami egy kísérleti Ogg videofeltöltõ szájt, illetve a YouTube HTML5 demo oldalán. A sebesség megszállottjainak lehet fontos, hogy az új stabil 3.0-ás Chrome JavaScript feldolgozási sebessége a legelsõ béta Chrome-hoz képest is 150 százalékot javult, s a fejlesztõk nem tettek le arról, hogy ezt tovább fokozzák.
+Nincs nagy tábora
+A Google Chrome piaci részesedése továbbra sem éri el globálisan a 3 százalékot, de a Google azt mondja, hogy már azzal is elégedett, hogy egy feszített tempójú versenyt generált a Chrome megjelenése, s egy egészen új elvárási szintet állított be a böngészõk piacán, ami az eddigi "karácsonyfa" modell helyett, a sokkal gyorsabb és egyszerûbb kezelõfelületû, kezelhetõbb programok felé mutat.
+A Chrome filozófiája az, hogy a webes szolgáltatásoknak az asztali alkalmazások irányába kell fejlõdni, ahol a kezelés és a megjelenés sem különbözhet sokban. A Google szerint a Safari 4, illetve a Firefox következõ verzióira is hatással van a Google Chrome egyszerûsége. Ennek ellenére komoly rajongótábort mégsem tudott a harmadik generációval sem toborozni.	     
+                  
+                  
+                  
+                   

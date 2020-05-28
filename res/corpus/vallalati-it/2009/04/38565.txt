@@ -1,0 +1,20 @@
+Bemutatta új x86-os szervereit a Sun is
+
+A nagy szervergyártók közül utolsóként a Sun Microsystems jelentette be Xeon 5500-alapú kiszolgálóit. A vállalat talán nem véletlenül nem akart a többi szervergyártóval közösködni, az új Sun Fire masinák kilógnak a tömegbõl, megérdemlik az extra figyelmet. 
+
+
+
+A Sun házon belül tervezi x86-os szervereit is, ennek köszönhetõen a cég gépei számos olyan egyedi megoldást tartalmaznak, amely megkülönböztetheti õket a versenytársaktól. A Xeon 5500-alapú Sun Fire rendszerek esetében az egyik ilyen paraméter a támogatott memória mérete, még a legolcsóbb, 1U magas Sun Fire X2270 operatív tára is 96 gigabájtig bõvíthetõ, a 2U magas gépekbe pedig 144 gigabájt memória is pakolható, ami nem csak adatbázisok vagy üzleti szoftverek esetén lehet hasznos, hanem akkor is, ha a szervert virtualizációs platformként használja valaki.
+
+A Sun összesen hét új, Xeon 5500-alapú gépet mutatott be, ezek közül mindenképp figyelmet érdemel a Sun Fire X4170, amely egy 1U kivitelû kétfoglalatos rendszer, két tápegységgel, legfeljebb 144 gigabájt memóriával, 4 darab gigabites Ethernet-porttal, PCI Express 2.00 interfésszel és akár 8 2,5" SATA vagy SAS merevlemezzel. Ennek a szervernek a nagyobb testvére a 2U kivitelû Sun Fire X4270, amely már 16 meghajtót támogat. A család izgalmas tagja a 12 darab 3,5" diszket tartalmazó X4275 tárolószerver, ami 12 -- késõbb 24 -- terabájt kapacitást nyújt mindössze 2U magas formátumban, ez médiaszerverként, adattárház-jellegû alkalmazáskor vagy archiváláskor jöhet jól.
+
+Sun Fire X4170
+
+A vállalat blade-formátumú gépeket is bejelentett, a kétfoglalatos X6270 blade akár 144 gigabájt memóriát támogat, a kimondottan számításigényes környezetbe szánt X6275 pedig négy processzorral és 96 gigabájt memóriával rendelkezhet és a világon elsõként tartalmaz integrált QDR InfiniBand interfészt, ami mindkét irányban 6,4 gigabájt/sec sávszélességet biztosít. A Sun Blade X6275 elsõsorban a szuperszámítógépek építõi számára lehet vonzó. A kínálatot a Sun Ultra 27 teszi teljessé, ami egy Xeon-alapú munkaállomás, akár 12 gigabájt memóriával és igény esetén NVIDIA Quadro 5800 grafikus chippel.
+
+
+ Polner Tamás, a Sun Microsystems hazai leányvállalatának marketingért felelõs vezetõje a HWSW-nek elmondta, a Xeon 5500-alapú szerverek már a magyar vásárlók számára is megrendelhetõk, a szállítások április végén, a világpiaci premierrel egyszerre kezdõdnek. A Sun Fire X2270 listaára 1500 dollártól indul, az X4170 belépõ ára 2800 dollár, az X4270-é pedig 3400 dollár, az X6270 blade szerverért 2100 dollárt kérnek. Polnertõl megtudtuk, a hazai piacon várhatóan legnépszerûbb konfigurációkhoz kedvezményes áron juthatnak a vevõk.
+
+[+] Brutális teljesítményû az Intel új szerverchipje
+
+Az Intel új Xeonjai rendkívül erõteljesek, ami jó hír a vevõknek, de rossz hír például a Sunnak. A Nehalem-alapú Xeonok több mint 30 benchmark-rekordot döntöttek meg, köztük a SPECweb95-ét is, ahol egy kétfoglalatos HP ProLiant DL380 G6 71 ezer pontos eredményt ért el, közel kétszeresét hozva a korábbi négyfoglalatos, négymagos Xeonra épülõ szerverek teljesítményének. A kimondottan webes feladatokra szánt Sun UltraSPARC T2 processzoros SPARC Enterprise T5220 is csak 40 ezer pont körül teljesített ezen a teszten, ráadásul a tesztkonfiguráció több mint négyszer drágább egy kétfoglalatos Xeon-alapú Sun Fire szervernél.

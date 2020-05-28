@@ -1,0 +1,10 @@
+A nagyvállalatok felé is megkezdõdött az IE8 terjesztése
+
+A Microsoft az összes Vista, Server 2008 és Server 2003 lokalizáció számára megkezdte az IE8 terjesztését a WSUS rendszeren, így az klienseik patchelését azon keresztül menedzselõ szervezetek is hozzájutnak így már. Az XP-k esetén a Magyarországon leginkább releváns magyar, angol és német lokalizációk is megkapják a legújabb Microsoft böngészõt, de a francia, cseh, olasz, orosz, török, koreai és kínai változatok is belekerültek a szórásba. A most kimaradt nyelvek egy hónap múlva, szeptember 22-én kerülnek sorra.
+Az áttérés természetesen továbbra sem kötelezõ, és akkor sem történik meg magától, ha automatikus jóváhagyást állított be a rendszergazda a frissítésekhez, ugyanis el kell fogadni az EULA-t. A Microsoft korábban már számos alkalommal leszögezte, hogy 2014-ig támogatja az IE6-ot az XP-vel egyetemben, megfelelõen korábbi vállalásainak, és az áttérésnek teljes egészében az ügyfelek döntésének kell lennie. A mára rég elavult IE6 létjogosultságát a korábban lefejlesztett és szorosan a böngészõhöz kötõdõ vállalati intranetes alkalmazások adják, miközben a webfejlesztõk és üzemeltetõk a falat kaparják, hogy oldalaik helyesen jelenjenek meg és mûködjenek a jelentõs számú IE6 felhasználó számára is.
+
+Az egyéni végfelhasználók és kisebb cégek számára üzemelõ Windows Update rendszeren már tavasszal, április során megindult az IE8 terjesztése. Ettõl sokan remélték azt, hogy az IE6 rohamosan visszaszorul, az elõbb vázolt okok miatt ez nem következett be, és az IE8 az IE7 kárára terjeszkedik inkább. A WSUS terjesztéstõl valószínûleg továbbra sem hatódnak meg az IE6 erõdítmények, hiszen már az IE7 megjelenését is átvészelték, és valószínûleg csak az XP-vel és régebbi Windows verziókkal együtt fognak csak teljesen kihalni. A Net Applications júliusi adatai alapán az IE6 részesedése még mindig 27 százalékon állt, a HWSW látogatói körében az IE6 aránya mindössze 5 százalék körüli.	     
+                  
+                  
+                  
+                   

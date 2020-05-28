@@ -1,0 +1,20 @@
+A Skype üzenetekbõl is kiszûrhetõk a veszélyes linkek
+
+[Techworld] Bár egyelõre csupán egyetlen szoftver, a FaceTime Communications fejlesztette Greynet Enterprise Manager (GEM) védelmi alkalmazás képes erre, a vállalati környezetben is népszerû Skype elméletileg lehallgathatatlan, titkosított üzeneteibõl is kiszûrhetõk a kártékony oldalakra mutató linkek -- ezeket nem is biztos, hogy valóban az adott felhasználó küldte el nekünk.
+
+
+
+Titkosítva jön az áldás
+
+A Skype felhasználók közötti üzenetváltások titkosított csatornán zajlanak, ezért az egyes üzenetekbe egyetlen internetbiztonsági alkalmazás sem volt eddig képes belelátni, a kártékony oldalakra mutató linkeket feltartóztatni. A Skype használata vállalati környezetben önmagában is biztonsági rést jelenthet, januárban például a korábban bevezetett videomegosztó funkciót kapcsolta ki a vállalat a soron következõ verzióban, mert a program rosszul használt egy Internet Explorer komponenst a HTML-oldalak rendereléséhez.
+
+A FaceTime jelenleg az egyetlen fejlesztõ, mely megállapodást kötött a Skype-pal: a Greynet Enterprise Manager pillanatnyilag az egyetlen szoftver, mely képes a Skype üzenetek tartalmának visszafejtésére. Az azonnali üzeneteket gyakran használják trójaik, vagy azok letöltésére mutató linkek terjesztésére, sokszor oly módon, hogy ellopják a gyenge jelszóval védett azonosítót, majd ilyen üzenetekkel bombázzák a felhasználó kapcsolati listáján található személyeket.
+
+
+Ebben az esetben az üzenet nem egy idegentõl, hanem egy valószínûleg jól ismert személytõl érkezik, akiben jobban megbízunk. Nem is gondolunk arra, hogy a kapott link, vagy a képek csomagjának tûnõ, valójában futtatható állomány egy trójait, vagy billentyûzetfigyelõt telepít a számítógépünkre, mellyel a mi hozzáférésünk is illetéktelenek kezébe juthat.
+
+A nagyok inkább tiltják
+
+A veszély vállalati környezetben is fennáll, ahol a Skype egyszerûsége és népszerûsége miatt igen kedvelt a kapcsolattartásra. A titkosított adattovábbítás azonban nem csak vállalati szabályokat sérthet, de az üzenetek megvizsgálásának lehetetlensége miatt biztonsági problémát is felvet. A szigorú biztonsági elõításokkal rendelkezõ nagyvállalatok általában tiltani szokták a Skype-hoz, MSN Messengerhez hasonló ingyenes üzenetküldõk használatát a többségük saját, kizárólag belsõ használatú megoldást vezet be az alkalmazottak közötti kommunikációra.
+
+A legnagyobb fenyegetésnek a kis- és középvállalatok vannak kitéve, sokan közülük csak a tényleges fertõzések megtörténte és az azzal kapcsolatos károk elszenvedése után kapnak észbe és igyekeznek megnyugtató megoldást találni a védelmükre. A GEM a FaceTime saját Unified Security Gateway megoldásához kapcsolódik, mellyel nem csak a Skype, hanem más azonnali üzenetküldõ alkalmazásokat is figyelhetnek, menedzselhetnek a vállalati rendszerek adimnisztrátorai.

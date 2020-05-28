@@ -1,0 +1,12 @@
+Itt a Mono 2.0: gyorsabb, stabilabb, még átfogóbb .NET-támogatás
+
+[Infoworld/HWSW] Megjelent a .NET-alkalmazások futtatását nem windowsos környezetben lehetõvé tévõ Mono 2.0 verziója. A nyílt forráskódú futtatási környezet számos újdonságot hoz magával, köztük immár teljes C# 3.0 és LINQ támogatást, valamint számos teljesítményt és megbízhatóságot javító fejlesztést is.
+
+
+
+A Mono 2.0 továbbra is a .NET Framework 2.0-t implementálja, a .NET 3.5 támogatása a 2010-re ígért Mono 3.0 érkezésével várható, ugyanis idõt vesz igénybe az olyan API-k beépítése, mint a Windows Presentation vagy Communication Foundation. A Monó 2.0-val a decimális mûveletek és zárolások sebessége is felgyorsult, csökkent a memóriahasználat, javult a megbízhatóság a konkurrenciák és szálak kezelésének fejlesztésével. Az új compiler, komplett C# 3.0- és LINQ-támogatás mellett  teljessé vált a ASP.NET 2.0 támogatása is.
+
+A nyílt forráskódú Mono projekt -- melyet a Novell irányít és tart karban -- célja elsõsorban a Linux platform erõsítése. A .NET-alkalmazások nagyjából 45 százaléka változtatás nélkül, 18 százalékuk kevés, néhány hetes munkát követõen futtatható, és 20 százalékuk igényel jelentõsebb, 3-6 hónapos újraírást, ezek szorosan integrálódnak a Windowshoz -- mondta el Miguel de Icaza, a Novell alelnöke az Infoworldnek. A migrációban segít a Mono 2.0-val érkezõ Mono Migration Analyzer is, mely felméri, mennyire kész egy alkalmazás a linuxos környezetben történõ futtatásra.
+
+
+A Mono projekt 2001-ben alakult, és a Microsoft dokumentációi alapján készül a támogatás a .NET keretrendszerhez, melyet a Microsoft a Java ellenfelének szán -- a dolog nem elhanyagolható szépséghibája, hogy a .NET környezetet kizárólag Windows platformra fejleszti a Microsoft. A Mono ezt a hiányosságot igyekszik orvosolni. A Mono 2.0-t két és fél éven át fejlesztették.

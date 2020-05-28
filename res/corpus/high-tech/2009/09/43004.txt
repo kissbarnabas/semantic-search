@@ -1,0 +1,11 @@
+Piacon az USB 3.0
+
+A japán NEC Electronics májusban jelentette be, hogy elkészült a világ elsõ USB 3.0 gazdavezérlõjével, és már tárgyalásokat folytat PC-gyártókkal a világ minden tájáról. Alig négy hónap alatt az NEC  &#956;PD720200 jelölésû chipje megkapta az USB Implementers Forum minõsítését, és ezzel a SuperSpeed USB logo használatának jogát is. Ezzel megindulhat a vezérlõ kereskedelmi tömegtermelése, mely kezdetben havi 1 millió lesz. A &#956;PD720200 jelölésû integrált chip két darab 5 gigabites SuperSpeed porttal rendelkezik, és egy 1 négyzetcentiméteres, 176-lábú FBGA tokozásban foglal helyet, fogyasztása kevesebb mint 1 watt.
+A StarTechnél már a bejelentéskor elérhetõ egy ExpressCard, mely 2 portos, és 50 euróba kerül, olyan eszköz azonban nem ismert, mely USB 3.0 csatlakozásra volna képes, a visszafelé kompatibilitás azonban természetesen garantált. Az In-Stat szerint négy év múlva az USB piac 30 százalékát már USB 3.0 specifikációjú termékek teszik majd ki. Az NEC úgy véli, hogy az adoptáció jövõre indul meg, azonban kezdetben természetesen lassú lesz, és csak nagyjából két év múlva is csak a PC-k kevesebb mint harmada rendelkezik USB 3.0 portokkal, ezt követõen azonban meglódul majd a terjedése.
+
+Annak érdekében, hogy minél szélesebb körben értékesítse fejlesztését, az NEC chipek mellett kínálja az USB 3.0 vezérlõ magjának logikai leírását licencelésre, hogy más chipfejlesztõk is alkalmazhassák azt, és saját chipeket tervezhessenek köré. Az USB 3.0 vezérlõk piacának nagy részét nem a diszkrét, hanem a chipsetekbe és rendszerchipekbe ágyazottak fogják kitenni, melyekre az NEC nem érhet el saját maga. A következõ három év során várhatóan több százmillió darab USB 3.0 vezérlésre képes chipet fognak értékesíteni világszerte, elsõsorban PC-chipsetek formájában.
+Az új csatolófelület 5 Gbps csúcssebességre képes, ami tízszerese elõdje teljesítményének, a gyakorlatban elérhetõ hasznos adatátviteli teljesítmény másodpercenkénti 400 megabájt lehet. Ehhez az átviteli sebességhez az USB 3.0 már üvegszálat használ, a visszafelé történõ kompatibilitás érdekében azonban rézvezetékeket is alkalmaz majd, hogy az USB 3.0 portok korábbi eszközöket is tudjanak fogadni.	     
+                  
+                  
+                  
+                   

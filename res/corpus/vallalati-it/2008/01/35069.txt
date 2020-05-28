@@ -1,0 +1,30 @@
+Sivatagi körülmények teszik próbára a Toshiba noteszgépek megbízhatóságát
+
+Bemutatta a kimondottan üzleti felhasználásra szánt Tecra notebook-család legújabb tagjait a Toshiba. A vállalat szponzorként részt vesz a Budapest-Bamakó ralin is, ahol az egyik csapat két Tecra notebookkal vág neki a sivatagnak azt bizonyítandó, hogy a gépek még ilyen szélsõséges körülmények közt is használhatók.
+
+
+
+Igáslovak
+
+A Tecra sorozat jelenleg kapható modelljei az S5 és az A9. Mindkét gép 15,4 hüvelykes kijelzõvel rendelkezik és kimondottan az üzleti felhasználást célozza. A két masina közötti legnagyobb különbség a hardver szempontjából a grafikus chip és a kijelzõ: az A9-ben az Intel chipkészletbe integrált GMA X3100 videovezérlõ hajtja a kijelzõt, az S5-ben viszont NVIDIA Quadro lapka gondoskodik a megjelenítésérõl. Érdekesség, hogy a noteszeket soros porttal is ellátták, a Toshiba szerint ugyanis az ilyen típusú perfiériák még nem haltak ki végleg. Az új Tecrák jellemzõje még a gép kikapcsolt állapotában is áram alatt levõ USB-port, amelyet használhatunk például mobiltelefon, PDA vagy MP3-játszó töltésére.
+
+A gépek nem mondhatók kimondottan könnyûnek, ez már a méretekbõl is adódik, nomeg annak, hogy a Tecrákat különlegesen strapabírónak tervezték. A sztenderd hatcellás akkumulátorral 2,8 kilogramm körül nyom a mérlegen a Tecra A9 és S5 is, az opcionálisan kapható kilenc- vagy tizenkétcellás akkuval ennél nyilván sokkal többet, cserébe az üzemidõ elérheti a 8 órát is. A gépek modelltõl és kiépítéstõl függõen bruttó 270 és 450 ezer forint közötti áron érhetõk el.
+
+Toshiba Tecra S5
+
+A kimondottan vállalati "igáslónak" szánt Tecra sorozat a hardverét tekintve gyakran semmiben sem különbözik egy Satellite vagy Satellite Pro modelltõl, mégis sokkal drágább. Az árkülönbözetet a strapabíró megépítettség indokolja: a Tecrák esetében számos olyan trükköt alkalmaz a Toshiba, amely azt célozza, hogy a gépek ne csak egyszerûen túléljék a mindennapos használatot, hanem valóban minden helyen és helyzetben lehessen velük dolgozni.
+
+A tavaly június óta értékesített Toshiba noteszekre már 2 év nemzetközi garancia jár, ami akár 5 évre is meghosszabbítható. A gépekhez helyszíni javítás is kérhetõ, lehetõség van kizárólag Magyarországon, a régióban és világszinten is érvényes helyszíni garanciát vásárolni: ennek keretén belül a Toshiba vállalja, hogy legkésõbb a bejelentést követõ napon mérnöke kiszáll és a helyszínen kísérli meg a javítást. A gépet nem csak akkor kell szervizbe vinni, ha a helyszínen valamilyen okból nem sikerült megjavítani.
+
+Strapabírás mindenek elõtt
+
+
+ A megbízhatóságot fokozó fogások közé tartozik például több alkatrész (pl. LCD, inverter) gumiba ágyazása, megerõsített keret a kijelzõ körül, a megerõsített zsanérok, valamint a gép sarkainak védelme. A Tecrák váza nem csak erõs a sarkoknál, hanem az alkatrészeket is úgy helyezik el a gépben, hogy a sarkok "szabadon maradjanak", így ha a gép leesik és a borítása esetleg meg is sérül, a benne levõ hardver nem károsodik.
+
+A Toshiba hitvallása szerint a merevlemezen tárolt adatok jelentik a notebook legnagyobb értékét, ezért különleges figyelmet fordítottak a meghajtó védelmére. A merevlemezt gumiágyba helyezik, emellett gyorsulásérzékelõt is bevetnek, hogy a notesz leejtésekor az író-olvasó fejeket parkolópályára állítsák, nehogy a gép ütõdésekor belekarcoljanak a tányérokba. A Toshiba szerint a Tecrák akár 1 méter magasból is leejthetõk, a merevlemezen tárolt adatok biztosan túlélik az incidenst. Az adatbiztonságot fokozza, hogy minden Tecra rendelkezik beépített ujjlenyomat-olvasóval és TPM-chippel is. 
+
+Az EasyGuard biztonsági csomag része még a cseppálló billentyûzet, amely akár 1 deci folyadéknak is ellánáll 3 percig: ez épp elég ahhoz, hogy a felhasználó kilépjen a futó alkalmazásokból, elmentse a munkáját és biztonságosan leállítsa a notebookot. A Toshiba annyira bízik a Tecrák EasyGuard védelmében, hogy a Budapest-Bamakó ralin induló egyik csapat fõszponzoraként két notebookot is küld a sivatagi túrára -- bár hogy pontosan milyen feladattal, az egyelõre nem derült ki.
+
+EasyGuard notebooktáskák
+
+Az EasyGuard márkanév alatt új hordtáskákat is piacra dobott a Toshiba, amelyek érdekessége, hogy a noteszgép bennük egy gumiszalagra felfüggesztve utazik, így a csomag leesésekor is védett a hirtelen rázkódástól, ütõdéstõl. Az EasyGuard vonalban összesen öt táskát találni, amelyek között van kereken guruló modell, és nõknek szánt válltáska is.

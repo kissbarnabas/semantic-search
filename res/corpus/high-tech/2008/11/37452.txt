@@ -1,0 +1,16 @@
+Bolygóközi internetet fejleszt a NASA
+
+[AFP/HWSW] Megkezdte egy bolygóközi internet tesztelését a NASA. Az Egyesült Államok ûrhivatala sikeres próbamûködésrõl adott számot, és több tucat képet mozgatott tízmillió kilométeres távolságban. A hatalmas távolságok és a számos zavaró tényezõ miatt egy új kommunikációs protokoll kidolgozására volt szükség, melyet sztenderdizálni kívánnak.
+
+
+
+A jelenlegi ûrkommunikáció nagymértékben kézi vezérlésre alapul, és kizárólag két pont közötti adattovábbításra képes. "Ma az ûrben egy mûveleti csapatnak kézzel kell ütemeznie minden linket, és elkészíteni az összes utasítást a továbbítandó adatok, a küldési idõ és cél meghatározása érdekében. A NASA ezzel szemben egy olyan kommunikációs hálózatot akar látni a jövõben, mely a földi internethez hasonló kényelmet és hibatûrést nyújt az ûrben.
+
+Az interneten használt TCP/IP nem alkalmas ugyanakkor az ûrbéli alkalmazásra. Ezek a protokollok feltételezik ugyanis a célgép elérhetõségét, és viszonylag rövid késleltetéseket tolerálnak. Amennyiben egy TCP/IP hálózaton a küldõ nem képes elérni a címzettet, nem is továbbítja az adatokat, és hibaüzenettel eldobja a csomagokat. Ez a mechanizmus egy olyan környezetben, ahol akár hosszú órákig megszakadhatnak az összeköttetések, lehetetlenné teszi a mûködést.
+
+
+Emiatt új protokoll kidolgozására szükséges. A NASA Jet Propulsion Laboratory részlegének Deep Impact Networking (DINET) kísérlete egy úgynevezett Disruption-Tolerant Networking protokollt alkalmaz, melynek megtervezésében Vint Cerf is közremûködött, akit az internet atyjaként is szokás emlegetni. Ahogyan a neve is sugallja, a DTN tûri a kapcsolat megszakadását, és a következõ node vagy a címzett hosszabb elvesztése esetén is képes végül célba juttatni az adatokat. A sikeres kommunikáció érdekében párhuzamosan több csomópont is tárolhatja és továbbíthatja az adatokat. 
+
+A DTN nem feltételezi a címzett elérhetõségét, az elérési úton a lehetõ legmesszebb lévõ csomópontig továbbítja az adatot. Amennyiben egy node nem képes az adatok továbbítására, mert valamiféle zavaró tényezõ lépett fel, például egy bolygó takarásába került a következõ node, vagy napkitörés lehetetleníti el a tiszta adást, úgy eltárolja a beérkezett csomagokat, és a következõ megfelelõ alkalommal sugározza azt tovább. Bárhogyan is, a címzett elõbb vagy utóbb végül megkapja az adatokat.
+
+A NASA október során folytatta le kísérleteit, melynek keretében egy üstököselfogó küldetésen lévõ ûrhajóval kommunikáltak 32,4 millió kilométer távolságra. A tesztek során egy 10 pontból felépülõ hálózatot szimuláltak, ahol 9 node a Földön volt, Mars-járók, mûholdak és irányító központok mûködését utánozva, míg a tizedik node a Deep Impact/Epoxi ûrhajó, melynek feladata a Hartley 2 üstökös megvizsgálása. A kísérlet során több tucat képet mozgattak oda-vissza a pontok között. A kísérletsorozat következõ fázisában, mely jövõ nyáron kezdõdik, a nemzetközi ûrállomásra telepítik a szükséges szoftvereket.

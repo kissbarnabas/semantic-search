@@ -1,0 +1,17 @@
+Saját reklámkiszolgálót is indíthatunk a Google Ad Managerrel
+
+Nem sokat vacillált újabb szolgáltatása elindításával a Google, alig két nappal azt követõen, hogy az Európai Unió jóváhagyta a DoubleClick felvásárlását, elõrukkolt a bétás Ad Managerrel. Az Ad Manager segítségével saját reklámkiszolgálót, adszervert indíthatunk, saját szerzõdésû reklámjainkat is felvihetjük, és menedzselhetjük az online felületen keresztül.
+
+
+
+A Google új szolgáltatásával azt szeretné elérni, hogy kisebb ügynökségek, kiadók, hirdetési csoportok is élhessenek az adszerverek elõnyeivel. Az egyelõre meghívásos, jelentkezéses alapon mûködõ bétás szolgáltatást azok is igénybe vehetik, aki nem képesek -- vagy nem akarják -- kifizetni a külföldi, vagy hazai adszerverek vertikális portáloknál jellemzõen többtízezer forintos, de akár több százezres havidíját.
+
+A DoubleClick felvásárlása kapcsán számos olyan vélemény került
+napvilágra, hogy a Google az akvizíciót követõen a reklámügynökségi ügyfelek adataihoz hozzáférve nem túl etikus piaci elõnyökhöz juthat. Hirdetésszervezõként, ügynökségként (AdWords, AdSense) konkurál ezekkel a cégekkel. Nehéz gyanútlanul tekinteni a most elindult ingyenes adszerver szolgáltatásra is, hiszen a médiacég, a médiaügynökségi szerep, és a reklámkiszolgáló tevékenység erõsen feszegeti az összeférhetetlenség határait -- többek között a Microsoft is ezzel támadta az Uniónál a felvásárlást.
+
+
+A Microsoft mellett az AT&T és a Time Warner is úgy vélte, hogy az akvizíció révén a Google monopolhelyzetbe kerülhet az internetes hirdetési piacon. A Google jelenleg is a legnagyobb a keresések mellett megjelenített, valamint a tartalomfüggõ szöveges hirdetések terén, miközben a DoubleClick az elsõ a grafikus hirdetések kiszolgálásában.
+
+
+
+A DoubleClick integrálása közben indított Ad Manager szolgáltatás részletes statisztikát nyújt a weboldalakon megjelent szöveges, képes, vagy videós hirdetésekrõl, elõrejelzéseket a várható teljesítményrõl. A Google ingyenesen teszi elérhetõvé az Ad Managert, de az általunk feltöltetlen, szabadon futó reklámhelyeken Google AdSense hirdetések jelennek meg, a keresõóriás ezeken keresztül szerezhet bevételt. Ezek után mi is részesedést kapunk az AdSense megjelenítõkhöz hasonlóan. A Google Ad Manager mellett használhatóak maradnak más reklámszerver-szolgáltatások is, a vállalat nem követel kizárólagosságot az adott weboldalon saját kódjának.

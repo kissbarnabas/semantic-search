@@ -1,0 +1,44 @@
+Megvenné az IBM a Sunt -- de miért?
+
+A Wall Street Journal szerint az IBM felvásárlási tárgyalásokba kezdett a Sun Microsystemsszel, a megegyezés akár már a héten megszülethet, de az is lehet hogy végül semmi sem lesz belõle. Bennfentes források szerint a vételár legalább 6,5 milliárd dollár lenne, ami a Sun jelenlegi piaci értékének kétszerese. A legfõbb kérdés: vajon miért van szüksége az IBM-nek a Sunra?
+
+
+
+Külön utakon
+
+A dotkom-robbanás egyik nyertese ma már csak árnyéka egykori önmagának. Hiába a nagyszerû mérnöki csapat, a Sun Microsystems nem tudja a felhalmozott tehetségét aprópénzre váltani, az elmúlt években csak arra futotta erejébõl, hogy stabilizálja bevételeit, növekedni már nem képes, eredménye a nyereséghatáron táncol. A cég Jonathan Schwartz elnök-vezérigazgató irányítása alatt a (nyílt) szoftverek felé indult el (ékes példa a MySQL 1 milliárdos felvásárlása), azonban bevételének zömét még mindig a hardverértékesítés, illetve az ahhoz kapcsolódó szoftverek és szolgáltatások teszik ki.
+
+Hiába növekednek erõteljesen az olyan, a cég számára viszonylag új területek mint az x86-szerverek, a tárolóeszközök vagy éppen a szoftverek, a vállalat továbbra is erõteljesen függ hagyományos vevõkörétõl, ami fõleg pénzintézetekbõl és távközlési szolgáltatókból áll. Ezen piacok ciklikussága, vagy éppen a pénzügyi szektort a leginkább sújtó recesszió rányomja a bélyegét a Sun teljesítményére, a tavalyi negyedik negyedévben a vállalat 3,22 milliárd dollár árbevételt ért el, ami 11 százalékkal marad el az egy évvel korábbitól. Az adózott veszteség 209 millió dollárra rúgott, szemben az elõzõ évi 260 milliós profittal.
+
+[+] Türelem, a Sun Microsystemsnek van stratégiája 
+
+Miközben a Sun erejébõl a dotkom-lufi kipukkanását követõen csak agonizálásra és útkeresésre futotta, az IBM szilárdan és eltökélten haladt a kitûzött célja felé, hogy a világ legnagyobb számítógépgyártójából a világ legnagyobb informatikai szolgáltatójává váljon. Ezt annyira sikeresen tudta végrehajtani, hogy a bevételeinek túlnyomó többségét ma már nem hardver- vagy szoftvereladás, hanem szolgáltatások biztosítják -- ehhez a hardver- és szoftvertevékenység lényegében csak a hátországot szolgáltatja. Noha bevételben a HP ma már megelõzi az IBM-et, a szolgáltatásokon elérhetõ nagyobb profit miatt a Nagy Kék 13 százalékkal kevesebb forgalomból közel 50 százalékkal több nyereséget termel.
+
+Mi szól ellene?
+
+A felvásárlás ellen számos indok szól. Az elsõ és talán legfontosabb, hogy a két cég tevékenysége a szolgáltatásokat leszámítva lényegében párhuzamos, rengeteg az átfedés. Azokon a területeken, ahol az IBM és a Sun versenytársak (RISC-szerverek, x86-szerverek, tárolók, szoftverek) szinte kivétel nélkül az IBM a nagyobb piaci szereplõ, méghozzá sokkal nagyobb. A vállalatok által preferált technológiák is eltérõek, integrációra csak közép- de inkább hosszú távon (5 év) van reális esély.
+
+Az IBM-nek persze fájhat a foga a Sunnál felhalmozott kompetenciára és szellemi tulajdonra, ami valóban vonzó akvizíciós célponttá teszi a céget. Azonban a helyzet az, hogy a két vállalat között hatalmas a kulturális szakadék. A New York-i származású IBM már az elõzõ évszázad elején is létezett, egyike volt a számítástechnika úttörõinek, egy nagy hagyományokkal bíró konzervatív, öltönyös, viszonylag merev társaság, ezzel szemben a Sun egy klasszikus egyetemi startup a Szilícium-völgybõl, amelyet a 80-as évek elején alapított négy diák a Stanfordról. Noha idõközben a Sun is multivá nõtte ki magát, a cégkultúrát a mai napig áthatja ez a fajta lazaság. Félõ, hogy a Sun dolgozói nehezen vagy egyáltalán nem tudnának beilleszkedni az IBM környezetébe és tömeges elvándorlás venné kezdetét.
+
+Ez a különbség a technológiai fejlesztések terén is tettenérhetõ. Míg a Sun az utóbbi idõben nagy figyelmet szentelt a tucathardveren nyílt forrású szoftverekkel megvalósított megoldásoknak, az IBM-nél láthatóan nincs ilyen törekvés, vagy legalábbis egy-két kivételtõl eltekintve nem kapnak nagy nyilvánosságot. A Sun receptje az, hogy nyílt szoftvereivel megpróbál "beszivárogni" a vállalatokhoz, majd az így kiépített felhasználói bázisnak hardvereket, szoftvereket és támogatást értékesít. Az IBM ezzel szemben a szolgáltatásokra koncentrál, a vevõnek lényegében nem is kell tudnia, problémáit az IBM hogyan és mivel oldja meg, csak fizessen.
+
+Pénzügyi szemmel nézve is kevés racionalitás van egy ilyen akvizícióban. A Sun tavaly mintegy 13 milliárd dollár forgalom mellett csekély 400 milliós nyereséget tudott elérni. A cég fõ bevételi forrásai a hardverek, amiken láthatóan papírvékony hasznot realizál csupán. Az IBM az utóbbi években ahol lehetett, megszabadult a hardvergyártástól annak érdekében, hogy a kevéssé nyereséges tevékenység ne húzza le a cég pénzügyi mutatóit. Ennek a folyamatnak az áldozata lett a PC-gyártási tevékenység, amelyet a Lenovo vett meg 2004-ben. A Nagy Kék az ultrakompetitív x86-os szerverpiacról is láthatóan kivonulóban van, egy tavaly kötött megállapodás alapján a Lenovónak licenceli egyes gépei gyártási jogait, innen már csak egy lépés lenne a tevékenység teljes átadása a kínaiaknak.
+
+Mi szól mellette?
+
+Hogy mindezek mellett miért kellhet mégis a Sun az IBM-nek? Az elsõ értelmes válasz a piacvásárlás, a kalifornai szerver- és szoftvercég ugyanis hagyományosan erõs a pénzügyi és távközlési szektorban és az amerikai kormányzati intézmények is a nagy vásárlók közé tartoznak. Ezeken kívül is nagy installált bázist tudott kiépíteni a cég, az IBM-nek pedig ezekben az ínséges idõkben minden új ügyfél kapóra jöhet. Nekik aztán saját szolgáltatásait adhatná el a Nagy Kék, az ezeken elérhetõ nyereségbõl fedezve az akvizíció költségeit.
+
+Másik motiváció lehet a Sun megszerzésére az egyszerû "irigység", lehet hogy az IBM csak azért venné meg, hogy az ne juthasson más kezére, például a Ciscóéra, amely az IBM-hez hasonlóan "mellényzsebbõl" ki tudná fizetni a Sunt. Amint arról a HWSW is beszámolt, a Cisco hétfõ este hivatalosan is bejelentette belépését a szerverpiaca. A hálózati eszközök legnagyobb gyártója számára kézenfekvõ lenne a Sun felvásárlása, ugyanis ketten együtt ütõképes csapatot alkothatnának az adatközpont-infrastruktúra területén, ahová a Cisco hozná a hálózati kompetenciáját, a Sun pedig szervereit, tárolóit és szoftvereit. Egy Sunnal megerõsödött Cisco pedig félelmetes ellenfél az IBM és a HP számára is.
+
+[+] Belépett a szerverpiacra a Cisco 
+
+Hasonló a helyzet a Dellel is, amely az x86-os szerverpiacon sikeres és az EMC-vel kötött értékesítési megállapodása, illetve az EqualLogic felvásárlása révén a tárolók területén is potens szereplõ, a cégnek azonban nincsenek igazán nagy nyereséget hozó RISC-szerverei és saját szoftverei. A Dell tevékenységét is jól kiegészítené a Sun esetleges felvásárlása, lehet hogy az IBM akciójával egy ilyen lépést próbál megakadályozni.
+
+
+ Motiválhatja az IBM-et az is, hogy egyszerûen csak megszerezze és elsorvassza a Sunt, így egy vetélytárssal kevesebb lenne a piacon. Az elmúlt idõben láthattunk már ilyen akvizíciókra is példát, a Brocade 2006-ban 973 millió dollárt adott a rivális McData-ért, majd az integráció során lényegében a McData összes termékét megszüntette. 
+
+Persze nem zárható ki az sem, hogy az IBM-nek stratégiai tervei vannak a Sunnal és közép- de inkább hosszú távon eredményesen tudná integrálni kínálatát a Sunéval. Ilyen akvizícióra is láthattunk példát az elmúlt évekbõl, pedig 2001-ben sokan egy lyukas garast sem tettek volna a HP sikerére, a cég mégis eredményesen tudta magába olvasztani a Compaqot annak ellenére, hogy szinte minden lényeges területen versenytársak voltak, számos átfedéssel. Most, 8 év távlatából visszatekintve egyértelmûen eredményesnek értékelhetõ a felvásárlás, bár ez inkább Mark Hurd, mint az ügyletet kiagyaló Carly Fiorina érdeme.
+
+A legnagyobb
+
+A Sun esetleges bekebelezése lenne az IBM eddigi történetének legnagyobb akvizíciója, a Cognosért 2007-ben is csak 5 milliárdot fizetett cég. Korai azonban még temetni a Sunt, a Wall Street Journal forrásai is arra figyelmeztetnek, a tárgyalások még csak korai szakaszban vannak és lehet hogy végül nem is születik megegyezés. Az érintett cégek természtesen nem kommentálják a Wall Street Journalban megjelent információkat.

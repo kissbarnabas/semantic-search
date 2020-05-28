@@ -1,0 +1,16 @@
+Az észtek már a mobilos szavazás bevezetésére készülnek
+
+[AFP/HWSW] Észtország továbbra is élen jár az internet társadalmi alkalmazásában: a kis balti állam törvényhozása múlt hét csütörtökön szavazta meg azt a jogszabályt, mely lehetõvé teszi, hogy az állampolgárok a 2011-es választásokon már mobiltelefonjukat is használhassák.
+
+
+
+Korábban már más országokban is kísérletezgettek online szavazással,  például Svájcban, ahol Genf városában 2003 januárja óta több alkalommal is lehetõség nyílt már interneten szavazni, Észtország volt azonban az elsõ, mely országos népszavazásban élt a lehetõséggel. Az észtek elõször egy tallini referendumon tesztelték a Linux-alapú infrastruktúrát, majd a 2007-es önkormányzati választásokon már országszerte használták. 
+
+Elsõ alkalommal még tízezren sem éltek a lehetõséggel, ami a szavazásra jogosultak kevesebb mint 1 százalékát  jelentette. A 2007-es parlamenti választásokon már mintegy 30 ezer állampolgár szavazott az internet kényelmére. Az elektronikus szavazás feltétele egy "okos" személyi igazolvány, és egy számítógéphez csatlakoztatott kártyaolvasó. Az észtek túlnyomó többsége már ilyen chippel ellátott igazolvánnyal rendelkezik, amelyet 2002-ben vezettek be, és szolgáltatások széles körében, például online bankolásnál, adófizetésnél alkalmas azonosításra. Az elektronikus részvétel alacsony arányát a kevés kártyaolvasó indokolja.
+
+Ezen az akadályon segíthet a mobiltelefon bevetése. A mobil mellé nem szükséges egy további eszköz, önmagában képes ellátni az összes hitelesítési funkciót, ugyanakkor itt is gátat szabhat a kezdeti terjedésnek, hogy új, hitelesített chippel ellátott SIM-kártyát kell igényelni. Ez a SIM-kártya lehetõvé teszi, hogy megbízható módon azonosítsa az elektronikus szavazási rendszerben a felhasználót. "A rendszer teljesen biztonságos" -- jelentette ki egy észt elektronikus kormányzást támogató alapítvány programigazgatója. Az elektronikus szavazat ugyanakkor nem teljesen egyenértékû jelenleg a személyessel, ugyanis utólag felül lehet írni egy papíron leadottal. 
+
+
+A rendszer, beleértve a szoftverréteget is, hatásos és megbízható védelmet jelent a támadókkal és csalókkal szemben, amit egy független biztonsági audit is megerõsített -- állítja a kormányzat. Az elképzelések szerint 2011-ben Észtország lesz az elsõ a világon, mely mobilszavazást alkalmaz. Más nemzetek, így például Finnország és Svédország is rendelkezik az m-votinghoz szükséges technológiával, mondta el Raul Kaidro, az ország jelenleg egyetlen digitális hitelesítõje, az SK Certification Center szóvivõje.
+
+A balti állam nem csak a technológia társadalmi alkalmazásában jár élen, hanem a kereskedelmi bevezetésekben is. A parányi, mindössze 1,3 millió lakosú Észtország azon kevesek egyike, ahol már kísérleti jelleggel folyik például mobil WiMAX-szolgáltatás, mely rövidesen nyilvánosan is hozzáférhetõvé válhat. A telepített, más néven nomád WiMAX-alapú internetszolgáltatások már évek óta elérhetõek a 3,5 gigahertzes tartományban, amikkel gazdaságosan fedhetõek le a gyéren lakott területek is, egyúttal versenyt támasztva a vezetékes szogláltatóknak.  

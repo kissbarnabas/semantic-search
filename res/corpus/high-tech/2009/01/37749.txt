@@ -1,0 +1,14 @@
+Csak két tányérja van a Seagate új, 1 terabájtos merevlemezének
+
+Eddigi legnagyobb adatsûrûségû merevlemezét mutatta be a Seagate, a Barracuda 7200.12 mindössze két 3,5" tányér segítségével ér el 1 terabájtos kapacitást, ami négyzethüvelykenként 329 gigabit tárolását jelenti. A cég korábbi rekordere, a Barracuda 7200.11 másfélszer nagyobb kapacitású volt, de négy tányért tartalmazott.
+
+
+
+A Barracuda 7200.12 természetesen már Serial ATA II felületû, amelynek elméleti maximális adatáteresztõ képessége másodpercenként 3 gigabit -- a meghajtó 160 megabájtot tud másodpercenként folyamatosan olvasni. A Barracuda 7200.12 három változatban készül, 1 terabájtos, 750 gigabájtos és 500 gigabájtos kivitelben, a gyorsítótár mérete kiviteltõl függõen 16 vagy 32 megabájt lehet. A Seagate tervei szerint még az idén piacra dob egy négytányéros változatot is a 7200.12-bõl, amely 2 terabájt kapacitású lesz.
+
+A hatalmas adatsûrûséget természetesen merõleges adatrögzítéssel érte el a Seagate. Ez az eljárás lehetõvé teszi a korábbinál sokkal nagyobb kapacitású merevlemezes meghajtók gyártását. Ahogy a gyártók növelik az adatsûrûséget, az adatbiteket tároló mágneses részecskék egyre közelebb kerülnek egymáshoz. Ez ahhoz vezethet, hogy a merevlemez mûködése közben felszabaduló hõ hatására az adatok megváltoznak vagy törlõdnek.
+
+
+ A merõleges adatrögzítés egy igen egyszerû ötleten alapul: az adatbitek "merõleges elrendezése" esetén azonban azok mágneses orientációja a médiára merõleges, ennek révén pedig akár tízszeresére is növelhetõ az adatsûrûség. A gyártók szerint ezzel a módszerrel akár 500 gigabites adatsûrûség is elérhetõ négyzethüvelykenként, ami azt jelenti, hogy egy asztali gépekbe szánt 3,5 hüvelykes meghajtó kapacitása akár 3 terabájt is lehet.
+
+ A nagyobb adatsûrûség nem csak nagyobb kapacitást, hanem alacsonyabb árat is jelent: egy kevesebb tányért tartalmazó meghajtó kevesebb alkatrészbõl áll, ezért elõállítása olcsóbb és a selejthányad, illetve a meghibásodás valószínûsége is kisebb. Az új merevlemezek árát a Seagate nem közölte, de az 500 gigabájtos változat amerikai webshopokban mindössze 60 dollár (~12 ezer forint) körüli áron kapható.

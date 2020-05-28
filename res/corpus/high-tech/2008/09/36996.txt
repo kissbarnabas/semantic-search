@@ -1,0 +1,20 @@
+Intel: nem kell légkondícionáló az adatközpontba!
+
+Általánosságban elfogadott módszer, hogy az adatköpontok levegõjét légkondícionálóval folyamatosan azonos hõmérsékleten és páratartalmon tartják annak érdekében, hogy a szerverek, tárolók és más eszközök ideális körülmények között üzemelhessenek. Az Intel kísérlete szerint azonban ez teljesen felesleges energia- és pénzpocsékolás.
+
+
+
+Légkondi helyett légcserélõ
+
+A világ legnagyobb chipgyártójánál tízhónapos teszt során egy 100 négyzetméteres, 900 éles üzemû blade szervert tartalmazó adatközpontot két részre osztottak. Az egyik fele egy teljesen zárt rendszer volt, ahol a levegõt hagyományos légkondícionálóval keringették és hûtötték, a másik felébe azonban csak egy egyszerû légcserélõt telepítettek, amely a szerverek által felmelegített levegõt a szabadba fújja, és ugyanonnan beszívja a kinti levegõt. A kintrõl beáramló levegõt csak megszûrték, de a páratartalmát már nem módosították, és csak akkor kezdték hûteni, ha a hõmérséklete meghaladta a 32 Celsius fokot. 
+
+A légcserélõvel felszerelt adatközpontban a szerverek jelentõs hõmérséklet- és páratartalom-változásnak voltak kitéve, hiszen a beáramoltatott kinti levegõ hõmérséklete és páratartalma folyamatosan változik az évszak, napszak és az idõjárás függvényében még akkor is, ha a teszthez használt adatközpont viszonylag száraz, szinte sivatagi vidéken feküdt. És mégis, a levegõ viszonylag magasabb portartalma, a nem állandó hõmérséklet és páratartalom ellenére ebben az adatközpontban a szerverek meghibásodási aránya alig volt magasabb, mint a refenenciaként használt adatközpontban, pedig jól látható porréteg lepte be a gépeket.
+
+
+ A tízhónapos teszt alatt a légkondícionálóval hûtött teremben a szerverek 3,8 százaléka hibásodott meg, míg a külsõ levegõvel temperált teremben a gépek 4,4 százalékával adódott probléma. Ezzel szemben a hûtésre fordított energia csak alig negyede volt a légkondícionált teremének, a tízhónapos teszt során az idõ 91 százalékában nem volt szükség a kívülrõl beáramló levegõ hûtésére. Az Intel számításai szerint egy 10 megawattot fogyasztó adatközpont esetében a levegõcserélõk alkalmazásával évente mintegy 2,9 millió dollárt lehetne megtakarítani.
+
+Az energiaköltség az IT-büdzsé felét is elérheti hamarosan
+
+Egy 2007 elején nyilvánosságra hozott kutatás szerint 2005-ben világszerte 14 millió kilowattot tett ki a világ adatközpontjaiban található szerverek és tárolók, valamint a hûtésükrõl gondoskodó berendezések összfogyasztása, ami 7,2 milliárd dolláros költséget jelentett az üzemeltetõknek. A növekedést elsõsorban a használatban lévõ szerverek számának emelkedése magyarázza. Az energiafelvétel öt év alatt megduplázódott, ez alapján 2006-ban az összesített villanyszámla meghaladhatta a 8 milliárdot.
+
+A Gartner becslése szerint az IT-büdzséknek ma még csak 10 százalékát adja az energiaköltség, de ez pár éven belül akár 50 százalékra is növekedhet. Mára valósággá vált, hogy egy szerver élettartama során nagyobb értékû energiát fogyaszt el, mint amennyi a gép bekerülési költsége volt, ezért az energiahatékonyság szerepe felértékelõdött.

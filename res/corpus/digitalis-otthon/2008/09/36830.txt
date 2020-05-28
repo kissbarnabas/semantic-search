@@ -1,0 +1,14 @@
+Három olcsó asztali processzorral bõvítette kínálatát az Intel
+
+Három új asztali processzort dobott piacra tegnap az Intel. A chipgyártó óriás a piac alsóbb szegmenseiben bõvítette 45 nanométeres gyártástechnológiával elõállított termékeinek kínálatát. Az új modellek megjelenése nem érinti sem az eddigiek elérhetõségét, sem az árukat. 
+
+
+
+A négymagos Core 2 Quad Q8200 és a kétmagos Core 2 Duo E5200 egyaránt lefelé bõvíti az Intel 45 nanométeres processzorainak termékvonalait. Elõbbi órajele 2,33 gigahertz, adatbusza 1333 effektív megahertz, és multi-chip tokozásos felépítésébõl fakadóan kétszer 2 megabájt osztott L2 gyorsítótárat alkalmaz. Nettó 224 dolláros közvetlen gyártói árával 16 százalékkal drágább, mint a 65 nanométeres Q6600, mely ráadásul 8 megabájt L2 tárral bír, ugyanakkor lassabb, 1066 megatranszferes busszal bír, és magasabb fogyasztással rendelkezik.
+
+A Core 2 Duo E5200 modellben, mely az elsõ 5000-es sorozatú asztali chip, egy kifejezetten alsókategóriás, ugyanakkor a felhasználók többsége számára megfelelõen potens, alacsony fogyasztású chip ölt testet. A 84 dolláros nettó listaárért 2,5 gigahertzes órajel, 2 megabájt L2 cache és 800 megatranszferes busz jár. Az E5200 egyértelmûen felváltja a kínálatban az E4600-at, mely több pénzért valamivel alacsonyabb órajelet és magasabb fogyasztást ad, de a 2,6 gigahertzes E4700-nál is harmadával olcsóbb.
+
+
+A belépõkategóriában egy fokozatot gyorsult a Celeron D vonal. A 65 nanométeres eljárással készülõ Celeron D 450 órajele 2,2 gigahertz, az L2 cache mérete továbbra is mindössze 512 kilobájt, a rendszerbusz pedig 800 megahertzes. Mindezért ugyanakkor az Intel mindössze nettó 53 dollárt kér 1000 darabos megrendelés esetén, így az ultraolcsó, de még használható asztali gépek építõeleme lehet.
+
+ Az Intel 45 nanométeres termelése a jelenleg folyó negyedévben haladja a 65 nanométerest, amit egyre inkább tükröz a vállalat árlistájában megtalálható termékportfólió is. A tavaly novemberben megindult kereskedelmi szállításokat követõen idén már több mint 100 millió 45 nanométeres eljárással készült terméket kíván a chipgyártó leszállítani. Az AMD elsõ 45 nanométeres chipjeinek felbukkanása a negyedik negyedévre várható, a négymagos lapkák Opteron szerverprocesszorként és felsõkategóriás Phenomként kerülnek majd piacra.

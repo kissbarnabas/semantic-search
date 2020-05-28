@@ -1,0 +1,10 @@
+Ellenõrizzük a torrentrõl leszedett Windows 7 eredetiségét!
+
+Honnan tudhatnánk, hogy a torrentrõl letölthetõ verzió nem tartalmaz valamiféle rosszindulatú kódot, mint például keyloggert és trójait? Mitõl volna mindez jobb, mint egy e-mailen kapott binárist elindítani? Semennyivel, van viszont megoldás.
+Ezt a problémát, valamint a megbízhatóság ellenõrzése iránti igényt felismerve alkotta meg Long Zheng és Sven Groot a Windows 7 ISO Verifier mini alkalmazást, melynek neve mindent elárul, amit csak tudni kell róla: megnézi, legitim forrásból származik-e a Windows 7 imidzsünk. A szoftver letölthetõ Long Zheng blogjáról.
+
+A Windows 7 RTM közeledtével máris a trackereken található a legújabbnak tûnõ, 7264-es build, mely elvileg már igen közel áll a véglegeshez, egyfajta RTM Candidate-ként lehet rá tekinteni. Az ISO Verifier nem mást csinál, mint a letöltött .ISO állományról készít egy MD5 hash-t, és ezt összeveti a már ellenõrzött lemezképekrõl készített, tehát megbízható forrás alapján készül hashekkel. A szerzõk szerint mindezt egy online lista alapján teszi, tehát nem kell magát az alkalmazást frissíteni ahhoz, hogy megbizonyosodjunk a letöltött kép eredetiségérõl.	     
+                  
+                  
+                  
+                   

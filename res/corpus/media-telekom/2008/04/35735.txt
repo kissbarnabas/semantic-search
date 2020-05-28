@@ -1,0 +1,20 @@
+Piacra lépésük elõtt elveszíthetik elõnyeiket a saját adótornyok, a femtocellák?
+
+[Ars, HWSW] Miközben egyre többet hallani a mini otthoni adótornyokról, az úgynevezett femtocellákról, felmerül a kérdés, vajon valóban felválthatja ez a technológia a Wi-Fi-t, nyújthat valós alternatívát a Wi-Fi-s VoIP-hívásokkal szemben? Valóban saját internetelérésünket akarjuk otthon használni HSDPA-képes mobil eszközeinkkel, miközben egyre több készülékben kap helyet a Wi-Fi-lapka? A femtocellák könnyen a WiMax sorsára juthatnak: elõnyüket vesztik, mielõtt piacra léphettek volna.
+
+
+
+Nyerõ ötlet
+
+A mobilszolgáltatók természetesen csak nyernek az olcsó hozzáférést ígérõ berendezésekkel, hiszen saját internetkapcsolatunkat használjuk a szolgáltató drágán kiépített mobilhálózata helyett. A felhasználókat kétféle módon kapcsolhatjuk be a vérkeringésbe, az UMA-ra felkészített Wi-Fi-s routerekkel, ahogyan a T-Mobile az Egyesült Államokban tavaly elindított HotSpot@Home szolgáltatásával tette, illetve az úgynevezett femtocellákkal, otthoni mobil adótornyokkal.
+
+Elõbbiek hátránya eddig az volt, hogy Wi-Fi-vel és speciális UMA-kompatibilis szoftverrel ellátott mobiltelefonra volt szükség a használatukhoz, míg a femtocellákhoz gyakorlatilag bármilyen kompatiblis mobiltelefonnal, adatkártyával csatlakozhatunk. Utóbbiak saját kis otthoni bázisállomást ígérnek -- a Wi-Fi azonban egyre elterjedtebb, használata pedig kézenfekvõbbnek tûnik.
+
+Sprint Airave femtocella
+
+Eltûnnek az elõnyök
+
+
+A femtocelláktól a lefedettség, fõleg az otthoni lefedettség javulását várják a mobilszolgáltatók -- azokra a nagyobb hatótávolságú eszközökre, melyek esetleg szomszédainkat is kisegíthetik, még várni kell --, a folyamatos versenynek és hálózatépítésnek köszönhetõen azonban a fehér foltok hazánkban is rohamosan csökkennek, ráadásul ahol szélessávú internet elérhetõ, ott általában fejlettebb mobilhálózatok is megfelelõ lefedettséget nyújtanak. Az árverseny, a számtalan ingyenes perc pedig az otthoni, olcsóbbnak ígért telefonálás elõnyét semlegesíti részlegesen. A femtocellák ráadásul még meglehetõsen drágák, a kevés, szabályt erõsítõ kivétel közé tartozik a Samsung Ubicell adótornya, melyet a Sprint a tengerentúlon már elérhetõvé tett elõfizetõi számára.
+
+A mobilszolgáltatók kivárása egyáltalán nem véletlen. Bár lehetséges gyõztest hirdetni a két, hasonló funkciót nyújtó, de eltérõ megközelítés között, a Wi-Fi-s telefonok és az otthoni vezeték nélküli elérés rohamos terjedésének, illetve a mobilszolgáltatók árversenyének, a harmadik generációs hálózatok folyamatos építésének köszönhetõen a meccs még egyáltalán nem lefutott. Sokan szkeptikusak, véleményük szerint a koncepciót nehéz lesz eladni a nehezebb telepíthetõség és konfigurálhatóság miatt, illetve a szolgáltatóknak is új üzleti modelleket kell kidolgozniuk a femtocellák támogatására.

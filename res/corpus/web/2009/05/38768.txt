@@ -1,0 +1,31 @@
+A lopakodó szoftverfrissítések a leghatásosabbak
+
+Google svájci leánya és a zürichi Számítógépmérnöki és Hálózati Laboratórium együttmûködésében zajlott le 2008 második felében egy globális kutatás, melynek részeként a Google által kiszolgált oldalakat meglátogató böngészõk verziójából építettek idõsoros adatbázist. A felhasználóknak csak 55 százaléka használta az adott böngészõ legújabb verzióját, 45 százalékuk tehát fokozott biztonsági kockázatnak tette ki magát. Az egyes böngészõk közt azonban hatalmas eltérések mutatkoznak a felhasználói bázis frissessége terén.
+
+A kutatás arra a következtetésre jutott, hogy a széles körben használt böngészõk közül a Firefox rendelkezett a leghatásosabb frissítési mechanizmussal, de a felhasználóknak itt is mindössze 83 százaléka futtatta a legújabb kiadást. A kutatók úgy gondolják, hogy ezt a mechanizmus módosításával tovább lehetne fokozni, amire a legjobb példa a Google Chrome -- a tanulmány így azzal a feltételezéssel is él, hogy a patchdisztribúció mikéntjétõl függ leginkább a szoftverek frissessége.
+
+
+A Google Chrome böngészõje úgynevezett csendes frissítést alkalmaz, vagyis a felhasználó közremûködése nélkül, a háttérben keres, tölt le és telepít patcheket, anélkül, hogy ezt bárhol jelezné. Ez a mechanizmus különbözik bármelyik másik böngészõjétõl, de egyben a legtöbb, széles körben alkalmazott szoftverétõl is. A Chrome bázisa ennek eredményeként példátlan frissességet tud elérni a statisztikák szerint: egy alverzió három hét után eléri a 97 százalékot, ha idõközben nem érkezik újabb frissítés.
+
+Érdekes, hogy a Firefox update rendszere az elsõ héten még lépést tud tartani a Chrome-mal, sõt az elsõ napokban még gyorsabb is nála, ezt követõen azonban kifullad, a Google statisztikái szerint a legfrissebb verziót használók aránya soha nem haladta meg a 85 százalékot. Ez arra utal, hogy bár a Firefox a felhasználók többsége felé rendkívül gyorsan szétteríti a patcheket, egy jelentõs, nagyjából 15-20 százalék útját állja a frissítésnek. A Firefox kezdeti gyorsaságára magyarázat, hogy agresszívebb letöltési politikát használ és szemben a Chrome-mal, feltûnõ módon értesíti a  felhasználót a folyamatról és az újraindítás szükségességérõl, így a kooperatív felhasználók hamarabb állhatnak át a frissített verzióra.
+
+A Chrome ezzel szemben bár rendkívül gyakran, 5 óránként ellenõrzi a frissítéseket, annak meglétét a szerver csak egy bizonyos valószínûséggel "vallja be", hogy ezzel elkerülje a szerverek túlterhelését, valamint nem hívja fel a figyelmet arra, hogy frissítés történt, és újraindítás volna szükséges. Ez magyarázza, hogy a Firefox eleinte gyorsabb, végül azonban a Chrome teljesen észrevétlen megoldása bizonyul hatásosabbnak. Mindez azt jelenti, hogy a Chrome gyorsabbá válhatna azáltal, hogy felhívja a figyelmet a frissítés szükségességére, míg a Firefoxnak nem kellene megkövetelnie a felhasználói aktivitást, amire láthatóan sokan nem hajlandóak.
+
+Szégyenfal: Safari, Opera
+
+Érdemes néhány szót ejteni a többi vizsgált böngészõrõl is, melyek kiábrándító eredményeket mutatnak. Az Internet Explorer bázisát webes statisztikával nem lehet felmérni, ugyanis a böngészõ nem jelenti le a pontos verziószámot, csak a fõverziót, vagyis a generációt. A Microsoft indoklása szerint minderre biztonsági okokból van szükség, hogy a támadók nehezebben aknázzák ki támadó kódjaikat. 
+
+ A safarisok közelében sincsenek a Firefox vagy a Chrome által mutatott frissítési sebességnek. A Safari novemberben kiadott 3.2.1 verzióját három hetet követõen mindössze a Google oldalait látogatók 33 százaléka telepítette. Ezt leginkább az magyarázza, hogy az Apple a MacOS részeként kezeli a Safarit, olyannyira, hogy egyes verziót az operációs rendszer verziójához köti -- vagyis addig nem léphetünk tovább a Safarival, míg az egész rendszert be nem frissítettük.
+
+
+A safarisoknál is kiábrándítóbbak azonban az Opera-felhasználók, akiknek a trehánysága ordító -- az új kiadás penetrációja a megjelenést követõ három hétben még a 25 százalékot sem érte el. Ezt leginkább az magyarázza, hogy az Opera frissítési módszere mai szemmel rendkívül körülményes: a szoftverben nincs automatikus frissítés, egy weboldalról kell letölteni és feltelepíteni az új változatot, miközben a felhasználónak nagyjából egy tucat kérdésre kell válaszolnia, például hogy hová települjön a szoftver vagy hogy elfogadja-e a licencfeltételeket.
+
+ Ilyen kontextusban kevéssé van értelme arról beszélni, mennyi biztonsági sebezhetõség van az Opera aktuális verziójában, vagy milyen gyorsan javítja azokat a cég, miközben a felhasználók nagy része régi, támadható változatokat futtat. Nem véletlen, hogy a jelenleg tesztelés és fejlesztés alatt álló Opera 10 automatizált frissítési rendszert fog bevezetni.
+
+Szabadon vihetõ a Chrome megoldása
+
+A Chrome frissítési mechanizmusát a Google nyílt forrásúvá tette az Omaha kódnevû projektben, így szabadon felhasználható bárki számára. A vállalat arra biztatja a fejlesztõket, próbálják ki és implementálják azt saját szoftvereikben is, ami számos elõnnyel szolgál. A felhasználók számára biztonságosabb, stabilabb szoftvert eredményez közremûködés nélkül, ami elégedettebb ügyfeleket, kevesebb támogatási és tesztelési erõforrást jelent.
+
+Mindez természetesen felveti a kérdést, hogy kinek a kezében van az irányítás. A csendes, teljesen automatikus patchelési mechanizmus elveszi a kontrollt a felhasználótól, hogy melyik verzióját használja a szoftvernek. A tanulmány szerzõi úgy vélik, mindennek valójában nem szabadna számítania, míg minõségi és biztonsági problémák nem merülnek fel -- ideális esetben a felhasználó valóban nem vesz észre semmit, legfeljebb annyit, hogy egy gyorsabb, stabilabb, használhatóbb szoftvert kapott. Opcionálisan természetesen lehetõvé lehet tenni, amire a Chrome jelenleg nem ad lehetõséget, hogy az alapértelmezett csendes automatizmust ki lehessen részlegesen vagy teljesen iktatni -- ahogyan a Windows Update esetében is.
+
+A teljes tanulmány elolvasható a techzoom.net biztonsági weboldalon.

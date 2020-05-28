@@ -1,0 +1,22 @@
+Csütörtöktõl automatikus frissítésként érkezik a Windows XP SP3
+
+A Microsoft csütörtökön kezdi meg a Windows XP harmadik, egyben utolsó javítócsomagjának terjesztését az automatikus frissítõszolgáltatáson keresztül, így azok a felhasználók, akik még nem töltötték le az SP3-at, július 10-én magyar idõ szerint este 7-tõl számíthatnak az érkezésére. A csütörtöki megjelenés természetesen nem jelenti azt, hogy az összes felhasználóhoz aznap letöltõdik a Windows XP SP3, a terítés folyamatos, így biztosan lesznek olyanok, akikhez csak pár nap múlva ér el a csomag.
+
+
+
+Problémás patch
+
+
+A Windows XP SP3-at némi késés és csúszás után május elején adta ki a Microsoft. A javítócsomagnak már korábban meg kellett volna érkeznie, azonban az utolsó pillanatban kiderült, hogy nem kompatibilis a Microsoft Retail Management System szoftverrel, ezért át kellett dolgozni. Ugyanez a termék inkompatibilis volt a Vista SP1-gyel is, amelyet szintén módosítani kellett emiatt.
+
+Nem sokkal a megjelenés és az elsõ letöltések után kiderült, az AMD processzoros gépeken az SP3 telepítése végtelen újraindulási ciklust okozhat. A hiba akkor lép fel, ha AMD-alapú PC-re inteles gépen készített  Windows XP rendszerképet telepítenek. Az inteles gépen létrehozott rendszer regisztrációs adatbázis meghívja az Intel processzorokhoz tartozó  Intelppm.sys állományt, mely az olyan szolgáltatások vezérléséért felel, mint a SpeedStep dinamikus energiagazdálkodás. Más gyártó processzorával szerelt számítógépen ez a driver mûködésképtelen, és ez vezet végül az újraindítási procedúrához.
+
+A Microsoft évekkel ezelõtt, 2004 augusztusában dokumentálta már a jelenséget, és a Sysprep esetében is külön felhívta a figyelmet arra, hogy a forrásgéptõl különbözõ gyártó processzorával szerelt célgép hivatalosan nem támogatott forgatókönyv. Mindazonáltal a Microsoft a Windows Update szolgáltatásba beépített egy szûrõt, amely megakadályozta az SP3 telepítését AMD-alapú gépekre, majd nem sokkal késõbb egy javítást is közzétett, amelynek telepítése után az SP3 már nem indítja újra folyamatosan a gépet. Akinél él az automatikus frissítési szolgáltatás, az már minden bizonnyal megkapta ez a patchet, így az SP3-at is bátran letöltheti.
+
+Búcsúzik az XP
+
+Amint arról lapunk is többször beszámolt, 2008. június 30-án a Windows XP értékesítése megszûnt, bár a boltokban ezután is elérhetõk lesznek XP-vel elõre telepített gépek. A Windows Vista Business és Ultimate verziók downgrade-elhetõk Windows XP Professionalre, és a szállítók 2009. január 1-ig kínálhatnak is olyan gépeket, amelyekre Vista helyett Windows XP-t telepítettek, így ha valaki ragaszkodik a "régi" operációs rendszerhez, továbbra is használhatja. A "csökkentett képességû" gépeken, UMPC-ken, netbookokon, MID-eken egyébként 2011-ig lehet még XP-t vásárolni.
+
+A vállalat rendes terméktámogatási ciklus keretében 2009 áprilisáig biztosít "mainstream" támogatást a Windows XP-hez, amelybe a biztonsági és egyéb javítások kiadása és kérés esetén új funkciók fejlesztése mellett beletartozik az ingyenes és fizetõs telefonos és online támogatás is. Ezt követõen 2014 áprilisáig már csak kritikus biztonsági javítások készülnek a szoftverhez, a telefonos és egyéb támogatás viszont már csak a kiterjesztett támogatási szolgáltatást megvásárló ügyfelek számára lesz elérhetõ.
+
+Azok a felhasználók, akik valamilyen ok miatt nem állnak készen a Windows XP SP3 fogadására, a Microsoft oldaláról letölthetik és telepíthetik a Windows Service Pack Blocker Tool Kitet, amellyel letiltható a javítócsomag telepítése.

@@ -1,0 +1,10 @@
+Windows Live Messenger integráció a myVIP.hu-ban
+
+A Windows Live Messenger szolgáltatást az idén tavasszal bejelentett, webfejlesztõk munkáját megkönnyítõ Microsoft Web ToolKit nevû alkalmazással integrálták a myVIP.hu kezelõfelületébe. A technológiát  és együttmûködést felhasználva a második legnagyobb helyi fejlesztésû hálózat, a több mint 2,6 milliós felhasználói bázisú myVIP.hu lehetõvé teszi az oldalra látogatók számára, hogy a kezelõfelületén megjelenõ Windows Live Messenger Eszköztár segítségével azonnali üzeneteket válthassanak a kapcsolatlistájukon szereplõ személyekkel.
+
+A Myvip.hu kezelõfelületébe integrált Windows Live Messenger Eszköztár szolgáltatásait tekintve egyenértékû az ismert alkalmazással. A myVIP.hu-ra bejelentkezõ felhasználók automatikusan bejelentkeznek a Windows Live Messenger hálózatába, így a felhasználók azonnal értesülhetnek kapcsolataik online státuszáról. Az integráció lehetõvé teszi, hogy a felhasználók a Windows Live Messenger szolgáltatás segítségével a myVIP.hu adatlapon tárolt egyéni információikat, adataikat meg is oszthassák a kapcsolatlistájukon szereplõ személyekkel.
+A Windows Live Messenger integrációjának lehetõsége más szolgáltatók elõtt is nyitva áll: a Microsoft a fejlesztõk számára térítésmentesen biztosítja az Eszköztár integrálásához szükséges tudásbázist, fejlesztõeszközöket és mintaalkalmazásokat. A Messenger Web Toolkit letölthetõ a Liver Services dedikált weboldaláról.	     
+                  
+                  
+                  
+                   

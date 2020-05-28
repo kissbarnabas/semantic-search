@@ -1,0 +1,12 @@
+Alacsony fogyasztású és csúcsteljesítményû Shanghai processzorok az AMD-tõl
+
+Hét új négymagos Opteront mutatott be az AMD, melyek közt alacsony fogyasztású és csúcsteljesítményû változatok egyaránt megtalálhatóak. Az új modellek mindegyike azokra a tavaly novemberben rajtolt Shanghai chipekre épül, amelyek 45 nanométeres csíkszélességû félvezetõ eljárással készülnek Drezdában. 
+
+
+
+Az AMD öt darab alacsony fogyasztású, úgynevezett High Efficiency (HE) modell mutatott be kettõ- és többutas kiszolgálók számára. A fejlettebb gyártástechnológiának köszönhetõen 68 wattos elektronikai keretbõl akár a 2,3 gigahertzet is elérheti az órajel, szemben a 65 nanométeres Barcelona 2 gigahertzes maximumával. A teljesítménykülönbséget természetesen a futtatott kód határozza meg, de a kettõrõl hat megabájtra növelt L3 cache-nek hála azonos fogyasztás mellett a Shanghai 20-40 százalékos teljesítménynövekedést is biztosíthat tipikusan tranzakcionális szerverfeladatok alatt. A 2,3 gigahertzes Opteron 2376 HE és 8376 HE modellek mellett a 2,2 gigahertzes x374 HE  változatok, valamint a 2,1 gigahertzes 2372 HE érkezett meg.
+
+[+] Ütõképes lett az AMD Shanghai 
+
+
+Az AMD egyúttal két új csúcsváltozatot is bemutatott. Sok teljesítménynövekedésre ne számítsunk, ugyanis mindössze 2,8 gigahertzre növekedett az órajel, ami kevesebb mint 4 százalékos emelkedés. Miközben a teljesítménykülönbség gyakorlatilag elhanyagolható, a fogyasztás drasztikusan megugorhat, ezeket a változatokat ugyanis magasabb energiaosztályban, SE verzióban dobja piacra a vállalat. Az SE, vagyis Special Edition modellek energiakerete 120 watt, szemben a tipikusnak tekintett 95 wattal, a jelentõsen megnövekvõ elektromos és hõterhelést, valamint közel 20 százalékos felárat csak a leginkább teljesítménykritikus alkalmazások igazolhatják.

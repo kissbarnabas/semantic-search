@@ -1,0 +1,22 @@
+Energiahatékony Xeonokat és chipsetet mutatott be az Intel hálózati és beágyazott területekre
+
+Új chipsetet és további 45 nanométeres Xeon processzorokat mutatott be az Intel kifejezetten a helyben és rendelkezésre álló energiában szûkölködõ felhasználók számára, melyek legnagyobb csoportját a telekommunikációs vállalatok képezik. 
+
+
+
+Kevésbõl sokat
+
+Az Intel öt új processzort jelentett be "telekom" (carrier grade) felhasználásra, melyeket már 45 nanométeres csíkszélességgel gyárt. A termékeket a vállalat a kifejezetten magas energiahatékonyságot és nagy teljesítményt egyszerre igénylõ területekre szánja, ahol egy szerver teljes fogyasztása sokszor nem haladhatja meg a 200 wattot, ugyanakkor nagy terhelést kell tudnia lekezelni. A felhozatalban két- és négymagos Xeonok egyaránt találhatóak, és az adott modellekhez már 7 év támogatást vállal a gyártó a korábbi 5 évvel szemben.
+
+A fõként beágyazott hálózati és tároló eszközökbe szánt chipek zászlóshajója a már korábban piacon lévõ Xeon E5440, mely négy magja, kétszer 6 megabájt L2 gyorsítótára és 2,83 gigahertzes órajele ellenére mindössze 80 wattnyi hõt fût el huzamosabb ideig (TDP). Ennél sokkal érdekesebb lehet a megcélzott felhasználóknak a szintén négymagos L5408, mely alacsony feszültségének köszönhetõen 2,16 gigahertzes órajelen 40 wattos hõkerettel bír -- igaz, kompromisszumként az adatbusz 1066 megahertzes.
+
+
+A négymagos Xeonok mellett három új kétmagos is felkerült a palettára. Az alacsony feszültségû L5238, mely a többi változat azonnali hozzáférhetõségével szemben áprilisban érkezik, 2,66 gigahertzes órajele és 1333 megahertzes adatbusza ellenére mindössze 35 wattos TDP-vel bír. A normál fogyasztású (65 wattos TDP) E5220 és E5240 órajelei rendre 2,66 és 3 gigahertz. A 45 nanométeres, újszerû fémötvözeteket alkalmazó tranzisztorokból felépülõ chipek adott fogyasztási keretbõl számottevõen nagyobb teljesítményt érnek.
+
+Alacsony fogyasztású chipset és memória
+
+Az energiahatékony processzorok mellett azonban alacsonyabb fogyasztású chipsetre és memóriaalrendszerre is szükség van egy kompakt és kis energiafelvételû rendszer építéséhez. Az Intel ennek érdekében fejlesztette ki az 5100 chipsetet, mely szemben a mainstream kétutas 5000-es sorozattal (Bensley), nem FB-DIMM, hanem DDR2-memóriavezérlõt használ. Az 5100 szintén támogat kétutas konfigurációt, és legfeljebb 32 gigabájt memóriát és 6 SATA meghajtót kezel. Az Intel állítása szerint a korábbi carrier grade, 65 nanométeres négymagos processzorhoz (L5318, 1,6 gigahertz, 40 watt) és 5000P chipsethez képest egy Xeon L5408/5100 párossal  67 százalékkal nagyobb teljesítmény realizálható wattonként. 
+
+Extrém szerver
+
+A chipek mellett az Intel egy újabb, zord környezetbe tervezett szervert is bemutatott, melyeket szervereket és telekommunikációs berendezéseket szállítóknak ajánl. A tûzálló, szélsõséges (93 százalékos) páratartalmat és hõmérsékletet (5-40 Celsius fok) és 4-es erejû földrengést is toleráló TIGH2U egy 2U magas rack szerver, melyhez az Intel 45 nanométeres négymagos Xeonokat támogat. A nagyobb teljesítmény érdekében a gép 5000P chipsetet használ, és 32 gigabájt FB-DIMM memóriát fogad legfeljebb. A 600 wattos redundáns táp, KVM-et adó távoli felügyeleti modul (RMM2), hardveres RAID és bõvíthetõ I/O képességek természetes opciók -- a TIGH2U akár 20 gigabites aggregát Ethernet kapacitást képes felmutatni.

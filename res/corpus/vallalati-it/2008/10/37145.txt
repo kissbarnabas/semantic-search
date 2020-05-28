@@ -1,0 +1,12 @@
+Távoli hozzáférést kínál PC-nkhez a Dell
+
+Távoli webes hozzáférést tesz lehetõvé a Dell számítógépein, de a szükséges szoftver szabad letöltésével bármilyen PC-n. Az alapszolgáltatás ingyenes, a teljeskörû funkcionalitásért ugyanakkor fizetni kell. 
+
+
+
+Egy regisztrációt követõen letölthetõ a Dell Remote Access alkalmazása, a telepítõ mintegy 15 megabájtos. A telepítés során a szoftver ellenõrzi, hogy a gép alkalmas-e a szolgáltatáshoz. Ekkora egy másik PC-rõl már a Dell my.dellremoteaccess.com oldalán keresztül hozzáférhetünk gépünk adataihoz -- ez a szolgáltatás ingyenes.
+
+Amennyiben elõfizettünk a prémium csomagra, ezt követõen beállíthatjuk, melyik fájlokat és könyvtárakat kívánjuk megoszthatóvá tenni barátainkkal vagy munkatársainkkal, akik egy böngészõ és internet-hozzáférés révén elérhetik azokat. Egyetlen regisztrációval ráadásul tetszõleges számú PC-t érhetünk el a hálózatunkon, akár mobiltelefonnal is. A teljes változat képes zene és képek streamelésére, állományok távoli elmentésére, a gép teljes irányítására (remote desktop), és a webkamera vezérlésére is. 
+
+
+A Dell a késõbbiekben elõtelepíti a szoftvert számítógépeire. A Dell Remote Access mellett sok más hasonló webes megoldás teszi lehetõvé gépeink távoli elérését és vezérlését akár -- például a Citrix GoToMyPC, vagy a magyar fejlesztésû és fejlett LogMeIn. A prémium csomagot a Dell havi 10, vagy évi 100 dollárért kínálja, elsõsorban egyéni felhasználóknak -- a Dell ajánlata jóval drágább például a régóta piacon lévõ LogMeInnél. A DRA egyelõre a Windows platformot támogatja csak teljeskörûen, de a linuxos gépeken vagy maceken tárolt adatok is elérhetõek maradnak.

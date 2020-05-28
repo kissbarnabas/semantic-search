@@ -1,0 +1,11 @@
+Torvalds: a Linux nem olyan, mint ahogyan elképzeltem
+
+Linus Torvalds a Portlandben megrendezett LinuxCon 2009 rendezvényen tartott kerekasztal-beszélgetésen fogalmazott úgy, hogy a Linux kernele kényelmetlenül nagyra duzzadt, számolt be több szaklap, köztük a H Open Source is. Torvalds ezt annak kapcsán mondta el, hogy megkérdezték tõle, nem gondolja-e, hogy az újabb és újabb funkciók túlságosan gyorsan kerülnek be a kernelbe.
+Torvalds a Linuxot nem így képzelte el akkor, mikor megálmodta. "Egy kissé szomorú, hogy nem egy olyan áramvonalasított, kicsi és hiperhatékony kernelünk van, mint amilyet 15 évvel ezelõtt vizionáltam" - mondta a Linux atyja. A beszélgetés moderátora, a novelles James Bottomley hozzátette,  létezik egy Intel-kutatás, mely arra a következtetésre jutott, hogy a Linux kernel teljesítménye minden egyes kiadással átlagosan 2 százalékponttal csökken, és az elmúlt 10 kiadás alatt 12 százalékkal lassult (ezt több híradás is ezekkel a számokkal írta le, bár matematikailag  helytelen).
+
+Torvalds szerint bár a Linux kernelének ijesztõ méretû az utasításcache iránti igénye, de legalább "eléggé stabil". "Olyan gyorsan találjuk meg a hibákat, mint ahogyan produkáljuk õket, még annak ellenére is, hogy egyre több kódot adunk hozzá" - mondta el Torvalds. Naponta több mint 5 ezer sornyi kódot távolítanak el a kernelbõl a minõség javítása érdekében, becsli a Linux Foundation, ugyanakkor közel 11 ezer sorral bõvül, köszönhetõen a közel ezer fejlesztõnek, akik részt vesznek a kernel munkálatain.
+Torvalds nem tudott azonban semmiféle tervvel elõállni azzal kapcsolatban, hogy mit lehet tenni az ügy érdekében. "Szeretném azt mondani, hogy van egy tervünk". Ez nem jelenti azonban azt, hogy mindez elfogadható volna, vagy hogy a Linux kernel hízása ne okozna egyre több gondot. "Az elfogadható és az elkerülhetõ két különbözõ dolog. Elfogadhatatlan, de ugyanakkor talán elkerülhetetlen is".	     
+                  
+                  
+                  
+                   

@@ -1,0 +1,14 @@
+Leállítja az Intellisync fejlesztését a Nokia
+
+[TechWorld/HWSW] Leállítja saját, nagyvállalati környezetbe szánt e-mail platformjának fejlesztését a finn Nokia, mely a késõbbiekben elsõsorban a fogyasztói szegmensnek szánt megoldásokkal, szolgáltatásokkal igyekszik megerõsíteni vezetõ pozícióját a mobilpiacon -- írja a gyártótól származó információkra hivatkozva a TechWorld.
+
+
+
+Befejezi saját, Intellisync nevû nagyvállalati e-mail platformjának fejlesztését a Nokia, a vállalat a saját megoldás helyett a jövõben a komplex megoldásokat szállító cégek, így a Cisco, az IBM és a Microsoft rendszereire építi majd szolgáltatását. "Nincs sok értelme a saját rendszer fejlesztésének, amikor összeállhatunk a piac legnagyobb szereplõivel" -- nyilatkozta a magazinnak  Dinesh Subramanian, a cég szóvivõje, ezzel hallgatólagosan elismerve, hogy az Intellisync 2005-ös felvásárlása végül nem váltotta be a hozzá fûzött reményeket, így a Nokiának elsõsorban nem sikerült önállóan, házon belül kifejlesztenie egy olyan rendszert, amely sikeres konkurenciája lehetne például a Research in Motion BlackBerry, vagy a Microsoft Exchange platformjának.
+
+A Nokia nagyvállalati ügyfelei a jövõben választhatnak majd, hogy az új partnerek által biztosított megoldások közül melyiket preferálják, de áttérhetnek a cég jelenleg még fejlesztés alatt álló, fogyasztóknak szánt e-mail platformjára is vagy más internetes szolgáltatások használatára -- fejtette ki Subramanian. Az Intellisync egyébként nem tûnik el nyomtalanul, egyes komponenseket ugyanis a már említett fogyasztói platformba emelnek majd át.
+
+
+A finn nagyvállalat jelenleg tesztelési fázisban üzemelteti a Nokia Email szolgáltatást, mely egységesen, a mobiltelefonokon keresztül fogja össze az olyan, egyéni felhasználók mellett újabban a cégek körében is egyre népszerûbb levelezõrendszereket, mint a Google Mail vagy a Yahoo Mail. A Nokia Email indulási idõpontját nem tûzték ki hivatalosan, Subramanian mindössze annyit fûzött hozzá, hogy a szolgáltatás akkor indul majd, amikor "ésszerû lesz" elindítani.
+
+A Nokia az Intellisync fejlesztésének leállításával egy idõben bejelentette, hogy lassan végéhez közelednek azok a tárgyalások, melyek a cég IT-biztonsági megoldásait szállító részlegének egy meg nem nevezett befektetõi csoport részére történõ eladásáról folynak.

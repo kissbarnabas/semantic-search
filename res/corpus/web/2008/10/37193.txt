@@ -1,0 +1,24 @@
+Alig található szabványos weboldal az interneten
+
+A böngészõirõl ismert norvég Opera Software nyilvánosságra hozta egy folyamatban lévõ kutatásának részeredményeit, betekintést engedve a jelenleg mûködõ weboldalak szerkezetébe. 
+
+
+
+MAMA megmondja
+
+A cég a kutatáshoz létrehozott egy eszközt (MAMA - Metadata Analysis and Mining Application), mely átrágta magát 3,5 millió weboldalon, indexelve azok felépítését, programozási megoldásait és egyéb statisztikai adatait. Az összegyûjtött adatok  elemzésével az Opera mérnökei a webfejlesztésben felmerülõ trendekkel kapcsolatban jutottak meglepõ eredményekre, emellett megvizsgálhatták azt is, hogyan használják a szabványos technológiákat szerte a világhálón. 
+
+Az elõzetesen publikált adatok alapján jónéhány érdekesség derült ki a HTML-elemek használatával kapcsolatban. Az még nem meglepõ, hogy a MAMA által elemzett oldalak legnépszerûbb HTML-címkéi a head, title, html, body, a, meta, img és a table voltak, míg a legritkábban használtak a var, del és a bdo, hiszen ezt kutatás nélkül is megmondta volna bárki. Az sem borzolja fel a kedélyeket, hogy CSS-t fõként színezésre és betûformázásra használnak a weboldalkészítõk. 
+
+Könnyû hibázni 
+
+Az viszont már figyelemfelkeltõbb, hogy az összes weboldal 35 százaléka használ Adobe Flash-t, sõt, Kínában az oldalak kétharmadán találhatóak ilyen tartalmak. Az AJAX technológiákat viszont csak az oldalak 3,2 százalékán találtak a robotok, ebben éppen az Opera hazája, Norvégia volt kiugró a maga egytizedes arányával. Abszolút elterjedtnek számít viszont a CSS, ami a vizsgált oldalak 80 százalékában volt fellelhetõ, JavaScript-kódokat pedig a lapok háromnegyede futtat.
+
+Szabványok? Dehogy!
+
+Az Opera az alaptechnológiák mellett a MAMA-t egy W3C-jóváhagyó eszközzel is felvértezte, hogy ne csak az derüljön ki, hogy mit használnak a készítõk, hanem az is, hogy mennyire sikerül betartaniuk a szabványokat. Az eredmények igazán kínosak, a meglátogatott weblapoknak csak 4,13 százaléka volt a szabványoknak megfelelõ. Ennél csak az elképesztõbb, hogy az oldalak több mint fele viselt valamilyen tanúsítványt arról, hogy teljesen megfelel az elõírásoknak és szabványoknak. A kutatók nem feltételezik a rosszindulatot, inkább arról lehet szó, hogy az eredeti tartalom valóban szabványos volt, de a késõbb végrehajtott változtatások, hozzáadott részek már nem.
+
+
+ Kíváncsiságból az Opera elemezte azt is, hogy ezek az oldalak mely webszerkesztõvel készültek, és van-e összefüggés a hibák elõfordulása és a használt szoftverek között. Meglepetésre az Apple iWeb hozta a legmagasabb arányban az érvényes oldalakat 81 százalékkal, míg a népszerû Adobe Dreameweaver mindössze 3,4 százalékot produkált. A kutatás következõ lépéseként egy keresõmotort építenek az indexelt adatbázisra, így a web- és böngészõfejlesztõk, illetve a szabványokkal foglalkozó szakemberek könnyen juthatnának valós adatokhoz az élõ weboldalakkal kapcsolatban.
+
+A MAMA-projekt során többek közt a webszerverek megoszlásáról, a dokumentumok átlagos méretérõl, felépítésérõl is gyûjtöttej adatokat. Aki kíváncsi a részletes számokra, az böngészheti az eredményeket az Opera fejlesztõi oldalán.

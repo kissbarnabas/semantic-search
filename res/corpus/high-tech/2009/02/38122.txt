@@ -1,0 +1,17 @@
+Pár éven belül egységes töltõje lesz a mobiltelefonoknak
+
+2012-re minden mobiltelefon töltõcsatlakozója egységes lehet, azaz márkától és típustól, sõt a vásárlás helyétõl függetlenül ugyanazt a töltõt csomagolhatják majd mindegyik készülék mellé. Az egységes töltõ létrejöttére most minden korábbinál több esély mutatkozik, köszönhetõen annak a példátlan méretû összefogásnak, mely az iparági szereplõket tömörítõ GSM Association (GSMA) közremûködésével a piac több ismert résztvevõjébõl -- szolgáltatókból és gyártókból -- tevõdik össze.
+
+
+
+A GSMA a barcelonai Mobile World Congress alkalmával jelentette be, hogy sikerült meggyõznie a domináns mobiltelefon-gyártókat és a nagyobb operátorokat egy egységes töltõszabvány létrehozásának szükségességérõl, mely amellett, hogy a fogyasztók kényelmét szolgálja, a mobilkészülékek használatának környezetterhelõ hatását is csökkentené. Ha minden a tervek szerint alakul, a töltõáram paramétereit és a csatlakozó fizikai formáját egységesítõ Universal Charging Solution (UCS) névre keresztelt rendszerrel három éven belül az összes ismert gyártó új készüléke kompatibilis lesz, azaz például egy Nokia mobiltelefon mellé csomagolt akkumulátortöltõvel minden további nélkül fel lehet majd tölteni egy Sony Ericsson telefont -- és fordítva.
+
+
+Micro-USB töltés: telefonoknál ma még nem általános
+
+A UCS töltõszabvány technikai paramétereit meghatározó és a rendszert fejlesztõ Open Mobile Terminal Platform (OMTP) nevû iparági szövetség döntése értelmében a jelenleg széles körben elterjedt, más kézi eszközökön (médialejátszók, kézi játékgépek, PDA-k stb.) is megtalálható micro-USB csatlakozó lesz a konnektor egységesített fizikai formátuma. A micro-USB formátumú töltõt jelenleg csak néhány nagyobb gyártó rendszeresítette (például a BlackBerry okostelefonokat gyártó Research in Motion, a Motorola, vagy a HTC), a legtöbben teljesen egyedi, egymással nem kompatibilis töltõcsatlakozót használnak, melyek kialakítása ráadásul egyazon gyártó modellsorozatain belül is eltérhet.
+
+
+Az egységes töltõ esetében nem kizárólag a csatlakozó formátumát tekintve szabnának meg feltételeket a fejlesztõk. A UCS-töltõk az elvárások szerint lényegesen hatékonyabban mûködnek majd a jelenleg elterjedt mobiltöltõknél, ezen kívül a telefonok átlagosnál gyorsabb csereciklusa miatt kevesebb töltõ legyártására is lenne szükség, azaz egyre kevesebb új telefon dobozába kerülne bele alaptartozékként a hálózati adapter -- áll a GSMA közleményében.
+
+A GSMA által gründolt kezdeményezéshez eddig tizenhét iparági szereplõ csatlakozott, így a UCS 2012-es bevezetését támogatja többek közt a Nokia, a Samsung, az LG, a Motorola, a Sony Ericsson, a Telenor, a T-Mobile, a Vodafone vagy az Orange.

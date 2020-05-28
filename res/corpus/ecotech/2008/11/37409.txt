@@ -1,0 +1,28 @@
+A Sun válasza a válságra: átszervezés, leépítés
+
+A gazdasági válságra válaszul nagyszabású átszervezési programot jelentett be az évek óta növekedési gondokkal küszködõ, a nyereséghatáron egyensúlyozó Sun Microsystems, amelynek keretén belül 5-6 ezer dolgozó elbocsátását tervezi -- ez a jelenlegi létszám 16-18 százaléka. A vállalat emellett átalakítja szoftverekkel kapcsolatos tevékenységét is.
+
+
+
+Karcsúsítás
+
+A kaliforniai szerver- és szoftvergyártó néhány perce adta hírül, hogy az új gazdasági körülményekhez igazodva átalakítja struktúráját -- az átszervezés jelentõs személyi áldozatokkal is jár. A világszerte 33 ezer fõt foglalkoztató cég 5-6 ezer dolgozóját kívánja elbocsátani, az átszervezésektõl és létszámcsökkentésektõl évente 700-800 millió dolláros megtakarítást várnak. Az átszervezések és elbocsátások 500-600 millió dollárba kerülnek a Sunnak a következõ negyedévek során,  de a vállalat reményei szerint a költségcsökkentésnek már a januártó márciusig tartó harmadik negyedévben érezhetõek lesznek a pozitív hatásai.
+
+ A HWSW információi szerint egyelõre még nem született döntés arról, pontosan mely területeket érintik a leépítések, de úgy tudjuk, a nemzetközi és regionális összehasonlításban is kiemelkedõen teljesítõ hazai leányvállalat nincs veszélyben.
+
+"A Sun továbbra is elkötelezett az árbevételéhez képes magas K+F költések mellett, de az elbocsátások ezen területek átszervezésével, átgondolásával járnak" -- mondta a HWSW-nek Polner Tamás, a Sun Microsystems marketing-igazgatója. "Bizonyos, nyereséget nem termelõ és stratégiailag nem fontos fejlesztési projekteket leállíthatnak, de a stratégialiag fontos területeken, mint amilyen az internet infrastruktúra, high performance computing, nagyvállalati virtulizáció/konszolidáció, fejleszõi eszközök, még erõforrásbõvülés is elképzelhetõ."
+
+Átalakul a szoftverrészleg
+
+A Sun bejelentése szerint a szoftverstratégia a jövõbeli növekedés egyik alappillére, ezért a vállalat jelentõsen átalakítja a szoftverüzletágát, lényegében háromfelé darabolva azt. A Solaris operációs rendszerrel és a virtualizációs megoldásokkal (xVM, VirtualBox) és rendszermenedzsment-termékkekkel kapcsolatos tevékenységet a szerverekkel és tárolókkal foglakozó Systems üzletágba integrálják annak érdekében, hogy az ingyenes szoftverletöltéseket megpróbálják hardvereladássá konvertálni, illetve a hardverek és szoftverek kombinációjával új termékeket létrehozni, mint amilyenek a napokban bemutatott Sun Storage 7000-es sorozatú tárolók. 
+
+
+Létrejön egy új, a Sun alkalmazásplatformjával foglalkozó részleg, amely a Javával, MySQL-lel, alkalmazásszerverrel, köztesréteg-szoftverekkel és azonosságkezelési megoldásokkal foglalkozik majd, vezetõje Anil Gadre, a Sun korábbi marketing-igazgatója lesz. A fõ cél itt is a nyílt szoftverek ingyenes letöltését árbevétellé alakítani. A szoftverfejlesztõ eszközökkel, a nagy növekedési lehetõséget rejtõ Network.com cloud-platformmal és a StarOffice-szal kapcsolatos tevékenységeket a Cloud Computing & Developer Platforms divízióban fogják össze. Az átszervezés "vezéráldozata" Rich Green, a szoftverüzletág korábbi vezetõje, aki úgy határozott, elhagyja a céget. 
+
+Hatékony, de nem új
+
+Az átszervezések és elbocsátások eredményeképp egy korábbinál hatékonyabb mûködésû Sun jöhet létre -- a gazdasági válság katalizátora lehet annak a folyamatnak, amely során a cég végre "kidobja a ballasztot" és újra stabilan nyereségessé válik. Probléma ugyanakkor, hogy a most meghozott lépésben továbbra sincs nyoma annak, a Sun a jövõben mitõl várja a kiugrást, a bevételek újbóli erõsödését, az átszervezések ugyanis inkább a jelenlegi állapot megnyugtató konzerválását célozzák, semmiképp sem tekinthetõk a jövõbeli növekedés elõjelének.
+
+[+] Hiába kapaszkodik, továbbra is lejtõn a Sun Microsystems  
+
+A cég tevékenysége továbbra is erõteljesen szerverfókuszú, szoftverei és szolgáltatási is nagyban függnek a hardvereladásoktól. A piaci trendek azonban nem kedveznek a Sunnak, a RISC-szegmens továbbra is szorul vissza, az x86-alapú gépek területén azonban nem elég erõs a cég ahhoz, hogy az elvesztett RISC-bevételeit pótolni tudja. A nyílt forrásra alapozó szoftverstratégia hozadékai legfeljebb hosszú távon látszanak, rövid- és középtávon nem várható számottevõ bevétel ettõl a területtõl. 

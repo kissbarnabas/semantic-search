@@ -1,0 +1,24 @@
+A Stanford Egyetem képérzékelõje három dimenzióban láthat
+
+[CNet] A Stanford Egyetem kutatói mélységet adnának a világunkról készített képeknek: egy olyan képérzékelõ szenzort fejlesztenek, mely nem csak a képeken megjelenõ zajt csökkentené, hanem képes lenne érzékelni a képen megjelenõ elemek közötti mélységkülönbséget is. Az új szenzor adataiból három dimenziós képek készíthetõk. 
+
+
+
+Apró objektívek
+
+Keith Glen Fife és kollégái egy olyan képérzékelõt fejlesztettek, mely részben különbözik a mai szenzoroktól. Míg a mai több megapixeles képérzékelõk elõtt egyetlen objektív rendszer található, a fényt a szenzorokra vetítve, itt magán a képérzékelõn kapnak helyet apró, 16-szor 16-os érzékelõ blokkokat ellátó objektívek, melyek a kép egy-egy részletének megörökítését segítik.
+
+Ebbõl következik, hogy blokkok külön-külön is rendelkeznek a kép egy-egy azonos részletével, az egymást átfedõ információkból pedig szoftveresen érdekes adatokat lehet kibányászni, többek között a kép egyes részletei közötti mélységet. A szoftveres feldolgozás után tehát a 3 megapixeles prototípustól olyan képet kaptak a fejlesztpk, melynek részletei mélységgel is rendelkezhetnek.
+
+
+
+Metaadat
+
+
+A kutatók egyelõre nem készítettek speciális állományformátumot a szenzorral alkotott képekhez, de erre nem is feltétlenül van szükség, a mélységgel kapcsolatos információk ugyanis metaadatokként akár egy JPEG állományhoz is mellékelhetõk. Az új megközelítés egyben csökkentheti a kisméretû érzékelõk legnagyobb problémáját, a zajt is, hiszen a többször rögzített, azonos képrészlethez, pixelhez tartozó információkból könnyebb megállapítani az adott képpont valódi színét.
+
+A speciális szenzor gyártása az apró objektívek integrálása miatt nem egyszerû feladat, de a mai fejlett technológiákkal nem is kivitelezhetetlen. Az újabb adatok szoftveres feldolgozása azonban jóval erõforrásigényesebb, mint a mai képekkel kapcsolatos feladatok, a kutatók szerint körülbelül tízszeres teljesítményre lesz szükség egy 3D-s szenzorral ellátott kamerában. A fejlõdés utemét, a mai képérzékelõ szenzorok teljesítményét látva ez sem okoz megoldhatatlan gondot.
+
+
+
+A technológiának egyetlen valódi hátulütõje van: mivel a szenzorok számtalanszor rögzítik ugyanazt a képrészletet, a végeredményként kapott kép valódi felbontása jóval alacsonyabb lesz, mint a szezor érzékelõinek összesített száma. Szintén probléma, ha sok a homogén felület: egy teljesen fehér fallal például a szoftver nem tud mit kezdeni.

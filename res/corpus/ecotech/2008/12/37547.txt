@@ -1,0 +1,16 @@
+Bedõlt a UNIX-szerverek piaca a harmadik negyedévben
+
+A szerverszállítások növekedtek a harmadik negyedévben, de az eladott kiszolgálók értéke csökkent, ahogy az árak estek -- derül ki a Gartner elemzésébõl. A forgalom csökkenéséhez hozzájárult a hitelforrások elapadása is, emiatt a felsõbb kategóriás, drágább szerverekbõl jóval kevesebb fogyott.
+
+
+
+A harmadik negyedév során világszerte 2,3 millió kiszolgálót szállítottak le a gyártók, ez éves szinten 4,4 százalékos növekedést jelent, a gépek értéke ugyanakkor 5,4 százalékkal 12,7 milliárd dollárra csökkent. A RISC/Itanium szegmensben a szállítások 16 százalékkal zuhantak, az eladott gépek értéke pedig több mint 10 százalékkal apadt. Az x86 szegmensben a szállítások még növekedtek, azonban az áresésnek köszönhetõen a forgalom itt is csökkent. 
+
+A legnagyobb öt gyártó mindegyike alacsonyabb szerverforgalomról számolt be a harmadik negyedévben. Bevétel alapján továbbra is az IBM vezeti a mezõnyt, elsõsorban a System z és System p rendszerek sikerének köszönhetõen. Az IBM szervereladásból származó bevétele 4,2 százalékkal 3,86 milliárd dollárra csökkent, miközben a HP forgalma ennél kisebb mértékben olvadt, így 3,79 milliárd dollárt tett ki.
+
+
+ A harmadik helyezett Dellnél 5,2 százalékkal 1,5 milliárd dollárra apadta a bevétel. A legnagyobb vesztes a Sun Microsystems volt, a cég szervereladásból származó forgalma több mint 13 százalékkal esett vissza, és mindössze 1,15 milliárd dollárt tett ki. A Fujitsu (Siemens) is megérezte a visszaesést, forgalma több mint 7 százalékkal 616 millió dollárra apadt.
+
+A leszállított kiszolgálók tekintetében a HP továbbra is elsõ, ráadásul a vállalat a piaci átlagnál kétszer gyorsabban tudta növelni szállításait. A Palo Altó-i vállalat 11,4 százalékkal több szervert adott el mint a tavalyi harmadik negyedévben, így a szállításai 724 ezer darabot tettek ki, elsõsorban a ProLiantek és a blade-ek sikerének köszönhetõen. A második helyen álló Dell 3,3 százalékos növekedéssel 500 ezer gépet értékesített, a volumen alapján harmadik IBM viszont már a darabszámok 3,5 százalékos csökkenésével kellett szembenézzen, így 308 ezer szervert adott el.
+
+A Sun Microsystems értékesítette a negyedik legtöbb szervert a negyedév során, a kaliforniai cég 2,9 százalékkal 81 ezer gépre növelte eladásait -- az x86-os gépek forgalma nõtt, miközben a Sun erõsségének számító UNIX/RISC-vonal csökkent. A Fujitsu (Siemens) szervereladásai 3,8 százalékkal 73 ezer darabra csökkentek.

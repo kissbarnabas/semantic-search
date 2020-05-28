@@ -1,0 +1,27 @@
+VMware: ingyen lesz az ESXi
+
+A vártnál lassabban bõvült a VMware bevétele a második pénzügyi negyedévében és a vállalat az év hátralevõ részére is kedvezõtlen kilátásokkal szolgált -- a gazdasági körülmények miatt a vállalatok vonakodnak a nagy értékû megállapodások aláírásától. Az eredmények kapcsán rendezett elemzõi telekonferencián bemutatkozott a VMware új vezetõje, Paul Maritz, aki magabiztosan kijelentette, ismeri a Microsoft legyõzésének receptjét.
+
+
+
+Amint arról a HWSW is beszámolt, a VMware élén pár hete vezetõváltás történt: Diane Greene társalapító váratlanul lemondott az elnök-vezérigazgatói pozícióról. A VMware többségi tulajdonosánál, az EMC-nél úgy látták, a cégalapító már nem alkalmas arra, hogy egy évi 2 milliárd dolláros vállalatot vezessen, ezért más pozíciót ajánlottak neki a csoporton belül, amit Greene visszautasított. Utóda Paul Maritz, aki 14 éven állt a Microsoft alkalmazásában, tehát igazán jól ismerheti a redmondi céget, amely a Hyper-V virtualizációs köztesréteg kiadásával a VMware egyik legfõbb riválisává lépett elõ.
+
+
+
+Papírvékony hypervisor
+
+A VMware szerint az ESXi az egyetlen olyan hypervisor a piacon, amely nem tartalmaz egy általános célú operációs rendszert, ezáltal mind a mérete, mind pedig a teljesítményigénye minimális. Mivel az ESXi-bõl kihagyták a szervizkonzolt, a szoftver mindösszesen 32 megabájt méretû lett. A hypervisor távolról -- például VMware Virtual Centerrel -- természetesen továbbra is kezelhetõ.
+
+
+
+
+A Hyper-V egyik legfontosabb elõnye a VMware hasonló kategóriás termékéhez képest az ára: a Windows Server 2008 felhasználói lényegében ingyen, de legfeljebb 28 dollárért juthatnak hozzá, míg az ESX-ért legkevesebb 500 dollárt kell fizetni. Paul Maritz kijelentette, a VMware hamarosan ingyen elérhetõvé fogja tenni az ESXi-t, a heteken belül várható következõ frissítéstõl fogva a termékért már nem kell fizetni. Ezzel a cég máris kihúzta a Hyper-V egyik méregfogát.
+
+[+] Megjelent a Microsoft hypervisora 
+
+Maritz emellett igyekezett meggyõzni a befektetõket arról, hogy a Microsofttal versenyezni közel sem lehetetlen feladat. "Tudom hogy a Microsoft félelmetes ellenfél, de nem legyõzhetetlen" -- mondta a VMware új vezére. "Ha valaki elõnyben van, folyamatosan invesztál és innovál, azt nagyon nehéz utolérni, még a Microsoftnak is." Maritz szerint a VMware-ben továbbra is óriási a növekedési potenciál, ahogy a világszerte üzemelõ szervereknek ma még csak a töredéke virtualizált. Az ingyenes ESXi nem okoz jelentõs bevételkiesést a VMware-nek, ugyanis a forgalom 99 százaléka nem a hypervisorból, hanem a felügyeleti termékekbõl és szolgáltatásokból származik -- érvelt Maritz.
+
+
+ A második negyedévben a VMware bevétele 456 millió dollár volt, ami 54 százalékos növekedést jelent 2007 azonos idõszakához képest. A nettó nyereség harmadával bõvült és 52 millió dollárt tett ki. A licencértékesítésbõl származó bevétel 39 százalékkal 284 millió dollárra emelkedett, a szolgáltatások forgalma 85 százalékkal 172 millió dollárra nõtt ugyanakkor.
+
+A VMware részvényárfolyama mégis 14 százalékkal zuhant a tõzsdezárás utáni kereskedésben, miután a cég bejelentette, hogy éves szinten mindössze 42-45 százalékos bevételnövekedésre számít a korábban prognosztizált 50 százalék helyett. A VMware részvényei idén 55 százalékot vesztettek az értékükbõl, részben a kedvezõtlen gazdasági kilátásokból adódó növekedési bizonytalanság, részben pedig egy potens versenytárs, a Microsoft Hyper-V és a hozzá tartozó, virtuális környezeteket felügyelõ eszközök megjelenése miatt.

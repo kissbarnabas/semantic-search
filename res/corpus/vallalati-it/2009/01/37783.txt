@@ -1,0 +1,34 @@
+A Windows 7-tel együtt érkezett a Windows Server 2008 R2 bétája is
+
+A Consumer Electronic Show-n Steve Ballmer bejelentette a Windows 7 bétájának érkezését, eközben a Microsoft csendben kiadta a párhuzamosan fejlesztett szerverváltozat, a Windows Server 2008 R2 bétáját is. Így a vállalatok elkezdhetik tesztelni azokat a szolgáltatásokat is, amelyeket a Windows 7 és a Windows Server 2008 R2 együttes használata biztosít a számukra.
+
+
+
+Párosan szebb az élet
+
+Ahogy a Vistában és a Windows Server 2008-ban számos olyan képesség volt, amiket csak együtt lehetett kihasználni, nem lesz ez másként a Windows Server 2008 R2 és a Windows 7 esetében sem. Az egyik ilyen újdonság a Direct Access, ami elsõsorban a virtuális magánhálózaton (VPN) keresztül kapcsolódó alkalmazottak életét könnyítheti meg. Windows 7 és Windows Server 2008 R2 együttes használata esetén nem lesz szükség VPN-re, a felhasználók az interneten keresztül, Secure Socket Tunneling Protocol (SSTP) használatával ugyanúgy elérhetik a belsõ hálózatot, mintha ott ülnének az irodában.
+
+Szintén a telephelytõl távol, például egy fiókirodában dolgozó felhasználók életét könnyíti meg a Branch Cache, ami a helyi szerverre gyorsítótárazza az SMB-n és HTTP-n letöltött tartalmakat. A Windows 7 korábbinál fejlettebb biztonsági és energiatakarékossági képességei megjelennek a Windows Server 2008 R2 csoportházirend-objektumai között is, így a rendszergazdák még finomabban állíthatják be azokat, például a hordozható eszközökön tárolt adatok titkosítását a BitLockerrel.
+
+Az elsõ, csak 64 bites Windows Server
+
+A Windows 7 bétája 32 és 64 bites változatban egyaránt elérhetõ (lesz), de a Windows Serverek között elsõként a 2008 R2 már csak 64 bites verzióban készül. Az operációs rendszer akár 256 logikai processzort is támogat, így hatalmas szerverekre is feltelepíthetõ. A Microsoft azt ígéri, a chipekben található legújabb utasításkészletek támogatása révén a Windows Server 2008 R2 minden eddiginél nagyobb teljesítményt nyújt majd, a kód optimalizálásának köszönhetõen akár korábban megvásárolt szerverek is "megtáltosodnak".
+
+
+Az erõforrásgazdálkodás terén is sokat lép elõre az operációs rendszer a processzorok energiatakarékos technológiáinak még jobb kihasználásával: automatikusan képes a processzorok éppen nem használt magjait lekapcsolni, ha nincs rájuk szükség. Az adminisztrátorok akár csoportházirendbõl is szabályozhatják majd, hogy a kiszolgálók mely idõszakokban kapcsoljanak energiatakarékos módba.
+
+Hyper-V 2.0
+
+A frissítés során új képességekkel gazdagodik a Hyper-V virtualizációs köztesréteg is, amelybe végre megérkezik a Live Migration, ami lehetõvé teszi a virtuális gépek leállás nélküli mozgatását a fizikai szerverek között. A néhány ezredmásodperc alatt végbemenõ migrációt sem a szerveren futó szoftverek, sem pedig a szerverhez kapcsolódó kliensek nem érzik majd, a szolgáltatások változatlanul futnak a migráció után is. A virtuális gépek mostantól akár 32 processzorig "nyújtózhatnak", ráadásul a virtuális gépek hardverét leállítás nélkül lehet "bõvíteni", azaz leállás nélkül adható hozzájuk további memóriakapacitás vagy processzor.
+
+A Windows Server 2008 frissített változatát a lehetõ legnagyobb mélységekig integrálják a PowerShell 2.0 parancssorral, így az adminisztrátorok az operációs rendszer legutolsó bitjét is képesek lesznek parancssorból elérni. Az adminok életét megkönnyítendõ az R2-be a Microsoft több mint 200 elõre megírt PowerShell-szkriptet is épít a leggyakrabban használt szerepkörök (pl. AD, DHCP, DNS) felügyeleti feladatainak automatizálására. A "csupasz" Windows Server Core-t is továbbfejlesztik, az R2 változatban így telepített operációs rendszer is támogatja az ASP .NET-et, illetve a PowerShellt (ennek elõfeltétele a .NET-környezet megléte).
+
+Remote Deskop Services
+
+A korábbi Terminal Services jelentõsen továbbfejlõdött, amit névváltás is hangsúlyoz, mostantól Remote Desktop Servicesnek (RDS) hívják. Az RDS egyik legfontosabb újdonsága a Virtual Desktop Infrastructure (VDI), ami a korábban ismert "távoli asztal" megoldás mellett már lehetõvé teszi a windowsos asztali környezetek virtuális gépként való, egységes kezelését az adatközpontban.
+
+Az RDS olyan újdonságokat is felvonultat, mint a továbbfejlesztett többmonitoros támogatás, illetve a jobb audio- és videoképességek, amelyek révén lehetõvé válik akár a komoly multimédiás teljesítményt igénylõ alkalmazások központosítása is. A RemoteApp és Desktop kapcsolatok integrációja a Windows 7-tel azt eredményezi, hogy az új asztali operációs rendszer felhasználóinak egyátalán nem kell azzal törõdniük, mely alkalmazások távoliak és melyikek helyiek -- egyszerûen csak el kell indítaniuk õket a Start menübõl.
+
+Nyilvános letöltés csak pénteken
+
+A Windows 7-hez hasonlóan a Windows Server 2008 R2 is csak a meghívott bétatesztelõk, illetve MSDN- és TechNet-elõfizetõk számára érhetõ el, holnaptól azonban bárki letöltheti az Microsoft weboldaláról -- tudtuk meg a cégtõl. A szerver operációs rendszer új változata a korábbi tervek szerint a Windows 7 után, de még 2010 elején érkezik.

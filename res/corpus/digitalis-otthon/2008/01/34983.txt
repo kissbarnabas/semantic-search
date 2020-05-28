@@ -1,0 +1,16 @@
+CES: bemutatkozik a Microvision hordozható, mini lézeres projektora
+
+Újabb prototípus projektorral jelenkezik a jövõ héttõl induló Consumer Electronics Show rendezvényen a Microvision, mely kisméretû, zsebben elférõ lézeres projektort fejleszt. A SHOW kódnéven bemutatott önálló készülék egy feltöltéssel 2,5 órán át képes vetíteni, akár 2,5 méteres képátlóval, 848 x 480 pixeles felbontással.
+
+
+
+A SHOW kódnevû terméket a Microvision kifejezetten otthoni felhasználásra szánja, mely a már korábban megismert PicoP megjelenítõ motorra épül. Az alig 5 köbcentiméternyi, 7 mm vékony lézeres, mikrotükrös megjelenítõ rendszer egy nagyobb tenyérgép méretû házban kap helyet, melyben még akkora akkumulátor is elfér, hogy a készülék 2,5 órán át mûködhet majd egyetlen töltéssel. Az egész megjelenítõ mindössze egy apró, egyetlen milliméteres tükörbõl, a három szín megjelenítését végzõ lézerdiódákból és egy "egyesítõ" alkatrészbõl áll, mely a három különbözõ lézersugarat egyesíti egyetlen, teljes színskálát nyújtó pixelbe.
+
+A színes kép létrehozására alkalmas projektor noteszgépekhez, mobiltelefonokhoz, digitális kamerákhoz, médialejátszó készülékekhez -- például egy második generációs PlayStation Portable konzolhoz -- csatlakozhat, a falon a távolságtól függõen 30-250 cm-es képátlójú képet jeleníthet meg. Az élességállítás szükségtelen, a kép folyamatosan fókuszban marad.
+
+
+A SHOW felbontása 848 x 480 pixel, mely bár ma már nem tûnik soknak, de 16:9 képarányt nyújt, és jóval magasabb, mint a hasonlóan kisméretû megoldások többnyire 320 x 240 pixelre csökkentett felbontása. A gyártó szerint a készülék maradéktalanul képes megjeleníteni egy DVD képét.
+
+Kódnév: SHOW
+
+A Microvision szerint a PicoP lézeres megjelenítõ motor nem csak ilyen önálló eszközökben tûnhet fel, mint a SHOW prototípusa, de akár közvetlenül a készülékekbe is építhetõ, így olyan mobiltelefonok, médialejátszók is megjelenhetnek a piacon, melyek saját projektorral rendelkeznek. Egy ilyen megoldással leküzdhetõk a kisméretû kijelzõk okozta hátrányok. A SHOW mintapéldányai 2008 elsõ félévében lesznek elérhetõk a rendszerépítõk, gyártók számára, az elsõ végleges termékek 2008 végén jelenhetnek meg a kereskedelmi forgalomban.

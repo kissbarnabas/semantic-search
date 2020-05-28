@@ -1,0 +1,12 @@
+Négy kritikus Office sebezhetõséget javít a márciusi patch kedd
+
+Négy biztonsági frissítést tesz közzé a márciusi, jövõ héten esedékes patch kedden a Microsoft. A foltozások érdekessége, hogy mindegyikük az Office irodai programcsomagot érinti, vagyis az ilyen szoftverrel nem rendelkezõ felhasználók vagy rendszergazdák csökkenthetik a készültségi szintet. 
+
+
+
+A Microsoft az elõzetes értesítés alapján négy kritikus biztonsági frissítés tucatnyi rést orvosol következõ kedden. A kritikus lyukak mindegyike távoli kód végrehajtását teszi lehetõvé valamilyen Office komponensen, és érintettek a 2000, XP, 2003 és 2007 kiadások egyaránt -- ezek közül talán legaggasztóbb az Outlook sebezhetõsége. A frissítések viszonylag kis fejfájást okoznak, ugyanis három egyáltalán nem igényel újraindítást, míg a negyedik, az Office Web komponenseket érintõ sem bizonyosan. 
+
+
+Ez a kizárólag az Office-t érintõ patch kedd visszafogottnak tekinthetõ a februári dömpinghez képest, mikor 12 frissítés érkezett, a Windows változatok és Microsoft alkalmazások garmadáját érintve, ugyanakkor az Office, fõként az Outlook kódjában rejlõ réseket nem szabad lebecsülni. Azt egyelõre nem tudni, hogy ezek a sebezhetõségek publikusak voltak-e, vagy léteznek-e rájuk exploitok. A Baseline Security Analyzer természetesen most is segít abban, hogy eldöntsük, adott gépnek szüksége van-e a frissítések telepítésére.
+
+A biztonsági frissítéseken kívül, melyek technikai részletei várhatóan magyar idõ szerint kedd éjjel, vagy szerda hajnalban kerülnek fel a Microsoft Security Vulnerability Research & Defense blogjában, a vállalat három további magas prioritású, nem biztonsági frissítést tesz közzé majd a Windows Update és Windows Server Update rendszereken keresztül, további kettõt pedig a Microsoft Update és Microsoft Server Update szolgáltatásokon.   

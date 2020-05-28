@@ -1,0 +1,13 @@
+Folytatódik a merevlemezek kapacitásának növekedése
+
+A jelenlegi legnagyobb kapacitású 3,5 hüvelykes merevlemezek 2 terabájtot tudnak tárolni, amit négy darab, egyenként 500 gigabájtos tányérral valósítanak meg. Ez négyzethüvelykenként 400 gigabit adatsûrûséget jelent a tányérok felületén. Laboratóriumi körülmények közepette természetesen ennél jóval magasabb sûrûséget is elértek már a gyártók, hiszen egy-egy technológia mûködõképességének bizonyítása és kereskedelmi alkalmazhatóság közt évek telhetnek el. A Hitachi tavaly nyáron jelentette be, hogy elérte a 610 gigabit/négyzethüvelyket, majd októberben a TDK prezentálta 803 gigabites megoldását.
+Ezek a fejlesztések idén és jövõre kerülnek tömegtermelésbe a Hitachi szerint, vagyis hamarosan 3-4 terabájtos merevlemezeket is rendelhetünk, ami tányéronként 1 terabájtot jelent, míg 2011-12 magasságában az ipar áttöri az 1 terabites lélektani határt, megjelenhetnek az 5-6 terabájtos 3,5 hüvelykes, valamint az 1-1,5 terabájtos 2,5 hüvelykes meghajtók. 2014-re újabb duplázás prognosztizál a Hitachi, a vállalat 2,4 terabites sûrûséget vár, írja a Nikkei Electronics. 
+A Hitachi az úgynevezett Current-Perpendicular-to-Plane Giant Magneto-Resistance (CPP-GMR) technológiájú fejegységek bevezetésével kalkulál, miközben az ilyen extrém sûrûségû írást vélhetõen termomágneses, vagyis hõvel támogatott technikával lehet megoldani, mikor írás elõtt fel kell hevíteni az anyagot -- ezt általában lézerdiódával oldják meg annak gyorsasága, precizitása és kis méretei miatt. A fejvezérlés támogatásához a fejet mozgató kart továbbá csuklóssá tehetik, amivel rezonanciamentesebb és pontosabb pozicionálás érhetõ el, ez az úgynevezett dual stage actuator technika.
+A Giant Magneto-Resistance (GMR), vagyis az óriás mágneses ellenállás
+fizikai jelenségéért 2007-ben kapott fizikai Nobel-díjat Albert Fert és
+Peter Grünberg. Az óriás jelzõ arra utal, hogy a hagyományos
+ferromágneses anyagokénál jóval nagyobb elektromos ellenálásváltozást
+lehet elérni, vagyis gyengébb, fizikailag kisebb méretû elembõl
+származó mágneses teret is erõteljesen lehet elektromosan érzékelni. Az
+óriásmágneses hatást ferromágneses és nem mágneses anyagok
+rétegelésével lehet produkálni.

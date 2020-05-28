@@ -1,0 +1,26 @@
+Windows 7 néven kerül boltokba a Windows 7
+
+Windows 7 néven kerül piacra a Windows 7. A Microsoft asztali Windowsokért felelõs termékmenedzsere, Mike Nash tegnap a Windows Vista blogban repítette világgá a hírt, miszerint a vállalat az operációs rendszer kódnevét használja majd terméknévként is. 
+
+
+
+Következõ a sorban
+
+A Microsoft a Windowsok története során többféle elnevezéssel próbálkozott. Kezdetben sima verziószámok különböztették meg a kiadásokat, majd a Windows 95-tel elkezdõdött az évszámok korszaka, ami egészen a Windows 2000-ig tartott. Ezt követõen a redmondi cég átváltott a különféle "gondolatébresztõ" terméknevekre, mint amilyen az XP vagy a Vista volt. Mike Nash szerint a Windows 7 terméknévként is mûködik. "Egyszerûen ez a hetedik Windows-változat" -- írta Nash. Az operációs rendszert egyébként még Vienna kódnéven kezdték fejleszteni, 
+
+
+ Arra a kijelentésre, hogy a Windows 7 lenne a hetedik a sorban, biztos sokan felkapják a fejüket, hiszen az elmúlt évek alatt ennél jóval több különféle változat látott napvilágot. A Microsoft azonban csak az eltérõ kernelváltozatokat számítja ebbe a sorba, ezt figyelembe véve pedig a Windows 7 tényleg a hetedik a Windows 3.x, Windows NT 3.x, Windows NT 4.0, Windows 95/98/Me, Windows 2000/XP, illetve a Vista után. A Windows 1.0-t és 2.0-t még maga a Microsoft sem számolja az "igazi" Windowsok közé, ezért ezeket kihagyták a sorból.
+
+Két hét múlva elõzetes
+
+Mike Nash blogbejegyzésébõl az is kiderül, hogy az október végi Professional Developers Conference-en, illetve a november elején rendezendõ Windows Hardware Engineering Conference-en a látogatók még nem a Windows 7 bétáját kapják meg, csak egy kimondottan fejlesztõknek szánt elõzetes változatot, ami még nem béta. A legfrissebb hírek szerint az elsõ béta csak decemberben lesz hozzáférhetõ a tesztelõk és kiemelt partnerek számára.
+
+A cég nemrégiben adta ki a Windows 7 Milestone 3-at, ami állítólag az utolsó elõzetes az elsõ béta elõtt. Azok, akik látták az M3-at (Build 6780), azt mondják, az új operációs rendszer ránézésre és érzetre nem különbözik sokban a Windows Vistától. A kiszivárgott információk szerint a Windowsba épített alkalmazások (pl. Paint, Wordpad) az Office 2007-bõl ismerõs Ribbon menüt kapták, de állítólag ez a fajta menü több helyen visszaköszön a szoftverben. Úgy hírlik, a Windows 7 felületét ugyanazok tervezték, akik az Office 2007 menüjét is meglakották.
+
+Keveset tudni
+
+A kiszivárgott információk alapján sokan máris azt mondják, a Windows 7 lesz az az operációs rendszer, aminek a Vistát eredetileg szánták. Vannak, akik szerint a Windows 7 valójában a "Vista R2", de az eddig látottak alapján korai lenne még levonni ezt a következtetést. A Microsoft ígérete szerint az október végi PDC-n, illetve a novemberi WinHEC-en hozza nyilvánosságra az operációs rendszer technikai részleteit, így egészen biztos, hogy még sok újdonság bejelentése várat magára. 
+
+Annyit azért tudni lehet, hogy nagy hangsúlyt fektetnek az érintéses vezérlésre, a Windows Live szolgáltatások szorosan integrálva lesznek az operációs rendszerbe, valamint hogy a szoftver virtualizációs képességeket is felvonultat majd. Ugyanakkor a Windows 7 kernele a Vista, pontosabban a Windows Server 2008 továbbfejlesztésébõl jött létre, ennek köszönhetõen a Windows Vistára írt driverek és szoftverek változtatás nélkül futnak Windows 7-en is. A Windows 7 elsõ bétájának megjelenése után már csak azok a driverek kaphatják meg a Vista-logót, amelyeket a Windows 7-tel is teszteltek.
+
+A végleges változat érkezésének idõpontját továbbra sem tûzte ki a cég, csupán annyit közölt hivatalosan, hogy a Windows 7 három évvel a Vista után várható. Ez alapján a megjelenés 2009 végére vagy 2010 elejére esik.

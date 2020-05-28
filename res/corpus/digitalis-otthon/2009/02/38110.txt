@@ -1,0 +1,30 @@
+Intel Atom lesz az LG okostelefonjában
+
+[eWeek/HWSW] Az LG Electronics másfél éven belül tervezi bemutatni elsõ Intel Atom processzorral szerelt okostelefonját. A készüléknek egyelõre még neve sincs, de annyit már lehet tudni, hogy az Intel Moorestown mobil platformjára épül, melyben egy 45 nanométeres Atom lapul.
+A partnerséget az Intel és az LG a héten természetesen a Mobile World Congress keretében készül bejelenteni hivatalosan.
+
+
+
+Kemény küzdelem lesz
+
+Az LG által tervezett MID (Mobile Internet Device) biztosan nem lesz kereskedelmi forgalomban 2010 elõtt, fõleg azért sem, mert az Intel Moorestown platformja is csak akkor kerül hivatalosan bevezetésre. Az Atom processzorok egyelõre leginkább netbookokban és egyéb kis méretû számítógépekben általánosak, de az Intel már a tavalyi évben is jelezte, hogy arra számítanak, idõvel mindenféle mobil eszközben feltûnhet az x86 architektúra.
+
+A bejelentés egyben választ ad arra a kérdésre is, hogy a világ legnagyobb chipgyártója hogyan kíván válaszolni az ARM-gyártók dominanciájára az okostelefonok piacán. Habár az Intel korábban is megpróbált nyomot hagyni ezen a területen XScale ARM fejlesztéseivel, nem könyvelhetett el elegendõ sikert magának, így elhagyta a területet, és stratégiát váltott -- az x86-ot terjeszti le. A területen a Samsung Electronics, a Texas Instruments, a Qualcomm és Freescale termékeivel is meg kell mérkõznie, miközben egy másik meccs a telekommunikációs szolgáltatóknál zajlik majd, hogy hozzák forgalomba az Intel-alapú készülékeket.
+
+
+Az Intel képviselõi úgy látják, hogy az Atom egyértelmû siker volt az elmúlt évben, és a Moorestown platformmal egy olyan világba ültethetõ át  ez, ahol jelenleg nincsenek erõs állásaik. Annak ellenére, hogy az ARM a világ legelterjedtebb architektúrája, gyakorlatilag az összes mobiltelefonban valamilyen ARM-processzor dolgozik, az Intel egy nagyságrenddel nagyobb kutatás-fejlesztési erõforrást tud dedikálni az Atom-alapú projektek számára, ahogyan partnerei számára is vonzóbb ösztönzõcsomagokat állíthat össze. Az Intel mellett szól gyártástechnológiai lépéselõnye is, a döntõ azonban az x86-os szoftverkompatibilitás lehet.
+
+Az ARM ugyanakkor sokkal tisztább, egyszerûbb felépítésû, ezért energiahatékonyabb architektúra, mely olcsóbban termelhetõ és dedikált áramkörök segítségével mára megfelelõen nagy teljesítményt képes elérni akár egy YouTube video lejátszásához -- vagyis megfelelõ a web böngészéséhez. Misem bizonyítja ezt jobban, minthogy nemcsak az Intel igyekszik az ARM felségterületére behatolni, hanem a Freescale is megpróbálkozik lecsípni a netbookok piacából, aminek érdekében egy referencia netbookot is tervezett a Pegatronnal közösen, mely i.MX515 rendszerchipre épül. A 65 nanométeres, 1 gigahertzes ARM Cortex-A8 mag egy Atom nyers számítási teljesítményének felét kínálja 4 négyzetmilliméterbõl, fogyasztása legfeljebb fél watt. A Freescale szerint egy ilyen ARM-alapú netbook végfelhasználói ára bekerülhet 50 ezer forint alá.
+
+[+] ARM-alapú netbookok megjelenése várható  
+
+Moorestown + Linux
+
+Az LG egyelõre nem árult el túl sok részletet a misztikus készülékkel kapcsolatban, az Intel viszont bõbeszédûbb volt a saját részével kapcsolatban. A Moorestown platform lelke egy úgynevezett system-on-a-chip (SoC), azaz egy rendszerchip, mely kiterjedt rendszerfunkciókat integrál a processzormaggal közös szilíciumszeletre. A Lincroft kódnévre hallgató SoC az Intel 45 nanométeres csíkszélességû eljárásán készül, egy- vagy két Atom processzormag köré grafikus és videofeldolgozó logikát, valamint DDR3-memóriavezérlõt épít. A Lincroft a Langwell kódnevû I/O chippel kommunikál, mely a perifériák csatlakoztatásáért felel, és akár vezeték nélkül is képes lesz adatot továbbítani külsõ tárolókra vagy megjelenítõkre.
+
+
+Az Intel az Optionnel és az Ericssonnal is együttmûködik a Moorestownhoz illeszthetõ HSPA-modulok elkészítésében. A 3G-s modulok mellett a Moorestown WiMAX, Wi-Fi csatlakozásokkal is rendelkezhet, valamint opcionálisan GPS-vevõvel is. Kiemelt szempont emellett az energiahatékonyság is, hiszen a megcélzott felhasználási terület intenzív adatforgalmat feltételez -- a cél, hogy a Moorestown platform fél tipikusan watt alatt üzemeljen. A gyártó szerint készenléti módban tizedére sikerült csökkenteni  a fogyasztást korábbi, Menlow MID platformhoz képest. Egy teljes Moorestown-alaplap mérete nagyjából egy bankkártyáéval egyezhet meg.
+
+Az új platformtól az Intel azt várja, hogy elmossa a határokat a számítógépek és okostelefonok között, és olyan eszközök jelennek meg a jövõben, mellyel rendkívül kompakt méretekben, a mai mobilkészülékeket sújtó kompromisszumok nélkül böngészhetõ a web, vagy fogyaszthatóak akár a videók is -- a mai okostelefonok többségének még a Flash is problémát jelent. A Moorestownra épülõ, érintõképernyõs termékekkel az Intel már egésznapos mûködést, 3D gyorsítást és a HD-videolejátszás képességét vizionálja. Ezzel végre sikeressé válhat az elõször a süllyesztõbe került Transmeta, majd az Intel által propagált UMPC-koncepció is.  
+
+Az LG MID-je a jelenlegi tervek szerint az Intel támogatásával fejlesztés alatt álló speciális Linux-disztribúciót futtatja, a Moblin OS-t, de az x86-os architektúra miatt gyakorlatilag bármikor válthat más kiadásokra, mint például a közelgõ Google Android. Az Intelt végeredményben kevéssé érdekli, milyen operációs rendszer futtatja fel a MID-eket és az okostelefonokba szállított Atom chipeket. Nem bíz ugyanakkor semmit a véletlenre, tavaly év végén magához édesgette Alan Cox brit programozót és a szabad szoftverek evangelistáját, akit Linus Torvalds után sokáig a Linux-fejlesztés másodszámú emberének tartottak. 

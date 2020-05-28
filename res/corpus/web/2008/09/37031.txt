@@ -1,0 +1,14 @@
+Csõstül jöhetnek a képek az iWiW-re
+
+Látszólagos lendületet vett a hungarikumnak számító közösségi portál az iWiW. Az Open-Social alapokon mûködõ minialkalmazásokról szóló pletykák mellett a tegnapi napon egy valós fejlesztést élesítettek az üzemeltetõk: a korábbi néhány megabájtos képtárhely helyett mostantól a Flickr-hez hasonló módon havonta megújuló 100 megabájtos kapacitás áll majd minden felhasználó rendelkezésére.
+
+
+
+Az iWiW egyik legnépszerûbb szolgáltatása eddig is a képfeltöltés/nézegetés volt, hiszen egy személlyel kapcsolatban a legtöbb embernek az elsõ szignifikáns információforrás, hogy hogyan néz ki, milyen képek vannak róla, hol járt és mit csinált mostanában, erre pedig a profilba tölthetõ képek még a kezdetleges formában is megoldást jelentettek. A képfeltöltési lehetõség legutóbb épp a közelmúltban változott, amikor az eredetileg 2 megabájt tárhelyet 6 megabájtra növelték, de ez csupán egy kissé kényelmesebbé tette ugyanazt az alapszolgáltatást. 
+
+A mostani megújuló 100 megabájtos keret viszont egy teljesértékû képmegosztó-szolgáltatásként mûködhet majd egy erõs felhasználói bázisra építve. A megújuló 100 megabájt azt jelenti, hogy a feltöltési kvóta 100 megabájtról indul, mely a felhasznált keretektõl függetlenül havonta visszaugrik erre a kiindulási értékre. Ugyanez a megoldás használatos a Yahoo! tulajdonában lévõ Flickr képmegosztó szolgáltatásnál is, míg a Google Picasa megoldása idõszaktól függetlenül 1 gigabájt tárhelyet biztosít, amit 4 fokozatban pénzért akár 400 gigabájtra is lehet bõvíteni.
+
+
+Az iWiW jelenlegi rendszere az Origo Zrt. közlése szerint 20 millió adatlaphoz kapcsolódó képet tárol, ami a következõkben valószínûleg megtöbbszörözõdik. A képmegosztás népszerûsége miatt ez a fejlesztés az Origo szerint csak az elsõ lépés volt, és a késõbbiekben további funkciókkal bõvítik ezt a területet. Jelenleg az albumkezelésen és a Java-alapú diakezelésen túl a több kép egyidejû feltöltése, azok webes felületen keresztüli rendezési lehetõsége érhetõ el.
+
+Eközben a Webisztán blog saját értesülései szerint a hónap végén kezdõdik a bétatesztelése az Open-Social alapú mini-alkalmazások implementációjának. Ebbõl szerintük az következik, hogy hamarosan külsõ szereplõktõl származó alkalmazások is beépülhetnének az iWiW felületébe, feltéve, hogy minderre áldását adja a tulajdonos Origo Zrt.. A Webisztán blog informátora úgy fogalmaz, hogy "meg lennék lepve, ha egy éven belül tudnának dönteni a közvetlen kontroll nélküli nyitott API-hasznalát engedélyezésérõl."

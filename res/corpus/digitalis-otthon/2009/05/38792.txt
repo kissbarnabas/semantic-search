@@ -1,0 +1,18 @@
+Videofeltöltés Windows Mobile-ról Facebookra
+
+Az alkalmazás ingyenesen letölthetõ a Microsoft oldaláról, ami kuriózumnak számít, hiszen kevés nem Microsoft-szolgáltatásnak volt eddig helye a hivatalos oldalon lévõ letöltések között. Az sem mindennapi, hogy a Microsoft egy külsõ webes szolgáltatáshoz maga fejlesztett kliensprogramot, még akkor is, ha a Facebookban 1,6 százalékos tulajdonrésze van a redmondiaknak.
+
+Facebook-kliensek természetesen eddig is voltak Windows Mobile-ra, de a Microsoft azt emeli ki, hogy ez az egyetlen olyan, melynek segítségével közvetlenül lehet feltölteni videókat a közösségi hálózatba a mobiltelefonról. A fõ prioritás ez volt, s azért is adták fejüket saját kliens készítésére, mert meglátták a felhasználók által készített tartalom jelentõségének növekedését a közösségi hálózatokban. A Facebookon a felhasználók naponta 415 ezer videót töltenek fel a Microsoft szakemberei szerint.
+
+
+
+Screenshot: Mashable 
+
+Kicsit macerás
+
+Emellett természetesen a kliensbõl hozzáférhetõek az állapotfrissítések, a bejelölések, lehet fényképeket nézegetni, sõt, felcímkézni is, de nem maradt ki a "fal" üzenet, a privát üzenetküldés, fotómegosztás és a profilmenedzsment sem. A Microsoft persze igyekezett saját szolgáltatásait is befûzni a Facebook mellé, így számos Windows Live szolgáltatáson belüli aktivitás átvihetõ Facebookra is
+
+
+Az alkalmazás persze nem tökéletes, s a közösség nem feltétlenül zárta elsõre a szívébe. Kevésbé látványos, mint a hivatalos Blackberry- vagy iPhone-változatok, s szokás szerint túl kicsik az ikonok, s többet is kell kattintani egy-egy funkció eléréséhez, mint más klienseknél. A Sony Ericsson Xperia-hoz például elérhetõ egy teljesen vizualizált Facebook panel, ahol az új állapotfrissítéseket az adott felhasználók fotói mögé rejtették. A teljesen grafikus felület ugyan kevesebb funkcionalitást ad ott, de a mobilos felhasználáshoz jobban passzoló gyors rápillantásra sokkal alkalmasabb.
+
+Az egyetlen igazán egyedi megoldás, hogy a Windows Mobile Facebook-kliens szinkronizálható a címlistával, így azon facebookos ismerõseink, akik megadták telefonszámukat, nyugodtan változtathatják azt, mert a Windows Moblie napra kész lesz. 

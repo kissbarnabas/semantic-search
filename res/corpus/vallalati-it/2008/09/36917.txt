@@ -1,0 +1,22 @@
+Egycsapásra 80 millió Nokia mobiltelefon lett Exchange-kompatibilis
+
+A Nokia összes Series 60 3rd Edition platformot futtató okostelefonja tud majd Microsoft Exchange-hez csatlakozni anélkül, hogy ehhez a vállalatoknak külön infrastruktúrát kellene létrehoznia. 
+
+
+
+A finn mobilgyártó több mint 40 készülékéhez elérhetõ az a szoftver, amely ezt biztosítja, ezzel egycsapásra mintegy 80 millió piacon levõ telefon lesz egycsapásra kompatibilis az Exchange ActiveSync-kel. A Nokia üzleti mobiljaira korábban is letölthetõ volt az Exchange ActiveSync kliens, mostantól azonban az összes S60 3rd Edition telefonra elérhetõ, és a jövõben megjelenõ E- és N-sorozatú készülékekre elõre fel is telepítik.
+
+Hozzáférés a céges postafiókhoz bárhonnan
+
+Azok a Nokia-tulajdonosok, akiknek a vállalata Exchange-et használ, többféle módon beállíthatják a Mail for Exchange-et készülékeiken: az e-mailt beállító kiegészítõ programmal a kezdõoldalon, a Letöltések (Download) könyvtárból elindítva az alkalmazást, vagy akár a Beállítás Varázsló (Settings Wizard) segítségével. Az alkalmazás sikeres telepítése után, a felhasználó aktuális e-mail adatainak beállításával azonnal hozzáférhet irodai levelezéséhez, naptárjához, címlistájához, teendõinek listájához vagy céges mappáihoz.
+
+Az Exchange Server 2007-hez kapcsolódva a Mail for Exchange segítségével olyan alkalmazásokat futtathatunk, mint például az Autodiscover, amely leegyszerûsíti a beállítási folyamatot. Az Autodiscover használatakor a postafiókkal kapcsolatos adatok (e-mail cím, jelszó, domain, felhasználónév) megadása után az elfoglalt felhasználók közvetlenül mobiltelefonjukról állíthatják be irodán kívüli automatikus válaszleveleiket, vagy kérhetnek külföldi barangolásaikkor szinkronizálást.
+
+
+
+
+ Bár az Exchange ActiveSync protokoll sokféle készülékkel kompatibilis, a Nokia-felhasználók olyan beállításokat is használhatnak, amelyek jelenleg nem hozzáférhetõek a más eszközökön. Ilyenek például az e-mail fontosságának (prioritásának) beállítása, az értesítés az egymással ütközõ megbeszélésekrõl, a globális címlista, vagy a mindenféle típusú csatolt fájl letöltése és szerkesztése.
+ 
+Online webtárhely
+
+A finn mobilgyártó nem csak az üzleti, hanem az otthoni felhasználókra is gondolt. Az Ovi.com szolgáltatáscsomag olyan elemekkel bõvült, amelyek segítségével a fogyasztók egy online tárhelyre menthetik a mobiltelefonjukban tárolt naptárbejegyzéket, címjegyzéket és jegyzeteket, így azok akkor sem vesznek el, ha a készülék tönkremegy, esetleg ellopják. Az online tárolt adatokhoz természetesen bárhonnan hozzá lehet férni, és szerkeszteni is lehet azokat. Az Ovi.com szolgáltatás egyébként mostantól univerzális webtárhely is egyben, a felhasználók 10-30 gigabájtos tárterületet bérelhetnek a Nokiától.

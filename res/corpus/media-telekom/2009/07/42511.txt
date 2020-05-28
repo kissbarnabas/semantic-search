@@ -1,0 +1,12 @@
+Van hová fejõdniük az okostelefonoknak hangátvitel terén is
+
+A vezetékes és vezeték nélküli kommunikációs technológiákat ipari szinten, laboratóriumi körülmények közt tesztelõ Broadband Testing nevû szervezet nemrégiben hét népszerû okostelefon hangátviteli képességeit tesztelte különbözõ szempontok szerint. A cég tesztlaborjában megfordult készülékek -- két BlackBerry, egy Nokia, egy Sony Ericsson, egy Samsung és egy Apple iPhone 3G, kétféle szoftverrel -- közül egyik sem teljesítette hibátlanra a tesztet, azaz hiába a drága telefon, lehet, hogy éppen telefonálásra a legkevésbé alkalmas.
+A teszteket a Spirent 8100 tesztállomásának segítségével végezték a laborban: ez az állomás képes különbözõ valós használati körülményeket szimulálni, így elsõsorban azt vizsgálja, hogy a készülékek hogyan teljesítenek különbözõ hálózati körülmények során, így mennyire stabilak a hívások a cellához egész közel, a cella peremén, a cellaváltás esetén vagy magas interferencia során.
+A Broadband Testing szimulált tesztjeit az Apple okostelefonja, az iPhone 3G teljesítette a legjobban, de csak az új, 2.2-es szoftver telepítése után (ennél már van újabb operációs iPhone rendszer is, ez azonban vélhetõen még nem állt rendelkezésre a teszt kezdetekor). A hívás felépítését tekintve a Nokia E71 teljesített a legjobban, a finnek telefonja azonban kevésbé tudta stabilan fenntartani a kapcsolatot.
+
+Volt olyan telefon (a BlackBerry érintõkijelzõs okostelefonja, a Storm), amellyel a tesztek tanulsága szerint legjobb, ha megáll menet közben a telefonáló, mert a készülék hajlamos eldobni a hívást, miközben 2G és 3G cellák közt vált. A teszt tanúsága szerint a Sony Ericsson és a Samsung egy-egy készüléke is legfeljebb középszerû teljesítményt nyújtott.
+"Az elõfizetõk jelenleg pusztán a képességeket átnézve, vagy éppen márkahûség alapján vásárolnak drága készülékeket, majd azt tapasztalhatják, hogy egy olyan telefon vásárlásával kötötték le magukat évekre a szolgáltatónál, amely bizonyos körülmények közepette rosszul teljesít" -- mondta el Steve Broadhead, a Broadband Testing alapítója és elsõ embere. Broadhead szerint a teszt célja, hogy felhívja a vásárlók figyelmét egy létezõ problémára, így a vevõk nyomására elkerülhetõ, hogy a gyártók félkész vagy bizonyos funkcióit -- beleértve a beszédátvitelt -- tekintve hibásan mûködõ mobiltelefonokat dobjanak piacra.	     
+                  
+                  
+                  
+                   

@@ -1,0 +1,10 @@
+Megjött az Office-javítás javítása
+
+A Microsoft újra kiadta azt a biztonsági frissítést, amely számítási hibát okozott az Excel 2003-as verziójában. Az MS08-14 számú, távoli kódfuttatási sebezhetõséget javító patchet a múlt kedden bocsátotta ki a szoftvercég, azonban pár nap után kiderült, hogy telepítése után az Excel 2003-ban hibát okozhat, mikor egy makró valósidejû adatforrást használ egy cellatömbhöz. A hiba visszatérési értéke jellemzõen 0, jegyzi meg a vállalat.
+
+ 
+
+A Microsoft most kijavította a javítást, és újra kiadta. Az Excel 2003-at használó ügyfelek a KB950340 számú tudásbázis-bejegyzésben olvashatják el, miként tudják frissíteni rendszerüket. Az új patchhez a Microsoft Update-en keresztül is hozzá lehet férni, aki ezen keresztül tölti le, már a hibamentes változatot kapja, függetlenül attól, hogy elõtte telepítette-e a problémát okozó patchet. Az MS08-14 összesen hét sebezhetõséget foltozott be, de a Microsoft sosem árulta el, hogy pontosan mi okozta a számítási hibát.
+
+
+A múlt heti patch kedden a Microsoft összesen négy hibajavítást tett közzé, amelyek mind az Excel különféle változataiban felfedezett problémákat orvosolták. A kritikus lyukak mindegyike távoli kód végrehajtását teszi lehetõvé valamilyen Office komponensen, és érintettek a 2000, XP, 2003 és 2007 kiadások egyaránt -- ezek közül talán legaggasztóbb az Outlook sebezhetõsége. A frissítések az MS08-14 hibáját leszámítva viszonylag kis fejfájást okoztak, egyik telepítése sem igényelt még újraindítást sem.

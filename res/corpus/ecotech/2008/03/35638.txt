@@ -1,0 +1,12 @@
+Bizonyítottan fejlettek a folyamatok az IQSYS-nél
+
+A hazai vállalatok közül az IQSYS teljesítette elsõként a szoftverfejlesztõ cégek számára kidolgozott CMMI v1.2 (Capability Maturity Model Integration) második érettségi szintjéhez tatozó valamennyi követelményt, ami magában foglalja a követelménykezelést, a projekttervezést, a projekt-követést és -irányítást, az alvállalkozói és beszállítói megállapodások kezelését, a minõségbiztosítást, a mérést és analízist, valamint a konfigurációkezelést.
+
+
+
+A CMMI folyamatfejlesztési keretrendszert az amerikai Carnegie Mellon Egyetemen mûködõ Software Engineering gondozza. A CMMI elõdjének, a CMM-nek erdeti célja annak megállapítása volt, hogy a kormányzati projekteken dolgozó szoftverfejlesztõ cégek folyamatai megfelelnek-e az elvárásoknak. Ma már a CMMI-t ennél jóval szélesebb körben alkalmazzák, lényegében egy objektív eszköz annak eldöntésére, hogy egy cég folyamatai mennyire fejlettek.
+
+
+ "Az IQSYS Zrt. kiemelt figyelmet fordít szolgáltatásainak minõségére. A folyamatfejlesztés által biztosított elõnyök egyaránt értékesek a vállalat belsõ mûködése és annak eredményeképpen ügyfeleink számára, ezért az IQSYS Zrt elkötelezett a CMMI alapú folyamatfejlesztések folytatásában és a magasabb fejlettségi szint elérésében" -- mondta el Kovács András, az IQSYS Informatikai és Tanácsadó Zrt. technológiai igazgatója.
+
+Az IQSYS Zrt. az amerikai SEI (Software Engineering Institute) által megfigyelt külsõ minõsítõ audit során eredményesen bizonyította, hogy a CMMI modell által definiált 7 folyamatterület valamennyi célkitûzésének megfelel. A minõsítés a SCAMPI A (Standard CMMI Appraisal Method for Process Improvement) követelményeinek megfelelõen történt. A minõsítést a SQI - Magyar Szoftverminõség Tanácsadó Intézet a hivatalos SCAMPI A vezetõ auditora végezte.

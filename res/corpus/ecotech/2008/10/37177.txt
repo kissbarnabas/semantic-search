@@ -1,0 +1,32 @@
+A zûrös memóriapiacon is állja a sarat a Kingston
+
+Bemutatkozott Magyarországon a memóriamodulok és memóriakártyák egyik legnagyobb gyártója, a Kingston Technologies, amely a memóriapiac egyik meghatározó szereplõje, és a hazánkban is sikeres. 
+
+
+
+Nagypályás
+
+Az 1987-ben alapított, a mai napig magánkézben levõ Kingston tavaly 21 százalékos növekedéssel 4,5 milliárd dolláros forgalmat bonyolított. A cég kezdetben memóriamodulok gyártására szakosodott, pár évvel ezelõtt felvette kínálatába a memóriakártyákat és pendrive-okat is, amelyek az informatikusok körében jól csengõ márkanévnek is köszönhetõen óriási sikert értek el. Ma már a Kingston termelésének 45 százalékát adják a flash memóriát tartalmazó termékek, 55 százalékot pedig a DRAM modulok tesznek ki.
+
+A Kingston DRAM-üzletága két további részre osztható -- tudtuk meg Pawel Smiegelski, Kelet-Európáért felelõs regionális vezetõ prezentációjából. A Kingston egyfelõl saját maga forgalmaz memóriamodulokat ValueRAM és HyperX márkanéven, másfelõl számos PC- és szervergyártó megrendelésére szállít belõlük, márkás PC-kben vagy szerverekben ezért jó eséllyel Kingston memóriákkal találkozhatunk. A vállalat által eladott DRAM-modulok 46 százaléka OEM-értékesítés. 
+
+A memóriamodulok, memóriakártyák és pendrive-ok "alapanyaga" a DRAM- és NAND-chip. Ezeket a Kingston a vezetõ gyártóktól szerzi be (Samsung, Hynix, Toshiba, Elpida, stb.). Smigielski elmondta, memóriachipek vásárlásánál két választása van a gyártóknak, a "gazdaságosan tesztelt" és az "alaposan tesztelt" chipeket 6, illetve 24 órán át tesztelik 100 Celsius fokos hõmérsékleten. Utóbbi chipek drágábbak ugyan, de az alapos teszteléssel kiszûrhetõ a meghibásodások akár 90 százaléka, amivel javítható a vevõk elégedettsége, illetve csökkenthetõk a garanciális ügyintézésekkel kapcsolatos költségek.
+
+
+ A Kingston egyes esetekben wafereket is vásárol a nagy gyártóktól, amelyen a chipek darabolását, tokozását és tesztelését maga végzi el. Természetesen ilyenkor a selejt kockázata magasabb, de az ár ilyenkor a legalacsonyabb. A kereslet hirtelen változása azonban lekövethetõ ezzel a módszerrel. Tavaly a vállalat összesen 1,3 milliárd memóriachipet vásárolt, amivel a legnagyobb vevõk egyike volt a memóriapiacon.
+
+Memóriapiaci hullámvasút
+
+A memóriaipar a legvolatilisebbek közé tartozik, idén január óta a NAND flash chipek ára 81 százalékkal, a DRAM-chipeké pedig 69 százalékkal zuhant a túltermelés következtében, veszteségbe rántva a legnagyobb gyártókat. Smigielski szerint mivel a Kingston magánkézben van, ezért a befektetõk, részvényesek oldaláról nincs nyomás ezekben a nehéz idõkben, és lehet kivárásra játszani. Ugyanakkor -- tette hozzá Toby Felder regionális PR-vezetõ -- a Kingston az idén is nyereséges lesz, mivel elegendõ volumennel rendelkezik ahhoz, hogy a költségeit teríteni tudja.
+
+Amint arról a HWSW többször is írt már, a gyártók túlzott kapacitásbõvítései, és a Vista vártnál alacsonyabb keresletélénkítõ hatása miatt a DRAM-árak tavaly mintegy 85 százalékkal estek vissza. 2008-ra mindenki optimistán tekintett, megfigyelõk azt hitték, hogy az ipar elérte mélypontját. Az év elsõ felét az árak hullámvasutazása jellemezte: stabilan felfelé indulni látszottak, röviddel ezután azonban ismét mélyrepülésbe kezdtek, majd kezdõdött az egész elölrõl.
+
+Az árak emelkedését elõrejelzõ kilátások ugyanis a termelés agresszív, kiszorító növelésére ösztönözték a nagy gyártókat, miközben a felvásárlók elõrehozták beszerzéseiket. Mindez végül azt eredményezte, hogy a gyártók erõsen növekvõ szállításokra készültek fel, az aktuális kereslet azonban messze alulmúlta a várakozásokat, ahogyan a PC-gyártóknál és master disztribútoroknál hatalmas készletek halmozódtak fel -- a harmadik negyedévben a már így is nyomott szintrõl újabb zuhanórepülésbe kezdtek az árak.
+
+A DRAMeXchange üzletkötési adatai alapján az 1 gigabites DDR2 chipek árai már 1,2 dollár, vagyis több gyártó önköltségi szintje alá is beestek, miközben erre az idõszakra 2,5-3 dolláros árszintben reménykedett az ipar. Egy 2 gigabájtos DDR2-modul ma fele annyiba kerül mint egy évvel korábban, pedig az ipar azt hitte, annál már nincs lejjebb. Smigielski a HWSW kérdésére elmondta, várakozásaik szerint a jövõ év elsõ fele elõtt nem várható fellendülés. Kérdés, hogy a veszteséget veszteségre halmozó memóriachip-gyártók közül hányan élik túl ezt az idõszakot.
+
+A Kingston jól áll a hazai piacon
+
+Tavaly a Kingston 220 millió memóriamodult, memóriakártyát és pendrive-ot értékesített 4,5 milliárd dollár értékben, az idén már 300 millió feletti darabszám várható -- a memóriák árzuhanása miatt a várható forgalmat a Kingston képviselõi nem merték megbecsülni. Magyarországra tavaly 373 ezer Kingston-termék jutott, értékük meghaladta a 10 millió dollárt -- tudtuk meg Kaszál Norbert üzletfejlesztési vezetõtõl. Idén a cég itthon 700 ezernél is több terméket tervez eladni, a látványos növekedés mögött a PC-piac felfutása mellett a memóriakártya-foglalatot tartalmazó mobiltelefonok, navigációs készülékek és természetesen a digitális fényképezõgépek terjedése áll. 
+
+A Kingston hazai piacon elért bevételének 55 százalékát a flash termékek adják, a memóriamodulok aránya 45 százalék. Ami a piaci részesedést illeti, a brand memóramodulok terén a Kingston 20 százalék feletti részesedésével elsõ, a flash-termékek esetében pedig a SanDisk mögött a második helyen áll, részesedése a Gfk felmérése szerint itt 17 százalék. Kaszál ugyanakkor elmondta, a Kingston csak SD- és CF-kártyákkal van jelen a piacon, míg legnagyobb vetélytársa az xD- és MS-szegmenseket is lefedi.

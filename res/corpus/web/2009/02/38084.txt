@@ -1,0 +1,12 @@
+Már támadják az Internet Explorer 7 befoltozott sebezhetõségét
+
+Kevesebb mint egy héttel azután, hogy a Microsoft kiadta biztonsági frissítéseit, az Internet Explorer 7 egyik befoltozott sebezhetõségét támadó kódok kezdtek terjedni az interneten -- figyelmeztetnek a Trend Micro biztonsági szakértõi. 
+
+
+
+A világhálón már terjed egy olyan, elõre preparált Word-dokumentum, amely MS09-002 biztonsági értesítõben leírt kritikus sérülékenységet kihasználva kártevõket telepít az áldozat gépére. Biztonsági szakértõk a kódot visszafejtve megállapították, hogy a megtámadott gépekre települõ szoftver információkat gyûjt a PC-rõl, majd ezeket egy titkosított csatornán kereszül egy Kínában található szerverre tölti fel.
+
+
+ Noha az Internet Explorer 7 szóban forgó sérülékenységére már adott ki javítást a Microsoft, a támadók joggal bíznak abban, hogy a patchet még nem mindenki telepítette, így világszerte milliókra rúghat azon számítógépek száma, amelyeket a sebezhetõségen keresztül sikeresen meg lehet fertõzni. Noha az elmúlt években az Internet Explorer népszerûsége folyamatosan csökkent, továbbra is ez a legelterjedtebb böngészõ, egyúttal a támadók kedvence is. Az IE7 sérülékenységét támadó Word-dokumentum vélhetõen Kínából származik és a tibeti felkelés 50. évfordulóján politikai tárgyú üzenetekben terjesztik.
+
+A vírusirtó cégek beszámolóiban egyelõre csak a Word-dokumentummal kivitelezett támadás szerepel, azonban a SANS Internet Storm Center szakértõje, Bojan Zdrnja szerint csak idõ kérdése, hogy megjelenjenek az elsõ "drive-by" támadások, amikor a kártékony kódot weboldalakba csempészik bele. Ebben az esetben elég a felhasználókat erre az oldalra csábítani, a gépük anélkül is meg tud fertõzõdni, hogy bármit elindítanának vagy letöltenének. Valójában a Word-dokumentumban is csak egy ActiveX-kód található, ami egy ilyen weboldalra irányuló linket nyit meg az böngészõben.

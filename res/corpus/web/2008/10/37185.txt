@@ -1,0 +1,14 @@
+Elérhetõ az Adobe Flash Player 10-es változata
+
+Az Adobe Systems ma tette elérhetõvé multimédiás böngészõ-beépülõmoduljának soron következõ fõverzióját. Az Astro kódnév alatt fejlesztett Adobe Flash Player 10 a cég állítása szerint a felhasználói visszajelzések alapján készült, és olyan funkciókat tartalmaz, amelyeket az internetezõk már régóta várnak.
+
+
+
+Az új Flash Player legfontosabb újdonságai közé tartozik, hogy támogatja az After Effects CS3-ban bemutatkozott Pixel Bender eszközlészlet segítségével létrehozott egyedi szûrõket és effekteket. Ezeket a hatásokat a szoftver futásidõben számítja ki a megadott paraméterek alapján. A szoftver emellett a korábbiaknál lényegesen fejlettebb 3D-képességeket is felvonultat, a Flash Player 10 már natívan támogatja a térbeli megjelenítést és animációt, a számításokhoz pedig segítségül tudja hívni a gépben található grafikus processzort is, ezzel tehermentesítve a CPU-t. Az Adobe ígérete szerint a 3D-hatások használata mellett sem nõ meg túlságosan a Flash-fájlok mérete.
+
+A zökkenõmentes videolejátszást segíti, hogy a Flash Player 10 képes a videofolyamok bitrátáját az internetkapcsolat sávszélesség-változásait követve automatikusan módosítani anélkül, hogy a lejátszás egy pillanatra is megszakadna, vagy újra kellene pufferelni a filmet. Ezt a funkcionalitást azonban csak a Flash Media Server következõ verziójával együtt biztosítja a Flash Player 10.
+
+
+A Flashben szöveget megjeleníteni szándékozók is örülhetnek, az Astro ugyanis számos olyan funkcióval bõvült, ami megkönnyíti a szövegek, illetve szöveges dokumentumok megjelenítését. Az Astro már kezel például többhasábos szövegeket, amelyek automatikusan körülfolyják a beillesztett táblázatokat, képeket.
+
+A Flash Player 10 egy nappal azután érkezett, hogy a Microsoft elérhetõvé tette saját, Silverlight nevû Flash-rivális platformjának 2.0-s verzióját. Az új Silverlight elsõsorban a programozók és fejlesztõk munkáját teszi egyszerûbbé, ugyanakkor a felhasználói élmény szempontjából is igyekszik újat nyújtani. Így például megjelent a beépülõmodul repertoárjában a Deep Zoom funkció, mely a nagyfelbontású képek részletes és finom léptékû zoomolását teszi lehetõvé, az új Silverlight emellett az adaptive streaming funkcióval is gazdagodott, így a videolejátszó modul a hálózati terheltségtõl függõen az új Flash Playerhez hasonlóan lejátszás közben is képes változtatni a videók bitrátáját.

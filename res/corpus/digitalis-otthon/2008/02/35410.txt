@@ -1,0 +1,16 @@
+Windows mellé is telepíthetõ az Ubuntu 8.04 Hardy Heron
+
+[Ars Technica] Megjelent az áprilisra várt Ubuntu 8.04 Hardy Heron disztribúció következõ, ötödik alfaváltozata. A frissen tesztelhetõ verzióban új képességek mutatkoznak be, a fejlesztések pedig a jövõben az ebben meglévõkre korlátozódnak -- újabbak már nem kerülnek a disztribúcióba. 
+
+
+
+Az Ubuntu 8.04 ötödik alfájában számos új komponens mutatkozik be, többek között az új PulseAudio hangalrendszer, a GIO és GVFS I/O absztrakciós réteg és virtuális állományrendszer, a PolicyKit jogosultságkezelõ framework. A frissített változat új VNC-klienssel és továbbfejlesztett virtualizációs technológiákkal is büszkélkedhet.
+
+Az egyik leginkább várt frissítés azonban a Wubi telepítõrendszer implementálása, mely igen egyszerûvé teszi az operációs rendszer telepítését. Az Ubuntu Windows alá, a már meglévõ partíciókra is telepíthetõ, nem kell hozzányúlni a merevlemez-struktúrához. A Wubi Windows alól is futtatható a telepítõ CD-rõl, az operációs rendszert pedig egy ubuntu alkönyvtárba telepíti arra a merevlemezre, melyre szeretnénk. A számítógép indulásakor választhatunk a Windows, vagy az Ubuntu között.
+
+
+A Wubi használatával nem kell particionálni a merevlemezt, illetve az egyetlen könyvtárba telepített operációs rendszer rendkívül könnyen, Windows alól eltávolítható. A Wubival telepített Ubuntuk egyelõre nem támogatják az alvást és a hibernálást
+
+
+
+A telepítés során csupán azt kell megadnunk, hogy melyik merevlemezre, partícióra szeretnénk telepíteni az operációs rendszert, az mennyi helyet foglalhat el maximum, illetve meghatározhatjuk a nyelvet, az alapvetõ felhasználói nevet és jelszót. Az Ubuntu 8.04 ötödik alfája kötelezettségek nélkül kipróbálható.

@@ -1,0 +1,46 @@
+Revo iBlik internetrádió -- rádiózni szokol?
+
+Kis túlzással kijelenthetjük, hogy a rádiózás manapság újra virágkorát, vagyis inkább egyfajta reneszánszát éli, köszönhetõen az internetnek, mely az országhatárokra és a rádióadók hatósugarára fittyet hányva bárhová eljuttatja az adást. Az internet nemcsak a rádiózási szokásokat, de a mûsorszerkesztési folyamatot is megreformálja, ugyanakkor vannak még olyan területek, ahol makacsul tartja magát az analóg rádió, leginkább mert az internetrádióhoz az interneten kívül többnyire egy számítógépre is szükség van.
+
+
+
+A számítógépes rádiózás egyik alternatíváját nyújtja az angol Revo iBlik RadioStation multimédiás asztali internetrádiója, mely egészen elképesztõ arzenállal kedveskedik a rádiózás szerelmeseinek. Az eszköz elsõdlegesen egy asztali internetrádió, mely nagyjából 15 ezer rádióadást vagy podcastot képes "befogni", ezen kívül FM-rádióként is üzemel, így fogja a lokális, földi sugárzású adókat, van hálózati médialejátszó funkciója, plusz iPod-dokkolója is (kapható dokkoló nélküli típus is, tízezer forinttal olcsóbban). A hab a tortán a beépített DAB/DAB+ vevõ, mellyel a földi sugárzású digitális rádióadásokat lehet befogni -- ilyen rendszer ma Magyarországon csak kísérleti jelleggel üzemel, ugyanakkor ezt a funkciót is ki lehet hagyni, akárcsak az iPod-dokkolót.
+
+
+
+Maga a készülék rendkívül modern formatervezésû, mattfekete házat kapott, az iBlik RadioStationt közelrõl megszemlélve azonban rá kellett jöjjünk, hogy bizony láttunk már ennél jobb anyagokból összerakott szórakoztatóelektronikai terméket. A rádió kiemelve a dobozból ráadásul riasztóan könnyûnek tûnt, ami nem feltétlenül jó jel egy ilyen berendezés esetében.
+
+Kockarádió
+
+A dobozban egyébként van még egy meglehetõsen csenevész külsõ tápegység (szintén nem túl jó elõjel), egy szokásos, lapos távirányító és összesen hét dokkolóadapter a különbözõ iPod és iPhone változatokhoz. A kézikönyv szerint a negyedik és ötödik generációs iPod, az iPod classic, az elsõ és második generációs iPod nano és az iPod mini használható az iBlik RadioStation-nel, nekünk viszont mûködött az iPhone 3G-vel is a lejátszás, igaz, a telefon jelezte, hogy ezzel a kiegészítõvel nem garantált a kompatibilitás (ehhez képest a lejátszás mellett mind a töltés, mind a távirányító funkció mûködött nálunk). Van még a dobozban egy egész korrekt többnyelvû leírás is, a rádió kezelésével azonban enélkül is elboldogul az átlagos mûszaki érzékkel rendelkezõ felhasználó.
+
+
+
+A Revo internetrádiójának elõlapján egyedül a kék háttérvilágítású folyadékkristályos kijelzõ dereng, felül 23 gomb sorakozik egymás mellett (nem kell megijedni, ezek nagy része számbillentyû), hátul a kihúzható antenna, tápbemenet, fejhallgató-kimenet, sztereó RCA hangkimenet és ethernet-port található. Az iBlik Radiostationt vagy ezen keresztül köthetjük be a helyi hálóba, vagy használhatunk akár WLAN-kapcsolatot is -- utóbbi egy ilyen eszköznél nyilvánvalóan sokkal praktikusabb, ráadásul a hangstream átvitele alig igényel magának sávszélességet, ezért a lakásban gyakorlatilag bárhol elhelyezhetõ az egység.
+
+
+
+Az iBlik RadioStationt tehát elég bedugni a konnektorba, és ahogy egy rádióhoz illik, némi állítgatás után azonnal zenét lehet csiholni belõle. Az internetrádiónál a csatornakeresést jelen esetben az alap internetbeállítások konfigurálása helyettesíti -- ha vezeték nélküli kapcsolatot használunk, itt kell kiválasztanunk a hozzáférési pontot, valamint beállítani a csatlakozáshoz szükséges paramétereket (a Revo internetrádiója a WEP/WPA+PSK titkosítási algoritmusokat egyaránt ismeri). Vezetékes kapcsolatnál erre nincs szükség, az egyszerû és kézenfekvõen használható menüben navigálva azonnal eljuthatunk az internetrádiók listájához.
+
+
+
+Fentebb említettük, hogy az iBlik RadioStation segítségével nagyjából 15 ezer internetes rádióadást vagy podcastot hallgathatunk meg, ezek közül mûfaj és sugárzó ország szerint választhatunk (Magyarországról jelenleg 105 adás szerepel a listában). Lehetõség adódik a kedvencek listájának összeállításához, ráadásul ezt kényelmesen, egy internetes böngészõben futó felületen végezhetjük el akár távolról is -- a Frontier Silicon Radio Portal nevû oldalán eszközölt beállítások automatikusan szinkronizálódnak a készülékre.
+
+Szép új, digitális világ
+
+Az FM-rádió beállítása magától értetõdõ, akárcsak az iPod-dokkoló használata -- itt mind a készülék nyomógombjaival, mind az iPod kezelõszeveivel, mind az iBlik RadioStation-hoz adott távirányítóval szabályozhatjuk a lejátszást. A hozzánk eljutott változatban DAB-rádió is volt, amivel két helyen -- Budapest belvárosában és Dél-Pesten -- próbáltunk jeleket fogni, az Antenna Hungária kísérleti adásába azonban sehol nem sikerült belehallgatni; a készülék egyetlen digitális rádiócsatornát sem talált.
+
+Az iBlik RadioStation a fentieken túl hálózati médialejátszóként is üzemel, így a hálózati DLNA-kliensként is szóra bírható, ami alkalmasint hasznos és jó funkció, ráadásul nemcsak a legelterjedtebb formátumokat és kodekeket ismeri (AAC, AIFF, AU, MP3, RM, WAV és WMA), hanem az M3U lejátszási listákat is. A rádió emellett ébresztõként is mûködik, választhatunk, hogy csipogásra, FM vagy DAB-rádióra, netán valamelyik internetes rádióra akarunk ébredni. A készülékre került egy 3,5 milliméteres sztereó jack bemenet is -- ezen keresztül gyakorlatilag bármilyen sztereó analóg forrás megszólaltatható.
+
+
+
+A Revo asztali internetrádiója eddig alapvetõen okos és sokoldalú készülék látszatát kelti -- mi is elismerõen hümmögtünk a készülék funkcióit látva. Aztán meghallgattuk hogy szól, ezzel pedig az eddigi, alapvetõen pozitív összkép kártyavárként omlott össze. Összehasonlításul, az iBlik RadioStation hangminõsége maximum egy drágább asztali rádiós ébresztõórát überel, hangja fakó, erõtlen, nagyobb hangerõn pedig erõsen torzít. Tegyük hozzá, nehéz meghatározni, milyen hangminõséget várunk el egy ilyen megoldástól, nehéz bármihez is hasonlítani, hiszen kevés hasonló eszköz kapható, azt mindenesetre biztosan kijelenthetjük, hogy a tesztkészülék hatvanezer forintos árának minden bizonnyal csak töredékét teszi ki maga a hangrendszer, a költségek nagyját  inkább az elektronika viszi el.
+
+Okos, de erõtlen
+
+
+Az angol gyártó szerintünk figyelhetett volna jobban is arra, hogy a szolgáltatások és a minõség aránya egészségesebben alakuljon a Revo iBlik RadioStation esetében, mert jelen esetben aki nem csak egy újabb okos szórakoztatóelektronikai kütyüre, hanem általa maradandó zenei élményre is vágyik, az bizonyára nagyot fog csalódni, miután üzembe helyezi az új szerzeményt.
+
+Az iBlik RadioStation a hangminõségtõl függetlenül sem tökéletes készülék, bár jóformán csak szõrszálhasogatás szintjén hiányoljuk a last.fm-támogatást, vagy a digitális hangkimenetet (ha a beépített hangszóró nem szól jól, legalább át tudjuk küldeni a hangsávot egy erõsítõnek). A család legolcsóbb tagja, az alapmodellnek számító Revo Blik Wi-Fi iPod-dokkoló és DAB-modul nélkül 30 ezer forintba kerül -- ennyi pénzt annak esetleg megérhet, aki kedvenc internetrádióját vagy internetrádióit a konyhában, fõzés közben, vagy a mûhelyben, fúrás-faragás közepette is szeretné hallgatni, netán az internetrádiók halk háttérzenéjére vágyik nappalijában -- különös hangsúllyal a halkságon.
+
+A Revo iBLik RadioStation internetrádiót az Infopatika Kft.-tõl kaptuk kölcsön.

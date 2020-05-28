@@ -1,0 +1,30 @@
+A Cell architektúrájának továbbfejlesztésébe kapcsolódik be a BMF NIK
+
+A Cell architektúra továbbfejlesztésébe kapcsolódik be a Budapesti Mûszaki Fõiskola Neumann János Informatikai Kara (BMF NIK), jelentette be az intézmény és az IBM közösen. Ezzel a két szervezet együttmûködése egy következõ szintre lépett, miután tavaly tananyaggá vált a karon a Cell.
+
+
+
+Bepillantás a Cell jövõjébe
+
+Az IBM világszerte együttmûködik felsõoktatási intézményekkel annak érdekében, hogy megismertesse termékeit, technológiáit a hallgatókkal, ezen keresztül pedig a jövõ szakembereivel, ezzel támogatva a megfelelõ szakmai háttér kialakulását, miközben az iskolák korszerû tudást kínálhatnak. A BMF NIK célja a Cellt oktató kurzussal, hogy "naprakész információkat tudjunk [...] biztosítani a jelenlegi többprocesszoros rendszerek programozásáról, az ilyen rendszerek esetén használható programozási paradigmákról" -- mondta el a HWSW-nek korábban Kozlovszky Miklós oktató és kutatómérnök. 
+
+A mostani megállapodás azonban már nem az alkalmazási területekkel, hanem architekturális kutatás-fejlesztéssel kapcsolatos. A BMF NIK számára lehetõség nyílik, hogy együttmûködjön az IBM böblingeni kutatóközpontjával, és "betekintést nyerhetünk a Cell Broadband Engine jövõbe mutató fejlesztésébe is" &#8211;- mondta el Sima Dezsõ egyetemi tanár és alapító fõigazgató. Sima vezetése alatt a BMF NIK hallgatói a párhuzamos architektúrák egyes típusait fogják elemezni és kiértékelni a teljesítménypotenciál szempontjából.
+
+
+"Dr. Sima Dezsõ és csapata világszerte elismert a korszerû számítógép-architektúrák tervezése terén, ezért döntöttünk úgy, hogy együttmûködünk a Budapesti Mûszaki Fõiskolával. A Budapesti Mûszaki Fõiskolán kifejlesztett tervezésitér-elemzés nagyon jó alapul szolgál a fejlesztések fõ vonalait megjelenítõ architektúra típusok összehasonlító vizsgálatához" &#8211;- nyilatkozott Peter Altevogt, az IBM böblingeni kutatólaboratóriumának projektvezetõje. 
+
+A modern processzorfejlesztés hosszú átfutási ideje miatt a BMF NIK keretein belül született tapasztalatok, megoldások felbukkanása nem várható a következõ 4-5 év során valós termékekben, ugyanakkor a késõbbi Cell-változatok konceptualizálásakor értékes támpontokat nyújthatnak majd akár a Budapesten elért eredmények is. "Nemcsak szakembereink utánpótlását biztosítjuk így, de a projektjeinkbe bekapcsolódó hallgatók és oktatók közremûködésével megsokszorozzuk a rendelkezésünkre álló szellemi erõforrásokat és növeljük innovációs képességünket" &#8211;- mondta el Paál Péter, az IBM Magyarország vezérigazgatója. 
+
+Cell Broadband Engine: egy hosszú sztori nagyon röviden
+
+A Cell az IBM vezetésével született meg a Sonyval és Toshibával folytatott együttmûködés eredményeként. A Sony 2001-ben azzal kereste meg az IBM-et, hogy alkossa meg számára a következõ generációs konzoljának, a PlayStation 3-nak a processzorát. Az IBM elõször egy mai szemmel nézve már konzervatívnak tekinthetõ, akkor még ambiciózusnak tûnõ szimmetrikus négymagos chip javaslatával állt elõl, a Sony azonban elutasította azt és sokkal agresszívabb designt kért, mesélte el egy interjú során a HWSW-nek Peter Hofstee, a Cell fejlesztéseinek vezetõ tervezõje.
+
+[+] Játékfejlesztõt vásárolt fel az Intel - miért?  
+
+A teljesítményt az energiaplafon mellett leginkább korlátozó memóriakésleltetés problematikájára válaszul született meg végül a ma ismert Cell, mely egy elõremutató, energiahatékony masszívan párhuzamos hibrid architektúra. A Cell koncepciójának lényege, hogy egy általános célú PowerPC mag vezérli a valós munkát végzõ vektorprocesszorokat, melyeket nagy sávszélességû belsõ körbusz köt össze, és a vektorprocesszorok önálló közvetlen memóriakéréseket (bevásárlólistákat) állítanak össze a számítások végzésével egyidõben, ami más architektúráknál korábban nem látott memóriaszintû párhuzamosságot, és ezen keresztül teljesítmény jelent. A heterogén, párhuzamos felépítés és a memóriamodellben eszközölt radikális változások ugyanakkor gyökeres változtatást igényelnek programozási oldalról, nem véletlen, hogy a Cell potenciáljának kiaknázásához idõre van szükségük a programozóknak.
+
+A 2001-ben elkezdõdött munkában végül összesen 400 ember vett részt, a koncepciótól a szilíciumig pedig 4 év telt el, a költségvetés pedig 400 millió dollárra tehetõ. 
+
+Az IBM 90 nanométeres gyártástechnológiát alkalmazó chip azóta 65 és nemrég 45 nanométeres eljárásra is átültették, aminek eredményeként mérete kevesebb mint fele az eredetinek, fogyasztása pedig 20 watt alá szorítható, így a Sonynak lehetõsége nyílik egy alapjainál fogva áttervezett, kompaktabb és sokkal olcsóbb PlayStation 3 verzió kifejlesztésére. 
+
+Az IBM jelenleg legalább két generáció fejlesztéseit végzi, melyek a jelenleginél sokkal nagyobb teljesítményre lesznek képesek. Az úgynevezett Enhanced Cell megjelenése idén várható, és elsõsorban vizualizációs és szuperszámítógépes területre szánja a vállalat. A 65 nanométeres chip legfõbb újdonságai közé tartozik, hogy vektorprocesszorai immár kétszeres pontosságú, vagyis 64 bites lebegõpontos számításokat és magas hatékonysággal végeznek, valamint a memóriavezérlõ immár DDR2-es, így nagy memóriakapacitás is elérhetõ, akár chipenként 16 gigabájt. A következõ évtized hajnalára készülhet el egy sokkal erõteljesebbé tervezett változat, mely már 1 teraflopsos, vagyis a jelenleginél 50-szer nagyobb teljesítményt ígér további vektorprocesszorok integrálásával. 

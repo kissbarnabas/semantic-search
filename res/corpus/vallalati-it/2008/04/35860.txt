@@ -1,0 +1,16 @@
+Fujitsu Siemens: élen az energiahatékonyságban
+
+A világon elsõként lépte át az 1000 mûvelet/watt lélektani határt a Fujitsu Siemens Premergy TX150 S6 az energiahatékonyságot mérõ SPECpower_ssj2008 benchmarkban, és ezzel magáénak mondhatja a világ legenergiatakarékosabb szervere címet is.
+
+
+
+Az iparágban kvázi szabványosnak elfogadott teljesítményteszteket kidolgozó Standard Performance Evaluation Corporation (SPEC) munkacsoportja, melyben számos vezetõ szervergyártó is képviseltette magát, nagyjából két évet töltött az energiahatékonyság mérésének kidolgozásával, és végül tavaly decemberben adta ki a SPECpower_ssj2008 benchmarkot. A SPEC reményei szerint az energiahatékonyságot összehasonlíthatóbbá tévõ benchmarkok a jövõben a vevõket és rajtuk keresztül a szállítókat az energiatudatosság felé tereli, amihez korábban nem volt bárki számára hozzáférhetõ, független metrika.
+
+A szerveroldali üzleti Java alkalmazást reprezentáló benchmark a rendszer különbözõ processzorterheltségi (0-100 százalék 10 százalékpontos lépcsõkben) szintjein méri a teljesítményt, miközben naplózásra kerül a fogyasztás is. Az így kapott táblázatból már kiolvasható, hogy az egyes teljesítményszintekhez milyen fogyasztás párosul, így saját rendszereink terhelésének alakulásával összevetve akár egy becsült energiafelvétel is kalkulálható. 
+
+A gyorsabb tájékozódás érdekében természetesen egy kumulált számot is kalkulál a mérés, mely minél magasabb, annál jobb, annál energiahatékonyabb a rendszer. Az egy darab négymagos Intel Xeon X3360 processzort, négy darab 2 gigabájtos memóriamodult, egy 500 gigabájtos SATA merevlemezt tartalmazó, Windows Server 2003 R2 Enterprise Edition operációs rendszert futtató szerver 1018 pontot ért el a tesztben, ami új rekordnak számít, a korábbi csúcstartó rendszer 910 pontjával a második helyre szorult.
+
+
+ "Az 1000 mûvelet/watt határ áttörése rendszereink nagyszerû kialakításának köszönhetõ. Bár a Primergy TX150 S6 is ugyanazokra a szabványos komponensekre épül, mint a többi szállító szerverei, alacsony fogyasztása egyértelmûen bizonyítja, hogy a Primergy rendszerek a lehetõ legenergiatakarékosabb módon nyújtanak gazdájuknak csúcsteljesítményt" -- mondta Jens-Peter Seick, a Fujitsu Siemens Computers nagyvállalati szerverekért felelõs alelnöke.
+
+Az alacsony fogyasztás nem csak a kevesebb elfogyasztott áram árában jelentkezik. A magasabb fogyasztás a nagyobb átfolyó áramerõsség következtében gyorsabban fárasztja az elektronikát, és a növekvõ hõfejlõdés jellemzõen magasabb üzemi hõmérsékletet is eredményez, ami közvetlenül támadja az összes alkatrészt. Ha 15 fokkal emelkedik az elektronikai, vagy 10 fokkal a mechanikai alkatrészek hõmérséklete, akkor nagyjából megfelezõdik a szerver várható élettartama.

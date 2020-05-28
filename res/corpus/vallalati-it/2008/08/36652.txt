@@ -1,0 +1,14 @@
+Új márkanevet vezet be az AMD a professzionális videokártyák piacára
+
+Új márkanevet vezet be grafikus vezérlõkbõl álló portfóliójába az AMD: az ATI FirePro teremékcsalád az évek óta piacon lévõ FireGL vezérlõkhöz hasonlóan professzionális felhasználásra, CAD és DCC környezetekhez készült. Az egyelõre nem világos, hogy a FirePro sorozat megjelenése után továbbra is készülnek-e FireGL termékek, vagy az évtizedes múltra visszatekintõ márka végleg eltûnik a süllyesztõben.
+
+
+
+A FirePro termékcsalád egyelõre két taggal indul útjára: az ATI FirePro V5700 és az ATI FirePro V3700 kártyák egyaránt teljes DirectX 10.1 és OpenGL 2.0 kompatibilitást nyújtanak, eltérõ teljesítményszegmensben. Elõbbi típus a felsõ-középkategóriás választékot erõsíti majd szeptembertõl, utóbbi elvileg már kapható. Az AMD a jövõ héten kezdõdõ Siggraph 2008 rendezvényen mutatja be a két újdonságot a nagyközönségnek.
+
+
+
+A középkategóriás professzionális háromdimenziós gyorsítókártyák mezõnyét erõsítõ FirePro V5700-at 512 megabájtnyi GDDR3 memóriával szállítja az AMD, a kártya egy Dual Link DVI vagy két DisplayPort kimeneten küldi ki a jelet a megjelenítõknek. A FirePro V5700-as 320 stream processzort tartalmazó GPU-ja a h.264 és VC-1 kódolású nagy felbontású videók dekódolásába is besegít a kommersz piacra szánt kártyákban is megtalálható Unified Video Decoder 2 (UVD 2) algoritmus által.
+
+
+Ez a technológia a belépõszintû FirePro V3700-as típusban is megtalálható, a kártya nyers teljesítményét tekintve azonban a 40 stream processzoros grafikus mag és a 256 megabájtnyi, 64 bites szervezésû GDDR3 memória miatt jelentõsen elmarad a nagyobbik testvértõl. A két Dual Link DVI és egy D-Sub kimenettel ellátott FirePro V3700 már kapható, ajánlott fogyasztói ára tengerentúlon 99 dollár. A nagyobbik testvér csak szeptemberben kerül a boltokba, elõreláthatólag 600 dolláros áron.

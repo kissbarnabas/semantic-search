@@ -1,0 +1,14 @@
+Rendkívül veszélyes, új internetes kártevõk a Sunbelt toplistájában
+
+Az amerikai Sunbelt Software kutatócsoportja, a Sunbelt Threat Research Center megjelentette új toplistáját, melyet a 2008 márciusában regisztrált internetes kártevõk kétes népszerûségébõl állítottak össze. A lista a CounterSpy kémprogram-eltávolítót használó és a Sunbelt ThreatNet káros alkalmazások elleni hálózatban résztvevõ felhasználók automatikus visszajelzései alapján készítik el.  
+
+
+
+A márciusi hónap kivételes volt, még soha ennyi új kártevõ nem jutott fel a toplistára egyetlen hónap alatt. Az elsõ öt helyezett ugyan már állandó szereplõ, a hatodik helyen újdonságnak számító Slagent/Navipromo az internetes alvilág egyik szoftverfrissítõjének nevezhetõ. A Navipromo segítségével a károkozók legújabb variációi automatikusan frissülnek a fertõzött számítógépeken, hasonlóan a Microsoft Update szolgáltatáshoz. 
+
+A lista végére feltört új károkozók rendkívül veszélyesek, a Trojan.Vxgame trójai/rootkit, a Blaire féreg és a Backdoor.Rbot hátsó ajtó/rootkit. A Trojan.Vxgame telepítését követõen lekapcsolja a Windows saját tûzfalát, így nyílt utat ad a további hálózati betöréseken érkezõ károkozók számára. Hasonlóan veszélyes a Blaire, amely elsõsorban léretlen levelekben terjed. A Backdoor.Rbot sokszínû szoftver, igazi robotot készít a számítógépbõl, ami ezután adatlopásra (jelszavak, hitelkártya számok, személyes adatok, szoftverlicencek eltulajdonítására) és hálózati támadásokra, spamek millióinak kiküldésére egyaránt használhatóvá válik. 
+
+
+A lista élén a Trojan.FakeAlert trójai található, mely tipikusan tálcáról felugró tájékoztató ablakokban hívja fel a felhasználó figyelmét számítógépe fertõzöttségére, és megpróbálja rávenni a gyanútlan felhasználót különbözõ rosszindulatú, biztonsági programnak álcázott szoftverek, például ál-antivírusok feltelepítésére. Második a Trojan-Downloader.Zlob.Media-Codec trójai letöltõ, mely általában felnõtt tartalmú honlapokon az egyes videók lejátszásához szükséges Windows Media Player bõvítményként tünteti fel magát, valójában viszont további káros alkalmazásokat és kémprogramokat tölt le a felhasználó számítógépére.
+
+Harmadik a Trojan.NewMediaCodec, mely szintén Windows Media Player frissítésnek tünteti fel magát, és tipikusan felnõtt tartalmú videók lejátszásakor kér engedélyt a felhasználótól a &#8222;frissítés&#8221; elvégzésére. Telepítését követõen a kérdéses videó általában megtekinthetõvé válik, viszont a trójai alkalmazás a háttérben azonnal elkezd különbözõ kémprogramokat és további károkozókat letölteni a gyanútlan felhasználó számítógépére.

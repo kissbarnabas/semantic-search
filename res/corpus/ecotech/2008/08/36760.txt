@@ -1,0 +1,26 @@
+A Dell a szerverpiac nagy nyertese a második negyedévben
+
+A második negydévben 5,7 százalékkal 13,8 milliárd dollárosra duzzadt a szerverpiac, miközben a leszállított gépek száma 12,2 százalékkal 2,3 milló darabra növekedett -- derül ki a Gartner által nyilvánosságra hozott számokból. 
+
+
+
+Menõ: x86, ciki: RISC
+
+Az elemzés szerint az erõsödés elsõsorban az x86-os szegmensnek köszönhetõ, ahol folytatódott a korábbi rendszerek korszerûbbre cserélése, illetve nagyméretû, webalkalmazások kiszolgálására szánt adatközpontok építése, amelyek meghúzták az eladásokat. Ez összességében azt is jelenti, hogy fõleg azok a cégek teljesítettek jól a második negyedévben, amelyek erõs x86-os kínálattal rendelkeznek. Nem csoda, hogy a nagy gyártók közül a kizárólag x86-os szervereket értékesítõ Dell érte el a legnagyobb növekedést.
+
+A RISC/Itanium szegmens eközben továbbra is gyengül, az eladások a felsõbb kategóriás gépek felé tolódnak, ahogy az alsóbb kategóriát egyre inkább kannibalizálják a mind erõsebb x86-os gépek. A RISC/Itanium-kategóriában a leszállított rendszerek száma 7,9 százalékkal olvadt a tavalyi év azonos idõszakához képest, azonban a forgalom 9,4 százalékkal nõtt, ami annak következménye, hogy a konszolidációs projektekben központi szerepet játszanak a nagyobb teljesíményû és kapacitású, drágább konfigurációk.
+
+Nem történt változás a gyártók rangsorában
+
+Bevételek alapján az IBM állt a szerverpiac élén a második negyedévben, a Nagy Kék 29,6 százalékról 31,6 százalékra tudta növelni részesedését, ami elsõsorban a nemrégiben megújult UNIX-szervereinek és mainframe gépeinek köszönhetõ, ezek ellensúlyozni tudták az x86-os vonalon mutatott gyenge teljesítményt. Az IBM által leszállított szerverek száma mindössze 4,7 százalékkal, tehát a piaci átlag alatt bõvült, a 308 ezer eladott gép mindössze a harmadik legtöbb volt.
+
+A legtöbb szervert szokás szerint a HP értékesítette, a világ legnagyobb informatikai vállalata több mint 700 ezer gépet értékesített, de az éves szinten mutatott 8,7 százalékos növekedés nem volt elég ahhoz, hogy a cég ne veszítsen piaci részesedésébõl. A HP a tavalyi második negyedévben még 31,2 százalékos részt birtokolt a piacból, ez mostanra 30,2 százalékra csökkent. A vállalat az idei második negyedévben 3,8 milliárd dollár értékben forgalmazott szervereket, ami mindössze 2,9 százalékos éves növekedést jelent. A Gartner szerint a ProLiant, Integrity és NonStop egyaránt jól teljesített, a legnagyobb növekedést pedig szokás szerint a blade-ek produkálták, a saját szegmensükben 45 százalékos piacrészt elérve.
+
+A Dell a nagy nyertes, a Sun a nagy vesztes
+
+
+ A vizsgált idõszak nagy nyertese egyértelmûen a Dell volt, amely mind árbevételt, mind a szálításokat tekintve a piaci átlag felett növekedett. A texasi cég 1,8 milliárd dollár értékben forgalmazott szervereket, a cég bevétele a piaci átlag közel háromszorosával, 15 százalékkal nõtt. A leszállított gépek száma még ennél is jobban emelkedett, az 577 ezer szerver 24 százalékkal több a tavalyi második negyedévben eladott 464 ezernél.
+
+Ha a Dell volt a negyedév nyertese, akkor a vesztes egyértelmûen a Sun Microsystems. Az évek óta problémákkal küszködõ cég mindössze 1,6 százalékkal tudta növelni szerverszállításait, a 96 ezer gép csupán 4,1 százalékos piaci részesedést jelent. A szerverek értékesítésébõl származó árbevétel 6,8 százalékkal 1,63 milliárd dollárra csökkent a Sunnál -- a négy nagy szervergyártó közül a Sun volt az egyetlen, amelynek csökkent a szerverforgalmazásból származó bevétele. A második naptári negyedév a Sun negyedik pénzügyi negyedéve, amikor az "év végi hajrá" miatt elvileg sok üzletet kötnek, de ez sem volt elég a növekedéshez.
+
+Az ötödik helyen a Fujitsu/Fujitsu Siemens végzett 492 millió dolláros bevétellel és 61 ezer leszállított szerverrel. A talán végnapjait élõ Fujitsu Siemens is jobban teljesített a Sunnál, az eladott gépek száma 3,3 százalékkal nõtt, a forgalom pedig 0,1 százalékkal csökkent mindössze. 

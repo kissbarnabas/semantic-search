@@ -1,0 +1,10 @@
+Windows nem marad szárazon a holnapi patch kedden
+
+A Microsoft elõzetes értesítése alapján az augusztusi biztonsági frissítések közül hat darab távoli kód végrehajtási sebezhetõséget kezel, melyekbõl ötöt kritikusnak sorolt be a Microsoft, és ebbõl négy a Windowsokat érinti -- további három, közepes besorolásúval egyetemben. A mostani patch keddbõl egyetlen támogatott Windows változat sem marad ki, még a Server 2008 Core telepítések sem úszhatják meg a frissítést és újraindítást, egy közepes kockázatúnak besorolt jogosultságszint-emelési rést itt is foltozni kell.
+A Windowsokhoz érkezõ frissítések közül kettõ alkalmazásokkal is foglalkozik. Windows 2000, XP és Server 2003 rendszereken kritikusan sebezhetõek az Outlook 5.5 és 6-os kiadásai, valamint a Media Player 9, 10 és 11 változatai, míg a Vistától kezdõdõen csak a Media Player 11 érintett. Nem mûködik a .NET keretrendszer esetében a Vista és Server 2008 valamint SP1-ek fokozott biztonsági architektúrája sem, ugyanis ezeken foltozni kell a környezet 2.0 és 3.5 verzióit, míg az elõzõ 2000/XP/2003 generáción nem. Ugyanígy míg a Vista esetében az egyik távoli kód végrehajtás kockázati szintje fontos besorolást kapott, addig az SP1 és SP2 megléte esetén már kritikussá fajul.
+
+Szintén kritikus, távoli kód végrehajtását lehetõvé tévõ  hibákat foltoz a Microsoft az Office XP és 2003 kiadásokban, ahogyan a Visual Studio .NET 2003, az ISA (Internet Security and Acceleration) Server 2004 és 2006 és a BizTalk Server szoftverek is frissítést igényelnek. A Microsoft Security Respnse Center blogbejegyzése nem említ további, nem biztonsági jellegû frissítéseket a holnapi napra. Az augusztusi patch keddel kapcsolatos technikai webcastra itt lehet regisztrálni.	     
+                  
+                  
+                  
+                   

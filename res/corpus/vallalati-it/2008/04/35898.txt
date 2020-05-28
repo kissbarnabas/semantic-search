@@ -1,0 +1,12 @@
+Automatikus frissítésként települ a Vista SP1
+
+A Windows Update automatikus frissítõszolgáltatáson keresztül is megkezdõdött a Windows Vista elsõ szervizcsomagjának terjesztése, így hamarosan azok a felhasználók is megkapják az SP1-et, akik a megjelenést követõen nem töltötték le és telepítették kézzel.
+
+
+
+A Vista SP1-ben fõképp hibajavítások és a teljesítményt fokozni hivatott finomítások kaptak helyet, azonban az elõzetes változatokkal készített tesztek szerint a szervizcsomag telepítése lényegében semmilyen hatással nincs az operációs rendszer sebességére, vagy az alkalmazás-kompatibilitásra. A javítócsomagban érkezik néhány új funkció is, a BitLocker például már képes lesz több meghajtót is titkosítani, illetve változások történtek az asztali keresõben is. A Vista SP1 megnehezítheti -- egy kis idõre -- a kalózok dolgát is, olyan kódok kaptak helyet a csomagban, amelyek kivédik a legnépszerûbb aktivációs trükköket (pl. BIOS-átírás, vagy a 2099-es trükk). A redmondiak állítása szerint az eszközölt változtatásokkal a jelenleg használt kalóz Visták túlnyomó többsége "semlegesíthetõ".
+
+A Windows Vista esetében azonban némileg enyhül a Microsoft szigora. A nem (megfelelõen) aktivált operációs rendszer eredetileg csupán 30 napig mûködõképes, ezt követõen úgynevezett korlátozott üzemmód lép életbe, ekkor a Vista csak az Internet Explorert engedi megnyitni, és a felhasználónak óránkéntújra be kell jelentkeznie. A WGA ellenõrzéssel kapcsolatos nehézségek miatt a Vistában levõ ún. Csökkentett Mûködési Módot most a Microsoft megszünteti, de ezen rendszerek felhasználói folyamatos figyelmeztetést kapnak majd, hogy a szoftverük valószínûleg nem eredeti.
+
+
+Azok a felhasználók vagy szervezetek, akik nem szeretnék, hogy gépeikre automatikusan települjön a Vista SP1, a Microsoft weboldaláról letölthetnek egy segédprogramot, amely blokkolja a Windows szervizcsomagok telepítését.

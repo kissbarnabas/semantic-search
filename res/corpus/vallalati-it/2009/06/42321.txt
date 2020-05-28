@@ -1,0 +1,33 @@
+Bejelentette új üzleti cloud-portfólióját az IBM
+
+A cloud computing ma már egyetlen informatius számára sem hangozhat idegenül, hiszen az elmúlt évek egyik legtöbbet emlegetett buzzwordjévé vált az iparnak. A cloud, amely az internetet felhõként ábrázoló prezentációs diákról
+kapta a nevét, lényegében (virtualizált) szerverek összessége, amelyek a
+weben keresztül elérhetõ alkalmazásokat futtatnak. Már ma is számos
+cloud-szolgáltatást használunk nap mint nap, gondoljunk csak például a
+webes levelezõkre, amelyek úgy kezelik e-mailjeinket és adatainkat,
+hogy azokat az interneten keresztül bárhol, bármikor elérhetjük,
+miközben valójában fogalmunk sincs arról, pontosan hol is találhatók,
+és nem is kell tudnunk: a gépek üzemeltetése, a rendelkezésre állás
+biztosítása nem a mi gondunk. Az üzleti alkalmazások egy része számára is ez jelentheti a jövõt.
+Eddig csak figyelt az IBM, most lépett is
+Az IBM-tõl eddig sem volt idegen a cloud computing, sõt. A cég 2007-ben a Google-lel összefogva már elindított egy kísérleti cloudot az amerikai felsõoktatási intézmények számára, tavaly õsszel bemutatta a Lotus Notes hosztolt változatát, idén februárban pedig az Amazonnal kötött megállapodást, amelynek értelmében egyes vállalat szoftverei (DB2, Informix Dynamic Server, WebShpere Portal, Lotus Web Content Management, WebShpere sMash) elérhetõvé váltak az Amazon EC2 cloudján.
+A cég állítása szerint az elmúlt években rengeteg idõt és erõforrást fordított arra, hogy jobban megismerje, ügyfelei milyen cloud szolgáltatásokat várnak el, és ennek tudatában lépett most. A Smart Business portfólió három két lehetõséget kínál cloud-szolgáltatások kialakítására, bevezetésére. A felhasználók igénybe vehetik az IBM által mûködtetett nyilvános cloudot, megrendelhetik saját, tûzfallal védett privát cloudjukat, amelyeket aztán maguk üzemeltethetnek, de ezt rábízhatják az IBM-re is. 
+A CloudBurst pedig olyan, blade szerverekbõl, tárolókból és virtualizációs (VMware Virtual Center, ESXi), illetve felügyeleti szoftverekbõl (Tivoli Provisioning Manager, Tivoli Monitoring, Systems Director, ToolsCenter, DS Storage Manager) álló, elõre integrált megoldást takar, amelybõl a vevõk saját cloudot építhetnek. Az IBM szolgáltatási részlege emellett segítséget nyújthat azoknak a vállalatoknak, amelyek a meglevõ infrastruktúrájukra alapozva szeretnének egy privát cloudot építeni, illetve azt összekapcsolni nyilvános cloudokkal.
+A kínálat elemei
+Az IBM új cloud-portfóliójában nagy hangsúlyt kaptak a fejlesztõknek és tesztelõknek szánt megoldások. A nagyvállalatok informatikai infrastruktúrájának 30-50 százaléka fejlesztési és tesztelési célokat szolgál a Nagy Kék szerint, azonban ezek az erõforrások gyakran kihasználatlanul állnak, mivel a fejlesztõk nehezen kapnak hozzáférést a munkájuk elvégzéséhez szükséges erõforrásokhoz. Az IBM válasza erre a problémára a Smart Business Application Development &amp; Test Service, amely lehetõvé teszi a Rational fejlesztõi eszközök felhasználói számára, hogy a vállalatuk belsõ rendszerei helyett az IBM által üzemeltetett infrastruktúrát használják fejlesztési és tesztelési platformként. Ez jelentõsen lerövidíti a fejlesztési folyamatokat, a korábban fejlesztõi infrastruktúrára költött összegek pedig megtakaríthatók vagy átcsoportosíthatók -- állítja az IBM.
+
+A másik fontos újdonsága a bejelentésnek az IBM Smart Business Desktop Cloud, amely egy hosztolt virtuális desktop környezet. A hosztolt virtuális desktopok használata lehetõvé teszi, hogy a
+felhasználók bárhol, bármikor elérhessék az általuk használt
+szoftvereket és adatokat, azáltal, hogy az asztali környezeteket
+szerveren konszolidálja -- egy kiszolgálón így több desktop környezet
+is futhat, amelyhez a felhasználók gyakorlatilag bármilyen kliensrõl
+csatlakozhatnak, akár PC-rõl, vékony kliensrõl vagy akár mobil
+eszközrõl. A megközelítés elõnye, hogy minden szoftver a szerveren található, centralizáltan
+elérhetõ, menedzselhetõ, frissíthetõ, menthetõ -- az IBM szerint akár 40 százalékkal alacsonyabb lehet az üzemeltetés költsége az asztali PC-khez képest.
+Az óvatosság ellenére nõ a piac
+A cloud-megoldásokkal kapcsolatban továbbra is sok fenntartása lehet az
+informatikai vezetõknek egy olyan nagyvállalatnál, ahol kritikus a
+rendelkezésre állás, de az IBM megjelenése a területen segíthet ledönteni a bizalmi gátakat. Óvatosság ide vagy oda, elemzõk óriási piacot prognosztizálnak a cloud computing alá. Az IDC márciusi
+jelentésében azt jósolja, hogy 2012-re a globális cloud-költések
+meghaladhatják a 42 milliárd dollárt is, azaz kevesebb, mint három év
+alatt megháromszorozódhat a piac.

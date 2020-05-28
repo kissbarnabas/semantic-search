@@ -1,0 +1,12 @@
+Február közepéig lehet jelentkezni a BME 24 órás programozóversenyére
+
+Február 17-én éjfélig lehet nevezni a VIII. BME Nemzetközi 24 órás Programozóversenyre a rendezvény hivatalos weboldalán, ahol háromfõs csapatok jelentkezését várják, de aki még nem talált társakat, annak is érdemes jelentkeznie, ugyanis az oldalon csapattagokat is lehet keresni. 
+
+
+
+A nevezést követõen 2007. február 24-én (közép-európai idõ szerint) délelõtt 10 és délután 3 óra között kerül sor egy interneten keresztül lebonyolított elõválogatóra, ahol 8 algoritmukus jellegû problémát kell a csapatoknak megoldani. Az elõválogatón legjobban szereplõ együttesek vehetnek részt a döntõben, ami május 2-án kezdõdik Budapesten. Itt egyetlen, de összetett és bonyolult feladattal kell megküzdeniük a csapatoknak. A versenyzõk által használható fejlesztõeszközökre, operációs rendszerre valamint írásos segédanyagokra vonatkozóan semmilyen megkötés nincs, de külsõ segítséget nem szabad igénybe venni.
+
+A tavalyi döntõben a csapatoknak egy-egy virtuális ûrhajót kellett irányítaniuk, a cél az ûrbeli bolygókon található kincsek megszerzése volt. Ehhez a csapatoknak elõször radart és hajtómûveket kellett fejleszteniük az ûrhajókra, majd ezeket össze kellett kapcsolniuk hogy navigálni és mozogni tudjanak az ûrben, ezután a hálózatról "tölthették le" a fegyvereket és a pajzsokat. Az univerzumot a csapatok ûrhajói mellett az ellenséges Kwargok népesítették be, õk õrizték a bolygók kincseit. Pontokat a játékosok a kincsek gyûjtésével és a Kwargok, illetve egymás megsemmisítésével szerezhettek.
+
+
+ A feladatokat a BME informatika karának doktorandusz hallgatói írják, így a tavalyihoz hasonlóan érdekes megmérettetésre számíthatnak a versenyzõk. A problémák megoldásához, az eredményes szerepléshez leginkább jól mûködõ csapatmunkára, valamint gyors és precíz kódírási képességre, széleskörû informatikai ismeretekre van szükség az 5000 eurós összdíjazás és a tárgynyeremények elnyeréséhez. A hagyományokhoz híven a szervezõk ebben az évben is népes nemzetközi mezõnyre számítanak: a tavalyi verseny döntõjén 10 ország programozói vettek részt.

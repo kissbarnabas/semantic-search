@@ -1,0 +1,126 @@
+A kereskedõ szemével: speciális nyomtatási igények
+
+A valóban megfelelõ nyomtató kiválasztásához érdemes jobban a mûszaki paraméterek és az árak mögé nézni, hiszen jelentõsen befolyásolhatják a döntést a nyomtatási körülmények, a gyakoriság&nbsp; vagy a felhasználandó médiatípusok.Nagyon jó példa erre a korábban bemutatott szilárdtintás
+technológia: a Xerox Phaser 8560 kiváló alternatívát nyújt a
+lézeres nyomtatással szemben, a készülék árát, teljesítményét, a
+fenntartási költségeit és a fogadott médiák széles körét is figyelembe
+véve. Azonban a tinta melegen tartása érdekében a készüléknek
+folyamatosan bekapcsolt állapotban kell maradnia, az esetleges
+kikapcsolással rengeteg festék kerül a hulladéktárolóba. Ezért a
+szilárdtintás technológia akkor ajánlható, ha naponta többször szükség van nagy lefedettségû színes nyomatokra. Ahol csak ritkán van szükség színes nyomtatásra, ott célszerûbb az
+üresjáratokra bátran kikapcsolható lézer vagy LED technológiát
+alkalmazni.
+
+Számlanyomtatás
+
+Bár nem tûnik túl
+speciális területnek, de a számlanyomtatás terén is felállíthatóak
+olyan szempontok, amik a kiválasztást befolyásolhatják. A
+kiskereskedelmi számlázáskor a munkafolyamat általában 2-5 A4-es, 5%-nál jóval kisebb telítettségû oldal nyomtatásával jár. Emiatt azok a
+nyomtatók, amik a kinyomtatott oldalszám függvényében becsülik a meg a
+festékfogyást, csak gazdaságtalanul üzemeltethetõk, hiszen
+akár félig töltött kazetta esetében is követelhetik a kellékanyag
+cseréjét. Ha az áru átvétele és a számlázás az ügyfél jelenlétében
+történik, akkor olyan kompakt készüléket érdemes választani, ami
+könnyen elhelyezhetõ a kiszolgálópultban az eladó közelében, és az elsõ
+oldalt a vevõ felesleges várakoztatása nélkül a lehetõ leggyorsabban
+nyomtatja ki.
+
+Közepes és nagyobb vállalatoknál bevett gyakorlat a nagyobb
+teljesítményû munkacsoportos nyomtatók használata. A hálózatos
+csatlakoztatás révén egyszerre többen használják a központi eszközt,
+ezért a fajlagos kihasználtsága lényegesen jobb a személyi
+nyomtatóknál. A nagyobb nyomtatási mennyiséget akár 20 ezer oldalra is elegendõ nagy kapacitású kellékanyagokkal szolgálják ki, amivel alacsony egy lapra vetített nyomtatási költség érhetõ el.
+Vállalati környezetben gyakori igény az automatikus kétoldalas (duplex)
+nyomtatás, amivel a felhasznált papír mennyisége jelentõsen
+csökkenthetõ.
+
+Gyakran elõfordulnak speciális
+igények is: ilyen a leválogatás, amikor a különbözõ helyrõl származó
+anyagok jól látható módon, oldalirányú lapeltolással külön csomagokban érkeznek meg a kimeneti tálcára; a felhasználói szintû hozzáférés és
+kvóták kezelése és a központi menedzselés; vagy említhetjük akár a
+biztonságos nyomtatást, amikor a nyomtató csak akkor áll neki a
+ráküldött bizalmas dokumentum kinyomtatásnak, amikor az arra jogosult
+felhasználó már ott áll a gép elõtt, és kártyával vagy PIN kóddal azonosítja magát.
+
+Speciális, mégis hétköznapi eset: receptnyomtatás
+
+A használatban lévõ vények -- köznyelven receptek -- nyomtatása
+is speciális igényeket támaszt. A jelenleg használt formátum 99x210 mm,
+vagyis pontosan egy A4-es lap harmada. Jelenleg mátrix, tintasugaras és
+lézernyomtatókat egyaránt használnak a rendelõkben, de mindegyik
+megoldás kompromisszumokat követel. A mátrixnyomtatás költségeit
+tekintve igazán kedvezõ, de jelentõs zajterheléssel jár, a tintasugaras
+nyomtatás csendes, de fajlagosan drága, a lézernyomtatóknak
+pedig extrém terhelést jelentenek a receptek.
+
+Az extrém
+terhelést a média méreteinek és a lézernyomtatók mûködésének
+összeférhetetlensége okozza, ami miatt a problémára nincs igazán jó
+megoldás, csak "legkevésbé rossz". Az elõre nyomott vényt fekvõ
+állapotban a belsõ papírtovábbító görgõk távolsága miatt a lézernyomtató nem
+tudja továbbítani, csak álló módon. Ez viszont meglehetõsen
+egyenletlen terhelést jelent a készüléknek, mivel a görgõk csak a középsõ szakaszon
+kopnak, és a toner, valamint a fényhenger is csak egy vékony csíkban dolgozik. A nyomtatókazettát
+rendszeresen érdemes kivenni és megrázogatni, de a fényhenger
+egyenletlen terhelése miatt elõbb vagy utóbb mindenképpen "beégés" jelentkezik,
+ami egy más jellegû A4-es dokumentum esetében (pl. zárójelentés) két
+párhuzamos szürke csík formájában látható.
+
+Emiatt ezen a területen
+eddig nehéz volt olyan kiemelkedõen költséghatékony nyomtatást ígérõ
+készülékek használata, amik a fényhengert és a beégetõmûvet beépítve
+tartalmazzák és csak tonerpor utántöltésére van szükség, ugyanis az
+egyenletlen terhelés miatt gyakorlatilag az egész nyomtató idõ elõtt
+tönkremehetett. A legkevésbé rossz megoldást azok a nyomtatók jelentették, amelyek egy kazettában (cartridge) tartalmazták a tonert és a fényhengert. Mivel a legtöbb belépõ
+szintû lézernyomtató ilyen módon fogadja a kellékeket, ezért a nyomtató
+beszerzését alacsony áron meg lehetett oldani, és amire a beégési
+jelenség -- 3000 lap környékén -- jelentkezett volna, addigra a
+nyomtatókazetta cserére került.&nbsp; 
+
+Új formátum jön, milyen nyomtatót vegyünk?
+
+A szakmai szervezetek nyomása és a OEP által megkövetelt plusz adattartalom miatt most nagyot fordul a
+kocka. A hamarosan érkezõ új receptformátum
+tervezésekor szerencsére már figyelembe vették a lézernyomtatás során
+eddig jelentkezõ problémákat, aminek köszönhetõen a vény mérete megnõtt.
+A plusz adattartalom egyik része a nyomtatott vonalkód, ezzel viszont
+nyugdíjba küldik a még használatban lévõ mátrixnyomtatókat. A
+tintasugaras nyomtatóknál a vonalkód biztos olvashatóságához a
+maximumra kell állítani a nyomtatási felbontást, ami jelentõsen
+megnöveli a festékfelhasználást, és ezáltal a fenntartási költségeket.
+De mi a helyzet a lézernyomtatással?
+
+Az eddig használt belépõ szintû lézernyomtatók álló formátumú befûzés mellett továbbra is használhatók maradnak, ám fekvõ formátumban a legtöbb ilyen készülék nem képes a
+papírtálcából felemelni az elõre nyomott vényeket. Bár a
+legtöbb belépõ kategóriás lézernyomtató tartalmaz egylapos kézi adagolót, annak használata
+nem csak macerás, de igen nagy fegyelmezettséget is kíván. A nem
+precízen adagolt lap könnyen elfordul, a papírelakadás miatti idõkiesés
+feltarthatja a rendelést és felesleges stresszhelyzetet teremt.
+
+Az elõzetes tesztek alapján ugyan a felhasználási terület nem igényli a
+nagy teljesítményt, mégis a kis munkacsoportos nyomtatók tûnnek a
+legmegfelelõbb választásnak az új receptek nyomtatásához. Ezeken a készülékeken a kézi adagoló
+kapacitása általában 50 lap körüli, ami az elõre nyomott média mellett
+30-40 recept egyidejû befûzését teszi lehetõvé. Ez lényegesen
+gördülékenyebbé teszi majd a betegellátást, hiszen több recept
+gyors kinyomtatása is könnyedén megvalósítható külön beavatkozás nélkül.
+A&nbsp;hagyományos, általában 250 lap kapacitású papírtálcában elfér a
+szokásos A4-es papír, amire a vizsgálatok eredményei, a zárójelentések
+vagy a levelezés is könnyedén kinyomtatható, immár beégés nélkül. A nagyobb terhelésre kalibrált nyomtatók ráadásul gazdaságosabban is fenntarthatóak, nem ritkán 7-8000 oldal
+kinyomtatására alkalmas toner vagy cartridge vehetõ hozzájuk, amivel
+drasztikusan esik az egy lapra jutó költség.
+
+A
+fentiek ismeretében a receptnyomtatáshoz leginkább olyan, kis
+munkacsoportos lézernyomtató ajánlható, amiben egyszerre található meg
+a többlapos kézi adagoló és elérhetõ hozzá gazdaságosabb üzemeltetést
+biztosító nagy kapacitású kellékanyag, amivel a nyomtató élettartamán
+belül egyensúlyozni lehet a magasabb beszerzési
+költséget.&nbsp;Szerencsére minden érintett bõséges palettáról válogathat, a
+követlemények alapján ugyanúgy megfelel -- a teljesség igénye nélkül --
+a HP LaserJet 2055d, az Epson AcuLaser M2000D,&nbsp;a LED-technológiát
+alkalmazó OKI 430d,&nbsp;a Kyocera FS-1300D, vagy a Xerox Phaser 3435DN,
+utóbbi kettõ már éles teszteken is igazolta alkalmasságát.
+
+A cikk szerzõje a Takforsys Üzleti Informatika Kft. ügyvezetõje.

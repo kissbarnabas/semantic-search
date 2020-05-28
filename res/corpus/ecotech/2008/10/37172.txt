@@ -1,0 +1,22 @@
+Következmény nélkül marad az ATI és az NVIDIA valószínûsíthetõ kartellezése
+
+Elegendõ bizonyíték hiányában lezárta az NVIDIA és az AMD ellen folytatott kartellvizsgálatot az Egyesült Államok Igazságügyi Minisztériuma (DoJ, Department of Justice), és nem kezdeményez lépéseket a két cég ellen. A DoJ döntése meglepõ annak fényében, hogy egy polgári peres kartellkeresetben az NVIDIA és az AMD is peren kívül egyezségbe kényszerült jelentõs kártérítési összegek kifizetése mellett, ezzel lényegében elismerve a kartellt.
+
+
+
+A bíróság által közérdekûvé minõsített polgári per alapját éppen a DoJ 2006 végén kezdeményezett vizsgálata képezte, ugyanis a hivatal megalapozottnak látta a gyanút, hogy a megelõzõ években összehangolta árazását és termékfejlesztéseit az NVIDIA és az akkor még önálló, ma már az AMD-be olvadt kanadai ATI Technologies. Bár hatalmas mennyiségû dokumentumot kért be a vállalatoktól, a hivatal rendkívül kevés információval szolgált a nyomozással kapcsolatban, az ügy lezárásával pedig ez valószínûleg így is marad -- egy idõre legalábbis.
+
+
+
+Memóriamutyi
+A DoJ korábban kartellt állapított meg a DRAM-iparban, amiért 731 millió dollár bírságot szabott ki az érintett cégekre, és több vezetõt is börtönbüntetésre ítélt. A bizonyítékgyûjtés és jogi procedúrák lassú volta miatt jellemzõen csak az illegális tevékenységet évekkel követõen születnek meg az ítéletek. Az 1999 és 2002 közé esõ DRAM-piaci árkartellel kapcsolatban 2002-ben indított vizsgálatot az igazságügy, az elsõ beismerések és ítéletek azonban csak 2004-ben születtek, az ügyet 2005-ben sikerült teljesen felgöngyölíteni, de a büntetõjogi következményekkel csak 2006-ban járt az összejátszás.
+
+
+ 
+
+A hivatali vizsgálódás hatására ugyanakkor egy polgári peres szál is indult, építve a hatóságok által feltárt bizonyítékokra alapozva. A vádat a felperesek piaci adatokra alapozzák: a feltételezett összejátszás elõtti, az összejátszás alatti, majd utáni piaci árakkal és termékindítási idõpontokkal érvelnek, egyszerû statisztikai eszközökkel. A feltételezett idõszakban, 2003-tól 2006 végéig nem kevesebb mint tizenegy olyan alkalom volt, mikor a két vállalat azonos áron, legtöbbször néhány nap különbséggel indította útjára adott szegmensbe szánt termékeit. A vádirat szerint tevékenységük összehangolásához iparági eseményeket használtak fel, hogy titokban találkozhassanak a felsõvezetõk.
+
+Az ezt megelõzõ hat évben egyik sem volt jellemzõ, az árkülönbség átlagosan 117 dollárra rúgott az amerikai piacon, és fél-egy éves eltérések voltak a piaci premierekben. Ennél is árulkodóbbnak tûnt, hogy az AMD-ATI tranzakció, és a DoJ vizsgálódását megelõzõen ismét aszinkronba került a grafikus chipek (GPU) piacát vezetõ két gyártó a GeForce 8800 GTX piacra kerülésével. Azóta ismét látványosan ádáz küzdelem folyik, miután felborult a status quo. Ennek eredményeként az NVIDIA elõször letarolta az asztali és professzionális piacot, és nagyjából a videokártyák piacának 66 százalékát szerezte meg, de teljesítményéhes területeken ez a mutató 80-90 százalék fölé is szökött, majd az AMD rendkívül okosnak bizonyult ellentámadása miatt története során elõször kényszerült leépítésekre, és részesedést veszít az ATI Radeon HD 4000-es generációval szemben.
+
+
+A magánszemélyekbõl és kisebb számítástechnikai cégekbõl és kereskedõkbõl álló felpereseket végül idén szeptemberben sikerült elhallgattatnia a cégeknek. Az amerikai Értékpapír- és Tõzsdefelügyeletének benyújtott dokumentum alapján az NVIDIA összesen 112 500 dollárt fizet a felpereseknek azért, hogy elálljanak minden további kártérítési követeléstõl, valamint 850 ezer dollárt különít el egy 1,7 millió dolláros alapba, melybõl a további igénylõket fizetnék ki -- az alap másik felét az AMD tölti fel.

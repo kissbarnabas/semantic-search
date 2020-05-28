@@ -1,0 +1,14 @@
+Megkezdte az Isaiah prototípusainak szétküldését a VIA
+
+[Computerworld/HWSW] Megkezdte következõ generációs processzora prototípusainak szétküldését a VIA. Az Isaiah kódnéven ismert chip megjelenését korábban valamikor tavaszra, vagyis a második negyedévre ígérte a vállalat, a legújabb fejlemények alapján ez inkább nyáron esedékes.
+
+
+
+Glenn Henry, a VIA amerikai chiptervezõ csapatának vezetõje elmondta, hogy megkezdték az elsõ példányok szétküldését különféle szállítóknak, melyek megkezdhetik az új chipek tesztelését rendszereikben. Henry a Computerworldnek elárulta, hogy a kereskedelmi tömegtermelés nyáron indulhat meg. A négy évnyi fejlesztés követõen megszületõ legelsõ Isaiah chipek a jelenleg C7-es processzorokkal lábkompatibilis tokozást kapnak, vagyis elméletileg a BIOS-frissítést követõen beilleszthetõek lesznek a jelenlegi platformokba.
+
+
+Az Isaiah egy teljesen, gyökereitõl fogva új design, ami Henry leírása alapján lehetõvé tette, hogy a processzorkutatás legfrissebb eredményeit valósítsák meg benne. Az Isaiah célja a minél magasabb energiahatékonyság elérése megfelelõ, a legtöbb felhasználó igényeit kielégítõ teljesítmény mellett. Henry ígérete szerint az Isaiah 2-4-szeres teljesítmény elérése képes a jelenlegi  C7-es processzorokhoz képest, miközben azonos órajelen, miközben gyártási költsége és fogyasztása elhanyagolható mértékben magasabb.
+
+[+] A HWSW összefoglalója az Isaiah architektúrájáról 
+
+Az Isaiah kifejezetten modern x86-os processzor benyomását kelti: a chip egy 64-bites, 3 utasítás széles, soronkívüli végrehajtással bíró processzormagot implementál 65 nanométeres gyártástechnológián. A mikroarchitektúra többek között makro- és mikrofúzióra képes dekódereket, kifinomult elágazásbecslõ rendszert és hatékony cache hierarchiát alkalmaz a gazdag erõforrások optimális kihasználása érdekében, míg az energiahatékonyságot tovább javítja a teljesen dinamikus energiagazdálkodás. Az órajel a 2 gigahertzet is meghaladhatja. A kétmagos változat fejlesztése folyamatban van. Az Isaiah ellenfelének az Intel Silverthorne (Atom) processzorok tekinthetõek, de kétmagos változatai versenyt támaszthatnak az ultra-alacsony feszültségû Core 2 chipeknek is. Akit részletesen érdekel az Isaiah képességei, az angolul elolvashatja Glenn Henry tollából itt (PDF).

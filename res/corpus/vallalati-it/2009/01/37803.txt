@@ -1,0 +1,22 @@
+Patch-kedd: egy javítás a Microsofttól, negyvenegy az Oracle-tõl
+
+Holnap patch-kedd: a Microsoft csak egyetlen javítást ad ki, amely a Windowsok kritikus sebezhetõségét szünteti meg, az Oracle azonban több mint 40 biztonsági frissítést ad ki, több mint harmaduk távoli kódfuttatásra lehetõséget adó sérülékenységet hárít el.
+
+
+
+Egy patch a Microsofttól
+
+A holnapi patch-kedden a Microsoft-termékek felhasználói számára nyugalmasnak ígérkezik, mindössze egyetlen javítás várható a szoftvercégtõl. A vállalat egyelõre nem árulta el, pontosan milyen hibát hárít el, csupán annyit, hogy a Windows 2000-nél újabb operációs rendszereket érintõ sérülékenység Windows 2000, XP és Windows Server 20003 esetében kritikus besorolású, Vista és Windows Server 2008 esetében kevésbé veszélyes.
+
+Az SQL Serverhez továbbra sem adja ki a Microsoft azt a javítást, amely már tavaly õsszel elkészült. A kritikus sebezhetõséget még áprilisban találta meg az adatbázisban egy osztrák cég, amely fel is hívta a Microsoft figyelmét a problémára, azonban a redmondiak azóta sem szolgáltak megnyugtató megoldással. A SEC Consult ezért úgy határozott, nyilvánosságra hozza a sérülékenység részleteit és egy példakódot, amellyel kihasználható a hiba. A sebezhetõség az SQL Server 2005 SP3-at, illetve az SQL Server 2008-at nem érinti, csupán régebbi verziókat. 
+
+Több mint 40 hibát javít az Oracle
+
+Az Oracle negyedéves rendszerességgel teszi közzé a frissítéseket, a cég összesen 41 biztonsági frissítéssel készül holnapra. Elsõ látásra ez nagyon soknak tûnik, valójában az Oracle mércéjével mérve viszonylag kevés -- a cég történetében már többször elõfordult, hogy 100-nál is több sebezhetõséget kellett egyszerre javítania. Ez persze érthetõ is annak a fényében, hogy az Oracle az elmúlt évek során közel 50 céget vásárolt fel, ezzel termékportfóliója lényegében többszörösére duzzadt -- beleértve a hibák, sebezhetõségek lehetõségét is.
+
+
+ Az Oracle-tõl érkezõ 41 javítás több mint harmada, szám szerint 15 foltoz be olyan sérülékenységet, amely távoli kódfuttatásra ad lehetõséget anélkül, hogy a támadó jogosultságokat szerezne a rendszerben. A kritikus sérülékenységek az Oracle Secure Backupban, az Application Serverben, valamint korábbi BEA-termékekben találhatók.
+
+Az Oracle zászlóshajójának számító adatbázishoz összesen 10 javítás érkezik. Ezek a sebezhetõségek kevésbé veszélyesek, mivel a sikeres kihasználásukhoz a támadónak már ismernie kell egy érvényes felhasználói nevet és jelszót az adatbázishoz. Az érintett termékek között az Oracle database 9i-ig visszamenõleg több verzió is megtalálható.
+
+A vállalat arra buzdítja az ügyfeleket, rendszergazdákat, hogy telepítsék a javításokat amint lehet. Az adminisztrátoroknak szüksége is van a biztatásra, egy egy évvel ezelõtt készült felmérés szerint ugyanis az Oracle-adminok kétharmada egyáltalán nem telepíti fel a patcheket. Az Oracle kritikus frissítéseinek telepítéséhez az elõzõ javításokat is telepíteni kell, így ha egy cég egyszer lemarad a frissítésekkel, örökre leszakad és az adatai sose lesznek biztonságban.

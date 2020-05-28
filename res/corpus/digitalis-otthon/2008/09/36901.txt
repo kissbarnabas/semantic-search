@@ -1,0 +1,18 @@
+Megjelent az elsõ hárommagos Black Edition processzor az AMD kínálatában
+
+Megjelent az AMD kínálatában az elsõ olyan, elsõsorban egyéni gépépítõknek szánt, Black Edition márkajelzésû processzor, mely a Phenom processzorok hárommagos változatára, konkrétan a már piacon lévõ Phenom X3 8750-re épül. 
+
+
+
+A kizárólag dobozos kivitelben kapható, processzorhûtõvel egybecsomagolt Black Edition Phenom X3 8750 az alapbeállítások szerint 2,4 gigahertzen jár, magonként 512 kilobájt másodszintû és 2 megabájtnyi megosztott harmadszintû gyorsítótárral rendelkezik. A processzor a többi asztali variánshoz hasonlóan 65 nanométeres SOI gyártástechnológiával készül, fogyasztási mutatója pedig 95 watt alapórajelen.
+
+
+
+Az elsõ hárommagos Black Edition processzort -- akárcsak a kétmagos vagy négymagos változatokat -- a gyártó elsõsorban teljesítményigényes alkalmazásokat futtató felhasználóknak, illetve csúcsteljesítményû rendszert építõ otthoni gépépítõknek szánja, ám nem csak és kizárólag a lapka teljesítménye miatt. A Black Edition márkajelzésû processzoroknál ugyanis az órajel paraméterezéséhez használt szorzó szabadon állítható, így a tuningosok egy olyan CPU-t kapnak a kezükbe, mellyel a rendszerben rejlõ lehetõségek a lehetõ legtágabb keretek közt aknázhatók ki.
+
+Az AMD következõ hárommagos Black Edition processzora, a Black Edition Phenom X3 8850 decemberben kerülhet a boltok polcaira. Ez a típus a most piacra került változatnál 100 MHz-cel gyorsabb lesz, egyéb paramétereiket tekintve megegyezik a két változat. A fenti modell szorzózárral ellátott, hagyományos változata, a fixen 2,5 GHz-es Phenom X3 8850 már a jövõ hónapban megjelenhet a processzorgyártó választékában.
+
+
+A nagyteljesítményû hárommagos Black Edition processzor mellett az AMD két energiatakarékosabb Phenom X3-változattal is elõrukkolt: a Phenom X3 8250e és 8450e rendre 1,9 vagy 2,1 GHz-en jár, ugyanannyi gyorsítótár található bennünk, mint a csúcsteljesítményû változatokban, ezzel együtt TDP-jük megáll 65 wattnál.
+
+Az AMD partnerei által a múlt héten kiszivárgott információk szerint novemberben két új, elsõsorban kisméretû, kis teljesítményigényû feladatokra szánt energiatakarékos számítógépekbe szánt processzort is bevezet OEM-kínálatába az AMD: az Athlon 2650e és az Athlon X2 3250e a cég UVC (Ultra-Value Client) megoldásokhoz fejlesztett termékkínálatát bõvíti. A 65 nanométeres gyártástechnológiával készülõ processzorok órajele alig tér el egymástól: az Athlon 2650e 1,6, míg a kétmagos Athlon X2 3250e 1,5 gigahertzen ketyeg majd. A chipek áramfogyasztását a lehetõségekhez mérten igyekezett a minimálisra szorítani a gyártó, a két típus TDP-je így rendre 15 és 22 watt lesz. 

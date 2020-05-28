@@ -1,0 +1,18 @@
+Okosan gazdálkodik a frekvenciával a Linksys új vezeték nélküli routere
+
+Két frekvenciasávon mûködik a Linksys legújabb, elsõsorban otthoni multimédiás környezetbe szánt, Draft-N kompatibilis vezeték nélküli útválasztója, a WRT610N, a tavaly bemutatott, irodai használatra ajánlott Ultra RangePlus WRT600N típus testvére.
+
+
+
+A hálózati eszköz ehhez két egymástól független rádiót vet be, ezek közül mindkettõ kompatibilis az új generációs Wi-Fi, a 802.11n szabvány tervezetével, a vezeték nélküli hálózati kapcsolat aggregált sávszélessége így ideális esetben elérheti a kétszer 230 megabitet másodpercenként (elméleti maximum). A berendezés eközben természetesen visszamenõlegesen kompatibilis marad a korábbi (802.11a/b/g) Wi-Fi szabványokkal.
+
+A Linksys WRT610N-t a gyártó elsõsorban a vezeték nélkül kommunikáló eszközökkel telezsúfolt hi-tech otthonokba ajánlja, ezzel az eszközzel a gyártó ígérete szerint a HD-videók vezeték nélküli továbbítása, azaz streamelése is teljesen zökkenõmentes. A hálózati eszköz szoftvere az Entertainment Optimized Networking (EON) technológiát használja a a forgalomirányításhoz, a router így a késleltetéskritikus alkalmazásoknak, hálózati forgalomnak (játékok, média stream stb.) prioritást ad a kevésbé zsúfolt 5 GHz-es frekvenciasávban, miközben a kisebb forgalmat generáló eszközöket (PC-k, nyomtatók stb.) a 2,4 GHz-es tartományban szolgálja ki.
+
+
+
+
+A WRT610N-hez szokás szerint vezetékes kapcsolaton keresztül is köthetõk eszközök, a routeren ehhez négy gigabit ethernet portot helyezett el a gyártó. A készülékre ezen kívül egy USB kapu is került, melyen keresztül bármilyen flashalapú vagy merevlemezes háttértárolót hálózati adattárrá változtat a Linksys megoldása.
+
+A gyártó új Draft-N routere egyszerûen beüzemelhetõ a PC és Macintosh környezetekben egyaránt használható, flash videókkal illusztrált telepítõvarázslónak (Linksys Easy Link Advisor) köszönhetõen, a bekötött hálózati eszközök egyszerûbb konfigurációja érdekében a WRT610N kompatibilis a UPnP szabvánnyal is, a vezeték nélküli adatforgalom a szokásos WEP, WPA és WPA2 protokollokkal titkosítható, 128 bites erõsséggel.
+
+A Linksys új, két egymástól szeparált rádióval ellátott, otthoni használatra szánt vezeték nélküli routere 199 dolláros ajánlott fogyasztói áron kerül forgalomba az Egyesült Államokban.

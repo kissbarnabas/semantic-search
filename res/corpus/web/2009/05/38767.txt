@@ -1,0 +1,11 @@
+Kipróbálható a Silverlight 2.0-val kompatibilis Moonlight 2.0
+
+A korábban Windows Presentation Foundation/Everywhere kódnéven ismert Silverlight a redmondiak válasza az Adobe Flash Playerre. A Silverlight a Microsoft szerint több mint interaktív médiaplatform, a vállalat várakozásai szerint méltó ellenfele lehet az Apple QuickTime-nak a nagyfelbontású videók sugárzásában is. A Silverlight többféle böngészõvel (IE, Firefox, Safari) kompatibilis, webalkalmazások, grafikák, animációk megjelenítésére alkalmas interaktív eszköz. 
+
+
+ A Moonlight 1.0 idén februárban jelent meg, azonban még csak a Silverlight 1.0 specifikációit implementálta. Tavaly õsszel megjelent a Silverlight 2.0, és a Silverlight 3.0 bétája is elérhetõ már, a Moonlight 2.0 a fejlesztõk ígérete szerint teljes kompatibilitást biztosít a Silverlight 2.0-val, de már a 3.0 egyes szolgáltatásai is elérhetõk lesznek benne. A Silverlight 2.0 és 3.0 között sokkal kisebb a különbség mint az 1.0 és a 2.0 között, így várhatóan a Silverlight 3.0-val kompatibilis Moonlight hamar megérkezhet -- ígérik a fejleszõk.
+
+A Silverlight nyílt forrású változatának, a Moonlightnak az alapja a Microsoft .Net keretrendszer nyílt forrású alternatívája, a Mono, amelyet a Novell irányítása alatt készít Miguel de Icaza és csapata. A Moonlight 2.0 elõzetesében már benne van egy teljes Mono virtuális gép, amely Firefox-kiegészítõként telepíthetõ. Újdonság, hogy megjelent egy Moonlight fejlesztõi készlet is (SDK), amely segítségével Linuxon vagy UNIX-on is lehet Silverlight alkalmazásokat készíteni, akár C#-ban, dinamikus nyelvekben mint amilyen az IronRuby és az IronPython vagy akár PHP-ben. 
+
+
+A Moonlight 2.0 elõzetese forrásként és binárisként is letölthetõ a projekt weboldaláról. Mostantól heti rendszerességgel érkeznek a további elõzetesek a Moonlight 2.0-ból, de egyelõre még nem tudni, a végleges változat mikorra készül el.

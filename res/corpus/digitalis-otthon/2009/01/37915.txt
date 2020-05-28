@@ -1,0 +1,14 @@
+Nem álom többé a nagyobb tömegek számára a mobiltelefonos navigáció
+
+A CSR bemutatta komplex, Bluetooth és GPS funkciókkal ellátott lapkáját, mely nagy mértékben hozzájárulhat a helymeghatározó funkcióval rendelkezõ mobiltelefonok tömeges elterjedéséhez. Az új vezérlõchip nem az elsõ a sorban, ugyanakkor kedvezõ árának és a konkurenseknél jellemzõen kedvezõbb fogyasztói árának köszönhetõen hamar közkedveltté válhat a mobiltelefongyártók körében.
+
+
+
+A Bluetooth kommunikációs chipek vezetõ gyártójának számító angol cég tavaly jelentette be BlueCore BC7830 típusú vezérlõchipjét. Ez az elsõ olyan vezérlõ a CSR kínálatában, mely egy lapkában integrál Bluetooth 2.1 + EDR áramkört, illetve Enhanced GPS helymeghatározó modult. A chip emellett FM-vétel és -adás lehetõséget is kínál, továbbá kompatibilis a Bluetooth Low Energy szabvánnyal is.
+
+"Úgy gondoljuk, hogy ezzel olyan telefonokba is kerülhet majd GPS, melyeknél eddig nem fért bele az árba ez a funkció" -- nyilatkozta a lapka bejelentése kapcsán Martin Reidevall, a CSR Európáért felelõs marketingmenedzsere. A gyártó szerint a helymeghatározó funkciós beépítése mindössze 1 dollár többletköltséget ad hozzá a mobiltelefon árához. Bár nem a BlueCore BC7830 az elsõ olyan vezérlõ, mely Bluetooth és GPS funkciókat egy lapkán integrál, a CSR megoldása a konkurensekhez viszonyítva kevesebb külsõ komponenst igényel, illetve mindössze 11 négyzetmilliméteres mérete révén a karcsúbb, kisebb méretû mobiltelefonokba is problémamentesen beépíthetõ.
+
+
+A BlueCore BC7830 az összetett funkciók ellenére bizonyos helyzetekben kevésbé terheli le a mobiltelefon akkumulátorát, mint a legtöbb hasonló áramkör: a chip -- a gyártó szerint világelsõként -- teljes kompatibilitást ígér a Bluetooth Low Energy (korábbi nevén WiBree) szabvánnyal. Ez a rendszer leginkább akkor jön jól, ha a mobiltelefont olyan, szintén elemrõl vagy akkumulátorral mûködõ, kis fogyasztású eszközzel kötik össze, mint például a sportórák.
+
+A CSR lapkája mindezek mellett FM-rádióval is rendelkezik, mely a hagyományos FM-vételen túl lehetõvé teszi, hogy a mobiltelefon rövid hatósugarú FM-adást sugározzon az otthoni Hi-Fi rendszernek vagy az autórádiónak. A gyártó szerint a lapka fentebb említett funkciói akár egyszerre is használhatók. A kommunikációs chip tömeggyártása valamikor a második negyedévben kezdõdhet, a lapka a gyártó szerint az év végén megjelenõ középkategóriás mobiltelefonokban már feltûnhet.

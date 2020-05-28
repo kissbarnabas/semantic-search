@@ -1,0 +1,11 @@
+Saját domainrõl is küldhetõ már levél a Gmaillel
+
+A Gmail "személyre szabott feladó" funkciójával küldött üzenetekben a Gmail-cím helyett a saját e-mail cím szerepel feladóként, ugyanakkor az e-mail fejlécének "Sender" mezõje továbbra is tartalmazza a Gmail-címet, hogy a rendszer megelõzhesse a levél spamként való megjelölését. A legtöbb e-mail kliens ilyenkor a levél "from" mezõjét jeleníti meg az üzenet tényleges feladójaként, néhány program azonban (ilyen például a Microsoft Outlook) a "sender" értékét tekinti feladónak, ami valójában a küldõ gmailes postafiókja.
+Az így kapott üzenet feladó mezõjében az érintett klienseknél a "Feladó: sajatfelhasznalonev@gmail.com; Meghatalmazó: egyenicim@sajatdomain.hu" szöveg jelenik meg, ez azonban a Google-hoz érkezett visszajelzések alapján összezavarhatja a címzetteket, akik így adott esetben nem tudják pontosan, kitõl is kapták a levelet, illetve melyik címre válaszoljanak, válaszolhatnak.
+
+
+A Gmail ezért mostantól lehetõséget ad arra, hogy a webes felületen keresztül elküldött levél ne a Google szerverein, hanem a cég saját SMTP-kiszolgálóján keresztül érje el a címzettet. Ezt az opciót a "Beállítások -- Fiókok -- Adatok szerkesztése" hivatkozásra kattintva lehet elérni a Gmail felhasználói felületén belül. Az e-mail cím jóváhagyása után itt beállítható, hogy melyik SMTP-szerver küldje el az üzeneteinket -- az eléréshez jelszót, felhasználói nevet és opcionálisan portcímet kell megadni.	     
+                  
+                  
+                  
+                   

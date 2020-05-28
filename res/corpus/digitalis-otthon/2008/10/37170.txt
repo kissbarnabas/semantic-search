@@ -1,0 +1,26 @@
+Megjelent, de a hatalmas igény miatt átmenetileg nem elérhetõ az OpenOffice.org 3.0
+
+Megjelent az OpenOffice.org nyílt forrású, ingyenes irodai programcsomag 3.0 verziója. A hatalmas érdeklõdés miatt a letöltõszerverek órák alatt elérhetetlenné váltak, a projekt weboldalán egy elnézést és türelmet kérõ szöveg olvasható -- ha az oldal egyáltalán bejön.
+
+
+
+Nem szebb, de jobb
+
+Az OpenOffice.org 3.0 a korábbi verziókhoz képest számos újdosággal szolgál. Talán az egyik legfontosabb, hogy köztes konverterek nélkül támogatja a Microsoft Office Open XML (OOXML) állományokat, amelyet az Office 2007-tel együtt vezetett be a Microsoft. Ezzel a képességgel a szervezetek úgy tudnak elszakadni a Microsoft Office-tól, hogy közben biztosíthatják a dokumentumok kompatibilitását mind a szervezeten belül, mind pedig azon kívül. Az OOo 3 támogatja az ODF legújabb, 1.2-es verzióját is, mint ahogy a nemrég ISO-szabvánnyá vált PDF/A-t is. A Writer szövegszerkesztõ nem csak menteni tud PDF-be, hanem meg is lehet nyitni benne ezeket az állományokat.
+
+Az elsõ tesztek szerint az OpenOffice.org 3.0 lényegesen gyorsabb lett az elõdjénél, a telepítés pár perc alatt végbemegy, és a szoftverek indulása is sebesebb, fõleg, ha a gyakran használt komponenseket elõtöültõ Quickstartert is használja valaki. A Mac-felhasználók is örülhetnek, az OpenOffice.org 3.0 ugyanis már a natív grafikus felületet használha, teljesen illeszkedik az OS X-hez, a futtatáshoz nincs szükség az X11 letöltésére és telepítéséte, mint korábban. 
+
+
+ Bár a kezelõfelületet áttervezték és az ikonok is frissültek, elsõ látásra az OpenOffice.org új verziója kissé divatjamúltnak tûnik. Az Office 2003 mellé állítva ez kevéssé feltûnõ, de a Microsoft irodai csomagjának 2007-es változatához mérve már szembetûnõ a különbség, az OOo 3.0 kinézetét tekintve nem hozza azt a frissességet, "új" érzést, ami elvárható lenne. A felület politikailag korrekten fogalmazva célszerû, hétköznapi szóval pedig szürke, unalmas.
+
+Sok újdonság
+
+Az újdonságok jelentõs része azonban nem kozmetikai, a csomag egyes komponenseit természetesen továbbfejlesztették -- a változások hol kisebbek, hol nagyobbak. A Writer szövegszerkesztõ például már képes egy dokumentumnak egyszerre több oldalát is megjeleníteni, ha elegendõ hely áll rendelkezésre a képernyõn -- az Office 2003-ból ismert szolgáltatást a felhasználók régóta kérték a fejlesztõktõl. További fontos fejlesztés ugyanitt, hogy a dokumentumokhoz fõzött jegyzeteket már egy oldalsávon láthatjuk, ráadásul a különbözõ felhasználóktól származóakat színek különböztetik meg -- egyszerû, de nagyszerû fejlesztés.
+
+Az OpenOffice.org 3.0-ban a Calc táblázatkezelõ támogatja a munkafüzetek akár egyidejû megosztását, és a különbözõ felhasználók által bevitt adatok egyesítését, egyúttal megakadályozza egymás munkáinak szimultán felülírását. A Calc újdonságai közé tartozik még egy lineáris megoldóprogram (Solver), amely teljesen integrálódik a táblázatkezelõbe. Az igazán nagy táblázatokkal dolgozó felhasználók annak örülhetnek, hogy már 1024 oszlopa lehet egy táblának, a vizuális finomságokra vevõk pedig az új színsémáktól lesznek minden bizonnyal boldogok.
+
+Az Impress prezentációkészítõ egy táblázatszerkesztõvel gazdagodott, így a felhasználóknak már nem kell kilépnie az alkalmazásból, ha egy táblázatot szeretnének készíteni és beszúrni, megtehetik a programon belül. Vannak olyan dolgok is azonban, amelyek hiányoznak az OOo 3-ból, a programcsomag továbbra sem tartalmaz például az Outlookhoz hasonló levelezõt -- a Mozilla Thunderbird és Lightning ígért integrációjával kapcsolatban nem történtek látható elõrelépések.
+
+Hamarosan magyarul is megtanul
+
+Az OpenOffice.org 3.0 a legtöbb platformon elérhetõ, beleértve a Windows, Linuxot, Mac OS X-et, valamint a Sun Solaris 10-et. A hatalmas érdeklõdés miatt azonban az OpenOffice.org szerverei gyakorlatilag elérhetetlenek, a szerencsével elindított letöltések pedig cikkünk készítésekor csigalassúak. A szoftver most még csak angolul, németül, franciául, olaszul, oroszul, valamint néhány további nyelven tud, a magyar változat készítése már zajlik az FSF.hu égisze alatt, de az eredményre még néhány hetet várni kell. 

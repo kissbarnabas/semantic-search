@@ -1,0 +1,12 @@
+Az Intel és az Ericsson noteszgépbe építhetõ lopásgátlón dolgozik
+
+Az Intel és az Ericsson közösen fejlesztett ki egy olyan megoldást, amely az ellopott notebookokon tárolt információkat tenné olvashatatlanná és a gép visszaszerzését segítené. Az új technológiával felvértezett számítógépek akár a jövõ év második felében elérhetõvé válhatnak elõször a Lenovo, majd a Dell és a Toshiba notebookjaiban is.
+
+
+
+Ha a felhasználó észreveszi, hogy a gépének hûlt helye, csak annyi dolga van, hogy egy SMS-üzenetet küldjön a noteszben található SIM-kártya számára, mely lezárja a gépet, használhatatlanná téve azt, akár a merevlemez utólagos cseréje után is, mivel a rendszer hardveres szinten képes blokkolni a boot-folyamatot. Ha a gép elõkerül, vagy a tulajdonos tudomására jut, hogy a gép és a rajta tárolt adatok nincsenek veszélyben, csak egy újabb SMS-t kell küldenie a gépre, mely feloldja a lezárt, használatot lehetetlenné tévõ állapotot.
+
+
+
+
+ Az ellopott gépen tárolt adatok véglegesen is olvashatatlanná tehetõk, az új védelmi rendszerben arra is lehetõség van, hogy a titkosított adatok visszafejtéséhez szükséges kód is törlõdjön. Annak érdekében, hogy a sokszor több ezer dolláros noteszgép helyzete is ismertté váljon, a biztonsági modul egy GPS-vevõt is tartalmaz, mely alkalmas arra, hogy a megfelelõ helyre továbbítsa a gép földrajzi helyzetével kapcsolatos adatokat. A GPS segítségével az is elérhetõ, hogy a notebookot csak az elõre beállított földrajzi helyeken lehessen használni.

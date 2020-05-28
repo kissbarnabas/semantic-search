@@ -1,0 +1,18 @@
+Átlépi a terabájtos álomhatárt a Seagate új merevlemeze
+
+Másfél terabájtos kapacitásrekordot állít fel az asztali számítógépekhez passzoló merevlemezek mezõnyében a Seagate -- a merevlemezpiac vezetõ gyártója elsõként törte át az 1 terabájtos álomhatárt. Az amerikai gyártó egyben azt is világossá tette, hogy a HDD-k kapacitásának növelése mellett a mobil megoldások szegmensében is elkötelezett: még idén jönnek a noteszgépekbe szánt fél terabájtos merevlemezes adattárolók. 
+
+
+
+Augusztustól az amerikai Segate szállítja a világ legnagyobb kapacitású merevlemezét, a nagyjából egy éve piacon lévõ Barracuda 7200.11 modellcsalád legnagyobb tagját. A piacvezetõ gyártó -- akárcsak a széria korábbi tagjainál -- a merõleges adatrögzítési technológia kamatoztatásával növelte a lemeztányérok adatsûrûségét, a másfél terabájtos modell így egy lemeztányéron nagyjából 375 gigabájtnyi adatot képes tárolni. A világrekorder merevlemez négy ilyen lemeztányérból épül fel -- éppen annyiból, mint a korábbi, 1 TB-s csúcsmodell. A Barracuda 7200.11 család legnagyobb kapacitású tagja 32 megabájt puffermemóriát kap és kizárólag Serial ATA II csatolóinterfésszel kompatibilis változat lesz belõle.
+
+A noteszgépeket is kitömik adattal
+
+A Seagate a legnagyobb kapacitású asztali merevlemez bejelentésével egy idõben a noteszgépekbe építhetõ, 2,5 hüvelykes formátumú HDD-k fejlesztésével kapcsolatos terveit is ismertette. Az ütemterv szerint a gyártó még idén piacra dobja a Momentus 5400.6 és 7200.4 modellcsaládokat, melyeknek legnagyobb kapacitású tagjain egyaránt 500 gigabájtnyi adat tárolható. A két típus közti elsõdleges különbség a lemeztányérokat forgató motor sebessége: az utóbbi családba tartozó modellek ugyan gyorsabbak lehetnek, de a felhasználónak el kell fogadnia a nagyobb sebességbõl adódó hátrányokat is, például a nagyobb áramfelvételt és hõfejlõdést.
+
+
+Az amerikai nagyvállalat egyelõre makacsul kitart korábbi álláspontja mellett, mely szerint az SSD-knek a merevlemezekkel összehasonlítva a  kedvezõtlen ár/érték arányuk miatt egyelõre nem jött el az idejük. Az adattároló-piac meghatározó szereplõje ezért nem is gyárt flashmemória-alapú megoldást, ez a jég azonban korábbi vezetõi nyilatkozatok alapján egy éven belül megtörhet.
+
+Pörgõ tányérok, pörgõ üzlet
+
+A Seagate még áprilisban közölte, hogy leszállította harmincéves fennállásának egymilliárdodik merevlemezes adattárolóját. Az elsõ Seagate merevlemezen 5 megabájtnyi adatot lehetett tárolni, az áprilisi idõpontig eladott egymilliárd adattárolót egyetlen hatalmas, képzeletbeli merevlemeztömmbe építve pedig egy 79 millió terabájtos tárat kapnánk. A gyártó mindemellett optimista a merevlemezpiac jövõjét illetõen: a Seagate várakozásai szerint a következõ egymilliárd HDD leszállításához elég lesz öt év is.

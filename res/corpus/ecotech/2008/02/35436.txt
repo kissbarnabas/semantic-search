@@ -1,0 +1,33 @@
+Könnyebb beszélni a környezettudatosságról, mint megvalósítani
+
+Szívesen beszélnek a környezetvédelemrõl, a környezettudatosságról a magyar vállalatok, de tenni még csak kevesen hajlandók érte -- derül ki abból a kutatásból, amelyet a GKIeNet készített a Sun Microsystems megbízásából. A reprezentatív felmérés az 50-nél több alkalmazottat foglalkoztató hazai vállalatokra terjedt ki, az adatfelvétel során a GKIeNet 750 vállalati felsõvezetõt keresett meg.
+
+
+
+Környezettudatosnak vallják magukat a hazai cégek
+
+Bár a cégek életében egyre nagyobb szerepe van a környezettudatosságnak, ennek hátterében leginkább a szabályozások által támasztott elvárások állnak. A GKIeNet felmérésébõl kiderült, a vállalatok környezettudatossá válása szinte kizárólag attól függ, a vezetés megfelelõen elkötelezett-e ebben a kérdésben. Ugyan a vállalatok saját bevallása szerint a környezettudatosság és a versenyképesség nem feltétlen zárja ki egymást, sõt, egyes iparágakban (pl. halászat, mezõgazdaság, vendéglátás) a fontos versenyképességi tényezõk között szerepel, a cégek ma még csak keveset tesznek azért, hogy mûködésük valóban környezettudatos legyen. 
+
+
+
+Zöld kártya
+Az IT-szállítók hirtelen "zölddé" válásának legfontosabb oka az ügyfelek elvesztésétõl és a kormányzati szabályozástól való félelem, a környezetvédelmi szempontok szinte egyáltalán nem játszanak szerepet -- derül ki egy, a PricewaterhouseCoopers által elkészített tanulmányból. A környezetbarát, energiarakarékos termékek iránti kereslet növekedésének legfõbb mozgatórugója az energiaárakban keresendõ, a válaszadók 60 százaléka esetében ez a fõ motiváció.
+
+
+
+Furcsa kettõsség figyelhetõ meg a pénzügyi szolgáltatóknál: a GKIeNet felmérése szerint ezek a cégek tartják a leginkább összeférhetõen a környezettudatosságot és a költséghatékonyságot "úgy általában", azonban saját tevékenységükben kevéssé tartják kivitelezhetõnek, és összességében is õk értékelték a legkevésbé versenyképességi jellemzõnek. Hasonló ellentét figyelhetõ meg a vendéglátásban és szálláshely-szolgáltatásban, a szektor szereplõi a versenyképességi szempontok között elõkelõ helyen említették a környezettudatosságot, azonban a beszerzéseknél e cégek fordítanak a legkevesebb figyelmet a tényezõre.
+
+Noha a válaszadók több mint kétharmada állította azt, hogy a beszerzéseik során figyelembe vesznek környezetvédelmi szempontokat is, valójában ez a legutolsó szempont azok közül, amit mérlegelnek. A cégek 47 százaléka számára a környezettudatos beszerzés mindössze annyit jelent, hogy azonos ár esetén a "zöldebbet" választják. A vásárlásoknál a legfontosabb szempont az ár, amelyet a minõség, a teljesítési határidõ, az élettartam és az összköltség követ. A megkérdezett cégeknek mindössze 12 százaléka preferálja beszerzéseinél a minõsítetten "zöld" termékeket és szolgáltatásokat, és mindössze 7 százalék volt azok aránya, akik nagyobb árkülönbség esetén is e mellett döntetének.
+
+Arra a kérdésre, hogy miért nem foglalkoznak a beszerzéseknél a környezeti hatásokkal, a legtöbben (47%) azt válaszolták, hogy az õ iparágukban, az általuk beszerzett termékek vagy vásárolt szolgáltatások esetében ez nem értelmezhetõ, illetve hogy a kiélezett versenyhelyzetben nem engedhetik meg maguknak, hogy ezzel törõdjenek. A kutatásból kiderült, hogy a környezetvédelem egyedül a társadalmi felelõsségvállalás területén kap kiemelt figyelmet a vállalatok részérõl, a cégek az erre a célra elkülönített büdzséjükbõl szívesen áldoznak erre, azonban a mindennapjaikba még egyáltalán nem épült be a környezettudatos gondokodás. 
+
+Áramzabáló adatközpontok
+
+Az informatika esetében a környezettudatosság számos területen jelen lehet. Az elsõ és talán legfontosabb az adatközpontok energiafogyasztása, ami egyre aggasztóbb méreteket ölt. A Gartner becslése szerint az IT-büdzséknek ma még csak 10 százalékát adja az energiaköltség, de ez pár éven belül akár 50 százalékra is növekedhet. Mára valósággá vált, hogy egy szerver élettartama során nagyobb értékû energiát fogyaszt el, mint amennyi a gép bekerülési költsége volt, ezért az energiahatékonyság szerepe felértékelõdött.
+
+További problémát jelent, hogy az adatközpontok és maguk a berendezések sem használják fel hatékonyan az energiát. Nem csak arról van szó, hogy a szerverek és tárolók kapacitásuk töredékén üzemelnek, hanem arról is, hogy az energiaellátási lánc minden elemében jelentõs veszteség keletkezik. A Sun egyik adatközpontjában még 2006-ban elvégzett számítás szerint a bejövõ, a szolgáltató által kiszámlázott energiának mindössze 49 százalékát használták fel a szerverek, tárolók és más informatikai eszközök mûködtetésére, a hûtésre további 17 százalékot fordítottak, a fennmaradó 34 százalék pedig veszteségként jelentkezett.
+
+
+ A vállalat éppen ezért átfogó modernizációs programba kezdett, amelynek keretén belül konszolidálta adatközpontjait. A folyamat során több ezer szervert, tárolót és más berendezést cseréltek le a cégnél, a végeredmény azonban magáért beszél: 66 százalékos helymegtakarítást és 61 százalékos energiaköltség-megtakarítást értek el azáltal, miközben a számítási és adattárolási kapacitás egyaránt növekedett. A cég éves energiaszámlája egyik évrõl a másikra.
+
+A legtöbb adatközpontot még azokban az idõkben tervezék, amikor az energiahatékonyság nem volt szempont, és ezek a létesítményenek nem voltak felkészítve arra az óriási kapacitásbõvülésre, amelyeket az egyre kifinomultabb üzleti igények generáltak. Ma már nem ritka, hogy egy rackszekrénybe akár 20-25 kilowattot fogyasztó berendezéseket sûrítsenek, ezeknek a táplálása és a hûtése egyaránt komoly kihívást jelent az üzemeltetõk számára. A Gartner úgy véli, 2008-ban az adatközpontok 50 százaléka éri el kapacitásának maximumát, az energia a hûtés vagy egyszerûen helyszûke miatt.

@@ -1,0 +1,12 @@
+MailShadowG: Exchange Server biztonsági mentése Gmaillel
+
+A Cemaphore Systems bétateszt formájában elindította kisvállalatoknak szánt MailShadow for Google Apps szolgáltatását, amely az Exchange biztonsági mentését végzi el -- a postafiókokat, naptárakat és címjegyzékeket a Gmailben tárolva. 
+
+
+
+A MailShadow for Google Apps (röviden MailShadowG) lényege, hogy a postafiókot, naptárat és címjegyzéket folyamatosan szinkronizálja a Gmaillel, így a biztonsági mentésekkel már nem az ügyfélnek kell törõdnie, az adatok megõrzésérõl a Google, és annak globális infrastruktúrája gondoskodik. A szinkronizáció a tranzakciók szintjén bonyolódik, ami azt jelenti, hogy az adatok az Outlookban és a Google Appsban is folyamatosan elérhetõk, így az Outlook Web Accesst is kiváltja, bár a felhasználói felületek természetesen eltérõek.
+
+
+A vállalatok és fogyasztók számára a MailShadowG egy olyan megoldást kínál, amely az e-mailek, naptárak és címjegyzékek teljes védelmét kínálja anélkül, hogy erre saját infrastruktúrát kellene létrehozni vagy fenntartani. A MailShadowG képes a külsõ e-mail szolgáltatást úgy is kezelni, mintha az egy Exchange Server lenne, így akár Exchange Serverre sincs szükség, ugyanakkor a felhaszálók élvezhetik az Outlook minden elõnyét és szolgáltatását. A Cemaphore tervei szerint a MailShadowG késõbbi változatai együttmûködnek majd a Google mellett más online e-mail szolgáltatóval is.
+
+A MailSahdowG egyelõre bétaváltozatban tesztelhetõ, az éles indulást követõen pedig havidíjért lesz elérhetõ.

@@ -1,0 +1,16 @@
+A vezeték nélküli USB ellenfelét fejleszti a Sony
+
+[Techworld] Saját vezeték nélküli, néhány centiméteres hatótávolságú, azaz NFC-technológiára épített adatátviteli specifikációt fejleszt a Sony, mellyel a hasonló megoldásokkal, például WirelessUSB-vel kelne versenyre.
+
+
+
+A Sony saját fejlesztésû kommunikációs rendszere 560 megabit/s-os elméleti maximális adatátviteli sebességre képes, ennél fontosabb azonban, hogy a technológiával a valósan elérhetõ sebesség körülbelül 375 megabit/s, mely több mint 46 megabájtnyi adat átvitelét jelenti másodpercenként. A technológia így leválthatná a Firewire és USB2.0 kapukat a különbözõ eszközökön.
+
+A Sony technológiája a Las Vegasi Consumer Electronics Show rendezvényen is bemutatkozott, ahol egy Transfer Jettel ellátott digitális fényképezõgép képeket töltött át egy, a rádióhullámokat megfelelõen értelmezni képes Sony fotómegjelenítõ készülékre. A vállalat nagy jövõt jósol az évek óta fejlesztett technológiának, mely azonban még legalább egy évig nem jelenik meg a kereskedelmi termékekben.
+
+
+A Transfer Jet egy teljesen különálló, újonnan fejlesztett rendszer és nem kapcsolódik az Ázsiában már széleskörûen használt Sony Felicához. A Felica technológiát okoskártyáknál használják a távol-keleten vezeték nélküli adatátvitelre, sávszélessége azonban nem elegendõ ahhoz, hogy a szórakoztatóelektronikai készülékeknél is használható legyen.
+
+
+
+A Transfer Jet 4,5 GHz-es frekvencián kommunkál, teljesen védelem nélkül, hiszen az alacsony energiájú, magasfrekvenciás jeleket csupán néhány centiméteres távolságból lehet felfogni. A technológia fõként mobiltelefonokban, konzolokban, hordozható MP3-lejátszókban, digitális fényképezõgépekben használható, olyan helyeken, ahol megoldható a készülékek egymáshoz közelítése.

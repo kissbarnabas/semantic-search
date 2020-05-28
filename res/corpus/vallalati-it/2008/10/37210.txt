@@ -1,0 +1,34 @@
+Egérutat nyerhet a Shanghai a Nehalemmel szemben
+
+Izgalmasnak ígérkezik a november a processzorok terén, ugyanis öt nap eltéréssel dob piacra új processzorcsaládot az AMD és az Intel. A két vállalat ugyanakkor ismét eltérõ termékbevezetési stratégiát választott, ami az AMD számára kedvezhet, elsõsorban a vastag profittal bíró szerverpiacon.
+
+
+
+Kétutas szerverekbe csak jövõre
+
+Az Intel nagy horderejû bejelentésre készül november 17-én, ekkor indítja ugyanis hivatalosan is útjára a Nehalem generációt, mely az elmúlt évtized egyik legjelentõsebb fejlesztésének számít. Az új chipek ugyanis lecserélik az Intel által három évtized óta alkalmazott buszrendszert, és új, pont-pont összeköttetésekre (Quick Path Interconnect) és integrált memóriavezérlõkre építõ rendszerarchitektúrát vezetnek be. Ezt a váltást az AMD 2003-ban lépte meg, és tette egycsapásra elavulttá az Intel buszos megoldását, mely különösen a többfoglalatos szerverekben vált a teljesítmény gátjává.
+
+A Nehalem, melynek jelentése héberül folyamok, a 2006-ban bemutatkozott Core-mikroarchitektúra erõteljes továbbfejlesztése. Ahogyan kódneve is utal rá, az Intel elsõ monolitikus négymagos designja (a jelenlegi négymagos termékek két szilíciumlapkát tokoznak össze) elsõsorban a párhuzamos végrehajtást helyezi elõtérbe, vagyis elsõsorban a szervereket és munkaállomásokat tartották szem elõtt a mérnökök a PC-szoftverek alatt jól muzsikáló Core továbbfejlesztésénél.
+
+Ez a koncepció teljes egészében áthatja a chipet: visszatér a Hyper-Threading, harmadával növekedett az egyidejûleg ütemezett utasítások száma, gyorsabb szálszinkronizációs primitívek, hatalmas 8 megabájtos osztott L3 cache, és alacsony késleltetésû, nagy sávszélességû processzor-összekötetések több utas rendszerekben. Mindezek a Nehalemet a jól párhuzamosított, memóriaérzékeny kódok futtatására teszik leginkább alkalmassá, melyek tipikusan a késleltetésérzékeny szerverfeladatok, valamint a számításintenzív és sávszélességzabáló professzionális munkaállomás szoftverek, mint amilyen a hang, kép- és videoanyagok szerkesztése is.  
+
+
+[+] Nehalem: minden részlet a helyére került
+
+Ennek ellenére a november 17-i rajtról éppen a kétutas kiszolgálókba és munkaállomásokba szánt Xeonok fognak hiányozni a jelek szerint. Az Intel három, felsõ- és középkategóriás asztali változatot jelent majd be, a Core i7-965, az i7-940 és az i7-920 modelleket, melyek órajele rendre 3,2, 2,93 és 2,66 gigahertz lesz. Meg nem erõsített értesülések alapján egyutas rendszerekbe szánt Xeonok követik az asztali változatokat, ezekrõl azonban a rajttal kapcsolatosan egyelõre nincs hír. Az asztali változatok tesztjei november 3-án árasztják el a netet, ekkor ér véget az embargó. A 731 millió tranzisztort integráló Nehalem területe 261 négyzetmilliméter, így elõállítása viszonylag drága, emiatt csak kétmagos változatokból várhatóak olcsó modellek -- az i7-920 nettó listaára 56 ezer forintnak felel meg.
+
+
+Szerverszállítóktól származó iparági információk alapján az Intel az elsõ negyedévben kezdi meg a kétutas rendszerekbe szánt szerverváltozatok (Nehalem-EP) szállításait, és nagyobb mennyiségben a negyedév végén, vagy a második negyedév elejétõl válik elérhetõvé. A jelenlegi Intel Xeon-kínálattal szemben a Nehalemek drasztikus teljesítménynövekedést ígérnek az átfogó továbbfejlesztéseknek köszönhetõen. Az Intel belsõ becslése szerint a számítás- és memóriaintenzív SPEC CPU2006 kódok alatt átlagosan 40-100 százalékkal múlja felül a jelenlegi legerõsebb négymagos Xeonokat. A Xeon MP változatok 2009 õszére várhatóak, a nyolcmagos Beckton (Nehalem-EX) formájában, három DDR3-csatorna helyett négy FB-DIMM csatornával.
+
+Window of opportunity
+
+Hogy az Intel eredetileg is így tervezte-e az ütemtervet, vagy az új rendszerarchitektúra miatt a többprocesszoros rendszerek validációja vett a vártnál több idõt igényben, nem tudni, de végeredményben mindegy is. Mindez azonban lehetõséget adhat az AMD-nek, hogy levegõhöz jusson a szerverpiacon, és esetleg visszaszerezzen az elmúlt két évben elveszett részesedésébõl. A processzorgyártó november 13-án dobja hivatalosan is piacra a Shanghai kódnevû Opteron chipeket, melyeknek szállításai a partnerek felé már javában folynak, így még idén felbukkanhatnak kettõ- és négyutas szerverekben.
+
+Az AMD-nél rendkívül fokozott várakozásokkal néznek a Shanghai közelgõ rajtja elé. A cég elsõ 45 nanométeres csíkszélességgel gyártott processzora a tavaly botladozásokkal elinduló négymagos Barcelona miniatürizált és minimálisan továbbcsiszolt változata, mely elsõsorban háromszor nagyobb, 6 megabájtos L3 gyorsítótárral, magasabb órajelekkel, és javított intrachip kommunikációval rendelkezik. Míg a Nehalem teljesen új platformot igényel, addig a Shanghai beilleszthetõ a jelenlegi Socket F infrastuktúrába, és gyors felfutásra számíthat. 
+
+A Shanghai debütáló órajele akár a 2,8 gigahertzet is elérheti, mellyel a Nehalem hiányában eredményesen veheti fel a küzdelmet az adatbusztól korlátozott négymagos Xeonokkal a számításintenzívebb szerverkódok alatt is (például Java), és tompíthatják a hatmagos óriás Xeon MP, a Dunnington hatását a négy-nyolcutas szerverek zsíros nyereséggel kecsegtetõ szegmensében. A cégnél fogadkoznak, hogy tanultak a tavalyi Barcelona-rajtból, és hatásos belépõvel érkezik az új szerverprocesszor három hét múlva. A skálázódás javítása érdekében az AMD elsõ szerverplatformja, a Fiorano már lehetõvé teszi a koherens HyperTransport 3 linkek használatát is valamikor 2009 második felében, és nagyjából ezidõtájt érkezik a hatmagos Instanbul is. 
+
+
+[+] Fiorano, az AMD elsõ szerverplatformja 
+
+Az AMD-nek szüksége is van a 3-6 hónapos egérútra a Nehalemmel elõtt, mely a szerverszoftverek többsége alatt várhatóan kíméletlenül egyértelmûvé teszi fölényét a Shanghaijal szemben is. Az IDC második negyedéves adatai alapján a szerverek és munkaállomások terén az AMD 13,8 százalékos részesedéssel bírt, ami gyakorlatilag fele akkora, mint az asztali piacon mért 26,4 százalékos terület. Bár volumenre a PC-piac körülbelül harmincszor nagyobb, egy szerverbe több processzort is értékesíteni lehet, az átlagos eladási ár már nagyjából négyszeres, a realizálható nyereség pedig ennél is jóval magasabb, akár egy nagyságrendet is kitehet, így a szerverekbõl kitermelhetõ nyereség elérheti, vagy meg is haladhatja az asztali szegmensét. Az IDC 2008 második negyedévére 2 millió x86-kiszolgáló értékesítését becsülte, az iSuppli becslése szerint pedig jövõre több mint 10 millió x86-os szervert értékesítenek világszerte, 

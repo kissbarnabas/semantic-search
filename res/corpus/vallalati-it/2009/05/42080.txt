@@ -1,0 +1,16 @@
+Saját desktopszinkronizációs cloudot kap az Ubuntu
+
+A Canonical új szolgáltatása lényegében megegyezik a már korábban elindult hasonló online tárolókkal. Ingyenes indulócsomagot és desktopintegrációt kínál például a Wuala és a Dropxbox is -- sokan utóbbihoz hasonlítják az Ubuntu One szolgáltatását is. Mindkét szolgáltatás integrálódik Windows, Linux és MacOS X környezettel, vagyis megjelenik a meghajtók közt fájlrendszerként, és drag&amp;drop módszerrel is mozgathatjuk oda-vissza az adatokat. Tárhelyünket böngészõn keresztül is elérhetjük, így gyakorlatilag egy interneteléréssel gyakorlatilag sosem felejthetjük otthon vagy veszthetjük el adatainkat, ahhoz bármikor, bárhonnna hozzáérhetünk -- sõt meg is oszthatjuk azokat pubklikus URL generálásával is.
+A Wuala további érdekessége, hogy peer-to-peer technológiával igyekszik
+tehermentesíteni saját szerverfarmját, vagyis a felhasználók egymás
+közt szétszórva is tárolják adataikat, így viszonylag olcsón, évi 60 euróért tud kínálni például 100 gigabájtnyi helyet, de akár 1 terabájtig is skálázható. Amennyiben mi is hajlandóak
+vagyunk saját háttértárunkból felajánlani, úgy azzal fizethetünk is
+további kapacitásokért, az átváltási arány az online töltött idõnktõl
+függ. A Dropbox, melynek bétatesztjében 200 ezer ember vett részt, évi 100 dollárért ad 50 gigabájtot. A Wuala 1 gigabájtig, a Dropbox 2 gigabájtig ingyenes.
+
+
+
+Ehhez képest az Amazon felhõjében futó, jelenleg meghívásos bétaként üzemelõ Ubuntu One havi 10 dollárért 10 gigabájtot kínáló elõfizetése nem tûnik túlságosan vonzónak, ráadásul kizárólag az Ubuntu 9.0.4 kiadásától és felfelé használható, ami erõsen behatárolja használhatóságát sokak számára azok közül, akik egyébként használnak Ubuntut, hiszen jó eséllyel Windowst vagy más Linux-disztribúciót is használnak más számítógépeken, például a munkahelyükön.
+
+
+Az Ubuntu One számára azonban a fájlszinkronizáció valószínûleg csak az elsõ lépés azon az úton, hogy teljeskörû dekstopszinkronizációs és backup-szolgáltatássá nõje ki magát, azaz nemcsak az adatainkat, de például alkalmazásainkat is képes legyen szinkronban tartani. Sõt, a július második felében megrendezésre kerülõ Open Source Conventionön, vagyis az OSCON-on az Ubuntu One-ról szóló elõadás absztraktja alapján a Canonical megnyitja a One API-ját külsõ fejlesztõk elõtt is, hogy további szinkronizációs, kollaborációs funkcionalitással felvértezett alkalmazásokat tudjanak készíteni. Amennyiben a Canonical bizonyítottnak látja az Ubuntun kikísérletezett cloudját, valószínûleg további platformokra is portolja a szélesebb körû elterjedés és kereskedelmi siker érdekében.

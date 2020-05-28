@@ -1,0 +1,12 @@
+Az informatikai vezetõk is fittyet hánynak a mobil eszközök biztonságára
+
+Az okostelefonok használata vállalati környezetben sokkal kockázatosabb, mint a notebookoké, és még az IT-vezetõk sem számolnak a kockázatokkal -- derül ki egy felmérésbõl, amelyet a végpontbiztonsági megoldásokat fejlesztõ Credant Technologies készített mintegy 300 informatikai vezetõ bevonásával.
+
+
+
+A válaszadók kevesebb mint 80 százaléka tartotta kockázatosnak a notebookokat, 88 százaléka vélte úgy, hogy a hordozható adattárolók (pl. pendrive, mobil merevlemez) használata veszélyes lehet, az okostelefonokat és PDA-kat pedig 94 százalék ítélte veszélyesnek. Érdekes módon a biztonságért annyira aggódó IT-vezetõknek csak 40 százaléka titkosítja a laptopján az állományokat -- a fennmaradó 60 százalék saját bevallása szerint semmi olyasmit nem tárol a gépen, amit érdemes lenne komolyabban védeni. Az okostelefonok és PDA-k esetében az arány még rosszabb: csak minden tizediken titkosítják az állományokat a tulajdonosok.
+
+
+ A PDA-kkal és okostelefonokkal kapcsolatos legfontosabb veszélyforrás, hogy a megkérdezett IT-vezetõk több mint fele semmilyen formában nem védi a rajta tárolt információkat. A válaszadók több mint százaléka úgy tud a mobil eszközérõl a vállalati hálózathoz csatlakozni, hogy a folyamat során semmiféle azonosítás nem történik, így ha a telefon vagy PDA idegen kézbe kerül, a tolvaj nem csak a készüléken tárolt bizalmas adatokhoz juthat hozzá könnyen, hanem a vállalati hálózatokhoz is hozzáférhet.
+
+A legtöbb cégnél már vannak biztonsági elõírások az informatikai eszközök használatára vonatkozóan, de a Credant felmérése szerint a szervezetek közel háromnegyedénél ez egyáltalán nem terjed ki az olyan mobil eszközökre, mint az okostelefonok és tenyérgépek, 68 százalék pedig a mobil adattárolók (pendrive-ok, külsõ merevlemezek) kockázatát hagyja teljesen figyelmen kívül. Peter Mitteregger, a Credant alelnöke szerint azok a cégek, amelyek nem foglalkoznak a mobil eszközeik biztonságával, komoly kockázatnak teszik ki a vállalati hálózatot, amelynek a védelmére egyébként rengeteget költenek.

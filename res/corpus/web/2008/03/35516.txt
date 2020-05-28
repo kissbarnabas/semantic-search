@@ -1,0 +1,12 @@
+Szüksége lesz ötödik bétára is a Firefox 3-nak
+
+Szükség lesz egy ötödik bétára is, mire elkészül a végleges Firefox 3.0, közölte a Mozilla múlt hét pénteken. Az elmúlt egy hónapban ez a második alkalom, hogy újabb bétát jelent be. 
+
+
+
+A Mozilla pénteken közölte, hogy a most ismert kritikus hibák számának ismeretében szükség lesz egy ötödik béta kiadásra, mielõtt véglegesítik a kódot. Mike Beltzner, a böngészõ felületének designere közölte, a további béták biztosítják majd, hogy a weblapok megjelenítését és a használatot érintõ változtatásokat szélesebb körben és alaposabban tesztelik ki. A beta 5 kódja március 18-án kerül befagyasztására várhatóan, megjelenése április elejére tehetõ.
+
+
+A népszerû böngészõ 3-as verziójának jelenleg a beta 3 változata publikus, a már fagyasztásra került beta 4 megjelenése akár már e hétre várható. A Mozilla csapat szándéka érezhetõen az, hogy a beta 5 legyen az utolsó béta kiadás, ugyanakkor szükség esetén továbbiakkal csiszolhatják a szoftver kódját. A felület várhatóan a beta 5-tel véglegessé válik, így a lokalizációt végzõ csapatok hozzáláthatnak a munkához, hogy készen legyenek a végleges 3.0 megjelenésére.
+
+A Firefox 3 számos jelentõs változást hoz a 2-es verziócsaládhoz képest, így alapjaiban átdolgozásra került az elõzmények kezelése, az oldalakat nem címük, hanem nevük, témájuk alapján is megtaláljuk; gyorsabbá és kényelmesebbé vált a könyvjelzõk hozzáadása és eltávolítása; javult a memóriamenedzsment, tartós használat alatt kevesebb helyet emészt fel a szoftver; okosabb lett a letöltéskezelõ, képes felfüggeszteni és folytatni egy folyamatban lévõ letöltést; immár optikai zoomra is képes a böngészõ, hasonlóan az Operához és IE7-hez.

@@ -1,0 +1,16 @@
+AMD: új energiatakarékos processzorok és csúszás az új gyártástechnológia bevezetésével
+
+[DigiTimes/HWSW] Kettõ új, energiatakarékos asztali számítógépekbe építhetõ processzort kínál novembertõl OEM-partnereinek az AMD, ezzel együtt jövõre csúszhat a cég elsõ 45 nanométeres asztali processzorainak piaci premierje -- írja a DigiTimes gyártói forrásokra hivatkozva. Utóbbi információt a HWSW magát megnevezni nem kívánó forrása is megerõsítette.
+
+
+
+Novemberben két új, elsõsorban kisméretû, kis teljesítményigényû feladatokra szánt energiatakarékos számítógépekbe szánt processzort vezet be OEM-kínálatába az AMD: az Athlon 2650e és az Athlon X2 3250e a cég UVC (Ultra-Value Client) megoldásokhoz fejlesztett termékkínálatát bõvíti. A 65 nanométeres gyártástechnológiával készülõ processzorok órajele alig tér el egymástól: az Athlon 2650e 1,6, míg a kétmagos Athlon X2 3250e 1,5 gigahertzen ketyeg majd. A chipek áramfogyasztását a lehetõségekhez mérten igyekezett a minimálisra szorítani a gyártó, a két típus TDP-je így rendre 15 és 22 watt lesz.
+
+A processzorgyártó elsõként az Acer, az Asustek és a Shuttle számára szállítja az új energiatakarékos processzorokat -- az ezekre épülõ számítógépek decemberben kerülhetnek a boltokba. Kiszivárgott információk szerint ugyanebben az idõpontban kerülhet forgalomba az AMD-nél egy új, csúcskategóriás asztali processzor a végfelhasználóknak szánt Black Edition termékcsaládban, ennek paraméterei azonban egyelõre nem ismertek. A két energiatakarékos chip érkezése elõtt -- a tervek szerint még októberben -- egy újabb hárommagos Phenom X3 processzor is feltûnhet az AMD termékportfóliójában: a Phenom X3 8850 2,5 GHz-en jár majd, TDP-je 65 watt lesz.
+
+
+A tajvani lap forrásai szerint a második számú processzorgyártónál mindezek mellett csúszik a 45 nanométeres gyártástechnológia bevezetése, így az eredetileg év végére ígért négymagos Deneb processzorok szállítása legjobb esetben csak jövõ januárban kezdõdhet.
+
+A késlekedés érzékenyen érintheti az AMD-t, mely rendkívül feszített tempóban igyekszik piacra dobni az új processzorokat -- az elsõ szilícium január elején született meg, és július közepén már a kereskedelmi tömegtermelés beindítását tervezte a vállalat, miközben a próbagyártás már a félév vége elõtt beindult, árulta el korábban Dirk Meyer frissen kinevezett elnök-vezérigazgató. "Sínen vagyunk a 45 nanométeres tervünkkel [...] Valójában az elõzõ negyedév végén elindítottuk a termelést és haladunk a felé, hogy a negyedik negyedév elején elkezdjük a kereskedelmi szállításokat" -- nyilatkozta Meyer a nyáron.
+
+Az Opteronokba szánt Shanghait, és asztali Phenom-változatát, a Denebet a hannoveri CeBIT-en demózta elõször a vállalat, a chipek prototípusai már hónapok óta a partnereknél vannak. A szállítás csúszásának pontos okáról egyelõre semmit nem lehet tudni, a gyártó akárcsak ezt, úgy az új termékekkel kapcsolatos pletykákat sem kommentálta.

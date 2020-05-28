@@ -1,0 +1,29 @@
+IBM: robbanásszerûen növekszik a webkettes üzleti szoftverek piaca
+
+Az újgenerációs munkavállalóknak teljesen más elképzelése van az együttmûködésrõl és a munkavégzés mikéntjérõl, mondta David Farrell, az IBM kollaborációs szoftverekért felelõs alelnöke egy budapesti rendezvényen, ahol a vállalat webkettes üzleti szoftvereit prezentálta. "Az új dolgozók ugyanolyan szintû kollaborációt várnak, mint amilyennel magánemberként rendelkeznek", miközben a szoftver, fájlformátumok, technológia senkit sem érdekel, fejtette ki.
+
+
+
+A nyílt szabványoké a jövõ, mindig is azoké volt
+
+"A piac kezdi elutasítani a Microsoft licencelési gyakorlatát" -- mondta el a HWSW-nek egy beszélgetés során Farrell. Szerinte a zárt eszközöket szállító vállalatokra növekvõ nyomás nehezedik, ahogyan az IT-ipar a szabadalmakkal védett rendszerektõl a nyílt termékek felé mozog. Az IBM nagyon is jól ismeri ezt a folyamatot, hiszen a saját bõrén tapasztalta meg két évtizeddel ezelõtt. "Késõn vettük észre a UNIX-ot, és majdnem tönkrementünk bele", utalt Farrell arra, hogy az IBM túlságosan sokáig kardoskodott a mainframe rendszerei mellett, és nem lépett idõben a nyílt sztenderdek köré épülõ UNIX-ok piacára -- az IBM AIX 1986-ban jelent meg,  "10 évünkbe telt, mire magunkhoz tértünk". "A Microsoft is ugyanezen a pályán mozog", véli, kérdés, idõben lépnek-e.
+
+Arra a kérdésre, hogy nem ellentmondásos-e a szoftverek közönségességérõl, relevanciájának csökkenésérõl beszélni, és egyben szoftvereket értékesíteni, Farrell úgy válaszolt, mindig lesz piaca az értéknövelt szoftvereknek, melyeket funkcionalitásuk miatt vásárolnak meg, nem pedig licencelési vagy támogatási kényszerbõl. Az IBM stratégiája itt az, hogy "a leginnovatívabb termékeket biztosítsuk, az élen maradjunk", az innováció alapjai pedig a szabványok. Farrell elõadásában egyúttal költségbeli megfontolásokra is rámutatott: az IBM állítása szerint egy klienst nagyjából negyed-ötödakkora költségen lát el Linuxon is futó szoftverekkel, beleértve a produktív és kollaboratív Lotus eszközöket, mint a Microsoft.
+
+A webes technológiák és felhasználási modellek fejlõdésében egyértelmûen a hétköznapi internet, a fogyasztói piac játssza a vezetõ szerepet, az üzleti alkalmazások, de fõként az üzleti ügyfelek gondolkodásmódja évekkel lemaradva követi. Ez a szakadék azonban Farrell szerint csökken, ahogyan megváltozik a cégek gondolkodásmódja.
+
+ Ezzel párhuzamosan új piaci szegmensek születnek rohamos sebességgel: miközben a levelezés és azonnali üzenetküldés 3-4 milliárd dolláros piaca telítõdött, valamint a vállalati portálok szegmense is az érettség szakaszába lépett, addig a kollaborációs eszközök jelenleg kicsi, néhány százmillió dolláros piaca három számjegyû növekedést mutat évente, párhuzamosan az integrált, egységes kommunikációs megoldásokkal, és az elõrejelzések szerint forgalmuk néhány év múlva több tízmilliárd dollárra is rúghat.
+
+A hardverek sorsára jutnak-e a szoftverek?
+
+Farrell úgy látja, a fogyasztói piacon rendkívül nehéz relevánsnak maradni szoftverekkel, ugyanis a robbanásszerû népszerûségre szert tévõ webes alkalmazások közötti váltás költsége rendkívül alacsony, a szoftverek egyre inkább webes szolgáltatásokként jelennek meg -- ezért a Microsoftnak igen nagy problémával kell szembenéznie hosszú távon. A Google átütõ sikere jelentette fenyegetést ugyanis mi sem jelzi jobban, mint a Yahoora tett több mint 40 milliárd dollár értékû felvásárlási ajánlat. Egyes vélemények szerint a Linux terjedésének nem az adhat majd lendületet, hogy jobb-e a Windowsnál, hanem az operációs rendszerek éretté válásával elég jó lesz ahhoz, hogy ne számítson, mi fut a kliensen.
+
+[+] Történelmi jelentõségû bejelentés: 30 ezer oldalnyi dokumentációt hoz nyilvánosságra a Microsoft
+
+
+A vállalati piac azonban természetében más, mint a fogyasztói, véli, a különbözõ ügyfelek különféle igényekkel rendelkeznek, és más szempontjaik vannak, mint a fogyasztóknak: skálázhatóság, megbízhatóság, biztonság, egyéni igények. "Olyan szállítót akarnak, amelyik érti az üzletmenetüket [...] mindig lesz igény szoftveres innovációra, mert az üzleti alkalmazásra kell szabni azt. Mindig lesz érték az eszközök integrációjában. Ez az oka annak, hogy middleware-be [Websphere] fektettünk, mert az eszközök között mindig szükség lesz kommunikációra. Autós analógiával élve, az IBM csinálja az utakat". 
+
+
+Felmerül a kérdés, hogy ilyen jövõképpel az IBM miért nem mozog gyorsabban a hosztolt szoftverek terén -- kézenfekvõ magyarázat, hogy a tradicionális szoftverértékesítését nem kívánja szándékosan felváltani vagy kannibalizálni. Farrell ugyanakkor elismeri, hogy nem lehet ellenállni az elkerülhetetlennek. "Tehát mozognunk kell. Láthatjátok, hogy az IBM folyamatosan fejleszti szoftvereit szolgáltatásokká a teljes portfólióban." 
+
+Ehhez azonban nem csak a termékkel kell foglalkozni, ugyanis a hosztolt termékek másmilyen üzleti és értékesítési modellt igényelnek, melyeknek kétségtelenül párhuzamosan kell létezniük a hagyományossal. "A licencelési modell meg fog változni, használat alapúra (pay as you go)" -- mondta az alelnök, majd hozzátette, e téren nagy tapasztalatokkal rendelkezik az IBM az on demand hardverek kapcsán.

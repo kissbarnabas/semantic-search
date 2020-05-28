@@ -1,0 +1,47 @@
+Sangean WFR-1 -- internetrádió heroináron
+
+Az asztali internetrádiók, azaz a hagyományos rádiótunerek és számítógépek keresztezõdésébõl kifejlõdött szórakoztatóelektronikai eszközök egyre több gyártó -- jellemzõen egzotikusabb távol-keleti piaci szereplõk -- kínálatában jelennek meg, ahogy a rádiózás eme új formája iránt egyre nagyobb az érdeklõdés. A digitális rádiózás jövõjét alighanem ez a csapásirány határozza majd meg, amellett, hogy a helyi politika, a mûsorszórók és tartalomszolgáltatók saját érdekeiket szem elõtt tartva sürgetik vagy éppen az összes rendelkezésükre álló eszközzel akadályozzák a földi sugárzású digitális rádióadás (nálunk ehhez a DAB+ szabványt választották az illetékesek) elindulását. 
+
+
+
+A tajvani székhelyû, 1974-ben alapított Sangeannak is akad olyan eszköze, mely az internetrádiókat és a digitális földfelszíni rádióadásokat egyaránt képes befogni. Nálunk most egy olyan, csúcsmodellnek tekinthetõ asztali internetrádió, a WFR-1 fordult meg, mely DAB+ tunert egyelõre nem tartalmaz (ez a típus csak áprilisban érkezik), a hazai mûsorszóró hálózat jelenlegi mûszaki és tartalmi felépítésébõl kiindulva azonban ez aligha számít komoly hátránynak.
+
+Szól a netrádió
+
+A Sangean WFR-1 funkcióit tekintve nagyon hasonlít a korábban nálunk járt Revo iBlik RadioStation asztali internetrádióra, azzal a nem elhanyagolható különbséggel, hogy a WFR-1 a Revo megoldásával ellentétben meglepõen jól szól, cserébe viszont sokkal többet is kérnek el érte. Az eszköz jelen esetben sem más, mint egy internetrádióra kihegyezett célszámítógép, mely nagyjából 16 ezer rádióadást vagy podcastot képes "befogni", ezen kívül FM-rádióként is üzemel, így fogja a földi sugárzású (FM) adókat, emellett van hálózati médialejátszó funkciója is.
+
+
+
+
+A készülék formatervére leginkább a modern elegancia jellemzõ: a WFR-1 a high-end berendezéseket idézõen faburkolatú dobozt kapott, az elõlap fényes mûanyag, leszámítva a hangszórók borítását. A rádió összességében egy rendkívüli jó minõségû berendezés benyomását kelti, ráadásul már a doboz tömege alapján érezhetõ, hogy van benne anyag, ami eleve helyzeti elõny, még akkor is, ha a majd 3 kilogrammos tömeg egy részét minden bizonnyal a beépített tápegység adja.
+
+[+] Revo iBlik internetrádió -- rádiózni szokol?
+
+
+Az internetrádió elõlapján a két hangszóró közé ékelt fényes kezelõfelületen összesen tíz nyomógomb és egy fém tekerõgomb található. Ez az elsõ ránézésre hangerõszabályzónak tûnõ kezelõszerv valójában a navigációt szolgálja a közvetlenül felette elhelyezett, barnás fényû pontmátrixos kijelzõn megjelenõ menüben. A gomboknak ellenben nincs háttérvilágításuk (kivéve a bekapcsológombnak), ráadásul elég halvány a feliratozásuk, így eleinte kissé nehéz kiigazodni a felületen. A hátlapon három jack-csatlakozó (egy fejhallgatókimenet, egy vonalszintû kiement és egy aux bemenet), egy Ethernet-port és egy USB-kapu sorakozik (utóbbi csak szoftverfrissítésre használható). A rádión két antenna található, a nagyobbik az FM-vételt, a kisebbik a WLAN-csatlakozást segíti.
+
+
+
+
+A Sangean WFR-1 üzembe helyezése az átlagos rádióknál megszokottakhoz képest kissé eltérõ, az internetrádió hangolási folyamatában a csatornakeresést az alap internetbeállítások konfigurálása helyettesíti -- ha vezeték nélküli kapcsolatot használunk, itt kell kiválasztanunk a hozzáférési pontot, valamint beállítani a csatlakozáshoz szükséges paramétereket (a WFR-1 a WEP/WPA+PSK titkosítási algoritmusokat egyaránt ismeri). Vezetékes kapcsolatnál erre nincs szükség, az egyszerû és kézenfekvõen használható menüben navigálva azonnal eljuthatunk az internetrádiók listájához, melyek közt mûfaj, régió, népszerûség és más feltételek közt böngészhetünk.
+
+
+ A kedvenc csatornákból maximum húszat lehet elmenteni, ráadásul ezt kényelmesen, egy internetes böngészõben futó felületen is elvégezhetjük, akár távolról is -- a Frontier Silicon Radio Portal nevû oldalán eszközölt beállítások a regisztráció után automatikusan szinkronizálódnak a készülékre. Az FM-csatornák beállítása nem bonyolultabb, mint bármely más, FM-rádiónál, az analóg rendszer támogatja az RDS-üzemmódot is.
+
+
+
+
+
+A WFR-1 a fentieken túl hálózati médialejátszóként is üzemel, így  hálózati DLNA-kliensként is szóra bírható, ami alkalmasint hasznos és jó funkció, kár, hogy arról sehol nem található részletes információ, hogy milyen formátumokat támogat (az MP3 és WMA fájlok lejátszása azért nem okozott gondot neki, tehát a legelterjedtebb formátumokat kipipálhatjuk). A rádió emellett ébresztõként is mûködik, választhatunk, hogy csipogásra, netán a legutóbb hallgatott FM-sugárzású vagy internetes rádióra akarunk ébredni.
+
+Szépen szól, de ennyiért?
+
+A Sangean Wi-Fi-s internetrádiókból álló kínálatának csúcsán elhelyezkedõ WFR-1 amellett, hogy sokoldalú rádiókészülék, méretét meghazudtolóan szépen szól. A két, egyenként 5 watt teljesítményû hangszóró nagyon látványosan dolgozik mind a mély, mind a magas tartományokban, a doboz magasabb hangerõn sem akar szétesni, a jelek szerint tehát a mérnökök az átlagosnál több figyelmet szenteltek a bass-reflex csõvel is ellátott készülékház akusztikai kialakítására. A hangzásvilág bár tisztán is kellõen dinamikus, egy hat elõre beállított lehetõséget kínáló, hangszínszabályzónak csúfolt funkcióval tovább paraméterezhetõ: többsávos equalizer helyett a Sangean WFR-1-nél csak a mély- és magashang-kiemeléssel (vagy csillapítással) lehet játszani.
+
+
+A csatornákat a böngészõben is kiválaszthatjuk
+
+
+A tajvani gyártó internetrádiója tehát a Revo iBlik RadioStation-nel ellentétben nem csak a szolgáltatások, hanem a hangminõség terén is kiemelkedõt nyújt, más kérdés, hogy mindezt gyakorlatilag heroináron kínálja. A mi lelkesedésünket legalábbis meglehetõsen letörte, amikor megláttuk, hogy a Sangean WFR-1 bruttó végfelhasználói ára üzlettõl függõen 80-90 ezer forint közt alakul.
+
+A készülék valamivel vonzóbb ajánlat lehetne, ha ennyi pénzért a rögzítési lehetõség (memóriakártyára, USB-s eszközre) is adott lenne, de nekünk éppúgy hiányzott róla a digitális hangkimenet, vagy éppen a készülékek közti szinkronizálási lehetõség is. A Sangean portfóliójában vannak ilyen megoldások egyébként, csakhogy azok nem használhatók internetrádióként, ráadásul azokért még több pénzt kérnek (igaz, valószínûleg még a WFR-1-nél is erõteljesebben szólnak), Magyarországon azonban hiába is keresnénk õket a boltok polcain.

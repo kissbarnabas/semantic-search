@@ -1,0 +1,10 @@
+A szoftverek ötödét javítatlanul hagyják a felhasználók
+
+A windowsos PC-ken futó alkalmazások ötöde javítatlan, vagyis védtelen a különféle támadások ellen -- állítja saját felmérésére hivatkozva a dán Secunia biztonsági cég. A vállalat által ingyenesen elérhetõvé tett Personal Software Inspector (PSI) sebezhetõség-vizsgáló szoftverrel több mint 14,5 millió szoftvert ellenõriztek le, és a statisztikák azt mutatják, a gépeken található alkalmazásoknak átlagosan több mint 20 százalékát nem frissítették a felhasználók. 
+
+
+
+"A felhasználók gépeire telepített alkalmazásoknak több mint ötöde tartalmaz ismert biztonsági hibákat, azonban a javításokat sokszor nem telepítik" -- írta a Secunia hivatalos blogjában Jakob Balle fejlesztési vezetõ. Az ingyenesen letölthetõ Secunia PSI több mint 4200 különféle alkalmazást ismer és képes megvizsgálni sebezhetõségek után kutatva. A szoftver képes kiszûrni a felhasználók gépein az elavult, nem frissített szoftvereket, illetve azokat is, amelyekhez már egyáltalán nincs támogatás, és ezért jelenthetnek kockázatot. A Secunia PSI segítséget nyújt abban, hogy tehetjük biztonságosabbá a rendszert, ha kell, letölti a frissítéseket.
+
+
+Az adatok ugyanakkor azt mutatják, a felhasználók egyre inkább biztonságtudatosak, fél évvel ezelõtt ugyanis még a szoftverek közel harmada, pontosan 28 százaléka volt frissítetlen a PSI által megvizsgált gépeken. A szoftvert eddig közel 191 ezren töltötték le és telepítették a Secunia szerint.

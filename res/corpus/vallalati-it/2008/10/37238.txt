@@ -1,0 +1,56 @@
+A kereskedõ szemével: túlélni a válságot
+
+Lassan már a csapból is a pénzügyi krízis folyik, a világ tõzsdéi meredek zuhanást produkálnak nap mint nap, és messze van még a vége. A második hullámban érkezõ gazdasági válság elsõ jelei már láthatóak: a befektetõk kivárnak, az új beruházások szünetelnek és a fogyasztás bõvülésére sem kell számítanunk az elkövetkezõ években. Véletlenül sem szeretnék mély globális és makrogazdasági következtetéseket levonni, egyedül arra a kérdésre keresem a választ: hogyan érintheti ez a hazai vállalatok IT-beruházásait és a piac szereplõit?
+
+
+
+Kiket érint a válság?
+
+A hagyományos IT-kereskedelmi csatorna már most is vért izzad nap mint nap. A devizaárfolyamok kiszámíthatatlansága nem csak a korrekt árképzést teszi szinte lehetetlenné, de a közelmúltban lebonyolított -- akkor még jónak gondolt -- üzleteket is súlyos veszteségbe fordíthatja. Egy disztribútor könnyedén keresztet vethet az elmúlt negyedéves eredményeire, ha az egy hónapja importált, és azóta teljes egészében kiárusított készletek után csak most kell a számlát kifizetnie. A számla dolláros vagy eurós értéke változatlan maradt, de a bankszámláról eltûnõ pénz közel 15-20 százalékkal több lesz, mint ahogy erre egy hónapja számítani lehetett és ezt még az értékesítési árrés sem képes kompenzálni. A nagykereskedelmi raktárkészletek a bizonytalanság, a kiszámíthatatlan készletforgási sebesség és a várható keresletcsökkenés miatt valószínûleg csökkeni fognak.
+
+Ugyanígy nyugtalan éjszakák elé néznek azok a kiskereskedõk és megoldásszállítók, akik néhány hete vettek fel speciális vagy nagyösszegû megrendeléseket 4-6 hetes szállítási idõvel. A konténerek már hajón vannak, és ha a szállítási szerzõdés nem tartalmazott az árfolyamváltozás esetére ármódosítási kitételt, vagy a végfelhasználó jól védi jogos érdekeit, akkor a súlyos veszteség tudatában dolgozhatnak tovább. Persze mindenki engedhet egy kicsit: a kereskedõ az amúgy sem magas haszonkulcsát csökkentheti egészen nulláig, a végfelhasználó pedig elfogadhat egy méltányosan magasabb árat, de ez még mindig messze lesz a bezsebeltnek hitt win-win szituációtól.
+
+A vállalatoknak várhatóan minden osztály felemeli a hangját a saját érdekében: a HR valószínûleg nem a létszámleépítésben látja majd a megoldást, a marketing meg fogja magyarázni, hogy kevesebb pénzbõl kevesebb ügyfelet tud elérni, és hirtelen minden fontosabb lesz, mint az IT-infrastruktúra fejlesztése, vagy az eddig megszokott üzemeltetésben a szolgáltatási szint fenntartása. Költségeket pedig csökkenteni kell, de nem szabad pánikolva. A hirtelen végrehajtott teljes költségstop ugyanúgy hibás reflex, mint a vezetéstechnikai centrumokban a vizes tanpályán két lábbal taposni a féket. A különbség csupán annyi, hogy ott ellenõrzött körülmények között tehetjük meg, különösebb kockázat nélkül.
+
+Szükség van a fejlesztésekre
+
+Felejtsük el egy pillananatra az elsõ bekezdésben foglaltakat és vegyük elõ azokat a közhelyeket, amik a vállalati IT tényleges célját és szerepét ecsetelik. A stabil és korszerû informatikai háttér a XXI. századi  vállalatoknak nem luxus, hanem alapkövetelmény. Az átgondolt, jól felépített és felügyelt infrastruktúra észrevétlenül támogatja a munkavégzést, ami a versenyképesség egyik alapja. Még ha az alkalmazottak csak írógépnek használják is a számítógépet, akkor is fontos a kiszámíthatóság, a "homokórázással" és a kényszerû leállásokkal eltöltött idõ nem más, mint ablakon kidobott pénz. 
+
+A jól mûködõ rendszer nem egy elérhetõ állandó, hanem egy fenntartott állapot. Ha a tervezett fejlesztések befagyasztásával, vagy a rendszerüzemeltetésre fordított kiadások minimumra szorításával ettõl a költséghelytõl várunk drasztikus megtakarításokat, akkor hosszú távon súlyos veszteségekre számíthatunk. Az eszközök rendületlenül amortizálódni fognak továbbra is, a problémák száma és az elhárításukra fordított idõ pedig egyre csak nõ majd, ami nem csak megakaszthatja, de rosszabb esetben le is állíthatja az üzletmenetet. Autós példát ide is találunk: néhány tízezer forint megspórolható a téligumi-csere és téli felkészítés elmulasztásával, de ilyenkor azt kockáztatjuk, hogy az elsõ hó leesésekor az árokba csúszunk, vagy fagyálló hiányában kilyukad a hûtõ.
+
+[+] A pénzügyi krízisben a bátor IT-vezetõké a szerencse
+
+Ha rövid távon ettõl a költséghelytõl várjuk a megtakarítást, és emiatt alacsonyabb szolgáltatási szintre váltunk, vagy nem vesszük meg a korábban betervezett eszközöket, két dolgot érünk el biztosan: megugrik a problémák száma és az elhárításukra fordított idõ, és amikor a viharfelõk kezdenek eloszlani, a válságos idõk véget értnek, infrastruktúránk jó esetben is csak ugyanazon a szinten tart majd, ahol most. Akkor szembesülünk majd egy sokkal nagyobb korszerûsítési szükséglettel, amikor a túlélés érdekében feléltük a tartalékaink jelentõs részét. 
+
+Kezdjünk elõre menekülni
+
+Ne feledjük, a válság a versenytársainkra is hatással van! A piacon maradást az fogja eldönteni, hogy ki milyen stratégiával készül a szûk esztendõkre, tud-e olyan mennyiségben és minõségben termékeket és szolgáltatásokat elõállítani, amire ténylegesen van kereslet. Sokan fognak a piacunkról kihullani, és ebbe a klubba nem dicsõség bekerülni. A vállalatoknak -- még a mikro- és kisvállalkozásoknak is -- ezért gyökeresen újra kell gondolniuk a marketingjüket. Végig kell gondolniuk a bevételi lehetõségeket, a célpiacot, a pozicionálást, a hozzáadott értéket vagy a Sztárok-Fejõstehenek-Kérdõjelek-Kutyaütõk négyest. Ez fogja megadni azokat a területeket, ahol a fejlesztések prioritást élveznek.
+
+Második feladatként a költséghelyeket kell megvizsgálni aszerint, hogy hol lehet az adott cél vagy funkció változatlan teljesülése mellett a fenntartáson valódi megtakarítást elérni (ha nem tankoljuk meg az autót, mert akkor közlekedni sem tudunk majd vele). Informatikai téren számos lehetõségünk adódik: racionalizálhatjuk a nyomtatáshoz kapcsolódó folyamatokat és a terhelésnek leginkább megfelelõ eszközt választhatunk, konszolidálhatjuk a szervereket, lemondhatunk a felesleges sávszélességrõl, vagy jelentõs telefonforgalom esetén számításba vehetjük az átállást Voice over IP-re.
+
+A nehéz idõkben tartsuk a lehetõ legnagyobb becsben a mûködõ tõkénket, tartsuk pozitívan a cash-flow-t és legyünk kevésbé nagyvonalúak a kintlevõségekkel. Azzal, hogy nem kockáztatjuk a fejlesztésekkel a mûködõ tõkénket, marad forrásunk az átmeneti veszteségek finanszírozására, valamint vevõszerzõ és -megtartó marketingre. De ha a válságra épp a mûködõ tõke és a készpénz házon belül tartásával készülünk, jogosan merül fel a kérdés: mégis, mibõl fejlesszünk?
+
+Egy lehetséges megoldás: IT-eszközlízing
+
+Az ember nem szokott készpénzre venni sem lakást, sem autót. Akkor miért teszi ezt az informatikai eszközeivel? Az IT-eszközök széles palettájáról szinte minden finanszíroztatható ami nem komponens, legyen szó szerverrõl, nyomtatóról, asztali számítógéprõl, notebookról vagy akár okostelefonról. Egyes erre szakosodott lízingcégek a szoftveres környezet finanszírozását is felvállalják a kapcsolódó szolgáltatásokkal együtt, tehát a késõbbi rendszeres kellékanyagokon és a supporton kívül nem kell a készpénzt ilyen dolgokra költeni.
+
+
+ A lízingnek különbözõ fajtái vannak, a zárt- és nyíltvégû lízing, valamint a tartósbérlet gyökeresen különböznek egymástól, a lényeges különbségeket is egy külön ekkora cikkben lehetne bemutatni. A konstrukciókban közös, hogy jellemzõen 36 hónapos futamidõre lehet megkötni a szerzõdéseket, ami összhangban áll a megszerzendõ eszközök várható élettartamával, egyben elviselhetõ mértékû havi törlesztést eredményez.
+
+Ha így fejlesztünk, a beszerzett eszközök a teljes idõtartam alatt a kamatokkal együtt természetesen többe kerülnek majd, mintha egyben kifizetnénk õket, de a konstrukció cserébe lehetõvé teszi az azonnali korszerûsítést, miközben a likviditást nem veszélyezteti. Konkrét vagy közelítõ számokat felelõtlenség lenne leírni, hiszen ezek személyre szabottak. A hivi díjak nem csak az eszközöktõl és a választott konstrukciótól, a finanszírozott összegtõl függnek, sokszor még az adós minõsítése is jelentõsen befolyásolja a havi díjak mértékét.
+
+Nem felelõtlenségbõl javaslom a válságos idõkben az devizában történõ eladósodást. Egyrészt a kamatok még mindig jóval kedvezõbbek a forintalapú hitelekénél, másrészt a bankok pont nem a fogyasztók védelme érdekében jelentették be a devizahitelek felfüggesztését. A lízing elindításakor a teljes hitelösszeget átváltják a kiválasztott devizára, a havi törlesztést is ebben állapítják meg, de késõbb az aktuális forintértékét kell törlesztésként befizetni. Ez egyben azt jelenti, hogy a magas árfolyamon indított lízing a forint erõsödésével -- amire bizakodva számíthatunk a futamidõ második felében -- egyre kisebb törlesztõrészletet eredményezhet.
+
+A lízingpiac most
+
+A hazai IT-finanszírozásban van még szabad kapacitás, ezért az 1-2 napos hitelbírálat és kifizetés terén nem várható fennakadás. Az egész ügymenet lényegesen gyorsabb és könnyebben menedzselhetõ, mint egy fejlesztési pályázatot megírni és levezényelni. Mivel egy ingatlanhoz képest jelentõsen alacsonyabb a kihelyezett összeg, ezért nem, vagy csak kevéssé szigorodtak a feltételek. Van olyan banki partner, aki jelenleg csak euróban hajlandó deviza-alapú lízingszerzõdést kötni, és teljes egészében felfüggesztette a svájcifrank-alapú finanszírozást, de olyan lízingcég is akad, akinél minden változatlan formában érhetõ el.
+
+Összességében a feltételek nem szigorodtak, de a bonitásvizsgálaton a hitelminõsítõ szigorúbban fogja a ceruzát. A minimumfeltételeket nem lehet egyedi elbírálással megkerülni és esetenként a lefektetett minimumnál (zárt végû lízingnél és tartósbérletnél ez 0%) nagyobb önrész felvállalását is kérhetik biztosítékként.
+
+Az üzleti környezet tehát most is csak azt teszi, amit eddig is: folyamatosan változik. És most is azok fognak nyerni, akik ezt a változást képesek elfogadni és a saját hasznukra fordítani.
+
+A szerzõ a Takforsys Üzleti Informatika Kft. ügyvezetõje
+
+Véleménye van?
+Szóljon hozzá a fórumban
+írjon szerkesztõségünknek!

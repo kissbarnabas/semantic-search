@@ -1,0 +1,19 @@
+A Red Hat, a Novell és az IBM a Linux legfõbb fejlesztõi
+
+A szabad operációs rendszer népszerûsítését zászlajára tûzõ Linux Foundation felmérése szerint a Linux kernel legtöbb fejlesztése a Red Hat, a Novell (SUSE) és az IBM nevéhez köthetõ. A jelentés szerzõi, Jonathan Corbet és Greg Kroah-Hartman (maguk is kernelfejlesztõk) három, a rendszermagon elvégzett három évnyi munkát vettek alapul, amelynek során a kernel a 2.6.11-es verzióról a 2.6.24-es verzióra fejlõdött. E folyamat alapján keresték a választ azokra a kérdésekre, hogy kik a fejlesztõk, hogy dolgoznak, milyen gyorsan fejlõdik a rendszermag.
+
+
+
+A Linux kernelen közel ezer fejlesztõ dolgozik, akik több mint 100 különféle vállalat alkalmazásában állnak -- ezzel a szabad operációs rendszer magja a világ legnagyobb elosztott fejlesztési projektje. 2005 óta az aktív kernelfejlesztõk száma háromszorosára növekedett, ahogy a Linux a szerverek mellett elkezdett terjedni az asztali gépeken és meghódította a mobil eszközök világát is. A jelentés alapján a kernelfejlesztõk túlnyomó többsége "profi", vagyis azért kapja a fizetését, hogy a Linuxon dolgozzon.
+
+A kernelbe kerülõ újdonságok, változások 11,2 százaléka a Red Hat alkalmazásában álló programozóktól származik, ezzel a piros kalapos vállalat tekinthetõ a rendszermag elsõ számú fejlesztõinek. A rangsor második helyén a Novell áll (8,9%), majd az IBM következik (8,3%), emellett az Intel (4,3%) is figyelemre méltó hozzájárulója a kernelnek. A Linux Foundation felmérése szerint a változások 13,9 százaléka köthetõ olyan programozókhoz, akik nem hivatásszerû kernelfejlesztõk, további 12,9 százalék pedig "ismeretlen" céghez köthetõ.
+
+
+[+] A Novell szerint a SUSE Linux Enterprise 11 lesz a legmegbízhatóbb operációs rendszer
+
+A motivációk természetesen eltérõek. A nagy Linux-disztribútorok számára azért létfontosságú az operációs rendszer fejlõdése, mert a termékeik, illetve a kapcsolódó szolgáltatásaik erre épülnek. A hardver- és szoftvergyártók azért érdekeltek, mert biztosítaniuk kell, hogy a termékeik kompatibilisek a Linuxszal, így a szabad operációs rendszerre szavazó ügyfelek számára megfelelõ megoldásokat tudnak kínálni. A fogyasztói termékek és mobil eszközök gyártói (pl. Sony, Nokia, Samsung) a Linuxot platformként használják egyes termékeikben, a fejlesztésekkel a saját termékeik jövõjét tudják megalapozni.
+
+
+ A tanulmány szerint olyan cégek is aktívak a Linux fejlesztésében, akiknek az alaptevékenysége nem informatikai termékfejlesztés vagy szolgáltatás. Az egyik ilyen a Vokswagen AG, amely a hálózati interferenciának ellenálló PC_CAN hálózati protokollt adta a 2.6.25-ös kernelhez, amivel a szabad operációs rendszer alkalmassá vált akár autókba való beépítésre is.
+
+A jelentésbõl kiderül, hogy átlagosan 2,7 havonta érkezik egy új kernel, naponta pedig 3621 sorral bõvül a rendszermag kódja -- így évente 10 százalékkal nõ a mérete. A 2.6.11-es kernel még csak 6,5 millió sort tartalmazott, a 2.6.24-es ezzel szemben már közel 9 millió programsorból áll.

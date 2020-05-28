@@ -1,0 +1,16 @@
+Vizuális szerkentyûkkel csinosíthatjuk a Google Dokumentumok táblázatait
+
+Egyelõre csak a Google Dokumentumok táblázatait, hamarosan viszont akár más dokumentumainkat, és iGoogle oldalunkat is kicsinosíthatjuk a Google "szerkentyûivel", gadgetjeivel. A szabadon felhasználható szkriptekkel grafikus, vizuális formába önthetjük adatainkat, melyek akár dinamikusan változhatnak is, annak megfelelõen, ahogyan táblázatainkat frissítjük.
+
+
+
+A galériába gyûjtött gadgetek között térképeket éppúgy találhatunk, mint üzleti információkat emészthetõbb formába öntõ, dinamikus  grafikonokat, melyek a Google Finance oldalain megjelenõkhöz lesznek hasonlatosak. A grafikonok nem csak az iGoogle oldalunkon jelenhetnek meg, de bármilyen oldalba beilleszthetõk, megoszthatók.
+
+A szerkentyûk hamarosan a Google Dokumentumok szövegszerkesztõjében és más alkalmazásaiban, illetve akár a keresõben is megjelenhetnek. A táblázatkezelõ emellett további újdonságokkal is frissült, például e-mailben kérhetünk értesítést, ha valaki szerkeszti az adott dokumentumot, a változatás pedig kiemelésre kerül. Újdonság az oszlopok automatikus adatkitöltõ funkciója is.
+
+
+
+
+A Google módosított a Google Maps térképszolgáltatásán is, már nem csak a rossz helyen lévõ érdekes pontokat (POI) rakhatják helyre a belépett felhasználók, de az Egyesült Államokbeliek, ausztráliaiak és új-zélandiak akár új pontokat is létrehozhatnak, bõvítve a vállalat adatbázisát. Az adatok biztonságát log is védi, a módosítások elõtti állapotot is megtekinthetjük és más közösségi szerkesztõ oldalakhoz hasonlóan jelezhetjük  , ha valaki visszaél a lehetõséggel.
+
+A Google nem minden adat szerkesztését teszi lehetõvé, a vállalat ellenõrzött helyei, közérdekû információk, például kórházak helye nem módosítható. Az érdekes pontokat javítók ugyanakkor módosíthatják a neveket, címeket, telefonszámokat, weboldal-címeket és leírásokat.

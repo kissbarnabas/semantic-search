@@ -1,0 +1,10 @@
+Jön a Flexpeaker, az összehajtható hangszóró
+
+A Tajvani Ipari Kutatóintézet (Taiwan's Industrial Technology Research Institute  -- ITRI) papírvékony sztereó hangszórója a Flexpeaker nevet viseli, ezzel utalva arra, hogy a hangsugárzó a papírhoz hasonlóan flexibilis, azaz feltekerhetõ vagy akár össze is hajtható. A papírhangszóró több rétegbõl épül fel: a jelet ultravékony elektródák juttatják el a felületbe illesztett miniatûr membránoknak. A zene megszólaltatásához egyelõre egy speciális adaptert kell illeszteni a forrás és a hangsugárzó közé, a fejlesztõk azonban úgy vélik, egy éven belül sikerül megoldani a hangátvitelt adapter nélkül, sõt, idõvel vezeték nélkül, Bluetooth technológiával is.
+
+
+
+
+A Flexpeaker hangerejérõl, teljesítményérõl egyelõre nem közöl adatokat az intézet, a kutatók ugyanakkor felhívják a figyelmet, hogy a vékony papírhangszórótól értelemszerûen senki ne várjon dübörgõ basszusokat: a rendszer a 500-20000 Hz-es frekvenciasávban üzemel. Az ITRI szerint a problémát jobbára egy mélyhang-sugárzó közbeiktatásával lehet orvosolni.
+
+A technológia iránt a fejlesztõk szerint máris hatalmas az érdeklõdés, így elsõsorban televíziógyártók és filmforgalmazók látnak lehetõséget a Flexpeakerben. Utóbbiak a fejlesztõk szerint leginkább filmplakátokhoz használhatnák fel a papírhangszórót, az elsõdleges cél ezért most az, hogy a Flexpeakert A2-es méretben, gazdaságos áron (20 dollár darabonként) lehessen gyártani. Az ITRI most olyan gyártópartnert keres a flexibilis hangszóróhoz, mely a papírhoz hasonlóan tekercsekben termelné az ultravékony hangsugárzót.

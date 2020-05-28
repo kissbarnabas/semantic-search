@@ -1,0 +1,13 @@
+A Netgear bemutatta hat merevlemezt tartalmazó hálózati adattárját
+
+A Netgear bemutatta új hálózati adattárját, amelyet a hat merevlemez beépítésének lehetõsége miatt akár hat terabájtnyi adatot is tárolhat a hálózat összes felhasználója számára. A fekete elõlapon még egy USB kapcsolat is rendelkezésünkre áll az adatcserére
+
+
+
+A Netgear színre lépett a világ elsõ kisméretû, hat SATA merevlemezt fogadni képes hálózati adattárjával, a ReadyNAS Próval, mely háromféle kiszerelésben érheti el a fogyasztókat, vagy a kisvállalatokat. Ezek közül a legnagyobb a hatlemezes, hat terabájtos RNDP6610, ezt a három terabájtos RNDP6310 követi, a sort az utóbbit felezõ RNDP6350 másfél terabájt kapacitással zárja. Az elsõ két változat egy terabájtos lemezeket rejt, a harmadik pedig három darab 500 gigabájtos egységet.
+
+A kisméretû fekete házon három USB kapu is található, ezekbõl egy az elõlapon, melyhez egy "backup" gomb is tartouik, melynek megnyomásakor a csatlakoztatott USB-s eszközök teljes tartalma egy külön könyvtárba menthetõ. A ReadyNAS Pro a hálózathoz kétszeresen redundáns gigabit sebességû Ethernet portokon keresztül képes kapcsolódni. Az eszköz webes felületen menedzselhetõ, éppoly egyszerûen, mint a gyártó korábbi termékeinél.
+
+
+
+Az adatvédelmet fontosnak tartók RAID 0, 1, 5, RAID 5 és RAID6 tömbökbe is szervezhetik a meghajtókat, de akár a NETGEAR saját X-RAID2 megoldása is választható, amely automatikusan képes növelni a kapacitást. A hálózati adattárak sokba kerülnek: a kétszáz felhasználót kiszolgálni képes egységek legkisebbjéért is legalább 2000 dollárt kell fizetni.

@@ -1,0 +1,12 @@
+StorageTek: egy terabájt egy kazettán
+
+A Sun Microsystems bemutatta a világ elsõ szalagos egységét, amely 1 terabájt adat tárolására képes egyetlen kazettán. A StorageTek T10000B a korábbi T10000A-val írt kazettákat is képes olvasni, sõt, át tudja õket formázni 1 terabájt kapacitásúra. Az új meghajtó áráról és elérhetõségérõl egyelõre nincs információ, de a Texas Advanced Computing Centerben üzemelõ Sun szuperszámítógép mellett már 48 darab ilyen egység mûködik a bennfenntesek szerint.
+
+
+
+A T10000B másodpercenként 120 megabájt átvitelére képes, ezt a sebességet két író-olvasó fejjel éri el, így aztán a teljesítmény a kétszeres kapacitás és fele akkora szalagsebesség ellenére sem csökkent a korábbi generációs T10000A egységhez képest. Az új meghajtó örökölte elõdjének natív titkosítási funkcióját is, amelyet "wirespeed" hajt végre, vagyis a kazettákra teljesítményvesztés nélkül képes AES-256 titkosítással rögzíteni, függetlenül a mentett adatok típusától, az operációs rendszertõl vagy az alkalmazástól.
+
+A kisebb szalagsebesség miatt a magnót úgy kellett kialakítani, hogy a korábbinál még nagyobb biztonsággal mozgassa a szalagot, ennek érdekében összesen öt görgõ vezeti azt. Újdonság, hogy a görgõk nem a szalag felületével érintkeznek, hanem az élével, ezzel is kímélve a médiát. A Sun szerint ennek a megoldásnak köszönhetõen egy kazetta akár 360-szor is garantáltan újraírható, míg például a rivális IBM TS1120 csak 300 ciklust bír, ráadásul az átviteli sebessége is lassabb.
+
+
+ A rivális technológiák közül az LTO-4 meghajtók 800 gigabájt natív kapacitásúak, míg az IBM TS1120 legfeljebb 700 gigabájtot képes egy nagykapacitású kazettára írni. Mindkét technológia fejlesztési tervében látszik már a következõ lépés, az IBM esetében 1 terabájtos, az LTO-5 esetében pedig 1,6 terabájtos natív kapacitású kazettákkal.

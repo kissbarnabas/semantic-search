@@ -1,0 +1,16 @@
+APC: adatközpont-felügyelet Microsoft Operations Managerbõl
+
+Az APC integrálja fizikaiinfratruktúra-felügyeleti megoldását a Microsoft System Center Operations Manager 2007-tel. A két vállalat együttmûködése lehetõvé teszi a felhasználók számára, hogy tovább egyszerûsítsék adatközpontjaik kezelését.
+
+
+
+Az APC infrastruktúra-felügyeleti termékcsomagja az InfraStruXure Centralból, a Change Managerbõl és Capacity Managerbõl épül fel. Az APC InfraStruXure Central egy adatközpontok felügyeletére ajánlott központi menedzsment platform, melynek segítségével nyomon követhetõek az energiaellátással és hûtéssel kapcsolatos paraméterek. A szoftver nem csak az APC, hanem más szállítók  berendezéseibõl felépülõ infrastruktúrát is támogat, így a fizikai eszközökkel kapcsolatos minden részletes információ elérhetõ ebben az egy felügyeleti alkalmazásban.
+
+APC InstraStruXure Center
+
+A Capacity Manager az adatközpont tervezésére és modellezésére szolgál. A szoftver az elõre meghatározott peremfeltételek mellett  optimalizálja az adatközpontban rendelkezésre álló berendezések elhelyezését, beleértve a rackeket, a bennük található szervereket, tárolókat és hálózati berendezéseket, illetve a fizikai infrastruktúra egyéb elemeit, például a légkondicionálókat. A Change Manager az adatközpontokban történõ változtatások -- berendezések telepítése, mozgatása, cseréje -- kivitelezését és adminisztrálását segíti. Beépített vagyongazdálkodási eszközeivel az adatközpontok üzemeltetõi feltérképezhetik az adatközpont fizikai és informatikai infrastruktúráját mûködtetõ eszközöket, a változások kivitelezését a Change Manager munkafolyamat-kezelõvel támogatja.
+
+
+ Az APC adatközpont-felügyeleti termékei és a Microsoft System Center Operations Manager megosztják egymással az adatközponti infrastruktúrára, például a szerverkörnyezetre vonatkozó adatokat és a riasztási értesítéseket. A két termék együtt átfogó képet nyújt a fizikai és az informatikai infrastruktúra mûködésérõl és egymásra gyakorolt hatásukról is, így kulcsfontosságú mûködési információkat nyújtanak az energiaellátásról és a hûtési kapacitásokról -- állítja az APC. Az integráció révén átláthatóbbá válnak az adatközpontok: gyorsabban vezethetõk be új technológiák és szolgáltatások vezethetõk, és a támogatásukhoz szükséges fizikai infrastruktúra kiépítése is egyszerûsödik.
+
+Az APC ügyfelei 2009 elsõ negyedévében férhetnek hozzá az integrált APC InfraStruXure Central és Microsoft System Center Operations Manager megoldáshoz.

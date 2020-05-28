@@ -1,0 +1,22 @@
+Képek helyett igazi tárgyakat állíthatunk elõ az új Object Alaris Desktop 3D nyomtatóval
+
+A CAD tervezõrendszerbõl nem a gyárba, csupán a 3D-nyomtatóra kell küldenünk a tervet. Az új Alaris 30 modellel elõállíthatók olyan összetettségû elemek is, melyek hagyományos eljárással nehezen kidolgozhatók.
+
+
+
+Legfeljebb 292x195x149 milliméteres térben képes tárgyakat építeni az Object cég háromdimenziós nyomtatója. A viszonylag kompakt egység az úgynevezett PolyJet (Photopolymer Jetting) eljárással dolgozik, a végeredmény kemény, sima felületû tárgy lesz. Az eljárás 600x600x600 dpi felbontással dolgozik, így akár 3 századmilliméter vékony tárgyak készítésére is alkalmas. Apróbb elemekbõl egy nyomtatási menetben többet is képes létrehozni a tárgytálcán. 
+
+Elsõként az Objet Geometries valósította meg 2000-ben a fotópolimer-alapú 3D nyomtatást, azóta is folytatva a PolyJet néven védett technológia fejlesztését, mind kisebb és pontosabb berendezések építését téve lehetõvé. Mára irodai környezetben üzemeltethetõ készülékek állnak rendelkezésre, melyek segítségével komplex modellek, prototípusok állíthatók elõ utólagos megmunkálás (pl. forgácsolás) igénye nélkül.
+
+
+
+A tárgytálca felett halad el a PolyJet-fej, ami a hagyományos nyomtatóktól eltérõen nem vízszintesen, hanem függõleges irányban is mozog. Bejárja a munkafelületet, és a tálcára felépíti a modell egyetlen vékony rétegét. Kétféle alapanyagot használ, az UV-fényre megszilárduló gél adja a modell majdani testét, míg a támaszanyag csak arra szolgál, hogy a vékony falak, felületek ne rogyjanak meg a felépítés során. Egy réteg végeztével UV-fénnyel kezelik a réteget, majd a tálca lejjebb süllyed, lehetõvé téve a fej számára a következõ réteg felépítését.
+
+Egy kilogrammos kiszerelésben tölthetõ újra a "gyurma", pontosabban a fotópolimer kellékanyag, ebbõl négyet tárazhatunk be a készülékbe. Alacsony mûködési sebességre enged következtetni, hogy ez a mennyiség akár 36 órás folyamatos nyomtatáshoz is elegendõ. Természetesen sorozatgyártásra nem ideális ez a módszer, de modellek (próbadarabok) elõállítására nehéz lenne ennél jobban automatizálható és hamarabb rendelkezésre álló megoldást találni.
+
+
+
+
+ Az Alaris 30 hálózati nyomtatóként mûködik, így egy egész tervezõiroda használhatja. Mérete nem túl nagy (825x620x590 milliméter), egy vállalati, folyosóra termett lézernyomtatóéval összevethetõ. Elhelyezéskor ügyelni kell arra, hogy a megfelelõ környezeti hõmérséklet (18-23 Celsius) biztosítva legyen.
+
+A friss megjelenés és a speciális piaci helyzet miatt a pontos ár még nem ismert. Támpontul szolgálhat, hogy a Desktop Factory hasonló elvû, de kisebb méretekben dolgozó modelljét 5000 dollárért árusítják.

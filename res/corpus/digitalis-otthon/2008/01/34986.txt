@@ -1,0 +1,16 @@
+Vezeték nélküliek lesznek a jövõ tévéi, lejátszói, videokamerái
+
+Megszületett a WirelessHD vezeték nélküli átviteli specifikáció elsõ változata, melyet 2008 elején érhetnek majd el azok a gyártók, akik vezeték nélkül kívánják összekötni HD-képes készülékeiket. A specifikáció mögött jelenleg többek között a Intel Corporation, az LG, a Matsushita, az NEC, a SAMSUNG, a SiBEAM, a Sony és a Toshiba áll.
+
+
+
+A 2006 októberében bejelentett WirelessHD mögött már 40 érdeklõdõ és promotáló cég áll.  A WirelessHD vagy rövidítve WiHD rendkívül magas frekvencián, a bárhol licenc nélkül használható 60 GHz-es tartományban üzemel, az elsõ kereskedelmi termék lesz, mely 60 GHz-es technológiát alkalmaz. A jellemzõen harcászati, hadihajók közötti kommunikációra használt 60 GHz-es sáv alkalmazását a konzumer piacon eddig fõként a magas ár és a nehéz technikai megvalósítás hátráltatta, azonban az elmúlt idõszakban elért technikai fejlõdésnek köszönhetõen már a háztartási eszközökbe is építhetõ megoldásokat készíthettek a kommunikációs lapkák gyártói.
+
+
+A nagy frekvencia rövid, 10 méteres hatótávot, de hatalmas, 4-5 gigabit/s-os sávszélességet biztosít, mely elegendõ a nagyfelbontású digitális kép- és hanganyagok továbbítására is. A specifikáció 1.0-ás változatának DTCP tartalomvédelméhez az Amerikai Mozgókép Szövetség (MPAA) és a Digital Transmission Licensing Administrator (DTLA) nyújt technikai támogatást.
+
+Samsung vezeték nélküli plazmatévé
+
+A WiHD technológia nem csak közvetlenül televíziókban, HD-lejátszókban, vevõberendezésekben (set-top-boxok), de játékkonzolokban, adapterekben és más kép- és hanganyagot továbbító készülékekben is használható adatátvitelre. Az 1.0-ás specifikációban definiáltak egy univerzális távvezérlõ rendszer alapjai is, melyekkel minden WirelessHD kompatibilis készülék irányítható lenne.
+
+A szórakoztatóelektronikai berendezések vezeték nélküli összekötésén számos gyártó dolgozik. A Samsung például egy olyan technológiát karolt fel, mely rádiós, vagy optikai megoldással gigabites linket alkot két berendezés, például egy televízió és egy HD-lejátszó között.

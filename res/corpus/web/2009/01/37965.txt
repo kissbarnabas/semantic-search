@@ -1,0 +1,14 @@
+Elkészült az androidos Opera Mini végleges változata
+
+Szerdától a Google mobiltelefonos platformjához is elérhetõ az Opera Software által fejlesztett Java-alapú böngészõ, az Opera Mini elsõ véglegesnek tekintett változata. A szoftver legfrissebb, 4.2-es verziója tavaly novemberben jelent meg, az Android-alapú okostelefonok felhasználói azonban akkor még csak a tesztváltozattal ismerkedhettek.
+
+
+
+Két hónapos tesztidõszak után tegnap megjelent a Google Android platformjához fejlesztett Opera Mini webböngészõ végleges, 4.2-es verziója. A böngészõ a bétaváltozathoz képest több jelentõs fejlesztést is kapott,  lehetõvé vált a fájlok letöltése és feltöltése, az oldalak lementése offline megtekintéshez, illetve a program a többi platformnál megszokott módon a mobiltelefon beépített médialejátszójára irányítja át az internetes videókat.
+
+
+ Újdonság a végleges változatban, hogy az érintõkijelzõre duplán bökve a böngészõ belenagyít a weblapba, javult a görgetési funkció, emellett a szövegméret tovább növelhetõ az egyszerûbb navigáció érdekében. Változott a szövegbeviteli mezõk kezelése is, így egy beviteli sávba való gépelés során nem nyílik meg többé a szokásos, teljes kijelzõt betöltõ szövegmezõ, az ûrlapok kitöltése így gyorsabbá és átláthatóbbá válik az androidos telefonokkal.
+
+Az Opera Mini webböngészõ az Android-alapú mobiltelefonok esetében is ugyanazokkal az alapvetõ elõnyökkel szolgál, mint a többi platformnál: a program voltaképpen csak egy megjelenítõablaka az Opera szerverparkja által elõre renderelt weboldalaknak, a grafikus elemek minõségi beállításától függõen így egy-egy weboldal megjelenítése a hagyományos elven mûködõ böngészõkhöz hasonlítva lényegesen kisebb adatforgalmat generál. Ez amellett, hogy idõt takarít meg a felhasználónak, a forgalomalapú mobilinternetre elõfizetõk számára költségkímélõ megoldást is jelent.
+
+Az androidos mobiltelefonokkal használható Opera Mini 4.2 a Google Android Marketrõl tölthetõ le. A program használata a többi változathoz hasonlóan ezúttal is ingyenes.

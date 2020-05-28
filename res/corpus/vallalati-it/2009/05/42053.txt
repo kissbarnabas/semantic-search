@@ -1,0 +1,14 @@
+Bemutatta új adatmentési és &#8211;visszaállítási termékeit az EMC
+
+Deduplikáció a NetWorkerben
+A deduplikáció a redundáns adatok kiszûrésével csökkenti a tárolt információ mennyiségét. Az EMC Avamar ún. forrásalapú deduplikációt valósít meg, ami azt jelenti, hogy a redundáns adatokat rögtön a forrásuknál kiszûri, így a mentés nem csak a kapacitással, hanem a hálózati sávszélességgel is takarékosan bánik, ellentétben a célalapú deduplikációval, amikor a redundáns adatok kiszûrése és törlése utólag, a mentett adatokon történik. 
+
+Az Avamar legújabb változata a VMware-alapú környezetek mellett együttmûködik az Oracle adatbázisokkal, a Microsoft SharePoint Serverrel, az Exchange Serverrel, az SQL Serverrel, illetve az IBM Lotus Dominóval is. A vállalat állítása szerint adatbázisok (Oracle, SQL Server) mentésekor az új NetWorker segítségével akár 98 százalékkal kevesebb mentési kapacitás is elég lehet, a szükséges hálózati sávszélesség pedig tizedére csökkenhet.
+
+
+A tavalyi EMC Worldön mutatkozott be a NetWorker mentési szoftver új változata kimondottan középvállalatok számára. A NetWorker Fast Start lényege, hogy a vevõk a nagyvállalati NetWorker összes funkcióját használhatják egy egyszerûsített licenckonstrukció keretében, amelyet késõbb teljes nagyvállalati licencre bõvíthetnek fel, ha a vállalatuk növekedik. A mostani bejelentés szerint Fast Start licencelés alatt újabb képességek váltak elérhetõvé.
+Frissített diszkkönyvtárak
+
+Éppen a tavalyi EMC Worldön mutatkozott be a vállalat 1500-as és 3000-es sorozatú diszkkönyvtára, amelyek most új (v1.1) szoftvert kaptak. A vállalat állítása szerint a fejlesztéseknek köszönhetõen jelentõsen javult a replikációs teljesítmény, az EMC Data Protection Advisor integrációjának köszönhetõen pedig új monitorozási és jelenési képességekkel gazdagodtak az eszközök, a rendszergazdák örömére. Újdonság még az OpenStorage API támogatása Symantec Veritas NetBackup alatt, illetve az Oracle RMAN API támogatása, utóbbi a vállalat szerint jelentõsen javít a deduplikáció hatékonyságán.
+
+Az EMC Disk Library 3D 1500 a kisebb cégek, a 3D 3000 pedig a középvállalatok számára tervezett megoldás, elõbbi maximális kapacitása 36 terabájt, utóbbié pedig 148 terabájt. Mindkét lemeztömbben 1 terabájtos SATA diszkek felelnek az adatok tárolásáért, a védelemrõl RAID 6 gondoskodik. Az eszközöket leginkább LAN-on keresztüli adatmentésre (NFS, CIFS) ajánlják, de opcionális Fibre Channel portokon keresztül akár SAN hálózathoz is csatlakoztathatók.

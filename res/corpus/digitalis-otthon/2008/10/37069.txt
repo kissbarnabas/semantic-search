@@ -1,0 +1,40 @@
+Villámteszt: tényleg gyors lett az új Norton termékcsalád
+
+"Legyetek bátran szkeptikusak, kezdetben én is az voltam. Próbáljátok ki nyugodtan a termékeinket" -- buzdította az újságírókat a Symantec hazai képviseletének marketing és PR menedzsere, Bartha Hedvig a cég két új, állítólag sokkal gyorsabbá vált biztonsági szoftverének, a Norton Antivirus 2009 és a Norton Internet Security 2009 hazai bemutatóján. Szót fogadtunk, gyorsan kipróbáltuk a cég önálló vírusirtóját, sõt össze is hasonlítottuk az elõzõ generációs verzióval. 
+
+
+
+Lassú és zabálja az erõforrásokat
+
+Megint okosabb, de legfõképpen gyorsabb lett a Norton Antivirus és a Norton Internet Security, de ezúttal tényleg -- lényegében ennyiben lehetne összefoglalni a Symantec hazai képviselete által tartott mai sajtóbemutató mondanivalóját. A céget Con Mallon, a Symantec régiónkért felelõs termékmarketing-divíziójának vezetõje képviselte, aki mindjárt az elõadása elején hallgatólagosan elismerte, hogy a Norton Antivirus 2008 és Norton Internet Security 2008 verziók a céghez érkezett felhasználói visszajelzések szerint lassan és nehézkesen futottak egy átlagos kiépítettségû számítógépen.
+
+A fejlesztõk ezért az új kiadásban alapvetõen a futási sebességen igyekeztek optimalizálni, ezen túlmenõen háromszáz kisebb-nagyobb változtatást építettek a programcsomagokba, melyek közül a Norton Antivirus továbbra is elsõsorban standard kliensoldali vírusvédelmi feladatokat lát el, míg a Norton Internet Security az eddigiekhez hasonlóan komplex internetbiztonsági megoldás egyebek mellett adathalászat elleni védelemmel és személyi tûzfallal.
+
+Az új fõmenü
+
+A Symantec által nagyjából egy évvel ezelõtt kiadott Norton Antivirus 2008 dobozán matrica hirdeti újdonságként a gyorsabb mûködést, az új, most megjelent termékek mottója pedig az "intelligens védelem, sebességre fejlesztve" lett -- a marketing tehát alapvetõen nem változott: az új Norton termékek mindig jobbak és gyorsabbak az elõzõ változatoknál. Csakhogy a gyakorlat nem minden esetben igazolta ezt a tézist -- egészen mostanáig.
+
+Rögtönzött villámtesztünkben -- ha már ekkora hangsúlyt helyeznek a Symantecnél a programfutási sebességre -- elsõsorban arról próbáltunk meggyõzõdni, hogy a cég marketinggépezete által felsorolt teljesítményszámok mennyire fedik a valóságot, ezért a Norton Antivirus 2008 és 2009 víruskeresõket egymás után telepítettük egy 2 GHz-es Core 2 Duo processzorral és 2 gigabájt rendszermemóriával ellátott noteszgépre, melyen Windows Vista Business operációs rendszer futott. Elõkerült a stopper, kezdõdhettek a mérések.
+
+Tényleg gyorsabb lett
+
+A Symantec rendkívül büszke rá, hogy az új Norton Internet Security jellemzõen rendkívül rövid idõ alatt -- átlagosan mindössze 52 másodperc  -- telepíthetõ. Aki telepített korábban Symantec terméket, talán ezzel az értékkel kapcsolatban lehet a leginkább szkeptikus: a mi tesztgépünk nagyjából hét perc és tíz másodperc alatt végzett a tavalyi változat installálásával (igaz nem az Internet Security, hanem az Antivirus terméket telepítettük), ezzel szemben a Norton Antivirus 2009 az aktiválókód beírását követõen körülbelül másfél perccel már használható volt.
+
+A víruskeresõ szoftverek általában a háttérben végzik tevékenységüket, és csak bizonyos esetekben kérnek beavatkozást a felhasználó részérõl, ettõl függetlenül szinte mindegyik cég terméke -- így a Norton Antivirus is -- kínál kézi szkennelési lehetõséget. Ez rendszerint a gyakran használt, vagy az úgynevezett "fokozottan veszélyeztetett" állományokat és regisztrációs kulcsokat ellenõrzi csak le, ezért a mûvelet a telepítési környezettõl és a gép kiépítésétõl függõen többnyire gyorsan lefut. A Symantec átlagosan 33 másodpercre taksálja a folyamat hosszát az új Norton Internet Securityvel, mi ehhez képest 23 másodpercet mértünk a Norton Antivirus 2009-cel, ami ugyanazon a gépen csaknem egy perccel rövidebb ideig végezte a gyorspásztázást, mint a 2008-as verzió.
+
+Saját eszközzel is nyomonkövethetõ a rendszerterhelés
+
+A fejlesztõk igyekeztek a szoftverek rendszerterhelését is visszafogni, ami leginkább a memória- és processzorhasználat drasztikus csökkenésében érhetõ nyomon: a Norton 2009-es termékeket egy olyan teljesítményfigyelõ eszközzel is ellátták, mellyel a felhasználó folyamatosan nyomon tudja követni a processzor- és memóriaterhelést. A HWSW tesztkörnyezetében a Norton Antivirus 2009 a feladatütemezõ tanúsága szerint pontosan annyi memóriát -- 7 megabájtot -- "evett", amennyit a Symantec kommunikált a termék bemutatásakor -- persze tegyük hozzá, hogy ez a szám csalóka, a program komponensei ennél valójában jóval több memóriát foglalhatnak.
+
+Norton Insight, a "közösségi" felderítési rendszer
+
+Újdonság az új verziókban a felderítési gyorsaságot jelentõsen növelõ Norton Insight technológia, mely képes azonosítani azokat az állományokat, melyeket a Norton saját laboratóriumi vizsgálata, illetve a világszerte több millió kliensre telepített antivírusszoftverek egyszer már biztonságosnak minõsítettek, így ezek szkennelését nem végzi el a rendszer, ezzel is idõt spórolva. A 2009-es Norton termékek további újítása a néma üzemmód, mely felfüggeszti a figyelmeztetéseket és a frissítéseket, hogy ne szakítsa meg, ne lassítsa le a játékokat, a filmnézést vagy hasonló tevékenységeket.
+
+
+Az új generációs Norton AntiVirus és Norton Internet Security a felszínen is átalakult: az új verziók fõablaka és beállítási panelje valamivel összefogottabban informálja a felhasználókat a rendszer mûködésérõl és a paraméterezési lehetõségekrõl. Megújult a LiveUpdate definíciófrissítési motorja is, mely rendkívül sûrû idõközönként -- átlagosan pár percenként -- frissíti a vírusadatbázist, így naponta akár több száz kódváltoztatást is fogadhat a rendszer a Symantec laboratóriumától.
+
+Gyorsabban megy a kukába is
+
+Ha a felhasználó a próbaidõszak alatt az új funkciók és a gyorsabb mûködés ellenére sem elégedett az új Norton termékekkel, netán valamiért újra kell telepítenie az alkalmazásokat, számolhat azzal, hogy az új verziókat nemcsak gyorsabban lehet telepíteni, de gyorsabb az eltávolításuk is: míg a Norton Antivirus 2008 bõ négy perc tizenöt másodperc alatt törölte magát, addig a 2009-es változatnak mindehhez elég volt egy perc (mindkét esetben újra kellett indítani a számítógépet a folyamat után).
+
+A Norton Antivirus 2009 és Norton Internet Security 2009 biztonsági szoftverek ezen a héten kerülnek forgalomba a viszonteladóknál. Utóbbi három gépen használható változata bruttó 13 320 forintba, elõbbi egygépes licence 9960 forintba kerül.

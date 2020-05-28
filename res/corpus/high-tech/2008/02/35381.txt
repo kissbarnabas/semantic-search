@@ -1,0 +1,10 @@
+Az AMD megnyitotta nagyteljesítményû függvénykönyvtárának forráskódját
+
+Az AMD megnyitotta a Performance Library forráskódját, amelynek egyúttal a Framewave 1.0 nevet adta. A lépéssel az AMD célja, hogy egy olyan nyílt forrású szoftverkönyvtárat adjon a fejlesztõk kezébe, amelynek használatával azok könnyebben tudnak többszálú, nagy teljesítményû szoftvereket készíteni. A forráskód megnyitása az AMD szerint elõsegítheti a Framewave terjedését és fejlõdését.
+
+
+
+
+A közel három éven át, tucatnyi fejlesztõ munkájával elkészített Framewave több mint 3200 szoftverrutint tartalmaz, amelyek segítségével nagy teljesítményû többszálú alkalmazások írhatók x86 processzoros rendszerekre. A Freewave API-szinten kompatibilis a szinte azonos célokat szolgáló Intel Integrated Performance Primitives-szel, ezáltal egyszerûsítve a fejlesztést a közös interfész révén.
+
+A Framewave decemberben került fel a SourceForge-ra, ahol kedvezõen fogadták. A függvénykönyvtár korábban az AMD Developer Centralon keresztül volt elérhetõ, amely az AMD fejlesztõk számára fenntartott információs oldala, ahol szoftveroptimalizálással kapcsolatos leírások és segédeszközök is elérhetõk. A Framewave az Apache License 2.0 alatt érhetõ el, amely kompatibilis a GPL 3.0-val.

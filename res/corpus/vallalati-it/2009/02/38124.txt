@@ -1,0 +1,32 @@
+Ingyen segít a Microsoft-licencek költségeit csökkenteni az IBM
+
+Tavaly október óta ingyenes tanácsadást kínál az IBM a Microsoft szoftverlicencek költségeinek optimalizálására. A vállalat szerint a legtöbb ügyfél rengeteg pénzt dob ki az ablakon a Microsoft Enterprise Agreementekkel, és lényegében a hagyományos szoftvervásárlási modellre történõ visszatérésre buzdít. Az IBM szerint ráadásul a Microsoft jelenlegi kliensplatformjának jövõje bizonytalan középtávon, ahogyan az iparral együtt a hosztolt alkalmazások felé mozdul el a szoftveróriás is.
+
+
+
+Projekt Zsírégetés
+
+A IBM Project Liberate néven ingyenes távtanácsadási szolgáltatást kínál a Microsoft licencköltségekkel kapcsolatban. Ahogyan üzleti és IT-tanácsadói tevékenységei többségéhez is, a vállalat itt is házon belülrõl merítette kezdeti tapasztalatait, hiszen maga is nagy Microsoft-ügyfél. Az ingyenes szolgáltatástól az IBM azt reméli, hogy átfogóbb képet kap a piacról, ami késõbb tanácsadói tevékenységében és saját költségeinek optimalizálásához is felhasználhat, valamint hogy az ügyfeleknél felszabaduló pénzek egy része IBM-es üzletkötésekhez vándorol át.
+
+A gazdasági válság és a kilátások bizonytalansága közepette a vállalatok minden területen szigorú költségkontrollba, és a kiadások lefaragásába kezdtek, amit az IT sem kerülhet el. A világ egyik legnagyobb IT-szállító és -tanácsadó cégeként természetesen az IBM is igyekszik ezt a változást lehetõségként kihasználni, és aktívan kivenni részét a szervezetek IT-infrastruktúrájának átalakításából. A Project Liberate is ebbe a csapásirányba illeszkedik: igyekszik leszorítani a mûködési és üzemeltetési költségeket és olyan stratégiai kezdeményezések felé terelni az ügyfeleket, mint az üzleti folyamatok és az azokat kiszolgáló IT-rendszerek újratervezése -- egyszerûsítés, konszolidáció, virtualizáció, kiszervezés.
+
+Az IBM hangsúlyozza, hogy az elérhetõ megtakarítások ügyfélrõl ügyfélre változóak, de úgy látja, hogy a legtöbb cégnél a Microsoft-licencköltségek 60-80 százalékát két termékhez lehet kötni, a Windowshoz és az Office-hoz, így ezeknek kell a fókuszban lenniük. Az IBM sajnos kizárólag a 250 vagy több PC esetében igénybe vehetõ nagyvállalati szerzõdés (Enterprise Agreement, EA) által lefedettekre igyekszik koncentrálni, a tanulságok egy része azonban átültethetõ kisebb környezetekre is, például az Open Value Subscription (OVS) mennyiségi licencekre.
+
+Feleslegesen vásárolt licencek
+
+Az EA és az OVS jellemzõen olyan 3-5 éves szerzõdések, melyek a szükséges licencekkel meghatározott éves díj ellenében mindig a legfrissebb Microsoft-szoftverekkel látják el a vállalatokat. Ez azért vonzó opció sokak számára, véli az IBM, mert látszólag leegyszerûsíti a szoftverlicencek kezelésének kérdését, könnyû õket követni és költséget kalkulálni, és garantálják a szoftverek megfelelõségét is. A Microsoft számára ez azért elõnyös, mert legnagyobb ügyfeleitõl egy stabil, kiszámítható bevételre tesz szert, miközben csökkentheti értékesítési és támogatási költségeit.
+
+
+Az IBM szerint azonban a szerzõdéses licencvásárlóknak fel kell tenniük a kérdést: valóban szükségem van ennyi licencre? Valóban szükséges mindig a legfrissebb verzióért fizetni? A Nagy Kéknél úgy látják, a Windows Vista késõi megjelenésével sokakban felmerült a kérdés, hogy egyáltalán mi értelme volt EA konstrukcióban lefedni a PC-ket, amit méginkább nyomatékosít a tény, hogy a megváltozott architektúra miatt megtört driver- és szoftverkompatibilitás a Vista nagyvállalati adoptációját nagyban hátráltatja -- vagyis a licencdíjak nagy része ablakon kidobott pénznek bizonyult.
+
+Kérdés, hogy egyáltalán érdemes-e az EA keretein belül váltani Windows XP-rõl? Az XP és Office 2003 párost sok helyen megfelelõnek tartják produktivitási szempontból, és nem látják igazoltnak a frissítés költségeit. Amennyiben valaki mégis a Vista vagy az Office 2007 mellett dönt, akkor is jobban megérte volna egyszer vételként beszerezni, és akár le is mondhatja a jelenlegi nagyvállalati megállapodását, hiszen még így is jogosult lesz azok telepítésére, ha legalább 2006 végéig érvényes EA-szerzõdéssel bírt. 
+
+Webcast: egy példa 
+
+Ennek a Microsoft úgy tûnik, nagyon is tudatában van, és éppen ezért helyezte át a hangsúlyt az egységes kommunikációt kínáló kollaborációs megoldására, mely nemcsak kiterjeszti jelenlétét a szerveroldali infrastruktúrán (Sharepoint, SQL, Active Directory, Exchange), de mesterséges függõségi kapcsolatokkal igyekszik kikényszeríteni a kliensoldali frissítéseket, ugyanis csak akkor garantált, hogy az összes funkció elérhetõ, ha az összes szoftverbõl a legújabb verziót használjuk -- a mindent tudó Enterprise Desktop felhasználónként évente 202 dollár költséget jelent. Mindezt tetézik az ezekkel járó esetleges kényszerû hardverfrissítések is.
+
+Auditálás, kivárás, kemény alku a Microsofttal
+
+Az IBM végeredményben azt javasolja a vállalatok számára, hogy vizsgálják meg a szerzõdéses konstrukciók lemondását, és lehetõség szerint térjenek vissza az igény szerinti bevásárlásokra (Select, Open Value) hiszen a tapasztalat azt mutatja, a nagyobb ügyfelek többsége túlvásárolja magát Microsoft-szoftverekbõl, és rengeteg pénzt dob ki az ablakon. A PC-s szoftverek jövõje ráadásul bizonytalan az IBM szerint, mivel a Microsoft mûszaki vezérigazgatója, Ray Ozzie is a szolgáltatásorientált rendszerek felé viszi el a céget, ahol a kliensoldali szoftverek szerepe leértékelõdik -- bölcsebb lehet egy esetleges paradigmaváltás elõtt kivárni, és nem feleslegesen nagy befektetéseket ölni a korábbi rendszerekbe.
+
+A Project Liberate honlapján (alul) letölthetünk egy kérdõívet, melyet a megadott e-mail címre visszaküldve felveszi velünk a kapcsolatot egy tanácsadó, aki igyekszik támogatást kínálni a költségcsökkentéshez, valamint tippeket a Microsofttal történõ tárgyalásokhoz. A téma összefoglalója egy félórás webcastban itt található meg, míg egy szöveges összefoglaló informatikai vezetõk számára itt (PDF). 

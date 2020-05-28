@@ -1,0 +1,14 @@
+Az NVIDIA az év vállalata a Forbes szerint
+
+Az NVIDIA-t választotta 2007 legjobb vállalatának a neves Forbes üzleti magazin. Az elismerés a cég páratlan sikereinek köszönhetõ, melyeket a grafikus chipek piacán ért el, megszorongatva még az Intelt is az integrált megoldások terén. Az NVIDIA tavaly lemosta a pályáról legfõbb riválisát, az AMD-t, mely komoly problémákkal küzdött az év elsõ felében.
+
+
+
+Ellenfelei számára aggasztó ütemben terjeszkedett a piacon 2007 során az NVIDIA. A vállalat a harmadik negyedév során 40 százalékkal több grafikus processzort szállított le, mint egy évvel korábban, több mint 33 milliót, megszerezve ezzel a globális volumen 33,9 százalékát. Ehhez képest a végrehajtási problémákkal küzdõ AMD 19,1 százalékot tudhatott magáénak, míg a piacot integrált chipjeivel uraló Intel 38-at. Az NVIDIA a teljes asztali piacon az elsõ helyet is megkaparintotta 37,8 százalékkal, míg a bõvítõkártyák terén részesedése megközelítette a kétharmadot, a professzionális célú grafikus kártyáknál 86 százalék feletti, állítja a Jon Peddie Research.
+
+Ez a teljesítmény a vállalat pénzügyi mutatóin is nyomott hagyott. A vállalat az elõrejelzések szerint 4 milliárd dolláros forgalmat bonyolít a most januárral záródó pénzügyi évében, ami harmadával haladja meg az elõzõt. Adózott eredménye eközben elérheti a 900 millió dollárt, ami 50 százalékos növekedést jelentene. Az NVIDIA termékeinek átlagos bruttó nyereséghányada, vagyis az értékesítésbõl befolyt összeg és az értékesítés közvetlen költségének különbsége 46 százalék az év egészére nézve, ami rendkívül egészséges. Ehhez képest az AMD grafikus chipeket fejlesztõ részlege a nullszaldó közelében táncolt a harmadik negyedév során.
+
+
+Az NV50 grafikus mikroarchitektúrával (G80, G90 családok) nagyot arató NVIDIA azonban nem ül babérjain. A vállalat természetesen nagy erõkkel dolgozik következõ generációs fejlesztésein, mely megjelenését idén tavaszra várják, és mely várhatóan továbblép az NV50-tel kijelölt úton, melyet az egyre rugalmasabb, sokoldalúbb programozhatóság, egyre növekvõ párhuzamosság és növekvõ számítási precizitás kövez. Nemcsak a vizuális realizmus fokozása a cél, hanem az általánosabb célú számítási problémák is egyre kezelhetõbbé válnak, így 3D-renderelési munkák mellett az eredetileg grafikus célú chipek szuperszámítógépes felhasználása is terjedõben.
+
+A Forbes cikke az NVIDIA-ról elolvasható itt.

@@ -1,0 +1,34 @@
+Augusztus elsején startolhat a lakossági VDSL-szolgáltatás Magyarországon
+
+Heteken belül elérhetõvé válik a Magyar Telekom kínálatában a jelenleg széles körben elterjedt ADSL-nél lényegesen nagyobb letöltési és feltöltési sebességet nyújtó VDSL-alapú internetkapcsolat. A gyorsabb technológiával egy idõben megjelennek a HD-minõségû adók az IPTV platformon -- derül ki a cég hirdetményébõl. 
+
+
+
+Nagyfelbontású IPTV
+
+A Magyar Telekom a múlt hét közepén hirdetményt adott ki a lakossági szolgáltatásokkal kapcsolatos általános szerzõdési feltételeinek (ÁSZF)  módosításairól, melybõl egyebek mellett kiderül, hogy a távközlési cég iternetprotokollon keresztül nyújtott mûsorelosztási szolgáltatásának (IPTV) csatornaválasztékában augusztus elsejétõl megjelennek a nagyfelbontású (HD) adók. Az új csatornák megnövekedett sávszélességigényét azonban már nem képes kiszolgálni a jelenleg használt ADSL2+ kapcsolat, a vállalat ezért augusztus 1-tõl hazánkban elsõként elindítja a VDSL2-alapú szolgáltatást. Ez a technológia minimum 25 megabit/s-os letöltési sebességet ígér a központ és az elõfizetõi végpont közt kihúzott, már meglévõ réz érpáron keresztül.
+
+A Magyar Telekom várhatóan a német anyavállalat gyakorlatát követi az új technológia bevezetésével, vagyis -- legalábbis eleinte -- nem lehet majd a különálló ADSL-csomagok mintájára önálló VDSL-alapú internetelõfizetést kötni, a gyorsabb internet csak a komplett szolgáltatáscsomagként értékesített T-Home elõfizetéshez jár. Így minden valószínûség szerint a magyarországi T-Online választékában T-Home Tripla néven futó csomag elõfizetõit köthetik be elõször a VDSL-hálózatba. Ez a csomag, akárcsak a német, egyszerre tartalmaz telefonszolgáltatást, internetelõfizetést és IPTV-t.
+
+HBO Digital a T-Home TV-n
+
+Nem biztos, hogy azonnal gyorsabb lesz a letöltés
+
+Annak azonban egyelõre nincs nyoma a múlt szerdán kiadott hirdetményben, hogy a Magyar Telekom a lakossági VDSL-szolgáltatás startjával egy idõben bármilyen új, az ADSL-nél gyorsabb le- és feltöltést garantáló internetelérést vezetne be kínálatába. Egyes szakértõk ezért úgy spekulálnak, hogy a VDSL-kapcsolat a kezdetek kezdetén csak a HD-minõségû adókra vágyó tévénézõket szolgálja majd, a T-Home Tripla csomag internetezéshez rendelkezésre álló sávszélességét pedig csak õsszel emelik meg. Akkor, amikor a vállalat átáll a június végén bejelentett új márkastratégiára.
+
+
+ A Magyar Telekom tavaly nyáron indította el az IPTV technológiával továbbított HD-adások, ezzel együtt a VDSL-kapcsolat tesztüzemét egy szûk körû felhasználói csoport számára. A cég VDSL2 hálózati eszközökre kiírt tenderén az Ericsson kapta a lehetõséget mind a próbahálózat kiépítésére, mind pedig egyes területeken a késõbbi hálózatfejlesztésben való aktív részvételre.
+
+Bukták az olimpiát
+
+A szolgáltatónál tavaly még úgy kalkuláltak, hogy az új technológiának köszönhetõen a lapostévékkel rendelkezõ ügyfelek a pekingi olimpia sporteseményeit már HD-minõségben nézhetik majd a T-Home-on keresztül. A játékok augusztus 8-i kezdéséig azonban rendkívül rövid idõ áll már csak rendelkezésre a létesítésre, a jobb minõségû szolgáltatást igénylõ IPTV-ügyfelek jelentõs része így lecsúszhat az olimpiai HD-közvetítésekrõl, ami a marketingszempontokat figyelembe véve a szolgáltatónak is fájó veszteség lehet.
+
+Az ÁSZF módosításával kapcsolatos hirdetménnyel egy idõben közzétett új, augusztus elsejétõl érvényes csatornakínálatból hiányzik ráadásul az m2 HD, tehát az egyetlen olyan adó, mely a tervek szerint HD-minõségben, magyar nyelven közvetít majd az olimpiáról. Az új listában egyébként egyelõre öt HD-minõségû csatorna szerepel; az ügyfelek az HBO HD, a Filmbox HD, a Eurosport HD, a National Geographic HD és a VOOM HD adókra fizethetnek elõ akár egyenként is, vagy egy csomagban (kivétel az HBO HD, mely csak önállóan érhetõ el).
+
+A Magyar Telekom várhatóan elõször a fõvárosban, az agglomerációs településeken és a nagyobb városokban, megyeszékhelyeken indítja el VDSL-szolgáltatását. A VDSL-alapú T-Home Tripla csomag létesítéséhez nem csak a központokat, hanem az elõfizetõi végpontot is fel kell készíteni -- ez a szolgáltató tulajdonában álló két eszköz (set top box és home gateway) egyikének a cseréjét jelenti. A T-Home ügyfelekhez kihelyezett, a tévéhez csatlakoztatott set top box egység képes a HD-adások megjelenítésére, a jelenleg használt hálózati elosztó azonban csak egy ADSL2+ modemet tartalmaz -- a telepítést végzõ szakemberek ezt az eszközt fogják egy gyorsabb, modernebb változatra cserélni.
+
+A jelenlegi T-Home set top box HD-re is képes
+
+Megkérik az árát
+
+Arról egyelõre nincs hír, hogy a Magyar Telekom mennyit fog kérni a VDSL-alapú szolgáltatásért, illetve az új csatornákért cserébe. A német anyavállalat jelenleg négy ilyen triple-play csomagot értékesít: az Entertain Comfort VDSL 25 és az Entertain Comfort VDSL 50 közt az elérhetõ maximális sávszélesség (25 illetve 50 megabit/s), és persze a havi elõfizetési díj (60 és 65 euró) a különbség. Mindkét csomag 70 tévécsatornát tartalmaz. Az Entertain Comfort Premium VDSL 25 és az Entertain Comfort Premium VDSL 50 csomagok esetében ezzel szemben 100 csatornából válogathat az elõfizetõ havi 70 és 80 euróért cserébe.

@@ -1,0 +1,12 @@
+Kritikus sebezhetõségre bukkantak a Microsoft SQL Serverben
+
+Az osztrák SEC Consult biztonsági tanácsadócég áprilisban kritikus sebezhetõséget fedezett fel a Microsoft SQL Serverben, amelyrõl idejekorán értesítette a redmondi vállalatot. A patch azonban azóta sem jelent meg, a SEC Consult ezért úgy határozott, nyilvánosságra hozza a sérülékenység részleteit és egy példakódot, amellyel kihasználható a hiba. 
+
+
+
+A Microsoft tegnap kiadott biztonsági bulletinjében felhívja a figyelmet a sérülékenységre, amely az "sp_replwritetovarbin" kiterjesztett tárolt eljárásban található, és amelynek kihasználásával támadók távolról hozzáférhetnek az adatbázis tartalmához -- feltéve, hogy a szerver felett át tudják venni az irányítást mondjuk egy SQL-beszúrásos támadással. A sebezhetõség az SQL Server 2005 SP3-at, illetve az SQL Server 2008-at nem érinti, csupán régebbi verziókat.
+
+
+ A Microsoft értesült arról, hogy a SEC Consult weboldalán elérhetõvé tette a sebezhetõség leírását és az azt kihasználó példakódot, azonban egyelõre nem tud olyan támadásról, amely ezt a sérülékenységet használná ki. A szoftvercég mindazonáltal elérhetõvé tett egy leírást, amelyet követve a rendszergazdák megvonhatják a jogosultságokat az "sp_replwritetovarbin" eljárástól, és ezzel immunizálni tudják a rájuk bízott SQL Servert addig, amíg a patch megérkezik.
+
+A SEC Consult úgy tudja, a Microsoft már szeptemberben elkészült a javítással, azonban még nem adta ki -- a cég talán ezzel a lépéssel szeretne nyomást gyakorolni Redmondra. Az osztrák cég azt állítja, szeptember óta többször is kapcsolatba lépett a Microsofttal arról érdeklõdve, hogy mikor jelenik meg az SQL Server kritikus hibáját foltozó javítás, azonban nem kapott választ.

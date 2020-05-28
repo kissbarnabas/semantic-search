@@ -1,0 +1,12 @@
+Az Intel segítségével fejleszt vállalati SSD-ket a Hitachi
+
+Közösen fejleszt SSD-ket az Intel és a Hitachi merevlemezekkel, tárolókkal foglalkozó részlege, a Global Storage Technologies -- az errõl szóló megállapodást tegnap jelentette be a két cég. A meghajtókhoz az Intel szállítja a NAND memóriachipeket, a Hitachi pedig a kompetenciát, amelynek révén a flash lapkákból csúcsteljesítményû tárolási megoldásokba beépíthetõ meghajtók lesznek.
+
+
+
+A flash memóriák elõször csak a hordozható eszközökbõl szorították ki szinte teljesen a parányi merevlemezeket, nagy sávszélességük, kis késleltetésük, zajtalan mûködésük és kisebb fogyasztásuk miatt azonban ma már a szerverekben és adattárolókban is egyre népszerûbbek. Bár a vállalati felhasználásra szánt SSD-k ára egyelõre csillagászati, egyre több felhasználó hajlandó megfizetni ezt, hiszen bizonyos esetekben egyetlen SSD-vel tucatnyi vagy még több merevlemez váltható ki.
+
+
+ Az Intel az augusztus végén rendezett Intel Developer Forumon jelentette be, hogy szerverekbe és munkaállomásokba szánt SSD-kkel jelentkezik. Az egyelõre csak 32 gigabájtos kivitelben kapható X-25E Extreme SATA SSD szállítását októberben kezdte meg a cég, ez az egység azonban SATA felületû, a Hitachival közösen fejlesztett meghajtók a felsõbb szegmenst célozzák, Serial Attached SCSI (SAS) vagy Fibre Channel (FC) interfésszel rendelkeznek majd. A Hitachi egyelõre nem is tervezi, hogy noteszekbe vagy asztali PC-kbe szánt SSD-t dobjon piacra.
+
+Az IBM merevlemezgyártó részlegének megvásárlásából létrejött Hitachi GST a Seagate és a Western Digital mögött a világ harmadik legnagyobb merevlemezgyártója. A Seagate 2007-ben 175 millió merevlemezt szállított le, piaci részesedése 33,9 százalékot tett ki, a Western Digital 22 százalékot, a Hitachi 17 százalékot szerzett. Az Intel és a Hitachi GST közös fejlesztésû SSD-i a Hitachi márkaneve alatt kerülnek forgalomba, elõreláthatóan 2010-tõl.

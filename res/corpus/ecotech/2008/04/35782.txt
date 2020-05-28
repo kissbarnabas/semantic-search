@@ -1,0 +1,12 @@
+Adatmentéssel foglalkozó izraeli céget vett meg az IBM
+
+Az IBM csütörtökön bejelentette, hogy megvásárolja az izraeli FilesX vállalatot, amely adattárolási, adatvédelmi szoftvereket fejleszt. Az ügylet pénzügyi részleteit az érintettek nem hozták nyilvánosságra, csupán annyit lehet tudni, hogy a tranzakció "nagyon hamar" lezárul.
+
+
+
+A FilesX Xpress Restore terméke az üzleti kritikus adatok védelmét látja el, mégpedig folyamatosan, a változásokat blokkszinten mentve, ezzel gyakorlatilag kiváltva a szalagra vagy más adathordozóra történõ napi mentéseket. A szoftver az egyes alkalmazásokat, illetve adatokat elõre beállított házirendek alapján akár eltérõ sûrûséggel is képes menteni, ezáltal ideálisan felhasználva az erõforrásokat (pl. diszkkapacitás, sávszélesség). A mentések arra is felhasználhatók, hogy egy állomány régebbi verzióját megtaláljuk, az Xpress Restore tetszõleges mennyiségû változatot képes egy fájlból visszamenõleg tárolni.
+
+
+A termék az összes Windowson futó kritikus alkalmazást támogatja, beleértve a Microsoft saját termékein túl például az SAP és Oracle szoftvereit is. Az Xpress Restore technológiai alapjait felhasználva a FilesX létrehozta az Xchange Restore-t, ami kimondottan Exchange-környezetek védelmét szolgálja, és akár egyetlen objektumot, például egy véletlenül törölt üzenetet vagy naptárbejegyzést is képes "visszahozni" anélkül, hogy az egész Exchange adatbázist (EDB) vissza kellene állítani.
+
+A FilesX felvásárlásával megszerzett technológiák az IBM Tivoli termékvnalába kerülnek bele. Az izraeli cég a Nagy Kék idei negyedik akvizíciója, a vállalat korábban egy másik izraeli, adattárolásban érdekelt céget is megvett (XIV), emellett felszippantotta a Net Integration Technologiest, valamint az AptSoftot. Tavaly az IBM összesen kilenc céget vett meg, köztük 5 milliárd dollárért az üzleti intelligenciában érdekelt kanadai Cognost.

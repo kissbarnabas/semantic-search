@@ -1,0 +1,14 @@
+Rágyúr a Windows Mobile-ra a Microsoft
+
+A jövõ heti Mobile World Congressen mutatkozik be a Microsoft My Phone szolgáltatása, amely a windowsos okostelefonokon tárolt adatokat képes szinkronizálni egy online tárhellyel -- hasonlóan a Nokia Ovihoz vagy az Apple MobileMe-hez. A SkyBox kódnéven fejlesztett My Phone kezdetben zárt, meghívásos béta keretében lesz elérhetõ, késõbb pedig ingyenes szolgáltatásként mûködik majd.
+
+
+
+A My Phone hasznos lehet, ha a készüléket ellopják vagy tönkremegy, mivel így a rajta tárolt fontos adatok (pl. nevek, címek, telefonszámok, határidõk, üzenetek) nem vesznek el, és készülékcsere esetén csak vissza kell tölteni õket. Az online tárhelyen a felhasználók egy böngészõbõl is szerkeszthetik az információkat, a változtatások a legközelebbi szinkronizációkor töltõdnek le a telefonra. A My Phone segítségével a mobiltelefonnal készített képek is automatikusan feltölthetõk az online tárhelyre, és megoszthatók a barátokkal, ismerõsökkel.
+
+A Windows Mobile-t kezdetben a vállalati felhasználók igényeit szem elõtt tartva fejlesztették, mára azonban világossá vált, hogy az okostelefonok piacát egyre inkább a fogyaszói igények mozgatják. Ehhez a trendhez a Microsoftnak is alkalmazkodnia kell, különben a perifériára kerül a Symbiannal, a BlackBerry OS-szel vagy éppe az Apple Mac OS-szel folytatott küzdelemben, nem is beszélve a rendkívüli sikernek ígérkezõ Google Androidról. Korábban sokat pletykáltak arról, hogy a redmondi cég a saját kezébe veszi a sorsát a telefonpiacon és a szoftverplatform mellett egy vagy több készülékkel is piacra lép, a cég azonban kategorikusan cáfolta ezeket a híreket.
+
+
+ A Microsoft a jövõ heti barcelonai konferenciát használja majd arra, hogy bemutassa új mobiltelefonos stratégiáját, amelynek a része a My Phone szolgáltatás is. A hírek szerint a rendezvényen bemutatkozik az áttervezett kezelõfelületû Windows Mobile 6.5 operációs rendszer, illetve egy új szoftveráruház, ahonnan a felhasználók windowos mobilalkalmazásokat tölthetnek le készülékükre -- hasonlóan az Apple App Store-jához vagy a Google Android Markethez.
+
+Utóbbira azért is nagy szükség lenne, mert Windows Mobile platformon alkalmazások tízezrei érhetõk el, azonban nincs egy olyan katalógus, ahol a felhasználók át tudnák tekinteni ezeket a szoftvereket és ki tudnák választani az igényeiknek leginkább megfelelõt. Egy ilyen szoftverkönyvtárral egy helyre koncentrálhatók a felhasználók és a fejlesztõk, a kereslet és a kínálat könnyebben találkozhatna egymással, ami végeredményben elõrelendítené a Windows Mobile szekerét.

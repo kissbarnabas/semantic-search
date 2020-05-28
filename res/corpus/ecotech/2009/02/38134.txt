@@ -1,0 +1,30 @@
+Megszavazták az AMD fabless céggé alakulását
+
+Feszülten várták az AMD-nél a tegnap megtartott részvényesi közgyûlést, a cég jövõje függött ugyanis attól, hogy meg tud-e szabadulni a félvezetõgyártástól. Magyar idõ szerint délután 5 óra magasságában megszületett az eredmény: a részvényesek rábólintottak az átalakulásra, a vállalat mûködõképessége ezzel biztosított -- egy idõre legalábbis. Az AMD papírjai ennek ellenére több mint 7 százalékot gyengültek egy egyébként erõs tõzsdei napon.
+
+
+
+Fabless AMD
+
+Az AMD az eredmény megszületését követõen gyakorlatilag azonnal közölte a sikert a nyilvánossággal. Egy héten belül a második közgyûlése volt a cégnek, a múlt héti ugyanis váratlanul határozatképtelennek bizonyult, mivel a részvényesek mindössze 42 százaléka adta le szavazatát. A tranzakció, melynek végére az AMD úgynevezett fabless, vagyis saját félvezetõgyár nélküli chiptervezõ céggé alakul át, a felek tervei szerint március 2-ával lezárul. Ez az átalakulás bár történelmi mérföldkõ a cég életében, a modell egyáltalán nem ismeretlen: a szingapúri Chartered már eddig is csúcskapacitásként üzemelt az AMD számára, míg az ATI Radeonokat tiszta fabless modellben állítják elõ, a gyártást a tajvani TSMC végzi. 
+
+A fabless modellel az AMD megszabadul a drezdai komplexum üzemeltetése és folyamatos modernizációja jelentette hatalmas pénzügyi tehertõl, likviditásának védelme okán az elmúlt negyedévek során már finanszírozni sem tudta a hosszú távú versenyképességhez szükséges tõkeberuházásokat, az lényegében a Fab 36 45 nanométeres konverziójára szorítkozott, ami a termelési költségek jelentõs leszorítását és nagyobb teljesítményû chipek elõállítását teszi lehetõvé.
+
+
+ A drezdai ballaszt lecsatolásával az AMD gyártási tevékenység 66 százalékos tulajdonrészéért és AMD részvényekért cserébe ráadásul összesen mintegy 800 millió dollár friss tõkéhez is jut az Abu Dhabi-i Advanced Technology Investment Company (ATIC) és a Mubadala Development Company konszern részérõl, így likviditása akkor sem kerül újra veszélybe legalább egy éven át, ha a piaci körülmények nem javulnak -- az idei elsõ félév különösen kegyetlennek ígérkezik.
+
+Foundry, az új foundry
+
+A processzorok termelését végzõ drezdai Fab 36 és Fab 38 félvezetõgyárak, valamint a kínai és maláj tesztelõ- és tokozóüzemek ATIC többségi tulajdonában lévõ Foundry vegyesvállalathoz kerülnek át, egy 1,2 milliárd dolláros hitelállománnyal és 3 ezer alkalmazottal egyetemben. A szerzõdéses chipgyártóként megjelenõ Foundryba az ATIC öt év alatt akár 6 milliárd dollárnyi tõkeberuházást eszközöl, aminek nagy részét a drezdai Fab 38 ismételt beindításához szükséges gyártósorok telepítése, a 32 és 22 nanométeres csíkszélességû eljárások bevezetése, valamint egy új, New York-i gyár építése teszik majd ki. Ezen túlmenõen évi több százmillió dollárt kell fordítania majd az IBM-mel közös félvezetõtechnológiai kutatás-fejlesztésekre is.
+
+[+] A bejelentés: Arab tõke segítségével szervezi ki gyártását az AMD 
+
+A jelenleg mintegy 25 milliárd dolláros foundry-piac jelenleg ezzel egy tõkeerõs és nagy szereplõt kap, mely az AMD-nek köszönhetõen egybõl csatlakozik az eddig négyszereplõs élmezõnyhöz. A nagy kérdés az, hogy a Foundry mennyi ügyfelet lesz képes szerezni, hogy nagyobb méretgazdaságosságra tegyen szert, és fenn tudja tartani a hatalmas és drága gyártási kapacitásokat, miközben az olyan jelenlegi piacvezetõk, mint a TSMC vagy UMC is felesleges kapacitásokkal küszködnek. A hosszútávú piaci kilátások ugyanakkor kezdvezõek, a szerzõdéses bérgyártás aránya a teljes félvezetõpiacon belül továbbra is alacsony, 10 százalék körüli, a versenyképességhez szükséges beruházások exponenciális pályán növekvõ terheit pedig idõvel egyre kevesebben engedhetik meg maguknak, vagyis egyre többen és többen fordulnak majd a foundry iparhoz.
+
+A processzorok ettõl nem lesznek jobbak
+
+Az AMD ezzel megszabadult ugyan egy hatalmas tehertõl, és az arab tõke segítségével egyaránt biztosította a chiptervezõ és -gyártó tevékenységek túlélését, a rövid távú termékoldali problémákat azonban nem oldja meg. A vállalat mûszakilag jelenleg egyedül a szerverpiacon tudja tartani a lépést az Intellel, ez azonban a Nehalem-alapú Xeonok márciusi megjelenésével egycsapásra eltûnik, és a 4-8 utas szerverekre korlátozódik, melyek azonban az x86-os szerverszállítások mindössze kevesebb mint 5 százalékát adják.
+
+[+] Ütõképes lett az AMD Shanghai 
+
+Agresszív árazásával, hagyományosan erõs kiskereskedelmi csatornáival és jelentõs márkahû táborának köszönhetõen az asztali PC-k piacán bár szépen szerepel az AMD, részesedése az IDC szerint a 26 százalékot is meghaladja, ez a szegmens a legkevésbé nyereséges, miközben a notebookpiacon mindössze 12,1 százalékos részesedéssel, és nagyjából fele akkora átlagos eladási árral rendelkezik. Míg processzorarchitektúráit 2010-11-ben meg nem tudja újítani, AMD az olyan integrált platformtermékek sikerében bizakodhat, mint az olcsó netbookok és drága üzleti hordozható notebookok közötti területet megcélzó Yukon, mely a mobilitás, teljesítmény és ár optimális egyensúlyát találhatja meg, és egy újabb szegmenst alakíthat ki.

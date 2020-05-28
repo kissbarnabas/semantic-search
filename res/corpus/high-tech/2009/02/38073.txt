@@ -1,0 +1,18 @@
+Az Intel még februárban elkezdi villámgyors SSD-inek szállítását
+
+Az Intel még a hónap folyamán megkezdi az X-25E SSD szállítását. A szerverekbe, tárolókba szánt SATA-meghajtó egyszintû cellaszervezése következtében villámgyors olvasási és írási sebesség elérésére is képes lehet.
+
+
+
+A 2,5 hüvelykes új X-25E 64 gigabájt tárkapacitással érkezik, és villámgyors írási és olvasási sebességével újabb pezsgést vihet a piacba, ugyanis maga mögé utasítja sok szereplõ hasonló kapacitású termékeit, közte a terület egyik vezetõjével, a Samsung Electronicsszal. Az Intel X-25E sorozatú SSD-k tárterületére az adatok akár másodpercenkénti 170 megabájtos teljesítménnyel másolhatók, ezeket szekvenciálisan olvasni legfeljebb 250 megabájt/s sebességgel lehet.
+
+
+Vonzerejüket azonban leginkább nem ez, hanem mûveletvégzési gyorsaságuk jelenti: másodpercenként legalább 35 ezer 4 kilobájtos olvasást tudnak végrehajtani, miközben egy 15 ezres fordulatú SCSCI lemez kevesebb mint 200 IOPS-ra képes -- vagyis egy hatalmas diszktömb I/O-mûveleti teljesítményére képes egyetlen SSD. Ez az olyan sok kis mûveletbõl összeálló tranzakcionális területeken ütközik ki, mint a nagyterhelésû web- és adatbázis-kiszolgálás vagy egy IT-infrastruktúra központi naplózása.
+
+Az Intel X-25E szilárdtestes meghajtó SLC-felépítésû (egyszintû cellaszervezés), az olvasási késleltetés pedig 75 mikromásodperc, ami mintegy negyvened része egy 2,5 hüvelykes, percenként 15 ezret pörgõ merevlemezének. Az X-25E egy ausztrál online viszonteladónál már rendelhetõ, melyet az Intel február 22-tõl szállít. A 64 gigabájtos X-25E ára 790 amerikai dollár lesz, mellette a korábbi, 32 gigabájtos változat változatlan, 410 doláros áron kapható. 
+
+Áruk bár kapacitásarányosan magas, a hasonló felhasználási célú vállalati szerver SSD-khez képest olcsók, és gyorsítótárként alkalmazva akár több tucat merevlemezt válthatnak ki, ami végeredményben költség- és helymegtakarítást jelent, valamint egyszerû és olcsó megoldását kínálják a lemezmûveleti sebességre visszavezethetõ teljesítménybeli problémáknak -- egy szerver- vagy tárolókasztnin belüli bõvítéssel elkerülhetõ egy (újabb) külsõ tárolótömb beszerzése. SSD-opcióval már többek közt az egyes EMC Symmetrix és Clariion, a Sun Microsystems StorageTek és NetApp tárolókban, míg a tárolópiac nagyjából harmadát adó HP, IBM és Dell konzervatívabb megközelítéssel csak a jövõben tervezik bevezetni a nagyvállalati flash-meghajtókat.
+
+
+
+A villámgyors SSD-k piacra dobását az Intel számára a Micron Technologyval közös fejlesztés tette lehetõvé. Az Intel 2005-ben a Micronnal közös vegyesvállalatba, az IM Flashbe szervezte ki a NAND flashmemóriák gyártását. Az Intel és a Micron szerint az elképesztõ sebességet az ONFI 2.0 (Open NAND Flash Interface) iparági szabványnak megfelelõ felület, a korábbiaknál magasabb órajel és az új architektúra teszi lehetõvé.

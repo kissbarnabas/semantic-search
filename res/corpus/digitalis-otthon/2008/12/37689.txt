@@ -1,0 +1,54 @@
+Apple MacBook Pro: valami más
+
+Október közepén jelent meg az Apple új noteszgép-sorozata, benne az egymásra kísértetiesen hasonlító MacBookkal és MacBook Próval. Már Magyarországra is megérkeztek a gépek, szerkesztõségünk az egymásra megszólalásig hasonlító testvérek közül a nagyobbikat, a professzionális felhasználásra szánt MacBook Prót látta vendégül.
+
+
+
+Egyben van
+
+A notebook a külsejében és a mûszaki megoldásaiban is jelentõsen eltér az elõdjétõl, elsõre persze az új formaterv tûnik majd fel mindenkinek. Az új MacBook Pro "unibody" kialakítású, ami azt jelenti, hogy a házat egy alumíniumdarabból forgácsolják ki. Elsõ látásra valóban úgy is néz ki a burkolat, mint ami egy darabból áll, alulról szemrevételezve azonban láthatóvá válnak a csavarok -- végülis az alkatrészeket valahol be kell szerelni, nem igaz?
+
+
+
+Az akkut rejtõ fedél egy ötletes kilinccsel nyitható, az áramforrás pofonegyszerûen cserélhetõ, és a merevlemezt is néhány mozdulattal ki lehet szabadítani a fészkébõl. A korábbi MacBook Prónál az akku töltöttségét maga az áramforrás jelezte ki néhány LED segítségével, így a gép bekapcsolása nélkül ellenõrizhettük, mennyi üzemidõre számíthatunk még. Ezt a kijelzõt most az akkumulátorról a gépre költöztették, a ház bal oldalára. Sajnos a memóriához nem enged hozzáférést az akkufedél, a modulok cseréjéhez vagy a kapacitás bõvítéséhez már szét kell szedni a gépet. Érdemes ezért a MacBook Prót eleve a maximális 4 gigabájt RAM-mal rendelni, a mai rekordalacsony memóriaárak mellett ez amúgy sem jelent túl nagy felárat.
+
+
+
+Az alumínium borítás nem csak szép hanem praktikus is: az új MacBook Pro festése sosem fog lekopni a felhasználó csuklója alatt, hiszen nem festett. Annak érdekében, hogy a gép könnyû (2,5 kg) és vékony (2,4 cm) maradjon, az alumíniumház anyagát kénytelenek voltak papírvékonyra tervezni a mérnökök, ennek ellenére masszívnak érzõdik a gép. Strapabírási teszteknek nem vethettük alá a nálunk járt példányt, így csak remélni tudjuk, hogy leesés esetén sem sérül meg a ház a sarkoknál, éleknél. 
+
+
+
+Sajnos az alumíniumból készült háznak hátránya is van. Intenzív terhelésnél a processzor és a grafikus chip nagyon felmelegíti a borítást, fõleg a bal hátsó sarokban érhetõ ez tetten, amit huzamosabb játék vagy más 3D alkalmazás futtatásakor gyakorlatilag lehetetlen megfogni, szinte égeti a kezet. Ilyenkor a gép amúgy szinte észrevehetelenül csendes ventilátorai is rákapcsolnak és jól hallható zajjal járnak.
+
+Kijelzõ, billentyûzet, touchpad
+
+A fedelet felhajtva elénk tárul az új MacBook Pro második fontos újdonsága, a 15,4" átlójú, 1440x900 pixel felbontású kijelzõ, amelynek háttérvilágítását LED-ek szolgáltatják. A megjelenítõ a modern trendeknek megfelelõen glossy, azaz fényes felületû, ami néha nagyon zavaró. A fényes üveg a kijelzõ vastag káváját is beborítja, ami ezáltal szintén tükörré válik --  cserébe a gép még nagyobbnak látszik így. A fedél elég masszívnak tûnik, jól védi a kijelzõt, a zsanérja viszont kicsit gyenge, nem tartja teljesen stabilan az LCD-t.  A kijelzõt záró reteszt is számûzték az Apple mérnökei, mostanában nagy divat a mágneses zár.
+
+
+ A kijelzõ  LED-alapú háttérvilágítása bivalyerõs, a fényerõt a maximum közelébe növelve már alig látható a saját és környezetünk tükrözõdése, persze szabadtéri használatra azért ez sem teszi alkalmassá a MacBook Prót. Irodai fényviszonyok mellett már 25 százalékos fényerõvel is élvezhetõ képet ad a gép, a háttérvilágítás a LED-ek miatt amúgy is takarékos.
+
+A kijelzõ alatt az "új" billentyûzet, egymástól jól elkülönülõ gombokkal, hasonlót a régi MacBookon és a MacBook Airen is láthattunk. A billentyûzet a MacBook Pro egyértelmû erõssége, nagyon kellemes rajta a gépelés, a nálunk járt gép teljes magyar kiosztással rendelkezett, minden gombot ott találtunk, ahol lennie kellett, az "árvíztûrõ tükörfúrógép" teszten hiba nélkül átment. Egyetlen apró negatívum említhetõ meg talán, mégpedig az Enter gomb kis mérete. Ettõl eltekintve a billentyûzet remek, ráadásul automatikus háttérvilágítással is ellátták, amely a környezeti fényviszonyoktól függõen kapcsol be és ki.
+
+
+
+A billentyûzet alatt focipálya-méretû touchpad terpeszkedik. A MacBook Airbõl már ismerõs lehet ez is, multitouch rendszerû, azaz több érintést egyszerre érzékel. Egy ujjunkkal a kurzort irányíthatjuk, két ujjal görgethetünk, három ujjal elõre-hátra lépkedhetünk az adott alkalmazásban, négy ujjunkat függõlegesen húzva az Exposé ugrik fel, vízszintesen "söpörve" pedig a futó programok listáját hozhatjuk elõ. Az iPhone és az iPod touch által használt kétujjas nagyítás-kicsinyítés és a forgatás is remekül mûködik.
+
+
+
+Egérgombot, azaz gombokat hiába is keresnénk, nincsenek: az egész touchpad egy teljesen egybefüggõ üvegfelület, szoftverbõl konfigurálhatjuk be, hogy a terület melyik részének lenyomása legyen a "jobbklikk", illetve hogy a balklikkhez le kelljen-e nyomni a touchpadet, vagy elég legyen egyetlen ujjkoppintás. A gigantikus touchpaddel a kurzor irányítása és a görgetés teljesen egyszerû, magától értetõdõ, zseniális, a többi notebookgyártó igazán ellophatná ezt a megoldást. Persze ha valaki például egész nap Photoshopot vagy más grafikai alkalmazást használ, nem nélkülözhet egy jó egeret.
+
+
+
+A csatlakozók a MacBook Pro két oldalán kaptak helyet. Jobbra a slot-in megoldású optikai meghajtó (DVD-újraíró) és a Kensignton-zár, balra pedig a mágneses (MagSafe) tápcsatlakozó, Ethernet- és FireWire (800) csatlakozó, ExpressCard-bõvítõhely, illetve a hang ki- és bemenetek találhatók. Itt kapott helyet a MacBook Pro videokimenete is egy mini DisplayPort-csatlakozó formájában. Sajnos ha valaki másmilyen csatlakozóval ellátott monitorral, projektorral vagy tévével rendelkezik, annak 8-15 ezer forintért adaptert kell vásárolnia -- egy DVI-adapter igazán beleférhetett volna az alapárba. További negatívum, hogy indössze két USB-port került a MacBook Próra, igazán lehetne három is, és egy memóriakártya-olvasó is elfért volna a gépen. Mivel az Apple-nek egyetlen terméke sincs, amelybe memóriakártyát lehet helyezni, valószínûleg ez nem volt szempont a tervezésnél.
+
+Két grafikus chip is van benne
+
+A burkolat alatt 2,4 Core 2 Duo (Penryn) processzor dolgozik, az alaplapi chipset azonban nem az Inteltõl, hanem az NVIDIA-tól származik. A GeForce 9400M mobil chipset egy DX10-es videovezérlõt is tartalmaz, amely fényévekkel jobb teljesítményt nyújt az Intel bármelyik integrált megoldásánál, és ha ez sem lenne elég, akkor kihasználhatjuk a MacBook Próba épített másik grafikus processzort is, egy GeForce 9600 GT-t, amelyhez kiépítéstõl függõen 256 vagy 512 megabájt dedikált GDDR3 grafikus memória tartozik. Szoftverbõl választhatjuk ki, melyik videovezérlõt szeretnénk használni, sajnos a folyamathoz be kell zárni az összes futó alkalmazást és ki kell jelentkezni.
+
+
+
+A nagyobb teljesítményû grafikus chip sajnos többet is fogyaszt az integráltnál, komoly terhelés alatt gyorsan lemerül az akkumulátor, de ha a hosszú üzemidõ a fontos, akkor a GeForce 9400M használata mellett akár 5 órán keresztül is mûködik a MacBook Pro -- elismerésre méltó teljesítmény egy ekkora kijelzõvel és ilyen erõs hardverrel ellátott géptõl. A hosszú üzemidõ egyébként csak OS X alatt adottság, az Anandtech tesztje szerint Windowst indítva csak fele olyan hosszú ideig bírja az akkumulátor. Sajnos nem lehet az üzemidõt nagyobb kapacitású akkuval növelni, legfeljebb tartalék áramforrás csatasorba állításával.
+
+Az ár lehet az egyetlen ellenérv
+
+A MacBook Pro nem olcsó, az új kivitelû gép alapváltozatért bruttó félmillió forintot kérnek. Ennyiért más gyártók kínálatából is válogathatunk a jobbnál jobb, profi felhasználásra szánt gépek közül, de egyiken sem lesz OS X, egyiknek sincs ilyen jó touchpadje és valószínûleg egyiket sem fogják úgy irigyelni, mint ezt. Korábban talán a problémás garanciális és egyéb javítások szóltak egy MacBook Pro megvásárlása ellen, de október óta itthon is ugyanolyan feltételekkel javítják az Apple-gépeket mint bárhol a világon, így az áron kívül nem szól semmi ellene.

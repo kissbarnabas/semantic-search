@@ -1,0 +1,42 @@
+Windows Azure néven érkezik a Microsoft cloud-platformja
+
+A Los Angelesben zajló Professional Developers Conference 2008 rendezvényen a Microsoft fellebbentette a fátylat "cloud operációs rendszerérõl", illetve az erre épülõ szolgáltatásokról. A korábban már sokat emlegetett "cloud-Windows" végleges neve Windows Azure lett, a Microsoft cloud-szolgáltatásai pedig Azure Services Platform néven lesznek elérhetõk, várhatóan 2009-tõl.
+
+
+
+Alkalmazások a felhõben
+
+A cloud, amely az internetet felhõként ábrázoló prezentációs diákról kapta a nevét, lényegében összekapcsolt szerverek összessége, amelyek a weben keresztül elérhetõ alkalmazásokat futtatnak. Már ma is számos cloud-szolgáltatást használunk nap mint nap, gondoljunk csak például a webes levelezõkre, amelyek úgy kezelik e-mailjeinket és adatainkat, hogy azokat az interneten keresztül bárhol, bármikor elérhetjük, miközben valójában fogalmunk sincs arról, pontosan hol is találhatók, és nem is kell tudnunk: a gépek üzemeltetése, a rendelkezésre állás biztosítása nem a mi gondunk.
+
+A Microsoft &#8211; és mások szerint is &#8211; az üzleti alkalmazások egy részére is ez jelentheti a jövõt. A szoftverek felhasználói a dolgozók mellett egyre gyakrabban "külsõsök", például ügyfelek vagy partnerek, de akár az alkalmazottak is külsõssé válhatnak, ha például egy távoli telephelyen, fiókirodákban vannak, éppen utaznak vagy ha otthonról, távmunkában látják el feladataikat. Azaz egyre többek számára kell elérést biztosítani kívülrõl, így egyre több alkalmazás válik vagy válhat az interneten keresztül elérhetõ szolgáltatássá. 
+
+Az igények folyamatos, gyakran elõre kiszámíthatatlan hullámzása miatt az alkalmazások, illetve a kiszolgálásukhoz szükséges infrastruktúra méretezése komoly kihívást jelent a vállalatok számára -- fõképp a kis és közepes cégek számára, akiknek a saját IT megvásárlása, fenntartása és üzemeltetése csak teher. Leginkább az ilyen vállalatokat célozza meg a cloud-szolgáltatásokkal a Microsoft.
+
+Ray Ozzie, a Microsoft vezetõ szoftvertervezõje
+
+A cloud operációs rendszere
+
+A ma elérhetõ cloud-szolgáltatások közös jellemzõje, hogy nem létezik hozzájuk egy olyan szabványos platform, amely gondoskodna azokról az alapvetõ funkciókról és szolgáltatásokról, amelyek a számítógépen egy operációs rendszer feladatai, tehát a hardverek kezelése, az erõforrások kiosztása vagy éppen az állományok tárolása. Ezért az ilyen szolgáltatások fejlesztésekor irreálisan sok idõt kell az alapok megteremtérésre fordítani, és csak ezután jöhet a konkrét üzleti logika felépítése.
+
+A Microsoft célja a Windows Azure-rel, hogy egy ilyen operációs rendszert hozzon létre, amelyen a Windowsra írt alkalmazások ugyanúgy futnak mintha csak egy Windows Serverre telepítették volna õket. A Windows Azure tehát lényegében nem más, mint  a cloud operációs rendszere, amely kezeli a hardvereket, tárolja az adatokat, gondoskodik az erõforrások kiosztásáról, illetve környezetet biztosít a programok futásához, így ezekkel a szolgáltatások fejlesztõinek már nem kell törõdnie, õk magára az alkalmazásra koncentrálhatnak.
+
+Az Azure Services Platform komponensei éppen ezért azokat a szolgáltatásokat hivatottak megvalósítani, amelyeket a Microsoft meglevõ alkalmazás-platformja Windowson elérhetõvé tesz, vagyis adatbázist (SQL Services), munkafolyamat- és hozzáférés-kezelési szolgáltatásokat (.NET Services) és dokumentum-kezelést (SharePoint Services). Az Azure Services Platform gyakorlatilag tehát a cloud alkalmazásplatformja.
+
+
+
+A Windows Azure Serices Platform alkalmazásai ASP.NET-ben, .NET-nyelveken (késõbb PHP-ben, Rubyban, Pythonban, Javában is) készülhetnek, a mûködésükhöz magán a kódon kívül csak egy, a szolgáltatást leíró modellre van szükség, amely megmutatja a futtatókörnyezetnek az alkalmazás legfontosabb paramétereit: milyen feladatot tölt be (pl. weboldal, háttérszolgáltatás) és milyen erõforrásokat vesz igénybe, illetve hogy hány példányban, milyen rendelkezésre állással kell futnia. A fejlesztõk a meglevõ eszközeiket (pl. Visual Studio, késõbb Eclipse) és tudásukat maximálisan újrahasznosíthatják a cloud-szolgáltatások létrehozásakor. 
+
+"Ma a vállalati és webes alkalmazások fejlesztése két, egymástól távol álló világ" -- mondta a HWSW-nek Kõnig Tibor, a Microsoft fõmérnöke. "Az Azure és a cloud-szolgáltatások megjelenése paradigmaváltást sejtet. Valójában az alkalmazásfejlesztõk élete könnyebbé válik azáltal, hogy a kliensre és a felhõbe szánt alkalmazásokat pontosan ugyanazokkal a módszerekkel és eszközökkel fejleszthetik, így a két világ eggyé válik."
+
+Szoftver és szolgáltatás
+
+A cloud-szolgáltatások nem feltétlenül váltják le a helyben telepített szoftvereket, sokszor csak kiegészítik azokat. Éppen ezért a Microsoft nagy figyelmet szentelt annak is, hogy a Windows Azure alkalmazásai zökkenõmentesen illeszthetõk legyenek a meglevõ környezetekbe is. Ennek érdekében  Microsoft System Center rendszerfelügyeleti eszközcsaládja hamarosan egy "Atlanta" kódnevû komponenssel bõvül majd, amely a cloud-szolgáltatások felügyeletét hivatott ellátni. A "Geneva" kódnevû projekt pedig a Windows Azure-re írt szoftverekben használt személyazonosságkezelési keretrendszert kapcsolja össze az Active Directoryval.
+
+A Windows Azure-t, illetve az erre épülõ platformot a Microsoft mûködteti majd. A cég a várható igények kielégítése érdekében az utóbbi idõben nagyszabású fejlesztésekbe fogott és számos adatközpontot hozott létre az Egyesült Államokban (Chicago, San Antonio, Quincy) és Európában (Dublin) is, amelyek az Azure-alkalmazások otthonai lesznek. A gyors telepítés érdekében a cégnél egyébként az elsõként a  Sun által demonstrált konténeralapú adatközpontra voksoltak: a szerverek és tárolók nem a jól megszokott álpadlós, rackszekrényekkel teletömött szerverszobákban kaptak helyet, hanem konténerekben.
+
+
+ Az építõkockáknak köszönhetõen a bõvítések villámgyorsan végrehajthatók, és nincs szükség speciális épületekre sem, mivel a konténerek maguk gondoskodnak a bennük található berendezések hûtésérõl. A cég tájékoztatása szerint így tízszeresére növelhetõ a kapacitássûrûség látványos energiamegtakarítás mellett.
+
+Máris kipróbálható
+
+A Windows Azure elõzetes változata mától érhetõ el. A Microsoft a konferencia résztvevõi részére teszi lehetõvé elsõként, hogy kipróbálják a szolgáltatást, de az alkalmazások fejlesztéséhez és teszteléséhez használható, asztali gépen futó szimulált környezetet és SDK-t bárki letöltheti és szabadon, megkötések nélkül használhatja. A Windows Azure és az Azure Service Platform persze nem lesz mindig ingyenes, bár a konkrét árazásról egyelõre nem esett szó. Ray Ozzie, a Microsoft vezetõ szoftvertervezõje elõadása alatt csupán annyit árult el, az árak a szoftverek által igényelt erõforrásoktól és a kívánt szolgáltatási szinttõl függnek majd. 

@@ -1,0 +1,12 @@
+Magyar VMware felhasználói közösség alakult
+
+Bár alkalmazása több évtizedre tekint vissza, a virtualizáció napjaink informatikájának egyik slágere, ugyanis az ezredfordulót követõen megszûnt a ritka mainframe és a csúcskategóriás UNIX-rendszerek egzotikus eszköze lenni. A virtualizáció új feladatok és kihívások elé állítja a legtöbb szakembert, ennek hatására alakult meg a magyar VMware User Group.
+
+
+
+A VMware User Group egy alulról szervezõdõ felhasználói közösség, melyet az x86-os virtualizáció piacát vezetõ VMware támogat ugyan, de nem irányít. A két alapító két nagy hazai vállalatnál, a MOL-nál és a CIB Banknál éles környezetben alkalmazza a VMware virtualizációs termékeit, kihasználva azok számos fejlett képességét több tucat x86-szerver fürtözésével, magas rendelkezésre állású rendszereket üzemeltetve. Kozák Tamás, a VMware frissen kinevezett magyar képviselõje a rendezvény megnyitóján elmondta, hogy Magyarországon 19 partnerrel rendelkezik jelenleg a vállalat, és itthon 250-nél több vállalati ügyfél használja a VMware virtualizációs megoldásait. 
+
+
+Pintér Kornél, aki a CIB-nél felel az x86-os architektúra fejlesztéseiért, elmondta, hogy a VMware User Group célja a tudás megosztása és egy felhasználói közösség kialakítása, valamint egymás segítése. Kiemelte, hogy igyekeznek bemutatni a VMware termékeinek elõnyei mellett azok negatívumait is, és a marketingtõl megtisztított felhasználói tapasztalatokat bemutatni. A közösségnek saját oldala is nyílik a jövõben a virtualforum.hu oldalon, mely egyelõre még nem él, hanem a vmware.com oldalra továbbít.
+
+Pintér ezt követõen részben a CIB és az Inter-Európa Bank informatikai infrastruktúrájának integrációja és konszolidációja kapcsán beszélt arról, hogyan segíti a VMware a magas rendelkezésre állást, beleértve gépek fizikai mozgatását is. A magas rendelkezésre állás kulcseleme a VMotion, mely a vendég gépeket futás közben képes mozgatni ESX szerverek között, így a a karbantartás, a fizikai gépek cseréje, mozgatása vagy az ESX szerver frissítése sem igényli a virtuális gépek leállítását egy megfelelõen méretezett  fürt esetében, sõt a migrációkat ütemezéssel automatizálni is lehet, így például az éjszakai órákban a fizikai szerverek egy részét készenléti állapotba lehet küldeni, csökkentve az energiaköltségeket, és növelve a gépek élettartamát.

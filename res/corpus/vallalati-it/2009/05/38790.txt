@@ -1,0 +1,12 @@
+A PowerPointot és az Adobe Readert érinti csak a májusi patch kedd
+
+A Microsoft áprilisban figyelmeztetett, hogy a PowerPoint sebezhetõségét kihasználó támadások terjednek, melyekkel a támadók akár teljes irányítást szerezhetnek az áldozatok gépe felett. A népszerû prezentációkészítõ több változata is érintett, a 2007-es verzió nem, de az Office 2003-ban, Office XP-ben, az Office 2003-ban és az Office 2004 for Macben levõ igen. Nem érezhetik biztonságban magukat azok sem, akik ugyan nem használják az Office csomagot, de egy PowerPointtal készített prezentációt az ingyenesen letölthetõ PowerPoint Viewerrel nyitnak meg -- a frissítés nekik is szól.
+
+
+
+Az egyelõre közelebbrõl meg nem határozott hiba lehetõvé teszi a támadók számára, hogy egy preparált PowerPoint-állomány megnyitásakor más memóriaterületeket is elérjenek. A felhasználónak tehát egy speciálisan módosított állományt kell megnyitia a gépén, például egy weboldalról letöltve vagy e-mail csatolmányból. A Microsoft tájékoztatása szerint egyelõre kis számú célzott támadást észleltek csak,  a Secunia dán biztonsági cég ugyanakkor a lehetõ legsúlyosabb besorolást adott a sérülékenységnek.
+
+
+A PowerPoint biztonsági javításán túl a Microsoft nem biztonsági frissítéseket is közzétesz egyes Windows platformokra, így többek között a .NET keretrendszer 1.1 SP1 immár a még kereskedelmi forgalomban nem lévõ Windows Server 2008 SP2 és Vista SP2 rendszereken is elérhetõvé válik jövõ keddtõl, ahogyan a .NET 3.5 SP1 és Family Update-ek is frissítéseket kapnak. 
+
+Az Adobe is közölte, hogy jövõ kedden, vagyis május 12-én befoltozza az Adobe Readerben jelenleg szabadon tátongó két biztonsági rést, melyeket támadnak is a bûnözõk. Az Adobe Reader 7, 8 és 9 generációit minden platformon érintõ kockázatokra válaszul a vállalat azt tanácsolja, a patch érkeztéig kapcsoljuk ki a szoftverben a JavaScript-végrehajtást, hogy ne lehessen rosszindulatúan preparált PDF-fájlokkal kiaknázni a réseket. Ez rövid idõn belül a második eset, hogy a Readerben kritikus, támadás alatt álló rést fedeznek fel. 

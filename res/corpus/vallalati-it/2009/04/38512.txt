@@ -1,0 +1,17 @@
+Bõvíti virtuális tárgyalójának elérését és szolgáltatáskínálatát a Cisco
+
+A Cisco bemutatta TelePresence virtuális tárgyalótermének új változatát, mely alacsonyabb sávszélességen, a cég szerint bármilyen tárgyalóterembõl, szabványos videokonferencia rendszerrel vagy webes eszközzel használható anélkül, hogy a felhasználói élmény terén kompromisszumra kényszerítené a találkozók résztvevõit.
+
+
+
+A TelePresence technológiát eredetileg a csoportmunka elõsegítésére, a döntéshozatal felgyorsítására, valamint az utazási költségek csökkentésére fejlesztették ki a Ciscónál. A vállalat most két új alkalmazást és két hardveres fejlesztést mutatott be a virtuális tárgyalóhoz, melyek közül a TelePresence Recording Studio alkalmazás lehetõvé teszi azonnal és biztonságosan visszajátszható videoüzenetek, illetve prezentációk elkészítését, akár 1080 pixeles HD-minõségben. A Cisco közelmúltban bejelentett Media Experience Engine motorjával a felhasználók szabványos felbontásban, bármilyen, videolejátszásra képes eszközön, például PC-n, mobiltelefonon vagy digitális táblán megtekinthetik a TelePresence-felvételeket.
+
+A másik alkalmazás, az elsõsorban a rendezvényszervezõk életét megkönnyítõ TelePresence Event Controls prezentációk, vitaindító beszédek, elõadások és szemináriumok levezetését teszi lehetõvé a TelePresence helyiségekben. A vállalat a két új alkalmazással egy idõben elérhetõvé tette a TelePresence System 1300-as rendszert, mely egy 65 hüvelykes plazmakijelzõbõl és három kamerából áll. A rendszert egy helyszínen egyszerre legfeljebb hat fõ használhatja.
+
+
+
+
+
+A Cisco TelePresence a szintén mostantól elérhetõ Extended Reach technológia révén már 1,5 Mbit/s (T1) sávszélességû internetkapcsolattal is mûködik 720 pixeles felbontás mellett, szolgáltatási korlátok nélkül. Az Extended Reach támogatja a Cisco TelePresence nyílt internetkapcsolatokon (pl. nagy sebességû FIOS vagy DOCSIS) keresztüli mûködését. Ezzel a funkcióval az 1080 vagy 720 pixeles felbontású Cisco TelePresence még szélesebb körben alkalmazható.
+
+A Cisco TelePresence a Cisco leggyorsabban bõvülõ termékkategóriája. A szolgáltatást eddig világszerte több mint 300 ügyfélnél telepítették, összesen 2000 végponton. Saját belsõ hálózatán a Cisco már több mint 400 TelePresence szobát használ, amelyekkel hatékonyabb munkavégzést és csoportmunkát valósítanak meg a vállalatnál.

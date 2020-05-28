@@ -1,0 +1,14 @@
+Szoftvertesztelésben, bevezetésében segít a HP új szolgáltatása
+
+Magyarországon is megjelenik a HP Application Lifecycle Optimization (ALO) szolgáltatáscsomagja, amely a Mercury Interactive 2006-os felvásárlásával megszerzett technológiákon alapul. Ennek keretén belül a HP ügyfelei segítségére siet a szoftverek tesztelése, finomhagolása és bevezetése terén.
+
+
+
+A Quality Center és a Performance Center segítségével a HP abban segít az ügyfeleinek, a szolgáltatás igénybevevõinek, hogy alkalmazásaikat hogyan teszteljék bevezetés elõtt, miképp javítsák a minõségüket, teljesítményüket. A HP akár a teljes tesztelési és bevezetési folyamatot szolgáltatásként tudja biztosítani, így a megrendelõ a saját üzleti mûködésére koncentrálhat. A HP szerint az ALO szolgáltatások igénybe vételével mérsékelhetõ a teszteléssel, bevezetéssel és telepítéssel járó kockázat, illetve költség.
+
+
+Kristóf Judit, a HP marketing-igazgatója lapunk érdeklõdésére elismerte, ma még nem tudatosult mindenkiben, hogy a szoftverek minõségbeli hiányosságai -- amik adott esetben komoly veszteségeket okozhatnak -- helyes tervezéssel, folyamatokkal és eszközökkel kezelhetõvé válnak. A vezetõ mindazonáltal úgy véli, a hazai piac már megérett egy ilyen típusú szolgáltatás bevezetésére. "Kerestek már meg minket azzal, hogy a tesztelés a cégnek nem a alaptevékenysége, ezért szívesen rábízná szakértõre ezt a feladatot" -- mondta Kristóf.
+
+ A HP igény szerint képes az ALO szolgáltatást igénybe vevõ ügyfélnek komplett tesztstratégiát kidolgozni a folyamatok, emberi erõforrások és a rendelkezésre álló idõ függvényében, módszertani tanácsadást nyújtani a fejlesztés menetéhez, a roadmapek kidolgozásához, az éles bevezetés elõtt teljesítmény-teszteket és funkcionális teszteket végezhet szimulált környezetben.  Change Impact Testing a vállalatirányításai alkalmazások életciklusában rendszeresen elõforduló változtatások, patch-ek bevezetésének minõségbiztosítását javítja, a tesztelési ráfordításokat csökkenti, illetve a bevezetési kockázatokat csökkenti azáltal, hogy kiértékeli a változtatásoknak az alkalmazás egyes komponenseire gyakorolt hatását.
+
+"A HP Quality Center és HP Performance Center termékekhez kapcsolódó szolgáltatásokat fõként olyan vállalatoknak ajánljuk, akik lépni szeretnének az alaptevékenységet támogató alkalmazások minõségének javítása érdekében, és   szakértelemhiánnyal, esetleg munkaerõhiánnyal küszködnek az informatika ezen területén" -- mondta Dacher László, a HP ALO szolgáltatásokért felelõs vezetõje. Kristóf Judit szerint elsõsorban a pénzügyi szektorban, illetve nagyvállalatok esetében pénzügyi, ERP alkalmazásoknál merülhet fel igény ilyen szolgáltatásokra -- akár folyamatosan, akár egyes fejlesztési, bevezetési projektek mentén.

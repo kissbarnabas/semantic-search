@@ -1,0 +1,8 @@
+Push Gmail Apple iPhone-ra
+
+Hamarosan letölthetõ lesz a GPush, amely az új iPhone 3.0 szoftver "Push Notifications" funkcióját használja a Gmail-fiók tartalmának ellenõrzésére. Maga az alkalmazás a lehetõ legegyszerûbb, ami lehetséges, mindössze a Gmail felhasználónevet és jelszót kell megadni, a bejelentkezési adatokat bekérõ képernyõn túl nincs is kezelõfelülete. A szoftver a beérkezõ levelek után néhány másodperccel figyelmezteti az iPhone-felhasználót az új e-mail érkezésére. A módszer elõnye, hogy a GPush teljesen a háttérben fut, s nem szükséges hozzá életben tartani a levelezõt, így az nem rontja az akkumulátor rendelkezésre állási idejét, s nem kell a levelezõnek 5-10-15 percenként felcsatlakoznia feleslegesen a Gmail szerverére.Az értesítést követõen az üzenet megnyitása természetesen az alapértelmezett kliensben történik, a megszokott környezetben. A GPush ugyan egy harmadik félen keresztül vezeti a felkhasználói nevet és a jelszót, de a fejlesztõ Tiverias állítása szerint az adatok SSL-titkosítással utaznak a Google szerveréig,  elméletben ez nem jelent nagyobb rizikót, mint a Facebookon megadni a bejelentkezési adatokat, hogy a szájt a leveleink alapján keresse meg barátainkat.
+A nagy kérdés, hogy az Apple jóváhagyja-e az alkalmazást. Ugyan elméletben a GPush nem sérti a szigorú fejlesztõi feltételeket, de amikor levelezésrõl van szó, akkor az Apple meglepõen sûrûn szelektál. Amennyiben mégis élesedik, akkor a program mindössze 1 dollárba kerül majd a Techcrunch szerint, ami bárki számára elhanyagolható összeg a kényelemért cserébe, amit a program ad majd.	     
+                  
+                  
+                  
+                   

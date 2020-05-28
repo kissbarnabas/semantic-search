@@ -1,0 +1,20 @@
+Legális zeneletöltés az amerikai egyetemeken az illegális fájlcsere visszaszorítására
+
+[ARS Technica/HWSW] Meghökkentõ statisztikák születtek az idei amerikai Educause kutatás során: a vizsgált 1016 egyetem és fõiskola 15 százalékában már üzemeltetnek az intézmény által támogatott legális zene- és filmletöltõ szolgáltatást, hogy elkerüljék a fájlcserélõk túlzott elburjánzását az iskolai hálózatokon. Az intézmények további 17 százaléka pedig már tervezi, hogy bevezet ilyen szolgáltatást, vagy ehhez hasonló módon próbálja meg orvosolni az illegális fájlcsere okozta problémákat.
+
+
+
+Túl sok kompromisszum
+
+Az elmúlt években az amerikai sajtóban idõrõl idõre felbukkantak az efféle kezdeményezésekrõl szóló hírek, de a korai tapasztalatok azt mutatták, hogy kevéssé sikerült meggyõzni a hallgatókat arról, hogy a szponzorált letöltõket használják a peer-2-peer hálózatok helyett. Pár évvel ezelõtt -- és sok helyen még ma is -- fõként az okozta a problémát, hogy a szponzorált letöltõk kizárólag a Windows platformot támogatták, a zenefájlok pedig jogvédettek voltak, így nem lehetett õket bármilyen lejátszóra átmásolni. A Rhapsody és a Napster "felsõoktatási változata" elsõ körben kudarcot vallott a legtöbb helyen, pusztán azért, mert a hallgatók 19 százalékának Apple Mac gépe volt, a legtöbbjüknek pedig valamilyen iPodja, melyekkel nem tudták igénybe venni az iskolai rendszert.
+
+
+A túlságosan kötött legális megoldásoknak esélye sem volt, hogy a jóval egyszerûbb illegális fájlcserélõket megelõzzék népszerûségben. Olyan iskolák is voltak, ahol a hallgatóknak fizetnie kellett volna a letöltõk használatáért, amit végképp elutasítottak a fiatalok. Nem elsõsorban azért, mert pénzbe került, hanem egyszerûen az nem tetszett nekik, hogy helyettük választanak szolgáltatót, mégis nekik kell állni a számlát. 
+
+A legfrissebb Educause kutatásból is kiderül, hogy a tartalomtulajdonosok nem véletlenül figyelik árgus szemekkel a felsõoktatást, az intézményi infrastruktúrákat, hiszen minden egyetemi campus oázis a letöltõk számára. Az intézmények lakóépületeinek 97,9 százalékában szélessávú internetelérés van, ezek 85 százalékban 10 Mbps-nél, 44 százalékban pedig még 100 Mbps-nél is nagyobb sávszélességet kínálnak minden egyes szobában.
+
+Fenyegetõ szervek
+
+Az amerikai lemezkiadókat tömörítõ RIAA a "Digital Millenium Copyright Act" törvényre hivatkozva felszólítások és fenyegetõ levelek tömkelegét küldte el egyetemeknek, így azok kénytelenek voltak védekezõ pozíciót felvenni, és megoldást találni a hálátlan helyzetre. Az amerikai felsõoktatási törvény legújabb változatában pedig a Kongresszus is elõírja az intézményeknek, hogy kezeljék a problémát. A legtöbb jogkövetõ intézmény így kényszerûségbõl is be kell vezesse majd a legális letöltõszolgáltatást, hiszen mindeddig ez bizonyult az egyetlen mûködõ módszernek. 
+
+Az Educause kutatásai szerint a "jó útra térés" egyelõre lassan halad, de a nagyobb létszámú intézmények elég agresszíven hajtanak a legális rendszerek beindítására. A fent említett Napster, Rhapsody vagy a Ruckus bizonyára örömmel támogatják a folyamatot, akkor is, ha a kiadók nagy része nem enged nekik DRM-mentes zenét forgalmazni. Sõt, a Ruckus külön pénzt kér a médialejátszóra, CD-lemezre másolás engedélyeiért. A látványos kampány így a felmérés szerint sem járhat egyértelmû sikerrel, maximum azt érik el az egyetemek, hogy a jogvédõk figyelmét elaltatják kicsit. Az intézményi hálózatok túlterheltségét és a jogosulatlan másolás kérdését viszont csupán a szõnyeg alá söprik.

@@ -1,0 +1,24 @@
+Microsoft: semmi ok az aggodalomra, 2014-ig támogatjuk az XP-t!
+
+A Microsoft egy nyílt levélben igyekezett megnyugtatni az ügyfeleit, vásárlóit arról, hogy egészen 2014-ig biztosít támogatást a Windows XP operációs rendszerhez. A szoftver otthoni változatai (XP Home, Media Center) az eredeti tervek szerint 2009-ig lettek volna támogatottak, azonban a Professionalhez hasonlóanezeket is 2014-ig támogatja majd a Microsoft, vagyis ugyanolyan elbírálás alá esnek ebbõl a szempontból, mintha üzleti szoftverek vagy fejlesztõi eszközök lennének.
+
+
+
+
+ Amint arról lapunk is többször beszámolt, 2008. június 30-án a Windows XP értékesítése megszûnik, bár a boltokban ezután is elérhetõk lesznek XP-vel elõre telepített gépek. A Windows Vista Business és Ultimate verziók downgrade-elhetõk Windows XP Professionalre, és a szállítók 2009. január 1-ig kínálhatnak is olyan gépeket, amelyekre Vista helyett Windows XP-t telepítettek, így ha valaki ragaszkodik a "régi" operációs rendszerhez, továbbra is használhatja. A "csökkentett képességû" gépeken, UMPC-ken, netbookokon, MID-eken egyébként 2011-ig lehet még XP-t vásárolni.
+
+
+
+A Vista számokban
+
+A 2007 januárjában kereskedelmi forgalomba került Windows Vistából a Microsoft a márciusban véget ért pénzügyi negyedév végéig összesen 140 millió példányt értékesített -- a cég szerint a felhasználók ugyanolyan ütemben állnak át az új Windowsra, mint annak idején XP-re. A Vista egyébként már közel 80 ezer hardvert támogat és a 100 legnépszerûbb fogyasztói alkalmazásból 98 mûködik alatta -- olvasható a Microsoft weboldalán. 
+
+
+
+A vállalat rendes terméktámogatási ciklus keretében 2009 áprilisáig biztosít "mainstream" támogatást a Windows XP-hez, amelybe a biztonsági és egyéb javítások kiadása és kérés esetén új funkciók fejlesztése mellett beletartozik az ingyenes és fizetõs telefonos és online támogatás is. Ezt követõen 2014 áprilisáig már csak kritikus biztonsági javítások készülnek a szoftverhez, a telefonos és egyéb támogatás viszont már csak a kiterjesztett támogatási szolgáltatást megvásárló ügyfelek számára lesz elérhetõ.
+
+"A Windows Vista jelentõs elõrelépés, de a vásárlóink világossá tették számunka, hogy szélesebb körû hardver- és alkalmazás-támogatást szeretnének" -- írja a levélben Bill Veghte, a Microsoft Windows Business Group vezetõje, hozzátéve, hogy a redmondi cég folyamatosan együtt dolgozik a hardver- és szoftvergyártókkal azért, hogy elhárítsák a Vistára váltani szándékozók elõl az akadályokat. A levélben egyébként Veghte megerõsíti, hogy a Windows soron következõ változata, az egyelõre Windows 7 kódnéven fejlesztett szoftver 2010 elejéig piacra kerül. A HWSW úgy tudja, a szoftver elsõ bétája akár már idén õsszel megjelenhet.
+
+[+] 2010-ben érkezik a Windows Vistára épülõ Windows 7 
+
+"A tudomásunkra hoztátok, hogy nem akartok olyan kompatibilitási problémákat a Windows következõ verziójával, mint amilyenekkel a Vista megjelenése utáni korai idõszakban találkozhattatok" -- írja Veghte. Az új operációs rendszer a Windows Server 2008 továbbfejlesztett kernelére fog épülni, a meghajtóprogramok és alkalmazások kompatibilitása azonban megmarad, így a Vistához kiadott szoftverek és driverek mûködnek a Windows 7-en is.

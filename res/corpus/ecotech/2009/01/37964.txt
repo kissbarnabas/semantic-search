@@ -1,0 +1,20 @@
+Összeomlott a grafikus chipek piaca is
+
+A csatornákban ragadt készletek, a negatív kilátások, valamint a PC-eladások zuhanása magával rántotta a grafikus chipek piacát is a tavalyi negyedik negyedévben. A Jon Peddie Research számai alapján 2008 utolsó három hónapjában csupán 72 millió GPU-t szállítottak le a gyártók, ami 28 százalékkal kevesebb mint egy évvel korábban.
+
+
+
+Az elmúlt években a harmadik negyedévrõl a negyedik negyedévre átlagosan 8 százalékkal nõttek a GPU-eladások, tavaly azonban 34 százalékos összeomlásnak lehettek tanúi a gyártók. Az összeomlás oka részben az is, hogy a harmadik negyedévben a vártnál jóval több GPU fogyott, a negyedik negyedévben pedig jóval kevesebb. A desktop szegmensben a visszaesés közel 40 százalékos volt, ide 37,4 millió GPU került, míg notebookokba szánt változatokból 34,9 milliót szállítottak a cégek, ami "csak" 29 százalékos visszaesés.
+
+[+] Hatalmas pofont adott a PC-piacnak a gazdasági válság  
+
+Noha már több noteszgép fogy mint desktop PC, az utóbbiakhoz még mindig több grafikus chipet szállítanak a cégek. Ennek oka, hogy az asztali PC-kben gyakran több GPU is található, például ha a vevõ elégedetlen a chipsetbe integrálttal és vásárol egy videokártyát, a csúcskategóriás konfigurációkban pedig nem ritkák a kétchipes vagy akár két videokártyás megoldások (SLI, Crossfire). Ugyan ma már elkezdtek terjedni a két GPU-t tartalmazó noteszek is (pl. Apple MacBook Pro), ezek piaci aránya még elhanyagolható.
+
+
+ A Jon Peddie által nyilvánosságra hozott számokból nem csak a piac, hanem a gyártók teljesítménye is kiviláglik. Úgy tûnik, az NVIDIA ki tudta heverni az AMD csapását és piacot nyert vissza, részesedése egy negyedév alatt 3 százalékponttal emelkedett. Eközben az AMD és az Intel részesedése is enyhén csökkent, az AMD-é 20,6-ról 19,3 százalékra, az Intelé pedig 49,4-rõl 47,8 százalékra. A Matrox, a SiS és a VIA/S3 marginalizálódása eközben folytatódott, a cégek összesített részesedése alig haladja meg a 2 százalékot.
+
+Az AMD már korábban nyilvánosságra hozta negyedik negyedéves eredményeit, a cég grafikus részlege 30 százalékos bevételcsökkenéssel kellett szembenézzen, a 270 milliós bevételhez 10 milliós üzemi veszteség is társult. Érdekes ugyanakkor, hogy a Radeonok átlagos eladási ára növekedett, a cég ugyanis a kíméletlen körülmények ellenére elõre tudott törni a desktop-szegmensben, ami nem kis fegyvertény. Az NVIDIA még nem adott számot negyedéves teljesítményérõl, azonban a társaság korábban már közzétett egy figyelmeztetést, mely szerint forgalma 40-50 százalékkal kevesebb lesz mint egy évvel korábban.
+
+[+] A vártnál sokkal mélyebb veszteség az AMD-nél
+
+Ami a 2009-es évet illeti, a Jon Peddie szerint az elsõ és második negyedévben a dotkom-lufi kipukkanása óta nem látott gyengeség várható a piacon, a harmadik és negyedik negyedévre azonban megindul az erõsödés.

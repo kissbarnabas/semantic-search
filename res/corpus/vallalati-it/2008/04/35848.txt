@@ -1,0 +1,16 @@
+Forrester: két szék közül a padlóra esehetnek a Windows 7-re váró vállalatok
+
+A vállalatoknak nem szabad megvárniuk a Windows 7-et, és kihagyniuk a Vistát a frissítési ciklusból -- áll a Forrester Research által most kiadott jelentésben. Egy április elején, szintén a Forrester által kiadott dokumentum szerint 2007 végén a vállalati Windows-desktopoknak csak 6 százaléka volt Vista, ami az igen lassú terjedés bizonyítéka.
+
+
+
+A Vista lassú terjedése kapcsán máris felreppentek olyan találgatások és elméletek, amelyek szerint a vállalatok egy része egyszerûen kihagyja a Windows Vistát a frissítési ciklusból és Windows XP-rõl egybõl Windows 7-re vált majd. A Forrester által most kiadott jelentés szerint azonban a Windows Vistát kihagyó cégeknek is szembe kell nézniük a "nyers valósággal". Összességében az elemzõcég azt javasolja a vállalatoknak, mihamarabb kezdjék meg az áttérést Windows Vistára, nehogy végül két szék közül a padlóra essenek.
+
+A Windows 7 bevárásának számos kockázata van a Forrester szerint. Az elsõ midjárt az, hogy egyelõre semmit sem lehet tudni a következõ generációs asztali Windows új funkcióíról, felépítésérõl. Egyelõre az sem világos, pontosan mikor is jelenhet meg a szoftver: a Microsoft mindössze annyit állít, hogy a termék három évvel a Windows Vista után érkezik, vagyis legkorábban 2010 elején jelenhet meg, de a Vistához hasonlóan a Windows 7 is könnyen késhet. Eközben a Windows XP ideje lassan lejár...
+
+
+ A Windows Vista terjedésének egyik legfõbb gátját az alkalmazás-inkompatibilitás jelenti, a legtöbbször azonban a házon belül készített szoftverek buknak el, amelyek fejlesztésénél nem vették figyelembe a Windows-alkalmazások tervezésére vonatkozó irányelveket. A Forresternél úgy vélik, érdemes lehet ezeket az alkalmazásokat minimális ráfordítással Vista-kompatibilissé tenni, általában elegendõ a jogosultság-kezelésre vonatkozó részt átírni, újraírni, hogy megfeleljen a Vista szigorúbb elvárásainak.
+
+A Forrester szerint eközben méltatlanul kevés szó esik azokról a cégekrõl, amelyek bevezették és megelégedéssel használják a Vistát. Az elemzõcégnél úgy látják, a jobb adminisztrációs eszközök, a User Account Control és a hozzá hasonló biztonsági fejlesztések, valamint az integrált keresés látványos hatékonyságnövekedést hoz magával. A felhasználókat gyakran a halálba idegesítõ User Account Control kapcsán a Forrester azonban megjegyzi, hogy szükséges lehet a finomhangolása, hogy a mûködése ne legyen túlságosan zavaró.
+
+A Forrester azt tanácsolja a Vistát bevezetõ cégeknek, hogy a frissítést kapcsolják össze a PC-k frissítésével, így a hardver-kompatibilitással biztosan nem lesz gond, valamint álljanak a sarkukra a szoftvergyártóknál a kompatibilitás biztosítása érdekében, esetleg virtualizációval hidalják át ezt a problémát.

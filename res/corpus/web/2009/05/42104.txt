@@ -1,0 +1,27 @@
+A Gmail véget vetne a bábeli zûrzavarnak
+
+Nem érteni levélnek jelentés
+
+A Google szokás szerint az új Gmail funkciót a Labs nevû kísérleti homokozóban tette elérhetõvé a felhasználók számára. Miután nemrégiben a rendszert magyar nyelven használók számára is elérhetõvé vált a Labs, nem csak az amerikaiak számára nyitott a lehetõség. A cég kommunikációja szerint a Gmailt fejlesztõk egyik elsõdleges szempontja, hogy az emberek közti kommunikációt a lehetõ legegyszerûbbé és leghatékonyabbá tegyék, így a praktikus levelezõ funkciók fejlesztése mellett természetszerû, hogy a nyelvi akadályok leküzdése is egy kiemelt terület.
+
+Peresztegi Zoltán, a Google magyarországi üzletfejlesztési vezetõje szerint a "Gmail Message Translation funkció különösen fontos lehet a magyar felhasználók számára, hiszen akkor sem kell kimaradniuk egy beszélgetésbõl, ha nem ismerik az adott nyelvet". Márpedig a fiatal generációkat leszámítva hazánkban sajnos valóban nem jellemzõ az idegen nyelvek elfogadható szintû ismerete. Ha igen, az akkor is többnyire az angol, esetleg a német, miközben akik a környezõ régióban szeretnének érvényesülni, azok számára ez sokszor kevés.
+
+
+
+Alakul? 
+
+
+41 nyelv mindenkinek
+
+A Gmail Message Translation a Labs funkciólistájában található meg tegnap este óta, és az aktiválás után az általános levelezési beállítások közt is feltûnik. Itt adható meg az alapértelmezett nyelv, amire fordít a program, ha ettõl eltérõ nyelven érkezik az üzenet. Ha valaki magyarra állítja, akkor minden esetben, mikor más nyelvû levelet nyit meg, akkor a levél felett egy feltûnõ csík jelenik meg, rajta a Translate funkciókkal. Egy kattintás után pedig a szöveg értelmezhetõvé válik.
+
+Legalábbis elméletben. A gyakorlat továbbra is azt mutatja, hogy a Google Translate gépi fordítása még mindig messze van az elfogadható vagy a használható szinttõl. Leginkább viccesnek hatnak azok a fordítások, melyeket a megoldással kapunk, legyen szó magyarról vagy magyarra fordításról. Komolyabb probléma, hogy a szótár még mindig nem képes felismerni a toldalékok nagy részét, így ezeket a szavakat érintetlenül hagyja. Magyarról fordítás esetén pedig az eltérõ szintaxis miatt gyakran fordul meg a mondat értelme, és válik a tagadás állítássá vagy fordítva. Rokon nyelvek között, illetve fõként a latin nyelvek esetén jobban mûködik a szolgáltatás, az értelem nem veszik el, csak a nyelvi helyesség szenved némi csorbát.
+
+
+Végre megérthetjük az orosz spameket 
+
+Ennek ellenére a fordítási szolgáltatás hasznos lehet külföldi nyaralások egyeztetésekor, amennyiben szlovénul vagy svédül érkezik meg a szobafoglalás jóváhagyása, akkor mûködhet. Nem folyó szövegek esetén a fordítási teljesítmény teljesen rendben van, így táblázatok, rövid felhívások, figyelmeztetések megértéséhez hasznos eszköz lehet. Ugyan praktikus jelentõsége nincs, de végre könnyen értelmezhetõek lesznek a cyrill-betûs orosz spamlevelek is.
+
+Chaten is mûködik
+
+Aki nem elégszik meg a levelezés fordításával, annak a Gmail következõ ajánlata a Gtalk chaten belül mûködõ fordító robotok segítségének igénybevétele. Habár ez a megoldás már régóta mûködik, a legtöbben nem hallottak még róla. A "Translation Bots" megoldás lényege, hogy a Gtalkban a fordítórobotok felvehetõek az ismerõsök közé, s beírva nekik egy szöveget, a kiválasztott nyelvre fordítják azt le a válaszüzenetben. Mindegyik robot csak 1-1 nyelven és egy irányba fordít, tehát ha valaki angolról németre szeretne fordítani, akkor az "en2de@bot.talk.google.com" címet kell felvennie. A beállítások részletes ismertetõje a Google Talk Help rovatában található. A fordító robotok magyar nyelven viszont nem mûködnek, akik egy másik nyelven sem beszélnek, azoknak chateléshez marad a webes fordítás.

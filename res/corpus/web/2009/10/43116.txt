@@ -1,0 +1,11 @@
+A mobiltelefonok felé nyit a Flash Player 10.1
+
+A Flash Player 10.1 publikus bétatesztje bizonyos platformokon (Windows, Linux, Macintosh, Windows Mobile, Palm webOS) még idén év végéig megkezdõdik, a Google Androidot és Symbian OS-t futtató okostelefonokra pedig valamikor a jövõ év elején válik elérhetõvé az elsõ bétaverzió. A fejlesztés ütemétõl függõen a végleges változat a legtöbb platformra még 2010 elsõ felében elkészülhet - nyilatkozta az eWEEK-nek Adrian Ludwig, az Adobe Flash termékekért felelõs marketingmenedzsere.
+A platform emellett a BlackBerry okostelefonokon is megjelenik majd, miután az Adobe és a telefonokat gyártó Research in Motion bejelentette, hogy közös erõvel dolgozik a Flash Player integrálásán. Ezzel lényegében az összes fontosabb platformon jelen lesz a Flash Player, leszámítva az Apple iPhone okostelefonjait.
+
+A Flash platform már jelenleg is a világ legelterjedtebb webes és offline multimédiás platformja. A Flash Player valamelyik verziója a PC-k 98 százalékán, és az újonnan forgalomba kerülõ okostelefonok 40 jelen van, az interneten megnézhetõ videók 75 százaléka, az internetes játékoknak pedig a 70 százaléka flashalapú. A Flash Player kurrens verziója tíz hónapja jelent meg, ezalatt az idõ alatt penetrációja elérte a 93 százalékot.
+A 10.1-es verziónak az egyik legfontosabb újítása a rendszererõforrások és a processzorterhelés jelentõs csökkentése lesz úgy, hogy a számítási feladatok jelentõs részét a GPU veszi át, amivel lehetõvé válik, hogy megfelelõ grafikus chippel felszerelve akár egy netbook is képes lehessen YouTube HD adások visszajátszására. Az új Flash Playerben megjelenik a több iparági szabványra építkezõ nyílt formátum, a Zeri, mely lényegében a Flash Media Server 3.5 egyfajta, HTTP-streaminget támogató alternatívája lesz. A továbbfejlesztett Flash Player emellett a multitouch bevitelt is támogatja majd, valamint kihasználja a mobiltelefonokba épített gyorsulásérzékelõ nyújtotta lehetõségeket is.	     
+                  
+                  
+                  
+                   

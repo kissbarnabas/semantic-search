@@ -1,0 +1,12 @@
+Orchestrate 2.0: heterogén virtuális környezetek menedzselése a Novelltõl
+
+Az elmúlt másfél év eseménydúsan telt a virtualizációs megoldások terén, és 2009 sem hoz ebben változást, egymást érik a cégek bejelentései. Tegnap számoltunk be a nyílt forrású és ingyenes ConVirt menedzsment eszközrõl, mely Xen és KVM hypervisorokat egyaránt kezel, idõközben pedig a Novell is kiadta a PlateSpin Orchestrate új verzióját, mely szintén támogat heterogén környezeteket. Univerzális eszköz azonban továbbra sincs.
+
+
+
+A PlateSpin Orchestrate 2.0 a Novell ZENworks Orchestrator utódja, és az adatközpont felügyeleti eszközöket fejlesztõ PlateSpin felvásárlását követõen nevezte át a Novell, és mozgatta a felügyeleti portfólióba. A 2.0 egetrengetõ újdonságokat ugyan nem, de a meglévõ funkciók továbbfejlesztésével jelentõs változásokat hoz magával ahhoz, hogy a lehetõ legátfogóbb és költséghatékonyabb felügyeleti megoldást kínálja a virtualizált heterogén adatközpontok számára. 
+
+
+Az Orchestrate a VMware ESX és ESXi, Microsoft Hypver-V és SUSE Linux Enterprise Linuxba integrált Xen hypervisorokat támogatja, a 2.0 pedig ezt a támogatást teljesíti ki. Az ESX menedzseléséhez nem szükséges többé vCenter, ami a VMware licencköltségek csökkentését és az egyszerûbb felügyeletet teszi lehetõvé. Megújult a kezelõfelület is, mellyel a Novell a kezelést igyekezett egyszerûbbé tenni, egyúttal az automatizációs képességek is fejlõdtek elõre meghatározott események megadásával.
+
+Megjelent az LDAP támogatásával lehetõvé váló directory-integráció a felhasználói jogosultságok kezeléséhez. Végül, de nem utolsósorban, javított a Novell a skálázódáson, immár gazdagépek százait képes lekezelni az Orchestrate. A többi PlateSpin eszközzel együtt átfogó adatközpont-menedzsment megoldást kapunk, mellyel elemezhetjük a teljesítményt és optimalizálhatjuk az egyes alkalmazásokhoz rendelt erõforrásokat, gépek között mozgathatjuk azokat, és visszaállítási terveket készíthetünk. Az Orchestrate szépséghibája, hogy látványosan nem törõdik a Red Hat Enterprise Linuxszal, mely a Linux vállalati felhasználásának úttörõje, sem az általa felvásárolt KVM hypervisorral, vagy a Citrix XenServerrel, de említhetnénk a Sun Microsystem xVM platformját.

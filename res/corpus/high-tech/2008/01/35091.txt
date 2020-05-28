@@ -1,0 +1,14 @@
+Energiát is kaphatnának az átdolgozott SATA-csatolón a külsõ merevlemezek
+
+[C|Net] A Serial ATA International Organization hétfõn bejelentette, hogy egy újabb külsõ csatlakozón dolgozik, mely kényelmesebbé teszi az eSATA csatlakozóval ellátott külsõ merevlemezek és más adattárolók használatát. Az új csatlakozóval ellátott kábelen nem csak az adatok utazhatnának, mint a jelenlegi változatnál, hanem a szükséges energiát is biztosíthatná az USB-hez hasonlóan.
+
+
+
+A jelenleg kapható külsõ, eSATA-s adattárolók mindegyikénél külön energiaellátásról kell gondoskodni, ami jellemzõen a külsõ tápegység kényelmetlenségével jár. Az új eSATA csatlakozó megszüntetné ezt a problémát azzal, hogy a meghajtókhoz szükséges áramot ugyanazon a kábelen juttatná el a készülékbe, mint amellyel összekötöttük a számítógépünkkel.
+
+
+A továbbfejlesztett Power Over eSATA specifikációt 2008 második felében véglegesítik, így az elsõ ilyen csatolóval ellátott készülék akár már idén a boltokba kerülhetnek. A konzorcium szerint a kábelen továbbítható annyi energia, amennyire egy 2,5 hüvelykes merevlemeznek szüksége van.
+
+
+
+Az újabb csatolóval nagyobb eséllyel szállhatna harcba a SATA a jelenleg elterjedten használt USB és Firewire csatlakozókkal, melyek bár "idõsebbek", kialakításukkor számba vették ezeket a lehetõségeket is. Az eSATA erõssége lenne a "hotplug" támogatása is, azonban jelenleg még ez is csorbát szenved, számos operációs rendszer és meghajtóprogram még mindig nem támogatja ezt a képességet. A Power Over eSATA technológia ugyanazt a csatlakozót használja majd, mint a jelenlegi eSATA.

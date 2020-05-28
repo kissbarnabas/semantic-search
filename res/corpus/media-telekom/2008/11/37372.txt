@@ -1,0 +1,14 @@
+Érkeznek a CCD szenzoros fotómobilok
+
+A Sharp fejlesztette a japán SoftBank mobilszolgáltatónak azt a nyolc megapixeles fotómobilját, melyben a jelenleg általános CMOS képérzékelõ helyett CCD típusú szenzor látja el a képkészítési feladatokat.
+
+
+
+A SoftBank 930SH mobiltelefon érdekessége, hogy a nyolc megapixeles képérzékelõje az általánosan alkalmazott CMOS helyett CCD típusú, ráadásul 1/2,5 hüvelykes fizikai méretekkel rendelkezik, épp akkora tehát, mint korunk kisméretû kompaktfényképezõinek szenzorai. A Sharp tervezõrészlegének egy dolgozója elmondta, hogy a 930SH fejlesztése közben az alapokig nyúltak vissza és célként tûzték ki, hogy a felhasználónak ne hiányozzon otthon hagyott fényképezõgépe.
+
+
+
+
+ A szétnyitható, 105x48x15,2 milliméteres 930GS 1/2,5 hüvelykes CCD képérzékelõje elég nagy ahhoz, hogy ISO 800-as érzékenység mellett is értékelhetõ képeket készítsen. A képérzékelõ elõtt üvegbõl készült, 29 milliméteres látószöget adó parányi lencse található, természetesen ennek minõsége nem vetekszik a kompaktgépek optikáival. A mobil külön képfeldolgozó áramkört is tartalmaz, a ProPix névre keresztelt chip végzi többek között a zajszûrést, emellett lehetõséget ad arra is, hogy az épp elkészült fotó JPEG-kódolása alatt további két kép is készülhessen.
+
+A SoftBank 930SH nem csak fényképezés terén remekel, 480x854 képpontos kijelzõjére HSDPA kapcsolaton keresztül is érkezhetnek a weboldalak, GPS-modulja segítségével navigációra, 1Seg tunerével pedig tévéadások vételére is alkalmas. A mobil 100 megabájt belsõ memóriája MicroSD kártyákkal bõvíthetõ, akár négy gigabájtig. A telefon a Japán piacon indul útjára, egyelõre ismeretlen fogyasztói áron.

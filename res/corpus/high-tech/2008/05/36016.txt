@@ -1,0 +1,13 @@
+Nem olcsó a Gigabyte Atom-alapú webterminálja
+
+A napokban került fel az ausztrál Tegatech weboldalára a Gigabyte M528 internet-terminál, mely az Intel Atom processzora köré épül. A Linuxszal kapható parányi gép többe kerül, mint gondoltuk.
+
+
+
+A Gigabyte az egyike azon gyártóknak, amelyek már jelezték olyan internetes terminál (MID) érkezését, amely az Intel Atom processzorát alkalmazza. A Gigabyte M528 ezek közül is elsõként kerülhet a fogyasztók kezébe, az ausztrál Tegatech weboldalán már elõrendelést is fel is lehet adni a gépre. A Gigabyte M528 fél gigabájt memóriával és nyolc gigabját flash háttértárral vásárolható majd meg júniustól 1200 ausztrál dollárért, ez hozzávetõleg 1130 amerikai dollárnak felel meg. A weboldalt valószínûleg csak véletlenül élesítették, ma már inaktív .
+
+A Gigabyte M528 az Intel 800 megahertzen üzemelõ Atom processzorát alkalmazza, a számolt adatok pedig a 4,8 hüvelykes, érintésérzékeny megjelenítõ 800x480 képpontján válnak láthatóvá. A kettécsúsztatható gépház nyitott állapotában láthatóvá válik a teljes QWERTY billentyûzet, melyet egy egérpótlék is kiegészít a kijelzõ jobb oldalán. A hátoldal egy három megapixeles, autofókuszos fényképezõt rejt, a házban még egy GPS-vevõnek is szorítottak helyet a tervezõk. Az internet vezeték nélküli hálózati csatolóval és HSDPA modul segítségével egyaránt elérhetõ.
+
+
+
+Mint arról már korábban beszámoltunk, az Intel Atom márkanévvel dobja piacra az ultramobil számítógépekbe és olcsó asztali konfigurációkba szánt új architektúráját. A korábban Silverthorne kódnéven ismert Atom processzor és Menlow Centrino Atom platform a születõben lévõ úgynevezett mobile internet device (MID) kategóriát szolgálja ki, melyek lényegében x86-alapú kéziszámítógépek, online és multimédiás felhasználásra kihegyezve -- egy kisebb UMPC, mint az OQO, vagy egy Sidekick-szerû számítógép ebbe a kategóriába esik.

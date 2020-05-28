@@ -1,0 +1,15 @@
+A MacWorldön is tiszteletét teszi a Google
+
+A 2009-es MacWorld Expóra idõzítve adta ki fotónézegetõ, -szervezõ, -szerkesztõ alkalmazásának, a Picasának a Mac platformon futó változatát a Google, mellyel konkurenciát támaszthat az Apple saját iLife/iPhoto fotókezelõ szolgáltatásának is akár.
+
+
+
+A Picasa for Mac hiánypótló alkalmazás a Google csomagban, hiszen eddig egy különálló képfeltöltõ és egy iPhoto-plugin állt rendelkezésére csupán a Mac OS X felhasználóknak. A Mac OS X-en futó Picasa viszont a Windows alatt futó testvéréhez hasonlóan teljes funkcionalitást kínál a képek rendezésére, szerkesztésére, retusálására, albumba rendezésére. 
+
+ 
+
+Megjelenését és mûködését tekintve a Mac-változat szinte teljesen megegyezik a windowsos verzióval, ugyanazon megosztási és automatikus szinkronziációs funkciók érhetõek el benne. A kezelõfelület nem változott, a Google fejlesztõi úgy tûnik, sikeresnek találják a készségszintû megoldást, ami semmilyen számítógépes tapasztalatot nem feltételez, kifejezetten laikusok számára íródott. A kezdõk számára fejlesztett funkciók egyike a "nem-destruktív szerkesztés", ami annyit tesz, hogy minden megváltoztatott képbõl az eredetit egy külön helyre másolja a program, így bármikor visszaállítható egy meggondolatlan színezés, kivágás, vagy forgatás is.
+
+
+
+A Picasa for Mac idõzítése nem meglepõ, hiszen a MacWorld idején öszpontosul a figyelem az Apple világára. Ugyanakkor a Google fejlesztõi saját bevallásuk szerint sem készültek el idõre ezzel a változattal, de mindenképp elõ akartak rukkolni egy kipróbálható bétával a januári kiállításra. Több funkció, mint a geocímkézés (GPS koordináták) és a külsõ partner általi képelõhívás egyelõre még nem üzemel, de a hivatalos Google Photo Blog rendszeresen tájékoztat majd az élesedõ fejlesztésekrõl. A szoftver futtatásához szükség másra, mint egy Intel-alapú Mac gépre, melyen legalább a Mac OS X 10.4-es változata fut.

@@ -1,0 +1,24 @@
+Bemutatta érintõképernyõs okostelefonját a Palm
+
+A Consumer Electronics Show-n bemutatkozott a Palm régóta várt új okostelefonja, az érintõkijelzõs Pre, amelyet kimondottan webalkalmazások futtatására terveztek, operációs rendszerének neve is erre utal: webOS.
+
+
+
+A hardver
+
+A készülék a hardverét tekintve nem szolgál különlegességekkel. Az érintõképernyõ felbontása az iPhone-éhoz hasonlóan 320x480 pixel, azonban csak 3,1 hüvelykes, míg az Apple okostelefonján 3,5 hüvelykes. A Pre 8 gigabájt beépített memóriát tartalmaz, amit nem lehet tovább bõvíteni, mivel a készüléken nincs memóriakártya-foglalat. A Pre kezdetben kizárólag az amerikai Sprint mobilszolgáltatónál lesz kapható, ennek megfelelõen támogatja az EV-DO szélessávú adatátvitelt, de 802.11b/g szabványnak megfelelõ Wi-Fi vezérlõ és Bluetooth-adóvevõ is helyet kapott benne. Fotózáshoz egy 3 megapixeles kamera áll rendelkezésre LED-vakuval. A GPS-vevõ, a mozgásérzékelõ és a fényérzékelõ sem hiányzik a specifikációs listáról.
+
+Jon Rubinstein, a Palm igazgatótanácsának elnöke, korábbi Apple-alkalmazott a tegnapi bemutató alkalmával nem állta meg, hogy ne szúrjon oda az Apple-nek, ezért kihangsúlyozta, hogy a Pre akkumulátora nem fixen beépített, hanem cserélhetõ, mint a legtöbb mobiltelefoné. A vezetõ emellett azon véleményének adott hangot, hogy az érintõkijelzõn megjelenõ virtuális billentyûzettel nemigen lehet szöveget bevinni, úgyhogy a Palm új okostelefonja egy teljes QWERTY-billentyûzettel is rendelkezik, amelyet lefelé lehet kicsúsztatni.
+
+
+
+webOS
+
+A Pre legfontosabb újdonsága azonban nem a hardver, hiszen ilyen vagy ehhez hasonló képességû okostelefon már van a piacon, gondoljunk csak a HTC kínálatában megtalálható készülékekre. A Pre a webOS-szel kíván hódítani, amely a vállalat ígérete szerint lehetõvé teszi, hogy a különféle (web)alkalmazásokat hatékonyan lehessen egyszerre használni. A kezelõfelületet úgy tervezték, hogy az éppen futó programok és megnyitott weboldalak könnyen áttekinthetõk legyenek, egyszerû legyen köztük a váltogatás.
+
+A Palm azt ígéri, a webOS segítségével egyszerûbben kézben tarthatóvá válik a felhasználó kapcsolati rendszere azáltal, hogy az operációs rendszer egysegesen tudja kezelni a különféle helyeken (pl. Outlook, Gmail, Facebook) tárolt kapcsolati adatokat, és képes kiszûrni az átfedéseket is -- ugyanez igaz a naptárakra is. A SMS- és e-mail váltások és az azonnali üzenetek egységes nézetben jelennek meg, így a felhasználó pontosan láthatja, hogy kivel, mikor, mit beszélt meg.
+
+
+ A webOS egyik érdekessége a Universal Search: a billentyûzeten gépelve a szoftver elõször a készüléken található információk között keres (pl. nevek, e-mailek, SMS-ek), ha nem talált semmit, automatikusan felajánlja a keresést a weben. A beépített böngészõ a Palm ígérete szerint villámgyors, támogatja a CSS-t, XHTML-t, JavaScriptet is.
+
+A Pre 2009 elsõ felében érkezik az amerikai piacra, egyelõre ismeretlen áron, ezt követõen pedig várható a nemzetközi megjelenése, UMTS-hálózatokat támogató változatban is.

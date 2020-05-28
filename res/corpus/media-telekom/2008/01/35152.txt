@@ -1,0 +1,18 @@
+Kedvezõbb lehet a mobilszolgáltatók számára az átdolgozott Mobile WiMAX
+
+[Ars Technica] Úgy módosítana a WiMAX specifikáción az Airspan -- egy WiMAX megoldásokat fejlesztõ cég -- mellyel szélesebb körben terjedhetne a nagy sebességû vezeték nélküli technológia. A HSPA-val egyre reménytelenebb harcot küzdõ megoldás az újabb megoldásnak köszönhetõen a harmadik generációs mobilhálózatoknak fenntartott spektrumban is használható lenne -- azaz végre ráharaphatnának a mobilszolgáltatók.
+
+
+
+A WiMAX a szakértõk szerint ebben az évben, 2008-ban kezdheti meg terjeszkedését igazán, azonban ennek egyik gátja a viszonylag keskeny frekvenciatartomány, melyben jelenleg mûködik. Többek között ezen is változtatna az Airspan, mely megkezdte egy olyan változat kidolgozását, mely a jelenleg harmadik generációs hálózatok számára fenntartott tartományban, a jelenleg alkalmazott frekvenciaosztásos technológiával mûködne.
+
+
+WiMAX állomás
+
+
+A harmadik és negyedik generációs mobiltechnológiákkal ellentétben a WiMAX úgynevezett idõosztásos (Time Division Duplexing, TDD) technológiával oldja meg a kétirányú kommunikációt, mely azonos frekvencián továbbítja oda-vissza az adatokat különbözõ idõszeletekben. Ez a megoldás elõnyös a WiMAX esetében, hiszen igen keskeny spektrumban folyik a kommunikáció. A 3G és 4G-s hálózatok (például az LTE) a Frequency Division Duplexing (FDD) technológiát használják, melyek egyidõben kommunikálnak oda-vissza, viszont különbözõ frekvencián, ezzel is csökkentve az egyes tornyok közötti interferenciát.
+
+A WiMAX Forum egyik alapítója, az Airspan technikai igazgatója, Paul Senior szerint maga a testület is vizsgálja egy ideje az FDD technológiájú Mobile WiMAX t -- egyesek szerint ezt könnyebben elfogadnák a mobilszolgáltatók is, hiszen könnyebben implementálhatnák jelenlegi rendszereikbe. Bevallása szerint a WiMAX Forum azért nem beszél errõl a tervérõl, mert kisebb eséllyel kapta volna meg a 2,6 GHz használathoz szükséges jóváhagyásokat.
+
+
+Az FDD-s változat fél éven belül megszülethet, a mobilszolgáltatók ezt követõen újragondolhatják a WiMAX-szel kapcsolatban megfogalmazott korábbi véleményüket. Ez a késlekedés azonban a HSPA technológiák számára kedvezhet, fõleg, ha a 900 MHz-es tartományt is sikerül a harmadik generációs szolgáltatások számára engedélyeztetni a hatóságokkal, kormányokkal -- erre itthon is hatalmas az esély.

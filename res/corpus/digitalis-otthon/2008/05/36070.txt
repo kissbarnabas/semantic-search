@@ -1,0 +1,14 @@
+Külsõ videokártyákkal lesznek bõvíthetõk a noteszgépek?
+
+[X-bit labs] Több éves álom válhat lassan valóra: idén akár külsõ grafikus kártyák is megjelenhetnek az ASUS és a Fujitsu Siemens gépekhez. Az extra kiegészítõk gyorsabb háromdimenziós megjelenítést tesznek majd lehetõvé, mint a noteszgépek beépített, esetleg lapkakészletbe integrált grafikus chipjei.
+
+
+
+Az Asus már egy évvel ezelõtt bemutatta XG Station külsõ dobozát, mely ExpressCard felületen keresztül csatlakozott a noteszgéphez, azonban eddig nem lett kereskedelmi termék az igen kedvezõen fogadott grafikus megoldásból. A pletykák szerint az Asus még ebben a negyedévben piacra dobja majd az XG Stationt, melyet Nvidia GeForce 8600 GT grafikus kártyával szerelnek majd.
+
+Az ellentábor, az AMD kezében lévõ ATI is dolgozott hasonló projekten, a Lasso kódnevû termékbõl sem lett azonban kereskedelmi forgalomban kapható gyorsító. A hírek szerint a Lasso újra bemutatkozhat a Computex 2008 kiállításon és vásáron, ahol a Puma kódnevû platform részeként, az AMD Turion Ultra processzoros noteszgépek kiegészítõjeként mutatnák be. A Lasso saját fejlesztésû felületen, csatolón keresztül kommunikálna a noteszgéppel, így nem lenne kompatibilis a jelenlegi számítógépekkel.
+
+
+Szintén az ATI technológiáját -- de nem feltétlenül a Lassót -- használná a Fujitsu Siemens Computers saját Amilo GraphicsBooster gyorsítója, mely a cég noteszgépeit tenné vonzóbbá a játékosok körében is. A FSC megoldásáról nem sok konkrétum érhetõ el, de egyes hírek szerint akár 8 ezer pontot is elérhet a noteszgép vele a 3DMark06 tesztben.
+
+A külsõ grafikus gyorsítás érdekes koncepció, egyik sarkallatos pontja azonban a megfelelõ adatátvitel biztosítása a noteszgép és a grafikus processzor között. Az újabb noteszgépekben megtalálható ExpressCard felület, vagy egy saját fejlesztésû csatoló megfelelõ teljesítményt nyújthat. Az AMD, az Asus és a Fujitsu Siemens Computers nem kívánta kommentálni ezeket a híreket.

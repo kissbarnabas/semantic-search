@@ -1,0 +1,48 @@
+Már nem csak telefonkönyv, hanem alkalmazásplatform is az iWiW
+
+Végre kimozdul a gigantikus online telefonkönyv státuszból a hazai legnagyobb közösségi oldal, az iWiW. Januártól külsõ fejlesztõk által készített alkalmazások is megjelenhetnek a rendszerben, hasonlóan a Facebook megoldásához. Az Origo Zrt. alapvetõen megengedõ politikát folytat majd a létrehozható új szolgáltatások esetében, ami hirdetési, tartalomszolgáltatási szempontból is elõnyös lehet, újra értelmet nyer majd naponta bejelentkezni az oldara, illetve a hazai "webkettes" fejlesztõk is könnyedén elérhetik a kritikus tömeget újszerû alkalmazásaikkal.
+
+
+
+Nyitva: holnap hajnalig
+
+A felhasználók számára egyelõre még semmilyen változás nem lesz észlelhetõ az iWiW felületén, de a fejlesztõk számára megnyílik a dev.iwiw.hu oldal, ahol az új alkalmazások létrehozásához szükséges minden eszköz rendelkezésre áll. A külsõ szoftverek az OpenSocial fejlesztõi környezet keretein belül készülhetnek majd, ami azt jelenti, hogy a helyi környezethez igazításon kívül nem kell jelentõsen módosítani egy olyan megoldást sem, ami már máshol létezik. A Google által kezdeményezett, mára stabil háttérrel rendelkezõ OpenSocial API miatt az iWiW-re készült elemek készítéséhez nem szükséges speciális tudás, sõt, az ide írt dolgok más kompatibilis közösségi oldalakon is használhatóak.
+
+A technológiai felületek elõtt érdemes kiemelni, hogy a XXI. századi igényeknek megfelelõen a belsõ oldalakon elérhetõ lesz egy közösségi tudásbázis, ahol a fejlesztõk és az üzemeltetõk megoszthatják egymással a tapasztalatokat, az egyszerû how-to mellett elférnek a bonyolult paraméterezési leírások is. Ez nem saját fejlesztés, hanem egy teljesen szabványos Wiki-motor. Jelenleg a feltöltött cikkek között a szabályzatok, a fejlesztési segédletek, technikai paraméterek leírása, illetve a fejlesztõi oldal részletes használati leírása található.
+
+Ezen kívül egy blogfelület is rendelkezésre áll, ami pedig a hatékony fejlesztõi kommunikáció eszköze -- egyelõre csak egy szokványos "gépház" blog látható itt, de amint fejlesztõk is lesznek bent, õk is kommunikálhatnak belül ilyen módon. A dev-oldalra külön regisztrációt követõen lehet belépni, ahol az említettek mellett természetesen van egy fejlesztõi profil, ahol létre lehet hozni 300 tesztfelhasználót, ezekkel virtuálisan lehet a félkész vagy kész alkalmazásokat tesztelni.
+
+Egyszerûen OpenSocial
+
+Az alkalmazásoknak három státusza lehet a dev oldalon. Minden feltöltött alkalmazás elõször egy fejlesztési stádiumban van, ahol az azt leíró XML megadásával kezdõdhet az integrálás. Amennyiben már mûködõképes a program, akkor a készítõk számára rendelkezésre áll egy homokozó (sandbox), ahol az élessel megegyezõ környezetben tehetik próbára munkájuk gyümölcsét. A sandbox instance jellegû, tehát minden programozó csak a saját dolgait látja, a többiekét nem.
+
+ 
+
+
+ A harmadik készítési fázis a jóváhagyás, ami Koltai Péter, Origo üzletágvezetõ elmondása szerint többnyire automatikus, és néhány kiemelt megkötést leszámítva inkább megengedõ, inspiráló típusú lesz. Mielõtt élesedhet egy szolgáltatás, ellenõrizni kell, hogy megfelel-e a technikai elõírásoknak, át kell esnie egy alapvetõ jogi vizsgálaton, hogy nem törvénysértõ-e valamilyen szempontból, illetve üzleti szempontból is vizsgálja az Origo Zrt., hogy belefér-e a szabad kategóriába.
+
+Kevés a megkötés
+
+Alapesetben bármilyen alkalmazás integrálására lehetõség van, nem tiltott a kifelé mutató linkek elhelyezése, szabad a saját logóhasználat, tematikailag és szolgáltatási szempontból is kötetlen a rendszer. A népszerûvé váló alkalmazások pedig bevételt is termelhetnek, de ehhez a feltöltõnek az Adnetwork megoldását kell használnia. Igaz, nem kell foglalkoznia a hirdetési ügyekkel, mert azt szinte teljes egészében az Origo veszi vállára, a bevételen pedig osztozik a szolgáltatást elõállítóval. A szabad kategóriában nem engedélyezett viszont a közvetlen értékesítés (az iWiW-en belül készít el egy értékesítési felületet).
+
+Nyitott viszont a szponzorált alkalmazás lehetõsége is, ahol külön személyes üzleti találkozó során alakítja ki a két érintett fél a feltételeket, de ez többnyire nem az egyéni fejlesztõkre, hanem a nagyobb cégekre nézve lesz érdekes. Sõt, egy harmadik szinten kiemelt együttmûködésre is lehet lehetõség, például nem elképzelhetetlen, hogy hamarosan elektronikus kereskedelmi, pénzügyi, utazással kapcsolatos vagy online árveréses dedikált alkalmazások jelenjenek meg. 
+
+Win-win
+
+Koltai a várakozásokkal kapcsolatban azt mondta a bemutató sajtótájékoztatón, hogy nem feltétlenül közvetlen bevételnövekedéssel számolnak, hanem ezzel a több tízmillió forintos beruházással egy felületet, táptalajt kívánnak nyújtani. Számukra az az elõnyös, ha minél több és minél színesebb szolgáltatás jelenik meg az iWiW-ben, míg a külsõ fejlesztõknek hálás, hogy egyszerûen lehetõségük nyílik elérni a többmilliós felhasználói tábort. Az akár ezres nagyságrendben megjelenõ alkalmazások közül a közösség választja majd ki a számára tetszõeket, de "van az a pénz", amiért egy szponzorált szolgáltatás kiemelt helyen szerepelhet majd.
+
+Az alkalmazásoknak két arca lesz majd, az elsõ, melyet a felhasználó akkor lát, amikor saját maga használja azt (például beállítja, hogy mik a kedvenc filmjei, értékeli, kommentálja õket), ez az interaktív rész, a másik pedig, amikor a felhasználó adatlapját meglátogató emberek látnak egy külsõ nézetet. Ez pontosan úgy mûködik majd itt is, mint minden egyéb közösségi oldalon belüli alkalmazásnál. A kezelõfelületen megjelenik majd néhány új elem, menüpontok, gombok, új oldalak, ahol a tagok érhetik el az alkalmazásokat.
+
+ 
+
+Gyorsan szaporodnak majd az alkalmazások
+
+Elsõdlegesen az adatlapba ágyazott felületeken találkoznak majd a felhasználók az újdonságokkal, de egy külön katalógus is lesz "Kiegészítõk" menüpont alatt, ahol különbözõ tematikákra osztva, népszerûség vagy frisseség szerint csoportosítva is válogathat mindenki kedvére. Feltételezhetõen lesz majd egy ajánlórendszer is, amin keresztül egyik user felkérheti a másikat az API használatára. Ez remélehetõleg nem lesz olyan kaotikus, mint a több tízezer külsõ alkalmazást felvonultató Facebook esetében.
+
+Felvetõdhetnek komoly és komolytalan aggályok is az alkalmazásokkal kapcsolatban, de ezekrõl nyilatkozni korai lenne még. Annyi biztos, hogy sok cég biztosan meglátja majd az üzleti lehetõséget ebben és rátelepszik a nyitottságra, de semmit sem kötelezõ használni (opt-in), ezért akit ez zavar, képes lesz ignorálni. A tudatlan felhasználókat rászedni sem nehéz, így bizonyára jelennek majd meg rosszindulatú kódok is. Mivel a jóváhagyást követõen is lehet fejleszteni, változtatni a kódokat, ezért biztos, hogy több olyan eset lesz, amikor valamilyen etikátlan módszerrel csapják be a naiv embereket. Ezt úgy tudják majd kontrollálni, hogy az elsõ bejelentések után lehetõleg azonnal kezelik, csökkentve a károkat, de a proaktív szûrésre se kapacitás, se módszer, se szándék nincs.
+
+Figyel-e a Nagy Testvér?
+
+A januári nyitást követõen az Origo Zrt. maga is fejleszt majd alkalmazásokat, illetve az ígéretek szerint keresik majd az együttmûködési lehetõségeket külsõ cégekkel, de nagyrészt az önálló kezdeményezéseket pártolják, legyenek azok szórakoztató vagy üzleti, kereskedelmi jellegû megoldások. A kreativitás serkentésére lesznek fejlesztõi versenyek, illetve a cég "nyílt napot" is tart majd, ahol az érdeklõdõ programozók megismerkedhetnek ezzel a világgal. Mivel az OpenSocial már sok helyen (Hi5, MySpace, LinkedIn, Yahoo) bizonyított, ezért van rá esély, hogy külföldi oldalakon már létezõ szolgáltatások is átkerülnek ide is lokalizált formában. 
+
+Ugyan az Origo Zrt. fenntartja a lehetõséget a szûrésre, de állításuk szerint nem tervezik, hogy megakadályozzák a T-csoport más üzletágaival konkuráló vállalatok jelenlétét, így a felhasználók találkozhatnak akár más telekommunikációs cég közösségeivel is, nem lesz kötelezõ a YouTube, híreket az [Origo]-n kívülrõl is lehet majd olvasni és filmeket sem csak a T-Tékából lehet majd vásárolni.

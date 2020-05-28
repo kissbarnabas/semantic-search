@@ -1,0 +1,16 @@
+Sok energiát spórolna az automatikusan újrahasznosuló papírral a Xerox
+
+[CNet] Egy régrõl ismert, de nyomtatóban eddig nem használt megoldással spórolna energiát, kímélné a környezetet a Palo Alto Research Center (PARC) és a Xerox. A különleges papírt egy speciális nyomtatóval használva olyan oldalak készíthetõk, melyek tartalma 16-24 óra múlva eltûnik, egy üres, újra nyomtatható papírt hagyva maga után.
+
+
+
+Egy ilyen nyomtató-papír kombinációval sokat spórolhatnak saját zsebükön és a környezetünk erõforrásain azok, akik gyakran nyomtatnak rövid ideig érvényes prospektusokat, listákat, például egy étterem aktuális, napi ajánlatát. Ezzel a megoldással másnapra egyszerûen eltûnnének a nyomtatott adatok a lapról, újra felhasználhatóvá téve ezzel azt. A papír tartalma ráadásul nem csak az idõ múlásával halványodhat el, maga a nyomtató is képes azt törölni, miközben új tartalommal látja el. 
+
+A papír lelkét apró kristályok adják, melyek sötétté válnak, ha ultraviola fény éri õket. Egy-egy lap akár több százszor is felhasználható, gyakorlatilag addig újrafelhasználható marad, míg el nem tépjük, össze nem gyûrjük. A Xerox és a PARC szerint a technológia néhány éven belül piacra kerülhet.
+
+
+Az újranyomtatással rengeteg energiát lehet spórolni: egyetlen lap elkészítése körülbelül 204 ezer joule energiát igényel, ez körülbelül annyi, mintha egy 60 W-os izzót egy óráig égetnénk. A kinyomtatott lap újrahasznosítása további 114 ezer joule energiát emészt fel. Ehhez képest egy ilyen, 8 x 11,5 hüvelykes papírlap újranyomtatása csupán 1000 joule-lal terheli a környezetünket, ha a nyomtató törli a tartalmat, amennyiben egy már "elfáradt" lapra nyomtatunk, csupán 100 joule energiát használunk el.
+
+
+
+A Xerox adatai szerint a kinyomtatott dokumentumok 44,5 százalékát csak egyszeri használatra nyomtatjuk, 25 százalékukat pedig még aznap a kukába, jobb esetben a szelektív gyûjtõbe dobjuk. A Lyra Research becslése szerint egy évben 15,2 trilló oldalt nyomtatunk világszerte, mely a következõ 10 évben további 30 százalékkal növekszik majd.

@@ -1,0 +1,18 @@
+Termékek helyett piacok mentén szervezõdik újra az IBM hardvergyártó részlege
+
+Átszervezi hardvergyártó üzletágát az IBM, a vállalat várakozásai szerint az új struktúra hatékonyabban tudja majd kielégíteni az ügyfelek igényeit. Az új szervezeti egységek nem termékvonalakra, azaz a különféle típusú szerverekre és tárolókra, hanem piaci szegmensekre koncentrálnak, konkrétan a globális nagyvállalatokra, a kis- és középvállalatokra, az iparági vertikumokra (pl. kereskedelem, távközlés, egészségügy), emellett továbbra is megmarad önálló divízióként a szerzõdéses chipgyártás.
+
+
+
+A végsõ cél az, hogy az IBM jobban tudjon koncentrálni a kis- és középvállalatok igényeire, elemzõk szerint ez a piac 500 milliárd dolláros, amibõl nyilván a Nagy Kék is a lehetõ legnagyobb részt akarja magának. 2006-ban a világ második legnagyobb informatikai vállalata mintegy 17 milliárd dollár bevételre tett szert kkv-knak szánt termékekbõl és szolgáltatásokból, ami a teljes bevétel 18 százaléka, de Sam Palmisano elnök-vezérigazgató ígérete szerint 2012-re a kis- és középvállalatok adják majd az IBM legnagyobb ügyfélszegmensét.
+
+"A fenntartható növekedés elindításához szükséges tervünk alapja a Systems and Tehnology Group átalakításának felgyorsítása" -- írta az alkalmazottaknak címzett belsõ feljegyzésében Bill Zeitler, aki szerint az ügyfeleket fókuszba állító modell révén az IBM olyan piacokon is megjelenhet, amelyek nem hagyományos informatikai piacok. Az új megközelítés "és a technológiai vezetõ szerepünk kombinációja olyan helyzetbe hozza az STG-t, hogy meghatározóvá váljon az innovatív kis- és középvállalati megoldások és következõ generációs adatközpontok területén" -- véli Zeitler.
+
+Lapunk megkeresésére Burián Zoltán, az IBM Magyarország
+számítógéprendszerek- és technológiai üzletágának igazgatója elmondta, a
+Systems and Technology Group átalakulása egy hosszú folyamat eredménye, a kimondottan kis- és középvállalati megoldásokra koncentráló Business Systems részleg már 18 hónapja megalakult az STG-n belül. Burián elmondása alapján az újraszervezõdött STG egyrészt a különféle piaci szegmenseket, másfelõl a közös kihívásokra adott megoldásokat helyezi az elõtérbe, mint amilyen például a virtualizáció vagy a "zöld" adatközpontok. Hogy a szervezeti átalakulás milyen hatással lesz az IBM hazai mûködésére, azzal kapcsolatban az igazgató nem kívánt találgatásokba bocsátkozni.
+
+
+ Az átszervezést koordináló Tom Jarosh szerint a változás legfõbb hozadéka az lesz, hogy az IBM-mel kapcsolatba kerülõ ügyfelek egy egységes céget látnak majd. Korábban ez nem mindig volt így, a különféle termékvonalakért felelõs részlegek üzleti gyakorlata egészen változatos volt, mások voltak például a szerzõdési feltételek vagy például a finanszírozási lehetõséget -- magyarázta Jarosh. Az új üzletágak mindegyikét egy integrált értékesítési csapat támogatja majd -- derül ki Zeitler feljegyzésébõl.
+
+A megváltozott gondolkodásmódnak már eddig is tapasztalhatók voltak az elsõ jelei az IBM-nél, ezek közé tartozik például a tavaly õsszel bemutatott BladeCenter S, amely egy kimondottak kkv-knak szánt blade keret: úgy alakították ki, hogy akár egy irodában is használható legyen, nem feltétlen szükséges rackbe szerelni, a tápellátásához is elég egy egyszerû fali konnektor. Az idén sokkal több olyan termék várható az IBM-tõl, amik hajszálpontosan egy típusú ügyfélre vannak szabva és ehhez kapcsolódó egyedi értékesítési megoldásaink is lesznek -- írta Zeitler.

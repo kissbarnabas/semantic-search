@@ -1,0 +1,20 @@
+IDF: 3,2 gigahertzes Nehalemet mutatott be az Intel
+
+[HEXUS.net/HWSW] Magyar idõ szerint tegnap kezdõdött el az Intel tavaszi fejlesztõi dzsemborija, az Intel Developer Forum (IDF), melyet második alkalommal rendez a vállalat Kínában, jól jelezve a kontinensnyi ország globális súlyának növekedését. A tavaszi IDF várhatóan nem tartogat egetrengetõ bejelentéseket, hiszen az Intel már korábban beszélt idén megjelenõ termékeirõl, melyek többségükben az év második felében csoportosulnak, ugyanakkor kisebb sokkhatást így is sikerült kiváltania a vállalatnak a Nehalem demózásával.
+
+
+
+Mintegy fél évvel a tervezett megjelenése elõtt az Intel ugyanis 3,2 gigahertzes Nehalem chipet demózott egy ránézésre teljesen hagyományos kivitelû házban, ami léghûtésre utal. A HEXUS.net beszámolója alapján ráadásul ez még mindig egy korai szilíciumverzió, vagyis a jelek szerint a Nehalem rendkívül jó formában van ahhoz, hogy a negyedik negyedév során akár magas órajeleken is megjelenjen. Nem szabad ugyanakkor messzemenõ következtetéseket levonni a kezdetben piacra kerülõ processzorok órajelére vonatkozóan, a bemutatott példányok kétségtelenül tesztelés alatt álló, válogatott darabok, akár specifikáció feletti tápfeszültséggel és a szokásosnál erõteljesebb hûtéssel -- az AMD is demonstrált tavaly 3 gigahertzes órajelû Phenomot.  
+
+
+Ennek ellenére ésszerû feltételezni, hogy a Nehalemmel az Intel már kezdetben magas, akár 3 gigahertz feletti órajeleket céloz meg. Ennek legfõbb magyarázata talán nem is a versenytárs, hanem saját jelenlegi kínálatában keresendõ: a négymagos, 731 millió tranzisztort 45 nanométeres eljáráson integráló Nehalem meghatározó fejlesztéseibõl elsõsorban a szerveralkalmazások profitálnak majd, a növekvõ energiahatékonyságból a notebookok, és legkevésbé egyértelmûen az asztali konfigurációk.
+
+
+
+A Nehalem ugyanis leginkább a többszálúsított, magas sávszélességigényû kódok alatt mutatja ki foga fehérjét, köszönhetõen a visszatérõ kétszálas HyperThreadingnek (8 utasításszál chipenként), az új Quick Path pont-pont összeköttetéseknek, valamint a chipre integrált memóriavezérlõnek, de a mikroarchitekturális csiszolások célja is láthatóan szerverspecifikus optimalizációk képezték, melyek például többek között üzleti alkalmazások, adatbázisok és virtualizált környezetek futtatását teszik hatékonyabbá -- ezeken a területeken az Intel teljesítményugrást jelez elõre jelenlegi csúcskínálatához képest is.
+
+[+] A HWSW összefoglalója a Nehalem architektúrájáról
+
+A mai napig legnagyobb piacot képezõ asztali számítógépek terén azonban az új infrastruktúra, a HyperThreading és az elsõsorban szerveralkalmazásoknak kedvezõ mikroarchitekturális fejlesztések kevésbé mutatkoznak meg, ami különösen igaz a jellemzõen alacsony hatékonyságú, optimalizál(hat)atlan kóddal bíró játékokra -- a nagy gyorsítótárakat, okos elõtöltési és elágazásbecslõ logikákat kedvelik. A Nehalem ezeken a területeken is kétségtelenül mutat majd elõrelépést, ugyanakkor megkerülhetetlen a magas órajel is, ha az Intel elsöprõ fölényt akar viszontlátni minden tesztben: a HEXUS.net tudósítója 3,6 gigahertzet is elképzelhetõnek tart már nyitáskor, igaz, ezt a várakozását nem támasztotta alá forrással vagy érveléssel.
+
+A nagyon hosszú, vagy éppen nagyon rövid "benchmark-csíkokra" az Intelnek már csak azért is szüksége lehet, pusztán kommunikációs célok mellett, hogy megindokolja a teljes platformváltással járó magas költségeket, amihez nem kis mértékben járul majd hozzá a kezdetben méregdrága memória -- a Nehalem memóriavezérlõje ugyanis már DDR3 modulokat támogat. A Nehalem a negyedik negyedévben csúcskategóriás asztali processzorként valamint kétutas szerverekbe szánt változatokban debütál majd várhatóan, majd a termelés felfutásával ezeket folyamatosan követik újabb szegmensekbe célzott változatok, így jövõ év közepére már kétmagos mobil változatok is piacra kerülhetnek az új Centrino platformmal egyetemben, mely Calpella kódnévre hallgat, a negyedik negyedévben pedig érkezik a monolitikus nyolcmagos Xeon MP szörnyeteg, a Beckton.

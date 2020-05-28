@@ -1,0 +1,32 @@
+Észrevétlenek maradhatnak az Internet Explorer 8 felhasználói
+
+A Microsoft hivatalos Internet Explorer blogján a tegnapi nap folyamán Andy Ziegler, programmenedzser részletesen bemutatta a hamarosan érkezõ IE8 megújult személyes adatkezelési és biztonsági képességeit, illetve arra bátorította az olvasókat, hogy töltsék majd le a hamarosan megjelenõ második bétát, és osszák meg tapasztalataikat.
+
+
+
+A már korábban is ismertetett, beépített biztonsági elemek mellett négy eddig még nem látott funkció is bemutatkozott, az úgynevezett InPrivate Browsing és az InPrivate Blocking, illetve ugyanezen gyûjtõnév alatt a Delete History és a Subscriptions.
+
+Nyomtalanul az interneten
+
+Az InPrivate Browsing arra az örök problémára nyújt biztos megoldást, mikor idegen gépen kénytelen valaki ideiglenesen böngészni és dolga végeztével nem lehet biztos benne, hogy nem sodorta magát vagyis inkább virtuális identitását veszélybe. Elõfordul, hogy valaki otthoni gépén párja elõl titkolná el, hogy milyen karácsonyi ajándékot keresgélt neki, vagy éppen milyen pornóoldalakat látogatott. Eddig ezekre a problémákra vagy nem figyeltek oda az emberek, vagy körülményes megoldásokat kellett választaniuk. 
+
+Az IE8 az InPrivate Browsing funkcióval olyan módba kapcsolható majd egy pillanat alatt, amikor semmilyen nyomot nem hagy a felhasználó maga mögött: sem cookie-k, sem jelszavak, sem elõzmények vagy bármi, ami a felhasználóra vagy az általa végzett tevékenységekre utalhat, nem marad a gépen. Így nem kell a kényes esetek után törölni minden elõzményt és beállítást, egyszerûen csak kiléphetünk a lámpafénybõl, majd vissza is egy kattintással. "Off-the-record" -- írja Ziegler.
+
+Ki- és bekapcsolható titkolózás 
+
+Az InPrivate Browsing aktiválásával lényegében a következõ szabályok lépnek majd életbe: az új cookie-k nem lesznek eltárolva, minden cookie "session" kitételt kap, tehát a böngészés befejeztével megsemmisül. Mellette viszont a már tárolt sütik továbbra is mûködnek. Az elõzmények közé nem kerül semmi ez idõ alatt, illetve az automatikus ûrlapkitöltés memóriája is kihagy, semmiképp nem tárol el jelszavakat és a címsorba, keresõbe írt értékek sem lesznek feljegyezve, és a linkek, melyre rákattint a felhasználó, is úgy tûnnek majd késõbb, mintha "frissek" lennnének.
+
+
+ Az InPrivate Browsing ellentettje az InPrivate Blocking, melynek lényege, hogy lehetetlenné teszi a webszájtok számára, hogy bármilyen információt gyûjtsenek a számítógéprõl. Ma már természetes, hogy egy egyszerû szkript segítségével a tartalomszolgáltató tudja, hogy milyen böngészõt használunk, milyen felbontásban bámuljuk a képernyõt vagy éppen azt, hogy honnan tévedtünk oda az oldalra. Eddig is léteztek "anonim böngészõk", melyek minden ilyen megoldást lapátra tettek, az viszont a ló másik oldala.
+
+Mindenki szereti, hogy a kedvenc portálja emlékszik rá, hogy piros vagy fekete hátteret állított be, nem baj, ha felismer és automatikusan beléptet a saját gépünkön a webes levelezõ, de akadnak helyzetek, amikor nem megbízható oldalakra tévedünk. Ezekben a szituációkban jöhet jól ez a tiltó kapcsoló, mely szintén aktiválható és feloldható lesz bármikor. Az InPrivate Subscription funkció segítségével ezt szabályozhatjuk külön szájtonként, egyedileg beállított szabályok alapján. Bármely weboldal adatgyûjtése engedélyezhetõ vagy tiltható lesz egyenként.
+
+Bonyolult lehet egy IE-felhasználónak? 
+
+Személyes adatok törlése gyorsan
+
+Végül új funkcióként végre bekerült az Internet Explorerbe is a személyes adatok "egykattintásos" törlése, melyet a Firefoxban már láthattunk. A Microsoft az ott megszokotthoz képest annyi pluszt kínál, hogy lehetõség van kedvenc weboldalakat megjelölni, melynek opcionálisan megtartja a beállításait és fájljait, így lehet idõnként nagytakarítást végezni a gyakran használt oldalakhoz tartozó jelszavak és beállítások újrapötyögése nélkül.
+
+A bemutatott funkciók csábítóak és kényelmesek, nem utolsósorban pedig biztonságosak is. Az elsõ gyengesége viszont az lehet, hogy a legtöbb laikus ember jó ideig képtelen lesz megérteni a funkciókat, illetve azt, hogy mikor melyiket kellene használni és hogyan. Azzal, hogy ennyire aprólékosan lehetséges szabályozni a személyes adatok kezelését, elõfordulhat, hogy a tapasztalatlan felhasználó összezavarodik. A tudatos internetezõk pedig már eddig is képesek voltak megoldani ezeket a problémákat. Igaz, hogy nem IE, hanem Firefox alatt, például a NoScript vagy ehhez hasonló bõvítmények használatával.
+
+Amennyiben az IE-felhasználók nagy része áttér majd a nyolcas verizóra, akár az is elõfordulhat, hogy annyian kezdenek el a kedvenc oldalakon kívül mindent blokkolni, hogy a Google Analytics vagy bármilyen más cookie alapú szolgáltatás erõsen torzítani kezd majd -- vélekedik az MSDN IE8 blog egyik kommentelõje. Ha ez valós problémává válik, akkor komoly fejtörést is okozhat ezzel a Microsoft két legnagyobb webes riválisának, a Yahoo-nak, illetve a Google-nek.

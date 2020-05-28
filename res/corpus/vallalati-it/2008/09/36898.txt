@@ -1,0 +1,14 @@
+Virtualizált böngészõ fut majd a HP üzleti gépein
+
+Virtualizált webböngészõt fejlesztett a HP a Mozillával és a Symanteckel karöltve -- a biztonságosabb böngészést ígérõ megoldás elsõként a gyártó új üzleti sorozatú asztali gépével debütál szeptember második felében, késõbb azonban a teljes üzleti termékvonalra kiterjesztenék a technológiát.
+
+
+
+A HP Firefox Virtual Browser névre keresztelt böngészõalkalmazás a legtöbb rosszindulatú kóddal szemben jóval hatékonyabban képes védeni a számítógépet, mint bármilyen víruskeresõ alkalmazás vagy biztonsági szoftver, a böngészõ ugyanis egy csak erre a célra elkülönített, a kliensgépen futó virtualizált környezetben fut. A kliensgépre telepített megoldás elõnye, hogy használatához nem szükséges virtualizált kliens-infrastruktúrát létrehozni a vállalaton belül, a virtualizált környezet kezelése teljes mértékben a felhasználó gépén összpontosul.
+
+A HP és partnerei által fejlesztett virtualizációs köztesréteg az operációs rendszertõl elkülönülve mûködik, így az összes letöltés és ideiglenes állomány ebben az elszigetelt környezetben (a fejlesztõk ezt sandboxnak, vagyis homokozónak hívják) jelenik meg. Ez a terület a rosszindulatú kódok vagy más kártékony elemek megjelenésekor azonnal lenullázható, a felhasználó így tovább folytathatja a böngészést, immár biztonságban, anélkül, hogy a személyes beállításai elvesznének.
+
+
+A HP Firefox Virtual Browser elsõként a szeptember második felében érkezõ HP Compaq dc9700-as asztaliszámítógép-család programkörnyezetében jelenik meg, a virtualizált böngészõ azonban november végére az összes újonnan értékesített üzleti gép része lesz.
+
+A HP ezután az üzleti noteszgépek felhasználói számára is elérhetõvé teszi majd a böngészés közben nagyobb biztonságot nyújtó megoldást, azt azonban egyelõre nem tudni, hogy a hordozható számítógépek mikor kaphatják meg a technológiát. Egyelõre arról sincs információ, hogy a fejlesztõk Internet Explorer alapokon is tervezik-e a virtualizált böngészõ kiadását.

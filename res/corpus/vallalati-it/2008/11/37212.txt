@@ -1,0 +1,24 @@
+Tovább nyitja blade-specifikácóit az IBM, új blade-ek a Suntól és a HP-tól
+
+Az elmúlt néhány hét bõvelkedett a blade szerverekkel kapcsolatos bejelentésekben. Az Intel és az IBM tovább bõvítette együttmûködését a blade rendszerek szabványosításában, a Sun Microsystems és a HP pedig új tagokkal egészítette ki blade-portfólióját.
+
+
+
+Megnyitja blade-specifikációit az IBM
+
+Az Intel és az IBM még 2002-ben állapodott meg arról, hogy a Kék Óriás a nyílt szerverszabványokon munkálkodó Server System Infrastructure program rendelkezésre bocsátja BladeCenter keretének specifikációit, ami 2004-ben meg is történt. Most, négy évvel késõbb újabb lépésre szánta el magát az IBM, és megnyitja BladeCenter switchének specifikációit, mely megnyitja az utat más gyártók elõtt saját termékek fejlesztésére. 
+
+A blade switch specifikációk a hálózati eszközök blade kerethez való kapcsolódását, és az egyes blade szerverekre vagy egyéb berendezésekre történõ csatlakozásukat írják le. A specifikációk megnyitása lehetõvé teszi például hálózati berendezésgyártók számára, hogy szabadon, díjmentesen hozzáférhessenek a switch részletes mûszaki leírásához, a megoldásszállítók pedig végeredményben nagyobb mozgástérhez jutnak a blade rendszerek testreszabásában, ami elsõsorban a speciális igények kiszolgálásában bír jelentõséggel.
+
+
+Az IBM ezzel a BladeCenter platform vonzerejét igyekszik növelni a riválisokkal, elsõsorban a HP rendszerekkel szemben. Az IBM az elmúlt években rengeteg részesedést vesztett el, az IDC második negyedéves szerverpiaci számai alapján a HP 53 százalékát birtokolta a szegmensnek, míg az IBM 25 százalékra szorult vissza. A második negyedévben értékesített blade kiszolgálók értéke 1,2 milliárd dollárt tett ki.
+
+Eddig kizárólag az Intel készített blade rendszereket az IBM BladeCenter specifikációi alapján. Az Intel Modular Server System (MSS) egy 6U magas blade keretet alkalmaz, mely 6 darab kétutas, szintén közönséges elemekbõl felépülõ blade szervert képes fogadni akár négymagos Xeon processzorokkal. Az MSS nyilvánvaló célja, hogy a kisebb rendszerszállítók is megjelenhessenek blade megoldásokkal, fokozva ezzel a versenyt az egyelõre igencsak koncentrált területen.
+
+Új termékek a Suntól és a HP-tól
+
+A Sun Microsystems négy új blade-et dobott piacra, köztük egy tárolót és három szervert. A Sun Blade 6000 diszkmodul 1,2 terabájt maximális kapacitással érkezik, SAS-felületû meghajtókat képes fogadni, de a jövõben akár SSD-ket is támogathat. A Sun Blade T6340 két Victoria Falls, vagyis UltraSPARC T2 Plus processzort tartalmaz, melyek összesen 128 utasításszálat kezelnek. A blade maximális memóriakapacitása 256 gigabájt, és elsõsorban üzleti és webes tranzakcionális környezetbe szánja a vállalat.
+
+A Sun ezenkívül bemutatott egy kifejezetten HPC-területre szánt gépet, a két darab négymagos Opteront és legfeljebb 64 gigabájt memóriát tartalmazó Sun Blade X6240 szervert. A vállalat bõvítette a telekommunikációs területre szánt Netra családját is. A barátságtalan környezetnek ellenálló Sun Netra CP3250 ATCA két négymagos Xeont fogadhat, 10 gigabites Ethernet vezérlõvel bír és 24 gigabájt memóriát támogat.
+
+Telkóknak szánt blade-et dobott piacra a HP is. Az Integrity NonStop NB50000c-cg BladeSystem kimagasló rendelkezésre állást és kétszeres sûrûséget ígér, hasonlóan hagyományos kereskedelmi társaihoz.  A HP állítása szerint a NonStop blade-ek kettõ-négyszeres teljesítményt kínálnak fele akkora területen az elõzõ generációs carrier-grade rendszerekhez képest, ami különösen fontos lehet belvárosi területeken lévõ géptermekben, de az adatközpontokban is. 

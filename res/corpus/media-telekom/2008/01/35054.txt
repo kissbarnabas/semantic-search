@@ -1,0 +1,32 @@
+Kötelezi a hatóság a nagykereskedõket a csupasz, telefonelõfizetés nélküli DSL nyújtására
+
+A Nemzeti Hírközlési Hatóság kihirdette legfrissebb határozatait, amelyekben egyebek mellett kötelezte a jelentõs piaci erejû szolgáltatókat csupasz xDSL -- azaz hagyományos telefonszolgáltatás, elõfizetés nélküli -- nagykereskedelmi szélessávú internetszolgáltatás nyújtására, akkor is, ha kiskereskedõként nem értékesítenek ilyen szolgáltatást. Az NHH várakozásai szerint ez élénkítheti a versenyt.
+
+
+
+Nagykereskedelem
+
+A kihirdetett határozatok nagykereskedelmi piacokat érintenek és a szélessávú internetszolgáltatás mellett az úgynevezett hurokátengedés, valamint a vezetékestelefon-szolgáltatók egymás közötti szerzõdéseinek tartalmát meghatározó piacokra, a hívások kezdeményezésére, tranzitálására és végzõdtetésére vonatkoznak. A tranzit, azaz jelhordozó szolgáltatások piacán az NHH Tanácsának megállapítása szerint nincs jelentõs piaci erejû (JPE) szolgáltató, így ott a Tanács kötelezettségeket nem szabott ki.
+
+A másik négy piacon egyaránt JPE szolgáltató a Magyar Telekom -- amelybe a korábbi piacelemzés óta beolvadt az Emitel --, valamint a Monor Telefon Társaság, és a fuzionált Invitel és a Hungarotel. A határozatok kezelik az utóbbi két cég egybeolvadásával felmerülõ kérdéseket is. Márton György, az NHH szóvivõje szerint a fúziók közvetve erõsíthetik is a versenyt, hiszen például a Magyar Telekom által bekebelezett Emitel területre olyan szolgáltatók is beléphetnek, melyeknek eddig ez egyszerûen nem lett volna gazdaságos, olcsóbb alternatívát nyújtva az ott élõknek.
+
+Szolgáltatni kell
+
+
+A Tanács szerint a szélessávú internetpenetráció további növekedése érdekében fontos, hogy a szélessávú DSL-szolgáltatások telefonszolgáltatás nélkül is elérhetõk legyenek, ezért úgy döntött, hogy a kötelezett szolgáltatóknak akkor is biztosítaniuk kell helyi, és országos szinten kiskereskedelmi partnereik számára a csupasz DSL-szolgáltatás hátterét, ha maguk nem nyújtanak ilyen, telefonelõfizetés nélküli kiskereskedelmi szélessávú szolgáltatást.
+
+A csupasz DSL-hez kötõdõ nagykereskedelmi szolgáltatást a kötelezett szolgáltatónak olyan minõségi feltételek mellett kell nyújtania, amelyek megteremtik a lehetõségét annak, hogy a kiskereskedelmi szolgáltató saját speciális szolgáltatásait, így például DSL-alapú hang szolgáltatását (VoIP) is nyújthassa. Ennek köszönhetõen újabb telefonelõfizetés nélküli internetcsomagok várhatók a piacon, melyek hozzáadott értékként esetleg telefonálást is biztosítanak, elfogadhatóbbá téve a remélhetõleg olcsóbbá is váló csupasz szolgáltatásokat.
+
+A DSL itthon is a legnépszerûbb internetelérési móddá vált
+
+Olcsóbb lehet a hurokbérlet
+
+Bár a hurkok teljes és részleges átengedésének piaca az elmúlt két évben sokat fejlõdött Magyarországon, az átengedett hurkok száma nemzetközi összehasonlításban még mindig meglehetõsen alacsony itthon, az alig néhány százalékos "jó" értéket sem éri el. Az NHH megítélése szerint ahhoz, hogy az alternatív szolgáltatók megfelelõ feltételekkel tudjanak hozzáférni a szolgáltatók helyi hálózataihoz, tovább kellett finomítani a hurokátengedés szabályozását.
+
+Az NHH csökkenti a hurokátengedési díjakat azzal, hogy költségmodell-váltás mellett döntött. A múltbeli költségeken alapuló teljesen felosztott költségek módszere helyett a hosszú távú különbözeti költségek módszertanának alkalmazását írta elõ a JPE szolgáltatóknak. A szabályozott díjakban csak egy hatékony szolgáltató költségeinek a szerepeltetése lehet indokolt.
+
+A hurokátengedés árának csökkentése akár nagyobb jelentõségû lehetne a telefonelõfizetés nélküli csomagoknál, hiszen még mindig több mint 3,2 millió élõ, bekapcsolt  telefonvonal van itthon, melyeknek csak töredékén, körülbelül 22 százalékán vesznek igénybe szélessávú szolgáltatást. A hurokátengedésses internet nyújtásához azonban az internetszolgáltatóknak be kell települnie a központokba, ennek infrastrukturális költségeit azonban kevesen engedhetik meg maguknak. Így továbbra is csak a sûrûbben lakott területek számos elõfizetõt kiszolgáló központjai lesznek a hurokátengedésre is vállalkozó szolgáltatók célpontjai.
+
+Bõvülõ JPE lista
+
+Az NHH Tanácsának piacelemzése szerint a hívásvégzõdtetés piacán az egykori monopolszolgáltatók mellett több más JPE szolgáltató is van; a BT Limited Magyarországi Fióktelepe, a Dunakanyar Holding, a DIGI Kft., az eTel Magyarország, a FiberNet, a GTS-Datanet, a PanTel, a Tarr Építõ-, Szolgáltató- és Kereskedelmi Kft., a T-Kábel, a TVNetWork és a UPC. Ezek a szolgáltatók, amelyek a piac új szereplõi és csak a hívásvégzõdtetési piacon rendelkeznek jelentõs piaci erõvel, csupán az átláthatóság és az egyenlõ elbánás kötelezettsége került kiszabásra.

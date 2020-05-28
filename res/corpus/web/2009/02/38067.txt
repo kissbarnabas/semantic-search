@@ -1,0 +1,14 @@
+A Gmail a levelekben is megmondja, hol vagy
+
+Szinte minden héten bõvül valami hasznos vagy éppen haszontalan funkcióval a Gmail funkcióinak tárháza. Tegnap  egy olyan aprósággal frissült a levelezõ, ami a folyton utazó emberek számára lehet hasznos kiegészítés: A Google Gears segítségével a Gmail-bõl küldött leveleink aláírásába automatikusan beilleszthetõ, hogy földrajzilag honnan küldtük el az üzenetet.
+
+
+
+A kezdetek óta minden levelezõrendszer képes arra, hogy megmutassa, mikor írták meg a levelet, de eddig még egyik sem ajánlotta fel a lehetõséget, hogy azt is megmondja, hogy honnan. Pedig egy válaszlevélben, fõleg a mobilinternet korában, alapvetõ kérdés lehet az, hogy "hol vagy?". 
+
+
+ Marco Bonechi, a Google egyik szoftvermérnöke úgy érezte, hogy lenne igény erre a funkcióra, ezért a munkaidejének híres "20 százalékát" arra fordította, hogy létrehozott egy megoldást erre, melyet tegnap óta a Gmail Labs funkciói között bárki megtalálhat. A mini kiegészítés a használt IP-cím alapján állapítja meg a tartózkodási helyet, ami többnyire pontos, de bizonyos szolgáltatóknál akár meglepetéseket is okozhat.
+
+A funkció élesítéséhez szükség van a böngészõn belül a Gears kiegészítõ legfrissebb verziójára, ami támogatja a Location modult. Az elsõ használatkor a böngészõ pedig engedélyt fog kérni tõlünk, hogy a számítógép adataiból elõtúrhassa az IP-címünket. Mivel a Location modul Gearshez van kötve, ezért egy internetkávézóban vagy egy vendéggépen egyszerûbb lesz inkább begépelni a levélbe, hogy merre járunk, mint telepítgetni, de a notebookkal és okostelefonnal felszerelt kalandorok számára praktikus lehet. Ha levelünkbõl látszik, hogy épp Fraknfurtban vagyunk, akkor barátaink nem feltétlenül hívogatnak telefonon csevegni.
+
+Mivel a funkció nem kötelezõ, s bármikor kikapcsolható, sõt alkalmi esetben is egy mozdulattal kitörölhetõ az aláírás végérõl ez a sor, ezért a mobiltelefonos Gmail helymeghatározással ellentétben ez várhatóan nem szúrja majd a szemét a személyiségi jogokat féltõknek. A Location egyébként a mobilkészülékekhez hasonlóan a "Sent from" kifejezést illeszti a levél végére, csak ebben az esetben, a város, régió és ország nevével egészíti azt ki. Tehát például így: "Sent from: Budapest Budapest Hungary".

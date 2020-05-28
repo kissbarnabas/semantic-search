@@ -1,0 +1,27 @@
+Gazelle néven fejleszt új böngészõt a Microsoft
+
+Még az új Internet Explorer 8 sem készült el, de a Microsoft máris egy újabb böngészõ fejlesztésén dolgozik. A Gazelle kódnevû fejlesztés egyelõre kezdeti stádiumban van, afféle tudományos projekt, hogy mikor lesz belõle termék, még senki sem tudja.
+
+
+
+
+Teknõsként szökellõ Gazella
+
+ A Gazelle egyelõre csak egy prototípusként létezik, melybõl számos modul hiányzik még, s ezeket az Internet Explorer komponenseivel pótolták ki, de a Microsoft weboldalán elérhetõ dokumentumból kiderül, hogy a cél a biztonságos böngészés és a megbízható teljesítmény. Ezek elérése jelen állapotok mellett komoly áldozatokat igényelt a sebesség oltárán, így a friss szoftvert kipróbálók azonnal át is keresztelték azt gazelláról teknõsre. A fejlesztõk sem tagadják a problémát, de állításuk szerint némi finomhangolás után ez jelentõsen javulhat.
+
+A Chrome esetében nagy újdonság volt, hogy szeparáltan kezdte kezelni a különálló böngészõfüleket, de a Gazelle ennél is mélyebbre ás és az adott weboldal különbözõ részeit -- pl. iframe-ek, subframe-ek, plug-inek -- is saját folyamatként futtatja. A Microsoft szerint ezzel a módszerrel tovább növelhetõ a stabilitás és biztonság, hisz egyes rosszindulatú vagy rosszul megírt elemek nem befolyásolják a teljes tartalmat.
+
+Homokozót mindenhová
+
+A böngészõ által futtatott folyamatok nem képesek interakcióba lépni az operációs rendszerrel, csupán a böngészõ kernel által indított rendszerhívások révén érik el azt. A Gazelle annyira cizellált módon igyekszik különválasztani a folyamatokat, hogy egy weboldal azon elemeit is elválasztja egymástól,, melyek külön aldomainról származnak, például  "ad.akarmi.com" és a "user.akarmi.com". A plug-inek sem érhetik a rendszert, így egy rosszindulatú darab maximum az adott weboldalt teheti tönkre.
+
+Új felfogás
+
+Egy másik már meglévõ biztonsági funkció a gyanútlan kattintások ellen véd. Rosszindulatú webes programozók, ha meg tudják becsülni, hogy a felhasználó mikor és hová kattint a weboldalon, akkor az adott pillanatban egy overlay felületet jeleníttetnek meg a böngészõben, s a klikk az eredeti cél helyett oda talál be. A Gazelle ezt úgy védené ki, hogy az újonnan megjelenõ képernyõelemek nem kattinthatóak legalább egy másodpercig.
+
+
+A felhasználók számára is érthetõ biztonsági funkciók mellett viszont sokkal fontosabb, hogy a ma létezõ egyik böngészõ sem képes arra, hogy a rendszer erõforrásait megfelelõ módon kezelje, s megfelelõ módon biztonságban tartsa. A Microsoft nagyot ugrana ebben elõre, s azáltal, hogy egy saját kernel köré építik az új böngészõt, a gyakorlatban az úgy mûködik majd, mint egy második operációs rendszer.
+
+Ez még nem a célegyenes, csak a nekifutás
+
+"A prototípusunk kivitelezése és értékelése kapcsán megszerzett tapasztalatok azt mutatják, hogy van realitása a meglévõ böngészõket egy több elemû operációs rendszerré alakítani, ami jelentõsen nagyobb biztonságot és robusztusságot hoz elfogadható teljesítmény és visszafelé kompatibilitás mellett" -- írják a Microsoft kutatói. A Gazelle viszont egyelõre valóban csak egy prototípus, hiába képes megjeleníteni már weboldalakat helyesen. Csupán azért hozták nyilvánosságra, hogy egy közösségi diskurzusnak vessék alá az elvet és a megvalósítás lehetséges módjait. Kiadási dátumról, béta fázisról egyelõre szó sem esett.

@@ -1,0 +1,16 @@
+Gartner: a szabványok hiánya a blade-ek terjedésének egyik gátja
+
+A szerverpiac legsebesebben növekedõ szegmense a blade-eké, egyelõre mégse várható, hogy átvegyék az uralmat az adatközpontokban -- vélik a Gartnernél. Az elemzõcég szerint ezeknek a kiszolgálóknak a tömeges térnyerését számos tényezõ hátráltatja, ezek közé tartozik a szabványok hiánya és a rendkívül gyors technológiai váltás is. 
+
+
+
+"Nem azt mondjuk, hogy az IT-részlegek tartsák magukat távol a blade-ektõl, a blade-ek valóban megoldást jelentenek számos problémára" -- írta elemzésében Andrew Butler, a Gartner szakértõje. "Mi azt mondjuk, hogy a blade-eket bevezetõ informatikai részlegeknek fel kell készülniük a gyors technológiai váltásokra." A Gartner adatai szerint 2006-ban még csak világszerte 620 ezer blade szerver került piacra, de 2011-re a számuk 2,4 millióra nõhet, ami évi átlagban 31,5 százalékos növekedést jelent. 2011-re az összes leszállított kiszolgáló több mint ötöde blade lesz -- jósolja a Gartner.
+
+Az elemzõcég szerint a blade-piacon hamarosan olyan új technológiák jelennek meg, amelyek alapjaiban váltotatják meg ezeknek a szervereknek a felhasználási módjait. 2010-re már sztenderddé válhat az ún. szerver aggregáció, amely lehetõvé teszi két blade szerver használatát egy logikai gépként. További fontos mûszaki újdonság lesz a beágyazott virtualizációs hypervisorok elterjedése (pl. VMware ESXi), a 10 gigabites és gyorsabb Ethernet és más hálózati kapcsolati megoldások tömeges megjelenése, nem beszélve a menedszment-eszközök folyamatos fejlõdésérõl.
+
+
+
+ A Gartner szerint a távolabbi jövõben a blade-ek képesek lesznek akár egy kereten vagy akár azon túl is közvetlenül megosztani erõforrásaikat (például az egyik gép processzorát vagy memóriáját egy másik használhatja), ezáltal "scale-up" alkalmazásokra is alkalmassá válhatnak. Az elemzõcégnél úgy látják, hosszabb távon a piac ki fog kényszeríteni valamiféle szabványosítást, ha máshol nem, akkor a switch modulok esetében -- a hálózati eszközök gyártói (Cisco, Brocade) ma még az összes gyártó különféle blade-kereteihez eltérõ switch modulokat kell gyártsanak.  
+
+
+ A blade szerverek ma még egyedi felépítésûek. Bár egyes gyártók blade-jeit rendszerint már lehet keverni a kereteken belül, de arra nincs lehetõség, hogy egy keretbe más gyártóktól származó szervereket használjunk. Ezért aztán a blade-szállító kiválasztása stratégiai döntést és hosszú távú elkötelezettséget jelent -- figyelmeztet a Gartner.

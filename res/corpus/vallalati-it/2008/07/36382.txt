@@ -1,0 +1,12 @@
+Megjelent az Adobe Reader 9
+
+Az Adobe egy hónappal az Acrobat 9 dokumentumkezelõ szoftvercsalád megjelenése után  elérhetõvé tette ingyenes PDF-olvasó szoftverének, az Adobe Readernek legújabb változatát. Az új, 9-es verzióval már az új Acrobattal létrehozott, interaktív elemeket, vagy animációt tartalmazó fájlok is megtekinthetõk.
+
+
+
+A széles körben használt dokumentumolvasó új változata a fejlesztõk ígérete szerint gyorsabban töltõdik be, mint a megelõzõ verziók -- az Adobe Readert korábban ezért számos kritika érte, ezért többen a gyorsabb és kompaktabb ingyenes alternatívák felé (például Foxit Reader) fordultak. Az Adobe ugyanakkor már nem egyszerû dokumentumolvasóként, sokkal inkább egy egyszerû médialejásztó alkalmazásként, vagy annak mintegy elõfutáraként tekint az új Readerre. Ebbe a koncepcióba illik legalábbis, hogy az új kiadás már megjeleníti az Acrobat 9-cel készített dokumentumokba ágyazott Flash animációkat és a megfelelõen konvertált videókat.
+
+
+A szoftver új változata már a 256 bites AES-titkosítással kezelt digitális aláírásokat is támogatja, ezen kívül külön menüben elérhetõ rajta keresztül a csoportos munkavégzéshez kialakított Adobe.com weboldal is, mely szerves részét képezi az Acrobat 9 termékcsalád szolgáltatáskínálatának.
+
+Az Adobe Reader 9 egyelõre Windows (Windows 2000 SP4 vagy újabb) és Mac (OS X 10.4.11 vagy újabb) platformokhoz tölthetõ le, egyelõre angol, német és francia nyelven. A dokumentumolvasó szoftverhez alig pár napja jelent meg egy átfogó biztonsági frissítés -- a program verziószámát 8.1.2-re változtató csomag számos egyéb nyelv mellett már magyarul is elérhetõ.

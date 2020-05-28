@@ -1,0 +1,95 @@
+Drasztikusan csökkenti négymagos processzorainak árát az Intel
+
+Erõteljes árcsökkentést hajt végre az Intel most vasárnap, így hétfõn már sokkal olcsóbb processzorokra ébredhetünk, igaz, néhány napba telik, mire a boltokban is megjelennek az új árak. A vállalat lényegében három dolgot hajt végre egyszerre: egyrészt befésüli Core 2 Quad kínálatát a Core i7 alá, nyomás alá helyezi az új AMD Phenom II processzorokat, valamint stimulálja a keresletet egy gazdasági depresszió közepén. Az Intel egyúttal új, alacsony fogyasztású Quadokat is bemutatott.
+
+
+
+Az Intel a szokásos nagy titkolózás közepette készül a vasárnapi bejelentésre, miközben már rég kiszivárogtak az árcsökkentés pontos részletei a webre. A vállalat lényegében a teljes Core 2 Quad kínálatának árazását egy lépcsõvel lejjebb tolta, azaz egy adott modell annyi kerül hétfõtõl, mint korábban a nála egy fokozattal lassabb. A 3 gigahertzes Core 2 Quad Q9650 40 százalékkal válik olcsóbbá, és ugyanannyiért kapjuk meg, mint eddig a 2,83 gigahertzes Q9550-et, és így tovább. Ez alól csak a Q9300 kivétel, melyet nem tesz olcsóbbá, és  kivezet a piacról az Intel, helyét ugyanis a Q9400 vette át. Hasonlóan vége a Q6600 életének is.
+
+A Core 2 Quadokkal, melyek bekerülési ára 35 ezer forintra csökkenhet a Q8200 (2,33 GHz, 2x2 MB L2, 1333 MT/s busz) képében, az Intel fokozza a nyomást az AMD Phenom és Phenom II termékein. Az új, 45 nanométeres eljárással készülõ, 3 gigahertzes Phenom II 940-nek így például nem a 2,66 gigahertzes, 2x3 megabájt L2 tárral rendelkezõ Q9400 modellel kell megküzdenie a piacon, mellyel nagyjából azonos árban van, hanem a 2,83 gigahertzes, 2x6 megabájtos Q9550-nel. Az abszolút teljesítménybajnok Core i7 árak nem csökkentek, réstermék marad továbbra is.
+
+
+Apró korrekciót hajtott végre a Core 2 Duo vonalon, ahol megjelent a 2,93 gigahertzes E7500, és az 2,8 gigahertzes E7400 helyére került, az pedig a kivezetett E7300-at váltja fel. Véget ért az E7200 élete is. Gyorsított Pentium Dual-Core vonalán is a cég, megjelent a 2,7 gigahertzes E5400 modell, míg az eddigiek eggyel lejjebb léptek az árstruktúrában, a 2 és 2,2 gigahertzes modellek pedig befejezték pályafutásukat.
+
+
+
+
+
+Modell
+
+Órajel, GHz
+
+L2 cache, MB
+
+FSB, MT/s
+
+Árváltozás, %
+
+
+
+Core 2 Quad Q9650
+
+
+3,0
+
+2x6
+
+1333
+
+-40
+
+
+
+Core 2 Quad Q9550
+
+
+2,83
+
+2x6
+
+1333
+
+-15
+
+
+
+Core 2 Quad Q9400
+
+2,66
+
+2x3
+
+1333
+
+-18
+
+
+
+Core 2 Quad Q8300 
+
+
+2,5
+
+2x2
+
+1333
+
+-14
+
+
+
+Core 2 Quad Q8200 
+
+
+2,33
+
+2x2
+
+1333
+
+-16
+
+
+
+
+Az új árlistán új termékvonal is megjelent, mégpedig az alacsony fogyasztású négymagos Core 2 Quadoké. A termékeket az eddigi modellszámozás mögé biggyesztett "s" betû jelzi, a teljesítményjelölési rendszer nem változott, vagyis a Q9550 és Q9550s között két különbség van, a fogyasztás 65 watt a normál 95 watt helyett, a listaár pedig mintegy 100 dollárral magasabb. Folyamatos, intenzív használat esetén egy éven belül megtérülhet az árkülönbözet. A 65 wattos sorozat jelenleg három modellbõl áll, a Q9550s mellett a Q9400s és a Q8200s termékekbõl. 

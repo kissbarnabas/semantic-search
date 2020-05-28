@@ -1,0 +1,22 @@
+Hamarosan kipróbálható a webes Office is
+
+A Windows 7 árnyékában elég kevés szó esik az Office következõ változatáról, pedig az eddigi menetrendek alapján ez az új operációs rendszerrel nagyjából egyszerre kell érkezzen. A Microsoft az októberi Professional Developers Conference-en már bemutatatta az Office 14 egyik legfontosabb újdonságát, a Web Applicationst, hamarosan pedig a felhasználók is kipróbálhatják.
+
+
+
+Utolsókból lesznek az elsõk?
+
+Még az idén megkezdõdik a Web Applications nyilvános bétatesztje. A "webes Office" keretében a felhasználók a böngészõjükön keresztül érhetik el az Office-dokumentumokat, és online szerkeszthetik õket. A Word, Excel, OneNote és PowerPoint online változata kísértetiesen hasonlít majd a PC-re telepített szoftverhez, hasonló lesz a menürendszere is -- a cél az, hogy a felhasználók ugyanúgy tudják majd kezelni, mintha csak a saját gépükön levõ alkalmazást indították volna el. Persze a funkciók nem azonosak, de az alapmûveletek a webes Office-ban is elvégezhetõk.
+
+A redmondi cég némileg lemaradt a versenytársaitól az online dokumentumszerkesztést illetõen. A Google már régóta kínál online szövegszerkesztõt, táblázatkezelõt és prezentációkészítõt a Docs-ban, de a Zoho.com szolgáltatása is népszerû. A Microsoft ezekkel szemben eddig csak a Live Workspaces-t tudta csatasorba küldeni, amely gyakorlatilag egy online tárhely, ahová a felhasználók feltölthetik Office-dokumentumaikat, de szerkeszteni vagy akár megnézni õket csak a PC-re telepített Office-szal lehet.
+
+Az Office Web Applications segítségével a cég azonnal az élmezõnybe katapultálhatja magát, a PDC-s bemutató és az eddig látottak alapján az új megoldás összehasonlíthatatlanul szebb és funkciógazdagabb a Google Docs-nál vagy a Zohónál. A Microsoft azonban nem a Google vagy a Zoho ellenfelének szánja a Web Applications-t, hanem az asztali Office kiegészítõjének. A cél az, hogy az Office-felhasználók könnyen tudjanak egymással dokumentumokat megosztani, nem kell azokat e-mailben küldözgetni, és akár anélkül is képesek alapszinten szerkeszteni, hogy letöltenék õket és elindítanák az Office-t. Akár egy mobiltelefonon keresztül is elvégezhetnek néhány apróbb módosítást.
+
+
+ Az Office Web Applications nyilvános bétatesztelése még az idén megkezdõdik, bár egyelõre nem tudni, hogy pontosan mikor. Örömhír a felhasználóknak -- és kevéssé az a Google számára --, hogy a webes Office végleges változatának használatához sem lesz szükség az Office megvásárlására, ugyanis ingyenesen elérhetõ lesz bárki számára, aki a használatért cserébe elvisel a képernyõn némi reklámot.
+
+A Google Docs alig harap a Microsoft tortájába
+
+A Google-t körülvevõ felfokozott érdeklõdés miatt az utóbbi idõben a  Docs is az érdeklõdés homlokterébe került és sokan máris az Office trónfosztóját látják benne, egy amerikai felmérés szerint csak a fogyasztók 1 százaléka használja rendszeresen, és rendszerint az Office kiegészítéseként -- -- a Docs-felhasználók 68 százaléka a Wordöt is használ, és vélhetõen a Google segítségét csak a dokumentumok megosztásához veszi igénybe, a szerkesztéshez nem.
+
+Az Office Web Applications szervesen illeszkedik a Microsoft "software + services" stratégiájába. A vállalat filozófiája szerint nem kell a szoftvereket minden áron az internetre "költöztetni", webszolgáltatássá (software as a service) alakítani, hanem olyan webes szolgáltatásokat kell fejleszteni, amelyek a telepített alkalmazásokkal szorosan együttmûködve kiterjesztik a felhasználók lehetõségeit az internet irányába.

@@ -1,0 +1,16 @@
+Csavar a közelgõ HP UMPC technikai részletei között
+
+A közeljövõben piacra kerülõ HP UMPC technikai részleteivel és a várható vételárával kapcsolatban egészültek ki a tegnapelõtt kiszivárgott adatok. Többek között az is kiderült, hogy a gép nem azt a processzor-architektúrát fogja alkalmazni, amelyre számítottunk.
+
+
+
+A HP 2133 UMPC nem tartozik azok közé a számítógépek közé, amelyek a mostanában piacra kerülõ paletta nagy részére jellemzõen az intel Penryn platformjából kívánnak piaci sikereket meríteni. A 2133 a VIA Isaiah processzorát fogja alkalmazni, bár meglehet, hogy a többféle változat nagyobb tagjai Penryn alapra építkeznek.
+
+
+Az már szinte biztos, hogy legalább három különbözõ változat kerül eltérõ áron a piacra: a legolcsóbb a 65 nanométeres csíkszélességû Isaiah központi egységgel, értékelhetõ kapacitású merevlemezzel, Linuxszal ötszáz dollár alatt érkezik, a sor közepén lévõ modell magasabb órajelû VIA processzorral, nagyobb merevlemezzel és Vista operációs rendszerrel 650 dollár körül várható. Lesz egy ezeknél erõsebb változat is, amelynek belvilágáról még ködösek a híradások, könnyen lehet, hogy az SSD meghajtóval is választható kiszerelés Penryn-alapokat kap.
+
+A HP 2133 kijelzõje 8,9 hüvelykes és érintésérzékeny, felbontása 1366x766 képpont. A megjelenítõ kávájában egy webkamera is helyet kapott, alatta 54 milliméteres Express Card kártyahelyet, az általános méret 95 százalékát elérõ QWERTY billentyûzetet találhatunk, illetve még egy, a külsõ megjelenítõk csatlakoztatására szolgáló DVI kaput is.
+
+HP 2133
+
+A HP UMPC április környékén érkezhet az Inventec szerzõdéses notebookgyártó szalagjairól, akihez a HP a teljes üzleti UMPC szegmenst ebben a hónapban szervezte ki. Az 1975-ben alapított Inventec -- aki jelenleg egyike az elsõ öt legnagyobb noteszgépgyártónak -- noteszgépek mellett szervereket és okostelefonokat is gyárt a megrendelõinek -- közöttük a HP-t az Acert és a Toshibát is megtalálhatjuk --, akik azután saját márkanév alatt értékesítik azokat.

@@ -1,0 +1,14 @@
+Térképen vagy idõszalagon is megmutatja a keresési eredményeket a Google
+
+A Google három új "kísérleti nézetet" vezetett be népszerû keresõjén, amelyek segítségével áttkinthetõbben jelenhetnek meg bizonyos találatok. A vállalatnál felismerték, hogy bizonyos keresések eredényeit nem feltétlenül listába rendezve lehet a legjobban áttekinteni, ezért próbaképp elérhetõvé tették az idõszalag, térkép és info nézeteket. 
+
+
+
+Az idõszalag elsõsorban akkor lehet hasznos, ha valaki évszámokra, dátumokra keres, ekkor nem csak a keresett idõpontot jeleníti meg a Google, hanem egyéb kapcsolódó évszámokat vagy dátumokat is. A térkép nézet akkor jöhet jól, ha földrajzi információkra vagyunk kíváncsiak, vagy ha például egy eseményre keresünk. Az "info" nézet segítségével a megjelenített találatokat lehet valamilyen szempont szerint újrarendezni.
+
+Ha például a II. világháború történetére vagyunk kíváncsiak, a Google az idõszalagon meg tudja jeleníteni a legfontosabb kapcsolódó eseményeket, a térképen láthatjuk az eseményekhez tartozó helyszíneket, az info nézettel pedig átalakíthatjuk a találatok rendezését aszerint, hogy pontosan mire vagyunk kíváncsiak (dátumok, helyszínek, fotók, stb.). Természetesen nem csak tudományos kutatáskor, hanem a hétköznapi életben is hasznosak lehetnek az új nézetek, például egyetlen kattintással megnézhetjük, hogy például a régóta várt koncert pontosan hol lesz.
+
+
+ "Ha lefuttatsz egy keresést és túl sok hasonló találatot találsz, próbáld ki az info nézetet" -- írja blogjában Andrew Hogue, a projekt technikai vezetõje. "Ezzel kiszûrhetõk a találatok közötti különbségek és segít az igényeidnek leginkább megfelelõ oldal kiválasztásában."
+
+A keresõk fejlesztésénél ma már nem a találatok mennyiségének növelése a legfontosabb szempont, hanem az, hogy miképp lehet ezek közül azokat kiválasztani, amelyeken valóban megtalálható a keresett információ. A Google babérjaira törõ közösségi keresõ, a Wikipedia atyja által alapított Wikia Search ezt nem szoftverrel, hanem emberi erõvel oldaná meg: a találatokat a felhasználók maguk rendezhetik sorba aszerint, hogy mennyire találják azokat hasznosnak. Ezeket a szerveren tárolják és összevetik más felhasználók listáival, és ezek alapján állítják elõ a késõbbiekben a találati listákat.

@@ -1,0 +1,28 @@
+Összesett a szerverpiac a negyedik negyedévben, a mélypont csak ezután jön
+
+A mélybe zuhantak a szervereladások a negyedik negyedévben, ahogyan a világgazdasági helyzet rosszra fordulása nyomán a vállalatok leálltak a beruházásokkal. Fõleg az olcsóbb x86-os gépek eladásai csökkentek, a stratégiai fontosságú UNIX-os rendszerekre továbbra is költenek a felhasználók, bár azokra is egyre kevesebbet.
+
+ 
+
+A dotkom-lufi kipukkanását idézõ trendek
+
+Nem kevesebb mint 14 százalékkal, 13,5 milliárd dollárra csökkent a szervergyártók bevétele a negyedik negyedévben, miközben a leszállított gépek száma 12 százalékkal olvadt -- derül ki az IDC által nyilvánosságra hozott adatokból. A gyenge harmadik és a katasztrofális negyedik negyedéves eredmények ahhoz vezettek, hogy a szerverpiac 2008-ban  darabszám szerint mindössze 2 százalékkal nõtt, és a történelem során bár elõször lépte át a 8 milliós lélektani határt, de a gyártóknak aligha van okuk ünnepelni. A folyamatos árerózió miatt 2008-ban a piac értéke 3,3 százalékkal 53,3 milliárd dollárra olvadt.
+
+A negyedik negyedév gyengeségét jól mutatja, hogy a volumenszerverek, a középkategóriás gépek és a csúcskategóriás konfigurációk eladásai egyaránt összeomlottak, erre 2002-ben, a dotkom-lufi kipukkanását követõ évben volt utoljára példa. A legnagyobb csökkenést a volumenszerverek szenvedték el, 16,8 százalékost, a középkategóriában 14,5 százalék volt a csökkenés érték alapján, a csúcskategóriában pedig mindössze 7,5 százalék. Matthew Eastwood, az IDC elemzõje szerint a piac még nincs túl a nehezén, további gyengülés jön, fellendülés pedig legkorábban 2009 végén vagy 2010 elején várható.
+
+A UNIX még mindig kell
+
+Viszonylag jól tartották magukat a UNIX-szerverek, amelyek eladásai mindössze 6,2 százalékkal csökkentek 2007 negyedik negyedévéhez képest, ezzel a teljes szerverforgalom 36 százalékát adták, 4,9 milliárd dollárt. A UNIX-kiszolgálók forgalma évek óta folyamatosan olvad, és ez jelenleg is folytatódott, ugyanakkor a windowsos és linuxos gépek még nagyobb csökkenést szenvedtek el, ami jól mutatja a UNIX-piac viszonylagos stabilitását.
+
+Operációs rendszerek szerinti bontásban a Windows szenvedte el a legnagyobb csökkenést a negyedik negyedévben, a Microsoft operációs rendszerével telepített szerverek darabszáma 10 százalékkal esett, értékük pedig 17,8 százalékkal 4,8 milliárd dollárra csökkent, ezzel ismét a UNIX-os kiszolgálók adták a piac legnagyobb szeletét. A linuxos gépek forgalma 7 százalékkal 1,8 milliárd dollárra esett, ma már a szabad operációs rendszert futtató szerverek adják a teljes szerverpiac több mint 13 százalékát.
+
+
+ Az x86-szegmens erõteljesen alábukott 2008 negyedik negyedévében, a forgalom 17 százalékkal 6,5 milliárd dollárra csökkent, ahogy a leszállított darabszámok 11,7 százalékkal 1,8 millió darabra olvadtak. A nagy gyártók közül kizárólag a Sun Microsystems tudta növelni x86-os szervereladásait, bevétele 21,3 százalékkal nõtt az IDC szerint (a vállalat negyedéves jelentésében mindössze 11 százalékos bõvülés és 175 milliós bevétel szerepel). Az x86-piac császára a HP, részesedése a 39 százalékot közelíti, a második helyezett Dell alig 21 százalékot szerzett.
+
+A blade-piac jelentette az egyetlen üdítõ kivételt a negyedik negyedévben, a leszállított rendszerek száma 12,1 százalékkal nõtt, a bevétel pedig 16,1 százalékkal emelkedett,  bár a növekedés elmarad a korábbi ütemtõl. Összességében a blade-piac 1,4 milliárd dollárt tett ki, ami a teljes szerverforgalom több mint 10 százaléka. Az eladott blade-ek több mint négyötöde x86 processzorral szerelt, ami azt jelenti, hogy az x86-piacból már 18,5 százalékos hasítanak ki a blade-ek. A szegmens királya a HP, 54 százalék feletti részesedéssel, a legnagyobb növekedést azonban a Sun, a Dell és a Fujitsu (Siemens) érték el, rendre 60 százalék felett.
+
+Maradt az élen az IBM
+
+Mind az öt nagy szervergyártó forgalma látványosan csökkent a negyedik negyedévben. A zuhanórepülést az IBM vezette, a Nagy Kék szerverforgalma 15 százalékkal esett vissza, de a cég 4,89 milliárdos bevétellel még így is megõrizte vezetõ pozícióját. A társaság negyedik negyedéves eredményeibõl kiderül, hogy a Power6-alapú Power Systems rendszerek megjelenésének köszönhetõen a UNIX-bevétel nõtt, a mainframe-eken elért bevétel 6 százalékkal, az x86-os rendszereken elért forgalom pedig közel harmadával zuhant. A Power Systemsbe konvergált korábbi System i kiszolgálók értékesítése gyakorlatilag megállt.
+
+A második helyen a HP zárt, a vállalat szerverforgalma 10,1 százalékkal 3,91 milliárd dollárra esett vissza. A bronzérmes Dell szenvedte el a legkisebb csökkenést, a forgalom 9,9 százalékos olvadása után 1,4 milliárd dollárt tehetett zsebre. A Sun Microsystems -- szokás szerint -- a rosszabbul teljesítõk között volt, a szervereladásból származó bevétele 14 százalékkal 1,25 milliárd dollára zuhant a negyedik negyedévben. A Fujitsu (Siemens) 14,9 százalékos csökkenéssel kellett szembenézzen, a cég bevétele alig haladta meg a félmilliárd dollárt.

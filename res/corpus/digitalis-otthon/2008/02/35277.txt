@@ -1,0 +1,12 @@
+Az Ericsson új mobilplatformja forradalmasíthatja a mobil eszközöket
+
+A Ericsson bejelentette új lehetõségekkel kecsegtetõ következõ generációs multimédiás platformját. Az U500 platform az aládolgozó három processzorral és erõs multimédiás alrendszerrel nagymértékben szélesítheti a hordozható eszközökben elérhetõ lehetõségek skáláját, illetve lehetõvé teszi újak bevezetését is.
+
+
+
+Az U500 mobilplatform az Ericsson válasza az összetett multimédiás lehetõségek iránti egyre növekvõ igényre. Az új platform a jövõ mobiltelefonjaiban válik majd elérhetõvé a tömegek számára és lehetõvé teszi, hogy ezek a készülékek 12 megapixeles kamerával, nagyfelbontású kijelzõvel (WVGA), 3D kezelõfelülettel rendelkezhessenek, valamint maradéktalanul megfelelhessenek a mobiltévézés által megkívántaknak is.
+
+
+Az Ericsson platformjára nagy részletgazdagsággal megáldott, a ma létezõekénél jobb grafikával ellátott 3D-s játékok írhatók, természetesen ezek mellé CD-minõségû hang társulhat. Az U500 erejét a nem kevesebb mint három ARM11 processzor, valamint egy fejlett multimédiás alrendszer adja, egyetlen chipre integrálva, amelynek gyártása alacsony költségekkel tervezhetõ.
+
+Ez a chip tartalmazhatja az ARM Mali200, programozható OpenGL ES 2.0 grafikus magot is, amely a gyors, jó minõségû grafikát alacsony fogyasztás mellett képes szolgáltatni. Az Ericsson U500 mobil plaformjának kereskedelmi elérhetõsége 2009 elsõ, vagy második negyedévében várható. "Az U500 erõteljes multimédia platform nagy teljesítménye, grafikai lehetõségei, illetve használhatósága miatt az azt alkalmazó eszköz mobil számítógéphez inkább hasonlítható, mint a ma mobiltelefonjaihoz. Az U500-zal az Ericsson megtarthatja vezetõ helyét a multimédia piacon a következõ évben is" - mondta Robert Puskaric, az Ericsson mobilplatform üzletágának vezetõje.

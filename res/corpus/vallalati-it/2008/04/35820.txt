@@ -1,0 +1,14 @@
+Átlépheti a Vista-generációt a beágyazott Windows
+
+[Computerworld/HWSW] Új márkázást vezet be beágyazott Windowsainál a Microsoft, egyúttal utalásokat tett jövõbeni termékterveire is. Bár az XP Embedded utódjának fejlesztése a jelenlegi Vista-kódbázisra alapul, a vállalat egyik vezetõje elhintette annak lehetõségét, hogy esetleg a végsõ terméknél kihagyják ezt a lépcsõt, és a jelenleg Windows 7 kódnéven ismert következõ generációra alapoznak inkább.
+
+
+
+Új márkastratégiájának részeként a Microsoft Windows Embedded Compact és Embedded Standard névvel látja el beágyazott Windowsainak következõ kiadásait, felváltva az Embedded CE és XP Embedded jelöléseket. A gyökeresen különbözõ platformok fúziójáról szó nincs azonban, a Compact továbbra is a Windows CE kódjára épül, és kisebb erõforrásigényû marad. A legújabb bejelentések alapján június 3-án érkezik a beágyazott XP-hez egy frissítés, míg a CE csak jövõre újul meg. 
+
+Az új stratégia részeként a Microsoft alkalmazásspecifikus Windowsok kínálatát is bõvíti a jövõben, melyek testreszabottan érkeznek a gyárból. Erre a vállalat az értékesítési pontokon használt Windows Embedded for Point of Service (WEPOS) sikere alapján szánta el magát -- a jövõben ez a verzió az Embedded POSReady nevet hordozza majd. A Ready család a kezdetben navigációs eszközökbe, multifunkciós nyomtatókhoz és megfigyelõ kamerákhoz átalakított platformokkal gazdagodik majd.
+
+
+Ezeken túlmenõen a Microsoft ezentúl teljesértékû kliens Windowsait is elérhetõvé teszi beágyazott licenceléssel, Embedded Enterprise néven. Ezáltal teljesebbkörû funkcionalitást igénylõ beágyazott területeken és fejlesztésekhez is elérhetõvé válik a Windows Vista Business és Ultimate, valamint a Windows XP Professional is. A beágyazott eszközök globális szállításai 2006-ban hagyták el a 4 milliárd darabot.
+
+Mint azt Ilya Bukshteyn, a Windows Embedded marketingigazgatója elmondta, az XP Embedded utódjának szánt, Quebec kódnéven futó fejlesztés jelenleg a Vista kódjára épít, ugyanakkor meglebbentette annak eshetõségét, hogy végül a Vista utódjára váltanak, mely Windows 7 kódnéven ismert. "Ha lehetõség nyílik új technológiák gyorsabb beemelésére, és az ügyfelek igénylik, kihagyhatjuk a Vistát" -- fogalmazott Bukshteyn. A Windows 7 a jelenlegi ismeretek alapján a Vistára alapul, ugyanakkor annál lényegesen modulárisabb felépítésû lesz, és egy mikrokernel köré épít majd. Így ésszerûnek tûnik a beágyazott Windowst fejlesztõk szempontjából, hogy amennyiben idõre tudják szállítani a végterméket, inkább a sokkal inkább testreszabható Windows 7-et használják fel alapként.

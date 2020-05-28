@@ -1,0 +1,12 @@
+Három kritikus biztonsági figyelmeztetés Cisco eszközökhöz
+
+Három biztonsági figyelmeztetést adott ki a Cisco hálózati eszközeinek sebezhetõségeivel kapcsolatban. A vállalat hálózati eszközeiben használt beágyazott szoftverek a hibák kiaknázásával szolgáltatásmegtagadásra lehet kényszeríteni, vagy adminisztrátori jogosultságok is szerezhetõek.
+
+
+
+A Cisco friss dokumentációja alapján az IOS SSH implementációja számos olyan sebezhetõséget tartalmaz, melyek kihasználása révén téves memória-hozzáféréseket idézhet elõ a támadó, egyes esetekben pedig az eszköz ismételt újratöltését, ami a mûködés ellehetetlenítését jelenti. A vállalat elkészítette a szükséges javítást, mely a közvetlen támogatási szerzõdéssel rendelkezõ ügyfeleknél letölthetõ a Cisco oldaláról, míg az egyéb partnercégekkel kapcsolatban állóknak a támogatást nyújtó féllel kell felvenniük a kapcsolatot. Az SSH szolgáltatás kikapcsolásán kívül megoldást jelenthet az SSH hozzáférések tartományának szûrése.
+
+Egy másik, szintén SSH-implementációs hiba folytán az Cisco Service Control Engine (SCE) eszközök instabillá tehetõk, vagy szintén újratöltést lehet kikényszeríteni rajtuk. A hibák az SSH beléptetéskor és azonosítás során léphetnek fel. A Cisco az elõzõ hibához hasonlóan az SSH forgalom erõteljes szûrését javasolja, és kizárólag megbízható eszközök csatlakozhassanak az SCE-khez. A vállalat egyúttal elkészítette a hibajavítást tartalmazó frissítést is.
+
+
+A harmadik biztonsági sebezhetõség a Unified Customer Voice Portalt (CVP) érinti, melynél egy hitelesített felhasználó superuser fiókokat hozhat létre, módosíthat, vagy törölhet. A biztonsági réshez szintén elkészítette a vállalat a javítást, mely elérhetõ a vállalat letöltési oldaláról. Az IOS SSH-t érintõ dokumentációról itt, az SCE sebezhetõségérõl itt, a CVP esetében pedig itt olvasható a Cisco Security Advisory.

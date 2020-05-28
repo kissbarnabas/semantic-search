@@ -1,0 +1,11 @@
+Adattárolási területen erõsít a HP
+
+A kilenc éve alapított, magánkézben levõ IBRIX által fejlesztett fürtözött fájlrendszer lényegében a Network File System (NFS) továbbgondolásának tekinthetõ. A Fusion nevû technológia alapja egy olyan eloszott megoldás, ahol a tárolószerverek saját fájlrendszerrel rendelkeznek és egyben a metaadatok egy részét is õrzik, ami azt eredményezi, hogy nem csak a fájlmûveletek, hanem a metaadat-mûveletek is elosztottak, a teljesítmény növelését nem korlátozza egy központi metaadat-szerver. Több szerver bekapcsolásával a kapacitás és a teljesítmény is nõ.
+
+A másik fontos újítása a Fusionnek, hogy a tárolt adatok megkeresése a telefonos körzetszámokhoz hasonlóan mûködik, amelyre épp a metaadatok elosztott elhelyezkedése miatt van szükség. Ha egy szerverhez befut egy kérés, a szerver a "körzetszám" alapján ellenõrzi hogy a fájl rajta található-e, ha nem, akkor egy térkép alapján a megfelelõ szervernek továbbítja a kérést. Minden fájl elérése legfeljebb egy ugrással végrehajtható. A metaadatokat is csak azoknak a szervereknek kell frissíteni, amelyek az adott fájlt tárolják.
+A Fusiont leginkább olyan területeken vetik be jelenleg, ahol nagy mennyiségû adatot kell tárolni és a kapacitás iránti igény is folyamatosan nõ. Ezek többségükben webes szolgáltatások, például közösségi oldalak, ahová a felhasználók képeket, videókat töltenek fel, de a DreamWorks és a Pixar animációs stúdiók is ezt a megoldást használják a rajzfilmek készítésekor keletkezõ hatalmas mennyiségû adat tárolására. A Fusion felhasználói között gyógyszeripari cégek, távközlési szolgáltatók és bankok is vannak, amelyek adatbányászati, elemzési feladatokra vetik be a technológiát.
+Az IBRIX a HP StorageWorks portfóliót fogja erõsíteni, a vállalat alighanem webes közösségi szolgáltatások, mérnöki-tudományos rendszerek és cloud-infrastruktúrák építéséhez kínálja majd a Fusiont. Az IBRIX-nek alig több mint 50 alkalmazottja van csupán.	     
+                  
+                  
+                  
+                   

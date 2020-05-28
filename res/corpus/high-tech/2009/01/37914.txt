@@ -1,0 +1,17 @@
+Mindössze kilenc négyzetmilliméteres a világ legkisebb üzemanyagcellája
+
+Amerikai tudósok elkészítették a világ legkisebb üzemanyagcellás áramforrásának prototípusát. A miniatûr telep azonban egyelõre inkább csak technológiai bravúr, valós felhasználási lehetõségei a telep alacsony feszültségének és a gyenge áramerõsségnek köszönhetõen meglehetõsen korlátozottak.
+
+
+
+Mindössze 9 négyzetmilliméteres az a hidrogénhajtású üzemanyagcella-prototípus, melyet az Illinois-i Egyetem kutatói, Saeed Moghaddam, Mark Shannon és Richard Masel állítottak elõ. A szakemberek a rendkívül kis méret miatt az áramforrás tervezésekor szakítottak a hagyományos felépítéssel. "Ilyen kis méretben nem praktikus külön vízpumpát, nyomásérzékelõt és vezérlõelektronikát építeni" -- nyilatkozta a NewScientic-nek Moghaddam.
+
+A 3x3x1 milliméteres, hidrogénalapú áramforrás így mindössze négy komponensbõl áll: a fent elhelyezkedõ víztartályt egy vékony membrán választja el az alatta lévõ, fémhidridet tartalmazó kamrától, illetve a kamra alatt lévõ elektródáktól. A membrán apró rácsozatán páraként átjutó vízmolekulák reakcióba lépnek a fémhidriddel, a reakció során keletkezõ hidrogén keltette nyomás pedig felfelé nyomja a membránt, így nem tud több víz bejutni a kamrába. A hidrogén végül fokozatosan kiürül a kamrából, miközben az elektródákkal reakcióba lépve elektromos áram fejlõdik -- a csökkenõ nyomás hatására újra átjutnak a vízmolekulák a membránon, majd a folyamat elölrõl kezdõdik.
+
+
+
+
+
+A miniatûr áramforrás méretébõl adódóan a víz körforgását a rendszeren belül nem a gravitáció, hanem a felületi feszültség szabályozza. A kutatók szerint ez egyben azt jelenti, hogy az üzemanyagcella a legkevésbé sem érzékeny a mozgásra vagy a centrifugális erõre, ez a felépítés tehát ideálisnak tûnik a különféle hordozható eszközökben történõ felhasználáshoz.
+
+Más kérdés, hogy a kis energiacella egyelõre aligha tudna meghajtani egy tipikus hordozható készüléket, például MP3-lejátszót, vagy mobiltelefont: a cella elsõ prototípusa mindössze 0,7 volt feszültséggel, 0,1 milliamper erõsségû áramot tudott biztosítani, és a fejlettebb változatoknál is mindössze 1 milliamperig tudják növelni az áramerõsséget. Az áramforrás üzemideje ezzel együtt nagyjából 30 óra. Az alkotók szerint az üzemanyagcella egyszerû, minimális teljesítményû elektronikus eszközökhöz, mikrorobotokhoz használható.

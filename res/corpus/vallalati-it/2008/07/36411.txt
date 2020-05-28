@@ -1,0 +1,16 @@
+November 12-én érkeznek a kis- és középvállalati Windows Serverek
+
+A Microsoft a houstoni partnerkonferencián bejelentette, hogy november 12-én adja ki a kisvállalatoknak szánt Windows Small Business Server 2008-at, illetve a közepes cégek számára tervezett Essential Business Server 2008-at. A tesztelõk a jövõ héttõl érhetik el a végleges termékek összes funkcióját tartalmazó, megjelenésre szánt változatokat (RC).
+
+
+
+A Small Business Server (SBS) új változatát az eddigiekhez hasonlóan a legkisebb cégeknek szánja a Microsoft. A Small Business Server 2008 része az Exchange Server 2007 Standard, a SharePoint Services 3.0, a Forefront Security for Exchange Server biztonsági csomag egy éves elõfizetéssel. Az SBS 2008 prémium változata emellett tartalmaz egy második Windows Server 2008 licencet, illetve az SQL Server 2008 Standard változatát, amelyet akár második szerverre is telepíthetnek a felhasználók.
+
+
+Az 50-250 PC-vel rendelkezõ középvállalatoknak tervezett Windows Essential Business Server 2008 Standard a Windows Server 2008 mellett tartalmazni fogja az Exchange Server 2007-et, a Forefront Security for Exchange 2007-et, a System Center Essentials 2007-et, valamint a Threat Management Gatewayt (leánykori nevén ISA Server). A WEBS Premium verziójában helyet kap még az SQL Server 2008 is.
+
+Az SBS és a WEBS közötti jelentõs különbség a komponenseken kívül, hogy az SBS 2008 felületét úgy alakították ki, hogy a lehetõ legegyszerûbben telepíthetõ és kezelhetõ legyen, ugyanis a célközönségnek számító kisvállalatoknál az informatikai kompetencia gyakran korlátozott. Az SBS 2008 ezért olyan központi menedzsment-konzolt kapott, amelyrõl minden funkció egyszerûen elérhetõ, akár távolról is. A WEBS már átfogó(bb) felügyeleti lehetõséggel rendelkezik, és ebbe a felületbe már külsõ gyártóktól származó modulok is integrálhatók.
+
+A Windows Small Business Server 2008 Standard ára öt klienslicenccel (CAL) 1089 dollár, a további klienslicencek 77 dollárért vásárolhatók meg. Az SQL Server 2008-at is tartalmazó Small Business Server 2008 Premium öt klienslicenccel 1899 dollárba kerül, minde további CAL ára 189 dollár. A Windows Essential Business Server 2008 Standard öt CAL-lal 5472 dollárba kerül, a további CAL-ok ára 81 dollár, a WEBS Premium 7163 dollárba kerül, minden további CAL 195 dollár. Ezek az árak a "dobozos" verziókra vonatkoznak, az OEM- és mennyiségi licencvásárlók olcsóbban juthatnak a termékekhez. A hazai árakat egyelõre nem tudni, de a HWSW információi szerint igazodni fognak a kintiekhez.
+
+Licencelési szempontból jelentõs újdonságnak számít, hogy az ügyfelek már nem csak csomagban, hanem egyenként is vásárolhatnak klienslicenceket (CAL). Ezek a licencek a hálózaton található más Windows Server, SQL Server és Exchange Server termékekre is érvényesek, így azokhoz nem szükséges még további licenceket beszerezni. Keszei Balázs, a Microsoft termékmenedzsere korábban úgy nyilatkozott lapunknak, hogy a lokalizált verziók nagyjából két hónappal az angol változat megjelenése után várhatók Magyarországon.

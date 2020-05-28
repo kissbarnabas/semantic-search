@@ -1,0 +1,14 @@
+Júniusban jöhet a Mozilla Firefox 3
+
+Még a héten megjelenhek a Firefox 3 utolsó bétája, amelyet júniusban követhet a végleges verzió. A népszerû nyílt forrású böngészõ így szinte pontosan fél évvel a tervezett dátum után érkezik, Firefox 3-nak az eredeti tervek szerint már 2007 végén meg kellett volna jelennie.
+
+
+
+Az ötödik béta kódját már befagyasztották, és hamarosan elérhetõvé teszik a tesztelõk számára. Ez az utolsó béta a fejlesztési folyamatban, a következõ változat már a megjelenésre szánt kiadás (Release Candidate 1) lesz, amely május elején várható. Az RC-ket már a lehetõ legszélesebb közönséghez szeretnék eljuttatni, hogy minél több visszajelzést gyûjtsenek be az utolsó simításokhoz. Mike Schröpfer fejlesztési vezetõ szerint Release Candidate verzióból is legalább három készül majd, mielõtt a végleges változat megérkezik.
+
+
+ Közben elkezdtek szivárogni az elsõ információk a Firefox 4-rõl, vagy legalábbis a tervezett újításokról. Chris Beard, a Mozilla alelnöke egy interjúban fellebbentette a fátylat többek között a Prism technológiáról, amely az offline is mûködõ webalkalmazások fejlesztését hivatott segíteni. A cél az, hogy bármilyen weboldal vagy webalkalmazás elérhetõ legyen akár a böngészõn kívül is, akár egy telepített szoftver. Beard szerint a Prism technológia és a HTML 5 feleslegessé teszi az olyan megoldásokat, mint a Google Gears, az Adobe Air, vagy a Microsoft Silverlight.
+
+A Firefox 4 másik fontos újdonságának a Weave ígérkezik, amely nem az asztali rendszerek, hanem az internet felé terjeszti ki a böngészõ képességeit. A cél az, hogy a felhasználói élményt webszolgáltatások integrációjával tegyék még teljesebbé. Ennek alapjai már a Firefox 3-ban is megtalálhatók a Placesben, amely a meglátogatott oldalakat és a kedvenceket fogja össze. A Firefox 4-ben ez tovább "okosodhat", például egy webcím begépelésekor a korábbi keresések alapján javaslatokat tesz. Szintén a Weave teszi majd lehetõvé, hogy a Firefox 4 felhasználói a saját beállításaikat, tárolt adataikat (pl. könyvjelzõk, mentett jelszavak, meglátogatott oldalak) mindig, mindenhonnan elérjék, függetlenül attól, hogy honnan és milyen készülékkel csatlakoznak a netre.
+
+A Firefox 4 megjelenésének ideje egyelõre ismeretlen -- még a Firefox 3 sem érkezett meg --, de az biztos, hogy 2008-ban már nem számíthatunk rá, legkorábban jövõre várható.

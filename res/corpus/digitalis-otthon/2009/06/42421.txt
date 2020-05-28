@@ -1,0 +1,14 @@
+Még idén megjön az Intel grafikus maggal integrált processzora
+
+Az Intel várhatóan még az év vége elõtt megkezdi a Clarkdale kódnevû chipjének forgalmazását, amely a vállalat elsõ integrált CPU-GPU terméke. A Clarkdale nem egy szilíciumon, hanem egy tokban tartalmaz egy kétmagos processzort és egy grafikus magot. Az eredeti terméktervek ezt a terméket még 2010 elejére tették, a Digitimes tajvani bennfenntes forrásai szerint azonban már idén elérhetõ lesz és hamarosan az Intel kínálatának egyik meghatározó termékévé válik.
+A vállalat február elején frissítette terméktervét, ekkor jelentette be, hogy nem kerülnek piacra a 45 nanométeres processzorral integrált GPU-k (Havendale és Auburndale), mivel a 32 nanométeres gyártástechnológia bevezetése jobban halad a vártnál. Mivel a 45 nanométeres Nehalem egyszerûen túl nagy ahhoz, hogy versenyképes tömegtermék váljon belõle, az Intel a Westmere kódnevû 32 nanométeres Nehalem-változattól várja azt, hogy mainstream termékké változtassa az új mikroarchitektúrát.
+
+
+A Clarkdale egy 32 nanométeres csíkszélességû, Nehalem mikroarchitektúrára épülõ kétmagos, 4 megabájt cache-sel szerelt Westmere processzort taralmaz, amely a Hyper-threading révén négy párhuzamos programszál egyidejû feldolgozására képes. A tokban emellett egy kétcsatornás DDR3 memóriavezérlõ és egy új fejlesztésû grafikus mag is helyet kap egy második chipen, amely még 45 nanométeres csíkszélességgel készül. A videovezérlõ a jelenlegi GMA 4500 architektúrájához hasonló, de annál nagyobb teljesítményû, és kikapcsolható, vagyis a Clarkdale-alapú gépekben tetszõleges PCI Express felületû videokártyát is lehet használni, a gyártók illetve a vevõk igényétõl függõen.
+
+Mivel asztali környezetben egyelõre olyan ritka a négymagos processzort kihajtó alkalmazás mint a fehér holló, az Intel inkább a kétmagos változatokra fordít figyelmet. Ennek megfelelõen a Westmere nem leváltja, inkább kiegészíti a Nehalemet a palettán, a csúcskategóriában a hatmagos Gulftown érkezéséig megmarad a négymagos Core i7, amellyel a teljesítmény-igényes felhasználókat igyekszik kiszolgálni az Intel, de a mainstream kínálat gerincét már kétmagos Westmere-re épülõ Clarkdale adja, kiszorítva onnan a Penryn-alapú Core 2 Duókat. A Digitimes forrásai szerint az Intel asztali szállításainak már a negyedik negyedévben tizedét adja majd a Clarkdale, 2010 elsõ negyedére pedig már 20 százalékra emelkedik ez az arány.
+A Clarkdale a 2009 második felében érkezõ új, mainstram asztali platform keretében debütáló Intel 5-ös sorozatú lapkaszettel mûködik együtt.	     
+                  
+                  
+                  
+                   

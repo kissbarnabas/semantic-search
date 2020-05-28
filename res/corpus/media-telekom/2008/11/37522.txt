@@ -1,0 +1,20 @@
+Microsoft: mobilalkalmazások Visual Studio és a JavaScript segítségével
+
+A Microsoft egy mobilra optimalizált AJAX-szerû technológián dolgozik -- derül ki a cég terveit jól ismerõ újságíró, Mary-Jo Foley blogjából. A Kojax kódnév alatt futó fejlesztés célja, hogy lehetõvé tegye a fejlesztõk számára az interaktív mobil alkalmazások létrehozását a Visual Studio eszközök és a JavaScript ötvözésével.
+
+
+
+Kiszivárgott
+
+A beszámolók alapján szinte biztosra vehetõ, hogy a Microsoft egy AJAX-szerû mobil alkalmazásfejlesztési környezeten dolgozik, de a cég hivatalosan nem kommentálja a projektet. A Kojax segítségével a Microsoft állítólag egy barátságosabb fejlesztõi környezetet szeretne adni a fejlesztõknek ahhoz, hogy azok könnyedén kihasználhassák a mobiltelefonos böngészõkben rejlõ lehetõségeket. Mellesleg az OpenAjax Szövetség, a World Wide Web konzorcium és egyéb szervezetek is jó ideje dolgoznak hasonló koncepciókon, ami méginkább alátámasztja a hírt, hiszen a Microsoft az egyik kulcsszereplõje az OpenAjax Szövetség IDE munkacsoportjának, ami éppen a mobil platformért felel a szervezeten belül. 
+
+A mobilalkalmazások kapcsán eddig két akadály állt a felhasználóbarát megoldások útjában: a készülékek operációs rendszereire írt szofterek fejlesztése túl nehézkes, bonyolult, böngészõk pedig nem tudnak eleget. A köztes megoldás egy olyan webes eszköz, ami képes a JavaScript segítségével a helyi (készüléken belüli) erõforrásokhoz is nyúlni megfelelõ alkalmazásprogramozási interfészek segítségével. Az olyan esetekben, ahol a teljes értékû böngészés nem támogatott, ott az elavult WAP korlátozott stíluselemei, egyszerû felhasználói interfésze, lassú töltési idõk és a dinamikus képernyõkezelés helyett kellemes kinézetû, azonnal megjelenõ menüket és felületeket hozhat a Kojax.
+
+
+ A kezdeményezéssel kapcsolatban az a hír is felröppent, hogy kapcsolatban áll a Microsoft Unlimited Potential programjával, ami a fejlõdõ országok segítésére szervezett globális programja a vállalatnak. A mobiltelefonokat internetkapcsolatra elsõdlegesen használók számára hasznos lenne, ha a számítógép nélkül is elérhetnének olyan szolgáltatásokat, melyhez most PC-n futó böngészõ szükséges.
+
+Szimbiózis
+
+A Microsofton belül egy külön programot kapott ez a téma "Mobile First" néven, s fõleg Kínára fókuszálva nemrégiben be is jelentette a vállalat, hogy a China Mobile elõretelepített Internet Explorer 6-tal együtt árulja majd készülékeit. Megfordítva a fenti képletet és hozzátéve a kínai bejelentést, melyet a szoftvercég is elismert, érthetõ, hogy miért fontos a cégnek a fejlõdõ piac, illetve miért fektet komoly energiákat a mobil platform fejlesztésébe: azokon a helyeken, ahol eddig nem is találkoztak PC-vel, ott a Microsoft hegemóniáról szó sincs, így kiemelt fontosságú lehet a belépõként szolgáló mobil felületen bemutatkoznia a cégnek.
+
+A Kojax állapotáról még a bennfentesnek számító Mary Jo Foley sem tudott információkat kicsikarni, így azt sem lehet tudni, hogy a projekt a kósza ötlet vagy a privát béta állapotában jár jelenleg. Az bizonyos, hogy a megoldás nem elsõsorban a csinos, iPhone-os funkciók szempontjából lesz lényeges, hanem inkább a komolyabb alkalmazások terén jelenthetne elõrelépést, mint a mobilfizetés vagy az asztali-mobil integráció bármely területe.

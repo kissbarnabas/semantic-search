@@ -1,0 +1,14 @@
+Az év végére meglehet az egymilliomodik ismert számítógépes kártevõ
+
+[Computerworld] A vírusok, férgek, trójaik és más kártékony programok száma minden elképzelést felülmúlóan gyarapodik, a szakemberek várakozásai szerint már az idén regisztálni fogják az egymilliomodik ismert számítógépes kártevõt.
+
+
+
+Az IT-biztonság az utóbbi idõben kiemelt figyelmet kapott, a vállalatok és a fogyasztók is sokkal óvatosabbak, ezért a kártevõk szerzõi is aktivizálták magukat. Más lehetõségük nem is nagyon van, ugyanis a védelmi erõfeszítéseknek köszönhetõen ma már közel sem olyan egyszerû a támadók dolga, mint pár éve. A Sophos szerint öt éve még ezer vírusos levélbõl 40 átcsúszott a szûrõkön, de ma már mindössze egy ér célt, köszönhetõen a fejlettebb szûrõknek, a levelezésrõl szóló vállalati rendszabályok szigorításának, no meg az éberebb felhasználóknak.
+
+ vírusok, férgek és más kártevõk szerzõinek aktivitását jellemzi, hogy a ma ismert kártékony programok negyede az elmúlt fél évben született -- állítja Paul Ducklin, a Sophos mûszaki igazgatója. Az újonnan megszületõ kártevõk 85-90 százalékára szinte azonnal megérkezik az ellenszer, így azok semmit sem érnek a támadók számára, akiknek ezután újabb ártó szándékú programot kell készíteniük, ha sikeres támadást akarnak végrehajtani. Az F-Secure naponta 25 ezer új kártékony szoftvert regisztrál, ami minden korábbinál magasabb.
+
+
+ Ezekrõl a felhasználók rendszerint nem is értesülnek, a pár éve látott tömeges fertõzések, globális víruskitörések ideje lejárt. A támadások célja és szerkezete is megváltozott, a tömeges fertõzéseket a célzott akciók váltják fel, gyakran már nem is egy cég, hanem csak bizonyos alkalmazottak (pl. az ügyvezetõ és a pénzügyi vezetõ) kapnak a frissen létrehozott kártevõt tartalmazó e-mailbõl.
+
+Ducklin szerint a levélben terjedõ kártevõkrõl a hangsúly egyre inkább eltolódik az olyan támadások felé, amelyek a böngészõt támadják, vagy egy manipulált weboldaról akarnak kártevõt letölteni -- elég csupán pár sort módosítani a weboldal kódjában, hogy a látogatók gépére trójait csempésszenek. Ezért különösen fontos, hogy az internetezõ felhasználók a lehetõ leghamarabb telepítsék a gyártók által kiadott biztonsági javításokat az operációs rendszerükhöz, a böngészõjükhöz, illetve a pluginekhez.

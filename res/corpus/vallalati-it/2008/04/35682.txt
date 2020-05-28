@@ -1,0 +1,14 @@
+Olcsó ProLiant szervereket dobott piacra kis- és középvállalatoknak a HP
+
+A HP tegnap két új belépõkategóriás szervert jelentett be, amelyek közül az egyik rackbe szerelhetõ, a másik pedig blade kivitelû. A vállalat állítása szerint a ProLiant BL260c G5, illetve DL120 G5 egyaránt költséghatékony megoldások, ugyanakkor nem nélkülözik a ProLiant családtól megszokott kényelmi és felügyeleti szolgáltatásokat.
+
+
+
+A Xeon-alapú, kétfoglalatos BL260c-t a világ legolcsóbb blade szervereként hirdeti a HP. A szerver két- és négymagos processzorokkal egyaránt rendelhetõ, legfeljebb 24 gigabájt DDR2 memóriát támogat és két darab SATA merevlemezt lehet beleépíteni. A mindössze 1199 dolláros listaáron megvásárolható blade-et a gyártó fiókirodák vagy távoli telephelyek számára ajánlja elsõsorban, két darab négymagos Xeonnal szerelve akár egy ERP vagy CRM rendszerrel is elboldogul, de kedvezõ ára miatt akár a nagy számítási teljesítményt igénylõ mûszaki alkalmazások futtatása esetén, egy nagy fürtözött rendszer részeként is megállja a helyét. A BL260c a HP c-osztályú blade kereteibe (c7000, c3000) építhetõ be.
+
+A ProLiant DL120 G5 a legolcsóbb rackbe szerelhetõ szerver a ProLiant termékcsaládban, a mindössze egy processzorfoglalattal rendelkezõ, Intel-alapú gépet leginkább a kis- és középvállalatok érdeklõdésére számíthat. A szerver ára 900 dollár alatt indul, bár ezért csak Celeron processzor jár, a kínálat felsõ végét a négymagos Xeonok jelentik. Az 1U kivitelû DL120 G5 legfeljebb 8 gigabájt memóriát támogat és 2 SATA vagy SAS merevlemezt tud fogadni.
+
+
+A Linuxot futtató ügyfelek számára is jelentkezett újdonságokkal a cég, a HP Insight Control Environmentnek elkészült a szabad operációs rendszeren futó változata, amellyel a Linuxot futtató ProLiant szervereket lehet felügyelni, menedzselni. Emellett a HP öt olyan linuxos összeállítást is piacra dob, amelyeket kimondottan Oracle adatbázisok futtatására optimalizáltak -- a kínálatban 75-tõl 400 felhasználóig vannak elõre konfigurált megoldások.
+
+Szintén tegnap jelentette be a HP, hogy kimondottan CRM alkalmazások futtatására összeállított és optimalizált csomagokat dob piacra, amelyek szervereket és tárolókat tartalmaznak. A Microsoft Dynamics CRM, valamint Oracle Siebel CRM Professional Edition szoftverek alá ajánlott rendszereket a HP elõre tesztelte és minõsítette, ezzel csökkentve a telepítési és bevezetési idõt. Az árak konfigurációtól függõen változnak.

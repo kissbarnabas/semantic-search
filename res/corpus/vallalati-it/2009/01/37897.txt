@@ -1,0 +1,16 @@
+Késhet a Vista második javítócsomagjának megjelenése
+
+Bennfentes információk szerint az eredeti tervekhez viszonyítva legalább egy hónapot késhet majd a Windows Vista második javítócsomagjának megjelenése. Elképzelhetõ, hogy májusig vagy júniusig kell várni az SP2-re, és az egyéni felhasználók várhatóan ezúttal is csak azután tölthetik majd le, hogy a nagyobb számítógépgyártókhoz már eljutott a a kész változat.
+
+
+
+A korábbi spekulációkkal ellentétben már nem áprilisra, hanem május-június magasságára teszi a Windows Vista SP2 megjelenését a témában bennfentesnek számító, korábban számos megjelenési dátumot helyesen megtippelõ malajziai TechARP.com weboldal. Az oldal úgy tudja, hogy a Microsoft február helyett csak márciusban teszi elérhetõvé a szervizcsomag kiadásra jelölt változatát, ezt követõen szinte biztos, hogy a végleges verzió nem jelenik meg egy hónapon belül.
+
+A szervizcsomag végleges változata az eddigi szokásoknak megfelelõen várhatóan ezúttal is a számítógépgyártókhoz jut majd el elõször, és csak ezt követõen teszik elérhetõvé a vállalati rendszergazdák, végfelhasználók számára. A két megjelenési idõpont közt eltelt idõre nincs bevett gyakorlata a szoftvercégnek: a Windows XP harmadik javítócsomagja például a gyártásba kerülés után nagyjából két héttel vált letölthetõvé, míg a Vista SP1-nél ugyanez az idõintervallum másfél hónapra tolódott ki. A lokalizációk esetén ehhez további hetek is hozzáadódhatnak.
+
+
+A spekulációk szerint a Microsoft a Vista SP2 esetében szakítani fog korábbi gyakorlatával, és nem kötelezi majd a PC-gyártókat és az OEM-eket arra, hogy számítógépeiket az új szervizcsomaggal frissített Vistával szállítsák. A feltételek minden bizonnyal a Windows 7 közeli megjelenése miatt változhatnak -- véli a TechARP --, a gyártókra ugyanis jelentõs többletterhet ró egy új szervizcsomag kitesztelése, validálása és a bevezetéssel kapcsolatos logisztikai teendõk. Ezeket az erõforrásokat a számítógép- és komponensgyártók az új operációs rendszer bevezetésével kapcsolatos munkálatokra fordíthatják, a Vista SP2 letöltése és telepítése így könnyen lehet, hogy a végfelhasználóra vagy a rendszergazdára vár majd.
+
+A Windows Vista SP2 bétája tavaly decemberben jelent meg. A Vista SP2 a szokásos hibajavítások mellett olyan újdonságokat tartalmaz majd mint a Blu-ray és Bluetooth 2.1 támogatása, illetve a Windows Search 4, bár utóbbi kettõt különálló frissítésként már eddig is letölthették a felhasználók. További figyelemre méltó újdonság a Windows Connect Now, ami a vezeték nélküli hálózatok konfigurációját egyszerûsíti, illetve lehetõség lesz exFAT fájlrendszer esetén UTC idõt használni, így idõzónák között is zökkenõmentesen lehet állományokat szinkronizálni. A Vista SP2-ben található újdonságokat Microsoft weboldala részletezi.
+
+A Microsoft nem kommentálta a Vista SP2 esetleges késésével kapcsolatos fejtegetéseket. A cég álláspontja szerint a Vista és a Windows 2008 Server operációs rendszerek második javítócsomagja az eredetileg tervezett idõben, a második negyedévében készül el.

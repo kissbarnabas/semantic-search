@@ -1,0 +1,18 @@
+Ne bízz meg az ismert, régóta látogatott weboldalakban sem!
+
+[Techworld] Aggasztó képet nyújt az internetes oldalak általános megbízhatóságáról, biztonságáról a Websense legújabb felmérése. Elsõ ízben fordult elõ, hogy a kártékony oldalak között túlsúlyba kerültek az eredendõen megbízhatónak tartott, de feltört, felhasználókat támadó weboldalak. Csak a víruskeresõinkben bízhatunk.
+
+
+
+51 százalék
+
+A Websense 2007 második felében gyûjtött adatai szerint a kártékonynak minõsített oldalak 51 százaléka eredetileg megbízható weboldal volt, melyet feltörést követõen állítottak saját szolgálatukba a zombihálózatok üzemeltetõi. A feltört oldalakon elhelyezett kódok segítségével trójaikat és más rosszindulatú alkalmazásokat juttatnak a látogatók számítógépére. A "maradék", 49 százaléknyi weboldal eleve ilyen céllal jött létre.
+
+Az éppen kibontakozó háború a rendszergazdák és a hackerek között szinte várható volt: mivel egyre sikeresebben veszik fel a harcot az olyan támadásokkal szemben, melyekben az e célra létrehozott weboldalakra irányítanák át a látogatókat, közvetlenül a weboldalakat vették célba a rosszindulatú kódok terjesztõi. Ez a megoldás számukra sokkal egyszerûbb és viszonylag könnyebb, ráadásul nehezebb lesz megtalálni a valódi felelõsöket is.
+
+Massive attack
+
+
+Az internet rohamos terjedése valódi táptalajt nyújt ezeknek a támadásoknak: sokan üzemeltetnek saját portált, blogoldalt úgy, hogy fogalmuk sincs az ingyenes portálmotor, vagy blogmotor biztonsági réseirõl. Az utóbbi hetekben több tízezer weboldalt, fórumot értek hasonló támadások, számtalan közülük a mai napig kártékony kódot próbál meg letölteni a számítógépünkre, mert üzemeltetõi észre sem vették, hogy hackerek áldozatai lettek.
+
+A Websense adatbázisában jelenleg több mint 2,5 millió weboldalt tartanak nyilván, melyek különbözõ módszerekkel próbálnak trójait letölteni számítógépünkre. Ehhez böngészõk, vagy számítógépünkre feltelepített, de nem frissített szoftverek (például QuickTime) biztonsági réseit használják fel. A módosított weboldalak 19 százalékát népszerû toolkitekkel törik meg.

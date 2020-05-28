@@ -1,0 +1,51 @@
+Olimpiai kudarcok és sikerek a multimédiában
+
+Az olimpiai multimédia láz nem merül ki a mostanra idõzített digitális televíziós bevezetésekben és klasszikus reklámkampányokban, hanem minden lehetséges felületen próbálnak a cégek megjelenést generálni maguknak vagy valamiféle innovatív szolgáltatást indítani. A nagy TV-szolgáltatók és köztévé jól felépített fejlesztései melett viszont a legtöbb kísérlet kiforratlan, elsietett, vagy éppen piacképtelen.
+
+
+
+Videouzi
+
+A legszebb példa a fiatal Zoom.hu általános híroldal megrendelésére készített videouzi.hu. A névválasztás már eleve szerencsétlenné teszi kissé a site-ot, hiszen egyértelmûen a "videobuzi" kifejezésre asszociál, még erõltetve is nehéz belemagyarázni a feltételezhetõ alkotói ötletet, a "videóüzi" kifejezést. Az alapkoncepció nemes gesztus: a készítõk megkísérelték összegyûjteni a magyar rajongók üzeneteit, melyet a weben keresztül juttatnak el a sportolóknak a több mint hétezer kilométeres távolságba. Természetesen mindenki nézegetheti a többiek üzeneteit, sõt, kommentálhatóak is.
+
+
+Üzenj Pekingbe!
+
+Az ötlet príma, a megvalósítás viszont sekélyes. Az oldal kezelõfelülete nehézkes, laikus internetezõ számára bizonyára problémát okozna a kezelése. Az elmúlt hónapokban számos olyan webes megoldást és koncepciót mutattak be, aminek ha csak árnyéka lenne ez az ideiglenes oldal, akkor már sikerre vitte volna. A másik oldalról a készítõknek több energiát kellett volna a rajongók megszólaltatására is fordítani, hiszen hiába utaztak el öt helyszínre rajongást rögzíteni, ha mindössze 130-150 videó került fel az olimpia kezdetéig. Július 21. óta a felhasználók maguk is tölthetnek fel saját anyagokat, ami viszont dicséretes. A versenyek kezdete talán lökést is adhat az oldalnak és remélhetõleg egyre kevesebbszer találkoznak az oldal látogatói megrémült, össze-vissza beszélõ vagy éppen retardáltként viselkedõ utcán elkapott emberek üzeneteivel. A legjobb darab miatt viszont már érdemes megnézni, az EFOTT fesztiválon készült 3000 fõs bátorítás igenis motiváló.
+
+Mobiltévé
+
+A tartalomszolgáltatók mellett a mobilcégek is produkálnak érdekes megoldásokat. A T-Mobile még tavasszal a Vodafone-nal és az Antenna Hungáriával karöltve népszerûsítette a mobil televíziós szolgáltatást, melyet a DVB-H szabvány keretein belül nyújtanak, nyújtanak majd. Az igazi, valóban élvezhetõ minõséget nyújtó digitális földfelszíni szóráshoz viszont nem is csupán az adótornyok oldaláról hiányzik a kellõ lefedettség, hanem a fogyasztói oldalon is alig találunk erre alkalmas készüléket.
+
+
+Éppen ezért a T-Mobile is maradt a hagyományos videostream-megoldásnál, ami az igazi mobil televíziózáshoz képest elavult és fapados. 1900 forintért 10 óra tévéadást (illetve az olimpia alatt újabb 10 óra ajándék) streamelhetnek a felhasználók, ezt követõen pedig percenként 29 forintért lehet tovább szurkolni. A képek minõsége feltételezhetõen egy mobilkészüléken megnézett YouTube videó minõségét ütheti meg maximum, vagy annál rosszabb. A Vodafone hasonló technológiai alapokon nyugvó ingyenesen megnézhetõ Madonna koncertje például átláthatatlan pacákból álló színkavalkád volt.
+
+Ez a szolgáltatás maximum annak jelenthet perspektívát, aki  fanatikus sportrajongó, de munkája miatt mindig lemaradna a közvetítések elejérõl vagy végérõl. Pozitívum, hogy a HSDPA-képes készülékek szinte mindegyikével elérhetõ a szolgáltatás, az viszont sokat ront a helyzeten, hogy a T-Mobile képtelen volt összerakni egy primitív Java-programot, ami indította volna a csatornákat, ehelyett az elavult és csúnya WAP-felületet választották. A készülékek kijelzõjének felbontása (tisztelet a kivételnek), a messze nem stabil HSDPA-kapcsolat és a videotömörítés miatt elveszõ részletek miatt a szolgáltatás messze nem ajánlott. A szolgáltatás egyébként is méltatlan a mobiltévé megnevezésre, de a marketingosztály másképp nyilvánvalóan nem tudta volna lenyomni az ügyfelek torkán.
+
+Külföldön akár nagyfelbontású élõ streamet is nézhetünk
+
+Külföldi példát is említve, a YouTube is igazi médiummá vált, ugyanis megszerezte az egyébként olimpiai közvetítési joggal nem rendelkezõ országok számára a lehetõséget, hogy elérhetõvé tegye ott a játékokat. Ezek a videók csak és kizárólag azon 77 országból elérhetõk, ahol erre más mód nincs, ahogy korábbi írásunkban kifejtettük. 
+
+
+Az USA két lépéssel elõrébb
+
+
+Így a fenti lehetõség az amerikaiak számára nem is elérhetõ, de valószínûleg nem bánkódnak miatta, hiszen az NBC például a Microsoft Silverlight megoldását használva egy teljesen komplex és elismerésre méltó olimpiai portált üzemeltet, ahol nagyfelbontásban lehet az élõképeket is követni, vagy a korábbi eseményeket visszanézni. Sõt, ha megadjuk tévéelõfizetésünkkel kapcsolatos adatainkat, akkor a rendszer jelzi, hogy mikor melyik csatornára kell kapcsolnunk, hogy kedvenceinket követhessük. Sajnos ezt a szolgáltatást nem-amerikai IP-címrõl még egy rövid demo erejéig sem lehetséges kipróbálni. Mindenesetre sajnálatos tény, hogy míg Magyarországon a WAP a menõ, addig az Egyesült Államokban akár weben keresztül is bámulhatjuk a  pekingi olimpiát, divatos kezelõfelülettel, nagyfelbontásban.
+
+	     
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                    A cikk több oldalból áll:
+                    
+                    
+                        1. oldal: Olimpiai kudarcok és sikerek a multimédiában
+                      
+                        2. oldal: Interaktív IPTV
+                        
+                    
+                  

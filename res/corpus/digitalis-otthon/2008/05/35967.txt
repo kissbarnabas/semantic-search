@@ -1,0 +1,14 @@
+Végre tényleg elérhetõ a Windows XP harmadik szervizcsomagja - magyarul is
+
+Némi késést követõen végre tényleg megérkezett a Windows XP utolsó, harmadik szervizcsomagja. Az egy hetes csúszással jelentõsen bõvült a lokalizációk támogatása is, már a magyar nyelvû Windows XP-ket is frissíthetjük.
+
+
+
+A szervizcsomagot a Windows Update webhelyen keresztül a legcélszerûbb letölteni, hiszen ilyenkor csak azt a néhány megabájtnyi frissítést kell telepíteni, amit eddig nem szerezhettünk be ilyen módon. Ezen túl további lehetõség a webes, a teljes telepítõ, vagy a CD-képként elérhetõ változat letöltése. Mindhárom elérhetõ magyar nyelven is. A Windows XP SP3 mellett a Windows Vista SP1 terjesztését is újrakezdték, miután sikerült megoldani a  Microsoft Dynamics RMS-szel kapcsolatos kompatibilitási problémákat.
+
+Az alkalmazás-inkompatibilitási problémát a Microsoft viszonylag gyorsan javította, a vállalat korábban azt ajánlotta a Dynamics Retail Management System felhasználóinak, hogy semmiképp se telepítsék a Windows XP SP3-at és a Vista SP1-et, további információért pedig forduljanak a cég terméktámogatási csapatához.
+
+
+A Microsoft egyben figyelmeztette is a felhasználókat, hogy a szervizcsomag feltelepítését követõen jól gondolják meg az Internet Explorer 7-re áttérést -- amennyiben még ezt nem tették volna meg --, ugyanis az SP3-mal frissített XP-krõl már nem lehet eltávolítani a frissebb, okosabb böngészõt. Internet Explorer 6-ra csak akkor válthatunk vissza, ha elõbb eltávolítjuk a harmadik szervizcsomagot.
+
+Az SP3 az utolsó szervizcsomag a Windows XP-hez, a Microsoft június 30-án vonja ki a hét éves operációs rendszert a kiskereskedelmi forgalomból, ezt követõen már nem lesz megtalálható a boltok polcain, és a PC-ken sem, legalábbis elvileg. A nagyobb gyártók, a HP és a Dell a jelenlegi információk szerint mégis forgalmazni fognak ezt követõen is Windows XP-vel elõtelepített PC-ket -- a Windows Vista egyes változatainak "downgrade" lehetõségét használják fel erre a célra.

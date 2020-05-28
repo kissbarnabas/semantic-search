@@ -1,0 +1,34 @@
+A Core i7 nevet kapták az Intel új asztali chipjei - nem tudni, miért
+
+A negyedik negyedévben érkezõ Nehalem-magos asztali Intel processzorok Core néven lesznek megtalálhatók a boltok polcain és a számítógépekben -- adta hírül az Intel. 
+
+
+
+Core hány?
+
+A vállalat a Nehalem-generáció elsõ asztali tagjainak, melyeket Bloomfield kódnéven ismerünk, az i7 megkülönböztetõ jelzést adja, emellett természetesen megmarad az eddig használt modellszámozási rendszer is. "A Core lesz ezentúl a PC-s processzoraink zászlóshajójának márkaneve" -- mondta a bejelentés kapcsán Sean Maloney, az Intel értékesítési és marketing-igazgatója, akinek ígérete szerint a vállalat hatalmas marketingkampányt állít majd a Core i7 mögé.
+
+ 
+
+George Alfs Intel-szóvivõ szerint a Core márkanév bevezetése mögött épp az egyszerûsítés húzódik meg, az elõzõ generációkban az egy- és többmagos processzorok külön-külön márkanéven futottak (pl. Core 2 Solo, Duo, Quad), a Nehalem megjelenésével azonban az összes processzor Core néven lesz kapható. A márkanév utáni i7 jelölés alighanem a termékskálán belül elfoglalt relatív pozíciót hivatott majd jelezni, de errõl egyelõre semmit sem mondott az Intel. A vásárlók tájékozódásának segítésére a gépházakra ragasztott címkéken jelzik majd a modellszámokat is, közölte a chipgyártó.
+
+A lépéssel az Intelnek alighanem végleg sikerült összezavarnia a vásárlókat. A Core márkanév elõször 2006-ban tûnt fel a Core Solóban és Duóban, majd alig fél évvel késõbb már a Core 2 jelent meg a piacon, amelynek ráadásul a mikroarchitekturális kódneve Core. A chipgyártó furcsa logikával tehát a Core 2 processzoroknál újabb, fejlettebb chipgenerációját Core néven fogja forgalmazni -- vásárló legyen a talpán, akinek világos lesz, hogy a "kevesebb az több".
+
+Az i7 jelentésérõl, céljáról ráadásul eleddig semmit nem árult el a vállalat, mellyel megindokolta volna azt. Az "i" utalhat a magas fokú integrációra, míg a "7" talán valamiféle logika alapján generációszámot jelölhet, a Nehalem ugyanakkor csak egy nagyon önkényesen összeválogatott listán lehet hetedik bármilyen szempontból is, és attól még nem feltétlenül mûködik hatásos marketingeszközként. Egy másik spekuláció lehet, hogy az Intel be akarja venni a "leet" nyelvet a Nehalemet bevezetõ kampányába, ahol az i7 olvasata "it".
+
+A Core i7 újdonságairól
+
+Pedig a Nehalem jóval több. Bár a monolitikus négymagos mikroarchitektúra a Core egyenesági leszármazottjának tekinthetõ, minden tekintetben jelentõs továbblépést képvisel. Az új processzorcsaláddal az Intel megkezdi az évtizedek óta alkalmazott buszrendszer kivonását, és helyébe egy sokkal korszerûbb, pont-pont összeköttetésekre, és integrált memóriavezérlõre épülõ architektúra lép. Ennek eredményeként növekszik a magok rendelkezésére álló sávszélesség, és csökken a memória elérésének késleltetése, ami leginkább többutas rendszerekben, azaz munkaállomásokban, de fõképp szerverekben mutatkozik meg.
+
+A magokban a legnagyobb változást a párhuzamos többszálúság visszatérése jelenti. A HyperThreading révén a négymagos Nehalem 8 utasításszálat kezel, amivel az Intel szerint 20-30 százalékos teljesítménynövekedés is elérhetõ megfelelõen párhuzamosított szoftverek alkalmazása esetén. Átdolgozták a cache-hierarchiát, a magok közötti adatmegosztás és koherenciaforgalom számára egy 8 megabájtos L3 cache található a chipen, míg az L2 tárak a gyorsaság érdekében 256 kilobájtosak mindössze.
+
+További újdonság, hogy a soronkívüli végrehajtást biztosító ütemezõ 96 helyett immár 128 mikroutasításból válogathat a végrehajtóegységek etetése érdekében -- vagyis emelkedhet az órajelenként elvégzett hasznos munka mennyisége a végrehajtóegységek magasabb kihasználtsága révén. A Nehalem már SSE 4.2 vektor utaskészletet alkalmaz, mely további 7 alkalmazásspecifikus utasítást hoz magával elsõsorban szövegek és stringek feldolgozásában.
+
+A Nehalem nehézsúlyú versenyzõnek számít az x86-os processzorok között, a 45 nanométeres eljáráson implementált, 731 millió tranzisztorból felépülõ chip 260 négyzetmilliméteren terül el. Magjai egyenként mintegy 25 százalékkal nagyobb területet emésztenek fel, mint a Penryné. A Core i7 család elsõ tagjai a negyedik negyedévben érkeznek, elsõként Extreme Edition változatban asztali gépekbe, illetve szerverekbe -- ezeket természetesen továbbra is Xeonnak hívják majd. A chipek pontos specifikációi egyelõre nem nyilvánosak, de kiszivárgott információk alapján akár 3,2 GHz-es induló órajel sem elképzelhetetlen.
+
+Új processzorok is jöttek
+
+
+ A Core márkanév bejelentésével egyidõben az Intel új processzorokat is bemutatott, a Core 2 Quad Q9650-ot és Q9400-at, illetve a Core 2 Duo E9600-at és az E7300-at. Az új középkategóriás chipek megjelenésével egyidõben a Core 2 Quad Q9550 listaára 530 dollárról 316 dollárra csökkent, és ezzel párhuzamosan a Xeon X3660 ára ugyanígy változott.
+
+A most piacra dobott lapkák közül a legerõsebb Core 2 Quad Q9650 3 GHz-es, 1333 MHz-es front side busszal jár és 12 megabájt L2 cache-t tartalmaz, listaára 530 dollár. A Core 2 Quad Q9400 szintén 1333 MHz-es front side busszal mûködik, de csak 2,66 GHz-es az órajele és 6 megabájt L2 cache-t tartalmaz, az ára 266 dollár. A 6 megabájt L2 gyorsítótárral szerelt, 3,3 GHz-es Core 2 Duo E8600 ugyanennyiért kapható, a 3 megabájt L2 cache-t tartalmazó, 2,66 GHz-es E7300 listaára pedig 133 dollár.

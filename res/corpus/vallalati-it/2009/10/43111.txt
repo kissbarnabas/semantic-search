@@ -1,0 +1,12 @@
+Elkészült az XP Mode
+
+A Microsoft hivatalos Windows-blogjában olvasható információk szerint elkészült az XP Mode, a Windows 7-tel nem kompatibilis szoftverek futtatására szánt virtuális gép, amely a Virtual PC új változatára épül. A szoftvert a vállalati Windows-változatok (Professional, Enterprise és Ultimate) felhasználói ingyen tölthetik le gépükre a Windows 7 megjelenésének napjától.
+A Windows 7 a Vista továbbfejlesztett kernelére épül, így a Vistára írt szoftverek biztosan futnak az új operációs rendszeren. A Vista azonban nagyon sok olyan változtatást hozott a Windows XP-hez képest (pl. User Account Control), amely akár lehetetlenné is teheti a Windows XP-re (rosszul) megírt alkalmazások használatát. Ugyan a Microsoft számos különféle eszközzel segíti a szoftverek átültetését az új operációs rendszerre, elõfordulhat hogy ezekkel sem érhetõ el a kívánt cél, például azért mert a szoftver fejlesztõje vagy a forráskódja már nem érhetõ el.
+
+Ekkor segíthet az XP Mode, amely gyakorlatilag egy virtualizált Windows XP SP3. Az XP Mode elõnye a VMware-en vagy más hypervisoron virtualizált Windows XP-vel szemben, hogy az XPM mûködése központilag adminisztrálható Active Directory és csoportházirendek segítségével. Emellett az sem elhanyagolható tényezõ, hogy az XPM önmagában tartalmaz egy teljes értékû Windows XP SP3 licencet, így azért nem kell külön fizetni.
+Windows XP Mode-ban az alkalmazást ugyan a virtualizált Windows XP-re kell telepíteni, de a gazda operációs rendszerbõl, azaz a Windows 7-bõl ugyanúgy indítható mint bármilyen más program. Így a felhasználók egyetlen asztali környezetbõl futtathatják a Windows XP-t igénylõ alkalmazásaikat a Windows 7-en natívan mûködõ programokkal. A Windows XP Mode használatához hardveres virtualizációs támogatással rendelkezõ processzor szükséges.
+A Microsoft várakozásai szerint az XP Mode megoldja a Windows 7 kapcsán felmerülõ esetleges kompatibilitási problémákat és felgyorsítja a migrációt a vállalatok körében az új operációs rendszerre. A legtöbb elemzés és elõrejelzés szerint egyébként is gyorsan el fog terjedni a Windows 7 a vállalati világban.	     
+                  
+                  
+                  
+                   

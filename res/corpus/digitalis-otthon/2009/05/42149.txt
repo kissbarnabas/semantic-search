@@ -1,0 +1,15 @@
+IdeaPad S12: az elsõ Ion-alapú netbook
+
+A Lenovo az elsõ gyártó, mely hivatalosan jelent be olyan netbookot, melyben az Intel Atom processzort az NVIDIA Ion platformja szolgálja ki. Az IdeaPad S12 -- ahogy az a modellszámból is következik -- 12,1 hüvelykes kijelzõvel rendelkezik. Az új Ion platform kicsit elmoshatja a határokat a noteszgépek és a netbookok között, hiszen az ezzel szerelt netbook kevesebb korláttal állhat helyt a mindennapokban.
+
+A Lenovo IdeaPad S12 1280x800 képpont megjelenítésére alkalmas, 12,1 hüvelykes kijelzõje alatt természetesen szélesebb billentyûzet fér el, emellett a tapipad gombjai a szokásos helyen vannak. A beltér 1,6 gigahertzes Intel Atom processzornak, és 1 gigabájt memóriának ad helyet, az 1080p felbontású videoállományok lejátszása a fenti két részegység mellett az NVIDIA GeForce 9400 grafikus vezérlõ által válik leginkább lehetõvé, legalábbis az ionos változat esetében. Természetesen a HD-videók és számos egyéb terület mellett a 3D-grafikával megáldott játékok is hasznot húzhatnak a nagyobb grafikai teljesítménybõl, azonban ha a vásárló megelégszik a mai netbookos átlaggal, választhatja gépét a szokásos Intel-vezérlõvel is.
+
+
+
+
+
+Az Ideapad S12 háttértárja igen szép kínálatból válogatható, érkezik modell 160, 250 és 320 gigabájtos merevlemezzel is, igaz szilárdtest-meghajtóval szerelt változatról még nem értesültünk. A gép egyébként nem csak három USB 2.0 kapuval és egy multiformátumú kártyaolvasóval rendelkezik, hanem egy ExpressCard kártyahellyel is. Ha valaki külsõ megjelenítõt kapcsolna a gépre, akár HDMI-kábelt is használhat. A Lenovo IdeaPad S12 Windows XP Home operációs rendszerrel és hétköznapi Intel grafikus vezérlõvel már júniusban megérkeznek, 449 dolláros kezdõáron. Az NVIDIA Ion-alapú gépekre még várni kell, de azok is még a nyár folyamán megérkeznek, még nem ismert, ám vélhetõen magasabb fogyasztói áron.
+
+
+
+A GeForce 9400 MCP79 egy integrált grafikus vezérlõt tartalmazó chipkészlet, ami valójában egyetlen lapkából áll. Az Intel jelenlegi netbookplatformja a i945 northbridge-bõl és az IC7 southbridge-bõl áll, a 9400 a két lapka funkcionalitását egyben nyújtja, ezért kevesebb helyet foglal és a hõtermelése is hasonló, ezért nem igényel erõsebb hûtést.

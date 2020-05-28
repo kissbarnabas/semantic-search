@@ -1,0 +1,52 @@
+Fujitsu Siemens LifeBook P8020 -- Erre nincs mentség
+
+Az, hogy komoly bajok vannak a Fujitsu Siemensnél, már tavaly is a napnál világosabban látszott. A német-japán multiból két hónapon belül kiszáll a Siemens, miközben Európa legnagyobb PC-gyártója szép lassan minden piacon lemarad a vetélytársakkal folytatott versenyben, a hazai leány pedig saját bõrén tapasztalhatta, hogy mi is rejlik pontosan a &#8222;gyilkos árverseny&#8221; szavak mögött. A Fujitsu Siemens üzleti noteszgépcsaládjához tartozó LifeBook P8020 a cég többnyire olcsó noteszekbõl álló kínálatának tökéletes ellenpólusa: a gép tudásához és minõségéhez képest annyira drága, hogy már-már azt hihetnénk, a gyártó valójában nem is azért dobta piacra, hogy eladja.
+
+
+
+A gyártó hazai képviseletétõl kölcsönkapott LifeBook P8020 a Fujitsu Siemens jelenlegi kínálatának csúcsát képezõ üzleti notebook, melynek közvetlen elõdje, a P8010-es modell jóformán csak belsejében különbözött az új, Montevina-alapokra épülõ típustól. A 12,1 hüvelykes képátlójú, WXGA (1280x800 pixeles felbontású) kijelzõvel szerelt noteszgép egészen könnyûre sikerült: 1340 grammot nyomott mérlegünkön, hatcellás akkumulátorával és beépített optikai meghajtóval. Ez eddig elismerésre méltó mérnöki munkáról és tervezésrõl árulkodik, más kérdés, hogy a gépet tüzetesebben megvizsgálva hamar rá kellett döbbennünk arra, hová tûnt a tömeg.
+
+Anyag, anyag, anyag!
+
+A LifeBook P8020 formája arányait tekintve kissé szokatlan, az átlagosnál tömzsibb látszatot kelt. A gép valamivel keskenyebb egy átlagos, 12,1 hüvelykes notebooknál, ez leginkább a kijelzõ káváján érhetõ tetten -- nyitott állapotban jól látszik, hogy két oldalt csak egy keskeny kis perem veszi körbe a LED-háttérvilágítású TFT-t, mely a speciális bevonatnak köszönhetõen a fényes felület ellenére alig tükrözõdik. A kijelzõ hátlapja meglehetõsen olcsó látszatot keltõ lakkfekete festést kapott, ami már elsõ ránézésre az exkluzív üzleti kategórián kívül helyezi a LifeBook P8020-at.
+
+
+
+A gép tehát könnyû, cserébe a fentebb említett kijelzõ nyeklik-nyaklik, bár szerencsére nem annyira, mint a Toshiba Portégé R500/600 esetében. A LifeBook burkolata a kijelzõ fedlapját és káváját leszámítva csaknem mindenhol mattfekete mûanyag, melynek minõségével alapvetõen nincs gond, a ház azonban minden pontján ijesztõen vékony, a tenyértámasz jobb oldala például egy ujjal is simán behorpasztható, fém merevítésnek nyoma sincs.
+
+
+
+Az átlagosnál keskenyebb gép beviteli felülete komoly aránytalanságokat mutat: a klaviatúra a teljes rendelkezésre álló területnek kevesebb mint felét foglalja csak el, a maradék helyet egy irreálisan nagy, ujjlenyomat-azonosítóval is felszerelt tapipad, valamint egy egészen elképesztõen gyengén kivitelezett, két végén hangszórókkal lezárt funkciógomb- és LED-sor tölti ki. Üzleti noteszgéprõl lévén szó, a gép egyik legfontosabb részegysége a klaviatúra, mely ennél a gépnél hiába tölti ki szélességében a teljes rendelkezésre álló teret: mivel alulra és felülre nem tud terjeszkedni, illetve a P8020 keskenyebb a szokásosnál, a gombok kicsik lettek, az alapzat ráadásul instabil, a gépelés így eleinte komoly koncentrációt és megszokást igényel, de késõbb sem lesz élmény.
+
+
+
+A LifeBook P8020 portjai és kimenetei kapcsán egyetlen érdekességet érdemes kiemelni: a notebook a montevinás modellek közül alighanem egyedüliként teljesen érthetetlen módon nem ExpressCard-, hanem PCMCIA-kártyahelyet kapott, ami kifejezetten érdekesen mutat egy 2009-ben piacra került gép oldalán. A notebookhoz dokkolót is lehet csatlakoztatni, ez további 4 USB kaput, VGA- és DVI-kimenetet valamint LAN-csatlakozót biztosít a kényelmesebb irodai munkához.
+
+Belül rendben van
+
+A Fujtisu Siemens csúcskategóriás üzleti notebookja az Intel legújabb mobiltechnológiájára épül: a LifeBook P8020-ban egy ultraalacsony feszültségû Core 2 Duo SU9400-as processzor dolgozik, mely 1,4 GHz-es órajelével ugyan nem teljesítménybajnok, cserébe viszont rendkívül jó fogyasztási mutatókkal rendelkezik, így a gép alapvetõen hosszú akkumulátoros üzemidõvel kecsegtet. A tesztgépbe 4 gigabájtnyi DDR3-memóriát építettek, amibõl a 32 bites Windows Vista csak hármat lát -- ebbõl a memóriamennyiségbõl csippenti le a képpuffernek használt területet a GS45 Express lapkakészletbe integrált GMA 4500MHD grafikus motor is.
+
+A számítógép tehát alapvetõen alacsony fogyasztású komponensekkel (LED-háttérvilágítású kijelzõ, ultralacsony feszültségû processzor) van teletömve, áramfogyasztása mûködés közben ennek megfelelõen egészen baráti: a LifeBook P8020 internetezés és átlagos irodai felhasználás mellett, egyharmad fényerõre szabályzott kijelzõvel nagyjából 9-10 wattot fogyaszt -- mi az alap hatcellás akkumulátorral így valamivel több, mint hat órán keresztül tudtuk használni a gépet, ami megfelel a gyártó által megadott adatoknak.
+
+
+
+Aki ennél is többre vágyik, annak rossz hír lehet, hogy a P8020-hoz nem kapható nagyobb kapacitású, vagy kiegészítõ akkumulátor, és bár a nyomógombbal elõhívható Eco Power Saving funkcióval lekapcsolható többek közt az optikai meghajtó -- ezzel további néhány tized wattot spórolva --, a DVD-írót nem lehet kivenni a gépbõl, hogy a helyére második akkumulátort, vagy súlycsökkentõ modult illesszünk. Itt jegyeznénk meg, hogy a Fujitsu Siemens ennél lényegesen olcsóbb Esprimo Mobile családjában ez a lehetõség szinte minden gépnél adott.
+
+
+A moduláris felépítés mellõzése mellett kissé aggasztó, hogy a gépet használva -- leszámítva az átlagosnál hosszabb akkumulátoros rendelkezésre állást --, nem tûnik fel, hogy alacsony fogyasztású komponensekbõl összeállított notebookhoz van szerencsénk. A hûtés hallhatóan zajos, olykor még az üresjáratban hagyott gép ventilátora is  felpörög, hogy a felgyülemlett hõt elvezesse.
+
+
+
+Szerencsére a LifeBook P8020 cserébe a beviteli felület felé nem sugároz hõt, alul viszont jól érezhetõen melegszik a gép, de ez csak akkor lehet zavaró, ha ölben tartva használjuk. Kíváncsiságból összehasonlítottuk a processzor üresjárati (ilyenkor mindegyik CPU 800 MHz-re szabályozta le magát) hõmérsékletét a szerkesztõségünkben szolgálatba állított Lenovo X200s-be szerelt, 1,86 GHz-es Core 2 Duo hõmérsékletével. A mérések 10 °C eltérést mutattak az X200s javára, ami rosszul megtervezett hûtésrõl árulkodik a LifeBook esetében (vagy a Lenovo mérnökei végeztek különösen jó munkát). Ez nem is elsõsorban a hõkibocsátással kapcsolatban, sokkal inkább az alaplapi komponensek élettartamára nézve vet fel aggályokat.
+
+A LifeBook P8020 az üzleti felhasználók által nagyra értékelt funkciók közül leginkább az adatbiztonságra és a kommunikációra helyezi a hangsúlyt, így a legtöbb konfigurációban megtalálható a TPM-chippel megtámogatott ujjlenyomat-azonosító, valamint a WLAN- és a Bluetooth modulok mellett az UMTS-modem. A távmenedzsment funkciót kiteljesítõ Active Management Technology azonban még opciós lehetõségként sem része a rendszernek. A különbözõ funkciókat konfiguráló szoftverek néhány alapvetõ beállítási lehetõségre hagyatkoznak pusztán, és többnyire nem egységes felületrõl kínálják ezek elérését.
+
+Csak tenderen lehet sikeres
+
+A géppel szerzett tapasztalatok alapján sajnos azt kell mondjuk, hogy a Fujitsu Siemens legújabb üzleti noteszgépénél szinte csak jobb alternatívák léteznek a piacon. A gyártó szándéka egy igazán mobilis, könnyû, hosszú akkumulátoros üzemidõvel mûködõ notebook megalkotására alapvetõen dicséretes, a tervezés és kivitelezés azonban csapnivaló, ráadásul mindezt tetézi a gép irreális, 591 ezer forintos ajánlott bruttó végfelhasználói ára (Core 2 Duo SU9400-as processzorral, 2 gigabájt memóriával, 160 gigabájtos merevlemezzel, UMTS, Bluetooth és WLAN-modullal, TPM chippel és ujjlenyomat-azonosítóval valamint Windows Vista Business operációs rendszerrel). 
+
+
+
+Ennyi pénzért  csaknem az  összes konkurens jobb alternatívát ajánl az üzleti felhasználóknak: van akinél ebbe a keretbe az SSD is belefér (például Dell Latitude E4200, Lenovo ThinkPad X301), vagy minimális kompromisszum (optikai meghajtó hiánya) mellett lényegesen olcsóbb, ugyanakkor idõtállóbbnak tûnõ megoldással kecsegtet (Lenovo X200 sorozat). 
+
+A Fujitsu Siemens LifeBook P8020 meggyõzõdésünk szerint egyedül annak a cégnek vagy szervezetnek lehet választás, amelyik foggal-körömmel ragaszkodik a márkához. Nem lennénk meglepve, ha kizárólag azok a vállalatok, állami szervek vásárolnának a gépbõl, akiknek hosszú ideje a német-japán gyártó szállítja az informatikai infrastruktúrát, illetve akik a Fujtisu Siemens-t elõnyben részesítõ (köz)beszerzési tendert írtak ki. Aligha lesz belõle bolti slágertermék.

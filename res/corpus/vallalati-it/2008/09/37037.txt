@@ -1,0 +1,14 @@
+Egy héten belül kétszer is frissülhet a Firefox
+
+A Mozilla alig pár napja frissítette az összes platformon népszerû webböngészõjét, a Firefixot, amihez napokon belül újabb javítás várható, mely egy, az új verzióban a megjelenést követõ pár napban felfedezett hibát javít.
+
+
+
+Alig néhány nappal a Firefox 3.0.2-es verziójának megjelenését követõen újabb frissítés jelenhet meg a Mozilla népszerû többplatformos webböngészõjéhez -- derül ki a Firefox Projekt vezetõjének, Mike Beltznernek a beszámolójából. A pár nappal ezelõtt megjelent, összesen 11 sérülékenységet javító 3.0.2-es változatnak felhasználói beszámolók szerint gondja akad néhány jelszó elmentésével, vagy a már mentett jelszavak használatával -- erre a problémára jelent majd gyógyírt a 3.0.3-as kiadás, melynek megjelenése a jövõ héten várható.
+
+"Nincs szó adatvesztésrõl, a jelszavak megmaradnak, csak nem érhetõk el" -- igyekezett megnyugtatni minden Firefox-felhasználót Beltzner, hozzátéve, hogy a jelszavakat tároló kód hibája nem érint minden felhasználót -- elsõsorban azok panaszkodtak a hibára, akik különleges karaktereket (például ékezetes betûket) is tartalmazó oldalakat látogatnak. A projektvezetõ ígérete szerint a csütörtökön felfedezett hibára amilyen gyorsan csak lehet, elkészül a javítás -- a Firefox 3.0.3-as verziója így akár napokon belül megjelenhet. A javítás csak ezt az egy problémát orvosolja majd.
+
+
+A Mozilla Firefox 3.0.2-es verziója kedd óta tölthetõ le önálló csomagként vagy a böngészõ frissítõszolgáltatásán keresztül. Az új verzióban összesen 11 hibát vagy sérülékenységet javítottak ki a fejlesztõk, ezek közül 6 kapott kritikus besorolást. Így a legújabb kiadásban befoltozták azt a biztonsági rést, amelyen keresztül rosszindulatú támadók a felhasználó tudta nélkül, fals linkeken keresztül juttathatnak el a számítógépre kártékony kódokat, és kiküszöbölték azt a memóriakezelési hibát is, mellyel adott kódot futtatva lefagyasztható az alkalmazás.
+
+A Firefox nyáron megjelent 3-as fõverziójához érkezõ harmadik javítás várhatóan már a jövõ héten megjelenik, az Ubuntu-felhasználók azonban már most is letölthetik az új kódot. Bár a hét elején a 2-es verzióhoz is érkezett tapasz, a Mozilla ezúttal is nyomatékosan kéri a felhasználókat, hogy saját érdekükben frissítsék böngészõjüket a legújabb, 3-as verzióra. A régebbi Firefoxot használók decembertõl egy nyomós indokot is kapnak a frissítésre: ebben a hónapban megszûnik a 2-es változat támogatása a Mozillánál.

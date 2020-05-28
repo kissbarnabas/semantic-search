@@ -1,0 +1,12 @@
+Kétszeresére hízott a GTS-Datanet budaörsi szerverterme
+
+Több mint 200 négyzetméterrel bõvítette budaörsi szervertermét a GTS-Datanet, ezzel megduplázta a dataHome Szerverközpont kapacitását. A 400 millió forintos beruházással kialakított új létesítmény 1000 szerver  kiszolgálására alkalmas. 
+
+
+
+A dataHome Szerverközpont 2003 óta kínál szerverhoszting- és kolokációs szolgáltatásokat 80 és 100 négyzetméteres budapesti és budaörsi szervertermeiben. A cég által hosztolt szerverek száma 2007 végére elérte az ezret, de a budaörsi szerverterem bõvítésével az elhelyezett kiszolgálók száma rövid idõn belül kétszeresére nõhet. Szathmári Géza, a GTS-Datanet ügyvezetõ igazgatója elmondta, a kereslet növekedésétõl függõen a dataHome szerverközpont a jövõben akár több száz négyzetméterrel is tovább bõvíthetõ.
+
+A budaörsi létesítményben az egyszerû, polcos gépek és a redundáns, nagy teljesítményû, rack szekrénybe szerelhetõ szerverek egyaránt elhelyezhetõk. A létesítmény extrém tömegû eszközöket is képes befogadni: a gépterem terhelhetõsége négyzetméterenként 3000 kg. A szerverek biztonságát állandó, 24 órás operátori felügyelet, naplózott elektronikus beléptetõ rendszer, zárt láncú kamerarendszer, extrém teljesítményû, többszörösen redundáns klímaberendezés, valamint környezetbarát, az emberi életre és a védendõ berendezésekre veszélytelen tûzvédelmi rendszer biztosítja. 
+
+
+ A dataHome kibõvített budaörsi központja 2x10 Gbps belföldi sávszélességet kínál, a nemzetközi sávszélesség pedig eléri a 2x5 Gbps-ot. A szerverközpont folyamatos áramellátásáról a városi hálózat mellett szükség esetén N+1 konfigurációjú redundáns dízelgenerátorok és nagy teljesítményû, online üzemû UPS rendszerek gondoskodnak. 

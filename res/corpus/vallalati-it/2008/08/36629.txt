@@ -1,0 +1,17 @@
+Új nyomtató a Citizentõl kifejezetten vonalkód és DataBar kód nyomtatására
+
+Egyaránt képes a hagyományos, ma már minden megtalálható vonalkód és a fejlettebb és mind elterjedtebb bárkód nyomtatására az új Citizen CL-S703.
+
+
+
+Ma már minden terméken kötelezõ az UAN/UPC vonalkód, melyet lassan felvált a DataBar jelzés, amelynek nem csak egy vonalsort, hanem a területen eloszló jelmintát alkalmaz, ezért jóval több információ tárolására képes. Nem csak cikkszámok, sorszámok tárolására alkalmas, tartalmazhatja például a romlandó árucikkek lejárati idejét és egyéb információkat, megkönnyítve a leolvasón alapuló automatikus termékszelektálást. Könnyebben sérül viszont, mint a vonalkód, ezért kiemelten fontos, hogy ellenálló, minõségi nyomatokon kapjon helyet. 
+
+
+
+
+Új CL-S703 célmodelljét mindkét kód nyomtatására ajánlja a Citizen. A monokróm hõnyomtatómûre épülõ rendszer 300 dpi felbontással állítja elõ a vonalkódokat, míg a DataBar kódminták 200 dpi felbontással kerülnek a papírra. A készülék legfõbb elõnyeként ezt a kétlakiságot jelöli meg a közlemény, egy költséghatékony megoldásként a következõ években történõ vonalkód-bárkód átállás menedzselésére. Az átállásra nem törvény, csupán praktikus szempontok késztethetik a kereskedõket, nagykereskedõket, hiszen a DataBar segítségével könnyebben megvalósítható a termékek, csomagok, szállítmányok automatikus kezelése, átirányítása.
+
+
+ Néhány egyéb elõnyt is megjelöl a gyártó, úgy mint a más modelljeiben is alkalmazott Hi-Open designt, azaz a gyors kellékanyag feltöltést lehetõvé tévõ kialakítást és az ARCP technológiát, mely a szalag gyûrõdését küszöböli ki. A Citizen kiemeli a minõséggel kapcsolatban, hogy a szokásos két pont helyett a 300 dpi-s Citizen DataBar nyomtatók három elemi pontból állítják össze a bárkód elemeit a korrektebb méret és formátum érdekében.
+
+A CL-S703 hazai forgalmazója az ALT CASH Kft, ára 259 900 forint, ÁFA nélkül. 

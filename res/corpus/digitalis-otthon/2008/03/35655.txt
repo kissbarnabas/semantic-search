@@ -1,0 +1,16 @@
+Megérkezett az ingyenes OpenOffice irodai programcsomag 2.4-es változata
+
+Megérkezett és letölthetõ az OpenOffice ingyenes irodai programcsomag legújabb, 2.4-es változata. Az új verzióban hibajavítások mellett néhány új képesség is helyet kapott. A fejlesztõk szinte minden modulon módosítottak, okosítottak.
+
+
+
+Az OpenOffice 2.4-ben komoly változásokon esett át a nyomtatókezelés  és a PDF-állományok kezelése. Az alapértelmezett PDF betûtípus mostantól a DejaVu lett, mely több nyelvet, lokalizációt támogat, mint a korábban használt BitStream Vera. A Mac OS X felhasználók a natív QuickTime és helyesírásellenõrzõ-támogatásnak örülhetnek. Utóbbit a Writer használói számára is könnyebben elérhetõvé tették, könnyebb kiválasztani az ellenõrzés nyelvét.
+
+A szövegszerkesztõben ezentúl ki lehet zárni a nyomtatásból a rejtett és helytartó szövegeket, továbbfejlesztették a szövegek kijelölését és a "keres és cserél" funkciót. A paragrafusok stílusait ezentúl extra gyorsgombokkal is elõhívhatjuk. A táblázatkezelõ Calc "okos" cellablokkokat másoló és mozgató rutinnal, átdolgozott formulakezeléssel bõvült, de javítottak a nyomtatókezelésen, az adatszûrésen és a Data Pilot funkción is.
+
+
+A diagrammok varázslója, a Draw, és a prezentációkezelõ Impress is használatot könnyítõ módosításokon esett át. Mindkét alkalmazás PDF-exportáló modulját továbbfejlesztették, az Impress pedig egy sor háromdimenziós effekttel képes egyik diánkról a másikra váltani.
+
+OpenOffice 3.0 alfa
+
+Az OpenOffice 2.4 adatbáziskezelõje, a Base már támogatja az MS-Access 2007 állományformátumot és javítottak a MySQL, Oracle/jdbc, és natív HSQL adatbázisok kezelésén is. A Query Designert is felújították. Az OpenOffice irodai programcsomag következõ mérföldköve, a 3.0-ás változat az õszi-téli hónapokban jelenik majd meg. A fejlesztõk nem csak azt ígérik, hogy az OOo 3 gyorsabb és robosztusabb lesz a korábbi változatoknál, hanem azt is, hogy a szoftver végre úgy fut majd a Mac OS X operációs rendszeren, hogy teljesen támogatni fogja az Aqua interfészt, vagyis tökéletesen illeszkedik a Mac-es alkalmazások képi világába.

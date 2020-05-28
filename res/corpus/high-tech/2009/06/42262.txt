@@ -1,0 +1,8 @@
+Évmilliárdokon át megõrzi tartalmát az új, karbon nanocsõbõl álló memória
+
+A kutatást Alex Zettl, elismert nanotechnológiai szakember irányította. Zettl és csapata egy olyan elektromechanikus eszközt hozott létre, amely egy karbon nanocsõbõl és egy, az emberi hajszálnál 50 ezerszer vékonyabb vaskristály nanorészecskébõl áll. A kristály a csövön belül elektromos áram segítségével mozgatható, pozíciója pedig az eszköz ellenállásának változásából kiolvasható. Zettl szerint annyira pontosan lehet a nanorészecskét pozicionálni, hogy egyetlen csõ akár több száz állapotot is felvehet, így több száz bitnyi információt tárolhat, tartalmát pedig kikapcsolás után sem felejti el.
+
+
+
+A kutatók becslései szerint a technológia segítségével négyzethüvelykenként akár 1 terabites, azaz ezerszer milliárd bites adatsûrûség is elérhetõ -- összehasonlításképp a ma kereskedelemben kapható merevlemezek esetében ez 400 gigabit körül alakul, de a Hitachi szerint 5 év múlva akár 2 terabitnél nagyobb adatsûrûséget is elérhetnek a diszkek. A karbon nanocsõbõl álló megoldás nem csak nagy adatsûrûséget tesz azonban lehetõvé, hanem a technológiából adódóan tartalmát akár évmilliókon át is megõrizheti, így kiválóan alkalmas adatok hosszú távú megõrzésére, archiválására.
+Laboratóriumi tesztek során az eszköz a digitális memóriákkal szemben támasztott összes követleménynek megfelelt, adatokat lehetett rá írni, azokat ki lehetett olvasni, illetve a korábban tárolt információt felül lehetett írni. A Berkeley Labs és a Kaliforniai Egyetem közös kutatócsoportjánál vélik, mivel az általuk kifejlesztett eszköz írásához és olvasásához alacsony feszültség szükséges, ezért gond nélkül integrálható a ma elterjedt szilícium-alapú chipekkel és akár két éven belül piacra vihetõ.

@@ -1,0 +1,21 @@
+Számít, sõt épít a Sun hardverrészlegére az Oracle
+
+Amikor az Oracle és a Sun összeolvadásának híre ment, a kommunikáció középpontjában a szoftverek álltak, elsõsorban a Javáról és a Solarisról beszélt az Oracle vezetése. Emiatt rögtön megindultak a találgatások az iparban arról, vajon az akvizíció után az Oracle meg kívánja-e tartani a Sun viszonylag kis nyereséget termelõ hardvergyártó részlegét. A Reutersnek e-mailben adott interjújában Larry Ellison azonban leszögezte, az Oracle nem csak egyszerûen számít a Sun hardvergyártási tevékenységére, hanem a jövõjét is erre alapozza.
+
+Az Oracle elnök-vezérigazgatója szerint a hardvergyártásnak nem feltétlen kell alacsony nyereségtartalommal bírnia, jó ellenpélda erre az Apple vagy a Cisco, amelyek tisztességes profitot érnek el a hardvereken is azáltal, hogy jól összehangolják azokat a szoftverekkel. "Ha egy cég maga tervezi a hardvert és a szoftvert is, sokkal jobb rendszereket építhet mintha csak szoftvert tervezne. Ezért sokkal jobb az Apple iPhone a Microsoft telefonoknál" -- mondta a vezetõ.
+
+Saját szerver saját processzorral
+
+A szoftvervállalat ennek jegyében tavaly õsszel, az Exadatával lépett be a hardverpiacra. A HP-vel közösen fejlesztett Exadata egy adattárházakhoz fejlesztett integrált megoldás, amely HP hardveren és Oracle szoftvereken alapul. A vállalat azt állítja, a diszkek és az adatbányászati intelligencia egymás mellé költöztetése a versenytárs megoldásokhoz képest akár tízszeres teljesítményt is jelenthet adatbányászati alkalmazások esetén anélkül, hogy a kódot módosítani kellene, vagy a lekérdezéseket át kellene írni. A Sun felvásárlása révén az Oracle a jövõben további, hasonló elgondolás mentén felépülõ integrált rendszer kínálhat.
+
+
+ A Sun zászlóshajójának számító SPARC-alapú szerverek forgalma folyamatosan csökken, ahogy a piacon teret nyernek az Intel processzoros megoldások -- az Exadata is Intel chipekre épül. Az akvizíció bejelentésekor sokan számítottak arra, hogy az Oracle le fogja állítani a SPARC fejlesztéseket, amelyek becslések szerint évi 300-500 millió dollárt emésztenek fel és az elmúlt évtizedben a Niagara-családon kívül lényegében csak törölt vagy éveket csúszó projekteket eredményeztek.
+
+Az Oracle azonban nem csak a Sun szerverek, hanem a SPARC processzorok mellett is kitart -- szögezte le Ellison. "A saját chiptervezés elsõdleges hajtóereje hogy a lehetõ legnagyobb teljesítményû, megbízhatóságú és biztonságú számítógépeket építhessük. Vannak képességek, amelyek sokkal jobban mûködnek szilíciumból mint szoftverbõl" -- mondta az Oracle vezére, hozzátéve, hogy a cég továbbra is együtt kíván mûködni a Fujitsuval a processzortervezés területén. Az Oracle célja, hogy a SPARC chipekbe olyan képességek kerüljenek, amelyek segítségével például felgyorsítható az Oracle adatbázisok futtatása -- a cél az IBM dominanciájának megtörése az adatközpontokban.
+ 
+
+Maradnak a kínálatban a tárolók is
+
+Ellison határozottan állította, az Oracle nem csak a Sun szervergyártó tevékenységére számít, hanem a tárolási rendszerekre is, beleértve mind a lemezes, mind a szalagos megoldásokat. "A lemezes tárolók és a szalagos mentés kritikus komponensei egy nagy teljesítményû, nagy megbízhatóságú, nagy biztonságú adatközpontnak, úgyhogy továbbra is tervezünk és szállítjuk majd ezeket is." Az Oracle vezére is elismerte, számos Sun-ügyfél mástól vásárol lemezes és szalagos tárolókat, ettõl függetlenül az Oracle égisze alatt a Sun továbbra is versenyezni fog ezeket a piacokon.
+
+Arra a kérdésre, hogy az Oracle saját hardvertervezési kompetencia nélkül hogy képzeli a jövõt, Ellison azt válaszolta, a cégének egyik erõssége hogy meg tudja tartani a felvásárolt vállalatokban felhalmozódott mérnöki tudást. Másfelõl -- magyarázta Ellison -- az Exadata fejlesztésekor maga az Oracle is gazdagodott hardverfejlesztési tapasztalatokkal, harmadrészt az Oracle-nél jelenleg is több száz olyan mérnök dolgozik, akik hardverfejlesztõi háttérrel érkeztek a céghez. "Én is egy hardvercégnél kezdtem a pályafutásomat a Szilícium-völgyben egy olyan vállalatnál, amely a Fujitsuval együttmûködve az elsõ IBM-kompatibilis mainframe-et tervezte és gyártotta."

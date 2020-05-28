@@ -1,0 +1,12 @@
+Villámgyors SSD-ket dobott piacra az Intel
+
+Új SSD-ket jelentett be az Intel hordozható és asztali számítógépek számára. A meghajtók az MLC, vagyis multi-level cell architektúrájú NAND flash-chipeknek köszönhetõen nemcsak lényegesen jobb ár-kapacitás mutatóval rendelkeznek, de szemben néhány korábbi változat gyatra teljesítményével, villámgyorsnak ígérkeznek. A mainstream SSD-k mellé hamarosan érkeznek a csúcsteljesítményû szerverváltozatok is.
+
+
+
+Az Intel 1,8 és 2,5 hüvelykes formátumban dobta piacra SSD-it a notebookokba és asztali gépekbe, egyelõre 80 gigabájtos, majd a negyedik negyedévtõl 160 gigabájtos kapacitással. Elõnyeit a merevlemezekkel szemben, mint a sokkal jobb mechanikai tûrés és magasabb megbízhatóság, alacsonyabb fogyasztás mellett magasabb teljesítmény, leginkább a mobil felhasználásban képes megmutatni, semmint a nagyteljesítményû asztali HDD-kkel szemben, ahol a fogyasztás is fizikai behatás kevéssé releváns szempontok.
+
+
+Az X18-M és X25-M az Intel saját tervezésû SATA-meghajtói, és a vállalat állítása szerint számos egyedi fejlesztéssel bírnak nem csak a flash chipek, de a vezérlés szintjén is, melyek lehetõvé teszik a nagy teljesítményt és megbízható mûködést. A 80 gigabájtos változatok 250 megabájtos másodpercenkénti olvasási, 70 megabájtos írási csúcssebességre képesek, és hozzáférési idejük 85 mikroszekundum. Ezer darabos megrendelésig a nettó listaára 595 dollár, vagyis 100 ezer forint.
+
+Az M, vagyis Mainstream SATA SSD-k mellé három hónapon belül, vagyis még idén érkeznek az E jelölésû, azaz Extreme modellek, melyek a teljesítmény fokozása érdekében SLC felépítéssel bírnak, vagyis cellánként 1 bitet tárolnak. Ezeknél az Intel a másodpercenkénti I/O mûveletek maximalizálására összpontosított, hogy a szerverekre jellemzõ magas mûveleti párhuzamosságot a lehetõ legkevesebb meghajtója legyen képes kiszolgálni, ezzel csökkentve a lekérések közvetlen fogadó Tier 0 tárak beszerzési és üzemeltetési költségeit. Az Intel szerint SSD-kkel az adott területre esõ teljesítménysûrûség a merevlemezek ötvenszeresét is el lehet érni.

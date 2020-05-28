@@ -1,0 +1,12 @@
+Megjelent az NVIDIA új csúcskategóriás grafikus chipje, a GeForce GTX 280
+
+Az NVIDIA bejelentette új csúcskategóriás grafikus chipjeit, amelyek végül a GeForce GTX 200 sorozat tagjaiként kerülnek a boltokba. A mai napon a GeForce GTX 280 és 260 változatok rajtoltak el, a rájuk épülõ kártyák 650 és 400 dolláros ajánlott áron kerülnek a boltokba.
+
+
+
+Az új GeForce-ok alapja egy 1,4 milliárd tranzisztorból álló hatalmas chip, amelynek fejlesztési kódneve GT200. A lapka lényegében a G80-nal és G92-vel megkezdett fejlesztési útirányt követi, de az elõdöknél mindenbõl jóval többet integráltak rá az NVIDIA mérnökei -- kétszer annyi tranzisztorból áll mint a G92. A GTX 280 esetében 128 helyett már 240 stream processzorról beszélünk, amelyek már képesek kétszeres precizitású mûveletek elvégzésére is, valamint egy utasítással végrehajtani egy szorzatösszeg (MUL, MAD) mûveletet. A GTX 260 változatban 192 stream processzor található, ami még mindig jóval több, mint amennyit elõzõ GeForce-generáció bármelyik egychipes megoldása felvonultatott. Az architektúra finomságai iránt érdeklõdõk a Prohardver cikkében találnak bõvebb információkat.
+
+A TSMC 65 nanométeres technológiájával gyártott GT200 chip fogyasztása a méretéhez méltóan gigantikus, az NVIDIA adatai szerint a GTX 280-as kártyák 236 wattot, a GTX 260-asok pedig 183 wattot vesznek fel, ezért elengedhetetlen a külsõ tápcsatlakozó (a GTX 280 esetében a hat- és nyolcpólusúra egyaránt szükség van). A GTX 280 verzió 602 MHz-en mûködik, a shaderek eközben 1296 MHz-en futnak, az 512 bites nyolccsatornás interfészen csatlakozó 1 gigabájt memória effektív órajele 2,2 GHz. A GTX 260 esetében 576 MHz a magórajel, a shaderek 1242 MHz-en száguldanak, a 448 bites hatcsatornás interfészen illeszkedõ 896 megabájt memória pedig 2 GHz-en hasít.
+
+
+ Az elsõ tesztek szerint az új generációs GeForce-ok az elõdöknél legalább 50 százalékkal gyorsabbak, de egyes esetekben még az SLI- és GX2-konfigurációkat is maguk mögé utasítják -- a leggyorsabb Radeonokról nem is beszélve. Az NVIDIA ígérete szerint a legnagyobb videokártya-gyártók mindegyike forgalmazni fogja a GTX 200-as generációra épülõ termékeket, és a szerencsésebb országokban már holnap a boltok polcain lesznek az elsõ példányok.

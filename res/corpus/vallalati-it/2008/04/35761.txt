@@ -1,0 +1,28 @@
+Új csúcskategóriás Power-rendszerek az IBM-tõl, gyorsabb Power6 processzorokkal
+
+Piacra dobta új csúcskategóriás Power-rendszerét az IBM, mely természetesen már Power6 chipekre alapoz. A Power 595 már az IBM Sytem p és System i rendszereket egyesítõ termékvonal része, és a Power5-alapú p5 595 utódjának tekinthetõ, melynél akár másfélszer nagyobb teljesítményt képes nyújtani azonos magszám mellett. Emellett az IBM bemutatta vízhûtéses Power 575 rendszerét is, melyet kifejezetten szuperszámítógépes területre szán.
+
+
+
+Power 595
+
+A Power 595 továbbra is 4-tõl 32 foglalatig skálázható (4 foglalat rendszerlaponként, az IBM terminológiájában processor book), vagyis akár 64 darab processzormagot, és 128 utasításszálat képes futtatni párhuzamosan, memóriakapacitása ugyanakkor már 4096 gigabájtig bõvíthetõ, ami kétszerese elõdjének, külsõ kabinetekben tárolókapacitása pedig elméletileg akár a 144 terabájtot is elérheti. Az IBM a modellel a legnagyobb tranzakcionális és adatbázis-alapú alkalmazásokat célozza meg, valamint a nagyvállalatok átfogó szerverkonszolidációs projektjeit, melyek egyaránt megkövetelik a legmagasabb szintû megbízhatóságot, rendelkezésre állást és szervizelhetõséget (RAS).
+
+
+A Power 595 nemcsak kiegészíti a Power6-termékpalettát, hanem egy magasabb órajelû, 5 gigahertzes Power6 chipet is magával hoz, ami egyelõre kizárólag ebben a szerverben hozzáférhetõ. Az 5 gigahertzes Power6 chipekkel egy 32 utas (64 mag, 128 szál) 595 az IBM saját irányadó rPerf teljesítménymetrikája alapján átlagosan 40 százalékkal nyújt nagyobb teljesítményt (553 pont) a 2,3 gigahertzes Power5+ processzorokkal szerelt p5 595-nél. 
+
+A különbség természetesen a futtatott alkalmazással változik, az SAP Sales and Distribution (S/D) tesztjében például 50 százalékkal nagyobb teljesítményt mért az IBM (több mint 35 ezer egyidejû felhasználó), igaz, ebben minden bizonnyal szerepet játszott az új AIX 6.1 operációs rendszer és a DB2 9.5 adatbázis is -- mindazonáltal az IBM szerint a Power 595 a legerõteljesebb UNIX-szerver a világon. Az AIX V5.3 vagy azt követõ verziójú operációs rendszereken túl az IBM hivatalosan az i5/OS, új nevén az IBM i-t is támogatja V5.4 vagy felette, továbbá a SUSE Linux Enterprise Servert a 10 SP2-tõl, valamint a Red Hat Enterprise Linuxot a 4.7 és 5.2 verzióktól követõen. 
+
+A PowerVM hypervisorral az IBM-nél megszokott LPAR-okon túl akár 10 mikropartíciót (virtuális gépeket) is létrehozhatunk processzoronként, legfeljebb 254-et egy rendszeren, a PowerVM Lx86 megoldásával pedig akár x86/Linux szerverfeladatokat is konszolidálhatunk Power-rendszerekre -- az interpretációt a Transitive technológiája végzi futásidõben, kevéssé teljesítménykritikus alkalmazások esetében elfogadható teljesítményveszteség árán. A Power6 és Power 595 az üzletileg kritikus folyamatok védelme érdekében a csúcskategóriás rendszereknél megszokott RAS-képességeket vonultat fel, mint például dinamikus processzor allokáció, redundáns szervizprocesszor, rendszerórajel, hûtés és tápellátás, vagy a processzor, adatbuszok és memória bithibáinak felismerése és hardveres meghibásodások tûrése.
+
+Power 575
+
+A Power 595-höz képest teljesen más területre, szuperszámítógépes felhasználásra szánja vízhûtéses Power 575 gépét az IBM. Az új, nagyságrendekkel hatékonyabb hûtésnek köszönhetõen a vállalat mérnökeinek 224 darab, 4,7 gigahertzes Power6 chipet sikerült belezsúfolniuk egyetlen rackszekrénybe -- 16 processzor van egy 2U magas rackelhetõ bõvítõmodulban. Ezt a hagyományos hûtési eljárásokkal elképzelhetetlen lett volna technikailag és költségoldalról egyaránt -- az adatközpontokban a legnagyobb költségtételt messze az energia képezi, aminek nagyjából felét a légkondicionálás teszi ki. Az IBM szerint egy teljesen populált Power 575 keret ötször nagyobb teljesítményt ad le, mint egy p5 575 rendszer. 
+
+Power p + Power i = Power Systems
+
+Az 595 és 575 modellekkel immár hatra bõvült a System p és System i rendszereket egyesítõ Power Systems termékcsalád, felsõkategóriás szerverekkel egészítve ki az eddig a belépõ- és középkategóriát lefedõ portfoliót. Az IBM e hónap elején jelentette be a COMMON User Group konferencián, hogy Power Systems márkanév alatt vonja össze a System i (i5/OS) és System p (UNIX) szervereinek termékvonalát. Az új, tavaly bejelentett kétmagos Power6 processzorra épülõ gépek az i5/OS (korábban OS/400, mostantól egyszerûen "i"), valamint az IBM AIX UNIX operációs rendszer futtatására egyaránt képesek, emellett a Linuxot is támogatják -- ezek külön partíciókon akár párhuzamosan is mûködhetnek egy szerveren.
+
+[+] Összevonja System p és System i termékcsaládját az IBM 
+
+A lépéssel az IBM nem csak jelentõs költséget tud megtakarítani, hanem a felhasználók életét is egyszerûbbé teszi, az egyesített Power System termékvonalnak ugyanis egységes az árazása, az alkatrészek ellátása, a gépek upgrade-je. Az árakat a System p vonalhoz igazítják majd, ami azt jelenti, hogy a System i ügyfelek némileg kevesebbet fizetnek a korábbinál a vasakért.

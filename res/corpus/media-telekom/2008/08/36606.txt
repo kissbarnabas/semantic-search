@@ -1,0 +1,36 @@
+Az Egyesült Államokban illegális a Bittorrent korlátozása
+
+[HWSW/NYT] Az amerikai Szövetségi Kommunikációs Bizottság (FCC) pénteki szavazása után bejelentette, hogy továbbra is fenntartja a fájlcserélõket diszkrimináló Comcast internetszolgáltató ellen felhozott vádjait. A döntés értelmében a Comcast gyakorlata, miszerint a népszerû Bittorrent fájlcserélõt használó ügyfelek sávszélességének korlátozzák, illegális.
+
+
+
+Precedensértékû döntés
+
+Az Egyesült Államok legnagyobb kábeles internetszolgáltatóját, a Comcastot ugyan nem sújtotta pénzbüntetéssel az FCC, de kötelezi õket arra, hogy az alkalmazott korlátozást még az idei évben szüntessék meg. Az egyre több szolgáltató által preferált korlátozás lényege, hogy az egyébként nagy sávszélességû internet kapcsolatok esetében a fájlcserélõ alkalmazások által generált adatforgalomhoz alacsony prioritást rendelnek, illetve annak sebességét korlátozzák. A szolgáltatók szerint erre azért van szükség, mert a Bittorrent által használt protokoll képes a teljes rendelkezésre álló sávszélességet elfoglalni, így az egyéb szolgáltatások, mint a böngészés, e-mailezés vagy VoIP telefonálás minõsége veszélybe kerülhet. 
+
+Kevin J. Martin, a bizottság elnöke elmondta, hogy a döntést precedensértékûnek szánták, ami megtiltja az internetszolgáltatók és minden telekommunikációs cég számára, hogy a felhasználóikat visszatartsák attól, hogy a hálózatot szabadon használják, kivéve ha a korlátozásra valóban jó indok van. "Meg kívánjuk õrizni az internet szabad karakterét" -- mondta Martin, majd hozzátette, "A hálózatüzemeltetõk nem akadályozhatják meg az embereket abban, hogy hozzáférjenek bármilyen tartalomhoz és bármilyen alkalmazáshoz." 
+
+ FCC: három igen, kettõ nem a korlátozásra 
+
+A döntés nyomán felvetõdhet az igény egy újabb törvényi szabályozásra, ami rákényszerítené az ISP-ket arra, hogy egyenlõen kezeljék a hálózatára csatlakozó összes felhasználót. A "hálózati semlegesség" elvének is hívott koncepció támogatói a fenti téma mellett arra is ösztönzik a törvényhozókat, hogy építsenek be a szabályozásba olyan biztosítékokat, amik megakadályozzák a nagyobb szolgáltatókat a kisebbekkel szembeni diszkriminációban. 
+
+Jóhiszemû ipari gyakorlat
+
+A Comcast természetesen nem tartja bûnösnek magát, elmondásuk szerint a felhasználóik viszonylag kis része használja a Bittorrent fájlcserélõt, mégis ez a szolgáltatás viszi el a hálózati kapacitások nagy részét. Az adatforgalom korlátozását egy elfogadható vállalati döntésnek tartják, ami konzisztens a többi ipari gyakorlattal. A szolgáltatók szempontjából a fájlcserélés problémája eltér a jogvédõk által hangoztatottaktól, hiszen az ISP számára teljesen lényegtelen, hogy milyen adatok vándorolnak keresztül a hálózatán. Számukra a gondot az okozza, hogy a Bittorrent magas szintû hálózati optimalizáltsága komolyan megterheli az erõforrásokat. 
+
+
+Az elemzõk szerint a szolgáltató bizonyára nem fogadja majd el a döntést, fellebbezni fog, minden jogi eszközt megragad és további halasztást kér majd a korlátozás megszüntetésére. Mivel a fájlcserélõkön át vándorló adatok nagy része illegálisan terjesztett szoftver, film és zene, ezért nem lenne meglepõ, ha a jogvédõkkel összefogva próbálnák bizonyítani az eljárásuk ésszerûségét. 
+
+Jelenleg viszont még a döntés jogossága is megkérdõjelezhetõ, hiszen az öttagú bizottságból csupán a két demokrata és az egyik republikánus képviselõ támogatta, míg a két másik republikánus kétségbe vonta, hogy az FCC-nek van-e egyáltalán joga ilyen döntést hozni. Az amerikai kongresszus ugyanis mindezidáig nem adott egyértelmû jogosultságot az FCC-nek ilyen döntésekhez. A helyzet bonyolultságát mutatja, hogy míg az FCC elnöke a Bittorrent korlátozását elfogadhatatlannak tartja, addig a VoIP hívások priorizálását helyesnek gondolja. 
+
+Az ellenkezõ republikánusok egyébként úgy látják, hogy a szolgáltatónak joga van a kapacitásait rendszerezni, s ezzel nem követnek el sem versenyjogi, sem fogyasztóvédelmi vétséget. Példaként merült fel, hogy az amerikaiak havonta 11 milliárd YouTube-videót néznek meg, ami szintén óriási adatforgalmat generál, mégsem korlátozzák annak használatát. Felvetõdik viszont a kérdés, hogy az egyre gyakrabban használt peer-to-peer szolgáltatások közül egyre több legális adatok továbbítását teszi lehetõvé kényelmesen és gyorsan. Így a korlátozás nem feltétlenül csak az illegális letöltõk életét keseríti meg, hanem éppenséggel az internet fejlõdését is komolyan visszavetheti.
+
+Magyarországon is szûrnek
+
+Hazánkban sem ismeretlen az adatforgalom korlátozása és szûrése. A mobilinternet-elérések esetén a Vodafone a korlátlan letöltési mennyiséget kínáló csomagját kínálja azzal a kompromisszummal, hogy a felhasználó nem vehet igénybe semmilyen peer-to-peer alkalmazást, illetve a vezetékes piacon a UPC döntött úgy, hogy priorizálja az adatforgalmat, így lassítva a torrentezést. 
+
+Szûcs László, a UPC kommunikációs igazgatója kérdésünkre elmondta, hogy "tekintettel arra, hogy számunkra nem ismert a Comcast eljárása, ezért nem tudjuk megmondani, hogy ahhoz hasonló hálózatmenedzsmentrõl van-e szó, mint amit a UPC alkalmaz. A ügy megítélésének szempontjából viszont nem mindegy, hogy az alkalmazott eljárás pontosan milyen mértékben befolyásolja a felhasználók internet-kapcsolatát." Európában illetve Magyarországon ehhez hasonló vizsgálatok a UPC tudomása szerint nem folynak, illetve nem tudnak arról, hogy bármilyen szándék felmerült volna ennek szabályozására.
+
+Az amerikai közvéleménnyel szemben Szûcs szerint itthon csak nagyon elenyészõ számban találkoznak panasszal a priorizálással kapcsolatban, hiszen azok a felhasználók, akiket egyáltalán érint, pontosan tudják, hogy mirõl van szó. A felhasználói fórumok tanúsága szerint pedig az UPC által alkalmazott szûrést ráadásul az adatcsomagok és a fejlécek titkosításával könnyedén ki lehet kerülni, amire az újabb verziójú torrentkliensek többsége képes is.
+
+Ugyan az adatforgalom mesterséges alakítgatása a felhasználók szemében visszatetszést kelthet, de a kapacitás és adatforgalom menedzselése mégis az ügyfelek számára fontos. A csúcsidõszaki torlódások és a mindenkit érintõ lassulások elkerülésének érdekében a szolgáltatónak a rendelkezésre álló összkapacitással valahogyan gazdálkodnia kell. Ennek egyik legegyszerûbb módja a valós idejû alkalmazások priorizálása, ami nem feltétlenül csak a p2p letöltések lassítását jelenti, hanem a szakadozásra érzékenyebb VoIP hang- és videóhívások, online játékok elõnyösebb helyzetû kezelését is.

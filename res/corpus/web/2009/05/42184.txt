@@ -1,0 +1,33 @@
+Virtuális magánhálózaton bújhatnak el a fájlcserélõk
+
+IP oltalom
+Teljes névtelenséget és biztonságot ígér az IPoltalom nevû VPN-szolgáltatás a felhasználóknak havi néhány ezer forintos díjért. A VPN, azaz virtuális magánhálózat lényege, hogy a szervertõl távol lévõ felhasználóknak biztonságos csatornát nyit az internetes kommunikációhoz, s a külvilág felé nem saját IP-címével, hanem a VPN szolgáltatóéval látszik majd. Ezáltal elméletileg lehetetlen lenyomozni, hogy a felhasználó honnan lépett be a hálózatba, hol van éppen, melyik internetszolgáltatóhoz tartozik.
+VPN-t legtöbb esetben vállalatok használnak arra a célra, hogy az
+irodán kívül tartózkodó dolgozók notebookkal biztonságosan
+csatlakozhassanak a hálózatra akkor is, ha nem a vállalati hálózatról
+jelentkeznek be. Lehet repülõtéri hot-spot vagy a szomszéd Wi-Fi-je, a
+titkosított alagúton átmenõ adatokba gyakorlatilag nem lehet
+betekinteni. Ugyanez a védettség jár az IPoltalom elõfizetõinek is.
+Viszont feltételezhetõen az otthoni elõfizetõk számára nem a levelezés
+vagy az egyéb adatforgalom biztosítása a cél, hanem az
+internetszolgáltatók által szûrt vagy éppen megtûrt fájlcserélõ
+alkalmazások által bonyolított adatforgalom elrejtése.
+
+
+Az IPoltalom leírása szerint nem készül semmilyen napló vagy nyilvántartás a felhasználók aktivitásáról, nem rögzítik az adataikat, így a szolgáltató még akkor sem tudja kiadni azokat a hatóságok részére, ha esetleg kérnék õket. A szerver kizárólag a felhasználónevet ellenõrzi, annak érdekében, hogy kiderüljön, aktív-e az elõfizetés. 
+Egyszerû
+
+
+Az IP oltalom használatához&nbsp; legtöbb operációs rendszeren külön programra sincs szükség, egyszerûen a VPN-szerver adatait kell beállítani, ezután minden a szerver és a felhasználó közti adatforgalom egy titkosított csatornán keresztül folyik majd. Az iPon kínálatában jelenleg 5, 10, 20 és 30 megabites sávszélességet kínáló csomagok vannak, havi 990 és 4790 forint közötti áron. A szolgáltató külön felhívja a figyelmet arra, hogy ezek a sebességek csak akkor érhetõek el, ha maga az elõfizetés is tud legalább ennyit.
+Az iPon Computer munkatársa a HWSW kérdésére elmondta, hogy a szolgáltatás éles indulása elõtt 100 felhasználóval végeztek szimultán teszteket, s nem tapasztaltak lassulást, illetve a rendszer úgy lett megtervezve, hogy akár percek alatt tovább bõvíthetõ a kapacitás. A kínált sávszélességek full-duplex értendõek, tehát akár le-, akár feltöltésben is elérhetõek ezek az értékek. Az iPon egy teljes IP-tartománnyal rendelkezik ehhez a szolgáltatáshoz, ezért az sem okoz problémát, ha valamely IP-címet egy felhasználó miatt tiltólistára teszik, azonnal tudják cserélni egy másikra.
+
+
+
+Hogyan lehet kijátszani a "torrent-lassítást"?
+
+
+A UPC esetében priorizálva van a forgalom, így például a Bittorrent adatforgalom jelentõsen lassabb a legtöbb esetben, mint az aktuálisan elérhetõ sávszélesség azt indokolná. Egy VPN közbeiktatásával ez a probléma véglegesen kiszûrhetõ, hiszen a UPC hálózati eszközein nem sok szerteágazó kapcsolatként, webes, ftp- vagy p2p-forgalomként mennek keresztül az adatok, hanem egy titkosított kötegként, amit a szolgáltató nem lesz képes szûrni.
+
+
+A felhasználók elsõ reakciója a szolgáltatással kapcsolatban a bizalmatlanság volt, hiszen egy számukra idegen harmadik személyre bízzák átmenõ forgalmukat, illetve sokan sérelmezték azt is, hogy a nagyobb sávszélességû csomagok ára sok esetben megközelíti vagy meghaladja a hasonló sávszélességû internetcsomagok elõfizetési díját. 
+A HWSW az iPontól megtudta, a cég valóban nem tárol adatokat, így egyelõre nem kell foglalkoznia az adatkezelési szabályokkal sem. Nem minõsül internetszolgáltatónak sem, hisz ez csupán "egy saját fejlesztésû, interneten mûködõ szolgáltatás", de ha felszólítja õket valamely hatóság ennek felülvizsgálatára, akkor eleget tesznek a kéréseknek. Mivel adatokat nem rögzítenek, ezért akkor sem tudnák kiadni a felhasználók adatait, ha valamilyen ügy kapcsán erre szükség lenne. 

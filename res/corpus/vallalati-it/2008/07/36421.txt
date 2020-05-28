@@ -1,0 +1,18 @@
+Finomhangolta terabájtos merevlemezét a Hitachi
+
+Újabb 3,5 hüvelykes merevlemezszériával jelentkezik a japán Hitachi, a cég asztali számítógépekhez fejlesztett Deskstar 7K1000.B termékcsaládjába tartozó csúcsmodell azonban ezúttal nem állít be kapacitásrekordot. A Deskstar 7K1000.B sorozat ellenben szinte minden tekintetben túlteljesíti közvetlen elõdjét, a mindössze két tagból álló 7K1000 modellcsaládot.
+
+
+
+A vállalat tavaly januárban mutatta be a Consumer Electronics Show nagyközönségének az elsõ olyan, asztali számítógépekbe építhetõ merevlemezt, mely a világon elsõként átlépte az 1 terabájtos kapacitásküszöböt. A tavaly debütált, két tagból álló Deskstar 7K1000 termékcsalád lemezenként maximum 200 gigabájtnyi (négyzethüvelykenként 148 gigabit) adatot tárolt, a mérnököknek az új családnál azonban sikerült az adatsûrûséget 270 gigabit/négyzethüvelykre emelni, egy lemezre ezzel már 375 gigabájt adat fér. Az 1 TB kapacitás eléréséhez ezért a korábbi öttel szemben három lemeztányér is elég.
+
+Gyorsabb, halkabb, csendesebb
+
+A Deskstar 7K1000.B család hét tagból áll majd, a HDD-k kapacitása 160 gigabájttól 1 terabájtig terjed. A kizárólag Serial ATA II interfésszel érkezõ újdonságok a megnövekedett adatsûrûség révén gyorsabbak az elõzõ generációs szériánál, a nagyobb kapacitású példányok pedig -- a kevesebb lemeztányérból álló mechanikának köszönhetõen -- halkabbak, kevesebbet fogyasztanak és összességében megbízhatóbbak elõdeiknél.
+
+A gyártó specifikációi szerint az új 1 terabájtos csúcsmodell a csökkentett lemezmennyiség miatt üresjárati állapotban elõdjénél 43 százalékkal kevesebb áramot vesz fel, ezzel együtt 29-rõl 27 decibelre csökkent a merevlemez üzemi zajszintje is. A Deskstar 7K1000.B családnál az elõzõ szériához képest újdonságnak számít a beépített adattitkosító rendszer (Bulk Data Encryption), melyet a noteszgépekbe építhetõ, 2,5 hüvelykes méretkategóriájú merevlemezektõl ültetett át az asztali termékcsaládba a gyártó. Ez a hardverszintû titkosítási algoritmus automatikusan titkosít minden írási folyamatnál, kiolvasáskor pedig -- szintén külön szoftver beavatkozása nélkül -- visszafejti az adatokat, ezzel a szoftveres megoldásoknál gyorsabb és megbízhatóbb titkosítási módszert kínálva.
+
+Csak követõk
+
+
+A Hitachi jóllehet a világon elsõként dobott piacra 1 terabájtos HDD-t, mégsem az elsõ cég, mely három lemeztányér felhasználásával érte el ezt a kapacitást: a Samsung már korábban piacra lépett a hasonló paraméterekkel rendelkezõ Spinpoint F1 típussal. A Deskstar 7K1000.B család tagjai még ebben a hónapban megjelenhetnek a boltokban, illetve a számítógépgyártók választékában. Az 1 TB-s csúcsmodellért cserébe 239 dollárt kérnek majd a tengerentúlon, míg az üzleti szektornak szánt, non-stop üzemre hitelesített E7K1000 széria ezzel egyezõ kapacitású tagja 279 dollárba kerül majd.

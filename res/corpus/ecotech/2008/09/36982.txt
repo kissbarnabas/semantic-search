@@ -1,0 +1,18 @@
+Leépítések az NVIDIA-nál
+
+Dolgozóinak több mint 6 százalékától válik meg az NVIDIA. A grafikus chipjeirõl ismertté vált vállalat igen szûkszavú volt az elbocsátásokkal kapcsolatban, azt sem hozta nyilvánosságra, a leépítések pontosan melyik területeket érintik.
+
+
+
+Változó idõk
+
+Az NVIDIA közleménye szerint október végéig mintegy 360 alkalmazottjától kénytelen megválni "a piaci kilátások változásai" miatt. A leépítéssel és az átszervezésekkel kapcsolatban 7-10 millió dolláros egyszeri költséget könyvel el a cég a jelen negyedévben, azt azonban nem közölte a társaság, hogy a lépéstõl milyen eredményeket, mekkora megtakarítást várnak. Jen-Hsun Huang elnök-vezérigazgató szerint a létszámcsökkentés kényszerû lépés.
+
+
+ A vállalatra mostanában rájár a rúd: júliusban kiderült, hogy egyes mobil lapkák a tokozás hibája miatt a hõstressz miatt felmondhatják a szolgálatot, a kapcsolódó költségek 196 millió dollárba kerültek az NVIDIA-nak, amelyek miatt a második negyedévet 120 milliós veszteséggel zárta -- hat év után elõször mutatott mínuszt a mérleg. Közben a bevételek is 5 százalékkal csökkentek éves szinten, mivel a rivális AMD (ATI) új termékvonala miatt a vállalatnak néhány héttel a megjelenés után meg kellett vágnia vadonatúj GeForce-ainak árát.
+
+Présben
+
+Az egyik oldalon az AMD, a másik oldalon az Intel szorongatja az NVIDIA-t. Ahogy a PC-eladások a notebookok irányába tolódnak el, úgy növekszik a világ legnagyobb chipgyártójának piaci befolyása. A mobil szegmensben az Intel az eladások több mint 57 százalékát tartja kézben, az NVIDIA és az AMD rendre 23,6 százalékos és 17,9 százalékos piaci részesedést szerzett -- áll a Jon Peddie Research második negyedéves jelentésében.
+
+Középtávon az AMD és az Intel azért is fenyegetõ az NVIDIA-ra nézve, mert mindkét cégnél készül már a processzorral integrált grafikus vezérlõ, amelytõl jelentõs áttörést várnak az elemzõk. Az NVIDIA azonban rendelkezik saját x86-os processzorfejlesztéssel, ezért a vállalatnak egyelõre nincs esélye megvetnie a lábát ebben a szegmensben. Korábban felmerült, hogy a cég a tajvani VIA felvásárlásával tenne szert saját x86-os architektúrára, azonban ezek a pletykák -- eddig -- alaptalannak bizonyultak.

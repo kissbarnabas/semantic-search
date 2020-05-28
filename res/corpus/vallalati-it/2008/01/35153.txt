@@ -1,0 +1,24 @@
+Virtualizációban erõsít a Microsoft
+
+Virtualizációban erõsít a Microsoft: a cég felvásárolta az asztali környezetek virtualizációjával foglalkozó Calista Technologies vállalaton, módosított egyes szoftvereinek licencfeltételein, illetve elérhetõvé tett olyan megoldásokat, amelyek virtualizált környezetek kiépítését segítik.
+
+
+
+A cél: egyszerûbb virtualizáció
+
+"Ma még csak nagyon kevés ügyfél aknázhatja ki a virtualizáció elõnyeit" -- mondta a bejelentés kapcsán a Servers and Tools üzletág vezetõje, Bob Muglia. "Becsléseink szerint a cégeknek kevesebb mint 5 százaléka használ virtualizációs technológiákat, mivel még nagyon komplexek és a bevezetésük drága. Úgy hisszük, a Microsoft átfogó megközelítése -- a desktoptól az adatközpontig -- egyedülálló az iparágban azáltal, hogy a hardver, alkalmazás és menedzsment szintjén egyaránt nyújt virtualizációs megoldásokat. A megközelítésünk nem csak a legátfogóbb a piacon, hanem a leggazdaságosabb is."
+
+A Microsoft bejelentette, hogy megvásárolta a magánkézben levõ kaliforniai Calista Technologies vállalatot, amely desktop virtualizációs megoldásokat fejleszt. A Calista Virtual Desktop (CVD) legfontosabb tulajdonsága, hogy szabadalmaztatás alatt álló "virtuális GPU" technológiájával akár intenzív háromdimenziós grafikát vagy multimédiás megjelenítést felvonultató alkalmazások is hatékonyan "közvetíthetõk" anélkül, hogy a hálózati sávélesség-igényük jelentõsen megnõne. Ennek eredményeképp egy szerveren több virtuális desktop futtatható, valamint a desktopok is teljes fényükben pompázhatnak, a felhaználóknak nem kell lemondania a 3D grafikáról vagy a videókról, és mégsem szükséges nagyteljesítményû klienst használniuk.
+
+
+A redmondiak emellett együttmûködési megállapodást kötöttek a Citrixszel desktop virtualizáció terén, amelynek keretében közösen lépnek piacra Windows Server 2008-on, Windows Optimized Desktopon, Citrix XenDesktopon és Presentation Serveren alapuló környezetekkel, amelyeket System Center felügyeleti eszközök egészítenek ki. A két cég emellett együttmûködik azon, hogy virtualizációs termékeik maradéktalanul együttmûködjenek.
+
+Lazított licencfeltételek
+
+Felismerve azt, hogy a virtualizált környezetek terjedésének egyik gátját a licencdíjak és túl szigorú licenckonstrukciók jelenthetik, a Microsoft módosított a Vista licencfeltételein. Otthoni környezetben már a Vista Home Basic és a Home Premium is használható virtuális gépként, vállalati környezetben pedig a Vista Enterprise Centralized Desktop keretében 78 dollár helyett gépenként már évi 23 dollárért elérhetõ a Windows Vista azok számára, akik már rendelkeznek Software Assurance licenccel.
+
+Említésre méltó újdonság még, a Vista Enterprise Centralized Desktop licenc keretén belül akár négy virtuális Vista is futtatható egy kliensen, ráadásul a cégeknek elég annyi Vista licencet venniük, ahány gépen egyszerre futtatni akarják az operációs rendszert, vagyis hiába rendelkezik egy vállalat mondjuk 100 géppel, ha egy adott idõben csak 50-en futtatják, elég 50 licencet venni -- korábban 100 kellett. További változás, hogy a Microsoft már támogatja az Office 2003-at és az Office 2007-et a Microsoft Application Virtualization 4.5 vagy a SoftGrid Application Virtualization 4.2 környezetben is. Ez lehetõvé teszi, hogy akár egy gépen két változatban is fusson az Office azonos idõben, amivel meggyorsítható például az átállás a 2007-es verzióra -- ilyenkor azonban két Office-licenc szükséges.
+
+
+
+A Microsoft emellett bejelentett több ún. Virtualization Solution Acceleratort, amelyek a Windows Server 2008 megjelenésével egyidõben lesznek elérhetõk. Ezek az ingyenesen elérhetõ leírások és eszközök a virtualizációs technológiák bevezetését hivatottak segíteni, beleértve a Windows Server 2008-ban érkezõ Hyper-V hypervisort, a Windows Server 2008 Terminal Servicest, valamint az Application Virtualizationt.

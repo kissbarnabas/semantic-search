@@ -1,0 +1,12 @@
+Kritikus réseket foltoz a Windowsban és az Internet  Explorerben az áprilisi patch kedd
+
+Új hónap, újabb patch kedd: áprilisban öt kritikus és három fontos besorolású biztonsági frissítést tesz közzé a Microsoft, valamint további nyolc nem biztonsági update is érkezik, derül ki az elõzetes értesítésbõl. A foltozások a februári masszív frissítésekhez képest kevesebb szoftvert érintenek, ugyanakkor az összes jelenleg támogatott Windows és az Internet Explorer is frissítésre szorul, valamint többek között néhány Office komponens is.
+
+
+
+Az öt kritikus besorolású frissítés mindegyike távoli kódvégrehajtást tesz lehetõvé a Windows, az Internet Explorer vagy a Microsoft Project valamilyen sebezhetõsége révén. Különösen súlyos rést vagy réseket foltozhat majd a Bulletin 2, mely az összes ma támogatott Windows-verziónál kritikus osztályzatot kapott, kezdve a Windows 2000 SP4-tõl egészen a Windows Server 2008-ig, mely már a Vista SP1-gyel közös kódbázissal dolgozik -- vagyis a Vista SP1 is tartalmazza a rést.
+
+
+A Bulletin 5 az Internet Explorer 5-7-es verzióit frissíti, melyek szintén az összes platformon kritikus sebezhetõséget tartalmaznak, míg a Bulletin 3 a Vistát megelõzõ Windows-verziók mindegyikénél foltoz a VBScript komponensben egy vagy több kritikus besorolású rést. Gyakorlatilag az összes Windowst érinti a további három Windows-frissítéscsomag is, ez alól a Server 2008 kivétel a spoofing támadást kivédõ Bulletin 6 esetében. A Windowson kívül frissítésre szorul a Project és az Office Visio komponense.
+
+A biztonsági frissítéseken kívül, melyek technikai részletei várhatóan magyar idõ szerint kedd éjjel, vagy szerda hajnalban kerülnek fel a Microsoft Security Vulnerability Research & Defense blogjában, a vállalat öt további magas prioritású, nem biztonsági frissítést tesz közzé majd a Windows Update és Windows Server Update rendszereken keresztül, további hármat pedig a Microsoft Update és Microsoft Server Update szolgáltatásokon.  A Microsoft áprilisi elõzetes biztonsági értesítése további részletekkel itt olvasható.

@@ -1,0 +1,47 @@
+Megkezdte az IPv6 bevezetését az Externet
+
+Megkezdte az IPv6 bevezetését az Externet. A szolgáltató e-mailben tudatta ügyfeleivel, hogy augusztus 15-én késõ éjjel maximum egyórás kiesésre számíthatnak IPv6 hálózatfejlesztés miatt. Elsõként a gerincben történik a bevezetés, néhány hónap múlva már az ügyfelek is kaphatnak IPv6-címeket. 
+
+
+
+Az Externet tájékoztatója szerint az ügyfelek "augusztus 15-én, pénteken este 23:50-tõl kezdõdõen maximum 1 órás kiesést" tapasztalhatnak az internet-hozzáférésben és hosting szolgáltatásban a hálózat bõvítése miatt. A  központi router szoftverének upgrade-elésérõl van szó, ami újraindítást igényel, és ez okozza majd a kiesést -- közölte a HWSW megkeresésére Várkonyi Ádám marketing-igazgató.
+
+Ezzel az Externetnél elindul az IPv6 bevezetésének elsõ fázisa, mely az hálózati alapinfrastruktúrában teremti meg az IPv6-os kommunikáció lehetõségét, például a DNS szerverek között. Az internet legfelsõ szintû tartományait adminisztráló ICANN február elején 13 root névkiszolgálójából hatot (A, F, H, J, K, M) látott el IPv6 címekkel, aminek köszönhetõen azok így közvetlenül IPv6 címzéssel is elérhetõvé váltak az internet tartományneveket feloldó DNS rendszerei számára, kiiktatva az IPv4 és IPv6 protokollok közötti fordítás szükségességét.
+
+Ezt követi a második fázis, mikor az egyes szolgáltatásokat biztosító kiszolgálókat készítik fel, mint például az e-mail szerverek, majd ezt követi a hozzáférési réteg az ADSL-csatlakozásokkal egyetemben, derül ki Várkonyi elmondásából. "A harmadik körben, körülbelül 1-2 hónap múlva már az ADSL- és egyéb szolgáltatást igénybe vevõ végfelhasználóink is igényelhetnek IPv6-os címet" -- közölte az igazgató. 
+
+
+"Mivel egyre többen keresik az IPv6-ot nyújtó szolgáltatókat, szeretnénk az elsõk lenni, ahol ilyet tudnak igényelni" -- fogalmazott Várkonyi, aki szerint többen jelezték már az Externetnél igényüket a lehetõségre. "Tudomásom szerint még egyik nagy [hazai kereskedelmi] ISP sem vezetett be IPv6-ot". A nemrég tõzsdére vonult Externet nagyjából 50 ezer ADSL-ügyféllel rendelkezik. 
+
+Frissítés: A Nemzeti Információs Infrastruktúra Fejlesztési Intézet, az akadémiai, kutatói és oktatói szféra internetszolgáltatója az IPv6 szolgáltatást 2003 óta kísérleti, 2006 év eleje óta pedig teljesértékû szolgáltatásként nyújtja az egyetemek és kutató intézetek számára. Ez pontenciálisan több mint 600 intézményt és 600 ezer felhasználót jelent. A kiegészítésért köszönet illeti a NIIF Intézet munkatársait. 
+
+Az IPv6 bevezetését a 32 bites IPv4 címtartomány szûkössége
+magyarázza. Különbözõ becslések 2010 és 2012 közé teszik a még
+rendelkezésre álló IPv4 címkészlet kimerülését, amire a konszenzus
+szerint az ésszerû választ az IPv6 bevezetése és az átállás megkezdése
+szolgáltatja. Az IDC szerint 2012-ben 17 milliárd eszköz fér hozzá
+majd az internethez, vagyis túlnyomó többségük nem férhet közvetlenül
+hozzá, csakis NAT mögül. Az IPv6 lehetõvé teszi majd, hogy praktikusan
+végtelen számú eszköz kerüljön IP-hálózatra statikus címmel, így
+például mobiltelefonok, beágyazott eszközök és szenzorok is korlátlan
+mennyiségben. A 128 bites címtartomány mellett az IPv6 számos további
+elõnnyel rendelkezik, így például támogatja a hatalmas csomagokat,
+integrált biztonsági képességeket és a routolást segíti lokális
+címekkel is.
+
+[+] Meg kell kezdeni az átállást IPv6-ra, véli az OECD 
+
+Az IPv6 egyáltalán nem számít újdonságnak, hiszen a legelsõ
+kereskedelmi implementáció az IBM AIX 4.3 formájában 1997-ben jelent
+meg, amit 2000-ben követett a Solaris, majd 2001-ben a CISCO IOS
+routerek és layer-3 switchek is támogatták már, alkalmazását azonban
+korábban semmi nem tette szükségessé. A Windows Vista
+alapértelmezettnek már az IPv6 címet veszi, így egy IPv6 és IPv4
+címmel egyaránt jelenlévõ számítógép esetében elsõként elõbbivel
+próbálkozik -- a DNS-kiszolgálók például az alapján döntik el, hogy
+IPv6 vagy IPv4 címet adnak válaszul feloldásként vissza, hogy milyen
+protokollon érkezik a kérés. Az IPv6 elõtt azonban még hosszú út áll,
+így a két címtartomány még sokáig párhuzamosan fog egymás mellett
+létezni. Felhasználói oldalról az IPv4-IPv6 átjárás és átállás
+észrevétlen marad ideális esetben, csomagolási és fordítási
+technikákkal a két rendszer átjárható.

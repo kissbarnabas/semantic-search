@@ -1,0 +1,30 @@
+Zöld utat kaptak a szabad szoftverek a közbeszerzésben
+
+Jelentõs lökést adhat az állami szférában és az oktatásban a nyílt forrású szoftverek és az azokhoz kapcsolódó szolgáltatások elterjedésének az új közbeszerzési eljárás, amelyben jelentõs, 12 milliárd forintos keretösszeg áll ezek rendelkezésére. 
+
+
+
+Kormányzati elkötelezettség
+
+Baja Ferenc infokommunikációért felelõs kormánybiztos tegnapi bejelentése szerint a kormányzat elkötelezett a nyílt szabványok és a szabad szoftverek használata mellett, részben takarékossági okok miatt, másfelõl a monopolhelyzet felszámolása érdekében, de leginkább azért, mert ez lehetõvé teszi a hazai informatikai vállalatok bekapcsolódását, vagyis piacélénkítõ hatású is egyben.
+
+"Ez a bejelentés megteremtette a szabad választás lehetõségét az
+intézmények számára, amelyeknél alulról jövõ kezdeményezésként eddig is jelentõs igény volt a nyílt forráskódú megoldások bevezetésére" -- mondta Szittya Tamás, a Novell Magyarország vezetõje. "Bízunk benne, hogy a kezdeményezés mûködõképességének támogatására számos további projekt is elindul, amelyek segítik az intézményeket az új megoldások gyors, hatékony bevezetésében."
+
+"Végre Magyarországon is megteremtõdik az a lehetõség, hogy a világ vezetõ nyílt forráskódú gyártói, mint például a Red Hat, termékeivel és szolgáltatásaival egyenrangúan szerepelhessen közbeszerzési eljárásokban" -- mondta Szentiványi Gábor, a Red Hat hazai képviseletét ellátó ULX Kft. vezetõje. "Reméljük, hogy a most meghirdetett gyártósemlegesség a Tisztaszoftver programban is hamarosan érvényesülni fog."
+
+Bizalmi háttér
+
+A hazai közszféra eddig is használt szabad szoftvereket, a linuxos szerverek aránya például egy 2006-os adat szerint megközelíti a piaci átlagot. A magyar közintézmények bíznak a nyílt forrású megoldásokban, több helyen kritikus alkalmazások üzemelnek már linuxos környezetben, a mostani bejelentés szerint azonban már a kormányzat bizalmát és támogatását is élvezik a szabad szoftverek, ami nagy lökést adhat az ilyen megoldások terjedésének nem csak a szerverek, hanem az asztali számítógépek szegmensében is.
+ 
+
+Maga az Európai Unió is kimondottan támogatja a nyílt szabványokra és nyílt forrású szoftverekre épülõ megoldások használatát a közintézményekben. Az elmúlt évek során Európa számos országában (pl. Ausztria, Németország, Franciaország) indultak olyan projektek, amelyek keretében a közigazgatási dolgozók PC-it Microsoft Windowsról és Office-ról Linuxra és OpenOffice-ra állították át -- a mostani bejelentés itthon is katalizálhatja ezt a folyamatot. Az Open Document Alliance magyar tagozatának számításai szerint egy ilyen váltással négy év alatt akár 100 milliárd forintot is megtakaríthatna a hazai közszféra. 
+
+
+ 2004-ben már elindult a Miniszterelnöki Hivatal Elektronikus Kormányzati Központjának égisze alatt egy Szoftver Kompetencia Központ, amely aztán forráshiány miatt beszüntete a mûködést. Most ez is feltámadhat, a cél az, hogy a szabad szoftverek hatékonyságának bemutatásával segítsék az átállást a közigazgatási szerveknél, a közoktatási intézményeknél -- mondta Bódi Gábor, a Miniszterelnöki Hivatal szakállamtitkára.
+
+Hatékonyabban elköltött pénz
+
+Persze önáltatás lenne azt hinni, hogy ezzel egycsapásra minden megváltozik és a közszféra egyik napról a másikra átáll szabad szoftverekre. Fõképp azért, mert a 12 milliárd forintos, tehát a Microsoftéval egyezõ nagyságú keretösszeg csak egy keret -- tavaly a Microsoft-keretbõl az intézmények mindössze 5-6 milliárd forint körüli összeget hívtak le. A keretösszeg ráadásul csak a licencekre vonatkozik, vagyis az átképzésekre az intézményeknek kell elõteremtenie a forrásokat.
+
+Ez egyben komoly kockázati tényezõ is, hiszen az oktatási intézményekben a diákok szinte mindenhol windowsos képzésben részesülnek, így késõbb csak jelentõs ráfordítással tanítható be az új környezet, és ez igaz a közigazgatási szektorra is. Egy szoftvermigráció költségeibõl pedig a felhasználók és a szakemberek oktatása jelentõs tétel.  A fõ üzenet azonban: a kormányzat végre a nyílt szoftverek mellett áll, így ezek nem csak a versenyszférában, hanem a közszférában is érdemeik szerint mérettethetnek meg. Az eredmény hatékonyabban elköltött pénz lehet.

@@ -1,0 +1,14 @@
+Lengyel gyõzelem a BME 24 órás programozóversenyén
+
+Lengyel sikert hozott a nyolcadik BME Nemzetközi 24 órás Programozóverseny döntõje, ami vasárnap reggel ért véget. A gyõztes qwertY csapat mellett két svéd együttes állhatott fel a dobogóra, a legjobb magyar trió a negyedik helyet szerezte meg.
+
+
+
+A korábbi években tapasztalt élénk érdeklõdés idén sem mérséklõdött a megmérettetés iránt: 4 kontinens 30 országának iparban dolgozó profijai es amatõr programozói próbálták ki magukat a verseny internetes elõválogatóján, ahonnan 25 csapat jutott a döntõbe, ahol a tavalyi dobogósok automatikus indulási jogot szereztek -- így összesen 28 csapat mérhette össze tudását élesben. A 24 órás döntõben a versenyzõk bármilyen ejlesztõeszközt, könyvet vagy operációs rendszert használhattak, de külsõ segítséget nem vehettek igénybe.
+
+A szombat reggel kezdõdött döntõben az eredményes szerepléshez a  kódírási képesség mellett elengedhetetlen volt a hálózati, mesterséges intelligenciabeli, valamint a számítógépes grafikai jártasság. Az elsõ feladatban a csapatoknak mesterséges intelligenciával kellett autóikat rábírniuk, hogy megfelelõen navigálva megtalálják A és B pontok között a legrövidebb útvonalakat. Ezt bizonyos idõközönként versenyeken bizonyították, amiket az érdeklõdõk egy nagy kivetítõn követhettek nyomon. A pontok mindig a leggyorsabbakhoz kerültek. Tovább bonyolította a helyzetet, hogy nemcsak a kormányzásra, az utak fizikai tulajdonságaira, de a közlekedés szabályaira is tekintettel kellett lenniük.
+
+A második feladatban a csapatok nyomozók és bûnözõk bõrébe bújva kergetõztek. Megbízásokat kaptak, és arra írták programjaikat, hogy hogyan hajtsák végre a "tökéletes gyilkosságot", vagy éppen hogyan derítsék ki a rendelkezésre álló információkból, hogy ki követte el azokat. Rendelkezésre álltak a csapatok tanúvallomásai, hamisat csak a gyilkosok állíthattak. Ebbõl a szövevényes halmazból derült ki az igazság, vagy menekült meg az elkövetõ. A nyomozók rossz tippeléssel -- amire csak egy lehetõségük volt egy nyomozáson belül -- ponthoz juttatták a menekülõket.
+
+
+ Legjobbnak a lengyel qwertY csapat tagjai (Andrzej Szombierski, Daniel Czajka, Marcin Wielgus) bizonyultak, a második helyezett a svéd Jon far bestamma lett, míg a dobogó harmadik fokára a szintén svéd Team Itello csapata állhatott. Mindhárom csapat a verseny visszatérõ vendége, az elmúlt években is sikeresen szerepeltek.

@@ -1,0 +1,24 @@
+A válság ellenére jól tartja magát az Oracle
+
+Hosszú évek után elõször csökkent az Oracle profitja és az új szoftverlicencek értékesítésébõl származó bevétel is visszaesett, ahogy a gazdasági válság hatására a vállalatok behúzták a kéziféket a beszerzések terén. A többi piaci szereplõvel összevetve az Oracle azonban viszonylag jól állta a sarat, köszönhetõen a hatalmas installált bázisból befolyó támogatási bevételeknek.
+
+
+
+A támogatási szerzõdések köszönik, jól vannak
+
+A vállalat bevétele 6 százalékkal 5,69 milliárd dollárra emelkedett a november 30-án véget ért negyedévben, ez némileg elmaradt az elemzõk 5,82 milliárdos elõrejelzésétõl. Az erõsödõ dollár is az Oracle ellen dolgozott, a cég bevételének több mint fele az Egyesült Államokon kívülrõl származik. Az Oracle nyeresége 1 százalékkal csökkenve 1,29 milliárd dollárt tett ki, az egyszeri tételek nélkül a részvényenkénti eredmény 34 cent volt, ami megfelelt a várakozásoknak.
+
+Az Oracle azért tudta ilyen jól tartani magát, mert bevételének több mint fele támogatásból, szoftverkövetésbõl folyik be. A támogatásból származó forgalom 14 százalékkal nõtt éves szinten, ami ellensúlyozni tudta az új licenceladások 2,5 százalékos csökkenését. Az adatbázis- és köztesszoftver-terület jól tartotta magát, azonban az üzleti alkalmazások értékesítése 15 százalékkal szakadt be. Sorozatban ez volt a második negyedév, amikor az Oracle alkalmazásforgalma csökkent a megelõzõ év azonos idõszakához képest.
+
+ A világ második szoftvergyártója 2005 januárja óta nem kevesebb mint 48 felvásárlást hajtott végre annak érdekében, hogy kiterjessze befolyását a hagyományos erõsségének számító adatbáziskezelõn túlra. Az akvizíciókkal nem csak új termékek és technológiák, hanem új ügyfelek is a vállalathoz kerültek, amelyektõl a támogatási szerzõdések keretében folyamatosan áramlik be a pénz az Oracle-hoz még akkor is, ha az új termékek nem fogynak jól.
+
+
+ Az eredmények bejelentése kapcsán rendezett elemzõi konferenciahíváso Safra Catz elnök elmondta, a jelenleg is tartó harmadik negyedévben a szokásosnál sokkal kevesebb új szerzõdés megkötésére számítanak. Ennek ellenére éves szinten 4 százalékkal növekedõ, 5,6 milliárd dollár körüli bevételt és részvényenként 31-33 centes nyereséget vár az Oracle.
+
+Nehéz idõk jönnek
+
+A Gartner nemrég látványosan megvágta a vállalati szoftverpiac növekedésére vonatkozó elõrejelzését, az elemzõcég szerint jövõre mindössze 6 százalékos bõvülés várható ezen a területen, szemben a korábban prognosztizált 9 százalékkal. Lesznek olyan területek, amelyek továbbra is bõvülnek majd, de számos, az Oracle-t is érintõ szektorról jósolja a Gartner a megrendelések megállását.
+
+Utóbbira egyik példaként a SOA (szolgáltatásorientált architektúra) projekteket hozza a Gartner, amelyeknél biztosan behúzzák majd a cégek a kéziféket és elhalasztják vagy éppen törlik azokat. Ez a terület lassan fog csak magára találni, de jelentõs lesz a lassulás a klasszikus nagyvállalati alkalmazások piacán is, mint az ERP, a tartalomkezelés, az ellátásilánc-menedzsment és az ügyfélkapcsolat.
+
+Ugyanakkor felértékelõdnek az olyan szoftverek, amelyek segítenek hatékonyabbá tenni a szervezetek mûködését, például az üzleti folyamatmenedzsment (BPM) vagy a törzsadatkezelés (MDM). A költségek csökkentésére irányuló lépések nyertesi lehetnek a nyílt forrású szoftverek (operációs rendszerek és irodai csomagok), a virtulizációs megoldások, illetve a csökkentett utazási büdzsék miatt az üzenetküldére, hang- és videokonferenciára, valamint az online kollaborációra szolgáló eszközök.

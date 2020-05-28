@@ -1,0 +1,13 @@
+A Mac OS-be olvasztja a Windowst a VMware Fusion 3
+
+A VMware Fusion 3 október 27-én fog megjelenni, a frissítés ára 40 dollár, míg a teljes verzióért 80 dollárt kell majd kicsengetni. A cég állítása szerint a virtualizációs szoftvert kifejezetten Snow Leopard gazdagépekre fejlesztették, így például a hypervisor teljesen 64 bites (x86-64), és ebben a módban fut Leopard alatt is, aminek elsõsorban kedvezõ teljesítménybeli hatásai vannak.
+A Fusion 3 egyik nagy elõrelépése, hogy immár DirectX 9c API-t is támogat, amivel a virtualizált Visták és Windows 7 operációs rendszerek is teljes fényükben tündökölhetnek, ugyanis megjelenhet az Aero felület. A fejlesztéseknek köszönhetõen immár a DX9-es játékok vagy az 1080p videók sem okoznak gondot egy VM számára. Fejlettebb lett a vendég és gazda közti vágólap megosztás, ugyanis immár nem csak szövegeket, de grafikus elemeket is mozgathatunk a vágólapon.
+
+A VMware fejlesztõi optimalizáltak az erõforrások hasznosításán is, így csökkent a memóriaterhelés, és tipikusan mindössze 5 százaléknyi processzoridõt eszik egy nyugalmi állapotban lévõ vendég Windows, közölte a cég, vagyis egy többmagos rendszeren egyidejûleg akár több Windows is futhat egymás mellett, ha bírjuk memóriával. Immár a VM-ek számára is támogatja a többmagos processzorokat, szemben a korábbi több virtuális processzor megközelítéssel, ami a Windows licencek szempontjából érdekes.
+Az új szoftver igyekszik megkönnyíteni a fizikai Windows PC-krõl történõ migrációt is, ha valaki teljesen Macre váltana. A Mac és a Windows PC közötti hálózati kapcsolaton keresztül egy eszköz segítségével egy négyjegyû kódot generálunk a Windowson, majd a Macen futó szoftver ezt a négyjegyû kódot keresi meg a hálózaton, és egy teljesen azonos virtuális gépet épít fel - a vállalat ígérete szerint további felhasználói beavatkozás nélkül.
+
+Amit a felhasználói szintû macesek leginkább szeretni fognak, az valószínûleg a Unity új  kiadása, mely lényegében a MacOS X-be integrálja a virtualizált Windowson futó alkalmazásokat. Ha egy Windows VM-et Unity módban futtatunk a Fusion 3 felett, akkor az megjelenik a Dockban, és akár Command + Tab kombóval át is válthatunk rá, sõt mi több, akár el is indíthatjuk a Windows alkalmazásokat a MacOS X alól.	     
+                  
+                  
+                  
+                   

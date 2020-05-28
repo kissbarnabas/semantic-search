@@ -1,0 +1,18 @@
+A jelenlegieknél háromszor gyorsabb SSD-t mutatott be a Micron
+
+A Micron bejelentette, hogy a közeli jövõben várható egy olyan SSD-meghajtó, mely a jelenlegi leggyorsabb modellnél több mint háromszor lesz sebesebb.
+
+
+
+A Micron akár már a jövõ évben elkészülhet ultragyors SSD meghajtójával, mely a sebesség terén jócskán túlszárnyalja a jelenlegi csúcstartókat. A gyártó már elkészült a rekorder közel sem végleges próbaváltozatával is, melyet egy PCI Express kártyán helyeztek el, mert a SATA II csatolófelület a 300 megabájt másodpercenkénti sebessége nem elegendõ ahhoz, hogy a meghajtó teljes sebességre kapcsoljon.
+
+ 
+
+A Micron két nyolcmagos, Intel Xeon processzorral szerelt tesztkörnyezetben helyezett el két, a tárolókat tartalmazó PCI-Express kártyát, melyek 800 megabájtnyi adatot szállítottak másodpercenként. Ez a sebesség tovább emelkedett amikor olyan PCI-Express kártyát állítottak üzembe, mely két SSD meghajtót is tartalmazott, ekkor az 1 gigabájt/mp adatátviteli sebesség is elérhetõvé vált. A kéttárolós adatkártya 16 adatcsatornán 200 ezer input-output mûveletet végzett el másodpercenként.
+
+
+
+
+Ha a Micron termékének piacra érkezését nem tudjuk kivárni, megvehetjük a Fusion IO fogyasztói piacra szánt SSD-kártyáját, mely 50 ezer I/O mûveletre képes egy másodperc alatt, 500-700 megabájt adatátviteli sávszélesség mellett. Ezt a PCI Express kártyát természetesen nem mérik olcsón, 1000 dollárt kell érte fizetni.
+
+A jelenleg megvásárolható SSD-k leggyorsabbjai már közelítik a SATA II felület átviteli határához. A Micron a gyakorlati bemutató után -- tekintettel a fejlesztés korai szakaszára -- nem árulta el, hogy mikorra várható a kész termék és arról sem tett említést, hogy mennyibe fog kerülni. Az azonban bizonyos, hogy nem a jelenleg elterjedt SATA II csatolófelület fogja a tárolót a számítógép többi részegységével összekötni.

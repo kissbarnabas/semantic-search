@@ -1,0 +1,12 @@
+Megkezdhetik a felkészülést a Windows 7-re a vállalatok
+
+A MAP Toolkit lényegében arra szolgál, hogy egy szervezet feltérképezze saját eszközparkját. A szoftver segítségével külön agentek telepítése nélkül készíthetõ hardverleltár a PC-krõl és szerverekrõl, majd az információk birtokában a szoftver azt is képes meghatározni, a jelenleg használt eszközök közül melyek kompatibilisek a Microsoft termékeivel. A MAP Toolkit 4.0 béta a korábbi szoftverek (Windows Vista, SQL Server 2008, Office 2007, stb.) már tartalmazza a Windows 7 és a Windows Server 2008 R2 futtatásához szükséges adatokat is, így felhasználható ezeknek az operációs rendszereknek a bevezetése elõtti ellenõrzéshez, a migráció tervezéséhez.
+A Microsoft szoftvere részletes jelentést ad a hálózatban talált PC-krõl és szerverekrõl, amelybõl megtudható hogy mely gépeken milyen operációs rendszer fut jelenleg, milyen hardverek találhatók benne, mely operációs rendszerek futtatására alkalmas a konfiguráció. Szerverek esetében a MAP Toolkit képes megjeleníteni a gépek kihasználtságát, ez alapján a cégek dönthetnek virtualizáció bevezetése mellett. Az SQL Servereket is feltérképezi a MAP Toolkit és megjeleníti, hogy az adott gépen be lehet-e vezetni a SQL Server legújabb változatát. A MAP Toolkit 4.0 béta már a VMware hosztokat és vendégeket is számba veszi.
+
+
+PC-k esetén a szoftver az operációs rendszer feltérképezi a gépeken futó Office verzióját is, emellett megjeleníti a biztonsággal kapcsolatos legfontosabb tudnivalókat, így például megtudható hogy az adott gépen fut-e víruskeresõ és annak adatbázisa rendszeresen frissül-e, vagy hogy be van-e kapcsolva rajta tûzfal. A termék emellett a PC-k és szerverek energiatrakarékossági beállításairól is képes jelentést készíteni, emellett meg tudja becsülni, hogy esetleges módosításokkal, a szerverek esetén pedig virtualizáció bevezetésével mennyi energiát lehetne megtakarítani.
+A MAP Toolkit 4.0 leváltja a korábbi Windows Vista Hardware Readiness Assessment Toolt is egyben, emellett említésre méltó, hogy a terméket integrálták egy virtualizációs megtérülésszámító szoftverrel (Microsoft Integrated Virtualization ROI Calculator), amellyel így anélkül lehet a virtualizáció bevezetésével kapcsolatos megtérülési mutatókat számolni, hogy az adatokat kézzel kellene felvinni. A MAP Toolkit 4.0 bétát bárki elérheti a Microsoft weboldaláról, a letöltéshez csupán egy mûködõ Live ID szükséges.	     
+                  
+                  
+                  
+                   

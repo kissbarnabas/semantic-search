@@ -1,0 +1,16 @@
+Két grafikus chip az ATI új videokártyáján
+
+Az AMD bejelentette kétchipes videokártyáját, a Radeon HD 3870 X2-t, amely teljesítményét vagy szolgáltatásait tekintve alig különbözik attól, mintha két Radeon HD 3870 kártyát használnánk együtt, CrossFire módban. Egyesüli érvként a helytakarékosság hozható fel e konfiguráció mellett, a Radeon HD 3870 X2 csak egy kártya, cserébe a legzajosabb és legtöbbet fogyasztó mind közül.
+
+
+
+A Radeon HD 3870 X2 a kártyán belül PCI Express 1.1 felületen kapcsolja össze a videochipeket, ezért nincs szüksége speciális, CrossFire-t támogató alaplapi chipkészletre, akármilyen alaplapban mûködik, amely egy "sima" HD 3870-et támogat. Ugyanígy nincs szükség speciális driverekre sem. A referenciadesign azonban tartalmaz CrossFire-csatlakozót is, vagyis lehetõvé teszi egy további Radeon 3870 kártya beépítésével akár három, vagy egy másik HD 3870 X2 használata esetén akár négy grafikus chip együttmûködését is -- az ehhez szükséges meghajtóprogramokat márciusra ígérik az ATI-nál.
+
+
+ A Radeon HD 3870 X2-n két ATI R680 chip kapott helyet, amelyeket 55 nanométeres csíkszélességgel gyárt a TSMC. A két lapkában összesen 640 stream processzor és 32 textúrázóegység dolgozik, a megemelt órajelnek köszönhetõen több mint 1 teraFLOPS nyers számítási teljesítményt nyújtva.
+
+
+
+A nyomtatott áramkörön két Radeon HD 3870 videochip található összesen 1 gigabájt memória társaságában. Az X2-n a grafikus chipek némileg magasabb órajelen mûködnek mint az egychipes HD 3870 kártyákon, 775 MHz helyett 825 MHz-en. A memória ugyanakkor lassabb, mindössze 1,8 GHz-es, ráadásul nem GDDR4, hanem GDDR3 típusú, erre a megoldásra az ár kordában tartása miatt volt szükség, GDDR4 chipek használata esetén a Radeon HD 3870 X2 biztosan sokkal drágább lenne a 449 dolláros ajánlott kiskereskedelmi árnál. Ez viszont kevesebb, mintha két HD 3870-es kártyát vásárolnánk, de még egy GeForce 8800 Ultránál is olcsóbb.
+
+Az ATI ezzel lényegében egy még megfizethetõ árú, mégis csúcskategóriás teljesítményt nyújtó terméket épített. A Radeon HD 3870 X2-t elsõsorban azok számára ajánlja a cég, akik a lehetõ legnagyobb felbontásban szeretnének játszani az olyan vadonatúj programokkal, mint amilyen például a Crysis, de nem tudnak vagy akarnak két felsõ kategóriás grafikus kártyát építeni a gépükbe. Az Anandtech tesztje szerint a Radeon HD 3870 X2 teljesítménye általában a GeForce 8800 GTS és a GeForce 8800 GT SLI között helyezkedik el, és már 1680x1050 pixel feletti felbontásokban is folyamatos futtat szinte mindent.

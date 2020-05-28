@@ -1,0 +1,12 @@
+Olcsó egyfoglalatos Dell szerverek akár virtualizációra is
+
+Új egyfoglalatos szervereket jelentett be a Dell, ami önmagában még nem lenne igazán érdekes, ugyanakkor az új dobozok a nagyobb gépekre jellemzõ memóriakapacitással és rendelkezésre állással kecsegtetnek. 
+
+
+
+A rackbe szerelhetõ PowerEdge R300 és a torony kivitelû T300 rendkívül alacsony bekerülési árral csábítanak, amit az magyaráz, hogy nem a kétutas gépekben alkalmazott 5000P Intel chipsetet, hanem az 5100-asat használják, mely hagyományos, rendkívül olcsó DDR2-memóriát vezérel a drágább és energiaéhesebb FB-DIMM-ek helyett. Az igazán árérzékeny ügyfelek akár Celeronnal vagy Core 2 Duóval is rendelhetik a gépeket -- Celeronnal és 512 megabájt memóriával az amerikai ár 1000 dollárról indul a T300 esetében, mégha egy ilyen hardverkonfiguráció csak jóindulattal nevezhetõ szervernek. A T300 négy, az R300 kettõ darab SAS vagy SATA csatolófelületû merevlemezt képes fogadni, a RAID-támogatás feláras extra.
+
+A két új PowerEdge egyértelmûen a mikro- és kisvállalkozásokat célozza meg, de nagyobb vállalatok esetében megfelelõ lehet például szerver- alkalmazások futtatására fiókirodákban vagy távoli telephelyeken. A szerverek akár a 3,16 GHz-es, összesen 12 megabájt L2 gyorsítótárral bíró négymagos Xeon X5460 processzort is támogatják, ennek a chipnek a termikus kerete azonban már 120 watt, ami már irodai telepítéshez túlságosan zajos hûtést valószínûsít. A szerverek specifikációi PDF-ként letölthetõek a Dell oldaláról: PowerEdge T300 / Poweredge R300.
+
+
+ A négy nagyteljesítményû mag és akár 24 gigabájt memória segítségével az új szerverek a Dell szerint alkalmasak kisvállalatok rendszereit virtualizált környezetekben futtatni, így a több dedikált, gyengébb fizikai szervert (például webszerverek, adatbázisok, üzleti szoftverek) egyetlen gépre lehet összevonni, csökkentve az üzemeltetési költségeket, de kézenfekvõ terület a megszokott virtuális szerverhosting is. A megbízhatóságot és rendelkezésre állást ekkor ECC memóriával és redundáns tápegységekkel lehet növelni a kötelezõ biztonsági mentések mellett, míg a biztonságot TPM-chip és letiltható USB-portok és lezárható ház segítik.

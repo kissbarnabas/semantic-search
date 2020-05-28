@@ -1,0 +1,29 @@
+Kipróbáltuk az Acer K10 LED-es zsebprojektorát
+
+Kicsi kívül, kicsi belül
+Eltekintve a közel használhatatlan, mobilelefon-méretû zsebprojektoroktól, az Acer K10 az egyik legkisebb, LED-es vetítõ, melynek méreteire a hajlatoktól mentes, kizárólag a funkcionalitásra törekvõ formaterv volt leginkább jótékony hatással. A K10 mindössze 566 gramm és 127x122x48,5 milliméter, valóban egyike a legkisebbeknek a kategóriájában, megszorongatni talán csak az igen csekély, 50 ANSI lumen fényerejû Samsung P310 tudja, mely 127x95x51 milliméteres. A K10 fényereje azonban az elõbb említett P310 duplája, bár ezzel az értékkel nem kapjuk meg a ma elérhetõ maximumot, amely 150-170 ANSI lumen körül jár.
+ 
+ 
+Tartozékok, kezelõszervek
+A K10 mellé VGA-kábel, egy kicsi szivacstok (csak a gép fér bele, már a töltõ sem), valamint a 19 voltos, 80 wattos tápegység érkezik, jó tudni, hogy utóbbi például a gyártó Aspire 2920-as noteszgépét is meghajthatja. A K10 hátoldalán a Kensington-zár és a tápegység csatlakozói mellett a bemeneteket találjuk, melyek a VGA-csatlakozóban és a DVD-lejátszók videojelét fogadni képes RCA-csatlakozóban merülnek ki. Mobil felhasználási körülmények közepette jól jött volna a hangszóró is, melyet sajnos nem építettek a házba, ezért a K10 hangbemenettel sem rendelkezik.
+
+
+Feltétlenül szót érdemel a gépház alján található állványmenet, melynek segítségével igen szabadon állítható be a K10. A géptetõ a gomboké és a fókuszállító gyûrûé, minden teljesen logikus elrendezésben várja az ujjunkat. A gombok nem érintõgombok, ezeket határozott erõvel kell nyomogatni, nekünk jobban tetszett, mint a nemrég kipróbált Samsung projektor érintõgombjainak bizonytalansága és téveszthetõsége. A fókuszállító gyûrû azonban mûszerészkezeket kíván, és bár külön tanfolyamot nem kell elvégezni a fókusz beállításához, tized milliméteres eltérés adhat teljesen éles kép helyett abszolút homályt a vetítési területen.
+
+ 
+LED, és DLP
+A gép belvilága LED-fényforrásra és DLP-technológiára épül, utóbbi 858x600 képpontos natív felbontást kínál. A K10 megbirkózik nagyobb felbontású, 1280x1024, valamint 1440x900, sõt, akár az 1600x1200 pixeles forrásanyaggal is, ezeket természetesen kicsinyítve láthatjuk a jóval kevesebb pixelen. A projektor valós felbontásához a PC-bõl érkezõ jelek esetében a 800x600-as felbontás áll a legközelebb, sajnos ekkor is töredezettek a betûk szélei, nem pont a projektor által vetített képpontokra kerülnek a forrás pixelei.
+
+ 
+Nézzük!
+A K10 100 ANSI lumene közel sem elég a nappali vetítéshez, az élvezhetõ képhez alig pislákolhat hangulatlámpa a szobában. Windowsos munkaasztal megjelenítése ennyire nem érzékeny a fényszegény környezetre, fehér hátteres prezentációk félhomályban is élvezhetõ minõségben vetíthetõk, de horrorfilmet már csak teljes sötétben nézhetünk a drámai (mondjuk ki: félelmetes) napot nélkülözõ helyszínei miatt. Ebben a tekintetben a múlt héten tesztelt Samsung SP-P410M jóval erõsebb a 170 ANSI lumenes fényerõvel.
+Samsung SP-P410M LED-projektor tesztje
+A vetítõ magyarul is tudó menüje letisztult, keresni nem sok mindent kell, pedig olyan finomságok vannak benne, mint az automata trapézkorrekció-állítás, mely a gépházba épített mozgásérzékelõ jelei alapján dolgozik, vagy a projektor helyzetének kiválaszthatósága. A K10-et mennyezetre és asztalra egyaránt lehet telepíteni, a kép alsó széle a lencsével kerül egy vonalba, erre érdemes ügyelni, tehát a mennyezetre fejjel lefelé szereljük a konzolra. Technikai akadálya a megfelelõ vászon megléte mellett természetesen annak sincs, hogy a kép a vászon mögül érkezzen, erre is fel van készítve az elektronika.
+
+Az Acer K10 nem szórja a képet nagy területre, a három méteres vetítési távolság csak 190 centiméteres képátlót ad (180 centi pedig 116-ot), a Samsung lencséje ezzel szemben 3 méterrõl 20 centiméterrel szélesebb képet vetít. A színek "komoly" hatásúak, a képen megjelenõ piros szín a vidámabb narancssárga helyett inkább a komorabb bordóba hajlik, nem törekszik a vetítõ arra, hogy szebben, mosolygósabban adja vissza a mûsort. A DLP-rendszerû projektorok szivárványjelensége alig-alig észrevehetõ, ez zavarni nagyon keveseket és csak nagyon csekély mértékben fog. Filmnézés közben azonban a beépített ventilátor hangja külön odafigyelés nélkül is hallható, ráadásul a hõterhelés függvényében változtatja a fordulatszámát, ez bizony a zajnál is zavaróbb, állandó fordulatszám mellett az ember hamarabb felejthetné el, hogy pörög a gépházban valami. Alacsony fényerõ mellett csekély fogyasztást vártunk volna, ám 65 wattot mutatott a fogyasztásmérõnk a HWSW fõoldalának kivetítése közben, ez pedig kevésnek épp nem nevezhetõ.
+Nem rossz, csak vannak jobbak
+Az Acer LED-projektora ésszerû áron ad használható képet, ráadásul nem kell attól tartani, hogy idõ elõtt kényszerülünk a félszázezer forintos lámpacserére. A K10 emellett a hordozhatóság terén sem szerepel rosszul, bár a kis méret helyett egy kicsivel világosabb képnek jobban örültünk volna. Munkára ajánlható, a prezentációk sötétítõfüggöny elhúzása mellett is színesíthetik az elõadásokat, igaz, jobb, ha az illusztrációk és grafikonok hátteréül a világosabb színeket választjuk. A mozizás viszont szinte csak teljes sötétségben élvezhetõ, ekkor azonban rendesen, a szem remekül alkalmazkodik a vetítõ képéhez. A K10 a hazai boltokban 125 ezer forintért vásárolható meg, aki nagyobb fényerõvel keres LED-technológiával szerelt projektort, annak mélyebben kell a zsebébe nyúlnia.	     
+                  
+                  
+                  
+                   

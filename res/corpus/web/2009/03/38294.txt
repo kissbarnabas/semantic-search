@@ -1,0 +1,14 @@
+Ingyenessé tette audiokodekjét a Skype
+
+[HTML] Ingyenessé teszi fejlesztõk és készülékgyártók számára Silk nevû hangtömörítõ-kodekjét a Skype, amitõl azt reméli, hogy még több eszközre jut majd el a VoIP-szolgáltatása.
+
+
+
+A Silk kodek a Skype 4.0-ás verziójában mutatkozott be, legfõbb vívmánya az volt, hogy a korábbiaknál jóval jobb hangminõséget kínált, s úgy optimalizálták, hogy kis sávszélességû, lassú kapcsolattal rendelkezõ környezetben is mûködõképes maradjon. A Skype szerint a Silk valósidejû skálázhatósággal rendelkezik, s az azt használó szoftver képes a hálózati környezetnek megfelelõ minõséget választani, ráadásul fele annyi sávszélességgel beéri mint elõdje.
+
+ A cég három évet és több millió dollárt ölt bele a Silk fejlesztésébe. Az eredmény: a szokásos 3,4 kHz-es normál telefonátvitelhez képest akár 12 kHz-et is elérhet a Silk által átvitt tartomány. "Azzal, hogy ingyen kínáljuk a Silket, elhárítjuk az eddigi legnagyobb akadályt az elõl, hogy a széles spektrumú audioátvitelt befogadja a piac" -- írja blogjában Jonathan Christensen, a Skype vezetõje. "Ezzel a lépéssel, reményeink szerint egy új, az egész iparágot lefedõ szabványt hozunk létre a hangátvitelben a tisztább és gazdagabb hangzásért."
+
+
+ Ezzel a lépéssel a Skype feladja a versenyelõnyét, de egyben megalapozza jövõjét, ugyanis a szolgáltatásai elõbb-utóbb szinte minden eszközön megjelennek majd. A cég már jelenleg is 405 millió installált klienst tart nyilván, de ezek többsége még PC-ken fut. A kodek ingyenessé tétele viszont bátorítani fogja a gyártókat, hogy integrálják a Skype-ot a mobiltelefonokba, okostelefonokba és egyéb, internetelérésre képes mobil eszközökbe.
+
+ Január óta a Skype nem csak Windows Mobile-on, hanem Google Android platformon és javás változatban is elérhetõ, utóbbi máris több mint száz kompatibilis készülékre telepíthetõ, ígaz, a bétaváltozat teljes funkcionalitással csupán néhány országban mûködik egyelõre. A februári Mobile World Congressen a Skype és a Nokia együttmûködési megállapodást kötöttek, melynek eredményeként a támogatott Nokia mobiltelefonok felhasználói a Skype összes szolgáltatását igénybe vehetik majd. A Skype speciális, az operációs rendszerbe szervesen integrált változatát a Nokia új kommunikátorának, az N97-nek a tulajdonosai használhatják elõször.

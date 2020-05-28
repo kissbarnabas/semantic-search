@@ -1,0 +1,16 @@
+A fertõzött weboldalak több mint 80 százaléka vállalati weboldal
+
+A Sophos legújabb statisztikája riasztó adatokat közöl a vállalati weboldalak biztonságával, menedzselésével kapcsolatosan: a keresõoldalakon és antivírus cégek adatbázisaiban fertõzöttnek jelölt weboldalak 80 százaléka vállalati weboldal.
+
+
+
+Ezek az oldalak kártékony programokat próbálnak letölteni számítógépünkre különbözõ trükkökkel, JavaScriptekkel, iframe-ekkel, a legújabb támadási módszer pedig egyetlen sornyi kóddal, egy egyszerû iframe-mel továbbirányítja a látogatót más weboldalra. A keresõk, mint például a Google keresõje a tartalom indexelésekor érzékeli a veszélyt, ezt követõen pedig megakadályozza, hogy keresési találatból közvetlenül eljussunk az ilyen céges weboldalakra. Sok cég a jelek szerint nem ismeri fel, hogy ez akár üzleti hátránnyal is járhat.
+
+Az infobiztonsági szakértõk szerint a cégeknek nem csak a "hagyományos" spam és adahalászati támadások ellen kellene védekezniük, de figyelemmel kellene kísérniük az ilyen jellegû támadásokat is. Ezek többsége a megfelelõen frissített számítógéppel lényegében észrevehetetlen, a víruskeresõ, kártékony programokat írtó szoftverek csak akkor figyelmeztetnek, amikor a kódok aktivizálni tudják magukat, és megpróbálnak valamit letölteni.
+
+
+A Sophos 2007-es felmérése szerint a fertõzöttként jelölt weboldalak több mint 80 százaléka vállalati weboldal volt, mely felbecsülhetetlen kárt okoz. Ezekre az oldalakra keresõkböl nem lehet eljutni, amellett, hogy a Google kihangsúlyozza a veszélyt, nem engedélyezi a továbbkattintást, csak közvetlen címbeírással hozhatjuk be az adott cég weboldalát.
+
+A Google blogbejegyzése szerint kéthetente ellenõrzi, hogy egy-egy oldal fertõzött-e még, illetve elkezdett e-mailes értesítéseket küldeni a legvalószínûbb adminisztrációs címekre, ezzel is elõsegítve a fertõzés mihamarabbi eltávolítását.
+
+A széleskörû webes támadások az utóbbi idõben egyre gyakrabbá válnak és egyre több szervert érintenek. Ez a támadásfajta ráadásul sokkal hatékonyabb is lehet, mint az e-mailcímes próbálkozások, melyet ma már szinte minden levelezõszerver kiszûr -- itt olyan weboldalakon keresztül támadnak minket, amiket naponta látogatunk és alapvetõen megbízunk bennük.

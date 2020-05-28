@@ -1,0 +1,14 @@
+Létrejött a Thunderbird levelezõ felett bábáskodó önálló szervezet, a Mozilla Messaging
+
+Megalakult a Mozilla Messaging, a Mozilla Alapítvány száz százalékos tulajdonban levõ leányvállalata, amely a Thunderbird levelezõt hivatott a jövõben fejleszteni.
+
+
+
+Rövid távon a Mozilla Messaging célja a Thunderbird 3 levelezõ létrehozása, amelyben az ígéretek szerint már integrált naptár (Project Lightning) is helyet kap majd. A kezelõfelület változása mellett a Thunderbird 3-ban az eddigieknél gyorsabb és fejlettebb keresés, valamint a könnyebb testreszabhatóság lesz a legfontosabb újdonság David Ascher, a Mozilla Messaging vezetõje szerint. Természetesen a Thunderbird továbbra is nyílt forrású marad és a közösség maximális bevonásával fejlesztik majd.
+
+Ascher blogbejegyzésében leírja, hogy a Thunderbird eddig afféle elhanyagolt gyerek volt a Mozilla Alapítványnál, a levelezõ távolról sem kapott annyi figyelmet, mint az óriási sikert elért webböngészõ, a Firefox. Ennek megfelelõen nem is fejlõdött olyan gyorsan, a Mozilla Messaging hosszú távú célja, hogy ledolgozza ezt a "hátrányt", és a Thunderbird alaparchitektúráját átdolgozza, hogy ki tudják használni a Mozilla platformban rejlõ lehetõségeket. Ascher írása alapján hosszabb távon arra lehet számítani, hogy a Thunderbird  egy bõvíthetõ, a webes technológiákkal integrált, késõbb akár többféle érintkezési csatorna (IRC, chat, SMS, stb.) kezelésére is képes kommunikációs platformmá fejlõdik.
+
+
+A Mozilla Thunderbird levelezõ 1.0 verziója 2004-ben jelent meg és a letöltések száma már az elsõ napon elérte az 500 ezret, azóta pedig a 60 milliót. A legutolsó változat (2.0.0.9) tavaly novemberben jelent meg, jelenleg a 2.0.0.12-es verziót tesztelik. A Thunderbird fejlõdésének nagy lökést adhat, hogy a népszerû Eudora levelezõt gyártó Qualcomm 2006-ban beszüntette a szoftver fejlesztését, ugyanakkor közölte, hogy a 7.1-et követõ verzió már a Thunderbird alapjaira épül és nylít forrású lesz. A munka el is kezdõdött a Penelope kódnevû projekten, amelybõl jelenleg a második béta érhetõ el.
+
+A Thunderbird fölött a jövõben bábáskodó Mozilla Messaging élén álló David Ascher mellett a szervezet igazgatótanácsának tagja Christopher Beard, a Mozilla Labs vezetõje, valamint Marten Mickos, a Sun Microsystems által nemrégiben megvásárolt MySQL AB elsõ embere.

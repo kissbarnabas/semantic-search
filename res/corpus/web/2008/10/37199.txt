@@ -1,0 +1,14 @@
+Megjelent a Flock közösségi webböngészõ új verziója
+
+Immár Firefox 3-alapon is elérhetõ az internetes közösségi hálózatok felhasználói által rendkívül kedvelt Flock webböngészõ.
+
+
+
+Megjelent a Firefox kurrens változatára építõ, közösségi tartalmakat natívan támogató Flock webböngészõ új, 2.0-s verziója. A Flock lényegében nem más, mint egy kulcsrakész, speciális plugin-környezettel és egyedi skinnel ellátott Firefox, mely kifejezetten az internetes szociális hálózatok felhasználóinak igényei alapján készült.
+
+A Flock-ot 2005-ben hívta életre az a Bart Decrem, aki anno jelentõsen hozzájárult a Mozilla Foundation sikeréhez, valamint õ indította el az 1999 és 2001 alatt lassan elhaló kezdeményezést, az Eazelt, ami elsõdleges céljául azt tûzte ki, hogy az asztali gépekre szánt Linux kényelmesebb legyen a mindennapi felhasználók számára is. A Flockban az alapul szolgáló Firefoxhoz képest a könyvjelzõk kezelését átalakították, hogy azokat egyszerûen meg lehessen osztani másokkal is, és természetesen, mint minden modern böngészõ, a Flock is képes RSS hírcsatornák megjelenítésére és a blogok integrált támogatására.
+
+
+A közösségi böngészõ 2.0-s verziója mostantól támogatja a Myspace, a Twitter, a Facebook és más hasonló szolgáltatások social media feedjeinek a megjelenítését, melyet az erre a célra létrehozott oldalsávra helyez az alkalmazás. A Flockban a már említett oldalsáv mellett az ismerõseink, illetve az általuk megosztott tartalmak is külön panelen jelennek meg, emellett természetesen továbbra is adott a beépített blog editor, a webes vágólap, és a "My World" nevû panel, melyen összegyûjtve, egy személyes kezdõlapon keresztül elérhetõ a felhasználó összes webkettes aktivitása és adatlapja.
+
+Az új Flock a nyáron megjelent bétához képest jelentõsen gyorsabb lett, ezen kívül lényegesen kevesebb memóriát is foglal az elõdöknél. A 2.0-s változatban megjelentek az alternatív skinek is, a Flock ugyanis nem kompatibilis az alap Firefox skinekkel -- az új böngészõben két különbözõ kinézet közül választhat a felhasználó (csak a windowsos és maces verzióknál).

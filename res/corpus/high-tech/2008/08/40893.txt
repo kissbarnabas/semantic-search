@@ -1,0 +1,55 @@
+Nehalem: minden részlet a helyére került
+
+Az Intel pár éve kockázatkezelési okokból bevezetett tik-tak stratégiájának lényege, hogy a vállalat páros években új gyártástechnológiát, páratlan években pedig új mikroarchitektúrát vezet be. Ennek szellemében a 45 nanométeres csíkszélességgel gyártott Penryn után egy évvel, mely a két éve debütált Merom továbbcsiszolt miniatürizációjának tekinthetõ, következik a Nehalem kódnevû új mikroarchitektúra, amely legelsõ változataiban már az idén piacra kerül, de a család kiteljesedése 2009-ben esedékes. A héten rendezett San Franciscó-i Intel Developer Forum (IDF) fókuszában természetesen a hónapokon belül piacra kerülõ következõ generációs processzor áll.
+
+
+
+A Nehalemmel az Intel célja egy olyan ütõképes processzor megalkotása volt, mely minden területen bevethetõ. Egy olyan processzort, mely elég nagy teljesítményt nyújt egy szál futtatása esetén, ugyanakkor hatékonyan képes kiszolgálni a párhuzamosított alkalmazásokat is. Moduláris felépítése révén az architektúra mobil, asztali és szerverkivitelben is megjelenik, az eltérõ felhasználási területeken felmerülõ változatos igényeknek mind meg kell felelnie: összességében a lehetõ legnagyobb teljesítményt kell nyújtania alacsony fogyasztás mellett.
+
+Ütõképes teljesítmény: fejlettebb magok és új rendszerarchitektúra
+
+A Nehalem valóban mérföldkõ az Intel történetében, ugyanis az elsõ olyan processzora, amely mellõzi a hagyományos adatbuszt, és egy közvetlen pont-pont összeköttetésen alapuló új infrastruktúrára, a QuickPath Interconnectre épül (hasonlóan az AMD által már egy ideje  alkalmazott Hyper-Transporthoz), és memóriavezérlõt is integrál a processzormagokkal közös szilíciumlapkára. Ennek köszönhetõen a processzorok számának növelésével a teljesítmény közel lineáris skálázódását ígéri az Intel, ami elsõsorban a szerverváltozatok esetében jelent majd drasztikus elõrelépést az Opteronokkal, illetve más architektúrákkal (Power, SPARC, Itanium) folytatott küzdelemben.
+
+A jövõben a QuickPath Interconnect lesz az Itaniumok infrastruktúrája is, egyfelõl komoly teljesítménynövekedést hozva a kritikus feladatokat kiszolgáló platformra, másfelõl olcsóbbá téve a rendszerek tervezését, validálását is. Mindez ugyanakkor nem jelenti azt, hogy az Itanium és a Xeonok teljesen megegyezõ infrastruktúrát kapnának akár a foglalatszintû kompatibilitásig, a QuickPath ráadásul valójában nem egy konkrét implementációt definiál, hanem sokrétû kommunikációs technikákat gyûjt össze. Az Itanium és Xeon MP rendszerek QuickPath összeköttetéseit például magasabb szintû RAS-képességekkel vértezik fel, valamint jelentõs eltérések lehetnek a chipek QuickPath linkjeinek a számában is.
+
+
+
+
+Mit is jelent a moduláris felépítés? Azt, hogy a Nehalembõl két-, négy- és nyolcmagos változat egyaránt piacra kerül, de a különféle felhasználási területekre (mobil, desktop, munkaállomás, szerver, stb.) szánt verziók nem csak a magok számában különböznek egymástól, hanem egyéb jellemzõikben is, például a harmadszintû cache méretében, a  memóriavezérlõk és a QuickPath Interconnect kapcsolatok számában, valamint az energiagazdálkodási jellemzõkben is, egyes változatok pedig akár integrált grafikus magot is kaphatnak a jövõben.
+
+A Nehalem a Core mikroarchitektúra inkrementális, de jelentõs továbbfejlesztésének tekinthetõ, az Intel mérnökei számos változtatást vezettek be, egyfelõl a teljesítmény növelése, másrészt a fogyasztás csökkentése érdekében. A fejlõdést jól mutatja, hogy a Nehalem magjai egyenként 25 százalékkal nagyobbak a Penrynben alkalmazott magoknál. A mikroarchitektúra újdonságai közé tartozik az SSE4.2 vektoros utasításkészlet támogatása, a Hyper-Threading szimultán többszálú végrehajtás újbóli megjelenése, a másodszintû becslõkkel kiegészített elágazásbecslõ logika, valamint a hatékonyabb soronkívüli végrehajtást támogató megnövelt pufferek.
+
+
+
+Hogy maximális teljesítményt préseljenek ki, az Intel tervezõi erõteljesebb soronkívüli végrehajtást végzõ motorral vértezték fel a chipet. Az ütemezõ 96 helyett immár 128 mikroutasításból válogathat a végrehajtóegységek kihasználtságának fokozása érdekében -- vagyis az utasítászintû párhuzamosság növelésével emelkedhet az órajelenként elvégzett hasznos munka mennyisége. A teljesítményt tovább javítja az egymástól független cache-hozzáférések gyorsabb végrehajtása, valamint a szinkronizációs primitívek gyorsítása, mely leginkább a többszálú végrehajtást támogatja. Egy másodszintû TLB (translation look aside buffer, memóriacím fordítási tár) bevezetésével gyorsulnak a virtuális-fizikai memóriacímek megfeleltetései, ami fõként nagy memóriaigényû, memóriamûveletekben intenzív kódok alatt, így virtualizált környezetben jelenthet leginkább elõnyt. Mint látható, a Nehalem a PC-s kódok alatt igen jól teljesítõ Core mikroarchitektúra szerverfeladatokra is felhangolt változata.
+
+Gyors és hatalmas memória
+
+Jelentõsen megváltozott a Nehalem cache-hierarchiája is, amelyet eleve háromszintûre terveztek. Az elsõszintû, 32+32 kilobájt méretû, nyolcutasan asszociatív utasítás- és adatgyorsítótárakhoz  magonként dedikált 256 kilobájtos, szintén nyolcutasan asszociatív L2 cache tartozik, amelyet egy inkluzív 8 megabájtos osztott harmadszintû gyorsítótár egészít ki, legalábbis ami a négymagos változatot illeti (a két- és nyolcmagos verziók specifikációit az Intel egyelõre nem közölte). 
+
+A cache-ek módosítására elsõsorban a négy mag egyetlen szilíciumon történõ integrálása miatt volt szükség (a jelenlegi négymagos Intel processzorok két lapkából épülnek fel), ráadásul maguk a processzormagok a fentebb ismertetett fejlesztéseknek köszönhetõen a Core-nál is jobban éheznek az adatokra, másfelõl a memóriavezérlõ szervezése is gyökeres változáson esett át. A négymagos asztali Nehalem háromcsatornás DDR3-1066 memóriavezérlõt integrál, amelyek kumulált sávszélessége 33 gigabájt másodpercenként -- ez nagyjából háromszorosa a korábbi maximumnak, ráadásul a késleltetés is látványosan csökkent, hiszen az adatok betöltésekor sem a kérésnek, sem maguknak az adatoknak nem kell végigjárnia a távoli chipetseten ülõ vezérlõt és a lassú adatbuszt. Az Intel a Harpertownhoz (jelenlegi négymagos Xeon 1600 MHz-es front side buszon) képest 40 százalékos késleltetés-csökkenésrõl beszél.
+
+
+
+A Nehalem egy memóriacsatornájához legfeljebb három DIMM csatlakoztatható, foglalatonként összesen tehát kilenc memóriamodul. Az Intel ígérete szerint a Nehalem rajtjára már piacon lesznek három memóriamodult tartalmazó csomagok, így a Core i7 Extreme Edition vásárlóinak nem kell feleslegeen megvennie egy négydarabos csomagot.
+A MetaRAM technológiájával ma már 8 gigabájtos DIMM-ek is gyárthatók, így egy kétfoglalatos szerver vagy munkaállomás akár 144 gigabájt memóriát is könnyedén fogadhat, amint azt az IDF-en láthattuk is.
+
+
+
+	     
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                    A cikk több oldalból áll:
+                    
+                    
+                        1. oldal: Nehalem: minden részlet a helyére került
+                      
+                        2. oldal: Energiahatékonyság, Dunnington
+                        
+                    
+                  

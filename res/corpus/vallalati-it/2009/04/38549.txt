@@ -1,0 +1,10 @@
+Új dokumentumarchiválási szoftvercsaládot vezetett be az EMC
+
+Április elején új szoftveres archiválási termékcsaládot jelentett be az EMC. A SourceOne elsõsorban a vállalati e-mailek archiválásának monumentális feladatát szándékozik segíteni, de képességei késõbb kiterjeszthetõek más dokumentumokra, vagy akár a vállalati információmenedzsmentre is.
+
+
+
+A SourceOne elsõsorban a jogászokat igyekszik boldoggá tenni, akik a SourceOne szoftverek alkalmazásával megtalálhatják, rögzíthetik, részleteire vághatják az elektronikus leveleket, majd ezeket ellenõrzött módon prezentálhatják különféle ügyekben, mint például hatósági, bírósági eljárások, belsõ vizsgálatok -- biztosítva ezzel a szabályoknak történõ megfelelést.  Az EMC azonban nagyon is tudatában vannak, hogy az SourceOne szoftvereknek továbbra is az IT-részlegeket megnyerni, így az informatikusokat olyan hívószavakkal igyekszik megnyerni, mint tárolási költségek csökkentése, a skálázódás, a politikák könnyû felállítása és monitorozása, és integrált kezelõfelület (dashboard).
+
+
+A SourceOne család, melynek három tagja a Discovery Manager, az Email Management for IBM Lotus Notes Domino és az Email Management for Microsoft Exchange, jelenleg az e-mailekre koncentrál, a szoftver architektúrája azonban nem kötõdik az elektronikus levelekhez, praktikusan bármilyen információtípust képes lesz a jövõben feldolgozni, mely nem egy strukturált adatbázisba rejtve található, így például fájlokban tárolt dokumentumokat. Az EMC szándéka szerint a SourceOne egy nagyvállalati információs életciklus-menedzsment (ILM) platformmá válik a jövõben. A felhasználók szempontjából a SourceOne legfontosabb tulajdonsága, hogy a már learchivált levelekhez is hozzáférést ad, mégpedig úgy, hogy abból a felhasználó semmit nem vesz észre.

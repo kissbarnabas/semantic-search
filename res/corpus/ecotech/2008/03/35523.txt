@@ -1,0 +1,12 @@
+Wal-Mart: nincs elegendõ kereslet a linuxos PC-k iránt
+
+[Associated Press/HWSW] Úgy tûnik, nem biztos, hogy 2008 is a Linux desktop (vagy desktop Linux) éve lesz, az Egyesült Államok és egyben a világ legnagyobb kiskereskedelmi lánca, a Wal-Mart ugyanis befejezi a Linux-disztribúciókkal elõtelepített számítógépek forgalmazását áruházaiban. Az indoklás prózai: nem volt rá elég érdeklõdés.
+
+
+
+"Ezt tényleg nem az volt, amit a vevõink kerestek" -- fogalmazott a  világszerte több ezer üzlettel rendelkezõ vállalat szóvivõje. Hogy kipróbálja a linuxos gépek iránti igényt, a Wal-Mart tavaly októberben kezdte forgalmazni  a tajvani Everex kétszázdolláros Green gPC-t, mintegy 600 áruházban. Paul Kim, az Everex márkamenedzsere szerint az online árusítás sokkal hatásosabb a polcosnál. A Walmart.com online bolton keresztül ezután is elérhetõ marad a gPC2, valamint a 399 dolláros CloudBook notebook.
+
+
+A Linus Torvalds nevéhez fûzõdõ 1991-es megszületése óta a Linux kernel és a köré épülõ disztribúciók hatalmas fejlõdést mutattak, és a nyílt forráskódú szoftverek zászlóshajójának tekinthetõ. Bár a Linux kernel fejlesztéseinek fókusza Torvalds révén mindig is a PC volt, ott a mai napig nem tudott áttörést felmutatni, különbözõ becslések is legfeljebb 1-2 százalékra taksálják -- a HWSW.hu látogatásainak 3,5 százaléka érkezik linuxos géprõl.
+
+A fejlesztõi és felhasználói közösség, valamint késõbb meghatározó vállalatok támogatásának köszönhetõen ugyanakkor a Linux jelentõs szeletett hasított ki magának szerverpiacon, és az egyik, ha nem a legdinamikusabban bõvülõ platform. A Gartner becslése szerint a Linuxszal szállított szerverek értéke tavaly 8,6 milliárd dollárra, a teljes piac 15,7 százalékára rúgott, miközben a Windows 19,6 milliárdot, a különféle UNIX-ok pedig 16,4 milliárdot szakítottak -- magyarán a Red Hat és a Novell vezetésével a Linux meghatározó tényezõvé nõtte ki magát a szervereken, kezdve a internetes, hálózati és irodai feladatoktól az adatbázisok és üzleti alkalmazások kiszolgálásán át a szuperszámítógépes felhasználásig.

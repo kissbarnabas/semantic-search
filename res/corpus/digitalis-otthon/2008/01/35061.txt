@@ -1,0 +1,46 @@
+Kipróbáltuk: Samsung P2 érintõképernyõs MPEG4-lejátszó
+
+A Samsung nagy méretû kijelzõvel ellátott, mégis könnyen hordozható P2 médialejátszója nem véletlenül került be karácsonyi ajánlónkba: a fekete változat az erõsebb nem képviselõinek szívét, a fehér a hölgyekét dobogtathatta meg az ünnepek alatt. De mire is képes a Samsung lejátszója, s mire lesz képes a közeljövõben? A Samsung három hullámban jelentet meg szoftverfrissítést a P2-höz, a karácsony elõtt pár nappal elõtt megjelent elsõ hullámban mobilos headsetet (is) varázsolt belõle, a hamarosan megjelenõ másodikban játékok is lesznek, a harmadikat pedig a gyártó szerint el sem tudjuk képzelni.
+
+
+
+Csúcsmodell
+
+A Samsung P2 a koreai gyártó csúcsmodell MPEG4-lejátszója, 3 hüvelykes kijelzõje érintésérzékeny, és nem mellesleg hatalmas felbontású. A 480 x 272 képpont pontosan megfelel a Sony PlayStation Portable (PSP) kijelzõjének, mely azonban 1,3 hüvelykkel nagyobb képátlójú. A készüléket 2, 4 és 8 gigabájtnyi memóriával lehet megvásárolni nagyjából iPod nanókhoz -- legalábbis ha a hivatalos árlistákat nézzük -- mérhetõ áron, a szélesvásznú kijelzõ azonban össze sem hasonlítható utóbbiak 2 hüvelykes egérmozijával.
+
+
+
+A specifikációk csatornánként 22 mW-os erõsítõrõl szólnak, az európai firmware-verzióban egy ki- és bekapcsolható hangerõkorlát is helyet kapott, bekapcsolt állás esetén csak ennek felét érhetjük el, ez azonban még metrón utazva is bõven elegendõnek tûnik. A hangzást a Samsung DNIe 2.0 hangzásjavító technológiája turbózza fel, mely csak vezetékes fülhallgatóval érhetõ el egyelõre. A hangminõségre nem lehet panasz, a mellékelt füles is jó minõségû. Az FM-rádió elméletileg RDS-es, ez azonban vagy nem igaz, vagy a szoftver nem támogatja még. Az USB2.0 port magától értetõdõ, a másolási sebesség körülbelül 3-6 megabájt másodperceként attól függõen, hogy írunk vagy olvasunk.
+
+A Bluetooth 2.0 támogatás már sokkal érdekesebb, ezt nem sok médialejátszón találhatjuk meg. A decemberben megjelent firmware frissítéssel a készülék nem csak állománycserére képes Bluetooth-on keresztül, de telefonunkkal is összepárosítható: a beépített mikrofonnak köszönhetõen headsetté válik a P2. Elõ sem kell vennünk táskánkból a telefont, ha hívás érkezik, a zene elhalkul, ha pedig a névjegykártyát is átdobjuk a telefonról a készülékre, nem a szám jelenik meg, hanem a hívó neve. Természetesen sztereó Bluetooth fülest is párosíthatunk a készülékkel, egyszerre akár kettõt is képes párhuzamosan kiszolgálni.
+
+A Bluetooth bekapcsolása, használata jelentõsen csökkenti a készülék akkumulátoros üzemidejét, az eredetileg 35 órányi zenelejátszásból 12 órányi marad, ha sztereó Bluetooth fülhallgatón keresztül hallgatjuk a zenét. A videók lejátszása maximum 5 óráig mehet a gyári specifikáció szerint, nálunk körülbelül 4,5 órát bírt egyetlen feltöltéssel -- a valóság eléggé megközelítette a gyári értéket.
+
+Emoture
+
+Az érintõképernyõre szabott Emoture felület többé-kevésbé testre szabható, ez kimerül három különbözõ menüstílus kiválaszthatóságában, illetve a háttérkép módosításában. A felület igen jól kezelhetõ és egyszerû gesztusokat is ért, könnyen forgathatjuk, nagyíthatjuk, léptethetjük egy-egy mozdulattal a feltöltött és megjelenített fotót, de ugyanígy egyetlen kézmozdulattal, a képernyõ szélén végighúzott ujjunkkal módosíthatjuk a hangerõt is, ha lusták lennénk megnyomni párszor az oldalsó gombokat. A készülék kezelésében teljesen az érintõképernyõre -- vagy a csatlakoztatott Bluetooth füles gombjaira -- kell hagyatkoznunk, a hangerõszabályzó gombokon túl ugyanis csak egy picit nehezen kezelhetõ "hold" gomb, illetve egy lejátszást indító és felfüggesztõ gomb kapott rajta helyet. Négy gomb között nem lehet eltévedni.
+
+
+
+Az érintõképernyõ érzékenysége elsõrangú, a mellékelt képernyõ- és készülékvédõ fólia -- nem csak a képernyõt, hanem a teljes átlátszó, sérülékeny mûanyag felületet védi -- használata sem hoz negatív változást ezen a téren. A magyar nyelvû utasításban található extra mozdulatok is könnyen megtanulhatók, az ujjunkkal pedig elegendõ végigsimítani a felületet, nem kell egy picit sem megnyomni. Ebbõl fakadóan érdemes használni a "hold" gombot, a zsebbe nyúlva ugyanis könnyen elléptethetjük a zeneszámot, vagy beletekerhetünk a lejátszásba.
+
+
+A készülék a két legnépszerûbb formátum, az MP3 és Windows Media Audio mellett AAC és FLAC tömörítetlen formátumokkal is megbírkózik, videóból azonban csak a "saját" formátumát, az SVI-t szereti, melyet bármilyen Windows által ismert formátumból a Samsung Multimedia Studióval tudunk elõállítani, meglehetõsen lassan. A konténerben egy szimpla XVID/MP3 kódolású videó van, a videó bitrátája akár 1 megabit/s is lehet. A Samsung azonban mindeképpen megpróbálja megakadályozni, hogy saját szoftverrel kódoljunk videót, míg korábban mûködött az a trükk, hogy a más alkalmazással bekódolt AVI-t szimplán átneveztük SVI-re, az új, decemberi firmware-rel ez már nem lehetséges. A saját kódolású videó 400 kilobit/s-os videó bitráta mellett is nézhetõ minõségû, így egy komplett mozifilm körülbelül 350-500 megabájtnyi helyet foglal el a hosszától függõen.
+
+
+
+Egy 42 perces sorozatepizód így körülbelül 180 megabájtnyi helyet emészt fel, így könnyen kiszámolható, hogy a 8 gigabájtos változat durván 30 órányi videót képes eltárolni ezzel a bitrátával, kifejezetten nézhetõ minõségben. Az idegen nyelvû filmek kedvelõinek jó hír, hogy a Samsung szoftvere támogatja az elterjedtebb feliratformátumokat is, melyeket képes különbözõ méretekben a videóra kódolni.
+
+Tapasztalataink szerint érdemes két szoftvert használni a konvertálásokra: a túl nagyra hízott MP3-akat Windows Media Playerrel érdemes a készülékre szinkronizálni, így az albumok borítói is megjelenhetnek a kijelzõn. A videókra nincs más választásunk mint a Samsung szoftvere, de ezt érdemes használni a túlméretes fotók lekicsinyítésére is, mely pont optimális méretet készít a nagyíthatóság és a gyors megjelenés közötti pengeélen táncolva.
+
+Így bármilyen lejátszót el lehet adni...
+
+Félkész, vagy jövõálló?
+
+Meglehetõsen nehéz eldönteni, hogy a Samsung P2 félkészen piacra dobott termék, vagy éppen jövõtállóságát bizonyítja a Samsung azzal, hogy frissítésekkel tovább okosítja a készüléket. A lejátszó rövid történetére visszatekintve sajnos inkább az elõbbi lehet a valós helyzet, hiszen számos olyan funkció került a decemberi frissítéssel a lejátszóba, melyet már a készülék piacra dobásának idõpontjára ígértek, s több olyan hiányzik még, mely alapvetõ más lejátszókban. A beépített mikrofont például nem lehet diktafon funkcióra használni -- bár Bluetooth headsetként is közel kell a szánkhoz emelni, így érzékenysége erre nem is lenne alkalmas --, de hiányzik a beígért RDS-támogatás, illetve a rádióadások felvételének lehetõsége is. Utóbbit a január közepére ígért, egyelõre késõ firmware-frissítés hozza elméletileg el.
+
+A Samsung P2 MPEG4-lejátszó 2 gigabájtos változatát körülbelül 42 ezer forintért, a 4 gigásat 48 ezerért, a 8 gigásat pedig 62 ezer forint bruttó összegért vihetjük haza.
+
+Véleménye van?
+szóljon hozzá a fórumban
+írjon szerkesztõségünknek!

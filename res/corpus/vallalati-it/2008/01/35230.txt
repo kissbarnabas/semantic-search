@@ -1,0 +1,24 @@
+Valódi termékké vált és már kapható a Sun konténerbe szerelt adatközpontja
+
+Immár hivatalos termékként rendelhetõ a Sun konténerbe épített adatközpontja, a Black Box, amely végül Modular Datacenter S20 néven került be a vállalat kínálatába. A Modular Datacenter S20-ra már számos megrendelés érkezett különféle ügyfelektõl, többek között az egészségügybõl, iparvállalatoktól, távközlési szolgáltatótól, illetve egy atomfizikai kutatóközpontból.
+
+
+
+Adatközpont a konténerben
+
+A Sun Modular Datacenter S20 egy szabványos szállítási konténerbe telepített adatközpont, amelyben összesen 8 rackszekrény várja a szervereket, tárolókat és hálózati eszközöket. A szabadalmaztatott hûtõrendszer rackszekrényenként akár 25 kilowattos hõleadással is megbirkózik, lényegében semmi sem korlátozza a rackek populálását, akár blade szerverekkel is megtömhetõ a Black Box, amelynek belseje hermetikusan el van zárva a külvilágtól, így a benne elhelyezett eszközöknek nem árthatnak a mostoha idõjárási viszonyok sem, az adatközpont akár terepen is használható.
+
+Mivel a Black Box teljesen távmenedzselhetõ és saját halonnal oltó berendezéssel is ellátták, csak akkor kell kinyitni, ha valamelyik alkatrész cserére szorul. Az adatközpont belsejében a rackszekrények nem egymás mellett, hanem egymás mögött állnak, a levegõ pedig körben áramlik a konténerben, a racksorok elõtt a felmelegedett levegõt víz hûti le. A gépek elejéhez és hátuljához kihúzható sínek segítségével lehet hozzáférni. A vállalat állítása szerint még egy blade szerverekkel teljesen megpakolt és teljes terhelésen járatott Black Box esetén sem megy a belsõ hõmérséklet 20 Celsius fok fölé.
+
+
+
+Sikersztorik
+
+A Radboud University Nijmegen Medical Centre (UMCN) Hollandia egyik vezetõ tudományos központja és kutatókórháza. Miután a korábbi két szerverfarm kapacitásának a határát elérték, az UMCN olyan megoldást keresett, amelynek segítségével gyorsan tudja bõvíteni számítási kapacitását. "A Sun MD nem csak azt tette lehetõvé számunkra, hogy szinte azonnal megoldást találjunk növekvõ számítási kapacitásigényünkre, de az UMCN számottevõ megtakarítást is elkönyvelhetett annak köszönhetõen, hogy nem kellett egy újabb adatközpontot beüzemelnünk&#8221; -- mondta ki John van de Loo, az UMCN informatikai vezetõje.
+
+A szélturbinák és ipari hajtómûvek gyártásával foglalkozó belga Hansen Transmissionsnél gyorsan nõtt a szélerõmûvek iránti megrendelések száma, és a vállalat úgy határozott, hogy indiai és kínai gyártóüzemet hoz létre, azonban a cégvezetõk rájöttek, hogy már az építkezés alatt is szüksége lesz informatikára, ezért választották a konténerbe épített Sun Modular Datacenter S20-at. "A Sun Modular Datacenter használatával képesek leszünk informatikai szolgáltatásokat nyújtani egy félig kész gyárban, és így a beruházás megtérülése szinte azonnal megkezdõdik. Terveink szerint ugyanezt a modellt hasznosítjuk majd terjeszkedésünk támogatására más országokban is" -- mondta Marnix Maes, a Hansen informatikai igazgatója.
+
+
+ Oroszország legnagyobb mobilszolgáltatója, a 80 millió ügyféllel rendelkezõ MTS informatikai kapacitások iránti egyre növekvõ igényei miatt fordult a Sunhoz. Az MTS a gyakorlatban próbálta ki a Black Boxot, hogy felmérhesse az éles használat körülményeit hálózatában. Általában másfél évet vesz igénybe egy mûködõ adatközpont kiépítése, a Sun Modular Datacenter S20-at ezzel szemben 22 nap alatt üzembe tudták állítani.
+
+A Stanford Részecskegyorsító Központnak (SLAC) úgy kellett növelnie számítási kapacitását, hogy az épületében egyre fogyatkozó áramellátási és hûtési kapacitást a lehetõ legjobban használja ki. A SLAC két Modular Datacenter S20-at is vásárolt, amelyek közül az egyiket a kritikus fontosságú kísérletek támogatására használnak. "A legfõbb elõnye a megoldásnak, hogy lehetõvé tette számunkra az adatfeldolgozó és számítási kapacitás gyorsabb növelését, méghozzá az eddigiek háromszorosára, amit semmilyen más, számunkra elérhetõ megoldással nem tudtunk volna megvalósítani" -- mondta Richard Mount, a Stanford Részecskegyorsító Központ számítástechnikai szolgáltatásokért felelõs igazgatója.

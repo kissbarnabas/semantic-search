@@ -1,0 +1,12 @@
+Tíz atom széles a világ legkisebb tranzisztora
+
+A Manchesteri Egyetemen elkészítették a világ legkisebb tranzisztorát, amely mindössze egy atom vastag és tíz atom széles. A struktúra alapanyaga a grafén, amely tulajdonképpen egy atomi vastagságú grafitlemez, szokás kétdimenziós grafitnak is nevezni. Az újdonságról a Science tudományos folyóirat április 17-én megjelent számában lehet olvasni.
+
+
+
+A Manchesteri Egyetem tudósai -- élkükön Dr. Kosztya Novoszelovval és Prof. Andre Geimmel -- lényegében hétköznapi félvezetõgyártási technológiával hozták létre a graféntranzisztort: elektronsugár litográfiával csatornákat karcoltak a grafénlapra, amivel kavntum-pontok jöttek létre. Ezek vezetési képessége feszültség hatására módosítható, így a térvezérlésû tranzisztorokhoz hasonlóan alkalmasak logikai állapotok tárolására. A manchesteri kutatók szerint a graféntranzisztorok tulajdonságai a méret csökkenésével egyre csak javulnak.
+
+
+A grafénáramkörök létrehozásával kapcsolatos egyik legnagyobb probléma, hogy jelenleg 100 mikronnál nagyobb átmérõjû szeleteket nem lehet létrehozni -- a félvezetõiparban tömegtermelésben 300 milliméteres szeleteket használnak. Azonban mivel a megmunkálásukhoz használt technológia nagyon hasonlít a chipgyártásban ma elterjedthez, Geim szerint amint képesek lesznek nagyobb wafereket elõállítani, viszontlag egyszerû lesz az átállás a grafénáramkörökre.
+
+A Manchesteri Egyetemen dolgozó Geim professzor és csapata az elsõk között fedezte fel és dokumentálta a grafént, amely azóta folyamatosan a félvezetõk jövõjével kapcsolatos kutatásokat végzõ tudósok látóterében van, mivel vezetési tulajdonságai a hõmérséklettõl függetlenül kiválóak. Szakemberek egybehangzó véleménye szerint a grafénáramkörök ideje pont akkor jöhet el, amikor a jelenleg használatos chipgyártási eljárások a fizikai határaik végére érnek -- a mostani elõrejelzések alapján ez a 10 nanométeres csíkszélesség elérése körül, 8-10 év múlva következhet be.

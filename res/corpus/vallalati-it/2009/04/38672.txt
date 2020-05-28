@@ -1,0 +1,28 @@
+Megnyitotta új adatközpontját az Invitel
+
+Ünnepélyes keretek közepette átadta tegnap új adatközpontját az Invitel. A vállalat a budapesti volt Athenaeum nyomda épületét választotta ki helyszínként, mely a város szélén infrastrukturális és biztonsági szempontból egyaránt kielégítõ. A Dataneum fantázianévre hallgató létesítményben a kolokáció mellett igénybe vehetõek a magasabb szintû hoszting szolgáltatások is, akár az IT-üzemeltetés teljes kiszervezése is. 
+
+
+
+Meglovagolni a válságot
+
+A Dataneum jelenleg 1500 négyzetméteren fogadja a gépeket, de a többek közt a Népszabadságot a '80-as évekig nyomó betonépületben akár 15 ezer négyzetméterig is bõvíthetõ a kapacitás, természetesen az üzemeltetés megzavarása nélkül. Az új adatközpont ritkán lakott külvárosi területen található Budapest keleti oldalán, jól megközelíthetõ, és hálózati összeköttetések szempontjából is ideális helyen van. Ez az Invitel negyedik adatközpontja: a vállalat 10 éves tapasztalatot halmozott fel a területen és több mint 200 hoszting ügyféllel rendelkezik.
+
+A HTTC csoport, és így az Invitel célja, hogy alternatívát teremtsen a monopóliummal szemben, mondta el a megnyitón Martin Lea, a HTTC elnök-vezérigazgatója. A vállalat szerint a válságban még inkább felerõsödnek az adatközpontok használata mögött meghúzódó mozgatórugók, a költségcsökkentés, a technológiai elõrelépés, és az üzemeltetési biztonság fokozása. A több százmillió forintot felemésztõ beruházást lényegében a gazdasági válság elmélyülésével egy idõben kezdte meg a vállalat. A cég arra számít, hogy a jelenlegi gazdasági helyzetben egyre többen döntenek a kolokációs és hoszting szolgáltatások mellett.
+
+Nagyítás
+
+Négykilences
+
+A Dataneum 99,99 százalékos rendelkezésre állást valósít meg. A létesítményt 10 kilovoltos elektromos hálózati betáplálással rendelkezik, melynek átalakítására három (2 üzemi, 1 tartalék) transzformátor áll rendelkezésre. A szünetmentes telepet úgy méretezték, hogy 30 percen át képes legyen a teljes terhelést elbírni, de a zavar fennmaradása esetén négy darab, egyenként 1,4 megawattos dízelgenerátor biztosítja az elektromosságot, akár 72 órán át. A négykilences rendelkezésre állás összesen évi 52 perc leállást engedélyez.
+
+
+A  kétszeresen redundáns hûtési rendszer folyadék-száraz hibrid, a levegõt kondicionáló 50 kilowattos beltéri egységeket használ, melyek szabadhûtésû kondenzátorok és kompakt folyadékhûtés kombinációjával vezetik el a hõt. A nem mérgezõ, nagynyomású gázt használó tûzoltási rendszer 30 másodperces késleltetéssel dolgozik, a tûz izolációja érdekében a falak 60 percen át ellenállnak a lángoknak. A gépek elektronikus védelme érdekében a termek 40 decibeles elektromágneses csillapítással rendelkeznek, ami nagyban csökkenti az éter zaját, valamint a természeti és emberi fenyegetettséget, és ezzel a bithibák elõfordulásának valószínûségét.
+
+Az összeköttetést az Invitel két független optikai vonala, és egy mikrohullámú tartalékkapcsolat biztosítja, melyek a vállalat gerincére csatlakoznak rá. A jövõben számos lehetõség nyílik a telekommunikációs szolgáltatások kínálatának bõvítésére, így az Invitel az ügyfelek számára is kínál optikai szálakat a közvetlen becsatlakozásához, a BIX-szel és a Dataplexszel például már most is közvetlen kapcsolat létesíthetõ, így földrajzilag elosztott katasztrófatûrõ rendszerek is kialakíthatóak. A Dataneum nyitott továbbá más telekommunikációs szolgáltatók fogadására is, hangzott el a megnyitón. A Dataneum belsõ hálózata teljesen redundáns, és Cisco megoldást használ.
+
+Kolokációs, hoszting, átfogó virtualizáció
+
+Az adatközpontban szokás szerint többszintû kolokációs szolgáltatás vehetõ igénybe, így például a rackhely bérlése mellett a területalapú ketreces megoldás és a saját terem igénylésére is van lehetõség. A födém teherbírása négyzetméterenként 2 tonna, ami a legnehezebb berendezéseket is elbírja, a hûtési rendszer teljesítménye pedig négyzetméterenként 1,2 kilowattra méretezték, normál esetben rackenként 15-20 szervert feltételezve. 
+
+A saját szerverek kolokációja mellett lehetõség nyílik szerverbérlésre, amihez az Invitel elsõsorban HP szervereket ajánl, de más szállítók termékei is elérhetõek ilyen konstrukcióban. Az Invitel ezeken felül többszintû hosztingszolgáltatást is kínál, beleértve a VMware, Hyper-V és Xen virtualizált környezetek üzemeltetését is. A szerverek mellett a tároló- és alkalmazásvirtualizáció is elérhetõ az Invitel repertoárjában, ami itthon újdonságnak és ritkaságnak számít. A cég állítja, készen áll akár teljes IT-infrastruktúrák virtualizált környezetbe ültetésére, majd az üzemeltetés átvételére. A referenciák közt légitársaságok, bankok is megtalálhatóak.

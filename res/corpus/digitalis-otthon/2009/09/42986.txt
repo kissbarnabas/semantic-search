@@ -1,0 +1,20 @@
+Itt az Android 1.6
+
+A Google a fejlesztõk számára letölthetõvé tette az Android legújabb verzióját, akik így a megjelenés elõtt már felkészülhetnek az újdonságokra. A Donut immáron több támogatást nyújt a CDMA-hoz és megbirkózik a QVGA és a WVGA felbontású képernyõkkel, ami újabb készülékek érkezését teszi lehetõvé. Emellett egy gyorskeresõ is bekerült az operációs rendszerbe, amivel egyszerûen, a home képernyõre illesztett widgeten keresztül kereshetõek a kontaktok és az alkalmazások.
+Bizonyára sokan örülnek majd a text-to-speech motornak, ami képes bármilyen szöveget felolvasni.  Az Egyesült Államokban egyre népszerûbbé válik a Google Voice Search, aminek lényege, hogy a felhasználó a mikrofonba mondja a keresõkifejezést, s nem kell begépelnie azt. Másrészt kényelmi és akár biztonsági célokat is szolgálhatnak az olyan alkalmazások, melyek az üzeneteket vagy bármilyen egyéb szövegeket olvasnak fel.
+
+
+
+
+
+
+
+
+Az Android fejlesztõcsapatának tagja, Xavier Ducrohet blogbejegyzésében azt írja, hogy az 1.6 SDK már októberben elérhetõ lesz a készülékeken, így annyira sok ideje már nincs is a fejlesztõknek reagálni a startra. Szerencsére az Android 1.6 alatt tökéletesen fut majd minden olyan szoftver, amely a most éles 1.5 alatt is mûködik. Az Android 1.6 októberi megjelenése, illetve a Motorola CLIQ és a HTC Hero szintén októberre ígért amerikai amerikai debütálása  nem lehet véletlen egybeesés, minden valószínûség szerint ezek a modellek már az új verzióval jutnak el a vásárlókhoz.
+
+Az Androidnak egyébként szüksége is van arra, hogy felrázzák kicsit, a piacterének felújítása mellett készülékek is fontosok, hogy üzletileg is sikeres platformmá váljon. Az Apple App Store-ral való összehasonlítás egyelõre nevetséges lenne, hiszen ha az elmúlt idõszakok adatait vetítenénk ki egy teljes évre, akkor az Apple 2,4 milliárd dolláros, a Google pedig mindössze 5 millió dolláros forgalommal kalkulálhatna a mobilos alkalmazások eladásainál.
+A megváltás az idei õsz, illetve tél lehet, amikorra már szinte minden jelentõs gyártó elkezdi árusítani androidos készülékeit, s a felhasználói tábor végre növekedésnek indulhat. Amíg az Apple esetében mûködõképes volt az egykészülékes modell, addig az Android labdába sem rúgott a T-Mobile G1-gyel.	     
+                  
+                  
+                  
+                   

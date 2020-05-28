@@ -1,0 +1,20 @@
+Itt az idõ: át kell állni a PHP 5-ös verziójára
+
+Híven a korábbi ígéretekhez, múlt héten megjelent az utolsó frissítés PHP4-hez, és ezzel végleg befejezõdött támogatása is. A fejlesztések már tavaly év végével véget értek, a jelenlegi kiadás is az 4.4-es ág biztonságát és stabilitását fokozza.
+
+
+
+(Túl) sokan használnak PHP4-et
+
+A lépésnek nem szabad váratlanul érnie senkit sem, a platformfüggetlen szkriptnyelv fejlesztõi ugyanis már egy éve jelezték, hogy be kívánják fejezni a 4.4 verzió támogatását, és erõforrásaikat az immár négy éve megjelent PHP5-re és annak utódjára, a még fejlesztési stádiumban lévõ 6-os generációra fókuszálják inkább. A PHP Group szerint a PHP 5-ös verziója, mely jelenleg 5.2.6-nál tart, már régóta megfelelõ a PHP4 leváltására, és a migrációhoz útmutatókat is kínálnak -- az adatokból az látszik, bõven lesz kinek. 
+
+A hosszú kifutási idõ ellenére a PHP4 jelenléte ugyanis továbbra is hatalmas a weben. A Nexen Services statisztikája alapján 2008 júniusában a PHP 4-es verziója közel 59 százalékos részesedést hasított ki, míg a PHP5 penetrációja 41 százalékra rúgott a PHP-installációkon belül. A 13,3 millió megszondáztatott szerver több mint 20 százalékán ráadásul a 4.4-es verziónál régebbi változat futott, melyek migrációja valószínûleg még problémásabb lesz, már ha egyáltalán tervezik az átállást a webfejlesztõk és rendszergazdák.
+
+A világ weboldalainak harmadát szolgálja ki PHP, ASP-n ötödük fut. Magyarországon 50 százalékos a PHP penetrációja, ebbõl nagyjából fele PHP5, derül ki a Nexen adataiból. Érdekesség, hogy a magyar webszerverek közel 90 százaléka Apache. Azoknak, akik makacsul ragaszkodnak a PHP4-hez, továbbra is szerezhetnek támogatást független felektõl, így például Stefan Esser PHP-specialista Suhosin biztonsági kiegészítésén keresztül ugyan továbbra is támogatja a szkriptnyelv korábbi verzióját, de csak ez év végéig, vagyis a fejlesztõk üzenete egyértelmû: idõvel elkerülhetetlenül váltani kell. 
+
+Tizennégy éve kezdõdött minden
+
+
+A rendkívül sikeres a PHP, vagyis a Hypertext Preprocessor története 1994-ig vezethetõ vissza, Rasmus Lerdord dán programozó ekkor írta az elsõ változatot, hogy feldobja weboldalát, illetve látogatottsági adatokat gyûjtsön. A Personal Home Page Tools 1995 júniusában debütált a nyilvánosság elõtt, ez a változat azonban már a PHP 2-es verziójának is tekinthetõ.
+
+Két izraeli fejlesztõ, Zeev Suravski és Andi Gutmans 1997-ben újraírta a szintaktikai analízist végzõ részt, ezzel létrehozva a PHP3-at, amelynek a neve PHP: Hypertext Preprocessor-ra változott. A PHP3 hosszas bétatesztelés után 1998 júniusában jelent meg. Surasaki és Gutmans ezt követõen újraírták a PHP magját, így jött létre 1999-ben a Zend Engine, majd 2000-ben az erre épülõ PHP4. A PHP legújabb változata, a PHP5 2004 júliusában debütált, a legfrissebb verziót, az 5.2.3-at pedig idén június 1-én adták ki.

@@ -1,0 +1,18 @@
+Az Apple iPhone-jaihoz is elérhetõ a natív Skype-kliens
+
+Hamarosan az iPhone és Blackberry okostelefonok tulajdonosai számára is elérhetõ lesz a Skype azonnali üzenetküldõ alkalmazás -- az új kliens segítségével ingyenes hívás kezdeményezhetõ hálózaton belül, a Skype hálózatán kívülre irányuló hívásokat pedig a szokásos módon, saját tarifáival számlázza a cég.
+
+
+
+Az új natív Skype-verziókat holnap, a CTIA Wireless kongresszuson jelenti be az eBay tulajdonában álló cég. A kliens már ezen a napon elérhetõvé válik az iPhone okostelefonok alkalmazás-piacterén, az App Store-on keresztül, a Blackberry-tulajoknak azonban májusig kell várni az üzleti okostelefonokhoz fejlesztett Skype megjelenésére. Az iPhone-okhoz készült változat -- mint megannyi hasonló alkalmazás -- az újabb, WLAN-vezérlõt is tartalmazó iPod Touch médialejátszókkal is kompatibilis lesz. A szoftver mûködéséhez szélessávú internetkapcsolat szükséges, de csak WLAN-kapcsolaton keresztül használható a szolgáltatás.
+
+Az ingyenesen letölthetõ alkalmazás integrálja magát az iPhone névjegyzékébe, azaz a felhasználók a program telepítése után gyakorlatilag választhatnak, hogy a korábban eltárolt kapcsolataikat a Skype hálózatából, vagy a mobilszolgáltató hálózatából kívánják felhívni. Bár a Skype asztali változatát egyre többen használják videotelefonálásra, a mobiltelefonos kliensekbe egyelõre nem építik be ezt a funkciót, és az sem eldöntött még, hogy a késõbbi verziókban megjelenik-e egyáltalán ez a lehetõség.
+
+Forrás: CNet
+
+A Skype szöveges üzenetküldõ szolgáltatását külsõ fejlesztõk által készített kliensek (Truphone, Nimbuzz) segítségével eddig is igénybe vehették a felhasználók, az iPhone-hoz és a Blackberry okostelefonokhoz azonban mindeddig nem adott ki saját fejlesztésû alkalmazást a cég. A Skype szolgáltatásait elsõként a Windows Mobile-alapú okostelefonok tulajdonosai használhatták, idén januárban pedig megjelent a kliens Android-platformmal kompatibili verziója, valamint egy javás változat, mely több mint okostelefonra telepíthetõ.
+
+
+A világ legnagyobb mobiltelefongyártója, a Nokia februárban jelentette be, hogy hamarosan több Nokia okostelefon szoftverkínálatának is részét képezi majd a Skype egy speciális változata, melyet szervesen integrálnak majd a készülékek operációs rendszerébe. Az integrált szolgáltatás valamikor a harmadik negyedévben kerül be a Nokia okostelefonok repertoárjába.
+
+A mobilszolgáltatók egy része ugyanakkor máig aggályosan tekint az olyan, mobiltelefonos VoIP-alkalmazások térnyerésére, melyek kedvezményes összegért cserébe (melybõl a szolgáltatók értelemszerûen nem részesednek), vagy teljesen ingyenesen nyújtanak korlátlan híváslehetõséget. A szolgáltatók bevételkiesését valamelyest kompenzálhatja, hogy a VoIP-beszélgetés felépítéséhez elengedhetetlenül szükséges internetkapcsolat árát jobb esetben az operátornak fizeti meg a felhasználó (ha éppen nem WLAN-kapcsolaton keresztül internetezik).

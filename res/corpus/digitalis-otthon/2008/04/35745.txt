@@ -1,0 +1,50 @@
+Kipróbáltuk: Logitech Squeezebox Duet hálózati zenelejátszó
+
+A Logitech számos vezeték nélküli zenelejátszót kínál, melyek közül már kipróbáltuk a Squeezeboxot. Ennek most egy frissített, továbbfejlesztett változata járt nálunk, a Squeezebox Duet, ami hozza az elõd minõségét, de nagyon mélyen kell a zsebébe nyúlnia annak, aki élvezni szeretné.
+
+
+
+Mire jó a Squeezebox?
+
+A Logitech Squeezebox Duet egy vezeték nélküli zenelejátszó, mely PC-tõl távol is képes megszólaltatni a számítógépünkön tárolt zenéket, emellett internetrádiók vételére is alkalmas. A készüléktõl igen sokat vártunk, a magas, négyszáz eurós vételár arra ösztönzött bennünket, hogy az egyébként elnézhetõ hibák, gyengeségek mellett se menjünk el. Ennyiért mindennek tökéletesnek kell lennie.
+
+
+
+
+A vezeték nélküli hangrendszerek prémiumkategóriás képviselõje, a Logitech Squeezebox Duet szakít a hagyományokkal: amíg a piacon kapható többi termék esetében egy LCD-vel ellátott vevõ mellé egy egyszerû távirányító tartozik, addig a Duet esetében ez megfordul: az internetes kapcsolatért és a számítógépes összeköttetésért felelõs, digitális-analóg jelátalakítást és a zenelejátszást végzõ dobozka még kijelzõt sem kapott, ezt a tervezõk a távirányítóba építették.
+
+
+
+Logikus döntés ez, hiszen maga a vevõ nem hordozható: a hangszórókkal kiegészített hifi-hez, valamint a fali konnektorhoz vezetékkel csatlakozik. A jól olvasható, 2,4 hüvelykes színes kijelzõvel ellátott távirányító viszont mozgatható, lehetõvé téve a használójának, hogy akár a konyhában, akár a fürdõszobában teljes, eddig nem ismert komforttal kezelhesse a készüléket.
+
+A csomagolás mintaszerû, akár mélyzöld stílusát, akár a papír és a mûanyag "tojástartók" kidolgozását, anyagát nézzük, így kell egy terméket vásárlásra ösztönzõ módon a polcokra tenni. A Duet két fõ részbõl áll, de ezek áramellátásáról is gondoskodni kell, a vevõegység és a távirányító mellett így két hálózati adaptert is kicsomagolhatunk. A hifi-berendezéssel a mellékelt sztereó RCA-kábel köti össze a vevõt, ránézésre ez sem a kétszáz forintos kategória.
+
+
+
+Lássunk neki
+
+Az üzembe helyezés a távirányító gombjain, illetve vezérlõtárcsáján keresztül történik, a kijelzõn megjelenõ kérdésekre válaszolva gyorsan végigfuthatunk a nyelvet és pár apró beállítást érintõ pontokon. A távirányító egy iPod ClickWheel-féle forgatható vezérlõtárcsával helyettesíti az iránygombokat, de az iPodoktól eltérõen itt ez a tárcsa tekergetés közben tényleg forog. Az észlelt vezeték nélküli (802.11b/g) hálózatokat a Duet megmutatja, ezek közül választva csatlakozhatunk is a sajátunkhoz, amely természetesen lehet titkosított is (az elsõ vezeték nélküli zenelejátszók csak a WEP titkosítást ismerték, a Duet már a WPA2-vel is megbirkózik). A vevõegység hátoldalán Ethernet-csatlakozót is találhatunk, ennek segítségével a Duetet a routerünkhöz is kapcsolhatjuk.
+
+Mielõtt a Duetet az internetre csatlakoztanánk, regisztrálnunk kell a készüléket: a távirányító kijelzõjén megjelenõ PIN-kódot meg kell adni a Logitech squeezenetwork.com weboldalán. Az ingyenes webrádiók ezután éppúgy hallgathatók, mint a fizetõs szolgáltatások -- mint például a Rhapsody és Pandora --, ezekhez a készülék egyaránt képes csatlakozni. A lejátszandó jelfolyamok ezután akár hallgatottság szerint, akár stílus szerint is kiválaszthatók a kijelzõn megjelenõ soksoros, ikonokkal is ellátott listából.
+
+MP3 könyvtárak is a webrádiók mellett
+
+A készülék fõ funkciója, hogy számítógépünktõl távol is elérhetõvé teszi az azon tárolt zenéket, így a dolgozószobából és a gép mellé illesztett számítógépes hangszórók "hatótávjából" kilépve akár másik szobában is hallgathatóvá teszi azokat. Az adatátvitelt vezérelni kell, a számítógépünk ezt segédszoftver nélkül nem képes megtenni, ezért a gépre telepíteni kell a SqueezeCenter alkalmazást, amelyet a Logitech weboldaláról lehet letölteni -- ezt a böngészõn keresztül kezelhetõ programocskát nem is mellékelik a Squeezebox Duethez, hiszen a webelérés amúgy is feltétele a használatnak.
+
+
+
+Lego és hangminõség
+
+A Squeezebox távirányítójának segítségével egy komoly rendszer is kiépíthetõ, ugyanis egyszerre több vevõt is lehet vezérelni egy távirányítóról. Így kivitelezhetõ akár egy olyan konfiguráció is, amely minden szobában tartalmaz egy vevõt, amelyeken akár eltérõ mûsorszám is hallgatható: míg a nagyszobában webrádiót hallgatunk, addig a hálóban egy másik egységen a PC-n tárolt zeneszámok is lejátszhatók. A szobákon áthaladva név szerint válthatunk a vevõegységek között, amelyek között korábbi Squeezebox modell is lehet, ezek éppúgy részei lehetnek egy komplett többvevõs rendszernek. Kérdés csak az, hogy további vevõegységhez hogyan lehet hozzájutni, mert a Logitech a vevõt és a távirányítót csak készletben kínálja. 
+
+
+
+A hangminõség nagyban függ a hifi képességeitõl és a lejátszott tömörített állomány minõségétõl, de azt állíthatjuk, hogy a 24 bites digitális-analóg jelátalakítóval ellátott Squeezeboxon semmi sem fog múlni, soha sem lesz gyenge láncszem a hifi-rendszerben. A tervezõk a hátoldalon optikai és koaxiális digitális kimenetnek is találtak helyet, mely inkább a sokrétûbb csatlakoztatási lehetõség kedvéért került a burkolatra, mint a jobb hangminõség miatt, mert vevõegység analóg hangkimenete is szinte teljesen zajtalan.
+
+Olcsóbb is lehetne, de megéri az árát
+
+A Logitech Squeezebox Duet képességeit és kivitelét tekintve megéri a négyszáz eurós vételárat, de sokan, (köztük mi is) jobban örültünk volna egy olyan terméknek, amely egyszerûbben, kényelmi extrák nélkül kínálja az alapvetõ zenejátszó funkciókat. Reméljük, a Logitech kínálatában szélesebb rétegek számára is eléretõ lesz a jövõben ez a termékcsoport, akár egyszínû kijelzõvel, akár egysorossal. Még a Flickr képmegosztó állományairól is szívesen lemondunk, amely beállítható a távirányító képernyõvédõjeként. Amíg ez megtörténik, olcsóbb, 30-50 ezer forint körüli áron kapható lejátszót továbbra is más gyártók kinálatából kell kiválasztanunk.
+
+Véleménye van?
+Szóljon hozzá a fórumban
+írjon szerkesztõségünknek!

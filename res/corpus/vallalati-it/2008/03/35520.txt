@@ -1,0 +1,24 @@
+MySQL: immár a Sun része vagyunk, gõzerõvel folyik az integráció
+
+Lezárult a MySQL beolvasztása a Sun Microsystemsbe, tudatta a nyilvánossággal ma reggeli levelében Marten Mickos, a korábban svéd cég elnök-vezérigazgatója. Mickos köszöni a sok támogatást a közösség részérõl, és saját bevallása alapján izgatottan tekint a jövõbe. 
+
+
+
+Gõzerõvel folyik az integráció
+
+Mint arról a HWSW is beszámolt, a Sun Microsystems és a MySQL AB január 16-án váratlanul bejelentették, 1 milliárd dolláros tranzakcióval összeolvadnak. A MySQL a világ vezetõ nyílt forráskódú adatbázis-kezelõ szoftvere, a svéd MySQL AB pedig ezzel és a világ második legnagyobb független, nyílt forrású termékekkel foglalkozó vállalata a Red Hat mögött. A cég 25 országban van jelen és mintegy 400 embert foglalkoztat, az Ovum 2006-os elemzése szerint a nyílt forrású adatbázis-piac 49 százalékát tartja kézben.
+
+
+ A tranzakció lezárultával a MySQL a Sun Microsystems szoftverüzletágába olvadt bele, Marten Mickos pedig, pedig alelnökként és a Database Group vezetõjeként csatlakozik a vállalathoz. "Az integráció teljes gõzerõvel halad" -- írja levelében Mickos. "Remélem, tapasztaljátok az értékesítés és marketing tevékenység fokozódását (beleértve az egészoldalas hirdetéseket a Wall Street Journalban és a Financial Times-ban)". Érdemes megjegyezni, hogy az e-mail címek egyelõre mysql.com domainen maradtak, a sun.comra váltás késõbb esedékes.
+
+Mickos szerint a MySQL csapatára mély benyomást tett a meleg fogadtatás és a Sun gyorsasága. Úgy érzi, a felhasználói közösség jóváhagyását fejezte ki a felvásárlással kapcsolatban, amit az is jelez, hogy a letöltések száma eléri már a napi 60 ezret, míg csúcsnapokon 70 ezer fölé is szökhet. Korábbi ígéreteinek megfelelõen továbbra is elkötelezettek a MySQL iránt, hangsúlyozta. "Folytatjuk az üzlet fejlesztését ahogyan korábban is tettük, ugyanolyan elkötelezettséggel a szoftver szabadsága és a profit irányában, de mostantól gyorsabban és további erõforrásokkal."
+
+A logika
+
+Mickos és a vezetõség korábban több kérõ, köztük az Oracle ajánlatát is elutasította, ugyanis függetlenek akartak maradni, és a saját útjukat járni. "De mikor a Sun 2007 végén megkeresett minket, egyszeriben rájöttünk, mennyire fantasztikusan illeszkedik a két vállalat egymáshoz" -- mondta el a HWSW-nek adott interjújában Mickos. "Beszélgetéseink során kiváló technológiai szinergiákat találtunk, hatalmas piaci lehetõségeket egy óriási értékesítési csatornával, és egy olyan vállalati kultúrát, mely a miénkhez hasonló. További okok is voltak. Hirtelen világossá vált számunkra, hogy ez olyan lehet, mint egy tõzsdei bevezetés, csak még jobb". Késõbb hozzátette, "az álmunk az, hogy egy adatbázis-üzletet építsünk ki dollármilliárdos éves bevétellel, és úgy gondoljuk, felgyorsítottuk ezt az utat".
+
+[+]  Beszélgetés Marten Mickossal, a MySQL vezérével
+
+A Sun az akvizícióval azt szeretné elérni, hogy a MySQL ne csak a webes világban, hanem a vállalatok termelési rendszereiben, akár tranzakcionális környezetben is elterjedjen, amelyhez kulcsfontosságú lesz a Sun, mint támogató "hátország" neve, piaci ereje, valamint mûszaki háttere. A nagyvállalati világban, az informatikai infrastruktúra szívében ugyanis csak olyan megoldásoknak van helye, amelyekhez az üzleti kritikus igényekhez igazodó terméktámogatás is elérhetõ. A Sun ezért nem csak egyszerûen megvásárolja a MySQL-t, hanem rögtön egy globális támogatási programot is indít, amelynek keretén belül ugyanolyan szintû támogatást nyújt az adatbázishoz, mint bármely más Sun termékhez.
+
+A relációs adatbázispiac az egyik leggyorsabban növekedõ szegmens a szoftveriparon belül, a Gartner felmérése szerint 2006-ban a teljes piac 12,2 százalékkal 17,7 milliárd dollárra emelkedett. A nyílt forrású adatbázisok (pl. MySQL, Ingres) a piacnál közel háromszor gyorsabb ütemben növekedtek 2006-ban, és a Gartner friss elõrejelzése szerint ez a piaci szegmens 2012-re 1 milliárd dolláros lesz, ami évi átlagban 40 százalékos növekedést jelent.

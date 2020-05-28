@@ -1,0 +1,23 @@
+Elrejti a hatóságok elõl a letöltõket a Pirate Bay
+
+Titkos alagút
+
+A VPN, azaz virtuális magánhálózat lényege, hogy a szervertõl távol lévõ felhasználóknak biztonságos csatornát nyit az internetes kommunikációhoz, ezáltal elméletileg lenyomozhatatlanná téve, hogy a felhasználó honnan lépett be a hálózatba, hol van éppen, melyik internetszolgáltatóhoz tartozik. Ugyanilyen szolgáltatást Magyarországon az iPon Kft. indított nemrégiben IPoltalom néven, melyet a felhasználók a regisztrációt és a fizetést követõen három különbözõ sebességû csomagban vehetnek igénybe. 
+
+A Pirate Bay IPREDATOR névre hallható VPN-je tegnap startolt el, s havi 7 dollárért biztosítja a felhasználóknak az anonimitást. Míg Magyarországon leginkább a UPC által is használt adatcsomag priorizálás kijátszása miatt vesznek igénybe a felhasználók VPN-t, addig egyes országokban a fájlcserélés büntethetõsége miatt. Többek közt a Pirate Bay hazájában, Svédországban is elfogadtak egy olyan törvényt, mely szerint az internetszolgáltatónak kötelessége kiadni az illegális fájlcserélõ tevékenységet folytató felhasználók adatait a hatóságoknak, a VPN használatával viszont a szolgáltató nem lesz majd képes felismerni a hálózatán átfolyó P2P forgalmat, hiszen az egy "alagútban" titkosítva jut el a VPN szerveréig. 
+
+
+
+
+
+Biztonságos?
+A VPN megoldásnak két gyenge pontja van, az egyik az, hogy ilyen esetben a teljes internetforgalom ezen a hálózaton keresztül bonyolódik, ami egy országon belüli szolgáltatónál még nem okoz problémát, de ha valaki mondjuk Magyarországról a svéd VPN-hez csatlakozik, akkor az adatai minden alkalommal megjárják azt a kört oda és vissza is. Viszont a kapcsolat felépítése és bontása is egy pillanatba kerül, így a letöltésre dedikált idõn kívül nyugodtan kikapcsolható.
+
+
+
+A másik probléma pedig a félelem, hogy a VPN-szolgáltató jogi nyomás alá kerül, s mégis kiadja a felhasználók adatait. Akiket pedig egy VPN alól ásnak ki, az már nehezebben védekezik azzal is, hogy nem tudta, hogy illegális forrásból tölt le. A Pirate Bay&nbsp; hangsúlyozza, hogy semmilyen adatot nem naplóz a felhasználói aktivitásokról. Egy jó ideig bizonyára gond nélkül üzemelhet az IPREDATOR, viszont szinte biztos, hogy elõbb-utóbb erre is rászállnak a szerzõi jogi aktivisták.
+Egy nap alatt 180 ezer ember jelentkezett az IPREDATOR-ra, s ebbõl 3
+ezren már kaptak is hozzáférést. Az üzemeltetõk az induláskor jelezték,
+hogy még van néhány apróbb feladat, amit el kell végezni a teljes üzem
+elõtt, de egy hónapon belül minden érdeklõdõ használhatja a
+szolgáltatást. 

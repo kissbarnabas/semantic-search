@@ -1,0 +1,9 @@
+Új iSCSI tárolók a Delltõl
+
+A Dell 2007 végén vásárolta fel az iSCSI tárolók egyik legnagyobb gyártóját, az EqualLogicot. A termékvonalt eddig a PS5000 és PS6000 sorozatra szorítkozott, ezeket egészíti ki a PS4000, amely az belépõszintet jelenti, de az eszközök képességei sok tekintetben felülmúlják a PS5000 sorozat tagjait.
+A PS4000 család jelenleg három modellt számlál, mindegyikbe legfeljebb 16 diszk építhetõ. A legalsó kategóriás PS4000E 1 terabájtos SATA diszkekbõl tartalmazhat 8 vagy 16 darabot, így a maximális apacitása 16 terabájt lehet. A PS4000X-be már percenként 10 ezret pörgõ SAS diszkek kerültek, 400 gigabájtos meghajtókkal a 6,4 terabájtos csúcskapacitás érhetõ el, de a vállalat ígérete szerint hamarosan 450 és 600 gigabájtos diszkekkel is rendelhetõ lesz ez a modell, ezzel a kapacitás 9,6 terabájtis növekedhet. A termékvonal harmadik tagja a PS4000CV, amely már 15 ezret pörgõ SAS meghajtókat kapott, amelyek 300 vagy 450 gigabájtosak lehetnek.
+Az EqualLogic PS4000 modellek mindegyike 256 kötetet és kötetenként legfeljebb 128 snapshotot támogat. Az eszközökön a lemezeket RAID 5, 6, 10 és 50 tömbökbe lehet szervezni a lehetõ legnagyobb adatbiztonság érdekében. Virtualizált környezetben lehet hasznos, hogy az összes modell támogatja a vSphere 4.0 Advance Multi-Path I/O funkcióját, vagyis a tárolók terheléselosztását virtuális gép is biztosíthatja. A VMware virtuális gépek mentése és visszaállítása (VM backup) is támogatott természetesen. Egy vagy több EqualLogic PS6000 
+
+
+
+Az új EqualLogic termékeket kimondottan kis- és középvállalatoknak, illetve nagyvállalatok fiókirodáinak szánja a Dell, a megcélzott feladatok között a tároló-konszolidációt valamint a virtualizált környezetek kiszolgálását említi elsõként a cég. A PS4000E belépõmodell listaára 14 ezer euró körül alakul, ezért az árért egy kontroller és 8 darab 250 gigabájtos SATA diszk jár mindössze.

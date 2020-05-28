@@ -1,0 +1,18 @@
+Biztonsági frissítések Firefoxhoz és Operához -- nem lesz Firefox 3.1
+
+Nyolc biztonsági rést foltozott be a Firefoxban a Mozilla, mely idén másodjára ad ki frissítést a népszerû multiplatformos böngészõhöz. A 3.0.7-es verzióval érkezõ biztonsági javítások közül hat kritikus, egy magas, egy pedig alacsony veszélyességû besorolást kapott a Mozilla saját, négylépcsõs kategorizálása szerint.
+
+
+
+A Firefox különbözõ platformokra írt korábbi verzióiban megtalálható hat kritikus biztonsági rés a böngészõ memóriakezeléséhez, a memóriaszemét kitisztításához, a PNG-könyvtárkezeléshez, a JavaScript-motorhoz és a program felületéhez köthetõ. Az utóbbi két területet érintõ négy biztonsági rést a Mozilla szerint nem egyszerû kihasználni, a cég azonban elõvigyázatosságból ezeket a réseket is befoltozta.
+
+A böngészõ idei második frissítése javítást nyújt egy különösen kritikusnak számító sérülékenységre is, melyet kihasználva rosszindulatú kódok futtathatók a felhasználó számítógépén. A Mozilla a biztonsági rések kijavításán túl több kisebb, a böngészõ stabilitására vagy kompatibilitására kiható problémát is orvosolt a Firefox 3.0.7-ben, így az új verzióval nem tûnhetnek el többé rejtélyes körülmények közt a cookie-k, illetve a program Mac OS X-en futó változata nem akad össze többé a FlashBlock pluginnel. 
+
+
+A nyolc most javított biztonsági résbõl hat érinti a Firefox JavaScript-motorját használó e-mail klienst, a Thunderbirdet is, ehhez azonban csak a hónap közepén várható javítás, a Mozilla addig is a JavaScript-motor kikapcsolását javasolja a felhasználóknak. A program egyébként telepítés után alapállapotban kikapcsolja ezt a komponensét.
+
+Firefox 3.1 helyett 3.5
+
+A Mozillánál a kurrens verziók javítása mellett gõzerõvel dolgoznak a böngészõ következõ generációs változatán, mely elsõsorban új, a korábbinál lényegesen gyorsabb, TraceMonkey nevû JavaScript-motorjával igyekszik majd piacot hódítani a hamarosan megjelenõ Internet Explorer 8-tól, illetve a Microsoft böngészõjének korábbi változataitól. Az új motor fejlesztése azonban tovább tart a vártnál, így az elõször tavaly év végére ígért Firefox 3.1-nak csak március 12-én érkezik meg a harmadik bétája. A fejlesztõk éppen tegnap közölték, hogy a változások jelentõségét jobban érzékeltetve a böngészõ verzióját a további tesztverzióknál és a végleges változatnál 3.1-rõl 3.5-re módosítják.
+
+A Firefox mellett a héten frissült a böngészõpiacon jóval kevesebb befolyással bíró Opera webböngészõ asztali változata is. Az Opera 9.64 elsõsorban egy olyan, "extrém veszélyesnek" ítélt biztonsági rést foltoz be, mely lehetõvé teszi a támadóknak, hogy manipulált JPEG-fájlokon keresztül futtassanak kártékony kódokat. A fejlesztõk emellett több kisebb-nagyobb biztonsági és egyéb javítást építettek az új verzióba, mely letölthetõ norvég cég  weboldaláról.

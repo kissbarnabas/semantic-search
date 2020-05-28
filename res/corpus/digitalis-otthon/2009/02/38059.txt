@@ -1,0 +1,77 @@
+Kipróbáltuk: Nav N Go iGO 8.3
+
+Már 10 hónapja használhatják az utazók a Nav N Go iGO 8 navigációs szoftvert, mely háromdimenziós domborzattal, szintezett utakkal és épületmodellekkel kápráztatta el a vásárlókat. Az azóta eltelt egy évben a szoftver magyarországi TMC-támogatást kapott, bemutatkozott a  szoftver- és térképfrissítéseket végzõ Naviextras portál, most pedig egy komolyabb mérföldkõnek számító új kiadás érkezik.
+
+
+
+Release 3
+
+Márciusban a Nav N Go egy újabb lépéssel tolja elõrébb az iGO 8-at, mégpedig a "Release 3", azaz a 8.3-as verzió bemutatásával. A PDA-khoz szánt szoftverváltozat jelenleg már kész van és csupán a gyártás ritmusának kérdése, hogy hol mikor kerül boltokba. A szoftver új funkciókkal már nem fog bõvülni, esetleg a támogatott készülékek listája hízhat majd tovább -- tudtuk meg Szendõfi Borbálától, a Nav N Go PR-asszisztensétõl.
+
+Az iGO 8.3 nem feltétlenül lesz újdonság mindenki számára, hiszen több PNA-gyártó már az elmúlt hónapokban is ezt telepítette készülékeire. A Nav N Go szerint a közelmúltban a legtöbb OEM-partner már az R3-as verzóra kötött szerzõdést, bár akadt olyan cég is, ami a korábbi verziót kérte. Arról hivatalos tájékoztatás nincs, hogy mely gyártók tértek már át a frissítésre, mely gyártók élnek majd a már eladott készülékeken való frissítés lehetõségével, ezt ugyanis üzleti titokként kezelik. 
+
+
+Nyílzápor 
+
+A PNA-kon nem újdonság
+
+Az viszont biztos, hogy a Magyarroszágon népszerû márkák közül az IconX, Dreimgo és Navon készülékek már ezzel a változattal érkeznek. Ezt ellenõrizni a szoftver súgó részében a verziószám megtekintésével lehet (8.0.x - 8.3.x) legegyszerûbben. A PNA-k frissítésével kapcsolatban minden esetben a forgalmazó az illetékes, illetve amennyiben a Nav N Go-val kötött szerzõdés megköttetett, akkor a nemrég bemutatott hivatalos weboldalon, a Naviextras.com-on keresztül tájékozódhatnak és tölthetik le az új verziókat a vevõk.
+
+A PDA-tulajdonosok viszont biztosan csak márciustól térhetnek át a Release 3 változatra, bár információink szerint egyes dobozos szállítmányokban már ez a változat található meg eleve. Persze ez csak pillanatnyi elõnyt jelent, hiszen a Naviextras-on keresztül a régi változtatot megvásárlók is azonnal fejleszthetnek.
+ 
+
+
+A várva várt táblák 
+
+Most már senki ne vegyen 8.0-át
+
+A legtöbb meglévõ felhasználót bizonyára az a kérdés foglalkoztatja, hogyan alakul majd a PDA/okostelefon verzió frissítés lehetõsége a korábbi 8.0-át birtoklók számára. "Igen, lesznek ingyenes szoftverfrissítések. Jelenleg azon dolgozunk, hogy az R3-alapú szoftverekhez való térképfrissítések és extrák mielõbb elérhetõek legyenek Naviextras.com-on" -- tudtuk meg a cégtõl. "Ezt követõen kerülhet majd sor a szoftververzió-frissítések kiadására egyes támogatott Nav N Go iGO 8.0 alapú eszközökhöz és az SD kártyás Nav N Go iGO 8 szoftverhez. Az viszont elõfordulhat, hogy néhány nagyobb verziófrissítés valóban fizetõs lesz a jövõben"
+
+A megújuló térképformátum miatt a szoftver telepítésével egyidejûleg kell a térképeket is frissíteni, a már ismert módon a Naviextras.com webhelyen keresztül. A Top-Map által biztosított 12 Kelet-Európa térkép, beleértve Magyarországot is, továbbra is ingyenes marad, viszont a többi ország fájljaiért fizetni kell. Azok számára, akik Nyugat-Európában vagy más helyeken is barangolnának, de nem tudják lenyelni, hogy a nemrégiben megvásárolt szoftverükhöz újra térképeket kell venni, megnyugtató, hogy az R1 verzió továbbra is kap támogatást és azok térképei is elérhetõek maradnak. Igaz hozzá kell tenni, hogy az újabb nem Top-Map térképekért ott is ugyanúgy fizetni kell, mint ahogyan eddig is, tehát legkésõbb akkor érdemes átállni a 8.3-ra, ha a fontos célország térképei érdemben változtak.
+
+
+Kifestõkönyv 
+
+A Nav N Go jóvoltából a HWSW elsõként tesztelhette az iGO 8.3 PDA-változatát, ami felhasználói szemmel nem tartalmaz egetrengetõ újdonságokat, mégis számos érdekességre érdemes felhívni a figyelmet. Az elsõ fontos pont, hogy végre a klasszikus PDA-k mellett az okostelefonok is nagyobb figyelmet kaptak: számos olyan készülék, melyet eddig csak különbözõ trükkökkel lehetett rábírni arra, hogy futtassa a magyar fejlesztésû navigációs szoftvert, most bekerült a hivatalosan is támogatottak közé. 
+
+Az okostelefonoké a jövõ
+
+Az ígéreteknek megfelelõen új felbontások is natív támogatást élveznek, mint az Xperia X1 által is használt 800x480 pixeles WVGA. Korábban kézzel  kellett létrehozni egy ilyen felbontású profilt, illetve a konfigurációs fájlban rávenni a szoftvert, hogy ezzel próbáljon meg futni. Most viszont az X1 mellett például a Samsung Omnia, a legtöbb HTC-telefon, illetve a PDA-piacon az újabb ASUS-, HP-, Fujitsu-termékeket is kezeli a program. Sõt, a legtöbb olyan Windows Mobile-t futtató okostelefon vagy PDA, mely 240x240, 320x240, 400x240, 320x320, 640x400, 640x480 vagy 800x480 felbontást használ, külön beavatkozás nélkül képes futtatni az iGO 8.3-at. A megjelenéssel egyidõben frissül a támogatott készülékek listája is, melyen  több mint 50 készülék szerepel majd.
+
+
+2D-ben is forog a térkép 
+
+A korábbinál több támogatott felbontásnak nyilván sokan örülnek, miközben a másik belbecset javító fejlesztés, az új térképformátum felett sok kérdõjel lebeg. Praktikus oldalról nézve a mostantól használt adatbázis legjobban felismerhetõ elõnye, hogy más rendszerben kezeli az utcákat, így lehetõvé válik a hosszú utcák szegmentálása, például adott kerületen belül lehet keresni az utcarészleten belül. Magyarországon ez nem feltétlenül jelent óriási változást, mert bár Budapesten az Üllõi, a Kerepesi vagy a Thököly út lehet, hogy több kerületen át tart, de valójában ez nem jellemzõ probléma. 
+
+Globális szempontok
+
+Ugyanakkor a nemzetközi piacokat egyre jobban szem elõtt tartó Nav N Go számára az Egyesült Államokra is oda kell figyelni, ahol a metropoliszokon belüli navigációt nagyon is segítheti az új rendszer. Az utcaszakaszok elkülönítése mellett például már támogathatóak a nagyvárosi körzetek, az alfanumerikus házszámok és az európaitól eltérõ címrendszerek. Nálunk ez legfeljebb az "1/a, 1/b" típusú számozásnál jön jól, de az USA-ban teljesen megszokott a betûs házszám, (pl.:30W221), illetve Japánban is gondban lett volna eddig a keresõ, mert ott nem használnak utcaneveket. 
+
+Kérdések záporával árasztottuk el a céget azzal kapcsolatban, hogy miért volt szükség az új térképformátumra és mi is az pontosan, de magyarázatként mindössze a fent leírtakat kaptuk. Az útvonaltervezés ezzel szemben nem változott semmit, a két verziót összehasonlítva ezt a tesztek is megerõsítették. Különbözõ rövid, hosszú, városi és országúti távlatokban is ugyanazokat az útvonalakat ajánlotta fel az iGO 8.3 és a 8.0, bár magával az algoritmussal eddig sem voltak gondok -- valójában épp a térképek korlátozott információi vezettek vicces vagy kellemetlen szituációkhoz egyes helyeken.
+
+
+Jól látszik 
+
+Vizuális ingerek
+
+Az átlagos felhasználó számára a navigálás és a térkép megjelenítése jelentik majd a szembetûnõ változást. Az egyik legfontosabb újdonság az autópályákon és fõutakon az útjelzõ táblák megjelenése. Elméletileg minden esetben a kijelzõn is láthatóak lesznek a manõverek elõtt ugyanazok a jelzések, feliratok, városnevek és nyilak, melyeket az utak fölé szokás elhelyezni, magabiztosabbá téve ezzel a vezetõt. A funkción nincs túl sokminden magyaráznivaló, az viszont biztos, hogy utazás közben, fõleg külföldön (például Németország vagy Olaszország autópálya-labirintusaiban) hasznos segítség. 
+
+
+ Szintén a navigálást segíti, de már a városi környezetben, az utak és utcanevek átalakított megjelenése. Korábban a szoftver igyekezett minden utcanevet kiírni, ami zavarossá tette a képet, fõleg, hogy az utak csak méretük alapján lettek megkülönböztetve színekkel. Ezentúl az útvonaltól függõen dinamikusan változik, hogy mely utcanevek lesznek kiírva, a fontosabb utak pedig külön színezést kapnak (a felirat és a nyomvonal is), hogy egy szempillantás alatt azonosíthatóak legyenek kanyarokon és keresztezõdéseken át is.
+
+
+
+Egyszerû a szemnek 
+
+A bonyolultabb városi manõverek megértéséhez (a következõ lehetõségnél fordulj balra, majd fordulj jobbra, menj 50 métert és fordulj jobbra) egy külön jelzést vezettek be a fejlesztõk, ami a hamarosan esedékes manõvereket a térképen is ábrázolja 2D illetve 3D módban is -- a nem merõleges keresztezõdéseknél ez sokat segít idegen terepen. A 2D nézetet preferálók pedig annak fognak örülni, hogy ebben a módban is van lehetõség a nyíl folyamatosan észak felé tájolásának, azaz itt is választható, hogy a térkép forogjon és ne a jármûvet jelképezõ nyíl.
+
+Nem nagy durranás
+
+A Nav N Go iGO 8.3 a tavaly megjelent szoftvernek az elsõ komolyabb átalakítása, a felhasználók közül sokan mégis úgy érezhetik, hogy a térképformátum miatt kialakult mizéria miatt több hátrányt jelent, mint amennyi elõnyt az autópályatáblák vagy a színes utcák adnak. Feltehetõleg ha a térképformátum nem változott volna, akkor nem is lenne nagy jelentõséggel bíró fordulat az egész, néhány nap próbálkozás után sem sikerült komoly különbséget feltárni a két verzió között. Az új jelzések hasznosak, de nem kritikusak, így azoknak a vevõknek, akiket negatívan érintene a frissítés, azok számára nem javasoljuk a 8.3 telepítését, az új beszállók számára pedig adott a helyzet.
+
+Véleménye van?
+
+	Szóljon hozzá a fórumban
+
+	írjon szerkesztõségünknek!
+

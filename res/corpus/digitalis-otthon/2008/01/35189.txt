@@ -1,0 +1,14 @@
+Tovább bõvíti linuxos számítógépei körét a Dell
+
+[TechWorld] Szerdától a Dell újabb számítógépe, a fejlettebb XPS M1330 noteszgép is rendelhetõ Európa egyes országaiban Ubuntu Linuxszal. A Dell blogbejegyzése szerint a linuxos noteszgépet jelenleg Franciaországban, Németországban, Spanyolországban és az Egyesült Királyságban lehet megvásárolni, de hamarosan Észak-Amerikában is kapható lesz.
+
+
+
+Spanyolországban ez az elsõ Dell számítógép, mely Ubuntu Linuxszal, annak is legutolsó, 7.10-es változatával elõre telepítve megvásárolható, az amerikai felhasználóknak pedig még várniuk kell a noteszgépre körülbelül egy hetet. A Dell saját Direct2Dell honlapján keresztül rengeteg kérés érkezett a céghez, hogy további gépeket is tegyenek linuxszal elérhetõvé, a gyártó választása pedig az XPS M1330 noteszgépre esett. A linuxos változat 1330n jelzéssel érhetõ el a kínálatban.
+
+
+A Delltõl az amerikaiak 2007 májusa óta, az európai felhasználók pedig szeptember eleje óta vásárolhatnak Ubuntu Linuxszal elõre telepített számítógépeket, eddig két asztali konfiguráció és az Inspiron E1505n noteszgép közül választhattak. Ez a meglehetõsen szûkös kínálat bõvült most egy újabb hordozható számítógéppel, az XPS M1330-cal.
+
+
+
+Az XPS M1330 a középkategória felsõ szegmensébe tartozik, vékony, 13,3 hüvelykes kijelzõvel szerelt gép, mely csupán 1,8 kg tömegû. A nagyobb teljesítményû, NVIDIA GeForce Go 8400M-GS grafikus lapkával szállított noteszgép játékokat is futtathat, és egyik vonzó tulajdonsága, hogy több színben is elérhetõ. A noteszgép végfelhasználói ára itthon jelenleg 360 ezer forint körül indul 3 év garanciával, Windows Vista operációs rendszerrrel.

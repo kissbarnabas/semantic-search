@@ -1,0 +1,16 @@
+Még idén megjelenhet az Office 2010 nyilvános bétája
+
+Cáfolta azt a korábbi értesülést a Microsoft, mely szerint az Office 2010 bétája nem lesz nyilvánosan elérhetõ. A vállalat határozottan leszögezte, az új irodai csomag fejlesztése a korábbiakhoz hasonlóan zajlik majd, a végsõ simításokhoz pedig fel kívánják használni a felhasználóktól érkezõ visszajelzéseket is.
+
+
+
+"Most még nem tesszük közzé a nyilvános béta megjelenési dátumát, de mindenképpen lesz legalább egy" -- mondta a cég szóvivõje, hozzátéve, hogy a technikai elõzetes továbbra is meghívásos alapon, egy zárt közösség számára lesz elérhetõ, de a korábbiakhoz hasonlóan az Office 2010-bõl is lesz nyilvános béta, amelyet milliók tölthetnek majd le. Az Office 2007-bõl két nyilvános bétaváltozatot is kiadott a Microsoft, egyelõre nem tudni, az Office 2010 esetében hányat terveznek a redmondiak.
+
+
+ Az új Office érkezésének idejét továbbra is homály fedi, csupán az a biztos, hogy 2010 elsõ felében érkezik -- ezt maga Steve Ballmer, a Microsoft elnök-vezérigazgatója mondta el még februárban, egy pénzügyi elemzõk számára rendezett konferencián. Az Office 2007 menetrendje alapján a nyilvános béta 2009 végén, 2010 elején lehet esedékes.
+
+Korábban úgy tûnt, az Office 2010 érkezését az Exchange Server 2010 bejelentésével hangolja össze a Microsoft, a HWSW ismeretei szerint azonban az új Exchange már az idén megérkezik, az Office pedig az új SQL Serverrel egyszerre kerül piacra. Bár az új Exchange is számos olyan szolgáltatást tartalmaz, amely az Outlook 2010-es változata nélkül nem használható, a SQL Server 2010-ben is több ilyen képesség kerül majd.
+
+a Project Gemini nevû kezdeményezés alatt a Microsoft olyan szolgáltatással vértezi fel az SQL Server 2010-et, amely lehetõvé teszi a szoros integrációt a Microsoft Office család tagjaival. Az Office-felhasználók közvetlenül a számukra már ismert felületen érhetik el az SQL Serverben tárolt adatokat, és az Office-ba épített képességek segítségével lényegében saját üzletiintelligencia-alkalmazásokat, egyfajta mash-upokat hozhatnak létre, amelyeket a SharePoint révén akár meg is oszthatnak egymással.
+
+A Microsoft korábban már demonstrálta a böngészõben futó Web Applicationst, ezt leszámítva azonban gyakorlatilag semmiféle információ nem látott napvilágot a programcsomagról. A "webes Office" keretében a felhasználók a böngészõjükön keresztül érhetik el az Office-dokumentumokat, és online szerkeszthetik õket. A Word, Excel, OneNote és PowerPoint online változata kísértetiesen hasonlít majd a PC-re telepített szoftverhez, hasonló lesz a menürendszere is -- a cél az, hogy a felhasználók ugyanúgy tudják majd kezelni, mintha csak a saját gépükön levõ alkalmazást indították volna el.

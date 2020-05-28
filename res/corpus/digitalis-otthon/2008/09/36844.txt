@@ -1,0 +1,17 @@
+Megenyhült a Microsoft, jöhetnek a nagykapacitású HDD-kkel szerelt netbookok
+
+[DigiTimes/HWSW] Változtak a netbookokat építõ számítógépgyártók részére kedvezményes áron kínált Windows XP Home operációs rendszerének licencfeltételei -- a Microsoft lazított a korábbi feltételrendszeren, mellyel saját maga, és a PC-gyártók érdekében leginkább azt kívánta elkerülni, hogy az olcsón kínált netbookok tudásukat és teljesítményüket tekintve ne jelenthessenek konkurenciát a teljes értékû noteszgépek számára.
+
+
+
+A netbookok gyártói számára június végétõl érhetõ el a Windows XP Home változatának kedvezményes árú licenkonstrukciója. A redmondi szoftvercég bár ebben az idõpontban beszüntette a Windows XP mennyiségi OEM licencek értékesítését, az olcsó hordozható számítógépekre továbbra is lehet telepíteni a 2001-ben megjelent operációs rendszert, lévén ezek felépítésükbõl adódóan nem felelnek meg a Windows Vista követelményeinek.
+
+
+MSI Wind U100: hízik a bendõje
+
+A Microsoft a rendkívül olcsón (célpiactól függõen 16-22 dollárért) adott Windows XP licenc elérhetõségét bizonyos korlátokkal tette csak lehetõvé, így egyebek mellett megszabták a kijelzõ maximális méretét, a beépített háttértár és a memória kapacitását, valamint a processzor maximális teljesítményét. A rendszer a speciális licencszerzõdés értelmében így maximum 10,2 hüvelykes képátlójú TFT-vel, 1 gigabájt memóriával, 1 GHz-es órajelû processzorral (kivéve egyes, Intel Atom és a VIA C7-M processzorokkal szerelt modellek) és 80 gigabájtos merevlemezzel rendelkezhet.
+
+
+A szoftvercég ez utóbbi korláton lazított a napokban, a netbookokba így mostantól akár 160 gigabájt kapacitású mobil merevlemezt is építhetnek a gyártók. A termékeikkel hazánkban is jelen lévõ, ismertebb cégek közül az Asus és az MSI a változtatást követõen máris piacra dobta a nagyobb kapacitású merevlemezt tartalmazó Eee PC és Wind netbookokat: az MSI-nél a Wind U100-as, az Asusnál pedig egyelõre az Eee PC 1000H sorozat kerül forgalomba a nagyobb kapacitású HDD-vel. Az újdonságok elsõként a gyártók anyaországában, Tajvanon kerülnek a boltokba.
+
+Egyes, gyártóktól származó információk szerint nem csak a Microsoft, hanem az Intel is meghatározott feltételrendszer szerint kínálja termékeit, elsõsorban az energiatakarékos Atom processzorokat a netbookok számára. A piac 85 százalékát birtokló processzorgyártó a Microsofthoz hasonlóan elsõsorban a kijelzõpanel maximális méretét szabja meg, ezzel elkerülve, hogy a netbookok veszélyt jelentsenek az általában nagyobb kijelzõméretû, Centrino mobil platformra épülõ noteszgépek forgalmára.

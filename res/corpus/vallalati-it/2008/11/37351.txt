@@ -1,0 +1,11 @@
+Nyugodtnak ígérkezik a novemberi patch kedd
+
+Kivételesen kevés biztonsági foltozást ad ki a Microsoft a következõ patch kedden, ami jövõ hétre esedékes. A novemberi frissítési napon egy kritikus és egy fontos besorolású csomag érkezik, melyek egyaránt távoli kód végrehajtását lehetõvé tévõ réseket tömnek be Windows és Office szoftvereken.
+
+
+
+A Windowsok és Office programok számára kiadott patch az összes jelenleg hivatalosan is támogatott 32 és 64 bites Windows verziót érinti, beleértve a kliens- és szerverváltozatokat. A távoli kód végrehajtását lehetõvé tévõ kritikus rés az XML Core Services 3.0-ban található, de alacsonyabb kockázattal a 4.0 és 6.0 kiadásokban is jelen van, derül ki a Microsoft elõzetes értesítésébõl. Ugyanez a foltozás az XML Core Services 5.0-t is érinti az Office szoftverek oldaláról, kezdve a 2003-as kiadásúaktól. 
+
+A biztonsági patcheken kívül egyéb magas prioritású frissítéseket is kiad a Microsoft jövõ kedden Update rendszerein keresztül, ezeket azonban egyelõre nem részletezte. Bár kevés a biztonsági frissítés novemberben, a Microsoft két hete rendkívüli patchet volt kénytelen kiadni egy frissen felfedezett sebezhetõség miatt, melyet kihasználva a támadó egy belsõ hálózaton féregszerûen terjesztheti el kódját, és rootkit trójaikat telepíthet a windowsos számítógépekre, melyek például jelszavakat, adatokat lophatnak gazdájuknak.
+
+A hibát, mely a hálózati erõforrások kezeléséért felelõs Windows Server szolgáltatásban található, már kihasználják férgek, a fertõzések azonban egyelõre elszigeteltnek tûnnek, ugyanis egyelõre nem ismert generikus támadó kód, a sikeres behatoláshoz adott Windows buildre kell szabni azt. A Microsoft maga is úgy eszmélt rá a résre, hogy biztonsági szoftvere rosszindulatú kódra bukkant windowsos gépeken.

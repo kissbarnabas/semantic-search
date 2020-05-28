@@ -1,0 +1,47 @@
+Digitális hadjárat a Magyar Televíziónál
+
+A digitális átállás folyamata a szolgáltatók és a fogyasztók erõfeszítésein túl fõleg a csatornákat és a tartalomelõállítókat állítja komoly kihívás elé. Hazánkban -- akárcsak több európai országban -- a közszolgálati televízió ebben a kérdésben példamutató módon elõre menekül. Az olimpiai játékok ráadásul egy kiváló alkalom volt arra, hogy a digitiális és HD átállás terén a tettek mezejére lépjenek. Szerkesztõségünk a pekingi közvetítés és a digitális átállás technológiai kulisszatitkaiba pillantott bele.
+
+
+
+Az elsõ, sokak számára megnyugtató tény, hogy a digitális átállás nem jelenti automatikusan azt, hogy az analóg technikának búcsút inthetünk. Az analóg platformon földfelszíni sugárzással vagy éppen kábelen keresztül zajlik mûsortovábbítás, míg a digitális platform a mûholdas, a kábeles és az IPTV rendszereken keresztül szolgáltatja az adásfolyamokat. Ezekkel párhuzamosan fut a DVB-T, azaz digitális földfelszíni sugárzás tesztelése a kabhegyi adótorony adáskörzetében.
+
+DVB-T és MPEG4 a népnek
+
+
+Ez utóbbihoz az Antenna Hungária most nyerte meg az üzemszerû sugárzáshoz szükséges pályázatot. Napjainkban egyre több hír szól arról, hogy földfelszíni digitális mûsorszórás, azaz a DVB-T fogja leváltani a jól megszokott analóg földi adást, elõreláthatólag 2012-tõl teljesen. Az MTV két csatornája az m1 és az m2 itt kizárólag HD felbontásban, MPEG4 tömörítéssel megy ki az éterbe. Az SD adás nélkülözésének egyrészt pénzügyi okai is vannak, hiszen megdrágítaná a sugárzást, illetve az MTV saját maga által kijelölt missziója, hogy a magasra tett léccel segítse elõ már a kezdetekkor a jó minõségû set-top boxok terjedését. Ha nem lenne lehetõség nagy felbontású adások fogadására, akkor a nézõk érthetõ financiális okokból az SD-felbontású vevõkészülékhez ragaszkodnának, amit késõbb, a HD-adások terjedésével viszont bizonyára le kellene cserélniük.
+
+Nem kell mindet leszerelni az átállás után
+
+
+Az analóg sugárzás megszüntetése egyelõre igen érzékeny pont és több problémakört is feszeget egyszerre. A törvényi elõírások szerint amennyiben 2011 végére a lakosság legalább 70 százaléka rendelkezik digitális adás vételére alkalmas készülékkel, akkor végleg le lehet, illetve le is kell állítani az analóg mûsorszórást. Viszont arra is gondolni kell, hogy ebben az esetben a nyaralóban, vendégszobában, autóban vagy bárhol elhelyezett második, harmadik tévét is le kell cserélni vagy kiegészíteni egy a már korábban említett digitális vevõkészülékkel.
+
+Elõkészületek
+
+A fenti anomáliák megoldása ugyanakkor nem a Magyar Televízió hatáskörébe tartozik. A közszolgálati televíziónak arra kellett egy elfogadható menetrendet összeállítani, hogy hogyan állnak át több év alatt 100 százalékban a digitális HD technológiára, illetve az eddigi 4:3 képarányról a 16:9-re. Az elsõ lépés a stúdiófelszerelések és a "házon belüli" adatfolyam felkészítése volt az új korszakra. A HD adásfolyam kezeléséhez mindenek elõtt modernebb, nagyobb áteresztõképességû routerekre volt szükség -- ezek az eszközök kezelik, fogják össze és továbbítják a bejövõ videojeleket.
+
+
+A hosszú átmeneti idõszak miatt számos konverter berendezést is be kellett szerezni, egyrészt a felbontások közti átalakításhoz: SD-HD, valamint HD-SD átalakítókat, illetve szükség volt új, a képformátum konvertálásához szükséges eszközökre is. A hagyományosnak tekintett, 4:3-as képarányból 16:9-es, azaz szélesvásznú képet kell produkálniuk ezeknek a berendezéseknek, melyeknek ugyanezt a mutatványt visszafelé is tudniuk kell. A képarány megváltoztatásához az MTV anamorfikus filtereket használ majd a jövõben.
+
+HD-s DVB-T set-top box
+
+
+A nagyfelbontásban érkezõ adások tárolásához szükség volt egy merevlemez alapú videoszerver telepítésére, aminek nyilván masszív tárkapacitással kell rendelkeznie. Kevesek számára nyilvánvaló ugyanakkor, hogy a HD filmek jó része továbbra is szalagos adattárolón keresztül érkezik, így egy "HD videómagnó" beszerzése is kötelezõ volt. A szerkezethez tartozó kazetták a Betacam egységekhez hasonlítanak leginkább, annyi különbséggel, hogy jóval több képi információt, illetve 5.1-es hangot képesek tárolni. Az MTV erre célra egyébként egy Sony HDW-M2000 típusú képmagnót vásárolt.
+
+	     
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                    A cikk több oldalból áll:
+                    
+                    
+                        1. oldal: Digitális hadjárat a Magyar Televíziónál
+                      
+                        2. oldal: Új székház, DVB-T és a 16:9-es Híradó
+                        
+                    
+                  

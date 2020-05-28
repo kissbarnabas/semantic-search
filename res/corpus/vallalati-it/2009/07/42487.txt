@@ -1,0 +1,10 @@
+Rengeteg újdonság a PostgreSQL 8.4 kiadásban
+
+A nyílt forráskódú, BSD licenc alatt terjesztett PostgreSQL 8.4-es kiadása immár képes egyes táblán belüli mûveletek összefogására, és aggregált végrehajtására, anélkül, hogy közbülsõ eredményeket kellene tárolni és újbóli mûveleteket végrehajtani. E mellett az ideiglenes táblák helyét váltja fel a Common Table Expressions, mely a lekérdezés során keletkezõ adatok tárolja, és teszi elérhetõvé a lekérdezés további utasításai számára. Ennek eredményeként lehetõvé válnak a rekurzív lekérdezések, melyek addig ismétlõdnek és frissítik állapotukat, míg az adatstruktúra végére nm érnek, vagy el nem érik a peremfeltételeket. Ez különösen fastruktúrában tárolt adatok esetén hasznos.
+A számos újdonság közé tartozik a TABLE parancs megjelenése, mely a SELECT * FROM utasítással egyenértékû. Az adatbázis-szintû illesztés (collation) azt eredményezi, hogy nem a telepítés jellemzõje a karakterkódolás, hanem azt tetszõlegesen meghatározható egyetlen PostgreSQL adatbázis-kezelõben, és a jövõben akár oszloponként is be lehet állítani. Immár oszlopszintû biztonsági beállításokat is alkalmazhatunk, SSL-azonosítást kérhetünk a csatlakozóktól. A monitorozást segíti a pg_stat_statements modul megjelenése, melynek célja a teljesítmény szempontjából rossz, problémás lekérdezések megtalálásának felgyorsítása, ahogyan a Dtrace és SystemTap eszközök 43 új szondázással gazdagodtak.
+
+A javuló teljesítmény, a szóeleji töredékekre történõ keresés képessége mellett a tárolt eljárások programozása is rugalmasabbá vált, és az adatvisszaállítási folyamat párhuzamosításának köszönhetõen akár kettõ-nyolcszorosára is gyorsulhat az adatbetöltés és az adatbázis objektumok létrehozása. A változások teljes listáját itt lehet olvasni, míg a korábbi kiadásokkal történõ összevetés itt látható.	     
+                  
+                  
+                  
+                   

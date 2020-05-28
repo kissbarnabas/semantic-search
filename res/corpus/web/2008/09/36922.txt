@@ -1,0 +1,14 @@
+A Firefox 3.1 felhasználói is böngészhetnek titokban
+
+Az Internet Explorer 8 és a Google Chrome után a Mozilla Firefoxba is bekerül egy olyan böngészési mód, amely mások számára "láthatatlanná" teszi a felhasználó ténykedését. A Mozilla weboldalán olvasható információk szerint az év végén vagy a jövõ év elején megjelenõ 3.1-es változatban debütál a Private Browsing szolgáltatás.
+
+
+
+
+ A sokszor egyszerûen "pornómódként" emlegetett funkció bekapcsolása után a böngészõ nem tárol semmilyen információt, amibõl a PC-n kideríthetõ lenne, hogy a felhasználó merre járt, milyen weboldalakat látogatott meg, mit töltött le. A böngészõ bezárásakor törlõdnek a sütik, az elõzmények közé sem kerül be semmi, a begépelt jelszavakat sem tárolja el a szoftver, és a mentett állományok is eltûnnek a letöltések listájából. A Firefoxban a korai tervek szerint ezt a címsor feketére váltásra jelzi majd.
+
+
+
+A Firefox 3.1-nek a jövõ hónapban várható az elsõ nyilvános bétája, amelyben a tervek szerint már megjelenik a felhasználó ténykedését láthatatlanná tevõ funkció. A Mozilla oldala szerint a Firefox 3.1 béta kódját szeptember végén fagyasztják be. Hasonlóan több más szolgáltatáshoz, eredetileg ezt is a Firefox 3.0-ba szerették volna beépíteni, azonban nem készült el idõre. A Firefox 3.1-be számos olyan új szolgáltatás kerül, amik idõhiány miatt kimaradtak a 3.0-ból.
+
+A nyílt forrású böngészõ felhasználói egyébként már most is használhatják a Stealther kiegészítést a Firefoxhoz, amely ezt a funkciót valósítja meg. A Stealther a biztonság kedvéért még a böngészõben cache-elt fájlokat is törli.

@@ -1,0 +1,14 @@
+Ötödik születésnapját ünnepli a Gmail
+
+Ezen a héten ünnepli ötödik születésnapját a Gmail. A manapság már etalonnak számító kezelõfelület és levélkezelési módszerek 2004-ben még földönkívüli technológiának tûntek az akkori webes levelezõkhöz képest. Ma akár 20 megabájtos csatolmánnyal is küldhetünk leveleket, pedig pár éve a legtöbb helyen ennyi volt a teljes tárhely.
+
+
+
+A Gmail 2004-ben körülbelül az akkoriban elképesztõnek tûnõ 1 ggiabájt ingyenes tárhellyel kecsegtetett, illetve a levélkezelésben is teljesen új megközelítést alkalmazott. A mappákra épülõ elrendezést kukába dobva a Google webes keresõjét integrálta a levelezõbe, a szûrõk mellé bevezette a címkék rendszerét, illetve az egymáshoz tartozó leveleket, válaszokat egy közös szálba fûzte (conversation view). 
+
+A fejlesztõmérnökök alapvetõ motivációja az volt, hogy elegük volt az akkori levelezõk megoldásaiból és egy sokkal erõsebb eszközt akartak azok kezébe adni, akiknek temérdek levéllel kell megküzdeniük nap mint nap. Az egészen az alapoktól újragondolt elektronikus levelezõ AJAX-ra épült, ami a versenytársaknál gyorsabb és gazdagabb felületet jelentett a kezdetektõl. A biztonsági HTML-változat pedig kielégítõ teljesítményt nyújt a leglassabb betárcsázós kapcsolatot vagy rossz minõségû Wi-Fit használók számára is.
+
+
+A legfontosabb dolgok már öt éve megvannak, s nem is változtak jelentõsen, mára viszont a Gmail több lett mint egyszerû levelezõ. A szöveges chat mellett hang- és videokapcsolatra is van lehetõség, elérhetõek a levelek offline, a nyelvek száma 53-ra bõvült, az ingyenes tárhely pedig közel 7,5 gigabájt lett. A legfrissebb kiegészítõket bemutató Gmail Labs az elmúlt közel egy évben minden hétre tartogatott valamilyen új bemutatót, hiszen 43 hét alatt 43 újdonság látott napvilágot.
+
+A Gmail születésnap a magyar felhasználók, illetve pontosabban a levelezõt magyar nyelven használók számára is hozott meglepetést. A fent említett kísérleti funkciókat tartalmazó Gmail Labs április 1-tõl az eddig kirekesztett 49 nyelven, tehát magyarul is elérhetõvé vált. Így mostantól az újdonságokat azok is igénybe vehetik, akiknek nem fekszik az angol. Mindössze három nyelv maradt ki, az arab, héber és az urdu, valószínûleg az eltérõ karakterkészlet és írásmód miatt. 

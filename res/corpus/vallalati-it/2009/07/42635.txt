@@ -1,0 +1,11 @@
+Kulcsrakész alkalmazáskonténerek SUSE-alapokon
+
+Az Appliance Program révén az alkalmazásokat fejlesztõk olyan célgépeket, úgynevezett appliance-eket hozhatnak létre, melyek egy feladatra szabott SUSE Linux Enterprise Server (SLES) operációs rendszeren (Linux Enterprise JeOS) egy vagy több elõtelepített alkalmazást futtatnak. Az appliance mögötti logika, hogy leegyszerûsítse és felgyorsítsa az alkalmazások újabb példányainak vállalati infrastruktúrába telepítését, vagy ellenkezõleg, azok eltávolítását.
+Saját, specializált rendszerképpel rendelkezvén ezek az alkalmazásspecifikus gépek nem igényelnek hosszadalmas telepítési és konfigurálási procedúrát, ideális esetben akár percek alatt rendelkezésre állhatnak. Az alkalmazások közti teljes szoftveres izoláció ráadásul fokozott megbízhatóságot és a biztonságot is eredményez, egy-egy sikeres támadás vagy összeomlás nem terjed tovább, ráadásul a visszaállítás is gyorsan megtörténhet egy újabb példány hadrendbe állításával, és az adatok visszatöltésével.
+
+A konténerszerû kezelés rendkívüli rugalmasságot tesz lehetõvé a felhasználók és szolgáltatók számára egyaránt, hiszen egy virtualizált és centralizált környezetben néhány kattintással rendelkezésre bocsáthatóak új alkalmazások, melyek a vállalat vagy a szolgáltató IT-felhõjében futnak valahol. A Novell egyúttal bejelentette, hogy az Appliance Program támogatja az Amazon EC2 cloudját, így SLES rendszerképet vagy alkalmazáskonténereket is létre lehet hozni majd benne.
+Az olyan technikai eszközök nyújtása mellett, mint amilyen a appliance-ek létrehozását segítõ Studio Online és KIWI, a Novell technikai támogatást is kínál, továbbá marketingben is segíti az appliance-eket értékesítõszoftverfejlesztõket és megoldásszálítókat, többek közt az árazás kialakításában is. A jövõben olyan fejlesztések várhatóak, melyekkel az appliance-ek életciklusát is szabályozni lehet. A programot számos neves szoftvergyártó támogatta a bejelentéskor, köztük az Adobe, az IBM, az Ingres, az SAP és a VMware is. További részletek a Novell oldalán olvashatóak.	     
+                  
+                  
+                  
+                   

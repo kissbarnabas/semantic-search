@@ -1,0 +1,44 @@
+Hamarosan a boltokban lehet a vezeték nélküli akkumulátortöltõ
+
+A jövõ mobiltöltõje, az eZone számos gyártó, számos készülékét támogatja majd, a koncepció szerint a telefonokat egyszerûen a töltõ közelébe helyezve, csatlakoztatás nélkül lehet majd feltölteni. -- derült ki a Qualcomm bemutatóján. Minden úgy, hogy nem kell precízen elhelyezni semmilyen foglalatba az eszközöket, egyszerûen az egység közelében kell lenniük, sõt, egyszerre, párhuzamosan akár több akkumulátor is tölthetõ.
+
+
+
+ 
+
+
+A töltõállomásba épített tekercs egy mágneses teret, rezonanciát hoz létre, míg a készülékekbe épített kisebb tekercsek képesek felvenni a rezgéseket, elektromosságot indukálva a töltendõ készülékben. A bemutatón szereplõ eszközökre ezeket a tekercseket utólagosan szerelték be, úgy néznek ki mintha nagyobb akkumulátorokkal lennének szerelve, de a megoldás terjedésével ezek könnyedén beépíthetõek bármely eszköz mûanyag borítása alá. Így nemcsak közvetlen kapcsolatra, de semmilyen külsõ kiegészítõre nem lesz szükség a használathoz.
+
+Csak a fémasztal az ellenség
+
+Mivel valóban semmilyen fizikai kapcsolatra nincs szükség, ezért a töltõk teljesen univerzálisak lehetnek, és az is teljesen mindegy, hogy milyen pozícióban teszik rájuk a töltendõ eszközt, ellentétben az indukciós párosítást használó megoldásoknál, ahol fontos a tökéletes igazítás. Az eZone esetében elegendõ rádobni a mobiltelefont, fényképezõt, headsetet a felületre.
+
+
+
+A gyártó szerint akár egy egész kézitáskát is rá lehet dobni a töltõre, a benne lévõ iPod, a telefon és az autóriasztó ezután azonnal tölteni kezd, úgy, hogy a táskában lévõ többi eszköz nem sérül, nem lesz baja például a mágneses bank- vagy belépõkártyáknak sem. Az egyetlen ellensége a töltõnek a fémasztal, ugyanis a nagy mennyiségû fém az eszköz alatt földelésként viselkedik, elvezeti az energiát és megakadályozza, hogy a fent lévõ tekercseken keresztül elinduljon a töltés. Emellett az acél borítású mobiltelefonok sem tölthetõek megfelelõen, de ez a probléma feloldható egy külsõ kiegészítõvel.
+
+
+Az energiaátvitel vezetékek nélkül viszont jóval veszteségesebb a klasszikus megoldásoknál. A Qualcomm állítása szerint a hatékonyság jelenleg körülbelül 40 százalékos, de a nyilvános forgalomba hozatalig az 50-60 százalékos értéket is elérheti, ami még mindig jócskán elmarad a jelenlegi vezetékes megoldásoktól.
+
+
+Megfelel az elõírásoknak is
+
+
+A sugárzás tekintetében a near-field technológia viszont nagyon is jó eredményeket hoz a várakozásokhoz képest. Mivel a rezonancia csak nagyon rövid távolságon belül él, ezért nem lehet egészségügyi kockázatokról beszélni, s már a prototípusok is bõven az amerikai FCC (Federal Communication Commission) által meghatározott sugárzási határértékek alatt maradnak.
+
+
+
+ 
+
+
+Az elsõ piacra kerülõ ilyen termék egy asztali töltõ lesz, ami egy érmegyûjtõ tálra hasonlít majd, és a rendelkezésre álló képek tanúsága szerint elsõ pillantásra inkább tûnik majd szobai dísznek, mint high-tech eszköznek. A töltõ felületére pakolt eszközök a töltés ideje alatt is mûködõképesek maradnak, tehát a GSM, 3G és Wi-Fi hálózatok mûködését nem befolyásolja majd a mágneses rezonancia.
+
+
+
+A Wi-Fi hálózattal való kombinálhatóság pedig további praktikus felhasználási módokat vetít elõre. Egy fényképezõgépet vagy bármely más memóriakártyával szerelt készüléket a padra téve, a késõbb megjelenõ modelleknél már elképzelhetõ, hogy egyúttal az adatokat is letöltik a készülékekrõl, vagy akár a mobiltelefonok adatbázisait szinkronizálják egy másik eszközzel.
+
+
+Nem tudni mikor, de biztosan jön
+
+
+Annak ellenére, hogy a termék késznek tûnik, a Qualcomm továbbra is a kutatási projektek közé sorolja az eZone-t, így természetesen arról sem nyilatkoztak, hogy mikorra várható a publikus megjelenés, illetve az sem tudható, hogy mennyibe fog kerülni egy töltõ, illetve a töltendõ eszközökhöz való kiegészítõ egység. Ami viszont biztos, hogy ez már nem egy koncepció, hanem egy nagyon is komoly fejlesztés alatt álló megoldás, ami a hétköznapokban köszönhet majd vissza, talán hamarabb mint gondolnánk.

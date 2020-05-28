@@ -1,0 +1,12 @@
+Megjelent a Silverlight nyílt forrású mása, a Moonlight
+
+Elkészült a Microsoft Silverlight nyílt forrású implementációja, a Novell égisze alatt fejlesztett Moonlight, amely Linuxon is lehetõvé teszi a Silverlight tartalmak lejátszását. 
+
+
+
+A Moonlightnak az alapja a Microsoft .Net keretrendszer nyílt forrású alternatívája, a Mono, amelyet a Novell irányítása alatt készít Miguel de Icaza és csapata. A Moonlight a Silverlighttól eltérõen nem csak böngészõben mûködik, hanem önállóan is, így akár multimédiás "widgetek" megjelenítésére, futtatására is alkalmas lehet. Bár a Microsoft nagy sikerként értékeli a Silverlightot, amely az internetre kapcsolt PC-k negyedén már megtalálható, valójában a világhálón egyelõre igen kevés a Silverlight-tartalom. Ráadásul -- felhasználói visszajelzések szerint -- több Silverlight-alapú oldal (pl. az NBC olimpiai közvetítései) sem mûködik Moonlight alatt.
+
+
+ A Moonlight kompatibilis az összes népszerû disztribúcióval, beleértve a SUSE Linuxot és az openSUSE-t, a Red Hatet és Fedorát, illetve az Ubuntut is, illetve a Firefox 2.0 és 3.0 változatával -- a részletes kompatibilitási lista megtekinthetõ a projekt weboldalán. A Moonlight 1.0 a Silverlight 1.0 verzióját implementálja, azonban a Microsoft interaktív médiaplatformja már jócskán túllépett ezen, tavaly õsz óta a 2.0 verziónál tart. A Moonlight fejlesztõi idén márciusra ígérik a 2.0 elsõ nyilvános tesztváltozatát.
+
+A Moonligtnak része a Microsoft Media Pack is, amely tartalmazza a Windows Media Audio, Windows Media Video kodekeket. Ez a Firefoxba épülõ modul sajnos csak a Silverlightba csomagolt filmek, videók lejátszását teszi lehetõvé.

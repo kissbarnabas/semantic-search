@@ -1,0 +1,19 @@
+A konszolidációt célozzák meg az IBM Nehalem-szerverei
+
+Az IBM állítja, nemcsak egyszerû platformcserérõl van szó, a System x teljesen megújult. A fejlesztések és a kommunikáció középpontjában az üzemeltetési költségek csökkentése állt. Bõdületes teljesítménybeli ugrásuknak köszönhetõen a Nehalem-alapú szerverek a kiszolgálók nagyarányú fizikai konszolidációjára nyújtanak lehetõséget. Piackutatási adatok alapján az üzemben lévõ szerverek 40 százaléka egymagos, 40 százaléka pedig kétmagos processzorokat használ, ráadásul tipikusan alacsony kihasználtság mellett, így akár 10:1 vagy még magasabb arányú konszolidáció lehetséges.
+
+
+A lóerõk természetesen nem elegendõek, alapvetõ a megfelelõ memóriamennyiség. Az IBM új, egységnyi széles HS22-es blade szervere (jobbra) két Xeon 5500-as mellett például 96 gigabájt DDR3-memóriát is képes fogadni, amivel akár egy tucat alacsony terheltségû rackszervert is kiválthat, legyen szó a rendszerképek, alkalmazások konszolidációjáról, vagy virtualizációs megoldásokról. Egy 2 kilowattos BladeCenter E keretbe legfeljebb 11-13, egy 2,3 kilowattosba akár 14 HS22 is illeszthetõ, amivel gyakorlatilag egy teljes vállalat is kiszolgálható.
+
+Aki nem akar blade keretbe ruházni, vagy nagyobb lokális háttértárra, esetleg nagyobb memóriakapacitásra vágyik, az választhatja az 1U magas x3550 M2 vagy a 2U x3650 M2 kétutas modelleket, 128 gigabájt memóriakapacitással, és rendre 6, valamint 12 maximális hot-swap HDD-hellyel -- immár elérhetõ az SSD-opció is. Ezek az értékek jelentõs elõrelépéseket mutatnak az elõzõ generációhoz képest, a memóriakapacitás például az x3550-höz képest négyszeresére, a HDD-helyek száma másfélszeresére ugrott. Akik még 2009-ben is ragaszkodnak a toronyszerverekhez, azoknak a belépõszintû kétutas x3400 M2, és redundanciával bíró, bõvíthetõbb x3500 M2 szól.
+
+UEFI, IMM
+
+
+A feldolgozási teljesítmény és a kapacitások fokozása mellett az IBM olcsóbban üzemeltethetõvé is kívánta tenni az új System x-eket. A kisebb, de említésre méltó újítások közé tartozik a magas, 92 százalék feletti hatásfokú tápegységek alkalmazása, amivel minimalizálható az energiapazarlás. Ez különösen alacsonyabb, a tápegység névleges teljesítményének töredékét jelentõ terhelésnél jelentõs, ahol megnövekszik a relatív veszteség.
+
+Ennél azonban jóval nagyobb jelentõséggel bír az UEFI, vagyis a Unified Extensible Firmware Interface megjelenése, melyet következõ generációs BIOS-ként is szoktak emlegetni. Az UEFI felváltja a rendkívül korlátozott BIOS-t, szélesebbkörû konfigurálhatóságot biztosít már a gép bootolásakor, naplózást is készíthet, és hang- helyett egyszerûbben leolvasható fényjelzésekkel kommunikálja a problémákat. Az UEFI, melyet a jövõbeni bõvíthetõséget szem elõtt tartva alkottak meg, visszafelé kompatibilis a BIOS-szal, így az azt nem támogató operációs rendszerek BIOS-módban mûködnek. Jelenleg a Windows 2008, és rövid idõn belül a Novell SUSE Linux Enterprise Server támogatja, a Red Hat csak a jövõ év elejére várhaó RHEL 6 kiadásban.
+
+[+]  Brutális teljesítményû az Intel új szerverchipje 
+
+Az UEFI-t egészíti ki az IBM integrált menedzsment modulja (IMM), mely lényegében egy önálló rendszerchip a gépen belül. A távoli felügyeletet lehetõvé tévõ IMM egy 32 bites MIPS processzormagot, DDR2 memóriavezérlõt, Matrox G400 grafikus magot integrál az alaplapi menedzsment vezérlõ, titkosítómotor és más perifériavezérlõk mellett. Az IMM célja a távoli grafikus elérés és billentyûzet/egér adása a gyors beavatkozáshoz, a távoli felügyelet, valamint a logolás. Az IBM minden System x géphez biztosítja az egyes gépek beállítását segítõ eszközöket összegyûjtõ ToolsCentert, valamint egy IBM géppark magasabbb szintû monitorozást és üzemeltetést lehetõvé tévõ Systems Directort.

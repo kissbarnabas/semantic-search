@@ -1,0 +1,22 @@
+2010-ben indul az elsõ 4G LTE hálózat
+
+A TeliaSonera a világon elsõként jelentette be, hogy megkötötte a beszállítói szerzõdéseit az induló 4G-hálózatokhoz, melyeket Stockholmban és Oslóban startolnak majd 2010-ben, szintén elsõként a világon. A svéd fõváros hálózatához az Ericsson, a norvég fõvároséhoz pedig a Huawei szállíthatja a kiépítéshez szükséges eszközöket.
+
+
+
+4G 
+
+Az LTE (Long Term Evolution) a 3GPP (3rd Generation Partnership Project) keretein belüli újabb lépcsõfok az UMTS mobiltelefonos szabvány továbbfejlesztésére, hogy hidat képezzen a jelenlegi technológiák és a jövõbeliek között. Az LTE alapvetõ céljai közt az adók hatékonyságának növelése, az üzemeltetési költségek csökkentése és a meglévõ nyitott szabványokkal való jobb integráció szerepel. Az LTE interfészt a 3GPP Release 8 specifikációkhoz adják hozzá, mely a jelenleg itthon is használt 6-os, illetve a HSPA+ rendszert tartalmazó Release 7-es által kitaposott ösvényen halad tovább. Annak ellenére, hogy az LTE az UMTS leszármazottja, teljesen új rendszereken (OFDMA illetve SC-FDMA) alapszik, melyek támogatják többek közt a többantennás technológiát is.
+
+Az LTE-t bár sokan 4G-s technológiaként emlegeti, köztük egyes piackutatók is, valójában csak megágyaz a valódi 4G-t elhozó LTE-Advancednek, mely a Release 9 része lesz. A 4G kritériumai közt szerepel ugyanis, hogy névlegesen akár 1 gigabites linket is fel tudjon építeni a torony és a terminál közt, amire a Release 8 nem képes, 326,4 megabit/s letöltési és 86,4 megabit/s feltöltési csúcssebességeket specifikál ugyanis. A pre-4G -- vagy a Super3G, ahogyan az NTT DoCoMo hívja -- LTE szépsége viszont abban rejlik, hogy infrastrukturális oldalról elméletileg szoftverfrissítéssel felfejleszthetõ a Release 9 specifikációira majd. Ezek a mobilhálózati technológiák már több tíz megabit/s le- és feltöltési sebességeket ígérnek a gyakorlatban. 
+
+Akár 100 km-re is 
+
+A 4G-szolgáltatások bevezetése egészen új lehetõségeket nyit meg a felhasználók számára, hiszen a mostani, szûkmarkúan mért adatforgalomhoz és az ingadozó, gyakran elégtelen minõségû mobilhálózatokhoz képest látványos ugrást ígér a vezetékes sávszélességeket is bõven meghaladó elméleti maximum. A hatótávolság növelése is napirenden volt, így várhatóan egy cella sugara alapesetben 5 km lesz, de a leírás szerint akár 100 km-es távolságban is lehetséges elfogadható teljesítményt elérni.
+
+
+Sem a TeliaSonera, sem az Ericsson, sem a Huawei nem hozott nyilvánosságra pénzügyi részleteket a szerzõdésrõl, sõt arról sem beszéltek, hogy az együttmûködés milyen távra szól, s mi történik majd a két fõváros rendszereinek telepítése után. Oslo és Stockholm a két legnagyobb piaca a TeliaSonerának hazai pályán, de a szolgáltató jelen van több észak-európai és balti országban és Spanyolországban is.
+
+Élen a Huawei
+
+Az, hogy a TeliaSonera egyik partneréül az Ericssont választotta, szinte senkit nem lepett meg. Viszont a Huawei feltûnése némileg sokkolta a szakmát. A kínai beszállító komoly ügyfélkört épített ki a 3G bevezetések során, UMTS hálózati eszközeivel kemény kihívás elé állította a régi piaci szereplõket, a 4G-versenyben pedig egybõl az élre tör. A 4G-hálózatot kiépíteni szintén igyekvõ két kanadai szolgáltató, a Telus és a Bell Mobility is a Huawei-t nevezte meg jövendõbeli partnereként.

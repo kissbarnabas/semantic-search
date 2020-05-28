@@ -1,0 +1,16 @@
+A HP is csatlakozott a Solarist támogató szervergyártók táborához
+
+A nagyok közül utolsóként a HP is csatlakozott a Solaris 10-et támogató szervergyártók táborához, így mostantól mind az öt jelentõs szervergyártó (IBM, HP, Dell, Sun, Fujitsu Siemens) kínálatában elérhetõk Solarist futtató kiszolgálók. Ezzel a Sun operációs rendszere ugyanolyan "általánossá" vált mint a Windows vagy a Linux, az x86/Solaris platformra fejlesztett alkalmazások száma meghaladja a 8 ezret. 
+
+
+
+A HP a ProLiantek révén a legnagyobb gyártója az x86-szervereknek, az IDC negyedik negyedéves adatai szerint bevételarányos részesedése a 40 százalékot közelíti, az x86 blade-ek szegmensében pedig meghaladja az 50 százalékot is. A HWSW ismeretei szerint a Solaris x86-os változata korábban is ProLiant platformon volt a legelterjedtebb, vagyis még a Sun saját x86-os szervereinél is több HP-gépen használták a 2005 óta ingyen letölthetõ operációs rendszert. 
+
+A Solaris 10, és annak közösségi verziója, az OpenSolaris már eddig is zökkenõmentesen futott a ProLianteken, a gépek szerepeltek a hardverkompatibilitási listában, mostnatól azonban hivatalosan is támogatottá váltak, ami azt jelenti, hogy a Solarist futtató ProLiant-tulajdonosok ugyanolyan szintû technikai támogatást vehetnek hozzájuk igénybe mintha Windowst vagy Linuxot használnának. A HP az elsõ és második szintû támogatást maga végzi, vagyis a legkomplexebb kérdések kivételével házon belül oldja meg a támogatást.
+
+A HP a Sunnal kötött szerzõdés értelmében mostantól viszonteladóként is értékesíthet 1 és 3 éves Solaris 10-elõfizetéseket és teljes mûszaki támogatást biztosít hozzá  ProLiant platformon. A vállalatok szerint az ügyfelek elõnyére válik, hogy közvetlenül a HP-tól vásárolhatnak Solarisszal telepített ProLiant szervereket, illetve teljes körû technikai támogatást is igénybe vehetnek hozzájuk, vagyis nem kell két szállítóval kapcsolatban állniuk. A két cég emellett együttmûködik abban, hogy a Solaris 10-et a lehetõ legjobban integrálják a HP Insight felügyeleti szoftvereivel.
+
+
+ Almási Gábor, a HP iparági szabványos szerverekért felelõs termékmenedzsere a HWSW-nek elmondta, cége Magyarországon is lát üzleti lehetõséget ebben a megállapodásban. "A Solaris 10 kedvelt operációs rendszer. Mostnatól azok, akik heterogén környezetet üzemeltetnek, infrastruktúrájukat egy közös szerverplatformra hozhatják, és a ProLianten futó Solarishoz ugyanolyan támogatást vehetnek igénybe mintha Windowst vagy Linuxot használnának." 
+
+A Sun feltett szándéka, hogy a lehetõ legnagyobb felhasználói bázist gyûjtse szoftverei köré, akár más gyártók hardverein is. Ennek elérése érdekében az utóbbi idõben a cég számos szoftverének forráskódját megnyitotta és a programokat szabadon elérhetõvé tette, fizetni csak a támogatásért kell. A vállalat stratégiája, hogy nyílt forrású szoftvereivel (pl. Solaris, MySQL) beférkõzik a cégekhez, így késõbb jó eséllyel tudja eladni saját hardvereit, további szervereket, tárolókat, illetve kereskedelmi szolgáltatásokat.

@@ -1,0 +1,22 @@
+Többféle ARM-platform érkezik a netbookpiacra
+
+[Digitimes/HWSW] Két éve bukkant fel az elsõ netbook, az Asus Eee PC a tajvani Computexen, és egybõl hatalmas érdeklõdést váltott ki a szakmában. Az idei Computex ismét hasonló izgalmakkal szolgál, ugyanis több ARM-alapú modell is bemutatkozik a nyáron rendezett informatikai kiállításon, riválist állítva a jelenleg egyeduralkodó Intel Atomnak.
+
+
+
+Freescale, Qualcomm, NVIDIA
+
+A Digitimes szokás szerint meg nem nevezett gyártói forrásai alapján legalább kétféle, ARM utasításkészlet-architektúrára épülõ processzort használó netbookot is kiállítanak az idei Computexen, melyet június elején rendeznek meg Tajpejben. Valószínûleg a PC-szállítóknak szóló referenciadesignokról van egyelõre szó, nem pedig végtermékekrõl, jelenleg egyetlen meghatározó márkáról sem tudni, hogy ARM-netbook piacra dobását tervezné. Az ARM-platform elõnyei az alacsonyabb fogyasztás és magasabb energiahatékonyság, kompaktabb méretek és olcsóbb elõállítás.
+
+A tajvani szaklap úgy tudja, a Freescale és a Pegatron (az Asustek számítástechnikai bérgyártó leánya) kiállítják közös gyermeküket, szemben a korábbi sajtóértesülésekkel, melyek a Freescale saját, június végi fórumára tették az ARM-netbook elsõ nyilvános debütálását. A gép lelkét a Freescale i.MX515 ultraintegrált, 65 nanométeres rendszerchip adja, mely egy ARM Cortex-A8 proceszormagra épít, és lényegében az összes szükséges vezérlõáramkört tartalmazza, egy funkcionális platformhoz mindössze egy energiagazdálkodásért felelõs lapka és egy audiochip szükséges a háttértáron és memórián kívül.
+
+A Computexen a Freescale mellett a Qualcomm is megjelenik saját megoldásával, írja a Digitimes, a referenciagépet a Wistron gyártja le. A Freescale-lel ellentétben a Qualcomm bár eddig nem jelentette be hivatalosan, hogy a netbookpiacra történõ átfogó belépésre készülne, ambícióira utalt QSD8672 jelölésû chip tavaly novemberi bejelentésekor, említve, hogy az alkalmas 9-12 hüvelykes laptopok meghajtásához, és fejlettebb, mint a jelenlegi kapható netbookokban található technika. A Snapdragon platformhoz tartozó QSD8672 két ARM-magot integrál, melyek akár 1,5 gigahertzes órajelen is járhatnak a 45 nanométeres csíkszélességû gyártástechnológiának köszönhetõen.  
+
+
+Szintén ARM-processzormagra épülõ Tegra rendszerchipjeivel az NVIDIA az okostelefonok, PNA-k és mobil internetterminálok (MID) piacait célozza, a hírek szerint az MSI-t, a netbookpiac egy korai belépõjét foglalkoztatja a Tegra-alapú netbookok lehetõsége, amit elsõsorban az integrált GeForce magnak köszönhetõ fejlett grafikus képességek magyaráznak. Az integrált GeForce képes arra, hogy egy külsõ kijelzõre 720p vagy akár 1080p (Tegra 650) képet rakjon ki HDMI-n keresztül. Az ARM számára referenciát adhat a PC-piacon, hogy az OLPC-projekt valószínûleg x86-ról ARM-re tér át a következõ generációs modelljében, ennek közvetlen piaci hatása azonban minimális, tekintve az OLPC sikertelenségét, valamint az XO-2 kódnéven ismert modell 2010 végére esedékes megjelenését. 
+
+Kérdõjelek
+
+Az ARM-netbookok piaci megjelenése a harmadik negyedévre várható, egyelõre viszont nehé lenne megmondani, mennyire tudják kiszolgálni a felhasználók igényeit. Ez két tényezõn múlik: a szoftvereken, és az azokat kiszolgáló chipek teljesítményén. A netbookpiacon az ARM-gyártók legnagyobb hátránya az, hogy ARM-processzorokon nem fut semmilyen desktop Windows-rendszer. Erre a problémára kétféle megoldás létezik: vagy meggyõzik az ARM-ban érdekeltek a Microsoftot a Windows portolásáról, vagy rengeteg erõt fektetnek a felhasználók igényeinek feltérképezésére és Linux-alapú operációs rendszerekkel történõ kiszolgálására. Platformjára a Freescale az Ubuntu, a Xandros és a Google Anroid platformokat certifikálta eddig.
+
+Az ARM-alapú chipek teljesítményével kapcsolatban sokkal homályosabb a kép, ugyanis nem ismertek mérvadó publikus összehasonlító mérések az Atom vagy más x86-os chipekkel szemben, így nem tudni, PC-szerû felhasználásban mennyire robusztus, vagy éppen törékeny profilt mutatnak az ARM-processzorok. A Freescale állítása szerint az i.MX515 számára nem okoz gondot akár 720p-s videoanyagok visszajátszása, vagy a Flash tartalmak kezelése. Ezek a produkciók azonban kétségtelenül explicit szoftveres támogatás és hardveres gyorsítás kombinációjának köszönhetõek, semmint a Cortex-A8 mag nyers számítási erejének, mely elemi mûvelet végzésében papíron az Intel Atom teljesítményének felét éri el.

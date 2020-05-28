@@ -1,0 +1,32 @@
+Online szerepjátékok naplófájljaiból kutatják az emberi viselkedést
+
+[Ars Technica/HWSW] Kutatók, pszichológiusok, sõt, víruskutatók is évek óta szemezgetnek az online szerepjátékok (MMORPG) világával, hiszen számukra kitûnõ kutatási környezet lenne a virtuális tér, ahol az emberi természetnek olyan aspektusait lehet megfigyelni, amit a valóságban soha. A Sony-nak köszönhetõen a tudósok álma valóra válhat, ugyanis akadémiai kutatók egy csoportja betekintést nyerhet az Everquest 2 teljes logállományába, ami 60 terabájtnyi tiszta adatot jelent.
+
+
+
+Mit gyûjtötök? -- Mindent
+
+Dmitri Williams, a projektet bejelentõ tudós egyszerûen és viccesen fogalmazta meg, hogyan is zajlottak a tárgyalások a Sony-val. "Mit gyûjtöttök a felhasználókról? -- Nos, mindent... mire van szükségetek? -- Megkaphatjuk mindet? -- Persze, vigyétek." Az eredmény pedig 60 terabájtnyi naplófájl, mely 400 ezer játékos minden virtuális mozdulatát tartalmazza 4 évre visszamenõleg. Mivel az adatok nem köthetõk természetes személyekhez, ezért a beszerzés kiegészült még egy alapos demográfiai felméréssel a játékosok körében, így létrejött egy masszív adathalmaz, melybõl szinte bármilyen következtetést levonhatnak a szakemberek, feltéve, ha képesek megküzdeni ezzel a volumennel.
+
+Õk is ugyanolyanok... 
+
+Érthetõ, hogy sokan szkeptikusan állnak hozzá a virtuális fantáziavilágokból kinyert adatokhoz, hiszen alapvetõen érdektelen információ, hogy ki milyen szörnyeket mészárolt le, vagy milyen ritmusban tudta fejleszteni a karakterét, illetve, hogy milyen képességeket fejlesztett ki és használt. Ezek akár haszontalanok is lehetnek, de már nagyon egyszerû keresésekkel is érdekes tapasztalatokhoz juthatnak a kutatók. 
+
+Virtuális szociológia
+
+Jaideep Srivastava, adatbányászattal foglalkozó számítástechnikus például azt a példát említette, hogy megvizsgálná, hogy egyes játékon belüli gyõzelmek hírét a felhasználók hogyan osztják meg egymással, s az információ milyen ritmusban, milyen gyorsasággal terjed és meddig jut el a virtuális társadalmon belül. Ezt a tapasztalatot kiválóan lehetne használni a valós elõfizetéses szolgáltatásokkal kapcsolatban, ahol a hibákat vagy a pozitív élményeket a felhasználók szívesen megosztják egymással, de eddig nem volt tudható, hogy ez pontosan hogyan történik.
+
+Más kutatók egyszerûen a közösségi hálózat dinamikáját vizsgálnák a játékon belül, kiemelten kezelve azt, hogy milyen szempontok befolyásolják a hálózat növekedését és kiterjedtségét. Érdekes kérdés, hogy a kollektív események, közösségi (információ/tárgy) cserék milyen kapcsolatokat hoznak létre vagy éppen a hasonló viselkedésû emberek, a fizikailag közel lévõk, illetve az ismerõsök ismerõsei között milyen interakciók zajlanak le. Ezek a szociológiában már létezõ és jól kidolgozott koncepciók, ezért a nyers adatokból viszonylag könnyen nyerhetõk ki eredmények, s nem okoz problémát a felhasználók közti üzenetváltások, partnerségi viszonyok vagy éppen virtuális kereskedelmi tranzakciók analizálása sem.
+
+...és bent is ugyanaz történik? 
+
+Érdekes eredmények egy hét alatt is
+
+A vizsgálatok elsõ hetében még csak kóstolgatták a kutatók az információhalmazt, de máris érdekes általános eredményeket tudtak felmutatni. 3000 észak-amerikai játékos adatait vizsgálva kiderült, hogy azok a játékosok, akik 10 kilométeres távolságon belül tartózkodnak a valóságban, azok ötször akkora eséllyel lépnek egymással kapcsolatba, míg az azonos idõzónában tartózkodó játékosok is 1,25-szörös eséllyel kommunikálnak egymással, mint azok, akik egy órával elõrébb vagy hátrébb járnak.
+
+
+Az elvégzett demográfiai kutatások is igen érdekesnek bizonyultak. Ugyan az Everquest 2 mára már nem a tinik kedvence, mégis érdekes, hogy az átlagéletkor 31 év, ráadásul az idõsebb játékosok több idõt is töltenek a virtuális térben, mint a tindézserek. A közhiedelemmel ellentétben a játékosok ráadásul egészségesebbek is, mint az átlag: a testtömeg-indexük rendszerint alacsonyabb, mint az átlagos amerikaié, kevésbé érzik magukat stresszesnek és idegesnek, s csupán csak 5 százalékuk gondolja komolyan a szerepjáték részét a programnak, a többiek egyszerû szórakozást keresnek. Ez az öt százalék viszont faji, vallási vagy szexuális szempontból kisebbségbe tartozik a való világban, s a játékban keresnek valamiféle kompenzációt.
+
+Szimbiózis
+
+A kutatások még gyerekcipõben járnak, de máris látszik, hogy nem csak a tudósok vonhatnak le számukra és a társadalom számára hasznos következtetéseket, de az információval eddig is rendelkezõ játékfejlesztõknek is hálás dolog lehet, ha a végtelen mennyiségû, de kielemezetlen adatok végre minõségbiztosítási, fejlesztési célokat is szolgálhatnak számukra.

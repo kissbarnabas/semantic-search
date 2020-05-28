@@ -1,0 +1,21 @@
+A Google tanult a Gmail összeomlásából
+
+A kedd délelõtti Gmail összeomlás nem csak technikai, hanem kommunikációs szempontból is elgondolkodtatta a Google-t. Azon üzleti felhasználók, akik elõfizetéssel rendelkeznek, már elvárhatják, hogy pontosan értesüljenek arról, hogy ha az Apps szolgáltatások közül valamelyikkel probléma van.
+
+
+
+A Google a keddi kiesést követõen egy teljesen új kommunikációs felületet mutatott be, ahol a háttérben mûködõ szoftver folyamatosan, valós idõben monitorozza a Gmail, Calendar, Talk, Docs, Spreadsheet, Sites, Video szolgáltatások és az Admin felület állapotát. A Google hozta a formáját és egy egyszerû, könnyen áttekinthetõ táblázatba foglalta a dolgokat, ahonnan azonnal leolvasható az aktuális állapota bármelyik modulnak. Amennyiben bárhol gond van vagy volt, akkor egy kattintással a részletes információs felületre jutnak a felhasználók, ahol a kompetens Google mérnökök tájékoztatnak a részletekrõl.
+
+
+
+"A Google Apps Status Dashboard egy újabb felületet képvisel, ami átláthatóvá teszi a Google szolgáltatásait. Azt gondoljuk, hogy ez mindenképp hasznos az üzleti partnereknek és a konzumer termékek felhasználóinak is releváns információt adhat. " -- írta Tessa Prescott, a Google Apps Sales csoportjának egyik tagja.
+
+Most minden rendben 
+
+Az esetleges üzemszünetek során, legyen szó globális vagy lokális leállásról, a felhasználók számára a legkellemetlenebb, hogy nem tudják, hogy mi történik, nem tudják, hogy a saját ISP-jük vagy maga a webes szolgáltató hibája miatt nem érhetõ el valami. Ahogyan korábbi írásunkban is szerepel, az ilyen kiesések során a hibajavítást is lassíthatja, hogy az érintett felhasználók folyamatosan újratöltik az oldalt, hogy lássák mikor éled újra, mint ahogy az ORTT által elrendelt RTL Klub elsötétítést is több százezren nézték, mert kíváncsiak voltak, mikor lesz vége. A Dashboard bemutatásával viszont elegendõ az információs oldlat frissíteni.
+
+[+] Órákra leállt a Gmail 
+
+
+
+A Google lépése szimpatikus, s az is meglepõ volt a keddi leállás után, hogy részletes magyarázattal állt elõ az okokat illetõen: Kedd reggel egy szokványos rutin karbantartást végeztek az egyik európai adatközpontban, ami többnyire nem okoz problémát, mert a fiókok adatai egyszerûen átkerülnek egy másik központba. Most viszont egy újonnan beépített kód, melynek célja, hogy a fiókokat fizikailag közel tartsa a felhasználó tartózkodási helyéhez, túlterhelt egy másik központot. Ez pedig dominó-hatást kiváltva borította meg a többit is.

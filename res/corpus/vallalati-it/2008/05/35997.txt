@@ -1,0 +1,17 @@
+A Home Server egyik adatvesztési hibáját orvosolta a Microsoft, a másikra várni kell még
+
+Javítást adott ki Windows Home Serveréhez, pontosabban annak kliensoldali szoftveréhez a Microsoft, mely egy bizonyos adatkorrupciót okozó hibát javít -- az adatsérülés többi kockázata továbbra sem szûnik meg.
+
+
+
+A Microsoft dokumentációja alapján az NTFS fájlrendszerrel tömörített adatok egyes esetekben nem állíthatóak vissza helyesen, ami részleges vagy teljes adatsérüléshez vezethet a fájltípustól függõen. A hiba érinthet bármilyen Windows Home Servert, mely biztonsági mentésként az NFTS által tömörített fájlokat tárol. A probléma akkor lép fel, mikor egy az NTFS-tömörített fájl mérete nagyobb lesz az eredetinél, és biztonsági mentés során ez a kis adattöbblet elveszik. Jellemzõen akkor eredményez nagyobb méretet a tömörítés, ha a forrásfájl már önmagában alkalmaz valamilyen tömörítést, így például a legtöbb kép, video és zene, ZIP, RAR vagy CAB fájlok.
+
+Ehhez a hibához javítást adott ki a Microsoft, mely nem a Home Servert, hanem a kliensoldali Home Server Connectort frissíti. A frissítést követõen a mentést vezérlõ Connector biztosítja, hogy az NTFS-tömörített adatok is sérülésmentesen kerüljenek a Home Serverre -- a már letároltakon azonban nem tud segíteni. A javítást érdemes minden számítógépen elvégezni, ahol telepítésre került a Connector, de elõtte azt is a legutóbbi verzióra kell frissíteni, és értelemszerûen nem folyhat mentés ezen idõ alatt. Az elviekben a számítógép újraindítását nem igénylõ patch letölthetõ a Microsoft Download Centerbõl. 
+
+
+A jelenlegi javítás nem orvosolja a Windows Home Server más adatvesztési problémáját, melyet az év elején dokumentált a Microsoft. A jelenség akkor lép fel, mikor egyes programokkal fájlokat szerkesztünk vagy másolunk egy kettõ vagy több merevlemezzel rendelkezõ Windows Home Serveren. A hibát akkor léphet fel, mikor a megosztott könyvtárba írt adatokat a Home Server átirányító mechanizmusa beindul, és bizonyos specifikus körülmények között aszinkron állapotba kerülhet az NTFS, a memória és a cache kezelõ, így téves adatok kerülnek a fájlba kiírásra.
+
+[+] A Windows Home Servert mi is kipróbáltuk
+
+
+Az adatsérülés lehetõsége bár egyértelmûen súlyos hibának tekinthetõ, ennek ellenére a Microsoft csak júniusra készül el a tervek szerint a javítással, mely a Power Pack 1 szervízcsomag részeként érkezik -- eredetileg tavaszra ígérte a csomagot a Microsoft, az adatsérülést javító kódot azonban mindenképpen részévé akarják tenni, így bevárják. A hamarosan érkezõ csomag legfontosabb új képességei között a 64 bites Windows Vista támogatását említhetjük, illetve azt, hogy most már magát a szervert is le lehet menteni a beépített eszközök segítségével. Emellett finomítanak a jogosultságkezelésen, valamint lehetõvé tették egyszerre több fájl fel- és letöltését is.

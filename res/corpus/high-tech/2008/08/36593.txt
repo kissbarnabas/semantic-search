@@ -1,0 +1,16 @@
+Percenként 360 lapos nyomtatási teljesítményt ígér a Memjet
+
+Még 2007 márciusában jelentette be a Silverbrook cég, hogy megalkotta új tintasugaras technológiáját, az erre épült nyomtatók 60 lapot is képesek lesznek elõállítani percenként. Mi több, a technológia gyakorlati teljesítményhatárát percenként 360 lapra teszik a fejlesztõk az irodai nyomtatók szegmensében. Egyelõre ugyan csak kísérleti nyomtató modellek állnak rendelkezésre, de már megvan az ütemterv az ez év végi, jövõ év eleji piaci bevezetésre.
+
+
+
+A Silverbrook nem Memjet terméknév alatt fog nyomtatókat gyártani, hanem a technológia kulcs elemét, a teljes szélességû fejet fogja áruba bocsátani nyomtatógyártók számára. Ez a komponens a nagy sebesség kulcsa, hiszen segítségével nem kell a fejnek ide-oda járnia a papír felett, csupán a papírt húzza el alatta a mechanika. A teljes szélességû fej félvezetõ technológiára épül: elektrolitográfiai eljárással két centiméteres hosszúságú, 6400 egyedileg vezérelhetõ fúvókát tartalmazó fej lapkákat állítanak elõ, melyeket ötszínû használatra alakítanak ki. Ezekbõl áll össze a teljes lapszélesség, a fejek mûködését egy különálló vezérlõlapka hangolja össze, hogy másodpercenként akár 900 millió, pikoliteres méretû cseppecskét lõjenek a papírra. Egy A/4-es nyomtatóhoz így körülbelül 70 ezer fúvókát fog tartalmazni egy Memjet fej.
+
+Egyelõre csak kis formátumú fotónyomtató mûködését demonstrálta a Silverbrook, de már rég rendelkezésre áll a nagyobb változatok bevezetése ütemtervének korai változata. Mostanra már kaphatónak kellene lennie a kis formátumú fotónyomtatónak és õsszel már az irodai változatnak is boltban kellene lennie. Persze semmi szokatlan nincs egy új technológia esetében a csúszásban, no és nehéz lehet stabil OEM partnereket találni, akiknek a segítségével szembe lehetne szállni a piac nagyjaival. A cég szóvívõje szerint sok (és nem eredménytelen) bemutatót tartottak a DRUPA kiállításon.
+
+Memjet nyomtatófej prototípusa.
+
+
+A jelenlegi hírek szerint ez év végén érkeznek az A/4 (és Letter) szélességû nyomtatófejek és a kapcsolódó komponensek, így 2009-ben  már az üzletekben lehetnek az új, szupergyors nyomtatók. A fotónyomtató (10x15 cm) tervezett utcai ára 150 dollár, az irodai A/4-es készülék 200, a nagyformátumú poszternyomtató 5000 dolláros áron lesz hozzáférhetõ a tervek szerint.
+
+Érdemes megemlíteni, hogy a HP skálázható nyomtatási technológiája párba állítható a Memjet fejlesztéseivel, mert a nyomtatófej konstrukciója  ugyanezen az elven alapszik. A HP esetében már termék is van, egy multifunkciós irodai nyomtatócsalád, a CM8060, emellett a HP nyomtatókioszkjaiban is ezek a fejek dolgoznak. Kísérteties módon itt is 60 lap/perc a monokróm teljesítmény, csakúgy, mint a Memjet termékénél. A két cég mindeddig nem adott ki olyan tartalmú közleményt, hogy bármit is közösen fejlesztenének, így a hasonlóságokat kénytelenek vagyunk a véletlennek és a folyadékdinamika kényszerítõ erejének betudni.

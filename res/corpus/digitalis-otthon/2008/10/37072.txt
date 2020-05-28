@@ -1,0 +1,70 @@
+Az identitás teljes zavara: ASUS N10J netbook
+
+Az ASUS kettészelte netbook kínálatát, az Eee PC-k mellé a külön utakon járó N10J is becsatlakozott, melyet most kipróbáltunk. Már a legelején elmondhatjuk, hogy az Intel által hangoztatott mondatra, miszerint a netbook és a notebook kategória nem fog elmosódni, a tesztünk alanya száz százalékban rácáfol.
+
+
+
+Találós kérdés: Mi ez?
+
+Az ASUS N10J ellentmond minden hagyománynak. A gép a netbookok többségének vérkeringést biztosító Intel Atom N270 processzor köré épül, ám e beltér nagyon erõs és inkább az ultrahordozható csúcsnoteszek sajátja. A kijelzõ is netbookos, a LED-háttérvilágítású tízhüvelykes fényes panel 1024x600 képponttal gazdálkodik. Az ASUS új hordozható gépe ha beszélni tudna, csak megszeppenve motyogna a "ki is vagy te valójában?" kérdésre.
+
+
+
+Az N10J szinte mindennel rendelkezik, amivel hordozható számítógép rendelkezhet, sõt, netbookos viszonylatban teljességgel maga alá gyûri az egész jelenlegi kínálatot. A száraz technikai adatai nem is annyira szárazak, sõt, kifejezetten jól csúsznak: a 320 gigabájtos merevlemez és a két gigabájtnyi rendszermemória közel sem általános egy netbook esetében. Ami közös azonban a netbookokkal, az az 1,6 gigahertzes Atom processzor, mely -- ha drága ultrahordozható gépek szívéhez hasonlítjuk -- mindössze gyengécske harmatként értékelhetõ.
+
+Az ASUS szupernetbookjában (innentõl így nevezzük) az extrák is egyedülállóak, 1,3 megapixeles webkamera fakaszthatja mosolyra a neten kapcsolatot tartók táborát, a biztonságért epekedõk szívét pedig a hagyományos gombelosztású tapipadba integrált ujjlenyomat-azonosító melengetheti. A gépbe az SD/SDHC memóriakártyák mellett még egy  Express Card is betolható. Az N10J mindezek mellett kétféleképp köthetõ külsõ megjelenítõkre, mert oldalán HDMI- és VGA-kimenet is megtalálható.
+
+
+
+A "szupernetbook" 802.11 b/g/n Wi-Fi csatolóval rendelkezik, de természetesen vezetékes hálózati kapcsolatra is alkalmas. A kábelt fogadó aljzat mellett még három USB 2.0 kapuba is lehet vezetékeket dugni, a szokásos mikrofon és fülhallgató 3,5 milliméteres jack aljzatai már csak szerény adalékok a fentiek mellett. A felsorolásnak azonban még nincs vége, kimaradt még két krómozott kapcsoló, melyek egyike a vezeték nélküli hálózati adaptert kapcsolgatja ki-be, a másikkal pedig a beépített grafikus chipek között válthatunk. Hoppá!
+
+
+
+Extra a javából
+
+Az N10J alaplapi lapkakészlete egy Intel GMA950 videochipet zár magába, melyet a gépház bal oldalán található második krómozott kapcsoló tesz aktívvá, vagy kapcsol ki. Videokártya nélkül nehéz az élet, a monitor tartalmát valaminek dirigálnia kell, a kapcsoló állásától függõen lép az Intel helyett mûködésbe a 256 megabájtnyi memórival gazdálkodó NVIDIA 9300M GS lapka.
+
+A kérdés nem lett volna könnyen megválaszolható pár éve, akkor csak a játékok kiszolgálását hoztuk volna fel érvként az NVIDIA mellett. Itt közbeszúrjuk, hogy csak próbaképpen, a hardvert megmozgató szándékkal lefuttattuk mindkét chipen a 3DMark 2003 tesztprogramot, mely 707, illetve 4753 pontot osztott ki a kijelzõ natív felbontásában. Most, a HD-korszak kezdetén a nagyfelbontású filmek nem elégszenek meg a fapados megoldásokkal, az ASUS N10J zökkenõmentesen játszik le minden 720p, valamint 1080p tartalmat, természetesen csak az NVIDIA videochip segítségével.
+
+
+
+A mozizás közben jól látszik, hogy a processzor válláról le lehet venni a terhet, a kisebb felbontású, 720p videók WMV HD formátumban mindössze 50-60 százalékban, 1080p felbontásban pedig csak 60-70 százalékban terhelték az Atomot. A H.264 tömörített állományok még kevésbé izzasztották a hardvert, bár az Intel-vezérlõvel ez még mindig nézhetetlen diavetítés volt, míg a GeForce közremûködésével a folyamatos képet 30 százalékos processzorterheltség mellett is megkaptuk. Az N10J HD-videózáshoz elsõrangú gép, illetve eddig az egyetlen igazán alkalmas netbook.
+
+Nyers erõtlenség
+
+A gép 1,6 gigahertzes Intel Atom N270 processzora amúgy a hétköznapi feladatok ellátására tökéletesen elegendõ teljesítményû, kicsit alulmaradt szerkesztõségünk 1,5 gigahertzes, Banias magos Pentium M processzorral szerelt IBM x41 Tabletének sebességétõl, mellyel az ASUS-t egy 81 megabájtos állomány RAR betömörítésének idejére eresztettük össze. Az versenyben a ma már korosnak számító x41 tablet fölényesen nyert, 2:48 perces idejével az N10J 3:13 perce állt szemben. Ha valakinek nincsenek extra igényei, az ASUS N10J-vel is elégedett lehet, bár a gép teljesítménye igen messze van a mai csúcstól.
+
+
+ A szupernetbook (már nagyon szeretjük ezt a szót) rendelkezik árnyékos oldallal is, szerencsére ez a naposat nem feledteti. A gép a hatcellás akkumulátorral 1614 grammot nyomott digitális mérlegünkön, ez alig a jóval méretesebb X41 tablet 1663 grammjánál. A túlsúly -- amely inkább színizom, mint háj -- mérsékelhetõ a háromcellás akkumulátorral, ennek felcsatolása 1,4 kilogrammossá teszi többi netbookhoz képest még így is nehéz gépet. Az ASUS N10J mellesleg az egyetlen, mely a HP 2133-as netbookjánál nagyobb, mérete számokba öntve 276x195x37 milliméter.
+
+
+
+Akkus üzem
+
+Az akkumulátort a gépre telepített Power4Gear gyári segédszoftver menedzseli, három üzemmóddal, melyek közül kiválasztható olyan is, amelyben a gép akár öt és fél órán keresztül képes üzemelni. Ha az Intel videochip helyett az NVIDIA 9300M GS lapkát választjuk, akkor az elérhetõ maximum egy órával kevesebb. Ha nem a leginkább energiatakarékos üzemmódban várjuk el a lehetõ legtöbbet, akkor is legalább két és háromnegyed órán keresztül mozizhatunk a géppel. Örömteli, hogy a netbook processzorhûtõ ventilátora visítással, sivítással nem rondít az élvezetekbe, csak közel hajolva hallható halk fújással jelzi, hogy épp szükség van rá.
+
+Por, zsír és karc
+
+A külsõrõl még nem ejtettünk szót, az N10J kellõen merev, egyik sarkánál felemelve sem hajlik a váz. Ugyanez a merevség a kijelzõ vastag kávájára is igaz, nehéz a két zsanér által húzott egyenestõl eltérõ szögbe görbíteni a felsõ élt. Maga az anyagválasztás remek, a tapipad felülete példás, ám a zongoralakk keret a kijelzõ körül csak az elsõ órákban szép, utána magabiztosan és megállíthatatlanul gyûjti az ujjlenyomatokat és ami rosszabb, a port is.
+
+
+
+Gond a billentyûzet feletti, az amúgy remek hangú Altec Lansing sztereó hangszórókat hirdetõ krómozott résszel is adódik, az exkluzív hatású csík a kijelzõ minden felnyitásakor és lecsukásakor mentetetlenül karcolódik. Ez a csík és a kijelzõ kávájának alsó része egymással sajnos fizikailag is érintkezik, pár hónapos használat után igen csúnya lesz. A tapipad mellett a billentyûzet is nagyon jó, a hagyományos noteszgép-billentyûzeteknél nem kisebb gombjai igen határozott nyomásponttal rendelkeznek, porózus felületük miatt igen kényelmes rajtuk a gépelés. A tesztgépen angol kiosztású változat volt, de a hazai boltokba alighanem már lokalizált verzióval kerül az N10J. 
+
+
+
+Nagyobb kell bele? Három perc!
+
+Az ASUS N10J két gigabájtnyi memóriáját jó ideig nem kell bõvíteni, ugyanígy a 320 gigabájtos merevlemezhez sem kell jó ideig nyúlni, ezért kevésbé örömteli, --ám még mindig az -- hogy ezeket a részegységeket pofonegyszerû cserélni. Három csavar, és a hatalmas fedél levétele után hozzávérhetõ a memóriamodul, valamint a SATA merevlemez is. Bármely alkatrészt cserélnénk, három perc alatt végeznénk a feladattal.
+
+
+
+Olcsón jót? Drágábban sokoldalúbbat?
+
+A fenti értékeket és jellemzõket torzíthatja, vagy épp fényesítheti a hazánkban leginkább fontos paraméter, az ár. Bármilyen gyors és jól felszerelt egy gép, csak akkor számítanak a pluszok igazán, ha ezekért nem kell az átlagnál jóval mélyebben zsebbe nyúlni. A 90-100 ezer forintos átlagnál az N10J bizony jócskán többe kerül. A tesztváltozat 156 ezer forintos bruttó ára elsõre szívbemarkoló, ám az átlagos netbookokhoz képest egy gigabájtnyi plusz memóriát, sokkal nagyobb merevlemezt, és egy plusz videochipet is kapunk. Ha az átlagnál még mindig jóval nagyobb, 160 gigabájtos merevlemezzel és egy gigabájtnyi rendszermemóriával is megelégszünk, 138 ezer forint kifizetésével is N10J tulajdonossá válhatunk.
+
+Az amúgy igen szép ár-teljesítmény mutatón némiképp ront, hogy ebben az árban nincs benne az operációs rendszer. Ennek ellenére feltétel nélkül ajánljuk azok számára, akik hordozható, sokoldalú, kicsi gépben szeretnék megkapni a HD-videózást és néha játszanának is, ráadásul nem a legrégebbi játékokkal. Ha valakinek a választása erre a gépre esik, ne noteszgépet, és ne netbookot keressen, inkább csak hordozható gépet. Az ASUS N10J nagyon sokoldalú gép, bár fekete bárány is, inkább netbook, mint ultrahordozható notesz, bár általa e két kontúros kategória igen erõsen látszik elmosódni.
+
+Véleménye van?
+Szóljon hozzá a fórumban
+írjon szerkesztõségünknek!

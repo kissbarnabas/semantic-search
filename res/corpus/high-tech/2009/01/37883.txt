@@ -1,0 +1,17 @@
+Készenléti üzemmódban nulla wattot fogyasztó PC-t dob piacra a Fujitsu Siemens
+
+A Fujitsu Siemens Computers a soron következõ CeBIT-en mutatja be elsõ olyan asztali számítógépét, mely a gyártó állítása szerint zéró watt energiát fogyaszt készenléti üzemmódban. A rendszergazda ráadásul a normál készenléti állapottal megegyezõen így is elindíthatja és menedzselheti a PC-t távolról.
+
+
+
+Idén nyáron kerülhetnek kereskedelmi forgalomba a Fujitsu Siemens Computers elsõ "zero-watt" PC-i az Esprimo Green PC márkanév alatt -- derül ki a gyártó elõzetes tájékoztató közleményébõl, mely az idei év legnagyobb európai számítástechnikai szakkiállításának, a március elején kezdõdõ CeBIT-nek az újdonságairól lebbenti fel a fátylat. Egyelõre rejtély, hogy a készenléti üzemmód teljesítményfelvételét hogyan sikerült a kikapcsolt állapottal egyezõ szintre szorítania a gyártónak.
+
+Nem a zero-watt PC a környezettudatosságra különösen nagy hangsúlyt fektetõ Fujitsu Siemens elsõ olyan számítástechnikai berendezése, mely készenléti üzemmódban nulla wattot fogyaszt: a cég a szûkebb szakmának szóló, saját maga által szervezett 2007-es Visit kiállításon mutatta be nullawattos monitorait, melyek késõbb, a 2008-as CeBIT alkalmával kerültek a nagyközönség elé. A mérnökök ennél a megoldásnál egy "kill switch"-nek nevezett elemet építettek be a videobemenet mögé, ami abban a pillanatban, hogy megszûnik a jel, áramtalanítja a monitort, amikor pedig újra érkeznek adatok, újra áram alá helyezi a rendszert. Bár a nullawattos monitor ötlete egyedi és használata kétségtelenül környezetkímélõbb, információink szerint egyelõre nem tekinthetõk bombasikernek az egyébként hazánkban is kapható típusok.
+
+
+
+
+
+A modern számítógépek és a hozzájuk kapcsolt megjelenítõk a gyártótól és a pontos felépítéstõl függõen ma 1-5 wattnyi, esetenként ennél jóval több energiát igényelnek készenléti üzemmódban. Egy jövõ januárban hatályba lépõ EU-rendelet a gyártókat a jelenlegieknél környezetkímélõbb megoldások elõállítására sarkallja: 2010. január 5-tõl csak olyan elektronikai termék (szórakoztatóelektronikai vagy számítástechnikai eszköz) hozható forgalomba az Unióban, mely készenléti állapotban 1 wattnál kevesebb teljesítményt vesz fel. A Fujitsu Siemens zero-watt megoldásai értelemszerûen bõven túlteljesítik ezt a sztenderdet.
+
+A Fujitsu Siemens a CeBIT-en a készenlétben nulla wattot fogyasztó PC-i mellett egyebek közt bemutatja elsõ notebook vékony kliensét, az Esprimo Mobile Thin Client-et, mely a szokásos módon, a Windows Terminal Serveren keresztül futtatja az alkalmazásokat, a rendszer alapvetõ mûködéséhez szükséges operációs rendszert pedig flashmemóriáról tölti be. A noteszgép vékony kliens igény szerint WLAN-vezérlõvel, Bluetooth-modullal és HSDPA-modemmel is ellátható. A gyártó mindezen túl több új, energiahatékony vállalati megoldást és egy új, noteszgépeket védõ lopásgátló rendszert is bemutat majd a hannoveri kiállításon felállított standján.

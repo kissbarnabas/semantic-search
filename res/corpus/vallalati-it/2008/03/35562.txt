@@ -1,0 +1,24 @@
+Keddtõl letölthetõ a Windows Vista SP1
+
+Megbízhatónak tûnõ források szerint március 18-án, kedden érkezik a felhasználókhoz a Windows Vista elsõ szervizcsomagja, amely már február elején elkészült, de csak holnaptól lesz elérhetõ a nagyközönség számára a Microsoft Download Centeren és a Windows Update-en keresztül. Egyelõre csak az öt kiemelt nyelven (angol, német, francia, spanyol, japán) jelenik meg a Vista javítócsomagja. (Frissítés: az SP1 megérkezett).
+
+
+
+Mit kapunk?
+
+A Vista SP1-ben fõképp hibajavítások és a teljesítményt fokozni hivatott finomítások kaptak helyet, azonban az elõzetes változatokkal készített tesztek szerint a szervizcsomag telepítése lényegében semmilyen hatással nincs az operációs rendszer sebességére, vagy az alkalmazás-kompatibilitásra. A javítócsomagban érkezik néhány új funkció is, a BitLocker például már képes lesz több meghajtót is titkosítani, illetve változások történtek az asztali keresõben is.
+
+ A Vista SP1 megnehezítheti -- egy kis idõre -- a kalózok dolgát is, olyan kódok kaptak helyet a csomagban, amelyek kivédik a legnépszerûbb aktivációs trükköke (pl. BIOS-átírás, vagy a 2099-es trükk), A redmondiak állítása szerint az eszközölt változtatásokkal a jelenleg használt kalóz Visták túlnyomó többsége "semlegesíthetõ". A gyanús gépeket újra kell majd aktiválni azonban azt már most tudni lehet, hogy néhány kiskapu megint nyitva maradt a kalózok számára.
+
+
+
+A Windows Vista esetében azonban némileg enyhül a Microsoft szigora. A nem (megfelelõen) aktivált operációs rendszer eredetileg csupán 30 napig mûködõképes, ezt követõen úgynevezett korlátozott üzemmód lép életbe, ekkor a Vista csak az Internet Explorert engedi megnyitni, és a felhasználónak óránkéntújra be kell jelentkeznie. A WGA ellenõrzéssel kapcsolatos nehézségek miatt a Vistában levõ ún. Csökkentett Mûködési Módot most a Microsoft megszünteti, de ezen rendszerek felhasználói folyamatos figyelmeztetést kapnak majd, hogy a szoftverük valószínûleg nem eredeti.
+
+Áprilistól mindenki megkapja
+
+Amint arról lapunk is beszámolt, az SP1 megjelenésének elcsúsztatását meghajtóprogramokkal kapcsolatos probléma okozta. Egyes, nem megfelelõen megírt driverekkel nem kompatibilis a Vista SP1, és a telepítés során az operációs rendszer folyamatosan újraindul. A Microsoft ezért idõt hagyott a gyártóknak arra, hogy kijavítsák ezeket a drivereket, de a Windows Update és a Microsoft Download Center egyaránt megvizsgálja a látogatók gépét problémás driverek után kutatva, és ha ilyet talál a gépen, fel sem ajánlja az SP1 telepítését -- bár letölteni azért le lehet.
+
+
+ A Vista-tulajdonosok kézzel is telepíthetik az SP1-et, de a Windows Update szolgáltatáson keresztül is hozzáférhetnek majd, de egyelõre itt is külön kell kérniük a telepítést. Április 18-tól már mindenkinek automatikusan települ a Vista SP1, aki aktiválta az automatikus frissítéseket az operációs rendszerében -- addigra valószínûleg az összes lokalizált változat, köztük a magyar is elkészül majd.
+
+Az SP1 érkezésével párhuzamosan olcsóbb is lesz az operációs rendszer, az Egyesült Államokban a dobozos Vista Ultimate ára 399 dollárról 319 dollárra csökken, az upgrade verzióért 259 helyett 219 dollárt kérnek majd. A Vista Home Premium upgrade verzió 159 dollár helyett 129 dollárért lesz majd megvehetõ. Az akció célja, hogy a korábbi Windows-változatokat használókat átcsábítsák az új operációs rendszerre. A magyarországi árváltozások alighanem az SP1 magyar változatának érkezésével lépnek életbe, ezekrõl azonban egyelõre semmit sem tudni.

@@ -1,0 +1,16 @@
+ABI Research: a középkategóriás mobiltelefonokba is beszivárog a Linux
+
+[Techworld] Az ABI Research legújabb tanulmánya szerint a Linux számottevõ részesedést szerezhet a jövõben az okostelefonok piacán és akár a középkategóriás készülékekbe is beszivároghat. A megállapítás alapja az a szép számú futó projekt, melyeknek célja a Linux a tenyérnyi hordozható eszközökbe juttatása, illetve ennek promotálása és szabványosítása.
+
+
+
+A tanulmány szerint a projekteknek köszönhetõen 2013-ban már minden ötödik közép- és felsõkategóriás mobiltelefonban linux-alapú operációs rendszer futhat majd. Az ABI Research szerint bár jelentõs különbségek vannak a LiMo Alapítvány, a Google Android kezdeményezés és a Nokia saját próbálkozása, a Maemo között, a cél mindháromnál azonos.
+
+A mobil operációs rendszerek fejlesztõi bevételt szerezhetnek az egyébként költséghatékony szoftverek licencelésével, bár Stuart Carlaw, az ABI alelnöke szerint óvatosan és körültekintõen kell megválasztaniuk, hogy a szoftver mely komponenseit teszik licencelhetõvé, szabadon elérhetõvé és módosíthatóvá. "A Linux operációs rendszerek sokkal költséghatékonyabbak, még akkor is, ha a hardverrel kapcsolatosan támasztott feltételeket is figyelembe vesszük" -- tette hozzá.
+
+
+Az ABI tanulmányának elõrejelzése szerint éppen költség-faktor miatt hozhat a Linux-alapúság újabb képességeket és bõvebb multimédiás képességeket a középkategóriás készülékekbe, melyek akár szélesebben nyithatnának az internet felé is -- ha valahol, itt valóban kidomboríthatja elõnyeit a Linux. 
+
+Google Android
+
+Az ABI tavaly augusztusban kiadott, kizárólag okostelefonokkal foglalkozó riportja szerint a Linux az okostelefonok piacára is óriási hatással lesz, 2012-ben az okostelefonok 31 százaléka futtat majd linux-alapú operációs rendszert. A cég szerint a Linux gyorsabban terjed majd ezeken a készülékeken, mint a Windows Mobile, vagy a Symbian. Kínában és Japánban már most több mint 30 százalékos részesedéssel rendelkeznek ezek az okostelefonok.

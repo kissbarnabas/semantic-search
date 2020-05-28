@@ -1,0 +1,20 @@
+A biztonság a Windows Server 2008 legfõbb vonzereje
+
+A megnövekedett biztonságot látják a legvonzóbbnak a Windows Server 2008-ban a potenciális vevõk, a legjobban pedig a szoftverhibáktól tartanak -- derül ki a CDW által elvégzett felmérésbõl, amely közel 800  informatikai döntéshozó bevonásával készült, akik részben vállalatoknál, részben kormányzati intézményeknél, valamint az oktatásban dolgoznak.
+
+
+
+A cégek kétharmada biztosan áttér
+
+A válaszok alapján a szervezetek 63 százaléka tervezi bevezetni a Windows Server 2008-at, de a megkérdezettek 18 százalékánál már meg is kezdõdött az átállás, vagy legalábbis a migráció tervezése. A Microsoft úgy tûnik, jó munkát végzett az operációs rendszer evangelizációja terén, a válaszadók ötöde azt állította, már ismeri a Windows Server 2008-a, 72 százalék azok aránya, akik saját bevallásuk szerint még keveset tudnak róla, 8 százalék viszont még hírbõl sem ismeri.
+
+
+A megkérdezettek 49 százaléka szerint a Windows Server 2008 megnövekedett biztonsága lesz a legnagyobb hasznára a vállalatának, ezen kívül a legvonzóbb tulajdonságok a gyorsabb és egyszerûbb telepítés és konfigurálás (41%), a könnyebb adminisztráció (40%), valamint az integrált virtualizációs köztesréteg, a Hyper-V (35%). A CDW a Windows Vista vállalati bevezetésével kapcsolatban is több felmérést készített, és azokon is a biztonság volt a legfõbb vonzerõ.
+
+Ami a Windows Server 2008 bevezetésével kapcsolatos legfontosabb aggályokat illeti, a válaszadók 48 százaléka leginkább a szoftverhibáktól tart,  a második a sorban az alkalmazások és a hardverek esetleges inkompatibilitásával kapcsolatos félelem. Figyelemre méltó, hogy a megkérdezettek 25 százaléka tart attól, hogy az alkalmazásai nem támogatottak az új platformon, 19 százalék számára pedig nem világosak a Windows Server 2008 várható elõnyei.
+
+Az új operációs rendszernek nem kell utat törnie magának, ugyanis az elõzõ Windows Server változatok ezt már megtették. A CDW felmérése szerint a szervezetek több mint 70 százalékánál a Windows a preferált szerver operációs rendszer. Általánosságban elmondható, hogy minél nagyobb egy szervezet, annál erõsebben elkötelezett a Windows Serverek irányába, ugyanakkor annál  kevésbé kapkodja el az átállást: a válaszadók 59 százaléka a belátható jövõben nem kíván áttérni a 2008-as verzióra. A kisvállalatok inkább a Small Business Servert preferálják, és általában õk tudnak a legkevesebbet a Windows Server 2008-ról.
+
+Elõbb a Vista, aztán a Server
+
+Bár a legtöbben azt hinnénk, a vállalatok a legtöbb esetben együtt állítják át gépeiket korábbi Windows Serverekrõl a Windows Server 2008-ra és Windows XP-rõl Windows Vistára, a CDW felmérése szerint ez távolról sincs így: a megkérdezettek 66 százaléka állította, nincs összefüggés a két migráció között. Azok, akik összekapcsolják a két átállást, rendszerint elõbb tervezik bevezetni a Windows Vistát a klienseken, mint a Windows Server 2008-at a kiszolgálókon.

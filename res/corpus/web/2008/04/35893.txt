@@ -1,0 +1,14 @@
+Újabb weboldalakat fertõztek meg széleskörû támadással
+
+[Techworld] Újabb nagyszámú weboldalt támadtak meg a Websense szerint a márciusi és januári esetekhez hasonlóan, a JavaScript kódokat oldalakba illesztõ módszerrel most Egyesült Királyságbeli állami weboldalakat is megfertõztek. A "védettséghez" mindenképpen szükséges a naprakész böngészõ és víruskeresõ szoftver használata.
+
+
+
+A legújabb sorozatban ismét több tízezer weboldalt fertõzhettek a korábbi módszerrel, a szakértõk egyelõre meg sem tudják becsülni az érintett weboldalak számát. A célpontok között most Egyesült Királyságbeli kormányzati és az Egyesült Nemzetek Szervezetéhez tartozó weboldalak is voltak, melyeket szintén olyan kóddal "aggattak tele", mely kínai szerverekrõl kártékony programot próbál meg letölteni a számítógépünkre. A szerdaihoz hasonló támadások lassan mindennaposak lesznek, egy-egy ilyen sorozatban több ezer, százezer weboldalt fertõznek meg egyszerre.
+
+Dan Hubbard, a Websense alelnöke szerint a jelenlegi támadásban is SQL-injektáló kódot használtak, mint a márciusi és januári esetek során. A webszerverek, illetve azokon futó különbözõ szoftveres motorok biztonsági hiányosságait kihasználva a kártékony szoftvereket letöltõ kódot a szerveren található adatbázisba illesztik be, például egy fórum hozzászólásaiba, vagy template-állományának adatbázisban tárolt részébe.
+
+
+A fertõzés pontos mérete még nem ismert, Hubbard a márciusi támadáshoz hasonló volumenre számít. Akkor több mint 100 ezer weboldalt fertõztek meg ezzel a módszerrel, köztük olyanokat is, mint az MSNBC.com. Bár a támadók most megváltoztatták a weboldal címét, melyrõl a nyolc különbözõ kártékony programot megpróbálja telepíteni a szoftver, nem kétséges, hogy az esetek egymással összefüggenek.
+
+Amikor valaki meglátogat egy ilyen fertõzött oldalt, a beillesztett JavaScript megpróbál csatlakozni egy kínai szerverhez, és onnan kártékony programot, trójait letölteni. Ezt a programot nyolc különbözõ biztonsági résen keresztül kísérli meg a rendszerünkbe juttatni. A Websense figyelmeztetése szerint az egyik ezek közül az Internet Explorer Vector Markup Language, azaz VML-kezelésében található hiba, melyet idén januárban javított a Microsoft. Az ennél régebben frissített rendszerek máris potenciális veszélynek vannak kitéve.

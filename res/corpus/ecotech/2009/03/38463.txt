@@ -1,0 +1,17 @@
+Rosszul járt a TomTom, amiért ujjat húzott a Microsofttal
+
+A felek megegyezésével lezárult a Microsoft és a TomTom több mint egy éve húzódó szabadalmi vitája, mely februárban ahhoz vezetett, hogy a redmondi szoftvercég beperelte a navigációs eszközöket gyártó holland vállalatot. 
+
+
+
+A február végén beadott kereset szerint a TomTom összesen nyolc, a Microsoft tulajdonában álló szabadalmat használ jogosulatlanul navigációs készülékeiben -- ezek egy része magát az autós navigációs rendszert, néhány pedig az eszközök által használt fájlrendszert érinti. Az ügy pikantériája, hogy a szabadalmi vita azokra a navigációs berendezésekre is kiterjed, melyek Linux-alapú operációs rendszerrel mûködnek.
+
+
+TomTom PNA: fizetnek a Microsoft-szabadalmakért
+
+A TomTom két héttel ezelõtt válaszul viszontkeresetet nyújtott be a Microsoft ellen, amiért a szoftvercég állításuk szerint jogtalanul használ négy szabadalmat saját, Streets and Trips nevû alkalmazásában. A holland cég azonban a rövid bírósági egyeztetési idõszak után teljes visszavonulót fújt, így a felek egy a Microsoft számára egyértelmûen elõnyös peren kívüli egyezséggel zárták a vitát.
+
+
+A megállapodás értelmében a TomTomnak fizetnie kell a Microsoft szabadalmainak használati jogáért, emellett köteles ingyen a Microsoft rendelkezésére bocsátani azt a négy szabadalmat, melyet eredetileg elvitatott a cégtõl. Az öt évre szóló, az Egyesült Államok területére érvényes keresztlicenc-megállapodás anyagi részleteit a felek nem hozták nyilvánosságra.
+
+A TomTom mindezek mellett kötelezettséget vállalt arra, hogy termékeibõl eltávolítja azokat a funkciókat, melyek a Microsoft szabadalmának számító FAT32 fájlrendszerhez köthetõk.

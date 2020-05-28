@@ -1,0 +1,12 @@
+Mainsoft: Lotus Notes integráció SharePointtal
+
+A Mainsoft új fejlesztésének hála, a Lotus Notes a korábbinál egyszerûbben integrálódhat a Microsoft SharePointtal, így a felhasználók majdnem ugyanazokat a szolgáltatásokat vehetik igénybe, amelyeket az Office-ban is megtalálhatnak.
+
+
+
+A SharePoint Integrator segítségével a felhasználók közvetlenül a Lotus Notes-ból elérhetik a SharePointban tárolt dokumentumokat, nem szükséges kilépniük a megszokott felületbõl. Az Integrator telepítése után a Notes sidebarjára kerül, itt érhetõk el a SharePoint-ben megosztott dokumentumok. A sidebarból a dokumentumok egyszerûen beleejthetõk a Notes-ban létrehozott levelekbe, naptárbejegyzésekbe és feladatlistákba, illetve fordítva: a sidebar-ra ejtett dokumentumok automatikusan bekerülnek a SharePointba. A SharePoint Integrator lehetõvé teszi emellett a SharePointban tárolt tartalmak elérését munkafolyamat mash-upokból is.
+
+
+
+
+ A termékbõl egy idõkorlátos ingyenes próbaváltozat szabadon letölthetõ, a százfelhasználós licenc ára 12500 dollár. A Mainsoft máris fejleszti a SharePoint Integrator következõ változatát, amely már lehetõvé teszi a Notes levelek mentését is a SharePointba.

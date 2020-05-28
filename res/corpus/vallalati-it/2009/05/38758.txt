@@ -1,0 +1,11 @@
+Nem emelkedik egyes Oracle-termékek támogatásának ára
+
+Az Oracle termékeinek éves támogatási díja (Premier Support) a szoftverlicenc 22 százaléka. Amint a termékek elérik az öt éves kort, már csak Extended, azaz kiterjesztett támogatást lehet hozzájuk igénybe venni, ennek ára a licencdíj 24 százaléka -- a cég azzal indokolja ezt a gyakorlatot, hogy a régebbi szoftvereket drágább támogatni. Noha az áremelkedés csak 10 százalékos, az Oracle egyes termékei esetében ez több tízezer dolláros különbséget is jelenthet.
+
+Az év végén a cég számos régebbi, de széles körben elterjedt terméke érte volna el azt a kort, amikor már csak Extended, azaz kiterjesztet terméktámogatás érhetõ el hozzá, a korábbi díjnál drágábban. Charles Phillips, a cég elnöke azonban tegnap közölte, az E-Business Suite Release 11i10-hez 2011-ig, a JD Edwards EnterpriseOne 8.11-hez 2010 végéig, a Siebel CRM 7.8-hoz 2011 májusáig, az Oracle Database 10g R2-höz pedig 2011 júliusáig biztosít a vállalat normál támogatást, továbbra is a licencdíj 22 százalékáért.
+ 
+
+
+ Jürgen Rottler, az Oracle ügyfélkapcsolati vezetõje szerint jelen gazdasági helyzetben minden dollár elköltését alaposan megfontolják az ügyfelek. "Látjuk, mi van a piacon. Mi is érezzük azt a nyomást, amit az ügyfelek" -- mondta Rottler, aki egy interjú során lényegében kizárta annak lehetõségét, hogy az Oracle más termékei esetében is engedjen a támogatási díjból, szerinte az ugyanis nem lenne igazságos.
+
+Elsõ negyedéves eredményeinek bejelentésekor az üzleti alkalmazások piacát vezetõ SAP is közölte, némileg változtat az árképzésén. Az vállalat tavaly júliusban közölte, hogy az összes ügyfelét a licencdíj 22 százalékába kerülõ Enterprise Support csomagra migrálja. Az ügyfelek többsége addig 17 százalékos Standard támogatáson volt, így lényegében az SAP egyoldalú áremelést hajtott végre, cserébe pedig olyan szolgáltatási szintet ad, melyre a legtöbb ügyfél nem tart igényt. Az emelést négy év alatt hajtotta volna végre az SAP, ami évi 8 százalékos emelkedés, ezt azonban most hét évre nyújtotta el a cég.

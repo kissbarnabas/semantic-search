@@ -1,0 +1,12 @@
+A Google keresõjét is használják már a kéretlen levélküldõk
+
+Az IronPort legújabb jelentése szerint újabb trükkel próbálják rávenni a kéretlen levélküldõk a címzetteket, hogy a levelekben található linkekre kattintsanak. A legújabb spamekben a Google, a Yahoo! és az AOL keresõje mögé rejtik oldalaikat, felhasználva a Google "jó napom van" funkcióhoz hasonló átirányítást. 
+
+
+
+A Google keresõjének "jó napom van" gomjábra kattintva a motor ahelyett, hogy a találati listát jelenítené meg, az elsõ találatra irányítja át automatikusan a böngészõnket. Ezt a funkciót könnyen lehet paraméterezni, így egy adott weboldal címét megfelelõen tartalmazó keresõlinkkel mindig az adott oldalra irányít át minket a Google, hiszen az lesz az elsõ találat. A levelekben található link elsõ pillantásra teljesen normálisnak, legálisnak tûnik.
+
+
+Az IronPort adatai szerint még csak a kéretlen levelek 1 százalékában használják ezt a linkelési trükköt, azonban a késõbbiekben egyre elterjedtebb lehet, folyamatosan növekszik a regisztrált levelek száma. A trükk azonban nem csak bosszantó, hanem veszélyes is lehet, hiszen nem csak reklámoldalakra, hanem olyan oldalakra is átirányíthat mindket a keresõ, melyen trójait, vagy más kártékony programot próbálnak letölteni a számítógépünkre a böngészõben található biztonsági rés segítségével.
+
+A spamelõk folyamatosan újabb és újabb módszerek után kutatnak, a legutóbbi kutatások szerint még a "házon kívül" üzenettel is megpróbálnak bejutni a postafiókunkba. Ez a trükk is viszonylag egyszerû: a kéretlen leveleket küldõ elsõként egy teljesen legális e-mailcímet generál valamely ingyenes webes levelezõszolgáltatásnál, például a GMailnél. Ezt követõen "házon kívül" üzenetet állít be megfelelõ szövegezéssel, melyben elhelyezi azt a linket is, melyet közvetíteni szeretne. Innentõl kezdve nincs más dolga, mint hamisított levekkel bombázni ezt az e-mailcímet.

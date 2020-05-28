@@ -1,0 +1,12 @@
+Bivalyerõs blade szervert mutatott be a Sun Microsystems
+
+A drezdai Supercomputing Conference-en jelentette be új blade szerverét a Sun, amelyet kimondottan számítástintenzív környezetbe ajánl. A Sun Blade x6450 négy darab Xeon processzort tartalmaz, amelyek két-, vagy akár négymagosak is lehetnek, így egyetlen blade-en tizenhat processzormag teljesíthet szolgálatot.
+
+
+
+A négyfoglalatos blade szerver különlegessége, hogy 24 DIMM-foglalatot tartalmaz, így 4 gigabájtos DDR2-667 modulokkal akár 96 gigabájt memória is építhetõ a gépbe, a késõbb megjelenõ 8 gigabájtos modulokkal pedig a kapacitás akár 192 gigabájtig is növelhetõ. A kimondottan HPC-környezetbe szánt blade-ek saját merevlemezzel nem rendelkeznek, egyedül egy IDE-interfészre csatlakozó CompactFlash aljzattal -- a behelyezett kártyáról mûködhet például az operációs rendszer.
+
+
+
+
+Nagy teljesítménye miatt az x6450 nem csak HPC-feladatok ellátására használható, vállalati termelési környezetben is bevethetõ, hatalmas memóriája miatt valószínûleg meg sem kottyan neki egy adatbázis, ERP vagy CRM rendszer. Ha még ezek is "lötyögnek" a szerveren, virtualizációs platformként használva további alkalmazásokkal lehet terhelni a tizenhat processzormagot. A Sun Blade x6450 a tavaly júniusban bejelentett, 6000-es sorozatú, 10U magas, 10 szervert befogadni képes blade keretbe illeszkedik.

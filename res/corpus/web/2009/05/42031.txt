@@ -1,0 +1,37 @@
+A Silverlight 3 képes lehet legyõzni a Flash-t
+
+Nem egy ligában versenyez a Flash és a Silverlight 
+
+A Silverlight technológiára több nagy projektet is alapoztak az elmúlt idõszakban, a Netflix, a CBS, az NBC is ezt használta webes videótartalmainak megjelenítésére, de ez kevésnek bizonyul az áttöréshez. A kritikusok azzal támadták kezdetben a Microsoft webes médiaplatformját, hogy olyan funkciók sokasága hiányzik belõle, amire a Flash már évek óta képes. 
+Nem egyszer hangzott el az sem, hogy a Silverlight 1.0 olyan volt, mint egy kisminkelt béta verzió. A&nbsp; Silverlight 2 ugyan már jóval fejlettebb, de a Flash által szinte szabvánnyá erõsített dolgok közül még mindig több minden hiányzik. A remény természetesen a következõ verzióban van. A Silverlight 3.0 béta verzióként jelent meg, s azt az ígéretet hordozza magában, hogy a Microsoft megoldását egy ligába helyezi az Adobe termékével. 
+
+
+
+
+Az új verzió olyan fejlesztéseket hoz magával, mint egészen új API-k támogatása, plusz audiokodekek és videós funkciók, mint a "Smooth Streaming", a H264 és AAC támogatás, illetve a hardveres grafikus gyorsítás támogatása. A Silverlight 3.0 célja, hogy könnyebbé tegye a fejlesztõk életét, ami a Microsoft stratégiájának fontos része. 
+Csábító a .NET 
+
+A fejlesztõk számára a kezdeti nehézségek ellenére is csábító szempont a Silverlight elsõdleges fejlesztési környezete, a .NET. Ez ugyan némileg bonyolultabb, mint a szokványos webes technológiák, például a JavaScript vagy az ActionScript, melyek az Adobe Flash mellé szükségesek. Egy Silverlight-alkalmazás készítéséhez nem kell .NET gurunak lenni, mégis sokkal robusztusabb eszközök állnak rendelkezésre. A .NET-ben készített programok ráadásul átláthatóbbak, strukturáltabbak is, szemben a Flash IDE megoldásokkal, ahol szinte felkínálja magát a rossz felépítés, hisz kódrészleteket lehet rejteni a külsõ fájlokba, a mozgókép klipekbe, a timeline frame-ekbe, ami nagyon gyorsan kaotikussá válhat. Talán ez az oka annak, hogy nagyon sok, a weben fellelhetõ Flash optimalizálatlan, túl sok erõforrást emészt fel. 
+Ezzel ellentétben a Silverlightnak elérése van igazi programozási nyelvekhez, ahol kiforrott megoldások mûködnek. Az Adobe ActionSctipt a szakértõk szerint hiába alkalmas komoly alkalmazások készítésére, ha a Flash-bõl, illetve a Flex keretrendszerbõl hiányzik az érettség és a választékosság, ami a .NET-nek mára már sajátja. Ráadásul Silverlight-alkalmazásokat szinte bármilyen nyelven el lehet készíteni, kezdve a C-tõl a Ruby-ig. 
+Van benne potenciál, de lassan indul 
+
+Így technikai oldalról a Silverlight elõnyösebb helyzetben van, de az elterjedtsége mégis csak&nbsp; lassan növekszik. A Microsoft korábban nem is szerette összehasonlítani, megméretni magát a Flash-sel, azt állították, egészen más területeken jó az egyik és máshol mûködik jól a másik. Mégis vannak átfedések, de ezeken a helyeken egyelõre gyõz a szakemberek több éves Flash-tapasztalata. Az átlagos projekteknél szinte biztos, hogy Flasht választanak, s csak valami nagyon új és különleges szituációban kerül szóba a Silverlight. 
+Ilyen volt az NBC olimpiai projektje, ahol az elõ közvetítés, visszajátszások, eseménynaptár és egyéb funkciók egy Silverlight-alapú megoldással jutottak el a felhasználókig. Az ilyen egyszeri akciók viszont segítik az elterjedtség növekedését a felhasználói oldalon A Microsoft Photosynth például milliónyi embert sarkallt arra, hogy feltegye a szükséges plugin-eket, amit egy mikroszájt vagy egy hirdetés kedvéért bizonyára nem tett volna meg. Barack Obama beiktatásának Photosynth-je, az NBC olimpiai közvetítése, illetve a Netflix szolgáltatás mellett viszont kevés olyan esemény volt eddig, ami a fogyasztói oldalon segítette volna a Silverlight ügyét. 
+Hazai 
+A HWSW olvasói körében hasonló trendek érzékelhetõek, mint ami a nemzetközi jelentésekbõl is kiolvasható. Jelenleg a HWSW olvasóinak 93 százaléka rendelkezik Flash-lejátszóval (70% Flash 10, 23% Flash 9), míg Silverlight mindössze a látogatók 46 százalékának gépén fut, igaz az informatikai érdeklõdésû közönség esetén ez természetszerûleg magasabb arányt mutat, mint a teljes átlag. 
+
+
+
+
+A globális lefedettség ennél valamivel alacsonyabb, körülbelül a böngészõk 30 százalékán fut a Silverlight plugin, Magyarországon pedig ennél némileg alacsonyabb, 20 százalékos az átlagos arány. Bátorfi Zsolt, a Microsoft Magyarország fejlesztési platform üzletágának technológiai szakértõje a HWSW kérdésére elmondta, várakozásai szerint a Silverlight penetráció a következõ idõszakban várhatóan nagyot ugrik majd, ugyanis a harmadik verzió képességeit már saját termékeik is használják majd. Így az Internet Explorer 8, a Live-szolgáltatások, sõt az Office következõ verziója is tartalmazza majd a runtime-ot. A Live Photo szolgáltatás galériája például már most is használja a Silverlightot.&nbsp;
+A böngészõbõl indulnak a teljes képernyõs HD-tartalmak
+Így a Microsoft-termékeket használók gépén hamarosan különbözõ oldalról érkezve szinte biztosan megjelenik a plugin, ami a tartalomfejlesztõk számára is lökést adhat a fejlesztési kedvben.
+
+Bátorfi szerint a .NET-fejlesztõk ugyan sokan vannak, de egyelõre kevesen rendelkeznek azzal a kompetenciával, hogy üzleti, ügyviteli vagy egyéb alkalmazásokat fejlesszenek webes környezetbe. A Silverlight 3-ban viszont már integráltan jelenik meg több vezérlõ, melyek segítségével jóval könnyebbé válik az akár üzleti, akár multimédiás alkalmazások fejlesztése. 
+Magyarországon a Microsoft céljai között többek közt az is szerepel, hogy az üzleti megoldások mellett a média, illetve a hirdetési piac is megismerje és elkezdje használni a Silverlightot, azokon a területeken, ahol eddig a Flash volt az egyeduralkodó, illetve azokon is, ahová az sosem jutott el. A HWSW információi szerint hamarosan a vezetõ kereskedelmi elektronikus médiumok közül valamelyik úttörõként Silverlight-alapokon tesz online elérhetõvé televíziós tartalmat 720p felbontásban.
+
+A Silverlight 3 fentebb említett grafikus képességei (HD-támogatás, H264, hardveres grafikus gyorsítás) megnyitják a lehetõséget a webböngészõbõl elinduló, de teljes képernyõs multimédiás megoldások felé. Ez pedig a web-képes LCD tévék megjelenésével érdekes fordulatokat eredményezhet a web és a televízió konvergenciájában.
+
+
+
+

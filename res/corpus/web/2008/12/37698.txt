@@ -1,0 +1,30 @@
+Ahogy a csövön kifér: megjelentek a YouTube-on a HD-videók
+
+Tegnap elindult a YouTube aloldala, ahol kizárólag a HD-minõségû  videók között lehet keresgélni. A nagyfelbontású videószolgáltatáshoz szükséges kisebb fejlesztéseket a Google igyekezett csendben elintézni, s  az utolsó lépésnek sem kerített nagy feneket. 
+
+
+
+Csendes fejlesztések
+
+Az elsõ feladat a H.264 MPEG formátum bevezetése volt, ami 2007 végén volt fontos esemény a Google háza táján. Akkor még maradt a 320x240-es felbontás, amit idén márciusban a 480x360-ra növeltek. Ekkor került fel a "Watch in high quality" gomb a videók alá, így azokat a filmeket, amiknek az eredetije a videoelemzõ algoritmus szerint elért egy bizonyos minõséget, jobb minõségben is lehetett nézni.
+
+Régen és most 
+
+November végén, december elején ezen is túlléphettek a felhasználók, hisz engedélyezett lett a H.264 formátum által egyébként is bármikor elérhetõ 1280x720 is felbontás is, majd december 5-én a YouTube képformátuma átváltott a régi 4:3-as arányról a szélesvásznúra. A december 5-i változtatás viszont csak mostanra vált elérhetõ mindenki számára.
+
+Miután minden készen állt, és az elsõ néhány ezer nagyfelbontású videó is megjelent a rendszerben, a Google elérkezettnek látta az idõt arra, hogy az ehhez tartozó tartalmi oldalakat is publikussá tegye. Emellett a felhasználók számára elérhetõvé vált több leírás, segédanyag, amik segítségével könnyen gyárthatnak olyan videókat az új képarányra szabva anélkül, hogy fekete sávok rondítanák a képet.
+
+
+
+
+
+
+
+A szabályok változatlanok
+
+A korábbi feltöltési szabályok viszont nem változnak, tehát a jövõben is maximum 1 gigabájt méretû és maximum 10 perc hosszúságú filmeket lehet közzétenni. A YouTube gondolt azokra is, akik már korábban nagyfelbontásban töltötték fel filmjeiket, de azt akkoriban még csak lekonvertált változatban lehetett megnézni. Ezeknél a filmeknél utólag módosítják a felbontást és a késõbbiekben ezek is elérhetõvé válnak az eredeti méretben.
+
+
+A HD gyûjtõoldal mellett két másik aloldal is startol a közeljövõben, mégpedig a "News" illetve a "Music". Az elõbbi a Google News-hoz hasonlóan híranyagokat jelenít majd meg, de szigorúan mozgóképes formátumban, míg a Music egyfajta zenecsatornaként funkcionál. Jelenleg egyik menüpont sem elérhetõ még, kizárólag a tesztelõk számára.
+
+A minõségi és a tartalmi változások mellett újdonságként jelenik meg a testreszabható beágyazás lehetõsége is. A szokásos kódmezõ mellett megjelent egy ikon, amire rákkantintva egy doboz nyílik meg. Itt választható négy (a videó arányainak megfelelõ) méret, illetve színes szegéllyel is elláthatóak a videók.

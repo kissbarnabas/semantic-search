@@ -1,0 +1,12 @@
+Újabb biztonsági rések az Opera böngészõben
+
+[Techworld] Két újabb biztonsági résre figyelmeztet saját fejlesztésû böngészõjében az Opera Software. Az egyik hiba a webböngészõ hírolvasó moduljában, azaz RSS-kezelésében, míg a második a dinamikus képek kezelésében található.
+
+
+
+A hírolvasó modulban található memóriakezelési hibát kihasználva egy megfelelõen módosított, speciális RSS-anyaggal romba lehet dönteni a böngészõt. A második, HTML-kezelési hibát kihasználva dinamikus képek használhatók fel hasonló célra, a böngészõ kiléptetésére. Mindkét biztonsági réssel egyben kártékony szoftverek is futtathatók a számítógépeken, az összeomlással járó bosszúság mellett.
+
+
+Az Opera böngészõ következõ, 9.27-es verziószámú változata foltozza ezeket a biztonsági hiányosságokat, mely tegnap napvilágot is látott. A legutóbbi hibajavító Opera-változat február végén jelent meg. Az újabb javításokat tartalmazó verzió telepítéséig elengedhetetlen kártékony programokat és vírusokat keresõ alkalmazások használata.
+
+Az Opera egyelõre perifériára szorult az Internet Explorer és a Firefox csatája közepette, a részesedése a böngészõpiacon mindössze 3-4 százalék közé tehetõ. Ennél sokkal sikeresebbek a mobil változatok, az okostelefonokra (Symbian, Windows Mobile) készült Opera Mobile, valamint a javás Opera Mini, utóbbi megtalálható a T-Mobile készülékeiben is web'n'walk néven. Opera böngészõ teljesít szolgálatot a Nintendo DS és Wii konzoljában is, valamint több szórakoztató-elektronikai készülékben.

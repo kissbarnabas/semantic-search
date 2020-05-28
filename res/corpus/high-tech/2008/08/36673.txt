@@ -1,0 +1,12 @@
+A Microsoftnál lobbizik a Samsung a Vista  SSD-támogatásáért
+
+[IDG News Service/HWSW] Az operációs rendszerek a háttértár-kezelése merevlemezt feltételez, így magától értetõdõen nem optimális más típusú, így például flash-alapú meghajtók esetében. Ezt magunk is megtapasztalhatjuk, ha az alacsony teljesítményû SSD-vel szerelt linuxos netbookok valamelyikét Windowszal próbáljuk meg használni. A Samsung emiatt nemrég felvette a kapcsolatot a Microsofttal, hogy jobb SSD-támogatás kerüljön a Vistába.
+
+
+
+A Samsung reményei szerint a Microsofttal közösen úgy módosíthatják a Windows Vista háttértár-kezelését, hogy SSD esetén másfajta algoritmusokat és arra optimalizált csomagméretekkel dolgozzon. A merevlemez mûködésének mechanizmusa számos felesleges optimalizációs mûveletet jelent az SSD számára, így például nem kell törõdni a töredezettséggel az elhanyagolható pozicionálási idõ miatt, ahogyan a változó adatsebességgel sem, melyet a változó kerületi sebesség okoz. A merevlemezek ráadásul kisebb csomagméretekkel dolgoznak az SSD-knél, így utóbbiak nem tudják kifutni magukat. 
+
+A flash memóriatechnológia jövõre negyed évszázados lesz, ennek ellenére nagykapacitású adattárolásra történõ tömeges alkalmazása csak az ezredfordulót követõen indult meg, ugyanis mûszaki jellemzõi és a fajlagos kapacitás ára ekkorra vált ésszerûvé. A félvezetõgyártásnak és chiptervezõknek köszönhetõen a NAND flash chipekre építõ SSD-k rohamos sebességgel fejlõdnek teljesítmény, élettartam és kapacitás terén egyaránt. Az SSD-k kapacitása továbbra is drasztikusan drága a merevlemezekénél, ugyanakkor az elérhetõ alacsonyabb fogyasztás és mechanikai tûrés miatt mobil alkalmazásokban, míg másodpercenkénti lemezmûveleti teljesítménye okán felsõkategóriás tranzakcionális szerverekben kezdte behatolását a piacra.
+
+
+A Toshiba, mely a flash kifejlesztõje, a notebook SSD piac felére pályázik, legnagyobb ellenfele a koreai Samsung Electronics, a világ legnagyobb memóriagyártója. A japán cég elõrejelzése szerint 2010-ben az összes leszállított notebook 10 százaléka alkalmaz majd SSD-t, ez az arány azonban 2011-re 25 százalékra ugrik majd. A Toshiba szerint 2009-ben 512 gigabájtos notebook SSD-k is megvalósíthatóak lesznek a 30 nanométeres tartományban mozgó gyártástechnológia és a chipek rétegzése (stacking) révén. A Samsung nemrég kezdte meg szállítani 128 gigabátjos SSD-jét, nem sokkal a Toshiba után, és év vége elõttre ígéri a 256 gigabájtos változatot.

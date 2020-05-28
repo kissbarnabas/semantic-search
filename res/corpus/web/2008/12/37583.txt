@@ -1,0 +1,18 @@
+SAP-val foglalkozó szakemberek álláskeresését próbálja segíteni egy nemrég indult hazai oldal
+
+SAP-fejlesztõknek, SAP-val foglalkozó tanácsadóknak, illetve ilyen szakembereket keresõ vállalatoknak kíván segítséget nyújtani a nemrégiben indult SAPjobs.hu weboldal, amely igyekszik összehozni az állást keresõ SAP-szakértõket a lehetséges munkaadókkal.
+
+
+
+Az SAPjobs.hu a SAPtippek.hu oldalból "nõtt ki", az üzemeltetõk ugyanis azt tapasztalták, hogy megnõtt az igény SAP-szakértõk iránt, ugyanakkor a vállalatok és fejvadászok gyakran nem tudták, hol akadhatnának a nyomukra -- az álláskeresõ oldalak mellett megjelentek a hirdetések a közösségi oldalakon, fórumokon is. Ez a felismerés vezetett az SAPjobs.hu létrejöttéhez, ahová az SAP-val foglalkozó szakértõk feltölthetik önéletrajzukat, válogathatnak a meghirdetett pozíciók között, illetve akár e-mail értesítést is kérhetnek a számukra érdekes állásokról. 
+
+
+ Az állásokat meghirdetõk számára is igyekeztek a lehetõ legkényelmesebb, legjobban használható felületet elkészíteni az SAPjobs.hu fejlesztõi. Az álláshirdetéseket manuálisan is fel lehet venni, de akár XML-állományban is feltölthetõk, ami elsõsorban a több pozícióra alkalmazottat keresõ cégek vagy a fejvadászok számára jelent könnyû használatot. Az álláskeresõk által feltöltött adatokhoz természetesen csak engedélyezés után férnek hozzá a cégek.
+
+[+] Az álláskeresõ meztelen
+
+A tapasztalatok alapján az SAP-szakemberek többsége csak akkor tölti fel az önéletrajzát, ha már talált olyan pozíciót, amelyre jelentkezik. Több éves tapasztalattal és komoly referenciákkal rendelkezõ tanácsadók/fejlesztõk viszont gyakran akkor is regisztrálnak az adatbázisba, ha egy, a jelenleginél jobb ajánlatra számítanak. Sós János, az SAPjobs.hu fõszerkesztõje ezért a munkaerõt keresõ cégeknek, partnereknek azt javasolja, töltsék fel hirdetéseiket, hiszen ez ezeknél a szakembereknél jóval hatékonyabb lehet, mint az önéletrajz-bányászat. 
+
+Az informatika területén a vállalatirányítási rendszerekkel, kiváltképp az SAP-val foglalkozó fejlesztõk és tanácsadók különösen keresettnek számítanak a munkaerõpiacon. Az IT Jobs Személyzeti Tanácsadó Kft. tapasztalatai szerint egy pályakezdõ (junior) tanácsadót Budapesten eleinte 270 ezer forint körüli havi fizetésért foglalkoztatjnak, de az eltelt évek múltán ez akár háromszorosára vagy még tovább is emelkedhet.
+
+Sós János szerint az SAPjobs.hu elõnye a hagyományos álláskeresõ oldalakkal szemben, hogy a SAPtippek.hu "leszármazottjaként" eleve olvasott az SAP-val foglalkozó fejlesztõk, tanácsadók és egyéb szakemberek körében, így itt koncentráltan jelen vannak ezek az emberek, amelyekre a cégek vadásznak.

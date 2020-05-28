@@ -1,0 +1,24 @@
+Ismét hardverhiba miatt kárpótolja az Xbox-tulajokat a Microsoft
+
+Újabb hibajelenséget vesz fel Xbox 360 konzoljánál a Microsoft azok közé a hardveres meghibásodások közé, melyekre nem az alapnak számító egy, hanem három év ingyenes javítást vállal. Az "E74" hibajelenség a gép 2005-ös megjelenése óta kísértõ, három vörös LED felvillanásával jelzõ súlyos hardverhibához hasonlóan konstrukciós hiba, ám a gyártó szerint jóval kevesebb felhasználót érint, mint a 2007-ben elismert, és jelentõs anyagi ráfordítással korrigált baki.
+
+
+
+Breakdown
+
+A Microsoft két éve valamivel több mint egymilliárd dollárt különített el annak a hardverhibának a kiküszöbölésére, melyért szakértõk szerint a konzol elégtelen hûtése tehetõ felelõssé. A korai Xbox 360 konzolok jelentõs részét érintõ hibát az okozta, hogy a gép belsejében felgyülemlett hõt képtelen volt megfelelõen elvezetni a hûtési rendszer, ez pedig az alaplap deformációjához vezethetett. A játékgépek halálát az esetek túlnyomó többségében végül az okozta, hogy a chipek forrasztásai nem bírták el az így fellépõ feszültséget, és felrepedtek, vagy kiszakadtak. Az így meghibásodott játékgépet be sem lehetett kapcsolni, a súlyos problémát az elõlapon felvillanó három vörös LED jelezte (a hibajelenséget ez alapján keresztelték el Xbox-felhasználók Red Ring Of Death-nek).
+
+Az E74 kódjelû hibajelenséget is vörös LED felvillanása jelzi, igaz, ezúttal csak egy jelzõfény világít a három közül, emellett a konzol a bekapcsolás után nyolc nyelven az "E74. Rendszerhiba. Kérjük vegye fel a kapcsolatot az Xbox terméktámogatással" üzenetet írja ki a kijelzõre, az operációs rendszer betöltõdése pedig nem folytatódik, azaz a gép lényegében használhatatlanná válik.
+
+Ana (jobbra lent), a lehetséges bûnös
+
+Bár a fenti hibajelenség a konzol 2005-ös debütálása óta ismert és jelen lévõ probléma, egészen tavaly novemberig nem okozott fejfájást nagyobb tömegek számára. Egyes spekulációk szerint az E74 hibakód éppen ezért az Xbox 360 konzolokhoz tavaly novemberben kiadott õszi rendszerfrissítéssel hozható összefüggésbe, a Microsoft ezt azonban nem erõsítette meg, miként azt a feltételezést sem, hogy a problémát az Ana nevû videojel-átméretezõ áramkör túlhevülése és meghibásodása okozza.
+
+Visszajár a pénz
+
+A gyártó hivatalos álláspontja szerint az E74-es hibát a felhasználók "nagyon kis hányada" jelentette eddig, ám mivel a hibajelzés kapcsolatban áll a három vörös villogó fény hibakóddal, ezért a javítási költségeket a cég állja -- visszamenõlegesen is. Ez azt jelenti, hogy akik eddig fizettek a konzol kijavításáért, utólag visszakapják a pénzüket. Tóth Gábor, a Microsoft Magyarország PR-menedzsere lapunk megkeresésére elmondta, hogy az akció hazánkra is vonatkozik: a cég saját adatbázisa alapján e-mailben vagy levélben értesíti a vásárlókat arról, hogyan juthatnak hozzá a nagyjából 90-110 eurónak megfelelõ összeghez.
+
+
+A Microsoft terméktámogatási weboldalán szereplõ információk szerint a vállalat 4-12 héten belül kártalanítja ügyfeleit, aki július 1-ig nem kap értesítést ennek módjáról, annak november 1-ig van lehetõsége arra, hogy a www.xbox.com/support oldalt felkeresve egyedi igényt nyújtson be. A gyártó ezzel együtt leszögezi, hogy a konzolon végzett fejlesztéseknek köszönhetõen az újabb modelleknél csökken az E74 hibakód elõfordulási valószínûsége.
+
+Bár a gyártó gesztusa a magyar gyakorlatban gálánsnak is tekinthetõ, a három éves kiterjesztett garanciával voltaképpen csupán a rá váró fogyasztói jogorvoslati eljárásoknak megy elébe a cég. Magyarországon a szavatossági jogokról rendelkezõ Polgári Törvénykönyv 308. §-a például azt írja elõ, hogy a fogyasztó a teljesítés (jelen esetben vásárlás) idõpontjától számított hat hónapig érvényesítheti szavatossági jogait, kivéve, ha a hiba a jellegénél vagy a dolog természeténél fogva ez alatt az idõ alatt nem volt felismerhetõ, nem jelentkezett (Ptk. 308/A. (1) bekezdés). Utóbbi esetben a szavatossági jogok érvényesítési határideje a teljesítés idõpontjától számított három év (tartós használati cikkeknél).

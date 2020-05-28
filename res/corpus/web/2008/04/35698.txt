@@ -1,0 +1,18 @@
+Megérkezett a Windows Mobile 6.1, jön az új mobil Internet Explorer
+
+A Pocket Lint információi igaznak bizonyultak: Robbie Bach, a Windows Mobile csapat vezetõje tegnap a Las Vegas-i CTIA Wireless konferencián mutatta be a Windows Mobile operációs rendszer legújabb, 6.1-es változatát, mely az év második felétõl lesz elérhetõ. Újabb verzió készül a mobilokon futó Internet Explorerbõl is.
+
+
+
+A Windows Mobile 6.1 az elsõ jelentõsebb frissítés lesz a Windows Mobile 6.0 tavaly februári debütálása óta. A frissítések között található az átdolgozott, minden fontos információt tartalmazó kezdõképernyõ, az Internet Explorer személyre szabható kezdõlapja, a chatszerû SMS-megjelenítés, a Standard változatnál is elérhetõ kivágás-beillesztés funkció, mely a 6.0-nál az érintõképernyõ támogatása miatt hiányzott. Az apróbb frissítések, módosítások között olyan funkciók is szerepelnek, mint a zenelejátszás vezérlése a kezdõképernyõrõl.
+
+A készülék beállítását teszi egyszerûbbé a "Getting Started" menüpont,ahol a Bluetooth-t, a Wi-Fi-t, az e-mailbeállításokat és az órát néhány gombnyomással munkára foghatjuk. A "Music and Photos" nem csak a készülékben, hanem a memóriakártyán tárolt dalokat és képeket is egyetlen listában jeleníti meg.
+
+
+Az új mobil operációs rendszerhez a Microsoft bejelentette a System Center Mobile Device Manager 2008-at, mellyel a vállalati felhasználók távolról is menedzselhetik a cég hálózatára kapcsolódó mobil eszközöket. A SCMDM 2008 segítségével távolról telepíthetõk alkalmazások, blokkolhatók a készülék egyes funkciói (például a kamera), vagy akár letörölhetõ róla az összes adat, ha a tulajdonosa esetleg elveszti a telefont. 
+
+
+
+
+
+A Microsoft emellett asztali gépeken futó alkalmazásokhoz hasonló "kinézetû és érzetû" mobil alkalmazásokat is ígér. Az egyik ilyen alkalmazás az új Internet Explorer Mobile lesz, melyet októbertõl érhetnek majd el a készülékgyártók. Az új böngészõ támogatni fogja az olyan technológiákat, mint az Adobe Flash, a Silverlight és streaming H.264 videók, emellett végre lehet majd vele zoomolni a weboldalakon, emellett a sebességét is javítják.

@@ -1,0 +1,16 @@
+A kisebb kamerás mobilok is 5 megapixelesek lehetnek a Kodak új érzékelõjével
+
+A Kodak új fejlesztése a kisebb fizikai méretekkel megáldott, vékonyabb mobiltelefonokban is elérhetõvé teszi a nagy felbontású, kitûnõ képminõséget. Az új CMOS képérzékelõt alapjairól tervezték újra, a képpontok távolsága az eddigi 1,7 helyett mindössze 1,4 mikron.
+
+
+
+A Kodak új CMOS szenzora kisebb helyen is elfér, ezért az öt megapixeles felbontás a kamera beépítésének szûkös helyet biztosító mobilházaknál is elérhetõvé válik. A képérzékelõt teljes egészében újragondolták a tervezõk és amellett, hogy a szenzor kisebb a jelenlegieknél, még a képpontok közötti, fényre érzéketlen terület is jóval vékonyabb.
+
+
+A KAC-05020 képérzékelõ a Kodak tavaly júniusban bejelentett új színszûrõjét alkalmazza, amely részben eltér Dr. Bryce Bayer, a Kodak mérnöke által 1976-ban fejlesztett Bayer mintától. Ezt a megoldást alkalmazza szinte az összes, színeket is feldolgozni képes képérzékelõ. Az új megoldás lehetõvé teszi, hogy a képzaj ne emelkedjen a szenzor kis fizikai méretei miatt.
+
+
+
+Az új mintázat esetén a képérzékelõ képpontjainak csak fele dolgozza fel a színinformációkat -- továbbra is egy kék, egy vörös és két zöld mintára --, a másik fele azonban nagy érzékenységgel a látható fénytartomány teljes egészét érzékeli. Az új minta CCD és CMOS érzékelõkön egyaránt alkalmazható, és variálható is, de nyolc képpont esetén négy a teljes színskálát, kettõ a zöld színt, egy-egy pedig a kéket és a vöröset érzékeli. 
+
+Az új technológiával a zaj mennyisége ISO 200-as érzékenység esetén egyezhet meg a jelenlegi ISO 50-es képével, ami azt jelenti, hogy a kép 1/250 záridõvel exponálva képes lehet a jelenlegi színszûrõvel készült, 1/60 másodperc alatt megvilágított kép zajszintjét tartani. Az LG mobiltelefonjaiba elõszeretettel építi be a Kodak szenzorait, amelyek azonban nem gyártófüggõek, így az újdonság minden iránta érdeklõdõ mobilgyártó számára elérhetõ lehet. A telefontervezõk az elsõ mintapéldányokból tavasztól kaphatnak, az elsõ végleges érzékelõkkel szerelt mobilok azonban 2009. elejéig még nem várhatók a piacon.

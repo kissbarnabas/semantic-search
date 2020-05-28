@@ -1,0 +1,33 @@
+Egyre több informatikai szállító válik &quot;zölddé&quot; -- de miért?
+
+Az IT-szállítók hirtelen "zölddé" válásának legfontosabb oka az ügyfelek elvesztésétõl és a kormányzati szabályozástól való félelem, a környezetvédelmi szempontok szinte egyáltalán nem játszanak szerepet. Noha a cégvezetõk egyetértenek azzal, hogy csökkenteni kellene a környezetterhelést, közel háromnegyedük úgy gondolja, vállalatának tevékenysége nem különösebben szennyezõ -- derül ki a PricewaterhouseCoopers által elkészített tanulmányból, amely közel 150 felsõvezetõvel készített interjún alapul.
+
+
+
+A nép a zöld termékekre bukik
+
+A megkérdezett cégvezetõk 61 százaléka tartja fontosnak, hogy csökkentse a környezetszennyezést, bár 71 százalék szerint nem különösebben terhelik a környezetet. Az informatikai cégek a környezetszennyezés mértékét tekintve jócskán elmaradnak például az energiaszektortól vagy a nehézipartól, egy nagy európai informatikai szállító vezetõje szerint a legtöbb intézkedést "biztos ami biztos" alapon hozzák. Az ügyfelek vagy a befektetõk részérõl is elvárás lehet a környezettudatos mûködés.
+
+
+
+Zöld prémium
+Egy, a Lenovo és az AMD megbízásából elvégzett felmérés szerint az európai informatikai vezetõk 82 százaléka boldogan ad ki több pénzt a "zöld" termékekért, mert meg van róla gyõzõdve, hogy hosszú távon behozzák az árukat, bár a választásnál nem ez az elsõdleges szempont. 
+
+
+
+A PwC által megkérdezett vállalatvezetõk közel fele állította, hogy a zöldkártya kijátszásának legfõbb oka az, hogy a piacon jobban eladhatók az ilyen termékek. A válaszadók 36 százalék szerint az ügyfelek igénylik a környezetbarát, energiatakarékos informatikai megoldásokat, 27 százalék azonban leginkább azért fordul környezetbarát irányba, mert attól tart, a kevéssé zöld vállalatokat hátrányos megkülönböztetés éri például a kormányzat vagy az ügyfelek részérõl. Zöldnek lenni, vagy legalábbis annak látszani egyre fontosabbá válik.
+
+Egyre nagyobb lesz az aránya a környezetbarát termékeknek, legyen szó a vállalati, a fogyasztói, vagy a kormányzati szektorról. A fogyasztók és a kormányzati vásárlók már ma is kiemelt figyelmet fordítanak az energiatakarékosságra a PwC által megkérdezett vezetõk szerint, de a válaszadók több mint 70 százaléka állította, hogy két év múlva a kormányzati, fogyasztói és vállalati szegmensben egyaránt nagyon erõs vagy erõs lesz a kereslet a környezetbarát termékek és megoldások iránt.
+
+A dráguló energiaköltségek jelentik a fõ motivációt
+
+A környezetbarát, energiarakarékos termékek iránti kereslet növekedésének legfõbb mozgatórugója az energiaárakban keresendõ, a válaszadók 60 százaléka esetében ez a fõ motiváció. Ahogy az adatközpontok bõvülnek, és a mûködtetésükhöz, valamint a hûtésükhöz szükséges áram mennyisége és költsége is egyre nõ. A szerverek és tárolók konszolidációjával, virtualizálásával és energiatakarékosra cserélésével az üzemeltetési költségek leszoríthatók, ami közvetlenül a nyereséget növeli. A PwC szerint ma még csak a cégek 7 százaléka kínál kimondottan zöldnek márkázott termékeket, de két éven belül az arányuk 40 százalékra emelkedik majd.
+
+
+Az energiaköltség leszorítása mögött a szabályozásoknak való megfelelés (51%), illetve az ügyféligény (45%) következik a sorban. Az energiatakarékosság ennek megfelelõen a cégek kutatás-fejlesztési tevékenységében is egyre erõteljesebben van jelen, a megkérdezettek 40 százaléka már ma is foglalkozik kimondottan takarékos megoldások kidolgozásával, további 31 százalék pedig két éven belül kezd hozzá. A zöld mozgalom fókuszában tehát elsõsorban ez áll, nem pedig a veszélyes anyagok arányának csökkentése, vagy az újrafelhasználhatóság.
+
+Mindent áthat a zöld mozgalom
+
+Ugyanakkor az is igaz, hogy a vállalatok a kutatás-fejlesztés során kénytelenek kompromisszumokat kötni a környezetbarátság terén, ugyanis egyes zöld megoldásokat lényegében lehetetlen alkalmazni anélkül, hogy a termékek funkcionalitása ne szenvedne csorbát, vagy az ára ne szökne az egekbe. Másfelõl viszont vannak olyan iparági trendek, amelyeknek csak mindegy mellékes hozadéka az energiatakarékosság, gondoljunk például az egyre népszerûbb LCD-tévékre és -monitorokra, amelyek nagyobb képméretûek és nagyobb felbontásúak a katódsugárcsöveseknél, miközben kevesebbet is fogyasztanak és kevesebb veszélyes anyag van bennük.
+
+A környezetvédelmi kérdések komolyan rányomják a bélyegüket a gyártók teljese ellátási láncára is, valamint a beszállítói kapcsolatokra. A megkérdezett vezetõk több mint 40 százaléka állította, hogy a zöld útra térés befolyásolta az ellátási láncát, 39 százaléknál pedig a gyártási tevékenységet is. A megkérdezettek 48 százaléka véli úgy, hogy a vállalata a közeljövõben jelentõsen megváltoztatja mûködését, belsõ folyamatait annak érdekében, hogy tevékenysége minél kevésbé legyen szennyezõ, környezetterhelõ.

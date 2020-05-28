@@ -1,0 +1,14 @@
+A Hitachi gyorsított vállalati SAS merevlemezén
+
+A Hitachi 6 gigabit másodpercenkénti sebességre képes, vállalati környezetbe szánt meghajtót jelentett be, mely 10 ezer fordulatot tesz meg percenként, kapacitása pedig 147 vagy 300 gigabájt lehet.
+
+
+
+A közelmúltban adtunk hírt arról, hogy lassan lezárul a SATA csatolófelület harmadik generációjának szabványosítása, mely 6 gigabit másodpercenkénti adatátviteli sebességet kínál. Ilyen terméket ma még nem lehet kapni, a Seagate az AMD-vel karöltve eleddig csak egy demópéldányt állított üzembe. Ha valakinek azonban már ma szüksége lenne erre a sebességre, a fentiek ellenére megveheti, igaz a Hitachi vállalati környezetbe szánt SAS-csatolós termékpalettájából kell szemezgetnie.
+
+
+Az elõdjénél kétszer gyorsabb Hitachi C10K300 két változatát jelentette be tegnap a gyártó, a kisebb 147 gigabájt, a nagyobb pedig 300 gigabájt kapacitású. A tárolók tányérjai 10 ezer fordulatot tesznek meg percenként, az adatok pedig a a termékkategóriához illõ dual-port 6 Gb/s SAS csatolófelületen közlekednek.
+
+
+
+Az új meghajtó átlagos fejpozícionálási ideje mindössze 3,9 ms. A Hitachi komolyan vette a fogyasztást érintõ kérdéseket is, a C10K300 terheletlen üzemben 3,4, teljes terhelés mellett pedig mindössze 6,1 wattot fogyaszt, ezek az értékek a kategóriájának egyik legjobbjai. A gyártó a bejelentés során nem tért ki az árat illetõ részletekre.

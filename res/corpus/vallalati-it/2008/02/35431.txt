@@ -1,0 +1,10 @@
+Hazai fejlesztésû titkosító berendezés: HopSec4 GW
+
+Speciális hálózati titkosító berendezést mutatott be a Polygon Informatikai Kft. A hazai fejlesztésû HopSec4 GW két vagy több hálózati pont között létesít biztonságos kapcsolatot, a fejlesztõk szerint a terméket például távmunka-állomások kialakítására, ipari távvezérléshez, távoli rendszerek menedzsmentjéhez, mobil behívásos elérések titkosítására, kis irodák vagy vállalati telephelyek összekötésére, nagyvállalati fiókhálózatok védelmére lehet eredményesen használni.
+
+
+
+A HopSec4 GW a széles körben elterjedt jelszó- vagy kulcsalapú védelem helyett SSL-alapú titkosítást használ. A telepített rendszer két végpontja között titkosított SSL-csatornát épít fel, amellyel gyajkorlatilag lehallgathatatlanná, visszafejthetetlenné és meghamisíthatatlanná teszi a kommunikációt, miközben a végpontra csatolt számítógép úgy viselkedik, mintha a helyi hálózaton lenne. Az így kialakított hálózaton átvitt információ nem csak szoftveres, de fizikai támadások ellen is védett, a HopSec4 GW-ben ugyanis egy "buherálásbiztos" chip található, mely feltörési kísérlet esetén azonnal megsemmisíti a titkos kulcsot még akkor is, ha a készülék ki van kapcsolva, vagy nincs áram alatt.
+
+
+ A HopSec4 GW titkosítási teljesítménye 2Mbit/s, amihez SSL/TLS rendszerû, valódi VPN protokollt alkalmaz. Az eszköz bármilyen IP-hálózaton -- akár GPRS/3G-n keresztül is -- automatikusan képes felépíteni titkosított csatornát, ami Plug&Play mûködést és gyors, könnyû telepítést eredményez. A berendezés pont-pont módon és koncentrált hálózatként egyaránt telepíthetõ, ez utóbbi esetben a HopSec4 GW egy virtuális Ethernet-kapcsolóként mûködik. A HopSec4 GW konfigurálása webes felületen keresztül történhet.

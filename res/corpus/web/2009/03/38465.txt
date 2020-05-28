@@ -1,0 +1,23 @@
+Nem áprilisi tréfa a Conficker, de senki sem tudja mi fog történni
+
+Biztonsági szakértõk arra figyelmeztetnek, a Conficker vagy más néven Downadup féreg holnap, azaz április 1-én új komponenssel frissül. Egyelõre nem tudni, konkrétan mi fog történni, ez pedig különösen ijesztõvé teszi a férget -- persze az is lehet hogy végül semmi sem fog történni, de fõ az óvatosság.
+
+
+
+Tízmillió fertõzött gép is lehet
+
+A megfertõzött számítógépeken a féreg már régóta folytatja kártékony tevékenységét, további ártó szándékú programokat tölt le és telepít a háttérben, megkísérli kikapcsolni a víruskeresõket, blokkolja a hozzáférést a biztonsági cégek weboldalaihoz, illetve leállítja a Windows automatikus frissítését. A Symantec szakértõi szerint az Conficker talán a legagyafúrtabb kártevõ az internet történetében -- mondta egy múlt heti rendezvényen Con Mallon, a vállalat fogyasztói termékekért felelõs regionális vezetõje.
+
+A féreg kódjának vizsgálatával szakértõk kiderítették, hogy a Confickerben van egy dátumfigyelõ rutin, ami április 1-ére van beállítva, ekkor fogja magát aktivizálni a kártevõ, de egyelõre nem lehet tudni, pontosan mi is történik majd. Ami biztos, hogy a Conficker egy 50 ezres  listából véletlenszerûen kiválaszt 500 webcímet, és megpróbál rájuk csatlakozni, onnan adatokat letölteni. Ilyen bonyolultságú infrastruktúrát eddig egyetlen kártevõ mögé sem építettek a bûnözõk. A féreg terjedésének teljes megállításához mind az 50 ezer domaint le kellene tiltatni, de jelenleg nem létezik olyan szervezet, mely ezt megvalósíthatná.
+ 
+
+
+  A Windows 2000 vagy annál újabb operációs rendszerekben felfedezett és 2008. októberben javított sebezhetõséget kihasználó Confickert elõször Ázsiában észlelték, azonban a biztonsági cégek által begyûjtött adatok alapján már világszerte elterjedt annak ellenére, hogy a biztonsági szoftverek kivétel nélkül ismerik és eltávolítják ezt a kártevõt. Szakértõi becslések szerint világszerte akár 15 millió is lehet a Confickerrel fertõzött gépek száma -- a féreg sikeresen hatolt be olyan szervezetek hálózataiba is mint a brit haditengerészet vagy a Bundeswehr, azaz a német hadsereg, illetve a brit parlament.
+
+A Magyar Posta is áldozatul esett
+
+A HWSW információi szerint Magyarországon a Magyar Posta is azok közé a nagy szervezetek közé tartozik, amelyek hálózatába bejutott a féreg. A Posta az ügyfeleinek ma kiküldött e-mailjében arra figyelmeztet, ma este 22 órától korlátozásokat vezet be az informatikai rendszerében, 2 napra leáll a külsõ levelezés, nem mûködnek az olyan online szolgáltatások mint a nyomonkövetés, posta- és irányítószám-keresés, fiókbérlet-keresés, csomag és levél-díjkalkulátor, az E-értesítés és E-kézbesítési jegyzék, emellett nem fogadnak elektronikus feladójegyzéket floppyn, pendrive-on, CD-n, DVD-n, mivel a Conficker ezeken is képes terjedni.
+
+A Confickert jelentõségét sokan a 2003-as SQL Slammerhez hasonlítják, amely az utolsó nagy globális féregtámadások egyike volt, és 2003. januárjának végén elosztott szolgáltatásmegtagadásos támadással érezhetõen lelassította az internetes forgalmat -- becslések szerint a Slammer puffertúlcsordulásos módszerrel percenként 75 ezer gépet fertõzött meg egy SQL sebezhetõséget kihasználva.
+
+Korábban már számos esetben elõfordult, hogy "idõzített bombát" tartalmazó kártevõket (pl. Sober) azonosítottak, azonban a biztonsági cégek fokozott figyelmének köszönhetõen egyik esetben sem történt semmi rendkívüli.

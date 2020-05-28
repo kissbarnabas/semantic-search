@@ -1,0 +1,14 @@
+Sikeres teszt nélkül a katasztrófa utáni helyreállítási terv semmit sem ér
+
+Az Applied Research West a Symantec megbízásából világszerte több mint 1600 olyan informatikai vezetõt kérdezett meg a katasztrófa utáni helyreállítási tervekrõl (disaster recovery), akik legalább 5000 fõt foglalkoztató vállalatnál dolgoznak. A felmérésben fõleg informatikai felsõvezetõk, adatközpont-vezetõk, illetve IT menedzserek vettek részt.
+Az eredmények szerint az elmúlt év során szinte minden vállalatnál (93%) szükség volt katasztrófa utáni helyreállításra, legtöbbször hardver- vagy szoftverhiba, természeti csapás, külsõ biztonsági incidens, felhasználói hiba vagy éppen áramszünet miatt. Magyarországon például a megkérdezett cégek hetven százaléka szembesült már a természeti katasztrófa, tûz- vagy vízkár után szükséges helyreállítás feladatával, sõt, több mint egyharmadának származott kára emberi hibából. A megkérdezett magyar cégek 94 százalékánál okozott rendszerhiba, szoftver- vagy hardverprobléma gondot
+
+Az EMEA régióban mûködõ cégek esetében egy leállás átlagosan 295 ezer dolláros költséget jelentett, de Észak-Amerikában ennél jóval több, mintegy 900 ezer dollár. A leállás költsége a pénzügyi szervezeteknél és az egészségügyben a legmagasabb -- derül ki a felmérésbõl.
+A válaszadók 35 százaléka helyreállítási tervét csak évente vagy annál is ritkábban próbálja ki, ami jelentõs javulás 2008-hoz képest.A cégek leginkább azért nem hajtják végre rendszeresen a helyreállítási teszteket, mert idõhiányban szenvednek, a folyamat megzavarja az alkalmazottakat vagy az ügyfeleket, illetve mert egyszerûen kiesést okoz a vállalat bevételtermelõ képességében. Ugyanakkor a vállalatok saját bevallása szerint a katasztrófa utáni helyreállítás tesztelése négy esetbõl egyszer sikertelen, vagyis a cégek még ha rendelkeznek is visszaállítási tervvel, nem tudják végrehajtani, vagy csak határidõn túl képesek rá. A felmérésben szereplõ magyar vállalatok 42 százalékánál nem sikerült kitûzött határidõre végrehajtani a helyreállítási tervet.
+Világszerte hódít a virtualizáció, a cégek egyre több folyamatukat virtualizálják, a felmérés szerint leginkább az adatbázisokat és az alkalmazásszervereket. Riasztó azonban, hogy a virtualizált környezetek csak a cégek alig több mint harmadánál szerepelnek a mentési tervben. A válaszadók szerint virtuális környezetben a létfontosságú adatok és alkalmazások védelmének legfõbb problémáját a tárvezérlõ eszközök hiánya jelenti, illetve az erõforráshiány, ezért a költségek csökkentésének érdekében szükséges lenne a nagyobb mértékû automatizálás és a meglevõ informatikai beruházások jobb kihasználása.
+
+	     
+                  
+                  
+                  
+                   

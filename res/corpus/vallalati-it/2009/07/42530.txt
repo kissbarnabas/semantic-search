@@ -1,0 +1,12 @@
+Itthon is kaphatók a Fujitsu "zéró wattos" asztali PC-i
+
+Az új Esprimo P7935 család bizonyos konfigurációinak különlegessége, hogy a számítógépek a speciális felépítésû tápegységnek, valamint az alaplap BIOS-a által szabályzott vezérlõáramkörnek köszönhetõen a kikapcsológomb használata nélkül, szoftverbõl leállítva képes olyan energiatakarékos állapotba kerülni, mely során nulla wattot fogyaszt. A felhasználó ilyenkor a gép elõlapján található, megszokott kapcsológombbal indíthatja újra a PC-t.
+Ha a számítógépet munkaidõn kívül kell adminisztrálni (például idõzített szoftveres karbantartás, szoftverfrissítés stb.), a rendszergazda meghatározhat egy olyan idõintervallumot, amikor a PC a klasszikus értelemben vett készenléti állapotba kerül (ilyenkor a fogyasztás pár wattra nõ), és távolról bekapcsolható. A beállított idõtartam végén a gép automatikusan visszaáll nulla wattos üzemmódba.
+Zéró wattos PC és TFT: nem kell tekerni hozzá
+
+Az idén július 1-tõl hatályba lépõ Energy Star 5.0 elõírás követelményeit is teljesítõ ESPRIMO munkaállomások fekvõ és mikrotorony kivitelben egyaránt kaphatók, a zéró wattos kivitelért minimális felárat (nem egészen tíz eurót) kér a számítógépgyártó. Az egyedileg konfigurálható gépeket továbbra is Augsburgban szerelik össze -- itt zajlik az összeszerelésen kívül az alaplapok gyártása is.
+Poros Gábor, a Fujitsu Technology Solutions magyarországi leányvállalatának ügyvezetõje a HWSW kérdésére elmondta, hogy cége elsõsorban az energiatakarékos mûködés és a környzettudatos gyártási és logisztikai folyamattal igyekszik megkülönböztetni termékeit más cégek kliens-termékkínálatától. A gyártó tavaly vezette be professzionális kínálatába az elsõ "zéró wattos" monitort, a hasonló koncepcióval árult PC-ket pedig az év elsõ felében kezdte forgalmazni.	     
+                  
+                  
+                  
+                   

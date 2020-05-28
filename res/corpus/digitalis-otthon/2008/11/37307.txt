@@ -1,0 +1,70 @@
+Az Intel visszaküldte az AMD-t az elõzõ évezredbe: itt a Core i7
+
+[PROHARDVER!/HWSW] Ma járt le a Nehalem chipek tesztjeire vonatkozó embargó, így két héttel a hivatalos piaci premier elõtt a benchmarkeredmények elárasztják a netet. A Prohardver! magazin mérései alapján az Intel magasra tette a lécet,  felülmúlva jelenlegi Core 2 processzorait, és a teljesítményéhes területeken elérhetetlen távolságba került az AMD-vel szemben. Az is kiderül ugyanakkor, hogy a Nehalem nem gyerekjáték, igazán csak jól párhuzamosított, jó minõségû kódon tudja kifutni magát. 
+
+Régóta sejteni lehetett, hogy a Nehalem az Intel történetének egyik legerõsebb fejlesztése lesz, amit a vállalat által folyamatosan csöpögtetett részletek egyre világosabbá tettek. A chip megjelenésével lezárult az Intel 2004-es irányváltása, egyúttal egy új korszak kezdõdik, melyben az Intel régóta nem látott erõfölénnyel bír. A Prohardver! és más lapok tesztjei azt bizonyítják, az Intel által jelzett kikezdhetetlen fölény valódi, és az AMD évekre került attól, hogy kliensoldali teljesítményben felvehesse a versenyt riválisával -- ekkora különbségre a két gyártó közt közel egy évtizede, az AMD Athlon 1999-es megjelenése óta nem volt példa. 
+
+
+
+Bezárult a kör
+
+Anélkül, hogy túlságosan belemélyednék az architekturális részletekbe, melyet már a HWSW hasábjain is számos alkalommal tárgyaltunk már, a számok kiértékelése elõtt érdemes felfrissíteni a legfontosabb változásokat. A legnagyobb horderejû mind közül egyértelmûen az új rendszerarchitektúra: a Nehalem már nem az Intel korábbi processzoraiból ismert buszrendszert használja, hanem egy topológiailag és mûszakilag is gyökeresen új infrastruktúrát, mely magas szinten az AMD által 2003-ban bevezetett Direct Connect Architecture-ra emlékeztet. A háromcsatornás DDR3-memóriavezérlõt a processzormagokkal közös szilíciumra integrálták, a külvilággal történõ kommunikáció pedig pont-pont összeköttetéseken zajlik. Az úgynevezett Quick Path Interconnect linkek alacsony késleltetést és magas, egyenként akár 25,6 gigabájt/s sávszélességet biztosítanak a perifériák, valamint többutas rendszerben a többi processzorlapka felé.
+
+Az új rendszerarchitektúra hatása önmagában drámai, tekitnve, hogy az Intel-alapú rendszerek teljesítményét leginkább az adatbuszok szûkössége fogta vissza, a végrehajtóegységekben gazdag Core-magok kihasználtsága sokszor alacsony, adatra várnak -- ez leginkább a többutas konfigurációkban igaz, ahol az adatbuszokat nagyban terheli a koherenciaforgalom, valamint a memóriavezérlõn is osztoznak a processzorok. Az Intel mérései szerint egy kétutas konfigurációban a Nehalem több mint négyszeres valós memóriasávszélességgel rendelkezik egy 1600 megahertzes buszrendszerû Stoakley platformmal szemben is. A Core 2006-ban megszerezte és azóta meg is tartotta a mikroarchitekturális fölényt az AMD-vel szemben, a Nehalem pedig minimum ledolgozza az Intel rendszerarchitekturális hátrányát, ha ugyan nem épít ki szintén elõnyt -- önmagában már ez elegendõ volna a gyõzelemhez.
+
+
+[+] Nehalem: minden részlet a helyére került 
+
+Az Intel ugyanakkor nem elégedett meg ennyivel, magát a Core mikroarchitektúrát is erõteljesen továbbfejlesztette. Míg a Core egy alapvetõen "alulról" érkezõ, eredetileg notebookokba, így PC-s szoftverek futtatására szánt mikroarchitektúra, addig a Nehalem optimalizálásakor láthatóan elsõsorban a szerver- és munkaállomás kódokat tartották szem elõtt a mérnökök, melyek legfõbb jellemzõje a többszálúság. Erre utal a kódnév is, a Nehalem jelentése héberül folyamok, a chipet ugyanis az Intel izraeli központjában fejlesztették, hasonlóan a Core-hoz. Ennek megfelelõen ismét megjelenik a magonként két utasításszál egyidejû futtatását lehetõvé tévõ Hyper-Threading, így a négymagos chip 8 szálat kezelhet párhuzamosan.
+
+
+A többszálúság segítésére 96 helyett már egyszerre 128 mikroutasításból válogathat a soronkívüli végrehajtásért felelõs logika. Szintén a párhuzamosság fokozását célozza az egymástól független cache-hozzáférések valamint a szinkronizációs primitívek gyorsítása. A sokszor nagy kódtömeggel bíró szerveralkalmazások futtatását másodszintû becslõk és a virtuális-fizikai memória címek megfeleltetését gyorsító másodszintû TLB (translation look aside buffer, memóriacím-fordítási tár) bevezetésével támogatták meg a fejlesztõk. Megváltozott a cache-hierarchia is, háromszintessé vált. A Nehalem 8 megabájtnyi inkluzív, vagyis az L1 és L2 adatait is tartalmazó L3 tárral minimalizálja a koherencia miatti adatforgalmat, miközben a magonkénti L2-k mérete 256 kilobájt.
+
+Klasszis
+
+A Prohardver! mérései alapján a Nehalem, ami asztali gépekhez Core i7 néven lesz kapható, egyszerûen lelépi a piacon megtalálható kínálatot. A chip 3,2 gigahertzen debütál az ezerdolláros Core i7-965 Extreme Edition formájában, ezzel egyidõben pedig megjelenik egy felsõ- és egy felsõ-középkategóriás modell is, a 2,93 gigahertzes i7-940 és a 2,66 gigahertzes i7-920. Azonos órajelen átlagosan 22-24 százalékkal nagyobb teljesítményt kapunk egy négymagos Yorkfieldhez viszonyítva (Core 2 Quad), ha nem számítjuk a grafikailag limitált és többségében rosszul párhuzamosított játékokat -- a tesztet így a számításintenzív tömörítõ, tömörítõ, audio, grafikus és renderelõ kódok, vagyis tipikus munkaállomás-alkalmazások teszik ki. A szórás természetesen nagy, a teljesítménynövekedés az elhanyagolhatótól az extrémig terjed.
+
+Ha megtisztítjuk a szélsõségektõl az eredményeket, vagyis a Nehalemre extrém módon reagáló WinRAR-tól és Apache webszervertõl, valamint a hálátlan TMPEGEnc DVD-enkódolástól és Java-futtatási teljesítményt  mérõ JATMARK-tól, akkor 2,66 gigahertzen átlagosan 21,6 százalékkal nagyobb teljesítményt kapunk 11 pontos szórás mellett, míg 3,2 gigahertzen már 23,4 százalékos a Nehalem fölénye, ráadásul stabilabban, a szórás 9 százalékpontra szûkül -- vagyis a Nehalem az integrált memóriavezérlõnek köszönhetõen jól skálázódik az órajellel.
+
+A jól párhuzamosítható, és a nagy sávszélességnek hálás tömörítõk szinte megbolondulnak a Nehalemtõl: a WinRAR benchmarkja 60 százalékos gyorsulást mutat, mig a 7-Zip tömörítése 31, a kicsomagolás 50 százalékkal sebesebb. A videokódolásnál csak a TMPEGEnc MPEG-2 konvertálása nem hozott lényegi változást a kód miatt, ami nem volt képes kihajtani a Nehalem erõforrásait, a többi mérés 15-32 százalékos elõnyt mutatott. A Nehalem grafikai renderelés esetében stabilan 19-26 százalékos fölényt mutatott fel a legerõsebb Yorkfielddel szemben.
+
+
+A számok egyúttal azt is jelentik, hogy azok a szoftverek, melyek jól párhuzamosított kóddal bírnak, a 2,66 gigahertzes i7-920 modellen legalább úgy, vagy gyorsabban futnak, mint a jelenleg legerõsebb, ötször annyiba kerülõ Core 2 Extreme QX9770-en. Az i7-920 a játékoktól és szélsõértékektõl megtisztított mintában átlagosan 6,7 százalékkal gyorsabb a QX9770-nél.
+
+Mindez pedig gyászos fényt vet a konkurenciára. Játékok nélkül a Prohardver! 21 mérésében átlagosan 56 százalékkal gyorsabb a legerõsebb Nehalem az AMD legsebesebb Phenomjánál, melynek órajele 2,6 gigahertz. Bár a szórás nagy, egyenletes, így hiába tisztítjuk meg a szélsõértékektõl, mindeképpen 50 százalék feletti átlagot kapunk, de a Nehalemnek legkevésbé kedvezõ kódoknál is 30 százalékos a fölény, 3D-renderben 43-55 százalék -- egy teoretikus, 3,2 gigahertzes Phenom még mindig átlagosan 40 százalék feletti hátrányban volna. Az i7-920 átlagosan 40 százalékos elõnnyel bír, tipikusan 25-50 százalékkal gyorsabb a Phenom X4 9950-nél, cserébe mintegy 100 dollárral többet kell az Intelnél kicsengetni érte.
+
+MPEG2 /
+WME Rambo AP DVD quality /
+JATMARK /
+Photoshop CS3 /
+Sony Vegas (HDV bench, RENDER mainconcept MPEG-2) /
+ABBYY /
+iTunes /
+3ds max 2008 V-ray 800x400 /
+Maya 2008 - 1600x1600 /
+TMPEGEnc - DV-t->AVI Divx 6.8 /
+Reaper (96000, best, 64bit float) /
+LightWave 9.3 Outcast Shuttle (640x480) /
+POV-Ray 320x200 /
+Premier Pro CS3 (DV NTSC standard 48khz) /
+7-Zip - 4.57 - decomp /
+x264 (711) /
+Cinebench 10 /
+Apache 15000/50 kbyte/s /
+7-Zip - 4.57 - comp /
+WinRAR bench /
+Fritz"
+>Az Intel processzorok elõnye a Phenom X4 2,66 GHz-hez viszonyítva az egyes kódok alatt (játékok nélkül); Forrás: PROHARDVER!; Összeállította a HWSW
+
+
+K.O.
+
+A konklúzió nem túlságosan bonyolult. A Nehalemmel az Intel még egy lapáttal rátett eddigi desktoppiaci fölényére, és az AMD számára rövid távon elérhetetlen távolságba került. Utóbbi számára éppen ezért semmiképpen nem lehet sikeres stratégia a teljesítményorientált megközelítés, ugyanakkor rendkívül nehéz most bármilyen fogást találnia az Intelen: a teljesítményorientált területeket a Nehalemmel uralja rövid idõn belül a legnagyobb chipgyártó, míg kétmagos Wolfdale processzoraival bármilyen árversenyt képes felvenni veszteség nélkül, és energiahatékonyságban is verhetetlen jelenleg, amihez a gyártástechnológiai lépéselõnye és a fejlett energiagazdálkodás egyaránt hozzájárul.
+
+ Az AMD abszolút fölénybe tehát a következõ legalább 1, de inkább 1,5-2 évben nem kerülhet az ismert terméktervek alapján, így leginkább a felsõbbrendû grafikus megoldásaival épített számítógép platformjaira, valamint a gazdaságos mûködésre kell koncentrálnia -- nem véletlen a 45 nanométeres eljárás rendkívül agresszív tervezett bevezetése. Ahol a Nehalem nem tudja megmutatni magát, azok a grafikailag intenzív játékok, ezek ugyanis nem processzorkorlátosak, és többnyire egyébként is rendkívül optimalizálatlan kóddal bírnak, mely nem képes a magokban rejlõ erõforrásokat kihasználni. Játék miatt tehát egyelõre nem érdemes váltani.
+
+A Nehalem ugyan a szerverekben mutatja ki majd igazán a foga fehérjét, addig azonban az AMD-nek nagyjából 5 hónapja van még. A Shanghai kódnéven ismert, 45 nanométeres csíkszélességû négymagos Opteronban fekszik most a vállalat minden reménye, hogy a Nehalem-alapú Xeonok jövõ márciusi érkezéséig minél jobban megerõsítse a cég pozícióit a szerverpiacon, és megpróbáljon ellenállni a Fiorano platform és a hatmagos Istanbul chipek érkezéséig -- a jelek szerint szükség lesz a két extra magra. 
+
+Véleménye van?
+Szóljon hozzá a fórumban
+írjon szerkesztõségünknek!

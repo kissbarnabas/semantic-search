@@ -1,0 +1,14 @@
+Megjelent az elsõ SMS-ben terjedõ kártevõ
+
+Egyre több borsot törhetnek majd a mobilhasználók orra alá azok az SMS-ben terjedõ kártevõk, melyek egyik elsõ alfaja az elsõ negyedévben kezdett terjedni világszerte -- hívja fel a figyelmet idõszaki biztonsági jelentésében az F-Secure. 
+
+
+
+Az elsõsorban Kínában terjedõ, de a világ több országában is fertõzõ SymbOS/Yxe SMS-kártevõ a Symbian Series 60-as platformra épülõ készülékekre, azaz jellemzõen a Nokia újabb okostelefonjaira jelent veszélyt. A fertõzött SMS egy szexuális jellegû tartalmakat és sztárpletykákat ígérõ weboldal linkjét tartalmazza, amelyre elnavigálva a telefon böngészõje letölti magát a kártevõt.
+
+Az elsõ SMS-ben terjedõ kártevõ szakértõk szerint azért is jelent különösen komoly veszélyforrást, mert telepítéskor képes megkerülni az operációs rendszer eddig biztonságosnak hitt tanúsítvány-ellenõrzõ rendszerét. A SymbOS/Yxe ugyanakkor nem jelent közvetlen veszélyt a telefonon tárolt adatokra, vagy az operációs rendszer integritására. A kártevõ alapvetõen két funkciót tölt be: egyrészt véletlenszerûen elküldi magát SMS-ben a telefonkönyvben szereplõ számokra, másrészt egy adatbázisba menti a fertõzött telefon hívószámát. Ezt az adatbázist a késõbbiekben jellemzõen SMS-spamek küldésére használják fel.
+
+
+A Symbian Series 60-ra épülõ Nokia okostelefonok üzenetkezelési rendszerét korábban is lehetett támadni, igaz, más módszerekkel. Egy a tavalyi év utolsó napjaiban felfedezett támadás lényegében szolgáltatásmegtagadásra kényszeríti és megbénítja a telefon üzenetkezelõ rendszerét, amely így SMS-eket és MMS-eket sem fogad, de egyébként a készülék továbbra is mûködik és a felhasználó nem is szerez tudomást arról, hogy az üzenetfogadás szolgáltatás megállt.
+
+A támadás kivitelezéséhez ráadásul nincs szükség semmiféle speciális ismeretre, szinte bármilyen mobiltelefonról elküldhetõ a speciális karaktersort tartalmazó SMS.

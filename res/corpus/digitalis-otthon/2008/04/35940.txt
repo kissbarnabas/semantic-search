@@ -1,0 +1,12 @@
+Új taggal bõvül az NVIDIA GeForce 9600 sorozat
+
+Az NVIDIA újabb taggal bõvítette GeForce 9-es sorozatát, a 9600 GSO a remek ár-teljesítmény viszonya kapcsán pillanatok alatt hatalmas népszerûséget szerzõ 9600 GT fölé érkezik a termékpalettán. Valójában nem újdonsággal van dolgunk, hanem egy korábbi GeForce-változatot dobott piacra új néven az NVIDIA.
+
+
+
+A vállalat weboldalán olvasható specifikációk szerint a GeForce 9600 GSO a 65 nanométeres csíkszélességgel gyártott G92 kódnevû lapkára épül, vagyis architektúráját tekintve a 9800-as sorozattal mutat rokonságot. Az 550 MHz-en ketyegõ chipben 96 darab egységes shader dolgozik 1375 MHz-es órajelen, amelyeket 48 textúrázóegység és 12 render back-end egészít ki. A 192 bites interfészen csatlakozó GDDR3 memória effektív órajele 1600 MHz, maximális mérete pedig 384 megabájt lehet. A specifikációk teljes egészében megegyeznek a GeForce 8800 GS modellével.
+
+
+
+
+ A grafikus chipet tekintve a 9600 GSO papíron erõsebb a 9600 GT-nél (64 shader 650 MHz-en), azonban a memóriasávszélességet tekintve jócskán elmarad tõle (38,4 GBps vs. 57,6) ami alighanem érezhetõ lesz az összteljesítményben is. Hogy a GeForce 9600 GSO chipre épülõ kártyák mikortól és mennyiért lesznek kaphatók, azt egyelõre homály fedi. Az NVIDIA az árazással kapcsolatban csupán annyi információval szolgál a weboldalán, hogy a 9600 GSO "lélegzetelállító teljesítményt nyújt elérhetõ áron".

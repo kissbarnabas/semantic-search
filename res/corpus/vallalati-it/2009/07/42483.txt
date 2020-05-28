@@ -1,0 +1,9 @@
+Kritikusan sebezhetõ a Firefox 3.5
+
+A végleges Firefox 3.5 megjelenését követõen mindössze két héttel publikálta a támadó példakódokat gyûjtõ milw0rm biztonságtechnikai oldal azt az exploitot, mely egy Windows rendszeren elindítja a számológépet -- klasszikus demonstrációja a távoli kód privilegizált végrehajtásának. A kód arra ad lehetõséget, hogy egy HTML weblapba JavaScriptet ágyazva lehessen támadni a látogatókat, mégpedig akkor, mkor a böngészõ feldolgozza a szkript HTML font tagekre vonatkozó részeit. Ekkor túlcsordulásos technikával lehet manipulálni a memóriát. A Secunia biztonsági cég kritikusnak sorolta be a sebezhetõséget.
+
+A Mozilla értesült már a problémáról, egyelõre azonban nem áll rendelkezésre megfelelõ biztonsági frissítés. Igaz, arról sem tudni, hogy léteznének olyan fertõzött weboldalak, melyek kiaknáznák ezt a rést. Addig biztonsági intézkedésként a JavaScript feldolgozásának kikapcsolása javasolható azok számára, akik maximális biztonságot akarnak -- igaz, ez gyakorlatilag folyamatosan igaz. A heise Security szerint a Windows 7 RC figyelmeztetéssel megfogta a szkriptet, figyelmeztetve a felhasználót, és felajánlva a lehetõséget a végrehajtás megszakítására.	     
+                  
+                  
+                  
+                   

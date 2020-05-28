@@ -1,0 +1,18 @@
+Két kilométeres hatótávolságot ígér a bõvített Wi-Fi, a Max-Fi
+
+[Techworld] Egy holland cég, a KMC Systems új életet lehellt a Wi-Fi hatósugarát kiterjesztõ InspiAir technológiába: a Max-Fi-re átkeresztelt megoldással hasonló lefedettséget érhetnek el, mint a WiMax-szel. A jelenleg használt Wi-Fi-kártyákkal -- szabad téren -- akár 2 kilométerrõl is kapcsolódhatunk a Max-Fi routerekhez.
+
+
+
+A vállalat piacra is dobta a technológiát, melynek használatára kizárólagosságot szerzett az egész világon. Ezt a megoldást teszteli jelenlegi az antwerpeni kikötõ is, mely 30 négyzetkilométernyi területet mindössze 14 routerrel fedett le. A routerekkel létrehozott hálózathoz vezeték nélkül kapcsolódnak a telefonok, térfigyelõ IP-kamerák és egyéb eszközök.
+
+
+A technológia elõnye, hogy WiMax-hez hasonló lefedettséget nyújt annak töredékéért. A hálózathoz a jelenlegi 802.11 szabványú vezeték nélküli eszközök, noteszgépek is kapcsolódhatnak. Az InspiAir nem új technológia, a kezdeti megrendeléseket, megállapodásokat azonban nem követték kereskedelmi termékek bejelentései.
+
+
+Wi-Fi távolsági rekord
+Az Italian Center for Radio Activities (C.I.S.A.R) és az Ubiquiti Networks tavaly augusztus végén jelentette be, hogy új távolsági rekordot értek el 5 GHz-es Wi-Fi-vel: Szardínia szigete és az Amiata hegy között 304 km-t hidaltak át irányított antennákkal. A kapcsolat 5,5 megabit/s-os linksebességgel jött létre.
+
+A holland KMC Systems megvásárolta az eladási jogokat és átnevezte a második generációnál járó technológiát Max-Fi-re. A hatótávolság növeléséhez nem emelik meg az adóteljesítményt, így az továbbra is megfelel az elõírásoknak és a jelenlegi Wi-Fi-eszközök is hasonlóan nagyobb lefedettséget élvezhetnek, akár 2 kilométerrõl is kapcsolódhatnak 1-2 megabit/s-os sebességgel.
+
+Minden egyes Max-Fi AirEZ 4000 idõjárásálló router négy darab 802.11a/b/g rádióval rendelkezik -- 1500 euró darabonként -- és akár 300 hálózati kapcsolatot is kiszolgálhat egyidõben. Az antwerpeni projekt költségvetése félmillió euró volt, s ennek csak felét vitte el a 14 darab router. Bár az InspiAir elsõsorban kültéren domboríthat, beltérben is nagyobb lefedettséget biztosít, mint a jelenlegi Wi-Fi.

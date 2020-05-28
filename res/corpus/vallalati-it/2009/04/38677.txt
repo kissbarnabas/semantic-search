@@ -1,0 +1,14 @@
+Az Oracle-felhasználókat csábítja új adatbázisával az IBM
+
+Megérkezett az IBM adatbázis-kezelõjének legújabb változata, a DB2 9.7, kódnevén a Cobra, amelyet egyelõre az vállalat Early Acces programjában résztvevõ vállalatok próbálhatnak ki, a végleges verziót júniusra ígéri a Nagy Kék.
+
+
+
+A Cobra legfontosabb újdonságai közé tartozik a korábbinál hatékonyabb adattömörítés, az IBM állítása szerint ennek segítségével a tárterület akár 75 százalékkal is csökkenthetõ, ami azt jelenti, elegendõ egy kisebb kapacitású tárolórendszert beszerezni, amely ráadásul kevesebbet is fogyaszt. Figyelemre méltó fejlesztés a DB2 9.7-ben, hogy a világon elsõként a relációs és XML-adatokhoz is biztosít üzleti elemzési képességeket. A DB2 korábbi változatai is tartalmaznak már XML-támogatást, de csak tranzakcionális környezetben, a mostani fejlesztés azonban lehetõvé teszi a felhasználók számára, hogy az XML adatokat elemezni is tudják. A DB2 9.7 automatikus terhelés-menedzsment funkciókat is tartalmaz annak érdekében, hogy javuljon a kritikus alkalmazások (pl. havi zárás) teljesítménye, és ehhez az adminisztrátoroknak ne kelljen aprólékos manuális beállításokat végrehajtania -- a cég az adminisztrációs költségek akár 35 százalékos csökkenésérõl beszél.
+
+
+ Annak érdekében, hogy a relációs adatbázisok piacán az Oracle mögött második IBM a lehetõ legtöbb ügyfelet tudja a DB2 mögé felsorakoztatni, olyan migrációs képességek is bekerültek az adatbázisba, amelyek egyszerûvé teszik az adatbázis-alapú alkalmazások átültetését a Cobrára. Az IBM résztulajdonában levõ EnterpriseDB által kidolgozott technológia a nyílt forrású PotgreSQL adatbázison alapul és lehetõvé teszi az Oracle adatbázisokból az adattípusok, tárolt PL/SQL-eljárások és hívások átmozgatását a Postgres Plus Advanced Serverbe, mostantól pedig a DB2 9.7-es verziójába is.
+
+"Az ügyfeleink kihasznáhatják a DB2 alacsonyabb költségeit, miközben az üzleti alkalmazásaik teljesítménye és megbízhatósága javul" -- mondta Arvind Krisna, az IBM adatbázisokért felelõs vezetõje. Az EnterpriseDB migrációs képességeinek köszönhetõen az adatbázis-adminok továbbra is hasznosíthatják Oracle-ismereteiket, az EnterpriseDB technológiája ugyanis lehetõvé teszi az Oracle PL/SQL lekérdezések és tárolt eljárások futtatását DB2-n is.
+
+Az IDC jelenleg elérhetõ legfrissebb, de még 2007-re vonatkozó elemzése szerint az Oracle 44 százalékos részesedéssel vezeti a relációs adatbázis-kezelõk piacát, a második helyen álló IBM-nek már csak az eladások 21,3 százaléka jut, a Microsoft kénytelen megelégedni 18,3 százalékkal. 2007-ben a relációsadatbázis-piac 12,1 százalékkal 18,6 milliárd dollárra bõvült. A 2008-ra vonatkozó IDC-elemzés várhatóan április végén jelenik meg.

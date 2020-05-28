@@ -1,0 +1,16 @@
+Küszöbön az elektronikus papíron megjelenõ újságok
+
+[Nikkei Electronics/HWSW] Piacra kerülhet jövõre a világ elsõ elektronikus papíron megjelenõ újságja, közölte a területre szakosodott japán E Ink. A vállalat szerint számos újságkiadó vizsgálja már a területet, és megkezdték a felkészülést az elektronikus újságok bevezetésére. 
+
+
+
+A legelõrehaladottabb újságkiadó az idei év második felében kezdi meg az elektronikus papíron megjelenõ újságok tesztelését, és ha minden rendben megy, akkor 2009 második felében már piacon lehet az elsõ elektronikus újság, árulta el a Nikkei Electronicsnak adott interjújában Kuwata Ryoszuke, az E Ink alelnöke. A vállat már a legtöbb jelentõs japán újsággal kapcsolatba lépett, de amerikai és európai lapok is mozgolódnak a területen, mondta el.
+
+Az egyik ilyen erõsen érdeklõdõ médiavállalat a Hearst Corp, többek közt a Seattle-Post Intelligencer és a Cosmopolitan kiadója, mely egyúttal az E Ink egyik befektetõje is, jól jelezve ezzel a figyelem mértékét, és a terület stratégia jelentõségét. Európai részrõl szintén aktivizálta magát a francia Le Monde, közölte Kuwata, aki úgy gondolja, hogy az a meg nem nevezett kiadó, mely legelõrébb tart, az idei év végén  kezdi meg az elektronikus újságok tesztelését több ezer terminállal, vagyis olvasóval, majd a nagyüzemi bevezetés 2009 második felére várható. A tartalom átvitele valamilyen vezeték nélküli hálózaton keresztül történik majd, például UMTS vagy Wi-Fi.
+
+Az elektronikus papírok olyan kijelzõk, melyek rendkívül magas, a valódi nyomatéhoz fogható kontrasztot kínálnak, miközben a tartalom megjelenítéséhez nincs szükség folyamatos áramellátásra, csakis az elsõ kirajzolás igényel energiát -- a láthatóságot a reflektív felület biztosítja, háttérvilágítás nincs.
+
+A Sony LIBRIé elektronikus könyvolvasó kijelzõjénél, melyet az E Ink és a szintén japán Toppan állít elõ, fekete festékkel töltött mikrokapszulákban fehér félvezetõ lapkák lebegnek -- ezek a pixelek. A fém és mûanyag fólia közé fogott mikrokapszulába juttatott töltésnek megfelelõen a chipek felemelkednek, vagy lesüllyednek, így befolyásolva, hogy az adott képpont milyen árnyalatot vegyen fel. A képen a Seiko Epson e-papír vékony és könnyû terminálja látható.
+
+
+A különféle vállalatok, az E Inken kívül például a Fujisu, a Xeron, vagy az LG az folyamatos fejlesztéseinek köszönhetõen a legújabb e-papírok már a szürkeárnyalatok mellett szûk színskálával is megbirkóznak, sõt az anyagkutatásoknak köszönhetõen hajlékonyak is. Az e-papír felhasználási területe valószínûleg nem korlátozódik majd az elektronikus újságokéra és könyvekére, hanem segítségével reklámok, információk különféle felületeken is könnyen kezelhetõek lesznek, például tömegközlekedésen az adott napszakra jellemzõ közönségnek megfelelõ hirdetések vagy információk megjelenítése.

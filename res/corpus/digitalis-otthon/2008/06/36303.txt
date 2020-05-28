@@ -1,0 +1,22 @@
+Megjelent a Novell közösségi Linux-disztribúciójának legújabb verziója
+
+[HUP/HWSW] Újabb népszerû Linux-disztribúció újult meg, az Ubuntu és a Fedora után megérkezett a SUSE közösségi verziója, az openSUSE legfrissebb, 11.0 verziója. Az openSUSE 11.0 legfontosabb újdonságai többé-kevésbé ugyanazok, amelyeket más, modern disztribúciókban is megtalálhatunk: bele került a KDE4 felhasználói felület (KDE 3.5 is választható), a Firefox 3, az OpenOffice 2.4. A fejlesztõk átírták a YaST telepítõt, és változott a csomagkezelõ is.
+
+
+
+A teljesen megújult YaST nem csak funkcionalitás terén szolgál újdonságokkal, hanem a kinézete is új, a korábbiaknál sokkal szebb, egyszerûbb, a szemnek kellemesebb. Maga a telepítési folyamat is sokat egyszerûsödött, az openSUSE 11 valóban pár kattintással installálható. Az új csomagkezelõ LZAM tömörítést használ a korábbi bzip2 helyett, ennek köszönhetõen a csomagok kisebbek lettek és gyorsabban is települnek: az openSUSE teljes telepítése mindössze 20 perc körüli idõt vesz igénybe.
+
+
+ A csomagkezelõ feladata természetesen nem ér véget a telepítés után: az új hardverekhez szükséges illesztõprogramok mellett a frissítések, javítások letöltése is fontos. A PackageKitnek köszönhetõen az openSUSE 11 frissítése pofonegyszerû: az "értesítési területen" (system tray) található ikon változása jelzi, ha új csomagok érhetõk el, és még arról is tájékoztat, ha olyan kritikus frissítések jelentek meg, amelyeket azonnal ajánlott telepíteni.
+
+
+
+Az openSUSE 11-be természetesen bekerült az OpenOffice.org 2.4-es verziója, továbbfejlesztett VBA-makró támogatással, és az Impress prezentációkészítõben bevethetõ új effektekkel. Az OOo 2.4 a korábbi bináris Office-állományok mellett együttmûködik az OpenDocument Format fájlokkal is. Office Open XML fájlokat egyelõre csak megnyiti lehet, menteni nem. Ez az elsõ olyan kiadása az openSUSE-nak, amelyben alapértelemezetten települ a hunspell helyesírás-ellenõrzõ is.
+
+A disztribúcióba a pár nappal ezelõtt megérkezett Firefox 3.0 végleges verziója még nem kerülhetett bele, a felhasználók a telepítés után az ötödik bétát használhatják, ami természetesen frissíthetõ a végleges verzióra. Az Ubuntu 8.04-hez hasonlóan a PulseAudio gondoskodik a hangzásról, amiben nem csak az összes alkalmazás hangerejét lehet külön állítani, hanem tetszõleges szoftver hangját a hálózaton keresztül más gépekre is elküldhetjük stream formájában. Az openSUSE 11 az elsõ olyan disztribúció, amelybe bekerült a Banshee zenelejátszó 1.0 verziója, amely már videókat is támogat.
+
+Az openSUSE 11 jelentõsen meghízott, telepítõ CD-t ezért már ne is keressünk, csak DVD ISO formában érhetõ el a disztribúció, emellett négyféle Live CD létezik, 32 és 64 bites x86 rendszerekre KDE vagy GNOME környezettel. A szoftver letölthetõ az openSUSE oldaláról, vagy a hivatalos magyar tükörrõl. Az openSUSE 11 boltokban is kapható lesz, a dobozban a telepítõlemez mellett teljes nyomtatott dokumentációval és 90 napos telepítés támogatással. A szoftver kereskedelmi verziójának ára 60 euró.
+
+Véleménye van?
+Szóljon hozzá a fórumban
+írjon szerkesztõségünknek!

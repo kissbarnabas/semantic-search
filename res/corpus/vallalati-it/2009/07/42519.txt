@@ -1,0 +1,10 @@
+Három kritikus sebezhetõséget javít kedden a Microsoft
+
+A kritikus patchek között van a DirectShow május végén felfedezett hibáját javító folt is. Ez a sebezhetõség lehetõvé teszi támadók számára, hogy speciálisan elõkészített QuickTime-állományokkal távolról saját kódjukat futtassák Windows 2000 SP4, Windows XP vagy Windows Server 2003 operációs rendszerrel rendelkezõ gépeken (a Vista és a Windows Server 2008 nem érintett). A Microsoft elismerte, hogy találkozott ezt a sérülékenységet kihasználó támadásokkal, azonban azok elkülöníthetõ esetek voltak, nincs szó tömeges fertõzésrõl.
+
+Az Internet Explorer nemrég felfedezett sebezhetõségét is javítják a redmondiak. A videókat kezelõ ActiveX-vezérlõ hibájáról állítólag 2008 óta tud a Microsoft, azonban az ügy most kapott jelentõs figyelmet, amikor tömegessé váltak a sérülékenységet kihasználó támadások. Ehhez még felhasználói interakció sem szükséges, elég egy elõkészített webhelyre csalni az áldozatokat például spammel vagy azonnali üzenetküldõn terjedõ hamis üzenettel. A weblap meglátogatásakor a támadók az ActiveX-vezérlõ hibáját felhasználva a gép elõtt ülõ felhasználóval azonos jogosultságot szerezhetnek s tetszõleges kódot indíthatnak el. A Windows Vista és Windows Server 2008 rendszereket ez a sebezhetõség sem érinti, a régebbi Windowsokat azonban igen.
+E két kritikus sebezhetõség javítása mellett a Microsoft a Vistában és a Windows Server 2008-ban felfedezett kritikus sérülékenységet is javítja, emellett fontos frissítés érkezik a Publisherhez, az ISA Serverhez, valamint a Virtual PC-hez és a Virtual Serverhez.	     
+                  
+                  
+                  
+                   

@@ -1,0 +1,18 @@
+Az egyre szélesebb támogatás ellenére is tart a WiMAX vesszõfutása
+
+Az egyik ausztrál cég ügyvezetõjének nagy port kavart kirohanása talán mégsem lehetett ok nélküli. Az amerikai mobilszolgáltató, a Spint szóvivõje bejelentette, hogy a vállalat mégsem indítja el ebben a hónapban a Xohm névre keresztelt WiMax szolgáltatását.
+
+
+
+A Sprint Nextel és a Clearwire közösen kezdte meg WiMax hálózatépítését, melybõl az utóbbi cég a tavalyi év végén kiszállt, holtvágányra terelve az technológia tengerentúli, kereskedelmi megvalósítását. A Sprint késõbb úgy döntött, egyedül is folytatja. A vállalat most nem határozott meg konkrét idõpontot 2008-on belül a Xohm elindítására, de egyes információk szerint még a nyár elõtt elstartolhat végre a szolgáltatás.
+
+A WiMax egyre nagyobb figyelmet kap a készülékek építõitõl is, a Nokia éppen most jelentette be N810 internetterminálja WiMax-kompatibilis változatát, illetve az Everex CloudBook mini noteszgépnek is kapható lesz WiMax modemmel szerelt változata.
+
+
+Az ausztrál Buzz Broadband elnök-vezérigazgatója, Garth Freeman többek között katasztrófának és hatalmas tévedésnek, a várakozásokat jócskán alulmúló képességûnek nevezte a technológiát, mely a bázisállomástól 2 kilométeres távolságnál már "megszûnt mûködni". A WiMax felett ráadásul lassan eljár az idõ, jön az LTE és a HSDPA is reális alternatívát nyújt helyette a mobilszolgáltatók erõfeszítéseinek hála.
+
+A harmadik és negyedik generációs mobiltechnológiákkal ellentétben a WiMAX úgynevezett idõosztásos (Time Division Duplexing, TDD) technológiával oldja meg a kétirányú kommunikációt, mely azonos frekvencián továbbítja oda-vissza az adatokat különbözõ idõszeletekben. Ez a megoldás elõnyös a WiMAX esetében, hiszen igen keskeny spektrumban folyik a kommunikáció. A 3G és 4G-s hálózatok (például az LTE) a Frequency Division Duplexing (FDD) technológiát használják, melyek egyidõben kommunikálnak oda-vissza, viszont különbözõ frekvencián, ezzel is csökkentve az egyes tornyok közötti interferenciát.
+
+Ebbõl is lesz WiMax-es
+
+Európában többek között Angliában Finnországban, Észtországban, Németországban és Franciaországban üzemelnek kereskedelmi WiMAX hálózatok, melyet telepített eszközökkel lehet igénybe venni, vagyis nem mobilak, és különbözõ frekvenciatartományokat használnak. Készülékgyártók, köztük a Nokia és a Motorola is idénre tervezi a többnormás hibrid készülékek bemutatását, ahogyan a WiMAX egyik legfõbb támogatójaként a Samsung részérõl is várhatóak ilyen modellek.

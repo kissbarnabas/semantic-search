@@ -1,0 +1,12 @@
+Letölthetõ a Windows XP SP3 újabb elõzetese
+
+Nyilvánosan letölthetõ a Windows XP Service Pack 3 legújabb elõzetese, amelyet a Microsoft két hete még csak zárt körben, kiválasztott tesztelõk számára tett elérhetõvé. A vállalat azért tette letölthetõvé az XP SP3 RC2-t, hogy azt a lehetõ legtöbben tudják kipróbálni, és minél több visszajelzés érkezzen a szoftverrel kapcsolatban.
+
+
+
+A Microsoft tavaly decemberben már elérhetõvé tette Windows XP SP RC-t, azóta azonban sokat finomított a szervizcsomagon, ám a változtatásokat csak a mintegy 15 ezer kiválasztott tesztelõ próbálhatta ki, a nagyközönség egészen eddig nem. Egyelõre nem tudni, a Windows XP harmadik javítócsomagja pontosan mikor jelenik meg, a Microsoft ígérete szerint még 2008 elsõ felében, azonban az RC2 kiadása és a Vista SP1 menetrendje alapján valószínû, hogy erre akár már márciusban sor kerülhet.
+
+A Windows XP utolsó szervizcsomagja több mint száz hibajavítást tartalmaz, szokás szerint nem csak a második szervizcsomag óta megjelentek találhatók meg benne, hanem minden frissítés, amit a Windows XP-hez kiadott a Microsoft. A javítások közül számosat a Vistából emeltek át, többek között a hálózati hozzáférés védelme is ezzel erõsödött, illetve a titkosító algoritmusok kezelése is ennek köszönhetõen javult. Módosítottak az aktivációs folyamaton is: a javítócsomaggal frissített operációs rendszer elsõ telepítés után már 30 napig mûködik aktiválás nélkül -- ugyanúgy mint a Vista, vagy a Windows Server 2003 SP2. Eddig a Windows XP telepítése nem történhetett meg valódi termékkulcs nélkül, az installálás egyszerûen nem futott le.
+
+
+ A Windows XP SP3 RC2-t a Windows Update-en keresztül lehet letölteni, miután a felhasználó telepítette és lefuttatta az ezt engedélyezõ rövidke programot, amely a regisztrációs adatbázisban módosít egy bejegyzést. Elõtte az SP3 korábban telepített verzióit el kell távolítani, az SP3 RC2 csak olyan gépekre települ, amelyeken Windows XP SP2 fut.

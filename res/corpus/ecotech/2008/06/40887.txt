@@ -1,0 +1,42 @@
+Egyszerûen elhárítható lenne az adatlopásos támadások zöme
+
+Általánosan elfogadott tényként kezelik, hogy az informatikai rendszereket érõ támadások többsége ma már a szervezeten belülrõl jön. Pedig az adatlopások túlnyomó többségét a szervezeten kívülrõl hajtják végre, és az incidens hónapokig felderítetlen marad -- állítja az amerikai Verizon távközlési szolgáltató, amelynek üzletbiztonsági csapata több mint 500 adatlopással járó betörés részletes elemzésével jutott erre a következtetésre. Az esetek több mint kétharmada a már meglevõ biztonsági szabályok be nem tartására vezethetõ vissza.
+
+
+
+A közhiedelemmel ellentétben a támadások zöme kívülrõl indul
+
+A "2008 Data Breach Investigations Report" szerint az esetek közel háromnegyedében a támadás kívülrõl érte a szervezetet, a nyomok csak 18 százalékban vezettek belsõ forráshoz. Aggasztó, hogy az incidensek 39 százaléka üzleti partnerekre volt visszavezethetõ. Az esetek 30 százalékában több oldalról érte támadás a szervezetet. A jelentés szerint a kiskereskedelmi cégeket érte a legtöbbször adatlopással járó támadás, de a pénzügyi szolgáltatók és a technológiai szolgáltatók is kedvelt célpontnak számítanak. A cégméret alapján a kis- és középvállalatok a leginkább veszélyeztetettek, valószínûleg azért, mert értékes adatokat tárolnak (pl. vásárlói adatok, hitelkártya-számok), de korlátozott IT-szakértelmük miatt nem képesek azokat megfelelõen védeni.
+
+
+ A belsõ támadások viszonylag alacsony száma meglepõ lehet annak a fényében, hogy az utóbbi idõben sokat lehet arról hallani, hogy az incidensek többsége a szervezeten belül dolgozókra vezethetõ vissza, a Verizon által citált számok ennek gyökeresen ellentmondani látszanak. Persze a tézis igaz lehet abban az esetben, ha az összes biztosági incidenst figyelembe vesszük, a Verizon kimondottan azokra az esetekre koncentrált, amikor a vállalattól adatokat tulajdonítottak el.
+
+A jelentés kitér arra is, hogy a támadásokban sokszor a partnerek vagy a szervezeten belül dolgozók úgy vesznek részt, hogy valójában nem is tudnak róla. Összejátszának, összeesküvésnek ritkán jutottak nyomára a Verizon "nyomozói", de olyan esetre többször is bukkantak, amikor a támadók nem közvetlenül az áldozat rendszerére céloztak, hanem egy partnerhez, például egy beszállítóhoz vagy az IT-rendszer üzemetetését végzõ céghez törtek be elõször, és így szereztek emelt jogosultságokat. Olyan eset is elõfordult, amikor a bûnözõk megvesztegettek egy rendszergazdát, hogy nyisson hátsó ajtót az adatokat tároló rendszerhez.
+
+A külsõ és belsõ forrásokból indított támadások számát és gyakoriságát illetõen egyértelmûen az elõbbiek javára billen a mérleg, azonban a Verizon jelentésébõl az is kiderül, hogy a belsõ eredetû adatlopások esetében a kár lényegesen nagyobb volt. Míg egy külsõ támadással átlagosan 30 ezer rekordot loptak el, a belsõ forrásra visszavezethetõ incidensek esetén ez a szám 375 ezerre rúgott. Érdekes, hogy összességében a partnerek felõl érkezõ támadások jelentik a legnagyobb kockázatot, figyelembe véve a gyakoriságot és az átlagosan ellopott 187 ezer rekordot.
+
+A felelõst legtöbbször az IT-részlegen kell keresni
+
+Ha nem külsõ, hanem belsõ eredetû támadásokról van szó, a hunyót a legtöbbször az informatikai részlegen kell keresni. A Verizon kimutatásai alapján a belsõ támadások több mint feléért rendszergazdákat, adminisztrátorokat terhel a felelõsség, más alkalmazottakat 41 százalékban, vezetõket 2 százalékban -- a magasabb jogosultság tehát csábítónak tûnik.
+
+A partnerek felõl érkezõ támadások 57 százalékában a partner rendszerét vagy hálózatát feltörve jutottak be a támadók, de az esetek 16 százalékában itt is az IT-csapat valamelyik tagja volt a felelõs. Gyakori eset, hogy az adatlopás egyértelmûen a partnerre vezethetõ vissza, de a két szervezet között nincs pontosan rögzített megállapodás a biztonságra vonatkozóan, így az incidenst nem követi felelõsségrevonás.
+
+Ami a támadások konkrét kivitelezését illeti, a legtöbb esetben (59%) a rendszerek feltörésével érnek célt a támadók, az incidensek közel harmadában azonban kártékony program segítségével lopnak el adatokat. A megvizsgált esetek 22 százalékában az információkkal való visszaélésbõl a baleset, 15 százalékban az adattárolót vagy a -hordozót lopták el, 10 százalékban csalással szereztek információt, és persze elõfordult ezek kombinációja is. Aggasztó, hogy az incidensek 62 százalékáról kiderült, végeredményben emberi hiba, figyelmetlenség, hibás konfigurálás okozta.
+
+	     
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                    A cikk több oldalból áll:
+                    
+                    
+                        1. oldal: Egyszerûen elhárítható lenne az adatlopásos támadások zöme
+                      
+                        2. oldal: Egy általános iskolás is célt érhet, ha akar
+                        
+                    
+                  

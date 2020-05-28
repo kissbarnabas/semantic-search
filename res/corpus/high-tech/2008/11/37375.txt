@@ -1,0 +1,12 @@
+A mobiltelefonokat is virtualizálná a VMware
+
+A szerverek és a desktopok után a mobil eszközöket is virtualizálná a VMware, ennek érdekében megvásárolta a területen tevékenykedõ francia Trango Virtual Processors nevû céget. A nem nyilvános értékû akvizíció már októberben lezárult, azonban csak most jelnetette be a cég.
+
+
+
+A mobilok, PDA-k virtualizálása elsõre hajmeresztõ ötletnek tûnhet. A VMware szerint ezzel a megoldással több operációs rendszer futhat párhuzamosan a készülékeken, amelyek egymástól teljesen szeparáltak. A megközelítés elsõsorban vállalati környezetben lehet hasznos, ahol gyakran elõfordul hogy a mobil készülékeket a cégek adminisztrátorai teljesen uralmuk alá vonják. Vállalati okostelefonok esetén nem ritka, hogy a felhasználók csak bizonyos szoftvereket futtathatnak a telefonjukon, sokan ezért két készüléket használnak, egyes céges, egyet pedig magáncélra. Virtualizálható mobilok esetén futtathatnak két külön környezetet, egyik tartalmazza a vállalati image-et, a másik pedig a magáncélú, saját beállításokkal és programokkal.
+
+A virtualizáció további elõnye, hogy a szoftverek teljesen elválhatnak a hardvertõl, ami egyszerûsítheti az alkalmazások és adatok migrációját. Új telefon vásárlásakor a régirõl egyszerûen át kell majd másolni a virtuális lemezképet, és a felhasználó ugyanottt folytathatja a munkát ahol az elõzõn abbahagyta, minden programja, beállítása, adata változatlanul elérhetõ. A virtualizáció réteg megjelenése a mobilokon a szoftverfejlesztõk életét is megkönnyítheti, akiknek a hardver absztrakciója miatt nem szükséges minden egyes készülékre elkészíteni a saját alkalmazásukat. Ez a készülékgyártóknak is jó hír, hiszen nem kell annyi idõt tölteniük azzal, hogy a szoftvert minden egyes modelljükre külön átírják, így gyorsabban piacra dobhatják az újabb telefonjaikat.
+
+
+ A Mobile Virtualization platform fejlesztésében egyes mobilgyártók is közremûködnek, bár a kilétüket nem árulta el Fredrik Sjöstedt, aki az EMEA régióban a VMware termékigazgatója. Az elsõ, virtualizációs réteggel is rendelkezõ mobilok 2009 végén vagy 2010 elején jelenhetnek meg. A támogatott operációs rendszerek között a Windows Mobile és a Symbian mellett a Linux található meg jelenleg. A Trango termékei ARM és MIPS processzorokon futnak.

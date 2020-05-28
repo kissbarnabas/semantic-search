@@ -1,0 +1,16 @@
+Egyre többen állnak be a Google Android támogatóinak sorába
+
+Jelentõs lökést adhat a Google Android platform térnyerésének, hogy a rendszer fejlesztését felügyelõ Open Handset Alliance (OHA) szervezet a héten 14 új taggal bõvítette tagságát. A szövetséghez ezúttal olyan, jelentõs piaci befolyással bíró multik csatlakoztak, mint a Vodafone, a Sony Ericsson vagy a Toshiba.
+
+
+
+Az Open Handset Alliance tavaly novemberben, az Android platform bejelentésével egy idõben alakult meg. A szervezet célja egy olyan nyílt szoftverinfrastruktúra létrehozása, amelynek révén csökkenthetõk a mobilok fejlesztési költségei, illetve a szabványos platform miatt egyszerûbb az alkalmazások fejlesztése és terjesztése is. A Google-nél úgy vélik, a közös platform egyformán jó a mobilgyártóknak, a szolgáltatóknak, a fejlesztõknek és a felhasználóknak is.
+
+Az OHA 34 alapítótagja közt így a mobiltelefon- és komponensgyártók, valamint a szolgáltatók egyaránt megtalálhatók voltak, az alapítók listáján többek közt fellelhetõ az NTT DoCoMo, a T-Mobile, a HTC, az LG, a Samsung, a Broadcom vagy az Intel. A mostani körben -- december 9-én -- 14 új taggal bõvült a szövetség, köztük olyan ismert világcégekkel, mint a Vodafone, az ARM, az Atheros Communications, az Asustek, a Garmin, a Huawei, a Sony Ericsson és a Toshiba.
+
+T-Mobile G1
+
+
+A Google mobilos szoftverplatformjára elsõként a HTC épített készüléket. A kezdetben kizárólag az amerikai T-Mobile kínálatában kapható G1 idén csak az Egyesült Királyságba jutott el, a többi európai országban jövõre tervezik a telefon -- ezzel együtt az új platform -- bevezetését. A cég alig pár napja jelentette be, hogy több országban (köztük Magyarországon is) piacra dobja a G1 fejlesztõknek szánt változatát (Android Dev Phone 1).
+
+A Dev Phone 1 érkezésével egyszerre jelent meg az Android 1.0 szoftverfejlesztõi készlet új verziója, amely lehetõvé teszi a T-Mobile G1-re vagy bármilyen más Android-alapú telefonra alkalmazások készítését. A fejlesztõk munkáját és a platform további térnyerését megkönnyítendõ a Google október közepénmegnyitotta az Android szoftverplatform teljes forráskódját és Apache licenc alatt elérhetõvé tette.

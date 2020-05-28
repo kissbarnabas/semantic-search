@@ -1,0 +1,61 @@
+Microsoft: megérkezett a 2008-as generáció
+
+A Microsoft egy nagyszabású Los Angeles-i eseményen végre hivatalosan is bejelentette a Windows Server 2008-ból, SQL Server 2008-ból és a Visual Studio 2008-ból álló triumvirátusát, amelyek a közeljövõben meghatározó szoftverplatformjai lesznek a vállalatoknak. A rendezvényen mintegy 4 ezer informatikai szakember vett részt, a termékeket pedig maga Steve Ballmer, a redmondiak elnök-vezérigazgatója jelentette be.
+
+
+
+Modern hõsök
+
+Az esemény szlogenje "Heroes happen here" volt, ami arra utal, hogy a szoftverfejlesztõk és az informatikai rendszereket kiépítõ, üzemeltetõ szakemberek valójában láthatatlan hõsök, akik az emberek számára ma már magától értetõdõnek tekintett szolgáltatások mögött álló infrastruktúráért felelnek. Õk azok, "akik a színfalak mögött dolgoznak a cégek és szervezetek százezreinél, hogy létrehozzák és támogassák a gazdaságunkat éltetõ információs rendszereket és alkalmazásokat" -- áll a Microsoft által kiadott közleményben.
+
+A bejelentés bár nagyszabású, de pusztán formalitás volt, az új szoftverekrõl az elmúlt idõszakban ugyanis minden lényeges információt nyilvánosságra hozott már a Microsoft, számos vállalatnál pedig már régóta használják a Windows Server 2008-at, a Visual Studio 2008-at, vagy az SQL Server 2008-at. A cég bejelentése szerint az elõzetesek kipróbálásával, észrevételeivel, visszajelzéseivel világszerte összesen 3 millió vállalat kapcsolódott be a termékek fejlesztésébe.
+
+A tegnapi bejelentésen elhangzott, hogy a Windows Server 2008 és a Visual Studio 2008 azonnal elérhetõk, az SQL Server 2008 végleges változatának érkezésére azonban a harmadik negyedévig várni kell, de egy "feature complete", vagyis végleges funkcionalitású, 180 napig használható idõkorlátos elõzetest most elérhetõvé tett a Microsoft. Magyarországon a Windows Server 2008 bejelentése március 5-én lesz a Lurdy Házban a TechNet rendezvénysorozat részeként. Bár a helyek már elfogytak az eseményre, az elõadások anyaga késõbb online elérhetõ lesz -- tudtuk meg Budai Pétertõl, a szakmai programok menedzserétõl.
+
+
+
+Biztonság, biztonság, biztonság
+
+A Windows Server 2008 a Windows Vistával közös kódbázisára épülõ szervertermék, amelynek fejlesztésénél nagy hangsúlyt fektettek a biztonságra, ez nem csak a fejlesztési folyamatra érvényes, hanem magát a terméket is úgy tervezték meg a Microsoftnál, hogy minimalizálják a kockázatokat. A szerep szerinti telepítés során a Windows Server 2008-nak csak azok a komponensei települnek, amelyek egy adott funkcióhoz valóban szükségesek, ezáltal csökken a lehetséges támadási felület. Ennek egyik példája a Server Core telepítés, amikor csak néhány szerepkör elérhetõ, még grafikus kezelõfelület sem fut. Ennek a megoldásnak az erõforrásigény csökkentése mellett a lehetõ legnagyobb biztonság elérése a célja a felesleges komponensek minimumra csökkentésével.
+
+[+] Maximum és minimum: Longhorn Server Core
+
+Szintén a biztonságot hivatott növelni a csak olvasható tartományvezérlõ (read-only domain controller) bevezetése, ami akkor jöhet jól, ha a szerver fizikai biztonsága nem garantálható. Ha a tartományvezérlõ csak olvasható, nem lehet az adatait helyben módosítani, így kizárható annak lehetõsége, hogy valaki például egy fiókirodában a szerver feltörésével és az AD forest módosításával jogosultságokat szerezzen. További új biztonsági funkció, hogy  az Active Directory objektumainak módosításai naplózhatók, így késõbb visszakereshetõk, ellenõrizhetõk, valamint az, hogy a tartományban az egyes csoportokhoz akár eltérõ jelszóházirendek is kialakíthatók.
+
+A Windows Server 2008 a Vista Business, Enterprise és Ultimate változataival, illetve a Windows XP SP3-mal együtt már támogatja a Network Access Protectiont. A NAP a nem megfelelõen konfigurált gépeket (pl. elavult operációs rendszer, régi vírusirtó) nem engedi fel a hálózatra egészen addig, amíg a szoftvereket nem frissítették a kívánt verzióra. Az adminisztrátorok természetesen maguk határozhatják meg, hogy milyen szempontok alapján akarják engedélyezni vagy szûrni a hálózati hozzáférést.
+
+Az új Windows Server fontos újdonsága a továbbfejlesztett Terminal Services, amely már támogatja a Remote Desktop Prorocol (RDP) 6.0-t. A Windows Server 2008 képes RDP-n keresztül akár egyetlen alkalmazás képernyõjét is megosztani, nem csak az egész felhasználói felületet. A Terminal Services Gateway lehetõvé teszi számítógépek csatlakozását Terminal Serveren vagy RDP-n keresztül HTTPS kapcsolatot használva, VPN nélkül, vagyis a HTTPS mellett nem kell további portokat nyitni a tûzfalon, ami szintén a biztonságot hivatott fokozni. A Terminal Services Web Access segítségével a terminálszolgáltatás webes interfészen keresztül is elérhetõ.
+
+A Windows Server 2008 biztonsági fejlesztései találkoztak az ügyféligényekkel: egy közel 800 informatikai vezetõ bevonásával készült felmérés szerint az új Windows Server legvonzóbb tulajdonságának pont a megnövekedett biztonságot tartják a potenciális vásárlók. A megkérdezettek 49 százaléka szerint a Windows Server 2008 megnövekedett biztonsága lesz a legnagyobb hasznára a vállalatának, ezen kívül a legvonzóbb tulajdonságok a gyorsabb és egyszerûbb telepítés és konfigurálás (41%), a könnyebb adminisztráció (40%), valamint az integrált virtualizációs köztesréteg, a Hyper-V (35%).
+
+A szoftver újdonságai közé tartozik még a hibatûrõ fürtök egyszerû telepítése és konfigurálása, a korábbinál fejlettebb terhelésmegosztás, a dinamikus particionálás, valamint a hálózati szolgáltatások automatikus finomhangolása -- ezek szintén a biztonságot, valamint a rendelkezésre állást növelni hivatott fejlesztések. Az új képességek között említhetõ még a Server Manager konzol, amely a korábbinál egyszerûbb telepítést és konfigurációt ígér, de a napi felügyeleti feladatok ellátását is megkönnyíti a Microsoft szerint.
+
+Egyszerûbb felügyelet
+
+A Windows Server 2008-ban az új Server Manager konzol hivatott a telepítés és felügyelet egyszerûsítésére. Azokat a feladatokat, amelyeket a Server Manageren keresztül egyetlen helyen el lehet végezni, a Windows Server 2003-ban még több menüben (Manage Your Server, Configure Your Server, Add or Remove Windows Components) kellett végrehajtani. További fontos újdonság, hogy a Server Manager szükségtelenné teszi a telepítés elõtt a Security Configuration Wizard futtatását, mivel a szerverek szerepkörei alapértelmezésként az ajánlott biztonsági beállításokkal települnek.
+
+
+
+
+
+A Windows Server 2008-ban is helyet kapott a Windows PowerShell parancssor, amelynek segítségével a rendszergazdák egy C#-hoz hasonló nyelven írt szkriptekkel egyszerûsíthetik és automatizálhatják a menedzsment-teendõket. Az utóbbi idõben a vállalatoknál megjelent az igény több windowsos szerver együttes kezelésére, feladatok automatizálására, erre a grafikus megoldások azonban nemigen alkalmasak. A Windows Server 2008 egyes felügyeleti funkciói már a PowerShellre épülnek, ami azt jelenti, hogy a grafikus felületen elvégzett beállítások hatására a háttérben egy szkript fut le. Ezeket a szkripteket tetszõlegesen lehet bõvíteni, módosítani.
+
+	     
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                    A cikk több oldalból áll:
+                    
+                    
+                        1. oldal: Microsoft: megérkezett a 2008-as generáció
+                      
+                        2. oldal: Webszerver, virtualizáció, Windows Essential Server
+                      
+                        3. oldal: Visual Studio 2008, SQL Server 2008 áttekintés
+                        
+                    
+                  

@@ -1,0 +1,19 @@
+Tovább nõ az új Firefox verziószáma
+
+A programozók orra alá egyre több borsot törõ, vadonatúj JavaScript-motor elhúzódó fejlesztése miatt kérdéses, hogy a Mozilla népszerû többplatformos webböngészõje, a Firefox belátható idõn belül -- ha egyáltalán -- elér a 3.5-ös verzióhoz. A böngészõ soron következõ változata eredetileg a 3.1-es verziószámot viselte volna, a Mozillánál azonban márciusban úgy döntöttek, hogy a jelentõs fejlesztéseket jobban érzékeltetné, ha 3.5-re emelnék a verziószámot. Most már ez a terv is borulni látszik, mivel az új Firefox verziószámát gyakorlatilag a fejlesztés ütemétõl tehetik függõvé.
+
+
+
+"Keményebb fába vágtuk a fejszénket, mint eredetileg gondoltuk, a  Firefox új JavaScript-motorja TraceMonkey programozási munkálataival ugyan jól haladunk, de még mindig rengeteg a tennivalónk" -- írta kedden a Mozilla fejlesztõi blogján Mike Beltzner projektvezetõ. "Biztosak akarunk lenni benne, hogy a felhasználók egy minden szempontból jól mûködõ, gyors és hibátlan Firefoxot kapnak, ezért addig nem adjuk ki a böngészõt, amíg nem sikerül a problémákon úrrá lennünk" -- tette hozzá Beltzner.
+
+
+
+
+A Mozillánál ugyanakkor egyre többen adnak hangot azon véleményüknek, hogy marketingszempontokból sokkal szerencsésebb lett volna, ha a 3.0-s fõverziót azonnal a 4.0-s változat követi, így korántsem biztos, hogy a következõ generációs Firefox a 3.5-ös verziószám alatt mutatkozik be. Beltzner maga is úgy látja, reális esélye van annak, hogy a Shiretoko munkanéven futó böngészõ végleges változata a 4.0-s verziószámot viseli majd, a projektvezetõ ugyanakkor nem zárta ki a lehetõségét annak, hogy a fejlesztés további csúszása esetén ezt a tervet is átértékelik.
+
+A Firefox új verziójának eredetileg az év elején meg kellett volna jelennie, a Mozilla azonban többször is módosított a megjelenés ütemtervén, mostanra pedig már nem is kommunikálják, mikor kerülhet piacra a böngészõ, melynek két legfontosabb újdonsága a már említett TraceMonkey motor és a privát böngészési funkció lesz.
+
+A fejlesztõk jelenleg a negyedik -- eredetileg nem tervezett -- bétán dolgoznak, ezt várhatóan több kiadásra jelölt változat is követi majd. A felborult ütemterv egyben azt is jelenti, az új Firefox érkezésére 2010 elõtt nemigen lehet számítani. Cserébe a verziószám is tovább nõhet, sõt a fejlesztõi levelezõlistán felmerült olyan gondolat is, hogy az új Firefoxnak a 8.0 verziószámot kellene viselnie, hogy az Internet Explorerhez ragaszkodó felhasználók ne gondolják róla hogy elavult.
+
+Szeretnénk emlékeztetni a kedves olvasót, hogy ma április elseje van. Amennyiben észrevétele, megjegyzése van a hírrel kapcsolatban, forduljon a szerzõhöz.
+					

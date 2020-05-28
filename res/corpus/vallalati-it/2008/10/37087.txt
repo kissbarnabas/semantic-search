@@ -1,0 +1,16 @@
+Letölthetõ a Microsoft hypervisora
+
+Megjelent és ingyen letölthetõ a Microsoft Hyper-V Server 2008, a Microsoft virtualizációs köztesrégete, amely korábban csak a Windows Server 2008 egyik szerepköreként volt telepíthetõ, vagyis a virtualizációhoz elengedhetetlenül szükség volt a teljes szerver operációs rendszerre. 
+
+
+
+A Hyper-V Server 2008 ezzel szemben csak a hypervisor, még grafikus menedzsment-felülete sincs, és több korlátozást is tartalmaz, például nem kezel 32 gigabájtnál több memóriát, illetve négynél több processzort, illetve "kigyomlálták" belõle a Quick Migration támogatást és a fürtözési képességeket is. Ezek alapján a Hyper-V Server 2008 elsõsorban szerverkonszolidációs platformként, illetve tesztrendszerekhez ajánlott, illetve olyan cégeknek jelenthet megoldást, amelyek még nem tértek át Windows Server 2008-ra.
+
+"A Microsoft Hyper-V Server 2008 izgalmas lehetõségeket nyit meg több szakmai területen is, például a Windows Server-ek hosztolása terén, hiszen teret biztosít a rugalmas növekedésre a szerzõdés és az esetleges hardver bérlet felülvizsgálata nélkül" -- mondta a HWSW megkeresésére Somogyi Csaba, a Microsoft IT-üzemeltetési szakértõje. "Sõt, akár az érvényes licenccel rendelkezõ kiszolgálóinkat is könnyedén átvihetjük újratelepítés nélkül nagyobb teljesítményû hardverre, ha a Virtual Machine Manager csaknem teljesen automatizált migrációs funkcióját használjuk."
+
+
+ A Hyper-V Server 2008 sokkal kisebb, kevesebb helyet és erõforrást kér mint a Windows Server 2008 szerepköreként telepített hypervisor -- valójában a magja ennek is egy Windows Server, de a Core változat, grafikus felület és egyéb funkciók nélkül. A Hyper-V köztesrétegen vendégként lényegében az összes létezõ 32- és 64-bites Windows (asztali és szerver), Linux és egyéb operációs rendszer mûködik, a kifejezetten támogatott operációs rendszerek listája megtalálható a Microsoft oldalán.
+
+Szerverkonszolidáció esetén a vendég operációs rendszerekhez természetesen licenc szükséges, ugyanis a Hyper-V Server 2008 nem tartalmazza a Windows Server 2008 licencét. A virtuális gépek felügyeletéhez a System Center Virtual Machine Manager 2008 használható, amely egyelõre még béta állapotú, és a licenc nem engedi a használatát termelési környezetben, de a Microsoft azt ígéri, október végén már a végleges verzió is elérhetõvé válik. 
+
+Újdonság, hogy a VMM 2008 önállóan elérhetõ termékként is megjelenik. A 2007-es változat csak a System Center Server Management Suite Enterprise (SMSE) részeként látott napvilágot, amely a VMM mellett a System Center Operations Managert, a Configuration Managert és a Data Protection Managert is tartalmazta. Ezek a termékek mindannyian elérhetõk voltak önállóan is, a 2008-as kiadásban azonban már a VMM is kapható lesz külön.

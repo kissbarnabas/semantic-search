@@ -1,0 +1,12 @@
+Adatvesztést okozhat a Windows Home Server
+
+Adatvesztést okozhat a Windows Home Serverben található, ezeddig azonosítatlan hiba -- ismerte el a Microsoft. A vállalat múlt héten frissítette a szoftverhez tartozó támogatási dokumentumot, amelyben leírja, hogy egyes programokkal szerkesztett fájlok tárolása a Windows Home Serveren adatvesztéshez vezethet. 
+
+
+
+A probléma a megosztott könyvtárakkal kapcsolatos, és egyelõre még vizsgálja a Microsoft. "Amíg a frissítés meg nem érkezik a Windows Home Serverhez, azt ajánljuk, ne használják a listában található programokat a Windows Home Server-alapú gépen tárolt fájlok szerkesztésére" -- olvasható a redmondiak weboldalán. A problémás alkalmazások között olyan szoftverek találhatók mint a Windows Vista Photo Gallery, az Office OneNote 2007, az Outlook 2007, de panaszok érkeztek Torrent-kliensekkel kapcsolatban is. A hibát okozó alkalmazások listája megtalálható a fent hivatkozott weboldalon.
+
+
+A vizsgálat eddig mindössze annyit tárt fel, hogy az adatvesztés akkor jelentkezik, ha a Windows Home Server éppen erõsen le van terhelve például tömeges fájlmásolás miatt, és a felhasználók a Home Server megosztott könyvtárában található valamely állományt szerkesztik a listában található programok egyikével. A Microsoft mérnökei mindazonáltal még nem tudták reprodukálni a hibát.
+
+A Windows Home Server egy kimondottan otthoni felhasználásra szánt szervertermék, amely a több számítógéppel rendelkezõ háztartásokat célozza. A Windows Server 2003 alapjaira épített szerverszoftvert kifejezetten olyan otthoni felhasználóknak szánják, akik több windowsos PC-t üzemeltetnek, és szeretnék állományaikat, multimédiás fájljaikat, zenéiket, képeiket, videóikat, esetleg a megosztott nyomtatót kényelmesebben elérni -- akár távolról, az interneten át, vagy a hálózatba kötött Xbox konzolról. A Windows Home Server emellett automatikus biztonsági mentések révén védi a PC-ken tárolt adatokat.

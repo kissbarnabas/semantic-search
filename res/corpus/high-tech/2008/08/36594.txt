@@ -1,0 +1,64 @@
+Kipróbáltuk a Samsung második generációs Blu-ray lejátszóját
+
+Alighogy feltûntek az elsõ asztali Blu-ray lejátszók a hazai boltok polcain, máris generációváltásnak lehetünk szemtanúi, ami egy olyan, alapvetõen gyorsan változó szegmensben, mint amilyen a szórakoztatóelektronika, tulajdonképpen megszokott gyakorlat. Évrõl-évre jobb LCD-tévét vihetünk haza ugyanannyi pénzért, lassabban bár, de fejlõdik a hangtechnika is, és az évek során sokat javulnak a videolejátszók is funkcionális és egyéb szempontokat figyelembe véve. 
+
+
+
+A ma kapható egyik legolcsóbb asztali Blu-ray lejátszó, a Samsung ma már kifutó típusnak tekinthetõ BDP-1400-asa tavaly nyáron került a boltokba. Ennek pár hónapja megjelent utódját, a BDP-1500-as típust tudtuk kicsit vallatni, hogy kiderüljön, mit nyújt ma egy középkategóriás asztali lejátszó 93 ezresért cserébe.
+
+
+
+Új generációk
+
+A Samsung BDP-1500 második generációs Blu-ray lejátszó, ami jelen esetben azt jelenti, hogy a készülék a dobozból kivéve azonnal boldogul a BD-Video profil 1.1-es változatának megfelelõ lemezekkel. Ezt a profilt szokás Bonusview-nek is hívni, mely voltaképpen egyetlen extra szolgáltatást takar: ha a lemez ezt az üzemmódot támogatja, a készülék képes kép a képben rendszerben megjeleníteni egyszerre két fejezetet is. A Bonuswiev rendszerû Blu-ray lemez azonban egyelõre ritka, mint a fehér holló, ezzel tehát önmagában még nem sokat nyert a vásárló.
+
+Sokkal érdekesebb és hasznosabb funkciót hoz a fentebb említett profil 2.0-s verziója, a BD-Live (a technológiát mi is kipróbáltuk mûködés közben), mellyel interneten keresztül elérhetõ extra tartalmak tölthetõk le -- ezekhez a BD-Live kompatibilis lemez adja a kulcsot. A Samsung BDP-1500 alaphelyzetben nem tud mit kezdeni a BD-Live-val, ez azonban késõbb változni fog, a készülék ugyanis hardveresen fel lett készítve a rendszer használatára, az ehhez szükséges mikrokód azonban még nem készült el, azt majd csak késõbb tudják a vásárlók letölteni a gyártó szerverérõl. Hasonló gyakorlatot követ egyébként a Sony is, mely nemrég szintén úgy dobott piacra második generációs lejátszót, hogy azt egy késõbbi szoftverfrissítéssel BD-Live támogatással lehessen ellátni.
+
+[+] Kipróbáltuk: BD-Live, a felturbózott Blu-ray 
+
+A BDP-1500 külsejét tekintve nem érheti szó a ház elejét: formás, modern vonalvezetésû készülékkel van dolgunk, a fényes, fekete elõlapot alig töri meg valami. A külsõ teljes mértékben passzol a koreai gyártó többi hasonló termékvonalánál látottakhoz (DVD-olvasók, DVD-írók). A lejátszó bekapcsolása után aztán persze kissé tagoltabbá válik a felület, feldereng a pontmátrixos kijelzõ, mely lejátszáskor kissé elhalványul, hogy ne vakítsa el a nézõt (jó ötlet, kár, hogy a bekapcsológomb ragyogó kék LED-jénél nem sikerült ugyanezt megvalósítani).
+
+
+
+A lejátszó hátulját szemügyre véve levonhatjuk a következtetést, hogy a Samsung a BDP-1500 esetében gyakorlatilag teljesen letett az SD-felbontású kijelzõk támogatásáról, ami valahol érthetõ és logikus is: digitális kimenetbõl találunk a hátlapon HDMI-t és optikai S/PDIF kimenetet (koaxot viszont nem), analóg HD-kimenetnek ott a komponens, SD-jelet pedig egyedül a kompozit harangcsatlakozón lehet kivezetni a készülékbõl. Az analóg sztereó hang továbbítására van még egy sztereó RCA kimenetünk, és ezzel végeztünk is.
+
+
+
+Azaz mégsem, a készülék hátlapján ugyanis ott díszeleg még egy Ethernet-csatlakozó és egy USB kapu is. Voltaképpen mindkettõ egy célt szolgál, legalábbis a jelenlegi állapotában: a BDP-1500 a hálózati összeköttetésen keresztül internetre köthetõ, ahol is egyedül a Samsung szerverére hajlandó ellátogatni, hogy meggyõzõdjön arról, elérhetõ-e már a jelenleginél újabb rendszerfrissítés. Az asztali Blu-ray lejátszók új tulajdonosainak tehát idõvel meg kell barátkozniuk a firmware és a firmware-frissítés fogalmakkal -- van, aki hasznos plusz szolgáltatásként fog tekinteni erre a lehetõségre, de bizonyára akadnak majd olyanok is, akik azon mérgelõdnek, hogy valójában egy félkész berendezést sózott rájuk a gyártó. Nekik alighanem sürgõsen szemléletmódváltásra lesz szükségük.
+
+A hátlapon található USB kapu szintén a frissítést segíti csak, az ide csatlakoztatott pendrive-ra (a kézikönyv külön fel is hívja a figyelmet, hogy mással, például flashmemóriás médialejátszóval ne is próbálkozzunk) másolt szoftvert is besüthetjük a készülékbe. Fontos megjegyezni, hogy az USB kapu semmilyen külsõ adattárolót nem támogat és nem jeleníti meg a rajta tárolt állományokat, csak és kizárólag a mikrokódot frissíthetjük rajta keresztül.
+
+Csigatempó
+
+A BDP-1500-at hamar csatlakoztattuk egy HD-Ready LCD-tévére (komponens jeltovábbítással, így maximum 1080i felbontásban nézhetõk a filmek, a mi tévénknek azonban pont ez a határa). A bekapcsológomb lenyomása után ért minket az elsõ meglepetés: a lejátszónak bõ fél percre volt szüksége ahhoz, hogy teljesen üzemkész állapotba kerüljön. Ez bizonyára jobb, mint a korai modelleknél, de azért így is viszonylag hosszú bootolási idõnek számít.
+
+Mielõtt bármilyen lemezt behelyeztünk volna, az elsõ dolgunk az volt, hogy az alapvetõen egyszerû és logikusan elrendezett menüben elnavigáljunk a rendszerfrissítés menüponthoz. A lekérés során kiderült, hogy van frissebb szoftver a Samsung szerverén annál, amit használunk, így gyorsan el is kezdtük letölteni. A frissítés fél óra után már települt is a lejátszóra (4 megabites internetkapcsolatot használtunk a próbánál), majd egy kötelezõ újraindítással rendben véget is ért pár perc alatt. Így mindjárt konstatálhattuk is, hogy a bootolási idõ semmivel sem lett rövidebb az új szoftver által.
+
+
+
+A BDP-1500 menüje dicséretes módon tényleg nem okoz gondot még a kezdõ házimozi-használónak sem: aki elboldogul egy asztali DVD-lejátszó beállításával, az a Samsung Blu-ray készülékének menüjében sem fog elveszni. A legegyszerûbb összeköttetési módot használva (HDMI erõsítõn keresztül átjátszva) kell a legkevesebb beállítással bajlódni, ráadásul ha a tévét is a Samsung gyártotta, akkor itt mûködik egyedül a kényelmi extraként funkcionáló Anynet+ (például ezen keresztül lehet a lejátszót vezérelni bizonyos típusú tévékészülékek menüjén át).
+
+Újdonság a menüpontok közt (legalábbis eddig túl sok optikai elven mûködõ videolejátszónál nem láthattunk ilyet) a &#8222;network setup&#8221;, mellyel a már említett firmware-frissítéshez szükséges hálózati kapcsolatot tudjuk felparaméterezni, ha az alap beállításokkal valamiért nem boldogulunk. Szintén újdonság a &#8222;persistent storage management&#8221; menü -- ezzel a beépített flashmemórián tárolt tartalmakat rendezgethetjük. Jelentõsége ennek igazából akkor lesz majd, ha a BDP-1500 megkapja a BD-Live kompatibilis rendszerfrissítést.
+
+Hiányérzet
+
+A Samsung BDP-1500 egyébként értelemszerûen nem csak Blu-ray filmek lejátszására alkalmas: a készülék a DVD-Videókat is megjeleníti valamint CD-játszóként is mûködik. Érthetetlen módon hiányzik viszont az MP3-lejátszás és a képmegjelenítés lehetõsége, ami különösen bosszantó annak ismeretében, hogy az elõdmodellnek ezek kezelése nem okozott gondot. DivX videók megjelenítésérõl viszont egyik készüléknél se álmodjon a vásárló.
+
+BD-Live egyelõre még nincs
+
+Az elsõdleges funkció, a lemezes videolejátszás mindazonáltal jól mûködik, bár kissé döcögõsen indul a Blu-ray esetében. A BDP-1500-at négy lemezzel próbáltuk ki, és rendre lemértük az idõt, hogy mikor ad elõször képet velük a lejátszó (ez rendszerint a filmstúdió szignálja vagy a szokásos figyelmeztetõfelirat volt, innen tehát még hosszú másodpercek telhetnek el, mire a menübe jutunk). A hosszú bootolási idõ után itt ért minket a második meglepetés: a BDP-1500-nak a lemez behelyezésétõl kezdve legkevesebb 23 másodperc kellett a beolvasáshoz és a program indításához, de volt olyan lemez is, amelynél pár másodperc híján egy percig ketyegett a stopper. Éppen kapóra jött, hogy össze tudtuk hasonlítani ezeket az értékeket egy Playstation 3 sebességével -- itt a játékkonzol súlyos másodperceket vert a BDP-1500-ra (több esetben feleannyi idõ is elég volt neki a beolvasáshoz).
+
+
+
+Szerencsére a sebességgel azután már nincs semmi baj, hogy elindult a program. A menü navigáció nem akad, a fejezetek léptetése is gyors, a BDP-1500 itt már felpörög és serényen dolgozik. Jól, készségesen reagál minden kérésünkre. A képminõséget vizsgálva le kell szögeznünk, hogy a Blu-ray filmek minõsége számos tényezõtõl függ, de megintcsak a Playstation 3-at használva összehasonlítási alapnak, megállapíthatjuk, hogy a Samsung BDP-1500 tartja a lépést a világ legnépszerûbb asztali Blu-ray lejátszójával.
+
+Hasznos funkció, melyet a drágább DVD-olvasók és DVD-írók régóta tudnak, az SD-ben lemezre transzferált tartalmak, tehát a DVD-Videók HD-felkonvertálásának lehetõsége. Ez a funkció csak akkor mûködik, ha HDMI-n keresztül csatlakoztatjuk a készüléket, így gyorsan meg is változtattuk a kábelezést. Az eredetileg 576 vagy 480 soros DVD-k képe így máris 720 vagy 1080 soros felbontásban jelenik meg, amitõl csodát ugyan nem szabad várni, de az eredmény a tévé tudásától függõen akár lényegesen jobb lehet annál, mintha natív felbontásban néznénk vissza a jelet.
+
+Csak akkor, ha olcsóbb lesz
+
+
+A Samsung BDP-1500 végeredményben jól vizsgázott a rövid, velünk eltöltött próbaidõszak alatt: vannak ugyan a készüléknek hiányosságai, de az ismert gyártó nevéhez méltón ami mûködik, az legalább jól mûködik. A készülék végig stabilan és hibátlanul üzemelt, egyszer sem bizonytalanodott el, egyetlen lefagyást vagy akadást sem produkált, pedig több különbözõ kódolású Blu-ray filmet is végignéztünk vele. Ha most valaki mégis azzal a kéréssel állna elénk, hogy segítsünk neki választani: a Samsung BDP-1500-at, vagy az alig tíz százalékkal drágább Sony PlayStation 3-at vigye haza, jó eséllyel az utóbbira voksolnánk. Hangsúlyozzuk: most.
+
+A BDP-1500 idõvel azonban okosabb lesz (megjelenik repertoárjában a BD-Live támogatás), és minden bizonnyal hónapokon belül nagyot zuhan majd az ára. Karácsony elõtt -- ha akkor még kapható lesz egyáltalán ez a típus -- lehet másként fogunk válaszolni a kérdésre.
+
+A Samsung BDP-1500-at a vállalat hazai képviseletétõl kaptuk kölcsön. Köszönjük!

@@ -1,0 +1,16 @@
+Jövõre visszatérhet az FX sorozat az AMD processzorkínálatába
+
+[X-bit labs/HWSW] Lapértesülések szerint visszatérhetnek az AMD kínálatába az FX jelzéssel ellátott, csúcstelejesítményû asztali processzorok, kérdéses ugyanakkor, hogy a termékcsalád újra a régi fényében tündökölhet majd az Intel hasonló szegmensbe szánt megoldásainak árnyékában.
+
+
+
+Meg nem nevezett források szerint a jövõ év derekán kerülhetnek forgalomba az AMD 45 nanométeres csíkszélességû, Deneb FX kódjelû processzorai, melyek a második számú processzorgyártó asztali PC-kbe szánt kínálatának vezérvonalát adhatják majd. Az új processzorról, vagy processzorokról eddig vajmi kevés információ látott napvilágot -- mindössze annyi tûnik biztosnak, hogy a négymagos chipek felépítése alapvetõen a többi Phenomra hajaz majd, azaz a processzoroknak megosztott harmadszintû gyorsítótára és magonként dedikált másodszintû gyorsítótára lenne, memóriavezérlõjük pedig kezelné az 1066 MHz-es DDR2 és 1333 MHz-es DDR3-memóriákat.
+
+
+Az AM3 foglalatba illõ Deneb FX példányok órajelérõl egyelõre semmit nem lehet tudni, az elsõ, 45 nanométeres négymagos asztali processzorok ugyanakkor 2,8 és 3 GHz-rõl indulnak majd -- az FX jelzésû példányok ennél minden bizonnyal gyorsabbak lesznek.
+
+Az AMD asztaliprocesszor-válsztékának jelenlegi legerõsebb típusa a július elsején debütált Phenom X4 9950 Black Edition, mely a nagyjából négy százalékkal megnövelt, 2,6 GHz-es órajelével a korábbi csúcsnak számító, 2,5 GHz-es X4 9850 Black Editiont taszította le a trónról. A chip fogyasztása a magasabb órajelért cserébe 12 százalékkal nõtt, a lapka TDP-je így 140 watt lett. Az új csúcsmodell rendkívül magas fogyasztási mutatója azt sejteti, hogy a jelenlegi gyártástechnológia alkalmazásával ez a változat nem skálázható sokkal tovább.
+
+A Black Edition márkajelzésû processzoroknál az órajel paraméterezéséhez használt szorzó szabadon állítható, így a tuningosok egy olyan CPU-t kapnak a kezükbe, mellyel a rendszerben rejlõ lehetõségek a lehetõ legtágabb keretek közt aknázhatók ki. Az AMD Phenom X4 9950 Black Edition jelenlegi listaára 235 dollár, ami jóval kevesebb a cég virágkorában piacra került Athlon 64 FX-ek gyakran ezer dollárt közelítõ áránál.
+
+Az elsõ Athlon 64 FX CPU-k 2003-ban kerültek piacra, és elsõsorban teljesítményigényes alkalmazásokat futtató, csúcsteljesítményre vágyó felhasználók vették õket. A termékvonal utolsó hírmondója 2006-ban jelent meg, az AMD utolsó próbálkozásaként a Quad FX platform részeként próbálta eladni ezeket a processzorokat (itt már valójában Socket F kivitelû Opteronokról volt szó).

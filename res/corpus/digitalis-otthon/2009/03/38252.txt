@@ -1,0 +1,16 @@
+Minden számítógépre telepíthetõ a Xandros másodpercek alatt betöltõdõ operációs rendszere
+
+Mindenki, pontosabban minden Windows-felhasználó számára elérhetõvé kívánja tenni másodpercek alatt elinduló, kompakt Linux-disztribúcióját a Xandros, jelentette be a hét elején kezdõdött DEMO 2009 konferencián az amerikai vállalat. A Presto egy elsõsorban kommunikációs folyamatokat támogató operációs rendszer, így nem a Windows leváltására hivatott, célja inkább az, hogy a felhasználók a teljes munkakörnyezet hosszadalmas betöltõdési idejét megspórolva elérjék a sûrûn szükséges  szolgáltatásokat.
+
+
+
+Ilyen funkció például a böngészés, a csevegés vagy egyes irodai dokumentumok kezelése, melyhez az alap Presto csomag egyebek mellett a Firefoxot és a Skype azonnali üzenetküldõ alkalmazást, továbbá ingyenes irodai programcsomagot kínál. A repertoárban ezen kívül egy médialejátszó is szerepel, mely a zenék mellett videók lejátszására is befogható. A rendszerkörnyezet a legtöbb hardverhez képes automatikusan konfigurálni magát, felismeri a legtöbb hálózati kártyát, WLAN-modult és HSDPA-modemet.
+
+
+
+A Presto ötlete nem teljesen új keletû: a pillanatok alatt elinduló kompakt, Linux-alapú operációs rendszert lényegében a netbookok honosították meg. Az elsõ ilyen géppel, az Eee PC-vel elõrukkoló Asustek például éppen a Xandros egy speciális, a Prestóhoz nagy mértékben hasonlító disztribúcióját használta a kis gépeknél, de éppúgy szerepel a cég termékkínálatában olyan alaplap, mely integráltan tartalmaz ilyen, Splashtop-alapú operációs rendszert.
+
+
+A Xandros kompakt Linux-disztribúciója Windows XP és Vista operációs rendszerek alól telepíthetõ, a programcsomag nagyjából 4 gigabájtnyi tárhelyet igényel magának. A telepítés után a számítógép tulajdonosa minden rendszerbetöltõdés elõtt választhat, hogy a Prestót, vagy a teljes funkciójú Windowst kívánja elindítani, illetve bármikor visszaállíthatja az eredeti állapotot a Windows programeltávolításra szolgáló menüjében.
+
+A Presto a tervek szerint április 13-án készül el, a végfelhasználók ekkor érhetik el a rendszerkörnyezetet, melyért egyébként fizetni kell majd (20 dollárt). A csomag ingyenes bétaváltozata március 16-án jelenik meg, a bétaprogramra a Xandros erre a célra létrehozott weboldalán lehet jelentkezni.

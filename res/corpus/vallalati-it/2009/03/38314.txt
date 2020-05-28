@@ -1,0 +1,22 @@
+Harmadával drágulnak az Oracle-licencek IBM Power6 platformon
+
+Az Oracle jelentõsen megemelte árait az IBM Power6 processzorokat használó szerverein, miközben a többi architektúrára vonatkozó licenceit érintetlenül hagyta. A Power6-os Oracle felhasználók számára ez a második jelentõs áremelés egy éven belül, akiknek egyes esetekben akár több mint 50 százalékos növekedést kell kigazdálkodniuk. A Power6 gépeken az Oracle szoftverdíjak a System z mainframe-ekével egy szintre kerültek.
+
+
+
+Tények
+
+Az Oracle legújabb processzormag-hányados táblázatában, az IBM Power6 magjai már egyszeres szorzóval szerepelnek, szemben a korábbi 0,75-tel, vagyis ezekre a chipekre harmadával drágulnak az Oracle-szoftverek. A Power5-rendszereket használók számára a Power6-ra történõ áttérés szintén harmadával növeli meg az Oracle szoftverekhez tapadó költségeket. Az emelés nemcsak a szoftverlicencek költségét húzza meg, hanem a támogatási költségeket is, melyeket a licencdíjak százalékában határoz meg a szoftvervállalat, így arányosan emelkednek.
+
+Az Oracle tavaly nyáron egy átlagosan 15-20 százalékos licencdíj-emelést hajtott végre, beleértve az adatbázist, köztesszoftvereket, és az e-Business Suite-ot is, valamint az akvirált cégekhez tartozó termékeket (pl. BEA WebLogic Server). Az Oracle Database Enterprise licenc listaára processzoronként 40 ezer dollárról 47 ezer dollárra növekedett például. A Power6-on futattó ügyfelek esetében ez a jelenlegi egyharmados emeléssel együtt több mint 56 százalékos drágulás egy éven belül. A forint gyengülése tovább erõsíti a drágulást, listaáron egy Oracle Database Enterprise/Power6 licencért 2,2-szer többet kell kifizetni, mint egy évvel ezelõtt.
+
+A többi hardverplatformot érintetlenül hagyta a cég, így a Power6 magonkénti Oracle-licence kétszer annyiba kerül, mint a Xeon, az Opteron vagy az Itanium esetében, és harmadával többe, mint a Fujitsu SPARC64 chipeknél, melyeket nagyvállalati rendszereiben a Sun Microsystems is használ. Az Oracle továbbra is látványosan diszkriminálja a masszívan párhuzamos Sun UltraSPARC T2 és T2+ platformokat, magonként a Power5-tel és a SPARC64 V-tel megegyezõ 0,75-ös szorzót használ, miközben teljesen nyilvánvaló, hogy a Niagara II kódnéven ismert chip egyes magjainak teljesítménye töredéke csak az utóbbiaknak.
+
+Miértek
+
+ Egyes iparági vélemények szerint az Oracle Power6-tal kapcsolatos lépése várható volt, hiszen maga az IBM is 20 százalékkal drágábban licenceli saját szoftvereit a platformra (kivéve a Power Systems 520, BladeCenter JS12 és JS22 konfogurációkat). Ezt a nagyobb magonkénti teljesítmény magyarázza, mely a Power6 chipek tervezési fókuszát képezte, extrém magas, akár 5 gigahertzes órajelet produkálva, valamint masszív I/O-sávszélességgel megtámogatva.
+
+
+ A Power6 2-8 utas konfigurációkban magonként mintegy kétszeres számítási teljesítményt kínál (SPECint_rate_base2006) a Power5-tel és az Itaniummal, és két és félszerest az SPARC64 V-vel szemben. Üzleti alkalmazások alatt ez elõny természetszerûleg olvad, mivel az üzleti kódoknak nem kedvez a magas órajel, azonban így is jelentõs, nagyjából 50 százalékos a fölény. Ez pedig azt jelenti, hogy kevesebb processzorral tudja az ügyfél ugyanazt az Oracle-alkalmazást futtatni, a cég licencbevételei pedig lezuhannak.
+
+Mindezt tetézi, hogy a Power6/AIX páros igen fejlett partícionálási képességekkel rendelkezik. Az Oracle egyelõre ugyan nem ismeri el az úgynevezett puha particionálást, mikor az egyes alkalmazásokhoz rugalmasan rendelhetünk erõforrásokat egy operációs rendszerképen belül.  A cég ugyanakkor számos kemény, vagyis adott processzorokhoz rögzített particionálási technikát elfogad. A Power6/AIX dobozokon logikai partíciók (LPAR és DLPAR) és PowerVM mikropartíciók alkalmazásával lehet darabolni a szervert, jelentõsen csökkentve az egyes alkalmazások licencdíjait, így az Oracle bevételeit. 

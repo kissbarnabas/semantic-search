@@ -1,0 +1,10 @@
+Soron kívül frissít holnap a Microsoft
+
+A Microsoft minden hónap második keddjén adja ki szokásos biztonsági frissítéseit, azonban a júliusi patch kedden az ActiveX-sebezhetõséget nem foltozta a cég, csak egy olyan frissítést adott ki, ami az Internet Explorerben letiltotta a sérülékeny funkciót, elejét véve a támadások terjedésének. A bûnözõknek elég egy elõkészített webhelyre csalni az áldozatokat például spammel vagy azonnali üzenetküldõn terjedõ hamis üzenettel, a weblap meglátogatásakor a támadók az ActiveX-vezérlõ hibáját felhasználva a gép elõtt ülõ felhasználóval azonos jogosultságot szerezhetnek s tetszõleges kódot indíthatnak el.
+
+Két német biztonsági szakértõ mélyebb kutatása szerint az ActiveX-vezérlõ sebezhetõségét egy banális programozási hiba okozza, amely a Windowsok több komponensét is érinti, nem csak az Internet Explorert, hanem a Media Playert és a Terminal Servicest is. Ez egyben azt is jelenti, hogy a Microsoft által a hónap második keddjén kiadott frissítés is hatástalan, hiszen csak az Internet Exporerben tiltja le a kérdéses funkciót, más komponensekben nem. Thomas Dullien és Dennis Elser szerint a Windows XP-ben legalább öt, a Vistában több mint egy tucat Windows-fájl hívja meg a sebezhetõ függvénykönyvtárat. Dullien blogbejegyzésében emellett azt írja, akár más windowsos szoftverek is sebezhetõvé válhattak azáltal, hogy ennek a függvénykönyvtárra hivatkoznak.
+A Microsoft a frissítésekrõl kiadott elõzetes értesítésében mindössze annyit ír, hogy két javítás érkezik kedden, azonban nem részletezi, hogy ezek pontosan milyen hibákat javítanak. A nyilvános információ mindössze annyi, hogy az Internet Explorert érintõ javítás újraindítást követel, a Visual Studióhoz kiadott frissítés (amely egyébként csak közepes besorolást kapott) nem igényel újraindítást. Utóbbi egyébként a Visual Studio .NET, 2005 és 2008 változatát érinti, valamint a Visual C++ 2005-öt és 2008-at érinti.	     
+                  
+                  
+                  
+                   

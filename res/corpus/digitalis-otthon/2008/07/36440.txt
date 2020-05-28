@@ -1,0 +1,24 @@
+Leárazta vadonatúj csúcskategóriás kártyáit az NVIDIA
+
+Az NVIDIA jelentõsen csökkentette vadonatúj, a mindössze pár hete bejelentett GeForce GTX grafikus chipjeire épülõ kártyák ajánlott bolti árát. A 280-as csúcsváltozatot 649 dollárról 499 dollárra árazta le a cég, a felsõ-közép kategóriás 260-árt pedig 399 dollár helyett 299 dollárt kell fizetni.
+
+
+
+Profitnyíró
+
+Az NVIDIA június közepén jelentette be a GeForce GTX családot, amely a vállalat új csúcskategóriás termékvonala. A GT200 kódnevû chipek a tesztekben lesöpörték az összes versenytársat, a királyságuk azonban pünkösdi volt, ugyanis egy héttel késõbb megérkezett az AMD 4800-as sorozat, amely a GeForce GTX-ekéhez hasonló teljesítményt nyújt lényegesen alacsonyabb áron. A 4870-alapú kártyák ajánlott bolti ára 299 dollár, a 4850-eseket viszont már 199 dollárért haza lehet vinni.
+
+Az AMD az elmúlt idõszakban tapasztalt termékstratégiához illeszkedve egy gazdaságosabban termelhetõ lapkával árazásban igyekszik megszorongatni ellenfelét a piac derekát képzõ középkategóriában, majd erre alapozva behatolni a felsõbb szegmensekbe. Az új Radeonok érkezése tehát igen kellemetlen helyzetbe hozta az NVIDIA-t, mivel az új GeForce-ok alapja egy 1,4 milliárd tranzisztorból álló hatalmas chip, nagy teljesítménnyel, ennek megfelelõen magas fogyasztással -- és termelési költséggel.
+
+
+
+A 65 nanométeren termelt GT200 576 négyzetmilliméteres magméretével több mint kétszer akkora, mint az 55 nanométeres csíkszélességû, 260 négyzetmillimétere RV770 --  a HWSW becslése szerint a gyártási és tokozási költségeket is figyelembe véve az NVIDIA új csúcsmodelljét több mint másfélszer annyiba kerül elõállítani, mint az új Radeonokat. Ez eredetileg az árazásban is tükrözõdött, a mostani csökkentés után azonban az NVIDIA nyilvánvalóan elveszti profitja egy jelentõs részét.
+
+Viharfelhõk az NVIDIA feje felett
+
+A kaliforniai cégre mostanában rájár a rúd: július elején a cég közölte, hogy egyes, notebookokba szánt grafikus chipjei és chipkészletei a tokozáshoz használt anyag hibája miatt túlmelegedhetnek. A vállalat a július 27-én véget érõ negyedévben 150-200 millió dolláros egyszeri költséget kell elkönyveljen emiatt. Az NVIDIA részvényátfolyama a kedvezõtlen hírek hatására 45 százalékot csökkent az elmúlt hónapban -- a Nasdaq index eközben mindössze 8 százalékot apadt.
+
+
+ A memóriatechnológiában utazó Rambus pénteken 17 szabadalmának bitorlása miatt perelte be az NVIDIA-t, a kereset szerint grafikus chipek, chipsetek, multimédiás lapkák és mobil chipek memóriavezérlõi egyaránt érintettek az ügyben. A Rambus azt állítja, több mint hat éve folytat egyeztetõ tárgyalásokat az NVIDIA-val a szabadalmakról, azonban nem tudtak megegyezni, a cég ezért fordult a bírósághoz.
+
+Eközben az AMD is elõlépett új csúcskategóriás modellekkel, a Radeon 4870 X2 és 4850 X2 lényegében egyetlen kártyára két grafikus chipet integrált, a hozzájuk tartozó memóriával együtt. A Hexus.net tesztje szerint a 4870 X2 teljesítménye a GeForce GTX 280-hoz esik közel, egyes benchmarkokban felülmúlja az NVIDIA csúcsmodelljét, másokban viszont némileg lemarad.

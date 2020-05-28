@@ -1,0 +1,13 @@
+Webes videóban erõsít a Google
+
+Mire kell az On2 a Google-nak?
+Az On2 termékei és technológiái számos helyen megtalálhatók egyes Adobe, Nokia, Sun és Sony termékekben, noha a legtöbben nem is tudnak róluk. A webes óriás egyelõre nem nyilatkozott arról, pontosan hogyan kívánja használni az On2 termékeit és technológiáit, Sundai Pichai termékmenedzser mindössze annyit mondott, hogy a videó mára a web elengedhetetlen részévé vált és egy jó minõségû videotömörítési technológiának be kell kerülnie a "web platformba".
+
+Kézenfekvõnek tûnik, hogy az On2-t a YouTube-on veti be a Google, a videotömörítési technológia lehetõvé tenné a jobb minõségû klipek tárolását kisebb helyen, illetve a lejátszásukhoz is kisebb sávszélességre lenne szükség, akár korlátozott sávszélességû mobil szélessávú hálózaton is élvezhetõ a tartalom. Egy olyan forgatókönyv sem kizárt, hogy a Google oldalain az On2 váltja majd le a H.264-et, bár ennek ellentmond, hogy a H.264 ma már széles körben elterjedt.
+Az sem lehetetlen, hogy a Google a nagyobb térnyerés érdekében meg fogja nyitni az On2 termékeinek és technológiáinak kódját, mint ahogy ezt korábban más szoftverekkel tette, például az Android mobiltelefonos szoftverplatformmal. A VP3-as kodeket még maga az On2 tette nyílttá, de még 2001-ben, azóta a kodek a 8-as változatnál tart, bár egyelõre ez még csak béta stádiumban van. A VP8 egyik legfontosabb újdonsága a párhuzamos dekódolás, amely kihasználhatja a többszálú vagy többmagos processzorokat. Összességében egyelõre nehéz lenne megmondani, mire kell a Google-nek az On2, vannak, akik szerint a felvásárlásnak egyáltalán nem lesz különösebb hatása az iparra.
+Új Chrome béta
+A Google az On2 felvásárlása mellett bejelentette a Chrome új bétaváltozatát. A vállalat azt ígéri, az új verzió harmadával gyorsabb a jelenleg elérhetõ stabil változatnál. részben támogatja a HTML5-öt, fejlesztettek a fülek kezelésén, az Omniboxon, emellett végre egyedi témákkal is el lehet látni a böngészõt, megváltoztatva a kinézetét.	     
+                  
+                  
+                  
+                   

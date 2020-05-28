@@ -1,0 +1,14 @@
+Új iSCSI-felületû tárolóval rukkolt elõ a Dell
+
+Alig egy héttel azután, hogy a Dell lezárta az EqualLogic felvásárlását, a vállalat bejelentette az elsõ olyan terméket, amely már a Dell neve alatt érkezik a piacra. A Dell EqualLogic PS5000 egy középvállalati megoldás, amely a kínálatban a belépõszintû PowerVault MD3000i és az AX sorozat közé illeszkedik.
+
+
+
+Az iSCSI-alapú PS5000E-ben 16 diszk helyezhetõ el, amelyek akár 1 terabájtos SATA meghajtók is lehetnek, így a teljes kapacitás 16 terabájt lehet legfeljebb. A termékvonal két másik tagja a PS5000X és a PS5000XV, elõbbiben percenként 10 ezret pörgõ SAS diszkek biztosítanak legfeljebb 6,4 terabájtos kapacitást, utóbbiba már 15 ezres percenkénti fordulatú lemezeket raknak, összesen 4,8 terabájtnyit. A PS5000 tárolók közvetlenül csatlakoztatható backup-rendszerekhez, nincs szükség alkalmazásszerver közbeiktatására, a telepítést és konfigurációt pedig grafikus kezelõfelület teszi egyszerûvé. Egy hálózaton akár több PS5000 is lehet, amelyeket egy nagy virtualizált tárolóként lehet kezelni, ha arra van szükség.
+
+
+Az EqualLogic alapítása óta az iSCSI-eszközök piacán ténykedik és nem véletlen esett rá a Dell választása: saját szegmensében, az iSCSI SAN piacon a harmadik legnagyobb játékos az EMC és a Network Appliance mögött, a piaci részesedése 15 százalék feletti. A Dell novemberben jelentette be, hogy 1,4 milliárd dollárt ad a tõzsdei bevezetés küszöbén álló, magánkézben levõ EqualLogicért.
+
+A Dell megjelenése és várható terjeszkedése a tárolópiacon egyben az árak gyors esését is magával hozhatja. Az EqualLogic technológiája és a Dell gyártási hatékonysága fenyegetõ lehet a többi vállalat számára, azonban örvendetes hír a kis- és középvállalatoknak, akik az eddigieknél még kedvezõbb áron építhetik majd ki iSCSI-alapú tárolóhálózataikat. Az IDC elõrejelzése szerint az iSCSI SAN piac 2011-re már 6 milliárd dollárosra nõ. A kérdés az, hogy az EqualLogic megvásárlása mennyiben befolyásolja a Dell és az EMC kapcsolatát, a két vállalat ugyanis már évek óta együttmûködik a tárolópiacon -- a Dell az EMC eszközeit értékesíti a saját neve alatt.
+
+Piaci elemzõk azonban úgy vélik, az EMC termékeket elsõsorban a nagyobb szervezetek számára pozícionálják, míg az EqualLogic a kisebb ügyfelek számára lehet vonzó, bár a mindössze 2 terabájtos kapacitású belépõmodell is 20 ezer dollárba kerül. Az EqualLogic PS5000 azonnal megrendelhetõ a Delltõl, illetve viszonteladó partnereitõl.

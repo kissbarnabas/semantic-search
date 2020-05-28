@@ -1,0 +1,58 @@
+Technológiai zsibvásár a Microsoftnál
+
+A Microsoft idén hetedszer rendezte meg a TechFestet, amely a kutatás-fejlesztéssel foglalkozó Microsoft Research (MSR) évente szokásos kiállítása. Itt elsõsorban maguk a Microsoft-alkalmazottak tekinthetik meg, mi mindennel foglalkozik a cégük. Hogy valóban a redmondiak legújabb szellemi termékei láthatók az eseményen, azt az is bizonyítja, hogy a TechFest valójában zártkörû, és a sajtó munkatársai csak egy elõzetes napra kaptak meghívást, ahol a teljes kiállításnak mindössze egy töredékét láthatják, a többi fejlesztést szigorúan zárt ajtók mögött mutatja be a Microsoft.
+
+
+
+17 éves a Microsoft Research
+
+Sokan valószínûleg nem tudják, de az informatikai cégek közül a Microsoft elsõként hozott létre kutatás-fejlesztésre szakosodott önálló szervezetet. A Microsoft Research már 1991 óta létezik, és már világszerte hat kutatás-fejlesztési központja van, amelyek közül három az Egyesült Államokban található, egy Kínában, egy Indiában, egy pedig az angliai Cambridge-ben. Az idén nyitja meg kapuit a hetedik központ, amely az Egyesült Államok keleti partján, Boston közelében mûködik majd.
+
+Az MSR mintegy 800 fõállású kutatót foglalkoztat a tudomány legkülönbözõbb területein. Mivel az informatika ma már az élet minden területét áthatja, a trendekhez igazodva az IT-vállalatok is a lehetõ legkülönfélébb területekrõl alkalmaznak szakembereket és kutatókat. A Microsoft Researchnél így nem csak matematikusok, programozók, villamosmérnökök dolgoznak szép számmal, hanem fizikusok, orvosok, pszichológusok, antropológusok, biológusok, szociológusok, sõt csillagászok is.
+
+
+ Az MSR-nél dolgozók létszáma a gyakornokokkal, meghívott kutatókkal és PhD-programban résztvevõkkel együtt eléri a 2 ezer fõt, amivel a legnagyobb kutatás-fejlesztési szervezetnek számít az informatika világában. Emellett a Microsoft Research világszerte számos egyetemmel és oktatási intézménnyel dolgozik együtt közös kutatás-fejlesztési projekteken.
+
+A Microsoft Research-csel a vállalatnak két célja van. Az elsõ és legfontosabb, hogy a cég a technológiai élvonalba kerüljön és folyamatosan ott is tudjon maradni, másrészt pedig az innovációt megfelelõen át tudja vinni a saját termékeibe. Ennek a folyamatnak az egyik eszköze a TechFest is, ahol a Microsoft termékfejlesztõi és értékesítési munkatársai nézhetik meg, mi mindenen dolgoznak a kutatók, és ezeket az ötleteket hogyan építhetik be a saját termékeikbe. Gyakran elõfordul, hogy a Microsoft egy meglevõ termékét bõvíti ki egy új lehetõséggel (például a webkeresõt egy új algoritmussal), de az sem ritka, hogy egy Microsoft Research projektbõl teljesen önálló termék lesz (pl. Office Roundtable 360 fokos kamera).
+
+A legnagyobb sztár, a Worldwide Telescope
+
+A TechFest 2008 legnagyobb sztárja egyértelmûen a Worldwide Telescope volt, amelyrõl többször is esett szó. A tavasz során megjelenõ szoftverben végigpászázhatjuk az északi égboltot, mintha csak egy saját csillagászati távcsövünk lenne az otthonunkban. A WW Telescope mögött egy összesen 10 terabájtnyi adatbázis található, amely tucatnyi távcsõ által rögzített képbõl épül fel. Ezekbõl a képekbõl áll össze a WW Telescope által megjelenített égbolt, amelynek egyes részeire ráközelítve láthatóvá válhatnak távoli csillagok, galaxisok. A WW Telescope alapját a képeket térbe rendezni képes PhotoSynth technológia szolgáltatta -- tudtuk meg Curtis Wongtól, a szoftver "atyjától".
+
+A programban helyet kapnak majd ismert csillagászok által vezetett "túrák" is, késõbb pedig akár a felhasználók maguk is készíthetnek és tölthetnek fel ilyeneket. A Worldwide Telescope a Microsoft szerint óriási hatással lehet az oktatás területén, és egy sereg fiatallal szerettetheti meg a csillagászatot, de pusztán játékszernek is kiváló, kíváncsian várjuk a megjelenését. Addig is megtekinthetõ egy elõzetes videó a szoftverrõl a TED oldalán, ahol Roy Gould, a Harvard Egyetem csillagászati professzora mutatja be a Worldwide Telescope-ot.
+
+A Worldwide Telescope mellett számos kisebb-nagyobb újítás, ötlet is látható volt a TechFesten, amelyek az informatika számos területét ölelik fel, a számítógépes grafikától és hangkeltéstõl kezdve a webes keresésen, blogfigyelésen és zenelejátszáson át az adatközpontok optimalizálásáig. Ezekbõl szemezgettünk:
+
+Webkeresés többféleképp
+
+Az Internet Explorer 7 pluginjaként várható SearchTogether abban nyújt segítséget, hogy több felhasználó együtt tudjon keresni. A technológiát bemutató Microsoft-mérnök, Meredith Morris szerint ma még problémát jelent az, hogy a gépek elõtt ülõ felhasználók összehangoltan keressenek a neten, például a családtagok együtt tervezzék meg a nyaralást. Ebben segít a SearchTogether, amely lehetõvé teszi a felhasználók számára, hogy megnézzék, a többiek éppen mit keresnek és mit találtak, melyik találatokra kattintottak rá már, a találatokat sorrendbe rendezhetik és kommentálhatják, és az egyes keresési projekteket akár el is menthetik, hogy késõbb újra foglalkozhassanak vele.
+
+Szintén figyelemre méltó a Lingo kódnevû projekt, amely a Microsoft Research kínai kutatóközpontjából indult. A webkeresésen alapuló technológia célja, hogy segítséget nyújtson az angol nyelv megfelelõ használatában akkor, ha az nem az anyanyelvünk. A Lingo hatalmas adatbázisában különféle dokumentumok találhatók, amelyekben keresve arra próbál választ adni, miképpen kell írásban helyesen használni egy kifejezést, vagy hogy az egyes szavaknak milyen szinonimái lehetnek, és melyik szövegkörnyezetbe melyik passzol a legjobban.
+
+Az amerikai elnökválasztási kampányt lovagolja meg a BLOWS kódnevû fejlesztési projekt, amely blogok figyelésével próbálja meg felderíteni, a társadalom miként vélekedik egyes kérdésekrõl. A BLOWS lényegében nem tesz mást, mint hogy folyamatosan figyel több tízezer blogot, és megpróbálja elemezni a bejegyzéseket az alapján, hogy milyen hosszúak, vagy hogy egyes szavak hányszor szerepelnek bennük -- ebbõl például kikövetkeztethetõ, mennyire indulatos a bejegyzés. A BLOWS "látja", hogy a bloggerek melyik újságcikkekre hivatkoztak, linkeltek, és hogy ezeket milyen mélységben elemezték, illetve hogyan (pozitív, negatív, semleges, indulatos, nyugodt, stb.) kommentálták. A fejlesztõk szeretnék, ha a BLOWS hamarosan nyilvánosan elérhetõ lenne, még az elnökválasztási kampány alatt -- de természetesen tetszõleges más témában is szondázható vele a társadalom vagy éppen a média.
+
+Szintén az emberek hangulatát próbálja meg "kitalálni" a MusicSteer, ami a zenehallgatásban, egészen pontosan a megfelelõ zene kiválasztásában lehet a felhasználó segítségére. Egy nagyobb kapacitású hordozható lejátszón akát több ezer dal is elférhet, a Microsoft kutatói pedig sokszor belefutottak abba a problémába, hogy éppen mit is hallgassanak. A MusicSteer megpróbálja az ID3 tageken túl is kategorizálni a zenéket (pl. tempó szerint), és olyan nótákat keresni, amelyek hasonló hangulatúak, ezzel megkönnyítve a felhasználó választását. A TechFesten a MusicSteer még önálló alkalmazásként egy PC-n futott, de nem lehetetlen, hogy a közeljövõben az algoritmust átültessék a Zune lejátszóba, vagy beépítsék például a Windows Media Player valamelyik jövõbeli változatába.
+
+Hibajelentés küldése másképp
+
+Bizonyára sokan találkoztak már azzal az esettel, hogy a Windowson futó valamely alkalmazásuk lefagyott vagy váratlanul kilépett, és az operációs rendszer a hibáról küldött a Microsoftnak. Sokan nem engedélyezik ezt, attól tartva, hogy bizalmas, személyes jellegû adatok is illetéktelen kezekbe kerülnek. A TechFesten bemutatott egyik kutatási projekt célja, hogy a lehetõ legtöbb információ kerülhessen ilyenkor a Microsofthoz, hogy a hibát megtalálhassák és elháríthassák, de mégse kelljen érzékeny adatokat átvinni.
+
+A demonstrációban a Word egy bizonyos, elõre preparált dokumentum megnyitásakor rendszeresen lefagyott. Ahhoz, hogy ezt a hibát reprodukálni lehessen, a legjobb nyilván az lenne, ha a hibajelentés keretében az egész dokumentum változatlan formában átkerülne a Microsofthoz, hogy a szakemberek elemezni tudják, hogyan viselkedik a program. Ez nyilvánvalóan több okból is lehetetlen, nem csak óriási mennyiségû információt kellene átküldeni (gondoljunk csak egy képeket, táblázatokat tartalmazó fájl méretére), hanem bizalmas adatokat is.
+
+Még az alkalmazás által használt memóriaterület térképét sem lehet elküldeni, hiszen például a megnyitott fájl tartalma is elérhetõ lenne, így jelenleg csupán néhány alapinformáció kerül a Microsofthoz (melyik szoftver milyen hibaüzenettel "szállt el", milyen a gép hardver- és szoftverkonfigurációja, milyen driverek vannak telepítve, a pontos leírás itt elolvasható).
+
+A redmondi központban dolgozó kutatók már elõ is álltak egy módszerrel, ami a lehetõ legkisebbre csökkenti az átvitt információ mennyiségét és teljesen eltávolítja a hiba reprodukálásához nem szükséges, esetleg bizalmas adatokat. Ráadásul a felhasználó nem csak beleegyezhet abba, hogy hibajelentést küldjön-e, hanem megtekintheti annak tartalmát is, így biztos lehet benne, hogy nem kerülnek ki tõle érzékeny információk. Az új hibabejelentõ a Dr. Watson utódja, és akár a következõ Windowsba már be is kerülhet -- tudtuk meg a TechFesten a fejlesztõmérnököktõl.
+
+Hallhatatlan
+
+A TechFest látogatói a saját fülükkel hallhatták a hallhatatlant: Microsoft mérnökei által fejlesztett technológia akár egy teljesen zajos szobában is képes kiszûrni egy meghatározott ember beszédét. A demó során a látogatókat leültették egy nappaliba, ahol 5.1 csatornás házimozin hangos zene szólt, miközben a szoba sarkában az egyik mérnök beszélt. Ha valakinek nem tûnt fel, hogy a mérnök szája mozog, a beszédét biztosan nem hallotta meg, de utólag visszajátszották. Csodák csodája, a felvételen a hangszórókból áradó hangos zenét egyáltalán nem lehetett hallani, csak a mérnök beszédét.
+
+Ezt az ún. többcsatornás akusztikus zajkioltás (multi-channel acoustic noise cancelling) technológia tette lehetõvé. A fejlesztõk szerint a technológia jól alkalmazható például internetes telefonbeszélgetések kényelmesebbé tételénél, ahol ma még fülhallgatót kell használni annak érdekében, hogy elkerüljük a visszhangosodást, gerjedést. Másik felhasználási terület lehet például az autós telefonálás, a többcsatornás akusztikus zajkioltás szükségtelenné teszi, hogy lehalkítsuk vagy kikapcsoljuk az autórádiót ha hívásunk érkezik, a beszélgetõpartnerünk csak minket fog hallani, és nem a zenét, az autó zaját, vagy esetleg az utcazajt -- mondta el a HWSW-nek Ivan Tashev, a Microsoft mérnöke.
+
+Mobiltelefonok a közlekedés javítására
+
+Az indiai központból érkezik az az elgondolás, amely a mobiltelefonokban szunnyadó lehetõségeket aknázná ki, a készülékeket vezeték nélküli szenzorként használva a közlekedés javítása érdekében. A technológia alapja a telefonokból érkezõ jelek figyelése, ez alapján például megállapítható, merre van dugó: sok telefon "tülekedik" egy helyen, folyamatos dudálás hallatszik. A jelen levõ kutató a HWSW érdeklõdésére elmondta, a Microsoft campusán és a környékén közlekedõ céges jármûveket hamarosan fel fogják szerelni ezzel a technológiával, így aztán akár valós idõben juthatnak percrekész közlekedési információkhoz, amit fel lehet használni például az útvonaltervezéshez.
+
+Véleménye van?
+szóljon hozzá a fórumban
+írjon szerkesztõségünknek!

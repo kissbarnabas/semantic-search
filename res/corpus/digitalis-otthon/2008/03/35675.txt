@@ -1,0 +1,12 @@
+Továbbra is arrogáns vásárlóival, jóakaróival a Creative Labs
+
+[Gizmodo] Több éves huzavonát követõen is felháborító módon áll az Audigy hangkártya-tulajdonosok problémáihoz a Creative Labs. Ezekhez a hangkártyákhoz  a mai napig nem készült el az a meghajtóprogram, mely Windows XP-s képességeket hozhatna el Vista alá, a külsõ segítséget pedig a legfrissebb hírek szerint mereven eluasítják.
+
+
+
+Phil O'Shaughnessy, a vállalat kommunikációs igazgatója a cég saját fórumán küldte el melegebb éghajlatra azt a Daniel_K-t, aki saját meghajtóprogramot állított össze, fejlesztett, mely Vista alatt is elérhetõvé teszi az elveszített funkciókat -- sõt, annál még többet is. A vállalatnál valószínûleg ez utóbbi, illetve az verte ki a biztosítékot, hogy Daniel_K nem átall adományokat elfogadni munkája gyümölcseként, így egyenesen tolvajnak nevezték õt.
+
+
+A Creative Audigy kártyákat az operációs rendszer megjelenése után több mint egy évvel csak béta állapotú meghajtókkal lehet Windows Vista alatt hangra bírni, és számos funkció támogatása hiányzik, melyet már Windows XP alatt megszokhattak a hangkártyák tulajdonosai. A béta meghajtók igen instabilak, s igazán érthetetlen, hogy a nem éppen olcsó hangkeltõket miért nem támogatja megfelelõen a gyártó. A terméktámogatás sosem volt a Creative Labs legfõbb erénye, még a méregdrága termékeit megvásárlóknak is sokszor hónapokat, rosszabb esetben éveket kellett várni egy-egy meghajtóprogram-frissítésre, hibajavításra.
+
+A Sound Blaster X-Fi hangkártyák tulajdonosai közül többen panaszkodtak például arra, hogy zenehallgatás, vagy filmnézés közben pattog, recseg a hangkártya hangja, ami elég súlyos probléma a prémium kategóriás terméknél. A Creative mérnökei szerint ez a jelenség jellemzõen nForce 4 chipkészletû alaplapok használatakor tapasztalható, és a PCI-busz idõzítési problémája felelõs érte, megoldásért az alaplap gyártóját kellett keresniük a vásárlóknak, miközben egy meghajtóprogramból is javítható lett volna.

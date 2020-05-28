@@ -1,0 +1,18 @@
+Átverõs hirdetések a fájlcserélõkön
+
+A P2P Google-je
+A PeerMatrix alapelve hasonló a Google AdWords elképzeléseihez, mely szerint a felhasználók számára releváns hirdetések megjelenítése nem zavaró, hanem adott esetben hálás dolog is lehet. Az AdWords-szel szemben viszont nem a keresési találatok mellett, hanem azok helyén, álcázva jelennének meg a reklámok, melyeket ráadásul a felhasználóknak le is kellene töltenie.
+
+A teljesen új megközelítésû hirdetési forma lényege, hogy a fájlcserélõ hálózatokra videóhirdetéseket juttatna el a cég, s a releváns keresések találatai között átnevezve megjelenne a reklám is, amit a gyanútlan felhasználó letölt, megnéz, s csak ezután jön rá, hogy az állományban nem a vágyott film van, hanem hirdetés. Vagy egyszerûbben szólva egy átverés.
+Azt kapsz, amit keresel
+
+Egy gyakorlati példával élve, ha egy autós cég szeretne hirdetni, akkor a rekámját tartalmazó filmet&nbsp; a PeerMatrix szoftvere a kereséseknek megfelelõen átnevezi, s így bekerül a találatok közé. Ha mondjuk valaki a "The Fast and the Furious" (Halálos iramban) címû filmre keres rá, akkor a rendszer a CarAd.mpg fájlt átnevezi "The_Fast_and_the furious.mpg"-re, vagy ha valaki a "corvette movie" névre keres rá, akkor "corvette_movie.mpg"-re. 
+
+A módszert egyébként az Egyesült Államokban szabadalom is védi, AdMorph néven nyújtotta be és szerezte meg az oltalmat a technológiára a cég. A szoftver vizsgálja a bejövõ keresési kéréseket a peer-to-peer felhasználók felõl, s dinamikusan generál találatokat, melyek teljesen megegyeznek a keresett kifejezésekkel. Így a mit sem sejtõ felhasználó listájában elsõ helyen jelennek meg majd a reklámok.
+
+A mostani publikus megjelenést már megelõzte egy komolyabb teszt, amiben a rendszer bizonyította, hogy képes kiszolgálni akár 2 millió 10 másodperces videó vagy 20 millió 15 másodperces audiohirdetés terítését mindössze egyetlen seed-szervernek beállított PC-vel, ami egy 100 megabites vonallal kapcsolódik az internetre. Ráadásul a fájlok formátumában sincs megkötés, az audio- és videoreklámok mellett semmi akadálya a HTML, PDF vagy bármely egyéb formátum használatának.
+
+A PeerMatrixot választó hirdetõk ráadásul válogathatnak a kulcsszavak közül, de akár szõnyegbombázhatnak is, és minden keresési kifejezés mögé élesíthetnek álcázott reklámokat. A cég célja, hogy "a peer-to-peer" hirdetések Google-jévé váljon". A leírások ezt a hirdetési formát kis cégeknek vagy vállalkozóknak ajánlják , de a rendszer skálázható akár több száz szerverig is, amivel akár nagyvállalati méretekben is ki lehet szolgálni a hirdetéseket.
+Az ASVA irigykedik?
+
+Kálmán András, az ASVA igazgatója szerint "Az AdMorph megoldás nem ismeretlen, csupán ez az elsõ alkalom, hogy a zömében illegális tevékenységre egy legális üzleti modell épül rá.  A Pirate Bay találkozik az Adverticummal. Kérdés, hogy mit szólnak a kéretlen reklámhoz a p2p-felhasználók, akik hangsúlyozzák a konzum-társadalomtól való függetlenségüket? Ugyanakkor az is látszik, hogy a filmiparnak égetõ szüksége lenne egy online üzleti modellre, mielõtt a kalózok minden partot elfoglalnak és a &#8222;kikötés&#8221; lehetõsége már csak tõlük függ." 

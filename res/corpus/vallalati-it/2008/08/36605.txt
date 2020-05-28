@@ -1,0 +1,59 @@
+Kipróbáltuk: HP iPAQ 914 Business Messenger
+
+A HP még tavaly mutatta be a népszerû iPAQ tenyérgép-sorozat új tagjait, amelyeket -- ki tudja miért? -- Magyarországon csak most hoztak forgalomba. A bejelentés óta eltelt idõt aligha töltötték tétlenül a HP mérnökei, legalábbis erre utal, hogy a szerkesztõségünkben járt iPAQ 914 még csak nem is hasonlít az eredeti sajtófotókra, mások a színek, más a billentyûzet elrendezése is.
+
+
+
+A késlekedés szerencsére semmit sem von le az iPAQ 900-as sorozat érdemeibõl, ugyanis a vállalat minden olyannal ellátta ezeket a készülékeket, amelyek ma egy korszerû okostelefon nélkülözhetetlen termékei. Így aztán semmi gond azzal, hogy az iPAQ 914-et csak közel fél évvel a bejelentése után kaptuk meg, a termék mûszakilag még ma is az élvonalat képviseli: másodpercenként 7,2 megabites letöltésre képes HSDPA, 802.11b/g szabványú Wi-Fi, GPS-vevõ, autofókuszos fényképezõgép, bõvíthetõ memória és persze teljes QWERTY billentyûzet is van benne, elsõsorban az üzleti felhasználók örömére.
+
+
+
+Annak ellenére,hogy az iPAQ 914 mi mindenre képes, a méretei teljesen "evilágiak": 113x64x16 milliméteres dimenziói és 146 grammos tömege nem lógnak ki a kategóriából, egy ekkora kijelzõs, QWERTY billentyûzetes okostelefont aligha lehetne sokkal kisebbre építeni úgy, hogy használható maradjon. A zongoralakk-fekete készüléket krómdíszítés próbálja feldobni, sajnos kevés sikerrel, a telefon ettõl sem lesz igazán elegáns, és kézbe fogva is kissé olcsónak érzõdik, ami elsõsorban a mûanyag borításnak köszönhetõ.
+
+
+
+Specifikációk
+
+Gyártó: 	Hewlett-Packard
+Kijelzõ: 2,5", 320x240, 65k szín
+OS: Windows Mobile 6.1 Professional
+CPU: Marvell PXA270, 416 MHz
+Memória: 128 MB RAM, 256 MB ROM
+Háttértár: microSD kártya
+Hálózatok: GSM/GPRS/EDGE, UMTS/HSDPA
+Kapcsolatok: Wi-Fi, Bluetooth, USB, aGPS
+Akku: 1840 mAh
+Kamera: 3 Mpixel, autofókusz, LED
+Méretek: 113x46x16 mm
+Tömeg: 164 g 
+
+
+
+
+ Az elõlapon a 320x240 pixeles kijelzõ és a billentyûzet között a navigálásra és az alkalmazások gyorsindítására szolgáló gombok kaptak helyet. A telefon tetején a beépített GPS-vevõhöz csatlakoztathatunk egy külsõ antennát, balra a szabványos mini USB-csatlakozó, a microSD kártyahely és a hangerõszabályzó gombjai, jobbra pedig egy tekerõgomb és két további gyorsgomb kapott helyet, utóbbiak közül egyik a fényképezõgépet indítja, a másik pedig egy "OK" gomb. Ilyet egyébként az elõlapon is találunk a gyorsgombok között. Rendkívül hasznos, mert a segítségükkel úgy tudunk navigálni a Windows Mobile 6.1 menüjében, hogy egyszer sem kell elõhúznunk a teleszkópos cerkát az iPAQ aljából.
+
+Egy ilyen készülék talán két legfontosabb alkatrésze a kijelzõ és a billentyûzet, az iPAQ 914 esetében szerencsére mindkettõ kiváló. A 2,5 hüvelyk átlójú, QVGA felbontású megjelenítõ LED-háttérvilágítása tág határok között állítható, ennek köszönhetõen még a szabadban, napfényben is jól olvasható marad. A billentyûzet is remek, bár elsõre kissé szokatlanok voltak a Nokia E61-em széles, lapos billentyûi után az iPAQ hordószerû gombjai. Nagy kár, hogy ékezetes karaktereket nem tudunk bevinni a billentyûzetrõl, azokhoz az érintõképernyõn megjelenõ virtuális keyboardot kell elõhívnunk.
+
+
+
+Az iPAQ 914-en a Microsoft legújabb mobiltelefonos operációs rendszere, a Windows Mobile 6.1 fut, a gyors processzornak és a méretes memóriának köszönhetõen elég gyorsan. A Windows Mobile 6.1 számos olyan szolgáltatást nyújt, ami vállalati környezetben megkönnyíti a rendszergazdák életét. A windowsos készülékek tartományba (domain) léptethetõk, távolról felügyelhetõk, menedzselhetõk, frissíthetõk rajtuk a szoftverek, vagy akár az összes adat törölhetõ róluk, ha idegen kézbe kerülnek. A felhasználó szempontjából a Windows Mobile 6.1 azonban még mindig kissé nehézkes, körülményes szoftver. Tovább bonyolítja a helyzetet, hogy az iPAQ 914 egyszerre érintõképernyõs és billentyûzetes készülék, a Windows Mobile alkalmazásaiban hol egyik, hol másik beviteli módot kell használnunk.
+
+Szerencsére azonban a Windows Mobile az egyik legnépszerûbb mobil platform, és számtalan alkalmazás érhetõ el hozzá, amelyek segítségével a telefonunkat testreszabhatjuk. A helyzet hasonló ahhoz, amit az asztali gépeken már megszokhattak a Windows-felhasználók. Megérkezik a "csupasz" operációs rendszer, amely elõre telepítve tartalmaz számos alkalmazást, de ezeknél rendszerint vannak jobbak, szebbek, kényelmesebbek, melyek feltelepítése után a PC egybõl "otthonossá" válik.
+
+Ugyanez a helyzet a Windows Mobile 6.1-re épülõ iPAQ-kel is, az Spb Mobile Shell és az Opera Mobile 9.5 telepítése után mintha egy egész más készülékrõl lenne szó: az Spb menü sokkal kezesebb, könnyebben használható, átláthatóbb, kényelmesebb a Windowsénál, az Opera és az Internet Explorer Mobile képességeit és szolgáltatásait pedig egy napon sem lehet említeni -- sajnos az Opera 9.5 béta egyelõre kissé lassúcska, de szerencsére nem zavaróan.
+
+
+
+A telefonra a HP elõre telepítette a Google Mapset, amely a beépített GPS-szel együttmûködve helymeghatározásra és navigációra is alkalmas lehet, de szerencsére a készülék rendelkezik memóriakártya-foglalattal, így semmi akadálya annak, hogy akár az iGO-ra, akár a Tomtom Mobile-ra bízzuk az útvonalak tervezését. Szintén elõre telepített alkalmazás az iPAQ Data Connect, amely a mobilszolgáltatótól letölti a készülék beállításait az adatkapcsolat használatához, így nem nekünk kell kotorászni a Connections menüben. További egyedi jellemzõje az iPAQ-nek, hogy a beérkezõ levelekre élõszóban is válaszolhatunk, ilyenkor a telefon MP3 formátumba rögzíti a beszédet és csatolt fájként küldi el.
+
+Nagy segítség a készülék használatában a navigációs billentyûk mellé került négy gyorsgomb, amelyekhez alapállapotban a naptár, az e-maileket, SMS-eket és MMS-eket együtt kezelõ Inbox, a Start menü, valamint az "OK" funkció van rendelve. Szerencsére a telefonon található összes gyorsgombot át lehet programozni, tetszõleges parancsot rendelhetünk hozzájuk, még jobban a saját igényeinkhez igazítva az iPAQ mûködését. Az elõlapon található még egy kétszínû LED, amelyik jelzi, ha csatlakoztunk egy mobilhálózathoz, illetve ha aktív a Wi-Fi vagy Bluetooth kapcsolat. Sok készülék képes a LED villogásával figyelmeztetni a tulajdonost egy beérkezett üzenetre vagy elmulasztott hívásra, az iPAQ 914 erre alapból nem képes, de utólag feltelepített szoftverrel ez is megoldható.
+
+
+
+ Bár az iPAQ 914 ízig-vérig üzleti kommunikátor, a tervezõi egy 3 megapixeles, autofókuszos kamerát is építettek bele, amihez LED-vaku is tartozik. Nagy meglepetésre a kamerát kezelõ szoftver is fejlett, lehetõséget ad sorozatfelvétel és panorámakép készítésére, került bele idõzítõ, emellett QVGA felbontású videókat is rögzíthet vele, aki akar. A kamera menüjében nem találtam nyomát annak, hogy a beépített GPS által szolgáltatott koordinátákat tárolni tudná a képek mellé, de a Windows Mobile-ra írt töméntelen mennyiségû alkalmazás között biztos találunk  ilyet.
+
+A HP okostelefonját egy fizikailag is hatalmas méretû, 1840 mAh kapacitású lítiumpolimer akkumulátor látja el árammal. Nálam egy feltöltés után két és fél napig bírta az iPAQ, miközben rendszeresen telefonáltam, a mobil böngészõvel HSDPA-n neteztem, levelezgettem és a Wi-Fi-t is használtam. Az iPAQ 914 ajánlott bolti ára bruttó 120 ezer forint, ennyi pénzért a készüléken kívül USB-kábelt, hálózati töltõt és sztereó headsetet kapunk. Ez nyilván nem kevés pénz, de cserébe a ma elérhetõ maximumot kapjuk a hardvertõl, a Windows Mobile 6.1-tõl pedig a lehetõséget arra, hogy a készülék egy igazán sokoldalú mindenes legyen akár vállalati környezetben, akár egy fogyasztó kezében.
+
+Véleménye van?
+Szóljon hozzá a fórumban
+írjon szerkesztõségünknek!

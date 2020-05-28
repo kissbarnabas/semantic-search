@@ -1,0 +1,43 @@
+Letölthetõ az Internet Explorer 8 második bétája
+
+A Microsoft kiadta az Internet Explorer 8 második bétáját. A márciusban megjelent elsõ bétát még fejlesztõknek szánta a cég, a második azonban már hétköznapi fogyasztásra alkalmas, otthoni felhasználók is bátran feltelepíthetik. Az IE8 fõleg a használhatóság és a biztonság terén hoz újdonságokat, de a webes szabványok támogatása is sokat fejlõdött, aminek eredményeképp a böngészõ lényegében az összes standarddal kompatibilis. Emellett a fejlesztõk nagy hangsúlyt fektettek a sebességre is, amely miatt az Internet Explorer 7-et sok kritika érte.
+
+
+
+Kényelmesebben használható
+
+A Microsoft számos tesztet és kutatást végzett annak érdekében, hogy a lehetõ legtöbb információt gyûjtse be az emberek böngészési szokásairól. Ezek alapján a cég arra jutott, hogy a felhasználók idejük 80 százalékában olyan weboldalakat keresnek fel, amelyeken korábban már jártak, ezért az IE8-ban ezek könnyen elérhetõvé váltak. A böngészõben megjelent a Firefox 3-ból már ismert "smart address bar", vagyis okos címsor, amelyben az elõzmények, könyvjelzõk és RSS csatornák között kereshetünk is -- ehhez a funkcióhoz azonban szükséges a Windows Desktop Search telepítése.
+
+A fülek (tab) kezelése is javult, például az olyan apróságoknak köszönhetõen is, hogy az összetartozó tabokat a szoftver azonos színekkel jelzi. Az IE8-ban könnyen megnyithatjuk a már bezárt füleket, de akár egész böngészési folyamatokat vehetünk újra elõ. Az Internet Explorer eltárolja a fülek történetét és hierarchiáját, így aztán nem okoz gondot a számára akár több fül ismételt megnyitása sem, hiszen a szoftver mindegyiknek a "születésére" emlékszik. További hasznos újdonság a Web Slices, amely az Apple Safari Web Cliphez hasonlóan képes a weboldalak egyes részeibõl widgeteket létrehozni, amelyeket a felhasználó úgy is megnézhet, hogy közben magát az oldalt nem látogatja meg.
+
+A Mozilla Labs tegnap adta ki Ubiquity névre hallgató kiegészítését a Firefoxhoz, amely szöveges utasítások segítségével képes mashupokat létrehozni. Ehhez némileg hasonló képességel az Internet Explorer 8-at is felruházták. Az Accelerator szolgáltatással a weboldalon kijelölt szöveget tudjuk egyetlen kattintással blogunkba másolni, e-mailben elküldeni, az eBayen vagy az Encarta enciklopédiában megkeresni, esetleg a térképen megmutatni, amennyiben címrõl van szó. Az Acceleratorok száma folyamatosan bõvül, de akár a felhasználók is létrehozhatnak sajátokat.
+
+[+] Kipróbálható a Firefox zseniális kiegészítõje, a Ubiquity 
+
+
+A weboldalakon történõ könnyebb eligazodást segíti a Visual Search, amely nem csak különféle motorok segítségével képes a weben keresni, hanem a találatok mellett akár releváns képeket vagy más információkat is meg tud jeleníteni. Ha például egy termékre keresünk az Internet Explorerbõl például az eBayen, akkor nem csak az odavezetõ linket mutatja meg a Visual Search, hanem a termék fotóját és árát is. Ennek a funkciónak a teljes kihasználásához a weboldalak támogatása is szükséges, az IE8 az OpenSearch szabvánnyal kompatibilis, vagyis a fejlesztõknek szerencsére nem kell új trükköket megtanulniuk.
+
+Biztonságos, robosztus és gyors
+
+Korábban már esett szó az IE8 biztonsági funkcióiról. A Microsoft ígérete szerint a szoftver hatékonyan képes kiszûrni az adathalász (phishing), illetve egyéb módon veszélyes, például kártékony kódot tartalmazó oldalakat, elhárítani a cross-site scripting támadásokat. A böngészõ a felhasználót nem csak a támadásoktól védi, hanem a magánszféráját is meg tudja védeni, ha kell, például az InPrivate Browsing vagy az InPrivate Blocking segítségével. Elõbbivel kikapcsolható, hogy a böngészésünknek bármilyen nyoma maradjon a gépen, utóbbival pedig a neten tehetjük "nyomtalanná" magunkat.
+
+A biztonságos internetezés nem csak ebbõl áll, hanem abból is, hogy a szoftver az eddigieknél robosztusabb, a Microsoft szerint kevesebbszer fagy le. További fontos újdonság, hogy a weboldalak aktivitása nem érinti egymást, vagyis például az egyik fülben megjelenített oldalon futó szkript hibája nem érinti sem magát a böngészõt, sem a többi fület -- biztos mindenki találkozott már azzal a jelenséggel, amikor egy hibásan megírt szkript az egész böngészõt megakasztja. Az IE8 esetében a lefagyott fület be lehet zárni, az nem rántja magával a többi fület vagy ablakot.
+
+[+] Észrevétlenek maradhatnak az Internet Explorer 8 felhasználói
+
+Sebesség terén is továbblépést ígér a Microsoft. A Mozillához és az Apple-hez hasonlóan a redmondi fejlesztõk is sokat gyorsítottak a JavaScriptek végrehajtásán, egyes esetekben akár négyszeres gyorsulást elérve. Azt azonban a Microsoft is elismeri, hogy ez önmagában még nem nagy áttörés: a cég elemezte, hogy a böngészõ miként viselkedik a világ  száz legnépszerûbb weboldalán, és arra jutott, hogy a JavaScriptek végrehajtásával idejének mindössze 3 százalékát tölti. Még a Gmail, vagy sok más AJAX-ra épülõ szolgáltatás esetén sem érte el a 15 százalékot a JavaScript-futtatással töltött idõ, ezzel együtt a Microsoft azt ígéri, sok oldalon érezhetõen gyorsabb az IE8 az IE7-nél. A MIX08 konferencián az IE8 sebességét még az rivális Google is méltatta.
+
+Szabványos
+
+
+ Az Internet Explorer korábbi változatai nem voltak (teljesen) kompatibilisek egyes webes szabványokkal, ezért a szabványos oldalak néha nem, vagy nem jól jelennek meg bennük. A fejlesztõk egy része az IE piaci dominanciája miatt éppen ezért nem a szabványok követését tartotta fontosnak, hanem azt, hogy az oldaluk Internet Explorerben jól nézzen ki, ezek a lapok azonban a szabványos IE8-ban nem, vagy rosszul lennének láthatóak.
+
+A böngészõ ezért két módban képes megjeleníteni a weboldalakat, "szabványos", és "IE7 emulációs" módon.  A webfejlesztõknek elég a korábbi weboldalaikba egy taget elhelyezniük, amely az IE8-at IE7-módba kapcsolja, vagyis a felhasználónak semmit sem kell tennie annak érdekében, hogy minden weboldalt úgy lásson, ahogy a tervezõi megálmodták. Persze a felhasználó is válthat a módok között, ha úgy akarja, sõt, akár csoportházirendbõl is vezérelhetõ lesz ez a funkció.
+
+[+] A rendszergazdák életét is megkönnyíti az Internet Explorer 8
+
+Az IE8-ban a beépülõ modulok viselkedését is lehet majd csoportházirendbõl irányítani. A felhasználók adminisztrátori jogosultság nélkül is telepíthetnek ActiveX-vezérlõket (amennyiben csoportházirendbõl ezt engedélyezzük), de lehetõség van a vezérlõk települését csak bizonyos oldalakra korlátozni. Az IE8 lehetõséget nyújt majd arra, hogy az ActiveX vezérlõk egy teljesen elszigetelt környezetben fussanak, így ha még kártékonyak is, akkor sem tudnak valódi kárt okozni.
+
+Letölthetõ
+
+Az Internet Explorer 8 második bétája Windows XP, Windows Vista, Windows Server 2003 és Windows Server 2008 operációs rendszerekhez tölthetõ le 32- és 64-bites változatban angol, kínai, japán és német nyelven, de a Microsoft ígérete szerint hamarosan további nyelveken is elérhetõ lesz. A végleges verzió érkezésének idejérõl továbbra sem közölt részleteket a Microsoft, de az IE8 valószínûleg még az idén megjelenik.

@@ -1,0 +1,34 @@
+Veszélyesebbek a pendrive-ok, mint gondolnánk
+
+Egy, a SanDisk megbízásából készített felmérés szerint az USB-kulcsok, pendrive-ok jóval nagyobb fenyegetést jelentenek a vállalati adatokra, mint ahogy azt az informatikai vezetõk gondolnák.
+
+
+
+Bizalmas céges adatok a személyes adathordozókon
+
+A megkérdezett informatikai vezetõk úgy becsüték, hogy a vállalatuknál dolgozó végfelhasználóknak átlagosan 35 százaléka használja saját, személyes tulajdonú pendrive-jait munkával kapcsolatos feladatok elvégzéséhez, a valóság azonban az, hogy a végfelhasználók 77 százaléka állította ugyanezt. Nem csak az a riasztó, hogy az IT-vezetõk mennyire nincsenek tisztában a "rájuk bízott" felhasználóik szokásaival, hanem az is, hogy a felhasználók rendszeresen tárolnak, hordoznak érzékeny, bizalmas vállalati adatokat a saját pendrive-jaikon.
+
+A válaszok alapján a legtöbbször ügyféladatok kerülnek a személyes USB-kulcsokra, de pénzügyi információk, üzleti tervek, dolgozók személyes adatai, marketing-tervek, illetve forráskódok is gyakori vendégei a dolgozók pendrive-jainak, ami azt jelenti, hogy ezek az adatok könnyen illetéktelen kezekbe kerülhetnek, ha valaki például elhagyja a pendrive-ot, vagy a táskájával együtt ellopják tõle. A SanDisk által elvégzett felmérés szerint a felhasználók 12 százaléka talált már nyilvános helyen elvesztett pendrive-ot, és a legtöbben saját bevallásuk szerint meg szokták tekinteni a rajta található adatokat.
+
+
+
+Ha vannak is szabályok, kevesen ismerik õket
+
+Az adatok alapján sok vállalat tett már lépéseket a pendrive-használat szabályozására, azonban az esetek kétharmadában reaktívan, vagyis valamiféle incidens után. Érdekes ugyanakkor, hogy a megkérdezett végfelhasználók közel fele állította, hogy nincs tudomása a pendrive-használatra vonatkozó vállalati korlátozásról vagy szabályozásról, további 23 százalék pedig csak annyit tud, hogy létezik ilyen szabályozás, de azt már nem tudta felidézni, hogy pontosan milyen rendelkezéseket tartalmaz.
+
+
+A megkérdezett informatikai vezetõk hasonlóan borús képet festettek a végfelhasználók ismereteivel kapcsolatban. A válaszok szerint a dolgozóknak csak 19 százaléka van teljesen tisztában a szabályokkal, a fennmaradó rész vagy csak részben, vagy egyáltalán nem ismeri azokat. Az IT-vezetõk 33 százaléka évente tart továbbképzést a pendrive-okkal kapcsolatos biztonsági szabályokról, 24 százalék pedig évente többször is.
+
+Néhány megoldás
+
+Kovács Tamás, a Noreg Kft. üzletbiztonsági szakértõje lapunk érdeklõdésére elmondta, az eddig lefolytatott biztonsági auditok alapján Magyarországon ma még csak a cégek töredéke foganatosított intézkedéseket a pendrive-használat kockázatainak visszaszorítása érdekében, pedig ma már számos eszköz áll az IT-vezetõk rendelkezésére, amelyek a pendrive-okra vonatkozó szabályokat kikényszeríthetik.
+
+A legegyszerûbb olyan pendrive-okat használni, amelyek automatikusan titkosítják a tartalmukat, így az még elvesztés vagy ellopás esetén sem kerül illetéktelenek kezébe. A biztonsági cégek végpontvédelmi szoftvereinek legújabb változatai már ellenõrzésük alatt tartják az USB-kapukat is, és képesek blokkolni a hozzáférést. A Symantec Endpoint Protection például lehetõvé teszi, hogy az USB-s eszközöket a PC-vel szinkronizálni lehessen, de hordozható adattárolóként ne mûködhessenek, esetleg csak olvasni lehessen õket, de programokat már lehessen róluk indítani. 
+
+Az USB-s adattárolók nem csak az adatszivárgás miatt lehetnek veszélyesek. Az elhagyott pendrive-ok tartalmába a megtaláló felhasználók szeretnek beletekinteni, ma már nem ritkák azok a támadások, amelyek erre alapoznak. A támadók a megfelelõ helyen "ottfelejtenek" egy pendrive-ot vagy iPodot, amelyre olyan kártevõt (pl. SillyFDC) másolnak, amely megfertõzi a PC-t és adatokat továbbít róla, vagy magára az eszközre menti õket annak reményében, hogy a becsületes megtaláló jutalom fejében visszajuttatja.
+
+
+
+A Windows Vistában az egyik újdonság, hogy akár egyedi azonosító alapján lehet benne engedélyezni és tiltani az USB-s eszközöket, így akár csoportházirendbõl is megadható, hogy csak egyfajta típusú pendrive-ot lehessen a PC-vel használni. Ha olyan pendrive-ot rendszeresít a cég, amelyen az adatok titkosítottak kötelezõen jelszóval védettek, máris csökken az USB-kulcsok használatának kockázata.
+
+Léteznek kimondottan adatszivárgást megakadályozó szoftverek (pl. McAfee Data Loss Prevention, EagleEyeOS), amelyek képesek megakadályozni az adatok nem hálózati csatornákon -- például nyomtatás, képernyõmentés, vagy hordozható adattárolók segítségével -- történõ ellopását.

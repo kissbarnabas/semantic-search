@@ -1,0 +1,12 @@
+Holnap befuthat a Firefox 3.5 végleges változata
+
+Az elsõ félév utolsó napjára várt Firefox 3.5 várhatóan nem különbözik a június 25-én megjelent RC3-tól. A kiadásra jelölt változatokba a szoftverfejlesztõi gyakorlat szerint új funkciók már nem kerülnek, legfeljebb a kisebb-nagyobb hibákat javítják a programozók -- ha a múlt héten megjelent RC3-ban komolyabb bugot észlelnének a tesztelõk, szinte biztosan a második félévre tolódik a kész változat megjelenése.
+A Firefox 3.5-bõl eddig összesen nyolc tesztverzió jelent meg: az elsõ béta tavaly októberben látott napvilágot, akkor még Firefox 3.1 beta1 néven, decemberben jött a második, majd márciusban -- két hónap csúszással -- a harmadik béta. A Firefox fejlesztõi csapata itt döntötte el, hogy a fejlesztés alatt álló program verziószámát 3.1-tõl 3.5-re növeli -- ilyen lépésre eddig nemigen volt példa a hasonló szoftverek fejlesztése során. A program fejlesztése a finisben végül rendkívüli módon felgyorsult: csak júniusban négy tesztváltozat jelent meg, beleértve a három kiadásra jelölt változatot, melyek alig több mint egy hét alatt készültek el.
+
+
+A Firefox 3.0-ból tavaly éppúgy nyolc tesztváltozat készült a megjelenés elõtt, mint az új verzióból, igaz, abban az esetben a fejlesztés finise kevésbé volt tempós: az elsõ és az utolsó kiadásra jelölt változat megjelenése közt nem egy hét, hanem csaknem egy hónap telt el. A Firefox 3.0 tavaly június 19-én készült el, nem egészen hét hónappal az elsõ bétaváltozat 2007. november 21-i debütálása után.
+Az új Firefox legfontosabb újdonságai közé tartozik a továbbfejlesztett, elõdjénél lényegesen gyorsabb TraceMonkey nevû JavaScript-motor, valamint a Google Chrome-nál megismert rendszerhez hasonló privát böngészési mód. A fejlesztõknek leginkább az elõbbivel gyûlt meg a bajuk, az új változatban felfedezett legtöbb hiba a gyorsabb motorhoz volt köthetõ.	     
+                  
+                  
+                  
+                   

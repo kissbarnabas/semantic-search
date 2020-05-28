@@ -1,0 +1,14 @@
+iSCSI-alapú tárolómegoldásokkal foglalkozó céget vett a HP
+
+Kevesebb mint egy évvel azután, hogy a Dell kezébe került az EqualLogic, a  Hewlett-Packard 360 millió dollár készpénzért megvásárolta az iSCSI-alapú SAN-megoldásokat fejlesztõ LeftHand Networks vállalatot. Piaci elemzõk szerint hasonló tranzakció várható az IBM-tõl is.
+
+
+
+A LeftHand Networks azon maroknyi cég egyike, amelyek a kezdet kezdetén fogtak bele iSCSI-alapú SAN-fejlesztésekbe. Az 1999-ben alapított, magánkézben levõ vállalat központja a coloradói Boulderben található -- ugyanott, ahol egyébként a HP legtöbb, adattárolással kapcsolatos kutatás-fejlesztési tevékenysége is zajlik. A LeftHandnek  világszerte 3 ezer ügyfele és 500 viszonteladó partnere van, emellett 215 alkalmazottat foglalkoztat, akik a felvásárlás lezárásával javarészt átkerülnek a HP kötelékébe.
+
+
+ A SAN/iQ segítségével az iSCSI-alapú tárolók egyetlen virtuális erõforrássá vonhatók össze, amelyet aztán fel lehet osztani az alkalmazások igényei szerint. Az archiktektúra jellegzetessége, hogy minél több eszközt tartalmaz, annál nagyobb a teljesítménye és a megbízhatósága is, ahogy a SAN/iQ az eszközökben rendelkezésekre álló erõforrások kezelését maga veszi át. Ahogy új tárolók kerülnek a SAN/iQ látóterébe, a meglevõ adatokat szétteríti rajtuk, növelve a teljesítményt. A nagyobb biztonság érdekében az adatokat akár többször is tárolhatjuk.
+
+A SAN/iQ meglevõ tárolókra és x86-os szerverekre is telepíthetõ, így megoldást jelent olyan vállalatok számára is, akik meglevõ adattárolási környezetükben szeretnének új funkciókat (pl. storage virtualizáció) bevezetni. A LeftHand Networks termékei a HP StorageWorks portfóliójába épülnek be. A megcélzott piac elsõsorban a kis- és közepes vállalatok, akik a HP saját StorageWorks Modular Storage Array termékeit már kinõtték, de a csúcskategóriát jelentõ Enterprise Virtual Array sorozat túl nagy, feleslegesen bonyolult és drága az igényeikhez.
+
+Az iSCSI-alapú tárolók olcsóságuk miatt egyre nagyobb szeletet hasítanak ki maguknak a piacból, a felsõbb rétegek felé szorítva a Fibre Channel-alapú megoldásokat. A hagyományos storage-gyártók, mint az EMC, az IBM vagy a HP inkább FC-alapú megoldásaik iSCSI-kompatibilis változataival próbálnak teret nyerni, a LeftHand és a hozzá hasonló cégek (pl. 3PAR, Compellent, Xiotech, FalconStor) ezzel szemben "natív" iSCSI-termékeket kínálnak. Elemzõk egybehangzó véleménye szerint ezen cégek egy része igen hamar felvásárlási célponttá válhat.

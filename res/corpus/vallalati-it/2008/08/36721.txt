@@ -1,0 +1,15 @@
+Heteken belül jön a ThinkPad X301 - gyorsabb, többet tud
+
+Már régóta sejteni lehetett, és egy ideje nem hivatalosan tudni is, hogy a Lenovo az új etalont teremtõ ThinkPad X300 utódjának bejelentésére készül. Így aztán senkit nem ért meglepetésként, mikor a Lenovo ma bejelentette az X301 modellt. Az augusztus végén érkezõ új változat már valószínûleg a Montevina Centrino 2 platformra épít, és nagyobb SSD-opcióval is rendelhetõ.
+
+
+
+A Lenovo mûszakilag igen szegényes specifikációkat adott ki a géprõl a DDR3 memória kapcsán ugyanakkor szinte bizonyos, hogy már az Intel Centrino 2 notebookplatformjára épít, így valószínûleg Penryn kódnéven ismert 45 nanométeres Core 2 Duo mobilprocesszort alkalmaz. A vállalat mindössze annyit közölt, hogy az ultra-alacsony feszültségû chip és a szintén alacsonyabb tápfeszültséggel üzemelõ, és adott sávszélességet energiahatékonyabban kiszolgáló DDR3 memóriaalrendszer révén mintegy 20 százalékkal magasabb teljesítményt ad le PC Mark05 alatt -- ez alapján nagyjából 1,4 gigahertzes ULV Penrynt várhatunk.  
+
+
+Az X301 nemcsak hosszabb csíkot húz, de a NAND flash-gyártás szédítõ ütemû fejlõdése következtében már 128 gigabájtos SSD-vel is rendelhetõ a 64 gigabájtos helyett. A több erõforrás mellé új csatlakozási lehetõségek és társulnak, így például DisplayPort és D-Sub VGA felületet is kapott, de igazi high-tech újdonságnak számít az Ultra-Wideband (UWB), melyet vezetéknélküli USB-ként is szokás emlegetni. Egyes országokban GPS, WiMAX és HSDPA opcióval is lehet rendelni a gépet, ezek a képességek azonban Magyarországra valószínûleg nem jutnak el, ahogyan azt megszokhattuk. Az X301 gyorsabb és jobb lesz elõdjénél, ez azonban úgy tûnik, nem mutatkozik majd meg az árcédulán, ugyanis az Egyesült Államokra érvényes 2600 dolláros kezdõ ár alatta van az X300 tipikus 3000 dolláros árcédulájának.
+
+[+] Kipróbáltuk: padlóra küldött a Lenovo új ThinkPad X300 noteszgépe
+
+
+A ThinkPad X300-at február végén mutatta be Európának a Lenovo, melyet egyszerûen a tökéletes ThinkPadnek tart az irodán kívül sokat tartózkodó dolgozók számára. A gép ugyanis rendkívül kompakt méretei és alacsony tömege (1,33-1,6 kilogramm) ellenére 13,3 hüvelykes, transzflektív jellemzõjû LED-háttérvilágítású panelt vonultat fel 1440x900 pixeles felbontással, közel 66 százalékkal nagyobb munkaterületet adva egy normál 1024x768-as gépnél, mint amilyen a korábbi X-sorozat. Átlagosan mindössze kevesebb mint két centiméteres vastagsága ellenére ráadásul kivehetõ optikai meghajtóval is bír. Az X300 úttörõnek számít abban is, hogy kizárólag SSD-vel rendelhetõ, mely ugyan jelentõsen megdrágítja egyelõre a gépet, váratlanul gyors mûveleti teljesítménnyel bír, hangtalan, nem melegszik, és ellenáll a sokkhatásoknak is.

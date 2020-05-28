@@ -1,0 +1,20 @@
+Virágzik az online alvilág
+
+A Symantec tegnap adta ki jelentését a feketegazdaságon belül az informatikai bûnözésrõl, az IT-biztonsági cég egy éven keresztül vizsgálta, hogy mûködik az online alvilág.  
+
+
+
+A hitelkártya- és bankszámlaadatok a legkelendõbbek
+
+A feketegazdaság résztvevõi -- hasonlóan más internetezõkhöz -- IRC-csatornákon és webes fórumokon tartják egymással a kapcsolatot, itt adják-veszik a portékájukat, ami lehet akár hitelkártyaadat, e-mail fiók vagy bármilyen olyan információ, amivel a haszonszerzés érdekében vissza lehet élni. A bûnözõk számtalan szolgáltatást nyújtanak, ajánlkoznak például a lopott számlákról szerzett pénzt valódi pénzre váltó pénztárosok, vagy adathalász és csaló lapok üzemeltetésére szakosodott szerverek tulajdonosai. Olyan álláshirdetések is talállhatók itt, amelyekben példál kártékony kódokat fejlesztõ programozót vagy az adathalászathoz társat keresnek.
+
+
+ A feketegazdasági áruk és szolgáltatások között a leggyakrabban hirdetett kategória a hitelkártyaadatoké volt (31%). Bár a lopott hitelkártyaszám maga nem drága --  legfeljebb néhány tucat dollár -- , figyelemreméltó adat, hogy a Symantec által vizsgált meghirdetett hitelkártyák hitelkeretének átlaga már négyezer dollár fölött volt. A Symantec az összes meghirdetett hitelkártya értékét 5,3 milliárd dollárra becsüli a beszámoló idõszakában.
+
+A második leggyakrabban hirdetett áru a bankszámlákkal kapcsolatos információ volt, ezeket  tíz és ezer dollár közötti áron értékesítik. A meghirdetett lopott bankszámlák egyenlegének átlaga közel negyvenezer dollár volt a Symantec szerint. A számlainformációk népszerûségének oka az lehet, hogy a vásárlók segítségükkel gyorsan juthatnak nagy haszonhoz. Elõfordult például, hogy a bûnözõk a neten keresztül a számlákon levõ pénzt negyed órán belül lekövethetetlen helyekre szívták le. 
+
+Az IT-biztonsági piacon egyelõre nem érzõdik a válság
+
+Az online bûnözõk természetesen a pénzügyi krízist is megpróbálták kihasználni, villámgyorsan elszaporodtak a csõdközelbe jutott vagy csõdbe ment bankok nevében kiküldött adathalász e-mailek, illetve a célzott csalások, támadások -- mondta el Teasdale Harold, a Symantec hazai vezetõje. A pénzügyi szektor egyébként részben ennek hatására lázas készülõdésbe kezdett és újra fókuszba került az internetes banki megoldások biztonságának növelése -- Teasdale konkrét nevek vagy cégek említése nélkül közölte, a Symantec több ilyen hazai projektben is érintett.
+
+A cégvezetõ optimistán nyilatkozott az informatikai biztonsági piac közeljövõjérõl, elmondása szerint egyelõre nem látszik nyoma annak, hogy a cégek ezen a területen szûkösebbre húznák a nadrágszíjat.

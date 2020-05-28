@@ -1,0 +1,41 @@
+Öt tipp a gyorsabb nyomtatáshoz
+
+Az idõ pénz, így jó minél hatékonyabban kihasználni. Mindennapi irodai munkánk meghatározó hányadát töltjük nem csak a dokumentumok elõállításával, de papírra vetésével is, így nem mindegy, hogy mennyi idõ alatt végzünk a feladattal. Néhány praktikus fogással extra kiadások nélkül lendíthetünk az ügymeneten.
+
+
+
+
+Alapértelmezett nyomtató
+
+Nem biztos, hogy az a nyomtató jelenik meg célként alkalmazásaink nyomtató ablakában, amit leggyakrabban használunk, így idõt vesztünk, hiszen mindig ki kell választanunk a kívánt modellt. Célszerû felkeresni a Nyomtatók és faxok ablakot, ahol kattintsunk jobb egérgombbal a leggyakrabban használt printerre, majd válasszuk a Beállítás alapértelmezettként gombot. Ezután a szabványosan mûködõ alkalmazásokban már az itt kiválasztott típus jelenik meg automatikusan a nyomtatás párbeszédablakban. Vigyázat, némely alkalmazás megjegyzi a legutóbb használt printert és nem veszi figyelembe a Windows alapértelmezését!
+
+A leggyakrabban használt legyenaz alapértelmezett printer.
+
+
+
+Nyomtató klónozás
+
+Nem minden nyomtatóillesztõ teszi lehetõvé, hogy a rengeteg apró beállítást egy sablonba elmentve, egységesen kezeljük. Ezért valahányszor új nyomtatást indítunk, mindig sorra végig kell járnunk a pipákat és lehullómenüket, ha mondjuk monokróm nyomtatást szeretnénk, automatikus lapfordítással és egy lapra két oldalt kicsinyítve. Ez nem csak idõpazarló, de egyenesen az ember idegeire megy, még szerencse, hogy van ingyenes megoldás. Hozzunk létre egy másolatot nyomtatónkról. Ezt a Start / Nyomtatók és faxok ablakban indítható a Nyomtató hozzáadása varázsló révén tehetjük meg, válasszuk ugyanazt a portot és ugyanazt a nyomtató modellt a felkínált listából. Ebben a listában minden a rendszerbe már feltelepített printer megtalálható, így nem lesz szükségünk a nyomtatóhoz mellékelt lemezekre, használhatjuk a már korábban telepített drivert. Létrejön a nyomtató másolata, melynek a szokásos módon adhatunk valamilyen jellemzõ nevet, amirõl a késõbbiek során könnyen felismerjük majd. A két ikon bár ugyanarra a nyomtatóra dolgozik, de beállításait tekintve külön életet él, így egyiket fenntarthatjuk színes, a másikat monokróm vagy kétoldalas, esetleg vázlat nyomtatásra, amire csak gyakran szükségünk van. Állítsuk be a nyomtató tulajdonságaiban a kívánt paramétereket, melyek ezután alapértelmezetté válnak minden alkalmazásban, vége a hosszas és felesleges kattintgatásnak.
+
+Egy fizikai nyomtatóhoz tetszõleges számú ikon és beállításkészlet társítható
+
+
+
+Tuning vasra szabva
+
+
+Sokszor a nyomtató technológiája, felépítése is meghatározza, hogy az milyen jellegû munkáknál teljesít a legjobban és mikor érdemes inkább visszavenni a minõségbõl, ha belátható idõn belül szeretnénk a munkákat kézhez kapni. Lézernyomtatóknál szövegekhez felesleges a magas,  1200×600 dpi-s felbontás, nyugodtan visszavehetjük normál szintre, egyes modellek esetében ez nagyon is számít. Sok régebbi lézer nehezen boldogul nagy képekkel, ilyenkor jót tehet egy memóriabõvítés, egyébként a dokumentumba illesztés elõtt érdemes kisebbre átméretezni a fotókat. Szintén lézernyomtatós jellegzetesség, hogy több példány esetén csak egyszer kell feldolgozniuk az oldalt, így a másod- és további  példányok már sokkal fürgébben bukkannak elõ. Tintasugaras nyomtatók esetén a duplex egység használata idõtöbblettel jár a száradási idõ miatt, így meglehet, hogy sürgõs dolgainkat kénytelenek leszünk egyoldalasan, vagy kézi kétoldalas módszerrel elkészíteni.
+
+
+A gyorsabb olcsóbb is!
+
+Jelentõs mennyiségû festékport vagy tintát takaríthatunk meg azzal, ha a házon belülre szánt dokumentumokat takarékos beállításokkal nyomtatjuk. Ilyenkor sok modell csökkenti a felbontást is, ami jótékony hatással van a nyomtatási sebességre, egyúttal rácsmintázattal kombinálja vagy körvonalaiban nyomtatja csak a szövegeket, így kevesebb festék fogy. Sok meghajtóprogramban eleve szerepel ez az opció, de ha nem, akkor hozzunk létre egy takarékos beállításokkal tuningolt másolatot a nyomtatóról, ahol eleve vázlat módot, esetleg szürkeárnyalatos nyomtatást és csökkentett festékmennyiséget állítunk be.
+
+A legtöbb nyomtató kínál takarékos beállítást
+
+
+Nyomtatás azonnal
+
+Nem feltétlenül szükséges megnyitnunk a hozzá tartozó alkalmazást ahhoz, hogy egy dokumentumot kinyomtathassunk. Ha az alapértelmezett nyomtatóra, az alapértelmezett alkalmazással nyomtatnánk a dokumentumot, akkor használjuk a jobb egérgombot! A nyomtatandón jobb gombbal kattintva felbukkanó helyi menüben ugyanis ott szerepel a Print illetve Nyomtatás pont is, ami automatikusan elvégzi a szükséges lépéseket.
+
+Nyomtatás két kattintással

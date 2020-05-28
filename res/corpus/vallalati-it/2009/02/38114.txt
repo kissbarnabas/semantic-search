@@ -1,0 +1,22 @@
+Microsoft és Red Hat: összefogás a szervervirtualizáció terén
+
+Együttmûködik a szervervirtualizáció területén a Microsoft és a Red Hat. A redmondi vállalat és a legnagyobb Linux-disztribútor között létrejött megállapodás értelémbében a két cég biztosítani fogja operációs rendszereinek futtathatóságát a másik vállalat hypervisorán.
+
+
+
+A Red Hat Enterprise Linux biztosan mûködni fog a Microsoft Hyper-V virtualizációs köztesrétegén, a Windows Server pedig futtatható lesz a Red Hat Enterprise Linuxban található virtualizációs rétegeken -- ez a Xent, illetve a KVM-et jelenti. A megállapodás az ügyfelek javát szolgálja, ugyanis a tesztelési és ellenõrzési folyamat lezárását követõen a felhasználók ugyanolyan szintû terméktámogatást vehetnek majd igénybe a virtualizált operációs rendszereikhez, mintha azokat közvetlenül a hardverre telepítették volna.
+
+A Red Hat és a Microsoft ritkán mûködik együtt ilyen magas szinten, a linuxos cég ugyanis feltétlen elkötelezettje a nyílt forráskódnak. A Red Hat sietett leszögezni, hogy a mostani megállapodás során sem kellett ezt az elkötelezettséget feladnia, ugyanis a csatlakozása a  Microsoft Server Virtualization Validation Programhoz, illetve a Red Hat Enterprise Linux vendégek validálása a Hyper-V hypervisoron nem érint szabadalmakkal vagy más szellemi tulajdonnal kapcsolatos jogokat vagy nyílt forrású szoftverkomponenseket, illetve a megállapodásnak nincsen anyagi elletételezése.
+
+
+ "Az együttmûködésnek köszönhetõen a közös ügyfelek egységes virtualizációs felügyeleti megoldást is használhatnak az inhomogén
+környezetben" -- mondta a HWSW-nek Szentiványi Gábor, a Red Hat hazai
+képviseletét ellátó ULX Kft. ügyvezetõje, hozzátéve, hogy az elsõdleges haszonélvezõk azok a kisebb vállalatok lehetnek, amelyeknek linuxos és windowsos infrastruktúrája nincs elkülönítve. "Magyarországon is
+egyértelmûen látszik az ügyféligény a virtualizált környezetek
+egységes menedzselésére."
+
+ Az utóbbi idõben egyre több szó esik a szervervirtualizációról, amelyben a Windows és a Linux kiemelt fontosságú -- az IDC adatai szerint a virtualizált operációs rendszerek 80 százalékban e kettõ közül kerülnek ki. A bejelentés kapcsán a Red Hat hangsúlyozta, és az IDC elemzõje, Gary Chen is megerõsítette, hogy leginkább azok a felhasználók profitálhatnak belõle, amelyek Windows Servert és Red Hat Enterprise Linuxot egyaránt használnak. 
+
+A Red Hat Enterprise Linuxban két virtualizációs köztesréteg is található, a Xen és a KVM (kernel based virtual machine). Utóbbi lényegében "házon belüli" fejlesztésnek tekinthetõ, ugyanis a KVM mögött álló izraeli Qumranetet tavaly õsszel vásárolta fel a Red Hat, és egyben közölte, hogy a jövõben a KVM lesz a Red Hat virtualizációs megoldásainak alapja. Betölthetõ kernelmodulként a KVM szorosan integrálódik a Linux kernelébe, így nem használ saját mikrokernelt hypervisorként. A hardveres virtualizációs támogatást (Intel VT vagy AMD-V) megkövetelõ megoldás elõnye a minimális teljesítményveszteség és egyszerû felügyelet.
+
+Az Enterprise Linux 5 virtualizációs platformja továbbra is a Xen, azonban a KVM-re történõ átállás a Libvirt API-nak köszönhetõen teljesen zökkenõmentes, a felhasználók számára pedig lényegében észrevétlen lehet. A Libvirt API lényege, hogy egy teljesen független virtualizációs keretrendszerként elfedi a hypervisort, így a Red Hat Enterprise Linux  bármilyen virtualizációs köztesréteggel képes együttmûködni, beleértve a KVM-en és a Xenen kívül akár a QEMU-t és az OpenVZ-t is.

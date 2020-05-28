@@ -1,0 +1,20 @@
+Tavaszra csúszik a Firefox 3.1 érkezése
+
+Várhatóan a második negyedévre csúszik a Firefox 3.1 megjelenése -- a fejlesztõi csapatból többen felvetették, hogy ki kellene hagyni a TraceMonkey névre hallgató JavaScript-motort, mivel leginkább az késlelteti az új böngészõ megjelenését.
+
+
+
+TraceMonkey-val vagy nélküle?
+
+David Baron, a Firefox egyik fejlesztõje a Mozilla fórumon úgy vélekedett, a TraceMonkey nélkül már ki lehetett volna adni a Firefox 3.1-et, de legkésõbb márciusra elkészülne. Szerintem el kellene döntenünk, mennyit várjunk a TraceMonkey-ra -- vélekedett Baron. A TraceMonkey felett bábáskodó csapat egy tagja, Graydon Hoare is egyetértett. Szerinte hiába villámgyors az új  JavaScript-motor, a böngészõ enélkül is mûködõképes, legfeljebb alapértelmezésként ki kellene kapcsolni mint ahogy az a Beta 1 esetében is történt. 
+
+A Firefox 3.1 két legfontosabb újdonsága a TraceMonkey JavaScript-motor, valamint a sokszor "pornómódként" aposztrofált privát böngészési funkció. Elõbbivel az oldalak renderelési sebességét tekintve immár felveszi a versenyt a Firefox a villámgyors oldalbetöltésérõl híres, szeptemberben megjelent Google-böngészõvel, a Chrome-mal, a privát böngészést bekapcsolva pedig a böngészõ nem tárol semmilyen információt, amibõl a PC-n kideríthetõ lenne, hogy a felhasználó merre járt, milyen weboldalakat látogatott meg, mit töltött le.
+
+
+ Mike Shaver, a Mozilla fejlesztõcsapatának egyik vezetõje ugyanakkor úgy véli, a TraceMonkey fontos része a Firefox 3.1-nek és nagyon szeretnék ezt eljuttatni a felhasználókhoz, így a Firefox új verziója szinte biztosan megvárja a TraceMonkey elkészültét. "Idõt szánunk rá hogy ezt rendbetegyük" -- mondta Shaver. "A Firefox 3.1 megjelenése után senki sem fog erre emlékezni, csak az a srác aki a Wikipedia-bejegyzést írja. A felhasználóknak csak az számít, hogy fut a Firefox 3.1."
+
+Elhúzódó fejlesztés
+
+A TraceMonkey hibái miatt január végén a Mozilla közölte, el kell halasztani a Firefox 3.1 harmadik bétájának megjelenését. Akkor még úgy tûnt, az elsõ negyedévben megérkezhet a végleges változat, azonban mára biztossá vált hogy ez nem fog bekövetkezni, a Beta 3-nak egyelõre se híre se hamva, nem beszélve a megjelenésre szánt (RC) verziókról -- a Firefox 3 esetében két RC-re is szükség volt a végleges változat kiadása elõtt. A most elérhetõ legfrissebb elõzetes, a Beta 2 még december elején jelent meg.
+
+A Firefox 3.1-rõl már a Firefox 3.0 megjelenésekor elkezdett beszélni a Mozilla. Az eredeti tervek szerint a böngészõ frissítésébe azok a funkciók kerültek volna bele, amelyek idõhiány miatt kimaradtak a nyáron debütált 3.0-ból. Kezdetben úgy tûnt, a Firefox 3.1 még 2008 vége elõtt megérkezhet, a legújabb menetrend alapján viszont közel 1 évet vesz igénybe a fejlesztés. Még az is megeshet, hogy az Internet Explorer 8 elõbb jön meg.

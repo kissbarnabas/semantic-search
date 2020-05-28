@@ -1,0 +1,457 @@
+<?xml version="1.0"?>
+
+
+<!DOCTYPE rdf:RDF [
+    <!ENTITY owl "http://www.w3.org/2002/07/owl#" >
+    <!ENTITY xsd "http://www.w3.org/2001/XMLSchema#" >
+    <!ENTITY rdfs "http://www.w3.org/2000/01/rdf-schema#" >
+    <!ENTITY ont "http://www.co-ode.org/ontologies/ont.owl#" >
+    <!ENTITY rdf "http://www.w3.org/1999/02/22-rdf-syntax-ns#" >
+    <!ENTITY pc_shop "http://mit.bme.hu/ontologia/iir_labor/pc_shop.owl#" >
+]>
+
+
+<rdf:RDF xmlns="http://www.w3.org/2006/12/owl2-xml#"
+     xml:base="http://www.w3.org/2006/12/owl2-xml"
+     xmlns:pc_shop="http://mit.bme.hu/ontologia/iir_labor/pc_shop.owl#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:ont="http://www.co-ode.org/ontologies/ont.owl#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+    <owl:Ontology rdf:about="http://home.mit.bme.hu/~fandrew/iir/pc_shop.owl"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    <owl:AnnotationProperty rdf:about="&rdfs;label"/>
+    <owl:AnnotationProperty rdf:about="&rdfs;comment"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Datatypes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.w3.org/2001/XMLSchema#date -->
+
+    <rdfs:Datatype rdf:about="&xsd;date"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://mit.bme.hu/ontologia/iir_labor/pc_shop.owl#alapgépe -->
+
+    <owl:ObjectProperty rdf:about="&pc_shop;alapgépe">
+        <rdf:type rdf:resource="&owl;FunctionalProperty"/>
+        <rdfs:comment>Egy konfigurációhoz tartozó PC. A konfiguráció PC-ből, megjelenítőből és beviteli eszközökből áll.</rdfs:comment>
+        <rdfs:range rdf:resource="&pc_shop;PC"/>
+        <rdfs:domain rdf:resource="&pc_shop;konfiguráció"/>
+        <rdfs:subPropertyOf rdf:resource="&pc_shop;része"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://mit.bme.hu/ontologia/iir_labor/pc_shop.owl#alkatrésze -->
+
+    <owl:ObjectProperty rdf:about="&pc_shop;alkatrésze">
+        <rdfs:comment>Egy PC alkatrésze.</rdfs:comment>
+        <rdfs:domain rdf:resource="&pc_shop;PC"/>
+        <rdfs:range rdf:resource="&pc_shop;alkatrész"/>
+        <rdfs:subPropertyOf rdf:resource="&pc_shop;része"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://mit.bme.hu/ontologia/iir_labor/pc_shop.owl#beviteli_eszköze -->
+
+    <owl:ObjectProperty rdf:about="&pc_shop;beviteli_eszköze">
+        <rdfs:comment>Egy konfigurációhoz tartozó beviteli eszköz. A konfiguráció PC-ből, megjelenítőből és beviteli eszközökből áll.</rdfs:comment>
+        <rdfs:range rdf:resource="&pc_shop;beviteli_eszköz"/>
+        <rdfs:domain rdf:resource="&pc_shop;konfiguráció"/>
+        <rdfs:subPropertyOf rdf:resource="&pc_shop;része"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://mit.bme.hu/ontologia/iir_labor/pc_shop.owl#megjelenítője -->
+
+    <owl:ObjectProperty rdf:about="&pc_shop;megjelenítője">
+        <rdf:type rdf:resource="&owl;FunctionalProperty"/>
+        <rdfs:comment>Egy konfigurációhoz tartozó megjelenítő. A konfiguráció PC-ből, megjelenítőből és beviteli eszközökből áll.</rdfs:comment>
+        <rdfs:domain rdf:resource="&pc_shop;konfiguráció"/>
+        <rdfs:range rdf:resource="&pc_shop;megjelenítő"/>
+        <rdfs:subPropertyOf rdf:resource="&pc_shop;része"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://mit.bme.hu/ontologia/iir_labor/pc_shop.owl#része -->
+
+    <owl:ObjectProperty rdf:about="&pc_shop;része">
+        <rdf:type rdf:resource="&owl;TransitiveProperty"/>
+        <rdfs:comment>Reláció, ami a konfigurációk és azok alkotóelemeinek viszonyát fejezi ki. Például egy konfigurációnak része egy PC, aminek további része lehet a memória modul.</rdfs:comment>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://mit.bme.hu/ontologia/iir_labor/pc_shop.owl#tételei -->
+
+    <owl:ObjectProperty rdf:about="&pc_shop;tételei">
+        <rdfs:comment>Egy vásárláshoz tartozó áruk a vásárlás tételei.</rdfs:comment>
+        <rdfs:domain rdf:resource="&pc_shop;vásárlás"/>
+        <rdfs:range rdf:resource="&pc_shop;áru"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Data properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://mit.bme.hu/ontologia/iir_labor/pc_shop.owl#ellenértéke -->
+
+    <owl:DatatypeProperty rdf:about="&pc_shop;ellenértéke">
+        <rdf:type rdf:resource="&owl;FunctionalProperty"/>
+        <rdfs:domain rdf:resource="&pc_shop;áru"/>
+        <rdfs:range rdf:resource="&xsd;int"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://mit.bme.hu/ontologia/iir_labor/pc_shop.owl#időpontja -->
+
+    <owl:DatatypeProperty rdf:about="&pc_shop;időpontja">
+        <rdfs:domain rdf:resource="&pc_shop;vásárlás"/>
+        <rdfs:range rdf:resource="&xsd;date"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://mit.bme.hu/ontologia/iir_labor/pc_shop.owl#memória_méret_Mb -->
+
+    <owl:DatatypeProperty rdf:about="&pc_shop;memória_méret_Mb">
+        <rdf:type rdf:resource="&owl;FunctionalProperty"/>
+        <rdfs:domain rdf:resource="&pc_shop;memória"/>
+        <rdfs:range rdf:resource="&xsd;int"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://mit.bme.hu/ontologia/iir_labor/pc_shop.owl#processzor_sebesség_MHz -->
+
+    <owl:DatatypeProperty rdf:about="&pc_shop;processzor_sebesség_MHz">
+        <rdf:type rdf:resource="&owl;FunctionalProperty"/>
+        <rdfs:domain rdf:resource="&pc_shop;processzor"/>
+        <rdfs:range rdf:resource="&xsd;int"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://mit.bme.hu/ontologia/iir_labor/pc_shop.owl#végösszege -->
+
+    <owl:DatatypeProperty rdf:about="&pc_shop;végösszege">
+        <rdfs:domain rdf:resource="&pc_shop;vásárlás"/>
+        <rdfs:range rdf:resource="&xsd;int"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://mit.bme.hu/ontologia/iir_labor/pc_shop.owl#CRT -->
+
+    <owl:Class rdf:about="&pc_shop;CRT">
+        <rdfs:subClassOf rdf:resource="&pc_shop;monitor"/>
+    </owl:Class>
+    
+
+
+    <!-- http://mit.bme.hu/ontologia/iir_labor/pc_shop.owl#LCD -->
+
+    <owl:Class rdf:about="&pc_shop;LCD">
+        <rdfs:subClassOf rdf:resource="&pc_shop;monitor"/>
+    </owl:Class>
+    
+
+
+    <!-- http://mit.bme.hu/ontologia/iir_labor/pc_shop.owl#PC -->
+
+    <owl:Class rdf:about="&pc_shop;PC">
+        <rdfs:subClassOf rdf:resource="&pc_shop;áru"/>
+    </owl:Class>
+    
+
+
+    <!-- http://mit.bme.hu/ontologia/iir_labor/pc_shop.owl#alaplap -->
+
+    <owl:Class rdf:about="&pc_shop;alaplap">
+        <rdfs:comment>Gigabyte</rdfs:comment>
+        <rdfs:comment>Asus</rdfs:comment>
+        <rdfs:subClassOf rdf:resource="&pc_shop;alkatrész"/>
+    </owl:Class>
+    
+
+
+    <!-- http://mit.bme.hu/ontologia/iir_labor/pc_shop.owl#alkatrész -->
+
+    <owl:Class rdf:about="&pc_shop;alkatrész">
+        <rdfs:subClassOf rdf:resource="&pc_shop;áru"/>
+    </owl:Class>
+    
+
+
+    <!-- http://mit.bme.hu/ontologia/iir_labor/pc_shop.owl#beviteli_eszköz -->
+
+    <owl:Class rdf:about="&pc_shop;beviteli_eszköz">
+        <rdfs:subClassOf rdf:resource="&pc_shop;áru"/>
+    </owl:Class>
+    
+
+
+    <!-- http://mit.bme.hu/ontologia/iir_labor/pc_shop.owl#billentyűzet -->
+
+    <owl:Class rdf:about="&pc_shop;billentyűzet">
+        <rdfs:subClassOf rdf:resource="&pc_shop;beviteli_eszköz"/>
+    </owl:Class>
+    
+
+
+    <!-- http://mit.bme.hu/ontologia/iir_labor/pc_shop.owl#egér -->
+
+    <owl:Class rdf:about="&pc_shop;egér">
+        <rdfs:subClassOf rdf:resource="&pc_shop;beviteli_eszköz"/>
+    </owl:Class>
+    
+
+
+    <!-- http://mit.bme.hu/ontologia/iir_labor/pc_shop.owl#konfiguráció -->
+
+    <owl:Class rdf:about="&pc_shop;konfiguráció">
+        <rdfs:subClassOf rdf:resource="&pc_shop;áru"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="&pc_shop;alapgépe"/>
+                <owl:cardinality rdf:datatype="&xsd;nonNegativeInteger">1</owl:cardinality>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="&pc_shop;megjelenítője"/>
+                <owl:cardinality rdf:datatype="&xsd;nonNegativeInteger">1</owl:cardinality>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="&pc_shop;beviteli_eszköze"/>
+                <owl:minCardinality rdf:datatype="&xsd;nonNegativeInteger">1</owl:minCardinality>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://mit.bme.hu/ontologia/iir_labor/pc_shop.owl#laptop -->
+
+    <owl:Class rdf:about="&pc_shop;laptop">
+        <rdfs:subClassOf rdf:resource="&pc_shop;áru"/>
+    </owl:Class>
+    
+
+
+    <!-- http://mit.bme.hu/ontologia/iir_labor/pc_shop.owl#megjelenítő -->
+
+    <owl:Class rdf:about="&pc_shop;megjelenítő">
+        <rdfs:subClassOf rdf:resource="&pc_shop;áru"/>
+    </owl:Class>
+    
+
+
+    <!-- http://mit.bme.hu/ontologia/iir_labor/pc_shop.owl#memória -->
+
+    <owl:Class rdf:about="&pc_shop;memória">
+        <rdfs:comment>Hynix</rdfs:comment>
+        <rdfs:subClassOf rdf:resource="&pc_shop;alkatrész"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="&pc_shop;memória_méret_Mb"/>
+                <owl:minCardinality rdf:datatype="&xsd;nonNegativeInteger">1</owl:minCardinality>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://mit.bme.hu/ontologia/iir_labor/pc_shop.owl#monitor -->
+
+    <owl:Class rdf:about="&pc_shop;monitor">
+        <rdfs:subClassOf rdf:resource="&pc_shop;megjelenítő"/>
+    </owl:Class>
+    
+
+
+    <!-- http://mit.bme.hu/ontologia/iir_labor/pc_shop.owl#processzor -->
+
+    <owl:Class rdf:about="&pc_shop;processzor">
+        <rdfs:comment>AMD</rdfs:comment>
+        <rdfs:comment>Intel</rdfs:comment>
+        <rdfs:subClassOf rdf:resource="&pc_shop;alkatrész"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="&pc_shop;processzor_sebesség_MHz"/>
+                <owl:minCardinality rdf:datatype="&xsd;nonNegativeInteger">1</owl:minCardinality>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+    </owl:Class>
+    
+
+
+    <!-- http://mit.bme.hu/ontologia/iir_labor/pc_shop.owl#projektor -->
+
+    <owl:Class rdf:about="&pc_shop;projektor">
+        <rdfs:subClassOf rdf:resource="&pc_shop;megjelenítő"/>
+    </owl:Class>
+    
+
+
+    <!-- http://mit.bme.hu/ontologia/iir_labor/pc_shop.owl#vásárlás -->
+
+    <owl:Class rdf:about="&pc_shop;vásárlás">
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="&pc_shop;tételei"/>
+                <owl:minCardinality rdf:datatype="&xsd;nonNegativeInteger">1</owl:minCardinality>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="&pc_shop;végösszege"/>
+                <owl:cardinality rdf:datatype="&xsd;nonNegativeInteger">1</owl:cardinality>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="&pc_shop;időpontja"/>
+                <owl:cardinality rdf:datatype="&xsd;nonNegativeInteger">1</owl:cardinality>
+            </owl:Restriction>
+        </rdfs:subClassOf>
+        <owl:disjointWith rdf:resource="&pc_shop;áru"/>
+    </owl:Class>
+    
+
+
+    <!-- http://mit.bme.hu/ontologia/iir_labor/pc_shop.owl#áru -->
+
+    <owl:Class rdf:about="&pc_shop;áru"/>
+    
+
+
+    <!-- http://www.w3.org/2002/07/owl#Thing -->
+
+    <owl:Class rdf:about="&owl;Thing"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Individuals
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#CPU_2200MHz -->
+
+    <owl:NamedIndividual rdf:about="&ont;CPU_2200MHz">
+        <rdf:type rdf:resource="&pc_shop;processzor"/>
+        <pc_shop:processzor_sebesség_MHz rdf:datatype="&xsd;integer">2200</pc_shop:processzor_sebesség_MHz>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#memória_256MB -->
+
+    <owl:NamedIndividual rdf:about="&ont;memória_256MB">
+        <rdf:type rdf:resource="&pc_shop;memória"/>
+        <pc_shop:memória_méret_Mb rdf:datatype="&xsd;integer">256</pc_shop:memória_méret_Mb>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- http://www.co-ode.org/ontologies/ont.owl#memória_2GB -->
+
+    <owl:NamedIndividual rdf:about="&ont;memória_2GB">
+        <rdf:type rdf:resource="&pc_shop;memória"/>
+        <pc_shop:memória_méret_Mb rdf:datatype="&xsd;integer">2048</pc_shop:memória_méret_Mb>
+    </owl:NamedIndividual>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // General axioms
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    <rdf:Description>
+        <rdf:type rdf:resource="&owl;AllDisjointClasses"/>
+        <owl:members rdf:parseType="Collection">
+            <rdf:Description rdf:about="&pc_shop;PC"/>
+            <rdf:Description rdf:about="&pc_shop;alkatrész"/>
+            <rdf:Description rdf:about="&pc_shop;beviteli_eszköz"/>
+            <rdf:Description rdf:about="&pc_shop;konfiguráció"/>
+            <rdf:Description rdf:about="&pc_shop;laptop"/>
+            <rdf:Description rdf:about="&pc_shop;megjelenítő"/>
+        </owl:members>
+    </rdf:Description>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 3.1.0.20069) http://owlapi.sourceforge.net -->
+

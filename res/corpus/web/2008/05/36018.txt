@@ -1,0 +1,14 @@
+Kritikus hibákat foltozott a Microsoft menetrendszerû frissítéseivel
+
+Ha hónap második keddje, akkor frissítések a Microsoft operációs rendszereihez és szoftvereihez: a tegnap elérhetõvé vált biztonsági javítások kritikus hibákat foltoznak nem csak a Windows operációs rendszerekben, de a Microsoft Word és Publisher szoftverekben is.
+
+
+
+A kritikusnak ítélt hibák úgynevezett nulladik napi sérülékenységek. Így nevezik azokat a hibákat, melyeket felfedezésük pillanatában már használnak valódi támadásokra az internetre kötött gépek, felhasználók ellen. Ezek a sérülékenységek rendkívül veszélyesek, hiszen valódi fenyegetettséget jelentenek addig, amíg a szoftverfejlesztõk megoldást nem kínálnak a problémákra.
+
+A Windows operációs rendszereket a Microsoft Jet Database Engine 4.0-ában található hiba tette ki közvetlen veszélynek, ezt kihasználva a támadók átvehették az irányítást a számítógépünk felett, kártékony programokat telepíthettek rá és másolhatták, módosíthatták adatainkat.
+
+
+További kritikus javításokkal a Microsoft Word-ben található sérülékenységet, illetve két Microsoft Publisher-ben felfedezett hibát foltoztak, melyek megfelelõen formázott Word vagy Publisher állományokkal voltak kihasználhatók. A hibákat felhasználva bármilyen kód futtatható volt az adott számítógépen. A fentiek mellett két "közepes" besorolású hibajavítást is közzétettek, ezel a Microsoft Windows Defender és Live OneCare biztonsági szoftvereinek módosíthatóságát, távoli lekapcsolását szüntetik meg.
+
+Sajnos a jelenlegi javítások közül még hiányzik egy nemrég felfedezett nulladik napi sérülékenység foltozása, mely körülbelül egy hónapja ismert. Ezt a hibát felhasználva magasabb szintû jogosultsághoz lehet jutni egy korlátozott környezetben, így érzékeny adatokhoz férhetnek hozzá a támadók egy komolyabban bekonfigurált Windows rendszernél is.

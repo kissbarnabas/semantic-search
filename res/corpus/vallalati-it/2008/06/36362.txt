@@ -1,0 +1,12 @@
+Nem csak a leszállított tárolókapacitás, hanem a tárolók fogyasztása is villámgyorsan nõ
+
+Az IDC számításai szerint a következõ öt évben nyolcszor akkora lesz a gyártó által leszállított külsõ merevlemezes tárolók összkapacitása, mint amennyit az elmúlt 10 évben eladtak. 
+
+
+
+
+ Az elemzõcég szerint az elmúlt tíz év során összesen 14 milliárd gigabájt kapacitású külsõ merevlemezes tárolót szállítottak le a gyártók, az elkövetkezõ öt évben azonban összesen 110 milliárd gigabájtnyit fognak, ahogy a vevõk egyre több adatot tárolnak -- részben saját akaratból, hogy a hatékonyságukat fokozzák, részben pedig törvényi szabályok által megkötve.
+
+A piacelemzõ cég azonban nem csak a kapacitással kapcsolatos becslést tett közzé, hanem azt is megbecsülte, mennyibe kerül ezeknek az eszközöknek az áramfogyasztása, illetve a hûtésükhöz szükséges energia. Az IDC szerint 2007-ben a felhasználók összesen 1 milliárd dollárt költöttek a merevlemezes tárolóik által elfogyasztott energiára, és a jövõben még többet fognak. David Reinsel, az IDC vezetõ elemzõje szerint a vállalatok évente nagyjából 50 százalékkal növelik tárolókapacitásukat, ás ahogy egyre több és több merevlemezes egységet vásárolnak, a mûködtetésükhöz és hûtésükhöz szükséges energia is emelkedik, az adatközpont fogyasztásának egyre nagyobb hányadát adva.
+
+A gyártók oldaláról számos megközelítés létezik ennek a problémának a kezelésére: az adat-deduplikáció csökkenti a tárolandó információmennyiséget, az egyre terjedõ 2,5 hüvelykes SAS diszkek használatával pedig kevesebb energiaráfordítással tárolhatunk kétszer annyi adatot, mint amennyi egy 3,5 hüvelykes SCSI lemezre fér. Ma már léteznek olyan tárolóeszközök is, amelyek automatikusan lekapcsolják az éppen nem szükséges lemezeket. Alacsonyabb fogyasztás érhetõ el SSD-k használatával merevlemezek helyett, a megfelelõ teljesítményû eszközök azonban ma még csak kiváltságosok számára megfizethetõ.

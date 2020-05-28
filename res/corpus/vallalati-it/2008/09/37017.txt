@@ -1,0 +1,14 @@
+Gigabites nyomtatószerver HP printerekhez a német SEH kínálatában
+
+Valamennyi EIO-porttal ellátott HP nyomtató hasznát veheti az új, gigabites sebességû adapternek, mely kiváltképpen a nagyformátumú printerek használatát teheti zökkenõmentesebbé.
+
+
+
+Nemrég mutatta be a SEH Computertechnik GmbH legújabb nyomtatószerverét, melyet a HP felsõ kategóriás, nagyformátumú nyomtatóihoz fejlesztett ki. Egyértelmûen ezek azok a készülékek, melyek leginkább profitálhatnak a gigabites sebesség elõnyeibõl, hiszen a nagyfelbontású poszterek, térképek nyomtatása olyan adatmennyiséget igényel, mely meghaladhatja a 100 megabites Fast Ethernet hálózatok képességeit.
+
+
+
+Az új, PS1106-os típusszámú modellel bármelyik olyan HP készülék kibõvíthetjõ, amely rendelkezik EIO-porttal. Ma már nem jelent igazán nagy befektetést a teljes hálózatot gigabites sebességûvé alakítani,  de néhány éve megvásárolt, Fast Ethernet csatlakozással rendelkezõ drága nyomtatónkat aligha szeretnénk pusztán ezért újabbra cserélni. Az EIO-portba csatlakozó bõvítõegység révén nem szükséges új nyomtatót vásárolnunk, és mégis zökkenõmentesebben üzemelõ, gyorsabb hálózaton nyomtathatunk. A modul valamennyi Ethernet szabványt támogatja (10BaseT/100BaseTX/1000BaseT).
+
+
+ A gigabites nyomtatószerver már ismeri az IPV6 szabványt is, a sávszélesség optimalizálásáról pedig a ThinPrint technológia gondoskodik. Az eszköz támogatja az SSL használatát, az IEEE 802.1X azonosítást, emellett öt év garancia jár hozzá. Az újdonság 2008 októberétõl lesz kapható Németországban, 215 eurós áron, mely az adót nem tartalmazza. 

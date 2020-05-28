@@ -1,0 +1,12 @@
+Letölthetõ a Firefox 3 kiadás elõtti utolsó változata
+
+A korábbi "jóslatnak" megfelelõen tegnap elérhetõvé, letölthetõvé vált a Firefox 3 böngészõ remélhetõleg utolsó -- a végleges változatot csupán néhány nappal megelõzõ -- második kiadásra jelölt (RC2) változata. A végleges Firefox 3 elméletileg a hó közepétõl lesz letölthetõ.
+
+
+
+Az RC2 változat kódját egy héttel ezelõtt, május 28-án fagyasztották be, és bár néhány hiba, probléma maradt a böngészõ ezen változatában is, a Mozilla szerint nagy lépéssel sikerült elõbbre jutni a végleges verzió közzététele felé. A második kiadásra jelölt változat az alapítvány szerint "drámaian" gyorsult, kevesebb memóriát eszik és néhány új funkcióval is rendelkezik. A szoftver számtalan nyelven és a windowsos mellett Mac OS X és Linux operációs rendszerek alá is elérhetõ, letölthetõ.
+
+
+Az RC1-ben összesen mintegy negyven hibát találtak a tesztelés során, amelyek mintegy negyede csak a lokalizált verziókat érinti. Tíz hibát azonban olyan súlyosnak ítélt a Mozilla, hogy el kellett halasztani miattuk a végleges verzió kibocsátását. Korábban azon gondolkoztak, hogy kiadják-e a végleges, ám hibás verziót, majd amilyen hamar csak lehet, javítsák a bugokat egy 3.0.1-es változatban, azonban végül egy második RC megjelentetése mellett döntött a Mozilla.
+
+A A Firefox 2.0 és a Firefox 3.0 megjelenése között majdnem 2 év telt el, de a feszített ütemterv miatt egyes új funkciók így sem kerültek be a böngészõbe, így még az õsszel várható a Firefox 3.1, amely a 3.0-ba tervezett, de végül kimaradt újdonságokat tartalmazza majd.

@@ -1,0 +1,32 @@
+Nem béta többé a Google Chrome 2.0
+
+Kilépett a béta státuszból a Google Chrome 2.0-s verziója, ezzel a
+megjelenése idején hatalmas érdeklõdéssel figyelt böngészõ stabil
+változata ismét számos kisebb-nagyobb új funkcióval valamint
+hibajavítással gazdagodott. A nyolc hónapja megjelent program a
+böngészõpiaci viszonyokhoz képest hihetetlenül gyorsan, alig több mint
+három hónap alatt jutott el a 0.2-es bétaverziótól a végleges, 1.0-s
+kiadásig. A most véglegesített 2.0-s változatra sem kellett sokkal
+tovább várni: ebbõl az elsõ kipróbálható béta március közepén érkezett.
+A végleges kiadás lényegében a korábbi bétákban már megismert új funkciókat és hibajavításokat hozza. A
+Chrome 2.0 már a legújabb WebKitet és V8
+JavaScript motort használja,ezzel a
+Google szerint az új változat sokkal gyorsabb lett elõdjénél. Egy
+korábbi közlemény szerint a böngészõ nagyjából 25 százalékkal jobban
+teljesít a V8
+benchmarkon és 35 százalékot ver saját elõdjére a Sunspider-tesztben. A
+sebesség mellett sokat javítottak a program stabilitásán is, a
+fejlesztõk a megjelenés óta saját bevallásuk szerint több mint 300
+olyan hibát javítottak ki a programban, mely lefagyást okozhatott.
+
+
+
+
+Az új változat emellett immár képes a teljes optikai zoomra, azaz
+nem csak a
+betûk méretét nagyítja, hanem a riválisokhoz hasonlóan a teljes oldalt.
+Rossz hír ugyanakkor, hogy a szövegzoom teljesen kikerült az elérhetõ
+funkciók közül. Az 1.0-s kiadáshoz képest újdonság a teljes képernyõs
+megjelenítés is, valamint az automatikus szövegmezõ-kitöltés. Egyelõre
+hiányoznak viszont a korábban beígért kiterjesztések, melyekkel a Firefoxnál látottakhoz hasonlóan teljesen egyénre szabható lenne a böngészõ funkciótárháza.
+A Google Chrome 2.0-s verziója automatikus frissítésként települ az 1.0-s változatra. Aki még nem próbálta ki a böngészõt, letöltheti a telepítõt a program weboldaláról.

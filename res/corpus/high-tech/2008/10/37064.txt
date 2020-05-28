@@ -1,0 +1,14 @@
+Újabb áttörés a merevelemezek adatsûrûségében, ezúttal a TDK-tól
+
+[Nikkei Electronics/HWSW] A merevlemezek kapacitása szakadatlanul növekszik, ahogyan a mérnökök újabb és újabb trükkökkel tolják ki a rögzítési technológia határait. A legújabb rekordot a TDK mutatta fel a CEATEC-en minden korábbinál nagyobb, a jelenleg kapható meghajtóknál háromszor magasabb kapacitássûrûséggel.
+
+
+
+A TDK egy már ismert és alkalmazott, úgynevezett tunneling magneto-resistive (TMR) rögzítési technikával ért el 803 gigabit kapacitást egy négyzethüvelyknyi területen (6,4516 négyzetcentiméter). Ez az eredmény magasan felülmúlja a Hitachi által alig két hónapja bejelentett 610 gigabit/négyzethüvelyk sûrûséget, mely esetben továbbfejlesztett merõleges rögzítési technikát alkalmaztak. Egyik technológia sem érett azonban kereskedelmi alkalmazásra, egyelõre csak mûködõképességüket demonstrálták a vállalatok. A tömegtermelésben lévõ termékek kapacitássûrûsége jelenleg 250 gigabit/négyzethüvelyk körül alakul. 
+
+A TDK technológiájával elméletileg akár 260 gigabájtnyi adatot is rögzíthetünk egyetlen kétoldalú, 1,8 hüvelykes tányérra, miközben egy 2,5-esre 500 gigabájt, egy 3,5-es tányérra pedig közel 1 terabájtnyi adat férne. A fej és a rögzítési felület ferromágnesekbõl állnak, a fejen pedig egy magnéziumoxid szigetelõréteg található. A TDK szerint akár az 1 terabites sûrûség is elérhetõ a meglévõ technikák továbbcsiszolásával, így jópár évvel kitolható a jelenleg TMR-egységek technológiájának alkalmazása. Három évvel ezelõtt, a TMR kereskedelmi alkalmazásakor úgy gondolták, 300 gigabit/négyzethüvelyk sûrûségig lehet kitolni a technológia határait.
+
+
+A TDK 56 nanométeres sávtávolságot ért el. A Hitachi véleménye szerint 50 nanométer alatt távolsághoz már úgynevezett CPP-GMR (Current-Perpendicular-to-Plane Giant Magneto-Resistance) fejegységekre lesz szükség, melyekkel 2011-re 1 terabájt feletti notebook, és 4 terabájt feletti asztali merevlemezeket állítanak majd elõ, és a 30 nanométeres sávtávolság is elérhetõ lesz.
+
+A Giant Magneto-Resistance (GMR), vagyis az óriás mágneses ellenállás fizikai jelenségéért 2007-ben kapott fizikai Nobel-díjat Albert Fert és Peter Grünberg. Az óriás jelzõ arra utal, hogy a hagyományos ferromágneses anyagokénál jóval nagyobb elektromos ellenálásváltozást lehet elérni, vagyis gyengébb, fizikailag kisebb méretû elembõl származó mágneses teret is erõteljesen lehet elektromosan érzékelni. Az óriásmágneses hatást ferromágneses és nem mágneses anyagok rétegelésével lehet produkálni.

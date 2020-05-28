@@ -1,0 +1,13 @@
+Legalább egy hetet késik a Firefox 3.5 kész kódja
+
+A fejlesztõk eredetileg június elsõ hetére ígérték a Firefox 3.5 RC megjelenését,a kódban felfedezett újabb hibák miatt azonban immár sokadszorra el kellett halasztani a tesztverzió kiadását. A mozilla wiki-n szereplõ információk szerint a keddi fejlesztõi találkozó idején még 10, úgynevezett "code blocker" hiba várt javításra, ezek azok a hibák, melyek kijavításáig nem lehet széles körû tesztelést indítani. 
+Mike Beltzner, a Firefox projektért felelõs vezetõ fejlesztõ szerint ezekre a hibákra elsõsorban a "szigorúbb", több belsõ tesztelõ által végzett tesztelési metódusnak köszönhetõen akadnak rá. A Mozilla múlt péntekre hirdette meg szûkebb tesztelõi közösségének a "Firefox 3.5 RC1 test day" nevû rövid tesztperiódust -- az ilyen, és ehhez hasonló tesztelési idõszakok során mindig az éppen aktuális legfrissebb kód kapcsán várnak tapasztalatokat a fejlesztõk. 
+A Mozillánál úgy kalkulálnak, hogy az újonnan felfedezett hibák nagyjából egy hetet késleltetik majd a Firefox 3.5 kiadásra jelölt változatának megjelenését, így a program várhatóan utolsó tesztváltozata június közepére készülhet el. A végleges változat az idõszûke miatt így már csak akkor jelenhet meg az elsõ félévben, ha a végsõ tesztelési fázis során nem fedeznek fel komolyabb, a kiadást késleltetõ hibákat. A Firefox 3.0 kiadásra jelölt változata egyébként napra pontosan egy éve jelent meg, ezután több tesztverzió nem készült, a program végleges verzióját pedig két hétre rá, június 17-én adta ki a Mozilla.
+A Firefox 3.5 fejlesztése elsõsorban az új, korábbinál gyorsabb
+JavaScript-motorral kapcsolatos fejlesztések elhúzódásának köszönhetõen
+tart jóval tovább a vártnál. A Mozilla október közepén adta ki a
+böngészõ elsõ bétáját, december közepén pedig a másodikat. A harmadik
+bétaváltozat megjelenését eredetileg január közepére datálták, de csak
+két hónap csúszással jelenhetett meg. A jelenleg aktuális tesztverzió -- a negyedik béta&nbsp; -- április végén vált elérhetõvé. Az új Firefox végleges
+változata az eredeti tervek szerint az elsõ negyedévben jelent volna
+meg.

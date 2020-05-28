@@ -1,0 +1,16 @@
+Akár két terabájtosak is lehetnek az új SDXC memóriakártyák
+
+Az SD Association a Consumer Eelectronics Show-n jelentette be, hogy elkészült a következõ SD kártyaformátum, az SDXC, mely jelenlegi SDHC-t válthatja a közeljövõben, és akár két terabájtnyi adatot is elnyelhet.
+
+
+
+Az új specifikáció szerint akár 2 terabájt kapacitású kártyák is készülhetnek, melyek aztán gond nélkül tárolhatják a fényképezõgépek által készített tömörítetlen RAW fotók ezreit, vagy HD-videofilmek százait. Az SD Association emellett a csatolófelület sebességén is emel, még ebben az évben lehetõvé válhat a 104 megabájtnyi adat másodpercenkénti írása, illetve olvasása, bár a késõbbiekben a 300 megabájt elérése a cél.
+
+
+Az SDXC szabványt teljes egészében az SD Association dolgozta ki, és nyílt szabványként még az elsõ negyedévben elérhetõvé teszi a gyártók számára. A 2 terabájtos SDXC kártyán nagyjából 4 ezer RAW felvétel, illetve 100 órányi HD-film tárolható, természetesen ez a szám függ a fényképezõgép típusától és felbontásától, illetve a filmek tömörítésiétõl is.
+
+
+
+James Taylornek, az SD Association elnökének jövõképében médiacenterré változó, HD-filmeket lejátszó mobiltelefonok szerepelnek. Shigeto Kanda, a Canon egyik vezetõje kevésbé elrugaszkodott vízióban ecsetelte az új szabvány által feltárható lehetõségeket, melyek a nagyobb tárkapacitás és a sebesebb csatolófelület által válhatnak lehetõvé. Kanda a leglényegesebbnek azt tartja, hogy a fényképezõgépek sorozatfelvételi képességei nagyobb felbontásban és tovább tarthatnak, mindamellett a filmek is magasabb felbontásban készülhetnek.
+
+Az SDXC specifikáció szerint a kártyák a Microsoft exFAT fájlrendszerét használják annak érdekében, hogy a jelenlegi PC-k gond nélkül olvashassák a tartalmakat. A Panasonic már azt reméli, hogy elsõként jelenhet meg a szabvány szerinti, ám ahhoz mérten "csekély" kapacitású, 64 gigabájtos kártyájával a piacon.

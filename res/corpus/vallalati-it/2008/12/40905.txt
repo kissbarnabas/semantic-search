@@ -1,0 +1,74 @@
+Alkalmazás- virtualizáció
+
+A rendszerüzemeltetõ informatikusok többsége minden szándék ellenére az állandó "tûzoltással" foglalkozik: folyamatosan esnek be hozzájuk az újabb és újabb panaszok, hibajegyek, miközben erejüket megfeszítve, és gyakran automatizmus nélkül igyekeznek teljesíteni az olyan legitim kéréseket, mint a szoftver-telepítés, gépcsere, szoftver-frissítés és még sorolhatnánk. A virtualizációs megoldások általában &#8211; az alkalmazás virtualizáció pedig konkrétan ebben az írásban azt ígéri, hogy a tûzoltás mellett már másra is jut idõ, mégpedig azért, mert a javasolt technológia az elvégzendõ tevékenységek számát csökkenti és emellett még az elõforduló hibák valószínûsége is kisebb lesz.
+
+
+
+Alapozás
+
+Az alkalmazásvirtualizáció egy olyan technológia, amely elválasztja egymástól az operációs rendszert és a rá telepített szoftvert. Ahogy a szerver/hardver virtualizáció esetén az teljes operációs rendszerbõl, pontosabban azok virtuális lemezeibõl egyetlen állomány keletkezik, úgy az alkalmazásvirtualizáció is egyetlen állományba zsúfolja a virtualizált szoftvert. Ezt a trükköt persze az alkalmazás "nem veszi észre", elõttünk viszont, ahogy azt majd látni fogjuk, futurisztikus lehetõségek nyílnak meg.
+
+A Microsoft és az alkalmazásvirtualizáció
+
+A virtualizáció elvét a telepítendõ szoftverekre alkalmazni viszonylag új keletû megoldás. 1999 júniusában négy IT-szakember, Harry Ruda, David Greschler, Stuart Schaefer és Owen Mysliwy megalapította a Softricity nevû céget, s azt tûzték ki célul, hogy a szoftvert úgy lehessen elérni, mint ahogy ma az elektromosságot. (Software + Electricity = Softricity) A Softricity elsõ terméke volt a SoftGrid, az elsõ alkalmazásvirtualizációs megoldás. A dotcom lufi kipukkadását a cég túlélte, az ígéretes termék szépen fejlõdött, a vállalat nevét felkapták. 
+
+A Microsoft, amely 2003-ban felvásárolta a Connectix-et (a Virtual PC és a Virtual Server szoftverek gyártóját), egy komplex, az adatközpontban folyó tevékenységek mindegyikére kiterjedõ megújítási stratégiát dolgozott ki Dynamic System Initiative (DSI) néven. A kezdeményezésben kiemelkedõ szerepet szánt a virtualizációnak, annak szinte minden változatának. Így került a képbe a Softricity. 2006 júniusában létrejött az egyezség a két cég vezetõi között, és a Microsoft felvásárolta a Softricity-t. A SoftGrid zászlóshajó terméke lett a késõbb kialakított, elõfizetéses jelleggel igénybe vehetõ Microsoft Desktop Optimization Pack (MDOP) szoftvercsomagnak. A fejlesztés természetesen nem állt le, és 2008. nyár közepére várható a legfrissebb, 4.5-ös verzió, immár a SoftGrid név nélkül. Az új termék neve Microsoft Application Virtualization 4.5 (MAV 4.5).
+
+A MAV mûködési elve és komponensei
+
+A MAV mûködése négy fõ részre osztható. Az elsõ fázis a virtuális alkalmazás elkészítése. Ezt a folyamatot "sequencing"-nek hívják, jellegét tekintve egyfajta csomagolás, intelligens "pillanatfelvétel" készítés. Azért intelligens, mert a sequencer -- tehát a mûveletet végzõ segédprogram -- a kezdeti és végállapoton túl rögzíti, hogy a virtualizálandó szoftver betöltésekor mely állományokra milyen sorrendben van szükség (innen a sequencing, "sorrendberakás" kifejezés). Ráadásul még olyan mûveletek is elvégezhetõk, mint a Microsoft Update-rõl való alkalmazás-frissítés, vagy akár a beaktiválás. Látható, mindez sokkal több, mint egy egyszerû különbségképzés. A végeredmény egy SFT kiterjesztésû állomány, amely az alkalmazás összes komponensét tartalmazza, továbbá még néhány, a csomag közzétételéhez szükséges konfigurációs fájl.
+
+A második fázis a publikáció és a szoftver eljuttatása a megfelelõ eszközre. A MAV a regisztrált csomagokhoz adott Active Directory csoportoknak ad hozzáférést. Aki egy ilyen csoport tagja, az elérheti az alkalmazást, mások nem. A publikáció az Application Virtualization Management Serveren végezhetõ el a MAV MMC konzol segítségével. Sok más mellett itt állíthatók (opcionálisan) a csomagokra vonatkozó licencelési szabályok. E funkció segítségével lejárati idõt adhatunk egy csomagnak, meghatározhatjuk az összes lemásolt SFT-fájl számát vagy éppen az egyidejûleg használt szoftverpéldányok mennyiségét.
+Ha a csomagot regisztráltuk és a megfelelõ AD csoportnak kiajánlottuk, a célba juttatásról az Application Virtualization Streaming Server gondoskodik. Ez a harmadik fázis.
+
+Bármilyen furcsán hangzik elsõre, a szoftver -- vagyis most már az SFT fájl -- úgy érkezik, mint egy internetes rádióadás-folyam, sõt, még a protokoll sem különbözik (RTSP &#8211; Real Time Streaming Protocol TCP 554). Mivel a sequencing fázis során az SFT-fájlban a szoftverindításnak megfelelõ módon helyezkednek el az állományok, az adatfolyam célgépre juttatása során mód van csupán az "éppen elégséges" szoftverkód lejuttatására. A gyakorlatban ez azt jelenti, hogy az SFT-nek mindössze 20-30 százaléka kerül a végfelhasználó gépére és máris elindul a szoftver. A koreai súgó meg letöltõdik, ha majd szükség van rá.
+
+Eltekintve a furcsának tûnõ streaming technológiától, a szoftver lényegében fájlmásolással kerül a desktopokra, ami egyben azt az érdekes helyzetet idézi elõ, hogy az alkalmazás "azt hiszi" egyes egyedül "õ" települt és fut az operációs rendszeren (pedig nem), az operációs rendszer ugyanakkor "azt hiszi", hogy érintetlen, és semmilyen szoftver nem került rá (pedig de).
+
+A negyedik fázis fõszereplõje a munkaállomásokra telepített MAV kliens, melynek háromféle feladat van. A MAV szoftverpublikációkat észleli és az operációs rendszert ennek megfelelõ konfigurálja. Ha egy felhasználó jogosult egy adott virtuális alkalmazás futtatására, akkor a MAV kliens gondoskodik az alkalmazást reprezentáló parancsikonok, környezet-érzékeny menük, fájlasszociációk megjelenésérõl, mintha az alkalmazás már a gépen lenne. Mikor aztán a felhasználó kettõt kattint az alkalmazás ikonján, a MAV kliens adatfolyamként letölti a streaming szerverrõl a szükséges mennyiségû kódot a desktopra, pontosabban a MAV cache-be, és a programot elindítja.
+
+Végül a MAV kliens felelõs a virtuális környezet biztosításáért. Szemben a hardvervirtualizációval, itt nincs szó emulációról. A MAV kliens figyeli a virtuális alkalmazás rendszerhívásait és meghatározott hívások esetén átirányítja azokat. A virtualizált alkalmazás az operációs rendszer és a sequencing során rögzített rendszerparaméterek egymásra vetített változatát látja anélkül, hogy ezt az "egymásra vetítést" érzékelné.
+
+A fenti módon a következõ komponensekre való hivatkozást lehet átirányítani:
+
+
+Fájlok (rendszerfájlok is!)
+Registry kulcsok és értékek
+Betû állományok
+.ini állományok
+COM/DCOM objektumok
+Szolgáltatások
+Névterek
+Szemaforok, Mutexek
+
+A felsorolt rendszerelemek elérésekor a MAV kliens átirányíthatja a hívásokat az SFT-fájlba. Az átirányítás igény szerinti. Ha például az alkalmazás telepít magával egy betûkészletet, akkor futáskor úgy látja, mintha az adott desktopon a betûkészlet fent lenne. Amikor ténylegesen meghívja valamelyiket, akkor a MAV kliens -- az alkalmazás számára nem észlelhetõ módon -- átirányítja õt az SFT-fájlba, ahonnan a készlet betöltõdik. Hasonlóan mûködik a többi átirányítás is. A mûvelet olyan gyors, hogy a futási teljesítményvesztés még az 1 százalékot sem éri el.
+
+
+
+Természetesen nem minden mûveletet kell átirányítani. Az SFT-fájlban nem található objektumok (rendszerfájlok- és szolgáltatások, COM névterek stb.) rajta vannak a gazdagépen, amit az alkalmazás természetes módon, változtatás nélkül képes elérni. Éppígy mûködnek a lemezmûveletek: a virtualizált WINWORD.EXE a valóságos mappákból valóságos dokumentumokat nyit meg, sõt, a felhasználó beállításait is a valóságos profiljából tölti be. Fontos hangsúlyozni, hogy a virtualizált alkalmazások helyben futnak, éppúgy, mintha telepített alkalmazások lennének. Szépen látszanak például a feladatkezelõben.
+
+Itt jegyezzük meg, hogy bár mûködhet/elindulhat egy alkalmazás az SFT fájl 20-30 százalékának letöltésekor is, ez nem zárja ki azt, hogy az SFT-t teljes egészében letöltsük, sõt, erre szükség is van kapcsolat nélküli üzemmód esetén. Vagyis, ami nagyon fontos, a MAV képes futtatni a virtuális alkalmazásokat hálózat nélküli állapotban (sõt, még nem 100 százalékos letöltöttség esetén is, de ekkor persze rizikós egy-egy funkció elérése.)
+
+A MAV technológiai korlátai
+
+Nem lenne teljes a kép, ha nem mondanánk el, milyen korlátai vannak a fenti megoldásnak a technológia jelen állása szerint. Nem minden alkalmazás virtualizálható. Ökölszabályként azt érdemes megjegyezni, hogy a kernelmódú komponenst, eszközmeghajtót tartalmazó szoftverek nem csomagolhatók be. Ebbe a kategóriába tartoznak az Antivirus szoftverek vagy CD/DVD-író programok. Ugyancsak nem virtualizálhatók a Com+ komponenseket használó szoftverek, a hardverhez kötõdõ szoftverek (pl.: a gép MAC-címét ellenõrzõ megoldások) Teljes bizonyossággal csak az SFT-fájl alapos tesztelése után mondható ki, hogy az alkalmazás virtualizálható. Végül érdemes megemlíteni, hogy a 4.5-ös megoldás még csak 32 bites változatban érhetõ el, tehát a 64 bites terminál szerverek nem lehetnek MAV-kliensek.
+
+	     
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                    A cikk több oldalból áll:
+                    
+                    
+                        1. oldal: Alkalmazás- virtualizáció
+                      
+                        2. oldal: Felhasználási területek
+                      
+                        3. oldal: Szoftverterítési modellek
+                        
+                    
+                  

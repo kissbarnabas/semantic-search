@@ -1,0 +1,62 @@
+Az országban elsõként próbáltuk ki a Hello HD mûholdas szolgáltatást
+
+Szinte napra pontosan egy hónappal a beharangozó sajtótájékoztatót követõen, pár hetes késéssel elindultak végre a szakemberek, hogy felszereljék az elsõ Hello HD matricájú tányérokat a falakra és tetõkre, majd üzembe állítsák a Hello HD boxokat, vevõberendezéseket. Szó szerint az elsõk lettünk, így most beszámolhatunk a szárnyait bontogató szolgáltatással szerzett elsõ tapasztalatainkról.
+
+
+
+A csomag
+
+A Hello HD sosem látott képminõséget ígér a nappalinkban elhelyezett lapostévére, LCD- vagy plazmatévére, HD-képes kivetítõre az országban bárhol, inkább kiegészítve a jelenlegi kábeles és analóg eléréseket, semmint azokkal konkurálva -- a sajtótájékoztatón elhangzottaknak itt nézhet utána az olvasó. Mi most inkább arra koncentrálnánk, pontosan mit is kapunk a 99 ezer forintért és a havi 4900 forintos elõfizetési díjért cserébe.
+
+
+
+A fenti összeg egy komplett, kulcsrakészen átadott rendszert jelent a mûholdas tükörtõl -- egyelõre csak mûholdon érhetõ el a szolgáltatás, de zajlanak a tesztek és tárgyalások kábelszolgáltatókkal is -- egészen a televízió elõtti vevõberendezésig. A magasabb díjért cserébe a komplett rendszer a saját tulajdonunkba kerül, ennek megfelelõen az elõfizetésre nincs hûség sem. A rendszer elemei a tükör és a felszereléséhez szükséges tartozékok, a monoblokk vevõfej, a kábelezés, a set-top-box, a távirányító és a HDMI-kábel, mellyel az adások képe eljuthat a lapostévébe. A fenti összegben benne foglaltatik a kiszállás és a telepítés díja is.
+
+A déli égboltra szabad kilátást igénylõ tükör kiváló minõségû, antracit színû, 80 cm-es átlójú, míg a vevõfej 4 fokos monoblokk, két kimenettel. A hatalmas szerkezet úgy viselkedik, mint két darab 4-kimenetes fej, ez azt jelenti, hogy egyszerre két mûholdat fogunk vele és mindegyikrõl 4 kimenetünk van. A Hello HD csomagot az Eurobird 9 mûholdjáról sugározzák, míg 4 fokkal keletre a Hotbird is a látómezõbe kerül ezzel a fejjel, így onnan is beválogathatott csatornákat csomagjába a HD Platform Kft. Egy set-top-boxba két kábelen két-két fej DiSEq kapcsolással közösített jele csatlakozik, így ha egy további Hello HD vevõberendezést szeretnénk otthonra, már nem kell a fejet lecserélni, csak oda is el kell kábelezni a szabadon maradt két kimenetet. Jó húzás.
+
+A set-top-box ADB gyártmányú, típusszáma 5800SX. A két kábelen keresztül egymástól független jel kerül a duál tunerbe, így válik az lehetõvé, hogy egyszerre felvegyünk egy mûholdas adást, és egy másikat nézhessünk közben -- sajnos ez a doboz, pontosabban a rajta futó szoftver sem teszi lehetõvé két csatorna párhuzamos felvételét. A Hello HD boxban 250 gigabájtos merevlemez lakozik, ebbõl azonban csak 80 gigabájt érhetõ el felvételi célokra, a többi tárhelyet egyéb szolgáltatásokra, például a várhatóan õsszel induló Video on Demand (VoD) videotékára tartják fenn. Ez részben érthetõ, így nem kell saját felvételt törölnünk, ha kibérlünk egy filmet a tékából, de annyiban rossz, hogy a szolgáltatás indulásáig nem használhatjuk ki a merevlemez teljes területét. A 80 gigabájt a csatorna bitrátájától és típusától (HD-SD) függõen 15-30 órányi videó rögzítésére elegendõ.
+
+
+
+A doboz hátoldalán a HDMI, komponens analóg és SCART-csatlakozó mellett optikai digitális és analóg sztereó hangkimenetet, egy USB-csatlakozót és Ethernet csatlakozót találhatunk. Az Etherneten keresztül juthat a doboz az otthoni internethez, így a hamarosan frissülõ szoftverrel internetrádiókat is hallgathatunk majd, illetve ez lesz a visszirányú csatorna egyes szolgáltatásokhoz, például a VoD-hoz is. A cég még számos más érdekességet is bejelentett a sajtótájékoztatón, ilyenek lesznek a képernyõn keresztül olvasható internetes hírszolgálat, a fotófeltöltés és -megosztás -- ezekhez is szükség lesz az elszeparált tárterületre és az internetcsatlakozásra. A távirányító csak a dobozt kezeli, kifejezetten kellemes, könnyen szokható darab, egyetlen hibája talán a lefelé mozgató gombhoz túl közel helyezett back gomb lehet, eleinte könnyen lépünk ki egy-egy menübõl ahelyett, hogy lefelé mozogtunk volna.
+
+Menürendszer
+
+A Hello HD készülék menürendszerét teljesen a cégre szabták, szem elõtt tartva a HD-képes televíziók nagy felbontását. A menü igen igényes és igen gyors, össze sem lehet hasonlítani a UPC Digital Philips HD-képes, felvevõs dobozának sebességével és menüképeinek minõségével -- teljes HD-felbontású (1920 x 1080) televízión is gyönyörû. A doboz mindenre azonnal reagál, az elektronikus programkalauz (EPG) nem 4-5, hanem 1 másodperc alatt a képernyõre varázsolódik, a csatornához visszatérve pedig azonnal van kép. A csatornaváltás sebessége eltérõ az SD és HD-adások között, elõbbieknél szinte azonnal megjön a kép, míg utóbbiak esetén körülbelül 2-3 másodpercet kell várni.
+
+A menürendszerben számos apró finomság figyelhetõ meg. A UPC dobozánál sokan kifogásolják, hogy a csatornák sorrendjét nem lehet megváltoztatni. Itt személyre, névre szabható listákat hozhatunk létre, melyeken belül szabadon kavarható a csatornák sorrendje. Bármilyen csatornát nézve behívhatjuk egy gyorsgombbal saját programkalauzunkat és ettõl kezdve saját listánkban lépkedhetunk a csatornaválasztó gombokkal. A felvétel elkezdése is csupán egyetlen gombnyomás, nem kell azt megerõsíteni, mint a UPC dobozánál, amennyiben van az EPG-ben infó az adás végérõl, akkor automatikusan addig -- illetve a beállított idõtartammal növelten, maximum 15 perc -- tart a felvétel, ha pedig nincs, a merevlemez fennmaradó, percekben kifejezett kapacitásáról kapunk a jobb felsõ sarokban információt. A rögzített videók listáját is egyetlen gombnyomással érhetjük el a UPC-s menüben kotorászás helyett.
+
+
+
+
+A UPC "fekete Philips" dobozához hasonlóan itt is bõvebb információt kérhetünk az éppen futó mûsorról, fel és le az elõzõ és következõ csatornák között is váltogathatunk anélkül, hogy elkapcsolnánk az éppen nézett adásról. Oldalirányban az adott adó következõ mûsorairól szerezhetünk hasonlóképpen infót, azonban nem csak az aktuálist követõ, hanem három mûsornyi információt gyûjthetünk össze. Az elektronikus programkalauz hasonlóképpen tematikusan is bontható, mint a UPC boxnál, azonban van két plusz fül is. Az egyiken ajánlatokat olvashatunk az adók mûsorából, például új filmeket ajánlhatnak itt számunkra, míg a másiknál kategóriákban kereshetünk, hasonlóan a T-Home IP-televíziós szolgáltatásához. Kereshetünk például filmeket, sorozatokat, a találatokat pedig idõ, vagy csatorna szerint sorba is rendezhetjük és egy gombnyomással beprogramozhatjuk felvételre. A részletes keresõben tovább finomíthatjuk a feltételeket, például kereshetünk a másnapi gyerekmûsorokra. Apropó gyerekmûsorok: a csatornák természetesen lezárhatók, sõt, a megfelelõ korhatárinformációval ellátott mûsorok megtekintése is PIN-kódhoz köthetõ.
+
+A UPC dobozával ellentétben a Hello HD boxnál csatornánként állíthatjuk a képet az eredeti tévéképaránytól eltérõre, levágva tetejét és alját 16:9-re szabhatjuk (pan&scan), vagy oldalt fekete sávokat hagyva a 4:3-as adást arányosan is megjeleníthetjük (letterbox) a 16:9-es tévén. A funkció még kicsit bugos, mert hol megjegyzi a beállítást, hol nem, remélhetõleg ezt hamarosan javítják. Ugyanezen dedikált gombra került felületen választhatunk a hangsávok és feliratok között, ahol ez lehetséges.
+
+Képgaléria, katt!
+
+A kínálat
+
+A sajtótájékoztatón kiosztott listával ellentétben egyelõre még nem túl sok magyar nyelvû, normál felbontású csatorna került be a Hello HD csomagba. Az m1, m2, Duna TV, tv2, RTL Klub, ATV, hírTV mellett magyar nyelvû még az Eurosport 2, a frissen indult Eurosport HD, a Filmbox, a MusicMax, a MusicMax Adult és a külön díjért elõfizethetõ HBO HD és Filmbox HD is. Angol nyelven élvezhetõ a National Geographic HD, a The History Channel HD adása. A csomag része még a szabadon fogható Luxe TV HD és Luxe TV HD UK, a Melody Zen HD, utóbbi inkább videós, relaxációs képernyõvédõnek fogható fel.
+
+A csomag része még számos normál felbontású, idegen nyelvû csatorna is, mint a Boomerang Deutchland, illetve a Hotbird-öt is látó fejnek köszönhetõen szabadon fogható német, francia és angol nyelvû adások is válaszhatók, mint például a Fashion TV Europe, vagy a France 24. Közel sem mindet illesztette be csomagjába a Hello HD, az éjjel-nappal szexhirdetéseket ontó "powerpoint csatornákat" például hiába is keressük. A tévéadásokat néhány rádióadás is kiegészíti, egyelõre a Kossuth, Petõfi, Bartók hármasba a Jazzradio.hu hangja hoz némi színt.
+
+Minõség?
+
+A lényeg persze a képminõség, aminél elméletileg magasra helyezik a lécet. Az összehasonlítási alap mi más lehetett, mint a UPC kábeles szolgáltatása, a képet pedig egy teljes HD-felbontású, 50 hüvelykes plazmatévé jelenítette meg a Samsung jóvoltából. Hogy a tévé ne zavarjon be az összehasonlításba, minden képjavító funkciót kikapcsoltunk.
+
+
+
+A Eurosport HD élõ, 1080 soros adásában normál tévézési távolságról (2,5-2,6 méter) semmi különbséget nem vehetünk észre még sasszemmel sem, közelrõl azonban a logók, élek körül "szõrösödik", zajosodik a kép a Hello HD-nál. Ez természetesen az alacsonyabb bitrátájú tömörítés következménye, a Hello HD képe újra van tömörítve. Fontos azonban megjegyezni, hogy ez csak nagyon közelrõl látszik, normál távolságról még keresve sem látható ez a hiba. A normál felbontású adások is gyengébbek még -- ezek viszont már láthatóak is -- a sávszélességgel szinte korlátlanul gazdálkodó UPC kábelhez képest. Az összehasonlítás ebbõl a szempontból egyébként egyáltalán nem korrekt, de sajnos más mûholdas szolgáltatással, UPC Directtel, netán Digi TV-vel nem tudtuk összevetni az SD-csatornák képét. Információink szerint még nem is nagyon lehetne, az analóg csatornák közül egyedül a tv2 és a hírTV adása érkezik optikán a Hello HD-hez, ezek láthatóan jobb minõségûek is, meg is felelnek a UPC Digital kábeles változatoknak.
+
+Készítettünk két tesztvideót is Full HD adásokról: a kissé moire-s mozgóképek az 1920 x 1080 pixeles képernyõ jobb alsó sarkában látható FullHD logó viselkedését nagyítják ki a UPC adása és a Hello HD adása esetén. A két video egyidõben készült, azonos mûsorról. Látható, hogy a UPC adásánál szinte zavarmentes a logó, míg a Hello HD-nál néha zajossá, zavarossá válik. Ez a kiragadott részlet a teljes kép igen kis szelete, és a különbség szabad szemmel, normálisan tévézve egyszerûen nem is látható.
+
+A lényeg felett nem szabad elsiklanunk: a HD-adások már most is szinte ugyanolyan minõségûek -- hamarosan pedig pontosan ugyanazok lesznek --, mint kábelen, a Hello HD azonban az ország bármely pontján elérhetõ a mûholdas átvitelnek köszönhetõen. A UPC három HD-csatornájával ellentétben itt már minimum hetet nézhetünk, ami remélhetõleg a nyári olimpiára az m2 HD-adásával is kiegészülhet. A Hello HD ígéretei szerint a jövõben a normál felbontású csatornák száma is gyorsan bõvülni fog.
+
+Bárhol az országban
+
+A Hello HD szárnyait bontogatja. A kiváló minõségû dobozban óriási tartalékok vannak még jobbnál-jobb, máshol nem elérhetõ szolgáltatások bevezetésére, a képminõség is sokat javulhat még nem csak a források megváltoztatásával, hanem az enkóderek finomhangolásával is, gondoljunk csak a T-Home IP-televízió kezdeti és jelenlegi képminõségének óriási különbségére. A platform abban pedig már most is nagyon jól domborít, amit a HD Platform Kft. eredeti célul tûzött ki: jó minõségû HD-adásokat juttat el helytõl és infrastruktúrális lehetõségektõl függetlenül minden hazai otthon HD-képes televíziójára.
+
+Véleménye van?
+Szóljon hozzá a fórumban
+írjon szerkesztõségünknek!

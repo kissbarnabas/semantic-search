@@ -1,0 +1,16 @@
+Késnek a Microsoft új biztonsági termékei
+
+2009 vége elõtt nem várható a Microsoft átfogó, integrált biztonsági felügyeleti szoftverének megjelenése. A Stirling kódnevû programot még 2008 tavaszán, az RSA Security konferencián jelentette be a redmondi cég a Forefront család új tagjaival együtt. Akkor 2009 elsõ félévét jelölte meg megjelenési idõpontként a Microsoft.
+
+
+
+A frissített termékterv szerint legkorábban 2009 negyedik negyedévében érkeznek piacra az új termékek, elsõként a Forefront Server Security for Exchange és a Forefront Threat Management Gateway (korábban ISA Server), ezeket 2010 elején követheti a Forefront Client Security 2.0, a Forefront Security for SharePoint, valamint a még mindig Stirling néven emlegetett menedzsmentkonzol.
+
+A Microsoft biztonsági erõfeszítései a "Dynamic Response" vízió köré csoportosulnak, amelynek lényege, hogy a központilag felügyelt, de mégis különálló védelmi termékek képesek egymással kommunikálni és akár a teljes IT-infastruktúrán átnyúlva automatikusan reagálni az egyes fenyegetésekre. A redmondi cég szerint ez segít a szervezeteknek abban, hogy proaktívan védekezzenek, illetve ha már megtörtént a baj, sokkal gyorsabban tudnak reagálni.
+
+A Forefront fejlesztõcsapatának blogjában olvasható bejegyzés szerint a Technology Adoption programban résztvevõ ügyfelektõl beérkezett visszajelzések alapján a Microsoft úgy módosítja a Stirlinget, hogy azzal ne csak a Microsoft saját biztonsági termékeivel, hanem más gyártók megoldásaival is össze tudjon kapcsolódni. Emellett a vállalatnál a viselkedés-alapú felismerést is fejlesztik, hogy a lehetõ legjobban tudjon reagálni az olyan támadásokra, amelyeket a kártevõk lenyomata alapján még nem ismernek fel a védelmi szoftverek.
+
+
+ A Stirling lényege, hogy a segítségével a Forefront biztonsági termékek felügyelete, beállítása egy központi felületen történhet, attól függetlenül, hogy végpontvédelemrõl, szervervédelemrõl vagy hálózati határvédelemrõl van-e szó. Egy helyre futnak be a riasztások, egy helyen lehet jelentéseket lekérdezni, riportokat készíteni, illetve a rendszerek állapotát figyelemmel követni. Az adminisztrációs szerepek szétválaszthatóságának köszönhetõen a rendszergazdák ugyanakkor mégis külön-külön tudják kezelni a rájuk bízott eszközöket és hálózatokat.
+
+Az új Forefront-termékek, beleértve a Stirlinget is, bétaváltozatban már elérhetõk a Microsoft weboldalán. A végleges változat megjelenése elõtt egy második nyilvános béta, valamint egy kiadásra jelölt verzió is várható a szoftverbõl.

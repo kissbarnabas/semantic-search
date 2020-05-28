@@ -1,0 +1,10 @@
+Frissítették a Vista elsõ javítócsomagjának kiadásra jelölt változatát
+
+A Microsoft frissítette a Vista SP1 RC-t, az új változatot azonban már nem adják ki, csupán 15 ezer kiválasztott tesztelõhöz -- köztük szoftver- és hardverfejlesztõ cégekhez, vállalati felhasználókhoz és a tesztprogramra regisztrált fogyasztókhoz  --  juttatják el. Az "RC1 Refresh" az MSDN és TechNet elõfizetõi számára sem lesz hozzáférhetõ.
+
+
+
+A Vista SP1-ben fõképp hibajavítások és a teljesítményt fokozni hivatott finomítások kapnak majd helyet -- utóbbiakkal kapcsolatban azonban szkeptikusak a tesztelõk, az eddigi összehasonlítások ugyanis azt mutatják, a Vista semmivel sem gyorsul az SP1 elõzetes változatának telepítése után. A javítócsomagban érkezik néhány új funkció is, a BitLocker például már képes lesz több meghajtót is titkosítani, illetve változások történtek az asztali keresõben is. A Vista SP1 megnehezítheti -- egy kis idõre -- a kalózok dolgát is, olyan kódok kaptak helyet a csomagban, amelyek kivédik a legnépszerûbb aktivációs trükköket.
+
+
+ A legújabb asztali operációs rendszer elsõ javítócsomagjának kiadásra jelölt változatát egy hónapja tette elérhetõvé a Microsoft, az RC-t bárki letöltheti és kipróbálhatja. Az RC-t most az eddig beérkezett visszajelzések alapján frissítették, a Microsoft szerint most már valóban a végsõ simítások következnek a szervizcsomagon. A Vista SP1-et a Windows Server 2008-cal egyszerre ígéri a Microsoft, utóbbinak a hivatalos bemutatója február végén esedékes.

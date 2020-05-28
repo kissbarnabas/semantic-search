@@ -1,0 +1,10 @@
+Fejlesztette gerinchálózatát az Externet
+
+Hálózatfejlesztést végzett az Externet, amit elõfizetõi számának emelkedésével magyaráz. A cég BIX-kapcsolatának sávszélességét 10 gigabit/másodpercesre, míg külföldi vonalát 2 gigabitesre növelte. A szolgáltató a forgalom további növekedésének lekezelésére egy nagyteljesítményû Cisco routert is vásárolt.
+
+
+
+Az ADSL-ügyfélbázisának bõvítésére összpontosító Externet elõfizetõinek száma idén meghaladja az 50 ezret, írja a cég közleményében, amivel elérik és meghaladják már a hosszútávú versenyképességhez szükséges kritikus tömeget. A tõzsdei bevezetésre készülõdõ vállalat az elmúlt hónapok során bekebelezte a VIVANET-et, valamint a TVnet nagyjából 10 ezer ADSL-elõfizetõjét is átveszi. Az elõfizetõk megfelelõ tömege és földrajzi koncentrációja elõfeltétele a gazdaságos mûködésnek és a késõbbi befektetéseknek, melyet például a nemrég elindított hurokátengedéses szolgáltatások, VDSAL vagy IPTV követelnek.
+
+
+Az ügyfélszám növelésével szükségessé vált az Externet gerinckapcsolatainak fejlesztése is. A BIX és külföldi hozzáférés bõvítése mellett a szolgáltató egy Cisco 7600 routert is telepített, mely másodpercenként akár 720 gigabit forgalom lekezelésére is képes -- ez a kapacitás vélhetõen hosszú évekig elegendõ lesz még folyamatos növekedés mellett is. Az Externet tavaly 2 milliárd forintos árbevételt ért el, ami 30 százaléknál nagyobb növekedést jelent.

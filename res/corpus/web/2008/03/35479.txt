@@ -1,0 +1,24 @@
+Kisebb vállalatok is élhetnek a Microsoft webes szolgáltatáscsomagjával
+
+[Techworld, Computerworld] A Microsoft tegnap kisebb vállalkozások, vállalatok számára is elérhetõvé tette -- béta változatban -- online, menedzselt szolgáltatáscsomagját, a Microsoft Online Services-t. Az Exchange, SharePoint és Office Live Meeting online változatait "szoftver-mint-szolgáltatás" (software-as-a-service, SaaS) csomagba gyúró megoldást eddig csak 5 ezer fõnél több dolgozóval rendelkezõ nagyvállalatok vehették igénybe.
+
+
+
+Webes Exchange és Sharepoint
+
+Az online szolgáltatásokat egyelõre csak amerikai vállalatok próbálhatják ki bétaüzemben, közölte Bill Gates a SharePoint Konferencián tartott nyitóbeszédében, Seattle-ben. A lépéssel nyilvánvalóan Google hasonló online alkalmazásait egyetlen csomagba gyúró Google Apps, vagy magyarul Google Alkalmazások fejlesztése okozta fokozódó nyomásra válaszolt a redmondi óriás.
+
+John Betz, a Microsoft online szolgáltatásokért felelõs csoportjának igazgatója szerint az Exchange levelezõszolgáltatás és a SharePoint online változata az év második felében válnak elérhetõvé bármilyen méretû, kisebb vállalatok számára is. A Microsoft egyelõre nem árulta el, mennyit kell majd fizetni ezekért a menedzselt, hostolt megoldásokért, de Betz szerint a vállalatok költségeket takaríthatnak meg a saját szerverek és szoftverek üzemeltetéséhez képest.
+
+
+A Microsoft Online Services szolgáltatáscsomaggal a redmondi óriás elsõsorban a 100-500 felhasználós, 50-250 számítógéppel rendelkezõ vállalatokat célozza -- a Google Alkalmazások, vagy Google Apps inkább az ennél alacsonyabb felhasználói bázissal rendelkezõ cégeknél számíthat kedvezõ fogadtatásra. Az Exchange és SharePoint mellett a Microsoft az Office Communications Server (OCS) egységesített kommunikációs szoftver, illetve a LiveMeeting webkonferenciás alkalmazás online változataival is bõvíti késõbb a kínálatot.
+
+
+
+99,9 %
+
+A Microsoft 13 adatközpontjában található szerverein hosztolt, menedzselt, online elérhetõ szolgáltatásokra 99,9 százalékos garantált rendelkezésre állást vállal, anyagi felelõsséggel egyetemben. A tavaly szeptemberben elérhetõvé tett Online Services levelezõ, csoportmunka és kommunikációs megoldásait egyetlen egyszerû webes felületrõl menedzselhetik a vállalatok rendszergazdái.
+
+A Sharepoint itthon már jóideje elérhetõ intranet/extranet, kihelyezett megoldásként azoknak a hazai kis- és középvállalatoknak, amelynek biztonságos és megbízható tárhelyre, valamint csoportmunka-eszközre van szüksége. A rendszer technikai felügyeletét, adminisztrációját, a tartalom rendszeres archiválását a szolgáltatást üzemeltetõ Real.Com-94 Kft. látja el, így a felhasználók mentesülnek minden ezzel kapcsolatos tevékenység és beruházás alól.
+
+A SharePoint.hu legfontosabb elõnye a saját üzemeltetésû SharePoint-környezettel szemben a nemlétezõ beruházási és üzemeltetési költség mellett a mobilitás, hiszen a szolgáltatás egy webböngészõvel bárhonnan egyszerûen elérhetõ, a dokumentumok, üzenetek biztonságos áramlásáról a szolgáltató dedikált szerverén SSL- kapcsolat gondoskodik. Ami nagyon vonzóvá teheti a szolgáltatást a magyar kisvállalatok körében, az a magyar nyelvû felület, de igény esetén más nyelvi modulok is rendelkezésre állnak.

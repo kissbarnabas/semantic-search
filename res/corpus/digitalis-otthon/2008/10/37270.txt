@@ -1,0 +1,56 @@
+Korongozó - olcsó CD/DVD nyomtatók tesztje
+
+A megírt optikai adathordozók csinosítására, feliratozására használhatunk címkézõ készletet, de az excentrikussá teheti a korongot. Maradhatunk ugyanakkor az alkoholos rostirónnál is, de ha "gyári" minõséget akarunk, jobb ha egy CD/DVD nyomtatásra is alkalmas tintasugaras készüléket választunk.
+
+
+
+A mai olcsóbb tintasugaras nyomtatók is megfelelõ minõségû dokumentumokat készítenek és szinte szemcsementes fotókat állítanak elõ nagy színtartománnyal. Számos modellt olyan mechanikával szereltek fel, melynek segítségével közvetlenül képes nyomtatható (inkjet printable), fehér felületû írható CD vagy DVD médiára dolgozni -- ezek közül a legolcsóbbakat teszteltük le.
+
+Ha ilyen nyomtatót választunk, akkor a  matricás címkézést jóval felülmúló minõségben leszünk képesek akár fotó jellegû címkék elõállítására is, legalábbis otthoni vagy néhány fõs irodai igényeinek megfelelõ mennyiségekben. Nem csak CD nyomtatásban, hanem szöveges és színes dokumentumok, és persze fotók elõállításában is próbára tettük a résztvevõket, az idõeredményeket pedig külön táblázatban tüntettük fel. Figyelembe vettük a költségeket, de fõként a használhatóságot sokoldalúságot és a nyomatminõséget.
+
+Technikai adatok
+
+Sebesség eredmények
+
+HP Photosmart D5460
+
+
+A HP megoldása, a Photosmart D5460 megjelenésében inkább a könnyedségre és barátságosságra hajt, semmint az eleganciára. A könnyebb kezelhetõség érdekében egy bélyegnyi színes LCD-kijelzõ is tartalmaz. Ez, és az univerzális kártyaolvasó, valamint a PictBridge csatlakozás lehetõvé teszik az önálló használatot, ezen a téren a D5460 nyújtja a legtöbbet. Technológiáját tekintve alsó árkategóriában kínál külön patronos, öt alapszínû nyomtatási rendszert, fix nyomtatófejjel. Ebben a normál cián, bíbor és sárga mellett nem csak pigmentált, hanem vízfesték jellegû fekete is található. Cél a sokoldalúság, a pigment ugyanis a kontúros szövegeknek, míg a jól keveredõ fekete a fotók árnyalatainak kedvez, emellett olcsóbban állíthatók vele elõ fotók, mint hat tintából. Az ISO adatok értelmében egy belépõ monokróm lézernyomtatókat szorongató oldalköltségrõl  és teljesen ésszerû színes lapköltségekrõl beszélhetünk, nagy kapacitású kellékanyag beszerzése esetén.
+
+
+
+A szövegek, ábrák, ha nem is érik el a lézernyomtatók kontúrminõségét, de kellõen kontrasztosak normál papíron is. Fotónyomtatáskor is szép eredményt kapunk megfelelõ médiára. Ugyan a nagyító leleplez pontatlanságokat, nem a D4280 a fotóárnyalás legjobbja, de érezhetõen jobb árnyalatképzéssel van dolgunk, mint egy hagyományos négytintás rendszernél és nagyon úgy tûnik, hogy a fotók színterén is javítottak, gazdagabb színvilágot ad az új rendszer. Az ajánlott HP Advanced Photo Paper médiával szinte azonnali száradást és vízálló nyomatokat kapunk.
+
+Jó sebességeredményeket kaptunk, szövegnyomtatásban pedig jelentõs elõnyt mutat a D5460 a mezõny többi tagjához viszonyítva. A gyorsaságon -- ahogy sok tintasugarasnál -- ront egy kicsit a sok váratlan nyomtatófej karbantartás, ezekre a kb. 25 másodperces idõveszteségekre idõközönként számíthatunk. Meg kell említenünk, hogy a mellékelt szoftver nagyon barátságos és általában ez a barátságosság jellemzi az egész konstrukciót. Könnyen tervezhetünk címkéket a mellékelt programmal és eltérõen a versenytársaktól, minden nehézség és pontatlanság nélkül nyomtathatunk CD-re bármely fotónyomtató alkalmazásból. Ellentétben némely régebbi olcsóbb HP modellekkel, itt a papírtálca megbízhatóan mûködik, csakúgy mint a motoros fotótálca. A CD/DVD nyomtatóadaptert praktikusan elrejthetjük magába a tálcába, kezelése és pontossága a mezõny legjobbja. 
+
+Úgy érezzük, nemigen tévedhet az, aki általános otthoni nyomtatónak választja a képernyõvel és CD-nyomtatással felextrázott készüléket, amibõl talán egyedül csak a duplex egység hiányzik.
+
+
+Canon PIXMA iP4600
+
+
+
+A mezõny legelegánsabb modellje egyértelmûen a Canon iP4600. Kiépítésben is extra, tartalmaz automatikus lapfordítót valamint egy fekvõ, normál papírhoz és egy álló, fotó médiákhoz szánt tálcát is. Képernyõje és kártyaolvasója nincsen, de azért egy PictBridge-aljzat révén lehetséges az önálló nyomtatás, fényképezõgéprõl.
+
+A Canon vezette be elsõként saját, öttintás rendszerét ContrastPLUS néven, ez a fix fejes, 5 külön tintapatront tartalmazó rendszer dolgozik az iP4600-ban is. A három alapszín (CMY) mellett nem csak egy pigmentált, hanem fotókhoz optimalizált, könnyen keveredõ fekete is helyet kapott a készletben. Megfelelõ szöveg minõséget kapunk tehát, a pigmentált tinta elég hamar szárad ahhoz, hogy érdemes legyen a duplexet használni, így papírt takaríthatunk meg. Üzembiztosan mûködik a lapfordítás, néhány másodperc extra száradási idõvel és a festékmennyiség visszafogásával (ezeket automatikusan beállítja a rendszer) kerüli el a rendszer a lapok átázását. Az igen nagy felbontás és a valóban egyedül a Canonnál elérhetõ egy pikoliteres minimális cseppmérettel megteszi a magáét, ami a fotók árnyalatképzését, a pontszórás pontosságát illeti, ebben az iP4600 jobb, mint a mezõny másik öttintása. Ugyanakkor a tinta és az ajánlott papír adta színtér kicsivel visszafogottabbnak tûnik, mint mondjuk a HP esetében.
+
+
+
+Jó sebesség eredményekkel dicsekedhet az iP4600, ám a képlet mégsem ilyen egyszerû, különösen, ha az elõd, az iP4500 tulajdonságait is figyelembe vesszük. Egyrészt a szövegnyomtatás sebessége érezhetõen csökkent az elõdmodellhez képest, merthogy fekete fúvókából kevesebbet tartalmaz a fej. Másrészt szinte minden nyomtatás megkezdése elõtt ki kellett várnunk egy 20-26 másodperce szerviz menetet, a tintasugaras nyomtatómû karbantartásának jellegzetes zajaival. Hosszabb dokumentumok esetében is bizonyára sor kerül erre a rutineljárásra, így nem fogjuk tudni pontosan megmondani, hogy mennyi idõt is vesz majd igénybe a munka elkészítése.
+
+CD/DVD nyomtatáskor a mellékelt tálcát és a Canon CD Label Print alkalmazást célszerû használni, amibe képeket is illeszthetünk, így gyakorlatilag bármilyen tartalmú CD elkészíthetõ. Várakozásainkkal ellentétben elõször a nyomtatást kell elindítani, amire karbantartás rohammal reagál a készülék, és csak ez után, felszólításra illik behelyezni a tálcát. Ez a procedúra csak a lemeznyomtatás bevezetéseként zajlik le, a sorban következõ korongnál már nem.
+
+Pontos költségeket és árakat még nem tudunk mondani, annyi látható, hogy a kellékanyagok kapacitása csökkent az iP4500-hoz képest, mintegy ötöd résszel. A külföldi árakat nézve várható, hogy az új patronok ára alacsonyabb lesz, de fajlagosan így is kicsit drágábban nyomtathatunk majd. A táblázatban egyéb adat híján az iP4500 elõdmodell árait tüntettük fel, de értékeléskor figyelembe vettük, hogy ezeknél mintegy 10%-al többre számíthatunk. Jól megépített, gyönyörû modell az iP4600, duplex szolgáltatása az árkategóriájában egyedülálló és ha számunkra ez fontos, érdemes ezt választani. Kezelhetõségben és sokoldalúságában most akadt nála jobb, hasonló minõséget nyújtó versenyzõ és elérhetõ még az igen jól sikerült iP4500 is, amihez képest egy technológiailag könnyített utóddal pedig különösen nehéz jobbat nyújtani.
+
+
+Epson Stylus Photo R285
+
+
+Az Epson belépõ szintû fotónyomtatója a gyártótól megszokott álló papírtálcát alkalmazza, önálló nyomtatáshoz szükséges kártyaolvasót vagy PictBridge portot nem találunk rajta, számítógépes használatra tervezték.
+Egyedül az Epson Stylus Photo R285 használ hat alapszínt a mezõnybõl, lévén kifejezetten fotónyomtató. Az Epson Claria tintáit külön-külön cserélhetjük, a fix Epson Micor Piezo fej fix. A külön, színenként cserélhetõ patronrendszer takarékos megoldásnak számít, kár, hogy a hatszínû fotónyomtatás eleve kicsit drágább mulatság, mint a négy alapszínnel dolgozó. A gyártó által megadott szabványos kapacitás értékek alapján azonban kiderül, hogy ha fotócsomagot vásárolunk, nem jövünk ki rosszul.
+
+Elsõsorban fotónyomtatásra tervezték az R285-öt, így ezen a területen hozza a legjobb eredményeket. A hat tintának köszönhetõen folyamatosak az átmenetek bõrszíneknél és más természetes árnyalatoknál, egyértelmû minõség elõnyt mutat fel a készülék ezen a téren a versenytársak elõtt. Szövegek és dokumentumok nyomtatása sem gond számára (ilyenkor természetesen a fotószínekre nincs szükség), de a fekete tintát nem erre a célra optimalizálták. Más modelleknél több egyenetlenséget találunk a szövegkontúrokban és normál papíron gyengébb kontrasztot kapunk. Fotóminõségû, nyomtatható CD-R lemezen is érvényesülhetnek némileg a több alapszín elõnyei, szebbek az árnyalatok.
+
+
+
+A konkurenciához képest sebességben némileg alulmarad az Epson fotónyomtatója szövegnyomtatásban és színes dokumentumoknál egyaránt. A hátrány csak nõ, ha fotóinkhoz a lehetõ legjobb minõséget választjuk. Igaz viszont, hogy normál fotó beállítás esetén is a mezõnnyel összevethetõ minõséget kapunk, mindössze 26 másodperc alatt. Idõnként az R285 is fut egy-egy szervizkört, azaz némi zörgés kíséretében megtisztítja a nyomtatófejet, de jóval ritkábban, mint a többi modell. A karbantartás idõtartama hozzávetõlegesen ugyanannyi, mint a versenytársaknál, 20-30 másodperc között mozog. Összegezve, akiknek a nyomtatás a fotónyomtatással jelent egyet, nem keresik a csúcssebességet de igénylik a hat alapszínû színárnyalatokat, azok válasszák a régóta piacon lévõ R285-öst.

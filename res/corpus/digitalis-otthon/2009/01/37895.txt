@@ -1,0 +1,20 @@
+eInk-alapú könyvolvasón is mûködik a Fennec
+
+A beágyazható Linux fejlesztésén dolgozó Jaya Kumar sikeresen tesztelte a Mozilla mobilböngészõjét a Fennec-et egy E-Ink olvasón. A tesztekrõl készült videókat a YouTube-on publikálta, így bárki megtekintheti hogy mûködik a nyílt forráskódú böngészõ egy alacsony energiafelhasználású monokróm elektronikus-papír kijelzõn (EPD).
+
+
+
+A tesztben Kumar egy Broadsheet AM300-at használt, amiben egy interaktív EPD, egy XScale processzor, memóriakártya-olvasó, Bluetooth- és USB-adapter, illetve egy Linux-alapú "Gumstix" mobil platform (SBC) kombinációja van jelen. A böngészõ mûködéséhez a fejlesztõnek elsõként a Broadsheet-drivert kellett feltörnie, majd ezután következhettek az éles bevetések a Fennec-kel.
+
+A próbák alapjában véve sikeresek voltak, ugyanis a kezelõfelület könnyedén használható volt, a weboldalak betöltése sem okozott problémát, sõt, meglepõen jól mûködött a szoftver. Igaz, több oldalon is falakba ütközött a próba, hiszen egyelõre nincs mûködõ virtuális billentyûzet, ami az egyik leküzdhetõ, de jelenleg komoly akadály, másrészt a Fennec memóriaigénye túl sok a Gumstix gépnek, ami általában 64-128 megabájttal érkezik, s ebbõl nem kizárólag a böngészõt illene kiszolgálnia.
+
+
+
+
+
+A teljesítményproblémák ellenére a következõ feladat mégis a virtuális billentyûzet integrálása, itt a Hildon megoldását fogja Kumar beépíteni a böngészõbe, ami a Nokia Internet Tablet készülékek Maemo platformjáról lehet ismerõs. A videókon is jól látszik, hogy egyelõre a navigálás egyszerûen linkek követésével mûködik a tesztben, viszont a billentyûzet beépítésével egy szinte teljes értékû böngészõt kapunk majd egy olyan eszközre, amit eredetileg statikus szövegek megjelenítésére terveztek.
+
+
+A Fennec projekt munkálatai egyébként a vártnál gyorsabban zajlanak, és egyre több ilyen erõforráshiányos készülék számára szolgál megoldással a webelérésre. Az elsõ Fennec alfaváltozat már fel lett készítve az érintõkijelzõk támogatására, egy ujjal könnyedén vezérelhetõ volt, ezen túl URL autokitöltés funkciót és a böngészõfüleket is használt. A második alfa, melyet múlt hónapban adtak ki, már számos teljesítményoptimalizációt is tartalmazott. Mostanra pedig már a külsõ fejlesztõk kezei között van, akik különbözõ plugineket készítenek hozzá, plusz funkciókkal gazdagítva azt.
+
+A Fennec fejlesztõinek szent célja, hogy a böngészõjük minél több platformon váljon elérhetõvé. Az elsõdleges cél a Nokia N810 Internet Tabletjére való portolás, de készül egy Windows Mobile-on futó verzió is, illetve keményen dolgoznak a Symbian-portoláson is, aminek érkezése áprilisra várható. A Fennec-roadmap szerint a mobil böngészõ elsõ hivatalos kiadása jövõ hónapban érkezik majd.

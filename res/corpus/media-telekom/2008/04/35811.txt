@@ -1,0 +1,12 @@
+Egyre fontosabb a böngészõ a mobiltelefonokban
+
+A webes szolgáltatások és webalkalmazások felé való piaci eltolódás miatt egyre fontosabbak lesznek a böngészõk a mobilokon. Az ABI Research elõrejelzése szerint 2013-ra világszerte 1,5 milliárd mobiltelefonon fut majd olyan fejlett böngészõ, ami az asztali változatokkal vetekedõ képességeket nyújt (pl. RSS- és AJAX-támogatást). Az elemzõcég szerint tavaly mindössze 76 millió mobiltelefonos webböngészõ került a végfelhasználókhoz, 2013-ban azonban már közel 700 millióra lesz kereslet.
+
+
+
+
+ Michael Wolf, az ABI kutatási vezetõje szerint az Opera, az Openware vagy az Access legújabb termékei alapján látható, hogy a mobiltelefonos böngészõk fejlesztõi ma már egyértelmûen arra koncentrálnak, hogy a mobilokon ugyanazt az élményt tudják nyújtani, amit a PC-k elõtt ülõ felhasználók megszoktak. A trendet jól jellemzi az Apple iPhone mindent elsöprõ sikere is, amely nem kis részben a remek böngészõnek köszönhetõ.
+
+
+
+Ugyanakkor arról sem szabad megfeledkezni, hogy a mobilok képességei miatt a böngészõk által nyújtott szolgáltatások mindig is le lesznek maradva a PC-khez képest, elég csak arra gondolni, hogy a Flash Player ma már szinte minden internetezõ PC-kén megtalálható, miközben a mobiloknak csak töredéke képes a Flash tartalmak lejátszására. Ezért továbbra is helye lesz az olyan mobiltelefonos böngészõknek, amelyek szerveroldali komponenset használnak fel arra, hogy az oldalakat a telefonok képességeihez igazítsák és így gyorsítsák a letöltést, megjelenítést.

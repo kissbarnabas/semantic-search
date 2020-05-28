@@ -1,0 +1,20 @@
+Magyarországon is bemutatkozott a Norton 360 új verziója
+
+A Symantec hazánkban is piacra dobta a kimondottan otthoni felhasználóknak szánt átogó védelmi szoftverének, a Norton 360-nak az új verzióját. A Norton 360 2.0 a tavaly megjelent elsõ változattal kapcsolatos felhasználói visszajelsések alapján fejlõdött tovább.
+
+
+
+A Norton Internet Security 2008 alapjaira épülõ Norton 360 új verziója az elõdhöz hasonlóa azokat a felhasználókat veszi célba, akik nem értenek az informatikai biztonsághoz, nem tudnak és akarnak aprólékosan beállítani mindent, egyszerûen csak biztonságban szeretnék érezni magukat és az adataikat, miközben leveleznek vagy böngésznek. A Norton 360 2.0 ugyanazokra a technológiákra épül mint a Norton Internet Security 2008, azonban mivel kimondottan átlagos felhasználóknak tervezték, ezért nagy hangsúlyt fektettek az egyszerû kezelhetõségre.
+
+A Norton 360 2.0-ban is van vírusirtó, spamszûrõ, tûzfal és phishing-szûrõ, emellett belekerült a Norton Internet Securityból ismert Identity Safe, amely a jelszavak biztonságos tárolásáról gondoskodik, valamint a böngészõk sebezhetõségét kihasználó támadások elleni védelmet biztosító Browser Defender. A Symantec szerint ma már egyértelmûen a böngészõt éri a legtöbb támadás, csak tavaly több mint 460 sebezhetõséget fedeztek fel a különféle browserekben és a beépülõ programokban (pl. ActiveX, QuickTime, Flash), és ez a szám folyamatosan növekszik.
+
+
+
+
+A Norton 360-ban új komponens a hálózatbiztonsági figyelõ, amely az otthoni hálózatok állapotáról próbál áttekintést adni. A Norton 360 figyelmezteti a felhasználót ha a vezeték nélküli hálózata nem biztonságos, és megpróbál tanácsokat adni ahhoz, hogy tehetné biztonságosabbá. A szoftver akkor is figyelmeztetést küld, ha a felhasználó egy nem biztonságos hálózathoz próbál meg csatlakozni.
+
+A biztonsági mentéseket végzõ komponens is számos tekintetben megújult. Az egyik legfontosabb változás, hogy a Norton 360 2.0 verziója a mentéseket akár Blu-ray vagy HD DVD korongokra, vagy akár iPodra is képes elvégezni, valamint több PC adatait is tudja egy megosztott hálózati meghajtóra menteni.. A korábbinál szorosabb Windows-integrációnak köszönhetõen az Intézõben minden egyes fájlon látszik, hogy készült-e róla már biztonsági mentés, vagy egyáltalán beletartozik-e azon fájlok körébe, amelyeket menti a szoftver. A Norton 360 2.0 esetében az Intézõben is kijelölhetõek menteni kívánt fájlok. A visszatöltés is fejlõdött, mostantól bele lehet pillantani a lementett fájlokba, hogy biztosan azt állítsa vissza a felhasználó, amire szüksége van.
+
+A szoftver a fentiek mellett képes alapszinten finomhangolni a PC-t, ehhez olyan eszközök állnak benne rendelkezésre, mint a regisztrációs adatbázist kitakarító Registry File Cleanup, valamint egy alapszintû jelentéskészítõ, amely a PC néhány fontosabb paraméterét képes egyetlen felületen megjeleníteni, ami megkönnyíti a hibakeresést. További újdonsága a Norton 360-nak, hogy a 2.0 verzióban a karbantartást  idõzítõ Smart Background Scheduler nem indít el a háttérben feladatokat, ha a gép akkumulátorról mûködik, hogy ne rövidítse az üzemidõt.
+
+A Norton 360 2.0 teljesen lokalizált verzióban kerül a magyar boltokba. A Windows XP-n és Vistán is futó termék érdekessége, hogy a nettó 19 ezer forintos árért cserébe három PC védelmét kínálja, vagyis a több számítógéppel rendelkezõ háztartásoknak is elég csupán egyetlen példányt vásárolni belõle. Az alapverzió árában 10 gigabájtos online tárhely is benne foglaltatik, ahová biztonsági mentéseket készíthetünk, de létezik tízfelhasználós kisvállalati csomag is 25 gigabájt tárhellyel. 

@@ -1,0 +1,16 @@
+Környezetkímélõbb autózást ígér a Garmin ingyenes szoftvere
+
+Ingyenesen letölthetõ, környezet- és pénztárcakímélõ szoftvert tesz elérhetõvé navigációs berendezéseihez a Garmin. Az ecoRoute szoftver az utazás költségeinek kiszámítására és a benzinfogyasztás -- így a környezetterhelés -- meghatározására vállalkozik.
+
+
+
+Az új szoftver bizonyos adatok (aktuális benzinárak, illetve a gépkocsi fogyasztási, károsanyag-kibocsátási adatai) megadása után utazás közben, illetve az utazás végén részletes jelentést ad az üzemanyag-felhasználásról, a kilométerköltségrõl és a széndioxid- kibocsátásról. A szoftver segítségével egy új, gazdaságos útvonaltervezés funkció is igénybe vehetõ, amely az útvonalak tervezett költségeit is megjeleníti.
+
+Az ecoRoute kiértékelõje
+
+A szokásos "gyorsabb", illetve a "rövidebb" opciókon túl az ecoRoute felajánlja a "legkevesebb üzemanyag" útvonaltervezési opciót is, egyben segít kiválasztani azt az útvonalat, amelynél elméletileg a legkevesebb benzint fogyasztja az autó. Az üzemanyag-kimutatás tartalmazza az összes üzemanyag-felhasználást, a megtett kilométer-kimutatás pedig utanként is jelzi a kilométerenkénti üzemanyag-felhasználást. Az összes adat részleteivel együtt letölthetõ egy táblázatba.
+
+
+Mivel az ecoRoute még az utazás megkezdése elõtt megjeleníti az út elõre kalkulált üzemanyagfelhasználását, a felhasználó még idejében szembesülhet a költségekkel. A fejlesztõ elképzelései szerint új, szórakoztató kiegészítõ a "Driving Challenge" opció, amely folyamatosan tájékoztat arról, mennyire gazdaságosan vezet az autós. Az út végén összesített pontszám mutatja az eredményt, valamint javaslatokat arra vonatkozóan, hogyan lehet az elért pontszámot növelni, az üzemanyagköltséget és a jármû széndioxid kibocsátását -- így a környezetszennyezést -- pedig csökkenteni.
+
+Az ecoRoute valódi használhatóságával kapcsolatban felmerülõ legjelentõsebb aggály ugyanakkor, hogy semmi jele nincs annak, hogy a szoftver belekalkulálná a képletbe a forgalmi helyzetet, illetve a vezetési szokásokat. Az ingyenes szoftver februártól tölthetõ le a kompatibilis Garmin készülékekhez (nüvi 205 és nüvi 705-sorozat). Az alkalmazást kezdetben az európai úthálózatra optimalizálják a fejlesztõk.

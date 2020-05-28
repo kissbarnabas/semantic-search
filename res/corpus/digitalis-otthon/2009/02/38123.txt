@@ -1,0 +1,14 @@
+Az egész otthoni hálózatot védi a Trend Micro routerekre telepíthetõ biztonsági szoftvere
+
+Egyszerre képes az otthoni vagy kisebb irodai hálózatba kötött összes eszközt védeni a vírusoktól és rosszindulatú támadásoktól a Trend Micro új biztonsági szoftvere, a Home Network Defender. A program nem a megszokott módon kínál kliens- vagy szerveroldali védelmet, a Home Network Defendert ugyanis a hálózati útválasztóra kell telepíteni.
+
+
+
+A Trend Micro biztonsági alkalmazását kezdetben a Cisco egyes Linksys routereire (WRT610N, WRT310N, illetve késõbb a WRT160N típusokra) telepítik majd, az új eszközök vásárlói 30 napos elõfizetést kapnak, a frissítési szolgáltatás egyéves díja 60 dollár (az ajánlat egyelõre csak az Egyesült Államokban élõk számára érvényes). Azok, akik a fentebbi típusok valamelyikét korábban vásárolták meg, utólag is telepíthetik a biztonsági szoftvert a routerre, az ehhez szükséges firmware-frissítés már elérhetõ a Home Network Defender weboldalán.
+
+A Home Network Defender a routerek hagyományosnak mondható tûzfalfunkcióján túl négykomponensû védelmet nyújt, így véd a kártékony kódokat tartalmazó weboldalakkal szemben, komplett antivírus-megoldást kínál, részletes forgalomanalízis készíthetõ vele valamint fejlett szülõi felügyeleti funkcióval is rendelkezik. A Trend Micro rendszerének egyik legnagyobb vonzereje, hogy mindezeket a védelmi és felügyeleti funkciókat a hálózat összes kliensére kiterjeszti, azaz a routerre csatlakoztatott PC-ken kívül védelmet nyújt egyebek mellett a játékkonzoloknak, különbözõ szórakoztatóelektronikai berendezéseknek, Wi-Fi-n kapcsolódó okostelefonoknak vagy más kézi eszközöknek.
+
+
+A Trend Micro jelenleg a világ harmadik legnagyobb, biztonsági szoftvereket fejlesztõ vállalata a Symantec és a McAfee mögött. Utóbbi két cég elsõsorban a számítógépgyártókkal kötött exkluzív megállapodásaival igyekszik piacot szerezni magának: a különbözõ Norton termékeket és a McAfee VirusScan-t vagy Internet Security-t több PC-re is gyárilag telepítik, általában korlátozott, 30-90 napos elõfizetéssel. A gyártók mindezért rendszerint hatalmas összegeket kérnek a szoftvercégektõl.
+
+A szoftvercég korábban a Sonyval kötött egyedülálló feltételek mellett üzletet, melynek eredményeként a Trend Micro Web Security speciális változata egy szoftverfrissítéssel az összes PlayStation 3 játékkonzolra települt. A 2007. november 8-tól 2009. április 30-ig ingyenesen használható funkció a konzol internetböngészõjének menüjébõl kapcsolható be.

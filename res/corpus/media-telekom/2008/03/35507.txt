@@ -1,0 +1,26 @@
+A mobilhálózatok jövõjérõl rendeztek fórumot Budapesten
+
+Hazánkban, Budapesten rendezték meg a 43. UMTS Fórumot, melyet Winkler János, a T-Mobile vezetõje nyitott meg. Az aktuális témák között helyet kapott a mobiltévézés és a femtocellák kérdése, de szó esett a következõ, negyedik generációs mobilhálózatokról is.
+
+
+
+Pataki Dániel, a Nemzeti Hírközlési Hatóság elnöke a konferencián elmondta, ugyanazok a célok Magyarországon és Európában, a szélessávú penetrációt szeretnék növelni. Európában a közeljövõben átvizsgálják az egész szabályzást, melynek köszönhetõen most dõl el, hogy hogyan néz majd ki a piac a következõ 12 évben. Idén a végzõdtetési díjak harmonizációja mellett szeretnének olyan piaci szabályozást kialakítani, melynek következtében nem lenne szükség a kiskereskedelmi árak szabályozására. Magyarországon a közeljövõben az UHF frekvenciasáv felszabadítása rejt még magában további lehetõségeket a telekommunikációs szektor számára.
+
+Mobiltévé
+
+Az olaszok után a magyarok a legintenzívebb tévénézõk: átlagosan naponta több mint 4,5 órát ülünk a televíziókészülékek elõtt. Többek között emiatt is döntöttek a hazai szolgáltatók a mobiltévé bevezetése mellett, melynek köszönhetõen várhatóan idén év végétõl már nemcsak mobiltelefonálni, WAP-ozni, SMS-ezni lehet a mobiltelefonon, hanem szórakoztató jellegû, interaktív tartalmat is lehet rá sugározni.
+
+Bosco Fernandez, az UMTS Fórum mobiltévé témájának felelõse szerint jelenleg sokféle mobiltévé-szabvány van a világpiacon, és igen zavarosnak nevezte a helyzetet. A készülékgyártók nem, vagy csak nagyon óvatosan mernek beruházni az egyes chipkészletekbe, ugyanis nem nagyon látják, tudják, hogy merre mozdul a mobiltévézés. Még Európa-szinten sem egységes a szolgáltatás, nemhogy világszerte, mutatott rá Bosco Fernandez, noha november óta DVB-H lett az európai mobiltévézés szabványa. 
+
+4G
+
+
+A mobilinternet térnyerését az egyre növekvõ felhasználó tábor mellett mi sem mutatja jobban, mint hogy a Mobile World Congress 2008 egyik legfontosabb témája a HSDPA, illetve a HSDPA plusz szolgáltatások utódjaként emlegetett LTE (Long Term Evolution) hálózatok voltak. Az LTE a jövõ mobiltechnológiáinak alapja. Az LTE egy közös szabvány lehet a CDMA, TS-SCDMA és WCMDA szolgáltatók körében és a piaca az ABI kutatásai szerint több mint 2 milliárd euróval fog bõvülni az elkövetkezendõ évben. 2015-re már 400 millióra prognosztizáljuk az LTE elõfizetõk számát -- mondta elõadásában Jean-Pierre Bienaimé, az UMTS Fórum elnöke.
+
+Elsõként 2009-2010-ben Japánban, a DoCoMo-nál várható az LTE hálózat kereskedelmi indulása, majd ezt követõen Észak-Amerikában, majd Nyugat-Európában honosodhat meg az új hálózati szabvány. Barcelonában már bemutatták az elsõ LTE-képes készülékek prototípusait is, melyek természetesen még nagyok, nehezek, de ahogy ez minden új hálózati megoldás bevezetésekor történik, a méret egyre csökkenni fog.
+
+A piko-, femtocelláké a jövõ
+
+Dr. Kevin Findley, a PriceWaterhouseCoopers tanácsadója a konferencián alátámasztotta, hogy a következõ évek egyik nagy üzleti lehetõségét a femto- illetve pikocellák forgalmazása, az ezekre épített szolgáltatások jelenthetik. Ezek az eszközök mikro bázisállomások, melyek általában a beltéri 3G/HSDPA lefedettséget segítik elõ. A szakmán belül nagy vita van egyelõre a pikocelláknak a meglévõ technológiákkal való ötvözése kapcsán.  
+
+Findley beszédében elmondta: a pikocellák fogyasztói piaca 2011-re közel százszorosára fog nõni a mostani állapothoz képest. Ezeknek a készülékeknek az ára jelenleg még 200 dollár felett mozog, a szolgáltatók a bizonytalan megtérülés miatt nem is szívesen vezetnek be ilyen jellegû termékeket a kínálatukba. Amíg az ügyfelek nem látják a pikocellák által biztosított hozzáadott értékeket, addig nem lehet üzleti modellt felállítani a pikocellák forgalmazására -- tette hozzá Findley.

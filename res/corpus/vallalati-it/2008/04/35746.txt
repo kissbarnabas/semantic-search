@@ -1,0 +1,12 @@
+Kártevõvel fertõzött HP USB-kulcsok kerültek forgalomba
+
+[Computerworld] A Hewlett-Packard megerõsítette, hogy a ProLiant szervereihez kapható, flash memóriaként és USB floppykény is mûködõ külsõ egységbõl olyan példányok kerültek kereskedelmi forgalomba, amelyek kártevõvel fertõzöttek voltak. Ezek az eszközök a gépre kapcsolva az összes  meghajtón keresztül terjednek, beleértve a hálózaton megosztottakat is, ezért fokozott óvatossággal használandók.
+
+
+
+A 256 megabájt vagy 1 gigabájt memóriát tartalmazó HP USB Floppy Drive Key alkatrészekben a flash memória W32.Fakerecy vagy W32.SillyFDC kártevõkkel fertõzöttek. A két kártevõ közül az utóbbi a veszélyesebb, ugyanis ennek downloader modulja is van, vagyis a fertõzött gépekre további kártékony programokat tud letölteni. A Symantec adatbázisa szerint egyébként mind a W32.Fakerecy, mind a W32.SillyFDC alacsony kockázatú. Ezeket a Windows operációs rendszereken terjedõ kártevõket még 2007 elején azonosították, tehát egy friss víruskeresõ már megtalálja õket. 
+
+
+ A SANS Institute Internet Storm Center egyik biztonsági szakértõje szerint alighanem a gyárban került a külsõ perifériákra a kártevõ. A HP a beismerésen túl semmilyen információt nem adott az incidensrõl, így egyelõre nem tudni, pontosan hol és hogy került a meghajtókra kártevõ, hány fertõzött eszköz kerülhetett az ügyfelekhez, valamint az se világos, hogy mikor bukkantak rá elõször a fertõzésre.
+
+Lapunk érdeklõdésére a HP Magyarországnál megtudtuk, itthon ezt az opciót nem használják, ugyanis a legtöbb esetben a  szerverek installációjánál nincs szükség floppymeghajtóra. "Amennyiben mégis szükséges, akkor a HP USB Utility-t használjuk, amely bármely USB-kulcsot megformáz floppyként" -- mondta el a HWSW-nek Almási Gábor, az ipari szabványos szerverekért felelõs HP-vezetõ. A szóban forgó, esetlegesen fertõzött alkatrészbõl egyébként jelenleg egyetlen sincs a magyar nagykereskedõk raktárában, azt csak rendelésre szállítják.

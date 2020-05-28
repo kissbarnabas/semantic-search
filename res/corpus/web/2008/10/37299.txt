@@ -1,0 +1,18 @@
+Frissült a Google böngészõje, a Chrome
+
+Újabb bétát adott ki a Google a szeptemberben megjelent saját fejlesztésû böngészõjébõl, a Chrome-ból. A 0.3-as (egész pontosan 0.3.154.9-es) változat számos hibajavítást tartalmaz, befoltoz néhány biztonsági rést, valamint a fejlesztõk szerint gyorsabb is lett a már elve meglehetõsen fürgén dolgozó elõdjénél.
+
+
+
+A szeptember elejétõl elérhetõ Chrome igazi újdonságként hat a Firefox-IE8-Opera mezõnyben, legnagyobb vívmánya pedig mélyen a kódban rejlik: a böngészõfüleket (tab) teljesen izoláltan kezeli egymástól, megakadályozva így az egész böngészõ összeomlását vagy lassulását egy hibás weboldal miatt. Emellett egy egészen új, sokkal hatékonyabb JavaScript-motor is része a programnak, valamint a Google oldalainak letisztultsága, minimalizmusa köszön vissza a böngészõ felületén is.
+
+Jóllehet a Google böngészõje a kezdeti napokban hatalmas népszerûségre tett szert, böngészõpiaci részesedése elérte az egy százalékot, a statisztikák szerint mostanra jelentõsen lanyhult az érdeklõdés a többek által egekig magasztalt webböngészõ iránt. Ennek egyik oka lehet, hogy a Chrome elsõ bétája egyelõre messze nem tekinthetõ kiforrott szoftverterméknek, többen ezért a kipróbálásig sem jutottak el, vagy ha ki is próbálták, utána mégis inkább jól bevált böngészõjüknél maradtak.
+
+[+] Kipróbáltuk: Google Chrome - Szép, gyors, okos
+
+A most megjelent 0.3-as bétával a Chrome valamivel javíthat ezen a helyzeten: az új verzióval érkezett egyik legfontosabb javítás a böngészõ egy, a felugró ablakok kezelésével kapcsolatos biztonsági rését tapasztotta be, emellett a letöltéskezelõ is biztonságosabbá vált. Javult a plugin- és proxykezelés teljesítménye és megbízhatósága, a program emellett mostantól nem omlik össze, ha a böngészõfüllel együtt zárják be a megnyitott PDF-dokumentumot. A Chrome 0.3-as bétája a fentiek mellett máshogy kezeli az új ablakok megnyitása menüparancsot, és mostantól a szövegbeviteli mezõkben is mûködik a helyesírás-ellenõrzõ, mely immár lehetõvé teszi a szótár egyedi bõvítését is.
+
+
+A Google legutóbb a böngészõ megjelenését követõ héten -- még szeptember elején -- adott ki frissítést a Chrome-hoz. A 0.2.149.29-es béta egyedül azt a vietnami szakértõk által felfedezett biztonsági rést foltozta be, amely weboldalak lementésekor puffertúlcsordulásos támadások indítását tette lehetõvé. Ehhez a támadóknak egy túlságosan hosszú URL-û weboldalat kellett létrehoznia, amelynek a címe tartalmazta a kártékony kódot. A módszerrel lényegében bármilyen programot el lehet indítani az áldozat gépén.
+
+A Chrome legújabb bétája letölthetõ a projekt weboldaláról (a frissítés egyelõre csak Windows-felhasználók számára érhetõ el), a korábbi verziók felhasználói viszont akár a böngészõ menüjébõl is elérhetik a frissítést, de ha ezt elfelejtenék vagy elmulasztanák, a Google a következõ napokban automatikusan frissíti a szoftvert.

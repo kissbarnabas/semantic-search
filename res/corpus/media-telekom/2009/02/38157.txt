@@ -1,0 +1,24 @@
+Nekiesett a Mozilla és a Skype is az Apple-nek
+
+Két nagyobb szereplõ, a Mozilla és a Skype is csatlakozott az Apple ellen felvonulók sorába, s azt szeretnék elérni, hogy az iPhone és egyéb mobilkészülékek "jailbreak"-jének, (azaz a gyárilag szolgáltatófüggõ állapotának) feloldása legális lehessen.
+
+
+
+Nem tûrik a röghözkötést
+
+Eredetileg az Electronic Frontier Foundation elképzelése, hogy az iPhone és egyéb hasonló telefonkészülékek függetlenítése legális legyen, s ehhez a Digital Millenium Copyright Act nevû amerikai jogszabályban foglaltakhoz adják hozzá minõsített kivételként ezt. A kérés alapja, hogy nagyon sokan nem nézik jó szemmel, hogy a népszerû iPhone és iPod Touch készülékekre kizárólag az Apple Store-on keresztül lehetséges programokat telepíteni.
+
+Az Apple természetesen azzal védekezik állásfoglalásában, hogy amennyiben rést nyitnának ezen a törvényen, az felbátorítaná a felhasználókat, hogy megszegjék a hûségszerzõdéseket, lehetõséget adna arra, hogy szerzõi jogsértést kövessenek el, illetve maga az eljárás az Apple szerint a készülékben is kárt okozhat.
+
+Szabadsághívõk
+
+Nem ért ezzel egyet viszont sem a Mozilla, sem a Skype, hisz mindkét cég folyamatosan a liberalizált telefonhasználat elõnyeit próbálja bizonygatni egyébként is. A Skype egyenesen egy olyan világot látna szívesen, ahol a vezetéknélküli hálózatokat bármilyen kompatibilis eszközzel lehetne minden esetben használni mindenféle elõzetes szoftver alapú korlátozás nélkül. Az Apple módszer eredménye a Skype jogászai szerint, hogy a fogyasztók további igényeit kielégíteni tudó fejlesztõk és szoftver gyártók ezrei szorulnak a "hálózat szélére".
+
+Nagy feneket kerít ennek a kérdésnek a Mozilla is és folyamatosan fenyegeti az Apple-t és a hasonló gyártókat azért, mert blokkolja a "legálisan megszerzett szoftvereket" is. A Mozilla nem véletlenül keménykedik, hisz a hamarosan megjelenõ Fennec mobilböngészõjük sorsát jelentõsen befolyásolhatja, hogy az iPhone felhasználók hozzájuthatnak-e vagy sem. Hovatovább a Mozilla azt állítja, hogy egy készülékkel együtt a szolgáltató és a kereskedõ ráerõltetése az emberekre lassítja az innovációt és maguk a felhasználók is kevésbé lesznek lelkesek, ha vásárolni kell -- mondta John Lilly a Mozilla vezérigazgatója.
+
+
+Az Adobe a Mobile World Congressen épp hasonló dolog miatt panaszkodott. A hamarosan elkészülõ mobilkészülékekre szánt Flash 10 lejátszójuk fejlesztése iPhone-ra megakadt, ugyanis az Apple zárkózott, nem segíti, sõt gátolja az ügyet, hogy a saját Quicktime-ját védje.
+
+Pénzkérdés
+
+Igazán nagyot viszont a Skype profitálhatna a DMCA szabályok lazításából, hiszen az Egyesült Államokban több szolgáltató is akadályokat emelt a VoIP szoftverek elé, azzal a céllal, hogy a hanghívásból származó bevételeiket minél tovább megtarthassák. Az iPhone-on sincs például Skype alkalmazás, sõt az összes VoIP szolgáltatás kizárólag Wi-Fi hálózaton kereszül mûködik, HSDPA-n keresztül nem. 

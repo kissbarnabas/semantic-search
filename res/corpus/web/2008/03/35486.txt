@@ -1,0 +1,20 @@
+Megjelent az elsõ internetrõl töltögetõ mobilos trójai
+
+Víruslaborok jelentése szerint megjelent az elsõ olyan trójai a Windows Mobile mobil operációs rendszert futtató okostelefonokra, mely az internetrõl töltögeti le egyes komponenseit, illetve akár memóriakártyákon keresztül is képes magát terjeszteni. A WinCE/InfoJack néven ismert kártevõ nem biztonsági rést használ ki, az aláírás nélküli szoftvert a felhasználók hagyják települni.
+
+
+
+Adatot lop
+
+A WinCE/InfoJack trójai amellett, hogy személyes adatokat, többek között a készülék sorozatszámát is elküldi a trójai készítõinek, elõkészíti a terepet további fertõzõ szoftverek számára, például kikapcsolja a Windows Mobile programok telepítése elõtt megjelenõ figyelmeztetõ, jóváhagyást kérõ üzenetét. A trójai emellett számos mobil programhoz hozzáfûzi magát, így könnyen elterjedhet egyik készülékrõl a másikra.
+
+Az F-Secure szerint ez az elsõ olyan mobil trójai, mely kihasználja, hogy egyre több okostelefon tulajdonosa böngészi manapság az internetet telefonjáról. A szoftver bizonyos komponensei telepítését az internetrõl végzi, megvárja, míg a készülék az internethez kapcsolódik.
+
+A trójai számos népszerû mobil alkalmazásba képes beágyazni magát, így ha lehet, ne másoljunk át ismerõseinktõl mobil szoftvereket, például a Google Maps telepítõjét, inkább töltsük le azt megbízható helyrõl. A trójai mûködése emlékeztet a régi, floppy-lemezes idõkre, a lemezt azonban most a memóriakártya váltotta fel. A trójai megvédi magát a törléstõl is, visszamásolja magát, ha a fertõzött állományt tartalmazó memóriakártyát behelyezzük az okostelefonba, tenyérgépbe.
+
+Ne telepítsd!
+
+
+A kártyékony programot írók nem bíztak semmit a véletlenre, a trójai módosítja a webböngészõ kezdõlapját is. A telefon így egy olyan, ma már nem mûködõ címet nyit meg, ahonnan egyéb kártevõk is letöltõdhettek a felhasználó készülékére, majd a jóváhagyás kikapcsolásának köszönhetõen annak tudta nélkül települhettek.
+
+A WinCE/InfoJack a Microsoft szerint nem használ egyetlen a mobil operációs rendszerben fellelhetõ biztonsági rést sem, a trójai írói egyszerûen arra alapoztak, hogy sokan teljes nyugalommal, a szoftver figyelmeztetése ellenére nyitnak meg, telepítenek aláírás nélküli, ismeretlen forrásból származó alkalmazásokat. A fertõzésnek így lényegében maga a felhasználó enged szabad utat, hasonlóan ahhoz, ha valaki figyelmen kívül hagyja az asztali gépén található vírusirtó, kéretlen alkalmazásokat keresõ szoftver figyelmeztetését.

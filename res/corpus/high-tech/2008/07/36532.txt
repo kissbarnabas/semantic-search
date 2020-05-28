@@ -1,0 +1,13 @@
+Szeptemberben debütálhat a kétmagos Atom processzor
+
+Az Intel közzétette netbookokba, egyéb hordozható eszközökbe szánt processorvariánsának két maggal ellátott változatának megjelenési dátumát és várható árát.
+
+
+
+Az Intel Atom processzorai már számos netbookban megtalálhatóak, a lapkák kétmagos változatai szeptemberben érhetik el az ezekkel szerelt ultrahordozható számítógépekben a fogyasztókat. A kétmagos Atom 330 várhatóan szeptember 21-én mutatkozik be, de megvásárolni valószínûleg csak októbertõl lehet. Az 1,6 gigahertzes frekvencián a processzormag mellett az egymagosénál nagyobb, egy megabájtnyi másodszintû gyorsítótár is üzemel majd. Egyes, meg nem erõsített hírek szerint a kétmagos Atomokból 1,86 GHz-es verzió is készül majd. 
+
+Az új chip platformkompatibilis az egymagosakkal, így mindössze egy BIOS-frissítés szükséges használatához. A két processzormag következtében ugyanakkor növekszik a hõfejlõdés, processzor és chipset együttes TDP-specifikációja 12 wattról 16-ra emelkedik. A kétmagos Atom továbbra is támogatja a szimultán többszálú végrehajtást, így chipenként 4 utasításszálat kapunk -- a fogyasztás leszorítása érdekében ésszerûnek tûnne azonban a kikapcsolás, az asztali szoftverkörnyezet kevéssé profitál az extra párhuzamosságból.
+
+
+
+Az Atom 330 leginkább netbookokban lesz munkára fogva, mindössze 8 wattos fogyasztásával a találgatások szerint egy késõbbi Eee PC változatban bukkanhat majd fel elõször. Állítólag az Apple is gondolkodik azon, hogy a processzort egy, még az idén megjelenõ termékben alkalmazza, bár már tavaly szivárogtak ki ezzel kapcsolatos utalások, amikor az egymagos processzor még Silverthorne kódnéven futott. A két magot tartalmazó Atom 330 az Intel jelenlegi számításai szerint 43 dollárért kerülhet a számítógépekbe.

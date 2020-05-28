@@ -1,0 +1,13 @@
+Megjelent az Everest rendszerinformációs szoftver 5.0 verziója
+
+Megjelent a Lavalys Everest rendszerinformációs és diagnosztikai szoftver legújabb, 5.0 verziója. A magyar fejlesztõk annyi újdonságot pakoltak a programba, hogy szinte lehetelen is lenne mindet felsorolni. Az Everest továbbra is letölthetõ a Lavalys oldaláról.
+
+
+
+Az új Everest szokás szerint még szélesebb körû hardvertámogatással rendelkezik, a kompatibilitási listán megtalálhatók a legújabb Intel és AMD processzorok, köztük a Phenom II-vel, a Core i7-tel, és persze az Atommal. 
+Újdonságként megjelent egy figyelmeztetõ szolgáltatás, ami jelez túlmelegedés, feszültségesés, túlfeszültség valamint a hûtõventilátor meghibásodása esetén. A jelzés lehet felugró ablak vagy e-mail, és az Everest képes hiba esetén automatikusan leállítani a gépet.
+
+A szoftver felismeri a legújabb grafikus processzorokat is. Az Everest 5.0-ban helyet kapott egy OpenGL-megfelelõségi teszt, mellyel ellenõrizhetõ a hardver és az illesztõprogram megfelelõsége a különbözõ OpenGL változatok esetén. GPGPU-támogatású grafikus kártyák adatait is meg tudja jeleníteni az Everest, beleértve a memória méreté, blokk- és rácsméretet, API-verziót információkat a számítási képességrõl. A diagnosztikai szoftver a korábbinál több információval tud szolgálni a hangkártyákról az OpenAL API-n keresztül, beleértve az X-RAM méretének és a hardveres hangpufferek számának detektálását, illetve a felhasználó kilistázhatja a High Definition Audio vezérlõket és kodekeket is.
+
+
+ Szoftveroldalon a legfontosabb újdonságot a Windows 7 és a Windows Server 2008 R2 támogatása jelenti, az Everest 5.0 nem csak egyszerûen fut a Microsoft új operációs rendszerén, hanem képes az összes konfigurációs paraméter megjelenítésére is. A szoftver képes a Vista sidebaron, illetve a Windows 7 asztalán futó kisalkamazásokról is információkat szolgáltatni.

@@ -1,0 +1,15 @@
+Javította a Chrome kritikus sebezhetõségét a Google
+
+Befoltozta a Chrome böngészõ egyik kritikus hibáját a Google. A vietnámi szakértõk által felfedezett sebezhetõség puffertúlcsordulásos támadások indítását tette lehetõvé.
+
+
+
+A Hanoi Mûszaki Egyetem biztonsági szakértõje, Le Duc Anh bukkant rá arra a sebezhetõségre a Google múlt héten kiadott böngészõjében, amely weboldalak lementésekor puffertúlcsordulásos támadások indítását tette lehetõvé. Ehhez a támadóknak egy túlságosan hosszú URL-û weboldalat kellett létrehoznia, amelynek a címe tartalmazta a kártékony kódot. A módszerrel lényegében bármilyen programot el lehet indítani az áldozat gépén.
+
+
+ A Chrome 0.2.149.27 még tartalmazta ezt a sebezhetõséget, a Google azonban mostanra kijavította a hibát, a 0.2.149.29-es verzió már biztonságosabb. Az új bétában több más hibát is javítottak, például a lefagyást okozó ":%" problémát, de szakértõk szerint még maradt benne bõven, a hónap elején felfedezett, WebKit-alapú böngészõket érintõ  "szõnyegbombázás" hiba például továbbra is jelen van a Chrome-ban.
+
+[+] Kipróbáltuk: Google Chrome - Szép, gyors, okos 
+
+
+A Chrome bétáját használóknak nincs semmi dolguk, a böngészõ automatikusan frissíti magát a legújabb változatra -- még nem csak nem is tájékoztatja a felhasználót arról, hogy új verzió érkezett. A böngészõ természetesen kézzel is frissíthetõ, a "Tools" menübõl az "About Google Chrome" fül alatt akkor jelenik meg az "Update" gomb, ha elérhetõ új verzió.

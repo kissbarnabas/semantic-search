@@ -1,0 +1,14 @@
+Frissítve: kétszeres teljesítményt hoz azonos áron az NVIDIA új grafikus processzora
+
+[Digitimes/HWSW] Ma jelenti be elsõ GeForce 9-es sorozatú grafikus chipjét az NVIDIA, állítják videokártya-gyártók. A Digitimes értesülései szerint elsõként a középkategóriás GeForce 9600 GT kerül piacra, melyet elsõsorban az AMD Radeon 3850 ellenfelének szánja a vállalat. A Prohardver mérései alapján elõdjénél kétszer nagyobb teljesítmény kapunk -- ugyanazért a pénzért.
+
+
+
+A TSMC által 65 nanométeres csíkszélességû eljáráson gyártott 9600 GT chip kétszeres erõforrásokkal rendelkezik elõdjéhez, a 8600 GTS-hez képest, így a 650 megahertzes chip 64 végrehajtóegységgel és 256 bit szélességû memóriavezérlõvel bír, amivel nagyjából párhuzamosan emelkedik a leadott teljesítmény is. Az új grafikus processzor úgynevezett Dual-Streaming Decode technológiát is alkalmaz, ami lehetõvé teszi, hogy két HD-folyamot is dekódoljon és feldolgozzon párhuzamos, lehetõvé téve kép-a-képben funkcionalitást is.
+
+A 9600 GT (kódnéven G94) az NVIDIA 2006-ban debütált NV50 architektúráját implementálja, mely egységes shader architektúrát és hardveresen támogatott DirectX 10 programozási felületet valósít meg. A chipben a pixeleket és vertexeket feldolgozó shader processzorok az alapórajel többszörösén dolgoznak, az arány változó, jellemzõen 2 feletti, jelen esetben 2,5, vagyis a feldolgozó egységek 1625 megahertzen üzemelnek. 
+
+Az 1800 megahertzes GDDR3 memória 57,6 gigabájt másodpercenkénti teoretikus áteresztõképességet biztosítanak. Az Albatron 512 megabájtos kártyájáról azt állítja, akár több mint 80 százalékkal nagyobb teljesítményt nyújt, mint bármilyen más 8600-as sorozatú. A Prohardver online PC-magazin tesztje szerint a 9600 GT jellemzõen kétszeres teljesítményt kínál egy 8600 GTS-hez képest, de maga mögé utasítja a Radeon 3870-et és 8800 GS-t is. 
+
+
+A híradások szerint egyes videokártyagyártók 9600 GT szállításai csak néhány hét múlva indulnak meg, ugyanis egy korábban felfedezett tápellátási hiba miatt javítani kellett kártyáikon. Ezzel párhuzamosan a felsõkategóriás GeForce 9800 GX2 chip rajtját néhány héttel kitolta az NVIDIA, így február végén, március elején várható bejelentése. A 9600 GT kártyák javasolt végfelhasználó ára 169-189 dollár, ami 40 ezer forint környéki árazásra fordítható le, ezzel 35 és 50 ezer forint közé esõ Radeon 3850 modellekkel versenyez. Tajvani gyártók szerint a 9600 GT jellemzõen nagyobb teljesítményt kínál, ugyanakkor energiaéhsége is magasabb, és jobban melegszik. 

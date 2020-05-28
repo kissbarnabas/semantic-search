@@ -1,0 +1,36 @@
+Niagara-szerverek és költségcsökkentés, ez a Sun 2009-es eszköztára
+
+Továbbra is csökkenõ árbevételrõl és veszteségrõl számolt be a Sun Microsystems, az elemzõi várakozásokat ugyanakkor így is meghaladta, és biztató jeleket is mutat. A vállalat teljesítményét ezúttal is leginkább a forgalom nagy részét adó nagyvállalati SPARC-szerverek pocsék értékesítési mutatói húzzák le, amit továbbra sem tudnak ellensúlyozni a növekedést generáló termékek. A nyereségesség elérését költségcsökkentési programmal kívánja a Sun biztosítani.
+
+
+
+Leesett a SPARC-forgalom
+
+A Sun a tavalyi utolsó negyedévben, mely a cég második pénzügyi negyedéve, 3,22 milliárd dollár árbevételt ért el, ami 11 százalékkal marad el az egy évvel korábbitól. Az adózott veszteség 209 millió dollárra rúgott, szemben az elõzõ évi 260 milliós profittal. Az átszervezések és leírások 222 millió dolláros rendkívüli költsége nélkül a vállalat halvány nyereséget tudott volna felmutatni üzemi szinten. A Sun november közepén jelentette be nagyszabású átszervezési programját, amelynek keretében 5-6 ezer dolgozó elbocsátását tûzte ki célul, vagyis a létszám 16-18 százalékától, azaz éves szinten 800 millió dollárnyi költségtõl kíván megszabadulni.  A jelenlegi negyedévben hasonló mértékû rendkívüli költség jelentkezik a folyamatban lévõ leépítések kapcsán.
+
+[+] A Sun válasza a válságra: átszervezés, leépítés  
+
+A leépítések elkerülhetetlennek tûnnek a cég pénzügyi helyzetének védelme érdekében: amennyiben a vállalat nem tudja megállítania forgalmának olvadását, úgy ezek a költségcsökkentõ lépések sem lesznek elegendõek a stabilan nyereséges mûködés eléréséhez. A cégvezetés számára a legnagyobb fejtörést a nagyvállalati SPARC-rendszerek forgalmának visszaesése okozza, melyek korábban a cég forgalmának derekát adták, és ezekhez kötõdik a tárolókból és a jövõbeni támogatási szolgáltatásokból befolyó összegek nagy része is. A SPARC Enterprise Serverekbõl 662 millió dollár bevétel folyt be a év utolsó három hónapja során, ami éves összehasonlításban 32 százalékos visszaesést jelent -- több mint 300 millió dollár tûnt el. 
+
+Jonathan Schwartz elnök-vezérigazgató szerint a Sun nem tehetõ felelõssé a jelenlegi visszaesésért, a SPARC-kínálat lényegesen versenyképesebb, mint bármikor az elmúlt évek során, és az értékesítési csapatokat is erõsítették -- a visszaesés a válság hatása. A Sun pozíciói kifejezetten azokban az amerikai és nyugat-európai pénzügyi, telekommunikációs és kormányzati szektorokban erõsek, melyek elsõként tapasztalják meg a hitelezési, majd az azt követõen kibontakozó gazdasági krízis hatásait. Az évvégi hajrá a mélyülõ válság ellenére is kifejtette szezonális hatását, a Sun bevétele közel 8 százalékkal emelkedett a harmadik negyedévhez képest, így szekvenciális összevetésben ez tette lehetõvé, hogy a rendkívüli kiadásoktól megtisztított üzemi eredmény javuljon.
+
+
+A negyedik negyedéves szerverpiaci számok ugyan egyelõre még nem publikusak, a Gartner alapján a harmadik negyedévben 20 százalékkal kevesebb RISC/EPIC UNIX-szerver fogyott, mint egy évvel korábban, és a vezetõ gyártók ezekbõl származó bevétele kivétel nélkül olvadt. Az IBM negyedéves jelentésébõl kiderül, hogy a Power Systemek forgalma 8 százalékkal emelkedett, ezt leginkább a termékfrissítésnek és a System i rendszerek beolvasztásának köszönheti.
+
+Pozitívumok
+
+A Sun forgalomcsökkenését túlnyomó részt a SPARC Enterprise és korábbi kifutó rendszerek értékesítésének visszaesése magyarázza, a többi termékcsoport mérlege összességében enyhén pozitív. A szerverek közt az úgynevezett CMT-rendszerek, vagyis a masszívan párhuzamos felépítésû Niagara vonal 31 százalékos növekedést produkált, a forgalom elérte a 369 millió dollárt, ami igencsak impresszív a jelenlegi környezetben. Ha a jelenlegi tendenciák kitartanak, úgy két-három negyedév múlva ez a termékcsalád válhat a legnagyobbá. Szintén szép teljesítmény, hogy az x86-os gépek értékesítése 11 százalékkal 175 millióra nõtt, összességében azonban továbbra is kevéssé veszik ki részüket az összforgalomból. 
+
+[+] Brutális teljesítményre képesek a Sun új SPARC-szerverei  
+
+Viszonylag jól viselik a nehéz piaci körülményeket a tárolók, a diszkrendszerek forgalma 5 százalékkal olvadt mindössze, és a tipikusan nagyvállalatok által használt szalagos egységek eladásai is csupán 13 százalékkal csökkentek, miközben a beágyazott OpenSolarisra épülõ OpenStorage termékek 21 százalékkal növekedtek. A szoftverek is jól teljesítettek, a Javához kötõdõ bevételek 47, a MySQL-hez és más infrastrukturális alkalmazásszoftvereké pedig 55 százalékkal ugrott meg. A SPARC Enterprise szerverekhez kötõdõ Solaris, virtualizációs és menedzsment szoftverek forgalma azonban 29 százalékkal csökkent. A támogatási, oktatási és tanácsadási szolgáltatások a hosszabb távú szerzõdések miatt sokkal kevésbé érzékenyek az aktuális piaci körülményekre, itt a forgalom mindössze 6 százalékkal olvadt.
+
+Idõre van szükségük
+
+A rövidtávú kilátások nem biztatóak a cég számára, a jelenleg folyó negyedévben az elõzõ három hónapnál alacsonyabb árbevételt várnak, ami az átszervezési költségekkel együtt egyértelmûen ismét veszteségbe taszítja a céget. A Sun legnagyobb reménysége idén a Niagara-család, melyektõl a forgalom kitartó bõvülését remélhetik. Ezek az UltraSPARC T-sorozatú processzorok chipenként akár 8 maggal rendelkezhetnek, 64 utasításszálat  kezelnek, így kiválóak alacsony számításigényû tranzakcionális és I/O-intenzív feladatok kezelésére, mint amilyenek a webes infrastruktúrák is. Schwartz szerint a x86-os gépektõl is vesznek el piacot ezeken a területeken. A Rock-alapú szerverek az év vége felé várhatóak, áttörés azonban már nem remélhetõ tõlük. 
+
+A Sun gyakorlatilag a dotkom lufi kipukkadása óta nem talált magára, a fejlesztésekben ölt hatalmas összegek nem bizonyultak elegendõnek a tartós organikus növekedéshez, és láthatóan nyereségessége is igen törékeny.  Schwartz magabiztosan állítja, a Sun megfelelõ stratégiával rendelkezik, melynek alappillére a szoftverek forráskódjának megnyitása és szabadon elérhetõvé tétele, amit egy olyan rendkívül hatékony marketingeszközként fognak fel, mely késõbb valódi forgalmat is generál majd -- támogatási szerzõdések, fizetõs extra képességek, hardverek.
+
+[+] Türelem, a Sun Microsystemsnek van stratégiája  
+
+Hogy ez a hatás mikorra generál akár az egész céget is eltartó bevételt, még Schwartz sem tudja, így addig a háttérben gõzerõvel dolgoznak a Niagara-családot és a Fujitsu SPARC-processzorait felváltani képes processzort fejlesztõ csapatok, a tervek szerint a következõ évtized elejére szüntetve meg a jövõbeni terveikkel kapcsolatban nem túl beszédes japánoktól való függõséget. A szerverértékesítés a szolgáltatási bevételek  alapját is képezi, egy tartós gyengélkedése idõvel oda is elkerülhetetlenül begyûrûzne. A nehéz idõszak túléléséhez a Sun mintegy 2,6 milliárd dollárnyi magas likviditású eszközállománnyal rendelkezik, a költségcsökkentéseket követõen pedig a tõkeberuházások finanszírozását is tartalmazó mûködési cash-flow is pozitívba fordulhat.  

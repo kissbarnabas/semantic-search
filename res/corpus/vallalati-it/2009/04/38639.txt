@@ -1,0 +1,10 @@
+Nyílt forrású szoftverhasználat: Magyarország a globális középmezõnyben
+
+Az OSI vizsgálja a nyílt forrású szoftverekkel kapcsolatos aktivitást az országokban, figyelembe véve például a telepítések számát, a nyílt forrású szoftverekhez hozzájáruló fejlesztõk számát, hogy a felsõoktatásban mennyire elterjedtek a nyílt szoftverek, vagy éppen azt, hogy a kormányzati beszerzések kedveznek-e nekik. Ezzel párhuzamosan a Red Hat és a Georgia Institute of Technology azt is megpróbálta felmérni, az egyes országok mennyire termékeny táptalajai lehetnek a nyílt szoftvereknek, ezt olyan körülmények alapján próbálták meghatározni, mint az internetpenetráció, az egyetemekrõl kikerülõ informatikusok száma, az informatikai ipar mérete.
+
+
+ A fentiek alapján két rangsort állítottak fel a tanulmány szerzõi, egyik a nyílt forrású szoftverekkel kapcsolatos aktivitás, a másik pedig a környezet, befogadóképesség alapján rangsorolja az országokat. A két rangsor élmezõnye eltérõ, befogadóképesség alapján Svédország vezet az Egyesült Államok és Norvégia elõtt, aktivitás tekintetében azonban Franciaország vezet, megelõzve Spanyolországot és Németországot.
+
+Magyarország az aktivitási rangsorban csak a 32. helyet foglalja el, a befogadóképesség szempontjából pedig a 24. helyen áll a 75 ország eredményeit összesítõ listán. Aktivitás szempontjából a közösség/oktatás terén kapta a legjobb helyezést Magyarország és kormányzati szerepvállalás terén a legrosszabbat, a befogadóképesség pedig a versenyszférában a legnagyobb az OSI metódusa szerint.
+
+Nagy lökést adhat itthon a nyílt szoftverek terjedésének az új közbeszerzési eljárás, amelyben jelentõs, 12 milliárd forintos keretösszeg áll ezek rendelkezésére. A magyar közintézmények bíznak a nyílt forrású megoldásokban, több helyen kritikus alkalmazások üzemelnek már linuxos környezetben, a mostani bejelentés szerint azonban már a kormányzat bizalmát és támogatását is élvezik a szabad szoftverek, ami nagy lökést adhat az ilyen megoldások térhódításának.

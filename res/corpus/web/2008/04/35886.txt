@@ -1,0 +1,14 @@
+Kipróbálható az Opera 9.5 webböngészõ újabb bétája
+
+Újabb bétaváltozatot tett elérhetõvé az Opera a Kestrel kódnéven fejlesztett Opera 9.5 böngészõbõl. Az új béta biztonságosabb, gyorsabb és számos finomítást tartalmaz az elõzõ változathoz képest. A bétaváltozat a véglegesekhez hasonlóan teljesen ingyenesen tölthetõ le, mindennapi használatra viszont az esetleges hibák miatt nem alkalmas.
+
+
+
+A második bétában található Quick Find már keres a korábban meglátogatott weboldalak szövegében is, nem csak a címében, így pillanatok alatt rátalálhatunk arra az oldalra, ahol valami érdekeset láttunk, de elfelejtettük a kedvencek közé helyezni. Finomítottak az Opera Linken, a személyes, Opera Minivel is kompatibilis kedvenclistán is. Javult az adathalászati támadások, csalások elleni védelem, mely a PhishTankkal is együttmûködik.
+
+
+A második béta valószínûleg már azt a javított motort hordozza, mely elsõként teljesítette 100 százalékra az Acid3 tesztet. Az Acid3 a Web Standards Project által gondozott weboldal, ahol a szabványoknak megfelelõ böngészõk kompatibilitását vizsgálják. Számos böngészõ még az elõzõ, Acid2 tesztet sem képes teljesíteni, ahol egy sárga mosolygós arcot jelenítenek meg egy Hello World felirat alatt -- a smiley orra kékre változik, ha föléhúzzuk az egeret. Az Acid2 és 3 tesztoldal valójában nem is szabványos, a fejlesztõk célja egy olyan oldal létrehozása volt, amelynek kódja szándékosan hibás -- az Acid tesztek lényegében azt vizsgálják, hogy mit kezdenek a böngészõk ezzel a hibás kóddal.
+
+Windowson az Operának sikerült elsõként
+
+Az új böngészõváltozat még gyorsabb lett, támogatja az Extended Validation (EV) SSL Certificates aláírásokat, és finomhangoltak a beépített levelezõkliensen is, így az is gyorsabb, válaszképesebb lett. Az Opera 9.5 végleges változata várhatóan nyáron jelenik majd meg. A böngészõ népszerûsége 2004-ben volt csúcsán, azóta bár ingyenessé is vált, a Firefox teljesen perifériára szorította. Egy nemrég készült felmérés szerint az Opera csak 1 százalékos részesedéssel rendelkezik a hazai böngészõpiacon.

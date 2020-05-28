@@ -1,0 +1,14 @@
+A Lenovo és az EMC megállapodása révén korlátlan online adattárhoz juthatnak a ThinkPad SL noteszgépek tulajdonosai
+
+A számítógépgyártó Lenovo és a vállalati adattároló megoldásokban utazó EMC együttmûködése révén korlátlan online adattárat vehetnek igénybe a nyáron megjelent ThinkPad SL sorozat felhasználói.
+
+
+
+A kis- és középvállalatoknak szánt Lenovo ThinkPad SL noteszgépek felhasználói egyedi konstrukciót választva regisztrálhatnak az EMC tulajdonában lévõ Mozy online adattár-szolgáltatás használatára. A Mozy kereskedelmi szolgáltatására, a Mozy Próra elõfizetõk gigabájtonként fizetnek egységárat, a ThinkPad SL felhasználók ezzel szemben korlátlan tárhelyhez jutnak, jelenleg csökkentett áron, évi 79,2 dollárért cserébe. A szolgáltatás egyelõre csak angol nyelven és mindössze kilenc országban (Európában egyedül Nagy-Britanniában) érhetõ el, a megállapodás szerint azonban az év végéig hat további nyelven is megjelenik és újabb országok felhasználói fizethetnek majd elõ rá.
+
+A Berkeley Data Systems (BDS) által indított Mozy elõfizetéses szolgáltatás más online adattárakhoz hasonlóan külön adattárolóeszköz vásárlása nélkül teszi lehetõvé a számítógéphasználók számára a kritikus állományok rendszeres mentését. A BDS kezdetben elsõsorban egyéni ügyfeleket szolgált ki, tavaly azonban az üzleti élet szereplõit is megcélozta fejlettebb menedzsmentfunkciókat és nagyobb tárhelyet kínáló Mozy Pro csomagjával. A vállalatot ezt követõen -- tavaly októberben -- vette meg az EMC.
+
+
+A Lenovo ThinkPad SL noteszgépek vásárlói emellett egy olcsóbb, 50 gigabájtnyi maximális webtárhelyet nyújtó csomagra is elõfizethetnek a Mozynál -- ezt 69 helyett egy évig 48,9 dollárért vehetik igénybe. A szolgáltatást kipróbálni szándékozók az aktiválástól számított három hónapon keresztül ingyen rendelkezhetnek 5 gigabájtnyi, adatmentésre fenntartott webtráhely felett.
+
+A Mozy a Lenovóval kötött megállapodással egyidõben tegnap azt is bejelentette, hogy megnyitja elsõ európai adatközpontját Írország fõvárosában. A dublini központot az Európai Unió adatkezelési irányelveinek és törvényeihez igazodva hozták létre -- egyes érzékeny üzleti adatok ugyanis az EU-s rendelkezések szerint csak az uniós határokon belül mûködõ adatközpontokban tárolhatók. Ma a Mozy ügyfeleinek háromnegyede az Egyesült Államokból használja a szolgáltatást, a nagyjából 850 ezer elõfizetõbõl mindössze 23 ezer üzleti ügyfél.

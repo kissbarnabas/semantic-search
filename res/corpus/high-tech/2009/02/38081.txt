@@ -1,0 +1,50 @@
+Microsoft Surface: Magyarországon egyelõre csak demó
+
+A Különvélemény címû filmben látható számítógépes kezelõfelületet is ihletõ Microsoft Surface a mai számítástechnika egy fura csodabogara. A billentyûzetet, egeret, távirányítót és minden szokványos beviteli eszközt nélkülözõ, dohányzóasztalba oltott számítógép a kéz természetes mozdulataival irányítható. A közel egy éve kapható termékbõl mostanra Magyarországra is eljutott egy, egyelõre csak a Microsoft fõhadiszállásáig.
+
+
+
+Régebbi mint az iPhone
+
+A Surface alapötletét még 2001-ben, a Windows XP megjelenésének hónapjában vetette fel Steven Bathiche, a Microsoft hardvermérnöke és Andy Wilson kutató. 2003-ra már prezentálható állapotba került az ötlet és elkészült az elsõ prototípus is. Mivel a cégen belül a terv tetszetõs volt, ezért az ezt követõ években lázas munka kezdõdött, s ugyan még Bill Gates figyelt fel rá anno, de 2007-ben már Steve Ballmer mutatta be a nagyközönségnek a Surface-t, amely 2008 áprilisa hivatalosan is kapható.
+
+ 
+
+A körülbelül 3 millió forintnak megfelelõ dollárba kerülõ szerkezet (és szoftver) elsõdleges feladata az úttörés. A magánfelhasználók világába az ára miatt sem valószínû hogy betörne, másrészt alapkiszerelésben néhány, a képességeket bemutató játékon kívül, fotónézegetõn és zenelejátszón kívül nem sok mindent tud felmutatni, nem utolsó sorban pedig viszonylag zajos is a hûtése. Egy üzlettérbe, közösségi térbe viszont ideális eszköz, amennyiben fejlesztenek rá megfelelõ tartalmat is. Kõnig Tibor, a Microsoft Magyarország vezetõ mérnöke a HWSW-nek azt mondta, hogy a nemzetközi példákból az látszik, hogy a szállodák és a kaszinók valóban ráharaptak. 
+
+Hogy a jövõben vajon kik vásárolnak majd a Surface-bõl? Kõnig jóslata szerint autókereskedések vagy pénzintézetek, de a berendezés elképzelhetõ bármilyen ügyfélszolgálaton, de akár turisztikai célokat is tökéletesen kiszolgálhatna. Képzeljük csak el, hogy egy Tourinform-irodába ellátogatva egy idegen városban, a kedves kollegina egy virtuális térképen mutogatná az érdekes helyeket, ahelyett, hogy egy papírhalmaz közepérõl próbálna kiszabadulni.
+
+Egyszerû PC?
+
+A közvélekedéssel ellentétben nem maga a hardver a varázslat, a titok a programban rejlik, s a fejlesztés sem azért tartott 6 évig, mert nem tudtak egy IKEA-asztalba beleépíteni egy PC-t. A Surface-ben egy teljesen átlagos, vagy lassan már átlag alatti 2,13 GHz-es Intel Core 2 Duo processzor, 2-4 GByte memória, illetve egy ATI Radeon X1600 grafikus kártya alkotja a gerincet. A köré épített masszív asztallal együtt közel 100 kilogrammot nyom a gép. Ugyan a folyton mozgó animált vízfelület automatikusan vonza az ember tekintetét (épp ez a célja: figyelemfelkeltõ kell, hogy legyen), de egyébként egy elegáns, kellemes benyomást keltõ bútordarab, melyet szinte bárhol el lehetne képzelni, legyen az hotel vagy tanácsadó iroda.
+
+A mûanyag érintésérzékelõ felület alatt egy XGA-felbontású (1024x768) DLP projektor lapul, ami a képet szolgáltatja, az érintéseket pedig a beépített 5 infrakamera érzékeli nagyon is pontosan. A szokványos touchscreen-megoldások azért estek ki a lehetõségek közül, mert itt nagyon érzékeny észlelésre volt szükség, ami képes sok pontot követni, észlelni egy mozdulat dinamikáját, illetve kritérium volt, hogy az érintésnél ismerje fel a szerkezet, hogy egy ujj, tenyér vagy valami más ért hozzá. A kólásüveg aljára például a teszten nem reagált a gép, de a kupakot húzgálva el tudtuk hitetni vele, hogy az valójában egy ujj. 
+
+ 
+
+A használat a sarkokban lévõ gombok megérintésével kezdõdik, ezzel egyúttal üzenünk a gépnek, hogy melyik oldalra ültünk le, automatikusan oda forgatja a képet. A kipróbált fejlesztõi változatban egy lineáris menübõl lehet válogatni az alkalmazásokat, s az elsõ percben rögtön két dolog juthat eszébe az embernek. Az elsõ, hogy valóban kényelmes, pontos és intuitív a felület használata. Szinte egyáltalán nem akad, egy objektum áthúzása körülbelül olyan hatást kelt, mintha egy valódi lapot húznánk arrébb egy asztalon. A második gondolat pedig az, hogy az elmúlt 25 évben mennyire hozzászoktunk az egérhez és billentyûzethez, s mennyire nem gondolkodtunk az ember számára legtermészetesebb vezérlési módban, a valós érintésben.
+
+ 
+
+Az élõ tesztrõl is nehéz eldönteni, hogy játék volt vagy munka, hiszen amíg szóban a felhasználási környezetrõl, a vevõi igényekrõl, a specifikációkról volt szó, addig az indexes kollégákhoz hasonlóan nekem is folyton járt a kezem és látszólag értelmetlen mûveleteket ismételgettem, fotókat kicsinyítettem, nagyítottam, dobáltam, zenéket hajítottam be a lejátszási listába vagy éppen szentjánosbogarakat terelgettem. 
+
+Hány embernek van 52 ujja?
+
+A demógép alkalmazásai arra mindenképp jók voltak, hogy bemutassák a Surface képességeit. Az infrakamerára épülõ érzékelésnek köszönhetõen egyszerre akár 52-54 pontot képes követni a szoftver, s az egyik fejlesztõi alkalmazásban jól látszott, hogy ezt gyakorlatilag teljesen valós idõben teszi, észrevehetetlen késleltetéssel. A szoftver az észlelt hõkép elemzésével  megállapítja, hogy mivel is van dolga, s igyekszik mondjuk kiszûrni a felülethez túl közel tartott alkart, de ha az hozzáér az asztalhoz, akkor az is hatással van a dolgokra, csakúgy mint a valóságban. 
+
+Nagyobb számítási kapacitás nem is az észleléshez és feldolgozáshoz, hanem a komolyabb vizuális megjelenítéshez kellene, legalábbis a rajzolóprogram használata során érezhetõ volt némi mûiesség. Ugyanakkor a videopuzzle kirakása, vagy a fotók nagyítgatása meg sem kottyant a gépnek, tehát itt is igaz, hogy az optimalizált szoftver a kulcsa a felhasználói élménynek. Külön kiemelendõ, hogy a rendszer tanítható, így különbözõ formákat, alakzatokat képes azonosítani, így egyszerû vizuális tokenek segítségével is lehet parancsokat adni, funkciókat beindítani. 
+
+ 
+
+
+Nem kell semmilyen bonyolult dologra gondolni, akár egy egyszerû fehér lapra nyomtatott fekete ábra is lehet az eszköz. A pénzügyi szoftver bemutatójában a különbözõ apró logókat az érzékelõ felé helyezve elindult a megfelelõ alkalmazás, ott éppen hitelek, befektetések és megtakarítások prezentációjával.
+
+Nem húzhatjuk ki a fényképezõbõl a képeket
+
+Az egyszerûség gyönyörködtet, viszont a Surface jelenlegi állapotában nem tudja azt, amit a leginkább vártak tõle, azaz nem képes felismerni, azonosítani tárgyakat. Így hiába lenne vezeték nélküli kapcsolatra képes fényképezõnk vagy adathordozónk, a géppel csak elõzetes megismerkedés után lenne képes kommunikálni. Annak persze semmi akadálya, hogy az eszközök aljára a Surface által is ismert jeleket fessünk, ilyen módszerrel akár a kávésbögrét is be lehet neki mutatni.
+
+ 
+
+Kõnig Tibort faggattuk arról is, hogy az otthonokba hogyan tervezik eljuttatni ezt az élményt, milyen változatok várhatóak még: egyelõre csak a 30 hüvelykes verzió létezik belõle, s igaz, hogy kísérleteznek falra szerelhetõ,  álló és egyéb modellekkel is, túl sok variánsnak egyelõre nincs értelme. Otthoni célra a Windows 7 multi-touch megoldását, illetve az ezt kihasználni képes, elméletileg jövõre érkezõ új notebookokat szánják. A HP és a Dell is készül fejlett érintõképernyõs tablet noteszgépekkel, melyek a Windows 7 zászlóvivõi lehetnek majd. 
+
+A Microsoft mérnökei nyilván tovább dolgoznak különbözõ iparágakat, adott üzleti rétegeket érdeklõ megoldásokon, s habár az elsõ idõkben az eszközzel leginkább lenyûgözni lehet majd az ügyfeleket, vendégeket, vásárlókat, a késõbbiekben nem csupán az exkluzivitása miatt lesz érdekes a Surface. Annak ellenére, hogy a gép ára nem több, mint egy nívósabb magazinban egy egész oldalas hirdetés listaára, nem várjuk, hogy gyorsan elterjedne. Elõfordulhat, hogy a nagyobb szállodák mutatóba vásárolnak majd egyet-egyet, de az általános elterjedésére a következõ években annyi esély van, mint arra, hogy Egerszalókon három Toyota Prius parkoljon egymás mellett véletlenül. 

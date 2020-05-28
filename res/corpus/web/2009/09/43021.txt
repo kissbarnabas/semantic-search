@@ -1,0 +1,14 @@
+Belesimul a Windowsba a Firefox
+
+A Mozilla fejlesztõi közösségi oldalán bepillantást engedett abba, hogyan fog kinézni a Firefox 3.7-es változata, amely megkapja a Windows Vistából és Windows 7-bõl ismert "ribbon" felületet, így a menü kevesebb helyet foglal és több terület marad a weboldalaknak, ami leginkább a korlátozott képernyõméretû és -felbontású netbookokon lehet hasznos.
+A Mozilla Wikin elérhetõ kép és szövegek alapján a cél az volt, hogy a Firefox menüje, kinézete jobban illeszkedjen a Windows Vistához és a Windows 7-hez, mivel a böngészõ idejétmúltnak, elavultnak tûnik az új operációs rendszereken. A Firefox egyáltalán nem passzol a Windows Vista és a Windows 7 kinézetéhez, nincs benne támogatás az áttetszõ ablakkereteket ("glass"), és a fejlesztõk saját bevallása szerint is túlságosan nehézkes a menüsor. Ennek azonban a 3.7-es verzióval várhatóan vége szakad, a böngészõ kinézete végre teljesen passzolni fog a Windows Vistához és Windows 7-hez.
+
+
+A közzétett képek alapján végre bekerül a glass-támogatás a Firefoxba, a menüsor automatikusan eltûnik, helyet szabadítva fel a képernyõn, a gombok száma a WebKIt-alapú Safarihoz és Chrome-hoz hasonlóan kettõre csökken (oldal és eszközök), az oldalletöltés megállítása és az oldal újratöltése is egy gombra költözik, valamint eltûnik a "kezdõlap" gomb. A fejlesztõk szerint ezen módosítások révén a Firefox átláthatóbb és könnyebben használható lesz, és stílusában is jobban illeszkedik a Microsoft új asztali operációs rendszereihez.
+
+Az oldalat tovább böngészve bepillanthatunk a Firefox 4.0 várható kinézetébe is, bár a népszerû nyílt forrású böngészõ ezen verziója legkorábban 2010 második felében várható és a felvázolt képek is inkább afféle korai tervek, amik még finomításra szorulnak. A képek alapján a Firefox 4.0 a 3.7 kinézetét viszi majd tovább finomított formában. A legfontosabb újdonság a címsor és a keresõmezõ összevonása, a stop/refresh/go egy gombra költöztetése, de emellett egyéb változások is várhatók.
+A fejlesztõk szerint ezek a módosítások elsõként a windowsos Firefox-változatokat érintik, de késõbb átkerülnek a Linuxra és Mac OS X-re írt verziókba is.	     
+                  
+                  
+                  
+                   

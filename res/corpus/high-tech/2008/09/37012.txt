@@ -1,0 +1,14 @@
+Még idén elindul a Nokia beltéri navigációs rendszerének kísérleti üzeme
+
+A navigációs eszközök -- akár önálló megoldások, akár telefonok -- új célra történõ felhasználását tûzte ki zászlajára a finn Nokia: a világ vezetõ mobiltelefongyártója egy beltérben is széleskörûen használható navigációs rendszert fejleszt.
+
+
+
+A GPS-modullal ellátott navigációs berendezések és mobiltelefonok a mûholdalapú helymeghatározó rendszer jellegébõl adódóan eddig jórészt csak nyílt terepen, és behatárolt pontossággal tudták csak megállapítani a tartózkodási helyet, a Nokia mérnökei azonban most egy olyan technológián dolgoznak, mely zárt térben, épületen belül is elkalauzolja az értelemszerûen ott többnyire gyalogosan közlekedõ felhasználót. A finn cég tavaly óta fejleszt egy olyan eljárást, mely például segíthet megtalálni a színházi páholyt, a szupermarket kisgép-osztályát, vagy azt a fedett parkolóhelyet, ahol az autónkat hagytuk.
+
+A Nokia saját, Conversations weboldalán fellelhetõ rövid ismertetõ, vagy inkább élménybeszámoló egyelõre semmit nem árul el arról, konkrétan hogyan mûködik a beltéri navigálás, a technológiai háttérrõl mindössze annyi derül ki, hogy a jeleket ezúttal nyilvánvalóan nem mûholdak, hanem vezetéknélküli hálózatok küldik majd a vevõkészülékekre. Kimmo Kalliola, a cég vezeték nélküli rendszerekért és szolgáltatásokért felelõs vezetõ fejlesztõje szerint a beltéri navigáció megvalósításával kapcsolatos legnagyobb problémát nem az infrastruktúra létrehozása jelenti: az épületek feltérképezése és a megfelelõ skálázhatóság ennél jóval komolyabb munkát jelent a szakemberek számára.
+
+
+A vállalat elképzelései szerint az épületek feltérképezése közösségi szinten tud majd igazán jól mûködni, így -- bár errõl sincsenek további konkrét információk -- a megfelelõ szoftverek segítségével vélhetõen bárki készíthet bármilyen épületrõl belsõ térképet, és azt utána közzéteheti az interneten, lehetõséget adva másoknak a használatra, illetve a  módosításokra. A Nokia jelenleg a vállalat mintegy negyven irodaépületét modellezte le a kísérleti fázishoz, illetve elkészültek az elsõ középületek -- bevásárlóközpontok, repülõterek és egyetemek -- belsõ térképei is.
+
+Az elsõ publikus kereskedelmi szolgáltatást még idén elindítja a cég egy Helsinkiben található bevásárlóközpontban. Ezt követõen az alkalmazás várhatóan felkerül a Nokia bétaállapotú szoftvereit közzétevõ Beta Labs weboldalra is, ahonnan bármelyik kísérletezni vágyó felhasználó letöltheti majd a beltéri navigáció alapját jelentõ rendszert az arra alkalmas készülékére.

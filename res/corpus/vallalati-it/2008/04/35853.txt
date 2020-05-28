@@ -1,0 +1,10 @@
+Elkészült és jövõ keddtõl bárki számára letölhetõ lesz a Windows XP SP3
+
+A Microsoft tegnap bejelentette, hogy befejezte a Windows XP SP3-at, és elérhetõvé tette a számítógépgyártók, valamint a mennyiségi licencvásárlók számára. A nagyközönség április 29-tõl kezdve töltheti le a javítócsomagot a Windows Update-rõl vagy a Microsoft weboldaláról. Annak, aki rögtön telepíteni szeretné az SP3-at, kézzel kell majd beállítania a letöltését -- a korábban is megbízható információkat közlõ maláj TechARP.com alapján az automatikus frissítések között csak június 10-én tûnik fel a javítócsomag.
+
+
+
+A Windows XP utolsó szervizcsomagja több mint száz hibajavítást tartalmaz, szokás szerint nem csak a második szervizcsomag óta megjelentek találhatók meg benne, hanem minden frissítés, amit a Windows XP-hez kiadott a Microsoft. A javítások közül számosat a Vistából emeltek át, többek között a hálózati hozzáférés védelme is ezzel erõsödött, illetve a titkosító algoritmusok kezelése is ennek köszönhetõen javult. Módosítottak az aktivációs folyamaton is: a javítócsomaggal frissített operációs rendszer elsõ telepítés után már 30 napig mûködik aktiválás nélkül -- ugyanúgy mint a Vista, vagy a Windows Server 2003 SP2. Eddig a Windows XP telepítése nem történhetett meg valódi termékkulcs nélkül, az installálás egyszerûen nem futott le.
+
+
+ Az SP3-mal frissített Windows XP-változatok június 30-ig megtalálhatók lesznek a boltok polcain, kivéve a Media Center és a Tablet PC verziókat, ezeket az internetrõl lehet frissíteni. A Windows XP különféle verzióihoz 2009-ig, vagyis a Windows XP SP2 megjelenését követõ öt évig lesz "mainstream" támogatás. Az eredeti tervek szerint 2009-tõl kezdõdõen csak a vállalati felhasználásra szánt Windows XP Professionalhoz adtak volna ki javításokat, azonban a Microsoft végül úgy döntött, nem csak a Windows XP Professional Edition, hane a Home Edition és Media Center Edition is részesül majd a kiterjesztett támogatásban, amelybe a biztonsági és egyéb javítások kiadása és kérés esetén új funkciók fejlesztése mellett beletartozik az ingyenes és fizetõs telefonos és online támogatás is.

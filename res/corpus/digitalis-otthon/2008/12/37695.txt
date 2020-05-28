@@ -1,0 +1,24 @@
+Játékra is alkalmasak lehetnek a jövõre érkezõ, NVIDIA Ion-alapú netbookok
+
+Hamarosan saját netbookplatformmal jeletkezik az NVIDIA, a vállalat az Apple noteszeiben is használt GeForce 9400M chipkészletet párosítaná az Intel Atom processzoraival annak érdekében, hogy a jelenleginél fejlettebb grafikus képességekkel rendelkezõ aprócska PC-k születhessenek.
+
+
+
+HD-videó és Call of Duty 4 egy netbookon?
+
+Az NVIDIA saját netbookplatformot hozott létre, az Iont, amelynek alapja a GeForce 9400M chipkészlet, amely egy teljes DX10-gyorsításra kifejlesztett, HD-videók lejátszására optimalizált grafikus magot tartalmaz. A vállalat szerint az Ion köré olyan netbookok építhetõk, amelyek a ma elvárható színvonalat hozzák a grafikus és multimédiás alkalmazások futtatásakor is, megszabadítva a netbookokat az Intel 945 chipkészletbe integrált lassú videovezérlõ jelentette korlátoktól.
+
+A grafikus chipjeirõl ismertté vált amerikai cég azt ígéri, hogy egy Ion-alapú netbookon kiválóan fut majd a Windows Vista Areo grafikus felülete vagy akár a Windows 7, a gépeken -- külsõ megjelenítõre kapcsolva -- akár 1080p felbontású videókat is zökkenésmentesen lehet majd nézni, de akár a legújabb játékok, a Call of Duty 4 vagy a Spore is játszhatók anélkül, hogy ezt a netbook akkumulátoros üzemideje jelentõsen megsínylené. 
+
+Atom + GeForce 9400 = NVIDIA Ion
+
+A GeForce 9400 egy integrált grafikus vezérlõt tartalmazó chipkészlet, ami valójában egyetlen lapkából áll. Ez tartalmazza a kétcsatornás DDR3 memóriavezérlõt, a hangvezérlõt, a gigabites Ethernet-vezérlõt, PCI Express és USB-csatolókat, valamint a legfeljebb 2560x1600 pixeles felbontást támogató grafikus magot, amely 16 egységesített shadert vonultat fel és az NVIDIA állítása szerint ötször-tízszer gyorsabb az Intel hasonló megoldásánál. Az Intel jelenlegi netbookpltaformja a 945 northbridge-bõl és az IC7 southbridge-bõl áll, a 9400 a két lapka funkcionalitását egyben nyújtja, ezért kevesebb helyet foglal és a hõtermelése is hasonló, ezért nem igényel erõsebb hûtést.
+
+Megfizethetõ, HD-képes PC-k kora
+
+A netbookok villámgyorsan a fogyasztók kedvenceivé váltak, azonban több gyártó visszajelzései szerint sok vásárló pár nap után egyszerûen visszaviszi a boltokba ezeket a gépeket, amikor kiderül, hogy a képességeik korlátozottak. Az NVIDIA-nál úgy látják, a GeForce 9400-ra épülõ netbookok esetében kisebb a kockázat, hiszen a fogyasztók akár játszhatnak is rajtuk vagy HD-videókat is nézhetnek, vagyis a funkcionalitást tekintve semmiben sem maradnak el egy "teljes méretû" notebooktól.
+
+
+ "Egészen mostanáig a megfizethetõ PC és a HD-képes PC egymást kizáró tényezõk voltak" -- mondta Drew Henry, az NVIDIA chipset-üzletágának vezetõje. "Az Ion platform a GeForce 9400-at a nagyszerû Intel Atom processzorral párosítva lehetõvé teszi a vásárlók számára hogy szörfözzenek a neten, játsszanak a legújabb játékokkal, fotókat szerkesszenek és videókat nézzenek -- nagyfelbontásban."
+
+Egyelõre nem nyilvános azoknak a cégeknek a listája, amelyek Ion-alapú konfigurációkkal jelentkeznek. Az NVIDIA szerint a platformra épülõ elsõ asztali gépek már tavasszal a boltokban lehetnek, a netbookok pedig a nyár elején érhetik el a fogyasztókat. Ezekbe a gépekbe alighanem már az Intel kétmagos Atom N330 vagy N370 processzora kerül.

@@ -1,0 +1,18 @@
+Digg: vakvágány a szenzációhajhászás
+
+Kevin Rose, a Digg alapítója azt állítja, hogy a közösségi hírajánló és -értékelõ rendszerük nem mûködik elég jól ahhoz, hogy elérje a szûkebb érdeklõdéssel rendelkezõ embereket is, pedig a szolgáltatás fejlõdéséhez és a felhasználók lekötéséhez erre lenne szükség.
+
+
+
+Rose egy szakmai konferencián tartott elõadásában bevallotta, hogy nem végeztek igazán jó munkát a kis érdeklõdést vonzó, de nagy mennyiségben elõforduló tartalmak (long tail elmélet) kapcsán, éppen ezért a következõ két évben a fejlesztõk a hasonló érdeklõdésû felhasználók összekötésére fognak fókuszálni. Olyan eszközöket kell adni az internetezõk kezébe, amivel képesek megosztani azokat a híreket, melyek nem szükségszerûen a tömeg érdeklõdésének középpontjában vannak, hanem alkalmasint egyéni érdeklõdést, speciális kíváncsiságot, lokális igényeket elégítenek ki. Amennyiben ez nem sikerül, akkor veszélybe kerülhet a Digg jövõje, elhervadhat a csodagyerek, Kevin Rose hirtelen nagyra nõtt birodalma.
+
+A londoni "Future of Web Apps" konferencián elhangzottak alapján a Digg oldalait felkeresõ havi 30 millió ember közül mindössze 3 millió regisztrált tag, amibõl kitûnik, hogy valami még hiányzik ahhoz, hogy tényleg tudatosan elkezdjék használni a rendszert az emberek. Mivel nem valószínû, hogy a pár perces regisztrációs procedúra riasztaná el az embereket, amit megtesznek a YouTube-on, MySpace-en vagy bármely más oldalon is, ezért Rose úgy véli, hogy a látogatók nem érzik egyedinek a szolgáltatást, nem érdekük bejelentkezni és komplexen használni azt.
+
+Kevin Rose: Dot-commander
+
+A júliusban bemutatott új ajánlórendszer viszont már figyelemmel kíséri minden látogató keresési elõzményeit, majd összehasonlítja más emberekével. Késõbb feldolgozza a felhasználók közti kapcsolatot a különbözõ tematikákban és meghatározza a kapocs erõsségét is. Ez a  relevancia-alapú háló segít abban, hogy a speciális érdeklõdés is kielégíthetõ legyen, illetve a többiek találatainak és elõzményeinek figyelembevételével a nem népszerû, de az adott személy számára érdekes tartalmak is felszínre kerüljenek. Mióta az "Upcoming", azaz "hamarosan jön" funkciót beépítették, azóta a felhasználók négyszer több új embert jelölnek barátnak a rendszerben, illetve 40 százalékkal többet kutakodnak a linkek között, mint eddig. Ez pedig több forgalmat jelent a Diggnek, reményt a jövõre nézve -- vonta le a konklúziót Rose a konferencián tartott elõadásában.
+
+
+Az alapító ezen túlmenõen részletesebb osztályozási lehetõséget és komplexebb szempontrendszert is akar. A cél, hogy a felhasználók sokkal jobban testreszabott oldalakat hozhassanak létre maguknak, ahol megjelennek a számukra érdekes, valóban igényelt hírek. Az értékelések rendszerét is fejleszteni kell, valamiféle jutalmat, motivációt kell adni az embereknek, mert az "eggyel növeltem a számot" érzés kikopik: unalmassá válik csak jóindulatból foglalkozni a hírek értékelésével. Ráadásul a túlzott szabadság a tartalom felett automatikusan szenzációhajhásszá teszi a szolgáltatást, ami így könnyen félrevezetõ, hamis híreket emelhet ki az ésszerû kritika teljes nélkülözése miatt.
+
+A jelenleg a Microsofttal kötött három éves bannermegjelenítési szerzõdésbõl élõ webkettes szolgáltatás jövõje tehát az alapító Kevin Rose szerint azon múlik, hogy a felhasználói interakciót ki tudja-e terjeszteni a kommersz hírek mellett a tematikus területekre is, képes-e valódi relevanciát adni közösségi alapokon. Az új funkciók, lehetõségek mellett pedig a nemzetközi terjeszkedés is napirenden van. A kaliforniai Rose szeretné, hogy a spanyol, német és japán klónokat újabbak is kövessék a következõ fél évben. 

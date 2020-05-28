@@ -1,0 +1,11 @@
+A világ elsõ SATA 3.0 merevlemeze
+
+Az új Barracuda XT egy percenként 7200 fordulatú merevlemez, amelyet leginkább nagy teljesítményû asztali gépekbe, munkaállomásokba és belépõ szintû szerverekbe ajánl a Seagate. A 2 terabájtos kapacitást természetesen merõleges adatrögzítés segítségével éri el a meghajtó. A pufferelt átvitelt 64 megabájtos cache segíti.
+A Serial ATA 3.0 szabványt még májusban fogadta el a fejlesztésre létrejött iparági munkacsoport. A Serial ATA 6Gbps-ként is emlegetett interfész nevéhez híven megduplázza közvetlen elõdje, illetve megnégyszerezi az elsõ generációs eszközök átviteli sebességét, így a rá csatlakoztatott tárolóegységek számára egy elméletileg 6 gigabit/másodperces áteresztõképességû adatáttovábbító csatorna áll majd rendelkezésre. A szabvány egy új NCQ (Native Command Queueing) parancsot is támogat, mely az audio- és videotartalmak gördülékenyebb streamelését segíti, emellett energiatakarékosabb üzemmódot is ígér az új technológia.
+
+Az új szabvány teljes visszamenõleges kompatibilitást ígér a SATA I és SATA II rendszerekkel, így az interfész csatlakozója sem változik, a kisebb eszközök (jellemzõen 1,8 hüvelykes merevlemezek) számára azonban létrehoztak a fejlesztõk egy kompakt csatolót, emellett a vékony noteszgépeknél használt 7 milliméter magas optikai egységekhez is készült egy újfajta konnektor.
+A Serial ATA 3.0 szabvány bevezetésébõl elsõsorban nem a merevlemezek, hanem az SSD-k profitálhatnak majd, amelyek teljesítményét a közeljövõben már korlátozhatja a SATA 2.0 maximális átviteli sebessége. A Seagate is elismei, hogy a SATA 3.0 felületû merevlemez egyelõre egy rétegtermék, leginkább a PC-jükre pénzt nem sajnáló játékõrülteknek, illetve munkaállomásokba és belépõ szintû szerverekbe szánja a cég a Barracuda XT-t. 2011 körül azonban a vállalat szerint már általánosan elterjedtek lesznek a SATA 3.0 meghajtók, addigra valószínûleg minden alaplapon helyet kap SATA 3.0 vezérlõ is már.	     
+                  
+                  
+                  
+                   

@@ -1,0 +1,20 @@
+Hiába kapaszkodik, továbbra is lejtõn a Sun Microsystems
+
+Hatalmas veszteséget könyvelt el a Sun Microsystems egyszeri értékvesztési leírások következtében, ugyanakkor e nélkül is gyatra pénzügyi teljesítményrõl volt kénytelen számot adni a vállalat. A vállalat forgalma a dollár gyengélkedése ellenére olvadt,  ezzel párhuzamosan pedig termékértékesítésének nyereségessége is jelentõsen leromlott.
+
+
+
+Lecsúszás
+
+A Sun Microsystems 1,68 milliárd dollár veszteséget szenvedett el a harmadik negyedévben, mely elsõ pénzügyi negyedéve. Ebbõl 1,45 milliárdot tett ki a cég könyv szerinti értékének kényszerû csökkentése a cég pénzügyi mutatóinak és tõzsdei kapitalizációjának hatására. A leírás nagy része a StorageTek három évvel ezelõtti, 4,1 milliárd dollárt értékû felvásárlásával megszerzett goodwillhez (eszmei érték) kapcsolódik. A rendkívüli hatások nélkül a cég folytatólagos tevékenységébõl származó eredménye 65 millió dolláros veszteség, szemben a tavalyi 285 milliós nyereséggel.
+
+A vállalat árbevétele 7,1 százalékkal olvadt éves szinten, és 2,99 milliárd dollárt tett ki. A szolgáltatásokból származó forgalom lényegében stagnált, a termékértékesítés viszont 11 százalékkal esett vissza, miközben az euró ebben az idõszakban erõsebb volt a dollárhoz képest, mint egy évvel korábban -- a cég forgalmának 32 százaléka származott Európából. Ezzel egyidõben a nyereségességet jól jelzõ bruttó profithányad is hanyatlott, éves szinten 8,3 ponttal 40,2 százalékra, amit elsõsorban a termékértékesítés profithányadának közel 13 százalékpontos esése okozott -- a cég forgalmának 59 százaléka származik termékekbõl, ebbõl mintegy 55 százalékpontnyi szerverek és tárolók értékesítésébõl, a maradékot a szoftverek teszik ki.   
+
+
+A nagyvállalati SPARC-szerverek forgalma 27 százalékkal esett vissza, amit nagy részben ellensúlyozott a Niagarával létrehozott nagy párhuzamosságú, úgynevezett SPARC CMT-szerverek értékesítésének 83 százalékos emelkedése -- ezek azonban jóval olcsóbbak a hagyományos SPARC-rendszereknél. Probléma az is, hogy az x86-os kiszolgálók értékesítésébõl származó bevétel sem növekszik dinamikusan, az elõzõ éveket jellemzõ kezdeti lendület idénre kifulladt, a kereslet az olcsóbb rendszerek  felé tolódott, hiába növekedett 39 százalékkal a leszállított x86-szerverek száma, elérve a 32 ezret. Ráadásul az ezekbõl származó bevétel is visszafogott, lényegében a Niagara-rendszerek felét érték el.
+
+Bizonytalan jövõ
+
+A Sun üzleti modellje lényegében a számítógéprendszerek értékesítésére épít, és ehhez kapcsolódnak támogatási és egyéb szolgáltatásai is. Jelentõs önálló, a Sun-hardvertõl független szoftvereladások nélkül pedig a cég teljesítményét a elsõsorban számítógéprendszerek piaci szereplése határozza meg -- ezek forgalma 17 százalékkal esett egy év alatt, miközben a nyereségességük ennél nagyobb mértékben romlott az értékesítési mix olcsóbb rendszerekkel való folyamatos hígulásával. A Niagara-rendszerek jelenleg a Sun egyetlen ütõképes termékcsaládját képezik, melyek láthatóan rést találtak a piacon. A Rock kódnéven ismert UltraSPARC processzor, mely a hagyományos SPARC-rendszerek vérvonalát frissíti majd, csak 2009 második felére várható, addig a Sun továbbra is a Fujitsu SPARC64-re épülõ szervereit kénytelen saját neve alatt forgalmazni.
+
+A Sun Microsystems bár rengeteg, a piacot meghatározó szoftveres fejlesztéssel rendelkezik, mint a Solaris, a Java, a MySQL, PostgreSQL, vagy a OpenOffice.org alapjait adó StarOffice, életképes önálló üzleti modell továbbra sem tudott mögéjük rakni. A MySQL 1 milliárd dollár értékû felvásárlásával szemben a Sun infrastrukturális szoftverpalettája, a MySQL-lel együtt, 37 millió dolláros forgalmat tudott generálni a negyedévben -- ez a cég bevételének 1,2 százaléka. Ha a MySQL-t sikerre is viszi a Sun az adatbázispiacon,  legkorábban a következõ évtizedre lesz képes számottevõ forgalmat generálni belõle, mintegy második lábat növesztve a hardverekhez kötõdõ forgalom mellé. Addig azonban a cégnek továbbra is lényegében egy bizonytalan lábon kell egyensúlyoznia, melyet leginkább a Rock, valamint a Niagara-kiszolgálók további terjedése erõsíthet meg. 

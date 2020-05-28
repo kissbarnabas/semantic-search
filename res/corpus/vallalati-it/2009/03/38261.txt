@@ -1,0 +1,14 @@
+Üzleti intelligenciát integrál középvállalati csomagjába az SAP
+
+Üzleti intelligenciával kívánja felvértezni az SAP középvállalatoknak szánt vállalatirányítási (ERP) megoldását. Az üzleti alkalmazások német óriás a CeBIT-en jelentette be, hogy a Business Objects felvásárlásával megszerzett üzleti intelligencia eszközökkel tervezi beoltani Business All-in-One csomagját.
+
+
+
+Az SAP a növekvõ, közepes méretû, 20 és 500 alkalmazott közötti vállalatoknak kínálja az üzleti intelligenciával felvértezett üzleti alkalmazáscsomagját, mintegy konszolidációs platformként az elburjánzott, egymástól elszigetelt üzleti és riportkészítõ alkalmazásokkal szemben. Az üzleti intelligenciával beoltott Business All-in-One 2009 végén jelenik meg, elsõként az Egyesült Államokban, Németországban és Brazíliában, majd 2010-ben további országok csatlakoznak. Az árazás egyelõre nem ismert. A Business All-in-One bevezetése a minimális 20 felhasználóval mintegy 28-36 millió forintot emészt fel az SAP saját listaáras becslése alapján.
+
+Tekintve, hogy a közepes méretû cégek jellemzõen sokkal kevesebb erõforrást akarnak és tudnak fektetni az üzleti alkalmazások testreszabásába, a Business All-in-One elõre felépített riportokkal és dashboarddal rendelkezik. Elemzõk szerint a középvállalatok számára kínált üzleti szoftvereknél egyértelmûen az elõre felépített eszközöké a jövõ, mivel a teljes testreszabás rendkívül költséges, a szoftver licencdíjának többszörösére is rúghat. Az SAP szerint egyetlen, integrált eszköz alkalmazásával konzisztens, átlátható képet kaphat a vezetõség a cég mûködésérõl, egyúttal lehetõség nyílik majd tetszõleges, ad-hoc lekérdezésekre és elemzésekre is.
+
+
+A régi üzleti rendszerekben tárolt adatok migrációjához az SAP támogatást is tervez kínálni partnerein keresztül, így csökkentve a bevezetési projektek futamidejét és kockázatait. A német szoftveróriás által rendelkezésre bocsátott adatmigárciós eszközök a migráció teljes ciklusában igyekeznek segíteni, beleértve az adatok kinyerésétõl kezdve azok struktúrálásán és validációján át a Business All-in-One-ba történõ áttöltésig és a több helyen tárolt adatok összefésüléséig. Ehhez az SAP egy Best Practices for Data Migration csomagot is rendelkezésre bocsát majd, mely rengeteg referenciafolyamatot és leírást tartalmaz majd.
+
+Az SAP másfél éve kebelezte be az üzletiintelligencia-megoldások piacát vezetõ Business Objectset, hogy annak eszközeit saját vállalatirányítási rendszereivel szorosabban integrálja. A mostani bejelentés ennek egyik gyümölcse. Az üzleti intelligencia elemzõk és az iparág szerint egyre inkább a vállalati alkalmazások fókuszpontjába kerül, és kulcsszerepet tölt be az üzleti szoftverek beszállítói közötti versenyben. Az elmúlt évek során az SAP mellett az Oracle, az IBM, és a Microsoft is felvásárlásokat hajtott végre ezen a területen, összesen több mint 15 milliárd dollár értékben.

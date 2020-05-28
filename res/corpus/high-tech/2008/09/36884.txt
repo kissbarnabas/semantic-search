@@ -1,0 +1,30 @@
+Az érzelmeket is kibányássza a telefonhívásokból egy magyar fejlesztésû szoftver
+
+A kulcsszavak mellett érzelmeket is detektálni képes magyar hangbányászati szoftverrel rukkolt elõ a Nextent és területre szakosodott leánya, a Data Research, amellyel kifejezetten a telefonos ügyfélszolgálatok eredményességének javítását célozzák. A magyar piacra elsõként lépõ megoldás algoritmikus hátterét a Szegedi Tudományegyetem mesterséges intelligenciával foglalkozó kutatói fejlesztették ki.
+
+
+
+Rejtett tartalékok
+
+Az ügyfélelégedettség manuális eszközökkel történõ mérése a kis mintavétel miatt pontatlan, nagyszámú ügyfél esetében nem teszi lehetõvé az egyéni elégedettségi mutatók gazdaságos kinyerését és betáplálását a cég CRM-gépezetébe, pedig üzletileg értékes információkkal bír. Olyasmi ez, mint amikor ismert egy olajmezõ, a kitermelés azonban nem kifizetõdõ az aktuális olajárak és költségek közepette -- hasonlította az ügyfélszolgálat helyzetét Kovács Gyula, a Data Research ügyvezetõ igazgatója. 
+
+Az ügyfélszolgálati hívásoknak csak átlagosan 1 százalékát hallgatják vissza és értékelik ki a vállalatok, és ebbõl a mintavételbõl készítenek  kimutatásokat. Bár az ügyintézõk sok esetben készítenek feljegyezéseket, ezek sokszor pontatlanok, mondta el Bódogh Attila, a Nextent üzletfejlesztési igazgatója. Pedig a hívásoknak átlagosan 8 százaléka bizonyul problémásnak, ilyenkor a cégnek indokolt volna aktívan foglalkozni az üggyel. A hiányos információk miatt azonban erre valójában nem nyílik lehetõség, az üzleti intelligencia egyszerûen nem szerez idõben tudomást arról, hogy a vállalatnak lépnie kellene. Sok helyen bár van lemorzsolódást elõrejelzõ modell, ezeket hetente vagy havonta futtatják jellemzõen, ami túlságosan lassú a sokszor mindössze 24 órás "reakciós ablakhoz". 
+
+
+ A Voice Miner lényegében a call-centerek tárolt telefonbeszélgetéseiben lévõ adatok kibányászását teszi gazdaságossá. Az automatizációval lehetõség nyílik az összes beszélgetés feldolgozására és kiértékelésére, így a problémákról gyors és átfogó képet kapnak a vezetõk, és lehetõség nyílik arra is, hogy az eredmények alapján reaktív módon tegyenek az adott ügyfél megtartásáért -- amennyiben üzletileg érdemes. Az adatvédelmi biztos állásfoglalása alapján ehhez nem szükséges explicit nyilatkozat az ügyfél részérõl, ugyanakkor a tapasztalatok alapján a vállalatok a szerzõdésekbe belefoglalják.
+
+
+
+Hungaricum
+
+A Szegedi Tudományegyetemhez tartozó Mesterséges Intelligencia Kutatócsoport egy olyan matematikai modellt fejlesztett ki specifikusan hanghívások elemzésére, mely képes egy elõre megadott szótár alapján felismerni a kulcsszavakat, azonosítani ötféle érzelmi állapotot (elégedett, elégedetlen, szomorú, ideges, semleges), valamint szétválasztani az ügyfelet az ügyintézõtõl. Ez utóbbi lehetõvé teszi azt is, hogy az ügyfélszolgálatosok munkáját is szorosan nyomon kövessük, például követik-e a protokollt, milyen hangnemben kommunikálnak.
+
+A szoftver nem csak összesített mutatókat prezentál, hanem képes megmutatni azt is, adott beszélgetés alatt hogyan alakultak a hívó érzelmei, milyennel nyitott, és milyennel zárt, így maga a változás természete lehet akár az ügyfélszolgálat munkájának mércéje. Az egyes érzelmek kimutatása nem bináris módon történik, hanem valószínûségi mutatóval, mely egyúttal jelzi az érzelem erejét is. Bódogh elmondta, hogy 70 százalék alatt gyengének tekinthetõ az érzelem, míg kifejezetten erõsnek 90 százalék felett. A színlelt érzelmeket is eredményesen szûri a rendszer, legalábbis a demonstráción lepontozta az ügyfél álcsalódottságát. A kulcsszavas indexeléssel a hívások tematikájából is készíthetõ összesített riport, így a vezetõk látják, milyen témákban keresik fel cégüket.
+
+ 
+
+A webes felületen ellátott Voice Miner adatbányászati alkalmazás Oracle adatbázisra csatlakozik, és J2EE alkalmazásszervert igényel. Processzoronként tipikusan heti 3000 órányi beszélgetést képest feldolgozni, ráadásul a szoftverlicenc független a processzorok számától, így tetszõleges teljesítményre lehet skálázni -- a valós idõhöz képest 5-10 szeres sebességet lehet elérni egy átlagosnak mondott PC-n. Jelenleg Linux/x86 platformot támogat, de a C++ kódot tetszõleges architektúrára le lehet fordítani, árulta el Dr. Kovács Kornél mesterségesintelligencia-kutató. 
+
+A Voice Miner hangbányászó modelljét mintegy 500 óra telefonos élõbeszéd, nem pedig elõre megírt szöveg felolvasása alapján fejlesztették ki a beszélgetések felszeletelésével és a mintázatok azonosításával, mondta el Dr. Kocsor András kutató. A munkában matematikusok és programozók mellett nyelvészek és adatfeldolgozók is részt vettek. A beszédkutatás területe nem csak piaci, de tudományos szempontból is robbanás elõtt áll, véli Kocsor, ugyanis a publikációk túlnyomó többsége a magas fokon stilizált szövegfelolvasásra koncentrál, és így felépített modellek nem alkalmasak a spontán beszéd elemzésére. Hatalmas potenciál lakozik például az online elréhetõ rádiós és televíziós adások indexelésében, jegyezte meg a kutató. 
+
+A Nextent hangbányászati megoldása jelenleg egy energia- és egy mobilszolgáltatónál áll bevezetés alatt, közölte Bódogh, és elsõsorban ezeket, továbbá a pénzügyi szektort célozzák kezdetben. A szoftver moduláris felépítésû, a kulcsszavas és az érzelemfelismerõ modulok egyenként 10 millió forint alatti licencdíjjal bírnak, és további opcióként integrálhatóak figyelmeztetõ, minõségbiztosítási, lemorzsolódási és kampánymérõ modulok is. A Nextent szerint a bevezetéstõl fogva 2-3 hónap múlva mutatkoznak az elsõ eredmények. A jövõbeni fejlesztési irány az a modell pontosabbá tétele mellett, hogy a Voice Miner segítségével már a hívás kezdetekor lássa az ügyfélszolgálatos a hívó hangulatát és várható viselkedését.

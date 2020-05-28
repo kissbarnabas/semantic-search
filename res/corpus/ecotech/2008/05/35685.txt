@@ -1,0 +1,14 @@
+Továbbra is olvad a Radeonok részesedése, de közeleg az R700
+
+Vegyes megítélésû elsõ negyedévet zárt a PC-s grafikus chipek piaca. A szállítások a vártnál nagyobb mértékben estek vissza a negyedik negyedévhez képest, éves összehasonlításban ugyanakkor remek mutatókat produkáltak.
+
+
+
+Az idei elsõ negyedév során mintegy 95 millió grafikus chipet szállítottak le világszerte személyi számítógépekbe, becsli a területre szakosodott Jon Peddie Research (JPR). Ez 5,6 százalékkal múlja alul a negyedik negyedévet, ami immár második éve szokatlanul nagymértékû gyengülés, éves összevetésben ugyanakkor 20,2 százalékos bõvülés figyelhetõ meg -- igaz, ennek egy részét a tavalyi elsõ negyedévben gyengélkedõ piac magyarázza.
+
+Grafikus chipekbõl természetesen továbbra is az Intel szállította le a legtöbbet, köszönhetõen integrált megoldásainak, ráadásul 4 százalékponttal 42,7 százalékra növelte részesedését egy év alatt. Szintén növelte szeletét az NVIDIA, mely 32,7 százalékkal kaparintotta meg a második helyet, miután a legnagyobb ütemû, 37,8 százalékos növekedést mutatta fel GeForce processzorainak köszönhetõen. A többi gyártó, teret vesztett, az AMD szállításai gyakorlatilag stagnáltak, így 3,3 százalékpontot vesztve 18,6 százalékot ért el, míg a Matrox, a SiS és a VIA szállításai is visszazuhantak, és rendre 0,11, 1,65 és 3,91 százalékot szereztek meg.
+
+
+Az asztali szegmens 62,3 millió darabot tett ki, vagyis a teljes piac 65,7 százalékára rúgott, míg a mobil grafikus chipekbõl 32,6 milliót szállítottak le -- ez utóbbi 5 százalékos csökkenést jelent a negyedik negyedévhez képest, amit évek óta nem tapasztalt a piac. Az Intel és az NVIDIA szoros csatát vív az asztali piacon, 38 és 36 százalékra rúgott részesedésük, míg az AMD-nek 19 százalékkal kellett beérnie. A notebookok terén szétszakadt a mezõny, az Intel 53, az NVIDIA 27, az AMD pedig 17 százalékot tudhatott magáénak.
+
+A JPR óvatosan tekint a jelenleg is folyó második negyedévre, ugyanis sem az AMD, sem az NVIDIA nem tervez nagyobb termékbevezetést. A gyártók ugyanis minden bizonnyal az év közepére és második felére készülnek következõ generációs termékeikkel. Az AMD R700 kódnéven ismert fejlesztése decemberben fejezõdött be, és azóta már termékközeli állapotba jutott el a HWSW ismeretei szerint. A új generációs chipekre épülõ videokártyák nagyjából kétszeres teljesítményt kínálnak majd az R600-as társaikhoz képest, azonos áron. Az azóta az AMD-be olvadt ATI lényegében második éve folyamatosan teret veszít a piacon, miután megcsúszott fejlesztései miatt súlyos lépéshátrányba került az NVIDIA-val szemben.

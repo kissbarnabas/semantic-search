@@ -1,0 +1,14 @@
+Az Apple Safari és az Internet Explorer együtt már komoly rés a pajzson
+
+[Techworld] Sokkal komolyabbá válik az Apple Safari böngészõjében talált biztonsági rés, ha az Internet Explorerben egy éve foltozatlannal együtt használják ki. A két biztonsági probléma együtt kritikus problémát jelent, teljesen védtelenné teszi az internetezõt, akinek számítógépére könnyen telepíthetnek rosszindulatú alkalmazásokat az internetes támadók.
+
+
+
+A két biztonsági rés külön-külön csak közepesen veszélyes besorolást kapott, talán ennek köszönhetõ, hogy a Microsoft -- aki most a Safari használatának mellõzését kéri az internetezõktõl -- még mindig nem javította azt, táptalajt adva ezzel a Safari hibáját is felhasználó támadóknak. A probléma ilyen súlyosan természetesen csak a Windowsot futtató Safari-tulajdonosokat érinti, hiszen más operációs alá nincs Internet Explorer.
+
+A Safariban május 15-én talált hibára a minap megjelent óriási frissítõcsomag sem gyógyír. A hibát kihasználva a támadó futtatható programokat indíthat a felhasználó számítógépén. Ez önmagában még nem lenne olyan hatalmas probléma, a rosszindulatú programokat azonban egy Internet Explorer rés felhasználásával be lehet juttatni a windowsos rendszerekbe. Külön-külön egyik sem okozna orbitális problémát, együtt azonban "halálos" kombináció.
+
+
+A Safarival együtt jelenlévõ rést már komolyabban veszi a Microsoft, mely egy javításon is dolgozik, illetve jegyzetet is kiadott a felfedezett problémáról. A redmondiak azt ajánlják, hogy hanyagolják a Safari böngészõt a felhasználók addig, amíg a Microsoft, vagy az Apple nem jelentkezik egy javítással.
+
+A hiba minden Windows XP és Vista operációs rendszer változatot érint. Az Apple egyhamar nem valószínû, hogy javítást adna ki a Safarihoz ezzel a réssel kapcsolatban, hiszen nem tartja ezt komoly biztonsági problémának -- ezzel a véleményéval ki is húzta a gyufát az amerikai vállalat a biztonsággal foglalkozó közösségnél.

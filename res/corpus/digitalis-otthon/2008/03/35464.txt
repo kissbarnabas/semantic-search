@@ -1,0 +1,32 @@
+Atom néven kerülnek piacra az Intel ultramobil chipjei
+
+Atom márkanéven dobja piacra új, ultramobil területre szánt chipjeit az Intel, mellyel azok apró méretére kíván utalni. A korábban Silverthorne kódnéven ismert processzor és a hozzá tervezett Poulsbo chipkészlet egy új fejlesztési ágat képeznek, és architekturális szempontból is radikálisan különböznek a hétköznapi PC-chipektõl.
+
+
+
+Atomkicsi, atomolcsó, atomkeveset eszik
+
+A Silverthorne családot az Intel kifejezetten az ultramobil, valamint olcsó kliensek (például vékony kliensek) területét szem elõtt tartva fejlesztette ki. A Silverthorne mikroarchitektúrája nem tekinthetõ egyetlen jelenlegi, vagy korábbi Intel processzor egyeneságú leszármazottjának, noha a korábbi tapasztalatok, megoldások egy részét kétségtelenül felhasználták a mérnökök. A Silverthorne kifejezetten a mobil internet terminálokat célozza, míg derivatívája, a Diamondville magasabb órajeleken és PC-chipset társaságában az olyan ultrahordozható notebookokat, mint az ASUS Eee PC, valamint vékony klienseket.
+
+Az Intel 45 nanométeres eljárásán implementált egymagos chip mindössze 47 millió tranzisztorból épül fel és 25 négyzetmilliméter területû, szemben például a szintén 45 nanométeres technológiával termelt Penryn-magos Core 2 Duo 410 millió tranzisztorával és 107 négyzetmilliméterével. A miniatûr fizikai méretek rendkívül alacsony, néhány ezer forintos termelési költséget és kompaktabb rendszereket eredményeznek.
+
+A Silverthorne utasításkészlete megegyezik a Core 2 Duóéval az Intel ígérete szerint, vagyis minden arra optimalizált szoftver újrafordítás nélkül lesz képes futni rajta -- támogatja a 64-bites végrehajtást és az SSE4 vektorkiegészítéseket is. Az új mikroarchitektúra fele olyan széles, mint a Core, négy helyett órajelenként kettõ utasítás dekódolását tudja elvégezni legfeljebb, továbbá nem rendelkezik soronkívüli végrehajtással, vagyis hiányzik belõle az x86-os processzorokban a Pentium Próval több mint egy évtizede debütált komplex dinamikus utasításütemezés és újrarendezés. Az Intel azt ígéri, teljesítménye így is eléri egy Banias (legelsõ Pentium M) szintjét.
+
+Az alacsony tranzisztorszámnak, az alacsony fogyasztást szem elõtt tartó felépítésnek, és egy mélyebb, nyugalmi C6-os energiaszint bevezetésének köszönhetõen a Silverthorne rendkívül takarékosnak ígérkezik: az Intel állítása szerint energiafelvétele az ultraalacsony feszültségû Dothan (90 nanométeres Pentium M) tizedére csökkenthetõ. A Silverthorne és Diamondville termékek thermikus kerete (TDP) 0,6 és 2,5 watt között alakul majd, az órajel pedig elérheti az 1,8 gigahertzet -- összehasonlításképpen a Penryn egy maggal 1,4 gigahertzet ér el 5,5 wattból. Az 512 kilobájt méretû másodszintû gyorsítótárral bíró lapka kétmagos változata tervezés alatt áll.
+
+Centrino Atom
+
+A Silverthorne és a Poulsbo chipset alkotta Menlow platform, mely kifejezetten a kézi mobil internet terminálok (mobile internet device, MID) területét veszi célba, Centrino Atom néven mutatkozik be, a hírek szerint még az év elsõ felében. A Poulsbo egyetlen magas integráltságú chipbõl épül fel, és DDR2 memóriát hajt meg. Az Intel jelenlegi ultramobil platformja, a McCaslin gyakorlatilag csak egy "elavult", alacsony fogyasztású Centrino-platform (Sonoma), így alkalmatlan MID-ekhez, valamint messze nem ideális UMPC-khez sem, ami erõteljesen megmutatkozik azok méretein, akkumulátoros üzemidején. A Menlow mérete negyede lehet a hagyományos rendszerekének, miközben fogyasztása is nagyjából negyedére szorítható vissza.
+
+
+Az Eee PC-hez hasonló notebookokba, melyeket online orientáltságuk miatt netbooknak titulál a chipgyártó, olcsó desktopokba és vékonykliensekbe szánt Diamondville társaságát Intel 945GME chipset képezi majd, mely DirectX 9-es GMA900/950 grafikus gyorsítót integrál. A Shelton kódnévvel illetett platformra alapozva az év közepe táján, második felében számos gyártó mutat be majd notebookokat, köztük az Acer, a HP, illetve várhatóan az MSI és a Gigabyte is.
+
+A Diamondville riválisa a VIA ambíciózus Isaiah processzorra, melyrõl nemrég lebbentette fel a fátylat a vállalat. Az AMD jelenleg nem rendelkezik versenyképes termékkel ezekben a szegmensekben. A Bobcat kódnéven fejlesztett alacsony fogyasztású chipjének várható képességei, vagy megjelenésének idõpontja nem ismert, míg az ultraintegrált, grafikus maggal is bíró Swift processzora csak 2009 második felére esedékes.  A Silverthorne és Menlow vonal már az olyan ARM licenccel dolgozó processzorgyártóknak is versenyt támaszt a jövõben, mint a Texas Instruments, a Samsung vagy a Qualcomm, ahogyan a mobiltelefonok egyre inkább multimédia internet terminálokká alakulnak át.
+
+[+] VIA Isaiah: egy ígéretes architektúra
+
+Az Intel nem kis reményeket fûz az ultramobil irányhoz. Paul Otellini elnök-vezérigazgató szerint a Pentium processzor óta ez lesz az Intel legnagyobb dobása. A vezér elmondta, a vállalat 2011-re több milliárd dolláros bevételt vár több tízmillió eladott készülék mellett, melyet a már korábban tárgyalt három, robbanás elõtt álló szegmens fog együttesen generálni (UMPC, MID, netbook, nettop, vékony kliensek). Otellini várakozásai szerint a Menlow és a Shelton olyan lesz ezeknek a területeknek, mint amilyen a Centrino volt a notebookoknak.
+
+
+
+Hogy mennyire komolyan gondolja a vállalat ezt az új ágat, azt Anand Chandrasekher érzékeltette az õszi Intel Developer Forumon. Az ultramobil csoport vezetõje a 2008 elsõ felére várt Menlow-t nagyjából 1 évvel követõ platform prototípusát is bemutatta a közönségnek. A Moorestown kódnévre hallgató fejlesztéstõl a vállalat igazi áttörést vár: a rendszer lelke, a processzor, a grafikus mag és a memóriavezérlõ egyetlen chipre kerül integrálására, egy- és kétmagos változatban is elkészül majd, és DDR2-nél alacsonyabb fogyasztású DDR3 memóriát kezel majd. A Moorestownra épülõ eszközöktõl az Intel már egésznapos mûködést remél 3D-gyorsítás és HD-videolejátszás mellett.

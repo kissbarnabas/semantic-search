@@ -1,0 +1,14 @@
+A munkaállomások virtualizációját is támogatják az NVIDIA új Quadro chipjei
+
+Az NVIDIA tapasztalatai szerint sokszor elõfordul, hogy a munkaállomások felhasználói párhuzamosan több gépet is használnak, mert szükségük van arra, hogy több olyan alkalmazást használjanak egyszerre, amelyek erõteljesen használják a grafikus processzort. Elõfordulhat az is, hogy a felhasznált programok egy része csak Windowson, egy másik része pedig csak Linuxon érhetõ el. A két vagy több munkaállomás pedig nem csak drága, hanem sokat fogyaszt, zajos és felügyelni is bonyolultabb mint egy gépet.
+
+"Jelen gazdasági helyzetben a szervezetek a virtualizáció felé fordulnak hogy növeljék hatékonyságukat és költséget takarítsanak meg" -- mondta Jeff Brown, az NVIDIA professzionális megoldásokért felelõs vezetõje. "Most a vizualizációs alkalmazásokkal dolgozó szakemberek is profitálhatnak a virtualizációból." Az SLI Multi-OS lehetõvé teszi a munkaállomások felhasználói számára, hogy a feladatokat kevesebb hardveren konszolidálják, ezzel beszerzési és üzemeltetési költséget takarítva meg. Egy munkaállomásba több Quadro FX (3800, 4800, 5800) grafikus vezérlõt építve, a technológia segítségével a gazda operációs rendszerhez és a vendég operációs rendszerekhez is külön videokártyák dedikálhatók.
+
+
+A Quadro FX 5800-on 4 gigabájt memória található
+ 
+
+
+ Egy munkaállomáson akár eltérõ operációs rendszeren futó alkalmazások is elindíthatók, a megoldás kiaknázásához VT-d technológiát támogató processzorra és munkaállomások virtualizálását támogató Parallels Workstation Extreme hypervisorra is szükség van. Persze tetszõleges virtualizációs köztesréteg használható, amennyiben az támogatja az NVIDIA SLI Multi-OS technológiát, de a VMware vagy a Microsoft egyelõre nem jelentett be ilyen lépést.
+
+Az új Quadro grafikus kártyák (NVS 295, FX 380, FX 580, FX 1800, FX3800, FX 4800, FX 5800) máris elérhetõk a PNY, a Leadtek és az ELSA kínálatában, valamint a Dell, a Fujitsu Siemens, a HP és a Lenovo munkaállomásaiban. Az SLI Multi-OS technológiát jelenleg egyetlen munkaállomás, a HP Z800 támogatja csak.

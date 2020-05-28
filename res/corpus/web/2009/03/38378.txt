@@ -1,0 +1,12 @@
+Ma este 6-tól akár magyarul is letölthetõ az Internet Explorer 8
+
+Bejelentette az Internet Explorer 8-at a Microsoft, a böngészõ régóta várt végleges változata magyar idõ szerint ma este 6-tól lesz letölthetõ a www.microsoft.com/ie8 oldalról, akár magyarul is.
+
+
+
+Az IE8 fõleg a használhatóság és a biztonság terén hoz újdonságokat, de a webes szabványok támogatása is sokat fejlõdött, aminek eredményeképp a böngészõ lényegében az összes standarddal kompatibilis. Ugyanakkor a fejlesztõk beillesztettek a kódba egy olyan kompatibilitási módot, mely lehetõvé teszi a böngészõnek, hogy bizonyos weboldalakat az IE7-tel egyezõ módon rendereljen -- sok oldalt nem a HTML szabvány, hanem IE7 kívánalmainak megfelelõen készítettek.
+
+
+ A Microsoft nagy hangsúlyt fektetett a sebességre is, amely miatt az Internet Explorer 7-et sok kritika érte, bár a Futuremark által készített Peacekeeper böngészõteszt szerint nincs sok elõrelépés a korábbi generációhoz képest és a 8-as verzió továbbra is lényegesen lassabb a vetélytársaknál. A Microsoft azt állítja mindenesetre, hogy a comScore statisztikái szerint legnépszerûbb 25 weboldal felét az Internet Explorer 8 jeleníti meg a leggyorsabban.
+
+Kérdés, hogy az IE8 meg tudja-e fordítani a Microsoft szerencséjét a böngészõpiacon, ahol az elmúlt években a Firefox jelentõs részesedést tudott elvenni a redmondiaktól, pár hónapja pedig a WebKit-re épülõ Chrome és Safari is számos felhasználót gyûjtött. A HWSW olvasóinak közel 60 százaléka használ Firefoxot, az Internet Explorer részesedése kevesebb mint fele ekkora.

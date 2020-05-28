@@ -1,0 +1,36 @@
+Az integráció jegyében újul meg a Windows Live
+
+Heteken belül a felhasználók karmai közé kerülhet a Windows Live Home, a Microsoft online szolgáltatásainak legújabb generációja. A "webes otthon" egységesített rendszerben kínálja az üzenetküldõt, e-mailt, fotó- és fájlmegosztást, közösségi kapcsolatokat és számos egyéb szórakoztató funkciót.
+
+
+
+Integrált szolgáltatások
+
+A jelszó: minden egy helyen! Az új Live szoftverek és szolgáltatások egyik központi eleme az egységes kontaktlista, ahol egyetlen felületen láthatjuk azokat az ismerõseinket, akikkel Live Messengeren vagy e-mailen (Hotmail és Live Mail) keresztül kapcsolatot szoktunk teremteni, illetve akiknek a blogjait és személyes profilját figyelemmel kísérjük (Spaces). Ismerõseinket csoportokba rendezhetjük, megadhatjuk hogy milyen információkat kikkel szeretnénk megosztani, illetve egy központi helyen értesülünk arról is, mi újság a barátokkal, ki frissítette a blogját, töltött fel egy új képet vagy éppen küldött üzenetet.
+
+A 460 millió Windows Live-felhasználó örömére a Microsoft minden erejét összeszedte, és együttmûködést alakított ki többek között a Flickr fotómegosztóval, a LinkedIn professzionális közösségi hálózattal, a Pandora Media zenei közösségi oldallal, a Photobucket képmegosztóval, a mikroblog-szolgáltató Twitterrel, a közösségi ajánlórendszert üzemeltetõ Yelppel és a könnyen telepíthetõ blogmotort kínáló WordPresszel is. Ezeket a szolgáltatásokat mind integrálták az új Windows Live-val, így egy helyen követhetjük nyomon, a barátaink éppen mit csinálnak -- a Facebook-felhasználók számára ismerõs lehet ez a szolgáltatás.
+
+Brian Hall, a Microsoft Windows Live-ért felelõs vezetõje beismerte, az új funkciók némelyike már megvolt például a MySpace-ben vagy a Facebookon, a redmondiak igyekeznek a két népszerû közösségi hálózat legjobb szolgáltatásait összeválogatni és integrálni saját platformjukba. "Azt látjuk, hogy a legfontosabb fókusz most gyakorlatilag a web egyszerûsítése" -- idézi az AP hírügynökség Hallt. "Hogy ne kelljen ugyanazt több helyen is végrehajtanom. Ezt a problémát igyekszünk megoldani."
+
+Hall szerint nem valószínû, hogy a Facebook- és MySpace-használók tömegével áttérnének a Microsoft Live platformra, és egyelõre még nem született arról sem megállapodás, hogy a két legnagyobb közösségi hálózatot összekapcsolják a Live-val, de "ami késik az nem múlik". Az online szolgáltatások erõsítése mellett a Microsoft továbbbfejlesztette a Live-portfólió asztali szoftvereit is, például a Messengert, a Mailt, a Photo Galleryt. 
+
+ 
+
+Újdonságok
+
+Az új Live szolgáltatások egy ideig még csak meghívott bétatesztelõk számára lesznek elérhetõk, de az asztali programok bétaváltozatai már jó ideje letölthetõk a Windows Live oldalról, így itt komolyabb meglepetésre nem kell számítani. A Live Messenger egy jóval tetszetõsebb külsõt kapott, hangulatnak megfelelõen változtatható skinekkel, teljesen újragondolt kontaktlista-megjelenítéssel. Végre választhatóak kedvenc kapcsolatok, akiket külön listába rendezve lehet szem elõtt tartani.
+
+A Photo Gallery igyekszik még egyszerûbbé tenni a fotókezelést a cimkézést automatizált áttöltéssel és egyszerû, de gyakran elõforduló szerkesztési funkciókkal. A szöveges tartalmak kezelésére pedig végre a Windowsba épített Notepad és az Office Word között tátongó ûrt betömendõ megjelent egy szövegszerkesztõ program, a Writer. A szoftvercég ezt fõként a blogírást segítõ funkciókkal próbálja meg eladni, illetve azzal, hogy az itt írt szövegek vagy szerkesztett webes tartalmak pillanatok alatt élesíthetõek a hálón. A multimédia területén az újdonság a megújult videószerkesztõ, a Movie Maker New, amivel fotókból és mozgóképekbõl is könnyedén készülhetnek kisfilmek. 
+
+ 
+
+
+A szolgáltatások között valamivel nagyobb a változás, mint az eddig is meglévõ programok újragondolása, átszabása, feldíszítése. A 375 millió Hotmail-felhasználó bámulatos mennyiségû kisebb-nagyobb változást tapasztalhat majd kedvenc webes levelezõjében. A Microsoft szerint a legfontosabb elõrelépés, hogy jóval gyorsabb lett a felület és 80 százalékkal hatékonyabb a spamszûrés a korábbihoz képest. Újdonság, hogy bármilyen POP3 postafiók tartalmát kezelni tudja majd a Hotmail, illetve végre a Hotmail-fiókba érkezett levelek is elérhetõk lesznek az asztali levelezõkliensbõl, a Live Mailbõl.
+
+A Live SkyDrive ingyenes online tárhely kapacitása 5-rõl 25 gigabájtnyira nõtt, az állományokat most már másolhatjuk és mozgathatjuk a könyvtárak között, és akár egyetlen zip-fájlként is letölthetünk egész mappákat. Újdonság, hogy azokkal is megoszthatunk állományokat, akik nem rendelkeznek Windows Live ID-vel, illetve lehetõvé válik a feltöltött, megosztott fájlok kommentálása. A Live Skydrive-ot a korábbinál szorosabban integráltják a Live Photos-szal, egyszerûbb lesz például diavetítést készíteni a képekbõl, a fotókat lehet tagelni, sõt, akár az ismerõseinkkel is összekapcsolhatjuk õket.
+
+Mint a Google
+
+A Live Groupson belül a közös munka, tartalommegosztás, fájlmegosztás, közös e-mailcímek kezelése és közös azonnali üzenetküldõ használat válik lehetõvé. A fejlesztések nagy része érdekes, ugyanakkor nem szabad elfelejteni, hogy jó része külsõ partnerekkel való együttmûködésbõl született, sok funkció pedig a Google megoldásai közül lehet ismerõs. A különbség talán annyi, hogy a minimalista, lényegretörõ Google felületekkel szemben a Microsoft igyekezett többet adni a szépségre, megjelenésre. 
+
+Aki már nem tudja kivárni a végleges változatok megjelenését, az letöltheti a szoftverek bétaváltozatát a Windows Live weboldalról, a teljes és végleges paletta 2009 elején válik elérhetõvé összesen 54 országban, 48 nyelven. Az ígéret szerint heteken belül frissülni fognak a béták is, immár minden szolgáltatás megtalálható lesz bennük, ami a végleges verzióban várható.

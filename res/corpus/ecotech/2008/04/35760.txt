@@ -1,0 +1,20 @@
+Drasztikusan csökkentette NAND-piaci elõrejelzését az iSuppli
+
+Drasztikusan csökkentette NAND flash piaci elõrejelzését az iSuppli piackutató az elsõ negyedévben tapasztalt áresést követõen, amit a fogyasztói kiadások gyengülésével magyaráz -- az újabb fejlemények hátterében az Egyesült Államok pénzpiaci válságának tovagyûrûzõ hatásai állnak. 
+
+
+
+Az iSuppli legfrissebb becslése szerint idén mindössze 9 százalékkal növekszik a NAND flash piac az árprés hatására, ami egyharmada a korábban jelzett 27 százalékos növekedésnek -- a 15,2 milliárd dollár 4 milliárd dollárral kevesebb a korábban vártnál. "A fõ tényezõ a romló kilátások mögött a fogyasztói kiadások gyengülése" -- mondta el Kim Nam Hyung, az iSuppli vezetõ elemzõje. Az iSuppli adatai alapján az elsõ negyedév során átlagosan 36 százalékkal esett vissza egy megabájt NAND kapacitás ára, amit a második negyedévben ez további 13 százalékos olvadás követ majd -- ez alapján az elsõ félév során 44 százalékkal válik olcsóbbá a NAND flash. A korábbihoz képest ugyanakkor némileg kedvezõbb képet fest a gyártók számára, hogy az iSuppli az árak stabilizálódását várja a második félévre. 
+
+
+A NAND flasht legnagyobb mennyiségben konzumelektronikai termékekben alkalmazzák, mint például a digitális fényképezõgépekbe és telefonokba vásárolt memóriakártyák, vagy beágyazott formában mp3-lejátszókban. "A kiadások növekedése [...] 2008-ban várhatóan lassul 2007-hez képest az amerikai másodlagos jelzálogpiaci válság, valamint a fogyasztókra és gazdaságokra gyakorolt járulékos hatása következtében. Ezen fejlemények fényében, a világ legnagyobb NAND flash felvásárlói fékezik kiadásaik növelését" -- tette hozzá Kim. A világ három legnagyobb NAND-vásárlója a SanDisk, a Sony, és az Apple, összesen 4,5 milliárd dollár értékben vásároltak tavaly NAND chipeket.
+
+Elemzõi várakozások alapján a NAND flash árak gyors, a vártnál meredekebb esése felgyorsítja az azokra épülõ tárolók terjedését, melyek már megkezdték a merevlemezek kiszorítását az olyan kisebb kapacitásigényû, de méretekben és energiafogyasztásban korlátozott területeken, mint az mp3-lejátszók, vagy az ultrahordozható notebookok, videokamerák vagy médialejátszók. Az iSuppli becslése szerint jövõre az ultrahordozható gépek már több mint negyede bír majd SSD-vel, és nem sokkal maradnak majd egy a mainstream modellek sem ezen arány mögött.
+
+[+] Kipróbáltuk: érdemes flash meghajtós notebookot venni? 
+
+A merevlemezeket közvetlenül támadó SSD-k (solid-state drive) iránti kereslet növekedése ugyanakkor várhatóan fékezõ hatással bír majd az árak esésére. Ez a hatás idén vélhetõen nem tudja ellensúlyozni a fogyasztói elektronikában kiesett forgalmat, ugyanakkor már jelentõs húzóerõt képviselhet majd. Az iSuppli így jövõre a piac 31 százalékos növekedését jósolja, ezt követõen, az iparban kiépülõ túlzott gyártási kapacitások következtében halványan zsugorodni fog 2010-ben, ami az SSD-k újabb lökést adhat az SSD-k és a beágyazott NAND terjedésének. 
+
+A NAND flash piac alakulása 2006 és 2012 között, millió dollárban, illetve a növekedési ütem százalékékbanForrás: iSuppl, 2008
+
+Tavaly továbbra is a Samsung bizonyult a legnagyobb NAND-gyártónak, részesedése a 13,9 milliárd dolláros piacból meghaladta a 42 százalékot. A dél-koreai csapatot a japán Toshiba, a NAND kifejlesztõje követte közel 28 százalékkal, majd a szintén dél-koreai Hynix következett 17,1 százalékkal. Az azóta szövetsége lépett Micron és Intel összesen 9,1 százalékot ért el együtt -- a legnagyobb öt ezzel a piac 96,2 százalékát tartotta kézben.

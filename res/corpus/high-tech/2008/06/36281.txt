@@ -1,0 +1,21 @@
+Soha nem fejlõdtek még ilyen gyorsan a szuperszámítógépek
+
+Frissült a világ leggyorsabb szuperszámítógépeit rangsoroló Top500 lista, amelynek élén az amerikai energiaügyi minisztérium Los Alamons National Laboratory intézetében nemrég üzembe állított, több mint 1,026 petaFLOPS teljesítményû Roadrunner gépe áll. A Roadrunner a világon elsõként képes egymillószor milliárdnál is több mûveletet végrehajtani egy másodperc alatt.
+
+
+
+A legnagyobb teljesítményû szuperszámítógépeket a Linpack teszt alatt mutatott eredményeik alapján összesítõ Top 500 listát 1993 óta évente kétszer állítják össze, a most megjelentetett rangsor sorban a harmincegyedik. Az új listát a drezdai International Supercomputing Conference-en hozták nyilvánosságra. A tíz leggyorsabb gép közül hat az Egyesült Államokban található, ezek mellett egy német, egy francia és két indiai rendszer került az elsõ tíz helyezett közé.
+
+
+[+] Megszületett a világ elsõ petaflops szuperszámítógépe, az IBM Roadrunner 
+
+A szuperszámítógépek fejlõdése látványosan felgyorsult az utóbbi években, ahogy a méregdrága monolitikus rendszereket felváltották az olcsó, bárki számára elérhetõ komponensekbõl álló fürtök. A fejlõdés indikátora, hogy az új Top500 lista utolsó helyezettje az elõzõ, novemberi rangsorban még a 200. helyen állt volna, vagyis fél év alatt a lista szereplõinek közel kétharmada lecserélõdött, amire a Top500 tizenhat éves történetében még nem volt példa.
+
+A Roadrunner mögött a második helyen a Lawrence Livermore National Laboratoryban mûködõ IBM BlueGene/L végzett, teljesítménye 478 teraFLOPS, ami a jelenlegi csúcstartóénak kevesebb mint fele. A bronzérem az Argonne National Laboratoryban található IBM BlueGene/P gépé, ami alig lassabb a másodiknál, 450 teraFLOPS teljesítményû. A listán negyedik a Texasi Egyetem négymagos Opteronokra épülõ gépe, amelyet a Sun szállított, teljesítménye 326 teraFLOPS, az ötödik pedig az Oak Ridge National Laboratory által használt Cray XT4 rendszer, amely szintén Opteronokra épül.
+
+
+
+Az Egyesült Államok szuperszámítógépes nagyhatalmi pozícióját egyértelmûen mutatja, hogy az 500 leggyorsabb gép több mint fele az USA-ban mûködik. Az Egyesült Államokon kívül mûködõ legnagyobb teljesítményû szuperszámítógép Németországban található, a  Jülichi Kutatóközpont Alkalmazott Matematikai Intézetében: az IBM BlueGene/P összteljesítménye 180 teraFLOPS. A Top500 listán a leggyorsabb, ipari felhasználású szuperszámítógép a francia Total olajtársaság tulajdonában levõ SGI rendszer, amelynek 106 teraFLOPS-os teljesítménye a tizedik helyre elég. 
+
+
+A Core mikroarchitektúrára épülõ Xeonok megerõsödésével, és a négymagos Opteronok késésével látványosan nõtt az Intel befolyása a szuperszámítógépes világban: a most kiadott listán található gépek 75 százaléka Intel processzorra épül. A Top500 összeállítói most elõször az energiahatékonyságot is vizsgálták, ebbõl a szempontból a Cell-alapú blade-ekre épülõ Roadrunner, és a BlueGene/P rendszerek bizonyultak a legjobbnak, de az Intel négymagos Xeonjai is jól teljesítettek.

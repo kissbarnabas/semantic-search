@@ -1,0 +1,14 @@
+Kritikus Windows-réseket foltoz a patch kedd
+
+Az elõzetes értesítés szerint öt frissítés érkezik a szeptemberi rendes patch kedden, melyek mindegyike a Windows rendszereket érinti, besorolásuk pedig kivétel nélkül kritikus, mivel a sebezhetõségek távoli kód végrehajtását teszik lehetõvé. Megint nem ússzák meg a Server Core telepítések sem, és újraindításon is át kell esniük, ami arra utal, hogy a rések egy része a rendszer alapjaiban találhatóak meg.
+A legkevesebb biztonsági frissítés, szám szerint kettõ és három, az itaniumos Windows Server 2008 és a Windows XP rendszerekhez érkezik, de csak utóbbinál van esély arra, hogy nem kell újraindítani, amennyiben a patchek által érintett fájlok éppen nincsenek használatban - a 2000, Server 2003, Vista és Server 2008 esetében bizonyos az újraindítás szükségessége. A közlöny itt olvasható.
+Az IIS FTP támadható marad
+A Microsoft bár dolgozik az IIS FTP-sebezhetõségén, a holnapi frissítési ciklusra valószínûleg nem készül el, így várhatóan soron kívül adja majd ki azt a vállalat. Ennek mielõbbi elkészülte különösen kritikus, hiszen a sebezhetõség publikálásának hatására megindultak a támadások. A kód egyelõre az IIS 5.0 generációt érinti Windows 2000 rendszeren, de nem bizonyított, hogy specifikus volna, és ne lehetne adaptálni újabb verziókra, melyek az FTP démon egy újabb, 6.0-s változatát használják. A problémát a Microsoft is elismerte, egyúttal megerõsítette, hogy támadásokról is tudomása van.
+Tovább súlyosbítja a helyzetet, hogy azóta egy újabb támadó kód is kikerült a szabadba, melynek már könyvtár-létrehozási jog sem kell, elegendõ egy olvasási hozzáférés az FTP-hez, hogy szolgáltatásmegtagadásos támadást indíthasson a támadó. A Microsoft ezt is megerõsítette, ráadásul a támadás általánosabb, az FTP Service 5.0 mellett az 5.1 és a 6.0 is támadható, mely utóbbi már az IIS 6 és 7 kiadásokban is megtalálható.
+
+Windows Server 2008 és IIS 7 esetén amennyiben lehetséges, javasolt a frissítés az FTP Service 7 vagy 7.5 verzióra, melyrõl tudni lehet, hogy nem mûködnek rajta az exploitok, így a patchet sem kell megvárni. Az FTP Service 7.5 szabadon elérhetõ önálló letöltésként a Microsofttól, a x86-os 32 bites verzió innen, a 64 bites pedig innen tölthetõ le - mindössze 2,6 megabájt.
+Amennyiben ez nem kivitelezhetõ, úgy átmenetileg javasolt az FTP-hozzáférések vagy a felhasználók jogainak erõteljes korlátozása, kizárva például az anonim bejelentkezõket. Igaz, a hitelesített felhasználók mögé bújtatott, "belülrõl" érkezõ támadásokkal szemben így is védtelen marad az IIS, így a kritikus alkalmazások esetében csak az FTP-szolgáltatás teljes leállítása, vagy szeparált IIS-re történõ mozgatása helyezheti biztonságba a védeni kívánt IIS-t, míg a patchek meg nem érkeznek.	     
+                  
+                  
+                  
+                   

@@ -1,0 +1,32 @@
+HP, Sun: az IBM csak a hangulatot kelti az Itanium és az UltraSPARC körül
+
+Alapvetõ tényeket nem vesz figyelembe az IBM, mikor a Power riválisainak életképességét támadja -- így lehetne összefoglalni a HP és a Sun Microsystems reakcióját a Kék Óriás egyik alelnökének múlt heti kijelentésére. Az Itanium és UltraSPARC processzorcsalád fejlesztései egyaránt több generációra elõretekintve folynak, erõsítették meg a cégek, így a vezetõ bizonytalanságkeltése nem megalapozott. 
+
+
+
+
+
+Az Intel Itaniumnak legfeljebb öt éve van hátra, a Rock pedig a Sun utolsó elszánt próbálkozása, adott hangot véleményének Scott Handy, a néhány éve még itaniumos gépeket is forgalmazó IBM egyik veterán alelnöke, aki jelenleg a vállalat nyílt forráskódú tevékenyésgeiért felel. Handy szerint a rivális architektúrák mögött nincs meg a kellõ gazdaságossági alap, így mindkét cég kihátrálni kényszerül majd belõlük. Ezzel szemben az IBM Power-architektúra használata kiterjedt, például az összes új játékkonzol PowerPC-alapokra épít. Handy nem az elsõ az IBM rangos alkalmazottai közül, aki hasonló módon megtámadta egyik riválisát: Frank Soltis vezetõ mérnök két éve már pedzegette a nyilvánosság elõtt, hogy a Sunnak fel kell hagynia a processzorfejlesztéssel.
+
+Itanium: öt generáció elõre
+
+"A termékterven jelenleg öt generációt látunk elõre Itanium processzorokból" -- közölte lapunkkal Birnbauer Péter, a HP Magyarország üzletkritikus szerverekért felelõs termékigazgatója. Hozzátette, hogy a befektetések védelme kiemelt szempont a HP fejlesztéseiben. A publikusan ismert terméktervek alapján az Intel az idén év végére ígért négymagos, teljesen új infrastruktúrát igénylõ Tukwila mellett Poulson kódnéven fejleszti a már új mikroarchitektúrát implementáló következõ generációt, valamint már az azt követõ Itanium chip is körvonalazódik. A Poulsonnal az Intel igyekszik felzárkóztatni az Itanium processzorcsaládot, így a 45 nanométeres gyártástechnológia átugrásával 32 nanométeren kerül megvalósításra. A Poulson "ultrapárhuzamos" mikroarchitektúraként szerepel a termékterveken, mely kompatibilis lesz a Tukwila-szerverekkel.
+
+
+Az igazgató elmondta, hogy a hazai piacon például egyáltalán nem tapasztalják a Power5- és Power6-alapú rendszerek fölényét.  "Nem érezzük a p5 és a p6 átütõ elõnyét, mert a jelenlegi [Itanium-alapú] eszközök rugalmassága és ereje tökéletesen megfelel az igényeknek. "Az Integrity kétszámjegyû piacrészesedésbeli növekedést mutat fel itthon is, tökéletesen ellensúlyozva a klasszikus RISC-rendszerek (PA-RISC, Alpha) migrációját."
+
+Birnbauer rámutatott arra is, hogy a HP Integrity szerverei a piac sokkal nagyobb szeletét lefedik, mint az IBM System p rendszerei, ugyanis a HP-UX 11i és OpenVMS mellett teljesértékû Windows és Linux-környezeteket is képesek futtatni.  Integritykre tavaly már több mint 13 ezer alkalmazást minõsítettek a különféle operációs rendszereken. A HP mellett ráadásul világszerte számos szervergyártó szállít Itanium-alapú gépeket, köztük a Fujitsu Siemens, az SGI, a Bull, NEC, Hitachi vagy a Unisys is. Az Itanium-alapú gépek forgalma az IDC adatai szerint a tavalyi harmadik negyedévben megközelítette a Power-rendszerek értékének kétharmadát, ami nagyjából 20 százalékponttal magasabb az egy évvel korábbinál.
+
+Rock solid
+
+A Sun részérõl szintén megerõsítették, hogy gõzerõvel folynak a jövõbeni rendszerek fejlesztései. A HWSW egy magát megnevezni nem kívánó forrása elmondta, hogy a jelenleg validáció alatt álló Rock utódja, a Rock+ elektronikai tervezése már megkezdõdött 45 nanométeres csíkszélességû gyártástechnológia alkalmazásával, az ezt követõ generáció alapjainak lefektetése pedig már folyik, vagyis a következõ évtizedbe átnyúlnak a Sun jelenlegi fejlesztései. Az IBM publikus termékterve kapcsán érdemes megjegyezni, hogy azon egyelõre a következõ évtized elejére várható  Power7 szerepel csak.
+
+A "nagygépes" fejlesztési irány mellett a Sun a Niagarával létrehozott vonalat sem hanyagolja -- erõsítette meg forrásunk. A hamarosan debütáló, SMP-képes UltraSPARC T2 (kódnéven Victoria Falls) utódjának is folyik már az elektronikai implementációja, valamint az azt követõ design magasszintû tervezése is elkezdõdött. A Niagara-vonallal a Sun célja az x86-os rendszerekkel által veszélyeztetett vagy már nagyrészt elvett területek megtartása, és részben visszaszerzése. A masszívan párhuzamos architektúra leginkább tranzakcionális környezetben remekel, ahol nagyszámú, egyidejû kérést kell kiszolgálni, egyenként alacsony számítási igénnyel.
+
+Az IBM sem kivétel
+
+Handy bár szándékosan bizonytalanságot akart kelteni riválisainak ügyfelei körében, felvetése a gazdaságossági nyomásról messze nem alaptalan. A nagyteljesítményû processzorok tervezésének fokozódó komplexitása következtében a fejelsztési büdzsék is meredeken emelkednek, és ma már a több százmillió dolláros szinten járnak -- és ez még csak a processzor. A chipsetek, szerverek tervezése és kitesztelése további százmilliókat emészthet el, miközben a megcélzott piac az elmúlt években folyamatosan olvad, és elõrejelzések szerint ez tovább folytatódik. A Gartner becslése szerint a UNIX-rendszerek globális forgalma tavaly 16-17 milliárd dollár közé esett, és ezt a szintet nagyjából tartja a következõ évek során. 
+
+Az Itanium, Power és UltraSPARC processzorcsalád az úgynevezett kritikus rendelkezésre állású rendszerek piacát célozzák, mely évente mintegy 25-28 milliárd dollárt tesz ki. A teljesítmény mellett a megbízhatóságra, vagyis az adatkorrupció elkerülésére is nagy hangsúlyt fektetõ prémium processzorokon realizálható bruttó nyereség 3-5 milliárd dollárra közé tehetõ, tekintve, hogy a gyártási költség 100-200 dollár közé esik, miközben az átlagos eladási ár több ezer dollár. A kritikus feladatokat ellátó rendszerek ma túlnyomó többségében az x86-os gépek által el nem foglalt RISC- és CISC-konfigurációkból, valamint az Itaniummal immár az EPIC-bõl (IA-64) állnak.
+
+A gazdaságossági erõk természetesen az IBM-et sem kerülhetik el. A vállalat láthatóan egyre több technológiát oszt meg a különbözõ szervercsaládok között, a System i már Power-alapokra tért át, míg a System z mainframe-ek következõ processzora hasonló megoldásokat alkalmaz, mint a Power6. Az Apple elkerülhetetlen x86-osra váltásával az IBM ráadásul nem rég elvesztette legnagyobb Power-ügyfelét, melyet nem kompenzálhat a PlayStation 3, Xbox 360 és Wii processzorainak megtervezése -- mely megbízásokat kétségtelenül kutatás-fejlesztési költségeinek terítése érdekében nyert el.

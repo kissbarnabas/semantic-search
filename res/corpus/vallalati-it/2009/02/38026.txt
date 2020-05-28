@@ -1,0 +1,16 @@
+A felhasználói nyomásnak engedve változik a User Account Control mûködése a Windows 7-ben
+
+A visszajelzésekre reagálva a Microsoft végül úgy döntött, módosítja a Windows 7 User Account Control (UAC) szolgáltatását annak érdekében, hogy az ne legyen a felhasználó tudta és beleegyezése nélkül kikapcsolható.
+
+
+
+Amint arról lapunk is beszámolt, a Windows 7 fejlesztésekor a Microsoft mérnökei a korábbinál engedékenyebbek voltak a User Account Control szolgáltatással kapcsolatban. A User Account Control az operációs rendszer egyes beállításait megemelt jogosultsághoz köti, ezzel próbálva megakadályozni hogy ártó szándékú programok vagy akár maguk a felhasználók módosítani tudjanak rendszerszintû beállításokat.
+
+A Vistában bemutatkozott UAC-t sok kritika érte, mivel igen szigorú és már egyszerû beállítások módosításához is szükség van az adminisztrátori jelszóra, vagy legalábbis a bejelentkezett felhasználó külön jóváhagyására. A Windows 7 esetében a fejlesztõk engedtek a szigorból és alapértelmezésként úgy állították be a UAC-t, hogy az engedélykérés és figyelmeztetés nélkül lehetõvé tegye a rendszerbeállítások módosítását. A probléma az, hogy a User Account Control vezérlése is rendszerbeállításokon keresztül történik, vagyis a szolgáltatás a felhasználó tudta és beleegyezése nélkül kikapcsolható.
+
+
+
+
+ A Microsoft egy pár nappal ezelõtt még kötötte az ebet a karóhoz, és minden eszközzel megpróbálta meggyõzni a felhasználókat arról, hogy ez így van jól. A vállalat azzal érvelt, hogy a UAC mûködése így logikus, másfelõl pedig egy olyan ártó szoftver, amely kikapcsolja a User Account Control mûködését, biztosan fennakad más védelmi vonalakon, például a víruskeresõn. Felhasználók szerint azonban csak idõ kérdése olyan kódok megjelenése, amelyek átjutnak ezeket a védvonalakon.
+
+A Microsoft mérnökei végül belátták, hogy teljesen felesleges az árral szemben úszni és ha a felhasználók azt kérik, hogy módosítsák a UAC mûködését, akkor a legegyszerûbb ezt megtenni -- nem beszélve arról, hogy végeredményben biztonságosabb lesz tõle az operációs rendszer, ami a redmondiak kinyilvánított célja. Egy tegnapi blogbejegyzésben a Windows 7 fejlesztõi bejelentették, az operációs rendszer RC1 változatában már módosítani fogják a User Account Control mûködését: a UAC paneljének eléréséhez elevált jogosultságok kellenek majd, illetve a beállítások módosításakor a szoftver kérni fogja a felhasználó beleegyezését.

@@ -1,0 +1,18 @@
+Összeolvadás a Linux-piacon: az Eee PC-tulajdonosok örömére a Xandros kezébe kerül a Linspire
+
+Egyesül két Linux-disztribútor, a Xandros kezébe kerül az egykoron még Lindowsként ismert Linspire. A két, a Linux-közösségben a Microsofttal kötött paktum miatt élesen kritizált vállalat még június 19-én írt alá megállapodást az egyesülésrõl. A felvásárlásnak köszönhetõen az Eee PC-ken is futó Xandros Desktopra hamarosan pofonegyszerûen lehet majd új alkalmazásokat telepíteni.
+
+
+
+Párhuzamos életutak
+
+Andreas Typaldos, a Xandros elnök-vezérigazgatója szerint a két vállalat már régebben is tárgyalt a lehetséges egyesülésrõl, amelynek alapjait a két Debian-alapú disztribúció teremtheti meg. A Xandros és a Linspire története is hasonló, mindkét cég azt tûzte a zászlajára, hogy a lehetõ legkönnyebben használható disztribúciót hozzanak létre, amelyek segítségével a Windows-felhasználókat is át tudják csábítani a szabad szoftverek világába. A Xandros és a Linspire abból a szempontból is hasonlítanak, hogy tavaly nyáron gyors egymásutánban mind a ketten "meg nem támadási" szerzõdést kötöttek a Microsofttal. 
+
+A korábban Lindows néven ismert Linspire 2002-ben jött létre és lépett piacra a LindowsOS nevû Linux-disztribúcióval, amelynek célja a Windows asztali uralmának megtörése lett volna. A termék legfontosabb vonzereje az egyszerû telepítés, beállítás és kezelés mellett a Click 'N Run szoftvertár volt, ahol a felhasználók linuxos alkalmazások ezrei közül válogathattak, és egyetlen kattintással, kényelmesen telepíthették a nekik tetszõ programokat anélkül, hogy különösebben érteniük kellett volna az operációs rendszer lelkivilágához -- a folyamat még a windowsos telepítéseknél is egyszerûbb.  2007-ben a CNR.com weboldalt megnyitották más Linux-disztribúciók elõtt is.
+
+
+ Nem mindenki boldog a Linspire-nál: Kevin Carmony korábbi elnök-vezérigazgató szerint Michael Robertson (alapító) a részvényesek megkérdezése nélkül adta el a céget a Xandrosnak, és csak utólag, a megállapodás megkötése után értesítette õket. Carmony azt állítja, Robertson a Linspire maradék vagyonát egyszerûen kimenekítette a cégbõl, majd az "üres" vállalatot eladta a Xandrosnak, ezzel elkendõzve azt a tényt, hogy vezetése alatt a Linspire totális kudarcot vallott a piacon.
+
+Örülhetnek az Eee PC-tulajdonosok
+
+A Linspire a Xandros száz százalékos tulajdonában levõ leányvállalatként mûködik tovább a kaliforniai San Diegóban. A két disztribúciót nem tervezik egyesíteni, a Linspire és az ingyenes Freespire továbbra is megmarad a Xandros mellett. Az akvizícióval a Xandros kezébe kerül a Linspire legnagyobb kincse, a Click 'N Run szoftverkönyvtár. A Xandrosba még ebben a hónapban belekerül a Click'n'Run támogatás, aminek az ASUS Eee PC-k vásárlói is örülhetnek, ugyanis ezeken az aprócska gépeken a Xandros Linux-disztribúció fut. Az Eee PC-kre tehát pár héten belül néhány kattintással lehet majd új szoftvereket telepíteni, így használhatóság terén ezek a gépek sokat lépnek elõre.

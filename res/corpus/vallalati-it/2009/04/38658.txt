@@ -1,0 +1,14 @@
+Gazdagép-fürtözés és leállítás nélküli virtuálisgép-mozgatás: itt a Hyper-V Server 2008 R2 bétája
+
+A Microsoft kiadta a Hyper-V Server 2008 R2 bétaváltozatát, amely elérhetõ a vállalat weboldalán. Az R2 nagy elõrelépést képvisel az elõdjéhez képest, végre megjelent a gazdagépek fürtözésének lehetõsége, valamint a virtuális gépek leállás nélküli mozgatását lehetõvé tevõ "live migration" -- továbbra is ingyenesen.
+
+
+
+A Hyper-V Server 2008-cal kapcsolatban sok felhasználó hiányolta a hibatûrõ fürtök építésének lehetõségét, az R2 végre elhozza ezt a funkciót, amely segítségével csökkenthetõ a nem tervezett leállások száma. Szintén a rendelkezésre állást javítja a "live migration", amely a virtuális gépek azonnali, leállás nélküli mozgatását teszi lehetõvé a gazdagépek között. E két újításnak köszönhetõen a Hyper-V Server 2008 R2 robusztusabb alapja lehet egy virtualizált infrastruktúrának. Igaz, a VMware már jó ideje kínálja a leállás nélküli virtuálisgép-migrációt (VMotion), azonban a Microsoft hypervisora ezt ingyen nyújtja, míg a VMware-nél ez feláras extra.
+
+
+ Az elõd hardvertámogatási korlátait is levetkõzve a Hyper-V Server 2008 R2, amely immáron 8 foglalatig, 32 magig és 1 terabájt memóriáig skálázódik. Újdonság még, hogy egyetlen gazdagépen már nem 192, hanem 256 virtuális gép futhat. A hypervisor továbbra is hardveres virtualizációs támogatással (Intel VT, AMD V) és illetéktelen programfuttatás elleni védelemmel (Intel XD, AMD NX) felvértezett x64-es processzoron fut csak. A Microsoft szerint legalább 2 gigabájt memóriával és 2 hálózati vezérlõvel felszerelt gépen érdemes kipróbálni a Hyper-V Server 2008 R2-t.
+
+A bétatesztelõk életét nagyban megkönnyítheti a frissített konfigurációs segédprogram. Amint az ismert, a Hyper-V Serverben nincs grafikus felhasználói interfész, a helyben történõ konfigurációt parancssorból lehet elvégezni, néhány szokványos beállítását most egyszerûsítette a Microsoft annak érdekében, hogy például a távoli menedzsment vagy a hibatûrõ fürtözés beállításához ne kelljen hosszadalmas parancsokat kiadni. A Hyper-V Servert leghatékonyabban persze a System Center Virtual Machine Managerbõl lehet felügyelni, annak a 2008 SP1 változat azonban nem kompatibilis az R2 bétával, az ismerkedéshez mindenképp ajánlott az SCVMM 2008 R2 béta letöltése, amely szintén elérhetõ a Microsoft oldalán.
+
+A Hyper-V Server a Microsoft különálló hypervisora, de természetesen ez az alapja a Windows Server 2008-ban levõ virtualizációs szerepkörnek is. Fontos, hogy ugyan a Hyper-V Server ingyenes, a rajta futó virtuális gépeket természetesen licencelni kell. A támogatott vendég operációs rendszerek: Windows Server 2008 R2, Windows Server 2008, Windows Server 2003 SP2, Windows 2000 Server, Novell SUSE Linux Enterprise Server 10, Windows 7, Windows Vista SP1 és Windows XP SP3/SP2.

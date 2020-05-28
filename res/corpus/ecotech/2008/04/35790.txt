@@ -1,0 +1,16 @@
+Újabb felsõvezetõt vesztett az AMD
+
+[Wall Street Journal/HWSW] Újabb felsõvezetõ távozik az AMD-tõl, Phil Hester mûszaki vezérigazgató és alelnök pénteken közölte, hogy elhagyja a világ második legnagyobb processzorgyártóját. A nehéz idõket élõ vállalat szóvivõje szerint az esetnek nincs köze a legutóbbi profitfigyelmeztetéshez és elbocsátásokhoz. 
+
+
+
+Hester a Wall Street Journalnak adott interjújában elmondta, hogy más üzleti lehetõségekkel keresték fel, és megfelelõnek találta az idõt a távozásra, ugyanis éppen lezárultak az AMD-n belül strukturális átszervezések. Az AMD szóvivõje közölte, hogy nem terveznek utódot kinevezni Hester helyére, ugyanis az új szervezeti felépítésben az egyes üzleti egységek saját mûszaki vezetõkkel rendelkeznek. A vállalati feladatokat vélhetõen Mike Uhler alelnök, ex-MIPS veterán veszi át.
+
+Az 52 éves Hester 23 éven át dolgozott az IBM-nél, mielõtt 2005-ben csatlakozott az AMD kötelékéhez Fred Weber, a K8 architektúra atyjának utódjaként. Hester a vállalatnál eltöltött rövid idõ alatt részt vett a kanadai ATI Technologies máig vitatott 5,4 milliárd dolláros felvásárlásában, és az erre alapozott termékstratégia kidolgozásában, különösen az ultraintegrált, a mikroprocesszort és grafikus chipet is tartalmazó megoldások felvázolásában, melyek legkorábban 2009 második felére várhatóak. Az Intel szintén tervezi hasonló termékek piacra dobását, valamivel korábban, 2009 elsõ felében. 
+
+
+Az AMD Fusion programjának elsõ gyümölcse a Swift kódnéven fejlesztett termék lesz, mely egy x86-os processzoron kívül DirectX 10 grafikus egységet, memóriavezérlõt és PCI Express vezérlõt is tartalmaz. Hogy az integráció milyen szinten, szilíciumon, tokon belül vagy modulon zajlik, egyelõre nem publikus, gazdaságossági szempontból az akkor hozzáférhetõ gyártástechnológiával kétségtelenül a moduláris, vagyis több chipbõl álló felépítés tûnik ésszerûbbnek -- ez azonban nem jelent döntõ érvet, ahogyan az AMD már 65 nanométeres csíkszélességen a monolitikus négymagos processzor mellett döntött a nagy méret ellenére is.
+
+[+] Dolgozóinak tizedétõl válik meg az AMD  
+
+Távozásával Hester folytatja azt a sort, mely az ATI felvásárlását követõen nyílt a kanadai cég felsõvezetõinek elszivárgásával, köztük David Orton volt ATI elnök-vezérigazgatóval múlt júliusban, de szintén jelzésértékûnek tekinthetõ Henri Richard marketingvezetõ távozása tavaly szeptemberben, a Barcelona kódnéven ismert négymagos Opteron chipek piacra dobását követõen.

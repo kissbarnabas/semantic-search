@@ -1,0 +1,22 @@
+Cloud-szolgáltatásokkal erõsít a Windows Mobile 6.5
+
+Februárban mutatkozik be a Windows Mobile legújabb, 6.5-ös verziója, ami sokkal inkább felhasználóbarát lesz mint elõdjei. Andrew Lee, a Microsoft mobiltelefon-szoftver üzletágának elnökhelyettese szerint minden menedzser egyben emberi lény is, így nem maradhatnak ki a szórakozáshoz kötõdõ funkciók, sem az átlátható kezelõfelület.
+
+
+
+A menedzserek is emberek
+
+Andrew Lee a New York Timesnak adott interjújában újabb érdekességeket árult el a februári Mobile World Congress-en bemutatandó  Windows Mobile 6.5-tel kapcsolatban. A platform olyan új képességekkel gazdagodik, melyek a személyes és a szórakoztató funkciók használata során kényezteti majd a felhasználókat.A fotókezelés, azonnali üzenetküldés, SMS és közösségi hálózatok elérése terén erõsítene legfõképpen a Microsoft, ami rá is fér a Android, a Palm webOS vagy az iPhone operációs rendszere mellett ma már igencsak korszerûtlennek kinézõ szoftverre.
+
+A fejlesztéseknek köszönhetõen könnyebbé válik majd az adatok szinkronizációja is. Lee a Microsoft új cloud-szolgáltatására utalva viccesen azt kérdezte vissza, hogy "mi lenne, ha készítenél egy fotót a telefonoddal, majd az 'automágikusan' megérkezne a PC-dre és fent lenne az interneten is? Majd miután a PC-n kijavítottam a vörösszem-hibát, a kép visszakerülne a telefonra és az internetre is magától." (Az Automagic a szolgáltatás neve lesz) A képek mozgatása mellett a célzott küldés is megváltozik, hiszen a megosztások alapja a közösségi hálózatok lesznek, ami egy egészen új dimenziót nyit a GSM-hálózatoktól mára már teljesen elrugaszkodó mobiltelefóniának.
+
+Legyen minden egyszerû
+
+Lee, mióta átvette a kormányrudat a csoporton belül, olyan funkciók integrálását erõltette, melyek a szórakozáshoz vagy a személyes használathoz kötõdnek, mondhatni iPhone-szerûvé akarta tenni a Windows Mobile-t. A menedzserek bizonyára kiválóan tudják már használni az okostelefonok levelezõrendszerét, melyet az Exchange-dzsel kötöttek össze, érzik a push e-mail szolgáltatás elõnyeit, névjegyeket cserélgetnek. Közben viszont hiába képes a mobil multimédiás dolgokra, ha a felhasználók nagy részének fogalma sincs arról, hogyan lehet áttölteni egy képet a telefonról egy másik eszközre, hogyan lehet megmutatni valaki másnak azon túl, hogy MMS-ben átküldi.
+
+A már elérhetõ szolgáltatáserdõ átrendezése a Microsoft számára nem ismeretlen terület, hiszen néhány évvel ezelõtt éppen arra kellett rájönnie az Office csomaggal kapcsolatban, hogy a közel 500 parancs és a több tíz eszköztár teljesen áttekinthetetlen és a felhasználói visszajelzések 70 százalékában olyan új funkciókat kérnek, amik már egyébként is be voltak építve. Amennyiben a mobilos "újhullám" is olyan szerencsésen sül el, mint az Office esetében történt, akkor a Windows Mobile kiléphet végre a felhasználókat inkább elriasztó szintrõl.
+
+
+A közösségi hálózatok reneszánszukat élik, így elkerülhetetlen volt már ezeknek az integrálása a Windows Mobile-ba. Az új verzióban Lee szerint a kontaktok kezelése akár automatikussá is válhat a közösségi oldalakra mutató linkek alapján, nem lesz többé probléma a megváltozott telefonszám, lakcím vagy munkahely, legalábbis akkor, ha a barátaink is a Windows Live Web-et használják és nem Facebookot vagy az iWiW-et.
+
+A várható elõnyökkel kapcsolatban Lee kiemelte, hogy az új felülettõl vagy a közösségi szolgáltatások támogatásától nem elsõsorban bevételnövekedést vár a Microsoft. A cégnél úgy tekintenek erre, mint egy kötelezõ fejlõdésre, amit a felhasználók elvárnak, illetve adni akarnak egy olyan pluszt, amit a konkurensek nem tudnak megtenni. 

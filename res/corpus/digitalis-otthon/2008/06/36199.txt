@@ -1,0 +1,29 @@
+Kiszivárgott az elsõ Nehalem-teszt
+
+Információk szivárogtak ki a Nehalem, az Intel fél éven belül piacra kerülõ következõ generációs processzorának teljesítményérõl. A prototípus drasztikus ugrást mutat számos teljesítményigényes munkaállomás alkalmazás alatt a jelenlegi négymagos rendszerekhez képest.
+
+
+
+Fölény
+
+A héten rendezett tajvani Computexen az Anandtech hozzáfért egy Nehalem-alapú számítógéphez, melyen sikerült néhány tipikus tesztet lefuttatniuk. A hardvermagazin mérése alapján a még nem végleges állapotban lévõ Nehalem rendszer azonos, 2,66 gigahertzes órajelen 28 százalékkal magasabb kódolási sebességet nyújtott DivX, és 44 százalékkal h.264 alatt, mint egy négymagos Yorkfield, vagyis egy 45 nanométeres eljárással gyártott Core 2 Quad Q9450, mely a Penryn generációhoz tartozik. 
+
+A videokódolásnál is nehezebb feladatok közé tartozik a ray-tracing, vagyis a sugárnyomkövetéses képalkotás. Az Anandtech három elterjedt renderelõszoftverrel mérte ki a Nehalem képességeit. 3dsmax r9 alatt a Nehalem átlagosan 40 százalékkal nyújtott magasabb teljesítményt a Yorkfieldnél, ugyanakkor a különbség erõsen szórást mutat: a Space Flyby jelenetnél mindössze 9 százalékkal volt gyorsabb a Nehalem, miközben a CBALLS2 esetében 136 százalékot tett ki a gyorsulás. Cinebench R10 alatt 25, míg a POV-Ray 3.7 futtatásakor 36 százalékos fölényt mért az Anandtech. Meg kell jegyezni, hogy ezek az alkalmazások jól párhuzamosítottak, és a Nehalem magonként két utasításszálat futtat szimultán, vagyis összesen nyolcat.
+
+A Nehalem tehát minden jel szerint rendkívül jó állapotban van, és drasztikus teljesítménynövekedést képvisel majd. Az új chiptõl az Intel nem kevesebbet vár el, minthogy döntõ és megkérdõjelezhetetlen teljesítményfölénybe kerüljön az AMD-vel szemben, minden téren. A   fent citált tesztek bár asztali kódok végrehajtásakor mértek ugrásszerû teljesítménynövekedést, a Nehalem fejlesztéseinek fókuszát valójában a többutas rendszerek és szerverfeladatok képezték, ahol az AMD versenyképessége a legerõsebb, és mely szegmenst jelenleg az elsõsorban notebookokba célzott Core mikroarchitektúrával szolgál ki a vállalat.
+
+Minden téren elõrelépés
+
+A Nehalem a Merommal megismert Core mikroarchitektúra továbbfejlesztésének tekinthetõ, a mérnökök azonban gyakorlatilag minden aspektusát továbbcsiszolták. A soronkívüli végrehajtást biztosító ütemezõ 96 helyett immár 128 mikroutasításból válogathat a végrehajtóegységek etetése érdekében -- vagyis emelkedhet az órajelenként elvégzett hasznos munka mennyisége. A Nehalem már SSE 4.2 vektor utaskészletet alkalmaz, mely további 7 alkalmazásspecifikus utasítást hoz magával elsõsorban szövegek és stringek feldolgozásában, mint például az XML.
+
+
+A magokban a legnagyobb változást a párhuzamos többszálúság visszatérése jelenti. A HyperThreading révén a négymagos Nehalem 8 utasításszálat kezel, amivel az Intel szerint 20-30 százalékos teljesítménynövekedés is elérhetõ megfelelõen párhuzamosított szoftverek alkalmazása esetén. Átdolgozásra került a cache-hierarchia, a magok közötti adatmegosztás és koherenciaforgalom számára egy 8 megabájtos L3 cache található a chipen, míg az L2 tárak a gyorsaság érdekében 256 kilobájtosak mindössze.
+
+A mikroarchitekturális fejlesztések mellett a Nehalem egyben mérföldkõ is az Intel történetében, ugyanis gyökeres változást hoz a rendszerinfrastruktúra terén is. Az új processzorcsaláddal az Intel megkezdi az évtizedek óta alkalmazott buszrendszer kivonását, és helyébe egy sokkal korszerûbb, pont-pont összeköttetésekre, és integrált memóriavezérlõre épülõ architektúra lép. Ennek eredményeként növekszik a magok rendelkezésére álló sávszélesség, és csökken a memória elérésének késleltetése, ami leginkább többutas rendszerekben mutatkozik meg a buszos architektúrával szemben.
+
+ Az Anandtech mérése szerint a prototípus rendszer több mint 70 százalékkal nagyobb memóriasávszélességgel bír, miközben a késleltetés több mint 40 százalékkal volt alacsonyabb egy Yorkfield-alapú gép esetében. Ezek a különbségek két- és négyutas rendszerben ugrásszerûen tovább nõnek, az Intel mérései szerint a valós memóriasávszélesség terén egy kétutas konfigurációban a Nehalem több mint négyszeres elõnyre tesz szert, ami drámaian hat a teljesítményre.
+
+[+] Kíméletlenül erõsnek ígérkezik a Nehalem
+
+
+A Nehalem nehézsúlyú versenyzõnek számít az x86-os processzorok között, a 45 nanométeres eljáráson implementált, 731 millió tranzisztorból felépülõ chip 260 négyzetmilliméteren terül el. Magjai egyenként mintegy 25 százalékkal nagyobb területet emésztenek fel, mint a Penryné. Az erõteljesebb felépítés és nagyobb teljesítmény ellenére a még nem bevethetõ állapotban lévõ Nehalem rendszer fogyasztása alig 10 százalékkal haladta meg a Yorkfieldes konfigurációét. A Nehalem megjelenése a negyedik negyedévre várható szerver- és csúcskategóriás asztali processzorok formájában, a termelés felfutása és a további változatok piacra kerülése jövõ év folyamán esedékes.

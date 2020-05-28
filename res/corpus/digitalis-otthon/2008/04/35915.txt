@@ -1,0 +1,16 @@
+A PC-gyártók életben tartják a Windows XP-t
+
+A Microsoft június 30-án végleg kivonja a Windows XP-t a kiskereskedelmi forgalomból, ezt követõen az idén hét éves operációs rendszer már nem lesz megtalálható a boltok polcain, és a PC-ken sem, legalábbis elvileg. A gyakorlat azonban mást mutat, a legnagyobb PC-gyártók ugyanis úgy gondolják, van még igény a Windows XP-re, így különféle trükköket vetnek be annak érdekében, hogy továbbra is árulhassanak XP-s konfigurációkat. 
+
+
+
+A leginkább kézenfekvõ kiskapu a Vistába épített downgrade opció, amely a Business és Ultimate változat esetén lehetõvé teszi bármelyik korábbi Windows-verzió használatát. A Vista Business-szel és Ultimate-tel értékesített számítógépek esetén tehát semmi sem akadályozza a PC-gyártókat abban, hogy Windows XP-t adjanak a gépekhez. A Dell már jelezte, hogy üzleti felhasználásra szánt gépeit (OptiPlex, Latitude, Precision) biztosan meg lehet majd venni Windows XP-vel is, mint ahogy a kisvállalatoknak szánt Vostro és a játékosoknak szánt XPS modelleket is.
+
+A HP is azt tervezi, hogy a Vista downgrade opció segítségével egészen 2009 nyaráig a kínálatában tartja a Windows XP-t. A Lenovo a PC-it ugyan továbbra is Vistával szállítja, de kérésre Windows XP helyreállító lemezt (recovery disk) is csomagol hozzájuk, így a felhasználó visszaválthat a régebbi operációs rendszerre. A Microsoft 2009 januárjáig szállít Windows XP telepítõlemezeket a PC-gyártóknak, akik egész addig élhetnek a dowgrade-jogukkal, amíg hozzá tudnak jutni a Windows XP-hez. A sors furcsa fintora, hogy a downgrade opcióként értékesített Windows XP-k licenceladás szempontjából Windows Vistának számítanak, vagyis az új operációs rendszer eladási számait gyarapítják. A Microsoft legutóbbi pénzügyi adatai szerint Vistából már 140 milliót értékesítettek.
+
+
+
+
+ A nagyvállalatokat a Windows XP kiskereskedelmi forgalmazásának megszûnése egyelõre nem érinti, õk mennyiségi licenc keretén belül továbbra is bármilyen Windows-verziót bármilyenre downgrade-elhetnek. A kisebb cégek azonban gyakran a kiskereskedelemben vásárolják meg PC-iket, az õ számukra kritikus fontosságú lehet, hogy továbbra is tudjanak Windows XP-t, vagy azzal telepített számítógépeket vásárolni, ha valamilyen ok (pl. alkalmazás-inkompatibilitás) miatt még nem állnak készen a Vista bevezetésére.
+
+Eközben a Forrester elemzõcég "elkerülhetetlennek" nevezte a Vista bevezetését a vállalatoknál, az elemzõcég szerint ennek két legfõbb oka a Windows XP életciklusának befejezõdése, illetve az utódlás bizonytalansága. A Microsoft 2010-re ígéri a következõ asztali Windowst, azonban egyelõre  semmit sem tudni róla azon kívül, hogy üzleti és fogyasztói változatban egyaránt piacra kerül. A Windows XP megöregedése és a Windows 7 körüli bizonytalanság miatt végül a cégeknek nem marad más választása, mint a Vista bevezetése -- vélik a Forresternél.

@@ -1,0 +1,16 @@
+Frissítette Solaris 10 operációs rendszerét a Sun
+
+A Sun Microsystems április közepén adta ki a harmadik születésnapját ünneplõ operációs rendszere, a Solaris 10 legújabb frissítését. A sorrendben ötödik nagyszabású frissítõcsomagban számos újdonság kapott helyet, amelyek elsõsorban a jobb x86-támogatást, nagyobb teljesítményt, és könnyebb kezelhetõséget célozzák.
+
+
+
+A Solaris 10 Update 5 egyik legfontosabb újdonsága az Intel processzoraiban már régóta megtalálható Enhanced Speedstep energiatakarékos technológia támogatása. A frissítés után a Solaris 10 már ki tudja használni a Pentium III mobil változatában bevezetett, de ma már az Intel asztali és szerverprocesszoraiban is jelen levõ technológiát. Az Enhanced SpeedStep (szervereknél Demand Based Switching) a terhelés függvényében képes csökkenteni a processzor órajelét és mûködési feszültségét annak érdekében, hogy spóroljon a fogyasztással. Ez a képesség eleinte csak az akkumulátorról mûködõ noteszgépeknél volt fontos, de ma már az adatközpontokban mûködõ szerverek esetén is kritikus jelentõséggel bír, ahogy a tápellátás és hûtés alig tud lépést tartani a gépek fogyasztása és hõtermelésével.
+
+Szintén a Solarist futtató x86-os szerverek nagyobb energiahatékonyságát célozó újítás az SSE3 MONITOR és MWAIT utasításainak támogatása. A két parancs segítségével nem szükséges megszakítás ahhoz, hogy egy energiatakarékossági okból leállított processzor felébredjen: az MWAIT leállítja a processzor mûködését addig, amíg a MONITOR-ban megadott memóriacímre egy parancs nem akar írni. További, processzorkezeléssel kapcsolatos fejlesztés a CPU Caps, ami lehetõvé teszi a Solaris zónái által lefoglalt erõforrások finomhangolását akár az egyes processzorok szintjén.
+
+
+ A nagyobb megbízhatóságot és robosztusságot célozza a SAS merevlemezek multipathing-támogatása. A multipathing lényegében annyit takar, hogy az I/O eszközökhöz a rendszeren belül több "út" is vezet -- esetünkben egy SAS diszk több kontrollerhez is csatlakozhat, így ha az egyik kontroller meghibásodik vagy valamilyen más ok miatt kiesik, az operációs rendszer a másik kontrolleren keresztül továbbra is el tudja érni. További, lemezkezeléssel kapcsolatos újdonság a Solarisban a SATA NCQ támogatás megjelenése.
+
+A Solaris 10 Update 5-ben figyelemre méltó fejlesztés az Xvnc szerver és kliens megjelenése, a könnyebb asztali használat érdekében pedig az operációs rendszerben található desktop-komponenseket is frissítették, így került be a Solaris 10-be a StarOffice 8, a Flash Player 9, valamint a Pidgin azonnali üzenetküldõ 2.0 verziója. A fejlesztõk javítottak a nyomtatókezelésen is (PostScript Printer Description és Internet Printing Protocol támogatás, localhost is választható nyomtatószervernek).
+
+A Solaris 10 Update 5 összes újdonságát felsoroló dokumentum elérhetõ a Sun weboldalán, mint ahogy maga az operációs rendszer is ingyen letölthetõ a cégtõl. A használatáért sem kér pénzt a Sun, egyedül a terméktámogatás fizetõs.

@@ -1,0 +1,15 @@
+Kis helyigényû lézeres multifunkciós a HP-tól
+
+Elsõként a gépház oldalába épített tûzõgép tûnhet fel a szemlélõnek a HP új lézeres multifunkciósán, de a gyártó ennél sokkal többel, a vállalati munkafolyamat javításával kecsegtet.
+
+
+
+Nemrégiben számoltunk be a HP új, fotóhoz közeli minõségben dolgozó LaserJet CP3525 
+lézernyomtató-sorozatáról, mely lehetõvé teszi, hogy azonos nyomtatóval készítsük el az irodai dokumentumokat és a kis példányszámú marketing-anyagainkat is. Ugyanerre a nyomtatómûre épül az új CM3530-as multifunkciós-sorozat, mely ennek folytán nyomatminõségben és nyomtatási funkciókban megegyezik a CP3525 lézernyomtatókkal és alapterületben sem igényel azoknál sokkal többet. Percenként 30 monokróm vagy színes lap elõállítására képes ImageREt 3600 rendszerben, ahol a címezhetõ felbontás 1200x600 dpi, de egyetlen képponton belül nagy számú színvariáció lehetséges. Ez és a kémiailag növesztett ColorSphere toner teszi lehetõvé a lézernyomtatóktól megszokottnál jobb minõségû színkeverést.
+
+HP CLJ CM3530 &#8211; az alapváltozat
+
+A gyártó nem pusztán nagy teljesítményt ígér közleményében, hanem olyan, 3-10 személyes munkacsoportok kiszolgálását, amiknek nincs szükségük A/3-as nyomtatásra, másolásra és szeretnék javítani az irodai munkafolyamatok hatékonyságán. Ehhez hozzáadott szolgáltatásaival kíván fokozottan hozzájárulni a CM3530-as sorozat, mely a digitális azonosítástól (PIN, LDAP/Active Directiry, Kerberos vagy NetWare) kezdõdõen kiterjed nem csak az e-mailes továbbküldésre, hanem az optikai szövegfelismerésre is, beleértve a dokumentum kulcsszavakkal való ellátását is (metadata). Nincs akadálya annak, hogy különféle formátumokra (XML, kershetõ PDF, text, RTF, RTM) alakítsuk, illetve adatbázisokba küldjük a dokumentumokat, így beillesztve azokat a digitális munkafolyamatba  A Digital Sending Software (DSS) nem része az alapkiépítésnek, ahogy az 500 lapos második adagoló, az EIO-illesztésû titkosított merevlemez és a faxmodul is kiegészítõnek számít.
+
+
+Apró különlegesség a CM3530fs modell oldalába épített motoros iratkapcsozó, ami a CM3530 változatból hiányzik. Ne automatikus fûzõ-kapcsozó egységre gondoljunk, pusztán egy kis kényelmi extrára, amibe kézzel adagolhatunk egy-egy vékony köteg dokumentumot. Megemlíti még a gyártó közleménye a kompakt kellékanyag-kazetták 10000 oldalas kapacitását, minek kapcsán kedvezõ nyomtatási költségeket ígér. Pontosat a novemberre várható hazai bevezetés után tudhatunk meg a géprõl.

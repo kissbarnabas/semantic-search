@@ -1,0 +1,16 @@
+Ingyen oktatja az Exchange Server 2007 üzemeltetését a Microsoft
+
+A www.microsoft.hu/technet weboldalon egy háromszáz oldalas tankönyvbõl, 12 órányi screencastból és 15 prezentációból álló, magyar nyelvû Exchange Server 2007 tananyag jelent meg. A cég szerint az anyag felépítése lehetõvé teszi, hogy az érdeklõdõ informatikai szakemberek, leendõ és gyakorló rendszergazdák az alapoktól kezdjék az ismerkedést, és saját tempójukban sajátítsák el a gyakorlati üzemeltetés praktikáit.
+
+ 
+ 
+A tananyag részét képezi Petrényi József Exchange Server szakértõ  háromszáz oldalas, magyar nyelvû  könyve, amelybõl megismerhetõk a szerver bevezetésével és üzemeltetésével kapcsolatos legfontosabb tudnivalók, gyakran elõforduló konkrét problémák és megoldási lehetõségek felvonultatásával. Az könyv részletesen tárgyalja az Exchange Server 2007 architektúráját, így az olvasó betekintést nyerhet a szoftver mûködésébe is.
+
+
+ "Nos, ez mindenképpen rendhagyó könyv lesz. [...] Megpróbálom érthetõvé és átláthatóvá tenni az Exchange ezen új verzióját, ráadásképp igyekszem szórakoztatóvá is tenni magát a könyvet. Mosolygó adminisztrátorokat szeretnék látni" -- olvasható a szerzõ elõszavában.
+
+A könyben olvasható információkat több mint 6 órányi screencastból és 11 prezentációból álló alapozó tananyag segítségével próbálja a gyakorlatban még jobban alkalmazható ismeretté konvertálni a Microsoft. Ezek olyan témákat tárgyalnak mint az alapbeállítások és a kezelõfelület áttekintése, a címlisták, a házirendek és a postafiókok kezelése, az üzenetek küldése és fogadása, valamint az együttmûködés más csoportmunka szoftverekkel és szolgáltatásokkal.
+
+A tananyag harmadik része a 2009. februári Exchange Server 2007 mélyvíz rendezvény bõvített, online elérhetõ anyaga, amely már az üzemeltetésben jártas szakembereket célozza. A több mint 5 órányi screencasttal és 4 prezentációval mélyen szakmai, gyakorlati oldalról közelít a téma felé. Az Exchange 2007 mélyvíz olyan témákat jár körül, mint a szerver architektúrája, a migráció lehetõségei, a Client Access, a Hub és az Edge Transport Server, valamint az Exchange adatmentési és magas rendelkezésre állást biztosító képességei.
+
+Az Informatika Tisztán programsorozat célja a meglévõ, már széles körben elérhetõ technológiák bemutatása a hazai informatikai szakemberek számára. Az Exchange Server 2007-et és a csoportmunka megoldásokat bemutató eseménysorozaton az elmúlt év folyamán közel háromezer rendszergazda vett részt. A most teljessé vált tananyaggal a vállalat szeretné ezt a tudást azok számára is elérhetõvé tenni, akik az eseményeken nem tudtak részt venni, vagy tovább szeretnék bõvíteni ismereteiket.

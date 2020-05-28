@@ -1,0 +1,11 @@
+Frissült a Firefox, még idén jön a 3.6-os verzió
+
+A Firefox 3.5.3 és 3.0.14 verziószámot viselõ biztonsági javítások közül három bizonyult kritikus besorolásúnak a Mozilla saját osztályzata alapján, emellett a frissített böngészõ stabilabb is lett a Mozilla weboldalán szereplõ információk szerint. A mostani frissítés egyébként várhatóan az egyik utolsó javítás a Firefox korábbi, 3.0-s verziójához, a fejlesztõk ugyanis mielõbb a júniustól elérhetõ 3.5-ös verzió használatára igyekeznek ösztönözni.
+A Mozilla fejlesztõi weboldalán a hét elején közzétett információk szerint az újabb fõverziók fejlesztése mindeközben gõzerõvel zajlik: a mobil operációs rendszerekkel szorosabb integritást ígér a Firefox 3.6, mely a tervek szerint még az év vége elõtt megjelenhet. A soron következõ verzió emellett a fejlesztõk tervei szerint gyorsabb is lesz a jelenlegi változatoknál, mind a weboldalak renderelését, mind a program általános teljesítményét (például elindulás) illetõen.
+
+A jövõ év elejére várható 3.7-es verzió már a Firefox párhuzamosítását célzó projekt mintegy elõszelének tekinthetõ, ennél a változatnál ugyanis a tervek szerint már különálló folyamatban futnak majd a böngészõkiegészítõk, így az alkalmazás erõforrás-kihasználása lényegesen javulhat, különösen több, nagy erõforrásigényû plugin használata esetén.
+A Firefox várhatóan egy év múlva megjelenõ 4.0-s verziójában különálló folyamatban futhat a tartalom és a felhasználói felület. Erre azért van szükség, mivel a jelenlegi verziókkal egy-egy weblap okozta megakadás más weblapok kezelését, vagy a szoftvert is lelassíthatja, vagy akár magával is ránthatja, így a többi tartalomhoz sem férhetünk hozzá, és a Firefox is válaszképtelenné válhat. A párhuzamosítási törekvés a böngészõ stabilitása mellett biztonsági szempontból is indokolt lehet.	     
+                  
+                  
+                  
+                   

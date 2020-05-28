@@ -1,0 +1,20 @@
+Egyelõre nem kell a Google Docs-tól tartania a Microsoftnak
+
+A Microsoft Office-nak nem a Google Docs-tól, hanem az OpenOffice-tól kell leginkább tartania -- derül ki abból a felmérésbõl, amelyet az amerikai ClickStream Technologies készített a különféle irodai csomagok népszerûségét vizsgálva. A Google online szolgáltatásként elérhetõ szövegszerkesztõjénél és táblázatkezelõjénél még a Corel WordPerfect is népszerûbb, legalábbis az Egyesült Államokban.
+
+
+
+Nem vonzó a Google Docs
+
+Az otthoni felhasználók körében toronymagasan a Microsoft Office a legnépszerûbb irodai csomag, a felmérésben résztvevõ felhasználók 51 százaléka használja a Wordöt szövegszerkesztésre. A második legnépszerûbb szövegszerkesztõ a Windowsba épített Notepad, OpenOffice-t csak a válaszadók 5 százaléka használ, a Google Docs-ot pedig csak 1 százalékuk. A táblázatkezelõk terén is kiütéssel gyõz a Microsoft, a megkérdezettek 26 százaléka használta az Excelt, míg a Google Spreadsheets-et 0,3 százalékuk.
+
+
+ A felmérésbõl az is kiderül, a Google Docs-ot a legtöbben az Office kiegészítéseként használják -- a Docs-felhasználók 68 százaléka a Wordöt is használ, és vélhetõen a Google segítségét csak a dokumentumok megosztásához veszi igénybe, a szerkesztéshez nem. Ezzel szemben az OpenOffice-felhasználók 74 százaléka rá se néz a Microsoft termékére.
+
+A ClickStream Technologies által szolgáltatott adatokból az is kiderül, hogy a Word és az Excel nem csak a leggyakrabban használt szövegszerkesztõ és táblázatkezelõ, hanem a leghosszabb ideig is ezeket használják -- a felhasználók rendre 16 és 18 percet töltenek el bennük átlagosan, míg az OpenOffice-ban 9 percet, a Google Docs-ban mindössze 3 percet és jóval kevesebbet is kattintanak.
+
+Jön a webes Office
+
+Sokan vélik úgy, hogy a Microsoft Office elsõ számú kihívója a Google Docs, azonban az eredmények azt mutatják, a redmondiaknak inkább az OpenOffice-tól kell tartaniuk. Steve Ballmer, a Microsoft elsõ embere egyenesen primitívnek nevezte a Google szolgáltatását. A Google Documentsnek "nagyon primitív képességei vannak csupán, még egy lábjegyzetet sem lehet beszúrni a szövegszerkesztõjében" -- mondta Ballmer, aki szerint az OpenOffice és a StarOffice ma nagyobb kihívás, komolyabb ellenfél, mint a Docs vagy a Spreadsheets.
+
+A Microsoft az október végi Professional Developers Conference-en demonstrálta az Office 14 webes képességeit. A Windows 7-tel egyszerre érkezõ új irodai csomag legfontosabb komponensei (Word, Excel, PowerPoint, OneNote) webalkalmazás formájában is elérhetõek lesznek, az asztali szoftverekéhez megszólalásig hasonlító külsõt és közel azonos szolgáltatásokat biztosítva.

@@ -1,0 +1,10 @@
+Nyílt forrású internet bootloader 
+
+A netboot.me szoftver a nyílt forrású gPXE (korábban Etherboot) egy speciális változata, melyet arra készítettek fel, hogy ne LAN-on, hanem az interneten keresztül végezze el egy rendszerkép betöltését. A CD-rõl USB-meghajtóról, flopiról  vagy akár hálózatról bootolható szoftver funkciójához híven egy menedzser program, mellyel kiválaszthatjuk, milyen operációs rendszert szeretnénk betölteni.
+
+A netboot.me alapesetben a rendkívül kompakt TinyCore Linux és Micro Core Linux disztribúciókat tudja "live", vagyis telepítés nélkül egybõl betölteni, míg FreeBSD-hez, Debianhoz, Ubuntuhoz, Fedorához és openSUSE-hez is rendelkezik online tölthetõ telepítõvel. A szolgáltatás egyik legnagyobb elõnye, hogy mindig az aktuális legfrissebb csomagokkal rendelkezõ kiadást tölti le.
+Szintén hasznos, hogy különféle diagnosztikai programot is felkínál, többek közt Memtestet, Parted Magicet és egy Ubuntu rendszervisszaállítási eszközkészletet is. Amennyiben ezekkel nem volnánk megelégedve, egyszerûen saját rendszerképeket beregisztrálhatunk a rendszerbe, amihez mindössze egy Google felhasználóra, és a megfelelõ rendszerképhez vezetõ URL-re van szükség. Mivel nyílt forráskódú szoftverrõl van szó, ezért elvileg annak sincs akadálya, hogy zárt szolgáltatást fejlesszünk ki belõle, így lehetõvé válik akár saját magunknak készített és kereskedelmi operációs rendszerek neten keresztüli bootolása is.	     
+                  
+                  
+                  
+                   

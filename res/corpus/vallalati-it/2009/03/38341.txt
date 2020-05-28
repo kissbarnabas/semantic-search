@@ -1,0 +1,12 @@
+A Fusion-io megduplázta SSD-tárolótömbjének kapacitását
+
+A Fusion-io szerverekbe szánt ioDrive Duo SSD-tömbje már 640 gigabájt tárolását is felvállalhatja. A termék rendkívül gyors, az adatokat akár 1,5 gigabájtos másodpercenkénti sebességgel is közlekedtetheti.
+
+
+
+A Fusion-io ioDrive Duo tárolója március 12-én mutatkozott be. A PCI Express kivitelû kártyát a gyártó a jelenlegi leggyorsabb tárolóként jellemezte, pontosabban a leggyorsabb szerveralapú szilárdtest-tárolóként. Több ioDrive-ból álló rendszerek teljesítménye lineárisan skálázható, négy eszköz párhuzamos használatával elérhetõ akár 6 gigabájt másodpercenkénti olvasási sávszélesség is, illetve másodpercenkénti 500 ezer olvasási mûvelet -- mondta el David Flynn, a Fusion-io mûszaki vezetõje.
+
+
+A PCI Express x8, vagy PCI Express 2.0 x4 szabványokon nyugvó ioDrive Duo önmagában 1,5 gigabájt másodpercenkénti sebességgel szállíthatja az adatokat (32k csomagméret mellet), közel 200 ezer olvasási I/O mûveletet hajthat végre másodpercenként. Az írási I/O mûveletek sem sokkal maradnak el az olvasásitól, másodpercenként 167 ezret képes a tároló lekezelni 4k méretû csomagok esetében. A meghajtó késleltetése kisebb mint 50 mikroszekundum.
+
+Az ioDrive Duo az év második negyedévében, áprilisban válik elérhetõvé, rendelni belõle négyfélét is lehet, a legkisebb, 160 gigabájtos változat mellett 320, 640 gigabájtos, valamint egy 1,28 terabájtos modellt is.

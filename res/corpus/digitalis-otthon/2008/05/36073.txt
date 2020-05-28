@@ -1,0 +1,12 @@
+Jelentõs Intel árcsökkentések várhatóak júliusban
+
+[Digitimes/HWSW] Az áprilisinál átfogóbb árcsökkentésekre készül az Intel, adta hírül a tajvani Digitimes alaplapgyártói forrásokra hivatkozva. A processzorgyártó egyúttal gyorsabb négymagos és kétmagos modelleket is bevezet.
+
+
+
+Az elmúlt évek alapján az Intel évi második árcsökkentése július második felében esedékes, így az augusztus során valószínûleg már érezteti hatását az értékesítési csatornákban is. A 2,83 gigahertzes Core 2 Quad Q9550 (12 megabájt L2, 45 nanométeres gyártástechnológia) gyártó nettó listaára 40 százalékkal 316 dollárra esik, ami a hazai üzletekben 75-80 ezer forint körüli árat jelenthet. A Q9550 helyét az árképzésben az új, 3 gigahertzes Q9650 (12 megabájt L2, 45 nanométer), vagyis 120-130 ezer forintért lehet majd hozzájutni a jelenlegi magyar kiskereskedelmi árak alapján.
+
+
+Megszûnik a Q9450 (2,66 GHz, 12 megabájt L2, 45 nanométer), mivel a helyét a Q9550 veszi át, ahogyan a Q9300 szállításait (2,5 GHz, 6 megabájt L2, 45 nanométer) is befejezi majd a gyártó, helyére pedig az új Q9400 kerül, egy fokozattal magasabb, 2,66 gigahertzes órajelen. Szintén kivonja a piacról a 65 nanométeres Q6700 (2,66 GHz, 8 megabájt L2), és a négymagosak között a Q6600 marad egyedüli 65 nanométeresként, ára pedig várhatóan mintegy 10 százalékkal mérséklõdik.
+
+Egy fokozattal tovább srófolja a mainstream kétmagos asztali termékvonalának csúcsórajelét is a vállalat, a 45 nanométeres Core 2 Duo E8600 immár 3,33 gigahertzen ketyeg, az E8500-ért változatlan áron. Az E8500 és E8400 modellek egy-egy lépcsõvel lejjebb kerülnek az árstruktúrában, ami rendre 32 és 11 százalékos árcsökkentést takar. A Digitimes szerint az E8300 modell megszûnik. Az Intel alsó-középkategóriás E7300 is piacra dobja, mely 2,66 gigahertzen üzemel, 3 megabájt L2 cache-sel rendelkezik, árazása pedig megegyezik az E7200-éval.

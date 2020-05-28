@@ -1,0 +1,32 @@
+Magyar idõ szerint péntek este 9-kor érkezik a Windows 7 béta
+
+A Las Vegas-i Consumer Electronics Show nyitóelõadásában Steve Ballmer, a Microsoft elnök-vezérigazgatója bejelentette, hogy a vállalat következõ asztali operációs rendszerének, a Windows 7-nek péntekrõl lesz elérhetõ a nyilvános bétaváltozata. Ballmer elõször vett részt elõadóként a Consumer Electronics Show-n. Korábban a Microsoft részérõl mindig Bill Gates tartotta a nyitóelõadást, õ azonban 2008 közepén kiszállt a Microsoft közvetlen irányításából, hogy több idõt tölthessen jótékonykodással. 
+
+
+
+Mi kell a bétához?
+
+A Microsoft magyar idõ szerint ma este 9-kor teszi elérthetõvé a Windows 7 nyilvános bétaváltozatát a www.microsoft.com/windows7 weboldalon. A szoftvert bárki letöltheti és kipróbálhatja, a Microsoft azonban csak 2,5 millió (más források szerint 3 millió) licenckulcsot bocsát ki, amely segítségével aktiválni kell az operációs rendszert. Aktiválás n nélkül a szoftver legfeljebb 30 napig használható, de ez egy trükkel akár 120 napra is növelhetõ.
+
+ Ha lejárt a 30 nap, a parancssorban csak ki kell adni a sorban a "sysprep /generalize", a "slmgr.vbs &#8211;rearm", a "rundll32 slc.dll,SLReArmWindows" és a "slmgr /rearm" parancsokat, ezt követõen egy újraindítás után újabb 30 napig használható lesz a Windows 7 béta, aktiválás nélkül is. A trükkel összesen háromszor lehet meghosszabbítani a használati idõt, így összesen 120 napig használhatja a bétáta még az is, akinek nem jutott licenckulcs.
+
+A Windows 7 egyaránt elérhetõ 32 és 64 bites változatban is. A Microsoft weboldaláról mindkét lemezkép letölthetõ lesz, a 32 bites verzió mérete 2,4 gigabájt, a 64 bites ennél némileg nagyobb, 3,1 gigabájt méretû. A szoftver telepítéséhez legalább 1 GHz-es processzorral, 1 gigabájt memóriával és 16 gigabájt szabad lemezterülettel kell rendelkeznie a PC-nek, emellett nem árt egy legalább 128 megabájt grafikus memóriával felvértezett, DirectX 9-gyorsításra képes videokártya sem. A minimális hardverkövetelmény nagyjából megegyezik a Windows Vistáéval.
+
+Az eddigi legjobb Windows
+
+A lendületes stílusáról ismert Microsoft-vezér magabiztosan kijelentette, hogy a Windows 7 fejlesztése a terveknek megfelelõen halad és a vállalat az eddigi legjobb operációs rendszerével jelentkezik majd. A megjelenés idõpontjával kapcsolatban azonban nem árult el új infomációt Ballmer -- a Windows 7 bemutatkozása 2009 végén vagy 2010 elején várható. MSDN- és TechNet-elõfizetõk már tegnap este óta letölthetik a bétát, de a nagyközönség csak péntekrõl érheti majd el -- noha fájlcserélõkön a program már közel két hete terjed. 
+
+"A Windows 7 gyorsabban indul, takarékosabban bánik az akkumulátorral és kevesebb rendszerfigyelmeztetést jelenít meg" -- sorolta az újdonságokat Ballmer, hozzátéve, hogy az operációs rendszer kezelõfelülete is fejlõdött, az érintõkijelzõk jobb támogatásának köszönhetõen pedig hatékonyabban használható például tablet PC-ken vagy az utóbbi idõben divatba jött érintõkijelzõs asztali gépeken is. A CES nyitóelõadásán Charlotte Jones, a Windows 7 termékmenedzsere rövid bemutatót is tartott a szoftver képességeirõl
+
+
+
+Nagyszabású webkeresési megállapodások
+
+A Microsoft elnök-vezérigazgatója két új webkeresési megállapodást is bejelentett. Egy most nyilvánosságra hozott ötéves szerzõdés alapján a Verizon Wireless mobilszolgáltató a Microsoft webkeresõjét használja majd alapértelmezetten a telefonjain. Az Egyesült Államok második legnagyobb mobilszolgáltatójaként több mint 70 millió ügyféllel rendelkezik. Hasonló megállapodást kötött a Microsoft a Dellel is, amelynek PC-in a Live Search lesz az alapértelmezett keresõ, leváltva a Google-t.
+
+
+ Ballmer ejtett néhány szót a Microsoft terveirõl is a recesszió fényében. Az elnök-vezérigazgató elmondta, a legutóbbi évben a cége közel 8 milliárd dollárt költött kutatás-fejlesztésre, és a büdzsét a gazdasági körülmények romlása ellenére sem tervezik csökkenteni. Ballmer úgy vélekedett, a cégnek továbbra is elõre kell nyomulnia a "digitális életstílus" terén, és ez nem a megfelelõ idõ a visszavonulásra.
+
+Hasít az Xbox 360
+
+Ballmer után Robbie Bach következett a színpadon, aki az Xbox 360 által elért eredményeket métatta. A Microsoft új konzoljából eddigi története során már 28 millió példányt adtak el, az Xbox Live online közösségnek 17 millió tagja van, akik az Xbox 360 megjelenése óta több mint 1 milliárd dollárt költöttek letölthetõ játékdemókra, videókra, zenékre, tévésorozatokra. Bach büszkén bejelentette, hogy a Halo részeibõl már több mint 25 millió fogyott és az idén két új résszel bõvül a sorozat, a Halo Warsszal, valamint a Halo 3: ODST-vel (korábbi nevén Halo 3: Recon).

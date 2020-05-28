@@ -1,0 +1,14 @@
+A VIA bejelentette apró otthoni médiaszerverét
+
+A VIA Technologies parányi szervert mutatott be, melyben a gyártó saját, C7-D processzora teljesít szolgálatot. A CD-tok szélességû és magasságú masina 3 terabájt adatot is tárolhat, amely bõséges az otthoni zenék, filmek, képek számára.
+
+
+
+A VIA Technologies ARTiGO A2000 barebone szervere szembõl nézve akkora, mint egy CD-tok, mélysége pedig 260 milliméter. A kisméretû gépházban 1,5 gigahertzen üzemelõ VIA C7-D processzor található, mellé akár 2 gigabájtnyi DDR2 memória is rendelhetõ. A szerver két merevlemez számára biztosít helyet, amik SATA kábelen keresztül csatlakozhatnak a nano-ITX kivitelû alaplaphoz.
+
+
+Az ARTIGO A2000 üzem közben mindössze 26,8 decibellel terheli környezetét, fogyasztása a C7-D processzornak és a VIA VX800 chipkészletnek köszönhetõen igen alacsony. A gyártó a szervert leginkább otthoni felhasználásra ajánlja, a médialejátszásért felelõs részegységek között 7.1 csatornás hangrendszert is találunk. Az alaplap a gyártó állítása szerint igen jó minõségû kondenzátorokat tartalmaz, ezért az ARTiGO tartósnak ígérkezik, a VIA szerint az alaplap élettartama hatszorosa egy átlagos alaplapénak.
+
+VIA ARTIGO A2000
+
+A VIA szervere három USB 2.0 kaput kínál, valamint rendelkezik egy Compact Flash kártyahellyel is. Az utóbbiba csúsztatott kártyáról képes a gép rendszert is indítani. A gép a hátoldalán az USB-kapuk mellett VGA-kimenetet, a külsõ tápegység csatlakozóját, gigabites Ethernet-portot, valamint hang ki- és bemeneteket kínál. Vezeték nélküli hálózati adapter az alapkivitelnek nem része, de extraként rendelhetõ. Az ARTiGO A2000 piacérett, a jövõ héttõl már kapható is, amerikai webshopok 299 dollárért vesznek fel rá elõrendelést.

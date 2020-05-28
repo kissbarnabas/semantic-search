@@ -1,0 +1,16 @@
+Bemutatta új mainframe számítógépét az IBM
+
+A korábbinál lényegesen nagyobb teljesítményû és energiahatékonyabb mainframe-et jelentett be az IBM. Az öt éven át, 1,5 milliárd dollárból fejlesztett System z10 konfigurációk mától rendelhetõk, az árak 1 millió dollár környékérõl indulnak. Ezzel párhuzamosan az IBM frissítette mainframe operációs rendszerét, a z/OS-t is, az 1.10-es változat az ígéret szerint õsszel érkezik.
+
+
+
+A megbízhatóság és rendelkezésre állás etalonjának tekintett mainframe-ek legnagyobb felhasználói a pénzügyi szolgáltatók, tõzsdék, nagyvállalatok, kormányzati szervek, na meg a hadseregek. A 2005 óta most elõször felfrissített IBM System z termékvonal legújabb tagja számos újdonságot hoz. A legfontosabb, hogy a z10 már 64 datab  nágymagos processzort tartalmaz, míg elõdje, a z9 54 darab kétmagos chipre épült. Az IBM azt állítja, a z10 mainframe teljesítménye 1500 x86-os szerveréhez mérhetõ, ugyanakkor azoknál 85 százalékkal kevesebb energiát fogyaszt és jóval kevesebb helyet is foglal el.
+
+Az utóbbi idõben számos elemzõ azon véleményének adott hangot, hogy a mainframe-ek napjai meg vannak számlálva, a számok azonban rájuk cáfolnak. A mainframe-ek kezére játszik az utóbbi idõk két legfontosabb trendje az adatközpontokban, a konszolidáció és a virtualizácó, amelyek célja, hogy a cégek a lehetõ legkevesebb szervert vegyék igénybe, és azokat a leghatékonyabban használják ki. A mainframe-ek feltámadásának egyik jele, hogy ma már akár Linuxot (pl. SUSE), vagy Solarist is futtathatunk rajtuk, így alkalmazások széles körét bízhatjuk rájuk.
+
+
+
+
+Az IBM a legutóbbi hét negyedévbõl öt esetben növelni tudta mainframe-forgalmát, a legutóbbiban az eladások csak azért bicsaklottak meg, mert a vevõk a most bejelentett z10 érkezésére vártak. Bár a Nagy Kék forgalmának csak 3 százalékát teszik ki a mainframe-eladások, becslések szerint a hozzájuk kapcsolódó, illetve rajtuk megvalósított szolgáltatások adják a profit felét.
+
+"Ha különösen nagy mennyiségû tranzakciót szeretnél futtatni nagy adatbázisokkal a lehetõ legnagyobb biztonságú környezetben, a mainframe neked való" -- mondta a David Gelardi, az IBM hardverrészlegének ipari megoldásokkal foglalkozó vezetõje. "Igen, ez egy drága gép, ez nem kérdéses, de sokat nyújt az áráért."

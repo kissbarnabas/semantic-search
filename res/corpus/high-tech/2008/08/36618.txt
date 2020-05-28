@@ -1,0 +1,12 @@
+Nagyjából egy év múlva jön az Intel grafikus maggal integrált processzora
+
+[Digitimes/HWSW] Jövõ év harmadik negyedében érkezik a Centrino következõ generációja, jelenti a Digitimes, várhatóan valamivel több mint egy évvel az ezekben a hetekben felfutó Centrino 2-t követõen. A Calpella kódnéven ismert notebookplatform legnagyobb újdonsága a magas fokon integrált processzor lesz, mely olcsóbbá teszi majd a gépek elõállítását, kompaktabb méreteket eredményez, és hosszabb akkumulátoridõvel kecsegtet.
+
+
+
+A Calpella már az új, még bemutatás elõtt álló Intel processzorcsalád köré építkezik. A kifejezetten a szerverek és munkaállomásokat szem elõtt tartó fejlesztéseket felvonultató Nehalem egyik mobil derivatíváinak érdekessége az integrált grafikus mag megléte. Az integráció az eddig felszínre került információk alapján nem szilíciumon történik, hanem vélhetõen tokozással. Az Auburndale kódnéven ismert fejlesztés egy kétmagos processzor mellé egy DDR3 memóriavezérlõt, DirectX 10 grafikus magot és PCI Express vezérlõt integráló chipet tokoz, a két lapka között pedig vélhetõen QuickPath összeköttetés biztosítja a kommunikációt.
+
+
+A ilyen magas fokú integrációnál drasztikusan egyszerûsödik a külsõ chipsetekkel szemben igény és a huzalozás mértéke. A Digitimes információi  szerint a chipset valójában már mindössze egyetlen chipbõl áll majd, mely az Ibex Peak-M. Az inkább hosszú akkumulátoridõre optimalizált integrált Auburndale mellett természetesen lehetõség nyílik majd nagyteljesítményû négymagos processzorokra és dedikált grafikus chipekre is. A Calpella további újdonsága, hogy vadonatúj, energiatakarékos vezeték nélküli 802.11n hálózati vezérlõje lesz, amellyel az Intel szerint akár 30 perc akkumulátoros üzemidõ is megspórolható a Montevinával összevetve, ígéri az Intel. 
+
+A legutóbbi információk szerint valamikor 2009 második felében érkezhet az AMD Shrike notebookplatformja, mely a nemrég bemutatott Pumát követi majd. A Shrike lényegében azokat az újdonságokat hozza el magával az AMD oldalán, melyeket a Calpella is: processzorhoz integrált grafikus mag, mely egy Radeon 3800-as családba tartozó lesz. A Swift a Barcelonával megismert 10h mikroarchitektúrát alkalmazza majd, egyelõre azonban nem világos, hogy az integráció milyen módon történik: egyes értesülések szerint  szilíciumon, mûszaki és gazdaságossági okok azonban a multi-chip tokozást vagy multi-chip modult indokolna.

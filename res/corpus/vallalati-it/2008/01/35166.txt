@@ -1,0 +1,28 @@
+IBM Lotusphere: együttmûködés az SAP-val és a nagy Linux-disztribútorokkal
+
+A vállalatirányítási szoftvereirõl ismert SAP az IBM Lotusphere konferencián bejelentette, hogy a Nagy Kékkel közösen olyan szoftvert fejlesztenek, amely a Lotus Notes-t integrálja az SAP Business Suite-tal, így a felhasználók közvetlenül a megszokott asztali környezetükbõl érhetik el az SAP üzleti folyamatokat és adatokat. Az IBM eközben linuxos csomagokkal fûtene be a Microsoftnak.
+
+
+
+A közös ügyfelek kérték
+
+A vállalatok szerint a közös ügyfelek már régóra kértek egy ilyen terméket.  "Ez az együttmûködés megerõsíti elkötelezettségünket az IBM-mel. Több mint 30 éve mûködik együtt az IBM és az SAP, hogy közös vásárlóinkat, a több mint 9 ezer ügyfelünket az üzleti hatékonyságot növelõ csúcstechnológiájú megoldásokkal lássuk el" -- mondta Vishal Sikka, az SAP technológiai igazgatója. Az IBM száz legnagyobb ügyfelének túlnyomó többsége az SAP megoldásait is használja -- hangzott el a Lotusphere rendezvényen.
+
+
+ Az Atlantic kódnéven fejlesztett szoftver elsõ kiadását az idei év végére ígérik a cégek. Az Atlantic lehetõvé teszi majd SAP-munkafolyamatok, jelentéskészítés, elemzések, illetve az SAP-szerepkörök elérését a Lotus Notes kliensbõl. Amennyiben a termék testreszabására lenne szükség, az IBM Global Business Services konzultációval és egyéb szolgáltatásokkal áll majd a vásárlók rendelkezésére, de az SAP partnerei is fel lesznek készítve az Atlantic testreszabására. A terméket mindkét cég értékesíteni foga.  
+
+Nincs új a nap alatt
+
+Az SAP a Microsofttal már korábban kötött egy együttmûködési megállapodást, amelynek keretén belül megszületett a Duet szoftver. A Duet lehetõvé teszi a felhasználók számára, hogy az Office megszokott felületét és programjait használhassák arra, hogy az SAP rendszerébe adatokat vigyenek be, kérjenek le, vagy kimutatásokat készítsenek. A szoftver segítségével lehetõség nyílik például arra, hogy az Outlookban megnyitott e-mailben található adatok automatikusan bekerüljenek a vállalatirányítási rendszerbe, a határidõnaplóban pedig megjelenjenek az SAP-ban felvett projekt-megbeszélések.
+
+A Duet elsõ változata már 2006 óta kapható, a 2.0 verziót pedig 2008-ra ígérik a cégek. A Duet 2.0 további integrációt ígér az SAP és az Office között a SharePoint Server révén. A funkcionalitás kibõvül az értékesítés támogatásával, ellátásilác-menedzsmenttel valamint rizikókezeléssel. A Duet 3.0 a hírek szerint már olyan közösségi együttmûködési formákat is támogat majd mint a wikik és a blogok. A szoftver emellett teljes SharePoint-integrációt ígér és lehetõvé teszi a felhasználók számára hogy maguk is bõvíthessék a funkcionalitását a Visual Studio Tools for Office segítségével.
+
+Linuxos csomagokkal a Microsoft ellen
+
+A Lotusphere rendezvényen az IBM azt is bejelentette, hogy a Lotus Notes és a Symphony irodai csomagja linuxos környezetben, népszerû disztribúciókkal "egybecsomagolva" is elérhetõ lesz. Az IBM "open collaboration client" része lesz a Lotus Notes levelezõ és csoportmunka-szoftver, a Lotus Sametime azonnali üzenetküldõ, a WebSphere Portal, a Lotus Connections közösségi hálózatépítõ, a Lotus Quickr dokumentum-menedzsment megoldás, az Eclipse-alapú Lotus Expeditor fejlesztõi eszközöz, valamint a Lotus Symphony, ami gyakorlatilag egy áttervezett kezelõfelületû OpenOffice.org.
+
+A csomagot Red Hat, SUSE és Ubuntu Linuxszal együtt kínálja majd az IBM annak érdekében, hogy felvegye a versenyt a Windowsból, Office-ból, SharePointból és Exchange-bõl álló Microsoft-kínálattal. A SUSE és a Red Hat egyaránt bejelentették, hogy partnereiken keresztül fogják kínálni a saját operációs rendszerükre és az IBM termékeire alapozó csomagokat, leginkább kis- és középvállalatoknak. Ubuntun csak 2008 második felében lesz támogatott a Lotus Notes és a Symphony, amikor megérkezik a Notes 8.5-ös verziója. A termékekhez a támogatást az Ubuntu mögött álló cég, a Canonical biztosít majd.
+
+iPhone nem, BlackBerry igen
+
+A korábban már híresztelt iPhone-támogatás egyelõre nem vált valósággá, legalábbis a Lotusphere-en még nem jelentette be az Apple okostelefonján futó klienset az IBM, a cég indoklása szerint egyszerûen még nem készültek el vele. A BlackBerryk tulajdonosai viszont örülhetnek, õk mostantól mobil készülékükön is elérhetik a Lotus Connections üzleti közösségi oldalakat. A Lotus Connectionsszel olyan vállalati vagy partneri közösségi hálózatok hozhatók létre, amelyek megkönnyítik például az egyes területekért felelõs szakemberek megtalálását, vagy akár a cégen belül kommunikációt olyan eszközökkel mint a blogok, a wikik, vagy akár a webböngészõben elmentett könyvjelzõk megosztása.

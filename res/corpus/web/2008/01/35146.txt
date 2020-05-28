@@ -1,0 +1,19 @@
+Legalább 10 ezer fertõzött weboldal próbál trójait letölteni számítógépünkre
+
+[Techworld] A ScanSafe kutatói szerint sokkal több weboldalt fertõztek meg a két hete egy globális támadás keretében, mint arra korábban számítottak: legalább 10 ezer weboldal próbálhat meg trójait, kártékony programot letölteni a látogató számítógépére friss biztonsági rések segítségével. A weboldalakat az Apache-on keresztül fertõzték meg, jellemzõen jelszavakat feltörve.
+
+
+
+Friss sérüléknységek
+
+A globális támadásról múlt hét hétfõn jelentek meg az elsõ riportok, melyek több száz fertõzõtt weboldalról szóltak, azóta azonban további ezrekrõl bizonyosodott be, hogy támadásra használják fel õket, többségében a webmester tudta nélkül. A ScanSafe adatai szerint körülbelül 10 ezer linuxos, Apache-ot futtató weboldalhoz fértek hozzá a támadók, ezeket olyan állományokkal fertõzték meg, melyek folyamatosan változó Javascripteken keresztül kártékony kódot próbálnak letölteni a felhasználó számítógépére.
+
+A Javascript kódok frissen felfedezett sérülékenységeket próbálnak felhasználni e célra, többek között a QuickTime-ban felfedezett hibákat, vagy egy olyan biztonsági rést a Yahoo Messengerben, melyet bár már befoltoztak, a korábbi változatokban még nyitott kaput jelent a támadók számára. A kód nem kevesebb mint kilenc sérülékenységen keresztül próbál meg betörni a látogató számítógépére.
+
+Amennyiben a felhasználó gépe nyitott valamelyik támadás ellen, a kód az Rbot trójai egy új variánsát tölti le a számítógépre -- ha tudja, s nem állítja meg valamilyen feltelepített vírusvédelmi szoftvercsomag --, mely egy botnethez, egy világméretû zombihálózathoz csatlakoztatja a számítógépet.
+
+
+
+A fórumot is támadták
+
+Az elmúlt hetekben a HWSW fórumát, az Informatikai Kerekasztalt kétszer is támadás érte, a fórummotor adminisztrációs felületében fellelhetõ, a fejlesztõk által nem javított sérülékenységet kihasználva szintén Javascript kóddal próbálták meg látogatóink számítógépét uralmuk alá hajtani. A kód csak Internet Explorer böngészõ alól mûködött, a kártékony szoftvert vírusirtó szoftverek könnyedén elkaphatták. A sérülékenységet gyorsan befoltoztuk, a fórumot rövid idõn belül rendbehoztuk, így továbbra is biztonságos a fórumozás a HWSW Informatikai Kerekasztalon.

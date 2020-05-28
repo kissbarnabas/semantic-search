@@ -1,0 +1,44 @@
+Hogyan került B.A.T.M.A.N. és RO.B.IN a vezeték nélküli routerembe?
+
+A vezeték nélküli adatátvitelre is alkalmas routerek és adapterek árának drasztikus esése, és persze nem utolsósorban a noteszgépek terjedése mára általánosan ismertté és elfogadottá tette a Wi-Fi technológiát az otthoni internetmegosztáshoz. A kábelek lassan kikopnak az ámítástechnikára fogékonyabb felhasználók mellõl, a routerekbõl pedig millióféle létezik, olcsóbbtól a nagyon drágáig. Sokszor azonban szó szerint falakba ütközünk -- panelnél betonba --, ha otthoni hálózatunkat bõvíteni szeretnénk, mert a router jele esetleg nem ér fel az emeletre, vagy éppen a lakás másik sarkába, illetve ha el is ér, nem stabil a hálózat.
+
+
+
+Olcsó megoldás nem sok van -- érdekes módon még senkinek sem jutott eszébe, hogy egy elérhetõ árú, 802.11g szabánynak megfelelõ univerzális repeaterrel, azaz jelismétõvel bankot lehetne robbantani -- ezért ilyenkor az egyszerû felhasználó vásárol egy erre alkalmas, lehetõleg olcsóbb routert, ami vagy jó lesz, vagy nem. Ezekkel könnyen kompatibilitási problémákba futhatunk, ha egyáltalán át tudjuk verekedni magunkat a sokszor hozzáértõk számára is kusza konfigurációs felületen. Mennyivel jobb lenne ennél egy pofonegyszerû, szabadon bõvíthetõ rendszer. Létezik ilyen, bár egyelõre még igen bétás, a szemünk elõtt cseperedik, fejlõdik.
+
+RO.B.IN és B.A.T.M.A.N a routerben?
+
+Teljesen véletlenül bukkantam az open-mesh.com alatt elérhetõ nyílt forráskódú, olcsó routerekre kis utánaolvasással felhekkelhetõ rendszerre, bár FON bétatesztelõként Antonio Anselmi neve nem csengett ismeretlenül. Õ fejlesztette ki azokat a scripteket, melyekkel jelentõsen növelhetõ a FON routerek használhatósági köre -- ez egy másik cikk témája legyen inkább -- és õ áll a RO.B.IN mögött is. Így került hát RO.B.IN és B.A.T.M.A.N a routere(im)be, hogy kipróbáljam jelenleg mire is képes ez a rendszer.
+
+Mibõl lesz a cserebogár?
+
+A munka jelentõs részét B.A.T.M.A.N végzi, aki nevét a Better Approach To Mobile Ad-hoc Networking-bõl kapta. Ez az algoritmus felel az adatcsomagok irányításáért a RO.B.IN szoftveres routerekbõl összeállított vezeték nélküli hálózatban. A RO.B.IN, azaz ROuting Batman Inside pedig egy nyílt forráskódú projekt, melyet OpenWRT Kamikaze mini Linux alapokra helyeztek -- az OpenWRT számos routerben képezi a szoftver alapját, többek között az elõbb említett FON routerekben is. Egyszerû nem? A RO.B.IN jelenleg bármilyen Atheros AP51 hardvert futtató Wi-Fi-routeren használható, ilyen a Meraki Mini, ami itthon nem elérhetõ, illetve a La Fonera 2100/2200 routere is.
+
+Teszthálózat
+
+
+A rendszer teszteléshez az itthonról is elérhetõ, FON shopból elérhetõ áron megvásárolható La Fonera 2100 routerekbõl építettem hálózatot. Ez a router csak egyetlen WAN-porttal rendelkezik, Atheros lapkája azonban arra a csodára képes, hogy virtuális SSID-ket is létre lehet hozni vele, azaz akár több vezeték nélküli hálózatot is kezelhet párhuzamosan egyetlen router. Ezt a képességet használja fel a RO.B.IN is, ami egy olyan univerzális eszközt varázsol a tenyérnyi eszközökbõl, amelyek összességében egy "mesh" hálózatot, egy Wi-Fi-felhõt hozhatnak létre a lakásban, vagy akár jóval nagyobb területen is.
+
+A routerek a hálózat egy-egy pontjai (node) lesznek és önmagukat, és a hálózatot is konfigurálják a B.A.T.M.A.N algoritmus segítségével, teljesen önállóan. Egy-egy ilyen router nem csak a számítógépeket képes ellátni, de egymáshoz is vezeték nélkül kapcsolódnak, ez a rendszer titka. Amennyiben egy node internetet is kap, akkor átjáró (gateway) lesz belõle az internet felé, ha pedig nem, akkor a többi node-hoz kapcsolódik Wi-Fi-n keresztül, kiterjesztve hálózatunk elérhetõségi körét. Bármelyik routerhez kapcsolódó számítógép az átjáróként üzemelõ routere(ke)n keresztül juthat ki az internetre, illetve az adat vissza, és egy felhõben, hálózatban akár több átjáró is mûködhet, hibatûrõ rendszert alkotva. Elsõre bonyolultnak tûnik, de egyáltalán nem az.
+
+ Áttekinthetõ felület és személyre szabható üdvözlõlap
+
+Adminisztráció
+
+Persze egy ilyen rendszer adminisztrálása elsõ pillantásra igen bonyolultnak tûnhetne, itt lép a színre az open-mesh.com, mely egyszerû, webes konfigurációs felületet biztosít a hálózatunk, hálózataink alá. A routerek ötpercenként bejelentkeznek a weboldal mögötti adatbázisba, átveszik a konfigurációs módosításokat, és statisztikához is adatokat szolgáltatnak. Grafikus felületen, Google Maps-en láthatjuk, melyik routerre éppen mennyien csatlakoznak, mennyi adatot forgalmaznak.
+
+A Wi-Fi-felhõnk két különbözõ SSID-t, tehát WLAN-azonosítót szórhat, melybõl az elsõ nyitott is lehet, személyre szabott köszöntõ felülettel, de zárt is maradhat, míg a második, privát, zárt hálózatot akár ki is kapcsolhatjuk, ha nem kívánjuk használni. Az elsõ hálózaton maximális le- és feltöltési sebességet is beállíthatunk, és MAC-címekre is korlátozhatjuk a hozzáférést.
+
+A szinte teljesen önálló mûködésnek köszönhetõen a hálózatunkat rendkívül könnyen bõvíthetjük: az új router MAC-azonosítóját, vagy belsõ, virtuális IP-címét kell csupán hálózatunkhoz regisztrálni. Mihelyst ez megtörtént, a router beilleszti magát a Wi-Fi-felhõnkbe, átveszi az SSID-vel kapcsolatos beállításokat is. Magán a routeren semmit sem kell konfigurálni, csak be kell dugni, bár az OpenWRT operációs rendszert minden egyes routeren elérhetjük SSH kapcsolaton keresztül. Az egyes routerek saját belsõ IP-tartományt használnak.
+
+Új routert a felhõbe illeszteni egy kattintás csupán
+
+Határtalan lehetõségek
+
+A RO.B.IN, a B.A.T.M.A.N és az open-mesh.com napról napra javul, az elmúlt három hét alatt is rendkívül sokat fejlõdött. A kapcsolat mára teljesen stabil, a WPA-titkosítás mindkét WLAN-azonosítónkra bekapcsolható. A nyílt forráskódú rendszer alá opcionális fizetési megoldás is kerül majd, így egy panzió, vagy kávéház akár ezzel is megodhatja majd szobái, termei internetelérését.
+
+Ez a cikk csak ízelítõt adhat, a rendszer képességeit azonban egyszerû felhasználók is kiaknázhatják, viszonylag olcsón építhetõ nagy kiterjedésû, könnyen bõvíthetõ és konfigurálható Wi-Fi-hálózat, mely nyílt forrású, így akár személyre is szabható.
+
+Véleménye van?
+szóljon hozzá a fórumban
+írjon szerkesztõségünknek!

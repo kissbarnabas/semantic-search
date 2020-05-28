@@ -1,0 +1,14 @@
+A TDK Micro Sata csatolós SSD meghajtót jelentett be
+
+A TDK 16, 32 és 64 gigabájtos SSD meghajtókkal jelentkezett, melyek Micro SATA csatolófelülettel rendelkeznek. Az újdonságok prototípus állapotan már tavaly láthatóak voltak a CEATEC rendezvényen, mostanra azonban piacéretté váltak.
+
+
+
+A TDK HS1 1,8 hüvelykes meghajtó-sorozat 16, 32 és 64 gigabájtnyi adat tárolására alkalmas tagjainak SLC (single-level cell) felépítésébõl két jellemzõ is következik, ezek közül egyik a magas ár, a másik a gyors mûködés. Kiolvasásakor 100 megabájtnyi adat érhetõ el másodpercenként, írási mûveletek esetén azonban ennek csak fele, 50 megabájt mozgatható egy másodperc alatt.
+
+
+ Az írási mûveletek gyorsításáról négycsatornás busz gondoskodik, ez áll szemben az általános egy-, illetve kétcsatornás megoldásokkal, melyek a vezérlõt és a memóriát kötik össze. A meghajtóba épített GBDriver HS1 vezérlõ lapka -- amely a memóriavezérlõ mellett a SATA áramköröket is tartalmazza -- a TDK saját fejlesztése. A HS1 sorozat fogyasztása alacsony, készenléti állapotban mindössze 20 milliamper.
+
+
+
+A biztonságért 128 bites AES titkosítás és hét bites hibajavító áramkör felel, a memóriacellák egyforma használtsági fokára pedig külön chip ügyel. Utóbbi napi 24 órás, évi 365 napos használat mellett is tíz évnyi hibamentes üzemet garantál a gyártó szerint. A tárolók nem olcsók, a 16 gigabájtos legkisebb változatért 900, a 32 gigabájtosért 1500, a 64 gigabájtos változatért pedig kereken 2000 dollárt kell kifizetni.

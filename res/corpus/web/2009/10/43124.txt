@@ -1,0 +1,11 @@
+Content Security Policy: új biztonsági kezdeményezés a Mozillától
+
+A Mozilla által fejlesztett Content Security Policy (CSP) hatása a jelenleg is népszerû NoScript kiegészítõhöz hasonló, a jelentõs különbség azonban az, hogy míg a NoScript minden scriptet (Java, JavaScript, Flash, stb.) eltávolít az oldalról, a CSP a weboldal tulajdonosára bízza, milyen tartalmak megjelenítését engedélyezi. A webfejlesztõknek nincs más dolguk, mint a Mozilla által megkövetelt formátumban az engedélyezett tartalmak listáját elhelyezni az oldal forrásában, a CSP-vel kompatibilis böngészõ pedig csak ezeket fogja megjeleníteni.
+
+Ez a megoldás olyan támadások ellen nyújthat védelmet mint a cross-site scripting, vagy például ha rosszakarók az oldal kódjába saját scriptet csempésznek, akár a szerver feltörésével, akár egy fórummotor vagy a hozzászólásokat kezelõ és megjelenítõ rendszer sebezhetõségének kihasználásával. A CSP alapértelmezésként semmilyen scriptet vagy más tartalmat nem enged megjelenni, csak és a weboldal kódjában engedélyezetteket.
+Persze a CSP valójában semmit sem ér megfelelõ böngészõ nélkül, a Firefox pedig a világ legnagyobb részén még mindig az Internet Explorer mögött kullog részesedését tekintve. Örömhír, hogy a technológia kidolgozásában az Internet Explorer és a Chrome fejlesztõ is részt vettek, így a jövõben ezekbe a böngészõkbe is bekerülhet a CSP.Egyelõre még nem tudni, a Firefoxban mikor jelenhet meg a technológia, az biztos, hogy a novemberre ígért Firefox 3.6-nak még nem lesz része, legkorábban a jövõre várható 3.7-es változatban mutatkozhat be. A weboldalak tulajdonosai a specifikációk alapján addig megkezdhetik a felkészülést és a tesztelést.
+A CSP-vel ellátott Firefox-elõzetes letölthetõ a Mozilla weboldaláról a szokásos platformokra, azaz Windowsra, Linuxra, Mac OS X-re. A Content Security Policy mûködése ezen az oldalon ellenõrizhetõ.	     
+                  
+                  
+                  
+                   

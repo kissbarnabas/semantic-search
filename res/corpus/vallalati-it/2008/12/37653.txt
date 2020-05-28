@@ -1,0 +1,16 @@
+Öt mítosz a nyílt forráskódú fejlesztésekkel kapcsolatban
+
+A szoftverfejlesztéseket támogató megoldásokat fejlesztõ Black Duck Software átfogó elemzése a nyílt forráskóddal kapcsolatos öt tévhitet  cáfol meg. 
+
+
+
+A Black Duck közel 4000 repositoryból, azaz szoftverkönyvtárból gyûjti folyamatosan mintegy 170 ezer nyílt forrású fejlesztési projekt kódját, majd ezeket összesíti egyetlen adatbázisba, és kínál szolgáltatásként kódbányászati lehetõséget az ügyfeleknek -- a cél a már meglévõ kódok újrafelhasználásával a fejlesztések drasztikus felgyorsítása. A cég kiértékelte az adatbázis összetételét, és ez alapján állította ki a mítoszok ötös listáját. 
+
+Az elsõ tévhit, hogy a nyílt forráskódú szoftverfejlesztési filozófia produktuma kizárólag vagy többségében forráskód. Valójában a forráskódok mindössze 15 százalékot tesznek ki,  további 7 százalékot a leírónyelvek, és 4 százalékot a szkriptek adnak. A terjesztések 60 százaléka bináris formában történik, ehhez 7 százalékot adnak hozzá a grafikus állományok és újabb 7 százalékot tesznek az egyéb típusú állományok, melybe a dokumentáció is beletartozik.
+
+A Black Duck arra is rávilágít, hogy miközben a figyelem az olyan szoftverekre koncentrál, mint a Linux vagy a MySQL, addig a nyílt forrás világát nagyrészt a komponensek teszik ki, nem pedig teljes alkalmazások. Ezek a komponensek akár szoftverek ezreiben bukkanhatnak fel, az Apache Log4j-t példál több mint 5500 projekt tette megáévá. A Java esetében 14-szer gyakoribb a bináris fájlformátum (.class) mint a Java forrás (.java).
+
+A harmadik tipikus tévedés -- vélik a Black Duck Software-nél -- hogy kevés a nyílt forrású kód, becslések szerint is csak néhány milliárd sor. A valóság az, hogy több tízmilliárd sornyi nyílt kód érhetõ el, melyek 23 százalékát 2008-ban írták vagy frissítették, vagyis új. A kódok 90 százalékát öt fõ nyelvben írták, (C, C++, C#, Java és Javascript). Nem igaz az sem, hogy az igazi tökös programozók nem kommentezik a kódot, a nyílt forrású fejlesztõk átlagosan minden négy sor kódhoz írnak egy sornyi magyarázatot. A Java a leginkább dokumentált nyelv, 10 sor kódra közel 6 sor komment jut, míg a C#-ban és C++-ban 3. 
+
+
+Az utolsó mítosz az, hogy néhány vezéregyéniség, mint Linus Torvalds ellenállása miatt a GPLv3 nem terjed, és egyelõre parányi is a részesedése. A valóság az, hogy több mint 6300 projekt használta ezt a sokat vitatott új licencet, mely tavaly júniusban jelent meg, és máris az ötödik legnépszerûbb, és a Black Duck Software szerint néhány éven belül megelõzheti a BSD-t. A projektek 70 százaléka valamilyen GPL-t használ.

@@ -1,0 +1,45 @@
+Kipróbáltuk: Apple MacBook Air, a tömör gyönyör
+
+A Lenovo ThinkPad X300-at követõen újabb illusztris vendéget fogadhattunk szerkesztõségünkben, az XMS jóvoltából kipróbálhattuk az Apple ultravékony noteszgépét is, a MacBook Air-t. A két modell közel hasonló hardverelemekbõl épül fel, mégis teljesen eltérõ elgondolással készült. Míg a ThinkPad egy vérbeli üzleti notesz katonásan egyszerû dizájnnal, az Apple emocionális oldalról támad és a megszokott, de alapos fogyókúrára fogott alumíniumköntösbe csomagolva próbálja levenni a lábáról az embert. Sikerrel, hiszen az Apple masinája eléri célját, az igazi mûszaki csodát mindenki elismerõen forgatja. 
+
+
+
+Dizájn
+
+A hihetetlenül vékony és meglepõen masszív -- azért ne ejtsük le 1 méterrõl márványpadlóra, még táskában sem! -- házba csomagolt Apple-gép konkrét példát mutat a Toshibának, hogyan is kellett volna azt a bizonyos R500-at megalkotni. Az Air kicsit nehéznek tûnik, ez azonban csupán "optikai" csalódás, a fém ház miatt tûnik annak, miközben alig több mint 1,3 kg-ot nyomott a patikamérlegen. A noteszgép alsó és felsõ részét zár nem tartja egyben, ezért ne nagyon tegyünk semmit mellé a táskába, bár nem mutatott hajlandóságot az önálló kinyílásra.
+
+Az almás fedlapot felemelve lapos billentyûzet és 13,3 hüvelykes kijelzõ tárul a szemünk elé. A fényes bevonatú kijelzõ felbontása valamivel alacsonyabb, mint a ThinkPadben, csupán 1280 x 800 pixel, képe viszont szó szerint ragyogó, színei sokkal teltebbek, láthatósága pedig teljesen más kategóriát képvisel: nagy szögbõl, oldalról is tökéletesen élvezhetõ marad a kijelzõ tartalma. Fényereje széles határok között állítható, illetve állítja maga a noteszgép egy szenzor segítségével. A háttérvilágításos billentyûzet hasonlóan lapos, mint maga a noteszgép, elsõre kicsit furcsa, de könnyen szokható, gépelhetõ. A hangszóró a billentyûzet alatt kapott helyet, hangereje éppen elegendõ, viszont csak monóban szól.
+
+
+
+Az ultravékony noteszgép testének több mint felében a 37 wattórás akkumulátor foglal helyet, az alaplap, azaz az 1,6 GHz-es, alacsony fogyasztású Intel Core 2 Duo processzor -- ez némi elõny a ThinkPadhez képest --, a 2 gigabájtnyi memória, a Wi-Fi és Bluetooth, illetve a 80 gigabájtos merevlemez a maradék, igen szûkös helyre zsúfolódik. Az SSD felárával az Air majdnem annyiba kerül, mint az X300, azonban ez a flashmemóriás meghajtó még elsõ generációs, jóval lassabb, külföldi tesztek szerint kevés elõnyt tud felmutatni a merevlemezzel szemben.
+
+A portok száma az Air bejelentése óta viccek tárgya, a VGA-, vagy DVI-csatlakozóban végzõdõ Micro-DVI videokimenet mellett egyetlen fülhallgató-aljzat, illetve USB-kapu jelenti a bõvíthetõséget, nincs se vezetékes hálózati vezérõ, se modem, se PCMCIA- vagy ExpressCard-foglalat. Beépített 3G-modemrõl és optikai meghajtóról ne is álmodjunk, a mobilszolgáltatóknál kapható, vaskosabb pendrive-ra hasonlító USB-modemek pedig hosszabbító nélkül nem biztos, hogy bedughatók a gépbe. A bõvíthetõséget egyértelmûen feláldozta tehát az Apple a vékonyság, trendi dizájn oltárán.
+
+
+
+Multi-touch
+
+A billentyûzet alatt hatalmas tapipadot találhatunk, a legnagyobbat, amivel eddig noteszgépben találkoztam. A nagy felületet elsõsorban a multi-touch képesség miatt forszírozhatta az Apple, a tapipad ugyanis több érintést is érzékel egyszerre, két ujjal -- egymáshoz közelítve és távolítva -- nagyíthatunk nem csak képeket, de a weboldalak szövegméretét is, vagy az asztali ikonokat. A kettõs kattintást kétujjas érintéssel helyettesíthetjük, a görgetést pedig hasonló simogatással érhetjük el. Az új funkciók néha anomáliákhoz is vezettek, még szerencse, hogy kikapcsolhatók. Valami oknál fogva a tapipad néha úgy gondolta, hogy hiába egy ujjal érintettem meg, õ most a kurzor mozgatását nagyítással honorálja. Megnyugtató volt, hogy nem csak én tudtam ezt kihozni az Airbõl, általánosan tapasztaltuk ezt a jelenséget. Nem csak a billentyûzetet, a tapipadot is szokni kell tehát.
+
+[+] Kipróbáltuk az SSD-vel rendelhetõ Lenovo ThinkPad X300-at is
+
+Az igen kis helyre zsúfolt alkatrészek sajnos eléggé melegítik is a MacBook Airt, az alumíniumház pedig igen jól vezeti a hõt -- a kezünkhöz is. A noteszgépen hátul alakítottak ki szellõzõnyílást, de a processzort, X3100 grafikát meghajtva a bal felsõ sarokban, a MagSafe csatlakozó környékén mégis átforrósodhat a szerkezet, az X300 ebbõl a szempontból teljesen más kategória. Ölben tartva az Air fedlapjának rögzítése is problémát okozhat, a kijelzõt egyszerûen nem lehet adott szögnél tovább hátradönteni, egy magasabb (180+ cm) felhasználónak már felülrõl kell néznie az Air képét. Félig fekve pedig a billentyûzet világítása lehet zavaró, kisejlik, kiviláglik a billentyûzet alól, meglehetõsen furcsa képet alkotva -- szerencsére kikapcsolható.
+
+
+
+Akkumulátor
+
+A MacBook Air X300-énál kisebb, 37 wattórás akkumulátorára, erõsebb, többet fogyasztó processzorára, jobb kijelzõjére tekintve aggódtunk az akkumulátos üzemidõ miatt, de kellemesen csalódtunk. A gépet kínpadra fektetve, a processzort és grafikus lapkát a CineBench teljsítménytesztjeivel hajszolva sem fogyasztott többet 23-25 wattnál, tehát több mint 1,5 óra mûködést várhatunk a legrosszabb esetben is egy teli töltéstõl. Átlagos használat mellett (fél fényerõ, bekapcsolt Wi-Fi) nem eszik többet a gép 8-10 wattnál, a Mac OS X tehát igen ügyesen bánik az energiatakarékos funkciókkal. Több mint négy órányi munkához elegendõ az Air sajnos nem cserélhetõ, bõvíthetõ akkumulátora, ez ilyen fizikai méretek mellett igen impresszív teljesítmény.
+
+Az Apple szerint lítium-polimer, valójában lítiumion akkumulátorral csak egyetlen baj van -- valószínûleg a MagSafe-en átfolyó áram okozta korábbi problémák miatt --, mégpedig a rettenetesen lassú töltõdés. Az Air áramforrása nulláról teljes töltésre egyes tesztek szerint 8,5 óra alatt szívja fel magát, ami rettenetesen rossz érték, hiszen az akku nem cserélhetõ, két utazás között tehát ennyinek mindenképp el kell telnie. A töltés ráadásul lineárisnak tûnik, tapasztalataink szerint egyáltalán nem gyorsabb sem kisebb, sem nagyobb megmaradt kapacitásnál, 2 óra alatt épp negyed kapacitásig tölti fel az akkut a 45 wattos hálózati adapter.
+
+Egy vastagabb pendrive már gondot okozhat
+
+Csuda
+
+Bevállalnám-e? Nem tudnék könnyedén választani az X300 vagy az Air között. Egyrészt a körülbelül bruttó 460 ezer forintról induló, igen jól megépített Air olcsóbb, kijelzõje sokkal jobb, a masszív aluváz ellenére még könnyebb is az X300-nál. Optikai meghajtóra nincs szükségem és az egyetlen USB-port is elegendõ. A 4 órás akkumulátorral is meg tudnék békélni, bár az X300-nál az optikai meghajtó helyére betehetõ pótakkuval akár 8 órát is elérhetünk. A lassú töltõdés viszont valódi szenvedés, és a hasznos billentyûzetvilágítás sem ér semmit, ha bizonyos szögbõl éppen zavaró. A Mac OS X is elõny, hiszen az Airre akár XP, vagy Vista is telepíthetõ, sõt, akár virtuális gépként is futtatható, még csak váltani sem kellene közöttük. Együtt tudnék élni egy MacBook Airrel is.
+
+Véleménye van?
+szóljon hozzá a fórumban
+írjon szerkesztõségünknek!

@@ -1,0 +1,16 @@
+A Nokia internettermináljain megkóstolható a Mozilla új mobilos böngészõje
+
+Az elõzetes eredmények igen bíztatóak, meglepõen jól teljesít a Mozilla új, Fennec kódnéven fejlesztett, egyelõre ismeretlen platformokra készülõ, tavaly októberben bejelentett új mobil böngészõje. A Nokia N800 és N810 internettermináljain egy elõzetes alfa változatot ki is lehet próbálni.
+
+ 
+
+Az elõzetes, Javascript futtatásának sebességét mérõ tesztek szerint sokszor gyorsabb a Firefox 3 alapjaira épülõ, jelenleg fejlesztett böngészõmotor, mint az internetterminálok OS2008 linuxos operációs rendszerében található, szintén Mozilla-alapú. Az új böngészõ megjelenési dátuma továbbra sem ismert, a gyors elõzetes alfa közzététele azonban feszített tempót sejtet.
+
+Az új, Fennec kódnevû mobil Firefoxról most sem derültek ki újabb részletek, mindössze annyirt lehet tudni a korábbi közlemények, nyilatkozatok alapján, hogy kezel majd kiterjesztéseket is, amelyekkel további funkciókkal ruházható fel a böngészõ.
+
+
+
+
+A Mozillának jelenleg is van mobiltelefonos böngészõje, a kizárólag Windows Mobile-on futó Minimo, azonban ennek fejlesztését beszüntették. A Firefox kulcsfontosságú része az Ubuntu Mobile kezdeményezésnek és az Intel Linuxot futtató mobil internetes eszközökre vonatkozó "Moblin" terveinek is.
+
+A mobilpiac óriási, idén már biztosan több mint 1 milliárd készüléket adnak el, és a felhasználók szívesen csatlakoznak a világhálóra a készülékekrõl, elsõsorban a fejlõdõ piacokon, ahol az infrastruktúra hiánya miatt vezetékes internetezésnek nem is alkulhatott  ki kultúrája. Ilyen piac például Kína, ahol az internet-elõfizetõk több mint negyede a mobiltelefonjáról éri el a hálót. A világ legnépesebb országában percenként 100 új internetezõt regisztrálnak.

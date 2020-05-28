@@ -1,0 +1,17 @@
+Tömeges informatikai továbbképzést indít a NetAcademia
+
+A hazai munkaerõpiaci igényekre válaszul új informatikai szakképzéseket indít a NetAcademia, hogy a vállalatok által igényelt tudással vértezze fel az informatikusokat. Az oktatáson személyesen és virtuálisan is részt lehet venni a cég saját fejlesztésû megoldásán keresztül. 
+
+
+
+Bár az informatikai pálya a legjobban fizetettek közé tartozik -- a friss diplomás informatikusok az átlagosnál 56 ezer forinttal keresnek többet a Magyar Kereskedelmi és Iparkamara adatai alapján --, jól képzett szakemberbõl folyamatos hiány mutatkozik, miközben az alacsony színvonalú tudással rendelkezõkbõl túlkínálat. A NetAcademia a kereslet-kínálat ezen strukturális problémájának megoldását célozza meg új, célirányos képzéseivel, melyekkel képes rövid idõn belül akár szakemberek ezreinek produkálására is. A cég szerint a magyar piacról 6 ezer megfelelõen képzett informatikus hiányzik jelenleg.
+
+A tömeges képzést, mely sokat mondóan az IT Factory nevet kapta, az online távoktatás bevetése teszi lehetõvé. A NetAcademia saját fejlesztésû, Silverlightra építõ megoldást használ majd, mely többek közt élõ kamerakép és távoli képernyõ mutatása mellett megosztott vágólapot, szavazásokat és chatszobát is biztosít, árulta el a HWSW-nek Fóti Marcell ügyvezetõ. A 12 hetes, bruttó 99 ezer forint kerülõ hálózatbiztonsági és .NET képzést követõen a résztvevõk versenyképes tudást kapnak, véli Fóti, és akár ingyenes MCP-vizsgát is tehetnek. Fóti szerint a kurzusok gyakorló informatikusok számára is új ismereteket, kompetenciákat biztosítanak, de a részvételnek nem feltétele felsõfokú végzettség. Elsõsorban olyanokat céloznak, akik nem versenyképesek, fogalmazott az ügyvezetõ.
+
+
+Az oktatás ideje alatt mindenki egy saját dedikált virtuális szervert kap önálló IP-címmel, melyet akár késõbb is megtarthat hosting díj fejében. Fóti reményei szerint nemcsak egyszerû képzést nyújt majd az IT Factory, hanem baráti- és munkakapcsolatok, közösségek kialakulását is elõsegíti, melyek akár garázscégeket is eredményezhetnek. Mint elmondta, egy évekkel ezelõtti oktatáson összeismerkedett emberek a mai napig találkoznak, és dolgoznak együtt.
+
+Fóti szerint a hálózatbiztonság és .NET fejlesztés azok a területek, melyekre leginkább igényt tart a piac. Az oktatásban számos ismert cég is részt vesz, így többek közt a Cisco a hálózatok világába, az Intel a távmenedzsmentbe, a Carnation, a sitecore és a Sense/Net pedig a webes fejlesztések világába adnak betekintést. A cégek kiválasztásában releváns kompetencia mellett az játszott szerepet, hajlandóak-e a marketinget mellõzve szakmai anyagot biztosítani, árulta el Fóti. "Õk azok, akik belementek abba, hogy mellõzzék a marketinget, és 
+azt adják, amit kérünk" -- mondta.
+
+Reményei szerint mintegy 300 résztvevõvel indul majd a hálózatbiztonsági tanfolyam novemberben, melyre már eddig is az ország egész területérõl, sõt külföldön doglozó magyarok is jelentkeztek, elsõsorban magánszemélyként vagy egy KKV alkalmazottjaként. A .NET programozás január végével rajtol, további szakképzésekrõl pedig a tapasztalatok alapján döntenek, közölte Fóti. Az IT Factoryról további részletek a program honlapján találhatóak.

@@ -1,0 +1,28 @@
+Olcsóbb lesz a Windows Vista
+
+A Microsoft csökkenti a dobozos Windows Vista bolti árát, hogy felpörgesse az eladásokat, az operációs rendszer így verziótól függõen 20-40 százalékkal lesz olcsóbb. Az árcsökkentést a Vista SP1 érkezésével hangolják össze.
+
+
+
+Vonzóbb lesz az ár
+
+A Microsoft a Windows Vista megjelenése óta eltelt 14 hónap alatt már több mint 100 millió licencet értékesített. A Vista-eladások túlnyomó többségét azonban a céges licencek és az elõre telepített operációs rendszerek adják, a bolti értékesítés részaránya mindössze 10 százalék körüli. A redmondi vállalat azonban bízik benne, hogy az árcsökkentéssel fel lehet pörgetni a bolti eladásokat is, és az eddigi tapasztalatok azt bizonyítják, hogy alacsonyabb áron kelendõbb a termék.
+
+Piaci szakértõk rámutatnak, hogy míg az elmúlt évek alatt a számítógépek ára látványosan csökkent, és ma már a PC-vásárlás kevéssé pénz, mint inkább elhatározás kérdése, az asztali Windowsok ára nem követte ezt a trendet, ami azt eredményezte, hogy a gép árának egyre nagyobb részét tette ki az operációs rendszer. Részben ez is okozta azt, hogy a boltok polcaira kerülõ olcsó számítógépekre ma már kivétel nélkül valamelyik Linux-disztribúciót telepítik a cégek.
+
+
+ Az Egyesült Államokban a dobozos Vista Ultimate ára 399 dollárról 319 dollárra csökken, az upgrade verzióért 259 helyett 219 dollárt kérnek majd. A Vista Home Premium upgrade verzió 159 dollár helyett 129 dollárért lesz majd megvehetõ. Az akció célja, hogy a korábbi Windows-változatokat használókat átcsábítsák az új operációs rendszerre.
+
+
+
+A Microsoft minden országban csökkenti a Vista árát, azonban az egyes országokban az árváltozás mértéke eltérõ lehet. Magyarországon a dobozos Vista Ultimate bolti ára jelenleg 113 ezer forint, az upgrade verzióért 74 ezer forintot kérnek. A Home Premum esetében 68 ezer forint a teljes verzió és 45 ezer az upgrate, a Home Basic 57 ezerért kapható, míg az upgrade változatért 29 ezer forintot kell fizetni a boltokban. 
+
+Az Intelt segítette volna a Vista Capable program?
+
+Eközben egy, a Microsoft ellen indított perben olyan e-mailek kerültek nyilvánosságra, amelyek szerint a cég azért vezette be a "Windows Vista Capable" programot, hogy segítse az Intelt az olcsó 915-ös chipset  értékesítésében, és ezáltal a negyedéves pénzügyi célok elérésében. Amint az ismert, a Vista kapcsán a PC-gyártók kétféle megjelölést használnak, a "Vista Capable" azt jelenti, az adott gépen ugyan fut a Vista, azonban funkcióinak jó része nem mûködik. Azok a PC-k, amelyeken a Vista összes képessége elérhetõ, "Vista Premium Ready" minõsítéssel kaphatók.
+
+A "Vista Capable" megnevezéssel kapcsolatban közérdekû csoportos per (class-action lawsuit) indult a Microsoft ellen. Két magánszemély beperelte a Microsoftot a seattle-i kerületi bíróságon, azt állítva, a vállalat megtévesztette a fogyasztókat "Vista Capable"  elnevezéssel, ugyanis az ilyen PC-ken nem érhetõ el az operációs rendszer számos képessége. A felperesek azt állítják, csak akkor jöttek rá, hogy a Vista Capable matricát tartalmazó gépükön nem fut a Vista számos funkciója (pl. az új Aero felület), miután megvették az operációs rendszert. Az ügyet végül közérdekû csoportos keresetté nyilvánították.
+
+ A perben nyilvánosságra került e-mailben a Microsoft részérõl egy bizonyos John Kalkman írja a PC-gyártókkal kialakított kapcsolatért felelõs Scott Di Valeriónak, hogy kifejezetten az Intel 915 chipkészlet kedvezõbb helyzetbe hozása érdekében döntöttek úgy, hogy módosítják a Vista Capable programot, és olyan hardverekre is kiterjesztik, amelyek nem képesek futtatni az új operációs rendszer 3D felhasználói felületét, az Aerót. Ez a döntés késõbb a Microsofton belül is nagy vihart kavart és több partnerben is visszatetszést keltett a levelet nyilvánosságra hozó Seattle Post Intelligencer szerint.
+
+Az Intel nem kommentálta az ügyet, a vállalat ugyanis nem érintett a perben. Chuck Mulloy, a cég szóvivõje ugyanakkor határozottan leszögezte, az Intelnél nem ismerik John Kalkmant, az azonban bizonyos, hogy nincs és nem is volt felhatalmazása arra, hogy betekintsen az Intel pénzügyi eredményeibe, elõrejelzéseibe, semelyik negyedévben sem.

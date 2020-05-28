@@ -1,0 +1,18 @@
+Áprilisban jön a Windows XP SP3
+
+Április második felében érkezik a Windows XP SP3 -- adta hírül a TechARP.com weboldal, amely a Vista elsõ szervizcsomagjával kapcsolatos dátumokat is rendre "eltalálta", így megbízható információforrásnak tekinthetõ. A lap úgy tudja, április második felében hét nyelven (angol, német, spanyol, francia, japán, kínai, koreai) lesz elérhetõ a Windows XP harmadik, egyben utolsó javítócsomagja, a többi változat pedig három héten belül érkezik meg a felhasználókhoz.
+
+
+
+A Microsoft több mint egy hónappal ezelõtt tette elérhetõvé a Windows XP SP3 második kiadásra jelölt változatát (RC2) a Windows Update-en, azonban szemfüles felhasználók egy ennél újabb verzióhoz is hozzájuthatnak, ha figyelmesen böngészik a fájlcserélõket. Késõbb maga a Microsoft is elismerte, hogy az 5503-as build valódi, és eredetileg csak egy szûk körben, a meghívott bétatesztelõknek adták ki. A cég mindazonáltal sietett leszögezni, hogy az 5503-as buildet nem a nyilvánosságnak szánták és nem tudják garantálni, hogy a fájlcserélõkön terjedõ verziót valaki nem módosította, így akár kártevõ is lehet benne, ezért semmiképp sem ajánlatos telepíteni.
+
+A Windows XP utolsó szervizcsomagja több mint száz hibajavítást tartalmaz, szokás szerint nem csak a második szervizcsomag óta megjelentek találhatók meg benne, hanem minden frissítés, amit a Windows XP-hez kiadott a Microsoft. A javítások közül számosat a Vistából emeltek át, többek között a hálózati hozzáférés védelme is ezzel erõsödött, illetve a titkosító algoritmusok kezelése is ennek köszönhetõen javult. Módosítottak az aktivációs folyamaton is: a javítócsomaggal frissített operációs rendszer elsõ telepítés után már 30 napig mûködik aktiválás nélkül -- ugyanúgy mint a Vista, vagy a Windows Server 2003 SP2. Eddig a Windows XP telepítése nem történhetett meg valódi termékkulcs nélkül, az installálás egyszerûen nem futott le.
+
+
+ A felhasználói visszajelzések egyelõre vegyesek a Windows XP SP3-mal kapcsolatban, sokaknak van problémája a javítócsomag telepítése után, de akiknek mûködik, azok rendszerint érezhetõ gyorsulásról számolnak be. A Devil Mountain Software tesztjei szerint a harmadik szervizcsomaggal "felszerelt" XP jelentõsen és mérhetõen, tíz százalékkal gyorsabb volt az OfficeBench alatt, ami rácáfol arra, hogy csak hibajavításokról szól az SP3.
+
+
+SP3 RC2 refresh
+A Microsoft március 19-én közzétette a harmadik szervizcsomag második kiadásra jelölt változatának (RC2) felfrissített verzióját. A gyors tesztek szerint az újabb, frissített változat fõként a Windows Update-tel kapcsolatos hibákat javítja.
+
+Az SP3-mal frissített Windows XP-változatok június 30-ig megtalálhatók lesznek a boltok polcain, kivéve a Media Center és a Tablet PC verziókat, ezeket az internetrõl lehet frissíteni. A Windows XP különféle verzióihoz 2009-ig, vagyis a Windows XP SP2 megjelenését követõ öt évig lesz "mainstream" támogatás. Az eredeti tervek szerint 2009-tõl kezdõdõen csak a vállalati felhasználásra szánt Windows XP Professionalhoz adtak volna ki javításokat, a mostani döntés szerint azonban nem csak a Windows XP Professional Edition, hane a Home Edition és Media Center Edition is részesül majd a kiterjesztett támogatásban, amelybe a biztonsági és egyéb javítások kiadása és kérés esetén új funkciók fejlesztése mellett beletartozik az ingyenes és fizetõs telefonos és online támogatás is.

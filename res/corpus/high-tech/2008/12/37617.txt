@@ -1,0 +1,18 @@
+Jóval tartósabb akkumulátorok kerülnek jövõre a HP egyes noteszgépeibe
+
+[News.com/HWSW] A jövõ év elejétõl új, környezetbarát akkumulátorokat csomagolhatnak a HP egyes noteszgépei mellé. A vállalat egy, a nagyobb akkumulátorgyártók mellett eltörpülõ amerikai céggel, a Boston Powerrel fogott össze három évvel ezelõtt azért, hogy a lítiumion technológiában rejlõ lehetõségeket a végletekig kiaknázhassák.
+
+
+
+A Sonata nevû áramforrások a jelenleg kapható akkumulátorok egyik legnagyobb, technológiából eredõ hátrányát igyekeznek kiküszöbölni: egy lítiumion-cella a fáradási hatásból adódóan az elsõ használattól kezdve fokozatosan veszít az eredeti kapacitásából, azaz az akkumulátor egyre rövidebb ideig képes áram alatt tartani a noteszgépet, vagy más kézi eszközt (például mobiltelefont, MP3-lejátszót).
+
+X tengely: az akkumulátor életkora (év) -- Y tengely: átlagos kapacitás (százalék)Forrás: Lenovo
+
+Ez a kapacitásvesztés függ a használati körülményektõl is, de az akkumulátor öregedésével akkor is elkerülhetetlen jelenség, ha az eltelt idõ alatt minimális kisütési/töltési ciklust élt meg az áramforrás. Egyes becslések szerint egy lítiumion-cella nagyjából 150 ilyen ciklus után kezd érezhetõen fáradni -- a Lenovo szerint egy noteszgép akkumulátora a gép elsõ születésnapján már csak az eredeti kapacitás átlagosan 70 százalékára tölthetõ fel. Végül az elfáradt akkumulátort idõvel kénytelen kicserélni a tulajdonos, ha továbbra is rendszeresen kívánja akkumulátorról használni a gépet, ez pedig idõrõl idõre jelentõs kiadást jelent, emellett a kidobott áramforrások -- ha nem szakszerûen ártalmatlanítják õket -- környezetkárosító hatása sem elhanyagolható.
+
+A Boston Power szerint ezeken a problémákon enyhít jelentõs mértékben a Sonata, mely akár ezer ciklust is átvészel jelentõsebb kapacitásveszteség nélkül, így három év elteltével is megõrzi eredeti kapacitásának mintegy 80 százalékát. Az újfajta cellák -- melyek technológiai hátterérõl egyelõre semmi konkrétumot nem tudni -- ráadásul gyorsabban is tölthetõk, emellett a környezetterhelésük is kisebb, mivel a gyártásukhoz sem nehézfémet sem mûanyagot nem használnak fel. A számítógépgyártók számára elõny, hogy az új típusú akkumulátorok használata nem igényli a tápáramkör újratervezését, a technológia bevezetése ezért semmilyen járulékos költséget nem hoz.
+
+
+A nagy számítógépgyártók közül a HP alkalmazza elsõként az újfajta áramforrásokat, így vélhetõen már a jövõ év elejétõl a boltokba kerülhetnek olyan noteszgéptípusok, melyek a Sonata akkumulátorral üzemelnek. A tartósabb áramforrásokért természetesen némi felárat kér a gyártó; a HP illetékese szerint egy ilyen akkumulátor nagyjából 20-30 dollárral lesz drágább a hagyományos típusoknál, viszont a legtöbb áramforrással ellentétben három év jótállással kerül forgalomba.
+
+A Boston Power kutatásai szerint a Sonata ára hamar megtérül, hiszen a legtöbb noteszgéptulajdonos a használattól függõen három év alatt akár többször is újra cseréli a gép akkumulátorát, márpedig minden egyes ilyen csere átlagosan 150 dollárba kerül. A cég akkumulátortechnológiája iránt a HP-n kívül éppen ezért más számítógépgyártók is érdeklõdnek, de elképzelhetõ, hogy a jövõben más hordozható eszközökben, vagy akár hibrid autókban is megjelennek a Sonata leszármazottai.

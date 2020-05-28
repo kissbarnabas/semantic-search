@@ -1,0 +1,16 @@
+Lassulni látszik, de továbbra is stabil a Linux-piac növekedése
+
+A Linux az elmúlt évek során villámgyorsan nyert teret a vállalatoknál, az egykor legfeljebb fájlszervernek, webszervernek, tûzfalnak bevetett operációs rendszerre egyre több feladatot bíznak a cégek. A Linux Foundation Collaboration Summit rendezvényen elhangzott IDC-elõadás szerint azonban a szabad operációs rendszer további tényerése szükségszerûen lassabb lesz.
+
+
+
+Noha a legtöbben a Windows ellenfelét látják benne, a Linux valójában a UNIX-októl hódított el piacot. Al Gillen, az IDC elemzõje elõadásában azon véleményének adott hangot, hogy a virtualizáció terjedése, a Windows Server 2008 megjelenése és sikere, valamint a Sun Solaris forrásának megnyitása mind olyan tényezõk, amelyek a Linux további térnyerését hátráltathatják.
+
+A Linux-piac lassulásának már jó ideje érezhetõk a jelei. A szabad operációs rendszerrel elõtelepített szerverek éveken keresztül messze a legnagyobb piaci növekedést produkálták, megelõzve a UNIX- és Windows-szervereket, azonban a trend tavaly megfordult a Windows javára. A negyedik negyedévben az EMEA régióban a windowsos kiszolgálók forgalma 12,8 százalékkal nõtt, miközben a linuxos gépeké csak 8 százalékkal emelkedett az IDC számai szerint. Világszinten a Windows-szerverek forgalma 5,7 milliárd dollárt tett ki a negyedik negyedévben, a Linux-kiszolgálóké pedig 2 milliárd dollár volt, mindkettõ történelmi csúcs. 
+
+
+ Al Gillen elõadásában idézett adatok alapján az IDC azt becsli, a tavalyi 21 milliárd dollárról 2011-re a linuxos szerverek, szoftverek és kapcsolódó szolgáltatások forgalma 50 milliárd dollárra növekszik, amibõl az alkalmazások piaca pedig mintegy 32 milliárd dollárt tesz majd ki. Összehasonlításképp: a Windows Server köré csoportosuló gazdaság 2011-ben egyedül nagyobb lesz, mint a teljes Linux- és UNIX-piac összesen.
+
+Gillen szerint ugyanakkor a Linux-piac jó része "láthatatlan". Az IDC szakértõje úgy becsli, minden egyes eladott Linux-szerverre jut egy második kiszolgáló, amely szintén a szabad operációs rendszert futtatja, azonban az üzemeltetõje maga gondoskodik róla, sem az operációs rendszerért, sem pedig a támogatásért nem fizet. A piackutatók számára ezek a szerverek lényegében láthatatlanok.
+
+A cégek eközben egyre több feladatot bíznak a Linuxra. Az Oracle kiemelt támogatásának köszönhetõen a Linux fontos adatbázis-platformmá lépett elõ, de üzleti alkalmazások alá is egyre többször választják az ügyfelek, legyen szó termelésirányításról, ellátásilánc-menedzsmentrõl vagy akár humánerõforrás-menedzsmentrõl. Az IDC becslése szerint 2011-re a Linuxon futó logisztikai és gyártásirányítási szoftverek piacia 1,2 milliárd dollárt tesz ki, a humántõke-menedzsment alkalmazásoké pedig legalább 2 milliárd dolláros lesz.

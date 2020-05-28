@@ -1,0 +1,18 @@
+Sínre került az USB3.0 interfész szabványosítása
+
+Okafogyott lett az a több hónappal ezelõtt kipattant, akkor még igen komolynak látszó nézeteltérés, mely az Intel és a chipsetpiac többi szereplõje, így az AMD, az NVIDIA és a VIA közt merült fel az USB csatolószabvány új, 3.0-s verziójának fejlesztése és bevezetése kapcsán. 
+
+
+
+A jelenlegi interfész áteresztõképességének elméletileg akár a tízszeresét is nyújtani képes következõ generációs USB interfész szabványosítási folyamata most mégis egy csoport kezébe összpontosulhat, miután az érintett cégek közül többen jelezték, hogy beállnak az Intel mögé és támogatják a SuperSpeed USB névre keresztelt technológiát.
+
+Az Intellel versenyben álló cégek korábban azzal vádolták a chipgyártó óriást, hogy az szándékosan visszatartja a gyorsabb adatátviteli sebességet ígérõ USB 3.0 még véglegesítés alatt álló specifikációját, ezért nyílt, párhuzamos specifikáció fejlesztésébe kezdtek. Az AMD mellé az NVIDIA és a VIA is felsorakozott, egyes források szerint meg is kezdték a saját szabvány kidolgozását. Ez az állapot kísértetiesen emlékeztetett az USB 1.x szabvány bevezetését kísérõ hercehurcára, amikor is az Intel saját vezérlõje (Universal Host Controller Interface) és a Compaq, a Microsoft és a National Semiconductor által jegyzett interfész (Open Host Controller Interface) egyszerre került piacra, ezzel nagy mértékben megnehezítve a kompatibilis eszközöket gyártó cégek munkáját.
+
+Kész az elsõ útmutató
+
+A most készülõ, az Intel által fejlesztett új interfész-szabvány, az Extensible Host Controller Interface (xHCI) a chipgyártó definíciója szerint egy egyszerûsített leírás, amely megkönnyíti más chipgyártók számára a SuperSpeed USB kapcsolattal rendelkezõ vezérlõk tervezését és gyártását. Az interfész elsõ, tervezeti, úgynevezett draft-változatát, a 0.9-es verziót most tette elérhetõvé az Intel, a negyedik negyedévben várható az újabb, 0.95-ös verzió, ezután pedig már a végleges változat megjelenésére lehet számítani.
+
+
+A jelenleg széleskörûen használt USB 2.0 csatolófelület maximális adatátviteli sebessége 480 megabit másodpercenként, ezt turbózhatja fel a 3.0-s szabványnál megjelenõ optikai támogatás 4,8 gigabit/másodpercre. Az USB 3.0 visszamenõleg is kompatibilis lesz, tehát a jelenlegi USB 2.0 csatlakozós berendezések is használhatók lesznek az alaplapok USB 3.0 portjaival. A specifikáció szerint az új port az energiahatékonyság terén is továbblép majd.
+
+Az USB 3.0 szabvány adatátviteli sebességét az IEEE 1394, azaz ismertebb nevén Firewire interfész szintén idén bevezetésre kerülõ új változatai, a Firewire S1600 és S3200 közelíthetik meg, melyek az eddigi jelölési rendszernek megfelelõen másodpercenként 1,6 vagy 3,2 gigabit adat továbbítását teszik lehetõvé. A szabványalkotók ezzel együtt készen állnak arra, hogy a Firewire interfészt tovább gyorsítsák, így belátható idõn belül 6,4 gigabit/másodpercig emelkedhet a rendszer áteresztõképessége.

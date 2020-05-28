@@ -1,0 +1,12 @@
+Grafikus profiler MySQL-hez, megjelent a Jet Profiler 1.0
+
+Megjelent a MySQL teljesítményelemzését végzõ Jet Profiler 1.0 verziója. A problémák, szûk keresztmetszetek feltárását segítõ profiler multiplatform, és ingyenes változata is létezik, mely szabadon letölthetõ.
+
+
+
+A Java 6-os futtatási környezetet igénylõ Jet Profiler Windows, Linux és MacOS X platformokon férhetõ hozzá, a MySQL Enterprise, Network és Pro 3-5, valamint a Community kiadások 3-6 kiadásait támogatja, és használata nem igényel semmiféle változtatást az adatbázis-kezelõ oldaláról, kliensként csatlakozik az adatbázisra. A Jet Profiler grafikus felülettel igyekszik meggyorsítani a MySQL által kiszolgált adatbázisunk mûködésének elemzését, szemben a legtöbb, szöveges kimenetet adó parancsosoros profilerrel, mint a beépített MySQL Query Profiler, vagy a Maatkit.
+
+ 
+
+
+A Jet Profiler megmutatja, mely felhasználók és milyen lekérdezéseket futtatnak, ezek átlagosan mennyi szálat kötnek le, mennyi ideig futottak, és mennyire kritikusak az adatbázis teljesítményének szempontjából. A lekérdezéseken túl átfogó adatokat is közöl a lemezmûveletekrõl és a hálózatról is, valamint az összes statisztikát képes felvenni és elmenteni késõbbi elemzés céljából. Az ingyenes verzió sajnos erõsen korlátozott funkcionalitással érkezik, szerencsére azonban a fizetõs sem horrorisztikus, ha valaki ezzel keresi a kenyerét: évente 99 dollár.

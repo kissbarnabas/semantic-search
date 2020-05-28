@@ -1,0 +1,11 @@
+Milliárd dolláros üzletté növi ki magát a Linux
+
+Az IDC úgy becsli, hogy 2008 során közel negyedével, 23,4 százalékkal emelkedtek a Linux-alapú operációs rendszerekbõl származó bevételek, és így 567 millió dollárt értek el - idézi az elemzõcéget a H Open Source. A tanulmányt jegyzõ Al Gillen szerint a Linux hosszú távon jó kilátásokkal rendelkezik, ugyanakkor úgy látja, hogy a Linux terjedésének természete a válság hatására megváltozik idén, ahogyan a piac is máshogyan fog viselkedni a jövõben.
+Gillen természetesen elsõsorban a szerverpiacról értekezik, ahol a Linux jelentõs jelenléttel bír, szemben a PC-piaccal. Az elemzõ szerint mivel a vállalatok az új gazdasági realitások hatására ésszerûsítik IT-tevékenységeiket, ezért a Linux alkalmazásának kiértékelésekor olyan további szempontokat is figyelembe vesznek, mint például a virtualizáció optimális használata, ami kihatással lehet az operációs rendszerekkel kapcsolatos döntésekre is.
+
+A piackutató becslése szerint 2013-ra, vagyis öt év alatt 1,2 milliárd dollárra növekednek a Linuxból közvetlenül származó bevételek, nem számítva a Linuxot beágyazott szoftverként alkalmazó hardverekbõl vagy megoldásokból származó forgalmat -  az elsõ negyedévben például 1,4 milliárd dollár értékben adtak el linuxos szervereket. Ez az ütem átlagosan évi 17 százalékos növekedést jelent.
+A piacot két cég, a Red Hat és a Novell tartják kezükben. Elõbbi a 2008-as forgalom közel kétharmadát, 65 százalékát tudta magáénak Red Hat Enterprise Linux szervertermékével, míg riválisa a piac 30 százalékát szerezte meg. A H Open Source szerint a jelentésben Gillen megjegyzi, hogy bár a vállalatok bevételei várhatóan emelkednek majd, egyre erõsödik az a trend, hogy kereskedelmi Linux disztribúciót támogatási szerzõdés nélkül használnak, vagyis a két cég számára kulcskérdés, hogy minél nagyobb arányban legyenek képesek az RHEL és SLES telepítésekhez támogatást eladni.	     
+                  
+                  
+                  
+                   

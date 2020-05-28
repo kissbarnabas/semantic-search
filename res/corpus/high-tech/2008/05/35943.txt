@@ -1,0 +1,40 @@
+A HP Labs kutatói megtalálták a 37 éve leírt áramköri alapelemet, a memrisztort
+
+[IEEE Spectrum] Évtizedekkel ezelõtt megjósolt tudományos áttörést értek el a HP Labs kutatói, akiknek a világon elsõként sikerült memória rezisztort, azaz memrisztort kikísérletezniük. Az áttörés középtávon a jelenleginél sokkal gyorsabb és olcsóbb nem-felejtõ memóriák gyártását teszi lehetõvé, hosszabb távon pedig az emberi agyhoz hasonló áramkörök létrehozásához szolgálhat segítségül. Az újdonságról a Nature magazin májusi számában lehet olvasni.
+
+
+
+A memrisztor
+
+
+
+
+Leon Chua
+
+
+
+
+1971-ben a kaliforniai Berkeley egyetem egyik kutatómérnöke (azóta professzora), Leon Chua megjósolta, hogy a kondenzátor, az ellenállás és az induktor (tekercs) mellett létezik egy negyedik áramköri alapelem, a memrisztor (memória rezisztor), amely a rajta átfolyó áram erõsségétõl és irányától függõen változtatja az ellenállását, és ezt azután is megõrzi, hogy az áramot kikapcsolták.
+
+A memrisztor tehát abban különbözik jelentõsen a többi áramköri elemtõl, hogy memóriája van -- ha lekapcsoljuk az áramot, a memrisztor "emlékezik" arra, hogy milyen erõs volt a rajta átfolyó áram és továbbra is megtartja az ellenállását. Ezt a képességet a többi áramköri alapelem semmiféle kombinációjával nem lehet reprodukálni, ezért lesz a memrisztor a kondenzátorhoz, ellenálláshoz és induktorhoz hasonlóan áramköri alapelem. Leon Chua 37 évvel ezelõtt matematikai egyenletek formájában leírta a memrisztor viselkedését, és készített is egy bonyolult, kezdetleges prototípust.
+
+Évtizedekkel késõbb a HP Labs tudóscsapata Stanley Williams vezetésével molekuláris elektronikai eszközökön dolgozva különös jelenségekre lett figyelmes. "Nagyon furcsa dolgokat kezdtek mûvelni, és nem tudtuk rájönni, mi történik" -- mondta Wiiliams. Aztán egyik nap egy másik kutató, Greg Snider felfedezte Chua 1971-ben írt tanulmányát, amelyet Williams figyelmébe ajánlott. Williams saját elmondása szerint éveket töltött Chua tanulmányának újra- és újraolvasásával, mire rádöbbent, hogy az általuk létrehozott molekuláris elektronikai eszköz lényegében nem más, mint egy memrisztor. "Végig ott volt a szemünk elõtt."
+
+
+
+A vízcsõ
+A memrisztort úgy kell elképzelni, mint egy csövet, amely a rajta áteresztett víz mennyiségétõl és irányától függõen változtatja a keresztmetszetét, amelyet még akkor is megõriz, ha a vizet elzártuk. Ha a vizet az egyik irányból folyatjuk, a csõ keresztmetszete nõ, ha a másik irányból, a keresztmetszet szûkül.
+
+
+
+
+A HP Labs csapata a fehér festékek alapjául szolgáló titándioxidot használt a memrisztor megépítéséhez. A szilíciumhoz hasonlóan a titándioxid félvezetõ, és tiszta állapotban nagy ellenállású. más anyagokkal szennyezve azonban vezetõvé válik. A titándioxidban a szennyezõk az áram folyásával egyezõ irányba sodródnak, ez a viselkedés egy tranzisztor esetében nemkívánatos, a memrisztor viszont pont ettõl mûködik. Ha egy vékony titándioxid-réteg egyik oldalára feszültséget adunk, a szennyezõk az anyag belsejébe áramolnak, csökkentve az ellenállást -- a feszültséget a másik oldalra adva a szennyezõk visszamennek az eredeti helyükre, és az ellenállás nõ.
+
+Memrisztor -- ahogy a HP Labs elkészítette
+
+Mire jó?
+
+Tranzisztorok és kondenzátorok segítségével felépíthetõ egy memrisztor, azonban egy viszonylag nagyméretû és bonyolult struktúra lenne -- vélekedik Williams. A memrisztorok megjelenése az áramkörtervezõk arzenáljában hosszú távon jelentõsen átalakíthatja az ipart. Memrisztorok segítségével lényegesen leegyszerûsíthetõk egyes kapcsolások, így az áramkörök fogyasztása csökkenthetõ, valamint olcsóbban lehet õket gyártani. Williams máris az emberi agyhoz hasonló mûködésû áramkörökrõl beszél, a közeljövõben azonban a memrisztorokat valószínûleg minden eddiginél nagyobb kapacitású, olcsóbb és gyorsabb nem-felejtõ memóriák építésére fogják használni.
+
+A HP Labsnál jelenleg azon dolgoznak, hogyan lehet a titándioxidból elõállított memrisztort sorozatban gyártani, illetve hogy lehet ilyen struktúrát szilíciumból készült chipre építeni. Williams szerint egy hibrid CMOS memrisztor lapka már most is mûködik a HP Labs egyik laborjában. 
+A memrisztor létezését elõször leíró Chua szerint a HP Labs munkája úttörõ jelentõségû, már csak abból a szempontból is, hogy az összes elektronikai és villamosságtani könyvet újra kell írni miatta.

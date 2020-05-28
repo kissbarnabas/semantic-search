@@ -1,0 +1,14 @@
+Hasznos a Vista felhasználóit õrületbe kergetõ User Account Control
+
+[Techworld] Szinte minden Vista felhasználót az õrületbe kerget az operációs rendszer User Account Control (UAC) képessége, ez a funkció azonban a tesztek szerint rendkívül hasznos a rootkitek ellen. Egy nemrég készült felmérés szerint 30-ból egyetlen rootkit sem tudott feltûnés nélkül, felhasználói interakció nélkül áthatolni ezen a védelmi vonalon.
+
+
+
+A User Account Control talán a Windows Vista egyik legfontosabb biztonsági újítása. Az UAC lehetõvé teszi a felhasználó számára, hogy adminisztrátori jogosultságok nélkül használja a PC-t, azonban ha olyan szoftvert akar futtatni, amely megköveteli az adminisztrátori jogosultságokat, akkor nem kell kijelentkeznie és adminisztrátorként belépnie, hanem elég beírnia az adminisztrátori jelszót.
+
+A rootkitek, totálisan rejtõzködõ hátsó kapuk ellen igen hatásos ez a Vista védelem, így jobban belegondolva inkább egy kis kényelmetlenséget válasszunk, mint egy XP-hez hasonló, nehezen védhetõ operációs rendszert. A tesztek szerint a hét rosszindulatú programokat keresõ alkalmazásból egy sem volt képes felfedezni és eltávolítani mindet, míg az erre specializált 14 rootkit-ellenes szoftverbõl is csupán négy ért el tökéletes pontszámot.
+
+
+Az általános célú alkalmazások közül a legjobb volt az Avira AntiVir Premium Security Suite, mely 29-et talált meg a 30 aktív rootkitbõl, míg a Norton alkalmazása csupán 18-at. Az anti-rootkit szoftverek közül az AVG Anti-Rootkit Free, a GMER, a Rootkit Unhooker LE és a Trend Micro Rootkit Buster fedezte fel az összes kártékony szoftvert. Eltávolítani azonban még ezek közül sem képes egy sem mindet.
+
+A Vista extra védelme itt lép közbe: a tesztek szerint a 30-ból csupán 6 rootkit fut az operációs rendszeren, azonban ezek mindegyikét detektálja az UAC, és megkérdezi a felhasználót, valóban telepíteni akarja-e a programot. Ahhoz, hogy a hat rootkit jelzés nélkül installálódjon, teljesen ki kellett kapcsolni a User Account Controlt. A Vistához ajánlott 17 antivírus szoftver közül csupán három detektálta és távolította el ezeket a rootkiteket, az F-Secure Anti-Virus 2008, a Panda Security Antivirus 2008 és a Norton Antivirus 2008.

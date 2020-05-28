@@ -1,0 +1,24 @@
+Borulhat a Firefox 3.1 megjelenési ütemterve
+
+Tovább halasztja a Mozilla a Firefox 3.1 harmadik tesztváltozatának megjelenését, mivel a program megújult, TraceMonkey nevû JavaScript-motorjában számos olyan hibát találtak, melynek kijavítása a vártnál több idõt igényel. Kezd kérdésessé válni, hogy a végleges kód még ebben a negyedévben elkészül-e.
+
+
+
+Egy hónapon belül a második alkalommal kénytelen elhalasztani a Firefox 3.1 harmadik bétájának a megjelenését a Mozilla: a fejlesztõk január közepén jelentették be, hogy a beta2-ben felfedezett és kijavításra váró "nagy számú hiba" miatt január 26-a helyett csak egy héttel késõbb, február 2-án teszik elérhetõvé az újabb tesztváltozatot. Akkor 15 elsõdleges prioritású bugot tartottak nyilván a programozók, Mike Beltzner, a Firefox projektvezetõje szerdán azonban már azt közölte a nyilvános fejlesztõi meetingen, hogy 18 kritikus hibára kell megoldást találni a beta3-as változat kiadása elõtt.
+
+
+A Microsoft is fejleszt rá
+
+A Firefox webböngészõrõl köztudott, hogy a program sokrétûen bõvíthetõ, illetve testreszabható különféle kiegészítõkkel. Az egyik legújabb ilyen add-on éppen a Microsoft nevéhez köthetõ: a cég saját keresõszolgáltatásához, a Windows Live Search-höz adott ki egy olyan firefoxos keresõmodult, mellyel a keresési tippek is mûködnek.
+
+
+
+
+A Mozillánál a hónap közepén igyekeztek hangsúlyozni, hogy az ütemtervbe került egyhetes csúszás nem késlelteti a végleges változat debütálását, a legutóbbi nyilatkozatok azonban már nem zárják ki annak a lehetõségét, hogy a Firefox 3.1 megjelenése a második negyedévre tolódik: "Nem mondhatnám, hogy száz százalékig biztosak vagyunk benne, hogy az elsõ negyedévben elkészülünk" -- mondta el Beltzner. A Mozilla ezúttal már nem is közölt újabb megjelenési idõpontot a harmadik bétaváltozathoz, elismerve, hogy az új motorban felfedezett hibák megoldása komplikáltabb a vártnál.
+
+A legtöbb kritikus hibát -- szám szerint tizenötöt -- az elõdjénél lényegesen gyorsabban mûködõ, TraceMonkey fantázianevû JavaScript-motorban találták a tesztelõk. A TraceMonkey-t a 3.1-es változat elsõ, októberben megjelent bétájában még kikapcsolta a Mozilla, a második bétában azonban már alapértelmezettként mûködött az új motor. A jelenleg még számos hibát tartalmazó komponens az új Firefox egyik, ha nem a legnagyobb vonzerejét jelentheti: a Mozilla szerint az új verzió kétszer gyorsabb lesz a jelenlegi stabil, 3.0-s változatnál és kilencszer gyorsabb a Firefox 2.0-nál.
+
+
+A Firefox 3.1 beta3 korábbi információk szerint új funkciókat nem tartalmaz majd, csak hibajavítások kerülnek a kódba. Az utolsó béta megjelenését várhatóan több kiadásra jelölt (release candidate, RC) változat is követi, egyre inkább úgy tûnik azonban, hogy a programozóknak igen feszített tempóban kell dolgozniuk, ha a Mozilla tartani akarja magát a korábbi ütemtervhez, és március végéig ki akarja adni a végleges változatot.
+
+Az idõzítés most kiváltképp kritikussá válhat, miután a Microsoftnál a héten elkészült az Internet Explorer 8.0 kiadásra jelölt változata. Redmondban egyelõre nem közöltek konkrét megjelenési idõpontot, a véglegesített kód kiadása azonban azt vetíti elõre, hogy a kész program pár hónapon belül megérkezik.

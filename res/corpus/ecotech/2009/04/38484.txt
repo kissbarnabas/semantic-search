@@ -1,0 +1,39 @@
+Dicstelen véget ért a Silicon Graphics története
+
+Története során másodszor és egyúttal véglegesen csõdöt jelentett a Silicon Graphics, a cég ezúttal meg sem kíséreli a feltámadást, vagyonát 25 millió dollárért a Rackable Systemsnek adja el és lényegében megszûnik. A Rackable az SGI termékeit, szolgáltatásai és persze ügyfélkörét kihasználva szeretne terjeszkedni a mûszaki számítástechnika területén.
+
+
+
+Kezdeti sikerek
+
+Az 1982-ben alapított Silicon Graphics neve egyet jelent a high-end számítógépes grafikával, vizualizációval. A vállalat 1983-ban dobta piacra elsõ termékét, az IRIS grafikus terminált, majd az évek során ezt sorra követték a mára informatikai ikonná, fogalommá vált termékek, például az Indigo grafikus munkaállomások, vagy a minden idõk legszebb számítógépei közé sorolt O2. A cég innovatív megoldásaival örökre beírta magát az informatika történelemkönyvébe, az SGI-hoz köthetõ többek között az egyetlen keresztplatformos grafikus alkalmazásfejlesztési interfész, az OpenGL megszületése is.
+
+
+ A 90-es években a filmiparban is rendkívül kedveltek voltak a Silicon Graphics megoldásai, számos ismert mozifilm, például a Terminator 2 vagy a Jurassic Park trükkjei készültek ilyen gépeken -- a Jurassic Park néhány jelenetében még Silicon Graphics számítógépek is feltûntek. A 2000-es években a Gyûrûk Ura trilógia speciális effektusaihoz használtak Silicon Graphics Octane, Origin és Onyx2 számítógépeket. A vállalat 1995-ben volt a csúcson, piaci értéke ekkor megközelítette a 7 milliárd dollárt, dolgozóinak létszáma pedig a 10 ezer fõt.
+
+A Silicon Graphics koporsójába számos szög került az évek során. Az egyik legfontosabb ezek közül a 90-es évek közepén a PC-s 3D-gyorsítás megjelenése és elterjedése volt a 3Dfx, az NVIDIA és az ATI révén. Ezek a videokártyák lehetõvé tették azoknak a professzionális grafikus alkalmazásoknak a futását PC-ken, amelyekhez korábban csúcskategóriás UNIX/RISC munkaállomás kellett. A cég által használt MIPS processzorokra fejlesztett Windows NT terve végül kútba esett és megjelentek a színen az Intel-alapú munkaállomások. A x86 egyre nagyobb teret nyert, kiszorítva a munkaállomások piacáról az olyan szereplõket mint a Silicon Graphics és a Sun. A sors furcsa fintora, hogy a grafikus piacot uraló cégeket többségében a Silicon Graphicstõl elszivárgott mérnökök és szakemberek alapították vagy virágoztatták fel.
+
+Hosszú haláltusa
+
+ A 90-es évek közepén az SGI termékeit akkor még teherautószámra vásárló filmstúdiók pénzébõl a cég megvásárolta a 3D modellezõ szoftvereket fejlesztõ Aliast és a Wavefrontot is. Utóbbiakat késõbb egy vállalatban egyesítették, majd 2004-ben egy magántõke-társaságnak adták el 57 millió dollárért. Hogy az SGI milyen rossz üzletet csinált, arra bizonyíték, hogy az Aliasért egy évvel késõbb 182 millió dollárt fizetett az Autodesk. 
+
+A vállalat történetének legnagyobb baklövését követte el akkor, amikor 1996-ben felvásárolta a szuperszámítógépeirõl ismert Cray Research-öt. Az akvizíciót már akkor is értetlenül fogadta a piac, a két cégben ugyanis lényegében semmi közös nem volt, más piacot céloztak és más technológiát használtak. A sikeres integrációt nehezítette az is, hogy a Craynél akkoriban a szuperszámítógépek világában jártas, ötvenes "öregurak" dolgoztak, akik nem értettek szót a Silicon Graphics fiataljaival. A Silicon Graphics végül 2000-ben megszabadult a Craytõl, az üzletágat a Tera Computer vásárolta meg, amely késõbb átnevezte magát Crayre.
+
+
+
+A csúcson
+
+A világ legnagyobb teljesítményû szuperszámítógépeit rangsoroló Top500 listán jelenleg 17 SGI rendszer található, ezzel a cég az ötödik a gyártók sorában a a HP, az IBM, a Dell és a Cray mögött és megelõzi a Sunt. Az SGI legerõsebb gépe a listán a 12800 darab négymagos Xeonból felépülõ Pleiades, amelynek teljesítménye 487 teraflops. 2004 októberében egy Itanium 2-alapú SGI Altix rendszer, a Columbia volt a leggyorsabb a világon, azonban a pár héttel késõbb üzembe állított elsõ IBM Blue Gene/L letaszította a trónról.
+
+
+
+
+1998-ban a Cray bejelentette, hogy felhagy a saját processzorfejlesztéssel és rendszereit az Intel Itaniumjára állítja át. Az Itanium projekt azonban nem csak jelentõs késéseket szenvedett, hanem a processzorok teljesítménye sem hozta a várakozásokat, így az érdeklõdés megcsappant. A vállalat csak 2001-ben tudta piacra dobni elsõ Itanium-alapú rendszereit, addig azonban kénytelen volt további MIPS-fejlesztéseket piacra vinni, amelyeket viszont már senki sem vett meg szinte, egyfelõl mert lassúak voltak, másrészt meg mert küszöbön állt az Itaniumra váltás. Az itaniumos rendszerek megjelenése egyben a Silicon Graphics saját operációs rendszerének, az IRIX-nek a végét is jelentette, a cég Intel-alapú gépei SUSE Linuxszal érkeznek, a régebbi alkalmazások futását pedig a QuickTransit valós idejû fordító biztosítja.
+
+A XXI. század elsõ évtizedének közepére a Silicon Graphics kétségbeejtõ helyzetbe került, a munkaállomás-piacot az x86-os alapokon dolgozó cégek uralták, elsõsorban a HP és a Dell, de az x86 a tudományos számításokra használt szerverek terén is látványosan elõretört a linuxos fürtök által, így egyre kisebb volt a kereslet az SGI termékei iránt. 2005 õszén a cég részvényeit szégyenszemre kivezették a New York-i tõzsdérõl, mivel az árfolyam nem érte el a meghatározott minimumot. A tíz évvel korábban még 7 milliárd dolláros piaci kapitalizációjú cég ekkor alig 120 millió dollárt ért.
+
+2006 májusában a vállalat csõdvédelmet kért, amelybõl õszre tudott kilábalni. Az új stratégiai elképzelések szerint az SGI a mûszaki-tudományos megoldásokra való koncentrálás helyett általános célú szerverszállítóvá kívánt válni, eddigre azonban teljesen marginalziálódott a piacon és szavahihetõségét is teljesen elvesztette. A Silicon Graphics az utolsó két évet a tetszhalál állapotában töltötte, bevételei folyamatosan csökkentek, vesztesége pedig egyre nõtt. 2008 végén a papírjait ismét kivezették a tõzsdérõl, a cég piaci értéke eddigre 35 millió dollárra apadt, alkalmazottainak száma alig volt több ezernél.
+
+A válság tette be a kaput
+
+Az SGI koporsójában az utolsó szövet a pénzügyi krízis és a gazdasági válság jelentette. Robert Ewald, a cég elnök-vezérigazgatója az amerikai Értékpapírpiaci- és Tõzsdefelügyelethez eljuttatott dokumentumban kifejtette, a cég folyamatos mûködéséhez további hitelekre lenne szükség, azonban jelen helyzetben nem tudtak finanszírozót találni. A mindössze 300 dolgozót foglalkoztató, kimondottan a mérnöki-tudományos fürtökre koncentráló Rackable Systems 25 millió dollárért veszi meg az SGI-t, amely 15 százalékkal magasabb a tényleges piaci kapitalizációnál.

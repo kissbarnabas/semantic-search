@@ -1,0 +1,14 @@
+Melyik integrált fejlesztõi környezetet szeretik a legjobban?
+
+A szoftverfejlesztõi eszközökkel kapcsolatos tanulmányokat publikáló Evans Data felmérése szerint az IBM Rational Application Developerrel a leginkább elégedettek a felhasználók.
+
+
+
+Az Evans Data világszerte mintegy 1200 fejlesztõ megkérdezésével készített tanulmánya szerint az integrált fejlesztõkörnyezetek közül az IBM RAD a legkedveltebb a saját felhasználói körében, de az Oracle JDevelopert, a Microsoft Visual Studiót és a Sun Studiót is sokan szeretik. A legelterjedtebb nyílt forrású környezetek közül a NetBeans a hetedik, a MyEclipse pedig csak a nyolcadik helyet szerezte meg a rangsorban.
+
+
+ Az IDE-felhasználók összesen tizenöt szempont szerint értékelték az általuk ismert, használt fejlesztõi környezeteket. A különféle szempontok különbözõ súllyal számítottak a végsõ értékelésnél, hogy mekkorával, azt szintén a fejlesztõktõl származó visszajelzések alapján határozták meg. Ez alapján állt elõ a végleges sorrend, ahol az IBM RAD 170 pontot szerzett, de még a negyedik helyezett Sun Studió is csak pár ponttal maradt le, vagyis az élen igen szoros volt a verseny. 
+
+
+
+Az IBM RAD esetében a felhasználók az alkalmazás-modellezési eszközöket, a technikai támogatást minõségét,a példakódokat és a profiler kategóriákat emelték a legfõbb erények közé. Az Oracle JDeveloper kapcsán a fejlesztõk elsõsorban a rendkívül jó dokumentációt dicsérték, a Visual Studiónál a szerkesztõvel, a debuggerrel és a felhasználói közösséggel voltak elégedettek, a Sun Studiónál pedig a létrehozott alkalmazások nagy teljesítményét emelték ki pozitívumként. A felmérés szerint a Delphi leginkább könnyû kezelhetõségével, gyors compilerével, valamint a külsõ eszközök nagy számával szerez magának híveket.

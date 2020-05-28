@@ -1,0 +1,14 @@
+Kritikus biztonsági rés a VMware virtualizációs szoftver windowsos klienseiben
+
+[Techworld] A Core Security Technologies kritikus biztonsági rést talált a VMware virtualizációs szoftver windowsos klienseiben, pontosabban a Workstation, Player és ACE változataiban. A Windowson futó szerverek és Mac- és Linux-alapú hostok nem érintettek.
+
+
+
+A megosztott könyvtárkezelésben található hibát kihasználva a támadók a virtuális, vendég gépen keresztül eljuthatnak az azt futtató hostig, operációs rendszerig, és szabadon állományokat másolhatnak arra. A megosztott könyvtárakat a virtuális gép és az azt futtató gazda közötti könnyebb állománycserére hozzák általában létre, az ebben található állományokhoz mindkét rendszerbõl hozzá lehet férni.
+
+A vendég gépre bejutott támadó a biztonsági rést kihasználva a gazdagép teljes könyvtárszerkezetét láthatja, oda állományokat másolhat, így akár automatikusan indulónak állíthat be bejuttatott rosszindulatú alkalmazásokat. A VMware is elismerte a hiba létezését, de egyelõre nem tett közzé javítást, azt javasolta a felhasználóknak, hogy kapcsolják ki a megosztott könyvtárakat.
+
+
+A VMware azt is igyekezett leszögezni, hogy a hiba nem érinti virtualizációs szoftverének szerver változatait, a VMware Server és ESX Server alkalmazások ugyanis nem használnak megosztott könyvtárakat. Az újabb windowsos kliensek esetében is automatikusan ki fogja kapcsolni a telepítõ ezt a funkciót, azt a kockázat ismeretében a felhasználónak kell majd saját felelõsségre bekapcsolnia.
+
+Egy hasonló hiba már korábban is jelentkezett a VMware szoftvereiben, azt a rést a VeriSign üzemeltetésében lévõ iDefense Labs jelentette a vállalatnak. A VMware körülbelül egy hónap alatt foltozta be azt a biztonsági rést.

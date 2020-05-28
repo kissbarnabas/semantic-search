@@ -1,0 +1,16 @@
+Magyarul is elérhetõ a Google közösségi keresõje, a SearchWiki
+
+Magyar SearchWiki
+
+A SearchWiki-n belüli akciók természetesen minden felhasználónak csak a saját találati listájára vannak közvetlen hatással, nem kell attól félni, hogy lelkes keresõoptimalizálók csalással szerezhetnek elõnyöket. A bejelentkezett felhasználók szokásai már eddig is képesek voltak befolyásolni a lista sorrendjét, sõt a HWSW tapasztalatai alapján már a SearchWiki bevezetése elõtt is, az ismételt keresések esetében a rendszer megjelenítette, hogy az adott linkre mikor kattintottunk rá elõször és hányszor tettük meg eddig, sõt több átkattintás után automatikusan a sorrend is személyre szabottan változott.
+
+A felhasználók által elvégzett változtatások és a hozzáfûzött gondolatok viszont megjelennek egy nyilvános oldalon, ahol a közösség által formált eredménylap jelenik meg, a módosítások így megoszthatóak másokkal is. A kommentárokat a találati listában a "tárolt változat" és a "hasonló oldalak" gombok mellett jelzi a keresõ, odakattintva pedig lenyílnak a hozzászólások, mint egy fórumban. 
+
+Végletekig egyszerû
+
+A Google nem maradt hûtlen alapelveihez sem, így a SearchWiki funkciói is a végletekig egyszerûek. Amennyiben erõsíteni vagy gyengíteni akar valaki egy linket, akkor az adott nyílra kattintva megteheti, késõbb a találat mellett egy zöld ikon jelzi, hogy manuálisan került új helyére. Az eltávolítás esetében természetesen egyszerûen nem jelenik meg a találat újra, csak a lista legvégén, ahonnan akár vissza is lehet állítani ezeket. 
+
+
+Tavaly novemberben Peresztegi Zoltán, a Google Magyarországi üzletfejlesztési vezetõje a HWSW-nek azt mondta, hogy Magyarországon a keresõk használata alacsonyabb szinten áll, mint az Egyesült Államokban vagy Nyugat-Európában, de a tartalmak gyarapodásával párhuzamosan ez javulhat, ezért érdemes a lokalizált változatokat fejleszteni. 
+
+Minden termék esetében az a cél, hogy a bevezetés lehetõleg egyszerre vagy minél kisebb csúszással történjen az amerikaihoz képest, de gyakran nyelvi vagy egyéb akadályok közbe jöhetnek -- tudtuk meg Peresztegitõl. A Google szerint a világ 40 legnagyobb nyelve lefedi az internetezõk igen nagy részét, ezekre kiemelt figyelmet fordít lokalizációnál -- szerencsére a magyar nyelv is a 40 között van. A fejlesztések eleve a lokalizáció szem elõtt tartásával készülnek, így a probléma nem ezzel, hanem például az arab nyelveknél a karakterkészlettel, míg a magyarhoz hasonló izoláltabb nyelveknél pedig a szövegelemzéssel van.

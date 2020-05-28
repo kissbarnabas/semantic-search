@@ -1,0 +1,24 @@
+Nagy lépésekben halad a Thunderbird 3 fejlesztése
+
+[Ars Technica/HWSW] A Mozilla Messaging bemutatta a közelgõ ThunderBird 3.0 legújabb alfaváltozatát, sok-sok újdonságról lerántva a leplet. A Shredder  kódnéven fejlesztett szoftver most megjelent változata is még nagyon kísérleti a készítõk szerint: munkahelyi, üzleti használatra nem  ajánlott. Ennek ellenére az új alfa töménytelen mennyiségû apró javítást, új funkciót mutat már be, például a Thunderbird teljesen megújuló kezelõfelületének elsõ részleteit. 
+
+
+
+Lendületben a viharmadár
+
+A Shredder fejlesztése gyorsan haladt elõre az elõzõ megálló óta: a Rumbling Edge blogon követhetõ a bugok javításának folyamata, ami igen meggyõzõ tempóban zajlik. Az augusztus közepén felbukkant második alfához képest rövid idõ alatt 288 kisebb-nagyobb változtatás került be a lelkes tesztelõknek és a fejlesztõknek köszönhetõen.
+
+A legfontosabb elõrelépések a teljesítmény és a használhatóság terén történtek a harmadik változatban, de az IMAP-implementáció is komoly lökést kapott, illetve a visszajelzések alapján sokkal használhatóbb lett az offline üzemmód is. Az új üzenetnézet ablakban is helyükre kerültek az odaillõ vezérlõgombok, mint a válasz, továbbítás vagy a törlés. Az e-mailcímek mellett pedig egy apró csillag ikon tûnt fel, amivel a levél fejlécében található címek azonnal a kontaktlistához adhatóak. Ez leginkább a Firefox 3-ból is ismert új gyorskönyvjelzõ funkcióhoz hasonlít.
+
+ 
+
+A felhasználói felület változásaival kapcsolatban Byran Clark, a Thunderbird egyik alkotója blogjában több olyan funkcióról mesélt, melyek még csak tervezés alatt vannak, így ez az állapot még továbbra is csak a kezdet: úgy tûnik, újabb alfaverziók várhatóak a közeljövõben. Clark nemrégiben írt például a levelezõbe ágyazott tab-rendszerrõl, továbbfejlesztett állapotsávról, illetve olyan apróságnak tûnõ újításokról, mint az automatikus levéltárgy-kitöltés.
+
+Aktív tesztközönség
+
+A Mozzila Messaging lendülete nem meglepõ, hiszen egy mindössze egy éves kezdeményezésrõl van szó. A Mozilla Alapítványból kiválva hárommillió dolláros indulótõkével vághattak neki a Thunderbird független fejlesztésének, miközben az Mozilla kizárólag a böngészõfejlesztésre tud fókuszálni. A tervek szerint a végleges Thunderbird a jelenlegi online és asztali megoldások mellett is egy vonzó lehetõség lesz a levelezésre, fõleg azzal együtt, hogy az érett szoftver megjelenése messze nem jelenti a fejlesztések leállását, hanem folyamatosan, inkrementálisan tervezik a bõvítést a felhasználói igényeknek, kéréseknek megfelelõen.
+
+
+A cél a könnyû használhatóság, a munkamenet hatékonyabbá tétele az összetettebb levelezési funkciók által, illetve a naptárfunkció teljes integrálása.Ez utóbbival kapcsolatban a fejlesztõk várják a lelkes Thunderbird- illetve Lightning-felhasználókat, akik szívesen tesztelnék az új megoldásokat.
+
+Az eredeti Thunderbird 3 alfaverzió volt egyébként az elsõ olyan szoftver, amiben bemutatkozott az 1.9-es verziószámú Gecko, a Mozilla új renderelõmotorja, melyet a Firefox 3-ban is használnak azóta. A Thunderbird fejlõdését a Qualcomm házatáján is figyelemmel kísérik, hisz éppen két éve jelentették be, hogy a nagymúltú Eudora levelezõkliens következõ, nyolcadik generációja nyílt forráskódú lesz és a Thunderbirddel azonos alapokon nyugszik majd. Az érdeklõdõk az eddigi alfaváltozatokban eszközölt minden újítást megtalálnak a hivatalos jegyzékben, a Mozilla Messaging oldalán.

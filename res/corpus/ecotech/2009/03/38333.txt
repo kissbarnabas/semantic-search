@@ -1,0 +1,12 @@
+SAP-alkalmazások okostelefonokon a Sybase segítségével
+
+Bár az Apple népszerû okostelefonja, az iPhone többek (elsõsorban természetesen a cég legnagyobb vetélytársai) szerint nem sorolható az üzleti készülékek közé, az SAP és a Sybase most alaposan rácáfol erre a tézisre: a két cég szerdán jelentette be, hogy közösen fejlesztik az SAP üzletviteli rendszereinek iPhone okostelefonokkal kompatibilis komponenseit. A két cég emellett a többi platformra is fejleszt majd, így az üzletemberek idõvel symbianos és windowsos okostelefonjaikkal is használhatják majd az SAP vállalatirányítási rendszerét.
+
+
+
+A világ legnagyobb vállalatirányítási rendszerét jegyzõ SAP eddig kizárólag a BlackBerry üzleti okostelefonokat gyártó Research in Motionnel egyezett meg arról, hogy szoftvereinek elkészíti speciális, mobiltelefonokon futó változatát. A most ismertetett új együttmûködés révén a Sybase az SAP-vel együttmûködve továbbfejleszti Unwired Platform nevû, mobil vállalati alkalmazásplatformját, mely a február elején bejelentett, nyártól elérhetõ SAP Business Suite 7 alkalmazások zökkenõmentes futását szolgálja majd más mobilkészülékeken is.
+
+
+Az érintett okostelefonok felhasználói számára az év második felétõl érhetõk majd el az elsõ SAP-komponensek, melyek a vállalat partnerei által leggyakrabban használt CRM és ERP alkalmazások közül kerülnek ki. Az együttmûködést bejelentõ sajtótájékoztatón Bill McDermott, az SAP felsõvezetése részérõl a mobil munkaerõ szerepének felértékelõdésérõl, mint napjaink egyik meghatározó vállalati szintû trendjérõl beszélt: "A mobil munkaerõ mostanra a vállalat legfontosabb munkaerejévé vált, hiszen leginkább õ tartja a kapcsolatot az ügyfelekkel. Éppen ezért fontos, hogy olyan eszközökkel dolgozhasson, melyek segítik ebben a munkában" -- mondta el McDermott.
+
+A két cég egyelõre nem árul el részleteket arról, hogy a vállalatirányítási rendszer mobilkészülékekre portolt változata nagyságrendileg mennyibe fog kerülni, McDermott mindössze annyit közölt újságírói kérdésre, hogy a rendszer "megfizethetõ" lesz a cég partnerei számára.

@@ -1,0 +1,22 @@
+Több ezer szervert döntött volna romba egy bosszúálló rendszergazda
+
+Idõzített bombaként viselkedõ kódot helyezett el egy UNIX-rendszergazda az Egyesült Államok legnagyobb jelzáloghitelezõjének rendszerében, miután elbocsátották. Az indiai vendégmunkás most bíróság elõtt felel, büntetése akár 10 év börtön is lehet. Az érintett cég és a szándék súlyossága miatt széles publicitást kapott eset ismét rávilágít arra, rendkívül körültekintõnek kell lenni egy informatikusok, különösen a sokszor a rendszerek isteneként viselkedõ adminisztrátorok elbocsátásakor.
+
+
+
+Idõzített bombát telepített
+
+A 35 éves Rajendrasinh Babubhai Makwana a pénzügyi krízis epicentrumában álló Fannie Mae jelzáloghitelezõnél dolgozott szerzõdéses megbízás alapján, mikor tavaly októberben összetûzésbe keveredett felettesével. Makwana ugyanis fõnöke engedélye nélkül írt és futtatott le egy olyan szkriptet, mely megváltoztatta a cégnél alkalmazott UNIX-szerverek egyes, nem részletezett beállításait. Ennek eredményeként két héttel késõbb, október 24-én felmondták megbízását. 
+
+
+A Fannie Mae azonban hatalmas hibát követett el ezen a ponton, ugyanis nem függesztette fel Makwana hozzáférését, legkésõbb a szerzõdésbontás tényének közlésekor, hanem csak órákkal késõbb -- ezt az idõt pedig keményen ki is használta a UNIX-adminisztrátor. Makwana alig másfél órával azt követõen, hogy közölték vele az elbocsátását, egy idõzített bombát helyezett el egy, a Fannie Mae IT-rendszerében minden reggeli lefutó szkript végén. 
+
+A kód egyértelmûen a bosszú eszközeként, a felperzselt föld taktika jegyében született, lényegében a teljes szerverinfrastruktúrát el akarta pusztítani. A szkript mintegy 4 ezer szerverrõl törölte volna le a root jelszavakat, éles és backup adatokat, kikapcsolta volna a monitorozást és bejelentkezéseket, majd ennek végén teljesen lekapcsolta volna a kiszolgálókat, kiiktatva a távoli elérés lehetõségét, közölte az FBI. Az ártó kód január 31-én futott volna le, a vállalat szerencséjére azonban öt nappal Makwana távozását követõen egy másik rendszergazda észrevette azt.
+
+Az FBI a hálózati naplók és a Makwana céges laptopján tárolt átmeneti állományok elemzésével jutott el az indiai férfiig, aki 100 ezer dollár (23-24 millió forint) óvadék ellenében szabadlábon védekezhet, útlevelét azonban elvették. Az ügyészség számítógépes rendszerbe történõ illetéktelen behatolás vádjával állította bíróság elé Makwanát, aki legfeljebb 10 év börtönt kaphat, amennyiben bûnösnek találják. "A rosszindulatú kódot úgy tervezték, hogy a Fannie Mae hálózatán elterjedve megsemmisítse az összes adatot" -- fogalmazott az amerikai Államügyészség. A rendszergazda, aki meg nem erõsített pletykák szerint idõközben a Bank of Americának dolgozott, ártatlannak vallotta magát.
+
+Nem csak mással eshet meg
+
+Makwana esete különösen súlyos, tekintve a Fannie Mae szerepét egy egyébként is különösen törékeny pénzügyi és gazdasági környezetben, de a visszaélés ténye messze nem kivételes. A Cyber-Ark Systems egy nem reprezentatív felmérésében nemrég a rendszergazdák harmada vallotta be, hogy már visszaélt jogosultságaival, és olyan területekre tévedt, ahol valójában semmi keresnivalója nem volt. Ennél is rémisztõbb képet fest az, hogy a rendszergazdák 88 százaléka vinne el értékes információt abban az esetben, ha máról holnapra kirúgnák, míg harmaduk a privilégiumokat adó jelszavak listáját tulajdonítaná el, mellyel a szervezet értékes dokumentumaihoz és egyéb adataihoz juthat hozzá játszi könnyedséggel. 
+
+"Telepítheti bárki a legjobb biztonsági rendszert akár, de ha nem tartják tiszteletben az információt azok, akikre bízták, akkor az információ minden bizonnyal rossz helyre kerül" -- kommentálta az eredményeket Udi Mokady, a Cyber-Ark elnöke. A cég javaslata szerint minden szervezetnek be kell vezetni a jogosultságok olyan kezelését, mely rendszeresen megváltoztatja azokat, és ha egy alkalmazott elhagyja a vállalatot, akkor az összes általa ismert jelszót lecseréli.

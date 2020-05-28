@@ -1,0 +1,72 @@
+Kipróbáltuk: LG Arena -- S-osztály
+
+Mindeddig az LG KM900, vagy más néven Arena került a legközelebb ahhoz, hogy megugorja az iPhone által az érintõkijelzõs telefonok terén felállított szintet -- a koreai gyártó nem új ezen a piacon, de legtöbb konkurensével egyetemben csak mostanra jött rá, hogy egy ilyen készüléknél a kezelõfelület használhatóságán kívül gyakorlatilag semmi más nem számít. Hiába van integrálva Bluetooth, Wi-Fi vagy nagy felbontású kamera HD-videóval, ha kezelhetetlenül lassú a névjegyzék vagy éppen a böngészõ, netán kész tortúra SMS-t írni a mobillal, a koncepció alapjaiban bukik meg.
+Osztályt léptek
+
+Az LG-nél tehát vettek egy nagy levegõt, és megalkották az érintõkijelzõs telefonokra szabott "S-Class" felhasználói interfészt, mely egyfelõl tele van jó ötletekkel és látványos, a gyakorlatban is használható megoldásokkal, másfelõl pofátlan nyúlásokkal. Az Arena az elsõ olyan LG telefon, mely már ezt az interfészt kapta, és a koreaiak elképzelése szerint aligha az utolsó. Gyorsan szögezzük le, hogy a telefon ettõl még teljesen zárt operációs rendszert használ, tehát ne számítsunk arra, hogy külsõ fejlesztésû programok ezreit lehet majd letölteni hozzá záros idõn belül.
+
+
+
+
+Az Arena külsejét tekintve is exkluzivitást sugall, a telefon burkolata a 3 hüvelykes képátlójú érintõpanelt leszámítva gyakorlatilag teljes egészében fém, egyedül az oldalsó gombok készültek mûanyagból. A készülék meglehetõsen robusztus felépítése ellenére meglepõen könnyû, tömege alig több 100 grammnál, fogása a lekerekített formáknak és a jó anyagválasztásnak köszönhetõen kényelmes, kézbe illõ.
+
+
+
+
+A telefon gombjait nem szaporította feleslegesen az LG, az Arena oldalain mindössze három gomb, a ki- és bekapcsológomb (billentyûzárként is funkcionál), a hangerõszabályzó gombok, valamint a kamera exponálógombja található. A töltõ és az adatátviteli kábel csatlakozója egy diszkrét kis eltolható ajtócska mögött bújik meg, mely néhány konkurens gyártó megoldásához képest sokkal stabilabbnak és idõtállóbbnak tûnik. A mobil tetején egy 3,5 milliméteres jack csatlakozót is elhelyeztek a headset számára. A telefon tekintélyes mennyiségû, 8 gigabájtny memóriát kínál a tartalmaknak, ezt microSD-kártyával lehet bõvíteni egészen 40 gigabájtig. A kártya eltávolítása és behelyezése kissé körülményes (sõt, veszélyes -- a szerzõ ujját alaposan elvágta a foglalat) ugyan, de legalább nem kell hozzá kivenni az akkumulátort.
+Az LG Arena 3 hüvelykes érintõkijelzõje az egyik legjobb, amit az iparágban eddig elkövettek, mind felbontását, mind minõségét tekintve. A panel 480x800 pixelt képes megjeleníteni, a teljes színskála 16 millió színt ölel át, a kijelzõ ennek megfelelõen kifejezetten szép, élénk, kontrasztos képet ad, bár napfénynél &#8211; akárcsak a legtöbb érintõkijelzõs mobil esetében &#8211; sokat romlik az olvashatósága. Ezen a helyzeten javít valamelyest a fényérzékelõ, mely automatikusan a környezeti adottságokhoz igazítja a kijelzõ fényét.
+Az elõlapon, a kijelzõ alatt -- de nem a kijelzõ részeként -- három további kezelõszervet helyezett el az LG, ezek egyrészt a hívásindításkor- és fogadáskor, másrészt a felhasználó interfészen történõ navigálás során jutnak szerephez. Az érintõgombok háttérfénye pár másodperc alatt kikapcsol, ha nincs rájuk szükség -- ez szerintünk sokkal jobb megoldás, mint a korábbi modelleknél, így például a Renoirnál alkalmazott rendszer, mely fix nyomógombokat használ.
+S-Class, magentába bújtatva
+Mivel az Arénát a T-Mobile adta kölcsön nekünk, ezért a mobil kezelõfelülete és funkciói több ponton is eltérnek a széria KM900-as modellektõl. Ez leginkább az S-Class kezelõfelület színvilágán és elrendezésén érhetõ tetten -- ezzel kapcsolatban fontos leszögezni, hogy a telefon felhasználói felülete nem szabható testre egyedi skinekkel, tehát aki a T-Mobile-nál tervezi beszerezni a készüléket, az jobb ha elõre megbarátkozik a magenta nem túl tolakodó, de mégis hangsúlyos jelenlétével.
+
+
+
+
+
+
+A telefon sikerének talán legjelentõsebb záloga éppen az említett kezelõfelület, és azt kell mondjuk, hogy az S-Class UI-t nemcsak hogy jól kitalálták, de többnyire jól is valósították meg az LG-nél, még akkor is, ha bizonyos funkciók mûködése vagy a grafikai elrendezés kapcsán többször volt deja-vu érzésünk. Részben ilyen a négy részbõl álló -- egy virtuális kocka négy oldalát reprezentáló -- fõképernyõ alkalmazásindító panelje, ahol legfeljebb hat ikont lehet elhelyezni, átrendezésük pedig -- mit tesz a véletlen -- azután lehetséges, hogy hosszan érintjük valamelyiket.
+A panelek közt vagy a kijelzõ oldalra &#8222;húzásával&#8221;, vagy a hívásindításra és hívásfogadásra szolgáló gomb megnyomása után, a térbeli kockát pörgetve lehet váltani. Ezek a vizuális hatások jelentõsen feldobják a színes ikonokkal tarkított, szürke hátterû kezelõfelület használatát, ráadásul az effektek nem csak esztétikusak, de kellõen gyorsak is. Az alkalmazásindító képernyõ mellett akad egy felület a widgeteknek (ezekbõl gyárilag összesen nyolc került a telefonra), egy kedvencek listája alapján összeállított, arcképes névjegyzéknek, illetve egy kedvenc tartalmakból álló médiatárnak is.
+
+
+
+
+Az Arena egyik legnagyobb durranása az összesen 32 ikonból álló fõmenü, mely portréállásban 16 ikont rajzol ki, a többi funkciót soronként oldalra görgetve lehet elérni. Ez a felület talán az egyik leglátványosabb eleme az S-Class UI-nak, ráadásul amellett, hogy a menü szép, logikusan is van tagolva. A fõmenü emellett a tájolástól függõen más és más elrendezést kínál, így tájkép állásban megjelenik mind a 32 ikon, más kérdés, hogy az innen nyíló almenük vagy alkalmazások nagy részébe belépve vissza kell fordítani a készüléket portréállásba.
+Portréállásban mûködik például a maximum ezer kapcsolatot kezelõ névjegyzék is, melynek lapozása látványos ugyan, de azért lehetne kissé gördülékenyebb. A nevek, személyes adatok beviteléhez -- akárcsak minden más szövegbeviteli esetben -- viszont már használható a tájkép állásban mûködõ QWERTY érintõbillentyûzet, mely néhány magyar ékezetes betût is tartalmaz (a többit a kapcsolódó karakterek hosszan nyomásával lehet elõcsalni). A felület meglepõen könnyen használható gyors és pontos gépelésre, bár kezelését -- akárcsak más érintõkijelzõs telefonoknál -- eleinte szokni kell azért. 
+
+
+
+
+
+
+A telefonnal az SMS-ek és MMS-ek mellett természetesen e-mailt is lehet írni, a fiókok beállítása gyerekjáték, egy Gmail-fiók konfigurálása egy perc alatt elvégezhetõ. A gyors beállítás után esetünkben azonban hamar jött a hidegzuhany, a telefon ugyanis valamilyen rejtélyes okból kifolyólag a szerveren található összes üzenetet (a kezdetektõl indulva) be akarta importálni saját rendszerébe, ám 300 üzenetnél betelt az üzenetmemória, és hiába töröltünk minden e-mailt, ezután is makacsul ragaszkodott ahhoz az Arena, hogy a memória foglaltsága miatt nem lehet újabb üzeneteket letölteni.
+Sebaj, a Gmailt szerencsére el lehet érni más módokon, így például a beépített webböngészõvel is, mely szintén támogatja a portré és tájkép állást, a nagyítást és kicsinyítést pedig multi-touch rendszerben, két ujjal is végezhetjük. A telefonnal a gyors böngészés érdekében célszerû HSDPA vagy WLAN adatkapcsolattal netezni, ha csatlakozunk valamilyen hozzáférési ponthoz, az Arena&nbsp; minden böngészési folyamat elõtt rákérdez, melyik üzemmódot kívánjuk használni. Sajnos hiába a gyors adatkapcsolat, a böngészési élményt nagyban lerontja az oldalak lassú renderelése és mozgatása, mely különösen a tartalmasabb webhelyeknél jellemzõ.
+Multimédia-aréna
+
+Az LG Arena multimédiás képességeivel jócskán kompenzálja a kommunikációs rendszer apró hiányosságait. Bár a mobil 5 megapixeles kamerájánál házon belül van jobb (de legalábbis nagyobb felbontású), az érintõkijelzõre kihegyezett logikus kezelõfelület sok mindenért kárpótol. Az Arenával maximum 2592x1944 pixeles fotók készíthetõk, a Schneider-Kreuznach optikáján keresztül készített képek még gyér fényviszonyok mellett is elfogadható minõségûek (ilyenkor egy LED-vaku próbálja megvilágítani a témát). Van remegéskompenzáció és akár arckövetõ autófókusz is, más kérdés, hogy a fókuszálás és az exponálási sebesség tapasztalataink szerint kifejezetten lassú. Az Arenával készített képek színhelyessége és részletgazdagsága mobiltelefonos mércével mérve azért egészen kiváló.
+
+
+
+
+
+
+
+
+LG Arena tesztfotók
+
+
+
+
+
+
+
+
+
+Kattints az eredetiért!
+
+
+A készülékkel a modern mobiloktól mondhatni megszokott módon videofelvételek is készíthetõk, maximum 720x480 pixeles felbontásban, 30 képkocka/másodperces sebességgel. Akárcsak a Samsung Ultra Touchnál, itt is van lassított felvételi funkció, az elkészült videókat pedig még a telefonon meg lehet vágni a Muvee nevû egyszerû kis alkalmazással. Az Arena beépített médialejátszójával természetesen nem csak a saját kamera által rögzített videók játszhatók le, a telefon a DivX és XviD&nbsp; klipeket is megjeleníti, egészen 720x560 pixeles felbontásig.
+Az Arena zenelejátszási képességeinek vizsgálatába komoly elvárásokkal kezdtünk, mivel ez a terület az LG szerint a telefon egyik komoly ütõkártyája. A zenelejátszó kezelõfelülete valóban jó, többféle listázást támogat, megjeleníti az albumborítókat és a tájolástól függõen rendezi át a tartalmat. A zene tucatnyi elõre beállított hangszín-paraméterrel szólaltatható meg, emellett adott a hangzatos Dolby Mobile funkció is, mely remek alkalmat adott arra, hogy összehasonlítsuk a Samsung Ultra Touch hasonló célt szolgáló térhatású effektjével. A két eljárás közt&nbsp; -- ugyanazt a headsetet használva -- alig találtunk különbséget, az azonban egyértelmûen kiderült számunkra, hogy az LG Arenához adott gyári füles eléggé vérszegény teljesítményt nyújt a Samsung megoldásához képest, különösen a mélyebb tartományokban.
+A telefon a fentieken túl még egy sor hasznos, illetve kevésbé hasznos funkcióval szolgál, így az Arena is kapott aGPS-modult, mely kizárólag a Google Mapsszel hajlandó együttmûködni, a rendszer emellett többek közt tartalmaz egy egészen jól használható, áttekinthetõ felületû naptárt, ébresztõórát, világórát és számológépet is. Az akkumulátor a viszonylag nagy és fényerõs érintõkijelzõ ellenére egész jól bírja a használatot, nálunk nagyjából kétnaponta kellett tölteni, pedig az átlagosnál többet nyúztuk a telefont.
+Megpróbálták
+
+Az LG Arena összességében az egyik legjobb érintõkijelzõs mobil a piacon, de néhány hét használat után arra a következtetésre jutottunk, hogy hiába az újszerû, vagy éppen az ügyesen elcsent ötletek, hiába tud többet a hardver, a kategória királyát ezúttal sem sikerült letaszítani a trónjáról. Vicces egyébként, hogy a T-Mobile még a saját, iPhone-exkluzív díjcsomagját is kvázi lemásolta az Arenához, hogy még vonzóbb ajánlattá tegye azt, egyszersmind ezzel a két készülék gyakorlatilag egy árszintre is került (mindkettõt meg lehet vásárolni ezer forintért egy havi 15-20 ezer forintba kerülõ díjcsomaggal). Az LG Arena nagyon jó telefon, de pechére egy rendkívül kíméletlen ellenféllel szemben kell helytállnia. Azért jó látni, hogy a koreaiak legalább megpróbálják.

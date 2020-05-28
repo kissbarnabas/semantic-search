@@ -1,0 +1,15 @@
+Kipróbálható a Google Chrome 2.0
+
+A januári fejlesztõi elõzetest követõen a Google elérhetõvé tette a Chrome 2.0 bétaváltozatát. A 2.0 számos olyan funkcióval egészíti ki a Chrome-ot, amelyeket a felhasználók régóta vártak, s amik hiánya miatt sokak számára elfogadhatatlan volt a Chrome.
+
+
+
+A Chrome 2.0 egyik fontos újdonsága, hogy a legújabb WebKitet és V8 JavaScript motort használja, tovább növelve a böngészés sebességét. A Google szerint az új béta 25 százalékkal jobban teljesít a V8 benchmarkon és 35 százalékot ver saját elõdjére a Sunspider-tesztben. Az új változat immár képes a teljes optikai zoomra, azaz nem csak a betûk méretét nagyítja, hanem a riválisokhoz hasonlóan a teljes oldalt. Rossz hír ugyanakkor, hogy a szövegzoom teljesen kikerült az elérhetõ funkciók közül. Lett viszont teljes képernyõs megjelenítés, ami talán feleslegesnek is mondható, hiszen a Chrome kezelõfelülete eddig sem vett el jelentõs területet. Az automatikus szövegmezõ-kitöltõ viszont ráfért a programra, ami szintén mûködik a 2.0-ban.
+
+
+
+
+
+ Az ablakok átméretezése és áthelyezése is kapott egy egészen új képességet. Amennyiben a felhasználó kihúz egy fület az ablakból, akkor az asztal felületének különbözõ pontjain feltûnõ négyzetekbe húzva egy mozdulattal nagyíthatja teljes képernyõsre, rendezheti a képernyõ jobb vagy bal oldalára, vagy a már meglévõ másik ablakot is átméretezve együtt függõlegesen vagy vízszintesen szétoszthatja köztük a rendelkezésre álló helyet. A Chrome 2.0 végre támogatja a Greasmonkey scriptkezelõt is, ami eddig kizárólag a Firefoxot gazdagította. Ugyan nem minden kiegészítõ fut majd Chrome alatt, de ezzel lehetõvé válik a legtöbb hiányolt tartalmi funkció hozzáadása a böngészõhöz.
+
+A Chrome 2.0 béta A telepítéshez semmi másra nincs szükség, mint bezárni az éppen futó Chrome böngészõket, elindítani a webes telepítõt és pár pillanat múlva rendelkezésre is áll az új verzió, megõrizve a meglévõ beállításokat.

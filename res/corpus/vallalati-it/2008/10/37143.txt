@@ -1,0 +1,14 @@
+Egyre többe kerül árammal ellátni az adatközpontokat
+
+Nyugat-Európában a szerverek üzemeltetésére fordított energia tavaly 1,6 milliárd eurót tett ki, ami 13 százalékkal több mint egy évvel korábban -- derül ki az IDC jelentésébõl. A gépek fogyasztása összesen 16,3 terawattórát tett ki (ennyibõl Nagy-Britannia teljes közvilágítás-hálózatát két évig lehetne mûködtetni).
+
+
+
+Hogy a mostani szerverek és adatközpontok mennyire pazarlóan bánnak az energiával, azt jól mutatja, hogy a datacenterek szintjén a fogyasztás meghaladta a 40 terawattórát, az energiaköltség pedig a 4,4 milliárd eurót. Ennek oka, hogy az adatközpontok és maguk a berendezések sem használják fel hatékonyan az energiát. Nem csak arról van szó, hogy a szerverek és tárolók kapacitásuk töredékén üzemelnek, hanem arról is, hogy az energiaellátási lánc minden elemében jelentõs veszteség keletkezik.
+
+
+ Giorgio Nebuloni, az IDC elemzõje szerint az energiafogyasztás növekedése a gépek sokasodása mellett annak is köszönhetõ, hogy az egyre erõsebb konfigurációk egyre többet fogyasztanak. Bár a szervergyártók az utóbbi idõben nagy hangsúlyt fektettek a takarékosságra, az ilyen törekvések hatása csak hosszabb távon érezhetõ. "Érezhetõ a gépenkénti áramfogyasztás növekedése" -- mondta a HWSW megkeresésére Könyves-Tóth Kristóf, a Proserver kolokációs központ PR-vezetõje.
+
+Az IDC szerint az iparág azon törekvései, hogy hatékonyabb berendezéseket építsenek, még nem ellensúlyozza az energiafogyasztás folyamatos növekedését.  "A villamosáram drágulása miatt miatt az év elején sok ügyfelünk  átalánydíjas áramról mért áramra tértek át, amikor csak a felhasznált teljesítményt kell kifizetni" -- mondta Könyves-Tóth, aki azt is elárulta, a Proservernél egy 1 kilowattnyi szerverfogyasztásra 600 wattnyi hûtési teljesítmény jut.
+
+ Már ma is sokszor elõfordul, fõképp a belépõ kategóriás gépek esetében,  hogy egy szerver élettartama során nagyobb értékû energiát fogyaszt el, mint amennyi a gép bekerülési költsége volt, ezért az energiahatékonyság szerepe egyre inkább felértékelõdik.  Az IDC prognózisa szerint 2012-re általános lesz, hogy az új szerverek beszerzésére költött minden eurón felül további 80 centet a meglevõ infrastruktúra áramellátására, hûtésére kell majd fordítani.

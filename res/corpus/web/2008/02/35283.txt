@@ -1,0 +1,14 @@
+Európa a kéretlen levelek királya
+
+[Ars Technica] A Symantec legújabb riportja szerint Európa átvezette a vezetést a kéretlen levelek feketelistáján, kontinensünk lett az elmúlt három hónap adatai szerint a spamkirály. Európa felelõs a kéretlen levelek 44 százalékáért, letaszítva ezzel trónjáról Észak-Amerikát.
+
+
+
+Míg tavaly novemberben Európa csak a spamek 30,6 százalékáért felelt, másodikként  a 46 százalékos Észak-Amerika mögött, a felállás az elmúlt három hónap alatt teljesen megfordult, jelenleg a kéretlen levelek 44 százaléka származik kontinensünkrõl, míg Észak-Amerika 35,1 százalékra esett vissza. Pontosabban nem esett, hiszen az arányok nem az Észak-Amerikai spamek számának csökkenése miatt fordultak meg, hanem azért, mert Európa rettentõen beleerõsített. A spamek aránya átlagban tovább növekedett, a múlt havi e-mailforgalom 78,5 százalékát ezek a levelek adták.
+
+
+A Symantec szerint Európa "elõretöréséért" nem más felelõs, mint a fejlett infrastruktúra, a szélessávú elérések számának elmúlt évekbeli drasztikus emelkedése. A ranglistán, melyen a 100 lakosra jutó legtöbb szélessávú elõfizetõvel rendelkezõ országok szerepelnek, az elsõ tíz helybõl nyolcat európai országok foglalnak el. A Symantec több mint 450 millió postafóikból gyûjti adatait világszerte.
+
+A spamek jelentõs részéért zombihálózatok felelõsek, olyan hálózatoké, mint amelyet a legutóbbi ismertebb féreg, a Storm Worm segítségével készítenek fertõzött számítógépekbõl. A szélessávú elérések számának emelkedése ezeknek a hálózatoknak a hatákonyságát is megtöbbszörözheti, akkor is, ha stagnál a fertõzött gépek száma: a nagyobb sávszéllességen adott idõ alatt több kéretlen levelet lehet kiküldeni.
+
+Egy nemrég készült elemzés szerint nem csak a nagyobb mennyiségre, hanem újabb levélfajtákra is fel kell majd felkészíteni a spamszûrõ internetbiztonsági szoftvereket, olyanokra, melyek egyenesen következnek az egyre gyorsabb, "szélesebb" hozzáférésekbõl. A jövõre akár 105 milliárd dolláros internetbûnözési "piac" szereplõi jó eséllyel videókat tartalmazó spameket is bevethetnek majd jövõre.

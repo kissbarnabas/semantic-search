@@ -1,0 +1,16 @@
+A Nokia mobiljaira is elkészül a Microsoft Office 
+
+A Microsoft ma várhatóan bejelenti, hogy elkészül az Office irodai csomag Nokia okostelefonokon futó változata. A két cég magyar idõ szerint ma délután 5-kor tart közös sajtótájékoztatót, amelyrõl semmilyen részletet nem hoztak nyilvánosságra, de a Wall Street Journal bennfentes forrásai szerint a Nokia telefonjaira fejlesztett Office-ról lesz szó.
+Jön a mobilos Office
+Egyelõre nem tudni, az Office milyen formában kerülhet rá a Nokia telefonjaira. Lehet hogy a Microsoftnál elkészítik a Symbianon (Maemón?) futó változatát, de lehet hogy csak az Office 2010 webes változata, az Office Web Applications lesz elérhetõ a Nokia telefonjairól, ez azonban webes alkalmazás révén bármilyen készülékrõl használható, amelyen webböngészõ van. Az Office Web Applicationsszel kapcsolatban a Microsoft eddig csak azt árulta el, használatához Internet Explorer, Firefox vagy Safari szükséges, mobil böngészõkrõl eddig nem esett szó.
+
+A redmondi cég már régóta fejleszti az Office mobil változatát, azonban ez jelenleg kizárólag Windows Mobile platformon érhetõ el. A több mobil operációs rendszeren eddig is léteztek Office-dokumentumok kezelésére szolgáló alkalmazások (pl. Documents To Go, QuickOffice), a Microsoft valószínûleg úgy döntött, saját kezébe szeretné venni ezt a piacot.
+A mobilpiac visszaesése ellenére az okostelefonokból egyre több fogy, ahogy az üzleti felhasználók után a fogyasztók is felfedezik ezeknek a készülékeknek az elõnyeit. Az utóbbi idõben mind a Microsoft, mind a Nokia teret vesztett az okostelefonok piacán az olyan feltörekvõ vetélytársakkal szemben mint az Apple vagy a Research In Motion. A Microsoft és a Nokia az utóbbi években számos együttmûködési megállapodást kötött, 2007-ben elkészültek a Microsoft Live termékek a Nokia mobiljaira, tavaly a két cég megállapodott a Silverlight mobilos változatának fejlesztésérõl, õsszel pedig Exchange ActiveSync-kompatibilisek lettek a Nokia telefonok.
+Nokia Intel Microsoft?
+Az sem zárható ki, hogy a bejelentés a Linux-alapú Maemo platformot érinti. Amint arról a HWSW is beszámolt, a Nokia június végén kötött együttmûködési megállapodást az Intellel, amelynek értelmében a két vállalat olyan új, Intel architektúrára épülõ mobil platformokat és rájuk épülõ linuxos hordozható eszközöket hoz létre, amelyek alapszolgáltatása az internetes kapcsolat. Az Intel és a Nokia emellett közösen dolgozik számos Linux-alapú nyílt forrású szoftver fejlesztésén is, amelyek megteremthetik a jövõben érkezõ, közös hardverplatformra épülõ eszközök szabványos szoftverplatformját.
+A közösen kiadott közlemény szerint az Intel és a Nokia olyan nyílt forrású projekteken dolgozik majd együtt mint a  Moblin, a Maemo, a D-BUS, a Mozilla, a BlueZ, a GStreamer, vagy a PulseAudio. A Maemo a Nokia által fejlesztett, nyílt forrású komponensekre építõ szoftverplatform, amely a Nokia N-sorozatú internet tablet készülékein fut (N800, N810).
+A ma délutáni sajtótájékoztatón a Microsoft részérõl Stephen Elop, az Office-ért is felelõs Business Division vezetõje vesz részt, a Nokiát pedig Kai Öistamö, a Nokia Devices vezére képviseli. A cégek eddig semmilyen információt nem adtak ki a bejelentéssel kapcsolatban.	     
+                  
+                  
+                  
+                   

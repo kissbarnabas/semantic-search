@@ -1,0 +1,17 @@
+Számítógépek millióira telepíthetik a gyárakban a Google Chrome-ot
+
+[Times/HWSW] Új disztribúciós stratégiával próbálna piacot szerezni saját böngészõjének a Google -- írja a Times. A keresõóriás böngészõszoftverének elsõ bétaváltozata szeptember elején látott napvilágot, ám az óriási felhajtás ellenére nem tett szert tartós, számottevõ népszerûségre.
+
+
+
+Jövõ januárban kiléphet a béta státuszból a Google böngészõje, a Chrome, a fejlesztõk ezzel együtt vizsgálják annak a lehetõségeit, hogy miként növelhetnék a szoftver piaci részesedését. A Chrome-nak olyan, évek óta piacon lévõ, széles körben elterjed alkalmazásokkal kell felvennie a versenyt, mint a Microsoft Internet Explorere, illetve a Mozilla Firefox böngészõje, és bár jelenlegi, 1 százalék alatti részesedését figyelembe véve esélytelennek tûnhet, az PC-gyártók hátán felkapaszkodva piacot szerezhet riválisai rovására.
+
+Legalábbis így látja Sundar Pichai, a Google egyik alelnöke, aki a Times-nak adott nyilatkozatában elárulta, hogy a cégnél számításba vették annak a lehetõségét, hogy a Chrome a számítógépgyártókkal kötött elõzetes megállapodás értelmében több PC gyárilag telepített szoftverkínálatának részét képezné a jövõben. "Talán kötünk néhány disztribúciós megállapodást a jövõben, így bizonyos OEM-eknek lehetõséget adnánk arra, hogy a számítógépeiket a Chrome-mal elõtelepítve szállítsák" -- mondta Pichai a lapnak nyilatkozva. A Google számára mindenesetre ez a terep nem teljesen ismeretlen, hiszen jelenleg számos márka kínál olyan számítógépeket, melyekre a cég bizonyos szoftvereit (Google Desktop, Picasa, Google Toolbar) elõre telepítették.
+
+
+Pichai ezzel együtt bejelentette, hogy a Google Chrome elsõ, nem próbaverziós státuszban kiadott változata a tervek szerint a jövõ év elsõ hónapjaiban jelenhet meg, ezt követõen komoly marketinghadjáratba kezdene a keresõcég -- a Chrome-nak eddig gyakorlatilag semmilyen hírverést nem csinált a Google. A cég a szaksajtónak hagyta meg ezt a szerepet, a stratégia pedig, úgy tûnt, kezdetben be is jön: A Chrome a megjelenését követõ egy hét leforgása alatt 1 százalékos piacrészt szerzett, igaz, sokan a kipróbálás után maradtak inkább jól bevált böngészõjüknél.
+
+[+] Kipróbáltuk: Google Chrome - Szép, gyors, okos 
+
+
+A Chrome jelenleg a 0.4.154.25-ös bétaverziónál tart, a legfrissebb kiadása éppen tegnap jelent meg. Az új változat kijavít néhány, a korábbi tesztverziókban felfedezett biztonsági rést, átalakult a privát böngészés paraméterezési lehetõségei, fejlõdött a felugró ablakok tiltása és a könyvjelzõk kezelése. A Google Chrome letölthetõ a projekt weboldaláról, illetve a böngészõ beépített frissítési szolgáltatásán keresztül.

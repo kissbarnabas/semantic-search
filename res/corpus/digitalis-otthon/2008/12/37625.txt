@@ -1,0 +1,18 @@
+Wi-Fi hotspot a zsebben: hordozható 3G-routerrel jelentkezett a Novatel
+
+Akár zsebben is elférnek a Novatel Wireless új, jövõre megjelenõ hordozható hálózati útválasztói, melyek több, WLAN-vezérlõvel ellátott számítógép vagy noteszgép közt képesek megosztani a mobilinternetet. 
+
+
+
+Az amerikai Novatel Wireless a jövõ év elsõ hónapjaiban dobja piacra új, MiFi névre keresztelt termékcsaládját, mely több, a mobilhálózatokon keresztül szolgáltatott 3G-s internetkapcsolat megosztására alkalmas eszközbõl áll majd. Ilyen, a vezetékes széles sávú routerekhez hasonló funkciókkal ellátott hálózati útválasztót több cég is forgalmaz (a HWSW is  target="_blank">kipróbált már egy ilyen megoldást), a Novatel MiFi készülékei azonban kompakt méretükkel és teljes vezeték nélküli szabadságot nyújtó mûködésükkel kitûnnek a mezõnybõl.
+
+
+
+A mobilnetet több számítógép közt megosztó MiFi 3G-s routernek, a termékcsalád elsõ tagjának ugyanis még elektromos hálózatra sincs szükség a mûködéshez: a nagyjából kártyapakli méretû eszköznek saját áramforrása van, mely a gyártó szerint negyven óra készenléti idõt és négyórányi internetezést biztosít. A Novatel MiFi mobilnet routerei több hasznos kényelmi, biztonsági és menedzsmentfunkciót nyújtanak a kis- és középvállalatok felhasználói és a céges hálózatok üzemeletetõi számára, így bizonyos modellekben lesz automatikus VPN-üzemmódváltás, e-mail szinkronizálási lehetõség és távmenedzsmentet segítõ felület, a gyártó emellett külsõ fejlesztõk számára is lehetõvé teszi a platformhoz való hozzáférést.
+
+
+A MiFi router a Novatel állítása szerint legalább olyan könnyen használható lesz, mint a legtöbb széles sávú internetmegosztásra alkalmas megoldás -- a készülékbe elég behelyezni a SIM-kártyát, ezután gyakorlatilag azonnal elérhetõ az eszközhöz WLAN-on csatlakozó számítógépek számára az internet. A többnyire forgalomkorlátos mobilinternet-csomagok miatt azonban ajánlott több lépcsõben is levédeni a hozzáférési pontot -- a MiFi eszközök ehhez a szokásos módszereket (azonosító elrejtése, titkosítás) kínálják fel.
+
+[+] Kipróbáltuk: T-Mobile web'n'walk HSDPA-router
+
+A Novatel elsõ MiFi eszköze valamikor a jövõ év elsõ negyedében kerülhet forgalomba -- a készülék várhatóan a nagyobb mobilszolgáltatók hálózatában és a kiskereskedelmi partnereknél egyaránt megtalálható lesz. A router árát egyelõre nem közölték, ám egyes lapértesülések szerint a zsebben is elférõ hálózati eszköz nagyjából 200 dollárba fog kerülni.

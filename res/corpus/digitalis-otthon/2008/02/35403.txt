@@ -1,0 +1,38 @@
+Ne próbálkozzunk meg otthon a tönkrement merevlemez javításával
+
+Ha egyszer a merevlemez elkezdi felmondani a szolgálatot, a legrosszabb, amit tehetünk, hogy megpróbálkozunk a javítással. A logikának épp nem mondana ellent egy-két otthoni próbálkozás sikerességének elõrejelzése, a gond inkább abból adódik, hogy sok esetben nem teljesen ismert a logikusan gondolkodó számára egy merevlemez mûködése.
+
+
+
+Nem minden merevlemez örök
+
+A merevlemezen tárolt adatok többféleképp csoportosíthatók, adatvesztés szempontjából pótolható és a pótolhatatlan halmazokba érdemes gondolatban rendezni õket. A pótolhatatlan adatok csoportja tovább bomlik a már nem beszerezhetõekre, illetve a felhasználó saját munkájával létrehozottakra. A pótolhatók elvesztése természetesen nem okoz különösebb gondot azon kívül, hogy kényelmetlenséggel és idõráfordítással jár újbóli beszerzésük, vagy letöltésük. A pótolhatatlan fájlok -- ezek már rég nem csak a Word dokumentumokat és adatbázisokat jelentik, hanem már a nyaralás során készült fényképeket, filmeket is -- biztonsága annál inkább fontos, nem is képzelnénk, mennyien vannak, akik kizárólag a merevlemezükre bízzák ezeket, és nem készítenek egy életmentõ biztonsági mentést.
+
+
+A merevlemez maga azonban, bármennyire is csodálkoztat el egyeseket, tönkremehet. Tönkremehet akár végelgyengülésben, akár külsõ fizikai behatásoktól is, mint amilyen a hõingadozás, vagy például noteszgép esetén a leejtés, vagy akár a nedvesség. Bár szerkesztõségünkben is megtalálható egy 100 megabájtos Seagate tini, amely 17 éves kora ellenére képes ma is csapágyhangtól mentesen pörgetni tányérjait, ez egy elég ritka példa.
+
+Arra, hogy nem elegendõ a logikus gondolkodás a merevlemez megmentéséhez lehet jó példa, hogy egy elfüstölt elektronika pótlásától sok "szaki" százszázalékos eredményt úgy vár el, hogy közben fel sem merül, hogy az új elektronika közremûködése a még megmenthetõ adatokra akár végzetes következménnyel is lehet. Hazánk apróhirdetési oldalain számtalan hirdetéssel találkozhatunk, amelyben adott típusra ileszthetõ elektronikát keresnek. Sajnos kevesen tudják, hogy az elektronika a lemeztányér adattárolási szempontból nem megfelelõ tulajdonságú területeit is rögzíti, tiltva az író-olvasó fejeknek ezek használatát. Minden lemezen van ilyen rész, de természetesen meghajtónként nem megegyezõ helyeken.
+
+Multiméter, mókusszõr ecset és óráscsavarhúzó, mind az otthoni próbálkozások elmaradhatatlan kellékei
+
+A javítási próbálkozások végzetesek lehetnek
+
+A Kürt Zrt. letölthetõ könyvében a fentieket a következõképp fogalmazza: "A legsúlyosabb, esetenként végzetes állapotokat nem a számítástechnikai eszközök hibái, hanem a javítási próbálkozások idézik elõ. Ha a winchestered zárt dobozát felnyitod, akkor saját szemeddel gyõzõdhetsz meg arról, hogy az adataidat többé nem láthatod. Elektronikai panel cseréjével feléleszteni egy winchestert legalább annyira bonyolult, mint a nagypapa fogsorával rágni tanítani az újszülött unokát."
+
+A Kürt Zrt. marketing-igazgatója, Frankó Csuba Dea szomorú képet festett a jelenlegi helyzetrõl. A céghez beérkezett merevlemezek nem kevesebb mint 90 százaléka avatatlan kezektõl származó nyomokkal érkezik, ami azt jelenti, hogy száz meghajtóból kilencven szenvedett el az elveszett, sérült, visszaállítandó adatokra nézve veszélyes otthoni próbálkozást. A céghez a mai napig kerülnek be olyan meghajtók, amelyeknek adahordozó tányérjain ujjlenyomatok láthatók.
+
+A Kürthöz beérkezõ darabokat elõször tisztaszobában szétszerelik, és meggyõzõdnek arról, hogy az üzemeltetésük nem jár-e további károkkal, ennek ismeretében érthetõ és egyben jogos is a bevizsgálási díj. Sajnos a sufniban próbálkozók nem csak az adatokban tehetnek kárt, hanem rontják a cég statisztikáit is, hiszen a 80 százalékos sikerarányra e szakavatatlan próbálkozások kedvezõtlen hatással vannak.
+
+Fizikai sérülés esetén így se, sehogyse
+
+Frankó Csuba Dea szerint még az ügyesebb felhasználók is csak akkor kíséreljék meg a merevlemez javítását, ha az egyszerû felhasználói hiba, vagy más szoftveres probléma áldozata. Ha már kattog, vagy nem pörög fel, rosszabb esetben füstöl, már bekapcsolni sem célszerû, ezt a Kürt sem teszi többé, rábízza az értékes tányérokat a drága célgépeire. A Kürt Zrt. weboldalán számos tanácsot találunk, amelyek nem csak a megelõzéssel kapcsolatosak, hanem akár adatmentéssel is. Ezek között olyan is van, amely egy lakástûzben rongálódott merevlemezzel kapcsolatos teendõket ecseteli.
+
+A Kürt áraival kapcsolatban mindenki a csillagászati jelzõt emlegeti, és csak kevesen tudják, hogy létezik olyan lakossági csomag, amely akár nyolcvanezer forintért is megmenthet értékes fényképeket, munkákat. Fontos gondolat, hogy ennél az összegnél sokaknak ér többet a jól megszokott digitális életük, évek óta megszokott könyvtárszerkezetük, benne a sokszor napi használatban lévõ adatokkal, nem beszélve a sok kisgyermekes szülõrõl, akiknek cseperedõ porontyáról készült képek "picur" alkönyvtáráért akár aranyat is adnának, ha újra láthatnák.
+
+Eladás elõtt mindenképp töröljük a lemezt
+
+A használt számítógépek eladói sem törõdnek túlzottan személyes adataikkal. A Kürt Zrt. a behozott adathordozó esetében a róluk visszaállítható adatok tulajdonosát nem firtatja, ellenben visszaállíthat állományokat a már adattal felülírt területrõl is, természetesen célgépekkel, nem pedig ügyes-okos szoftverekkel. Az Apple gépek használói közül sokaknak tûnhetett fel már, hogy a Disk Manager alkalmazás felkínálja a merevlemez törlésekor, hogy annak hordozófelületének nullákkal történõ teleírását hétszer tegye egymásután. Ez már közel százszázalékos védelmet ad.
+
+Véleménye van?
+szóljon hozzá a fórumban
+írjon szerkesztõségünknek!

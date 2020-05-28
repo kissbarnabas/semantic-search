@@ -1,0 +1,10 @@
+Láthatatlan erõteret emel a böngészõ köré a Zone Alarm Force Field
+
+A személyi tûzfaláról méltán híressé vált Zone Labs bejelentette legújabb internetbiztonsági szoftverét, a Force Fieldet, amely a böngészõ és az operációs rendszer közé egy virtualizációs réteget húzva még akkor is megvédi a PC-t, ha a támadás a böngészõn már átjutott.
+
+
+
+A Force Field lényege, hogy egy virtuális felhasználót hoz létre az internetböngészõ számára, amelyet a böngészõ bezárásakor egybõl ki is töröl, így az esetlegesen átjutott támadások által végrehajtott módosítások is törlõdnek, mivel azok csak egy virtuális fájlrendszert érintenek. A Force Field mûködése hasonló a Vistán futó Internet Explorer 7-hez, amely szintén virtualizációs technológiát használ a támadások elhárítására. A Zone Labs azonban ennél jóval többet nyújt, ugyanis a böngészõt az operációs rendszer felõl is védi, így a már esetlege korábban feltelepült kártevõk (pl. keyloggerek) sem képesek megszerezni a felhasználó adatait.
+
+
+ A Windows XP-n és Vistán futó Force Field mindössze 4 megabájt méretû, és telepítése után még újraindítást sem igényel. A szoftver teljesen transzparens, a felhasználónak nem szükséges megváltoztatnia böngészési szokásait, ugyanúgy használhatja az Internet Explorert, Firefoxot, Operát vagy más browsert mint korábban. A Force Field "privát böngészõ" funkciója képes eltüntetni az összes nyomot a felhasználók után, mintha soha nem is használta volna a PC-t.

@@ -1,0 +1,14 @@
+Automatikus frissítésként is elérhetõ a Windows megújult keresõmotorja
+
+A napokban indul az automatikus terjesztése a Microsoft június elején kiadott új keresõmotorjának, a Windows Search 4.0-nak, ami a korábbi Windows Desktop Search utódja. A szoftvercég az új keresõmotor megjelenése kapcsán érkezett, alapvetõen pozitív felhasználó visszajelzések miatt döntött úgy, hogy a szoftvert júliusban automatikus frissítésként is közzéteszi a Windows Update-en keresztül.
+
+
+
+A júniusban megjelent Windows Search 4.0 elõdjéhez képest teljesen átstrukturált keresõindexet használ, mely a korábbi motornál jóval gyorsabb keresést eredményez mind a lokális adattárolókon, mind a hálózatba kötött számítógépeken. Az új keresõ nem csak a felszín alatt hoz újdonságokat: a telepítés után más megoldásokhoz (például Google Desktop) hasonlóan egy új keresõablak jelenik meg a tálcán, mely választhatóan lokális vagy internetes keresést tesz lehetõvé, a különbözõ szûrõopciókat pedig egy felbukkanó menüben állíthatja be a felhasználó.
+
+A Windows Search 4.0 telepítése után nem állítja be magát alapértelmezett keresõmotornak, így azok a felhasználók, akik eddig más cégek megoldásaihoz szoktak, továbbra is zavartalanul használhatják az eddig megszokott rendszert. Bár az új keresõszolgáltatás telepítése elsõ körben az adatok teljes újraindexelésével jár, a Microsoft ígérete szerint a folyamat gyorsan lezajlik a háttérben, anélkül, hogy zavarná a felhasználót a napi tevékenységében.
+
+
+A Microsoft új keresõmotorjának telepítése nem csak a gyorsabb keresés-indexelés miatt ajánlott, a Windows Search 4.0 például nagyvállalati környezetben is jobban használható elõdjénél, így például online indexelésnél kevésbé terheli az Exchange levelezõkiszolgálót, kezeli a felhasználói szintû csoportházirend-beállításokat és támogatja a gépek közti keresést megosztott indexadatbázisok segítségével.
+
+A Windows Search 4.0 még ebben a hónapban feltûnik a Windows Update frissítõszolgáltatáson, Windows XP operációs rendszerekhez opciós (tehát manuálisan kiválasztható), Windows Vistához pedig ajánlott frissítésként.

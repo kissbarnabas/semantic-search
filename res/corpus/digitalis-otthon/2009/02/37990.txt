@@ -1,0 +1,14 @@
+Datto Box 2box: peer-to-peer technológiát használó hálózati adattároló
+
+[ASVA.info/HWSW] Peer-to-peer alapon mûködõ hálózati adattárolót dobott piacra az amerikai Datto Backup. A készülék valójában linuxos PC, amely képes a tartalmát automatikusan szinkronizálni egy internetre kapcsolt ugyanilyen berendezéssel, vagy akár többel is.
+
+
+
+A Box 2 box a fájlcserélõ hálózatok által is használt peer-to-peer eljárást használja arra, hogy a rámásolt adatokat teljes biztonságban tudhassa a felhasználó. A háromféle kivitelben (250 GB, 500 GB, 1 TB) kapható eszköz a rajta tárolt adatokat az interneten keresztül osztja meg további készülékekkel, mint egy fájlcserélõ hálózat tagjai. Ezzel az állományokból egyrészt biztonsági másolat is készül, másrészt megoszthatók és folyamatosan frissen tarthatók több helyszín között, ez lehet például egy cég több telephelye. Egy ilyen hálózatba tetszõleges számú Box 2 box kapcsolható.
+
+Maga a készülék egy Intel Atom processzorra és 1 gigabájt memóriára épülõ linuxos PC, amelyben kiviteltõl függõen 250 gigabájt, 500 gigabájt vagy 1 terabájt szabad merevlemez-kapacitás áll rendelkezésre. A tárterület USB-s külsõ meghajtókkal akár bõvíthetõ is. Hálózatra gigabites Etherneten kapcsolható a doboz, az 1 terabájtos változat esetében két ilyen port is rendelkezésre áll.
+
+
+ Ami a szoftverkompatibilitást illeti, a Box 2 box gyakorlatilag bármilyen operációs rendszerrõl (Windows, Linux, Mac OS, UNIX) elérhetõ, a rajta tárolt állományok SMB/SAMBA, SFTP, NFS protokollokon át érhetõk el, a merevlemezeket pedig FAT, NTFS, vagy EXT3 formátumúra is lehet formázni igény szerint. A fejlesztõk már dolgoznak, hogy kompatibilissé tegyék az eszközt az Apple TimeMachine-nel való együttmûködésre is.
+
+A legolcsóbb, 250 gigabájtos változat 350 dollárba kerül, de legalább kettõt érdemes vásárolni ahhoz, hogy ki lehessen aknázni a technológia lehetõségeit. Egy két Box 2 boxból állló induló csomag 619 dollárért már megvehetõ, az 1 terabájtos csúcsváltozatból 850 dollárt kóstál egy pár.

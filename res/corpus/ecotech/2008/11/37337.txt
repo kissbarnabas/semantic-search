@@ -1,0 +1,14 @@
+Ingyen juthatnak Microsoft-szoftverekhez az induló vállalkozások
+
+BizSpark néven új kezdeményezést indított útjára a Microsoft, aminek keretében induló vagy fiatal vállalkozások három éven át teljesen ingyen használhatják a vállalat egyes termékeit, többek között szerverszoftvereket, illetve fejlesztõi eszközöket.
+
+
+
+A programban olyan, három évnél fiatalabb vállalatok vehetnek részt, amelyeknek a forgalma nem éri el az évi egymillió dollárt. A cégeknek emellett meg kell szerezniük a Microsoft valamelyik partnerének, vagy egy Microsoft-partner oktatási intézménynek vagy kormányzati szervnek az ajánlólevelét is a támogatáshoz. A cég szerint véletlen egybeesés, hogy a BizSpark program indítása egybeesik a pénzügyi krízist követõ gazdasági válság kezdetével. Dan'l Lewin, a programért felelõs vezetõ szerint számos sikeres cég indult nehéz idõkben, és az igazán rátermettek még kedvezõtlen körülmények között is jól teljesítenek. "Mindent megteszünk azért, hogy segítsünk nekik" -- mondta Lewin.
+
+A programban többek között a Windows Server, Visual Studio, SQL Server, BizTalk Server, Office SharePoint Portal Server és System Center termékek érhetõk majd el MSDN Professional licenc keretében, amely nem csak ingyenes letöltést és használatot tesz lehetõvé, hanem támogatási szolgáltatások is tartoznak hozzá. A BizSpark keretében emellett kedvezményes hoszting-szolgáltatást is biztosítanak majd a cégeknek, akik kidolgozott ötleteiket, elkészült termékeiket szeretnék a webre vinni. A programban résztvevõ vállalatok emellett hozzáférhetnek az Azure cloud-platform, valamint a Live Platform elõzeteséhez is.
+
+
+ A mai startupok, azaz fiatal, feltörekvõ vállalkozások számára gyakran problémát jelent az informatikai infrastruktúra létrehozásához szükséges források elõteremtése. A számukra eleinte sokszor túl drága alapszoftvereket gyakran nyílt forrású megoldásokkal helyettesítik, a hajtóerõ itt nyilvánvalóan nem a nyíltság, hanem az ingyenesség. A Microsoft jó érzékkel ismerte fel, hogy ha elhárítja ezt a belépési akadályt, azzal saját fejlesztõi bázisát erõsítheti. 
+
+Szûcs Julianna, a Microsoft Magyarország PR-menedzsere a HWSW megkeresésére elmondta, a BizSpark program a hazai vállalatok számára is elérhetõ lesz, a magyarországi képviselet most dolgozza ki a részleteket. A redmondi cég hazai leányvállalata a magyarországi igényekhez és viszonyokhoz alakítja majd a BizSparkot, a részleteket november második felében hivatalosan is ismertetni fogják.

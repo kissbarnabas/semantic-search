@@ -1,0 +1,34 @@
+Rendkívül energiahatékony Xeonokat jelentett be az Intel
+
+Gyártási fölényét kihasználva két rendkívül energiahatékony szerverprocesszort mutatott be az Intel tegnap. A Harpertown kódnéven ismert négymagos Xeonok alacsony tápfeszültséggel üzemelnek, aminek köszönhetõen fogyasztásuk és hõkibocsátásuk drasztikusan alacsonyabb a normál modellekénél, miközben teljesítményük megfelelõ marad.
+
+
+
+Az Intel L-osztályú Xeonjainak termikus kerete legfeljebb 50 watt, szemben a mainstream E-osztály 80, és a csúcsteljesítményû X-sorozat 120 wattjával, így alkalmas hûtésben vagy tápellátásban kifejezetten korlátozott konfigurációkba, mint például az 1U magas rack- vagy a blade szerverek, de egy adatközpont energiaköltségeinek optimalizálásában is segítséget nyújthat. Az energiaköltségek a gépek és a hûtési rendszerek magas fogyasztásával a legnagyobb kiadási tételt képezik mára az IT-infrastruktúrák fizikai üzemeltetésében, a rendszerek életciklusa során olcsóbb x86-os szerverek esetén meghaladhatják akár a gép bekerülési értékét is.
+
+A Xeon L5420 az 50 wattos kerethez képest igen impresszív 2,5 gigahertzen üzemel, összesen 12 megabájt L2 cache-t és 1333 megahertzes adatbuszt alkalmaz, így szerveralkalmazások alatt kifejezetten nagy teljesítmény leadására képes erõsen korlátozott fogyasztása ellenére. Az L5410 egy szorzóval alacsonyabb órajellel bír, névlegesen 2,33 gigahertzes , egyébként paraméterei megegyeznek erõsebb testvérével. A vállalat a második negyedév során alacsony fogyasztású kétmagos szerverchipekkel is jelentkezni fog, melyek 3 gigahertzes órajelük mellett legfeljebb 40 wattot emésztenek el tartósan.
+
+Gyártási erõfölény
+
+A magas energiahatékonyságú modellek piacra kerülését több tényezõ segíti, de alapvetõen az Intel gyártástechnológiai lépéselõnyébõl fakad. A chipgyártó óriás tavaly év vége elõtt kezdte meg 45 nanométeres csíkszélességû gyártástechnológiájának felfuttatását, mely a kisebb geometria mellett újszerû fémötvözeteket alkalmaz (magas k együtthatójú szigetelõ és fémelektróda) a tranzisztorkapuk kiképzésekor: az eredmény nagyobb kapcsolási teljesítmény vagy akár századára visszaszorított kapuszivárgási áram. 
+
+
+Az AMD jelenleg 65 nanométeres gyártástechnológiát alkalmaz, és az év második felére tervezi az IBM-mel közösen kifejlesztett 45 nanométeres eljárás kereskedelmi bevezetését. Amennyiben tartani tudja az ütemtervet, úgy a vállalat faraghat néhány hónapot a gyártástechnológia lépéshátrányból, és lényegesen olcsóbbá teheti processzorainak termelését, miközben teljesítményüket is növelheti.
+
+ Az AMD ugyanakkor kezdetben biztosan nem alkalmaz az Intelhez hasonló újszerû anyagokat, és az International Electron Devices Meetingen (IEDM) prezentáltak alapján az eljárás karakterisztikája elmarad az Intelé mögött. A vállalat ráadásul már immerziós (a fény fókuszálásához folyadékot használó) litográfia bevezetésére kényszerült, ami további jelentõs költséghátrányt jelent az egyébként is drágább SOI-szilíciumszeletek megmunkálása mellett.
+
+Az AMD-vel szemben nemcsak gyártástechnológiai lépéselõnyét aknázza ki az Intel, hanem termelési volumenébõl és a négymagos processzorok architektúrájából is profitál. Mint minden gyártási folyamat, a félvezetõgyártás is rendelkezik szórással, vagyis a legyártott több millió chip változó órajel-fogyasztás görbével rendelkezik. Éves szinten több mint 200 milliós volumenébõl fakadóan az úgynevezett "arany darabok" -- melyek igen magas órajeleket is elérhetnek adott fogyasztásból, vagy alacsonyabb órajeleken rendkívül keveset esznek -- is nagy mennyiségben kerülnek elõállításra, így kereskedelmi termékként is piacra dobhatóak.
+
+
+Gyártási variancia
+A félvezetõgyártás a legnagyobb, néhány tíz nanométeres precizitás ellenére is számottevõ változékonyságot hordoz magában, ami a miniatürizációval csak növekedni fog. Az egyes szilíciumostyák megmunkálása közötti rendkívül apró eltérések különbözõ órajel-fogyasztási görbét mutató lapkákat eredményeznek. Két chip kombinálásával lehetõvé válik például, hogy a rosszabbul sikerült példányokat párosítjuk a jobbakkal, így elérve a megfelelõ termékspecifikációkat.
+A rugalmas kínálat mellett javul a defekciós kihozatal is, vagyis a chipek mekkora hányada mentes megmunkálási hibáktól. A monolitikus chipeknél a nagyobb méretbõl fakadóan sokkal magasabb a defekciós ráta, hiszen nagyobb arra az esély, hogy a szilíciumostya felületén sérülés keletkezik a gyártási eljárás több száz lépésének folyamán. Egy-egy ilyen hiba kétszer akkora szilíciumterületet pazarol el a moduláris felépítéshez képest, ahol csak az egyik chip veszik el. Az Intel szerint több mint 20 százalékkal magasabb kihozatal és 12 százalékkal alacsonyabb termelési költség érhetõ el a moduláris a megoldással.
+
+
+Hátrányból elõnyt
+
+A gyártástechnológiai és volumenbeli elõny mellett legalább egy további technika áll az Intel rendelkezésére, hogy tovább javítsa termékeinek teljesítményét és fogyasztását. Amint az régóta ismert, szemben az AMD monolitikus négymagos felépítésû chipjeivel az Intel négymagos processzorai valójában két kétmagos chipet tokoznak össze, melyek közvetlenül nem is képesek egymással kommunikálni, az a rendszerbuszon keresztül történik.
+
+Miközben ez pusztán architekturális szempontból egyértelmûen teljesítménybeli hátrányt okoz, hiszen a magok közötti koherenciaforgalom például az adatbuszt terheli és nagyságrendekkel lassabb is a chipen történõ kommunikációnál, addig a gyártást is figyelembe véve látványosak elõnyei: több mint 20 százalékkal magasabb kihozatal (kevesebb selejt) és 12 százalékkal alacsonyabb termelési költség érhetõ el a moduláris a megoldással. 
+
+Az Intel képes tehát a gyártási variancia figyelembe vételével akár különbözõ jellemzõjû chipek összetokozásával optimalizálni négymagos processzorainak termelését, így a gyártási szempontból olyan szélsõséges termékek elõállításakor, mint amilyen, az L5420 is, a nagy mennyiségben termelt kétmagos chipekbõl kiválogatni az "arany példányokat", és azok kombinálásával elérni a kívánt paramétereket. Mivel az AMD külön négymagos designnal rendelkezik, ezért riválisával ellentétben nem tud meríteni a kétmagos tömegtermelésbõl. 

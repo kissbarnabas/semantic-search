@@ -1,0 +1,12 @@
+Küszöbön a végleges USB 3.0 szabvány megjelenése
+
+A két hét múlva kezdõdõ SuperSpeed USB Developers Conference rendezvényen adják ki a vadonatúj USB 3.0 szabvány végleges specifikációját, aminek felhasználásával a gyártók megkezdhetik saját eszközeik fejlesztését, tesztelését. 
+
+
+
+A jelenleg széleskörûen használt USB 2.0 csatolófelület maximális adatátviteli sebessége 480 megabit másodpercenként, ezt turbózhatja fel a 3.0-s szabványnál megjelenõ optikai támogatás 4,8 gigabit/másodpercre. Az USB 3.0 visszamenõleg is kompatibilis lesz, tehát a jelenlegi USB 2.0 csatlakozós berendezések is használhatók lesznek az alaplapok USB 3.0 portjaival. A SuperSpeed USB által nyújtott hatalmas sávszélesség túlzásnak is tûnhet, nehéz lenne jelenleg felsorolni olyan nyomtatót vagy szkennert, melynek szüksége lenne ekkora sebességre, azonban a nagyfelbontású tartalmak, többek között a Blu-ray és a HD DVD terjedésének köszönhetõen 2010-re már igényelhetnek a jelenleginél gyorsabb kapcsolatokat.
+
+
+ Jelenleg a legsebesebb egyszerûen megoldható csatlakozást a 800 megabit/s-ra képes FireWire nyújtja, ennek  is készül már a következõ változata: a Firewire S1600 és S3200 az eddigi jelölési rendszernek megfelelõen másodpercenként 1,6 vagy 3,2 gigabit adat továbbítását teszi lehetõvé. A szabványalkotók ezzel együtt készen állnak arra, hogy a Firewire interfészt a jövõben még tovább gyorsítsák, így belátható idõn belül 6,4 gigabit/másodpercig emelkedhet a rendszer áteresztõképessége.
+
+Korábban az Intel versenytársai, köztük az AMD, a VIA és az NVIDIA azzal vádolták meg a legnagyobb chipgyártót, hogy szándékosan akadályozzák a konkurenciát az USB 3.0 specifikáció részleteinek visszatartásával, ezért egy idõre még az is felmerült, hogy két rivális szabvány versenyez majd egymással. A kisebb cégek végül mind beálltak az Intel mögé, így viszonylag hamar megszülethetett a végleges USB 3.0 szavány, amely várhatóan 2009-ben bukkan fel elõször a piacon kapható eszközökben.

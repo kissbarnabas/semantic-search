@@ -1,0 +1,14 @@
+Repülõrajtot vett az OpenOffice.org 3.0
+
+A megjelenést követõ szerverösszeomlás alapján már sejteni lehetett, hogy az OpenOffice.org legújabb verziója sikeres lesz, azonban hogy pontosan mennyire, azt csak sejteni lehetett. Az ingyenes irodai szoftvert egy hét alatt 3 milliószor töltötték le.
+
+
+
+A felhasználók túlnyomó többsége a windowsos változatot részesítette elõnyben, a letöltéseknek csupán kevesebb mint 10 százalékát tették ki a Linuxra írt verziók. John McCreesh, az OpenOffice.org marketingért felelõs vezetõje szerint ennek az az oka, hogy a Linux-felhasználók többsége alighanem megvárja, míg az általa használt disztribúció frissítései között felbukkan az OpenOffice.org 3.0, és ezen keresztül tölti le.
+
+
+ McCreesh szerint a szoftvercsomagot több weboldalon keresztül is terjesztették, emellett újságmellékletként is elérhetõ volt, így a becslései szerint összesen 5 millió körül lehet a telepített példányok száma. Hogy világszerte hányan használnak OpenOffice.org-ot, arról nincs egyértelmû hivatalos adat. A legnépszerûbb irodai szoftvert, a Microsoft Office-t világszerte több mint félmilliárd példányban használják a redmondi cég szerint.
+
+Az OpenOffice.org 3.0 a korábbi verziókhoz képest számos újdosággal szolgál. Talán az egyik legfontosabb, hogy köztes konverterek nélkül támogatja a Microsoft Office Open XML (OOXML) állományokat, illetve az ODF legújabb, 1.2-es verzióját is. A csomagban található szövegszerkesztõ, táblázatkezelõ és prezentációkészítõ is új képességekkel gazdagodott, azonban az OpenOffice.org 3.0 továbbra sem tartalmaz integrált levelezõt, noha ezt a képességet sokan várták. A szoftver kezelõfelületét ugyan áttervezték, de az továbbra is ódivatú maradt.
+
+A 3.0 az elsõ verziója az  OpenOffice.org-nak, ami natív Mac OS X alkalmazásként is elérhetõ, az Apple operációs rendszerén futó változatot 320 ezerszer töltötték le egy hét alatt. A maces verzióval kapcsolatban az elsõ tapasztalatok azonban inkább negatívak, a szoftvert a legtöbben még mindig nagyon lassúnak találják.

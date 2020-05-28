@@ -1,0 +1,16 @@
+Holnapután érkezik az új Ubuntu Linux
+
+Az Ubuntu mögött álló szervezet, a Canonical bejelentette a népszerû Linux-disztribúció legújabb, 9.04-es változatát, ami azonban csak csütörtöktõl lesz letölthetõ.
+
+
+
+A "Jaunty Jackalope" kódnevû változat három verzióban érkezik, asztali gépekre, szerverekre, valamint netbookokra. Mindhárom változat profitál az új hardverek támogatásából, a készítõk ígérete szerint a desktopokra és a szerverekre fejlesztett Ubuntu is több alkatrésszel ért szót mint korábban. A szerverváltozatot több mint 45 különféle x86-os konfiguráción hitelesítették.
+
+A desktop, azaz asztali és mobil PC-kre szánt verzió figyelemre méltó újdonságai közé tartozik az energiatakarékos üzemmódok jobb támogatása, a fejlesztõk szerint ezzel növekedhet az Ubuntut futtató noteszgépek akkumulátoros üzemideje. Szintén a notebookok tulajdonosai örülhetnek annak, hogy az operációs rendszer képes választani az elérhetõ Wi-Fi és 3G hálózatok között, ráadásul ezt a funkció a korábbinál több 3G-kártyával és Wi-Fi adapterrel mûködik. A PC-kre szánt Ubuntu-verzió újdonsága még az OpenOffice 3.0 megjelenése.
+
+
+ A szervereken futó Ubuntu 9.04 újdonságai közül a Canonical a korábbinál jobb virtualizációs képességeket emeli ki a KVM révén, a Samba fájlszerver fürtözési támogatását, illetve a levelezõszerverek egyszerû telepítését és beállítását. Az új Ubuntu tartalmazza a MySQL 5.1-es verzióját is, amely a 8.10 kódjának zárása óta készült el, valamint támogatja az ext4 fájlrendszert is, bár alapértelmezettként továbbra is az ext3-at használja. A szerverváltozatban elérhetõ az Amazon EC2-vel kompatibilis Ubuntu Enterprise Cloud (UEC) elõzetese is, amely lehetõvé teszi privát cloudok építését.
+
+Külön a netbookokhoz is érkezett egy új Ubuntu Linux, a Netbook Remix. Ez elsõsorban a kezelõfelületében tér el a desktop változattól, a grafikus interfészt kimondottan a kisméretû kijelzõvel felszerelt gépekhez fejlesztették. A Netbook Remixet több népszerû netbookon (pl. Acer Aspire One, Dell Mini 9, ASUS Eee PC 1000) tesztelték. Ez a disztribúció pendrive-ról indítható változatban is letölthetõ lesz az Ubuntu oldaláról, így a netbookok tulajdonosai kockázat nélkül kipróbálhatják, ismerkedhetnek vele.
+
+Az Ubuntu Linux 9.04 csütörtöktõl lesz letölthetõ a www.ubuntu.com vagy a www.ubuntu.hu oldalról. A hazai Ubuntu-közösség a megjelenést egy esti partival ünnepli.

@@ -1,0 +1,50 @@
+Kipróbáltuk: Netgear ReadyNAS Duo otthoni médiaszerver és adattár
+
+Ahogy az általunk készített, vagy "összegyûjtött" multimédiás állományok mennyisége és mérete idõrõl-idõre folyamatosan nõ, úgy merül fel legtöbbünkben a kérdés; mégis hogyan lehetne ezeket a fájlokat optimális körülmények közepette tárolni úgy, hogy azok egyrészt biztonságban legyenek, másrészt mindig, és gyakorlatilag bárhonnan elérhetõk legyenek számunkra?
+
+
+
+Profi hálózati tár otthonra
+
+A kapacitás kérdését sokan egyszerûen oldják meg, és az egyre olcsóbbá váló, feneketlen bendõjû merevlemezekkel pakolják tele a számítógépüket. Mások  -- optikain, vagy memórialapún -- hordják maguknál a kedvelt állományokat. Van, aki az internetes tárhelyekre esküszik, és vannak az igazán megfontoltak, akik internetrõl is elérhetõ hálózati adattárolót vesznek otthonra.
+
+
+
+A hálózati eszközeirõl ismert Netgear az otthoni felhasználók igényeihez igazodva egy ideje a vállalati megoldások mellett az otthonok számára is kínál hálózati adattárolókat. A feladat itt értelemszerûen más: míg a vállalati környezetben elsõsorban az adatok biztonságba helyezése, mentése az elsõdleges cél, ez egy otthoni hálózatnál másodlagos szempont. Ez az otthoni hálózat lehet, hogy csak egyetlen PC-t tartalmaz, de csatlakozhat hozzá számos más olyan eszköz -- hálózati médialejátszó, konzolgép --, mellyel jól kihasználható a médiafájlok központosított tárolása.
+
+Persze ezeket az állományokat egy PC-rõl is meg lehet osztani, a legtöbb elterjedt operációs rendszer ehhez megfelelõ felületet is kínál, csakhogy egy számítógép állandó üzeme nem feltétlenül ésszerû pusztán erre a feladatra, ráadásul az adatok adott esetben nagyobb biztonságban is vannak egy erre a célra elkülönített tárhelyen, melyet csak bizonyos felhasználók érhetnek el a megfelelõ korlátokkal.
+
+Kompromisszumok nélkül
+
+A Netgear hálózati háttértárakból álló termékcsaládjának több tagja is járt már nálunk, mostani alanyunkhoz, a ReadyNAS Duóhoz leginkább a belépõszintû Storage Central hasonlítható. A felhasználói környezet és a felépítés szinte egyezik, a ReadyNAS Duo mégis komolyabb eszköz, olyan felhasználóknak, akik annál jóval kevesebb kompromisszumra hajlandók, mint amire a Storage Central kényszeríti õket.
+
+
+
+Elõször is a hasonlóságok: a ReadyNAS Duo a kínálat belépõszintû tagjához hasonlóan két merevlemezt fogadhat, ám alapesetben csak egy tárolóegység található benne (1 TB és 750 vagy 500 GB kapacitással -- nekünk az utóbbiból jutott). Az elegáns, az elõlapot leszámítva fémbõl készült fekete dobozkába ugyanakkor egy másik, hasonló kapacitású HDD-t is beépíthetünk, ilyenkor máris redundáns eszközként mûködhet tovább az adattároló (a ReadyNAS Duo a Netgear saját redundáns RAID-megoldását, az X-RAID-et használja, mely egyébként egy merevlemezzel is mûködõképes). A ReadyNAS Duo a Storage Centralhoz hasonlóan SATA merevlemezeket fogad, az adattárolókat akár mûködés közben is lehet cserélni.
+
+A készülékházhoz külsõ tápegységet kell csatlakoztatni, ezen kívül itt is adott természetesen a gigabites ethernet port, továbbá 3 USB kapu is, melyekre külsõ adattárolók, nyomtatók, de akár USB-s kommunikációs interfésszel ellátott szünetmentes áramforrások is csatlakoztathatók. A ReadyNAS Duo a csatlakoztatás után a homlokzaton található nyomógombbal kelthetõ életre, és szûk egy perc elteltével már használatba is vehetõ. Itt azonban nem követte el azt a hibát a Netgear, amit a Storage Centralnál, az adattárolón elhelyezett állományokat lényegében bármilyen hálózatba kötött PC-vel el lehet érni, akár Windows, akár Mac, akár Linux/Unix környezetben.
+
+Médiafájlok megosztására hivatott
+
+A médiafájlok hálózati streamje (AV-szerver) is támogatott, így a legtöbb UPnP-kompatibilis médialejátszó minden további nélkül rátalál a ReadyNAS Duo különbözõ, erre a célra rendszeresített mappáiban tárolt állományokra. A tárolóegység így az újgenerációs konzolokkal is kompatibilis -- mi egy PlayStation 3-mal ismertettük meg, a játékgép mindenféle fennakadás nélkül böngészte a Netgear hálózati médialejátszóján elhelyezett képeket, zenéket vagy filmeket.
+
+
+
+A ReadyNAS Duón lévõ állományok emellett távoli számítógéprõl, FTP(S) és HTTP(S) protokollokkal is elérhetõk, miután a bõséges beállítási lehetõséget nyújtó adminisztrációs felületen mindent megfelelõen paramétereztünk. A felhasználói jogok és kvóták akár erre, akár a helyi hálóra vonatkozóan szabadon beállíthatók. Hasznos kiegészítõ programja a ReadyNAS Duo repertoárjának a ReadyNAS Photos, mely a fotómegosztó szolgáltatások mintájára lehetõvé teszi, hogy privát albumjainkat megmutassuk családtagjainknak, barátainknak, ismerõseinknek.
+
+
+
+Az adattár saját szoftverkörnyezetében a nálunk járt nagyobb testvéréhez, a ReadyNAS NV+-hoz hasonlóan Bittorrent-kliens is helyet kapott, mely a készülék 8080-as portján saját webes felülettel is rendelkezik. A szoftver a sávszélességet automatikusan is képes menedzselni, de mi magunk is meghatározhatjuk a maximumokat. A torrentes állományokat egy általunk megadott könyvtárába tölti le a NAS, de ez természetesen valamelyik általános célú megosztott könyvtár is lehet az.
+
+Az eszköz adatkezelési sebessége elsõsorban alapvetõen a hálózati csatlakozás típusától, illetve a közbeiktatott hálózati eszközöktõl függ. Egy átlagos otthoni, fast ethernet csatolóval ellátott routeren keresztül másodpercenkét 6-6,5 megabájtnyi adatot sikerült felírni a ReadyNAS Duóra, a kiolvasás ennél valamivel gyorsabban; 7,5-8 megabájt/másodperces sebességgel történt.
+
+
+
+A Netgear ReadyNAS Duo természetesen mindezen túl adatállományok mentésére is használható: a beépített, egygombos mentést is lehetõvé tevõ backup manageren túl a Windows és Macintosh felhasználóknak rendelkezésükre áll az NTI Shadow for ReadyNAS szoftver is. A mentés ezen kívül távolról is elvégezhetõ, valamint az USB-s adattárak tartalma is lementhetõ, illetve azokra is készíthetõ biztonsági másolat.
+
+Ötös alá
+
+
+A készülék összességében minden otthoni felhasználói igényt kielégít, sõt, irodai környezetben is helytáll, jóllehet elsõsorban AV-szerver képességei teszik kiemelkedõvé, az adatmentés jelen esetben kevésbé játszik meghatározó szerepet, ugyanakkor természetesen továbbra is elérhetõ funkció. Igazán nagy kár, hogy a Netgear a ReadyNAS Duónál is elkövette a Storage Centralnak is felrótt, aktív hûtéshez köthetõ hibát: nevezetesen az adattár ventilátora ugyan nem túl hangosan, de azért jól hallhatóan és rendkívül idegesítõen folyamatosan morajlik, ezzel a berendezés idõvel garantáltan kirúgatja magát a nappalikból, pláne ha a nappali éjjel hálószobaként is üzemel.
+
+Ezt az egyetlen hibáját leszámítva -- ki-ki döntse el, számára ez mekkora jelentõséggel bír -- a ReadyNAS Duo gyakorlatilag tökéletes és sokoldalú otthoni hálózati merevlemez. Beszerzése minimum 70 ezer (az 500 megabájtos változat), maximum 150 ezer (az 1 terabájtos változat) forintos ára miatt ugyanakkor csak azoknak megtérülõ, akik több hálózatba kötött AV-eszközzel is rendelkeznek otthon, szeretnék az állományokat távoli géprõl is elérni, netán fontos számukra, hogy az otthoni számítógépen, számítógépeken tárolt állományokról egyszerûen és gyorsan tudjanak rendszeres mentést készíteni.

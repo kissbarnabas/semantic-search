@@ -1,0 +1,16 @@
+Pannon: még van hely újabb tízmillió mobil-elõfizetésnek is
+
+Bár a hazai mobilpiac a 11,6 millió elõfizetéssel telítettnek tûnik, a Pannon szerint bõven van hely még újabb tízmillió SIM-kártyának is. Ezeket azonban nem a mobiltelefonok fogják felszippantani, hanem a mobil technológiára (GSM, GPRS, EDGE, 3G) épülõ ipari alkalmazások.
+
+
+
+Ma már Magyarországon sem ritka, hogy valakinek több mobiltelefonja is legyen, esetleg mellé egy 3G/HSDPA adatkártyája is. Ezek mellett ma még eltörpül az ipari alkalmazású SIM-kártyák száma, de már így is százezres nagyságrendû a Pannon szerint. A legfontosabb felhaszálási területek ma a jármûflotta-követés, a távfelügyelet és -vezérlés (pl. tûzvédelem, biztonság), a távleolvasás, a mobil POS-terminálok vagy az egészségügy.
+
+A tegnapi sajtótájékoztatón elhangzottak szerint már ma is több ezer, mobiltechnológián alapuló egészségügyi berendezés van használatban Magyarországon, amelyek segítséggel élõ emberek életét hivatottak megkönnyíteni. Olyan mérõórák is vannak már, amelyeket nem kell leolvasni, ugyanis a bennük elhelyezett modem automatikusan jelenti az állásukat a közmûszolgáltatónak. Magyarországon a 3 millió háztartásnak csak a víz-, gáz-, távhõ- és villanyórája önmagában több millió potenciális "felhasználója" lehet az ipari SIM-eknek.
+
+
+ A Harbor Research elõrejelzése szerint 2009-ben a nem hanghívásra vagy internetezésre használt SIM-kártyák legnagyobb felhasználója az ipar, az energiaszektor, a közlekedés és a biztonsági terület lesznek. A Pannon szerint hazánkban is ehhez hasonlóan alakul majd a bevételek megosztása.
+
+A Pannon az ipari elõfizetések területén egyértelmûen a vezetõ szerepet vallja magáénak, a szolgáltató meg is szeretné tartani ezt a pozíciót, amelynek érdekében több társasággal is kötött már szerzõdést "ipari mobilszolgáltatás" nyújtására. A Pannon hálózatát használja a többek között a MOHAnet távfelügyeleti szolgáltatása is, amelyet számos önkormányzat (pl. Salgótarján, Újpest, Sátoraljaújhely) vezetett be a segítséggel élõk támogatására.
+
+A mobilszolgáltató 2004-ben vezette be az ELMÜ-nél a mérõórák leolvasását. Hasonló rendszer mûködik az ÉMÁSZ-nál, a FÕTÁV pedig hõmennyiség-mérésre használja a SIM kártyák nyújtotta lehetõségeket. Mindegyik rendszer esetében ipari GSM modemek csatlakoznak a mérõegységhez, és biztosítják a mérõórák meghatározott idõszakonkénti leolvasását.

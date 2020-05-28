@@ -1,0 +1,20 @@
+Mostantól offline is használható a Gmail
+
+A Gmail és a többi webmail szolgáltatás legnagyobb elõnyének többen azt tartják, hogy bárhonnan, bármilyen internetre kötött, böngészõt futtató eszközzel elérhetõ. A Google-t régóta kritizálják amiatt, hogy nincs lehetõség az offline elérésre, csak levelezõkliens közbeiktatásával. A Gmail Labs legújabb funkciója most orvosolja ezt a problémát: A Google Gears segítségével a jövõben mindenki a gépére szinkronizálhatja a leveleit és a böngészõn belül a megszokott módon érheti el azokat internetkapcsolat nélkül is.
+
+
+
+Ugyan az internetelérés a 3G/HSDPA telefonok és az egyre szaporodó WiFi hot-spotok idejében már egyre kevésbé jelent problémát az internetkapcsolat kiépítése, ugyanakkor számos olyan szituáció elõfordulhat, amikor nem áll rendelkezésre a hálózat. Ilyenkor is jól jönne a levelek közül elõbányászni egy telefonszámot, egy nevet, vagy egy hosszú levelet megírni a repülõgépen. A Gmail Labs "Offline" funkciója erre kínál megoldást.
+
+A Gmail hivatalos blogon közzétett bejegyzése szerint mindössze annyit kell tennie a felhasználóknak, hogy telepítik számítógépükre a Google Gears beépülõmodult, ami automatikusan befészkeli magát a böngészõprogramokba, legyen az Internet Explorer, Firefox, Safari vagy Chrome (A Chrome-ban gyárilag telepítve van a Gears). Ezután a Gmail beállításoknál a "Labs" fülön ki kell keresni az "Offline" funkciót és engedélyezni a funkció használatát. 
+
+
+
+
+
+A Gears a továbbiakban automatikusan letölti a leveleket egy helyi gyorsítótárba amennyiben van élõ kapcsolat. Az offline tárhely folyamatosan szinkronizál a Gmail szerverekkel, majd amint eltûnik a kapcsolat, a Gears automatikusan átvált offline módba és a gépen tárolt adatokkal kezd dolgozni. A felhasználó számára gyakorlatilag fel sem tûnik a váltás, maximum azt veszi észre, hogy nem kap újabb leveleket. 
+
+
+Az új funkcióval offline módban is lehet levelet írni, keresést indítani, címkézni. A következõ alkalommal, amikor online-ra vált a böngészõ, a megírt leveleket azonnal elküldi a rendszer, a változtatásokat pedig átvezeti a szerverre. Egy lassabb kapcsolat esetén is érdemes lehet az offline módot választani keresésre, szerkesztésre és csak a küldést intézni a korlátozott kapcsolaton keresztül.
+
+Andy Palay, a bejegyzést közzétevõ Gmail mérnök viszont felhívja a figyelmet arra, hogy az Offline funkció egyelõre bétaüzemben mûködik, ezért gyakoriak lehetnek a hibák, összeomlások. Ugyan a kísérleti verziót már hónapok óta használják a fejlesztõk, de a Labs égisze alatt bemutatott funkciók célja mindig a nagyközönség tapasztalatainak összegyûjtése volt, a kísérletezõ kedvû felhasználóknak ugyanakkor tudni kell számolni a zavarokkal, bugokkal is. Azon sem kell meglepõdni, ha valaki nem találja a kiválasztható funkciók között az Offline-t, az ugyanis a korábban bevezetett Gmail-funkciókhoz hasonlóan szakaszosan kerül bevezetésre a felhasználók között néhány nap alatt.

@@ -1,0 +1,24 @@
+Sokan tartanak a nyílt forrású szoftverek jogi buktatóitól
+
+A vállalatok 85 százaléka már használ nyílt forrású szoftvereket, a fennmaradó 15 százalék pedig egy éven belül tervezi a bevezetésüket -- derül ki a Gartner nemzetközi felmérésébõl, ami közel 300 cég bevonásával készült. A nyílt forrás legfõbb elõnye az olcsóság, a legnagyobb hátránya pedig a licencek kuszasága -- áll a tanulmányban.
+
+
+
+A legfõbb vonzerõ: alacsonyabb TCO
+
+A nyílt forrású szoftverek legfõbb vonzerejének az alacsonyabb birtoklási költséget (TCO) jelölték meg a válaszadók, emellett sokan említették hogy a nyílt szoftverekkel dolgozva hamarabb elindíthatók az új projektek, mivel gyakran nincsen szükség bonyolult beszerzési folyamatokra. A nyílt szoftverek nagy elõnyének nevezték még a válaszadók azt is, hogy általuk 
+ csökkenthetõ a szállítóktól való függõség.
+
+A legnagyobb problémának a kézbentarthatóságot, illetve annak hiányát jelölték meg a felmérésben szereplõ vállalatok. A válaszokból az derül ki, a potenciális felhasználókat összezavarja a sokféle licencelési konstrukció is, néha egy-egy szoftver többféle licenc alatt is elérhetõ, ezért gyakran nem egyszerû feladat eldönteni, pontosan milyen jogokkal és kötelezettségekkel jár egy nyílt forrású szoftver bevezetése. "Ahogy az idõ telik, ezeket a problémákat biztos orvosolni fogják, de ez egy lassú folyamat. A nyílt forrású szoftverek népszerûségének növekedése ki fogja kényszeríteni a szükséges változásokat" -- vélekedik Laurie Wurster, a Gartner kutatási vezetõje.
+
+Egy másik, az Open Solutions Alliance által elvégzett felmérés eredményei rímelnek a Gartner megállapításaira. Az OSA szerint a nyílt forrású szoftverek legfõbb vonzereje a relatív olcsóságuk, a felmérésben a válaszadók 78 százaléka szerint ez volt az elsõ számú tényezõ, amely mellettük szól, emellett fontos szerepet játszik a gyártófüggetlenség is. A terjedés legfontosabb hátráltatójának a nyílt forrás körüli jogi kérdéseket látja a piac.
+
+
+ A Gartner felmérése szerint a vállalatok 69 százalékánál nincs formális szabály a nyílt forrású szoftverek használatának feltételeirõl, illetve sok helyen bár használnak nyílt megoldásokat, a pontos körülményei nincsenek rögzítve, ez pedig szellemi tulajdon illetéktelen használatával kapcsolatos kockázatok forrása lehet.
+
+
+Infrastruktúra
+
+A Gartner kutatása alapján a nyílt forrásra alapozó projektek fele már üzleti kritikus folyamatokat támogat. A nyílt forrású megoldásokat továbbra is elsõsorban az infrastruktúra szintjén vetik be a legtöbben, de egyre növekszik a nyílt üzleti alkalmazások elfogadottsága is. A nyílt alkalmazások jelentõs részével egy korábbi zárt szoftvert cserélnek le a vállalatok -- ez a jelenség elsõsorban olyan cégekre jellemzõ, amelyek az infrastrukrúra szintjén már használnak nyílt forrású szoftvereket. 
+
+Az alkalmazási területek közül az ügyfélkezelés az a terület, ahol a nyílt forrású szoftverek élenjárnak az elterjedtségüket tekintve, ezt követi a vállalati integráció, a pénzügy és adminisztráció, illetve az üzleti elemzés.

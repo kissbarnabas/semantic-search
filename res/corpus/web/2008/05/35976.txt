@@ -1,0 +1,16 @@
+Újabb scriptnyelv webalkalmazásokhoz: jön a JavaFX
+
+A JavaOne konferencián a Sun bejelentette a JavaFX technológiát, amely egy újabb, az asztali gépeken futó szoftverekhez hasonló élményt nyújtó webalkalmazások (Rich Internet Application, RIA) létrehozására szolgáló eszköz. 
+
+
+
+A JavaFX egy teljesen új megjelenítési réteg, amely a Sun szerint egyszerûen programozható, így segítségével könnyen lehet látványos felhasználói felületû webalkalmazások létrehozni. A scriptnyelvek (pl. PHP, Perl, Python, Ruby) egyszerûségük miatt igen nagy népszerûségre tettek szert a weben, a Sun ezek sorát bõvíteni a JavaFX-szel, amelynek legnagyobb elõnye, hogy ugyanazon a Java virtuális gépen fut, amelyen a Java is, így végeredményben minden olyan készüléken és kliensen mûködik, amely alkalmas Java futtatására. Ez nem csak mintegy 800 millió PC-t jelent, hanem mobiltelefonok és szórakoztató eszközök tovább százmillióit.
+
+Rich Green szoftverekért felelõs vezetõ és Jonathan Schwartz elnök-vezérigazgató
+
+A JavaFX legnagyobb elõnye, hogy a scriptek segítéségével létrehozott látványos felhasználói felület mögött ott lehet a Javában megírt back-end logika, például egy komplex üzleti alkalmazás. A Sun készít egy kimondottan mobil változatot is a Java FX-bõl, amellyel a mobil alkalmazások fejlesztõit célozza. A cél az, hogy a mobiltelefonokon futó szoftverekhez az eddigieknél könnyebben lehessen tetszetõs felhasználói felületeket fejleszteni. A futásidejû környezet tartalmaz egy, a Flash Playeréhez hasonló idõzítõt, így összehangolhatók a videót és hangot egyaránt tartalmazó multimédiás prezentációk.
+
+
+ A JavaFX alkalmazások készítéséhez szükséges segédprogramokat az õsszel adja ki a Sun Microsystems, de az érdeklõdõ fejlesztõk az asztali és mobil futásidejû változatokat már a nyáron kipróbálhatják. A JavaOne rendezvényen a Sun egyébként bejelentette, hogy a NetBeans integrált fejlesztõkörnyezet 6.1-es verziójának elõzetesét. A NetBeans 6.1 legfontosabb újdonsága, hogy a scriptnyelvek közül a JavaScript és a Ruby on Rails mellett már támogatja a PHP-t is.
+
+A JavaFX az Adobe Flash és a Microsoft Silverlight ellenfele lehet. Ezekkel szemben egy komoly fegyvertény, hogy a Javához hasonlóan a JavaFX is teljesen nyílt forrású lesz, így aztán semmi sem áll annak útjába, hogy a Sun mellett más cégek is beszálljanak a fejlesztésébe, vagy akár teljesen újszerû kiegészítõket, eszközöket készítsenek a fejlesztõk számára. Jonathan Schwartz, a Sun elnök-vezérigazgatója a versenytársak kapcsán elmonda, a Sun számára a legfontosabb a fejlesztõk kiszolgálása, a fejlesztõk pedig azt akarják, hogy a szoftvereik a lehetõ legtöbb eszközön fussanak. Az Adobe Flashnek bár van mobil változata, de egyelõre kevés eszköz támogatja, a Silverlightnak pedig csak ígéri a mobil verzióját a Microsoft.

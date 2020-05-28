@@ -1,0 +1,26 @@
+Véget nem érõ vita az internet jövõjérõl
+
+Amerikai akadémikusok és a szabályozó testületek képviselõi ültek össze a coloradói Boulderben, hogy megvitassák az internet jövõjét, legfõképpen a szabályozás lehetõségeit. Amikor a háló semlegességérõl van szó, egyesek szabályokat akarnak, míg mások szerint inkább a valós problémákkal kellene foglalkozni és nem az õrült feltevéseken agyalni.
+
+
+
+Hangzavar a teremben
+
+Néhány, a semlegességért ágáló résztvevõ megreked az internetszolgáltatókkal való aggodalmak szintjén. Többnyire azon problémáznak, hogy az ISP-k weboldalak és alkalmazások mûködését  lehetetlenítik el kényük-kedvük szerint. Míg az asztal másik oldalán ülõk szerint nem az ISP-k viselkedésével, hanem a valós felhasználói igényekkel/szokásokkal kellene foglalkozni. A konferencia résztvevõi tehát egyelõre abban sem tudnak megegyezni, hogy mirõl beszélgessenek.
+
+Az egyik hangos szereplõ, az Egyesült Államok egyik legnagyobb telekommunikációs szolgáltatója arról beszél, hogy az elsõ lépés a hálózati menedzsment területén az, hogy a kapacitásokat kell növelni. Dick Lynch, a Verizon mûszaki igazgatója hangsúlyozza, hogy rugalmasságra van szükségük a problémák megoldásához és nem a szabályozások miatti kényszerzubbonyra. 
+
+Egyre nagyobb a kisebbség
+
+A Verizon esetében a felhasználók 20 százaléka generálja a letöltések 80 százalékát, illetve a feltöltések 97 százalékát, de Lynch nem õket akarja ostorozni, hanem azt szeretné, hogy emellett a maradék 80 százaléknak is megfelelõ felhasználói élményt tudjon garantálni. Érdekes egyébként, hogy pár évvel ezelõtt ugyanúgy téma volt a heavy userek által generált forgalom, de akkor a forgalom 80-90 százalékáért még csak a felhasználók 1-5 százaléka volt felelõs, a trend tehát az, hogy egyre többen használnak nagy adatforgalommal járó alkalmazásokat.
+
+Lynch ráadásul nem volt egyedül ezzel a véleményével. Andrew Crain, a Qwest elnökhelyettese is nevetségesnek tartja azt a fajta hozzáállást, hogy az amerikai kormányzat törvénytelennek nyilvánít minden irányt, ami akár rosszul is elsülhet. A kést sem tiltották be, pedig lehet vele embert ölni, s egyre többen gondolják azt, hogy a p2p technológia démonizálása sem egy tartható álláspont, hiszen a fejlõdés ellen hat. Éppen ellenkezõleg, ha szabályozásokat akarnak hozni, akkor meg kell vizsgálni, hogy mik azok a problémák, melyek törvénnyel valóban kezelhetõek.
+
+
+A "valós" problémák felvetésénél több félelem is hangot kapott. Nem engedhetõ meg például, hogy egy saját multimédiás tartalomban érdekelt internetszolgáltató gyorsítsa saját szolgáltatását, s a többiekét lassítsa. Nem elfogadható továbbá az "ex ante" hálózatmenedzsment, tehát amikor a feltételezett problémákat megelõzõ intézkedésekkel kerülik el. Ez a módszer azért aggályos, mert így a szolgáltató kontrollálatlanul bármire rámondhatja, hogy veszélyezteti a hálózat mûködését.  Egy jó antitröszt törvénnyel viszont a résztvevõk szerint kordában lehetne tartani az ISP-ket. 
+
+Nincs egyetértés
+
+A vitázó felek álláspontjai viszont annyira távol állnak egymástól, hogy az igényelt trösztellenes törvény mit is foglaljon magában, hogy nem várható megegyezés. Szemléltetésnek kiváló, hogy a Szövetségi Kommunikációs Bizottság (FCC) is kiadott egy négyrészes állásfoglalást az internetes szabadsággal kapcsolatban. S ugyan a szabadságról szól, de közben minden pontban korlátoz is az "elfogadható hálózati menedzsment" rendelkezésekkel, bármit is jelentsen a kifejezés. Az "elfogadható" nincs definiálva, s nincs recept arra, hogy egy ilyen komplex piacon mi számít annak. Sõt az is kérdéses, hogy egy korlát kinek a számára kell, hogy elfogadható legyen. Az ügyfélnek? A szolgáltatónak? A kormányzatnak?
+
+A szolgáltató hivatkozhat arra, hogy a felhasználók egy részét védi a többitõl, de többnyire csak önmagát védi attól, hogy egy nagyobb kapacitású hálózatot kelljen üzemeltetnie. Az amerikai konferencia jó jelzés lehet a világ számára, hogy a szabályozás, semlegesség és p2p kérdését ma már nem lehet az asztal alá söpörni, kezelni kell. A lényeget viszont nem lenne szabad elfelejteni: a szolgáltatónak azoktól kellene ötleteket merítenie, akik a leginkább számítanak nekik, a felhasználóktól.

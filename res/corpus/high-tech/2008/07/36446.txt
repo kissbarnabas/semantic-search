@@ -1,0 +1,14 @@
+Legalább százmilliószor írható flash memóriát fejlesztettek ki Japánban
+
+[Nanowerk] Japánban olyan flash memóriacellát fejlesztettek ki, amely akár százmilliószor is újraírható, így az élettartama évtizedekben mérhetõ, szemben a mai megoldásokkal, amelyek intenzív (értsd: napi 24 órás folyamatos) használat mellett néhány év alatt elöregednek.
+
+
+
+A tartalmukat kikapcsolás után is megõrzõ flash memóriákat ma már számos területen használják. Egy MP3-játszó, pendrive vagy memóriakártya eseténben nem annyira fontos, hogy a memóriacellák néhány százezer írás után elfáradnak és csak olvashatóvá válnak, de a flash memórián alapuló lemezmeghajtók (SSD-k) megjelenésével a téma az érdeklõdés homlokterébe került -- sokan félnek attól, hogy a méregdrágán megvásárolt SSD-jük hamar bemondja az unalmast. Hétköznapi használat mellett egy SSD még így is elõbb értéktelenedik el teljesen, mint hogy elfáradna.
+
+Fe-NAND flash memóriacella
+
+
+ A jelenlegi flash memóriák 30 nanométeresnél fejlettebb technológiával nemigen gyárthatók a cellák fizikai felépítésébõl adódó korlátok miatt, ráadásul a csíkszélesség csökkenésével együtt a cellák egyre kevesebb írási ciklust bírnak ki.
+
+A Tokiói Egyetem és a japán National Institute of Advanced Industrial Science and Technology együttmûködésében most kifejlesztett ferroelekromos (Fe-NAND) memóriacella az elsõ tesztek szerint akár százmilliószor is írható, vagyis az életciklusa sokszorosa a ma elterjedt megoldásokénak. A memória nem csak strapabíróbb, hanem alacsonyabb feszültsége miatt kevesebbet is fogyaszt, ráadásul felépítésébõl adódóan akár 10 nanométeres csíkszélességgel is gyártható, vagyis a memóriachipek kapacitása gazdaságosan növelhetõ a következõ évtizedben is. 

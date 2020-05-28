@@ -1,0 +1,45 @@
+Olcsó mindenes: teszteltük a Brother MFC-5460CN multifunkciós nyomtatót
+
+A legtöbb vásárló egyszerûen egy nyomtatót, illetve multifunkcióst keres, mely mindenféle nyomtatási illetve irodai munkára használható. A sokoldalúság és az elfogadható ár kihívása lebeghetett a Brother mérnökeinek szeme elõtt is, hogy mennyire sikerült megfelelniük, az kiderül tesztünkbõl.
+
+
+
+Sok szolgáltatás kis helyen
+
+Minél több funkció és lehetõség ugyanazon az alapterületen - ezt nem könnyû megfelelõ szinten megvalósítani úgy, hogy megfizethetõ maradjon a termék. Akik személyi irodájukba szeretnének multifunkciós nyomtatót, azok számára leginkább a sokoldalúság a hasznos, legyen az alkalmas dokumentumokhoz, fotókhoz, faxoljon és szkenneljen, másoljon is. Mintegy 44x39 centiméteren mindezt nyújtja a Brother univerzális harcosa, melyet személyi vagy kis irodába ajánl a gyártó. Tesztünk során, azt kerestük, hogy milyen korlátokkal lehet jó mindenre ez az olcsó, mintegy 30 ezer forintos készülék.
+
+Brother MFC-5460CN
+
+Találunk természetesen a Brother MFC-5460CN-ben egy nyomtatót, és a felhajtható lapolvasó fedélen egy automatikus egyedi adagolót is, mely 35 lapig mentesít minket a dokumentumadagolás terhe alól. Egy 100 lapos univerzális papírkazettával oldotta meg a gyártó a médiaadagolást, legyen szó irodai vagy fotós papírról. Elõnye, hogy kivehetõ, hátránya, hogy nem áll rendelkezésre külön fotós tálca, így babrálnunk kell vele, valahányszor papírméretet váltunk (például fotónyomtatáskor). Használhatjuk USB- vagy Ethernet-csatlakozáson is a készüléket, nem csak a nyomtatást, hanem gyakorlatilag minden szolgáltatást, például a faxot is megosztva. Sajátos módon az USB- és Ethernet-csatlakozók a gépház belsejében találhatók, ami mintegy 30 centiméteres hosszt felemészt a kábelekbõl.
+
+Önálló funkciók, leginkább irodába
+
+
+Memóriakártya-olvasó és PictBridge-csatlakozás is helyet kapott a készüléken, így számítógép nélkül is képes nyomtatni. Sajnos ebben nincs segítségünkre színes képernyõ, csak egy kétsoros szöveges kijelzõ. A fotók kiválasztása ezért csak indexképek nyomtatása és sorszámok begépelése útján lehetséges, ami ma már kissé elavult módszer, több gyártótól láttunk már olyan megoldást, hogy az indexlap  egyben megrendelõ ûrlap is, és kitöltve a lapolvasóba helyezve teljesíti a készülék a megrendelést.
+
+Magunk részérõl a fotónyomtatást inkább számítógéprõl gyakorolnánk tesztalanyunk esetében, de így is maradtak hasznos saját funkciói. Maga a másolás alapvetõ, mindennapi feladat, amelyet elég szabadon gyakorolhatunk. Segítségünkre van a dokumentumadagoló, mely jól és halkan mûködik (persze csak gyûretlen és kapocsmentes papírokkal). Másoláskor nagyíthatunk-kicsinyíthetünk, egy lapra 2 vagy 4 oldalt másolhatunk és nyomtathatunk 3x3 lapos posztert is, ami nem túl gyakori funkció, de alkalmi plakátkészítéskor nagyon is hasznos lehet. Fejlõdik és hódít az elektronikus kommunikáció, de még ma is fontos része az irodai mindennapoknak a fax, melyben esetünkben 480 oldalas memória is helyet kapott. Faxot tudunk küldeni a hálózaton át csatlakoztatott multifunkcióson keresztül is, a Brother faxszolgáltatása beépül nyomtatóink közé. 
+
+A Brother Fax printerként elérhetõ a nyomtatók között
+
+Lézeres szint alatti költségek
+
+Nem elsõként vágott bele az idén 100 éves japán Brother a tintasugaras nyomtatók gyártásába, mégis látott annyit még a mai telített piacban is, hogy kifejlessze saját technológiáját és ne kelljen más gyártók licenceire támaszkodnia. A piezo-alapokon nyugvó rendszer fix fejjel kombinál négy külön tintapatront, ami kedvezõ üzemeltetési költségeket biztosít. A gyártó által megadott kapacitásokból és a kiskereskedelmi árakból számítva a nagy kapacitású (1000 oldalas) fekete patronnal 6 forint alatt van egy monokróm A/4-es szövegöldal költsége, ami jobb, mint a legtöbb lézernyomtatóé. 5 százalékos színenkénti telítettség mellett egy színes oldalra (CMYK egységcsomaggal számolva) kevesebb mint 24 forintot kell költenünk. 
+
+Lapköltségek A/4 oldalra vetítvea gyártó adatai alapján
+
+Sajnos nem volt alkalmunk ellenõrzött körülmények között elnyomtatni egy készlet patront és lemérni a kapacitásokat és a gyári kapacitás értékek nem ISO szerint, hanem 5 százalék fedettség megadásával szerepelnek. Hozzátartozik a képlethez, hogy a konstrukció jellegébõl eredõen sokszor végez szerviz fejtisztítást a nyomtató, és ez is igényel némi festéket. A tintafogyasztás (illetve a szerviz célokra, például fejtisztításra elhasznált tinta mennyisége) attól is függ, hogy milyen idõközönként nyomtatunk. Mindennapos, rendszeres terhelés esetén tudjuk a legtöbb tintát kinyerni a patronokból.
+
+Minõség és teljesítmény
+
+Pigmentált tintáival jó kontrasztot ad monokróm és színes dokumentumok, grafikák esetén normál papíron is a Brother MFC-5460CN. A fix, négy külön patronnal feltölthetõ fej legfeljebb 6000x1200 dpi felbontásra képes. A lézeres nyomatoktól a kontúrok tartásában marad el némileg, amit csak tüzetesebb szemrevételezéssel mérhetünk fel. Fotónyomtatáskor  korrekt négy alapszínû minõséget produkál (természetesen fotópapírra), de érdemes ilyenkor csak a legjobb mintakeveréssel dolgozni, normál fotó beállítással elõfordulhatnak hibák. Így viszont három perc húsz másodpercet is igénybe vett egyetlen fotó elõállítása. 
+
+A fej gyakran szorul tisztításra (fotónyomtatás elõtt célszerû nekünk indítani ezt), ami hátráltathatja a munkát, úgy fél perccel elodázva a nyomtatás kezdetét. Akár kicsit gyûrött papír vagy az átlagosnál vastagabb fotómédia esetén elõfordulhat papírelakadás. Sebesség terén elmarad a versenytársaktól a készülék, illetve sokszor elõfordul tisztító-inicializáló járat közvetlenül nyomtatás elõtt.  Dokumentumok esetén érdemes a gyors normál (és nem a normál) beállítást használni, így sok idõt takaríthatunk meg gyakorlatilag azonos minõség mellett.
+
+
+
+A beépített lapolvasó 1200x2400 dpi felbontása több, mint elegendõ, nem csak az irodai dokumentumokhoz és faxokhoz, hanem papírképek beolvasásához is. Minõsége közepes. Önálló másolatokat legfeljebb 1200 dpi felbontással készít, a kezelõpanelen beállított minõségtõl függõen. Szkennerként hálózatról is elérhetõ és a mellékelt OCR alkalmazás a magyar nyelvû szövegeket is átalakítja.
+
+
+
+
+Minõségben képes a legváltozatosabb feladatokkal szembenézni, költségei rendszeres, napi használat mellett elég kedvezõek és szemtelenül olcsó. Összességében egy személyi, vagy egy-két személyes irodába ajánlott a Brother MFC-5460CN, ahol nincsenek túl nagy teljesítmény-követelmények és nem gond, ha fél percet kell várnunk mert fejtisztítás folyik, vagy újra kell töltenünk a tálcát. 

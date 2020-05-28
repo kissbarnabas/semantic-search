@@ -1,0 +1,18 @@
+Jön az AVM fullextrás hálózati hubja
+
+Hamarosan Magyarországon is piacra kerül az AVM legújabb, több vezetékes szolgáltatást integráló, számos extra funkcióval ellátott hálózati hubja (más néven home gateway, HGW), a FRITZ!Box Fon WLAN 7270. A német cég eddig visszafogott jelenléttel képviseltette csak magát itthon, ugyanakkor a jövõben terjeszkedésbe kezdene a magyar piacon, melynek egyaránt része lehet az internetszolgáltatókkal és a kiskereskedelmi partnerekkel kötött együttmûködési megállapodás -- mondta el az AVM mai sajtótájékoztatóján Klaus von Kries értékesítési igazgató.
+
+
+
+Az 1986-ban alapított, berlini központú AVM-et bár Magyarországon kevesen ismerik, a honi piacon olyan jelentõs gyártókkal áll versenyben, mint a Thomson vagy a Siemens: a mindössze 460 fõt alkalmazó, saját fejlesztésû eszközöket gyártó cég Németországban, a DSL-eszközök piacán 2007-ben elsõ tudott lenni, európai viszonylatban pedig a második pozíciót sikerült elcsípnie.
+
+A gyártó augusztusban jelentette be legújabb, prémiumkategóriás hálózati eszközét, mely ADSL2+ modemet, hálózati útválasztót, vezeték nélküli kézibeszélõket kiszolgáló DECT-bázisállomást és egy kisebb telefonközpontot is magába integrál. A FRITZ!Box Fon WLAN 7270 egy a 802.11n szabván 2.0-s tervezetének is megfelelõ rádióval is képes kommunikálni a hozzá csatlakoztatott eszközökkel, a vezetékes összeköttetésrõl négy Fast Ethernet port gondoskodik.
+
+
+
+
+Az AVM eszközének kényelmi és extra funkciói közé tartozik egyebek mellett az egyszerre akár hat vezeték nélküli kézibeszélõt is lekezelõ DECT-bázisállomás, mellyel a legtöbb készülék néhány gombnyomással szinkronizálható (ezek ráadásul a CAT-iq technológiának köszönhetõen elvileg jobb hangminõséget is nyújthatnak a hagyományos megoldásoknál). A hub analóg és ISDN vonalakat egyaránt képes kezelni, VoIP-módban is mûködik (maximum 10 SIP-számot lehet eltárolni vele), a beépített kisközpont listát vezet a hívásokról, üzenetrögzítõként is mûködik és átirányítást is be lehet programozni vele. A FRITZ!Box Fon WLAN 7270 emellett a beérkezõ faxokat képes PDF-állományokba menteni, majd akár a megadott e-mail címre továbbítani, valamint e-mail push funkcióval is ellátták.
+
+A biztonságos vezeték nélküli üzemmódot szolgáló, említésre méltó extra, hogy az AVM készüléke alapesetben bekapcsolt WLAN-titkosítással érkezik, az egyedi kulcsot az eszköz alján található matricáról lehet leolvasni. A HGW-t egy környezetkímélõ, az áramfogyasztást csökkentõ üzemmóddal is felruházta a gyártó: a WLAN-rádió többféleképpen is kiiktatható, így a készülékre került nyomógomb mellett a DECT-telefonon bepötyögött kódsor, vagy az adminisztrációs felületen beállított idõintervallum elérése is kikapcsolja a Wi-Fi-t. A FRITZ!Box Fon WLAN 7270-hoz USB-porton keresztül nyomtató és külsõ adattár is csatlakoztatható, illetve a WLAN Stick nevû USB-s Wi-Fi modul is beköthetõ ide, így a két eszköz pár másodperc alatt automatikusan szinkronizálható, a felhasználónak ezután a számítógépen már nem kell megadnia az egyedi WLAN-beállításokat.
+
+A FRITZ!Box Fon WLAN 7270 az elkövetkezõ hetekben érkezik meg a magyar piacra. A terméknek egyelõre nincs hazai ára, a német boltokban ugyanakkor nagyjából 270 eurót (ez napi árfolyamon számolva körülbelül 71 ezer forint) kérnek érte.

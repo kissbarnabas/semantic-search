@@ -1,0 +1,16 @@
+Programozni tanít a Microsoft jövõre érkezõ játéka, a Boku
+
+Boku néven érkezik jövõ tavasszal a Microsoft kimondottan gyekekeknek szánt, a programozás alapjait megtanító videojátéka. Az Xbox 360-ra írt szoftver bûbájos, látványos, mégis egyszerû és hatékony eszközökkel hivatott megismertetni a legfiatalabbakat a számítógépek programozásával.
+
+
+
+A Microsoft Research berkein belül készülõ Boku egy játék a játékban. A szoftver önmagában is egy játék, amelynek célja a szórakozás mellett az oktatás. A rajzfilmszerû világban játszódó Bokuban a felhasználók saját maguk programozhatnak játékokat, amelyeket azután le is játszhatnak. A Boku észervétlenül tudja megtanítani a programozás alapjait, használatához még billentyûzet sem kell, a programokat a kontrolleren és a jópofa, ikonokra épülõ felhasználói interfészen kell bevinni. A Microsoft szerint akár ötévesek is sikeresen próbálkozhatnak vele.
+
+A Professional Developers Conference-en bemutatott elõzetesben Matthew MacLaurin, a Boku megalkotója és gazdája demózta szoftver képességeit. A bemutató során MacLaurin pár perc alatt hozott létre egy alapszintû játékot: a repülõ csészealj megkereste az almákat, megette õket, ezek alapján pontokat kapott. A csészealj programját pár kattintással alkotta meg MacLurin, a Boku intuitív kezelõfelületén, amelyet valószínû még a gyerekek is könnyen átlátnak majd. Az almakergetõ program három sorból állt: az elsõ utasította a csészealjat, hogy ha meglát egy almát, induljon el felé, a második arra, hogy ha odaért az almához, akkor egye meg, a harmadik pedig az alma megevésekor megnövelte a pontszámot.
+
+Egyszerû felületen készíthetõk a programok
+
+
+ A Boku "programozási nyelvét" a játékos környezetet és persze a célcsoportot szem elõtt tartva fejlesztették, a programok utasításai fizikai cselekedeteknek felelnek meg (pl.: ha látsz egy almát, indulj el felé), ez biztosítja, hogy a gyerekek is megértsék és élvezettel használhassák a szoftvert. Másfelõl ugyanakkor -- mutatott rá MacLaurin -- a Bokuban egészen bonyolult játékok is programozhatók, a játékban kezdetben közel két tucat, különféle képességekkel felruházott  karakter lesz (némelyek repülni tudnak, mások úszni, ugrani, lõni, stb.) , a helyszínek is változatosak, emellett akár a felhasználó is alakíthatja, formálhatja õket, mert a játéknak része egy pályaszerkesztõ is.
+
+A második demóban a csészealjat nem a program, hanem a játékos irányította az Xbox-kontrollerrel. A programban itt az szerepelt, hogy a csészealj rakétákat lõhessen ki, az ellenfél pedig egy léghajóra hasonlító repülõ tárgy volt, amit úgy programozott MacLaurin, hogy a játékos által irányított csészealjra vadásszon saját rakétáival -- a kontroller használatával is pár perc alatt kész lett a játék, és nehéz lenne megmondani, hogy elkészíteni nagyobb szórakozás-e vagy játszani vele.

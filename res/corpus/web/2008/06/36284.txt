@@ -1,0 +1,14 @@
+Limitált PDF-támogatást kapott a Google Dokumentumok
+
+[blog] Limitált PDF-támogatással egészült ki a Google online dokumentumkezelõ szolgáltatása, a Google Docs, magyarul Google Dokumentumok. A PDF állományok kezelése szinte magától értetõdõnek tûnik, hiszen a keresõmotor és a GMail is rendelkezik ezzel.
+
+
+
+PDF állományokba már eddig is menthettük a Dokumenumokban létrehozott anyagainkat, eddig azonban nem tölthettünk fel saját PDF-eket az online tárhelybe, és nem tekinthettük meg õket PDF-kezelõ szoftver nélkül. A Google Dokumentumokba ezentúl 10 megabájtos méretig -- internetrõl linkelve 2 megabájtosig -- húzhatunk be saját PDF állományokat.
+
+
+A megnyitott dokumentumokat oldalanként tekinthetjük meg, sajnos a kezelés annyiban is limitált, hogy nem tudjuk nagyítani, kicsinyíteni õket. A kijelölt szövegeket -- amennyiben a dokumentum beállítása ezt engedi -- akár ki is másolhatjuk, máshova be is illeszthetjük.
+
+
+
+A PDF dokumentumok megjelenítéséhez legalább 1024 x 768 pixeles felbontásra van szükség, mely a mai noteszgépek, monitorok döntõ hányadánál rendelkezésre áll. Az új funkció talán egyik legnagyobb problémája azonban a nagyítás hiánya, melyre a PDF-es prospektusok, prezentációk, dokumentumok jelentõs részénél szükség lehet. Hiányzik az is, hogy a Dokumentumok keresõje -- egyelõre -- nem keres a PDF állományokban és szerkeszteni sem lehet õket, bár ez utóbbi talán nem meglepõ.

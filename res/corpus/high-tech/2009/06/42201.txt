@@ -1,0 +1,102 @@
+Hagyd, majd én vezetek!
+
+Az autógyártók ma nehéz helyzetben vannak, és tovább ront a helyzetükön, hogy a kilábalás olyan területtõl is várható, mely rengeteg pénzt emészt fel a fejlesztések során. A ma, vagy inkább a holnap autója jelentõs mértékben különbözik a múltbéli, elektronikailag egyszerû gépektõl, kis túlzással szinte csak a dugattyú az, ami összeköti õket. Jelenleg a fõ fejlõdési irány az utazással magával kapcsolatos, lényeg, hogy a vezetõ minél egyszerûbben, minél biztonságosabban és minél kényelmesebben jusson el a célhoz. E hármasnak komplett rendszerek próbálnak megfelelni, melyek aktív és passzív biztonság oldaláról, kényelmi téren, valamint információközlés területérõl közelítenek.
+Cikkünk nem a helymeghatározásról szól, bár érintõlegesen kapcsolódik ez a terület is a fõ vonalhoz, sokkal inkább azokról az elektronikai fejlesztésekrõl, melyek súlyt vesznek le a vezetõ válláról, azokról a területekrõl, melyek biztonságosabbá és kényelmesebbé teszik a vezetést, közelebb hozva a sofõrt az utasok által megélt komforthoz. A rendelkezésre álló vezetõsegédek természetesen egyelõre nem a kisautó-kategória legolcsóbb modelljeiben válnak elérhetõvé, nagy többségük ma még a prémiumkategóriás autók drága extrái, de ahogy az a múltban is volt, idõvel ezek is lejjebb szivárognak az alsóbb osztályokba, egyre többek számára elérhetõvé válva. 
+
+Az ABS, mint elsõ vezetõsegéd
+
+A vezetõsegédek legfontosabb feladata, hogy kivédjék az emberi mulasztást, hiszen a balesetek nagy többsége nem mûszaki hiba eredménye. Mindegyik segéd õse az ABS, melyet elõször 1978-ban lehetett rendelni a Mercedes Benz S-osztályhoz (W116), szériafelszereltségként pedig&nbsp; 1985-ben mutatkozott be a Ford Scorpióban. Az ABS-en,&nbsp; az ezen alapuló menetstabilizálón, valamint kipörgésgátlón a mai biztonsági és kényelmi extrák képességei azonban jócskán túlmutatnak.
+
+
+
+
+A fejlõdés irányát a különféle rendszerek egységes hálózatba kapcsolása határozza meg, így az egyes elemeket más-más feladatokra is használhatja a komplett rendszer. Az ESP ma már arra is képes, hogy a stabilitását épp elvesztõ autót kismértékû ellenkormányzással terelje vissza a biztonságos helyzetébe. A Volkswagennél ez az extra már nem a legmagasabb kategóriák kiváltsága, akár Golf-kategóriájú autókhoz is rendelhetõ. A VW-csoporthoz tartozó márkák közül az újdonságok egyébként elõször az Audiban jelennek meg, a Q5-nél például az ESP arra is figyel, hogy a kocsira szereltek-e tetõcsomagtartót, vagy húz-e vontatmányt, melynek kígyózó mozgását is képes akár csillapítani.
+
+Biztonsági extrák
+
+
+
+
+A biztonsági és kényelmi csomagok jellemzõ tartozéka az aktív sebességtartó automatika (tempomat) is, mely ma már álló helyzetre is képes fékezni az autót, ha arra az ütközés elkerülése érdekében szükség van. További, pár éve még szinte elképzelhetetlen lehetõség a sávtartó automatika, mely akár a vezetõ helyett is képes kormányozni egy ideig az autót, a VW-nél 100 másodpercig avatkozik be, ezt követõen a rendszer éles hangjelzéssel figyelmezteti a sofõrt.&nbsp; Ezeknek a rendszereknek megvalósításához leginkább az elektronikus rásegítésû kormányok illenek, ezért a legtöbb autógyártó a hidraulikus rendszereket fokozatosan elektronikusra cseréli. Elektronikus rásegítésû szervokormánnyal a parkolósegéd szinte teljesen
+önállóan be tud parkolni egy megfelelõ méretû helyre, vezetõi
+beavatkozást csak a fékpedálon igényel, és akár egy
+alsó-középkategóriás autóhoz is rendelhetõ, pár százezer forintos
+extraként.
+
+Az Opel a közelmúltban bemutatott Insignia modelljébe jelzõtábla-felismerõt is épített, mely a mûszerfal kijelzõjén mutatja azokat a táblákat, melyek mellett az autó épp elhaladt (ezt a rendszert a VW-csoport elõször a következõ modellváltás során építi be Audi A8-ba). A mûszerfalon nem csak a tábla látható, a rendszer annak hatályát is kijelzi, ez például sebesség- vagy elõzési korlátozás esetén igazán nagy elõny. A rendszer a fényszóróüveg alá épített kamerán alapul, mely a sávelhagyásra is figyelmeztet. Ahogy a VW, úgy az Opel is képes az aktuális forgalmi helyzethez igazítani a fényszórók erejét és fényterítési jellemzõit, a lámpák lakott területen és autópályán más-más intenzitással és területet világítanak
+
+
+
+
+Az adaptív fényszórók az Opel Insignia esetében 8 különbözõ körülmény szerint világíthatnak, a számítógép aszerint vált, hogy az autó épp milyen forgalmi helyzet szerint közlekedik, ehhez az információkat az autó sebessége, a kormány elfordulásának szöge, az esõérzékelõ, illetve a környezeti fényszenzor szolgáltatja. A lakóövezeti világítás 3-30 km/h sebességtartomány esetén lép életbe. Ennél nagyobb sebességnél -- ha az autó szenzora az utcai közvilágítást is érzékeli -- a városi világítás aktiválódik, ezt az országúti világítás követi, mely a hagyományos tompított fényszóróknál hosszabb és szélesebb területet világít meg, 100 km/h felett pedig az autópálya-mód kapcsolódik be. Az asszisztenssel ellátott távolsági fényszóró a környezõ autókat figyeli, ha elõttünk, vagy velünk szemben egy másik jármûvet fedez fel, automatikusan tompított fényre kapcsol. A kanyarodást a statikus, vagy dinamikus kanyarvilágítás könnyíti, elõzõ 40 km/h sebességig a kanyarodás irányába 90 fokkal tériti el a fényt. A dinamikus kanyarvilágítás 15 fokkal dönti a kanyarba a fénysugarat, ezt a módot a kerékelfordulási szög és a sebesség aktiválja. Ha az esõszenzor és az ablaktörlõ mûködésbe lép, a ködlámpa-mód kapcsol be.
+
+
+
+
+A BMW a biztonságot érintõ úton a sötétben is jár, de közel sem csak tapogatózik, Night Vision rendszere hõkamerákat alkalmaz, a rendszer rossz látási viszonyok mellett is képes észrevenni az autó elé került gyalogosokat, állatokat vagy tereptárgyakat. A 2000 eurós áron rendelhetõ Night Vision hatótávolsága 300 méter. A BMW a jövõt illetõen az autók közötti kommunikációban hisz, ConnectedDrive rendszere számos alrendszert fog össze. Az autók szenzorai nagy mennyiségû információt szolgáltatnak, melyek java része az úttal és a környezettel kapcsolatosak, a bajorok elképzelése szerint ezeket akár egy másik autó is felhasználhatja. A két gépkocsi közötti kommunikáció megléte természetesen ehhez elengedhetetlen, de segítségével a vezetõ egy már dugóban veszteglõ autó jelei alapján a kellemetlen forgalmi szituációkról még akkor tudomást szerezhet, amikor az elkerülõ útvonal még kiválasztható.
+
+
+
+Hálózatba kapcsolódó autók
+
+Természetesen e rendszer nem csak a forgalmi helyzetrõl adhat információt egy másik, szintén a hálózatba illesztett autónak, hanem például az idõjárásról is -- zápor esetén az autó a bekapcsolt esõérzékelõjének jeleit éppúgy elküldheti, mint az ablaktörlõ mûködésével kapcsolatos adatokat. A mobil adatkapcsolat a BMW-nél kétféleképp is létrehozható, az elsõ ezek közül a vezetõ mobiltelefonját használja az adatok továbbításához, a másik pedig egy beépített egység segítségével üzemel, melynek saját SIM-kártyája van.
+
+
+
+
+A rendszer egy esetleges ütközés során önmaga is segítséget hívhat, ez minden olyan esetben megtörténik, amikor a légzsák kinyílt. E hívások során (melyet az automatika mellett a vezetõ is kezdeményezhet) a mentõk felé az autó pontos földrajzi koordinátái is közölhetõk. A rendszer elektromos, az adatokat javarészt szenzorok küldik, így akadálya annak sincs, egy az autógyártó által mûködtetett telefonos szolgálat távolról kinyissa a véletlenül bezárt autót, vagy beindítsa a gépkocsi klímaberendezését az utazás megkezdése elõtt. Ilyen rendszerrel a BMW 7-es sorozatának modelljei már rendelhetõk. Az már nem is kérdés, hogy a meglévõ adatkapcsolat és az arra alkalmas kijelzõk segítségével az internet is elérhetõ vezetés -- tágabb értelemben az utazás -- alatt.
+
+Érdekes és a tengerentúlon már ma is mûködõ rendszer az Autonet, mely
+az&nbsp; ezzel felszerelt gépkocsiból "varázsol" Wi-Fi hotspotot. A rendszer
+3G-adatkapcsolaton éri el a világhálót és vezeték nélküli hálózati
+útválasztón keresztül továbbítja a jelet minden WLAN-adapterrel
+felszerelt noteszgéphez, mobilhoz, vagy játékkonzolhoz. A szolgáltatás
+díja 30 dollár havonta ebben 1 gigabájtnyi adatforgalom áll
+rendelkezésre, mellette 5 gigabájtos csomag is választható, mely havi
+60 dollárért vehetõ igénybe. Természetesen a mûködtetéséhez
+mobilszolgáltatók által lefedett területre van szükség.
+
+
+
+A BMW által elképzelt rendszer autómárkától is független megvalósulására is számíthatunk, az Európai Bizottság az 5,9 gigahertzes frekvenciát osztotta ki az autók közötti kommunikációs rendszerek adatainak vivõfrekvenciájaként. Az autók közti kommunikáció e márkafüggetlen rendszerében leginkább a forgalmi körülmények jelenidejû feltérképezése a cél, pár éve még sci-fi mozikban lehetett volna csak elképzelni, hogy a jármû kijelzõjén hirtelen a "forgalmi dugó 10 kilométerre" felirat jelenjen meg, melyet annak kikerülését célzó alternatív útvonal kijelzése követ. Ez a közeli jövõben már valóság lesz: az autók tömörülése, az alacsony fordulatszámmal és sebességgel kapcsolatos adatok egyértelmûvé teszik, hogy az adott helyszínen körülményes, vagy netán lehetetlen a haladás. Ha ismerjük a dugó autókra mért hatását, már csak a közvetítést kell megoldani és máris tudathatjuk a többi közlekedésben résztvevõvel, hol kell lassú haladásra számítaniuk. Az Európai Bizottság reméli, hogy az autó-autó közötti kommunikáció globális szabvány szerint üzemelhet, fõleg, hogy dedikált frekvenciasáv is a rendelkezésére áll.
+
+Multimédia, szórakozás
+
+
+Az amerikai Fordnál a közelmúltban debütált, a Microsofttal közösen fejlesztett Sync jó példája annak, hogyan lehet a nálunk levõ mobiltelefon vagy zenelejátszó a fedélzeti szórakoztató és információs rendszer szerves része. A 400 dolláros felárért 21 különféle Ford-típushoz rendelhetõ Sync szinte az összes forgalomban lévõ mobiltelefonnal és digitális
+médialejátszóval összekapcsolható, melyeket aztán a kormányon található
+kezelõszervekkel vagy akár hangutasításokkal is képes irányítani.
+
+
+
+
+A Sync kiírja a mûszerfalra a beérkezõ SMS-eket, de fel is tudja õket
+olvasni, sõt, megérti az üzenetekben gyakran használt rövidítéseket is
+(pl. GR8, LOL, XOXO), sõt néhány smiley-t is felismer. A Sync képes a
+mobiltelefonon tárolt zenéket is lejátszani az autó audiorendszerén,
+ezeket a funkciókat is lehet hangutasítással vezérelni, elõadók vagy
+albumok hosszas keresgélése helyett elég csak annyit mondani például, hogy
+"play Led Zeppelin". A telefonokkal és a médialejátszókkal a kapcsolat Bluetooth vagy USB-kábel segítségével egyaránt kiépíthetõ. 
+Az elsõ Sync-rendszert tartalmazó autó 2008-ban már kigördült az
+utakra, mára a gyártó épp az egymilliomodik ilyen jármû
+értékesítésén van túl. A használtpiacon is kelendõbbek az ezzel a
+rendszerrel szerelt Ford modellek, dupla annyi talál gazdára belõlük,
+mint az ezt nélkülözõ változatok.Jelenleg a Sync angolul, franciául és spanyolul tud, de a 2010-es európai bemutatkozás idejére még további nyelvek csatlakoznak a trióhoz.
+
+
+
+
+A 2009-es detroiti
+autóshown mutatkozott be a Chrysler 200C koncepcióautó. A
+hibridhajtással elképzelt 200C egy hatalmas, füstüveggel borított
+kombinált kijelzõpanelt tartalmaz, melyen nem csak a fõbb mûszerek
+adatai és a jelzõfények jeleníthetõk meg szabadon, hanem a szórakozást
+és a helymeghatározást érintõ adatok is. Az csak egy plusz, hogy a
+kijelzõn a virtuálisan megjelenõ mûszerek és mutatók a sofõr által
+testre is szabhatóak, a mobiltelefonok és a médialejátszó eszközök pedig
+vezeték nélkül kapcsolódhatnak az autó fedélzeti szórakoztató
+rendszeréhez. A 200C rendelkezik Teen üzemmóddal is, mely a kezdõ
+vezetõ képességeihez igazítja az autó menetteljesítményét és bizonyos
+sebességet még lakott területen kívül sem enged átlépni.
+
+A jövõt persze nem csak a cikkben említett autógyártók határozzák meg, mindegyik vezetõ márka lázasan fejleszt, legyen az európai, amerikai, vagy akár távolkeleti székhelyû. A jövõ éppúgy kiszámítható itt is, mint ahogy arra más területeken már láthattunk példát. A mobilok elterjedése, vagy akár a számítástechnika hétköznapivá válása olyan jövõképet kínál, melyet az autós világot érintõ fejlesztések terén is gond nélkül lehet alkalmazni. A vezetést könnyítõ, vagy kellemesebbé tevõ rendszerek, kiegészítõk az idõ múlásával egyre olcsóbbak, emellett kiforrottabbak lesznek, a mûködéshez szükséges infrastruktúra pedig egyre inkább közelít a teljes kiépítettséghez. Az ezeket alkalmazó autók pedig hamarosan a mindenki számára elérhetõ kategóriákból is kikerülhetnek.

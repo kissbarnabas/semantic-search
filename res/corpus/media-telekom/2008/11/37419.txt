@@ -1,0 +1,58 @@
+Rendeljen iWiW-jelszótörõt! -- új trükkök a spampiacon
+
+Október végén újabb nagyszabású spamkampány zajlott az internet hazai szegletében, amelynek során a szokásos letöltõoldalak mellett iWiW-, MyVIP-, és freemail-fiókok feltörésére alkalmas szoftvereket hirdettek, amikhez emeltdíjas SMS ellenében lehet hozzájutni. Ebben az esetben a csalók talán túl messzire mentek, több hatóság jogkörébe tartozó bûncselekmény gyanúja is fennáll, elõfordulhat, hogy végre olyan hibát követ el a "warezmafia", aminek nyomán fogást találhatnak rajtuk.
+
+
+
+Szezonális ajánlat
+
+Október 22-tõl 27-ig, majd november 8-tól megismételve újabb nagyszabású spamkampányok zajlottak a hazai interneten -- tájékoztatta szerkesztõségünket Sipos Zoltán, a Spamwiki adminisztrátora. A kiküldött levelek többnyire három weboldalt népszerûsítettek, mégpedig a "biglnk.com/freekey", a "biglnk.com/letoltes" és a "biglnk.com/toltes" címeket, melyek kivétel nélkül a "jasek.0day.hu" webhelyre voltak átirányítva. Az oldalak filmeket, játékokat és zenéket kínálatak letöltésre.
+
+November 2-án az elõzõvel párhuzamosan egy másik spamkampány is elindult, melyben viszont egy itthon egészen újnak számító tematika jelent meg. A kéretlen levelekben a kiskapuk.net címet reklámozták, ahol a hiszékeny felhasználókat azzal csábítják emeltdíjas SMS elküldésére, hogy  cserébe az iWiW, a MyVIP és a freemail rendszerekbe való betörésre, mobiltelefonjuk függetlenítésére vagy egyszerû honlapkészítésre alkalmas szoftvereket tölthetnek le.
+
+Szerkesztõségünk Márton Györgytõl, a Nemzeti Hírközlési Hatóság szóvivõjétõl megtudta, hogy ez utóbbi kampánnyal kapcsolatban a felhasználóktól, címzettektõl jellemzõen nem érkeztek feljelentések, de a média képviselõitõl annál több kérdés árasztotta el az NHH-t. Márton a HWSW-nek elmondta, ez esetben nem kizárólag a kéretlen levélküldés az egyetlen ok, ami miatt az elkövetõket vádolni lehetne, ezért megpróbálják hatékonyan kezelni az ügyet és a többi hatósággal együttmûködve példát statuálni.
+
+A hatóság önmaga kevésnek bizonyul
+
+Márton szerint ugyanakkor a spam és az abban foglalt megtévesztõ hirdetések ellen a hatóság csak a nyilvánosság bevonásával tud érdemben harcolni (szaksajtó, általános sajtó, blogok). Ezúttal az ügyhöz csatlakozott a Mobil Marketing Szövetség is, hiszen számukra is kellemetlen dolog, hogy az általuk legálisan, etikusan használt emeltdíjas SMS-üzenetet, teljesen befeketíti az a néhány csaló, aki visszaélésekre használja ezt az eszközt.
+
+Csábító átverés 
+
+Igazi eredmény akkor lenne, ha szakhatóság mellett a további szervek is megmozdulnának, legyen szó akár az APEH-rõl, GVH-ról vagy a Nemzeti Nyomozóirodáról. A HWSW által megkérdezett szakértõk szerint a lassú víz partot most hatás érvényesül, ugyanis a fent említett szervezetek nagyon lassan indulnak el, de ha mégis sikerül, akkor könnyedén elsöpörhetik a néhány ügyeskedõbõl álló bûnszövetkezeteket.
+
+A hivatalos utak viszont annyival lassabbak, hogy a kutakodást hobbiból végzõ Spamwiki aktivistái máris elõrébb járnak: Sipos Zoltántól megtudtuk, hogy a fenti kampányokban az elõzõ hónapok nagyvolumenû kéretlenlevél áradatához hasonlóan a Vodafone Magyarország ZRt. internetkapcsolatait használó számítógépekrõl érkeztek a levelek, az IP-route pedig a Szervernet Kft-nél zajlik. A használt 06-90-es telefonszám mindkét kampány és mindkét oldalcsoport esetén megegyezik, ami egyértelmûen azonos elkövetõre utal.
+
+Osztott felelõsség?
+
+Az emeltdíjas telefonszámtartományok minden esetben valamely telekommunikációs szolgáltatóhoz tartoznak, amit õk idõszakosan vagy állandó szerzõdés alapján továbbértékesíthetnek. Ez esetben a telefonszám az NHH oldalán lévõ keresõben található információk alapján a Magyar Telekom kezelésében van. Felmerül a kérdés, hogy a szolgáltatást nyújtó cégnek van-e felelõssége ebben az esetben, hiszen itt a Magyar Telekom nem csupán bûncselekményhez asszisztál, de a bevételmegosztás révén profitot realizál illegális ügyletekbõl. 
+
+
+ Ugyanez a dilemma több mint egy évtizede fennáll a tartalomszolgáltatók és az internetszolgáltatók esetében is: felelõs-e a szolgáltató a szolgáltatásának segítségével elkövetett jogsértésekért? Egyszerûbben fogalmazva felelõs-e a háztartási bolt azért, ha egy általa eladott késsel ölnek? Az SMS-szolgáltató ha nem is vonható felelõsségre egyértelmûen, legalább arra meg lehet kérni, hogy lépjen fel az ilyen ügyfelekkel szemben.
+
+[+] Magyar netre magyar spamet!
+
+Továbbá érdekes kérdés, hogy a hatóságok képesek-e utánajárni, hogy egy adott telefonszám mögött valójában milyen jogi vagy természetes személyek állnak. A szerkesztõségünk által megkérdezett szakértõk véleménye szerint kicsi az esély, ugyanis a telekommunikációs szolgáltatótól a közvetlen szerzõdõ felet is nehéz kikérni, de mögötte még több lépcsõben kellene felgöngyölíteni az összefonódásokat. A szolgáltató és a valós megrendelõ között minden esetben egy vagy több úgynevezett aggregátor cég áll, amiken a hatóságok többnyire képtelenek túljutni.
+
+Senkit nem érdekel, pedig mindenkit érint
+
+Sipos szerint azon túl, hogy az ASVA-t érdekelheti az akció az illegális audiovizuális tartalmak miatt, fontosabb, hogy az APEH is utánajárhatna, hogy egy évente feltételezhetõen százmilliós nagyságrendû bevételeket realizáló "vállalkozás" hogyan mûködik. Ezen kívül a rendõrség is érdekelt kellene legyen, hisz a spamküldést is megtiltó, többször módosított 2001. évi CVIII. törvény 300/C paragrafusa tiltja a védett számítástechnikai rendszerekbe történõ jogosulatlan belépést. A kiskapuk.net kampányban pedig éppen erre alkalmas szoftvereket kínálnak, ráadásul anyagi ellenszolgáltatásért cserébe, az üzletszerûség pedig minden esetben súlyosbító körülmény.
+
+Átláthatatlan 
+
+
+1B Telekom - Online technologies szakítás
+
+
+[Spamwiki - Karaka 2008.11.05.] "Az 1B Telekom Kft-tõl származó információk szerint a spamelésben súlyosan érintett 87.229.116.0-255 hálózatukat nem õk használták, hanem az Online Technologies Kft.-nek adták bérbe.
+Az 1B Telekom-nál lefolytatott 2008. októberi rendõrségi akció után a cégvezetõ tájékoztatta a Spamwiki-t, hogy szakított a céggel, melynek korábban e hálózatot bérbe adta, azóta egyáltalán nem érkezik újabb spam ebbõl a hálózatból. Röviddel a szakítás után -- a WHOIS adatbázisok tanúsága szerint -- új szereplõ tûnt fel a hazai warezspam piacon: az Online Technologies Kft.! Az Online Technologies ügyfelei korábban az 1B Telekom-tól bérelt hálózatot használták spamelésre, azonban a szerverlefoglalások után szakításra került sor, miután saját neve alatt folytatja ügyfelei kiszolgálását."
+
+
+Sipos Zoltán a HWSW-nek azt nyilatkozta, hogy gyanúja szerint az oldalon 7x250 forintba kerülõ emeltdíjas üzenetért cserébe az elõfizetõk nem kapnak a fent leírt dolgokra képes programot, ami pedig a csalás bûntettét valósítja meg. A letölthetõ szoftverek valószínûleg egyszerû jelszóvisszafejtõ programok, melyek a böngészõben tárolt jelszavakat képesek megfejteni.
+
+A hatóságok valószínûleg hosszú ideig elmajszolgatnak minden egyes ilyen esetet, ezért van kiemelt szerepe a Márton György által is említett nyilvánosságnak, a civil kezdeményezéseknek, minden online felületnek és médiamegjelenésnek, ami a laikusokat is eléri. Sipos Zoltán szerint "a HWSW-n korábban megjelent cikk és a Spamwiki "Pellengér" rovatának köszönhetõ például az is, hogy az 1B Telekom Kft. megszakította a kapcsolatot az internetszolgáltatást spamküldésre használó ügyfelével". A Spamwiki által kritizált Online Technologies Kft.-nek a hálózatából viszont a spamellenes aktivisták megfigyelései alapján máris pótlódott a korábbi reklámlevél mennyiség, bár ennek tényét egyelõre a hatóságok még nem erõsítették meg.
+
+Helyreigazítás: a téves az az állítás, hogy az 1B Telekom Kft. és az Online Technologies Kft. megszakította egymással a kapcsolatot. A valóság az, hogy az Online Technologies Kft.-nek a mai napig élõ szerzõdése van a szóban forgó IP-címtartományra az 1B Telekommal, továbbá a két cég folyamatos, széleskörû üzleti kapcsolatban áll.
+
+Petróczi Levente, az Online Technologies Kft. ügyvezetõ igazgatója arról tájákoztatta szerkesztõségünket, hogy "az Online Technologies Kft. egy 2 éve mûködõ, több száz ügyfél bizalmát élvezõ, kizárólag legális - szerverhoszting és egyéb kapcsolódó - szolgáltatások nyújtásával foglalkozó cég", és nincs kapcsolata a cikkben tárgyalt tevékenységgel.
+
+Az érintettektõl és az olvasóinktól ezúton szeretnénk elnézést kérni.

@@ -1,0 +1,16 @@
+Már a WPA-val védett Wi-Fi hálózatok sem biztonságosak?
+
+Biztonsági szakértõk a jövõ heti PacSec konferencián fogják bemutatni azt a módszert, amivel részben feltörték a Wi-Fi hálózatok titkosítására szolgáló WPA (Wi-Fi Protected Access) protokollt.
+
+
+
+Erik Tews és Martin Beck módszere a TKIP (Temporal Key Integrity Protocol) feltörésén alapul. Errõl protokollról már jó ideje tudni lehetett, hogy feltörhetõ, azonban korábban a biztonsági szakértõk azt hitték, hogy a 128 bites RC4 titkosítással védett kulcs megtalálásához a szótármódszerre, vagyis sokféle, de értelmes, vagyis egy szótárban valószínûleg szereplõ kulcsszó végigpróbálására van szükség, ami záros idõn belül csak aránytalanul nagy erõforrással valósítható meg. A most felfedezett eljárás azonban nem a szótár-módszeren alapul.
+
+Tews és Beck rájöttek, hogyan tudnak egy WPA protokollt használó routerbõl nagy mennyiségû forgalmat a saját gépükre irányítani: minél több titkosított adat áll a kódtörõk rendelkezésére, annál hamarabb találják meg a kulcsot. Maga a kódtörés egyébként egy új matemetikai módszeren alapul, ami lehetõvé teszi, hogy a korábbi módszereknél sokkal gyorsabban, mindössze pár perc alatt célt érjenek. Tews és Beck szerint mindössze negyed órára van szükségük ahhoz, hogy a Wi-Fi routertõl egy adott PC felé küldött forgalmat teljes egészében le tudjanak hallgatni, illetve arra is képesek a WPA feltörésével, hogy ezt a forgalmat meghamisítsák.
+
+
+ A vezeték nélküli hálózatok védelmére használt WEP (Wired Equivalent Privacy) viszonylag gyorsan "elesett", hackerek elég hamar rámutattak az algoritmus gyengeségére, ezért ma már a szakértõk nem is tekintik biztonságosnak a WEP-et. Úgy tûnik, a 2002-ben elfogadott WPA szabvány is a WEP sorsára jutott, így a 2004 óta létezõ WPA2 most az egyetlen biztonságos "menedék", ezen még nem sikerült fogást találni. A Tews és Beck által kidolgozott támadás sem mûködik WPA2 protokollt használó vezeték nélküli hálózatokon.
+
+Az RSA által nemrégiben elvégzett felmérés szerint a WPA ma már leváltotta a WEP-et és a legtöbb Wi-Fi hálózatot már ellátták ilyen védelemmel. Párizsban a nyilvánosan megtalált vezeték nélküli hálózatok közel háromnegyedét védte WPA, Londonban 48 százalék, New Yorkban pedig 49 százalék volt az arányuk. Az üzleti felhasználóknak szintén egyre nagyobb hányada védi vállalati vezeték nélküli hálózatát WPA vagy WPA2 titkosítással.
+
+A ma kapható és jelenleg használatban levõ Wi-Fi eszközök lényegében kivétel nélkül képesek a WPA2 használatára, így minden körülmények között ajánlott ennek bekapcsolása, illetve alkalmazása.

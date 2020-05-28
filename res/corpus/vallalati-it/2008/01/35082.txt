@@ -1,0 +1,20 @@
+Egy elemzõcég szerint az Open XML és az ODF csatája politikai és nem mûszaki síkon zajlik
+
+Az Open Document Format fájformátum terjedése mögötti legfõbb hajtóerõ nem a mûszaki vagy technológiai elõnyökbõl fakad, hanem a Microsoft-ellenességbõl -- állítja a Burton Group jelentése. A jelentés nem a Microsoft megbízásából készült és nem is a redmondiak szponzorálták -- bár az egyik szerzõje egy Open XML konferencia elõadója lesz.
+
+
+
+Az OOXML lesz a nyerõ
+
+A Burton Group azt állítja, az Office Open XML lesz a nyertese a formátumháborúnak, és bár az ODF is életben marad, kisebb lesz a piaci szerepe, ami több okra vezethetõ vissza. Az elsõ és talán legfontosabb, hogy az Office Open XML-t úgy tervezték meg, hogy maradtéktalanul kompatibilis legyen a korábbi Office-formátumokkal, ami nem mondható el az ODF-rõl, amelyet még csiszolni kellene ahhoz, hogy a régi dokumentumok problémamentesen konvertálhatóak legyenek.
+
+
+Az elemzõk úgy vélik, a Microsoft láthatóan komoly erõforrásokat állít az Office Open XML mögé, ami meg fogja hozni a gyümölcsét, az ODF támogatóinak nagy bánatára. Igaz, hogy az ODF mögött több támogató sorakozott fel, azonban a formátum sikere elsõsorban az OpenOffice.org-tól függ, ami viszont még mindig erõs Sun-befolyás alatt áll. Egyes vélekedések szerint az ODF-et támogató cégek nem feltétlenül a formátum sikerére hajtanak, hanem a Microsoft Office pozícióit akarják gyengítani, és ehhez használják fel az ODF-et.
+
+Az OOXML kritikusai szerint a formátum túl bonyolult, a Burton Group szerint azonban ez csak ritkán okoz problémát, ugyanis a legtöbb esetben a képességeinek csak töredékét használják majd ki. "Az alkalmazásfejlesztõk csak nagyon kis hányadának lesz szüksége arra, hogy kívülrõl-belülrõl ismerje az Open XML-t, ugyanúgy, ahogy csak kevesen ismerik tövirõl-hegyire a PostScriptet vagy a PDF-et" -- írja a Burton Group. Igaz, hogy az ODF letisztult és egyszerû, viszont csak egy részét fedi le azoknak a funkcióknak, amelyekre a vállalatok ma az irodai szoftvereket használják.
+
+Sokan biztosra veszik, hogy az ODF ki fogja szorítani az OOXML-t azokon a területeken, ahol a költség a legfontosabb szempont, a Burton Group szerint  azonban nem szabad elfeledkezni arról, hogy a Microsoftnak hatalmas mozgástere van az árazásnál, jelentõs kedvezményeket adhat annak érdekében, hogy a szervezetek az Office-nál és végsõ soron az Open XML-nél maradjanak. Fõleg a közigazgatásban merült fel az utóbbi idõben sokszor, hogy az ISO-szabványos ODF legyen a dokumentumcsere alapformátuma, azonban ha az OOXML is szabvánnyá emelkedik, az ODF ezen elõnye egy pillanat alatt elvész.
+
+Beszorítva
+
+Marino Marcich, az ODF Alliance ügyvezetõje szerint az Open XML továbbra is egyetlen szállítóhoz köthetõ, és azok a cégek, amelyek ezt választják, be lesznek szorítva a Microsoft-világba, ezzel szemben az ODF-et már több mint 40 alkalmazás támogatja, az online tárolt dokumentumok között pedig nyolcvanszoros az ODF fölénye az OOXML-lel szemben. A Burton Group szerint azonban az online szolgáltatások fejlesztõi sem mehentek majd el szó nélkül az OOXML mellett és elõbb-utóbb a webes alkalmazások is támogatni fogják azt az ODF mellett, a nem szerkeszthetõ dokumentumok terén pedig a PDF látszik befutónak.

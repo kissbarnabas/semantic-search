@@ -1,0 +1,16 @@
+Egyre többen ábrándulnak ki az Internet Explorerbõl
+
+Januárban rekordmélységbe ért az Internet Explorer webböngészõ piaci részesedése, miközben a böngészõ legnagyobb konkurensei, élükön a a Firefoxszal, a Safarival és a legfiatalabb riválissal, a Chrome-mal, mind több teret nyernek maguknak -- derül ki a Net Applications havi jelentésébõl, melyet több tízezer weboldal látogatói statisztikáiból nyernek. Az elmúlt három hónapban leginkább az Apple böngészõjének, a Safarinak állt a zászló: a program novembertõl januárig rendre megelõzte a Firefoxot a növekedés ütemét tekintve.
+
+
+
+Mindössze 67,5 százalékos részesedéssel zárta a januárt a böngészõk piacán a Microsoft Internet Explorer. A program piacrészesedése egy hónap alatt 0,6 százalékponttal esett vissza, a zakó az azt megelõzõ hónapokban ráadásul még súlyosabb volt: az Internet Explorer felhasználói tábora a felmérések szerint decemberben 1,6, novemberben 1,5 ponttal apadt. A Windows operációs rendszerek alapértelmezett böngészõje helyett az elmúlt egy évben egyre többen kerestek különbözõ alternatívákat, így az IE 12 hónap alatt nagyjából 8 százalékot veszített népszerûségébõl, csaknem annyit, mint az azt megelõzõ két évben összesen.
+
+Miközben a korábbi verziók folyamatosan visszaszorulnak, a Microsoft következõ generációs böngészõje, az Internet Explorer 8-as kiadása a tavaly augusztusi bétaváltozat megjelenése óta egyre több felhasználót vonz: az új változat januárra 0,92 százalékos részesedést ért el (ezzel máris túlszárnyalva a hosszú hónapok óta 0,7 százalék magasságában stagnáló Operát), mely pár nappal a kiadásra jelölt változat érkezése után 0,99 százalékra emelkedett.
+
+Az Internet Explorer piacvesztésébõl ezúttal is a népszerûbb alternatív böngészõk profitáltak, jóllehet az arányok kissé eltolódtak a megszokottakhoz képest. A legnépszerûbb ezek közül továbbra is a Mozilla Firefox, mely január végére rekord magasságba, 21,5 százalékra növelte piacrészesedését, igaz, egy hónap alatt mindössze 0,19 százalékponttal tudta bõvíteni felhasználói táborát, azaz a növekedési ütem a korábbiakhoz képest valamelyest lassult. A felmérés szerint a Firefoxot használók nagyjából 85 százaléka a böngészõ kurrens, 3.0-s verzióját használja.
+
+
+A novembertõl januárig tartó idõszakban az Apple Safari böngészõje vitte a pálmát: a program piacrészesedése 8,3 százalékot ért el, három hónap alatt pedig közel 1,7 százaléknyi felhasználót csábított át más platformokról. Közben lassan de biztosan menetel elõre a Google saját böngészõje, a Chrome is, mely második hónapja tartja magát 1 százalék feletti részesedésen. A keresõcég webböngészõjét januárban az internetezõk 1,12 százaléka használta, míg decemberben, amikor megjelent a program végleges változata, ugyanez a részesedési arány 1,04 százalék volt.
+
+A HWSW olvasóinak körében toronymagasan a Mozilla Firefox számít a legnépszerûbb böngészõnek csaknem 58 százalékos aránnyal (a program 3.0.x verzióját a Firefox-felhasználók 96 százaléka telepítette számítógépére), az Internet Explorer részesedése 30,6 százalék (ebbõl 3,7 az IE8 tesztváltozata), ezt követi messze leszakadva az Opera 5,6, a Chrome 3,4, majd a Safari 1,5 százalékos részaránnyal.

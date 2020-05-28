@@ -1,0 +1,20 @@
+Lézerrel lehallgathatóak a laptopok
+
+Házilag barkácsolt kémfelszerelés
+
+Egy 80 dolláros felszereléssel az Inverse Path kutatói képesek voltak egy irányított lézer segítségével 15-30 méter távolságból azonosítani, hogy a felhasználó mely billentyûket ütötte le noteszgépén. Mindössze vizuális rálátásra van szükség, s egy lézerfényt visszaverõ felületre, s indulhat is a kémkedés. Andrea Barisani, vezetõ biztonságtechnikai mérnök és Daniele Bianco, hardver hacker egy házilag készített lézermikrofont és egy fotodiódát használtak arra, hogy a billentyûk leütésekor keletkezõ vibrációt mérjék, a különbözõ leütések által generált spektrogram-rajzolatokat saját szoftverrrel elemezték.
+
+A betûk azonosítása után a kapott karaktersorozatokat egy szótárprogramon is átküldik, ami a lehetséges variációk közül megpróbálja kitalálni, hogy melyik szót ütötték be valójában. A betûfelismerésre használt "dynamic time warping" technológia nem újkeletû, hiszen a beszédfelismerés is többnyire a jelek hasonlóságának, különbözõségének mérésén és elemzésén alapszik. 
+
+Akár ablakon át is
+
+A lézeres technológia miatt a vizuális rálátás szükséges a "lehallgatáshoz", de a demonstrált módszer akár üvegfalon keresztül is mûködik, infravörös, tehát az emberi szem számára láthatatlan lézert használva pedig az áldozatnak sejtelme sem lesz arról, hogy kémkednek utána. A kitalálók szerint az egyetlen hatékony védekezés, ha valaki megváltoztatja a gépelési szokásait, testtartását, vagy szándékosan elgépel szavakat.
+
+
+A második kísérletben bemutatott módszer ellen viszont már a testtartás megváltoztatása sem nyújt védelmet, annak a módszernek a lényege ugyanis az volt, hogy a leütések PS/2-porton keresztül küldött jele észlelhetõ a gépen túl, az elektromos hálózatban is. Barisani szerint az információ gyakorlatilag a konnektoron keresztül szökik meg, s a megfelelõ eszközökkel mérhetõ marad a környezõ elektromos csatlakozóknál.
+
+A leütések a falban is tovább utaznak
+
+A kutatók egy digitális oszcilloszkópot és egy analóg-digitális átalakítót használtak, illetve egy szûrõtechnológiát, amivel izolálták az áldozat által keltett jeleket egyéb zajoktól. Az elsõ tesztre 5 napon keresztül készültek, s a bemutatón képesek voltak néhány különálló leütést rögzíteni, de szavakat és mondatokat még nem. Ennek ellenére ezt a szálat sem adják fel, s reményeik szerint hónapokon belül tökéletesítik a módszert és folyamatos szöveg lehallgatására is képessé válnak.
+
+A felhasználhatóság terén az elsõ ötlet nyilván az, hogy szomszédos helyiségekben lévõ gépeket lehessen lehallgatni, a kutatók szerint akár bankautomaták is megfigyelhetõk így, amennyiben PS/2-es billentyûzetet használnak. Szerencsére ez a támadás biztosan mûködésképtelen noteszgépek és USB-s billentyûzetek ellen, ami megnyugtató. Az viszont kevésbé, hogy mindkét bemutatott módszer minimális anyagi ráfordítást igényel, tehát ha egy ilyen módszert tökéletesít valaki, akkor könnyedén elterjedhet.

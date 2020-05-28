@@ -1,0 +1,22 @@
+Tömegcikké válnak az x86-szerverek
+
+A globális szerverpiac a második negyedévben 13,9 milliárd dollárt tett ki, ami éves szinten 6,4 százalékos bõvülésnek felel meg. A leszállított gépek száma eközben 11,1 százalékkal növekedett -- adta hírül az IDC piackutató cég.
+
+
+
+Tömegcikké váló x86-os szerverek
+
+Az IDC szerint a legnagyobb bevételnövekedés a csúcskategóriás kiszolgálók szegmensében volt tapasztalható, az eladások 22 százalékkal nõttek, a középkategóriában 1,5 százalékkal, a volumenszerverek kategóriájában pedig 2,1 százalékkal. 2006 vége óta nem volt arra példa, hogy a volumenszerverek a piaci átlag alatti forgalomnövekedést produkáljanak, ez most az elképesztõ árverseny miatt lehetett így. Emellett az is fontos szerepet játszik, hogy a többmagos processzorokkal szerelt gépek teljesítménye egyre nagyobb, a cégek kisebb konfigurációkkal is beérik. A konszolidációs projektek a nagyobb rendszerek felé terelik a vásárlásokat, ahogy a felhasználók felismerik, hogy a felsõ kategóriás, nagyobb kapacitású gépekkel sok kisebbet válthatnak ki hatékonyan.
+
+Az x86-os szerverek bevételnövekedése közel hat éve nem volt ilyen kicsi, csupán 3 százalék, ezzel a forgalom 7 milliárd dollárt tett ki. A leszállított gépek darabszáma 12 százalékkal 2 millió darabra nõtt, ami rendkívüli árnyomást jelez -- az átlagos eladási árak 8,4 százalékkal csökkentek az IDC szerint. A legalsó kategóriás 1-2 foglalatos x86-szerverek ma már a tömegcikkek kategóriájába esnek, ebben a szegmensben volt a legnagyobb az árverseny. További árcsökkentõ tényezõ, hogy számos vállalat kínálatában bukkantak fel kimondottan nagytömegû alkalmazásra optimalizált, a végletekig lecsupaszított konfigurációk.
+
+
+ A blade-ek terjedése is árletörõ hatású, hiszen ezek a gépek kivitelük miatt jóval olcsóbbak lehetnek egy hasonló rack- vagy toronyszervernél. A második negyedévben 40,8 százalékkal 1,2 milliárd dollárra nõtt a blade-ek (x86, EPIC, RISC) forgalma, amivel a teljes piac 8,8 százalékát teték ki. A legnagyobb blade-szállító a HP volt 53 százalékos részesedéssel, a második IBM-nek 24,8 százalék jutott. Az IDC felmérése szerint a Dell és a Sun is erõteljes növekedést ért el ebben a szegmensben. 
+
+A windowsos kiszolgálók forgalma 1,7 százalékos növekedéssel 5,1 milliárd dollárra nõtt, a teljes piac 36,5 százalékát adva. A UNIX-szerverek forgalma éves szinten 7,7 százalékkal 4,6 milliárd dollárra emelkedett, fõképp a felsõ kategóriás konfigurációk fogytak jól. A linuxos kiszolgálók értékesítésébõl származó bevétel 10 százalékkal 1,9 milliárd dollárra bõvült, ezzel a linuxos gépek adták a teljes szerverpiac több mint 13 százalékát -- egy éve még csak 9,4 százalék volt az arányuk. Az idén tavasszal frissített IBM System z mainframe-ek népszerûségének köszönhetõen a szegmens 31,7 százalékos növekedést és 1,6 milliárdos bevételt ért el. A z/OS-t futtató szerverek a teljes piac 11,8 százalékát adták.
+
+Az IBM maradt az élen, a legnagyobbat a Dell nõtte
+
+A gyártók versenyét az IBM nyerte, a Nagy Kék bevételarányos részesedése 33,2 százalék volt a második negyedévben, a piaci átlagnál kétszer nagyobb, 13,8 százalékos forgalomnövekedés fõleg a System z és System p szervereknek köszönhetõ. A második helyen álló HP viszont csak a piaci átlag felével növelte forgalmát, részesedése így 27,4 százalékra apadt. A nagy gyártók közül a Dell érte el a legnagyobb, 14,1 százalékos növekedést, ezzel piaci részesedése közel 1 százalékponttal erõsödött. A negyedik helyen álló Sun Microsystems szerverértékesítésbõl származó forgalma 7,2 százalékkal csökkent.
+
+A rivális Gartner pár napja hozta nyilvánosságra második negyedévre vonatkozó szerverpiaci jelentését. A tanulmány hasonló következtetésekre jutott, az x86-os szegmens erõteljes volumennövekedést produkált, emellett kiemelkedõ volt a felsõ kategóriás kiszolgálók iránti kereslet volt. A Gartner adatai szerint is a Dell produkálta a legnagyobb növekedést, a Sun forgalma pedig látványosan visszaesett.

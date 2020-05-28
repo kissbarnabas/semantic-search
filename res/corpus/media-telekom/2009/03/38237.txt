@@ -1,0 +1,44 @@
+A T-Mobile vezeti a mobilinternet-versenyt
+
+Hosszú ideje vár a telekommunikációs szakma pontos adatokra a hazai mobilinternet-elõfizetésekkel kapcsolatban. A Nemzeti Hírközlési Hatóság (NHH) jó ideje ígérte, s a mai napon közzé is tette elsõ havi mobilnet-gyorsjelentését. A számok nem megdöbbentõek, aki figyelemmel kísérte a kapcsolódó híreket, azok számára szinte papírforma az eredmény.
+
+
+
+Pontos definíciók
+
+A mostantól havonta megjelenõ NHH mobilinternet gyorsjelentés nem tartalmaz túlzottan sok adatot, de a legfontosabb mérõszámokat és részarányokat jól lehet követni. A legfontosabb adat a mobilinternet-elõfizetõk száma, mely szolgáltatónként lebontva érhetõ el. A megállapodás értelmében mobilinternet-elõfizetõnek az olyan SIM-kártyák számítanak, melyhekez havidíjas adatcsomag tartozik legalább 10 megabájt forgalmi kerettel, s emellett az elmúlt három hónapban legalább 1 kilobájt adatforgalmat generált. 
+
+ 
+
+A jelentés vizsgálja a sebesség és az ellátottság kérdését is. Mindhárom szolgáltató szabadon választott három technológiához kapcsolódó garantált le- és feltöltési sebességet adhat meg. Így összehasonlíthatóvá válnak az azonos technológiára tett sebességvállalások, illetve a földrajzi és a lakosságszám szerinti ellátottságra is fény derül. Ez utóbbit a kültéri földrajzi lefedettség, illetve a beltéri, lakossági ellátottság százalékos számai mutatják. 
+
+Lássuk a számokat!
+
+Az elõfizetések számában nem meglepõ módon megmaradt a hangcsomagok szerinti sorrend a három szolgáltató között, tehát januárban a legtöbb elõfizetõt a T-Mobile tudhatja magáénak, 221 ezer ügyféllel (52,80%), a második a Pannon 106 ezer elõfizetéssel (25,16%), míg a harmadik helyen alig lemaradva a Vodafone 95 ezer SIM-kártyával (22,04%). A decemberi adatokkal összehasonlítva egyedül a Vodafone veszített piacrészt, ami feltételezhetõen csak az új ügyfelek vonzásában való gyengülést jelzi. 
+
+ 
+
+A garantált sebességekkel kapcsolatban a jelentésben mindhárom szolgáltató óvatos adatokat közölt, a fenti táblázaton is látható számok egyértelmûen biztonsági, a technológiák által bármikor biztosítható értékek. Figyelemreméltó ugyanakkor a Pannon EDGE hálózata, mely közel teljes lakossági lefedettség mellett biztosít olyan sebességet, mint amit egyébként a 3G kapcsán is emlegetnek a szolgáltatók. Ugyanakkor a T-Mobile-tól a HWSW megtudta, hogy március elsejétõl változtattak a felhasználási feltételeken és a továbbiakban a szolgáltató 2 Mpbs letöltési és 1 Mbps feltöltési sebességet garantál az elõfizetõknek (az esetek 80 százalékában). A késõbbiekben a gyorsjelentésben is ezek a számok szerepelnek majd. 
+
+A Vodafone begyûjtötte a warezkirályokat
+
+Az elõfizetõk számán túl a három szolgáltató közreadja a mobilnetezõk által forgalmazott adatok mennyiségét is. Itt decemberben még a Vodafone volt az elsõ 273 terabájttal, a T-Mobile a második 221 terabájtttal, a Pannon ügyfelei messze lemaradva mindössze 157 terabájtot forgalmaztak összesen. Januárra viszont a Pannon és a T-Mobile nagyot ugrott, miközben a Vodafone esetében csak csekély növekedés látszik. 
+
+ 
+
+Az adatforgalommal kapcsolatos számok könnyen magyarázhatóak azzal, hogy a Vodafone elsõként hirdetett korlátlan csomagot (melyet mára már megzabolázott), ezzel elcsábítva a heavy usereket, akik feltételezhetõen havi több tíz gigabájtos forgalmat generáltak. A T-Mobile éppen tavaly év végén vezette be a korlátlan adatopciót, amit januárra kezdtek el kihasználni az ügyfelek, így lehetséges, hogy minimális elõfizetõszám-növekedés mellett 71 terabájttal több adatot továbbítottak egy hónap alatt. 
+
+
+ Úgy tûnik, a Vodafone számára viszont a korlátlan csomag harsogó marketingje mégsem hozott jelentõs elõfizetõi bázist, mindössze az intenzív felhasználókat sikerült elcsábítaniuk, akik esetenként egymaguk képesek egy bázisállomást leterhelni, miközben ugyanúgy havi 5-6 ezer forintot fizetnek, mint a többiek -- derült ki a sajtótájékoztató beszélgetésekbõl. 
+
+Tendenciák
+
+A Pannon továbbra is tartja az átlagos szolgáltató imázsát, ami leginkább a felhasználónkénti adatforgalmat mutató grafikonból látszik. Míg a Vodafone ügyfelek átlagosan 3 gigabájt adatot forgalmaztak havonta, a T-Mobile-nál 1,32-t, a Pannon-felhasználók pedig 1,71-et, ami tizedre megegyezik a három szolgáltató súlyozott átlagával, ami 1,79 gigabájt. A kéthavi számokból tisztán látszik, hogy a Vodafone esetében a forgalmazott adatok mennyisége stagnál, míg a T-Mobile-nál, szintén a korlátlan opciónak köszönhetõen dinamikusan nõ. 
+
+ 
+
+Mobilszolgáltatók és a MATRIX
+
+ Ehhez hasonló összehasonlítás elkészítésére már korábban is történt a három szolgáltató résztvételével kísérlet, de a moderátor nélküli egyeztetések kudarcba fulladtak, ezért volt szükség egy miniszteri kinevezéssel rendelkezõ, külsõ partnerre, akik közös nevezõre hozták a három szereplõt. A MATRIX Kft. mind a T-Mobile, mind a Vodafone, mind a Pannon képviselõivel kapcsolatban állt, minden információ rajta keresztül áramlott. A jelentés elkészültéhez az elsõ lépés a fogalmak definiálása, a mérések alapjaiban való megállapodás volt, majd ez után lehetett adatokat gyûjteni. A tárgyalások során minden döntés konszenzusos volt, tehát bármelyik félnek fenntartása volt valamivel kapcsolatban, akkor tovább tárgyaltak. 
+
+A fél éves elõkészület után elsõként decemberre állt össze adathalmaz, illetve rögtön egy januári mérés is nyilvánosságra került, így azonnal tendenciákat is lehet vizsgálni. A felmérés érdekessége, hogy maguk a szolgáltatók is meglepõdtek, ugyanis az egyeztetések során a MATRIX bizalmasan kezelte az adatokat, s minden szolgáltató csak saját számait ismerte. 

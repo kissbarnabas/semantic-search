@@ -1,0 +1,16 @@
+Elõdjénél sokkal tovább mûködik akkumulátorról a Toshiba Portégé R600
+
+Talán az egyik legvitatottabb noteszgép-design a Toshiba tavaly bemutatkozott Portégé R500-as modellje, mely leginkább a különösen könnyû szerkezetével hívta fel magára a figyelmet. Az utódra mostanáig kellett várni -- a design alig változott, a mérnökök egyedül a gép belsõ felépítését módosították az újabb Centrino 2 platformnak megfelelõen.
+
+
+
+Bemutatkozott a világ egyik legkönnyebb hordozható számítógépének, a Toshiba Portégé R500-nak az utódja, ami külsõ felépítését tekintve mit sem különbözik az elõdtõl. A Portégé R600 így továbbra is arcátlanul könnyû, tömege optikai meghajtóval együtt is alig 1,1 kilogramm, vastagsága pedig maximum 2 centiméter. A Toshiba ígérete szerint a Portégé R600 kifejezetten ellenálló és stabil házat kapott, ami az elõd anyagválasztásából ítélve kimondottan elõnyére szolgálhat majd a gépnek.
+
+
+A noteszgép LED-háttérvilágítású, 1280x800 pixeles felbontású panelje transzflektív, vagyis napfénynél is olvasható marad, mikor a háttérvilágításra nincs is szükség, spórolva az akkumulátorral. A kijelzõt az Intel GS45 lapkakészletébe integrált grafikus feldolgozóegység hajtja meg.
+
+
+
+A legfrissebb, Montevina kódnevû Centrino 2 platformra épülõ Portégé R600-ba az Intel ultraalacsony feszültségû, energiatakarékos Core 2 Duo SU9300 és SU9400-as processzorai kerülnek, maximum 5 gigabájt memória társaságában. A háttértároló vagy 160 gigabájtos merevlemez, vagy 128 gigabájtos SSD lehet. A kommunikációs rendszer gerincét a szokásos 802.11n-kompatibilis WLAN és egy Bluetooth 2.1-es kommunikációs modul nyújtja.
+
+A Toshiba az energiatakarékos komponenseknek hála kilencórás akkumulátoros üzemidõt ígér azzal az 58 Wh-s, hatcellás akkumulátorral, mely az elõdöt csupán öt órán keresztül tartotta mûködésben -- egyértelmûen ez jelenti a legnagyobb elõrelépést az R500-hoz képest. A Toshiba Portégé R600 már kapható a tengerentúlon, a noteszgép induló ára 2099 dollár.

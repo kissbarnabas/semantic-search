@@ -1,0 +1,24 @@
+A Nokia új kezelõfelülete érintésérzékeny lesz
+
+A Nokia egyik vezetõ fejlesztõjének korábbi nyilatkozataival ellentétben mégis érintõképernyõs menükezeléssel bõvülhetnek a Nokia telefonjai is: az új kezelõfelület, az S60 Touch UI pontosan ezt a számos okostelefonokban már régóta alkalmazott és bevált megoldást hozza el.
+
+
+
+Elhatárolódás után támogatás
+
+A Nokia sokáig elhatárolódott az érintésérzékeny kijelzõpanelek alkalmazásától, megfosztva ezzel okostelefonjainak vásárlóit attól a kényelemtõl, amit az ilyen telefonok nyújtanak bizonyos esetekben használóinak. Pár éve a Nokia kijelentette, hogy a gyorsgombok segítségével mindent kényelmesen megvalósíthat a mobilos, amire nem cáfol rá a jelenlegi Series 60 változatok könnyed kezelhetõsége -- még akár webböngészés közben sem --, ennek ellenére most mégis alternatív adatbeviteli megoldás kerül az újdonságaiba.
+
+A gyártó N800-as, -- hagyományos telefonként nem használható -- internetterminálja Linux-alapú operációs rendszeren alkalmazza az érintõképernyõt, mint navigáló- illetve adatbeviteli perifériát. Való igaz, hogy a gombokat továbbra is használhatják azok, akiknek a készülékébe az érintésérzékeny megjelenítõ beépítésre kerül, ezért akiknek eddig nem hiányzott, ezután sem biztos, hogy terhükre lesz egy nem kihasznált lehetõség.
+
+
+A Nokia a közelmúltban adta hírül, hogy a Sony Ericssontól eltérõen nem fordul a windowsos világ felé, hanem a Series 60 kezelõfelülettel ellátott Symbian operációs rendszert vértezi fel e további adatbeviteli lehetõséggel. Az új kezelõfelület jelenleg a Series 60 Touch UI névre hallgat, jelezve, hogy benne a legnagyobb újítás az elõzõ változatokhoz képest épp a tollal, vagy ujjal vezérelhetõ menünavigáció lesz.
+
+
+
+Teljesen kompatibilis
+
+Az új kezelõfelület kompatibilis lesz az eddigi szoftverekkel, a régebbi vagy mai alkalmazások futtatásakor továbbra is használhatóak lesznek az azokat vezérlõ gombok, hiszen maga a szoftver nincs kiegészítve az érintésérzékeny navigácó kezelésével. Az S60 Touch UI ugyanakkor úgy készül, hogy az azt a jövõben használó mobiltelefon lehessen billentyûzettel felszerelt, vagy akár billentyûzet nélkül is megépíthetõ.
+
+A Series 60 kezelõfelülettel ellátott symbianos okostelefonok szoftverellátottságára nem lehet panasz, számtalan ingyenes-, illetve fizetõs alkalmazással tehetjük teljesebbé a készülékek alapszoftvereit. A Touch UI a meglévõ programok mellett új típusúak fejlesztéséhez is jó alap lesz, olyanokhoz, amelyek futtatása során az érintõképernyõs kezelés elengedhetetlen, illetve jóval kényelmesebben megvalósítható.
+
+Jelenleg az új kezelõfelület Barcelonában a Mobile World konferencián egy közönséges Tablet PC-n demózva látható, eddig nem készült el Touch UI-t alkalmazó, bemutatható állapotú prototípus. A Touch UI az érintésérzékeny adatbevitel mellett a nevében ugyan nem szereplõ mozgásérzékelõt is mélyebben integrálja, e két megoldás sokkal kezesebbé teheti az év közepétõl útjára induló modelleket.

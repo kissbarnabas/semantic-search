@@ -1,0 +1,25 @@
+Az Intel a processzorgyártáshoz szükséges jogok megvonásával fenyegeti az AMD-t
+
+Az Intel megtámadta az AMD átalakulását, azzal vádolva riválisát, hogy megsérti a két cég között nyolc éve köttetett keresztlicenc-szerzõdést. A chipgyártó óriás szerint az AMD-nek nincsen joga a Globalfoundriesnek továbbadni a licencet, ami egyet jelent azzal, hogy nem gyárthat x86-os processzorokat. Az Intel azt is állítja, az AMD és az Abu Dhabi-i tõkebefektetõk között megállapodás sérti a szerzõdés egyéb kitételeit is. 
+
+ Mindezek oda vezethetnek, figyelmeztet a cég, hogy az AMD 60 nap múlva elveszti a licenceket és ahhoz fûzõdõ jogait, ha nem tudnak megegyezésre jutni a felek, vagy a szerzõdésszegés állapota nem szûnik meg. Ez egyet jelentene processzorai forgalmazásának leállásával. Az AMD szerint az Intel vádjai alaptalanok, és saját szellemi tulajdonának megvonásával fenyeget. Az Intel szándékai mindenesetre nem világosak, iparági megfigyelõk szerint gyakorlatilag kizárt, hogy valóban meg akarná akadályozni  az AMD átalakulását, mely egyet jelentene a rivális csõdjével, és az Intel törvényileg aggályos monopóliummá válásával. A megállapodás értelmében a felek megpróbálnak megegyezésre jutni, és csak ezután következik az esetleges hosszadalmas bírósági pereskedés.
+
+
+
+Intel: az AMD trükközik
+
+Az Intel értesítette az AMD-t, hogy megsértette a két cég között 2001-ben létrejött keresztlicencelési megállapodást. Az Intel szerint ugyanis az AMD gyártási tevékenységét átvevõ, újonnan alapított Globalfoundries vegyesvállalat nem teljesíti azokat a feltételeket, melyekkel kvalifikálná magát a szerzõdés értelmében vett leányvállalatnak, így nincs joga használni a megállapodás által az AMD számára biztosított jogokat -- vagyis elvileg nem gyárthat x86-os processzorokat.
+
+A vállalat szerint az AMD a beleegyezése nélkül akarja kiterjeszteni a licenccel kapott jogait egy harmadik fél számára, amit nem engedhet meg. Ez ugyanis oda is vezethet, hogy a Globalfoundries akár más vállalatok számára is elõállíthatna x86-os processzorokat, amivel az Intel elveszítené a szellemi tulajdonához fûzõdõ kontrollt. Az Intel már tavaly októberben, napokkal az AMD kettéválasztásának bejelentését követõen jelezte aggályait az átalakulással kapcsolatban, azonban láthatóan azóta sem sikerült közös nevezõre jutnia riválisával. Az Intel többször kérte az AMD-t, hogy hozzák nyilvánosságra a két cég között köttetett keresztlicenc-megállapodást, ezt azonban az AMD visszautasította. 
+
+Globalfoundries: leány vagy nem leány? 
+
+Az AMD az Egyesült Államok Értékpapírpiac- és Tõzsdefelügyeletéhez benyújtott válaszában állítja, nem sértette meg a keresztlicenc-megállapodást, így az Intelnek semmiféle joga nincs ahhoz, hogy felbontsa azt. Ennek értelmében az ilyen irányú szándék megsérti a szerzõdést, így az Intel veszítheti el licenceit és jogait, míg az AMD megtarthatja azokat. Az AMD a HWSW-nek anonimitás alatt nyilatkozó egyik alkalmazottja úgy véli, a cég alaposan kiértékelte a licencelési megállapodást, és kizárt, hogy támadható legyen az AMD és a Globalfoundries jogi helyzete, hiszen attól a cég jövõje függ. Elképzelhetõ, hogy az Intel opportunista módon mindössze bizonytalanságot igyekszik kelteni az AMD körül, hiszen teljesen valószerûtlen, hogy bírói határozattal fel tudná függesztetni az AMD processzorforgalmazó tevékenységét.
+
+[+] Globalfoundries néven jelennek meg a piacon az AMD gyárai 
+
+Az Intel szerint az AMD álláspontja nem illik bele a megegyezési folyamatba, és szándékosan úgy tervezte meg a Globlafoundries keválasztását, hogy megkerülje a szerzõdésben foglalt kitételeket. Ezek kimondják, hogy a leválasztásra kerülõ, és a licencelés szempontjából releváns tevékenység eszközeinek legalább felét kell az AMD-nek biztosítania, legalább a szavazati jog 50 százalékával kell rendelkeznie, és legalább 30 százalékos üzletrészt kell birtokolnia, kivéve a részét az üzleti eredményekbõl. Az Intel szerint a Globalfoundries valójában egyik feltételt sem teljesíti, így például nem kalkulálja bele az eszközök bevitelébe azt, hogy jelentõs hiteltartozásokat is áttestált, csökkentve ezzel a hozzájárulás nettó végösszegét.
+
+Szétválaszthatatlan szabadalmak
+
+A két vállalat gyakorlatilag teljesen egymásra utalt a jelenlegi x86-os processzorok jogszerû gyártásában. Az Intel, mint az utasításarchitektúra megalkotója, számtalan érvényes szabadalommal rendelkezik, melyek elengedhetetlenek, így például a 32 bites x86 vagy az SSE vektorkiegészítések, míg az AMD a x86-os utasításkészlet 64 bites kiterjesztését dolgozta ki -- magában foglalva az SSE utasításokat, ezzel gyakorlatilag a szétválaszthatatlanná téve a két cég szellemi tõkéjét. A Globalfoundries leányvállalati státuszának vitatása miatt a processzortechnológiai szabadalmak és szellemi tulajdon mellett kétséges lehet annak a záradéknak a megítélése is, mely maximálja, az AMD processzorainak mekkora hányadát állíthatja elõ külsõ gyártó.

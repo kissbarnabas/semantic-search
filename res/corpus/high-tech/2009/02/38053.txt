@@ -1,0 +1,24 @@
+A vártnál jobban halad az Intel 32 nanométeres technológiájának bevezetése
+
+Elkészült elsõ 32 nanométeres csíkszélességû processzoraival az Intel, a vállalat a negyedik negyedévre ígéri a tömeggyártás beindítását. Paul Otellini, a vállalat elnök-vezérigazgatója egy washingtoni konferencián bejelentette, a vállalat 2009-ben és 2010-ben összesen 7 milliárd dollárt költ a 32 nanométeres technológia bevezetésére, ennek keretében a következõ két év során négy gyárban telepítik a legmodernebb berendezéseket.
+
+
+
+Nem lesz háromkapus tranzisztor
+
+A 32 nanométeres gyártástechnológia a 45 nanométeres eljárással megkezdett út egyenes folytatásának tekinthetõ. A P1268-nak nevezett eljárás az elõzõ generációnál bevezetett újdonságokat viszi tovább finomított formában. A kisebb csíkszélességnek köszönhetõen a 32 nanométeres eljárással gyártott lapkákon a tranzisztorok még kisebbek, kapuhosszuk mindössze 30 nanométer. A vékonyabb kapuoxidnak és a lecsökkent kapuhossznak köszönhetõen a tranzisztorok akár 22 százalékkal is gyorsabbak lehetnek. Az eddiginél kisebb struktúrák eredményeként a lineáris fizikai kicsinyítés 70 százalékos a 45 nanométeres eljáráshoz képest, aminek eredményeként ugyanaz az áramkör 32 nanométeres eljárással létrehozva nagyjából a 45 nanométeres kétharmadát teszi ki.
+
+[+] Elkészült az Intel 32 nanométeres chipgyártási technológiája 
+
+
+A HWSW kérdésére Mark Bohr, az Intel gyártástechnológiai fejlesztésekért felelõs vezetõje ugyanakkor elmondta, a 2006-ban bejelentette és 2009-re tervezett háromkapus tranzisztorstruktúrát egyelõre nem alkalmazza a cég, mivel még nem érte el a tömeggyártásra alkalmas állapotot. Bohr a 32 nanométeres chipgyártási eljárásban alkalmazott tranzisztortechnológiát a 45 nanométeres egyenes továbbfejlesztéseként jellemezte: a P1268 második generációs magas k együtthatójú szigetelõt és fémkapukat és negyedik generációs feszített szilíciumot használ. A 32 nanométeres tranzisztorok adott szivárgási szinten 14-22 százalékkal magasabb teljesítményt, vagy akár tizedére leszorított szivárgást kínálnak.
+
+Hétmilliárd dollárt költenek gyárfejlesztésre
+
+ Fontos újítás ugyanakkor, hogy a P1268 gyártási eljárásban az Intel a "kritikus rétegek" esetében immerziós litográfiát használ. A merítéses levilágításnak is nevezett eljárás során a szilíciumlemezen egy folyadékréteg -- nagy tisztaságú víz -- segít a fénysugár fókuszálásában és a minták rajzolásában. A többi réteg levilágításához a korábban jól bevált, 193 nanométeres hullámhosszúságú fénnyel dolgozó berendezéseket használja a chipgyártó. Az immerzió bevezetésével -- melyet az IBM-AMD már 45 nanométeren meglépett -- meghosszabbítható a 193 nanométeres fényforrások életciklusa, nincs szükség alacsonyabb hullámhosszúságú fénnyel dolgozó levilágítókra, melyek kifejlesztése és bevezetése csillagászati összegeket emésztene fel.
+
+2009-ben az Intel az oregoni D1D és D1C üzemében vezeti be a 32 nanométeres gyártástechnológiát, ezeket 2010-ben követi az arizonai Fab 32, illetve az új-mexikói Fab 11X konverziója. A fejlesztésekre, új berendezések megvásárlására és üzembe helyezésére összesen 7 milliárd dollárt költ a cég -- új technológia bevezetése soha ennyibe még nem került az Intelnek. A beruházásra szánt óriási összeg egyébként jól mutatja, mennyire megdrágult ma a félvezetõgyártás, és hogy az Intel ellenfelei miért kénytelenek szövetségekbe tömörülni annak érdekében, hogy tartani tudják a lépést.
+
+CPU és GPU egy tokban
+
+Az Intel egy San Franciscó-i rendezvényen be is mutatta 32 nanométeres csíkszélességû, Westmere kódnevû architektúrájának asztali és mobil verzióját. A cég azt ígéri, a negyedik negyedévben kezdi meg a tömeggyártást, a piaci megjelenés tehát 2010 elejére tehetõ. A Westmere-nek két olyan verziója is van, amely integrált grafikus magot tartalmaz, azonban ez nem a magon, hanem a tokon belül egy másik chipen kap helyet. Ezzel a cég lényegében beismerte, hogy 45 nanométeren már nem készülnek el a CPU-val integrált GPU-k, a 32 nanométeres generáció azonban az eredetileg tervezettnél hamarabb érkezik.

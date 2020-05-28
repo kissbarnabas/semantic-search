@@ -1,0 +1,12 @@
+Jogosultsági szint emelését teheti lehetõvé egy rés a Windowsban, figyelmeztet a Microsoft
+
+Biztonsági figyelmeztetést adott ki a Microsoft, hogy a Windows XP Professional SP2 és az azt követõ összes Windows változat egy sebezhetõség folytán lehetõvé teheti a folyamatok jogosultsági szintjének megemelését. A vállalat egyúttal közölte, hogy nem tud olyan támadásokról, melyek megpróbálnák kiaknázni a rést. A Microsoft egyelõre vizsgálja az esetet.
+
+
+
+A Microsoft közölte, hogy elemzi a nyilvánosságra került információk alapján, valóban lehetséges-e Windows operációs rendszereinek többségénél  jogosultsági szintet emelni, és ezzel növelni a rendszer sebezhetõségét a rosszindulatú kódokkal szemben. A figyelmeztetés szerint a NetworkService vagy a LocalService szinten futtatott specifikus kóddal más, azonos kontextusban futó folyamatokhoz is hozzáférést lehet nyerni, és ezek privilégiumemelési képességét kihasználva gyakorlatilag a saját kód futtatási szintjét is LocalSystemre lehet emelni.
+
+
+Az értesítõ szerint a Windows XP Professional SP2-tõl kezdve az összes támogatott Windows Server 2003, Vista és Server 2008 változat érintett lehet az ügyben. A rés több irányból is támadható, melyek lényege, hogy mind tetszõleges kódot engednek futtatni a felhasználó számára. A Microsoft szerint az IIS-ben (például ISAPI szûrõk, ASP .NET) vagy az SQL Serverben teljesen megbízható vagy adminisztrátori jogosultsággal lefuttatott kód kihasználhatja a sebezhetõséget -- amennyiben a felhasználóknak nem nyílik lehetõsége tetszõleges kód lefuttatására, vagy megbízhatósági szintjük alacsonyabb, úgy nem érintettek.
+
+Az IIS-en és SQL Serveren kívül a Microsoft szerint a Microsoft Distributed Transaction Coordinatort kihasználva is el lehet érni egy rosszindulatú folyamat privilégiumának emelését, ez a lehetõség ugyanakkor nem él Vista vagy Server 2008 platformokon. A Microsoft szerint a veszély elsõsorban a bekapcsolt IIS-sel vagy támadhatóan konfigurált SQL Serverrel rendelkezõ Windowsokat érinti, ami fõként webhosting környezetben lehet jellemzõ. A Microsoft biztonsági tanácsadója a sebezhetõség kiértékelésének lezárultáig és az esetlegesen szükséges biztonsági javítás megérkezéséig elhárító megoldásokat is javasol.

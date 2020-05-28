@@ -1,0 +1,9 @@
+Kompatibilitási hiba hátráltatja a Widows XP SP3 megjelenését
+
+[Computerworld/HWSW] Bár a Windows XP harmadik szervizcsomagja már jó ideje elkészült és szemfüles internetezõk már a Microsoft oldaláról is letölthetik, a szoftveróriás mégis a hivatalos kiadás elhalasztása mellett döntött, mivel az utolsó pillanatban kompatibilitási problémára bukkantak.
+
+
+
+Amint az kiderült, a Windows XP SP3 nem fér össze a Microsoft Dynamics Retail Management System alkalmazással, ezért a javítócsomag hivatalos kiadását átmenetileg elhalasztották. A redmondi cég most egy olyan szoftveren dolgozik, amelynek segítségével frissítéskor kiszûrhetõk a Dynamics Retail Management Systemet futtató gépek, így ezekre nem települ fel a Windows XP SP3. Amint ez a szûrõ elkészül, a javítócsomag hivatalosan is megjelenik, és elérhetõ lesz a Windows Update-en és a Microsoft Download Centeren keresztül.
+
+Az alkalmazás-inkompatibilitási problémát a Microsoft már elkezdte kijavítani, azonban egyelõre nem tudni, ez a folyamat mikor zárul le. A Microsoft egyelõre azt ajánlja a Dynamics Retail Management System felhasználóinak, hogy semmiképp se telepítsék a Windows XP SP3-at (és a Vista SP1-et se), további információért pedig forduljanak a cég terméktámogatási csapatához.

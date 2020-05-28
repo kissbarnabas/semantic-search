@@ -1,0 +1,11 @@
+Idén már openSUSE Linuxon is lehet érettségizni
+
+Az Oktatási Hivatal nemrég adta ki a 2009/2010-es tanévre vonatkozó érettségi szoftverlistát, amelyen az openSUSE Érettségi szoftvercsomag is szerepel a választható szoftverkörnyezetek között, ezzel az UHU Linux és a SuliX mellett harmadik nyílt forrású környezetként választható, természetesen Windows mellett.
+Az informatikai érettségin a vizsgázóknak szoftverkörnyezettõl függetlenül ugyanazokat a feladatokat kell megoldaniuk, a középszintû gyakorlati feladatsor például magában foglalja a szövegszerkesztést, táblázatkezelést, adatbázis-kezelést, weblapkészítést, prezentációkészítést és grafikát. Az emelt szint ehhez képest kiegészül algoritmizálással és adatmodellezéssel. A diákok windowsos vagy linuxos környezetben is megoldhatják a feladatokat, utóbbi esetben OpenOffice, Gimp, SeaMonkey, MySQL vagy PostgreSQL szoftverekkel, a programozási nyelvek és környezetek közül pedig gcc, Free Pascal vagy Java használható.
+
+"A nyílt forráskódú megoldásokat világszerte a legnagyobb vállalatok használják megbízhatóságuk és stabilitásuk miatt kritikus fontosságú alkalmazásaik futtatására. Számos európai hivatal pedig költségtakarékossági megfontolásból állította át Linuxra operációs rendszerét" - mondta Szittya Tamás, a Novell hazai vezére. "Az IDC független elemzõcég napokban publikált tanulmánya szerint a Linux operációs rendszerek forgalma 23,4 százalékkal növekedett tavalyhoz képest, és elõrejelzésük szerint további dinamikus növekedés várható. A hallgatók jövõbeni versenyképességének növelése érdekében tehát érdemes elsajátítani a linuxos megoldások ismeretét."
+Az informatika érettségi tantárgyra való jelentkezést követõen a  vizsgázóknak egy erre a célra összeállított dokumentumon kell  nyilatkozni arról, hogy a vizsgán az egyes szoftvercsoportokon belül egy  adott feladattípus megoldásához melyik szoftvert szeretnék használni,  itt lehet bejelölni a kiválasztott openSUSE Érettségi szoftvercsomagot, amely az Oktatási Hivatal weboldaláról ingyenesen letölthetõ mint a diákok, mint a tanárok, intézmények számára.	     
+                  
+                  
+                  
+                   

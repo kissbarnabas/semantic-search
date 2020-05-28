@@ -1,0 +1,16 @@
+Piacon a Sharp napelemes mobilja
+
+Japánban már kapható napelemes mobiltelefon, mégpedig a Sharp jóvoltából, áttörésrõl azonban továbbra sem beszélhetünk, a Solar Phone inkább menõ, mint praktikus. A Sharp SH002 Solar Phone a hónap elején bukkant fel a KDDI kínálatában, mely az ország második legnagyobb mobil operátora. A hagyományosan japános, vagyis hosszúkás, szögletes, kinyitható kivitelû készülék hátoldalán található a fotovoltaikus modul, mely a hátlap nagy részét elfoglalja. A töltési teljesítményt egy elektronikus papírcsík jelzi, mely négy fokozatot különböztet meg: nincs töltés, nincs napsütés, töltés és optimális töltés. Az elektronikus papír azt is jelzi, hogy alacsony akkumulátortöltöttség esetén hány percnyi beszélgetéssel rendelkezik még a telefon.
+A Nikkei Electronics tesztmérnökei vásároltak egy SH002 modellt, és letesztelték egy verõfényes napon. Természetesen sok múlik azon, hogy a napfény milyen szögben éri napelemet, és a nap milyen magasan jár, és a magazin is úgy találta, a készülék rendkívül érzékeny, milyen erõvel éri a napelemet a fény. A teszt során 40 perces töltést követõen sikerül 1 percnyi beszélgetéshez elegendõ energiát összeszedni, majd 60 percet követõen 3 perchez, és 85 perc kellett az ötperces jelzés felvillanásáig. Ez rosszabb a Sharp által megadott 1:10-hez aránynál, vagyis hogy 1 perc beszélgetéshez 10 perces napozás volna szükséges -- ez kétségtelenül egy optimális állapotot tükröz.
+
+
+
+A Sharp nem véletlenül próbálkozik, maga is a napelemek egyik legnagyobb gyártója, és májusban jelentette be az SH002-ben is használt, de más mobilkészülékek számára is ajánlott modulját, az LR0GC02 modellt, amelynek tömegtermelése heteken belül beindul havi 100 ezer darabos kapacitással, és kezdetben darabonkénti 5-6 ezer forintos listaárral. A napmodul vastagsága 0,8 milliméter, tömege 4 gramm, és tipikusan 300 milliwattot képes leadni négyzetméterenkénti 1000 wattos, merõleges szögben érkezõ besugárzási energia mellett, 25 Celsius fokos hõmérsékleten -- a mérsékelt égövben legfeljebb nyáron közelítheti meg ezt az értéket a napsütés ereje.
+
+Nem az elsõ próbálkozások
+A Sharp közel sem az elsõ vállalat, mely napelemes mobillal próbálkozik, sõt ami azt illeti, a Nokia már 12 évvel ezelõtt, 1997-ben piacra dobta a Nokia 1611-et, mely rendelhetõ volt napelemes akkumulátor opcióval is, NonStop néven. A koncepció azonban a fotovoltaikus technológiák alacsony hatékonysága miatt sosem lett széles körben sikeres. A legtöbb cella hatékonysága 20 százalék alatti, és a vékonyfilmes kialakítású celláké, mint amilyen a Sharp készülékében is alkalmazott, ennél is alacsonyabb.
+Az elmúlt években felerõsödött fogyasztói környezettudatosságot meglovagolva több világcég is megpróbál új rést ütni a mobiltelefonok rendkívül kompetitív piacán. A Samsung Electronics és az LG Electronics egyaránt bejelentettek napelemes készülékeket az idei Mobile World Congressen. A Samsung eggyel tovább vitte a koncepciót, és nem egyszerûen egy napelemmel felszerelt hagyományos készülék, hanem ízig-vérig "zöld", vagy inkább kék: a Blue Earth újrahasznosított ásványvizes palackokból kinyert mûanyagot használ, és lépésszámlálóval is rendelkezik, mely méri, mennyi széndioxid kibocsátástól kíméltük meg a légkört.	     
+                  
+                  
+                  
+                   

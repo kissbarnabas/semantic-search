@@ -1,0 +1,12 @@
+Fél terabájtos mobil merevlemezzel rukkolt elõ a Hitachi
+
+A Hitachi új, 500 gigabájtos, noteszgépekbe szánt 2,5 hüvelykes merevlemeze technikiai áttörések alkalmazása helyett trükkhöz folyamodott a 320 gigabájtos jelenlegi csúcstartók dobogóról történõ letaszításához.
+
+
+
+Az E5K500 tervezésekor a mérnökök apró csínyként egy tányérral -- és természetesen az ehhez tartozó további író-olvasó fejekkel -- többet pakoltak a burkolatba, amely segítségével elérhették a 180 gigabájtnyi többletet, így adatsûrûség terén nem számolhatunk be áttörésrõl. A további lemeztányér alkalmazása hátránnyal is jár, annak helyigénye a szabvány fölé emeli a meghajtó magasságát. A 9,5 milliméteres szabványos magasság további három milliméterrel növekedett, így a szûkös hellyel megáldott noteszgépek esetében szó sem lehet a meghajtó beépítésérõl, ami ugyanezért az USB-csatolóval ellátott külsõ keretek nagy többségébe sem építhetõ majd be.
+
+500 gigabájt több tányérral: Hitachi E5K500
+
+
+A noteszgép-gyártók közül az ASUS azonban kifejezetten e megajtó köré építi M50 és M70 típusjelzéssel ellátott noteszeit, amelyekbe az E5K500-ból akár kettõ is helyet kaphat, így elsõként érhetik el a mobil gépek között az egy terabájtos határt. A fejlett rázkódásvédelemmel (Rotational Vibration Safeguard) is ellátott E5K500 külön is megvásárolható lesz februártól, ára 400 dollár körül alakul majd, de a szabványtól eltérõ magassága miatt nagy valószínûséggel a noteszgép gyártók szerepelnek majd legnagyobb részt a megrendelõlapokon.

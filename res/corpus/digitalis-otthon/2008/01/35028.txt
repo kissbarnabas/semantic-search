@@ -1,0 +1,12 @@
+Tavasszal jön az elsõ javítás a Windows Home Serverhez
+
+A 64 bites Vista támogatásával, valamint mentési-visszaállítási funkciókkal bõvül az idén a Microsoft Windows Home Server, amelyhez tavasszal adják ki az elsõ javítócsomagot. A Microsoft szokásával ellentétben nem Service Packnek, hanem Power Packnek nevezi a frissítést, arra utalva, hogy abban jórészt új képességek és nem csak hibajavítások érkeznek, valamint ez a név a cég szerint sokkal dögösebb, jobban illik a Home Serverhez.
+
+
+
+A Power Pack 1-gyel érkezõ legfontosabb új képességek között a 64 bites Windows Vista támogatását említhetjük, illetve azt, hogy most már magát a szervert is le lehet menteni a beépített eszközök segítségével -- a Microsoft szerint az augusztusban piacra került Windows Home Server felhasználói ezt a két funkciót hiányolták a leginkább a termékbõl. Emellett finomítottak a jogosultságkezelésen, valamint lehetõvé tették egyszerre több fájl fel- és letöltését is.
+
+
+A Power Pack 1 telepítése után a Windows Home Server felhasználói számára beépített eszközök állnak rendelkezésre a szerver tartalmának elmentésére, beleértve magát az operációs rendszert is. A Windows Home Servert otthoni PC-k biztonsági mentésére ajánlja a Microsoft, azonban az elsõ változatban egyáltalán nem volt lehetõség a mentések mentésére, vagyis ha egy hardverhiba vagy más ok miatt a gép tönkrement, a felhasználók ott állhattak fontos adataik nélkül.
+
+Arról azonban nem ejtett szót a Microsoft, mikor javítja azt, a bizonyos esetekben adatvesztést okozó hibát, amelyre még karácsony elõtt derült fény. Az egyik termékmenedzser akkor azt mondta, a fejlesztõk éjt nappallá téve dolgoznak a javításon, de még mindig nem lehet tudni, mikor fog megjelenni. A felhasználóknak egyébként a frissítés miatt nem kell aggódniuk, mivel a Windows Home Server képes saját magát automatikusan frissíteni, így amikor a hibajavítás megjelenik, egybõl felkerül majd a gépekre, ha az automatikus frissítési szolgáltatás engedélyezve van.

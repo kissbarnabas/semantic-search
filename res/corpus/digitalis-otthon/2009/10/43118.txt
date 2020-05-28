@@ -1,0 +1,13 @@
+Részletek a Nikon projektoros fényképezõgépérõl
+
+A Nikon augusztus 9-én jelentkezett a  CoolPix S1000pj kompakt fényképezõgépével, mely elõször kínálja az elkészült fényképek és videók falra vetítésének lehetõségét. A parányi gépház nagyjából akkora, mint a gyártó többi, rejtett optikával szerelt kompaktja, tehát a beépített vetítõ által igényelt hely nem járt együtt a nagyobb mérettel. A mérnökök számára a kis méret elérése mellett a hõtermelés alacsonyan tartása volt a másik elérendõ cél, melyet sikeresen el is értek, a fényképezõ vetítõ üzemmódban sem melegszik 45 Celsius fok fölé.
+
+A 12 megapixeles, négyszeres zoomra alkalmas, rejtett optikával szerelt CoolPix S1000pj belterének középsõ részében található a vetítõ, ezért a burkolat két szélére szorultak a fényképezéssel kapcsolatos alkatrészek, így az optika és az akkumulátor gyakorlatilag a szokásos helyen maradhatott. Az alkalmazott vetítõmodul a Nikon saját fejlesztése, és felveszi a versenyt a már megvásárolható pikoprojektorokkal. A gyártó szerint a plusz lehetõség beépítése azért vált szükségessé, mert még a három hüvelykes kijelzõk is csak két-három ember számára teszik lehetõvé a képek, illetve a videók megtekintését, így az élmények megosztása több ember számára a fényképezõ segítségével csak akkor válhat igazán kényelmessé, ha azt egy, a gépházba épített projektor vetíti a burkolatnál nagyobb méretû képméretben. A Nikon egyébként nagyobb, akár tükörreflexes gépvázakba is beépítheti a vetítõt a késõbbiekben.
+A CoolPix S1000pj felépítése
+A Nikon által fejlesztett vetítõ fehér LED fényforrást alkalmaz, valamint LCD-képalkotó eszközt, e két részegységet beszállítók adják a modulhoz, azonban a Nikon mérnökei tervezték az ezeket tartalmazó modult és a benne található egyszerûsített felépítésû (aszférikus lencsetagokat nem tartalmazó) lencsét is, hogy a hõelvezetésre és a hõelosztásra a lehetõ legnagyobb gondot fordították, hiszen a nagy alkatrészsûrûség igencsak kedvez a megrekedõ hõnek. Abban azonban már a tervezés kezdeti szakaszában megállapodtak a készítõk, hogy ventilátort a gépházba nem építenek.
+
+Maga a fényképezõ 99,5x62,5x23 milliméteres méretekkel büszkélkedhet, a vetítõt nem alkalmazó CoolPix S70 az összehasonlítás kedvéért 96,5x60,5x20 milliméter, a két kamera közel azonos lehetõségekkel rendelkezik a fényképezés terén. Az S1000pj projektora 10 lumen fényerõt és VGA-felbontást kínál, a beépített akkumulátor egyórás vetítési idõre elegendõ kapacitású, ezek a jellemzõk az MPro110 mikroprojektorhoz teszik hasonlatossá.	     
+                  
+                  
+                  
+                   

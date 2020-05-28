@@ -1,0 +1,18 @@
+Sun: vékonyklienseket a tantermekbe!
+
+A vékonykliens-architektúra hatékonyan használható az oktatásban -- állítja a Sun Microsystems, amely a Jövõ Házában megrendezett Klikk 2.0 kiállításon felállított tanteremben demonstrálta a technológia elõnyeit.
+
+
+
+A vékonykliens-technológia elõnyei az oktatásban ugyanazok, mint az ipari felhasználás esetében: a Sun Rayek zajtalanok, nem tartalmaznak mozgó alkatrészt, ezért megbízhatóbbak a PC-knél, és nem futtatnak semmilyen szoftvert, ezért biztonságosabbak, valamint könnyebben és egyszerûbben adminisztrálhatóak, mivel minden adatot szerverek õriznek, minden alkalmazást szerverek futtatnak. A Sun Rayeken ráadásul Solaris, Linux vagy Windows asztali környezet is használható, oktatható, nincs szükség a PC-k újratelepítésére.
+
+A Sunnál úgy vélik, egy száz darab asztali PC-bõl álló hálózathoz már fõállású rendszergazda kell, akinek az idejét teljes egészében le fogja kötni a gépek karbantartása, a szoftverek telepítése, frissítése, miközben egy ugyanekkora vékonykliens-hálózatnál ez mindössze heti egy napnak megfelelõ idõt vesz el. Porkoláb Dániel, a Sun dekstop rendszerekért felelõs mérnöke példaképp magát a Sunt hozta fel, ahol a 36 ezer dolgozó Sun Ray környezetét mindössze 15-20 adminisztrátor felügyeli, vagyis egy rendszergazdára mintegy 1800-2000 munkahely kiszolgálása jut. 
+
+A Sun természetesen a "zöldkártyát" is elõhúzta, rávilágítva arra, hogy az egyenként mindössze 5 wattot fogyasztó vékonykliensek mennyivel energiahatékonyabbak a PC-knél, azonban a hezitáló vevõjelölteket valószínûleg ennél sokkal jobban fogja érdekelni a villanyszámlán elérhetõ megtakarítás, ami egy százgépes hálózatot figyelembe véve évente akár 1,5-2,5 millió forintos elõnyt jelenthet a Sun Ray környezet javára attól függõen, hogy milyen PC-kkel hasonlítjuk össze õket. Régebbi konfigurációk esetén a legtöbb a megtakarítás a villanyszámlán, modern, energiahatékony PC-kkel összevetve a legkevesebb.
+
+
+ A Sun Ray kliensek listaára 52 ezer forint, ez azonban nem tartalmazza a mûködésükhöz szükséges szerver árát. A kiállításon felállított tanteremben 16 Sun Ray mûködött, ezek kiszolgálásáról két darab Opteron-alapú Sun munkaállomás gondoskodott, vagyis látható, hogy szerveroldalon sincs szükség különösebben nagy beruházásra. Egy százgépes hálózat esetén két darab kétfoglalatos x86-szerver már bõven megteszi -- mondta el érdeklõdésünkre Porkoláb.
+
+A Sun a Klikk 2.0 kiállítás ideje alatt oktatási intézmények számára különleges kedvezménnyel kínálja a Sun Ray gépeket: szeptember 30-ig minden megvásárolt klienshez ajándékba ad egy másodikat. A vállalat egyébként már büszkélkedhet sikerekkel az oktatásban, a Sun Ray vékonykliens-architektúrát már a Szent István Egyetem, a BME, a Dunaújvárosi Fõiskola, valamint az Eszterházy Károly Fõiskola mellett a Bay Zoltán Szakközépiskola is használja már.
+
+[+] Töltsön le egy, a Sun Ray elõnyeit bemutató tanulmányt!

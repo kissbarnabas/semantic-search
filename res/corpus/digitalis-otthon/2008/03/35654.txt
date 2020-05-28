@@ -1,0 +1,108 @@
+Piacon a hárommagos és javított négymagos Phenomok
+
+Nem sokkal azután, hogy az AMD megkezdte a javított négymagos Opteronok szállítását, bejelentette az új szilíciumra épülõ négymagos Phenomok érkezését is, és piacra dobta korábban bejelentett hárommagos chipjeit is. Az új négymagos Phenomok már a B3 steppingû Barcelona magra épülnek, amelynek nincsenek problémái a magasabb órajelekkel, de a most bemutatott lapkák közül a csúcsváltozat órajele így is csak 2,5 GHz.
+
+
+
+Kijavítva
+
+Mint arról már lapunk is több alkalommal beszámolt, a Barcelona tavaly szeptemberi bemutatása óta architekturális okokból kifolyólag problémákkal küzdött az AMD a magasabb órajelû változatok tömegtermelésének felfuttatásával. Információk szerint az architektúra elektronikai finomhangolása néhány hiba is megakadályozta, hogy a magasabb órajelû példányokat megfelelõ szinten validálni lehessen. A vállalat szerencsétlenségére emelett a rajtot követõen derült fény egy olyan hibára, mely a négymagos Opteronok általános szállításainak felfüggesztésére kényszerítette. Bár asztali felhasználáskor ez a probléma nem releváns, a jelenség nagy publicitást nyert, így a fórumokon többen jelezték: kivárják a javított szilíciummal bíró Phenomok érkezését, és nem vásárolnak a B2-esekbõl.
+
+Lényegében a cache-koherencia lehetséges sérüléseként lehetne tömören összefoglalni a 298-as erratumként dokumentált jelenséget. Ahogyan az AMD megfogalmazza, lehetséges egy igen rövid idõablak, mikor az egyik maghoz tartozó másodszintû gyorsítótárban a címfordítási tábla frissítés alatt áll ugyan, de nem kerül zárolásra, így a harmadszintû gyorsítótárba másolva más magok kezdenek el dolgozni az alapján -- ezzel sérül a koherencia, vagyis az adatok integritása. Ennek bekövetkeztéhez azonban rendkívül specifikus körülmények szükségesek, így ismétlõdõ bekövetkeztére teljesen minimális az esély.
+
+
+ Az AMD csak nagyon késõn, novemberben azonosította a hibát, és azonnal leállította a Barcelona-alapú Opteronok szállításait, mivel a hiba a szerverek esetében megbízhatóságbeli vagy teljesítménybeli aggályokat vethet fel. A Phenomok piacon maradtak ugyan, de a korábban említett finomhangolási okok miatt csak alacsony órajeleken és korlátozott darabszámban voltak hozzáférhetõk. Március közepén az AMD végre újraindította az Opteronok szállításait, ma pedig a négymagos architektúrára épülõ javított asztali processzorok is elérhetõvé váltak.
+
+
+
+A most bejelentett chipek mindegyike 2 megabájt (magonként 512 KB) másodszintû és 2 megabájt (egyesített, osztott) harmadszintû gyorsítótárat tartalmaz. A Phenom X4 9550, 9650, 9750 és 9850 Black Edition modellszámának végén az 50-es jelöli azt, hogy már az új, javított revízióról van szó -- ami kommunikációs szempontból önellentmondás egyúttal, hiszen ezzel kimondatlanul elismerik a B2-es és B3-as szilícium közötti különbségek fontosságát. Az órajelek 2,2 GHz-rõl indulnak és 2,5 GHz-en érnek véget, a csúcsmodell 9850 Black Editionbõl ezen felül hiányzik a szorzózár, így a tuningolók kedvence lehet. A Phenom X4 9550 és 9650 termikus kerete 95 watt, a két gyorsabb verzióé pedig 125 watt. Amint látható, az AMD a többmagos chipek megkülönböztethetõségének elõsegítése érdekében bevezette az X4 jelölést, a hárommagos verziókat pedig X3-mal jelölik ezentúl -- ezeket a chipeket is mától szállítja hivatalosan az AMD.
+
+AMD Phenom processzorok
+
+
+Modell
+Órajel
+Northbridgeórajel
+Magok száma
+Stepping
+TDP
+
+
+
+X3 8400
+2,1 GHz
+1,8 GHz
+3
+B2
+95 watt
+
+
+
+X3 8600
+2,3 GHz
+1,8 GHz
+3
+B2
+95 watt
+
+
+
+X4 9100e
+1,8 GHz
+1,6 GHz
+4
+B2
+65 watt
+
+
+
+X4 9550
+2,2 GHz
+1,8 GHz
+4
+B3
+95 watt
+
+
+
+X4 9650
+2,3 GHz
+1,8 GHz
+4
+B3
+95 watt
+
+
+
+X4 9750
+2,4 GHz
+1,8 GHz
+4
+B3
+125 watt
+
+
+
+X4 9850Black Edition
+2,5 GHz
+2 GHz
+4
+B3
+125 watt
+
+
+
+
+Sietni kell
+
+A lépéssel várhatóan megkezdõdik az AMD felzárkózása az Intel mellé, a Barcelona-fiaskó miatt a cég ugyanis az elmúlt fél évben lényegében nem tudott egyetlen újdonsággal sem szolgálni, miközben az Intel rendre jelentette be Xeonjait és Core 2 Duóit, Quadjait. A kérdés az, hogy a B3-as, tehát javított Barcelonák termelését milyen ütemben tudja felfuttatni az AMD, az Intel ugyanis már megkezdte 45 nanométeres generációra való átállást, amelynek tagjai az architekturális fejlesztések mellett arcátlanul kicsik, ezért rendkívül olcsón tömegtermelhetõk.
+
+Bár az AMD relatív versenyhelyzete javulóban van, abszolút hátránya látványos: az Intel tegnap jelentette be 2,5 gigahertzes négymagos Xeonját, mely 50 wattos termikus kerettel rendelkezik, szemben az ugyanilyen órajelû Barcelona 125 wattjával. Bár az AMD által alkalmazott TDP-metodika magasabb értéket ad meg riválisánál, egyfajta elektronikai keretnek tekinthetõ inkább, szemben az Intel empirikus, kódok futtatásával mért értékénél, ennek korrigálását követõen is látványos technológiai szakadék bontakozik ki szemünk elõtt: az AMD teljesítményben és fogyasztásban is leszakadt, és 2003-ban megszerzett vezetõ szerepének mára csak emlékei maradtak.
+
+[+] Rendkívül energiahatékony Xeonokat jelentett be az Intel  
+
+A Phenom kapcsán ugyan sokféle vélemény elhangzott már, azonban a processzorok pozícionálását és versenyképességét vitathatlalamul az áruk határozza meg. A vadonatúj, az AMD által mûszakilag szuperiornak tekintett "natív", azaz monolitikus négymagos lapkák közül azonban még a legdrágább Phenom X4 9850 Black Edition sem kerül annyiba, mint az Intel legolcsóbb, szintén 2,5 GHz-es Core 2 Quadja, a Q9300 -- a neten publikált teljesítménytesztek alapján látható, hogy miért.
+
+Igaz, az eredmények nem okoznak meglepetést a korábbi tesztek alapján: a  Prohardver tesztjébõl már régóta kiderült,hogy a Phenomok elmaradnak az Intel kifutás alatt álló, régóta megvásárolható 65 nanométeres Core 2 Quad processzoraitól, nem beszélve a 45 nanométeres generációról. A túlhajtásos mérésekbõl az is világossá vált, hogy még magasabb, 3 gigahertz közeli órajelen is nehezen tartják a lépést az Intel már megvásárolható termékeivel -- tartanák, ilyen Phenomok megjelenése ugyanis még legalább fél évig valószínûtlen. A Prohardver által publikált eredmények arra is rámutatnak, hogy az AMD által bõszen reklámozott "natív" felépítés ellenére a Phenomoknak mintegy 10-20 százalékos órajelelõnyre lenne szükségük, hogy megverjék az alkalmazások többsége alatt a Core 2 chipeket -- ezzel szemben a valóság 20 százalékos órajelhátrány.  
+
+Az AMD már demonstrálta ugyan saját 45 nanométeres designját, a Shanghait, a piaci bevezetést pedig a második félévre ígéri, a jelenleg rendelkezésre álló információk szerint azonban ez nem lesz más, mint a Barcelona újabb gyártástechnológián implementált változata, lényegi fejlesztések nélkül -- az egyetlen említésre méltó újdonság a megnövelt méretû, 2 helyett 6 megabájtos harmadszintû cache, amely bizonyos szerverfeladatok esetében jól jön, de az asztali alkalmazások többségében nem hoz áttörõ teljesítményugrást. A gyenge pénzügyi helyzetben lévõ vállalat következõ nagy problémája a negyedik negyedévben adódik, mikor az Intel elindítja az átütõ erõnek ígérkezõ Nehalem-generációját.

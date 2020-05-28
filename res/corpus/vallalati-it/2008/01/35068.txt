@@ -1,0 +1,20 @@
+Flash meghajtók az EMC csúcskategóriás tárolójában
+
+Az EMC szerényen csak annyit állít magáról, hogy örökre megváltoztatta a nagyvállalati adattároló eszközök piacát azzal, hogy flash memórián alapulú meghajtókat is elérhetõvé tett a csúcskategóriás Symmetrix DMX-4 tömbjében, amelyek késõbb talán a CLARiiON és Celerra termékcsaládhoz is rendelhetõk lesznek.
+
+
+
+Csúcsra járatva
+
+A Symmetrix DMX-4 tömbökben ugyanúgy 73 és 146 gigabájtos flash meghajtók lesznek elérhetõk, mint amekkora kapacitású SCSI vagy FC merevlemezekkel rendelhetõ az egység. Az EMC elképzelései szerint a flash meghajtók afféle nulladik szintû gyorstárként dolgoznának az FC meghajtókkal karöltve, és mivel a flash meghajtók sebessége és késleltetése töredéke a merevlemezekének, a használatukkal jelentõs teljesítmény-növekedést lehet elérni.
+
+A nagy tárolótömbök esetén megszokott jelenség, hogy a kapacitásuknak csak a töredéke van kihasználva, a vevõk ugyanis a lehetõ legtöbb merevlemezt építettik be azért, hogy a párhuzamos írás-olvasás révén minél nagyobb teljesítményt tudjanak kisajtolni az eszközökbõl. Ez azonban rendkívül drága és energiapazarló módja a nagyobb sebesség elérésének. Az EMC szerint a flash drive-ok használatával jóval olcsóbban fokozható a teljesítmény még akkor is, ha egy EFD harmincszor annyiba kerül, mint egy azonos kapacitású FC merevlemez.
+
+
+ Az Enterprise Flash Drive-okat azokat a vállalatoknak szánja az EMC, amelyek már rendelkeznek DMX-4 tárolóval, és költséghatékonyan szeretnék a teljesítményét növelni. A gyártó elsõsorban a pénzügyi szektor érdeklõdésére számít, bár elismeri, viszonylag korlátozott lehet azoknak a köre, akik ilyen megoldást választanak majd, legfeljebb néhány ezerre tehetõ azon ügyfelek száma, akik flash meghajtót rendelnek majd a Symmatrix DMX-4-hez.
+
+Kétmillió teljes írási cklus fáradás nélkül
+
+Az Enterprise Flash Drive-ok (EFD) egycellás (single cell) flash memóriachipekre épülnek, amelyek az EMC szerint jóval gyorsabbak a memóriakártyákban alkalmazott multicellás flash chipeknél, viszont a kapacitásuk kisebb, így relatíve drágábbak is. Ráadásul -- állítja az EMC -- a flash memóriák fáradását elfedni hivatott wear-level algoritmusok hatékonyabban mûködnek egycellás környezetben mint a multicellás memóriáknál, ami a vállalat szerint konzumer technológia, nem alkalmas vállalati környezetben való alkalmazásra.
+
+A fáradás nélkül kétmillió írási ciklust kibíró flash meghajtókat a kaliforniai STEC gyártja az EMC számára. A cég vezetõje szerint az idén 50 millió dollár értékben adnak el vállalati szintû flash meghajtókat, de jövõre már 200 millió dolláros forgalomra számítanak ilyen termékekbõl. Az STEC a meghajtókhoz a flash chipeket a Samsungtól vásárolja. Nem kell nagy jóstehetség ahhoz, hogy kijelentsük, hamarosan a tárolópiac többi vezetõ gyártója is hasonló lépéssel rukkol majd elõ, hogy befogják az EMC-t.

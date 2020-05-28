@@ -1,0 +1,24 @@
+Megjelent a NOD32 és az ESET Smart Security új verziója
+
+Angol nyelven már elérhetõ az ESET népszerû biztonsági szoftvereinek, a NOD32-nek és a Smart Securitynek a 4.0 változata, a magyar változat megjelenése pedig a következõ hónapokban esedékes.
+
+
+
+A cég szerint a vírus- és kémprogramvédelmet nyújtó NOD32, és a személyi tûzfalat és levélszemétszûrõt is tartalmazó ESET Smart Security még gyorsabb és még hatékonyabb lett, de továbbra is takarékosan bánik az erõforrásokkal. "A folyamatos fejlesztésnek köszönhetõen a szoftverek új verziói a piacon jelenleg elérhetõ biztonsági szoftverekkel összehasonlítva kiemelkedõen alacsony rendszerterheléssel rendelkeznek, így gyors betöltést és zavartalan mûködést biztosítanak" -- emelte ki Csiszér Béla, az ESET magyarországi képviseletét ellátó Sicontact Kft. ügyvezetõje.
+
+
+
+
+Néhány új funkcióval is gazdagodtak az ESET biztonsági termékei, "játékos üzemmódban" például egy teljes képernyõt elfoglaló alkalmazás futása esetén egyáltalán nem jelennek meg figyelmeztetések. Az említésre méltó új szolgáltatások közé tartozik a SysRescue integrációja révén a helyreállító CD vagy pendrive létrehozása is, amelyekrõl akkor is "tisztán" indítható a PC, ha a merevlemezen található operációs rendszer fertõzés áldozatává vált.
+
+Az NOD32 és az ESET Smart Security 4.0 változata már direktben támogatja a Windows Live Mail és Mozilla Thunderbird levelezõrendszereket és képes átvizsgálni a titkosított (SSL, HTTPS és POP3S) levélforgalmat is. Az új verziókban emellett javítottak a Vista User Account Control kompatibilitáson, illetve a végleges változatok a 2 gigabájtnál nagyobb méretû állományok szkennelésére is megfelelõen fel vannak készítve.
+
+
+ A 4.0-s verziók az eddigiektõl eltérõ módon kezelik a számítógéphez csatlakoztatható külsõ adathordozókat, például pendrive-okat, merevlemezeket: a hozzáférés eszközszinten is blokkolható, de akár az egyes USB-kapuk is letilthatók velük. Ezeknél az adattárolóknál a program alapbeállításaitól függetlenül egyedi heurisztikus keresési beállítások is megadhatók.
+
+A vállalati felhasználók számára jó hír, hogy az új termékekbe bekerült az eddig különálló ESET SysInspector rendszerfelügyeleti alkalmazás, mely lehetõvé teszi az aktuálisan futó folyamatok és a rendszerösszetevõk elemzését. A noteszgépek felhasználói annak örülhetnek, hogy az ESET új programjai már érzékelik hogy a PC akkumulátorról vagy hálózatról kapja-e a táplálást és ennek megfelelõen idõzítik az ütemezett feladatok végrehajtását, ami jó hatással lehet a notebookok akkus üzemidejére. 
+ 
+
+
+
+A NOD32 4.0 és az ESET Smart Security 4.0 máris letölthetõ a fejlesztõk honlapjáról. A 3.x változatra érvényes licenccel rendelkezõ felhasználók ingyen frissíthetnek a 4.0 verzióra, akár a magyar nyelvû változatról is lehet az angolra frissíteni, majd a lokalizáció után használható a magyar NOD32 és ESET Smart Security.

@@ -1,0 +1,14 @@
+Letölthetõ az Internet Explorer 8 és a Silverlight 2 bétája
+
+Elérhetõvé, letölthetõvé tette a Microsoft az Internet Explorer 8-as változatának elsõ publikus bétáját, illetve a Silverlight 2-es verziójának bétáját, melyeknek elsõsorban a fejlesztõk vehetik hasznát -- a végfelhasználókat hibák és a weboldalak lassú renderelése inkább csak bosszanthatja.
+
+
+
+Az Internet Explorer 8 elsõ bétájának legfõbb "újdonsága" a teljesebb megfelelés a szabványoknak: az Acid2 tesztet továbbra is teljesíti a böngészõ. A végleges változat támogatást nyújt majd a CSS (Cascading Style Sheets) 2.1-hez is. A letölthetõ csomagban kifejezetten webfejlesztõk számára készített segédprogramok is megtalálhatók lesznek, melyekkel könnyebb a HTML, CSS kódokat és scripteket ellenõrizni, mûködésüket nyomon követni.
+
+Az új képességek között olyanok lesznek, mint a WebSlices, mellyel olyan honlaprészeket fejleszthetnek a weboldalak készítõi, melyek más oldalakra elnavigálva is láthatóak maradnak, így szemmel követhetjük például egy teniszmeccs állását, miközben már más oldalakat látogatunk meg. A WebSlices specifikációja nyílt lesz. Apróság, de a "vissza" gomb már AJAX-os oldalakra visszalépve is az elõzõleg látott tartalmat hozza majd elõ. 
+
+
+Az Internet Explorer 8 bétája mellett a várakozásoknak megfelelõen megérkezett a Flash ellen harcba küldött Silverlight második verziójának bétája is. Az új Silverlight-verzió egyik legfontosabb tulajdonsága, hogy tartalmazza a .NET keretrendszer platformfüggetlen változatát, ami azt jelenti, hogy a fejlesztõk a Visual Studióval, illetve egyéb Microsoft fejlesztõeszközökkel olyan alkalmazásokat hozhatnak létre, amelyeket aztán bármilyen böngészõben meg lehet jeleníteni.
+
+A korábban Windows Presentation Foundation/Everywhere kódnéven ismert Silverlight többféle böngészõvel (IE, Firefox, Safari) kompatibilis, webalkalmazások, grafikák, animációk megjelenítésére alkalmas interaktív eszköz. A Silverlight 1.0 tavaly szeptemberben érkezett, a 2.0 verzióba -- amely valójában az 1.0 elsõ frissítése -- annyi újdonságot zsúfoltak bele, hogy a verziószámot egytized helyett egy teljes egésszel növelte meg a Microsoft.

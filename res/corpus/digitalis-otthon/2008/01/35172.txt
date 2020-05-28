@@ -1,0 +1,12 @@
+Megjelentek az AMD olcsó DirectX 10-es Radeonjai
+
+Bemutatta belépõszintû és középkategóriás DirectX 10-es grafikus processzorait az AMD. A Radeon HD 3400 és 3600 sorozatok a TSMC 55 nanométeres csíkszélességû gyártástechnológiáján készülnek, valamint dinamikus energiagazdálkodási technikát is alkalmaznak, így kimondottan takarékosak.
+
+
+
+Az alsókategóriás Radeon HD 3400 sorozat két tagja, a 3450 és 3470 az RV620 kódnevû chipre épül, mely 40 végrehajtóegységet és 64-bites DDR2 illetve GDDR3 memóriavezérlõt alkalmaz. A chip natívan támogatja a DisplayPort és DVI kimeneteket, kiegészítõvel a HDMI-t is, valamint 1080p felbontású h.264 és VC-1 videók dekódolását is elvégzi az integrált Unified Video Decoder révén, mely a HD 2000-es és 3000-es családok minden tagjában megtalálható. A 3450 és 3470 közötti különbség a chipek órajelében rejlik: elõbbi processzora 600, utóbbié 800 megahertzen ketyeg, míg a memóriasebesség rendre 500 és 950 megahertz. A 3400 sorozat játékra kevéssé alkalmas, megcélzott felhasználási területének inkább a videolejátszás és a Vista tekinthetõ.
+
+
+
+
+Az alsó-középkategória új versenyzõje a Radeon HD 3650, mely a háromszor több, 120 feldolgozó egységgel rendelkezõ RV635-re épül. Az RV635 immár 128-bites DDR2/GDDR3 memóriavezérlõvel rendelkezik, mely akár 1 gigabájt memóriát is képes kezelni. A 378 millió tranzisztorból felépülõ grafikus chip órajele 725 megahertz. Az RV620 és RV635 egyaránt alkalmazza az ATI által kifejlesztett PowerPlay dinamikus energiagazdálkodási technikát, mely csökkenti a terheletlen chip órajelét. Mindkét új sorozat két kimenetet támogat, a kártyagyártó választásán múlik, milyen összeállítást alkalmaz. Az új Radeonokra épülõ videokártyák a 15-30 ezer forintos sávba várhatóak.

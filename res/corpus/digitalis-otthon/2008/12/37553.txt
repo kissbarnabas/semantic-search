@@ -1,0 +1,26 @@
+Netbookokra szabott webes operációs rendszer: gOS Cloud
+
+[Electronista/HWSW] A Linux-alapú gOS operációs rendszer fejlesztõi  hamarosan elõrukkolnak egy olyan környezettel, mely a felhasználók számára gyakorlatilag instant hozzáférést jelent a webes eszközökhöz, mint a Google, Yahoo! vagy Microsoft Live szolgáltatások, de a kliens maga is elérést biztosít több alkalmazáshoz illetve multimédiás tartalmakhoz.
+
+
+
+Villámgyorsan a felhõbe
+
+Az amerikai Good OS által kitalált gOS Cloud a netbookok használatát teheti egyszerûbbbé, kényelmesebbé és sokkal gyorsabbá.  Az esetek nagy részében az emberek ezeken a pici eszközökön csak böngésznek, leveleznek, weboldalakat olvasgatnak vagy valamilyen médiatartalmat fogyasztanak, ezt pedig megtehetik majd a Cloud felületén keresztül is. Valójában a Cloud nem más, mint egy integrált böngészõprogram és egy Linux-disztribúció együttese, mely szûk palettát fed le alkalmazás területen, de másodpercek alatt betöltõdik és azonnal rendelkezésre áll.
+
+Az elsõ bemutatót a fejlesztõk egy érintõkijelzõs GigaByte netbookon tartották Párizsban, az ott megrendezett Netbook World Summit konferencián. A Cloud elsõként jövõ év elejétõl a GigaByte tablet netbookjain debütál majd, de nem kíván konkurálni a Windows XP-vel, sõt, nagyon jól megfér mellette. Amennyiben a felhasználó egy hardverigényesebb vagy komplexebb feladatot szeretne elérni, akkor egyszerûen átvált a Cloudról Windows XP-re vagy egy teljes értékû Linux-disztribúcióra.
+
+Végre 
+
+A gOS Cloud használatakor azonban nem kell perceket várni a rendszerindításra, nem telnek el másodpercek mire betöltõdik a böngészõ, sõt, ami sokaknak fontosabb semmi sem bonyolult benne. A Cloud hasonló a Linux-alapú SplashTop interfészhez, mely egy gyors elérésû felületet ad a felhasználónak a teljes értékû operációs rendszer mellett. A SplashTopot többek közt a Lenovo és az Asus is használja bizonyos gépeinél.
+
+35 megabájtba minden belefér?
+
+A Cloud ugyan nem kecsegtet irodai alkalmazásokkal, viszont a VoIP, a Flash videók és az MP3-ak nem jelentenek majd gondot, igaz az extra formátumok lejátszásához szükség lesz a teljes bootoláshoz. Indulás után egy Mac OS X-re emlékeztetõ ikonsor jelenik meg a kijelzõ alján, ahonnan elérhetõ a böngészõ, a többi alkalmazás, a hálózatkezelõ, fájlkezelõ is. A fejlesztõk szerint az egyszerû operációs rendszerhez egy szabványos x86-os processzoron, 128 megabájt memórián és átlagosan 35 megabájt tárhelyen kívül semmi másra nincs szükség. 
+
+
+A bemutatott demóváltozat egyelõre angol, kínai, japán és koreai lokalizációval rendelkezik, de a fejlesztõk ígérete szerint az OEM partnerek számára bármilyen nyelvi csomagot el tudnak készíttetni, a felhasználó pedig az elsõ bekapcsolás után választhatja ki, hogy melyiket szeretné használni. Ennél többet mind a Cloudról, mind a GigaByte tablet netbookjáról a januári CES kiállításon lehet majd megtudni.
+
+A Microsoft is érzi
+
+Az ötlet annyira érdekesnek tûnik, hogy már a Microsoft is dolgozik "Instant On" megoldásán, legalábbis az amerikai Engadget egyik olvasója által beküldött kérdõívbõl ez derült ki. A redmondiak arról faggatták felhasználóik egy részét, hogy mit szólnának egy korlátott képességû, de gyorsan elérhetõ operációs rendszerhez. A válaszadók azt is bejelölhették, hogy milyen funkciókat látnának szívesen benne: naptár, email, VoIP, böngészés, illetve a Microsoft esetében várható, hogy egy-egy irodai alkalmazás is elérhetõ lenne itt.

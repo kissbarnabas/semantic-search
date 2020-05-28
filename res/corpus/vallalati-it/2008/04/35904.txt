@@ -1,0 +1,16 @@
+Hiába biztonságosak a hálózati eszközök, ha a protokollok nem azok
+
+A védelmi intézkedések többsége a rendszer ki- és belépési pontjaira összpontosul, mintegy határvédelemként, miközben a belsõ hálózatokban túlságosan nagy a bizalom, mondta el Deim Ágoston, a Linux Support Center ügyvezetõje a Magyarországon elsõ alkalommal megrendezett Ethical Hacking konferencián. 
+
+
+
+A LAN-ok elleni támadások sokszor elkerülik a figyelmet, amit többnyire az ismeretek hiánya és az eszközökbe vetett túlzott bizalom magyaráz, mondta el elõadásában Deim. Ezt tetézi ráadásul az is, hogy költséghatékonysági megfontolásokból sok helyen olcsó hálózati eszközöket telepítenek, melyek nem konfigurálhatóak megfelelõen a támadási felület csökkentése érdekében. 
+
+Bármilyen fejlettek is legyenek azonban a hálózati berendezések, és telepítsünk drága, menedzselhetõ switcheket, ha a több évtizedes, biztonsági megfontolásoktól mentes protokollokra épül a hálózat, világított rá Deim. Biztonsági szempontból tehát a régi, bizalmi alapon mûködõ protokollok gyengék, nem az eszközök. Emiatt ha a támadó bármilyen módon bejut a LAN-ra, úgy jó eséllyel tetszõleges gépek adatforgalmát lehallgathatja, sõt akár a teljes hálózat felett átveheti az uralmat.
+
+Deim számos olyan módszert prezentált elõadása során, melyek úgynevezett man in the middle támadási módszert valósítanak meg, vagyis a támadó beékelõdik két kliens közé. Az egyik ilyen szimuláció során Address Resolution Protocol (ARP) spoofingot (más néven poisoning) hajtott végre, melynek során a támadó elhitette a két számítógéppel, hogy az õ MAC-címén keresse a másik felet, vagyis a kommunikáció mindkét irányban rajta keresztül zajlott -- ez ellen ellenõrzött statikus ARP-táblával lehet védekezni, amikor adott IP-címhez rögzített MAC tartozik.
+
+
+ Szintén támadási lehetõséget biztosít a DHCP. Deim egy olyan módszert vázolt fel, melynek során a legitim DHCP-szervert a támadó túlterheli folyamatos igénylõ és elengedõ kérésekkel, majd eközben saját DHCP-szervert állít fel a hálózaton, mely válaszol az hálózati adatokat igénylõ kliensekre kéréseire: ezzel a támadó az IP-cím mellett tetszése szerint határozhatja meg a gateway-t és a DNS kiszolgálót, vagyis totálisan ellenõrzése alá vonhatja a hálózati forgalmat, és becsaphatja a felhasználókat is -- akár átfogó adathalászatba is kezdhet.
+
+Deim ezen túlmenõen rámutatott még a kiterjedtebb, hurkokkal rendelkezõ hálozatókra jellemzõ STP (spanning tree protocol) gyengeségére is, melyet a hálózati forgalom optimalizációját segítõ BPDU csomagokkal lehet kihasználni. A támadó rosszindulatúan fabrikált BDPU-csomagokban mesterségesen alacsonyra teszi a saját eszközének elérési "költségét", így ezzel maga felé tereli a forgalmat -- vagy ellenkezõleg, szándékosan összezavarja a a hálózati berendezéseket, hogy túlterhelje a hálózatot, és fennakadást okozzon.

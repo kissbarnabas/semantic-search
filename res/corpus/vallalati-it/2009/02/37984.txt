@@ -1,0 +1,29 @@
+Banális hiba a Windows 7 jogosultságkezelésében
+
+A Windows Vista egyik sokat szidott szolgáltatása a User Account Control, amely a nagyobb biztonság érdekében a felhasználó külön beleegyezéséhez köti például egyes szoftverek indulását vagy rendszerbeállítások módosítását. Noha ez a szolgáltatás számos kártevõt megállít, a felhasználók inkább zavarónak, idegesítõnek találták.
+
+
+
+Engedékeny User Account Control
+
+A Windows 7 fejlesztõi a visszajelzések alapján enyhítettek a szigoron: alapértelmezésként a User Account Control engedélykérés és figyelmeztetés nélkül lehetõvé teszi a rendszerbeállítások módosítását. Egy szemfüles biztonsági szakértõ, Long Zheng a Windows 7 bétáját vizsgálva rájött arra, hogy az új operációs rendszerben a User Account Control igen bizonytalan lábakon áll, a felhasználó tudta és beleegyezése nélkül teljesen kikapcsolható.
+
+
+  Ennek oka, hogy a User Account Control vezérlése is rendszerbeállításokon keresztül történik, ezek megváltoztatásához pedig nincs szükség a felhasználó engedélyére, amennyiben adminisztrátori jogosultságokkal rendelkezik -- ilyen a legtöbb otthoni felhasználó, mivel a Vistához hasonlóan a Windows 7-ben is az elsõ létrehozott felhasználói fiók adminisztrátori jogokat kap. 
+
+
+
+Nincs több béta
+
+Egyetlen béta jelenik csak meg a Windows 7-bõl, a következõ tesztváltozat már a Release Candidate 1, azaz a kiadásra jelölt változat lesz. Aki még nem töltötte le a bétát, érdemes sietnie, ugyanis február 10-én megszûnik az elérhetõsége.
+
+
+
+
+Zheng blogjában még egy Visual Basicben írt példakódot is elérhetõvé tett, amely "csendben" kikapcsolja a User Account Controlt. A szakértõ szerint akár az is kivitelezhetõ, hogy egy szoftver észrevétlenül kikapcsolja a User Account Controlt, felvesz egy (ártó szándékú) programot az automatikusan induló alkalmazások közé, majd újraindítja a PC-t, így bootolás után gyakorlatilag szabadon garázdálkodhat.
+
+Pofonegyszerû lenne a javítás, mégsem teszik
+
+A hiba pofonegyszerûen orvosolható lenne, a Microsoftnak mindössze annyit kellene tennie, hogy a User Account Control beállításainak módosításakor engedélyt kellene kérnie a felhasználótól -- írja Zheng, aki saját bevallása szerint már figyelmeztette a szoftvercéget erre a sebezhetõségre, azonban azt a választ kapta, hogy ez szándékosan van így és valószínûleg a végleges verzióban sem fogják megváltoztatni.
+
+A legjobb megoldás egyelõre a User Account Controlt úgy beállítani, hogy bármilyen, a jogosultság megemelésével kapcsolatos esemény bekövetkeztekor figyelmeztessen -- ez azonban lényegében visszatérés a Windows Vistában megszokott mûködéshez, és a folyamatos "zaklatáshoz".

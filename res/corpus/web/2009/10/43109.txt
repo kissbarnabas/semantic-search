@@ -1,0 +1,12 @@
+Az Internet Explorer véd legjobban a megtévesztõ kártevõktõl
+
+A megtévesztõ kártevõk (socially engineered malware) olyan programok, amelyek látszólag jó szándékúak, képernyõvédõnek, videokodek-frissítésnek vagy víruskeresõnek álcázzák magukat, ám valójában a felhasználó adataira vagy rendszerére veszélyes kódot tartalmaznak. A közösségi szolgáltatások terjedésével egyre több támadás alapul ilyen szoftvereken, a támadók fórumokban, közösségi oldalakon vagy épp a Twitteren legitimnek tûnõ URL-eket tesznek közzé, a rájuk kattintó felhasználók gépére azonban kártevõ kód töltõdik le. A Kaspersky adatai szerint naponta 15-50 ezer ilyen program jelenik meg a neten.
+
+A modern böngészõk reputáció-alapú URL-szûréssel próbálják kivédeni az ilyen támadásokat. Az Internet Explorerben a SmartScreen fantázianevû technológia szolgálja ezt a célt, a Firefox, a Chrome és a Safari pedig a Google SafeBrowsing API-t használja. Mindkét megoldás lényege, hogy a böngészõ a meglátogatni kívánt URL-t elõször összehasonlítja egy webes adatbázissal, s ha abban a webcím ártó szándékúnak van feltüntetve, figyelmezteti a felhasználót a veszélyre és nem is indítja el a letöltést.
+Az NSS Labs július közepé két héten át tesztelte a legújabb böngészõket, köztük az IE8-at, a Firefox 3.0-t, a Chrome 2.0-t, a Safari 4-et és az Opera 10 bétát, milyen védelmet nyújtanak a megtévesztõ kártevõkkel szemben. A teszt idején minden böngészõbõl az elérhetõ legújabb változatot használták, kivéve a Firefoxot, amelynek 3.5-ös verziójával stabilitási problémák voltak, de az NSS Labs szerint ez nem befolyásolta a végeredményt, mivel a kártékony URL-ek elleni védelem a Firefox 3.0-ban és 3.5-ben ugyanúgy a Google SafeBrowsing API-ra épül. Ugyanez igaz az Opera 10 bétára, amelynek eredményei az Opera 9-tõl is származhattak volna - állítja az NSS Labs.
+Az eredmény az Internet Explorer 8-at leszámítva lesújtó. A Microsoft böngészõje a veszélyes URL-ek  81 százalékát kiszûrte, a második helyezett Firefox már csak a támadások 27 százalékát állította meg, a Safari 21 százalékos, a Chrome pedig 7 százalékos eredménnyel zárt. Ezek a programok mindannyian a Google SafeBrowsing API-t használják, de más-más implementációt tartalmaznak, ezért lehetnek eltérések. A legrosszabbul az Opera szerepelt, a veszélyes webcímeknek csak 1 százalékát ismerte fel.
+Az NSS Labs tesztjének eredményei a részletes metodológiával együtt elérhetõk a szervezet weboldalán.	     
+                  
+                  
+                  
+                   

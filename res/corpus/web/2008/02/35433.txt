@@ -1,0 +1,22 @@
+Házon kívül üzenettel csapnák be a spamszûrõ rendszereket
+
+[Techworld] Újabb egyszerû, de sajnos nagyszerû trükkel juttatják be leveleiket a postafiókokba a spammerek: felhasználják a levelezõszolgáltatások "irodán, házon kívül" üzeneteket küldõ, automatikusan válaszoló szolgáltatását.  A McAfee számos bizonyítékot gyûjtött az egyre népszerûbb módszer alkalmazásáról.
+
+
+
+Mûködhet
+
+A trükk rendkívül egyszerû: a kéretlen leveleket küldõ elsõként egy teljesen legális e-mailcímet generál valamely ingyenes webes levelezõszolgáltatásnál, például a GMailnél. Ezt követõen "házon kívül" üzenetet állít be megfelelõ szövegezéssel, melyben elhelyezi azt a linket is, melyet közvetíteni szeretne. Innentõl kezdve nincs más dolga, mint hamisított levekkel bombázni ezt az e-mailcímet.
+
+A levelek küldõjeként azokat az e-mailcímeket hamisítja, melyekre el szeretné küldeni az üzenetét, ezért a visszapattanó, házon kívüli szöveget tartalmazó levelek a spam tartalmával ezekre a címekre indulnak majd útnak. Ezek a levelek szinte mindenben megfelelnek majd a spamszûrõk feltételeinek, hiszen legális címrõl, igazi levelezõszerverekrõl érkeznek majd a postafiókokba.
+
+
+Ezen levelek ellen azok a spamszûrõk hatásosak, melyek a levél szövegét is elemzik, illetve megerõsítést kérnek a levél küldõjétõl, mielõtt átengedik a tõle származó leveleket. Viszont tehetetlenek azok a rendszerek, melyek az új, DKIM, Sender ID, vagy DomainKey metódusokat használják, mivel a levél valódi, legális levelezõszerverrõl, élõ e-mailcímrõl érkezik.
+
+[+] A spammerek már megtörték a hagyományos CAPTCHA védelmet
+
+Megtört captcha
+
+A spammerek ráadásul könnyen áthatolnak a levelezõrendszerek captcha védelmén is -- legutóbb éppen a GMail védelmét törték fel nagy hatásfokkal --, így akár robotokkal megszámolhatatlan új e-mailcímet generáltathatnak maguknak, felhasználva ezt a trükköt. A McAfee már blokkolja a házon kívüli üzeneteket, és ellenõrzi azok tartalmát, szövegeit és linkjeit.
+
+A Google ingyenes szolgáltatásának feltörése kényes ügy, hiszen a levelezõrendszer igen népszerû, ezért a @gmail.com címrõl érkezõ levelek általános szûrése akár barátaink üzeneteitõl is elvághat minket. A GMail védelmét jelenleg körülbelül 20 százalékos hatékonysággal törik a robotok, ami meglehetõsen magas aránynak minõsül.

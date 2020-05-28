@@ -1,0 +1,28 @@
+Egymillió zeneszám a zsebben
+
+[TechCrunch/HWSW] "Mi a jó abban, ha végtelen mennyiségû zene van az online zeneboltokban, de csak akkor válogathatsz közülük, ha a számítógéped elõtt ülsz?" -- ezt a kérdést tették fel az Imeem zenei közösségi oldal készítõi maguknak. Sõt, orvosolták is a problémát. A nemrégiben végrehajtott fejlesztésükkel csatlakoztak az Android-hadsereghez, s az eddigiekhez képest teljesen új megközelítésbe helyezték a hétköznapi médiafogyasztást.
+
+
+
+Webrádió mobilra -- egyelõre csak amerikaiaknak
+
+Az amerikai piacon a holnap bemutatkozó T-Mobile G1 telefont az ottani szaksajtó már az elmúlt hetekben megkapta tesztelésre, s a TechCrunch egyik szerzõje a készülék és a platform újdonságán túl az Imeem Mobile alkalmazást találta az egyik legütõsebb androidos szoftvernek. Az Imeem az Egyesült Államokban mûködõ tucatnyi zenei szolgáltatás közül azon kevesek egyike, amelyik rendelkezik mind a négy nagy kiadó streaming-licenceivel, s emellett képes felvonultatni még számos független szerzõt és kiadót is. Hasonlóan színes paletta zenei közösségi oldalakon talán csak a Last.fm és a MySpace oldalain található, melyek közül utóbbi szintén a napokban mutatja be az Androidra fejlesztett megoldását, bár az semmilyen formában nem támogatja a mobiltelefonon keresztüli streameket.
+
+Ezzel szemben az Imeem Mobile-on keresztül szabadon, ingyenesen hallgathatóak a számok, a finanszírozást reklámokkal és bevételmegosztásos programokkal oldják meg. A mobilhálózaton viszont annyi megkötés azért van, hogy csak bizonyos számok érhetõek el: "Megnézzük, hogy mik az Imeemen hallgatott számok közül éppen a legnépszerûbbek és valós idõben szelektálva elérhetõvé tesszük ezeket mobilon is." 
+
+Közös zenélés 
+
+Dinamikus kínálat
+
+A katalógus egy élõ lenyomata annak, hogy a közösség mit talál érdekesnek egy adott idõben. "Az elérhetõ dalok úgy változnak, ahogy az ízlés változik naponta" -- magyarázta a rendszer mûködését Dalton Caldwell, a cég elnök-vezérigazgatója. Egyébként lehet keresni elõadóra, majd kiválasztva valakit hasonlóan a Last.fm-hez a hozzá kapcsolódó, hasonló elõadók számaiból készít egy listát a rendszer. Minden számot kedvencnek lehet jelölni, tiltólistára lehet tenni, illetve ugyanilyen egyszerûséggel lehet megvenni a számokat az Amazonról. 
+
+A mobilos stream-alapú zenehallgatásnak viszont számos akadálya is van. A HSDPA-hálózat folyamatos használata mellett bármely telefonkészülék akkumulátora órák alatt lemerülne, illetve elég nagy puffer kell ahhoz, hogy biztonságosan, akadozásmentesen szóljon a zene. A TechCrunch tesztjei alapján Wi-Fi-n keresztül nagyon jól szóltak a zenék, körülbelül azt az érzetet adva mint egy iPod. A 3G-t használva viszont rosszabb jelerõsség mellett akadtak problémák.
+
+A technikai akadályok remélhetõleg elõbb-utóbb elhárulnak, mindenesetre a jövõkép biztató. A teljesen friss Imeem Mobile ugyan még nem bizonyított, de a kialakítása felhasználóközpontú, funkciói kényelmesek lesznek mindenkinek, aki már a webkettes világ tagja. A kiválasztott elõadók köré épített játszási listák elmenthetõk, késõbb bármikor újraindíthatóak, de a barátok listái is elérhetõek. 
+
+Trendalkotás
+
+
+Az igazi közösségi érzést pedig a dinamikusan változó toplistás csatornák adják, illetve a személyre szabott ajánlási rendszer. Amennyiben a modell mûködik, akkor az óriási tárhellyel rendelkezõ zenelejátszók ideje lejárhat, hiszen hogy lehet menõ 10 ezer szám a zsebben, ha lehet akár egymillió is?
+
+A szolgáltatás elindulása arra is rámutat, hogy a G1 telefonhoz kötelezõen járó korlátlan adatcsomag beindítja a fejlesztõk fantáziáját is. Ugyan hazánkban jelenleg drágán mérik még az éterben utazó bájtokat a mobilszolgáltatók, de remélhetõleg az új platform Európai terjedése magával hozza a szolgáltatások ilyen irányú fejlõdését is.

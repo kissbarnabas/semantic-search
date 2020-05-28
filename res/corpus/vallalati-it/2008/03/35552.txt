@@ -1,0 +1,14 @@
+Tesztelhetõ a Red Hat Enterprise Linux 5.2
+
+Bétaváltozatban már tesztelhetõ a Red Hat vállalati Linux-disztribúciójának 5.2-es változata, amely elsõsorban az asztali alkalmazások és a virtualizáció terén hoz újdonságokat. Az RHEL 5.2 már a 2.6.18-84.el5 Linux kernelre épül.
+
+
+
+Az RHEL 5.2 egyik figyelemre méltó újdonsága a frissített, 3.1.2-es verziójú Xen hypervisor, a Red Hat mérnökei emellett továbbfejlesztették a fürtözési képességeket és javítottak az alkalmazások átterhelõdésén, ez összességében nagyobb rendelkezésre állást és stabilabb mûködést jelent a Red Hat Enterprise Linuxot használó adatközpontok üzemeltetõi számára. A bétateszelõk azt is kipróbálhatják, milyen érzés 32 bites virtuális gépeket futtatni 64 bites környezetben, mivel az RHEL 5.2 már erre is lehetõséget ad, leegyszerûsítve a P2V (physical to virtual) szervermigrációt.
+
+Fõleg a csúcskategóriás szerverek tulajdonosainak örömhír, hogy javítottak a NUMA-kezelésen (Non-Uniform Memory Access), 64-re emelték az egy instancia által támogatott processzorok számát és 512 gigabájtra a kezelhetõ memória méretét. Említésre méltó még a javított IPv6-támogatás, az 5.2-es változatban már DHCPv6-kliens és -szerver is helyet kapott, amivel leegyszerûsödik az IPv6-ra való átállás.
+
+
+ A Red Hat Enterprise Linux 5.2 asztali változata a legújabb alkalmazásokkal érkezik, beleértve a Firefox 3-at, az Evolution 2.12.3-at, az OpenOffice.org 2.3.0-t, valamint a Thunderbird 2.0-t. Ugyanitt fontos megemlíteni, hogy a Desktop disztribúcióban frissítették a grafikus drivereket, valamint javítottak a notebookok energiakezelési funkciókinak támogatásán is.  
+
+A RHEL-elõfizetõk már letölthetik és kipróbálhatják a bétát, azonban mivel még nem végleges termékrõl van szó, a Red Hat nem tanácsolja az éles környezetben történõ bevetést. A Red Hat Enterprise Linux minden változata elérhetõ frissített változatban, vagyis a 32 és 64 bites x86-szerverek mellett az Itanium, IBM System p és System z szerverek üzemeltetõi is kipróbálhatják, mire lesz képes az 5.2-es verzió. Az RHEL 5.2 bétatesztje május 7-ig tart, vagyis a végleges változat még a nyáron esedékes.

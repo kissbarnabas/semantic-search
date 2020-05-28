@@ -1,0 +1,14 @@
+Az Ericsson szerint két éven belül piacra léphet a következõ mobilgeneráció
+
+Új mobilplatformot mutatott be az Ericsson, mely a világ olyan kereskedelmi megoldása, mely a következõ generációra, a 3GPP LTE-re (Long Term Evolution) is fel van készítve. Az M700 mobilplatform akár 100 megabit/s-os letöltési és 50 megabit/s-os feltöltési csúcsokat is elérhet ezzel a technológiával. Február elején bemutatták az elsõ LTE-képes készülékek prototípusait is.
+
+
+
+Az LTE egy közös szabvány lehet a CDMA, TS-SCDMA és WCMDA szolgáltatók körében, és piaca az ABI kutatásai szerint több mint 2 milliárd euróval fog bõvülni az elkövetkezendõ évben. 2015-re már 400 millióra becslik az LTE elõfizetõk számát, nyilatkozta egy elõadásában Jean-Pierre Bienaimé, az UMTS Fórum elnöke. Elsõként 2009-2010-ben Japánban, a DoCoMo-nál várható az LTE hálózat kereskedelmi indulása, majd ezt követõen Észak-Amerikában, majd Nyugat-Európában honosodhat meg az új hálózati szabvány.
+
+
+Barcelonában már bemutatták az elsõ LTE-képes készülékek prototípusait is, melyek természetesen még nagyok, nehezek, de ahogy ez minden új hálózati megoldás bevezetésekor történik, a méret itt is egyre inkább csökkenni fog. A HSPA-hoz hasonlóan elsõként noteszgépek és számítógépek számára készült USB-s modemek és ExpressCard adatkártyák lesznek kaphatók, de készülnek majd hordozható készülékekbe építhetõ modemkártyák is.
+
+
+
+A rendszerfejlesztõk 2009-ben juthatnak hozzá az elsõ kereskedelmi forgalomba kerülõ áramkörökhöz, míg a platfromra épülõ konkrét termékek 2010-ben jelenhetnek meg. Az M700 platform 1,4 és 20 MHz közötti sávszélességet támogat és az Egyesült Államokban jövõre felszabaduló, éppen most tendereztetett, értékesített 700 MHz-es tartományra is felkészítették. Az Ericsson segédkezet nyújt a kompatibilitási tesztekhez is.

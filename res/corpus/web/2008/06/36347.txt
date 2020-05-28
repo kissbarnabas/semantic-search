@@ -1,0 +1,12 @@
+Augusztusban érkezhet a Firefox 3.1 elsõ bétája
+
+Alig egy héttel ezután, hogy a Mozilla kiadta a Firefox régóta várt 3.0 verzióját, a szervezet már a 3.1 fejlesztésén végzi az utolsó simításokat. A Firefox 3.1 elsõ fejlesztõi alfaváltozata akár már júliusban megérkezhet, a béta augusztusban, a végleges verzió pedig az utolsó negyedévben, vagy 2009 elején jelenik meg a terv szerint.
+
+
+
+A Firefox 2.0 és 3.0 megjelenése között mintegy 20 hónap telt el, a Firefox 3.1 fejlesztése ennél jóval rövidebb idõt vesz igénybe, mivel fõleg olyan újdonságokat tartalmaz, amelyeket a 3.0-hoz fejlesztettek, de aztán idõhiány miatt nem kerültek be a végleges verzióba. Mike Schröpfer fejlesztési vezetõ szerint a legtöbb újdnonság már a Firefox 3.0 megjelenésekor is majdnem kész volt, ezért nem várható, hogy a 3.1 készítése elhúzódna.
+
+
+ A 3.1-ben várható fejlesztések legtöbbje a böngészõmotort érinti és fõképp a teljesítményt (pl. JavaScript-futtatás sebessége), illetve a webszabványok támogatását érinti. Lesznek azért a felhasználó számára szembetûnõbb újdonságok is, a Firefox 3.1-ben még tovább fejlõdik a 3.0-ban bemutatkozott címsor, amelyben még gyorsabban lehet majd keresni, és törölni is lehet elemeket belõle.  
+
+A Firefox 3.0 június 17-én jelent meg, és azóta már több mint 22,4 milliószor töltötték le a Mozilla számításai szerint. A magyar letöltések száma több mint 187 ezer.

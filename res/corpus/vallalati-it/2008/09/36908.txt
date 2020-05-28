@@ -1,0 +1,18 @@
+Hatékonyabb távoli munkavégzést ígér a Cisco Virtual Office
+
+Az otthonról, vagy más, külsõ helyszínekrõl dolgozó munkaerõt alkalmazó közepes és nagyméretû vállalatok számára kínálja új, Cisco Virtual Office nevû megoldását a Cisco. Az integrált rendszer használatával az alkalmazottak számára egyszerûen elérhetõvé válhatnak az üzleti csoportmunka-alkalmazások és szolgáltatások a vállalat központján kívül is -- ígéri a cég.
+
+
+
+A Cisco Virtual Office hálózati megoldás egy központilag menedzselt eszköz, amely magában foglalja a hálózati (routing, switching), a biztonsági, a vezeték nélküli és a szabályfelügyeleti funkciókat, és nem utolsó sorban az IP-telefóniát, ezzel biztonságos video-, hang-, adat- és vezeték nélküli szolgáltatást nyújtva a felhasználóknak. Az eszköz automatikusan, elõre beállított paraméterek szerint telepíthetõ, így az üzembe helyezést a fejlesztõk szerint akár az alkalmazott is elvégezheti, a mûvelethez nem szükséges informatikai szakember kiszállása, vagy a távoli segítségnyújtás.
+
+A Cisco megoldása több hardver- és szoftverkomponensbõl áll, melyek egy része a távoli helyszínen (lehet az alkalmazott otthona, vagy egy fiókiroda), másik része a központi irodában található. Elõbbinél az automatikusan telepíthetõ Cisco 881w sorozatú Internet Services Router (ISR) útválasztó és Cisco 7970G színes kijelzõs IP-telefon képezi az infrastruktúra alapját. A Cisco 881w ISR útválasztót bárhol az internetre lehet csatlakoztatni, ezután a berendezés kapcsolódik az irodai hálózathoz, és automatikusan letölti a mûködéshez szükséges paraméterlistát tartalmazó állományt. Ezt követõen az alkalmazottak máris használhatják az automatikusan települõ üzleti csoportmunka-alkalmazásokat és szolgáltatásokat.
+
+
+
+A központi irodában található rendszer alapja a Cisco 7200 sorozatú útválasztó, amely konvergens platformként szolgál a virtuális magánhálózathoz. Az útválasztó a Cisco dinamikus többpontos VPN technológiáját alkalmazza, így az adatok titkosítása a központi irodán történõ átvitel nélkül oldható meg két távoli helyszín között, jelentõsen növelve ezzel a hálózati teljesítményt és az adatelérés gyorsaságát, valamint csökkentve a központi telephely terhelését. Az infrastruktúra támogatja továbbá az SSL- és L2TP-adatok továbbítását IPsec titkosítású VPN-hálózatokon, így egyetlen konvergenciapontként jelenik meg a különbözõ titkosítási technológiákat -- például notebookot vagy PDA-t -- használó felhasználók számára.
+
+
+A központban üzemelõ szabály-, azonosítás- és beállításfelügyeleti kiszolgálók a Cisco Configuration Engine-nel konfigurálhatók -- az összetett központi felügyeleti architektúrával a Cisco Virtual Office valamennyi szolgáltatása kézben tartható, így többek között a biztonsági, együttmûködési és mobilszolgáltatások, valamint az egységesített kommunikáció.
+
+A Cisco és partnerei a Cisco Virtual Office tervezésében, kivitelezésében és telepítésében is kínálnak szakértõi szolgáltatásokat. Ezek magukban foglalják a központi irodában történõ telepítést, a meglévõ rendszerekkel való integrációt, útmutatást a távoli helyszíneken végzett automatikus telepítéshez és a helyszínek menedzseléséhez.

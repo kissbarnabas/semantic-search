@@ -1,0 +1,55 @@
+A Distributed File System rejtelmei
+
+Az adatok elhelyezésének és szervezésének számtalan módja van. Tárolhatjuk õket adatbázisban, floppy lemezen, pendrive-on, publikálhatjuk web-es tartalomként, vagy elmenthetjük szalagra. Most mégis maradjunk az irodai környezetben talán leghagyományosabbnak mondható módszernél: helyezzük el adatainkat a fájlszerveren és tegyük ott elérhetõvé a felhasználók számára.
+
+
+
+Eddig persze nem túl izgalmas a történet. A hálózati felhasználó kitallózza magának a megfelelõ kiszolgálót, rálel a szerencsés esetben beszédes nevû megosztásra, ott a mögöttes könyvtárstruktúrában biztos kézzel kattintgatva eljut a tizenhatodik alkönyvtárba -- és a kívánt fájl már meg is van. Nincs is itt semmi hiba, a rendszer gazdája idõrõl idõre elmagyarázza az újonnan belépõ alkalmazottaknak, hogy mit hol találnak. Igen ám! De a cég növekszik, egyre több a felhasználó, egyre több a napi használatú adat, és ha lehunyjuk a szemünket egy-két évre, egy olyan infrastruktúrát látunk ébredéskor, amiben több tucat szerver több telephelyen tárolja felhasználók százainak, vagy akár ezreinek adatait.
+
+Ebbe a környezetbe képzeljük bele Béla bácsit és Juliska nénit, mint a rendszerrel épp most ismerkedõ felhasználókat. Rendszergazda jön, nagy levegõt vesz és elkezdi hosszasan sorolni, hogy az adott munkakörhöz tartozó állományok mely szerverEK melyik megosztásAIBAN, mely alkönyvtárAKban találhatók. Míg Béla bácsi pislogva memorizál és csak három perc múlva adja fel, addig Juliska néni már az elsõ perc után könnyes szemmel papírzsebkendõ után kutat... Nem beszélve arról, hogy egy olyan telephelyen fognak dolgozni, ami az adatközponttal csak egy jóféle 512kbit/sec-es kapcsolattal bír. Míg egy-egy fájl megnyitása közben Béla bácsi átfuthatja a teljes sportrovatot, addig Juliska néni a társkeresõt olvashatja el. Fõleg, ha megtalálják a szükséges fájlt. Feltéve, hogy akarnak ilyen környezetben dolgozni egyáltalán.
+ 
+A DFS replikációjának idõzítése
+
+Itt kap szerepet az a szolgáltatás, amit névrõl ismerhetünk már a Windows NT-s korszak óta, bár ott addendumként illeszthettük a rendszerhez, a Windows 2000-ben már a telepítõcsomag része: a DFS, azaz a Distributed File System. Ezt a DFS-t újították meg, egészítették ki és tették nagyon sok meglévõ problémára megoldásként felhasználhatóvá a Windows Server 2008-ban. Mit tudott és mit tud most a DFS?
+
+DFS az elõzõ Windows-verziókban
+
+Standalone DFS: Noha ezen írás nem a múltba igyekszik tekinteni, nézzük meg, hogy milyen környezetet alakíthattunk ki DFS-el régebben. A probléma adott: sok szerveren, sok megosztásban, bonyolult könyvtárstruktúrában sokak adatai laknak, valószínûleg a legjobban csoportosítva. A legjobban, de nem biztos, hogy mindenki számára megfelelõen. Ebben az esetben a DFS -- mondhatni tradicionálisan -- segítségünkre lehet. A felhasználóknak, akiknek nem megfelelõ a jelenlegi adatszervezés, mutassunk egy olyan adatstruktúrát, ami ugyan nem valós, de mutatókat, pointereket tartalmaz a valós adathelyekre. Ideális megoldás, hiszen az adatot a jelenlegi helyérõl elmozdítani nem kell (sokaknak pont úgy jó, ahogy van), de láttathatjuk úgy, mintha átcsoportosítottuk volna azokat.
+
+Hogyan is néz ki ez a gyakorlatban? Legyen szerver A és B a két tényleges fájlszerver.  Mindkettõnek számtalan megosztása van, köztük A-nak Dokumentumok1 és B-nek Doukumentumok2. Egy adott felhasználó kénytelen tudatosan csatlakozni mindkét szerverhez, sõt annak konkrét share-jeihez és az általa használt dokumentumokat errõl a két helyrõl megnyitni. Ha szeretnénk számára leegyszerûsíteni az elérést, vegyük elõ szerver Z-t és jelöljük ki DFS root-nak! A DFS root nem lesz más mint egy olyan "megosztott könyvtár", melynek tartalmát képzõ alkönyvtárak nem (feltétlenül) valósak, csak pointerek, jelen esetben szerver A Dokumentumok1 és szerver B Dokumentumok2 megosztásaira mutatnak.
+
+A Standalone DFS architektúrája
+
+Tetszõleges mennyiségû pointert helyezhetünk el a DFS root alatt, melyek a valós célhelyekre mutatnak. Ennyi lenne a DFS? Nos, tulajdonképpen ennyi a Standalone DFS változat, annyi kiegészítéssel, hogy a pointerek kialakításakor megadhatunk alternatívákat is a cél tekintetében, azaz ha szerver C  Dokumentumok1 megosztása ugyanazzal az adattartalommal bír, mint szerver A Dokumentumok1, akkor a hibatûrés és a terhelésmegosztás jegyében a DFS root alatti "könyvtár" mindkét helyre egyaránt mutat. Ezt a DFS a kliens gép számára listaként, mintegy folyamatosan változó sorrendiséggel közvetíti, tehát nagy számú kliens esetén azok kb egyenlõ arányban oszlanak meg a tényleges célhelyek között.
+
+Itt jegyzendõ meg, hogy a DFS root által felkínált "virtuális" könyvtárstruktúrára kattintva NEM a DFS kiszolgáló keresi fel a valós célt, hogy leplezze a csalást! A kliens gép DFS ügyfélkomponensének üzen, aki felkeresi a tényleges adathelyet. Telepítettünk mi ilyet? Nem, de ez bizony szerényen megbújó része a Windowsnak õsidõk óta.
+
+Igen ám, de mi a helyzet a módosított dokumentumokkal az azonos tartalmú célhelyeken? Ha szerver A Dokumentumok1-ben módosítunk, az eljut valahogy szerver C Dokumentumok1-be? Sajnos nem.  Stand Alone DFS esetén ( hangsúlyozom, hogy nem a Windows szerver 2008-ban található DFS-rõl van szó!), a célhelyek csak olvasható dokumentumokkal legyenek tele, vagy változások, módosítások esetén gondoskodjunk mi a konzisztenciáról. Jó, de hogyan? - Akárhogyan -- mondja a régi DFS -- ez már nem rám tartozik. &#8211; Hát... köszi. Igazán kedves.
+
+Domain-Based, azaz  Active Directory integrált DFS: Amikor a Windows 2000 és az Active Directory megjelent, a DFS sokat változott -- elõnyére. Bár a Standalone változat megmaradt, a Domain-Based sokat ígért, és azt be is váltotta. Root replikát alakíthattunk ki, azaz ha a DFS root-unk valamiért kiesett, fordulhattunk egy másikhoz, ahol ugyanaz a "virtuális" struktúra fogadott minket a valós célhelyekre mutató pointerekkel. Nagy elõrelépés! Fõleg ha azt is számításba vettük, hogy nem is konkrétan a DFS szerverre kellett hivatkozni, ha a root-ot akartuk elérni. Az AD felkínált nekünk egy olyan belépési pontot, amely egy igen furcsa UNC path: domainnévdfsrootnév.
+
+Az erre tett hivatkozáskor az AD szerepe nem ért véget, hiszen a kliens IP címébõl és a belépési pont mögötti root replikák IP címeibõl a DNS-sel karöltve könnyen irányíthatta a felhasználót egy olyan DFS root-hoz, ami a klienssel azonos Site-on van. Azonos tartalmú DFS root-ok különbözõ telephelyeken? Bizony, de ha az adott telephelyen lévõ root nem elérhetõ, akkor még mindig ott a távoli -- igaz, sokkal lassabban.  Komoly változást hozott a Domain-based DFS a célhelyek alternatíváinak kezelésében is: a File Replication Service, azaz FRS (NTFRS) segítségével meg lehetett tartani a különbözõ fizikai szerverek azonos adattartalmú területeinek konzisztenciáját. Hogy ez mennyire volt szoros, az már az FRS-en múlt, mindenesetre tette a dolgát. Mit tett a DFS, ha ezek az azonos tartalmú célhelyek különbözõ telephelyen voltak? Akárcsak a root kiválasztásakor, itt is az AD-ban definiált Site struktúra döntött: a klienst -- lehetõség szerint --  a vele azonos telephelyen lévõ cél felé irányította.
+
+Az Active Directory integrált DFS architektúrája
+
+Hát ez már egész jó, nem? Kell ennél több? Dehogy! Elkezdtük használni és... és elég sokat bajlódtunk vele. No nem a DFS-sel magával, az rendben mûködött, hanem az a fránya FRS, az elég sok borsot tört az orrunk alá! Akár a root replikáknál, de fõleg a célhelyek közti replikációnál misztikus hibák fordulhattak elõ, melyekre sok esetben a "net stop ntfrs &#8211; net start ntfrs" volt a megoldás. Gond volt a teljesítménnyel és a kommunikáció megbízhatóságával is, az FRS nem különösebben modern módszerekkel dolgozik. És az idõzíthetõség? Ha nem szeretném, hogy hétköznap napközben az FRS foglalja a telephelyeket összekötõ vonal amúgy is szûkös áteresztõképességét? Vagy estleg pont azt szeretném, hogy napközben biztosítsa a legszorosabb konzisztenciát? Igényként merült fel gyakran az is, hogy "de jó lenne DFS nélkül jól összereplikálni két szerveren adatterületeket, no és ha már úgyis itt van az FRS, nem lehetne esetleg vele?"
+
+	     
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                    A cikk több oldalból áll:
+                    
+                    
+                        1. oldal: A Distributed File System rejtelmei
+                      
+                        2. oldal: Distributed File System a Windows Server 2008-ban
+                      
+                        3. oldal: A SYSVOL és a DFS Replikáció kapcsolata
+                        
+                    
+                  

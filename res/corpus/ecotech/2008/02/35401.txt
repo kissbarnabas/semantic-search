@@ -1,0 +1,24 @@
+Történelmi jelentõségû bejelentés: 30 ezer oldalnyi dokumentációt hoz nyilvánosságra a Microsoft
+
+Alapvetõ változásokat jelentett be a Microsoft, amelynek keretében elérhetõvé teszi a széles körben használt szoftvereinek kommunikációs protokolljait és alkalmazásprogramozási interfészeit. A redmondi vállalat több mint 30 ezer oldalnyi dokumentációt hoz nyilvánosságra, emellett azt ígérte, a jövõben nagyobb hangsúlyt fektet a nyílt szabványok támogatására, és szorosabban együttmûködik a nyílt forrású közösséggel.
+
+
+
+Nyitni kék!
+
+"Ezek a lépések jelentõs változást hoznak abba a gyakorlatba, ahogy a termékeinkrõl és technológiáinkról szóló információkat megosztjuk" -- mondta Steve Ballmer, a redmondiak elnök-vezérigazgatója. "Az elmúlt 33 évben is temérdek információt osztottunk meg világszerte partnerek százezreivel, de a mai bejelentés mégis jelentõs elõrelépés a nagyobb átláthatóság felé. A célunk a jobb együttmûködés elõsegítése és az ügyfelek és fejlesztõk számára több választási lehetõség biztosítása azáltal, hogy termékeinket még nyitottabbá tesszük és még több információt osztunk meg a technológiáinkról."
+
+A tegnap bejelentett lépések olyan népszerû Microsoft-termékeket érintenek, mint a Windows Vista, a .NET Framework, a Windows Server 2008, az SQL Server 2008, az Office 2007, az Exchange Server 2007, az Office SharePoint Server 2007, valamint ezen programok összes jövõbeli verziója. "Az ügyfelek olyan szoftvereket és szolgáltatásokat várnak a szállítóktól, kiváltképp a Microsofttól, amelyek megfelelõen rugalmasak ahhoz, hogy bármelyik fejlesztõ használni tudja a nyílt interfészüket új alkalmazások hatékony integrációjára vagy teljesen új megoldások létrehozására" -- vélekedett Ray Ozzie, a Microsoft vezetõ szoftvertervezõje.
+
+Annak érdekében, hogy a fejlesztõk a Microsoft-termékekkel maradéktalanul kompatibilis megoldásokat tudjanak létrehozni, a Microsoft az összes API és kommunikációs protokoll dokumentációját elérhetõvé teszi, amelyet más Microsoft-termékek is használnak. A fejlesztõknek az információk eléréséhez nem szükséges ezeket licencelni vagy bármit is fizetni. A Microsoft emellett 30 ezer oldalnyi dokumentációs tesz közzé, amelyek a Windows szerverek és kliensek által használt protokollokkal kapcsolatosak. Ezek az információk korábban a Microsoft Work Group Server Protocol Program (WSPP) és a Microsoft Communication Protocol Program (MCPP) keretén belül voltak elérhetõk és ipari titok tárgyát képezték.
+
+A Microsoft a weboldalán fel fogja tüntetni, mely protokollok esnek szabadalmi oltalom alá, azonban ezeket is licencelni fogja, mégpedig nem diszkriminatív módon és ésszerûen alacsony díjakért. Azok számára, akik licencelni szeretnék valamelyiket, a Microsoft olyan listákat bocsát rendelkezésre, amelyek felsorolják, melyik protokollt pontosan melyik szabadalom védi. A redmondiak emellett vállalják, hogy nem perelik be a nyílt forrású vagy nem kereskedelmi szoftverek fejlesztõit abban az esetben, ha ezeket a protokollokat használják termékeikben.
+
+Arccal a nyílt szabványok felé
+
+A Microsoft továbbá azt is vállalata, hogy részletesen dokumentálni fogja, hogyan támogatja az iparági nyílt szabványokat és kiterjesztéseket. Ezeket az információkat bárki számára térítésmentesen elérhetõvé teszik az interneten, ezáltal a fejlesztõk megérthetik, a Microsoft egyes termékei pontosan miként használják a szabványokat és esetleges kiterjesztéseket. Az esetlegesen szabadalommal védett kiterjesztésekrõl lista készül, ezeket a kiterjesztéseket megfelelõen alacsony díjért bárki számára licencelhetõvé teszi a cég.
+
+
+A Microsoft ígéretet tett arra, hogy az Office 2007 legfontosabb komponenseihez (Word, Excel, PowerPoint) olyan új API-kat fejleszt, amelyek lehetõvé teszik a fejlesztõk számára tetszõleges dokumentumformátum (pl. ODF) támogatásának beépítését, amelyeket aztán akár alapértelmezettként is használhat a szoftver. A vállalat útjára indítja az Open Source Interoperability Initiative nevû programot, amelynek keretében információkkal és rendezvényekkel segíti elõ a nyílt forrású szoftverek és saját termékeinek együttmûködését. Az online Interoparability Forumon a fejlesztõk, az ügyfelek és a nyílt forrású közösség tagjai cserélhetik ki tapasztalataikat, emellett elindul egy Document Interoperability Initiative nevû program is, amely a népszerû formátumok közötti adatcserét hivatott megkönnyíteni.
+
+A történelminek is nevezhetõ bejelentést egyelõre szketpikusan fogadta a piac, sokak szerint a Microsoftnak már korábban is voltak nagyszabású ígéretei ebben a témakörben, de egyelõre kevés látható eredménnyel.

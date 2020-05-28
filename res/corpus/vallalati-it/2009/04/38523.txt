@@ -1,0 +1,17 @@
+Akár iSCSI SAN eszközként is használható
+
+Új modellel bõvítette kisirodai hálózati adattárolóinak sorát a NetGear. A ReadyNAS NVX érdekessége, hogy nem csak szimpla hálózati adattárolóként használható, hanem akár iSCSI tárolóhálózat (SAN) része is lehet, valamint az Apple Mac OS X 10.5-ben megjelent Time Machine szolgáltatást is támogatja.
+
+
+
+A ReadyNAS termékcsalád tagjai lényegében adattárolásra kihegyezett számítógépek Linux operációs rendszerrel, amely flash memóriáról töltõdik be, az operatív tár pedig 1 gigabájt DDR2. A korábbi ReadyNAS NV+ modellhez hasonlóan az NVX is legfeljebb 4 SATA II merevlemezes meghajtót képes fogadni, amelyek akár 2 terabájtosak is lehetnek, így a maximális kapacitás 8 terabájt. A diszkeket a ReadyNAS akár RAID-tömbbe is tudja szervezni, de a vállalat saját X-RAID megoldása is elérhetõ, amelynek elõnye, hogy a diszkeket akár menet közben is lehet bõvíteni vagy cserélni, nem szükséges a RAID-tömböt újjáépíteni.
+
+
+ A ReadyNAS NVX-et a vállalat tehetõsebb otthoni felhasználók mellett kisebb irodák, munkacsoportok számára ajánlja megosztott adattárolási és -mentési megoldásnak. A hálózati meghajtón tárolt fájlok lényegében bármilyen operációs rendszert futtató számítógéprõl elérhetõk, köszönhetõen az összes, széles körben elterjedt protokoll (CIFS, SMB, AFP, NFS, HTTP, HTTPS, FTP, FTPS, rsync, WebDAV) támogatásának. A berendezés emellett iSCSI SAN eszközként is mûködhet windowsos, linuxos vagy akár UNIX-os környezetben.
+
+
+
+
+Az eszköz a Mac OS X Time Machine szolgáltatását is támogatja, amelynek elsõsorban a kiadványszerkesztéssel vagy digitális tartalomkészítéssel foglalkozó cégek örülhetnek, ahol rendszerint sok Mac található. A ReadyNAS NVX a család korábbi tagjaihoz hasonlóan USB-porttal is rendelkezik, az ide csatlakoztatott háttértárról egyetlen gombnyomással képes biztonsági mentést készíteni. Újdonság még a ReadyNAS Vault szolgáltatás, amely lehetõvé teszi a felhasználók számára, hogy különösen értékes állományaikat ne csak a ReadyNAS eszközön, hanem online tárhelyen is megõrizzék és az interneten bárhonnan elérjék.
+
+A ReadyNAS NVX nem olcsó, a 2 terabájtos alapváltozat ára 1500 dollár, a ReadyNAS Vault szolgáltatás havidíja fogyasztók esetén 5,95 dollár, üzleti felhasználók esetén pedig 19,95 dollár.

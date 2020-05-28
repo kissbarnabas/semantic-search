@@ -1,0 +1,14 @@
+Arabok sietnek a Linux-ellenes hadjáratot elbukó SCO segítségére
+
+Úgy tûnik, magánkézbe kerül a Linux elleni jogi hadjáratáról elhíresült SCO, amely szeptemberben kért csõdvédelmet, miután két bírósági ítéletet követõen minden reális esélyét elvesztette, hogy bevételre tegyen szert pereskedései révén, sõt, hatalmas büntetések elõtt áll, emellett közel 40 millió dollár jogtalanul beszedett licencdíjat is vissza kell fizetnie.
+
+
+
+A vállalat most azt közölte, a Stephen Norris Capital Partners és egyes, közelebbrõl meg nem nevezett közel-keleti befektetõk mintegy 100 millió dollárt is hajlandóak lennének a cégbe pumpálni, amelybõl átszervezik, majd kivásárolják az SCO-t, amely így az SNCP irányítása alá kerülne. Jeff Hunsaker operatív igazgató szerint ez a lépés szolgálja legjobban az SCO, az ügyfelek, a részvényesek, a hitelezõk, valamint a dolgozók hosszú távú érdekeit. Az SNCP részérõl Stephen Norris úgy vélekedett, az SCO-ban hatalmas piaci potenciál rejtõzik és a vállalatnál jelenleg még fejlesztés alatt álló termékek sikeresek lehetnek.
+
+Az viszont biztos, hogy amennyiben az SNCP átveszi az SCO irányítását, a jelenlegi elnök-vezérigazgató Darl McBride azonnali hatállyal lemond. A céget közelrõl ismerõk szerint McBride volt a szellemi atyja a Linux ellen indított jogi hadjáratnak, és bár a legtöbben kételkedtek abban, hogy az SCO sikerre tudja vinni az ügyet, McBride meggyõzõdése volt, hogy a vállalat jövõjét azzal tudja megalapozni, ha bebizonyítja, a UNIX-ból illegálisan került át kód a Linuxba.
+
+
+Az SCO több mint négy éve látott hozzá Linux-ellenes pr- és jogi hadjáratához, melynek középpontjába az IBM-et állította. A vád szerint az IBM megengedte, hogy a Linux kernel fejlesztéseibe kód szivárogjon át UNIX operációs rendszereibõl (AIX, Dynix), melyek az SCO tulajdonába tartozó UNIX System V variánsainak számítanak, vagyis ezzel megsértették az SCO szellemi tulajdonát. Erre alapozva az SCO 5 milliárd dollárra perelte az IBM-et, és minden Linux-felhasználótól is licencdíjat akart követelni.
+
+Tavaly tavasszal azt'n gyakorlatilag semmissé váltak az SCO vádjai, miután az IBM jogászai rámutattak, hogy az SCO semmiféle lényegi dologra nem képes rámutatni, miközben megsértette a GPL-t. A végsõ csapást a cég õsszel szenvedte el, mikor Utah állam egy szövetségi bírója kimondta: a Novell a UNIX System V tulajdonosa. Az SCO ezzel nemcsak elvesztette a lehetõséget, hogy folyamatosan veszteséges tevékenysége mellett bevételhez jusson, vagy felvásárlás célpontját képezze, hanem egyúttal a felszámolás szélére is került.

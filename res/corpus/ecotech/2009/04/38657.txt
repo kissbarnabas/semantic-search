@@ -1,0 +1,16 @@
+Megijesztette a piacot a VMware növekedésének lassulása
+
+Története során elõször csökkentek a VMware szoftvereladásai az elsõ negyedévben. Az elmúlt években látott lendületes bõvülés is lassul, az elsõ negyedéves forgalom mindössze 7 százalékkal múlta felül a tavalyit, a nyereség a szolgáltatások emelkedõ részaránya miatt erõteljesen megugrott.
+
+
+
+Bár a virtualizáció egyértelmûen költségcsökkentési lehetõség a felhasználók számára, a gyenge gazdasági környezet azonban rövid távon gátolja a terjedést -- a válság sújtotta vállalatok szinte csak az azonnali megtérülést hozó projekteknek adnak zöld utat. A VMware az elsõ negyedévben 257 millió dollár értékben adott el új licenceket, ez 13 százalékos visszaesés éves szinten, örömhír azonban, hogy a szolgáltatási árbevétel 48 százalékkal növekedve 213,3 millió dollárt tett ki.
+
+
+ A magasabb nyereségtartalmú szolgáltatások felé eltolódás miatt a VMware nettó nyeresége 61 százalékkal 69,9 millió dollárra emelkedett az elsõ negyedévben. A 470,3 millió dolláros forgalom 7 százalékkal múlta felül a tavalyi év azonos idõszakának szintjét. Elemzõk 474 milliós bevétel mellett részvényenként 20 centes profitot jeleztek elõre, utóbbi várakozást a VMware könnyedén átugrotta: részvényenként 25 centes nyereséget termelt.
+
+A VMware bevétele (millió USD) és annak növekedése éves szinten
+
+A VMware kilátásai nem túl rózsásak, Paul Maritz elnök-vezérigazgató szerint "az ügyfelek csökkentik IT-kiadásaikat hogy védjék készpénzállományukat". A vállalatvezetõ úgy látja, a második negyedévben a cég teljesítménye hasonló lesz az elsõ negyedévhez, de némi visszaesés sem kizárható. "Az év nagyon keményen kezdõdött" -- mondta Maritz. "A negyedév vége felé már látszottak az enyhülés jelei, de az emberek továbbra sem nyitják ki a pénztárcájukat." A befektetõk pánikszerûen ragáltak az elõrejelzésre, a VMware negyedéves számainak bejelentése nyomán az árfolyam 14 százalékkal zuhant.
+
+A vállalat a hét elején jelentette be vadonatúj termékportfólióját, a vSphere 4-et, amelyet a cloud operációs rendszerének nevez. Ettõl azonban csak hosszabb távon várható az eladások látványos növekedése, az átfogó szoftverplatform bevezetését ugyanis valószínûleg minden ügyfélnél komoly tesztelés és felkészülés elõzi majd meg.

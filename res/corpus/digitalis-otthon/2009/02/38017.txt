@@ -1,0 +1,21 @@
+Barátainkat is megkereshetjük a mobilos Google Maps-szel
+
+A barátokkal és családtagokkal is megoszthatják aktuális tartózkodási helyüket az okostelefonokra fejlesztett Google Maps mobilos alkalmazás új verziójának a felhasználói. A mobiltelefonok közösségi felhasználását erõsítõ új funkció, a Latitude nem csak mobilkészülékeken, hanem számítógépeken is használható.
+
+
+
+Közzétehetik helyzetüket az új Google Maps mobiltelefonos alkalmazás használói, valamint közelítõleg pontos tájékoztatást kaphatnak ismerõseik, rokonaik aktuális tartózkodási helyzetérõl -- feltéve, hogy azok engedélyezik a helyzetük közzétételét. A Latitude a térképprogram &#8222;My location&#8221; helymeghatározó funkciójára épít, azaz a cellainformációk alapján határozza meg a felhasználó helyzetét.
+
+
+
+A helymeghatározáson és a tartózkodási hely kijelzésén túl a Latitude a hatékonyabb kommunikációt is segíti, így lehetõséget ad az online státuszú ismerõsök felhívására, chatelésre, valamint státuszüzenet is megjeleníthetõ vele. A rendszer használatához meglévõ Google Account szükséges, a belépés után a felhasználó eldöntheti, hogy kiket invitál meg a saját helymeghatározó profiljába, illetve kikkel kívánja megosztani helyzetét.
+
+
+A Latitude a fejlesztõk szerint maximálisan tiszteletben tartja a privát szférát, így mindenki (a meghívó fél és a meghívott is) eldöntheti egyenként, hogy kivel akarja megosztani helyzetét, kivel milyen mélységû információkat oszt meg. A kapcsolatokat csoportba rendezve megadható például, hogy a program bizonyos ismerõsi körnek csak annyit áruljon el, hogy milyen városban tartózkodik a felhasználó, aki bármikor kiiktathatja a rendszert vagy éppen tetszõleges kamu információt is szolgáltathat tartózkodási helyérõl.
+
+
+
+
+A rendszer nem csak mobiltelefonról, hanem számítógéprõl is elérhetõ a Latitude iGoogle gadgeten keresztül. A mobiltelefonos Latitude a Google Android platformjára épülõ okostelefonok mellett a legtöbb BlackBerry készülékkel, valamint Symbian és Windows Mobile operációs rendszert futtató készülékkel kompatibilis. A fejlesztõk hamarosan ígérik az Apple iPhone és iPod Touch-kompatibilis változatot.
+
+A Google 2005-ben vásárolta fel a hasonló funkciókat nyújtó, ugyanakkor jóval kevésbé látványos Dodgeballt, melynek megszüntetésérõl -- alighanem a Latitude bemutatása miatt -- nemrég határoztak a vállalatnál. Az amerikai Verizon Wireless és a Vodafone szintén rendelkezik hasonló szolgáltatással (Loopt's), de helymeghatározáson alapuló közösségi hálózatot indít hamarosan a Nokia is Maps on Ovi néven.

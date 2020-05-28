@@ -1,0 +1,16 @@
+VIA Nano processzorra épül a Samsung új ultramobil PC-je
+
+A Samsung ultrahordozható PC-sorozatánek legújabb tagja, a CES-en bemutatott Q1EX a család korábbi modelljeivel ellentétben már nem Intel Atom, hanem VIA Nano processzort foglalkoztat. A dél-koreai cég kedveli a VIA új chipjét, nemrég egy Nano-alapú netbookkal is elõrukkolt.
+
+
+
+A Samsung Q1 ultramobil PC-k családját 13 modell alkotja, melyek közül a frissebbek a netbookos világban túlnyomó többségben alkalmazott Intel Atom processzort foglalkoztatták. Az atomos túlsúly ellenére a Samsung kínálatában szerepelt már egy, a VIA elavultnak számító C7-M chipjével szerelt UMPC is, a Q1B, mely szerény számítási sebessége miatt nem volt túlságosan sikeres. A most bemutatott Q1EX azonban esélyt ad a VIA új reménységének, benne 1,2 gigahertzen ketyegõ VIA Nano U2500 processzor kapta a központi szerepet.
+
+A parányi UMPC-n a közvetlen elõdöktõl eltérõen nincs billentyûzet, a kijelzõ két oldalán már nem találhatók meg az igen kisméretû gombok -- sort indító Q1 modellhez hasonlóan azonban a Q1EX-hez is tartozik egy, a gép méreteihez igazodó külsõ billentyûzet. Ezt a billentyûzetet a géppel egy speciális tok fogja egységbe, melybe mindkettõt beletéve úgy használhatjuk õket mint egy notebookot. A Samsung Q1EX 7 hüvelykes kijelzõje érintésérzékeny, a felbontását a gyártó nem árulta el, de az elõdöké 1024x600 képpont volt.
+
+
+
+
+ A gépben található egy 1,3 megapixeles webkamera, valamint egy GPS-vevõ is. Egy UMPC használati értékét jelentõsen emeli a mobil kapcsolattartás lehetõsége, így a beépített vezeték nélküli hálózati csatoló mellett WiMAX- és HSUPA-adapter is felel az adatforgalomért. A Q1EX akkumulátoros ideje a gyártó állítása szerint akár 4,5 óra is lehet. A Samsung egyelõre nem szólt a termék áráról és piaci bevezetésének idõpontjáról.
+
+A vállalat a CES-en kiállította NC20 netbookját is, amelyben szintén VIA Nano processzor dolgozik. Az NC10-ben a számításokért még Intel Atom N270 lapka volt a felelõs, azonban az új modell a VIA Nano 1,3 gigahertzes, U225 lapkáját alkalmazza. A Samsung NC20 ára 450 euró körül várható, ezzel jóval drágább a kategória átlagánál, ugyanakkor a kijelzõje is nagyobb, 12,1 hüvelykes.

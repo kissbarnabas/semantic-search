@@ -1,0 +1,22 @@
+Ötször nagyobb teljesítményre képes a Cell processzor új változata
+
+Bejelentette következõ generációs Cell-alapú blade rendszerét az IBM, mely már a processzor egy továbbfejlesztett változatát alkalmazza. Az új blade ötszörös 64 bites számítási teljesítményt és tizenhatszoros memóriakapacitást hoz magával, ami nagyot dobhat az alig másfél éves platform penetrációján.
+
+
+
+Új Cell
+
+A BladeCenter QS22 a Cell-alapú blade rendszerek harmadik generációját képviseli, és képességei alapján átütõ erõvel rendelkezik célszegmensében, a kifejezetten számításintenzív feladatok terén (HPC, high performance computing). A QS22 immár nem az eredeti, az IBM, a Sony és a Toshiba kooperációjának eredményeként megszületõ Cell Broadband Engine mikroarchitektúrát alkalmazza, mely a PlayStation 3 lelke, hanem annak egy továbbfejlesztett változatát, a PowerXCell 8i chipet.
+
+Az eredeti Cell tervezésekor a játékok futtatása és a médialejátszás, esetleg médiarögzítés képezték a prioritásokat, ahol többségében megfelelõ 32 bites precizitású számításokkal dolgozni, valamint költségbeli megfontolásokból a memóriamennyiség is kifejezetten alacsony -- a PlayStation 3 memóriája mindössze 256 megabájt. Tervezõi emiatt erõsen korlátozott 64 bites végrehajtási képességekkel ruházták fel az elsõ Cellt, rengeteg tranzisztort és hõfejlõdést takarítva meg ezzel, cserébe a HPC-világban megkövetelt kétszeres precizitásnál nagyjából tizedére esett vissza teljesítménye.
+
+
+A PowerXCell 8i továbbfejlesztésének fókuszát szinte magától értetõdõen a HPC terület képezte, ami egyet jelent a 64 bites teljesítmény "gatyába rázásával". Az új processzor már a kétszeres precizitású végrehajtás érdekében módosított vektormagokat alkalmaz  (enhanced dual precision SPE SIMD engine), melyek áramkörei a 64 bites adatokat extra, a kétszeres adatszélesség természetes hatásán túl teljesítményveszteség nélkül kezelik, ami ötszörös áteresztõképességet jelent. A memóriatámogatáson is javítottak, egy PowerXCell 8i immár 16 gigabájt DDR2 memóriát is képes kezelni a QS22 blade-ben.
+
+Nagy teljesítménysûrûség
+
+Az IBM 65 nanométeres gyártástechnológiáján készülõ PowerXCell 8i továbbra is 3,2 gigahertzen üzemel, egy PowerPC mag mellett 8 vektorprocesszort integrál, és a fent említett változásokon túl teljesen megegyezik az eredeti Cell mikroarchitektúrájával és elektronikai implementációjával, ami nemcsak a chip fejlesztési költségeit minimalizálta, de nem sérti az eddigi szoftverek optimalizációját, sem a fejlesztõeszközök hatékonyságát. Két PowerXCell 8i egy QS22 rendszerben 217 gigaflops (64 bit) csúcsteljesítményre képes 32 gigabájt memória megcímzése mellett, ami BladeCenter keretenként 3 teraflopsot és akár 448 gigabájt memóriát is takarhat -- papíron mindezt 4 kilowatt fogyasztás alatt.
+
+Az IBM kifejezetten HPC-területre ajánlja a Red Hat Enterprise Linux 5.2-vel szállított QS22-akat, amit a kétportos InfiniBand csatlakozási lehetõség is jelez. A vállalat szerint a grafikus processzorokkal és más specializált gyorsítókártyákkal szemben a PowerXCell 8i chipek jóval rugalmasabbak, könnyebben programozhatóak és robusztusabbak, míg az általános célú processzorokkal szemben hatékonyabb felépítése révén jelentõsen nagyobb teljesítmény leadására képesek a tipikusan számításintenzív feladatok alatt -- ennek mértéke vagy éppen elõjele természetesen a feladat természetétõl és a kód minõségétõl döntõen függ.
+
+Az IBM által kiemelt területei közé tartozik többek közt a repülõgépipar, az egészségügy, az energetika, az elektronikai tervezés, a média és pénzügyi szektor is, melyekre vertikális megoldásokkal is rendelkezik, beleértve a fejlesztõeszközök biztosítását és a szakosodott szoftverszállítók bevonását is. Az IBM állítása szerint több mint 50 vállalat alkalmazza jelenleg vagy a közeljövõben az új blade-eket. A QS22 listaára nettó 10 ezer dollárról indul, vagyis fele annyiba kerül, mint indulásakor a jóval korlátozottabb képességû QS20.  Ez az összeg 2 processzort, 8 gigabájt memóriát és 1 év helyszíni garanciát foglal magába. A szállítások júniusban kezdõdnek meg.

@@ -1,0 +1,27 @@
+Éledezik a WiMAX az Egyesült Államokban
+
+Újabb nyolc amerikai nagyvárosban még idén elérhetõvé teszi WiMAX-szolgáltatását a Clearwire: Atlanta, Las Vegas, Chicago, Charlotte, Dallas, Honolulu, Philadelphia és Seattle lesznek idén azok a városok, ahol beindul a nagy sávszélességû vezeték nélküli internet. Baltimore-ban és Portlandben már most is kínál ilyen szolgáltatást a Clearwire, de az új városok bekapcsolásával már több mint 20 millió lakosnyi lefedettséget érhet el a cég.
+
+
+
+Ezzel felcsillant némileg a remény arra, hogy a WiMAX elkerülje a teljes kudarcot: a fejlesztésekre fordított pénz a Clearwire és a partner Sprint Nextel számára ugyanis csak akkor tud megtérülni, ha nagyon gyorsan, még az LTE-hálózatok elterjedése elõtt képesek komoly ügyfélbázist kiépíteni. A jövõ évi tervekben már olyan nagyvárosok lefedése szerepel mint New York, Washington D.C., San Francisco, Boston, illetve Houston. A tervek szerint 2010 végére már 120 millió amerikait érnek el a WiMax-hálózatok.
+
+
+
+Vezérváltás
+
+Váratlanul vezetõváltás történt a Clearwire élén, a céget alapító Benjamin Wolff helyett mától fogva William Morrow irányítja a vállalatot. Morrow korábban a Pacific Gas & Electric közmûszolgáltatót vezette, ezt megelõzõen pedig a Vodafone-nál töltött be vezetõi pozíciókat. Bejamin Wolff továbbra is a cégné marad mint az igazgatótanács társelnöke, feladata többek között partnerkapcsolatok kialakítása és további tõke felhajtása lesz
+
+
+
+
+ A WiMax elméletben akár 50 km-es távolságban is képes kapcsolatot létrehozni, maximális sávszélessége pedig 72 Mbps, de természetesen a kettõ közül egyszerre csak az egyik teljesül: városi környezetben, nagy épületek között már néhány kilométeren is annyit romolhat a jel, hogy mindössze 2 Mbps jut egy felhasználóra.
+
+A WiMax hátránya az eléréshez szükséges eszközök ára, illetve csekély elterjedtsége, de ezen a Clearwire úgy segítene, hogy még idén nyáron kombinált "3G/4G" modemeket kínál felhasználóinak, amivel a WiMax mellett a meglévõ CDMA-hálózatot is el tudnák érni. A Clearwire és a Sprint által is forgalmazandó modem automatikusan váltana a lassabb 3G és a WiMax hálózatok között, csakúgy, mint ahogy jelenleg hazánkban is a GPRS/EDGE/HSDPA elérések között váltanak az eszközök.
+
+[+] 2009 várható bukása: WiMax 
+
+A Clearwire-nek sietnie kell, ugyanis a jelenlegi költségszint mellett tizenháromszor több bevételte kellene termelnie ahhoz, hogy nyereségessé váljon. A cégbe eddig 3,2 milliárd dollárt fektettek befektetõi, és a cég szerint további 2 milliárdra lenne szükség csak ahhoz, hogy a cég mûködése ne vigye a pénzt. A hagyományos mobilhálózatok fejlõdésével és a mobilinternet WiMAX-tól független terjedésével a befektetõk számára viszont egyáltalán nem stratégiai jelentõségû többé a WiMAX, mellyel korábban a saját termékeik iránti keresletet kívánták gerjeszteni.
+
+
+ Annak ellenére, hogy a nagy lefedettséget biztosító következõ generációs hálózati technológia több oldalról is présben van, s a fent említett befektetõi problémák mellett jövõre már a Verizon Wireless LTE megoldásaival is szembe kell néznie, a Clearwire bizakodó. A cég szerint a közeljövõben újabb expanzióról szóló bejelentések várhatóak, igyekeznek kihasználni a WiMAX elõnyeit a vidéki területeken, ahol a nagy lefedettség miatt sokkal költséghatékonyabban építhetõ ki a segítségével szélessávú infrastruktúra mint LTE-vel vagy akár vezetékekkel.

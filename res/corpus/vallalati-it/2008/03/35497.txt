@@ -1,0 +1,14 @@
+Centrino Atomos a Panasonic strapabíró UMPC-je
+
+A Panasonic ütésálló, zord körülmények között is használható Toughbook noteszgép-sorozata egészül ki egy, a jelenleg is látogatható CeBIT rendezvényen kiállított UMPC-vel. Az új hordozható számítógép lelke a napokban Centrino Atomra átkeresztelt Menlow platform.
+
+
+
+A Panasonic Toughbook sorozata a problémásabb felhasználási körülményeket jól tûrõ kivitellel nyert meg számtalan felhasználót, akik az iroda melegétõl távol, sok esetben mostoha körülmények közepette végzik munkájukat. A Toughbook sorozatba a Panasonic most egy UMPC-t is illesztett, melynek kijelzõje 5,6 hüvelyk képátlójú és érintésérzékeny. A vaskos, tömzsi gépet egy kézzel, akár úgy is lehet tartani, mint egy videokamerát a kézpántjával, kényelmesebbé téve a helyváltoztatással együtt járó használatot.
+
+
+A Toughbook minigép további érdekessége, hogy az Intel legújabb, internetes céleszközökbe, UMPC-kbe szánt platformját, a Centrino Atomot alkalmazza, amely nem más, mint a névváltás elõtti, Silverthorne processzort és Poulsbo lapkakészletet együttesen tartalmazó Menlow palatform. A Panasonic a gépbe nem épített vezeték nélküli hálózati csatolót (a Centrino Atom platformnak a korábbi gyakorlattól eltérõen nem is része), de a webkamera és a vonalkódolvasó is csak extra kiegészítõként illeszthetõ hozzá. Jelenleg nem állnak rendelkezésre adatok a piacra érkezéssel és a várható árral kapcsolatban, de nem lesz a legolcsóbb számítógépek egyike. Hazánkban egy Toughbook noteszgépért Intel Core 2 Duo processzorral akár 1,3 millió forintot is elkérhetnek a hazai forgalmazók.
+
+Az új Toughbook UMPC nem a kisiskolások slágergépe, mélyen kell majd zsebbe nyúlni érte
+
+Az Intel jelenlegi ultramobil platformja, a McCaslin gyakorlatilag csak egy "elavult", alacsony fogyasztású Centrino-platform (Sonoma), így alkalmatlan MID-ekhez, valamint messze nem ideális UMPC-khez sem. A Menlow mérete negyede lehet a hagyományos rendszerekének, miközben fogyasztása is nagyjából negyedére szorítható vissza.

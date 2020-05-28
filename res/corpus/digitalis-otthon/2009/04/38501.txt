@@ -1,0 +1,15 @@
+Az NVIDIA is indít új versenyzõt a videokártyák 250 dolláros árszegmensében
+
+A Radeon HD 4890-es kártyák megjelenésére válaszul az NVIDIA is bejelentette, hogy hamarosan szállítja új, csúcskategóriás videovezérlõjét, a GeForce GTX 275-öt. Az új modell pontosan ugyanabba az ár/teljesítmény szegmensbe illeszkedik, mint az AMD megoldása, az NVIDIA kínálatának azonban van már ennél gyorsabb egychipes kártyája is.
+
+
+
+A GT200-as architektúrára épülõ GeForce GTX 275-ön található, 1,4 milliárd tranzisztorból felépülõ grafikus processzor 240 stream processzort és 80 textúrázó egységet tartalmaz, a mag órajele 633 MHz lesz, a feldolgozóegységek pedig 1,4 GHz-en járnak majd. A GPU-hoz 448 bit széles memóriabuszon keresztül csatlakozik az összesen 896 megabájtnyi, 1134 (effektíve 2268) MHz-en járó GDDR3 memória.
+
+
+
+
+
+A hatalmas méretû grafikus processzornak köszönhetõen a GeForce GTX 275 étvágya is jelentõs: a kártya maximális fogyasztása 219 watt, ezért két 6-tûs tápcsatlakozón keresztül kell áramot juttatni a vezérlõnek. Egyes kártyaforgalmazó cégek szerint a GeForce GTX 275 lényegében nem más, mint egy olyan, megnövelt órajelû GeForce 260, melynél mind a 240 stream processzort engedélyezték.
+
+Az NVIDIA láthatóan kényszerbõl, riválisához igazítva hozta elõre a GeForce GTX 275 premierjét, tekintve, hogy a sajtóhír szerint április 14-én, "vagy elõtte" érkezhetnek meg az elsõ szállítmányok a boltokba, de nem minden régióban egyszerre, a szállítás tehát a jelek szerint legalábbis bizonytalan. Az újdonság, mely az elsõ tesztek szerint hajszálnyival gyorsabb a Radeon HD 4890-nél, a 230-250 dolláros ársávban helyezkedik majd el márkától és forgalmazótól függõen.

@@ -1,0 +1,16 @@
+Új HP ProLiant szerverek kis- és középvállalatoknak
+
+Négy új kis- és középvállalati szervert mutatott be a HP, a ProLiant család új tagjai között két Xeon-alapú és két Opteron-alapú gépet találunk. A konfigurációkat úgy állította össze a HP, hogy a szerverek helytakarékos kialakításban és kedvezõ áron nyújtanak nagy teljesítményt, emellett az üzemeltetésük is egyszerû legyen, a cég szerint ugyanis szervervásárlásnál ezek a legfontosabb szempontok a célcsoport számára.
+
+
+
+A ProLiant DL160 G5 és DL165 G5 egyaránt 1U kivitelû rackszerverek, amelyekbe két processzort lehet beépíteni, a DL160-ba Xeonokat, a DL165-be pedig Opteronokat (a ProLiant családban a típusjelzés utolsó száma utal a processzorra, a 0-ra végzõdõ modellek Intel-alapúak, az 5-re végzõdõek AMD-alapúak). A most bejelentett gépekbe még a 65 nanométeres csíkszélességgel gyártott négymagos Xeon E5400-as sorozat tagjait lehet rendelni akár 3 GHz-es órajellel, Opteronból viszont a Barcelona késlekedése miatt továbbra is csak a kétmagos változatok elérhetõk.
+
+A DL160 és DL165 G5 esetében a HP a világon elsõként teszi lehetõvé négy darab 3,5" merevlemez beépítését egy 1U szerverbe, ezáltal nem csak nagy teljesítményt, hanem nagy tárkapacitást is biztosítva a vevõk számára. A ProLiant DL180 és DL185 G5 már 2U kivitelûek, de továbbra is kétfoglalatos gépek, amiket már redundáns tápegységgel is lehet rendelni. A Xeon-alapú ProLiant DL180 G5-be legfeljebb 12, az Opteron-alapú DL185 G5-be pedig 14 darab SATA vagy SAS diszket lehet építeni, ezzel a kapacitás 10 terabájt fölé is növelhetõ. A DL160-as sorozat két PCI Express bõvítõhellyel rendelkezik, a DL180-as gépekbe már három ilyen kártya építhetõ. A maximális memóriakonfiguráció mind a négy szerver esetében 32 gigabájt.
+
+HP ProLiant DL185 G5
+
+
+Noha a ProLiant 100-as sorozat a HP szervereinek belépõ szintjét jelenti, a gépek távolról is menedzselhetõk, csakúgy mint a nagyobb testvéreik. Nem csak a mûködési paramétereket lehet a távolból figyelni, hanem szoftvereket frissíteni vagy telepíteni is: a DL160-as és DL180-as szerverek virtuális DVD-ROM-ot és USB2.0 eszközöket is támogatnak, vagyis az asztali PC-ben levõ optikai meghajtót és USB2.0 eszközöket úgy tudják kezelni, mintha azok közvetlenül a szerverhez csatlakoznának.
+
+A ProLiant DL160 G5 és DL185 G5 azonnal elérhetõ, az árak 1399 dollártól, illetve 1749 dollártól indulnak. A ProLiant DL165 G5, illetve a DL180 G5 a következõ 90 napon belül jelenik meg a cég kínálatában, egyelõre ismeretlen áron.

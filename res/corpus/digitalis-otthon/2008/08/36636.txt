@@ -1,0 +1,20 @@
+Minden piacon lévõ megoldást aláz az AMD új integrált lapkakészlete
+
+Minden eddiginél erõsebb grafikus maggal ellátott alaplapi lapkakészlet jelent meg az AMD kínálatában -- a gyártó saját processzoraihoz passzoló AMD 790GX chipset a korábbi nagyágyúnak számító 780G közvetlen utódja, annak továbbfejlesztéseként létrejött megoldás. Az újdonság amellett, hogy gyorsabb grafikus megjelenítést ígér, energiatakarékosabb is lehet elõdjénél, emellett néhány kisebb-nagyobb fejlesztést is hoz.
+
+
+
+Az AMD 790GX-be integrált ATI Radeon HD 3300 videovezérlõ az RV610 grafikus magra épül, így alapjait, ezzel teljesítményét tekintve gyakorlatilag teljesen megegyezik a korábbi, HD 3400-sorozatú diszkrét megoldásokkal. A DirectX 10-kompatibilis, 700 MHz-es órajelen ketyegõ grafikus motor 40 shadert vonultat fel, a nagyobb grafikus teljesítményhez azonban nem csak ez, hanem a dedikált grafikus memória (Sideport memory) is hozzájárul -- utóbbi lehetõséget ad arra, hogy az IGP saját memóriavezérlõjével címezzen meg 64 vagy 128 megabájtnyi, 64 vagy 128 bites szervezésû DDR2 vagy DDR3 memóriát.
+
+Felsõbb szegmensek felé
+
+Az új AMD lapkakészletbe épített grafikus motor teljesítményét tekintve elegendõ tartalékkal rendelkezik ahhoz, hogy a kurrens játékprogramokat is élvezhetõ sebességgel futtassa, a nagy felbontású, részletes háromdimenziós látványvilágért rajongóknak azonban természetesen lehetõségük adódik a rendszer bõvítésére. Az AMD 790GX összesen 22 PCI Express vezetéket kezel, az alaplapgyártók ezt akár úgy is feloszthatják, hogy két PCI Express x8 csatolót építenek a nyomtatott áramkörre. Így akár két csúcskategóriás grafikus vezérlõ is összekapcsolható Crossfire üzemmódba, de a szerényebb keretösszegbõl gazdálkodó felhasználóknak arra is lehetõségük adódik, hogy az integrált lapkát párosítsák egy ATI Radeon HD 3400 vagy 2400 sorozatú diszkrét megoldással (ezt az üzemmódot Hybrid Crossfire-nak keresztelték az AMD-nél).
+
+
+ Az integrált grafikus motor a HD-videók dekódolásából is kiveszi a részét: az AVIVO HD és UVD technológiák az összes ismert és az iparág által széles körben használt videotömörítési eljárást kezelik, a kimenetek közül a legtöbb digitális interfész (HDMI/DVI, Displayport) szintúgy támogatott.
+
+Tuningosoknak kedvez
+
+Az AMD 790GX lapkakészlet southbridge-e is megújult, az SB750-es kódjelet viselõ vezérlõ azonban látszólag alig változott elõdjéhez képest. Az I/O-chip maximum 6 Serial ATA II (újdonság a RAID5 üzemmód támogatása) és két Parallel ATA egységet valamint 12 USB eszközt kezel, adott a HD audiovezérlõ és a déli híd kezeli a PCI-os bõvítõkártyákat is. Újdonságnak számít a déli hidat és a processzort összekötõ kommunikációs csatorna, az Advanced Clock Calibrator link, mely elsõsorban a tuning során jöhet jól.
+
+Az új lapkakészletre az AMD összes jelentõs alaplapgyártó partnere épít megoldásokat, így többek közt az Asus, a Gigabyte, az MSI és a Foxconn választékában jelennek meg az AMD 790GX-szel szerelt lapok, felszereltségüktõl függõen 100-150 dolláros fogyasztói áron.

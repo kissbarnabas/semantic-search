@@ -1,0 +1,14 @@
+A Mozilla tagadja, hogy a javítások ellenére sebezhetõ lenne a Firefox
+
+A mozillás Mike Shaver blogbejegyzése szerint alaptalanak Ronald van den Heetkamp vádjai, miszerint a legutóbbi, tizenkét hibát foltozó megafrissítés ellenére sebezhetõ maradt a Firefox webböngészõ. Az általa leírt metódussal csak a Firefox alapbeállításai érhetõk el, amit egyébként is le lehet tölteni az internetrõl.
+
+
+
+A híroldalak gyorsan számot adtak Ronald van den Heetkamp hacker pénteken publikált felfedezésérõl, aki szerint hiába a múlt heti gigantikus frissítés, egy nyitva maradt résen keresztül személyes, érzékeny adatokhoz juthatnak a támadók. A legfrissebb, 2.0.0.12-es verziószámú Firefox böngészõt is érintõ "hiba" segítségével állományok tölthetõk le a Firefox "mellõl", melyek elméletileg személyes adatokat is tartalmazhatnak.
+
+Mike Shaver szerint azonban ez alapvetõ tévedés, a Firefox ugyanis nem ott tárolja a személyes beállításokat, adatokat, ahonnan ezek az állományok származnak, és ebben a file-ban csak azok az alapvetõ beállítások találhatók meg, melyek a Firefox feltelepítésével érkeznek, és melyek egyébként is elérhetõk akár az interneten keresztül is. Az állományban semmilyen személyes adat nincs.
+
+
+Van den Heetkamp's felfedezése komoly médiavisszhangot keltett. Arra figyelmeztetett, hogy a frissítés ellenére egy olyan hiba maradt a Firefoxban, mellyel elérhetõ a Firefox programkönyvtárának tartalma a számítógépen. Az érintett könyvtár azonban a mozillások szerint semmilyen személyes adatot nem tartalmaz, a felhasználói profilt, és ezzel minden adatot ugyanis máshol tárolja a böngészõ.
+
+A Mozilla múlt hét csütörtökén adott ki egy hatalmas frissítõcsomagot a böngészõhöz, mely számos veszélyes és kevésbé fontos biztonsági rést, hiányosságot foltozott be. A javítások közül négy volt kritikus, három pedig "nagy veszélyességû" címkét kapott.

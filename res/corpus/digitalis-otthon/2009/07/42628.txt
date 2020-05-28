@@ -1,0 +1,44 @@
+Kipróbáltuk: 2009-es MacBook Pro
+
+    
+			   
+				  A tavaly õsszel bemutatott unibody MacBook Próhoz képest külsõre minimálisan változott az új modell, éles szemûnek kell lennie annak, aki távolról ki szeretné szúrni a különbségeket. Az egyik változás, hogy a 17&#8221; modellhez hasonlóan már a 15,4&#8221; és a 13,3&#8221; változat is fixen beépített, nem cserélhetõ akkumulátort tartalmaz, a másik újdonság pedig az SD kártyaolvasó megjelenése a jobb szélen.
+Két tojás
+A 13,3&#8221; MacBook Pro nem is a korábbi MacBook leszármazottja, sokkal inkább a 15,4&#8221; modell kicsinyített változatának tekinthetõ, külsõre szinte semmi eltérés nincs a két gép között, a 13,3&#8221; változatról hiányzik a mikrofonbemenet, ez buktatja le a gépet, meg persze a kisebb mérete. A fedelet felnyitva láthatóvá válik a másik árulkodó nyom, a bal oldalon egy apró mikrofon. Egyébként a két gép teljesen egyforma, azonos a házuk, azonos a háttérvilágítással ellátott billentyûzetük is, pedig a 15,4&#8221; változat igazán kaphatott volna nagyobbat. A háttérvilágítás egyébként a kijelzõ kávájában található 1,3 megapixeles iSight webkamera által látott kép alapján kapcsol be vagy ki, s ez alapján módosul a kijelzõ LED-háttérvilágításának fényereje is: sötétben értelemszerûen elsötétül a kijelzõ.
+ 
+
+ 
+ 
+Hardverét tekintve a két gép nagyon hasonló, mindkettõben az NVIDIA GeForce 9400M integrált chipkészlete szolgálja ki a Core 2 Duo processzort és a DDR3 memóriát. Szerkesztõségünk a 13,3 és 15,4 hüvelykes modellcsalád alapváltozatait próbálhatta ki. A kisebbik gépben 2,26 GHz-es Core 2 Duo processzor (P8400), 2 gigabájt 1066 MHz-es DDR3 memória és 160 gigabájtos merevlemez volt, a nagyobbikban 2,53 GHz-es (Core 2 Duo P8700) processzor, 4 gigabájt memória és 250 gigabájtos háttértár dolgozott. Említésre méltó különbség még, hogy a 15,4&#8221; változat kijelzõje 1440x900 pixel felbontású, a 13,3&#8221; modellé csak 1280x800. Ami azonos: DVD-újraíró a jobb oldalon, beépített Bluetooth (2.1) és draft-n Wi-Fi, iSight kamera a kijelzõ fölött, 2 USB-port, Ethernet-csatlakozó, mini DisplayPort-csatlakozó (adapter csak külön vásárolható), SD-kártyahely a bal széles. Egy ilyen új és drága noteszgéptõl eSATA-csatlakozót is elvárhatnánk, ez azonban nincs az új MacBook Próban.
+ 
+
+ 
+ 
+Tavaly õsszel már próbáltuk a 15,4&#8221; MacBook Prót, a mostani gépek számos tekintetben megegyeznek azzal. A kijelzõ továbbra is erõsen tükrözõdik, ami rendkívül zavaró ha nem fehér hátterû weboldalakat nézünk vagy fehér hátterû dokumentumokkal dolgozunk, a sötét jeleneteket tartalmazó játékokat (pl. Doom) vagy horrorfilmeket pedig csak lámpaoltás után érdemes elindítani. A gépek viszonylag nagy méretük ellenére csak 2 USB-portot tartalmaznak, ennél már 10 hüvelykes kijelzõvel szerelt aprócska netbookok is többet kínálnak, ám azt mindenképp az MacBook Prók javára kell írni, hogy a több ujj érzékelésére képes hatalmas touchpadjük nagyon jó.
+Az egy darabból forgácsolt alumíniumház impozáns megjelenést biztosít, de leejtéskor alighanem sérülékeny és a gép erõteljes terhelésekor zavaróan felmelegszik, fõképp bal hátul, ahol a processzor található. Az akkumulátor fix rögzítése a nagyobb kapacitás mellett sajnos a burkolat lecsavarozása nélkül lehetetlenné teszi a merevlemez cseréjét és a memóriabõvítést is, ezekhez le kell szedni az egész  burkolatot. (Cikkünkben itt korában tévesen állítottunk, hogy ez a beavatkozás garanciavesztéssel jár, köszönjük a MacBolt.hu észrevételét)
+ 
+
+
+ 
+ 
+ 
+Melyik a jobb?
+Tesztünkben elsõsorban arra voltunk kíváncsiak, vajon a két szinte teljesen egyforma gép közül melyik a jobb notebook. Elsõ szempont a hordozhatóság, ebben a versenyben nagyobb méretei és nagyobb tömege miatt a 15,4&#8221; gép hátrányból indul, a 2463 grammos gép töltõvel együtt már 2700 grammot nyomott nem patikapontos mérlegünkön, ez már szerintünk bõven túlvan azon a határon, amit még kényelmesen elbír az ember mondjuk egy több átszállással terhelt interkontinentális repülõút alatt. A kisebbik notesz 2030 grammot nyomott ugyanazon a mérlegen, a hozzá adott töltõvel együtt pedig 2268 grammon állította meg a digitális mérleg képzeletbeli nyelvét. Nem csak könnyebb, kisebb is a 13,3&#8221; modell, utazáshoz feltétlen jobb, a 15,4&#8221; változatot aligha tudjuk egy repülõgép ülésének háttámlájára szerelt aprócska asztalon kinyitni.
+ 
+
+ 
+A 15,4&#8221; testessége rögtön az elõnyére válik amikor figyelembe vesszük, hogy a nagyobb házba nagyobb akkumulátor fért el, egy 6700 mAh-s (73 Wh) lítiumpolimer áramforrás szemben a 13,3&#8221; változat 5500 mAh-s (60 Wh) akkujával. A nagyobb gép az erõsebb hardverrel sem fogyaszt annyival többet mint amennyivel nagyobb az akkuja, így összességében ez a gép ígér hosszabb üzemidõt. Tapasztalataink szerint akár 7,5 órán át lehet vele Wi-Fi hálózaton internetezni, a kisebb gép üzemideje inkább a 6,5 órát közelítette.
+Teljesítménytesztek
+Végeztünk néhány teljesítménytesztet is, elõször lefuttattuk a közkedvelt Cinebench R10-et, próbálkoztunk a Quake 4-gyel (HOCdemo) és a Quake 3 motorjára épülõ ingyenes Counter-Strike klónnal, az Urban Terrorral (tutorial demo), illetve PhotoShop CS4-gyel is megdolgoztattuk a masinákat. Egy 22 megapixeles fotót 300 százalékra nagyítottunk, jobbra forgattunk 13 fokkal, majd ráengedtük a Cutout szûrõt, s a futási idõket feljegyeztük.
+Cinebench R10 (pontszám) 
+Játéktesztek (fps) 
+Adobe Photoshop CS4 (sec) 
+Nem meglepõ módon a papíron erõsebb 15,4&#8221; MacBook Pro volt a sebesebb a két gép közül, a Cinebenchben és a játéktesztekben valószínûleg a kicsit gyorsabb CPU miatt, a Photoshop-tesztben pedig a kétszer akkora memória miatt. A mai memóriaárak mellett 4 gigabájtnál kevesebb RAM-mal notebookot venni butaság, sajnos azonban Magyarországon a 13,3&#8221; MacBook Prót nem lehet 4 vagy 8 gigabájttal kérni. Az Apple.com lehetõséget ad a bõvítésre, a magyar kereskedõk (Apple.hu, XMS.hu) azonban valamiért sem a memória, sem a merevlemez nagyobbra cserélését nem engedélyezik vásárláskor, marad az utólagos bõvítés.
+Túl nagy a felár
+
+Melyik MacBook Pro ajánlható a kettõ közül? Ha fontos szempont a hordozhatóság, akkor a 13,3&#8221; változatot érdemes beszerezni 352 ezer forintért (utólagos memóriabõvítés mindenképp ajánlott), de ha a vevõ a nagy kijelzõre hajt és nem szempont a vásárlásnál hogy a gép nagyobb és nehezebb, nyugodtan válassza a 15,4&#8221; verziót, bár szerintünk az 1440x900 pixeles kijelzõ, a némileg gyorsabb processzor és a nagyobb merevlemez nem éri meg a közel 140 ezer forintos árkülönbséget.
+Sajnos a MacBook Prók termelõeszközként való bevetését erõteljesen korlátozza, hogy csak 1 év garancia van rájuk, amely bõvíthetõ ugyan 3 évre, de a 13,3" modell esetén 54 ezer, a 15,4" változat esetén  90 ezer forintért. Ezzel együtt a 13,3" MacBook Pro ára 406 ezer forintra emelkedik, a 15,4" változaté pedig 580 ezerre duzzad.	     
+                  
+                  
+                  
+                   

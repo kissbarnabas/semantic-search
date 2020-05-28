@@ -1,0 +1,25 @@
+Nano néven kerül piacra a VIA következõ generációs processzora
+
+Nano néven jelenik meg a VIA korábban Isaiah kódnéven ismert egymagos processzora, jelentette be a tajvani vállalat Kínában. Az új chipek már a számítógép- és alaplapgyártók rendelkezésére állnak, kereskedelmi termékekben pedig a harmadik negyedévben várható. A mainstream és ultrakompakt PC-kbe egyaránt célzott Nano ötféle változatban kerül piacra a rajtkor.
+
+
+
+Ugrás
+
+A VIA C7, Esther utódjának szánt Nano öt változatban jelenik meg néhány hónapon belül. A két alacsony feszültségû, 1,6 és 1,8 gigahertzes modellt a VIA normál személyi asztali és hordozható számítógépekbe szánja, míg a három 1, 1,2 és 1,3 gigahertzes  ultraalacsony feszültségû modellel, a kisméretû asztali, valamint ultrahordozható eszközöket célozza, mint például mini notebook PC-k. A Nano teljesen lábkompatibilis a C7-tel, ugyanazt a rendkívül kompakt, 21x21 milliméteres tokozást kapta, így mindössze egy BIOS-frissítés szükséges elméletileg a felfejlesztéshez.
+
+
+A VIA mérései szerint a Nano azonos órajelen jellemzõen másfél-kétszeres teljesítményt nyújt a C7-hez képest irodai és multimédiás produktivitás terén, míg irodai környezetben nagyjából azonos teljesítményt kínál egy Merom családhoz tartozó Intel Celeron-M processzorral -- impresszív eredmény egy olyan kis tervezõcégtõl, mint a VIA. Bár a valós felhasználási körülmények közötti mérésekre még néhány hónapot várni kell, kétségtelennek tûnik, hogy a Nano jelentõs elõrelépést képvisel a VIA számára, mely megalapozhatja a vállalat erõteljesebb, életképes processzorpiaci jelenlétét.
+
+A Fujitsu 65 nanométeres csíkszélességû eljárásán készülõ Nano 1 gigahertzes változata legfeljebb 5 wattot fogyaszt tartósan (TDP), az 1,3-1,4 gigahertzes 8 wattot, míg az 1,8 gigahertzes változat TDP-je már 25 watt, vagyis az órajel-fogyasztás görbe karakterisztikája azt mutatja, a chip jelenlegi verziójának energiahatékonyság szempontjából ideális frekvenciatartománya 1,4 gigahertz alatt található. A Nano piaci ellenfeleinek az Intel Celeronok, az AMD Sempron és Athlon 64, valamint a mini PC-k terén az Intel Atom tekinthetõek. Elõbbi mezõnyben energiahatékonyságával és árával, utóbbi ellen pedig erõteljesebb felépítésébõl fakadó nagyobb teljesítménnyel rúghat leginkább labdába, papíron. 
+
+Korszerû felépítés
+
+A Nano egy gyökeresen új mikroarchitektúrát valósít meg 63 négyzetmilliméteren, szakítva az elõdök örökségével, hogy a legújabb megoldásokat használhassa fel egy modern felépítésû processzor létrehozása érdekében. A Nano számos téren mérföldkõ a VIA számára, így például az elsõ 64-bites utasításkészletû, és az elsõ soronkívüli végrehajtással bíró. Órajelenként három utasítás feldolgozására képes, többszintû, szavazásos elagázásbecslõ rendszerrel és hatékony cache-hierarchiával rendelkezik, 1 megabájtos L2 gyorsítótárral. A Nanóban kriptográfiai motor is található, mellyel az ismert titkosítási algoritmusok rendkívül gyorsan futnak.
+
+Az energiahatékonyság érdekében természetes a dinamikus energiagazdálkodás, ugyanakkor azt is igen fejlett módon teszi a Nano. Két független órajelgenerátora révén teljesítményveszteség nélkül képes feszültségét és órajelét léptetni, míg az Intel chipjei esetében ezek, mégha emberi léptékkel felfoghatatlanul rövid idõre is, felfüggesztik a végrehajtást. Egy további kifinomult technikával ráadásul nem elõre rögzített feszültség-órajel lépcsõket határoz csak meg a Nano, hanem a maghõmérséklet függvényében képes kalibrálni magának az üzembiztos mûködéshez szükséges feszültséget. Mivel a "gyári alapbeállítások" a legrosszabb, extrém maghõmérséklet esetét veszik figyelembe, ezért ez a gyakorlatban, alacsonyabb hõmérsékletek esetén alacsonyabb feszültségeket, így alacsonyabb fogyasztást eredményez. A processzort gyakorlatilag teljesen leállító C6 energiaszint segítségével a Nano terheletlenül 0,1 wattot fogyaszt. 
+
+[+] A HWSW összefoglalója az Isaiah architektúrájáról 
+
+
+A Nanóval a VIA mikroarchitekturálisan felzárkózik riválisai mellé, gyártástechnológiai és tömegtermelésbeli hátrányával azonban továbbra is küzdenie kell, nem beszélve korlátozott mérnöki erõforrásairól. Az Isaiah utódja, mely 45 nanométeres eljárással két processzormagot implementál majd, a Digitimes értesülései szerint ugyanis csak jövõ év második felében érkezik majd, miközben az Intel heteken belül beindítja a kétmagos Atomok tömegtermelését. Kérdéses tehát, hogy mekkora teret tud nyerni magának a Nano segítségével a VIA, és elegendõ forgalmat tud-e generálni fejlesztéseinek versenyképesen tartásához -- jót tenne a piacnak egy valós alternatívát felmutató harmadik szereplõ. A Nano bejelentéséhez kapcsolódó dokumentáció letölthetõ a VIA oldaláról (PDF). 

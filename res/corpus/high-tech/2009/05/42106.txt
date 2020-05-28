@@ -1,0 +1,29 @@
+Elkészült az elsõ USB 3.0 vezérlõchip
+
+Az NEC feszített tempóban halad a piac felé USB 3.0 vezérlõchipjeivel. A japán elektronikai óriás júniusban tervezi a tesztpéldányok szétküldését, elsõsorban PC-gyártók számára. "Már részletes tárgyalásokat folytatunk PC-gyártókkal a világ minden tájáról" -- nyilatkozta az NEC a Nikkei Electronics magazin számára. A kereskedelmi célú tömegtermelés szeptember magasságában indulhat be, a kibocsátás havi 1 millió darab lesz. A világon havonta átlagosan több mint 20 millió PC fogy. Az NEC várakozásai szerint elsõ, USB 3.0 porttal felszerelt PC-k még év vége elõtt felbukkannak a világpiacon.
+A &#956;PD720200 jelölésû integrált chip két darab 5 gigabites SuperSpeed porttal rendelkezik, és egy 1 négyzetcentiméteres, 176-lábú FBGA tokozásban foglal helyet, fogyasztása kevesebb mint 1 watt. A vállalat szerint a jövõre meginduló adoptáció eleinte lassú lesz, 2011-re is mindössze a PC-k 30 százaléka rendelkezik USB 3.0 porttal, 2012-ben azonban már 80 százalékuk -- ez három év alatt egy több mint 500 millió darabos potenciális piaci lehetõség. Ennek nagy részét a chipsetek kötik le, a fennmaradó diszkrét piacra azonban teljes egészében pályázik az NEC. Ez a következõ három év alatt közel 180 millió darab chipet jelentene a cég becslései szerint. Jelenleg több mint 15 dollárba kerül egy tesztpéldány, de az árcsökkentést figyelembe véve is egy több mint egymilliárd dolláros üzlet rajzolódik ki.
+
+
+
+
+Tavaly novemberben zárult le az USB 3.0 interfész szabványosítása,
+melyet a korábbi USB szabványokat is meghatározó Intel vezetett. Az
+AMD, VIA és NVIDIA korábban azzal vádolta az Intelt, hogy szándékosan
+tartja vissza riválisaitól az USB 3.0 szerepére készülõ Extensible Host
+Controller Interface (xHCI) specifikációit, hogy késleltesse
+kompatibilis termékeik fejlesztéseit és ezen keresztül piacra kerülésük
+idejét, így ellenálltak az xHCI elfogadásának. Végül augusztusban
+sikerült egyezségre jutniuk, így novemberre mindenki rábólinthatott az
+USB 3.0-ra, hogy lendületet kapjanak a termékfejlesztések. Elsõként
+2007 õszén demonstrálta az Intel az xHCI-t.
+
+Az új csatolófelület 5 Gbps csúcssebességre képes, ami tízszerese
+elõdje teljesítményének, a gyakorlatban elérhetõ hasznos adatátviteli
+teljesítmény másodpercenkénti 400 megabájt lehet. Ehhez az átviteli
+sebességhez az USB 3.0 már üvegszálat használ, a visszafelé történõ
+kompatibilitás érdekében azonban rézvezetékeket is alkalmaz majd, hogy
+az USB 3.0 portok korábbi eszközöket is tudjanak fogadni, ahogyan az
+USB 3.0-s eszközök csatlakozhassanak régebbi portokkal rendelkezõ
+számítógépekhez. Ez azonban korlátozásokkal igaz csak, USB 3.0-ból csak
+A-típusú (a hagyományos téglalap alakú) kábelt képes fogadni egy
+A-típusú USB 2.0 port. 

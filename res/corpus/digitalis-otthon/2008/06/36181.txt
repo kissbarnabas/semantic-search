@@ -1,0 +1,41 @@
+Piacon az AMD elsõ notebook platformja, a Puma
+
+Hivatalosan is útjára indította új mobil platformját az AMD. A Puma kódnévre hallgató fejlesztés lényegében akár a vállalat elsõ notebook platformjának is tekinthetõ, ugyanis elsõként vonultat fel kifejezetten a mobilitást szem elõtt tartó processzort, és kínál saját chipsetet akár diszkrét grafikával is.
+
+
+
+Griffin processzor: az agy
+
+Az AMD az évente megrendezett tajvani Computex számítástechnikai és elektronikai vásáron jelentette be hivatalosan a Puma piaci premierjét. A Puma technikai részletei régóta ismertek, így a debütálás kevés újdonsággal szolgál, jelentõsége azonban piaci szempontból nem lebecsülendõ. Segítségével az AMD számottevõen növeli versenyképességét a termékfejlesztésekkel eddig elhanyagolt notebook szegmensben, továbbá a Puma képezi az AMD mobil platformját az elkövetkezendõ másfél-két év során. 
+
+A Puma a processzorát a Griffin kódnévre hallgató kétmagos Turion X2 Ultra chip képezi. A Griffin továbbra is a 2003-ban debütált K8 mikroarchitektúrát valósítja meg, ugyanakkor a korábbi Turionokkal szemben elektronikai implementációja a mobil felhasználásra optimalizált. A Griffin független tápvonalakat és energiagazdálkodási rendszereket kapott az egy-egy mag és a memóriavezérlõt tartalmazó északi híd számára, tehát összesen hármat. Enne eredményeként az igénybevétel függvényében a magok és a memóriavezérlõ feszültség-órajel beállításai egymástól függetlenül alakulhatnak, ami jelentõs energiamegtakarítást jelenthet közepes és alacsony terhelés alatt.
+
+
+
+
+Az AMD 65 nanométeres csíkszélességû gyártási eljárásán készülõ chip összesen nyolcféle energiaszintet képes felvenni, és a feszültség-órajel lépcsõk között finomabb lépésekben képes váltani. Szintén átdolgozták a mérnökök a DDR2-memóriavezérlõt, melynek politikáját kifejezetten mobil felhasználásra optimalizálták, valamint a a chip már HyperTransport 3.0 összeköttetéssel rendelkezik, mely nemcsak nagyobb adatátviteli csúcsteljesítményre képes elõdjénél, hanem szintén rendelkezik dinamikus energiagazdálkodással, így alacsony forgalom esetén csökkenti a rendelkezésre álló sávszélességet, fogyasztást takarítva meg.
+
+
+A Puma kezdetben háromféle változatban kerül piacra. A legerõsebb Turion X2 Ultra ZM-86 összesen 2 megabájt dedikált másodszintû gyorsítótárral bír, órajele 2,4 gigahertz. A másik kettõ chipet alacsonyabb, 2,2 és 2,1 gigahertzes órajel, valamint 1 megabájt L2 cache jellemzi. A 65 nanométeres chipek elektronikai kerete 35 watt, és ugyanabban az S1 tokozásban érkeznek, mint elõdeik, ugyanakkor nem lábkompatibilisek.
+
+A Puma lelke, az RS780M chipset
+
+A Puma igazi erõsségét azonban nem a Griffin képezi, hanem a kiszolgáló chipset.  Az AMD RS780M chipset érdekessége az M780G északi híd szerepét betöltõ chip, mely integrált Radeon 3200 grafikus processzort alkalmaz. A DirectX 10-es és akár HD-videolejátszás gyorsításra képes chip erõteljes multimédiás teljesítményre képes, az AMD demói alapján számos viszonylag modern játék futtatására képes elfogadható sebességgel, szemben az Intel jelenlegi integrált X3100 chipjével, mellyel csak sokéves nevek játszhatóak, sõt a HWSW gyorstesztje alapján sok el sem indul -- a teljesítménykülönbség sokszoros. Az Intel ígérete szerint e téren hatalmast lép majd elõre a küszöbön álló Centrino 2 (korábban Montevina) platformmal, piacra kerülését azonban éppen a grafikus chip körüli problémák késleltetik.
+
+Az AMD integrált grafikájának képességei; az AMD összeállítása
+
+Azok, akik nagyobb grafikus teljesítményre vágynak, az AMD opcióként kínálja a Radeon 3400, 3600 és 3800 diszkrét chipeket. Ez ugyanakkor nem feltétlenül jelenti az akkumulátoridõ drasztikus csökkenését, ugyanis a chipset PowerXPress névre hallgató képessége révén futásidõben váltogathatunk az integrált és diszkrét grafikus processzorok között, az operációs rendszer újraindítása nélkül. Korábban hasonló megoldással már jelentkezik notebookgyártók, például a Sony, ezek azonban hardveres támogatás hiányában teljes újraindítást követeltek meg, vagyis használatuk körülményes és kényelmetlen volt.
+
+
+A chipset az Intel Robsonhoz (Turbo Memory) hasonló, flash memória-alapú megoldást is támogat a Windows Vista gyorsításához, az AMD megoldását HyperFlashnek keresztelte el. Az AMD SB700 dél híd akár 14 USB és 6 SATA eszközt is támogat, emellett természetesen PCI- és PATA-vezérlõvel is rendelkezik. A vezetéknélküli vezérlõnél az AMD partnereire támaszkodik, ami lehetõséget ad a számítógépgyártók számára, hogy szájízük szerint válasszák ki annak beszállítóját. Az AMD szerint partnerei az Intelét felülmúló Wi-Fi chipet szállítanak, így például az Atheros 802.11n chipje maga mögé utasítja a Centrino 2 vezérlõjét.
+
+
+
+
+Térnyerés
+
+A Pumával az AMD kifejezetten a fogyasztói és mikro-kisvállalati szegmenst célozza meg, ahol a hordozhatóság és akkumulátoridõ mellett fontos szempont a multimédiás teljesítmény is. Ez a szegmens hagyományosan erõssége a vállalatnak, de erre alapozva természetesen a közép- és nagyvállalatoknál és a kormányzatban is növelni kívánja jelenlétét, amihez TPM-chip és távoli felügyeleti megoldások (például DASH) támogatását  biztosítja Business Class programja keretében. A Puma, öt évvel a Centrinót követõen az AMD elsõ notebook platformjának tekinthetõ.
+
+A tavalyi negyedik negyedévben az AMD 18 százalékos részesedéssel bírt a notebookok terén, becsli a Mercury Research, ugyanakkor jelenlegi versenyképességét jó jelzi, hogy a Turion 64 X2 átlagos eladási ára az Intel felhozatalának kevesebb mint 60 százalékát tette ki, ráadásul ebbe már a memóriavezérlõ logikája is beletartozik -- vagyis az AMD nagyjából féláron adja processzorait az Intelhez képest. A Pumával, melyre eddig mintegy 100 notebookmodell épül, az AMD nemcsak további teret nyerhet a piacon, hanem növelheti átlagos eladási árát, ezzel a realizált nyereséget, ami nehéz pénzügyi helyzetében kritikus jelentõséggel bír.
+
+A Griffin 45 nanométeres derivatívájáról, mely olcsóbban termelhetõ és energiahatékonyabb lenne, egyelõre nem beszél az AMD, megjelenésre idén nem is várható. A jelenleg ismert terméktervek alapján a Puma utódjának szánt Shrike platform csak 2009 végére, de a legújabb híradások alapján 2010-re várható. A Shrike érdekessége, hogy a Swift kódnévre hallgató processzora már grafikus magot is integrál -- igaz, valószínûleg nem szilíciumon, hanem egy modulon vagy tokon belül. A jelenlegi ismeretek szerint a Swift 45 nanométeres eljáráson két 10h mikroarchitektúrájú (Barcelona) processzor- és egy Radeon grafikus magot integrált majd egy memóriavezérlõ és PCI Express vezérlõ társaságában.

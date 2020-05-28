@@ -1,0 +1,14 @@
+Könnyen készíthetünk hordozható dokumentumokat a Bullzip PDF Printerrel
+
+A szöveges iratok, táblázatok és egyéb dokumentumaink sajnos nem ugyanúgy néznek ki minden számítógépen, a betûkészletektõl, beállításoktól függõen eltérõen jelenhetnek meg. Az igazán hordozható dokumentumok formátuma még mindig leginkább a PDF, szerencsére ingyenes megoldás is létezik elõállítására. 
+
+
+
+Már magyar nyelvû felülettel is telepíthetõ a 10 felhasználóig üzleti céllal is ingyenesen használható Bullzip PDF Printer. Segítségével gyakorlatilag minden nyomtatásra alkalmas Windows-alkalmazásból generálhatunk PDF-dokumentumokat. A telepítõ automatikusan letölti és a rendszerbe illeszti az ingyenes GhostScript PDF-készítõ motort, amire a szoftver mûködését alapozza. Ezek után megjelenik a nyomtatók között a Bullzip PDF Printer, melyet bármilyen alkalmazásból (Microsoft Office, CorelDraw és egyebek) kiválaszthatunk, a kinyomtatott virtuális lapok az álatlunk megadott nevû PDF állományba kerülnek.
+
+Nem csak a virtuális nyomtató beállításaiban találunk beállítási lehetõségeket, a Bullzip saját konfigurációs paneljén is sok mindent befolyásolhatunk. Kérhetjük, hogy mindig ugyanazon állományba kerüljön a kimenet, vagy esetenként kívánjuk megadni a fájl nevét. Beállítható illetve tiltható az automatikus elõnézet, jelszavas védelem állítható be és vízjelezésre is van mód. Nem mellékes, hogy különféle PostScript finombeállítások állnak rendelkezésre és a képek minõsége szabható webes, irodai, e-book vagy nyomdai felhasználáshoz.
+
+
+
+
+Mivel ingyenes a program és a PDF formátum jelenleg még sokkal elterjedtebb, mint a Microsoft riválisként felfogható XPS formátuma, ezért gyakran szükség lehet rá. Minden kreatív-irodai munkahelyen érdemes rendszerbe iktatni a grafikus felületen és parancssorból is kezelhetõ Bullzip alkalmazást vagy egy hasonló ingyenes PDF nyomtatót.

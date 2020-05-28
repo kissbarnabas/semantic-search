@@ -1,0 +1,12 @@
+Csõdbe ment a Tandberg Data
+
+Csõdbe ment a szalagos tárolóiról ismert norvég Tandberg Data, amely nem tudta visszafizetni hiteltörlesztését, ezért az amerikai Cyrus Capital résztulajdonába kerül.
+
+
+
+A Forrester Research elemzõje, Stephanie Balaouras az eWeeknek elmondta, a Tandberg Data csõdje a globális pénzügyi piacok katasztrófájával, a hitelforrások elapadásával függ össze. A vállalatok és szervezetek világszerte egye több és több adatot termelnek és tárolnak, azonban a szalagos mentés egyre inkább kezd teret veszteni a diszkekkel szemben, ahogy a kapacitás egyre olcsóbb és megjelennek a színen olyan technológiák mint például az adatdeduplikáció, illetve a cloud-alapú tárolás. A szalagos adattárolók piaca már nem nõ, hamarosan csökkenésbe fordul -- véli  Balaouras.
+
+
+ A cég átszervezésen esik át, de a norvégiában kezdeményezett csõdeljárás alatt a Tandberg Data nemzetközi leányvállalatai továbbra is mûködnek -- hangsúlyozta a vállalat elnök-vezérigazgatója, Pat Clarke. "Ezek a nehéz lépések lehetõvé teszik egy olyan vállalat felépítését, amely sikeresen kínálhat adatvédelmi megoldásokat."
+
+A Tandberg épp a napokban jelentette be StorageLibrary T120+ szalagkönyvtárát, amely 114 slotja révén akár 91 terabájtos natív kapacitást is nyújthat, adatáteresztõ képessége 10,5 terabájt óránként. teljes magasságú és félmagas LTO-3 és LTO-4 meghajtókat egyaránt támogat. Félmagas magnóból akár 12 is beépíthetõ.

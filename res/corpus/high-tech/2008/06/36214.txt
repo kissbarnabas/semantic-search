@@ -1,0 +1,14 @@
+Saját USB 3.0 specifikációt készítenének az Intel ellenfelei
+
+[News.com] Tûzhöz közelálló források szerint az AMD ismét azzal vádolja az Intelt, hogy szándékosan akadályozza a versenyt, ezúttal az USB 3.0 specifikációjának visszatartásával. A cég nem egyedül reklamál, az NVIDIA és a VIA is beállt mellé. Az új változat az üvegszálas optika támogatásának köszönhetõen akár tízszeres sebességet is nyújt majd, mint amire a hagyományos rézvezetéken képes.
+
+
+
+Az Intellel versenyben álló cégek azzal vádolják a chipgyártó óriást, hogy szándékosan visszatartja a gyorsabb adatátviteli sebességet ígérõ USB 3.0 még véglegesítés alatt álló specifikációját, ezért nyílt, párhuzamos specifikáció fejlesztésébe kezdenek. Az AMD mellé az NVIDIA és a VIA is felsorakozott, az AMD-s forrás szerint a munkát pedig már meg is kezdik, a cégek képviselõi, szakemberei a jövõ héten találkoznak.
+
+
+Az Intel közleményében természetesen tagadja a vádakat, és "mint az elõzõ generációknál, mindent megtesz, hogy a teljes specifikációt elérhetõvé tegye az iparág számára". Az USB 3.0 specifikációt az USB 3.0 Promoters Group fejleszti, melynek az Intel mellett tagja a Microsoft, a Hewlett-Packard, a Texas Instruments, az NEC és az NXP Semiconductors is.
+
+A jelenleg széleskörûen használt USB 2.0 csatolófelület maximális adatátviteli sebessége 480 megabit másodpercenként, ezt turbózhatja fel az optikai támogatás 4,8 gigabit/másodpercre. Ez a sávszélesség túlzásnak is tûnhet, nehéz lenne jelenleg felsorolni olyan nyomtatót vagy szkennert, melynek szüksége lenne ekkora sebességre, azonban a nagyfelbontású tartalmak, többek között a Blu-ray és a HD DVD terjedésének köszönhetõen 2010-re már igényelhetnek a jelenleginél gyorsabb kapcsolatokat. Jelenleg a legsebesebb egyszerûen megoldható csatlakozást a 800 megabit/s-ra képes FireWire nyújtja.
+
+Az USB 3.0 visszamenõleg is kompatibilis lesz, tehát a jelenlegi USB 2.0 csatlakozós berendezések is használhatók lesznek az alaplapok USB 3.0 portjaival. A specifikáció szerint az új port az energiahatékonyság terén is továbblép majd.

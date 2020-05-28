@@ -1,0 +1,14 @@
+A Hitachi is megkezdi az SSD-vel szerelt tárolórendszerek szállítását
+
+Hamarosan a Hitachi Data Systems (HDS) is megkezdi az SSD-kkel szerelt vállalati adattárolási rendszerek forgalmazását, elsõként a felsõ kategóriás Universal Storage Platfrom V és VM berendezésekben, de késõbb az alsóbb kategóriás modellekben is.
+
+
+
+A flashmemóriára alapozó tárolók elsõként a noteszgépekben tûntek fel, azonban ma már nem vitás, hogy elõnyeiket a vállalati tárolókban is kamatoztatni lehet. Az SSD-k a hagyományos, pörgõ tányérokat foglalkoztató merevlemezeknél jóval nagyobb írási és olvasási sebességet kínálnak kisebb késleltetés mellett akár teljesen véletlenszerû elérésnél is, ezért segítségükkel egyes adatintenzív alkalmazások futása látványosan felgyorsítható. A Hitachi szerint 8 SSD-vel másodpercenként 40 ezer I/O mûvelet hajtható végre, ekkora teljesítményhez Fibre Channel merevlemezbõl több százra lenne szükség.
+
+
+ Az SSD-k vállalati térnyerését egyelõre horribilis áruk hátráltatja, azonban már ma is vannak olyan területek, ahol megéri ezeket használni, mivel az elért teljesítménynövekedés megtérül. Az IDC adatai szerint egy vállalati felhasználásra szánt merevlemez ára gigabájtonként 90 cent, miközben egy vállalati SSD-é gigabájtonként 35-40 dollár. "A közeljövõben az SSD-k magas ára továbbra is a terjedés gátját képezi majd" -- vélekedik Jeff Janukowicz, az IDC elemzõje.
+
+Ugyanakkor ha nem a kapacitás, hanem az elérhetõ teljesítmény arányában vizsgáljuk az SSD-k árát, a kép máris kedvezõbb, bár a különbség még ilyenkor is öt-tízszeres. Ma a vállalati felhasználók körében nem ritka, hogy több tucat vagy akár több száz merevlemezt használnak csak azért, hogy a lehetõ legtöbb I/O mûveletet tudják párhuzamosan elvégezni. Egy SSD-vel több tucat merevlemez váltható ki, a flash meghajtók fogyasztása és hõtermelése már egy merevlemezének is töredéke, harminc diszkkel szemben pedig már nagyságrendi elõnyben van -- újabb érv az SSD-k mellett.
+
+A szerver- és tárolóeszközgyártók közül az EMC mutatott be elsõként SSD-alapú megoldásokat, de azóta a Sun és a HP is közölte, hogy épít flash memóriára épülõ berendezéseket. A versenytársakhoz hasonlóan a Hitachi is 73 és 146 gigabájtos kapacitású, 3,5 hüvelykes SSD-ket kínál majd, amelyek a merevlemezek helyére építhetõk be. A vállalat szerint azonban az SSD-k egyelõre nem váltják le, inkább csak kiegészítik a hagyományos merevlemezes meghajtókat, amelyek olcsóbbak, így nagy tömegû adat tárolására alkalmasabbak, miközben az SSD-k egyfajta "tier 0" rétegként gondoskodnak a sûrûn használt adatok lehetõ leggyorsabb elérésérõl, feldolgozásáról.

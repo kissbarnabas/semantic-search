@@ -1,0 +1,14 @@
+Merevlemez és SSD is van az MSI új netbookjában
+
+A múlt heti Consumer Electronics Show-n mutakozott be az egyik legnépszerûbb netbook, az MSI Wind W100 utódja, az U110, illetve az U115. Utóbbi érdekessége, hogy a felhasználónak nem kell választania a merevlemez és az SSD között, a gép együtt is tartalmazhatja a kettõt.
+
+
+
+Az MSI U110 és U115 egyaránt 10 hüvelykes, LED-háttérvilágítású kijelzõt kapott, amely 1024x600 pixel megjelenítésére képes. Mindkét gépben Intel Atom Z530 processzor dolgozik 1,6 GHz-en, a rendszermemória alapesetben 1 gigabájt DDR2, a háttértár az U110 esetében 2,5 hüvelykes, 120, 160 vagy 250 gigabájtos merevlemez, az U115-ben ehhez 8, 16 vagy 32 gigabájtos flashmemória-alapú meghajtó is társul. A két beépített meghajtóval kiaknázható mindkét technológia elõnye, a flash memória alacsony fogyasztása és gyorsasága, illetve a merevlemez nagyobb kapacitása.
+
+
+
+
+ Az MSI azt ígéri, a hibrid felépítésnek köszönhetõen az U115 a szériaként szállított hatcellás akkumulátorról akár 12 órán keresztül is képes üzemelni, az U110 esetében 8-10 órás maximális üzemidõt adott meg a cég. A netbookk burkolata alatt multiformátumú kártyaolvasó, 802.11 b/g szabványú Wi-Fi vezérlõ és Bluetooth v2+EDR vezérlõ is helyet kapott, az extralistán pedig a HSDPA-modem mellett WiMAX-adóvevõ is megtalálható.
+
+A 260x180 milliméter alapterületû, 19-31 milliméter vastag MSI U110 és U115 alig nyom többet 1,1 kilogrammnál. Az MSI új netbookjainak sorában a harmadik az U120, amely a rendszerplatformban tér el a társaitól. Az U110 és az U115 ugyanis az Intel Poulsbo (SCH US15W) integrált chipkészletet tartalmazza, míg az U120 a netbookoktól megszokott Intel 945GSE-t a hozzá tartozó ICH7-M southbridge-dzsel.

@@ -1,0 +1,10 @@
+Itt van a végleges VLC 1.0, az univerzális médialejátszó
+
+Több mint 8 év fejlesztés után tegnap megjelent a VLC 1.0.0, amely rengeteg hibajavítás mellett csinos funkciókkal bõvült. Finomabban vezérelhetõ lett a lejátszási sebesség, a képkockánkénti léptetés és azonnali megállítás, új HD-kodekek, mint például Dolby Digital Plus, Blu-ray Linear PCM, valamint más formátumok kezelésének átfogó javítása került be a szoftverbe. A VLC letölthetõ Windows mellett MacOS X-re, Debian, Ubuntu, Fedora, RHEL, openSUSE, és további Linux-disztribúciókra -- némi idõt vesz igénybe, míg a repositorykba (alkalmazáskönyvtár) bekerül. A forrás elérhetõ és lefordítható BSD-kre, de még Solarisra és QNX-re is.
+
+A VLC francia gyökerû projekt nyílt forráskódú, GPL alatt publikált, multiplatform médialejátszó, neve a VideoLAN Clientbõl képzett mozaikszó. A skinezhetõ VLC saját kodekkészlettel rendelkezik, így letöltésével lényegében az összes használatban lévõ video- és audioformátumot támogatja anélkül, hogy bármiféle további kodeket kellene telepíteni. Nem csak lejátszani, de felvenni is képes, akár screencastokat. Képes a transzkódolásra és a hálózaton keresztüli streamelésre is.
+Windowson sincs szükség arra, hogy rendszerszintû módosításokat végzõ kodekcsomagokat telepítsünk, ami néhány évvel ezelõtt még elterjedt, és sok kínlódást eredményezõ gyakorlat volt. Ingyenességével és a formátumok átfogó támogatásával a VLC nem véletlenül vált népszerûvé, például streamelés alatt álló vagy sérült állományok lejátszásával. A VLC nagyrészt az FFmpeg projektbõl táplálkozik, figyelmen kívül hagyja a DVD régiókódolását, képes utófeldolgozásra, mint például a forgatás, tükrözés, deinterlace, vagy logo overlay hozzáadása. A szoftver letölthetõ a projekt weblapjáról, ahol hálánk jeléül adományokat is tehetünk.	     
+                  
+                  
+                  
+                   

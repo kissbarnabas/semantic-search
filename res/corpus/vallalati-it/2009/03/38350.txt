@@ -1,0 +1,34 @@
+Belépett a szerverpiacra a Cisco
+
+A Cisco tegnap elindította Unified Computing System platformját, amely Xeon-alapú blade szerverekbõl, hálózati eszközökbõl, virtualizációs megoldásból és felügyeleti szoftverekbõl áll. A cél egy olyan egységes adatközpont-architektúra létrehozása, amely könnyen igazítható változó igényekhez. A hálózati eszközök vezetõ gyártója nem egyedül érkezik erre a számára új területre, máris számos partnert tudhat maga mellett, köztük olyan nagyágyúkat mint az Intel, a VMware, az EMC, a NetApp, a BMC, a Microsoft, az Oracle és az Accenture.
+
+
+
+Ellentámadás
+
+Az IDC szerint a vállalatok 2009-ben mintegy 100 milliárd dollárt költenek adatközpontokba szánt berendezésére, ennek a piacnak csupán mintegy 10 százaléka volt a Cisco által megcélozható, a mostani bejelentéssel ez 25 százalékra ugrott. "Nem léptünk volna be ebbe ha nem gondolnánk azt, hogy több milliárd dolláros piac" -- mondta John Chambers, a Cisco elnök-vezérigazgatója. "Ez szinte határtalan lehetõség a vállalatunk számára."
+
+
+
+Chambers sem titkolta, hogy a Cisco megjelenése a szerverpiacon támadás a HP ellen. A HP egykor az egyik legnagyobb Cisco-viszonteladó volt, azonban Mark Hurd regnálása alatt erõteljes terjeszkedésbe kezdett a hálózati területen saját ProCurve eszközei segítségével. A Dell'Oro Group negyedik negyedéves adatai szerint a leszállított portszám alapján a HP 20 százalékos növekedést ért el egy 1,6 százalékkal csökkenõ világpiacon, míg az EMEA  régióban a HP ProCurve növekedése 24,3 százalék volt, szemben a régió piacának 3,6 százalékos csökkenésével.
+
+Idõközben az IBM szoros szövetséget épített ki a Brocade-del, amely 2008-ban a Foundry Networks akvizíciójával erõsített. A Brocade és a Foundry termékei jól kiegészítik egymást, elõbbi a SAN-hálózati eszközök domináns gyártója, utóbbi pedig a Cisco mögött a második legnagyobb az Ethernet-piacon. A HP és az IBM tehát az elmúlt idõben egyre kevesebb Cisco-terméket értékesített és a hálózati piac vezetõjét egyre inkább fenyegette, hogy elveszti stratégiai pozícióit az ügyfeleknél, amelyet a szerverszállítók vesznek át. Ezt megfordítva most a Cisco azt kívánja elérni, hogy ne a szervergyártók adjanak el hálózati eszközöket, hanem az ügyfelek inkább a hálózati eszközök gyártójától vásároljanak szervert.
+
+Egységes infrastruktúra
+
+A Ciscónak nem volt más választása, a hálózat felöl kellett betörnie az adatközpontokba. A cég érvelése szerint a hálózat az, amely minden eszközt elér, mindenhol ott van, ezért a jövõ adatközpontjait már nem a szerverek, hanem a hálózat határozza meg elsõsorban. A vállalat elképzelése szerint a jövõ adatközpontjában pedig egyetlen, egységesített hálózati infrastruktúra szolgál ki minden igényt, leváltva a különálló Ethernet- és Fibre Channel hálózatokat. A Cisco szerint a jövõ adatközpontjában a szerverek és tárolók egységes kommunikációs felülete a 10 gigabites Ethernet lesz, ezen keresztül zajlik majd lényegében mindenfajta adatforgalom.
+
+
+ A Unified Computing System szíve a Cisco új UCS 5100 blade szerverplatformja, amely kiviteltõl függõen 4 vagy 8 Xeon-alapú szervert fogad egy 6U magas keretben. Jól értesültek tudni vélik, hogy a platformot ugyanaz a Nuova Systems fejlesztette ki, amely a Nexus-sorozatú berendezések atyja, és ma már a Cisco 100 százalékos tulajdonban levõ leányvállalata. A Cisco szándékosan nem olvasztotta be a Nuovát, hogy a cég a lehetõ legnagyobb titokban dolgozhasson az új blade-eken -- állítják a bennfentesek.
+
+
+
+A UCS részei még a 10 gigbites Ethernetet támogató UCS 6100 hálózati kapcsolók, amelyek 20- vagy 40-portos kivitelben érhetõk el. A Nexus 5000-es sorozatra épülõ berendezések leginkább abban különböznek a "hagyományos" Cisco switchektõl, hogy a csomagok méretétõl és a szolgáltatásoktól függetlenül garantáltan alacsony (2,5 ms körül) késleltetéssel és csomagvesztés nélkül mûködnek -- ez teszi lehetõvé az Ethernet használatát akár adattárolási interfészként is, felváltva a Fibre Channelt. A UCS termékcsaládba tartozik még a UCS 2100 Fabric Externder, amely lényegében az új blade keretbe építhetõ 10 gigabites Ethernet switch, nagyjából-egészében megegyezik a Nexus 2000-rel.
+
+Az UCS és Nexus sorozatú hálózati eszközök közötti fõ különbség, hogy a Nexusok két teljesen különálló menedzsment-felülettel rendelkeznek, egyik a hálózati, másik pedig a tárolóeszközök-adminisztrátorok felé. Az azonos hardverre épülõ UCS berendezéseken a felügyeletet a Cisco új, egységes, tehát szerver-, hálózat és storage-felügyeletet is magában foglaló UCS Managere biztosítja. A grafikus felülettel vagy parancssoros eszközként egyaránt bevethetõ szoftver a vállalat ígérete szerint nyílt API-kkal érkezik, amelynek köszönhetõen megfelelõ interfészek megírása után bármilyen eszköz menedzselésére alkalmas. Egyelõre azonban nem tudni, a UCS Manager pontosan mire is képes, mivel a Cisco még nem hozott nyilvánosságra konkrét részleteket róla.  
+
+Szkepszis
+
+A Cisco tegnapi bejelentésével kapcsolatban a reakciók egyelõre vegyesek. A HP természetesen igyekszik elbagatellizálni a lépést, Jim Ganthier, a vállalat infrastruktúra-szoftverekért és blade-ekért felelõs vezetõje az eWeeknek azt mondta: "Ti engednétek hogy egy vízvezeték-szerelõ építse fel a házatokat?" Ganther úgy véli, a UCS architektúra nem egységesíti a felügyeletet, csak áttolja azt a hálózat területére, ahol egy zárt, hálózat-alapú menedzsment-struktúra lesz a központban. "Ez nem egységesítés."
+
+Egyelõre még nem állt össze a puzzle minden darabja, a Cisco számos technikai részlettel adós, illetve a most bejelentett berendezések árát sem közölte, csupán annyit tudni róluk, hogy a második negyedév során kerülnek piacra.

@@ -1,0 +1,12 @@
+A mobilok Java- és Flash-motorját kombinálná a Sony Ericsson
+
+[Cnet blog] A Sony Ericsson tágabbra nyitja a lehetõségeket a mobilos fejlesztõk elõtt: a Capuchin, azaz kapucínus projekttel egyszerre, egyetlen szoftverben lehet majd a készülékek Flash Lite és Java-futtatási képességét kihasználni, azaz olyan szoftverek készíthetõk, melyek mindkét platformot egyidõben használják.
+
+
+
+A vállalat a jövõ héten megrendezendõ JavaOne rendezvényen is bemutatja a Capuchint, mely egyike azoknak az úgynevezett "bridge" projekteknek, melyek a két különállóan használt programozási platformot szeretnék egységesen kezelhetõ formába gyúrni. A Capuchinnal például olyan Java játékok lesznek fejleszthetõk, melyek látványosabb menüit a készülék Flash Lite szoftvere futtatja. A Sony Ericsson programozási interfészeket (API) és fejlesztõi segédletet (SDK) tesz majd elérhetõvé az év második felében.
+
+
+A platformot az év második felében érkezõ, újabb Sony Ericsson telefonok natívan támogatják majd, melyek szoftverét felkészítik erre. A fejlesztõi segédlet az új telefonok elõtt megérkezik majd. Arról egyelõre nem szól a fáma, hogy a korábbi, mindkét platformot támogató telefonokhoz is érkezik-e majd szoftverfrissítés.
+
+A Java-motorok ma már mindennaposak a mobilkészülékeken és egyre elterjedtebb a Flash Lite támogatása is. Az Adobe szerint jelenleg több mint 500 millió eszközt ruháztak fel eddig Flash Lite szoftverrel, 2010-re pedig már 1,2 milliárd ilyen készülék lesz a felhasználóknál. A Flash Lite az Adobe Flash mobil eszközökre optimalizált változata, amely technológiailag néhány éves késéssel követi a Flasht, ahogy maguk az eszközök is le vannak maradva a PC-k mögött, teljesítmény vagy a kijelzõ felbontása területén.

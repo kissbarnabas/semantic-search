@@ -1,0 +1,14 @@
+Új funkciókat tesztelhetnek a Gmail-felhasználók
+
+Szó szerint bevonja a döntéshozatalba a Gmail levelezõrendszer felhasználóit a Google: a beállítások alatt megjelent Labs fülön több mint tucatnyi mókás, vagy éppen valóban hasznos funkciót engedélyezhetünk teljesen egyéni igényeinknek megfelelõen. A változtatásokat, extra lehetõségeket véleményezhetjük is, a Google ennek fényében dönt majd, hogy melyek kerülnek be állandó jelleggel a lassan bétás jelzõjét elhagyó szolgáltatásba.
+
+
+
+Az új funkciók között találhatunk dátumot és idõt -- angol nyelv választása mellett -- európai szemmel értelmezhetõbb formába öntõ kapcsolókat, de egyes fontos üzenetekhez is készíthetünk egykattintásos linkeket. Az egységes jelölõcsillagot is lecserélhetjük különbözõfélékre, az "e-mail függõ" program pedig 15 perces kizárással próbál leszoktatni minket Gmail-függõségünkrõl.
+
+Bekapcsolható, hogy az adott levél állandó szélességû betûtípussal is megtekinthetõ legyen, de billentyûkombinációkat, vagy éppen egérmozdulatokat is hozzárendelhetünk bizonyos Gmail-funkciókhoz. Hasznos lehet az a kis módosítás is, mely nem a levél végére, hanem az idézett szöveg elé szúrja be válaszoláskor az aláírásunkat.
+
+
+A 13 jelenleg elérhetõ apró módosítás a jövõben tovább bõvül majd, melyek ezen a Labs fülön keresztül lesznek elérhetõek. A fül egyelõre csak az angol nyelvû felületen jelenik meg. A Google nem zárkózik el attól sem, hogy külsõ módosításokat is bevegyen a rendszerbe, mihelyst "megtalálja a rendszer megnyitásának módját".
+
+A Gmail egyelõre továbbra is béta állapotban üzemel, jelenleg 6,8 gigabájtnyi tárhelyet, villámgyors elérést, többféle mobil elérést is biztosít egy egyszerû regisztrációt követõen. A szolgáltatás magyar nyelven is elérhetõ, bár bizonyos haladóbb funkciók, képességek -- mint az új Labs fül -- hiányoznak egyes lokalizált változatokból, így a magyarból is.

@@ -1,0 +1,46 @@
+2009 várható bukásai: VIA Technologies
+
+Az idei év várható veszteséglistájában mazsolázgatva az OLPC és a WiMAX után nem mehetünk el szó nélkül a VIA Technologies mellett sem. A tajvani céget valószínûleg a HWSW egyetlen rendszeres olvasójának sem kell bemutatni, chipsetjei egy idõben hatalmas népszerûségnek örvendtek, és a kisméretû PC-k terén is úttörõ szerepet töltött be a cég. A siker, pénz, csillogás idejének azonban már réges-rég vége, ma már a puszta túlélés a tét.
+
+
+
+Így múlt el a VIA dicsõsége
+
+Az 1987-ben egy ex-inteles, Chen Wen Chi által alapított vállalat, melynek neve a Very Innovative Architecture mozaikszava, a '90-es években futott fel egyre fejlettebb integrált PC-chipsetjeinek, de rendelkezett diszkrét hálózati és audiochipekkel is. Chipsetjei sikerének köszönhetõen a VIA egyre meghatározóbb szereplõvé kezdte kinõni magát, és 1999-ben megengedhette magának a vergõdõ Cyrix nagy részének felvásárlását, amivel belépett az x86-os processzorok piacára. Az ezredfordulóra a chipsetpiac nagyjából harmada került a VIA kezére, így árbevétele 2000-ben 1 milliárd amerikai dollár körül alakult, miközben nyereségesége üzemi szinten a 30 százalékot közelítette.  
+
+A VIA-nál azt hitték, övék lesz a világ. A processzorbiznisz után a cég a szintén partra sodródott S3 Graphics grafikus részlegét vásárolta meg 323 millió dollárért, melynek fejlesztéseit leginkább chipsetjeibe integrálva alkalmazza azóta is, miután az kiszorult a 3D-gyorsítós érából. A VIA ezzel képes volt processzort, chipsetet és grafikus gyorsítót is kínálni, vagyis egy teljes platformot, felvéve a versenyt az Intellel, és -- ezen a téren -- öt-hat évvel megelõzve  az AMD-t.
+
+A bevásárlások ellenére a cég teljesítményét továbbra is a chipsetek értékesítése határozta meg, a processzorok és grafikus lapkák ugyanis önmagukban nem bizonyultak eléggé versenyképesnek, így az olyan útmutató fejlesztések, mint az EPIA platformok, nem kanyarítottak ki jelentõs szeletet a piacból. A VIA sikeréhez nagyban hozzájárult az AMD Athlonok elõretörése, valamint az Intel saját chipsetjeivel kapcsolatos tervezési és gyártási problémák, beleértve a Rambus DRAM elbukását. Ezen tényzõk együttállása tette lehetõvé, hogy igazán kinõje magát a VIA, azonban nem tudta megtartani pozícióit. Az Intel a Northwooddal drasztikus csapást mért a kifulladó K7-tel küzdõ AMD-re, majd megkezdte saját chipsetjeinek erõltetését is, így a VIA folyamatosan teret vesztett.
+
+[+] 2009 várható bukásai: OLPC 
+
+Idõközben ráadásul egyre nagyobb nyomást helyezett a cégre az NVIDIA és az ATI is, melyek grafikus fejlesztéseik piacát kívánták integrált formában növelni, és megalapozott gyanú szerint egy árkartellel zsírosan tartott grafikus üzletbõl finanszírozni a chipsetfejlesztéseket. Az Intel a Centrinóval már megkezdte a piac platformosítását, és bár az AMD K8 elõretörése és az Intel 2004-2005-ös átmeneti chipsethiánya újabb lökést adott a vállalatnak, az AMD-ATI 2006-os összeolvadásával egyértelmûvé vált, hogy a platformosodás a jövõ, és a chipsetek kereskedelmi értékesítése elõtt  bezárulnak a lehetõségek. Ekkorra a VIA korábbi 30 százalék feletti részesedése 15 százalék alá süllyedt, csak a belépõkategóirában szerepelt a cég, és stratégiai szövetséges nélkül maradt.
+
+A hatás nem maradt el. A vállalat forgalma meredek süllyedésbe kezdett, amine hatására 2008-ban kivonult a kereskedelmi chipsetpiacról, vagyis már nem forgalmaz önállóan chipseteket, kizárólag platformjaiba építi be azokat. A vállalat 2008 során már csak mindössze 242 millió dollár bevételt ért el, ami 46 százalékos visszaesés 2007-hez viszonyítva, a mûködés pedig súlyosan veszteséges, az üzemi veszteséghányad 25 százalék körüli. Az évtizedes erõfeszítés és számos innovatív mini-PC platform kifejlesztése ellenére 2008 harmadik negyedéve során a VIA az x86-os processzorpiac csak 1,1 százalékát szerezte meg a Mercury Research adatai alapján.
+
+Elszalasztott lehetõség
+
+Ilyen helyzetben a cég egyetlen reménysége a számítógépes IC-k tervezésének költséges piacán való túlélésre a Nano processzorvonala. Az Isaiah kódnéven ismert chippel alapjaiban újult meg a VIA processzortechnológiája, gyökeresen új, három utasítás széles, szavazásos rendszerû elágazásbecslõkkel és soronkívüli végrehajtással rendelkezõ 64 bites mikroarchitektúrát takar, melynek célja a lehetõ legmagasabb energiahatékonyság elérése megfelelõ teljesítmény mellett. A Nano lényegében az Intel Atom és Celeron-M között helyezkedik el mind teljesítmény, mind fogyasztás és költség tekintetében.
+
+A Nano bár valóban ambiciózus fejlesztés, a tervezettnél közel fél évvel késõbb érkezett, ami végzetesnek bizonyulhat. A 2008 tavasza és õsze közt eltelt idõszak ugyanis kritikus jelentõségû volt a Nano elsõdleges céljának tekinthetõ netbookpiacon, a vezetõ gyártóknak ugyanis ekkor kellett belépnie vagy felkészülnie a belépésre a váratlanul gyorsan bõvülõ szegmensbe. A Nano hiányában pedig magától értetõdõ választás az Atom, mely potens ellenfél hiányában lényegében egyeduralmat ért el.
+
+
+A VIA legnagyobb partnere, a HP is kihátrált a Nano mögül, miután a kényszerbõl C7 processzorral szerelt Compaq 2133 netbook egyszerûen fájdalmasan lassúnak bizonyult, és nem is fogyott elég jól. Valószínûleg részben ez magyarázza azt is, hogy NVIDIA végül az Atom számára mutatott be netbook chipsetet Ion név alatt, pedig korábban állítólag elõrehaladott tárgyalásokat folytatott a tajvani céggel egy stratégiai szövetségrõl.
+
+A VIA ezzel elvesztette utolsó partnerét is a vezetõ PC-szállítók körében, amelyek a netbookpiac nagyjából 85 százalékát uralják. A cég jelenleg távol-keleti márkákkal igyekszik üzleteket kötni, melyek piacra képését szabadon hozzáférhetõ komplett referenciadesignnal támogatja. Európai fülnek egyedül a Samsung Electronics neve cseng ismerõsnek, a dél-koreai óriás Atom helyett a Nanót válaszotta netbookja lelkéül, majd ugyanígy tett legújabb UMPC-jével -- a dolog szépséghibája, hogy a Samsung jelenléte a globális PC-piacon elhanyagolható.
+
+[+] 2009 várható bukásai: WiMAX 
+
+Mindeközben a VIA gõzerõvel dolgozik a Nano újabb generációjának piacra dobásán, ami a harmadik negyedévben várható. Az új chipek mindössze ráncfelvarráson esnek át, lényegi változás az SSE4 vektorutasítás-készlet támogatásában van. Készül a kétmagos változat is, melynek tömegtermelése év végén, vagy jövõ év elején esedékes. A kétmagos változat már 45 nanométeres eljáráson készül, valószínûleg továbbra is a Fujitsu üzemében, ahol 65 nanométeres csíkszélességgel készülnek a jelenlegi Nano chipek.
+
+Nanoremény
+
+Kétség nem fér hozzá, hogy minden gazdasági nehézség ellenére, vagy éppen annak következtében idén hatalmas mennyiségben értékesítenek netbookokat. A tavalyi 14 millió darabot követõen az Intel 40 milliós piaccal számol idén, de az ennél valamivel konzervatívabb becslések is legalább 25-30 millió darabról beszélnek. A Nano processzorból, VX800 chipsetbõl és S3 grafikus magból álló Trinity platformjával a VIA papíron teljesen készen áll arra, hogy meglovagolja ezt a hullámot. A termék jó, egy 10-20 százalékos részesedés pedig elegendõ lehet ahhoz, hogy felszínen tartsa a céget, elegendõ forrást biztosítva a kutatás-fejlesztésekhez.
+
+Ehhez azonban meg kell gyõznie a PC-gyártókat arról, hogy versenyképes termékekkel és egyúttal megbízható fejlesztési tervvel rendelkezik, és jó indokot kell szolgáltatnia arra, miért érdemes a biztonságos Intel Atom helyett a Trinity platformot használniuk. A VIA helyzete azért válhat különösen nehézzé, mert elégséges szintû értékesítés hiányában nem képes finanszírozni azt a kutatás-fejlesztést, amely éppen az értékesítést generáló ügyfelek meggyõzéséhez kellhet. 
+
+[+] Elég gyors lehet a Nano
+
+Hogy ebbõl a zuhanó spirálból biztosan kikerüljön, külsõ segítségre volna szüksége már a cégnek. A jelenlegi gazdasági és pénzügyi környezetben azonban a tõkebefektetõ megjelenésének esélyei drámaian leromlottak, és valószínûleg a Transmetát elsüllyedni hagyó és "válságüzemmódban" üzemelõ AMD ezúttal sem él a kínálkozó lehetõséggel, hogy olcsón és gyorsan jusson technológiához és versenyképes termékhez egy olyan szegmensben, ahol önerõbõl eddig képtelen volt megjelenni, történetesen a valóban hordozható notebookok piacán.
+
+Az Atomot támogató Ion és a tárgyalásokról szóló pletykák megszûnése pedig azt sejteti, a szintén súlyos problémákkal küszködõ NVIDIA sem karolja fel a céget. A VIA-nak már nem maradt sok lövése, amennyiben idén nem sikerül felfuttatnia a Nano értékesítését, vagy nem talál megmentõre, úgy a cég 2010-et már a biztos bukás tudatában várhatja -- ez pedig sajnos túlságosan is valós veszély. 

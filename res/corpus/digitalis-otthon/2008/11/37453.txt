@@ -1,0 +1,16 @@
+Ingyenes víruskeresõ lép a megszûnõ Microsoft OneCare Live helyébe
+
+Két évvel a OneCare Live elõfizetéses biztonsági szolgáltatás beindítását követõen a Microsoft közölte, hamarosan megszünteti azt. A cég azonban nem vonul ki a fogyasztói biztonsági termékek piacáról, 2009 második felében egy teljesen ingyenes szoftverrel fogja betölteni az ûrt.
+
+
+
+Az egyelõre Morro kódnéven fejlesztett ingyenes biztonsági szoftver nem az operációs rendszer része lesz, hanem különálló alkalmazásként érkezik, hogy a Microsoft elkerülje a trösztellenes problémákat. A Morro nem lesz olyan átfogó termék, mint a OneCare Live vagy akár a ma hozzáférhetõ internetbiztonsági csomagok, csupán kártevõvédelmet (vírus, kémprogram, rootkit, stb.) tartalmaz, tehát hiányzik belõle például a tûzfal.
+
+A vállalat szerint a biztonsági fenyegetések kifinomultabbak mint valaha, ugyanakkor a célzottságuk és lopakodó természetük miatt ma már kevesebb figyelmet vonzanak. Ezért az otthoni felhasználók hajlamosak megfeledkezni a védekezsérõl. Ez elsõsorban a fejlõdõ országokra jellemzõ, ahol az informatikai piacok fejletlenek és a felhasználók is kevéssé edukáltak, ugyanakor nagy tömegekrõl van szó, így az olyan országok mint Kína, India, Oroszország vagy éppen Brazíila, Argentína valóságos kánaánt jelentenek a rosszindulatú szoftvereknek.
+
+A Microsoft ígérete szerint a Morrót úgy alakítják ki, hogy a lehetõ legkevesebb erõforrást eméssze fel, így még a lassabb számítógépeken is mûködik és kevés sávszélességgel is beéri. Amy Barzdukas, a Microsoft online részlegének termékfejlesztési vezetõje az eWeeknek úgy vélekedett, a OneCare Live ingyenessé tétele azért nem lenne megoldás erre a problémára, mert azt elsõsorban a fejlett piacok igényeihez szabták, olyan háztartásokba ajánlják, ahol szélessávú internet és több PC is megtalálható.
+
+
+ Kérdés, hogy a Microsoft lépése, az ingyenes biztonsági termék megjelenése mennyire változtatja meg az otthoni végpontvédelmi megoldások piacát. A OneCare Live-val a redmondiak láthatóan nem sok vizet tudtak zavarni, ennek oka valószínûleg abban is keresendõ, hogy a felhasználók nemigen bíznak a Microsoftban, ha biztonságról van szó, függetlenül attól, hogy maga a termék milyen.
+
+A NOD32 gyártója, az ESET megbízásából egy tavaly készült hazai felmérés szerint a fogyasztók többsége nem vásárolja, hanem alternatív utakon "szerzi be" a vírusirtóját. A megkérdezettek 41 százaléka nem vette, hanem "letöltötte" a szoftvert, ebben persze benne vannak az ingyenes változatok is. A válaszadók 17 százaléka "ismerõstõl kapta" a vírusirtót, 10 százalékuk pedig a megvásárolt számítógéppel együtt kapta.

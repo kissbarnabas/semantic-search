@@ -1,0 +1,108 @@
+EU-s nyomásra bõvülhetnek a szoftvervásárlók jogai
+
+A törvénytervezet, melyet Viviane
+Reding távközlési és médiabiztos, valamint Meglena Kuneva
+fogyasztói jogi biztos közösen jegyez, elsõdleges céljaként azt
+jelöli meg, hogy a tartós fogyasztási cikkekre vonatkozó
+fogyasztóvédelmi szabályozás a licencszerzõdésekkel
+szabályozott termékekre, azaz elsõsorban szoftverekre, vagy
+letöltött tartalmakra is vonatkozzon. "A licencelés ugyanazokat
+az alapjogokat kell biztosítsa a fogyasztóknak, melyek a tartós
+fogyasztási cikkeknél megilletik õket, azaz elsõsorban azt a
+jogot, hogy a terméket a rendeltetésének megfelelõen lehessen használni"
+-- áll a biztosok állásfoglalásában.
+
+Erõsíteni kell a bizalmat
+
+"Ha azt akarjuk, hogy a fogyasztók
+többet vásároljanak, ezzel együtt gyakrabban használják a
+digitális beszerzési csatornákat, biztosítanunk kell számukra a
+jogaikat" -- mondta el Kuneva, hozzátéve, hogy a szoftvergyártók
+és a digitális szolgáltatásokat nyújtó vállalkozások nagyobb felelõsségvállalása elengedhetetlenül szükséges
+többek közt ahhoz, hogy a fogyasztók bizalma megnõjön az
+internetes vásárlási forma iránt -- ez pedig végsõ soron egy
+mind a fogyasztók, mind pedig a tartalomszolgáltatók számára
+kedvezõ helyzetet teremthetne.
+
+A szoftvergyártók ugyanakkor nem
+látják ilyen rózsásnak a helyzetet: a cégeket képviselõ
+Business Software Alliance (BSA) máris határozottan bírálta a
+tervezetet. "A digitális tartalom nem kézzelfogható áru, így
+nem ugyanazt a felelõsségvállalási szabályrendszert kell
+alkalmazni rájuk, mint például a kenyérpirítókra" -- mondta
+el a ZDNetnek Francisco Mingorance, a BSA szóvivõje. "A digitális
+tartalmat elõállító vállalatok nem tudják elõre megbecsülni
+sem azt, hogy a termék milyen környezetben lesz használva, sem
+pedig azt, hogy ezen belül milyen teljesítményt nyújt majd" --
+tette hozzá.
+
+A szoftvergyártókat képviselõ
+szervezet álláspontja szerint egy program futásának különbözõ
+tulajdonságai, így elsõsorban a mûveletvégzési sebessége nagy
+mértékben függ a rendszerkörnyezettõl, attól, hogy a programot
+idõszakosan frissítik-e, valamint végsõ soron attól is, hogy
+valamilyen külsõ körülmény hatására (például hackertámadás,
+vírus stb.) módosult-e a program kódja vagy futási mechanizmusa.
+Mingorance szerint a jótállási kötelezettségvállalás
+kiterjesztése végeredményben a különbözõ szoftvertermékek
+kompatibilitási listájának szûküléséhez vezethetne, hiszen a
+gyártók a külsõ fejlesztõk számára korlátozottabb hozzáférést
+adnának a kódhoz.
+
+Itthon két év a szavatossági idõ
+
+Magyarországon a szoftvertermékekre
+jelenleg a Polgári Törvénykönyvben meghatározott szavatossági
+jogrendszer vonatkozik, A két év szavatossági
+idõ elsõ félévében hibás teljesítés (azaz
+hibás mûködés) esetén az értékesítõt, a hátralévõ másfél
+évben pedig a fogyasztót terheli bizonyítási kötelezettség. Az
+interneten vásárolt szoftvertermékekre (akárcsak bármilyen
+fogyasztási cikkre) emellett a távollevõk közt kötött
+szerzõdésekrõl rendelkezõ 17/1999. (II. 5.) Kormányrendelet is
+vonatkozik, mely kimondja, hogy a vásárló nyolc napon belül akár
+indoklás nélkül is felbonthatja a szerzõdést. A szoftverekre
+vonatkozó kivétel azonban abban az esetben nem ad lehetõséget a
+fogyasztónak az elállásra, ha a program dobozát kibontották
+vagy az aktiválási (licenc)kulcsot felhasználták.
+
+Siklósi Máté fogyasztóvédelmi
+szakértõ, a CP Contact fogyasztóvédelmi tanácsadócég
+ügyvezetõje lapunknak elmondta, Magyarországon a
+szoftvertermékekre ezen felül nem vonatkozik semmilyen speciális
+kitétel vagy más, fogyasztóvédelmi szabályozás, azaz például
+ha egy program mûködése nem felel meg annak, amit a gyártó
+állított, a vásárló ugyanúgy kérhet kicserélést vagy
+kijavítást, mint lényegében bármilyen, szavatossági
+felelõsségvállalás hatálya alá esõ termék esetében. Más
+kérdés, hogy bizonyos jogorvoslati módszerek (tipikusan ilyen
+például a kijavítás, vagy az azonos termékre cserélés --
+kivéve értelemszerûen sérült adathordozónál) többnyire nem
+jelentenek megoldást a problémára, vagy nem értelmezhetõk jelen kontextusban. A magyar jogrendszer szerint azonban ha a kijavítást vagy a kicserélést nem lehet megoldani, vissza kell állítani az eredeti állapotot, azaz visszajár a vásárlónak a vételár.
+
+A fogyasztóvédelmi szakértõ szerint
+a szoftvergyártók ugyan tisztességes szerzõdési feltételek
+keretén belül kizárhatnak bizonyos felelõsségeket, illetve elõírhatnak
+különbözõ feltételeket a szoftver használatához (ilyen
+tipikusan a minimális hardverkövetelmény), lényeges törvényi
+elõírás, hogy mindezen feltételrendszert magyar nyelven kell
+közzétenniük. A szakember lapunknak hangsúlyozta, hogy ebben az
+esetben a fogyasztóra is nagyobb felelõsség hárul, hiszen
+egyrészt tisztában kell lennie azzal, hogy a szoftvert mire kívánja
+használni, másrészt ismernie kell a rendszerkörnyezetet, azaz
+elsõsorban azt, hogy számítógépe alkalmas-e a
+program futtatására.
+
+A gyógyszergyártókat ugyanezért perlik
+
+Siklósi hozzátette ugyanakkor, hogy a
+szoftvergyártók nem takarózhatnak folyamatosan azzal, hogy a
+rendszerkörnyezet pontos ismerete nélkül nem vállalható garancia
+a program megfelelõ mûködésére. A szakértõ a gyógyszeriparral vont párhuzamot: mint elmondta, a gyógyszergyártóknak a
+legtöbb esetben éppúgy felelõsséget kell vállalniuk azért, ha egy
+gyógyszerkészítmény hatástalan, vagy a hatása elmarad a
+várttól, csak ebben az esetben a rendszerkörnyezet nem a
+számítógép, hanem egy sokkal bonyolultabb felépítésû "szerkezet", az emberi szervezet. Siklósi ezzel kapcsolatban
+elmondta, hogy az Európai Unióban, illetve az Egyesült Államokban a
+gyógyszerkészítmények elmaradt hatása miatt jelenleg is több
+ezer per zajlik a gyógyszergyártók ellen.

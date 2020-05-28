@@ -1,0 +1,14 @@
+Közel tucatnyi hibát foltoz a Firefox új változata
+
+[Techworld] Egyetlen apró verziószámugrással (2.0.0.13) foltoztak be tíz biztonsági rést a legnépszerûbb alternatív böngészõ, a Mozilla Firefox fejlesztõi. Az automatikus frissítõrutinon keresztül is terjesztett, tegnap a számítógépek többségére megérkezett új változat öt kritikus biztonsági hiányosságát sikerült remélhetõleg megszüntetni.
+
+
+
+A tíz sérülékenység fele volt kritikus besorolású, három magas minõsítést kapott, míg egyet-egyet közepes és alacsony veszélyességi osztályba soroltak. A kritikus hibák között befoltozták azokat, melyekkel a JavaScript motort, vagy magát a böngészõt lehetett végzetes hibára kényszeríteni, de akár külsõ kódokat is lehetett futtatni a segítségükkel. A kereszthivatkozási szkriptek hibái pedig szinte állandó szereplõi a biztonsági frissítéseknek.
+
+A Firefox 10 frissítését a SeaMonkey projektbe is beépítették, a Thunderbird öt kapcsolódó, a levelezõ- és hírolvasó programban is megtalálható hibáit javító frissítésre azonban még várni kell. A Thunderbird a Firefox motorjának egyes részeit használja a levelek tartalmának megjelenítésére, így a JavaScripttel kapcsolatos hibák itt is megtalálhatók. A javításig erõsen javasolt, hogy kikapcsoljuk a JavaScriptek futtatásának lehetõségét a levelezõprogramban -- ez egyébként az alap beállítás.
+
+
+A Thunderbird javítására David Ascher, a Mozilla Messaging feje szerint még "néhány hetet" várni kell. Blogbejegyzése szerint ennél korábban nem lehet a Firefoxban eszközölt módosításokat átvezetni a Thunderbird kódbázisába, mivel ez nincs eléggé automatizálva.
+
+Az egyelõre nem ismert, hogy a negyedik bétánál tartó Firefox 3 érintett-e ezekben a hibákban. A jelenleg tesztelhetõ bétaváltozat JavaScript motorját módosították, így az is elõfordulhat, hogy ezeket a hibákat már javították ennél a böngészõnél is. A beta 4 több mint 900 változtatást tartalmaz a februári beta 3-hoz képest, köztük nemcsak a kódban, hanem a felhasználói felületen is történtek látványos módosítások.

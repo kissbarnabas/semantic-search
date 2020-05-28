@@ -1,0 +1,20 @@
+Próbaképp frissíti a Windows 7 RC-t a Microsoft
+
+A redmondi cég februárban hasonlóképp tesztelte a Windows 7 béta frissítõszolgáltatását is. Akkor azonban csak olyan "javítások" érkeztek, amelyekrõl a felhasználók maguk dönthették el, telepítik õket vagy sem, most több olyan frissítés is várható, amelyek automatikusan települnek. A Microsoft emellett tesztel egy új értesítési mechanizmust is, amely kézzel telepítendõ frissítések érkezésére hívja fel a felhasználók figyelmét.A tesztfrissítéseket el is lehet utasítatni, ehhez az operációs rendszerben ki kell kapcsolni a javítások automatikus telelepítését.
+  
+
+A Microsoft az elmúlt héten valódi frissítést is kiadott a Windows 7 RC-hez, csütörtökön egy olyan, jelentõs hibát javított ki a szoftvercég, amely átsiklott a kiadás elõtti ellenõrzésen. A probléma az alkalmazások telepítésével kapcsolatos, amennyiben javítatlanul marad, a Windows 7-re kerülõ szoftverek mûködésével gondok adódhatnak. Az automatikus frissítõszolgáltatáson keresztül ez a javítás valószínûleg a Windows 7 RC összes felhasználóját elérte már -- az angol nyelvû 32 bites változat érintett kizárólag.
+
+A Windows 7 megjelenésre szánt változatát május 5-én tette a nagyközönség számára elérhetõvé a Microsoft.A program két változatban tölthetõ le, 32 és 64 bites processzorral
+szerelt gépekhez értelemszerûen más-más csomag szükséges. A minimális
+hardverkövetelmény 1 GHz-es processzor, 1 gigabájt rendszermemória,
+DirectX 9 gyorsító és 16 gigabájt szabad terület a merevlemezen.
+Windows Vistáról újratelepítés nélkül, "helyben" lehet frissíteni a
+Windows 7 RC-re, bármilyen más operációs rendszerrõl azonban a teljesen
+új installálást javasolja a Microsoft, természetesen az adatok
+elmentése után.
+
+a feltelepített szoftver egészen jövõ nyárig (2010. június 1.)
+használható marad, bár 2010. márciusától kezdve kétóránként leállással
+figyelmezteti a tulajdonost, hogy ideje a végleges változatra
+frissíteni.

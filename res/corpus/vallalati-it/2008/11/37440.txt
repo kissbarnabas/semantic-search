@@ -1,0 +1,12 @@
+Itt a harmadik VMware közösségi találkozó
+
+A MOL-t követõen a CIB Bank virtualizált infrastruktúrája kerül terítékre a VMware felhasználói közösség harmadik szakmai találkozóján, ahol egyéb elméleti ismertetõket is hallhatnak a résztvevõk. 
+
+
+
+Az idén májusban megalakult magyar VMware User Group november 27-én tartja Budapesten harmadik rendezvényét. Természetesen ismét szóba kerülnek a VMware termékeinek újdonságai, hiszen idõközben lezajlott egy VMworld, köztük az ESX Server 3.5 Update 3 és a Workstation 6.5. A fõ attrakciót azonban a legtöbbek számára valószínûleg most is a terepen szerzett tapasztalatok megosztása jelenti. Ezúttal a CIB Bank x86-os szerverparkjának virtualizációjáról esik szó, magába foglalva a CIB által tavaly beolvasztott Inter-Európa Bank rendszereinek migrálását is. 
+
+
+Ezenkívül téma lesz a PowerShell virtualizált környezetben történõ alkalmazása, aminek középpontjában a munka egyszerûbbé tétele áll majd a parancssoros eszközök bevetésével. A MOL egy szakembere egyúttal igyekszik a rendezvényen támpontokat adni az ingyenes, ugyanakkor minimalista ESXi és az ESX Server közötti választási pontokhoz, majd zárásként a NetApp tároló rendszerek VMware-integrációjáról került napirendre. 
+
+A VMware User Group egy alulról szervezõdõ felhasználói közösség, melyet az x86-os virtualizáció piacát vezetõ VMware támogat ugyan, de nem irányít. A csoport célja a tudás megosztása és egy felhasználói közösség kialakítása, valamint egymás szakmai segítése. A rendezvényeken igyekeznek bemutatni a VMware termékeinek elõnyei mellett azok negatívumait is, és a marketingtõl megtisztított felhasználói tapasztalatokról beszámolni. A jelentkezési ûrlap és az eddigi elõadások anyagai a közösség honlapján találhatóak meg. 

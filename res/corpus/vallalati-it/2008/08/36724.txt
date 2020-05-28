@@ -1,0 +1,29 @@
+Kipróbáltuk a Ricoh A/3-as nyomtatóját, az Aficio GX 7000-at
+
+Ha A/3-as lézernyomtatóba tervezünk beruházni, megéri mérlegelni, lézer helyett ugyanis ugyanazt megteheti a gél is. A Ricoh Aficio GX 7000-ese ilyen nyomtató -- kipróbáltuk, vajon tényleg kiválthatja-e a lézert.
+
+
+
+A gél alapú (zselés) nyomtatótechnológia a tintasugaras és lézeres készülékek egyes elõnyeit hivatott ötvözni. A nyomtatógél a tintáknál sûrûbb, nagyobb fedõképességû, kevésbé itatja át a papírt. Jobb kontrasztot biztosít, mint a legtöbb tintasugaras és a színalkotók kevésbé keverednek, mint az olcsóbb lézernyomtatók esetében.
+
+Nagy alapterületét A/3-as maximális nyomatméretével indokolhatja a fekete-grafitszürke színû készülék. A alapkiépítésben egy 250 lapos alsó tálcát tartalmaz, emellett egy automatikus lapfordító egység (duplex) is tartozik hozzá. A felül elhelyezhetõ egyedi adagoló már opcionális, közel egyenes papírútja miatt a vastagabb médiát (például boríték vagy névkártya papír) is könnyen kezeli. USB 2.0 csatlakozással rendelkezik a nyomtató,  mellé Ethernet adapter választható még.
+
+Ricoh Aficio GX 7000 alapkiépítésben
+
+A négy különálló patront alkalmazó rendszer 3600×1200 dpi-nek  megfelelõ felbontással készíthet akár A/3 méretû dokumentumokat. A névleg 29 lap/perces printer jó ütemben halad monokróm üzemmódban is, de tpasztalataink szerint legjobban színes dokumentumok esetén teljesít. Sebességben összemérhetõ a lézernyomtatókkal alapbeállított minõség mellett, az elsõ oldalt pedig általában még hamarabb is elkészíti azoknál.
+
+
+
+
+A sebesség prioritás az alapértelmezett beállítás a meghajtóprogramban, ilyenkor a nyomatminõségbe becsúszhatnak apró szálhibák, hasonlóan sok belépõ szintû lézernyomtatóhoz. Minõség prioritás beállításra váltva ezek a gyengeségek minimalizálódnak, gyakorlatilag lézernyomtató minõséget kapunk, igaz, a betûkontúrok kevésbé lesznek simák. Fotónyomtatásban jobb a zselés nyomtató az olcsó lézereknél, de ezért erre a célra nem kifejezetten ajánljuk.
+
+Többféle kötés beállítható az automatikus duplex egységhez a Ricoh Aficio GX 7000 meghajtóprogramjában
+
+Normál módban nagy kapacitású patronok vásárlásával a színes CMYK nyomtatási költség nagyon kedvezõ, 32 forint alatt marad, belekalkulálva még a 22000 A/4-es oldalanként cserélendõ hulladékfesték gyûjtõt is. Igaz, a gyártó nem tûnteti fel weboldalán, hogy ISO szerint számolná a patronok töltetét, csupán 5%-os fedettséget ad meg, így például a nagy kapacitású fekete patronhoz megadott 3000 oldalas kapacitás érték nem összevethetõ más gyártókéval.
+
+A Level Color (egyfajta intelligens vázlat mód) beállítással  monokróm szintre szoríthatjuk vissza a színes dokumentumok költségét, ilyenkor a hátterek, grafikon területek telítettségét visszafogja a meghajtóprogram, de a szövegek még olvashatóak maradnak. Külsõ, reprezentatív anyagokhoz már nem alkalmas, de belsõ használatra komoly megtakarítást eredményezhet Level Color használata.
+
+Egymás mellett a normál és a LevelColor beállítással nyomtatott oldal
+
+
+Normál papíros munkákhoz a lézernyomtatóknál takarékosabb megoldás lehet a GX 7000, még a Level Color beállítás használata nélkül is. Kiskereskedelmi ára 191 880 forint, így egy hasonló nyomatminõségû A/3-as lézernyomtatót legkevesebb kétszer ennyiért szerezhetnénk be és az valószínûleg drágában dolgozna. A/3 méretigényekhez, kifejezetten színes dokumentumnyomtatásra ajánljuk, ha nem támasztunk túlzott igényeket a teljesítménnyel kapcsolatosan.

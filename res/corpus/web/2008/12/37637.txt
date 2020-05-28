@@ -1,0 +1,30 @@
+Megérkezett a végleges Google Chrome
+
+Tegnapelõtt még csak meglebegtette a Google elnökhelyettese, Marissa Mayer, tegnap pedig a hivatalos bejelentés is megérkezett arról, hogy a Google Chrome a béta állapotból kilépve, végleges változatban érhetõ el. A 3 hónapja bejelentett és azon nyomban be is mutatott, legfiatalabb böngészõ rekordidõ alatt ért el a tesztfázistól a fogyasztható állapotig.
+
+
+
+Meglepetés Párizsban
+
+A technológiai start-upok bemutatkozását lehetõvé tévõ párizsi LeWeb 08 konferencia nem várt meglepetéssel szolgált, hiszen a zsûriben is jelen lévõ Google ezekre a napokra idõzítette az õsszel bejelentett böngészõjének hivatalos startját. A nyílt forráskódú elemekbõl is építkezõ Chrome-ot több PC-gyártó várta már, hiszen egészen addig nem használhatták fel, amíg béta állapotú volt, így viszont a Google Apps és a Google Toolbar mellé ez is bekerülhet az elõretelepített csomagokba világszerte.
+
+Már a béta Chrome-ot is több mint 10 millió ember használta világszerte a Google állítása szerint, habár az még hiányos volt, több hibával és teljesítménygondokkal is küszködött. Az elmúlt 100 napban végzett fejlesztési munkák azonban a cég nyilatkozata szerint meghozták az eredményeket, s egy sokkal stabilabb és gyorsabb változat tölthetõ le a programból, immáron a béta címke nélkül, indulásként 1.0.154.36 verziószámmal. 
+
+
+  
+1.0.154.36 -- csak egyszerûen 
+
+Gyorsabb legyen és stabilabb
+
+A böngészõ fejlesztésekor az alapvetõ cél a felhasználói élmény fokozása volt, javítani kellett azt az érzetet, amit az emberek internethasználat közben kapnak. A Google mérnökei abból indultak ki, hogy a mai weboldalak nagy része már nem csak a szövegre épül, hanem számos egyéb tartalommal operál, amivel a böngészõnek is meg kell küzdeni. 
+
+A beta Chrome sok szempontból elvarázsolta a tesztelõket, de több hibája is volt, például a Flash-tartalmak megjelenítésében vagy a JavaScript-futtatásban is gyengélkedett, annak ellenére, hogy egyébként gyorsan mûködött. A mérnökök ezeken a területen igyekeztek javítani, illetve a saját fejlesztésû V8 JavaScript motort pofozták ki, ami érezhetõen még gyorsabbá tette a Chrome-ot. 
+
+
+ "Habár a béta státuszból kikerült a Chrome, stabilitása és teljesítménye is megfelel az elvárásainknak, a fejlesztéssel még közel sem vagyunk készen. További szolgáltatásokat tervezünk integrálni a programba, és a Mac-, illetve Linux-kompatibilis verziók megjelenése is egyre aktuálisabb" -- mondta Peresztegi Zoltán, a Google magyarországi képviselõje. 
+
+Nem az új funkciók dominálnak
+
+Új szolgáltatások alig kerültek a Chrome végleges változatába. Az egyik közülük a könyvjelzõk kezelésének módosítása, ami a Google szerint a felhasználók részérõl a legkomolyabb igény volt a béta megjelenésétõl kezdve. A másik fejlesztés pedig a biztonsági funkciókat csoportosította egy helyre, illetve egészítette ki magyarázatokkal, leírásokkal, hogy felhasználók  jobban megértsék, mi mire való és hogyan mûködik. 
+
+A Chrome fejlesztési ritmusa szokatlan mind a teljes szoftverpiacot, mind a Google gyakorlatát nézve. Vannak szolgáltatások, melyek már évek óta béta állapotban vannak, s ennek ellenére fejlõdnek, tökéletesednek, míg a Chrome a hirtelen berobbanása után három hónappal máris azt állítja magáról, hogy készen van. A hivatalos Chrome kiadást leszámítva is látszik, hogy a Google igyekszik gyorsítani a böngészõk világának átállását a nyílt szabványokra, miközben hangsúlyt fektetnek a médiatartalmak jobb megjelenítésére és a biztonsági kiegészítõk beépítésére is. 

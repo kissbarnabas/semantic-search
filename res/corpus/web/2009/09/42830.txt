@@ -1,0 +1,11 @@
+Letölthetõ a végleges Opera 10
+
+A végleges Opera 10 lényegében nem különbözik a múlt héten megjelent kiadásra jelölt változattól, azaz a böngészõ gyorsabb lett a korábbi verzióknál, valamint olyan funkciókat tartalmaz, melyeket eddig egyetlen PC-s webböngészõbe sem találhatók meg. A weboldalak gyorsabb renderelésérõl ettõl a verziótól már a Presto motor 2.2-es verziója gondoskodik, mely bizonyos weboldalakat akár 40 százalékkal gyorsabban jelenít meg, mint az Opera kurrens, 9.6-os változata - legalábbis ezt ígéri a fejlesztõcég.
+Az új böngészõ másik fontos újdonsága az Opera Mini mobilos browserbõl átvett Opera Turbo technológia, mely elsõsorban azok életét hivatott megkönnyíteni, akik lassú (jellemzõen EDGE-, vagy GPRS-alapú mobilinternet) kapcsolatot használnak, netán az elõfizetésük forgalmi korlátja miatt szeretnék leszorítani a böngészés adatforgalmát. A Turbo bekapcsolásával az Opera webböngészõ a weboldal teljes megjelenítéséhez szükséges sávszélességet az ígéretek szerint akár 80 százalékkal is csökkenthetik - a böngészõk ilyenkor valójában az Opera saját szerverével kommunikálnak, mely elõre letölti és a tartalom megváltoztatása nélkül tömöríti az oldalakat.
+
+Az Opera 10 további lényeges újdonságai közé tartozik az áttervezett kezelõfelület, melynek megalkotását ezúttal nem szakmabelire, hanem egy elismert dizájnerre, Jon Hicksre bízták. Az új külsõ egyik fontos eleme az átalakított böngészõfül-kezelés, ebben a verzióban például már szabályozható ezek mérete. Az Opera 10 emellett testre szabhatóbb speed dial funkciót kínál,valamint megjelent az 51 nyelvet támogató, Hunspell-alapú helyesírás-ellenõrzés is a böngészõben.
+Az új Opera webböngészõ Windows, Linux és Mac platformra elérhetõ a fejlesztõk weboldaláról.	     
+                  
+                  
+                  
+                   

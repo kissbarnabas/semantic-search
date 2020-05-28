@@ -1,0 +1,11 @@
+Felgyorsítja az AJAX alkalmazásokat a Microsoft
+
+Egyre több weboldalra kerünek fel látványos kezelõfelületeket felvonultató  AJAX (Asynchronous JavaScript and XML) alkalmazások, amikkel ma már egészen bonyolult feladatokat is meg lehet oldani. Épp emiatt ezek az alkalmazások gyakran lassan töltõdnek le és lassan indulnak el, néha pokollá téve a felhasználók életét - vélekednek a Microsoftnál.
+A redmondi cég most egy olyan szoftverrel jelentkezett, amelynek segítségével válaszképesebbé tehetõk az AJAX alkalmazások. A Doloto, amely nevét a Download Time Optimizer rövidítésébõl kapta, automatikusan elemzi az AJAX alkalmazásokat és képes azokat szétdarabolni. Ennek köszönhetõen már a bonyolult, sok kódot tartalmazó programok is gyorsan letöltõdhetnek, legalábbis azok a kódok, amelyek az alkalmazás elsõ elindulásához kellenek. Így a felhasználó már birtokba veheti a programot, elkezdheti használni, miközben a további kódrészletek a háttérben töltõdnek le, vagy éppen csak akkor, amikor ténylegesen szükség van rájuk.
+
+A Doloto lényegében egy lokális proxyként mûködik, amely a háttérben folyamatosan figyeli a JavaScriptek futását, a rögzített információk és a futási idõk alapján a szoftver  logikai egységekre darabolva átírja a kódot, majd az így elkészült programot  lemezre menti, így akkor is felgyorsítható egy AJAX alkalmazás, ha nincs hozzáférésünk a szerverhez, ha pedig van, akkor a Doloto által tárolt, átírt kódot vissza lehet tölteni a kiszolgálóra.
+A Microsoft tesztjei szerint a Doloto használatával akár 40 százalékkal is csökkenteni lehetett az indításkor letöltõdõ kód mennyiségét, így a hálózati kapcsolattól függõen jóval gyorsabban indultak el az AJAX alkalmazások. A megoldás mûködésérõl bõvebben a Microsoft Research weboldalán lehet olvasni.	     
+                  
+                  
+                  
+                   

@@ -1,0 +1,12 @@
+Januárban jönnek a 45 nanométeres Phenomok
+
+A januári Consumer Electronics Show (CES) 2009 alkalmával jelenti be 45 nanométeres processzorának asztali változatait az AMD, erõsítette meg a HWSW forrása. A Deneb kódnéven ismert négymagos chipek jelentõs teljesítménynövekedést hoznak a jelenlegi Phenomokhoz képest, és alacsonyabb elõállítási költségük révén nagyban javítanak az AMD nyereségességén is.
+
+
+
+A chipgyártó már javában szállítja a 45 nanométeres Opteronokat, melyeket november 13-án indított el hivatalosan is. A Shanghai kódnevû lapkák a 65 nanométeres Barcelona miniatürizált, továbbcsiszolt szilíciumrevíziójának tekinthetõek megnövelt gyorsítótárral -- az L3 cache mérete 6 megabájtra növekedett. Az új gyártási eljárásnak köszönhetõen az AMD-nek lehetõsége nyílik az órajel emelésére a fogyasztás leszorítása mellett, így a teljesítmény és energiahatékonyság egyszerre javul, ami versenyképessé teszi a chipeket az Intel Xeonokkal szemben. 
+
+
+A Shanghai-jal a szilícium szintjén megegyezõ Deneb AM2+ tokozásban kerül piacra elsõként, a legmagasabb órajel pedig kezdetben 3 gigahertz lesz. Az új processzorok márkaneve Phenom II X4 lesz, az AMD így akarja maga mögött tudni a 65 nanométeres négymagos generáció rosszemlékû fiaskóit. A Digitimes információi szerint eredetileg ötszámjegyû modelljelölést alkalmazott volna az AMD, ezt azonban mára háromjegyûre változtatták, melyek kísértetiesen hasonlítanak a Core i7 modellszámozásához -- a 3 gigahertzes változatot Phenom II X4 940 Black Edition néven forgalmazzák majd. 
+
+A Las Vegas-i, január 8-11 között megrendezendõ CES-re várható Deneb a mintegy 15 százalékkal megemelt órajelnek és háromszorosára növelt L3 cache-nek köszönhetõen elõdjénél 15-30 százalékkal nagyobb teljesítményre képes a HWSW becslései alapján. A második negyedévben érkeznek az AM3-as foglalatú változatok, köztük a középkategóriába szánt négy- és hárommagos termékekkel. A Deneb bár nem lesz képes abszolút fölényt kivívni az Intel Nehalemmel szemben, javít az AMD versenyhelyzetén a nagyobb teljesítmény és olcsóbb elõállítási költség révén.

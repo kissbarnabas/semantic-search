@@ -1,0 +1,9 @@
+Elkészült a Small Business Server 2008
+
+Elkészült és gyártásba ment a Microsoft új kisvállalati szervere, a Small Business Server 2008. A Windows Server 2008 alapjaira épített termék november 12-én mutatkozik be hivatalosan, az addig hátralevõ idõben olyan feladatok vannak hátra, mint a nemzetközi verziók elkészítése, a telepítõlemezek legyártása, a csomagolás, valamint a kiszállítás.
+
+
+
+A Small Business Server 2008 része az Exchange Server 2007 Standard, a SharePoint Services 3.0, a Forefront Security for Exchange Server biztonsági csomag egy éves elõfizetéssel. Az SBS 2008 prémium változata emellett tartalmaz egy második Windows Server 2008 licencet, illetve az SQL Server 2008 Standard változatát, amelyet akár második szerverre is telepíthetnek a felhasználók. Az SBS 2008 felületét úgy alakították ki, hogy a lehetõ legegyszerûbben telepíthetõ és kezelhetõ legyen, ugyanis a célközönségnek számító kisvállalatoknál az informatikai kompetencia gyakran korlátozott.
+
+A Windows Small Business Server 2008 Standard ára öt klienslicenccel (CAL) 1089 dollár, a további klienslicencek 77 dollárért vásárolhatók meg. Az SQL Server 2008-at is tartalmazó Small Business Server 2008 Premium öt klienslicenccel 1899 dollárba kerül, minde további CAL ára 189 dollár. Ezek az árak a "dobozos" verziókra vonatkoznak, az OEM- és mennyiségi licencvásárlók olcsóbban juthatnak a termékekhez. A hazai árakat egyelõre nem tudni, de a HWSW információi szerint igazodni fognak a kintiekhez. A Small Business Server 2008 lokalizált verziója nagyjából két hónappal a nemzetközi premier után várható, vagyis már 2009-ben.

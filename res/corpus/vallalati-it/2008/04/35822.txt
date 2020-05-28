@@ -1,0 +1,24 @@
+Új szerverek, virtuális és valódi szalagkönyvtárak a Suntól
+
+Új Opteron-alapú szerverekkel bõvítette a kínálatát a Sun Microsystems. A Sun Fire X4140 és X4440 gépek meglepõ módon még nem négymagos processzorokra épülnek, hanem kétmagosakra, azonban attól a pillanattól kezdve, hogy az AMD megfelelõ darabszámban szállítani tudja a Barcelona B3 kódnevû négymagos Opteronokat, a Sun gépeiben is elérhetõk lesznek.
+
+
+
+Új opterononos szerverek
+
+A vállalat mai sajtótájékoztatóján elhangzottak szerint az elavult kétmagos processzorok ellenére érdemes fontolóra venni Opteron-alapú rendszer választásánál az X4140-et, és az X4440-et. A gépek vadonatúj fejlesztésûek, még a kisebbik, 1U kivitelû kétfoglalatos változat, az X4140 is 8 SAS merevlemezt képest fogadni, legfeljebb 64 gigabájt memóriát támogat és 3 PCI-E kártyával bõvíthetõ. A Sun által nemrégiben bevezetett modellszámozási rendszerbõl némileg kilógó X4440 egy 2U magas gép, amelyben legfeljebb 4 Opteron dolgozhat a 128 gigabájt memória mellett, a diszkek száma itt is legfeljebb 8 lehet, PCI-E kártyából azonban már hatot támogat. Az alapfelszereltség része a redundáns táp és hûtés, a szervizprocesszor és a távoli telepítéshez szükséges összes funkció.
+
+Sun Fire X4140
+
+A gépeket egyelõre 2,6 GHz-es, 3 GHz-es vagy 3,2 GHz-es kétmagos Opteronokkal lehet rendelni, azonban foglalat- és chipsetkompatibilisek a Barcelonával, így a négymagos generáció megjelenésekor az ügyfelek percek alatt átállíthatják szervereiket a jóval nagyobb teljesítményû processzorok használatára. A szerverek lényegében az összes, x86 platformon elérhetõ operációs rendszerrel használhatók, legyen szó Solarisról, Linuxról, Windowsról vagy akár VMware ESX Serverrõl (a négymagos chipek használatához legalább 3.0.3 szükséges).
+
+Sun Fire X4440
+
+Valódi és virtuális szalagkönyvtár
+
+A Sun bejelentett egy új szalagkönyvtárat, és egy virtuális szalagkönyvtárat is. Az új szalagkönyvtár StorageTek SL3000 névre hallgat, és a csúcskategóriás SL8500, valamint a belépõ szintû SL500 közötti ûrt hivatott betölteni. Az SL3000 egy moduláris szalagkönyvtár, legfeljebb 3 ezer kazettát és 56 magnót képes kezelni, amelyek akár csúcskategóriás T10000-esek is lehetnek, de akár belépõ szintû LTO3-asok is. Maximális kiépítettség mellett a könyvár kapacitása 1,5 petabájt, áteresztõképessége pedig óránként 24 terabájt lehet.
+
+
+ Az új virtuális szalagkönyvtár, a Virtual Tape Library Plus lényegében a régi, egyedül a szoftvere frissült, a 2.0 változatban számos újdonság és fejlesztés kapott helyet. A VTL Plus 2.0 az elõdjénél kétszer több virtuális kazettát és szalagos egységet tud emulálni, képes a virtuális kazettákat az amerikai nemzetbiztonsági szabványoknak megfelelõ eljárással törölni, illetve az eszközt felkészítették a Sun kínálatában hamarosan megjelenõ deduplikációs eszközzel történõ integrációra is. További újdonság, hogy az eszköz fel van készítve az adatok blokkszintû deduplikációjára, amivel kiszûrhetõ az elõzõ mentés óta változatlanul maradt adatok többszörös tárolása.
+
+A Sun magyar leányvállalatának mûszaki igazgatója, Fischer Erik szerint a virtuális szalagkönyvtárak leginkább olyan heterogén környezetben használhatók hatékonyan, ahol vannak kevésbé elterjedt, speciális megoldások is -- tipikusan ilyenek az IBM mainframe-ek vagy System i (AS/400) szerverek. Ilyen esetben a virtuális szalagkönyvtárak elõnye a D2D2T mentéssel szemben, hogy a VTL-ek átveszik a valódi szalagkönyvtár vezérlését, a backup-szerverek "nem vesznek össze" a robotokon.

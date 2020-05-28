@@ -1,0 +1,20 @@
+A szájszagot és betegségeket is észreveszi leheletünkben a jövõ mobilja
+
+[Nikkei Electronics/BBC/HWSW] Egy brit cég és a finn Nokia az N95 egy olyan módosított változatát mutatták be a tokiói nanotechnológiai konferencián, mely az emberi lehelet kémiai összetétele alapján képes egyes betegségeket diagnosztizálni. Ezzel párhuzamosan az ENSZ és a Vodafone egy kezdeményezést indítottak a világon szétszórt különbözõ mobilegészségügyi projektek összefogására. Az elképzelések szerint a mobiltechnológia világszerte hatalmas segítséget nyújthat az egészségügyi ellátásban, különösen a nagy kiterjedésû és fejlõdõ országokban.
+
+
+
+A betegségek és szájszag ellen
+
+A Tokióban megrendezett idei Nanotechnology Exhibition & Conference, vagyis nano tech 2009 alkalmával a brit Applied Nanodetectors (AND) és a Nokia egy olyan N95 modellt mutattak be, melyet egy gázkémiai szenzorokat integráló mikrochippel szereltek fel, mely képes kielemezni az emberi lehelet összetételét, olyan alkotóelemek után kutatva, mint a szén-dioxid, nitrogén-oxidok és ammónia. Az AND beágyazott chipje detektálja az egyes gázok jelenlétét, tekintettel azok jelenlétének sûrûségére is, majd ez így kapott "lenyomatot" összeveti egy adatbázissal, ahol az egyes betegségekhez tartozó összetétellel veti össze.
+
+
+Az ember lehelet alapú diagnosztika eddig is ismert volt az orvostudomány elõtt, hiszen számos kór megváltoztatja annak gázösszetételét, így például a vesebaj növeli az ammóniatartalmat, de ezzel a módszerrel bizonyíték szerezhetõ cukorbetegségre és tüdõbajra is. Az AND chipje a betegségek mellett az alkoholszintet és a szájszagot is képes megállapítani. Amennyiben a szenzorok abnormalitást érzékelnek, úgy azt a felhasználóval, vagy akár orvosával is tudathatja.
+
+Az AND nyilvánvaló okokból a Nokiával egyezett meg elsõként, mely a világ legnagyobb mobilgyártója, és hatalmas befolyással bír Európában. Ezt követõen a cég a japán mobilszolgáltatókhoz fordul, melyek döntõ befolyással bírnak a világ egyik, ha nem legfejlettebb mobiltelekommunikációs piacán, és melyen keresztül kihatással lehet lenni az egész távol-keleti térségre is, ami a hatalmas és nagy területen szétterülõ népesség, valamint az egészségügyi ellátás gyengeségei miatt az AND elsõdleges célpiaca. Az 1,15 milliárdos Indiában például mintegy 800 millióan élnek a városokon kívül, miközben az egészségügyi kapacitások háromnegyede a városokra koncentrálódik. 
+
+Mobilegészségügyi összefogás
+
+Az ENSZ, a Vodafone és a Rockefeler Foundation a barcelonai Mobile World Congress alkalmával múlt héten jelentették be, hogy létrehozzák az mHealth Alliance-et, melyben egyesíteni kívánják a világon párhuzamosan futó több tucat mobilegészségügyi projekteket, valamint kormányzati és vállalati koordinációval segíteni azok széleskörû gyakorlatba ültetését. A legnagyobb probléma jelenleg az, hogy ezek a projektek elaprózódtak, és bár rengeteg tapasztalat halmozódott fel, akár mûködõ üzleti modellekkel, ezek egymástól elszigeteltek, fogalmazott a BBC News számára Claire Thwaites, az ENSZ és a Vodafone együttmûködésének vezetõje. Az ENSZ és a Vodafone közös felmérése mintegy 50 mobilegészségügyi projektet vesz sorra.
+
+A dél-afrikai SIMpill projekt például egy beágyazott mobilkommunikátorral ellátott gyógyszeres üvegcsét hozott létre, mely érzékeli, hogy a beteg megfelelõ ütemben szedi-e a gyógyszert -- ennek hatására 22 százalékról 90 százalékra ugrott az orvosi elõírásoknak megfelelõk aránya, állítják az illetékesek. Egy más kezdeményezésben az állampolgárok a HIV-vel és AIDS-szel kapcsolatos felvilágosítását célozták meg Ugandában, aminek keretén belül szöveges üzenetekben tájékoztatták az embereket. Indiában az Ericsson épített ki 15 városban és 18 faluban demo HSPA-hálózatot, melyre alapozva számos közszolgáltatás jelent meg, köztük mobil egészségügyi ellátás is. Ennek keretén belül mobil szélessávval és notebookkal felszerelt mentõkocsik hetente kétszer látogattak el a falvakba, és szükség esetén konzultálnak a városi kórházakban lévõ orvosokkal, sõt, az orvosok videokapcsolaton keresztül létesíthettek kapcsolatot a pácienssel. 

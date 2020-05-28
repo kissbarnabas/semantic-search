@@ -1,0 +1,10 @@
+A Google Calendarban akarnak jelszavakhoz jutni a csalók
+
+Új adathalász támadás ütötte fel a fejét: adattolvajok a Google Calendarba érkezõ bejegyzésekben próbálják meg megszerezni a felhasználók loginját és jelszavait -- derül ki a szolgáltatáshoz kapcsolódó fórumból.
+
+
+
+A támadók elõször egy levelet küldenek a felhasználóknak egy naptárbejegyzéssel. Az adattolvajok a szokásos "ügyfélszolgálati" trükköt vetik be, levelükben azt állítják, hogy a Google meg akarja szüntetni a nem használt postafiókokat, és az áldozat fiókja is ezek közé tartozik. "Azért küldjük ezt a levelet, hogy megerõsíthesse felhasználási szándékát" -- áll a levélben, amely a Gmail-fiókhoz tartozó felhasználói nevet és jelszót, illetve a születési dátumot és a tartózkodási országot kéri bizonyítékul.
+
+
+ A támadók azzal fenyegetnek, hogy amennyiben a levél címzettje nem adja meg a kért információkat, úgy a postafiókjához való hozzáférést "biztonsági okokból" 24 órára felfüggesztik. Természetesen a levél nem a Google-tól származik, ha valaki ilyennel találkozik, jelentse levélszemétként, és semmilyen esetre se adja meg az adatait.

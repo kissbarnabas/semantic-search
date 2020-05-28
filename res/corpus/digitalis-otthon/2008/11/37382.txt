@@ -1,0 +1,60 @@
+Elsõként kezünkben a Sony Ericsson Xperia X1
+
+A Sony Ericsson számára az anno nagy sikerû T610-hez hasonló fordulat lehet a Windows Mobile platformra épülõ új okostelefonja, az X1, ami már hajszálnyira van a megjelenéstõl hazánkban is. Az elõzetesn képeken látottakhoz hasonlóan a végleges változat is csinos és kényelmes, tekintélyt parancsoló. Rövid ismerkedés után kiderült, a korábbi félelmek némelyike alaptalan, de azért a tökéletességtõl messze van az X1.
+
+
+
+Puszta számok
+
+Elsõként lássuk a számokat, adatokat, amit nagyon röviden tudni érdemes a készülékkel kapcsolatban: szinte természetes, hogy az összes használt 2G és 3G frekvenciát ismeri, és képes GPRS, EDGE, HSDPA (7,2 Mbit), Wi-Fi 802.11b/g, Bluetooth 2.0 A2Dp, Infra, miniUSB 2.0 szabványokon keresztül kapcsolatba lépni a külvilággal. A gép szíve egy 528 Mhz-es Qualcomm processzor, melyhez 256 megabájt RAM és 512 megabájte program tárhely kapcsolódik, plusz 400 megabájt belsõ memória a saját fájlok kezelésére. Ez nyilván 2008-ban nem elég, microSD kártyával viszont akár 8 gigabájtra is növelhetjük a kapacitást.
+
+
+  
+
+  
+Kézre áll 
+
+A 145 grammos X1 kezelõfelületének egyik része a 800x480 pixel felbontású, 3 hüvelyk átmérõjû TFT érintõképernyõbõl és az alatta lévõ hardvergombokból áll, a kijelzõ elcsúsztatásával elõtûnõ teljes QWERTY kiosztású, fémborítású billentyûzet és az "optikai trackpad" teszi teljessé a beviteli módokat. Félõ volt, hogy az apró billentyûzet, még apróbb, szokatlan formatervezésû gombjai alkalmatlanok lesznek a hatékony szövegbevitelre, de legnagyobb meglepetésre könnyedén és kevés hibával lehet gépelni rajta. Merészebbeknek akár hosszabb szövegeket is bevihetnek, például a mellékelt PocketOffice Word alkalmazásban. A jó gépelési élmény titka valószínûleg az, hogy a gombokat valóban le kell nyomni, így van természetes visszacsatolás, amit még a Samsung Omia vagy az iPhone érintõkijelzõjére fejlesztett rezgése sem tud pótolni.
+
+Elsõ élmények
+
+A második félelem a készülék elégtelen sebessége volt, akár a számítási teljesítmény, akár a hálózati kapcsolatok minõsége szempontjából. Már az elsõ percben kiderült, hogy vannak korlátai az X1-nek, hiszen ha a promóciókban is szereplõ X-panel menüt megjelenítve csúsztatjuk szét a mobilt, akkor szaggat az animáció. Ez persze apró esztétikai hiba, hisz egyébként gyorsan reagál az Xperia sorozat elsõszülöttje a legtöbb parancsra, de reméljük, a szoftver ilyen szempontból javulni fog. 
+
+
+  
+
+  
+Hangulatok 
+
+A Wi-Fi kapcsolatot jóval gyorsabban építi fel a telefon mint egy noteszgép, és a 3G hálózatokat is hipp-hopp mûködés alá vonja. Az egyetlen ellenérzést a Windows Mobile által folyamatosan küldött értesítések váltották ki, amit persze az elsõ használatbavételt követõen mindenki ki fog kapcsolni. Az érintõkijelzõ is jól vizsgázott, az általunk próbált LG KS20 okostelefonnal ellentétben gyorsan reagál az érintésekre és a gesztusokra is, igaz, a pontosságát illetõen akadhat némi fenntartása a felhasználónak. 
+
+A beépített fényképezõ mindössze 3,2 megapixeles, ami manapság egyesek szerint szinte égõ, legalábbis marketing szempontból, de a Sony Ericsson kommunikációja szerint az X1 célcsoportjának nem a katalógusadatok számítanak a választásnál, hanem a fém borítás, a 7,2 Mbit/s elméleti 3G sebesség vagy a beépített GPS vevõ. Ennek ellenére az X1 által készített képek minõsége valahol a gyenge és a gyalázatos között van, igaz nem is virít a telefonon sehol a Cyber-Shot felirat. Maximum arra lehet használni, hogy vicces feliratokat fényképezzünk vele a városban.
+
+
+  
+
+  
+Fémszövet, Windows vázon 
+
+Szoftver szempontjából érdekes kérdés az elsõ pillantás után megítélni az okostelefont. A Sony Ericsson elsõ Windows Mobile platformra készült telefonjával nem követte el azt a hibát, mint néhány konkurens, akik a Windows Mobile 6.1 felületében bízva telefonként értékesítettek egy PDA-t. Itt fordított a hangulat. A japán-svéd cég által fejlesztett saját kezelõfelületnek köszönhetõen olyan érzése támad az embernek, mintha egy olyan telefon lenne a kezében, ami majdnem olyan okos, mint egy PDA. Az eddig kipróbált Windows Mobile alapú okostelefonokkal kapcsolatban a tapasztalat szinte minden esetben az volt, hogy kérem vissza a "butatelefonomat". Ez most változhat végre.
+
+Magyarul nem tud, de ért
+
+A rendelkezésre álló tesztdarabok egyike fel volt vértezve Opera Minivel, iGo 8-cal, plusz X-panel kiegészítõkkel, ami igencsak jót tesz az X1-nek, ezek nélkül az extrák nélkül kicsit üresnek érzõdik. A közösség várhatóan  hónapokon belül elõáll különbözõ extrákkal, amikkel egyszerûen testreszabható lesz az X1. A hazafiknak bizonyára szívfájdalma lesz, hogy a QWERTY billentyûzet egyáltalán nem lesz lokalizálva, a szoftverhez pedig csak késõbb érkezhet a nyelvi csomag, ha lesz egyáltalán. A boltokba kerülõ készülékekre csupán a magyar ékezetes karakterkészlet lesz telepítve, hogy legalább magyar nyelvû e-maileket lehessen írni.
+
+
+  
+
+  
+Képek az X1 kamerájával 
+
+
+Ahhoz, hogy a sok funkciót legalább egy napig lehessen élvezni feltöltés nélkül, a tervezõk egy 1500 mAh kapacitású lítiumpolimer akkumulátort szántak bele, csakúgy, mint az E71-be a Nokiánál. A gyártó szerint 10 óra beszélgetési idõt lehet kifacsarni belõle, de már az is elegendõ lenne, ha WLAN, GPS és 3G használat mellett, médialejátszóként, naptárként és hírolvasóként használva, néha pedig beszélgetve egy teljes munkanapot kibírna töltés nélkül, de ez a tartóstesztbõl kiderül majd.
+
+Nem lesz olcsó
+
+A következõ hetekben a polcokra kerülõ készülék induló listaára 185 ezer forint lesz a Sony Ericsson márkakereskedésekben. Elsõre igen borsosnak tûnhet ez az ár egy telefonért, de a mûszaki tartalmát tekintve közel azonos HTC Kaiser (T-Mobile MDA III) is ennyibe került megjelenésekor. Jó hír azoknak, akik nem szánnának ennyit egy kártyafüggetlen készülékre, hogy még karácsony elõtt a mobilszolgáltatók kínálatában is megjelenik, így valószínûleg kedvezménnyel, akár részletre is meg lehet majd venni a telefont. 
+
+Véleménye van?
+Szóljon hozzá a fórumban
+írjon szerkesztõségünknek!

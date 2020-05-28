@@ -1,0 +1,19 @@
+Szorosabbra húzza az együttmûködést a Sun és a Microsoft
+
+A Sun Microystems és a Microsoft a korábban aláírt együttmûködési megállapodásuk keretén belül egy új Interoperability Centert hoztak létre, ahol a Microsoft szoftvereit és a Sun x86-os szervereit hangolják majd össze. A Microsoft redmondi campusán mûködõ központban többek között a virtualizáció, a Java, a rendszermenedzsment, az azonosságkezelés területén is együttmûködik majd a Sun és a Microsoft.
+
+
+
+A két vállalat emellett bejelentette a Sun Infrastructure Solution for Microsoft Exchange Server 2007 elkészültét is. A megoldás lényegében egy Exchange Server 2007-re optimalizált Sun környezet, ahol a szervereket, tárolókat és szalagos mentõegységeket elõre konfigurálják és tesztelik az ügyfél igényeire szabva. A vállalatok ezertõl akár 200 ezer felhasználóig skálázható megoldást ígérnek, postafiókonként akár 20 dolláros költséggel.
+
+
+A Sun Infrastructure Solution for Microsoft Exchange Server 2007 segítségével a vállalatok úrrá lehetnek az e-mail tömeg növekedésén és a legteljesebb mértékben kihasználhatják az Exchange 2007 údonságait, miközben költséget takaríthatnak meg azáltal, hogy kevesebb eszközt kell használniuk, így kevesebb helyet foglalnak, amelyek kevesebbet fogyasztanak -- szól a közlemény.
+
+"A Magyarországon is elérhetõ Sun Infrastructure Solution for Microsoft Exchange Server 2007 olyan referencia-konfigurációkat takar, amelyet adott felhasználói létszámmal és terheléssel tesztelve voltak. Azoknak szánjuk õket, akik Exchange 2007-re szeretnének migrálni, és olyan megoldást keresnek, melyel viszonylag kis helyen  meg tudják kapni a megfelelõ
+teljesítményt" -- mondta el lapunknak Polner Tamás, a Sun Microsystems
+Magyarország marketing-vezetõje. "Ez a Microsofttal kötött
+együttmûködési megállapodásunk gyümölcse, és annak a bizonyítéka, hogy
+a Sun a Microsoft-környezetet használó ügyfelek számára is képes
+megoldást kínálni. A jövõben egyre több ilyen bejelentés várható majd."
+
+A Sun és a Microsoft hosszas jogi csatározások után 2004-ben kötöttek békét, amikor peren kívüli megállapodással lezárultak a Microsoft ellen a Java kapcsán indított trösztellenes és szabadalombitorlási eljárások. Az egyezség keretein belül a Sun minden Microsoft ellen indított antitröszt pert visszavont, és megállapodás született arról is, hogy a két cég egymás szabadalmainak egy megadott hányadát felhasználhatja saját tevékenysége érdekében. Az egyezség alapján a Microsoft összesen 1,6 milliárd dollárt fizetett a Sunnak, a két cég emellett 10 évre szóló fejlesztési megállapodást írt alá.

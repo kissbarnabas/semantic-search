@@ -1,0 +1,13 @@
+Ár-érték bajnok négymagos asztali platform az AMD-tõl
+
+Két Athlon II X4 modellt mutatott be az AMD, melyek a cég négymagos kínálatát bõvítik lefelé. A vállalat nagy csinnadrattával jelentette be, hogy megszületett az elsõ 100 dollárnál olcsóbb négymagos processzor, ami bár igaz, valójában a 99 dolláros nettó listaárral rendelkezõ 620-as modell alig 12 százalékkal vitte lejjebb a belépési küszöböt a 112 dolláros, vagyis alig 2500 forinttal drágább Phenom X4 9650 modellhez képest. A 99 dolláros Athlon II X4 620 órajele 2,6 gigahertz, míg a 122 dolláros 630 2,8 gigahertzes.
+Ezek az árak Európában bruttó 85 és 105 euróra fordulnak le, vagyis a hazai boltokban rendre 25 és 30 ezer forint alatt is hozzájuk lehet majd jutni. A közeljövõben további Athlon II X4 modellek piacra kerülése várható, ahogyan felfut az új chipek termelése. A boltok árlistáján már most látni lehet számos további változatot, kezdve a 2,2 gigahertzes 600e-tõl (alacsonyabb energiaosztály) a 3 gigahertzes 640-ig.
+
+Az Athlon II X4 chipek AM3 tokozást kapnak, kétcsatornás DDR3-vezérlõvel jönnek, 45 nanométeres csíkszélességgel készülnek, de nem rendelkeznek L3 gyorsítótárral, TDP-jük pedig 95 watt. Az ilyen formában piacra kerülõ chipek egy része Deneb lapkákat tartalmaz, melyekrõl letiltották a meghibásodott tárat, amivel csökkentik a selejthányadot, alapvetõen azonban új chiprõl van szó.
+A Propus kódnevû mag nem rendelkezik L3 tárral, így mérete drasztikusan kisebb, mindössze 169 négyzetmilliméter, szemben a Deneb 264 négyzetmilliméterével. Durva becsléssel ez azt jelenti, hogy az új chipbõl mintegy 75 százalékkal több fér egy szilícium körszeletre, vagyis azonos defekciós ráta mellett nagyjából 40 százalékkal olcsóbban állítható elõ - ezen az arányon természetesen jelentõsen ront a tokozás fix költsége, ugyanakkor lehetõvé teszi a nyomottabb árakat.
+
+Talán az új chipeknél is fontosabb, hogy az olcsó processzorokhoz az AMD a szintén friss 785G chipsetet is piacra dobta, mely Radeon HD 4200-as integrált grafikus maggal rendelkezik, ennek ellenére már 20 ezer forint alatt is találhatunk ezzel a chipsettel szerelt alaplapokat. Mindez azt jelenti, hogy a processzor-alaplap-memória-videokártya kombót akár 50 ezer forint alatt is megúszhatjuk, ennyi pénzért már kurrens technikával frissíthetjük fel PC-nket, felkészülten várva a Windows 7 megjelenését.	     
+                  
+                  
+                  
+                   

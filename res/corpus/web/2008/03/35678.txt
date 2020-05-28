@@ -1,0 +1,14 @@
+Linuxra is megérkezett az Adobe AIR és Flex Builder
+
+Letölthetõ az Adobe AIR for Linux kiadás elõtti alfaverziója, és az Adobe Flex Builder 3 for Linux alfaverziójához is elérhetõvé vált egy frissítés az Adobe Labs oldalán. Ugyancsak a mai napon az Adobe csatlakozott a Linux Foundation alapítványhoz, hogy elõsegítse az RIA technológiák térnyerését a Linux platformon. 
+
+
+
+Az Adobe AIR (Adobe Integrated Runtime) lehetõvé teszi webalkalmazások kapcsolat nélküli futtatását a számítógépen, a Flex pedig egy webfejlesztõ eszköz, amely segítségével weboldalakat, Flash animációkat, valamint AIR alkalmazásokat lehet készíteni. A szoftverek eddig kizárólag Windowson és Macen voltak elérhetõk, de mostantól Linuxon is futnak, így a szabad operációs rendszeren is elérhetõvé vált a Flex Buidlerbõl, az AIR-bõl és a Flash Player 9-bõl álló teljesen ingyenes webfejlesztési platform.
+
+
+"Az Adobe AIR for Linux alfaverziója és az Adobe Flex Builder for Linux alfaverziójához tartozó frissítés megjelenésével továbbra is együttmûködésre törekszünk a Linux közösséggel" -- mondta David Wadhwani, az Adobe platformokkal foglalkozó részlegének vezetõhe. "Már a fejlesztési folyamat közben közzétesszük a RIA fejlesztõeszközt és a futásidejû alkalmazást, így a felhasználókkal nyílt párbeszédet folytathatunk, és értékes visszajelzéseket kapunk."
+
+"A böngészõprogramokban és a számítógépen futó gazdag internetes alkalmazások kulcsszerepet játszanak napjaink webes élményének kialakításában, és a Linux közösség jelentõs szerepet játszhat az RIA alkalmazások jövõjének alakításában" -- nyilatkozta Randy Linnell, az Ubuntu Linux mögött álló Canonical munkatársa. "Az Ubuntu -- az egyik legelterjedtebb, több milliós felhasználótáborral rendelkezõ Linux rendszer -- kereskedelmi támogatójaként az Adobe AIR for Linux alfaverziója és az Adobe Flex Builder 3 for Linux alfaverziójához tartozó frissítés megjelenése rendkívül nagy örömmel tölt el bennünket."
+
+Az Adobe AIR for Linux végleges változata még az idén megjelenik, a Flex linuxos verziójána kiadásáról egyelõre nincs információ

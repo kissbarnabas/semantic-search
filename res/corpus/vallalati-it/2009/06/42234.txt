@@ -1,0 +1,17 @@
+OpenChange: nyílt forrású levelezõkliensek teljes Exchange-integrációja 
+
+Az OpenChange célja, hogy a Microsoft Exchange Server és az általa
+használt zárt MAPI (Messaging Application Programming Interface)
+protokollt hordozható nyílt forráskódban valósítsa meg. A projekt elsõdleges feladata az együttmûködés lehetõvé tétele, amit a libmapi protokollkönyvtár létrehozása biztosít. 
+A libmapi révén az e-mail kliensszoftverek végre natív módon kommunikálhatnak az Exchange levelezõ- és csoportszerverrel. Az OpenChange a Samba4 kliens protokollkönyvtáraira alapoz, így szükséges annak megléte a rendszerben. Eddig is léteztek megoldások alternatív levelezõszoftverek Exchange-re csatlakozásához, ezek azonban nem biztosították az összes lehetõséget, ahogyan a szerveroldali változtatások, mint például frissítések megtörhették az elérést.
+A libmapi révén a MAPI-n keresztül elérhetõ funkciók teljes tárháza áll rendelkezésre a Thunderbird, Evolution és más levelezõkliensek számára, vagyis a megosztott naptár, mappák, a feljegyzések és feladatok, valamint a kapcsolati adatbázis is. Mindez nem jelent mást, minthogy a jövõben versenyképes opció lehet a nem Windowst futtató PC-k fogadása Microsoft-alapú irodai környezetben is, nincs szükség a levelezõrendszer teljes leváltására ahhoz, hogy a Linux vagy MacOS platformok is megjelenhessenek. 
+"Az OpenChange protokollvisszafejtésen alapulva fejleszti az eszközöket.
+A Samba4-re azért van szükség, mert a MAPI önmagában nem mûködõképes
+(például nem transzport protokoll), és ezért több más kiegészítõ protokoll
+szükséges a teljes mûködéshez: ezek implementációját adja a Samba" -- mondta el a HWSW-nek Szentiványi Gábor, a Red Hat hazai képviseletét ellátó ULX ügyvezetõje, vagyis az OpenChange mögött nincs sem a Microsoft támogatása, sem pedig az Európai Unió felõli nyomás eredményeként megszületett Open Specification Promise kódlicencelési program, hangsúlyozta.
+A Cisco Systems tavaly szeptemberben vásárolta meg azt a PostPath-ot, mely a MAPI protokoll visszafejtésével olyan Linux-alapú csoportszerver-megoldást fejleszt, mely gyári állapotú Outlook klienseket is képes kiszolgálni, miközben az Active Directoryval is integrálódik. A PostPath megoldása azonban az OpenChange projekttel szemben zárt forrású, így technikája egyelõre nem érhetõ el széles körben.
+Az évek hosszas fejlesztéseit követõen véglegesedõ OpenChange libmapi elsõként a Fedora 11 következõ kiadásába kerül bele
+egyfajta tesztjelleggel. A Fedora a Red Hat közösségi projektje, ahol a
+fejlesztõi és felhasználói közösség aktív részvételével tapasztalatokra
+és eszközökre tesz szert, melyekkel vállalati Linux-disztribúcióját is
+beoltja késõbb.

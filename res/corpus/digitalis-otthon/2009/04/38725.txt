@@ -1,0 +1,28 @@
+Valódi hangfelismerõ vezérlés az új Windows Mobile 6.5-ben
+
+Jó vétel volt 800 millió dollárért a Tellme
+
+
+A Microsoft 2007-ben közel 800 millió dollárért vásárolta meg a Tellme Networks nevû Mountain View-beli, fõként mobiltelefonos alkalmazásokra specializálódott vállalkozást. A vétel nem a véletlen mûve, ez a mostani bejelentésbõl is látszik, s az új hangfelismerõ szolgáltatás azon túl, hogy egy kényelmi elõnyt jelent majd a Windows Mobile felhasználóknak, stílusos módon oldhatja fel az operációs rendszerrel szembeni leggyakoribb kritikát, miszerint a klasszikus, asztali Windows-ra emlékeztetõ interfész az egyszerûbb feladatokat is macerássá teszi.
+
+
+A szolgáltatás végletekig egyszerû: a felhasználó megnyom egy gombot, azt mondja, hogy "Call Jane Doe" és a telefon tárcsázza a számot. Ez eddig egyszerû, hiszen a legtöbb telefon szintetikusan képes ezt megismételni, amennyiben korábban rögzítettünk egy hangmintát a nevekhez. Itt viszont a szoftver nem igényel elõzetes rögzítést, hanem valóban megpróbálja értelmezni a kapott hangmintát. A parancs utalhat üzenetírásra is vagy a mobil bármely funkciójának elérésére, minden csak programozás kérdése.
+
+
+Tényleg érti
+
+
+A bemutató tanúsága szerint a "Pizza in Sacramento" mondatra a Live Search-ön keresztül indított keresés releváns találatait dobja vissza a telefon, tehát a hangvezérlés valóban szintet lép a Windows Mobile rendszerekben. Dariusz Paczuski, a Tellme fogyasztói szolgáltatásokért felelõs igazgatója úgy kommentálta a bejelentést, hogy "Amiatt, hogy ez annyira készségszinten mûködõ dolog, úgy hisszük, hogy egy valós lehetõség adódott a hangvezérlés számára, hogy az okostelefonokban alapvetõ interfésszé váljon".
+
+
+Bár a hangvezérlés már a Windows Mobile 5 óta a platform részét képezi, az öt évvel ezelõtt megjelent módszer jóval fejletlenebb, kezdetlegesebb volt. Azáltal, hogy a hangvezérlés kiterjed a hívásindításon túl, az üzenetkészítésre és a keresésre is, a menüben való szörfölés minimálisra redukálódik, ezzel együtt még egy fokkal kényelmesebbé téve a felhasználók mindennapjait.
+
+
+Egykezes
+
+
+Az új Windows Mobile 6.5 célja, hogy végre "egykezes" mobil operációs rendszerré váljon, s ne legyen szükség a stylus használatára. Ahelyett, hogy különbözõ menükön keresztül klikkelgetve jutunk el egy alkalmazáshoz, elég csak annyit mondani, hogy "start calculator" és az már indul is.  Érdekes kérdés, hogy a régi jól bevált interfészekhez szokott felhasználók a valóságban milyen motiváltsággal kezdik el használni vagy éppen nem használni az új hangfelismerõt. Egyelõre azt sem tudni, hogy az elsõként támogatott amerikai angolon belül mennyire okoznak majd problémát a nyelvjárások, akcentusok. Illetve a bemutató arra sem tér ki, hogy hogy állnak a zajszûréssel, ami a mindennapi használat során szintén komoly kérdés.
+
+
+
+Az viszont biztos, hogy a Windows Mobile 6.5 pár hónap múlva esedékes startjával párhuzamosan a szoftver is publikussá válik. Viszont a szolgáltatók vagy a készülékgyártók dönthetnek úgy, hogy nem ezt, hanem saját megoldásukat integrálják, amivel viszont biztosan rögzíteni kell a hangmintákat egyesével. A Microsoft viszont a felhasználók számára is ingyenesen letölthetõvé teszi a szintén hamarosan startoló Windows Mobile alkalmazás piacterén.

@@ -1,0 +1,16 @@
+Még egyszerûbben konfigurálhatók a Dell blade szerverei
+
+A Dell július eleje óta hivatalosan is megkezdte az új blade szerver keretével kompatibilis FlexAddress szoftver forgalmazását, ami függetleníti a szervereket a MAC-címüktõl és a Fibre Channel WW nevüktõl, ezáltal lehetõvé téve a gépek cseréjét, hogy a hálózati beállításokat módosítani kellene. 
+
+
+
+Az elgondolás mögött az áll, hogy a blade keretben mûködõ szerverek cseréje vagy újak behelyezése szükségszerûen maga után vonja a hálózati konfigurálást, a FlexAddress azonban elválasztja a hálózat címeket a gépektõl és a blade keret egyes pozícióihoz rendeli õket. Így aztán ha egy szerver valamilyen oknál fogva cserére szorul, az új gép azonnal át tudja venni a régi feladatait, nem szükséges a SAN-t és LAN-t átkonfigurálni. Ezáltal tovább csökkenthetõk az adminisztrátorok feladatait, összességében pedig rövidebb lehet a leállás vagy a szolgáltatás-kiesés.
+
+
+ Az elképzelés hasonló a HP-féle Virtual Connecthez, azonban az csak a HP saját hálózati berendezéseivel mûködik, míg a Dell FlexAddress ebbõl a szempontból nem válogat, így a felhasználók továbbra is használhatják kedvenc switchüket. A FlexAddresst egy SD kártya formájában lehet megvenni, az ezen található szoftverrel kell a Chassis Management Controllert frissíteni. Ez akár 8 blade keretet és 128 szervert összefogva képes virtualizálni a switcheket, amelyek a kezelõfelületen egyetlen kapcsolóként felügyelhetõk.
+
+
+
+A Dell év elején mutatta be új generációs, PowerEdge M-osztályú blade szervereit, illetve a hozzájuk tartozó, 10U méretû M1000e blade keretet, amellyel a FlexAddress kompatibilis. A keretbe összesen 16 darab félmagas gép helyezhetõ, érdekessége, hogy a konfiguráláshoz és hibakereséshez egy LCD-kijelzõt tartalmaz, valamint egy KVM-switechet is építettek bele. A FlexIO technológiának köszönhetõen a blade keret Ethernet, InfiniBand vagy 10Gb Ethernet hálózatokra is kapcsolható, de természetesen Fibre Channel csatlakozásra is képes.
+
+Az új blade-ekhez mellékelik a Dell OpenManage felügyeleti szoftverét, amelyben olyan képességek is helyet kaptak, mint a fogyasztás valós idejû monitorozása és jelentése, illetve akár blade-enkénk külön meghatározható egy maximális fogyasztási keret, amelynek elérésekor az adott gép nem fogad el további terhelést. Erre azért van szükség, mert a meglevõ adatközpontok gyakran nem képesek elbánni a blade-ek jelentete megnövekedett teljesítménysûrûséggel: egy blade-ekkel telepakolt rack fogyasztása megközelítheti a 15-20 kilowattot is.

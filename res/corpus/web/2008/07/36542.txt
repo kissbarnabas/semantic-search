@@ -1,0 +1,24 @@
+A Google babérjaira tör az új keresõ, a Cuil
+
+Elindult a Cuil webkeresõ, ami nem kisebb célt tûzött maga elé, mint a Google legyõzését.
+
+
+
+Google-dolgozók egykori munkaadójuk ellen
+
+A kaliforniai start-up vállalkozás mögött egy házaspár áll: Tom Costello, a Stanford egyetem professzora korábban az IBM alkalmazásában adattárolási rendszerekkel kapcsolatos kutatásokat végzett, felesége, Anna Patterson 2004 óta dolgozott a Google-nál többek között a weboldalak indexelését végzõ algoritmuson, valamint azon az eljáráson, amely az oldalakhoz hirdetéseket rendel. A harmadik alapító, Russel Power szintén a Google-tól érkezett, emellett a fejlesztõcsapat tagja Louis Monier, aki résztvett az AltaVista és a BabelFish megalkotásában, illetve az eBay keresõjének fejlesztésében.
+
+A Cuil megalkotói szerint a legnagyobb erõsségük, hogy 120 milliárd weboldal tartalmában keresnek, míg a piacvezetõ Google adatbázisa "csupán" 40 milliárd oldalt ölel fel. A start-up mögött álló házaspár szerint a Cuil titka, hogy egy minden eddiginél hatékonyabb adatbázist tudtak létrehozni a weboldalak tartalmából, amelynek mûködése a versenytársakhoz képest kevésbé hardverigényes, így gyorsabb és kevébé költséges is egyben.
+
+
+ Az új keresõ nem csak a motorját, hanem a megjelenítési felületét tekintve is újszerû: a találatokat nem csak egyszerûen kilistázza, mint a Google, a Yahoo vagy éppen a Microsoft Live Search, hanem egy újsághoz hasonlóan, több hasábba rendezve mutatja meg õket. Jobboldalt ehhez társul egy lenyitható menü, ahol további kapcsolódó témák találhatók összegyûjtve.  
+
+
+
+A Google-verõnek szánt keresõ egyelõre azonban számos területen elmarad az ikontól. Sok kulcsszóra egyáltalán nem ad találatot, néha pedig teljesen irreleváns weboldalak címével rukkol elõ. Arról már nem is beszélve, hogy a Google-nak számos speciális keresõje van (pl. árkeresõ, képkeresõ, hírkeresõ), addig a Cuil ma még csak egy szimpla webkeresõ -- ráadásul egyelõre annak sem túl jó.
+
+Még nincs reklám, de lesz
+
+A Cuil máris összeszedett 33 millió dollár kockázati tõkét, ami elegendõ volt az elsõ képésekhez. Hosszú távon a keresõ hirdetésekbõl kíván élni, bár jelenleg még egyet sem látni az oldalon. Ennek oka, hogy a cég egyelõre nem dolgozta ki az üzleti modellt, az is lehet, hogy saját maguk értékesítik majd a hirdetési felületet, de az is lehet, hogy egy partnerre bízzák ezt.
+
+A Cuil kínosan ügyel arra, hogy elkerülje a "Nagy Testvér" látszatát, a keresõ nem gyûjt adatokat a felhasználókrõl, nem õriz meg IP-címeket és az egyes személyekhez kötõdõ keresések listáját sem tárolja el. Anna Patterson szerint ennek oka, hogy az általuk kifejlesztett algoritmus a weboldalak tartalma, nem pedig a népszerûségük alapján rendezi sorrendbe a találatokat.

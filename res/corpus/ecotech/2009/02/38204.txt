@@ -1,0 +1,18 @@
+Együtt próbál szerencsét a magyar piacon a Telsey és a Ruckus Wireless
+
+Közös erõvel próbál új piacokat meghódítani a Telsey Telecommunications és a Ruckus Wireless -- derült ki a két cég együttmûködési megállapodását bejelentõ mai sajtótájékoztatón. Az európai országokban elsõsorban IPTV-megoldásaival és otthoni hálózati eszközeivel, átjátszóival jelen lévõ olasz Telsey az amerikai Ruckus egyedi felépítésû készülékeit is használja majd hálózataihoz, a cég cserébe a Telsey disztribútorain keresztül terjeszkedhet az európai országokban.
+
+
+
+A Telsey részérõl az együttmûködés elsõsorban az IPTV-rendszerekre specializálódott divíziójának igényeit szolgálja, a hálózatba kötött eszközök (gateway és set-top boxok) közti stabil és nagy sávszélességû vezeték nélküli kommunikáció megvalósítása érdekében. Mint ahogy azt Szuszkó László, a vállalat kelet-európai kereskedelmi vezetõje elmondta, az IPTV-végpontokra kihelyezett infrastruktúráknál egyre több elõfizetõ választja az alternatív (például powerline rendszerek) vagy vezeték nélküli adatátvitelt a gateway és a set-top box között ahelyett, hogy Ethernet-kábelt húzna ki a készülékek közt.
+
+Az IPTV-technológia ugyanakkor különösen érzékeny a szállított adatcsomagok késésére, kimaradására vagy sérülésére, ezért a vezeték nélküli jeltovábbításnál a hagyományos, körsugárzó rendszerek nem minden esetben jelentenek optimális megoldást az átvitelhez. A jelek küldése az eszközök távolságától, a beltér kialakításától (falvastagság, falak anyaga, reflexió) és a frekvencia zsúfoltságától függõen vagy speciális, high-end eszközöket, vagy valamilyen egyedi technológiával szóró berendezéseket igényel.
+
+BeamFlex antennaerdõ: nagyobb hatótávolság, stabilabb jel
+
+A Ruckus Wireless ZoneFlex családba tartozó vezeték nélküli hozzáférési pontjai a gyártó szerint a konkurenciánál (Cisco, Aruba, Meru) jóval kedvezõbb áron nyújtanak megoldást a fenti problémára. A hozzáférési pontok a BeamFlex névre keresztelt technológia révén nem körbeszórják, hanem sávban, a kliensre fókuszáltan szórják a jelet, ezzel összességében nagyobb hatótávolságot és stabilabb adatkapcsolatot elérve. Az eszközök mindehhez egy speciális kialakítású, tizenkét antennából álló (ebbõl hat vízszintes, hat függõleges pozícióban helyezkedik el) belsõ antennarendszert használnak.
+
+
+A Ruckus szerint a Wireless ZoneFlex eszközöket használva azonos felhasználószám és terület lefedéséhez összességében kevesebb hozzáférési pontra van szükség, ami gazdaságosabbá teheti a lokális vezeték nélküli hálózatok kiépítését. A két cég elsõdleges célcsoportjába az IPTV hálózatok üzemeltetõi mellett a szállodák, egészségügyi és oktatási intézmények valamint vendéglátóhelyek tartoznak.
+
+A nemrég létrejött együttmûködési megállapodástól a felek egyaránt jelentõs piaci bõvülést várnak. Hazánkban egyelõre sem a Telsey, sem a Ruckus Wireless nem épített fel magának kiterjedt ügyfélbázist, ráadásul egyelõre nem is folynak tárgyalások a hazai IPTV-szolgáltatókkal a közösen forgalmazott megoldások alkalmazásáról. A Telsey ugyanakkor reméli, hogy a Deutsche Telekommal kötött partneri együttmûködés hatására idõvel a hazai leányvállalat T-Home márkanevû IPTV-infrastruktúrájában is helyet kaphatnak a cég és a Ruckus Wireless megoldásai -- mondta el Szuszkó a HWSW kérdésére.

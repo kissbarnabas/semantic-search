@@ -1,0 +1,14 @@
+Naptár is lesz az év végére ígért új Thunderbird levelezõben
+
+Hozzávetõleges útitervet közölt David Ascher, a Mozilla divíziója, a Thunderbird levelezõprogramot fejlesztõ MailCo vezetõje a szoftver fejlesztésével kapcsolatban. A két vezetõ fejlesztõ távozását követõen lelassult némileg a szoftver fejlesztése -- a 3-as verziót az év végére ígéri.
+
+
+
+A jelenlegi, elsõ negyedévben egy alfa változat megjelenése várható, mely körvonalazza majd a Thunderbird 3-ban érkezõ újdonságokat, bár a naptár funkció ebben még nem lesz megtalálható. Ezt a funkciót a harmadik negyedévre ígért bétaváltozatokban lehet majd elsõként kipróbálni. A "használhatóbb", kiadásra jelölt változat a negyedik negyedévben érkezhet csupán, így a végleges verzióra az év végéig kell várni.
+
+A Mozilla valószínûleg a Firefox sikereit készül megismételni nyílt forráskódú levelezõ és hírolvasó programja, a Thunderbird külön divízióba szervezésével, leválasztásával. A cél nem is igazán egy Outlook-helyettes alkalmazás fejlesztése, hanem egy jobb e-mailkliens készítése, mely megfelel az emberek igényeinek, szem elõtt tartva a webes levelezést is. Komoly csapás volt azonban, hogy a MailCo megalakulását követõen pár héttel a két vezetõ, fizetett fejlesztõ, Scott McGregor és David Bienvenu kilépett a vállalattól.
+
+
+A Mozilla korábban három lehetõség között vacillált a Thunderbird leválasztásával kapcsolatban, köztük szerepelt az is, hogy a szoftvert átadják a közösségnek, hasonlóan a SeaMonkey projekthez. A távozott két vezetõ fejlesztõ támogatta azt az ötletet is, hogy egy kisebb, független cég folytassa a levelezõkliens fejlesztését, továbbra is támaszkodva a külsõ, ingyenesen dolgozó programozókra. A Mozilla egy harmadik lehetõséget választott.
+
+A Mozilla jelenlegi becslése szerint 5-10 millió felhasználója lehet jelenleg a Thunderbird kliensnek, mely a jövõben valószínûsíthetõen ugyanolyan pluginekkel bõvülhet tovább, mint amelyek a Firefox böngészõt is testre szabhatóvá, egyedivé teszik.

@@ -1,0 +1,12 @@
+Távoli kódfuttatást lehetõvé tevõ sebezhetõségre bukkantak az Adobe Flash Playerben
+
+Biztonsági cégek arra figyelmeztetnek, hogy már vadon terjednek azok a támadások, amelyek az Adobe Flash Player legújabb verziójában nemrég felfedezett sebezhetõséget használják ki. 
+
+
+
+A távoli programfuttatást lehetõvé tevõ sebezhetõséget kihasználva a támadók az éppen aktív felhasználói jogosultságaival tudnak tetszõleges programot elindítani, így adatokat törölhetnek vagy lophatnak, illetve további kártevõket telepíthetnek, vagy a gépet újabb támadások indításához használhatják. A Symantec szerint a sérülékenységet máris aktívan kihasználják egyes támadások.
+
+
+ Az Adobe Flash Player szinten minden olyan PC-n megtalálható, amely az internetre csatlakozik, a kirowski felmérése szerint a hazai netezõk 99,9 százalékra rendelkezik ezzel a programmal. A sebezhetõséghez egy preparált SWF fájlt kell megnyitni, így ha valaki nem jár gyanús weboldalakon és nem kattint ismeretlenektõl érkezõ levelekben linkekre, jó eséllyel biztonságban van.
+
+Az Adobe Flash Player legújabb (9.09124.0) verziójában jelen levõ hibára a fejlesztõk egyelõre nem adtak ki javítást. A vállalat biztonsági blogjában röviden csak annyit közölt, tudatában van a támadásoknak, és a Symantec-kel közösen próbálják felderíteni a részleteket.

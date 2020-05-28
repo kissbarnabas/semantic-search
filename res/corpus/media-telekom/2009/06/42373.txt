@@ -1,0 +1,14 @@
+Közösen fejleszti a jövõ hordozható internetes eszközeit az Intel és a Nokia
+
+A mai bejelentés szerint a két vállalat együttmûködik számos Linux-alapú nyílt forrású szoftver fejlesztésében is, amelyek megteremthetik a jövõben érkezõ, közös hardverplatformra épülõ eszközök szabványos szoftverplatformját. A közösen kiadott közlemény szerint az Intel és a Nokia olyan nyílt forrású projekteken dolgozik maj együtt mint a  Moblin, a Maemo, a D-BUS, a Mozilla, a BlueZ, a GStreamer, vagy a PulseAudio. A cégek várakozásai szerint egy közös, nyitott, szabványos, Linux-alapú mobil platform sok fejlesztõt vonz majd, ezáltal a jövõben számtalan új alkalmazás készülhet el, ami növelni fogja a Moblin- és Maemo-alapú termékek vonzerejét a gyártók, valamint a vásárlók számára egyaránt.
+A Maemo a Nokia által fejlesztett, nyílt forrású komponensekre építõ szoftverplatform, amely a Nokia N-sorozatú internet tablet készülékein fut (N800, N810). A Moblin az Intel által életre hívott és azóta a Linux Foundation gondozásába adott kezdeményezés, amely szintén egy Linux-alapú szoftverplatform mobil eszközök, például netbookok vagy mobil internetes terminálok (MID) számára. A Moblin leginkább olyan funkciókra koncentrál, amelyek egy kis kijelzõvel ellátott, internetre csatlakozó eszköz felhasználója számára vonzóak lehetnek, például a böngészésre, médialejátszásra vagy éppen a közösségi hálózatok és szolgáltatások elérésére.
+
+
+
+A megállapodás szerint az Intel licencelni fogja a Nokia HSPA/3G technológiáját, ami lehetõvé teszi a számára, hogy olyan chipeket vagy chipkészleteket kínáljon, amelyekre építve HSPA/3G hálózatokhoz kapcsolódni képes eszközök építhetõk -- alighanem ezeket használják majd a Nokiával közösen fejlesztett termékekben is. A vállalat kínálatában korábban kizárólag Wi-Fi és WiMAX chipek szerepeltek.
+Amennyiben az Intel valóban megszerzi magának a Nokiát mint hardvergyártó partnert, az jelentõs elõrelépést lenne a vállalat számára, amely ARM-alapú processzoraival annak idején nem tudta feltörni ezt a szegmenst, de most x86-os chipjeivel jó eséllyel szerezhet meghatározó részesedést. A Nokia a világ legnagyobb mobiltelefon- és okostelefongyártója, utóbbi szegmensben a részesedése meghaladja a 40 százalékot. Az Nokia okostelefonjaiba jelenleg jobbára a Texas Instruments szállítja a chipeket.
+A finn cég számára létfontosságú a "felfelé" terjeszkedés, vagyis az okostelefonoknál nagyobb képernyõs eszközök sikeres piacra vitele, különben a notebookok és netbookok felõl az okostelefonok felé agresszívan terjeszkedõ PC-gyártók (pl. Acer, Asus) foglalják ez ezt a ma még szinte egyáltalán nem létezõ, de az Intel szerint nagy lehetõségeket rejtõ piacot.	     
+                  
+                  
+                  
+                   

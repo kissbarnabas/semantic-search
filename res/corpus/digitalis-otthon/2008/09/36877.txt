@@ -1,0 +1,52 @@
+T-Mobile Web'n'walk HSDPA-router - Sétálgatunk-sétálgatunk?
+
+A mobilinternet, bár eredetileg -- ahogy nevébõl is adódik -- mobil eszközök, elsõsorban telefonok, notebookok internetre kötésére ideális, erre a célra lett létrehozva, a versenyképes áraknak és a javuló mûszaki feltételeknek (nem csak és kizárólag a lefedettséget értjük ezalatt) manapság egyre többen választják az internetelérés ezen válfaját helyhez kötött, asztali számítógépüknél is. Szinte mániákusan szabadulunk a vezetékektõl, a mobilszolgáltatók közül elsõként a T-Mobile pedig egy olyan eszközökkel látja el a lakossági ügyfeleket, amely a mobilnet használata során mentesíti õket bizonyos kompromisszumok megkötésétõl. Legalábbis elvileg.
+
+
+
+Mobilnetet minden számítógépnek!
+
+A mobilinternethez használható, különbözõ formátumú (USB-s, bõvítõkártyás stb.) GPRS/EDGE/UMTS modemekkel eddig alapesetben egyszerre csak egy számítógépet lehetett az internetre kapcsolni, ami az eredeti koncepciót jól szolgálta, csakhogy mindez nem jelentett megoldást a több számítógéppel rendelkezõ otthonok, kisebb irodák számára. Kézenfekvõ megoldás volt tehát, hogy a modemet egy olyan hálózati eszközbe kell integrálni, amely több kliensgépet is el tud látni, össze tud kapcsolni. Így születtek meg a mobilkommunikációs modullal (vagy éppen kártyamodemet fogadó PCMCIA-bõvítõfoglalattal) ellátott útválasztók, melyekbõl egyet, egy négy Fast Ethernet porttal és WLAN-modullal ellátott HSDPA-s routert nemrég a T-Mobile is forgalmazni kezdett.
+
+
+
+A szolgáltató választékában Web'n'walk Box IV néven futó eszközt mi is kipróbáltuk -- hangsúlyozottan nem azzal a céllal, hogy összehasonlítsuk a vezetékes internetes megoldásokkal (kábelnet, xDSL), a mobilinternet egy ilyen összehasonlítás során ugyanis pusztán a technológia jellege miatt alighanem csúnyán elvérezne, legalábbis ami a stabilitást, a konstans vonalparamétereket illeti. Cserébe viszont (elvileg) korlátlan mobilitást ad, más kérdés, hogy a szóbanforgó router az elsõ olyan mobilinternet-eszköz a szolgáltató választékában, melynek a kommunikációs technológia elnevezésén kívül vajmi kevés köze van a mobilitáshoz.
+
+
+
+A T-Mobile HDSPA-modemmel ellátott routere mutatós eszköz, fényes fekete fedlapján négy LED-visszajelzõ tájékoztat a különbözõ üzemmódokról, így a bekapcsolt állapotról, a WLAN mûködésérõl, a jel befogásáról és végül az adatkommunikáció üzemmódjáról. Utóbbi tölti be a legfontosabb tájékoztatószerepet: ha nem kéken világít, baj van, ilyenkor ugyanis visszavált a rendszer EDGE (narancs jelzõfény), vagy ami még rosszabb, GPRS (zöld jelzõfény) módra, amit biztosan tapasztalni fogunk a drámai mértékben lelassult kommunikáció képében.
+
+A Huawei által gyártott készülék (a router az E970-es modellszámot viseli) installálása gyerekjáték: az oldalsó kis fiókba be kell csúsztatni egy érvényes SIM-et, gyenge jelszint mellett ajánlott csatlakoztatni a külsõ antennát (nem tartozéka a készüléknek), majd a bekapcsolás után WLAN-on keresztül máris konfigurálható az eszköz. A konfigurálás természetesen vezetékes kapcsolattal is elvégezhetõ, a Web'n'walk Box IV egy négyportos ethernet-switchet intergál magába.
+
+Egy gyerek is beállítja
+
+A HSDPA-s router az ilyen eszközöknél szokásos webes konfigurációs felületet kínálja fel számunkra. A választható nyelvek közt szerepel a magyar is, ráadásul a beállításokhoz többé-kevésbé kimerítõ magyarázatot is kapunk minden panelen, így a gyakorlatlanabb felhasználóknak nem kell azonnal a kézikönyvért nyúlniuk a konfigurálás során.
+
+
+
+Az alapvetõ beállításokat itt is -- mint számos más esetben -- egy varázslóra bízhatjuk. Ilyenkor egyedül a SIM-kártya PIN-kódját kell megadnunk, és néhány jóváhagyó kattintás után máris elérhetõ az internet, feltéve, hogy olyan helyen tartózkodunk, ahol van mobil térerõ. A varázsló lehetõséget ad a WLAN-paraméterek gyors átírására is -- itt az alapbeállítású SSID-t érdemes biztonsági okokból átírni valami másra, netán mindjárt elrejteni, illetve a csatlakoztatni kívánt eszközök tudásától függõen bekapcsolni a titkosítási üzemmódok (WPA-PSK, WPA2-PSK, WEP) valamelyikét. A hazai mobilnet-elõfizetések jellegét tekintve a biztonsági védfalak felhúzása jelen esetben szinte kötelezõ, de legalábbis saját pénztárcánk ellen dolgozunk, ha elmulasztjuk, hiszen az illetéktelen használat itt az adatforgalmi korlát átlépése után keményen a zsebünkre megy.
+
+A naplózási lehetõség azért jól jönne
+
+A készülék konfigurációs menüjében alapvetõen nehéz elveszni, bár a hagyományos WLAN-routerekhez képest van néhány új opció is: így például a PPP-profillistánál szerepelnek szokatlan mezõk (mint például az APN), ezekhez a beállításokhoz azonban nem kell nyúlnunk, ha valamiért véletlenül mégis átállítanánk a paramétereket, a profillistából utólag elég kiválasztani a T-Mobile HU profilt, ezek után újra rá fog találni a mobilinternet-hálózatra a router. A mobilinternet-elõfizetések sajátosságait figyelembe véve a webes konfigurációs felület legkomolyabb hiányosságnak a naplózási funkció teljes hiányát tartjuk. Bár a leírásban található képernyõmentéseken látni ilyen funkciót, nem jöttünk rá, hogyan kaphatunk a grafikus felületen információt a kapcsolat aktuális állapotáról (aktuális térerõ, mobiltechnológia). Talán egy újabb szoftver bekapcsolja majd ezt a funkciót.
+
+Egyszerû, magyarul kommunikáló kezelõfelület
+
+A hálózatkeresési módszer igény szerint átállítható automatikusról manuálisra, illetve kiválasztható az elsõdleges üzemmód, mely HSDPA/UMTS vagy EDGE/GPRS lehet. A web'n'walk Box IV a legtöbb mobiltelefonhoz hasonlóan a hálózati paraméterektõl függõen képes automatikusan üzemmódot váltani, azaz ha a HSDPA-kapcsolat végképp instabillá válik, visszavált EDGE-re (ahol ez lehetséges), vagy rosszabb esetben GPRS-re. Tapasztalataink szerint a router HSDPA üzemmódban sem hozta azt a sebességérzetet, amit egy átlagos sávszélességû (4 megabit/másodperces) xDSL link nyújtani képes, EDGE üzemmódban leginkább az analóg modemes idõk derengtek fel, GPRS kapcsolatnál pedig visszasírtuk a régóta a padláson porosodó 14 000 bps-es analóg modemet.
+
+
+A router természetesen minden olyan alapfunkcióval el lett látva, amivel vezetékes WAN-hálózatra fejlesztett társait is felruházták, így DHCP-kiszolgálóként is mûködik, kínál virtuális szerver funkciót, a biztonsági beállítások közt pedig van egyszerû tûzfaltól kezdve (DMZ-lehetõséggel), WLAN és LAN MAC-szûrõ és LAN IP-szûrõ. A Web'n'walk Box IV UPnP-kompatibilis, így a médiafájlok hálózaton keresztüli megosztása is egyszerûen megoldható rajta keresztül -- mi egy konzolt hoztunk össze egy Windows Vista-alapú PC-vel minden probléma nélkül.
+
+Ha ezt látjuk, minden rendben van
+
+A T-Mobile HSDPA-s routere jó vételi viszonyok közepette alapvetõen zökkenõmentes és viszonylag gyors internetkapcsolatot biztosít a vezetékes és vezeték nélküli kapcsolattal csatlakozó kliensek számára. Méréseink szerint a készülékbe épített modem hozza azokat a sebességmaximumokat, amire a hálózat a jelenlegi fejlettségi szinten képes, gond csak akkor van, ha valamiért ingadozni kezd a jelerõsség, illetve a bázisállomásokra csatlakozó eszközök száma megsokasodik. Ilyenkor a Web'n'walk Box IV füstölõset fékez, ami drámaian lassuló oldalbetöltést eredményez, az addig jól mûködõ VoIP-alkalmazások megakadnak, az online játék pedig timeout-tal kidob minket.
+
+A készülék alapvetõen egyszerûen használható, semmi olyan extra funkciót nem tud, ami említést érdemelne -- egy közönséges routerrõl van szó, melyet elláttak egy HSDPA-modemmel is. Ez az egészen újfajta felhasználása a mobilinternetnek véleményünk szerint egyelõre nem jelent komoly veszélyt a vezetékes szolgáltatásokra, a késleltetéskritikus, stabil kapcsolatot igénylõ alkalmazások számára alkalmasabb választás lehet bármilyen vezetékes technológia. Kétségtelen tény azonban, hogy ezek egyre életképesebb alternatíváját képes nyújtani a folyamatosan erõsödõ és bõvülõ rendszer.
+
+
+
+A router így leginkább olyan háztartásokba való, ahol nincs (vagy mert nincs rá igény, vagy mert nem elérhetõ) sem a kábeltévé, sem vezetékes telefon, illetve nem is tervezik a bekötését. Vásárlás elõtt itt kulcsszerephez jut a tájékozódás: a szerzõdés aláírása elõtt mindenképpen ki kell kérni az ügyfélszolgálat álláspontját, a szolgáltatónál ugyanis többnyire utca-házszám szinten meg tudják mondani, hogy milyen paraméterekkel tudnak mobilnetet szolgáltatni. Ha az adott területen biztosan van HSDPA elérés, akkor már csak abban kell reménykednünk, hogy nem követik sokan a példánkat, és nem használják velünk együtt mobilnet-eszközeiket, ezzel leterhelve a lakóhelyünkhöz közeli cellát, cellákat...
+
+Véleményed van?
+Szólj hozzá a fórumban
+írj szerkesztõségünknek!

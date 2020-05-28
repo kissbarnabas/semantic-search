@@ -1,0 +1,20 @@
+Vállalati keresõvel egészíti ki a SharePointot a Microsoft
+
+A Microsoft 1,2 milliárd dollárért megvásárolja a norvég Fast Search & Transfer ASA vállalatot, amely a vállalati hálózatokon keresõ szoftvereket fejleszt. Az akvirált cég legnagyobb részvényesei már áldásukat adták az ügyletre, amely a második negyedévben zárulhat le, amennyiben a hatóságok is jóváhagyják.
+
+
+
+A Micorosft az Enterprise Search élvonalába vágyik
+
+A Fast olyan szoftvereket készít, amelyek segítségével a vállalati hálózatokon lehet dokumentumok, levelek vagy más adatok után kutakodni. Piaci elemzõk szerint ez a terület nagy növekedés elõtt áll, ahogy a cégeknek egyre több és több adattal kell megbirkózniuk napi mûködésük során, ahogy saját maguk is egyre több adatot termelnek. "A vállalati keresés nélkülözhetetlen eszközzé válik a cégek számára mérettõl függetlenül, hogy segítsen a kritikus üzleti információk megtalálásában, felhasználásában és megosztásában" -- mondta Jeff Raikes, a Microsoft üzleti megoldásokért felelõs vezetõje.
+
+Az 1997-ben alapított Fast Search & Transfer 750 alkalmazottat foglalkoztat és világszerte mintegy 3500 ügyféllel rendelkezik. Az oslói központú vállalatnak összes 28 irodája és összesen négy fejlesztõközpontja van, a cég tavalyi bevétele az elõzetes becslések szerint 163 millió dollár. A Fast termékeit 80 nyelvre fordították le. A Microsoft célja az akvizícióval a csoportmunkát megkönnyítõ SharePoint képességeinek kiterjesztése, ami az utóbbi idõben az Office-eladások húzóerejévé vált. A redmondi cég a Fast termékeit és technológiáit a SharePoint termékvonalba integrálja majd.
+
+
+ "Ha [a felvásárlás] végbemegy, akkor egy olyan egyedülálló termék és technológiai palettánk lesz nagyvállalati keresés (Enterprise Search) területén, amely egyedülálló a piacon" -- mondta lapunk érdeklõdésére Pozsony Balázs, a Microsoft infomunkás üzletágának hazai vezetõje. "Jelenleg is több kisebb, de csúcstechnológiát kínáló cég van a piacon, akik erre szakosodtak, ugyanakkor a nagy gyártók az alapinfrastruktúra szintjén erõsebbek ezeknél, nem beszélve a piaci pozícióikról."
+
+"Ilyen alap-platform jelenleg a rendkívül népszerû Office SharePoint Serverbe épített keresõfunkció is. A kettõ kombinációjával pedig olyan megoldást tudunk majd kínálni ügyfeleinknek, amelynek segítségével jóval egyszerûbbé és hatékonyabbá válik a keresett információk megtalálása a nagyvállalati "tudásbázisban", legyen az a saját gépen, vállalati adattárházakban, portálokon tûzfalon belül vagy kívül, vagy mások által üzemeltetett weboldalakon az interneten" -- folytatta Pozsony, aki szerint a Microsoft a Fast akvizíciója után egyedüliként fedheti le a teljes portfoliót.
+
+A többiek se tétlenkednek
+
+A webkeresési piacot vezetõ Google-nak már régóta vannak olyan szoftverei, amelyek kimondottan a vállalati hálózatokon keresnek, sõt, a cég erre kifejlesztett berendezéseket is kínál a vállalatok számára. Az IBM a Yahooval mûködik együtt egy Omnifind nevû megoldáson. Elemzõk arra számítanak, hogy a legnagyobb vállalati szoftverszállítók (például az Oracle vagy az EMC) jelentõs befektetéseket eszközölnek majd ezen a területen.

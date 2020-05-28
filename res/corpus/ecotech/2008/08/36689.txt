@@ -1,0 +1,14 @@
+Pocsék negyedévet zárt az NVIDIA, hat év után elõször volt veszteséges a cég
+
+Hat év után elõször zárt veszteséges negyedévet az NVIDIA: a júliusban véget ért második pénzügyi negyedévben a vállalat egyes mobil GeForce lapkáinak hibájából adódó garanciális cserékkel kapcsolatos költségek húzták le az eredményeket, de a bevétel is csökkent 5 százalékkal. A részvények árfolyama mégis közel 10 százalékkal erõsödött, amikor a cég újabb egymilliárd dolláros sajátrészvény-visszavásárlási programot jelentett be.
+
+
+
+Az NVIDIA a második negyedévben 892,7 millió dolláros bevételt könyvelt el, ami 5 százalékkal kevesebb a tavalyi év azonos idõszakában elért 935,3 millió dollárnál és az elemzõi várakozásokat is alulmúlta. Az egy éve kitermelt 172,7 milliós nyereséget 120,9 milliós veszteség váltotta, elsõsorban a mobil GeForce-ok garanciális cseréjével kapcsolatos 196 millió dolláros egyszeri költség miatt. Amint arról beszámoltunk, az NVIDIA július elején beismerte, hogy G84 és G86 chipjei a tokozáshoz használt anyag hibája miatt a hõstressz miatt felmondhatják a szolgálatot. Az egyszeri tételek nélküli egy  részvényre 13 cent profit jutott, ami 2 centtel kevesebb az elemzõi konszenzusnál.
+
+Összességében tehát viszonylag gyenge negyedévet zárt az NVIDIA, amit Jen-Hsun Huang elnök-vezérigazgató is beismert, aki csalódásnak nevezte a cég teljesítményét. Huang magyarázata szerint a vártnál rosszabb eredmények oka a desktop PC-k piacának drámai lassulása, illetve az NVIDIA téves árkalkulációja. A vállalat június közepén dobta piacra új csúcskategóriás GeForce-ait, amelyeket pár héttel késõbb kénytelen volt leárazni, az AMD új Radeonjai felõl érkezõ nyomás hatására.
+
+
+ Az NVIDIA részvényárfolyama mégis közel 10 százalékot erõsödött, miután az NVIDIA bejelentette, hogy további egymilliárd dollárt fordít saját részvények visszavásárlására. A cég összesen 2,7 milliárd dollár értékben kívánja saját papírjait visszavásárolni, ez a mostani árfolyamon a közkézen levõ részvények 44 százalékát jelentené.
+
+Maga a videochip-piac egyébként kiváló egészségnek örvend, azonban ahogy a PC-szállítások eltolódnak a notebookok felé, az Intel befolyása az integrált grafikus chipjeinek köszönhetõen egyre növekszik. A Jon Peddie Research második negyedéves jelentése szerint az asztali gépekbe szánt grafikus chipek forgalma sorozatban három negyedév óta csökkent, de ezt ellensúlyozni tudták a mobil GPU-k, amelyek piaca 8,1 százalékkal bõvült. A mobil szegmensben az Intel az eladások több mint 57 százalékát tartotta kézben, az NVIDIA és az AMD rendre 23,6 százalékos és 17,9 százalékos piaci részesedést szerzett.

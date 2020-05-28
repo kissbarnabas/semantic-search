@@ -1,0 +1,14 @@
+Egyelõre nem hódít vissza felhasználókat az Internet Explorer 8
+
+Folytatódik az Internet Explorer webböngészõ piaci részesedésének lassú de biztos csökkenése, a trendet a jelek szerint az újabb verzió megjelenése sem tudta megfordítani. Az alternatív böngészõk közben egyre nagyobb teret nyernek, megállni látszik ugyanakkor az Apple Safarijának a szárnyalása -- derül ki a Net Applications márciusi felmérésébõl.
+
+
+
+A Net Applications több tízezer weboldalra kiterjedõ auditrendszere szerint a Microsoft böngészõje nagyjából 0,7 százalékpontnyi részesedést veszített az év harmadik hónapjában, így részesedése 66,8 százalékra csökkent. Ez mindenkori negatív rekordnak számít, és bár a csökkenés havi viszonylatban nem jelentõs, a böngészõ fokozatosan veszít befolyásából: 2005-ben még tízbõl kilenc számítógépen az Internet Explorert futtatták a felhasználók. A Microsoft webböngészõjének népszerûsége az elmúlt évben nyolc százalékpontot esett. Ha a a regresszió ilyen ütemben folytatódik, az Internet Explorer piaci részesedése 2010-re 60 százalék alá csökkenhet.
+
+
+A böngészõnek az új, 8-as verzió sem tudott piacot szerezni, igaz, csak március 19-én jelent meg, és még most sem érthetõ el a Windows Update frissítõszolgáltatáson keresztül. A Net Applications szerint az új verziót elsõsorban az Internet Explorerhez ragaszkodó, valamelyik korábbi változatot futtató felhasználók telepítették, az Internet Explorer 8 a statisztikák alapján nem hódított el piacot más böngészõk elõl.
+
+Az alternatív böngészõk közül márciusban a Firefox tudta a legnagyobb növekedést produkálni: a jelenleg 22 százalékos rekordon álló böngészõ 0,3 százalékponttal erõsödött, míg az Apple Safari és a Google böngészõje, a Chrome rendre 0,2 és 0,08 százalékponttal növelte felhasználói bázisát, jóllehet a Safari az összesített statisztikában visszaesett 8,2 százalékra. A Mozilla böngészõjét használók kísérletezõ kedvét jól jellemzi, hogy a Firefox 3.1 nemrég megjelent harmadik bétája máris 6 százaléknyi részt képvisel a böngészõ táborán belül.
+
+Az év során lényegében stagnált, így márciusban sem változott a norvég Opera Software Opera nevû webböngészõjének piaci pozíciója: a Net Applications szerint a program 0,7 százalékon áll változatlanul hónapok óta.

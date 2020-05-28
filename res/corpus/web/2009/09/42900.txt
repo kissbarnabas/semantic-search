@@ -1,0 +1,45 @@
+Ráncfelvarráson esik át a Prezi
+
+Eget rengetõ forradalomról nem lehet most beszámolni, az elmúlt hónapok munkaórái leginkább arra mentek el, hogy a webes felhasználói felületet és néhány jogosan felmerülõ igényt kielégítsen a cég az elkészült prezik bemutathatóságával kapcsolatban.
+Ruha teszi az embert
+Az elsõ ilyen lépés magának a publikus Prezi.com weboldalnak a felújítása. Apróságnak tûnik, de egy új szolgáltatással kapcsolatban nagyon fontosak a külsõségek, ezért a weboldal felújítása mondhatni kulcsfontosságú volt. Sõt, mivel a legtöbb ember elsõre nem feltétlenül érzi át, hogy mirõl is van szó, ezért a &#8222;bemutatóterem&#8221;, azaz a Showcase menüpont külön kiemelt szerepet kap. A korábbi ömlesztett felsorolás helyett továbbra is automatikus szelekció látható itt, de immár áttekinthetõ formában, s a válogatás alapja az adott prezik népszerûsége. A Google Analytics segítségével egy szkript minden héten végigpásztázza a prezik látogatottsági adatait, s amit sokan linkeltek, sokan tekintettek meg, azokat mutatja meg a többi érdeklõdõnek is. Emellett a fejlesztõk önmaguk is kiválasztanak példaértékû darabokat, melyek egy kiemeléssel és egy kis magyarázattal együtt látszanak.
+
+További újdonság, hogy a korábban sorrend alapján számozott prezik ezentúl egy véletlenszerûen generált alfanumerikus karaktersorból álló URL-t kapnak, így nem lehet majd feltétlenül következtetni a prezentáció elkészültének dátumára, illetve nem kell attól sem félni, hogy hamarosan végtelen hosszúságú számsorokból állnak majd a linkek. Ami viszont kellemetlen, hogy eddig elegendõ volt megjegyezni egy 4-5 jegyû számot, ezután pedig például egy ilyen karaktersorral kell megbirkózni, ha valaki fejben szeretné tárolni a hivatkozást: http://prezi.com/f_osxvdotzeo/.
+Végre beágyazható bárhová!
+A harmadik kiemelendõ újítás, ami talán mind közül a legfontosabb, az a beágyazhatóság. Korábban mi is írtunk arról, hogy egy apró trükkel iframe-ként bármely HTML-be beágyazhatóak voltak a Prezik, de már akkor is tudtuk, hogy ez csak egy átmeneti megoldás, s mostantól valódi beágyazókód áll a felhasználók rendelkezésére. Csakúgy, mint egy YouTube-klip esetén, az éppen megtekintett anyagban alatt ott rejtõzik az Embed menüpont, ahol a doboz méreteit megadva máris kimásolhatóvá válik a szükséges kódsor.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Az is beállítható, hogy a beágyazott anyagban szabadon lehessen navigálni, vagy csak a kijelölt útvonalon nézhessék végig az emberek a tartalmat. Ez igazán ötletes kiegészítés, így a Prezi egyszerûen használható bármilyen szemléltetésre, kiegészítésre, magyarázatra akár online újságokban is. Akinek pedig tetszett egy prezi, az a manapság megszokott módon oszthatja azt meg Twitteren, Facebookon vagy küldheti tovább e-mailben. Illetve akár egyszerûen kifejezheti az alkotónak tetszését egy &#8222;vállveregetõs&#8221; üzenetben.
+Jobban kezelhetõ védett anyagok
+A megosztás és a beágyazás természetesen csak a publikussá tett prezik esetében mûködik, hisz nem lenne szerencsés a titkos dokumentumokat engedni szétszéledni a világban. Viszont a védett anyagokat is szeretnék a cégek, felhasználók mutogatni a partnereknek, amire eddig nem volt lehetõség. A jövõben a nem publikus anyagok is kapnak egy hasonló nézetet, mint a Showcase-ben felbukkanó darabok. A védett prezik létrehozása ugyan csak a fizetõs ügyfelek privilégiuma, de õk két kattintással létrehozhatnak egy sima fehér hátterû,  Prezi-fejléc és Prezi-logó nélküli weboldalt, ahol csak a munkájuk gyümölcse látható. A link bármilyen módon továbbítható, viszont az oldal jelszóval védett lehet, így akár a nem fizetõs, vagy egyáltalán nem is regisztrált emberek is megtekinthetik.
+Azon felhasználók, akik nem csak nézõket, de társszerzõket is várnak, azok mostantól bármilyen e-mailcímre megoszthatják a szerkesztési jogokat, nem szükséges meglévõ Prezi-fiók hozzá. Ha valaki bele szeretne nyúlni egy prezibe, akkor pillanatok alatt saját maga regisztrál egy ingyenes fiókot, s máris alkothat úgy, hogy a prémium-elõfizetéssel járó attribútumok nem vesznek el a prezentációból. Így viszont eltûnik a csak megnézésre jogosító megosztás, hiszen azt helyettesíti a beágyazás, akivel megosztjuk a munkát, azok mostantól mindenképp szerkesztési jogot is kapnak.
+
+Amit viszont nem csak az ingyenes felhasználók vesznek majd észre, hogy változik a &#8222;My&#8221; oldal, azaz a saját prezik helye is. A fejlesztõk célja az volt, hogy az eddigi klasszikus menü helyett, egy munkafolyamat-alapú interfészt készítsenek, ahol a rendezõelv a munkafázisok logikus felosztása. A &#8222;Work&#8221; menüpontba a szerkesztés, a meghívás/megosztás, illetve alapvetõ adminisztrációs feladatok kerültek. A második helyre a &#8222;Show&#8221; a letöltés (offline használathoz), az elküldés (jelszavas egyedi URL) került, a harmadik pont pedig a &#8222;Publish&#8221;, ahonnan a beágyazás kezdeményezhetõ. Ez a felület jelenleg még nem élesedett, de a napokban ez is megtörténik. Aki nem bír addig várni, az a http://prezi.com/my2 oldalon már most is láthatja az új felületet.
+A szerkesztõ még marad a régi
+A szerkesztõben viszont alig változik valami, ezt a mostani frissítés gyakorlatilag nem is érinti. A közeljövõben ugyan van terítéken néhány apróbb pofozás, de egyelõre meg kell elégedni a meglévõ lehetõségekkel és a korábbi ígéretekkel. Az egyik fontos elõrelépés lehet a közeljövõben a sokat ígérgetett színséma-választó, amiben a felhasználók, akik bíznak saját ízlésükben, szabadon variálhatják a témák színeit, illetve betûtípusait. A cégek számára ez egy olcsó lehetõség lesz arra, hogy saját arculatukkal vonják be az elkészült prezentációkat, s ne kelljen igénybe venni a professzionális, de nagyon drága segítséget a Prezi.com-tól. Persze a felhasználók nagy része már annak is rettentõen örülne, ha a jelenlegi nyolc variáció mellett feltûnne néhány új téma.
+Emellett egy másik újdonság is közeledni látszik. Ha minden igaz, megjelenik majd egy API, mely a rutinosabb actionscript-programozóknak kedveskedik majd. Lehetséges lesz majd a prezihez widgetek formájában rich media tartalmakat hozzáadni az API-n keresztül, továbbá a programozó hozzáfér majd a Prezi motorjához is, tehát állítható lesz például a "kamera" pozíció, az útvonal beállítások is.
+
+További funkciók és újabb nagy tervek is szövõdnek a Prezi falain belül, de a fejlesztés menete annyira képlékeny, hogy ezekrõl a cég nem szívesen beszél nyilvánosan. Amennyiben viszont bármelyik megoldás célegyenesbe fordul, arról a HWSW olvasói elsõ kézbõl értesülhetnek majd.
+Cool meglepetések
+Farkas Szilveszter azt viszont elárulta, hogy a nemrégiben tartott TED elõadásra kifejlesztettek egy funkciót, ami kezel a Prezin belül Flash frame-eket, s ez elérhetõ lesz a felhasználóknak is. A frame-en belül meg lehet adni egy külön képet, ha az objektum inaktív és egy másikat, ha fókuszban van, de akár több stádium is készíthetõ, s ezeket külön fel lehet majd címkézni és hozzárendelni lépésekhez, eseményekhez. A TED-en látható Preziben ez úgy nézett ki, hogy a prezentáció során a háttérben lévõ térkép folyamatosan változott, ahogy a beszélõ haladt elõre mondandójával. Nem is feltétlenül kell hozzá tudni Flashben programozni, sõt már van is egy leírás ennek a funkciónak a kezelésérõl.
+
+Ha már szó esett a szerkesztõrõl, akkor meg kell említeni, hogy egyelõre az asztali, offline editor is marad a jelenlegi formájában, ami azért kellemetlen, mert nagy elemszámú prezik esetén még egy erõsebb gépen is nagyon szaggat, a reakcióidõ több másodpercre is nõhet, nem beszélve a fagyásokról. Errõl részben a Prezi-fejlesztõk tehetnek, az õ kódjuk sincs teljesen rendben még (lassulások), de mellette a hibák egy része egyszerûen az Adobe AIR-nek köszönhetõ (fagyások). Elméletben a programnak egy Core 2 Duo processzoros, néhány gigabájt memóriával rendelkezõ gépen szépen kellene futni, de a gyakorlatban véletlenszerû, fura dolgok bármikor, bármilyen géppel történhetnek.
+Elõre
+A külsõségek szempontjából tehát a Prezi szépen fejlõdik, a szomorú inkább az, hogy ugyanez egyelõre nem mondható el magáról a szerkesztõrõl. A Prezi indulása után túl sok energiát vont el a cégbõl az amerikai megkapaszkodás, a piacra lépés, illetve az apróbb, de égetõ feladatok elvégzése. Most viszont következhetnek a következõ lépések tartalmilag is. A Prezi stábját a jövõben  termékmenedzser koordinálja majd, akinek a feladata az igények szondázása mellett a fejlesztõi erõforrások helyes beosztása lesz majd.
+A Prezi stábjában e hét végén viszont egy másik személyi változás is lesz majd, s a sors fintora, hogy éppen a vezetõ fejlesztõ, interjúalanyunk, Farkas Szilveszter hagyja el a Prezit. A kezdetektõl ott dolgozó programozó nem elégedetlenség miatt áll tovább, hanem egy fiatalkori vágyát teljesítheti be egy másik cégnél, s azt mondta, hogy ha nem is tûnik érthetõ lépésnek, számára ez így helyes. Az eddigi munkája is tiszteletre méltó a startupon belül, s annyit elárulhatunk, hogy iparágat nem vált, egy másik alkalommal, egy másik sapkában akár ismét lehet a HWSW interjúalanya.	     
+                  
+                  
+                  
+                   

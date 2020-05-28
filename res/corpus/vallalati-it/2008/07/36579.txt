@@ -1,0 +1,12 @@
+Tesztelõk kerestetnek az Internet Explorer 8 második bétájához
+
+Kibõvítené az Internet Explorer böngészõ új, nyolcas változatának bétatesztelõi körét a Microsoft. Az IEBlog fejlesztõi blogon megjelent felhívás szerint eddig csak azok vehettek részt a tesztelésben, azok küldhették el közvetlenül visszajelzéseiket az IE fejlesztõi csapatnak, akik a Microsoft Connecten keresztül csatlakoztak az IE8 Technical Beta programhoz -- a szoftvercég a böngészõ második bétájának közelgõ megjelenésével azonban változtatni kíván ezen a gyakorlaton.
+
+
+
+Az IE8 Beta 2 a jövõ hónapban, elõször angol nyelven lesz elérhetõ, de egy hónapon belül 20 különféle nyelven kiadják, hogy a lehetõ legszélesebb közönség tudja használni, és a beérkezõ visszajelzések alapján a Microsoft elvégezhesse az utolsó simításokat a végleges verzió õszre ígért megjelenéséig. Chris Wilson, az Internet Explorer platformmérnöke még az elsõ bétaváltozat megjelenése kapcsán elmondta, hogy a következõ generációs böngészõ fejlesztésekor kiemelt figyelmet fordítanak a még nagyobb biztonságra, a könnyebb használhatóságra és a szabványoknak való megfelelésre. A böngészõ két módban képes megjeleníteni a weboldalakat, "szabványos", és "IE7 emulációs" módon.
+
+Az IE8 második bétájának megjelenési idõpontját június elején pontosította Bill Gates, aki az akkori Tech-Ed konferencián nem sokat beszélt az új böngészõrõl, annak csupán két képességet mutatta be. Az egyik (Activities) lehetõséget ad arra, hogy a felhasználó az adott weboldalon található információkat közvetlenül egy másik oldal inputjaként használja, például egy bolt címét automatikusan, egyetlen kattintással bedobhatja a Live Mapsbe, egy termék nevét az eBay keresõjébe, egy ismeretlen szót a Wikipediaba vagy szótárba. A másik, Gates által említett szolgáltatás (Web Slices) az Apple Safari Web Cliphez hasonlóan képes a weboldalak egyes részeibõl widgeteket létrehozni, amelyeket a felhasználó úgy is megnézhet, hogy közben magát az oldalt nem látogatja meg.
+
+
+A Microsoft most minél több bétatesztelõ bevonásával igyekszik stabilabbá, biztonságosabbá és összességében használhatóbbá tenni az új böngészõ végleges változatát, a második béta ennek érdekében több tesztelõnek adja meg a lehetõséget a közvetlen visszacsatolásra. Aki érez magában affinitást a feladatra, az most egy az IESO@microsoft.com e-mail címre küldött motivációs levélben jelezheti részvételi szándékát a tesztprogramban.

@@ -1,0 +1,11 @@
+Intel GN40: HD-lejátszás csak Vistával
+
+Egy Intel Atom 280 processzorral és Intel GN40 grafikus vezérlõvel szerelt netbook már alkalmas az 1080p felbontású HD-videók lejátszására is, azonban csak Windows Vista vagy annál újabb operációs rendszerrel.
+
+
+
+A kínai HKEPC tesztelte az egyik elsõ, Atom N280-GN40 párossal szerelt netbookot, az optikai meghajtóval is felszerelt ASUS Eee PC 1004DN-t, amelyre a gyártó Windows XP-t telepített. Ez a Windows-változat azonban csak a DirectX Video Acceleration 1.0 verzióját támogatja, miközben a GN40 hardveres videogyorsítási képességeinek maradéktalan kihasználásához  elvárt a DirectX Video Acceleration 2.0 támogatása. Ilyenformán Windows XP alatt nem folyamatos a HD-videózás, de Vistával a kép megváltozik, ebben az esetben már flott a vetítés.
+
+
+
+Az ASUS Eee PC 1004DN mellett a Gigabyte Touch Note T1028-ben is Intel GN40 grafikus vezérlõ van és a közeljövõben további netbookok várhatók ezzel a chipsetbe integrált grafikus vezérlõvel -- alighanem ezekre is Windows XP Home Edition kerül majd, mivel a Microsoft kínálatában ez a legolcsóbb Windows, ráadásul kevéssé hardverigényes mint a Vista és a vásárlók is ismerik, szeretik. Az Intel szerint a netbook gyártójának feladata eldönteni, hogy a termékét milyen operációs rendszerel szállítja.

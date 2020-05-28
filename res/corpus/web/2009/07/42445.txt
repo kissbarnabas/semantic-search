@@ -1,0 +1,12 @@
+Online igényelhetõ SSL-tanúsítvány a NetLocktól
+
+A  NetLock tapasztalatai szerint a cégek sok esetben semmilyen módszerrel  nem védik weboldalukat, ha pedig mégis, saját maguk részére bocsátanak  ki SSL-tanúsítványt, a "self-signed" tanúsítvány azonban biztonsági hibaüzenetekkel áraztja el az oldalra látogatókat, akiket ez valószínûleg el is riaszt vagy  valótlan adatokkal regisztrálnak és alapvetõen bizalmatlanul közelednek a  rendszerhez. A NetLock januárban végzett felmérése  aggasztó eredménnyel zárult, mivel a vizsgált magyarországi oldalak  közül alig több mint 500 rendelkezett megbízható  hitelesítés-szolgáltatótól származó SSL-tanúsítvánnyal.
+A webes tanúsítványkiadó rendszernek köszönhetõen a NetLocknál   nem kell napokat várni egy tanúsítvány kiadására, a folyamat mindössze pár percet vesz igénybe, a szolgáltatás ára pedig elektronikusan is kiegyenlíthetõ.  Már a legfrissebb  kriptográfiai ajánlásoknak, szabványoknak megfelelõ, SHA-256 típusú lenyomatképzõ algoritmust alkalmazó SSL- tanúsítványok is igényelhetõk a NetLocknál, ezek a tanúsítványok a korábbiaknál még erõsebbek, az általuk képzett lenyomatokat próbálkozással lényegében lehetetlen visszafejteni.
+
+A személyes megjelenést nem kívánó tanúsítványkibocsátás eddig is létezett a NetLock kínálatában, az eljárás  teljes automatizálása, az elektronikus úton történõ díjkiegyenlítés, valamint a hiteles elektronikus számla kibocsátásának lehetõsége azonban  nagymértékben növelheti az SSL tanúsítványok iránti érdeklõdést --  mondta Espán Zsolt, a projekt vezetõje.
+Az automata tanúsítványt akkor tud kibocsátani a NetLock, ha az a domain, amelyre tanúsítványt igénylik,  szerepel a domainnyilvántartásban és elérhetõ a WHOIS-rekordja. Második feltétel, hogy a felhasználó rendelkezzen  hozzáféréssel a WHOIS-rekordban szereplõ e-mail  címhez, a harmadik feltétel pedig, hogy képes legyen hozzáférni ahhoz  a szerverhez, amelyen a domain elérhetõ. Ha ezek a feltételek  teljesülnek, akkor a tanúsítványt 5-10 percen belül kibocsátja a cég.  Nincs szükség egy darab papír  kinyomtatására sem, mivel mind a megrendelési folyamat, mind a  tanúsítvány, mind a számla elektronikus formában jut el az  ügyfélhez.
+Az  új szolgáltatás elindításától a NetLock éves szinten több százezer  forintos megtakarítást és közel 30 millió forintos bevételnövekedést  vár.	     
+                  
+                  
+                  
+                   

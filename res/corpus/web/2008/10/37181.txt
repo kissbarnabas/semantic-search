@@ -1,0 +1,14 @@
+Itt a Firefox 3.1 elsõ bétaváltozata
+
+Az elõzetes híreknek megfelelõen -- az eredeti tervhez képest némi csúszással ugyan -- a fejlesztõk tegnap elérhetõvé tették a Firefox webböngészõ új, 3.1-es változatának elsõ publikus bétáját. A programba egyelõre nem került bele minden olyan újítás, ami a végleges verzióban megtalálható lesz, de némi trükközés után legalább már kipróbálható az új JavaScript-interpreter, a TraceMonkey.
+
+
+
+A Mozilla tegnap elérhetõvé tette a Firefox webböngészõ soron következõ, 3.1-es fõverziójának elsõ bétáját Windows, Linux és Mac platformokra. Az új verzióval már kipróbálható a várva-várt, elõdjénél lényegesen gyorsabb JavaScript-motor, a TraceMonkey, igaz, a telepítés után alapbeállításként még a régi, a Firefox kurrens változataiban is megtalálható kódot futtatja a böngészõ. A TaceMonkey bekapcsoláshoz be kell lépni a böngészõ konfigurációs felületére (about:config), és a "javascript.options.jit.content" változót engedélyezni kell.
+
+A Firefox 3.1 elsõ bétájába ugyanakkor nem került bele a sokszor egyszerûen "pornómódként" emlegetett Private browsing, melyet bekapcsolva a böngészõ nem tárol semmilyen információt, amibõl a PC-n kideríthetõ lenne, hogy a felhasználó merre járt, milyen weboldalakat látogatott meg, mit töltött le. A böngészõ bezárásakor törlõdnek a sütik, az elõzmények közé sem kerül be semmi, a begépelt jelszavakat sem tárolja el a szoftver, és a mentett állományok is eltûnnek a letöltések listájából. Hasonló funkció került Incognito néven a Google nemrég kiadott bétaállapotú böngészõjébe, a Chrome-ba.
+
+
+Már az elsõ bétaváltozatban is elérhetõ, látható új funkció a böngészõfülek látványosabb váltása is, így a CTRL+Tab billentyûzetkombináció lenyomására a Firefox nemcsak simán átvált a másik fülre, de egy grafikus overlay-en keresztül meg is jeleníti a fülek tartalmát. Továbbfejlõdött a Smart Location Bar, melynél mostantól speciális karakterek is felhasználhatók a keresés során, illetve bekerült az alapértelmezésként telepített beépülõmodulok közé az internetes helymeghatározáson alapuló Geode plugin is.
+
+A Firefox 3.1 második bétája a felhasználói visszajelzések számától és kiértékelésétõl függõen várhatóan november végén, december elején készülhet el. Az eredeti tervek szerint a Firefox 3.1 2008 végén vagy 2009 elején fog megjelenni, de a több hetes csúszás és a korábbi tapasztalatok alapján egyre biztosabbnak látszik, hogy csak 2009-ben készül el.

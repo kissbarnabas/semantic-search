@@ -1,0 +1,26 @@
+Az IBM is magas k-együtthatójú dielektrikumot és fém kapuoxidot vezet be
+
+Az IBM vezette (egyik) félvezetõipari technológiai szövetség, amelynek tagja a Chartered Semiconductor, a Freescale, az Infineon, a Samsung, az STMicroelectronics és Toshiba, magas k együtthatójú dielektrikumot és fémbõl készült kapuelektródát alkalmaz majd a 32 nanométeres gyártástechológiájában, melyet alacsony feszültségû áramkörök gyártására optimalizáltak.
+
+
+
+A szivárgás probléma
+
+Az újítások segítségével tovább növelhetõ a chipeket felépítõ tranzisztorok teljesítménye, miközben csökkenhet a szivárgási áram, amely ma a félvezetõipar egyik legnagyobb, egyre növekvõ problémája. A szivárgás a félvezetõk lezárt átmenetén létrejövõ jelenség, amely szabad elektronok és lyukak kombinációjából származik és nanoamper nagyságrendû. A processzorok fogyasztása a mûködési feszültség csökkentésével mérsékelhetõ, azonban ahogy a tranzisztorok nyitófeszültsége (az a feszültségszint, amikor a tranzisztor "bekapcsol") tart a 0 Volthoz, a szivárgási áram nõ -- egyre könnyebben szabadulnak el az elektronok.
+
+
+ Az áramkör bonyolultságával, a tranzisztorszám növekedésével arányosan növekedõ szivárgás egy modern processzor esetén akár a teljes fogyasztás negyedét-hatodát is adhatja -- sõt a Power6 esetében a 40 százalékot is. A modern félvezetõgyártási technológiákban a miniatürizáció ma már olyan szintre jutott, hogy a tranzisztorok hagyományosan szilícium-dioxidból készített szigetelõrétege csupán pár atom vékonyságúra zsugorodott, elérve a fizikai korlátait -- ennél vékonyabb réteg gyakorlatilag már nem szigetelne, hanem vezetné az áramot.
+
+A k-együttható egy anyag relatív permittivitását, vagy másképp dielektromos állandóját mutatja meg, amely az elektromos térben bekövetkez&#245; polarizáció (töltésszétválás) mértéke. Azokat az anyagokat nevezik nagy k-együtthatójúnak, amelyek a szilícium-dioxidnál magasabb, azaz 3,9-nél több a k-együtthatója. A dielektrikumok esetében kezdetben a minél alacsonyabb k-együttható elérése volt a cél, vagyis hogy minél jobb szigetelõket találjanak, ahogyan a kisebb geometriájú gyártástechnológiák bevezetésével vékonyodott a kapuszigetelõ réteg.
+
+
+
+Alacsony helyett magas k-együttható
+
+A struktúrák vékonyodásával fellépõ szivárgási áram azonban egy miniatürizációs szint után elviselhetetlenné válna (az Intel 65 nanométeres csíkszélességû eljárásán szigetelõ kapuoxid már csak 1,2 nanométer, néhány atomi réteg vékony), ezért a vállalatok, az Intellel az élen, megváltoztatták stratégiájukat a késõbbi technológiáknál: kevésbé jó szigetelõanyagokat alkalmaznak nagyobb vastagságban, amivel megõrizhetõ a tranzisztor teljesítménye, miközben a kapuszivárgási áram nagy részét sikerrel lehet elfojtani a vastagabb anyaggal. Az Intel szerint a magas k-együtthatójú szigetelõ anyagok és fémalapú vezetõk bevezetésével hosszú távon is megoldódott a szivárgási áram problematikája, vagyis ez már nem jelenti gátját a további fejlesztéseknek.
+
+Az IBM által vezetett szövetség most az Intelhez hasonlóan egy nagy k-együtthatójú anyaggal helyettesítette a szilícium-dioxidot, de hogy pontosan mivel, azt nem árulták el -- a korábbi hírek alapján az Intelhez hasonlóan õk is egy hafnium-alapú anyagot alkalmaznak. Az új eljárásnak köszönhetõen nagyobb teljesítményû lapkák építhetõk, mégis alacsonyabb lehet a fogyasztásuk. A félvezetõipari szövetség tagjai által elvégzett tesztek alapján a 32 nanométeres chipek akár 35 százalékkal gyorsabbak lehetnek a 45 nanométeres generációnál, miközben a feszültségtõl függõen a fogyasztás akár 30-50 százalékkal is csökkenhet. Az IBM közleménye alapján az újításokat a 22 nanométeres gyártástechnológiában is alkalmazni lehet majd.
+
+Az Intel már használja
+
+Az Intel már a jelenlegi, 45 nanométeres chipgeneráció elõállításához is magas k-együtthatójú dielektrikumot és fémbõl készült kapuoxidot használ. Jelentõs eltérés az Intel és az IBM által vezetett technológiai szövetség által használt eljárás között, hogy az Intel nagyteljesítményû chipeket is képes így gyártani, míg az IBM által most újdonságként bejelentett technológia  csak a kimondottan alacsony feszültségû alkatrészekhez használható, amelyek jellemzõen kommunikációs lapkák, nem pedig komplex, nagyteljesítményû processzorok.

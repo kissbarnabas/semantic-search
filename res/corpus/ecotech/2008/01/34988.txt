@@ -1,0 +1,26 @@
+Kivonul az alaplapi chipsetek piacáról a VIA?
+
+[Digitimes/HWSW] Lassan kivonul a kereskedelmi chipsetek tervezésébõl a VIA Technologies állítja belsõs forrásokra hivatkozvaa kínai Apply Daily. A lap értesülései szerint a chipsetes részleget egyesítik a processzordivízióval, és a jövõben a saját platformok kiszolgálására koncentrál majd, miközben a harmadik fél számára kínált chipsetek forgalmazásával fokozatosan felhagy a jövõben.
+
+
+
+Szertefoszlott álmok
+
+A VIA Technologies az ezredfordulóra meghatározó szereplõvé nõtte ki magát a chipsetek piacán. A tajvani cég 2000 és 2001-ben a világszerte leszállított PC-lapkakészletek nagyjából harmadát jegyezte, miután az AMD Athlonok teret nyertek az Intel Pentium III és Pentium 4 kárára, valamint az Intel komoly problémákkal küzdött saját chipsetjeivel is a Rambus memóriatechnológiájának alkalmazása következtében. A tajvani cég rendkívüli ambíciókkal rendelkezett, és jelentõs szereplõvé akarta kinõni magát az x86-os processzorpiacon is, több milliárd dolláros globális nagyvállalattá válva. 
+
+Az azóta eltelt évek folyamán azonban a VIA piaci pozíciói lassan de biztosan megkoptak. A Pentium 4 és a hozzá tartozó chipsetek felfuttatását követõen az Intel erõre kapott, visszaszorítva az AMD-t, és a piacon kívül jogi úton szabadalmi úton is támadta a VIA-t, miközben az NVIDIA és ATI felõl is növekvõ nyomás támadt. Az Intel 2003-ban a Centrinóval megkezdte a platformosítást, vagyis a processzorok, chipsetek és más lapkák egybecsomagolását, amit erõteljes marketing kommunikációval támogatott meg.
+
+
+A VIA számára az AMD a K8 családdal megismételt elõretörése és az Intel 2004-2005-ben jelentkezõ chipsethiánya újabb átmeneti lökéseket adott, 2006-ban az AMD-ATI összeolvadás azonban egyértelmûen jelezte, hogy a domináns processzorgyártók platformosítása rohamos sebességgel zárja be a piaci lehetõségeket az ezt követõ idõszakban, miközben erõteljes versenyt támaszt a lendületesen feltörekvõ, komoly mérnöki erõforrásokat felvonultatni képes NVIDIA, mely az AMD-processzorokhoz szállított lapkakészletek terén tett szert fölényre. 
+
+Már az AMD-ATI ügylet materializálódása elõtt,  2006 végére a VIA részesedése már 15 százalék alá süllyedt. A helyzetet súlyosbította, hogy az Intel és az NVIDIA ennek hatására a korábbinál közelebbi viszonyt építettek ki, melynek részét képezi egy tavaly megköttetett keresztlicenc megállapodás is. Az NVIDIA ezzel gyakorlatilag az Intel "hivatalos" másodforrásává vált chipsetek terén, miközben a VIA-nak jogdíjat kell fizetnie, ha az Intel Pentium 4-gyel bevezetett buszrendszerét támogató északi hidat értékesít, ráadásul ez a megállapodás idén áprilisban lejár.
+
+Kétséges jövõ
+
+Ezek hatására a VIA chipsetekbõl származó forgalma néhány átmeneti kilengéstõl eltekintve tavaly mélyrepülésbe kezdett, az IDC adatai szerint 2007 közepén már csak a piac 12 százalékát tudhatta magáénak, azt is az alsókategóriás, vékony profitrátával bíró termékekkel -- mely szegmens funkcionalitásának többsége néhány éven belül integrációra kerülhet a processzorokra, ahogyan az északi híddal az AMD oldalán már megtörtént, az Intelnél pedig idén év végén fog a Nehalem megjelenésével. A milliárdos álmokkal szemben 2007 második felében mindössze 193,31 millió dollár árbevételt realizált a cég, ami 25 százalékkal alacsonyabb az egy évvel korábbinál, és a veszteség mértéke is növekedni látszik.
+
+Az AMD decemberi elemzõi konferenciáján bemutatott terméktervek alapján idén az összes PC-szegmensben, asztali és mobil gépek terén egyaránt bevezeti saját chipsetjeire épülõ platformjait. Ilyen körülmények között a VIA a hírek szerint úgy döntött, feladja az egyre nehezebb helyzetbe kerülõ kereskedelmi chipset piacot, és saját platformjára koncentrál. A vállalat várhatóan továbbra is forgalmazza termékeit, míg számottevõ kereslet mutatkozik rájuk, állítja a kínai lap.
+
+Kétséges azonban, hogy tud-e magának nyereséges rést ütni a VIA a piacon. Az évtizedes erõfeszítés és számos innovatív mini-PC platform kifejlesztése ellenére a VIA az x86-os processzorpiac kevesebb mint 0,5 százalékát tudhatta magáénak a Mercury Research adatai alapján az idei harmadik negyedév során, miközben az iSuppli szerint a teljes processzorpiac értékének mintegy 0,3 százalékát kaparintotta csak meg a cég. VIA processzorok fõként ultrakompakt vagy ultraolcsó gépekben találhatóak.
+
+A VIA jelenlegi legfejlettebb terméke az Esther kódnévre hallgató C7 család, mely 90 nanométeres eljáráson az IBM gyárában készül, miközben a riválisok már a 65 nanométeres technológiát is kezdik maguk mögött hagyni. A teljesítményben és energiahatékonyságban versenyképes x86-os processzorok tervezéséhez szükséges hatalmas mérnöki és pénzügyi erõforrások láthatóan nem állnak a cég rendelkezésére, így a cég várhatóan továbbra is különféle piaci réseket igyekszik magának keresni vagy építeni. A vállalat többek között jelen van a kommunikációs és beágyazott videochipek terén is.

@@ -1,0 +1,14 @@
+Készül a GPS vevõvel kiegészített SIM-kártya
+
+A BlueSky és a Sagem Orga olyan SIM-kártya fejlesztését jelentette be, mely nem csak a GPS-vevõegységet tartalmazza, hanem a vételhez szükséges antennát is.
+
+
+
+A Sagem Orga és a 2005-ben alapított, luxemburgi BlueSky stratégiai együttmûködése olyan SIM-kártyát eredményezhet, melyben egy komplett GPS-vevõegység, valamint annak antennája is megtalálható. Ez a megoldás a szolgáltatóknak is kedvezhet, akik a helymeghatározással kapcsolatos kisalkalmazásokat tartalmazó, navigációra is alkalmas kártyát akciózhatják majd az új belépõknek. A különleges SIM olcsóbb telefonokat is felvértezhet a helymeghatározás képességével.
+
+
+
+A SIM-kártya A-GPS technológiát használ, ami egyrészt a mobiltoronyok távolságából képes a helyzetet megbecsülni, másrészt egy szerverrõl letölti a mûholdak adatait, ezzel rövidítve a hidegindulást. Azt, hogy a mobiltelefonokban milyen szoftveres változtatásokra van szükség ahhoz, hogy az új SIM helymeghatározó képessége is hasznosítható legyen, még nem ismert, de számos, jelenleg is elérhetõ alkalmazás létezik már ma is amelyek a SIM-kártyákról töltõdnek be.
+
+
+A BlueSky Positioning vállalatot 2005-ben alapították, székhelye Luxemburgban van. A BlueSky a SIM-kártya alapú helymeghatározó eszközök és az ezekhez kapcsolódó szolgáltatások fejlesztésére szakosodott. A SIM-kártyából egyenesen következik, hogy a helymeghatározó hardverekkel és szolgáltatásokkal megcélzott terület a GSM és a 3G mobiltelefonoké.

@@ -1,0 +1,14 @@
+Wi-Fi és torrent-kliens a külsõ merevlemezházban
+
+A WiDrive elsõ ránézésre egy stílusos külsõ merevlemez, a beltér azonban vezeték-nélküli hálózati csatolót, illetve torrent-klienst és webszervert futtatni képes hardvert rejt, természetesen a noteszgép-merevlemez mellett.
+
+
+
+A CES-en bemutatott WiDrive külsõ tárolók üde színfoltként emelkedtek az egyszerû, de ennek ellenére feladatukat megfelelõen ellátni képes termékek fölé. A kisebb, 1,8 hüvelykes merevlemezt alkalmazó PX218 és a nagyobb házba zárt, 2,5 hüvelkessel szerelhetõ DX225 egyaránt tartalmaz 54 megabit/másodperc sebességû vezeték nélküli hálózati csatolót, amelynek segítségével megvalósítható a kábelmentes rendszerbe illesztés.
+
+A külsõ antennát nélkülözõ egységek uPnP, BonJour, RSS, Podcasting, PTP/ip, HTTP/ip, DHCP protokollok ismerete mellett személyes webszerverként, illetve bit-torrent kliensként is képesek mûködni. a 2,5 hüvelykes verzió 117x78x22 milliméteres és 390 gramm, a kisebbik pedig 113x78x23 milliméteres és 210 gramm tömegû. Utóbbiba nem a széles körben elterjedt 1,8 hüvelykes merevlemez kerülhet beépítésre, hanem a ritkább változat, amelynek magassága és szélessége megegyezik a 2,5 hüvelykes verziókkal, azonban hossza ezeknek csak a fele.
+
+
+
+
+Az egységekbe kétórányi mûködéshez elegendõ (folyamatos hozzáférés esetén) üzemidõt szolgáltató Lithium-Polimer akkumulátort is beépítettek a tervezõk. A készülékek USB kapuval is el lettek látva, amellyel adatcserét nem, de a telepek töltését el lehet végezni. A termékek ez év júniusában jelenhetnek meg az európai piacokon 95 dolláros áron.

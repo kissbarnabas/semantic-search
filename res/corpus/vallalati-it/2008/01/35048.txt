@@ -1,0 +1,24 @@
+IBM: az Itaniumnak öt éve van, az UltraSPARC-ot már csak gépek tartják életben
+
+[The Register/HWSW] Az IBM egyik alelnöke öt évet adott az Itanium processzorcsaládnak, mielõtt az Intel befejezi forgalmazását. A vezetõ szerint a Sun Microsystems processzorfejlesztése is az utolsókat rúgja. Ezt nem az elsõ alkalom, hogy a Kék Óriás egy magas beosztású képviselõje bizonytalanságot akar kelteni, hasonló eset két évvel ezelõtt is elõfordult, akkor csak a Sun volt terítéken.
+
+
+
+Fudmachine
+
+"Az Itanium életének vége a következõ öt évben fog bekövetkezni" -- mondta el a The Registernek Scott Handy, az IBM alelnöke. Hozzátette, hogy a HP-nak újabb migrációt kell majd bejelentenie. Véleménye szerint nincs elég üzlet benne, hogy gazdaságos legyen az Itanium vonal fenntartása. "További területeket kell találni annak a chipnek, vagy egy másik chipet találni", vagy süllyesztõbe kerül -- mondta Handy, aki szerint a Power mögött megfelelõ méretgazdaságosság van, kezdve a Power-alapú szerverektõl a PowerPC-architektúrára építõ konzolprocesszorokon át a beágyazott chipekig.
+
+Handy a Sun UltraSPARC családdal sem finomkodott. Állítása szerint a Sun árat emel meglévõ ügyfélbázisán, hogy ellensúlyozza az elvesztett volument a belépõ kategóriában, melyet az x86-os szerverek, az utóbbi idõben fõként sajátjai okoznak. Emiatt Handy úgy godolja, hogy az UltraSPARC az Itaniumhoz hasonlóan bizonytalan jövõvel bír. "A Rock a végsõ erõfeszítésük, és nem számít, mekkora a volumenük, már túlságosan alacsony, hogy a Rockot követõ chipet megengedhessék maguknak." Handy szerint az IBM folyamatosan részesedést fog elvenni a HP-tõl és a Suntól, és stagnáló piacon is egészséges profitrátát tud majd felmutatni a UNIX-üzletbõl.
+
+Nem alaptalanul
+
+Bár Handy nyilvánvalóan nem pártatlan, és szándékosan bizonytalanságot akar kelteni a HP és Sun ügyfelei körében, való igaz, hogy az IBM processzorfejlesztés terén állva hagyta riválisait az elmúlt években, már ami a közép- és felsõkategóriás gépeket illeti. A Sun két, köztük az UltraSPARC V-nek szánt Millennium kódnevû projekt törlésére kényszerült, majd gõzerõvel látott neki a Rock projekt megerõsítésének. Ennek eredményeként egy tátongó lyuk keletkezett a terméktervekben, a Sun szerverei így komoly hátrányba kerültek. Ennek áthidalására a Sun beemelte kínálatába a Fujitsu által fejlesztett szervereket. Handy ugyanakkor hallgatott a Sun Niagaráról, mely agresszívan igyekszik az alsó-középkategóriás web-, adatbázis vagy akár alkalmazásszerverek terén felvenni a harcot az x86-os dobozokkal.
+
+
+A másik ütlegelt processzorcsalád, az Itanium szintén rászolgált a kritikákra. Az Intel a HP-vel a '90-es évek közepén közösen gründolt projektje a Merceddel véghezvitt katasztrofális csúszásokat és gyenge mikroarchitekturális implementációt követõen ugyan lendületet nyert, ugyanakkor a Montecito kapcsán felmerült, máig tisztázatlan problémák újabb csapást mértek a termékterv versenyképességére. A Montecito közel 1 évet késett, megcsúsztatva az utódok fejlesztési tervét is. A csúszás leginkább a HP-n kívüli többi, sokkal kisebb partnert érintette érzékenyen.
+
+Eközben az IBM magabiztosan õrizte teljesítményfölényét a rendkívüli sávszélességeket biztosító infrastruktúrán dolgozó Power5 processzorral, majd ezt fejelte meg a Power6-tal, mely extrém órajelével radikálisan eltér a többi gyártó, párhuzamosságot elõtérbe helyezõ irányvonalától. Az IBM jelenlegi fölénye ellenére ugyanakkor nem szabad leírni a 2009-ben megjelenõ, masszívan párhuzamos Rockot, és a 2008 legvégén, vagy 2009 elsõ felében debütáló, új infrastruktúrát kapó négymagos Tukwilát. A UNIX-világában 2009 mindenesetre kivételesen izgalmasnak ígérkezik.
+
+UNIX
+
+A Gartner adatai szerint a tavalyi harmadik negyedévben világszerte 103 ezer UNIX-szerver fogyott, ami éves szinten 6,4 százalékos visszasést jelent. A volumen alapján piacvezetõ, több mint 50 százalékos részesedésû Sun forgalma 12 százalékkal csökkent, mint ahogy a UNIX-piacon második IBM-é is esett, a harmadik HP ugyanakkor közel 30 százalékos növekedést ért el. Az IBM harmadik negyedéves pénzügyi jelentése szerint a Power processzorra épülõ System p rendszereibõl 6 százalékkal kevesebb bevételt realizált, a System i masinák forgalma pedig 21 százalékkal esett vissza éves szinten. A HP az augusztustól októberig tartó negyedik pénzügyi negyedévében 59 százalékkal növekedõ bevételt ért el Itanium-alapú gépek eladásából.

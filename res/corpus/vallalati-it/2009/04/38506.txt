@@ -1,0 +1,15 @@
+Jövõ héten vége a Windows XP és az Office 2003 fõ terméktámogatási ciklusának
+
+Még egy hétig vehetik igénybe a felhasználók a Microsoft Office 2003 úgynevezett "mainstream" terméktámogatási szolgáltatását, a cég április 14-tõl már csak kiterjesztett (extended) támogatást nyújt a szoftverhez, azaz néhány, korábban ingyenes szolgáltatásért fizetni kell, valamint a nem kritikus hibák javítását, új funkciók integrálását gyakorlatilag megszünteti a cég. Jövõ keddtõl hasonlóképpen kiterjesztett terméktámogatási fázisba lép a Windows XP.
+
+
+
+A 2003 novemberében megjelent Office 2003 "mainstream" terméktámogatási ciklusa eredetileg 2008-ban, a termék megjelenésének ötödik évfordulóján ért volna véget, Redmondban azonban úgy döntöttek, további fél évre kiterjesztik a periódust. Az irodai programcsomaghoz egyébként meglehetõsen régen, 2007 novemberében jelent meg utoljára javítás, ekkor vált letölthetõvé a szoftver harmadik szervizcsomagja. A Microsoft ugyanakkor pont a múlt héten tett közzé egy figyelmeztetést weboldalán arról, hogy egy az Office 2003 prezentációkészítõjében felfedezett kritikus hibát több alkalommal is kihasználtak már hackerek -- a hibát javító patch megjelenési idejét egyelõre nem közölték.
+
+A Microsoft terméktámogatási politikája szerint a cég operációs rendszerei és más szoftverei, fejlesztõi rendszerei többnyire a megjelenésüktõl számított öt éven keresztül részesülnek "mainstream" támogatásban, amelybe a biztonsági és egyéb javítások kiadása és kérés esetén új funkciók fejlesztése mellett beletartozik az ingyenes és fizetõs telefonos és online támogatás is. Ezután az üzleti szoftvereknél és fejlesztõi eszközöknél életbe lép a kiterjesztett (extended) támogatás, amely gyakorlatilag a hibajavítások megjelentetését, valamint fizetõs terméktámogatást takar.
+
+
+ Április 14-ével nem csak az Office 2003, hanem a Microsoft eddigi legsikeresebbnek tekinthetõ operációs rendszere, a Windows XP is átlép a kiterjesztett terméktámogatási idõszakba. Bár a kiterjesztett idõszakban a legtöbb szoftver esetében csak az üzleti felhasználók számára érhetõ el a terméktámogatás, a Microsoft egy korábbi döntése alapján a Windows XP Home Edition és Media Center Edition is részesül kiterjesztett támogatásban.
+ 
+
+Az Office 2003 és a Windows XP kiterjesztett terméktámogatási idõszaka egyaránt 2014 április 8-án jár le, ezután semmilyen javítás nem jelenik már meg a programokhoz és semmilyen formában nem ad támogatást a cég az irodai csomaghoz és az operációs rendszerhez.

@@ -1,0 +1,16 @@
+Kis- és középvállalatoknak szánja CLARiiON AX4 tárolóját az EMC
+
+Kis- és középvállalatoknak szánt hálózati tárolóberendezéssel jelentkezett az EMC. Az iSCSI és Fibre Channel felületen csatlakoztatható, a márciusban esedékes szoftverfrissítéssel akár 60 terabájtig is bõvíthetõ CLARiiON AX4 a nagyvállalati vevõk körében rendkívül népszerû "igásló", az EMC CLARiiON CX3 architektúrájára épül.
+
+
+
+A CLARiiON AX4-gyel kapcsolatban az EMC elsõsorban a rugalmasságot és az egyszerû telepítést, konfigurálást emeli ki. A vállalat rendkívül büszke arra, hogy a lemezes tároló SAS és SATA diszkeket egyaránt támogat, elõbbiekkel nagyobb teljesítmény, utóbbiakkal pedig kedvezõbb ár-kapacitás arány érhetõ el. Az AX4-be összesen 60 merevlemezt lehet beépíteni, a maximális, 60 terabájtos kapacitást 60 darab 1 terabájtos SATA diszkkel lehet elérni -- a jelenlegi szoftverben még csak 750 gigabájtos lemezek támogatottak. Az EMC szerint az eszköz egyszerûen telepíthetõ, a konfigurációt még olyanok is el tudják végezni, akik nem kimondottan informatikai szakemberek.
+
+
+ Annak ellenére, hogy az AX4-et kis- és középvállalati felhasználásra szánja az EMC (természetesen itt amerikai léptékû kis- és középvállalata kell gondolni), a termék olyan funkciókkal rendelkezik, amelyek pár éve még csak a nagyvállalati megoldások kiváltságai voltak. Ezek közé tartozik a tükrözött cache, a beépített stand-by tápegység, a folyamatos konzisztencia-ellenõrzés, valamint a mûködés közben cserélhetõ alkatrészek.
+
+
+
+Az AX4 összesen 64 szervert képes kiszolgálni, a támogatott platformok között ott találjuk a Windowst, Linuxot, a különféle UNIX-változatokat, a Novell NetWare-t, valamint a VMware-t. A gépet úgy tervezték, hogy a lehetõ leginkább integrálódjon a VMware Infrastructure környezetekbe, ahol számos szolgáltatáshoz megosztott tárolókra van szükség. Az AX4 beépített eszközöket tartalmaz kötetek valós idejû megnöveléséhez, emellett tartalmazza az EMC Virtual LUN technológiát, amely a VMware Storage VMotionnel kiegészítve képes virtuális lemezképek leállítás nélkül átmozgatására. A rendelkezésre állási idõ maximalizálása érdekében az új CLARiiON az EMC összes replikációs technológiáját támogatja (MirrorView, SAN Copy, RepliStor, Replication Manager).
+
+A CLARiiON AX4-et az EMC alkalmazások széles köre alá ajánlja, beleértve például a Microsoft Exchange-et, különféle adatbázisokat vagy vállalatirányítási rendszereket, de akár fájlszervernek vagy adatmentésre is kiváló a cég szerint. A termék alapváltozatban már 9 ezer dollárért megkapható, természetesen a kapacitástól és a beszerelni kívánt meghajtóktól függõen az ár növekedik, akár 100 ezer dollár környékére. A CLARiiON AX4 a két cég között fennálló partneri együttmûködés alapján a Dell kínálatában is megtalálható, AX4-5 néven.

@@ -1,0 +1,14 @@
+Több notebook processzor fogy már, mint asztali - újra csúcson az Intel részesedése
+
+Történelmi mérföldkövet ért el a processzorpiac a harmadik negyedévben. Az iparág történetében most esett meg ugyanis elsõ alkalommal, hogy több mobilprocesszort szállítottak le a gyártók, mint asztalit, állítja a Mercury Research. Ennek eredményeként pedig az Intel növelni tudta piacrészesedését az AMD kárára, köszönhetõen erõteljes termékkínálatának.
+
+
+
+A kereslet notebookok felé történõ folyamatos eltolódása miatt a második negyedévet követõen az Intel ismét 80 százalék feletti részesedését ért el az x86-os processzorok piacán. A vállalat évek óta nem látott magasságba tört, a leszállított processzorok 81,2 százalékát adta, míg az AMD-nek 17,7 százalékkal kellett beérnie. Az elmúlt egy év vesztese egyértelmûen az AMD, részesedése 23 százalékról esett vissza, miközben a VIA-nak is sikerült 0,8 százalékról 1,1 százalékra növelnie szeletét,  vélhetõen a Nano chipek megkezdõdött szállításainak köszönhetõen. Az elõzõ negyedévhez képest 1,1 pontot vesztett az AMD.
+
+
+A teljes x86-os volumen 13,3 százalékkal 86 millió darab fölé növekedett, ezen belül pedig a notebookok jelentették a bõvülés motorját. Mobilprocesszorokból ugyanis a tavalyihoz képest 27 százalékkal többet, 38,4 milliót szívott fel a piac, így a negyedév végére már felülmúlta az asztali processzorok mennyiségét. Ezt a pontot korábban csak egy késõbbi idõpontra, legkorábban a negyedik negyedévre várták iparági megfigyelõk. A tavalyi harmadik negyedévben a mobilchipek még csak az asztali volumen 70 százalékát tették ki. 
+
+Ez pedig az Intelnek kedvez, a vállalat ugyanis a mobilchipek terén élvezi a legnagyobb elõnyt, mennyiségben és árazásban egyaránt. Az elmúlt egy évben az Intel ráadásául még jobban visszaszorította itt az AMD-t, köszönhetõen 45 nanométeres eljárással készülõ, rendkívül energiahatékony és gazdaságosan termelhetõ Penryn chipjeinek, majd a Centrino 2 és a netbookokba szánt Atom platform felfutásával. Az IDC adatai alapján a második negyedévben a mobilchipek 86,5 százaléka volt Intel, miközben ez az arány az asztali processzoroknál 73 százalékot tett ki. Az Intel árbevételének már 45 százalékát adják a notebookokba értékesített chipek.
+
+Bár a számok nem vetnek jó fényt az AMD-re, a cég a harmadik negyedévvel kapcsolatban kedvezõ fejleményekrõl, és notebookpiaci részesedésének növekedésérõl számolt be, amit leginkább az iskolakezdési szezonban felerõsödõ fogyasztói kereslet magyarázhat -- a notebookpiacon belül az AMD jelenléte itt a legerõsebb. Szintén pozitívum, hogy négymagos Opteronjainak köszönhetõen részesedést szerzett vissza a cég a Xeonokkal szemben is, és három héten belül megkezdi a 45 nanométeres Shanghai szállításait is, mellyel további területeket kíván elfoglalni a szerverpiacon. 

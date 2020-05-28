@@ -1,0 +1,12 @@
+Kritikus sebezhetõség a legújabb Firefoxban?
+
+Komoly biztonsági sérülékenységet fedezett fel a Firefox legújabb verziójába Aviva Raff izraeli biztonsági szakértõ. A résen keresztül jelszavak kerülhetnek illetéktelen kezekbe. 
+
+
+
+Raff szerint a Firefox 2.0.0.11 -- és korábbi 2.x változatok is -- hitelesítési rutinja kijátszható egy megfelelõen preparált weboldal segítségével, ami által a felhasználókat rá lehet venni hogy érzékeny felhasználói neveket és jelszavakat adjanak ki. Egy scripttel a támadók megváltoztathatják a dialógusablak szövegét, azt a látszatot keltve, hogy az egy másik weboldalhoz tartozik -- természetesen a beírt adatok a támadók saját szerverén kötnek ki.
+
+
+Raff a weboldalán egy videóban be is mutatja a sebezhetõség kihasználását, szerencsére azonban példakódot vagy más, potenciálisan ártalmas információt nem hozott nyilvánosságra, mindazonáltal azt javasolja a Firefox-felhasználóknak, hogy ne adjanak meg felhasználói nevet és jelszavat azokon az oldalakon, ahol a videóban is látható dialógusablak ugrik fel. A Mozilla biztonsági fõnöke, Window Snyder szerint vizsgálják Raff állítását.
+
+A Firefoxot tavaly december elején frissítették utoljára, ekkor jelent meg a 2.0.0.11 verzió, ami a 2.0.0.10 patch javítása volt. A 2.0.0.10-ben három biztonsági rést foltoztak be, de közben egy új keletkezett. Hasonló eset történt a 2.0.0.9-es patch esetén is, ami a 2.0.0.8-as biztonsági frissítésben maradt megjelenítési hibákat szüntette meg.

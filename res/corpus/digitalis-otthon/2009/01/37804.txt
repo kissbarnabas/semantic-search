@@ -1,0 +1,26 @@
+Megérkezett az NVIDIA überchipjének 55 nanométeres változata
+
+Hivatalosan is bejelentette GeForce GTX 200 sorozatának frissítését az NVIDIA. Az új chipek kisebb csíkszélességû eljáráson készülnek, az extra területet és a felszabadult energiakeretet a mérnökök az órajel növelésére fordították. Az eredmény: a világ legerõsebb grafikus chipje, és erre építve a világ legerõsebb grafikus kártyája.
+
+
+
+Kisebb, gyorsabb, takarékosabb -- de nem eléggé
+
+A GeForce GTX 285 néven piacra kerülõ chipet már a TSMC 55 nanométeres csíkszélességû félvezetõeljárásán készül, ami nagyjából 25 százalékkal kisebb területen képes kialakítani egy adott áramkört mint az elõzõ generációs, 65 nanométeres technológia. A miniatürizációra nagy szüksége is van az NVIDIA-nak, mert súlyos gazdaságossági hátrányba került az AMD rendkívül hatékony felépítésû ATI RV770 architektúrájával szemben. 
+
+Az NVIDIA ugyanakkor nem kizárólag a költségcsökkentés maximalizációjára összpontosított, némi tuningot is kapott a processzor. A chip órajele a korábbi 602 megahertzrõl 648-ra emelkedik, miközben a végrehajtóegységek száma változatlan maradt. A kisebb geometriájú, és fejlettebb gyártástechnológia miatt a magasabb órajel ellenére is több mint 20 százalékkal kisebb a chip fogyasztása a GTX 280-énál -- lényegében megegyezik a GTX 260-éval, miközben 25 százalékkal több nyers erõvel rendelkezik. 
+
+
+Az NVIDIA ezzel magáénak tudhatja a világ legerõsebb grafikus chipjéért kijáró vállveregetést, a legerõteljesebb PC-s videokártya címhez azonban nem volna elegendõ a kétchipes ATI Radeon HD 4870 X2 miatt. Az NVIDIA emiatt hasonló megoldásra kényszerült, ami a GTX 295 megszületését eredményezte. Valószínûleg a fogyasztás kordában tartása érdekében azonban itt 648 megahertz helyett mindössze 576 megahertzen ketyeg a két lapka. Mindez lehetõvé tette a cég számára, hogy visszavegye a trónt az AMD-tõl.
+
+Bár a teljesítménykorona mindig kedvezõ képet fest birtokosáról, a pénzügyi sikerhez édeskevés. Az NVIDIA számára az AMD ATI RV770 egyfajta rémálom, a chip ugyanis jóval hatékonyabb felépítésébõl fakadóan adott szilíciumterületbõl jóval több lóerõt produkál, így egy teljesítményszint eléréséhez értelemszerûen kisebb méretû lapka is elég. Miközben a szintén a TSMC 55 nanométeres eljárásán készülõ RV770 260 négyzetmilliméteres, addig a GTX 285 mérete a HWSW becslése szerint 430 négyzetmilliméter környékén alakulhat, azaz sokkal olcsóbb a gyártása. Az AMD chipjei ráadásul GDDR5 memóriát is használhatnak, melyek magasabb sávszélességet érnek el adatsínenként, így keskenyebb busszal, vagyis kevesebb huzalozással alakíthatóak ki a kártyák, így olcsóbbak.
+
+Drága maradt
+
+Az NVIDIA tavaly drasztikus árcsökkentésekre kényszerült, egyes információk szerint akár a veszteséges forgalmazást is felvállalva, annak érdekében, hogy féken tartsa riválisát. A GTX 285 bár olcsóbban elõállítható a GTX 280-nál, a kártyák a kompetitiív nyomás ellenére mégsem lesznek egyelõre olcsóbbak, ami azt jelzi, a cég a nyereségesség azonnali javítását célozta meg, nem pedig a piaci térnyerést. Pedig az itthon valamivel 100 ezer forint alól induló GTX 285 továbbra sem tûnik egy kiegyensúlyozott ár-teljesítmény mutatóval rendelkezõ terméknek, ugyanis a Radeon HD 4870 kártyákat akár 40-45 százalékkal olcsóbban is be lehet szerezni, míg az erõteljesebb kétchipes 4870 X2 modellek bekerülési küszöbe alig 10-20 százalékkal magasabb -- hogy melyik éri meg a leginkább, az igényeinktõl és természetesen a futtatott játékoktól függ.
+
+A piacot nem is ezzel a modellel, hanem a GTX 260-nal próbálja tartani az NVIDIA, melyet agresszívan a 4870 közelébe árazott (55-60 ezer forinttól), így lényegében továbbra is ez látszik a legjobb ár-teljesítményûnek. Persze ez csak a felsõ kategóriára igaz, a piac derekát adó középkategóriában ugyanis továbbra is a Radeon HD 4850 az egyeduralkodó: ha megelégszünk az 1920x1080-as felbontással, teljesen felesleges megfizetni a 4870 vagy a GTX 260 legalább 20 ezer forintos felárát, ugyanis az összes kurrens címet akadásmentesen játszhatjuk. Mindeközben az NVIDIA újra magáénak tudhatja a zsíros csúcskategóriát, teljesítményben és árban egyaránt. 
+
+Új mobilchipek
+
+Nem csak a teljesítményintenzív asztali bõvítõkártyák terén szolgáltak újdonsággal az elmúlt napok, a mobil grafikus chipek szegmense sem maradt érintetlen. Az AMD az ATI Mobility Radeon HD 4000-es sorozatot (4800, 4600, 4500, 4300) léptette a ringbe, míg az NVIDIA a GeForce 100M vonallal újított. Míg a Radeonok az integrált belépõkategória kivételével lényegében a teljes piacot lefedik, kiszolgálva a teljesítményéhes játékosokat is, addig az új mobil GeForce-ok a középkategóriára összpontosítanak. A GeForce GT 130M nagyjából a 9600M GT-vel teljesít egy szinten az NVIDIA szerint, míg a G110M a 9400M G-vel, a G105M pedig a 9300M GS-sel van egy kategóriában.

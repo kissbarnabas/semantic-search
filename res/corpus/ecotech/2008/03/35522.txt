@@ -1,0 +1,17 @@
+Rekord kereslet mutatkozik a videokártyák iránt, hengerel az NVIDIA
+
+[Jon Peddie Research/HWSW] Összességében erõs negyedik negyedévet zárt a videokártyák piaca, áll a Jon Peddie Research (JPR) legfrissebb jelentésében. A JPR adatai szerint az NVIDIA tovább növelte fölényét a bõvítõkártyák terén az AMD-vel szemben.
+
+
+
+Az eladott videokártyák száma 2007 második félévében meredek emelkedésnek indult. A JPR becslése alapján a negyedik negyedévben 31,7 millió grafikus bõvítõkártyát értékesítettek világszerte, ami másfélszerese az egy évvel korábbinak, de 23 százalékkal haladja meg a harmadik negyedévest. Ez az elsõ félévet jellemzõ stagnálást követõen drasztikus javulásnak tekinthetõ, 2007 során így összesen 99 millió dedikált asztali grafikus chip került a felhasználókhoz.
+
+A videokártyák globális piacának alakulása, millió darabForrás: Jon Peddie Research
+
+
+A piac értéke éves szinten több mint 2 milliárd dollárral, 46,3 százalékkal ugrott meg, és meghaladta a 6,5 milliárd dollárt. A harmadik negyedévhez viszonyítva azonban a gyártók némileg csalódottak lehetnek, jegyzi meg a JPR, ugyanis az átlagos eladási árak jelentõsen olvadtak, így a piac értéke 60 millió dollárral olvadt is a volumen emelkedése mellett. A JPR magyarázata szerint ezt az NVIDIA termékkínálatának változása és az azzal járó készletezési hatások magyarázzák részben, másrészt pedig az ünnepi vásárlási szezonban tipikusan felhíguló kereslet, mely az olcsóbb modellek iránt növeli elsõsorban a keresletet.
+
+
+Az NVIDIA az AMD-be olvadt ATI elmúlt évben mutatott gyengélkedését kihasználva rendkívül megerõsödött a grafikus chipek piacán, így részesedése a negyedik negyedévben 71 százalékot tett ki a bõvítõkártyák terén, becsli a JPR. A Forbes által az év vállalatának titulált chipfejlesztõ cég nemrég kezdte meg modellfrissítéseit a 9000-es családdal, melyek a TSMC 65 nanométeres eljárását alkalmazzák a korábbi 80 nanométerrel szemben, aminek köszönhetõen relatíve olcsóbbá válik a chipek termelése, és az NVIDIA a jelek szerint egyúttal drasztikusan megnöveli adott kategóriák teljesítményét.
+
+A Prohardver online PC-magazin tesztje szerint a  középkategóriás 9600 GT jellemzõen kétszeres teljesítményt kínál elõdjéhez, egy 8600 GTS-hez képest, de maga mögé utasítja a korábban felsõ-középkategóriás AMD Radeon 3870-et és 8800 GS-t is. Az AMD egyelõre kisebb csíkszélességû gyártástechnológia (55 nanométer vs. 65) alkalmazásával árazásban, valamint a felsõ kategóriában két chippel igyekszik tartani a frontot.

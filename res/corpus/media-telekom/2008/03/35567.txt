@@ -1,0 +1,24 @@
+A windowsos telefonokra is megérkezik az Adobe Flash Lite
+
+A Microsoft licenceli az Adobe Flash Lite technológiát, így az hamarosan része lehet a Windows Mobile operációs rendszernek és az Internet Explorer Mobile böngészõnek is. Ezzel a windowsos okostelefonok felhasználói számára egy nagyságrenddel javulhat a webböngészés élménye, ugyanis az asztali gépükhöz hasonlóan végre a mobiljukon is megjelenhetnek a Flash animációk, amelyek ma már szinte minden weboldalon megtalálhatók.
+
+
+
+Kényelmesebb böngészés
+
+Egyre több olyan mobil készülék (mobiltelefon, PDA, médialejátszó) van piacon, amely támogatja a Flash Lite-ot, az Adobe szerint több mint 500 millió eszköz képes rá, 2010-re pedig már 1,2 milliárd ilyen készülék lesz a felhasználóknál. A Flash Lite az Adobe Flash mobil eszközökre optimalizált változata, amely technológiailag néhány éves késéssel követi a Flasht, ahogy maguk az eszközök is le vannak maradva a PC-k mögött, teljesítmény vagy a kijelzõ felbontása területén.
+
+
+ A Flash Lite 2 az Adobe Flash 7-re épült, amely még nem támogatott például videókat, ezt a funkciót a Flash Lite 3-ban tette elõször elérhetõvé az Adobe. A Flash 8-ra épülõ Flash Lite 3 minden olyan videóformátumot támogat, amit az Adobe Flash, beleértve a streaming tartalmakat is, azonban ez a változat még csak a Nokia N95-ön érhetõ el. Az ingyenes Adobe Flex segítségével nem lehet kimondottan Flash Lite-ra fejleszteni, a Creative Suite 3 azonban már alkalmas erre.
+
+
+
+"A korábbi technológiák nem tudák megfelelõen átültetni az asztali [PC] élményt a mobil eszközökre" -- mondta Anup Murkaka, az Adobe mobil megoldásokért felelõs marketing-vezetõje. "A technológiának igazodnia kell a felhasználási modellhez, nem pedig felhasználóknak a technológiához." Derek Snyder, a Microsoft mobilkommunikációs üzletágának termékmenedzsere szerint az okostelefonok egyik legfontosabb funkciója a webböngészés, és ezen a téren nagy áttörést hoz a Windows Mobile platformra a Flash Lite támogatásának beépítése.
+
+2007-ben világszerte mintegy 11 millió windowsos telefont talált gazdára, a Microsoft célja, hogy az idén megduplázza ezt. A mobil operációs rendszerek piacán versenyzõ Windows Mobile számára jelentõs fegyvertény  a Flash Lite támogatás megérkezése, ugyanis az elsõ számú rivális Symbian OS-ben ez már egy ideje megtalálható volt, ami által az erre épülõ készülékek (például a Nokia okostelefonok) jobb böngészési élményt nyújtottak, mint a Windows Mobile-t futtató termékek.
+
+A redmondiak tavaly indították útjára az Adobe Flash ellenfelének szánt Silverlight technológiát, azonban ennek az év vége elõtt nem várható a mobil változata. Az elsõ technológiai elõzetes a második negyedévben várható, azonban ennél több információ egyelõre nem áll rendelkezésre, így az sem, hogy a végleges verzió pontosan mikor érkezhet. Az azonban szinte biztos, hogy a Silverlight nem kiszorítja, hanem kiegészíti a Flash Lite-ot a Windows Mobile-ban, hiszen a Flash platform lényegesen elterjedtebb, több fejlesztõ, nagyobb befektetések állnak mögötte.
+
+PDF-olvasó a mobil böngészõben
+
+A most megkötött, és pénzügyi részleteit illetõen bizalmas licencmegállapodás nem csak a Flash Lite-ra, hanem a Reader LE-re is kiterjed, vagyis hamarosan a Windows Mobile-t futtató eszközökön a böngészõben is megtekinthetõk lesznek a PDF állományok, nem kell azokat külön letölteni, és a PDF-olvasóval megnyitni.

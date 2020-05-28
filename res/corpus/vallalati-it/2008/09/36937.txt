@@ -1,0 +1,12 @@
+Hyper-V-re optimalizált SUSE Linux Enterprise Server a Novelltõl
+
+A Novell és a Microsoft együttmûködésének gyümölcseként megszületett a SUSE Linux Enterprise Server 10-nek egy új változata, amelyet kimondottan a Hyper-V virtualizációs köztesrétegen való futásra optimalizáltak. Az elõre konfigurált és tesztelt szoftvert mindkét cég teljeskörûen támogatja.
+
+
+
+A Microsoft és a Novell 2006 végén kötöttek egyezséget többek között közös fejlesztésekrõl a virtualizáció területén. Ennek keretében a két vállalat közös kutatás-fejlesztési központot hozott létre a Novell cambridge-i (Massachussetts, USA) fõhadiszállásán. A közös munka gyümölcseként most megérkezett a virtualizációra optimalizált SLES10, amelyet felkészítettek arra, hogy hypervisoron mûködjön, ennek érdekében a kernelt és egyes drivereket is úgy módosították, hogy a lehetõ legnagyobb teljesítményre legyen képes ilyen környezetben. 
+
+
+ Hargitai Zsolt, a Novell hazai leányvállalatának kereskedelemtámogatási vezetõje a HWSW-nek elmondta, a fejlesztésekbõl a virtuális gépen futó összes alkalmazás profitál, a legnagyobb hasznot azonban az I/O-intenzív szoftverek húzhatják, ugyanis a módosítások elsõsorban azt célozzák, hogy a virtuális gép közvetlenül kommunikáljon a hardverrel, ne pedig emulációs rétegeken keresztül. Ez persze biztonsági és stabilitási kockázatokat is hordoz. Hogy megéri-e, egyelõre nem tudni, ugyanis konkrét teljesítményadatokat, összehasonlításokat azonban a Novell ezidáig nem hozott nyilvánosságra.
+
+A Windows Vista és a Windows Server 2008 mellett a SLES10 az egyetlen operációs rendszer, amelyet felkészítettek arra, hogy a Microsoft hypervisorán optimalizáltan fusson. A nagy szervergyártók közül a Dell állt a kezdeményezés mellé, és vállalta, hogy saját PowerEdge szerverein teszteli és minõsíti a Microsoft és a Novell közös megoldását.

@@ -1,0 +1,12 @@
+Nem a Microsoft hibája a Windows XP SP3 folyamatos újraindulása
+
+Nemrég jelent meg a Windows XP harmadik, egyben utolsó szervizcsomagja, mely a legtöbbek számára semmiféle látható változást nem hoz magával -- leginkább a kód karbantartásának tekinthetõ. Nem így azonban néhány felhasználónál, akik az SP3 telepítését követõen végtelen újraindítási ciklusba keveredhetnek. A Microsoft dokumentációja alapján leginkább számítógépgyártók vagy rendszergazdák könnyen orvosolható hanyagságáról van szó, semmint komoly hibáról.
+
+
+
+Az SP3 telepítését követõen egyes felhasználók arról számoltak be, a számítógép bekapcsolását követõen a Windows nem áll fel, helyette végtelen újraindítási ciklusba kezd. A Microsoft viszonylag hamar izolálta az esetet, mely leginkább AMD-alapú gépekre jellemzõ: a probléma azokat a nem-Intel processzoros számítógépet érinti, melyek Windows XP rendszerképét egy Intel processzoros PC-n készítették el a Sysprep eszköz segítségével, majd ezt a képet felmásolták AMD, esetleg VIA vagy Transmeta chipekkel szerelt gépekre.
+
+A problémát az okozza, hogy az inteles gépen létrehozott rendszer regisztrációs adatbázis meghívja az Intel processzorokhoz tartozó drivert, az Intelppm.sys állományt, mely az olyan szolgáltatások vezérléséért felel, mint a SpeedStep dinamikus energiagazdálkodás. Más gyártó processzorával szerelt számítógépen ez a driver mûködésképtelen, és ez vezet végül az újraindítási procedúrához -- ezt idézi elõ az SP2 vagy az SP3 telepítése. A Microsoft évekkel ezelõtt, 2004 augusztusában dokumentálta már a jelenséget, és a Sysprep esetében is külön felhívta a figyelmet arra, hogy a forrásgéptõl különbözõ gyártó processzorával szerelt célgép hivatalosan nem támogatott forgatókönyv.
+
+
+A felelõsök tehát a rendszerkép gazdáinál keresendõek, melyek a számítógépet elõtelepített Windows XP-vel szállító cégek, vagy a rendszerképeket telepítõ és felügyelõ rendszergazdák. A Microsoft támogatási oldalán szereplõ útmutató alapján egyszerûen orvosolható a probléma: a Windowst Csökkentett módban (Safe Mode) kell indítani, mely nem próbálja meg betölteni a processzordrivert, majd a regedittel a HKEY_LOCAL_MACHINESYSTEMControlSet001ServicesIntelppm kulcs Start bejegyzését kell módosítani 4-es értékre.

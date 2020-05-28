@@ -1,0 +1,12 @@
+Virtuálizációs réteg böngészõknek az új ZoneAlarm internetbiztonsági csomagban
+
+Új, komplexebb internetbiztonsági csomaggal jelentkezett a ZoneAlarm szoftvereket jegyzõ Check Point. A ZoneAlarm Extreme Security a cég egy tavaly megjelent újdonságát, a ZoneAlarm ForceField nevû böngészõvirtualizációs technológiát integrálja a már meglévõ komponensek (antivírus, tûzfal, üzenetszûrõ stb.) mellé.
+
+
+
+A Force Field lényege, hogy egy virtuális felhasználót hoz létre az internetböngészõ számára, amelyet a böngészõ bezárásakor egybõl ki is töröl, így az esetlegesen átjutott támadások által végrehajtott módosítások is törlõdnek, mivel azok csak egy virtuális fájlrendszert érintenek. A Force Field mûködése hasonló a Vistán futó Internet Explorer 7-hez, amely szintén virtualizációs technológiát használ a támadások elhárítására. A Zone Labs azonban ennél jóval többet nyújt, ugyanis a böngészõt az operációs rendszer felõl is védi, így a már esetlege korábban feltelepült kártevõk (pl. keyloggerek) sem képesek megszerezni a felhasználó adatait.
+
+
+A komponens teljesen transzparens, a felhasználónak nem szükséges megváltoztatnia böngészési szokásait, ugyanúgy használhatja az Internet Explorert, Firefoxot, Operát vagy más browsert mint korábban. A Force Field "privát böngészõ" funkciója képes eltüntetni az összes nyomot a felhasználók után, mintha soha nem is használta volna a PC-t.
+
+A Check Point az Extreme Security mellett új verziót adott ki a ZoneAlarm Internet Security Suite, ZoneAlarm Pro és ZoneAlarm Antivirus biztonsági szoftverekbõl is. Az Extreme Security a Force Field mellett más újdonságokat is tartalmaz, így a csomag új része többek közt egy online adatmentõ-szolgáltatás, valamint egy a rendszer állapotát felmérõ és javítási tippeket adó diagnosztikai alkalmazás is. A biztonsági alkalmazáscsomag három kliensre érvényes licence 70 dollárba kerül.

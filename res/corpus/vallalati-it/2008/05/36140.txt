@@ -1,0 +1,16 @@
+Valójában két szerver a HP új blade szervere
+
+Új blade szervert és egy nagy blade keretet jelentette be a HP, amelyet elsõsorban számításintenzív alkalmazások futtatására szánt installációkhoz szán, de természetesen bárki profitálhat belõle, akinek fontos a lehetõ legnagyobb teljesítmény-sûrûség.
+
+
+
+a ProLiant BL2x220c G5 két független kiszolgálót tartalmaz egyetlen blade-en, amelynek köszönhetõen a versenytársaknál akár 60 százalékkal teljesítményt nyújt adott fogyasztásra vetítve. A ProLiant BL2x220c G5 lényegében két datab kétfoglalatos blade szerver akkora helyre összezsúfolva, hogy beférjen egy szerver helyére. Az új "dupla blade"-en az egyes szerverek a két négymagos Intel Xeon 5400-as sorozatú processzor mellett legfeljebb 16 gigabájt memóriát és egy 2,5" SATA diszket tartalmazhatnak. A gépeket kétmagos Xeonokkal is lehet rendelni.
+
+
+
+Az új blade szerverekkel együtt 10U magas blade keretbe összesen 16 blade építhetõ be, ami valójában 32 szervert  jelent. Egy szabványos, 42U magas rack szekrénybe összesen 4 illyen blade keret helyezhetõ el, amelyeket teljesen feltöltve eddig sosem látott teljesítménysûrûséget lehet elérni: 1024 processzormag dolozhat együtt, 12,3 teraflopsps elméleti maximális teljesítményt leadva -- pár évvel ezelõtt még a legsebesebb szuperszámítógépeket rangsoroló Top500-on is helye lett volna egy ilyen konfigurációnak.
+
+
+A cég szerint az új gépeket azok is hasznosíthatják, amelyek nagyobb "scale-out" konfigurciót terveznek építeni például sok párhuzamos felhasználót kiszolgáló internetes alkalmazásokhoz, ilyenek lehetnek például az internetszolgáltatók. A ProLiant BL2x220c G5 blade szerver ára 6500 dollártól indul, de teljes kiépítés esetén a 20 ezer dollárt közelíti.
+
+Almási Gábor, a HP Magyarország ipari szabványos szerverekért felelõs vezetõje a HWSW-nek elmondta, hogy már itthon is több érdeklõdõ van a nagy teljesítménysûrûségû új blade-ekre. "Szerencsére egyre nõ azon cégek és kutatóintézetek száma, melyek maguk építenek nagy számítási teljesítményû számítógéprendszert."

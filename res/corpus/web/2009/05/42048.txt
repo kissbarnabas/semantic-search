@@ -1,0 +1,21 @@
+Keblére öleli a jövevényeket a Gmail
+
+Sok ember csupán azért ragaszkodik egy korábban kreált postafiókjához, amiért a számhordozás bevezetése elõtt a telefon elõfizetéséhez vagy a szinkronizációt nem támogató készülékeknél a mobiltelefonhoz: nem szeretné veszni hagyni a meglévõ üzeneteket, kontaktlistát és egyéb tartalmakat. A webes emailszolgáltatások egyik nagy hátránya, hogy nehéz kinyerni belõlük a levelezést, s áttölteni máshová pedig szinte lehetetlen.
+
+A Google észlelte ezt az akadályt, és ahhoz, hogy a konkurensekhez ilyen okok miatt ragaszkodó ügyfeleket átcsábítsa, létre kellett hoznia egy könnyen használható megoldást a régi levelek és címlisták átmentésére. Aki úgy dönt, otthagyja régi levelezõjét és Gmailre vált, annak semmi mást nem kell tennie, mint létrehozni egy Gmail-fiókot, majd a beállítások között az "Accounts and Import" menüpontra kattintva, kiválasztani az "Import Account" lehetõséget. Hasonló funkcióra a Gmail rivális emailszolgáltatásai, a Hotmail és a Yahoo! Mail is képes.
+
+
+
+
+
+A folyamat egyszerû, és beállítható, hogy a kontaktlistákon túl az üzenetek is költözzenek-e át, illetve a migrált üzeneteket meg lehet jelölni egy külön címkével, ami akkor lehet hasznos, ha már egy létezõ és aktív fiókba történik az importálás. Mivel nem biztos, hogy mindenkihez azonnal eljut az értesítés az új címrõl, ezért arra is lehetõség van, hogy a következõ 30 napban automatikusan átkerüljenek a levelek az új fiókba, így nem kell újra és újra belépni ellenõrizni azt.
+
+
+
+A funkció elméletileg minden webmail esetén mûködik, mely támogatja a POP3-mat, de az internetszolgáltatói fiókokból is kimenthetõek az adatok. Elméletben tehát a magyar felhasználók is használhatják freemailes, citromailes, vagy bármilyen internetszolgáltatós fiók esetén. A funkció néhány nap múlva lesz mindenki számára elérhetõ, a frissítés telepítése egyelõre még folyamatban van a Google adatközpontjaiban, így a teszteléssel meg kell várni, amíg megjelenik a lehetõség élesben is.
+
+
+
+
+
+Az importálás mindenesetre kényelmes megoldást nyújt arra, hogy váltáskor ne kelljen elveszíteni a régi leveleket, az újakat pedig az alvó fiókból átirányítani az aktuálisra. A szolgáltatást mûködtetõ&nbsp; TrueSwitch kínálja a migrációt Hotmailre és Yahoo Mailre is. A tapasztalatok szerint a migrációval kevés probléma adódhat, viszont a levelek számától függõen az áttelepítés akár két teljes napig is tarthat.

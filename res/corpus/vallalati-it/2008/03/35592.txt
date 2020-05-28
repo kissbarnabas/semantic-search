@@ -1,0 +1,30 @@
+A Novell szerint a SUSE Linux Enterprise 11 lesz a legmegbízhatóbb operációs rendszer
+
+A Novell évente megrendezett BrainShare konferenciájának egyik fõ témája a SUSE Linux Enterprise 11 volt, amelyrõl most kezdte el az elsõ információkat csepegtetni a vállalat. A fõ fejlesztési csapásirányok: jobb megbízhatóság és rendelkezésre állás üzletkritikus környezetek számára, egyszerûbb migráció UNIX-ról, virtualizáció, Windows-kompatibilitás, és energiatakarékosság. A BrainShare 2008-on több mint 5500 szakember elõtt beszélt a Novell elõször az új Linux-disztribúciójáról.
+
+
+
+Nagyobb megbízhatóság
+
+A SLES 11 az ígéretek szerint automatikus öngyógyító képességeket vonultat fel, beleértve például a hardverhibák automatikus felismerését, vagy akár egycsomópontos fürtözést. Utóbbi elõnye egyébként pusztán az egyszerûbb felügyelet, a szerver a többi virtuális géppel együtt látható, kezelhetõ. További pozitívum, hogy a fürtözést megvalósító szoftver a gép esetleges újraindulás esetén automatikusan elindítja a futtatott alkalmazásokat és szolgáltatásokat. A SLES 11-et emellett olyan technológiákkal is felvértezik majd, mint az OpenAIS cluster kommunikációs instrastruktúra, valamint a POSIX szabvánnyal teljesen konform Oracle Cluster File System 2, illetve az elosztott replikált blokk eszközök (DRBD)   támogatása. A fürtözött környezetek felügyeletét új adminisztrációs eszközök is segítik majd a SLES 11-ben.
+
+
+ A Novell ígérete szerint az operációs rendszer jelentõsen továbbfejlesztett diagnosztikai és rendszerfelügyeleti eszközökkel érkezik, beleértve a még jobb hardvermonitorozást, valamint a beágyazott szervizprocesszorok támogatását. A cég nem mást állít, mint hogy a fejlesztéseknek köszönhetõen a SUSE Linux Enterprise 11 lesz a legmegbízhatóbb és legrobosztusabb operációs rendszer üzletkritikus környezetek számára.
+
+Virtualizációs fejlesztések
+
+Az új SUSE Linux Enterprise-ban a Xen virtualizációs hypervisor legújabb verziója kerül (várhatóan a 3.3-as változat), amely már támogatja a keresztplatformos virtualizációt, ezáltal a felhasználók akár Windowst, Linuxot és Novell NetWare-t is futtathatnak egy szerveren. A vállalat emellett dolgozik egy teljesen önálló virtualizációs platformon, amely akár közvetlenül a hardverbe is beágyazható. További várható újdonság a virtuális készülékek (appliance) létrehozása, amelyet aztán a ZENworks és PlateSpin automatizált felügyeleti megoldásokkal lehet kezelni, ennek köszönhetõen a felhasználók az eddigieknél egyszerûbben hozhatnak létre virtuális gépeket és menedzselhetik azokat a rendelkezésre álló infrastruktúrán.
+
+Windows-kompatibilitás terén is ígér fejlesztéseket a Novell, például keresztplatformos virtualizációt, vagy Windows és SUSE szerverek egységes felügyeletének lehetõségét.  A SLES 11-nek része lesz a Mono 2.0 fejlesztési és futtatási környezet, amelly már a Microsoft .Net 3.5-öt is támogatja, emellett kiegészítették olyan migrációs eszközökkel, amelyek segítséget nyújtanak a .Net alkalmazások Linuxra telepítésében.
+
+
+
+Továbbfejlesztett desktop, OpenOffice-ba integrált csoportmunka 
+
+Az asztali gépek felhasználói számára is szolgál újdonságokkal a SUSE 11. Amellett, hogy a szoftverben a megszokott nyílt forrású alkalmazások (pl. Firefox, Thunderbird, OpenOffice.org, Pidgin, GIMP, stb.) legújabb verziói várhatók, a vállalat ígéretet tett a csoportmunkát támogató Novell Teaming + Conferencig szoros integrációjára. A Teaming + Conferencing  megkönnyíti az alkalmazottak együttmûködését, például dokumentumok megosztása, közös naptárak, fórumok, wikik létrehozásával, valamint azonnali üzenetküldõ, és VoIP-alapú chat és konferencia segítségével. A SUSE 11-ben a Teaming + Conferencing egyes funkciói beépülnek az OpenOffice.org-ba. 
+
+A Novell ígérete szerint a SLES 11 új energiatakarékos funkciókat is kínál majd, amelyek nem csak noteszgépeken, hanem szervereken is javíthatják az operációs rendszer hatékonyságát, hozzájárulva az energiaköltségek csökkentéséhez. A trükkök között található az ütemezõ energiatakarékos módba állítása, az energiatakarékos megszakításkezelés, melyek többmagos chipeknél szolgálnak elõnyökkel, vagy a processzor dinamikus energiagazdálkodásának aktiválása. A SUSE 11-ben kiterjesztett támogatást ígérnek a hardveres virtualizációs technológiákhoz is (pl. Intel VMDq).
+
+Mikor?
+
+Roger Levy, a Novell Open Platform Solutions részlegének vezetõje szerint a SUSE Linux Enterprise 10 széleskörû elterjedtsége világszerte szervezetek ezrei számára tette kiaknázhatóvá a vállalati szintû Linux elõnyeit. A SUSE Linux Enterprise 11 az ügyfelek, partnerek és a nyílt forrású közösség visszajelzéseit felhasználva készült -- hangoztatta Levy --, és egy rugalmas, nyílt, költséghatékony infrastruktúra megteremtésének lehet az alapja. A BrainShare 2008-on tehát a Novell számos újdonságot és részletet hozott nyilvánosságra a SUSE Linux Enterprise 11-rõl, azonban a megjelenés várható idejét egyelõre homály fedi. A vállalat azt ígéri, a pontos dátumot még az idén közlik.

@@ -1,0 +1,14 @@
+Pillanatok alatt feltörték a Safarit
+
+[CNET/HWSW] Charlie Miller 5000 dollárt nyert, miután a CanSecWest biztonsági konferencia "Pwn2Own" hackerversnyén 10 másodperc alatt sikeresen demonstrált egy támadókódot az új Safari böngészõn. Millernek nem ez volt az elsõ ilyen sikere, tavaly 10 ezer dollárt tett zsebre a Macbook Air feltöréséért.
+
+
+
+Charlie Miller az Independent Security Evaluators vezetõ biztonsági elemzõje a safaris mutatványhoz egy MacBookot használt, amin a Mac OS X legújabb változata futott. A Miller által felfedezett biztonsági rés lehetõséget ad arra, hogy a támadó távolról átvegye az irányítást a gép felett. Ehhez semmi másra nincs szükség, mint rávenni a felhasználót, hogy kattintson rá a rosszindulatú webcímre, onnantól pedig már a hacker kezeli a dolgokat.
+
+"Nem egyszerû, de ez egy kattintással mûködött a Safari böngészõbõl" -- mondta Miller, de azt már nem árulhatta el, hogy pontosan hogy csinálta a trükköt, ezt ugyanis szigorúan tiltja a versenyszabályzat. Miller azt viszont elmondta, hogy a bemutató napján korábban értesítette az Apple képviselõit arról, hogy mit tervez. Az Apple nem sértõdött meg, sõt örült az információnak, ugyanis ingyen kapták a "kutatást" és kijavíthatják a sebezhetõséget.
+
+
+ A verseny célja egyébként éppen az, hogy a versenyzõk által felfedezett gyengeségeket a szponzor TippingPoint megosztja a böngészõk fejlesztõivel, illetve elkészíti a szükséges javításokat is, nyilván az üzlet ez utóbbiban van. A "versenyzõk" pedig örömmel készülgetnek az eseményre, ugyanis minden sikeres bemutató, ami a böngészõ sebezhetõségeit mutatja be 5000 dollárt ér, míg az okostelefonokon ugyanez 10 ezret.
+
+Miller egyébként a Macbook Air feltörése elõtt 2007-ben az iPhone bemutatása után a Safari mobil változatának fejlesztõibõl csinált bocot.. Az idei verseny sztárja viszont nem õ lett, hanem egy 25 éves német informatika szakos egyetemi hallgató, aki 15 ezer dollárt vitt haza, miután IE8, Safari és Firefox alatt is bemutatott egy-egy korábban ismeretlen sebezhetõséget.

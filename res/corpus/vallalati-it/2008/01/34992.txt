@@ -1,0 +1,14 @@
+Két kiemelt biztonsági frissítés érkezik Windowsokhoz az idei elsõ patch kedden
+
+Ma esedékes a Microsoft idei elsõ "patch keddje". A szoftveróriás várhatóan két magas besorolású biztonsági javítást fog kiadni a szokásos, rosszindulatú szoftvereket keresõ eszköz frissítése mellett. A vállalat biztonsági csapata emellett nemrég egy új blogot is indított, ahol a keddi frissítéseket tervezik tárgyalni mélységeiben.
+
+
+
+A Microsoft Security Bulletin 2008 januári elõzetes tájékoztatása alapján két biztonsági frissítés esedékes, melyek közül az egyik kritikus, a másik pedig fontos besorolású. Az elsõ sebezhetõség távoli kód végrehajtását teszi lehetõvé az összes ma is támogatott Windows operációs rendszeren, kritikus besorolással ugyanakkor csak az asztali változatok (XP, Vista) esetében rendelkezik, a Server 2000 SP4 számára közepes, a Server 2003-ak (32- és 64-bites változatok egyaránt) esetében pedig "fontos" osztályzatot kapott.
+
+A másik rés a jogosultsági szint lokális megemelésére ad lehetõséget a támadónak, mely a második legmagasabb kockázati besorolásban részesült. Ez a sebezhetõség, úgy tûnik, a Longhorn-generációnál nem jelentkezik, viszont a Windows 2000, XP, és Server 2003 különféle változatai mind érintettek. Annak eldöntésében, hogy szüksége van-e egy telepítésnek valamelyik biztonsági foltozásra, a Baseline Security Analyzer segít, mely az operációs rendszer mellett más Microsoft szoftverek biztonsági állapotát is kiértékeli, így többek között az Internet Explorer, Office, IIS, Exchange és SQL Server alkalmazásokét is.
+
+
+A biztonsági frissítéseken kívül a Microsoft tervei szerint további öt magas prioritású patch kerül a Microsoft Update-re, valamint kettõ hasonló osztályzatú a Windows Update-re. A kiadott frissítéseket részletesen tárgyalja a vállalat holnapi webcastjában, melyet magyar idõ szerint este 8-kor tartanak.
+
+A biztonsági csapat decemberben jelentette be új blogját, melyben technikai mélységeiben tervezik tárgyalni a Microsoft szoftvereket érintõ sebezhetõségek természetét, fõként a minden hónap második keddjén kiadott foltozásokkal megcélzottakat, de az ígéret szerint a kutatások során szerzett tapasztalatokat is megosztják majd. A blog egyelõre csak egy beköszönést és két példabejegyzést tartalmaz, várhatóan a mai nap folyamán frissül a két biztonsági frissítés technikai részleteivel.

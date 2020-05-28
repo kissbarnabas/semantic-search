@@ -1,0 +1,12 @@
+Az utolsó frissítéssel vége a Firefox 2 pályafutásának
+
+A Mozilla tegnap újabb frissítést adott ki népszerû többplatformos böngészõprogramjához, a Firefoxhoz, annak 2-es és 3-as verziójához egyaránt. A korábbi változathoz elvileg ez lett volna az utolsó patch, a fejlesztõk azonban a windowsos kódból véletlenül kihagytak egy javítást, így a Firefox 2.0-hoz hamarosan újabb tapasz érkezik, és a támogatása ezután megszûnik.
+
+
+
+Összesen 12 biztonsági rést foltoztak be a Mozilla fejlesztõi a Firefox webböngészõ kurrens, 3-as változatában, melynek verziószáma a javítás telepítése után 3.0.5-re változik. A programozók így egyebek mellett javították azt a biztonsági rést, melyet kihasználva támadók a váratlan programleállás után automatikusan elinduló helyreállítási folyamat során irányíthatják kártékony URL-re a böngészõt, kijavítottak több memóriakezelési problémát, melyek szintén kártékony kódok futtatására, illetve a rendszer teljes megbénítására adnak lehetõséget a hackereknek.
+
+A böngészõ 3.0-s verziója mellett frissült az elõzõ generációs, 2.0-s változat is, melynek különbözõ platformokra fejlesztett kiadásaihoz készült tapasz összesen 10 biztonsági rést foltoz be, ebbõl öt kapott kritikus, egy fontos, egy közepes és egy alacsony prioritású besorolást a Mozilla saját, négyfokozatú skáláján. Bár a tervek szerint eredetileg a 2.0.0.19-es build lett volna a Firefox 2.0 utolsó frissítése, a windowsos patchbõl az egyik alacsony veszélyességi fokozatba sorolt javítás kimaradt, ezért a cég a hét végén, de legkésõbb jövõ hétfõn kiad még egy utolsó javítást a programhoz. A linuxos és mac-es változatokhoz nem érkezik több frissítés.
+
+
+A Mozilla eredetileg a Firefox 3.0 megjelenését követõen fél évvel tervezte lezárni a 2-es változat terméktámogatását, a cég a tervhez tartva magát igyekszik minden felhasználót átterelni a 3.0-s verzió használatára. A 2.0-s felhasználók elõször augusztusban kaptak automatikus értesítést a 3.0 verzió megjelenésérõl, amelyet akkor a felhasználók több mint fele telepített is. A 2.0-s verzióhoz azóta két frissítés jelent meg -- a legutóbbi éppen két hete --, az utolsót már csak kétmillió számítógépre töltötték le a Mozilla mérései szerint. 

@@ -1,0 +1,16 @@
+Letölthetõ az AMD látványos médialejátszója, a Fusion Media Explorer
+
+Elérhetõvé tette saját fejlesztésû, ingyenes médialejátszó alkalmazásának tesztváltozatát az AMD. A dizájnos kezelõfelületû Fusion Media Explorer az offline és online tartalmak megjelenítése mellett közösségi oldalakkal is együttmûködik.
+
+
+
+A Fusion Media Explorer (FME) megjelenésérõl elõször tavaly novemberben hallhatott a nagyközönség, a vállalat azonban úgy döntött, hogy a tesztverziót csak a fejlesztés végsõ fázisában adja ki. A most megjelent béta lényegében mindent tartalmaz, amit a nyáron megjelenõ végleges változatba integrálni kíván az AMD, azaz a program lehetõséget ad a különbözõ médiatartalmak megosztására valamint a közösségi, webkettes szolgáltatások integrációjára.
+
+A látványos, háromdimenziós kezelõfelülettel ellátott FME a merevlemezen, vagy a számítógéphez csatlakoztatott más adathordozókon tárolt fotók mellett megjeleníti a felhasználó online tárolt fotóit is. A program Flickr és a Microsoft Live szolgáltatásokkal kompatibilis, de a Facebookra feltöltött képeket is megmutathatja 3D Ribbon fantázianevû felületén. Az FME arra is használható, hogy a felhasználók a kiválasztott fényképet egy gombnyomással feltöltsék a Filckr-re vagy a Facebookra.
+
+
+
+
+ Az FME zenelejátszójának egyik funkciója, az AutoDJ automatikusan, mûfaj szerint állít össze lejátszási listát a felhasználó számára, hasonlóan az Apple iTunes-nél és iPodjainál látott Genius lejátszási listájához. A program lejátszás közben automatikusan kapcsolódó tartalmakat keres az interneten, így például egy zeneszám hallgatása közben -- ha elérhetõ -- megjelenhetnek a találati listában az elõadó YouTube-on tárolt videoklipjei is.
+
+A szoftver a videók lejátszása során is kínál hasonló kapcsolódó tartalmakat, emellett a 3D Ribbon felületen a könnyebb kereshetõség érdekében elõzetest játszik több-kevesebb videóból, attól függõen, hogy milyen erõs hardver dolgozik a gépben. Az FME bétaváltozata egyébként kizárólag AMD-alapú számítógépekre hajlandó települni, és jelenleg csak Windows Vista operációs rendszerrel hajlandó együttmûködni. Az ingyenes béta letölthetõ az AMD weboldaláról.

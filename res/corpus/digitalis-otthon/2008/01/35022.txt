@@ -1,0 +1,30 @@
+A második negyedévben jön az AMD mobil platformja
+
+A Consumer Electronics Shown az AMD bejelentette, hogy a második negyedév során dobja piacra kimondottan notebookokba tervezett Puma platformját, amely a Griffin kódnevû processzorból és egy integrált videovezérlõt tartalmazó ATI chipkészletbõl áll.
+
+
+
+Vadonatúj õskövület
+
+Az AMD állítása szerint a Griffin az elsõ olyan processzoruk, amelyet kimondottan a mobil használat szem elõtt tartásával terveztek, ám valójában a chip lényegében nem más, mint két 65 nanométeres Turion mag, a Turion pedig szegrõl-végrõl egy Opteron. Az AMD tehát továbbra is egy szerverchipet fog notebook-processzorként árulni, mentségükre szóljon, az Intelnél is teljesen azonos alapokra épülnek a noteszekbe, asztali gépekbe és szerverekbe szánt chipek, bár a teljes igazsághoz hozzátartozik, hogy az Intel esetében a desktop és szerver-változatok a mobil chipbõl nõttek ki, míg az AMD esetében épp fordítva.
+
+A Griffin tehát egy kétmagos Turion magonként 1 megabájt L2 gyorsítótárral, amelyekhez egy vadonatúj, kifejezetten energiatakarékos northbridge-et integráltak. A HyperTransport 3.0 szabványú, vagyis 2,6 GHz-es órajelû integált northbridge képes lecsökkenteni a használt sínek számát, ezzel energiát takarítva meg. Az integrált DDR2 memóriavezérlõ agresszív pre-fetch logikát kapott és a noteszgépek tipikus memóriakonfigurációira optimalizálták -- ez vélhetõen azt jelenti hogy kettõnél több memóriamodult egyáltalán nem is támogat.
+
+A Griffin fontos újdonsága, hogy a két processzormag és a memóriavezérlõ is saját energiatakarékos logikával bír, vagyis egymástól függetlenül tudják csökkenteni az órajelüket és a feszültségüket, a processzormagok pedig akár az eredeti órajelük nyolcadára is le tudnak lassulni, ha annyira kevés a dolguk. Összehasonlításképp: a jelenleg forgalomban levõ AMD mobil processzorok minimális órajele energiatakarékos állapotban 800 MHz függetlenül a chip nominális órajelétõl. A Griffinben agresszív órajelkapuzást alkalmaz az AMD, vagyis egyes részei teljesen kikapcsolhatók, akár a teljes magok is.
+
+
+ Kérdés, hogy a trükkök elegendõek lesznek-e arra, hogy az Intel gyártástechnológiai fölényét ellensúlyozni tudják. A világ legnagyobb chipgyártója ugyanis tegnap bejelentette 45 nanométeres csíkszélességû mobil processzorainak szállítását a Santa Rosa platform frissítéseként, az év közepén pedig egy teljesen megújult platformot, a Montevinát küldi csatasorba.
+
+
+
+Új grafikus chipek
+
+A Puma platform a Griffin processzor mellett az ATI RS780M chipkészletbõl áll, amely egy DX10 kategóriás, egységes shader architektúrát felvonultató grafikus vezérlõt tartalmaz -- tulajdonképpen az asztali gépekbe szánt 780G mobil változatáról van szó. Az igazán nagy videoteljesítményre éhes felhasználók számára a vadonatúj Mobility Radeon HD 3000-es sorozatú grafikus vezérlõk állnak rendelkezésre, amelyek már teljes körû DirectX 10.1 gyorsítást kínálnak. A Mobility Radeon HD 3600 és 3400 chipeket szintén a CES-en jelentette be az AMD és máris elérhetõk az ASUS egyes noteszgépeiben.
+
+Az RS780M érdekessége a PowerXPress technológia, amely lehetõvé teszi a chipsetbe integrált grafikus vezérlõvel és diszkrét grafikus processzorral egyaránt szerelt noteszgépek számára, hogy újraindítás nélkül váltsanak a grafikus vezérlõk között. Ez azt jelenti, hogy amikor a felhasználó akkus üzemben dolgozik, a kevesebbet fogyasztó integrált vezérlõ aktív, ha a gép azonban hálózatból kapja az áramot, a feladatokat a nagyobb teljesítményû diszkrét vezérlõ veheti át. Az RS780M tartalmazni fog az Intel Robsonhoz (Turbo Memory) hasonló, flash memória-alapú megoldást a Windows Vista gyorsításához, az AMD megoldását HyperFlashnek keresztelte el.
+
+
+
+Meglepõen jól fogynak az AMD mobil chipjei
+
+Az AMD mobil technológiájának viszonylagos elavultsága ellenére meglepõen jól szerepel a notebookok piacán, egy tavaly decemberi elemzõi tájékoztatón elhangzottak szerint a gyorsan bõvülõ világpiacon az AMD az átlagot, vagyis az Intelt meghaladó ütemben növekedett, és jelentõsen sikerült feltornáznia átlagos eladási árát is a szegmensben. Az észak-amerikai kiskereskedelmi piacon az AMD notebookban és desktopban egyaránt az Intelnél magasabb, vagyis 50 százalék feletti részesedéssel bír. A Mercury Research szerint az AMD a harmadik negyedévben a mobil processzorok szegmensében 23 százalékos részesedést ért el volumen alapján.

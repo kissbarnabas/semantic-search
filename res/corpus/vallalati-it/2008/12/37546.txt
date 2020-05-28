@@ -1,0 +1,25 @@
+Megjelent a Vista SP2 bétája, a Windows 7 béta pedig januárban jön
+
+Január közepén érkezhet a Windows 7 elsõ bétája -- derül ki az MSDN Developer Conference weboldalán olvasható információkból. A Microsoft fejlesztõi konferenciasorozatát népszerûsítõ webhelyen az olvasható, hogy a roadshow idei három állomásán résztvevõk megjelenéskor postán megkapják a Windows 7 Beta 1-et tartalmazó DVD-t, a január 13-án Chicagóban zajló eseményen azonban már a helyszínen átvehetik, ami arra enged következtetni, hogy ekkorra már kész lesz a béta. A Vista SP2 béta az MSDN-elõfizetõk számára már elérhetõ, a nagyközönség holnaptól töltheti le.
+
+
+
+Funkciókész béta
+
+A redmondi vállalat elsõként az október végén tartott Professional Developers Conference-en adott ki nyilvános elõzetest a Windows 7-bõl, azonban az akkor még csak a bétát megelõzõ M3 (alpha) verzió volt. A Los Angelesben tartott rendezvény több ezer látogatója hozzájuthatott az elõzeteshez, amely aztán villámgyorsan felkerült a legnépszerûbb fájlcserélõ hálózatokra, így gyakorlatilag bárki elérheti, kipróbálhatja. A lemezkép mindössze 2,7 gigabájt (a 64 bites 3,4 GB) helyet foglal, a telepítéshez pedig semmi másra nincs szükség, mint a kicsomagolt ISO-fájlt kiírni DVD-re, lefuttatni a telepítõt, a termékaktivációs kulcs helyét pedig egyszerûen üresen hagyni.
+
+A PDC-n bemutatott és a fájlcserélékön elérhetõ elõzetes még nem funkciókész, vagyis nem rendelkezik a végleges változat összes képességével (néhány rejtett funkció elõvarázsolható az M3-ból). Talán ezért is történhetett, hogy az élõ demonstráció sem volt igazán meggyõzõ, a Windows 7 kapcsán bemutatott újdonságok fõképp kozmetikai változások a Windows Vistához képest. Persze vannak azért figyelemre méltó újdonságok is a Windows 7-ben. A merevlemezek mellett már hordozható meghajtók tartalma is védhetõ a BitLockerrel, a Device Stage-nek köszönhetõen a korábbinál jobban, kényelmesebben kezelhetõk a számítógéphez csatlakoztatott mobil eszközök (mobiltelefon, PDA), emellett az operációs rendszert felkészítették az érintéses használatra is.
+
+[+] Elõször demonstrálta a Microsoft a Windows 7-et
+
+
+Steven Sinofsky, a Windows 7 fejlesztéséért felelõs Microsoft-vezetõ elõadásában kiemelte, a Windows 7 programozói nagy figyelmet fektettek az erõforrások gazdaságos felhasználására, ezért aztán az operációs rendszer hardverigénye csökkent, sebessége pedig megnõtt. Mivel a Windows 7 a Vista, illetve a Windows Server 2008 továbbfejlesztett kernelére épül, a meghajtóprogramok és szoftverek kompatibilisek maradnak az új Windowszal. Az operációs rendszer megjelenésének idõpontjával kapcsolatban továbbra sincs új információ, a végleges verziót pedig még mindig 3 évvel a Vista utánra ígérik, ami 2009 végét vagy 2010 elejét jelenti.
+
+Megjelent a Vista SP2 béta
+
+Eközben a vállalat az MSDN-elõfizetõk számára elérhetõvé tette a Windows Vista második javítócsomagjának bétáját, amit holnaptól a nagyközönség is letölthet, tesztelhet. A végleges verziót áprilisra várják a bennfentesek, bár egyelõre nem tudni, hogy ez a fejlesztés befejezését vagy a megjelenés idejét jelenti-e: a Vista SP1 esetében a két dátum között másfél hónap telt el.
+
+
+ A Vista SP2 a szokásos hibajavítások mellett olyan újdonságokat tartalmaz majd mint a Blu-ray és Bluetooth 2.1 támogatása, illetve a Windows Search 4, bár utóbbi kettõt különálló frissítésként már eddig is letölthették a Vista-felhasználók. További figyelemre méltó újdonság a Windows Connect Now, ami a vezeték nélküli hálózatok konfigurációját egyszerûsíti, illetve lehetõség lesz exFAT fájlrendszer esetén UTC idõt használni, így idõzónák között is zökkenõmentesen lehet állományokat szinkronizálni. A Vista SP2-ben található újdonságokat Microsoft weboldala részletezi.
+
+A Vista SP2 érkezésével egyidõben frissül a Windows Server 2008 is. Amint az ismert, a szerverekre szánt operációs rendszer már a Vista SP1 után jelent meg, vagyis az abban található javításokat már tartalmazza. Így alighanem a Windows Server 2008-hoz kiadott javítócsomag is a Service Pack 2 nevet viseli majd. Az SP2 legfontosabb újdonsága a Hyper-V virtualizációs köztesréteg végleges változata.

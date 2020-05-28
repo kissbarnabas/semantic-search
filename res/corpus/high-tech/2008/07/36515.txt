@@ -1,0 +1,14 @@
+Az optikai hozzáférések felfutásának küszöbén állunk?
+
+[Nikkei Electronics Asia/HWSW] Öt év alatt több mint megkétszerezõdik az optikai kapcsolaton netezõk aránya, becsli az Ovum telekommunikációs tanácsadó vállalat. Egyes országokban az optika már megkezdte a rézalapú xDSL kiszorítását.
+
+
+
+Az Ovum úgy látja, hogy az optikai technológiát használó szélessávú kapcsolatok aránya 2012-ben 16 százalékra emelkedhet, és az elõfizetések száma meghaladhatja a 108 milliót. Világátlagban jelenleg 7,5 százalékon állnak az optikai hozzáférések, nagy részük azonban néhány országban koncentrálódik, különösen Japán és Dél-Korea mutatott elõrehaladott, 40 és 34 százalékos penetrációt az összes szélessávú kapcsolat arányában: Japánban már a 10 milliót is meghaladta a háztartásokba vezetett optikai kapcsolatok száma, átlagos letöltési sebességük másodpercenként 66 megabitre rúg. Az optika elõnye az xDSL-lel szemben, hogy kevésbé érzékeny a távolságra, hosszú kilométereken képes tartani magas átviteli sebességet, míg utóbbi a távolsággal rohamosan lassul, 1 kilométeres kábelhossznál már csak 50 megabitre képes a VDSL2 is.
+
+
+Jelenleg kétféle megoldás terjedt el az optika fizikai implementációja szempontjából: az egyik  pont-pont optikai hálózat, ahol a végpontok egyenként közvetlenül kapcsolódnak a szolgáltató központjához dedikált optikai szállal, míg a pont-multipont, jellemzõen passzív optikai hálózat esetében egy optikai elosztó bontja több részre, tipikusan 32-128 részre a jeleket, és osztja szét a végponti optikai hozzáférések felé (fiber-to-the-home/office/premises). Ez utóbb elõnye, hogy jóval kevesebb optikai kábelt igényel a szolgáltató infrastruktúrájától. Természetesen nem szükséges a végpontig optikát használni, számos szolgáltató az épületig húzza az optikai kapcsolatot, majd gigabites Ethernet hálózattal osztja például szét (fiber-to-the-building).
+
+[+] Új fogalomra van szükség a szélessáv után 
+
+Az Ovum várakozásai szerint a passzív architektúra felül fogja múlni  a jelenlegi domináns pont-pont megoldásokat, melyek nagy népsûrûségû városi területeken terjedtek el, fõként Ázsiában. A tanácsadó cég szerint a következõ években Európa felzárkózik Ázsia mellé az optikai hozzáférések használatában. Az Ovum szerint az egyes régiókban más és más szabványú optikai hozzáférések népszerûek, de a jelenleg három részre osztott piac végül a Gigabit PON (passive optical network) szabvány (ITU-T G.984) felé fordul majd, és nyer kritikus tömeget. a GPON eszközökbe ölt befektetések idén 289 millió dollárt tesznek ki, két év múlva már meghaladják a fél milliárd dollárt. A kereslet felfutásával erõsödõ méretgazdaságossági erõk és a verseny a bekerülési költségek is egyre lejjebb kerülhetnek -- ebben bíznak a hálózati szolgáltatók is.

@@ -1,0 +1,29 @@
+A múlt híreit rendezi a Google News Timeline
+
+A Google újabb fejlesztéseket leplezett le, a tovább finomított képkeresõ mellett egy egészen új szolgáltatást, a Google News Timeline-t is bemutatta. A Timeline lényege a Google News találatait egy idõegyenesen idõszakokra bontva jeleníti meg, így könnyítve a régebbi események, hírek közti böngészést.
+
+
+
+Hírek a múltból
+
+
+A Google News Timeline-ban a keresési találatok közül napi bontásban látjuk a Google News adott idõszakra legfontosabbnak ítélt híreit, de lejjebb görgetve további darabok tûnnek elõ, illetve az idõszak is átállítható hetenkénti, havi, éves, sõt, évtizedes intervallumokra. A keresõmezõbe írt szavakkal bármely témában végig lehet követni az események folyamatát. Tanulmányi, tudományos célokra, újságírói vagy egyéb média célokra kiválóan alkalmas, de alkalmanként a személyes érdeklõdésbõl eredõ kereséseknél is hasznos lehet.
+
+A keresõszavas válogatás mellett lehetséges médiumonként is rendezni a híreket vagy egyszerûen megnézni, hogy az adott idõszakban melyek voltak a Google algoritmusai által legfontosabbnak ítélt hírek. Az online újságok mellett a a szûkítés mûködik néhány nyomtatott újságra és magazinra, a Wikipedia bejegyzéseire, illetve természetesen blogokra is. A magyar blogszférából például szemlézhetõ az Index.hu néhány szerkesztõségi blogja, mint a Webisztán, Tékozló Homár, Comment.com, a Subba vagy a "W" (Tóta W. Árpád). 
+
+Napi, heti, havi, éves, évtizedes
+
+Ami viszont magának a Google News-nak is gyengesége, az a Timeline-ra is vonatkozik, hogy a napi bontásnál finomabb részletezésre egyelõre nem képes. A Google News-ban is sok esetben a valós megjelenéshez képest késve, gyakran kötegelve jelennek meg a hírek, attól függõen, hogy az adott oldalt milyen gyakorisággal szemlézik a keresõrobotok. A Timeline természetesen egyelõre angol nyelven mûködik csak, s fõként a nagyobb világnyelvek médiumainak anyagaira érdemes keresni is.
+
+A fejlesztõk természetesen ígérik, hogy tovább javulnak majd a lehetõségek, s valószínûleg folyamatosan bõvül majd az elérhetõ médiumok, médiatípusok száma. Az ötlet nem teljesen eredeti, s a kivitelezés is hagy még némi kívánnivalót maga után, de nem szabad elfelejteni, hogy ez egyelõre még csak egy Google Labs projekt. A kezelõfelületen elsõre is érzõdik, hogy van még mit fejleszteni, s tartalmi oldalról is erõsen hiányos a rendszer, fõleg a régebbi hírek esetén. Az viszont tagadhatatlan, hogy ezzel egy újabb eszközt kaptak az internetezõk, amivel könnyebben ki tudnak  igazodni a tengernyi információ és adat között, ami az elmúlt években, évtizedekben felhalmozódott az online világban.
+
+
+
+
+
+Hasonló képek
+
+ A Google másik bejelentése a képkeresõ egy új funkciója a "Similar Images", azaz a hasonló képek. A képkeresés során egy kulcsszót megadva sokszor kapunk részben megfelelõ találatokat, s elõfordul, hogy a listában már van egy majdnem jó kép, de az igazihoz újabb keresést kell indítani, tovább kell szûkíteni a paramétereket. A híres munkaidõ 20 százalékában végzendõ szabad gondolkodás legújabb eredménye épp ezt a problémát oldja fel. 
+
+
+A jövõben a találati listában megjelenõ képek alatti "Similar Images" gombra kattintva a Google kiválogatja a hasonló képeket, s egy külön listában megjelenítve elég a "majdnem jó" képek közül válogatni. Ha mondjuk valaki beírja a "paris" keresõszót, akkor egyaránt jelennek meg Eiffel-tornyok és festett szõke celebek -- aki inkább Paris Hiltonra kíváncsi, annak egy kattintásnyi távolságba kerülnek a bikinis képek. Az elsõ tesztek alapján a szûrõ figyelembe veszi a fájlnevet és a metaadatokat is, illetve a már eddig is mûködõ algoritmusokat, mint az arc- vagy a színfelismerõ, melyek a képet próbálják elemezni a pontosabb találatok érdekében. 

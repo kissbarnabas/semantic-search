@@ -1,0 +1,11 @@
+Jövõ hétfõn kész lehet a Windows 7
+
+A GeekSmack.net egy a Microsofthoz közel álló forrástól úgy tudja, hogy a Windows 7 kész kódja, az úgynevezett "Release to Manufacturing" (RTM) változat július 13-án készül el, ezután kezdõdik az operációs rendszer terjesztése, illetve az adathordozók gyártása. Mivel a Windows 7 csak október 22-tõl forgalmazható, ezzel a logisztikai döntéssel több hónapjuk marad a PC-gyártóknak arra, hogy felkészüljenek az új operációs rendszer bevezetésére. A felkészülési idõszak még így is jóval rövidebb, mint a Windows Vista esetében, melynél az RTM-változat 2006. november 8-án készült el, a kiskereskedelmi forgalmazás azonban csak 2007. február végén kezdõdhetett meg.
+A Windows 7 a Vistához hasonlóan számos változatban elkészül, azonban a Microsoft szerint a Home Premium, a Professional és az Ultimate változat lefedi szinte az összes ügyféligényt, így a cég ezek népszerûsítésére koncentrál majd. Ezek mellett elérhetõ lesz a Home Basic változat (a fejlõdõ piacokra), a nagyvállalatoknak szánt, csak mennyiségi licencben kapható Enterprise, illetve a netbookokra szánt Starter.
+
+A Windows 7-tel együtt természetesen a szerverváltozat, a Windows Server 2008 R2 is elkészül, ennek kódját szintén július végén zárja le a Microsoft, a kereskedelmi bevezetés pedig október 22-én kezdõdik -- Magyarországon azonban pár nappal késõbb, csak október 31-én kerül forgalomba az operációs rendszer.
+Az RTM-kód megjelenésének alighanem a jövõ héten kezdõdõ, New Orleans-i Worldwide Partner Conference adja az apropóját. A kész kódot várhatóan elsõként az MSDN- és TechNet-elõfizetõk próbálhatják majd ki -- akár pár héten belül.	     
+                  
+                  
+                  
+                   

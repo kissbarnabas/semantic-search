@@ -1,0 +1,12 @@
+Hibás Exchange-javítást adott ki véletlenül a Microsoft
+
+[Computerworld/HWSW] A Microsoft tévedésbõl hibás javítást tett közzé az Exchange Server 2007-hez. Egyelõre nem tisztázott körülmények között a múlt héten a Microsoft Update és a Windows Server Update Services szolgáltatásban egyaránt elérhetõvé vált a még el sem készült Update Rollup 4 for Exchange Server 2007, amely számos helyen komoly galibát okozott.
+
+
+
+A hibajavításokat tartalmazó csomag egyelõre nem végleges változata a frissítõszolgáltatásokon keresztül több szerverre is automatikusan letöltõdött, számos gépet használhatatlanná téve. Az Exchange blogban panaszkodó felhasználók közül némelyiknek csak a gondos munkával beállított konfigurációs állományait tette tönkre, másoknak viszont folyamatos rendszerlefagyásokat okozott. A Microsoft elismerte, hogy rövid idõre kikerült az Update Rollup 4 elõzetes verziója, amelyet aztán azon nyomban el is távolítottak, ahogy észrevették a malõrt.
+
+A Microsoft azt tanácsolja az érintetteknek, akiknek a szerverére már feltelepült az Update Rollup 4 elõzetese, az Add/Remove Programs menüben távolítsa el, majd ezt követõen installálja újra az Update Rollup 3-at. Ha az Update Rollup 4 eltávolítása után az Exchange Web Services (EWS) nem képes elolvasni a konfigurációs fájlokat, akkor azt kézzel ki kell igazítani, hogy a megfelelõ elérési utakra mutassanak. Egyelõre nem tudni, mikor érkezik a végleges Update Rollup 4, a Microsoft ígérete szerint a kiadás "hamarosan" esedékes -- egyes hírek szerint a hónap utolsó keddjén, azaz szeptember 23-án várható.
+
+
+ A közelmúltban nem ez volt az elsõ eset, hogy a Microsoftnál a frissítõszolgáltatás galibát okozott. Júniusban és júliusban a WSUS-ban és a System Center Configuration Manager 2007-ben kellett olyan problémákat orvosolnia a cégnek, amelyek megakadályozták az asztali gépeken a szoftverek frissítését.

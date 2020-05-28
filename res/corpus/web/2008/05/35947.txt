@@ -1,0 +1,14 @@
+Natívan támogatja a Silverlightot a Microsoft Expression Studio 2
+
+[Techworld] Frissített segédeszközökkel támogatja a multimédiás tartalmak és weboldalak fejlesztõit a Microsoft: az Expression Studio 2 minden egyes komponense natívan is támogatja már a Silverlight technológiát. A Silverlight a Microsoft válasza az Adobe Flashre.
+
+
+
+Az Expression Studio 2 öt termékbõl áll, az Expression Web a honlapszerkesztõk munkáját segíti, az Expression Blend a multimédiás és háromdimenziós tartalmak, az Expression Design a grafikák, míg az Expression Encoder a videók elõállítását teszi egyszerûbbé, míg az Expression Media az anyagok tárolását, megosztását teszi kezelhetõbbé. Az Encoder elsõ ízben lett teljes értékû és képességû tagja a szoftvercsomagnak.
+
+Az új pakkban minden komponens natívan támogatja a Silverlightot, a Microsoft multimédiás környezetét. Korábban csak az Expression Webet készítették fel ennek támogatására, ráadásul meglehetõsen korlátozott kivitelben. A Silverlight a Microsoft szerint több mint interaktív médiaplatform, a vállalat várakozásai szerint méltó ellenfele lehet az Apple QuickTime-nak a nagyfelbontású videók megjelenítésében is.
+
+
+A Microsoft júniusban árul majd el további részleteket a korábban már megszellõztetett elõfizetéses rendszerrõl, így a programcsomaghoz nem csak teljes árú vásárlással lehet majd hozzájutni. A professzionális elõfizetés-változat tartalmazza majd a Visual Studio és az Office alap, standard változatát is, az Office Visio Professionalt, a Windows XP és Windows Vista Business Edition használati jogát, illetve a Virtual PC és Parallels Desktop for Mac szoftvereket is.
+
+Ezért a fejlesztõi elõfizetésért évi 999 dollárt kell majd fizetni, de a további években is aktívan elõfizetõk kedvezményeket is kaphatnak majd a szoftverek használati jogdíjából. Az Expression Studio 2 csomag önállóan 699 dollárért lesz majd megvásárolható a hónap közepétõl, a korábbi változatok felhasználói ennél olcsóbban frissíthetnek majd. A csomag egyes szoftverei önállóan is megvásárolhatók lesznek.

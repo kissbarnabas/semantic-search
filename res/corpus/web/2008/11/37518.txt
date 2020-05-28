@@ -1,0 +1,12 @@
+Szaporodnak a Windowsokban nemrég javított sebezhetõséget támadó kártevõk
+
+Biztonsági szakértõk és a Microsoft is sürgetik a Windows-felhasználókat, hogy mielõtt telepítsék azt a néhány héttel ezelõtt kiadott rendkívüli javítást, ami a Windows Server szolgáltatás hibáját javítja. Az interneten az elmúlt napokban látványosan elszaporodtak azok a kártevõk, amelyek ezt a sebezhetõséget használják ki. Aki még nem telepítette az MS08-067 javítást, az mihamarabb tegye meg -- tanácsolja a Microsoft.
+
+
+
+A Microsoft által "Conficker.A" néven hivatkozott, a Symantec nomenklatúrájában pedig "Downadup" néven szereplõ féreg elõször Ázsiában tûnt fel, de azóta már a világ minden táján észlelték õket, a legtöbb riasztás már az Egyesült Államokból fut be -- állítja Ziv Mador, a Microsoft Malware Protection Center kutatója. A féreg nem fertõz ukrán gépeket, ami arra utalhat, hogy egy ukrán programozó mûve lehet. A kártevõk készítõi gyakran szándékosan elkerülik a saját hazájukat annak érdekében, hogy elkerüljék a helyi hatóságok felelõsségrevonását.
+
+
+ A féreg egyébként terjedés közben kijavítja a szóban forgó sebezhetõséget. Ezt természetesen nem jóindulatból teszi, hanem azért, hogy a fertõzés után más kártevõ már ne juthasson be a PC-re, legalábbis ezen a sebezhetõségen keresztül -- írja blogjában Mador. A kártevõ emellett alaphelyzetbe állítja a gépen a rendszervisszaállítást is, így gyakorlatilag lehetetlenné téve a fertõzés elõtti állapot maradéktalan helyreállítását.
+
+A hiba a hálózati erõforrások kezeléséért felelõs Windows Server szolgáltatásban húzódik meg, mely megfelelõen megtervezett kommunikációval, túlcsordulásos technikával támadható. A sebezhetõség azért veszélyes, mert a kártevõk a tûzfalakkal többnyire belül nem védett helyi hálózatokon terjedhetnek szét a fertõzõ géprõl. A sérülékenységet a Windows 2000, Windows XP és Windows Server 2003 esetében kritikusnak, a Vista és a Server 2008 szempontjából viszont közepesnek minõsítette a Microsoft.

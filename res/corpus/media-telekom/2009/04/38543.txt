@@ -1,0 +1,24 @@
+Zenei szolgáltatásból platformmá vált a Spotify
+
+A Spotify önmagában is egy ütõs zenei szolgáltatás, mely eddig kizárólag desktop környezetben volt elérhetõ, de a jövõben szinte bármilyen eszközön visszaköszönhet a svéd gyökerû online zenetár. A cég nyilvánossá tette API-ját (Application Programming Interface), azaz innentõl csak a fejlesztõkre van bízva, hogy milyen felületre készítenek el új klienseket. Lehet játékkonzol, mobiltelefon vagy hálózati zenelejátszó, de bármi más, ami rendelkezik interneteléréssel és lehet rá programokat telepíteni.
+
+
+
+Letölthetõ API
+
+Kedd este óta elérhetõ a Spotify API, a "libspotify" a cég weboldalán keresztül. Ennek segítségével bármely fejlesztõ készíthet olyan alkalmazást, mely hozzáfér a Spotify zenei katalógusához, használhatja a peer-to-peer architektúrát, illetve az Ogg Vorbis formátumú streamet. Az asztali Spotify felhasználói felülete leginkább az iTunes programhoz hasonlít, azzal a különbséggel, hogy itt már minden szám benne van a "Library"-ben. A libspotify kiadásával a cég egy komoly motivációt akart adni a fejlesztõknek, hogy a felhasználói igényeknek megfelelõen készítsenek programokat, új funkciókat. 
+
+Amennyiben mobil eszközökre vagy otthoni hálózati lejátszókra is készülnek az asztali klienshez hasonló, egyszerûen használható, kellemes küllemû lejátszók, akkor a Spotify elterjedtsége robbanásszerûen nõhet. Gátat egyedül az szabhat, hogy néhány országban, mint például az Egyesült Államokban, szerzõi jogi kérdések miatt nem számít legális szolgáltatásnak, illetve a legtöbb országban nem elérhetõ az ingyenes, szponzorált elõfizetõi változat, kizárólag a havi 10 dolláros elõfizetéses konstrukció mûködik.
+
+
+ 
+
+Finnországban, Franciaországban, Németországban, Olaszországban, Spanyolországban, Norvégiában, Svédországban és az Egyesült Királyságban viszont örülhetnek a felhasználók, ott ugyanis óránként 40 másodpercnyi reklámért cserébe külön befizetés nélkül élvezhetik a több millió dalt tartalmazó adatbázishoz való hozzáférés elõnyeit. 
+
+[+] Spotify: a milliónyi zeneszám bárhonnan elérhetõ
+
+Ha valaki más országban él, nagyon szeretne hozzáférni a rendszerhez, de sajnál rá havonta 10 eurót, akkor megpróbálhat a fent felsorolt országokból regisztrálni egy ismerõsön vagy egy proxyn keresztül. Mûködni fog az account a támogatott országokon kívül is, sõt a hirdetéskiszolgáló nem is fog berakni reklámokat, ha mondjuk Magyarországról fut a program.
+
+A fejlõdés a közösség kezében van
+
+A felhasználók korábban már több száz javaslatot tettek a fejlõdés irányára vonatkozóan, de ezeket feltételezhetõen a cég önmaga nem szeretné kielégíteni. Inkább megõrzik a saját kliens egyszerûségét, viszont a közösség kezébe adják a lehetõséget bármilyen mutáció elkészítésére. A jövõben megjelenõ Spotify programokat már létezõ, aktív Spotify regisztrációval lehet majd használni, tehát aki most rendelkezik ilyennel, az nem marad le semmirõl.

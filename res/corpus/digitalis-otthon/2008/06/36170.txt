@@ -1,0 +1,20 @@
+Atomvillanás a Computexen: megérkezett az Intel processzora olcsó notebookokba
+
+A Tajvanon ma kezdõdött Computex kiállításon Sean Maloney, az Intel értékesítési és marketing-vezetõje hivatalosan is bejelentette az Atom processzorcsalád, illetve a hozzá tartozó chipkészletek érkezését. 
+
+
+
+A korábban Diamondville kódnéven emlegetett chipekbõl kettõt jelentett be az Intel, az Atom N270 az Asus Eee PC-hez hasonló, alacsony árkategóriás notebookok és mobil internetezésre kifejlesztett eszközök, az N230 pedig a szuperolcsó asztali gépek, netterminálok szíve lehet. A rendezvényen több mint harminc különféle készüléket állítottak ki a gyártók, amelyek az Intel új processzoraira, és a hozzá tartozó új chipkészletekre épülnek: köztük volt az Asus Eee PC új, 1000-es változata, az MSI Wind, az Acer Aspire One, valamint a Gigabyte M912 tablet PC.
+
+Gigabyte M912
+
+A lehetõ legkisebb méret, fogyasztás és ár érdekében mindkét Atom lapka az Intel csúcstechnológiájú, 45 nanométeres gyártási eljárásával készül. Az Atom N230 és N270 egyaránt 1,66 GHz-en mûködik, 32+24 kilobájt elsõszintû mellett 512 kilobájt másodszintû gyorsítótárat kapott és 533 MHz-es rendszerbusszal jár, azonban az elõbbi TDP-je 4,4 watt, míg az utóbbié mindössze 2,5 watt. Az Atom processzorok ugyanarra a kiterjesztett x86 utasításkészlet-architektúrára épülnek, mint a Core 2 Duo (Merom), támogatják a 64 bites végrehajtást és az SSE3 parancsokat is, vagyis a rájuk épülõ gépek ugyanazokat az operációs rendszereket és alkalmazásokat futtathatják, mint bármelyik x86-os PC.
+
+Az új mikroarchitektúra fele olyan széles, mint a Core, négy helyett órajelenként kettõ utasítás dekódolását tudja elvégezni legfeljebb, továbbá nem rendelkezik soronkívüli végrehajtással, vagyis hiányzik belõle az x86-os processzorokban a Pentium Próval több mint egy évtizede debütált komplex dinamikus utasításütemezés és újrarendezés. Ennek köszönhetõen az egymagos Diamondville mindössze 47 millió tranzisztorból épül fel és 25 négyzetmilliméter területû, szemben például a szintén 45 nanométeres Core 2 Duo 410 millió tranzisztorával és 107 négyzetmilliméterével.
+
+
+
+
+ Az Intel szerint egy N270-alapú olcsó notebook 1,6 GHz-es processzorral, 7-10 hüvelykes kijelzõvel, 512 megabájt memóriával és 2-4 gigabájtos flash meghajtóval már 250 dollárért is megvásárolható, ebbõl az Atom processzor ára ezer darabos rendelés esetén 44 dollár. Az olcsó asztali gépekbe, webterminálokba szánt, képességeit tekintve az N270-nel megegyezõ, de többet fogyasztó Atom N230 listaára kereskedelmi mennyiség esetén 29 dollár.
+
+A Computexen az Atom processzorok mellett az Intel fellebbentette a fátylat a hozzájuk tervezett alaplapi chipkészletekrõl is, a kimondottan alacsony fogyasztrásra optimalizált 945GSE-rõl, valamint a 945GC-rõl. A vállalat emellett bejelentett egy 4 és 8 gigabájtos SSD-t is az olcsó gépekhez: a PATA felületû Z-P230 csupán negyedakkora mint egy 1,8 hüvelykes mobil merevlemez, így a lehetõ legkevesebb helyet foglalja, tömege pedig csupán 10 gramm. A negyedik negyedévben várható egy 16 gigabájtos SSD is ebben a sorozatban.

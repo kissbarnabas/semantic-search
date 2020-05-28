@@ -1,0 +1,30 @@
+Visszaszerezhetjük lopott notebookunkat
+
+Széleskörû népszerûségükkel a notebookok az egyszerû piti tolvajok mellett a kifinomult bûnszervezetek figyelmét is kivívták, akik a hordozható gépekkel együtt a sokszor érzékeny és értékes adatokat fizikailag is birtokukba vegyék. Mit lehet ilyenkor tenni? 
+
+
+
+Viszik, mint a cukrot
+
+Ha a bûnözõk okosak és magas szinten képzettek, nem sokat -- az informatikai biztonság egyik alaptörvénye, hogy ha a támadó fizikailag is korlátlanul hozzáfér a géphez, akkor alkalmazzunk bármilyen erõs és komplex védelmet, a rendszer feltörése idõ és legfeljebb pénz kérdése. Az incidensek többségét azonban nem profik célzott támadásai okozzák, tapasztalatok szerint a forrást sokszor a cégen belül kell keresni. A McAfee és Datamonitor közös kutatásából kiderül, a vállalatok 61 százaléka véli úgy, hogy az adatszivárogtatást alkalmazottak végzik, 23 százalékuk szerint ráadásul tudatosan.
+
+A jelentõs értéket képviselõ hordozható PC-k nagyobb szervezeteknél egyúttal problémákat vetettek fel a nyomon követésben és nyilvántartásban is. A száznál több PC-vel rendelkezõ hazai vállalkozások negyedénél legalább 50 notebook található, melyeket az alkalmazottak munkára és magáncélra egyaránt használnak, haza, sõt akár nyaralásra is elviszik azokat. A DTI kutatása alapján a nagyvállalatok eszközlopásainak harmadát alkalmazottak követik el, a notebookok esetében ez az arány kétharmad. Hogyan ellenõrizheti a cég a gépek hollétét, vagy hogyan védi meg magát a kilépõ vagy elbocsátott alkalmazott esetleges rosszindulatától? 
+
+Szerezzük vissza!
+
+A kanadai Absolute Software-nek van válasza. A cég Computrace szoftverével és szolgáltatásaival lehetõvé válik a notebookok követése,  valamint az adatok távoli védelme. A cég állítása szerint a legtöbb ellopott laptopot rövid idõn belül rácsatlakoztatják az internetre, akár a szoftverek újratelepítése érdekében. Ez pedig lehetõséget teremt arra, hogy az interneten keresztül a gép felvegye a kapcsolatot a külvilággal, és "leadja a drótot".
+
+ A gép  BIOS-ában vagy a merevlemez "holt" területén rejtõzködõ ComputraceOne Agent elõre beállított idõközönként felveszi a kapcsolatot az Absolute által üzemeltetett monitoring központtal, és bejelentkezik, elküldve néhány hasznos információt, mint amilyen az   IP-cím, MAC-szám, felhasználónév, számítógépnév, e-mail cím, hardverspecifikációk, vagy a merevlemez adatai. Egy jelentés elküldése mindössze 200 kilobájt adatforgalmat generál, a kapcsolat az Absolute állítása szerint tûzfalon keresztül is felépül külön engedélyezés nélkül.
+
+A kliensszoftver mûködése gyakorlatilag teljesen észrevétlen marad a felhasználó elõtt, amennyiben a BIOS-ba ágyazva szállítja a PC-gyártó, úgy még a merevlemez cseréje, vagy a BIOS felülírása esetén is újra üzembe áll.  A vezetõ PC-márkák (HP, Dell, Acer, Fujitsu Siemens, Lenovo, Toshiba) számos üzleti notebookmodelljükben elérhetõvé teszik a beágyazott Computrace Agentet, a Lenovo legújabb ThinkPadjei már alapértelmezettként így érkeznek Magyarországra is. A merevlemezre utólag is feltelepíthetõ változat a partíciók közötti területre telepíti magát, mérete mindössze 100 kilobájt, így a gép újratelepítését követõen is képes újraépíteni magát.
+
+Amennyiben a kliens azt a választ kapja a Monitoringtól, hogy a gép lopott, az adatokat 15 percebként frissíti, az Absolute csapata pedig megkezdi az információk elemzését, és felveszi a kapcsolatot a megfelelõ helyi hatóságokkal is, hogy behatárolják a számítógép helyzetét. A hatóságokkal együttmûködve a Computrace évente több ezer notebookot szerez vissza, sõt, annyira bíznak szolgáltatásukban, hogy Észak-Amerikában, az Egyesült Királyságban és Ausztráliában garanciát is vállalnak a 60 napon belüli megtalálásra, gépenként 1000 dollár értékig.  
+
+Töröljük le!
+
+
+Nemcsak a notebookok (vagy akár távoli asztali gépek) nyomon követésére nyílik lehetõség, hanem a rajtuk tárolt érzékeny információk védelme érdekében adatok törlésére is. Az arra felhatalmazott személy, fizikai tokennel megtámogatott azonosítás után kezdeményezheti az adattörlést a felügyelt gépeken. A teljes törlés helyett meghatározható azon fájloknak és könyvtáraknak a köre, melyeket meg kell semmisíteni.
+
+A Computrace algoritmusa megfelel a NATO adattörlési elõírásainak, a merevlemez érintett felületét ugyanis hatszor írja felül 0101 mintázattal, majd hetedik alkalommal véletlenszerû adatokkal -- ezzel visszaolvashatatlanná válik annak tartalma még az olyan laboratóriumi eszközökkel rendelkezõk számára is, mint amilyen például a Kürt. A törlési folyamat nem megállítható, ha a gépet újra is indítják, a törlés folytatódni fog, és visszafordíthatatlan. A szolgáltatás listaára évente gépenként 50 dollárról indul, és a megrendelt szolgáltatásoktól függ (nyilvántartás, nyomon követés és visszaszerzés, adattörlés).
+
+Hasonló fizikai védelem kifejlesztésén dolgozik az Intel is. A Centrino vPro részének szánt Anti-Theft Technology (ATT) az alaplapra integrált mikrokontrollerekre épít, ami a rendszer mûködõképességéhez szükséges áramköröket felügyeli. Ezek a mikrokontrollerek távolról és helyben is vezérelhetõek a vPro AMT rendszerén keresztül a megfelelõ azonosítást követõen (melynek megbízhatóságáról TPM chip gondoskodik természetesen) így automatizált védelmi politikákat lehet kialakítani. A mikrokontrollerek képesek a merevlemezt, vagy akár a teljes rendszer használhatatlanná tenni, amennyiben erre hitelesített utasítás kapnak a központtól. Az ATT a vállalat ígérete szerint még idén elkészülhet.

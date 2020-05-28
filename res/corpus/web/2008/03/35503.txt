@@ -1,0 +1,12 @@
+Programozási felületet készített a Google a kapcsolatainkhoz
+
+[eWeek, HWSW] Végre megjelent a Google egyik leginkább várt programozási felülete (API), mellyel a weboldalak készítõi, az alkalmazások fejlesztõi hozzáférhetnek a Google számlánkban tárolt kapcsolatokhoz. A Google Contacts Data API-val mobiltelefonos szinkronizáló szoftverek és webes importáló appletek készíthetõk.
+
+
+
+A Google-nél tárolt kapcsolatainkat már eddig is importálhattuk például a Facebookba, vagy a WAYN kapcsolatépítõ oldalon tárolt adatainkba, eddig azonban ehhez ki kellett adnunk felhasználói nevünket és jelszavunkat -- ez nem éppen biztonságos megoldás. A programozási felülettel most anélkül férhetnek hozzá --jóváhagyásunkat követõen -- az oldalak ezekhez az adatokhoz, hogy a jelszavunkat el kellene árulnunk.
+
+A Google egységesített felületen tárolja kapcsolataink adatait, melyet a GMail, a Reader és a Calendar is használ, megoszt. Az API-val nem csak olvasni, hanem szerkeszteni és törölni is lehet az egyes kapcsolatok adatait, így komplett szinkronizáló szoftverek is készülhetnek lényegében bármilyen telefonhoz, tenyérgéphez, vagy alkalmazáshoz.
+
+
+A Google Contacts Data API-ra régóta vágytak, vártak a fejlesztõk, hiszen a jelenlegi megoldások nem voltak valami biztoságosak. Az eddigi "házibarkács" fejlesztések a felhasználói név és jelszó birtokában beléptek helyettünk és robotok segítségével gyûjtötték össze a szükséges információkat. A jelszavunk kiadása azonban még a megbízhatónak titulált oldalakon is alapvetõ biztonsági rést jelentett a pajzsunkon, az importálást követõen érdemes volt azonnal megváltozatani Google számlánk jelszavát.

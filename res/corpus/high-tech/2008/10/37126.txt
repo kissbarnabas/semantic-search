@@ -1,0 +1,24 @@
+EMC: a mi flash-technológiánk más!
+
+Egy bécsi rendezvényen mutatta be az EMC új középkategóriás tárolóját, a Clariion CX4-et, amely akár SSD-vel is kérhetõ. Úgy tûnik, a vállalat továbbra is szkepticizmust tapasztal a flash technológia életképességével kapcsolatban, ezért nagy hangsúlyt fektettek arra, hogy bebizonyítsák, a tárolóikban használt SSD-k teljesítményben és megbízhatóságban is felette állnak a fogyasztói megoldásoknak -- ahogy ezt egy vállalati terméktõl el is várhatjuk.
+
+ 
+
+Megbízható?
+
+Az EMC csúcskategóriás Symmetrix és a középkategóriás Clariion tárolóiban alkalmazott flash meghajtók olyan távol esnek a konzumer megoldások, amennyire csak lehet. Christian Putz platformstratégiai szakértõ a HWSW kérdésére elmondta, az STEC vállalattal szoros együttmûködésben kifejlesztett meghajtók a lehetõ legnagyobb teljesítmény érdekében SLC (single level cell) felépítésûek, kétportos Fibre Channel interfésszel rendelkeznek és képesek párhuzamos írási és olvasási mûveleteket is végrehajtani.
+
+Az EMC által használt flash meghajtók írási és olvasási teljesítményét fokozzák a nagyméretû DDR SDRAM cache-ek, amelyek tápellátását beépített akkumulátorok biztosítják még akkor is, ha maga a tároló áramkimaradás vagy egyéb ok miatt leállna -- így adatvesztés ellen is biztosított a rendszer.  Míg a fogyasztói termékek esetében a flash memóriákat általában szekvenciális írásra és olvasásra optimalizálják, a vállalati termékeket véletlen elérésre tervezik, a jellemzõ szerverfeladatok ugyanis ilyen terhelést jelentenek a tárolóknak.
+
+
+ A flash memóriákkal kapcsolatos egyik jellemzõ aggodalom a fáradással kapcsolatos. A technológia sajátossága, hogy a memóriacellák csak korlátozott számban írhatók, ezután elfáradnak, tartalmukat ugyan megõrzik, de már nem lehet õket módosítani vagy törölni. A korszerû flash memóriáknál egy cellát már több milliószor lehet újraírni fáradás nélkül, de az élettartam maximalizálása érdekében a gyártók a flash meghajtók a névlegesnél nagyobb kapacitásúak, így ha a cellák elkezdenek elfáradni, rendelkezésre áll "tartalék" terület. 
+
+Az élettartam szempontjából sem mindegy tehát, hogy SLC vagy MLC (multi-level cell) felépítésû flash memóriachipeket használnak egy flash meghajtónál. Mivel az MLC flash chipek egy cellában több bitet tárolnak, ezek hamarabb el is fáradnak az SLC memóriáknál, hiszen a cella azonos felhasználás mellett is sûrûbben módosul. Emellett olyan algoritmusokat vetnek be a cégek, amelyek gondoskodnak róla, hogy az cellák kiegyenlített terhelést kapjanak -- a legegyszerûbb eljárás, ha mindig a legrégebben írt cellát írják felül. Az EMC tárolóiban használt SSD-k gyártója, az STEC cellánként kétmillió írási ciklust garantál fáradás nélkül, így a meghajtók élettartama hosszabb, mint a mozgó alkatrészekkel dolgozó merevlemezek két meghibásodás között eltelt ideje.
+
+Több tucat merevlemez helyett
+
+A flash technológia nem csak megbízhatóságban gyõzi le a merevlemezeket az EMC szerint, a legfõbb elõnyt a nagyobb teljesítmény és a kisebb fogyasztás adják. Teljesítményigényes környezetben nem ritka, hogy a vállalatok több tucat merevlemezt használnak párhuzamosan annak érdekében, hogy a lehetõ legtöbb fej dolgozhasson egyszerre -- így érhetõ el a legtöbb I/O-mûvelet adott idõ alatt. A flash meghajtók jóval gyorsabbak a tányérokat pörgetõ társaiknál, az EMC adatai szerint egy SSD így 30 diszket válthat ki I/O-sebesség tekintetében. A flash meghajtók fogyasztása és hõtermelése már egy merevlemezének is töredéke, harminc diszkkel szemben pedig már nagyságrendi elõnyben van.
+
+Az SSD-k teljesítményére jellemzõ egyébként, hogy egy Clariion CX4-be legfeljebb 15 építhetõ belõlük, ennél több már olyen szinten szaturálná a belsõ interfészeket, hogy a gépbe épített merevlemezek egyáltalán "nem jutnának szóhoz" -- mondta Putz. Annak érdekében, hogy a CX flash meghajtókat is kaphasson, a teljes architektúrát újra kellett tervezni Putz szerint, a korábbi CX3 változat nem rendelkezik elegendõ belsõ sávszélességgel ahhoz, hogy hatékonyan kiaknázhatóak legyenek az SSD-k megnövekedett I/O-teljesítményében rejlõ elõnyök.
+
+Az EMC elképzelései szerint a flash meghajtók afféle nulladik szintû gyorstárként dolgoznának az Fibre Channel meghajtókkal karöltve -- a fizikai formátumuk azonos, az egységek lecserélhetõk. Mivel a flash meghajtók sebessége és késleltetése töredéke a merevlemezekének, a használatukkal olyan jelentõs teljesítmény-növekedést lehet elérni egyes területeken, hogy harmincszoros árkülönbség is igazolható -- de konkrét árakat nem hoz nyilvánosságra a cég.

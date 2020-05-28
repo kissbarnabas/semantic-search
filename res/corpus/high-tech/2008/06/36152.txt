@@ -1,0 +1,19 @@
+Atomcsapás az NVIDIA-tól: megjelent a Tegra integrált rendszerchip
+
+Az NVIDA bejelentette integrált Tegra chipjeit, amelyektõl nem mást remél, mint a "második PC-forradalom" kirobbantását. A vállalt szerint az aprócska, tízcentes pénzérménél is kisebb chip köré olyan mobil multimédiás eszközök építhetõk, amelyek számára nem jelent gondot a weboldalak megjelenítése, nagyfelbontású videók lejátszása, vagy a 3D grafika sem, mégis akár egy egész napon át mûködnek akkumulátorról.
+
+
+
+
+ A Tegra család két sorozatot ölel fel, a már korábban bejelentett, de most átmárkázott APX, amelyet inkább mobiltelefonokba, PDA-kba szánnak, valamint a nagy kijelzõvel, billentyûzettel és vezeték nélküli hálózati vezérlõvel felszerelt eszközökbe szánt, vadonatúj fejlesztésû CSX, amelybõl a 600-as és 650-es változatot jelentette be az NVIDIA.
+
+A Tegra CSX célja rivalizálni az Intel Atommal, bár az összehasonlítás némileg sántít, az Atom ugyanis egy x86 processzor, amin akár Windows Vistát is lehet futtatni, az NVIDIA Tegra CSX pedig egy parányi rendszerchip (system on a chip), amely az ARM11 architektúrára épülõ processzor mellett tartalmaz egy ultra-alacsony fogyasztású GeForce GPU-t, a northbridge-et és a southbridge-et is. A két megközelítés sem teljesítményben, sem fogyasztásban nem egy kategória, bár a megcélzott eszközök körét nézve azért találhatunk átfedéseket.
+
+
+
+
+Ilyen gépeket képzel a Tegra köré az NVIDIA
+
+A Tegra CSX sorozat két tagja között az eltérés a processzor órajelében, illetve a videoképességekben keresendõ, a 650-es verzió legfeljebb 1920x1080 pixeles kijelzõt támogat és az 1080-as filmekkel is elboldogul az 1280x1024 felbontású megjelenítõket támogató 600-as változat ereje csak a 720p videók lejátszására elég. Mindkét lapka hardveres gyorsítást kínál JPG formátumú képek megjelenítéséhez, valamint támogatja a legnépszerûbb hangformátumok (AAC, AMR, WMA, MP3) megszólaltatását is.
+
+Az NVIDIA szerint a Tegra nem csak fogyasztásban és méretben körözi le az Intel Atomot, hanem árban is, bár egyelõre nem tudni, a CSX sorozatba tartozó chipekért mennyit is kér majd a cég az õszre ígért megjelenéskor. 

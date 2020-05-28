@@ -1,0 +1,24 @@
+A Google az egyik legnagyobb spammer a világon
+
+[IW/HWSW] A világ egyik legnagyobb online szolgáltatóját, a Google-t a Spamhaus nevû szervezet beválogatta a 10 legnagyobb spammer közé, amit azzal érdemelt ki, hogy a levelezõ szolgáltatásain keresztül nagy mennyiségben indulnak útra kéretlen levelek. Érdekes, hogy a nagy szolgáltatók közül csak a Google érdemelte ki a megrovást.
+
+
+
+Spammer Top 10 2008
+
+Az ilyesfajta kínos eset elkerülhetetlen még a Google számára is, hiszen azokkal a rendszerekkel, melyekkel vissza lehet élni, vissza is fognak. A spamellenes civil szervezet állítása szerint minden hálózatüzemeltetõ azt állítja magáról, hogy megtesz mindent a kéretlen levelek ellen, ugyanakkor sok esetben réseket hagynak, mivel azok befoltozása drága lenne vagy bonyolult, sõt, egyes szereplõk üzleti lehetõséget is látnak az illegális tevékenységek megtûrésében.
+
+A nonprofit szervezetként üzemelõ, spamkövetéssel foglalkozó Spamhaus jelenlegi listája szerint a spamküldés támogatásának szempontjából 10 legrosszabb szolgáltató a sistemnet.com.tr, a hostfresh.com, a google.com, a vsnlinternational.com, gilat.net, cnuninet.com, uatelecom.co.ua, sprint.net, verizon.com, simplenet.com. Jól látszik, hogy az amerikai hegemónia mellett feltûnnek a keleti versenyzõk is, mint a török vagy ukrán szolgáltatók.
+
+A kevés renitens feketít
+
+A Spamhaus szerint a világon mûködõ internetszolgáltatók közül a legtöbb sikeresen távol tudta tartani magától a spamküldõket, illetve azon dolgoznak, hogy pozitív spam-ellenzõ hírnévre tegyenek szert, de a munkájukat aláaknázza, hogy néhány hálózat magasról tesz a közösen elfogadott elvekre és gyakorlatokra. A fenti definíció illik a nemrégiben kiiktatott McColo szolgáltatójára, aminek eltávolítása hirtelen megfelezte a globális spammennyiséget. 
+
+
+ Ugyanakkor a Google-re nem alkalmazható ugyanez a besorolás, sem más egyéb, hiszen a cégnek egy alapjában véve jól mûködõ spamvédelmi csapata van, aktív erõfeszítéseket tesz a spammerek távoltartásáért, folyamatosan dolgozik a védekezésen, felismerte, hogy milyen hálás dolog a felfedezett biztonsági rések bezárása, sõt, a szabályzatai úgy lettek megírva, hogy korlátozzák a visszaélés lehetõségét és támogatják a közösségi kontrollt.
+
+A Google elkerülhetetlen végzete
+
+Miért került hát fel a listára, ráadásul dobogós helyre? Azért, mert a Google egy óriási szolgáltató komplex rendszerekkel, aminek szembe kell néznie azzal, hogy a bûnözõk meglátták benne a lehetõséget. Ezek a szereplõk pedig képesek arra, hogy maguk feldezzék fel a réseket, és maguk találják ki, hogyan lehet visszaélni a szolgáltatással.
+
+A Google folyamatosan macska-egér játékot játszik ezekkel az emberekkel -- hasonlóan például a keresõoptimalizálásra szakosodott csalókhoz. Ha problémás tevékenységet észlelnek, akkor az adott fiókot azonnal letiltják, egy új felhasználó létrehozása azonban ma már nem tétel a spammereknek, akik a captcha-védelem kijátszásával akár tízezres nagyságrendben is gyárthatják a fiókokat, és így milliószám küldhetik ki kéretlen leveleiket, kellemetlenséget okozva nem csak a Google-nek, hanem a Gmailt használó becsületes embereknek is.

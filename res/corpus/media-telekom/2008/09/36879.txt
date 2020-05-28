@@ -1,0 +1,14 @@
+Már a Pannonnál is elérhetõ a BlackBerry push e-mail
+
+BlackBerry szolgáltatást indít a Pannon, így ezzel mindhárom hazai mobilszolgáltatónál hozzáférhetõ a Research In Motion push e-mail megoldása. Az egyéni felhasználóktól a nagyvállalati ügyfelekig minden üzleti felhasználónak kínált szolgáltatás mellé két BlackBerry készülék is érkezik az operátor kínálatába. 
+
+
+
+A Vodafone és a T-Mobile után évekkel végre a Pannon is lépésre szánta el magát, és a belépett BlackBerry szolgáltatást kínálók táborába. A kanadai Research In Motion (RIM) 1997-ben dobta piacra az elsõ BlackBerry készüléket, melyhez push e-mailt kínáló szolgáltatásával rohamos léptékkel tört be az üzleti piacra, ahol az irodán kívül tartózkodó, költséges alkalmazottak kommunikációját tette hatékonyabbá. Az elektronikus levelezést az SMS gyorsaságához hasonlóvá tévõ BlackBerry push e-mail olyannyira sikeres és nélkülözhetetlen alkalmazássá vált az elmúlt években hogy az angol szleng a CrackBerry gúnynévvel ruházta fel.
+
+
+A Pannon a szolgáltatáshoz kezdetben a felsõkategóriás, mindentudó BlackBerry 8820 és az ultravékony és könnyû Pearl 8100 készülékeket kínálja, más támogatott készülékek megjelenése késõbbre várható. A push e-mail nemcsak a RIM BlackBerry készülékeken érhetõ el, a BlackBerry Connect szoftvere révén más gyártók mobiltelefonjaira is hitelesíti a szolgáltatást, így például a Nokia E-sorozat számos tagjaira, vagy a Sony Ericsson egyes okostelefonjaira.
+
+Ahogyan azt más operátoroknál is megszokhattuk, a saját levelezõszerverrel rendelkezõ vállalatoknak a BlackBerry Enterprise szolgáltatást kínálja, melyben az Exchange, Lotus Domino vagy GroupWise szerverekre csatlakozik a BlackBerry Enterprise Server, melyet lokálisan kell telepítenie az ügyfélnek. A hosztolt e-mailt használó kisebb cégek és egyéni felhasználók számára a BlackBerry Internet Solution érhetõ el, mely készülékenként akár 10 fiókot képes figyelni, és integrálódni az olyan népszerû ingyenes e-mail szolgáltatásokkal, mint a Hotmail/MSN, Google Mail vagy a Yahoo! Mail. A RIM áprilisban 14 millió felhasználóról számolt be.
+
+Az Enterprise szolgáltatás havidíja bruttó 6300 forint felhasználónként, melyhez 20 megabájt forgalom jár, míg a az Internet Solution bruttó 1980 forintos alapdíj mellett 10 kilobájtonként 4,8 forintot számláz. A Vodafone BlackBerry Internet 2700 forintért 50 megabájtnyi forgalmat engedélyez, a nagyobb csomagok díjszabása nem publikus. A T-Mobile az Enterprise-ért havi 6600 forintot kér, ezért 20 megabájtot nyújt, ezen felül 9,60 forintot kér 10 kilobájtonként, a BlackBerry Instant E-mail pedig 1990 forintért rendelhetõ, de internetelõfizetés mellé már 990-ért is kérhetõ. Mindhárom szolgáltatónál jellemzõ, hogy egy internet-elõfizetés adatforgalmába számít bele a BlackBerry kommunikációja, csökkentve annak extra költségeit.

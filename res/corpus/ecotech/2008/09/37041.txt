@@ -1,0 +1,20 @@
+A szakemberhiány lehet a nyílt forrású szoftverek terjedésének gátja
+
+A vállalatok nagyrésze ma már úgy gondolja, a nyílt forrású szoftverek több elõnnyel rendelkeznek mint hátránnyal -- derül ki az üzleti intelligencia szoftvereket gyártó Actuate Corporation által elvégeztetett felmérésbõl. A további terjedés legfõbb gátja a szakemberhiány lehet.
+
+
+
+Növekvõ bizalom
+
+Az Actuate közel ezer informatikai vezetõt kérdezett meg amerikai, brit, német és francia vállalatoknál, illetve kormányzati szervezeteknél. Az eredmények nem meglepõk, egyre több helyen használnak nyílt forrású szoftvereket, ezen a területen Európa mindig is élenjárónak számított. A kontinensen belül a németek és a franciák körében a leginkább elfogadottak a nyílt szoftverek, náluk a cégek közel kétharmadánál (63%, illetve 61%) egy beszerzéskor kimondottan elõnyt jelent a nyílt forrás, vagy legalábbis fontos szempontja a választásnak.
+
+
+ Németországban már a vállalatok 51 százalékánál üzemel éles körülmények között valamilyen nyílt forrású szoftver, Nagy-Britanniában 43 százalék, Franciaországban 40 százalék ezek aránya. A leglassabban pedig az amerikaiak mozdulnak ebbe az irányba, náluk csak a vállalatok 40 százaléka használ nyílt szoftvert -- legalábbis az Actuate adatai szerint. A Forrester Research tavasszal közzétett felmérése szerint is az európai cégek, szervezetek vezetik a nyílt forrású szoftverekre való átállást.
+
+A megkérdezettek vállalatok több mint fele ma már úgy véli, a nyílt forrású szoftverek bevezetésének az elõnyei túlnõttek a hátrányokon. Az Actuate tavaly nyári felmérésében a mérleg még a hátrányok felé billent, vagyis a válaszadók kevesebb mint 50 százaléka vélte úgy, hogy az elõnyök túlnõnek a kockázatokon. A nyílt forrású szoftverekkel kapcsolatban persze továbbra is vannak kétségek, a terjedés legfõbb gátját azonban ma már nem a hosszú távú támogatástól való félelem képezi, hanem a bevezetéshez és üzemeltetéshez szükséges belsõ kompetencia hiánya. Ez egyben arra is utal, hogy a piacon nem csak szükség van nyílt forrású technológiákhoz értõ szakemberekre, hanem máris hiány van belõlük.
+
+Az ár a legfõbb vonzerõ
+
+Az Open Solutions Alliance felmérése szerint a kedvezõtlen gazdasági körülmények között a nadrágszíjat összehúzó vállalatok a korábbinál többet fognak költeni nyílt szoftverekre, a jelentõs licencköltség-megtakarítás miatt. A nyílt forrású szoftverek nem meglepõ módon az infrastruktúra terén járnak az élen, a válaszadók 47 százaléka szerint már "mainstream"-nek számítanak, míg a nyílt forrású alkalmazások esetében csak a megkérdezettek 20 százaléka vélekedett így.
+
+A nyílt forrású szoftverek legfõbb vonzereje továbbra is a relatív olcsóságuk, az OSA felmérésében a válaszadók 78 százaléka szerint ez volt az elsõ számú tényezõ, amely mellettük szól. Emellett fontos szerepet játszik a gyártófüggetlenség, de a kód hozzáférhetõsége és a megváltoztathatósága már csak kevesebbeket érdekel. A terjedés legfontosabb hátráltatójának a nyílt forrás körüli jogi kérdéseket, valamint a szállítók életképességét látja a piac, de sokan aggódnak a támogatás és a biztonság miatt is.

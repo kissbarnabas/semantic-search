@@ -1,0 +1,22 @@
+Toshiba SecuRed külsõ merevlemez ujjlenyomat-olvasóval -- drága titok
+
+A külsõ merevlemezek népszerûsége döbbenetes mértékben megugrott: a felhasználók egyre nagyobb mennyiségû adatot hordanak maguknál, mentenek le külsõ adattárolóra, és egyre többen akadnak, akiknek nem elég egy ma már viszonylag olcsón beszerezhetõ, 2-4 gigabájtos pendrive kapacitása. A külsõ adattárolók használata tehát egyre gyakoribb jelenség, ám általánosságban kijelenthetõ, hogy ma még kevesen fordítanak figyelmet a flash drive-on, vagy külsõ merevlemezen tárolt adatok biztonságára.
+
+
+
+A Toshiba új kiegészítõje, a SecuRed minden szempontból igyekszik megfelelni a fenti elvárásnak: a japán cég külsõ HDD-je hatékony védelmi rendszerrel zárja el az adatokat az illetéktelenek elõl, az egység burkolata emellett a fizikai behatásoktól is viszonylag jól védi a benne lakó érzékeny mechanikát. A külsõ merevlemezek közt már pusztán a színével is kitûnõ SecuRed egyébként egy 7200 fordulat/perces motorral ellátott -- tehát viszonylag gyors --, 2,5 hüvelykes HDD-t rejt magában. Az adattárból Magyarországon csak 200 gigabájtos változat kapható, ez biztonsági mentés készítésére ma már talán kissé szûkös kapacitásnak bizonyul, nagy mennyiségû adat hordozására, több számítógép közti szinkronizálására azonban elegendõnek bizonyulhat.
+
+
+
+A SecuRed nevéhez méltón vörösben pompázik, a külsõ merevlemez háza azonban nem csak ebbõl a szempontból különleges: avatott szemlélõknek azonnal feltûnhet az ujjlenyomat-azonosító, mely az adatvédelmi rendszer központi pillérét képezi. A házat gumírozott borítás veszi körbe, ami az ütõdéseket hivatott elnyelni -- valljuk be, ez inkább a házat védi az esztétikai sérüléstõl, mintsem a merevlemezt, annál is inkább, mivel a SecuRedbe egy gyorsulásérzékelõ szenzort is épített a Toshiba, ez pedig még azelõtt parkolópályára küldi a fejeket, mielõtt az egység földet érne. A meghajtóház elvileg cseppálló, amit jól szemléltet, hogy az egyik oldalon lévõ, gumírozott peremû USB-kapun kívül más csatlakozó vagy csavarhely nincs rajta.
+
+A külsõ merevlemezhez így mindössze egy USB-kábel csatlakoztatható, mely a számítógép oldalán kettéágazik, hogy szükség esetén két USB-portból is kaphasson tápellátást a HDD. A SecuRed a csatlakoztatás után azonnal felkínálja a jelszó beállítását, valamint kérésünkre regisztrálja az ujjlenyomatot is, melybõl tízet képes eltárolni. A rendszer jelszavas hitelesítése az SHA-256 algoritmus szerint mûködik, a merevlemezen tárolt adatokat 256 bites AES titkosítás védi.
+
+
+
+A SecuRed csatlakoztatása után elsõként -- kissé szokatlan módon -- egy új CD-meghajtó jelenik meg a rendszerben, majd a jelszó, illetve ujjlenyomat megadása után válik elérhetõvé a 186 gigabájtos NTFS-partíció. A virtuális CD-rõl telepíthetõ a Nomad Mobile Desktop alkalmazás, illetve a Redemption Backup V2, mely jól ellátja az alapvetõ adatmentési feladatokat. A Toshiba külsõ HDD-jére az USB-s kapcsolat korlátait figyelembe véve viszonylag gyorsan lehet adatot mozgatni, illetve gyorsan is olvasható az egység: egy modern, Core 2 Duo processzorral ellátott notebookhoz csatlakoztatva egyaránt átlagosan 20 megabájt/másodperc körüli írási és olvasási tempót mértünk a SecuRednél.
+
+
+A SecuRed azon kevés külsõ merevlemezek közé tartozik, melyek konyhakészen kínálnak hatékony titkosítási rendszert: bár az interneten több, akár ingyenesen hozzáférhetõ titkosítóprogramot is találni, melyeket kiválóan lehet használni külsõ adattárolók levédésére, ezek használata néha kissé körülményes, beállításuk pedig többnyire szakértelmet igényel. A Toshiba SecuRed koncepciója ráadásul nemcsak az adattitkosításra helyez hangsúlyt, hanem a fizikai védelemre is.
+
+A SecuRednek mindössze két gyenge pontja van, az egyik az operációs rendszerek támogatása: az adattároló mindössze Windows 2000, XP és Vista OS-ekkel kompatibilis, nincs sem Linux, sem Mac OS X támogatás. Másfelõl a Toshiba meglehetõsen borsos árat kér az adatbiztonságért: a SecuRed bruttó fogyasztói ára 50 ezer forint -- ennyiért akár két 160 gigabájtos Western Digital külsõ HDD-t is lehet kapni, ráadásul azokból is van piros változat, igaz, nem jár hozzájuk ujjlenyomat-olvasó és az erre épülõ erõs titkosítási rendszer.

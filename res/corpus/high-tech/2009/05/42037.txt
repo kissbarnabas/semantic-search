@@ -1,0 +1,52 @@
+Navigációs készülékek jelene és jövõje
+
+Ha a témában nem ássuk el magunkat rendesen, azt gondolhatnánk, hogy a GPS-vevõvel ellátott, helyzetmeghatározásra és navigációra alkalmas készülékek megjelenésük óta kimerítették a velük kapcsolatos lehetõségeket, legfeljebb finomítani lehet a mûködésükkel kapcsolatos részleteken. Cikkünkbõl kiderül, hogy ez korántsem igaz, és bár a józan ész is azt diktálja, hogy nincs fontosabb annál, hogy egy készülék "a-ból b-be" vigyen, ennek módját ezernyi apró ötlet és fejlesztés teheti és teszi már ma is kellemesebbé, izgalmasabbá. A fejlesztések a hardvert és szoftvert egyaránt érintik, utóbbi azonban egy kicsit többet táncol a célkeresztben.
+
+LCP Systems: a jövõ a hálózaté
+
+Czipa András, az IconX termékekkel piacra lépõ LCP Systems marketing-vezetõje szerint leginkább a szoftverek által kínált plusz tartalom szélesítésén, az egyszerûbb átláthatóbb kezelhetõségen, valamint az online adatkapcsolaton van ma a hangsúly. Cél, hogy a készülékek elsõ használatba vételét ne elõzze meg a kézikönyv többórás forgatása, a navigációs szoftverek kezelését olyan felhasználók is könnyedén elsajátíthassák, akiknek egyébként a technikai újdonságok nem jelentenek sokat, csak egy fontos használati eszközt látnak a termékben, melyre esetenként nagy szükségük lehet. A jövõben eltûnnek az adatkapcsolatot nem kínáló készülékek, helyüket olyanok veszik át, melyeknek frissítését nem csak a számítógépünkön keresztül, az íróasztalunk mellõl intézhetjük, hanem akár WLAN-on vagy mobilhálózaton is.
+A Czipa András által látott jövõképbe tökéletesen illeszkedik a Pocket Guide szoftver is, melyet amolyan virtuális idegenvezetõként kell elképzelnünk. A PNA-készülékeken használható szoftver az adott helyzetünk közelében található nevezetességeken, látnivalókon vezethet végig, a bejárható túra aszerint szélesíthetõ, hogy mennyi idõt szánunk rá. Ha csak két óránk van, az útvonal rövidebb, ha három órát szánunk rá, akkor a készülék a bejárható helyszínek számát növeli és így tovább. A túra során fotók láthatók a kijelzõn, valamint hangos kalauz is hallgatható, melyeket szöveges információk is kiegészíthetnek. A Pocket Guide hasznos infókat természetesen egyéb területekrõl is szolgáltat, a frissen letöltött adatbázisában, ATM-ek, éttermek, szórakozóhelyek, hivatalok, vagy akár egyéb hasznos helyek adatai is megtalálhatók.
+
+
+
+
+Az érdekes pontokat (POI) tartalmazó adatbázison jelenleg nagy a hangsúly, az LCP Systems marketing-vezetõje szerint itt kell a fejlesztõknek a legtöbb plusszal kiegészíteni a készülékek alapfeladatait, vagyis a helyzetmeghatározást és az útvonaltervezést. A területtel kapcsolatban nagyon fontos, hogy az információk minél szélesebb kört fedjenek le, illetve ezek az adatok minél frissebbek legyenek. E két jellemzõ szétválaszthatatlan, hiszen semmi szükség egy olyan étterem adataira, amely rég bezárt. A POI-adatbázis frissen tartása adatkapcsolatra alkalmatlan készülékekkel otthonunktól távol csak igen körülményesen oldható meg, ez az egyik ok ami a kihalásukhoz vezethet az elkövetkezendõ két-három évben.
+Az elvárt minimum legalább egy Bluetooth-rádió a mobiltelefonos kapcsolathoz, vagy egy beépített Wi-Fi adapter, de a készülékek akár a saját SIM-kártyahelyig is elmehetnek. Czipa András egy, a fejlõdést gátló tényezõre is felhívta a figyelmet: bár hazánkban igen kedvezõ áron kínálják a csomagokat a mobilszolgáltatók, a roaming díjak ezekhez ma még nem igazodnak, külföldön pedig erre nagy szükség lenne. Az útközben érkezõ információk természetesen a térképadatbázison kívül számos területen lehetnek szükségesek, ezek között közlekedési információk, traffipax-adatok, turisztikai és idõjárással kapcsolatos hírek is lehetnek, de mindezt megfejelheti a felhasználók által közölhetõ halmaz is, melybe az útvonallal kapcsolatos bejelentések, úthibák ismertetése is szerepelhet -- a felhasználók közösséget alkotva megoszthatnák egymással a tapasztaltakat.
+A TMC-adatokat (Traffic Message Channel)  jelenleg rádiójel formájában kapják az arra alkalmas készülékek, bár a forgalmi körülményekkel kapcsolatos információk késõbb Czipa szerint a mobilszolgáltatók hálózatát használva is érkezhetnének. A kétirányú kapcsolat túlmutat a jelenlegi TMC-n, lehetõvé tenné, hogy a készülékek (tágabb értelemben véve maguk az autók) egymással is kommunikálhassanak, azok haladási sebességének számítása is értékesebb szolgáltatást eredményezne. A jelenleg üzemelõ rádiófrekvenciás rendszer erre nem ad lehetõséget, a készülékek sebességgel kapcsolatos adatokat automatikusan nem adhatnak, így nem járulhatnak hozzá az adott forgalmi helyszínek, dugók feltérképezéséhez. A Becker legújabb GPS-vevõje érdekes mankóval hidalja át a kétirányú adatközlés hiányát, pluszként a a múltbéli adatokat is felhasználja az útvonal tervezéséhez, így arra a helyszínre, amelyen az adott idõszakban eddig rendszeres volt a dugó, nem viszi be az autóst, ezeket a pontokat már a tervezés pillanatában ejti.
+
+
+
+
+A mobil internetkapcsolat még a traffipaxok helyzetének jelenleginél pontosabb ismeretéhez is jól jönne, az adatbázis így nem csak az utazás megkezdése elõtt lenne közölhetõ a készülékkel, hanem menet közben is. A folyamatos adatkapcsolat egyéb információk esetén is hasznos lehet, az általunk épp bejárt helyszínre jellemzõ adatok frissen is elérhetõk lennének. Adatkapcsolat híján errõl a felhasználónak tervezve, még a számítógépe elõtt ülve kell gondoskodnia, de így a váratlan, csak az utazás során közbejött kitérõk helyszínei biztosan nem fedhetõk le. Czipa András reménykedve tekint a jövõbe. "Talán lesz majd egy rendszer, mely az egyszer megvásárolt SIM-kártyával rendelkezõ készüléket annak élettartama alatt végig ki tudná szolgálni és minimális elfizetési díjért, vagy a vételárba beágyazva, csak az adatforgalmi díjat számolva minden olyan friss és aktuális tartalom elérhetõvé válna, mely a navigáció során fontos lehet." 
+
+A Mio is az adatkapcsolatra szavaz
+
+Banga Zsuzsanna, a Mio marketing-managere szerint is a mobil adatkapcsolaté a jövõ, ezen felül pedig a készülékek által kínált szolgáltatások szélesítéséé, melyek a szórakozás és az információk közlésének területére fokozottan fókuszál. A gyártó nyáron frissíti termékpalettáját, az új Moov modellek egységesen az érintésérzékeny kijelzõt igénylõ Spirit kezelõfelületet alkalmazzák, melynek talán legfõbb jellemzõje a sallangmentes, informatív megjelenítés, legyen szó navigációról vagy éppen képek megjelenítésérõl.
+A Mio érkezõ, kamerával felszerelt modelljeiben a fényképek készítésének helye is rögzítésre kerülhet (geotagging), ezen felül még a Flickr képmegosztó képei is rátölthetõk a készülékekre. A termékek akár idegenvezetõként, illetve útikönyvként is használhatók lesznek, az adatbázisban jelenleg már nyolc nagyváros (köztük Budapest is) elérhetõ. A cég egyéb területeken is fejleszt,&nbsp;&nbsp; idõjárással kapcsolatos információk, traffipax helyszínek ismertetése és a fogyasztáscsökkentés is célzott terület. A felhasználónak arra is lesz lehetõsége, hogy saját maga által készített értékelésekkel jellemezzen egy bejárt helyszínt, illetve annak érdekes pontjait. Banga Zsuzsanna elmondta, hogy a Mio Magyarországon -- a Google Mapshez hasonlóan -- a TeleAtlas adatbázisából dolgozik, ezért az is megoldható, hogy a számítógépen a Google Maps alkalmazás használatával megtervezett útvonalat az új Mio-termékekre át lehessen tölteni.
+
+
+
+A Mio fejlesztéseihez internethasználattal kapcsolatos felmérések is szolgáltatják az alapokat, meglepõ adat ezek közül például, hogy múlt év szeptemberében a világszerte 972 millióan böngésztek és 24 százalékuk olyan oldalakat is felkeresett, melyek térképekkel és útvonaltervezéssel kapcsolatos információkat szolgáltatnak. Az arány az európaiak esetében a még markánsabb, a 30 százalékot is elérte az adott idõszakban. Mindezek mellett érdekes és kicsit érthetetlen is egyben, hogy a navigációra alkalmas készülékek vásárlóinak mindössze 10 százaléka frissíti a térképadatbázist a termék életében. Nem elhanyagolható információ,hogy a Mio a térképfrissítés díját magára vállalja a megvásárolt termék elsõ használatbavételétõl számított egy évig, mely két frissítést foglalhat magában. Hívhatjuk ezt ingyenesnek is, ám jó tudni, hogy a frissítés minden esetben pénzbe kerül, mely anyagi terhet a Mio az adott, fenti idõszakra átvállalja.
+
+
+
+
+A Mio nagy reményeket fûz a K70/K75 duóhoz. A közeljövõben megjelenõ, érintésérzékeny kijelzõvel ellátott, 3 megapixeles kamerával rendelkezõ okostelefonok között annyi a különbség, hogy térképpel, vagy anélkül érkeznek, fizikailag mindkettõ rendelkezik a szükséges (Qualcomm) vevõegységgel. A teljes elõlapot elfoglaló, 3,5 hüvelykes, 400x240 képpontos kijelzõ alatt 528 megahertzes Qualcomm processzor, önmagában szûkös 128 megabájt memória található, melyet kiegészíthetünk microSD-kártyékkal is. A Bluetooth, Wi-Fi, valamint HSUPA-kapcsolatokra alkalmas, 115 grammos telefonon Windows Mobile 6.1 Professional operációs rendszer fut, ezért a Mio saját Mio Spirit szoftvere mellett akár egy korábbi windowsos készüléken megszokott térképalkalmazás is futhat. Természetesen utóbbi esetre a kisebb modellszámú, K70-es készülék ajánlott, melynek vételárát nem növeli a gyártó programja.
+ A gyártó nem csak a telefonokra, hanem a tartozékokra is nagy hangsúlyt fektetett, a mobilduó autóstartója egyike az eddigi legbiztosabban tartó változatoknak, ráadásul lehetõvé teszi a fektetett üzemmódban történõ használatot is, ha már a készülék a portré-tájolás mellett erre is alkalmas. A Magellan felvásárlása után a Mio nem csak az Egyesült Államokban nyerhet pozíciót, hanem világszerte is, hiszen a Magellan termékek között több, elemeknek ellenálló modell is található, melyek elõnyei túrázáskor, autótól távoli helyzetekben villanhatnak meg. Ilyen például a törésbiztos burkolat, vagy az átlagnál hosszabb akkumulátoros üzemidõ is.
+	     
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                    A cikk több oldalból áll:
+                    
+                    
+                        1. oldal: Navigációs készülékek jelene és jövõje
+                      
+                        2. oldal:  Több információt a felhasználónak!
+                        
+                    
+                  

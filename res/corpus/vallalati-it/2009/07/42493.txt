@@ -1,0 +1,11 @@
+Zero day támadás alatt az Internet Explorer 6 és 7 
+
+A felhasználói jogosultságokat szerzõ távoli kód végrehajtása nem igényel felhasználói aktivitást azon kívül, hogy a rosszindulatú kódot tartalmazó weboldalra kell látogatni. Nem tudni, patch mikor készül el a szoftverekhez, de a Microsoft kínál megoldást az Active X érintett részeinek kikapcsolásával.
+A folyamatban lévõ újabb tömeges cross-site scripting, pontosabban drive-by támadás legitim weboldalak ezrei ellen irányul, aminek során olyan ártó kódot injektálnak beléjük, melyek az Windows XP és Sever 2003 operációs rendszereken az IE 6 és 7 böngészõkön és az ActiveX vezérlésen keresztül távoli kódot hajtanak végre. A Microsoft közleménye szerint a támadó a felhasználóéval megegyezõ privilégiumokat szerez -- ez sok esetben közel teljeskörû hozzáférést jelent egy XP rendszeren. A Vista, Server 2008 és az IE 8 felhasználók nincsenek veszélyben, állítja a Microsoft.
+
+A Microsoft vizsgálata szerint a támadás olyan Video ActiveX vezérlõkön keresztül történik, melyekre valójában nem is lehet szüksége az IE-nek, éppen ezért a vállalat azt tanácsolja, hogy távolítsuk el ennek támogatását a böngészõbõl. Bár az újabb Windows változatok nem érintettek, a Microsoft mégis azt tanácsolja, hogy ezekben is kapcsoljuk ki ezt a vezérlõt, melyet az msvidctl.dll tárol. Ezt a registry módosításával lehet elérni, aminek elméletileg semmiféle hatása nem lehet a rendszer funkcionalitására, így  az alkalmazások kompatibilitására.
+A támadási vektort blokkoló megoldás a közlönyben található a Suggested Actions/Workarounds szekcióban, de aki nem maga szeretné hackelni a regisztrációs adatbázist, annak a Microsoft elkészítette a szükséges telepíthetõ fixet -- vigyázzunk, hogy a Windowsban ne legyen folyamatban vagy felfüggesztett telepítés, mert az összekaszthatja a fix telepítõjét. A fix letölthetõ a cég tudásbázisából. Egyelõre nem tudni, hogy az IE 6 és 7 változataihoz elkészül-e következõ, július 14-ére esedékes patch keddre. Még a HWSW oldalait IE-vel látogatók is több mint 22 százaléka a 6-ost használja még mindig, 35 százalékuk pedig a 7-es generációt -- igaz, az IE összesített aránya mindössze 20 százalék mindössze, a Firefox megközelíti a kétharmadot.	     
+                  
+                  
+                  
+                   

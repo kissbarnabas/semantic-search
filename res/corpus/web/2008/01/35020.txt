@@ -1,0 +1,14 @@
+Elindult a Wikia Search közösségi keresõ - és közösségre van szüksége
+
+Elindult a Wikia Search, a közösségi keresõ alfatesztje, ahogyan azt a cég januárban megígérte. A Wikipedia ötletgazdája által alapított cég a keresõmotorok piacán igyekszik rést találni magának a felhasználók segítségére támaszkodva. A keresõmotor másik újdonsága, hogy szemben a vezetõ cégek motorjaival, nyílt forráskódú, így bárki hozzájárulhat a fejlesztésekhez.
+
+
+
+Jimmy Wales, a Wikipedia közösségi enciklopédia kiötlõje nagyjából egy éve alapította a Wikiát, mely egy nyílt forráskódú, a felhasználói visszajelzéseket is figyelembe vevõ keresõmotor kifejlesztését megcélzó, profitorientált vállalkozás. Wales szerint a Google, Yahoo!, Microsoft  és más vállalatok által kidolgozott gépi algoritmusok nem elég robusztusak, ugyanis nem képesek értelmezni a kereséseket. Véleménye szerint az emberi intelligencia továbbra is nagyon fontos abban, hogy relevánssá tegye a gép által kihozott találatokat.
+
+A Wikipedia sikerén felbuzdulva Wales úgy gondolta, hogy a közösséget a keresési találatok javításába is be lehet vonni, ráadásul kétféle módon is. Az egyik, hogy a kapott találatok sorrendjét felülbírálhatják saját preferenciáik szerint, amit a szerver eltárol, és összegzi más hasonló felhasználói szerkesztésekkel, és ez alapján értékeli át újra és újra az egyes keresési eredmények helyezését. A másik a forráskód, így az algoritmusok nyitottsága, mellyel a szabad szoftverek sikerét kívánja leutánozni. Az üzleti modell a keresésekhez kötõdõ hirdetésekre épül.
+
+
+Az alfaállpotú Wikia Search nyilvánosan kipróbálható, bár maga a Wikia állítja, hogy a találati eredmények minõsége nem túl jó egyelõre. A felhasználók azonban már most segíthetik a motort. Az úgynevezett mini cikkek létrehozása például inputtal szolgál a motor számára, hogy növelje a találatok relevanciáját, míg a "fehér lista" feltöltésével csak a közösség által prémiumnak talált oldalakon keres a motor. Az ilyen szerkesztett indexek a jövõben akár tematikus csoportosításúak is lehetnek majd.
+
+A Wikia Search közösségi keresõ teszteléséhez és feltöltéséhez erre tessék.

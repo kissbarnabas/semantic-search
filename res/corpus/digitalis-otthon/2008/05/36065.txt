@@ -1,0 +1,13 @@
+Akár Wii konzolon is futhatnak az új SDK-val készült Opera Widgetek
+
+Új, bétás állapotú fejlesztõkészletet tett elérhetõvé az Opera Software, mely az Opera böngészõhöz készített kis alkalmazások, úgynevezett widgetek elkészítését és tesztelését teszi egyszerûbbé.
+
+
+
+Az új Opera Widget SDK-val a keresztplatformos widgetek megjelenését is tesztelhetjük, megnézhetjük, hogyan jelenik majd meg apró alkalmazásunk adott felbontású telefonon, a tévén -- a Wii letölthetõ böngészõjét használva --, vagy más eszközökön, például az Archos ezt támogató médialejátszóin. A norvég cég komoly, ám még bétás eszközt adott a fejlesztõk kezébe.
+
+Az SDK-val webes szabványoknak megfelelõ, CSS-t, JavaScriptet, Ajaxot és HTML-t alkalmazó apró webes programok írhatók, melyek a böngészõben futhatnak. Ezek az alkalmazások megmutathatják elektronikus postafiókunk állapotát, részvényeink állását, vagy a várható idõjárást is egyetlen gombnyomásra.
+
+
+
+A widgeteket támogatják majd az Opera mobilos böngészõinek új, 9-es sorozatú változatai, a symbianos böngészõk éppúgy, mint a Nintendo Wii konzolhoz letölthetõ verzió. A legnépszerûbb mobil böngészõ, az Opera Mini sajnos alkalmatlan az apró alkalmazások futtatására. A fejlesztõkészlet az Opera weboldaláról szerezhetõ be.

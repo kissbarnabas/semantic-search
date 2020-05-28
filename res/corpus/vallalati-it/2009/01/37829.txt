@@ -1,0 +1,26 @@
+Kis- és középvállalatokra szabott termékekkel rukkolt elõ a Cisco
+
+A barcelonai Networkers rendezvényen a Cisco Systems bemutatta kis- és középvállalatoknak szánt új termékeit. A hálózati eszközök vezetõ gyártója 2008-ban jelentette be, hogy 100 millió dollárt fektet kis- és középvállalatoknak szánt új termékek és szolgáltatások fejlesztésébe -- az elkötelezettség mostanra hozta meg elsõ gyümölcseit, egy spam- és vírusszûrõt, hálózati tárolókat, valamint egy IP-telefonokon alapuló kommunikációs megoldást.
+
+
+
+A cél a legfeljebb 250 alkalmazottal rendelkezõ cégek meghódítása, amelyeknek eddig nemigen kínált specialiált megoldásokat a Cisco: a Linksys-vonal inkább otthoni felhasználóknak, kisirodáknak szánt termékekbõl áll, a "nagy" Cisco brand alatt értékesített megoldásokat pedig inkább a nagyvállalatok és távközlési szolgáltatók igényeire reagálva fejlesztették és az árak is ehhez igazodtak -- eddig. Az utóbbi idõben az IT-szállítók egyre inkább koncentrálnak a kis- és középvállalatokra és ma már ez nem a nagyvállalati termékek "lebutított" változatainak piacra dobását jelenti. A KKV-k technológiai igényei folyamatosan fejlõdnek, másfelõl viszont olyan megoldásokat várnak el, amelyeket egyszerû beüzemelni és használni.
+
+Spam and Virus Blocker
+
+Az új termékek közül a Cisco Spam and Virus Blocker egy e-mail biztonsági készülék, amely az Ironport 2007-es akvizíciójának eredménye. Az 1U magas, rackbe szerelhetõ készülék 250 felhasználóig biztosítja a postafiókok védelmét a kéretlen levelektõl és a kártevõktõl. Elõbbiek kiszûrésére az Ironport saját, reputáción alapuló algoritmusa szolgál, amely a kéretlen levelek többségét egybõl eldobja, így mélyebb elemzésen sokkal kevesebb e-mail esik csak át, ami jótékony hatással van a berendezés áteresztõ képességére. A Cisco azt állítja, a Spam and Virus Blocker egymillióból mindössze egy levelet aznosít tévesen kéretlen reklámnak.
+
+A termék nem csak hatékony, hanem egyszerûen kezelhetõ is, így azok a cégek is könnyen telepíthetik és használatba vehetik, amelyek nem rendelkeznek saját rendszergazdával (bár egy 250 fõs cégnél azért ez ritka). A beállítások igen egyszerûek, elég megadni az eszköz saját IP-címét és a hálózati paramétereket, az e-mail szerver IP-címét, illetve beállítani azt, hogy törölje-e az eszköz a fertõzött leveleket és hogy mi történjen a spamekkel (törlés kérdés nélkül, átengedés felcímkézve, rendszeres "digest"). A barcelonai rendezvényen Jason Steer, az Ironport európai termékmenedzsere demonstrálta a Spam and Virus Blocker telepítését: jó esetben a leghosszabb idõt a felhasználói licencszerzõdés elolvasása veszi igénybe.
+
+
+ A Spam and Virus Blocker karbantartásához, üzemeltetéséhez sem szükséges szakértelem, az eszköz automatikusan letölti és telepíti az új vírusadatbázisokat (amelyek egyébként a Sophostól származnak) és más frissített szoftverkomponenseket. A termék ára 50 felhasználóra, egyéves szoftverkövetéssel 2600 dollár körül alakul.
+
+Hálózati adattárolók
+
+A Cisco újdonságai között megtalálható két hálózati adattároló, az NSS2000 és NSS3000.  Ezeket kimondottan irodai felhasználásra alkotta meg a cég, ennek megfelelõen nem kell õket rackbe szerelni, akár egy asztalon vagy a szoba sarkában is elhelyezhetõk. Az NSS2000 legfeljebb két SATA merevlemezt fogad és a maximális kapacitása (jelenleg) 2 terabájt, az NSS3000 pedig négy diszket foglalkoztat és legfeljebb 4 terabájtig bõvíthetõ.  A tárolók szoftverét úgy alakították ki, hogy egyszerûen beüzemelhetõk és konfigurálhatók legyenek, képesek a felírt adatokat titkosítani is, így illetéktelenek akkor sem férhetnek az információkhoz, ha eltulajdonítják magát az eszközt. 
+
+Az NSS2000 és NSS3000 nem csak egyszerû hálózati adattárolóként mûködnek, hanem a Cisco IP-alapú kameráival együtt egy komplett biztonsági rendszert is alkothatnak. A merevlezes tárolók automatikusan detektálják a hálózaton levõ IP-alapú kamerákat és az általuk közvetített képet mentik, vagy akár archiválják is. Az NSS2000 ára 600 dollártól indul, bár az alapváltozatban csak két darab 250 gigabájtos merevlemez van.
+
+Megfizethetõ IP-telefon
+
+A kis- és középvállalatoknak szánt termékek sorában újdonság még a Smart Business Communication System 1.4-es verziójának megjelenése. Ez egy KKV-kre szabott kommunikációs megoldás, amely vezeték nélküli kapcsolatra is felkészített, behatolásvédelmi szoftverrel is ellátott, VPN-t is támogató routerbõl (Cisco 520), valamint egy teljesen új, vezeték nélküli IP-telefonból (SPA525G) áll, amely Bluetooth-t is támogat, így közvetlenül használható bármilyen headsettel. A készülék nem tud annyit mint a nagyvállalatoknak szánt változatok, a kijelzõje kisebb és nem is érintésérzékeny, de a megjelenítõ még így is színes és videók lejátszását is támogatja. A 400 dollár körüli listaáron megjelenõ SPA525G SIP-telefonként is mûködik, így akár Skype-hívások is bonyolíthatók vele.

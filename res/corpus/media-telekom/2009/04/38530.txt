@@ -1,0 +1,27 @@
+Elsõként Ausztriában indult kereskedelmi HSPA+ szolgáltatás
+
+Már üzemel Európa elsõ kereskedelmi HSPA+ hálózata, mégpedig az osztrák A1 operátornál. Az üzemeltetõ mobilkom austria, mely hagyományosan élen jár a legújabb mobiltechnológiák bevezetésében, elsõsorban a megnövekedett cellakapacitást emelte ki legfõbb elõnyként.
+
+
+
+Kapacitásnövelés
+
+
+A mobilkom austria március végén Európában elsõként jelentette be a kereskedelmi HPSA+ szolgáltatást, igaz, jelenleg mindössze Bécs 10. kerületében hozzáférhetõ a lefedettség. Az év folyamán természetesen további területeken is megjelenik majd a legújabb 3G-s mobiltechnológia, elsõsorban a forgalmas, magas terheltségû nagyvárosi pontokban. Az A1 mintegy 400 ezer mobil szélessávú ügyféllel rendelkezett 2008 végén, és 2007-ben a világon elsõként vezette be a HSUPA átvitelt, valamint 2002-ben elsõként ért el országos 3G-lefedettséget Európápan.
+
+Az Ericsson által szállított HSPA+ hálózat jelenleg 21 megabites másodpercenkénti névleges csúcssebességre képes, rövid idõn belül pedig 28,8 megabitesre fejlesztik tovább.  Bár a HSPA+ (természetesen csak megfelelõ modem meglét esetén) emelni hivatott az ügyfelek által tapasztalt átviteli sebességeket, a jelenleg tipikus 1,5-2 megabit/szekundumról a 3-5 megabit közötti tartományba, a mobilcégek számára mindenekelõtt azzal a jelentõséggel bír, hogy egy cellában több felhasználót tud egyidejûleg magas szinten kiszolgálni. 
+
+Utolsó fokozat a 4G-éra elõtt
+
+Az operátorok számára kritikus jelentõségû, hogy minél többet sajtoljanak ki egy-egy bázisállomásból, mégpedig költséghatékonyan, és folyamatosan lejjebb szorítsák a bitköltséget -- az ügyfelek egyre kevesebb pénzért egyre többet várnak a telekommunikációs szolgáltatásoktól. A HSPA+, vagyis az Evolved High-Speed Packet Access mindezt magasabb rendû modulációs technikával (64-QAM) éri el, mellyel több adatot továbbíthat egy adott spektrumon. Ezt fokozza tovább a többcsatornás átvitelt lehetõvé tévõ MIMO antennaszervezés alkalmazása is, melyet még idén alkalmazni tervez a mobilkom austria.
+
+
+A HSPA+ a harmadik generációs UMTS mobilszabványt kidolgozó ipari munkacsoport, a 3rd Generation Partnership Project legújabb szabványkiadásának, a Release 7 része, melyet 2007 végére véglegesítettek és publikáltak az érdekeltek. A HSPA+ az utolsó frissítési fokozat a negyedik generációs technológiák elõtt, a friss Release 8 már a 4G elõszobájához tartozik, annak alapjait rakja le LTE, vagyis Long Term Evolution néven, míg várhatóan 2010 magasságában el nem készül az LTE Advanced, vagyis a 4G-s hálózatok teljes specifikációja. A Vodafone Budapestet választotta LTE-tesztjeinek egyik helyszínéül, a kereskedelmi bevezetés 2011 elõttre nem várható.
+
+Itthon is lesz HSPA+
+
+A hazai mobilszolgáltatók jelenleg 14,4 megabit/s HSDPA-val igyekeznek a városi hotspotokat lekezelni, sajnos azonban egyetlen cég sem árulja el, hogy pontosan hol, és milyen ütemben kezdte meg a bekapcsolásokat. Eközben folyik a hálózatok országosan 7,2 megabitessé tétele is a bázisállomások frissítésével, míg a triumvirátusból utolsóként a Pannon tavaly decemberben közölte, hogy szintén megkezdte a feltöltési kapacitás növelését lehetõvé tévõ HSUPA technológia általános bevezetését. A T-Mobile és a Vodafone már tavaly nyár végére, alig egyhavi eltéréssel HSUPA-képessé tették hálózataikat. 
+
+A Vodafone Magyarország még az áprilissal kezdõdött pénzügyi évében, vagyis legkésõbb jövõ márciusáig tervezi a HSPA+ bevezetését, amint a megfelelõ berendezések rendelkezésre állnak, ami a Huawei HSPA+ eszközök mellett a többnyire szintén Huawei HSPA+ modemek megérkezését is jelenti. A Vodafone az osztrákokhoz hasonlóan a hotspotokat fogja lefedni, árulta el a cég a HWSW számára. A másik két cégtõl nem érkezett válasz a cikk megjelenéséig. Frissítés: A HWSW-nek adott válaszában Pannon úgy felelt, jelenleg elegendõnek ítélik a rendelkezésre álló HSDPA-verziók nyújtotta kapacitást, és a jövõben döntenek a lehetséges fejlesztési irányokról.
+
+A Nemzeti Hírközlési Hatóság január jelentése alapján közel 425 ezer aktív mobilnetezõ van Magyarországon, akik átlagosan 1,8 gigabájtot forgalmaznak havonta -- a szolgáltatók között ugyanakkor nagy az eltérés, a T-Mobile ügyfelei 1,3, míg a Vodafone felhasználói 3 gigabájtot fogyasztanak, a pannonosok pedig 1,7 gigabájttal közepesek.

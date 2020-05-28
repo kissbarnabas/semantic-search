@@ -1,0 +1,22 @@
+Súlyosnak tûnõ sebezhetõségre bukkantak a TCP protokollban
+
+Egyelõre nem tudni, mennyire súlyos az a hiba, amelyet a TCP protokollban a múlt héten fedeztek fel. A sebezhetõséget kihasználva támadók állítólag bármilyen hálózati eszközt meg tudnak bénítani egy DoS-támadással, legyen szó szerverrõl, routerrõl, tûzfalról vagy más berendezésrõl. Az Outpost24 két szakértõje, Robert Lee és Jack Loius a Unicorn Scan tesztelése tesztelése közben bukkant rá a TCP sérülékenységére, amely állításuk szerint több hiba egyidejû kihasználásán alapul. 
+
+
+
+Bénító támadások
+
+A szolgáltatás-megtagadásos (Denial of Service, DoS) támadások célja, hogy egy eszközt úgy elárasszanak kérésekkel, hogy az már ne legyen képes kiszolgálni õket, és ezáltal kifusson az erõforrásaiból, megbénuljon. Az ilyen támadásokhoz eddig nagy sávszélességre volt szükség, ennek érdekében a támadók gyakran gépek ezreit használták fel annak érdekében, hogy lebénítsák a célpontot. A most felfedezett TCP-sérülékenységet kihasználva azonban akár egy modemes kapcsolat is elegendõ lehet arra, hogy túlterheléssel kiiktassanak egy hálózatra kötött bármilyen berendezést.
+
+A sérülékenység felfedezõi egyelõre nem hoztak nyilvánosságra részleteket -- nyilvánvalóan jó okkal, ugyanis nem szeretnék, hogy az amíg a probléma nincs javítva, az információk rossz kezekbe kerüljenek. Az interneten olvasható találgatások szerint Lee és Louis olyan módszert találtak, amellyel olyan TCP-kapcsolatot tudnak megnyitni, amely nem lezárható. Mivel a TCP egy 16 bites azonosítót használ, egy IP-címrõl legfeljebb 65536 kapcsolat tartható fenn. Ha a sérülékenységet kihasználva a támadók ennyi lezáratlan TCP-kapcsolatot tudnak megnyitni egy szerveren vagy más, hálózatra kötött berendezésen, úgy az nem tud további kérésekre reagálni. A konkrét mûszaki részleteket a megtalálók a két hét múlva Helsinkiben rendezendõ T2 konferencián hozzák majd nyilvánosságra.
+
+Elsõre furcsának tûnhet, hogy a közel 30 éve használt TCP protokoll sebezhetõ legyen, azonban a nyáron felfedezett DNS-hiba a bizonyíték arra, hogy igenis léteznek olyan protokollok, amelyeket évek óta használunk, biztonságosnak hiszünk, és valójában mégsem azok. "Néha még egy pár soros protokoll formális, azaz matematikai szintû ellenõrzése is megoldhatatlan feladat, sokszor évek múltán derítenek ki egy támadhatóságot" -- mondta el a HWSW-nek Becsáth Boldizsár, Bencsáth Boldizsár, a BME Híradástechnikai Tanszék Crysys Laboratóriumának munkatársa. "A TCP esetében egy egyszerûnek tûnõ, ám valójában igen összetett protokollról van szó, nagyonis elképzelhetõek sérülékenységek."
+
+Úgy kell védekezni, hogy ne érje meg támadni
+
+Bencsáth szerint a konkrét részletek ismerete nélkül nehéz lenne megmondani, mennyire súlyos sebezhetõségrõl van szó. "Tapasztalataim és érzéseim alapján nagy az esélye, hogy komoly gondról van szó. Azt is hozzátenném azonban, hogy érzésem szerint fõként implementációs problémával állunk szemben, aminek megoldásában nagy szerepük van szoftveres javításoknak. A veszély mértéke pedig a kockázatanalízis alapvetései szerint az okozott kártól és a támadás valószínûségétõl függ."
+
+
+ "A támadások az elmondások alapján valós kommunikáción alapulnak, azaz a támadó gép kiléte többnyire kideríthetõ lehet. Ha nagy a lebukás esélye, mert például valós IP-címeket kell használni, akkor kevés támadó fog élni a lehetõséggel" -- vélekedett Bencsáth. "Tehát a támadások kapcsán egy játékelméleti kérdéssel is dolgunk van: kinek és milyen esetben lehet célja a támadás, mi a nyeresége, és mit tehetünk ellene, hogy ne érje meg neki a támadás."
+
+ A BME biztonsági szakértõje szerint a protokoll kis módosításával és implementációs védekezésekkel már elérhetõ az az elégséges védelem, amikor a támadóknak egyszerûen már nem éri meg támadni. "A nyári DNS-hiba javítása sem teljes javítás, csak megnehezíti a támadást, de nem szünteti meg azt. Az eredmény az elvárások szerint az, hogy a támadóknak így már nem éri meg támadni" -- mondta a HWSW-nek Bencsáth.

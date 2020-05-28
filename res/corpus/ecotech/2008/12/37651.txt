@@ -1,0 +1,35 @@
+Potenciális bûnözõ-e a kirúgott informatikus?
+
+[Ars Technica/HWSW] A globális gazdasági válság hatásaként az  elbocsátások az informatikai ipart sem kímélték. Egyesek szerint a nagyszabású leépítések könnyen ahhoz vezethetnek, hogy a magasan kvalifikált, de most munka nélkül maradt informatikusok az alvilágban hasznosítják tudásukat. 
+
+
+
+Nem tétlenkednek?
+
+A webbiztonsági megoldásokkal foglalkozó Finjan 2008 végi trendeket vizsgáló riportjában azt állítja, hogy 2009 elején élesen emelkedni fog a cyberbûnözés a kialakult gazdasági válság miatt. Vonzó pénzkereseti lehetõségként tûnhet majd fel sok kirúgott informatikus számára a céges adatok lopása, majd azok online csatornákon keresztül való értékesítése.
+
+Szinte adja magát a helyzet, hogy a kirúgott és egzisztenciáját veszélyben érzõ szakemberek egy része egy morális dilemma után úgy dönt, hogy átáll a sötét oldalra, ahol könnyedén és sok pénzt tud keresni, ráadásul gyorsan. Ráadásul ha valaki nem mohó, rendelkezik a megfelelõ szakértelemmel és háttérismeretekkel, akkor még a lebukás kockázatát is komolyan tudja mérsékelni, arról nem is beszélve, hogy nem egy védtelen nyugdíjast rabol, ki hanem egy arc nélküli multivállalatot károsít meg, ami könnyebben emészthetõ lelkiismereti szempontból.
+
+[+] Munkanélküli programozók írják a kártevõket
+
+Múlt hónapban a Forbes magazin is foglalkozott ezzel a témával, illetve még ez év elején az F-Secure által készített elemzés is figyelemreméltónak találja a tényt, hogy a kirúgott informatikusok mekkora potenciális veszélyt jelentenek az ex-cégükre, illetve az online világra általában. 
+
+Mindeddig anekdota csupán
+
+Ugyan teljesen elképzelhetõ a fenti forgatókönyv, a Finjan jóslatai mégsem állnak szilárd alapokon és nekik is be kell ismerniük, hogy a malware- és spyware-piac elemzéseibõl kiragadott számok, trendek vagy esetek ellenére sem több, mint feltételezés, hogy az informatikusok elbocsátása az informatikai bûnözés növekedéséhez vezet. 
+
+A PriceWaterhouseCoopers egyik törvényszéki szakértõje, Nick Ysart szerint ugyanakkor van történelmi bizonyíték a Finjan állításának alátámasztására. "Vannak bizonyos típusú csalások, ahol a technológia megértésével, ismeretével könnyebbé válik a rendszer kijátszása, az IT-guruk pedig birtokában vannak ennek a tudásnak. Számos jól dokumentált eset van a 90-es évek eleji recesszió korszakából, amikor hasonló helyzetben valóban megnövekedett a technológiai tudással és a hozzáféréssel való visszaélések száma." Ysart szerint nem nagy dolog feltételezni, hogy ez most is pontosan így lesz.
+
+CSI: 192.168.2.1 
+
+A floppylemezekkel is megtörtént
+
+1990-91 körül a fehérgalléros bûnözéssel kapcsolatban nem alakult ki még veszélyérzet, senki sem számítottak rá, hogy tömegesen elõfordulhat. Akkoriban az IT-biztonságot kizárólag fizikai kihívásként értékelték, tehát a gépeket elég volt õrökkel, ajtókkal védeni, hiszen az eszközöket nem kapcsolta össze egy állandóan rendelkezésre álló, nagy teljesítményû hálózat. Akkoriban csak floppylemezeken lehetet adatot lopni, most pedig a világ bármely pontjáról be lehet jelentkezni a vállalati számítógépek nagyrészére.
+
+Elsõ pillantásra a Finjan és Ysart véleménye elfogadható, viszont nagyon sokan állítják az ellenkezõjét is, mondván, a fenti cégek végletekig leegyszerûsítenek egy nagyon is komplex kérdéskört. A közgazdászok és a társadalomtudósok régóta vizsgálják a szegénység, munkanélküliség, recesszió és bûnözés összefüggéseit, de nem mernének egyértelmû állításokat megfogalmazni. Ugyan a munkanélküliség és a bûnözés közt egy pozitív elõjelû kölcsönös kapcsolat van, de ennek mértékét a szociológusok szerint a földrajzi helyzet, a bûncselekmények típusa, az elkövetõk életkora, a törvényességi fenyegetettség, az alternatív munkalehetõségek típusa, de még az elfogyasztott alkohol mennyisége is befolyásolja.
+
+A Finjan jóslata épp a szociológiai szempontok elemzésekor vérezhet el, hiszen az IT-dolgozók többnyire magas pozíciót töltenek be, tudásukat hosszú évek alatt fejlesztették, tanultak, szocializálódtak, és megtanulták azt, hogy az átmeneti rossz helyzet miatt nem érdemes kockáztatni a jövõbeni lehetõségeket. Ráadásul ha tömegével rúgnak ki informatikusokat és valóban sokan közülük kereskedni kezdenének az információkkal, akkor azok ára, értéke nagyon gyorsan lezuhanna és nem lenne érdemes küzdeni és kockáztatni értük.
+
+Arany középút
+
+Veszélyben leginkább azok a cégek vannak, melyek nem figyeltek oda arra, hogy a személyes és titkos adatok a megfelelõ biztonsági korlátozások mellett legyenek csupán elérhetõek. Így elõfordulhatnak harsány esetek, tanulságos példák, de a szakértõk véleményét szummázva úgy tûnik, hogy a kockázat meglebegtetése inkább egy figyelemfelkeltõ akció. Az IT-biztonsági cégeknek egyértelmû érdeke, hogy a lassuló piacon veszélyérzetet keltsenek, ezzel igényt generálva a biztonsági termékeikre. Lesöpörni sem lehet a kérdést az asztalról felelõtlenül, de kritikus problémaként tekinteni rá is túlzás lehet.

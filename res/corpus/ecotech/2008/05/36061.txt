@@ -1,0 +1,12 @@
+Konszolidációs hullámot indíthat el a biztosítási szoftverek piacán az Oracle
+
+A múlt héten bejelentett HP-EDS összeolvadásra koncentráló média "agyonhallgatta", hogy az Oracle bejelentette a biztosítási kötvénykezelõ szoftvereket fejlesztõ AdminServer felvásárlását. Az ügylet pénzügyi részleteit nem hozták nyilvánosságra, a tranzakció várhatóan még az elsõ félév során lezárul. 
+
+
+
+A biztosítók nagyrésze még mindig saját fejlesztésû szoftvert használ a kötvénykezelésre, de egyre jellemzõbb, hogy ezeket külsõ szállítótól származó termékkel váltják le. A biztosítási szoftverpiacot 2-3 milliárd dollárosra becslik a szakértõk, akik azonban sietnek leszögezni, hogy a potenciál hatalmas, a növekedés pedig lendületes. Elemzõk szerint az elmúlt évek sokmilliárd dolláros összeolvadásainál jóval kisebb figyelmet kapó Oracle-AdminServer ügylet a biztosítási szoftverpiac konszolidációjának kezdetét is jelentheti.
+
+
+ "A legtöbb biztosító még mindig olyan öröklött, veterán kötvénykezelõ alkalmazásokat használ, amelyek rendkívül merevek, sõt hátráltatják a vállalati rugalmasságot és hatékonyságot" -- mondta Charles Phillips, az Oracle elnöke. "Az Oracle és az AdminServer közös célkitûzése az, hogy a legmodernebb, teljes körû, szabványos, valamint jól integrált szoftvert kínáljon a biztosítási iparág számára."
+
+Az AdminServer a fúzió után az Oracle részlegeként mûködik tovább, Rick Connors korábbi elnök-vezérigazgató irányítása alatt. Az AdminServer beolvasztásával létrejövõ üzletág feladata lesz, hogy kritikus fontosságú operatív alkalmazásokat biztosítson a biztosítási iparág számára.

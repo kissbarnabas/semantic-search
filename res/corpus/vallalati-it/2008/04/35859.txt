@@ -1,0 +1,12 @@
+Ingyenes szoftver a Windows XP hálózatok energiapazarlásának visszafogására
+
+[Computerworld/HWSW] A vállalatok és más szervezetek asztali számítógépeinek legfeljebb tizedén aktív valamiféle energiagazdálkodás, ami hatalmas energiapazarlást jelent, becsli az Egyesült Államok Környezetvédelmi Ügynöksége (EPA). A hivatal szerint ennek egyik legfõbb oka, hogy a Windows XP nem teszi lehetõvé natívan az energiagazdálkodásának távmenedzselését, ezért egy ezt a cél szolgáló szoftvert fejlesztetett ki.
+
+
+
+Az EPA szerint a legtöbb rendszergazda kikapcsolt energiagazdálkodással konfigurálja az asztali PC-ket, hogy csökkentse a lehetséges problémaforrások számát, ráadásul a Windows XP esetében a beállítások távoli menedzselésére sincs lehetõség -- szemben a Vistával. A hivatal emiatt saját távfelügyeleti eszközt fejlesztetett ki XP rendszerek számára, az EZ GPO-t, mely egy ingyenes eszköz a rendszergazdák számára. Az EZ GPO révén az Active Directory környezetben a csoportházirend-objektumokkal központilag állíthatóak a kliensek energiagazdálkodási beállításai. Az EZ GPO szabadon letölthetõ az EPA Energystar oldaláról. 
+
+
+Az EPA úgy becsli, az energiagazdálkodási képességek kihasználásával átlagosan évente 40 kilowattóra energiát lehet megtakarítani átlagosan egyetlen asztali számítógépen, ami 300 kilogrammal kisebb gázkibocsátást eredményezne. Az EZ GPO-t kifejlesztõ Terra Novum szerint az IT-részlegek kevéssé törõdnek az energiagazdálkodással, azon egyszerû oknál fogva, hogy ez nem feladatuk, az energiaköltségeket nem õk állják, és teljesítményük mérésekor nem jelenik meg ez az aspektus. 
+
+Ezt a véleményt számos kutatás alátámasztja. Az Intel 2006 õszén Nagy-Britanniában készített felmérése szerint az ottani cégek 80 százaléka még sosem vette számba energiaköltségeit és csak a cégek 29 százaléka fordít figyelmet arra, hogy energiatakarékos berendezéseket vásároljon. Ezzel egybecsengõ eredményt hozott a Sun Microsystems és a GKIeNet közös hazai kutatása, a megkérdezett pénzintézetek csak harmada méri a rendszereinek fogyasztását, a legtöbben pedig azt vallják, hogy az energiaköltség elhanyagolható részét teszi ki a mûködtetési költségeknek. Az IT-vezetõk majdnem mindegyikük tisztában van vele, hogy az informatikai eszközök növekedõ fogyasztása jelentõsen hozzájárul a globális felmelegedéshez, a többség úgy véli, az energiahatékonyság nem az õ problémája.

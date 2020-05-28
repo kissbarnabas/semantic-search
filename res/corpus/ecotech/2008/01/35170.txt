@@ -1,0 +1,14 @@
+A Microsoftnál kapott munkát a Novelltõl kirúgott szoftverfejlesztõ
+
+A Microsofthoz igazolt az AppArmor vezetõ fejlesztõje, Crispin Cowan, akit több társával együtt tavaly októberben tett lapátra a Novell. Cowan a Windows Security Team tagjaként dolgozik majd a cégnél, elsõsorban a sokak által szidott User Account Controlon.
+
+
+
+A Novell 2005-ben vette meg az Immunixot, az AppArmor fejlesztõjét, majd 2006-ban megnyitotta a szoftvert és bárki számára elérhetõvé tette a forráskódot. Az AppArmor része a SUSE Linux Enterprise-nak és a Novell kommunikációjában hangsúlyos szerepet is kapott, 2007 õszén mégis úgy határozott a cég, hogy lapátra teszi a vezetõ fejlesztõt, Crispin Cowant és négyfõs csapatát. Cowan a News.comnak akkor azt mondta, váratlanul érte a hír, ugyanis semmilyen jel nem utalt arra, hogy a Novell elégedetlen lenne a munkájával, amióta a cégnél dolgozott, többször kapott fizetésemelést, jutalmakat és díjakat.
+
+A Novell nem sáfárkodik igazán jól az általa megszerzett technológiák mögött álló tehetségekkel: a vállalat által az utóbbi években felszippantott cégek kulcsembereinek jelentõs része különféle ellentétek miatt távozott. Tavaly májusban Robert Love, az asztali Linuxok fejlesztéséért felelõs vezetõ hagyta el a céget, 2006 decemberében Jeremy Allison, a Samba vezetõ fejlesztõje távozott, 2005-ben pedig Chris Schlaeger, a SUSE kutatás-fejlesztési igazgatója, Petra Heinrich európai értékesítési vezetõ, illetve Richard Seibt, a SUSE elnöke lépett ki.
+
+
+ A Novell szóvivõje Cowan elbocsátása kapcsán úgy nyilatkozott, a cég továbbra is karbantartja az AppArmort, azonban a fejlesztést nem házon belül végzik, hanem teljes egészében a nyílt forrású közösségre támaszkodnak majd. Cowan akkor még teljes mellszélességgel kiállt a "gyereke" mellett, és két társával rögtön alapított is egy céget az AppArmor fejlesztésére és támogatására.
+
+Az AppArmor feladata, hogy az alkalmazások jogosultságait a szükséges minimumra korlátozza, a rendszer-adminisztrátorok minden programhoz külön házirendet rendelhetnek, amelyben meghatározhatják, a szoftver milyen fájlokat és erõforrásokat érhet el. A Novell szerint az AppArmor használatával a külsõ és belsõ fenyegetések, a "zero-day" támadások, illetve a még ismeretlen biztonsági hibák kihasználása ellen is sikeresen lehet védekezni. Egyelõre nem tudni, Cowannak a microsoftos feladatai mellett jut-e majd ideje az AppArmorra, amely a SUSE mellett az Ubuntunak és a Mandrivának is része.

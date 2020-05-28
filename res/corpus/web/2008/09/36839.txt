@@ -1,0 +1,23 @@
+India megöli a CAPTCHA-t
+
+[ZDNET Blog/HWSW] Az idei esztendõ messze nem volt már eddig sem a CAPTCHA-alapú spamszûrõ rendszerek éve, a helyzet pedig fokozatosan romlik. A Google Gmail CAPTCHA rendszerét februárban, a Hotmailhét pedig áprilisban törték fel, hogy csak a legnagyobbakat említsük. A fejlesztõk egy lépés elõnye lassan teljesen elvész.
+
+
+
+A CAPTCHA (Completely Automatic Public Turing Test to Tell Computers and Humans Apart -- azaz teljesen automata nyilvános turing-teszt a számítógépek és emberek megkülönböztetésére) korábban a leghatékonyabb módszernek bizonyult az olyan, regisztrációt igénylõ oldalakat célzó szkriptek, programok kiszûrésére, melyek tömegesen szerettek volna hozzáférést szerezni az adott szolgáltatáshoz, többnyire spam terjesztési céllal.
+
+Az idõ múlásával azonban a legbonyolultabb CAPTCHA is kikerülhetõvé vált, az egyre komplexebb megoldások pedig inkább a felhasználók elõtt álló kihívást növelték, nem a biztonságot. A kutatók a szöveges feladványokat képekkel cserélték le, amivel a botnet alapon mûködõ töréseknek gátat szabtak, de a cracker csoportok már ezen is túlléptek és emberi erõforrásokat vetnek be a védelmek kijátszására.
+
+India lenyomja a CAPTCHA-t
+
+Az egyik ismert módszer a CAPTCHA-feladvány kiemelése eredeti környezetébõl, majd egy ingyenes pornó- vagy kalózszájt elejére illesztik be. A pornó vagy warez oldalra belépni kívánó felhasználók megoldják a feladványt, beengedik õket az oldalra, míg egyben az eredeti célpont kapuit is kinyittatták. Ami ennél jóval érdekesebb, az a ZDNet újságírójának, Dancho Danchevnek a riportja azzal kapcsolatban, hogy a CAPTCHA-törés Indiában egy mûködõ üzleti modellé nõtte ki magát. 
+
+
+Danchev szerint lehetetlen kibogozni azt a vállalati hálózatot, melyben a CAPTCHA-törõk vagy ahogy arrafelé hívják "megoldók" összeszervezõdtek, de a leggyakoribb az, hogy a nagyobb cégek kis szatelliteknek adják ki "farmmunkában" a tevékenységet. Mindenesetre az erre szakosodott "iparág" robbanásszerû növekedésbe kezdett. A tényfeltáró riport szerint annyira felkapott lett a terület, hogy a munkások többet keresnek ezzel, mint a legális adatrögzítõ állásokkal.
+
+Ezer feltört feladvány után 1-2 amerikai dollár a fizettség, ami az ottani mércével mérve versenyképesnek számít. Az indiai munkások legalább annyira elhivatottak, mint az MMORPG játékok farvizén evezõ úgynevezett "aranyfarmerek", akik virtuális játékaranyat termelnek a lusta játékosok számára igazi, ropogós amerikai dollárért cserébe. A rutinos munkásoknak egy feladvány begépelése és továbbküldése nem vesz igénybe másodperceknél többet, így a kisebb garázsvállalkozások is képesek napi 25-50 000 CAPTCHA-törést megcsinálni, a nagyobbra hízott vállalkozások pedig napi egy millió feletti felismerést is képesek vállalni.
+
+A bevételt ugyan a nagyságrend határozza meg, a legkritikusabb szempont mégis a reakcióidõ. A védelmek miatt a CAPTCHA-törõk célja a késések, csúszások minimalizálása. Az egyik cég például azt állítja magáról, hogy egy MySpace CAPTCHA átlagosan kevesebb, mint 20 másodperc alatt készen van az eredeti oldal betöltõdése után. A lassulás oka pedig többnyire nem a feldolgozás oldalán keresendõ, hanem maga az eredeti oldal töltõdik be lassan, ha nem éppen hibaüzetet dob vissza. Indiának ugyan van több masszív összekötõ gerincvonala az európai és amerikai kontinensekre, de az IT- és helpdeskes kiszervezések, illetve az ehhez hasonló tömeges alkalmazások miatt gyakran lassul be az indiai hálózatokon a web elérése. Ez természetesen nem akadályozza meg õket, hogy végezzék a dolgukat, mindössze rontja kissé a teljesítményüket. 
+
+A kifogyhatatlan emberi erõforrásoknak és a fejlett informatikának köszönhetõen India újabb területet talált magának, ahol csapást mér a informatikai szektorra. A szöveges és vizuális CAPTCHA a riport szerzõje szerint még nem biztos, hogy halott ügy, de azok a vállalatok, akik erre a megoldásra bízzák a spammentességüket, kezdhetnek aggódni. 
+A szakma minden kreativitását bevetve húzza az idõt, de a jövõben láthatóan egyre kevésbé lehet a jelenlegi eszközökre építeni. A jövõben is kényszerû feladat marad az ember és gép megkülönböztetése, így a kutatóknak hamarosan elõ kell rukkolnia valamilyen robosztusabb megoldással, mely immár nemcsak az egyre inteligensebb gépeket, de a CAPTCHA-törõ farmokat is ellehetetleníti.

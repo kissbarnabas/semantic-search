@@ -1,0 +1,20 @@
+Kiiktatható Internet Explorer a Windows 7-ben
+
+A Windows 7 kiadásra jelölt változatának megjelenésével okafogyottá válhat az Európai Unió versenyügyi bizottságának eljárása, melyben azzal vádolja a redmondi szoftvercéget, hogy az Internet Explorer Windowsba építése révén jogtalan elõnyhöz juttatja a böngészõt a piacon. Az új Windowsból ugyanis az Internet Explorert és számos más, a korábbi változatokba szervesen integrált programkomponenst is el lehet majd távolítani, de nem ez lesz a végleges verzió egyetlen újdonsága a bétaváltozathoz képest.
+
+
+
+Az Internet Explorer 8-as változata ettõl függetlenül továbbra is az operációs rendszer szerves része marad, a felhasználóknak azonban a Windows 7 kiadásra jelölt változatától lehetõségük adódik majd arra, hogy a böngészõt a Windows-szolgáltatások be- és kikapcsolására szolgáló menüjében deaktiválják. A program ezt követõen nem jelenik meg a start menüben, illetve a mûködéséhez szükséges állományok egy része nem töltõdik be az operációs rendszer indulásakor.
+
+Nem eltávolítás, kikapcsolás
+
+A webböngészõ mellett a Windows 7-ben a kikapcsolható szolgáltatások listájára kerül a Windows Media Player, a Windows Media Center, a Windows DVD Maker, a Windows Search, a kézírást felismerõ szolgáltatás, a Windows Gadget Platform, a Fax és Scan szolgáltatás valamint az XPS-nézõ alkalmazás. A programokat továbbra sem lehet majd nyomtalanul eltávolítani, az állományok ugyanis nem törlõdnek a merevlemezrõl, a Microsoft álláspontja szerint azért, hogy a szolgáltatások a késõbbiekben könnyebben, a telepítõkészlet használata nélkül is visszakapcsolhatók legyenek.
+
+Változó UAC, felhasználói felület
+
+A Windows 7 kiadásra jelölt (angolul Release Candidate, RC) változatában ennél több változást tapasztalhatnak majd a kísérletezõ kedvû felhasználók. A bétaváltozattal kapcsolatos temérdek visszajelzés alapján a fejlesztõk egyebek mellett módosítják a Windows Vistánál debütált, komoly kritikával illetett User Account Control (UAC) mûködését. A Windows 7 RC változatában a UAC paneljének eléréséhez elevált jogosultságok kellenek majd, illetve a beállítások módosításakor a szoftver kérni fogja a felhasználó beleegyezését.
+
+
+Ez valamelyest szigorítja a bétánál tapasztalt állapotot: a Windows 7 esetében a fejlesztõk ugyanis eredetileg engedtek a Vistánál tapasztalt szigorból és alapértelmezésként úgy állították be a UAC-t, hogy az engedélykérés és figyelmeztetés nélkül lehetõvé tegye a rendszerbeállítások módosítását. Tekintve azonban, hogy a User Account Control vezérlése is rendszerbeállításokon keresztül történik, a szolgáltatás a felhasználó tudta és beleegyezése nélkül is könnyedén kikapcsolható volt.
+
+Az áprilisra várt kiadásra jelölt változatban -- mely gyakorlatilag már a lezárt kódot tartalmazza -- több ponton módosul majd az operációs rendszer felhasználói felülete, így többek közt kis mértékben változik a Windows Intézõ, a Vezérlõpult és a Windows Media Player külseje és használata. A Windows 7 RC emellett több hardvert támogat majd, mint a béta, valamint a programkörnyezet sebességén (indítás, programfuttatás, leállítás, hibernálás stb.) is javított a Microsoft.

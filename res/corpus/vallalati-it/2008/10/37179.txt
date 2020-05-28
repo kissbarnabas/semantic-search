@@ -1,0 +1,16 @@
+Jobb biztonság és gazdálkodás: megújult a TallyGenicom 9045N gyors lézernyomtatója
+
+Megújította robusztus, nagy terhelésre tervezett monokróm lézernyomtatóját a TallyGenicom. Ezentúl az alapkiépítés részét képezi számos kényelmi és biztonsági szolgáltatás.
+
+
+
+Akár havi 200 000 oldalas terhelést is elvisel a TallyGenicom 9045N, mely 43 lapos percenkénti nyomtatási sebességével (A/4) és 541 megahertzes RISC processzorával a piac egyik leggyorsabb lézerprintere. Nagy teljesítményt ráadásul bátran kiaknázhatják a felhasználók: a jótállás a havi terhelhetõség átlépésével nem veszti érvényét, amennyiben eredeti kellékanyagokat használtunk és az elõírt idõben gyári felújító készletet is alkalmaztuk.
+
+
+
+A TallyGenicom új megoldása a jövõben alapkiépítésben tartalmazza a Secure Print, Delayed Print, Walk To Print, Stored Print és IP Filtering szolgáltatásokat. A SecurePrint révén PIN kóddal védhetõk a nyomtatási munkák, a Delayed Print lehetõvé teszi, hogy a hosszabb lélegzetû feladatokat késõbbi, kihasználatlanabb idõszakokra idõzítsük.
+
+
+A Walk To Print másutt Pull Print néven is ismeretes, lényege, hogy csak a nyomtatónál, gombnyomásra indítható a munka, ami által akár 25%-al mérsékelhetõ a nyomtatás mennyisége: míg a nyomtatóhoz érünk van idõnk felismerni, ha bármit elhibáztunk, például nem a megfelelõ állományt indítottuk útnak. 
+
+A Stored Print a munkák nyomtatón tárolását teszi lehetõvé, az IP filtering pedig egyfajta nyomtató tûzfal funkció, IP cím alapján szûri a hozzáférést. A készülék eddig is tartalmazta az Intellifilter funkciót, amivel alkalmazásfejlesztés nélkül migrálhattuk nyomtatási feladatainkat sor- vagy mátrixnyomtatókról. A berendezés itthon is kapható, mintegy 260 000 forintos áron.

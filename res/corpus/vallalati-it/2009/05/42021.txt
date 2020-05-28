@@ -1,0 +1,17 @@
+Csökkenõ bevétel, hatalmas veszteség a Symantecnél
+
+A recesszió mélyülése óta téma a piacon, vajon a válság hatására összehúzott informatikai büdzsékbõl mennyi jut biztonságra. A Symantec eredményei azt mutatják, a biztonság sem marad érintetlen terület, a költések itt is csökkennek -- a nagyvállalati biztonsági termékekkel foglalkozó részleg forgalma 14 százalékkal apadt éves összehasonlításban.
+
+A biztonsági szoftverek elsõ számú gyártójának 5 százalékkal 1,49 miliárd dollárra csökkent a forgalma az áprilisban véget ért negyedik pénzügyi negyedévben. Az általánosan elfogadott számviteli alapelvek (GAAP) szerinti veszteség 249 millió dollár volt, az elõzõ év azonos negyedévének 186 millió dolláros nettó nyereségével 
+szemben. A hatalmas veszteséget egy 400 millió dollárt meghaladó goodwill-leírás okozta, ezt figyelmen kívül hagyva azonban a Symantec (nem GAAP szerinti) nyeresége 318 millió dollár volt, ez 3 százalékos emelkedés éves összehasonlításban.
+
+A Symantec storage- és szerverkezelési üzletága a negyedév során a bevétel 36 százalékát hozta, a divízió forgalma tavalyhoz képest 4 százalékkal csökkent. A fogyasztói üzletág forgalma 1 százalékkal csökkent egy év alatt annak. Az elemzõk részére rendezett telefonos konferencián James Beer pénzügyi vezetõ elmondta, a Conficker körüli felhajtás jelentõsen megnövelte a fogyasztók érdeklõdését az informatikai biztonság iránt. Beer kiemelte még a Norton 360 sikerét, az otthoni felhasználóknak szánt csomag már a fogyasztói divízió forgalmának harmadát adja.A védelmi és megfelelõségi üzletág éves csökkenése 14 százalék volt, a szolgáltatásokból befolyó bevétel 27 százalékkal emelkedett éves összehasonlításban.
+
+A vállalat éves forgalma 5 százalékkal 6,2 milliárd dollárra emelkedett. A hazai leányvállalat ennél nagyobb növekedést tudott elérni -- tudta meg a HWSW Teasdale Haroldtól, a Symantec hazai vezetõjétõl. "Az informatikai biztonsági termékvonal folytatta az elmúlt évek trendjeinek megfelelõ biztos növekedést. A vírusvédelmi piacon masszívan megerõsítettük a piacvezetõ pozíciónkat hazánkban, jóllehet piaci részesedésünk még kissé elmarad a nemzetközi átlagtól, azonban jelentõsen nõtt az elõny a közvetlenül minket követõ konkurenseinkkel szemben" -- mondta lapunknak Teasdale Harold.
+
+A Symantec magyarországi vezetõje szerint a Veritas felvásárlásából létrejött rendelkezési állási üzletág gyorsabb ütemben fejlõdött a 2009-es pénzügyi évben mint a biztonsági, ez elsõsorban a Backup Exec adatmentési technológia terjedésének valamint az olyan fejlesztéseknek köszönhetõ, mint az archiválás vagy a deduplikáció térhódítása.
+
+Idén az adatszivárgás elleni megoldástól, valamint a jelentõs fejlesztésen keresztülesett vállalati vírusvédelmi termék, a Symantec Endpoint Protectiontõl vár üzleti sikereket Magyarországon a Symantec. A rendelkezésre 
+állási termékskálán azok a megoldások kerülnek fókuszba, amelyeknek a segítségével az adatközpontnak a mûködési költségeit lehet sökkenteni. "Várakozásom szerint a legkeresettebb ilyen technológia a deduplikáció lesz, amelynek a segítségével látványosan lehet a mentési képeket zsugorítani és lehet ezáltal nagyarányú tárolóeszköz-költséget megspórolni. -- mondta lapunknak Teasdale Harold. "gyancsak kulcsszerepe 
+lesz a Symantec adatközpont-felmérési szolgáltatásának, amelynek a segítségével a tárolórendszerek kihasználtságát lehet optimalzálni és akár évekig nem szükséges emiatt drága tárolóeszközök bõvítését 
+kezdeményezni."

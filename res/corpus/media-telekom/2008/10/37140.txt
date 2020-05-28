@@ -1,0 +1,30 @@
+Digitális walkie-talkie: nyilvános push-to-talk szolgáltatás Magyarországon
+
+Publikus, bárki számára elérhetõ a push-to-talk indul Magyarországon, pótolva T-Mobile által 2008 januárjában megszüntetett szolgáltatás után hagyott ûrt. A független cég megjelenésével mindhárom mobilszolgáltató ügyfeleinek elérhetõ a PTT, igaz egyelõre csak Nokia készülékekkel.
+
+
+
+A push-to-talk nem új technológia, hiszen a nagy mobiltelefongyártók már több éve elõrukkoltak az URH-rádiók és a walkie-talkie-k  digitális másával, csakhogy a technológia a használatáért fizetendõ magas díjak, a hibás marketing és az adatkommunikáció fejletlensége miatt eddig nem terjedt el igazán. A csoportos rádió legnagyobb elõnye, hogy minden felhasználó egy gombnyomással küldhet üzenetet a csoport többi tagjának. A korábbi analóg technológiáknak viszont az egyszerûség mellett több hátránya is volt: a könnyen lehallgatható, változó minõségû adás, korlátozott vételkörzet, illetve a nagyobb terület lefedéséhez szükséges átjátszóállomások telepítése miatt nem lehetett univerzális.
+
+Walkie-talkie over IP
+
+A PTT technológia ezzel szemben a meglévõ mobilhálózatokon keresztül IP-alapon, digitálisan és természetesen titkosítva továbbítja a csoportba belépett felhasználókhoz az üzeneteket. A digitális megoldás révén egy felhasználó egyszerre több csoportban is jelen lehet, illetve a választott szolgáltató által lefedett területen belül bárhol tartózkodhat. Az üzenet ugyanúgy szinte késleltetés nélkül megy át Ózdról Zalakarosra, mint a Blaha Lujza térrõl a Népszínház utcába. Amennyiben az adatkapcsolat létrehozásához elegendõ térerõ van, akkor a szolgáltatás mûködik, sõt, akkor is, ha a GSM-cellák telítõdnek. Ez nagyobb rendezvények vagy katasztrófák esetén lehet fontos szempont a kommunikációban.
+
+Felvetõdik a kérdés, hogy ha a T-Mobile számára nem érte meg üzemeltetni a szolgáltatást, akkor az önálló PTTSystems Kft. esetében miért lenne az? Szy Gábor ügyvezetõ-igazgató elmondása szerint van potenciál az üzletben, hisz egy kis létszámú szervezet üzemelteti felesleges költségek nélkül. A használt technológia nyílt forráskódú alapokon nyugszik, finn fejlesztésû kommunikációs motorral és magyar fejlesztésû terminál-konfigurációval, amiknek köszönhetõen az üzemeltetési költségeket is alacsonyan képesek tartani.
+
+Az Országos Polgárõr Szövetség részérõl érkezett az eredeti igény, hogy a PTT technológia továbbra is elérhetõ legyen. Az ország teljes területén szétszórtan, szinte mindenhol szolgálatot teljesítõ polgárõrök eddig a T-Mobile PTT-szolgáltatását használták, s fontos volt számukra, hogy 2008 január után is legyen hasonló lehetõség a kommunikációra. Az URH elavult, a TETRA bonyolult, ezért az volt a kívánatos megoldás, hogy egy független szolgáltató nyújtsa a szolgáltatást.
+
+Havi 50 megabájt is elég
+
+A szolgáltatáshoz használt szerver (skálázható, igény szerint csatlakoztatható újabb elem) 3-4000 felhasználó egyidejû kiszolgálására alkalmas, jelenleg egy mindössze 100 Mbit/s sávszélességû kapcsolaton keresztül kommunikál a külvilággal. Az üzenetek maximum 46 kilobites AMR formátumban továbbítódnak, ezért annak ellenére, hogy hangszolgáltatásról van szó, a PTT kis adatmennyiséggel is beéri. Nagy Szabolcs, a PTTSystems mûszaki vezetõje kérdésünkre elmondta, hogy a polgárõrök esetében havonta átlagosan 50 megabájt adatforgalmat generál a szolgáltatás egy elõfizetõnél. A 46 kbit/s tömörítés biztossá teszi, hogy a PTT a 3G-lefedettség nélküli területeken EDGE vagy akár normál GPRS kapcsolattal is mûködõképes legyen.
+
+A korábban PTT-szolgáltatást nyújtó T-Mobile-lal a PTTSystemsnek már van egyedi megállapodása és üzemeltet is egy saját APN átjárót, amihez a felhasználók csatlakozhatnak, a Pannonnál és a Vodafone-nál viszont igénybe kell venni valamelyik adatcsomagot is. A T-Mobile esetén a szolgáltató az adatforgalmat nem a felhasználóknak számlázza, hanem egy külön megállapodás alapján a PTT-szolgáltatónak, egyben.
+
+A PTT-t eddig csak a polgárõrök használták, s a fejlesztési stádiumban nem is szeretett volna újabb ügyfelekkel szerzõdni a PTTSystems, egészen mostanáig. A szolgáltatás egyelõre csak Nokia készülékekkel érhetõ el (S40, S60), melyekben gyárilag is benne van a PTT-támogatás. A PTTSystems ehhez fejlesztette hozzá a szerveroldali megoldásokat, a kommunikációs modulokat és a kezelõfelületet. A jövõben a cég reményei szerint olyan szervezetek érdeklõdnek majd fõként a szolgáltatás iránt, ahol folyamatosan mozgásban lévõ dolgozók, karbantartók, járõrök, ellenõrök egymás közti kommunikációját kell megoldani. Mivel a szolgáltatás nem hûségszerzõdéshez kötött, ezért elképzelhetõnek tartják, hogy eseti jelleggel magánszemélyek is igénybe veszik hosszabb nyaralások, utazások, vitorlázás, vadászat, túrázás vagy bármilyen kinti tevékenység során.
+
+Szabad a vásár
+
+
+A tájékoztatás szerint a szolgáltatás alapára elõfizetõnként havi 2600 forint. Az elõfizetés egy egyszerû SMS aktivációval és a díj elõrefizetésével kezdõdik, ami után a szerver emberi beavatkozás nélkül azonosítja az ügyfelet, illetve elküldi automatikusan a beállításokat a telefonkészülékre. Szy Gábortól megtudtuk, hogy 1000 elõfizetõ felett már nyereséges a cég üzemeltetése, ami köszönhetõ annak, hogy valóban költséghatékony üzemeltetést sikerült megvalósítaniuk.
+
+Amennyiben lesz piaca Magyarországon a PTT-szolgáltatásnak, akkor a cég további fejlesztésekkel is elõ tud majd rukkolni, mint amilyen a nyílt OMA-szabvány implementálása, amivel lehetõség nyílik a többi gyártó készülékeinek használatára is. Ezen kívül dolgoznak egy asztali PC-n futtatható kliensen, ami a diszpécserszolgáltatáshoz elengedhetetlen, illetve nincs messze a GPS-integráció sem, amivel amellett, hogy meg lehet mondani, hogy kik vannak bejelentkezve, látszik az is, hogy hol tartózkodnak. A távoli jövõben pedig megpróbálnak megoldást találni az URH- és a PTT-rendszerek összekötésére, hogy azok a szervezetek is használni tudják a megoldást, akik valami miatt rá vannak kényszerítve az URH használatára.

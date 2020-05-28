@@ -1,0 +1,19 @@
+Csepegtetik az információkat az elsõ Android telefonról
+
+[Gizmondo/HWSW] Még közel egy hónap van hátra a T-Mobile G1 hivatalos piaci rajtjáig, de máris szivárognak a részletek a készülékkel kapcsolatban. Nem tudni, hogy szándékos vagy véletlen kiszivárogtatásról van-e szó, mindenesetre nyilvánosságra került az elsõ Android platformot használó készülék üzembehelyezési útmutatója. Ez önmagában nem is lenne érdekes, leszámítva azt, hogy a készülék kezelõfelületérõl 40 kép is található a PDF fájlban.
+
+
+
+A 48 oldalas dokumentumból elsõként az derül ki, hogy a vásárlás után nem lesz egyszerû dolga a felhasználóknak, viszonylag komplikált folyamatokon kell végigmenni ahhoz, hogy a készülék használatra készen álljon. Nyilvánvaló, hogy minél több szolgáltatást tuszkolnak egy készülékbe, annál szélesebb területeken lesz hasznos, de ehhez hozzá kell számítani azt is, hogy külön be kell konfigurálni a Bluetooth és Wi-Fi kapcsolatokat, a Gmailt, a POP3 emailt, illetve a telefon minden egyéb funkcióját is. Ehhez a folyamathoz szerencsére egy varázsló is rendelkezésre áll, végigvezetve a vásárlót a hosszú procedúrán. 
+
+
+
+Klikk a nagyobb változathoz
+
+
+A szöveget böngészgetve az is kiderül, hogy a szokásostól eltérõen a leírás megengedi magának, hogy humoros legyen. Ilyen sorokat találhatunk például az útmutatóban: "A telefonok nem olcsók, tehát tartsd a tiédet is biztonságban, távol a gyerekektõl, akik viccesnek találhatják ha a készülék úszik vagy lebeg, és távol a kutyáktól is, akik ellenállhatatlan rágcsálnivaló játéknak vélhetik a mûanyag borítású terméket", illetve "a víz károsítja a telefont és alkatrészeit, még olyan kis mennyiségben is, mint az autós pohártartóból kikerülõ üdítõcseppek, olvadó hópelyhek vagy az öröm könnyei, a vizipisztoly-kereszttûz vagy a forró vízbõl felszálló gõz a fürdõszobában."
+
+[+] T-Mobile G1 részletes bemutató
+
+
+A leírásból viszont hiányoznak a kamerára és a fotóalbumra vonatkozó leírások, és úgy tûnik, hogy az üzleti alkalmazásokat sem domborították ki, hiszen nincs VPN-támogatás sem, amirõl korábban úgy vélték, hogy benne lesz majd a G1-ben. A képek alapján viszont a normál telefonfunkciók korrektül sikerültek, nem tûnnek túlbonyolítottnak, nem követik el azt a hibát, amit az okostelefonok fejlesztõi gyakorta megtesznek. A teljes PDF-fájl letölthetõ innen, míg a kiszivárgott képeket a beágyazott képalbumban lehet megtekinteni.

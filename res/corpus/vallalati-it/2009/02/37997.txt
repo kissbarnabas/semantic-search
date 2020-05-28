@@ -1,0 +1,12 @@
+Kritikus hibákat foltoz be a VMware idei elsõ biztonsági csomagja
+
+[HUP/HWSW] Múlt pénteken több frissítést is kiadott a VMware, melyek a vállalat ESX és a beágyazott ESXi hypervisoraiban javítanak ki biztonsági és megbízhatósági hibákat. A cég egyúttal emlékeztetett arra, hogy közeleg egyes ESX verziók támogatásának a vége, így érdemes megkezdeni a upgrade kitesztelését és megtervezését.
+
+
+
+A VMWare összesen négy hibajelenséget orvosol 3.0.2, 3.0.3, 3.5, és ESXi 3.5 termékeiben. Az egyik sebezhetõségnél egy sérült vagy szándékosan elrontott VMDK delta lemezkép betöltésekor összeomolhatnak az ESX 3.5 és ESXi 3.5 hypervisorok. A javítás garantálja, hogy hibás delta fájlokat nem tölt be a szoftver. A Hungarian Unix Portal egyik felhasználója arra figyelmeztet, hogy a frissítés a telepítését követõen elállította az ESXi 3.5 Resource Poolokat.
+
+A hosztok monitorozását szolgáló Net-SNMP implementációban található egy hiba olyan szolgáltatás-megtagadásos támadást intézhet a hálózaton, mely kifagyasztja a Net-SNMP daeomonokat, vagyis az snmpd-t. Ez az ESX 3.5 és 3.0.2 és 3.0.3 verziókat érinti. További két hiba a libxml2 XML-értelmezõben található, melyekkel egy rosszindulatúan megtervezett XML tartalom segítségével saját kód futtatható le a rendszerben, vagy végtelen ciklusba küldhetõ a hypervisor. Ez nemcsak az ESX elõbb említett verzióit, hanem a 2.5.5-öt is érinti, ehhez azonban még nem készült el a patch.
+
+
+Biztonsági közleményében a VMware emlékeztette felhasználóit, hogy az ESX 3.5 Update 1 kiterjesztett támogatása július 25-én véget ér, és javasolja, addigra frissítsenek legalább Update 2 verzióra. Lejár idén az ESX 3.0.2 Update 1 támogatása is, mégpedig augusztus 8-ával, és legalább a 3.0.3 verziót ajánlja, egyúttal javasolja, hogy lehetõség szerint a legújabb kiadást használjuk. A VMware biztonsági közleménye, linkekkel a patchekhez, itt található.

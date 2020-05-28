@@ -1,0 +1,12 @@
+Három hónap után adott ki újabb frissítést a Mac OS X-hez az Apple
+
+[Techworld] Több mint három hónapi "hallgatást" követõen nagy, verziószámot érintõ frissítéscsomagot tett közzé Mac OS X operációs rendszeréhez az Apple. A 10.5.3-asra léptetõ javításban közel 70 stabilitási, kompatibilitási és biztonsági frissítés kapott helyet.
+
+
+
+Az Apple egy égetõ problémára, az iCal biztonsági réseire azonban még mindig nem nyújt ezzel megoldást. A Mac OS X 10.5.3 a harmadik frissítés a Leopárdhoz annak 2007 októberi megjelenése óta, többek között javításokat nyújt olyan komponensek hibáira is, mint az Address Book, az Automator, a  Time Machine és a VoiceOver.
+
+
+Az Apple javította a Finderbõl hiányzó merevlemezek hibáját, fejlesztett a Spotlight keresõn és megoldotta az USB-s eszközökrõl hibásan lejátszható audio- és videoanyagok problémáját is. Frissültek az AirPort-meghajtók is, robusztusabban mûködnek a Time Capsule kiegészítõvel. Az iChatben öt hibát, a Mailben tízet javítottak.
+
+A három iCal hibát január óta, annak felfedezése óta nem javítja az Apple, a Core végül a múlt hét szerdáján közzétette a biztonsági rések leírásait, miután az Apple ismét elhalasztotta a biztonsági frissítések közzétételét. A Core ezzel a lépéssel próbálja javításra kényszeríteni az Apple-t.

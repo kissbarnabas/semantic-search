@@ -1,0 +1,26 @@
+Power6 processzorokkal frissítette RISC-szervereinek kínálatát az IBM
+
+Megérkeztek a Power6 processzorok az IBM teljes RISC-portfóliójába. A vállalat másfél éve jelentette be vadonatúj fejlesztésû processzorát, ami kezdetben csak a felsõ kategóriás Power 570-ben, késõbb a csúcskategóriás Power 595 szerverben, illetve a szuperszámítógépes szegmensnek szánt Power 575-ben volt elérhetõ, de mostantól az összes Power szerverbe ez kerül, leváltva a korábbi Power5-öt. A kínálatba egy új gép is bekerült, a Power 570 és Power 550 közé illeszkedõ Power 560.
+
+
+
+Régi szerverek új processzorokkal
+
+A System p és System i rendszerek tavaszi összevonásával elõállt Power szervercsalád belépõszintû tagja a Power 520, amely mostantól egy vagy két 4,2 GHz-es Power6 processzorral kapható -- igény esetén egymagos konfiguráció is kérhetõ, ekkor csak egy processzor egy magját aktiválja az  IBM. A 4U rack vagy torony kivitelû szerver legfeljebb 64 gigabájt DDR2 memóriát és 6 SAS diszket fogad, a bõvítõkártyáknak két PCI-X és három PCI Express 8x foglalatot alakítottak ki.
+
+
+ A középkategóriás Power 550 is megkapta ezeket a 4,2 GHz-es processzorokat, de igény szerint akár 3,5 GHz-es változatokkal is rendelhetõ. Ebben a szerverben az aktivált magok száma kettõ, négy, hat vagy nyolc lehet, a támogatott memória maximális mérete pedig 256 gigabájt. A beépíthetõ diszkek és a bõvítõhelyek számát tekintve a gép megegyezik a Power 520-szal.
+
+A kínálatban új a Power 560, amely legfeljebb nyolc darab 3,5 GHz-es processzort tartalmaz és akár 384 gigabájt memóriával is rendelhetõ. A Power 560 lényegében egy cluster, ugyanis a nyolcprocesszoros konfiguráció két négyprocesszoros gép összekapcsolásából adódik. A maximálisan támogatott merevlemezek száma 12 darab, és a bõvíthetõség is jobb a Power 520-nál és 550-nél, ugyanis itt legfeljebb 4 PCI-X és 8 PCI Express foglalat áll rendelkezésre. A Power 560 induló listaára 47 ezer dollár.
+
+
+
+Nagyjából egy éve az akkor még System p 570-nek nevezett Power 570 volt az elsõ szervere az IBM-nek, amelybe bekerültek a Power6 processzorok. A mostani bejelentés alkalmával ez a vonal is frissült, a gépek mostantól akár az 5 GHz-es Power6 chipekkel is rendelhetõk, bár ezekbõl legfeljebb 8 darab kérhetõ, 4,2 GHz-es kivitelbõl azonban 16 darab is lehet egy szerverben -- a Power 560-hoz hasonlóan az 550-esek is négyprocesszoros "építõkövekbõl" épülnek fel. Ennek megfelelõen a maximális támogatott memória 768 gigabájtra hízott, a belsõ merevlemezek száma pedig 24 lehet.  
+
+A Power6-alapú szervereken IBM AIX, i OS, SUSE Linux Enterprise Server 10 SP1, illetve Red Hat Enterprise Linux 4.5 vagy 5.1 operációs rendszerek futhatnak. Az IBM az új, Power6-alapú szervereknek elsõsorban a relatív energiahatékonyságát emeli ki. A jelenleg vitán felül legnagyobb teljesítményt nyújtó RISC-chipre alapozva ugyanis a kiszolgálók akár kevesebb CPU-val, és így kisebb fogyasztással is képesek azt a sebességet hozni, amit a versenytárs HP Integrityk vagy Sun M-sorozatú gépek kétszer több chippel. 
+
+Új szoftverek
+
+Az új hardverek mellett az IBM virtualizációs és felügyeleti megoldások frissítéseit is bemutatta. A PowerVM virtualizációs megoldás legújabb változatába bekerült Active Memory Sharing technológia például lehetõvé teszi, hogy virtualizált környezetben hatékonyabb legyen a memóriafelhasználás azáltal, hogy akár a partíciókon átnyúlva is lehet erõforrásokat megosztani. A PowerVM új funkciója egyelõre csak bétaváltozatban próbálható ki.
+
+Az IBM emellett bemutatta a Systems Directort, amely a Power szerverek felügyeletére szolgáló szoftver. A Systems Directorral a Linuxot, i OS-t és AIX-ot futtató gépeket egyaránt lehet menedzselni, mind fizikai, mind virtuális szinten. A csomag része az Active Energy Manager, amely segítségével az energiafelvételt lehet optimalizálni például a processzorok órajelének csökkentésével, vagy az inaktív chipek "elaltatásával". Az Active Energy Managerrel akár energiaplafon is beállítható egy szervernek vagy szerverek csoportjának.

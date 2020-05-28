@@ -1,0 +1,18 @@
+A nagy piaci szereplõk érdekében módosult a mobilfrekvencia-pályázat határideje
+
+A Nemzeti Hírközlési Hatóság (NHH) 15 nappal meghosszabbította a két új szolgáltató piacralépését is lehetõvé tevõ mobil- és frekvencia-pályázatai egy részének beadási határidejét, a frekvenciasávok felhasználási szabályait rögzítõ miniszteri rendelet módosítása miatt -- adta hírül mai közleményében a hatóság.
+
+
+
+Az eredetileg holnap lejáró határidõ meghosszabbítására azért volt szükség, mert a tenderbõl a Közlekedési, Hírközlési és Energiaügyi Minisztérium (KHEM) egy rendelete alapján kizárták volna azokat a vállalatokat, amelyek a 3,5 gigahertzes frekvencián már nyújtanak szolgáltatást. Így az Invitel, az Antenna Hungária és a GTS Datanet is kiesett volna a potenciális pályázói körbõl.
+
+A rendeletmódosítás már a tender kiírása, azaz október 22-e elõtt megtörtént, viszont errõl még a tendert kiíró Nemzeti Hírközlési Hatóság (NHH) is csak a pályázat kihirdetése után kapott hivatalos értesítést -- sérelmezte korábban az egyik potenciális pályázó, az Invitel. A pályázók ráadásul a rendeletmódosításról csak azon a konzultáción szerezhettek elõször tudomást, amelyet a pályázatot kiíró NHH október 31-én szervezett számukra. A rendeletmódosítás miatt a benyújtási határidõt meghosszabbították, így a pályázatokat legkésõbb november 28-áig adhatták le az indulók. Az NHH a fentiek tisztázására módosító javaslatot nyújtott be az illetékes tárcához.
+
+A javaslat hatására csütörtökön megjelent rendeletmódosítás szerint a GSM/UMTS mobilszolgáltató piacralépését lehetõvé tevõ "A" frekvenciacsomagra pályázhatnak azok a társaságok is, amelyek rendelkeznek 3,5GHz-es frekvenciahasználati jogosultsággal. A beadási határidõ módosítása a 900/1800/2100 MHz-es frekvenciákra vonatkozó "A" csomag mellet az attól elválaszthatatlan 26 GHz-es csomagokat, azaz a "C", "F" és a "G" csomagokat is érinti. Ezeknél a csomagoknál a beadási határidõ 2008. december 12.
+
+
+Az NHH a versenyhelyzet elmúlt években tapasztalt gyengülése hatására döntött úgy októberben, hogy az állóvíz felkavarása érdekében egy új, a jelenlegiekkel egyenértékû negyedik mobilszolgáltatóra van szükség, továbbá a hátrányos elhelyezkedésû, ritkábban lakott területek mobilkommunikációs lefedése érdekében egy ötödikre is. A pályázóknak semmiféle kapcsolata nem lehet a jelenlegi operátorokkal, és egy pályázó csak egy csomagot nyerhet. A pályázaton az állami érdekeltségû cégek sem indulhatnak.
+
+A teljesértékû A-csomagban 900, 1800 és 2100 megahertzes GSM/UMTS tartományokra vonatkozó licencre lehet pályázni, a követelmény három év alatt 35 százalékos lefedettség elérése a lakosságra vetítve. A B-csomag egy 450 megahertzes licencet takar, mellyel elsõsorban mobil szélessávval kívánja lefedetni a hátrányos helyzetû településeket az NHH. Mindkét pályázónak legalább 100 millió forint egyszeri díjat kell kínálnia a 15+7,5 éves licencért, és éves nettó árbevételük minimum 0,75 százalékát. A jelenlegi várakozások szerint az NHH jövõre WiMAX szabványú hálózatokhoz is ír ki frekvencapályázatot.
+
+A 450 MHz-es frekvencia hasznosítására vonatkozó "B" csomagra, valamint a két további 26 GHz-es csomagra ("D", "E") kiírt pályázatokat változatlanul november 28-án kell beadni.

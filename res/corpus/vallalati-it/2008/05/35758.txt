@@ -1,0 +1,18 @@
+Seagate: a Fibre Channel kihal, a SAS diszkeké a jövõ
+
+A vállalati felhasználásra szánt merevlemezek terén a 2,5 hüvelykes méretû,  Serial Attached SCSI felületû meghajtóké a jövõ -- mondta a minneapolisi Compellent C-Drive konferencián John Bornholdt, a Seagate egyik értékesítési képviselõje.
+
+
+
+Bornholdt szerint a Fibre Channel felületû meghajtók fokozatosan teret vesztenek a SAS diszkekkel szemben, míg végül eltûnnek a piacról, bár addig még néhány mûszaki problémán úrrá kell lenniük a gyártóknak, beleértve a NAS-támogatást. "A termékterveinken már látszik a Fibre Channel [korszak] vége. A vállalati adattárolás sztenderdje a SAS lesz." 
+
+Az iSuppli elõrejelzése némileg árnyalja a képet: az FC diszkek szállításai évi átlagban 9 százalékkal 9,5 millió darabra nõnek 2010-ig, csak utána kezd el csökkenni a volumen. Ugyanebben az elemzésben olvasható, hogy 2012-re az idei 11 millióról 1,5 millióra zuhan a SCSI diszkek forgalma, miközben a SAS meghajtók szállításai 11 millióról 27 millióra duzzad. Az átállás hasonló a PATA-SATA konverzióhoz, amely a szervereknél már lezajlott: a belépõszintû kiszolgálóknál a SATA meghajtók egyeduralkodónak számítanak.
+
+
+ Bornholdt szerint 2009 fordulópont lesz a merevlemezek méretcsökkenése terén, ahogy a 2,5 hüvelykes meghajtók visszafordíthatlatlanul átveszik az uralmat a 3,5 hüvelykes diszkektõl. A kisebb méretre váltás mögött a meghajtók növekedõ kapacitása áll, ma már 300 és 500 gigabájtos meghajtók is léteznek 2,5 hüvelykes méretben. A kisebb merevlemezek elõnye a helyfoglalás mellett, hogy kevesebb energiával is beérik és kevéssé melegszenek.
+
+A szerverekben már ma is fölényben vannak a 2,5 hüvelykes meghajtók, azonban a merevlemezes tárolókban még a 3,5 hüvelykes diszkek vannak többségben. Pár éven belül azonban minden gyártó át fog térni a 2,5" meghajtókra -- véli a Seagate. Az idén a kritikus vállalati adatok 56 százalékát még 3,5 hüvelykes meghajtón tárolják, míg 43 százalékát 2,6 hüvelykes merevlemezen. 2011-re a 2,5 hüvelykes diszkeké lesz a piac 84 százaléka, miközben az SSD-k részesedése 6 százalékra nõ.
+
+Az EMC csúcskategóriás Symmetrix tárolója már ma is rendelhetõ SSD-kkel, azonban a teljesítménytöbbletnek olyan ára van, amit csak a legnagyobb ügyfelek (bankok, pénzintézetek, hitelkártya-cégek) engedhetek meg maguknak. Azonban ahogy a technológia olcsóbbá válik, az SSD-k más területeken is elterjedhetnek, noha a Seagate szerint sosem fogják teljesen felváltani a hagyományos diszkeket, ezek ár- és kapacitáselõnye belátható idõn belül megmarad.
+
+Tavaly mintegy 144 millió vállalati kategóriás merevlemez került piacra, ami éves szinten 9 százalékos bõvülésnek felel meg. A Seagate saját becslése szerint 58 százalékos piaci részesedéssel bír ebben a szegmensben. Az iSuppli szerint a teljes merevlemezpiac tavaly 19 százalékkal 514 millió darabra nõtt, a Seagate részesedése 33,9 százalék volt.

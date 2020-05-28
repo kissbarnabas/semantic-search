@@ -1,0 +1,18 @@
+Bemutatta 2009-es szoftverportfolióját az Autodesk
+
+Az Autodesk bemutatta teljes 2009-es termékportfolióját, a vállalat mûszaki, gépészeti és építészeti tervezésre, modellezésre, animációra szolgáló szoftverei mind-mind megújultak. A 2009-es verziók már mindannyian támogatják a Windows Vista 32 és 64 bites változatát.
+
+
+
+A hazánkban is jól ismert, már 26 éve piacon levõ AutoCAD család 2009-es verzióinak legfontosabb újdonsága talán az áttervezett kezelõfelület, amelyet a felhasználói visszajelzések alapján alakítottak ki. Az AutoCAD 2009 "szalagja" sokmindenben hasonlít az Office 2007-ben megtalálható menühöz, ahol mindig épp azok a menüpontok és eszköztárak érhetõk el, amelyek az adott esetben relevánsak lehetnek, így a munkaterület mérete maximalizálható, de a funkciók mégis kéznél vannak.
+
+
+ Annak érdekében, hogy a régebbi AutoCAD-változatok felhasználói könnyebben áttérhessenek az új verzióra, az Autodesk számos helyen kiegészítette és továbbfejlesztette a súgót, valamint oktató animációkkal is ellátta a szoftvert. Azok számára, akik ragaszkodnak a régi felülethez, az Autodesk meghagyta a "klasszikus nézetet". A megújult kezelõfelület mellett további újdonságot jelent az AutoCAD 2009-es változatában a makrórögzítési és -lejátszási lehetõség, amelynek segítségével a tervezõmérnökök programozási ismeretek nélkül is automatizálni tudnak egyes mûveleteket.
+
+Több egyéb termék mellett megújult a szórakoztatóiparban, a videojátékok készítõi között is nagy népszerûségnek örvendõ 3ds Max is, amelybõl létrejött egy kimondottan építészeti tervezést segítõ változat, a 3ds Max Design. Utóbbit arra fejlesztették ki, hogy az építészek a terveiket a lehetõ leglátványosabban tudják bemutatni. A 3ds Max 2009-ben továbbfejlesztették a renderelõ motort, a Reveal névre hallgató megoldás képes egyes objektumokat vagy akár egész térrészeket kizárni a renderelésbõl, ezáltal felgyorsítva a folyamatot. A modellezõszoftver új változata a korábbinál jobban importálja az OBJ és FBX állományokat, ami egyszerûsíti az együttmûködést a Mayával, a MudBoxszal, valamint a MotionBuilderrel.
+
+Új változat jelent meg az Inventorból is, amivel digitális prototípusok készíthetõk a rendelkezésre álló tervek alapján. Ezek alapján ellenõrizhetõ, hogy a terveken szereplõ szerkezet valós körülmények között hogy viselkedik. Az Inventor termékcsaládba tartozó szoftverek olyan 3D
+modelleket hoznak létre, amelyekkel még a megépítés elõtt ellenõrizhetõ
+az alak, az illeszkedés és a funkcionalitás. A 2009-es verzió legfontosabb újdonsága a továbbfejlesztett lemezalkatrész-tervezés, a még pontosabb szimuláció, és a korábbinál még nagyobb, még több alkatrészbõl álló modellek támogatása. Az Inventor 2009-ben található konverterek segítségével közvetlen adatcsere végezhetõ az Autodesk Inventor és az UGS, a SolidWorks vagy a  és Pro/E formátumok révén.
+
+Az Inventorban létrehozott modellek egyébként le is gyárthatók, egy egyedi R/C autómodelleket építõ  hazai cégnél például ilyen technológiával készülnek a felnik, illetve más speciális alkatrészek, amelyeket egy 3D nyomtató állít elõ.

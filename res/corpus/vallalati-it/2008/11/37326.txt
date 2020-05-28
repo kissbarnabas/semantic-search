@@ -1,0 +1,22 @@
+Ígéretesnek tûnnek az AMD 45 nanométeres chipjei
+
+[Digitimes/HWSW] A jelek arra utalnak, az AMD gyártástechnlológiai váltása ezúttal sokkal jobban sikerült, mint az elõzõ. A vállalat 45 nanométeres eljárással készülõ termékei magasabb órajeleken és alacsonyabb fogyasztással érkeznek, és a cég rendkívüli izgatottsággal várja a Shanghai megjelenését. A 45 nanométeres kétmagos chipek azonban csak jövõ év második felében érkeznek, írja iparági forrásokra hivatkozva a Digitimes. 
+
+
+
+Felzárkózás
+
+A Digitimes alaplagyártóktól származó információi alapján a Shanghai asztali változata, a Deneb 3 gigahertzes órajellel rajtol. A Phenom X4 20550 jelölésû, AM2+ foglalatba illeszkedõ modellt társaival egyetemben jövõ héten jelenti be az AMD hivatalosan is, miközben a szállítások már zajlanak. Ezt követik a hárommagos változatok jövõ elsõ negyedévben, de a gazdaságosan termelhetõ kétmagosak termelése csak év közepén indul meg, tudta meg a tajvani lap. Utóbbi lapkák már AM3 foglalatú alaplapokba illeszkednek.
+
+
+Bár az AMD rendkívül gyors átállást ígér a 45 nanométeres gyártástechnológiára, a Digitimes szerint az elsõ negyedévben mégis megjelenik a Kuma, vagyis a Barcelonával megismert (65 nanométeres) mikroarchitektúra kétmagos implementációja. A 7000-es sorozatú Athlon X2-k mellett új 65 nanométeres Phenom modellek is érkeznek, melyek a jelenlegieknél alacsonyabb fogyasztással rendelkeznek, és a következõ hónapok során felváltják a piacon lévõket.
+
+A 45 nanométeres eljárás sikeres bevezetése üdítõen hatna az AMD szereplésére, a 65 nanométeres technológiával készült processzorok ugyanis nem fognak a cég sikertörténetei közé bekerülni. A K8 mikroarchitektúrájú chipek órajelei a mai napig nem érték el a 90 nanométeres változatokét, így a kétmagos Opteronok továbbra is a régi eljáráson készülnek. Mindezt megfejeli, hogy órajelproblémákkal küzd a legújabb Barcelona-generáció is, és a magas, 2,4 és 2,5 gigahertzes változatok csak június óta rendelhetõek, tömeges szállításaik pedig csak a harmadik negyedévben indultak meg.
+
+Visszaveheti szerverpiaci elõnyét az Opteron
+
+A 45 nanométeres asztali chipek jóval versenyképesebbnek ígérkeznek 65 nanométeres társaiknál, az abszolút fölény kivívásához azonban nem lesznek elegendõek. Ugyanakkor a Shanghai kódnévû négymagos Opteron visszaveheti az AMD 2003-2006 között birtokolt teljesítménybeli elõnyét a szerverfeladatok terén. Mint arról a HWSW korábban beszámolt, az AMD-nél fokozott várakozásokkal tekintenek a Shanghai jövõ heti rajtja elé, melytõl azt remélik, megkezdhetik visszafoglalni az Inteltõl az elmúlt két év során elvesztett területeket. A Shangai chipekkel szerelt szerverek lényegében azonnal hozzáférhetõvé válnak a bejelentéskor, a HP-nál például már decemberre ígérik a magyarországi szállításokat. 
+
+A jelenlegi hozzáférhetõ információk alapján a Shanghai 2,7 gigahertzen debütál majd 95 wattos TDP keretben (75 watt ACP), ami nagy elõrelépés a 120 wattos, 2,5 gigahertzes Barcelonákhoz képest. A Shanghai ráadásul nagyobb, 2 helyett 6 megabájtos L3 gyorsítótárral rendelkezik, valamint némi mikroarchitekturális optimalizációt is hoz -- elõzetes becsléseink alapján  számítás- és memóriaintenzív területeken (HPC szerver, munkaállomás) mindez tipikusan 10-30 százalákos teljesítménynövekedést eredményezhet azonos órajelen.
+
+A Shanghai összességében rendkívül ütõképesnek mutatja magát a jelenlegi Xeonok ellenében, az Intel két het múlva debütáló, 45 nanométeres eljárással készülõ Nehalem-generációval szemben pedig akár 5 hónap elõnye is lehet. A minden elsöprõ következõ generációs architektúra szerverváltozatai ugyanis márciusban jelennek meg legkorábban a kiszolgálókban. Iparági források alapján elképzelhetõ, hogy röviddel a Shanghai jövõ heti rajtját követõen érkezik gyorsabb változat, 120 wattos Special Edition kivitelben, a lehetõ legnagyobb teljesítményre éhes feladatokhoz.

@@ -1,0 +1,18 @@
+Ingyenes rendszergazdai képzés: fókuszban a csoportmunka
+
+Továbbra is kirobbanó az érdeklõdés a Microsoft ingyenes rendszergazda-képzése iránt, a májusi rendezvényeken több mint 1500-an vettek részt. A szabad helyek gyorsan fogynak, a meghirdetett tíz idõpontból már csak az utolsó négyre lehet jelentkezni. Június folyamán Budapesten kívül még Pécs, Debrecen és Miskolc városában lehet részt venni az ingyenes szakmai képzésen, amire a www.microsoft.hu/IT oldalon lehet jelentkezni.
+
+
+
+A tavaly õsszel elindított Informatika Tisztán rendezvénysorozat célja az, hogy a gyakorló rendszergazdák, illetve rendszergazdának készülõ diákok naprakész ismereteket kapjanak a Microsoft legújabb, de már piacon levõ technológiáiból, így a megszerzett tudás azonnal kamatoztatható. Az õszi "szemeszterben" az infrastruktúra-szoftverek voltak terítéken, a Windows XP és a Vista, a Windows Server 2003 R2 üzemeltetésével kapcsolatos információkat hallhattak az érdeklõdõk.
+
+
+ A tavaszi "félévben" a csoportmunka és a kommunikáció lesz a középpontban, elsõsorban az Exchange Server 2007 és a Windows SharePoint Services 3.0 segítségével. A Microsoft megoldások telepítését, beállítását és napi szintû üzemeltetését gyakorlati példákon keresztül, élõ demókkal mutatják be az elõadók: egyetlen óra alatt készül el egy levelezésre, csoportmunkára és távoli elérésre felkészített Exchange Server 2007-es rendszer, miközben ennek a folyamatnak a lépéseit részletes magyarázatokkal egészítik ki.
+
+
+
+"A vállalatok ma már egyre nagyobb számban ismerik fel a csoportmunka megoldások jelentõségét saját hatékonyságuk növelésére. Ennek elérésében az IT jelentõs segítséget nyújthat, ha a cég saját szakemberei birtokában vannak az ehhez szükséges ismereteknek" -- mondta Budai Péter, a Microsoft Magyarország szakmai programmenedzsere. "A vállalatok sokszor csak szükséges rosszként tekintenek az informatikára. A csoportmunka-megoldások bevezetésével és üzemeltetésével a rendszergazda tényleges értéket tud teremteni a vállalatának, ezáltal õ maga is fontosabbá, értékesebbé válhat a cégen belül."
+
+"Rengeteg érdeklõdõ fordul hozzám az elõadások után a Windows SharePoint Services 3.0-val kapcsolatban, sokak fantáziáját megmozgatják a bemutatott képességek" -- mondta Telek Andrea, a NetAcademia oktatóközpont oktatója, aki a rendezvénysorozat keretében a SherPoint-ról ad elõ. "Olyan lehetõségeket mutatunk meg, amikrõl az emberek többsége még nem hallott, pedig nagy szükség van rájuk, rengeteg feladatot tesznek egyszerûbbé mind a vállalatok, mind a rendszergazdák számára."
+
+Az õszi eseménysorozaton és a tavasszal eddig megrendezett Informatika Tisztán rendezvényeken összesen közel 7 ezren vettek részt, emellett több tízezren töltötték le az ingyenesen elérhetõ online tananyagot, amely könyvek mellett mintegy 10 órányi videóból áll. A cég reményei szerint összesen mintegy 10 ezren vesznek majd részt a képzésen. A Microsoft õszre is tervez az Informatika Tisztánhoz hasonló elõadásokat, ahol az idén bemutatkozott újdonságok kerülnek majd terítékre, köztük a Windows Server 2008 és az SQL Server 2008.

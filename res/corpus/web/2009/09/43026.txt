@@ -1,0 +1,19 @@
+Megjelent az új Picasa
+
+A Picasa az egyik legkényelmesebb fotórendszerezõ szoftver, ami elérhetõ manapság a piacon, ráadásul ingyenesen letölthetõ, s akár a Picasa Web albumok használata nélkül is mûködõképes kizárólag offline módban is. Természetesen a legcsábítóbb funkciója, hogy az összerendezett albumokat két kattintással online webes felületre juttatja.
+A korábbi verzióhoz képest a legnagyobb újítás a Picasa 3.5-ben az arcfelismerõ modul elérhetõsége. Eddig kizárólag az online felületen lehetett a feltöltött fotókon emberi arcokat keresni, most viszont akár a teljes offline fényképgyûjteményre rá lehet engedni az algoritmust, s akár személyek szerint is csoportosíthatóak a képek, összerendezhetõ egy album kedvenc barátainkról. A telepítés után a program végig fogja pásztázni a már katalógusban lévõ fotókat, s csoportosítja az arcokat. Szerencsére nem kell újra hozzáadni mindenkit az adatbázishoz, a programmal lehetséges felcsatlakozni az online Google-fiókba, ahonnan automatikusan letöltõdnek a már meglévõ névcímkék.
+
+
+
+
+
+
+
+
+
+A másik fontos fejlõdést a Google Maps integrációja jelenti. A Picasa 3.5-ben sokkal gyorsabban és egyszerûbben lehet geotageket rendelni a képekhez, továbbá egy fejlettebb címkézõrendszer is került a programba és az import funkciók is kibõvültek. A geotagek áttekintéséhez a "Places" nevû panelen egy Google térképen látszanak a felcímkézett képek készítési helyei. Ha egy még geotag nélküli képet szeretne valaki ellátni koordinátákkal, akkor közvetlenül lehet egy keresést indítani, majd a találati oldalon pontosítani a megszokott módon a leszúrt pont helyét.
+Az importálás szintén fejlõdött, mostantól lehetséges közvetlenül a fényképezõrõl vagy iPhone-ról képeket feltölteni webalbumba is. Külön be lehet állítani, hogy például az összes képet töltse fel a merevlemezre a Picasa, de csak a megjelölt, megcsillagozott képeket tegye elérhetõvé az interneten is. Az új verzió egyébként elérhetõ Mac és Windows platformokra is, illetve elsõ alkalommal a Mac verzió is elhagyta a "béta" címkét.	     
+                  
+                  
+                  
+                   

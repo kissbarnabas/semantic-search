@@ -1,0 +1,14 @@
+Szinte bármilyen javás mobiltelefonon elérhetõ már a Skype
+
+A Skype-nak korábban is volt okostelefonokon futó változata, a néperszû VoIP- és csevegõkliens azonban mostantól a Google Android platformon és javás változatban is elérhetõ, utóbbi máris több mint száz kompatibilis készülékre telepíthetõ, ígaz, a bétaváltozat teljes funkcionalitással csupán néhány országban mûködik egyelõre.
+
+
+
+Ez lényegében nem mást jelent, mint hogy mobilokról is indíthatók internetes hívások, és a Skype-felhasználók akkor is egy helyi hívás árát fizetik, ha külföldi számot hívnak. Más Skype-felhasználók felhívása is csak egy helyi hívás árába kerül, még akkor is, ha a világ másik végén vannak. Üzenetek is küldhetõk a mobil Skype-on keresztül, ezekért pedig csak az adatforgalmi díjat kell fizetni. 
+
+
+ A mobil Skype elõnyeinek kiaknázásához persze nem árt egy sok adatforgalmat tartalmazó csomag, hiszen a ki- és bejelentkezések, az állapotfigyelés folyamatos adatforgalmat jelentenek -- bár a Skype szerint még intenzív használat mellett is ki lehet jönni havonta pár megabájtból. A mobil Skype elõnye még, hogy a felhasználók folyamatosan szemmel követhetik, hogy ismerõseik be vannak-e jelentkezve, azaz alkalmas-e õket hívni.
+
+ A Skype-nak már jó ideje létezik mobil változata, azonban ez csak Windows Mobile operációs rendszeren fut. Ezzel ugyan a Skype-felhasználók hívása ingyenes, a telefonszámok pedig ugyanannyiért hívhatók mint a PC-s Skype-ból, a szoftver mûködéséhez nélkülözhetetlen a szélessávú internetkapcsolat, amely Wi-Fi vagy 3G/HSDPA segítségével alakítható ki. A Skype Lite-hoz ez nem szükséges, bárhol használható, ahol van "térerõ". Sajnos roaming esetében nem jelent megoldást a Skype Lite, ilyenkor a külföldi hívásindítás díjai az irányadók, ráadásul a szoftver mûködéséhez elengedhetetlen adatforgalom díja is többszöröse lehet a belföldinek.
+
+A Skype Lite számos mobiltelefonnal kompatibilis, köztük a Nokia, a Samsung, az LG, a Motorola és a Sony Ericsson legtöbb kapható típusával. A Skype Lite egyelõre kizárólag ausztrál, brazil, dán, észt, finn, új-zélandi, lengyel, svéd, amerikai és brit szolgáltatók hálózataiban használható, de késõbb várható a megjelenése további országokban is.

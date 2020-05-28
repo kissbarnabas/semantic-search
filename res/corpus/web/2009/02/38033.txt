@@ -1,0 +1,14 @@
+Mostantól internetkapcsolat nélkül is lapozható a Google Calendar
+
+A korábban kiszivárgott információknak megfelelõen levelezõrendszere után online naptárát is elérhetõvé tette kapcsolat nélküli üzemmódban a Google. A Google Calendar offline használatához ugyanazt a böngészõkiegészítõt, a Google Gearst kell telepíteni, amit az offline Gmail is használ. 
+
+
+
+A Gmail után immár a keresõcég megosztható naptára, a Google Calendar is elérhetõ internetkapcsolat nélkül, tükrözve ezzel azt az útirányt, melyet a vállalat az offline Google Docs tavalyi megjelenésével vállalt fel a kapcsolat nélküli munka megkönnyítésére. A szolgáltatás a naptár menüjében, a jobb felsõ "Offline Beta" linkre kattintva érhetõ el: a Google Apps Standard Edition felhasználói számára azonnal, a Premier és Education Edition felhasználók elõbb engedélyezniük kell a funkciót a program "Domain Options" menüjében.
+
+A naptár kapcsolat nélküli mûködését ugyanaz a böngészõkiegészítõ, a Google Gears teszi majd lehetõvé, amely az offline Gmail-nek is alapot ad. "A Google Apps felhasználói igénylik az offline Google Calendart, mi pedig pontosan tudjuk, mennyire fontos ez a funkció az úton lévõ felhasználóknak" -- áll a vállalat korábbi álláspontjában.
+
+
+"Azon túl, hogy utazás közben vagy gyenge internetkapcsolat mellett is elérhetõ Gmail-potafiók, mostantól a naptáreseményekhez is hozzá lehet férni kapcsolat nélkül" -- mondta el Joyce Shon, a Google Apps marketingmenedzsere, hozzátéve, hogy az offline naptárnál új események nem vihetõk fel, csak a már rögzített idõpontokat lehet lekérni.
+
+A Google január vége óta ad lehetõséget a felhasználóknak arra, hogy levelezésüket internetkapcsolat nélkül is elérjék. Mindehhez annyit kell tenniük, hogy telepítik számítógépükre a Google Gears beépülõmodult, ami automatikusan befészkeli magát a böngészõprogramokba, legyen az Internet Explorer, Firefox, Safari vagy Chrome (A Chrome-ban gyárilag telepítve van a Gears). Ezután a Gmail beállításoknál a "Labs" fülön ki kell keresni az "Offline" funkciót és engedélyezni a funkció használatát.

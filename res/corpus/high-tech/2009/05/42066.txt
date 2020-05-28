@@ -1,0 +1,9 @@
+Sokkal jobb mobilos fotók készülhetnek a Samsung új technológiájával
+
+Mióta a mobilok piacán is javában zajlik a megapixelháború, a telefonokba épített fényképezõgépekkel is készíthetõk nagyfelbontású felvételek, ezek minõsége azonban -- hiába az akár 5-8 megapixeles képérzékelõ -- többnyire meg sem közelíti a digitális fényképezõgépekkel elérhetõ szintet. A Samsung mérnökei szerint sokat javulhatna a képek minõsége, ha a mobiltelefonokban is megjelennének a fényképezõgépeknél már régóta használt zárszerkezetek.
+
+
+A Samsung miniatûr -- mindössze 2,2 milliméter átmérõjû -- mikro-elektromechanikus zárszerkezete (MEMS) 36 darab háromszögalakú zárlamellából áll, melyek tízfokos szöget bezárva egy teljes kört alkotnak. A zárszerkezet egy üvegszubsztrátum alapra kerül fel, melyre átlátszó vezetõ anyagot, indium-ón-oxidot visznek fel. Erre a zárlamellák elektrosztatikus feszültség hatására teljesen rásimulnak, így kitakarva a fényt az érzékelõ elõl.
+
+A mobiltelefonokba épített digitális kamerák egyik lényeges képalkotási problémája éppen a zárszerkezet hiányából adódik: mivel a mobilokban a mechanika relatíve nagy mérete miatt jelenleg nem tudnak alkalmazni idõzárat, ezért különösen a nagy képérzékelõk esetében elõfordulhat, hogy az adatok lassú kiolvasása miatt a végleges kép valójában nem egy pillanatfelvétel, hanem átlagolt eredmény lesz, ez pedig gyorsan mozgó tárgyaknál bemozduláshoz vezethet.
+A fejlesztés eredményeként tehát élesebb nagy felbontású képeket lehetne készíteni a kamerás mobilokkal, ráadásul a felhasználók a záridõ beállításával egy a digitális fényképezõgépeknél már meglévõ kreatív eszközt kaphatnának a kezükbe -- vélik a Samsungnál. A koreai gyártó az év végére ígér újabb részleteket a technológiáról, illetve annak lehetséges piaci bevezetésérõl.

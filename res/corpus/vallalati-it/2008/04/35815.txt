@@ -1,0 +1,16 @@
+Biztonsági termékek új generációja a Microsofttól: jön a Stirling
+
+A múlt heti RSA Conference 2008 rendezvényen a Microsoft bejelentette a Forefront biztonsági termékcsalád új tagjainak elérhetõségét -- egyelõre nyilvános bétaverzió formájában. Az újdonságként megjelenõ, egyelõre Stirling kódnéven fejlesztett szoftver egy központi felügyeleti eszköz a Forefront csomaghoz, amellyel a Microsoft biztonsági termékei egy felületen kezelhetõk. A termékek végleges verziója a jelenlegi tervek szerint 2009 elsõ felében jelenik meg.
+
+
+
+A Microsoft biztonsági erõfeszítései a "Dynamic Response" vízió köré csoportosulnak, amelynek lényege, hogy a központilag felügyelt, de mégis különálló védelmi termékek képesek egymással kommunikálni és akár a teljes IT-infastruktúrán átnyúlva automatikusan reagálni az egyes fenyegetésekre. A redmondi cég szerint ez segít a szervezeteknek abban, hogy proaktívan védekezzenek, illetve ha már megtörtént a baj, sokkal gyorsabban tudnak reagálni.
+
+
+
+A Stirling lényege, hogy a segítségével a Forefront biztonsági termékek felügyelete, beállítása egy központi felületen történhet, attól függetlenül, hogy végpontvédelemrõl, szervervédelemrõl vagy hálózati határvédelemrõl van-e szó. Egy helyre futnak be a riasztások, egy helyen lehet jelentéseket lekérdezni, riportokat készíteni, illetve a rendszerek állapotát figyelemmel követni. Az adminisztrációs szerepek szétválaszthatóságának köszönhetõen a rendszergazdák ugyanakkor mégis külön-külön tudják kezelni a rájuk bízott eszközöket és hálózatokat. Szintén központosított a szabályok (policy) kezelése, ami egyrészt idõtakarékos, másfelõl csökkenti az emberi hibából, félrekonfigurálásból adódó hibalehetõségeket.
+
+
+ A Forefront szoftvercsomag része a Forefront Client Security, a Forefront Security for Exchange Server, a Forefront Security for SharePoint, valamint mostantól ebbe a termékcsaládba olvad be az ISA Server is, amelynek  új változatát már Forefront Threat Management Gatewaynek hívják. A Forefront Threat Management Gateway egy Windows Server 2008-on alapulú termék, amely számos funkcióval egészíti ki elõdjét, az ISA Server 2006-ot. A termékrõl egyelõre kevés információt árult el a Microsoft, részletek az év további részében várhatók.
+
+Az új Forefront termékek, valamint a Stirling bétája ingyenesen letölthetõ a Microsoft weboldaláról. A Stirling jelen állapotban még csak a Forefront Client Securityval és a Forefront Security for Exchange-dzsel integrálódik, de a fejlesztés késõbbi folyamatában a többi terméket is felkészítik a Stirlinggel való együttmûködésre. A Microsoft elképzelése szerint a végleges változatok megjelenésekor az új Forefront-generáció a Stirlinggel együtt egy teljes integrált csomagot alkot majd licencelés szempontjából is, mindazonáltal a komponenseket egyenkén is forgalmazni fogják.

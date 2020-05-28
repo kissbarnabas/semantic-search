@@ -1,0 +1,34 @@
+A szoftverhasználat oktatását egyszerûsíti egy magyar fejlesztésû Oracle-alkalmazás
+
+Összetett szoftverek, fõként vállalatirányítási rendszerek bevezetésekor komoly kihívást jelent a megfelelõ dokumentáció elõállítása, illetve a felhasználók oktatása. Hiába a jó szoftver, ha a vállalat dolgozói nem tudják jól használni, akkor semmit sem ér.
+
+
+
+Az oktatás elengedhetetlen, de drága
+
+A szervezetek akármennyi erõforrást is fektessenek a képzésekbe, az eredmények a várakozások alatt maradnak: a Nucleus Research felmérése szerint a felhasználók négyötöde úgy véli, az alkalmazással kapcsolatos képzésük haszontalan volt. Ez azért rossz hír a vállalatok számára, mert azok a dolgozók, amelyek nem ismerik igazán az általuk használt szoftvert, átlagosan hatszor több alkalommal fordulnak a belsõ helpdeskhez, illetve a termelékenységük is alacsonyabb, több idõre van szükségük egy feladat megoldásához, ami kiesõ idõt, emelkedõ támogatási költséget jelent.
+
+Oktatni persze sokféleképpen lehet, akár tantermi keretek közt, akár elektronikusan vagy könyv segítségével, de bármelyik utat is válassza a cég, az biztos hogy a tananyagok elkészítése rengeteg idõt és pénzt vesz igénybe. Tantermi foglalkozásnál a ráfordított idõ átlagosan negyvenszeres, vagyis 1 óra tananyag elkészítéséhez 40 órányi munka szükséges, e-tananyagnál ez a szorzó akár kétszázszoros is lehet.
+
+Magyar megoldást kínál az Oracle
+
+A szoftverhasználat oktatását támogatja az Oracle által felvásárolt Global Knowledge Software alkalmazása, a User Productivity Kit, melynek érdekessége, hogy magyar származású. A szoftver elõdjét még a 90-es években kezdte fejleszteni a magyar-német tulajdonban levõ Qualification Development Kft., amelyet 1997-ben vásárolt fel az amerikai PTS Learning, ami 1999-ben olvadt be a Global Knowledge-be. Az Oracle tavaly nyáron jelentette be a Global Knowledge felvásárlását, a folyamat 2009 januárjában zárult le. Magyarországon közel 40 fejlesztõvel rendelkezik a cég, õk mostantól az Oracle Hungary kötelékében dolgoznak.
+
+
+
+A User Poductivity Kit (UPK) egyetlen forrásból képes elkészíteni egy szoftver teljes életciklusához szükséges tananyagokat és segédleteket, a tesztelési forgatókönyvtõl kezdve a felhasználói kézikönyvön át akár a webes demóig. Bár a UPK az Oracle tulajdonában van, lényegében bármivel kompatibilis, vagyis akármilyen szoftver használatát lehet a segítségével oktatni, legyen szó vállalatirányítási rendszerrõl, a Microsoft Office-ról vagy akár egy webes alkalmazásról -- lényegében bármirõl, amelynek van felhasználói felülete. A tananyag fejlesztéséhez nem szükséges programozói tudás, a UPK-t használni alig bonyolultabb egy videomagnónál.
+
+
+ Az Oracle User Productivity Kit ára egy ERP-bevezetési vagy verzióváltási projekt költségvetésének csak töredéke, segítségével azonban az oktatási, az egyéb dokumentációs, valamint támogató anyagok költségének 40-80 százaléka megtakarítható -- mondta a HWSW-nek Fehér Csaba, az Oracle vezetõ értékesítési tanácsadója. Mivel a szoftver legújabb verziója már magyarul is tud, semmi sem állhat a hazai elterjedés útjába.
+
+Könnyen használható
+
+A UPK szíve és lelke a Developer, amelynek segítségével a tananyag fejlesztõje rögzítheti a tanítani kívánt alkalmazás használatának lépéseit. A Developer "felvevõje" a háttérben fut, a fejlesztõnek nincs más dolga, mint elvégeznie a szükséges lépéseket. A UPK ilyenkor nem csak egyszerûen lementi a képernyõt, hanem azt is felismeri, hogy a fejlesztõ hová kattintott és melyik mezõbe mit írt be. Ez azért különösen fontos, mert az így rögzített folyamatokat a szoftver nem csak vissza tudja játszani, hanem felhasználói kézikönyvként is elkészíti, magyarázó szövegekkel kiegészítve a képeket.
+
+
+
+A UPK a felvett anyagokból többféle támogató anyagot tud teljesen automatikusan létrehozni, például felhasználói kézikönyvet, tanári segédletet, (SCORM 1.2 kompatibilis) elektronikus tananyagot, illetve interaktív webes oktatóanimációt. Utóbbi nem csak egyszerûen bemutatja, hogy kell használni az adott szoftvert, hanem akár feladatokat is adhat a "diáknak" és ellenõrizheti azok megoldását, tehát vizsgáztatni is képes, valamint integrálható a szoftverek súgójával, így ha a felhasználó éles munka közben elakad, egy gombnyomásra elindul a képernyõ sarkában egy animáció, amely megmutatja, mit kell tenni. Az animációhoz hangok, magyarázószöveg vagy akár webes linkek is fûzhetõk.
+
+
+
+A User Prodictivity Kitnek nemrég jelent meg a 3.5-ös verziója, amely számos újdonsággal szolgál. Elsõ és Magyarországon talán legfontosabb, hogy már támogatja a magyar nyelvet, vagyis mostantól fogva az UPK-val létrehozott kézikönyvek, segédletek és oktatóanyagok magyarul is készülhetnek. A 3.5-ös verzióval már testre szabhatók a webes oktatóanyagok, azaz a felhasználó vállalat elhelyezheti benne saját arculati elemeit, és az általa preferált árnyalatokra színezheti. Az új verzióban a tananyagfejlesztõ már kontextus-érzékeny, ami a súgóba integrálásnál nagy segítség.

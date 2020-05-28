@@ -1,0 +1,12 @@
+Tovább gyorsult a leggyorsabb hypervisor: itt a Xen 3.3
+
+Következõ kiadásához érkezett a Xen, mely számos jelentõs újdonságot hozott magával. A nyílt forráskódú hypervisor 3.3-as verziója által támogatott régi operációs rendszerek köre kibõvült, valamint többek közt tovább csökkent a virtualizáció teljesítményvesztesége, tovább erõsítve a Xen vezetõ pozícióját ezen a téren.
+
+
+
+A Xen 3.3.0 újdonságai közé tartozik a dinamikus energiagazdálkodás támogatása a különbözõ teljesítményszintek bevezetésével, így már a hypervisor is képes takarékoskodni a számítógép által felvett energiával. A szûkszavú bejelentés a jelentõsebb fejlesztések közé sorolja az úgynevezett emulációs tartományok bevezetését a Xen architektúrájában (Qemu-on-Mini OS), mellyel növelhetõ a biztonsági szint, jelentõsen javítható az I/O-teljesítmény a kevesebb költséges megfeleltetés miatt, és a skálázódás, állítják a fejlesztõk.  
+
+A teljesítmény terén további jelentõs elõrelépést képvisel a memória  árnyéktáblák kezelésének algoritmusában, tovább gyorsítva a virtuális gépeken. Újdonságot jelent a 2 megabájtos lapok bevezetése, mellyel magasabb TLB lokalitás érhetõ el. A 3.3 képes x86-os processzorokon teljes valód módot emulálni az Intel hardveres virtualizációs technológiájával felvértezett chipeken, ezzel bõvítve tovább a már idejemúlt operációs rendszerek támogatottságát vendégoldalról. Az Intel VT-d technológia (melyet a chipsetnek is támogatnia kell, I/O virtualizációról révén szó) fejlettebb implementációjának köszönhetõen hatékonyabban hozzáférhetõvé válnak egyes eszközök a vendégrendszerek számára, így például a grafikus adapterek, így növekszik a virtualizált grafikus teljesítmény elméletileg.
+
+
+A 3.3 a korábbiaknál kiterjedtebb migrációs képességekkel is bír, ugyanis nagyban független a vendégek mozgatása a processzorok típusától. Újdonság a paravirtualizált vendégek számára az SCSI-támogatás is. A rengeteg változást hozó Xennel kapcsolatban ugyanakkor kritikaként hozzák fel sokan, hogy továbbra is 2.6.18-as Linux kernelt támogat legfeljebb gazda operációs rendszerként, mellyel a vendégek menedzselhetõek, ami jelentõsen korlátozza az alkalmazhatóságot és biztonsági kockázatokat is felvethet.  

@@ -1,0 +1,12 @@
+Tesztelhetõ a Norton Antivirus és a Norton Internet Security 2010
+
+A 2010-es Norton termékek egy új, Quorum fantázianevû védelmi rendszert kapnak, melynek részleteirõl egyelõre keveset árul el a Symantec. A Norton Internet Security 2010 és a Norton Antivirus 2010 mindenesetre a korábbi verziókban már ismert kettõs felderítést alkalmazza majd, némileg továbbfejlesztve. A program része továbbra is a Norton Insight technológia, mely lényegében egy a felhasználók és a Symantec által biztonságosnak ítélt programokról vezetett, rendkívül naprakész adatbázis. A védelmi rendszer kettõs: a Norton Insight mellett továbbra is rendelkezésre áll a vírusdefiníciós adatbázis (mely egyébként szinte percenként frissül) alapján elvégzett szkennelés.
+
+A 2010-es bétaváltozatokban a Norton Insight mûködését igyekezett a felhasználók által jobban nyomon követhetõvé tenni a Symantec, a biztonságosnak minõsített programokról így elsõsorban több információt kap a felhasználó. Az új verziókban láthatóan a jobb tájékoztatás volt az egyik elsõdleges cél, így egy esetleges beazonosított fertõzés során a felhasználó több információhoz juthat hozzá, mint korábban, köszönhetõen az Autopsy kódnevû technológiának.
+
+A Norton Antivirus 2010 és Norton Internet Security 2010 emellett -- mondhatni már megszokott módon -- új felhasználói interfésszel érkezik, mely a Symantec szerint átláthatóbb és egyszerûbb kezelést nyújt mint a korábbi verziók. A Norton Internet Security 2010 bétájába új szülõi felügyeleti modul és spamfilter is került, elõbbi az online elérhetõ OnlineFamily.Norton termékre, utóbbi utóbbi a BrightMail technológiájára épül.
+Az új Symantec internetbiztonsági programok próbaváltozatai letölthetõk a szoftvercég bétatesztelõknek létrehozott weboldaláról. A Windows XP, Vista és Windows 7 operációs rendszerekkel kompatibilis alkalmazások végleges verziói várhatóan az eddigi gyakorlatnak megfelelõen õsszel jelenhetnek meg.	     
+                  
+                  
+                  
+                   

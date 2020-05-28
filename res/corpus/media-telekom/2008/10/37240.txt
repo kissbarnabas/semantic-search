@@ -1,0 +1,35 @@
+Két új mobilszolgáltatót akar látni az NHH
+
+A háromszereplõs status quo megbontása érdekében a Nemzeti Hírközlési Hatóság (NHH) új szolgáltatókat invitál a magyar mobilpiacra. A döntés értelmében egy új operátor számára a jelenlegiekkel megegyezõ spektrumhasználati jogokat biztosítana a hatóság, míg egy másik a 450 megahertzes tartományban üzemelhetne -- közölte ma Pataki Dániel, az NHH elnöke. Ezen kívül további öt spektrumot nyitottak meg a szupermagas frekvenciatartományban a vezeték nélküli háttérinfrastruktúra fejlesztése céljából.
+
+
+
+Elgyengült a Vodafone hatása
+
+A Vodafone 1999 végi megjelenése felpezsdítette az addigra a kritikus tömeget elérõ, és gyorsuló pályán növekvõ magyar mobilkommunikációs piacot, és a Westel-Pannon GSM duopolista berendezkedése felborult. A Vodafone éveken keresztül agresszívan terjeszkedett, folyamatosan növelve részesedését az elõfizetõi táborban. Az elmúlt években, egészen pontosan 2005-tel kezdõdõen újra beállt egy egyensúly az immár háromszereplõs piacon, az elmúlt évben pedig teljességgel elhanyagolható fluktuációt mutattak csak a részesedések. Ennek eredményeként a hanghívások költsége beállt, a korábbi árerózió lelassult az a végzõdtetési díjak drasztikus csökkentése ellenére is, ami a verseny csökkenésének egyértelmû jele --  mondta el Pataki.
+
+Bár a mobilinternet terén intenzívnek tûnik a fejlesztési és árazási verseny, mivel új, meghódításra váró területrõl van szó, ez valószínûleg átmenetinek bizonyul majd, ahogyan a piacszerzés helyett a cégek a rövidtávú pénzszerzés felé fordulnak. A mobilinternet rövid idõn belül meghatározó tényezõvé nõtte ki magát itthon, az elõfizetõk száma mára meghaladhatta a 400 ezret is az NHH rendelkezésére álló adatok alapján, az alacsony hazai 40 százalék körüli szélessávú penetráció mellett azonban még rengeteg növekedési lehetõség maradt továbbra is.
+
+
+
+Az ADSL modelljéhez hasonlóan ezen segíthetne a virtuális mobilszélessáv-szolgáltatók megjelenése is, melyek a hálózatokat üzemeltetõ operátoroktól nagykereskedelmi áron vásárolt kapacitásokat értékesítenék tovább lakossági és üzleti ügyfelek felé. Több telkó, köztük a Vodafone véleménye szerint azonban a virtuális szolgáltatók, vagyis a zsargonban az MVNO-k üzleti modellje nem vonzó, ezzel szemben az MVNO-jelenlétben érdekelt hazai alternatív telekomok a T-Mobile, Pannon és Vodafone összejátszását sejtetik -- virtuális partnerekkel egy-egy vállalat ugyan átmeneti elõnyhöz juthatna a nagyobb piaci jelenlét hatására, azok hasonló válaszlépésével ez az elõny azonban rohamosan elolvadna, majd beállna egy újabb "egyensúlyi állapot", mégpedig több szereplõvel és alacsonyabb árszínvonallal.
+
+
+Az NHH a versenyhelyzet elmúlt években tapasztalt gyengülése hatására döntött úgy, hogy az állóvíz felkavarása érdekében egy új, a jelenlegiekkel egyenértékû negyedik mobilszolgáltatóra van szükség, továbbá a hátrányos elhelyezkedésû, ritkábban lakott területek mobilkommunikációs lefedése érdekében egy ötödikre is. A pályázóknak semmiféle kapcsolata nem lehet a jelenlegi operátorokkal, és egy pályázó csak egy csomagot nyerhet. Az állami érdekeltségû cégek sem indulhatnak.
+
+A teljesértékû A-csomagban 900, 1800  és 2100 megahertzes GSM/UMTS tartományokra vonatkozó licencre lehet pályázni, a követelmény három év alatt 35 százalékos lefedettség elérése a lakosságra vetítve. A B-csomag egy 450 megahertzes licencet takar, mellyel elsõsorban mobil szélessávval kívánja lefedetni a hátrányos helyzetû településeket az NHH. Mindkét pályázónak legalább 100 millió forint egyszeri díjat kell kínálnia a 15+7,5 éves licencért, és éves nettó árbevételük minimum 0,75 százalékát. A jelenlegi várakozások szerint az NHH jövõre WiMAX szabványú hálózatokhoz is ír ki frekvencapályázatot.
+
+Vezeték nélküli backhaul
+
+A kiskereskedelmi célú frekvenciákon túl az NHH, ismét a szélessávú internet-hozzáférések penetrációjának növelése érdekében, további öt olyan licencre írt ki pályázatokat, melyek az adatkommunikációs háttérinfrastruktúrák fejlesztését szolgálják. A 26 gigahertzes tartományra kiírt, 56-112 megahertz széles spektrumok rendkívül nagy, több gigabites másodpercenkénti adatátviteli sebességet tesznek lehetõvé. Az NHH erõsíteni akarja a szolgáltatók közötti együttmûködési hajlandóságot, ezért az egyik csomaghoz csak közösen, egy új és egy jelenlegi mobilszolgáltató együtt juthat hozzá, míg az új operátoroknak további két csomag áll rendelkezésére. A fennmaradó két licenc egyikéért bárki indulhat, a másikért szintén, kivéve a jelenlegi mobilcégeket.
+
+A pályázati kiírást október 22-tõl lehet megvásárolni, a pályázatokat 2008. november 20., 9.00 és 12.00 óra között kell benyújtani. A GSM/DCS/UMTS pályázat és a 450 megahertzes pályázat eredményhirdetésére legkorábban 2008. december 22-én, a 26 GHz-es pályázatok eredményhirdetésére pedig 2009. január 30-án kerülhet sor.
+
+Végzõdtetési díjak
+
+Mindezzel nem ért véget a mobilszolgáltatókat kellemetlenül érintõ hírek sora. Az NHH kihirdette a következõ három évre érvényes mobil végzõdtetési díjakat. Jövõ januártól egységesen 16,84 forintot kérhet egy szolgáltató a hálózatába beérkezõ hívások fogadásáért, 2010-tõl 14,13 forintot, 2010 decemberétõl pedig 11,86 forintot. Az árakat a hatósági elõírás értelmében évrõl évre drasztikusan csökkenteniük kell a szolgáltatóknak, és 2009 január elsejével teljesen költségalapúvá, vagyis elszámoltathatóvá kell tenniük, továbbá szimmetrikussá is egyben.
+
+
+
+
+Ezzel három év alatt 42 százalékkal estek a végzõdtetési díjak, a következõ három évben pedig további 40 százalékkal csökken majd. Az NHH ezzel láthatóan elõtte jár az európai szintû tervezetnek, ugyanakkor kérdéses, ez az árszínvonal hogyan viszonyul a Brüsszel által elképzeltekhez. A hazai vezetékes végzõdtetési díjak egy nagyságrenddel alacsonyabbak ugyanis a mobilhálózatokénál, a hívásvégzõdtetés a Magyar Telekom esetében 0,81 és 2,63 forint között alakul például. A mobil végzõdtetési díjak nagyon nagy különbségeket mutatnak Európa szerte, és átlagosan kilencszer magasabbak a vezetékes végzõdtetési díjaknál, ami irritálja az Európai Bizottságot, és jelenleg is vizsgálják a beavatkozási lehetõségeket.

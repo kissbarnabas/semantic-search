@@ -1,0 +1,81 @@
+Kipróbáltuk: Apple Mac mini és Time Capsule
+
+Március elején hosszú idõ óta elõször frissítette asztali számítógépeit az Apple, így korszerûbb, erõsebb konfigurációk jelentek meg az iMac és Mac mini termékcsaládban, ezzel együtt megújult a cég vezeték nélküli routere, az Airport Extreme, valamint a routert és hálózati adattárolót egybe integráló Time Capsule is. A frissített termékek közül kettõ, a drágábbik Mac mini és az új Time Capsule látogatott el hozzánk egy rövid bemutatkozásra.
+
+
+
+Az Apple hazai PR-ügynökségétõl érkezõ dizájnos dobozok két, meglehetõsen hasonló külsejû eszközt rejtettek magukban. A vaskosabb csomagolásból elsõként elõkerülõ új Mac mini elsõ ránézésre alig különbözik a 2007 augusztusában bemutatott elõdjétõl, az Apple azonban több olyan apró változást is eszközölt a nagyjából kéttenyérnyi méretû dobozba zsúfolt, többnyire noteszgépalkatrészekbõl álló hardveren melyek az elõdmodellhez viszonyítva jelentõsen növelik a gép ár/érték arányát.
+
+Szépségesen egyszerû
+
+Elõször is érdemes leszögezni a Mac minivel kapcsolatban -- melybõl az elsõ, még G4-alapú példányt 2005 elején dobták piacra --, hogy kevés ennyire ízlésesen megalkotott, végtelenségig letisztult asztali számítógépet látni a boltok polcain. Nem véletlen, hogy az Apple által sikerre vitt koncepciót azóta többen is próbálják magukévá tenni, több-kevesebb sikerrel. A Mac mini egyszerûségébõl, nem utolsósorban apró méreteibõl fakadóan éppúgy lehet része az irodának, dolgozószobának, mint a nappalinak -- mi utóbbiba tudjuk leginkább elképzelni.
+
+
+
+
+
+A gép fizimiskája elölrõl mit sem változott, egyedül a slot-in mechanikájú DVD-író nyílása van bevágva az alumínium elõlapba, bármennyire is praktikus lenne, az Apple nem rak sem ajtó alá rejtett csatlakozókat, sem nyomógombokat (bekapcsológomb, lemezkiadó-gomb) a homlokzatra. Apropó DVD-író. Ez az egyik pont, ahol az új Mac mini (pontosabban annak az alapkonfigurációja) elõrelépést hoz az elõdmodellhez képest: bármennyire is ósdi megoldásnak tûnik, a gyártó a 2009 márciusában megjelenõ modellfrissítésig csak CD-íróval látta el az olcsóbb változatokat.
+
+
+
+A kis dobozka hátulja már érdekesebb, az avatott szemek számára könnyebben felfedezhetõ változásokat mutat. Így az Apple lecserélte a széles, nagy helyet elfoglaló DVI-portot, pontosabban helyettesítette egy sokkal kisebb mini-DVI porttal (ehhez egy átalakítókábelt is ad a gyártó az alapcsomagban). A gépen jutott hely még egy további digitális képkimenetnek, egy mini DisplayPort csatlakozónak, mely mostanra az újabb Macintoshok mindegyikén megtalálható (a két kimenet párhuzamosan is üzemelhet). A több helynek köszönhetõen a hátlapra eggyel több USB kapu is kerülhetett, így az USB-portok száma ötre emelkedett.
+
+A FireWire port továbbra is jelen van, de megduplázódott az átviteli sebessége (az új Mac minikben már FireWire 800 szabványú vezérlõ dolgozik), a hátlapon emellett egy gigabites hálózati csatlakozó, tápcsatlakozó és két 3,5 milliméteres jack csatlakozó található a szokásos helyen. A Mac mini dobozába a gép mellé már említett DVI-átalakítókábelen kívül a tápegységet pakolták be a leírások és két telepítõlemez társaságában, a gép távirányítására szolgáló Apple Remote azonban nem része többé az alapcsomagnak.
+
+Noteszgép a tégladobozban
+
+Az új Mac minik a külsejüket nézve kevesebb, a doboz belsejében annál több változást hoznak. Az új alkatrészeknek köszönhetõen a gépek teljesítménye -- különösen a grafikus feldolgozást tekintve -- jelentõsen nõtt, miközben az áramfogyasztást sikerült visszafogni. Az Apple szerint a Mac mini a 13 wattos üresjárati átlagfogyasztásának nincs párja a világon az asztali gépek mezõnyében &#8211; persze valójában könnyû találni ennél jóval energiatakarékosabb rendszereket (például egyes VIA C7-M vagy Intel Atom-alapú megoldások), igaz, azok számítási teljesítménye is elmarad a Mac miniétõl.
+
+
+
+
+A gép lelkét egy Penryn-alapú, tehát 45 nanométeres gyártástechnológiával készülõ, eredetileg noteszgépekbe szánt Core 2 Duo P7350-es processzor adja, mely 2 GHz-es órajelével, 3 megabájtnyi másodszintû gyorsítótárával komoly számítási teljesítményt képvisel -- mindezt teszi 25 wattos TDP mellett (az elõdmodellbe szerelt Core 2 Duo T5600 és T7200 típusok TDP-je 34 watt). A processzorhoz az Intel mobil lapkakészletén keresztül 1 (az alapmodellben) vagy 2 gigabájt memória csatlakozik, mely jelen esetben már nem 667 MHz-es DDR2-es, hanem 1066 MHz-en ketyegõ DDR3-as chipekbõl áll. Gyorsabb lett az új Mac mini WLAN-adaptere is, mely immár a draft-802.11n szabványnak is megfelel.
+
+Az Apple beláthatta, hogy a manapság oly divatos HD-videózás sokkal gördülékenyebb lehet egy diszkért grafikus processzor közbeiktatásával, így a Mac mini talán leglényegesebb átalakításával szakítottak a korábbi, lapkakészletbe integrált grafikus vezérlõvel, helyette az NVIDIA GeForce 9400M típusú, amúgy szintén mobil felhasználásra tervezett grafikus chipjével látták el a kis gépet. A HD-videóknak kell a hely, éppen ezért a merevlemez kapacitását is megnövelte a gyártó: a Mac mini legalább 120 gigabájtos, 5400 fordulat/perces motorral ellátott, 2,5 hüvelykes merevlemezzel érkezik, a nagyobbik modellbe szerelt HDD kapacitása háromszor ekkora.
+
+Drága az alma
+
+Az új Mac mini a hardvert érintõ, elsõre nem feltétlenül szembeötlõ változtatásoknak köszönhetõen véleményünk szerint sokkal jobb, de legalábbis idõtállóbb vétel lett elõdjénél, bár 599 dolláros induló ára miatt ár/teljesítmény mutatója továbbra is az egyik legrosszabb a mezõnyben. Tapasztalataink azt mutatják, hogy a gép otthoni multimédiás központnak kitûnõen beválik, így meg sem kottyant neki a HD-videók lejátszása, legyen szó bármilyen formátumról, illetve igény esetén egy kis 3D-s játszadozástól sem jön zavarba a rendszer. Mindezt teszi a legnagyobb csöndben, miközben a noteszgépalkatrészek miatt alig melegszik a ház és a tápegység sem süti meg a környezetét.
+
+
+
+
+
+A gép Mac OS X (v10.5.6) operációs rendszerrel érkezik alapkiépítésben, melynek mûködését most  most nem részletezzük -- aki ismeri, aligha válik meg tõle, akit pedig elijeszt a Leopard, az Intel-alapú konfiguráció lévén akár Windowst is telepíthet a Mac minire.
+
+Idõutazás márpedig létezik!
+
+A Mac OS X egyik beépített szolgáltatásához, a Time Machine rendszermentõ szoftverhez fejlesztett hardver az elõször tavaly januárban bemutatott Time Capsule. Az egység lényegében egy hálózati útválasztó és egy hálózati adattár keresztezõdésébõl létrejövõ hasznos kiegészítõ, mely amellett, hogy megosztja az internetet, a hozzá csatlakozó számítógépeken tárolt adatok lementésére is használható, függetlenül attól, hogy a kliensen Mac OS X vagy Windows (XP vagy Vista) fut.
+
+
+
+
+
+A Mac minire kissé hasonlító, annál valamivel nagyobb területet foglaló, de jóval vékonyabb Time Capsule mostanra a második generációját éli, az Apple az új Mac-ekkel egy idõben dobta piacra a megújult változatot, melyet az elõdökhöz hasonlóan 500 gigabájtos és 1 terabájtos tárkapacitással forgalmaz most is.
+
+
+
+
+Az új Time Capsule külsõre semmit nem változott elõdjéhez képest, így a lapos dobozka hátulján három gigabites LAN- és egy WAN-csatlakozó és egy USB kapu (nyomtatók és további háttértárak részére fenntartva) sorakozik. Az eszköz beépítve tartalmazza a tápegységet, ezért közvetlen 230 voltos bemenettel rendelkezik, a tápkábel a telepítõlemez és a leírások mellett része az alapcsomagnak.
+
+Két sávon, párhuzamosan
+
+A megújult eszköz egyik legfontosabb újdonsága, hogy a WLAN-vezérlõ immár képes párhuzamos mûködésre a 2,4 és az 5 GHz-es frekvenciasávokban, így egyszerre tud csatlakozni a rendszerhez egy vagy több 802.11b/g/n és 802.11a szabványú kliens. Nem az Apple találmánya ugyan, de rendkívül hasznos a vendégkliensek számára fenntartott "guest network" létrehozásának lehetõsége. Ezzel kvázi egy második, tetszõleges azonosítóval ellátott vezeték nélküli hozzáférési pontot nyújt a router, melyen keresztül csak az internetet érik el a csatlakoztatott eszközök, a helyi hálóra nincs bejárásuk.
+
+
+
+
+
+A Time Capsule konfigurálása és elindítása gyerekjáték, az Apple egyszerû, a lehetséges buktatókra mindig figyelmeztetõ varázslójával hamar megteremthetõ az internetkapcsolat, a Time Machine alkalmazással pedig beállíthatók mentések különbözõ paraméterei. A Time Capsule inkrementális mentést végez, azaz csak az utolsó mentés óta megváltozott, vagy létrehozott állományokról készít biztonsági másolatot. Az elsõ rendszermentés jellegébõl fakadóan ezért órákig is eltarthat, az Apple ezért azt javasolja, hogy hagyjuk magára éjszakára a rendszert az elsõ alkalommal. A hálózati adattár a mentések mellett természetesen hagyományos tárterületnek is befogható, és mint írtuk, windowsos backup-alkalmazás is jár hozzá.
+
+Az eszköz leginkább WLAN-kapcsolaton keresztül hajlamos a komótos másolásra, így hiába a 802.11n szabványtervezetnek megfelelõ kapcsolat, az adatátvitel sebessége méréseink szerint még akkor sem haladta meg lényegesen a 20 megabájtot másodpercenként, ha a Time Capsule a kliens közvetlen közelében helyezkedett el. A leggyorsabb adatátvitel az eszköz Gigabit Ethernet csatlakozójával lehet elérni, de ekkor is csak 80-90 megabájt/másodperces átviteli tempót mértünk -- a szûk keresztmetszetet itt már nyilvánvalóan a merevlemez jelentette.
+
+Vissza a jelenbe
+
+Az Apple idõkapszulája kétségtelenül hasznos, könnyen kezelhetõ hálózati kiegészítõ, mely amellett, hogy megosztja az internetet egy lakóház vagy egy kisebb iroda kliensei közt, az adatok lementésére is befogható. A Time Capsule ráadásul távolról is elérhetõ, igaz, ehhez szükség van egy MobileMe elõfizetésre is, mely évente 99 dollárért igényelhetõ. A berendezés ettõl eltekintve sem olcsó, bár a modellfrissítés után (melynek valljuk be, itt vajmi kevés jelentõsége van) az Apple szokásához híven változatlanok maradtak az árak: az 500 GB-os modell 299, az 1 TB-s változat 499 dollárba kerül.
+
+
+
+
+
+Különösen utóbbi tûnhet igazán szíven ütõ ajánlatnak, pláne a hazai jövedelmi viszonyokat és a jelenleg meglehetõsen gyenge lábakon álló forintot alapul véve. Ennyi pénzért véleményünk szerint beférhetett volna a dobozba egy modem, hiányoljuk továbbá a UPnP/DLNA-támogatást is a Time Capsule-bõl.

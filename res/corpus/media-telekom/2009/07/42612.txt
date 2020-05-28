@@ -1,0 +1,14 @@
+Androidos szoftverfejlesztõ készlet a Motorolától
+
+Ingyenes integrált szoftverfejlesztõi környezet
+Természetesen az Androidot megálmodó Google is rendelkezik androidos szoftverfejlesztõi készlettel, de a Motorola szerint a Motodev Studio annál sokkal többet nyújt, mivel egy teljesen integrált fejlesztõi környezet Eclipse-alapokon, számos sablonnal, gyakran használt kódrészletek könyvtárával, optimalizációs segédletekkel. A Motodevben beépített emulátor is van, amelyen tesztelhetõk az elkészített alkalmazások, amelyeket aztán egybõl fel is lehet tölteni az Android Market alkalmazás-piactérre.
+
+Az ingyenesen letölthetõ Motodev Studio az Android platform 1.1-es és 1.5-ös verzióját is támogatja és természetesen nem csak Motorolára, hanem bármilyen más androidos készülékre lehet vele fejleszteni. Az amerikai cégnek jelenleg egyetlen androidos telefonja sincs piacon, sõt, egyetlen konkrét modellt sem jelentet be még.
+Arccal az Android felé
+A mobilpiac egykori második helyezettje, az amerikai Motorola  egyre inkább visszaszorul, részesedése ma már mindössze 6 százalék körül van. A vállalat az Android platform bevetésétõl várja szerencséjének jobbra fordulását, az egykori tömeggyártóból egy rétegigényeket megcélzó, az okostelefonokra koncentráló céggé kíván válni. A Motorola elsõ androidos modelljei várhatóan az év végén jelennek meg, amirõl több mobilszolgáltatóval is tárgyal a cég, és nem csak az Egyesült Államokban.
+A Motorola egy gyakorlatilag a piac számára ismeretlen, nem bizonyított platformra teszi fel a jövõjét, ami természetesen kockázatos húzás. Ezt a kockázatot azonban vállalnia kell a cégnek, ha még valaha meg akar kapaszkodni a piacon, és a legnagyobb öt mobilgyártó közt maradni. A Motorola mindössze 14,7 millió mobilkészüléket adott el az év elsõ három hónapja során, 46 százalékkal kevesebbet mint egy évvel korábban, részesedése pedig 6 százalékra olvadt.
+Az okostelefonok a jövõben nemcsak a kifejezetten drága, felsõ kategóriás modelleket fogják takarni, vélik a Motorolánál, a szegmens bõvülni fog lefelé is. Sanjay Jha elnök-vezérigazgató az elsõ negyedév végén rendezett elemzõi konferenciahíváson elárulta, hogy a Motorola egyetlen Android platformot kíván létrehozni, melynek funkcióit megfelelõen testre tudja szabni az adott szegmenst célzó készülékek számára. A vezetõ ugyanakkor leszögezte, hogy a stratégiájuk egyik alapvetõ eleme, hogy szûkebb, kevésbé diverzifikált kínálattal jelennek meg, mégpedig annak érdekében, hogy a lehetõ legjobb felhasználói felület és élmény elérésére koncentrálják erõforrásaikat.	     
+                  
+                  
+                  
+                   

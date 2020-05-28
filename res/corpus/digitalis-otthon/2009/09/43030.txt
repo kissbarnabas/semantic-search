@@ -1,0 +1,17 @@
+Valós idejû ray tracing az Intel új grafikus chipjével
+
+Valós idejû ray tracing
+Az Intel fejlesztõi konferencián elsõként mutatta be mûködés közben a Larrabeet, amely a vállalat masszívan párhuzamos grafikus processzora. A demó során a chip valós idejû ray tracing renderelést végzett egy hatmagos, 32 nanométeres, Westmere architektúrára épülõ processzor társaságában az Enemy Territory: Quake Wars játékban. A Larrabee erejét jól mutatja, hogy az Intel a tavalyi IDF-en egy hasonló demót mutatott be két évvel ezelõtt, ami azonban akkor négyutas, négymagos Xeonokból álló szerveren futott.
+Sean Maloney, az Intel Architecture Group vezetõje kérdésre válaszolva elmondta, a Larrabee különálló grafikus kártyán is megvásárolható lesz majd csúcsteljesítményû PC-khez és munkaállomásokhoz. "Érkezik egy diszkrét termékünk" - mondta Maloney. A végsõ cél azonban az, hogy a Larrabeet integrálják a processzorokkal különféle szegmensek számára. Az elsõ, Larrabeet integrálva tartalmazó processzor kódneve Haswell, 22 nanométeres csíkszélességû technológiával készül majd és várhatóan 2011-2012 körül kerülhet piacra. Maloney elmondása szerint a távlati cél az, hogy a Larrabee vagy valamilyen leszármazottja akár a mobil eszközökbe,például okostelefonokba szánt chipekben is felbukkanhasson.
+
+Mi is az a Larrabee?
+Amint az ismert, a Larrabee egy masszívan párhuzamos architektúra, melynek 45 nanométeres implementációja várhatóan több tucat, egyes becslések szerint akár 32 módosított x86-os magból épül fel, melyeket körbusz köt össze. Az x86-os magok a szoftveres kompatibilitást és a vezérlést szolgálják, a számításokat az 512 bit széles vektoros végrehajtóegységek végzik, melyek például 16 pixelen tudnak egyszerre manipulációt végrehajtani, vagy 8 darab 64 bites precizitású matematikai számítást elvégezni.
+
+A Larrabee új utasításarchitektúrával is rendelkezik, az x86-ot a Larrabee New Instructions (LRBni) egészíti ki, mely több mint 100 új utasítást hoz magával, többségükben vektorosakat. Bár az Intel célja elsõsorban a grafika volt, és támogatja a DirectX és OpenGL kódúttal bíró rendereléseket is, az utasítások túlnyomó része általános célú, vagyis más feladatokra is alkalmazható, így a Larrabee lényegében egy rugalmasan programozható vektorizált processzor, amelyet egyébként grafikus számításokra is hatékonyan lehet használni. Ennek bizonyítéka az IDF-en bemutatott demó is, hiszen a ray tracing egész más jellegû számításokat követel meg mint amik a grafikus API-k (DirectX, OpenGL) futtatásához szükségesek.
+Bár az Intel állítása szerint a Larrabee tervezési fókuszát a grafika képezte, valójában a 3D grafikán kívüli területek védelme az elsõdleges, stratégiai feladata. A Larrabee gyorsítókártyaként is funkcionálhat PC-kben és szerverekben egyaránt, multimédiás feladatok, mûszaki-tudományos, üzleti célú kalkulációk végzésében. Ezekre a területekre ugyanis egyre nagyobb veszélyt jelentenek az egyre rugalmasabba programozható grafikus processzorok, jelenleg fõként az NVIDIA chipjei.
+2010 elején jöhet
+A Larrabee érkezésének idõpontjáról Maloney nem árult el részleteket, azonban áprilisban, a kínai Intel Developer Forumon Paul Otellini, a cég elnök-vezérigazgatója 2010 elejére ígérte a chipet. A rivális NVIDIA-tól származó  pletykák szerint azonban a Larrabee-projekt egyelõre nem áll úgy, ahogy az Intel szeretné és állítólag ezzel kapcsolatos Pat Gelsingernek, az Intel mûszaki igazgatójának távozása is.	     
+                  
+                  
+                  
+                   

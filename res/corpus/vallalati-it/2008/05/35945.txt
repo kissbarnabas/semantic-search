@@ -1,0 +1,14 @@
+A vártnál hamarabb megjelenhet a Microsoft hypervisora
+
+A múlt heti Interop rendezvényen a Microsoft bejelentette, az eredetileg augusztusra ígért Hyper-V virtualizációs köztesréteg fejlesztése annyira jól halad, hogy akár 1-2 hónappal a tervezett idõpont elõtt megjelenhet.
+
+
+ 
+Az eredetileg Viridian, késõbb Windows Server Virtualization néven fejlesztett Hyper-V a Microsoft mikrokerneles hypervisora, ami képes a szerver erõforrásainak (memória, processzor, stb.) megosztására, ezáltal lehetõvé téve több operációs rendszer párhuzamos futtatását egy szerveren. Dai Vu, a Microsoft virtualizációs termékekért felelõs vezetõje úgy vélekedett, a jelenleg kiadásra jelölt (RC) verzióban bárki számára elérhetõ hypervisor már júniusban vagy júliusban elérheti a végleges, "gyártásra kész" (RTM) állapotot.
+
+A Hyper-V legfeljebb 16 processzormagot és 2 terabájt memóriát támogat, a futtatható virtuális gépek (vendégek) száma nincs korlátozva, azoknak csak a rendelkezésre álló erõforrások szabnak határt. Vendégként Windows Server 2008, Windows Server 2003 R2, Windows XP és Vista mellett Windows Server 2003 SP2, Windows Vista SP1, Windows XP SP3, valamint SUSE Linux Enterprise Server 10 is futtatható Hyper-V környezetben.
+
+
+ A Hyper-V funkcionalitását korábban már meg kellett kurtítani annak érdekében, hogy a kitûzött határidõre megjelenhessen, így a szoftver jelen formájában nem képes a virtuális gépeket mûködés közben egyik fizikai szerverrõl a másikra mozgatni, nem lehet a mûködõ virtuális gépekhez "menet közben" további erõforrásokat hozzárendelni. A Hyper-V számûzött funkciói egy késõbbi változatban lesznek elérhetõk.
+
+A Hyper-V megjelenését követõ 30-60 napon belül érkezik a Microsoft System Center Virtual Machine Manager 2008, amelynek teljes funkcionalitású bétáját a múlt heti Microsoft Management Summit rendezvényen jelentették be. A VMM 2008-ból nem csak Hyper-V, hanem VMware ESX Server és Microsoft Virtual Server környezetben futó virtuális gépek is felügyelhetõk.

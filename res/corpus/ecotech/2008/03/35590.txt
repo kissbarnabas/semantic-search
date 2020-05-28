@@ -1,0 +1,20 @@
+Egyesülésrõl tárgyal az NVIDIA és a VIA
+
+[DigiTimes/HWSW] Alaplapgyártóktól származó, meg nem erõsített értesülések szerint összeolvadásról tárgyal az NVIDIA és a VIA -- írja a DigiTimes. A chipsetpiacot egykor vezetõ tajvani vállalat lényegében partvonalon kívülre került, ahogy kezdetét vette a "platformosodás", és az Intel minden szegmensben totális letámadást indított a piac ellen. A különféle felmérések szerint a VIA ma már 0,5 százalékos, vagy még ennél is kisebb részesedéssel bír a CPU-piacon, és a chipsetpiacon is elvesztette befolyását, ahogy az Intel keresztlicenc-megállapodást kötött az NVIDIA-val, az AMD pedig bekebelezte az ATI-t.
+
+
+
+A pálya szélén
+
+Ez oda vezetett, hogy a VIA termékei egy igen szûk, és ráadásul egyáltalán nem jövedelmezõ szegmensbe, a fejlõdõ piacokra szánt szuperolcsó PC-kbe szorultak, a cég pedig ennek köszönhetõen jó ideje masszívan veszteséges. A cég által nyilvánosságra hozott adatok alapján tavaly már kevesebb mint félmilliárd dollár volt a bevétele, 2006-hoz képest több mint 31 százalékkal csökkenve. Januárban egy tajvani forrás olyan információt szellõztetett meg, hogy a VIA fokozatosan felhagy a chipsetek forgalmazásával, a divíziót összevonják a processzor-részleggel, és a jövõben a saját CPU-k kiszolgálására koncentrálnak.
+
+ Belsõs források szerint az NVIDIA és a VIA között zajló tárgyalások során három lehetséges megoldás merült fel. Az elsõ szerint stratégiai együttmûködési megállapodás születne a két vállalat között, a második szerint az NVIDIA megvenné a VIA processzor-üzletágát, a harmadik szerint pedig bekebelezné az egész céget. Úgy tudni, a VIA túl magas árat kért, ezért egyelõre nem született megállapodás, de alaplapgyártók szerint a VIA pénzügyi helyzete egyáltalán nem látszik javulni a jövõben, ezért a cég alighanem be fogja adni a derekát az NVIDIA-nak, vagy másnak.
+
+Értékes felvásárlási célponttá teheti az NVIDIA szemében a VIA-t legújabb fejlesztése, az ígéretesnek tûnõ Isaiah kódnevû processzor, amely kimondottan alacsony fogyasztású mobil chip, a leghatékonyabb energiatakarékos technológiákkal felvértezve. Az Isaiah az ígéretek szerint a jelenlegi legjobb VIA-processzor teljesítményének legalább kétszeresét nyújtja, de egyes területeken a gyorsulás akár négyszeres is lehet, ráadásul mindezt azonos órajelen és fogyasztási keretbõl, ígéri a vezetõ tervezõ Glenn Henry. Az Isaiah megjelenését tavaszra ígéri a VIA, a vállalat szerint a chip csak az elsõ tagja egy teljesen megújuló termékcsaládnak, amelyben késõbb többmagos lapkák is helyet kapnak majd.
+
+CPU+GPU
+
+
+ Az x86-os chipek fejlesztése terén a VIA-nél felhalmozott tapasztalat kapóra jöhet az NVIDIA számára. Ma már egyértelmûen látszik, hogy a piacon néhány éven belül meghatározó szereplõvé válnak a processzort és a grafikus vezérlõt egy lapkán integráló megoldások, ráadásul az ATI felvásárlása révén az AMD megkezdte a nagyteljesítményû grafikus megoldások platformosítását is, miközben az Intel 2009 végén jelentkezik dedikált vizualizációs chippel, melynek fejlesztési kódneve Larrabee. 
+
+A két processzorgyártó fejlõdési iránya tehát stratégiai fenyegetés az NVIDIA számára, mely azt a veszélyt hordozza magában, hogy a VIA sorsára jut. A videochipek sztárja azonban nem rendelkezik x86-os kompetenciával, mivel története során grafikus processzorokat és alaplapi chipseteket gyártott. A VIA, vagy legalábbis a processzortervezõ részleg felszippantásával az NVIDIA egycsapásra tényezõvé válhatna az integrált CPU-GPU szegmensben, felzárkózva az Intel és az AMD mellé, mögé, miközben a VIA pénzügyi és mérnöki erõforrásokhoz jutva drasztikusan javíthatná processzorfejlesztéseinek versenyképességét, életképes alternatívát kínálva a vevõknek  -- az x86-os  processzorpiac pedig valóban háromszereplõssé válhatna. 

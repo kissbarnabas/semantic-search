@@ -1,0 +1,22 @@
+Megjelent a Debian 5.0, a Lenny
+
+[HUP/HWSW] Frissült az egyik legnépszerûbb Linux-disztribúció, a Debian, a hétvégén megérkezett az 5.0 verzió, amely közel két évnyi kemény fejlesztõmunka gyümölcse. A "Lenny" kódnevû disztribúció újdonságainak listája szinte végtelen, ezért nem is vállalkozunk annak ismertetésére, igyekszünk kiragadni a legérdekeebb vagy legjelentõsebb fejlesztéseket. 
+
+
+
+Új csomagok serege
+
+A Debian 5.0 számos frissített szoftvercsomagot tartalmaz, a verziószámokból ugyanakkor látszik, hogy a disztribúció összeállítói továbbra is konzervatívak, számos komponensbõl létezik már újabb. A 2.6.26-os kernelre épülõ Lennyben helyet kapott a  3.5.10-es KDE, a 2.22.2-es GNOME, az X.Org 7.3, az OpenOffice.org nyílt forrású irodai csomag 2.4.1-es verziója, a GIMP 2.4.7, a Firefoxon alapuló Iceweasel böngészõ 3.0.6-os változata, a Thunderbird-alapú Icedove levelezõ 2.0.0.19-es verziója. A PostgreSQL adatbáziskezelõnek a 8.3.6-os, a MySQL-nek pedig az 5.0.51a változata került bele a Debian 5.0-ba.
+
+
+ Az új komponenseknek köszönhetõen a Lenny teljes támogatást nyújt az NTFS fájlrendszerhez, illetve a legtöbb multimédiás állományformátumhoz is. A noteszgépek tulajdonosai annak örülhetnek, hogy a Debian 5.0 már támogatja a dinamikus órajelszabályozást, és a fejlesztõk szerint a netbookok támogatása is sokat javult.
+
+Kényelmesebb telepítés, biztonságosabb használat
+
+A biztonság területén is történt néhány fontos elõrelépés, amely részben a telepítõ továbbfejlesztésének köszönhetõ. A Lenny installáló komponense már a standard telepítés során csökkenti a nyitott portok és a setuid root-os binárok számát, valamint még az elsõ újraindítás elõtt képes installálni a biztonsági frissítéseket.
+
+A telepítõ nem csak biztonsági, hanem kényelmi frissítésen is átesett. A 63 nyelvre lefordított telepítõ (ismét) támogatja az egynél több CD-rõl vagy DVD-rõl történõ telepítést, az egyes eszközök által igényelt firmware-ek betöltését eltávolítható médiáról, illetve mostantól fogva akár Braille-kijelzõn is végezhetõ az installálás. A telepítõ boot folyamata során grafikus menü használható az elõtétprogramok és grafikus környezetek, valamint a hozzáértõ (expert) és a rendszerhelyreállító (rescue) mód kiválasztásához. 
+
+Tizenkét architektúrán fut
+
+A Debian továbbra is az egyik legszélesebb körû hardvertámogatással rendelkezõ Linux-változat, a disztribúció nem kevesebb mint tizenkét különféle architektúrán fut, beleértve az x86-ot és x64-et, SPARC-ot, MIPS-et, PowerPC-t, ARM-ot, valamint az IBM S/390 mainframe-eket. A Debian elõzõ, 4-es változatáról az aptitude csomagkezelõvel a legtöbb esetben automatikusan lehet 5.0-ra frissíteni.

@@ -1,0 +1,14 @@
+Továbbra is szélmalomharcot vívnak a Blu-ray másolásvédelme mellett kardoskodók
+
+Úgy tûnik, hiába a jogtulajdonosok és a szabványfejlesztõk minden erõfeszítése, a mûsoros Blu-ray lemezek korábban többször is feltörhetetlennek titulált másolásvédelmét újra és újra kijátsszák. Ezúttal ismét a SlySoft AnyDVD HD alkalmazása tör borsot az illegális terjesztés miatt komoly bevételektõl elesõ filmipar orra alá: a cég október végén megjelent másolószoftvere már a BD+ másolásvédelmi technológia legújabb verzióját is kiiktatja.
+
+
+
+A kiadók,tartalomtulajdonosok láthatóan teljesen feleslegesen ölik fejlesztési és anyagi erõforrásaikat a különbözõ másolásvédelmekbe, csak idõ -- ráadásul egyre kevesebb -- kérdése, hogy okos fejlesztõk kerülõutat találjanak a lemezeken található tartalmak elérésére. Sokszor nem is maga a védelem, a kódolás gyenge, az elsõ védvonalat, az AACS-t például a PC-s lejátszóprogramok gyengeségeit kihasználva kerülték meg a crackerek.
+
+A SlySoft AnyDVD HD új, 6.4.7.9.es verziójának egyik lényeges újítása, hogy a másolószoftver immár a Blu-ray lemezek BD+ másolásvédelmének legújabb változatát is kiiktatja, azaz lehetõvé teszi a lemez tartalmának másolását, lementését. Az új változattal emellett el lehet távolítani a lemezek BD-Live funkcióját is -- ez a funkció eredetileg az online elérhetõ extra funkciók miatt került a szabványba, egyre többen érzik azonban adatvédelmi szempontból aggályosnak a jelenlétét, hiszen a stúdiók az internetre "felkéredzkedõ" lemez révén könnyedén feltérképezhetnek bizonyos felhasználói szokásokat (például, hogy hányszor tekintették meg a tartalmat).
+
+
+A BD+ védelmet támogató lejátszókban található "virtuális gépben" futtathatók olyan lemezen mellékelt alkalmazások, melyek ellenõrizhetik a lejátszási környezetet, annak érintetlenségét, a titkosító kulcsok valódiságát, eredetiségét. Bármilyen probléma esetén ezek az alkalmazások megakadályozhatják a tartalom elérését. Ez a védelem akár a lejátszott videó minõségét, paramétereit is módosíthatja, ha bármilyen kétség merülne fel a rendszerrel kapcsolatosan.
+
+A SlySoft programozói nem az elsõ alkalommal törik fel a BD+ másolásvédelmet: a cég márciusban adta ki az elsõ olyan AnyDVD HD-változatot, amely képes volt kiiktatni a rendszert. A cég notóriusan fittyet hány az amerikai és európai szerzõi jogi törvényekre, mindezt teheti teljesen legálisan, hiszen a SlySoftot egy közép-amerikai szigetországban, Antiguában jegyezték be, ahol az vonatkozó jogi szabályozás legalábbis megengedõ.

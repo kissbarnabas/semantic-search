@@ -1,0 +1,24 @@
+Bárki letöltheti a Windows 7 kiadásra jelölt változatát
+
+Azon kívül, hogy a Microsoft mérnökei tovább csiszolták a kódot, és az RC gyorsabb és stabilabb lett, több funkcionális újdonságot is hoz az év elején megjelent bétához képest. Ezek közül egyikrõl, a Windows XP Mode-ról már korábban is beszámoltunk. A Windows XP Mode (XPM) virtualizáció segítségével lehetõvé teszi a Windows XP-re írt alkalmazások változtatás nélküli futtatását Windows 7-en, a Microsoft ezzel elhárítja az új operációs rendszer széles körû terjedése elõtt álló egyik legnagyobb akadályt, az alkalmazás-kompatibilitási problémákat. 
+
+Az XPM lényegében ugyanúgy mûködik, mintha a Windows 7-et futtató PC-n egy virtualizált Windows XP SP3 is lenne, erre telepíthetõk fel az XP-t igénylõ szoftverek, azonban ezek a gazda operációs rendszerbõl, azaz a Windows 7-bõl is ugyanúgy indíthatók mint bármilyen más program. Így a felhasználók egyetlen asztali környezetbõl futtathatják a Windows XP-t igénylõ alkalmazásaikat a Windows 7-en natívan mûködõ programokkal. 
+
+
+Az XPM a Windows 7 RC-ben még nem végleges, csak béta állapotú, azonban a Microsoft szerint tesztelni már így is lehet. A komponens egyébként nem lesz része a végleges Windows 7-nek sem, önállóan letölthetõ és feltelepíthetõ egység, amely csak a Windows 7 vállalatoknak szánt változataival (Professional, Enteprise), valamint a mindent tudó Ultimate-tel mûködik -- telepítéskor ellenõrzi az operációs rendszer verzióját.
+
+Újdonság a Windows 7 RC-ben a Remote Media Stream, amely lehetõvé teszi a Windows-felhasználók számára, hogy bárhol a világon hozzáférjenek az otthoni Media Centerükön tárolt összes tartalomhoz, és ehhez csupán egy internetre kapcsolt, Windows 7-et futtató PC-re van szükségük. Apróság, de a Windows 7 RC-be bekerült az Internet Explorer 8 idõközben megjelent végleges változata, valamint a Windows 7 Upgrade Advisor bétája -- utóbbi a számítógépben található hardverek vizsgálata után megpróbál tanácsokat adni, mely komponenseket érdemes frissíteni a nagyobb teljesítmény érdekében.
+
+Kompatibilitás
+
+A Microsoft várakozásai szerint a Windows 7 minden eddigi Windowsnál gyorsabban terjed majd. Ennek oka részben az, hogy a szoftver a Vista továbbfejlesztett kernelére épül, de megtartja a visszamenõleges kompatibilitást az alkalmazásokkal, így az operációs rendszer megjelenésekor máris számtalan program mûködik vele. Egyedül kivételt a hardvereket nagyon alacsony szinten kezelõ programok jelenthetik (pl. víruskeresõk, biztosági szoftverek, lemezkép-kezelõk, tûzfalak), de a Microsoft szerint ezen a téren is jól áll a Windows 7, amelyre már a bétateszt idõszakában közel tucat vírusirtó érkezett meg.
+
+Azok számára, akik nem biztosak az alkalmazásaik kompatibilitásában, a Microsoft egy rendszeresen frissülõ adatbázist mûködtet, ahol ellenõrizhetik, hogy a népszerû szoftverek melyik verziója kompatibilis a Windows 7-tel. A redmondiak szerint a hardverekkel biztosan nem lesz gond, a ma kapható perifériák 95 százaléka kompatibilis már a Vistával, vagyis a Windows 7-tel is zökkenõmentesen mûködnie kell. A Microsoft egy ideje nem is bocsát ki Vista-kompatibilitási tanúsítványokat a meghajtókhoz anélkül, hogy a hardvergyártó az adott eszközt Windows 7 alatt ne tesztelné.
+
+Annak ellenére, hogy már a megjelenésre szánt verziónál tart a Windows 7 fejlesztése, a Microsoft továbbra sem nyilatkozik a végleges változat érkezésérõl. Egy múlt heti telefonos beszélgetés során Mike Nash, a Windows termékmenedzsere még azt sem árulta el, a karácsonyi ünnepekre boltokba kerül-e a szoftver. Az interneten keringõ pletykák és a HWSW értesülései szerint azonban nincs ok aggodalomra, a Windows 7 az õsszel megérkezik, a karácsonyi ajándéknak szánt PC-ken pedig már magyarul is megtalálható lesz.
+
+Fontos tudnivalók az RC-rõl
+
+Mit érdemes tudni a Windows 7 RC-rõl? A program két változatban tölthetõ le, 32 és 64 bites processzorral szerelt gépekhez értelemszerûen más-más csomag szükséges. A minimális hardverkövetelmény 1 GHz-es processzor, 1 gigabájt rendszermemória, DirectX 9 gyorsító és 16 gigabájt szabad terület a merevlemezen. Windows Vistáról újratelepítés nélkül, "helyben" lehet frissíteni a Windows 7 RC-re, bármilyen más operációs rendszerrõl azonban a teljesen új installálást javasolja a Microsoft, természetesen az adatok elmentése után.
+
+Azok, akik ma nem jutnak hozzá az RC-hez -- nagy tumultus várható a Microsoft letöltõszerverein -- ne csüggedjenek, az operációs rendszer elõzetese még hónapokig elérhetõ marad az interneten, a feltelepített szoftver pedig egészen jövõ nyárig (2010. június 1.) használható marad, bár 2010. márciusától kezdve kétóránként leállással figyelmezteti a tulajdonost, hogy ideje a végleges változatra frissíteni. 2009. június 1-étõl a Windows 7 bétája is ugyanezt teszi majd.

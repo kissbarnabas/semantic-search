@@ -1,0 +1,148 @@
+Exkluzív: kipróbáltuk a HP csúcskategóriás otthoni notebookját
+
+A HP a hazai notebookpiacon most még csak üzleti modellekkel van
+jelen, ilyen gépekkel próbálja meg kiszolgálni a fogyasztói igényeket
+is. Ez azonban hamarosan változik, a nyár végén ugyanis a hazai
+boltokba is megérkeznek a kimondottan a fogyasztói szegmensnek szánt
+Pavilion konfigurációk. 
+
+
+
+Ászok ásza
+
+A Pavilionok a business-kategóriás HP Compaq gépektõl nem csak külsejükben, hanem szolgáltatásaikat tekintve is látványosan eltérnek, egyértelmûen a multimédiás otthoni felhasználást célozzák. Szerkesztõségünkben a sorozat csúcsmodellje, a vadonatúj Centrino 2
+platformra épülõ Pavilion dv5-1080h vendégeskedett, ami egy 1680x1050 pixel felvontású 15,4 hüvelykes kijelzõvel szerelt, NVIDIA GeForce 9600M GT grafikus chipet tartalmazó notebook,  leginkább multimédiás felhasználásra, no meg persze játékok futtatására kihegyezve.
+
+
+
+
+
+A gép külsõre nem is különbözhetne jobban a HP konzervítv egyenszürke
+üzleti noteszeitõl. A lakkfekete fedlap sarkában a HP logó bekapcsoláskor világítani kezd, hasonlóan az Apple noteszeihez. A fedél elsõ látásra teljesen simának tûnik, közelebbrõl megnézve azonban látható, hogy valójában mintás, van textúrája -- jó ötlet, szépen kivitelezve. Ugyanez a minta köszön vissza a fedlap alatt, a billentyûzetet körbevevõ burkolaton, ahol viszont nem fekete, hanem csillogó ezüst. Ugyanilyen színû a billentyûzet és a két irányba scrollozós touchpad is. A nálunk töltött rövid idõ alatt a krómszínû festék nem kezdett el kopni, de nem vennék rá mérget, hogy hosszú távon is strapabíró. Reméljük, hogy intenzív használat után sem bukkan elõ a mûanyag nyers színe. A festéken szerencsére kevéssé látszanak az ujjnyomok, a Pavilion mindig ragyog.
+
+A billentyûzet elég nagy és kényelmes, a HP mérnökei jól ráéreztek,
+hogy egy otthoni felhasználónak nincs szüksége numerikus gombokra,
+így a rendelkezésre álló helyet a szokásos notebook-billentyûkre
+fordították. Ennek köszönhetõen a keyboard talán a legjobb, amivel
+valaha notebookon találkoztam, a gombok elég nagyok és megfelelõen
+hosszú úton is járnak, nagyon kényelmes rajtuk a gépelés -- nálam még a Lenovo ThinkPadek legendásan jó minõségû billentyûit is überelte a dv5.
+
+
+
+A Pavilion strapabíró konstrukciónak tûnik, bár azt be kell valljam, a
+tesztidõszak alatt vigyáztam rá mint a hímes tojásra, lévén egyelõre
+ez az egyetlen darab az országban. A gép nem nyiszog, zörög, a fedél
+is robosztus, a kijelzõn még erõs nyomásra, hajlításra sem látható
+elváltozás, a hordozás fizikai behatásainak tehát biztosan ellenáll a
+dv5.
+
+A megjelenítõ 1680x1050 pixel felbontású és az otthoni piacra szánt
+gépek többségéhez hasonlóan fényes kivitelû. Ennek megfelelõen a
+színek szépek, teltek,  viszont a kijelzõ tükrözõdése már egy sima
+szobában is zavaró lehet -- Doomhoz hasonló, sötét árnyalatokat
+megjelenítõ játékokhoz muszáj lesz behúzni a függönyt, de inkább
+várjuk meg az éjszakát, ami a drámai hatást is fokozza. Ezt
+leszámítva a kijelzõt nem érheti panasz, a megjelenített kép csodás, a nagy felbontásnak köszönhetõen pixeleknek nyoma sincs, és a fényerõ is több mint elég. Filmnézéshez, játékhoz egyaránt kiváló -- feltéve, hogy elég sötét van a szobában. A kijelzõ felett egy 1,3 megapixeles beépített webkamera néz a felhasználóra.
+
+A mozik élvezetéhez nem elég a szép kép, szükség van jó minõségû hangra is. A Pavilion dv5-be egy Altec Lansing hangrendszert építettek, ami hozza a közepes minõségû asztali hangfalszettek színvonalát. Persze   gyomorrengetõ mélyekre ne számítsunk, de egy átlagos notebook sztereó hangszórójánál azért lényegesen jobban szól az Altec, még zenehallgatásra is megteszi.
+
+
+
+A billentyûzet felett található a multimédiás gombsor, ami a dv5 talán
+leggyengébb pontja. Az érintõbillentyûkkel lehet a hangerõt
+állítani, a hangot némítani, a vezeték nélküli adóvevõket (Wi-Fi
+802.11 a/b/g/n és Bluetooth 2.0) ki- és bekapcsolni, és a médialejátszó
+szoftvereket kezelni. Sajnos az érintõgombok néha túl érzéketlenek,
+máskor meg "beragadnak", többször elõfordult, hogy a
+gép úgy érzékelte, az ujjam rajta maradt a hangerõszabályzón, és csak
+az újraindítás segített. Nagyon jól néz ki, futurisztikus a sok
+világító ikon, de egyrészt a fényes bevonatú kijelzõn tükrözõdnek,
+másrészt meg használni kényelmetlen õket.
+
+A gépet bõséggel ellátták csatlakozókkal. USB-portból négy is van rajta 
+(egyikük eSATA is egyben), emellett FireWire-, és infraporton
+keresztül is csatlakoztathatunk perifériákat. A notesz által
+megjelenített képet VGA- és HDMI-porton is rákapcsolhatjuk külsõ
+monitorunkra vagy a tévénkre, emellett Ethernet- és modemcsatlakozó is
+található a dv5-ön, illetve egy multiformátumú kártyaolvasóval is
+ellátták. ExpressCard kártyákkal is elboldogul a gép, a foglalat
+szokás szerint a bal oldalon található. A fülhallgató- és
+mikrofoncsatlakozó a felhasználóval szemközti élen van.
+
+
+
+
+A dv5 jobb oldalán van egy antennacsatlakozó is, ugyanis a gépet tévétunerrel is felszerelték. A nálunk járt változatban egy ATSC szabványú tuner volt, amely Európában semmire sem használható, de a boltokba kerülõ gépek már DVB-T vevõvel érkeznek, amivel az év végén induló földfelszíni digitális tévéadásokat már be lehet fogni. A tévézést távirányító teszi kényelmesebbé, ami sajnos az általunk kipróbált demógépnek nem volt tartozéka, így tapasztalatokat nem szerezhettünk vele.
+
+Megy mint a gép
+
+Bekapcsolás után a Windows Vista Home Premium fogad, a gépre ezt
+telepíti a HP. A hardverkonfiguráció minden tekintetben
+csúcskategóriás, a 2,53 GHz-es Core 2 Duo T9400 processzor mellett 2 gigabájt DDR2-800 memória dolgozik, a megjelenítésrõl 512 megabájt
+saját memóriával gazdálkodó, 16x PCI Express felületen csatlakozó
+NVIDIA GeForce 9600M GT grafikus chip gondoskodik. A chipkészlet az
+Intel új PM45-öse, a Wi-Fi Link 5100 vezeték nélküli hálózati vezérlõ
+szintén az Intelrõl származik, tehát ez egy Centrino 2 platformra
+épülõ gép.
+
+Adatainkat percenként 5400-at pörgõ, 250 gigabájtos Fujitsu
+SATA-II merevlemez tárolja, ha ez betelt, kétrétegû, LightScribe
+technológiát is támogató Samsung DVD-újraíróval (TS-L633L) menthetjük
+le õket, de felárért Blu-ray korongokkal szót értõ egység is rendelhetõ. A merevlemezen tárolt adatok biztonságáról az ujjlenyomat-olvasó mellett gyorsulásérzékelõ is gondoskodik, ami rázkódás, leejtés esetén automatikusan
+parkolópályára állítja az író-olvasó fejeket, védve a tányérokat a
+fizikai sérüléstõl és így az adatvesztéstõl.
+
+
+
+A csúcskategóriás alkatrészek megfelelõ hûtést is igényelnek. A
+Pavilion dv5 ventilátora alapjáraton elég csendes, alig hallható,
+persze intenzív terhelés, például 3D játékok futtatása esetén
+felhangosodik, ilyenkor a melegedni is kezd a gép. Szerencsére a
+forrósodás nem olyan durva mint amilyet például a HP 2133 esetében
+tapasztaltunk, nyugodtan lehet a dv5-ön akár órákon keresztül is
+játszani, elõbb zsibbadnak el az ujjaink, mint hogy a meleg miatt kényelmetlennek éreznénk a gépet.
+
+ A Pavilion teljesítményét sem érheti panasz, a kijelzõ natív felbontásában (1680x1050) a Enemy Territory: Quake Wars "high" részletességi beállítások mellett teljesen folyamatos volt, és ugyanez elmondható a Company of Heroes-ról is. A Devil May Cry 4 demója 1680x1050 pixeles felbontásban az egyes jelenetekben rendre 26, 19, 29 és 18 fps-t mért -- egy hordozható géptõl szerintünk kiváló eredmények.
+
+A Pavilion dv5 hozzánk egy 65 Wh-s akkumulátorral érkezett, amit
+tétlen állapotban, csak az operációs rendszert futtatva, a fényerõt
+középre állítva, bekapcsolt hálózati vezérlõk mellett  11 wattal
+merített. HD-videó lejátszásánál ez 28 wattig kúszott fel, ami azt
+jelenti, hogy egy két és fél órás film is végignézhetõ egy
+akkutöltéssel,  például utazás közben, ha valakinek elfér a gép az
+ölében, és nem zavarja a 2,93 kilogrammos tömeg.
+
+
+
+Amitõl a Pavilion igazi otthoni gép a hardverek mellett, az a
+szoftverkörítés. A gép elõre telepítve tartalmazza a HP QuickPlayt,
+amelyet külön gyorsgombbal hívhatunk elõ. Ez egy végletekig
+leegyszerûsített, ugyanakkor mégis látványos menürendszerben tárja
+elénk a notebook képességeit. Külön menüt kapott a zenelejátszás, a
+filmnézés, a játékok, a tévézés, a DVD-zés. Szintén az
+átlagos otthoni felhasználók életét hivatott megkönnyíteni a HP Total
+Care Advisor, ahol a gép egészségi állapotát lehet nyomon követni,
+például hogy jelentek-e meg biztonsági frissítések, amelyeket
+telepíteni kellene, mennyire teltek be a meghajtók, mikor készült az
+utolsó biztonsági mentés, vagy hogy a biztonsági beállítások
+megfelelõek-e.
+
+
+
+Szerettük, de nagyon
+
+A Pavilion dv5 a legjobb otthoni noteszgép, amihez eddig szerencsém
+volt. Jól néz ki, a megépítettsége és a teljesítménye is kiváló,
+emellett nem is szélesõségesen nehéz, bátrabbak akár utaztathatják is.
+A szoftverkörítés is példás -- a QuickPlay és a Total Care Advisor
+annyira leegyszerûsíti a használatot és a rendszer karbantartását,
+amennyire csak lehet, így az informatikával most ismerkedõknek is
+bátran ajánlható a Pavilion. Sajnos ezeket a szoftvereket a magyar
+piacra kerülõ gépeken is angol verzióban találhatjuk meg, örülnénk egy
+lokalizált verziónak, de annyi baj legyen.
+
+A most bemutatott HP Pavilion dv5-1080h elõre telepített Windows Vista Home Premium operációs rendszerre és két év garanciával bruttó 345 ezer forint környékén lesz kapható, de a gyártótól kapott információk szerint kezdetben egy kicsit gyengébb konfiguráció, a dv5-1080eh lesz a Pavilion sorozat csúcsmodellje. Ennek processzora 2,4 GHz-es Core 2 Duo P8600, grafikus vezérlõje pedig GeForce 920M GS fél gigabájt memóriával, cserébe a rendszermemória 2 helyett 4 gigabájtos, a merevlemez pedig 320 gigabájtos. A dv5-1080eh 1280x800 pixeles kijelzõvel, Windows Vista Home Premium operációs rendszerrel és 2 év garanciával bruttó 314 ezer forintért kerül a boltokba. A dv5 sorozat legolcsóbb modellje 2 GHz-es processzorral, 2 gigabájt memóriával és 250 gigabájtos merevlemezzel bruttó 244 ezer forintba kerül, de ebben is lesz DVB-T vevõ, jár hozzá a Vista Home Premium és a 2 év garancia.
+
+Véleménye van?
+Szóljon hozzá a fórumban
+írjon szerkesztõségünknek!

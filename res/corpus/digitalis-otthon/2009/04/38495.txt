@@ -1,0 +1,17 @@
+Megérkezett a Radeon HD 4890, az AMD leggyorsabb egychipes videokártyája
+
+Piacra dobta új, csúcskategóriás videokártyáját az AMD -- az ATI Radeon HD 4890 a tavaly nyáron megjelent Radeon HD 4800-as család közép- és felsõkategóriás tagjain (Radeon HD 4850/4870) található processzorra épül, a cég azonban a nagyobb számítási teljesítmény érdekében feljebb tornászta a kártya órajeleit, illetve optimalizálta a GPU-t.
+
+
+
+Az AMD kínálatában szereplõ jelenlegi leggyorsabb, de még egy grafikus chippel ellátott videokártyán található GPU (RV790) a TSMC gyáraiban készül 55 nanométeres gyártástechnológiával. A lapka éppúgy 956 millió tranzisztorból épül fel, mint közvetlen elõdje, az RV770, valamint azzal egyezõen 800 stream processzort és 40 textúrázó egységet tartalmaz. A grafikus processzor órajelét azonban megnövelték, így az RV790 850 MHz-en ketyeg (a Radeon HD 4850-nél 625, a 4870-nél 750 MHz-re lõtték be az órajelet).
+
+A Radeon HD 4890-re 1 gigabájtnyi, 975 MHz-en ketyegõ GDDR5 memória kerül, mely 256 bit széles adatsínen keresztül csatlakozik a processzorhoz, a memória teljes áteresztõképessége így 124,8 gigabájt másodpercenként. A nagyobb teljesítménynek ugyanakkor ára van, mely elsõsorban a kártya megnövekedett áramfelvételén mutatkozik meg: az új csúcskategóriás Radeon 190 wattot fesz fel a tápegységtõl terhelés mellett -- ennél csak a duplachipes X2-es csúcsmodell 270 wattos teljesítményigénye nagyobb.
+
+
+
+
+
+Az AMD új videokártyája üresjáratban valamivel kedvezõbb fogyasztást ígér, mint a Radeon HD 4870: a 240 MHz-re leszabályozott órajelnek köszönhetõen a bõvítõkártya beéri "mindössze" 60 wattal. A tehetõsebbek (és igazán erõs tápegységgel rendelkezõk) két Radeon HD 4890-et is beépíthetnek számítógépükbe, így a CrossFire üzemmódban dolgozó kártyák az egykártyás rendszerhez képest alkalmazástól és felbontástól függõen 75-95 százalékkal nagyobb teljesítményre képesek párban.
+
+A Radeon HD 4890 már kapható, a gyártó 260 dolláros ajánlott fogyasztói áron kínálja a csúcskategóriás kártyát.

@@ -1,0 +1,12 @@
+Rohamos terjedésnek indult egy Windows-féreg
+
+Napok alatt hatalmas fertõzési hullám épült fel az interneten, állítja az F-Secure. A biztonsági cég konzervatív becslése már közel 9 millió fertõzött géppel számolt múlt hét pénteken -- azóta ez a szám minden bizonnyal sokkal magasabb.
+
+
+
+Az F-Secure és a Symantec által is Downadup névvel illetett féreg (más néven Conficker, Kido) jelenléte ugyan legalább tavaly októberre nyúlik vissza, terjedése csak január elején gyorsult fel, mégpedig robbanásszerûen. A kezdetben elszigeteltnek tûnõ, néhány ezres fertõzések millióssá nõtték ki magukat az elmúlt hetekben, és a hálózati hatást kihasználva gyorsulni látszanak. Az F-Secure múlt hét kedden még csak 2,4 millió fertõzött számítógépet becsült, amit szerdán 3,5 millióra emelt, majd péntekre a mutató megközelítette a 9 milliót. Az F-Secure a féreg kódjának elemzésével készíti az általa alsó becslésnek tartott kalkulációkat. 
+
+
+A Downadup alapvetõen az MS08-067 jelölésû biztonsági kiadás által kezelt Windows-résen keresztül terjed, de képes a belsõ hálózati megosztást, és USB-s tárolókat is használni önmaga terjesztéséhez -- ezeket az F-Secure megbecsülni sem képes, így a megadott számok nem tartalmazzák az ilyen fertõzéseket. A rendkívüli biztonsági kiadással foltozott hiba a hálózati erõforrások kezeléséért felelõs Windows Server szolgáltatásban húzódik meg, mely megfelelõen megtervezett kommunikációval támadható túlcsordulásos technikával -- különösen a belsõ hálózatok veszélyeztetettek, ha bejut a féreg egy belsõ gépre. A hiba meglétére  maga a Microsoft is úgy eszmélt rá, hogy a cég biztonsági szoftvere ártó kódra bukkant windowsos gépeken.
+
+A jelenlegi tömeges fertõzés láthatóan a nem karbantartott, vagyis nem frissen tartott Windowsoknak okoz problémát, ennek megfelelõen elsõsorban a nagyarányú kalózkodással rendelkezõ országokat sújtja, mint Kína, Brazília, vagy Oroszország -- Magyarországon is már több tízezer fertõzött gép valószínûsíthetõ. Amint a féreg bejutott a rendszerbe, lekapcsolja a frissítési szolgáltatásokat, letiltja a Windows Update-et és egyéb, biztonsági szoftverekkel foglalkozó oldalakat is. A védettséghez telepíteni kell a MS08-067 foltozást, ki kell kapcsolni az automatikus indítást, valamint frissen kell tartani a vírusirtókat. Egy fertõzött gép megtisztításához teljes rendszerszkennelést kell végezni, a féreg ugyanis polimorf. A fertõzés egyik jele lehet a rendszeres leválás az Active Directory tartományról, amit a sikertelen jelszótörés eredményezhet.

@@ -1,0 +1,24 @@
+Fájlmegosztókon terjed az Office 2010 elõzetese
+
+A programcsomag technikai elõzetese éppen azon a héten szivárgott ki a cégtõl, amikor a Microsoft bejelentette, hogy az Office 2010 technikai elõzeteséhez elõször júliusban juthatnak hozzá meghívásos alapon az érdeklõdõk. A szoftvercég késõbb publikus bétaverziót is kiad majd a programból. A fájlcserélõkön terjedõ változat is úgynevezett technikai elõzetes, azaz funkcióit és stabilitását tekintve a bétáknál is kezdetlegesebb fázisban jár a fejlesztése. Ezt a letöltõk a kommenteknél meg is erõsítették: a program többek szerint mûködik ugyan, de rendkívül instabil. A technikai elõzetes 2010 november végéig használható.
+A Microsoft április közepén cáfolta azokat a pletykákat, melyek szerint az Office 2010-bõl nem készül nyilvános bétaváltozat: "Most még nem tesszük közzé a nyilvános béta megjelenési dátumát, de
+mindenképpen lesz legalább egy" -- mondta korábban cég szóvivõje, már akkor utalva rá,
+hogy a technikai elõzetes továbbra is meghívásos alapon, egy zárt
+közösség számára lesz elérhetõ, de a korábbiakhoz hasonlóan az Office
+2010-bõl is lesz nyilvános béta, amelyet milliók tölthetnek majd le. Az
+Office 2007-bõl két nyilvános bétaváltozatot is kiadott a Microsoft,
+egyelõre nem tudni, az Office 2010 esetében hányat terveznek Redmondban.
+
+
+
+Az új Office érkezésének idejét továbbra is homály fedi, csupán az a
+biztos, hogy 2010 elsõ felében érkezik -- ezt maga Steve Ballmer, a
+Microsoft elnök-vezérigazgatója mondta el még februárban, egy pénzügyi
+elemzõk számára rendezett konferencián. Az Office 2007 menetrendje
+alapján a nyilvános béta 2009 végén, 2010 elején lehet esedékes. Korábban úgy tûnt, az Office 2010 érkezését az Exchange Server 2010
+bejelentésével hangolja össze a Microsoft, a HWSW ismeretei szerint
+azonban az új Exchange már az idén megérkezik, az Office pedig az új
+SQL Serverrel egyszerre kerül piacra. Bár az új Exchange is számos
+olyan szolgáltatást tartalmaz, amely az Outlook 2010-es változata
+nélkül nem használható, a SQL Server 2010-ben is több ilyen képesség
+kerül majd.

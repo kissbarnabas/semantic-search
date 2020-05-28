@@ -1,0 +1,10 @@
+.NET-alkalmazások, iPhone-on a helyetek!
+
+A Novell gondozásában fejlesztett Mono a .NET-alkalmazásokat viszi el Linuxra és más operációs rendszerekre, erre épül a MonoTouch, amivel iPhone-ra, iPod touchra is átvihetõk ezek a szoftverek. Aki eddig az Apple okostelefonjára szeretett volna szoftvert fejleszteni, meg kellett tanulja az Objective-C nyelvet, a MonoTouchnak köszönhetõen azonban a többek által ismert C# is használhatóvá vált, ezzel várhatóan új alkalmazások egész sora jelenik meg az iPhone-ra és az iPod touchra, amelyek valószínûleg nem játékok lesznek, inkább üzleti szoftverek vagy egyéb felhasználói programok. Végeredményben ezzel sokak számára megnyílt a lehetõség, hogy iPhone-os fejlesztésekbe kezdjen és akár a meglevõ alkalmazásait portolja, meglevõ kódjait újra felhasználja.
+Az Apple nem enged olyan alkalmazást az App Store-ba, amely külsõ kódot tölt be. A MonoTouch sem interpreter, hanem igazi fordító, amely iPhone-natív kódot hoz létre, amely aztán akár az App Store-ban is közzétehetõ. A MonoTouch nem támogat WinFormsot vagy WPF-et, a megjelenítés teljes egészében az iPhone-ra van bízva, a MonoTouchból elérhetõk az iPhone különféle API-jai. Ez gyakorlatilag azt jelenti, hogy a MonoTouch segítségével az iPhone-ra írt alkalmazások ugyanúgy néznek ki mint az eleve az iPhone-ra fejlesztett szoftverek, persze ez egyben azt is jelenti, hogy a meglevõ .NET-alkalmazások kezelõfelületét a fejlesztõknek át kell írnia. Hogy a fejlesztõk élete még egyszerûbb legyen, a MonoDevelop integrált fejlesztõi környezet kapott egy kiegészítõt, amely lehetõvé teszi az integrációt az Apple Interface Builderrel.
+
+Bár a MonoTouch alapja a nyílt forrású, szabadon hozzáférhetõ Mono, a szoftver se nem ingyenes, se nem nyílt, csak kereskedelmi termékként érhetõ el, a legolcsóbb, Personal Edition változat ára 399 dollár, amely egy éves támogatást tartalmaz, de az érdeklõdõk mától egy próbaverziót is elérhetnek. A MonoTouch használatához mindenképp szükség van egy Apple Macre, valamint az iPhone SDK-ra, hogy az elkészült szoftvereket tesztelni lehessen.	     
+                  
+                  
+                  
+                   

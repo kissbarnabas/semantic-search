@@ -1,0 +1,44 @@
+Kipróbáltuk: háromszoros adatátvitel a Netgear újgenerációs Wi-Fi-routerétõl
+
+Az amerikai Netgear az elsõk között, már tavaly piacra dobott olyan vezeték nélküli eszközöket, melyek a még mindig szabványosítás alatt álló, csak vázlat szintjén létezõ 802.11n specifikációnak megfelelõen készültek. Az úttörésnek azonban komoly buktatói is voltak, kompatibilitási problémák, teljesítménygondok okoztak csalódást a felhasználóknak, akik az internetes fórumokat felhasználva kürtölték világgá nemtetszésüket. A 802.11n specifikációból tavaly jelent meg a második változat, melyet már a Wi-Fi Alliance is minõsíteni kezdett, sõt, egy logót is készítettek, mely már némi támpontot adhat a "bevizsgált" készülékeket keresõknek.
+
+
+
+Régi zene
+
+A Netgear WNR854T típusjelzésû, a RangeMax Next Wireless-N Router Gigabit Edition hangzatos nevet viselõ terméke nem új, körülbelül másfél éve létezik, azonban most érkezett hozzá egy frissítés, mely amellett, hogy kisebb hibákat javít, állítólag új életet lehel a vezeték nélküli kapcsolatokba. Szerkesztõségünk egy szintén Draft-N minõsítésû, PCMCI kivitelû Netgear WN511T adapterrel tesztelte, vajon hogyan teljesülnek az ígért sebességek és lefedettségek. Fontos, hogy a router firmware-ének telepítését követõen a RangeMax Next vezeték nélküli adapterek meghajtóprogramját is frissíteni kell a legutolsó, 2007 júliusában megjelent változatra, a korábbiakkal nem fog szót érteni.
+
+
+
+A dizájnos router üzembehelyezése a színkódos csatlakozókkal, érhetõ feliratokkal laikusoknak is egyszerû, a beépített antennák pedig egyszerre hátrányosak és elõnyösek. Elõnyösek a finnyásoknak, mert nem áll ki hátul három antenna a routerbõl, így az szép letisztult maradhat, akár az asztal éke is lehet színesen villódzó ledjeivel, hátrányos viszont a barkácsoló kedvûeknek, mert nem tudják a gyári megoldást saját, esetleg nagyobb nyereségû antennákra cserélni. A barkácsolók azonban valószínûleg egyébként sem a Netgear routerét, hanem valami minilinuxos megoldást választanának.
+
+A gigabites portokkal rendelkezõ vezeték nélküli router teljesen átlagos webes konfigurációs felületetet és beállítási lehetõségeket nyújt, a telepítést pedig a CD-n kapott Smart Wizard szoftver egyszerûsíti. Amennyiben a hagyományos, kézzel konfigurálós utat választanánk, a Netgear logikusan felépített menüt és jól érthetõ magyarázatokat biztosít ehhez. A tesztre kapott router valami megmagyarázhatatlan okból németül akart társalogni velünk, a kézi frissítést követõen azonban már angolul szólt hozzánk.
+
+A biztonságról WPA és WPA2 titkosítás gondoskodik, a WEP-rõl szót ejthetünk, de teljesen feleslegesen, ez a védelem ma már semmilyen biztonságot sem nyújt. Az internet felõl érkezõ támadásokat kettõs tûzfal fogja meg, a számunka fontos csomagok célba érkezésérõl az UPnP-vel vagy kézzel nyitható portok gondoskodhatnak. A dinamikus IP-címosztás mellett MAC-azonosítók alapján fix IP-címeket is adhatunk egy-egy hálózati eszközünknek, noteszgépünknek -- a sikeres portforwardhoz ez kell --, egyszerûvé téve a noteszgépek beállítását, amelyek így maradhatnak DHCP-s, azaz automatikus konfiguráláson. Na de hogyan teljesített a router?
+
+
+
+Szakít
+
+Tesztünk során a közkedvelt NetStumblerrel, annak is legutolsó, 0.4.0-es változatával próbáltuk mérni a jelszintben tapasztalható különbségeket egy La Fonera és egy 802.11g szabvánnyal kompatibilis, szintén Netgear vezeték nélküli routerhez képest. Tetszetõs képernyõmentések nem véletlenül nem kerültek a cikkünkbe: a NetStumbler valamiért egy-két percet követõen egyszerûen elvesztette a fonalat, és nem volt hajlandó adatokat szolgáltatni, grafikont rajzolni. A próbát nem steril körülmények között, hanem egy társasházi lakásban ejtettük meg, néhány környékbeli Wi-Fi nagyon gyenge jele zavarhatta csupán routereinket.
+
+
+ A kompatibilitás sokat fejlõdött. Míg korábban problémáink voltak egy 802.11b-s adapterrel és a Netgear egy korai 802.11n-es routerével, ehhez a készülékhez minden kipróbált vezeték nélküli hálózati adapter sikeresen kapcsolódott, annak ellenére, hogy a konfigurációs menüben a 802.11n teljesítménye volt elõnybe helyezve a kompatibilitással szemben.
+
+Az új generációs routerek fõ újdonsága a MIMO technológia, melyet néhány gyártó 802.11g-s termékébe is implementált. Ez a technológia több szabadon rendelkezésre álló sávot, és további antennákat használ fel az adatcsomagok párhuzamos továbbítására, ezzel lehet megnövelni a sávszélességet. Egyes szakértõk szerint a MIMO használata nem áldás, hanem átok: tovább növeli az elektromos zajt otthonunkban és az éterben. A 802.11b és 802.11g szabványnak megfelelõ adapterek természetesen nem tudnak profitálni a több antennából, több csatornán párhuzamos adásból és vételbõl adódó elõnybõl, itt csak 54 és 11 megabit/s-os névleges adatátviteli sebesség áll rendelkezésre, melynek továbbra is csak körülbelül a fele a valósan elérhetõ.
+
+A 802.11n-es adaptert használva viszont kibújt a kisördög a routerbõl, a linksebesség az elérhetõ maximális 300 Mbps-sel jött létre azonos szobában tartózkodva. Bár az arány sokkal rosszabb, az adatátviteli sebesség jelentõsen nõ, többszörözõdik: körülbelül 9-10,5 megabájt/s-os sebességgel tudtunk adatokat másolni egyik számítógéprõl a másikra, 73-83 megabit/s között ingadozott a vezeték nélküli, valós adatátviteli sebesség. Ez a 802.11g-vel elérhetõ maximális sávszélesség körülbelül háromszorosa. A noteszgéppel egy másik szobába átvándorolva a linksebesség is csökkent, illetve az elérhetõ adatátvitel is, a 40-45 megabit/s-os érték is azonban még így is a kétszerese volt a g-s szabványú router maximális teljesítményének.
+
+A Netgear WNR854T gigabites portjairól sajnos csak közvetett adataink állnak rendelkezésre, két gigabites számítógép híján ezt egyszerûen nem tudtam leteszteni. A netszerte fellelhetõ bemutatók azonban igen kellemes adatátviteli sebességekrõl emlékeznek meg, 420-460 megabit/s-os, azaz 50-55 megabájt/s-os adatátviteli sebességre is képes vezetékekkel a router. Amennyiben valaki elsõsorban ilyen céllal, otthoni villámgyors vezetékes hálózat építéséhez venné a Netgear készülékét, nem nagyon csalódhat.
+
+Lefedettség
+
+A lefedettség terén is jelentõs növekedést ígér a Netgear, ezt azonban "élõ körülmények között folytatott" tesztünkkel egyáltalán nem tudtuk igazolni. A jelszint a NetStumbler néhány perces mûködése szerint szinte hajszálpontosan ugyanakkora volt mindenhol, mint a referenciaként használt g-s routerekkel, sõt, a PCMCIA-adapter használata némileg rosszabb választás volt ilyen esetben, mint a notebook beépített adaptere. Ez a miniPCI Wi-Fi-adapterhez csatlakoztatott, noteszgépbe épített, nagyobb antennából eredhetett, egy bizonyos távolságon túl már mérhetõ különbséggel járt az Atheros-lapkás noteszes Wi-Fi használata.
+
+A Netgear routere jól teljesített, adatátviteli sebességben sikerült õszinte meglepetést okoznia. A WNR854T azonban csak szintén 802.11n-es adapterrel nyújtja ezt a sávszélességet, a több csatorna használtából eredõ elõny pedig a sûrûn lakott lakótelepeken, városok belvárosában semmivé válhat a környezõ lakások Wi-Fi-je okozta hatalmas zaj miatt. A nagy sávszélesség elõnyeit elsõsorban állományok másolásánál tudjuk kihasználni, de jól jöhet nagyobb bitrátájú, esetleg nagyfelbontású videók streamelésénél is az otthoni hálózaton, azonban fontos tudni, hogy saját tesztünk eredményei egyáltalán nem biztos, hogy az olvasónál is megismétlõdhetnek, tekintettel az eltérõ körülményekre.
+
+A Netgear WNR854T routert és WN511T PCMCIA adaptert Amden Kft. bocsátotta rendelkezésünkre.
+
+Véleménye van?
+szóljon hozzá a fórumban
+írjon szerkesztõségünknek!

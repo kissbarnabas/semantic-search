@@ -1,0 +1,11 @@
+Kiszáll a leggyorsabb szuperszámítógép megépítésébõl az NEC
+
+A Next-Generation Supercomputer Project célja a világ legnagyobb teljesítményû szuperszámítógépének megépítése volt, a 2005-ben indult kezdeményezés 10 petaflopsos, azaz&nbsp; másodpercenként tízmilliószor egymilliárd lebegõpontot mûveletet végrehajtani képes rendszer megépítését tûzte maga elé, amelyet tudományos kutatások támogatására vetettek volna be 2011-tõl a Rikagaku Kenkyusho (Riken) intézet felügyelete alatt.
+Az NEC illetékesei szerint a vállalat azért szállt ki a projektbõl, mert a jelenlegi gazdasági körülmények között a kapcsolódó tevékenység túlságosan nagy terhet rótt volna a vállalat pénzügyi mutatóira. "Az NEC becslései szerint a Next-Generation Supercomputer Project legyártásával kapcsolatos költségek jelentõsen csökkentették volna a 2010 márciusában záruló pénzügyi év eredményeit a szükséges hatalmas befektetések miatt. Ezért az NEC úgy határozott, nem vesz részt a gyártási fázisban" -- áll a cég által kiadott közleményben.&nbsp;&nbsp;
+
+Az elektronikai vállalat ugyanakkor cáfolta, hogy teljesen feladná szuperszámítógépekkel kapcsolatos tevékenységét, azaz megmaradnak az ilyen irányú fejlesztésekA projektben szintén érintett HItachi a recesszióra hivatkozva szintén visszamondta a részvételt. A japán vállalat 8 milliárd dollárnak megfelelõ veszteséget könyvelt el legutóbbi pénzügyi évében. Egyelõre nem tudni, mi lesz a gép sorsa. 
+A japán Kyodo News Service szerint a RIKEN intézet és a Fujitsu továbbra is kitart a projekt mellett. A Keisoku (magyarul: tíz a tizenhatodik hatványon) kódnevû
+szuperszámítógép tervei egy hibrid architektúrát vázoltak fel, ahol a
+Fujitsu által gyártott skalár processzorok dolgoztak volna együtt a
+Hitachi és az NEC vektorchipjeivel. A Fujitsu épp a napokban fejezte be a Keisokuban is felhasználni kívánt, Venus kódnevû, nyolcmagos SPARC64 VIII processzor prototípusának tesztelését.
+Az NEC neve kimondottan jól cseng a mérnöki-tudományos számítástechnika világában, a japán cég által kifejlesztett és megépített Earth Simulator az évezred elején évekig vezette a leggyorsabb szuperszámítógépeket rangsoroló Top500 listát.

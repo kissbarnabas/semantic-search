@@ -1,0 +1,24 @@
+A legtöbb IT-vezetõnek fogalma sincs a rábízott berendezések fogyasztásáról
+
+[Techworld] Száz brit informatikai felsõvezetõ közül 89 egyáltalán nem tudja, mennyi áramot fogyasztnak a rábízott eszközök -- derül ki egy felmérésbõl, amelyet a Morse nevû tanácsadócég készíttetett. A megkérdezetteknek csak 63 százaléka állította, hogy a szervezetnél ahol dolgozik, már van valamiféle stratégia a környezetbarát informatika felé való elmozdulásra, de az energiafelhasználás csökkentésére vonatkozó konkrét tervet még csak a válaszadók negyede dolgozott ki.
+
+
+
+Nem tudják, mennyi a villanyszámla
+
+A felmérést végzõ Morse tanácsadócég egyik konzultána, Tim Turquand szerint az eredményekben semmi meglepõ nincs, az informatikai vezetõknek rendszerint fogalma sincs a berendezések fogyasztásáról, vagy hogy a mûködésükhöz szükséges energia mennyibe is kerül, mivel nem õk fizetik a számlát. "Ha nem tudják, mennyi a fogyasztás, hogyan lenne elvárható hogy csökkentsék?" -- fakadt ki Turquand.
+
+Turquand úgy látja, a környezettudatosságra való törekvés a legtöbb cégnél egyáltalán nincs összhangban az üzleti stratégiával. "A legtöbb cégnél újrahasznosítás céljából külön gyûjtik a nyomtatópatronokat, de megfeledkeznek a kétezer négyzetméteres szerverteremrõl, ami a legnagyobb szennyezõ." A tanácsadó szerint az informatikai vezetõknek nem csak az adatközpontok fogyasztását kellene figyelemmel követni, hanem az összes berendezését, beleértve a PC-ket, hálózati eszközöket, nyomtatókat is.
+
+Az IT-büdzsé felére növekedhet az energiaköltség
+
+
+ Az elmúlt két évben az energiaárak robbanásszerû növekedése mellett egyre nagyobb figyelmet kap az informatikai berendezések fogyasztása, azonban a legtöbb felmérés szerint az IT-vezetõknek csak ritkán van teljes képe arról, hogy a rájuk bízott eszközök mennyit fogyasztanak, és ez mekkora költséget is jelent. A Gartner becslése szerint az IT-büdzséknek ma még csak 10 százalékát adja az energiaköltség, de ez pár éven belül akár 50 százalékra is növekedhet.
+
+Egy 2007 elején nyilvánosságra hozott kutatás szerint 2005-ben világszerte 14 millió kilowattot tett ki a világ adatközpontjaiban található szerverek és tárolók, valamint a hûtésükrõl gondoskodó berendezések összfogyasztása, ami 7,2 milliárd dolláros költséget jelentett az üzemeltetõknek. A növekedést elsõsorban a használatban lévõ szerverek számának emelkedése magyarázza. Az energiafelvétel öt év alatt megduplázódott, ez alapján 2006-ban az összesített villanyszámla meghaladhatta a 8 milliárdot.
+
+Felsõvezetõi döntésnek kell lennie
+
+Egy, a GKIeNet és a Sun Microsystems által közösen elvégzett hazai kutatás szerint itthon felkapott téma a cégek körében a környezetvédelem, de tenni még csak kevesen hajlandók érte. Noha a válaszadók több mint kétharmada állította azt, hogy a beszerzéseik során figyelembe vesznek környezetvédelmi szempontokat is, valójában ez a legutolsó szempont azok közül, amit mérlegelnek. A cégek 47 százaléka számára a környezettudatos beszerzés mindössze annyit jelent, hogy azonos ár esetén a "zöldebbet" választják.
+
+A kutatásból kiderült, hogy a környezetvédelem egyedül a társadalmi felelõsségvállalás területén kap kiemelt figyelmet a vállalatok részérõl, a cégek az erre a célra elkülönített büdzséjükbõl szívesen áldoznak erre, azonban a mindennapjaikba még egyáltalán nem épült be a környezettudatos gondokodás. A legtöbb felmérés és elemzés egyetért abban, hogy a környezettudatos, energiahatékony mûködésrõl szóló döntésnek csúcsvezetõi szinten kell megszületnie, és csak "fentrõl lefelé" lehet keresztülvinni a szervezeteken.

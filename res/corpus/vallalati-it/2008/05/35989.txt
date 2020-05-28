@@ -1,0 +1,14 @@
+Opteron-alapú Dell szerverek kimondottan virtualizációra
+
+Két Opteron-alapú szervert mutatott be a Dell, amelyeket kimondottan virtualizációs platformként kíván értékesíteni. A gépek elõre telepítve tartalmazzák a VMware ESXi 3.5 vagy a Citrix XenServer Dell Express Edition hypervisort, de a Microsoft Hyper-V megjelenésekor azzal is rendelhetõk majd.
+
+
+
+A PowerEdge R805 és 905 egyaránt rackbe építhetõ gépek, az elõbbi kétfoglalatos, utóbbi négyfoglalatos szerver. A 2U magas R805 legfeljebb 128 gigabájt memóriát támogat és két darab 146 gigabájtos SAS diszkkel rendelhetõ, a 4U kivitelû R905-ben akár 256 gigabájt memóriát és 2 terabájtnyi merevlemezt is be lehet építeni. A PowerEdge R805 ára 3 ezer dollártól indul, az R905-ért legalább 4700 dollárt kérnek.
+
+
+A PowerEdge szerverek mellett a Dell bejelentete továbbá, hogy továbbfejlesztette online rendelési felületét is annak érdekében, hogy az ügyfelek könnyebben tudjanak olyan konfigurációkat összeállítani, amelyek garantáltan együttmûködnek a különféle virtualizációs köztesrétegekkel. Ezekkel az eszközökkel lényegében még a rendelés elõtt ellenõrizhetõ a konfigurációk és szoftverek kompatibilitása.
+
+A cég kínálatában emellett újdonság, hogy az EqualLogic tárolókat már a VMware Site Recovery Managerrel együtt szállítják, ezzel az ügyfelek díjmentesen kapnak egy olyan eszközt, amivel a felhasználói megtervezhetik, letesztelhetik és végrehajthatják a katasztrófa-visszaállítási tervet anélkül, hogy az operációs rendszerek és hardverek függõségét fejben kellene tartaniuk.
+
+Az IDC elõrejelzése szerint 2011-ben Nyugat-Európában 1,1 millió olyan szervert értékesítenek a gyártók, amelyeket az ügyfelek virtualizálnak, és ezeken a hardvereken összesen 5,4 millió virtuális gép fut majd. A virtualizált szerverek forgalma évi átlagban 50 százalék felett növekszik -- becsli az IDC.

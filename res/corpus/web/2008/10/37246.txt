@@ -1,0 +1,18 @@
+Önálló apróhirdetési portált indított a Prohardver
+
+Pár napja újabb önálló apróhirdetési felületen kínálhatják eladásra elektronikai vagy számítástechnikai eszközeiket az internetezõk: a múlt kedden indult HardverApró már most az ország egyik legnagyobb online számítástechnikai apróhirdetési szolgáltatása, ráadásul számos olyan megoldást kínál a hirdetni vágyóknak, melyek más oldalakon nem érhetõk el.
+
+
+
+Portállá nõtte ki magát
+
+Október 21-én, hosszú hónapokig tartó béta-tesztelési fázis után élesben is elindult a HardverApró, melyen elsõsorban számítástechnikai eszközökkel kapcsolatos keres/kínál hirdetéseket helyezhetnek el magánszemélyek és vállalkozások egyaránt. A HardverApró a Prohardver lapcsalád legújabb tagjaként, lényegében a már meglévõ lapokba szervesen integrált korábbi apróhirdetési modulból nõtte ki magát: "A HardverApró ugyanazt az adatstruktúrát használja, mint a régi apróhirdetési rovat, így azonban hatékonyabban fejleszthetjük és kommunikálhatjuk a szolgáltatást" -- mondta el a HWSW-nek Balog Márton, a Prohardver Kft. ügyvezetõje.
+
+Mivel az új hirdetési oldal gyakorlatilag a Prohardver lapcsalád fórumából, azaz az egyik legforgalmasabb, legélénkebb hazai online közösségbõl nõtte ki magát, máris jelentõs forgalmat generál: a HardverApró virtuális piacterén az üzemeltetõk szerint már most 15 ezer ember fordul meg naponta, a lapletöltések száma pedig eléri a 200 ezret. Az apróhirdetési szolgáltatás már az indulásakor 27 ezer aktív hirdetést tartalmazott.
+
+Bevált alapokra épül
+
+
+A HardverApró teljesen saját fejlesztésû alapokkal üzemel: a portál ugyanazt a RI/OS R5 motort használja, amit a Prohardver lapcsalád többi tagja, így a regisztrált felhasználóknak biztosított az átjárás az összes szakmai vagy közösségi fórumtémába, a saját portálmotor emellett rugalmas és egyedi fejlesztési lehetõségeket biztosít az üzemeltetõknek. Ennek köszönhetõ egyebek mellett az ismételt hirdetések mennyiségét csökkentõ funkció, mely lehetõvé teszi a hirdetõnek, hogy napi két alkalommal a hirdetési sor tetejére küldje (a szlengben ezt hívják up-nak) apróhirdetését.
+
+Az apróhirdetési oldalon magánszemélyek mellett cégek is hirdethetnek, a vállalkozásoknak azonban fizetniük kell az egyéni felhasználóknak amúgy ingyenes szolgáltatásért. "Nem akartuk, hogy a cégek elárasszák a normál kategóriákat, ezért csináltunk egy boltok/bazárok kategóriát" -- mondta el Balog. Ebben a kategóriában jogosultak hirdetni azok az üzleti vállalkozások, melyek a havi 15 ezer forintos hirdetési díjat befizetik -- õk ezen felül az oldal tetején található kiemelt hirdetési blokkba is bekerülnek.

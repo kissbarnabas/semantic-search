@@ -1,0 +1,19 @@
+Rejtett funkciók is elõvarázsolhatók a Windows 7 elõzetesébõl
+
+[Computerworld/HWSW] Egy szemfüles programozó olyan patchet fejlesztett a Windows 7 elõzeteséhez, amelynek telepítésével számos rejtett funkció elõcsalogatható. A szóban forgó szolgáltatások nem véletlenül maradtak rejtve, ugyanis egyelõre nincsenek kész, ezért is nem lehet õket kipróbálni.
+
+
+
+A Microsoft új asztali operációs rendszerének, a Windows 7-nek az október végi Professional Developers Conference-en jelent meg az elõzetes változata, amelyet a konferencia minden résztvevõje megkapott, ezt követõen pár órával pedig elérhetõ volt a fájlcserélõ hálózatokon is. Ez a változat (Milestone 3) azonban még nem tartalmaz néhány olyan funkciót, amiket a Microsoft a rendezvényen már demózott is -- ezek a szolgáltatások állítólag csak a redmondi cég dolgozó számára elérhetõ belsõ tesztváltozatban élnek.
+
+[+] Elõször demonstrálta a Microsoft a Windows 7-et
+
+
+A Rafael Rivera által fejlesztett aprócska segédprogram neve Blue Badge, azaz Kék Jelvény, ami a Microsoft-alkalmazottak által hordott azonosítókártyára utal. A Blue Badge segítségével bárki "bennfentessé" válhat és elérheti a Windows 7 M3 azon szolgáltatásait és funkcióit, amik a kiadott verzióban eredetileg nincsenek engedélyezve, így például a teljesen új taskbart és az érintõképernyõs vezérlést. A beszámolók szerint a telepítés után elõbbukkan egy olyan szolgáltatás is, ami az internetrõl egy RSS-olvasón keresztül letöltött képeket cserélget a munkaasztal háttérében -- felettébb látványos lehet, hasznossága azonban minimum kétséges. Ötletnek mindenesetre jópofa.
+
+
+ A Microsoft elõször a PDC-n demózta hivatalosan a Windows 7-et, ami az elsõ benyomások és a jelenleg nyilvánosságra hozott információk szerint inkább tûnik a Vista ráncfelvarrott, frissített, kipofozott változatának mint egy teljesen új operációs rendszernek. Mivel a Windows 7 a kompatibilitás megõrzése érdekében a Vista és a Windows Server 2008 továbbfejlesztett kernelére épül, számítani is lehetett rá, hogy a változások inkább a külsõt és nem annyira az alapokat érintik.
+
+Steven Sinofsky, a Windows 7 fejlesztéséért felelõs Microsoft-vezetõ a PDC-n tartott elõadásában kiemelte, a Windows 7 programozói nagy figyelmet fektettek az erõforrások gazdaságos felhasználására, ezért aztán az operációs rendszer hardverigénye csökkent, sebessége pedig megnõtt. A tesztek szerint azonban egyelõre nincs jelentõs elõrelépés ezen a területen, az InfoWorld mérései szerint legalábbis a Windows 7 sebessége nem különbözik a Vistáétól -- persze ne felejtsük el, az új operációs rendszernek még csak az elõzetesét próbálták ki, a végleges verzió még sokat változhat.
+
+A szoftver nyilvános bétaváltozata valamikor 2009 elején jelenik meg a tervek szerint, a végleges verzióra pedig 2009 végén vagy 2010 elején számíthatunk.

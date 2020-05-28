@@ -1,0 +1,84 @@
+Fiber Power 120 Mbit/s - a letöltõk álma
+
+DOCSIS 3.0
+
+A UPC hálózata már készen áll a Fiber Power csomagokra, amelyek a tervek szerint a jövõ hónaptól lesznek rendelhetõek. A technológia az EuroDOCSIS 3.0 szabványnak köszönhetõen az eddigi (DOCSIS 1.1/2.0) 30 Mbit/s sávszélességlimitet megtöbbszörözve 60 illetve 120 Mbit/s-ig nyújtja a határokat. Az elmúlt hónapokban a szolgáltató már a teljes budapesti hálózatát felfejlesztette az nagyobb sávszélességû csomagok nyújtásához szükséges új eszközökkel, így az ultragyors csomagra vágyó elõfizetõknél egy egyszerû modemcserével beköszönthet az ötperces DVD-letöltés ideje.
+
+
+15 MByte másodpercenként 
+
+A DOCSIS (Data over cable service interface specification) egy nemzetközi szabvány, melyet a legnagyobb távközlési szolgáltatók részvételével mûködõ CableLabs kutatás-fejlesztési konzorcium fejlesztett ki. Az elsõ specifikáció 1997-ben látott napvilágot, melyet 1999-ben egészítettek ki az úgynevezett QoS, azaz Quality of Service képességekkel. Ez utóbbi a hazai kábeles internetezõk egy részének negatív emlékeket idézhet, ugyanis ezzel a technológiával lehet a különbözõ adattípusokat egymástól szétválasztani és adott esetben például a p2p-forgalmat lassítani, de ugyanez felel azért is, hogy a VoIP-forgalom, az internetes játék vagy éppen az e-mailek és a webes kérések elsõbbséget élvezzenek.
+
+A 99-es specifikáció azóta változatlan, s a mai kábelmodemes internetezõk ugyanezt használják közel 10 éve a világon mindenhol. 2001-ben megjelent a szabvány 2.0-ás verziója, ami már támogatta az IPv6-ot, illetve a feltöltési sebességekben jelentett elõrelépést, de a gyakorlatban mégsem terjedt el. A következõ nagy ugrás 5 évet váratott magára, amikor is a DOCSIS 3.0-át definiálták. Az EuroDOCSIS 1.1/2.0 elméleti korlátja letöltésben 50 Mbit/s volt, míg a több csatornát kombinálni képes 3.0 négy csatorna esetén elméletben 200, 8 csatornával pedig 400 Mbit/s-ig mehet el. Japánban nezzel a technológiával 160 Mbit/s sávszélességû csomagokat kínálnak a szolgáltatók, az Egyesült Államokban 101, Angliában pedig egy pilot projekt keretében 200 Mbit/s a plafon. 
+
+Rendszerkövetelmények?
+
+Ezekkel a sebességekkel a kábelnet elért arra a szintre, ahol már nem a letöltési sávszélesség a szûk keresztmetszet az interneten alapuló szolgáltatásoknál. A 120 megabites UPC Fiber Power csomagra váltásnál azonban a régi Webstar modem, új Motorola SURFboard SBV6120 (EuroDOCSIS 3.0) típusú modemre való cseréje mellett több hardverre is oda kell figyelni.
+
+Elsõ lépésben érdemes megvizsgálni a routert, illetve hálózati kártyát, hogy támogatják-e a Gigabit Ethernet specifikációt, hisz ehhez a sebességhez mindenképp erre lesz szükség. Amennyiben régi 10/100-as hálózati eszközbe dugjuk a modembe csatlakoztatott kábelt, akkor a "Link" led a normális kék szín helyett narancssárgán kezd el világítani, szóval a laikusok számára is értelmezhetõ lesz a probléma. A csatoló mellett magára a kábelre is figyelni kell, hisz legalább 5-ös kategóriájú Ethernet-kábelek (ajánlott a Cat 5e vagy a Cat 6) képesek átvinni ezt a sebességet, egyébként csak jóval lassabb adatfolyamra lehet számítani. 
+
+
+Stabil, de több szál kell a maximumhoz 
+
+Akik otthonukban Wi-Fi-t használnak, azok jó ha beszereznek egy 802.11n szabványtervezetnek megfelelõ hozzáférési pontot és hálózati vezérlõt, a legelterjedtebb 802.11g szabvány ugyanis csupán 54 Mbit/s elméleti maximális sávszélességre képes. A 802.11n eszközök tipikusan&nbsp; 74-130 Mbit/s-os kapcsolatot tesznek lehetõvé, de ez a lakásokban, falakon keresztül, nagyobb távolságban kevesebb is lehet. Draft-n routereket még könnyû találni, bár még csak a a drágább kategóriákban, és arra is érdemes figyelni, hogy a 802.11n szabványú Wi-Fi vezérlõvel szerelt noteszgépek csak 2007-ben jelentek meg a boltok polcain, így csak az újabb modellek alkalmasak a nagy sávszélességû vezeték nélküli kapcsolatra. 
+
+
+
+Az operációs rendszerek háza táján sincs minden rendben, hisz a Windows XP fejlesztésekor még szó nem volt ilyen nagy sebességû internetes kapcsolatokról, a szoftverben lévõ TCP/IP csatolóval tesztünk szerint körülbelül 50-65 Mbit/s sávszélesség érhetõ el. Szerencsére a Windows XP TCP/IP vezérlõjéhez készült egy javítás,
+melyet a UPC "Fiber Power Optimizer" néven bocsát a felhasználók
+rendelkezésére. Ezt mindenki megkapja majd CD-n, illetve le is lehet
+tölteni: a program az operációs rendszer hálózati beállításait finomhangolja a regisztrációs adatbázison keresztül. A Windows Vista, illetve modern Linux-disztribúciók esetében semmilyen probléma nincs, gond nélkül képesek kezelni az adatmennyiséget.&nbsp; 
+
+
+Bal oldalon a lassított, jobb oldalon lassítás nélküli torrentezés 
+
+A tesztelés természetesen a telepítéssel kezdõdött. Azok számára, akik már rendelkeznek valamilyen Chello-elõfizetéssel, mindössze egy modemcsere, egy jelszint-mérés, egy regisztráció, IP-ellenõrzés és papír kitöltése jelenti a procedúrát, természetesen a fenti kritériumok ellenõrzése mellett. Esetünkben némi bonyodalmat okozott, hogy ilyen modemet még alig telepítettek a UPC szakemberei, illetve a két aktív csomag regisztrációja kissé összekavarodott, de ezt leszámítva zökkenõmentes volt az átállás, s a sikeres regisztráció után rávetettük magunkat a sebességtesztekre.
+
+Windows XP alatt a javítás nélkül maximum 35-65 Mbit/s-ig csúszott a mutató, de a telepítés és egy újraindítás után hozta a várt értékeket, Vista alatt pedig kezdettõl fogva mûködött minden. Az elsõ méréseknél még úgy tûnhet, hogy ingadozik a sebesség, aminek az oka az, hogy egy 120 megabit feletti kapcsolatot már nem minden esetben képes kiszolgálni a legtöbb szolgáltató az egyidejû lekérések miatt, illetve a pontatlanság oka lehet az is, hogy a legtöbb sebességmérõ viszonylag kis méretû fájlokat használ, ami 10 megabit környékén még pontos, de másodpercenként 15 MByte-os sebesség mellett már egy apró döccenés is jelentõsen torzítja az eredményt. A népszerû Speedtest.net választékából érdemes Fiber Power csomaggal a nyíregyházi Giganet szerverét választani a budapesti helyett, illetve a Datanet tesztje is korrekt, kiegyensúlyozott eredményeket mutatott, az összes többi megoldás elvérzett.
+
+Nehéz tesztelni
+
+A valós használat során a tapasztalat az, hogy a hatalmas sávszélesség nagy fájlok letöltésén kívül sehol nem jelent kézzelfogható elõnyt, a weboldalak természetesen nem töltõdnek be gyorsabban, hisz a szûk keresztmetszet inkább a szerveren futó adatbázis, a fájlok lekérése vagy éppen a JavaScriptek futtatása. A multimédiás streaming tartalmak esetén már eddig sem voltak gondok a sebességgel, szinte minden azonnal elindult, s még egy HD-streamhez sem kell feltétlenül ilyen nagy sávszélesség. 
+
+
+Apró fájloknál nincs elõny 
+
+A méréshez a legõsibb fájlátviteli megoldást, az FTP-t használtuk, hiszen itt nincsenek zavaró tényezõk, nincs forgalomlassítás sem. A tesztre használt szerverek közül viszont egy sem volt, ami képes lett volna kiszolgálni Fiber Power 120-at, ezért minden esetben több, legalább két szálon különbözõ szerverekrõl érkezett az áldás. Elegendõ forrás esetén 122,7 Mbit/s folyamatos adatfolyam érkezett a gépre, ami másodpercenként 15 MByte letöltést jelent.
+
+Egy kis matematika
+
+Ez a gyakorlatban azt jelenti, hogy egyetlen perc alatt közel egy gigabájt adat tölthetõ le, 2 gigabájthoz 2 perc 13 másodperc szükséges, egy óra leforgása alatt pedig majdnem 54 gigabájtot tudtunk letölteni. A tervezett 24 órás teszt elégséges méretû adathordozó híján elmaradt, hisz egy 500 gigabájtos merevlemez egy munkanap alatt betelik. Ha valaki pedig egy egész hónapon át csúcsra járatná a kapcsolatot, akkor összesen 37 terabájt adatot tölthetne le.
+
+A feltöltés 10 Mb/s-os elméleti maximuma FTP-n keresztül szintén csak több szálon volt elérhetõ, ami már nehezebben magyarázható a szerverek kapacitásával. Egy Picasa albumfeltöltés viszont szemmel láthatóan fürgébb volt, de ez egyáltalán nem kirívó mondjuk egy Digi 20/20-as elérés mellett. A lényeg, hogy a korábbi letöltés/feltöltés arány megmaradt, ami többnyire megfelel a felhasználói igényeknek. Azt viszont hozzá kell tenni, hogy egy teljes sebességû letöltés a hibajavítás, csomagellenõrzés és egyéb visszirányú forgalom miatt már több, mint 1 Mbit/s sávszélességet igényel felfelé is.
+
+
+Külföldrõl sem rossz 
+
+Amennyiben nem nagy fájlokat kell letölteni, akkor elveszik a nagy sávszélesség varázsa. Néhány ezer kisméretû JPG-kép letöltésénél az átlagsebesség messze töredéke marad az elméleti sávszélességnek, hiszen a lekérések ugyanannyi idõt vesznek igénybe, s ez immár több, mint maga a fájlletöltés. Ilyenkor a sebességméréskor egy alacsony, tüskés képet kapunk.
+
+A normál internetezés nem lesz gyorsabb
+
+A streaming oldalakat vizsgálva is az a tapasztalat, hogy a legtöbb esetben észlelhetetlen a különbség. A YouTube esetén például a pufferelés ideje lerövidül ugyan, de ezután a szájt korlátozza a letöltés sebességét, ami már egy 10 Mbit/s-os vonalon is észlelhetõ, itt pedig fõleg, tehát a videók nem töltõdnek be gyorsabban. A magyar Indavideón viszont nincs ilyen korlát, ott a néhány megabájtos videók 1-2 másodperc alatt letöltõdnek és utána nyugodtan lehet bennük tekerni töltés és pufferelés nélkül. Úgy sejtettük, külföldi szerverekrõl jóval lassabb lesz minden, de a tesztelés során 55-75 Mbit/s-ot mértünk, ami gyorsabb forrásokkal talán fokozható lett volna. 
+
+A hétköznapi használatban tehát nem jellemzõ, hogy számítana a 120 megabit, sõt a tesztekhez is izzadni kellett, hogy a maximumot ki lehessen hozni belõle. Viszont amíg Magyarországon legálisnak számít a magáncélú letöltés, addig stabil fogyasztói igény marad az egyre nagyobb sávszélesség, amit egyre több, a becslések szerint legalább százezer ember igényel ma már. Ha pedig így van, akkor a szolgáltató miért ne elégíthetné ki ezt a vágyat?
+
+Itt is van torrent-lassítás
+
+Ha pedig letöltésrõl van szó, akkor nem lehet elmenni amellett sem, hogy miként is teljesít egy Fiber Power a fájlcsere közben, a UPC ugyanis ennek a csomagnak is priorizálja a forgalmát. Ennek ellenére a lassulás nem volt drámai. Éjjel és nappal is sikerült néhány torrent elindításával a sávszélesség nagy részét kihasználni, igaz sosem az összeset, mint az megszokott a kisebb csomagoknál is. Ennek ellenére jól seedelt torrentekkel sikerült általában 40-50 Mbit/s felett tartani a sebességet, de elõfordult ideiglenesen a 75-85 is. 
+
+
+Ezt nézik meg a szerelõk telepítés után 
+
+
+
+Mire jó?
+
+A valóságban jó játéknak tûnik az óriási sávszélesség, amirõl mindig is álmodtunk, viszont a szerverek kapacitásai, a webszerverek lassúsága, a szolgáltatások korlátai és a többiek sebessége miatt ritkán lehet kihasználni ezt. A teszt során kevesebb mint 24 óra kellett a 300 gigabájt adatforgalom eléréséhez, ami a valóságban már elképzelhetetlen mennyiség a legtöbb felhasználó számára. Aki ilyen csomagot választ, az valószínûleg soha többé nem tölt le semmi mást csak DVD-t és HD-filmeket, sõt egy NAS-t beállítva a lakásba saját bejáratú médiaszervert hozhat létre, hiszen már a feltöltési sebesség alkalmas zenék vagy akár filmek streamelésére is.
+
+
+Masszív letöltõket, warezkirályokat, gimnazistákat és 3D-grafikusokat érdekelhet egy ilyen csomag, esetleg nagycsaládosokat, egyetemi albérleteket és egyéb lakóközösségeket. A nagy sávszélesség egyetlen tiszta és tagadhatatlan elõnye, hogy a legtöbb internetes szolgáltatás képtelen zavarni a többit. A gyerek nyugodtan torrentezhet, az apa World of Warcraftozhat, miközben az anya még mindig vidáman streameli a tegnapi Barátök Köztöt, s közben a Wi-Fi kapcsolatot lopó szomszédok is nyugodtan böngésznek a világhálón.
+
+Túlzás vagy nem, jövõ hónaptól hazánkban is átlépünk egy mérföldkövet, az otthoni internet 100 megabit felé gyorsulhat. Az elterjedésének üteme megjósolhatatlan, annak ellenére, hogy tudjuk, Budapesten már elérhetõ, s várhatóan a többi nagyvárosban is megtörténnek a fejlesztések. Illetve a még nem végleges csomagárak sem elszálltak információink szerint, s nem fog többe kerülni egy ilyen, mint a mostani legdrágább Chello-elõfizetés.
+A sebesség elszédít-e?
+
+Egy következõ felmerülõ kérdés pedig az, hogy vajon mennyire változtatja meg az internetezési szokásokat egy kihasználhatatlanul nagy sávszélesség? Vajon többet fog-e tölteni a felhasználó? Vajon ha nagyon sokan választanak ilyen csomagokat, akkor kellemetlen helyzetbe kerülnek-e bizonyos tartalomszolgáltatók? Készen állunk a cloud computingra, vajon, ha az internet sebessége megnõ, akkor nyitottabbá válik-e a magyar felhasználó több internetes szolgáltatás igénybe vételére? Egy késõbbi kísérletünkben erre derítünk fényt.

@@ -1,0 +1,14 @@
+Leveleink archiválásához, szûréséhez is segítséget nyújt a Google új szolgáltatása
+
+[Techworld, HWSW] Újabb szolgáltatással bõvítette kínálatát a Google: ezentúl hosztolt szolgáltatás keretében bárki igénybe veheti a vállalat vírus- és kéretlenlevél-szûrõ technológiáját. A Postinivel közösen nyújtott Google Message Discovery emellett könnyen kereshetõ archívumot is nyújt a vállalat teljes levelezésérõl.
+
+
+
+Az elsõsorban üzleti felhasználóknak kínált, fizetõs, képességektõl és adminisztrálási lehetõségektõl függõen postafiókonként évi 3-25 dolláros díjért igénybe vehetõ szolgáltatás szinte minden levelezõrendszerrel integrálható, többek között a Microsoft Exchange és a Lotus Dominóhoz is illeszthetõ. A rendszer egyik legnagyobb elõnye a pillanatok alatt kereshetõ archívum.
+
+A levelek mentése meglehetõsen kritikus kisebb vállalati környezetben is, a tengerentúlon törvények és rendeletek is elõírják a levelezések visszakereshetõségét, archiválását. A Google Message Discovery minden beérkezett és elküldött elektronikus levelet megõriz, melyeket meghatározott paraméterek mentén késõbb automatikusan meg is semmisíthet. A hozzáférés természetesen szabályozható.
+
+
+A szolgáltatás a Google Alkalmazások része, melybõl elemzõk szerint eddig hiányoztak ehhez hasonló, nagy létszámmal dolgozó vállalatoknak kínált szolgáltatások. A Google Message Discovery egy fontos lépés lehet a keresõóriásnak, hogy nagyvállalatok IT-menedzsereit is elvarázsolja az Alkalmazások kínálatával.
+
+A keresõóriás folyamatosan bõvíti online szolgáltatásai körét, legutóbb a 2006 októberében bekebelezett JotSpot wikiplatformját gyúrta át saját szájíze szerintire, és mellékelte ingyenesen a Google Alkalmazások (Apps) mellé. A Google Sites-szal egyszerûen, mint egy szöveget szerkesztve készíthetünk nyílt, vagy zárt csoportmunka, intra-, vagy internet oldalakat cégünknek.

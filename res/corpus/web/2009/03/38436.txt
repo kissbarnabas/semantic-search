@@ -1,0 +1,13 @@
+Facebookosodik az iWiW
+
+Napok kérdése lehet és a 2,6 millió aktív iWiW-felhasználó arra ébredhet reggel, hogy megváltozott a magyar közösségi oldal megjelenése -- írja Szabó Gergely, a Webisztán szerzõje blogjában. Illetve a kíváncsiskodóak az iwiw.hu/ujoldal linken maguk is meggyõzõdhetnek a felújítás eredményeirõl.
+
+
+
+
+Nem egy teljesen új dizájnról van szó, csupán egy ráncfelvarrásról, a régi dizájnelemek módosulásáról. A finomítások érintik többek közt a betûtípust, a linkek megjelenését, illetve a grafikus elemeket is. A ráncfelvarrás, azaz "facelifting", inkább "Facebook-lifting" lesz a szkeptikusok szerint. A változás feltételezhetõen a hamarosan elinduló Open Social alapú alkalmazások élesedése elõtti utolsó elõkészületekhez tartozó lépés, ami nem csak a mûködést, de a kinézetet is érinti.
+
+
+Az API egy ideje már elérhetõ a fejlesztõk számára, s jelenleg egy alkalmazásfejlesztõi verseny folyik, aminek keretében a tulajdonos Origo Zrt. keresi a három legötletesebb kiegészítõt, melyek készítõit díjazza is. Természetesen a lényeg inkább a fejlesztõk ösztönzése, hogy a publikus nyitáskor ne üresen tátongjon az alkalmazásos rész.
+
+Az iWiW fõoldalon a struktúrában is lehet majd némi átrendezõdés, az eddig leghangsúlyosabb Üzenõfal mellett valószínûleg megjelenik a Facebookhoz hasonló Hírek rovat, ahol ismerõseik állapotváltozásairól és az alkalmazásokban végzett tevékenységekrõl értesülhetnek a felhasználók. A fejlesztõi verseny március végén zárul, s ezt követõen nagyon rövid idõn belül élesednek is az elkészült programok. Az oldal szerkezetének és megjelenésének változásai pedig addig fokozatosan kerülnek beillesztésre.

@@ -1,0 +1,54 @@
+A digitális fényképezõgépek fejlõdése: a kezdetek
+
+Elérkeztünk oda, hogy a digitális fényképezõgépek teljesen hétköznapi termékekké váltak. Aki akar, vehet egyet, alacsonyabb árú gépek esetén a kiadást nem érzi meg senki, illetve nem jobban, mint az, aki a merevlemezét bõvíti egy nagyobb kapacitású modellre. A digitális fényképezõk robbanásszerû fejlõdése a kilencvenes évektõl megállíthatatlanná vált, az utánégetõt azonban az ezredfordulón aktiválták a gyártók. Cikksorozatunk elsõ darabja 1989-tõl lépked az idõvonalon, onnantól, hogy az elsõ fogyasztói termékek megjelentek.
+
+
+
+Mai szemmel nevetséges képességek, horror áron
+
+Közel két évtizede, 1989-ben még más idõk jártak: ebben az évben indultak útjukra az ASUS, az ABIT, illetve az EPoX alaplapgyártók, ekkor tették le a PCMCIA kártya alapköveit és ebben az évben mutatta be az Intel a 486DX processzort. Írható CD sem volt még, az Orange Book, melyet a Sony a Philips ebben az évben tett közzé, tartalmazta az írható lemezek (CD-MO, CD-R és CD-RW) formátumának szabványleírását.
+
+1989-ben azonban már a szakboltokban voltak azok a digitális fotós rendszerek, melyek a hobbifotósok számára csak körülményesen voltak használhatók, ráadásul szinte elérhetetlen áron lehetett õket megvenni. A Video Floppy Diskre rögzítõ Canon RC-701 (RC: Realtime Camera) három éve volt kapható, 780 pixeles vízszintes felbontása ma megmosolyogtató adat. Ez a professzionális fényképezõ egy 11-66 milliméteres optikával háromezer dollárba került, de ahhoz, hogy használható legyen, kellett még hozzá lejátszó-felvevõ, nyomtató, laminátor, és telefonos adatátviteli egység, így a készlet 27 ezer dollárért volt kapható.
+
+Canon RC-701
+
+Az elsõ konzumer gép
+
+A Canont hamarosan a Sony, a Kodak és a Casio is követte, e gyártók fényképezõinek közös jellemzõje volt a magas ár, valamint a körülményes kezelés, amik nem találkoztak a hobbifotósok alapvetõ igényeivel. 1990-ben aztán eljött az idõ, megjelent az elsõ, teljes mértékben fogyasztói piacra szánt digitális fényképezõgép, a Dycam Model 1, melyet az európai közönség a Logitech termékeként ismerhetett meg. A Logitech Fotoman 376x240 képpontos, 256 szürkeárnyalatú képeket készített, ezek 11 másodperc alatt kerülhettek a belsõ, egy megabájtos memóriába, mely 32 TIFF, illetve PICT2 formátumú fotó tárolására volt elegendõ.
+
+A vakuval is felszerelt Fotoman memóriája teljesen hétköznapi DRAM  volt, így a képek elvesztek, ha az akkumulátor lemerült. A PC-s kapcsolathoz a Fotoman mellé soros kábelt adtak, segítségével kapcsolódhatott a Windows 3.0 operációs rendszerrel hajtott számítógépekhez. Elgondolkodtató, hogy ma már nincs olyan olcsó telefon, melynek fényképezõje ne tudná a 995 dolláros áron bevezetett Fotoman felbontásának négyszeresét, ráadásul színesben.
+
+Logitech Fotoman
+
+1992-ig kellett várni, hogy a Logitech Fotoman színes változata is elérkezzen: a Windows 3.1 operációs rendszerrel egyidõben mutatkozott be a Dycam Model 3 (Logitech Photoman Plus), mely 24 bites színmélységben tálalt 495x366 képpontot. Ennek a fényképezõgépnek is 32 kép tárolására elegendõ memóriája volt, ára szerencsére alacsonyabb volt elõdjénél, azonban a 695 dollárt még mindig össze kellett spórolni.
+
+
+ Ugyanebben az évben mutatta be a Fuji is saját megoldását, a DS-H2 kétszeres zoomoptikája mögött egy 390 ezer képpontos képérzékelõ dolgozott. A fényképezõ belsõ memóriával nem rendelkezett, speciális memóriakártyájára 40 kép fért. 1993-ban a Fuji továbbment, és bejelentette a DS-200F fényképezõt, mely szerény felbontása mellett elsõként alkalmazta a képek tárolására a flash memóriát, mely mára minden egyéb megoldást szine teljesen kiszorított.
+
+Megjelennek a flash memóriakártyák
+
+Ezekben az idõkben a flash memóriák speciálisak és igen szerény kapacitásúak voltak, számtalan fejlesztés próbált az akkori gátak fölé kerekedni. A Sony a hangfelvételre- és lejátszásra szolgáló MiniDisc 1991-es bemutatása után 1993-ban elkészítette annak adattárolásra szolgáló MD Data változatát, melyet késõbb több fényképezõgépében is alkalmazott. 1994 aztán a széles körben használható változatok bemutatkozásának éve lett, ekkor láthattuk elõször a SanDisk Compact Flash változatát, illetve az azóta sülyesztõbe került SmartMedia kártyákat is.
+
+Compact Flash és Smart Media
+
+E két kártyatípus közötti legfontosabb különbség, hogy amíg a Compact Flash kártyába az adatátviteli vezérlõáramkörök is bekerültek, addig a SmartMedia változatba nem. Ha egy fényképezõgép SmartMedia kártyát fogadott, kellett rendelkeznie a hozzá tartozó vezérlõvel is. A két kártya bemutatkozása után még évekig inkább a belsõ, fényképezõgépbe épített memóriák maradtak terjedõben.
+
+A notebook, mint fényképezõgép?
+
+A Kodak 1994-ben az Apple számára készítette a QuickTake 100 fényképezõt, mely elsõként nyújtotta a VGA felbontású színes képeket ezer dollár alatti árhatár alatt. A Quick Take jelentõsen letörte az árakat, az ezer dolláros határ alá kemény 250 dollárral ment. A noteszgéppel rendelkezõk ebben az évben már igen olcsón fényképezhettek, megjelent a legtöbbet eladott Macintosh kiegészítõ, a Connectix Quickcam, mely hihetetlenül alacsony, 99 dolláros áron kínálta a szürkeárnyalatos 320x240 képpontos felvételek készítését. Épp azért, mert noteszgéppel képes volt együttmûködni, fényképezõgépként bárhol bevethetõ volt az összeállítás.
+
+Connectix QuickCam
+
+A noteszgéppel együttmûködõ megoldások kedvezõen alakítoták a vételárat, hiszen pár részegység -- mint például az enegiaellátás, vagy a adattárolás -- megspórolható volt. A Canon CE300 PCMCIA kártyahelybe illeszthetõ fényképezõ 1995-ben mutatkozott be, a notebookból kiálló optikai rész 270 fokban volt elforgatható, 320x240 képpontos felbontása alkalmassá tette névegykártyák fotózására is. A PowerShot 30-at webkameraként is bevethettük, ezért csak szoftver kérdése volt, hogy mozgóképet rögzítésére is alkalmassá váljon.
+
+Canon CE300
+
+Végre: kijelzõ a fényképezõn
+
+A Logitech Fotoman piacra kerülése óta öt évnek kellett eltelnie ahhoz, hogy kijelzõ kerüljön a hátoldalra. A ma már nélkülözhetetlen részegység adja meg a képek gyors viszajátszásának lehetõségét, amely során akár azt is eldönthetjük, hogy az elkészült fotók jól sikerültek-e, vagy meg kell azokat ismételni. Egészen 1995-ig ez nem állt rendelkezésre, de a Casio QV10 a forgatható optikája mellett e kijelzõt is kínálta, ráadásképp pedig TV-kimenettel is megörvendeztette tulajdonosát. Az alapjellemzõk nem tették a csúcsra, korának VGA felbontású modelljeihez ezer dolláros árával és 460x280 képpontos felbontásával csapódott.
+
+Casio QV10
+
+1995-öt még egy fényképezõgép teszi fontos dátummá, ekkor jelent meg az elsõ olyan fényképezõgép, mely önmagában is alkalmas volt mozgóképek rögzítésére, hanggal együtt. A Ricoh RDC-1 1500 dollárért 768x480 képpontos felbontást kínált és 2,5 hüvelykes, levehetõ LCD kijelzõvel rendelkezett. A 130x70x20 milliméteres, 250 grammos fényképezõgépbe 24 megabájtos PC kártya illett, melyre normál módban 246 fénykép fért, illetve négy, ma már elfogadhatatlanul rövid öt másodperces klip, hanggal együtt.
+
+A következõ években -- mely cikksorozatunk többi részére marad -- további felbontásbeli javulásra számíthatunk, illetve arra, hogy a digitális fényképezõgépek egyre jobb minõségben kínálják az elszántak, illetve a tehetõsebb fotósok számára a papírkép-lapolvasó együttese által nyújtottnál nagyobb fotózási szabadságot. További gyártók csatlakoznak az úttörõkhöz, fényképezõgépeik pedig összehasonlíthatóvá válnak. A kategóriák is kezdenek kialakulni, majd elhatárolódni egymástól.

@@ -1,0 +1,22 @@
+Szeptember közepén léphet színre az Intel hatmagos Xeonja
+
+[News.com/HWSW] Az Intel a hónap közepén várhatóan bejelenti négy- vagy többutas szerverek számára fejlesztett, hatmagos Xeon MP processzorait. Az új, monolitikus felépítésû chip -- melyrõl tavasszal több konkrét részletet is elárultak -- igazi monstrumnak ígérkezik a processzorok világában.
+
+
+
+A világelsõ processzorgyártó sajtóértesülések szerint szeptember 15-én jelenti be Dunnington kódnevû, Xeon 7400-as sorozatú szerverprocesszorait, a Penryn-család utolsó sarjait. Az utolsó negyedévben érkeznek ugyanis az elsõ Nehalem-osztályú processzorok (az asztali gépekbe szánt Core i7-ek), a most megjelenõ megoldások feladata az erre a mikroarchitektúrára épülõ, nyolcmagos Beckton kódnevû Xeonok jövõ év második felére esedékes érkezéséig hátralevõ idõ áthidalása, melyek már a Nehalem-generációhoz tartoznak. 
+
+Óriásprocesszor
+
+A Dunnington kódnéven ismert fejlesztés 6 processzormagot integrál egyetlen szilíciumdarabra, 9 megabájt L2, és 16 megabájt L3 cache társaságában -- vagyis a chipen több mint 25 megabájt gyorsítótár igyekszik csillapítani a nagyteljesítményû magok adatéhségét. A 45 nanométeres eljárásával készülõ chip bõdületes mennyiségû, 1,9 milliárd tranzisztorból épül fel, ennek megfelelõen pedig várhatóan méreteiben sem szerénykedik majd.
+
+A Xeon 7300-as sorozatot (Tigerton) váltó Dunnington foglalat- és chipset-kompatibilis a jelenlegi Xeon MP-platformmal, az egy éve megjelent, Intel 7300 (Clarksboro) chipsetet alkalmazó Canelanddel, mely dedikált rendszerbuszokkal négy foglalatot és legfeljebb 128 gigabájt FB-DIMM memóriát támogat, célterülete pedig a nagyobb osztottmemóriás kapacitást igénylõ üzleti alkalmazások. A Dunningtonnal felszerelve akár 24 nagyteljesítményû processzormagot is kaphatunk egyetlen szerverben a nagy memóriakapacitás mellé, ami ideálissá teszi például nagyterhelésû adatbázisok és szerverkonszolidációs projektek számára.
+
+Hatékonyabb lesz
+
+
+A mikroarchitekturális fejlesztések közé tartozik, hogy a pénzügyi alkalmazások számára értékes osztási és gyökvonási teljesítményt jelentõsen megnövekszik a szoftver újrafordításának igénye nélkül -- a gyorsulás extrém esetben akár az 50 százalékot is elérheti. Szintén említésre méltó fejlesztés a virtualizációs teljesítmény fokozása is a virtuális gépek közötti váltogatások számítási költségének csökkentése révén.
+
+A fejlettebb gyártástechnológiának köszönhetõen a Dunnington energiahatékonysága növekszik a Tigertonhoz képest, termikus kerete pedig továbbra is legfeljebb 130 watt. Az Intel csökkentett órajeleken kifejezetten energiahatékony, kisebb fogyasztású és hõfejlõdésû változatok bevezetését is tervezi, vagyis várhatóak alacsony feszültségû, 50 wattos modellek is vékony rack- és blade szerverekbe.
+
+A nagyteljesítményû magok adatéhségét csak korlátoltan csillapítani képes adatbuszok szûk keresztmetszete  ellenére a hatmagos és hatalmas L3 tárral érkezõ Dunnington rendkívül ütõképesnek ígérkezik, a ráépülõ szerverek egy sor iparági szabványos teljesítményrekodot döntöttek meg máris -- köztük az IBM nyolcfoglalatos x395 M2 kiszolgálója az x86-os konfigurációk között a világon elsõként törte át az 1 millió TpmC-s álomhatárt az online tranzakciókezelési teljesítményt vizsgáló TPC-C tesztben. Ilyen eredményt korábban csak felsõkategóriás RISC és Itanium szerverektõl láthattunk.

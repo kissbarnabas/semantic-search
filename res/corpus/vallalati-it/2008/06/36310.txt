@@ -1,0 +1,15 @@
+A rendszergazdák harmada visszaél kivételes helyzetével
+
+Minden harmadik rendszergazda visszaélt már kivételezett helyzetével, és elevált jogosultságai birtokában olyan információkat is megtekintett, amelyekhez semmi köze sincs -- derül ki egy felmérésbõl, amelyet a Cyber-Ark Systems készített egy biztonsági konferencia látogatóinak körében. A több mint 300 rendszergazda által kitöltött kérdõíveken leginkább a jelszókezelésre vonatkozó kérdések voltak.
+
+
+
+Adam Bosnian, a Cyber-Ark vezetõje szerint semmi meglepõ nincs abban, hogy a rendszeradminisztrátorok visszaélnek kivételezett helyzetükkel, és kíváncsiskodnak egy kicsit, a probléma inkább az, hogy ezt be is vallják. 
+"Mindenki azt gondolja, hogy az adminisztrátorok megbízhatók, és a többiek miatt kell aggódni. De az admin jelszavak nem csak hatalommal járnak, hanem anonimitással is" -- mondta Bosnian.
+
+A hatalom és a névtelenség sokak számára már túl nagy falat, ami megmagyarázza azt is, az adminisztrátorok közel fele miért próbált meg olyan rendszerekben is kutakodni, ahol semmi keresnivalója nem volt. "Több százan is használhatják ugyanazt a jelszót, ami biztonságérzetet nyújt" -- mondta Bosnian. A felmérés szerint egy távozó rendszergazda az ügyféladatbázis mellett legszívesebben az emelt jogosultságú jelszavak listáját vinné magával.
+
+
+ A felmérésbõl az is kiderült, hogy a rendszergazdák sem követik a biztonságos jelszókezelésre vonatkozó tanácsokat. A válaszadók közel harmada csak negyedévente változtatja meg a kritikus jelszavakat, 10 százalék pedig soha. A megkérdezettek harmada rendszeresen papírra is leírja a jelszavakat. A megkérdezett rendszergazdák fele anélkül fér hozzá elevált jogosultságú szerepkörökhöz, hogy ahhoz bármiféle engedélyt kellene kérnie, ami azt jelenti, hogy általánosságban véve alig ellenõrzött a tevékenységük.
+
+Hogy az adminisztrátorok mennyire naivak az érzékeny adatok, üzleti titkok kezelésével kapcsolatban, azt jól mutatja, hogy a válaszadók 35 százaléka már küldött bizalmas adatot e-mailben vagy futárszolgálattal, 22 százalék továbbított ilyen információt az amúgy nem biztonságos FTP protokollon keresztül, 4 százalék pedig még postai küldeményben is adott fel ilyet. De ez nem is csoda, hiszen a megkérdezettek 12 százaléka készpénzt is küldött már postai borítékban.

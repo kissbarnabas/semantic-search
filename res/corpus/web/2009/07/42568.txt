@@ -1,0 +1,11 @@
+A Flash újabb komponenseit nyitotta meg az Adobe
+
+Az Open Source Media Framework olyan Flash-alapú videolejátszók készítésére szolgál, amelyek a szokásos szolgáltatásokon kívül (elõre- és hátratekerés, pufferelés) pluginek segítségével látogatói analízist is végezhetnek vagy éppen a tartalomhoz kapcsolódó hirdetéseket jeleníthetnek meg. Alkalmazásprogramozási interfészek segítségével az OSMF funkcionalitása lényegében tetszõleges irányba kiterjeszthetõ.
+A Text Layer Framework szövegek megjelenítésére használható technológia, amely a vállalat szerint a HTML-nél és a CSS-nél jóval bõvebb eszköztárat vonultat fel a formázásra, beleértve például a többhasábos megjelenítést vagy éppen az arab vagy héber nyelv által használt jobbról balra írást. A TLF valójában nem más, mint Adobe Flash 10-ben és AIR 1.5-ben található szövegmegjelenítõ motorra épülõ ActionScript-könyvtár. A Text Layer Frameworkön alapul például az Acrobat.com webes irodai csomag prezentációkészítõje és a New York Times és a Boston Globe hírolvasó szoftvere is.
+
+Bár az Adobe Flash egyértelmûen egy tulajdonosi szoftver, szabvány és formátum, a vállalat az utóbbi idõben számos részét megnyitotta, beleértve a Flex fejlesztési keretrendszert, az ActionScript Virtuális gépet (AVM2), illetve számos specifikációt. Maga a Flash azonban továbbra is zárt, amely miatt az Adobe rendszeresen támadások célpontjává válik. Dave McAllister, az Adobe szabcványokért és nyílt forrású stratégiáért felelõs vezetõje szerint a Flashnek vannak olyan részei, amelyek nem az Adobe tulajdonában vannak, ezért sem lehet megnyitni a forrását.
+Az Open Source Media Framework kódja elérhetõ a www.opensourcemediaframework.com oldalon, a Text Layer Framework pedig az opensource.adobe.com/wiki/display/tlf/ címen.	     
+                  
+                  
+                  
+                   

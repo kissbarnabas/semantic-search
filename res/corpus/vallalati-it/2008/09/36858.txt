@@ -1,0 +1,16 @@
+Az AMD üzleti platformjához tartozó asztali konfigurációkkal jelentkezik a Lenovo
+
+A Lenovo bemutatta a vállalati szegmens részére fejlesztett ThinkCentre asztaliszámítógép-családjának legújabb tagját, az A62-t. Az AMD üzleti platformjára épülõ új gépcsalád bizonyos tagjai a gyártó állítása szerint a kínálat legenergiatakarékosabb tagjai közé tartoznak -- egyes modellekbe 15 watt maximális fogyasztású processzor kerül, a gépek ugyanakkor elérhetõk lesznek négymagos processzorral és egyszerre négy kijelzõt kiszolgáló grafikus alrendszerrel is.
+
+
+
+Az AMD nyílt üzleti platformjára épül a kínai Lenovo legújabb ThinkCentre sorozata, az A62, mely kiépítéstõl függõen egymagos Sempron (ez a processzornem része az üzleti platformnak) és Athlon, különbözõ energiaosztályú Athlon X2, illetve három és négymagos Phenom processzort tartalmazhat. A &#8222;B&#8221; jelzéssel ellátott CPU-k esetében az AMD garantálja a most piacra dobott modellek hozzáférhetõségét legalább egy, de akár 2 éven keresztül, míg a családba kerülõ új termékek piacra kerülésüket követõen egy évig biztosan elérhetõek lesznek folyamatosan. A gépparkok késõbbi homogén bõvítése így biztosított a vállalatok számára, ami egyszerûsíti a rendszerképek menedzselését. A Lenovo az AMD üzleti platform elõírásának megfelelõen 15 hónapon keresztül garantálja a most bevezetett konfigurációk elérhetõségét.
+
+
+
+A Lenovo ThinkCentre A62-es modellek opcionális része a távoli auditálást, a rendszer frissítését és különféle egyéb távmenedzsment funkciókat lehetõvé tevõ, hardveres és szoftveres komponensekbõl Dash 1.1 technológia, valamint a cég üzleti számítógépeinél régóta alkalmazott ThinkVantage megoldáscsomag. Ennek része az Express Repair alkalmazás is, mely a gyártó állítása szerint két-három percen belül automatikusan képes elhárítani a legtöbb rendszerhibát adatvesztés, illetve a futó alkalmazások megzavarása nélkül.
+
+
+Az új ThinkCentre konfigurációk gyártása során a Lenovo igyekezett a környezetre gyakorolt káros hatásokat a minimálisra csökkenteni, ezzel együtt a gép használata is kevesebb terhet ró az ökoháztartásra. Az új modellek némelyike akár 40 százalékkal kevesebb energiával is beéri, mint a hasonlóan konfigurált, legkevesebbet fogyasztó ThinkCentre A61-es típus, ezzel együtt halkabban is dolgozik annál. A torony- és fekvõváltozatban egyaránt kapható ThinkCentre A62 a Lenovo több új asztali konfigurációjához és notebookjához hasonlóan megkapta az EPEAT GOLD és GREENGUARD megfelelõséget, egyes konfigurációk pedig az Energy Star legszigorúbb, 4.0 változatában meghatározott feltételeket is teljesítik.
+
+A Lenovo ThinkCentre A62 konfigurációkat az AMD processzorain túl maximum 500 gigabájtos merevlemezzel és 2 gigabájt DDR2 memóriával látják el, a grafikus alrendszer alapesetben az AMD 780V lapkakészletébe épített, DirectX 10-kompatibilis Radeon 3100-as vezérlõ (a torony kivitelû változatokba GeForce 9500 GT és 9300 GE, valamint Radeon HD 3470 grafikuskártyákat is építenek, a fekvõ változatokkal a nagyobb teljesítményû GeForce modell nem kompatibilis). A gépek a Windows Vista különbözõ változataival kerülnek forgalomba, a Lenovo egy-három év jótállást vállal a konfigurációkra. Az újdonságok az õsz során jelenhetnek meg a vállalat viszonteladóinak kínálatában.

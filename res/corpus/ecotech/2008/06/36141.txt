@@ -1,0 +1,16 @@
+Minden jel szerint szoros kapcsolatban áll az NVIDIA és a VIA
+
+[Digitimes/HWSW] A VIA-val együtt ünnepelte a Nano processzor és az új Mini-ITX 2.0 formátum rajtját az NVIDIA, ami megerõsíteni látszik, hogy a két vállalat a jövõben szorosabbra fûzi kapcsolatát. A Digitimes értesülései alapján az NVIDIA chipsetet fejleszt VIA processzorok számára, integrált DX10 grafikus maggal.
+
+
+
+A VIA Computexre idõzített rendezvényén képviseltette magát Drew Henry, az NVIDIA chipset üzletágáért felelõs vezetõje, és a protokollnak megfelelõen dicsérõ szavakkal illette a VIA közelgõ új, Nano processzorát. Elemzõk és iparági megfigyelõk szerint egyértelmû jelét adta ezzel a két vállalat, hogy a közelebbi kapcsolatot ápolnak annál, mint ami nyilvános. 
+
+
+A Digitimes számítógépgyártói forrásokra hivatkozva azt írja, hogy az NVIDIA-nál legalább egy chipset fejlesztései folynak. Az MCP79 jelölésû chipset a VIA Nano processzorához készül, akár 1333 megahertzes adatbuszt is támogathat, de leginkább integrált DirectX 10 grafikus magja teszi érdekessé, mely minden bizonnyal összehasonlíthatatlanul erõsebb és hatékonyabb, mint a VIA saját megoldása. A chipset megjelenése 2009 elsõ negyedévére várható.
+
+Az NVIDIA és a VIA közeledésérõl szintén a Digitimes számolt be még március során, sõt egyes források alapján az összeolvadás is szóba került. Egy stratégiai szövetség vagy egyesülés ésszerû és vonzó lépés lehet a két vállalat számára, ugyanis kompetenciáik gyakorlatilag egymás komplementerei. Míg az NVIDIA rendkívül erõs grafikus fejlesztésekben és miközben jelentõs erõforrásokat ölt chipsetjeibe, addig a VIA jelentõs chipsettervezési tapasztalatai mellett az x86-os processzorok terén letette névjegyét a Nano megalkotásával. 
+
+[+] Nano néven kerül piacra a VIA következõ generációs processzora 
+
+A két vállalat szövetsége egy potens harmadik szereplõt adhatna a piacnak az Intel és az AMD mellé, melyek a piac egyre nagyobb szeletét fedik le platform megoldásaikkal. Mérnöki erõforrásaik kombinálásával és az NVIDIA pénzügyi hátterével a teljesítményre nem érzékeny piaci szegmensekben képesek lehetnek felvenni a versenyt. A kiemelt célterületek közé tartoznának kezdetben az olcsó mini PC-k, valamint az alsókategóriás, normál kivitelû notebookok és asztali gépek.

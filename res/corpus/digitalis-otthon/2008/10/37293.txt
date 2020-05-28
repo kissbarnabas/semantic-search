@@ -1,0 +1,27 @@
+Jön a Windows Media Player 12
+
+[ARS Technica/HWSW] Az elmúlt napokban egyre több információ látott napvilágot a Windows 7-tel kapcsolatban, kiderült többek közt, hogy számos alkalmazás nem jön automatikusan az operációs rendszerrel, hanem a Live márkanév alatt egyesítve külön tölthetõek majd le. Ilyen lesz természetesen a Messenger, a Mail, a Movie Maker, a Writer vagy a Photo Gallery is. Ezzel szemben a régebbi Windows verziókban többször vitatott Media Player legújabb, tizenkettedik verziója (WMP12) ismét a csomag részét képezi majd.
+
+
+
+
+
+Az Ars Technica gyorstesztje alapján a WMP12 elsõ ránézésre könnyedebb, világosabb elõdjénél, néhány gomb áthelyezésre került, de alapjában véve a kezelõfelület megegyezik a 11-es verzióval. A "Most játszott" gomb eltávolítása a legszembetûnõbb változás elsõre -- a WMP12-ben teljesen elválasztották a Mûsortár kezelését az aktuálisan játszottól, így két különbözõ nézetben érhetõ el a program. A Most játszott nézetben az aktuális lista, a vizualizációk, illetve a videók érhetõek el, míg a másik nézetben a szokásos fájl- és listakezelõ funkciók, illetve korábbi verzióban a Mûsortár menüpont alatt elérhetõ további elemek jelennek meg.
+
+ 
+
+Bemutatkozott egy új mini-megjelenítõ is, ami a Windows 7 tálcáján kelthetõ majd életre és a kezelõfunkciók mellett a Mûsortárban lévõ képek, videók jelennek meg majd rajta. Ez utóbbi a statikus listákkal gyakorlatilag értelmetlen, de elõfordulhat, hogy az online tartalomszórás irányába nyit az új verzió. További változás, hogy a médiakonvergencia jegyében a Mûsortárban már nem külön, hanem egyesítve szerepelnek a zene, videó, TV és kép tartalmak. A számos ilyen apró finomítás mellett érdemes kiemelni az audio elõzeteseket is: a kurzort egy zenefájl felé húzva, egy 15 másodperces részletet ragad ki a lejátszó. 
+
+Az igazi ínyencségeket a kezelõfelület helyett inkább a lejátszási képességek közt találni: az örök probléma, miszerint a lejátszó nem ismeri fel az adott formátumot, még közelebb került az enyészethez, hiszen egyrészt fejlesztették az automata kodekfelismerõ rendszert, másrészt a WMP12 már alapból támogatja az MPEG-4 H.264, AAC audio, illetve a DivX és Xvid szabványokat is a WMP11 szokásos formátumain felül, így az interneten keringõ formátumokat szinte kivétel nélkül képes bûvészkedés nélkül lejátszani. Még az iTunes-ról származó zenék túlnyomó részével is megbirkózik, kivéve az Apple FairPlay DRM licencével védett számokkal.
+
+
+ 
+
+
+Zseniális újdonságnak számít a "Play To:" funkció is, amivel távoli eszközökre küldhetünk át stream formájában tartalmakat, például a felhasználói csoportban lévõ másik számítógépre vagy laptoppal a kezünkben böngészve a HTPC-rõl játszhatjuk le a zenét, a pici hangszórók helyett a házimozit bevetve.
+
+
+A WMP12 támogatni fogja a DLNA v1.5 (Digital Living Network Alliance) szabványt ismerõ eszközöket is, mint a Nokia több eszközeit vagy a Samsung médialejátszóit. A 30 gyártót és körülbelül 3000 modellt maga mögött tudó szabvány ismerete pedig komoly fegyvertény lehet a konkurens lejátszóprogramokkal szemben.
+
+
+Egyesek szerint a WMP12 sikere épp ebben rejlik, hiszen ahelyett, hogy az Apple sikerét ignorálná és a saját formátumait erõltetné, most elõször komolyan nyitottá vált a felhasználók által preferált formátumokra, nem akar ráerõltetni az emberekre semmit. A változás érezhetõ egyébként a Live termékekkel kapcsolatban is, ahol az interoperabilitás a hosszútávú cél, ezt pedig a fogyasztók értékelni fogják és profitként hullhat vissza a jó hozzáállás a Microsoft ölébe.

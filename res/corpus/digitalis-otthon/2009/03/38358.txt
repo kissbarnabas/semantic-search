@@ -1,0 +1,26 @@
+Régi adósságokat törleszt az Apple az iPhone 3.0-val
+
+Az Apple a jó elõre beharangozott idõpontban, tegnap fellebbentette a fátylat az iPhone okostelefonok új generációs rendszerszoftverérõl. Az iPhone OS 3.0 a fejlesztõk szerint több mint száz új funkcióval gazdagítja majd a telefon repertoárját, többek közt olyan, rég várt újdonságokkal, melyek más mobiltelefonoknál évek óta használhatók.
+
+
+
+Ami csak az Apple-nél újdonság
+
+Így a tegnapi bemutatón egyebek mellett kiderült, hogy a telefon új, nyártól elérhetõ rendszerfrissítése immár lehetõséget ad majd a multimédiás üzenetek, azaz MMS-ek küldésére -- ezt a funkciót bár az operátorok szerint elvétve használják az elõfizetõk, mégis sokan hiányolták az iPhone repertoárjából. Szintén komoly hiányosságot pótol az Apple a kivágás, másolás, beillesztés szövegszerkesztõ-parancsok megjelenésével: a felhasználók az új szoftvernél a kijelzõ érintésével jelölhetik majd ki azt a szövegrészletet, melyet az alkalmazások közt (például SMS-modul és e-mail kliens) akarnak másolni, a felugró szövegbuborékból pedig kiválaszthatják, hogy milyen mûveletet kívánnak végezni.
+
+iPhone 3.0: azonnali üzenetküldés, kis trükközéssel
+
+Az új rendszerszoftverrel érkezik a Spotlight, a Mac OS X operációs rendszereknél megtalálható keresõ iPhone okostelefonokra fejlesztett változata, mely az összes beépített alkalmazásban (e-mail kliens, naptár, jegyzetek és iPod zenelejátszó) keres az adott szövegrészletre. A Spotlight így egyebek mellett végre lehetõséget ad majd a tulajdonosoknak arra, hogy az e-mailjeik közt keressenek, ugyanakkor a Mac OS X-változathoz hasonlóan alkalmazásokat is el lehet majd indítani a keresési találatok listájából.
+
+Azonnali üzenetküldés új megközelítésben
+
+Az iPhone 3.0-s frissítésével megjelenik az Apple saját szerverparkjával megtámogatott push-üzenet küldési lehetõség is, mely az azonnali üzenetküldõ alkalmazások felhasználói számára kínál egyfajta kényszermegoldást. Az iPhone ugyanis az új szoftver telepítése után sem ad lehetõséget több alkalmazás egyidejû futtatására (multitasking) -- az Apple szerint ez rendkívüli módon leterheli az akkumulátort --, helyette a kliens idõrõl-idõre lekérdezi az Apple szervereitõl, hogy érkezett-e új üzenet.
+
+
+A száznál is több új funkció és fejlesztés közül a fentieken túl említésre méltó, hogy a szövegbevitel az új szoftvernél nemcsak portré, hanem tájkép üzemmódban is mûködik majd, így nem csak a böngészõnél vált a telefon tájolást a beépített szenzortól kapott adatok alapján. Az iPhone 3.0-val megjelenik egy új hangrögzítõ alkalmazás is a szoftverválasztékban, illetve a telefon végre támogatni fogja a sztereó Bluetooth (hang)eszközök használatát -- ez szintén egy olyan funkció, amit a többi gyártó a felsõkategóriás készülékeknél évek óta alapszolgáltatásként kínál.
+
+Erõs fejlesztõi támogatás
+
+Az új rendszerszoftver mindemellett a fejlesztõk kezébe is több lehetõséget ad majd: az Apple az iPhone 3.0-val ezer új, alkalmazásprogramozási interfészt (API-t) tesz elérhetõvé. Mivel az új operációs rendszer fejlesztõi környezetét már tegnap a programozók rendelkezésére bocsátotta az Apple, így várhatóan több száz új, a telefon hardverét jobban kihasználó alkalmazás jelenhet meg a készülékhez, mire a végfelhasználóknak szánt változat napvilágot lát. Az új API-knak köszönhetõen egyebek mellett lehetõségük adódik a külsõs fejlesztõknek arra, hogy alkalmazásaikat direkt Bluetooth kommunikációs lehetõséggel ruházzák fel, illetve megjelenhetnek az elsõ, iPhone-ra portolt navigációs rendszerek, térképszoftverek is.
+
+Az Apple a tegnapi bemutatón egyben felhívta a figyelmet arra, hogy az új funkciók közül néhány az elsõ, 2007-ben bemutatott iPhone modelleken nem mûködik majd -- cég egyedül az MMS küldési és fogadási funkciót emelte ki ezek közül. Az új rendszerszoftver a vállalat ígérete szerint valamikor a nyáron jelenhet meg, letöltése és telepítése az iPhone-tulajok számára ingyenes lesz, az iPod Touch felhasználóknak azonban továbbra is fizetniük kell a frissítésért (9,95 dollárt, akárcsak tavaly, az iPhone 2.0-s rendszerszoftver megjelenésekor).

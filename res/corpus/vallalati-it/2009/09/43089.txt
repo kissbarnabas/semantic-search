@@ -1,0 +1,12 @@
+Híd a Java és a .NET között
+
+Mindez azt jelenti, hogy a Restlet kiterjesztése segítségével Java alkalmazásokból is könnyen elérhetõk az Ado.NET szolgáltatások. A legfontosabb problémát az Ado.NET esetében az autentikáció jelenti, ugyanis az Ado.NET adatszolgáltatások rendkívül sok metaadatot használnak az azonosításhoz, amelyeket fel kell dolgozni. A Microsoft saját kliensein (.NET és Silverlight) kívül eddig csak PHP-ból voltak könnyen elérhetõk az Ado.NET szolgáltatások, a Restlet továbbfejlesztésének köszönhetõen ez most már a Java nyelven írt alkalmazások számára sem jelent akadályt.
+
+A Restlet lényegében Java-osztállyá alakítja ezeket a metaadatokat és így a Java alkalmazásokból ugyanúgy elérhetõk a távoli Ado.NET szolgáltatások mint a lokális entitások, a többirõl a Restlet futásidejû komponense gondoskodik. A fejlesztõk a lehetõ legtöbb gyakori felhasználási modellt lefedték már, de a funkcionalitás még nem teljes.
+
+Az Ado.NET Data Services viszonylag új kezdeményezés a Microsoftnál. A korábban Astroria projekt néven ismert technológia URL-eken keresztül teszi lehetõvé adatok lekérdezését, írását, felülírását vagy törlését egy adatforrásban, legyen az adatbázis, XML vagy bármilyen fájl. A Restlet használatával a Java-programok is csatlakozhatnak a Microsoft adatbázisaihoz, a Windows Azure cloud platformon futó adatszolgáltatásokhoz, vagy bármilyen .NET platformhoz.
+A Restletrõl és a mûködésrõl további információ a Noelios weboldalán, valamint a Microsoft Interoperability blogban lehet olvasni. A Reslet letölthetõ a Noelios oldaláról.	     
+                  
+                  
+                  
+                   

@@ -1,0 +1,14 @@
+Kiadta az X-Fi hangkártyák eszközillesztõinek linuxos forráskódját a Creative Labs
+
+A cég eddigi hozzáállását tekintve igencsak meglepõ lépésre szánta el magát tegnap a Creative Labs, az egykor hatalmas népszerûséggel bíró Sound Blaster hangkártyacsalád atyja. Az saját szabványait és szoftverkódjait eddig féltve õrzõ vállalat nyílt forrásúvá tette az X-Fi kártyák linuxos meghajtóprogramját.
+
+
+
+A szingapúri vállalat 2005-ben dobta piacra új generációs Sound Blaster hangkártyáit, melyeket a kimagaslóan jó hangzásvilágra (eXtreme Fidelity) utalva X-Fi-nek keresztelt el. A cég a kezdeti idõszakban semmilyen linuxos támogatást nem nyújtott hangkártyáihoz, végül csaknem egy évvel az új termékek érkezése után bejelentették, hogy a programozók dolgoznak a különbözõ Linux disztribúciókkal együttmûködõ kódon, a megjelenés azonban csak 2007 második negyedévére várható.
+
+A cég végül csak némi késéssel, tavaly szeptemberben adta ki az elsõ linuxos meghajtót a kártyákhoz (ekkor már több, mint két év telt el a bemutatás óta), arra hivatkozva, a hogy a programozóknak alapjaitól újra kellett írni a Windows Vistához készülõ eszközillesztõket, és ez elvette az erõforrásokat a linuxos projekttõl. Az X-Fi hangkártyák elsõ linuxos vezérlõkódja a rendkívül hosszúra nyúló fejlesztés ellenére valósággal hemzsegett a hibáktól, több disztribúcióval nem mûködött együtt, illetve kezdetben csak 64 bites változat készült belõle.
+
+
+A cég idén áprilisban újabb bétaállapotú linuxos meghajtót adott ki X-Fi hangkártyáihoz, a helyzet azonban nem sokat javult, több problémára nem sikerült megoldást találni, valamint a kártyák számos funkcióját nem kezelte a driver, illetve hiányzott a hivatalos ALSA-támogatás (Advanced Linux Sound Architecture) is. Utóbbihoz eddig egyetlen, lényegében kísérleti stádiumban lévõ meghajtóprogram készült egy Novell/SuSE fejlesztõnek, Iwai Takashinek köszönhetõen, a meghajtó állapotáról ugyanakkor sokat elárul, hogy a programozó nem rendelkezett X-Fi hangkártyával a kód fejlesztése idején.
+
+A Creative végül most határozta el, hogy a vájt fülû linuxos közösség rendelkezésére bocsátja az X-Fi hangkártyákat vezérlõ eszközillesztõ teljes, mintegy 13 ezer soros forráskódját. Az egyelõre továbbra is számos korlát közepette mûködõ eszközmeghajtó a Creative X-Fi Titanium, Platinum, Elite Pro, XtremeGamer és XtremeMusic hangkártyákat támogatja. A GNU GPLv2 licenc alá tartozó forráskód letölthetõ a Creative terméktámogatási weboldaláról.

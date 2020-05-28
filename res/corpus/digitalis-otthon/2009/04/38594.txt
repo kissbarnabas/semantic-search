@@ -1,0 +1,22 @@
+Ingyen cserélhetõ 8.3-ra az idén vett iGO 8.0
+
+A Nav N Go április 15-tõl csereakciót biztosít azon vásárlói számára, akik 2009-ben vásárolták meg a Nav N Go iGO 8 navigációs szoftvert, de még a korábbi, elsõ generációs változatot kapták.
+
+
+
+Ingyenes frissítés az idei vevõknek
+
+Az elmúlt két hónapban több magyarországi kiskereskedelmi egységben elõfordult, hogy a régi és az új verzió párhuzamosan a polcokon volt, s a kereskedõk valószínûleg szívesen szabadultak meg inkább a régi verziótól. Így sok vevõ tudtán kívül egy "lejárt" terméket vásárolt meg azonos áron, melyet csak extra költségek árán tudott volna frissíteni. Ennek az anomáliának a feloldására döntött úgy a Nav N Go, illetve disztribútora, az RRC Hungary, hogy ingyenes végfelhasználói kártyacsere akciót hirdet, amely május 30-ig tart.
+
+
+A Nav N GO iGO 8 PDA-változatának európa-térképes verzióját 2008 áprilisa óta forgalmazzák, ez 8.0 verziószámmal (8.0.0.31442) és 2008 elsõ negyedévi térképekkel jelent meg. A 8.0-t felváltó 8.3-as verzió (8.3.2.64029) 2008 végére készült el, s 2009. január 28-án került forgalomba Magyarországon. A szoftver, a licencek és a térképek verziószámát bárki ellenõrizheti a programon belül a "Névjegy" menüpont alatt.
+
+A most meghirdetett csereakció kizárólag a 2009. január 1. után vásárolt Nav N Go iGO 8 Európa 8.0.0 verziójú, 2008 elsõ negyedévi térképpel ellátott változatára érvényes, melyeket blokk vagy számla ellenében térítésmentesen kicserélnek a 8.3 verzióra, melyben már a 2008 harmadik negyedévi térképek találhatók. A végfelhasználói kártyacsere lebonyolítása kizárólag az RRC Hungary-n keresztül történik. Az akció feltételeinek pontos leírása az RRC internetes oldalán található. Szendõfi Borbála, a Nav N Go PR asszisztense szerkesztõségünknek elmondta, hogy az akció célja egyértelmûen azon vásárlók kárpótlása, akik tudtukon kívül a régebbi verziót kapták meg. Többek közt ezért sem élhetnek ezzel a lehetõséggel a programot még 2008-ban megvásárlók.
+
+Finomodó hozzáállás
+
+Az iGO 8 legújabb változata, az iGO 8.3 már jó ideje elérhetõ navigációs készülékeken, s az elmúlt hónapokban elkezdõdött az SD-kártyán forgalmazott PDA-verziók esetében is a frissítés. Ugyan a szoftver már januárban kész volt, de a gyártás és a kereskedelmi csatornák által generált késés miatt elõfordulhatott, hogy valaki még március végén is a régi verziót kapta kézbe az üzletekben. A Nav N Go korábbi álláspontja szerint az iGO 8.3 egy jelentõs frissítés, így nem vonatkozik rá az ingyenes upgrade. Késõbb ezt módosította a cég, így ma már a Naviextras.com frissítõszolgáltatás segítségével is át lehet térni 8.0-ról az új változatra, de a térképfrissítésekért, amennyiben azok nem ingyenesek, mindenképp fizetni kell.
+
+Ez a felhasználók számára azért kellemetlen, mert a kezelõfelület és a navigációs megjelenítés minimális módosítása mellett a legnagyobb változtatás a térképformátum cseréje volt. A 8.0 rövid életû formátuma már eleve egy generációváltás következménye: különválasztották a térképadatokat a POI (érdekes pontok) adatoktól, illetve bekerült a 3D megjelenítéshez szükséges magassági térkép is, így a megjelenített kép minden esetben három adatbázisból épül fel. A HWSW a cégtõl úgy értesült,  leginkább az európaitól eltérõ címrendszerek és karakterkészletek támogatása indokolta a cserét. Az eredmény viszont az, hogy a korábban megvásárolt térképek nem használhatóak a frissítést követõen.
+
+A Nav N Go saját (TopMap) térképeit ugyan továbbra is ingyenesen frissíthetõen kínálja, viszont Nyugat-Európa vagy a világ más részeinek esetében a térképeket forgalmazó Tele Atlas az újabb fájlért elvárja a licencdíj újbóli megfizetését. Azok számára, akik már korábban megvásárolták a terméket, ez nem jelent extra költséget, ugyanis a 2008 harmadik negyedévi térképekre egyébként is kellett volna frissítést vásárolniuk, amit most letudhatnak a szoftver upgrade-del.

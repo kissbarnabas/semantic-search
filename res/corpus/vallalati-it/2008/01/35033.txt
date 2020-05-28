@@ -1,0 +1,16 @@
+Körvonalazódnak az Intel 2009-es terméktervei
+
+[Digitimes/HKEPC] Az Intel következõ generációs processzorcsaládja, a Nehalem az idei negyedik negyedévben érkezik, elsõként a teljesítményéhes piaci szegmensekben, így vélhetõen a kétutas Xeonok és csúcskategóriás asztali változatok, legalábbis a tajvani Digitimes és a hongkongi HKEPC egybevágó ismeretei szerint, melyek alaplapgyártóktól származnak. Ezt követõen 2009 elsõ félévében kerülnek piacra az alsóbb szegmensekbe és notebookokba szánt változatok, melyek között lesznek integrált grafikus chipet tartalmazó változatok is.
+
+
+
+A rendkívül potensnek ígérkezõ Nehalem mikroarchitektúráról egyelõre kevés információ látott napvilágot, elképzelhetõ, hogy a Core mikroarchitektúra erõteljesen továbbfejlesztett változata. A felvételek alapján a Nehalem egy magja mintegy 25 százalékkal nagyobb, mint az Intel ugyanazon a 45 nanométeres csíkszélességû gyártástechnológiáján készült Penryné. Az újításokkal kapcsolatban  az Intel eddig hivatalosan csak a többszálú párhuzamos végrehajtás visszatérésérõl beszélt, melyet a Northwood-magos Pentium 4-ekkel ismertünk meg, HyperThreading néven.
+
+A Nehalem számos verzióban látja majd meg a napvilágot. A már elkészült fõ fejlesztés négy magot, integrált háromcsatornás memóriavezérlõt integrál egyetlen lapkára 8 megabájt L3 cache társaságában. A 731 millió tranzisztorból felépülõ chip nagyjából 260 négyzetmilliméteren terül el, amivel kifejezetten nagynak számít tömegtermelési szempontból.
+
+A Nehalem generáció igazi érdekessége, hogy leváltja az évtizedek óta szolgáló buszrendszert, és a QuickPath Interconnect néven ismert pont-pont összeköttetéseket alkalmaz a processzor chipek közötti és a külvilággal való kommunikációra, melyek drámaian kisebb késleltetéseket és nagyobb sávszélességeket biztosítanak majd a processzormagok számára -- hasonlóan az AMD 2003-an debütált, HyperTransport linkekre épülõ Direct Connect rendszerarchitektúrájához.
+
+Beckton kódnéven fejlesztés alatt áll egy monolitikus nyolcmagos felsõkategóriás Xeon MP-változat is, mely 24 megabájt méretû utolsó szintû gyorsítótárral bír majd, de a tömegpiac számára készülnek kétmagos változatok is. Nem hivatalos információk szerint a kétutas Xeonokat (Gainestown) és a csúcskategóriás asztali modelleket (Bloomfield)  követõen 2009 elsõ félévében az Intel felfuttatja a Nehalem-család termelését, és piacra kerülnek a második hullámban érkezõ fejlesztések is. Az elsõ negyedévben várható a négymagos, 8 megabájt L3-mal bíró, kétcsatornás DDR3 memóriavezérlõvel bíró Lynnfield, majd a második negyedévben érkezik a kétmagos Havendale, négy megabájt tárral.
+
+
+Szintén a második negyedévben, az év közepe felé várható a teljes mobil portfólió, a felsõkategóriás négymagos chipektõl kezdve a kétmagosokig. Az elsõ négymagos mobilchip idén év végén várható, még Penryn-alapokon. A Havendale és a kétmagos mobil Auburndale érdekessége, hogy a kétmagos processzor mellé egy Direct X 10 grafikus magot, DDR3-vezérlõt és PCI Express vezérlõt integráló chipet tokoz -- vagyis ezzel piacra kerül az elsõ általános célú és grafikus processzort integráló termék. Az AMD hasonló, Swift kódnevû megoldása 2009 második felére várható. Az Intel Nehalem-generációja a gyökeresen különbözõ infrastruktúra miatt természetesen új foglalatokat és alaplapokat igényel majd.

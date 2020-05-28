@@ -1,0 +1,12 @@
+Outlookból is elérhetõ már a Google Apps
+
+Híd két világ között
+A Google Apps Sync for Microsoft Outlook lényegében megkönnyítheti az áttérést Google Apps használatára, ugyanis segítségével a vállalatok úgy vezethetik be a Google hosztolt alkalmazáscsomagját, hogy abból az Outlookhoz ragaszkodó felhasználók nem vesznek észre semmit. A szoftver megteremti az átjárást a Google-világ és az Outlook között, a felhasználók láthatják egymás állapotát (szabad/elfoglalt) és egyszerûen szervezhetnek találkozókat, attól függetlenül, hogy a Google Calendart vagy az Outlookba épített naptárat használják.&nbsp;
+Természetesen a szinkronizáció oda-vissza mûködik, így például az utazó alkalmazottak a vállalati PC-jükön használhatják az Outlookot, útközben pedig a Google Appsen keresztül egy böngészõ segítségével bárhonnan elérhetik postafiókjukat, naptárjukat vagy a névjegyzéküket. A csomag része egy migrációs eszköz is, amivel Exchange-postafiókokat, illetve Outlookban tárolt leveleket lehet Google Appsbe migrálni.
+
+
+
+Dave Girouard, a Google vállalati szolgáltatásokért felelõs vezetõje szerint az Apps folyamatosan növeli felhasználói táborát, világszerte már 1,75 millió ügyfele van, amelyek közül több tucat szervezet ezernél is több felhasználóval rendelkezik. A Google Appsnek összesen 15 millió felhasználója van, akik 4 ezer terabájtnál is több e-mailt tárolnak a cég szerverein. Piaci becslések szerint Exchange-postafiókok világszerte mintegy 500-600 millió felhasználót szolgálnak ki.
+A Google-felhasználók boldogok
+Girouard szerint a Google Apps elõnye a versenytársakkal, akár az Exchange-dzsel szemben a rapid innováció, az alacsonyabb költség és a "boldogabb felhasználók". Míg a Google szinte havonta vezet be új szolgáltatásokat és képességeket a hosztolt alkalmazáscsomagjában (legutóbb például az Office Open XML dokumentumok támogatását), addig a Microsoft-termékei esetében két-három évente érkezik csak új generáció. Girouard elmondta, 2008-ban 68 újdonság jelent meg a Google Appsban, idén pedig már 49. "A Google Apps hétrõl hére jobb lesz." 
+Az árelõny bizonyítására pedig a Forrester számait idézte, amelyek szerint az Apps harmadannyiba kerül mint a hoszolt Exchange."Azok az emberek, akik régi rendszerekrõl Google-re váltottak, elégedettek" -- mondta Girouard. A Google Apps Sync for Microsoft Outlook a Microsoft szoftvereit kedvelõket is ugyanilyen boldoggá teheti.

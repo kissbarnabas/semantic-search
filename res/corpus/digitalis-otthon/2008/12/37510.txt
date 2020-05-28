@@ -1,0 +1,14 @@
+A Sharp befejezi Linux-alapú tenyérgépeinek gyártását
+
+Nem forgalmazza tovább Linux operációs rendszert futtató Zaurus tenyérgép-termékcsaládját a Sharp. Az 1993 óta sikeresnek mondható Zaurus sorozat legutolsó tagja 2006-ban lépett színre, azóta minden csendes, frissítés a mai napig nem történt.
+
+
+
+A Sharp kihúzta termékeit tartalmazó listáról Zaurus tenyérgépeit, melyek leginkább annak köszönhetik ismertségüket a világ ezen oldalán, hogy Linux operációs rendszert futattak. Az elsõ linuxos gép a Zaurus SL-5000D volt, mely 2001 novemberében lépett színre, az utolsó mohikán a 2006-ban megjelent SL-C3200 volt, azóta nem készült újabb Zaurus.
+
+
+
+A Japánban forgalmazott gépek közül több modell is eljutott más piacokra, így hazánkban is fellelhetõ ezek közül egy-két példány, igazi sikereket azonban csak helyben, a szigetországban ért el. A legutóbbi modell, az 124x87x25 milliméteres SL-C3200 2006-ban mutatkozott be, benne 412 megahertzes PXA270 Intel processzor teljesített szolgálatot, 64 megabájt memóriával karöltve, volt benne Wi-Fi- és Bluetooth-adapter is.
+
+
+A 6 gigabájtnyi háttértárral és SD-kártyahellyel szerelt SL-C3200 érintésérzékeny kijelzõje VGA felbontású, a 640x480 képpontján Lineo uLinux munkaasztala jelent meg. Ez a gép utolsó modellként mostanáig volt elérhetõ, innentõl új életet azonban csak a gyûjtõk kezében élhet.

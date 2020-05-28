@@ -1,0 +1,12 @@
+Már a Fujitsu Siemensnél is kaphatók Solarissal telepített x86 szerverek
+
+A Sun Microsystems megállapodást írt alá a Fujitu Siemensszel, amelynek értelmében az utóbbi cég egyes x86-os szervereit is lehet Solaris operációs rendszerrel rendelni. A Dell és az IBM után a Fujitsu Siemens a harmadik nagy szervergyártó, amely Solaris-viszonteladóvá vált ezzel, a nagyok közül egyedül a HP hiányzik a sorból. A sors furcsa fintora, hogy a Sun statisztikái szerint a legtöbb Solarist futtató x86-szerver épp HP ProLiant.
+
+ 
+
+A Solaris 10 már közel ezer különféle konfigurációjú x86-os rendszeren minõsített, az alkalmazások száma pedig meghaladja a 4 ezret. A most megkötött megállapodást lehetõvé teszi a Fujitsu Siemens ügyfelei számára, hogy Solarissal elõre telepített x86-os Premiergy gépeket rendeljenek, és kapcsolódó támogatási szolgáltatásokat vegyenek igénybe. A két cég emellett együttmûködik azon, hogy a Solarist futtató Primergy szerverek még nagyobb támogatást kapjanak a hardver- és szoftvergyártók oldaláról. 
+
+
+ A Fujitsu Siemens SPARC-alapú Primepower szerverein már régóta elsõdleges operációs rendszer a Solaris, így a vállalatnak komoly tapasztalata van az üzemeltetés és támogatás terén, amelyet most az x86-os gépekre is kiterjeszt. Jens-Peter Seick, a Fujitsu Siemens nagyvállalati szervereiért felelõs EMEA régiós vezetõ szerint a megállapodás megkönnyíti a Solarist használó ügyfelek dolgát, ugyanis mostantól a szerverek mellett az operációs rendszert és a támogatási szolgáltatásokat is közvetlenül a Fujitsu Siemenstõl vásárolhatják meg.
+
+A Sun májusban adta ki a Solaris 10 legutolsó frissítõcsomagját, amely számos olyan újdonságot tartalmaz, amelyeknek az x86-os felhasználók örülhetnek. A frissítés után a Solaris 10 már ki tudja használni a Pentium III mobil változatában bevezetett, de ma már az Intel asztali és szerverprocesszoraiban is jelen levõ SpeedStep, illetve Demand Based Switching energiatakarékos technológiát. Szintén a Solarist futtató x86-os szerverek nagyobb energiahatékonyságát célozó újítás az SSE3 MONITOR és MWAIT utasításainak támogatása.

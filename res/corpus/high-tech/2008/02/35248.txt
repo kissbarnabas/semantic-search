@@ -1,0 +1,12 @@
+Ötszörösére gyorsítja a NAND flash chipeket az Intel és a Micron
+
+Az eddigieknél ötször gyorsabb NAND flash memóriát fejlesztett ki az Intel és a Micron, a chipeket elsõként a két cég által 2005-ben alapított  vegyesvállalat, az IM Flash gyártja majd.
+
+
+
+A NAND típusú memóriák leginkább a digitális kamerák és MP3-lejátszók terjedésével váltak rendkívül népszerûvé, de az okostelefonokba is ilyet építenek a felhasználói programok, adatok, zenék, képek tárolására. NAND flash chipek alkotják a pendrive-okat, valamint az SSD meghajtókat is. A NAND chipek elsõsorban írási sebességben jeleskednek, és azonos kapacitás esetén lényegesen olcsóbbak a NOR memóriáknál. A NOR memóriachipekkel nagy olvasási sebesség érhetõ el, ezek a chipek elsõsorban mobiltelefonokban terjedtek el.
+
+
+ Az Intel és a Micron állítása szerint az új típusú NAND memóriából az eddigi 40 helyett akár másodpercenkénti 200 megabájtos sebességgel olvashatók az adatok, az írási sebesség pedig 20 helyett 100 megabájt lehet másodpercenként, amelyet az ONFI 2.0 (Open NAND Flash Interface) iparági szabványnak megfelelõ felület, a korábbiaknál magasabb órajel és az új architektúra tesz lehetõvé.
+
+Könnyû belátni, hogy a korábbiaknál lényegesen gyorsabb flash chipek milyen területeken lehetnek hasznosak. A használatukkal még gyorsabb SSD-k és hibrid merevlemezek építhetõk, vagy akár olyan, memóriakártyára rögzítõ videokamerák, amelyek nagyfelbontású képet rögzítenek. A nagyobb sebességû flash memória alkalmazásával a hamarosan megjelenõ USB3.0 felületû adattárolók is gyorsabbak lehetnek, ugyanis ez az interfész a korábbinál tízszer gyorsabb, 4,8 GBps adatátvitelt tesz lehetõvé. Ekkora sebesség mellett már a "régi" flash chipek sebessége szûk keresztmetszet lenne.

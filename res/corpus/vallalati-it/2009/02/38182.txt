@@ -1,0 +1,12 @@
+Távoli kódfuttatást lehetõvé tevõ sérülékenységre bukkantak az Excelben
+
+Kritikus sebezhetõséget találtak az Excelben, amelyet máris kihasználnak a bûnözõk. A Symantec Security Response csapata egyelõre csak Ázsiában észlelt ilyen fertõzéseket, óvatosságra intõ jel azonban, hogy a célzott támadások pénzintézetek, illetve kormányzati szervek ellen irányultak.
+
+
+
+Preparált Excel-fájlokkal a támadók saját kódjukat juttathatják be az áldozat számítógépére, innentõl pedig lényegében szabad számukra a vásár, adatokat lophatnak vagy törölhetnek, további kártevõket tölthetnek le, illetve a gépet más támadások indítására vagy spamküldésre használhatják. A Symantec vizsgálatai kiderítették, hogy a vadon terjedõ kártevõ ("Trojan.Mdropper.AC") az Excel 2007-es verzióját képes megfertõzni, a korábbi verziókon nem mûködik, ugyanakkor a sebezhetõség ezekben a változatokban is megvan, mint ahogy a Mac OS-en futó verziókban is.
+
+
+ A Microsoft biztonsági értesítésében elismerte a hibát, ugyanakkor igyekezett kisebbíteni annak jelentõségét. A redmondiak szerint eddig csak kevés elszigetelt támadásról van szó, de természetesen már dolgoznak a javításon, amelyet a megfelelõ tesztelés után elérhetõvé tesznek, valószínûleg a márciusi patchkedden. A vállalat addig is azt tanácsolja, senki se nyisson meg ellenõrizhetetlen forrásból származó Excel-állományokat. 
+
+Redmond utoljára tavaly októberben adott ki hibajavítást az Excelhez, akkor szintén fájlformátumokkal kapcsolatos sebezhetõséget kellett befoltozni a Windowson és Mac OS-en futó változatokban.

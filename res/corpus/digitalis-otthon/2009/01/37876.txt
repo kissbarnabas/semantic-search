@@ -1,0 +1,12 @@
+Kompaktabb, könnyebb és olcsóbb netbookokat tesz lehetõvé a következõ generációs Atom
+
+[Digitimes/HWSW] Az Intel tavaly kezdett el beszélni az Atom termékcsalád következõ generációjáról, amelynek megjelenését 2009 második felére várhatjuk. Nem az új mikroarchitektúra által hozott esetleges változások a legérdekesebbek azonban, hanem fokozott integráció, ami jelentõsen lecsökkentheti a netbook-alaplapok helyigényét és gyártási költségét.
+
+
+
+A Pineview kódnéven ismert fejlesztés már a MID-ekre célzott Lincroft mikroarchitektúrára épít, amely a jelenlegi Atomok lelkét adó Silverthorne továbbfejlesztése. A továbbra is 45 nanométeren készülõ chip érdekessége azonban az integrált DDR2-memóriavezérlõ és grafikus mag. Igaz, ennek mikéntje egyelõre nem publikus, azonban valószínûsíthetõ, hogy egy rendszerchiprõl, vagyis egyetlen szilíciumról van szó. A grafikus mag a Digitimes értesülései szerint egy GMA950 architektúrát takar, órajele azonban 166 helyett 200 megahertz lesz. Az Intel ígérete szerint a Pineview maximális órajele meghaladja a jelenlegi Atomokét.
+
+
+A Pineview netbookok számára egy processzormagos (Pineview-M) változatban kerül piacra, míg a kétmagosak a nettopokat célozzák, ahogyan jelenleg is. A Pine Trail-M kódnéven ismert netbook platform által igényelt alaplapi terület akár 60 százalékkal csökkenthetõ a Digitimes gyártói értesülései alapján, vagyis a jelenlegi Atom N270 és 945GC chipset kettõs által lekötött 2174 négyzetmilliméter helyett beéri 773 négyzetmilliméterrel is, miközben hatrétegû nyomtatott áramkör helyett mindössze négyrétegût igényel, állítja ipari forrásokra hivatkozva a Digitimes. Ez jelentõsen csökkentheti a költségeket, a méreteket és a tömeget.
+
+Nemcsak az alaplap költsége lesz alacsonyabb, de az Intel ígéretei alapján a Pine Trail-M ára is a jelenlegi platform alatt alakul majd -- drámaian olcsóbb netbookokra azonban felesleges számítani emiatt, a netbookok költségeinek nagyobb részét a perifériák teszik ki, mint a merevlemez, LCD-panel, akkumulátor. A tajvani napilap ismeretei szerint a Pineview család TDP-jének maximuma 8 wattról 7 wattra csökken, a tipikus fogyasztása pedig 2 watt lesz, a memóriavezérlõ és grafikus mag integrációjával pedig rengeteget javul az energiahatékonyság, vagyis növekedhet az akkumulátoros üzemidõ. Az Intel mintegy 40 millió Atom processzort tervez idén eladni.

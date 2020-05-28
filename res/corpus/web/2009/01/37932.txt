@@ -1,0 +1,61 @@
+Cloud computing trendek 2009-ben
+
+[InformationWeek/HWSW] 2008 a cloud computing megérkezésének éve volt, a folyamat pedig idén továbbgyûrûzik, de még messze nem tetõzik. Az Amazon, EMC/VMWare, IBM, Google, Microsoft és még tucatnyi egyéb szereplõ mind ott tolong a rajtvonalnál, de ennek ellenére a forradalom nem fog gyorsan lezajlani. Mi várható a "felhõben" idén?
+
+
+Az InformationWeek összegyûjtötte a véleménye szerint legfontosabb eseményeket és folyamatokat, melyek meghatározzák a 2009-es évet a cloud computing területén. A gazdasági válság érdekes hatással lehet erre a piacra, hiszen a nagyon innovatív dolgokat kicsit ijesztõ egy ennyire éles helyzetben kipróbálni, viszont az IT-szektor szereplõi közül mégis sokan dönthetnek úgy, hogy cloudszolgáltatásokra váltanak "többet kevesebbért" jelszóval. A szakértõk egy része szerint a felhõsdi tovatûnik, míg mások ezt vizionálják az informatika cégéreként a következõ idõszakra.
+
+
+
+
+
+Mi az a Cloud Computing?
+
+A cloud, azaz felhõ,  az internet metaforája, arra utalva ahogyan ábrázolni szokás a világhálót diagramokon, illetve kifejezve azt a komplexitást, amivel a modern hálózatok rendelkeznek. A cloud computing pedig az internetes felületen alapuló technológiai megoldások, melyek lényege a valós-idõben skálázhatóság, a szoftverek "szolgáltatásként" való megjelenítése, illetve a gyakorlatban eddig csak desktop verzióban elképzelhetõ alkalmazások átköltöztetése a böngészõablakba.
+
+A "Software as a Service" (SaaS), a web 2.0 és egyéb jelenleg jól csengõ technológia trendek befogadásából és a meglévõ rendszerekbe illesztésébõl összeálló egésznek a célja, hogy különösebb erõforrások és befektetések nélkül folyamatosan ki lehessen elégíteni a felhasználók igényeit. Cél, hogy eközben a lehetõ legkevesebb helyen kelljen belenyúlni a helyi, meglévõ rendszerekbe, illetve, hogy a felhasználók ne szoruljanak oktatásra.
+
+A legismertebb példa a cloud computingra talán a Google Apps, ahol a levelek, fotóalbumok és egyéb információk, tartalmak a központi szervereken tárolódnak, böngészön keresztül érhetõek el, de a funkcionalitás inkább egy asztali szoftverére emlékeztet.
+
+
+
+
+Növekedés
+
+Az InformationWeek becslése szerint a cloud computing piac 20 százalékot fog növekedni, ami jelen idõszakban pedig, amikor a vállalati szoftver, hardver piacok összeesõben vannak, kiemelkedõ eredménynek számítana. A meglepetésszámokat pedig az hozhatja, hogy az IT-szektoron belül sokan keresnek majd az új bevezetendõ alkalmazásokra olyan megoldást, amely nem beruházásigényes, és a meglévõ infrastruktúrával is jól mûködik, nem szükséges új szerverek és szoftverek beszerzésével terhelni a büdzsét.
+
+
+A Google a réspiacok királya
+
+A Google App Engine egy érdekes alternatíva a fejlesztõk számára, hogy új módon építsenek és telepítsenek webes alkalmazásokat, de feltételezhetõen mégis a startupok, webkettes cégek és egyéb KKV-k szintjén arat csak sikert. A tipikus Google App Engine felhasználók az olyan trendi webkettes terméket gyártó és fejlesztõ vállalkozások, mint a BuddyPoke, ami 3D-s avatárokban utazik vagy a webchatet és egyéb közösségi szolgáltatásokat fejlesztõ Pixverse.
+
+A Google Apps/Docs (szoftver, mint szolgáltatás) és a Google App Engine (platform, mint szolgáltatás) egyre népszerûbbé válik, ez látszott 2008-ban is, de a nagy cégek kevésbé valószínû, hogy robbantanak, s a késõbbiekben is inkább az egyedi igényeket szolgálják majd ki.
+
+
+Az üzemzavarok, kiesések gyakoribbak lesznek, de kevésbé sokkolóak
+
+Ahogyan egyre több cég jelenik meg a cloudszolgáltatások piacán, két folyamat zajlik le majd párhuzamosan. Elõször is a felhasználók számának illetve a felhasználás intenzitásának várható növekedése egyre több leállást okoz majd, másrészt viszont a felhasználók és az üzemeltetõk az elsõ hibák elhárítása után jóval felkészültebbek lesznek. Az IT-szakemberek mentési terveket készítenek majd, felkészülnek a vészhelyzetekre, hogy az õ szolgáltatásuk ne omoljon össze attól, hogy egy másikkal ez megtörtént, a felhasználók pedig rendelkeznek majd alternatívával a kiesések idejére.
+
+A felhõbe minden belefér 
+
+A nagy cégek befogadják a cloudot
+
+
+A cloud computing mindmáig a kis cégek körében volt népszerû, de a globális vállalatok és az egyéb nagy szervezetek félreteszik majd a gátlásaikat és belevágnak a cloudszolgáltatások használatába, hiszen mostmár megtehetik, megéri nekik. A vállalati szintû menedzsment eszközök, az adatintegrációs technológiák elérhetõvé váltak, és válnak majd egyre gyorsabban az év folyamán. Az elõfizetéses árazás ráadásul sokkal szimpatikusabb a cégek számára, mert jobban testreszabható, pontosan annyit kell rászánni egy feladatra, amekkora igény van a cégen belül, nem kell felesleges kapacitásokat telepíteni.
+
+A Microsoftnál még nem dördül el a startpisztoly
+
+2008 az az év volt, amikor a Microsoft lehúzta a leplet cloud computing stratégiájáról, 2009 pedig elméletileg az az év lesz, amikor el is kezdi szállítani is a megoldásokat. A szakértõk szerint viszont idén még nem kell sok mindenre számítani. A Windows Azure cloud opreációs rendszer és a hozzá kapcsolódó Windows Azure platform szolgáltatások jelenleg még fejlesztési stádiumban vannak, a Microsoft pedig még bizonytalan azzal kapcsolatban, hogy mikor is lesz indulás. Elképzelhetõ ugyan , hogy idén év végére néhány úttörõ szolgáltatás elindul, de az igazi áttörés, igazi bevezetés inkább 2010-ben valószínû.
+
+Nem kell ez otthonra 
+
+Megszaporodnak a cloud startupok
+
+A Szilícium-völgyben nehéz idõk járnak, több induló vállalkozás veszítette el lába alól a talajt. A hanyatlás a "régimódi" megoldásokban gondolkodó cégekre volt jellemzõ, míg a cloudhívõket elkerülte a válság, velük kapcsolatban inkább nõtt a bizalom. Múlt év õszén több tíz olyan vállalkozás indult útnak, melyek mindegyikében benne van a siker ígérete, ez a szám idén tovább nõhet. Noha a siker nem garantált mindenki számára, de a legbiztosabb esélyek itt vannak.
+
+
+Az IT-megoldásszállítók hibrid, közösségi-privát cloudokat hoznak majd létre, virtualizációs API-kat felhasználva (pl.: Elastra Cloud Server) a saját adatközpontjaikban. Ezek teljesen összefésülve mûködnek majd a külsõ publikus cloud rendszerekkel, a felhasználó nem fogja a különbséget észlelni, hogy az adott folyamat a belsõ hálózaton, a saját rendszerén vagy az igazi internetfelhõben zajlik-e.
+
+Nem lesz kiemelt téma az adatbiztonság
+
+Az IT szakemberek általánosságban egyre elégedettebbek azzal az adatbiztonsági szinttel, amit a cloudszolgáltatások képesek nyújtani. Sõt, egyre többen hajlanak arra az álláspontra, hogy ezek a rendszerek sokkal biztonságosabbak, mint a legtöbb belsõ vállalati megoldás, révén a "kirakatban" lévõ clouddal kapcsolatban eleve mindenki szkeptikus volt, és a fejlesztõk számára elsõdleges szempont volt ennek a kérdésnek a tisztázása, a probléma kezelése a kezdetektõl fogva. A szakértõk elégedettsége bizalmat szül, így a biztonság kérdése sem állhatja útját a cloud computing terjedésének.

@@ -1,0 +1,14 @@
+Kapható az Intel 160 gigabájtos SSD-je
+
+Az Intel megkezdte noteszgépekbe szánt, 2,5 hüvelykes, 160 gigabájtos SSD-jének szállítását, januárra pedig ugyanekkora kapacitású, 1,8 hüvelykes kivitelû változatot ígér. Ezzel az SSD-k kapacitásban felzárkóznak a legkisebb merevlemezekhez, az 1,8 hüvelykes méretorsztályban a ma kapható legnagyobb változatok 240, illetve 160 gigabájtosak.
+
+
+
+Az X18-M és X25-M az Intel saját tervezésû SATA-meghajtói, és a vállalat állítása szerint számos egyedi megoldást tartalmaznak nem csak a flash chipek, de a vezérlés szintjén is. Az X18-M és X25-M egyaránt többszintû cellaszervezésû (multi-level cell) flash memóriachipekre épül, mégis óriási teljesítményre képes, a vállalat másodpercenként 250 megabájtos olvasási, és 70 megabájtos írási sebességet ígér, aktív állapotban mindössze 0,15 wattos, készenlétben pedig 0,06 wattos fogyasztás mellett.
+
+A nagy kapacitású, mégis villámgyors SSD-k piacra dobását a Micron Technologyval közös fejlesztés tette lehetõvé. Az Intel 2005-ben a Micronnal közös vegyesvállalatba, az IM Flashbe szervezte ki a NAND flashmemóriák gyártását. Az Intel és a Micron szerint az elképesztõ sebességet az ONFI 2.0 (Open NAND Flash Interface) iparági szabványnak megfelelõ felület, a korábbiaknál magasabb órajel és az új architektúra teszi lehetõvé.
+
+
+ A noteszgépekhez SATA felületen kapcsolható X18-M és X25-M SSD-ket az augusztus végi Intel Developer Forumon jelentette be az Intel. a meghajtók 80 gigabájtos kivitelben már októberben megjelentek a piacon, a 160 gigabájtos változat pedig mostantól kapható, ezer darabos rendelés esetén 945 dolláros listaáron, a 80 gigabájtos kivitel ára 595 dollár.
+
+Október óta az Intel szerverek, tárolóeszközök számára is kínál SSD-ket, az SLC (single level cell) felépítésû, tehát nagy írási sebességet kínáló flashmemóriából álló X-25E Extreme SATA SSD szekvenciális olvasási sebessége másodpercenként 250 megabájt, írási sebessége pedig 170 megabájt. Az olvasási késleltetés 75 mikromásodperc, ami mintegy negyvenszer kisebb egy 2,5 hüvelykes, percenként 15 ezret pörgõ merevlemezének. A 32 gigabájtos Intel X-25E Extreme SATA SSD listaára 695 dollár, a 64 gigabájtos kivitel 2009 elején érkezik, egyelõre ismeretlen áron.

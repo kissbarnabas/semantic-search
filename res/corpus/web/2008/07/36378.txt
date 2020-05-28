@@ -1,0 +1,23 @@
+A böngészõk több mint harmada sebezhetõ
+
+Az internetezõknek csak kevesebb mint kétharmada használja böngészõjét a legutolsó változatra frissítve -- derül ki egy friss felmérésbõl, amelyet a Zürichi Mûszaki Egyetem, a Google és az IBM ISS készített. 
+Stefan Frei, az egyetem doktorandusz-hallgatója, a jelentés egyik készítõje szerint ez nem csak a felhasználók hibája, a szoftvergyártók nem könnyítik meg a felhasználók dolgát, már ami a patchelést illeti.
+
+
+
+A Firefox automatikus frissítése a legjobb
+
+A böngészõk egyre kedveltebb célpontjai a webes támadásoknak, és bár a szoftvergyártók rendszeresen jelentkeznek frissítésekkel, javításokkal, ezeket a felhasználók nagy része csak késõbb telepíti. A Firefox felhasználói a leginkább biztonságtudatosak, a felmérés szerint a nyílt forrású böngészõt használók 83 százaléka az éppen elérhetõ legfrissebb verzióval böngészett. A Safari esetében ez az arány 65 százalék, az Opera esetében 56 százalék, az Internet Explorernél pedig már csak 47,6 százalék, vagyis gyakorlatilag a Microsoft böngészõjét futtató gépek több mint fele sebezhetõ -- ez több mint félmilliárd gépet jelent világszerte.
+
+A Firefox kiemelkedõen jó szereplésének oka azon túl, hogy a fejlesztõk rendszerint hamar javítják a sérülékenységeket, a beépített automatikus frissítés funkció, amely értesíti a felhasználót a javítás megjelenésérõl, amelyet egyetlen kattintással letölthet és telepíthet. A felmérés szerint ennek köszönhetõen a patchek kiadását követõ harmadik napon a Firefox-felhasználók nagyrésze már védett.
+
+Az Opera is figyelmezteti a felhasználókat, ha frissebb verzió jelenik meg a szoftverbõl, azonban a felhasználóknak ezután maguknak kell felkeresniük az Opera weboldalát és letölteni az új változatot, amit aztán ugyanúgy telepítenek, mintha most elõször kezdenék használni a böngészõt. A Safari egy külsõ frissítõrutin segítségével ellenõrzi a javítások érkezését. Az Internet Explorer frissítésével szemben a jelentés készítõinek az volt a legfõbb kifogása, hogy a Microsoft viszonylag ritkán, havonta egyszer ad ki szoftvereihez javításokat, így a felhasználók gyakran sokáig védtelenek az úk sebezhetõségekkel szemben. 
+
+
+ Az elemzés szerint a Firefox automatikus frissítõszolgáltatása a legkényelmesebb és legjobb, ráadásul a böngészõ nem csak saját magát, hanem a telepített plugineket is ellenõrzi, van-e belõlük frissebb, javított verzió. A tanulmány szerzõi szerint a Firefox frissítõrutinja követendõ példaként áll a többi szoftvergyártó elõtt.
+
+Lejárt a szavatossági idõ!
+
+Könnyû lenne az internetezõket hibáztatni azért, mert nem frissítik a böngészõt, azonban a jelentés rámutat, hogy a felhasználók számára ránézésre egyáltalán nem látszik, hogy a szoftverük mennyire naprakész. A szerzõk szerint be kellene vezetni az élelmiszeriparban már elterjedt és mindenki által ismert "szavatossági idõt", és a felhasználó számára jól látható helyen figyelmeztetést kellene megjelentetni, ha a böngészõ már "lejárt", és hogy a hány frissítés jelent meg azóta, hogy a legutóbbit telepítették. Ezt egyébként nem csak a böngészõkbe lehetne beépíteni Frei szerint, hanem akár népszerû weboldalak is alkalmazhatnák.
+
+A jelentés készítõi úgy látják, a böngészõk frissítése mellett sokkal komolyabb problémát jelentenek a pluginek, amelyekbõl egy átlagfelhasználó is legalább fél tucatot használ: az Adobe Flash, a Java, a Windows Media Player, az Apple QuickTime, az Adobe Axrobat vagy a RealOne Player a legtöbb gépen megtalálható. A pluginek ráadásul eltérõ gyártóktól származnak, és eltérõ a frissítési ciklusuk is. "A böngészõ olyan mint a kenyér, és ha a kenyér jó, de a sonka rajta rohadt, az nagy gond" -- írja Frei arra utalva, hogy hiába friss a böngészõ, ha a pluginek valamelyike elavult, sebezhetõ.

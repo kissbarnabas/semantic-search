@@ -1,0 +1,16 @@
+Az STEC feléleszti az 1 hüvelykes CF-meghajtókat
+
+A kaliforniai STEC bemutatta egy hüvelykes CompactFlash kártyaformátumba foglalt memóriás meghajtóit, amelyek 8 és 32 gigabájt közötti kapacitást kínálnak. A kisméretû tárolók a nagyobb megoldásokkal is lépést tarthatnak, 90 megabájtos írási és 55 megabájtos olvasási sebességre lesznek képesek másodpercenként, ráadásul áruk sem emelkedik majd az egekig.
+
+
+
+Az STEC ezen a héten jelentette be, hogy termékei között megtalálhatóak lesznek az egy hüvelykes fizikai mérettel megáldott MACH4 SSD meghajtók, melyeket a gyártó 8-tól 32 gigabájtos méretig kínál majd. A parányi tárolók áráról nem sokat lehet még tudni, de az STEC annyit elárult, hogy a 8 gigabájtos változat 45 dollárba kerül majd az OEM-gyártóknak. Az STEC a parányi meghajtókat hordozható gépekbe, ezek közül leginkább ultrahordozható számítógépekben (UMPC, MID), navigációs eszközökben, vagy autós felhasználási területeken tudja elképzelni.
+
+A MATCH4 meghajtók széles körben támogatják a csatlakoztatási módokat, a könnyebb illeszthetõség kedvéért natívan képesek a SATA és a párhuzamos ATA interfészeken keresztül kapcsolódni. A 8 és 16 gigabájtos változatok SLC Single Level Cell) a 32 gigabájtos pedig MLC (Multi Level Cell) felépítésû.
+
+
+
+
+"Az egy hüvelykes merevlemez-kategória tényleg halott, de mi kitaláltuk, hogy lehelljünk új életet ebbe a méretbe" -- mondta el a termékkel kapcsolatban az STEC-tõl Pat Wilkinson, majd hozzátette, 2009-re a maximális tárolási méretet 64 gigabájtnyira emelik. Az AES, hardveres titkosítást is kínáló MATCH4 tárolók elõször a második negyedévtõl kerülhetnek a különféle eszközökbe.
+
+Az STEC-rõl manapság sokat hallani, a Seagate a hetekben szabadalmi hadjárata elsõ húzásaként perbe fogta a flash- és DRAM-chipekre alapozó, magas megbízhatóságú tárolóegységekre szakosodott gyártót. Az STEC a szabadalmi fegyverek tesztalanyának tekinthetõ, melynek perlése jóval alacsonyabb kockázatú, mint egy a kifogyhatatlan pénzügyi erõforrásokkal és hatalmas szabadalmi portfólióval rendelkezõ Intel, Samsung vagy Toshiba megtámadása.

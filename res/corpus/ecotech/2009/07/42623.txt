@@ -1,0 +1,16 @@
+A PC-piac erõsödését jelzik elõre a grafikus chipek eladásai
+
+Erõs növekedés
+Az elsõ negyedévrõl a másodikra a korábbi 7 évben általában 4-5 százalékkal visszaesett az eladott grafikus chipek száma, de még a legjobb esetben is mindössze 1-2 százalékos növekedés volt tapasztalható, most azonban a forgalom több mint 31 százalékos megugrását regisztrálta a Jon Peddie Research. A második negyedév során több mint 98,3 millió grafikus chipet adtak el a gyártók, ez nem csak az elsõ negyedévhez képest jelentõs növekedés, hanem a tavalyi második negyedévnél is erõsebb, amikor 94 millió chipet szállítottak le a cégek.
+Miután a válság kitörését követõen a tavalyi harmadik és negyedik negyedévben padlóra került a grafikus piac, mindenki az elsõ negyedévre várta a fellendülést, ami nem jött, a második negyedévben azonban végre igen. Az elemzõcég szerint mindez annak a jele, hogy az iskolakezdési szezonra erõs forgalmat várnak a PC-gyártók, amelyek most feltankoltak a termékeikhez szükséges grafikus processzorokból.
+Örülhetnek a nagyok
+A fellendülésbõl az összes nagy grafikuschip-gyártó profitált, a kisebb szereplõk (Matrox, SiS, VIA/S3) pedig tovább marginalizálódtak a piacon. A nagy nyertes egyértelmûen az AMD, amely az elsõ negyedévhez képest 41 százalékkal több, összesen 18 millió grafikus chipet szállított le. A chipsetbe integrált videovezérlõi révén piacvezetõ Intel 50 milliónál is több grafikus chipet adott el, ez az elsõ negyedévhez képest 35 százalékos erõsödést jelent. A három nagy gyártó közül az NVIDIA teljesített a legrosszabbul, de a 23 százalékos növekedés miatt azért nekik sem lehet okuk panaszra.
+
+A kis gyártók egyre inkább a piac perifériájára szorulnak, a Jon Peddie Research második negyedéves adatai szerint a Matrox, a SiS és a VIA/S3 részesedése 0,1 százalék, 0,4 százalék és 0,7 százalék volt mindössze. Mindhárom cég eladásai és így részesedése is meredeken csökkent mind az elsõ negyedévvel, mint a tavalyi második negyedévvel összevetve.
+Végre fellendül a PC-piac?
+Az elemzõcég úgy látja, a második félévben jelentõsen felgyorsulnak a PC-eladások és a grafikuschip-piac is, ahogy jön az iskolakezdési szezon, majd kitör a karácsonyi bevásárlási láz, ráadásul a GPU-eladásoknak kedvez a Windows 7 és az Apple Snow Leopard operációs rendszer megjelenése is. Emellett a Jon Peddie Research úgy látja, az AMD és az NVIDIA 40 nanométeres csíkszélességgel gyártott, kedvezõ áron piacra kerülõ GPU-is új lökést adhatnak az eladásoknak. Mindazonáltal -- figyelmeztet az elemzõcég -- 2010-ben várható legkorábban, hogy az eladások visszatérnek a válság elõtti szintre.
+Az IDC és a Gartner az elmúlt héten hozta nyilvánosságra második negyedéves PC-piaci elemzését, amelyek szerint az eladások mindössze 5-6 százalékkal csökkentek 2008 azonos idõszakához képest, a visszaesés jóval kisebb volt a várakozásoknál. Az IDC és a Gartner is úgy látja, az iskolakezdési szezonnak és az ünnepeknek köszönhetõen az év második felében már növekedhetnek is a PC-eladások, bár a recesszió miatt most inkább az olcsóbb gépek iránt erõs a kereslet.	     
+                  
+                  
+                  
+                   

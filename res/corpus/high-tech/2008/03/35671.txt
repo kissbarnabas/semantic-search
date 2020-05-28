@@ -1,0 +1,24 @@
+Két perc alatt törte fel a Mac OS-t a PWN 2 OWN hackerverseny elsõ próbálkozója
+
+Kettõ perc sem kellett a CanSecWest konferencián rendezett hackerverseny elsõ próbálkozójának ahhoz, hogy feltörje és ezzel megnyerje a díjként felajánlott Apple MacBook Air notebookot, de a Windows Vistát futtató Fujitsu U810 sem maradt érintetlenül, egyedül az Ubuntu Linux állta ki a próbát.
+
+
+
+A MacBook Airt törték fel elõször 
+
+A múlt heti CanSecWest biztonsági konferencián a TippingPoint biztonsági cég ismét megrendezte a PWN 2 OWN versenyt, amelynek során a jelentkezõknek eddig még nem dokumentált sebezhetõségek kihasználásával kellett átvenniük az uralmat a kiállított notebookok felett. Az a hacker, aki elsõként sikerrel járt, hazavihette a notebookot, és némi készpénzzel is gazdagabb lett -- az elsõként sikerrel járó versenyzõnek 10 ezer dollár ütötte a markát.
+
+ Eleinte a hackerek csak távolról, a hálózaton keresztül próbálkozhattak, azonban egyikük sem járt sikerrel -- ami igaz az igaz, ma már szinte lehetetlen egy rendszeresen frissített asztali operációs rendszert "csak úgy" megtörni, a legtöbb sebezhetõség kihasználásához szükség van felhasználói tevékenységre is. A második nap, csütörtökön már meg lehetett nyitni a gépeken weboldalakat vagy dokumentumokat, ez lett az Apple MacBook Air veszte, amelyet egy weboldalra feltöltött kártékony kóddal két perc alatt tört fel Charles Miller független biztonsági szakértõ.
+
+
+ A korábban a National Security Agencynél dolgozó Miller volt csütörtökön az elsõ próbálkozó, és elmondása szerint azért pont a Mac OS X-zel tett kísérletet, mert a három operációs rendszer közül azt tûnt a legegyszerûbbnek feltörni. Amikor hírét vette a PWN 2 OWN versenynek, elhatározta, hogy benevez: pár nap alatt talált egy sebezhetõséget a nemrég megjelent Safari 3.1-ben, amelyre aztán írt egy kódot. Miller egyébként jól ismert Apple-hacker, tavaly elsõként törte fel az iPhone-t. 
+
+Jobb oldalon Charles Miller (Fotó: TippingPoint)
+
+Hogy Miller pontosan miként jutott be a rendszerbe, azt egyelõre nem tudni, ugyanis a verseny szervezõi titoktartási szerzõdést írattak vele alá, és a sebezhetõséget egybõl elküldték az Apple-nek, amely már állítólag dolgozik is a javításon. A hackerek csak a gépre elõre telepített szoftverek sérülékenységét használhatták ki, Miller alighanem a Safari böngészõben levõ biztonsági résen keresztül juttatta el saját kódját a PC-re, így megszerezte a hozzáférést a gépen tárolt összes adathoz, és el tudta olvasni annak a szöveges fájlnak a tartalmát, amely a gyõztesnek szánt gratuláló üzenetet tartalmazta.
+
+Bár az Apple operációs rendszerét sokan biztonságosabbnak gondolják a Windowsnál, a PWN 2 OWN verseny eredménye cáfolja ezt. Tavaly is az Apple MacBook esett elõször a hackerek áldozatául, akkor egy QuickTime-sebezhetõséget kihasználva vette át az irányítást a gép felett Dino Dai Zovi. Dai Zovi idén nem indult a versenyen, elmondása szerint "ideje volt, hogy valaki más is nyerjen". Intõ jel lehet a Mac-felhasználók számára az is, hogy az OS X elõzõ frissítése összesen 90 (kilencven!) sebezhetõséget javított, a korábbiban pedig 41 sérülékenységet foltoztak be, érdemes tehát résen lenni.
+
+A Flash Playeren keresztül törték fel a Vistát
+
+Pénteken a Windows Vista Ultimate SP1-et futtató Fujitsu U810 noteszt is sikerült feltörnie egy hackernek, aki az Adobe Flash Playerben található sérülékenységet kihasználva vette át az irányítást -- ekkorra már tetszõleges szoftvert fel lehetett telepíteni a gépekre, és azok sebezhetõségeit is ki lehetett használni. Shane Macaulay, Security Objectives biztonsági szakértõje az exkluzív kivitelû notebook mellett további 5 ezer dollárral gazdagodott és szintén aláírt egy titoktartási nyilatkozatot, így addig nem nyilatkozik a betörésrõl, amíg az Adobe nem javítja a Flash Playerben ezt a sebezhetõséget. A három gép közül így mindössze egy maradt állva a versenyben, egy Ubuntu Linux 7.10-et futtató Sony Vaio VGN-TZ37CN.

@@ -1,0 +1,116 @@
+Nagyot lépett elõre a VMware, itt a vSphere 4
+
+Ahogyan az VMware Infrastructure is, a vShpere is virtualizációs
+szoftvereszközöket csomagol össze, igénytõl függõen többféle
+összeállítással és árazással, és egyenes frissítési utat tesz lehetõvé
+az Infrastructure-felhasználók számára. A fejlõdés alapja természetesen
+a hypervisor, vagyis az ESX. Nem jelent meg az ügyfelek részérõl talán
+leginkább várt funkció, a fizikai gépek határainak elmosása, vagyis
+hogy egyetlen hypervisor képes legyen több szervert összefogni, és a
+virtuális gépek akár át is nyúlhassanak egyik géprõl a másikra -- és
+ennek bevezetésérõl továbbra sincs publikus információ. Ennek ellenére
+az új ESX 4.0 nagyot lépett elõ skálázhatóságban és teljesítményben
+egyaránt.
+
+Az új VMware hypervisor immár kétszer annyi, 64 processzormagot
+képes összefogni, és fizikai gépenként legalább 256 gigabájt memóriát
+lekezelni, míg a legnagyobb vSphere csomagban nincs licenccel limitálva
+a fizikai memóriamennyiség, az akár 1 terabájt is lehet. A virtuális
+gépek (VM) immár akár 8 logikai processzort is láthatnak 255 gigabájt
+memória társaságában, akár 10 virtuális hálózati adapterrel -- sajnos a
+8-utas VM-eket csak az Enterprise Plus licenc engedélyezi, a többi
+csomagban 4 logikai processzorra korlátozott a VM-ek skálázódása. 
+
+A skálázódás azonban nem minden, nagyban javult a VM-ek
+teljesítménye is. A VMware állítása szerint a hálózati
+áteresztõképesség, ahogyan a lemezmûveleti csúcssebesség is
+háromszorosára ugrott, mindez pedig azt eredményezi, hogy drasztikusan
+javult a tranzakcionális alkalmazások alatt mutatott teljesítmény, ami
+a virtualizált környezetek egyik gyenge pontja volt a múltban a lassú
+I/O okán. Ez az ellenérv többé nem állja meg a helyét, a VMware saját
+mérései alapján Oracle adatbázist használva az OLTP-teljesítmény
+sztenderd benchmarkjának számító TPC-C és TPC-E tesztekben a natív
+teljesítmény 85-90 százalékát érték el virtuális gépeken, az új ESX 4.0
+hypervisort használva.
+
+A vSphere 4 bevezeti a vStorage Thin Provisioninget a tárolók
+kezelésében. Ez annyit tesz, hogy a korábbi gyakorlattal szemben, mikor
+a VM-ek számára rendelkezésre bocsátott háttértár területét lekötötték
+az adott virtuális gép részére, addig az új megközelítésben egyfajta
+kvótarendszert vezetnek be, ahol az egyes VM-ek a hozzájuk rendelt
+területbõl valójában csak annyit kötnek le, amennyire valójában
+szükségük van, míg a fennmaradó kerettel szabadon lehet gazdálkodni.
+
+Egyszerûbb felügyelet, elszámoltathatóság
+
+Bár itthon az IT-beszállítók összes zöldkampányos erõfeszítése
+ellenére sem nyert nagy teret az energiatakarékos gondolkodásmód,
+aminek legnagyobb részt az az oka, hogy nem az IT-részleg számlájára
+kerülnek az energiaköltségek, a fontos újítások közé tartozik a VMware
+Distributed Power Management megjelenése. Ez a VMotion képességet
+bevetve automatizálja a VM-ek lehetõ legkevesebb fizikai szerverre
+történõ migrálását, figyelembe véve az SLA-kat, majd az üresen maradt
+és feleslegessé vált gépeket lekapcsolja, ezzel spórolva az áramszámlán
+és a gépek üzemidejével.
+
+A vSphere a skálázódás mellett megújult vCenter menedzsmentfelületet
+is hozott magával, mely megkönnyíti a rendszergazdák életét -- tudtuk
+meg Lovas Balázstól, a DNS Hungary VMware termékmenedzserétõl. Számos
+funkció elérhetõvé vált a grafikus felületen, továbbá lehetõség nyílik
+például az ESX példányok központi bekonfigurálására. Lovas elmondta, az
+új vSphere 4 vCenterrel lehetséges az erõforrásokért közvetlenül
+számlázni külsõ szoftverek segítségével, így gyakorlatilag azonnal
+kimutatható, hogy a cég egy részlegének, vagy egy ügyfél informatikai
+kiszolgálása pontosan mennyibe is került -- ezt a legtöbb cégnél
+jelenleg sûrû köd fedi. Ilyen kiegészítõvel a T-Systems is rendelkezik
+többek közt, tette hozzá Lovas.
+
+Hibatûrés, de csak módjával
+
+A termékmenedzser szerint a jobb skálázódás, teljesítmény,
+hatékonyabb mûködés és üzemeltetés mellett a jelenlegi, tipikusan
+közép- és nagyvállalati ügyfélkör számára a legnagyobb vonzerõt a
+hibatûrés megjelenésének lehetõsége jelenti, mellyel nem csak
+egyszerûen magas rendelkezésre állású, hanem praktikusan leállás
+nélküli IT-architektúra alakítható ki. A VMware Fault Tolerance (FT)
+úgynevezett lockstep technikával (vLockstep Technology) operál, vagyis
+minden adatot, és állapotot kétszer tárol el, ahogyan a
+processzormûveleteket szinkronban, párhuzamosan hajtja végre.
+
+A teljes hibatûrés azonban még gyerekcipõben jár a VMware-nél, a
+képesség csak korlátozottan használható, és nem kínálja a hardveresen
+implementált hibatûrési megoldások, mint például a mainframe-ek védelmi
+szintjét, melyek a rendelkezésre álláson túlmutatva az adatkorrupciót
+is igyekeznek kiszûrni. Egyértelmû hardveres meghibásodás esetén a
+másodlagos VM veszi át a primer szerepét az elõzõleg ismert helyes
+állapottól, beleértve a hálózati forgalmat és lemezmûveleteket is. Ezt
+követõen automatikus létrejön egy új másodlagos, "fault tolerant VM"
+is, mivel a régi elsõdlegessé vált. A párosított FT VM-ek természetesen
+különbözõ fizikai szervereken mûködnek. 
+
+Nem világos azonban, a processzorban keletkezett és átcsúszott
+adatkorrupciós hiba esetén mi történik, a rendszer detektálja-e
+egyáltalán a különbözõséget, ha igen, képes-e azt elhárítani a korábbi
+állapot visszaállításával és az utasítások ismételt végrehajtásával és
+összevetésével, ahogyan a mainframe-ek és egyes felsõkategóriás
+szerverprocesszorok teszik. A kétutas lockstep ráadásul eredendõen
+alkalmatlan a teljes hibatûrésre, ahhoz legalább háromutas szavazásos
+architektúrára van szükség, hogy gyorsan meg lehessen különböztetni a
+hibát a helyes állapottól.
+
+ Úgy tûnik, a VMware hibatûrõ megoldása tehát a hardveres
+rendelkezésre állást maximalizálja, a rendszer megbízhatóságát, vagyis
+a feldolgozás eredményének helyességét azonban nem képes biztosítani,
+ahogyan nem véd meg a determinisztikus események hatására történõ
+szoftveres összeomlástól sem, hiszen ugyanabban az állapotból halad
+elõre ugyanazon utasításszekvencián. A kettõzött állapotból kifelé,
+felhasználó oldalról és más szerverek semmit nem látnak.
+
+ Az FT VM-ek ráadásul egy virtuális processzorra vannak korlátozva,
+ráadásul legrosszabb esetben 5-20 százalékos teljesítménycsökkenéssel
+is jár a protekció, így teljesítményigényes SMP-alkalmazásokhoz nem
+megfelelõ. A VMware HA fürtökön aktiválható FT az Intel Xeon 31xx,
+33xx, 52xx, 54xx, 55xx, 74xx és az AMD Opteron 13xx,23xx, 83xx sorozatú
+processzorait követeli meg -- az FT párhuzamosítási korlátja miatt a
+legnagyobb egyszálú teljesítménnyel rendelkezõt érdemes erre a
+feladatra választani.

@@ -1,0 +1,53 @@
+Acrobat.com: irodai programcsomag a weben
+
+Egy évesen felnõtté vált az Acrobat.com
+
+Éppen egy évvel az indulás után már élesben is mûködik az Acrobat.com. Az Adobe idén sorozatosan durrantja el nagy bejelentéseit, s mostanra már egy elég meggyõzõ, professzionális irodai alkalmazáscsomag várja a vállalati felhasználókat. A béta fázis levedlése után, mostantól elérhetõek az üzleti elõfizetések, illetve a múlt hónapban megjelent prezentációkészítõn felül egy fejlett táblázatkezelõ is bemutatkozott. 
+
+
+ 
+
+Az Adobe dolgos évet tudhat maga mögött, hisz az Acrobat.com 2008-as bejelentése óta gyorsan és agresszíven fejlesztettek, aminek most egy igen robusztus rendszer lett az eredménye. A teljes felület természetesen Adobe Flash alapú, de ezen felül az Adobe közös munka támogatására irányuló fejlesztései is látványosak. Az Acrobat.com felhozatala jelenleg öt alkalmazásból áll.
+
+Buzzword: minden benne van
+
+Az elsõ a 2007-ben megvásárolt Buzzword szövegszerkesztõ, ami egy teljes értékû, közös munkát támogató dokumentumkezelõ és szövegszerkesztõ rendszer. A dizájn sötétszürke/fekete alapokon nyugszik, s kihasználva a Flash lehetõségeit színes-szagos látványelemekkel dúsul az egyébként minimalista, csak a legfontosabb és hasznos funkciókat felvonultató menü. Szerencsére szerkesztés közben nem legördülõ ablakokkal kell bajlódni, úgy tûnik ez kezd kimenni a divatból, hanem a Microsoft szalagmenüjéhez hasonló módon egy fõ ikonra kattintva kapjuk az adott kategória lehetõségeit, mint a betû, bekezdés, listák, táblázatok, képek, megjegyzések, illetve a fájlböngészõ.
+
+
+ 
+
+Az ablakok átváltása, a menük beúszása, illetve valójában a szövegkijelölés, megjelenítés jól néz ki, egyszerûen szép és mûködik is. Az egyetlen probléma, hogy nagyon lassan indul maga az alkalmazás. A mûködés nem döcög, egy erõsebb géppel teljesen simán fut, a szövegszerkesztõ megnyitása viszont hosszú másodperceket, akár fél percet is elvehet a felhasználó életébõl.
+A szövegszerkesztõ természetesen megbirkózik a szabványos dokumentumformátumokkal, s pillanatok alatt beimportálja akár a régi (.doc), akár az új (.docx) Word-dokumentumokat is, exportálni pedig ugyanolyan egyszerûséggel képes PDF-be, illetve Word 97-2003, Word 2007, HTML, RichText és egyéb formátumokba. A kelet-európaiaknak viszont kellemetlen meglepetés lesz, hogy az itteni karakterkódolás egyelõre nem került be a rendszerbe, az "árvíztûrõ tükörfúrógép" tesztben az "û" és "õ" karakterek helyett csak egy pötty jelenik meg.
+
+Rajzolni is lehet a ConnectNow webmeetingen
+
+Szintén lassan töltõdik be és egy új kapcsolat létrehozásánál is sokáig képes elmélázni a ConnectNow. Ennek segítségével a partnerek az online információtovábbítás és kommunikáció legtöbb ismert módján képesek egymással érintkezni. A regisztrált felhasználó szabadon hívhat meg partnereket, akik külön regisztráció nélkül beléphetnek vendégként, hisz Flash szinte mindenkinek a gépén van, telepíteni nem kell semmit. Bár a regisztrált felhasználáshoz szükség van egy települõ modulra, ami pillanatok alatt letöltõdik és elindul, innen vezérelhetõ a késõbbiekben a találka.
+
+
+ 
+
+Ezután kezdõdhet a munka vagy a móka. A partnerek behívása után az egyszerû fájlmegosztás, chat, webkamerás kapcsolat és hangalapú kommunikáció mellett a felhasználók megoszthatják képernyõképüket is a többiekkel, de akár egy táblára is rajzolgathatnak, illetve egy közös jegyzettömbbe írhatnak. A képernyõmegosztás kiválóan alkalmas weboldalak, szövegek, programok mutogatására, prezentálni, vagy egyszerûen távolról segíteni valakinek. Külön be lehet állítani, hogy a teljes asztal vagy csak egy adott alkalmazás képe menjen ki, így az eszmecsere közben el is lehet kalandozni anélkül, hogy arról a többiek tudomást szereznének, vagy belelátnának olyan dolgokba, amikbe nem kellene. A felbontással nincs komoly gond, s a frissítés is elfogadható, igaz videolejátszásra nem ajánlott.
+
+Profi prezi
+
+A harmadik eszköz a május 27-én élesített Presentations, illetve a ma bemutatott Spreadsheets, amik egyelõre maradtak béta állapotban, s az éles Acrobat.com-on keresztül egyelõre nem is elérhetõek, csak a labs1.acrobat.com linken keresztül. Ott viszont a Spreasheetshez alapos demó és oktatóvideó-csomag készült, ami az alapoktól építkezve mutatja be a táblázatkezelést, illetve ennek a programnak a különlegességeit. Erre szükség is lesz, mert az Exceltõl elég eltérõ a kezelése, illetve a függvények létrehozásának értelmezése. Ez az alkalmazás még kiforratlannak tûnik, érdemes várni 1-2 hónapot a véleménynyilvánítás elõtt.
+
+
+ 
+
+A Presentation viszont már korrekt. Ugyan a régimódi diavetítést nem hagyja el mint a Prezi.com, de&nbsp; kellemes eszköztár és pofás megjelenés jellemzi a programot. Minden prezentáció három szintbõl épül fel, a "Master" rétegben a hátteret, a betû-, alakzat- és vonalstílusokat lehet összeállítani, a "Layouts" rétegben elõre le lehet gyártani diasablonokat, s az új slide létrehozásánál már csak a meglévõkbõl kell kiválasztani egyet, s feltölteni szöveggel, képekkel, illusztrációkkal. A megoldás&nbsp; egyszerûvé teszi a gyors prezentációkészítést, s könnyedén testre szabható, egy prezi megjelenése pillanatok alatt teljesen átalakítható. 
+
+Nem is maradhatott ki az Acrobat.com palettájáról a PDF-kezelõ sem. Valójában ez egy céges igényekre csiszolt dokumentumtár, kereséssel, kategorizálással és minden egyéb funkcióval, ami egy virtuális iratszekrényhez illik. Az Acrobat.com felhasználói az ingyenes hozzáférés mellé 5 gigabájt helyet kapnak, így már a próbálkozók is komoly irattárat hozhatnak létre, de az üzleti elõfizetéseknél ez persze fokozható.
+
+Nem játékszer
+
+Mindegyik alkalmazáson látszik, hogy nem a fogyasztói szegmensnek szánták õket, néhol talán érzõdik is, hogy laikusok számára görcsös a kezelés, de közben süt az egészrõl a profizmus. A megjelenés "cool", viszont a Flash környezet miatt arra mindenképp számítani kell, hogy kemény lassulásokat képes produkálni egy nagyobb mûvelet, s alkalmasint az egész gép szenvedhet tõle. Cserébe viszont online felületen kínálja a vállalati dolgozók irodai szoftverszükségleteinek nagy részét, összekötve az egészet a közös munka lehetõségével. Az egyetlen komoly hátrány az erõforrásigény, ami már az ad hoc teszt során is megizzasztotta a böngészõket, illetve a rendszert, masszív, összetett használat nélkül.
+
+
+ 
+
+Egyelõre Internet Explorer vagy Firefox böngészõk alatt lehet az Acrobat.com elõnyeit élvezni, a Chrome még véletlenül sem támogatott. Regisztrálni az Acrobat.com-on lehet, továbbra is ingyenesen, de akik vállalati szinten is használni akarják az Adobe online monstrumát, azok havi 15-40 dollár közti áron juthatnak hozzá a szolgáltatáshoz felhasználónként. Az alap, 15 dolláros változatban maximum 5 ember gyûlhet össze egy webes meetingen, a plusz változatnál a korlát 20 fõre emelkedik. A közös dokumentumszerkesztés esetén a részvevõk száma viszont nincs korlátozva.
+
+Otthon marad a Google Docs
+
+ Az Acrobat-nak már jelenleg is van 5 millió felhasználója, s ez feltehetõleg a végleges változattal együtt csak nõni fog. Ugyan a kezelés eltér a korábban megszokottaktól több fontos szempontból, de a tanulási folyamat után egy érthetõ és használható rendszernek tûnik. Ennek ellenére a nem nagyvállalati, nem üzleti felhasználás esetén a Google Docs még mindig egy pörgõsebb, átláthatóbb megoldás, nem érdemes egybõl az új szereplõhöz szaladni. Az viszont tény, hogy az üzleti világ szemében az Adobe méltó ellenfele lesz a Microsoftnak és a Google-nek.Üzleti felhasználás esetén esetén azonban mindenképp érdemes számolni vele.

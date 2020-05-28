@@ -1,0 +1,16 @@
+Érkezik a javítás az iPhone-ok és iPodok régi-új biztonsági résére
+
+Heteken, vagy akár napokon belül megérkezhet az Apple igazi slágertermékének számító telefonjához, az iPhone 3G-hez az a biztonsági frissítés, mely a készülék múlt héten felfedezett, a gyártó által "kisebb biztonsági sérülékenységnek" nevezett hibát javít. 
+
+
+
+Az Apple új okostelefonjának elsõ, mindenkit érintõ biztonsági résérõl elõször a múlt héten, a MacRumors pletykaoldal közösségi szekciójában lehetett olvasni: a hiba kihasználásával a telefon szoftverének PIN-kódos beléptetõrendszere játszható ki, fontos megjegyezni ugyanakkor, hogy ez nem egyelõ a SIM-kártya PIN-jének a kikerülésével. Az iPhone korábbi változatánál is volt ilyen hiba, sõt az iPod touch szoftverét is javítani kellett ezért korábban, az új, 2.0-s szoftver (ez az iPhone 3G és az új iPod Touch készülékek alapértelmezett verziója) azonban a jelek szerint ugyanúgy sebezhetõ, mint az elõd az idén januárban megjelent frissítés elõtt.
+
+Kód nélkül is használható netezésre
+
+A biztonsági rés révén a numerikus jelszóval védett iPhone-ok bármelyike kinyitható, legalábbis részben, telefonálni ugyanis így sem lehet a készülékkel, a jogosulatlan felhasználó azonban hozzáférhet a telefon beépített e-mail klienséhez, így a teljes, lokálisan tárolt levelezéshez, valamint szabadon internetezhet a Safari böngészõvel. Ehhez a jelszó beütése helyett a vészhívás gombra kell böknie, majd duplán kell nyomnia a középsõ gombot (Home). A telefon szoftvere ezután alapértelmezésként a kedvencek (Favorites) listára viszi a használót, ahol a két alkalmazás eléréséhez elég egyetlen olyan kapcsolat, akihez e-mail cím vagy webcím van társítva.
+
+
+Az Apple a javítás megérkezéséig azt javasolja az iPhone-tulajoknak, hogy a telefon beállításainál változtassák meg a dupla Home gomb alapértelmezését, így a kétszeres lenyomásra sem lehet továbblépni a jelszóbekérõ képernyõrõl. A cupertinói cég egyelõre nem szolgált magyarázattal arra, hogyan merülhetett fel a biztonsági hiba egy már ugyanezen okból javított szoftver új verziójában, a cég ígérete szerint azonban a javítás már úton van: a frissítés valamikor szeptemberben jelenhet meg az új szoftverrel ellátott iPhone-okhoz és iPodokhoz.
+
+Az új generációs -- a biztonsági rés kapcsán érintett -- iPhone hazánkban is a boltokba került augusztus 22-én, a T-Mobile kínálatában. A szolgáltató ugyan nem adott ki adatokat a készülékek forgalmáról, de mostanáig minden bizonnyal több ezer iPhone 3G fogyott az országban. Ezeknek a telefonoknak a szoftvere az alapbeállítások szerint egytõl-egyig védtelen a fent ismertetett módszerrel szemben, feltéve, hogy a használó kitölti a megfelelõ mezõket a kapcsolatainál.

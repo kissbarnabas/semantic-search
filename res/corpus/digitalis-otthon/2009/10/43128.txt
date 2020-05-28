@@ -1,0 +1,11 @@
+iPhone-on is futhatnak a Flash alkalmazások
+
+A Flash Professional CS5 fejlesztõi eszköz készítõi egyetlen gombnyomással alakíthatják Flashben elkészített animációjukat vagy alkalmazásukat az Apple iPhone-ján futó programmá, amelyet elküldhetnek az App Store-ba is, a felhasználók innen tölthetik le. Ez lényegében azt jelenti, hogy nem csak Objective-C nyelven, hanem a sokkal szélesebb körben elterjedt és ismert Adobe Flashben is készülhetnek alkalmazások iPhone-ra és iPod touchra.
+Akár ugyanazok az alkalmazások is futtathatók az Apple készülékein, amelyeket a fejlesztõik egyébként a weben tesznek közzé, persze az okostelefon képességeibõl adódóan vannak korlátok, például a képernyõ felbontása vagy éppen a processzor teljesítménye, a memória mérete. További megkötés, hogy az  iPhone-ra készített szoftverekhez csak ActionScript 3 használható és nem tartalmazhatnak videót, mivel az Apple licencfeltételei ezt nem teszik lehetõvé. A Flash Professional CS5 elõzetese egyelõre csak egy szûk közösség számára érhetõ el, a nyilvános bétateszt az év végén indul el.
+
+Az iPhone vitathatatlanul az egyik legnépszerûbb okostelefon és egyre több fejlesztõ figyel oda rá, ezt bizonyítja az App Store-ban elérhetõ 80 ezernél is több alkalmazás. Korábban csak Objective-C nyelven lehetett szoftvereket készíteni erre a platformra, azonban az utóbbi idõben a lehetõségek megnõttek. Szeptember közepén jelent meg a Novell gondozásában a MonoTouch, amely .NET-nyelveken készült alkalmazásokat fordítja le natív  iPhone-kóddá. Ezzel sokak számára megnyílt a lehetõség, hogy iPhone-os fejlesztésekbe kezdjen és akár a meglevõ alkalmazásait portolja, meglevõ kódjait újra felhasználja.
+Az iPhone-tulajdonosok azonban továbbra sem tudják megnézni vagy használni a weboldalakba ágyazott Flash tartalmakat, mivel az Apple iPhone szoftverfejlesztõi készlet licencfeltételei szerint nem futhat a telefonon olyan program, amely futásidejû interpretert tartalmaz, márpedig a Flash lejátszó ilyen. Az Adobe számára technikailag semmi sem akadályozza a Flash portolását iPhone-ra, a háttérben jogi okok húzódnak meg.	     
+                  
+                  
+                  
+                   

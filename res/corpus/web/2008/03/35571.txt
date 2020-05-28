@@ -1,0 +1,20 @@
+Kevesebb memóriát eszik riválisainál a Firefox 3
+
+[Computerworld] Takarékosabban bánik a Firefox 3 tesztelhetõ negyedik bétaváltozata a memóriával, mint bármelyik más versenytársa, állítja blogján két Mozilla fejlesztõ. A memóriaszivárgási gondokat mindenki tapasztalhatja, aki a Firefox második változatát használja: a böngészõ az egyes fülek becsukásakor csak az azok által használt memória egy részét szabadítja fel, folyamatosan hízlalva a Firefox memóriában elfoglalt méretét.
+
+
+
+Teszt
+
+A Firefox 3 fejlesztésekor különleges figyelmet szentelnek a memóriakezeléssel kapcsolatos hibák megszüntetésnek is. A negyedik béta a jelek szerint már kevesebb memóriával is beéri, mint riválisai, az Internet Explorer 7, vagy az Opera. A Mozilla szoftvermérnöke, Stuart Parmenter szerint tesztjeikben a Firefox 2-nél 60 százalékkal kevesebb memóriaigénnyel indult a Firefox 3, míg a teszt végére a Firefox 3 bétája 400 megabájttal kevesebb memóriát foglalt, mint az Internet Explorer 7.
+
+Parmenter memóriatesztje során 29 különbözõ oldalt hívott be 30 ablakban 11 ciklusban, összesen 319 oldalt letöltve. A végén minden böngészõfület bezárt egyetlen kivételével, majd néhány perc állásidõt követõen megnézte, mennyi memóriát foglalt a böngészõ a rendszermemóriából. A tesztben részt vett az Apple Safari böngészõje és az Internet Explorer 8 elsõ bétája is, ezek azonban sosem jutottak el a teszt végéig, mindig elszálltak valamelyik oldalletöltés során.
+
+
+
+Marad az újraindítás
+
+
+A Firefox új bétája többek között azzal spórol memóriát, hogy az elõre- és visszalépésre fenntartott gyorsítómemóriából törlik azokat az adatokat, melyek 30 percnél régebben kerültek oda. A Firefoxot régóta kritizálták memóriaéhsége miatt, mely fõként a Firefox 2-ben vált egyre túlzóbb mértékûvé. Bár a legtöbb számítógépben ma már bõven található memória, a felhasználók több alkalmazást is futtatnak egyszerre, mint korábban.
+
+A memóriakezeléssel kapcsolatos problémákkal fõleg azok találkozhattak, akik folyamatosan használják a Firefoxot, gyakran indítanak és zárnak be újabb és újabb böngészõfüleket. A Firefox 2 ilyenkor nem szabadul meg az összes felesleges adattól, így egyre nagyobbra és nagyobbra hízik. Ilyenkor egyetlen megoldásunk marad: be kell zárni az összes Firefox ablakot, hogy az teljesen újraindítható legyen és ezzel felszabaduljon az összes feleslegesen elfoglalt memória is.

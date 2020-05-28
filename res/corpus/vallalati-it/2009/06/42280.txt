@@ -1,0 +1,15 @@
+Csupasz szerverek a HP-tól
+
+A HP ExSO ("Extreme Scale Out") architektúrájának alapja az egyszerûség, a szerverek valóban csak a legszükségesebb alkatrészeket tartalmazzák, a helytakarékosság és olcsóság érdekében még házuk sincs. 
+A ProLiant SL család jelenleg három tagot számlál, a SL160z esetében a 18 memóriafoglalat és a 2 PCI-E bõvítõhely, az SL170z esetében a legfeljebb 6 beépíthetõ 3,5" SATA vagy SAS merevlemez az egyedi tulajdonság. A ProLiant SL2x170z gyakorlatilag két szerver egy 1U magas egységben, egyenként 2 processzorral, 16 memóriafoglalattal, 1 merevlemezzel és 1 PCI-E bõvítõhellyel. A gépek mindegyike Intel Xeon (Nehalem) processzorra épül.
+
+
+ProLiant SL2x170z
+
+A gépeknek nincs saját házuk, azokat a HP SL6000 keretbe kell beszerelni, egy 2U kivitelû keret két gépet tud befogadni, de az SL2x170z esetében ez négy fizikai szervert jelent. A szerverek osztoznak az SL6000 keretbe épített tápegységeken és a ventilátorokon, hasonlóan a blade szerverekhez. A blade-ekkel szemben a ProLiant SL elõnye az olcsóság lehet, illetve hogy a gépeket az SL keret segítségével közvetlenül a 19" szekrényekbe lehet szerelni, nincs szükség blade keretre. Igaz, ezek a gépek nem adják a blade-ek rugalmasságát, illetve nagy teljesítménysûrûségét.
+A takarékosság jegyében akár redundancia nélküli tápellátás is választható, két szerver is osztozhat egy SL6000 keret tápján, de természetesen redundáns kiépítésre is lehetõség van. Az SL6000 keretet és az SL-sorozatú szervereket úgy alakította ki a HP, hogy a tápellátást leszámítva minden port és csatlakozó az elõlapra kerüljön, ami egyszerûbbé teszi a szervizelést valamint zavartalanná a légáramlást a gép belsejében és a hátuljában, ami jobb hûtést biztosít -- nagy teljesítménysûrûség esetében ez különösen fontos.&nbsp; 
+
+
+Két ProLiant SL2x170z egy SL6000 keretben
+
+A gépek júliustól érhetõk el a vállalat kínálatában, az árak pedig a megrendelés mennyiségétõl függõen változhatnak. A HP elsõsorban internetszolgáltatók, webes szolgáltatást nyújtó cégek, illetve mérnöki-tudományos konfigurációkat építõk érdeklõdésére számít.

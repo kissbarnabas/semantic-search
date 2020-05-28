@@ -1,0 +1,25 @@
+Megérkezett a Fedora 11
+
+Újdonságok serege
+A 2.6.29-es kernelre épülõ Fedora 11 újdonságaiból a fejlesztõk a legfontosabbak között tartják számon az ujjlenyomat-olvasók támogatását, aminek a noteszgépek használói örülhetnek elsõsorban. Szintén noteszgépek esetén lehet fontos a korábbinál jobb Bluetooth-támogatás Gnome alatt. Asztali felhasználásnál jöhet jól az automatikus font- és mime-type kezelés, ami lehetõvé teszi a programok számára, hogy felhasználói beavatkozás nélkül telepítsék a mûködésükhöz szükséges komponenseket, például betûkészleteket vagy audio- és videokodekeket. Javult az Intel, az AMD és az NVIDIA grafikus vezérlõinek támogatása is a kernelben.
+ A disztribúció része a miniGW keresztplatformos fordító, amelynek
+segítségével Fedora alatt is lehet Windowson futó programokat
+fordítani. Említésre méltó érdekesség még az ABRT (Automatic Bug
+Reporting Tool), amely hétköznapi felhasználók számára is egyszerûvé
+teszi a hibák bejelentését a fejlesztõi közösségnek. Egy modern, közösségi Linux-disztribúcióhoz méltóan a Fedora 11-ben
+a népszerû nyílt forrású szoftverek legújabb változata kapott helyet, a
+Firefoxból például a 3.5 elõzetese, a Thunderbird levelezõbõl a 3-as
+verzió, a gcc fordítóból a 4.4, a KDE-bõl a 4.2,a NetBeansbõl a 6.5, az Eclipse 3.4.2, a MySQL 5.1.31, a PostgreSQL 8.3, az Xfce 4.6 és az Xserver 1.6 került be a csomagba. 
+
+
+
+
+Virtualizáció
+A virtualizáció terén számos elõrelépés történt a Fedora 11-ben, amelyek a KVM és a Xen platformot egyaránt érintik. A csomagban a Xen 3.3.1-es, a QEMU 1.10-es, a KVM 84-es, illetve a libvirt 0.6.1-es változata található meg és a virtuális gépek grafikus felületen történtõ kezelésére alkalmas virt-manager is újabb szintre lépett, a Fedora 11-ben a 0.7-es változat érhetõ el.
+A Fedorán futtatott virtuális gépek képernyõfelbontása most már nagyobb 800x600 pixelnél és az egérmutató-kezelés is javult. A KVM felhasználói az operációs rendszerben megjelent frissítéseknek köszönhetõen hozzárendelhetnek egyes PCI eszközöket a virtuális gépekhez kizárólagos használatra. A Linux és a QEMU által futtatott virtuális gépekhez a Fedora 11 felhasználói már offline is hozzá tudnak férni, vagyis azok kikapcsolt állapotban is módosíthatók, illetve lekérdezhetõk a legfontosabb paramétereik.
+
+
+
+Az ext4 az alapértelmezett fájlrendszer
+ Fedora 11 nem csak támogatja, hanem alapértelmezettként használja az ext4 fájlrendszert, amely a fejlesztõk szerint nagyobb teljesítményt nyújt elõdjénél, az ext3-nál. A csomagnak része egy migrációs eszköz is, amellyel ext3 partíciókat lehet ext4-re migrálni. A következõ generációs btrfs fájlrendszert is kezeli a disztribúció, de ez csak technológiai elõzetesként került be a Fedora 11-be,&nbsp; használata igen kockázatos, mivel még a funkcionalitása sem teljes és a fejlesztés késõbbi szakaszában a specifikációk is változhatnak. 
+A Fedora 11 32 és 64 bites x86 processzorokon, valamint PowerPC architektúrán futó változatai letölthetõk a projekt honlapjáról, illetve fájlcserélõ hálózatokról. A korábbi gyakorlatnak megfelelõen a disztribúció Live CD formájában is elérhetõ, így telepítés nélkül is kipróbálható. A Fedora 11-gyel együtt elindult a Fedora Community portál, amely a nyílt forrású szoftver mögött álló közel 30 ezer fejlesztõ munkáját igyekszik összefogni. A grafikus felületen a korábbinál könnyebben követhetõk a különféle Fedorával kapcsolatos projektek, frissítések, hozzájárulások.

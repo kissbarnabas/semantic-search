@@ -1,0 +1,10 @@
+Közösségi jelszótörõ gridet hoztak létre magyarok
+
+Köszönhetõen annak, hogy a John the Ripper forráskódja nyitott, lehetõség nyílt annak módosítására, hogy a szoftver gridbe szervezõdve osztozzon a jelszótörési feladatokon. A GI John kliens Windowson, Linuxon, FreeBSD-n és MacOS X-en is fut. A GI John pontokkal jutalmazza a munkát, amit regisztrációval kaphatunk meg -- a regisztrációs adatainkat, mint a felhasználónév és jelszó, a kliens gijohn.conf szöveges állományában kell megadnunk. A szabad pontokért cserébe mi is tölthetünk fel jelszó hasht, melyet fel kívánunk töretni.
+A készítõk célja az volt, hogy egy skálázható, nyílt forrású jelszótörõ megoldást hozzanak létre. Maga az algoritmusok vagy a szoftver továbbra sem párhuzamosított, vagyis egy kliens egyetlen szálat hoz létre, így többmagos vagy több hardveres szállal rendelkezõ rendszeren több példányt kell belõle indítani. Maga a kliens lényegében semmiféle további konfigurációt és törõdést nem igényel.
+
+A GI John segítségével tesztelhetjük az egyes jelszavak és a titkosítások erõsségét, vagy megpróbálhatjuk az elfelejtett jelszavak visszafejtését is, hasonlóan sok erre irányuló kereskedelmi termékhez. A John the Ripper valójában többféle jelszótörõ egy csomagban, és automatikusan felismeri, milyen típusú titkosítással hozták létre a hash-t, így például a Windows rendszerek egyik legfõbb gyenge pontjának tartott LAN Manager jelszavak hash-ével is képes dolgozni.	     
+                  
+                  
+                  
+                   

@@ -1,0 +1,12 @@
+Tartalomkezelõ rendszert fejleszt az új nevet kapott Macrovision
+
+A Liquid a Rovi tervei szerint lényegében egy online vezérelt tartalom- és programkalauz lesz, mely a felhasználói végberendezésen -- elsõsorban a televízión vagy a beltéri egységen -- fut majd. A rendszer egyik legfõbb célja lesz, hogy egyszerû, direkt hozzáférést nyújtson a nagy online tartalomszolgáltató oldalakhoz (mint például a tévéképernyõre optimalizált Youtube XL).
+A Rovi rendszere három, egymástól elkülöníthetõ, akár különállóan is értékesíthetõ modulra tagozódik. A Televíziós Tartalomkalauz lényegében egy az IPTV és hasonló rendszereknél már megismert technológiához, az elektronikus programkalauzhoz (EPG) hasonlít, a Szélessávú Tartalomkalauz az interneten elérhetõ, ingyenes vagy fizetõs videókhoz, mozifilmekhez, más médiatartalmakhoz, valamint akár olyan internetalapú szolgáltatásokhoz kínál hozzáférést, mint a közösségi hálózatok (a Liquiddel kezdetben a mozirajongók közösségi oldalát, a Flixstert lehet majd elérni).
+A Liquid felhasználói felülete
+
+Végül a Személyes Tartalomkalauz az otthoni szórakoztatóelektronikai készülékeken, számítógépeken, valamint az interneten megosztott saját tartalmakhoz kínál hozzáférést. A rendszer további különlegessége, hogy öntanuló módon képes felderíteni a felhasználó médiafogyasztási szokásait, így például az eddig nézett tévésorozatok alapján tartalmát vagy tematikáját tekintve más mûsorokat is felajánl a nézõnek -- a Liquid nem csak egy felhasználó, hanem akár a család összes tagjának szokásait képes feltérképezni, így más kínálatot nyújt a szülõknek és a gyerekeknek, akiket bejelentkezés alapján azonosít.
+Azt egyelõre nem tudni, hogy a Liquid pontosan milyen technológiát használ mindehhez, a megjelenítés és a dizájn azonban alighanem Flash-alapokon nyugszik. Az Adobe éppen idén áprilisban jelentette be, hogy a különbözõ flashalapú widgetek szórakoztatóelektronikai készülékeken is használhatók lesznek a jövõben. A Liquid gyártói partnereirõl egyelõre hallgat a Rovi, a technológia megjelenését a jövõ év elejére datálják.	     
+                  
+                  
+                  
+                   

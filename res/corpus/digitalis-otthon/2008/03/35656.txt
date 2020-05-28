@@ -1,0 +1,11 @@
+Fogyasztókat és kisvállalatokat célozza a Fujitsu Siemens új hálózati adattárolója
+
+A Fujitsu Siemens Computers bemutatta StorageBird Duo 35-LR kisvállalati és otthoni felhasználásra tervezett hálózati adattárolóját, amely elegáns kialakításánál fogva akár a nappali dísze is lehet a cég szerint. A termék májustól lesz Magyarországon kapható, 49 ezer forintos bruttó áron.
+
+
+
+ A készülékbe két darab 3,5 hüvelykes merevlemezt lehet beszerelni, a ma kapható legnagyobb meghajtók használatával így akár 2 terabájtos kapacitás sem elképzelhetetlen. A lemezek ráadásul egy mozdulattal, könnyen cserélhetõk, nem szükséges hozzájuk az eszközt szétszerelni, elég a dizájnos elõlapot lekapni. A lemezek hûtésérõl egy apró ventilátor gondoskodik, ami a Fujitsu Siemens szerint szinte zajtalan, a fordulatszáma a hõmérséklet függvényében folyamatosan, automatikusan változik.
+
+
+
+A StorageBird Duo 35-LR nem csak állományok biztonságos tárolására, megosztására alkalmas, beágyazott Linux operációs rendszere képes automatikusan biztonsági mentést készíteni a hálózatban található PC-krõl, emellett a gép FTP-szerverként is mûködhet, így a rajta levõ állományokat bárhol, bármikor elérheti a tulajdonos. A vállalat közleménye szerint a tároló UPnP hálózatokban médiaszerverként is mûködik, vagyis a szabvánnyal kompatibilis médialejátszók képesek a rajta tárolt filmeket, zenéket, képeket minden további nélkül elérni.

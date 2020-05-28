@@ -1,0 +1,12 @@
+Elõre értesíti a biztonsági cégeket a patchekrõl a Microsoft
+
+A Microsoft a biztonsági cégeket is bevonná a hibajavítások kiadásába. A vállalat tervei szerint az õsztõl a szokásos "patch kedden" megjelenõ foltokról a biztonsági cégeket elõre értesítik majd, így azok fel tudnak készülni az érkezésükre.
+
+ 
+
+A jelenlegi gyakorlat szerint a Microsoft minden hónap második keddjén adja ki a szoftvereihez a biztonsági javításokat. A "patch keddeket" követõen a biztonsági cégek és a bûnözõk egyszerre ugranak rá a javításokra, persze a céljuk más. A biztonsági cégek elemzik és dokumentálják a sebezhetõségeket és frissítik a szignatúrafájlokat, hogy megakadályozzák a sérülékenységeket kihasználó támadásokat. A bûnözõk ezzel szemben megpróbálják visszafejteni a patcheket, hogy támadási pontokat keressenek. 
+
+Az õsszel induló Active Protection Program lényege, hogy a hibajavításokkal kapcsolatos részletes információk még a "patch kedd" elõtt elérhetõvé válnak a biztonsági cégek számára, ezáltal azok meg tudják kezdeni a felkészülést a sérülékenységek azonosítására és elhárítására, mielõtt még a bûnözõk megírnák a sebezhetõségeket kihasználó kódokat. "A Microsoft célja az Active Protection Programmal, hogy a védelmet fejlesztõ biztonsági cégek elõnnyel induljanak a versenyben" -- mondta Andrew Cushman, a Microsoft Security Response and Outreach Team vezetõje.
+
+
+ A redmondi cég emellett létrehoz egy ún Exploitability Indexet, amely minden egyes sérülékenységrõl megmutatja, hogy azt mekkora eséllyel lehet sikeresen kihasználni. A biztonsági frissítések mindegyikéhez csatolnak majd egy ilyet, segítve a felhasználókat abban, hogy eldönthessék, mennyire sürgõs egy adott patchet telepíteni.

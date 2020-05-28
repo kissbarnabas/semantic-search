@@ -1,0 +1,20 @@
+Hirdetési hálózatot épít a Facebook
+
+[HWSW/TBI] Régóta beszélnek róla, de sosem erõsítette meg hivatalosan senki, hogy a Facebook elõbb-utóbb dollárra váltja a az OpenID-hez hasonló Facebook Connectet. A feltételezések szerint a közösségi hálózatot üzemeltetõ cég hamarosan egy hirdetési hálózatot épít majd ki a Connect szolgáltatásra alapozva, s kiaknázza a lehetõséget, hogy az általa biztosított univerzális bejelentkezés nem csak a felhasználók kényelmét szolgálja, hanem lehetõséget ad arra is, hogy a demográfiai adatok és a Facebookon belüli szokások alapján más webes szolgáltatóknál is pontos hirdetési targetálásba fogjon.
+
+
+
+Nem az alapszolgáltatásban van az üzlet
+
+A Business Insider információi szerint a Facebook hamarosan, de legkorábban fél év múlva saját ad networköt indít a Connectre alapozva. A Facebook Connect egy olyan login-szolgáltatás, mely lehetõvé teszi külsõ webes szolgáltatók számára, hogy oldalaikra a felhasználók a Facebookon is használt azonosítójukkal és jelszavukkal segítségével jelentkezzenek be. Az online hirdetési piac által gyakran érintetlenül hagyott kisebb szolgáltatók számára létfontosságú már önmagában az is, hogy nem kell a felhasználókat külön regisztrációra kényszeríteniük, de ha ennek a problémának a feloldása egyben az értékesítést is támogatja, az dupla haszon. 
+
+
+Ahogyan a magyarországi iWiW (és több más szolgáltató is) is megoszt deperszonalizált adatokat a Medián Webaudit Webprofile szolgáltatásával, úgy a Facebook adatok is kiváló táptalajként szolgálhatnak a kisebb weboldalak demográfiai mérésére. A Facebook hatalmas adatbázisával képes a kisebb oldalak számára is olyan eszközöket fejleszteni, odaadni, melyekkel komoly kutatások nélkül, szinte valós idõben láthatóvá válik, hogy kik látogatják valójában az adott tartalmat.
+
+Habár a Facebook Connectet már most is csak egy lépés választja el attól, hogy hirdetési hálózattá fejlõdjön, az ugrást az amerikai cég mégsem képes megtenni. A Business Insider egy másik forrása szerint a Facebook komoly lemaradásban van a terveihez képest, s már most is számos új termék fejlesztését, bejelentését tolja maga elõtt. Sheryl Sandberg, a Facebook operatív igazgatójának szavai is megerõsítik ezt, hisz õ is épp arról panaszkodott, hogy gondban vannak a tehetséges új mérnökök, programozók, szakemberek felvételével, nincs elegendõ emberük a célok eléréséhez. Az öt éves Facebook jelenleg 900 embert foglalkoztat, ami soknak is tûnhet, de ugyanilyen idõs korában a Google-nél már 1600-an dolgoztak.
+
+A Twitter jobbról elõz
+
+Ráadásul a Facebook körül több szinten is szorul a hurok, hiszen az ilyen ötletek halogatásával nem csak potenciális bevételtõl esik el a cég, de egyre több esélye van annak is, hogy a még gyorsabb, frissebb start-upok megelõzik. A Twitter például épp a múlt héten mutatta be saját, nemes egyszerûséggel "Sign-in with Twitter"-nek keresztelt login szolgáltatását. 
+
+Ugyan a Facebook Connecthez hasonlóan ez sem funkcionál hirdetési hálózatként, de látva a Twitter növekedési sebességét és a változásra való hajlandóságát, elõfordulhat, hogy mielõtt a Facebook komolyan foglalkozna ezzel a kérdéssel, a Twitter már be is mutatja saját megoldását. Így a macska-egér játék akár meg is fordulhat rövid idõn belül, legalábbis üzleti szempontból. Illetve a Twitter végre választ kaphatna a végsõ kérdésre: Honnan lesz bevétele?

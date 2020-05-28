@@ -1,0 +1,16 @@
+Felügyelet alapkiépítésben: tudja a Dell 3130cn, hogy mit nyomtatnak vele
+
+A takarékosság egyik feltétele, hogy tudnunk kell, mire mennyit költünk. Ezen az úton jár a Dell C3130 nyomtató, melynek különlegessége, hogy felügyeleti szoftver is jár hozzá.
+
+
+
+Nyomtatás esetén spórolhatunk nagyobb kapacitású tonerek használatával, másik, a kívánalmaknak inkább megfelelõ nyomtató beüzemelésével de leginkább mégis önmérséklettel. Irodánk azonban nem csak egyszemélyes, és megeshet, hogy az alkalmazottak, munkatársak nem osztják elkötelezettségünket. Ilyen esetekben egy felügyeleti szoftver sok felesleges, illetve nem a munkához tartozó nyomtatvány elkészítését akadályozhatja meg.
+
+A Dell 3130cn már elég nagy ahhoz, hogy egy kis vagy közepes irodában teljesítsen szolgálatot: percenként 30 monokróm vagy 25 színes oldal nyomtatására képes és költségei nagy kapacitású, 9000 oldalas tonerkazetták vásárlásával csökkenthetõk. Ez a legkisebb színes hálózati lézernyomtató, melyhez a cég meghajtóprogramba épített felügyeleti szoftverének újabb változata, a ColorTrack 2 jár. A telepítést követõen kényelmesen, hálózaton keresztül beállíthatók a felhasználók lehetõségei. 
+
+A Dell C3130cn-hez alapkiépítésben jár a Dell Color Track 2 szoftver
+
+A szoftver lehetõséget nyújt a színes nyomtatás korlátozására, akár felhasználónként. Ellentétben az elõzõ változattal, itt már csoportokba rendezhetõk a felhasználók, követve ezzel a cég szervezeti felépítését. Nem csak korlátozásokat lehet beállítani, hanem monitorozható is az egyes végpontok tevékenysége, nyomtatási munkákig menõ részletességgel. Természetesen a készülék állapota is nyomon követhetõ.
+
+
+A program az alapszintû korlátozásokon (például monokróm meghajtóprogram használata) túlmutató felügyeleti lehetõséget biztosít, de azért még akad mit fejleszteni rajta. Nem csodálkoznánk, ha a következõ változat már támogatná az LDAP és ActiveDirectory címtárak használatát és lehetõvé tenné idõszakos (havi, heti) oldalszámkorlátok beállítását is, felhasználónként.

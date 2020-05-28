@@ -1,0 +1,14 @@
+Veszteségmentes tömörítést ígér az MP3HD
+
+Gyakorlatilag nincs tömörítési veszteség, azaz a zene az eredeti forrásnak megfelelõ minõségben szólalhat meg a MP3 formátum új, divatosan HD jelzõvel illetett mutációja révén. Az MP3HD formátum legnagyobb elõnye, hogy visszamenõleg kompatibilis az MP3-mal, azaz az MP3HD zenék kivétel nélkül megszólaltathatók a régi formátummal kompatibilis lejátszókkal -- igaz, ezeknél a hangminõség semmivel sem lesz jobb, mint a hagyományos MP3-ak esetében.
+
+
+
+Az MP3HD alapjait a Thomson és a német Fraunhofer Intézet által közösen kidolgozott MP3 formátum adja, a HD-s mutáció tulajdonképpen nem más, mint egy rendkívül magas bitsûrûséggel tömörített MP3. Az MP3HD fájlkiterjesztése ennek megfelelõen nem változik, a fájlstruktúra azonban bonyolultabb: az állomány a fõ adatfolyam mellett magában rejt egy hagyományos MP3-hangsávot és néhány, az ID3 tagben tárolt új metaadatot. A fejlesztõk szerint ez a felépítés adhatja a formátum legnagyobb helyzeti elõnyét -- a hanganyagok a beágyazott MP3-adatblokk ésa megosztott ID3 tag információk révén bármilyen MP3-lejátszóval lejátszhatók.
+
+A Thomson elsõsorban a hasonló, veszteségmentes tömörítésû audioformátumok (FLAC, HD-AAC, WMA Lossless) konkurenciájának szánja az MP3HD-t, mely nagyjából 500 és 900 kilobit/másodperc közti bitsûrûséget támogat. A tömörítési ráta a mûfajtól és a felhasználás jellegétõl függõen változhat -- a Thomson kalkulációi szerint egy négyperces rockzene-szám a legjobb minõségben nagyjából 26 megabájtot foglal, a legnagyobb tömörítés mellett a helyigén körülbelül 14 megabájt.
+
+
+Az új formátumnak létrehozott weboldalán a Thomson elérhetõvé tett egy béta állapotú, parancssorban futó PC-s kódolót, mely minden, 16 bites, 44,1 kHz-es WAV hangfájlt képes MP3HD-vé alakítani. A fejlesztõk ugyanebben a csomagban egy, a lejátszáshoz szükséges Winamp-plugint is a kísérletezõ kedvûek rendelkezésére bocsátanak. Az MP3 licencelésébõl vígan élõ Thomson az MP3HD szoftveres és hardveres dekóderek után egyaránt 75 centes, a szoftveres kodekekért 2,5-5 dolláros, a hardveres kodekekért pedig 1,25 dolláros licencdíjat szed.
+
+Szakértõk szerint elsõsorban utóbbin, azaz a hardver- és szoftvergyártóktól szedett licencdíjon múlhat a formátum sikere. Nem túl biztató jel mindenesetre, hogy a Fraunhofer Intézet által az idei CES-en bemutatott MP3 Surround formátum egyelõre egyik nagy piaci szereplõnek sem keltette fel az érdeklõdését.

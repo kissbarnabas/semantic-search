@@ -1,0 +1,16 @@
+Felvásárlással erõsít az azonosságkezelés területén a Novell
+
+Felvásárolta a Fortefi vállalatot a Novell, ezzel egy kiemelt felhasználók (privileged user) menedzselésére szolgáló megoldással bõvítette portfólióját. A Fortefi technológiáira, Command Control és Compliance Auditor termékeire épülve a második negyedévben jelenik meg a Novell Privileged User Manager.
+
+
+
+A felhasználói hozzáférések kezelése, naplózása biztonsági szempontok és a jogi környezet (pl. Sarbanes-Oxley, HIPAA, PSZÁF) miatt is kívánatos. A Privileged User Manager segítségével a rendszergazdák, adminisztrátorok, vagyis a "root" és "superuser" felhasználók tevékenysége is ellenõrizhetõvé válik UNIX és Linux rendszereken. Az akvizícióval a Novell egyben olyan technológiák birtokába is jutott, amelyek segítségével a UNIX-Linux migrációk esetében egyszerûen kezelhetõk a "root-jogok".
+
+"Magyarországon az elmúlt években számos sikeres projektet valósítottunk meg a felhasználók és jogosultságaik központosított kezelésére a Novell Identity Manager termék felhasználásával" -- mondta a HWSW-nek Hargitai Zsolt, a Novell kereskedelemtámogatási vezetõje. "A mostani felvásárlással az Identity Manager termék szolgáltatásai kiegészülnek a különbözõ rendszerek adminisztrátori joggal rendelkezõ felhasználóinak felügyeletével és úgy látjuk, hogy ez az új megoldás  a magyar piacon több ügyfelünk számára is érdekes lehet."
+
+A vállalat emellett közölte, hogy örökös licencet szerzett az ActiveIdentity SecureLogin kódjára, ezzel az lényegében házon belülre került. A SecureLogint a Novell 2001 óta egy OEM-szerzõdés keretén belül kínálta vállalati single sign-on termékként, a mostani megállapodás viszont lehetõvé teszi a cég számára hogy meghatározza a jövõbeli fejlesztési irányokat, illetve hogy szorosabban integrálja a SecureLogint  azonosságkezelési portfóliójának többi tagjával.
+
+
+ A Novell nemrégiben jelentette be az Access Manager 3.1-es verzióját, amely a Microsofttal közös együttmûködés eredményeképp integrált támogatást nyújt a WS-Fedeartionhöz. Ennek eredményeképp a szoftverrel a Windows Active Directoryban címtárban korábban nem szereplõ felhasználóknak, partnereknek és szervezeteknek is biztosíthtó egypontos bejelentkezéssel elérhetõ hozzáférést a Microsoft termékeihez, például a SharePoint-portálokhoz.
+
+"Az Access Manager újdonsága, hogy az eltérõ személyazonosság-tárolókat alkalmazó Web-alapú alkalmazások közötti hitelesítési folyamatot biztonságossá és egyszerûvé teszi a felhasználók számára" -- mondta Hargitai Zsolt. "Ezzel a módszerrel kiépíthetõ egy bizalmi kapcsolat bármely LDAP-címtár és egy Active Directory címtár között. A bizalmi kapcsolat segítségével az Active Directory felhasználók elérhetik az Access Manager által kezelt alkalmazásokat, illetve az LDAP címtár felhasználói is egypontos bejelentkezéssel férhetnek hozzá Active Directory integrált alkalmazásokhoz, például a SharePoint portálhoz."

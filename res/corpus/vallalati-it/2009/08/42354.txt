@@ -1,0 +1,9 @@
+A leggyorsabb 2 terabájtos szerver merevlemezt kínálja a Hitachi
+
+Az új Ultrastar meghajtók a hasonló Deskstar HD32000IDK7 modelleket követik. A technológiai alap, mely a 3,5 hüvelykes formátumú meghajtókban tányéronként 500 gigabájtos kapacitást biztosít, természetesen azonos, a különbség a mûködési megbízhatósággal szemben támasztott magasabb követelményekben van, hogy a szerverekben, tárolókban vagy munkaállomásokban fellépõ terhelést tartósan elviselje.
+A SATA felületû Ultrastar 1,2 millió órás MTBF mutatóval bír, vagyis statisztikailag ennyire becsülhetõ a két meghibásodás közt átlagosan eltelt üzemidõ - ez közel 137 év folyamatos mûködés. Ezen túlmenõen a meghajtó hardveres titkosításra is képes teljesítményvesztés nélkül, és csak a megfelelõ kulcs birtokában nyerhetõek ki az adatok, ami egyszerûvé teszi az adatok megsemmisítését is, hiszen csak a kulcsot kell törölni, nem 2 terabájt adatot.
+Az A7K2000 megduplázza elõdje, az A7K1000 kapacitását, ugyanakkor csak a Western Digital és Seagate mögött harmadikként éri el 2 terabájtos lélektani küszöböt. Ezt ellensúlyozandó a leginkább archiválásra, backupra vagy nagyméretû adattárházakba javasolt HDD 7200-as fordulatú, míg riválisainak fordulatszáma 5400 és 7200 közt dinamikusan alakul, és inkább a fogyasztói piacot célozzák meg. A Hitachi ráadásul állítja, fogyasztásban is kedvezõbbet kínál. A magasabb adatsûrûségnek köszönhetõen elõdjénél sokkal gyorsabb, két és félszeres átviteli sebességet kínál, miközben fogyasztása is csökkent némileg.	     
+                  
+                  
+                  
+                   

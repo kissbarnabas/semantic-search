@@ -1,0 +1,16 @@
+Igazi miniszámítógépet mutatott be az Everex
+
+Az Everex a Cloudbook noteszgép sikerein felbuzdulva az asztali gépek területét is kezelésbe vette: a Mac minihez nagyban hasonlító, ám annál laposabb gPC készülékházában noteszgép alkatrészeket is találhatunk.
+
+
+
+Az Everex asztali számítógépei közé a közeljövõben érkezik egy parányi gép, amely méreteiben lekörözi az Apple sikeres Mac minijét. A horizontális és mélységi méreteket illetõen nagyjából megegyeznek, ám elõbbi a mininél érzékelhetõen laposabb. A gPC minit szinte mindennel felszerelték a tervezõk, a hálózati kapcsolatok akár gigabit sebességgel is kiépíthetõk, a négy USB-kapuból egy az elõlapon kapott helyet, de a hátoldalon maradó három mellett egy mini FireWire port is található.
+
+
+A készülék noteszgép alkatrészekbõl építkezik, alapkiépítésben az 1,86 gigahertzes, egy megabájtnyi gyorsítótárral ellátott mobil Intel Core 2 Duo T2130 központi egység köré 512 megabájtnyi DDR2 memóriát -- ilyen memóriaárak mellett ez szégyen -- 120 gigabájtos merevlemezt, "szippantós" DVD-írót, valamint alaplapi Intel GMA950 videoalrendszert képzeltek az alkotók. A hangrendszerhez Realtek ALC268 lapka adja az alapot, amelyhez a gépházon mikrofont, line-szintû jelet közvetíteni képes külsõ készüléket, valamint hangszórót és fejhallgatót illeszthetünk.
+
+A monitor csatlakozására a hátoldalon egy DVI port szolgál, amely egy S-Video csatlakozóval is kiegészül, ha a PC-t médialejátszóként üzemeltetnénk egy tévékészülék társaságában. A digitális fényképezõgépek memóriakártyái közül a MemoryStick, valamint az SD/MMC kártyák változatai illeszthetõk az elõlap résébe.
+
+Ha nem csúsznak a szállítások, március elejétõl rendelhetõ
+
+A mellékelt szoftverek nagyjából lefedik a drága általánosan használt megoldások képességeit, az Ubuntu Linux és a Google webes alkalmazásainak összekapcsolásából létrejött Good OS, azaz gOS operációs rendszeren elõretelepítve a Mozilla Firefox böngészõt, Meebo, Skype, Wikipedia, GIMP, Blogger, YouTube, Xing Movie Player, RythemBox alkalmazásokat és az OpenOffice.org 2.3 irodai alkalmazáscsomagot is megtalálhatjuk. Az Everex minije március elsejétõl 500 dollárért lesz kapható, ha a gyártó Eee PC vetélytársánál, a Cloudbooknál tapasztalt késésekhez hasonlatos események nem jönnek közbe ennél a készüléknél is.

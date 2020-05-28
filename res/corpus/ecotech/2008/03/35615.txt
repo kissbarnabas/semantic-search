@@ -1,0 +1,225 @@
+Nagy pofont adott a félvezetõpiacnak tavaly a DRAM, visszaszorult az AMD is
+
+[iSuppli/HWSW] A DRAM-piac összeomlásának hatására gyakorlatilag stagnált tavaly a félvezetõk piaca, amit a legtöbb memóriagyártó is megszenvedett -- jelenti az iSuppli elemzõcég. Az Intel nyomása következtében visszaszorult az AMD, a PlayStation 3 termelésének felfutásával pedig nagyot ugrott elõre a Sony, de remekelt az NVIDIA és a Qualcomm is. Az ipar a tõkeintenzitás végett természetesen tovább koncentrálódik, a tíz legnagyobb cég a globális forgalom 46,6, a legnagyobb 25 pedig 69,1 százalékát szakítja ki magának.
+
+
+
+Tavaly 268,9 milliárd dollárt tett ki a félvezetõk piaca, ami alig 3,3 százalékkal haladja meg a 2006-os szintet. Ezt a DRAM-piac 19,1 százalékos visszaesése magyarázza, melyet a túltermelés hatására fellépõ brutális, 85 százalék feletti árzuhanás okozott. A világ legnagyobb DRAM-gyártójaként a Samsung Electronics árbevétele 0,8 százalékkal olvadt, ugyanakkor továbbra is stabilan õrzi második helyét az Intel mögött, mely közel 8 százalékos növekedést tudott felmutatni, és 34 milliárd dollár bevételt realizált chipekbõl, becsli az iSuppli. Ellenpontként az év sztárjai az alkalmazásspecifikus chipek voltak, 12,9 százalékos növekedéssel, valamint az optikai félvezetõk.
+
+
+Hat hellyel a nyolcadikra ugrott elõre a Sony, ami  kevésbé a félvezetõrészleg, inkább a Sony PlayStation 3 érdeme, ugyanis a viszonylag nagyméretû és drága Cell és RSX processzorok által vezetve növekedett a vállalat félvezetõipari forgalma 55,5 százalékkal, megközelítve a 8 milliárd dollárt. Igazi sikersztorit könyvelhetett el az NVIDIA, melyet a Forbes üzleti magazin az év vállalatának választott. Grafikus és alaplapi chipjeibõl származó forgalma 34,4 százalékkal ugrott meg, amivel bekerült a top 20-ba. Az NVIDIA úgynevezett fabless cég, chipjeinek termelését szerzõdéses gyártók végzik, többségében a TSMC.
+
+Félvezetõpiac 2007, millió dollárban
+
+	
+	
+		
+			#
+			Vállalat
+			Árbevétel
+			Változás
+			Részesedés
+		
+		
+			1
+			Intel
+			33995
+			7,78%
+			12,64%
+		
+		
+			2
+			Samsung Electronics
+			19691
+			-0,76%
+			7,32%
+		
+		
+			3
+			Texas Instruments
+			12275
+			-2,58%
+			4,56%
+		
+		
+			4
+			Toshiba
+			12186
+			20,17%
+			4,53%
+		
+		
+			5
+			STMicroelectronics
+			10000
+			1,48%
+			3,72%
+		
+		
+			6
+			Hynix
+			9047
+			15,03%
+			3,36%
+		
+		
+			7
+			Renesas Technology
+			8001
+			1,28%
+			2,98%
+		
+		
+			8
+			Sony
+			7974
+			55,47%
+			2,97%
+		
+		
+			9
+			Infineon Technologies
+			6201
+			21,14%
+			2,31%
+		
+		
+			10
+			AMD
+			5918
+			-21,16%
+			2,20%
+		
+		
+			11
+			NXP
+			5746
+			0,68%
+			2,14%
+		
+		
+			12
+			NEC Electronics
+			5742
+			2,52%
+			2,14%
+		
+		
+			13
+			Qualcomm
+			5619
+			24,07%
+			2,09%
+		
+		
+			14
+			Freescale Semiconductor
+			5264
+			-6,27%
+			1,96%
+		
+		
+			15
+			Micron Technology
+			4869
+			-7,20%
+			1,81%
+		
+		
+			16
+			Qimonda
+			4005
+			-26,01%
+			1,49%
+		
+		
+			17
+			Elpida Memory
+			3838
+			8,82%
+			1,43%
+		
+		
+			18
+			Matsushita Electric
+			3800
+			-5,52%
+			1,41%
+		
+		
+			19
+			Broadcom
+			3746
+			2,13%
+			1,39%
+		
+		
+			20
+			nVidia
+			3466
+			34,45%
+			1,29%
+		
+		
+			21
+			Sharp Electronics
+			3401
+			1,80%
+			1,26%
+		
+		
+			22
+			IBM Microelectronics
+			2977
+			-6,15%
+			1,11%
+		
+		
+			23
+			Marvell Technology Group
+			2777
+			8,90%
+			1,03%
+		
+		
+			24
+			Analog Devices
+			2707
+			4,00%
+			1,01%
+		
+		
+			25
+			Rohm
+			2633
+			-8,64%
+			0,98%
+		
+		
+			
+			Egyéb
+
+			83027
+			0,76%
+			30,88%
+		
+		
+			
+			
+			
+			
+			
+		
+				
+			
+			Teljes
+			268905
+			3,28%
+			100,00%
+		
+	
+
+Forrás: iSuppli, 2008
+
+
+Az Intellel és NVIDIA-val folytatott ádáz küzdelemben visszaszorult az AMD, miután 21 százalékkal 6 milliárd dollárra esett vissza forgalma, így két hellyel a 10. pozícióit foglalta el tavaly. A vállalat gyakorlatilag minden területen, az x86- és grafikus processzorok, valamint az alaplapi chipsetek piacán is teret vesztett riválisaival szemben. Szintén nem biztató az IBM Microelectronicsra nézve, hogy forgalma 6 százalékkal zsugorodott, és alulról súrolta a 3 milliárd dollárt. Az IBM Micro stratégiai jelentõségû saját processzorainak versenyképessége szempontjából, a teljes gyártástechnológiai kontroll döntõ szerepet tölt be az olyan agresszív designok létrehozásában, mint amilyen a Power6 is.

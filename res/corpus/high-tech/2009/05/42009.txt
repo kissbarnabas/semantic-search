@@ -1,0 +1,35 @@
+IPv6 tartomány igényelhetõ az Externettõl, méghozzá ingyenesen
+
+A telkó tavaly augusztusban értesítette ügyfeleit, hogy kiesésekre számíthatnak hálózatfejlesztések miatt, amit a HWSW megkeresésére a cég a központi router frissítése magyarázott. A frissítést az IPv6 használatára történõ felkészülés indokolta, elsõ körben a hálózati gerincet kellett felkészíteni az új protokoll kezelésére, hogy többek közt a DNS rootszerverekkel natív IPv6 kommunikációt tudjon folytatni. A második fázisban a szolgáltató szervereket készítették fel, majd a harmadikban a hozzáférési rétegben található berendezéseket.
+Az Externet legalább fél évet csúszott a korábban ígértekhez képest, azonban így is élen jár az IPv6 hazai bevezetésében. Igaz, a Nemzeti Információs Infrastruktúra Fejlesztési Intézet, az akadémiai, kutatói és oktatói szféra internetszolgáltatója az IPv6 szolgáltatást 2003 óta kísérleti, 2006 év eleje óta pedig teljesértékû szolgáltatásként nyújtja az egyetemek és kutató intézetek számára, de az Externet lehet az elsõ meghatározó telkó, mely kereskedelmi szolgáltatásként kínálja a piacon.
+Az Externet ráadásul nem egyetlen IPv6 címet, hanem teljes tartományt ad ingyenesen, így akár a teljes háztartást el tudunk látni fix IP-címekkel. "Így többé már nem utópia az elképzelés, hogy minden háztartási eszköz (riasztó, biztonsági kamera, fûtés, világítás, wifi mobil eszközök, szórakoztató-elektronikai berendezések, de akár a hûtõgép vagy a kenyérpirító is) egyedi internetes hálózati azonosítót kapjon, és a világhálón kommunikálhassanak egymással, vagy éppen a több száz kilométerre lévõ szerverekkel" -- vázolta fel az ICT-ipar álmát Várkonyi Ádám, az Externet marketing igazgatója.
+Az IPv6 bevezetését a 32 bites IPv4 címtartomány szûkössége
+magyarázza. Különbözõ becslések 2010 és 2012 közé teszik a még
+rendelkezésre álló IPv4 címkészlet kimerülését, amire a konszenzus
+szerint az ésszerû választ az IPv6 bevezetése és az átállás megkezdése
+szolgáltatja. Az IDC szerint 2012-ben 17 milliárd eszköz fér hozzá
+majd az internethez, vagyis túlnyomó többségük nem férhet közvetlenül
+hozzá, csakis NAT mögül. Az IPv6 lehetõvé teszi majd, hogy praktikusan
+végtelen számú eszköz kerüljön IP-hálózatra statikus címmel, így
+például mobiltelefonok, beágyazott eszközök és szenzorok is korlátlan
+mennyiségben. A 128 bites címtartomány mellett az IPv6 számos további
+elõnnyel rendelkezik, így például támogatja a hatalmas csomagokat,
+integrált biztonsági képességeket és a routolást segíti lokális
+címekkel is, továbbá alapértelmezetten nem csak egyetlen, hanem több gép felé is képes címezni egyetlen csomaggal.
+
+Hogy érzékeltesse az IPv4 tartomány szûkölését, az Externet létrehozott weboldalán egy számlálót, mely az IP-címek fogyását mutatja. A vállalat szerint 770 nap múlva fogynak el az IPv-4 címek, ha a jelenlegi ütemet tartja felhasználásuk. Ezt azt jelenti, hogy ezt követeõn a igények nagy részét már csak IPv6-tal tudják kielégíteni, így egy kizárólag IPv6 tartományban megtalálható webszervert közvetlenül nem érünk el IPv4 internethozzáféréssel. Amennyiben addigra a világ nagyobb ISP-i nem vezetik be hálózatukon az IPv6-ot, elképzelhetõ, hogy a szerverek egy része szégyenszemre NAT-olt hálózatba kényszerülhet, ahogyan a mai kliensek egy jelentõs része.
+
+Az IPv6 egyáltalán nem számít újdonságnak, hiszen a legelsõ
+kereskedelmi implementáció az IBM AIX 4.3 formájában 1997-ben jelent
+meg, amit 2000-ben követett a Solaris, majd 2001-ben a CISCO IOS
+routerek és layer-3 switchek is támogatták már, alkalmazását azonban
+korábban semmi nem tette szükségessé. A Windows Vista
+alapértelmezettnek már az IPv6 címet veszi, így egy IPv6 és IPv4
+címmel egyaránt jelenlévõ számítógép esetében elsõként elõbbivel
+próbálkozik -- a DNS-kiszolgálók például az alapján döntik el, hogy
+IPv6 vagy IPv4 címet adnak válaszul feloldásként vissza, hogy milyen
+protokollon érkezik a kérés. Az IPv6 elõtt azonban még hosszú út áll,
+így a két címtartomány még sokáig párhuzamosan fog egymás mellett
+létezni. Felhasználói oldalról az IPv4-IPv6 átjárás és átállás
+észrevétlen marad ideális esetben, csomagolási és fordítási
+technikákkal a két rendszer átjárható.

@@ -1,0 +1,28 @@
+Kiszorulhatnak az alternatív szolgáltatók az ADSL-piacról
+
+A hazai vezetékes szélessávú piacon az úgynevezett "retail minus" árszabályozás mûködik, ami azt jelenti, hogy az ex-monopolszolgáltatók nagykereskedelmi árait a Nemzeti Hírközlési Hatóság a kötelezett
+szolgáltató által alkalmazott kiskereskedelmi árakból képzi. A Magyar Telekom azonban az utóbbi egy-másfél évben kijátssza a nem egyértelmû szabályozást azáltal, hogy forgalmi korlátos és korlátlan nagykereskedelmi csomagokat is kínál. Saját elõfizetõinek elsõsorban korlátlan csomagokat értékesít, az alternatív szolgáltatókat árazási technikákkal a forgalmi díjas konstrukciókra kényszeríti -- mondta Pórffy.
+
+Verseny helyett a túlélés a cél
+
+Ezeket a csomagokat az alternatívok átalánydíjas formában értékesítik tovább abban bízva, hogy az elõfizetõk nem forgalmaznak túl sokat. A YouTube és hozzá hasonló multimédiás szolgáltatások terjedése miatt az egy elõfizetõre jutó adatforgalom folyamatosan nõ, Pórffy szerint hónapról hónapra emelkedik azon elõfizetõk száma, akik veszteséget termelnek az alternatívoknak. A forgalmi díjas nagykereskedelmi konstrukció ráadásul lehetetlenné teszi az IPTV és más, nagy adatforgalmú, értéknövelõ szolgáltatások nyújtását az alternatívok számára.
+
+Sátor Csaba, az Interware vezérigazgatója is úgy véli, a Magyar Telekom árazása a forgalmi díjas csomagok felé tereli a hálózatát használó internetszolgáltatókat, egyre nehezebb helyzetbe hozva õket. A piacon az átalánydíjas csomagokat lehet csak eladni, így a megnövekedett forgalomból eredõ üzleti kockázatot elsõsorban az ISP-k viselik. Ezért az ISP-k ahelyett, hogy erõs értékesítési aktivitással fokoznák a versenyt az egyre terjeszkedõ kábeles szolgáltatókkal szemben, összes erõfeszítésüket arra koncentrálják, hogy megtartsák ügyfeleiket és nyereségesek tudjanak maradni. Az Interware vezére szerint a "retail minus" szabályozás problémája az ISP-k szempontjából nézve az "utófinanszírozás" is, hiszen az ebbõl adódó esetleges visszatérítést utólag juttatja vissza és ez a tõkeerõs alaphálózati szolgáltatókat hozza kedvezõbb helyzetbe az alternatív szolgáltatókkal szemben.
+
+Nem jó a szabályozás?
+
+Egyetért a GTS-Datanet stratégiai, termékfejlesztési és kommunikációs igazgatója is, Szép Tibor szerint sem megfelelõ a "retail minus" szabályozás, mivel kiskapukat hagy az inkumbensek számára, hogy
+az ISP-ket a forgalmi díjas csomagokra kényszerítsék, ezeket azonban a "retail minus" a legkisebb sávszélességû konstrukció kivételével nem szabályozza. A GTS-Datanet az alternatív szolgáltatók, az inkumbensek és az NHH összefogásával a szabályozás átalakítását sürgeti annak érdekében, hogy az a piaci gyakorlathoz jobban igazodjon, áttekinthetõbb és ellenõrizhetõbb legyen, eltûnjenek belõle a kiskapuk.
+
+
+"Nem értjük, hogy a Nemzeti Hírközlési Hatóság miért nézi tétlenül, hogy
+az általa alkotott szabályozást kijátszva a legnagyobb kötelezett szolgáltató büntetlenül milliárdos nagyságrendû károkat okozhasson az alternatívoknak" -- mondta a HWSW-nek Pórffy András. "Ez a folyamat több mint egy éve indult el, az ATSZE és az alternatívok már tavaly õsszel számtalan csatornán megkeresték a Hatóságot, piacfelügyeleti eljárás is indult, azonban az NHH máig semmilyen konkrét lépést nem tett az ügyben."
+
+Pórffy szerint az alternatív szolgáltatók ma a hazai szélessávú piacnak mintegy 15 százalékát adják és több mint 200 ezer ügyfelet szolgálnak ki.  Amennyiben azonban a helyzetet nem sikerül rövid idõn belül rendezni, az év végére nagy nevû internetszolgáltatók mehetnek csõdbe  vagy vonulhatnak ki a lakossági szegmensbõl -- véli az ATSzE alelnöke. Piaci szakértõk becslései szerint a Magyar Telekom DSL-hálózatán internetezõknek pár éve még több mint egyharmadát adták az alternatív szolgáltatók elõfizetõi, mára ez jelentõsen lecsökkent  a pontos számok üzleti titoknak számítanak. A trendek viszont egyértelmûen azt mutatják, az ADSL-piac az inkumbensek kezében koncentrálódik, akik ráadásul telefon- és IP-tévé szolgáltatást is tartalmazó ajánlataikkal még több ügyfelet tudnak elcsábítani az alternatív szolgáltatóktól.
+
+Bauer Róbert, az EnterNet vezetõje úgy véli, a Magyar Telekom betartja a "retail minus" szabályozást, igaz, korábban már volt példa ennek ellenkezõjére, azonban ezt a tévedést a Telekom késõbb beismerte, korrigálta. A mostani feltételek a legkisebb sávszélességû csomagok esetében valóban a forgalmi díjas konstrukció felé terelik a nagykereskedelmi partnereket, de az EnterNet vezetõje szerint a nagyobb csomagoknál a különbség nem jelentõs. A probléma inkább magával a szabályozással van, az EnterNet vezetõje szerint ezen még volna mit finomítani, jelenleg az alternatívok -- szabályozás hiányában -- például ki vannak zárva a Magyar Telekom optikai hálózatáról, egy másik súlyos hiányosságként pedig a kábeltévés szolgáltatók szabályozatlanságát emelte ki Bauer.
+
+A Telekom tagad, az NHH vizsgál
+
+"A Magyar Telekom álláspontja szerint nemcsak a forgalmi díjas, hanem a forgalomfüggetlen (átalánydíjas) csomagok is az internetszolgáltatók rendelkezésére állnak, amelyekre alapozva õk
+kialakíthatják versenyképes kiskereskedelmi ajánlataikat. Mindez az érvényben lévõ nagykereskedelmi szabályozásnak megfelelõen történik" -- tájékoztatta lapunkat a Magyar Telekom kommunikációs igazgatósága. A HWSW érdeklõdésére az NHH szóvivõje elmondta, jelenleg vizsgálat folyik az ügyben, amelyrõl nyilatkozni nem áll módjában.

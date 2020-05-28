@@ -1,0 +1,22 @@
+Árcsökkentés és új stepping elõtt áll a Core i7?
+
+[heise online/HWSW] Az Intel gyorsabb Core i7 processzort dob piacra a következõ negyedévben -- írja pletykákra hivatkozva a német Heise online IT-hírmagazin. A magasabb órajelet új szilíciumrevízió, vagyis stepping teszi lehetõvé. A csúcsteljesítményû modell bár keveseket mozgat meg, megjelenésével lejjebb kerülhetnek a jelenlegi Core i7-árak, többek számára téve megfizethetõvé az Intel legújabb generációs chipjét.
+
+
+
+Új stepping
+
+Az Intel hamarosan megkezdi a D0 szilíciumverziójú chipek szállításait, melyek a hibajavításokon túl várhatóan elektronikai optimalizációkat is magukkal hoznak, így csökken a fogyasztásuk, valamint magasabb órajel elérésére képesek adott energiakeretbõl. A német Heise online-on megjelent pletykák alapján az Intel egy magasabb órajelú, 3,33 gigahertzes Core i7-et dob piacra 975 Extreme Edition formájában, vagyis extrém terhelés esetén hõdisszipációja tartósan elérheti a 130 wattot (TDP).
+
+
+A pletyka hihetõségét rontja, hogy a 3,33 gigahertzes néveleges órajel mindössze 4 százalékkal magasabb a jelenleg elérhetõ legmagasabb, 3,2 gigahertzes frekvenciánál, és nem is illeszkedik a jelenlegi Core i7 sebességfokozatokhoz, ugyanis az egyes lépcsõk közt eddig 0,266 gigahertz különbség volt. Az új Extreme Edition modell jelentõsége azonban nem önmagában, hanem az alatta megtalálható modellek árazására kifejtett hatásában rejlik. Az Intel hagyományosan áprilisra ütemez egy átfogó árcsökkentést, de legutóbb például néhány hete olcsósította Core 2 Quad és néhány más termékeit.
+
+A Core i7-975 megjelenésével ugyanis az árlistában jó eséllyel egy teljes lépcsõvel lejjebb kerülnek a jelenlegi Core i7 processzorok, ami a 3,2 gigahertzes és 2,93 gigahertzes változatoknál lényegében az árak felére csökkenését jelentené, míg a 2,66 gigahertzes 920 közelebb kerülne a megfizethetõ kategóriához. A heise online úgy spekulál, hogy megjelenik a 3,2 gigahertzes órajel lekerül a mainstream termékvonalba, i7-960 jelöléssel. A Core i7 processzoroknál a normál és extrém változatok között egyedül a grafikus chiphez és perifériákhoz kapcsolodó QuickPath összeköttetés sebességében van különbség, a TDP-t az Intel eddig az alacsonyabb órajelõ modelleknél is lazára fogta, és egyöntetûen 130 wattban állapította meg -- ez a selejthányad leszorítását célozza.
+
+Rétegtermék
+
+Mindazonáltal nem várható, hogy az Intel a nagyméretû, és éppen ezért drágán gyártható négymagos Core i7 gyors és tömeges elterjesztésén igyekezne, legalábbis nem az árak drasztikus visszavágásával. Messze nem zárható ki annak az eshetõsége sem, hogy az új csúcsváltozat megjelenése érintetlenül hagyja a többi modell árazását. A vállalattól kiszivárgott prognózis szerint a Core i7 processzorok a harmadik negyedévben is még csak az asztali szállítások 2 százalékát teszik majd ki, ami mindössze havi néhány százezres volument sejtet. A Core i7 adoptációját a processzorok borsos, 70 ezer forintról induló ára mellett a drágább alaplapok is késleltetik, míg a memóriaárak alacsony volta miatt a DDR3 relatív drágasága többé nem meghatározó faktor. 
+
+[+]  Piacon a Nehalem - világrekord teljesítmény, egyelõre csak kevesek számára 
+
+A Core i7 chipek teljesítményére azonban szüksége sincsen a legtöbb felhasználónak, így indoka sem, hogy megfizesse a magasabb árat. A négymagos, magonként két utasításszál egyidejû futtatására képes chip a teljesítményre érzékeny, memóriaintenzív és megfelelõen párhuzamosított kódoknál képes fölényét kimutatni -- vagyis professzionális célú munkaállomás alkalmazásoknál, mint például a multimédiás tartalmak elõállítása és szerkesztése, CAD/CAM, szoftverfejlesztés vagy mûszaki-tudományos számítások. Játékra és egyéb hétköznapi szoftverek futtatására a Nehalem képességei tökéletesen feleslegesek. Az Európában eladott asztali PC-k éppen kevesebb mint 2 százalékát teszik ki a munkaállomások, becsli az IDC, összhangban az Intel kalkulációjával.

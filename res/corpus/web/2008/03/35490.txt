@@ -1,0 +1,24 @@
+Csak külsõ eszközökrõl indulva fedezhetõ fel a Mebroot rootkit
+
+[Techworld] Igen veszélyes rootkitre, eddig csak elméleti szinten létezõ, önmagát sikeresen elrejtõ rosszindulatú alkalmazásra figyelmeztetnek az internetbiztonsági cégek, többek között az F-Secure. A rootkit a merevlemez elsõ szektorairól, a master boot rekordról tölti be magát, még az operációs rendszer, vagy a merevlemezrõl indított víruskeresõ szoftverek elõtt, ezzel késõbb teljesen felfedezhetetlenné téve kódját és tevékenységét.
+
+
+
+MBR
+
+A Mebroot néven ismert rootkit a master boot rekorddal jó lóra tett, mivel az az elsõ, ami betöltõdik a merevlemezrõl a számítógép bekapcsolását követõen. A szoftver ezt követõen kiválóan rejtõzködik, nincs olyan szoftver, ami érzékelni tudná a rootkitet, maximum a számítógép viselkedésébõl sejthetõ, hogy "valami van" a háttérben. A rootkitek mélyen rejtõznek az operációs rendszerek alatt, nem egy esetben annak kernelében, így meglehetõsen nehezen észlelhetõk és távolíthatók el.
+
+Mikko Hypponen, az F-Secure kutatólaborjának vezetõje szerint december óta már több alfa- és bétaváltozatot észleltek a Mebrootból, melynek mostanra valószínûleg már a "végleges" verziója is elkészülhetett. A Mebroottal fertõzött számítógéppel lényegében azt tehet a rootkit tulajdonosa, amit csak akar, távolról akár további kártevõk telepítésére is rábírhatja az internetre kötött gépet, vagy egyszerûen spamek küldésére is felhasználhatja. Rootkitekkel rejtik el a billentyûleütéseket figyelõ alkalmazásokat is, melyekkel azonosítók és jelszavak kerülhetnek illetéktelen kezekbe.
+
+Még az F-Secure -- melynek nagy tapasztalata van a rootkitek felfedezésével, eltávolításával kapcsolatosan -- technológiája is csak sejteni képes, hogy egy Mebroot rootkit dolgozik a háttérben. A rosszindulatú szoftver ráadásul nem csak egyetlen állományból áll, hanem minden futó processzbe beinjektálja magát, ezzel is elfedve tevékenységét. Így a vírus- és rootkitkeresõ szoftverek nem képesek megkülönböztetni a normál programok akcióit a Mebroot ténykedésétõl.
+
+CD-rõl indítva
+
+
+A Mebroot jelenleg egyetlen módon észlelhetõ és írtható: a számítógépet pendrive-ról, CD-rõl, vagy hálózatról indítva elkerülhetõ, hogy a rootkit a merevlemez elsõ szektoraiból a memóriába töltõdjön, és ott elfedje magát, illetve forrását. A Mebroothoz hasonló rootkitek eddig csak elméletben léteztek, bár 2005-ben az eEye Digital Security bemutatott egy hasonló koncepciókódot, a BootRootot.
+
+Hypponen szerint akkoriban még azt hitték, egy ilyen kártékony kód megírása túlmutat a kártékony programokat készítõk technikai felkészültségén, képességein, a jelek szerint azonban tévedtek: a Mebroothoz hasonlóan fejlett rootkitek a böngészõk biztonsági résein keresztül a számítógépbe jutva, feltelepülve nagyobb veszélyt jelentenek a felhasználókra, mint eddig bármilyen hasonló kísérlet.
+
+A rootkitekkel fertõzött számítógépekbõl komoly méretû zombihálózatok építhetõk: a Marshal statisztikája alapján februárban a rootkitként is viselkedõ Srizbi trójaival készített zombihálózatból származott az általuk elfogott spamek 39 százaléka. A Symantec szerint a Srizbi jó eséllyel az elsõ olyan trójai, mely teljes egészében a kerneltérben fut, beleértve a spamküldést is, amit az NDIS és TCP/IP drivereken keresztül ér el.
+
+A Srizbi ezzel minden aktivitástát képes elrejteni, így a tûzfalak sem fogják meg. Ma már teljesen megszokott dolog az is, hogy a rivális csapatok egymást támadják, így a Srizbi ennek megfelelõen specifikusan kutat más rootkitek és trójaik után, hogy letörölje azokat. A trójai ezenkívül részletes statisztikákkal látja el gazdáit az irányító szervereken keresztül, hogy milyen hatásfokkal dolgozik.

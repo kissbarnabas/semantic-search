@@ -1,0 +1,73 @@
+Mentés másként: System Center Data Protection Manager 2007
+
+A biztonsági mentések területén mintha lassabban járna az idõ. Úgy tûnik, mintha az üzemeltetéssel foglalkozó szakemberek axiómaként elfogadták volna, hogy a biztonsági mentések készítésének kizárólagos ideje az éjszaka, a mentések hordozója pedig kizárólag mágnesszalag lehet.
+
+
+
+A következõ írásban arra szeretnénk rávilágítani, hogy ez sokkal inkább beidegzõdés és kényszerûen kötött kompromisszum, mint axióma. A Microsoft System Center termékcsalád részeként érkezõ Data Protection Manager 2007 pedig egyenesen ösztönöz arra, hogy felülvizsgáljuk a megkövesedett mentési gyakorlatot és egy rendkívül rugalmas rendszerrel váltsuk fel. Az elsõ mondatokat olvasva felmerülhet a kérdés, hogy mi is a gond az eddig olyan jól bevált mentési megoldásokkal. A teljesség igénye nélkül lássuk csak a három legfontosabbat:
+
+Megbízhatóság
+
+A megbízhatósággal kapcsolatban kétféle kétség merül fel. Az elsõ kérdéskör technológiai jellegû, hiszen a szalagos egységek a jelentõs technológiai fejlõdés ellenére egy nagyjából ötvenéves mûködési elven alapulnak. A technológiai sajátosságokból adódóan a helyreállítás sikeressége függhet például az egyes egységek beállításától, kopottságától. Ráadásul ezek a meghajtók nagyszámú mozgó alkatrészt (görgõk, szalagvezetõk, befûzõ mechanikák, szervómotorok) tartalmaznak, amelyek jelentõsen csökkentik a meghajtók MTBF (Mean Time Between Failure) mutatóit.
+
+A Microsoftnál üzemelõ szalagos egységek például a szakszerû üzemeltetés mellett is 17 százalékos meghibásodási arányt mutatnak éves szinten. A merevlemezek meghibásodási mutatói manapság ennél már lényegesen jobbak, nem is beszélve arról, hogy az egy gigabájtra vetített beszerzési költségük is sokkal alacsonyabb, még akkor is, ha hibatûrõ rendszerbe szervezzük õket. És akkor még nem is beszéltük arról, hogy javításuk, cseréjük mennyivel egyszerûbb és gyorsabb, mint a szalagos egységeké, márpedig az idõ az IT világában is egyre jobban mérhetõ forintban vagy más tetszõleges pénznemben.
+
+A megbízhatósággal kapcsolatos másik kérdés az üzemeltetési gyakorlathoz kapcsolódik. Annak ellenére, hogy a legtöbb mentési szoftver felkínálja a mentések visszaellenõrzésének lehetõségét, a legtöbb esetben ezt a funkciót kikapcsoljuk, és jóhiszemûen arra hagyatkozunk, hogy a technika bizonyára precízen elvégzi majd a feladatát. Az ilyen döntéseknek leggyakrabban az idõtényezõ az oka, de errõl a következõ pontban még részletesen szó lesz. Az ellenõrzések kihagyásának következményeivel majd csak akkor szembesülünk, amikor teszt vagy éles visszatöltés során olvashatatlan szalagokkal találkozunk, vagy éppen magáról a meghajtóról derül ki, hogy nemcsak most nem olvas, hanem hosszabb ideje nem is ír.
+
+A mentési ablak beszûkülése
+
+A legtöbb vállalatnál a biztonsági mentéseket erre a célra fenntartott idõszakban készítik ("backup window"). A mentés idejére kicsit megáll az élet, korlátozzuk az alkalmazások futását, leállítunk üzleti folyamatokat és szolgáltatásokat, hogy ezzel is elõsegítsük a mentések sikeres lefutását. Ez a megközelítés egy ideig teljesen mûködõképes lehet, de ahogy a vállalat egyre jobban épít a számítástechnika által nyújtott szolgáltatásokra, és ahogy a mentendõ adatmennyiség (egyébként egyre gyorsabban) növekszik, úgy nõ az esélye annak, hogy a mentéseket már nem tudjuk elkészíteni a rendelkezésünkre álló idõben.
+
+Átmenetileg persze kezelhetjük a problémát a visszaellenõrzés kikapcsolásával, a teljes mentések ritkításával, a folyamatok párhuzamosításával, de végül szembe kell néznünk azzal, hogy mindenképpen kifutunk az idõbõl.
+
+A szolgáltatáskiesés költsége
+
+Különösebb közgazdasági okfejtések nélkül is belátható, hogy a komputerizáció elõrehaladtával a vállalatok informatikai függõsége növekszik. Vállalatunk, ügyfelünk piaci versenyben való helytállása tehát (egyre kevésbé) közvetett módon függ az informatikai háttértõl és szolgáltatásoktól, amit alkalmazottként vagy partnerként nyújtunk a számára. A helyzet egyenes következménye, hogy az informatikai szolgáltatások akár csak részleges kiesése komoly veszteségekkel járhat; ezért minden vállalat és szolgáltató érdeke az ilyen esetek elkerülése vagy legalább csökkentése.
+
+Ezen a ponton viszont szembesülnünk kell azzal, hogy magas rendelkezésreállás (vagyis a kiesés elkerülése) csak magas költségekkel biztosítható, míg a helyreállítási idõ csökkentése technológiai okok (szalagos meghajtók sebessége) miatt nem lehetséges. Mielõtt az ördögi kör teljesen ránk záródna ideje tehát, hogy feladva a jól megszokott technológiákat és eljárásokat valami új megoldás után nézzünk, amivel teljesíteni tudjuk az egyre növekvõ elvárásokat. Ha pedig eközben olyan eszközre bukkanunk, ami a fentieken túl még az üzemeltetési folyamatokat is egyszerûsíti, akkor mindenképpen eljött a váltás ideje.
+
+Az új versenyzõ
+
+Az elsõ tapasztalatok alapján a System Center Data Protection Manager 2007 jó eséllyel indul a különféle "alternatív" mentési megoldások versenyében. Aki figyelemmel kíséri a Microsoft portfólióját, az emlékszik arra, hogy hasonló néven egy 2006-ból keltezett termék is létezik; tudásban azonban az inkább csak vázlat vagy elõtanulmány a napokban a TechEd IT Forumon bejelentésre került új változathoz képest.
+
+Az új változat például teljes mértékben támogatja a 64 bites platformokat, míg a korábbival (legalábbis az SP1 elõtt) csak 32 bites rendszereket menthettünk, sõt maga a DPM is létezik és telepíthetõ 64 bites változatban. A korábbi rendszer közvetlen módon csak a fájlrendszer adatait volt képes menteni, az Exchange és SQL adatbázisokat a hagyományos módon fájlba kellett menteni (natív eszközzel, vagy ntbackup-pal), mielõtt a DPM gondjaiba vehette õket (lásd a 909644 számú tudásbázis cikket).
+
+A DPM 2007-ben új fogalomként jelenik meg az Application Protection, amin az Exchange és SQL adatbázisok, a SharePoint farmok és Virtual Serveren futó virtuális gépek közvetlen védelmét kell érteni. Gondoljuk végig kicsit mélyebben a listát és látni fogjuk, hogy egy átlagos Windows alapú infrastruktúrából alig marad ki valami:
+
+
+fájlrendszer;
+System State (benne a registry, az Active Directory, a tanusítványtár, az IIS metabase stb.);
+Exchange adatbázisok;
+SQL adatbázisok;
+Sharepoint farmok;
+virtuális gépek (VHD fájlok)
+
+A sokoldalú alkalmazhatóság technológiai háttere az árnyékmásolatok széleskörû és intenzív használata, ami lehetõvé teszi, hogy adatbázisokat és nyitott fájlokat pillanatfelvételszerûen mentsünk. Ez a technológia az adatbázisok tranzakciós rendszerével és diszkalapú adattárolással ötvözve soha nem látott hatékonyságú mentési/helyreállítási rendszert biztosít.
+
+
+
+Alapfogalmak
+
+Itt érdemes néhány szót ejteni a szoftverhez kapcsolódó új szakkifejezésekrõl, mert a belsõ mûködés &#8211;akármennyire egyszerû is   csak ezek megértése után válik nyilvánvalóvá. Minden adatmentés alapja egy kezdeti másolat (Initial Replica vagy Baseline Initial Mirror). Ekkor a DPM gyakorlatilag lemásolja a védendõ adatokat legyen az egy megosztás, a System State, Exchange vagy SQL adatbázis(ok), virtuális diszk (VHD) fájl vagy a Sharepoint esetében fájlok és adatbázisok sajátos keveréke. Természetesen ezek a kiinduló mentések is árnyékmásolat technológiával készülnek, így nem szükséges az adatbázisokat vagy bizonyos szolgáltatásokat leállítani.
+
+A kezdeti és a ráépülõ további mentések az általunk választott mentési stratégiának megfelelõen kerülnek elhelyezésre. A rövidtávú védelmi stratégia esetén (és általában is) az elõnyben részesített cél a kiszolgálónk merevlemeze vagy egy SAN-on található logikai meghajtó. Ebben az esetben beszélünk disk-to-disk vagy röviden D2D stratégiáról. A hosszútávú stratégiát választva kapjuk a "klasszikus" szalagos mentési lehetõségeket, ilyenkor azonban számítsunk arra, hogy a visszaállítás rugalmassága korlátozottabb lesz. Ez a disk-to-tape vagy D2T megoldás. Ha teljeskörû védelmet szeretnénk, akkor természetesen a két módszert ötvözhetjük is, és ekkor disk-to-disk-to-tape mentéseket készíthetünk (D2D2T), amivel már komoly audit elvárásoknak is eleget tudunk tenni.
+
+Az alkalmazások mentésénél találkozunk még az Express Full mentéssel, ami gyakorlatilag az élõ adatbázis és a replika rendszeres újraegyeztetését jelenti. A rendszer ilyenkor meggyõzõdik arról, hogy a kezdeti másolatból, az árnyékmásolatokból és a tranzakciós logokból felépített szintetikus mentés valóban egyezik-e az élõ rendszeren futó adatbázis példánnyal és szükség esetén javítja az eltéréseket, majd ezt az egyeztetett példányt használja a további mentések alapjául.
+
+	     
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                    A cikk több oldalból áll:
+                    
+                    
+                        1. oldal: Mentés másként: System Center Data Protection Manager 2007
+                      
+                        2. oldal: Vágjunk bele!
+                        
+                    
+                  

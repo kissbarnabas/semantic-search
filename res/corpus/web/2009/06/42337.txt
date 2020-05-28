@@ -1,0 +1,19 @@
+Elkészült a Firefox 3.5 kiadásra jelölt változata
+
+A kiadásra jelölt változat egy héttel a legutóbbi, szûk tesztelõi kör számára kiadott 3.5 "Preview" után érkezett meg -- akkor csak a legutóbbi, negyedik bétát használó felhasználók tudták frissíteni a böngészõt. A Mozilla weboldalán egyelõre nem helyezett el letöltési linket az RC1-es tesztverzióhoz (innen továbbra is csak a negyedik bétát lehet letölteni), a honlapon található információk alapján valószínûsíthetõ, hogy a Firefox 3.5 RC1 kódja egyezik a múlt héten kiadott Preview verzióval.
+Az új tesztváltozat kapcsán konkrét változásokról nem ír a Mozilla,
+mindössze annyi derül ki a rövid leírásból, hogy a Firefox 3.5 RC1
+stabilabb lett a korábbi tesztváltozatoknál, több hibát kijavítottak az
+új, TraceMonkey nevû JavaScript-motorban és a privát böngészési funkcióval kapcsolatban. Bár a fejlesztõk hangsúlyozzák, hogy a Firefox
+3.5 RC1 továbbra is tesztváltozat, a böngészõ ettõl függetlenül
+alkalmas akár mindennapi használatra is. Aki úgy dönt, hogy frissít a legújabb tesztverzióra, jó ha felkészül rá, hogy több kiegészítõ nem kompatibilis még az új verzióval.
+A Firefox 3.5 fejlesztése elsõsorban az új, korábbinál gyorsabb
+JavaScript-motorral kapcsolatos fejlesztések elhúzódásának köszönhetõen
+tart jóval tovább a vártnál. A Mozilla október közepén adta ki a
+böngészõ elsõ bétáját, december közepén pedig a másodikat. A harmadik
+bétaváltozat megjelenését eredetileg január közepére datálták, de csak
+két hónap csúszással jelenhetett meg, A negyedik béta április végén készült el. Azt egyelõre nem tudni, hogy készül-e újabb kiadásra jelölt verzió a böngészõbõl. Az új Firefox
+végleges
+változata az eredeti tervek szerint az elsõ negyedévben jelent volna
+meg.
+A Firefox 3.5 RC1 egyelõre csak a Mozilla FTP-szerverérõl érhetõ el.

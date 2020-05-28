@@ -1,0 +1,14 @@
+NVIDIA: túlmelegedõ mobil grafikus chipek és chipkészletek
+
+Szabadesésbe kezdtek az NVIDIA részvényei tegnap, miután a vállalat bejelentette, hogy egyes, notebookokba szánt grafikus chipjei és chipkészletei a tokozáshoz használt anyag hibája miatt túlmelegedhetnek. A vállalat a július 27-én véget érõ negyedévben 150-200 millió dolláros egyszeri költséget kell elkönyveljen emiatt.
+
+
+
+Jen-Hsun Huang elnök-vezérigazgató szavaiból annyi derül ki, hogy a problémát GPU által termelt hõ okozza, illetve a változó terhelés, amelynek nyomán a grafikus chip vagy a chipkészlet hõmérséklete folyamatosan változik. Ezeket a tokozáshoz használt anyag nem tolerálja. Az NVIDIA elnök-vezérigazgatójának bejelentése alapján a hiba kísértetiesen hasonlít az Xbox 360 grafikus processzorának "három vörös LED" hibájára, amelyet a változó hõterheléstõl megrepedõ forrasztás okoz.
+
+Az NVIDIA 150-200 millió dolláros egyszeri költségre számít a notebook GPU-k és chipkészletek hibájával kapcsolatos garanciális javítások és cserék miatt. A vállalat nem részletezte, mely termékeket érintheti a probléma: nem ismert az sem, hogy milyen grafikus chipekrõl és chipkészletekrõl van szó, és az sem, hogy ezeket melyik notebookokba szerelték. Az NVIDIA befektetõi a hír hallatán fejvesztett menekülésbe fogtak, a tõzsdei kereskedést követõ órákban a cég papírjai több mint 20 százalékot zuhantak.
+
+
+ Huang szerint az NVIDIA tanult az esetbõl és a tapasztalatok birtokában a jövõben még strapabíróbb termékeket gyárthat majd. A vállalat átállt egy másik anyagra a tokozásnál, emellett olyan szoftverek fejlesztésébe fogott, amelyek segítségével jobban kordában tartható a grafikus chipek hõtermelése.
+
+Az idei második pénzügyi negyedévben az NVIDIA 875-950 millió dolláros bevételre számít -- a tavalyi év azonos idõszakában 935 millió dollár folyt be, az idei elsõ negyedévben pedig 1,15 milliárd dollár. Elemzõk 1,1 milliárd dollár körüli bevételt vártak a második negyedévre. A vállalat szerint a  gyengébb elõrejelzés oka a világszerte tapasztalható keresletcsökkenés, egy új chipkészlet sorozatgyártásának késése, valamint a grafikus chipek árcsökkentése a kompetitív pozíció megõrzése céljából.

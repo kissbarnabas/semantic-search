@@ -1,0 +1,38 @@
+Felrúgta szerverpiaci terméktervét az AMD, új mikroarchitektúra sehol sincs
+
+Az alig néhány hónappal ezelõtt prezentáltakhoz képest felrúgta szerverpiaci terméktervét az AMD, mely lépéssel egyszerre ismerte el baklövéseit, és próbált egy kiszámíthatóbb, hitelesebb jövõt felrajzolni -- a vállalat ennek érdekében láthatóan feláldozott rövidtávú versenyképességébõl.
+
+
+
+2009: Shanghai és Instanbul
+
+A decemberi elemzõi konferencián bemutatott AMD-termékterven még 2009 elejére idõzítve szerepelt egy nyolcmagos Opteron processzor, Montreal kódnéven. A Montreal vélhetõen két négymagos chipbõl épült volna fel, tekintve a 45 nanométeres csíkszélességû gyártástechnológia alkalmazását, mellyel a monolitikus felépítés tömegtermelésre gazdaságtalanul nagy lapkaméretet eredményezne, valamint az AMD mérnöki erõforrásainak korlátoltságát. A Montreal egyúttal új infrastruktúrát és platformot is jelentett, a Socket F foglalatot a G3 váltotta volna, melynek fõbb jellemzõi a DDR3 memória és akár 4 koherens HyperTransport 3 link támogatása. A törölt Piranha kódnéven ismert platform az Opteron processzorok mellett AMD chipseteket és Radeon grafikus chipeket is felölelt.
+
+A Montreal és a Piranha azonban eltûnt a legfrissebb terméktervekrõl, helyette 2009 második felében érkezik a monolitikus hatmagos Istanbul, 45 nanométeres gyártástechnológiával. A Barcelonával megismert 10h mikroarchitektúra egy revíziójának tekinthetõ hatmagos, 6 megabájt L3 cache-t implementáló Istanbul a jelenlegi Socket F infrastruktúrába egy egyszerû BIOS-frissítéssel beilleszthetõ, ami nemcsak az ügyfelek számára teszi lehetõvé meglévõ szervereik továbbfejlesztését, hanem az AMD alaplapgyártó és szerverszállító partnerei is minimális befektetéssel, ráadásul gyorsan tudják majd új termékeiket piacra vinni. Istanbulból kizárólag két- és négyutas szerverekbe szánt Opteronok készülnek.
+
+2010: Sao Paulo és Magny-Cours
+
+Randy Allen, szerver- és munkaállomás termékekért felelõs alelnök elmondása alapján a 2009 második felében termelésbe kerülõ Istanbul egyértelmûen egy alacsony kockázatú, költséghatékony "sebtapasz", mielõtt 2010-ben megérkeznek az új platformra épülõ Opteronok. A G34 jelölésû foglalatot alkalmazó Maranello platform valószínûleg a törölt Piranha egy közeli leszármazottja, ugyanazokat a chipseteket és fõ képességeket foglalja majd magába. Allen elmondta, hogy a 2010 elsõ felére idõzített Maranello már az I/O virtualizációját és PCI Express 2.0 bõvítõsíneket is támogat majd.
+
+
+A Maranellóban helyet foglaló, Magny-Cours kódnéven ismert Opteron 12 processzormagot hoz magával, melyek minden jel szerint továbbra is a Barcelonával megismert mikroarchitektúra kissé csiszolt továbbfejlesztett változatára épülnek. A 45 nanométeres gyártástechnológia okán a Magny-Cours szinte biztosan moduláris felépítésû, vagyis a 12 magos processzort két darab hatmagos chip teszi ki, melyek Sao Paulo kódnéven önállóan is piacra kerülnek. A Sao Paulo és a Magny-Cours 4 koherens HT3 összeköttetést, DDR3 memóriát, az adatkoherencia forgalmát csökkentõ, és ezzel a rendszer teljesítményét növelõ fejlesztést is felvonultat néhány további apró finomítás mellett.
+
+Némi, ugyanakkor egyértelmûen pozitív változás történt a közeljövõre vonatkozó termékterven is. A jelenleg felfutás alatt álló Barcelona, és az ebben a negyedévben az Opteron 1300-as sorozatban megjelenõ Budapestet követõ, már 45 nanométeres Shanghai az eredeti terveknek megfelelõen mégis kap koherens HT3 linkeket, ami javít a többutas rendszerek teljesítményén azt ezt kiaknázni képes alaplapokon. A Shanghai 2 helyett 6 megabájt L3 cache-t alkalmaz, így a Barcelonához képest kétszer annyi gyorsítótárral rendelkezik összesen.
+
+
+
+A teljesítményéhes területekre immár DDR2-800 memóriát is támogat a Shanghai, így 10 százalékkal növekszik nagyjából az effektív sávszélesség, míg a fejlettebb gyártástechnológiának köszönhetõen magasabb órajelek érhetõek el, és akár 20 százalékkal is csökkenhet a processzorok fogyasztása üresjáratban. A Barcelona C-revíziójának tekinthetõ Shanghai érkezése év végére várható kettõ- és négyutas rendszerekbe, míg az egyutas Suzuka felbukkanása 2009 második negyedévében esedékes.
+
+Ordító hallgatás
+
+Nem csak az beszédes azonban, milyen termékek kerültek fel a terméktervre a korábbiakhoz képest, hanem az is, hogy mi hiányzik onnan. Annak ellenére, hogy immár 2010-ig tekintünk ki, továbbra sem látható jelentõs mikroarchitekturális fejlesztéseket megvalósító új mag. Ez nem jelent mást, minthogy az AMD lényegében a 2010-ben is az 1999-ben debütált K7 mikroarchitektúra egy erõteljesen kibõvített és felturbózott változatát használja majd, és a K8 2003-as megjelenése óta nem tudott jelentõs elõrelépést felmutatni, ami a chipfejlesztések menedzselésének súlyos problémájára mutat rá -- a jelenlegi változtatásokat is az új fejlesztések elmaradása magyarázza.
+
+ Az AMD hároméves elõnye, mire az Intel érdemben reagálni tudott a fenyegetésre, lényegében mára ugyanekkora hátránnyá dagadt ennek eredményeként -- a  dicstelen utat halkan törölt fejlesztési projektek sorozata kövezi. A szerverpiacon az AMD jelenleg rendszerarchitekturális elõnyével képes ellensúlyozni az Intel nyilvánvaló mikroarchitekturális fölényét, így a tipikusan memóriaintenzív szerverfeladatok nagy része alatt kettõ- és négyutas rendszerekben az Opteronok felveszik a versenyt -- a Allen a konferenciahívás nagy részét a Barcelona versenyképességének bizonygatásával töltötte, állítása szerint a virtualizáció terén egyértelmû fölényt élveznek.
+
+Ez a status quo azonban már fél évig sem tart ki, ugyanis az év vége felé érkezik az Intel elmúlt évtizedének legjelentõsebb fejlesztése -- lecseréli a már kiszolgált buszrendszerét, és az AMD Direct Connect Architecture-höz hasonló pont-pont processzor-összeköttetéseket és integrált memóriavezérlõt vezet be. A Nehalem kódnéven ismert projekt alatt ráadásul a Core mikroarchitektúrát is tovább erõsítette az Intel, aminek fókuszában a szerverfeladatok álltak, kiemelten a szimultán többszálú végrehajtás, ennek is köszönhetõ a HyperThreading ismételt megjelenése.
+
+[+] Kíméletlenül erõs processzornak ígérkezik az Intel Nehalem
+
+Az új mag mellett hiányoznak 2010-bõl a 32 nanométeres eljárással készült chipek is az AMD terméktervébõl, igaz itt felmerül annak a lehetõsége, hogy azok nem a szervereknél bukkannak fel elõször, ez ugyanakkor szokatlan lenne a cég eddigi gyakorlatához képest -- gazdasági és mûszaki oldalról azonban ésszerû magyarázat lehet. Az AMD 2008 második felében vezeti be a 45 nanométeres gyártástechnológiáját, és az így készült Shanghai és Deneb processzorok várhatóan a negyedik negyedévben válnak elérhetõvé, egy évvel az Intel 45 nanométeres termékeit követõen -- ezzel pedig nem sikerül az AMD eredeti elképzelése a gyártástechnológiai lépéshátrány csökkentésérõl.
+
+Az AMD tehát továbbra sem tud válaszolni az Intel kíméletlen ütemû fejlesztéseire, ezért a rövidtávú versenyképesség (Montreal) rovására inkább középtávon igyekszik az Intel elé ugrani hat- és tizenkétmagos processzoraival. A kisebbik processzorgyártó számításai valószínûleg arra épülnek, hogy az Intel az Istanbul és a Sao Paulo/Magny-Cours magasságában négy-nyolcmagos termékekkel rendelkezik majd, így a másfélszer több processzormag elegendõ lehet az Intel mikroarchitekturális fölényének és a HyperThreading ellensúlyozására. Bárhogy is legyen, az elkövetkezõ egy év rendkívül kritikus lesz a stratégiai transzformáció alatt álló AMD, így az egész számítástechnikai ipar hosszútávú jövõje szempontjából.

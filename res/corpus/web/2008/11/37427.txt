@@ -1,0 +1,15 @@
+Bárki kipróbálhatja a SkyFire mobilos böngészõt
+
+Eddig csak amerikai vagy kanadai mobiltelefonszámmal rendelkezõ felhasználók tölthették le és próbálhatták ki a vadonatúj Skyfire mobilböngészõ bétaváltozatát, mostantól azonban bárki elérheti.
+
+
+
+A SkyFire fejlesztõi nem kevesebbet ígérnek, mint a PC-n megszokott böngészési élményt a mobilon, beleértve a Flash vagy Silverlight  animációkat, AJAX-alapú oldalakat, videókat vagy akár zenéket, vagyis a felhasználók pontosan ugyanazokhoz a tartalmakhoz férhetnek hozzá a telefonjuk kijelzõjén, mint amiket a PC monitora elõtt ülve megszoktak. Természetesen a kijelzõ kisebb felbontása miatt továbbra is kompromisszumokat kell kötni, de nem annyit, mint amennyit a weboldalak "mobil" változatainak böngészésekor.
+
+
+
+
+
+ A SkyFire egyelõre a 0.85-ös verziónál tart, a szoftver Symbian OS, Windows Mobile 5 vagy Windows Mobile 6 operációs rendszert futtató készülékeken fut -- utóbbiak közül azonban pont a szokásosnál nagyobb képfelbontást biztosító,  "szélesvásznú" kijelzõvel rendelkezõ változatok (pl. HTC Touch HD, Sony Ericsson Xperia X1) nem támogatottak. 
+
+A korlátlan adatforgalmat kínáló adatcsomagok, az egyre nagyobb lefedettségek, a növekvõ 3G adatátviteli sebességek és az egyre nagyobb felbontású képernyõk, egyre barátságosabb kezelõfelületek mind elõsegítik a mobilos böngészés térhódítását. Az ABI Research nemérgiben készült tanulmánya szerint a teljesértékû böngészõvel rendelkezõ mobilkészülékek piaca a 2008-as 130 millióról 530 millióra növekedhet 2013-ig.

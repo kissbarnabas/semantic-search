@@ -1,0 +1,12 @@
+A kedvezõtlen gazdasági helyzet a szabad szoftverek malmára hajtja a vizet
+
+A nyílt forrású szoftverekkel foglalkozó vállalatokat és szervezeteket tömörítõ Open Solutions Alliance felmérése szerint a kedvezõtlen gazdasági körülmények között a nadrágszíjat összehúzó vállalatok a korábbinál többet fognak költeni nyílt szoftverekre, a jelentõs licencköltség-megtakarítás miatt.
+
+ 
+
+A nyílt forrású szoftverek legfõbb vonzereje továbbra is a relatív olcsóságuk, a válaszadók 78 százaléka szerint ez az elsõ számú tényezõ, amely mellettük szól. Emellett fontos szerepet játszik a gyártófüggetlenség, de a kód hozzáférhetõsége és a megváltoztathatósága már csak kevesebbeket érdekel. A terjedés legfontosabb hátráltatójának a nyílt forrás körüli jogi kérdéseket, valamint a szállítók életképességét látja a piac, de sokan aggódnak a támogatás és a biztonság miatt is. 
+
+A szabad szoftverek hívei gyakran ellenérzésekkel viseltetnek a Microsoft iránt, az igazság azonban az, hogy az ilyen szoftverek 91 százaléka vagy eleve Windowson fut, vagy pedig Microsoft-termékhez kapcsolódik. Az OSA által megkérdezett vállalatok, szervezetek több mint fele aktív partneri kapcsolatot ápol a Microsofttal. A szabad szoftverek világában egyébként a partneri kapcsolatoknak fokozott jelentõségük van, erre utal legalábbis, hogy a cégek 97 százaléka ápol partneri kapcsolatot más, nyílt forrásban utazó cégekkel, amely a legtöbbször viszontértékesítést vagy közös értékesítést takar.
+
+
+ A nyílt forrású szoftverek nem meglepõ módon az infrastruktúra terén járnak az élen, a válaszadók 47 százaléka szerint már "mainstream"-nek számítanak, míg a nyílt forrású alkalmazások esetében csak a megkérdezettek 20 százaléka vélekedett így.

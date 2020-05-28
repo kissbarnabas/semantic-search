@@ -1,0 +1,12 @@
+IDF: az Intel elvenné a notebook-tolvajok kedvét a lopástól
+
+Az Intel Developer Forumon elhangzottak szerint a világ legnagyobb chipgyártója PC-gyártókkal, BIOS-fejlesztõkkel és biztonsági cégekkel karöltve egy olyan technológián dolgozik, amely a notebookok ellopásától venné el a tolvajok kedvét. Az egyelõre fejlesztés alatt álló, kevéssé részletezett Intel Anti-Theft Technology (ATT) lényege, hogy a notebook alkatrészeinek mûködését egy jelszóhoz kötné, anélkül a gép használhatatlanná válik.
+
+
+
+Egyelõre kevés részlet látott napvilágot az Intel Acitve Management Technology-n alapuló, a Centrino Pro platform részeként érkezõ ATT-rõl, mindössze annyit tudni, hogy a technológiával az Intel célja, hogy elvegye a tolvajok kedvét a gépek ellopásától. Ma is vannak olyan megoldások, amelyek jelszóhoz kötik a gép indulását, az operációs rendszer betöltõdését vagy a lemezhez való hozzáférést, de ezek mindannyian megkerülhetõk így vagy úgy, és például a titkosított merevlemez cseréje és a BIOS átírása után mûködésre bírt notebook már eladható a feketepiacon. 
+
+
+Ezen hivatott segíteni az ATT, amely teljes hardveres védelmet kínál majd nem csak a tárolt információknak, hanem maguknak az alkatrészeknek is, így az ellopott noteszgép legfeljebb színesfémként lesz eladható az Intel ígérete szerint. Dadi Perlmutter, az Intel Mobility Group vezetõje elmondta, a fejlesztés során arra is gondoltak, hogy az ATT technológiát akár nyomkövetõvel is ki lehessen egészíteni, így az ellopott gépeket meg lehet találni. 
+
+Az ATT várhatóan a negyedik negyedévre készül el végleges formájában, de hogy mikor mutatkozhat be a noteszgépekben, azt egyelõre még nem tudni, valószínûleg a Centrino hatodik generációjában, a 2009 közepén érkezõ Calpellában láthatjuk elõször.

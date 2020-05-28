@@ -1,0 +1,22 @@
+Óvatosan az adatok titkosításával, a saját kardunkba dõlhetünk!
+
+[Techworld] Újabb veszélyekre, támadási lehetõségekre figyelmeztetnek a biztonsági szakértõk: az IBM Internet Security Systems, a Juniper, az nCipher szakemberei szerint az adatok titkosítása újabb veszélyeket rejthet magában, újabb támadási felületet nyújthat a cégek ellen. Egyre több vállalat védekezik adatai lopása, elvesztése ellen titkosítással, õk azonban könnyen saját kardjukba is dõlhetnek.
+
+
+
+Támadási felület
+
+Az adatok titkosítása komoly veszélyeket rejthet magában, hasonlóan ahhoz, ha egy törhetetlen széf kulcsa elveszik: a titkosító kulcsokat menedzselõ rendszer sérülése, esetleg megtámadása, tönkretétele esetén visszafejthetetlenek lesznek adataink, akár az egész merevlemez tartalma. Egy ilyen baleset, vagy szándékolt esemény hosszú idejû és rendkívül fájdalmas -- könnyen összegesíthetõ kárt -- okozhat.
+
+A veszélyt fokozza, hogy számos vállalatnak teljesen új, idegen terület az adatok ilyen mélyszintû titkosítása, fõleg komplett adatrendszerek, merevlemezek titkosítása, és ezek kezelése. A mai algoritmusok többsége ráadásul olyan erõs, hogy a kulcspár elvesztése esetén az adataink valóban elvesztettnek tekinthetõk, gyakorlatilag visszafejthetetlenek.
+
+
+A titkosításból származó veszélyekkel azonban nem csak a vállalatok szembesülhetnek, felfigyeltek a lehetõségre a "rosszfiúk" is. Könnyen belátható, hogy a jövõben támadások érhetik a titkosító kulcsokat kezelõ rendszereket, infrastruktúrákat, egy-egy cég akár zsarolható is lesz a megszerzett, módosított kulcsoknak köszönhetõen. A szakértõk szerint ez egy újabb "osztálya" lehet a DoS, túlterheléses támadásoknak, azonban túltherhelés nélkül.
+
+A Seagate merevlemeze önállóan is képes titkosítani az adatokat
+
+Maga a titkosítás is támadható
+
+Sokszor maga a titkosítás is támadható: a Microsoft nemrég ismerte el, hogy a Windows XP-be épített pszeduo-véletlenszám generátor (PRNG) is támadható. A Windows 2000 és a Windows XP a pszeudo-véletleszámokat használja fel a titkosítási kulcsok létrehozásához. A generátor egy számsorozatot hoz létre, amely nagyon hasonlatos a véletlenszámok sorozatához, ám valójában nem teljesen véletlenszerû, néhány elõre beállított paraméter alapján megismételhetõ a sor.
+
+Izraeli diákok rájöttek, miként lehet a várható titkosítási kulcsokat megjósolni, illetve akár a korábban létrehozottakat újra elõállítani -- ezáltal bármilyen titkosított információ hozzáférhetõ a gépen. A Windows Vistában, a Windows Server 2003-ban, valamint a Windows Server 2008-ben már eltérõ algoritmust alkalmaztak, így ezek a szoftverek nem érintettek.

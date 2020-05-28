@@ -1,0 +1,16 @@
+Megjelent a Thunderbird 3 levelezõ elsõ bétaváltozata
+
+Pár nappal a Firefox 3.1 második bétájának megjelenését követõen megérkezett a Thunderbird nyílt forrású levelezõ régóta várt 3-as verziójának elsõ bétája is.
+
+
+
+Februárban alakult meg a Mozilla Foundation tulajdonában levõ Mozilla Messaging, amely kimondottan a nyílt forrású levelezõ fejlesztésének kooridánálása érdekében jött létre. A szervezet elsõ és legfontosabb feladata a Thunderbird 3.0 elkészítése, amellyel már régóta adósak voltak. A Thunderbird mindig afféle mostohagyerek volt a Mozilla Alapítványnál, a levelezõ távolról sem kapott annyi figyelmet, mint az óriási sikert elért webböngészõ, a Firefox. Ennek megfelelõen nem is fejlõdött olyan gyorsan, a Mozilla Messaging hosszú távú célja, hogy ledolgozza ezt a hátrányt.
+
+A jelenleg elérhetõ Thunderbird 2.0 már több mint másfél éves és még mindig a Firefox 2 alapjául is szolgáló Gecko motor 1.8-as verziójára épül, nem a Firefox 3-ban is megtalálható Gecko 1.9-re. Az átállás annál is sürgetõbb, mert a Firefox 2-höz jövõre már semmilyen frissítést vagy javítást nem fog kiadni a Mozilla Foundation, ezért az arra épülõ Thunderbird 2-t használók adatai veszélybe kerülnek, ha valaki felfedez egy sebezhetõséget és megjelennek a támadó kódok.
+
+
+ A Mozilla Messaging célja, hogy a Thunderbird alaparchitektúráját átdolgozza, hogy ki tudják használni a Mozilla platformban rejlõ lehetõségeket. Hosszabb távon arra lehet számítani, hogy a Thunderbird egy bõvíthetõ, a webes technológiákkal integrált, késõbb akár többféle érintkezési csatorna (IRC, chat, SMS, stb.) kezelésére is képes kommunikációs platformmá fejlõdik.
+
+A Thunderbird 3 Beta 1 megjelenése kapcsán kiadott információk szerint a legfontosabb fejlesztések a sebességet érintik, javult az IMAP-kezelés, jobb lett a címjegyzék, és egyszerûbb lett az üzenetek importálása más levelezõkbõl. A figyelemre méltó újdonságok között említhetõ még az integráció a Windows Vistába épített keresõvel, illetve a Mac OS X címjegyzékével. A kezelõfelület is sokat változott az elõdökhöz képest, a modern böngészõkhöz hasonlóan a Thunderbird 3 is kezel már füleket, emellett a Firefoxhoz hasonlóan a funkcionalitása beépülõ modulokkal bõvíthetõ.
+
+A Thunderbird 3 elsõ bétája összesen 38 nyelven -- köztük magyarul --  érhetõ el Windows (2000 vagy újabb), Linux és Mac OS X (10.4 vagy újabb) operációs rendszerre. Mivel bétaverzióról van szó, ezért a fejlesztõk éles környezetben nem ajánlják a használatát.

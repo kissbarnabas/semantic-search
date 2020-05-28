@@ -1,0 +1,15 @@
+Tokent épített új bankkártyájába a Visa
+
+Kísérleti jelleggel indította el a Visa Europe új programját, melynek lelke egy valódi elektromos, kijelzõvel rendelkezõ tokennel ellátott, normál méretû bankkártya. A Visa PIN-kártya program megoldást kínál nyújtani a kártya fizikai jelenléte nélküli bankkártyás csalások ellen.
+
+
+
+Ma egyre többen vásárolnak interneten keresztül, valódi, dombornyomott kártyával, jobb esetben virtuális bankkártyával. Az online vásárlások esetén nincs szükség PIN-kód megadására, a kártya hátoldalán található úgynevezett CCV-kód (háromjegyû szám) hivatott megvédeni számlánkat a csalóktól. Számos esetben azonban nem akadályozhatjuk meg, hogy illetéktelen akár ezt a kódot is lemásolhassa, ritka, hogy egy kártyát saját magunk húzhatunk le egy terminálon.
+
+A Visa PIN-kártya erre nyújtana megoldást a tokenekhez hasonló módon, egy folyamatosan változó, nyolcjegyû számra cserélné le ezt a háromjegyû kódot, melyet azonosítónk, kártya PIN-ünk megadása után ír ki az apró hátlapi kijelzõ. A beépített áramforrás 3 évig látja el energiával az apró tokent, így egy kártyaciklust bõven átvészel a kártya.
+
+>A Visa PIN-kártyát az EMUE Technologies Pty Ltd.-vel közösen fejlesztették ki és áttörést jelenthet a visszaélések megelõzését szolgáló technikák terén. A kártya a kibocsátók számára teljesen biztonságos megoldás jelent, ami online tranzakciók esetében hatékonyabb jóváhagyást eredményez. A kártyabirtokosok számára is egyszerûsödik a folyamat, hiszen telefonos vagy internetes vásárlásnál nincs szükség egy különálló eszközre, tokenre.
+
+
+
+A Visa PIN-kártyával csak a valós kártyabirtokos tud tranzakciót lebonyolítani, hiszen csak õ ismeri a saját PIN-kódját. A használat egyszerû: a PIN-kód megadását követõen megjelenik a kártya kijelzõjén egy egyszer használatos kód, amellyel a kártyabirtokos jóváhagyja a tranzakciót.

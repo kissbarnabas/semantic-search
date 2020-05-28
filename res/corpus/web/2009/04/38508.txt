@@ -1,0 +1,21 @@
+Háromszorosára nõtt a kártékony weboldalak száma márciusban
+
+A régimódi vírusok helyét átvevõ webalapú rosszindulatú programok sebes tempóban szaporodnak -- derül ki a a Symantec részét képezõ MessageLabs márciusi jelentésébõl . Eszerint a MessageLabs az elõzõ hónaphoz képest 200 százalékkal több ilyen weboldalt azonosított márciusban, és 2797 teljesen új webes csapdát ártalmatlanított naponta.
+
+
+
+Triplázódott a gonosz weboldalak száma egy hónap alatt
+
+A legtöbb biztonsági cég terméke képes blokkolni ezeket az oldalakat, de a nagy számú új oldal, illetve a minimális védelemmel rendelkezõ felhasználók miatt van sikere a weboldalakba épített rosszindulatú megoldásoknak. A MessageLabs figyelmeztetése szerint 2008 októberében volt legutoljára 200 százalék feletti növekedés. Sõt, a márciusban észlelt webes malware programok 61,6 százaléka újonnan azonosított darab volt, ami még valószínûbbé teszi a gyors terjedést.
+
+
+ A legtöbb új kártékony weboldal a képek mögé rejtett, beszúrt szkripteket használ, s ugyanez a megoldás terjed a spam emailek esetében is. Legalábbis a kéretlen levelek ötöde ma már ilyen kártékony weboldalakra mutat, ami szintén erõs, 16,5 százalékos növekedést mutat csak márciusban. A spamek által linkelt weboldalakon pedig az áldozatok kisebb részt spyware programokkal, nagyobb részt pedig webes vírusokkal találkoznak majd.
+
+
+ 
+
+Négybõl három levél spam
+
+A spamek, vírusok száma viszont maradt a februári szinten, ami azt jelenti, hogy a teljes email-forgalom 75,7 százaléka spam. A földrajzi eloszlás viszont érdekes, ugyanis az ázsiai, csendes-óceáni régióban jóval nagyobb számban és arányban érkeznek kéretlen levelek. A legmagasabb aránnyal Hong Kongnak és Kínának kell megküzdenie, itt a teljes e-mailforgalom 88,7 illetve 88,4 százalékban kéretlen levelekbõl áll, s ebben a régióban jóval több a nemzetközi spamek aránya is.
+
+Kínában, Indiában és Japánban egyre nagyobb teret hódítanak a helyi nyelven íródott spamek, a szakértõk szerint leginkább a magas, vagy hirtelen növekvõ szélessávú penetrációnak köszönhetõen. Sõt, a MessageLabs jelzése szerint 2009 "a helyi nyelvû spamek éve" is lehet, a küldési módszerek finomodnak, a trükkök fejlõdnek. A küldõk ráadásul kihasználják az idõszakos tematikákat is a figyelemfelkeltésre, s egyre gyakrabban a válsággal kapcsolatos szövegekkel vagy éppen közelgõ ünnepekkel (nemrég St. Patrick napja, vagy jelenleg a húsvét) próbálják végzetes kattintásra csábítani a felhasználókat.

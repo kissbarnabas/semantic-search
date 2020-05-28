@@ -1,0 +1,14 @@
+Fájlcserélõkön terjed a Windows 7 újabb, belsõ használatra szánt tesztváltozata
+
+[Computerworld/HWSW] Újabb, nem publikus tesztváltozata szivárgott ki a Microsoft soron következõ asztali operációs rendszerének, a Windows 7-nek. A fájlcserélõ hálózatokon hétfõ óta elérhetõ verzió különlegessége, hogy egyes beszámolók szerint ez az elsõ olyan változata az operációs rendszernek, mely lehetõséget ad az Internet Explorer 8 eltávolítására.
+
+
+
+A fájlcserélõkön .iso állományként feltûnt Windows 7 Build 7048 az operációs rendszer 64 bites kódját tartalmazza, akárcsak a három héttel ezelõtt kiszivárgott 7022-es kiadás. A torrentet a megjelenése óta több tízezren töltötték le, ugyanakkor több felhasználó arról számolt be, hogy nem tudta telepíteni a tesztváltozatot, ami arra utal, hogy a 7048-as kiadás egyelõre még távol áll az operációs rendszer kiadásra jelölt változatától.
+
+A Microsoft mindeddig nem közölte a Windows 7 kiadásra jelölt (RC) változatának várható megjelenési idõpontját. Az új operációs rendszer feszített tempójú fejlesztési ütemét jól jellemzi, hogy a cég az elsõ és egyetlen publikus béta után azonnal a kiadásra jelölt változatot tenné elérhetõvé. Annak idején a Windows Vistának több bétaváltozatát és kiadásra jelölt változatát is közzétette a Microsoft az operációs rendszer véglegesítés kiadása elõtt.
+
+
+A Windows 7 különbözõ tesztváltozatai a torrenthálózatok legnépszerûbb letöltései közé tartoznak. Az operációs rendszer elsõ próbaverziója tavaly õsszel került fel elõször a fájlcserélõkre, nem sokkal a Microsoft Professional Developers Conference rendezvénye után, ahol  minden résztvevõnek kiosztottak egy példányt a programból. 2008 végén a Windows 7 elsõ bétája is megjelent a fájlcserélõkön: a bétát végül hivatalosan január 9-én adta ki Microsoft -- emlékezetes, hogy a próbaváltozat iránt olyannyira megnõtt az érdeklõdés, hogy a lekérések néhány órán belül két vállra fektették a vállalat szervereit.
+
+A most kiszivárgott verzió egyik legfõbb érdekessége, hogy egyes beszámolók szerint lehetõséget ad az Internet Explorer 8 webböngészõ, illetve annak indítóállományának eltávolítására. A Microsoft operációs rendszereinek gyakorlatilag a Windows 98 óta eltávolíthatatlan részét képezi az Internet Explorer, melyet az alternatív böngészõket fejlesztõ cégek többször is sérelmeztek. Egyes spekulációk szerint az eltávolítható Internet Explorer 8-cal a Microsoft az EU által indított trösztellenes eljárás vitorlájából fogná ki a szelet.

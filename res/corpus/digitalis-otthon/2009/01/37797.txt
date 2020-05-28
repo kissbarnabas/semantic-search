@@ -1,0 +1,14 @@
+Itt a Phenom II, az AMD 45 nanométeres asztali chipje
+
+Hivatalosan is piacra léptek az AMD 45 nanométeres asztali processzorai, a korábban Deneb kódnéven ismert chipek Phenom II néven kerülnek a számítógépekbe. Az AMD két magas órajelû modellel indított, a termékvonal bõvítése a termelés növekedésével a következõ hónapok során várható, ahogyan a cég a 45 nanométeres csíkszélességû eljárásra tereli át processzorgyártását.
+
+
+
+Az AMD a tegnap kezdõdött Las Vegas-i Consumer Electronics Show-ra  idõzítette a négymagos Phenom II bejelentését. A 65 nanométeres Phenomokhoz képest megváltozott a modellszámozás, négyjegyûbõl háromjegyûre rövidült, és kísértetiesen hasonlít az Intel Nehalem, vagyis a Core i7 modellszámozására. A Phenom II X4 940 Black Edition névlegesen 3 gigahertzen jár, természetesen nem szorzózáras, a négy magot 6 megabájt L3 cache támogatja, és 125 wattos elektronikai kerettel bír. Az egy fokozattal lassabb változat a Phenom II X4 920 2,8 gigahertzes órajellel bír, valamint szorzózáras, minden egyéb tekintetben megegyezik nagyobb testvérével -- mindkét processzor AM2+ foglalatba illeszkedõ tokozást kapott.
+
+
+ A Phenom II-k jelenleg órajeltartományban is elkülönülnek 65 nanométeres elõdeiktõl, ugyanis azok leggyorsabbika 2,6 gigahertzes csupán. A versenyképesség javulását jól jelzi, hogy a korábbi maximális 174 dollár helyett a 940-es nettó listaára 275 dollár, míg a 920-as 235 dollárt kóstál -- ez Európában bruttó 250 és 210 eurós kiskereskedelmi árra fordul le az árkeresõk alapján. Ezzel a 940 a Core i7-920-szal vagy a Core 2 Quad Q9400-zal hasonló árban kapható, míg a Phenom II 920 a Core 2 Quad Q9300 és Q8300 közé érkezett.
+
+ 
+
+Az AMD novemberben mutatta be elsõ 45 nanométeres chipjét, a szerverekbe szánt Shanghait. A cég rendkívül agresszív a 45 nanométeres csíkszélességû termelés felfuttatásával, az elsõ negyedév végére ígéri, hogy a 45 nanométeres kibocsátás eléri a 65 nanométeresét (cross-over), majd jövõ év közepére teljesen átáll a drezdai Fab 36 az új technológiára. Az új gyártástechnológia gyors bevezetése kritikus jelentõséggel bír a nyereségességben, ugyanis a kisebb geometria révén fajlagosan 20-30 százalékkal alacsonyabb elõállítási költséget is realizálni lehet, miközben a csökkenõ hõfejlõdés és gyorsabb tranzisztorok révén lazuló idõzítések lehetõvé teszik az órajelek emelését.

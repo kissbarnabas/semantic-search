@@ -1,0 +1,51 @@
+Kipróbáltuk: csak kávét nem fõz a Popcorn Hour A-100 médialejátszó
+
+Igen találó nevet adott a Syabas Technology vadiúj lejátszójának, az A-100-nak, melyet Popcorn Hour-nak nevezett el. Amennyiben a Networked Media Tank, azaz NMT A-100 ismerõsebbnek tûnik, ne csodálkozzunk, hiszen ugyanarról a mindenevõ, elsõsorban médialejátszásra fejlesztett, de hálózati adattárként és Bittorrent-szerverként is kiválóan használható készülékrõl lesz szó -- cikkünk jóformán csak ízelítõt adhat képességeibõl.
+
+
+
+NMT A-100
+
+A Popcorn Hour megjelenésére régóta várnak azok, akik fõként nagyfelbontású videóikat szeretnék a képernyõre varázsolni, az A-100 ugyanis olyan állományok kezelését, megjelenítését is ígéri, melyek támogatását más gyártók fejlesztõi érthetetlen módon hanyagolják. Ilyen például az egyre népszerûbb MKV konténerformátum támogatása, mely az A-100-nak semmilyen problémát sem jelent.
+
+
+
+A hátoldalon csak a legszükségesebb csatlakozókat helyezték el, a fõszereplõ kétségkívül a HDMI-kimenet. Emellett csak néhány analóg -- a hang csak sztereó -- és komponens videó jack, az Ethernet, illetve az SPDIF jackje -- ezért nagy piros pont jár -- néz szembe velünk, illetve az elõlapon kapott helyet két USB-kapu. Utóbbiakba pendrive-on és hordozható merevlemezen kívül akár DVD-olvasót is csatlakoztathatunk, DVD-lejátszóvá varázsolva az A-100-at.
+
+
+
+A Popcorn Hour belsejében egy aprócska alaplapot, egy teljesen Sigma Designs referenciadizájnra épülõ logikát, illetve a merevlemez helyét találhatjuk, a doboz sajnos meglehetõsen dzsunka, filléres benyomást kelt. A merevlemez hûtésérõl a két oldalon található rácsok hivatottak gondoskodni, ventilátor nem zavarja majd a filmnézést, ez azonban néhány merevlemeznek kevés is lehet, érdemes halk és kevésbé melegedõ háttértárolót választanunk. Az A-100-ból kapható lesz SATA-csatolós változat is, a nálunk járt verzióba még PATA merevlemezt kellett telepíteni. Az A-100 merevlemez nélkül is kiválóan boldogul, önmagában is képes például rendszerszoftvert frissíteni, elegendõ memóriával látták el ehhez.
+
+
+
+A készülék bekapcsolását követõen hosszú másodpercekig bootol, majd megjelenik az igen egyszerû menürendszer. Kellemes meglepetés, hogy az 1366 x 768-as LCD-televíziók paneljét akár natív felbontással is meghajthatjuk, feltéve, hogy televíziónk elektronikája is megbírkózik ezzel. A puding próbája az evés -- bár a több mint 2 éves Philips LCD-televízió könyvében nem szerepel ez a felbontás, a kép tökéletes formában jelent meg. A hang átvitele a HDMI-rõl lekapcsolható, azt pedig itt is megszabhatjuk, hogy a különbözõ hangsávokat a PCH dekódolja, vagy változatás nélkül küldje a digitális hangkimenetre -- DTS esetén csak ez utóbbira van lehetõség.
+
+A képminõség elsõrangú, a Sigma lapkájában nem csalódhatunk. A megjelenõ filmek minõségét elsõsorban a kódolás minõsége szabja meg, egy-egy rosszabb kódolású film borzalmasan is festhet -- az LCD technológia szívesen kiemeli a tömörítési hibákat --, míg a HD-anyagok lemásznak a képernyõrõl. A hangminõséget sem érheti panasz, bár a legtöbb vásárlónál valószínûleg rögtön házimozi-erõsítõbe vándorol a hang, így sokat nem kell e téren tennie az A-100-nak.
+
+     
+
+A támogatott formátumok, konténerek listája igen hosszú, sajnos a DivX 6 menüinek, beágyazott feliratainak támogatása egyelõre nem szerepel rajta. A feliratok helyzete, mérete és színe változtatható, a magyar ékezetek is tökéletesen jelennek meg, a formázások azonban szintén nem támogatottak.
+
+A video konténerek között különlegesség a H.264 kódolású anyagokat tartalmazó MOV és MKV, illetve a különbözõ MPEG2 Transport Streamek támogatása, az A-100 akár AVCHD kamkorderünk anyagait is a képernyõre tudja varázsolni. Az XviD mellett nem okoz gondot a Windows Media Video 9 és a VC-1 lejátszása sem. Hang terén átlagosak a PCH képességei, AAC, MP3, WMA, WMA Pro és LPCM a menü, az Ogg Vorbis egyelõre hiányzik.
+
+     
+
+Webre megy
+
+A videók lejátszása mellett különleges képességekkel is felruházták az elsõ Popcornt. A merevlemez formázását követõen Samba és Bittorrent szervert is telepíthetünk rá a Syabastól, melyeket saját webes felületen keresztül menedzselhetünk, így akár számítógépünkrõl adattárolónkra ruházhatjuk át az állományok megosztását és letöltését is. A Mac-esek a Bonjour protokoll támogatásának is örülhetnek. A windowsos gépek automatikusan megtalálják a háttértárolót a szintén telepíthetõ UPnP-támogatásnak köszönhetõen. A Syabas egy PC-re telepíthetõ szervert is biztosít myiHome néven, a készülék azonban gyorsan listázza a szimpla windowsos megosztásokat is.
+
+A Popcorn ezzel sem merítette azonban még ki képességei sorát: számos webes szolgáltatást is elérhetünk a távirányítóval. A YouTube videói között egyszerûen kereshetünk, illetve rögtön le is játszhatjuk õket, de a Picasaweben, Flickerben tárolt képeinket is böngészhetjük az A-100-zal. Az internetes Shoutcast rádióadások megszólaltatása ehhez képest már valóban gyerekjáték a PCH-nak.
+
+    
+
+Bugok
+
+A Popcorn Hour A-100 többé-kevésbé helytállt, látszik, belsõ programja, firmware-je még igen korai stádiumban van. Hálózatról streamelt lejátszásnál sportot ûzött abból, hogy az adott videó különbözõ részeinél kilépjen a lejátszásból, és magához se térjen: csak a teljes áramtalanítás hozta újra üzemképes állapotba. Ez a hiba már a Novatron mindenevõjénél is az õrületbe kergetett. A legfrissebb, alig néhány napos firmware-rel is megmakacsolta néha magát, s nem volt hajlandó visszalépni a fõképernyõre, vagy csupán bõ tíz másodperc alatt sikerült neki. Ugyanígy igen hiányos egyelõre az MP3-lejátszás és a képnézegetõ funkció is, az alapvetõ léptetõ gombok sem mûködnek a távirányítón.
+
+A jelek azonban kedvezõek, az elmúlt hetekben két frissítés is érkezett az NMT A-100-hoz, a közösségi támogatás is példa nélküli, így kétséget sem hagynak afelõl, hogy a Popcorn Hour fél év múlva már mindenre képes lesz, melyre tulajdonosa kérni fogja. Egyetlen szívfájdalom az ára: a hazai, merevlemez nélküli bruttó 65 ezer forintos ár konkrétan több mint duplája a honlap szerinti 180 dollárnak. Ez valószínûleg nem a kereskedõ sara, hanem a szokásos, valószínûleg Syabas által is átvett 1:1 dollár-euró váltószámnak köszönhetõ.
+
+A lejátszót a www.m4p.hu biztosította a teszthez, ezúton  köszönjük.
+
+Véleménye van?
+szóljon hozzá a fórumban
+írjon szerkesztõségünknek!

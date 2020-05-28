@@ -1,0 +1,25 @@
+Számos webes szolgáltatás és alkalmazás alapja lehet a Twitter
+
+Valós idejû keresés
+
+Szakértõk szerint a web jövõjét meghatározó egyik legfontosabb kérdés, hogy fenntartható-e az információk tömeges azonnali indexelése, illetve, hogy számít-e egyáltalán a sebesség a felhasználóknak? A XX. században már egyértelmûvé vált, hogy az információ a legértékesebb, mostanra pedig az információszerzés annyira könnyûvé vált, hogy az lett a legfontosabb szempont, hogy mennyire hamar jut hozzá valaki a tudáshoz. A gyorsabb közösségi eszközök lehetõvé teszik a "valós idejû internet" megvalósulását. 
+
+A Twitter hiába gyors, az információ szervezése terén igen gyengén áll, a jövõ tehát az ilyen és ehhez hasonló szolgáltatások rendszerezése felé mutat. A Google is épp most jelentette be, hogy a mikroblog-szolgáltatást üzemeltetõ céggel együttmûködve egy saját Twitter-keresõt hoz létre. Már léteznek kis szereplõk, mint a OneRiot, illetve a Tweetmeme, melyek rendszerezik a csiripekben felbukkanó linkeket, s összegyûjtve, rendszerezve tálalják a csiripelõk által leggyakrabban emlegetett témákat. A Tweetmeme még ennél is messzebbre megy, s a megosztott linkek mögött lévõ oldalakat indexeli és adja hozzá az adatbázisához.
+
+Személyazonosság
+
+A felhasználók számának növekedésével, illetve a kereskedelmi szféra behatolásával egyre fontosabbá válik az is, hogy az információk hitelessége is biztosított legyen. Erre maga a Twitter hozza az elsõ megoldást, épp múlt hét csütörtökön jelentette be a "Verified Accounts" programot a cég, aminek keretében elõször a hírességek, mûvészek, zenészek élhetnek azzal a lehetõsséggel, hogy igazolják személyazonosságukat, ezzel lehetetlenné téve azt, hogy valaki a nevükben csiripeljen. A bétateszt után mindenki számára nyitott lesz, hogy megerõsítse identitását, ezzel is téve egy lépést a Twitteren megosztott információk hitelesebbé válása felé.
+Ráharaptak a kereskedõk is
+
+A harmadik kiemelt téma, már a tömeghatással kalkulál, s az látszik, hogy egyre több cég ismeri fel, hogy egy jól kitalált kampánnyal komoly hírverés keletkezhet egy termék vagy szolgáltatás körül. Ugyan ez zavaró, idegesítõ lehet néhány felhasználó számára, de valójában a Twitter-hirdetés eddig legismertebb formájáról van szó. Kell egy "csali", ami lehet például ajándék vagy kedvezmény, fel kell ütni a témát Twitteren, kell hozzá párosítani egy jellegzetes címkét (#akarmi) és máris kész egy divattéma. Az emberek az ajándék reményében gondolkodás nélkül továbbítják az üzenetet, így az hálózatosan terjed, az említések száma négyzetesen emelkedhet, s a kiküldött üzenet akár napokig keringhet a Twitter-univerzumban. Az ilyen akciók számra a jövõben biztosan emelkedni fog, bár egy bizonyos gyakoriság felett már sokak számára lesz unalmas és nem kelt majd érdeklõdést, sõt, valószínûleg elõbb utóbb a spam szintjére süllyed, ami után&nbsp; a cégeknek is egyre kreatívabbnak kell majd lennie, hogy felkapja üzenetüket a nép.
+&nbsp;
+
+
+
+A hirdetés egy másik fajtája lehet a szponzorált csiripek terjedése. Ez már több emberben kelthet nemtetszést, de ameddig egy üzengetõrõl nem derül ki, hogy fizetett lelkesedõ, addig nyugodtan reklámozhat gondtalanul. A szponzoráció viszont intézményesül, s egyre több cég, mint a Magpie, a TwittAd vagy az adCause hozott már létre hirdetési hálózatot a Twitteren, ahol a reklámozó megtalálhatja célcsoportját. Az Egyesült Államokban például már hirdetett a Twitteren a Land Rover, illetve egy nagyobb kábelszolgáltató is felbérelte néhány rajongóját, hogy pozitív képet fessen egyik induló sorozatáról. Egyelõre senki nem tudja, hogy hol vannak a határok, mi etikus és mi nem, egyáltalán nincs definiálva a Twitter-hirdetés világa, ebbõl a szempontból a Mashable szerkesztõk szerint is a következõ néhány hónap lehet majd tanulságos.
+
+Túl a kereskedelmi vonatkozásokon, s túl azon is, ahogy a Twittert elsõdlegesen használják az emberek, egyre inkább biztos, hogy a mikroblogging univerzális kommunikációs platformmá válik. Amellett, hogy a felhasználók egymásnak üzengetnek a webes felületen vagy valamely kliensen keresztül, egyre gyakoribbá válik majd, hogy más webes szolgáltatások is a Twittert használják kommunikációra. 
+
+Kitüremkedések
+
+Erre egy nagyon jó példa az EP-választások idején az Index megoldása, ahol a hírek és összefoglalók mellett az újságírók Twitteren is tudósítottak, melyet becsatornáztak a fõoldalba, így azok is követhették az eseményeket, akik egyébként nem használják a szolgáltatást. Ugyanígy össszedrótozható a Twitter multimédiás szolgáltatásokkal, vagy bármilyen egyéb webes felülettel, legyen szó akár közösségi filmnézésrõl, ügyfélszolgálatról vagy intézményi kommunikációról. Sõt, lehetséges teljes egészében kiszervezni egy saját chat felületként a Twittert, kiegészíteni azt videóközvetítéssel, vagy élõ chat-szobával: a lehetõségek végtelenek.

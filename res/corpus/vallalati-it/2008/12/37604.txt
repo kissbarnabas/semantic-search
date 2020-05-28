@@ -1,0 +1,28 @@
+Végre megjelent és letölthetõ a MySQL 5.1
+
+A Sun Microsystems végre bejelentette a MySQL 5.1 adatbázis általános elérhetõségét, mely a legalaposabban kitesztelt az eddigiek közt. A szoftver elõzetes változatban már régóta hozzáférhetõ volt, azonban a végleges verziót a lehetõ legtüzetesebb vizsgálatnak akarta alávetni a Sun a kiadás elõtt, hogy elkerüljék az olyan kínos hibákat, amelyek a MySQL 5.0 megjelenését beárnyékolták. A vállalat most úgy határozott, a MySQL 5.1 megérett az éles bevetésre.
+
+
+
+Alapos tesztelés után
+
+A MySQL 5.1 érkezésével számos nagyvállalati funkció kerül be az adatbázis-kezelõbe, amelyeknek leginkább a tesztelése emészt fel sok idõt. Az új kiadás nem kevesebb mint hét kiadásra jelölt változatot élt meg, és nagyjából ezer hibát javítottak benne, árulta el Zack Urlocker, fejlesztésekért felelõs igazgató egy konferencián, melyet a cég Menlo Park-i központjában tartott a Sun. A MySQL 5.1 Enterprise Server tesztelése mintegy másfél éven keresztül folyt éles környezetben, mire megérte a GA, azaz a végsõ General Availability kiadást, és jelenleg már több mint 200 ügyfél használja termelésben.  
+
+A szoftver már támogatja a táblák és indexek particionálását, amivel felgyorsulhat a lekérések teljesítése, ugyanis csak a releváns adatpartíciókat kell az adatbáziskezelõnek "átnéznie", nem az egész táblát vagy indexet. Átlagosan 10-15 százalékos a várható teljesítménynövekedés, állította Urlocker. Emellett a particionálás egyszerûsít egyes üzemeltetési és tárolási funkciókat is -- állítja a Sun.
+
+Az oszlopalapú és hibrid replikáció bevezetése révén javult a MySQL biztonsága, robusztussága. Az oszlopalapú replikáció két szerver között közvetlenül replikálja az adatok változásait (nem az SQL utasításokat), a hibrid replikáció pedig az adott SQL mûvelettõl függõen parancsalapú vagy oszlopalapú replikációt használ a legnagyobb biztonság érdekében. A Sun által kiemelt újdonságok közé tartozik még, hogy a MySQL 5.1 lehetõvé teszi az adminisztrátorok számára, hogy elõre beállított idõpontban futtassanak SQL-alapú feladatokat az adatbázis-szerveren. "Csak azt sajnálom, hogy 6.0-nak kellett volna hívnunk" -- mondta Urlocker.
+
+
+ A MySQL Enterprise elõfizetõi számára emellett elérhetõvé vált a MySQL Query Analyzer, amely segítségével monitorozhatók is finomhangolhatók a lekérdezések, ezáltal összességében növelhetõ az adatbázis teljesítménye és rendelkezésre állása. Ez a termék egy 30 napos próbaváltozat keretében is hozzáférhetõ azok számára, akik nem rendelkeznek MySQL Enterprise elõfizetéssel.
+
+Három változat, sok platform
+
+A népszerû nyílt forrású adatbázis 5.1-es verzióját máris negyedmilliószor töltötték le, ami a Sun szerint egyértelmûen bizonyítja, hogy nagy az érdeklõdés. A MySQL 5.1 számos platformon elérhetõ, beleértve a Windowst, Solarist, Red Hat és SUSE Linuxot és más disztribúciókat, Mac OS X-et, FreeBSD-t, HP-UX, IBM AIX, illetve IBM i5/OS (korábban OS/400) operációs rendszereket.
+
+A szoftver három változatban hozzáférhetõ. a MySQL Community Server ingyenes, teljesen nyílt forrású és GPL licenc alatt használható. A MySQL Enterprise elõfizetés részeként elérhetõ Enterprise változat a vállalati felhasználókat célozza, 24 órás terméktámogatás, negyedévente kiadott javítócsomagok és hot fixek járnak hozzá. A harmadik verzió a MySQL Embedded Server, amely kereskedelmi licenc alatt kerül forgalomba és lehetõvé teszi a felhasználók számára hogy a GPL megkötései nélkül építsék be az adatbázist saját alkalmazásaikba.
+
+Egyre népszerûbbek a nyílt forrású adatbázisok
+
+A Gartner november végén kiadott jelentése szerint egyre nõ a nyílt forrású adatbázisok népszerûsége éles környezetben is, és a termékekbõl származó bevételek is gyorsan emelkednek. 2006 és 2007 között a relációs adatbázisok piaca 13 százalékkal növekedett, a nyílt forrású termékek ezzel szemben 40 százaléknál is magasabb bõvülést értek el. Az elkövetkezõ öt év során megmarad az évi átlagos 40 százalékos bõvülés, ezzel a nyílt forrású adatbázisoké 2013-ra 1 milliárd dolláros piaccá válik.
+
+Marten Mickos, a MySQL korábbi elnök-vezérigazgatója, a Sun adatbázis-üzletágának vezetõje szerint a MySQL 5.1 nagy teljesítménye, alacsony költsége, skálázhatósága és szolgáltatási miatt jó választás nagyvállalatok és webes cégek számára, kiváltképp a jelenlegi gazdasági körülmények között. A Gartnernél úgy látják, egyre csökken a nyílt forrású adatbázisok használatával járó kockázat, miközben az elõnyök szaporodnak -- megfelelõen kompetens üzemeltetõi háttérrel ma már üzleti kritikus környezetben is bevethetõk.

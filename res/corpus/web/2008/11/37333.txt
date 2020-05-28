@@ -1,0 +1,14 @@
+Akár HD-videók lejátszását is támogatja Flash alapokon a Recast Digital megoldása
+
+Nem kell erõs hardver, és nincs szükség külön szoftverre sem a HD-tartalmak online streameléséhez. Az Adobe Flash böngészõplugin 9-es változatának idestova egy évvel ezelõtt jelent meg az a frissítése, mellyel immár a H.264 kódolású videók is megtekinthetõk bármilyen böngészõablakban. A Recast Digital most egy olyan Flash-alapú lejátszó fejlesztését fejezte be, mely hatásosan demonstrálja a technológiában rejlõ lehetõségeket.
+
+
+
+A brit szoftvercég RDV1 nevû, teljes egészében Flash technológiára épülõ videolejátszója a fejlesztõk saját elmondása szerint azzal a céllal jött létre, hogy minél több felhasználó számítógépére tudjanak vele a lehetõ legegyszerûbb módon HD-tartalmakat közvetíteni. A Recast Digital lejátszója elméletileg bármilyen olyan számítógépen elfut, amely elég erõs hardverrel rendelkezik a több platformra is elérhetõ Flash plugin futtatásához.
+
+Az RDV1 a streamelt, és a helyben letöltött tartalmak lejátszását egyaránt támogatja, az élõ stream bitrátája 500 és 2200, a helyben tárolt videók bitsûrûsége pedig 850-tõl 3200 kilobit/másodperces intervallumban mozoghat -- az aktuális bitrátát az internetkapcsolat sebességének függvényében maga állítja be a program. A videojelfolyamot VP6-S vagy H.264 kódolással továbbíthatják a tartalomszolgáltatók, a hangformátum AAC lehet. A lejátszó 640x360, 852x480 pixeles felbontású SD és 960x540, illetve 1280x720 pixeles HD videókat kezel, és a böngészõablak mellett természetesen támogatja a teljes képernyõs lejátszást is.
+
+
+A Recast Digital tervei szerint az RDV1-re a tartalomszolgáltatói oldalról komoly érdeklõdés mutatkozik majd, így a Flashre épülõ lejátszó idõvel olyan szolgáltatások számára jelenthet majd konkurenciát, mint a BBC iPlayere, melynek használatához egyébként kötelezõ telepíteni a RealPlayer lejátszóalkalmazást. Az RDV1 képességeit egy, a lejátszónak dedikált weboldalon demonstrálja a Recast Digital, itt különbözõ mozielõzetesek és rövidfilmek, valamint reklámok tekinthetõk meg, illetve kipróbálható a lejátszó kezelõfelülete is.
+
+Az Adobe tavaly december óta támogatja a nagyfelbontású videotartalmak közvetítését: a szoftvercég azért döntött a H.264 formátum támogatása mellett mert széles körben terjed a szórakoztatóipari szereplõk között, emellett a Blu-ray szabványnak is része. A Microsoft Flash-rivális platformja, a Silverlight a jövõ év elején érkezõ hármas változattal támogatja majd elõször a H.264 kódolású videostreameket és az AAC hangsávokat. A Silverlight eddig is támogatta a HD-videók lejátszását, de csak a Windows Media alapokon nyugvó, VC-1 kodekkel tömörített tartalmakat tudta kezelni.

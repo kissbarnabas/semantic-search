@@ -1,0 +1,54 @@
+Mindenkit vár a videojáték-ipar!
+
+A videojáték-ipar ma már évi 50 milliárd dolláros üzlet, ezzel lepipálja a szórakoztató-ipar két másik nagyját, a zeneipart és a mozit is. Ebbõl a trendbõl Magyarország sem maradhat ki -- derült ki a szombaton rendezett Game Developers Forumon, amit idén másodszor rendeztek meg közel 700 hazai fejlesztõ, grafikus, animátor, modellezõ, játéktervezõ és más szakember részvételével.
+
+
+
+Visszatér a szoftver-render?
+
+A GDF elsõ elõadásán az érdeklõdõk Európában elsõként láthatták az év végén érkezõ Gears of War 2 demóját, amit maga Michael Capps, az Epic Games elnöke mutatott be. Ezt követõen egy másik közelmúltbeli kasszasiker, a Crysis mögött álló Crytek alapítója, Cevat Yerli tartott elõadást a videojátékok közeljövõjérõl. Yerli szerint az 1920x1080 pixel elérése után egy jó ideig nem fog növekedni a játékok felbontása, és a jelenlegi, raszterizáción alapuló megjelenítési modell is elérte a végsõ határait  -- a modern 3D-motorok mindent tudnak. Ezért a közeljövõben a játékok egymástól nem annyira a megjelenítés minõségében fognak különbözni, hanem a megjelenés stílusában, a mesterséges intelligenciában, a fizikai modellben, legalábbis  a követketõ konzolgeneráció 2011-2012 környékén esedékes megjelenéséig.
+
+
+
+
+Yerli szerint középtávon meg fognak jelenni olyan új megjelenítési módok, mint a sugárkövetés (ray tracing), illetve a poligonok helyett pontokkal operáló point based rendering. Ezeknek a gyorsítását azonban a ma elterjedt 3D-chipek nem képesek megoldani, ezért hamarosan újra beköszönthet a szoftver-render korszak, amikor a megjelenítés kizárólag a processzor dolga lesz. Persze az egyre univerzálisabb 3D-chipek sem maradnak munka nélkül, számolhatják például a bonyolultabb fizikai modelleket.
+
+Hazai tehetségekre vadásznak a cégek
+
+Megállíthatatlanul dõl a pénz ebbe az óriási, mégis töretlenül növekedõ iparágba, ami itthon is érezhetõ. A nagy nemzetközi kiadók, fejlesztõk közül a Crytek és az Eidos is nyitott már fejlesztõstúdiót Magyarországon, de a hazai cégek sem tétlenkedtek, így mára szûk tucatnyi fejlesztõstúdió mûködik itthon. Ha valaki ma Magyarországon a játékiparban szeretne dolgozni, valószínûleg talál magának helyet: feladat van bõven, a cégek kapva kapnak a programozók, grafikusok, modellezõk, animátorok után, csak az nem talál munkát, aki nem akar.
+
+
+A GDF-en a Crytek mellett az Eidos, a fõképp a hordozható konzolokra írt játékokban érdekelt HS Games, valamint az osztrák Sproing és a Ubisoft is toborzott.  A cégek képviselõi  egyhangúan bizakodó képet festettek a játékipar hazai helyzetérõl, a multik látnak fantáziát a magyar szakemberekben, noha a kimondottan a játékiparban hasznosítható képességeket ma még csak elvétve oktatják hazánkban. A legtöbben így munka közben, a tapasztaltabbaktól tanulva sajátítják el a legfontosabb fogásokat.
+
+Az Eidosnál mindenféle pozícióba keresnek munkatársakat, pályakezdõ vagy tapasztalt fejlesztõket, grafikusokat, animátorokat ugyanúgy, mint tesztelõket. Utóbbi pozíció betöltéséhez semmiféle elõképzettség nem szükséges, elég ha valaki jól ismeri a játékokat és sokat játszott &#8211; mondta el a HWSW-nek Szalacsi Botond, az Eidos vezetõ játéktervezõje, aki elárulta azt is, hogy a cégnél gõzerõvel folyik a nagysikerû Battlestations: Midway folytatásának fejlesztése. Az Eidos 2 éve létrejött budapesti stúdiójában már közel hatvanan dolgoznak, és hasonló méretû a többi hazai stúdió is.
+
+
+
+A Cryteknél is folyamatosan vesznek fel szakembereket a legkülönfélébb pozícióba, a cég többek között pályatervezõt, mesterséges intelligencia fejlesztõt, grafikust és persze programozókat keres. A budapesti iroda egyébként nem csak magyarokat foglalkoztat, a világ minden tájáról jöttek ide  a videojátékok készítésében tapasztalatot szerzett dolgozók. Hogy a budapesti stúdióban min dolgoznak, az egyelõre szigorú titok. A Ubisoft is saját standdal képviseltette magát a GDF-en, ahol Olivier Allaert HR-menedzser elmonda: romániai, bulgáriai és kijevi irodájában máris több  mint 600 szakembert foglalkoztat a francia cég, de folyamatosan kutatják a tehetségeket, akiket aztán házon belül igyekeznek továbbképezni.
+
+
+
+
+A közösségek ereje
+ A szélessáv terjedésével egyre népesebbé váló online közösségek a játékipar fejlõdésére is óriási hatással vannak -- a fórumokon, blogokon, közösségi oldalakon a hírek pillanatok alatt elérnek bárkit. Ennek a jelentõsége óriási, ugyanis a videojáték-iparban továbbra is hatalmas szerepe van a szájhagyománynak, a játékosok a közösségi oldalakon cserélik ki tapasztalataikat és kíméletlenül rámutatnak egy-egy produkció gyenge pontjaira.
+
+Ezt felismerve a nagy játékfejlesztõk és  &#8211;kiadók ma már foglalkoztatnak olyan munkatársakat, akiknek nincs más feladatuk, mint a közösségi kapcsolattartás. Ha egy cég megtalálja és maga mellé tudja állítani a véleményvezéreket, rengeteget nyerhet vele -- nem csak barátságos képet alakít ki magáról, hanem a számára fontos közönségtõl olyan visszajelzéseket is begyûjthet, amelyeket felhasználva a késõbbiekben még jobb játékokat készíthet -- mutatott rá Szalacsi Botond, az Eidos vezetõ játéktervezõje.
+
+
+
+
+A többmilliós példányszámban értékesített kasszasikerek fejlesztõitõl egészen eltérõ szemléletmód a HS Games-é. A magyar cég budapesti stúdiójában elsõsorban mozisikerekbõl készítenek Nintendo DS-en vagy más konzolon futó játékokat (a cég itthon egyedül Wii-re is fejleszt). Itt a projektek viszonylag rövidek, 6-8 hónap alatt elkészül egy játék, így a dolgozók rövi idõ alatt is szerteágazó tapasztalatokra tehetnek szert, sokféle produkción dolgozhatnak -- mondta a HWSW-nek Turiak Gábor mûvészeti vezetõ. Hasonló a helyzet az osztrák Sproingnál is, ahol az 1-2 éves szuperprodukciók helyett szintén rövidebb kifutású projektekben gondolkodnak -- tudtuk meg Harald Riegler ügyvezetõtõl.
+
+Fél éves tanulás is elég lehet
+
+A magyar egyetemektõl, fõiskolákról nem kerülnek ki az iparban használatos szoftvereket megfelelõ szinten kezelõ hallgatók, de szerencsére ezt a piaci rést is felismerte már valaki -- a GDF-en kiállító Mesharray azoknak a 3D animációs és modellezõ szoftvereknek a használatát oktatja, amiket a játékiparban de facto szabványként használnak a cégek. "A GDF-en bemutatott Softimage|XSI-n kívül az Autodesk, az Adobe, a Pixologic és a Maxon szoftvereit oktatjuk, digitális film és utómunka, játékfejlesztés, multimédia, DTP, CAD és digitális látványtervezés területein kínálva képzéseket" -- tudtuk meg Edvi Tímea marketing- és PR-vezetõtõl.
+
+A Mesharraynél lehetõség van arra, hogy a hallgatók egy fél éves intenzív képzésen egészen az alapoktól kezdve professzionális szinten megtanulják a szoftverek használatát. A tanfolyamot elvégzõk jelentõs része a játékiparban dolgozik tovább, de a kurzusok oktatói is innen jönnek. Mivel a játékiparban hasznosítható ismereteket ma még Európában is csak kevés helyen tanítják, a fejlesztõcégek nagy hangsúlyt fektetnek a tehetségek felkutatására és továbbképzésére. A legfontosabb ismereteket úgyis csak "élesben" lehet megszerezni -- vallják egybehangzóan a HWSW által megszóltaltatott szakemberek.
+
+Bedolgozó brigád
+
+A folyamatosan gyorsuló hardverek lehetõvé teszik, hogy egyre nagyobb felbontású, egyre részletgazdagabb grafikát láthassunk. Ezt a fejleszõknek is követnie kell, a korábbinál sokkal részletesebb modelleket, karaktereket, jármûveket, tájakat kell kidolgozniuk, ha el akarják kápráztatni a közönséget, ez pedig idõ- és pénzigényes folyamat. Mike Capps délutáni elõadásán kiderült, míg az Unreal Tournament fõhõseinek modellje 2 hét alatt elkészült, az Unreal Tournament 3-nál egy karakter lemodellezése már majdnem 3 hónapig tartott.
+
+
+
+Ezt felismerve már a játékiparban is létrejöttek olyan cégek, amelyek a nagyoknak bedolgozva nem teljes játékok, hanem kimondottan grafikus tartalom, azaz karakterek, jármûvek, helyszínek, vagy éppen videók létrehozására szakosodtak. Ezek közé tartozik az egykori Philos Labs vezetõjének, Vámosi Zsoltnak az új vállalata, a 3Dbrigade is. A 3Dbrigade budapesti fõhadiszállásán már több mint 60-an dolgoznak, a cég munkái olyan játékokat gazdagítanak többek közt, mint a The Witcher, a Sacred 2, vagy a Silent Hill: Origins. Hogy ez a fajta tevékenység mennyire jövedelmezõ, azt jól mutatja, hogy a 3D Brigade már a távol-keleten is nyitott egy irodát. Természetesen õk is folyamatosan keresnek tehetséges 3D-grafikusokat, modellezõket, animátorokat, mert munka szerencsére van bõven.

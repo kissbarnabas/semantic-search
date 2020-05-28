@@ -1,0 +1,16 @@
+Hosztolt szolgáltatásként is kínálja a Lotus Notes-t az IBM
+
+Szolgáltatásként is igénybe vehetõ az IBM Lotus Notes, a Nagy Kék arra számít, hogy ezzel jelentõsen meg tudja növelni a Notes piaci részesedését, elsõsorban a rivális Exchange kárára.
+
+
+
+A Lotus Notes Hosted Messaging ugyanazokat a funkciókat nyújtja majd mint az asztali változat, azonban a levelek tárolásáról, mentésérõl, archiválásáról az IBM gondoskodik a saját adatközpontjaiban. Így a felhasználóknak ezzel már nem kell törõdniük, nem kell saját infrastruktúrát vásárolniuk, kiépíteniük és üzemeltetniük, a felhasználók webböngészõn keresztül férhetnek hozzá az üzeneteikhez és naptárbejegyzésekhez -- csakúgy mint a Gmail vagy a Yahoo-féle Zimbra esetében.
+
+
+ A Notes Hosted Messaging szolgáltatást a Nagy Kék elsõsorban az 1000-10000 fõs cégeknek szánja, de természetesen ennél kisebb, illetve ennél nagyobb vállalatokat is ki tudnak szolgálni. Az IBM szerverein a levelek vírus- és spamszûrésen is átesnek, a megrendelõk kétféle szolgáltatási szint közül választhatnak. Egy postafiók havonta 8-18 dollárba kerül. 
+
+"Az olyan szoftverdisztribúciós modellek, mint a szolgáltatott szoftver vagy a cloud computing egyre fejlõdnek, mert a vállalatok rugalmasságot akarnak" -- mondta Kevin Cavanaugh, az IBM üzenetkezelõ és csoportmunka-szoftverekért felelõs vezetõje. "Vannak olyan helyek, ahol a telephelyen üzemeltetett szoftverek nagyszerûen mûködnek és gazdaságos választásnak bizonyulnak" -- folytatta Cavanaugh. "Vannak olyan helyek, ahol a virtuális, de dedikált környezetre szavaznak. Az informatikai részlegnek egészen mások a prioritásai, és ugyanolyan boldogok, ha valaki más gondoskodik a levelezéstrõl. Nekik szánjuk a hosztolt Notes-t." 
+
+A Microsoft partnereken keresztül már régóta biztosít hosztolt Exchange-szolgáltatást, azonban a hírek szerint hamarosan maga a redmondi vállalat is belép a szolgáltatók közé. Az e-mail postafiókok üzemeltetésének kiszervezése egyértelmûen jelzi, hogy az elektronikis levelezés ma már nem versenyelõny, hanem a túléléshez szükséges minimum a vállalatok számára, ilyen szolgáltatást pedig ugyanúgy igénybe lehet venni külsõ cégtõl is, mint ahogy a PC-k mûködtetését, vagy akár az elektromos áram vagy a csapvíz ellátását.
+
+Az IBM egyúttal azt is bejelentette, hogy a Hyatt hotellánc több mint 350 szállodájának összes dolgozója Lotus Notes 8.0-t használ levelezésre és Sametime 8.0-t üzeneküldésre, az együttmûködés támogatására. A Hyatt ezzel a korábbi, részben Lotus-alapú, részben Microsoft Exchange-bõl álló infrastruktúráját váltja fel.

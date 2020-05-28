@@ -1,0 +1,16 @@
+Új, játékgépekbe szánt mobil GPU-k az NVIDIA portfóliójában
+
+Négy új, különbözõ ár- és teljesítménykategóriába sorolható, noteszgépekbe szánt grafikus processzort jelentett be az NVIDIA a hannoveri CeBIT alkalmával. Az új megoldások kifejezetten a háromdimenziós alkalmazások -- elsõsorban természetesen játékprogramok -- grafikájának minél gyorsabb és részletgazdagabb kiszámolására, megjelenítésére fókuszálnak, de éppúgy besegítenek a fizika számításába vagy a HD-videók dekódolásába.
+
+
+
+Az új grafikus processzorok közül a két gyorsabb variáns a csúcsteljesítményû, asztaligép-helyettesítõ notebookokhoz fejlesztett GeForce GTX 280M és GeForce 260M, a könnyebb, vékonyabb gépekbe pedig a szerényebb teljesítményû, ugyanakkor kisebb fogyasztás és hõleadás mellett dolgozó GeForce 160M és 150M típusokat ajánlja a gyártó. Az NVIDIA szerint az újdonságok a korábbi, kifutó generációnál legalább 50 százalékkal nagyobb számítási teljesítményt nyújtanak, változatlan energiafelhasználási mutatók mellett.
+
+Az új modellekben közös, hogy ugyanarra az 55 nanométeres gyártástechnológiával készülõ G92-variánsra épülnek, a különbözõ változatoknál az órajel és a feldolgozóegységek száma tér el egymástól. Szintén közös pont, hogy a grafikus processzorok kettesével, SLI üzemmódban is munkára foghatók, ilyenkor a számítási teljesítmény közel duplája sajtolható ki a rendszerbõl. A négy újdonság egyaránt támogatja az PhysX fizikai számításokat (ehhez nem szüksége párba kötni a GPU-kat, mint a korábbi rendszereknél), valamint az NVIDIA CUDA platformját.
+
+
+A négy grafikus megoldás közül a legerõsebbnek számító GeForce GTX 280M magja 128 feldolgozóegységbõl áll, melyek 1463 megahertzen járnak. A maghoz maximum 1 gigabájtnyi, 950 MHz-en ketyegõ GDDR3-memória csatlakozik 256 bites adatsínen. A GeForce 260M valamivel kevesebb, 112 feldolgozóegységet tartalmaz, melyek 1375 megahertzen dolgoznak, a memória típusa és órajele egyezik a nagyobb testvér paramétereivel.
+
+A kisebb teljesítményû GeForce GTS 160M és 150M mobil grafikus rendszereknél egyaránt 64 feldolgozóegységet aktivált a gyártó, melyek típustól függõen 1500 vagy 1000 megahertzen járnak. A grafikus magok mellé társuló képpuffer típusát és teljesítményét illetõen nincs eltérés a két modell közt: az MXM formátumú kártyákra a chip mellé 1 gigabájtnyi, 1 GHz-es, 256 bites adatsínen csatlakozó GDDR3-memória kerül.
+
+Az NVIDIA új mobil grafikus processzorait elsõk közt az ASUS, az MSI és a Clevo építi be noteszgépeibe -- utóbbi beszállítója több, egyedi kiépítésû, csúcsteljesítményû játékgépekrõl híres cégnek, így egyebek mellett Dell kezében lévõ Alienware-nek vagy a HP-hoz tartozó VoodooPc-nek.

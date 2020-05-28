@@ -1,0 +1,10 @@
+Letölthetõ a Firefox 3.0 böngészõ utolsó bétája
+
+A Mozilla FTP-oldaláról letölthetõvé vált Firefox webböngészõ utolsó, ötödik bétája. Az újabb változat már 67 helyett 71 százalékot ér el a kompatibilitást vizsgáló Acid3 teszten, azonban továbbra is csak egy bétaváltozat, így hétköznapi használat során stabilitási problémákba futhatnunk. 
+
+
+
+Ez az utolsó béta a fejlesztési folyamatban, a következõ változat már a megjelenésre szánt kiadás (Release Candidate 1) lesz, amely május elején várható. Az RC-ket már a lehetõ legszélesebb közönséghez szeretnék eljuttatni, hogy minél több visszajelzést gyûjtsenek be az utolsó simításokhoz. Ezekbõl legalább három készül majd, mielõtt a végleges változat megérkezik. A népszerû nyílt forrású böngészõ így szinte pontosan fél évvel a tervezett dátum után, várhatóan júniusban érkezhet meg.
+
+
+A Firefox 3 számos jelentõs változást hoz a 2-es verziócsaládhoz képest, így alapjaiban átdolgozásra került az elõzmények kezelése, az oldalakat nem címük, hanem nevük, témájuk alapján is megtaláljuk; gyorsabbá és kényelmesebbé vált a könyvjelzõk hozzáadása és eltávolítása; javult a memóriamenedzsment, tartós használat alatt kevesebb helyet emészt fel a szoftver; okosabb lett a letöltéskezelõ, képes felfüggeszteni és folytatni egy folyamatban lévõ letöltést; immár optikai zoomra is képes a böngészõ, hasonlóan az Operához és IE7-hez.

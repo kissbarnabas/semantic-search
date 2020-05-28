@@ -1,0 +1,20 @@
+D-Link hálózati médialejátszók HD-re kihegyezve
+
+Két újdonsággal egészíti ki hazánkban kapható termékeinek kínálatát a D-Link. A hálózati eszközökre szakosodott gyártó új médialejátszói a megszokott séma szerint egyfajta átjátszóként szolgálnak a PC és az otthoni szórakoztatóelektronikai rendszer közt -- a készülékek a számítógépeken tárolt zenéket, képeket és videókat tudják lejátszani, utóbbiakat akár HD-ben is.
+
+
+
+Az egyszerûbb, DSM-510 típusú hálózati médialejátszó vezetéken (Fast Ethernet) vagy vezeték nélkül (802.11g WLAN) csatlakozhat az otthoni hálózathoz. A kisméretû készülékre HDMI csatlakozáson keresztül köthetõk rá a lapostévék, HD-képes megjelenítõk -- a DSM-510 esetében szemmel láthatóan a HD-lejátszásra fókuszáltak a készítõk, SD-rendszerû analóg kimenetbõl ugyanis csak egy kompozit csatlakozó került a doboz hátuljára. A hangot vagy a képpel együtt a HDMI kábelen, vagy száloptikával viszi át a DSM-510 az erõsítõnek, analóg összeköttetéshez egy sztereó RCA csatlakozó áll rendelkezésre. A készülék nem tartalmaz beépített háttértárat, a rajta lévõ USB kapunk keresztül azonban akár pendrive, akár külsõ merevlemez is rácsatlakoztatható.
+
+D-Link DSM-510
+
+A D-Link DSM-510 az ismert és elterjed fájlformátumok, konténerek közül az MP3-at, a WMA-t, a WAV-ot és az AIFF-et, valamint az Ogg Vorbist ismeri, videók esetében pedig az MPEG-1/2/4, WMV9, XviD (MP3 vagy PCM hangsávval), AVI (kizárólag MPEG-4), DVR-MS és DivX fájlok lejátszására adódik lehetõség.
+
+
+A nagyobb tudású DSM-330 érdekessége a nyílt, bõvíthetõ platformként ismert DivX Connected támogatás, mely a gyártó szerint világújdonságként debütál ennél a készüléknél. A nagyobbik modell a DSM-510-hez hasonlóan egyaránt kínál vezetékes és vezeték nélküli összeköttetést, HD-támogatást, a hátlapon azonban több kimenet is sorakozik, így a HDMI mellett komponens csatlakozással is a tévékészülékre köthetõ a berendezés. Az SD-tévék Scart, S-Video vagy kompozit kábelen kaphatnak jelet a DSM-510-tõl, az S/PDIF hangkimenet pedig koax összeköttetéssel bõvült.
+
+D-Link DSM-330
+
+A DSM-330 a pluginekkel bõvíthetõ DivX Connected platformnak köszönhetõen különbözõ online szolgáltatások és alkalmazások érhetõk el -- a gyártó szerint ezzel egyebek mellett e-mail üzenetek vagy RSS-hírek is megjeleníthetõk a tévé képernyõjén. A nagytesó a támogatott fájlformátumok tekintetében furcsa módon rosszabbul áll, mint olcsóbb variánsa, a D-Link legalábbis csak az MP3 és WMA támogatást említi a hangfájloknál, valamint a DivX, XviD és WMV9-lejátszást a videóknál. A DSM-330 a JPEG, JPEG 2000 és BMP képeket tudja kirajzolni a tévére, a kisebbik változat ezt TIFF, PNG és GIF megjelenítéssel tetézi.
+
+A két új D-Link médialejátszó július utolsó hetétõl érhetõ el a D-Link hazai kiskereskedelmi partnereinél. A DSM-510 46 ezer, míg a DSM-330 59 ezer forintba kerül a gyártó ajánlása szerint.

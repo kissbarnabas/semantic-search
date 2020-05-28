@@ -1,0 +1,14 @@
+Tegnap éjjel órákra letérdelt a Gmail
+
+Tegnap magyar idõ szerint az esti, éjszakai órákban több órára leállt a Google népszerû online levelezõszolgáltatása, a Gmail. A cég szerverein tárolt e-maileket ez idõ alatt felhasználók millió próbálták elérni, hiába -- éjszaka szerkesztõségünk több munkatársa is hibaüzenetet kapott, amikor megpróbált bejelentkezni a levelezõrendszerbe. A Google hajnalra kijavította a hibát, a fejlesztõi blogon pedig minden érintettõl elnézést kértek az okozott kényelmetlenségekért.
+
+
+
+A Gmail kontaktokat kezelõ szerverének, szervereinek kiesése okozta a teljes rendszerleállást, áll a hivatalos Gmail-blogban. A leállás következtében több millió felhasználó nem tudta elérni gmailes postafiókját közép-európai idõ szerint este kilenc és tizenegy közt -- a helyreállítás után a rendszer csak akadozva indult, így többen csak órákkal késõbb érték el a levelezésüket. Bár a hiba kijavításával már végeztek a szakemberek, az üzemeltetõk szerint a mai napon még várhatók fennakadások a levelezõrendszer mûködésében.
+
+
+ A keresõcég 2004. április elsején indította útjára ingyenes levelezõszolgáltatását, mely tavaly február 7-ig kizárólag meghívásos alapon volt elérhetõ. A Google szolgáltatását elsõsorban az egyszerûen használható, mégis sokoldalú funkciókat kínáló kezelõfelület, nem utolsósorban pedig a folyamatosan bõvülõ, e-mailek részére fenntartott tárterület tette népszerûvé több tízmillió felhasználó számára.
+
+A Google azóta több ingyenes webes szolgáltatást is útjára indított, melyek a Gmail nyomdokaiba lépve többnyire hamar népszerûvé váltak. A Gmail levelezõrendszert ma már nem csak magánszemélyek, hanem cégek is használják a belsõ levelezés bonyolítására. Nem ez az elsõ eset ugyanakkor, hogy a Gmail hosszabb-rövidebb ideig elérhetetlen marad a felhasználók nagy többsége számára, a Google részint az ezzel kapcsolatos reklamációkat kivédve továbbra is feltünteti a Gmail logójában a "beta" jelzõt. 
+
+A mostani leállás ugyanakkor mégis kiemelten kezelt rendszerhiba volt a cégnél, a fejlesztõk legalábbis saját bevallásuk szerint a kisebb horderejû hibákkal rendszerint nem foglalkoznak, nem jelentik be külön az okokat és nem kérnek senkitõl sem bocsánatot a hibák miatt. A rendszerhiba miatt egyébként beszámolók szerint a Google teljes belsõ levelezése is leállt.

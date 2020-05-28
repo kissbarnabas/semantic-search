@@ -1,0 +1,20 @@
+Egyre több nyílt forrású szoftvert vesznek az iskolák
+
+Az oktatási intézmények egyre többet költenek majd nyílt forrású szoftverekre és hozzájuk kapcsolódó szolgáltatásokra, de ez nem jelenti azt, hogy a tulajdonosi szoftverek használatát felfüggesztenék -- derül ki a Datamonitor elõrejelzésébõl, amely 14 országban végzett felmérésen alapul.
+
+
+
+Az amerikai, kanadai, brit, francia, német, ausztrál, indiai, dán, finn, holland, spanyol, norvég, svéd és olasz oktatási intézmények megkérdezéseével készült elemzés szerint 2012-ben az általános és középiskolák, valamint az egyetemek összesen mintegy félmilliárd dollárt fordítanak nyílt forrású szoftverekre és kapcsolódó szolgáltatásokra, szemben az idei 286 millió dollárral. A rossz hír az, hogy a Datamonitor szerint 2012-t követõen már nem nõ tovább a nyílt forrású szoftverekre költött büdzsé, és továbbra is csak elenyészõ töredékét adja a mintegy 9 milliárd dollárnak, amelyet az említett országokban az oktatási intézmények szoftverekre költenek.
+
+Leave us kids alone 
+
+Vannak olyan iskolák, amelyek "meggyõzõdésbõl" választottak nyílt forrású szoftvereket, de a legtöbb helyen a bevezetésük stratégiai döntés eredménye. Sok helyen azért kerülnek elõtérbe a szabad szoftverek, mert az intézmények úgy érzik, a tulajdonosi szoftverek gyártói, szállítói belekényszerítik õket olyan termékek megvásárlására és használatára, amelyekre egyáltalán nincs szükségük. A motivációk között szerepelt az is, hogy az intézmények a szabad szoftverek esetén akár együtt is mûködhetnek az esetleges hibák megtalálásában és javításában, vagy akár használati módszertanok kidolgozásában.
+
+
+ A szabad szoftverek terjedését az oktatásban nagyban elõsegíti, hogy több országban a kormányzat egyre intenzívebben érdeklõdik irántuk, sõt, sok esetben használja is azokat: Franciaország mellett India egyes régióiban is arra bátorítják az iskolákat, hogy használjanak nyílt forrású programokat, elsõsorban operációs rendszereket.
+
+Az olcsó iskolai noteszgépektõl, az OLPC programtól is sokat vár a Datamonitor elemzõje, meglátása szerint ha ezek valóban széles körben elterjednek, az alapjaiban változtathatja meg az oktatási intézmények szoftverhasználati szokásait, ráadásul árversenyre kényszerítheti a tulajdonosi szoftverek szállítóit. Az OLPC egyébként nem csak a fejlõdõ országokban számíthat sikerre, az Egyesült Államokban Alabama szövetségi állam például már 3 millió dollárért 15 ezer gépet vásárolt általános iskolásoknak.
+
+Kockázatok
+
+A jelentés szerzõje, Justin Davidson úgy véli, bár a nyílt forrású szoftverek után nem kell licencdíjat dizetni, a támogatási és üzemeltetési költségekkel együtt ezek akár ugyanolyan drágák is lehetnek mint a tulajdonosi szoftverek, és ezzel az oktatási intézmények is tisztában vannak.  A szabad szoftverek bevezetése kockázatokkal is jár a Datamonitor szerint, a jelentés a szakemberek esetleges hiányát emeli ki, mint jellemzõ akadályt, ami mind a bevezetésben, mint az üzemeltetésben és az esetleges upgrade-elésben jelentkezik. Ráadásul számos nyílt forrású szoftverhez nem érhetõ el olyan szintû támogatás, mint amilyen a tulajdonosi szoftverek szállítói biztosítanak.

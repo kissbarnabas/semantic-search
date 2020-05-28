@@ -1,0 +1,20 @@
+Az IPv6 már a spájzban van
+
+Mérföldkõhöz érkezett az IPv6 hétfõn, ahogyan az internet legfelsõbb szintû tartományait felügyelõ Internet Corporation for Assigned Names and Numbers (ICANN) IPv6 címekkel ruházta fel egyes gyökér névszervereit, így a tartománynevek elméletiben akár teljes egészében IPv4 kommunikáció mellõzése nélkül is használhatóak.
+
+
+
+Mérföldkõ
+
+Az ICANN hétfõn 13 root névkiszolgálójából hatot (A, F, H, J, K, M) látott el IPv6 címekkel, aminek köszönhetõen azok így közvetlenül IPv6 címzéssel is elérhetõvé váltak az internet tartományneveket feloldó rendszerei számára, amivel kiiktatható az IPv4 és IPv6 protokollok közötti fordítás szükségessége. A vállalatok lokális és az internet szolgáltatók DNS-szerverei számára így lehetõség nyílik, hogy az IPv6 címrõl és IPv6 címmel bíró tartományra irányuló kéréseket teljes egészében az új protokollon keresztül szolgálják ki.
+
+Az ICANN szerint az IPv6 alapvetõ az internet további növekedéséhez, és a szervezet egy döntõ lépést tett a teljes átállás irányában. Bár az IPv6 egyáltalán nem számít újdonságnak, hiszen a legelsõ kereskedelmi implementáció az IBM AIX 4.3 formájában 1997-ben jelent meg, amit 2000-ben követett a Solaris, majd 2001-ben a CISCO IOS routerek és layer-3 switchek is támogatták már. Az átállást azonban mindeddig semmi nem tette szükségessé, ugyanis az IPv4 a folyamatos fejlesztéseknek köszönhetõen kiszolgálja az igényeket.
+
+Az ICANN és mások szerint azonban rohamosan közeleg az idõ, mikor a rendelkezésre álló IPv4 címtartomány kimerül. Az IP-címtartományok kiosztását felügyelõ Internet Assigned Numbers Authority (IANA) szerint 2010-ben elfogynak a szabadon allokálható címek, amit 2017-ig lehetne kitolni a nem használt tartományban lévõk felszabadításával. Más becslések szerint az internetre csatlakozó eszközök számának növekedése miatt 2012 magasságában elfogynak az IPv4 címek. Az IDC szerint 2012-ben 17 milliárd eszköz fér hozzá majd az internethez -- abban egyetértés látszik kibontakozni, hogy a következõ évtized elejére szûkössé válik a jelenlegi 32 bites tartomány.
+
+
+Az IPv4 protokollal szemben az IPv6 számos elõnnyel rendelkezik, így például támogatja a hatalmas csomagokat, integrált biztonsági képességeket és a routolást segíti lokális címeket is. A két protokoll közötti döntõ különbséget azonban a címtartomány mérete jelenti. az IPv6 128 bites címzése praktikusan végtelen mennyiségû IP-címmel rendelkezik, így minden egyes embernek a Földön akár saját, több milliárdos tartománya lehet.
+
+Észrevétlen átjárás
+
+Az IPv6 elõtt azonban még hosszú út áll, így a két címtartomány még sokáig párhuzamosan fog egymás mellett létezni. Felhasználói oldalról az átjárás és átállás észrevétlen marad ideális esetben, ugyanis a csomagolási és fordítási technikák kidolgozásra kerültek és mûködõképesek. A Windows Vista alapértelmezettnek már az IPv6 címet veszi, így egy IPv6 és IPv4 címmel egyaránt jelenlévõ számítógép esetében elsõként elõbbivel próbálkozik -- a DNS-kiszolgálók például az alapján döntik el, hogy IPv6 vagy IPv4 címet adnak válaszul feloldásként vissza, hogy milyen protokollon érkezik a kérés.

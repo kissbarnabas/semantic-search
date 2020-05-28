@@ -1,0 +1,14 @@
+Nagyobb sebességi fokozatba kapcsol a Symantec
+
+A Symantec 2009-es internetbiztonsági termékcsaládjának fejlesztésekor a  legfontosabb célkitûzések egyike a sebesség növelése, mivel sok felhasználó panaszkodik erre -- idézi Con Mallont, a Symantec fogyasztói részlegének európai marketing-vezetõjét a Computerworld. 
+
+
+
+Con Mallon szerint a Symantec termékeit általánosságban kedvelik a felhasználók, de sokan panaszkodnak a lassú mûködésre, a túl nagy memóriafoglalásra. A Norton 360 nemrég megjelent 2.0 változatának telepítése 8-10 percig tart, a cél az, hogy ezt 1 percre csökkentsék. A szoftver elindulása 20-30 másodpercet vesz igénybe, a következõ változatban ezt szeretnék 10 másodperc körülire szorítani, és a szoftver méretét is igyekeznek 100 megabájtban maximálni, ami 75 százalékos csökkenést jelentene.
+
+
+ Azt persze Mallon sem állítja, hogy ezeket a célokat könnyû lesz elérni, de a Symantec kaliforniai mérnökcsapatának ez lesz az egyik legfontosabb feladata a közeljövõben. Az új fejlesztési irányelvek szerint készül a Norton Internet Security és a Norton AntiVirus is, de a változtatásokat a Norton 360-ba is átvezetik majd. 
+
+Emellett a Symantec kiemelten fontos feladatának tartja a keresési idõk lecsökkentését, amelynek érdekében olyan technológiát fejlesztenek, amely egyes, biztonságosnak tekintett fájlformátumok (pl. Excel táblázatok) esetében átugrik bizonyos részeket, hogy rövidítse a keresési idõt. Természetesen a Symantec szigorú titokként fogja kezelni, hogy pontosan melyik fájlok melyik része marad ki az ellenõrzésbõl, hiszen ha ezen információk illetéktelen kezekbe kerülnek, a vírusírók könnyen kijátszhatják.
+
+A Symantec már jópár éve nagy hangsúlyt fektet a minél nagyobb sebességre és a lehetõ legkisebb erõforrásigényre. A tavaly õsszel megjelent Endpoint Protection például szolgáltatásait tekintve lényegesen többet nyújt elõdjénél, a Symantec AntiVirusnál, a termék gyorsabb és kompaktabb is lesz, a Symantec állítása szerint a keresési sebessége harmadával gyorsult és az eddigi 60 megabájt helyett mindössze 21 megabájt memóriával beéri. A vállalat képviselõi ugyanakkor folyamatosan azt hangoztatják, a biztosági szoftverek esetében a legfontosabb paraméter a pontosság, vagyis az összes kártevõ kiszûrése, minden más csak ezután jöhet.

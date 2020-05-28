@@ -1,0 +1,12 @@
+Microsoft-SZÁMALK: intenzív tanfolyamok fejlesztõknek
+
+A Microsoft és a SZÁMALK közös fejlesztõi tréningsorozatot indít, amelynek keretén belül a jelenleg elérhetõnél rövidebb idõ alatt és olcsóbban válnak megszerezhetõvé a Microsoft fejlesztõi kompetenciák és MCP vizsgák.
+
+
+
+Az intenzív technológiai képzés keretében a résztvevõk témakörönként mindössze három nap alatt szerezhetik meg a Visual Studio 2005 alapú .NET 2.0 Core, Web, Windows és Distributed Application Development ismereteket. A program célja hosszabb távon, hogy jó alapot biztosítson az egyes témákhoz kapcsolódó hivatalos Microsoft vizsgákra való felkészüléshez és nemzetközi technológiai szakértõ (MCTS) minõsítések megszerzéséhez. A Microsoft és a SZÁMALK nem a piacon már meglévõ 5 napos hivatalos képzéseket szeretné kiváltani az intenzív kurzusokkal, a céljuk inkább az, hogy meghozzák a kedvet ezekhez a mélyebb ismeretek adó tréningekhez.
+
+
+ "A piacon dolgozó fejlesztõk komoly elméleti alapképzésben részesültek fõiskolai vagy egyetemi tanulmányaik során, azonban tapasztalataink szerint gyakran nem találkoznak a legfrissebb technológiákkal" -- vélekedik Nyisztor József, a SZÁMALK Zrt., továbbképzési és fejlesztési igazgatója. "A fiatal, frissdiplomás diákoknak túl magas költséget jelentenek a hivatalos képzések, a piacon dolgozó fejlesztõknek pedig nincs idejük hosszú tréningeken részt venni."
+
+Nyisztor szerint a felmérések arra utalnak, a munkáltatók sem szentelnek elegendõ figyelmet a dolgozók továbbképzésére, gyakran nem is engedhetik meg maguknak, hogy egy tanfolyamon résztvevõ munkatárs egy egész hétre kiessen a munkából. "A legújabb technológiákkal kapcsolatos kompetenciák megszerzése idõigényes és költséges. A napi munka mellett rendkívül nehéz lépést tartani a fejlõdéssel és részt venni komolyabb képzési programokban" -- hangsúlyozta Kollár László, a Microsoft fejlesztési üzletág igazgatója.

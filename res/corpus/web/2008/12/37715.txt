@@ -1,0 +1,22 @@
+Magyarul is elindult a Google News
+
+Mától magyar nyelven is elérhetõvé teszi népszerû hírgyûjtõ szolgáltatását a Google, ami a hazai online sajtó több száz forrásából táplálkozva, a jól ismert automatikus algoritmusok által válogatja majd az írásokat. 
+
+
+
+Kétszáz magyar oldalt szemléz
+
+A Google News szolgáltatás 2002 januárjában indult kísérleti jelleggel, majd 2006-ban kapott végleges cimkét, s azóta már 43 régióban, illetve 24 nyelven elérhetõ. Nem ígér bonyolult dolgot, csak annyit, hogy összegyûjti a vizsgált médiumok elmúlt 30 napban megjelent híreit, majd tematikusan csoportosítja õket, ezáltal egy virtuális címlapot generálva, illetve lehetõséget adva bárki számára az egyszerû hírfigyelésre.
+
+Az angol nyelvû változat körülbelül 4500 site-ot szemléz, míg a most induló magyar kiadás mindösszesen 200-at. Az elõzetes információk szerint a hírügynökségekkel külön szerzõdést kötött a Google, míg a híroldalakat egyoldalúan szemlézi. A Google Hírek a szemlézett oldalak anyagaiból csak az elsõ 200 kataktert jeleníti meg,  de kattintás után a felhasználók az eredeti megjelenési helyen találják magukat. A Google nem kizárólag az ingyenes, de az elõfizetést igénylõ lapokat is képes szemlézni, ezeket a találati listában külön jelzi --  jogosulatlan hozzáférés azonban a News segítségével sem lehetséges. 
+
+Az alaposabb információkra vágyók, illetve a médiaipari dolgozók életét könnyíti meg, hogy az algoritmus képes csoportosítani a híreket egyes témák szerint, hiszen a Google szövegbányász moduljai felismerik az összefüggéseket és fogalmi láncolatokat. Így egy kattintással listázható egy adott témában az összes megjelenés a szemlézett lapokról. Sõt, egy keresést követõen a találati listában látszik, hogy egy adott témáról hány forrás írt valamilyen formában.
+
+"Nagyon örülök neki, hogy mostantól már a hazai hírforrások között, magyarul is kutakodhatnak és böngészhetnek felhasználóink, így egy-egy õket érdeklõ eseményt alaposabban és egyszerûbben körbejárhatnak, mint korábban" -- mondta Peresztegi Zoltán, a Google magyarországi képviselõje. "A Google Hírek könnyebben hozzáférhetõvé és kereshetõvé teszi a híranyagokat, várhatóan több internetezõ fogja megtalálni és elolvasni ezeket. Ráadásul az olvasók olyan oldalakra is eljuthatnak, amelyekrõl korábban még sosem hallottak, így a kisebb marketing-költségvetéssel rendelkezõ, ismeretlenebb, de releváns lapok is számos új látogatót szerezhetnek.&#8221; 
+
+Sokan még mindig címlapokról tájékozódnak
+
+Ahogyan a belsõ folyamatai, úgy a News kezelõfelülete is szinte megegyezik a Google keresõjével. Kulcsszavak alapján, kapcsolókkal kiegészítve lehet hírek után kutatni, a Hírkeresõ-típusú oldalakkal ellentétben itt nincs emberi beavatkozás, kizárólag az automata Google-keresõ roboton illetve a hirdetési rendszer lelkét is adó szövegbányász algoritmuson múlik, hogy melyik hírek kerülnek elõre. Ahogyan a PageRank esetében, itt is csak tippelni lehet, hogy a megjelenés ideje, a visszahivatkozások száma és a szövegrelevancia lehet a rangsorolás alapja.
+
+
+A Magyarországon klasszikusan erõs hírkeresõ oldalak számára konkurenciát jelenthet a lokalizált News, bár független szakértõk szerint a konzervatív internetezési szokások miatt csupán egy vékony réteg lesz az, aki számára ez új lehetõséget jelent majd. A weben valóban otthonosan mozgó felhasználók közül sokan RSS-t használnak, a laikus internetezõk nagy része pedig még mindig címlapokról tájékozódik. Az viszont kétségtelen, hogy a tematikus hírkeresésben egy erõs eszköz jelenik meg a magyar nyelvû online sajtó területén.

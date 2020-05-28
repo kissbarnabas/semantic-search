@@ -1,0 +1,16 @@
+Mobil merevlemez helyett: 1,8 hüvelykes, 128 gigabájtos Mtron SSD
+
+A 32, vagy akár 64 gigabájt kapacitású SSD meghajtók érkezésén ma már nem lepõdünk meg, de a 2005-ben alapított koreai Mtron 128 gigabájtos villámgyors tárolója szót érdemel. Az új egység pont akkora, mint az 1,8 hüvelykes mobil merevlemezek.
+
+
+
+Az Mtron 128 gigabájtos SSD meghajtójának tömeggyártása áprilisban indul és nagy valószínûség szerint a számítógép-gyártók mellett a fogyasztók számára is elérhetõ lesz már az elsõ sorozat is. A meghajtó Zero Insertion Force (ZIF) PATA csatolófelülettel ellátott eszközökbe illeszthetõ, ilyet alkalmaznak az Apple-nél a MacBook Air noteszgépben illetve számos, újabb merevlemezes iPod zenelejátszóban is.
+
+
+A 128 gigabájt fejektõl és lemezektõl mentesen megvalósuló tárolásának ára van, mégpedig nem is kevés, az Mtron meghajtója 1600 dollárral növeli annak a készüléknek az árát, amelybe beépítik. Mindazonáltal a piacra kerülése a már kapható 64 gigabájtos, de legfõképp a 32 gigabájtos változatok árát csökkentheti, egyben kihúzva nevük mögül az élvonalbeli jelzõt.
+
+Már piacon az Mtron 2,5 hüvelykes sorozata, az új 1,8 hüvelykes 128 MB-os áprilisban csatlakozik
+
+A tárolóegység egysíkú cellás (SLC: Single Level Cell) elrendezésû modulokból építkezik, maximálisan 120 MB/s olvasási, illetve 110 MB/s írási sebességgel mozgathatja az adatokat. A gyártó bejelentett az elõzõtõl eltérõ többszintes cellaszervezésû (MLC: Multi Level Cell) SSD meghajtót is, melynek értékei a fentiétõl elmaradnak, ezek 110 MB/s olvasási és 40 MB/s írási képességeket jelentenek.
+
+"Az SSD meghajtókkal az Mtron iparágvezetõként ad új modelleket a növekvõ SSD piacnak, mely 2012-re tízmilliárdos nagyságrendekben lesz mérhetõ. Az új termékeket gondos piackutatás- és elemzés elõzte meg, mely során figyelmet fordítottunk a fogyasztók gyors, nagyteljesítményû SSD-k iránti igényeire, õket az újdonságok áprilisban érik el." -- mondta el Steve Jeon az Mtron vezérigazgatója.

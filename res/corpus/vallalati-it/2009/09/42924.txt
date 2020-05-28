@@ -1,0 +1,10 @@
+PHP-gyorsítót adott ki az IIS-hez a Microsoft
+
+A Windows Cache Extension for PHP, vagyis a WinCache 1.0 Beta egy olyan bõvítmény a PHP számára, mely a programok teljesítményét fokozza a kód módosítása nélkül. A dolog talán egyetlen szépséghibája nem is az, hogy csak PHP 5.2 és 5.3 kiadásokkal mûködik együtt, hanem hogy bizonyos Windows-IIS párosításokat követel meg, így például Server 2003 esetén IIS 6.0 FastCGI bõvítménnyel a feltétel, míg a Server 2008 IIS 7.0/FastCGI kombót kíván, non-thread-safe buildekkel.
+A WinCache, mint sok más PHP-gyorsító, nem az adatokat, hanem a kódot tárolja le a memóriában, méghozzá bájtkódra fordított formában. Ez azt jelenti, hogy ugyanannak a PHP programkódnak az egymást követõ végrehajtásai a lehetõ leggyorsabbak, mivel nem szükséges a szkriptet újra és újra beolvasni és futásidõben lefordítani, ez mindössze egyszer történik meg. Ezt követõen a PHP szkript meghívásakor már a kész bájtkódot (PHP opcode) használhatja a rendszer.
+
+A WinCache ezen túlmenõen a szkripteket tároló fájlokat is képes a memóriában eltárolni, így azok kiolvasása nem terheli a merevlemezt, és gyorsabb is. Ezen túlmenõen az eszköz eltárolja az erõforrások relatív és abszolút útjainak térképét, vagyis ezeknek a megfeleltetéseknek sem szükséges minden egyes futásnál megtörténniük, ami bizonyos, sok relatív elérési utat használó PHP programnál érezhetõ gyorsulást eredményez. A WinCache béta ugyanúgy telepíthetõ, mint bármilyen más PHP bõvítmény. Letölthetõ a PHP 5.2 sorozathoz itt, az 5.3-hoz pedig itt.	     
+                  
+                  
+                  
+                   

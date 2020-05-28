@@ -1,0 +1,14 @@
+Olcsón bõvíthetõ a szerverek memóriája a MetaRAM-mal
+
+Egyszerûen bõvíthetõvé teszi a szerverek memóriakapacitását az AMD volt mûszaki igazgatójának, Fred Webernek az új cége, a MetaRAM. A most nyilvánosság elé tárt technológia segítségével a már meglevõ gépekben is akár négyszeresére bõvíthetõ a memória, mégpedig új eszközök beszerzése nélkül, költséghatékonyan. 
+
+
+
+A MetaRAM két éve fejlesztett, és most bemutatott terméke egy olyan lapka, amely logikailag a szerverek memóriavezérlõje és a memóriamodulok közé ékelõdik be, és lehetõvé teszi akár négyszeres memóriakapacitás használatát. A MetaRAM chipjeinek felhasználásával a memóriagyártók az eddigieknél nagyobb kapacitású modulokat dobhatnak piacra anélkül, hogy a chipek kapacitását növelnék -- elég csupán több chipet elhelyezni a modulon, például stackeléssel. A MetaRAM technológiája gondoskodik róla, hogy a memóriavezérlõ két vagy négy memóriachipet egynek lásson, így a memóriavezérlõt sem kell lecserélni, minden maradhat a régiben. 
+
+
+A MetaRAM technológiájára építve a Hynix és a Smart Modular Technologies is fog memóriamodulokat gyártani, a Hynix már be is jelentette 8 gigabájtos DDR2 "csíkjait", amelyek sorozatgyártása a harmadik negyedévben indulhat el. Az év második felében hasonló kapacitású DDR3 modult is piacra dob majd a Hynix, szintén a MetaRAM technológiára építve. Ezek a modulok lábkompatibilisek a szabványos DDR2 (vagy DDR3) modulokkal, így aztán semmi akadálya annak, hogy akár meglevõ szerverekbe is beépítsék õket -- egy nyolc processzorfoglalatot tartalmazó szerverbe akár 1 terabájt memória is besüríthetõ.
+
+
+
+A technológia további elõnye, hogy energiatakarékos, a modulokon található MetaRAM vezérlõ ugyanis igyekszik a memóriachipeket alvó módban tartani a legkisebb fogyasztás és hõtermelés érdekében. Ezzel elérhetõ, hogy egy 8 gigabájtos memóriamodul se fogyasszon többet egy 1 gigabájtosnál, és ne is melegedjen jobban. A vállalat szerint a megoldásuk segítségével jóval energiatakarékossabban növelhetõ a memóriakapacitás, mint FB-DIMM modulok használatával.

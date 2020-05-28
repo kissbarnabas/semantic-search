@@ -1,0 +1,14 @@
+Megjelent az Opera webböngészõ 9.6-os verziója
+
+Átdolgozott RSS-olvasót és új funkciókkal kecsegtetõ e-mail klienst kapott az Opera webböngészõ legújabb, 9.6-os verziója. A multiplatformos szoftver legfrissebb változatát ma tette közzé a norvég fejlesztõcég, az Opera Software.
+
+
+
+Az Opera 9.6-os verziója a korábbi, 9.52-es verzióban talált hibák javítása mellett szokás szerint számos új funkcióval is gazdagodott. Így például a szoftver különbözõ számítógépekre telepített példányait szinkronizáló Opera Link mostantól a könyvjelzõk, a jegyzetek, a gyorstárcsázás és más személyre szabott beállítások mellett képes szinkronba hozni az egyedi keresõmotor-beállításokat és a naplózott címsort is. Az új változat egyik lényeges változása, hogy a fejlesztõk módosították az RSS/Atom hírolvasómodult is, mely mostantól már a feliratkozás elõtt betekintést enged a feedbe.
+
+A böngészõ levelezõje, az Opera Mail is új funkciókkal gazdagodott az új verzióban: a kliens már támogat egy alacsony sávszélességû (betárcsázós, vagy gyenge térerejû vezeték nélküli kapcsolatokhoz) optimalizált üzemmódot is. A 9.6-os verzióban a felhasználók új lehetõségeket kapnak az üzenetek priorizálásához is a follow/ignore (követés, figyelmen kívül hagyás) flagekkel, melyekkel a beszélgetések és a kapcsolatok egyaránt megjelölhetõk.
+
+
+Az Opera Software a mostani frissítést megelõzõen augusztus második felében adta ki többplatformos böngészõjének elõzõ, 9.52-es verzióját. A fejlesztõk akkor elsõsorban a szoftverben felfedezett biztonsági rések miatt módosították a kódot -- a 9.52-es verzió a korábbi változatban felfedezett hét sebezhetõségre nyújtott tapaszt. Az új kiadás a már említett új funkciók mellett ezeket a javításokat is magában foglalja, emellett a cég ígérete szerint gyorsabb is lett elõdjénél.
+
+Az Opera webböngészõ 9.6-os verziójának windowsos és mac-es változata letölthetõ az Opera Software weboldaláról.

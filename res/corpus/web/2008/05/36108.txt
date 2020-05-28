@@ -1,0 +1,14 @@
+Weboldalak biztonságosságát ellenõrizhetjük a Google segítségével
+
+[eWeek] Az elmúlt hónapokban több hullámban megszámlálhatatlan weboldalt fertõztek meg olyan kódokkal, melyek rosszindulatú alkalmazásokat próbálnak meg letölteni számítógépünkre. Az egyszerû internetezõ csak vírusvédelmi szoftverében bízhatott, mert eddig semmi mód sem volt arra, hogy ellenõrizze gyakran látogatott weboldalai "elõéletét".
+
+
+
+A Google keresõje eddig is több-kevesebb támpontot nyújthatott, hiszen keresõje is figyelmeztetett ezekre a veszélyekre. A keresõóriás most egy olyan oldalt indított, ahol lekérdezhetjük egy-egy adott weboldal "történetét", azt, hogy a cég az elmúlt 90 napban talált-e rosszindulatú kódot az adott webhely egyes oldalaiban. A Safe Browsing Diagnostic Page egy kisebb statisztikát is nyújt errõl.
+
+A Google oldalán látható az adott webhely jelenlegi besorolása. Amennyiben az indexelés során detektált a keresõóriás rosszindulatú kódot, itt az is szerepel, pontosan mennyi oldalon és milyen programokat próbált meg letölteni a webhely. A Google még azt is elárulja, hogy az kártékony programokat honnan próbálja meg letölteni a kód, illetve azt is, hogy legutóbbi mikor járt az adott webhelyen.
+
+
+A statisztikákat az elmúlt 90 napban gyûjtött információk alapján állítja össze a keresõóriás. Az ilyen információk rendkívül hasznosak lehetnek, a McAfee szerint ugyanis körülbelül 7,8 milliárd veszélyes weboldalt találhatunk keresõk segítségével egyetlen hónap alatt.
+
+A weboldalak elleni támadások egyre gyakoribbak, az év eleje óta egyre nagyobb számban fertõznek meg oldalakat olyan kódokkal, melyek a látogatók számítógépére trójaikat és más kártékony programokat próbálnak letölteni. Az ilyen kódokat biztonsági hiányosságok felhasználásával jutattják be a megbízhatónak tartott weboldalakba. A SecureWorks szerint már zombihálózatot, botnetet is felhasználnak erre a célra.

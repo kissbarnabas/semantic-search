@@ -1,0 +1,14 @@
+Mega patch-kedd a Microsofttól
+
+Hatalmas frissítési csomaggal kívánt jó reggelt a Microsoft a  felhasználók nagy részének. A szoftveróriás soha nem látott mennyiségû biztonsági javítást adott ki egyszerre a decemberi patch kedden, melyek többsége kritikus besorolású. A frissítések rávilágítanak, hogy a Microsoft minden erõfeszítése ellenére az Internet Exploreren keresztül a támadóknak továbbra is számos lehetõsége adódik, hogy bejussanak egy Windows-alapú rendszerbe, és tetszõleges kódot futtassanak le ott.
+
+
+
+A Microsoft összesen 28 biztonsági rést foltoz nyolc frissítésben, melyek közül 23 kritikus besorolású, három fontos, kettõ pedig közepes osztályzatot kapott a cég minõsítési rendszerében. A rések többsége távoli kód végrehajtását teszi lehetõvé, míg mások a privilégium jogosulatlan megemelését. A frissítések az összes jelenleg támogatott kliens- és szerveroldali Windowst, az Internet Explorert, Media Playert és más komponenseket, a Microsoft Office számos windowsos és maces kiadását és a fejlesztõi környezeteket is érintik.
+
+
+Az MS08-070 jelölésû frissítés által kezelt egyik rés tekinthetõ egyértelmûen a legkiritikusabbnak, melyre már nyilvános támadó kód is létezik, de ez a frissítés orvosol másik öt sebezhetõséget is, melyekre a Microsoft szerint valószínûleg születni fognak azokat kiaknázó exploitok. A hat rés mindegyike a Visual Basic 6.0 Runtime-ban található, mégpedig az ActiveX-vezérlõben, és mind távoli kód végrehajtását teszi lehetõvé böngészõn, természete miatt elsõsorban Internet Exploreren keresztül egy weblap segítségével. 
+
+A második leginkább érdekes résekkel az MS08-071 foglalkozik, melyek a Windows grafikus magjában, a Graphics Device Interface-ben (GDI) találhatóak. A támadó egy megfelelõen megtervezett Windows Metafile-lal (WMF) tudja saját kódját rákényszeríteni a rendszerre. Biztonsági szakértõk szerint különösen kritikus ennek a javításnak a telepítése, hiszen a GDI a rendszer magjában található. Az MS08-073 szintén toplistás javítás, ugyanis az Internet Explorerben megtalálható négy rést tünteti el, melyeket a Microsoft szerint viszonylag könnyen ki lehet aknázni.
+
+A decemberi frissítésekrõl, melyeket a Microsoft szokás szerint az Update szolgáltatásain keresztül terjeszt, további információkat a TechNet oldalán találni. 

@@ -1,0 +1,14 @@
+SUSE Linuxszal is kapható lesz az MSI Wind
+
+A Windows XP mellett s SUSE Linux Enterprise Desktop 10 lesz a másik operációs rendszer, amivel az MSI olcsó noteszgépét meg lehet majd venni a boltokban. Az MSI és a Novell már korábban is együttmûködtek annak érdekében, hogy a tajvani cég asztali gépein és notebookjain fusson a SUSE Linux, azonban ez az elsõ eset, hogy a disztribúció elõre telepítésérõl szóló megállapodás született a cégek között.
+
+ 
+
+
+ Amint arról beszámoltunk, az MSI Wind egy 10 hüvelykes, 1024x600 pixeles, LED háttérvilágítású kijelzõvel szerelt mini notebook, másképpen "netbook", ami az Intel 1,6 GHz-es Atom N270 processzorára épül. A gépben alapfelszereltség az 1 gigabájt DDR2 memória, az adatok tárolásáról 80 gigabájtos merevlemez gondoskodik. Az internetre Ethernet vagy Wi-Fi vezérlõjével kapcsolható gép fehér, fekete és rózsaszín kivitelben lesz kapható Magyarországon, június végétõl. Hogy a linuxos változat mikor kerül a boltokba, arról egyelõre nincs információ, az MSI és a Novell közleménye szerint azonban még a nyáron találkozhatunk vele a boltok polcain.
+
+
+[+] Melyik a jobb mini notebook: MSI Wind vagy HP 2133? 
+
+Az idén világszerte 145 millió notebook eladását várják az elemzõk, 
+az MSI 300-500 ezer Wind értékesítésével számol. Az Intel elõrejelzése szerint 2008 és 2010 között 47 millió olcsó notesz találhat gazdára. A Windhez hasonló aprócska noteszek sikere komoly lökést adhat a Linux elterjedésének a desktopokon. A szabad operációs rendszer a szervereket már meghódította, de az asztali gépeken, noteszeken a Windows árnyékában egyelõre nem ért el átütõ sikereket. A pici, olcsó gépek esetében azonban akár 20-25 százalékos árkülönbség is lehet a windowsos és linuxos változatok között, ami a Linux irányába terelheti a keresletet.

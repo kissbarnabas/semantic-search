@@ -1,0 +1,16 @@
+Itt a ConVirt, az egységes kezelõfelület Xen és KVM virtualizációs platformokhoz
+
+[HUP/HWSW] Megjelent a nyílt forrású virtualizációs hypervisorokat támogató szerver- és desktopmenedzsment megoldás, a ConVirt 1.0-s változata, mely éles környezetben is alkalmazható. A ConVirt nyílt forráskódú és szabadon letölthetõ felügyeleti eszköz Xen és KVM platformokhoz, melyhez igény szerint támogatást is lehet vásárolni.
+
+
+
+A ConVirt számos kecsegtetõ tulajdonsággal rendelkezik, melyek érdemessé tehetik arra, hogy kipróbáljuk. Legnagyobb érdeme jelenleg, hogy a nyílt forráskódú és szabadon elérhetõ linuxos virtualizációs platformokhoz, a Xenhez és a KVM-hez az elsõk közt kínál grafikus menedzsmentet, teszi mindezt egységes felületen keresztül -- ezzel egybõl két legyet üt egy csapásra. A ConVirt lényegében lehetõvé teszi, hogy virtualizált linuxos környezeteket egyetlen eszközzel felügyeljünk. A Red Hat kiforrott, és adatközpontokban is bevethetõ menedzsment megoldása például csak az év második felében érkezik.
+
+Az akár nagyobb adatközpontokban történõ felhasználásra is fejlesztett ConVirt igyekszik rengeteg feladatot a lehetõ legegyszerûbbé tenni, így például az új szerverek létrehozását, elindítását, leállítását, visszaállítását, mentését mozgatását, vagy az erõforrások gyors allokációját. ConVirt lehetõvé teszi szerver- vagy desktopcsoportok egyidejû konfigurálását, és a csoportok számára megosztott tárhelyek létrehozását is. Az új virtuális rendszerképek gyors és egységes létrehozását gyári és saját sablonok is segíthetik, de lehetõség nyílik teljesen felkonfigurált, indításra kész virtuális célgépek (virtual appliance) betöltésére. A ConVirt integrált katalógusböngészõvel rendelkezik ehhez.
+
+
+A ConVirt drag&drop módszerrel engedi a vendégek élõ mozgatását, amire ráadásul csoportosítva is lehetõség van, így teljes fizikai szervereket tehermentesíthetünk néhány kézmozdulattal, végtelenül leegyszerûsítve egy szerverkarbantartás, -frissítés  vagy -csere okozta migrációs feladatokat. A szoftver teljesítményadatokat is képes gyûjteni, mégpedig sokféle felbontásban, így a virtuális gépektõl kezdve a fizikai kiszolgálókon át teljes szerver- és desktopcsoportokig vagy az összes fizikai gépig, aggregálva a mutatókat. A szervereken túl a SAN/NAS és hálózati eszközökrõl is áttekintést ad.
+
+ 
+
+A felügyeleti eszköz a legnépszerûbb Linux-disztribúciókat támogatja explicit módon, így a Red Hat Enterprise Linux 5-ös generációt, a SUSE Enterprise Linux Server 10-et, az Ubuntu 8.1-et és a Debian 5-öt, de elméletileg más változatokon is futtatható. A hivatalos támogatási szolgáltatások azonban csak bizonyos, certifikált konfigurációkon vehetõ igénybe, így például hiába vásárolta meg a KVM-et a Red Hat, RHEL-en egyelõre csak Xen 3.1-hez jár támogatás. További információ a fejlesztõ Convirture weboldalán érhetõ el.

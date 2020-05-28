@@ -1,0 +1,59 @@
+Magyar netre magyar spamet!
+
+Nincs olyan internetezõ, akinek ne okozna valamilyen kellemetlenséget a kéretlen levelek áradata. Milliós volumenben érkeznek a külföldi spamek minden postafiókba, de számos hazai legális, vagy éppen illegális vállalkozás is ezt az olcsónak tekinthetõ utat választja reklámfelületként. A sokszor érdektelen internetszolgáltatók a Nemzeti Hírközlési Hatóságra (NHH) mutogatnak, az NHH pedig nem túl potens a kérdésben. A bürokratikus figyelmeztetéstõl senkinek nem megy el a kedve a levélszemét gyártástól.
+
+
+
+A külföldi spammel sajnos nem lehet mit kezdeni, szûrõk alkalmazásával el lehet jutni oda, hogy legalább ne kelljen tudomást venni arról, hogy napi akár többszáz reklámhulladék kerüljön a levelesládánkba. A magyarországi, magyar nyelvû spam viszont igen gyakran átcsúszik a szûrõkön és hiába illegális, hiába etikátlan, a szerverhosting cégek és az internetszolgáltatók többnyire nem kezelik prioritáson a problémát, pedig évek óta kívánatos lenne, hogy az asztalra csapjanak és kikényszerítenének a felettes hatóságtól valamilyen értelmes megoldást. A felhasználók komfortérzetét ezzel úgy tetszik, nem kívánják növelni -- elégedjen meg mindenki a megabitjeivel.
+
+
+Megélhetési spammer
+
+A civileket idegesíti 
+
+
+A problémára szerkesztõségünk figyelmét Sipos Zoltán, a magyar nyelvû Spamwiki alapító adminisztrátora hívta fel, mégpedig a nemrégiben megjelent cikkünk nyomán, melyben felderítjük a Vodafone trükkös mobilinternet sebességet korlátozó gyakorlatát. A szolgáltató az ISZT (Internetszolgáltatók Tanácsa) hálózathasználati irányelveire hivatkozva formál jogot arra, hogy az adatforgalomban korlátlannak hirdetett csomagját "nagyon korlátlanul" használók letöltési sebességét töredékére csökkentse, miközben a magyar spam -- melyrõl szintén rendelkezik az AUP (Acceptable User Policy) -- ellen fellépõ egyéni aktivisták megkereséseit sorra lepattintják, pedig állítólag éppen a Vodafone mobilinternet elõfizetéseit használják mostanság legszívesebben a spamküldõk. 
+
+[+] Spam-Wiki: minden, amit tudni akartál
+
+"A Vodafone-nál bejelentett spamküldésre a válasz csupán annyi, hogy a Nemzeti Hírközlési Hatósághoz kell fordulnunk, õk nem tehetnek semmit. Ez nyilvánvalóan nem igaz, hiszen a szolgáltatói szerzõdés szerint cselekedniük kell a törvényellenes cselekményekkel szemben. Itt nem néhány otthon számítógéprõl elküldött e-mailrõl, hanem tízezres vagy még nagyobb számban szórt illegális tartalmat kínáló kéretlen reklámlevelekrõl van szó" - mondta Sipos a HWSW-nek, majd az ISZT ajánlással kapcsolatban hozzátette: "Míg a korlátozás esetében erre hivatkozik, a spambejelentésekre válaszul a vállalat éppen azt szokta fölhozni, hogy nem tagja az ISZT-nek. Miféle napraforgó hozzáállás ez?"
+
+Kérdezz-felelek 
+
+
+Annak ellenére, hogy a mobilinternet miatt a Vodafone került fókuszba, természetesen a többi szolgáltató is kisebb-nagyobb mértékben érintett a magyar spamek terjesztésében, ezért a témával kapcsolatban minden nagyobb hazai internetszolgáltatót megkérdeztünk, hogyan kezelik ezt a problémát. Konkrétan a Vodafone mellett a Magyar Telekom, UPC, Invitel, GTS-Datanet és a Pannon is kivétel nélkül válaszolt ellátva minket 33 ezer karakternyi információval.
+
+
+Meglepõ módon a legtöbb szolgáltató tisztában van azzal, hogy felhasználóik nem csupán célpontjai, de adott esetben forrásai is a spam leveleknek. Maradi István, a Magyar Telekom Nyrt. mûszaki vezérigazgató-helyettesétõl megtudtuk, hogy nagy tömegû kéretlen levelek ugyan nem kerülhetnek az internetre a cég által alkalmazott szervereszközöknek köszönhetõen, de azzal is tisztában vannak, hogy a folyamatosan változó módszerek miatt rabló-pandúr játékot játszanak a spammerekkel. Az egyik észrevehetõ trend, hogy megsokrszorozódott az úgynevezett smarthost rendszereken keresztül küldött üzenetek száma. Korábban ezek szinte kizárólag a zombihálózatok tagjaitól induló idegennyelvû levelek voltak, de Maradi szerint mostanában egyre gyakoribbak az olyan, a forrás által tudatosan nem spamként kezelt magyar nyelvû reklámok és hírlevelek, melyet a címzett és a szolgáltató is spamnek ítél.
+
+A többi telekommunikációs cég továbbra is a zombihálózatokból küldött üzeneteket látja a téma legnyugtalanítóbb problémájának, a UPC bevallása szerint például havi néhány ezres nagyságrendben indulnak tõlük kéretlen levelek saját SMTP-szerverükön keresztül. A mennyiség meglepõen alacsonynak tûnik ahhoz képest, hogy néhány évvel ezelõtt éppen õk voltak a hazai kéretlen reklámozók egyik kedvelt platformja. A közvetlen forgalmazással szemben az Invitel szerint viszont más a helyzet, ha a szolgáltató hozzáférési szolgáltatóként (bérelt vonal) mûködik közre, ilyenkor ugyanis nincs joga vizsgálódni vagy tenni bármit, csupán a partnert értesítheti. Ezt a rést használja ki például a Spamwiki szerint egyik legrenitensebb spammer, az 1B Telekom Kft.
+
+Az itthon generálódott levélszemét -- Szabó István, a GTS-Datanet hálózatfejlesztési és -üzemeltetési vezetõje szerint -- szerencsére nagyságrendekkel kevesebb, mint a külföldi, de hazánkban is van néhány ipari küldõ, például az illegális letöltõszájtokat népszerûsítõ, "warez-spamek" terjesztõi. Többségében viszont mégis a naiv, "egyszeri" spammer, aki legtöbbször nincs is tisztában azzal, hogy vállalkozásának kéretlen levelekben történõ hirdetése törvénytelen. 
+
+A spam üzlet metodikája
+
+
+A normál levélforgalomból tökéletesen kiszûrni ezeket szinte lehetetlen, de a legtöbb szolgáltató igyekszik megoldást találni a kérdésre. Saját bevallása szerint minden megkérdezett szolgáltató odafigyel a felhasználók bejelentéseire (emailes vagy telefonos bejelentés),  illetve használ valamilyen szerveroldali monitoring megoldást is: figyelik a kimenõ levélforgalom volumenét, az elõforduló torlódásokat és egyéb rendszerszerûségeket. A GTS-Datanet rendszermérnöke, Sütõ János kiemelte, hogy a statisztikai keresés alapvetõ: ha egyes értékek, például a visszapattanó (bounce) levelek száma elér egy kritikus szintet, akkor kivizsgálják a szokatlan eseményt. Ezen túl viszont az aktív keresést is használják: csapda e-mail címeket hoznak létre, aki pedig ide szemetel, az ellen megteszik a megfelelõ lépéseket.
+
+Széttárt karok 
+
+
+A HWSW-nek nyilatkozó egyik Vodafone vezetõ szerint fontos tudni, hogy "az elektronikus kereskedelemrõl szóló törvény definíciója szerint õk "közvetítõ szolgáltatók", akiknek a kéretlen hirdetéseket küldõk tekintetében igen erõsen korlátozott felelõssége van, arra pedig gyakorlatilag semmiféle jogszerû lehetõségük nincs, hogy önmaguk a kéretlen levél címzettjének bejelentése alapján bármit is számon kérhessenek a feladótól, vagy eljárjanak az ilyen hirdetõk ellen. Magyarországon bárki jogosult ugyanis elektronikus hirdetéseket küldeni annak, akinek az adatait a küldõ jogszerû eljárásban ismerte meg."
+
+	     
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                    A cikk több oldalból áll:
+                    
+                    
+                        1. oldal: Magyar netre magyar spamet!
+                      
+                        2. oldal: A gyenge szankció nem elrettentõ
+                        
+                    
+                  

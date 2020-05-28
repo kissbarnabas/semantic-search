@@ -1,0 +1,22 @@
+Hatmagos Xeon MP érkezik õsszel
+
+Hatmagos Xeon MP-t dob piacra az Intel az év második felében, derül ki egy Sun prezentációból. Az õszre várható új szerverchip egy áthidaló terméknek tekinthetõ a következõ generációs mikroarchitektúrára és infrastruktúrára épülõ MP-platform megérkezéséig, javítva az Intel versenyképességét a szegmensben, és csökkentve egy nyolcmagos Opteron érkezése jelentette fenyegetést.
+
+
+
+Nagyüzemi processzor
+
+A Dunnington kódnévvel ellátott fejlesztés egy monolitikus felépítésû, hat Penryn-magot integráló chip. Az Intel nagyjából évente frissíti Xeon-MP kínálatát, vagyis a Dunnington augusztus-szeptember magasságában várható, így valószínûsíthetõ, hogy az Intel elõbb jelenik meg a piacon hatmagos chippel, mint négymagossal. A Dunnington három kétmagos blokkból épül fel, praktikusan három kétmagos Penryn chip struktúra került integrálásra egyetlen szilíciumszeletre egyenként 3 megabájt L2 cache-sel, melyek egy masszív, 16 megabájtos L3 cache-en osztoznak.
+
+A Dunnington foglalat- és chipset-kompatibilis a jelenlegi Xeon MP-platformmal, az egy éve megjelent, Intel 7300 (Clarksboro) chipsetet alkalmazó Canelanddel, mely dedikált rendszerbuszokkal négy foglalatot és legfeljebb 128 gigabájt FB-DIMM memóriát támogat, célterülete pedig a nagyobb osztottmemóriás kapacitást igénylõ üzleti alkalmazások. A Dunningtonnal felszerelve akár 24 nagyteljesítményû processzormagot is kaphatunk egyetlen szerverben a nagy memóriakapacitás mellé, így ideálissá teszi például nagyterhelésû adatbázisok és szerverkonszolidációs projektek számára. 
+
+Az Intel 45 nanométeres félvezetõ eljárására tervezett processzor értelemszerûen a Penryn mikroarchitektúráját implementálja, vagyis a jelenlegi négymagos Xeon 7300-as sorozathoz (Tigerton, 65 nanométer) képest a pénzügyi alkalmazások számára értékes osztási és gyökvonási teljesítményt növeli meg jelentõsen a szoftver újrafordításának igénye nélkül -- a gyorsulás extrém esetben akár az 50 százalékot is elérheti. A Penryn-alapú szerverchipek az alvó magokat védik az adatkoherenciával kapcsolatos kommunikációtól, így a védett állapot révén jelentõs energiamegtakarítás is elérhetõ átlagos terhelésen.
+
+
+Szintén említésre méltó fejlesztés a virtualizációs teljesítmény fokozása is a virtuális gépek közötti váltogatások számítási költségének csökkentése révén. A fejlettebb gyártástechnológiának köszönhetõen a Dunnington energiahatékonysága növekszik a Tigertonhoz képest, termikus kerete pedig továbbra is legfeljebb 130 watt. Az Intel csökkentett órajeleken kifejezetten energiahatékony, kisebb fogyasztású és hõfejlõdésû változatok bevezetését is tervezi, vagyis várhatóak alacsony feszültségû, 50 wattos modellek is vékony rack- és blade szerverekbe.
+
+Áthidaló megoldás
+
+A Dunnington a Beckton kódnéven fejlesztés alatt álló nyolcmagos Xeon megjelenéséig húzódó idõt hidalja át, mely közben az AMD piacra dobja a Barcelona utódját, a növelt gyorsítótárral bíró, magasabb órajeleken üzemelõ Shanghait.  A Beckton már az idén év végén debütáló Nehalem mikroarchitektúrára épül, és egyúttal új, integrált memóriavezérlõre és pont-pont processzor-összeköttetésekre (Quick Path Interconnect) alapozó infrastruktúrát használ, mely közel lineáris skálázódást tesz lehetõvé a megfelelõen párhuzamosított kódok számára.
+
+A Nehalem mikroarchitekturális részleteirõl egyelõre kevés látott napvilágot, ugyanakkor egy mag 25 százalékkal nagyobb a Penrynénél, és kétszálú párhuzamos végrehajtást is támogat ismét (HyperThreding). A Beckton igazi csúcskategóriás chipnek ígérkezik 24 megabájt L3 cache-sel és négycsatornás FB-DIMM vezérlõvel. A Beckton és az új Xeon MP-platform a Dunnington hozta frissítést követõen egy évvel, vagyis 2009 második felére várható. 

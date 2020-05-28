@@ -1,0 +1,24 @@
+Brutális teljesítményre képesek a Sun új SPARC-szerverei
+
+A Sun Microsystems és a Fujitsu bejelentették az UltraSPARC T2 Plus (kódnevén Victoria Falls) processzorra épülõ szervereiket, a SPARC Enterprise T5140 és T5240 modelleket, amelyek méretüket meghazudtoló teljesítményre képesek Solaris workloadok alatt. 
+
+
+
+Az UltraSPARC T2 Plus az UltraSPARC T2 multiprocesszoros mûködésre felkészített változata, egyebekben nem különbözik a tavaly piacra dobott UltraSPARC T2-tõl (kódnevén Niagara 2). A chip nyolc magot tartalmaz, amelyek egyenként nyolc programszál futtatására képesek, a kétfoglalatos SPARC Enterprise T5140 és T5240 szerverekn így 128 programszálat kezelnek párhuzamosan. Mivel az UltraSPARC T2-ben minden mag saját lebegõpontos egységgel rendelkezik, a gépek adatbáziskezelésre vagy ERP-rendszerek futtatására is alkalmasak, a Sun által nyilvánosságra hozott teszteredmények alapján kitûnõen teljesítenek ezeken a területeken is.
+
+
+ A két gép architektúráját tekintve megegyezik, azonban a 2U magas T5240 jobban bõvíthetõ, akáûr 128 gigabájt memória és 16 SAS merevlemez is beépíthetõ, miközben az 1U kivitelû T5140 esetében a határ 64 gigabájt memória és négy merevlemez. További különbség, hogy a T5240 négy darab PCI Express 8x aljzattal rendelkezik, míg a T5140 csak eggyel. A Sun SPARC Enterprise T5140 indulóára 15 ezer dollár, a T5240-é pedig 18 ezer dollár. A Sun és a Fujitsu között létrejött megállapodás alapján a szervereket a japán cég is forgalmazza a saját neve alatt.
+
+Sun SPARC Enterprise T5140
+
+A Sun által nyilvánosságra hozott mérési adatok szerint a Victoria Falls teljesítménye lélegzetelállító, az gépek a legfontosabb iparági tesztekben (OLTP, Java, ERP) rendre felülkerekednek a legnagyobb teljesítményû x86-os gépeken, ami a masszív párhuzamos feladatvégrehajtási képességnek és az óriási mennyiségû támogatott memóriának és beépíthetõ diszk-kapacitásnak köszönhetõ. A nagy teljesítmény és kapacitás ideálissá teszi a gépeket akár konszolidációs projektekre is, a Solaris Containers és Logical Domains technológiákkal akár 128 operációs rendszer futtatható párhuzamosan a szervereken.
+
+A Sun által nyilvánosságra hozott adatok alapján a Lotus R6 iNotes benchmarkban a SPARC Enterprise T5240 szerver 65 ezer párhuzamos felhasználó kiszolgálására volt képes, amivel nem csak kategóriájában, hanem abszolút értelemben is világelsõ. Az SAP S&D tesztben az egy- és kétfoglalatos szerverek kategóriájában is UltraSPARC T2-es gépek vezetnek, a SPARC Enterprise T5240 teljesítménye több mint kétszerese az utána következõ kétfoglalatos szervernek, ami egy Power6-alapú IBM p570.
+
+Sun SPARC Enterprise T5240
+
+A SPECjAppServer2004 teszben a Sun gépe még a Power6-alapú IBM rendszereket is háromszor felülmúló teljesítményt ért el, a legjobb x86-os masináknál pedig ötször volt gyorsabb, miközben fele akkora helyet foglal el és kevesebbet is fogyaszt náluk. A SPECjbb2005 benchmarkban a kétfoglalatos szerverek között az elsõ helyet szerezte meg a SPARC Enterprise T5240, de még egyes négyfoglalatos x86-os gépeknél is gyorsabb volt. További teszteredményeket a Sun és a Fujitsu weboldalán lehet megtekinteni.
+
+A Sun Microsystems emellett azt is bejelentette ma, hogy lehetõvé teszi Solaris 8-ra és Solaris 9-re írt alkalmazások változtatás nélküli futtatását is az új gépeken, mégpedig Solaris 10 konténerek formájában. A Sun operációs rendszerébe épített technológia lehetõvé teszi, hogy akár Solaris 8 vagy Solaris 9 is fusson azokon a számítógépeken, amelyek a szoftverek megjelenésekor talán még tervezõasztalon sem léteztek. A "Solaris 8 and 9 Containers for the Solaris 10 OS" technológia lehetõvé teszi, hogy egy SPARC-szerveren akár több Solaris-változatra írt alkalmazás is futhasson egyszerre, így a régi alkalmazások felhasználói úgy állhatnak át a legújabb, lemodernebb SPARC-alapú gépekre, hogy közben nem kell a szoftvereiket átírni, újrafordítani, azok ugyanúgy mûködnek tovább, mint Solaris 8-on vagy Solaris 9-en.
+
+A Sun most bemutatott szerverei már Magyarországon is elérhetõk, sõt, akát "try and buy" konstrukcióban vásárlás elõtt ki is próbálhatók, bár a szállításokra 4 hetet kell várni egyelõre -- tudtuk meg Polner Tamás marketing-igazgatótól.

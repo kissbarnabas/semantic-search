@@ -1,0 +1,20 @@
+A tárolópiac nem érzi a gazdasági válságot
+
+A harmadik negyedévben 8,8 százalékkal 4,9 milliárd dollárra duzzadt a merevlemezes külsõ tárolórendszerek forgalma -- áll az IDC által kiadott jelentésben. A leszállított tárolókapacitás több mint 41 százalékkal 2 ezer petabájt, vagyis 2 exabájt fölé nõtt. Az adattárolási szoftverek piaca éves szinten bõvült, de a második negyedévvel összevetve már enyhe csökkenést regisztrált az IDC.
+
+
+
+A gazdaság lassulása a PC- és a szerverpiacot már utolérte, azonban az adattárolási rendszerek forgalma továbbra is stabilan emelkedik. Az IDC és más elemzõk korábban kiadott jelentései és elõrejelzései is megerõsítik, hogy ez a terület azon kevesek közé tartozik, ahol nem várható a gazdaság hanyatlásának erõteljes hatása -- a cégek egyre több és több adatot termelnek, amelyeket tárolniuk kell. A szûkülõ büdzsék mellett pedig felértékelõdik a kihasználtságot javító technológiák és a birtoklási költséget csökkentõ megoldások szerepe.
+
+Az EMC volt a nyerõ
+
+A gyártók versenyében magabiztosan õrzi elõnyét az EMC, a vállalat a piaci ütemnél kétszer gyorsabban növelte eladásait, így részesedése 23 százalékra emelkedett. A második helyen szinte holtversenyben az IBM és a HP áll, elõbbi cég részesedése 12,7 százalék, utóbbié 12,5 százalék volt a harmadik negyedévben. Az IBM azonban a bevétel csökkenésével kellett szembenézzen, miközben a HP enyhe növekedést mutatott fel. A negyedik helyen a piaccal együtt növekedõ produkáló Dell állt, részesedése 9 százalék fölé nõtt, az ötödik NetApp 13,8 százalékos erõsítése pedig 8,2 százalékos részesedés megszerzésére volt elég, miközben a Hitachi 8 százalékra csúszott vissza.
+
+
+ Jól szerepelt a harmadik negyedévben a Sun Microsystems is, a vállalat több mint 16 százalékkal növelte merevlemezes tárolóinak eladásait, azonban a piaci ütemnél közel kétszer gyorsabb bõvülés sem volt elég ahhoz, hogy a cég beverekedje magát a meghatároló szállítók közé -- a Sun továbbra is hetedik a gyártói rangsorban.
+
+A SAN szegmens 14 százalékkal bõvült, a gyártók közül az EMC 25 százalékos részesedéssel vezette ezt a területet a 14,7 százalékot megkaparintó HP elõtt. A 19,7 százalékos erõsödést felmutató NAS-szegmens élén is az EMC állt (37,7%) a NetApp (28,2%) elõtt. A legnagyobb növekedést természetesen az iSCSI SAN piac produkálta, az eladások közel megduplázódtak ebben a szegmensben. Az iSCSI SAN-piac ura az EqualLogicot korábban bekebelezõ Dell (31,1%) volt, a második helyen az EMC (13,3%), a harmadikon a NetApp (12,5%) foglalt helyet.
+
+A tárolási szoftverek piacán is egészséges a növekedés
+
+Az adattárolási szoftverek piaca éves szinten 11 százalékkal 3,1 milliárd dollárra bõvült a harmadik negyedévben, de a második negyedévhez képest ez enyhe visszaesést jelent, amit a gazdasági körülmények hirtelen romlása magyaráz. A legerõsebb területek az archiválás, fájlrendszerek, mentés és visszaállítás valamint a tárolómenedzsment voltak -- derül ki az IDC adataiból. A gyártói rangsort az EMC vezette, a legnagyobb bõvülést a második helyen álló Symantec és az ötödik helyen álló Hewlett-Packard érték el.

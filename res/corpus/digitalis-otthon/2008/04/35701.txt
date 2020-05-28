@@ -1,0 +1,12 @@
+Újabb otthoni hálózati adattároló, ezúttal az SMC-tõl
+
+Két merevlemez fogadására felkészített otthoni és kisvállalati hálózati adattárolóval jelentkezett az SMC -- a TigerStore SMCNAS02 modell a már régebb óta kapható, négy meghajtó fogadására képes SMCNAS04 kistestvére.
+
+
+
+A kisebb tárkapacitást és kevesebb RAID-lehetõséget leszámítva nincs nagy különbség a termékek között. A két meghajtós SOHO NAS is tartalmaz három USB-csatlakozót, így nyomtatószerverként is használható, illetve külsõ adattárolók is csatlakoztathatók hozzá, amelyekrõl egyetlen gombnyomásra magába tudja szippantani az adatokat. Emellett egy SD/MMC/MS formátumú kártyaolvasóval is ellátták az eszközt, így az elkészült digitális fényképek lementéséhez nem szükséges PC, azok egybõl a hálózati adattárolóra másolhatók.
+
+
+
+
+ A TigerStore SOHO NAS-on természetesen lehetõség van több felhasználó létrehozására, azokhoz maximális diszkkapacitást (quota) lehet rendelni, illetve jogosultságokat beállítani. Az eszköz médiaszerverként és iTunes-szerverként is üzemelhet, így a hálózati lejátszókról és az iTunes-t futtató PC-krõl elérhetõek a rajta tárolt filmek, zenék, képek. A két darab SATA II merevlemez fogadására alkalmas, a jelenleg elérhetõ legnagyobb kapacitású meghajtókkal akár 2 terabájtig is bõvíthetõ SMC TigerStore SMCNAS02 250 eurós ajánlott bolti áron kerül az üzletekbe.

@@ -1,0 +1,60 @@
+Kipróbáltuk: Icy Box hálózati médialejátszó -- csak mazochistáknak
+
+A merevlemezházakkal egybeépített hálózati médialejátszók néhány évvel ezelõtt még igazi kuriózumnak számítottak, mára viszont egyre többen látják be, hogy az asztali számítógépek lejátszási funkcióit adott esetben érdemesebb lehet egy ilyen apró dobozkára bízni. 
+
+
+
+Az efféle megoldások elszaporodása, terjedése egyfelõl jó, hiszen a vásárló nagyobb választékból csemegézhet, másfelõl -- jobb esetben csak a belépõszegmensben -- megjelennek a polcokon olyan termékek is, melyek felhõtlen szórakozást ígérnek, de hamar képesek elrontani a vevõ örömét. A német Raidsonic vadonatúj Icy Box IB-MP308HW típusú HD-s hálózati médialejátszója tipikusan ilyen készülék: olyan, mint az a bombanõ, akirõl hamar kiderül, hogy kicsit nehéz a felfogása, ráadásul az ágyban sem jó. Vagy legalábbis tapasztalatlan.
+
+Fagyos hangulat
+
+Pedig az elején minden jól indult: adott egy németországi székhelyû gyártó (ez már eleve pozitív jel), dekoratív csomagolás és (fotókon) alapvetõen jól mutató, XXI. századi, modern külsõ, valamint ígéretesnek tûnõ hálózati és médialejátszási képességek. Szerelem az elsõ látásra.
+
+
+
+Az Icy Box (bár több termék is viseli ezt a márkanevet nevezzük az egyszerûség kedvéért így a mostani tesztalanyt) médialejátszó, mint legtöbb vetélytársa, merevlemez nélkül érkezik, a 3,5 hüvelykes HDD-t (a kontroller SATA és PATA interfészt is tartalmaz) nekünk kell beszerelni a fekete mûanyag burkolatú készülékházba. A doboz alját teljesen beborítja a nyomtatott áramkör, melynek központi vezérlõchipje a Sigma Designs EM8621 típusú médiaprocesszora.
+
+
+
+Ez a chip természetesen már fel lett készítve a különféle kódolású HD-videók dekódolására, a készülék hátlapján ennek megfelelõen egy analóg (komponens) és egy digitális (HDMI) HD-kimenet sorakozik. Kábelt csak elõbbihez kapunk -- a tervezõk a szûk hely miatt választhatták a speciális kialakítású, négypólusú jack csatlakozót, és hasonlóképpen kell csatlakoztatni a kompozit videó és analóg sztereó hangkimenetet is. Ez a megoldás két okból sem szerencsés: egyrészt ha a kábel megsérül, nehéz a pótlása, másrészt ha a másfél méteres kábelhossz nem elég, körülményes a hosszabbítás.
+
+
+
+A médialejátszó hátlapján két digitális hangkimenetet is elhelyeztek, adott ezen kívül két USB kapu a külsõ USB-s adattárolók csatlakoztatásához, valamint egy mini USB csatlakozó, mellyel a PC-s összeköttetés oldható meg. Az Icy Boxot a többi hálózati médialejátszóhoz hasonlóan értelemszerûen hálózati csatolóval is ellátták, valamint adott a 802.11g kompatibilis WLAN is.
+
+Maga a készülékdoboz egyébként nem kelti különösebben minõségi berendezés látszatát, a fényes elõlap az öt gombjával és a három LED visszajelzõvel kifejezetten olcsó látszatot kelt. A dobozhoz egy állványt is adnak, amivel függõleges helyzetbe állítható az Icy Box -- ennek használata a jobb szellõzés miatt ajánlott is.
+
+
+
+A készüléket a próba során HDMI csatlakozáson keresztül csatlakoztattuk egy HD Ready Sony Bravia LCD-tévéhez, a hangot koaxiális S/PDIF csatlakozással küldtük a házimozi-erõsítõnek. A hálózaton tárolt anyagok PC-rõl történõ átjátszását egy UPnP-kompatibilis Thomson Home Gateway biztosította, az Icy Boxot vezetékes és vezeték nélküli összeköttetéssel is megismertettük vele (utóbbi esetben a rádió maximális jelszintet érzékelt).
+
+Kérem, várjon!
+
+A bekapcsolás után szokás szerint jó néhány másodpercet kellett várni a rendszer bootolására, ezután a mellékelt lapos és meglehetõsen zsúfolt táviránytó segítségével navigálhattunk a fõmenüben. A készülék számos funkcióját csak a távirányítón lévõ valamelyik funkciógomb segítségével érhetjük el (ilyen például a beállításokat tartalmazó setup menü), ami egy alapvetõen letisztult fõmenüt, ugyanakkor tapasztalataink szerint mégis kissé körülményesebb használatot eredményez.
+
+
+
+Az Icy Box fõmenüje tehát egyszerû mint a bot, lényegében a helyben vagy az USB-s adattárolón elhelyezett, illetve hálózati tartalmak elérésére szolgáló ikonokból áll csak. Két funkció, az internetes rádió és az FTP szerver is fõmenü részét képezi, ezek azonban külön lapon kaptak helyet. A menü egyébként -- bár nem illik emlegetni, hiszen szubjektív szempont -- nem nevezhetõ különösebben esztétikusnak vagy modernnek, bár elvileg saját bõröket is rá lehet húzni, így a helyzet javulhat. A menü ráadásul annak ellenére nem mutat jól HD-kijelzõn (pixeles feliratok és ikonok), hogy alapvetõen HD-lejátszásra kialakított készülékrõl van szó.
+
+
+
+A menüvel és a kezeléssel kapcsolatos aggályok ezzel még nem értek véget: az Icy Box sajnos rettentõen lassan mozdulva teljesíti kéréseinket, a menü navigáció helyenként olyan lassú, hogy néha az volt az érzésünk, az infravörös vevõ nem érzékelte a távirányító jeleit. Persze errõl szó sem volt, a mûködést visszajelzõ LED villogásából jól látszott, hogy a rendszer vette az adást, csak éppen a szoftver vagy az elektronika aludt el kissé.
+
+Csak hálózati streamet ne!
+
+Az igazi tortúrát mégsem elsõsorban ez, hanem a hálózatról streamelt tartalmak lejátszása jelentette. A hálózati beállítások megfelelõ felparaméterezése után sikerült elérni a PC-rõl megosztott tartalmakat, majd miután sikerült kiigazodni a hiányos karakterkódolás okozta kusza karakterhalmazokon, melyek a Windows Media Player 11 megosztott mappáit takarták, kezdõdhetett a lejátszás. Az Icy Box-szal sikerült elindítani és lejátszani az ilyen próbákhoz használt, h.264 vagy VC-1 kódolású HD-videókat, DivX és XviD fájlokat, teljesen kimaradt azonban az egyre népszerûbb MKV konténerformátum támogatása, amit elõször csak elírásnak gondoltunk, de sajnos kiderült, hogy a készülék valóban nem látja az MKV tesztvideót. Jó hír viszont, hogy hogy a legelterjedtebbnek számító SRT feliratfájlokat ismeri a lejátszó.
+
+
+
+A videók lejátszása során két bosszantó és rendszeresen jelentkezõ bakiba is sikerült belefutnunk: akadtak olyan filmek, melyeknél a gyorstekerésbõl rendszerint nagyon lassan, hosszú másodpercek elteltével tudott újra lejátszásra kapcsolni az Icy Box, valamint elõfordult, hogy a szoftver a lejátszás leállítása után fekete képernyõvel kifagyott (ezt a hibát mondjuk számos más, Sigma Design chipes médialejátszó produkálja), de olyat is tapasztaltunk, hogy a stop gomb nyomogatása ellenére nem volt hajlandó leállni a lejátszás, pedig még az OSD-n is megjelent a stop mûvelet visszajelzése. A lokális tartalmak kezelése szerencsére sokkal gyorsabb és problémamentesebb, ezt várnánk el a hálózati streamtõl is -- remélhetõleg késõbb sikerül kicsiszolni ezt a funkciót.
+
+Tökölõs zenegép
+
+Az Icy Boxot kipróbáltuk zenefájlokkal is (ezekbõl az MP3, WMA, OGG és WAV konténerek illetve formátumok támogatottak). Az egyszerû felületbõl azonnal látszott, hogy a dobozt nem elsõsorban zenelejátszásra teremtették, a folyamatjelzõn kívül gyakorlatilag semmi érdemi információt nem mutat ilyenkor a kijelzõ, az ID3 tag-ek kiolvasása (vagy legalábbis az információk kijelzése) sem megy a lejátszónak. A hálózati stream itt sem volt zökkenõmentes: ha lejátszás közben zeneszámot akartunk váltani, elõfordult, hogy fél percnél is többnek kellett eltelnie, mire megszólalt az új dallam.
+
+
+
+
+A Raidsonic Icy Box IB-MP308HW típusú hálózati médialejátszója azon kevés hardverek közé tartozik, mellyel a nálunk töltött próbaidõszak alatt minden igyekezetünk ellenére sem sikerült megbarátkoznunk. A készülék (leszámítva az MKV konténerformátum támogatásának hiányát) alapvetõen ígéretes megoldásnak tûnik, a próba után viszont úgy gondoljuk, hogy csak az vágjon bele a hosszabb távú kapcsolatba, aki a birkáénál is nagyobb türelemmel rendelkezik és nem szegi kedvét az, ha a lejátszó rendszeresen megmakacsolja magát.
+
+A készülékre nem sikerült ráakadnunk a hazai internetes kereskedõk árlistáiban, így a nyugati szomszédainkhoz kellett átnéznünk, ahol 180 euróért, azaz napi árfolyamon számolva durván 43 ezer forintért lehet hozzájutni ehhez a modellhez. Lehet ugyan, hogy az általunk tapasztalt hibákat idõvel, firmware-frissítések útján kijavítja majd a gyártó (eddig még nem jelent meg új szoftver a készülékhez, ami nem csoda, lévén alig két hete van piacon), mindenesetre addig is azt tanácsoljuk azoknak, akiknek sürgõsen szükségük van hálózati médialejátszóra, hogy inkább nézzenek más modellek után, még akkor is, ha ezért esetleg mélyebben a zsebükbe kell nyúlni.

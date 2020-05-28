@@ -1,0 +1,16 @@
+Szemantikus keresõt vásárolt fel a Microsoft
+
+Szemantikus keresõt vásárol fel a Microsoft. A Powerset bekebelezésétõl a vállalat azt reméli, hogy olyan technológiát szerez, mellyel felvértezve saját keresõjét relevánsabb találatokkal szolgálhat a Google motorjánál. 
+
+
+
+Az ügylet értékét nem hozták nyilvánosságra a felek, becslések szerint 100 millió dollárt tesz ki a tranzakció értéke. Redmond lépése a Yahoo! kudarcba fulladt felvásárlását követõ alternatív útvonal elsõ jelentõs lépésének tekinthetõ, melyen a keresési és online hirdetések piacán növekvõ fölényt kiépítõ Google-t igyekszik befogni. A Microsoft piacrészesedése dollármilliárdos erõfeszítései ellenére eltörpül a Google mögött, a comScore szerint a globális keresésekbõl a Google 62,4, a Yahoo! 12,8, míg a Microsoft 2,9 százalékkal rendelkezett tavaly év végén -- a kínai Baidu is magasan megelõzte erõteljes hazai jelenléte miatt, 5,2 százalékkal.
+
+A jelenlegi domináns keresõmotorok alapját a kulcsszavak indexelése és a relevancia számítása képezik, melyek természetesen féltve õrzött titkok. Az algoritmusok ugyan rendkívül hatékonyak hatalmas mennyiségû információ megszûrésében és több kulcsszó megadása esetén többnyire a kontextus belövésére, és releváns találatokkal szolgálnak, nem képesek azonban a kulcsszavak jelentését felismerni, minõségükben megkülönböztetni, vagyis érteni -- ami nemcsak a szinonimák és azonos alakú szavak problémáját veti fel, hanem a magyar nyelvben például a ragozásét is.
+
+A szemantikus keresõknek éppen az a célja, hogy egy magasabb szintre emeljék a keresõmotorok munkáját, vagyis a weboldalak jelentését tárolják el, ne csak a kulcsszavak mintáját. Ez természetesen teljes újrafeldolgozást igényel mélyreható, sokkal számításigényesebb elemzéssel, és a generált metaadatok tömege is hatalmassá duzzadhat. A végsõ cél az, hogy a keresõ értse a különbséget a barack pálinka és a Barack Obama között, és ha rákeresünk a barack szóra, akkor csoportosítsa a találatokat jelentésüktõl függõen, és akár kérdést is lehessen intézni hozzá, melyet jó eséllyel képes megválaszolni a metaadatok tömegébõl kibányászott információval.
+
+
+A Powerset jelenleg, mint ahogyan a többi szemantikus keresõ is, egyelõre demóz fázisban tart, és a Wikipedia cikkeit elemzi. A szemantikus feldolgozás legalább egy nagyságrenddel nagyobb számítástechnikai kapacitásokat igényel, így a kérdés nem csak algoritmikus, hanem erõforrásbeli. A Microsoft nem titkolt célja a Powersettel, hogy az egész webre ráeresszék a vállalat keresési infrastruktúrája segítségével. Az eddig kockázati tõkebefektetésekbõl mûködõ vállalat alapítója és elnök-vezérigazgatója szerint 5 év múlva a jelenlegi kulcsszavas keresõkre úgy kell majd visszaemlékezni. 
+
+A technológiai váltás lehetõséggel kecsegteti a Microsoftot, hogy behozza hátrányát a Google-lel szemben, ugyanakkor ésszerûtlen volna azt feltételezni, hogy a keresés királya egy helyben áll, és nem érdeklõdik a terület iránt. Valójában már most kínál olyan képességeket, melyekkel a szemantikus keresõk kecsegtetnek, például a "hungary population" kulcsszavakra megadja az ország lakosságát, vagy a "light speed" keresésre kidobja a fény sebességét, de a "how old is madonna" is mûködik a mértékegységek és valuták váltása mellett -- ezek a mutatványok ugyanakkor szûk körre korlátozódnak jelenleg, és magyarul nem is mûködnek. 

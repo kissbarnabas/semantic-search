@@ -1,0 +1,14 @@
+Négykijelzõs notebookot kreált az Intel
+
+A multitasking eddig azt jelentette, hogy a képernyõ síkján belül párhuzamosan végezhetõek feladatok, s a szoftverek lehetõvé teszik, hogy könnyen váltogassunk az alkalmazások között. A grafikusok körében persze már õsidõk óta bevett szokás két monitor használata, s amíg a nagy profi kijelzõn a szerkesztett kép, addig a kisebben a Photoshop eszköztár jelent meg. Az asztali gépek visszaszorulásával, illetve a nagyobb és szélesvásznú kijelzõk térnyerésével ez a trend szinte eltûnt. A Lenovo nemrégiben a ThinkPad W700ds modelljével ezt a hangulatot hozta vissza, mégpedig úgy, hogy a noteszgép testébõl egy kisebb, hét hüvelykes kijelzõ hajtható ki.
+
+A múlt heti Intel Developer Forumra idõzítve az Intel egy ennél sokkal elegánsabb megoldással rukkolt elõ, egy egyelõre csak prototípusként létezõ noteszgépben. A gépnek összesen négy kijelzõje van, amibõl az egyik a szokásos nagy LCD, míg három kisebb OLED képernyõ a billentyûzet felett kapott helyet, ahol általában a vezérlõgombok is vannak minden noteszgépen.
+Az OLED panelek érintésérzékenyek, így az azt támogató szoftverek akár közvetlenül onnan is vezérelhetõek, anélkül, hogy a fõ kezelõszervek bármelyikét is használni kellene. A cél, hogy a felhasználó képes legyen a kiegészítõ információkat, folyamatosan érdekes értékeket, adatokat, képeket kényelmesen és hatékonyan kezelni. Alapesetben egy médialejátszó is elképzelhetõ a kis képernyõkön, ahol könnyedén kiválaszthatóak, léptethetõek a játszandó számok, gyakorlatilag egy iPod épül be a gépbe.
+
+
+Másik érdekes terület lehetne, mondjuk pénzügyi szektorban, hogy a nagy kijelzõn dolgozó munkás folyamatosan szemmel tarthatja a kis kijelzõkön a fontos indexeket, híreket, értesítéseket, anélkül, hogy ablakot kellene váltania, vagy a fõ monitor felületébõl akár egy pixelt is erre kellene áldozni. Ha valaha megjelennek ilyen modellek bármelyik gyártótól, akkor a Windows Vista/7 widgetek is bizonyára kihelyezhetõek lennének, de a játékprogramokban sem elképzelhetetlen, hogy hasznosítva lennének.
+A prototípust egyébként az IDF-et megelõzõ Mobility Meetupon mutatták be zárt körben bloggereknek, ami után a CNET szerzõi nem voltak restek megosztani a hallottakat a világgal. A multitouchot is támogató OLED panelek persze egyelõre csak egy koncepciót, egy lehetséges jövõbeli kialakítási formát rajzolnak fel, de technikailag akár most is lehetséges lenne bármelyik gyártó számára, hogy alkalmazza a konstrukciót.	     
+                  
+                  
+                  
+                   

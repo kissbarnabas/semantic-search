@@ -1,0 +1,11 @@
+Nem teszi magát alapértelmezett böngészõvé az IE8
+
+Az Internet Explorer elsõ indításakor eddig kérdezés nélkül átvette az alapértelmezett böngészõ szerepét, hamarosan azonban már tisztelettel bánik a korábbi beállításokkal -- adta hírül blogjában az IE fejlesztõcsapata. Az IE8 elsõ indulásakor expressz telepítés és egyéni beállítások közül lehetett választani, a szoftver pedig expressz telepítés esetén kérdés nélkül alapértelmezett böngészõvé vált. Ezt az Opera és a Mozilla is kifogásolta.
+Ha valakinek az IE8 elsõ indításakor nem az Internet Explorer az alapértelmezett böngészõje, a szoftver nem teszi magát kérdés nélkül azzá, hanem elõször rákérdez, hogy a felhasználó szeretné-e ezt, és felajánlja a beállítások importálását is, még akkor is, ha expressz telepítést választott valaki. Azoknál a felhasználóknál, akiknek korábban is az Internet Explorer volt az alapértelmezett böngészõjük, az IE8 továbbra is alapértelmezett marad.
+
+A Microsoft nem módosítja az Internet Explorer kódját, hanem egy augusztusban érkezõ frissítés keretén belül építi be ezt a módosítást a programba. A változás nem csak azokat érinti, akik az IE8-at elõször kezdik használni Windows XP vagy Vista alatt, hanem azokat is, akik majd Windows 7-re frissítik operációs rendszerüket, ennek ugyanis része az Internet Explorer 8 (kivéve Európában).
+Amint arról a HWSW is beszámolt, az Európai Bizottság szerint a Microsoft tisztességtelen elõnyhöz jutott a böngészõpiacon azáltal, hogy az Internet Explorert a Windows részévé tette. Konkrét  ítélet eddig még nem született az ügyben, de a Microsoft tavasz óta igyekszik "jó fiúként" viselkedni, alighanem ennek jegyében történt a mostani változás is. A cég az Európában forgalomba kerülõ Windows 7-változatokból teljesen kihagyja az Internet Explorert, a felhasználóknak utólag kell beszereznie a böngészõt.	     
+                  
+                  
+                  
+                   

@@ -1,0 +1,67 @@
+DDR3-támogatású processzorokat dobott piacra az AMD
+
+Hivatalosan is bejelentette AM3 foglalatba illeszkedõ asztali processzorait az AMD, egyúttal megjelentek a 45 nanométeres chipek olcsóbb és hárommagos változatai is. 
+
+
+
+A 45 nanométeres csíkszélességû termelés folyamatos bõvülésével az AMD fokozatosan szélesíti Phenom II portfólióját. A vállalat öt új modellt mutatott be hivatalosan is, melyek lefelé bõvítik a 45 nanométeres kínálatot. A Phenom II X4 910 egy teljesértékû Deneb chip, azaz négy maggal és 6 megabájt L3 cache-sel rendelkezik, órajele 2,6 gigahertz, elektronikai kerete pedig 95 watt (75 wattos ACP, azaz átlagfogyasztás terhelés esetén), vagyis kevésbé forrófejû, mint 920-as és 940-es bátyjai. 
+
+Az AMD további kettõ négymagos processzort is piacra dobott, a Phenom II X4 810 és 805 modelleket, melyek 2,6 és 2,5 gigahertzes órajellel rendelkeznek, az L3 cache mérete 4 megabájt. Az új modellek ugyanakkor nem számottevõen olcsóbbak. A 4 megabájt L3 hatása a teljesítményre a legtöbb szoftver esetében elhanyagolható, ez azonban sajnos az árra is igaz, a 810-es modell nettó listaára például mindössze 20 dollárral, vagyis kevesebb mint 5 ezer forinttal alacsonyabb a 920-asénál, így legfeljebb az alacsonyabb fogyasztása és hõdisszipációja miatt lehet leginkább vonzó. A 910 és 805 egyelõre nem bukkant fel az AMD publikus árlistáján, és az AMD valószínûleg kizárólag számítógépgyártók és összeszerelõk számára, tálcás kivitelben kínálja.
+
+
+
+
+Modell
+Magok
+Órajel
+L3 cache
+Fogyasztás
+
+
+
+Phenom II X4 910
+4
+2,6 GHz
+6 Mbyte
+75 Watt
+
+
+
+Phenom II X4 810
+4
+2,6 GHz
+4 Mbyte
+75 Watt
+
+
+
+Phenom II X4 805
+4
+2,5 GHz
+4 Mbyte
+75 Watt
+
+
+
+Phenom II X3 720 (Black)
+3
+2,8 GHz
+6 Mbyte
+75 Watt
+
+
+
+Phenom II X3 710
+3
+2,6 GHz
+6 Mbyte
+75 Watt
+
+
+
+A négymagos változatok mellett az AMD hárommagos Phenom II X3 termékekkel is készült. A 720 és 710 az egy hiányzó magon kívül egyébként teljesen megegyezik a négymagos Denebekkel, az L3 tár mérete 6 megabájt, névleges órajelük rendre 2,8 és 2,6 gigahertzen alakul. A 720 ráadásul Black Edition, vagyis az AMD nem rögzítette a szorzóáramkör beállításait, így kedvezõ, a jelenlegi átváltási árfolyamok mellett Magyarországon várhatóan 35-40 ezer forint közötti árával a tuningosok egyik kedvence lehet, és három magjával jobb választásnak bizonyulhat a hasonló árban mozgó, kétmagos Intel Core 2 Duo E8200 és E8300 processzoroknál, vagy a négymagos Core 2 Quad Q8200-nál. Továbbra is kérdéses persze, hol van a hárommagos chipek helye, jó egyensúlyt találnak-e az órajel és a magok száma közt, vagy ellenkezõleg, a két pad közé esnek. Az AMD kínálata ebbõl a szempontból nem zavarja össze a vevõket, a legmagasabb órajelû modellek négymagosok.
+
+Az új processzorok mindegyike AM3 foglalatba illeszkedik, szemben az eddigi AM2+ foglalattal. Az AM3 újítása a DDR3-memóriamodulok támogatásában rejlik, így az AMD részérõl is megkezdõdik az átállás az új, magasabb sávszélességeket hozó és alacsonyabb fogyasztású szabványra. A processzorok integrált memóriavezérlõje korábban is egyaránt készen állt DDR2- vagy DDR3-memória kezelésére, az AMD lényegében most aktiválta ezt a képességet. Az AM2+ egy hídnak, köztes lépcsõnek tekinthetõ az AM2 és AM3 között, mely a HyperTransport 3 periféria-összeköttetés támogatását hozta magával. Az AM3 felülrõl kompatibilis az AM2+ foglalattal, ami a gyakorlatban azt jelenti, hogy a most piacra került AM3 processzorok AM2+ alaplapokban is mûködnek, DDR2-memóriát meghajtva, míg az AM2+ processzorok nem mûködnek AM3 foglalatú lapban.
+
+
+A DRAMeXchange piacai adatai alapján a DDR3-memória részesedése jelenleg szinte elhanyagolható, az év második felére azonban az AMD és az Intel DDR3-platformjainak köszönhetõen meredeken fut majd fel. A piackutató és tanácsadó vállalat úgy becsli, az év végére 28 százalék lesz a DDR3 részesedés a teljes piacból, míg a DDR2-é 50 százalék, az év egészére vetítve pedig 17 és 60 százalékon alakul majd, mielõtt 2010-ben felváltja a DDR2-t.

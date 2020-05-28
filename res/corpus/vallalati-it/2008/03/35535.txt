@@ -1,0 +1,14 @@
+Az EMC RecoverPoint 3.0 már helyi és távoli replikációt is végezhet egyszerre
+
+Bejelentette a RecoverPoint adatvédelmi szoftverének 3.0 változatát az EMC. A verzióváltással érkezõ legfontosabb újdonság, hogy a RecoverPoint már egyszerre képes lokális és távoli replikációt készíteni ugyanarról az adatról, ezt a funkciót állítólag az ügyfelek kérésére építették be a szoftverbe. Elsõsorban pénzügyi téren mûködõ cégeknek volt az a kifejezett kívánsága, hogy az adataikról egyszerre készülhessen egy helyi másolat, valamint egy távoli, amelyet aztán katasztrófa-visszaállítás esetén lehet bevetni.
+
+
+
+A "concurrent local and remote" (CLR) replikáció használata esetén  nincs szükség két külön megoldásra a folyamatos adatvédelem (CDP, Continuous Data Protection) és a folyamatos távoli replikáció (CRR, Continuous Remote Replication) megvalósítására ugyanazon adatokon. Az EMC szerint a CLR nagyobb rugalmasságot enged az adatok replikálása és védelme terén a több helyi és távoli telephely kombinációjával, ráadásul úgy, hogy kisebb területet igényel a tárolóeszközök számára.
+
+
+Emellett a használat is egyszerûbb, mivel az egyidejû helyi és távoli replikációval kapcsolatos beállítások a RecoverPoint 3.0 grafikus kezelõi felületén is elérhetõk: egy új, faszerkezetû elrendezésben külön nézet mutatja az egyes konzisztenciacsoportokat, illetve munkafolyamat-varázslók segítik a beállítást, az üzemeltetést és hiba esetén az átterhelést. 
+
+Az EMC emellett RecoverPoint-funkcionalitással és -integrációval bõvítette ki a CLARiiON CX3 tárolórendszereket is, így a RecoverPoint  egyszerûen helyezhetõ üzembe akár Windows, Linux, UNIX vagy VMware környezetben is. A CX3-vásárlók számára leegyszerûsödik a RecoverPoint üzembe helyezése, mivel nem kell betölteni a hoszt-illesztõprogramokat, csökkenthetõk a telepítési és üzembe helyezési költségek, gyorsan kialakíthatók a helyi és távoli replikációs funkciók. Végül a CLARiiON CX3 tömb-alapú szétválasztási funkcióval CDP- és CRR-védelem valósítható meg az iSCSI és Fibre Channel kötetekhez a RecoverPointban. 
+
+Az új funkciók a RecoverPoint-termékek teljes családjában elérhetõk, beleértve a belépõszintû EMC RecoverPoint/SE változatot is. A RecoverPoint 3.0 márciustól kapható és 60 ezer dollártól indul az ára, a belépõszintû RecoverPoint/SE pedig 20 ezer dolláros kezdõáron kapható.

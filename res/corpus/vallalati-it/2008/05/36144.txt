@@ -1,0 +1,38 @@
+Magyarországon is bemutatkozott az &quot;új Novell&quot;
+
+Magyarországra érkezett a Novell BrainShare 2008 rendezvénysorozat, a hazai állomást a MOM Parkban tartották több mint 300 érdeklõdõ elõtt. Az eseményen a szakmai elõadások elõtt a vállalat haza leányvállalatának vezetõje, Szittya Tamás mutatta be a Novell evolúcióját a NetWare-korszakból a Linux, biztonsági termékek és felügyeleti megoldások által fémjelzett jelenbe.
+
+
+
+Linux
+
+A Novell még ma is sokan a NetWare-rel azonosítják, pedig a vállalat bevételének már csak negyedét-ötödét adja a hálózati operációs rendszer -- mondta Szittya. A cég portfoliójának három alappillére a 2004-ben felvásárolt SUSE Linux, a biztonsági szoftverek, valamint a rendszerfelügyeleti termékek. Ezeken a területeken a Novell az elmúlt években dinamikusan fejlõdött, részben organikusan, részben pedig felvásárlások által -- 2003 óta a cég 7-8 vállalatot kebelezett be.
+
+
+
+A NetWare utóda
+
+A NetWare utolsó változata, a 6.5 már öt éve van piacon és 2010-ig biztosít hozzá támogatást a Novell. Azon cégek részére, akik továbbra is szeretnék használni a NetWare szolgáltatásait, az Open Enterprise Server családot ajánlja a cég, amely Linux kernelen valósítja meg azokat, ugyanakkor támogatja a modern hardvereket, például a 64 bites processzorokat. 
+Az OES2 elsõ javítócsomagjában debütál a Domain Services for Windows, amely elérhetõvé teszi a Novell back-end szolgáltatásait még Novell-kliensek nélkül is: a windowsos gépek felhasználói natív Windows-protokollokon át elérhetik a Novell (Open Enterprise Server, SUSE Linux Enterprise) szervereket. A Domain Services for Windows emellett kereszt-autentikációt biztosít a Microsoft Active Directory és a Novell eDirectory között.
+
+
+
+
+"Aki ma még nem kezdett el építeni a Linuxra, az lemarad" -- mondta a szabad operációs rendszer téhódításával kapcsolatban Szittya. "Valahol mindennyian Linux-felhasználók vagyunk, ha másképp nem, az internet révén" -- tette hozzá. A Novell által felvásárolt SUSE Linux a Red Hat mögött a második legnépszerûbb vállalati disztribúció a világon, de Magyarországon piacvezetõ. Ennek oka, hogy a német SUSE az öreg kontinensen mindig is erõsebb jelenléttel bírt a Red Hatnél, illetve hogy a Red Hat itthon nem rendelkezik olyan képviselettel, amely összemérhetõ lenne a Novell méretével.
+
+Szittya kiemelte, hogy a 2006 novemberében a Microsofttal kötött stratégiai együttmûködési megállapodás nyomán világszerte számos nagyvállalat vezetett be SUSE Linuxot, többek között a PSA Citroen, a Renault, a Deutsche Bank, illetve az HSBC. Az egyezség alapján a Microsoft lett a Novell legnagyobb Linux-viszonteladója, de ennél fontosabb, hogy a két cég közös fejlesztõi központot hozott létre, ahol többek között virtualizációs, felügyeleti és címtár-megoldásaik kompatibilitásán, illetve az Office Open XML és OpenDocument Format átjárhatóságán dolgoznak.
+
+A biztonság a személyazonosság-kezeléssel kezdõdik
+
+"Az informatikai biztonság a hatékony személyazonosság-kezeléssel kezdõdik" -- kezdett bele a biztonsági portfolió ismertetésébe Szittya. Hogy miért a személyazonosság-kezeléssel kezõdik a Novell szerint az IT-biztonság? Mert ezen a területen a Novell piacvezetõ, legalábbis az elõadásban beidézett 2006-os Gartner-adatok alapján. A személyazonosság-kezelési megoldások piaca a Forrester elõrejelzése szerint 2014-re 12,3 milliárd dollárra nõ.
+
+
+ A Novell az Identity Managerrel kapcsolatban nemrég egy nagyszabású megállapodást írt alá a HP-val, amely az év eleje óta nem értékesíti saját Identity Center megoldását új ügyfeleknek. A mostani megállapodás alapján a Novell Identity Managerre áttérõ meglévõ Identity Center-ügyfeleknek a Novell teljes licencjóváírást biztosít az elsõ 12 hónapra. Emellett a két cég együtt fejleszt a migrációt megkönnyítõ eszközöket.
+
+A saját erõbõl, saját fejlesztéssel megvalósított személyazonosság- és hozzáférés-kezelési megoldások mellett az utóbbi évek alatt akvizícióval számos további termék került a Novell tulajdonába. Ezek közé tartozik például a Sentinel biztonsági információ- és eseménykezelõ megoldás, vagy a Senforce bekebelezésével született ZENworks Endpoint Security végpontvédelmi szoftver. A cég biztonsági portfoliója tehát kiterjedt, és a legtöbb terméknek már hazai vállalati vagy intézményi referenciája is van -- büszkélkedett Szittya.
+
+Rendszerfelügyelet
+
+A Novell harmadik "lába" a rendszerfelügyelet, a ZENworks család a biztonsági termékekhez hasonlóan részben "saját erõbõl", részben pedig felvásárlások révén fejlõdik. A cél az, hogy a vállalatok átláthassák és kézben tarthassák informatikai vagyonukat, legyen szó mobiltelefonokról, kézi számítógépekrõl, noteszekrõl, PC-krõl, vagy szerverekrõl, illetve hálózati berendezésekrõl. Ezen a területen nemrég a PlateSpin felvásárlásával erõsített a Novell, ami által adatközpont-felügyeleti megoldások kerültek a kezébe.
+
+A PlateSpin a Novell Systems and Resource Management üzletágának részévé válik, amely jelenleg is fejleszt olyan megoldásokat, amelyek adatközpontok felügyeletére szolgálnak. Ezek közül a virtuális gépek telepítésére és menedzselésére való ZENworks Virtual Machine Manager, illetve a szabály-alapú erõforráselosztást lehetõvé tevõ ZENworks Orchestrator kiegészítõi lehetnek a PlateSpin termékei és technológiái.

@@ -1,0 +1,20 @@
+Fájlcserélõkön már elérhetõ a Windows 7 elsõ bétája
+
+Idõ elõtt kiszivárgott a Windows 7 elsõ bétája, amelyet a Microsoft csak 2009 elején tervezett kiadni. A várhatóan egy év múlva megjelenõ operációs rendszer legfrissebb tesztverziója már felbukkant a legtöbb fájlcserélõ hálózaton, gondos kezek még VMware virtuális gépet is készítettek belõle, így a kísérletezõ kedvûek anélkül próbálhatják ki a Windows 7-et, hogy feltelepítenék.
+
+
+
+Apró változások
+
+Az elsõ tesztek szerint a Windows 7 béta stabil és gyors, a telepítés rövidebb idõt vesz igénybe mint a Vista esetében, egy modern gépre akár 15-20 perc alatt installálható az operációs rendszer. Használat közben is tempós a Windows 7, annak ellenére, hogy bétaváltozatról van szó. Az õsszel kiadott és a fájlcserélõkön szintén elérhetõ M3 verzióhoz képest a Beta 1 nem szolgál sok újdonsággal, mindössze élesítettek benne olyan funkciókat, amelyek az M3-ban még le voltak tiltva, de kis trükközéssel abból is elõ lehetett csalogatni õket.
+
+
+ Az egyik ilyen az új taskbar, amely a Mac OS dockjához hasonló módon tartalmazza a szoftverek ikonjait, illetve a már megnyitott alkalmazásokét. Az  ikonok mindegyikéhez saját menüt rendel a Windows 7, most már nem csak megnyitni vagy bezárni lehet a programokat, hanem a rájuk jellemzõ fõ funkciókat is elérhetjük -- például elindíthatjuk vagy megállíthatjuk a zenelejátszást a Media Playerben, vagy az utoljára megnyitott weboldara gorhatunk az Internet Explorerrel. Ezeket az ún. Jump Listeket nem csak a taskbaron levõ ikonoknál lehet elérni, hanem a Start menüben ugyanúgy.
+
+A bétában már teljesen mûködõképes az Aero Peek, amely lehetõvé teszi a felhasználó számára hogy benézzen a megnyitott ablakok mögé. A Windows 7-ben már nincs sidebar, a gadgetek az asztalon bárhol lehetnek, az Aero Peekkel pedig anélkül vethetünk rájuk egy pillantást, hogy az éppen elõtérben levõ programok ablakait bezárnánk vagy áthelyeznénk. Apró figyelmesség, de a Beta 1-ben már több asztaltéma közül is lehet választani, amelyekhez saját háttérkép is tartozik. Némiképp változott a Media Center és a Windows Media Player is az elõzõ tesztváltozathoz képest. A korai beszámolók továbbra sem írnak semmi komoly újdonságról tehát.
+
+Egy év múlva érkezik
+
+A Microsoft elõször az október végi Professional Developers Conference-en demózta hivatalosan a Windows 7-et, ami az elsõ benyomások és a jelenleg nyilvánosságra hozott információk szerint inkább tûnik a Vista ráncfelvarrott, frissített, kipofozott változatának mint egy teljesen új operációs rendszernek. Mivel a Windows 7 a kompatibilitás megõrzése érdekében a Vista és a Windows Server 2008 továbbfejlesztett kernelére épül, számítani is lehetett rá, hogy a változások inkább a külsõt és nem annyira az alapokat érintik.
+
+Az operációs rendszer megjelenésének idõpontjával kapcsolatban továbbra sincs új információ, a végleges verziót pedig még mindig 3 évvel a Vista utánra ígérik, ami 2009 végét vagy 2010 elejét jelenti. A Microsoft tervei szerint 2009 tavaszán a bétaváltozatot mindenki számára elérhetõvé teszi majd.

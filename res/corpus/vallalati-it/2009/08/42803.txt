@@ -1,0 +1,11 @@
+Paravirtualizációs Windows driverek a Red Hattõl
+
+Tekintve, hogy ma a legtöbb szerveren Windows fut, különösen fontos, hogy a lehetõ legmagasabb szinten szolgálja ki a Windows vendégeket az Red Hat is. Ezt célozzák meg a most GPLv2 alatt nyilvánosságra hozott hálózati és tároló driverek (a cikk írásakor nem voltak hozzáférhetõek). A VirtIO interfészre építõ NDIS (kvmnet) és Storport (viostor) miniport driverek lehetõ teszik a virtualizált Windows gépek számára, hogy nagyobb teljesítménnyel fussanak KVM-alapú hypervisoron.
+A driverek a Windows Server 2003 és 2008 paravirtualizációját teszik lehetõvé, vagyis egy API-n kommunikálnak a KVM hypervisorral, ami nagyobb teljesítményt tesz lehetõvé. A virtualizált környezetek számára tipikusan a tároló és hálózati I/O mûveleti sebesség kritikus, mivel az ilyen mûveletek oda-vissza történõ fizikai-virtuális megfeleltetése rendkívül költséges, ami érezhetõ teljesítménycsökkenéssel jár. A paravirtualizáció lényegében az átjárás költségét csökkenti le azáltal, hogy a hpyervisor célzott interfészeken kommunikál a vendégekkel, és nem pedig egy hardvert emulál le. Hasonló logikától vezérelve tett közzé linuxos driverek Hyper-V platformjához nemrég a Microsoft is.
+
+Mint azzal már a HWSW is foglalkozott, a Red Hat idén év elején közölte, hogy saját virtualizációs platform fejlesztéseit végzi, mellyel versenyre kelhet a VMware és Microsoft megoldásaival. A vállalat nem a Xent, hanem a szintén nyílt forrású KVM-et választotta hypervisorának alapjául, melynek fejlesztései vezetését a virtuális desktop infrastruktúrán (VDI) munkálkodó Qumranet felvásárlásával vette át.
+A Red Hat Enterprise Linux (RHEL) következõ, 5.4 kiadásától kezdõdõen bevezeti a KVM-re épülõ Red Hat Enterprise Virtualization (RHEV) Hypervisor alkalmazását, miközben vállalásai miatt párhuzamos a Xent is támogatja továbbra is. A már nyár eleje óta zárt bétatesztelés alatt álló 5.4 várhatóan az õsz elején, szeptember magasságában jelenik majd meg. A jelenleg közreadott Windows driverek vélhetõen nem alkalmasak éles küldetéskritikus környezetben történõ alkalmazásra, inkább tesztelési célokat szolgálnak.	     
+                  
+                  
+                  
+                   

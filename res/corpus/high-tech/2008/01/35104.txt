@@ -1,0 +1,18 @@
+Üzemanyagcellás MP3-lejátszó a Toshibától
+
+A Toshiba technológiai demó keretén belül mutatta be MP3-lejátszóját, amely üzemanyagcellából nyeri a tízórányi üzemhez az energiát. Az alternatív energiaforrást alkalmazó készülék a CES-en is látható volt.
+
+
+
+A Toshiba a Gigabeat MP3-lejátszósorozatának egyik tagját alakította át, amely az üzemanyagcella-technológiát szemlélteti és csak kísérleti céllal, de teljesen mûködõképes állapotban került bemutatásra. A 250 grammos készülékben egy kis kamra található, amely folyékony metanolt tárol. A metanol a készüléken belül alakul át felhasználható elektromos energiává, mindeközben víz és szén-dioxid képzõdik a reakciók során.
+
+
+Makoto Miyahara, a Toshiba Micro Fuel Cell fejlesztési részlegétõl elmondta, hogy az MP3-lejátszó 10 órán keresztül képes filmet lejátszani egyetlen feltöltéssel. Miyahara hozzátette, hogy a methanol alkalmazása (DMFC=Direct Methanol Fuel Cell) környezetvédelmi oldalról sem elhanyagolható elõnyökkel is jár, nem beszélve arról, hogy akár biomasszából is disztillálható. A kiállított készülék mellett a töltõberendezés is látható volt, amellyel a felhasználó is elvégezheti az újratöltést.
+
+
+
+A Toshiba a DMFC technológia segítségével UMPC-ket, mobiltelefonokat, illetve egyéb hordozható eszközöket is ellátna a jövõben energiával. A jelenlegi kísérleti készülék üzemideje még nem vetekedhet a hagyományos alkáli elemekkel, illetve akkumulátorokkal felszerelt lejátszókéval, de természetesen az üzemidõ a jövõben megjelenõ végleges változatokban kielégítõen hosszú lesz.
+
+Az alternatív energiaforrások szórakoztató-elektronikai termékekben történõ alkalmazásának oldalán töretlen a fejlõdés, de eltérõ utakon is járnak a vállalatok, illetve a fejlesztõcégek. A Sony például cukros vízbõl nyert energiával táplálna, a kanadai Angstrom Power pedig a hidrogént álítaná csatarendbe. A Samsung is mutatott be DMFC megoldással meghajtott noteszgépet.
+
+Kamal Shah, az Intel mobil platformokon dolgozó egyik menedzsere korábban elmondta, hogy az Intel 2010-11 környékére várja a notebookokba szerelhetõ DMFC-k elterjedésének kezdetét. Shah szerint ekkorra tûnik reálisnak, hogy a fejlesztõk megoldják azokat a kihívásokat, melyek elõttük állnak. Nehezíti az érdekeltek dolgát az is, hogy a kiépített ipari háttérrel és hatalmas, ráadásul növekvõ volumennel bíró lítium-alapú akkumulátorokat szakadatlanul fejlesztik, évi 5-10 százalékkal srófolva feljebb kapacitásukat.

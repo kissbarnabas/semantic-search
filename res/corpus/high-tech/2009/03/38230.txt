@@ -1,0 +1,16 @@
+Rackelhetõ Cell-rendszert dobott piacra a német Pyramid
+
+Cell-alapú, rackelhetõ szervert mutatott be a CeBIT-en a Pyramid Computer. A német vállalat egy újszerû megközelítéssel két önálló üzemmódra is képes gyorsítókártyát csomagol egy pizzásdobozba. A vállalat állítása szerint megoldásával költséghatékony számítógépes tömbök építhetõek, az IBM BladeCenter-alapú rendszereinél olcsóbban.
+
+
+
+A Pyramid minden bizonnyal azokat a kisebb HPC-installációkat célozza meg, ahol már létezik IT-infrastruktúra, és további tesztterepként és kapacitásbõvítésként alkalmaznák a Cell architektúrát célfeladatokra, mint például a videomegfigyelés, képfeldolgozás, orvosi és 3D vizualizáció, audio- és videofeldolgozás vagy pénzügyi modellezés. A rackelhetõ kiszerelés miatt nem szükséges az IBM BladeCenter keretét megvásárolni hozzá, és ezzel egy szállítóhoz kötõdni. A CellNode 1U, mint neve is mutatja, 1U magasságú, és magas teljesítménysûrûség érhetõ el vele.
+
+
+A CellNode 1U architektúrájának érdekessége, hogy nem egy hagyományos felépítésû multiprocesszoros rendszer, hanem gyakorlatilag egy vagy két darab PCI Express x16 kivitelû gyorsítókártyának ad otthont, melyek önálló üzemre is képesek, vagyis lényegében egy-egy számítógépet kapunk PCI Express kártya formájában. A kártyákat egy másik német vállalat, a videofeldolgozásra és vizualizációra szakosodott Matrix Vision szállítja, és külön is megvásárolhatóak PC-kbe, gyorsítókártyaként.
+
+Az mvXCell-8i kártya egy IBM PowerXCell 8i chipet alkalmaz, mely a PlayStation 3 konzolban alkalmazott Cell Broadband Engine szuperszámítógépes területre továbbfejlesztett változata. A 65 nanométeres eljárással készülõ PowerXCell 8i továbbra is egy általános célú PowerPC magot, és 8 vektorprocesszort integrál, melyek azonban ötször nagyobb teljesítményre képes 64 bites lebegõpontos mûveletek végzésében. Az mvXCell-8i kártyákon 2,8 gigahertzes órajelen üzemelnek a PowerXCell 8i chipek, vagyis a vektoregységek összesen 89,6 gigaflops elméleti csúcsteljesítménnyel rendelkeznek. A kártyán 4 gigabájt DDR2 memória található.
+
+ 
+
+A PowerPC magnak, lokális memóriának és a két integrált Broadcom Gigabit Ethernet vezérlõnek köszönhetõen az mvXCell-8i saját operációs rendszert is képes bootolni hálózaton keresztül, a gyártó a Fedora 9 és a Yellow Dog disztribúciókat javasolja, ez teszi lehetõvé, hogy gazdagép nélkül önállóan használjuk a gyorsítókártyákat rackelhetõ házba szerelve. A kártya az IBM celles fejlesztõi készletével, az SDK for Multicore Acceleration aktuális, 3.1-es verziójával érkezik. A Pyramid CellNode 1U listaára nagyjából 4000 dollár egykártyás kiépítésben, ami elsõre soknak tûnhet, viszont bizonyos feladatok alatt, megfelelõ kód esetén több kétutas x86-os gépet is kiválthat.

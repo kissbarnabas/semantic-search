@@ -1,0 +1,12 @@
+Lopott SSH-kulcsokkal folyik támadás Linux-rendszerek ellen
+
+Linux-rendszerek ellen folyó támadásokra figyelmeztet a US-CERT, az Egyesült Államok számítógép-biztonsági készenléti szervezete. A közlemény szerint a támadók lopott SSH-kulcsokkal szereznek hozzáférést a célgéphez, majd ezt követõen kernel exploitokkal root jogosultságokhoz jutnak, majd ezt követõen rootkitet telepítenek további támadások elõkészítéséhez.
+
+
+
+A támadók a phalanx2 néven ismert rootkitet igyekeznek telepíteni, melynek célja, hogy további Secure Shell kulcsokat lopjon el a rendszerbõl, és azokat a támadónak küldje tovább. Az így begyûjtött SSH-kulcsokkal aztán további rendszereket igyekeznek feltörni, és hasonló módon jogosultságot szerezni a Linux kernelben megbúvó hibák kiaknázásával. A US-CERT azt javasolja, hogy jelszavas védelmet is követeljenek meg a felhasználóktól a rendszergazdák, csökkentve a kockázatát egy sikeres kulcslopásos támadásnak, valamint patcheljék fel a rendszereket a legfrissebbre. 
+
+
+A phalanx2 rootkit jelenlétét a rendszerben többféleképpen meg lehet állapítani. Az /etc/khubd.p2/ könyvtár nem látszik az "ls" parancsra, de be lehet lépni "cd"-vel -- ez igaz bármilyen "khubd.p2" nevû könyvtárra, bárhol is legyen a rendszerben, bizonyítva a rootkit mûködését, így ha létrehozunk egy "/khubd.p2/", rejtve lesz. A rootkit rejtett folyamatokkal operál, ezek is elárulják jelenlétét. Amennyiben a támadók változtatásokat eszközölnének, úgy a rejtett könyvtárat a fõkönyvtárak hivatkozásainak (reference count) és az "ls" parancs listájának összevetésével azonosíthatunk.
+
+A US-CERT figyelmeztetése bár nem említette, többen valószínûsítik, hogy a folyamatban lévõ támadásoknak köze lehet a Debian OpenSSL csomagjában található véletlenszám-generátor hibájához. A biztonsági rés, melyet májusban jelentettek, lehetõvé teszi támadók számára, hogy szûkítsék a lehetséges kulcsok körét, és valószínûségekkel operálva eredményesen alkalmazzanak brute-force technikákat -- egy kutató szerint 2 óra alatt létrehozta a megfelelõ 1024 vagy 2048 bites kulcsokat. A 2006 szeptembere óta jelenlévõ hiba minden OpenSSL implementációt érint a 0.9.8c-1 verziótól felfelé Debian rendszereken, így a kulcsokat érdemes újragenerálni. A Debian-specifikus hiba a 0.9.8c-4etch3 verziótól javítva van.

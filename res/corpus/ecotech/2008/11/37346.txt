@@ -1,0 +1,31 @@
+Lassuló növekedés a magyarországi informatikai piacon
+
+A hazai távközlési és informatikai piac mérete 2007-ben meghaladta az 1400 milliárd forintot -- derül ki az Informatikai Vállalkozások Szövetsége (IVSz)  megbízásából az IDC által elkészített tanulmányból. Az informatikai piac enyhén nõtt tavaly, a távközlési piac azonban már negatív pályán mozgott. A belföldi informatikai piacot egy közel 845 milliárd forintos informatikai export piac egészíti ki, ennek éves növekedési üteme szintén elmarad az elõzõ évekhez képest, de bõvülése még így is 8,4 százalékot tett ki.
+
+
+
+Túl sokat költünk hardverre
+
+Magyarország informatikai piaca 4,4 százalékkal 590,6 milliárd forintra növekedett 2007-ben. A hazai piac fejlettségét, vagy inkább fejletlenségét jól jellemzi, hogy a költések közel 40 százaléka még mindig hardvervásárlás, ezen belül is jellemzõen PC-, illetve alkatrészbeszerzés. A hardverberuházások második legnagyobb szegmensét a hálózati berendezések és biztonsági célhardverek (appliance) adják, a harmadik és egyben legkisebb szegmens a szervereké és adattárolási termékeké.
+
+A szoftverpiac költéseit a "szoftverstack" rétegei szerint csoportosítva megállapítható, hogy az infrastruktúraszoftverek (operációs rendszerek, felügyeleti szoftverek, biztonsági szoftverek, stb.) a költés közel kétötödét tették ki. A köztesszoftverek (alkalmazásszerverek, alkalmazásintegrációs szerverek, adatbáziskezelõk, adatintegrációs eszközök, üzleti intelligencia szoftverek, fejlesztõeszközök, stb.) csak 13,3%-os részesedést mondhattak
+magukénak, mint az elõzõ kategória. A vállalati alkalmazások adták a költés zömét, több mint 37 százalékot. Mivel az "egyéb szoftver"
+(9,4%) kategória túlnyomó többsége is alkalmazásokból áll kijelenthetõ, hogy 2007-ben a végfelhasználó vállalatok és szervezetek szoftverbüdzséjük közel felét alkalmazásokra fordították.
+
+Az IDC adatai szerint az alapvetõ backoffice-alkalmazások (pl. ERP, ügyviteli alkalmazások) és az ezeket kiszolgáló adatbázisok licenceladásai csökkennek vagy stagnálnak, és a szoftverfejlesztõknek növekvõ bevételeket jelentõ fejlesztések elsõsorban a front-office funkciókat és a meglévõ alkalmazásokat és adatvagyon jobb kihasználását támogató üzleti
+intelligencia, alkalmazásintegráció és CRM területére koncentrálódnak.
+
+Az IT-piac több mint 44 százalékát adták az informatikai szolgáltatások 2007-ben (az IDC metodológiai okokból ide számítja a szoftverkarbantartási, szoftverkövetési költéseket is). A szolgáltatáspiac 8,1 százalékkal 264 milliárd forintra bõvült 2007-ben, ezzel a legdinamikusabban bõvülõ szegmens volt -- a hardverszegmens 0,3 százalékkal nõtt mindössze, a szoftverszegmens pedig 4,9 százalékkal.
+
+Az IVSZ szerint keveset költ a kományzat
+
+Magyarországon 2007-ben a távközlési, informatikai és médiavállalatok, valamint a pénzügyi szektor költötte a legtöbben informatikára, emellett jelentõs költõ a kormányzati szektor is. Ugyanakkor utóbbi szegmens már 2007-ben is kevesebbet fordított informatikára mint egy évvel korábban, 2008-ban pedig további visszaesést vár az IDC. Keresztesi János, az IVSZ elnöke szerint a közép-kelet európai térségre általánosságban jellemzõ, hogy az állam a legnagyobb informatikai költõ, a kiadások akár 30 százalékáért is felelõs, ehhez képest Magyarországon jóval alacsonyabb a közszféra részesedése az IT-kiadásokból.
+
+
+ Regionális összehasonlításban a magyarországi informatikai piac a lengyel és a cseh mögött a harmadik legnagyobb, növekedési ütemét tekintve azonban a sereghajtók között található. Az IDC adatai alapján az euróban számított növekedés 2007-ben csupán 10 százalék volt, ez a cseh piacéval megegyzik, az összes többi országban ennél nagyobb ütemben nõttek az informatikai költések.
+
+Magyarországon az IT-költések több mint 40 százaléka származik az 500 fõnél többet foglalkoztató vállalatoktól és szervezetektõl, a közepes cégek (100-500 fõ) csak a negyedét, a kisvállalatok pedig csak kevesebb mint hatodát adták. A mikrovállalkozások illetve a háztartások a teljes hazai informatikai piacnak csupán 14,1 százalékát teszik ki.
+
+Csökkent a hazai távközlési piac
+
+A távközlési szolgáltatások magyarországi piacán tavaly a végfelhasználói költés 886,7 milliárd forint volt, ez 2 százalékos visszaesést jelent 2006-hoz képest. A csökkenés legfõbb oka a hangszolgáltatásokból származó bevétel csökkenése, ezt némileg ellensúlyozni tudta az adatszolgáltatások forgalmának bõvülése. Az adatokból kiviláglik, hogy már a mobilszolgáltatások piaca is csökkenõ tendenciát mutat, az árak visszaesését már nem tudja kompenzálni az elõfizetõi létszám bõvülése. A kitörési pontot a mobil szélessáv jelentheti a szolgáltatók számára.

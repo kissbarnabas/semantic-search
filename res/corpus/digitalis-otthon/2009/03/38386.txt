@@ -1,0 +1,14 @@
+Natív YouTube-kliens készült symbianos okostelefonokhoz
+
+Lecserélte régi, Java-alapokon mûködõ, symbianos okostelefonokra fejlesztett YouTube-kliensét a Google. Az új, immár natív alkalmazás jelentõs elõrelépés az elõzõ változathoz képest, mind a funkciókat, mind lejátszott videók képminõségét illetõen.
+
+
+
+Az új, Symbian Series 60 készülékekkel kompatibilis YouTube-alkalmazás a videomegosztó oldal webböngészõvel elérhetõ felületét váltja ki egy olyan dedikált szoftverrel, mely egyszerûbbé és kényelmesebbé teszi a feltöltött klipek böngészését, megtekintését -- hasonlóan az iPhone-ra fejlesztett programhoz. Az új klienssel egyebek mellett a korábbiaknál egyszerûbben, logikusabb úton lehet elérni a legjobbnak minõsített, legtöbbet megtekintett és a legújabb videókat, kézenfekvõbb a keresés és a kapcsolódó tartalmak lejátszása.
+
+A mobiltelefonos kliens a keresési feltételek vagy a kategóriaválasztás alapján felsorolt videókat látványosan, egy görgethetõ ikonsávban jeleníti meg, az éppen kiválasztott tartalmaknál pedig felsorolja a videó legfontosabb paramétereit, így egyebek mellett a teljes hosszát, a feltöltõ nevét és a feltöltés idejét, valamint a megtekintések számát. A lejátszás a videó kiválasztásakor indul el úgy, hogy az alkalmazás a kijelzõ tájolásának megfelelõen elõször elforgatja a lejátszóablakot. A videók megtekintése közben a szokásos parancsok (leállítás, pillanat állj, tekerés, hangerõállítás) hívhatók elõ.
+
+
+Bár az új YouTube-kliens sok szempontból használhatóbb, mint a böngészõbõl elérhetõ felület, ráadásul a rajta keresztül megtekintett videók minõsége is jobb lehet, van még hová fejlõdnie a programnak: a felület így jelenleg csak passzív módban érhetõ el, azaz nem lehet felhasználóként bejelentkezni, ami értelemszerûen azt jelenti, hogy bizonyos funkciókat (minõsítés, hozzászólás, személyes videótár elérése) nem tud elérni a telefontulajdonos. A jelenlegi verzióval éppúgy nincs lehetõség a videók letöltésére és feltöltésére sem.
+
+Az új symbianos YouTube-kliens a videomegosztó oldalán elhelyezett hivatkozáson keresztül érhetõ el. A platformra készült több meglehetõsen sikeres, külsõ fejlesztõk által készített alternatíva is, ilyen például a MobiTubia, vagy az EmTube.

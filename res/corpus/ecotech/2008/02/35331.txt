@@ -1,0 +1,31 @@
+Az etikus hacker képesítés jelentõs elõnyt adhat a munkaerõpiacon
+
+Világszerte elismert hacker minõsítést ad február végétõl a NetAcademia. A tavaly szeptemberben indult etikus hacker kurzusok megszerezték az EC-Council minõsítését, valamint az oktatóközpontban már Certified Ethical Hacker (CEH) vizsgát is lehet tenni, Magyarországon egyedüliként. 
+
+
+
+Minden adat kint van a weben
+
+Az International Council of Electronic Commerce Consultants (EC-Council) és a Netacademia közötti megállapodás értelmében a február 25-tõl induló etikus hacker képzések megfelelnek az EC-Council által akkreditált tematikának, így CEH vizsgát is lehet tenni elvégzésüket követõen. Fóti Marcell, a Netacademia alapítója és ügyvezetõje szerint, aki maga is képzett Microsoft rendszermérnök (MCSE), a CEH világszerte elismerten bizonyítja, hogy birtoklója megfelelõ tudással rendelkezik számítógépek és hálózatok biztonsági tesztelésére és a sebezhetõségek kivédésére.
+
+Fóti szerint jelenleg tettenérhetõ piaci elõnyt jelent az, ha valaki rendelkezik CEH minõsítéssel, ahogyan a vállalatokban és más szervezetekben egyre inkább tudatosul elektronikusan tárolt adataik jelentõsége, kritikus volta -- vagyis digitális vagyonuk, ahogyan a Netacademia fogalmaz. A munkáltatók felõli kereslet mellett a CEH minõsítés értékét annak ritkasága adja: az országban maroknyi szakember rendelkezik ilyen papírral. Eddig mintegy 50 ember vett részt az etikus hacker tanfolyamon, köztük bankok, nagyvállalatok informatikusaival. 
+
+Fóti szerint míg korábban a szoftverekben tátongó rések szolgáltatták a támadások elsõdleges forrását, addig az elmúlt évek során a meghatározó szoftverfejlesztõk által tett erõfeszítések eredményeként minimalizálódik a szoftverek hackelhetõsége. A támadások egyre inkább a biztonsági szempontból átgondolatlan webes implementációk felé fordulnak, valamint az üzemeltetõ hanyagságára pályáznak. Ahogyan Fóti fogalmaz, ma minden adat kint van a weben, mindössze az egyes felhasználók hozzáférése korlátozott, az üzemeltetõk és alkalmazásfejlesztõk építenek korlátokat. A probléma egyik forrása, hogy a webes szolgáltatások érdekében az adatokat hozzáférhetõvé kell tenni kívülrõl.
+
+
+A határt védik
+
+Egy megfelelõen megtervezett és beállított webes rendszer esetében azonban többnyire felesleges küzdeni a támadónak a technikával, tette hozzá Fóti. Mint elmondta, tapasztalatai és a hazai üzemeltetõk felõl kapott visszajelzések alapján a biztonsági intézkedések ma egyértelmûen az internet és intranet határvonalára koncentrálnak, és ott próbálnak áthatolhatatlan falat építeni a jogosulatlan hozzáférésekkel vagy szolgáltatásmegtagadásos támadások ellen. Eközben a hálózatok belülrõl sokkal támadhatóbbak, amibõl következõen a támadónak mindössze be kell jutnia a szervezetbe.
+
+
+Nagyértékû adatvagyon esetében a támadók akár állásokra is jelentkeznek ezért a vállalatokhoz, de gyakoribbak az alkalmazottak átejtését célzó "social engineering" próbálkozások, mikor kulcsadatokat, jelszavakat szednek ki a naiv dolgozókból. Szintén tipikus támadási módszer Fóti szerint, hogy a cégek épületeinek közelében szándékosan pendrive-okat hagynak a támadók, melyen valamilyen rosszindulatú kód található. Hozzátette, meglepõdnénk, hogy egy telefonos beszélgetést mímelve, kávéval a kezünkben hány céghez be lehet jutni akár egy tárgyalásra is -- mindez fellépés kérdése.
+
+Tanulságos az ördöglakat
+
+Bár a legjobban védett IT-rendszerek esetében "belülrõl" érdemes próbálkozni, a legtöbb esetben egy tapasztalt hacker rendkívül könnyen, néhány óra alatt hozzáfér akár kritikus adatokhoz a weben keresztül. A Netacademia és a Microsoft együttmûködésével létrehozott Ördöglakat játék ilyen tipikus, "buta" hibákkal is rendelkezõ helyzeteket produkál feladatokként. Az elsõ réseket akár egy amatõr is képes kihasználni, de a középsõknél is az URL hackelés, deface és SQL injekció sem igényel rendkívül mély tudást, mindössze hiányos beállításokra, implementációra van szükség.
+
+A 12 pálya vége felé azonban már kifejezetten nehézzé válnak ezeknek az egyébként szándékosan hagyott a réseknek a kihasználása. Az ördöglakat utolsó pályáját eddig 207 embernek sikerült megcsinálnia, ami Fóti szerint váratlanul sok magyar viszonylatban. Fóti elmondta, hogy az ördöglakatot hostoló szerver akár teljes egészében támadható, jogi következményei "a játékon kívüli" próbálkozásoknak sincsen, eddig azonban nem sikerült "megborítani" a szervert. Többször elhangzott azonban, hogy történtek már olyan hackelések egyes pályákon, melyeknek módját maguk sem ismerik, és váratlanul érték õket. A Netacademia a jövõben további pályákat tervez az Ördöglakatra, hogy fenntartsa az érdeklõdést, tovább tesztelje a hazai hacker közösséget, valamint hogy tapasztalatokat építsen.
+
+A tanfolyam öt napot vesz igénybe, és nettó 395 ezer forintot kóstál, a legelsõ február 25-én indul, kivételesen amerikai elõadóval, angol nyelven. A tematika itt olvasható. Fóti elmondása alapján a CEH-kurzus platformfüggetlen módszereket taglal többnyire, ugyanakkor a Netacademia elsõsorban Microsoft-szoftverekkel foglalkozik, így a teszteléskor használt platform elsõsorban Windows.
+
+Szántó Zoltán értékesítési és marketingvezetõ elmondta, hogy a jövõben specifikus képzéseket is terveznek, vagyis kifejezetten hálózati szakemberek számára, vagy különbözõ platformokról, így dedikált Linux, Windows, UNIX ismeretek is megszerezhetõk lesznek. Hosszabb távon kétségtelenül igény mutatkozik az alkalmazottak oktatására is, így ebben az irányban is építkezni fognak.

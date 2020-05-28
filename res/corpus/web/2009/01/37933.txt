@@ -1,0 +1,14 @@
+Elérhetõ az Internet Explorer 8 véglegesnek jelölt változata
+
+A Microsoft tegnap elérhetõvé tette az Internet Explorer webböngészõ új generációs változatának kiadásra jelölt változatát. A gyakorlatilag véglegesnek tekinthetõ szoftver Windows XP, Server 2003 és 2008, valamint Vista operációs rendszerekhez érhetõ el -- a két hete megjelent Windows 7 bétával egyelõre nem mûködik együtt. Egyes spekulációk szerint nem kizárt, hogy az RC1 változatot egy második, utolsó kiadásra jelölt kód is követi majd, a végleges verzió megjelenési idõpontjáról pedig továbbra sem közöl konkrétumokat Redmond.
+
+
+
+Tavaly augusztus óta elõször adott ki nyilvános próbaverziót az Internet Explorer 8 webböngészõbõl a Microsoft. A most megjelent kódban várhatóan már csak az apróbb, a felhasználói visszajelzések alapján lelt hibákat javítják ki, a végleges változatban újabb funkciók nem jelennek meg a szoftvercég illetékeseinek korábbi nyilatkozatai alapján. A végleges változat érkezésérõl egyelõre továbbra is csak annyit tudni, hogy a szoftver valamikor 2009-ben várható. Az Internet Explorer 7 esetében az RC és a végleges verzió megjelenése között kevesebb mint két hónap telt csak el.
+
+James Pratt, az Internet Explorer csapatának egyik vezetõ termékmanagere szerint a végleges Internet Explorer 8 megjelenési ideje elsõsorban a felhasználói visszajelzésektõl függ, ezzel együtt nem zárkózott el egyértelmûen attól, hogy az elsõ kiadásra jelölt változatot esetleg továbbiak követik majd. Az Internet Explorer 8 RC1 az elõzõ tesztváltozathoz képest több kisebb változást hoz a felhasználói interfésznél, illetve a fejlesztõk beillesztettek a kódba egy olyan kompatibilitási módot, mely lehetõvé teszi a böngészõnek, hogy bizonyos weboldalakat az IE7-tel egyezõ módon rendereljen.
+
+
+Az IE8 fõleg a használhatóság és a biztonság terén hoz újdonságokat, de a webes szabványok támogatása is sokat fejlõdött, aminek eredményeképp a böngészõ lényegében az összes standarddal kompatibilis. Emellett a fejlesztõk nagy hangsúlyt fektettek a sebességre is, amely miatt az Internet Explorer 7-et sok kritika érte: Az Internet Explorer 8 webböngészõ kiadásra jelölt változata Pratt szerint gyorsabban is jeleníti meg a weboldalakat, mint a tavaly nyáron napvilágot látott második bétaváltozat.
+
+Az Internet Explorer 8 kiadásra jelölt változatát a korábbi béták felhasználói a Windows Update szolgáltatáson keresztül érhetik el hamarosan. Akik még nem próbálták ki az új böngészõt, azok a Microsoft weboldaláról letölthetik a szoftvert, a cég ugyanakkor felhívja a figyelmet, hogy ha valaki a harmadik szervizcsomaggal frissített Windows XP-re telepíti a böngészõt, utána nem fogja tudni eltávolítani azt.

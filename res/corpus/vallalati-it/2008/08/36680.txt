@@ -1,0 +1,24 @@
+Frissítette fejlesztõi eszköztárát a Microsoft: itt a .NET Framework 3.5 és a Visual Studio 2008 elsõ szervizcsomagja
+
+Tegnap megjelent a Microsoft .NET Framework 3.5 SP1 és a Visual Studio 2008 SP1 -- alig kilenc hónappal a termékek megjelenése után a redmondi szoftvercég az ügyfelek visszajelzései alapján számos ponton javította, finomította és továbbfejlesztette a szoftvereket. A cég közleménye szerint mostantól még egyszerûbb a fejlesztés ezen a platformon.
+
+
+
+Client Profile
+
+A .NET Framework 3.5 SP1 egyik legfontosabb újdonsága a Client Profile megjelenése, amely 197 helyett mindössze 25,6 megabájtos -- a végfelhasználóknak így sokkal kisebb méretû állományt kell letöltenie, amely gyorsabban is települ. A Client Profile lényegében a teljes .NET Framework 3.5 SP1 "kivonata", amely azokat a komponenseket tartalmazza, amelyek kimondottan a kliensoldalra készültek --  Common Language Runtime (CLR), ClickOnce, Windows Forms, Windows Presentation Foundation, Windows Communication Foundation. A Visual Studio 2008 SP1-ben megjelenõ opcióval a kliensoldalra fejlesztett alkalmazások egyetlen opcióval konfigurálhatók a Client Profile-ra.
+
+
+ Scott Guthrie, a .NET Developer Division vezetõje szerint a Microsoftnál eddig fõképp arra koncentráltak, hogy tehetnék könnyebbé a fejlesztõk dolgát, és a végfelhasználói élmény némileg háttérbe szorult, ezen próbálnak most segíteni a Client Profile kiadásával. "A .NET keretrendszer 3.5-ös verziójának elsõ javítócsomagja jelentõsen felgyorsítja a telepítést és sokkal fogyasztóbarátabb élményt nyújt. Ez nagy elõrelépés a több mint négymillió .NET-fejlesztõ számára."
+
+Új eszközök
+
+A .NET Framework 3.5 SP1-ben számos újdonság került a közös nyelvi futási környezetbe (common language runtime, CLR) is, amely már lehetõvé teszi menedzselt kód létrehozását is, amivel jelentõsen lerövidíthetõ például az alkalmazások indítási ideje, felgyorsítható a futásuk, valamint kihasználható a Windows Vistában debütált Address Space Layout Randomization biztonsági funkció. Az ASLR lényege, hogy a program által használt kulcsfontosságú adatterületeket (pl. verem) minden egyes indulásnál máshová helyezi a memóriában, így azok elhelyezkedése a támadók számára kiszámíthatatlanná válik, ami lehetetlenné teszi például puffertúlcsordulásos támadások indítását.
+
+További figyelemre méltó fejlesztés, hogy az SP1-gyel frissített .NET Framework 3.5 már támogatja az ASP.NET Dynamic Datát, amely kódírás nélkül teszi lehetõvé adatbázis-alapú webalkalmazások létrehozását úgy, hogy az adatbázisban tárolt információkat szimplán a webcím paraméterezésével lehessen elérni. Az SP1-be bekerült az ADO.NET Data Services és ADO.NET Entity Framework is, amik lehetõvé teszik a fejlesztõk számára, hogy bonyolult kód írása és a háttérben mûködõ adatbázis pontos logikai felépítésének ismerete nélkül tudjanak üzleti entitásokkal dolgozni.
+
+A funkciógazdag webalkalmazások (rich internet application) fejlesztése szempontjából rendkívül fontos újdonsága a .NET Framework 3.5 SP1-nek, hogy egyszerûsítették és egységesítették a LINQ segítségével történõ adatkezelést, így a szerveren és lokálisan tárolt adatokon ugyanaz a kód futtatható. Korábban a kliensoldalon cache-elt adatok feldolgozására külön eljárásokat kellett létrehozni, ez mostantól azonban megváltozik. Ennek elsõsorban a nem folyamatosan online alkalmazások szempontjából van nagy szerepe: a fejlesztõk igény szerint, tetszõlegesen cache-elhetik az adatokat, és a kliens élõ kapcsolat nélkül is mûködik.
+
+A Visual Studio is követi a .NET Framework változasait
+
+A Visual Studio 2008 SP1 legfontosabb újdonságai a .NET platform frissítésével állnak szoros összefüggésben, de emellett továbbfejlesztették a Windows Presentation Foundation-alapú alkalmazások tervezéséhez használatos segédeszközöket, a JavaScript- és AJAX-fejlesztõi környezetet és a weboldal-tervezõt is. Emellett megjelentek olyan funkciók és szolgáltatások, amelyek az SQL Server 2008-cal történõ integrációt segítik. Érdekes újdonság a Visual Studio Isolated Shell megjelenése, amely köré építve lényegében bárki teljesen saját fejlesztõi környezetet hozhat létre a Visual Studio motorjára építve.

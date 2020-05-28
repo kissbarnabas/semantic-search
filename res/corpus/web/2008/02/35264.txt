@@ -1,0 +1,16 @@
+Egyelõre csak a szolgáltatók tesztelhetik az Opera Mobile 9.5 mobil böngészõt
+
+Az Opera Software bejelentette, hogy mobilszolgáltató és OEM-partnerei hamarosan tesztelhetik, a nagyközönség pedig a barcelonai Mobile World Congress 2008 rendezvényen próbálhatja ki okostelefonokon futó mobil böngészõ, az Opera Mobile legújabb, 9.5-ös változatának újdonságait. A publikus bétatesztelés idõpontját késõbb közli az Opera.
+
+
+
+Az új változat jelentõs továbbfejlesztéseket tartalmaz majd, lassan közeleg az a mobilböngészõ, mellyel szinte bármilyen weboldalt pontosan abban a formában láthatunk viszont, ahogyan az asztali változatokkal is megjelenik. Az Opera Mobile 9.5 symbianos és windowsos okostelefonok mellett linuxos mobilokon is futhat majd, az önállóan futtatható, fizetõs változat mellett SDK formájában is elérhetõ lesz a mobilszolgáltatók, készülékgyártók számára.
+
+Az új mobil böngészõ az Opera Software szerint 2,5x gyorsabban állítja össze az oldalakat, mint az ugyanazon a telefonon futó mobil Internet Explorer, a Presto renderelõ motor a JavaScript és Ajax kódokkal teletûzdelt oldalakat is gördülékenyen, gyorsan kezeli. Az Ajaxot számtalan népszerû oldal, blogmotor, közösségi motor használja, a technológia támogatása elengedhetetlen egy modern böngészõ számára.
+
+
+Az Opera Mobile 9.5 felülete intuitív, kezelése könnyen elsajátítható, utóbbit segíti a webcímek automatikus kitöltése, a jelszavak menedzselése és az oldalak elmentésének lehetõsége is. A Flash Lite 3 támogatással a YouTube-os videók közvetlenül is megtekinthetõk.
+
+
+
+A mobil böngészõ képes megjeleníteni és futtatni az Opera Widgetjeit, apró alkalmazásait, így számos mini programmal láthatjuk el mobilunkat, melyek hasznos információkkal láthatnak el minket az idõjárásról, részvényeink árfolyamainak alakulásáról. Az Opera Mobile 9.5-tel a mobilszolgáltatók és -gyártók közvetlenül varázsolhatnak információkat a telefon alapállapoti képernyõjére is.

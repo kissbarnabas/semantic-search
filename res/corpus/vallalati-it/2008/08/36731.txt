@@ -1,0 +1,25 @@
+Fiorano, az AMD elsõ szerverplatformja
+
+A héten zajló Intel Developer Forum gáncsolása céljából újabb szerver kódnévvel rukkolt elõ az AMD. A chipgyártó Fiorano platformja korábban nem szerepelt a publikus termékterveken, és áthidaló szerepet tölt majd be a jelenlegi és a következõ generációs infrastruktúra között. A Fiorano egyúttal az AMD elsõ szerverplatformja, melyhez saját chipsetet is kínál.
+
+
+
+Ami késik, nem múlik
+
+Tavaly év végén az AMD szerver terméktervén még 2009 elsõ felére ígért új rendszerarchitektúrát, mely a Piranha kódnevet viselte, fél évvel késõbb azonban már a törlését volt kénytelen bejelenteni a vállalat. A Piranha helyett felbukkant a Maranello, mely lényegében ugyanazokat a képességeket vonultatja fel, azonban egy évvel késõbb, 2010 elsõ felére várható csak. Az így keletkezett ûrt a most bemutatott Fiorano tölti majd be, egyfajta hídplatformként -- a már többéves csúszásban lévõ új rendszerarchitektúra bevezetését két fázisra bontotta az AMD. 
+
+A Piranha lett volna az elsõ platform, mely AMD chipseteket kínált volna az Opteronok processzorok alá, egyúttal bevezette volna a koherens HyperTransport 3.0 összeköttetéseket, melyek javították volna a többutas rendszerek teljesítményén a hatékonyabb skálázódás révén. A HT3 linkek magasabb mûködési frekvenciájuk révén alacsonyabb késleltetéssel és sokkal magasabb átviteli sebességgel bírnak, órajelük elérheti a 2,6 gigahertzet is a jövõben. Az új Socket G3 foglalatot felvonultató Piranha nemcsak a processzorfoglalatok közti koherens linkek sebességében, de a rendszerarchitektúra topológiájában is eltért volna, ugyanis a processzorchipek eggyel több, összesen négy darab teljes szélességû linket is kaptak volna, melybõl három koherens.
+
+Ez azt jelenti, hogy egy négyfoglalatos rendszerben minden processzorchip közvetlenül csatlakozhat a másik háromhoz, mégpedig teljes sávszélességû koherens HT3 linkekkel, ami nagyban javítja a skálázódást és megkönnyíti a szoftverek memória-hozzáféréseinek optimalizálását is, hiszen csak lokális és egyetlen távoli késleltetéssel kell számolni. A jelenlegi négyutas Opteron-rendszerekben két memóriabank között két ugrásnyi távolság is lehet, ami nemcsak megnöveli a késleltetéseket, de terheli a közbeesõ linkek kapacitását is. Szoftveroptimalizációs szempontból pedig nagy mértékben megbonyolítja a helyzetet, hogy egy memóriaeléréskor háromféle, egy lokális, és kétféle távoli késleltetéssel kell kalkulálni. A HT3 linkek szélessége megfelezhetõ, ezzel pedig 8 fél linkkel akár egy teljes egészében közvetlenül összekötött nyolcutas rendszer is építhetõ.
+
+Késleltetett fázisok
+
+
+A Fiorano, mely kódnevét szimbolikusan egy Maranellótól nem messze lévõ versenypályáról kapta, továbbra is a jelenlegi Socket F foglalatot alkalmazza majd, azonban már támogatni fogja a koherens HT3 linkeket is. A Fiorano 2009 második felében érkezik az AMD ígérete alapján, és az idei negyedik negyedévben debütáló Shanghai kódnéven ismert, 45 nanométeres csíkszélességgel elõállított négymagos Opteronoknak ad majd otthont. A Shanghai már rendelkezik koherens HT3 linkekkel, melyek visszafelé kompatibilisek, így a jelenlegi platformokba is beilleszthetõ. 
+
+Jövõ év vége elõtt érkezhet az Istanbul, egy hatmagos Opteron a jelenlegi mikroarchitektúra köré építve, továbbra is Socket F tokozással. Az Istanbul lehet az AMD elsõ igazi lehetõsége, hogy a szerverpiacon visszanyerje versenyképességét a küszöbön álló négymagos Intel Nehalemmel szemben, mely letaglózó fölénnyel fenyegeti a vállalatot. A Nehalem a Core-mikroarchitektúra jelentõs továbbfejlesztésével négy erõteljes, egyenként két utasításszálat kezelõ magot integrál egyetlen szilíciumlapkán egy 8 megabájtos L3 tár, memóriavezérlõ és az AMD HT-hoz hasonló pont-pont összeköttetéseket megvalósító QuickPath Interconnect linkek társaságában. Az Intel ezzel mikroarchitekturális fölényének fokozása mellett rendszerarchitekturális hátrányát is behozza, sõt az elõzetes elemzések alapján valószínûleg elõnyre is szert tesz.
+
+[+] Nehalem: minden részlet a helyére került
+
+
+2010-ben érkezhetnek a már négy HT3 linkkel rendelkezõ, DDR3 memóriát támogató Opteronok, a valószínûleg multi-chip tokos 12-magos Magny-Cours, és a 6-magos Sao Paulo, 45 nanométeres csíkszélességû gyártástechnológiával. Ezeket a chipeket már a fentebb említett Maranello szolgálja ki, Socket G34 és foglalatonként négy HT3 link támogatása a legfõbb jellemzõi a saját AMD chipsetek mellett, de fontos megemlíteni az I/O virtualizációt és a PCI Express 2.0 bõvítõsíneket is. A második negyedévben az AMD a szerverek és munkaállomások terén 0,8 százalékpontot szedett el az Inteltõl, vélhetõen felfutóban lévõ négymagos Opteronjai segítségével, ugyanakkor így is mindössze a szervervolumen 13,8 százalékát szerezte meg.

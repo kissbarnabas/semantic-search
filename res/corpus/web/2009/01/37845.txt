@@ -1,0 +1,14 @@
+Késve jön a Firefox 3.1 harmadik bétája
+
+A vártnál egy héttel késõbb jelenik meg a Firefox webböngészõ 3.1-es verziójának harmadik, minden valószínûség szerinti utolsó bétája, ez azonban nem késlelteti a végleges változat megjelenését -- szabadkozik a fejlesztõ. Ha lenne is késlekedés, az egy hét elenyészõnek tûnhet ahhoz képest, hogy a böngészõ 3.1-es verziójának az eredeti tervek szerint már tavaly év végén meg kellett volna jelennie.
+
+
+
+Eredetileg január 26-án jelent volna meg a Firefox webböngészõ 3.1-es verziójának harmadik bétája, a kódban maradt &#8222;nagy számú&#8221; hiba miatt azonban a vártnál egy héttel késõbb, február 2-án adják ki a program utolsó bétaváltozatát -- derül ki a Mozilla oldalán kedden közzétett új ütemtervbõl. A béta 3-as változatban a fejlesztõk egyelõre 15 fontos, kijavításra váró hibát tartanak nyilván, ezek közül néhány az elsõ alkalommal a böngészõ 2-es bétájával bevezetett egyik legfontosabb újítást, a privát böngészési üzemmódot érinti. Ezt bekapcsolva a böngészõ nem tárol semmilyen információt, amibõl a PC-n kideríthetõ lenne, hogy a felhasználó merre járt, milyen weboldalakat látogatott meg, mit töltött le. Hasonló funkció található a Google saját böngészõjében, a Chrome-ban is.
+
+
+A Firefox webböngészõ 3.1-es verziójának másik fontos újdonsága a privát böngészési lehetõség mellett az elõdjénél lényegesen gyorsabban mûködõ, TraceMonkey fantázianevû JavaScript motor, melyet a 3.1-es változat elsõ, októberben megjelent bétájában alapesetben még kikapcsolt a Mozilla, a második bétában azonban már alapértelmezettként mûködött az új motor.
+
+Az eredetileg január végére tervezett, de végül csak februárban megjelenõ harmadik béta új funkciókat már nem tartalmazna, csak a hibajavítások kerülnének a kódba -- derült ki korábban a Mozilla fejlesztõi csatornáján zajló beszélgetésbõl. Az utolsó béta megjelenését várhatóan több kiadásra jelölt (release candidate, RC) változat is követi majd, a kód valamikor a jövõ év elsõ negyedében válhat véglegessé.
+
+Mike Beltzner, a Firefox projektvezetõje sietett leszögezni, hogy a harmadik béta késése nem jelent csúszást a végleges változat fenti megjelenési idõpontjával kapcsolatban. Beltzner egyben ígéretet tett rá, hogy cége még a hét vége elõtt közzétesz egy konkrét idõpontokat tartalmazó ütemtervet a Firefox 3.1 megjelenésére vonatkozóan.

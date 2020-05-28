@@ -1,0 +1,15 @@
+A felhasználó legféltettebb titkai is kinyerhetõk az iPhone-ból
+
+Néhány kellemetlen incidens miatt az utóbbi idõben kiemelt figyelmet kapott a mobil eszközökön tárolt adatok védelme, legyen szó akár noteszgépekrõl, akár okostelefonokról. A Stratis tanácsadócég által üzemeltetett IT Security blog szerint az utóbbi idõk egyik legnépszerûbb, legfelkapottabb okostelefonja, az Apple iPhone-ja olyan információkat, adatokat is rejthet, amelyekrõl még maga a tulajdonos sem tud.
+Mindent elmond a tulajdonosról
+Az IT Security blog szerint egy jailbreakelés után egy speciális alkalmazás telepítésével az iPhone nyitott könyvvé válik a szakemberek  elõtt. Az iPhone számos olyan adatot tárol el, amelyrõl nyilván maga a felhasználó is tud, például neveket, címeket, telefonszámokat, a határidõnapló bejegyzéseit. Azt azonban valószínûleg kevesen tudják, hogy a készülékben elérhetõ a teljes híváslita, akár még napokkal korábban törölt üzenetek is elõkereshetõk, visszahallgathatók a hangposta-üzenetek (amiket a telefon AMR formátumban tárol), és akár az is rekonstruálható, merre járt a felhasználója.
+A bejegyzés szerint a beépített GPS-szel rendelkezõ iPhone az összes elkészített fotó koordinátáit megõrzi, ez alapján rekonsrtruálható, merre járt a tulajdonosa. Ugyanehhez nyújt segítséget a Google Maps, ugyanis a készülékbõl elõkereshetõ az összes keresés eredménye, ezeket az iPhone csak akkor törli, amikor a nekik dedikált tárterület betelik, így akár több hónapra visszamenõleg is látható, milyen helyekre keresett a tulajdonos.
+A jelszavakat is megõrzi az iPhone
+A telefon például folyamatosan figyeli, hogy a tulajdonos milyen szavakat gépel be a billentyûzeten, ezzel a prediktív szövegbevitel hatékonyságát igyekszik növelni. A problémát az okozza, hogy az iPhone az összes bevitt szöveget eltárolja, beleértve például az alkalmazásokhoz vagy webes szolgáltatásokhoz használt felhasználói neveket és jelszavakat vagy akár az érzékeny személyes adatokat, amelyeket egy e-mailbe vagy SMS-be írt a felhasználó. Ugyanígy visszakereshetõk a meglátogatott oldalak webcímei is.
+
+Az IT Security blog szerint a telefon a felhasználói felületet apró trükkel teszi gyorsabbá: a Home gomb megnyomása esetén képernyõmentést készít, és egy alkalmazás ismételt megnyitásakor elõször ezt tárja a felhasználó elé, miközben maga az alkalmazás még lehet hogy töltõdik. Ettõl a trükktõl a felület valóban gyorsabbnak tûnik, a probléma azonban az, hogy ezeket a képeket is tárolja az iPhone, így utólag azt is meg lehet mondani, a tulajdonos milyen alkalmazásokat használt.
+A különféle webes szolgáltatások gyorsításához használt SQLite adatbázisok is elérhetõk az iPhone memóriájában, ezekbõl is számos bizalmas adatot lehet kinyerni, például jelszavakat, e-maileket, könyvjelzõket. A blogbejegyzésbõl az is kiderül, hiába állítja vissza valaki az iPhone-ját gyári állapotúra például az iTunes segítségével, a készüléken tárolt adatok fizikailag ekkor sem törlõdnek, azaz még egy ilyen telefon is "árulkodhat".	     
+                  
+                  
+                  
+                   

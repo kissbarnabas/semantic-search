@@ -1,0 +1,18 @@
+20 millió dolláros támogatást kapott az ingyenes Wi-Fi-hálózatot is építõ Meraki
+
+[C|Net] Újabb 20 millió dolláros tõkeinjekciót kapott befektetõitõl -- többek között a Sequoia Capitaltól, a DAG Venturestõl, és a Northgate Capitaltól -- a Meraki Networks, az a feltörekvõ vállalat, mely azt tûzte ki célul, hogy olcsó, sõt, ingyenes Wi-Fi-kapcsolattal látja el a világ jobban élõ, és fejlõdõ országait egyaránt. A cég olyan routereket és megoldásokat értékesít, mellyel megoszthatjuk internetünket másokkal, sõt, akár komplett hálózatot is építhetünk a mesh-képes routerkbõl.
+
+
+
+A Meraki legolcsóbb routere, az 50 dolláros Meraki Mini is képes arra, hogy mesh hálózatot hozzon létre. Ennek lényege, hogy az egymás vételkörzetében található routerek egyetlen vezeték nélküli hálózatba szervezõdnek, s ha csak egyikük is eléri az internetet, bármelyik routerre csatlakozó felhasználó alkalmas lesz a világháló böngészésére. A nagy rivális, a spanyol FON speciális routerei erre nem képesek.
+
+
+Meraki Mini
+
+
+A Meraki Networks egy doktori disszertációból nõtte ki magát vállalatá, mely nem csak olcsó vezeték nélküli hálózati berendezéseket, hanem komplett megoldásokat is kínál. A Meraki Pro szolgáltatással akár kisebb szállodák is menedzselhetik saját Meraki hálózatukat, annak minden adminisztrációjával, számlázásával, felhasználói jogosultságkezelésével együtt. 
+
+Jelenleg már több mint 5000 hálózat használja a Meraki routereit, az egyik legnagyobb felhasználó a keresõóriás Google, de a cég több ezer routert készül ingyenesen szétosztani San Franciscóban is, hogy egy városméretû hálózatot hozzanak létre.
+
+
+A vállalat ugyanakkor fõként a fejlõdõ országokban, Indiában, Latin-Amerikában és Afrikában, vagy Brazíliában látja fejlõdése kulcsát. A cég hamarosan olyan routert is piacra dob majd, melyet napelemek hajtanak, töltenek majd fel, így elektromos áramra sem lesz szükség a telepítésükhöz, üzemeltetésükhöz.

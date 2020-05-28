@@ -1,0 +1,14 @@
+Kiteljesedett az AMD 45 nanométeres Opteron-portfóliója
+
+Tegnap lett hatéves az Opteron, és ennek örömére kiteljesedett a Shanghai család, miután az AMD megkezdte az alacsony fogyasztású és új extrém teljesítményû változatok szállításait. Eközben csendben árat is csökkentett a cég Phenom vonalán.
+
+
+
+A Shanghai kódnéven ismert négymagos, 45 nanométeres csíkszélességû Opteron szerverchipek termelésének felfutásával és a gyártási eljárás finomhangolásával az Opteron portfólió fokozatosan teljesedett ki. A tavaly novemberben 2,7 gigahertzes órajelen debütált szerverprocesszor órajele elõször megemelt, 120 wattos hõkeret (TDP) mellett 2,8 gigahertzre, február végére pedig a normál 95 wattos TDP-osztályban 2,9 gigahertzre emelkedett. Az AMD most 3,1 gigahertzre tornázta fel a frekvenciát a 2393 és 8393 SE változatokkal, amihez ismét a 120 wattos TDP-kerethez volt szüksége -- ez jellemzõen 105 watt alatti tipikus fogyasztást (ACP) jelent processzoronként. 
+
+Az új csúcsváltozat megjelenése mellett az AMD az energiahatékonyságot, valamint a kifejezetten alacsony fogyasztást megkövetelõ felhasználók számára is javított kínálatán. Megjelentek az EE, vagyis extrém hatékonyságú változatok, melyek az AMD szerint teljes terhelésen is tipikusan 40 wattnál kevesebbet fogyasztanak, miközben órajelük 2,1 (Opteron 2373) vagy 2,3 (2377) gigahertz lehet, azaz megfelelõen erõsek a legtöbb, az órajelre nem érzékeny vagy nem teljesítménykritikus alkalmazások kiszolgálásához. Frissült a HE, vagyis a magas hatékonyságú vonal is, itt az elérhetõ órajel 2,3 gigahertzrõl 2,5-re emelkedett, a tipikus fogyasztás terhelésen is 55 watt alatti.
+
+
+Az AMD Opteron Upgrade Program az 2000-es és 8000-es sorozatú Opteronok áraiból rendre 50 és 100 dolláros árkedvezményt ajánl azok számára, akik frissítik meglévõ Socket F szervereiket. Ez egy kétutas rendszer esetén 100, egy négyutasnál 400, egy nyolcutas gépnél pedig 800 dollár megtakarítást jelent a processzorok árából. Az AMD közleménye alapján a kedvezményt kiskereskedelmi partnerek és ügyfelek is lehívhatják. Érdemes lehet megvárni azonban az AMD hatmagos, Istanbul kódnéven ismert Opteronját, mely várhatóan júniustól válik elérhetõvé, és illeszkedik a Socket F infrastruktúrába.
+
+Eközben faragott Phenomjai árán is a cég. A Phenom II X4 940 Black Edition 13, az X3 8750 Black Edition és normál változatok pedig 26-26 százalékkal lettek olcsóbbak, de 8-9 százalékos csökkentést hajtott végre az X3 8650 és 8450 modelleken is. Az Intel szintén nemrég módosította néhány processzorának listaárát, a két cég lépései azonban egymástól függetlennek tûnnek, mivel más és más szegmensekhez tartozó termékekhez nyúltak hozzá.

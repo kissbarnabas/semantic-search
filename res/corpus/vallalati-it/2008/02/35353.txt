@@ -1,0 +1,14 @@
+Linuxos fürtözött rendszerek terén erõsít az SGI
+
+A Silicon Graphics bejelentette a fürtözött szuperszámítógépeket szállító Linux Networx vagyonának felvásárlását. Az akvizíció keretén belül az SGI-hoz kerülnek a Linux Networx szoftverei, szellemi portfoliója, illetve egyes szakemberei, cserébe az SGI saját részvényeiért. A munkaállomásairól és szervereirõl elhíresült cég emellett jelentõs tõkebefektetéshez is jutott az Oak Investment Partners és Lehman Brothers részérõl. Egyik tranzakció pénzügyi részleteit sem hozták nyilvánosságra.
+
+
+
+A fürtözött szuperszámítógépek terén úttörõk közé számító Linux Networx kiterjedt tapasztalattal rendelkezik a területen, amit mi sem bizonyít jobban, hogy a világ legnagyobb teljesítményû installációit számon tartó Top500 listán jelenleg 9 géppel képviselteti magát, de története során összesen 15 olyat épített, amelyek felkerültek a prominens rangsorba. Az SGI-nek jelenleg 22 gépe szerepel a Top500-on.
+ 
+
+Az SGI-nak elsõsorban a Linux Networx szoftvereire fájhatott a foga, amelyeket be tud illeszteni jelenlegi portfoliójába, valamint átvesz néhány alkalmazottat,  akik szoftvertervezéssel, rendszeroptimalizálással, alkalmazások teljesítményének finomhangolásával és fürtözött rendszerek menedzsmentjére szolgáló szoftverek fejlesztésével foglalkoznak.
+
+Amint arról lapunk is beszámolt, a pénzügyi nehézsgégekkel küszködõ Silicon Graphics 2006 tavaszán csõdöt jelentett, majd csõdvédelem alatt jelentõs átszervezést hajtott végre és új stratégiát tûzött ki, amelyben a korábbinál nagyobb szerepet kaptak az addig szinte teljesen hanyagolt x86-alapú szervereket. Az egykor az IT-ipar, a munkaállomás- és szerverpiac egén tündöklõ SGI a  decemberben véget ért pénzügyi negyedévében 90,1 milliós forgalom mellett 30,8 millió dolláros veszteséget volt kénytelen elkönyvelni, azonban a befutó megrendelései 30 százalékkal 100 millió dollárra nõttek.
+
+A történet érdekessége, hogy az SGI elnök-vezérigazgatója, Robert Ewald épp a Linux Networxtõl érkezett az SGI-hoz tavaly áprilisban, ahol az elnök-vezérigazgatói pozíció mellett az igazgatótanács elnökeként is dolgozott. Ewald egyébként már korábban is dolgozott az SGI-nál, de  a Craynél és a világ legnagyobb teljesítményû szuperszámítógépei közül többet is üzemeltetõ Los Alamos Nemzeti Laboratóriumban is.

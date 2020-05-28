@@ -1,0 +1,44 @@
+Tojáshéjakon lépdel a Google 
+
+Az Egyesült Államokban évtizedek óta az antitröszt perek jellemzõen technológiai cégeket sújtanak. Korábban az AT&amp;T, mint telefonmonopólium, majd az IBM, mint számítógép-gyártó óriás, az utóbbi években pedig a piacot személyi számítógépekre szánt szoftverekkel taroló Microsoft került a vizsgálatok középpontjába. Ennek ellenére a Bush kormányzat idején nem voltak túlzottan fenyegetve a domináns cégek, de az új Obama adminisztráció hozzáállása alapján úgy tûnik, változik a helyzet, vélik a New York Timesnál.
+
+
+Elkanászodtak a technológiai cégek
+
+Sõt, a szigorodó amerikai mentalitás teljes mértékben illeszkedik az Európai Unió a mostanában jellemzõ gyakorlatához. A Microsoft szorongatása mellett épp múlt héten büntették meg az uniós hatóságok több mint 1 milliárd euróra az Intelt a processzorpiac befolyásolása miatt. Ez utóbbival kapcsolatban további részletek a HWSW múlt heti beszámolójában találhatóak. 
+
+Az európai és az amerikai szigorodás egyértelmûen az új technológiai platformokat kisajátító cégek ellen hat, ami jelenleg leginkább a Google-t veszélyezteti, mely folyamatosan növeli egyébként is fennálló hegemóniáját az internetes gazdaságban. Jogi szakértõk szerint a technológiai platformok azért is szorulnak komolyabb vizsgálatra és azért érdemelnek több figyelmet, mert olyannyira dominánssá váltak és függõséget alakítottak ki a felhasználókkal, hogy a vállalatok úgy érzik, szinte kötelezõ csatlakozni az olyan szolgáltatásaikhoz, mint a Google hirdetési rendszere, vagy a Google keresõre történõ optimalizáció, különben hátrányt szenvednek el. Ez pedig hógolyó effektust indít el, amint egyre több felhasználót, hirdetõt és szoftver fejlesztõt vonzanak ezek a platformok.
+
+
+Christine Varney: Obama titkos fegyvere, korábban a Microsoftot is kellemetlen helyzetbe hozta 
+
+Herbert Hovenkamp, az Iowai Egyetem jogi karának antitröszt szakértõje szerint ma az internetes keresés és a keresõhirdetések számítanak olyan példának, mint korábban a személyi számítógépek operációs rendszerei. Hovenkamp támogatja azt a véleményt, miszerint "A Google ugyanolyan domináns hálózat, mint a Microsoft. A hálózatok világában pedig csak akkor lesz verseny, ha mindenkinek azonos esélyei vannak".
+
+A Google a következõ célpont
+
+A Google-lel kapcsolatban már tavaly is több vizsgálat folyt, s többek közt a Yahoo-val való keresõmarketing szövetségüket meg is fúrta az amerikai versenyhivatal. Az elmúlt hetekben pedig újabb két ügy került terítékre, az egyik az elektronikus könyvek kapcsán, a másik pedig azt vizsgálja, hogy sérti e a verseny szabadságát, hogy a Google-nek és az Apple-nek két közös igazgatótanács-tagja is van, hisz mindkettõ kínál web böngészõket és mobil operációs rendszereket is.
+
+Eric Schmidt, a Google vezérigazgatója a múlt hónapban azt nyilatkozta, hogy az alapos vizsgálatok nem lepték meg. "Az információ hihetetlenül fontos, és számítanunk kell arra, hogy a kormányok világszerte figyelmet fordítanak arra, hogy mit csinálunk" -- mondta a Google elsõ embere. Az érem másik oldala viszont, hogy a Google hatalmától nem csak saját eredeti versenytársai tartanak, hanem számos egyéb iparág is, mint a média, hirdetés, telekommunikáció vagy a szoftvergyártás. 
+
+
+Korabeli illusztráció az amerikai olajmonopóliumokról
+
+Jogilag azonban egyelõre csak annyit lehet mondani, hogy egyre csak növekedõ, sikeres és ambiciózus cégnek lenni még nem jogsértõ. Nem elég nagynak vagy nem elég rossznak lenni, hanem a trösztellenes törvények megsértéséhez mindkettõt produkálni kell egyszerre. A Microsoft esetében sem az volt a gond, hogy vezetõ pozícióban volt az operációs rendszerek piacán, hanem az, ahogyan a vállalati világban szerzõdéseket kötött, vagy ahogyan kihasználta egyik erõsségét egy új területen való mesterséges megerõsödéshez, például a böngészõ piacon. 
+
+A Google jobban viselkedik, mint anno a Microsoft
+
+A Google hasonló módon növekszik és növeszt új csápokat, de az amerikai jogi szakértõk szerint ebben a történetben nincsenek a Microsoftéhoz hasonló allûrök, praktikák. Amennyiben pedig a Google nem mutat rosszindulatú versenyellenes magatartást a jövõben sem, akkor elképzelhetõ, hogy elmaradnak a nagy nemzeti perek. Ezzel együtt is ugyanakkor biztosan folyamatosan vizsgálatok kereszttüzében marad a cég.
+
+Ami viszont aggodalomra adhat okot, hogy a Google is többnyire a keresõszolgáltatását vagy egyéb bejáratott termékeit használja ahhoz, hogy új üzleteivel is megvesse a lábát a piacokon. Az internetes keresõ fejlesztésével több olyan funkció is bekerül a képbe, ami korábban teljesen külön terület volt, mint például a Google Chrome-mal a böngészõk, vagy a YouTube-bal a tartalomszolgáltatási platform. A Google Profile nevû szolgáltatást is a keresõ tökéletesítésének útjára helyezte a Mountain View-ban székelõ cég, miközben egyértelmû a közösségi hálózatok területére történõ belépés. "Ez tipikusan egy olyan eset, ami trösztellenes figyelmet vonz" -- nyilatkozta Randal C. Picker, a Chicagoi Egyetem jogi karának szakértõje.
+
+
+Hogyan kerülnek a látogatók a tartalmakhoz? Szûkülõ dimenziók
+
+Felszabadító vagy megszálló?
+
+Egy egészen más oldalról viszont a Google egy megfoghatatlan szervezet az anti-tröszt harcosoknak, ugyanis a legtöbb szolgáltatásuk ingyenes. Ráadásul az új piacok, ahová belép, beleértve a mobiltelefon szoftvereket és az asztali szoftverek online alternatíváit kínáló szolgáltatásokat egészen eddig domináns szereplõk nyomása alatt szenvedtek. A Google így több esetben a felszabadító szerepét ölti magára. Az anti-tröszt szakértõ Herbert Hovenkamp azt mondja, hogy "ha a Google-rõl igazából csak azt lehet elmondani, hogy egy jelentõs elõnye van az internetes keresésben és hirdetésben, akkor igen csak vonakodnék a közbelépéstõl".
+
+
+A Google számára az új amerikai adminisztráció, illetve az EU-s szigor mindenképp egy óvatos menetelést jelent. A cég a folyamatos vizsgálatok, vádak miatt még ha nem szeretné, akkor is kénytelen részletes magyarázatot és ismertetõt adni a hatóságoknak minden új termékükkel, szolgáltatásukkal kapcsolatban. A dominancia ahogy erõsödik, úgy lehet egyre erõsebb a szkepticizmus a céggel kapcsolatban, legyen szó versenyjogi vagy személyiségi jogi kérdésekrõl akár, és valószínûleg elkerülhetetlen, hogy elõbb-utóbb komoly trösztellenes panasszal éljenek ellenfelei a hatóságok elõtt.
+
+Forrás: NYT, WSJ, HWSW

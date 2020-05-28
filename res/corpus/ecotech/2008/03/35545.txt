@@ -1,0 +1,14 @@
+Az Asus szerint az Eee PC-k többségét Windowszal vásárolják majd meg
+
+[Reuters/HWSW] Az Asus Eee PC által berobbantott mini notebook szegmens a nyílt forráskódú közösség reményei szerint nagy lökést ad majd a Linux, és ezzel a szabad szoftverek terjedésének, az Asustek várakozásai szerint azonban a következõ generáció többségét már Windowszal szállítják. 
+
+
+
+Az Asus tavaly októberben dobta piacra elsõ Eee PC-jét, a 7 hüvelykes kijelzõvel ellátott 701-es modellt. A cég várakozásait magasan túlszárnyaló kereslet miatt a gép világszerte hiánycikknek számít, a legtöbb piacon hivatalosan nem is kapható még a szûkös szállítások miatt -- tavaly év végéig 350 ezer leszállítására volt képes az Asustek. A sokat dicsért egyedi felülettel bíró, linuxos Eee PC sikereinek hatására számos gyártónál készül hasonló kategóriájú notebook, az Intel alapján összesen 25 modell áll fejlesztés alatt, melyek Atom processzorát (kódnéven Diamondville) alkalmazzák.
+
+
+Az Asustek sem tétlenkedik természetesen eközben, és igyekszik kiaknázni rövid idõbeli elõnyét. A vállalat a múlt héten rendezett hannoveri CeBIT-en mutatta be 900-as modelljét, mely 8,9 hüvelykes kijelzõt alkalmaz, 12 gigabájtos SSD tárral és 1 gigabájt memóriával, nagyban megdobva a gép használhatóságát. Ezzel párhuzamosan az online feladatokra orientált gép az általános felhasználási területe felé tolódik. Ezzel párhuzamosan pedig a linuxos célfelület mellett megjelenik az igény a teljesebb értékû környezetek iránt is, ami a piaci realitásokat nézve a legtöbb felhasználó számára Windowst jelent.
+
+[+] Kipróbáltuk az Asus mini Eee PC-jét
+
+Az Eee PC-k "nagyjából 60 százaléka Windows XP operációs rendszert kap" -- közölte egy sajtókonferencián Jonney Shih, az Asustek igazgatótanácsának elnöke, ami még így is több mint egymillió linuxos változatot jelentene az idénre tervezett legalább 3 milliós eladásból. "A windowsos Eee PC vonzóbb a vevõknek, mert az emberek egyszerûen nincsenek Linux-alapú gépekhez szokva" -- kommentált a Reutersnek Alvin Kwock, a JP Morgan elemzõje. A HWSW tapasztalatai szerint már a jelenlegi konfigurációkon is meglepõen nagy sebességgel futtatható Windows XP környezet, így a késõbbi erõteljesebb modellek számára sem jelenthet gondot.

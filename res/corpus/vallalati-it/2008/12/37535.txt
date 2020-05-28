@@ -1,0 +1,15 @@
+Áprilisban frissül a Windows Vista és a Windows Server 2008
+
+A számos Windows-változat érkezési dátumát helyesen megjósoló, vagyis minden bizonnyal bennfentes forrásokkal rendelkezõ TechARP.com úgy értesült, a Windows Vista második javítócsomagja jövõ áprilisban érkezik.
+
+
+
+A zárt tesztprogram résztvevõi már egy hónapja elérhetik a Vista SP2 bétáját, a Microsoft pedig továbbra is azt kommunikálja hivatalosan, hogy a végleges verzió 2009 elsõ felében érkezik meg a felhasználókhoz.
+A Vista SP2-bõl várhatóan februárban jön ki a megjelenésre szánt (RC) verzió, amely áprilisra el is készül, bár egyelõre nem tudni, mikortól lesz letölthetõ. Emlékezetes, a Vista SP1 az elkészültét követõen hat hétig nem volt elérhetõ, ugyanis gond akadt egyes eszközmeghajtókkal. A Microsoft ezért idõt hagyott a gyártóknak arra, hogy kijavítsák ezeket a drivereket.
+
+A szervizcsomag a szokásos hibajavítások mellett olyan újdonságokat tartalmaz majd mint a Blu-ray és Bluetooth 2.1 támogatása, illetve a Windows Search 4, bár utóbbi kettõt különálló frissítésként már eddig is letölthették a Vista-felhasználók. További figyelemre méltó újdonság a Windows Connect Now, ami a vezeték nélküli hálózatok konfigurációját egyszerûsíti, illetve lehetõség lesz exFAT fájlrendszer esetén UTC idõt használni, így idõzónák között is zökkenõmentesen lehet állományokat szinkronizálni.
+
+
+ A Windows Vista SP2 telepítéséhez elõfeltétel az SP1. Ennek oka, hogy a Microsoft nem szeretne egy gigászi frissítõcsomagot kiadni -- a Vista SP1 önmagában közel egy gigabájt, az SP2-vel kiegészítve pedig már valószínûleg akkorára hízna, hogy senkinek se lenne kedve letölteni.
+
+ A Vista SP2 érkezésével egyidõben frissül a Windows Server 2008 is. Amint az ismert, a szerverekre szánt operációs rendszer már a Vista SP1 után jelent meg, vagyis az abban található javításokat már tartalmazza. Így alighanem a Windows Server 2008-hoz kiadott javítócsomag is a Service Pack 2 nevet viseli majd. Az SP2 legfontosabb újdonsága a Hyper-V virtualizációs köztesréteg végleges változata.

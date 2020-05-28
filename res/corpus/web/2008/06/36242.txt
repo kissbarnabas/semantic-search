@@ -1,0 +1,12 @@
+Újabb biztonsági réseket foltozott az Apple a QuickTime-on
+
+[CNet] Újabb frissítést adott ki az Apple a QuickTime médialejátszó szoftveréhez, mellyel számos biztonsági rést foltoznak ismét a fejlesztõk. A PICT képek kezelésében talált hiányosságok felhasználásával kártékony programokat lehetett telepíteni a windowsos számítógépekre és távolról vezérelhették is azokat.
+
+
+
+A biztonsági hibák azonban nem csak Windows Vistát és XP-t futtató számítógépekre, de Mac OS X 10.3.9, 10.4.9-10.5.11, és az újabb 10.5.x verziókat futtató Macekre is veszélyt jelentettek, a frissítést érdemes minél gyorsabban elvégezni. A QuickTime javítása memóriakezelési hibára, a PICT képek kezelésére, egy buffertúlcsordulási hibára, és egy linkkezelési problémára hoz megoldást.
+
+
+Az Apple legutóbb két hónappal ezelõtt frissítette a QuickTime szoftvert, a 7.4.5-ös változat is számos kritikus biztonsági problémára hozott gyógyírt. Az újabb 7.5-ös változat legegyszerûbben az Apple saját frissítõ rutinján keresztül telepíthetõ fel a számítógépre.
+
+Bár az Apple operációs rendszerét sokan biztonságosabbnak gondolják a Windowsnál, a nemrég lezajlott PWN 2 OWN verseny eredménye cáfolja ezt. Tavaly is az Apple MacBook esett elõször a hackerek áldozatául, akkor pont egy QuickTime sebezhetõséget kihasználva vette át az irányítást a gép felett Dino Dai Zovi. A Mac OS X-ben önmagában is sok a biztonsági rés, a nemrég közzétett újabb frissítõcsomag közel 70 sérülékenységet foltozott.

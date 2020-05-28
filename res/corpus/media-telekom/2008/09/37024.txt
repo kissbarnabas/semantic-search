@@ -1,0 +1,32 @@
+Befellegzett az internetszolgáltatók nagyotmondásának
+
+Másfél évnyi egyeztetés után kihirdették azt az új kormányrendeletet, mely az elektronikus hírközlési szolgáltatás minõségének a fogyasztók védelmével összefüggõ követelményeit szabályozza. A szolgáltatók és a hatóság közti adatszolgáltatás változásain túl a legfontosabb újdonság, hogy a szolgáltatóknak minden esetben fel kel tüntetni a maximális elérhetõ sávszélesség mellett a minimum garantált értékeket is.
+
+
+
+"Aki tudatosan akar fogyasztani, annak legyen is lehetõsége arra, hogy tudatosan dönthessen, mérlegelhessen" -- összegezte Márton György, az NHH igazgatóhelyettese az új kormányrendeletet ismertetõ sajtótájékoztatón a jogszabály jelentõségét. A felhasználók elégedettségét számos tipikus probléma rontja a mai magyar telekommunikációs piacon, de a korábbi 345/2004. (XII.22.) kormányrendelet leváltó 229/2008. (IX.12.) kormányrendelet több esetben is megoldhat kurrens problémákat, amivel a minõségi ügyfélpanaszok száma komolyan lecsökkenhet, például az internetszolgáltatók esetében vagy a mobiltelefon-szolgáltatóknál. 
+
+Fel kell tüntetni a garantált sávszélességet
+
+A legfontosabb fejlemény a fentebb is említett sávszélesség-probléma rendezése. A tavalyi évben a legtöbb ügyfélpanasz alapja az internetszolgáltatók esetében az ígért, majd nem teljesített sávszélesség volt, melynek terhe alól a cégek kibújhattak az ÁSZF hátsó részeiben elrejtett minimálisan garantált érték felmutatásával. A laikus felhasználóknak azonban komoly tanulmányokat kellett volna folytatni, ha ki szerették volna deríteni, hogy pontosan milyen feltételekkel vettek igénybe egy szolgáltatást.
+
+A jövõben az internetelérésekkel kapcsolatban minden esetben, legyen az ÁSZF, weboldal vagy reklám, a maximum elérhetõ sebesség mellett kötelezõ feltüntetni a minimum garantáltat is. Az NHH szerint ez a félreértések számát is csökkenti majd, a felhasználók látják már a legelején, hogy mik a szélsõértékek, illetve hosszútávon a szolgáltatók arra kényszerülnek, hogy ezt a két számot közelítsék egymáshoz. Gyanús lehet ugyanis a vevõk számára, ha a reklámozott óriási sávszélesség mellett a garantált érték annak csupán töredéke. Vannak olyan szolgáltatók, ahol a hirdetett sávszélességnek csupán 5 százaléka a garantált, míg egyes példamutató esetekben (kis csomagok esetén) a 100 százalék is elõfordul.
+
+Szerkesztõségünk kérdésére az NHH elmondta, hogy a rendelet szövege nem tér ki arra, hogy a hirdetésekben azonos súllyal kell-e szerepeltetni a két értéket, mindössze annyit ír elõ, hogy mellette. Ez viszont akár azt is eredményezheti, hogy a pénzügyi konstrukciókat népszerûsítõ plakátokhoz hasonlóan olvashatatlan apróbetûs résszel tudják le a szolgáltatók ezt a kötelezettséget. 
+
+MMS-ben is fel lehet jelenteni a renitenseket
+
+Az NHH az online és a nyomtatott sajtóban maga fogja ellenõrizni az elõírás betartását, míg az outdoor, indoor és egyéb reklámok esetén a felhasználók segítségére számítanak. A 90 napos türelmi idõ leteltével, december 11-i hatálybalépést követõen MMS-ben is el lehet küldeni a nem megfelelõ reklámok képét a hatóságnak, akik ezt követõen kivizsgálják az esetet.
+
+Kérdésünkre Márton György azt is elmondta, hogy a jogszabályalkotás nem feltétlenül a legkívánatosabb út a szabályozásra, ugyanis a mostani példa is mutatja, hogy másfél év munka eredményeképp jött létre egy megoldás egy problémaegyüttesre, miközben újabbak ütötték fel a fejüket. Éppen ezért az NHH munkatársai folyamatosan egyeztetnek a szolgáltatókkal, igyekszenek terelgetni õket, aki egészen addig, amíg az üzleti érdekeiket nem sérti valami, készségesnek is mutatkoznak az együttmûködésre.
+
+
+Az ideális az a helyzet lenne, ha a nagyszolgáltatók a korrekt utakat választanák, a fogyasztóikat arra nevelve, hogy a minõség fontosabb lehet az árnál. Amennyiben pedig a piac nagy része képes lenne egy vállalható utat követni, akkor a hatóság dolga annyi maradna, hogy a csalással, trükközéssel próbálkozó szereplõket kiemelnék a ringbõl, felelõsségre vonva õket.
+
+A szolgáltatóknak évente egyszer kell jelentenie
+
+A szabályozás másik fontos eleme a szolgáltatók számára elõírt, kötelezõ adatszolgáltatás rendszerének felfrissítése, egyszerûsítése. A korábbi két alkalom helyett a jövõben csupán évente egyszer kell a hatóság felé benyújtaniuk a kimutatásokat, illetve formailag is jóval egyszerûbbé vált és kihagyták belõle azokat az adatokat, melyek mára már érdektelenné váltak a fogyasztó védelmének szempontjából. Az egyszerûsödés hatása elsõsorban az lehet, hogy a szolgáltatók közül többen tesznek majd eleget az adatszolgáltatási elvárásoknak. Jelenleg a cégek 66 százaléka adja le rendesen a jelentéseket, míg a többiekbõl a nyomásgyakorlás ellenére sem lehet kicsikarni az adatokat.
+
+A rendelet már elõre gondoskodik az új médiaterületekrõl is, hiszen platformtól függetlenül a digitális mûsorszórásra vonatkozóan kötelezõvé teszi a célértékek meghatározását már a következõ évtõl. Az elsõ évben teljesen önkéntes bevalláson alapuló adatszolgáltatást követõen 2010-re már kiértékelhetõ, ellenõrizhetõ adatok állnak majd rendelkezésre a digitális mûsorszórással kapcsolatban, így mire a felhasználás tömeges méreteket ölt, addigra megalapozott minõségi elvárásokat támaszthat a hatóság a szolgáltatókkal szemben. A komolyabb változtatások mellett az eddigi kábeltelevízió terminus helyett ezután egyszerûen televízió szerepel a szabályozásban, így ez vonatkozik a klasszikus megoldások mellett az IP alapú vagy a mobiltelefonos TV-sugárzásra is.
+
+Az új rendelet mellé az NHH is kedveskedik némi segítséggel a felhasználóknak, ugyanis a hatóság weboldalán bárki számára elérhetõvé teszik a hazai telekommunikációs szolgáltatók minõségi jellemzõit, például ügyfélpanaszok száma, üzemzavarok megoldásának sebessége, meglévõ ügyfelek elégedettsége, ügyfélszolgálatokkal kapcsolatos tapasztalatok. Ezzel is azt szeretnék elõsegíteni, hogy az emberek a hosszú távra vásárolt szolgáltatások esetében ne ész nélkül egy reklámkampánynak bedõlve válasszanak, hanem legyenek képesek disztingválni. Az összefoglaló adatok mellett késõbb elérhetõvé válnak a szolgáltatónkénti bontásba szétválasztott információk, illetve egyéb kivonatok is.

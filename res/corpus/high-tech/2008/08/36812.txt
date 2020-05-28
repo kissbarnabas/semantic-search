@@ -1,0 +1,16 @@
+Zökkenõmentes Wi-Fi roamingot ígér a 802.11r szabvány
+
+Az Institute of Electrical and Electronics Engineers (IEEE) nemrég elfogadta azt a 802.11-es Wi-Fi szabványcsomag egy új kiterjesztését, mely WLAN-on csatlakozó eszközök számára zökkenõmentes barangolást tesz lehetõvé a különbözõ, egymáshoz közel elhelyezett vezeték nélküli hozzáférési pontos és átjárók közt.
+
+
+
+A 802.11 vezeték nélküli szabványok infrastrukturális hátterét eredetileg azzal az elgondolással alkották meg, hogy a hálózati hozzáférést szolgáltató központi egységhez egyszerre több kliens csatlakozhasson -- az eszközök viszont nem kommunikálhatnak egyszerre több bázissal. A hozzáférési pontok közti zökkenõmentes váltás ugyanakkor elvileg biztosított, bizonyos alkalmazási területeknél azonban túl hosszúnak bizonyult az eddigi szabványokban meghatározott, 100 milliszekundumos újraszinkronizálási idõ, ráadásul a kapcsolat teljes felépüléséig gyakran hosszú másodperceket kell várni, különösen, ha titkosított a kommunikációs csatorna.
+
+VoIP-alkalmazások elõtérben
+
+A hosszú átkapcsolási idõ különösen az olyan késleltetéskritikus alkalmazások számára elfogadhatatlan, mint például a VoIP-telefonálás -- tekintve, hogy egyre több nagyvállalat használ WLAN-on keresztül kommunikáló VoIP-megoldásokat, mobiltelefonokat a különbözõ telephelyein, irodáiban, idõszerûvé vált egy olyan szabványkiegészítés létrehozása, mely jelentõsen felgyorsítja a Wi-Fi roamingot. A problémát legfõképpen az okozza a jelenlegi rendszereknél, hogy a hosszú újraszinkronizálással járó roaming során gyakorlatilag elkerülhetetlen a VoIP-kapcsolat megszakadása.
+
+
+Az IEEE három évvel ezelõtt kezdett dolgozni a fenti problémára gyógyírt jelentõ 802.11r szabványkiegészítésen, más néven a Fast Basic Service Set Transition szabványon. Ez lehetõvé teszi a kompatibilis eszközök számára, hogy a két hozzáférési pont közti váltásnál a klienseszköz még a lecsatlakozás elõtt elvégezzen bizonyos szinkronizációs mûveleteket (biztonsági authentikáció, erõforrásmeghatározás) azzal a bázisállomással, amelyre csatlakozni fog.
+
+Bár a szabvány promóciós csoportja, a Wi-Fi Alliance a nyár elejétõl komoly kampánnyal megtámogatva hívta életre a VoIP feladatokra használt WLAN-eszközökkel szemben támasztott bizonyos, a kapcsolati tulajdonságokat meghatározó követelményrendszerét, a "Wi&#8209;Fi CERTIFIED Voice-Personal"-t, egyelõre kevés eszköz dobozára került fel az új logó. A most elfogadott, 802.11r szabvány ennél szigorúbb elõírásokat teremt, melynek nyomán -- várhatóan valamikor jövõre -- létrejöhet a Wi-Fi CERTIFIED Voice-Enterprise követelményszint.

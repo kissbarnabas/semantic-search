@@ -1,0 +1,14 @@
+Támadók férhettek hozzá a Kaspersky egyik ügyféladatbázisához
+
+[Computerworld/HWSW] Január végén feltörték a moszkvai székhelyû Kaspersky Lab egyik regionális adatbázis-szerverét, mely felhasználók adatait és a cég által fejlesztett szoftverek aktiválókódjainak ezreit tartalmazta. A betöréshez használt biztonsági rést tizenegy nap elteltével vették észre a cégnél, akkor, amikor a hackerek egy blogbejegyzésben jelezték, hogy feltörték az oldalt.
+
+
+
+Bár a Kaspersky vadonatúj, amerikai terméktámogatási oldalát feltörõ román hackerek határozottan állítják, hogy az ügyféladatbázis minden részéhez hozzáfértek, Roel Schouwenberg, a cég illetékese egy tegnapi konferenciabeszélgetés során tagadta, hogy illetéktelenek fértek volna hozzá a cég ügyfeleinek e-mail címéhez és más személyes adataihoz, ugyanakkor elismerte a betörés tényét: "Egy ilyen helyzet semmilyen cégnek nem jó, különösképpen egy olyannak nem, amelyik adatbiztonsággal foglalkozik. (&#8230;) Ennek nem lett volna szabad megtörténnie" -- ismerte be Schouwenberg.
+
+A szakértõ szerint igaz az az állítás, hogy a hackerek feltehetõen már január végén, SQL-injekciós támadással bejutottak a cég egyik amerikai szerverére, ugyanakkor leszögezte, hogy a támadók csak az adatbázistáblák címkéit láthatták, az adatokhoz nem juthattak hozzá. "Egy dörzsöltebb hacker talán hozzájuthatott volna e-mail címekhez és aktiváló kódokhoz, de ez nem történt meg" -- nyilatkozta Schouwenberg, aki szerint a biztonsági rés egy nagyjából 2500 felhasználói e-mail címet és 25 ezer aktiválókulcsot tartalmazó adatbázist hagyott kvázi védtelenül. A hasonló támadások az utóbbi idõszakban egyre gyakrabban keserítik meg a weboldalakat üzemeltetõ cégek, szervezetek életét. Tavaly legalább félmillió weboldalt törtek fel SQL-injekciós módszerrel.
+
+
+Schouwenberg részben a Kaspersky saját belsõ auditját, részben pedig egy meg nem nevezett külsõs fejlesztõcég kódját okolta a sebezhetõségért, egyben elismerve, hogy a cég szervereit és weboldalainak biztonságát felügyelõ külsõ és belsõ biztonsági rendszerek egyike sem fedezte fel biztonsági rést, illetve a betörést. A Kaspersky január 28-án alakította át az amerikai terméktámogatási oldalt, végül február 7-én, magyar idõ szerint este hat óra magasságában lekapcsolták a szolgáltatást és visszaállították az oldalt egy régebbi állapotába.
+
+A szoftvercég ígéri, hogy a jövõben hasonló -- a cég tekintélyén komoly csorbát ejtõ -- betörések nem fordulnak elõ, ennek érdekében felkérték a világ egyik legismertebb, SQL-támadásokra specializált szakértõjét, David Litchfieldet a Kaspersky rendszereinek auditálására. A vállalat a felmérést, vagy annak bizonyos részleteit elkészülte után szándékai szerint nyilvánossá tenné.

@@ -1,0 +1,30 @@
+Több mint 200 megabites letöltés LTE mobilhálózaton
+
+[Nikkei Electronics/HWSW] A nyilvánosság elõtt elsõként demonstráltak LTE-hálózatot a napokban. Japán legnagyobb mobilszolgáltatója, az NTT DoCoMo a Wireless Japan 2008 vásáron mutatta be az általa Super3G-nek titulált technológiát, mely egyúttal a 4G alapjául szolgálhat.
+
+
+
+Az NTT DoCoMo egy bázisállomást és egy mobil terminálállomást állított fel a kiállításon, ahol a látogatók egy teherautóba beszállva tekinthették meg az LTE, vagyis a Long Term Evolution projekt keretében kidolgozott 3GPP Release 8 szabványra épülõ hálózat képességeit a gyakorlatban is. A rendszerren 4x4-es MIMO (multiple input, multiple output) antennaszervezésben nagyjából 250 megabites másodpercenkénti letöltési, és 50 megabites feltöltési  sebességet értek el 20 megahertzes spektrummal 1,7 gigahertzes tartományban.
+
+Ezek az értékek jól közelítik a a Release 8 által specifikált 326,4 megabit/s letöltési és 86,4 megabit/s feltöltési csúcssebességeket. Demonstrációk alkalmával tipikusan IP-alapú HDTV-adásokkal példázzák az LTE-hálózat képességeit. Az NTT DoCoMo egyúttal egy 65 nanométeres eljárással készített chipet is bemutatott, mely a MIMO szervezést vezérli a jelek szétbontásával, és 80 milliwattos fogyasztásával alkalmas akár mobiltelefonokba való beépítésre is. Ugyanakkor egyelõre még fejlesztés alatt állnak az eszközök, a kereskedelmi hálózat kiépítésének megkezdése 2009 végén indulhat meg, közölte a vállalat.
+
+
+Piaci igények
+
+A területre szakosodott ABI Research úgy becsli, hogy bár az elsõ kereskedelmi LTE-hálózatok legkorábban 2010-ben indulhatnak meg -- valószínûleg az NTT DoCoMóval az élen --, 2013-ban már több mint 32 millió elõfizetõje lesz a szolgáltatásnak. Ebbõl nem túl nagy meglepetésre a legnagyobb részt Ázsia fogja kiszakítani. Az ABI szerint kevesebb mint 3 év alatt 12 millió LTE-felhasználó lesz a Távol-Keleten, kétségtelenül Japánnal az élen. Közel ugyanennyi elõfizetõre számít a kutatócég Európában, és további 8 millióra Észak-Amerikában.
+
+Az LTE jó eséllyel pályázik arra, hogy 4G-s mobilhálózati szabvánnyá váljék késõbb, ugyanis a világ meghatározó mobilszolgáltatói, jelesen a China Mobile, a Vodafone, a T-Mobile, a Verizon Wireless vagy az NTT DoCoMo már mind letették voksukat mellette. Mivel az LTE alkalmazása adatcentrikus, ezért az ABI szerint a vezetékes szélessávú szolgáltatások közvetlen ellenfelévé válhat, vagyis az LTE-eszközök otthoni modemek és routerek formájában is nagy tömegben megjelennek majd a számítógépekre csatlakoztatható kivitel mellett.
+
+
+
+
+
+
+Az új hálózattal a telekom cégek egy költséghatékony megoldást akarnak meglévõ infrastruktúrájuk hosszútávú továbbfejlesztésére -- a mobilszolgáltatók emiatt aktívan részt vettek a specifikációk kidolgozásában. A Release 8 gyakorlatilag megágyaz a Release 9-nek, melyet LTE-Advanced névvel illetnek. Az LTE-Advanced már ízig vérig 4G-s technológiának tekinthetõ, ugyanis akár több mint 1 gigabit/s elméleti csúcsteljesítményre képes letöltéskor, és többek közt agresszívabb energiatakarékossági technikákat alkalmaz -- elméletben mindezt egy szoftverfrissítéssel.
+
+Az LTE célja nemcsak a magas sávszélesség elérése, hanem egy rendkívül alacsony késleltetésû, teljesen IP-alapú hálózat megalkotása is: kisméretû csomagok esetében a mobilhálózat kevesebb mint 5 milliszekundumot ad hozzá. Szintén javul a mobilhálózatok esetében leginkább érzékeny pont, a spektrumból kisajtolt kapacitás: ez az LTE esetében például a HSDPA-val szemben 3-4-szeresére emelkedik, vagyis ennyivel több felhasználót képes adott sávszélességgel kiszolgálni rugalmas spektrumszeleteléssel.
+
+
+Mint gyakorlatilag minden technológia életciklusának elején, az LTE is drága lesz kezdetben. Emiatt a szintén japán Softbank Mobile közölte, hogy inkább a HSPA+ (Release 7) hálózatot preferálja addig, míg az LTE eszközök ára nem csökken.  A Softbank 2010 elsõ felére tervezi a HSPA+ bázisállomások telepítésének megkezdését, ugyanis értékelésük szerint akkortájt az LTE túlságosan drága lesz, 2012-13-ig nem indul meg széleskörû alkalmazása. 
+
+A HSPA+ technológia elméletileg 42 megabites le- és 22 megabites másodpercenkénti feltöltési sávszélességet kínál MIMO antennaszervezéssel. Az olasz 3 Italia meglévõ kereskedelmi hálózatán múlt héten végzett tesztüzem során 5,8 Mbps feltöltési sebességet értek el a jelenleg rendelkezésre álló eszközparkkal. A sávszélesség fokozása mellett a HSPA+ vonzereje, hasonlóan az LTE-hez, szintén a spektrumhatékonyságban keresendõ, mellyel növelhetõek a cellakapacitások. Magyarországon jelenleg 7,2 megabites HSDPA és HSUPA hálózatok kiépítése és felfejlesztése folyikm melyeket a Release 5 és 6 szabványok ölelnek fel.

@@ -1,0 +1,18 @@
+Szerverparkokat válthat ki a Bittorrent az egyetemeken is
+
+Újabb siker írható a Bittorrent állományterjesztési technológia számlájára: a holland INHOLLAND Egyetem tíz helyszínen 6500 számítógépet tart karban, frissít folyamatosan, nem ritkán 3,5 gigabájtnyi letöltendõ adatot eljuttatva a gépekre. Könnyû belátni, ennyi számítógépet ellátni komoly infrastruktúrát, komplett szerverparkot igényel.
+
+
+
+A holland egyetem eddig két tucatnyi szervert használt erre a célra, melyek szépen lassan minden számítógéphez eljuttatták az adatokat, jelentõs erõforrást és nem utolsósorban idõt felemésztve. A klasszikus szerver-kliens felállásnál azonban létezik egy sokkal hatékonyabb módszer, a közismert állománycserélõ technológia, a Bittorrent.
+
+A Bittorrent peer-to-peer (P2P) módszere lényegében minden kliensbõl disztribúciós szervert generál: maguk az egyes kliensek is az elosztó rendszer részei lesznek, az egyes gépek feltöltési sávszélességét is igénybe veszik az anyagok további számítógépekre juttatásához. Szerverekre szinte nincs is szükség, csupán az elsõ néhány teljes letöltés erejéig használják õket: az egyetem kéttucatnyiból 20 szervert le is kapcsolhatott.
+
+
+Az új, Bittorrentet használó frissítõ rendszer kevesebb mint 4 óra alatt 22,2 terabájtnyi adatot szórt szét a 6500 számítógép között, sokkal gyorsabban és kevesebb sávszélességet felemésztve, mint korábban: ehhez az eredményhez ezt megelõzõen 4 teljes napra volt szükség. A TorrentFreak szerint az egyetem vezetõsége elsõként elutasította a P2P technológia alkalmazását, egy demót követõen azonban gyorsan változtatott álláspontján.
+
+Információink szerint hazánk legnagyobb mûszaki felsõoktatási intézményén bár a frissítéseket szintén hálózaton keresztül szerzik be a hallgatói számítógépközpont gépei, a leginkább bevált megoldást alkalmazzák. Egy elõre elkészített lemezképpel frissítik a számítógépeket, melyek nem csak az operációs rendszert, minden szükséges alkalmazást is tartalmaznak. Ez a lemezkép könnyen kiszolgálhatja azt az ötféle géptípust, melyet jelenleg alkalmaznak. 
+
+
+
+A Bittorrent szinte bámilyen állományterjesztést gazdaságosabbá tesz, nem csak szoftverek és filmek kalózmásolatai cserélhetnek gazdát a torrentszervereken keresztül koordinálva, hanem tévémûsorok is terjeszthetõk ezzel a technológiával. Ezt a peer-to-peer megoldást alkalmazza a Joost internettelevíziós platform is.

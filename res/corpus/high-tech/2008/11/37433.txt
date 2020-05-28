@@ -1,0 +1,18 @@
+Elkészült az USB 3.0 szabvány végleges változata
+
+Lezárult az USB 3.0 szabvány véglegesítési folyamata, a jelenleginél akár tízszer gyorsabb interfésszel azonban a jövõ év végénél elõbb szinte biztosan nem találkozhatnak a vásárlók. 
+
+
+
+Az elõzetes várakozásoknak megfelelõen a SuperSpeed USB Developers Conference rendezvényen az USB 3.0 Promoter Group kiadta az új szabvány végleges specifikációját, a gyártók így mostantól hozzáláthatnak a saját eszközeik (alaplapi vezérlõk, komponensek, perifériák) fejlesztéséhez és teszteléséhez. A 4,8 Gigabit/másodperces sávszélességet nyújtó, azaz elõdjénél, az USB 2.0-nál elméletileg tízszer gyorsabb vezetékes adatátviteli technológia elsõsorban a nagy mennyiségû adatot mozgató alkalmazások, perifériák számára nyújthat alternatívát a szintén gyorsuló FireWire kapcsolat mellett.
+
+USB 3.0-kábel: optika és réz egyben
+
+Lényeges szempont, hogy az elõdök sémáját követve az USB 3.0 visszamenõleg is kompatibilis lesz, tehát a jelenlegi USB 2.0 csatlakozós berendezések is használhatók lesznek az alaplapok USB 3.0 portjaival, a nagyobb sávszélességhez azonban optikai vezetékszálakat is igénybe kell venni, az új rendszernek megfelelõ kábel és a csatlakozó ezért -- legalábbis a kezdetekben -- alighanem lényegesen drágább lesz majd. A specifikáció szerint az új port emellett az energiahatékonyság terén is továbblép majd.
+
+Jelenleg a legsebesebb egyszerûen megoldható csatlakozást a 800 megabit/s-ra képes FireWire nyújtja (bár az alaplapokon alig találkozni az ennek megfelelõ áramkörökkel és csatolókkal), ennek is készül már a következõ változata: a Firewire S1600 és S3200 az eddigi jelölési rendszernek megfelelõen másodpercenként 1,6 vagy 3,2 gigabit adat továbbítását teszi lehetõvé. A szabványalkotók ezzel együtt készen állnak arra, hogy a Firewire interfészt a jövõben még tovább gyorsítsák, így belátható idõn belül 6,4 gigabit/másodpercig emelkedhet a rendszer áteresztõképessége.
+
+
+Az új interfész-szabványt, az Extensible Host Controller Interface-t (xHCI) fejlesztõ Intel versenytársai, köztük az AMD, a VIA és az NVIDIA korábban azzal vádolták meg a legnagyobb chipgyártót, hogy szándékosan akadályozzák a konkurenciát az USB 3.0 specifikáció részleteinek visszatartásával, ezért egy idõre még az is felmerült, hogy két rivális szabvány versenyez majd egymással.
+
+A felek végül augusztusban megállapodtak a vitás kérdésekben, a szabvány így idõben elkészülhetett, az elsõ USB 3.0-kompatibilis alaplapok megjelenésére azonban legalább egy évet várni kell még, az elsõ olyan perifériák pedig, melyek képesek lesznek kihasználni a gyors kapcsolatot, csak 2010-ben kerülhetnek a boltok polcaira.

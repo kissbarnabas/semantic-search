@@ -1,0 +1,12 @@
+Kínai blogokon terjed a Microsoft Works legújabb sérülékenysége
+
+A McAfee figyelmeztetése szerint kínai nyelvû blogokon terjed egy újabb Microsoft Works sérülékenység, biztonsági hiba leírása, mintakódjai. A böngészõvel feléleszthetõ hiba a Works Image Server ActivX vezérlõjében található.
+
+
+
+A sérülékenység úgynevezett "zero-day" sérülékenység, ezzel a jelzõvel olyan biztonsági réseket illetnek, melyek közismertek lettek, akár már használják is õket, javítás azonban még nem érhetõ el hozzájuk. A hibát alkalmazó mintakód szintén megjelent a kínai blogokon, ennek segítségével pedig könnyedén készíthetõ olyan weboldal, mellyel összeomlasztható a Windows. Pár órával késõbb pedig már olyan kódokról zajlott a diskurzus, melyekkel bármilyen kártékony kód futtatható a megtámadott, feltelepített Worksszel rendelkezõ számítógépen.  
+
+
+A Microsoft ActiveX technológiája gyakran áll pellengéren biztonsági hiányosságai miatt, 2007 végén több mint 20 különbözõ HP noteszgéptípus kerül piacra azzal a HP szoftverrel, melynek ActiveX komponensében hatalmas biztonsági rés tátongott. A HP Info Center egyik ActiveX vezérlõje a Symantec szerint három biztonsági rést is tartalmaz, melyekkel célzott támadást lehet indítani a HP gépek ellen, kódot lehet futtatni a számítógépeken, illetve manipulálni lehet a regisztrációs adatbázist -- utóbbi hatalmas biztonsági hiányosság.
+
+Ahogy a HP szoftverénél, itt is csak egyetlen megoldás van, le kell tiltani a böngészõben az ActiveX futtatásának lehetõségét, amíg a Microsoft nem jelentkezik a biztonsági hiányosságra javítással.

@@ -1,0 +1,16 @@
+Lassan halad a VDSL-hálózat kiépítése a T-Home-nál
+
+Lendületesnek egyelõre korántsem nevezhetõ ütemben fejleszti VDSL-hálózatát a Magyar Telekom: a cég a szolgáltatás október eleji indulása óta befejezett elsõ bõvítési körben csak néhány pesti és vidéki lakóparkra és lakótelepre terjesztette ki a VDSL-lefedettséget, alighanem a technológia sajátosságaiból fakadóan. Ez a HWSW becslése szerint a legjobb esetben is néhány száz új elõfizetõt hoz majd a cégnek.
+
+
+
+A T-Home a mai naptól a budapesti Fehérvár Apartmanházban és a Sasad Resort lakóparkban, a debreceni Ispotály lakóparkban, a miskolci Árpád-Kuruc lakótelepen valamint a pécsi Illyés Gyula lakótelepen is elérhetõvé teszi az akár 25 megabit/másodperces letöltési és 5 megabites feltöltési sávszélességet biztosító, VDSL-alapú vezetékes adatátviteli technológiára épülõ internetcsomagjait. A VDSL-alapú internet nemcsak gyorsabb letöltésre ad lehetõséget az ügyfél számára: azokon a végpontokon, ahol létesíthetõ az ADSL-nél sokkal gyorsabb kapcsolat, a T-Home TV IPTV-szolgáltatás megrendelõi a HD-csatornakínálatból is válogathatnak.
+
+A VDSL-alapú internet részben a már meglévõ infrastruktúrára építve, az ADSL-hez hasonló aszimmetrikus adatátviteli közeget nyújt, a létesítésnek azonban szigorúbb mûszaki feltételei vannak, így a rézkábel nyomvonal-távolsága a központtól, vagy DSLAM-tõl (kvázi kisközpont) az elõfizetõi végpontig nem lehet több egy kilométernél. A kiépítés ezért csak kis léptékekben halad, a szolgáltató számára egyelõre az tûnik megtérülõ beruházásnak, ha egy kisközponttal a lehetõ legnagyobb területet lefedi, a fejlesztés elsõ fázisában ezért a lakótelepek, lakóparkok, illetve a kis létszámú, ám tehetõsebb elõfizetõk által lakott települések bekapcsolása várható.
+
+
+A Magyar Telekom a HWSW információi szerint az eredeti tervek alapján még az olimpia elõtt elindította volna a VDSL-alapú internetszolgáltatást, a startra azonban végül csak október 8-án került sor. A vállalat akkor azt ígérte, hogy a technológia kezdetben nagyjából 100 ezer magyarországi háztartásban érhetõ el, elsõként Budapesten (a II., XI., XXII. kerületek bizonyos részein) Budakeszin, Budajenõn, Telkin, Szentendrén, Pécsett, Debrecenben és Székesfehérvár bizonyos részein.
+
+A szolgáltatótól megpróbáltuk megtudni, hogy milyen ütemben tervezi fejleszteni a VDSL-hálózatot, a cég azonban hivatalosan semmit nem kommentált a bõvítés kapcsán. Egyelõre azt sem tudni, hogy az új technológiát a megjelenését követõen hány háztartásba vitte el a Magyar Telekom. A szolgáltató korábbi közleményei alapján megállapítható ugyanakkor, hogy a cég a jövõben a szélessávú internetkapcsolatok terén elsõsorban a fiber-to-the-home (FTTH) optikai hálózatok fejlesztésére koncentrál.
+
+Az ütemterv szerint 2009 végére mintegy 200 ezer háztartásban lesz elérhetõ az újgenerációs, akár 100 megabit/másodperces letöltésre is alkalmas optikai hálózat, 2013 végéig pedig összesen 780 ezer háztartást kapcsolnak be.

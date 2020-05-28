@@ -1,0 +1,28 @@
+Felvásárlással erõsít a Sense/Net, és globális sikerrõl álmodik
+
+Rivális portálfejlesztõ felvásárlásával terjeszkedik a Sense/Net. A 100 százalékosan a Sense/Net tulajdonába kerülõ IVY a nagyvállalatokat és a KKV-kat egyaránt megcélzó portálmegoldásaival képviselteti magát a magyar piacon. A vállalat a lépéssel piaci jelenlétét és fejlesztéseit igyekszik erõsíteni, és globális ambíciókkal rendelkezik.
+
+
+
+Konszolidáció a magyar piacon
+
+A nagyjából 150 millió forintos tranzakcióval a Sense/Net erõsítette szakembergárdáját, egyúttal új ügyfeleket és kompetenciákat szerzett -- mondta el Bíró Tamás marketing-igazgató és társtulajdonos egy telefonos interjú során. Az IVY Portal Space, melyet például a Magyar Posta is alkalmaz, és Go2Web portáltermékei hamarosan átkerülnek a Sense/Net név alá, a T-Online tulajdonában lévõ honlapépítõ G-Portal üzemeltetése és fejlesztései pedig a szerzõdés értelmében tovább folynak.
+
+A Sense/Net a felvásárlást részben a még 2005-ben kapott 500 ezer dolláros tõkeinjekcióval felpumpált készpénzállományából, valamint az évek során kitermelt nyereségébõl finanszírozta. A Sense/Net tavaly 316 millió árbevétel mellet 40 milliós EBITDA-ról (adó- és kamatfizetés, valamint értékcsökkenés elõtti eredmény) adott számot, amit a megelõzõ évi 63 millióhoz képest a nehezebb gazdasági körülmények a és fejlesztési költségek megugrása magyaráz. Az IVY mintegy 100 millió forinttal duzzasztja a Sense/Net forgalmát, EBITDA-ja tavaly 14 millióra rúgott.
+
+
+Az IVY termékeihez a piaci igények szerint tovább nyújtanak támogatást természetesen, közölte Bíró, ugyanakkor a jövõben igyekeznek majd meggyõzni a korábbi termékverziókat használó ügyfeleket, hogy migráljanak az új fejlesztésekre -- ezt azonban semmiképpen nem erõbõl teszik, szögezte le az igazgató, hanem elõnyökkel igyekeznek motiválni, mint például kiterjedt kommunikációs middleware képességekkel. A Portal Engine és Portal Space integrálódik majd a jövõben, elõször azonban a Portal Engine következõ változatának fejlesztéseit kell lezárnia a vállalatnak, amit õszre terveznek.  
+
+Nyílt forráskóddal a globális siker felé
+
+A The Next Generation (TNG) névvel illetett új Portal Engine mérföldkõnek ígérkezik a vállalat 13 éves történetében. Ezt leginkább nem a funkcionális fejlesztéseknek köszönheti, hanem egy stratégiai váltásnak: a Sense/Net úgy döntött, megnyitja a nyilvánosság elõtt a TNG forráskódját, és üzleti modelljét a szoftverlicencek értékesítésérõl teljes egészében a bevezetésekre és támogatási szerzõdésekre helyezi át -- mint ahogyan más nyílt forráskódú szoftvereket forgalmazó cégek is teszik. Komolyabb projekteknél a támogatás elengedhetetlen, így Bíró nem tart attól, hogy piacot veszítenének akár Magyarországon. 
+
+A nyílt forráskód fejlesztési szempontból nagy elõny a portál- és elektronikus tartalomkezelési (ECMS) piacon, véli Bíró. Míg egy operációs rendszerhez az ügyfelek túlnyomó többsége nem akar hozzányúlni, addig egy portál egy erõsen testreszabott dolog. A forráskód megnyitásával a Sense/Net kiterjeszti a lehetséges ügyfelek körét, ugyanis a módosításokat nem csak saját maguk, hanem bárki elvégezheti, ezzel a szoftver sokkal vonzóbbá válik a webes fejlesztõcégek szemében. Arról, hogy GPL v2 vagy v3-ra alapul majd a licenc, még nem született döntés, de az elõbbi valószínûbbnek tûnik. "A Microsoft Office SharePoint Services egy robusztus és sokat tudó csomag, de fejleszteni horror vele", mert a zárt forráskódba nem lehet belenyúlni -- fogalmazott Bíró.
+
+A cég tavaly decemberben beszélt elõször a TNG-rõl, melynek fejlesztései még javában zajlanak. A motor magja már elkészült, már a hibakeresés és javítás fázisában tart, a modulárisan illeszthetõ külsõ funkciók fejlesztései azonban még folyamatban vannak. Bár a portál még nincs kész, az Invitel például az elõzetes demók alapján már megrendelte, mégpedig határidõvel, így a szerzõdéses kötelezettség miatt a IVY-tranzakció lezárását követõen teljes egészében a fejlesztésekre és a teljesítésre koncentrál a cég. "Most az elsõdleges feladatunk, hogy elkészítsük a szoftvert" -- ezt módszert az igazgató egyébként másoknak ajánlja, ugyanis a nagy megrendelõk által megkövetelt napi milliós nagyságrendû kötbér mellett biztosan be fogják fejezni idõre a fejlesztést.
+
+A nyílt forrás nem csak fejlesztési szempontból praktikus, hanem egyúttal ütõs marketingkommunikációs eszköznek is bizonyulhat. A Portal Engine TNG kuriózumnak számít, ugyanis nyílt forráskódú .NET portálmotor nem nagyon akad a piacon, a többség PHP- vagy Java-alapú -- miközben  számos szervezet .NET-re alapoz. A Windows/.NET mellett folyik a Portal Engine portolása Linux/Monóra is, ez jó esetben akár már idén eredménnyel járhat. 
+
+A tõzsdei megjelenés sem kizárt
+
+A TNG-nel a Sense/Net globális jelenlétet akar építeni, amihez egy londoni PR-ügynökséget hív segítségül a kommunikációhoz, melynek feladata az lesz, hogy a szoftver megjelenjen a webes közösségi oldalakon, mint a TechCrunch, a BoingBoing vagy a Digg. Minden "azon múlik, hogy sikerül-e letöltõket nyernünk", másik pedig, hogy "tudjuk-e tartani a versenyt", mondta Bíró, de gyorsan hozzátette, hogy "ha több tízezer letöltést produkálunk, akkor lesz tõke is, mert 1-2 nagyobb projekt biztosan akad". Bíró elárulta, hogy teljesen nyitottak a pénzügyi és a szakmai befeketõk és felvásárlás elõtt egyaránt, de hosszabb távon a tõzsdei megjelenés sem kizárt.

@@ -1,0 +1,13 @@
+Mérnöki bravúrok sora a Dell új noteszgépében
+
+A Dell új sorozatába tartozó noteszgépek egyetlen vonzerejét nem a méretükhöz képest rendkívül csekély tömeg adja majd. A Latitude Z gépek lényegében két számítógépet tartalmaznak: egy ARM-alapú, Linuxot futtató, elsõsorban webes kommunikációra korlátozott klienst, illetve egy teljes értékû, Intel-alapú rendszert. A fõ operációs rendszertõl függetlenül, gyakorlatilag a bekapcsolást követõ másodpercekben elérhetõ Latitude-On rendszer dedikált WLAN-interfészt is kap, mely kizárólag ezt az operációs környezetet szolgálja ki. A gyártó szerint a mellékelt négycellás akkumulátorral a Latitude-On kezelõfelület napokig is üzemelhet, míg megszokott rendszerkörnyezetben nagyjából négy óra a rendelkezésre állási idõ
+
+További érdekessége a Latitude Z600-nak az UWB (UltraWideBand) rádión keresztül kommunikáló, külön megvásárolható dokkoló, mely DVI- és USB-csatolókat tartalmaz, valamint az indukciós töltõ, melyre elég ráhelyezni a gépet az akkumulátor feltöltéséhez. Bár bizonyos mobiltelefonokhoz ez a technológia már korábban elérhetõvé vált, a PC-gyártók közül elsõként a Dell alkalmazza az indukciós eljárást. A vállalat szerint az indukciós töltõrõl "majdnem ugyanolyan gyorsan" feltölthetõ a Z600 akkumulátora mint hagyományos, vezetékes töltõrõl.
+A Latitude Z600 megalkotása legalább akkora mérnöki bravúr a Dell részérõl, mint a Toshibánál az R500/600 széria létrehozása, hiszen eddig egyetlen noteszgépgyártónak sem sikerült a hagyományos, DTR-noteszgépek méreteit ilyen tömeg mellett hoznia, a sokak által etalonként emlegedett 15,4 hüvelykes MacBook Pro is több mint 2,4 kilogrammot nyom. A 39 x 27 centiméteres, és legvastagabb pontján mindössze 2 centiméter vastag burkolat alá komoly csúcstechnológiát zsúfolt a Dell: az alacsony fogyasztású, 1,4 vagy 1,6 GHz-es Core 2 Duo processzorok mellé 4 gigabájt memória és akár két, egyenként maximum 256 GB kapacitású SSD kerülhet.
+
+A további extrák közé tartozik az arcfelismerésen alapuló felhasználói azonosítást is támogató, 2 megapixeles webkamera, valamint az EdgeTouchnak nevezett, a kijelzõ peremébe épített, érintésre reagáló kezelõszerv. A Latitude Z600-at egyértelmûen a vállalati felsõvezetõknek szánja a cég, így elmaradhatatlan kellék a SmartCard-olvasó.
+A Latitude Z600 már rendelhetõ, a csúcstechnikának azonban ezúttal is komoly ára van: a gép alapára 2000 dollár, de két SSD-vel, az indukciós töltõvel valamint a többi extrával könnyen a kétszeresére tornászható az összeg.	     
+                  
+                  
+                  
+                   

@@ -1,0 +1,14 @@
+Javás klienssel kísérletezik a Skype is
+
+A szinte bármilyen javás telefonon futó Opera Mini mobilos webböngészõ mintájára javás klienssel terjeszkedne tovább a Skype is. Az apró program hivatalosan több mint 50, Nokia, Sony Ericsson, Motorola mobiltelefont támogat, de elméletileg bármilyen készüléken használható, ami képes Java alkalmazások futtatására.
+
+
+
+A javás kliensnek azonban a kisebb telefonok képességeihez kell igazodnia, így mobilinterneten keresztüli VoIP-hívásokra ez a program nem lesz képes, a kimenõ hívásokat a mobilszolgáltató hálózatán, azonban a Skype saját átjáróján keresztül oldja meg. A díj ebben az esetben két elembõl tevõdik össze: a mobilszolgáltatónak fizetendõ normál díjból, illetve a SkypeOut tarifájából. A mobil adatcsomagunkat csak az elérhetõségünk jelzésére, illetve a mobil chatelésre használja a program.
+
+Utóbbi két funkció, illetve a hívásfogadás bárhol elérhetõ, a kimenõ hívások azonban csak az Egyesült Királyságban, Brazíliában, Svédországban, Dániában, Finnországban és Lengyelországban folytathatók. A szoftver jelenleg béta állapotú, de szöveges kommunikációra máris alkalmas.
+
+
+Bár a két elembõl összeálló hívásdíj jóval magasabb, mintha számítógéprõl telefonálnánk, ez a megoldás olcsóbb hívásokat biztosít külföldi számok hívása esetén a mobilszolgáltatók nemzetközi tarifáinál. A díjak tovább csökkenthetõk az elõre megvásárolható SkypeOut kreditekkel is. A bejövõ hívásokért is fizetni kell, ezeket úgy kezeli a Skype, mintha egy számítógépes Skype-hívást átirányítanánk a mobilszámunkra.
+
+A Skype újabb és újabb promóciókkal próbálja telefonálásra, elõfizetésre, egyenlegfeltöltésre ösztökélni regisztrált felhasználóit. A legújabb akcióban az Egyesült Államokból kínál a cég ingyenes, korlátlan telefonhívásokat számos nemzetközi, akár mobil irányba havi 10 dollár körüli összegért. A kínálatban 34 ország, köztük Kanada, Ausztrália, Tajvan, Japán és Kína is szerepel, melyek többségében vezetékes számokat lehetne ingyen és korlátlanul hívni, de kanadai, kínai, Hong Kongi és szingapúri mobilszámokra is él a kedvezmény. Ezért a havidíjért (~1600 forint) az összes amerikai vezetékes és mobilszám is korlátlanul hívható.

@@ -1,0 +1,16 @@
+SSD-vel egészíti ki a Centrino platformot az Intel?
+
+[DigiTimes/HWSW] PC-gyártóktól származó információk szerint a júniusban érkezõ Montevina noteszplatformot az Intel nem sokkal késõbb SSD-kkel fogja kiegészíteni -- írja a DigiTimes. Ezt azt jelenti, hogy a Centrino alkatrészcsaládnak immár nem csak processzorok, chipkészletek és hálózati vezérlõk lesznek a részei, hanem SSD-k is, amelyek az Intel szerint a csúcskategóriás noteszek elengedhetetlen kellékei.
+
+
+
+Az új, 45 nanométeres csíkszélességû processzorok köré épülõ Centrino 2 platformot a júniusi Computexen leplezi majd le az Intel. A Montevina által hozott legnagyobb változást a Cantiga kódnevû chipkészletbe integrált X4500 grafikus mag driverének DirectX 10 támogatása, valamint az ugrásszerûen nagyobb 3D-grafikus teljesítmény képezi. Az X4500 az X3100-nál kettõvel több, összesen tíz shadert tartalmaz, és az órajele is magasabb az elõdnél, ami összességében látványos gyorsulást ígér.
+
+Intel X25-M és X18-M SSD-k
+
+
+A Montevina videovezérlõjét a nagyfelbontású tartalmak hardveres dekódolására is felkészítették, ennek köszönhetõen akár akkumulátoros üzemrõl, csökkentett órajelû processzorral is lehet majd Blu-ray filmeket nézni a notebookokon. A Montevina energiatakarékosság terén is szolgál újdonságokkal, ezek közül az egyik a DDR2-nél alacsonyabb feszültséggel mûködõ DDR3 (800 és 1066 MHz) memóriák támogatása. Az új chipkészletnek nem csak a 802.11n Wi-Fi, hanem a WiMAX-vezérlõ is része lesz már.
+
+[+] Kipróbáltuk: érdemes flash meghajtós notebookot venni?   
+
+Úgy hírlik az Intel a harmadik negyedévben két SSD-meghajtóval is kiegészíti a Centrino platformot. Mindkét SSD 80 gigabájtos kapacitású és SATA felületû lesz, az X25-M és X18-M változatok csak méretükben térnek el egymástól, elõbbi 2,5 hüvelykes, utóbbi pedig 1,8 hüvelykes merevlemezek helyére lesz beépíthetõ. A pletykák szerint a negyedik negyedévre készül el a 160 gigabájtos változat, 2009-ben pedig már 250 gigabájtos kivitel is lesz az Intel SSD-jébõl.

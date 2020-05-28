@@ -1,0 +1,14 @@
+Ultramagas felbontásokban nyújt 3D-s mozit az új DisplayPort szabvány
+
+Az eddigieknél jóval nagyobb felbontású képet, megfelelõ megjelenítõvel párosítva 3D-s moziélményt és a videojeltõl elkülönített adatátvitelt nyújt majd a DisplayPort szabvány legújabb változata. A szórakoztatóelektronikai eszközök körében elterjedt HDMI-szabvány is megújul idén: az interfész sokoldalúbb és -- akárcsak a DisplayPort -- még gyorsabb lesz.
+
+
+
+Várhatóan még 2009 elején megújul a DisplayPort képátviteli interfész szabványa. A rendszert három évvel ezelõtt kezdte fejleszteni több vezetõ iparági szereplõ azért, hogy a számítástechnikában alkalmazott, addigra idejétmúlt digitális csatlakozást, a Digital Visual Interfészt (DVI) egy flexibilis, a nagyfelbontású kijelzõkhöz és tartalmakhoz jobban igazodó rendszerrel válthassák ki. A szabvány 1.2-es verziójába ültetett újdonságok komoly löketet adhatnak a lábát leginkább tavaly megvetõ DisplayPort térhódításának.
+
+Az 1.2-es verzió legfontosabb újdonsága az átviteli közeg sávszélességének megduplázása lesz, így az új szabványnak megfelelõ interfész aggregált áteresztõképessége 21,6 gigabit/másodpercre nõ majd (az átvitel vezetékenként 5,4 Gbps-re emelkedik). Ez elegendõ ahhoz, hogy egyetlen DisplayPort-vezetéken keresztül legyen továbbítható 120 Hz-es 3D Full HD sztereó mozgókép vagy HCR (High Color Range) Quad Full HD (3840x2160p) felbontású tartalom. A nagyobb sávszélességbõl és a DisplayPort-interfész felépítésébõl adódóan akár az is lehetõvé válik majd, hogy egyetlen kimenet két WQXGA (2560x1600 pixel) vagy négy WUXGA (1920x1200 pixel) felbontású kijelzõnek adjon képet párhuzamosan.
+
+
+A megújult szabvánnyal gyorsul a képjeltõl független adatátvitelre (AUX) használt átviteli közeg is, így a DisplayPort-kábelen keresztül a kijelzõhöz csatlakoztatott USB-s eszközök, kamerák vagy mikrofonok köthetõk a rendszerhez. Az új verzió emellett kompatibilitást ígér a DVI és HDMI csatlakozószabványokkal, azaz a megfelelõ átalakítók beszerzése után a DisplayPort kimenettel ellátott számítógép gyakorlatilag bármilyen elterjedt, digitális interfésszel ellátott kijelzõhöz csatlakoztatható lesz.
+
+A DisplayPort mellett az idei elsõ félévben megújul a szórakoztatóelektronikai eszközöknél egyre szélesebb körben használt HDMI-szabvány is. A szabványt gondozó HDMI Licensing LLC itt is elsõsorban a sávszélesség növelésére helyezte a hangsúlyt, a kábel ezen kívül immár Ethernet-csatlakozást is nyújt majd, illetve megjelenik egy új, az autóipar számára fejlesztett csatlakozóforma is.

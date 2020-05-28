@@ -1,0 +1,16 @@
+Blu-ray írót is épít hálózati adattárolójába az LG
+
+Az LG a berlini IFA szórakoztatóelektronikai és információtechnológiai show-n mutatja be elõször a nagyközönségnek azt a hálózati adattárolót (network attached storage, azaz NAS), mely nemcsak az eddig jobbára szórakoztatóelektronikai termékekben utazó cég kínálatában számít átütõ újdonságnak.
+
+
+
+A dél-koreai gyártó otthoni felhasználóknak és kisvállalatoknak ajánlja most bemutatkozó, N4B1 típusú hálózati adattárolóját, mely a hagyományos NAS-funkciókat egészíti ki egy beépített optikai egységgel. Ezzel CD-krõl, DVD-krõl vagy akár Blu-ray lemezekrõl is képes adatokat olvasni, az adattár ugyanakkor szükség esetén írni is tud ezekre a médiumokra. Az N4B1-be maximum négy 3,5 hüvelykes merevlemez építhetõ, melyek összesített kapacitása legfeljebb 4 terabájt lehet -- a NAS ezeket a lemezeket RAID 0, 1, 0+1, 5 és JBOD tömbökbe tudja szervezni, attól függõen, hogy a gyors adatkezelési tempó vagy a redundancia az elsõdleges szempont.
+
+
+
+Az N4B1-be épített Blu-ray íróba helyezett lemezrõl az adattároló kérésre elkészíti és a merevlemezre menti a lemezképet, melyet ezután a NAS-hoz csatlakozó összes felhasználó elérhet -- a gyártó szerint ezzel nemcsak idõ spórolható, de a lemezek és az optikai egységekben található mechanikus komponensek életciklusa is meghosszabbítható. A rendszer nemcsak olvasni, hanem írni is tudja a támogatott lemeztípusokat, mely funkció Blu-ray esetén korongonként akár 50 gigabájtnyi archiválási kapacitást nyújt. Az N4B1 az elkészült diszkeket automatikusan katalogizálja az egyszerûbb nyomonkövetés és visszakereshetõség érdekében.
+
+
+Az LG új hálózati adattára a szokásos módon webes adminisztrációs felületet is nyújt, és a NAS-re távolról is be lehet jelentkezni. Az adattároló az összes elterjedt operációs rendszert támogatja, a különbözõ rendszerekkel dolgozó felhasználók így könnyen megoszthatják egymás közt adataikat. Az N4B1 gigabites ethernet-csatlakozóval köthetõ be a helyi hálózatba, a készüléket ezen kívül három USB kapuval is ellátták, melyekhez külsõ adattároló, pendrive, memóriakártya-olvasó vagy akár MP3-lejátszó csatlakoztatható. A NAS ezekrõl automatikusan áttölti az adatokat a beépített merevlemezekre.
+
+Az LG N4B1 a gyártó elõrejelzése szerint decemberben kerülhet elõször forgalomba. A cég egyelõre nem közölt árat.

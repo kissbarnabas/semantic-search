@@ -1,0 +1,14 @@
+A Seagate komolyan veszi az alacsony fogyasztást új meghajtóinál
+
+A Seagate bemutatta Barracuda LP (Low Power) alacsony fogyasztásra optimalizált merevlemezsorozatát. A vállalat állítása szerint az átlagos meghajtóknál akár 50 százalékkal kevesebb energia is elegendõ lehet az üzemeltetésükhöz.
+
+
+
+A Seagate ma bejelentette a kisfogyasztású merevlemez sorozatát, melynek tagjai között egy 2 terabájtos (ST32000542AS) modell jelenti a csúcsot, ezt egy 1 terabájtos (ST31500541AS), illetve egy 1,5 terabájtos (ST31500520AS) egészíti ki. A Seagate LP-meghajtói szokatlan fordulaszámon forgatják a tányérokat, az általános 7200-nél lényegesen alacsonyabb, azonban a 3,5 hüvelykes meghajtók között másik végletnek számító 5400-asnál kissé magasabb, 5900-as percenkénti fordulaton.
+
+
+A Seagate szerint a takarékos tárolók olyan otthoni számítógépekben, illetve tárolórendszerekben, külsõ merevlemez-házakban, vagy akár hálózati adatárakban találhatnak biztos helyre, ahol a gyorsaság másodlagos, elsõ helyen pedig az alacsony fogyasztás áll. A meghajtók SATA II csatolófelülettel rendelkeznek, a gyorsítótár pedig mindhárom modell esetében 32 megabájt. Örvendetes, hogy a tárolók gyártása során felhasznált anyagok 70 százaléka újrahasznosítható.
+
+
+
+A Seagate kiemelte, hogy az újdonság a 2 terabájtos Western Digital Green-sorozatú, szintén spórolósra tervezett meghajtóját is veri, annál 25 százalékkal kisebb az energiaigénye. Az új Seagate LP-merevlemezeket a gyártó a mai naptól szállítja, árakról a bejelentés során nem esett szó.

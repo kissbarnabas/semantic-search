@@ -1,0 +1,9 @@
+Nyártól ütemezi a biztonsági frissítéseket az Adobe
+
+Az Adobe-nál ezért a Microsoft gyakorlatát lemásolva a nyártól bevezetik az úgynevezett "patch keddet", a cég azonban nem havonta, hanem negyedéves rendszerességgel tesz majd közzé javításokat különbözõ szoftvereihez, mindig az aktuális negyedév második hetének keddjén. A cég eddig teljesen rendszertelenül adta ki a két legnépszerûbb szoftverét, az Acrobatot és a Readert érintõ biztonsági javításokat, melyek ráadásul többször csak hónapokkal a sebezhetõség felfedezése után váltak elérhetõvé. A több fronton sebezhetõ, hosszú ideig kijavítatlan PDF-kezelõ szoftverek miatt több neves biztonsági cég is azt javasolta a felhasználóknak, hogy használjanak más alternatívát az Adobe termékei helyett.
+Az Adobe idén kétszer tett közzé javítást az Acrobat és a Reader programok több verziójához. Az elsõ patch március 10-én (ami egyébként szintén keddi nap volt) jelent meg -- csaknem három hónappal a felfedezése után. Akkor a PDF-fájlok beolvasásáért felelõs rutinban olyan hiba maradt, amelyet
+egy speciálisan elõkészített állománnyal kihasználva támadók akár
+teljes kontrollt szerezhetnek a számítógép felett, azaz saját kártékony
+kódjaikat futtathatják, adatokat módosíthatnak vagy tulajdoníthatnak
+el, illetve további támadásokat indíthatnak más rendszerek ellen.
+A következõ frissítés május 12-én (szintén kedden) érkezett a Reader 7-es, 8-as és 9-es verzióihoz, ez a szoftver JavaScript-végrehajtási motorjában felfedezett kritikus sérülékenységet javította. Az Acrobat és Reader programok mellett a Flash platformhoz megjelenõ javítások is negyedéves rendszerességgel érkeznek ezután. Az Adobe a Flash playerben legutóbb február végén foltozott be egy kritikus biztonsági rést, a Flash Media Serverhez pedig április végén érkezett tapasz.

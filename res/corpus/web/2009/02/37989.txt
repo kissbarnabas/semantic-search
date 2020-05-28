@@ -1,0 +1,14 @@
+Az offline Gmail után jön az offline Google Calendar
+
+Levelezõrendszere után a naptárszolgáltatást is elérhetõvé kívánja tenni internetkapcsolat nélkül a Google. A keresõcég újabb offline is elérhetõ szolgáltatása hûen tükrözi azt az útirányt, melyet a vállalat az offline Google Docs tavalyi megjelenésével vállalt fel a kapcsolat nélküli munka megkönnyítésére.
+
+
+
+Néhány héten belül internetkapcsolat nélkül, azaz offline is elérhetõ lesz a Google jelenleg csak online használható, megosztható naptárja, a Calendar. A naptár kapcsolat nélküli mûködését ugyanaz a böngészõkiegészítõ, a Google Gears teszi majd lehetõvé, amely az offline Gmail-nek is alapot ad. "A Google Apps felhasználói igénylik az offline Google Calendart, mi pedig pontosan tudjuk, mennyire fontos ez a funkció az úton lévõ felhasználóknak" -- áll a vállalat hivatalos álláspontjában.
+
+"Már teszteljük ezt a funkciót egy ideje itt a Google-nál, és néhány héten belül azt tervezzük, hogy ügyfeleink szélesebb körének is rendelkezésére bocsátjuk az offline Calendart" -- derül ki a vállalat egyik illetékesének nyilatkozatából. Az offline naptár mûködésének konkrét részletei egyelõre nem kerültek nyilvánosságra, a rendszer ugyanakkor alighanem az offline Gmail-hez hasonlóan mûködik majd, azaz internetkapcsolat nélkül a naptár legutóbbi alkalommal szinkronizált állapotát mutatja majd a böngészõ.
+
+
+A Google múlt hét eleje óta ad lehetõséget a felhasználóknak arra, hogy levelezésüket internetkapcsolat nélkül is elérjék. Mindehhez annyit kell tenniük, hogy telepítik számítógépükre a Google Gears beépülõmodult, ami automatikusan befészkeli magát a böngészõprogramokba, legyen az Internet Explorer, Firefox, Safari vagy Chrome (A Chrome-ban gyárilag telepítve van a Gears). Ezután a Gmail beállításoknál a "Labs" fülön ki kell keresni az "Offline" funkciót és engedélyezni a funkció használatát.
+
+A Gears a továbbiakban automatikusan letölti a leveleket egy helyi gyorsítótárba amennyiben van élõ kapcsolat. Az offline tárhely folyamatosan szinkronizál a Gmail szerverekkel, majd amint eltûnik a kapcsolat, a Gears automatikusan átvált offline módba és a gépen tárolt adatokkal kezd dolgozni.

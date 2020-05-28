@@ -1,0 +1,10 @@
+Vezeték nélküli szinkronizálás az Open-Xchange-dzsel
+
+Az Open-Xchange-hez most megjelent OXtender for Business Mobility lehetõvé teszi mobiltelefonok, okostelefonok tulajdonosai számára, hogy vezeték nélkül szinkronizálják az e-mail-eket, naptárbejegyzéseket vagy névjegyzékeket. A szoftver a Google Androidot, Windows Mobile-t, Symbiant, Blackberry OS-t futtató készülékekkel, valamint az Apple iPhone-jával mûködik. A technológia alapja a Microsoft Exchange ActiveSync protokoll, amely a legtöbb mobil platformmal kompatibilis már.
+
+"A jelenlegi megoldások vagy csak bizonyos mobiltelefonokkal mûködnek, vagy drága szerveroldali megoldást igényelnek" - mondta Rafael Laguna, az Open-Xchange vezetõje. "Az OXtender for Business Mobility egy elérhetõ árú mobil üzenetküldõ és kollaborációs megoldás mnden mobil platformra." Az OXchange for Business Mobility push e-mail szolgáltatást is képes nyújtani, vagyis a mobilelefonok, okostelefonok felhasználói anékül kapják meg leveleiket, hogy nekik le kellene kérdezniük postafiókjuk tartalmát. Ugyanígy a naptárjukban, a névjegyzékben vagy a teendõlistában történt változások is azonnal megjelennek a mobiljukon.
+Az Open-Xchange Server Editionnel vagy Open-Xchange Appliance Editionnel használható OXtender for Business Mobility 25 felhasználós elõfizetési díja az elsõ évre 355 dollár,  újabb felhasználókra pedig további egyenként 14 dollárért lehet megvenni a szoftvert. Minden további évben az elõfizetési díj az elsõ éves díj negyede. A nyílt forrású Open-Xchange szervert világszerte mintegy 3500 szervezet vezette be, a hosztolt változatát pedig több mint 10 millió felhasználó használja.	     
+                  
+                  
+                  
+                   

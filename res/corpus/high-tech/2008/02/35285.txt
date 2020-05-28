@@ -1,0 +1,29 @@
+Megkezdte az univerzális PRAM prototípusainak szállításait az Intel
+
+Több évtizedes kutatás-fejlesztést követõen végre termék formájában ölt testet a phase-change memory (PRAM vagy PCM), melyet univerzális memóriaként is emleget a szakma. Az Intel és az STMicroelectronics tegnap jelentette be, hogy megkezdték a prototípusok szállításait partnereik elé.
+
+
+
+Az Alverstone kódnévre hallgató termék a Numonyx, a két vállalat közös leánya szerint a legjelentõsebb elõrelépés az elmúlt 40 évben, mely az emlékezõ memóriatechnológiát érinti. "Számos kísérlet történt új nem-felejtõ memóriatechnológiák megtalálására és kifejlesztésére, és az összes eddigi koncepció közül a PCM kínálja a legvonzóbb megoldást" -- közölte Ed Doller, a Numonyx mûszaki vezérigazgatója. "Ez egy fontos mérföldkõ az iparág és vállalataink számára."
+
+
+PRAM?
+A jelenleg elterjedt memóriatechnológiákkal ellentétben a PRAM nem tranzisztorokat vagy kondenzátorokat használ a bitek tárolására, hanem diódákat és az alkalmazott anyag állapotváltozására épít, pontosabban a két állapot különbözõ vezetési tulajdonságai jelentik a 0 és 1 biteket.
+
+A mûködés arra a fizikai jelenségre épül, az anyagok másmilyen kristályszerkezetbe rendezõdnek, ha az olvadáspontjuk feletti vagy az alatti állapotból hûlnek vissza, ez pedig eltérõ elektromos ellenálláshoz vezet. A kutatások alapvetõ fókusza a változáshoz szükséges energia csökkentése és a sebesség növelése.
+
+Ez hasonló az újraírható optikai lemezeknél alkalmazott anyagok viselkedéséhez, azzal a különbséggel, hogy ott az optikai visszaverõ tulajdonságnak kell tetszõlegesen változnia. Az állapot fenntartásához a PRAM esetében sincs szükség áramellátásra, így alacsony fogyasztás mellett tartalmát a kikapcsolást követõen is megtartja, ahogyan egy merevlemez, vagy egy memóriakártya.
+
+
+
+
+Az Alverstone 90 nanométeres csíkszélességû gyártástechnológiával gyártott 128 megabites, vagyis 16 megabájtos memóriachip, melyrõl elõször két évvel ezelõtt lebbentette fel a fátylat a két vállalat. Kapacitásából fakadóan az Alverstone fõként a jellemzõen beágyazott szoftverek tárolására alkalmazott NOR flash termékekre lehet alternatíva. Az Intel állítása szerint nagysebességû írást és olvasást biztosít a flashnél alacsonyabb fogyasztásból, és akár operatív tárként, kisebb teljesítmény- és kapacitásigényû területeken DRAM-helyettesítõként is használható, ugyanis bitszintû vezérlésre képes -- innen a PRAM elnevezés.
+
+Mivel az anyag termikus állapotváltozására építõ PRAM nem tárol elektromos töltést, ezért sokkal ellenállóbb a bithibákkal és az elektromagnetikus sugárzással szemben, mint a flash memória, valamint fáradása is sokkal lassabb, a kutatási eredmények alapján akár a 100 millió írási ciklus elérése is lehetséges -- vagyis a PRAM megbízhatóbb tároló a flashnél, és mivel nem alkalmaz mozgó alkatrészt, ezért a merevlemeznél is.
+
+A PRAM-ban rejlõ potenciált demonstrálta 2006 decemberében egy IBM-vezette kutatás-fejlesztési trió (IBM, Qimonda, Micronix), mely a NAND-flashnél ezerszer nagyobb teljesítményt nyújtott fele fogyasztás mellett, egyelõre laboratóriumi körülmények között. Justin Rattner, az Intel mûszaki vezérigazgatója szerint ha a PRAM-chipek olcsón termelhetõek nagy tömegben, akkor akár DRAM-alternatív is lehet sok területen, ami a memóriahierarchia alapos újragondolását eredményezné. Rattner szerint a PRAM alapvetõen olcsóbb technológia a DRAM-nál, miközben kevesebbet fogyaszt.
+
+
+A chiptervezõk éves világkonferenciáján, az International Solid State Circuit Conference keretében az Intel a technológia nagyobb adatsûrûségû változatát is bemutatta, mellyel két bit tárolható el az anyagban egy helyett. Ezt nem mással érték le, minthogy az anyag amorf és kristályos állapota közé további kettõt illesztettek be, vagyis négy különbözõ elektromos vezetési tulajdonságú állapottal rendelkezhet az anyag. Ez a többszintû cella (multi-level cell) felépítés az Alverstone kapacitását egybõl 256 megabitre duplázta.
+
+A Web-Feet Research piackutató adatai alapján a DRAM, flash és egyéb memóriatechnológiákra építõ termékek világpiaca tavaly 61 milliárd dollárra rúgott. Az Intel szerint a jövõben egyre nagyobb miniatürizációs nehézségekbe fognak ütközni a memóriagyártók a hagyományos technológiákkal, mely az ipart hajtó folyamatos költségcsökkentés alapvetõ eleme. Ennek köszönhetõen a PRAM ára magasabb ütemben esik majd, és a teljesítmény és kapacitásbeli fejlesztéseknek köszönhetõen ez oda vezethet, hogy a PRAM technológia egyszerre célozhatja majd meg a DRAM, a NAND- és NOR-flash piacok igényeit egyaránt.

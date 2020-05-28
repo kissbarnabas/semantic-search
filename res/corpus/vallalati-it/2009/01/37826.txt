@@ -1,0 +1,14 @@
+Növekvõ kapacitás és sebesség a Seagate vállalati merevlemezeinél
+
+Az otthoni, kisvállalati felhasználásra szánt Barracuda merevlemez-sorozat mellett megújítja a szerverek számára, illetve a kritikus felhasználási célokra fejlesztett Cheetah termékcsaládját a Seagate. Az új generációs modellek nagyobb kapacitást kínálnak az elõdöknél, emellett a gyorsabb interfésznek köszönhetõen az adatelérés elméleti maximuma is megnõtt.
+
+
+
+A Seagate 3,5 hüvelykes méretû Cheetah termékcsaládjának két új tagját leplezte le a hét elején: a 15 ezer fordulat/perces motorral ellátott Cheetah 15K.7 és a valamivel lassabb, 10 ezer fordulat/perces motort tartalmazó Cheetah NS.2 sorozat a gyártó szerint a jelenleg elérhetõ legnagyobb kapacitású, kritikus alkalmazási területre szánt HDD-ket vonultatják fel. A két sorozat 300, 450 és 600 gigabájtos változatban érhetõ majd el -- az elõzõ generációs Cheetah 15K.6-nál és NS-nél rendre 450 és 400 gigabájt volt a maximum. A gyorsítótár mérete kapacitástól függõen 16 megabájt.
+
+A megnövekedett kapacitás mellett a Seagate gyorsabb interfésszel is ellátja az újdonságokat, a hatból öt modell a 4 gigabit/másodperces maximális átviteli tempót nyújtó száloptikás csatlakozáson túl elérhetõ 6 gigabit/másodperces SAS-2.0 csatlakozással is. Az energiahatékonyság növelése érdekében a Seagate mindegyik HDD-be beépítette a korábbi modelleknél már alkalmazott PowerTrim rendszer új változatát. Ez az energiaspóroló megoldás a korábbi Cheetah NS típusokban még nem volt elérhetõ, a Seagate szerint az NS.2-es típusok így átlagosan akár 20 százalékkal kevesebb árammal is beérik mûködés közben.
+
+
+Az amerikai gyártó egy hete leplezte le az otthoni és kisvállalati számítógépekbe fejlesztett Barracuda sorozat új generációját, a Barracuda 7200.12-t, mely mindössze két 3,5 hüvelykes tányér segítségével ér el 1 terabájtos kapacitást, ami négyzethüvelykenként 329 gigabit tárolását jelenti. A Barracuda 7200.12 három változatban készül, az 1 terabájtos, 750 gigabájtos és 500 gigabájtos kivitel mellett azonban várhatóan még idén érkezik egy 2 terabájtos típus is.
+
+A szerverekbe szánt NS.2 merevlemezeket már szállítja a Seagate, a Cheetah 15K.7 széria tagjait várhatóan a következõ negyedévben kezdik nagyobb volumenben gyártani. A Barracuda 7200.12 család tagjai már kaphatók a tengerentúli üzletekben.

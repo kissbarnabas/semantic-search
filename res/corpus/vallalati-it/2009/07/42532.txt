@@ -1,0 +1,10 @@
+Újabb foltozatlan ActiveX-sebezhetõségre bukkantak
+
+Újabb, foltozatlan ActiveX-sebezhetõségen alapuló támadásokra figyelmeztet a Microsoft. Az Office Web Components hibáját kihasználva támadók az áldozattal azonos jogosultságot szerezhetnek a rendszerben és saját kódjukat futtathatják vagy éppen adatokat tulajdoníthatnak el. Egy sikeres támadáshoz elég az IE-felhasználót egy olyan weboldalra irányítani, ahol preparált Office-dokumentumok találhatók és rábírni õt, hogy megnyissa õket.
+
+Az Office Web Components lehetõvé teszi Office-állományok közvetlen megjelenítését az Internet Explorerben. A Microsoft már értesült olyan támadásokról, amelyek ezt a sérülékenységet használják ki, a McAfee szerint fõképp a Távol-Keleten lehet ilyenekkel találkozni. Mivel ma van július második keddje, a Microsoft ma adja ki havonta szokásos biztonsági frissítéseit, ezt a sérülékenységet azonban most biztosan nem javítja a cég. A ma érkezõ javítások között is van ActiveX-sérülékenységet foltozó patch.
+A Microsoft a támadások kivédéséhez egyelõre az ActiveX-vezérlõk automatikus futtatásának kikapcsolását javasolja, ennek mikéntjérõl a vállalat weboldalán olvasható részletes útmutató. Természetesen az Internet Explorer helyett más böngészõ használata is megoldást jelent, azonban ezt a gyógymódot a Microsoft nem említi.	     
+                  
+                  
+                  
+                   

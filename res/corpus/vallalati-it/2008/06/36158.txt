@@ -1,0 +1,16 @@
+Újabb ingyenes Office-alternatíva: IBM Lotus Symphony
+
+Az IBM elérhetõvé tette a tavaly szeptember óta nyilvános béta formájában már elérhetõ Lotus Symphony ingyenes, nyílt forrású irodai csomag 1.0 verzióját. A szoftver lényegében nem más, mint a 2004-ben megjelent OpenOffice 1.1.4 áttervezett kezelõfelületû, "kipofozott" változata. A Symphony a Lotus Notes legújabb, 8-as verziójában debütált, de mostantól önállóan is elérhetõ, összesen 24 nyelven (köztük magyarul is), egyelõre Windows és Linux operációs rendszerre.
+
+
+
+A Symphony szövegszerkesztõjének, táblázatkezelõjének és prezentáció-készítõjének alapértelmezett dokumentumformátuma az ODF, de a szoftver korlátozottan kompatibilis a Microsoft Office bináris állományaival is. Az Open XML fájlok támogatása az õszi frissítésben várható. Bár a szoftver teljesen ingyenes üzleti felhasználásra is, a támogatásért már fizetni kell, egy ezer felhasználós cégnél évente és felhasználónként 25 dollárt kér az IBM az Elite Support csomagért, amelyben korlátlan mennyiségû telefonos segítségnyújtás található.
+
+A Symphony 1.0 megjelenésével párhuzamosan az IBM elindította a termékhez kapcsolódó közösségi weboldalt is. Itt a cég nem csak a visszajelzéseket várja a következõ verziók fejlesztéséhez, hanem számos hasznos apróságot is elérhetõvé tett a Symphonyhoz. Megtalálható itt olyan plugin, amelynek segítségével a teljes szoftvercsomag arculata egyénre, vagy a felhasználó vállalatra szabható, egy másik plugin a prezentációkat alakítja Flash-animációvá, egy harmadik pedig egyetlen kattintással, a levelezõ megnyitása nélkül képes a dokumentumokat e-mailben elküldeni. Emellett sablonok egész serege érhetõ el a weboldalon.
+
+Kisvállalati linuxos szerver
+
+
+A Symphony körüli médiafelhajtás mellett kevés figyelem jutott a Lotus Foundations Startnak, amely egy integrált kis- és középvállalati szervertermék az IBM-tõl, a Microsoft Small Business Server potenciális vetélytársa. Az IBM szerint a Lotus Foundations Start legnagyobb elõnye a Microsoft Small Business Serverrel szemben, hogy még az informatikai kompetenciával nem rendelkezõ cégek is könnyen be tudják üzemelni, és akár fél óra alatt mûködõképes rendszert állíthatnak üzembe. A terméket az IBM a legalább 5, de legfeljebb 500 fõs cégeknek ajánlja.
+
+A Linux-alapú Lotus Foundations Startban benne foglaltatik a Lotus Notes-ra és Dominóra épülõ levezelõ és csoportmunka-megoldás, egy fájl- és nyomtatószerver, címtárszolgáltatás, önkonfiguráló tûzfal, vírusszûrõ és spamszûrõ, valamint egy diszk-alapú mentési megoldás, amely akár 15 percenként képes menteni. A komplex szolgáltatásai ellenére a termék rendkívül kicsi, akár egy CD-rõl vagy pendrive-ról is futtatható.

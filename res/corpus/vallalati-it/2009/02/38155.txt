@@ -1,0 +1,12 @@
+Demózta hatmagos Opteronját az AMD
+
+[Techreport/HWSW] Elõször demózta hatmagos chipjét az AMD. Az Istanbul kódnéven ismert processzortól a vállalat azt reméli, hogy ellensúlyozni tudja a megjelenés küszöbén álló négymagos Nehalemek mikroarchitekturális fölényét. Az Istanbul kompatibilis a jelenlegi Opteron-platformmal, így megjelenését követõen gyors adoptációra lehet számítani. 
+
+
+
+Elsõ alkalommal demonstrálta az AMD a hatmagos Istanbult mûködõ szilíciumon, számolt be a Tech Report magazin. A bemutató alkalmával egy négyutas és egy kétutas gépen Windows Server 2008 rendszereket futtattak, továbbá virtualizált vendéggépekkel is példázták, jó állapotban van a chip. Az AMD egyelõre további információt nem volt hajlandó elárulni a várható megjelenéssel kapcsolatban, az év második felére esedékes a piaci premier, vélhetõen a harmadik negyedévben.
+
+Az Istanbul 2, 4 és 8 utas szervereket céloz meg, melyek így 12, 24 és 48 processzormaggal fognak rendelkezni. A processzor illeszkedik a jelenlegi Socket F alaplapokba, amennyiben azok megfelelõ tápellátással rendelkeznek, és ezt követõen mindössze egy BIOS-frissítés szükséges az üzembe helyezéshez. A demórendszer ráadásul egy Fiorano platform lehetett, az Istanbulok ugyanis a jelenleginél gyorsabb HyperTransport 3 linkeken kommunikáltak egymással, állítja a Tech Report. A chip ugyanazon a 45 nanométeres gyártási  eljáráson készül, mint a Shanghai, és szintén 6 megabájt L3 cache-sel rendelkezik. Az Istanbul órajele természetesen alacsonyabb lesz a Shanghai-énál, a szerverfeladatok többségénél azonban a másfélszer több mag ezt bõségesen ellensúlyozza.
+
+
+A magok számának növelésén túl a Shanghai egy új cache-koherencia protokollt valósít meg, mely az L3-ban tárolt index segítségével kiszûri a felesleges koherenciakommunikációt, így takarékoskodva a processzorok közötti HyperTransport linkek kapacitásával. Ez különösen 4-8 utas szerverek esetén bír jelentõséggel, ahol a chipek között koherenciaforgalom eldugíthatja az összeköttetéseket, drasztikusan lecsökkentve a hasznos sávszélességet, ezzel pedig a teljesítményt. 

@@ -1,0 +1,14 @@
+Kétoldalon is érintésérzékeny kijelzõt fejleszt egy Japán cég
+
+A Japán Teraokaseiko olyan kijelzõt mutatott be, melynek mindkét oldala érintésérzékeny. A kijelzõt két, egymással szemben helyet foglaló személy amõbajátékával demózták.
+
+
+
+A Teraokaseiko kétoldalon érintésérzékeny kijelzõjének fejlesztése még kezdeti fázisban van, ezért felbontása is igen csekély, mindössze 256x120 pixel, melyek élvilágított képpontjai sárgás-narancssárgában jelennek meg. A kijelzõ az augusztus 28-tól 30-ig Tokióban megrendezésre került Sign & Display Show bemutató során amõbajáték megjelenítésére szolgált, a két játékos egymással szemben foglalt helyet, ujjukkal játszva a játékot.
+
+Amõbajáték mellett térképszoftvereknél is elõny a kétoldali érintésérzékenység
+
+Az OLED panel érintésérzékeny része több ujjal vezérelhetõ "multitouch" rendszerû, így a nagyítás, kicsinyítés is könnyen megvalósítható lesz. A fejlesztõk a nagy sikert a GPS helymeghatározás terén is várják, ahol az alkalmazást kezelõ személy ujja nem takar részleteket a térképbõl. A kijelzõ nem teljesen átlátszó, fényáteresztõ képessége 51,2 százalék. A Teraokaseiko által bemutatott megoldáshoz hasonlóval korábban a A Lucid Touch is jelentkezett, fejlesztése a gépet tartó ujjainkkal enged navigálni az átlátszónak tûnõ munkaasztal mögül, amely azonban nem átlátszó.
+
+
+A Lucid Touch hétköznapi kijelzõjénél az eszközt tartó hátoldali ujjaink mozgása egy közönséges webkamera által kerültek digitalizálásra azt az érzetet keltve, mintha a megjelenítõ átlátszó lenne. Használat során a kamera által érzékelt ujjaink a kijelzõn félig átlátszó módon jelennek meg, így nem takarnak ki az információkból. Ennél  a megoldásnál is megvalósítható a kétujjas navigáció, így lehetõségünk van forgatni, vagy akár nagyítani is, ha az alkalmazás erre egyébként lehetõséget ad.

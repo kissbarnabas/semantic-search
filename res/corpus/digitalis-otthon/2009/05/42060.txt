@@ -1,0 +1,15 @@
+Fél terabájtos SSD a Toshiba R600 notebookban
+
+Az ultrahordozható, 1 kilogrammnál is keveset nyomó Portege R600-ba épített második generációs SSD SATA felületen csatlakozik a chipkészlethez. A tároló a lehetõ legnagyobb kapacitás elérése érdekében MLC (multi-level cell) szervezésû, ez azt jelenti, hogy az adatcellák nem egy, hanem több bitet tárolnak. Ez a megoldás lehetõvé teszi az SSD-k egyik legnagyobb problémáját, a viszonylag kis kapacitásnak a legyõzését, cserébe némi teljesítményveszteséggel kell fizetni. A Toshiba SSD-je másodpercenként 230 megabájtos sebességgel olvasható és 180 megabájttal írható.
+
+
+
+
+Az ASUS már januárban bejelentette S121 netbookját 512 gigabájtos SSD-vel, majd a márciusi CeBIT-en elõállt az 1 terabájtos SSD-t tartalmazó Lamborghini VX5 notebookjával, azonban egyiket sem lehet még kapni, a DynabookSS RX2 azonban már megvásárolható Japánban 4400 dollárnak megfelelõ janért, az 512 gigabájtos SSD-vel szerelt Portege R600-at pedig júniusra ígéri a cég, ára az Egyesült Államokban 3500 dollár lesz. Patonai Szabolcs, a Toshiba hazai képviseletének vezetõje szerint Magyarországra a&nbsp; harmadik negyedévben érkezhet az óriási SSD-vel szerelt R600, a kategóriának megfelelõ prémium árszinten -- értesüléseink szerint ez 3000 euró körüli nettó árat jelent majd.&nbsp; 
+
+A Toshiba R600 egy arcátlanul könnyû, optikai meghajtóval együtt is alig 1,1 kilogrammot nyomó noteszgép, amelynek vastagsága pedig maximum 20 milliméter. A noteszgép LED-háttérvilágítású, 1280x800 pixeles felbontású panelje
+transzflektív, vagyis napfénynél is olvasható marad, mikor a
+háttérvilágításra nincs is szükség, spórolva az akkumulátorral. A
+kijelzõt az Intel GS45 lapkakészletébe integrált grafikus
+feldolgozóegység hajtja meg. A Montevina kódnevû Centrino 2 platformra épülõ Portégé
+R600-ba az Intel ultraalacsony feszültségû, energiatakarékos Core 2 Duo&nbsp; processzorai kerülnek.

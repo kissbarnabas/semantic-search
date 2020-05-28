@@ -1,0 +1,26 @@
+Szövegek, weboldalak fordításában is segít már a Google
+
+A Google szokás szerint jön, lát, gyõz, ezúttal a fordítási piacon vette fel a kesztyût a Google Translation Center elindításával. Ugyan korábban is lehetõség volt egyes weboldalakat és szövegfájlokat az eredetitõl eltérõ nyelven megtekinteni, de az új felület amellett, hogy ugyanolyan egyszerû, mint a keresõjük, komoly fenyegetést jelent minden, már a piacon lévõ fordítószolgáltatásra.
+
+
+
+Statisztikai elven mûködik
+
+Újabb szolgáltatást vezetett be a Google, aminek segítségével nem csupán mondatokat vagy teljes szövegeket, hanem teljes weboldalakat és dokumentumokat is lehetséges lefordítani számos nyelvrõl bármelyik másikra. A gépi fordítás bizonyos nyelvek között már viszonylag fejlettnek mondható, de ennek ellenére még mindig (és még jó ideig biztosan nem) tekinthetjük nyelvileg elég helyesnek és pontosnak az algoritmusok által végzett munkát. A Google viszont nem nyugszik bele könnyen ebbe a ténybe, és a rendelkezésére álló óriási adat- és információmennyiséget felhasználva folyamatosan fejleszti nyelvi adatbázisát. 
+
+A komplexebb gépi fordítások alapja a szótárak mellett a fordítási memória. Ehhez a szolgáltató több milliárd szónyi szöveget vitt be rendszerébe, mind egy- és többnyelvûeket, illetve emberi fordításokkal segítették a fordító fejlõdését. A fordítás módszere gyakorlatilag statisztikai elveken mûködik, a gép megvizsgálja a szöveget, felbontja frázisokra és a fordítási memóriában keres azonos vagy hasonló megfejtéseket. 
+
+Fordítói piactér is egyben
+
+A Google Translation Center azon felül, hogy gépi fordítást kínál lehetõséget ad (hamarosan) arra, hogy fordítók és fordítást igénylõk egymásra találjanak, mindezt 40 nyelv részvételével. A szájt az amatõr és profi fordításokat is támogatja majd, lehetõség lesz ellenõriztetni a fordítást vagy akár nagyobb szövegek esetén elõfordulhat, hogy többen esnek neki. A Translation Center egyfajta piactérként funkcionál majd, ami jóval több lehetõséggel kecsegtet vevõ és eladó számára is, mint mondjuk a Freetranslation szolgáltatása. 
+
+
+ A Google esetében már az egyéb oldalak lokalizációja is ehhez hasonló, akár közösséginek is nevezhetõ módon zajlott. A cég nem keresett külsõ fordítóirodát, hanem tudva, hogy a dolgozók a világ minden tájáról származnak, egy algoritmus segítségével összepárosította, hogy kinek van ideje és képessége az adott oldalak különbözõ nyelvekre fordításához. 
+
+Az emberi fordítást ráadásul ennél a szolgáltatásnál már nagyban gyorsítja a gépi, hiszen mielõtt nekilát a fordító, a gép már egy közel elfogadható nyersfordítást javasol, amit csak ki kell csinosítani nyelvileg, szintaktikailag és stilisztikailag. A profi, pénzért fordító munkások mellett akár önjelölt tolmácsok is beszállhatnak a rendszerbe és teljesíthetik a feladatot. Az oldal továbbá szimpla szótárként is mûködik majd, ami pár éven belül egy sosem látott szuperszótárrá nõheti ki magát, ami a ma beszélt nyelvek többségét ismeri majd. 
+
+Nekünk csak a nyelvtanulás marad
+
+A magyar nyelv viszont sajnos újra kimaradt a szórásból, ami köszönhetõ egyrészt annak, hogy izolált nyelv a mienk, másrészt annak, hogy mindössze 10-14 millióan beszélik, így nem számít túl nagy piacnak. Ezzel szemben például a cseh máris megtalálható a rendszerben, de ismerve a szláv nyelvek hasonlóságát, ez egyáltalán nem meglepõ, így az orosz, lengyel mellett hamarosan számíthatunk a többi szláv változatra is. 
+
+Magyar nyelven egyelõre csak dobozos fordító szoftverek állnak rendelkezésre a megfelelõ minõségben. Ezek is többnyire a professzionális fordítók igényeire vannak szabva, fordítási memóriájuk korlátozott és a szakszöveg-kontextusok közül is viszonylag kevés áll harcra készen. A magyar internetezõknek így egyelõre marad a nyelvtanulás, hiszen ha angolul, németül vagy spanyolul megtanul valaki, akkor ezekre a nyelvekre már könnyû fordítást találni. 

@@ -1,0 +1,23 @@
+Szigorítaná a keresõk adatkezelési gyakorlatát az EU egy tanácsadó csoportja
+
+Indokolatlannak tartja a személyes adatok hat hónapnál hosszabb tárolását az Európai Bizottság egyik tanácsadó testülete. Az adatvédelmi munkacsoport frissen elkészült jelentése megerõsítette azt a korábbi állásfoglalását, hogy az IP-cím és sütik is személyes adatnak számítanak, így azokra is vonatkoznak az adatvédelmi törvények. A Google újfent sietõsen vitába szállt a jelentés következtetéseivel, megkérdõjelezve a gyûjtött adatok személyes voltát, valamint a tárolás idejét egyaránt.
+
+
+
+A Data Protection Working Party (DPWP) az Európai Bizottság tanácsadó csoportjaként készítette el jelentését a keresõk adatkezelésével kapcsolatban. A dokumentum nem tartalmaz meglepõ újdonságokat a korábbi meghallgatások fényében, melyeken Peter Scharr, a munkacsoport vezetõje korábbi parlamenti meghallgatásokon már érzékeltette állásfoglalásukat. Ezek alapján a keresõk kizárólag törvényes célokra gyûjthetnek releváns adatokat, melyek a szolgáltatás nyújtásához szükségesek, és miután ezt a célt megszolgálták, törölni vagy anonimmá kell azokat --magyarán a szolgáltatás teljesítését követõen nem kellene nyoma maradnia a felhasználónak. 
+
+
+A munkacsoport a keresõvállalatok válaszai alapján nem lát indokot az adatok 6 hónapnál hosszabb idejû tárolására. Mivel a DPWP jelentése szerint az IP-címek és sütik egyaránt személyes adatnak számítanak, ezért ezeket is értelemszerûen legfeljebb 6 hónapig lehet tárolni önállóan, ezt követõen törölni kell vagy visszafejthetetlen módon anonimmá tenni: amennyiben az IP-cím hordozta információk fontosak, lehetõség nyílik például ezen kinyert adatok tárolására, mint például a földrajzi elhelyezkedés és hálózati szolgáltató. A jelentés angol nyelven letölthetõ innen (PDF).
+
+Amennyiben egy keresõ 6 hónapnál tovább kíván tárolni személyes adatokat, átfogóan be kell mutatnia, hogy az feltétlenül szükséges a szolgáltatás mûködéséhez -- szól a konklúzió. Elõre leszögezik ugyanakkor, hogy nem megfelelõ indok a szolgáltatás fejlesztése vagy az elszámoltathatóság hirdetési rendszerekben például. A jelentés ráadásul külön kitér a sütikre, melyek érvényességi ideje nem lehet hosszabb a szükségesnél. Jelenleg mindhárom vezetõ keresõ sokkal hosszabb ideig tárolja ennél a látogatók adatait, így például a Google és a Yahoo! 18, míg a Microsoft 13 hónapig. Az adatvédelmi aggályok ugyanakkor nem a vállalatok szándékaival kapcsolatosak, hanem az adatok biztonságos tárolásával és illetéktelen kezekbe kerülésük kockázataival.
+
+[+] Személyes adatnak számít-e az IP-cím? 
+
+A tanulmány továbbá úgy foglal állást, hogy a keresõk a technikailag szükségszerûen szert tesznek ugyan személyes adatokra, mint például az IP-cím, további adatok gyûjtése nem szükségszerû a keresési és hirdetési szolgáltatás nyújtásához. A munkacsoport szerint felhasználói profilok adatainak további automatikus bõvítéséhez a felhasználó hozzájárulása legyen szükséges, ahogyan a keresési elõzményekének tárolásához is. A dokumentum továbbá megjegyzi, hogy a keresõ nem adnak kielégítõ magyarázatot arra felhasználóiknak, hogy miért gyûjtenek és dolgoznak fel adatokat róluk.
+
+A Google a DPWP jelentését követõen ismét sietett kritikájának hangot adni, amit már korábban is megtett. A vállalatot érinti talán legkellemetlenebbül az állásfoglalás, mely az Európai Unió adatvédelmi gyakorlatában valószínûleg meghatározó súlyt képvisel majd, ugyanis a Google keresõmotorja és hirdetéseket kiszolgáló rendszere egyaránt felhasználja az IP-címeket. Az IP-címek használatának legfõbb szerepe abban rejlik, hogy segítenek behatárolni a felhasználó földrajzi elhelyezkedését, így a keresési találatok és hirdetések relevanciáját fokozni lehet. A Google online hirdetési rendszerében a célcsoportokat földrajzilag is körül lehet határolni, aminek mûködéséhez szükséges a látogatók IP-címének tárolása számlázási szempontból is.
+
+
+[+] A Google nem épít profilokat felhasználóiból, de elemezni akarja viselkedésüket 
+
+Peter Fleischer, a Google vezetõ jogtanácsosa korábban és most is elmondta, az IP-cím nem tekinthetõ személyes adatnak, ráadásul a Google azt ráadásul csoportos trendelemzésekhez használja fel. A vállalat az utolsó két számjegyet levágja az eltárolt IP-címekbõl, melyeket 18 hónap után önként töröl. Szintén önkéntesen 2 évre csökkentették a sütik élettartamát a korábbi 30 évrõl. A Google számára szükséges továbbá az IP-címek átmeneti tárolása ahhoz, hogy a kattintásos csalásokkal szemben védje reklámozó ügyfeleit, és a hirdetési rendszerbe vetett bizalmat.

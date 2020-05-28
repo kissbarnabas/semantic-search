@@ -1,0 +1,14 @@
+Online tárhelyszolgáltatót vett a Symantec
+
+A Symantec megvásárolta az 1998-ban alapított, online tárhelyszolgáltatást kínáló SwapDrive vállalatot. A tranzakció értékét a felek nem hozták nyilvánosságra, de belsõs források szerint a Symantec mintegy 120 millió dollárt fizetett a cégért.
+
+
+
+A SwapDrive által kínált online tárhelyet nem csak fájlok feltöltésére és megosztására lehet igénybe venni, a szolgáltatás fõ célja az adatok biztonsági mentése. Erre pedig elkerülhetelenül szükség van a SwapDrive szerint, a cég által elvégzett felmérés alapján a PC-tulajdonosok negyedének volt adatvesztése az elmúlt fél év során. Ennek leggyakoribb okai a meghibásodott hardverek, de gyakori a véletlen törlésbõl, illetve a vírusfertõzésbõl, illetve rendszerösszeomlásból adódó adatvesztés is.
+
+A SwapDrive szerint az online adatmentés legfontosabb elõnye a "hagyományos" megoldásokkal szemben, hogy a cég által üzemeltetett szervereken a felhasználói adatok garantáltan biztonságban vannak. Hallani olyan esetekrõl, amikor egy lakásból a tolvajok nem csak a PC-t vitték el, hanem a mentéseket tartalmazó külsõ merevlemezt is, de nem elképzelhetetlen az sem, hogy a mentett adatokat tartalmazó adathordozó tönkremegy, vagy egyszerûen csak elveszik.
+
+
+ Az utóbbi idõben ezért az adattárolással és -mentéssel foglalkozó cégek körében egyre nagyobb hangsúlyt kap az online adatmentés. A tárolópiacot vezetõ EMC az év elején vette meg a Mozy nevû céget, most a Symantec felzárkózott a SwapDrive felszippantásával. Az utóbbi idõbn akvizíciók révén az IBM, az Iron Mountain, és a merevlemezeirõl ismert Seagate is belépett erre a piacra. A Microsoft nemrég Magyarországon is elindította Live SkyDrive nevû online tárhelyszolgáltatását.
+
+A SwapDrive évente 50 dollárt kér 2 gigabájt adat biztonságos tárolásáért, de 100 dollárért már 5 gigabájt tárhelyet ad a cég. Az online tárterületen titkosítva (SSL, FTPS, AES) tárolt adatok bárhol, bármikor hozzáférhetõk, akár egy böngészõbõl is elérhetõk. A Symantec a Norton 360 termékben már eddig is kínálta az online adatmentés lehetõségét, minden szoftverhez 10 gigabájtos online tárhely jár, ami felárért 25 gigabájtra bõvíthetõ. Ezt a szolgáltatást eddig is a SwapDrive-on keresztül nyújtotta a Symantec.

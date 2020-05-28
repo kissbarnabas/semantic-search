@@ -1,0 +1,14 @@
+Megérkezett az elsõ javítócsomag a Microsoft SQL Server 2008-hoz
+
+Megérkezett az elsõ frissítõcsomag a Microsoft adatbázis-kezelõjéhez. A SQL Server 2008 SP1-gyel kapcsolatos legfontosabb hír az, hogy nincs hír, a csomag gyakorlatilag csak az eddig kiadott apróbb javítások összessége, új képességeket vagy szolgáltatásokat szinte egyáltalán nem tartalmaz. 
+
+
+
+A redmondi vállalat is csupán három újdonságot említett meg a megjelenés kapcsán. A Slipstream segítségével lehetõvé válik az adatbáziskezelõ és a javítócsomag együttes telepítése, ami csökkenti az installálás idejét és a szükséges újraindítások számát. Újdonság a Report Builder Click Once, amely a Reporting Servicesbõl egyetlen kattintással telepíthetõvé teszi a Report Buildert.
+
+A Microsoft tavaly nyár végén adta ki a SQL Server 2008 végleges változatát, amelyet azóta több mint 3 millióan töltöttek le a vállalat szerint. Az SQL Server 2008 legfontosabb újdonságai a megbízhatóságot, a biztonságot, a teljesítményt, valamint a fejlesztések leegyszerûsítését érintik. A szoftver ennek jegyében többek között tartalmaz transzparens failovert, transzparens adattitkosítást külsõ kulcskezeléssel, erõforrások (CPU) menet közbeni hozzáadását, a korábbinál hatékonyabb adattömörítést, az alkalmazásfejlesztés egyszerûsítése terén a legnagyobb elõrelépést pedig talán a LINQ (Language Integrated Query) és az ADO.Net entitások támogatása jelenti.
+
+
+ Az SQL Server 2008 üzleti intelligencia és jelentéskészítési funkciókkal is bõvült, a Microsoft szerint az adatbázist úgy alakították ki hogy nagyszerû adattárház-platform legyen, a Microsoft által felvásárolt kanadai Dundas Data technológiái segítségével pedig komoly adatvizualizációs képességeket vonultat fel az SQL Server Reporting Servicesben. Említésre méltó még a "Resource Governor", amelynek segítségével az adminisztrátorok pontosan beállíthatják, hogy az adatbázis workloadjai mennyi erõforrást köthetnek le.
+
+A SQL Server 2008 SP1 32 és 64 bites x86, valamint IA64 változatokban érhetõ el. Hogy a szervizcsomag milyen kevés változtatást, újdonságot tartalmaz, az is bizonyítja, hogy a letöltendõ fájlok mérete mindössze 300 megabájt körüli. Újdonság, hogy aki az SP1 telepítése után mégis annak eltávolítása mellett dönt, mostantól nem kell az egész adatbázist eltávolítania, a Service Pack 1 önmagában is törölhetõ.

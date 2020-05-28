@@ -1,0 +1,16 @@
+SmallMail: e-mailezés titokban
+
+Az internetezõk magánszférájának védelmét zászlajára tûzõ Small Sister projekt kiadta a SmallMail bétaváltozatát, amely lehetõvé teszi a levélváltást anélkül, hogy bárki lenyomozhatná a küldõt és a feladót.
+
+
+
+Jelenleg is léteznek technológiák a levelek titkosítására, azonban ezek csak a levél törzsét teszik avatatlan szemek számára láthatatlanná, a feladó és a címzett megtalálható bennük. A SmallMail titkosítja az e-mailek fejlécét, így lenyomozhatatlanná teszi azok küldõjét és címzettjét, még a titkosszolgálatok vagy más kormányzati, nemzetbiztonsági szervezetek számára is.
+
+A SmallMail a felhasználók névtelenségét biztosító Tor (The onion router) hálózatot használja az üzenet célbajuttatására. Az eredetileg az amerikai haditengeréset által fejlesztett, majd az Electronic Frontier Foundation által felkarolt Tor az önkéntes felhasználók gépein mûködõ proxy szerverekre épülõ hálózat. A hálózatban az adatok véletlenszerû útvonalon utaznak, és egyik csomópont sem ismeri a csomagok teljes útvonalát, csak azt, hogy melyik szomszédos csomóponttól érkeznek az adatok és melyik szomszédnak kell továbbítania õket. 
+
+A SmallMailt az Európai Unió adatmegõrzési irányelveire válaszul kezdték el fejleszteni önkéntesek. Amint az ismert, az Unió elõírja a távközlési és internetszolgáltatóknak, hogy az összes hívás és üzenet adatait õrizzék meg legalább 6 hónapig, nem nem tovább 18 hónapnál. A SmallMail készítõi szerint ez komoly fenyegetést jelent például a tényfeltáró újságírók munkájára, ugyanis a megõrzött adatok alapján felderíthetõ az informátorok kiléte, és elhallgattathatók azok, akik nem a nyilvánosságnak szánt információkt szivárogtatnak ki.
+
+
+ A szoftver persze nem csak a tényfeltáró újságírók munkáját segítheti, hanem bárkiét, aki úgy szeretne levelezni, hogy közben a kiléte titok marad, vagy szeretné üzenetét biztonságban tudni, legyen szó akár vállalatokról vagy kormányzati intézményekrõl. Persze akár terroristák, bûnözõk is válthatnak üzeneteket a SmallMail segítségével, ezeket szintén nem lehet lenyomozni.
+
+Titkosított levelezéshez a küldõnek és a címzettnek is rendelkeznie kell a SmallMail kliensprogrammal, amely egy "láthatlatlan" levelezõszerveren keresztül továbbítja a leveleket. A Small Sister projekt üzemeltet egy ilyen nyilvános levelezõszervert, de a szerver maga is letölthetõ, így bárki beüzemelhet egy ilyet, akinek fontos az, hogy úgy tudjon üzeneteket váltani valakivel, hogy ahhoz garantáltan senki ne férhessen hozzá. A Pythonban írt kliens egyelõre Linuxon futó változatban tölthetõ le, a projekt fejlesztõket keres, hogy a szoftvert Windowsra és Mac OS X-re is elkészítsék.

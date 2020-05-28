@@ -1,0 +1,12 @@
+Jövõ tavasszal jelenik meg az Internet Explorer 8
+
+Az Internet Explorer fejlesztõinek hivatalos blogjában olvasható információk szerint a Microsoft új böngészõjének 2009 elsõ negyedévében jelenik meg a kiadásra jelölt (RC) változata, ez alapján valószínûsíthetõ, hogy a végleges verzió legkésõbb a nyár elején megérkezik.
+
+
+
+Az Internet Explorer 7 esetében az RC és a végleges verzió megjelenése között kevesebb mint két hónap telt csak el. Az Internet Explorer 8 RC-jét minden tekintetben "véglegesre" tervezi a Microsoft, és arra biztatja a webfejlesztõket, hogy az oldalaikat és kódjaikat azonnal kezdjék majd el tesztelni a kiadásra jelölt változattal, hogy biztosítsák a kompatibilitást. Dean Hachamovitch, az Internet Explorer programmenedzsere ugyanakkor vonakodott attól, hogy pontos megjelenési dátumot hozzon nyilvánosságra.
+
+
+ Az Internet Explorer 8 jelenleg a második bétánál tart, ezt az augusztusban kiadott verziót bárki letöltheti és kipróbálhatja, szeptember közepe óta magyarul is elérhetõ. Az IE8 fõleg a használhatóság és a biztonság terén hoz újdonságokat, de a webes szabványok támogatása is sokat fejlõdött, aminek eredményeképp a böngészõ lényegében az összes standarddal kompatibilis. Emellett a fejlesztõk nagy hangsúlyt fektettek a sebességre is, amely miatt az Internet Explorer 7-et sok kritika érte.
+
+Az augusztus 27-én kiadott Beta 2 verzió funkcionalitását tekintve már végleges változat, új elemek tehát nem kerülnek a böngészõbe a fejlesztéskor, csupán a hibák javítása van már hátra. A szoftver végfelhasználók számára kínált legfontosabb újdonságait bemutató cikkeink itt és itt olvashatók, ebbõl az anyagból pedig kiderül, a rendszergazdák számára milyen újdonságokat kínál majd az Internet Explorer 8.

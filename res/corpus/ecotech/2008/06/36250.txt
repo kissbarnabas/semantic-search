@@ -1,0 +1,24 @@
+Az EU versenyügyi fõbiztosa a nyílt szabványok mellett foglalt állást
+
+Neelie Kroes, az Európai Bizottság versenyügyi fõbiztosa egy tegnapi beszédében a nyílt szabványokra épülõ szoftverek elõnyeire igyekezett felhívni a kormányzati szervek és vállalkozások figyelmét.  
+
+
+
+"A demokrácia alapja"
+
+"A szabványok fontosabbak mint valaha" -- mondta Kroes egy brüsszeli konferencián, amelyet a nyílt forrású szoftvereket támogató OpenForum Europe rendezett. "Az elektronikus távközlési hálózatok fejlõdésével egyre nõ az interoperábilitás fontossága a felhasznált eszközök között, a nyújtott szolgáltatások között, az átvitt adatok között. Az interoperábilitás teremti meg a technológiai verseny alapját, miközben megakadályozza a "bezáródást" (lock-in). A szabványok pedig az interoperábilitás alapjai."
+
+Kroes úgy véli, a nyílt szabványok mellé állni nem csak gazdasági döntés, hanem a demokrácia megteremtésének alapja is egyben. "Ha van nyílt alternatíva, egyetlen lakost vagy vállalatot sem lehet arra kényszeríteni vagy bátorítani, hogy egy adott céghez kötõdõ technológiát használjon a kormányzati információk elérésére. Egyetlen lakost vagy vállalatot sem szabad arra kényszeríteni vagy bátorítani, hogy zárt technológiát válasszon a nyílttal szemben" -- fogalmazott Kroes.
+
+"A nyílt szabványok mellé állni okos döntés"
+
+
+ A versenyügyi fõbiztos beszédében kiemelte azokat az európai kezdeményezéseket, amelyek keretében kormányzati szervezetek nyílt forrású szoftverekre álltak át. Kroes példaként említette a müncheni önkormányzatot, ahol 14 ezer PC-t állítottak át Windowsról és Microsoft Office-ról Debian Linuxra és OpenOffice-ra, a német külügyminisztériumot, valamint a francia csendõrséget. A holland Kroes hozzátette, hogy már szülõhazájában is látszanak erõfeszítések arra nézve, hogy a parlament és a kormány a nyílt szabványok felé mozduljon el.
+
+"Megismerem az okos üzleti döntéseket, és a nyílt szabványok választása egy okos üzleti döntés" -- zárta beszédét Kroes, aki szerint a Bizottság a jövõbeli IT-fejlesztéseknél és beszerzéseknél a nyílt szabványokon alapuló megoldások mellé fog állni, és szerinte a szervezet felelõssége segíteni a vállalatokat, nehogy bezárják magukat egy technológiába. A versenyügyi fõbiztos úgy véli, a szervezetek nem engedhetik meg maguknak, hogy ezzel elveszítsék az ellenõrzést az általuk birtokolt információk felett.
+
+A Microsoft-ügy
+
+Beszédében Kroes nem felejtette el ostorozni a Microsoftot, bár nevén nem említette a redmondi céget. "Még soha korábban nem fordult elõ, hogy versenytörvények megsértése miatt többször is bírságot kelljen kiszabni egy cégre" -- mondta a versenyügyi biztos arra utalva, hogy a szoftveróriást már többször is megbüntette az Európai Bizottság, a bírságok összesen 1,68 milliárd euróra rúgnak. Februárban rekordméretû, 899 milló eurós büntetést szabott ki Kroes a redmondiakra, miután azt találta, hogy a cég nem engedelmeskedett a korábbi ítéletekben rá kirótt kötelezettségeknek. A Microsoft májusban fellebbezett az ügyben.
+
+A Microsoft az újabb büntetés elõtti héten jelentette be, hogy elérhetõvé teszi a széles körben használt szoftvereinek kommunikációs protokolljait és alkalmazásprogramozási interfészeit. A redmondi vállalat több mint 30 ezer oldalnyi dokumentációt hoz nyilvánosságra, emellett azt ígérte, a jövõben nagyobb hangsúlyt fektet a nyílt szabványok támogatására, és szorosabban együttmûködik a nyílt forrású közösséggel. Azóta a cég bejelentette, hogy az Office 2007 a második javítócsomaggal OpenDocument Format (ODF) és PDF-támogtást is kap. Az SP2 telepítése után az Office 2007-ben alapértelmezetté is tehetõ az ODF formátum használata.

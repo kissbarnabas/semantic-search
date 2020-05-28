@@ -1,0 +1,18 @@
+Toshiba Qosmio notesz négymagos Core 2 Extreme és Cell processzorral
+
+A Toshiba belejentette Qosmio sorozatának legtetejére pozícionált új G55 noteszgépét, mely Intel processzora mellett a PlayStation 3 központi egységének módosított változatát alkalmazza a videofeldolgozó alkalmazások  gyorsítására.
+
+
+
+A Qosmio G55 az elsõ olyan notesz, amely az általánosan alkalmazott processzor mellett egy speciális média-koprocesszort is alkalmaz a számításigényes feladatok gyorsításának érdekében. Ez a segédprocesszor a Toshiba, a Sony és az IBM közös fejleszésének eredménye, a PlayStation 3-ban, számos szuperszámítógépben, illetve az IBM blade szervereiben is alkalmazott Cell lapka, pontosabban annak módosított, négymagos változata, amelyet a Qosmio G55-ben Quad Core HD processzornak neveznek.
+
+A G55 fejlesztését az olcsóbbá váló HD kamerák indokolták. Az egyre szélesebb körben elérhetõ felvevõk által rögzített anyagok feldolgozása idõigényes feladat, ennek meggyorsítása volt a Toshiba elsõdleges célja a notesszel, amely -- a gyártó állítása szerint -- egy tipikus, egy gigabájtos állomány esetén tíz perc alatt is végezhet a hétköznapi, ám Cell processzort nem alkalmazó PC hatvan perces munkájával. A Qoasmióban a Cell chipsegédprocesszor 1,5 gigahertzen üzemel, benne négy mag dolgozik aktívan, eközben mindössze 10-20 wattot fogyaszt.
+
+
+  Az új Qosmio az Acer Gemstone Blue sorozata után a második, amely 18,4 hüvelykes, 16:9 képarányú, 1920x1080 képpontos kijelzõt használ, amelyet a G55-ben NVIDIA GeForce 9600M GT videochip hajt meg. A burkolat alá a 2.1 csatornás hangrendszert a neves Harmann Kardon szállítja. A választható optikai meghajtóról a bejelentés során nem tettek említést, a beépített merevlemez azonban 500 gigabájt kapacitású.
+
+
+
+A Toshiba a G55 mellett további két Qosmio noteszrõl is tett említést, melyek azonban nélkülözik a G55 kivételes jellemzõjét. Az F55 15,4 hüvelykes kijelzõvel rendelkezik, ezt GeForce 9700M GTS lapka fogja munkára, de a további részleteket egyelõre homály fedi, azokat a gyártó még nem ismertette. Azt azonban elmondta, hogy az F55-ben lesz GPS vevõegység, mely az elõtelepített Garmin navigációs szoftverrel tervezhet útvonalat.
+
+A harmadik Qosmio, az X305 vérbeli asztaligép-helyettesítõnek ígérkezik, 17 hüvelykes kijelzõje és GeForce 9800M GTX videokártyája lesz, és két darab 200 gigabájtos merevlemez alkothat benne akár RAID háttértárat is. A Toshiba a három újdonságot a Centrino 2 platform augusztus elejére halasztott bejelentésétõl szállítja, egyelõre nem ismertetett árakon.

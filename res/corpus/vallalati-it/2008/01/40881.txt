@@ -1,0 +1,57 @@
+Beszélgetés Marten Mickossal, a MySQL vezérével
+
+A Sun Microsystems január 16-án váratlanul bejelentette, hogy 1 milliárd dollárért felvásárolja a nyílt forráskódú adatbázis-kezelõjérõl ismert svéd MySQL AB-t. A tranzakcióval a Sun belépett az évi 18 milliárd dollárosra taksált adatbázispiacra, ahol az Oracle, az IBM és a Microsoft verseng. A bejelentés kapcsán megkerestük Marten Mickost, a MySQL elnök-vezérigazgatóját, aki e-mailben válaszolt a HWSW és a HUP olvasóinak kérdéseire.
+
+HWSW:A MySQL a legnépszerûbb nyílt forráskódú relációs adatbázis-kezelõ szoftverré vált. Mi a siker kulcsa? Mi különbözteti meg a MySQL-t a többi nyílt forráskódú adatbázis szoftvertõl?
+
+Marten Mickos: Eleinte az egyszerû összpontosítás az internet úttörõire. A MySQL csapata minden felhasználói levélre válaszolt, gyakran frissítették a dokumentációt, de mindenekelõtt garantálták, hogy a MySQL kevesebb mint 15 perc alatt letölthetõ és telepíthetõ legyen. Lényegében tehát biztosítottuk, hogy nagyon kevés akadály álljon az adoptáció elõtt. Akkoriban a MySQL nem rendelkezett mindazokkal a képességekkel, melyekkel más nyílt forráskódú adatbázisok, de szenvedélyesen szolgáltuk ki az úttörõ felhasználókat.
+
+És ezt követõen folyamatosan javítottuk a terméket, mindig az online alkalmazásokra fókuszálva, semmint a régi offline kliens-szerver felhasználásra.
+
+HWSW: Néhány évvel ezelõtt elutasították az Oracle ajánlatát, de most elfogadták a Sunét. Miért nem sikerült az Oracle akvizíciója, és miért mondtak igent a Sunnak? Milyen extra értéket tud a Sun magával hozni? Fejlesztési, marketing és támogatási erõforrásokról van szó, vagy vertikális termékintegrációról?
+
+Marten Mickos: Egy független jövõre koncentráltunk mindig is, és hogy tõzsdére vonuljunk. Így tehát néhány vállalatot diplomatikusan elutasítottunk.
+
+De mikor a Sun 2007 végén megkeresett minket, egyszeriben rájöttünk, mennyire fantasztikusan illeszkedik a két vállalat egymáshoz. Mindenekelõtt nagyon sokra becsüljük a Sun elnök-vezérigazgatóját, Jonathan Schwartzot, aki megváltoztatta a Sun stratégiáját, és egy izgalmas növekedés pályára állította a vállalatot.
+
+A Sun a szabad és nyílt forráskódú szoftverek legerõsebb támogatójává lépett elõ. Partnerségre léptek olyan vállalatokkal, melyeket hagyományosan versenytársaknak tartottak. És mindig a hálózatos világra összpontosítottak -- éppen úgy, ahogyan a MySQL. Így tehát ezen okok miatt úgy döntöttünk, párbeszédbe kezdünk velük. Beszélgetéseink során kiváló technológiai szinergiákat találtunk, hatalmas piaci lehetõségeket egy óriási értékesítési csatornával, és egy olyan vállalati kultúrát, mely a miénkhez hasonló. További okok is voltak. Hirtelen világossá vált számunkra, hogy ez olyan lehet, mint egy tõzsdei bevezetés, csak még jobb.  
+
+
+
+HWSW: Miért döntöttek a vállalat eladása mellett a tõzsdére vonulással szemben? Nem gondolják, hogy a tõzsdei részvénytársasággá válás több pénzt hozhatott volna hosszú távon?
+
+Marten Mickos: Dehogynem. Hiszem, hogy ha tõzsdére mentünk volna, az értékünk roppant mód emelkedett volna a következõ évek során. De azt gondolom, ez az érték ennél is gyorsabban fog nõni a Sun részeként. Az álmunk az, hogy egy adatbázis-üzletet építsünk ki dollármilliárdos éves bevétellel, és úgy gondoljuk, felgyorsítottuk ezt az utat. 
+
+HWSW: Nem fog ez az ügylet érdekkonfliktust eredményezni rivális szerver-, middleware- és alkalmazásszállítókkal, és csökkenteni a piaci lehetõségeket? Nem kellett volna a MySQL-nek megõriznie a függetlenségét, és a horizontális terjeszkedésre összpontosítania?
+
+Marten Mickos: Jó kérdés. Az elõbb említettem, hogy kritikusan fontos volt számunkra a Sun azon kijelentését hallani, hogy minden hardveren, minden operációs rendszeren, és minden fejlesztési nyelven fejleszteni akarják az üzletet. Ez egy új és friss része a Sun stratégiájának. Így azt hiszem, nem lesz ilyen konfliktus. 
+
+HWSW: Mit jelent az akvizíció egy MySQL-felhasználó számára? Lesznek nagyobb, õket érintõ változások?
+
+Marten Mickos: Igen, gyorsabb technológiai fejlõdés várható, kiterjedtebb szolgáltatási kínálat, és lehetõség más Sun termékek megvásárlására is! Azok felé pedig, akik elégedettek azzal, ahogyan a dolgok most állnak, elkötelezettek vagyunk, hogy továbbra is legalább olyan jól kiszolgáljuk õket, mint eddig.
+
+HWSW: Mit gondol, hogyan fogadja a MySQL-közösség az ügyletet?
+
+Marten Mickos: Úgy tûnik, ez a hír nagyon jó fogadtatásra talált. A Sun olyannyira elkötelezett a szabad és nyílt forráskódú szoftverek irányában, és olyan sok nagyszerû technológiájuk van, hogy ez jó hír felhasználóink többsége számára.
+
+Természetesen mindig vannak olyanok, akik ellene vannak bárminek, ami történik, de így mûködik a nyílt forráskódú világ. Nem lehetsz nagyon népszerû úgy, hogy ne legyen néhány panaszkodó csoport. Ezek a panaszok nagyon hasznosak tudnak lenni, mert többnyire jó ötleteket tartalmaznak a fejlõdéshez :-).
+
+Végeredményben a tetteink döntik majd el, a közösség hogyan reagál. Szükségtelen mondani, továbbra is a szabad és nyílt forrású szoftverekre koncentrálunk, és felhasználóinkkal együtt igyekszünk innoválni olyan gyorsan, ahogyan csak tudunk.
+
+	     
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                    A cikk több oldalból áll:
+                    
+                    
+                        1. oldal: Beszélgetés Marten Mickossal, a MySQL vezérével
+                      
+                        2. oldal: A Nap alatt
+                        
+                    
+                  

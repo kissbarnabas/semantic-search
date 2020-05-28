@@ -1,0 +1,24 @@
+Magyar cégek az OpenDocument Format mellett
+
+Hivatalosan is bejelentette megalakulását az Open Document Format Alliance magyar tagozata. A szervezetet olyan vállalatok hozták létre, amelyek az OpenDocument Format (ODF) dokumentumformátum terjedését szeretnék látni, elsõsorban a kormányzati szférában. Az ODF Alliance-nek Magyarországon olyan tagjai vannak, mint az IBM és a Sun Microsystems magyar leányvállalata, a Red Hat disztribúcióját ellátó ULX, a MultiRáció, a Linux Ipari Szövetség, a Budapesti Közép Európai Egyetem, vagy a BalaBit.
+
+
+
+ODF mellett, Office Open XML ellen
+
+Ivacs Gabriella, az ODF Alliance magyar tagozatának elnöke, "civilben" a Budapesi Közép Európai Egyetem levéltárosa és történésze elmondta, a szervezet célja az ODF melletti lobbizás, rendezvények, konferenciák szervezése, ahol az érdekeltek megtudhatják, miért is kritikus fontosságú az adatok megõrzése szempontjából egy nyílt, szabványos dokumentumformátum használata. Jelenleg egyetlen ilyen létezik, az ODF, a rivális Microsoft Office Open XML szabvánnyá emelésérõl a napokban döntenek az ISO tagországai.
+
+
+Amint arról lapunk is beszámolt, a Magyar Szabványügyi Testület illetékes bizottságának (MB 819) munkáját az IBM ellehetetlenítette, így hazánk nem szavazott, ezzel kizárta magát a szabványosítás további folyamatából, nem küldhet tehát megjegyzéseket, kérdéseket, javaslatokat sem. A sajtótájékoztatón szóba kerültek a szavazással kapcsolatos anomáliák, Ivacs Gabriella szerint bizonyítékok vannak arra nézve, hogy a Microsoft megfenyegette, "felvásárolta" a kisebb országokban a szabványosításról döntõ szervezeteket, illetve azok tagjait.
+
+Balsai Péter, az ODFA hazai tagozatának elnökségi tagja azt állította, a szervezet üdvözölné egy másik nyílt, szabványos dokumentumformátum megjelenését -- ez a vélemény egyébként nem esik egybe magának az ODF Alliance-nek az álláspontjával sem, legalábbis a szervezet honlapján kifejtik, miért is lenne kívánatos mindössze egyetlen, ISO-szabványos formátum. Az ODF Alliance-et képviselõ egybegyûltek meggyõzõdése, hogy a Microsoft-féle OOXML-t az ISO a jelenleg folyó gyorsított eljárás keretén belül nem is fogja szabványosítani, mivel túl bonyolult, ellentmondásos, nehezen vagy egyáltalán nem implementálható, holott egy szabványnak egyszerûnek kellene lennie -- fejtette ki Banai Miklós (az OOXML szabvány mintegy 6 ezer oldalas, az ODF csak 800).
+
+Office vagy OpenOffice?
+
+Az ODF és az OOXML csatája csak a jéghegy csúcsa, a kérdés inkább az, hogy az üzleti szereplõk és a kormányzati hivatalok továbbra is Microsoft fejõstehenét, az Office-t fogják vásárolni és használni, vagy alternatív megoldásokat keresnek, például az ingyenes OpenOffice-t. Utóbbira egyébként már Magyarországon is számos példa van, a Fõvárosi Bíróság másfélezer PC-n használ OpenOffice-t, a szegedi polgármesteri hivatal pedig több mint 500 gépre telepítette a nyílt forrású, ingyenes irodai csomagot.
+
+Banai Miklós egy, az IT-Businessben megjelent felmérésre hivatkozva azt mondta, hazánkban az irodai szoftverek körében mintegy 16 százalékos befolyással bír az OpenOffice.org, illetve annak "leszármazottai" (pl. StarOffice, OxygenOffice, MagyarOffice), és a kormányzati intézményekben is szépen terjed már, annak ellenére, hogy az állam egyértelmûen a Microsoft termékeit preferálja például a közbeszerzésben. Szentiványi Gábor szerint ez a gyakorlat ráadásul törvénytelen is, az EU ugyanis világosan kimondja, hogy a közbeszerzést funkciókra kell kiírni, nem termékekre.
+
+Véleménye van?
+szóljon hozzá a fórumban
+írjon szerkesztõségünknek!

@@ -1,0 +1,12 @@
+Letölthetõ Informatika Tisztán elõadások
+
+[HUP] Elérhetõvé tette az Informatika Tisztán második õszi rendezvényének anyagát a Microsoft. Az októberi esemény a biztonság kérdésével foglalkozott, és a szakemberek számára alapvetõ témákat igyekeztek tárgyalni az elõadók. Nemrég egy PowerShell tankönyvet is ingyenesen letölthetõvé tett a cég, ezzel is segítve a rendszergazdák népes táborának képzését.
+
+
+
+A rendezvény négy elõadásában a windowsos rendszerek hozzáférés-szabályozását, a Windows Server 2008 Network Access Protection funkcióját, valamint az Internet Security and Acceleration Server 2006 képességeirõl eset szó. A Technet Portálról letölthetõek az elõadások prezentációi és videofelvételek is az egyes elõadások tematikus felbontásában. 
+
+A tavaly õsszel elindított Informatika Tisztán rendezvénysorozat célja az, hogy a gyakorló rendszergazdák, illetve rendszergazdának készülõ diákok naprakész ismereteket kapjanak a Microsoft legújabb, de már piacon levõ technológiáiból, így a megszerzett tudás azonnal kamatoztatható. A tavaly õszi "szemeszterben" az infrastruktúra-szoftverek voltak terítéken, a tavaszi "félévben" a csoportmunka és a kommunikáció került a középpontba. Idén szeptemberben a Vista rejtelmeivel, a biztonsággal és a távoli eléréssel foglalkoztak a rendezvények.
+
+
+A Microsoft egyúttal nemrég letölthetõvé tette a TechNet gondozásában megjelent PowerShell tankönyvet is. A PDF-ként elérhetõ anyag a PowerShell 1.0 parancssoros környezet képességeit tárgyalja 405 oldal terjedelemben.

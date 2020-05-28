@@ -1,0 +1,14 @@
+Új védelem CAPTCHA helyett: HumanPresent
+
+A Pramana nevû cég új alkalmazásának célja a CAPTCHA-törõ spammerek megállítása, megzavarása, de egyéb területeken is hasznosnak bizonyulhat a fejlesztés. A 2007-ben, a Georgia Institute of Technology's College of Computingon alapított cég öt jelentõs piacot jelöl meg, ahol hatékony lehet: pénzügyi szolgáltatások, online játék, szerencsejáték, webes levelezés, illetve a közösségi hálózatok. Ezeken a területeken az elmúlt években mindenhol elkeseredett harcot vívtak a szereplõk a botnetekkel, amelyek reklámokkal szórták tele a szolgáltatásokat.
+Észreveszi ki az ember
+A HumanPresent által létrehozott JavaScript alkalmazás mindent rögzít, ami kapcsolatos lehet az emberi viselkedéssel, például a különbözõ cselekvések közt eltelt idõt, az egérmozgást, a kattintások szabályszerûségét és minden egyéb viselkedésmintát, ami mérhetõ. David Crowner, a Pramana vezetõje büszke az algoritmusra, külön kiemeli, hogy az értékelést végzõ programot már öt éve fejlesztik. Ennyi idõ alatt sikerült egy olyan, továbbra is rendszeresen frissített, heurisztikus adatbázist létrehozni, mellyel folyamatosan követhetõ a botnetek fejlõdése is. Amennyiben a megoldás hosszútávon is beválna, a kocka megfordulhatna, s az eddigiekkel ellentétben a szolgáltatók lehetnének mindig egy lépés elõnyben a botnetekkel szemben.
+
+A spammerek számára a CAPTCHA-törés óriási üzlet lett, milliószám regisztrálják be az ingyenes postafiókokat, illetve jelennek meg a közösségi szolgáltatásokban a botok. A spamküldés továbbra is jó üzlet, s továbbra sincs hatékony védelem ellene. Az egyre kifinomultabb technológiákkal még a legjobban tréningezett levélszûrõkön is átesik néhány reklám, és továbbra is bedõlnek emberek, tehát a piac mûködik akadálymentesen, ennek tenne keresztbe a HumanPresent.
+Egyszerû és észrevétlen
+Más termékekkel ellentétben a Pranama HumanPresent nem a botok aktivitását vizsgálná, hanem megfigyelné a felhasználó tevékenységét a kezdetektõl a session végéig, s a gyûjtött adatok alapján érvényesítené vagy tiltaná le az adott próbálkozást. Az adatgyûjtésért a beágyazott API-ként mûködõ megoldás felelne, ami a felhasználó számára teljesen észrevétlen maradna.
+Amikor a weboldal felé egy kérés érkezik, a Pramana védelme egy JavaScript-csomagot küld ki, melyekben a Turing-teszthez szükséges érzékelõk vannak beágyazva. Amint a felhasználó megadta a szükséges adatokat, mondjuk a regisztrációhoz, az adatok és a teszt visszajut a Pramana szerverére, ahol egy algoritmus vizsgálja meg, hogy valóban ember töltötte-e ki a lapot.	     
+                  
+                  
+                  
+                   

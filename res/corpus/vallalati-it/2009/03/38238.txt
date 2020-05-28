@@ -1,0 +1,16 @@
+Jönnek az AMD 40 nanométeres mobil grafikus processzorai
+
+A CeBIT kezdetén az NVIDIA legnagyobb -- és egyetlen -- riválisa, az AMD is elõrukkolt új, mobil felhasználásra szánt grafikus megoldásaival. A Mobility Radeon család legújabb tagjai, a Mobility Radeon HD 4860 és 4830  teljesítményben ugyan nem veszik fel a versenyt a jelenlegi leggyorsabb típussal, a Mobility Radeon HD 4870-nel, ugyanakkor ezek az elsõ GPU-k a cég választékában, egyben a világpiacon, melyek 40 nanométeres gyártástechnológiával készültek.
+
+
+
+A most bemutatott két típus közül a gyorsabb, Mobility Radeon HD 4860 típus az 55 nanométeres gyártástechnológiával készült HD 4850 közvetlen utódja vagy helyettesítõje lehet, az alkalmazott architektúrán nem változtatott a gyártó. Az új chip a fejlettebb gyártástechnológiának köszönhetõen közel azonos tranzisztorszám (856 millió és 826 millió) mellett kisebb, kevesebbet fogyaszt és kevesebb hõt is termel, ezzel együtt a megnövekedett órajelnek köszönhetõen az AMD állítása szerint nagyjából 10 százalékkal gyorsabb elõdjénél -- annak ellenére, hogy kevesebb feldolgozóegységbõl áll.
+
+ATI Mobility Radeon HD 4860
+
+
+ A 640 stream processzorból felépülõ Mobility Radeon HD 4860 650 MHz-en ketyeg, mellé maximum 64 gigabájt/másodpeces sávszélességet biztosító GDDR5-memória kapcsolható 128 bites buszon. Ezzel a Radeon HD 4860 számottevõen túlteljesíti az elõdöt, mely GDDR3 memóriákkal maximum 57,6 GB/másodperces teljesítményt képes kisajtolni magából.
+
+A kisebb testvér, a Mobility Radeon HD 4830 ugyanazt a grafikus magot kapja mint az erõsebb típus, az órajelet ugyanakkor 450 vagy 600 MHz-re mérsékli a gyártó, attól függõen, hogy GDDR3 vagy DDR3 memória kerül a chip mellé (elõbbi 800, utóbbi 900 MHz-en ketyeg). Az újdonságok egyes régebbi modellekhez hasonlóan megkapják az ATI második generációs hardveres videodekóder-technológiáját, a HD-s anyagok dekódolását segítõ UVD 2-t, akár párban is munkára foghatók (CrossFireX), valamint immár nemcsak HDMI, hanem DisplayPort kimenetükön is támogatják a térhatású hang továbbítását.
+
+Az AMD új Mobility Radeonjai a második negyedévben jelennek meg az ismert gyártók, ODM-ek noteszgépeiben. A mostani frissítés utáni jelentõsebb, architekturális szinten is változásokat hozó termékbõvítés a HWSW információi szerint õszre, az iskolakezdési szezon után várható.

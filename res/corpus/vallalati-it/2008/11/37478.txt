@@ -1,0 +1,28 @@
+Lemossa a pályáról a négymagos Xeonokat a Shanghai
+
+Elkezdtek szállingózni a Shanghai-alapú szerverek üzleti alkalmazásokat szimuláló mérési eredményei, fõként a HP berkeibõl. Az új Opteronok remeklése végre feledtetheti a Barcelonához fûzõdõ rossz emlékeket. A négymagos szerverchip a kereskedelmi kódok többségében maga mögé utasítja az Intel Xeonokat, melyek a szûkös adatbuszok végein éheznek.
+
+
+
+Egy négymagos Xeon nem ellenfél
+
+A négymagos Shanghai (Opteron 2384, 2,7 GHz) tranzakcionális (OLTP) feldolgozási teljesítménye állva hagyja elõdjét és az Intel Tigertont (Xeon X7350) is, de a hatmagos Dunningtonnal (Xeon X7460) szemben sincs szégyenkezni valója. Az iparági sztendrednek számító TPC-C alatt, négyutas HP ProLiant DL580 G5 és DL585 G5 konfigurációkban a Shanghai a Barcelonával szemben 23 százalékkal nagyobb teljesítményt ért el, azonos fogyasztási keretbõl pedig 44 százalékkal többet, miközben a Tigertont 42 százalékkal utasította maga mögé. Egyedül az Intel hatmagos szörnyetegét, a Dunningtont nem tudta felülmúlni, a hátránya azonban 10 százalékon belüli -- a xeonos rendszerek ráadásul jóval drágábbak, így ár/teljesítmény mutatóban a Shanghai kerül ki gyõztesen, minden esetben.
+
+ 
+
+Az SAP Sales & Distribution benchmarkjában, mely szintén OLTP kód, a Shanghai egy kétutas ProLiant DL385 G5 rendszerben 31 százalékkal több, 2752 felhasználót szolgált ki, mint egy 2,3 gigahertzes Barcelona, és közel 10 százalékkal többet, mint az Intel Xeon X5470 (3,33 GHz), azaz Harpertown. Négyutas SAP-mérést egyelõre nem publikáltak a szerverszállítók, nyolcfoglalatos kiépítésben viszont a Shanghai ismét megveri a Tigertont, ezúttal azonban mindössze 7 százalékkal: 7100 felhasználót bír el, szemben a drágább és nagyobb fogyasztású Xeon X7350 6615 userével. 
+
+Az Oracle E-Business Suite 11i Medium Model 3000 ezer szimulált felhasználóját 18 százalékkal alacsonyabb átlagos válaszidõvel szolgálja ki egy négyutas Shanghai-ra épülõ szerver mint egy Tigerton-alapú, és hasonló rekacióidõt ad egy Dunningtonnal. Számlafeldolgozási és bérszámfejtési sebessége 33 és 40 százalékkal magasabb a Tigertonnál, és enyhén felülmúlja a Dunningtont. A döntéstámogatást modellezõ TPC-H alatt kevés friss mérési eredmény áll rendelkezésre, a nyolcutas rendszerben a Shanghaijal szerelt ProLiant DL785 G5  25 százalékkal ad le nagyobb teljesítményt mint a tigertonos IBM System x3950 M2. 
+
+
+Az üzleti célú szerveralkalmazásoknál maradva, az eddigi egyetlen sztenderd virtualizációs benchmark, a VMark alatt a Shanghai 20 százalékkal nagyobb teljesítményt mutat a Harpertownnál, míg négyfoglalatos rendszerben gyakorlatilag lemossa a Tigertonokat a pályáról, több mint 40 százalékkal nagyobb virtualizációs teljesítményt mutatva, de maga mögött képes tartani a hatmagos Dunningtont is. A Shanghai nemcsak azt mutatja meg, hogy milyennek kellett volna lennie a hatalmas fiaskóvá vált Barcelonának, de rávilágít arra is, mennyire elõremutató és idõtálló a 2003-ban bevezetett rendszerarchitektúra, mely az Intel buszrendszerével szemben ellensúlyozni tudja a Xeonok mikroarchitekturális fölényét.
+
+Az év szerverprocesszora: AMD Shanghai!
+
+Ahányféle kód, annyiféle relatív teljesítmény, az azonban egyértelmûen látható, hogy az AMD új, magasabb órajelû és megháromszorozott L3 tárral rendelkezõ Opteronjai drasztikus elõrelépést jelentenek, és könnyedén felveszik a küzdelmet, sõt többnyire jelentõsen maguk mögé is utasítják a négymagos Intel Xeonokat. A hatmagos Dunningtonnal szemben már vegyes a kép, az összevetés ugyanakkor nem fair, a Shanghai ugyanis jóval kevesebbet fogyaszt. A teljesítményéhes felhasználók számára az AMD magasabb, 125 wattos fogyasztási osztályba esõ Shanghaiokat dob piacra a következõ hónapok során, melyek órajele 2,8-3 gigahertz lehet.
+
+Az Opteron-szerverek alacsonyabb beszerzési és üzemeltetési (fogyasztás, hûtés) költsége azonban sok ügyfél számára valószínûleg döntõ elsõbbséget élvez majd az esetenként extra teljesítménnyel és a Xeon MP rendszerekre jellemzõ néhány extra RAS-képességgel szemben. A Xeon-rendszerekre jellemzõ FB-DIMM-ek használata magas memóriakapacitás mellett ugyanis drámaian megnöveli a fogyasztást, ezen keresztül pedig a hûtõrendszer terhelését, végeredményben sokkal magasabb energiaköltséget produkálva, ráadásul a DDR2-moduloknál kétszer drágábbak.
+
+[+]  Elrajtolt az AMD Shanghai
+
+Bár a Shanghai több mint versenyképes az Intel Xeonokkal szemben, az AMD mégsem erre helyezi a hangsúlyt. Néhány hónap múlva piacra kerülnek ugyanis a Nehalemre épülõ Xeonok, melyekkel szemben esélytelennek tûnik a Shanghai, ha puszta teljesítményrõl van szó. A kisebbik chipgyártó szerint ezzel szemben az opteronos szerverek viszonylag olcsó és kockázatmentes fejleszthetõségét helyezi elõtérbe, a 2006 nyarán debütált  Socket F infrastruktúra életciklusa 2010-be nyúlik, és az egy év múlva megjelenõ hatmagos Istanbulokat is fogadja majd. A Nehalem ráadásul sokkal drágább DDR3-memóriamodulokat követel meg, ami a nagy memóriakapacitású konfigurációk esetében a következõ negyedévek során ugyan egyre olvadó, de jelentõs költségbeli elõnyt jelent az AMD-platform számára.

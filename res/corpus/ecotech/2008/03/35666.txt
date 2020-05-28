@@ -1,0 +1,12 @@
+Nagyvállalatoknál is dinamikusan terjednek a hosztolt alkalmazások
+
+Dinamikusan bõvül a hosztolt szoftvereket alkalmazó nagyvállalatok száma, derül ki a Forrester Research legújabb kutatásából, ugyanakkor még mindig több mint egyharmad az elutasítók aránya. A felmérés arra is rávilágít, hogy nem minden területen egyenletes a modell terjedése. Az IDC becslése szerint 2009-ben a hosztolt alkalmazásokra több mint 10 milliárd dollárt költenek világszerte, ez a modell jelenleg a szoftveripar egyik fõ formáló és húzóereje, vélik a piackutatónál.
+
+
+
+A Forrester Research 2007-es felmérésében több mint ezer európai és észak-amerikai informatikai döntéshozó vett részt, akik ezer fõnél több alkalmazottat foglalkoztató vállalatokat képviseltek. A megkérdezettek 16 százaléka válaszolt úgy, vállalata már használ vagy legalábbis tesztel hosztolt (vagy SaaS, software-as-a-service) alkalmazásokat -- ez 33 százalékkal több egy évvel korában mértnél. A válaszadók 46 százaléka tervezi a bevezetést, míg az érdeklõdést nem mutatók 37 százalékot tesznek ki, ami 4 százalékpontos csökkenés egy év alatt.
+
+A Forrester szerint a SaaS alkalmazása valójában ennél magasabb is lehet, ugyanis a nagyvállalatoknál elõfordul, hogy  kisebb projekteket az egyes üzleti egységek önállóan végeznek el, és ezeknek nincs feltétlenül tudatában a vállalati informatikai felsõvezetõ -- akár az IT-részleg teljes kihagyásával megvalósíthatóak ilyen projektek. Azok, akik preferálják a SaaS-t a hagyományos telepített szoftvermodellekkel szemben a rövidebb implementációs idõt, az alacsonyabb bekerülési költségeket, és a használat alapú számlázást jelölték meg legfõbb elõnyökként. Az elutasítók leginkább interoperabilitási, hosszú távú költségbeli megfontolásokat citáltak, valamint biztonsági és teljesítménybeli aggályaikat fejezték ki.
+
+
+A Forrester megemlíti, hogy az SaaS alkalmazása függ a felhasználási területtõl is. A hosztolt modell leginkább HR, CRM és kollaborációs feladatokra népszerû, és kevésbé használt ERP és SCM területeken. Liz Herbert, a Forrester jelentését összeállító elemzõ megjegyzi, több megkérdezett nyomósabb ok nélkül szkeptikus a hosztolt alkalmazások modelljével szemben. Azok viszont, akik rendelkeznek ilyen megoldásokkal, rugalmasabban alakítják alkalmazásaikat az üzleti igényekhez, miközben nem kell aggódniuk a szoftvertelepítési procedúráktól vagy az elszabaduló licencköltségektõl. "Alacsonyabb kockázatot és gyorsabb megtérülést biztosít" -- kommentálta Herbert.

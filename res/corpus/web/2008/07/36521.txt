@@ -1,0 +1,12 @@
+Már holnap megérkezhet a Firefox 3.1 elsõ elõzetese
+
+Akár már holnap megjelenhet a Mozilla Firefox 3.1 elsõ elõzetese. A böngészõ új változatában azok a funkciók kapnak helyet, amelyeket a Firefox 3 júniusi premierjére már majdnem elkészültek, de végül kimaradtak belõle. Az elõzetes még csak egy alfaváltozat, éles használatra semmiképp sem ajánlott.
+
+
+
+A Firefox 3.1-ben várhatóan továbbfejlesztik a címsort, amelyben az eddigieknél gyorsabban lehet keresni, és törölni is lehet elemeket belõle. Megújul a fülek kezelése is. A Firefox 3.1-ben a Ctrl-Tab kombinációval lehet majd váltogatni a fülek között, és eközben a szoftver elõnézetben megmutatja az egyes fülek tartalmát is, így a felhasználó könnyebben megtalálja azt, amelyiket éppen kereste. Ez egy olyan funkció, amelyet a Firefox 3-ba is szerettek volna beépíteni, de idõhiány miatt végül kimaradt belõle. A Firefox 3.1 a webszaványok támogatása terén is elõrelép.
+
+
+ Mike Schröpfer fejlesztési vezetõ szerint a legtöbb újdnonság már a Firefox 3.0 megjelenésekor is majdnem kész volt, ezért nem várható, hogy a 3.1 készítése elhúzódna. A végleges verzió premierjének ideje egyelõre még nem ismert, nyilván attól függ, hogy az elõzetesekben mennyi hibát találnak a tesztek során. Egészen biztos, hogy az új Firefox még az idén elérhetõ lesz.
+
+A Firefox jelenlegi változatát, a 3.0-t több mint 20 hónapos folyamatos fejlesztés után 2008. június 17-én adta ki a Mozilla Alapítvány. A szoftvert azóta több mint 28 milliószor töltötték le, a SpreadFirefox.com oldal tanúsága szerint a magyar letöltések száma 225 ezer felett jár.

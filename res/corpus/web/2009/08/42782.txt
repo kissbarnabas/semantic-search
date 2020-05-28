@@ -1,0 +1,11 @@
+Jövõ héten érkezik a végleges Opera 10
+
+A norvég Opera Software-nél  az utolsó simításokat végzik a webböngészõn, a program véglegesnek tekinthetõ (vagyis kiadásra jelölt) változata mától érhetõ el a külön az új verziónak létrehozott weboldalon keresztül. A kiadásra jelölt kód nem különbözik lényegesen az eddigi bétáktól, azaz ebbe a verzióba is a Presto renderelõmotor 2.2-es verziója került, mely bizonyos weboldalakat akár 40 százalékkal gyorsabban jelenít meg, mint az Opera kurrens, 9.6-os változata - legalábbis ezt ígéri a fejlesztõcég.
+Az új böngészõ egyik, ha nem a legfontosabb újítása, az Opera Turbo elsõsorban azok életét hivatott megkönnyíteni, akik lassú (jellemzõen EDGE-, vagy GPRS-alapú mobilinternet) kapcsolatot használnak, netán az elõfizetésük forgalmi korlátja miatt szeretnék leszorítani a böngészés adatforgalmát. A Turbo bekapcsolásával az Opera webböngészõ a weboldal teljes megjelenítéséhez szükséges sávszélességet az ígéretek szerint akár 80 százalékkal is csökkenthetik - a böngészõk ilyenkor valójában az Opera saját szerverével kommunikálnak, mely elõre letölti és a tartalom megváltoztatása nélkül tömöríti az oldalakat.
+
+Az Opera 10 további lényeges újdonságai közé tartozik továbbá az áttervezett kezelõfelület, melynek megalkotását ezúttal nem szakmabelire, hanem egy elismert dizájnerre, Jon Hicksre bízták. Az új külsõ egyik fontos eleme az átalakított böngészõfül-kezelés, mely elsõsorban a fülméretek szabályozásában merül ki. Az Opera 10 emellett testre szabhatóbb speed dial funkciót kínál,valamint megjelent az 51 nyelvet támogató, Hunspell-alapú helyesírás-ellenõrzés is a böngészõben.
+Az Opera webböngészõ kiadásra jelölt verziója letölthetõ az Opera Software weboldaláról - a fejlesztõk szeptember elsejére ígérik a végleges változatot. A Windows, Mac és Linux platformokra egyaránt elérhetõ szoftverért nem kell fizetni	     
+                  
+                  
+                  
+                   

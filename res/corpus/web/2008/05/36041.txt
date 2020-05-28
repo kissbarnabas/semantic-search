@@ -1,0 +1,12 @@
+Nyomtatáskor sebezhetõ az Internet Explorer
+
+Aviv Raff izraeli biztonsági szakértõ olyan sebezhetõséget fedezett fel az Internet Explorerben, amelyek kihasználva támadók átvehetik az irányítást az áldozat gépe felett, és onnan adatokat másolhatnak le vagy módosíthatnak, illetve tetszõleges szoftvereket futtathatnak.
+
+
+
+A sérülékenység az Internet Explorer nyomtatási moduljában van. Amint az ismert, a böngészõbõl a weboldalak a rajtuk található összes hivatkozással együtt is kinyomtathatók ("Print Table of Links", magyarul "Hivatkozások táblázatának nyomtatása"). Amikor az IE kinyomtat egy oldalt, egy scripttel elõször létrehoz egy új HTML állományt, ami a nyomtatni kívánt weboldal kódja mellett egy fejlécet, egy láblécet, valamint a hivatkozott oldalak címét tartalmazza. Raff felfedezte, hogy ez a script nem ellenõrzi az URL-eket, és a támadók egy trükkel akár a saját kódjukat is idecsempészhetik, amely a nyomtatást elindító felhasználó jogosultságaival le is fut.
+
+Ez egy sebezhetõ böngészõ
+
+
+A sérülékenység az Internet Explorer 7 mellett az IE8 bétájában is megtalálható, de a korábbi verziók is érintettek lehetnek. A sebezhetõség Windows XP mellett Windows Vistán is veszélyes lehet, amennyiben a User Account Control beállításai ezt lehetõvé teszik. Megfelelõen beállított User Account Cotrol esetében kódfuttatásra nincs lehetõség, de a támadók bizalmas adatokat tulajdoníthatnak el. Raff már tájékoztatta a Microsoftot a problémáról, a redmondiak pedig neki is láttak a javításnak.

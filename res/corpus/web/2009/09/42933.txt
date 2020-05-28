@@ -1,0 +1,19 @@
+Összefogja a közösségi hálózatokat a Centrl helyfüggõ szolgálatása
+
+Az elmúlt hónapokban a a Google mellett a közösségi hálózatok és a kisebb webes szereplõk is komoly lépéseket tettek azért, hogy szolgáltatásaikat helyfüggõvé tegyék. Az Egyesült Államokban már ismert Loopt, Brightkite vagy a Foursquare lényege, hogy a városokban mozogva könnyebben ismerkedhessenek a felhasználók, könnyebben megleljék barátaikat vagy szórakozóhelyeket fedezhessenek fel. A piac viszont még messze nem telített, sõt, egyre nagyobb számban jelennek meg az új, érdekesebbnél érdekesebb megoldások.
+Újabb híd a mobilról a web felé
+A Centrl nevû mobilos alkalmazásra a Techcrunch szerkesztõi hívják fel a figyelmet, s szerintük ez a program egy újabb hidat ver a mobiltelefon-felhasználók és a "nagy" webes világ közé. A szolgáltatás nem válogat a platformok között sem, hisze a Windows Mobile-t leszámítva minden fontos mobilos operációs rendszerre, így iPhone-ra, Androidra, Blackberry-re és Symbianra is elérhetõ. A korábbi verzió már 2008 májusa óta létezik, de a webes alkalmazással csak néhány nappal ezelõtt egészült ki.
+A szolgáltatás erõssége, hogy nem igényel regisztrációt, ugyanis a legtöbb ismert közösségi szolgáltatáson keresztül elérhetõ, s elegendõ bejelentkezni a már meglévõ felhasználói fiókokon keresztül, a kompatibilitási listán a Facebook, MySpace, iGoogle, Friendster, Ning, Hi5, bebo, Orkut, iTimes és a Sonico szerepel. Ezen rendszerek bármelyik felhasználója képes aktívan részt venni a helyi közösségek életében, segíteni másoknak, keresni, kommentálni.
+
+A Centrl alapfunkciója természetesen az, hogy a felhasználó képes megosztani a helyzetét barátaival, csakúgy, mint a Google Latitude esetében, emellett viszont segítségére siethet a többieknek, akik egy éttermet, benzinkutat, boltot vagy bármilyen egyéb helyszínt keresnek a környéken. A Centrl ráadásul rétegekbe rendezi a webes adatbázisokból érkezõ információkat, mint a Yelp, Citysearch vagy a Wikipedia, ezek a rétegek teljességgel integrálva vannak a Centrl közösségi hálózatába, illetve a mobiltelefonos alkalmazásba is.
+All-in
+Egy új pont létrehozása egyszerû: valaki megjelöl egy helyet a térképen, elnevezi, fûz hozzá némi kommentárt, csatol hozzá egy fotót, mellékel egy kapcsolódó linket, s akár Twitteren keresztül közölheti is azt. A Centrl az összehordott információkból létrehoz egy általános profilt, ami kereshetõ lesz a többi felhasználó számára is. Ehhez késõbb lehet csatolni további tartalmakat, így egyfajta közösségi POI-adatbázis jön létre.
+
+
+Ennél is izgalmasabb a helyfüggõ azonnali üzenetküldõ funkció, aminek segítségével az egy adott helyen tartózkodó Centrl-felhasználók valós idõben kommunikálhatnak egymással. A szolgáltatás csoportosítja az egy adott helyen lévõ felhasználókat, attól függetlenül, hogy a mobilos vagy a PC-s kliensen keresztül kapcsolódnak. A felhasználók láthatják egymást a térképen, s egy kattintással beszélgetésbe kezdhetnek, ráadásul ingyenesen.
+Kellenek a userek
+A Centrl sikere a kritikus tömeg elérésén múlik leginkább, hisz amíg csak San Francisco és New York környékén menõ ez a hálózat, addig a világ más részein élõ emberek nem igazán tudnak vele mit kezdeni, kivéve, ha oda látogatnak, s úgy használják, mint egy helyi specialitást. Ha viszont a jelenlegi félmilliós felhasználói szám a mobilos alkalmazás megjelenése miatt megsokszorozódik, akkor létrejöhet egy Google Latitude-ot maga mögé utasító webes, helyfüggõ közösségi megoldás. Térképszolgáltatóként nem meglepõ módon a Centrl is a Google Maps-et használja.	     
+                  
+                  
+                  
+                   

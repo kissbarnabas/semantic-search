@@ -1,0 +1,20 @@
+Letölthetõ a Fedora közösségi Linux-disztribúció legújabb változata
+
+A Red Hat érdekeltségébe tartozó Fedora közösség tegnap bejelentette, hogy elkészült a Linux-disztribúció legújabb, 9-es változata, ami szabadon letölthetõ és terjeszthetõ. Az újdonságok listája elég hosszú, igyekeztünk a legfontosabb fejlesztéseket kiválogatni.
+
+
+
+A Fedora 9 az Anaconda nevû telepítõvel installálható. A disztribúcióba került változat már lehetõséget ad ext2, ext3 vagy akár NTFS partíciók átméretezésére, illetve titkosított partíció létrehozására, valamint arra való telepítésre. Említésre méltó, hogy a disztribúció már ext4 fájlrendszert is támogat, de ez egyelõre nem alapértelmezett, hanem csak választható opció. A csomagok egyszerû kezelését a PackageKit segíti, amely lényegében a Yellow Dog Updaterre húzott grafikus felület. A PackageKit szorosan integrálódik a PolicyKittel, amely lehetõvé teszi, hogy ne egy egész program, csak annak bizonyos komponensei kapjanak magasabb szintû jogosultságot, ezáltal a lehetõ legfinomabban beállíthatók a jogosultságok a szoftverekhez, csökkentve a biztonsági kockázatokat.
+
+Az operációs rendszer felhasználói felületét alapvetõen meghatározza, hogy a desktop környezetet a KDE 4 adja, amely a korábbiakhoz képest jelentõsen megváltozott kinézeten, menükön, ikonokon és hangokon kívül olyan újdonságokat vonultat fel, mint az integrált keresõ, a Phonon kódnevû multimédiás API, vagy a widgetek futtatására alkalmas Plasma keretrendszer. Mindazonáltal a disztribúció része a Gnome 2.22 is -- mindenki kiválaszthatja a neki tetszõ asztali környezetet.
+
+
+
+
+ A Fedora 9-ben természetesen megtalálhatók a legnépszerûbb nyílt forrású asztali alkalmazások legújabb verziói, köztük az OpenOffice.org 2.4, valamint a Firefox 3 beta 5. A csomag része az OpenJDK6 nyílt forrású Java fejlesztési keretrendszer is. A modern Linux-disztribúciók közül a Fedora 9 elsõk között tartalmazza a NetworkManager 0.7-es verzióját, amely már támogatja a mobil szélessávú eszközöket is, így elméletileg semmi akadálya annak, hogy az operációs rendszert egy HSDPA-kártyával ellátott noteszgépen is kényelmesen használhassuk.
+
+Az operációs rendszer egyik figyelemre méltó fejlesztése a FreeIPA, amely a Novell Identity Managerhez vagy a Microsoft Active Directoryhoz hasonló azonosságkezelési megoldás. A FreeIPA már meglevõ komponensekbõl építhetik, az LDAP-implementációja a Fedora Directory Server, az autentikációról és beléptetésrõl a Kerberos 5 gondoskodik, emellett a része a Samba, valamint a FreeRADIUS. A FreeIPA ezeket a komponenseket fogja egybe és teszi egy felületen elérhetõvé, beállíthatóvá, felügyelhetõvé.
+
+
+
+A disztribúció érdekessége, hogy asztali gépekre, notebookokra és szerverekre telepíthetõ változat mellett létezik belõle egy pendrive-on hordozható verzió is. Számos olyan Linux-disztribúció létezik, amely egy pendrive-ról is mûködõképes, a Fedora 9 érdekessége, hogy a beállításokat, adatokat el is menti, vagyis ebbõl a szempontból úgy viselkedik, mint egy telepített operációs rendszer, mégis teljesen hordozható, és semmilyen "nyomot" nem hagy maga után. A tulajdonosnak tehát nincs más dolga, mint az USB-s háttértárat egy tetszõleges x86-os géphez csatlakoztatni, és bootolás után a megszokott környezetben dolgozhat. Az USB-rõl használható verziót Windows alól is létre lehet hozni.

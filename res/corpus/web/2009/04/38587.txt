@@ -1,0 +1,35 @@
+Rákaptak a kis webes szolgáltatók az OpenID-re
+
+Négy évnyi fejlesztés és próbálkozás után úgy tûnik, hogy a közösségi hálózati technológiai szabvány, az OpenID kezd komolyabb sikereket elérni, s megvan az esély arra, hogy általánossá válik a laikus weben is. Továbbra sem játszik komoly szerepet a nagy gigászok életében, de a web peremvidékén megkapaszkodó rétegoldalak számára az OpenID segítségével eljöhet a web 2.0 kánaán.
+
+
+
+Nehezen terjed
+
+Az OpenID mindig is inkább kisebb vállalati oldalak és fogyasztói site-ok körében volt népszerû, de az igazi áttörés hiányzott -- sokszor még azon oldalak látogatói sem használták, amelyek lehetõséget adtak rá. Pedig manapság, amikor az emberek akár tucatnyi különbözõ webes szolgáltatást is használnak napi szinten, hasznos, ha nem kell minden oldalon külön bejelentkezni. A biztonságot is növeli, ha a felhasználók nem tárolják el a számítógépeiken minden site esetében az adatokat. Ha mindenhová be kell jelentkezni, akkor viszont nincs az az ember, aki hajlandó lenne egyesével végigmenni minden nap ezeken, legyen szó bármilyen biztonsági kockázatról.
+
+A felhasználói lustaság, az egyszerûség keresése az OpenID terjedésének egyik gátja, hiszen hiába a közös azonosítás, a gyakorlatban túl bonyolultan mûködött a rendszer. A laikus felhasználó számára pedig ez nem átlátható, nem intuitív, ezért sokan inkább maradtak a régi megoldásoknál és egyenként azonosították magukat minden oldalon. Ha viszont nincsenek egységes azonosítási platformok, akkor a kisebb oldalak nehezen tudják rábírni a látogatókat a bejelentkezésre és a regisztrációhoz kötött aktivitásra.
+
+
+
+
+Hogy mûködik az OpenID? Egyszerûen.
+
+
+Van alternatíva
+
+Az OpenID ötlete abból indult ki, hogy az internetezõk nem szeretnek folyamatosan bejelentkezni mindenhová. Az OpenID lehetõvé teszi az internetezõknek, hogy egy bejelentkezés révén több szolgáltatást, weboldalt érjenek el, szükségtelenné téve a tucatnyi jelszó megjegyzését. Az OpenID egy decentralizált, szabadon felhasználható, nyitott szabvány, amivel kezelhetõ minden felhasználói információ.
+
+Menet közben az is kiderült, hogy a felhasználók azt sem szeretik, ha mindenhol be vannak jelentkezve ugyanazzal az azonosítójukkal. A választás lehetõségét meg kell tartani, s ez az OpenID számára jelent elõnyt. Míg a Facebook Connect és az ahhoz hasonló site-specifikus azonosítók az alapszolgáltatás köré épülnek, addig az OpenID egy egyszerû "funkció", ami könnyedén testreszabható, hogy illeszkedjen bármely webes kezelõfelülethez. Nincs egy közös OpenID felhõ, hanem kapcsolódó szolgáltatások kialakíthatnak egy közös "kertet", megosztva egymás közt a felhasználókat, anélkül, hogy egy óriáshoz kellene csatlakozniuk.
+
+Ráadásul kihívók is akadnak, például a Facebook Connect egyetlen klikkel végzi el az azonosítást egy másik weboldalon is. Bár a Facebook inkább hisz a sokszínûségben, nem akarja a saját megoldását kényszeresen erõltetni, ezért sem volt meglepõ, amikor az amerikai közösségi oldal is csatalkozott az OpenID-hez, csakúgy, mint a Google, a Microsoft, a Yahoo vagy az IBM. Igaz, a legtöbb esetben a folyamat egyirányú, tehát miután valaki bejelentkezett mondjuk a Google fiókjába, akkor OpenID-vel máshol is azonosíthatja magát, de visszafelé nem engedélyezett az átjárás.
+
+Új esély a kicsiknek
+
+Az eredmény pedig magáért beszél a szakértõk szerint, ugyanis a legtöbb helyen, ahol engedélyezték az OpenID-t vagy egy testreszabott változatot vezettek be, érezhetõen növekedett az új regisztrációk és a bejelentkezések száma is. Az OpenID, tehát nem csak a meglévõ felhasználók kényelmét szolgáló eszköz, hanem egy lehetõség ügyfelek, felhasználók könnyebb toborzására is.
+
+A Japan Airlines testreszabott OpenID azonosítást vezetett be, mely a partner autókölcsönzõ és szállásfoglaló oldalakkal osztozott a felhasználókon. Az eredmény: kétszeresére nõtt a partnerektõl érkezõ regisztrációk száma. Az OpenID tehát képes utat törni magának, még akkor is ha a hálózatos terjedés helyett inkább a nagyobb gyûjtõhelyekrõl áramlanak ki a felhasználók. Korábban is sejthetõ volt, hogy a Google vagy a Microsoft nem töri magát az OpenID népszerûsítéséért, de a kis oldalak tízezrei lassan ráébrednek a masszív közösségi háttérben rejlõ lehetõségekre.
+
+1,5 milliárd fiók
+
+Az OpenID Foundation egy nemrégiben kiadott közleménye szerint jelenleg 40 ezer site fogadja el az OpenID azonosítást és a becslések szerint 1,5 milliárd különbözõ fiók érhetõ el ezen keresztül. Amirõl viszont továbbra sincsenek kimutatások, hogy havonta hány ember használja aktívan a szolgáltatást. A réspiacokra célzó szolgáltatások esetében látványos leginkább a külsõ regisztráció szerepe. Ezeken a helyeken viszont korábban nem számolhattak jelentõs felhasználói aktivitással, a jövõben viszont ez a tendencia teljesen megfordulhat, s a mikrotartalmak is bekerülnek a közösségi web vérkeringésébe.

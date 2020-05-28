@@ -1,0 +1,12 @@
+Elérhetõek a magas órajelû négymagos Opteronok is
+
+Hozzáférhetõek a magasabb órajelû négymagos Opteronok is, közölte az AMD, ezzel teljessé vált az áprilisban bejelentette négymagos portfólió. A gyártó az elmúlt két hónap során fokozatosan vezette be a piacra a különféle modelleket, párhuzamos a termelés felfutásával.  
+
+
+
+Az SE jelölésû, a normál 95 wattal szemben 120 wattos elektronikai kerettel rendelkezõ modellek 2,4 (2358 és 8358) és 2,5 gigahertzen (2360 és 8360) futnak, és az AMD a kettõ, négy- vagy többutas rendszereket célozza velük. Az új modellek hamarosan felbukkannak a vezetõ szerverszállítók, a HP, Dell, Sun Microsystems, az IBM és a Fujitsu Siemens kínálatában. Az AMD áprilisi bejelentése óta több hullámban eresztette piacra a javított szilíciumra épülõ négymagos Opteronokat, így nemrég az egyutas rendszerekbe szánt Budapestet is.
+
+
+A csúcskategóriás négymagos Opteron gépek az alacsonyabb órajel ellenére számos területen felveszik a versenyt a leggyorsabb Xeon dobozokkal is, jellemzõen a sávszélesség vagy késleltetésérzékeny szerverfeladatok alatt, mint például a webszerverek, a tranzakcionális üzleti alkalmazások, vagy a sávszélesség-intenzív HPC-kódok, melyek hálásak az AMD Direct Connect rendszerarchitektúrája által biztosította alacsony késleltetéseknek és a magas memória-sávszélességnek. A Java-alapú alkalmazásoknak ugyanakkor a Xeonok nagy gyorsítótára és magas órajele kedvez inkább a mérések szerint, ugyanakkor a szoftverek optimalizáltságán is sok múlik.
+
+Az AMD-nek szüksége is van a szerverpiacon térnyerésre, ugyanis az Intel két éve megindított offenzívájának következtében a tavalyi negyedik negyedévre 14,1 százalékra zsugorodott részesedése darabszámra, és 10,5 százalékra a processzorok értékében, becsli a Mercury Research. A négymagos Opteronoknak ráadásul nem sok idejük maradt, mielõtt az Intel felfuttatja következõ generációs architektúrájának, a Nehalem termelését, valamint a négy- és többutas szegmensben piacra dobja a Dunnington kódnéven ismert hatmagos Xeon MP-t. A negyedik negyedévre várható 45 nanométeres implementáció ugyan nagyobb teljesítményt hozhat a magasabb órajelek, nagyobb L3 cache és HyperTransport 3.0 összeköttetéseknek köszönhetõen, ez a fejlesztések azonban nem mérhetõek az Intel által eszközölt közelgõ újításokhoz.

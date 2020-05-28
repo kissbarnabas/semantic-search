@@ -1,0 +1,27 @@
+Háromféle Windows 7 jön netbookokhoz?
+
+Szigorú hardverkorlátok
+A TechARP.com szerint a korábban már bejelentett Windows 7 Starter mellett érkezik a Windows 7 Starter for Small Notebook PC, valamint a Windows 7 Home Basic for Small Notebook PC, mindhárom operációs rendszert elsõsorban a netbookokhoz ajánlja a Microsoft és kizárólag számítógépgyártók számára lesznek elérhetõk, boltokba nem kerülnek -- írja a TechARP.com. Egyelõre nem tudni, mi lesz a különbség az egyes változatok között, csupán annyi világos, hogy a Windows 7 Home Basic for Small Notebook PC kizárólag Kínában lesz elérhetõ. 
+A Microsoft jelenleg csak a netbookok kedvéért tartja életben a Windows XP Home Editiont, amelyet kizárólag olcsó hordozható PC-kre telepíthetnek a gyártók. A vállalat rendkívül szigorú hardverkövetelményeket határoz meg annak érdekében, hogy tényleg csak a legolcsóbb PC-kre kerülhessen Windows XP, a Windows 7 Starter esetében sem lesz ez másként.
+
+De mi lesz a VIA-val?Az Intel és a Microsoft megállapodása a netbookokok meghatározásáról hátrányosan érintheti a VIA Technologiest, figyelmeztetnek iparági megfigyelõk.
+
+A VIA Nano processzoraival szerelt olcsó notebookok egy jelentõs része 10,2 hüvelyknél nagyobb kijelzõvel rendelkezik, gondoljunk csak a VIA Nano processzorral szerelt Samsung NC20 modelljére, mely a hírek szerint különösen népszerû Európában.
+
+Netbook vagy nem netbook, ezek a gépek nem részesülhetnek majd a netbook Windowsok olcsó licenceibõl, ami jelentõs árazási hátrányt jelenthet a kisebb méretû modellekkel szemben, melyeknél az Intel Atom tarol jelenleg rendkívül alacsony fogyasztásának, méretének és árának köszönhetõen, mely paraméterekkel a Nano processzorok nem versenyezhetnek.
+
+A jövõre nézve azonban ennél is komolyabb problémát jelenthet a VIA-ra nézve az egymagos korlátozás. Az idei év második felében mutathatja be ugyanis a Nano kétmagos változatát, mely így nem kerülhet netbookokba, vagyis kiszorul a gyorsan növekvõ, nagy volumenû szegmensbõl. Az Intel is készül kétmagos Atommal, azonban sokkal kevésbé érinti érzékenyen ez a probléma. Míg számára csak a forgalom kisebb részét adja a netbookba szerelt Atom, addig a VIA számára a Nano a zászlóstermék, melybõl meg kellene élnie. 
+A TechARP.com cikke szerint a Windows 7 Starter, Starter for Small Notebook PC és a Home Basic for Small Notebook PC csak olyan számítógépekre lesz licencelhetõ, amelyekben 2 GHz-nél nem magasabb órajelû egymagos processzor dolgozik, kijelzõjük nem nagyobb 10,2 hüvelykesnél, memóriájuk legfeljebb 1 gigabájt, a merevlemez kapacitása pedig legfeljebb 250 ggiabájt (SSD esetén 64 gigabájt). További megkötés, hogy a processzor hõtermelése -- a chipkészlet nélkül -- nem haladhatja meg a 15 wattot, a Microsoft így próbálja elkerülni, hogy az erõsebb noteszeket az olcsó gépekre szánt operációs rendszerrel küldjék piacra a cégek. Iparági pletykák szerint a specifikációkat az Intellel közösen dolgozta ki a Microsoft, hogy szegmentációik összhangban legyenek.
+
+Nem csak 3 program futhat egyszerre?
+A Windows XP és a Windows Vista esetében a Starter Editiont csak a fejlõdõ piacokon láthattuk, a Windows 7 esetében ez lesz a netbookokra szánt változat, területi megkötések nélkül. A Microsoft hangsúlyozza, csak a gyártókon múlik, az új asztali operációs rendszer melyik változatával szállítják netbookjaikat, ugyanis még az Ultimate változat is kiválóan fut az ilyen kategóriás hardvereken. Fontos tudni, hogy a&nbsp; Windows XP és a Vista Starter változata számos korlátozást tartalmaz, az egyik ezek közül, hogy csak 3 alkalmazás futhat párhuzamosan. Most úgy tûnik, a Windows 7 esetében ezt a korlátozást megszünteti a Microsoft, bár hivatalos információt eddig még nem közölt errõl a cég.
+Az olcsó netbookok váratlan népszerûsége áldás és átok is a Microsoft
+számára. Áldás azért, mert jelenleg ezek a gépek tartják életben a
+PC-piacot, az elemzõcégek becslései szerint a netbookok nélkül az elsõ
+negyedévben nem 6-7 százalékkal, hanem 16-17 százalékkal estek volna
+vissza az eladások éves szinten. Ezeken az olcsó PC-ken ugyanakkor
+lehetetlen lenne valamelyik prémium operációs rendszert eladni, hiszen
+senki se vásárolna egy 300-400 dolláros hardverhez közel ugyanennyiért operációs rendszert (a Vista Home Premium listaára 259 dollár, a VIsta Ultimate 319 dollárba kerül). 
+Ugyanakkor a cég számára fontos, hogy a drágább Windows-változatok fogyjanak, ezért a prémium termékek felé kell terelni a vevõket, de a netbookok szegmensében is jelen kell lennie egy vonzó ajánlattal, nehogy átvegye az uralmat a Linux. A Vista viszonylag nagy hardverigénye miatt jelenleg a Windows XP tölti be ezt a funkciót, látszólag sikeresen -- a piacra kerülõ netbookokon szinte kizárólag Windows fut, a kezdeti lelkesedés után ma már csak elvétve találkozni linuxos modellekkel.
+Júniusban jönnek az árak
+A Windows 7 a Vistához hasonlóan számos változatban elkészül, azonban a Microsoft szerint a Home Premium, a Professional és az Ultimate változat lefedi szinte az összes ügyféligényt, így a cég ezek népszerûsítésére koncentrál majd. Ezek mellett elérhetõ lesz a Home Basic változat (a fejlõdõ piacokra), a nagyvállalatoknak szánt, csak mennyiségi licencben kapható Enterprise, illetve a netbookokra szánt Starter. Az egyes változatok árát a Microsoft még nem közölte, várhatóan júniusban jelenti be a cég, valószínûleg a piaci premier dátumával együtt, ami a HWSW értesülései szerint az õsz elejére várható. 

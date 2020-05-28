@@ -1,0 +1,18 @@
+Gõzerõvel dolgozik az AMD, hogy õszre bevethetõvé tegye a Shanghait
+
+[Digitimes/HWSW] Az AMD közölte partnereivel, hogy 45 nanométeres processzor prototípusainak már javában folyik a tesztelése, írja a tajvani Digitimes. A szokás szerint meg nem nevezett alaplapgyártói források augusztus-szeptember magasságára várják a Shanghai elsõ próbapéldányait. 
+
+
+
+Miközben a késlekedések miatt még a 65 nanométeres eljárással készített négymagos Barcelona termelését sem futtatta fel, az AMD már gõzerõvel dolgozik a 45 nanométeres implementáció piaci bevezetésén. A Shanghai kódnéven ismert chip tervezése tavaly novemberben vagy decemberben zárulhatott le, szilíciumon pedig január elején látta meg elõször a napvilágot, azóta pedig kézenfekvõ módon megkezdõdött a chip és az azzal szerelt rendszerek validációja. A Shanghait, és asztali változatát, a Denebet a hannoveri CeBIT-en demózta is már a vállalat.
+
+Az AMD egy ideje hangoztatja már, hogy 45 nanométeres eljárással készülõ processzorainak bevezetése a második félévben esedékes. A 45 nanométeres gyártástechnológiával, melynél már költségnövelõ immerziós litográfiát kényszerül alkalmazni a "száraz" helyett, bõvül az AMD mozgástere: alacsonyabb költséggel nagyobb teljesítményû vagy alacsonyabb fogyasztású chipeket gyárthat a piaci igényeknek megfelelõen -- vagyis olcsóbban termel magasabb áron eladható termékeket.
+
+
+A Shanghai a Barcelona 2 megabájt harmadinszintû gyorsítótárával szemben 6 megabájtot integrál, ami jól cache-elhetõ kódok esetén jelentõsen gyorsulást eredményezhet, és kifejezetten kedvezõ többutas szerverfeladatok számára. Ettõl eltekintve a Shanghai valószínûleg minimális változásokat hoz a Barcelonához képest, ami egyúttal feltétele is annak, hogy egy rövid tesztelési fázist követõen  még év vége elõtt megjelenhessen a piacon -- ideális esetben vélhetõen legkorábban októberben.
+
+Bár a mikroarchitekturális részletek nem nyilvánosak, erre utal, hogy Mario Rivas, az AMD processzorokért és chipsetekért felelõs alelnöke úgy fogalmazott, a Shanghai a Barcelona C-revíziójának tekinthetõ. A Barcelona és a Shanghai magjainak összevetésekor nem fedezhetõ fel lényegi változtatás a magokban, a Shanghai magjai szinte egyszerû optikai zsugorítás képét mutatják -- a kevés változtatás rövid, meglepetésektõl mentes validációt, és korai piaci premiert tesz lehetõvé. A nagyobb változtatásokat mutató felsõkategóriás szerverprocesszorok és szerverek esetében a validációs idõ akár 2 évet is felemészthet. 
+
+Balra a Barcelona, jobbra a Shanghai egy magja, azonos méretûre nagyítva
+
+A Shanghai órajelei természetesen egyelõre nem ismertek, a 45 nanométeres gyártástechnológia önmagában 10-20 százalékos gyorsulást hozhat önmagában, adott fogyasztási keretbõl. Viszonylag alacsony volumen mellett az AMD a második negyedévben 2,5 gigahertzes Barcelonákat ígér, ami arra utal, hogy 45 nanométeren akár a 3 gigahertz is realizálható lesz az évi több tízmilliós volumenbõl. Erre valószínûleg szüksége is lesz a vállalatnak, ugyanis nagyjából a Shanghaijal egy idõben érkezik a Nehalem, mely az Intel szerint 35-43 százalékos teljesítményfölényt projektál egy 2,8 gigahertzes Shanghaijal szemben SPEC CPU2006 alatt, kétutas rendszerben.

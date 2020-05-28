@@ -1,0 +1,8 @@
+A felhasználók alapadatait is elérhetõvé teszi az alkalmazások számára a Facebook
+
+Mostantól kezdve a Facebookra fejlesztõk olyan szolgáltatásokban is gondolkodhatnak, melyek hozzáférnek a felhasználók fotóihoz, videóihoz, hozzászólásaihoz és jegyzeteihez is. Az érintettek beleegyezésére természetesen itt is szükség lesz, nem építhetõ továbbra sem "szuperadatbázis".  Mérföldkõnek tekinthetõ a lépés, hiszen a Facebook eddig kizárólag azt engedte meg, hogy óriási hálózatára rácsimpaszkodjanak az apró potyautasok, ezzel gazdagítva a felhasználói élményt. Most viszont beengedi az egyedi, külsõ megoldásokat a legbelsõ körökbe, engedve a korábbi szigorú szabályokból.
+
+
+ Leegyszerûsítve a dolgot, a jövõben lehetõvé válik, hogy valaki egy aggregátor szájtot építsen, ahol csak egy adott témával kapcsolatos kommentárok, képek vagy linkek jelennek meg, futnak össze, tematikus tartalomgyûjtõk jöhetnek létre vagy éppen fordítva, lehetségessé válik, hogy egy másik szolgáltatásból közvetlenül Facebook-ra töltsenek fel az emberek fotókat és videókat. A személyiségi jogokkal kapcsolatos gyakorlat nem változik, azaz a felhasználóknak továbbra is minden egyes alkalmazáshoz külön kell engedélyezni a hozzáférést az adataikhoz.
+
+Sokak szerint ez egyértelmû válaszlépés a Twitter korábbi hasonló bejelentésére, amivel a mikroblog-szolgáltató is megnyitotta a külsõ fejlesztõk elõtt a belsõ funkciók elérését. Magyarországon a napokban lépett nagyot elõre az Origo Zrt. tulajdonában lévõ iWiW, ahol a Facebook eddigi gyakorlatával megegyezõen lehetõvé vált alkalmazások létrehozása, akár külsõ fejlesztõk számára is.

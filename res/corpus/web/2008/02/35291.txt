@@ -1,0 +1,30 @@
+Megjelent a HTML 5 elsõ nyilvános vázlata
+
+Az internetes szabványokért felelõs szervezet, a W3C a napokban nyilvánosságra hozta a HTML 5 elsõ vázlatát. Jelentõs lépés ez, hiszen 1997 óta nem történt változás a HTML-ben, a World Wide Web Konzorcium az eltelt évek alatt inkább új nyelvekre fordította figyelmét, például az SVG-re és az XForms-ra, azonban a web azóta jóval túlnõtte magát, és nem pont úgy használják a weboldalak a rendelkezésre álló technológiákat, mint ahogy és amire azokat eredetileg tervezték.
+
+
+
+Közös erõvel
+
+Az összes jelentõs böngészõgyártó, a Microsoft, az Apple, az Opera és a Mozilla Alapítvány részvételével létrejött WhatWG nevû szervezet célja a közös, mindenki által elfogadott HTML szabvány továbbfejlesztése, valamint a jelenleg kaotikus állapotokat teremtõ kompatibilitási problémák minimalizálása. Természetesen mindez nem ért volna semmit a W3C nélkül, hisz ez leginkább az õ feladata lett volna, csak mivel nem történt érdemi elõrelépés az elmúlt 10 év alatt, ezért összeálltak a piac meghatározó szereplõi, hogy maguk lépjenek. Mivel azonban sikerült közös nevezõre jutnia a két szervezetnek, így a HTML 5 összes jelentõs érintett részvételével és aktív munkájával alakult ki.
+
+
+A W3C a draft megjelenésekor kiemelte, hogy ez még csak egy vázlat, mely sok mindenben változhat a 2010-es véglegesítésig &#8211; aminek az egyik feltétele, hogy legalább két böngészõ teljes mértékben implementálja a szabványt. Tehát várnunk kell még pár évet addig, amíg a webfejlesztõk nyugodt szívvel használhatják az új megoldásokat, de addig is tekintsük át, hogy milyen fontosabb változások történtek a nyelvben.
+
+Jó pap holtig tanul
+
+Az új HTML-ben jó pár új tag jelenik meg, amiket természetesen meg kell tanulnia aweben dolgozó munkásoknak, viszont cserébe sok régi tag végleg megszûnik. Lényeges újítás, hogy a HTML ezután már csak tényleg a tartalomra és felépítésre szorítkozik, mindenféle formázás és stíluselem CSS-be kerül. Csak hogy pár példát említsünk: megszûnnek a &lt;font color=&#8221;red&#8221;&gt;Piros szöveg vagyok&lt;/font&gt; megoldások, helyette ezt használjuk majd: &lt;pirosszoveg&gt;Piros szöveg&lt;/pirosszoveg&gt;, természetesen kiegészítve a CSS-ben a megfelelõ deklarációval.
+
+Egyértelmûen következik ebbõl, hogy a régimódi WYSIWYG editorok, mint a FrontPage, végleg kihalnak. A jelenleg nagyon népszerû táblamentes oldalak felépítése igazából a régi szabvány szemszögébõl nézve nem túl jók, hisz az oldalak felépítése nem következik a tartalmából. Ez megváltozik, bevezetésre kerülnek struktúra jelölõ elemek: header, section, article, nav, footer, melyekkel egyértelmûen meg lehet határozni, hogy például a header-ben lévõ kép az bizony tényleg a fejlécben jelenik meg, és a cég logóját takarja.
+
+Az új, figure névre hallgató taggel is egy jelentõs hiányosság szûnik meg: ezzel lehetõség nyílik szövegbe ágyazni képet, alá pedig magyarázatként szöveget írni, mindezt teljesen szabványosan és szépen, nem kell floatolni ill. mindenféle szedett-vedett táblázatokat beilleszteni a kódba. A szemantikus web irányába történõ egyik fontos lépés, hogy a weboldalakon megjelenõ szövegekben bejelölhetjük, hogy egy adott kifejezés pontosan mit is jelent, legyen akár idõ, dátum vagy progress érték.
+
+Multimédia és interaktivitás
+
+A szélessávú kapcsolatok terjedésének, valamint fõleg a YouTube-nak köszönhetõen a multimédiás tartalmak szinte berobbantak a köztudatba, ám ezek leírása HTML-ben nem könnyû feladat, ahány böngészõ, annyiféle nem szabványos megoldás létezik. Ezt váltja ki nemes egyszerûséggel a video és az audio tag. Sõt, ezen tagek belsejébe akár a multimédiás tartalom teljes szövegét leírhatjuk, így a korlátozott képességekkel rendelkezõ látogatók is hozzájuthassanak az információhoz.
+
+Manapság rengeteg site használ fõleg kényelmi szempontokat figyelembe véve AJAX megoldásokat, melyekkel az adott oldal újratöltése nélkül lehet bizonyos elemeket dinamikusan, interaktívan megváltoztatni. Ezt segíti majd a háttérbõl a details és datagrid tag, elõbbi eredendõen nem látható, de ha JavaScript-tel beállítjuk az open attribútomot, egybõl megjelenik, utóbbi elem pedig dinamikus táblázatokat és adatokat tartalmazhat, melyekben egy kattintással kijelölhetõ és változtatható egy teljes sor vagy egy egész oszlop.
+
+Jó lesz ez az egész?
+
+Egyértelmûen igen, hisz tisztább és átláthatóbb lesz a nyelv, habár eleinte valószínûleg nagyon nehezen történik majd meg az átállás, és nem mindegyik böngészõ fogja támogatni az újdonságokat, de annak idején így volt ez az img taggel is. Szerencsére látszódik az a törekvés, hogy minél könnyebb és használhatóbb legyen az internet, hisz már manapság is szinte itt élünk és dolgozunk, a jövõben pedig még szervesebb része lesz életünknek.

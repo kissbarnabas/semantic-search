@@ -1,0 +1,23 @@
+Meghökkentõ módszerekkel spórol az energiával a Microsoft
+
+[Techworld/HWSW] A zöld informatika meghonosításának legfontosabb akadálya, hogy az IT-vezetõkön senki se kéri számon a villanyszámlát, ezért nem érdekeltek a környezetbarát, energihatékony megoldások bevezetésében. A Microsoftnál ezt felsimerve most átalakították egyes vezetõk jutalmazási módszerét, és az év végi prémiumot az energiahatékonyság növekedéséhez kötötték.
+
+
+
+Minden watt számít
+
+A változások áthatják az egész szervezetet. Korábban a cég óriási adatközpontjai az egyes üzletágak által elfoglalt alapterület alapján állították ki a számlát, emiatt elkezdtek elszaporodni a hatalmas teljesítménysûrûségû blade rendszerek, amit a légkondicionáló berendezések gyakran nem tudtak követni -- ezért sokszor még nagyobb teljesítményû, még többet fogyasztó hûtõk beszerzésére volt szükség. Most azonban az adatközpontok üzemeltetõi a felhasznált energia alapján számláznak az üzletágaknak.
+
+
+[+] A legtöbb IT-vezetõnek fogalma sincs a rábízott berendezések fogyasztásáról 
+
+A változás kézzelfogható -- a Microsoft szerint a divíziók egy ideje már arra is figyelnek, ne maradjon kihasználatlan memória a szervereikben, ami feleslegesen növeli a gépek fogyasztását. A memóriával való takarékoskodás természetesen nem csak a villanyszámlára van jó hatással, hanem a beszerzési költségeket is csökkenti. A redmondi cég 2004 és 2007 között több mint 20 százalékkal növelte energiahatékonyságát a saját mérései szerint.
+
+
+ Christian Belady, a Microsoft áramellátásért és hûtésért felelõs vezetõ mérnöke szerint a hatékonysági törekvések a cégnél ma már olyan területekre is kiterjednek, mint a szoftverfejlesztés. A programozók elõtt korábban a teljesítmény lebegett a legfontosabb szempontként, az új felfogás szerint azonban ennek hatásait is vizsgálják -- ha például egy algoritmus gyorsításával aránytalanul megnõ a számítógép fogyasztása, akkor lehet, hogy a fejlesztõ végül lemond róla, mert hosszú távon nem hatékony. 
+
+Hatékonyabb létesítménygazdálkodás
+
+A Microsoft nem csak az IT-vezetõk, hanem a létesítmények üzemeltetéséért felelõs szakemberek javadalmazását is energiahatékonysági célokhoz köti mostantól. Ennek érdekében az érintettek aztán egészen meglepõ dolgokra is képesek, az egyik vezetõ például letakaríttatta az adatközpontnak helyet adó épület tetejét, ami ezt követõen jobban visszaverte a napsugarakat, így a szerverteremben láthatóan csökkent a hõmérséklet. Ezóta a Microsoft összes adatközpontjának tetejét rendszeresen takarítják.
+
+Természetesen azt sem szabad elfelejteni, hogy a hatékonyság növeléséhez elengedhetetlenül szükségesek a megfelelõ mérések, a Microsoftnál ezért már régóta folynak olyan belsõ fejlesztések, amelyek segítségével a felelõsök percrekész képet kaphatnak az adatközpontokban üzemelõ gépek energiafogyasztásáról, hõmrésékletérõl és egyéb paraméterekrõl. Korábban ezt úgy oldották meg, hogy a szervertermekben rendszeresen körbesétált egy alkalmazott, aki leolvasta és feljegyezte az egyes hõmérõk által mutatott értékeket -- ez azonban nyilvánvaló okok miatt nem hatékony módszer.

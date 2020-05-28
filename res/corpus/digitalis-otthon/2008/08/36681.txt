@@ -1,0 +1,33 @@
+Földbe döngölõ a világ leggyorsabb grafikus kártyája, a Radeon HD 4870 X2
+
+[HWSW/HEXUS.net] Az AMD partnereinek választékában ma megjelent az R700-as architektúrához tartozó legújabb, egyben legnagyobb teljesítményû grafikus vezérlõ, az ATI Radeon HD 4870 X2, melyet a cég szerényen a világ leggyorsabb videokártyájának titulál. A két RV770XT GPU-t tartalmazó videokártya az eddig megjelent tesztek tanúsága szerint valóban nem talál legyõzõre, más kérdés, hogy a kártyában szunnyadó erõ csak extrém magas felbontások esetén használható ki.
+
+
+
+Az ATI Radeon HD 4870 X2 nevéhez méltón két grafikus chipbõl és a köréjük épített, 2 gigabájtnyi GDDR5 memóriából álló megoldás. A két RV770XT lapka paramétereit tekintve megegyezik a korábban megjelent egychipes kártyára épített lapkával: a TSMC-nél 55 nanométeres gyártástechnológiával készülõ, 956 millió tranzisztort tartalmazó, 750 MHz-en ketyegõ processzorok egyenként 800 stream egységet tartalmaznak, melyekbõl 160 komplex, 640 pedig egyszerû mûveleteket végez.
+
+Négyesével is
+
+A két GPU közti kommunikációról a mindkét irányban 5 gigabájt/másodperces sávszélességet biztosító CrossFireX Sideport technológia és a 10 gigabájt/másodperces aggregált sávszélességet nyújtó PCI Express Bridge gondoskodik. A rendszer egyébként támogatja két Radeon HD 4870 X2 vezérlõ összekapcsolását CrossFire üzemmódban, ezzel végképp olyan teljesítményre emelve a grafikus alrendszert, mely alighanem hosszú hónapokig kihasználatlan marad.
+
+
+
+
+
+
+Barátságban a Blizzarddal
+
+Az AMD az új csúcskategóriás vezérlõ bejelentésével egy idõben közölte, hogy a cég megállapodást kötött az egyebek mellett a World of Warcraftot, a Starcraftot és a Diablo franchise-t jegyzõ Blizzard Entertainmenttel, így várhatóan az õsztõl több, jellemzõen felsõkategóriás Radeon videokártya mellé csomagolhatnak valamilyen Blizzard-játékot. Az AMD kiveszi továbbá a részét az októberben kezdõdõ BlizzCon torna szponzori támogatásából is és várhatóan hathatós támogatója lesz a Starcraft második és a Diablo harmadik részét bevezetõ marketingkampánynak.
+
+
+
+A két grafikus processzort egyenként 1 gigabájtnyi képpuffer egészíti ki, a kártyára forrasztott, 3,6 GHz-es órajelen járó GDDR5 memóriachipek 256 bit széles buszon kapcsolódnak a feldolgozóegységhez, ezzel összességében 230 gigabájt/másodperces sávszélességet nyújtva. Elképzelhetõ ugyanakkor, hogy az AMD egyes kártyaforgalmazó partnerei a kedvezõbb fogyasztói ár érdekében lemondanak a memória felérõl, ilyen felépítésû modellt azonban egyelõre senki nem szerepeltet kínálatában.
+
+Az interneten eddig megjelent tesztek tanúsága szerint a második RV770XT grafikus processzor megteszi a hatását, az amúgy sem lassú Radeon HD 4870 egy újabb GPU-val kiegészítve irgalmatlan tempót diktál. Az AMD szerint a Radeon HD 4870 X2 nagyjából 80 százalékkal gyorsabb az egychipes megoldásnál, a HEXUS.net mérései szerint a különbség a használt programoktól, a felbontástól, valamint az alkalmazott élsimítási eljárástól és szûrõktõl függõen valójában inkább 10-50 százalék.
+
+Atomreaktort a gépbe!
+
+
+Ennél lényegesen nagyobb arányban nõ viszont a kártya áramfelvétele: a Radeon HD 4870 X2 a gyártó adatai szerint maximum 270 wattot vesz fel a tápegységtõl mûködés közben, a mérések szerint a teljes tesztrendszer 366 wattot fogyasztott teljes terhelés mellett, üresjáratban ellenben az egychipes megoldás szintjére süllyed a fogyasztás, legalábbis erre utal az így mért 149 wattos összfogyasztás.
+
+Az AMD ATI Radeon HD 4870 X2 ikerchipes megoldás már feltûnt az AMD kiemelt kártyagyártó partnereinek választékában: a világ leggyorsabb PC-s videokártyájáért cserébe a legtöbben 549 dollárt kérnek, ez az ár azonban a pontos kiépítéstõl és a mellékelt szoftverválasztéktól, extráktól függõen változhat. A gyártó szeptemberben dobja piacra a Radeon HD 4850 vezérlõ hasonló felépítésû, kétchipes változatát, a Radeon HD 4850 X2-t, mely a csúcsmodellnél valamivel szerényebb teljesítményt nyújt majd a 400 dolláros ársávban.

@@ -1,0 +1,12 @@
+Négyportos Fibre Channel kártya az Emulextõl
+
+A lényegében az összes nagyobb szerver- és tárológyártónak szállító Emulex legújabb, LPe12004 host bus adaptere PCI Express felületel, és négy darab 8 gigabites FC-porttal rendelkezik, melyek természetesen visszafelé kompatibilisek az alacsonyabb 4 és 2 Gb/s sebességekkel, melyeket portonként automatikusan detektálnak, így együtt tud mûködni az alacsonyabb sebességû rendszerekkel is.
+
+A teljes magasságú kártyát a gyártó olyan szerverekbe vagy tárolókba szánja, melyeknél kiemelt szempont a a minél magasabb sûrûség, vagyis az átviteli teljesítményt nem lehet további kártyákkal növelni, mivel nincsenek szabad bõvítõhelyek. Az LPe12004 természetesen kezdeményezõ (initiator) és kiszolgáló (target) módban is üzemelhet, ráadásul ezek a módok portonként váltakozhatnak. Az aggregát maximális nyers sávszélesség 8,5 Gbit/s linksebességek mellett 34 Gbit/s, vagyis 4,25 GB/s.
+
+A kártya nem igényel új drivertámogatást sem, ígéri a gyártó, mivel a Service Level Interface-nek köszönhetõen egyetlen egységes Emulex HBA driver képes meghajtani. Az Emulex gyárilag támogatja a Windows, Linux, Solaris, NetWare és VMware környezeteket x86, Power, SPARC, Itanium platformokon - további támogatás a kártyát termékeikbe beépítõ gyártóktól várható.
+Az LPe12004 természetesen rendelkezik az összes modern szolgáltatással, mely elvárható egy FC HBA-tól: a nagy teljesítményt segítõ MSI-X támogatása, hot-swappelhetõség, a portok virtualizált felosztása NPIV segítségével, a biztonsághoz FC SP, valamint adatintegritást biztosító BlockGuard technika. További részletek itt.	     
+                  
+                  
+                  
+                   

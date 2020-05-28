@@ -1,0 +1,11 @@
+Elfogadták a végleges 802.11n Wi-Fi szabványt
+
+Az IEEE Szabványügyi Testülete múlt pénteken bólintott rá az úgynevezett 802.11n-2009 elõterjesztésre, ezzel hét év vitájára tettek pontot az iparág nemzetközi szereplõit tömörítõ szervezetnél. A 802.11 alapszabvány legújabb kiegészítése révén több eszközt, számítógépet, mobiltelefont, médialejátszót és szórakoztatóelektronikai készüléket szerelhetnek fel az elméletileg akár 600 megabit/másodperces adatátviteli sávszélességet elérõ rádiókkal.
+A 802.11n Wi-Fi szabvány fejlesztési folyamata pontosan hét évvel korábbra nyúlik vissza: a gyorsabb WLAN-hálózatok megalkotását célul kitûzõ csoport 2002. szeptember 11-én tartotta elsõ ülését. A komoly munka egy év múlva kezdõdött az IEEE bevonásával, hamar kiderült azonban, hogy az iparági szereplõk nem tudnak megegyezni a legtöbb kérdésben, a szabványelõterjesztéseket rendre leszavazták. A vita méretét jól jelzi, hogy az évek során több tízezernyi kiegészítõ megjegyzés született a formálódó szabvánnyal kapcsolatban.
+
+A végleges szabvány megszületése elõtt két évvel a Wi-Fi Alliance nevû, a szabvány kereskedelmi tevékenységét koordináló szervezet megelégelte a hosszú huzavonát, és lehetõvé tette a gyártóknak, hogy az akkori - a véglegeshez közel álló - 2.0-s szabványtervezet alapján piacra dobják az elsõ, pre-802.11n eszközeiket. Mára gyakorlatilag minden jelentõs hálózatieszköz-gyártó rendelkezik ilyen berendezéssel, jóllehet a szabványt üzleti kritikus környezetben máig csak elvétve használják.
+A gyártók szerint a pre-802.11n eszközök szoftverfrissítés útján megtaníthatók lesznek a végleges 802.11n szabványra, várhatóan ezért az 560 oldalas szabványleírás októberi publikálása után tömegesen jelennek majd meg a noteszgépekben található WLAN-vezérlõket, illetve a különbözõ vezeték nélküli hálózati eszközöket frissítõ kódok. A szabványt idén egyébként januártól júliusig öt alkalommal módosították, az IEEE testülete elé a 802.11n szabvány 11.0-s tervezete került jóváhagyásra.	     
+                  
+                  
+                  
+                   

@@ -1,0 +1,16 @@
+Július második felében már megindulhat a kétmagos Atom tömegtermelése
+
+[Digitimes/HWSW] Már július második felében megindulhat a kétmagos Atom processzorok tökmegtermelése, írja számítógépgyártói forrásokra hivatkozva a tajvani Digitimes. 
+
+
+
+Az új chipek platformkompatibilisek a még piacra sem került, várhatóan a Computexen érkezõ egymagosakkal, így mindössze egy BIOS-frissítés szükséges használatukhoz. A két processzormag következtében ugyanakkor növekszik a hõfejlõdés, processzor és chipset együttes TDP-specifikációja (tartósan fellépõ maximális hõfejlõdés, melyet a hûtésnek el kell vezetnie) 12 wattról 16-ra emelkedik, írja a Digitimes.
+
+ A processzor legfeljebb 1,6 gigahertzen üzemelhet, és a híradás alapján továbbra is támogatja a szimultán többszálú végrehajtást, így chipenként 4 utasításszálat kapunk -- a fogyasztás leszorítása érdekében ésszerûnek tûnne azonban annak kikapcsolás, az asztali szoftverkörnyezet kevéssé profitálna az extra párhuzamosságból. A Digitimes szerint a várhatóan valamikor a harmadik negyedév végén vagy a negyedik negyedévben megjelenõ kétmagos chip aggasztja az Intel partnereit, hogy ezzel az elsõgenerációs termékek életciklusát ássa alá.
+
+
+Az Atom az Intel ultramobil és olcsó számítógépekben történõ felhasználást célzó, gyökeresen új fejlesztése, mely korábban Silverthorne kódnéven vált ismertté. Az Intel 45 nanométeres eljárásán implementált egymagos chip mindössze 47 millió tranzisztorból épül fel és 25 négyzetmilliméter területû, szemben például a szintén 45 nanométeres technológiával termelt Penryn-magos Core 2 Duo 410 millió tranzisztorával és 107 négyzetmilliméterével. A miniatûr fizikai méretek rendkívül alacsony, néhány ezer forintos termelési költséget és kompaktabb rendszereket eredményeznek.
+
+Az új, 64-bites és SSE4 vektorkiegészítést támogató mikroarchitektúra fele olyan széles, mint a Core, négy helyett órajelenként kettõ utasítás dekódolását tudja elvégezni legfeljebb, továbbá nem rendelkezik soronkívüli végrehajtással, vagyis hiányzik belõle az x86-os processzorokban a Pentium Próval több mint egy évtizede debütált komplex dinamikus utasításütemezés és újrarendezés. Az Intel x86-os portfóliójában viszont ismét visszatér az Atommal a HyperThreading, mely a rendszerteljesítmény növelésének magasan legenergiahatékonyabb módjának bizonyul.
+
+Az alacsony tranzisztorszámnak, az alacsony fogyasztást szem elõtt tartó felépítésnek, és egy mélyebb, nyugalmi C6-os energiaszint bevezetésének köszönhetõen a Silverthorne rendkívül takarékosnak ígérkezik: az Intel állítása szerint energiafelvétele az ultraalacsony feszültségû Dothan (90 nanométeres Pentium M) tizedére csökkenthetõ, aminek egy nagy részét ugyanakkor a két generációnyi gyártástechnológiai különbség is adja. A mobil internetterminálokba és okostelefonokba szánt Silverthorne és a PC-változat Diamondville termékek thermikus kerete (TDP) 0,6 és 2,4 watt között alakul, utóbbit 1,86 gigahertzes órajelen éri el. Összehasonlításképpen a Penryn egy maggal 1,4 gigahertzet ér el 5,5 wattból. Ez alapján az Atom energiahatékonyságbeli fölénye nem egyértelmû, elõnye leginkább az alacsonyabb teljesítménytartományban és nyugalmi állapotban mutatkozik meg, mely esetekben néhány tized, vagy akár század wattal is beéri.

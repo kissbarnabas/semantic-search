@@ -1,0 +1,24 @@
+Kellemes meglepetést okozott az AMD, küszöbön a hatmagos chipje
+
+Bár súlyos veszteségekrõl számolt be az AMD, teljesítménye felülmúlta a várakozásokat. A vállalat sikeresen védte ki az elsõ negyedévet jellemzõ negatív szezonális hatásokat, forgalma a negyedik negyedévhez viszonyítva nem csökkent tovább, ahogyan veszteségeit is jelentõsen visszaszorította. Az AMD meglepetésként közölte, hogy hatmagos szerverprocesszora már a megjelenés küszöbön áll.
+
+
+
+Dombon fel
+
+Az AMD 1,18 milliárd dollár árbevételt realizált az év elsõ három hónapja során, ami közel 21 százalékkal múlja alul az egy évvel korábbi szintet és lényegében megegyezik a negyedik negyedéves forgalommal. A vállalat ezzel minden tekintetben felülmúlta az Intel mutatóit, melynek éves szinten 26, szekvenciálisan pedig 13 százalékkal esett vissza elsõ negyedéves bevétele. A világ legnagyobb processzorgyártója szerint a PC-piac túl van a nehezén, és a jelenleg folyó második negyedévben már nem romlanak tovább a piaci kondíciók.
+
+Az AMD kilátásai ugyanakkor némileg gyengébbek az Intelénél. A világ elsõ számú félvezetõgyártója a múlt héten közölte, második negyedéves forgalma alighanem változatlan lesz az elsõ negyedévvel összevetve, noha a szezonális hatások miatt általában csökkenni szokott. Az AMD ezzel szemben csökkenõ második negyedéves forgalmat vár, tekintettel a kedvezõtlen gazdasági körülményekre. Dirk Meyer, az AMD vezére szerint a recesszióból akár jól is kijöhet a vállalata, amely az Intel processzoraihoz hasonló teljesítményû termékeit jóval kedvezõbb áron kínálja.
+
+Nem csak a forgalom, de a nyereségesség tekintetében is kellemes csalódást okozott az AMD: változatlan árbevétel mellett jelentõsen csökkentette veszteségeit a negyedik negyedévhez képest, amit elsõsorban a termékmix erõsödése és a költséghatékonyság javulása eredményez. Ennek eredményeként a cég 308 millió dolláros üzemi veszteséget szenvedett el, ami 31 százalékkal magasabb ugyan az egy évvel korábbinál, de 48 százalékkal alacsonyabb a rendkívüli leírástól megtisztított negyedik negyedéveshez képest. A 414 milliós nettó veszteség mindössze 18 százalékkal múlja felül a tavalyit. 
+
+Mindez leginkább a  processzorokért és chipsetekért felelõs üzletágnak köszönhetõ, mely negyedéves szinten több mint 7 százalékkal 938 millió dollárra tudta növelni értékesítéseit, miután a 45 nanométeres termékrajtjainak köszönhetõen sikeresen növelte szállításait, így a kiszervezett gyártást is belevéve a negyedik negyedéves 431 millió dollárról 177 millióra szorította vissza veszteségét.  A javulás a jobb termékek mellett a 45 nanométeres gyártás túlsúlyba kerülése magyarázza, az átállás az év közepére zárul le. A leválasztott processzorgyártás részesedése ebbõl a veszteségbõl 141 milliót tett ki. Az ATI Radeonokért felelõs grafikus részleg nullszaldót ért el csökkenõ forgalom mellett is. 
+
+Mint arról a HWSW is beszámolt, az AMD a negyedév során sikeresen kiszervezte gyártását az Abu Dhabi-i Advanced Technology Investment Company tõkebefektetési társasággal közösen létrehozott Globalfoundries vegyevállalathoz. A Globalfoundries, mely szerzõdéses bérgyártóként jelenik meg a piacon, lényegében átveszi az AMD korábbi processzorgyártási infrastruktúráját, jelesül drezdai félvezetõgyárait, valamint kínai és maláj tesztelõ- és tokozóüzemeit. A gyártási tevékenység nélkül az AMD mindössze 97 millió dolláros veszteséget könyvelt volna el, vagyis a gazdasági környezet javulásával könnyedén nyereségessé válhat a cég.
+
+Már gyártásban az Istanbul
+
+Dirk Meyer, az AMD elnök-vezérigazgatója a negyedéves pénzügyi eredményeket tárgyaló konferenciahíváson megerõsítette azokat az iparági értesüléseket, hogy a cégnek elõrébb sikerült hoznia a hatmagos Istanbul szerverchip megjelenését. A kereskedelmi szállítások májusban indulnak meg, árulta el a vezetõ, az istanbulos rendszerek így már júniusban hozzáférhetõvé válnak.
+
+
+ A vállalat rendkívül feszített ütemtervvel igyekszik a lehetõ legkorábban piacra dobni új Opteronját, hogy minimalizálja az Intel Nehalem-alapú kétutas Xeonjai (5500-as vonal) által okozott kárt. Az AMD novemberben mutatta be négymagos Shanghai chipjét, de februárban már a nyilvánosság elõtt demózta az Istanbult. A vállalat jelenlegi stratégiája, hogy meglévõ, több mint 2 millió gépre rúgó szerverfelhasználói bázisát igyekszik megtartani, és Opteronjait frissítésként eladni, ami a HWSW becslései szerint legalább 5 millió processzor potenciális eladását jelenti. 

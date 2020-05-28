@@ -1,0 +1,10 @@
+Jön a WiGig, a gigabites rádiós szabvány
+
+A többek közt az Intel, az Atheros, a Broadcom, a Marvell, a Samsung, a Panasonic, a Nokia és a Microsoft által alapított WiGig célja, hogy egyesítse a következõ generációs vezetéknélküli technológiák fejlesztéseit, és közösen támogassa az ilyen termékek adoptációját. A készülékek extrém, 60 gigahertzes frekvenciatartományban üzemelnek majd, ami gigabites átviteli sebességet tesz lehetõvé, így alkalmas nagy adattömegek mozgatására, többek közt több magas bitrátájú fullHD Blu-ray videofolyam továbbítására is.
+
+Az ultramagas frekvencia és a vezetéknélküli fogyasztói elektronikáknál megszokott alacsony engedélyezett adóteljesítmény együttes hatásaként a WiGig eszközök jóval kisebb hatótávolsággal rendelkeznek majd a Wi-Finél, lényegében egy-egy szobán belüli kapcsolat felépítését szolgálják majd -- ezt a frekvenciát már a levegõben lévõ gázok is erõsen elnyelik, ami kisebb hatótávolságot, ugyanakkor minimális interferenciát eredményez. Az elképzelések szerint a jövõben integrált Wi-Fi és WiGig vezérlõk is megjelennek, és a hálózatok átjárhatóak lesznek. 
+
+
+Ezek a kapcsolatok azonban a Wi-Fi szabványoknál elérhetõ, néhányszor 10 Mbps sebességnél legalább egy nagyságrenddel nagyobb átviteli teljesítményt adnak majd, legalábbis az elképzelések szerint. A jelenlegi cél az, hogy több mint 6 Gbps linksebességre legyen képes a technológia, és 1 gigabitre alacsony fogyasztás mellett. Ez ideális esetben akár 4-5 Gbps és 600-800 Mbps valós átvitelt is jelenthet.
+
+A WiGig keretein belül nem új fejlesztések kezdõdnek, hanem a résztvevõ elektronikai és szoftvervállalatoknál már kidolgozott vagy kidolgozás alatt álló eljárások (UWB, WirelessHD) összefésülésérõl, egy iparági szabványosításról van szó. Ennek köszönhetõen már idén év vége elõtt véglegessé válhatnak a specifikációk, kereskedelmi termékekben pedig akár jövõre felbukkanhatnak már az elsõ WiGig adapterek. A WiGig  TCP/IP és UDP mellett HDMI, DisplayPort rétegeket is képes lesz fogadni.

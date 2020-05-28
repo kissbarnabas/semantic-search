@@ -1,0 +1,14 @@
+Újabb Windows XP kalózkópiákat buktat le a Microsoft
+
+Újabb kiadása jelenik meg a héten a Microsoft eredetiségellenõrzõ-programjának, a Windows Geniune Advantage (WGA) Notifications-nek, mely a szoftvercég retorikája szerint továbbra sem a felhasználók ellen készül, hanem azok védelmét szolgálja. 
+
+
+
+Az ellenõrzõprogram új verziója továbbra is a korábbi gyakorlat szerint mûködik, azaz azt vizsgálja, hogy a számítógépre telepített operációs rendszer licenckulcsa eredeti-e, illetve a telepítés során nem használtak-e olyan törést, mely az aktiválási folyamatot megkerüli vagy kijátssza. A WGA-t ugyan nem kötelezõ letölteni és telepíteni, de egyes windows-frissítések vagy az operációs rendszerbe épített alkalmazások újabb változatainak letöltése elõtt feltétel lehet az eredetiség-ellenõrzés.
+
+A WGA frissítése ezúttal kizárólag a Windows XP Professional kiadását érinti, a program adatbázisát több, az utóbbi idõben jelentett lopott, vagy hamisított kód, valamint törési módszer felismerésével bõvítették. Bár a Windows XP-t már nem árulják kereskedelmi forgalomban, az operációs rendszer terméktámogatását pedig a jövõ hónaptól limitálja a Microsoft, Redmondban elismerik, hogy a végfelhasználók körében továbbra is népszerû a 2001-ben megjelent operációs rendszer. Ezt egyben jól jelzi az is, hogy a Windows XP különbözõ kalózmásolatai, törései a Vistához hasonlítva jóval gyakrabban tûnnek fel a fájlcserélõ hálózatokon.
+
+
+A WGA Notifications új rendszerben települ a számítógépre, mechanizmusa azonban egyezik a korábbiakkal. A programot a Windows Update frissítõszolgáltatás tölti le a számítógépre, mely beállítástól függõen a következõ újraindítás során vagy automatikusan telepíti az ellenõrzõprogramot, vagy egy késõbbi, a felhasználó által választott idõpontban indítja a folyamatot. Ha a felhasználó korábban már telepítette a WGA Notifications valamelyik verzióját, automatikus frissítés esetén nem kér jóváhagyást az ellenõrzõeszköz validációs komponensének megújításához.
+
+Amennyiben a WGA Notifications úgy érzékeli, hogy a Windowst lopott vagy hamis termékkulccsal, netán a rendszer feltörésével telepítették, a felhasználó bejelentkezéskor egy udvarias üzenetben figyelmeztetést kap: fennáll a veszélye annak, hogy szoftverhamisítás áldozatává vált. Az üzenet bejelentkezés után idõrõl-idõre újra feltûnik a tálcán, valamint az asztal háttérképe helyett üres fekete háttér jelenik meg. A kalóz Windowsok felhasználói számára emellett csak a kritikus biztonsági frissítések maradnak elérhetõk, a különbözõ programfrissítéseket nem tudják letölteni vagy telepíteni.

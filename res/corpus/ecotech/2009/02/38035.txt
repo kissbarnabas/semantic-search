@@ -1,0 +1,32 @@
+Elhagyják a Sunt a MySQL vezetõi
+
+Személyes okok miatt távozik a Sun Microsystemstõl Marten Mickos, aki a tavaly januárban felvásárolt MySQL elnök-vezérigazgatója volt, a beolvadás után pedig a Sun adatbázisokkal foglalkozó részlegét írányította. Szintén elhagyja a céget Michael Widenius, aki a MySQL társalapítója és egyik vezetõ fejlesztõje volt.
+
+
+
+Exodus
+
+A Sun az adatbázisokkal kapcsolatos tevékenységét beolvasztotta a Software Infrastructure csoportba, ezzel Mickos pozíciója pedig megszûnt. A szakember március végén köszön el jelenlegi munkaadójától, addig "nyílt forrású stratégaként" segíti a cég munkáját. Munkatársainak küldött rövid levelében Mickos nem árulta el távozásának pontos okát, mindössze annyit mondott, hogy szeretne a jövõben új dolgokat létrehozni.
+
+[+]  Beszélgetés Marten Mickossal, a MySQL vezérével
+
+ Elválnak a Sun Microsystems útjai Michael "Monty" Wideniusszal is, aki a MySQL egyik társalapítója volt és a MySQL fejlesztõi közösségének egyik legbefolyásosabb figurája. Widenius blogjában leírta, azért hagyja el a céget mert összekülönbözött a vezetéssel a nyílt forrású adatbáziskezelõ fejlesztési irányvonalaival kapcsolatban. A szakember Monty Program Ab néven új céget alapít, ahová követi õt a MySQL új motorján, a Marián dolgozó programozók egy része is.
+
+Blogbejegyzésében Widenius leírta, véleménye szerint a MySQL 5.1-es verzióját idejekorán adta ki a Sun, a kód még nem volt elég érett, ekkor adta be felmondását. A szakember akkor végül nem hagyta el a céget, pár hónapig még maradt, azonban azzal szembesült, hogy a problémák a fejlesztéssel és a közösségi kapcsolattartással továbbra sem oldódtak meg. Végül úgy döntött, hogy céljait a Sunon kívül sokkal jobban meg tudja valósítani.
+
+ Polner Tamás, a Sun Microsystems Magyarország marketingvezetõje a HWSW-nek elmondta, a MySQL-csapat nagyrésze továbbra is a vállalatnál maradt. "Az eredeti alapítók úgy döntöttek, más irányban folytatják pályafutásukat, ami nem szokatlan a kisebb cégek vezetõitõl" -- tette hozzá.
+
+Néhány hónapon belül a MySQL három fontos figuráját veszítette el a Sun Microsystems, tavaly õsszel David Axmark döntött úgy, hogy elhagyja a céget, mivel nem bírta a hatalmas szervezetbe olvadással kapcsolatos kötöttségeket. Axmarknak rendkívül fontos szerepe volt a MySQL fejlõdésében, ugyanis fõmérnökként nem csak a fejleszéseket irányította, hanem a MySQL vállalat informatikai vezetõi tisztségét is betöltötte, emellett a közösséggel való kapcsolatokért is õ felelt. Axmarknak köszönhetõ az is, hogy a MySQL nyílt forrásúvá vált.
+
+Mit vett egymilliárd dollárért a Sun?
+
+A Sun Microsystems 2008 januárjában nem kevesebb mint egymilliárd dollárért vásárolta meg a népszerû adatbáziskezelõ, a MySQL mögött álló vállalatot, amely a Red Hat mögött a második legnagyobb nyílt forráskódú cég volt akkor. Világszerte weboldalak milliói futnak MySQL-en, olyan ismert site-ok egyes szolgáltatásai alapulnak a nyílt forrású adatbázison, mint a Facebook, a Google, a Yahoo, vagy a Youtube. A MySQL valódi ikonja a webes világnak, az ún. LAMP szoftverrendszer (Linux, Apache, MySQL, PHP/Perl) egyik alapköve.
+
+
+ A vállalat ugyanakkor nem feltétlen csak bevételtermelõ képessége miatt vette meg a MySQL-t, hanem azért is, mert ennek elterjedtsége révén olyan potenciális ügyfeleket is meg tud szólítani, amelyek eddig kívül estek a látókörén. A nyílt forráskód a Sun számára hatékony marketingeszköz, a cég a szabadon hozzáférhetõ szoftver mellé kereskedelmi termékeket és szolgáltatásokat tud eladni. A Sun az utóbbi idõben erõteljesen a nyílt forrás irányába mozog és saját szoftvereinek többségét is megnyitotta.
+
+[+] Türelem, a Sun Microsystemsnek van stratégiája
+
+Egy nyílt forrású cég beolvasztása azonban sosem egyszerû feladat, ugyanis az igazi érték nem az egyébként is szabadon hozzáférhetõ kód, hanem a mögötte álló emberek és a közösség, ezek lojalitását és lelkesedését pedig lehetetlen megvásárolni. A szabad szoftverekbõl élõ "garázscégek" egy akvizíció után gyakran nem találják a helyüket egy dollármilliárdos gigászban, ami elõbb-utóbb ahhoz vezet, hogy a kulcsfontosságú dolgozók kiválnak -- jó példa erre a Sun mellett a Novell is, amely láthatóan nem tud mit kezdeni a SUSE Linuxszal. Ha pedig a vevõ nem tudja megtartani a tehetségeket és elveszti a közösség bizalmát, felmerül a kérdés: vajon mire fizette ki a vételárat?
+
+Egyelõre nem is igen látszik, hogy az 1 milliárd dollár mikor és hogyan térül meg a Sun számára. Bár a MySQL egyértelmûen a nagy növekedést produkáló területek közé tartozik, a nyílt forrású adatbázist is tartalmazó  infratruktúraszoftvereken elért bevétel a legutóbbi negyedévben 55 százalékkal növekedett, azonban így is csak 81 millió dollárt tett ki, ami a vállalat forgalmának 2,5 százaléka mindössze.

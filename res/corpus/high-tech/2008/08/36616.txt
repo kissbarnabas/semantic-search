@@ -1,0 +1,60 @@
+Masszívan párhuzamos felépítésû lesz a 2010-ben érkezõ IBM Power7
+
+Igaznak bizonyultak a nemrég lábra kelt pletykák, az IBM következõ generációs szerverprocesszora, a Power7 nyolcmagos lesz. Ezt maga Ross Mauri, a Power Systems divízió vezetõje közölte egy interjú során. Ezzel az IBM hivatalosan is rálépett a masszívan párhuzamos felépítésû architektúrák útjára.
+
+
+
+Katonásan masszív
+
+A Power7 radikális elmozdulást jelent az extrém órajelû, kétmagos Power6 chiphez képest, ugyanakkor egyelõre nagyon kevés mikroarchitekturális részlet ismeretes. Ez nem is csoda, hiszen az új felsõkategóriás szerverprocesszor megjelenése 2010-ben esedékes, így kommunikációs és versenyképességi okokból is indokolt az IBM hallgatása. Az eddig kiszivárgott részletek egy 45 nanométeres gyártási eljáráson 8 darab 4 utasításszálat kezelõ magot (összesen 32 szál) integráló chiprõl szólnak, melynek órajele a 3-4 gigahertzes tartományban mozog. Az új VSX vektorkiegészítéssel órajelenként 64 lebegõpontos mûveletet hajthat végre a Power7, ez akár 256 gigaflops elméleti csúcsot is jelenthet chipenként, szemben a Power6 40 gigaflopsával. Egy processzormodulra alapesetben két Power7 chip kerül, vagyis egy modul 16 magot, 64 utasításszálat és 512 gigaflopsot is hozhat.
+
+
+
+
+Ross Mauri
+
+
+
+Mauri az IT Jungle-nek adott interjújában erõsítette meg a nyolcmagos felépítést, ugyanakkor mikroarchitekturális részleteket nem árult el a versenytársakra hivatkozva. A terméktervek alapján a Power7 jelentõs mikroarchitekturális változásokat fog magával hozni, várhatóan megjelennek az egyes kódterületekre specializált gyorsító áramkörök, és a magok hibrid felépítésûek lesznek -- bármit is jelentsen ez. Az IBM a Power6-hoz képest ötszörös, a Power5-höz viszonyítva tízszeres gyorsulással kecsegteti ügyfeleit a Power7 kapcsán.
+
+A Power7-tel kapcsolatos részletekre a Blue Waters kódnéven fejlesztett szuperszámítógépes rendszer specifikációiból derült fény. A Power7 chip és rendszerek fejlesztéseit az IBM jelentõs részben a DARPA (Defense Advanced Research Projects Agency, az Egyesült Államok védelmi minisztériumának kutatási hivatala) által biztosított 244 millió dollárból finanszírozza. A támogatás célja a szuperszámítógépes rendszerek következõ generációjának megalkotása, melyek extrém mûveleti párhuzamosságot képesek elérni, és potenciáljukat hatékonyan kiaknázni.
+
+A program elõírja, hogy legalább 2 petaflops teljesítményt csikarjanak ki a hardverbõl, és 4 petaflopsig skálázódjanak -- a Blue Waters papíron 10 teraflopsot teljesít. Az IBM egyúttal vállalta, hogy legalább 500 millió dollárt költ a Power7-tel, a rendszerekkel és szoftverekkel kapcsolatos kutatás-fejlesztésre. Piackutatási adatok alapján a UNIX-szerverek éves értéke 15 milliárd dollár fölé rúg, míg a küldetéskritikus rendszereké a 20 milliárdot is meghaladja. A x86-os architektúra által dominált HPC-piac mérete nagyjából 10 milliárd dollár, vagyis az IBM rendszerei által megcélzott piacok összmérete legalább évi 30 milliárd dollár.
+
+Eltervezett evolúció?
+
+Az erõteljesen párhuzamos felépítésû Power7 jelentõs változásnak tetszik a kétmagos, extrém órajelekkel magas egyszálú teljesítményt nyújtó Power6-hoz képest. A Power6 órajele eléri az 5 gigahertzet, és megjelenésekor a  legmagasabb egyszálú lebegõpontos teljesítményt nyújtotta. A chip tömegszerverek számára elérhetetlen sávszélességek segítségével közel lineáris a skálázódás a magok számának növelésével, így memóriaintenzív kódok alatt négyutas rendszerek felett gyakorlatilag tönkreveri riválisait az iparági benchmarkokban. 
+
+
+
+Power6+
+
+A Power6 és 7 közötti hidat a piacon a Power6+ fogja képezni, mely várhatóan valamikor jövõre kerül be a Power System szerverekbe, 45 nanométeres eljárással készül, és megduplázza a rendszerek magszámát -- hogy szilíciumon, tokon vagy modulon, egyelõre nem publikus.
+
+
+Egyelõre nem világos, hogy a párhuzamosság felé való fordulással egyidõben az IBM mérnökei hogyan tudták kezelni az egyszálú teljesítményt. Bár a szervereken futó kódok jellemzõen párhuzamosítottak, a skálázódásnak nagyon is tapintható korlátai mellett vannak feladatok, mint például tranzakcioknális kiszolgálás, ahol az egyes futási idõk is kritikusak lehetnek. A Power6 érdekessége az Intel, az AMD és a Sun fejlesztéseinek fényében éppen abban rejlett, hogy látszólag az egyszálú végrehajtást helyezte elõtérbe, és a Power5 generációhoz képest nem növelte a fonalak számát, megmaradt a chipenként két magnál és összesen négy szálnál.
+
+Elsõre talán kontraintuitívnak tûnhet, de elképzelhetõ, hogy az IBM valójában nem váltott irányt egyszer sem, hanem a Power6 a piac és az AIX szoftverplatform felkészítésének egy következõ lépése a párhuzamosabb világba vezetõ úton. A Power6 nem rendelkezik a Power5-ben még meglévõ agresszív soronkívüli motorral, gyakorlatilag teljes egészében mellõzi a dinamikus ütemezést és a soronkívüli (out-of-order, OoO) végrehajtást, annak nyomai csak egyes lebegõpontos mûveleteknél maradtak meg. Az IBM talán nem az órajel oltárán áldozott, ellenkezõleg, az extrém órajellel ellensúlyozta többek közt az OoO hiányát, és az órajelen keresztül az egyszálú teljesítmény érdekében nem emelkedett a magok száma. 
+
+[+] Power6: tervezési koncepció és teljesítmény 
+
+Az AIX szoftverszállítóknak így több év áll rendelkezésükre, hogy kódjaikat a Power6 soros mikroarchitektúrájához trenírozzák, és az irány ismeretében szoftvereik párhuzamosságát és skálázódásuk hatékonyságát is fokozzák. A Power7 ugyanis nem kevesebb mint nyolcszor több utasításszálat kezel párhuzamosan mint a Power5 vagy a Power6, egy ekkora váltás pedig valószínûleg túlságosan sokkszerû lett volna az esetlegesen stagnáló vagy visszaesõ egyszálú teljesítmény mellett -- így nagyjából három év extra idõt kaptak a felkészülésre. Mindez természetesen spekuláció, a Power6 kapcsán korábban a HWSW hasábjain felmerült például az is, hogy az extrém órajeleket a mainframe-ek Power-migrációjához szükséges dinamikus fordítás természete indokolja -- ez azonban tévedésnek bizonyult.
+
+
+ Újra és újra felvetõdik a kérdés persze: mekkora az igény ilyen méretû és teljesítményû rendszerekre? A magyar piacon gyakorlatilag nincs kereslet a  legnagyobb konfigurációkra, és úgy tûnik, a számítási igények növekedése sem tart lépést a technika fejlõdésével. A vezetõ szerverszállítók, köztük az IBM válasza erra az, hogy így egyre kisebb, költséghatékonyabb dobozokkal tudják kiszolgálni ügyfeleiket -- Mauri a Power7 kapcsán maga is beszélt a kompaktabb, csendesebb formátum felé történõ elmozdulásról.
+
+Nehézsúlyú ellenfelek
+
+A még elektronikai tervezés alatt álló Power7 ellenfelei közé 2010 magasságában a Sun Microsystems Rock/Rock+ chipjei tartoznak. A Rock, melynek 45 nanométeres változata a Rock+, több érdekességgel is bír: 16 egyszerû felépítésû magot integrál 4x4-es szervezésben, és 32 utasításszálat kezel szimultán, valamint egzotikus módon implementált spekulatív soronkívüli végrehajtással bír. A 4x4-szervezésben négy mag osztozik az L1 utasítás- és adattáron is, ezek a blokkok pedig egy belsõ crossbar (összekötõ) felületen kommunikálnak egymással, az L2 tárral és a külvilággal egyaránt. A szuperskalár magok négy utasítás szélesek, a komplexitás és fogyasztás leszorítása érdekében pedig nélkülözik a dinamikus utasításütemezést, alapvetõen sorrendben hajtják végre a szoftveres szál utasításait, ugyanakkor egzotikus módon mégis soronkívüli végrehajtásúak lehetnek. 
+
+Egy szál végrehajtását megakasztó esemény bekövetkeztekor (tipikusan TLB/cache-miss) egy árnyékszál tovább folytatja az utasításszál futtatását, és elõmelegíti a cache-eket, elõre dekódolja a soronkövetkezõ utasításokat, és egyes esetekben végre is hajtja azokat, és egy átmeneti tárolóba helyezi az eredeményeket. Mikor a futást korábban megakadályozó esemény elhárul, akkor ismét folytatódik a valódi fonál végrehajtása, de már az árnyékfonalak által kitaposott úton, akár kész eredményeket találva -- a "vártnál" jóval gyorsabban. A technika szépsége, hogy a komplexitás minimális, néhány százalékos emelkedése mellett úgy segíti futásidõben a teljesítmény fokozását, hogy teret enged a kimerítõ szoftveres optimalizációnak is, ugyanis csak "probléma" estén avatkozik be. 
+
+[+] A Sun UltraSPARC új generációja: Rock
+
+A Rock ezenkívül tranzakcionális memóriavezérlésre is képes, amivel hatékonyabbá teheti a memória kihasználását. A metódus célja, hogy a párhuzamosan futó szálak ne blokkolják a memóriát, mint a hagyományos rendszerekben, ahol az azonos címekre hivatkozás miatt a memória egyes részeit csak egy szál tudja írni vagy olvasni. A Rock ezért csoportokba rendezi a különbözõ szálakhoz tartozó memóriamûveleteket, amelyeket aztán tranzakciókra darabol szét, ezáltal lehetõvé téve, hogy egy memóriaterülethez akár több szál is hozzáférjen kizárások ("mutex") nélkül. A Sun 65 nanométeren 2,3 gigahertzet és 250 wattos fogyasztást céloz meg a Rockkal, az elsõ szerverek szállításai jövõ év közepére várhatóak legkorábban. 
+
+A már készen lévõ, és a szerverekbe való beépítésre váró Rockkal szemben sokkal kevesebb részlet ismert a 2010 végére, 2011-re várható Poulsonról, mely az Intel Itanium processzorcsaládjának tagja. A Poulson legnagyobb érdekessége jelenleg, hogy már 32 nanométeres félvezetõeljárást alkalmaz majd. Az Itanium család ezzel kihagyja a 45 nanométeres fázist, hogy egy ugrással drasztikusan javítson versenyképességén, jelenlegi nyomasztó hátrányát elõnyre váltva: a kétmagos Itanium chipek ma még mindig 90 nanométeres eljáráson készülnek, míg az IBM Power6 és a Fujitsu SPARC64 VII is már 65 nanométeres technológiával. A 32 nanométeres eljárás akár 16 nagyteljesítményû vagy 32 keskenyebb mag számára is elegendõ helyet tudna biztosítani hatalmas gyorsítótárak társaságában -- az Intel ultrapárhuzamos mikroarchitektúráról beszél.
+
+[+] Lassabb lesz a vártnál a négymagos Itanium, de így is átütõ elõrelépés 
+
+A távoli és gyakorlatilag ismeretlen Poulsonig azonban még érkezik az idei év végén, jövõ év elejére pedig szerverekbe a Tukwila, a négymagos Itanium. A 65 nanométeren implementált processzor legnagyobb újdonsága a duplázódott magszám mellett a gyökeresen új rendszerinfrastruktúra. A korábbi, mára már igencsak idejemúlt és a teljesítmény gátjává vált PA-RISC buszrendszert az Intel QuickPath pont-pont  összeköttetései váltják, és a processzorok integrált memóriavezérlõt kapnak. Mindez egy nagyságrenddel nagyobb sávszélességeket és drasztikusan alacsonyabb késleltetéseket jelent a rendszerben, így a processzor erõforrásai is jóval magasabb kihasználtságúak lehetnek korábban memóriakorlátos kódok alatt. Az Intel mindezek ellenére kétszeres teljesítménynövekedésrõl beszél mindössze, igaz, hozzáteszi: legalább, ha belevesszük a lazított, 170 wattos TDP-vel elérhetõ 2 gigahertzes órajelet is.

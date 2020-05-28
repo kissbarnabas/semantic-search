@@ -1,0 +1,20 @@
+A világ második leggyorsabb szuperszámítógépét üzemelte be a Sun
+
+A világ második legnagyobb teljesítményû szuperszámítógépét helyezték üzembe a Texasi Egyetemen, Austinban. A 15744 darab négymagos Opteron processzorból álló, Ranger becenevû installációt a Sun Microsystems szállította a National Science Foundation és a Texas Advanced Computing Center részére. A Ranger teljesítménye 504 teraFLOPS, azaz billió mûvelet másodpercenként, amivel második az amerikai energiaügyi minisztérium 212 ezer processzoros, 596 teraFLOPS-os Blue Gene/L konfigurációja mögött.
+
+
+
+A Ranger a Sun kimondottan nagy számítási teljesítményt igénylõ környezetekhez tervezett Constellation blade-rendszerének egyik megvalósulása. Az összesen 82 rackszekrényt elfoglaló szuperszámítógép 3936 ezer blade szerverbõl áll, mindegyik 4 processzort, összesen 16 magot tartalmaz, amelyet 123 terabájt memória és 1,7 petabájtnyi háttértár egészít ki. A Constellation legfontosabb érdekessége azonban nem a rackek nagy száma, hanem az összekapcsolásukra használt Infiniband-switch, amely a legnagyobb a világon.
+
+Nagyot lõ a Magnum
+
+A korábban Magnum kódnéven fejlesztett, 110 terabit/s belsõ sávszélességû Datacenter Switch 3456, a nevéhez hûen összesen 3456 portot kezel egyetlen készülékben, viszonylag alacsony (700 ns) késleltetéssel -- a rivális gyártók legnagyobb switchei 288 portosak, a késleletésük pedig ennél nagyobb portszám esetén a topológiából adódóan jóval magasabb. Sun Datacenter Switchbõl egyébként akár négy is összekapcsolható, vagyis egy több mint 13 ezer csomópontot tartalmazó fürt is felépíthetõ a versenytárs megoldásoknál lényegesen kevesebb aktív hálózati eszközzel és kábellel.
+
+A Magnum egy egyedi tervezésû házban kapott helyet, amelynek a belsejében és persze a külsején is különös gondot fektettek a magas portszám miatt a  magánál a switchnél is jóval nehezebb kábelek elvezetésére. A kábelek egyébként egyedi fejlesztésûek, különlegességük, hogy egy fizikai aljzatra egy elosztón át három darab 4x sebességû InfiniBand-kábel csatlakozik. A kábelek aktívak, a felügyeleti szoftverbõl mindegyiknek lekérdezhetõ az állapota (be van-e dugva, hová van dugva, zajlik-e rajta adatforgalom, stb.). A switch méreteire jellemzõ, hogy teljes kiépítés esetén a fogyasztása 36 kilowatt.
+
+Bárki ingyen használhatja
+
+
+A 30 millió dollárból épített Ranger telepítése 2007 végén kezdõdött meg. A Texasi Egyetemen egy vadonatúj épületet húztak fel a szuperszámítógép számára, amelyben 560 négyzetmétert foglal el maga a gépterem. A Ranger élettartama alatt az üzemeltetési költségek 29 millió dollárt tesznek ki a jelenlegi becslések szerint, ugyanis a számítógép fogyasztása 2 megawatt, a hûtésérõl gondoskodó berendezésé pedig további 1 megawatt.
+
+A Rangert különféle tudományos területeken vetik be, az Egyesült Államok bármelyik kutatója pályázhat gépidõre, egy akadémiai bizottság bírálja el a kérelmeket. Máris 400-an használják a gépet és 100 millió órányi mûködést kötöttek le elõre, az elsõ felhasználók között van a Texasi Egyetem csillagászati intézete, amely az õsrobbanás, valamint az elsõ csillagok és galaxisok létrejöttének ideje között eltelt idõszakot, az úgynevezett kozmológiai sötétkor történéseit igyekszik szimulálni. "A Ranger valóságos idõgép. Betápláljuk a Big Bang adatait, és figyeljük, néhány százmillió év alatt mi történik, hogyan jönnek létre az elsõ csillagok és galaxisok" -- lelkendezett Volker Bromm professzor.

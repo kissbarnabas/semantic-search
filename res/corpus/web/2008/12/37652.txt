@@ -1,0 +1,14 @@
+Egyre gyakrabban támadják az Internet Explorer javítatlan sérülékenységét
+
+Egyre többet támadják az Internet Explorer befoltozatlan biztonsági rését, amelyre pont a múlt hét szerdán, vagyis a Microsoft szokásos havi hibajavításainak megjelenését követõ napon derült fény. A Microsoft Malware Protection Center blogja alapján péntekrõl szombatra látványosan megnõtt a támadásokról beérkezõ jelentések száma.
+
+
+
+Biztonsági szakértõk már a múlt héten figyelmeztettek arra a kritikus hibára, amelyet az Internet Explorerben javítatlanul hagyott a Microsoft. A sebezhetõség a böngészõ minden eddigi változatát érinti, beleértve az Internet Explorer 5.01-et és az Internet Explorer 8 Beta 2-t is, az eddig látott támadókódok azonban az Interet Explorer 7-re koncentálnak, mivel ez a legelterjedtebb változat az összes közül.
+
+Az elsõ támadásokat még fõleg warez- és pornóoldalakról indították, azonban a Microsoft blogja szerint egyre több legitim weboldalt -- köztük egy tajvani keresõt -- is uralmuk alá hajtottak a bûnözõk -- általában SQL-beszúrással -- és csapdát állítottak az IE7-tel érkezõ felhasználóknak. A Trend Micro becslései szerint a hétvégére világszerte már több mint 6 ezerre nõtt a fertõzött oldalak száma és egyre emelkedik. A támadásokról szóló jelentések kétharmada már az Egyesült Államokból érkezik.
+
+
+ A Microsoft is elismeri, hogy a támadások komoly problémát okoznak, bár a cég statisztikái szerint az internetezõknek mindössze 0,2 százaléka kerülhetett kapcsolatba olyan weboldalakkal, amelyek támadó kódot tartalmaznak. "Noha az arány alacsonynak tûnik, ez valójában azt jelenti, hogy sok felhasználó lehet érintett" -- olvasható Ziv Mador és Tareq Saade, a Microsoft biztonsági szakértõinek blogbejegyzésében.
+
+A Microsoft már dolgozik az Internet Explorer sebezhetõségének javításán, azonban egyelõre nem tudni, hogy a frissítés a következõ patch kedden, január 9-én jelenik-e meg, vagy soron kívül kiadják. Amíg a javítás nem áll rendelkezésre, a Microsoft a sérülékenységrõl szóló weboldalán összesen kilenc különféle "workaroundot" is nyilvánosságra hozott, amelyek alkalmazásával az IE immunizálható.

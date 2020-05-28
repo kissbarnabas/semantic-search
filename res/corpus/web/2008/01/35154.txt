@@ -1,0 +1,22 @@
+Személyes adatnak számít-e az IP-cím?
+
+[Associated Press/HWSW] Az IP-címeket személyes adatként kell kezelni, mondta el álláspontját az Unió adatvédelmi biztosainak vezetõje. Ez a vélemény nem egyezik a Google meglátásával, mely szerint az IP-címek csak számítógépeket azonosítanak, nem pedig embereket.
+
+
+
+Ha egy felhasználót IP-címmel azonosítanak, úgy személyes adatként kell kezelni azt, hangoztatta Peter Scharr az Európai Parlement egy meghallgatásán, mely az online adatvédelem kérdését tárgyalja. A német biztos vezette csoport egy jelentés készítésén dolgozik, mely az internetes keresõk adatvédelmi politikáját vizsgálja, valamint azt, hogy azok összhangban állnak-e az európai törvényekkel.
+
+A Google-nek kellenek az IP-címek
+
+Scharr álláspontja leginkább a Google-re nézve kellemetlen, mely a világ legnagyobb keresõje. A Google keresõmotorja és hirdetéseket kiszolgáló rendszere ugyanis egyaránt felhasználja az IP-címeket mûködéséhez, melyek a mûködés hatékonyságát szolgálják, mondta el Peter Fleischer, a vállalat jogtanácsosa. Az IP-címek használatának legfõbb szerepe abban rejlik, hogy segítenek behatárolni a felhasználó földrajzi elhelyezkedését, így a keresési találatok és hirdetések relevanciáját fokozni lehet. "Ha beírja valaki a focit, másmilyen találatokat kap Londonban, mint New Yorkban" -- magyarázta az Associated Press hírügynökségnek. A Google online hirdetési rendszerében a célcsoportokat földrajzilag is körül lehet határolni, aminek mûködéséhez  szükséges a látogatók IP-címének tárolása számlázási szempontból is.
+
+Fleischer szerint az IP-cím nem tekinthetõ személyes adatnak, ráadásul a Google azt ráadásul csoportos trendelemzésekhez használja fel. A vállalat az utolsó két számjegyet levágja az eltárolt IP-címekbõl, melyeket 18 hónap után önként töröl. Szintén önkéntesen 2 évre csökkentették a sütik élettartamát a korábbi 30 évrõl -- igaz ennek praktikus jelentõsége megkérdõjelezhetõ. A Google számára szükséges továbbá az IP-címek átmeneti tárolása ahhoz, hogy a kattintásos csalásokkal szemben védje reklámozó ügyfeleit, és a hirdetési rendszerbe vetett bizalmat. A Google a szeptemberrel zárult negyedévben több mint 4 milliárd dollár forgalom mellett 1 milliárd dolláros adózott nyereséget kaszált a rajta keresztülfolyt reklámokon.
+
+
+Scharr a meghallgatáson elismerte, hogy az IP-cím nem mindig azonosít egy embert, mikor például egy router mögötti gépek esetében, sõt valamikor egy számítógép sem köthetõ egy személyhez, mert többen használják. Véleménye szerint azonban inkább kivételnek kell tekinteni azt, mikor az IP-cím egyáltalán nem köthetõ személyhez, ugyanis egy adott IP-címet és számítógépet többnyire ugyanazok az emberek használnak -- csak nyilvános helyekre, mint például internet kávézó, egyetemi laborok, jellemzõ az, hogy nem köthetõ egy vagy több felhasználó személye egy IP-hez.
+
+IPv6 és mobil internet faktor
+
+"Ez nem fekete-fehér kérdés: valamikor az IP-címet személyes adatnak lehet tekinteni, valamikor nem, a körülményektõl függ, és hogy milyen személyes adatot fed fel" -- mondta el Fleischer. A területre szakosodott jogvédõ szervezet, az Electronic Privacy Information Center (EPIC) vezetõje szerint ugyanakkor a jövõ arra halad, hogy az IP-címek egyre szorosabban kötõdnek majd személyekhez. "Az IPv6 modell felé haladunk, mely esetében méginkább az lesz a helyzet, hogy az IP-címek személyesen azonosíthatóvá válnak" -- mondta Marc Rotenberg. Az IPv6 128 bites tartományával minden egyes hálózati berendezés egyedi, akár állandó azonosítóval rendelkezhet majd az egész világon, ami a mobil internet terjedésével párosulva épp úgy összeköti a felhasználót az IP-címmel, ahogyan ma a mobiltelefonszám.
+
+Thomas Nyrup a Microsoft elmondta, hogy vállalata nem rögzíti a látogatók IP-címét, mégpedig pont adatvédelmi megfontolások alapján. A vállalat keresõfejlesztésének alapjait a Microsoft Live (korábban Passport) rendszerbe bejelentkezett felhasználók szolgáltatják. Nyrup szerint a legfontosabb az, hogy a cégek biztosítsák a teljes anonimitást, mely visszafejthetetlen. A meghallgatáson felmerült az e-mailek elemzésének kérdése, ahol megintcsak a Google tûnt fel rosszabb színben, ugyanis a hirdetések érdekében elemzi azok tartalmát -- ugyanakkor Fleischer elmondása alapján nem tárolnak semmit.

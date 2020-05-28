@@ -1,0 +1,46 @@
+Kipróbáltuk: D-Link DNS-323 hálózati adattároló nyomtatószerverrel
+
+Nem kell százezreket kiadnunk ahhoz, hogy állományainkat otthon is biztonságban tudhassuk, illetve helyi hálózatunkon is elérhetõvé tegyük. A D-Link háza nagyjából annyiba kerül, mint a Netgear korábban tesztelt otthoni hálózati adattárolója, azonban nem kell hozzá kliensprogramot telepíteni, csendesebb, és egy kellemes extrával is rendelkezik.
+
+
+
+323
+
+A D-Link otthonra, kisebb irodába szánt adattároló-sorozata jelenleg három tagból áll. A legkisebb DNS-321-es hajszálnyit butább szoftverrel, nyomtató kapcsolását lehetõvé tévõ USB port nélkül vásárolható meg, míg a legokosabb 343-as akár 4 darab merevlemezt is kezel, a méregdrága ReadyNAS-hoz hasonlóan. Mi a középsõ 323-ast választottuk, ez körülbelül bruttó 45-50 ezer forint közötti áron vásárolható meg merevlemezek nélkül.
+
+
+
+A DNS-323-as háza pillekönnyû, ez fõként annak köszönhetõ, hogy a tápegységet külön kapcsoljuk hozzá. Az adattárolóba két darab SATA merevlemezt helyezhetünk, akár különbözõ gyártótól származóakat és méretûeket is. A merevlemezeket elméletileg csak be kell csúsztatni a helyükre, itt azonban tapasztaltunk némi anomáliát: a teszthez használt 160 gigabájtos merevlemezek vékonyabbak a normál 3,5 hüvelykes merevlemezeknél, erre pedig a D-Link láthatóan nem gondolt. Az elõlapba épített támasztékok nem tudták kellõen megfogni a merevlemezeket, más rögzítési lehetõség pedig nincs, így azok ott lötyögtek a szabadon maradt helyen bezárt ház esetén is. Még szerencse, hogy egy ilyen eszközt ritkán cipelünk egyik helyrõl a másikra.
+
+A házon egyetlen kisméretû ventilátor kapott helyet, ez hivatott gondoskodni a szellõzésrõl, munkáját szerencsére csendben és megfelelõ hatékonysággal méri. Bár a szoftver nem tud a merevlemezekbõl hõmérsékleti adatot kiolvasni, egy hõmérõt azért csak elhelyeztek a házban, mely 40 fok körüli hõmérsékletet mutatott maximum egy nap után is. A merevlemezek kikapcsolását szerencsére idõzíteni lehet, így ha nem használjuk õket, leállnak. A hátoldali USB-portba nyomtatót dughatunk, az adattároló egyben nyomtatószerverként is funkcionálhat.
+
+
+
+Szolgáltatások
+
+A DNS-323 szerencsére okosabb szoftverrel rendelkezik, mint a Netgear-é, ehhez nem kell külön kapcsolódást lehetõvé tévõ szoftvert feltelepítenünk egyetlen gépre sem. A Windows és más operációs rendszerek hálózati eszköz megosztott könyvtáraiként látják a merevlemezeket, illetve a particiókat, könyvtárakat. Az elsõ bekapcsolást követõen a mellékelt programmal megtalálhatjuk a DNS-323 hálózati címét, de Windows alatt uPNP-s hálózati eszközként is megjelenik a hálózati böngészõben, így kettõt kattintva máris megnyílik a webes konfigurációs felület.
+
+Az elsõ teendõ a merevlemezek particionálása. Választhatunk a merevlemezeket külön egységként elérhetõvé tévõ standard, a két merevlemezt egyetlen logikai merevlemezzé egyesítõ JBOD, a gyorsabb elérést nyújtó, merevlemezeket összefûzve párhuzamosan író RAID 0 és a tükrözéssel biztonságot nyújtó RAID 1 között. Utóbbi esetén a RAID 1 tömb nagyságát a kisebbik merevlemez kapacitása korlátozza. A DNS-323 viszont tud egy igen hasznos trükköt.
+
+A RAID 1 tükrözés akkor is elérhetõ, ha nem szeretnénk a teljes kapacitást erre áldozni. Normál esetben a két 160 gigabájtos merevlemez tükrözve csak 160 gigabájtnyi adat tárolását teszi lehetõvé, mindkét merevlemezen ugyanaz a tartalom található. A DNS-323-nál viszont mondhatjuk azt, hogy csak 50 gigabájtnyi kapacitást áldozunk az érzékeny adatainknak, mentéseinknek, a fennmaradó 2 x 110, azaz 220 gigabájtnyi kapacitást pedig az adattároló összefûzi nekünk egyetlen logikai egységbe (JBOD). Így összesen nem 160, hanem 270 gigabájtnyi adatot másolhatunk az adattárolóra, a fontos anyagokat a RAID 1 tükrözésre, a kevésbé fontosakat az összefûzött partícióra helyezve el. Valamelyik merevlemez meghibásodása esetén a JBOD-s partíciónk adatai elvesznek, a tükrözést viszont helyre tudja állítani az adattároló egy új, jó merevlemez behelyezésével.
+
+
+
+
+A létrehozott partícióinkkal -- hiszen több is lehet -- szabadon garázdálkodhatunk. A szoftverben felhasználókat, csoportokat hozhatunk létre, írási-olvasási, vagy csak olvasási jogokat adhatunk jelszavakkal mindenkinek, vagy a csoportoknak egyes könyvtárakra, vagy akár teljes partíciókra. Kvótákat is beállíthatunk, így minden létrehozott felhasználó csak annyi merevlemez-kapacitással gazdálkodhat, amennyit engedélyezünk.
+
+A DNS-323 képes uPnP AV és iTunes-szerverként is mûködni, így akár konzolunk, vagy ezzel kompatibilis hálózati médialejátszónk is láthatja a megosztott, felmásolt állományokat, zenéket, képeket és videókat. A beépített FTP-szerverrel pedig a hálózaton kívülrõl, az internet felõl is hozzáférhetünk az egyes file-okhoz.
+
+Otthonra
+
+A gigabites Ethernet csatlakozással akár 23 megabájt/s-os olvasási és 15 megabájt/s-os írási sebesség is elérhetõ RAID 0 konfiguráció esetén a D-Link szerint -- ezt sajnos gigabites router hiányában nem tudtuk kipróbálni, azt azonban igen, hogy a 100 megabites vezetékes kapcsolatot szinte teljesen kihasználhatjuk, jellemzõen 10 megabájtos írási és olvasási sebességet értünk el. A helyi hálózatra vezeték nélkül kapcsolódó számítógépeknél, noteszgépeknél, lejátszóknál természetesen a Wi-Fi-kapcsolat sebessége lesz a korlát, a vezetékes sebességnek csak körülbelül ötödére számíthatunk.
+
+     
+
+A DNS-323-hoz egy egyszerûbb adatmentõ alkalmazást is kapunk, a Memeo AutoBackup egyetlen számítógépen használható, teljes verzió. Adatainkat képes inkrementálisan is, csak a változásokat követve elmenteni, az akár titkosítva is rögzített file-okhoz pedig egy kis visszaállító programot is másol -- ha kérjük --, mely egy teljesen szûz Windows-telepítés után igen hasznos lehet. A programhoz .Net 1.1-et kell telepíteni, használata nagyon egyszerû.
+
+A D-Link DNS-323 megbízhatóságáról sajnos pár napos tesztünk alatt nem gyõzõdhettünk meg, arról viszont igen, hogy nem tehet rossz lóra, aki ezt a hálózati adattárolót választja. A legszükségesebb protokollokat, az FTP-elérést, AV-szerverként mûködést támogatja, operációs rendszertõl független -- nem kell kliensprogram hozzá --, az okos merevlemezkezelés pedig már csak hab a tortán. Ha lenne ilyen nálunk, akkor egy "jó vétel" plecsnit nyugodtan kaphatna.
+
+Véleménye van?
+Szóljon hozzá a fórumban
+írjon szerkesztõségünknek!

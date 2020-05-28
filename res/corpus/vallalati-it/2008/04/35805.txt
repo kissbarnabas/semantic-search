@@ -1,0 +1,30 @@
+Megérkezett a MySQL 5.1
+
+Az immáron hatodik alkalommal megrendezett MySQL User Conference and Expo rendezvényen a Sun Microsystems bejelentette a népszerû nyílt forrású adatbázis 5.1-es verzióját. A szoftvernek egyelõre csak egy elõzetes változata érhetõ el, a végleges a nyáron érkezik. 
+
+
+
+Marten Mickos, a Sun Microsystems adatbázis-részlegének vezetõje a MySQL User Conference and Expón résztvevõ mintegy 2 ezer szakember elõtt bevallotta, a MySQL 5.0 megjelenésekor a minõsége nem volt a legjobb, és ezt a hibát nem szeretnék mégegyszer elkövetni. Ezért a MySQL 5.1-et továbbra is csiszolgatják, a cég ma már sokkal keményebb elvárásokat támaszt saját magával szemben -- az 5.1 kiadásra jelölt elõzetesében máris kevesebb a hiba, mint az 5.0 végleges változatában volt. Ennek ellenére a  MySQL 5.1 elõzetesét nem ajánlott termelési környezetben bevetni. Mickos szerint a késésnek nincs köze ahhoz, hogy a MySQL a Sun kezébe került.
+
+Új nagyvállalati funkciók
+
+A MySQL 5.1 számos olyan funkcióval bõvült, amelyek elõsegíthetik a szoftver terjedését nagyvállalati környezetben. A szoftver már támogatja a táblák és indexek particionálását, amivel felgyorsulhat a lekérések teljesítése, ugyanis csak a releváns adatpartíciókat kell az adatbáziskezelõnek "átnéznie", nem az egész táblát vagy indexet. Emellett a particionálás egyszerûsít egyes üzemeltetési és tárolási funkciókat is -- állítja a Sun.
+
+Az oszlop-alapú és hibrid replikáció bevezetése révén javult a MySQL biztonsága, robosztussága. Az oszlop-alapú replikáció két szerver között közvetlenül replikálja az adatok változásait (nem az SQL utasításokat), a hibrid replikáció pedig az adott SQL mûvelettõl függõen parancs-alapú vagy oszlop-alapú replikációt használ a legnagyobb biztoság érdekében. A Sun által kiemelt újdonságok közé tartozik még, hogy a MySQL 5.1 lehetõvé teszi az adminisztrátorok számára, hogy elõre beállított idõpontban futtassanak SQL-alapú feladatokat az adatbázis-szerveren. A Sun szerint ez jóval szélesebb körû megoldás, mintha a feladatokat a Linuxon vagy UNIX-on elterjedt CRON-ra, vagy a Windows feladatütemezõre bíznánk.
+
+A vállalati környezetre szabott MySQL Enterprise elõfizetõi számára mostantól elérhetõ egy Upgrade Advisor, amely folyamatosan figyeli az adatbázist és tájékoztatja a rendszergazdákat, ha olyan hibára vagy sérülékenységre derülne fény, amely érinti a rájuk bízott rendszert. Amennyiben ez megtörténik, az Upgrade Advisor pontos leírással szolgál arra nézve, hogyan kell az adatbáziskezelõt frissíteni a hiba kijavítása érdekében.
+
+Marten Mickos bemutatja a MySQL 5.1-et
+
+Minden maradt a régiben
+
+Amint arról beszámoltunk, a Sun Microsystems idén januárban jelentette be, hogy egymilliárd dollárért felvásárolja a MySQL-t. Az integráció villámgyorsan lezajlott, a MySQL ma már a Sun adatbázis-részlegeként mûködik tovább, a vezetõje a MySQL elnök-vezérigazgatója, Marten Mickos. A MySQL 5.1-es verziója az elsõ kiadás, amely már a Sun égisze alatt jelenik meg. Sokan attól tartottak, hogy az összeolvadás után változni fognak a MySQL licencelési feltételei, de a mostani bejelentés ezeket cáfolja: minden maradt a régiben.
+
+[+] Beszélgetés Marten Mickossal, a MySQL vezérével
+
+A MySQL 5.1 három verzióban lesz elérhetõ. A MySQL Community Server teljesen szabadon letölthetõ és használható, azonban ehhez nem jár semmilyen szolgáltatás vagy támogatás. A MySQL Enterprise Serverhez az elõfizetési díjért cserébe rendszeresen érkeznek a frissítések, valamint a negyedéves szervizcsomagok, elérhetõk hozzá proaktív felügyeleti eszközök, illetve a Sun 24 órás technikai támogatása. A harmadik változat az Embedded Server, amely lehetõvé teszi a szoftvergyártók számára, hogy a termékeikbe beépítsék a MySQL-t anélkül, hogy kötné õket a GPL licenc.
+
+A HWSW érdeklõdésére a Sun Microsystems magyarországi
+leányvállalatának marketing-igazgatója elmondta, a vállalat itthon is teljes mellszélességgel a MySQL mögé áll. A Sun aktívan fel szeretné térképezni a hazai MySQL felhasználói bázist, és rendszeres információval kívánja ellátni õket például hírlevelek, rendezvények, szakmai napok keretén belül -- tudtuk meg Polner Tamástól. A tervek között máris szerepel a Webconf.hu rendezényen a MySQL megjelenése a konferencia programjában, de a Sun hagyományosnak mondható éves Java és Open Source fejlesztõi konferenciáján is kiemelt figyelmet szentelnek majd az adatbázisnak júniusban.
+
+A MySQL 5.1 várhatóan júniusban jelenik meg a szokásos platformokon, amelyek között megtalálni többek között a Red Hat és SUSE Linuxot, a Microsoft Windowst, a Sun Solaris 10-et, Mac OS X-et, FreeBSD-t, a HP-UX-ot, IBM AIX-et, valamint az i5/OS-t.

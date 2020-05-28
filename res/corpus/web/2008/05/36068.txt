@@ -1,0 +1,14 @@
+Nem feltétlenül biztonságosak az EV-SSL aláírással ellátott weboldalak
+
+[Techworld] Komoly cross-site scripting (XSS) hibát találtak az eBay PayPal fizetési szolgáltatásának weboldalában, mellyel ellophatók az ügyfelek bejelentkezési adatai, vagy böngészõjének sütijei. Az eset pikantériája, hogy az adott oldal Extended Validation SSL (EV-SSL) minõsítéssel, aláírással rendelkezik, így annak biztonságosnak kellett volna lennie.
+
+
+
+A sérülékenységre akkor bukkantak rá, amikor egy technikai hiba folytán számos e-kereskedelmi weboldal PayPalos kapcsolatában fennakadás keletkezett és az online fizetési rendszer hibásan mûködött. A kereszt-szkriptelési hibát kihasználva a PayPal oldalán megadott bejelentkezési adatok illetéktelen kezekbe juthattak.
+
+A PayPal azonnal javította a hibát, arról nincsenek adatok, hogy azt bárki felhasználta volna illetéktelen célokra. Az eset inkább azért kapott nagyobb nyilvánosságot, mert az oldalt EV-SSL tanúsítvány védte, mely elméletileg még erõsebb ellenõrzést bizonyítana, a biztonságot sugallva a PayPal felhasználói számára. Az újabb böngészõk, mint az Internet Explorer 7, vagy a nemsokára megjelenõ Firefox 3 külön színnel, zöld címsorral jelölik az EV-SSL tanúsítvány meglétét.
+
+
+Az internetes bankok, vagy cégek, mint a PayPal különbözõ megoldásokkal védekeznek az adathalász kísérletek ellen. A nemrég zajlott RSA Conference rendezvényen a PayPal néhány jövõbeni lépésérõl is fellebbentette a fátylat, többek között a régi, sérülékeny böngészõkkel nem lehet majd igénybe venni a cég internetes szolgáltatásait.
+
+Egyes régebbi böngészõkkel, mint a Firefox 1.5, Opera 8, vagy Internet Explorer 6 is beléphetünk majd az oldalra, azonban rögtön egy figyelmeztetést láthatunk, miszerint ezek a szoftverek nem védhetnek meg minket az adathalász támadásoktól, és nem támogatják az Extended Validation SSL aláírásokat. Az ennél régebbi böngészõket, mint az Internet Explorer 5, Opera 4-7.2, vagy Firefox 1.0 már teljesen blokkolni fogja a PayPal.

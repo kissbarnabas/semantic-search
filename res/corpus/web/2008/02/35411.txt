@@ -1,0 +1,18 @@
+Megérkezett a webalkalmazások offline futását lehetõvé tevõ Adobe AIR
+
+Az Adobe bejelentette az AIR (Adobe Integrated Runtime) és a Flex 3 elérhetõségét. Elõbbi lehetõvé teszi webalkalmazások kapcsolat nélküli futtatását a számítógépen, utóbbi pedig egy webfejlesztõ eszköz, amely segítségével weboldalakat, Flash animációkat, valamint AIR alkalmazásokat lehet készíteni. A vállalat emellett elérhetõvé tette az Eclipse-alapú Flex Builder 3 fejlesztõi környezetét, amely integrálható a Creative Suite 3-mal annak érdekében, hogy a szoftverfejlesztõk, grafikusok és designerek szorosabban együtt tudjanak mûködni. 
+
+
+
+Webalkalmazások a böngészõtõl függetlenül
+
+A nyílt forrású és ingyenes AIR segítségével olyan alkalmazások jelenhetnek meg a számítógépeken, amelyek Flash animációt, PDF-állományokat és weboldalakat (AJAX is támogatott) tartalmaznak, megjelenítésükhöz mégsincs szükség böngészõre. Az AIR-ben megjelent szoftverek ugyanúgy mûködnek kapcsolat nélkül, az adatok akkor kerülnek ismét szinkronizálásra, ha a felhasználó csatlakozik a világhálóra. A szoftverek ráadásul sokkal inkább hasonlítanak majd egy "hagyományos" programra, saját ikonnal rendelkeznek majd és ugyanúgy eltávolíthatók a géprõl, mint bármely másik alkalmazás.
+
+Az AIR-hez hasonló technológia a jelenleg még béta állapotú Google  Gears nevû szoftverét, amely kimondottan webalkalmazások offline futtatását szolgálja. Az AIR és Google Gears közötti legfontosabb különbség, hogy a Google Gears egy böngészõbe épülõ plugin segítségével teszi lehetõvé a webalkalmazások kapcsolat nélküli használatát, az AIR viszont teljesen elválasztja õket a böngészõtõl. A két vállalat technológiája egymással versenyez, azonban a céljuk közös, ezért a két cég mérnökei együtt dolgoznak egy olyan szabványos alkalmazásprogramozási interfészen, amely az adatok helyi tárolását teszi lehetõvé.
+
+
+ "Az AIR a Flex és a Flash képességeit viszi el a desktopokra" -- mondta David Wadhwani, az Adobe alelnöke. "Az AIR megjelentetésével a fejlesztõi bázisunkat kiterjesztettük az AJAX- és HTML-fejlesztõk millióira." Az AIR bétája júniusban jelent neg, és azóta többszázezren töltötték le, így a technológiával készített elsõ alkalmazások is ma jelennek meg. Az AIR platform elsõ felhasználói között van a FedEx, amely egy csomagkövetõ alkalmazást készített a segítségével, a Deutsche Bank pedig egy pénzügyi tranzakciókat figyelõ megoldással rukkolt elõ. A szélesebb körben ismert szoftverek, vagy inkább webszolgáltatások közül a Twitternek, a Finetune-nak, és az eBaynek is van már AIR-verziója.
+
+Flex 3: AIR alkalmazások fejlesztõeszköze
+
+A szintén most bejelentett Flex 3 egy ingyenes, nyílt forrású fejlesztõi keretrendszer, amely weboldalak és Flash animációk mellett mostantól AIR alkalmazások létrehozására is alkalmas. Az Adobe Developer Connection weboldalon máris számos oktatóanyag segíti a fejlesztõket abban, hogy azonnal megkezdhessék a böngészõkben vagy számítógépeken futó gazdag internetes alkalmazások fejlesztését.

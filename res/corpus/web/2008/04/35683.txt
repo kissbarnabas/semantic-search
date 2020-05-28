@@ -1,0 +1,16 @@
+Hamarosan netkapcsolat nélkül is szerkeszthetõk a Google Dokumentumok állományai
+
+A korábbi ígéretnek megfelelõen heteken belül internetkapcsolat nélkül is szerkeszthetõk lesznek a Google Alkalmazások, angolul Google Docs dokumentumai, mely hasznos lehet olyan helyeken, ahol megbízhatatlan, vagy éppen nincs elérhetõ internetkapcsolat -- repülõgépeken, vonatokon, vagy akár a metróban.
+
+
+
+A Google Docs a Google saját pluginját, a Google Gearst használja majd, amely JavaScript segítségével biztosítja az adatok átmeneti tárolását, valamint a webalkalmazások mûködéséhez szükséges erõforrások lokális elérhetõségét. Az internetkapcsolat nélkül szerkesztett dokumentumok automatikusan szinkronizálódnak az online tárhelyen található változattal, mihelyst internetre kapcsoltuk számítógépünket.
+
+A kapcsolat nélküli üzemmód nem csak a szöveges dokumentumoknál, hanem a táblázatoknál és bemutatóknál is elérhetõ lesz. A dokumentumok számától függõen az elsõ szinkronizálás hosszabb idõt vesz majd igénybe, ezt követõen azonban már csak a változásokat kell a számítógép és az online tárolt változatok között továbbítani.
+
+
+Google hírolvasója, a Google Reader már használja ezt a bõvítményt, így egyetlen gombnyomással szinkronizálhatjuk a böngészõnkbe a friss híreket, melyeket ezután internetkapcsolat nélkül is olvasgathatunk. A Google Dokumentumok jelenleg csak élõ internetkapcsolattal használható, ezen változtatna a Google Gears implementációja.
+
+Kép: Google Blogoscoped
+
+Mindeközben a Microsoft elismerte, hogy egy Albany kódnévre hallgató hosztolt szoftveres szolgáltatás zártkörû teszteléséhez, bétájához küldött ki meghívókat. A redmondi óriás egyes, meg nem erõsített hírek szerint a Google Docsszal, Appsszal konkuráló szolgáltatást készül indítani, további részleteket azonban nem árult el a projektrõl. Egyes források szerint az Albany az Office Live szolgáltatás egy korlátozottabb képességekkel bíró változata lenne.

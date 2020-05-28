@@ -1,0 +1,43 @@
+Kipróbáltuk: megérkezett a Mio legújabb okostelefonja, az A702
+
+Hosszabb várakozást követõen végre hivatalos forráson, hazai disztribútoron keresztül is megérkezett hazánkba a Mitac új GPS-es okostelefonja, az A702. Az elõd 701-es modellt alaposan továbbfejlesztették, nem csak valamivel kisebb és könnyebb lett a windowsos készülék, de billentyûzettel, nagyobb felbontású kamerával  és rengeteg memóriával is gazdagodott. Kipróbáltuk.
+
+
+
+Telefonabb
+
+Az öregebb típus és a trónkövetelõ közötti különbség rögtön szembetûnõ, a 702 sokkal "telefonabb" a korábbi, szimpla tenyérgép-bõrbe bújtatott változatnál. Az extraként felszerelt, normál kiosztású billentyûzet teljesen nokiás beütést ad a készüléknek, fõként az oldalt és felül, keskeny sávban elhelyezett extra billentyûknek köszönhetõ ez az érzés. A billentyûzetet rögtön ki is vesézhetjük: érhetetlen, hogy a rendelkezésre álló rengeteg helyet miért nem használták fel nagyobb helyzetérzékeny gombok használatára, ezek a keskeny gombok meglehetõsen nehezen kezelhetõk. A viszonylag súlyos készüléken ráadásul meglehetõsen alul van a billentyûzet, egy kézben használva vigyázni kell, nehogy kibillenjen a kezünkbõl a telefon.
+
+
+
+A billentyûzet felett 2,7 hüvelykes, átlagos méretû és felbontású (240 x 320) kijelzõ található, a 3,2 megapixeles, autofókuszos, szintén teljesen átlagos kamera a hátoldalon kapott helyet. Némileg furcsa, hogy az érintõképernyõ kezelésére mellékelt tollat nem a jobb, hanem a bal saroknál kell kihúzni a készülékbõl, ezt 1 hét alatt sem voltam képes megszokni. Második kamera nincs, mert az A702 nem támogatja a harmadik generációs hálózatokat, a leggyorsabb mobil adatátvitelt a GPRS és az EDGE technológia támogatása biztosítja. Az itthon piacra kerülõ készülékekben elméletileg 2 gigabájtnyi beépített memória lesz, azért elméletileg, mert a nálunk járt változatban csak ennek fele volt megtalálható. Ez a tárhely MicroSD memóriakártyával bõvíthetõ tovább.
+
+A Windows Mobile operációs rendszer futtatásáról 200 MHz-es Texas Instruments OMAP processzor gondoskodik, amely éppen elegendõ a szoftverek futtatásához, villámgyors mûködést nem várhatunk tõle -- éppen annyira szenved ez a készülék ezzel a processzorral, mint a HTC Touch a sajátjával. A gyors internetezésrõl azért nem kell lemondanunk, Wi-Fi-vezérlõ és Bluetooth 2.0 is megtalálható a telefonban. Az akkumulátor névleges kapacitása 1130 mAh, ami a takarékos processzornak köszönhetõen meglehetõsen hosszú ideig elegendõnek bizonyult: 5 napos készenléti idõt sikerült elérnem átlagos használat mellett. Természetesen nagyobb fényerõ, a GPS mindennapos nyúzása, vagy gyakoribb Wi-Fi-használat jelentõsen csökkentheti ezt az üzemidõt.
+
+
+
+Szoftverek
+
+A Windows Mobile 6 Professional operációs rendszer még éppen elfogadható sebességgel fut a DigiWalker A702 okostelefonon, valamivel talán gyorsabban, mint a szintén 200 MHz-es, de Samsung processzoros HTC Touch-on. A Professional felszereltsége az Office Mobile is, az Excel, a Word és a PowerPoint prezentációbemutató mobil változata, de természetesen megtalálható a Live Messenger és a Windows Media Player is.
+
+A legfrissebb mobil Windowst számos extra szoftverrel egészítette ki a Mitac, melyek növelik a készülék használhatóságát. Az elsõ és legfontosabb a beépített GPS-modult munkára fogó MioMap v3.3 alkalmazás. Ez rögtön feltelepül az elsõ bekapcsolást követõen, a beépített memóriából körülbelül 230 megabájtnyi helyet foglal el a Kelet-Európa térképcsomag, így itthon rögtön használható navigációs berendezést is vásároltunk az okostelefonnal. A GPS-vevõ mûholdra találását gyorsabbá teszi az a kis alkalmazás, mely három napra elõre letölti az internetrõl a mûholdak adatait, így az akár több perces hidegindítás néhány másodpercre csökken.
+
+A hozzáadott szoftverek közé tartozik a teljes magyarítást, illetve a magyar kézírásfelismerést és billentyûzetkiosztást biztosító SunnySoft csomag is, illetve egy mértékeket is váltó számológép, egy világidõ alkalmazás, a SIM-kártyás számok kezelését végzõ extra program. A Mio Tiltólista programmal SMS- és hívásszûrést is végezhetünk. A kapcsolatkezelõvel gyorsan kapcsolhatjuk ki-be a Wi-Fi-t, a telefont, vagy éppen a Bluetooth-modult. A GPRS-beállítások megkönnyítését szolgálná egy apró segédprogram is, az azonban a hazai szolgáltatókat sajnos nem ismeri.
+
+
+
+A Mitac az A702-höz hasonló Mio Menü felületet is rendelt, mint a HTC a Touch-hoz, azonban itt is pontosan ugyanabba a problémába futhatunk, mint a Touch-nál: bár a nagy menüpontok egyujjas kezelést is lehetõvé tesznek, az onnan induló alkalmazások már nincsenek erre felkészítve, elõ kell vennünk az apró tollat. A szoftver rádásul hasonlóan lassú, nehéz eldönteni, hogy azért nem indult el, mert nem "böktük meg" eléggé, vagy azért, mert még gondolkozik a készülék.
+
+
+A készülék kamerája egyetlen képesség miatt érdemes szóra: elméletileg GPS-koordinátát tudna az elkészített fotókhoz rendelni, ez azonban tesztjeink szerint nem mûködött, még EXIF-adatokat sem mentett a képekhez a készülék, nemhogy szélességi és hosszúsági koordinátákat. Az elkészített képek bár viszonylag élesek az autofókusznak köszönhetõen, zajosak, és még ennek ellenére is sok részlet hiányzik. Egy alacsonyabb felbontású, minõségibb kamera jobb választás lett volna. 
+
+Éppen elfogadható ár
+
+Az A702 csomagjában a Mitac hagyományaihoz híven rengeteg kiegészítõt helyeztek el, gyakorlatilag mindent megkapunk, amire szükségünk lehet. A hálózati töltõ mellett szivargyújtós töltõ -- ez más mini USB-csatlakozós készülékek töltésére is alkalmas -- és autós tartó, sztereó vezetékes headset -- 2,5 mm-es csatlakozóval --, USB-kábel, igen jó minõségû hordtáska és képernyõvédõ fólia is a csomag része. A DigiWalker A702 bruttó végfelhasználói ára 120 ezer forint körül lesz itthon, ami a két év garanciát, a körítést, a navigációs szoftvert és a készülék képességeit figyelembe véve még éppen hogy elfogadhatónak tûnik.
+
+A Mitac Mio DigiWlaker A702 okostelefont az LCP Systems bocsátotta rendelkezésünkre.
+
+
+Véleménye van?
+szóljon hozzá a fórumban
+írjon szerkesztõségünknek!

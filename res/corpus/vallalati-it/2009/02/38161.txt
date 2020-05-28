@@ -1,0 +1,18 @@
+Az EMC Celerra termékvonalba is megérkeztek a flash meghajtók
+
+Bemutatta vadonatúj Celerra tárolóit az EMC, a Symmetrix és Clariion után ebbe a termékvonalba is megérkeztek a flash memóriát tartalmazó tárolók, illetve az adatok deduplikációja.
+
+
+
+Az NS-120, NS-480, NS-960 rendre 120, 480 és 960 diszk befogadására képes. A tárolókban a legnagyobb teljesítményû Fibre Channel meghajtók, az alacsony fogyasztású, olcsó SATA II merevlemezek és flash meghajtók is használhatók, így megoldható, hogy a különféle intenzitással használt adatok a számukra megfelelõ sebességû diszken helyezkedjenek el ("tiering"). Kezdetben 73 gigabájtos SSD-kkel kaphatók az új Celerrák, de késõbb akár 400 gigabájtos meghajtók is kaphatók lesznek -- közölte a tárolóeszközök és adattárolási szoftverek legnagyobb gyártója.
+
+Mindegyik berendezés rendelkezik integrált NAS, iSCSI és Fibre Channel kapcsolattal is, a csúcsváltozat akár 32 gigabites Ethernet-porttal és iSCSI-porttal is kapható. Hasonlóan a tavaly bejelentett Clariion CX-es család tagjaihoz, az új Celerrák is üzem közben cserélhetõ, bõvíthetõ I/O modulokat kaptak, így a késõbbiekben a 8 Gbps Fibre Channel vagy akár az FCoE (Fibre Channel over Ethernet) szabványú illesztés támogatása is megoldható -- tudtuk meg Sági Bélától, az EMC Magyarország technológiai tanácsadójától.
+
+Az új Celerrák integrált adatdeduplikációs képességgel rendelkeznek. A deduplikáció a redundánsan tárolt adatok törlését jelenti -- az EMC azt állítja, az új Celerra-sorozat tagjaiban is alkalmazott, az Avamartól származó deduplikációs technológia akár 50 százalékkal is növelheti a fájlrendszer kapacitását. A Celerra Data Deduplication funkció egyetlen kattintással elindítható, beépített irányelvekkel segíti a munkát és teljes mértékben integráltan mûködik a Celerra Manager szoftverrel a még könnyebb használat érdekében.
+
+Az új Celerra-család operációs rendszere lehetõvé teszi az összes inaktív fájl tömörítését, majd törli a redundáns adatokat anélkül, hogy ezzel befolyásolná a támogatott fájlrendszerek méretkorlátait vagy a pillanatfelvételekhez hasonló szolgáltatások használatát. Jelenleg egyedül az EMC kínál tömörítést a fájlrendszerszintû adatduplikáció-elkerüléshez a hatékonyabb tárkihasználás érdekében. A technológia késõbb meg fog jelenni a Clariion és Symmetrix termékvonalban is.
+
+
+ A tárolók támogatják a VMware-környezeteket is, mégpedig VMware vCenter bõvítõmodulokon keresztül. A VMware Site Recovery Manager Automated Failback segít a Celerra-vásárlóknak a virtuálizált infrastruktúra visszaállását koordinálni. A VMware View Storage Integration használatával az adminisztrátorok kényelmesen és gyorsan végezhetik el a virtuális asztali rendszerek ezreinek erõforrás-kiosztását a Celerra pillanatfelvétel-funkcióját és a VMware View Composert használva. 
+
+A közepes és nagyvállalatoknak szánt Celerra-család legolcsóbb tagja, az NS-120 1,2 terabájtos kapacitással 37 ezer dolláros induló listaáron lesz kapható, ami a valóságban inkább 20 ezer dollár körüli tényleges árat jelent. Itthon az ilyen kategóriás tárolókból évente néhány tucat fogy mindössze. A kisebb cégeknek továbbra is a Celerra NX4-et ajánlja a cég, amely tavaly nyáron jelent meg a kínálatban.

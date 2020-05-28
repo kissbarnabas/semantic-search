@@ -1,0 +1,16 @@
+Intel Atom processzoron is fut már a Symbian OS
+
+A Symbian Foundation szerint a demonstrációval mindössze az a cél, hogy a Symbian rugalmasságának híre a lehetõ legtöbbekhez eljusson és mindenki számára világossá váljon, olyanokhoz is, akik esetleg meglátják benne az üzleti lehetõséget. "Nagyon érdekes lenne látni, mekkora érdeklõdést generál ez a port, vajon a nagy üzleti partnerek is felfigyelnek-e és finanszíroznák egy termék létrejöttét" -- írja a Symbian Foundation blogjában Lee Williams, a szoftver fejlesztését kooridnáló szervezet vezetõje.
+
+Az Atom-port megszületése azt jelenti, a netbookok piacán újabb szoftverplatform szállhat versenybe a Windows-zal, Linuxszal, illetve az Androiddal. Az okostelefonokról ismert operációs rendszer x86-os verziójának megszületése egyben lehetõvé teszi, hogy az Atom vagy annak leszármazottai bekerüljenek a netbookoknál kisebb készülékekbe is, akár mobil internetezésre szánt terminálokba vagy éppen mobiltelefonokba. A siker kulcsa mind a két esetben ugyanaz: meglátja-e valaki az üzleti lehetõséget, illetve lesz-e elég fejlesztõ Symbian/x86 platformra. Szakértõk egyelõre azt valószínûsítik, a Symbiannak nagyobb esélye van egy ARM-alapú hardveren (pl. Qualcomm SnapDragon) betörni a netbookok és MID-ek közé.
+
+
+
+
+
+
+
+
+ Amint arról a HWSW is beszámolt, a Nokia tavaly nyáron vált a Symbian mögött álló szervezet 100 százalékos tulajdonosává, majd rögtön bejelentette a a Symbian Foundation megalapítását, amelynek a tagjai a finn cég mellett a Symbiant használó telefongyártók (Sony Ericcson, Samsung, Motorola, LG), mobilszolgáltatók (NTT DoCoMo, AT&amp;T, Vodafone), illetve mobiltelefonokba szánt chipeket gyártó cégek (STMicroelectronics, Texas Instruments).
+
+A Symbian Foundation emellett nyílttá tette a Symbian operációs rendszer forráskódjának egy részét, illetve az elkövetkezõ évek során egyre több részt tesznek majd közzé Eclipse Public License alatt. A Symbian Foundation tagjai jogdíjmentesen használhatják a Symbian operációs rendszert a termékeikben, illetve az operációs rendszerrel kapcsolatos fejlesztéseket is megosztják egymással. Piaci elemzõk úgy vélik, a szorosabb együttmûködés nyomán stabilabb lehet a platform, ami egyformán jó a gyártóknak, szolgáltatóknak és a vevõknek.

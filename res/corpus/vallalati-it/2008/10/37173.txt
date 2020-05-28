@@ -1,0 +1,26 @@
+Leszerepeltek a biztonsági programok a szoftver-sebezhetõségek védelme terén
+
+Az összes integrált biztonsági szoftver leszerepelt a Secunia tesztjén, ahol a szoftverekben idõrõl idõre felbukkanó sebezhetõségek elleni védelmüket vizsgálták. 
+
+
+
+Nem csodaszer
+
+Az utóbbi idõben egyre gyakrabban esik szó olyan sebezhetõségekrõl, amelyekre különféle szoftverekben, például böngészõkben, azok beépülõ moduljaiban (Adobe Flash, QuickTime stb.), médialejátszókban, vagy akár az Office komponenseiben bukkannak fel. Ezek között akadnak olyan kritikus hibák, amelyeket kihasználva a támadók tetszõleges kódot csempészhetnek az áldozatok gépeire, teljesen irányításuk alá vonva azokat. Ez szabad utat ad egyfelõl az érzékeny adatok ellopásának, másfelõl az így irányított PC-ket a bûnözõk további támadások indítására, vagy éppen spamküldésre használhatják késõbb.
+
+A kliensoldali biztonsági szoftver kezdetben egyet jelentett a víruskeresõvel, de ma már a kártevõk elleni védelem mellett a gyártók egyre több funkciót építnek be a szoftvereikbe, például tûzfalat, behatolásvédelmet, spamszûrést, vagy a sebezhetõségek elleni védelmet -- így jönnek létre az átfogó védelmi termékek, amelyeket Security Suite-ként is szoktak emlegetni, árulni. "A cégek úgy hirdetik ezeket a termékeket, hogy a felhasználóknak nincs másra szüksége ahhoz, hogy biztonságban legyenek. Szerintünk ez viszont nem igaz" -- állítja Thomas Kristensen, a Secunia mûszaki vezetõje.
+
+A vállalat egy tucat integrált biztonsági programot vett szemügyre a sebezhetõségek elleni védelem szempontjából, és azt találta, hogy a sérülékenységeket kihasználó kódok túlnyomó többsége ellen valamennyien teljesen hatástalanok. A teszt során a sérülékenységet kihasználó kódokat tartalmazó fájlokat (pl. képeket, Word-dokumentumokat, videókat) rámásolták a PC-re, kitömörítették, majd elindították azt a programot, amelyet a kód támad (weboldalba ágyazott kódnál ez az Internet Explorer volt).
+
+Átjáróház minden védelem
+
+Az esetek túlnyomó többségében a feltelepített biztonsági szoftverek nem észlelték a sebezhetõségeket kihasználó kódokat, még az állományok kézi szkennelésekor sem. A tesztelt termékek közül a Norton Internet Security 2009 teljesített a legjobban, de a 300 vizsgált sérülékenység közül ez is csak 64 esetben riasztott, a többi termék pedig ennél is jóval rosszabb eredményeket produkált. A leggyatrább eredményt a Norman Security Suite 7.10 érte el, amely a sebezhetõségeket kihasználó kódok közül egyet sem ismert fel a teszt során.
+
+
+ Kristensen szerint a biztonsági szoftverek azért szerepeltek le, mert mindannyian olyan módszereket -- szignatúrákat vagy heurisztikát -- használnak az ellenõrzéshez, amelyek nem a sebezhetõséget ismerik fel, hanem az azt kihasználó rutin által "szállított" ártó szándékú kódot, például trójait vagy rootkitet. Ez a módszer azonban kevéssé hatékony, ugyanis a szignatúra-alapú felismeréshez a biztonsági cégnek már rendelkeznie kell a támadó kóddal, ezt elemezve készül el a szignatúra is. Kérdés, hogy a való életben elõfordul-e egy exploit magában, ártó kód nélkül -- valószínûleg nem.
+
+Az mindenesetre biztos, hogy a szignatúrákat tartalmazó adatbázist a felhaználóknak is rendszeresen frissítenie kell annak érdekében, hogy az ilyen típusú védelem mûködjön. Ez elõnyhöz juttatja a támadókat, akiknek a szignatúra-frissítéskor elegendõ egy másik támadó kódot csomagolniuk az exploit mellé, hogy újra kikerüljék a védelmet. Kristensen szerint a gyártóknak szemléletváltásra lenne szüksége, hogy ne az ártó szándékú kódokra fókuszáljanak, hanem magukra a sérülékenységekre, így lényegében egyetlen frissítéssel védelmet adhatnának többféle támadás ellen is.
+
+Fontos a frissítés
+
+Persze ez idõigényesebb és kevésbé hatékonyan automatizálható folyamat, de hosszú távon ez az egyedüli járható út -- véli Kristensen, aki hangsúlyozta: a biztonsági szoftver telepítése és rendszeres frissítése mellett továbbra is elengedhetetlen a gépre telepített szoftverek rendszeres patchelése. A Secunia mellett a Kaspersky és a BitDefender is kínál olyan szoftvereket, amelyek feltérképezik a gépre telepített programokat és figyelmeztetik a felhasználót, hogy mely alkalmazásokat kellene frissítenie.

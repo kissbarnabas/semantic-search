@@ -1,0 +1,64 @@
+Újra trükközik a Vodafone - Internet félig-meddig Szabadon
+
+A Vodafone Magyarország a hazai szolgáltatók közül egyedüliként rukkolt elõ  korlátlan adatforgalmat tartalmazó mobilinternet-csomaggal, de ahogy már 2002-ben, a korlátlan GPRS internet fiaskónál is megtörtént, ismét trükközéssel és apróbetûs bûvészkedéssel igyekszik kihátrálni a valós korlátlanság alól.
+
+
+
+A szélessávú mobilinternet-szolgáltatás még mindig gyerekcipõben jár. Mindhárom szolgáltató most építi ki a nagysebességû HSDPA hálózatát, a lefedettség még messze nem teljes, a marketing- kommunikációt viszont ontják a tömegmédiumokon keresztül. A becslések szerint ma már több százezer mobilinternet-elõfizetést használnak az országban, s nem csak a folyton úton lévõ üzletemberek vagy az ADSL/kábelnet bekötésre alkalmatlan helyen lakók választják, hanem a fix, vezetékes elérések alternatívájaként otthoni felhasználók is.
+
+Háttér - A mobilnet még nem a nagy letöltéseké
+
+A csomagok szerkezete miatt viszont továbbra is fõként azok számára okos választás, akik viszonylag kis forgalmat bonyolítanak, tehát többnyire csak leveleznek, chatelnek, híreket olvasnak és azt sem napi rendszerességgel. Azok számára viszont, akik változatos multimédia tartalmakat fogyasztanak, online TV adásokat néznek, letöltenek, videótelefonálnak, veszélyes vállalkozás a mobilinternet. A nagy volumenû egyéni letöltésekkel kapcsolatban szinte kivétel nélkül elõkerül az illegális letöltések kérdése is, de mivel a szolgáltatók számára többnyire irreleváns (az angol-szász országokban ez már nem minden esetben igaz), hogy a forgalmazott adat micsoda, ezért ezt a szempontot a korlátozás kapcsán sem érdemes feszegetni, ellenben a letöltésre használt technológiát, illetve a letöltött adatok mennyiségét.
+
+ Ennyi kell a mobil szabadsághoz 
+
+A Vodafone Internet Szabadon csomag egy jelenleg bruttó 6000 Ft havidíjért és 1-2 év hûségért cserébe igénybe vehetõ mobilinternet szolgáltatás, melynél a szolgáltató korlátlan adatforgalmat ígér, azzal a kompromisszummal, hogy a felhasználó nem használhat peer-to-peer technológiát alkalmazó szolgáltatásokat. Ezek igénybe vételét a szolgáltató extrém használatnak minõsíti, melynek szankciója a korlátlan csomagból való kizárás és a forgalomalapú számlázásba való átvezetés. Ilyen szoftvernek jelölik meg a következõ programokat: "Azureus, Ares, BitComet, BitTornado, Bitspirit, Blubster, DirectConnect, eDonkey2000, FileSpree, FastTrack, FlashGet, Gnutella, Ktorrent, uTorrent, Napster, Piolet, WASTE, DC++, illetve további, a felsorolásban nem szereplõ, de azokkal megegyez&#305; elven mõköd&#305; szoftverek" (Internet Szabadon RF 15.) 
+
+
+Ma már a kevés is egyre több
+
+
+Érthetõ, hogy a szolgáltató korlátozza ezeket, hiszen a jól optimalizált Bittorrent protokoll képes felemészteni szinte bármekkora sávszélességet le- és feltöltés esetén is. Így a Vodafone reklámjaiban, marketing-anyagaiban azzal csábítja a felhasználókat, hogy "Korlátlan internet &#8211; normál felhasználás esetén, hogy ne kelljen törõdnöd azzal, mennyit és milyen gyakran használod az internetet."
+
+Várható volt, hogy a megszorításokkal bár, de korlátlan adatforgalmat kínáló csomagok a sokat internetezõk, a sok adatforgalmat bonyolító felhasználók egy részét is elcsábítják egy gyenge ADSL vagy egy drága helyi kábeles szolgáltatótól a mobil internetre. A választás következménye természetesen, hogy a jelenleg 5-10 gigabájt adatforgalmat engedõ csomagok elõfizetõihez képest többszörös forgalmat generálnak majd. Saját mobilnet-tesztjeink alapján egy átlagos napon 1-1,5 gigabájttal lehet számolni csupán a YouTube-videók nézegetésével, VoIP hívásokkal, Picasa Web albumok feltöltésével, nézegetésével, böngészéssel és online zenehallgatással. Természetesen ha valaki filmeket, szoftvereket, zenéket, játékokat tölt legális vagy éppen illegális forrásokból, akkor ez meredeken megugorhat, így az aktív felhasználó 2008-ban átlagos havi adatforgalma 35-85 gigabájt.
+
+
+Közösségi pánik
+
+
+Ennek csapdájába esett bele azon felhasználók népes tábora, akik azt állítják, hogy a Vodafone a rendszeresen 50 gigabájt feletti adatforgalmukat sebességkorlátozással jutalmazta mindenféle értesítés, figyelmeztetés nélkül. Mivel a szerzõdésben foglaltakat nem szegték meg, és az extrém használatnak minõsülõ p2p megoldásokat nem használták, ezért a forgalomarányos csomagba való áthelyezés nem mûködhetett volna. A sebesség egyedi, SIM-kártyára vonatkozó korlátozása viszont egy nyitva hagyott kiskapu, ráadásul a Vodafone kínosan ügyel arra, hogy az ÁSZF-ben rögzített minimálisan elvárható sebesség felett maradjon. Ami nem lenne probléma, ha a szolgáltatók  nem egy nevetséges értéket vállalnának be, melyet állandóan biztosítani tudnak. Ez jelenleg a legtöbb vezetékes szolgáltatónál is csupán 128-384 kbit/s, ami az ISDN-tõl a leglassabb DSL kapcsolatig terjedõ spektrum, ami a reklámozott 2-4-8-10-12-18-24 Mbit/s sávszélességnek apró töredéke csupán.A Vodafone esetében pedig az ÁSZF 3. számú mellékletének 3. pontja szerint 3G területen 150 kbit/s.
+
+
+  
+
+ Adatforgalom a normál és a korlátozott kártyán egyazon gépen 5 perc eltéréssel
+
+A kétségbeesett felhasználók internetes fórumokon osztották meg tapasztalataikat, illetve egymás tanácsait követve indultak el a Vodafone ügyfélszolgálatra, a Nemzeti Fogyasztóvédelmi Hatósághoz, illetve a Nemzeti Hírközlési Hatósághoz. A panasz minden egyes esetben ugyanaz: egyik napról a másikra az internetkapcsolatuk sebessége drasztikusan lecsökkent, földrajzi helytõl, idõponttól teljesen függetlenül. A korábban 2-5 Mbit között mozgó sávszélességek 0,3 Mbit-re estek vissza. A felhasználók elsõként természetesen kizárták a saját beállításaikból adódó lassulás lehetõségét, illetve a Vodafone ügyfélszolgálata több ízben azt válaszolta megkereséseikre, hogy nem észlelnek konstans hálózati problémát, így az is kizárható volt, hogy a túlterheltség miatt lassultak le.
+
+Megdöbbentõ csere-teszt
+
+A megdöbbentõ élmény az volt számukra, mikor egy másik SIM- kártyával, másik elõfizetéssel próbálták meg saját modemjüket, saját számítógépüket, amivel tökéletesen mûködött minden. A misztikus probléma a felhasználók tapasztalatai szerint kizárólag a valóban sokat forgalmazó SIM-kártyák esetében állt fenn. Így ezeket a kártyákat más eszközbe helyezve is rossz mérési eredményeket kaptak, míg saját rendszerüket egy újabb kártyával kipróbálva azonnal megszûnt a lassulás.
+
+Az ügyfélszolgálat is elismerte 
+
+
+A sebességkorlátozás a szakértõbb felhasználókon kívül másnak nem is biztos, hogy feltûnt volna, ha a mértéke nem érte volna el egyes esetekben a korábbi sebesség 90 százalékának elvesztését. A felhasználók mérései szerint a korlátozás után a 100-384 kbit/s sávszélesség volt a maximum elérhetõ, ami webböngészésre alkalmas, Skype telefonálásra szintén (80-150kbit/s), egy átlagos YouTube-videó zavartalan megtekintésére (320kbit/s) viszont már épp csak elegendõ,  egy HD felbontású játéktrailer (1024-4096 kbit/s) megtekintése már csak akadozva, vagy a teljes letöltést hosszú percek alatt megvárva törtéhet. A Vodafone hálózati eszközei egyébként az elméleti 7,2Mbit sávszélességet támogatják, a tapasztalatok szerint a legtöbb helyen pedig valóban rendelkezésre is áll a fenti értékhez a gyakorlatban párosuló 4-5,5 Mbit/s "nettó" sebesség. 
+
+
+	     
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                    A cikk több oldalból áll:
+                    
+                    
+                        1. oldal: Újra trükközik a Vodafone - Internet félig-meddig Szabadon
+                      
+                        2. oldal: Változó apró betûs részek
+                        
+                    
+                  

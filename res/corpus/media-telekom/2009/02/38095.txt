@@ -1,0 +1,16 @@
+Hamarosan elkészül az Adobe teljes értékû mobiltelefonos Flash-lejátszója
+
+Alig kezdõdött el a Mobile World Congress 2009 Barcelonában, de máris napvilágott látott az a hír, ami a mobil világ idei életére a legnagyobb hatással lehet. Az Adobe Systems bejelentette, hogy az okostelefonokra szánt Flash 10 lejátszója már mûködõ béta állapotban van, s hamarosan a felhasználók is telepíthetik majd. Míg az Android, Windows Mobile és Symbian támogatott lesz, az iPhone és a Blackberry kilógnak majd a sorból.
+
+
+
+A mobilos Flash Player 10 mellett egy másik érdekes akcióról is lehullt a lepel: az Adobe a Nokiával közösen 10 millió dolláros alapot hoz létre "Open Screen Project" néven, melynek célja az Adobe Flash alkalmazásokat és szolgáltatásokat létrehozó fejlesztõk segítése. Az Open Screen Project  olyan fejlesztéseket karol fel, amelyek Flash-alapúak és mindenféle eszközrõl elérhetõk, azaz többféle kijelzõn képesek mûködni, például PC-n, mobilon vagy szórakoztató berendezésen. Látszik, hogy az Adobe nem bízza a véletlenre a Flash 10 berobbanását és szeretné, ha a lejátszó megjelenésével közel egy idõben már a tartalom is elérhetõ lenne.
+
+A Google, a Microsoft, a Palm és a Nokia idén egyaránt bemutat majd olyan készülékeket illetve operációs rendszer (frissítést), melyek képesek lesznek ugyanazokat az alkalmazásokat futtatni, illetve a videókat ugyanúgy lejátszani a Flash 10 segítségével, mint az asztali számítógépek -- állítják az Adobe munkatársai Barcelonában. A Mobile World Congress keretein belül bemutatott Flash Player 10 okostelefonokra szánt változata ugyan még nem érhetõ el nyilvánosan, de már béta állapotú, a Windows Mobile, Symbian és Android esetében már a célegyenesben vannak a fejlesztések. Ugyanakkor az Apple iPhone-ra és a RIM Blackberry-re készülõ változatok továbbra sem várhatóak egyhamar.
+
+"Komoly haladást értünk el, de még mindig sok fejlesztési feladat áll elõttünk" -- mondta Anup Murarka, az Adobe egyik igazgatója. A cég célja, hogy a Flash-lejátszás élvezhetõ teljesítményû legyen, de ez nem olyan egyszerû a mobil világban. Az iPhone esetében ráadásul több tényezõ is gátolja a haladást, az Adobe azt szeretné, ha "igazán jól futna a Flash" mobilokon is, a jó teljesítményhez viszont az operációs rendszer illetve a készülék "alsó rétegeiben" kell futtatni az alkalmazást. 
+
+
+A Windows Mobile, a Symbian és az Android erre teljesen nyitottak is, így ezekkel nem volt komolyabb probléma, ugyanakkor a Blackberry és az iPhone operációs rendszerei egyáltalán nem támogatják az efféle integrációt. A másik ok, ami miatt szinte biztos, hogy a közeljövõben az iPhone-tulajdonosok nem élvezhetik a Flash elõnyeit, hogy az Apple görcsösen ragaszkodik a saját formátumához, a Quicktime-hoz, s nemhogy segítené az Adobe próbálkozásait, inkább hátráltatja azt. 
+
+A többi készülékre viszont hamarosan megérkezik a Flash Player 10, mely most Barcelonában Nokia Series 60, Android és Windows Mobile platformokon egyaránt megtekinthetõ. A kaliforniai cég bejelentése szerint világszerte egymilliárd olyan berendezés található már, amely képes Flash-tartalmak megjelenítésére (zömmel PC-k), azonban a mobilos megjelenésnek köszönhetõen a következõ két év alatt tovább másfélmilliárddal nõhet a számuk.

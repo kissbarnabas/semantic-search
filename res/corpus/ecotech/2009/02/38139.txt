@@ -1,0 +1,16 @@
+Bíróság dönti el, hogy az NVIDIA jogosult-e a Nehalammel kompatibilis chipkészletet gyártani
+
+Úgy tûnik, bíróság dönti el az Intel és az NVIDIA közötti vitát, amely a Nehalem processzorokhoz szánt chipkészletek gyártási jogával kapcsolatos. Az Intel szerint a korábbi licencmegállapodás alapján az NVIDIA nem jogosult a Core i7 processzorokhoz chipseteket gyártani és értékesíteni, az NVIDIA ennek ellenkezõjét állítja.
+
+
+
+Az Intel négy és fél éve újította meg keresztlicenc-megállapodását az NVIDIA-val, amely alapján a grafikus processzorairól ismert cég jogosult az Intel processzoraihoz chipkészleteket fejleszteni. A világ elsõ számú chipgyártója most azt állítja, ez a megállapodás nem terjed ki a Nehalem-generáció által használt DMI-re (Direct Media Interface). Amint azt a HWSW olvasói bizonyára tudják, a Core i7 processzorokban az Intel végre szakított a korábbi GTL+ buszprotokollal és egy teljesen új rendszerarchitektúrát vezetett be, illetve a memóriavezérlõt a chipre költöztette. Ezért aztán a Core i7-et fogadó alaplapok teljesen új chipkészletet igényelnek, egyelõre azonban csak az Intel gyárt ilyet (X58).
+
+A grafikus chipjeirõl ismert NVIDIA és az Intel közötti feszültségek nem újkeletûek. A modern PC-k elmaradhatatlan kelléke a 3D-gyorsító, amelyek egyre több terhet vesznek le a CPU-k válláról, sõt, az utóbbi idõben a szabadon programozható GPU-k lényegében a CPU-k ellenfelévé váltak azáltal, hogy bizonyos feladatokat nagyságrendekkel gyorsabban képesek végrehajtani a CPU-knál. 2006 vége óta az NVIDIA CUDA (Compute Unified Device Architecture) segítségével szabványos C nyelvû programokat lehet írni a grafikus processzorokra, a tavalyi év végén pedig a Top500 listán felbukkant az elsõ olyan hibrid szuperszámítógép, amelyben a számítások egy részét NVIDIA Tesla chipek végzik el.
+
+ Az NVIDIA szerint a mai PC-kben a grafikus chip legalább olyan fontos alkatrész mint a CPU és az Intel minden eszközzel megpróbálja késleltetni ezt az "elkerülhetetlen változást". Derek Perez, az NVIDIA szóvivõje a CNET News.com-nak nyilatkozva elmondta, az Intel végre ráébredt a GPU fontosságára és most mindent megtesz annak érdekében, hogy lelassítsa az NVIDIA-t. Jen-Hsun Huang, az cég elnök-vezérigazgatója  azt állítja, másfél évig nem is terveznek Nehalem-kompatibilis lapkakészlettel elõállni, az Intel egyetlen célja a jogi hadjárattal, hogy megakasszák a mindennapos mûködést és extra ügyvédi kiadásokra kényszerítsék az NVIDIA-t.
+
+
+ Az Intel hivatalos állásfoglalása szerint több mint egy éve folyik a huzavona az NVIDIA-val, azonban a felek nem tudtak megegyezésre jutni. "Azt várjuk hogy a bíróság mondja ki, az NVIDIA nem jogosult olyan chipkészletek gyártására, amelyek kompatibilisek a memóriavezérlõt tartalmazó Intel processzorokkal mint amilyen a Nehalem, és hogy az NVIDIA szerzõdést szegett azzal, hogy ennek az ellenkezõjét állította." 
+
+A lapkagyártó nem csak a tárgyalóteremben, hanem a tervezõasztalnál is készül az NVIDIA, illetve a grafikus chipgyártók kiszorítására: 2009 végén jönnek az elsõ Intel processzorok, amelyek integrált videovezérlõt tartalmaznak. Eközben készül a Larrabee kódnevû chip, amely egy sokmagos, párhuzamos végrehajtásra tervezett architekúra, ami a mikroprocesszorok programozhatóságával, és grafikus processzorok masszív párhuzamosságával egyszerre rendelkezik.

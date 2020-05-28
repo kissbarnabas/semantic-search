@@ -1,0 +1,17 @@
+Hamarosan felpuhul a Microsoft Office-páncélja - érkezik az Office 2007 SP2
+
+Jövõ év februárja és áprilisa között érkezik a Microsoft Office 2007 második szervizcsomagja, erõsítette meg a vállalat, vagyis lassabban készül el, mint az elsõ frissítés. Az irodai szoftver két éve került piacra, a Vista vállalati licencelésû verziójával együtt, és alapjaiban átdolgozott kezelõfelületet mutatott be.
+
+
+
+A megjelenés hozzávetõleges idejével kapcsolatos információ a Microsoft egy hivatalos blogján, a technetes Office Sustained Engineeringen jelent meg, melyet az Office karbantartó csapata jegyez. Korábban a vállalat tartózkodott jövõben megjelenõ frissítések részleteinek kommunikálásától, írja a bejegyzés, ez azonban lassanként változik, és igyekszik egyre átláthatóbbá tenni azokat a felhasználói közösség elõtt. Ennek megfelelõen a következõ hetek során a fejlesztõk megkezdik a változtatások specifikus tárgyalását blogjaikon, és ezzel párhuzamosan megindul egy zártkörû bétatesztelés is a nagyvállalati ügyfelek együttmûködésével. 
+
+Mint arról a HWSW is beszámolt korábban, az SP2 jelentõs újdonságokat hoz magával az Office 2007 számára. Ezek közül talán a legjelentõsebb az ISO-szabvány Open Document Format (ODF), PDF és XPS dokumentumok támogatásának beépítése, ami nagyban megkönnyíti a heterogén környezetekben dolgozók életét. Ez a lépés egyben az irodai programcsomagok piacát 90 százalék feletti részesedéssel domináló Office fogva tartó erejének részleges feladását is jelenti, ami megkönnyítheti az alternatív szoftverek bevezetését, mint amilyen az OpenOffice.org is -- a Microsoft elsõsorban a kormányzati és nagyvállalati ügyfelek  nyomásának hatására kényszerült az interoperabilitás és a szabványos vagy kvázi szabványos fájlformátumok támogatására, valamint saját formátumai specifikációinak megnyitására.
+
+
+Ezen túlmenõen az SP2 számos további fejlesztést is eszközöl, mint például az Outlook futási sebességének javítása, vagy a naptárkezelés megbízhatóságának fokozása. Erõsödik a titkosítási képesség, az Excel ábrarajzoló funkciója is. Szerveroldalon javul az Enterprise Content Management menedzselhetõsége és teljesítménye, valamint fejlesztették a tartalmi adatbázisok és újraindexelõ feladatok futását a SharePoint Services 3.0-ban -- mindez természetesen csak néhány fõbb változás a számtalan közül. 
+
+
+[+]   Repülõrajtot vett az OpenOffice.org 3.0
+
+A kockázatos változtatások ellenére nagy sikert arató Office 2007 utódja, az Office 14 közben csendben készül, melyrõl a Microsoft egyelõre semmiféle részletet nem kíván megosztani. Egy kiszivárgott információ alapján idén év végén indul meg az alfatesztelés, ez alapján pedig legalább két évet kell még várni a végleges változat elkészültéig. Egy pillantást vetve a múltba, a Microsoft ezekben a hetekben szüntette be az Office 2003 SP2 támogatását, amivel mindenkit az SP3-ra történõ frissítésre kíván ösztökélni. A fájlkompatibilitási problémáktól hírhedté vált SP3-ban elsõsorban a biztonsággal kapcsolatos fejlesztések kaptak helyet, de javítottak a Windows Vista-kompatibilitáson is.  

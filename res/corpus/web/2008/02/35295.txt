@@ -1,0 +1,10 @@
+Tizenkét biztonsági rést foltoztak be a Firefoxban
+
+Frissítette a Firefoxot a Mozilla Foundation, a böngészõben nem kevesebb mint tizenkét biztonsági sérülékenységet kellett javítani, amelyek közül három kihasználásával tetszõleges kódot lehet futtatni az áldozat gépén. A Firefox 2.0.0.12 már elérhetõ a böngészõbe épített automatikus frissítés szolgáltatással.
+
+
+
+A Firefoxban számos olyan sebezhetõségre bukkantak, amelyek bizalmas, személyes felhasználói adatok ellopását tették lehetõvé, vagy távoli kódfuttatással zombivá alakíthatták az áldozat gépét, késõbb például spamküldésre vagy más támadások indítására használva. A sérülékenységek közül négy kritikus, három pedig különösen veszélyes. A biztonsági rések közütt olyan is van, amelyet már három hete dokumentáltak, de a Firefox fejlesztõi csak most javították. A Mozilla Foundation figyelmeztetése szerint a Firefox böngészõmotorját használó Thunderbird levelezõ is sebezhetõ lehet.
+
+
+Eközben a Mozilla Foundation bejelentette, hogy február 12-én megérkezik a Firefox 3 harmadik bétaváltozata, azonban a végleges verzió elõtt még egy negyedik bétát biztosan kiadnak, ezt követik majd a megjelenésre szánt (RC) verziók. A Mozilla sosem hozta nyilvánosságra a Firefox 3 tervezett megjelenési dátumát, vagyis késésrõl nincs is értelme beszélni.

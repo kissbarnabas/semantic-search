@@ -1,0 +1,22 @@
+Több tucat digitális rádió a UPC hálózatán
+
+Harminc, csak zenét játszó, webrádiókhoz hasonló tematikus rádióadót indított a UPC a hálózatán, melyet minden digitális kábeltelevízió-lõfizetõ számára elérhetõvé tett. A muzsikák a nap 24 órájában megállás nélkül szólnak, a legváltozatosabb stílusokban a barokk zenétõl a reggae-ig.
+
+
+
+A UPC által indított 30 tematikus zenei csatorna klasszikus definíció szerint nem tekinthetõ valódi rádióadásnak, hiszen nincsenek mûsorok, hírek, mûsorvezetõk, hanem kizárólag zenék egymás után a végtelenségig. Az adók inkább hasonlítanak az egyszerûbb tematikus webrádiókhoz vagy éppen a webkettes zenei szolgáltatás, a Last.fm által nyújtott zenei egyveleghez, természetesen azzal a kivétellel, hogy itt mindössze 30 streambõl válogathatnak az elõfizetõk.
+
+Nem csak a zene nosztalgia, a dizájn is
+
+A digitális kábeltévé-szolgáltatást igénybevevõ elõfizetõk a set-top boxon keresztül "hangolhatják be" a csatornákat, hasonlóan a tévéadásokhoz. A funkció viszonylag egyszerû, ugyanis a rádiómenübe érkezve vagy az összes csatornából lehet szemezgetni, vagy az elõre beállított kedvencek kerülnek a listába. Az indítás után az éppen játszott szám elõadója és címe jelenik meg, illetve pár perccel késõbb a lista eltûnik és egy normál kék háttér tölti ki a képet, az alsó sorban továbbra is az aktuális zeneszám információival.
+
+A megoldás gyakorlatilag egy távoli szerveren futtatott MP3-lejátszó és a hozzá kapcsolódó zenei adatbázis és médiastream. Az egyetlen hibája, hogy a zenehallgatáshoz alapjában véve nem lenne szükség a tévéképernyõre, de a vezérléshez mégis szükség van ennek bekapcsolására, hiszen a set-top boxba beépített kijelzõn egyelõre egy "CRM" felirat fogadja a felhasználót ahelyett, hogy a játszott adó adatait mutatná. Ez a probléma a UPC szerint csak átmeneti, a közeljövõben a médiabox szoftverfrissítésével meg fog oldódni. A játszott zeneszámok minõsége a rádióhoz szokott füleknek komoly minõségi váltás lesz, hiszen mind a 30 tematikus és a három közszölgálati csatorna 192 kbps tömörítésû sztereó MP3-stream. 
+
+
+ A tematikus csatornák között a hallgatóság válogathat a jazz, blues, hip-hop, dance, techno, trance, underground elektronikus, house, pop, top100, rock, hard rock, alternatív rock, disco, funky, salsa, chillout, reggae, relaxációs, világzene, opera, barokk, reneszánsz, romantikus vokális, new age, klezmer mûfajok, valamint az 50-es, 60-as, 70-es és 80-as évek slágerei közül, de találunk magyar népzenét, magyar pop-rock és magyar nosztalgiaadókat is.
+
+Winamp helyett? 
+
+A csatornák a UPC tájékoztatása szerint egyebként több száztól több ezerig terjedõ elemszámmal üzemelnek. A zeneszámokat a központi lejátszó véletlenszerû sorrendben ismétli éjjel-nappal. A lejátszott zeneszámok után természetesen szerzõi jogdíj fizetési kötelezettség alakul ki, amit nem közvetlenül a UPC fizet a jogosultak képviselõinek, mivel a szolgáltatást és a zenei portfoliot egy külföldi cégtõl, kulcsra készen vásárolták, így a jogdíjfizetés is teljesen annak a cégnek a feladata - tudtuk meg Szûcs Lászlótól, a UPC Magyarország kommunikációs vezetõjétõl.
+
+A mû-rádiók mellett a UPC kínálatában három valódi rádióadó is szerepel, mégpedig az MR1 Kossuth, MR2 Petõfi és az MR3 Bartók. A kereskedelmi csatornák viszont kimaradtak, mind az országos, mind a helyi érdekeltségûek. Szûcs László szerkesztõségünknek ezzel kapcsolatban elmondta, hogy ennek egyedüli oka, hogy egyelõre nem sikerült még a kereskedelmi csatornákkal szerzõdést kötni, de a szolgáltató igyekszik ezt az ügyet minél hamarabb elõremozdítani. Várhatóan az analóg kábelszolgáltatáshoz hasonló választék jön majd létre, ahol jelenleg is 18 (Budapesten) rádióadó elérhetõ. 

@@ -1,0 +1,24 @@
+Bejelentette négymagos Opteronjainak hozzáférhetõségét az AMD
+
+Amint arról már beszámoltunk, ígéretéhez híven az elsõ negyedév végével megkezdte javított négymagos Opteronjainak szállításait az AMD, és az órajel emelésével sem késlekedett. A vállalat tegnap bejelentette a Barcelona kódnéven ismert chip szerverváltozatainak széleskörû hozzáférhetõségét, egészen 2,5 gigahertzes órajelig.
+
+
+
+Magasabb órajelek, ACP
+
+Az AMD tegnap közölte, hogy négymagos Opteronjai ismét hozzáférhetõvé váltak, elsõként a HP rendszereiben, mely a világ vezetõ x86-os szerverszállítója. Az új, B3-as revíziójú szilícium már mentes attól a hibától, mely tavaly a négymagos Opteron kereskedelmi szállításainak korlátozására kényszerítette az AMD-t, ugyanis az bár igen kis valószínûséggel, de adatsérüléshez és rendszerstabilitási problémákhoz vezethetett specifikus körülmények között -- emiatt csak ellenõrzött kódbázisú szuperszámítógépes környezetekbe értékesítettek az elmúlt hónapok során.
+
+A javított szilícium a finomhangolásoknak köszönhetõen egyúttal lehetõvé teszi a magasabb órajelek elérését is, így immár 2,5 gigahertzes változatban is hozzáférhetõek a Barcelona chipek. A kétutas szerverekbe szánt 2300-as sorozatból hatféle modell érhetõ el 100 megahertzes lépésekben, 2 gigahertztõl, míg a négy- és nyolcutas rendszerekben alkalmazott 8300-as sorozatból ötféle -- a 2,1 gigahertzes modell hiányzik. A chipek 2,3 gigahertzig 95 wattos, a 2,4 és 2,5 gigahertzesek a 120 wattos energiaosztályba esnek.
+
+[+] Megkezdte a B3-as Barcelonák kereskedelmi szállításait az AMD  
+
+ Hogy versenyképesebbé tegye jelölését, az AMD a Barcelonával bevezette az úgynevezett average CPU powert, vagyis ACP címkét. Az ACP empirikus adatok alapján került meghatározásra, többek között TPC-C, SPECCPU, SPECjbb és STREAM tesztek futtatásával, és ezek átlaga alapján kerül meghatározásra a mutató. Az ACP közelebb áll az Intel metodikája alapján meghatározott TDP-hez abban, hogy empirikus adatokat gyûjt elektronikai küszöbszámok megadása helyett, ugyanakkor átlagolásának köszönhetõen már alacsonyabb számokat is mutat egyúttal. A 120, 95 és 68 wattos TDP-osztályai rendre 105, 75 és 55 wattos ACP-osztályoknak felelnek meg. 
+
+Versenyképes teljesítmény
+
+
+Miközben asztali környezetben a négymagos Phenom elmarad az Intel négymagos kínálatától, amit árazása is tükröz. Ennél jóval kedvezõbb helyzetben van a szerverfeladatok és szuperszámítógépes felhasználás területein, ahol ki tudja aknázni monolitikus négymagos felépítését, valamint a Direct Connect rendszerarchitektúrája által biztosított nagyobb sávszélességeket és alacsonyabb késleltetéseket. Bár a részletesebb és átfogó szervermérésekre továbbra is várni kell, az elsõ tesztek alapján  a magasabb órajelû Barcelonák két- és négyutas szerverekben sok területen versenyképesek lehetnek az Intel csúcs Xeonjainval is -- ennek kihasználására azonban kevesebb mint egy év áll az AMD rendelkezésére, mielõtt az Intel újabb támadást indít.
+
+Az SAP SAP Sales and Distribution 2-tier tesztjében például a 2,3 gigahertztes Opteron 2356 chipeket használó kétutas HP ProLiant DL385 G5 szerver ugyanannyi, nagyjából 2100 felhasználót szolgált ki Windows Server 2003 és SQL 2005 platformon, mint a 3 gigahertzes Xeon X5365 processzorokkal szerelt ProLiant DL380 G5 -- igaz, az órajellel az ilyen jellegû szerverfeladatok kevéssé skálázódnak hatékonyan, ráadásul a 45 nanométeres Harpertown Xeonoktól azok 50 százalékkal megnövelt, 12 megabájtos L2 gyorsítótáruk miatt már 16 százalékkal elmarad. A négyutas ProLiant BL685c G5 négy darab Opteron 8356 chippel 3524 felhasználót szolgált ki egyidejûleg, ami nem a 2,4 gigahertzes, Xeon E7340 "Tigerton" 3500, de a 2,93 gigahertzes csúcsverzió 3705 felhasználójával is versenyképes.
+
+Ennél kedvezõbb képet fest a Barcelona a lebegõpontos számításokban intenzív mûszaki és tudományos alkalmazások alatt. A SPECfp_rate_base2006 alapján egy kétutas Opteron 2356 átlagosan akkora teljesítmény nyújt, mint egy 3,2 gigahertzes Xeon X5460, mely már 45 nanométeres processzor, összesen 12 megabájt L2 gyorsítótárral, és 1600 megahertzes adatbusszal (Stoakely HPC-platform), és kényelmesen megveri a 65 nanométeres négymagos Xeonokat. A HPC szervergépek piaca tavaly mintegy 11,6 milliárd dollárt tett ki az IDC számításai alapján, amivel nagyjából a teljes szerverpiac ötödére rúg ez a szegmens, míg a munkaállomások piaca 7,2 milliárd dollárra rúgott a Jon Peddie Research szerint.

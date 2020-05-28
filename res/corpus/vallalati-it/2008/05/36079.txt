@@ -1,0 +1,12 @@
+Gõzerõvel halad a Microsoft hypervisorának fejlesztése: megjelent az RC1
+
+A Microsoft elérhetõvé tette a nyárra ígért Hyper-V virtualizációs köztesréteg elsõ kiadásra jelölt változatát (RC1), a Windows Server 2008-ra telepíthetõ kiegészítõ ingyen letölthetõ a cég oldaláról.
+
+
+
+
+Az elsõ RC még márciusban érkezett, és már az is rendelkezett a végleges verzió összes funkciójával, Az RC1-ben az RC0-hoz képest újdonság, hogy Windows 2000 Server SP4-et, illetve Windows 2000 Advance Server SP4-et is képes futtatni virtuális gépként. További apró figyelmesség, hogy a hypervisoron futó Linuxok ablakában már minden további trükk nélkül mûködik az egérkurzor.
+
+A Microsoft korábban azt ígérte, hogy a hypervisor legkésõbb 180 nappal a Windows Server 2008 megjelenése után lesz elérhetõ, azonban a hírek szerint a fejlesztés, illetve a tesztelés és hibajavítás gyorsabban halad a vártnál, így a Hyper-V akár júniusban is megjelenhet. A Hyper-V robosztus állapotát mi sem mutatja jobban, mint az, hogy az MSDN és TechNet-szervereket a Microsoft már a saját hypervisorán futtatja. Bob Muglia, a Microsoft szervertermékekért felelõs vezetõje elmondta, a Hyper-V "atomstabil és készen áll a gyártásra".
+
+Fontos tudni, hogy a Hyper-V RC1 még nem kompatibilis a System Center Virtual Machine Manager 2008 jelenleg elérhetõ bétájával, így akik továbbra is tesztelni szeretnék a virtuális gépek felügyeletére szolgáló megoldás elõzetesét, azok egyelõre ne telepítsék a Hyper-V RC1-et, maradjanak a márciusban kiadott RC0-nál. Valószínû hamarosan az SCVMM 2008-ból is érkezik egy új elõzetes, ami már támogatni fogja a Hyper-V RC1-et.

@@ -1,0 +1,14 @@
+Villámgyors merevlemezt kínál szerverekbe és tárolórendszerekbe a Seagate
+
+Kiegészítette szerverekbe szánt 2,5 hüvelykes méretû merevlemezeinek kínálatát a Seagate. A világ elsõ számú diszkgyártója még idén szállítani kezdi a Savvio termékcsalád legújabb tagjait, a 15K.2 szériát, mely a cég állítása szerint nemcsak gyorsabb a legtöbb hasonló megoldásnál, de lényegesen energiatakarékosabb is lehet.
+
+
+
+A Savvio 15K.2 sorozatú, 2,5 hüvelykes merevlemezeket elsõsorban szerverekbe és merevlemezes adattárolókba szánja a Seagate. A 15 ezres percenkénti fordulatú lemezek Serial Attached SCSI (SAS) 2.0 interfésszel kommunikálnak, a maximális adatátviteli tempó csatlakozóoldalon 6 gigabit másodpercenként. Az új HDD-ket két kapacitással gyártja a Seagate; az adattárolók 73 és 146 gigabájtos változatban lesznek elérhetõk.
+
+A gyártó szerint az új, nagy teljesítményû Savvio merevlemezek a gyors adatelérés és a fejlett interfész miatt ideális építõelemei lehetnek a különbözõ RAID-konfigurációknak, ezzel együtt pedig a 3,5 hüvelykes HDD-kre alapuló rendszereknél összességében nagyobb teljesítményt nyújthatnak kedvezõbb energiafelhasználási mutatók mellett. A Seagate ebbe a szériába is beépíti az energiatakarékos funkciókat takaró PowerTrim technológiát, mely összességében akár 70 százalékos energiamegtakarítást is eredményezhet a hasonló sebességkategóriájú, 3,5 hüvelykes egységekhez képest.
+
+
+A Savvio 15K.2 merevlemezek a gyors adatelérés és a megbízható üzem mellett az adatok biztonságáról is gondoskodnak. A Seagate állítása szerint az új széria tagjai a kategóriájukban az elsõ olyan HDD-k, melyek opcionálisan Advanced Encryption Standard (AES) titkosítást használnak, az adatok így például a tárolórendszer leselejtezését követõen sem kerülhetnek illetéktelen kezekbe. 
+
+Az új, gyors merevlemezekbõl álló termékcsaláddal egyszerre, várhatóan a jövõ hónapban elérhetõvé válik a Savvio 10K.3 sorozat is, mely valamivel lassabb adatelérést nyújt, ugyanakkor nagyobb kapacitással (146 és 300 gigabájtos változatban) kerül forgalomba. A HDD-k hardveres titkosítóalgoritmussal ellátott változatainak szállítása jövõre, az elsõ negyedévben kezdõdik majd.

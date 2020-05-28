@@ -1,0 +1,33 @@
+Az IBM Power System gépeibe is megérkeztek az SSD-k
+
+Teljesítményigényes környezetben nem ritka, hogy a vállalatok több
+tucat merevlemezt használnak párhuzamosan annak érdekében, hogy a
+lehetõ legtöbb fej dolgozhasson egyszerre -- így érhetõ el a legtöbb
+I/O-mûvelet adott idõ alatt. A flash meghajtók jóval gyorsabbak a
+tányérokat pörgetõ társaiknál, egy SSD teljesítménye több tucat merevlemezével ér fel, így használatukkal hely és energia is megtakarítható. A takarékosság ára az ár, egy SSD-ért több mint tízezer dollárt számláz az IBM.
+Data Balancer 
+A Nagy Kéknél úgy látják, a legtöbb felhasználó vegyesen használ majd
+SSD-ket és hagyományos merevlemezeket a szerverekben, ezért olyan
+szoftvereszközöket bocsát az ügyfelek rendelkezésére, amelyek
+segítségével a rendszergazdák megtalálhatják a legsûrûbben elért
+adatokat, majd a lehetõ legnagyobb teljesítmény elérése érdekében
+átmigrálhatják õket a merevlemezekrõl az SSD-kre. 
+A legsûrûbben használt adatokat kiszûrõ és automatikusan az SSD-kre
+migráló Data Balancer szoftver AIX 5.3, AIX 6.1 és i/OS 6.1 operációs
+rendszeren mûködik, de az algoritmus várhatóan a jövõben az operációs
+rendszerek részévé válik. Az SSD-k nagyobb teljesítményébõl fakadó
+elõnyök a Power System szervereken futó bármilyen operációs rendszer
+alatt kihasználhatók, beleértve a SUSE Linux Enterprise Server 10
+SP2-t, illetve a Red Hat Enterprise Linux 4.7-et és 5.2-t, vagy újabb
+változatokat.
+128 gigabájt helyett csak 69
+A flash memóriákkal kapcsolatos egyik jellemzõ aggodalom a fáradással
+kapcsolatos. A technológia sajátossága, hogy a memóriacellák csak
+korlátozott számban írhatók, ezután elfáradnak, tartalmukat ugyan
+megõrzik, de már nem lehet õket módosítani vagy törölni. A korszerû
+flash memóriáknál egy cellát már több milliószor lehet újraírni fáradás
+nélkül, de az élettartam maximalizálása érdekében a gyártók a flash
+meghajtók a névlegesnél nagyobb kapacitásúak, így ha a cellák
+elkezdenek elfáradni, rendelkezésre áll "tartalék" terület.
+Az IBM az STEC 128 gigabájtos Zeus-IOP flash meghajtóit építi be a Power System szervereibe, azonban a 2,5 hüvelykes kivitelû egységek kapacitását a fenti okok miatt 69 gigabájtban korlátozza. A 3 Gbps SAS interfésszel rendelkezõ meghajtókra 220 MBps olvasási és 122 MBps írási sebességet és másodpercenként 28 ezer I/O mûveleti teljesítményt ad meg az IBM, utóbbi több mint nyolcvanszorosa egy percenkénti 15 ezres fordulaton pörgõ SAS diszkének.
+Az IBM System x blade szervereiben már korábban elérhetõvé tette az SSD-ket, most az x86-alapú termékvonal minden tagja rendelhetõ 2,5 vagy 2,5 hüvelykes, 50 gigabájt kapacitású, SATA felületû szilárdtest-meghajtókkal. A tárolóeszközök legnagyobb gyártója, az EMC tavaly január óta szállítja csúcskategóriás Symmetrix rendszereit SSD-vel, amelyeket szintén az STEC gyárt.

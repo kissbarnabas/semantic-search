@@ -1,0 +1,22 @@
+Õsszel érkezik az SQL Server 2005 harmadik szervizcsomagja
+
+Az SQL Server 2008-as verziójának megérkezésével közel egyidõben a Microsoft egy újabb frissítõcsomagot ad ki az SQL Server 2005-höz. Az SQL Server SP3 érkezése azután esedékes, hogy az SQL Server 2008 gyártásba megy, amit a harmadik negyedévre ígérnek.
+
+
+
+Hibajavítások
+
+Az SP3 kiadása az SQL Server 2005-höz remek hír a vállalatok számára, amelyek nem akarnak rögtön a megjelenéskor SQL Server 2008-ra váltani. Bár a Microsoft új adatbáziskezelõje számos új szolgáltatást tartalmaz, valószínûleg a fejlesztések nem fednek le minden igényt, ezért biztos lesznek olyan felhasználók, akik maradnának a régebbi verziónál -- fõleg akkor, ha csak nemrégiben tértek át SQL Server 2005-re, ami konzervatív ügyfeleknél megeshet.
+
+Az SQL Server 2005 SP2 több mint egy éve jelent meg. Azóta a Microsoft kéthavi rendszerességgel ad ki javításokat az adatbázishoz. Ez a gyakorlat az SP3 bejelentése és várható megjelenése ellenére sem változik, vagyis a felhasználók a jövõben is számíthatnak a rendszeres frissítésekre. A Microsoft azt javasolja a felhasználóknak, hogy csak akkor telepítsék ezeket  frissítéseket, ha a bennük foglalt hibajavítás közvetlenül érinti a rendszerüket, egyébként inkább várják meg az SP3 megjelenését.
+
+
+ Egyelõre nem sok információ látott napvilágot az SQL Server 2005 SP3-ról, egy blogbejegyzés alapján mindössze annyit tudni, hogy az eddig kiadott összes javítást tartalmazza majd, valamint néhány olyan extra fejlesztést, amelyeket a felhasználók kértek a Microsofttól.
+
+SQL Server 2008 újdonságok
+
+A Windows Server 2008-cal és a Visual Studio 2008-cal együtt bejelentett SQL Server 2008 legfontosabb újdonságai a megbízhatóságot, a biztonságot, a teljesítményt, valamint a fejlesztések leegyszerûsítését érintik. A szoftver ennek jegyében többek között tartalmaz transzparens failovert, transzparens adattitkosítást külsõ kulcskezeléssel, erõforrások (CPU) menet közbeni hozzáadását, adattömörítést, az alkalmazásfejlesztés egyszerûsítése terén a legnagyobb elõrelépést pedig talán a LINQ (Language Integrated Query) és az ADO.Net entitások támogatása jelenti.
+
+A mai trendeknek megfelelõen az SQL Server 2008-cal lényegében bármilyen adatok tárolhatók, legyen szó akár dokumentumokról, XML állományokról, vagy akár egész fájlokról. További fontos fejlesztés, hogy az SQL Server 2008-at felkészítették földrajzi adatok és vektorok tárolására is, amely kimondottan elõnyös olyan szolgáltatások fejlesztésekor, amelyek valamilyen módon földrajzi adatokra vagy helyszínekre támaszkodnak. A szoftver üzleti intelligencia és jelentéskészítési funkciókkal is bõvült, a Microsoft szerint az adatbázist úgy alakították ki hogy nagyszerû adattárház-platform legyen, a Microsoft által felvásárolt kanadai Dundas Data technológiái segítségével pedig komoly adatvizualizációs képességeket vonultat fel az SQL Server Reporting Servicesben.
+
+Az SQL Server 2008 összesen öt verzióban lesz hozzáférhetõ: ezek közül az Enterprise, a Standard, és a Workgroup "fizetõs", a Compact és az Express ingyenes. A Compact valójában egy olyan SQL Server-változat, ami kifejezetten kliensgépekre készült, a kliensoldali alkalmazások lokális adattárolásának egyszerûsítésére. A szoftver ingyen letölthetõ a Microsoft weboldaláról. Szintén ingyenes az SQL Server 2008 Express, amelyet elsõsorban a technológiával ismerkedõknek szán a Microsoft.

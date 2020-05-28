@@ -1,0 +1,22 @@
+Cisco: hatalmas növekedés elõtt az internetes televíziós mûsorszórás
+
+Idén, részben a pekingi olimpia hatására látványosan megnõtt az igény az IP-alapú vidoszolgáltatások iránt. Emellett egyre több, a felhasználók által létrehozott tartalom kerül az internetre, és az interaktív szolgáltatások is egyre népszerûbbek. A Cisco az október 20-21-én Budapesten zajló IPTV World Forum közép- és kelet-európai állomásán azokat az üzleti modelleket és infrastruktrurális megoldásokat ismertette, amelyeket a szolgáltatók rendelkezésére bocsát a fentiek alapján létrejött "Connected Life" jellegû rendszerek létrehozásához.
+
+
+
+Az IPTV csak a kezdet
+
+A konferenciát megelõzõ sajtóbeszélgetésen Murali Nemani, a Cisco videomegoldásokat fejlesztõ csoportjának vezetõje újságírók elõtt ismertette a piaci trendeket: "A szolgáltatók átalakulásának középpontjában az a törekvés áll, hogy az új generációs IP-hálózatokon keresztül is sikeresen biztosítsák a videoalapú szórakozást. Ennek elsõ állomása a televíziós mûsorszórás, amely azonban pillanatok alatt továbbfejleszthetõ igény szerinti, hálózattól, eszközöktõl vagy helyszíntõl független videoszolgáltatássá" -- ismertette elõadásán Nemani.
+
+A forgalom növekedési üteme 2012-ig (PB/hónap bontásban)
+
+A Cisco öt évet felölelõ Visual Networking Forecast felmérésébõl egyebek mellett kiderül, hogy 2007-tõl 2012-ig a globális IP-forgalom kétévenként megduplázódik, 2012-re pedig a teljes IP-forgalom felét a videoalapú szolgáltatások adják majd. A tartalomgyártók közül is egyre többen ismerik fel az új, mind nagyobb tömeget elérõ szolgáltatásokban rejlõ lehetõségeket: az amerikai NBC televízió az IP-alapú adásláncnak köszönhetõen például nem csak a mûsorok gyártásán spórolt azzal, hogy a stáb egy jelentõs részét nem kellett a helyszínre utaztatni, hanem minden eddiginél több nézõt ért el az interneten keresztül -- mutatott rá Nemani.
+
+
+Az NBC olimpiai tudósításait 51,9 millió nézõ követte legalább egyszer az interneten keresztül -- ez 75,5 millió videostreamet, összesen 9,9 millió órányi tartalmat jelent. Összehasonlításként az athéni nyári olimpia és a torinói téli olimpia online közvetítései együttesen 10,8 millió videostreamet generáltak. A PC-k és televíziók mellett ráadásul egyre többen "viszik magukkal" az adást mobiltelefonjukon: az NBC olimpiai oldalait és videotartalmait például 7,7 millióan tekintették meg WAP vagy mobil VoD alapokon.
+
+Targetált reklámok, jobb minõség
+
+A Cisco az újonnan felmerülõ igényekre válaszul IPTV-megoldások széleskörû választékát nyújtja a hálózatüzemeltetõknek és szolgáltatóknak, illetve tartalomelõállítóknak egyaránt: a Cisco Content Delivery tartalomközvetítõ rendszer így például központi szerepet játszik a mûsorszolgáltatók által hatékonyabb, targetált reklámozási lehetõséget kínáló Cisco Advanced Advertising architektúrában. A Cisco Visual Quality Experience (VQE) az üzemeltetési költségek jelentõs megnövekedése nélkül javítja a hang- és képanyagok minõségét, emellett gyorsabb csatornaváltást és hibajavítást tesz lehetõvé.
+
+A vállalat emellett olyan MPEG-4 kódolókat is szállít partnereinek: a Cisco Advanced Video Coding (AVC) a sávszélesség hatékonyabb kihasználásában segít, a a gyártó emellett az elõfizetõi végpontokon telepített vevõegységek (set-top box) piacán is vezetõ szerepet tölt be -- a Cisco beltéri egységét telepíti például a Magyar Telekom a legnagyobb hazai IPTV-szolgáltatás, a T-Home ügyfelei részére.

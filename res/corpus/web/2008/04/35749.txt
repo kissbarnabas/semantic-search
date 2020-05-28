@@ -1,0 +1,14 @@
+Saját webalkalmazásainkat is futtatja a Google
+
+Saját tárterületét és infrastruktúráját kínálja fel a Google Apps, magyarul Google Alkalmazások felhasználóinak a Google: az új App Engine segítségével saját webes alkalmazásokat írhatunk. Alkalmazásainkat a Google szerverei szolgálják ki, szinte korlátlan skálázhatóságot, garantált erõforrást biztosítva.
+
+
+
+A Google App Engine újabb kiegészítése a folyamatosan fejlõdõ Google Apps alkalmazáskínálatnak. A Google Apps már nem csak akár garantált rendelkezésre állású postafiókot, online tárolt, megosztható dokumentumokat és naptárt biztosít, de a Google Sitesszal létrehozott, kívülrõl is látható, vagy éppen intranetes oldalainkat akár saját webes alkalmazásokkal is kibõvíthetjük az Apps Engine segítségével. Mindehhez nem szükséges saját infrastruktúra, mindent a Google tárol, futtat.
+
+
+A Google blogbejegyzése szerint az App Engine-ben megírt Python-alkalmazások skálázódását saját Bigtable adatbázisrendszere, illetve az automatikus terheléselosztás és replikáció teszi lehetõvé. A motorhoz használhatók a keresõóriás már korábban közzétett programozási interfészei is.
+
+
+
+Az egyelõre ingyenes, béta szolgáltatáshoz az elsõ 10 ezer, gyorsan jelentkezõ fejlesztõ férhet hozzá. A programozóknak 500 megabájtnyi tárhely és akár havi 5 millió weboldal kiszolgálására elegendõ sávszélesség, erõforrás áll rendelkezésére alkalmazásonként. Amennyiben ez nem lenne elegendõ, további tárhely és sávszélesség is vásárolható. A vállalat elsõsorban webszolgáltatásokban érdekelt startupok, vagyis frissen létrejött cégek érdeklõdésére számít, akiknél a jó ötlet már adott, de nem rendelkeznek a megvalósításhoz szükséges infrastruktúrával.

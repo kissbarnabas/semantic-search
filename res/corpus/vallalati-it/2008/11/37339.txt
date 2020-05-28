@@ -1,0 +1,18 @@
+Megszabadították láncaitól az Androidot
+
+[eWeek/HWSW] Alig teltek el hetek az elsõ Android telefon debütálása óta, néhány szemfüles programozó múlt héten máris rájött, hogyan lehet kártyafüggetlenné tenni a készüléket a T-Mobile hálózatától, most pedig az XDA fejlesztõi fórum tagjai szereztek teljes kontrollt az operációs rendszer felett. 
+
+
+
+A UNIX-világban "jailbreaknek", tehát börtönbõl szabadulásnak nevezett lépéssel olyan erõforrásokat tud elérni a felhasználó, amelyek normális esetben el vannak elõle zárva. A rendszerszintû jogosultságok megszerzésével teljes ellenõrzés gyakorolható a szoftver felett. A T-Mobilr G1 feltörõi arra jöttek rá, hogyan lehetséges egy háttéralkalmazást indítani egy, az Android Marketen fellelhetõ program segítségével úgy, hogy a rendszerszintû jogokat és teljes hozzáférést is adjon némi trükközés után.
+
+
+ Kyle Matthews, a ModMyGPhone adminisztrátora egy tételes listát tett közzé a teljes rendszer újramountolásának lépéseivel, illetve egy elõzetes anyagot a fájlrendszerrõl magáról. Próbálkozó kedvûeknek a küldetés teljesítéséhez a G1-en kívül szükség lesz még a "PTerm" szoftver telepített válatozatára is.
+
+Ugyan a legtöbb felhasználó számára teljesen érdektelen a G1 feltörése, mégis, ez egy elkerülhetetlen és egyben szimbolikus lépés. A közeljövõben valószínûleg tucatszám érkeznek majd a testreszabást megkönnyítõ eszközök, a telefonok akár teljesen új felülettel is feltûnhetnek hamarosan. A készüléken belül a háttérképek és az ikonok cseréje csak a kezdet, hamarosan a teljes grafikus felületet, a témákat és az alapvetõ alkalmazásokat is helyettesíteni lehet majd.
+
+ 
+
+Összehasonlítva az iPhone feltörésével, a G1-hadmûvelet semmiség volt, hisz az Apple telefonjába való behatoláshoz egy távoli elérést lehetõvé tevõ emulált iTunes mobil eszközkezelõjére volt szükség. Eközben a G1 esetében a készüléket egy terminálprogrammal könnyedén el lehett érni és néhány egyszerû parancs és egy háttéralkalmazás futtatásával már mûködött is a készülék. Steve Jobs cége minden egyes frissítéssel egyre csak zártabbá tette rendszerét, és nehezítette a bejutást, de a Google mintha szándékosan hagyta volna résnyire nyitva az ajtót.
+
+A T-Mobile G1 operációs rendszerét, a Google Androidot október végén teljes egészében megnyitották és Apache licenc alatt közzétették. Ez nem csak azt jelenti, hogy a fejlesztõk, szolgáltatók és hardvergyártók a legmélyebb rétegekig beleláthatnak a kódba, hanem azt is, hogy lényegében bárki piacra dobhat olyan telefont, ami erre a szoftverre épül. Valószínûleg ez a lépés tette lehetõvé a kártyafüggetlenítést, illetve a szoftver elindítását a T-Mobile G1 mellett más készülékeken.

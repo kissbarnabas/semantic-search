@@ -1,0 +1,44 @@
+Meghódítják a világot az olcsó noteszgépek
+
+A kategóriateremtõ ASUS Eee PC-bõl és a hozzá hasonló szuperolcsó noteszgépekbõl tavaly még csak 500 ezer darab fogyott, de 2012-ben már 9 millió gép eladása várható 3 milliárd dollár értékben. Az IDC elemzõcég ebbe a kategóriába azokat a 7-10 hüvelykes kijelzõvel szerelt, 500 dollárnál olcsóbb noteszeket sorolja, amelyek teljes operációs rendszerrel rendelkeznek, külsõ alkalmazások is futnak rajtuk, illetve vezeték nélküli hálózati vezérlõt tartalmaznak. 
+
+
+
+Olcsó?
+
+Noha az elkövetkezõ években milliószám kerülnek majd a felhasználókhoz ilyen laptopok, a rendkívül alacsony áruk miatt a gyártók nem sok bevételt és nyereséget tudnak majd rajtuk realizálni -- a 9 millió gép mellett 3 milliárdosra becsült piac azt jelenti, az átlagos eladási ár 2012-re 333 dollárra csökken majd. Ez azonban nem tántorítja el a cégeket attól, hogy belépjenek erre a piacra. Az azonban már most is látszik, hogy a gyártók a nagyobb nyereség érdekében erõteljesen törnek felfelé: egyre-másra tûnnek fel a színen az olyan "olcsó" noteszek, amelyek ára a 800-1000 dollárt közelíti.
+
+
+ Az Intel 2008 és 2011 között több mint 100 millió olcsó számítógép eladását várja világszerte -- ez a szám 47 millió olcsó noteszbõl, illetve 60 millió kifejezetten internetezésre szánt mobil eszközvõl tevõdik össze. Jerry Shen, a Eee PC-vel kategóriát teremtõ Asustek elnöke úgy véli, 2008-ban 10 millió, 2009-ben pedig már 20 millió ilyen eszköz talál gazdára.
+
+A szuperolcsó noteszek eredeti koncepciója szerint a fejlõdõ országokban oktatási segédeszközként hivatottak szolgálni, azonban az eladási elõrejelzések alapján úgy tûnik, a legtöbbjük az Egyesült Államokba, és már fejlett PC-piaccal rendelkezõ európai és ázsiai országokba kerül majd, ahol második-harmadik PC szerepét töltik be. Az IDC szerint ezek a notebookok már csak azért sem lesznek a fejlõdõ országokban élõ gyerekek tanszerei, mert alapvetõen vezeték nélküli internetkapcsolatra tervezték õket -- ami inkább a fejlett piacokra jellemzõ. Az IDC úgy véli, a kicsi és olcsó noteszek fõleg a fiatalok, iskolások körében lesznek rendkívül népszerûek. Az Eee-vel, és a hozzá hasonló olcsó noteszek közül néhánnyal a hazai piacon is biztosan találkozhatunk majd.
+
+Eee és társai
+
+A világpiacon már közel egy éve kapható a kategóriateremtõ Eee PC, amelyet azonban hivatalosan csak most kezdtek Magyarországon forgalmazni. A 800x480 pixel felbontású 7 hüvelykes kijelzõvel rendelkezõ ASUS 701 teljes magyar lokalizációval kapható, ami a magyar operációs rendszer mellett két év hazai garanciában is megmutatkozik. A 80 ezer forintos Eee PC-ben 512 megabájt memória és négy gigabájt SSD háttértár, valamint WLAN-adapter teljesít szolgálatot. A gép rendelkezik vezetékes hálózati csatlakozóval,  három USB 2.0 eszköz és egy külsõ monitor is csatlakoztatható hozzá, a  kijelzõ felett pedig egy VGA felbontású webkamera néz velünk szembe.
+
+
+
+Miközben az ASUS 701 hazai forgalmazása még csak most indul, a világpiac már a 900-as sorozat érkezését üdvözölheti. A 900 MHz-es Celeron köré épített gépben a korábbinál nagyobb méretû, 9 hüvelykes, 1024x600 pixel felbontésú kijelzõ kapott helyet, a memória már 1 gigabájtos, a háttértár pedig 12-20 gigabájtos flash memória lehet. A webkamerát is lecserélték a tervezõk, a 900-as sorozatban már 1,3 megapixeles felbontásút találni. A 802.11b/g vezeték nélküli kommunikációra képes, Windows XP-vel vagy Linuxszal rendelhetõ gép 550 dollárba kerül. 
+
+[+] Kipróbáltuk az Asus mini Eee PC-jét
+
+Az MSI Wind már komolyabb gépnek tûnik, a csúcsváltozata 1,6 GHz-es Intel Atom processzort és 1 gigabájt memóriát tartalmaz, az adatok tárolásáról pedig 80 gigabájtos merevlemez gondoskodik. Az olcsó noteszgépet Bluetooth 2.0 adapterrel és 1,3 megapixeles webkamerával is felszerelik, a kényelmes gépelés érdekében pedig azt a billentyûzetet kapja, amely a gyártó nagyobb modelljeiben is megtalálható. A Wind LED-háttérvilágításos kijelzõje kiviteltõl függõen 8,2 vagy 10 hüvelyk átlójú, mindkét esetben 1024x600 pixel felbontású. A notesz Windows XP-vel vagy Linuxszal is rendelhetõ lesz. A belépõmodell ára 299 euró, de a csúcsváltozatért 699 eurót kérnek, ami már jócskán kívül esik az IDC által definiált kategória határain.
+
+
+
+Az ECS G10IL notesze ezzel szemben 500 dollár alatt érkezik, a forgalmazása a tervek szerint a nyáron indul, bár hazai elérhetõségrõl egyelõre nem tudni. A kiviteltõl függõen 8,9 vagy 10,2 hüvelykes kijelzõvel rendelkezõ gépben Intel Atom (Diamondville) processzor teljesít szolgálatot, hozzá legfeljebb 2 gigabájt memória kapcsolódhat. A G10IL-t Bluetooth- és Wi-Fi-vezérlõvel is ellátták, de készül belõle 7,2 Mbps sebességû HSDPA-adóvevõvel felszerelt verzió is, amely az õsszel debütálhat. A G10IL három USB-porttal, Ethernet-csatlakozóval és 1,3 megpixeles webkamerával is rendelkezik.
+
+
+
+Nem is olyan olcsó: Compaq 2133
+
+Magyarországon valószínûleg hivatalosan nem fogják forgalmazni a HP Compaq 2133-at, azonban a rendkívül stílusos házba zárt, és mûszaki paramétereit tekintve is figyelemre méltó gép mindenképp szót érdemel. A parányi számítógép a kilenc hüvelykes nagyfelbontású kijelzõjével megmutatja, hogy az olcsóbb, Eee PC által teremtett kategóriának legtetején lehet minõségi anyagokból, kompromisszummentes gépet is alkotni, és szinte biztosra vehetõ, hogy a 2133 nem kevés Eee-rajongót pártoltat majd át magához.
+
+A Compaq 2133 az Egyesült Államokban nem kevesebb mint öt különbözõ változatban kapható, mindegyikükben ultraalacsony feszültségû VIA C7M szív dobog. mely modelltõl függõen 1, 1,2 és 1,6 gigahertz frekvencián üzemelhet. A háttértároló 120 vagy 160 gigabájtos, rázkódásvédelemmel felvértezett merevlemez, vagy 4 gigabájtos flash meghajtó lehet. A masina az internetet gigabit sebességre is alkalmas vezetékes és 802.11 a/b/g vezeték nélküli hálózatokra kapcsolódva is elérheti, ha mobil szélessávon szeretnénk netezni, azt az 54 milliméteres ExpressCard kártyahelybe illeszthetõ HSDPA adatkártyákkal tehetjük.
+
+
+
+A Compaq 2133 a karcálló bevonattal ellátott, szélesvásznú, 1280x768 képpontos kijelzõn kívül akár 2048x1536 képpontos felbontásig is képes kezelni a külsõ monitorokat. A gép anodizált alumíniumházán két USB 2.0 port, egy sztereó mikrofonbemenet és egy fülhallgató-kimenet is helyet kapott, de a notesz rendelhetõ VGA felbontású webkamerával is. A HP Compaq 2133 belépõmodellje még beleesik az IDC által definiált kategóriába, hiszen épp 499 dollárba kerül, de a csúcsváltozatért már 849 dollárt kell fizetni, ami már egyáltalán nem szuperolcsó.
+
+Az eddig említett modelleken kívül számos további gép érkezése várható a piacra, az ismert PC-gyártók közül a Dell és az Acer is jelezte, hogy meg fog jelenni ebben a szegmensben -- az Acer már két gépet is bejelentett. Várhatunk még olcsó pici PC-t többek között a Gigabyte-tól, de a HWSW értesülései szerint a hazánkban ismert Clevónak is lesz ilyen aprócska gépe, nem lepõdnénk meg, ha a magyar PC-márkák (pl. Albacomp, FEFO, Qwerty) zászlaja alatt ezzel is találkoznánk a boltokban.

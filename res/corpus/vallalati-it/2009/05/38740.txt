@@ -1,0 +1,13 @@
+Megjött a Solaris 10 tavaszi frissítése
+
+A Sun évente kétszer ad ki nagyobb frissítõcsomagot a Solaris 10-hez, tavasszal és õsszel. A hétvégén elérhetõvé tett 05/09 csomag talán legfontosabb újdonsága az 5500-as sorozatú, Nehalem-magos Xeonok támogatása, ami elsõsorban a bennük megjelenõ fejlett energiatakarékossági funkciókat jelenti. Az új Solaris a terheléselosztásnál képes figyelembe venni a processzorok feszültségét és órajelét és úgy osztja el a programszálakat a processzorok és processzormagok között, hogy a lehetõ legjobb legyen azok kihasználtsága. Az operációs rendszer megpróbálja a lehetõ legkevesebb processzort igénybe venni, hogy aztán a nem használtak energiatakarékos, alvó módba kerülhessenek.
+
+Az x86-os rendszerekkel kapcsolatos fontos fejlesztés még, hogy a Solaris 05/09 már hozzáférést biztosít a processzorokban található teljesítményelemzõ eredményeihez. A modern processzorok a szoftverek futása közben a viselkedésükkel kapcsolatos számos eseményt naplóznak (pl. cache miss), ezeknek az adatoknak a kinyerésével a szoftverfejlesztõk jobban optimalizálhatják kódjukat, amire már Solaris alatt is lehetõségük van.
+
+Újdonság, hogy az új csomaggal frissített Solaris már a ZFS fájlrendszer klónozási képességeit is fel tudja használni konténerek, azaz alkalmazások számára elszigetelt környezetek klónozásához -- a Sun szerint ezzel jelentõs felgyorsulhat a folyamat. A rendszergazdák alighanem örülnek majd, hogy az IPsec már a Solaris Service Managerbõl is elérhetõ, így a biztonsági beállítások egyszerûbben módosíthatók. Szintén a biztonsággal kapcsolatos fejlesztés, hogy az SSH jelentõsen felgyorsult a Niagara processzoros gépeket, mivel már képes használni az UltraSPARC T2-ben található hardveres kriptográfiai gyorsítót.
+ 
+
+
+ Számos hálózati interfész meghajtóját átírták a Sun mérnökei, a Solaris így már támogatja a Mellanox legújabb fejlesztésû InfiniBand chipjeit, valamint a NetXen PCI Express felületû, 10 gigabites Ethernet vezérlõit. A Large Segment Offload (másképp TCP segmentation offload) támogatásának köszönhetõen az Intel arra alkalmas hálózati vezérlõi képesek átvenni nagyobb adattömegek csomagokra bontásával járó feladatokat, csökkentve a processzor terhelését. A Solaris 10 05/09 frissítõcsomag újdonságait tételesen felsoroló lista itt letölthetõ.
+
+A Solaris 10 2005-ben jelent meg, lassan itt az ideje a leváltásának, amit a Sun is tud -- az operációs rendszer utódja, a Solaris 11 várhatóan 2010-ben érkezik. Egyelõre nem sokat tudni a Solaris 11 újdonságairól, még az sem biztos hogy Solaris 11 lesz a termékneve.

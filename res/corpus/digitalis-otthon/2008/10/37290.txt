@@ -1,0 +1,76 @@
+Kipróbáltuk: Logitech Digital Video Security System -- Házi valóságshow
+
+A valóságshow-k és megfigyelési botrányok idején egyáltalán nem idegen, hogy az egyik legnagyobb számítógépes perifériagyártó is kínál biztonsági kamerarendszert, amolyan hobbikészlet formájában. A PC-alapú szett hasonlít egy komoly megoldáshoz, s ugyan egy valóban értékes ipari objektumot nem biztos, hogy rábíznánk, otthoni kémkedésre tökéletesen alkalmas.
+
+
+
+Hobbi security
+
+A kültéri- és beltéri kamerákat is felvonultató Logitech Digital Video Security System elsõre egyszerû játékszernek tûnhet, de aki nem akar milliós nagyságrendben forintokat arra költeni, hogy vagyontárgyait, területét szemmel tartsa, viszont vannak igényei, elvárásai a szolgáltatással kapcsolatban, annak kellemes meglepetést okozhat a szett. A rendszerrel maximum hat kamerát lehetséges összekapcsolni, ebben az esetben viszont már komoly összeg szerepel a számlán, hiszen a mester egység egy kamerával 70, minden újabb kiegészítõ kamera pedig 60 ezer forintba kerül a kereskedõknél. 
+
+Egy flancosabb lakás vagy egy kisebb vállalkozás telephelyén, irodáiban viszont teljesen vállalható a közel félmilliós készlet. A telepítése és üzembehelyezése nem igényel semmilyen szaktudást, sõt még a számítógépekhez sem kell túlzottan érteni, az installálás során a varázsló lépésrõl-lépésre elmondja, hogy mi a teendõ. A gyári papírokban ígért 15 perces elõkészületi idõ még talán túlzás is, a negyed órába még az élességállítás és a kamera helyzetének igazgatása is belefér.
+
+
+
+
+
+Beleillik a képbe 
+
+230V
+
+A Logitech a kamerák közti kommunikációra szokatlan, de a realitásokból kiinduló megoldást választott, hiszen az adatok nem USB vagy Ethernet kábelen, nem is vezeték nélkül, hanem az elektromos hálózaton keresztül utaznak az optikától a PC-ig. Ezzel gyakorlatilag a legnagyobb herce-hurcától megkímélték a felhasználót, hisz teljesen mindegy, hogy mekkora a lakás, hogyan vannak elrendezve a helyiségek, csupán egy szabványos dugaljra van szükség a csatlakoztatáshoz. A beltéri kamerához egy ventilátoros hûtéssel ellátott adapter jár, amit egy cserélhetõ kábel köt össze a kameratesttel, míg a kültéri egységnek egy hosszú, de rögzített áramkábel lóg ki a hátuljából. 
+
+A számítógéphez pedig egy újabb adapter segítségével, az USB-porton keresztül kapcsolhatjuk az elektromos hálózatot. Kicsit feszült érzés volt a notebookot USB-n keresztül összekötni a 230 voltos hálózattal, de a fura érzetet leszámítva semmilyen kockázata nincs a dolognak. A számítógépünk automatikusan felismeri, hogy egy USB-Power Line hidat aktiváltunk, amennyiben a Logitech által mellékelt WiLife szoftvert már telepítettük, akkor akár el is lehet kezdeni keresni a kamerákat a hálózaton. Mindössze annyi megkötés van, hogy a híd és a kamerák egy körön belül kell legyenek, ami a gyakorlatban azt jelenti, hogy a villanyóra és a fõrelé megállítja a kommunikációt. A szomszéd lakást emiatt nem lehet egykönnyen megfigyelés alá vonni.
+
+
+
+
+Bírja a gyûrõdést 
+
+Amennyiben viszont sikerül csatlakozni, akkor akár fali dugaljba, akár többszörös áttétellel elosztóba van csatlakoztatva a kamera, akkor is 3-5 Mbps sávszélességû kapcsolat áll fel az eszközök között. Erre többnyire nem lesz szükség, hiszen a maximális felbontás a 640*480 (VGA), melyet 15 képkocka/másodperc sûrûséggel közvetítenek a kamerák. A tömörítést is be lehet állítani, de a 400kbps felé így sem lehet küzdeni egy kamera értékét. Az viszont dicséretes, hogy egyáltalán tömörített videojelet továbbít a kamera, köszönhetõen a beépített 400Mhz-es processzornak.
+
+Csináld magad!
+
+A dizájnos beltéri egységet saját állványába csúsztatva bármilyen vízszintes felületre el lehet helyezni, de a készletben találunk kis gumitappancsokat is, amivel üvegfelületre lehet rögzíteni, akár egy detektívtükör sötét oldalára is. A kamera szeme minden irányba forgatható, illetve az élesség is beállítható az optika csavargatásával. Érdemes eltölteni pár percet a megfigyelt területnek megfelelõ beállítások kitapasztalásával, ugyanis a kamera a VGA-felbontás ellenére annyira precíz, hogy a közelre állított fókusz mellett az apró borosta vagy éppen az ujjakon lévõ bõrredõk is élesen látszanak. Feldobni már csak azzal lehetett volna, ha hangrögzítésre is képes lenne az eszköz, de nem.
+
+
+
+
+Mint a nagyok? 
+
+Ugyan a szerkesztõségünkben nem járt teszten, de a választható kiegészítõk közt van a digitális órának álcázott kémkamera is, ami kívülrõl semmilyen gyanút nem kelt, de a gyakorlatban ugyanúgy mûködik, mint "nyilvánvaló" testvére. A Logitech ajánlása szerint ideális eszköz a dolgozók, a bébiszitter, bejárónõ megfigyelésére.
+
+A kültéri kamera egy egészen profi eszköz látszatát kelti, elvégre ez az utcáról is látszik, nem kelthet amatõr látszatot, illetve mivel kültéri egység, ezért az idõjárás viszontagságainak is ellen kell állnia. Tesztünkben ezt ki is próbáltuk, s elõször az õsszel már elõforduló hajnali talajmenti fagyok próbáját kellett kiállnia, amin sikeresen megfelelt, majd az esõteszt következett. Mivel az idõjárás nem hozott a kipróbálás ideje alatt hevesebb csapadékot, ezért egy fürdõszobában percekig áztattuk a zuhannyal, ami meg sem kottyant neki. Sem a csatlakozó nem lett zárlatos, sem az adás nem szûnt meg egy pillanatra sem. Bár a Logitech termékmenedzsere a próba elõtt azt ajánlotta, hogy állóvízbe azért ne tegyük bele.
+
+Kompromisszumok
+
+A kamerákon kívül a PC-hez kell csatlakoztatni az USB-adaptert, ami a központi szoftver számára továbbítja a bejövõ jeleket. A rossz hír, hogy a a rendszer mûködtetéséhez egy számítógépnek folyamatosan mennie kell, enélkül ugyanis nemhogy rögzíteni nem lehet, de az internet felé sem lehetséges továbbítani a jelfolyamot. Legalábbis az alapcsomaggal nem. A Wilife Pro készlet része egy köztes eszköz, ami hidat képez a kamerák, az elektromos hálózat és az internet router között, de ez egyelõre nem elérhetõ hazánkban, illetve már túlmegy a hobbi-biztonsági szinteken.
+
+
+
+
+Dugd be és játsz!
+
+A normál WiLife szoftver telepítése nem igényel semmilyen extra ismeretet, amennyiben a központi gép és a kamerák is csatlakoztatva vannak, akkor a szoftver megkeresi a kamerákat, melyeket külön elnevezhetünk, illetve különbözõ szabályok segítségével be lehet állítani a rögzítés és megfigyelés szempontjait. A minõség mellett a mozgásdetektor érzékenysége, a felhasználható merevlemezterület, felvételek fix idõzítése is állítható, illetve különbözõ eseményekre kérhetünk riasztást is emailben vagy mobiltelefonra. 
+
+
+Távkémkedés
+
+
+A rögzített kép minõsége ahhoz mérten, hogy egyszerû biztonsági célokat szolgál, meglepõen jó, sõt ahogy fentebb kiderült, a kamerák élessége pozitív csalódás. A mozgásérzékelõ a beállításoknak megfelelõen a legkisebb változásra is reagál, így stratégiai helyeken elhelyezve valódi biztonságérzetet adhat. Az már más kérdés, hogy amennyiben a behatolónak egy csepp intelligenciája is van, illetve végzett némi elõtanulmányt a kiszemelt objektumon, akkor a villanyóra lecsapásával az egész rendszert azonnal kiiktathatja úgy, hogy az még egy utolsó vészfigyelmeztetést sem tudott küldeni. Ez az apró tény, ami miatt komoly ingó és ingatlan vagyont nem érdemes rábízni, inkább tényleg a családtagok, bébiszitter vagy a dolgozók megfigyelésére alkalmas. 
+
+A szettel valós idõben, távolról is könnyedén követhetõek az események, ugyanis a kamera képét a hálózaton keresztül a szoftver továbbítja a WiLife weboldalán bejelentkezett felhasználóknak. Jelentõs sávszélességet ugyan nem emészt fel a továbbítás, de ha valaki híján van feltöltési sebességnek, akkor a webes stream minõségét csökkentheti. Természetesen a merevlemezen rögzített anyagok minõségét ez nem befolyásolja. Logikus magyarázata nincs, de a webes "élõ" kép valójában egy 15 másodperccel késleltetett adás, míg a helyi vezérlõbõl nézve minden valós idõben történik.
+
+
+
+
+Precíz szoftver 
+
+
+Soknak kevés, kevésnek sokba van
+
+
+
+Ha valaki mégis biztonsági célra szeretné használni a rendszert, annak nem árt megvásárolni a Platinum változatot, ami 80 amerikai dollárba kerül évente, ugyanis sok más funkció mellett ez teszi lehetõvé az online rögzítést. Ha pedig kirabolják a lakást, akkor nyilván a rögzítést végzõ számítógép is a veszteséglistán lesz. A normál leskelõdéshez is hasznos ez a csomag, mert digitiálisan lehet zoomolni, forgatni a kamerát, felfedve apró részleteket a megfigyelt területrõl.
+
+A néhány napos teszt során a rendszer tökéletesen mûködött, a Logitechtõl megszokott könnyedséggel lehetett használni az eszközöket. Az online közvetítéssel akadhatnak gondok speciális routerbeállítások mellett, viszont a beüzemelés után könnyen elfelejti az ember, hogy bekamerázta a lakását, olyannyira beleolvad a környezetbe. Az egyetlen kérdõjel az ár, hiszen az indulókészlet 72 ezer forintos bruttó ára is meredek, de egy teljes 6 kamerás rendszer már 370 ezer forintba kerül kiegészítõk nélkül. Játékszernek ez már drága, profi felszerelésnek viszont nem elég. A sikerét valószínûleg felmérhetjük a Logitech jövõ évi termékpalettájából. Ha lesz frissítés, akkor bejött nekik az üzlet, ha nem, akkor kudarcot vallott a házi valóságshow-k legújabb szállítója.

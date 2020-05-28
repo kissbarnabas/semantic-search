@@ -1,0 +1,14 @@
+Magasabb sebességi fokozatba kapcsoltak a Toshiba 1,8 hüvelykes merevlemezei
+
+A Toshiba két új 1,8 hüvelykes merevlemezt is bejelentett 5400 percenkénti fordulatszámmal. Az új tárolók 80 és 120 gigabájtnyi adat tárolására alkalmasak, és áprilistól kaphatnak belõlük a noteszgép-gyártók.
+
+
+
+Az 1,8 hüvelykes, 80 gigabájtos MK8016GSG és a 120 gigabájtos MK1216GSG a gyártó 2,5 hüvelykes sorának 3Gbit/s sebességre képes SATA csatolós megoldásán alapul, amely most került egy méretosztállyal alacsonyabb környezetbe. A 62 grammos merevlemezek teljesítik a SATA 2.6 szabványban elvártakat, csatlakozójuk nem speciális, hanem Micro SATA típusú, így könnyedén illeszthetõk külsõ gyártók termékeibe.
+
+
+A Toshiba a merevlemez-gyártók közül elõször kínál 5400 másodpercenkénti fordulaton pörgõ 1,8" meghajtókat, amelyek jótékony hatással lehetnek az ultrahordozható noteszgépek, tabletek teljesítményére is. Az 1,8 hüvelykes 120 gigabájtos meghajtó teoretikusan hozhatja a 2,5 hüvelykes, 160 gigabájtos nagytestvér teljesítményét. A noteszgép-gyártók, illetve a Toshiba partnerei áprilistól kaphatnak az emelt fordulatszámú egységekbõl, amelyek az SSD-kkel is nagyobb eséllyel szállhatnak majd szembe, hiszen a kapacitás- és az alacsonyabb vételár adta elõnyök nem csorbulnak a lassúcska mûködés miatt.
+
+A kép illusztráció
+
+Míg az 1,8 hüvelykes méretosztályban a nagyobb sebesség elérése az elsõdlegesen megoldanó feladat, addig a 2,5 hüvelykes meghajtók a kapacitás növelése -- sorra érkeznek a fél terabájtos egységek. Ezek közül legutóbb a Fujitsu mutatta be nem szabványos fizikai méretû megoldását, de a Hitachi és a Samsung tárolóitól eltérõen ez 5400 helyett csak 4200-as percenkénti fordulatú. A Fujitsu MHZ2 BT 12,5 milliméteres magassága a megszokott kettõ helyett három lemeztányér alkalmazásának köszönhetõ, ezzel azonban a meghajtó túl magassá válik ahhoz, hogy a szabványos 2,5 hüvelykes merevlemezek helyére beépíthetõ legyen.  A Samsung az egyedüli gyártó, akinek sikerült eddig 500 gigabájtnyi adat tárolására alkalmas 2,5 hüvelykes,  9,5 milliméteres magasságú 2,5" meghajtót piacra dobnia.

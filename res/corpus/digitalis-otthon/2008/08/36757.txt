@@ -1,0 +1,16 @@
+Hét biztonsági rést foltoz be az Opera webböngészõ új verziója
+
+Hét rést foltozott be a hét közepén az Opera Software népszerû többplatformos böngészõprogramjának kódjában -- ebbõl a legtöbb, hét darab a windowsos, hat a linuxost és öt a MacOS X operációs rendszerhez fejlesztett változatot érintette.
+
+
+
+A norvég szoftvercég a hét elsõ felében adta ki az Opera webböngészõ legfrissebb biztonsági frissítését, mellyel összesen hét sebezhetõségi pontot számoltak fel a programozók. Egyes biztonsági rések a cég ötfokozatú skáláján a legerõsebb, "különösen súlyos" besorolást kaptak, egyrõl viszont a besorolásán kívül szokatlan módon gyakorlatilag semmilyen információt nem közöltek a fejlesztõk. A frissítés telepítésével a böngészõ szokás szerint verziószámot is lép, a legfrissebb a 9.52 változat.
+
+Az Opera Software az érintett hibajavítás listázásánál mindössze annyit említ, hogy a biztonsági rést kihasználó oldalak kártékony kódokat futtathatnak a felhasználó számítógépén. A sebezhetõséget a Casaba Security szakembere, Chris Weber fedezte fel a böngészõben, a további részletekrõl azonban késõbbi idõpontban ígért tájékoztatást a szoftvercég. A hiba az Opera illetékesei szerint más szoftvertermékeket is érinthet, a vállalat ezért indokoltnak látta a részletesebb információk visszatartását azért, hogy a kártékony kódok terjedésének elejét vegye. Mivel az Opera webböngészõ összes platformjára elkészült a hibajavítás, a fejlesztõk minden bizonnyal a konkurens böngészõk sebezhetõségére céloztak.
+
+
+Az Opera az említett biztonsági résen kívül befoltozott egy különösen kritikus besorolású hibát a böngészõ windowsos verziójának protokollkezelõ moduljában, emellett több kevésbé kritikus sebezhetõségre is tapaszt nyújtanak, valamint kijavítottak néhány, a kezelõfelületet és a beépített e-mail klienst érintõ nem biztonsági hibát is. A frissítés telepítése után stabilabbá is válik az Opera webböngészõ, így a Gmail levelezõrendszer használata is problémamentesebb, valamint csökkent a memória iránti étvágya a programcsomagba integrált BitTorrent kliensnek.
+
+Legutóbb egy június végén publikált jelentés hívta fel a figyelmet arra, hogy a böngészõk egyre kedveltebb célpontjai a webes támadásoknak, és bár a szoftvergyártók rendszeresen jelentkeznek frissítésekkel, javításokkal, ezeket a felhasználók nagy része csak késõbb telepíti. A Firefox felhasználói a leginkább biztonságtudatosak, a felmérés szerint a nyílt forrású böngészõt használók 83 százaléka az éppen elérhetõ legfrissebb verzióval böngészett. A Safari esetében ez az arány 65 százalék, az Opera esetében 56 százalék, az Internet Explorernél pedig már csak 47,6 százalék, vagyis gyakorlatilag a Microsoft böngészõjét futtató gépek több mint fele sebezhetõ -- ez több mint félmilliárd gépet jelent világszerte.
+
+Az Opera aktuális frissítése elérhetõ a böngészõ letöltési oldaláról.

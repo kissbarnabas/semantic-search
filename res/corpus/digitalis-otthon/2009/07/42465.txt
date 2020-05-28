@@ -1,0 +1,14 @@
+Tesztelhetõ a Moblin 2.0
+
+Az Intel által támogatott Moblin közösség a kiadta az általa támogatott nyílt forrású Linux-disztribúció, a Moblin 2.0 változatának nyilvános bétáját, amit bárki letölthet és kipróbálhat, ehhez csak egy Atom processzoros netbookra van szüksége, de a 2.0 verzió lényegében bármilyen x86-os PC-n elindul és akár 1920x1200 pixeles kijelzõt is meg tud hajtani.
+A Fedora-alapú Moblin projektet 2007 nyarán, lényegében a netbookok tömeges térhódításának kezdetén indította útjára az Intel azzal a céllal, hogy egy kimondottan a termékkategória igényeit szem elõtt tartó szoftver szülessen. A Moblin magában foglalja a Linux kernelt, a kezelõfelületet, a médialejátszó keretrendszert, a böngészõt, beágyazott Linux-imagekezelõ eszközöket a fejlesztõi erõforrásokat, dokumentációkat éppúgy, mint a levelezõlistákat, illetve IRC-csatornát. A projektet nemrég a Linux Foundationnek adta át a chipgyártó.
+Több netbookot is meg lehet vásárolni Windows mellett Linuxszal, azonban ezeken a gépeken általában valamilyen asztali disztribúció fut, például Ubuntu vagy SUSE Linux Enterprise Desktop. A Moblin nem hagyományos értelemben vett asztali Linux abban a tekintetben,hogy a kezelõfelülete teljesen eltér akár a népszerû disztribúciók asztali változataitól, akár a Windowstól vagy a Mac OS X-tõl, ugyanis teljesen más úton igyekszik járni.
+
+
+A Moblint kimondottan a netbookok kijelzõit, illetve a netbookok felhasználási területeit figyelembe véve fejlesztették, a felület ezért nem KDE vagy Gnome, hanem a Clutter animációs keretrendszere épülõ, 3D-gyorsított megoldás, amely nélkülözi a klasszikus értelemben vett Start menüt és tálcát, helyette csoportokba rendezve kínálja az alkalmazásokat. A Moblin persze tartalmazza a legszükségesebb asztali alkalmazásokat mint az OpenOffice, zene- és filmlejátszó vagy éppen egy Mozilla-motoros böngészõ, de a fejlesztésnél kiemelt figyelmet szenteltek a közösségi oldalaknak és szolgáltatásoknak, amelyek könnyen elérhetõk a szoftverbõl.
+A Moblin az Intel által támogatott közösségi fejlesztés, amelybe egy nemrég kötött megállapodás értelmében a Nokia is beszáll. Amint arról a HWSW is beszámolt, a két cég júniusban kötött stratégiai együttmûködési megállapodást, amely kiterjedt a Nokia 3G/HSPA modemjének licencelése mellett egy közös, x86-alapú hardverplatform és kapcsolódó szoftverplatform megalkotására is, amely a Nokia jövõben megjelenõ, mobil internetezésre szánt eszközeinek alapjául szolgálhat. Alighanem ezeken a készülékeken a Moblin teljesít majd szolgálatot.
+ARM-alapú verzió egyelõre nem várható a Moblinból, ami érthetõ is, hiszen a netbookok szegmensében az ARM épp az Intel Atom ellenfele lehet. Az idei informatikai szakkiállításokon több gyártó is demózta már ARM-alapú netbookját, azonban kereskedelmi forgalomba egyelõre egyik sem került még.	     
+                  
+                  
+                  
+                   

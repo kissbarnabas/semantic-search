@@ -1,0 +1,12 @@
+Brutális csúcsmodellel gazdagodott az NVIDIA Quadro család
+
+Valóságos gigász az NVIDIA új grafikus gyorsítója, a professzionális felhasználóknak szánt Quadro FX 5800. a kártyán a 240 párhuzamos feldolgozóegységet tartalmazó processzor mellett nem kevesebb mint 4 gigabájt memória kapott helyet.
+
+
+
+A 3499 dolláros, mai árfolyamon több mint 730 ezer forintos listaáron kapható kártyát a vállalat természetesen nem gamereknek szánja, hanem olyan iparágakba, ahol különösen fontos az adatok, részletes modellek  precíziós megjelenítése. Ezek közé tartozik az olajipar, a mérnöki tervezés, a média vagy az egészségügy. Az NVIDIA szerint hatalmas teljesítményének és óriási memóriájának köszönhetõen a Quadro FX 5800 az eddigieknél jóval részletesebb modelleket képes kezelni és megjelenítneni, legyen szó akár tervrajzról, röntgenképrõl vagy CT-felvételrõl, esetleg egy bonyolult függvény három- vagy négydimenziós ábrázolásáról.
+
+
+
+
+ A Quadro-sorozat új csúcsmodelljének alapjait a GeForce GTX 280 szolgáltatta, ennek egyfajta kiterjesztésével jött létre a Quadro FX 5800, amely jóval nagyobb memóriája mellett más firmware-t és drivereket is kapott, amiket a professzionális alkalmazások futtatására hegyeztek ki.  A kártya másodpercenként 300 millió háromszöget képes kirajzolni, a memóriasávszélessége pedig 102 gigabájt/s.

@@ -1,0 +1,45 @@
+Meghalt a korlátlan mobilnet Magyarországon
+
+A jelenleg még mindig gyerekcipõben járó mobilinternet egyre ingoványosabb talajon lépdel, ahogy a népszerûsége rohamosan, hónapról-hónapra nõ, így a szolgáltatók nyilvánvaló üzleti érdekeiket (gyakran hangoztatott álláspontjuk szerint valójában a felhasználóik érdekeit) féltve kénytelenek behúzni a gyeplõt: szép csendben teljesen eltüntetik a teljes korlátlanságot biztosító csomagjaikat a kínálatukból.
+
+
+
+Kihátrálnak
+
+A forgalmi korlát nélküli mobilnet bevezetése Magyarországon a Vodafone nevéhez köthetõ: a cég konkurenseit messze megelõzve, már 2002-ben kínált korlátlan mobilinternet-csomagot, igaz, akkor még értelemszerûen nem HSDPA, hanem GPRS-alapokon. A szolgáltató végül 2007 májusában rukkolt elõ az elsõ HSDPA-alapú korlátlan csomagjával, melyet akkor még csak az ország mintegy negyven településen lehetett elérni, a többi felhasználónak a közbülsõ állapot, az EDGE kihagyásával a lényegesen lassabb GPRS technológia jutott.
+
+
+Blablabla
+
+A hazai mobilszolgáltatók mobilinternettel kapcsolatos kommunikációs stratégiáját kitûnõen jellemzik a sajtóközlemények állandó szereplõinek tekinthetõ, már-már közhelyszerû frázisok. "A mobil internet iránti egyre növekvõ ügyfél-igények kielégítésére a Pannon folyamatosan fejleszti hálózatát és folyamatos promóciókkal igyekszik megfelelni ügyfelei elvárásainak..." -- kezdõdik a Telenor tulajdonában álló szolgáltató tegnap kiadott sajtóközleménye, de ehhez hasonló kinyilatkoztatások éppúgy kiragadhatók a T-Mobile vagy a Vodafone kommünikéibõl. A valóságban azonban egyre kérdésesebbé válik, hogy a szolgáltatók bírják-e az iramot.
+
+
+
+A csomagnál nem volt adatmennyiségi megkötés, az állománycserélõ alkalmazások használata esetén az összforgalom azonban nem haladhatta meg a havi 5 gigabájtot. Érthetõ, hogy a szolgáltató a mai napig korlátozza ezeket, hiszen például a jól optimalizált Bittorrent protokoll képes felemészteni szinte bármekkora sávszélességet le- és feltöltés esetén is.
+
+Mára a félmilliót is meghaladja a mobilinternet-elõfizetések és önálló tarifacsomagok száma Magyarországon. A mobilinternet rohamos térnyerésével, és a nagy forgalmat generáló szolgáltatások (például video- és képmegosztó hálózatok, videoátvitellel dolgozó VoIP-rendszerek stb.) népszerûvé válásával a szolgáltatóknak a hálózatuk stabilitását veszélyeztetõ túlterheléssel kellett szembenézniük. Mivel a hálózatbõvítés rendkívül költséges, és az engedélyeztetési eljárásoknak köszönhetõen viszonylag lassú folyamat, egyetlen kézenfekvõ megoldás maradt a veszély elhárítására: a nagy adatforgalmat generáló felhasználók korlátozása.
+
+A Vodafone ezt a korlátlan mobilinternet csomag 2007-es bevezetése óta több lépcsõben, több módszerrel végezte, jellemzõen a felhasználók elõzetes tájékoztatása nélkül, ugyanakkor az ÁSZF keretein belül maradva (a szerzõdésben meghatározott, minimálisan elvárható sávszélességet biztosítva), ezzel ügyesen kimanõverezve az esetleges jogi procedúrák elõl. A cég elõször csak a P2P-adatforgalmat korlátozta, egy tavaly bevezetett ÁSZF-módosítás után azonban már fenntartja magának a jogot arra, hogy a "hálózat védelme" érdekében az adatforgalmat saját belátása szerint idõszakosan vagy állandóan lassítsa (a szolgáltató megfogalmazása szerint "rugalmasan lassítsa"), ha felhasználó az adott számlázási ciklusban eléri az 5 gigabájtos limitet.
+
+A korlátlan mobilinternetet elsõként bevezetõ hazai szolgáltató mostanra elõszeretettel él ezzel a lehetõséggel, olyannyira, hogy a sávszélesség-korlátozást minden felhasználóra kiterjeszti (adott számlázási cikluson belül 5 gigabájt adatforgalom felett csúcsidõben, 10 gigabájtot meghaladóan minden esetben). Ezt a forgalmi keretet viszont egy, az internetet napi rendszerességgel, netán munkára használó elõfizetõ akár néhány nap leforgása alatt felemésztheti, fájlcserélõk használata nélkül is.
+
+"Rugalmasan csökkentjük..."
+
+"Azért, hogy a mobilinternetezõk nagy többségének egyenletes és jó minõségû internet-elérést tudjunk biztosítani a Vodafone Internet Szabadon akcióban korlátlan internetes tarifacsomagra szerzõdést kötött ügyfelek körében, a használati átlagot jelentõsen meghaladó 5 GB adatforgalmi korlát felett rugalmasan, jelenleg csúcsidõben majd 10 GB felett csúcsidõn kívül is csökkentjük az adatátviteli sebességet. Ez természetesen azt jelenti, hogy az adatmennyiség továbbra is korlátlan, azonban az adott adatmennyiség felett lassabban használható a mobilinternetes hálózat" -- nyilatkozta lapunknak a szolgáltató.
+
+"A tapasztalatok szerint annak ellenére, hogy korábban a fájlcserélõ alkalmazásokat nem engedélyeztük a korlátlan internetes csomagunkban, az ügyfeleink nagyon kis része hatalmas adatforgalmat bonyolított, ami a mobilinternetezõk többsége számára jelentõsen csökkentette a sebességet, ezáltal pedig a mobilinternet élményét. A mobilinternet technológia jelenleg még nem képes a kis területen összpontosuló nagy adatforgalmat (több 10 GB ügyfelenként) kezelni anélkül, hogy a többi felhasználó minõségromlást érzékelne" -- indokolták a döntést a Vodafone-nál, leszögezve, hogy a lassított mobilinternet is teljes értékû szélessávú (sic!) szolgáltatás, amely a szolgáltató szerint "kiválóan" használható böngészésre, chatelésre és e-mailek küldésére, fogadására.
+
+A T-Mobile is új alapokon korlátoz
+
+Március elsejétõl alighanem hasonló okokból változtat általános szerzõdési feltételein a T-Mobile. A mobilinternet-hálózat mûszaki fejlettségében élen járó szolgáltató tavaly november végén vezetett be meglévõ mobilinternet csomagjai mellé egy opciót, mely feloldotta az adott csomag adatforgalmi korlátját. A szolgáltató ez esetben is kikötötte, hogy a P2P-alapú adatforgalmat generálók számíthatnak a sávszélesség korlátozására, az ÁSZF-ben megadott keretek közt -- ez 3G/UMTS-hálózaton 130 kilobit/másodperc és 8 kilobit/másodperc letöltési irányban, valamint 40 kilobit/másodperc és 4 kilobit/másodperc feltöltési irányban.
+
+
+Egy hónap múlva azonban már nem csak a fájlcserélõ hálózatokat látogató T-Mobile ügyfelek számíthatnak arra, hogy a korlátlan mobilinternet-csomagjuk sávszélességét a használhatóság határára korlátozza a vállalat: a március 1-tõl hatályos ÁSZF szerint a "Szolgáltató a hálózat túlzott mértékû használatának minõsíti, ha az Elõfizetõ adatforgalma hét egymást követõ naptári nap alatt meghaladja a 20 GB-ot. Túlzott mértékû használat esetén a Szolgáltató jogosult 14 napra az Elõfizetõ letöltési sebességét lassítani." Azaz ha a felhasználó napi rendszerességgel 2,85 gigabájtnyi adatot forgalmaz (erre átlagos körülmények közt jelenleg még vajmi kevés az esély), számíthat rá, hogy egy hét elteltével jelentõsen csökkentik a csomag sávszélességét -- ez lényegesen megengedõbb a Vodafone gyakorlatánál, nyilvánvaló ugyanakkor, hogy teljes korlátlanságról jelen esetben sem beszélhetünk.
+
+A Pannon bezárta a boltot
+
+Teljesen korrektnek nevezhetõ álláspontot alakított ki a korlátlan letöltést biztosító mobilinternet-csomagjánál a Pannon. A vállalatnál tavaly november 11-tõl idõszaki akcióban, február 2-ig lehetett elõfizetni korlátlan mobilinternet-csomagra, a tegnap lejárt akciót azonban nem hosszabbította meg a szolgáltató, helyette a régi, 5 és 10 GB forgalmi limitet tartalmazó csomagjait kínálja. Azok az elõfizetõk, akik február 2-ig kötötték meg a szerzõdésüket, a jelenlegi feltételek szerint továbbra is az adatforgalmi kvóta elérésének veszélye nélkül használhatják mobilinternet-elõfizetésüket, a Pannon ugyanakkor továbbra is fenntartja magának a jogot a torrentes adatforgalom sávszélességének a csökkentésére.
+
+Bár a szolgáltatók oldaláról egyfelõl érthetõ a törekvés, hogy az elõfizetõi többség érdekeit szem elõtt tartva behúzza a kéziféket a "nagyfogyasztóknál", tekintet nélkül arra, hogy azok milyen jellegû adatforgalmat szabadítanak rá a hálózatra, egyes szolgáltatók gyakorlata morális alapokon legalábbis megkérdõjelezhetõ. A jól kommunikálható, reklámokban és sajtóközleményekben hangoztatott korlátlanság ma már nyilvánvalóan mindhárom magyarországi szolgáltatónál a múlté -- a felhasználóknak továbbra is apró betûs feltételeket és ÁSZF-mellékleteket kell böngészniük, ha tisztában akarnak lenni azzal, hogy a rájuk váró többéves hûségidõ alatt mire számíthatnak, ráadásul ezek a feltételek folyamatosan és gyakorta teljesen követhetetlenül változnak.
+
+Ebbõl a szempontból tényleg a Pannon képviseli a leginkább ügyfélbarát szemléletet: ennél talán még a semmi is jobb...

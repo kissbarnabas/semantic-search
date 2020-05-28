@@ -1,0 +1,37 @@
+Teljesen kiszállna a saját PC-gyártásból a Dell
+
+[The Wall Street Journal/HWSW] Eladná számítógép-összeszerelõ üzemeit a Dell, melyek korábban versenyelõnyének egyik legfõbb forrását jelentették -- értesült a Wall Street Journal meg nem nevezett forrásaira hivatkozva. A stratégiai átalakulás alatt álló vállalat elszántan próbálja visszaszerezni régi versenyképességét, és felvenni a harcot a magára talált HP-val.
+
+
+
+Gyökérkezelés
+
+Eladná vagy bezárná legtöbb, ha nem az összes üzemét a Dell, ahol barebone számítógépek konfigurálása folyik, értesült a Wall Street Journal. A lap úgy tudja, hogy a világ második legnagyobb számítógép-szállítója a következõ 18 hónap során igyekszik véghezvinni tervét. A stratégiai átalakítás mögött a hatékonyság nyomása áll, a saját üzemek ugyanis, fõleg a magas költségszínvonalú területeken, már gazdaságtalannak bizonyulnak.
+
+Az elképzelések szerint az üzemeket szerzõdéses gyártók vennék annak reményében, hogy nagyobb szeletet hasíthatnak ki maguknak a Dell megrendeléseibõl. Valószínûleg a Dell számára ez a legfõbb érv, mellyel vevõt találhat majd, a többnyire Kínában, vagy más olcsó helyeken termelõ szerzõdéses elektronikagyártók ódzkodhatnak ugyanis attól, hogy magas bérköltségû országokban lévõ üzemet vásároljanak egyébként. Ráadásul számos üzem ezek közül mûködtetési és befektetési kötelezettségekkel bír igény bevett adókedvezmények miatt, jegyi meg a Wall Street Journal. 
+
+
+Ezzel a Dell korábbi versenyelõnyének egy újabb alappillérjét kénytelen lebontani, hogy alkalmazkodni tudjon a kor követelményeihez. A vállalat a '90-es években gyökeresen transzformálta át a PC-ipar képét közvetlen értékesítési modelljével, mely a Toyota termelési rendszerébõl átvett elemeket tartalmazó hiperhatékony összeszerelésre és logisztikára épült. Az egyik fõ alapelv, hogy a raktárkészleteket minimalizálni kell, aminek érdekében a gyártást a keresletnek kell húznia, nem pedig a már tömegesen legyártott konfigurációkat kell megpróbálni értékesíteni. 
+
+Változnak az idõk
+
+Ennek megvalósítása érdekében a Dell a Távol-Keletrõl megrendelt barebone számítógépek végsõ konfigurációját saját üzemeiben végezte és végzi el a mai napig is a megrendeléseknek alapján, és néhány óra leforgását követõen már meg is kezdi szállításukat. A Dell ezzel megszerezte a PC-piac elsõ helyét az ezredfordulót követõen, letaszítva a HP-t, és kivette részét az IBM PC-részlegének tönkretételében is. Sok év után azonban fordult a kocka. A Dell 2006-ban elvesztette a PC-piac vezetõ pozícióját a HP-val szemben, majd a notebookpiacon az Acer is megelõzte átmenetileg.
+
+A probléma forrása kettõs: az artikulált egyedi igényekkel rendelkezõ nagyvállalati és mûszaki affinitással rendelkezõ ügyfelek mellett az ezredfordulót követõen, a hardver egyre olcsóbbá válásával párhuzamosan egyre nagyobb súlyt képviselnek a viszonteladói partnerhálózatok által kiszolgált ügyfelek, mint a KKV-szektor és az egyéni vásárlók, akik az üzleteket járva sokszor impulzusszerûen döntenek. A Dell egyszerûen nem rendelkezett jelenléttel a legtöbb üzletben, és esélye sem volt értékesíteni a piac nagy részén.
+
+
+Dell márkabolt a Westendben
+A Dell elsõként a kelet-európai régióban Magyarországon nyitotta meg márkaboltját tavaly nyáron, hogy erõsítse jelenlétét a helyi fogyasztói piacon.
+
+
+A másik, hogy a Lego-szerûen megépíthetõ asztali PC-k helyét egyre inkább átveszik a notebookok, melyeknél nincs meg és felesleges is az asztali gépekre jellemzõ konfigurációs szabadság. A két trend ráadásul erõsíti egymást, ugyanis a notebookokat jellemzõen szaküzletekben szeretik vásárolni a vevõk, ahol lehetõségük nyílik megtekinteni a választékot. Az IDC adatai szerint például Magyarországon tavaly közel duplájára ugrott a fogyasztói piac nagysága, miközben az üzleti gépek volumene kevesebb mint 20 százalékkal emelkedett -- a fogyasztói szegmens ezzel már több mint 40 százalékkal képviseltette magát. Az idei évben már szinte bizonyosra vehetõ, hogy több gépet vásárolnak meg fogyasztók és SOHO-felhasználók, mint amennyit a KKV és nagyvállalati és kormányzati szektorok szippantanak fel. 
+
+A megváltozott körülmények miatt a Dell saját üzemei elvesztették versenyelõnyüket, sõt úgy tûnik mára már inkább akadályozzák a cég hatékonyságát. A Wall Street Journal által megszellõztetett terv nem teljesen váratlan, elõjelként a Dell a közelmúltban fokozta notebookgyártásának kiszervezését, és egy texasi üzemét is bezárta. A Dell szerzõdéses notebookgyártói közé a Quanta, a Compal, a Wistron, a Pegatron, és legújabban a Foxconn tartozik. Az üzemek átadásából közvetlenül nem származna jelentõs pénzügyi pozitívuma a cégnek, az elõnyök hosszabb távon, az alacsonyabb mûködési és beszerzési költségekben mutatkoznának meg. A Dell legnagyobb riválisa, a HP évekkel elõrébb jár a kiszervezésben, és egy nagyságrenddel nagyobb partnerhálózattal rendelkezik.
+
+A Dell új stratégiai fókuszát jól jelzi, hogy a termelési vezérigazgató pozícióját Mike Cannon tölti be, aki korábban az elektronikai bérgyártó Solectron elnök-vezérigazgatójaként ténykedett, míg a nála jóval nagyobb Flextronics fel nem vásárolta cégét. A Dell szerzõdéses partnerekre és saját üzemekre építõ kétpontos ellátási rendszerét tehát rövid idõn belül teljes egészében bérgyártók veszik majd át. Bár a Dell az elmúlt negyedévekben rengeteget haladt elõre stratégiai transzformációjában, így például leszorította mûködési költségeit és rohamosan bõvíti jelenlétét és forgalmát a fogyasztói szegmensben, a legutóbbi csalódást keltõ nyereséget követõen több mint 20 százalékkal esett vissza részvényárfolyama, jelezve a befektetõk elégedetlenségét. 
+
+[+] Minden szegmensben javul a Dell teljesítménye  
+
+
+
+A júliusban véget ért második negyedévet a Dell 16,4 milliárd dolláros forgalommal zárta, ami éves szinten 11 százalékos növekedést jelent. Az üzemi eredmény 9 százalékkal 819 millió dollárra csökkent, a nettó profit pedig 17 százalékkal 616 millió dollárra esett vissza -- részben átszervezésekkel, illetve értékcsökkenés leírásával kapcsolatos költségek miatt. A tavalyi második negyedévben részvényenként 33 centes eredményt ért el a Dell, most 31 centet tudott összehozni. 

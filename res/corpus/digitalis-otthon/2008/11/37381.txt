@@ -1,0 +1,12 @@
+Már a Fujitsunak is van szabványos magasságú 500 gigabájtos merevlemeze
+
+Bemutatta 500 gigabájtos, notebookokba szánt merevlemezét a Fujitsu. A meghajtó két darab 250 gigabájtos tányért tartalmaz a korábbi három 166 gigabájtos helyett, így a diszk magasságát sikerült a szabványos 9,5 milliméterre szorítani, ezzel az összes gépbe beépíthetõvé vált.
+
+
+
+A 2,5 hüvelykes, percenként 5400-at pörgõ tényérokkal felvértezett merevlemez SATA II csatlakozós, maximális adatátvitele másodpercenként 3 gigabájt lehet. A gyártó állítása szerint a MJA2 BH modell fogyasztása csupán 1,4 watt, ami 33 százalékkal kevesebb az elõzõ generációs, még három tányért pörgetõ modellénél, tehát a méretcsökkentés fogyasztáscsökkenéssel is együtt járt. A szintén fél terabájtos, azonos kivitelû MJA2 CH merevlemezt natív titkosítóalgoritmussal látták el, a meghajtó az összes tárolt adatot 256 bites AES titkosítással védi, a kódolásról és dekódolásról maga gondoskodik, így az adatok védelme nem terheli a gépet.
+
+
+A Fujitsu nem az elsõ azon gyártók sorában, akik 9,5 millméter magasságú, 500 gigabájtos mobil merevlemezzel rukkolnak elõ, korábban a Seagate, a Western Digital és a Samsung is mutatott be ilyen modelleket. A Fujitsu számára egy ideje már teher a merevlemezgyártás, október elején japán lapok arról cikkeztek, hogy ezt az üzletágát a Western Digtialnak adná el a cég, azonban az ügylet még nem köttetett meg.
+
+A merevlemez-ipar az utóbbi idõben látványos konszolidáción esett át, amivel a gyártók száma alig fél tucatra csökkent. A folyamat élharcosa a piacvezetõ Seagate volt, amely 2006-ban bekebelezte egyik legnagyobb riválisát, a Maxtort. A Fujitsu merevlemezgyártó tevékenységének megvásárlásával a Western Digital megközelíthetné a Seagate-et a gyártói rangsorban.

@@ -1,0 +1,20 @@
+Elviselhetõbbé teszi a User Account Control használatát a Norton Labs alkalmazása
+
+Bár a Windows Vistával bevezetett felhasználói fiókok felügyelete (User Account Control -- UAC) funkció hatékony rendszervédelmi eszköznek bizonyul, az operációs rendszer használata közben felbukkanó engedélykérõ párbeszédablakok több felhasználó számára inkább nyûgnek tûnnek, mint segítségnek.
+
+
+
+Sokakat az õrületbe kerget
+
+A Vistát rendszergazdai szintû jogosultsággal használók közül sokan ezért az operációs rendszer telepítése után azonnal kikapcsolják a UAC-t, ezzel a Vista megerõsített védelmét lényegében a Windows XP szintjére süllyesztve. A felhasználói fiókok felügyelete ugyanis nem csupán egy jóváhagyó promptot takar: a biztonsági rendszer feladatkörébe tartozik a fájlrendszer és a regisztrációs adatbázis virtualizálása is, a kártékony programok így nem tudnak belepiszkálni a Windows rendszerkönyvtárába, de a UAC ugyanígy virtualizálja az Internet Explorert is, így a böngészõbõl meghívott szkriptek, fájlletöltések, vagy más folyamatok nincsenek közvetlen hatással a rendszer épségére.
+
+Belátható tehát, hogy a UAC kikapcsolása alapvetõen nem javasolt a rendszer biztonságos mûködése érdekében, a Symantechez tartozó Norton Labs ugyanakkor úgy látta, hogy a Microsoft saját UAC-implementációját érdemesebb lehet lecserélni egy felhasználóbarát megoldásra, így megszületett az ingyenesen elérhetõ Vista User Account tool, mely úgy csökkenti a felhasználókat bosszantó elõugró ablakok számát, hogy ezzel együtt nem, vagy legalábbis csak részben kell lemondani a UAC által nyújtott biztonságról. A program legfrissebb bétaváltozata a múlt hét óta érhetõ el a Norton Labs weboldaláról.
+
+Nem kérdez kétszer
+
+
+A rendszerbe épülõ Vista User Account tool lényegében lecseréli a Windows Vista megszokott UAC prompt-ablakát, és az ott található opciókat egészíti ki egy a gyakori párbeszédablakoknál megtalálható "don't ask me again", azaz ne kérdezz újra jelölõnégyzettel. Ezt bejelölve a UAC a következõ hasonló mûveletnél (például a regisztrációs adatbázis módosítására használható regedit.exe futtatása során) nem kér többé megerõsítést, a program vagy a mûvelet egy úgynevezett "fehérlistára" kerül.
+
+A Norton Labs bár pénzt nem kér a Vista User Account toolért cserébe, a felhasználó mégis tevékenyen hozzájárulhat a program fejlesztéséhez, a párbeszédablak-kezelõ ugyanis minden egyes felbukkanása során elküldi a fejlesztõknek az alkalmazás által összegyûjtött adatokat: milyen folyamat, vagy program futtatásához kellett engedély, ezek milyen fájlokat futtattak, illetve regisztrálja azt is, hogy a felhasználó milyen opciót választott és mennyi idõ alatt reagált a felbukkanó üzenetre. A Norton Labs a felhasználóktól összegyûjtött adatokat ígérete szerint kizárólag egy saját fehérlista felállítására használja.
+
+A Norton Labs megoldása összességében tehát az operációs rendszer felhasználói élményét igyekszik javítani úgy, hogy -- kompromisszumok árán ugyan -- elviselhetõbbé teszi a UAC aktivitását. Aki a maximális biztonságra törekszik, annak továbbra is az eredeti UAC használata javasolt.

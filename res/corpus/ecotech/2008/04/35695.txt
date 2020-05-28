@@ -1,0 +1,24 @@
+ISO-szabvány lett az Office Open XML dokumentumformátum
+
+Az International Standards Organization elfogadta szabványként a Microsoft Office Open XML dokumentumformátumot -- olvasható az Ecma International weboldalán. A szavazáson elsöprõ többségben voltak a támogatók, a résztvevõ országok háromnegyede szavazott igennel és csak 14 százalék volt a nem szavazatok aránya, köztük olyan országokkal mint Brazília, Kína és Kanada. Az ISO hivatalosan ma jelenti be az OOXML szabvánnyá emelését ISO/IEC DIS 29500 néven.
+
+
+
+Voltak furcsaságok
+
+Az OOXML egy XML-alapú nyílt dokumentumformátum, amelynek specifikációját bárki ingyen elérheti és szabadon készíthet olyan szoftvereket, amelyekben implementálva van az OOXML. Az ellenzõk szerint azonban az OOXML ellentmondásos és túl bonyolult, a felmerült kérdéseket pedig a február végén tartott genfi egyeztetõ ülésen (Ballot Resolution Meeting) sem sikerült megnyugtatóan rendezni, ezért nem lett volna szabad szabvánnyá emelni. Az Ecma nem is választhatott volna jobb idõpontot a szabványosítás bejelentésére, mint április elsejét -- hangzik az OOXML támadóinak véleménye.
+
+Az OOXML szabványosításának ellenzõi az ISO-t és a szabványosítási folyamatot okolják azért, amiért a Microsoft végül sikerrel járhatott. A hírek szerint a mostani szavazáson is voltak furcsa esetek, Norvégiában például a nemzeti szabványosítási testület megfelelõ bizottságában 80 százalékos elutasításta talált az OOXML, az ország mégis "igen" szavazatot juttatott el az ISO-hoz.  Németországban, Nagy-Britanniában és Horvátországban is történtek furcsaságok az informatikával kapcsolatos jogi esetekre szakosodott Groklaw szerint. 
+
+Hogyan tovább?
+
+Az OOXML szabvánnyá emelkedése azt jelenti, hogy a dokumentumformátum, illetve az azt használó, arra épülõ szoftverek az OpenDocument Formattal (ODF) egyenlõ eséllyel indulhatnak majd a kormányzati tendereken -- ezzel a Microsoft újabb évekre bebiztosította  uralmát e területen. A szabványosítás is elsõsorban a kormányzati megrendelések miatt volt fontos, miután egyes országokban a közszférában elvárássá vált, hogy a dokumentumcsere nyílt szabványos formátumokon keresztül történjen, hogy az iratokat akár évtizedekkel késõbb is el lehessen olvasni.
+
+Lerch Attila, a Microsoft Magyarország üzletfejlesztési igazgatója a HWSW megkeresésére elmondta, a cég üdvözli az ISO döntését, de ez elsõsorban nem a Microsoft, hanem az iparág sikere, "a racionalitás végül gyõzött". Lerch szerint a szabványosítási folyamat hasznára vált az OOXML-nek, és a beérkezett vélemények, változtatási javaslatok megvitatása után egy valóban jobb, tisztább, használhatóbb fájlformátum jött létre. A Microsoft meg fogja kezdeni a módosítások után szabvánnyá emelt "végleges" formátum implementációját a termékeiben, bár az OOXML ellenzõi úgy vélik, a több mint 6 ezer oldalas dokumentációval rendelkezõ formátumot senki a világon, még maga a Microsoft sem tudja teljes egészében implementálni.
+
+Megszûnik a Microsoft kizárólagos kontrollja
+
+
+Az OOXML szabvánnyá emelése azt jelenti, hogy a dokumentumformátum sorsáról, esetleges továbbfejlesztésérõl ezentúl nem a Microsoft, hanem az ISO határoz majd, a tagországok szabványosítási testületein keresztül. Megszûnik tehát a formátum feletti "Microsoft-önkény", a változtatásokat csak mint javaslatot nyújthatja be a cég (vagy bárki más), azok elfogadásáról vagy elvetésérõl az ISO dönt.
+
+Az OOXML mögött a Microsoft a legnagyobb erõ, de olyan cégek is támogatják és implementálták már, mint a Novell, és az Apple. Elõbbi az OpenOffice ingyenes irodai csomaghoz fejlesztett egy konvertáló programot, amivel az OOXML állományok használhatók, az Apple pedig számos saját szoftverében (pl. iPhone, iWork) támogatja a dokumentumformátumot. A Microsoft várhatóan májusban adja ki az Open XML fejlesztõi készletet, amely segítségével leegyszerûsíthetõ az OOXML állományokat kezelõ alkalmazások fejlesztése, illetve a bináris Office-formátumokat támogató szoftverek átalakítása OOXML-alapúvá. Az OOXML SDK-t folyamatosan frissíteni fogja a Microsoft, hogy a formátumban bekövetkezett legújabb változásokkal naprakészen tartsa azt.

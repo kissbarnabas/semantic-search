@@ -1,0 +1,14 @@
+Gyorsabb böngészést és fejlettebb e-mail klienst kínál a felhasználóknak az új Opera
+
+Bár szeptember eleje óta az alternatív böngészõk sztárja minden kétséget kizáróan a Google újszülöttje, a Chrome, a háttérben más webböngészõk fejlesztése is ütemes tempóban halad: a norvég Opera Software tegnap adta ki az Opera böngészõ soron következõ, 9.6-os verziójának elsõ bétáját.
+
+
+
+A multiplatformos Opera webböngészõ 9.6-os verziójának elsõ bétája a jelenleg futó 9.52-es verzióban eddig talált hibák javítása mellett szokás szerint számos új funkcióval is gazdagodott. Így például a szoftver különbözõ számítógépekre telepített példányait szinkronizáló Opera Link mostantól a könyvjelzõk, a jegyzetek, a gyorstárcsázás és más személyre szabott beállítások mellett képes szinkronba hozni az egyedi keresõmotor-beállításokat és a naplózott címsort is.
+
+Az új változatnál módosul az RSS/Atom hírolvasómodul is, mely már a feliratkozás elõtt betekintést enged a feedbe. A böngészõ levelezõkliens-modulja, az Opera Mail is új funkciókkal gazdagodik: az új kliens támogat egy alacsony sávszélességû (betárcsázós, vagy gyenge térerejû vezeték nélküli kapcsolatokhoz) optimalizált üzemmódot is. A 9.6-os verzióban a felhasználók új lehetõségeket kapnak az üzenetek priorizálásához is a follow/ignore (követés, figyelmen kívül hagyás) flagekkel, melyekkel a beszélgetések és a kapcsolatok egyaránt megjelölhetõk.
+
+
+Az Opera Software augusztus második felében adta ki többplatformos böngészõjének kurrens, 9.52-es verzióját. A fejlesztõk akkor elsõsorban a szoftverben felfedezett biztonsági rések miatt módosították a kódot -- a 9.52-es verzió a korábbi változatban felfedezett hét sebezhetõségre nyújtott tapaszt. A 9.6-os bétaváltozat a már említett új funkciók ezeket a javításokat is magában foglalja, emellett gyorsabb is lett elõdjénél.
+
+A kísérletezõ kedvûek az Opera Software weboldaláról érhetik el a böngészõ legújabb változatának bétáját. A végleges verzió megjelenésének várható idõpontját egyelõre nem közölték a fejlesztõk.

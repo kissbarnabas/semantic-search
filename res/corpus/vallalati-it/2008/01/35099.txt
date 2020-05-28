@@ -1,0 +1,14 @@
+Az alkalmazás-virtualizáció területén erõsít a Thinstall felvásárlásával a VMware
+
+Megvásárolta az alkalmazás-virtualizációs megoldásokat fejlesztõ és forgalmazó Thinstall vállalatot a VMware. Az ügylet még ebben a negyedévben lezárulhat.
+
+
+
+A Thinstall technológiái a VMware desktop-virtualizációs megoldásait erõsítik majd. Az asztali gépeken az alkalmazás-virtualizáció azt jelenti, hogy az alkalmazások teljesen elválnak az asztali gép hardverétõl, az operációs rendszertõl és a fájlrendszertõl, és telepítés nélkül is futtathatók. A megoldás elõnye, hogy az egyes alkalmazások teljesen izoláltak, ami nagyobb biztonságot és stabilitást jelent (egy alkalmazás sem hat a többiek mûködésére), valamint ideális esetben nullára csökkenthetõ a meglevõ alkalmazások tesztelése az új operációs rendszereken. A Thinstall technológiája "agentless", vagyis kliensoldalon nem igényel semmilyen különleges szoftvert, elég neki egy 32 bites Windows (NT/2000/XP/Vista).
+
+
+ Az 1999-ben alapított, magánkézben levõ San Franciscó-i vállalat akvizíciójával kapcsolatos pénzügyi részletek nem nyilvánosak, csupán annyit tudni, hogy a húszfõs céget a VMware Palo Altó-i fõhadiszállására költöztetik át. A Thinstall honlapja szerint a cégnek mintegy 600 ügyfele van, köztük a NASA, a General Electric, az Egyesült Államok védelmi minisztériuma, az Egyesült Álllamok adóhvatala, a Qualcomm és a Lucent.
+
+A desktop virtualizáció az utóbbi idõben lett felkapott téma az informatikában, elsõsorban az alkalmazások menedzselésének megkönnyítése miatt. Az informatikai szakembereknek egyre nagyobb fejfájást okoz, hogy a vállalatoknál üzemelõ asztali gépeken futó alkalmazásokat kezeljék, elsõsorban azok sokszínûsége miatt. A virtualizáció segítségével az új szoftverek bevezetése egyszerûsíthetõ, hiszen azokat nem kell minden desktop gépre külön telepíteni, hanem indításkor egy szerverrõl töltõdnek le a kliensre. Így a frissítést, javítást, beállításokat és módosításokat is egy helyen kell elvégezni. 
+
+A Thinstall technológiáit a VMware Virtual Desktop Infrastructure-be integrálják, de ez a folyamat legkorábban 2008 második felében zárulhat le, addig a Thinstall termékek továbbra is önállóan lesznek elérhetõk a VMware kínálatában. A VMware egyúttal bejelentette, hogy megvásárolja a virtualiációs megoldások bevezetésével és tanácsadással foglalkozó Foedus vállalatot, ennek az ügyletnek a pénzügyi részleteit sem hozták nyilvánosságra.

@@ -1,0 +1,10 @@
+Új ultrakompakt EPIA alaplap VX800 chipsettel
+
+Új ultrakompakt Nano-ITX alaplapot mutatott be pénteken a VIA, mely már a cég új VX800, energiatakarékos chipsetjét alkalmazza. Az EPIA N700 elnevezésû termék az eddigi legkisebb magasságú az összes Nano-ITX kivitelû lap között, ezzel együtt is az összes szükséges rendszerfunkciót integrálja. A tajvaniak szeptember közepére ígérik általános hozzáférhetõségét.
+
+
+
+Az N700 egy 1,5 gigahertzes C7 (VIA EPIA-N700-15) vagy 500 megahertzes beágyazott Eden processzoropcióval (VIA EPIA-N700-05E) rendelhetõ, a VIA kifejezetten ipari és beágyazott automatizációs célokra szánja a 12x12 centiméteres alapterületû lapot. Az ultrakompakt, alacsony profilú kivitel azonban egy rendkívül sokoldalú rendszert takar: gigabites Ethernet, SATA, RS-232 soros portok, D-Sub VGA, 24-bites LVDS, Compact Flash, USB  csatlakozók, mini PCI foglalat, hogy csak a legfontosabbakat említsük. 
+
+
+A legfeljebb 2 gigabájt DDR2 memóriát támogató N700 már a VIA VX800 chipsetre épül, mely valójában egyetlen ultraintegrált chipbõl ééül fel. A VX800 kompakt és energiatakarékos, a VIA netbook referenciaplatformja is köré épít. A VX800 33x33 milliméteres tokozássalrendelkezik, és az elõbb részletezett csatlakozási lehetõségek melett egy VIA Chrome9 HC3 grafikus processzort is integrál. A Chrome9 HC3 DirectX 9 kódok gyorsítására képes MPEG-2, MPEG-4, VC-1 és DiVX videofolyamok dekódolásának hardveres támogatása mellett. Az N700 specifikicáiói alapján 0-tól akár 60 Celsius fokig üzemképes. A termék ára egyelõre nem ismert, felbukkanása a disztribútoroknál szeptember közepére várható, ugyanakkor a jelenlegi Nano-ITX lapok alapján nem lesz olcsó, 60-70 ezer forint fölé várható 

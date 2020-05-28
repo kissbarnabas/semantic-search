@@ -1,0 +1,16 @@
+Kész a Windows 7
+
+Frissítés: A Microsoft a cikk elkészültét követõen bejelentette, hogy elkészült és gyártásba ment a Windows 7 és a Windows Server 2008 R2 végleges kódja. A kereskedelmi forgalomba kerülõ build a 7600-as lett, mely apró változtatásokat tartalmaz a 7100-as RC-hez képest.
+A szoftvercég közben egy blogbejegyzésben arról is tájékoztatta az érdeklõdõket, hogy a nagyvállalatok és szoftverfejlesztõ partnerek már augusztustól hozzáférhetnek a végleges kódhoz és megkezdhetik annak használatát, tesztelését.
+Augusztustól letölthetõ
+A Windows blogban olvasható információk szerint a szoftverfejlesztõk és a hardvercégek augusztus 6-án kapján meg a Windows 7 és a Windows Server 2008 R2 végleges kódját, amelyet a Microsoft Connectrõl vagy az MSDN-rõl tölthetnek le. A Microsoft Gold és Minõsített (Certified) partnerei augusztus 16-án érhetik el az új operációs rendszereket, de csak angol nyelven, más nyelveken csak októbertõl.
+A mennyiségi licencszerzõdéssel és élõ Software Assurance megállapodással rendelkezõ üzleti ügyfelek augusztus 7-én már letölthetik a végleges kódokat, azonban kizárólag az angol nyelvû változat lesz ekkor elérhetõ, a többi verzióra a Microsoft tájékoztatása szerint néhány hetet várni kell majd. A Software Assurance nélküli mennyiségi licencvásárlók számára szeptember 1-én érkezik el a nagy nap, õk ekkortól vehetnek Windows 7-et és Windows Server 2008 R2-t, mint ahogy azt a múlt heti Professional Developers Conference-en a Microsoft bejelentette.
+
+A TechNet-elõfizetéssel rendelkezõ informatikai szakemberek és az MSDN-elõfizetéssel rendelkezõ fejlesztõk is augusztus elejétõl, 6-ától és 7-étõl hozzáférhetnek a végleges Windows 7-hez és Windows Server 2008 R2-höz, azonban kezdetben õk is csak angolul, a többi nyelvi változat október 1-én lesz elérhetõ.
+Családi csomag
+A Microsoft egyúttal megerõsítette azt is, hogy lesz családi csomag a Windows 7-bõl azon háztartások számára, amelyek több számítógéppel is rendelkeznek. A blogbejegyzésbõl csupán annyi derül ki, hogy a Windows 7 Home Premium lesz a családi csomag alapja, és   három PC-re teszi lehetõvé a jogtiszta telepítést, a szoftver árát azonban nem közölte a cég. A Windows 7 Family Pack csak egyes "kiválasztott" piacokon lesz elérhetõ.
+Csak emlékeztetõül: a Windows 7 és a Windows Server 2008 R2 világszerte október 22-én kerül kiskereskedelmi forgalomba, Magyarországra azonban csak október 31-én jut el. A Windows 7 Professional és Ultimate változatai ugyanannyiba kerülnek majd mint a Vista Business és Ultimate, elõbbi teljes verziója 309 euróért, az upgrade 285 euróért kapható, az utóbbi teljes dobozos termékként 319 euróért, upgrade változatban 299 euróért vásárolható meg. A Windows 7 Home Premium ára változott egyedül a Vistához képest, a teljes verzió ára 199 euróra csökken, az upgrade pedig 119 euró lesz.	     
+                  
+                  
+                  
+                   

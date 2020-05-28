@@ -1,0 +1,12 @@
+Soron kívüli biztonsági javítást kell kiadni a WebLogic Server kritikus hibájára
+
+Soron kívüli biztonsági frissítést kénytelen kiadni az Oracle a WebLogic Server és WebLogic Express alkalmazásszerverekhez, mivel azokban egy távolról kihasználható sebezhetõségre bukkantak, amelyet kihasználva támadók tetszõleges kódot futtathatnak. A sérülékenységet kihasználó mintakódok már az interneten terjednek. 
+
+
+
+Eric Maurice, az Oracle biztonsági szakértõje blogbejegyzésében leírja, a vállalattal senki sem lépett kapcsolatba a biztonsági rés miatt, a felfedezõ személy a vállalat értesítése nélkül hozta nyilvánosságra a sebezhetõség leírását és a mintakódokat is. Így az Oracle jelenleg nem rendelkezik javítással, de már dolgozik rajta, annál is inkább, mert a létezõ legsúlyosabb, a Common Vulnerability Scoring System szerint 10.0 besorolású hibáról van szó.
+
+
+ A probléma a WebLogic Server Apache-konnektorában van: túl hosszú HTTP verziósztringekkel veremtúlcsordulást lehet elérni. A WebLogic Server 10 és a WebLogic Server 9.2 mellett számos más szoftververzió is érintett, a listájuk elérhetõ az interneten. Az Oracle azt javasolja a felhasználóknak, hogy a hibajavítás érkezéséig konfigurálják be úgy az Apache-t, hogy ne fogadjon túl hosszú üzeneteket (a httpd.conf állományba be kell illeszteni a LimitRequestLine 4000 sort, és újraindítani a szoftvert).
+
+Az Oracle több mint három évvel ezelõtt állt át negyedéves szoftverfrissítési ciklusra, a legutolsó patchek július 15-én érkeztek. Azóta ez az elsõ alkalom, hogy a cégnek soron kívüli javítást kellett készítenie.

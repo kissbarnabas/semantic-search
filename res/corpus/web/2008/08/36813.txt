@@ -1,0 +1,20 @@
+Ragaszkodik a Windows XP SP3-hoz és a Vista SP1-hez az Internet Explorer 8 béta
+
+Az Internet Explorer 8 második bétáját nem lehet eltávolítani a Windows XP-rõl, ha a Service Pack 3-at a böngészõ után telepítette fel a felhasználó -- derül ki az IEblog bejegyzésébõl. A helyzet hasonló ahhoz, ami az IE7 megjelenésekor történt, amelyet szintén nem lehetett eltávolítani úgy, hogy az SP3 a gépen maradjon.
+
+
+
+Jane Maliouta, az Internet Explorer programmenedzsere az IEblogban leírja, hogy azok, akik a Windows XP SP3 telepítése elõtt installálták az Internet Explorer 8 elsõ bétáját, és most frissítettek a második bétára, nem tudják eltávolítani azt a rendszerbõl, ezzel lényegében odakötik magukat az IE8 elõzeteséhez. A Microsoft mentségére szolgáljon, hogy erre telepítéskor a szoftver figyelmezteti is a felhasználót, illetve az IE8 elsõ bétáját tartalmazó gépekre a Windows XP SP3 automatikus frissítésként nem is települ fel -- persze kézzel letölhetõ és installálható. 
+
+[+] Letölthetõ az Internet Explorer 8 második bétája  
+
+
+
+ Természetesen az IE8-at lehet frissíteni a késõbb megjelenõ elõzetesekre, vagy a végleges verzióra, ha elkészült. Ha valaki nem biztos a dolgában, akkor távolítsa el a Windows XP SP3-at, majd telepítse le az Internet Explorer elsõ bétáját, ezt követõen telepítse újra fel az SP3-mat, majd jöhet az IE8 Beta 2. Ezt követõen már eltávolítható lesz a böngészõ most megjelent elõzetese, így a felhasználó visszatérhet az Internet Explorer 7-hez, ha akar. 
+
+Azok az XP-felhasználók, akiknek a gépén már ott van az IE8 elsõ béta, automatikus frissítésként megkaphatják a második bétát, amenyiben jóváhagyják a telepítést. A vistás gépekre ugyanakkor nem kerül fel, a felhasználóknak elõször el kell távolítaniuk az IE8 Beta 1-et, ezt követõen le kell tölteniük a második bétát, majd telepíteni, de ehhez szükség van még néhány kiegészítésre is, például az SP1-re.
+
+[+] Automatikus frissítésként települ a Vista SP1 
+
+
+A Microsoft emellett közzétett egy listát azokról a szoftverekrõl, amelyekkel nem kompatibilis az Internet Explorer 8, ezek közül a Visual Studio .Net Version 7 és a Windows Live Mail akár rendszerösszeomlást is okozhat, ha a számítógépre az IE8 Beta 2-t telepítik. Ezen szoftverek felhasználóinak tanácsos az IE7-nél maradni.

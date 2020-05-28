@@ -1,0 +1,24 @@
+Miniatûr hûtõegységet jelentett be a Nextreme
+
+A hûtési megoldásokkal foglalkozó Nextreme bemutatta legújabb hûtõjét, amellyel többek között lézerdiódákat, képérzékelõ szenzorokat lehet felszerelni, annak környezettõl és terheléstõl független egyenletes teljesítményleadása érdekében.
+
+
+
+
+UPF, WTF?
+A Nextreme Ultra-High Packing Fraction elnevezése arra utal, hogy a Peltier-elvû hûtõtestnél alkalmazott fémötvözetet felépítõ térbeli rácsszerkezet cellái magas sûrûségûek, vagyis az atomok szorosabban szervezõdnek. Ennek jelentõsége abban rejlik, hogy ezzel adott térfogatba nagyobb hûtési, illetve hõdisszipációs teljesítmény sûríthetõ, így az elektronikában jellemzõ és egyre kritikusabbá váló, miniatûr forró pontok lokálisan is hûthetõvé válhatnak, állítja a Nextreme.
+
+A Peltier-elvû hûtõk termoelektrikus hõszivattyúk, melyek elektromos energiabevitel révén mesterséges hõmérsékletbeli különbséget teremt a hûtõ két oldalán, vagyis a hidegebb oldalról hõ áramlik a melegebb felé. A technológia szélesebb körû terjedése elõtt eddig alacsony hatékonysága állt.
+
+
+
+Az Észak-Karolina-i székhelyû, 38 alkalmazottat foglalkoztató Nextreme bemutatta UPF (Ultra-High Packing Fraction: Ultramagas térkitöltésû) hûtõegységét, amely segítségével optoelektronikai, elektronikai, gyógyászati, repülõgép-ipari, valamint hadászati berendezések részegységeit lehet hatásosan hûteni. Az új hûtõmodul lézerdiódák, LED-ek, valamint fejlett szenzorok hûtésére lett optimalizálva.
+
+Az egység 25 Celsius fokos környezetben 420 milliwatt energiát igényel, 0,55 négyzetmilliméternyi területen. Ennek eredményeképp a modul képes 78 wattnyi hõsûrûséget négyzetcentiméterenként kipumpálni. Ezek az értékek 85 fokos környezeti hõmérsékletnél 610 milliwattra, valamint 112 wattra emelkednek. A parányi egység az elektronikai és optoelektronikai részegységekkel egybeépíthetõ, tehát azok a hûtéssel egyetlen közös blokkban kerülhetnek a kész termékbe.
+
+
+
+A 45 Celsius foknyi hûtésnél magasabb teljesítményre alkalmas UPF OptoCooler mindössze 12 dollárért már rendelhetõ a gyártótól ezer darabos mennyiség esetén, és kivételesen jó hatásfokkal használható termikus állapotokat irányító, illetve kézbentartó területeken. Példaként a távközlésben használatos száloptikás kábelek megvilágítójaként alkalmazott lézerdiódák a Nextreme hûtõegységével egybeépítve könnyedén kontrollálhatóvá válhatnak a termikus oldalról, fõleg azért, mert az OptoCooler reakcióideje a gyártó állítása szerint milliszekundumokban mérhetõ.
+
+
+Nextreme megoldásait az optoelektronikai vállalatok mellett valószínûleg több félvezetõgyártó is kiértékeli, vizsgálva annak lehetõségét is, hogy a nagyteljesítményû logikák esetében akár a gyártási folyamat részeként a chipre integrálja. Ha a Nextreme elképzelése mûködik, akkor a chipmérnökök akár sokkal agresszívabb áramköröket, magasabb integráltságú processzorokat is tervezhetnek, ugyanis hõfejlõdési problémák miatt kevesebb problámát ad az áramkörök térbeli elrendezése, segítve ezzel a szorosabb idõzítések, magasabb komplexitású és tranzisztorakvititású blokkok alkalmazását is.

@@ -1,0 +1,13 @@
+Két újabb vizsgálatot indított az EU a Microsoft ellen
+
+Újabb fejezettel bõvült az Európai Unió és a Microsoft évek óta húzódó huzavonája. A Bizottság két újabb eljárást nyitott a redmondi szoftveróriás ellen, melyek a még jelenleg is folyamatban lévõhöz csatlakoznak. 
+
+
+
+
+Az egyik vizsgálat a norvég Opera Software panasza alapján indult, mely azt állítja, hogy az Internet Explorer (IE) integrálása és nem szabványos mûködése aláásta böngészõjének pozícióit. Az Opera szerint az, hogy az IE a Windows része, korlátozza a versenyt. A Microsoft cáfolja ezt, azt állítva, hogy a felhasználó tetszõleges böngészõt telepíthet. A norvégok szerint a versenykorlátozást tovább súlyosbítja a vállalat azzal, hogy a webes szabványok módosításával szándékosan hozta nehéz helyzetbe kisebb riválisait, ugyanis a fejlesztõk a domináns IE-hez igazították a weblapokat -- ami a szabványt követni igyekvõ böngészõkön viszont nem helyesen jelent meg.
+
+
+A másik szálat egy ipari munkacsoport panasza szülte, melyet az IBM vezet. A European Committee for Interoperable Systems (ECIS) azzal vádolja a Microsoftot, hogy fontos technikai információkat tart vissza, amivel akadályozza a kompatibilis, együttmûködést lehetõvé tévõ rivális szoftverek fejlesztését. Az ECIS fõként az Office zárt fájlformátumait támadja, melyekhez nem áll rendelkezésre a szükséges dokumentáció a megfelelõ kompatibilitás megteremtéséhez -- ezzel akadályozva a rivális irodai programcsomagok terjedését. A csoport ezenkívül kifogásolja a .NET keretrendszer, valamint egyes szerverszoftverek interoperabilitását. 
+
+A Bizottság által megkezdett két új vizsgálat nem feltétlenül zárul vádemeléssel, ugyanakkor mindkét ügy rendkívül hasonlatos a korábbi, már elõrehaladott állapotban lévõ eljáráshoz. A Bizottság többéves vizsgálatot követõen 2004-ben mondta ki, hogy a Microsoft, megsértve az európai jogot, visszaélt a Windows biztosította erõfölényével, és korlátozta a rivális médialejátszó szoftvereket, valamint a windowsos kliensekkel és szerverekkel való együttmûködéshez szükséges technikai dokumentációt sem biztosítja. A Microsoftra eddig 777 millió euró büntetést szabott ki a bizottság az illegális tevékenység megszüntetésének elõírása mellett, de továbbra is vitatott, hogy a vállalat teljesítette-e a határozatban foglaltakat, így Brüsszel további büntetéseket helyezett kilátásba.

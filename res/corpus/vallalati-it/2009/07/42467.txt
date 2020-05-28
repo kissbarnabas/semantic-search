@@ -1,0 +1,10 @@
+Frissítette négymagos Opteronjait az AMD
+
+Az új Opteron processzorok még nem a hatmagos Istanbul, hanem a négymagos Shanghai architektúrára épülnek, de a korábbinál kisebb, 65 helyett 45 nanométeres csíkszélesség egyfelõl lehetõvé tette a vállalat számára az órajelek emelését és a cache méretének növelését, másfelõl a fogyasztás alacsonyan tartását. A megnövekedett órajel és a nagyobb L3 cache mellett a Suzuka kódnevû Opteronok fogyasztása 75 watt maradt.
+
+Az Opteron 1381 2,5 GHz-es, az Opteron 1385 2,7 GHz-es, az Opteron 1389 pedig 2,9 GHz-es órajelen mûködik, 2,2 GHz-es Hyper-transport linkeket használ és DDR3 memóriát támogat. A korábbi generációs chipekhez képest jelentõs elõrelépés a 6 megabájt harmadszintû cache, ami a megcélzott workloadok alatt jelentõs teljesítménytöbbletet adhat a Budapest kódnevû elõdökhöz képest, amelyekben csupán 2 megabájt volt a megosztott L3 gyorsítótár mérete.
+Az egyfoglalatos rendszerekbe szánt Opteron 1380-es sorozat tagjait munkaállomásokban, illetve belépõszintû szerverekben láthatjuk majd. A chip AM2+ foglalatba illeszkedik, így az ilyen alaplapokban, rendszerekben egy BIOS-frissítés után máris használható. A processzorok árait az AMD egyelõre nem hozta nyilvánosságra.	     
+                  
+                  
+                  
+                   

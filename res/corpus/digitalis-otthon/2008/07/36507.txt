@@ -1,0 +1,11 @@
+Letölthetõ a Windows Home Server végleges javítócsomagja
+
+Kedd óta elérhetõ a Microsoft otthoni szervertermékének elsõ javítócsomagja -- a Windows Home Server (WHS) Power Pack 1 az eredeti kiadásban található összes kritikus hibát kijavítja, beleértve két súlyos, adatvesztést, adatsérülést okozó bugot. A kód kijavítása több mint fél évébe telt a programozóknak -- a késlekedést a fejlesztõk korábban azzal magyarázták, hogy a hiba kiküszöböléséhez a Windows Home Server állománykezelési rendszerét egészen az alapokról újra kellett írni. A csomag elsõ kiadásra jelölt bétája alig másfél hónapja jelent meg.
+
+
+
+
+A Microsoft otthoni szerverszoftverében már tavaly felfedeztek két adatvesztést, -sérülést okozó hibát, melybõl csak egyet javítottak a redmondiak idejében, a súlyosabb probléma megoldását fél évvel késõbbre, júniusra ígérték. A hibajelenség akkor lép fel, mikor a felhasználó egyes programokkal fájlokat szerkeszt vagy másol egy kettõ vagy több merevlemezzel rendelkezõ Windows Home Serveren. A fõ problémát az okozta, hogy amikor a megosztott könyvtárba írt adatokat a Home Serverbe átirányító mechanizmus beindult, bizonyos specifikus körülmények között aszinkron állapotba kerülhetnek az állományrendszert, memóriát és a cache-t kezelõ algoritmusok, így téves adatokat írt a szerver az állományba.
+
+
+A most kiadott WHS Power Pack 1 már erre a kritikus hibára is gyógyírt hoz, emellett támogatja a Windows Vista x64 változatait, lehetõvé teszi a szerveren megosztott állományok mentését is, az energiát is spórol és a teljesítményt is javít. A WHS Power Pack 1 egyelõre angol nyelven érhetõ el a Microsoft letöltési központjából, a német, spanyol és francia nyelvû lokalizációk heteken belül követik az angolt. A javítópakk terjesztésébe augusztusban a Windows Update frissítõszolgáltatás is bekapcsolódik -- ugyanekkor jelenik meg a kínai és a japán lokalizáció.

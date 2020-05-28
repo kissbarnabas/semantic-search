@@ -1,0 +1,14 @@
+Virtuális médiaszerverként is használható már a mobiltelefon
+
+Vadabbnál vadabb ötletekkel rukkolt elõ az idei CEATEC technológiai kiállításon (a CES japán megfelelõje) az NTT DoCoMo. Japán legnagyobb mobilszolgáltatója elõször egy kettéválasztható mobiltelefon-koncepciót mutatott be, majd online multimédia szerverfunkcióval felruházott mobilt prezentált.
+
+
+
+A mai szélessávú kapcsolatok átlagosan 1 megabit/s feltöltési sebességet kínálnak, ezzel szemben a VDSL, gyorsabb kábeles, de legfõképpen az optikai hozzáférésekkel már több tíz megabites feltöltés is elérhetõ -- az OECD adatai alapján az optikai hozzáférések átlagosan 60 megabit/s sávszélességet kínáltak. De mire is jó 60 megabit/s feltöltési sebesség? Például arra, hogy az otthoni számítógépünkön tárolt képeket, videókat vagy zenéket streameljük, mikor távol vagyunk.
+
+
+Az NTT DoCoMo már rendelkezik ilyen kereskedelmi szolgáltatással, melyet Pocket U néven forgalmaz. A Pocket U révén lehetõvé válik, hogy hozzáférhessünk az otthoni PC-n tárolt tartalmakhoz, bárhol is legyünk. Most a CEATEC-en az operátornál ennél is tovább mentek: ezt ne csak a mobiltelefon kijelzõjén, hanem akár egy televízión is megtehessük, mégpedig jó minõségben. A megoldás: a mobiltelefon legyen képes online átjátszó szerverként szolgálni egy "vendéglátó" Wi-Fi hálózaton, melyre a tévére csatlakoztatott médiacenter is kapcsolódik.
+
+A Mobile Home to Home, vagyis az MH2H egy virtuális DLNA (Digital Living Network Alliance) médiaszervert hoz létre a helyi számítógéphálózaton, és közvetítõként szolgál a mobiltelefon tulajdonosának távoli PC-je és a helyi médiacenter között. A demonstráció alkalmával az NTT egy PlayStation 3 szolgált lejátszóként. A mobiltelefon a mobilhálózaton keresztül arra utasítja a PC-t, melyre egy e célt szolgáló szoftvert kell telepíteni, hogy fogadja el a beérkezõ kérést. 
+
+A médiacenter így közvetlenül a PC-rõl streamelheti a tartalmat, a mobiltelefon kizárólag az autentikációban vesz részt. Az NTT állítása szerint a kliens oldaláról a szolgáltatás teljesen transzparens, minden DLNA-képes médialejátszó alkalmas a használatához. Biztonsági okokból a mobiltelefon idõrõl idõre ellenõrzi, hogy még a vendéglátó hálózatban vagyunk-e, így amennyiben elhagyjuk azt, meggátolja a további hozzáférést. Az MH2H piaci bevezetésérõl egyelõre nincs hivatalos információ.

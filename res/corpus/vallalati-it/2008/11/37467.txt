@@ -1,0 +1,14 @@
+Felhasználóbarát kioszkká alakíthatók a Ricoh multifunkciós nyomtatói
+
+Egyszerûsíti a papíralapú dokumentumok digitális munkafolyamatokba való beillesztését a Ricoh új szoftvere, a GlobalScan NX.  A csomag segítségével külsõ fejlesztõi támogatás nélkül maga a rendszergazda alakíthatja dokumentumfogadó végponttá a Ricoh multifunkciós berendezéseit, hogy a papíralapú dokumentumok bekerülhessenek a vállalat "digitális vérkeringésébe". 
+
+
+
+Azáltal éri el a GlobalScan NX a dokumentumkezelési folyamatok javítását, hogy nem az irodai végfelhasználóra bízza a beolvasási beállítások és a cél kiválasztását, hanem elõre definiált, interaktív ikonokat tartalmazó, grafikus felhasználói felületet biztosít, amin a felhasználó csak kiválasztja a munkafolyamatot, a szkennelés pedig az elõre beállított paraméterekkel zajlik le.
+
+A különálló, "dobozos" szoftvertermék tartalmazza a rendszergazdák adminisztrációs kezelõfelületét, ami külön programozási tudás és tapasztalat nélkül is kezelhetõ (egyfajta vizuális fejlesztõrendszer, saját programozási nyelvvel). Ezen a felületen tervezhetõk meg az képernyõs multifunkciós Ricoh berendezések grafikus felhasználói felületének egyedi ikonjai, valamint a dokumentumkezelési folyamatok alaplépéseibõl, "fogd és vidd" mûvelettel felépíthetõk az adott cégre, osztályra már testre szabott, jellemzõ dokumentumkezelési folyamatok.
+
+
+A webalapú adminisztrációnak köszönhetõen az ikonokhoz elõre beállított dokumentumformátum és cím társul, így a felhasználó egy lépésben (select-and-go) elvégezheti a szkennelést, és a változó dokumentuminformációkat is közvetlenül az eszközön tárolhatja. A beolvasott fájlokba ágyazható dokumentuminformációknak köszönhetõen az indexált archiválás és fájlkeresés egyszerûen végezhetõ bárhol a hálózaton. 
+
+A GlobalScan NX &#8211; Serverless verziója az átlagos, kis létszámú irodák számára ajánlott. Legfeljebb 32 végpontig használható a GlobalScan NX &#8211; Business Server mely már fejlettebb képfeldolgozási lehetõségeket kínál, mint például az OCR és a kiterjesztett PDF. A nagyobb szervezetek számára a GlobalScan NX Enterprise Server jelenti a megoldást, amely legfeljebb 750 készüléket képes egyidejûleg kezelni. A termék magyarországi bevezetése folyamatban van, ára még nem ismert.

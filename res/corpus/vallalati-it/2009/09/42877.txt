@@ -1,0 +1,12 @@
+Elsõk között áll át Windows 7-re a BMW
+
+A német autó- és motorgyártó elsõk között vezeti be a Windows 7-et. A cégnél 2001 óta, tehát lényegében a megjelenés óta a Windows XP az elsõdleges asztali operációs rendszer több mint 85 ezer PC-n, amelyet most Windows 7-re cserélnek. Sok más vállalathoz hasonlóan a BMW is kihagyta a Vistát a frissítési ciklusból és most az elsõk között áll át Windows 7-re.
+Egy világszerte 100 ezer fõt foglalkoztató cégnél természetesen ez nem megy egyik napról a másikra. A bajor autógyártó már az év eleje óta tesztelte a Windows 7 bétát, a végleges változat megjelenésével már több százra emelkedett azon dolgozók száma, akiknek gépén az új operációs rendszer fut. A pilot programot követõen jövõre 5 ezer körüli alkalmazott gépére kerül fel a Windows 7 éles környezetben, s ha az összes kompatibilitási teszt sikerrel zárul, 2011-ben minden dolgozó gépén lecserélik az operációs rendszert.
+A BMW-nél az alkalmazáskompatibilitás megtartásának egyik fontos eszköze lesz az XP Mode, amely egy virtualizált Windows XP-n futtatja azokat a programokat, amelyek valamilyen ok miatt nem kompatibilisek a Windows 7-tel. Bernhard Huber, a munkaállomásokért felelõs informatikai vezetõ a Computerworldnek elmondta, az XP Mode segítségével azonnal biztosítható a korábbi alkalmazások kompatibilitása, így az operációs rendszert az alkalmazások Windows 7-re felkészítése elõtt le lehet már cserélni.
+A Windows 7 mellett funkcionális és pénzügyi megfontolások szólnak. Huber elsõsorban a gyorsabb rendszerindulást és a jobb memóriakezelést emelte ki a Windows 7 újdonságai közül, amelyekbõl a BMW profitálhat, de elmondása szerint a megváltozott kezelõfelület is láthatóan hozzájárul a munka hatékonyságának növekedéséhez. "A Windows 7 jól gazdálkodik az erõforrásokkal és érezhetõen gyors az alkalmazások indítása" - mondta Huber. "Ez egyszerûbbé teszi a Windows XP-rõl az áttérést mintha Vistára váltanánk."
+
+A BMW-nél sokat várnak a Windows 7 olyan újdonságaitól is, amelyek használatához Windows Server 2008 R2 kell, például a VPN-eket szükségtelenné tevõ DirectAccesstõl, valamint a BrancCache-tõl. "Ezek a képességek hatékonyabb távoli felügyeletet tesznek lehetõvé és segítségükkel lecserélhetõk olyan külsõ megoldások, amelyeket eddig meg kellett vásárolnunk" - mondta Huber.	     
+                  
+                  
+                  
+                   

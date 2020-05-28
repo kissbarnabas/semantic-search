@@ -1,0 +1,12 @@
+ESET: fájl- és levelezõszerver, illetve átjáróvédelem Linuxra, BSD-re és Solarisra
+
+Az ESET bejelentette szervervédelmi termékeinek új generációját: a Linuxon, BSD-n és Solarison futó fájl- és levelezõszerver, valamint átjáróvédelmi szoftverek már támogatják a 64 bites operációs rendszereket is, a lehetõ legnagyobb biztonságról pedig a ThreatSense heurisztikus motor legújabb, 3.0-ás verzióját kapták.
+
+
+
+ Az ESET Mail Security for Linux/BSD/Solaris a levelezõszerverek SMTP és IMAP forgalmát szûri a vírusok és kémprogramok ellen. A szoftver tartalmaz levélszemétszûrõ funkciót is, amely az üzenetek tárgyának, fejlécének, illetve láblécének módosításával megjelöli a kéretlen leveleket. Az ESET File Security for Linux/BSD/Solaris heurisztikai algoritmusok segítségével még az ismeretlen Win32 férgek és trójai programok többségét is felismeri, beépített tömörítõ modulja pedig külsõ alkalmazás használata nélkül képes kicsomagolni az archivált állományokat. Az ESET Gateway Security for Linux/BSD/Solaris egyaránt védelmezi a HTTP és FTP forgalmat az ismert és az ismeretlen károkozók ellen is. 
+
+
+ A lehetõ legkisebb erõforráshasználat érdekében minhárom megoldás mûködése egy memóriarezidens modulon alapszik, mely az összes víruskeresési feladatot fogadja. Mindhárom megoldás képes különbözõ konfigurációkat rendelni a különbözõ felhasználókhoz, kliensekhez és szerverekhez, és egyaránt fut egyprocesszoros és multiprocesszoros rendszereken. A rendszeraktivitásokra és a biztonsági eseményekre vonatkozó információk tárolására 6 különbözõ logolási szint határozható meg, és a rendszer képes automatikus riasztások küldésére. A telepítéshez a LIBC kivételével nincs szükség külsõ könyvtárakra vagy alkalmazásokra.
+
+A szoftverek új verziói teljes körûen menedzselhetõek az ESET Remote Administrator távadminisztrációs alkalmazás 2-es verziójával, és rendelkeznek saját webes adminisztrációs felülettel is.

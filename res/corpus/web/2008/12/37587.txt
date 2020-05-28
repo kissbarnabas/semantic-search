@@ -1,0 +1,30 @@
+Sokba kerülnek a Flash reklámok az internetezõknek
+
+A reklámkerülés az interneten mára nem elsõsorban a nagy mennyiségben a felhasználóra zúduló marketingszemét miatt lehet érdekes, hanem a weboldalakon tucatszám villódzó Flash animációk a számítógép teljesítményét, végeredményben pedig a költségeket is érezhetõen befolyásoló viselkedése miatt. 
+
+
+
+Környezetbarát reklámkerülés
+
+A reklámok letiltása morálisan megkérdõjelezhetõ dolog, hiszen az ingyenesen elért tartalomért az olvasó közvetetten úgy fizet, hogy a hirdetéseket is elé tolják. Aki ennek elkerülése miatt tiltja le a hirdetéseket, az még elítélhetõ, viszont egyre többen egyébként is rákényszerülnek a Flash tartalmak blokkolására. Bárki egyszerûen ellenõrizheti a Windows Task Managerben (vagy ennek megfelelõ programmal), hogy a kedvenc közösségi oldala vagy híroldala mennyivel dobja meg a processzorterhelést. 
+
+Ugyanazokat a weboldalakat Flash tartalommal vagy anélkül betöltve a fogyasztáskülönbség akár kétszeres is lehet. A SecTheory amerikai biztonsági cég tanulmányából is kiderül, hogy a böngészõkön belül betöltött számításigényes, többnyire hirdetési tartalmak mennyire  befolyásolják a kliensgépek fogyasztását.
+
+Az elsõ számú felelõsök a Flash bannerek, de az egyéb, böngészõben futó programok (JavaScript, Java, VBScript, Silverlight) is képesek komolyan leterhelni a processzort, illetve adott esetben a grafikus chipet. Természetesen minél "gazdagabb" egy tartalom, annál több erõforrást von el, de az optimalizáltság szintje is fontos tényezõ. A SecTheory szakértõje saját tesztjében a FireFox 3.04 böngészõt egy AdBlock Plus (reklámletiltó) és egy NoScript (csak az engedélyezett JavaScriptek futnak le) kiegészítõvel szerelte fel, amivel átlagosan 11W áramfelvételt volt képes megspórolni.
+
+Az iWiW reklámok nélkül 
+
+A HWSW szerkesztõsége is végzett egy gyorstesztet, melyben szintén Firefox böngészõ alatt elõször minden szolgáltatást engedélyeztünk, majd a méréseket megismételtük minden script és Flash letiltásával. A vizsgálat során egy Gmail, Google Docs, Google Calendar, egy iWiW ablak, az Index és a HWSW, illetve a Last.fm volt nyitva külön füleken. A Core 2 Duo processzorral szerelt notebookon ezek 2-11 százalék között terhelték a processzort, míg a reklámok és egyéb dinamikus tartalmak engedélyezése után ez 25-68 százalék közt ingadozott.
+
+A teszthez használt ThinkPad X61s notebook fogyasztásmérõje  ugyanezen teszt alatt 12-13 watt között ingadozott, míg mindent engedélyezve azonnal 23 watt fölé ugrott. Ennyi differencia egy nagy teljesítményû akkumulátor és egy energiatakarékos gép esetén 2-3 óra üzemidõcsökkenést okoz, de az átlagos notebook esetén, ami eleve csak 2,5 órán át bírja, még fájdalmasabb idõveszteséghez vezet. Azt természetesen hozzá kell tenni, hogy letiltva minden scriptet gyakorlatilag használhatatlanná válik a legtöbb webes szolgáltatás, de a teszt alatt is fõként a Flash-alapú reklámok voltak megterhelõek.
+
+Az iWiW reklámokkal
+
+Villanyt lekapcsolni, böngészõablakokat bezárni
+
+A tanulmány listájában a legenergiaéhesebb weboldalak listája így néz ki: myspace.com, gamespot.com, go.com, espn.go.com, bestbuy.com, disney.go.com, weather.com, gamefaqs.com, tribalfusion.com, amazon.com. Míg a HWSW nem teljeskörû, sem reprezentatívnak nem nevezhetõ gyorstesztje alapján a magyar weben a legpazarlóbb a nyitva hagyott iWiW oldal, de a legtöbb általános híroldal is sokat fogyaszt, illetve bármi, ahol Flash-alapú reklám van. Szintén számít, de meglepõ módon a webes rádiók, a YouTube vagy a webes levelezõk üresjáratban nem kérnek jelentõs kapacitást.
+
+
+A SecTheory felvetése viszont ennél is messzebre visz. Ha gépenként általában 11W teljesítmény megy el feleslegesen, akkor vajon gépek millióival számolva a világban, amik napi legalább 8 órában mûködnek, akár egy nagyobb erõmûvet is ki lehetne váltani a NoScript kiegészítõvel.
+
+Ugyan ez az analógia nagyon demagóg, de azt a tanulmány szerzõje is kiemeli, hogy nem az a megoldás, hogy ki kell húzni a fogyasztókat a konnektorból, hiszen ezekkel az eszközökkel termelünk. Viszont véleménye szerint ha már a laikus felhasználók nem, akkor legalább a nagy online szolgáltatók hívják fel a figyelmet arra, hogy mennyire pazarló tud lenni a feleslegesen nyitva hagyott böngészõablak. Pár éve még csak a villanyt kellett lekapcsolni, meg a hûtõajtót zárva tartani, ma már a szoftvereink fogyasztására is illik odafigyelni.

@@ -1,0 +1,10 @@
+Brutális áron kerül forgalomba az ASUS elképesztõ teljesítményû videokártyája
+
+Az elõször a Computex kiállításon bemutatott csúcskategóriás videokártya méltán viselheti a világ leggyorsabb PC-s grafikus gyorsítója címet, a két GeForce GTX 285 lapkát tartalmazó bõvítõkártya brutális teljesítményével bármelyik konkurens megoldást legyõzi. Az NVIDIA-nál házon belül ilyen lehetséges konkurencia a GeForce GTX 295, a ROG Mars Limited Edition azonban az ASUS saját mérése szerint ezeknél is 23 százalékkal gyorsabb.
+A két, 55 nanométeres gyártástechnológiával készülõ G200b grafikus processzor a gyári referenciaértékeknek megfelelõen mûködik az ASUS limitált szériás ikerprocesszoros kártyáján, azaz a grafikus magok 648 MHz-en ketyegnek és egyenként 480 stream processzort tartalmaznak (ezek órajele 1476 MHz). A GPU-k köré összesen 4 gigabájtnyi, 2484 MHz-es órajelen járó GDDR3 videomemória szervezõdik, melyet 512 bit széles sínen érnek el a processzorok.
+
+
+
+
+Az új videokártya-szörnyeteg tehát éppen olyan gyors lesz, mint két, SLI-üzemmódba kapcsolt GeForce GTX 285, ráadásul a ROG Mars Limited Edition-ból akér kettõ is összekapcsolható SLI üzemmódba, ezzel négy, már egyenként is bivalyerõs GPU erejét egyesítve. A GeForce GTX 285-bõl egyébként az NVIDIA szerint nem lehet négyet összekapcsolni, ráadásul az ikerchipes GeForce GTX 295 sem támogat négyprocesszoros üzemmódot, az ASUS-nak azonban a jelek szerint sikerült felülkerekednie ezeken a technikai korlátokon.
+Más kérdés, hogy aki két ROG Mars Limited Edition videokártyát kíván vásárolni, annak kisebb vagyont kell erre a célra elkülönítenie, ráadásul gyorsnak is kell lennie, a vezérlõbõl ugyanis mindössze ezer, számozott darab készül. Az ASUS magyarországi képviseletétõl megtudtuk, hogy a monstrum hazánkban is forgalomba kerül majd -- a júliustól kapható kártyának még nincs megállapított ajánlott fogyasztói ára, a gyártó hazai képviseletének illetékese csak annyit árult el, hogy ROG Mars Limited Edition több mint háromszázezer forintba kerül majd.

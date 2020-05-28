@@ -1,0 +1,20 @@
+Két új Seagate merevlemez vállalati felhasználóknak
+
+Két új merevlemezzel bõvítette kínálatát a Seagate, a modellek érkezésének elsõsorban azok örülhetnek, akik vállalati környezetben bízzák a cég meghajtóira az adatok tárolását.
+
+
+
+1 terabájtos SAS diszk a világon elsõként
+
+Az egyik újdonság egy 1 terabájtos SAS diszk, amely a világon elsõként kínál ekkora kapacitást ezzel a csatolófelülettel. A meghajtó érkezésével a SAS felületû diszkrendszereket alkalmazó tárolók és szerverek kapacitása akár ugyanakkora lehet mint az olcsóbb SATA-alapú megoldásoké, miközben jóval nagyobb teljesítményre képes. A Barracuda ES.2 lényegében nem más, mint a vállalat azonos nevû SATA meghajtójának SAS csatolófelülettel ellátott változata.
+
+
+ A Barracuda ES.2 tartalmazza a Seagate PowerTrim technológiát, amely a fogyasztást és hõtermelést hivatott leszorítani. A gyártó nem mást állít, mint hogy a PowerTrimmel ellátott Barracuda ES.2 20 százalékkal kevesebbet fogyaszt, kapacitásarányosan pedig 55 százalékkal takarékosabbb a sATA diszkeknél, miközben a SAS felületnek köszönhetõen 38 százalékkal több mûveletre képes adott idõ alatt és azonos fogyasztás mellett.
+
+Natívan titkosítja az adatokat
+
+A másik újdonság a Cheetah családban található: egy olyan merevlemez, amely natív AES titkosítási funkcióval rendelkezik, ezáltal garantálja, hogy a rajta tárolt adatokhoz még akkor sem fér hozzá senki, ha a diszk illetéktelen kezekbe kerül. A titkosításhoz használt kulcs sosem hagyja el a Cheetah 15K.6 FDE meghajtót, az a TCG Storage Architecture Core Specification 1.0 specifikáció alapján kezeli a kódolásra és dekódolásra vonatkozó parancsokat.
+
+Az adatlopási incidensek jelentõs része ma eltulajdonított PC-khez, notebookokhoz, esetleg szalagokhoz kapcsolódik. A Seagate szerint sokan hajlamosak azt gondolni, hogy a szervereken és hálózati tárolókon az adatok biztonságban vannak, azonban ez közel sincs így, hiszen ezeket az eszközöket a cégek folyamatosan cserélik, javítják vagy mozgatják a telephelyeik között, és gyakran senki se gondol arra, hogy eközben a merevlemezek akár illetéktelen kezekbe is kerülhetnek.
+
+Egy a Seagate által idézett felmérés szerint a javításra visszaküldött lemezek fele tartalmaz olvasható adatokat. Ha feltesszük, hogy egy rendszer életciklusa 3-5 év, akkor az adatközpontokat naponta mintegy 50 ezer meghajtó hagyja el valamilyen formában, és ha ezeknek csak a fele marad olvasható, az napi 2500 terabájt információt jelent, amely ellenõrizetlenül áramlik ki a szervezetektõl.

@@ -1,0 +1,14 @@
+Villámgyors Corsair SSD a láthatáron
+
+A Corsair szélvészgyors SSD-sorozatot jelentett be, melynak tagjai jócskán felülmúlják a gyártó négy hónappal korábban bemutatott elsõ szilárdtest meghajtóinak teljesítményét. Sajnos az új termék ára a sebességéhez igazodik.
+
+
+
+A Corsair négy hónappal ezelõtt jelentette be 128 gigabájt kapacitású, többszintes cellaszervezésû (MLC) SSD-jét, mely 2,5 hüvelykes méretben 90 MB/s olvasási és 70 MB/s írási sebességet kínált. A gyártó most egy jóval sebesebb modellel jelentkezett, az S256 200 MB/s sebességgel olvasható, írni rá 170 megabájtot lehet másodpercenként, utóbbi sem nevezhetõ rossz értéknek.
+
+
+A negyed terabájtos P256 SATA csatolófelülettel rendelkezik, 2,5 hüvelykes mérete miatt könnyûszerrel építhetõ a fenti interfésszel ellátott noteszgépekbe, vagy külsõ merevlemez-házakba. Az új szilárdtest meghajtó Samsung-alapokon nyugszik, benne a Samsung vezérlõlapkája (S3C29RBB01-YK40) található és ugyancsak a koreai gyártótól származik a gyorsítótár, valamint az MLC flashmemória-chipek is.
+
+
+
+A termék heteken belül megjelenhet a piacra. A P256-ot a 750 dollár körüli ársávban kell majd keresnünk. A Corsair mellett a Super Talent is bejelentette új MLC-felépítésû tárolóját, mely 512 gigabájtnyi tárterületet, és a Corsair meghajtójához hasonló sebességet kínál SATA-csatolófelülettel. A 230 MB/s olvasási, valamint 200 MB/s írási sebességre képes Super Talent MasterDrive RX azonban 1500 dolláros ára miatt nem lesz egyelõre fogyasztói tömegtermék.

@@ -1,0 +1,16 @@
+Linuxosok, macesek is kipróbálhatják a Google Chrome-ot
+
+A Google Chrome böngészõ hivatalosan csak Windows operációs rendszerre érhetõ el, de a CodeWeavers jóvoltából a Linux- és Mac-felhasználók is kipróbálhatják.
+
+
+
+A windowsos szoftverek más operációs rendszereken történõ futtatását lehetõvé tevõ Wine segítségével a Chrome ugyan változatlan formában nem megy Linuxon és Mac OS-en, de az alapjául szolgáló nyílt forrású Chromium (21-es fejlesztõi build) felhasználásával a CodeWeavers egy, a Chrome-ra megszólalásig hasonlító böngészõt készített. A CrossOver Chromium elsõ ránézésre szinte meg sem különböztethetõ a Chrome-tól, a funkciókban azonban már vannak különbségek. Nyilvánvaló okok miatt a CrossOver Chromium nem frissíthetõ a Google Chrome-hoz kiadott patchekkel.
+
+A Chromium Ubuntun
+
+A CodeWeavers vezére, Jeremy White elmondta, a cég célja az volt, hogy demonstrálja a Wine képességeit, elsõsorban olyan cégek számára, akik Windowsra fejlesztenek, de szeretnék alkalmazásukat más platformon is viszontlátni. A CodeWeavers szerint csak a hecc kedvéért ültették át a Chromiumot Linuxra és Mac OS-re, hogy bebizonyítsák, milyen hamar lehet egy windowsos programot Linuxra migrálni. A szoftverhez mellékelt FAQ-ban a CodeWeavers fel is hívja a figyelmet arra, hogy senki se használja elsõdleges böngészõként a CrossOver Chromiumot. Az interneten olvasható elsõ tesztek, visszajelzések szerint az átültetett szoftver egyébként meglehetõsen lassú, instabil és a Flash-tartalmak lejátszása sem mûködik benne.
+
+[+] Kipróbáltuk: Google Chrome - Szép, gyors, okos 
+
+
+ A CrossOver Chromium ingyen elérhetõ Mac OS X 10.4 vagy újabb operációs rendszerre, illetve számos népszerû Linux-disztribúcióra (Debian, Red Hat, Ubuntu). A Google tervei között szerepel a natív linuxos és maces Chrome elkészítése, azonban egyelõre nem tudni, mikor jelennek meg.

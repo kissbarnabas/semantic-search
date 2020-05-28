@@ -1,0 +1,61 @@
+Beköltözik az informatika az idõsek otthonába
+
+Az Európai Innovációs és Technológiai Intézet központjának Budapestre telepítése után egy másik kiemelt területen is markáns szereplõvé válhat hazánk. Ugyan nem tartozik egyelõre a három legnagyobb kutatás-fejlesztési terület közé, de az öreg kontinens lakosai egyre idõsebbek, így felértékelõdnek az idõskori életminõség javítását célzó programok.
+
+
+
+Az igazi egészségügyi reform
+
+Ezek lehetnek egészségügyi fejlesztések, szociális programok is, de természetesen a technológia térnyerése itt sem maradhat el. Az Európai Bizottság támogat, sõt erõltet minden olyan kezdeményezést, amely az otthoni gondozás, távgyógyászat témában születnik. Amennyiben ez a tematika a következõ 10 évben a szakemberek véleményének megfelelõen eléri a kritikus tömeget, elterjed, akkor abban a Magyarországon indított új kutatóprogram, illetve a bevezetés alatt álló DataMed rendszer is kulcsszerepet játszhat.
+
+Az elõbbi egy konzorcium keretében, a GE Healthcare vezetésével megvalósuló hároméves kutatás-fejlesztési projekt, több mint 1 milliárd forintos büdzsével vág neki az idõsgondozás jelenlegi rendszerének átalakításához. Itt az elsõdleges cél, hogy az egyedül élõ, krónikus betegségekben szenvedõ idõsek egészségügyi állapotában bekövetkezõ változások úgy legyenek nyomonkövethetõek távolról, hogy az ne zavarja meg az emberek életvitelét és ne kelljen elhagyni az otthonukat.
+
+
+
+Az EurActive portálon nemrégiben megjelent írás szerint az EU több konkrét intézkedés bevezetését is javasolja, hogy leküzdhetõvé váljanak a távolsági egészségügy terjedését gátló akadályok. A három legfontosabb pontnak a szolgáltatással kapcsolatos bizalomhiány leküzdését, a megfelelõ jogi háttér kialakítását és a piacot érintõ technikai jellegû problémák megoldását látják. 
+
+Öncélú fejlesztés vagy valós haszon?
+
+Amennyiben ezeken sikerül túljutni, akkor létrejöhet egy olyan szolgáltatás, ami valós hasznot hajt a betegellátásban, garantálja a betegek biztonságát, miközben diszkrét is marad. Ha technológiai eszközökkel lehetséges idejében észlelni a tüneteket, hatékonyan követni a kezelés otthoni részeit, akkor elkerülhetõvé válhat számos -- többnyire költséges -- kezelés vagy kórházi ápolás is. 
+
+[+] EIT: EU-s fejlesztések koordinálása Budapestrõl
+
+"A telegyógyászat képes radikálisan javítani a krónikus betegek életminõségén és az emberek számára a legjobb szakembereket teszi elérhetõvé" -- mondta Viviane Reding, az EU információs társadalomért és médiáért felelõs biztosa. "Kötelességünk biztosítani a betegeknek és a szakembereknek a lehetõséget, hogy kihasználhassák a rendszer elõnyeit. Emellett a távolsági egészségügyi szolgáltatások az ICT segítségével optimalizálhatják a humán és anyagi erõforrások kihasználását ebben a szektorban." 
+
+Magyarország annak ellenére, vagy éppen annak köszönhetõen, hogy az egészségügy területén számos problémával küzd, most mindkét komoly projekt révén kitûnhet. A GE Healthcare és a GE Corporate által PPP rendszerben vezetett konzorcium 895 millió forintos állami támogatást kapott arra, hogy egy teljesen új egészségügyi monitoring rendszert fejlesszen ki, és használható terméket alkosson. A GE Healthcare a támogatás mellé további 238 millió forintot tesz a projektbe, ami így a Nemzeti Technológiai Program kiemelt programjai közül az egyik legnagyobb finanszírozású.
+
+Milliárdos projektek
+
+Az NTP 2008-ban 77 projektet támogat 39 milliárd forinttal, melyhez további 15 milliárdot tesz hozzá a piac -- nyilatkozta Molnár Károly, a kutatás-fejlesztésért felelõs tárcanélküli miniszter. Így a korábbi gyakorlattal ellentétben nem több száz elaprózott kutatás folyik egymástól függetlenül, hanem lényegesen kevesebb, de immár átlagosan 600 millió forint érték feletti pályázatot támogattak. 
+
+A GE mellett a konzorciumban részt vesz a Meditech, a Mednet 2000 Kft., a Szegedi Egyetem, a Veszprémi Egyetem és a Budapesti Mûszaki Fõiskola is. Összesen 71 kutatót és azok asszisztenseit foglalkoztatják, illetve a program beindulásával 23 új, magasan kvalifikált munkahelyet is teremtenek. A kutatás alapcélja a mostaniaktnál fejlettebb, következõ generációs megfigyelõrendszerek kifejlesztése, melyhez a GE a technológiát adja, míg az orvosi cégek és egyetemek az orvosi szaktudást.
+
+A program célterülete egyelõre az agyvérzés, demencia és a depresszió észlelése, megelõzése, a kezelés segítése, de a késõbbiekben az alapvetõ életfunkciókig is lemennek, mint a testsúly vagy a vérnyomás. Mindezt úgy kell elérni, hogy minél kevésbé zavarják meg a felhasználót, lehetõség szerint észrevétlenül és beavatkozást nem igényelve mûködjön a rendszer. 
+
+Folyamatok 
+
+Még 10 év
+
+Bognár Attila, a GE Healthcare Telehealth fejlesztési menedzsere a HWSW kérdésére elmondta, hogy az ilyen technológiák kis számban már jelenleg is mûködnek például az Egyesült Államokban, de tömeges elterjedésük egy évtizeden belül várható. A volumennövekedésnek köszönhetõen csökkenni fog a telepítési és a szolgáltatási költség, de addig a megoldás elfogadottságáért is meg kell küzdeni. 
+
+A GE által jelenleg kínált termék egyszerûen infravörös érzékelõk, kábelek, hálózati eszközök összessége, mely önmagában nem tûnik komoly innovációnak. A téma lényegi része a mögötte álló komplex szoftverek, algoritmusok, a riasztásokat generáló mesterséges intelligenciák, illetve a begyûjtött adatokat értelmezni képes orvosi szaktudás meglétében van. 
+
+Az egyszerû, így olcsón replikálható technológia mögött lévõ komoly rendszerek segítségével hétköznapi minták vizsgálatából derülhetnek ki olyan egészségügyi panaszok, melyekre többnyire túl késõn derül fény. Például ha valaki elkezd éjjelente felébredni, jár egy kört, eszik valamit majd visszafekszik, késõbb pedig megismétli ezt, az szinte biztos, hogy a kialakuló vagy megszerzett cukorbetegséggel küzd. A rendszer képes azt is figyelni, hogy a páciens megfelelõen és rendszeresen szedi-e a felírt gyógyszereket vagy sem. 
+
+	     
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                    A cikk több oldalból áll:
+                    
+                    
+                        1. oldal: Beköltözik az informatika az idõsek otthonába
+                      
+                        2. oldal: Orvosok, kórházak, betegek
+                        
+                    
+                  

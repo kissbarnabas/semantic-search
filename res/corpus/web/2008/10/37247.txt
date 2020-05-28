@@ -1,0 +1,31 @@
+Itt a Gmail for mobile 2.0: már offline is mûködik
+
+Múlt hét csütörtökön mutatta be a Google a Gmail levelezõrendszer mobiltelefonokra optimalizált változatának 2.0-s verzióját. A Gmail for mobile 2.0 a korábbihoz képest még gyorsabb lett a fejlesztõk szerint, illetve a teljesen újraépített szerkezetnek köszönhetõen megbízhatóbb is lett.
+
+
+
+
+
+"A Gmail mobil csapatának mérnökeként természetesen állandóan a Gmail klienst használom a telefonomon. Épp emiatt folyton azon dolgozom, hogy gyorsabb, robosztusabb és könnyen kezelhetõ legyen a kliens" -- írja a hivatalos Gmail blogon Derek Phillips, a Google Mobile csapat szoftverfejlesztõ mérnöke. A magyarországi hosszú hétvége során bejelentett Gmail for mobile 2.0 minden J2ME-t támogató telefonra és Blackberry készülékekre egyaránt elérhetõ lesz.
+
+
+A fejlesztések középpontjában a gyorsaság és a stabilitás állt, ezért is írták újra a kliens kódját az alapoktól kezdve. Minden feldolgozási folyamatot a háttérbe helyeztek, nagyban javították a kliens gyorsítótárának sémáit, megszüntetve a kódon belüli szûk keresztmetszeteket, melyek torlódásokkal lassították a korábbi változat mûködését.
+
+
+
+
+
+
+
+
+
+
+
+Az elsõ észlelhetõ fejlesztés, hogy valóban stabilabb lett, nem fagy le gyakran a program, és folyékonyabb a megjelenítés is görgetéskor. Ezen felül végre bevezették a több fiók kezelésének lehetõségét, s a jövõben könnyedén lehet majd váltogatni címeink között anélkül, hogy ki kellene lépni, majd újra be, és nem kell két alkalmazást használnia azoknak, akik a munkahelyi és a privát levelezésüket is követnék menet közben.
+
+
+
+Megjelent a piszkozat funkció a mobil verzióban is, így már lehetséges több nekifutásra megírni egy válaszlevelet, ami a mobilos környezetben egy alapvetõ igény. A Qwerty billentyûzettel ellátott készülékek tulajdonosai egy teljesen megújított gyorsbillentyû rendszerrel találkoznak majd, a webes változatban megismert módszerrel szinte teljesen megegyezõen. A kezelõfelület dinamikus, tehát minden készüléken azok a funkciók jelennek meg továbbra is, melyek támogatottak is, illetve az új változat már 35 nyelven elérhetõ.
+
+
+Az eddig felsorolt részletek is fontosak, de a legerõsebb újítás, hogy a szoftver képes offline is mûködni, tehát lehet levelet írni, szerkeszteni, a legfrissebbeket pedig olvashatni is, anélkül, hogy lenne térerõ. Az adatkapcsolat hiányában küldésre jelölt levelek a kimenõ mappába kerülnek, majd visszaérve a lefedett területekre, a kliens automatikusan elküldi azokat. A szoftver továbbra is a m.google.com/mail oldalról tölthetõ le a mobiltelefonok böngészõjén keresztül.

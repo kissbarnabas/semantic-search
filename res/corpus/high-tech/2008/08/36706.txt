@@ -1,0 +1,16 @@
+Valósidejû ray-tracing renderelés az NVIDIA vizualizációs rendszerén
+
+Valósidejû interaktív ray-tracinggel demonstrálta grafikai megoldásainak erejét az NVIDIA a héten zajló SIGGRAPH 2008 találkozón, melyen új vizualizációs rendszerének képességeit szemléltette. 
+
+
+
+A számítógépes grafika fejlõdésének irányát is jelezve az NVIDIA valósidõben renderelt ray-tracing demóval igyekezett elkápráztatni a SIGGRAPH 2008 résztvevõit, mely a legrangosabb találkozónak számít a szakmában. Az NVIDIA nemrég bemutatott új vizualizációs rendszere, a Quadro Plex 2100 D4 segítségével 2 millió poligonos jelenetet, egy Bugatti Veyront szupersportkocsit renderelt élsimítással, 1920x1080-as felbontásban ray-tracing technikákkal háromszoros visszaverõdés mellett, másodpercenkénti 30 képkocka frissítéssel.  
+
+Az NVIDIA nemrég mutatta be új, D-sorozatú vizualizációs rendszert, melyeket akár az asztal mellé is állíthatunk, vagy 3U magas kivitelben rackbe is szerelhetjük. A Quadro Plex 2100 D4 két darab Quadro FX 4700 X2 kártyát fogad, vagyis összesen négy grafikus processzort vonultat fel 4 gigabájt képbufferrel, és 8 dual-link DVI kimenetet kínál fel. A Quadro Plex vizualizációs rendszer PCI Express x16 vagy x8 felületen csatlakozik a számítógéphez. A szeptembertõl hozzáférhetõ professzionális vizualizációs rendszerekért legalább 10 ezer dollárt ki kell csengetnie a vevõnek, mely ár Európában vélhetõen ennél is magasabb lesz. Az NVIDIA nemcsak grafikai, hanem bármilyen számításintenzív vizualizációs (mûszaki-tudományos) területre ajánlja a Quadro Plexeket, és CUDA fejlesztõi környezetével támogatja a kódok portolását is.
+
+
+
+
+A grafikai képességek demonstrációjára nemrég az AMD egyik fejlesztõje készített egy ray-tracing bemutatót, mely valós idõben renderelt egy rövid városi akciójelenetet egy ATI Radeon HD 4870 kártyán. Szintén a ray-tracing lesz az Intel jelenleg még fejlesztés alatt álló, várhatóan 2010-ben megjelenõ Larrabee kódnéven ismert vizualizációs chipjének egyik fókusza a raszterizáció mellett. A globális bevilágítási rendertechnikák, mint amilyen a ray-tracing is, sokkal realisztikusabb képet eredményeznek, valósidejû interaktív alkalmazásuk ugyanakkor eleddig túlságosan számításigényesnek bizonyult, ezért csak videókban találkozhattunk velük.
+
+A hardverek rohamos fejlõdésével ugyanakkor már látható közelségbe került alkalmazásuk, miközben a hagyományos raszterizált grafika egyre nehezebben képes látványos elõrelépést felmutatni -- a játékipar szerint az új render módszerek megjelenése a következõ évtized elejére várható. A Budapesten megrendezett Game Developers Forumon maga Cevat Yerli, a Crysist produkáló Crytek alapítója vélekedett úgy, hogy a raszterizáció elérte lehetõsége határait. Ezt kihasználva az Intel erõteljesen a ray-tracing irányába kívánja elmozdítani a játékipart, kritizálva a raszterizációt, hogy  saját architektúráinak kedvezzen. 

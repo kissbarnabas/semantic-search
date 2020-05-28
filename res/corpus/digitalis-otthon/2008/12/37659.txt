@@ -1,0 +1,16 @@
+Kuma vagy nem Kuma, megérkeztek az AMD új kétmagos processzorai
+
+Piacra dobta az elsõ olyan kétmagos processzorokat az AMD, melyek a cég 10h, kódnéven Stars mikroarchitektúrájára épülnek. A 65 nanométeres chipek azonban valójában nem kétmagos felépítésûek, hanem négymagos szilíciumot takarnak, ami megmagyarázza a viszonylag konzervatív órajelet, ugyanakkor nem szerencsés a vállalat nyereségessége szempontjából egy különösen kritikus idõszakban.
+
+
+
+A 2003-ban debütált K8 inkrementális továbbfejlesztésével, mondhatni korszerûsítésével megszületett 10h mikroarchitektúra 2007 õsze óta eddig csak három- és négymagos processzorokban volt elérhetõ. Most végre megszületett a kétmagos változat Athlon X2 néven, mégpedig 7000-es sorozatként kerülnek piacra. Kezdetben két modell érhetõ el, egy 2,7 gigahertzes Black Edition (Athlon X2 7750) , vagyis szorzózártól mentes csúcsváltozat, valamint egy 2,5 gigahertzes (7550), kizárólag tálcás formában. Mindkét modell 2 megabájt L3 tárral bír, 95 wattos elektronikai kerettel rendelkezik, és AM2+ foglalatba illeszkedik. 
+
+Bár négymagos x86-processzorok 2006 vége óta elérhetõek, a piacot továbbra is a kétmagos termékek uralják, a szállítások több mint 80 százalékát téve ki, amit a PC-szoftverek többségének gyenge vagy nem létezõ többszálúsítottsága magyarázza leginkább. A drágán termelhetõ négymagos chipeket tehát csak egy szûk rétegnek lehet eredményesen, jó nyereséggel értékesíteni, miközben a tömegigényeket a kétmagos processzorok fedik le -- a piac nagyobb részének szempontjából tehát valójában nem is történt semmiféle generációs váltás az AMD-nél.
+
+Éppen ezért lett volna különösen fontos az ereje teljében lévõ Intellel küzdõ AMD számára, hogy mielõbb kétmagos változatban is kitolja az ajtón a 10h mikroarchitektúrát -- vagy mégsem. A mikroarchitekturális továbbfejlesztések ugyanis minimális teljesítménynövekedést hoznak az egyszálú végrehajtásban az eddigi, K8-alapú Athlon X2-kkel szemben, így nem szignifikánsan nem javítottak volna az AMD versenyképességén az asztali piacon, miközben drága mérnöki erõforrásokat kötött volna le a kétmagos derivatív szilícium létrehozása.
+
+Hogy volt-e valaha kétmagos 10h-szilícium a tervekben, és csak útközben törölte õket, vagy soha nem álltak neki a kétmagos változat fejlesztéseinek, hivatalosan nem tudni, az ugyanakkor bizonyos, hogy a jelenlegi Kuma egy teljes Barcelona-szilíciumot takar, a maga 285 négyzetmilliméterével, mindössze két magot letiltottak -- összevetésképpen a kétmagos K8-ak 65 nanométeres csíkszélességgel 126 négyzet-milliméteresek, az Intel aktuális kétmagos kínálatában lévõ 45 nanométeres Penryn/Wolfdale pedig 107 négyzetmilliméter. 
+
+
+Ez pedig azt jelenti, hogy az AMD célja a 65 nanométeres négymagos chip-termelés selejtjének további csökkentése, azaz a megmunkált szilíciumterületbõl a lehetõ legnagyobb bevétel elérése. A 2,7 gigahertzes chip az alkalmazások többsége alatt nem gyorsabb, mint a magasabb órajelen is elérhetõ eddigi kínálat, mint például egy 3,1 gigahertzes kétmagos K8, ezt tükrözi árazása is: 79 dolláros nettó gyártói listaára alig 3 dollárral magasabb a legdrágább Athlon X2 6000-nél. A valóban kétmagos Stars-chipek 45 nanométeres gyártástechnológiával látnak csak napvilágot, erre azonban 2009 második feléig várni kell. A 45 nanométeres négymagos Phenomok januárban, a CES-sel érkeznek.

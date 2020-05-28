@@ -1,0 +1,26 @@
+Jövõ év elején érkeznek a négymagos Itanium szerverek
+
+Év végén kezdi az Itanium processzorcsalád következõ generációjának, a Tukwila kódnéven ismert chip szállításait az Intel, közölte ma a vállalat, az erre épülõ új szerverek pedig jövõ év elején érkeznek a gyártóktól.
+
+
+
+Legalább kétszeres teljesítményt ígér
+
+A Tukwila megjelenésétõl az Intel és partnerei a platform forgalmának megugrását remélik, az ugyanis drasztikus elõrelépést képvisel a jelenlegi generációhoz képest. A Tukwila a 2001-ben debütált Itanium processzorcsalád ötödik generációja, ugyanakkor lényegében továbbra is a 2002-ben piacra került McKinley mikroarchitektúráját implementálja inkrementális továbbfejlesztésekkel. Ez azonban nem jelenti azt, hogy a Tukwila ne képviselne gyökeres fejlõdést 2008 végi megjelenésekor: a chippel legalább kétszeres teljesítménynövekedés érhetõ el az Intel becslése szerint.
+
+A Tukwila az Intel 65 nanométeres csíkszélességû gyártástechnológiájával négy nagyteljesítményû, két utasításszálat felváltva végrehajtó (coarse grained switch on event multithreading) magot integrál egyetlen szilíciumszeletre. A chip összesen 24 megabájt harmadszintû gyorsítótárral (magonként 6 MB L3), magonként 256 kilobájt dedikált L2 adat és 512 kilobájt dedikált L2 utasítás tárral rendelkezik -- ez utóbbi fele akkora, mint a Montecito egy-egy magjáé, megjelent viszont az úgynevezett directory cache, melynek mérete 1,92 megabájt, célja pedig a adatkoherencia fenntartásának támogatása. A lapka mérete megközelíti a 700 négyzetmillimétert, vagyis közel két és félszer nagyobb a négymagos AMD Barcelonánál, ami nem csoda, hiszen több mint 2 milliárd tranzisztorból épül fel.
+
+A Tukwila igazi újdonsága azonban nem a magokban rejlik, hanem a rendszerarchitektúra lecserélésében. A négymagos Itanium ugyanis a család történetében elsõként szakít a HP PA-RISC mára elavult buszrendszerének örökségével, és a nagy sávszélességet és alacsony késleltetéseket biztosító QuikcPath Interconnect (QPI) nevet kapó (korábban Common System Interface, CSI) pont-pont összeköttetéseket, valamint integrált memóriavezérlõt alkalmaz. Az új infrastruktúra is hatalmas elõrelépést jelent: a QPI-linkek akár 96 gigabájt másodpercenkénti aggregát sávszélességet is biztosíthatnak más processzorok felé, miközben a két négycsatornás FB-DIMM vezérlõ összesen 34 gigabájt áteresztõképességel rendelkezik -- ehhez képest a Montvale legfeljebb 10,6 gigabájtos sávszélességgel gazdálkodhat.
+
+A QPI révén a Tukwila magok gazdag, órajelenként akár 6 utasítás végrehajtására képes erõforrásai magasabb kihasználtsággal üzemelhetnek, a rendszerek pedig sokkal jobban skálázódnak a foglalatok számával. Az Intel szerint Tukwila egy négyutas rendszerben TPC-C és SPECCPU tesztek alatt átlagosan kétszer nagyobb teljesítményt nyújt 25 százalékkal magasabb (130 wattos TDP osztály) fogyasztás mellett, miközben a nagyobb energiaosztályú modellek ennél is nagyobb többletre képesek. A Tukwila gyakorlatilag minden megfelelõen többszálúsított szoftver esetében hatalmas elõrelépést képvisel, leginkább azonban üzleti alkalmazások alatt szerepelhet fényesen.
+
+A Tukwila órajele induláskor legfeljebb 2 gigahertz lesz, fogyasztása pedig a International Solid State Circuits Conference alkalmával prezentáltak alapján 170 wattra is rúghat. A TDP lazítását vélhetõen az IBM Power6 rendszerekkel szembeni versenyképesség indokolja, melynek fogyasztása 160-200 watt körül alakulhat, hivatalos adatokat azonban nem kommunikál az IBM -- nincs is szüksége rá, tekintve, hogy a Power6 nem önálló kereskedelmi termék. A Tukwila gyakorlatilag minden megfelelõen többszálúsított szoftver esetében hatalmas elõrelépést képvisel, leginkább azonban üzleti alkalmazások alatt szerepelhet fényesen, melyek optimalizációs célterületét képezték.
+
+Playing catchup
+
+A Tukwila drasztikusan javít majd az Itanium platform versenyképességén, ez azonban nem feledteti el a tényt, hogy az eredeti terméktervekhez képest legalább egy év késéssel kerül piacra. Ezt leginkább a kétmagos, Montecito kódnéven ismert Itanium piacra kerülésének megcsúszása magyarázza, melynek piaci adoptációja lényegében egy évvel késve indult meg. A Tukwila ugyanakkor megalapozza az Itanium platform következõ, új infrastruktúrára épülõ generációját, az Intel pedig a Poulson kódnéven ismert fejlesztésével igyekszik behozni eddig felhalmozott hátrányát.
+
+
+A 2010 végére, 2011-re várható Poulson ugyanis átugorja a 45 nanométeres csíkszélességet, és 32 nanométeres eljáráson folyik az elektronikai implementációja, mellyel rengeteg javulhat versenyképessége az Intel x86-os termékcsaládjához, de fõként a konkurenciához viszonyítva. A Poulson az Intel állítása szerint alapvetõen új mikroarchitektúrára épít, és sokmagos felépítésû lesz. A 32 nanométeres eljárás akár 16 nagyteljesítményû mag számára is elegendõ helyet tudna biztosítani, ami 32 utasításszálat jelentene chipenként, 64-96 megabájt integrált gyorsítótár társaságában. 
+
+Az Intel becslése szerint a '90-es évek közepén sokkal nagyobb ambíciókkal gründolt Itanium platform eddig 184 ezer eladott szervert jegyez világszerte, ebbõl 55 ezer tavaly kelt el, ami 36 százalékos bõvülés. Összehasonlításképpen a Gartner adatai alapján tavaly 106 ezer Power-alapú, és 224 ezer SPARC kiszolgáló talált gazdára, melyek az Itanium elsõdleges piaci ellenfelei. 

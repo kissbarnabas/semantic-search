@@ -1,0 +1,20 @@
+Nanoméretû optikai switchet építettek az IBM kutatói
+
+Az IBM kutatói olyan optikai switchet építettek, amely elég kicsi ahhoz, hogy akár egy chipen belüli adatáramlás irányítására is használni lehessen. Ez jelentõs áttörés az optikai kutatások területén, és az IBM szerint annak a bizonyítéka, hogy az elektromos áramot valóban leválthatja a fény akár a chipeken belüli adattovábbításban is.
+
+ 
+
+Használható
+
+A Nature Photonics címû folyóiratban nyilvánosságra hozott tanulmány szerint az optikai switch mindhárom lényeges használhatósági feltételnek eleget tesz. Megfelelõen kicsi, egy négyzetmilliméteren 2 ezer darab is elhelyezhetõ belõle, így akár egy többmagos processzornak is építõeleme lehet. A második fontos kritérium, hogy a switch kellõen nagy sávszélességet képes kezelni: a különféle hullámhosszú fénysugarak egyenként 40 Gbps átvitelére képesek, a switch kapacitása pedig 1 Tbps fölé is növelhetõ. Harmadrészt az IBM mérnökei sikerrel demonstrálták, hogy a switch valós körülmények, erõsen változó hõmérsékleti viszonyok között is mûködõképes.
+
+A mikroelektronika egyik uralkodó trendje a párhuzamosság növelése, amely a processzorokban a párhuzamosan feldolgozott utasítások és adatszálak növelését jelenti, ennek egyik eszköze több processzormag integrálása egy chipre. Már nincs messze az az idõ, amikor egy chipen nem kettõ, négy vagy nyolc, hanem akár több tucat mag kap helyet, azonban a hatékony mûködéshez elengedhetetlenül fontos a magok közötti kommunikáció gyors lebonyolítása. Ma a többmagos processzorokban erre elektromos áramot és vezetékek millióit használják, azonban a magok számának növekedésével a köztük zajló adatcsere lebonyolítása egyre több energiát igényel majd.
+
+Az IBM így képzeli el a jövõ többmagos processzorát
+
+Rézdrót helyett
+
+A fénysugarat már ma is széles körben használják adatátvitelre nagyobb távolságokon át, a számítógépeken belül azonban a technológia egyelõre nem terjedt el széles körben, mivel a fénysugár kibocsátásához és "elfogásához" használt alkatrészek nagyok, bonyolultak és drágák. Amennyiben azonban ezeket sikerülne szilíciumból elkészíteni, és a processzorokhoz vagy memóriachipekhez hasonló eljárással nagy tömegben gyártani, a technológia egycsapásra rendkívül olcsóvá válna, lehetõvé téve a tömeges elterjedést.
+
+
+Nem csak az IBM, az Intel is úgy véli, hogy a jövõben elektromos áram helyett fényt kellene használni a számítógépeken, vagy akár a chipeken belüli kommunikációra, ugyanúgy, ahogy a távközlésben vagy az adatközpontokban az optikai kábelek leváltották a rézdrótokat. Kutatók becslése szerint az optika bevetésével akár százszorosára is lehetne növelni az átvitt adatmennyiséget, miközben a felhasznált energia és a leadott hõ a tizedére csökkenhet -- a fogyasztás és a hõfejlõdés kezelése az egyik legnagyobb problémája a mai chiptervezõknek.

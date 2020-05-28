@@ -1,0 +1,18 @@
+Új csúcskategóriás tárolót mutatott be az EMC
+
+Bejelentette új csúcskategóriás adattárolóját az EMC. A Symmetrix V-Max kimondottan a virtualizált adatközpontokat, privát cloudokat célozza, ahol az óriási kapacitás mellett a kiegyensúlyozott teljesítmény is elvárás. A V-Max az EMC szerint háromszor gyorsabb és háromszor nagyobb kapacitású mint az eddigi csúcsmodell, a Symmetrix DMX-4, mindemellett kevesebbet is fogyaszt.
+
+
+
+Az EMC a Symmetrix terméksorozat közel két évtizedes történetének legnagyobb áttöréseként beszél a V-Maxról, amely nem leváltja, hanem kiegészíti a DMX-4 családot a vállalat termékpalettáján. A V-Max által használt Virtual Matrix Architecture szakít a Symmetrix korábbi generációinak hardveréve: négymagos Intel Xeon processzorokra épül.
+
+A Virtual Matrix Architecture építõkövei a V-Max engine-ek, amelyek egyenként 16 hosztoldai és 16 diszkoldali porttal, legfeljebb 128 gigabájt memóriával és két darab 2,3 GHz-es négymagos Intel Xeon processzorral rendelkeznek. A csomópontokat Rapid IO linkek kötik össze, hatalmas belsõ sávszélességet biztosítva. Ennek köszönhetõen a V-Maxon villámgyorsan lehet LUN-okat mozgatni, ennek köszönhetõen a tároló hatékonyabban tudja kiszolgálni a virtualizált adatközpontokban felmerülõ igényeket például virtuális gépek másolására vagy mozgatására.
+
+Egy teljes kiépítésû Symmetrix V-Max összesen 8 V-Max engine blokkot tartalmaz, vagyis kétszer annyi front-end és back-end kapcsolatot támogat mint egy teljes kiépítésû Symmetrix DMX-4. Több V-Max összekapcsolásával akár több százezer meghajtóból álló, hatalmas kapacitású virtualizált tárolótömbök építhetõk fel, amelyeket ugyanúgy lehet felügyelni mint egyetlen eszközt.
+
+
+
+Egy teljes kiépítésû Symmetrix V-Max maximális tárkapacitása 2400 darab meghajtó, amelyek lehetnek az EMC Enterprise Flash egységei, de hagyományos FC vagy SATA merevlemezek is, amelyek között az eszköz automatikusan tudja az adatokat mozgatni annak függvényében, hogy milyen gyakran van rájuk szükség. A legnagyobb sebességû flash meghajtókra a sûrûn elért információkat írja, a nagy kapacitású, olcsó, de viszonylag lassú SATA diszkekre pedig azokat, amelyekre ritkábban van szükség. A rétegezett adattárolás (tiered storage) automatikus vezénylésével a V-Max jelentõs terhet vesz le az adminisztrátorok válláról -- az eszköz beépített algoritmusok segítségével képes maga is eldönteni, melyik adatokat hol érdemes tárolni, de a felhasználók maguk is meghatározhatnak erre vonatkozó szabályokat.
+
+
+ A V-Max egységnyi kapacitásra vetített fogyasztása akár 20 százalékkal kevesebb is lehet a DMX-4 családdal összehasonlítva, ami részben az Intel Xeon processzorok alkalmazásának köszönhetõ, részben pedig az áttervezett háznak, amely elõsegíti a hatékony légáramlást, így kevesebb energiára van szükség a hûtéshez. Az EMC Symmetrix V-Max azonnal rendelhetõ, a listaára 250 ezer dollár körül indul, ennyiért azonban egyetlen V-Max engine jár, legfeljebb 360 diszk támogatással.

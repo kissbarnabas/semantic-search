@@ -1,0 +1,83 @@
+Mostan szilárd tintákról álmodom: Xerox Phaser 8560 nyomtató
+
+Tintasugaras, vagy lézer -- ez a két alternatíva él az emberek többségének tudatában, ha nyomtatási technológiákról van szó. A Xerox Phaser 8560 olyan technológiát alkalmaz, mellyel meglepõen alacsonyan tarthatók a költségek, minõségalku nélkül. 
+
+A Tektronix cégtõl láthattunk elõször olyan irodai készülékeket, melyek szilárd tintás technológiával  dolgozva produkáltak a lézernyomtatóknál élõbb, kontrasztosabb nyomatokat. A Xerox a Tektronix megvásárlása után továbbfejlesztette a technológiát, hogy ma már nem csak a színek, hanem a kontúrok és a részletgazdagság tekintetében is versenyképes alternatívával árnyalhassa a nyomtatópiacot.
+
+
+
+Szilárd, de mennyire? 
+
+Noha a szilárd tintás készülékek pontosan úgy néznek ki és hasonlóan is viselkednek, mint az azonos teljesítményû lézernyomtatók, azért néhány lényeges eltérést mutatnak a nyomtatási eljárás részleteiben. Elõször is, mint arra a név is utal, itt szilárd tintát alkalmaznak, nem folyékony festéket és nem tonert (port), mint a tintasugaras, illetve lézernyomtatók esetében. A festõanyag egyfajta színezett viasz, tapintása a gyertyához vagy a zsírkrétához hasonlítható. A készülék egy menetben viszi fel a négy festékbõl (fekete, cián, bíbor és sárga) összeállított képet egy forgó dobra, ezért a színes és a fekete fehér nyomtatási teljesítmény között nincs eltérés.
+
+ Nyomtatásról lévén szó szkeptikusak lehetünk a környezetvédelemi kérdéseket illetõen, hiszen papírra dolgozunk, ez a papír pedig rövid ügyviteli életútja végén az irattárban vagy szemétben, jó esetben újrafeldolgozóban landol. Nem mindegy azonban, hogy a kellékanyagok pótlásakor mekkora terhet rovunk környezetünkre, ebben élenjáró a szilárd tintás technológia. A szilárdtintás technológia esetében nem egy komplex, rövid élettartamú hengerrel egybetervezett mûanyag kazettát kell vásárolnunk, mint sok gyártónál, hanem egy viasz "kockát", amit a betápláló nyílásba kell csak helyeznünk és a nyomtató beforgatja a rendszerbe. A csomagolás tehát minimális és nincsenek rövid élettartamú kopóanyagok, tehát nem kell szinte semmit kidobnunk.
+
+A teljes képhez hozzátartozik, hogy vannak lézernyomtató-gyártók, akik ultratartós alkatrészek beépítése révén eldobható kazetta nélkül oldották meg a toner utánpótlást. Ezekben csak egy olcsó mûanyag tartályt kell kidobnunk, amiben a festékanyagot forgalmazzák, így kevésbé környezetszennyezõek. Kezelhetõség szempontjából ez azonban hátrányt is jelenthet, a feltöltés ugyanis körülményesebb, könnyebben kiszóródhat a festékpor, mint a kompakt megoldásoknál. Igaz, ami igaz, a viaszdarab behelyezése egyszerûbb és "környezetbarátabb" is.
+
+
+Finom, zsírkrétarajz-szerû tapintást és egy kis extra fényességet ad a papír felületén a szilárd tinta. Ennek nagyon nagy fedõképessége és kontrasztja miatt esztétikai hatásán túl megvan az az elõnye, hogy nem kell feltétlenül ultra fehérített papírt használnunk, akár újrafeldolgozott papírra dolgozva is kicsivel jobb hatást érhetünk el, mint lézernyomtatókkal. 
+ 
+Phaser 8560DN
+
+Egy középkategóriás munkacsoportos nyomtató, a Xerox Phaser 8560 járt szerkesztõségünkben, mely viszonylag kis volumenû vállalati készülék és emellett jól demonstrálja a technológia lehetõségeit -- és korlátait. Mérete nem túl nagy, semmivel sem terebélyesebb, mint egy hasonló erejû lézeres modell. Névleges nyomtatási sebessége 30 lap színesben és fekete fehérben is, terhelhetõsége havonta legfeljebb 85000 oldal. Felbontása 2400 dpi-nek felel meg, USB 2.0 és Ethernet 10/100 csatlakozást építettek ki rajta. Alapkiépítésben 625 lapos papíradagoló fiók található benne, mely további két egységgel bõvíthetõ. Az extra vastagságú médiák és borítékok számára különadagoló hajtható ki, ami akár 100 normál másolópapírnak is helyet adhat.  Mechanikailag igen strapabíró, dokumentációja 220 gramm/négyzetméter tömegû papírok (pl. névkártya) használatát is megengedi. Nem mellékes a modellbe épített duplex egység, azaz automata lapfordító, amivel kényelmesen kihasználhatjuk a papír mindkét oldalát.
+
+
+
+A tesztnyomatokat vizsgálva megállapítható, hogy kiváló fedettséget és kontrasztot, jó kontúrokat és részletességet biztosít a készülék, és már  alapbeállításokkal jó eredményt ad a legtöbb dokumentumtípussal. A printer ismeri a PCL és PostScript nyomtatónyelveket is, az utóbbi meghajtóprogrammal több beállítási lehetõséget kapunk. Ezek között szerepel a nyomtatás fotókhoz optimalizálása, a Phaser 8560DN A4-es, normál papíros fényképnyomatait nyugodt szívvel bekeretezhetjük és falra függeszthetjük, még bõrszíneknél is nagyon jó hatást keltenek. Természetesen közelrõl tetten érhetõ a pontszórás, de egy nagyságrenddel jobb hatást kapunk, mint amit ebben az árkategóriában megszokhattunk. Megfelelõ szögben nézve felfedezhetõ a festékanyag rétegzõdése, de ez nem gyengíti az eredményt. 
+
+Rengeteg irodai beállítást és biztonságos, pinkóddal védett nyomtatási módokat is kínál a Phaser 8560DN, még merevlemezzel is bõvíthetõ. Színegyeztetés terén elkényezteti a felhasználót a PostScript meghajtóprogram, nem csak sRGB és ICM, hanem a nyomdai (CMYK bontású) profilok is rendelkezésre állnak (például SWOP press, Euroscale, ISO, SNAP, Japan), támogatja a direkt szín (spot color) nyomtatás elõkészítését is. Teljesen támogatott tehát az irodákban használatos színkezelés és a nyomdai proof is.  
+
+
+ 
+Sebesség, késlekedés, bemelegedés 
+
+A Phaser nagyon hosszú ideig melegen tartja a puskaport (viaszt), hogy viszonylag hamar elindulhasson, ilyenkor méréseink szerint 10 másodpercen belül megkapjuk az elsõ oldalt. Hosszú tétlenség után azonban ha nem is áll le egészen, de visszavesz a fûtésbõl és ekkor fél percet is várnunk kell az elsõ lap megérkezésére. Teljesen hideg állapotból, beüzemelés után 3 és fél percen át fûtött fel, ezt azonban csak egyszer mérhettük. A napi munka során elõbb ki fog érni az elsõ lap, mint hogy elérnénk a szomszéd szobában álló készüléket.
+
+Nagyon gyors a 600 MHz-es processzor, erõs a mechanika, így az oldal összetettségétõl nemigen függ a termelékenység. Mint táblázatunkban látható, a 10 oldalas monokróm szövegdokumentum és az összetett, színes irodai kiadvány között nem feltétlenül van különbség és a duplex használata sem lassítja végletekig a készüléket. A Phaser masszívan megy elõre mindenféle irodai feladatnál.
+
+
+
+Xerox Phaser 8560DN
+Nyomtatási idõ (sec)
+
+
+
+Tesztoldal hideg állapotból
+226
+
+
+10 oldal fekete-fehér szöveg
+67
+
+
+
+10 oldal fekete-fehér szöveg DUPLEX
+84
+
+
+
+10 oldalas színes PDF
+84
+
+
+
+10 oldalas színes PDF DUPLEX
+101
+
+
+ 
+Költségek
+
+Általában nettó 26-30 ezer forint körüli áron vehetünk meg egy-egy nagykapacitású festékkazettát a konkurens gyártók lézernyomtatóihoz ebben a kategóriában, tehát viszonylag nagy összeg kiadásával kapunk hosszabb távon alacsony költségeket. A Phaserhez barátságos adagokban (3000 színes/6000 fekete oldal) szerezhetõ be a kellékanyag nettó 16000 forint körüli áron, így nem jelent akkora érvágást egy-egy beszerzés. A fõ szempont mégis inkább az, hogy a 30000 oldalanként cserélendõ  kellékanyagtálca közel 30 ezres nettó árát beleszámolva is csak nettó 3,61 forintba kerül egy monokróm, 19,5 forintbba pedig egy CMYK színes A4-es szövegoldal (5% fedettség színenként).  
+
+A teljes képhez hozzátartozik, hogy a festõviaszt állandóan folyékonyan kell tartani, ami folyamatos fûtést igényel. A gyártó 43 wattban adja meg a Phaser 8560DN alapfogyasztását, ami több mint kétszerese egy lézerének, így évente mintegy 12 ezer forint többletköltséggel számolhatunk lakossági tarifán. Legalábbis, ha nem számítjuk, hogy nyomtatás közben lényegesen kevesebbet eszik a Phaser, mint egy lézernyomtató, azaz ennél kevesebb lesz a különbség a villanyszámlán. Nem árt azt sem tudni, hogy minden kikapcsolás után ki kell takarítania a "befagyott" viaszt a rendszernek, ami erõsen növeli a költségeket, ezért javasolt soha le nem állítani a gépet, ez már óvatosságra intõ vonása a technológiának. 
+ 
+Amire vigyázni kell: kinek megfelelõ? 
+ 
+Kiváló konstrukció, mégsem ajánlható bárhova egy szilárd tintás nyomtató. Olyan helyeken érvényesül a kedvezõ kellékanyag-költség, ahol folyamatosan nyomtatnak jelentõsebb mennyiségeket. Nyugodtan elbír a készülék egy 15 fõs irodával, havi több tízezer (legfeljebb 85 ezer) oldalig. Viszont ha kifejezetten a viaszos hangulatra hajtunk, feleslegesen vásárolnánk szilárdtintást 2500-3000 oldal havi terhelés alatt, de három éven belül érezhetõ megtakarításhoz inkább havi 6000 oldal a minimum. Havi 20 ezer oldalas terhelésnél azonban már mintegy kétmillió nettó forintot spórolhatunk a három éves amortizációs idõszak alatt több versenytárshoz viszonyítva is, ha minden kellékanyagot és a készülék jelenleg nettó 229 ezer forintos árát is figyelembe vesszük. 
+
+A készüléket a C-Enter Kft. bocsátotta rendelkezésünkre.
+
+Véleménye van?
+szóljon hozzá a fórumban
+írjon szerkesztõségünknek!

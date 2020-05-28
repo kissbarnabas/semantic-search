@@ -1,0 +1,14 @@
+Rendkívüli frissítést adott ki a Microsoft egy különösen kritikus Windows-sérülékenység miatt
+
+Sürgõsségi javítást adott ki múlt hét csütörtökön a Microsoft a Windows operációs rendszerekben található különösen kritikus sebezhetõség miatt. Péntekre már megjelent az elsõ rosszindulatú kódok a neten a foltozatlan rendszerek támadására, ami a néhány éve magunk mögött hagyott féregkitörések újbóli megjelenését is eredményezheti.
+
+
+
+A szoftveróriás rendkívüli biztonsági frissítést tett közzé október 23-án, eltérve a megszokott ütemtervtõl, mely minden hónap második keddjére idõzíti ezek közzétételét. A döntés már önmagában is jelzi a sebezhetõség súlyosságát. A Microsoft közleménye szerint tudomásuk van célzott támadásokról, melyekben a Windows ezen biztonsági rését használják ki a támadók, aminek eredményeként átvehetik az uralmat a célgép felett, akár rendszergazdai jogosultságú felhasználókat is létrehozhatnak, és további automatizált támadásokat indíthatnak.
+
+A hiba a hálózati erõforrások kezeléséért felelõs Windows Server szolgáltatásban húzódik meg, mely megfelelõen megtervezett kommunikációval támadható túlcsordulásos technikával. A veszély abban rejlik, hogy egy megfertõzött gép a tûzfalakkal többnyire belül nem védett helyi hálózatokon terjedhet szét. A sebezhetõséget a Windows 2000, Windows XP és Windows Server 2003 esetében kritikusnak, a Vista és a Server 2008 szempontjából viszont közepesnek minõsítette a Microsoft. 
+
+
+A hiba meglétére a Microsoft úgy eszmélt rá, hogy a cég biztonsági szoftvere ártó kódra bukkant windowsos gépeken. Egyes biztonsági szakértõk szerint egyelõre nem kell kitöréstõl tartani, mely különben sem érdeke a professzionális bûnözõknek, ugyanis azzal csak felhívják tevékenységükre a figyelmet, és a szervezetek felfrissítik rendszereiket, vagy akár szigorítják biztonsági intézkedéseiket is.
+
+A jelen szerint ugyanakkor vannak próbálkozók, pénteken ugyanis már megjelentek az elsõ trójai kódok, melyek megpróbálnak féregszerûen terjedni a sebezhetõséget kihasználva. A Gimmiv.A egy variánsa például jelszavak után kutat a rendszerben, és elküldi õket a támadó egy gépére. A támadási kódok egyelõre nem túl kifinomultak, ugyanis nem hatásosak generálisan a Windowsokkal szemben, a támadónak ismernie kell a pontos verziószámot és a nyelvi lokalizációt is. Ez azonban a jövõben valószínûleg változni fog, ahogyan a támadók igyekeznek tökéletesíteni a kódot, és általánosan alkalmazhatóvá tenni, ami a hanyag módon nem patchelt rendszereken keresztül évek után egy újabb féregkitöréshez vezethet.

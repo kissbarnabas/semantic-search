@@ -1,0 +1,20 @@
+Csak jövõre oldódhat fel teljesen az Atom-hiány
+
+Nem bírja kiszolgálni Atom processzorokkal a számítógépgyártókat az Intel, az olcsó, jobbára netezésre, kommunikációs feladatokra használható netbookok gyártói ezért jobb híján kényszermegoldásokkal tudják csak kiszolgálni az igényeket. Akad olyan gyártó, amelyik az Atom helyett ezért néhány konfigurációnál az elavultabb -- és kevésbé energiatakarékos -- Celeronokat rendeli az Inteltõl, néhányan viszont kénytelenek bevállalni, hogy a processzorhiány miatt nem tudják kiszolgálni a végfelhasználói igényeket.
+
+
+
+Nem gyõzik tesztelni
+
+Sajtóértesülések szerint a problémát továbbra sem a processzor-gyártókapacitás szûkössége adja az Intelnél, a gyárak ugyanis ontják magukból a szilíciumostyákat -- a gyártási folyamat ezt követõ fázisai azonban nem tudják a lépést tartani, a szûk keresztmetszetet elsõsorban a tesztelési és a tokozási kapacitás adja. A problémára elõször júliusban hívta fel az üzleti partnerek figyelmét az Intel pénzügyi igazgatója, Stacy Smith, aki akkor a netbookok iránt mutatkozó végfelhasználói igények alulbecslésével magyarázta a hiányt, mely a jelek szerint továbbra sem enyhül.
+
+A gyártási mennyiség rövid távon jó eséllyel nem nõhet jelentõsen, a problémát minden bizonnyal az Intel egymilliárd dolláros beruházással jövõre elkészülõ vietnami tesztelõ- és tokozóüzeme oldhatja fel. A gyártó jelenlegi egységeinek kapacitása zömében a drágább, jóval nagyobb profitot termelõ asztali vagy mobil processzorok elõállítására van allokálva, elemzõk szerint éppen ezért pénzügyi szempontból nem indokolt, hogy ezt a kapacitást a jóval kisebb haszonréssel kecsegtetõ Atomok elõállítására összpontosítsák.
+
+
+A súlyosnak tekinthetõ processzorhiány mellett kérdéses, hogy a számítógépgyártók képesek lesznek az idei esztendõre tervezett mennyiséget produkálni netbookokból: a Gartner legfrissebb számai szerint az olcsó mini notebookok szállításai idén elérik az 5,2 millió darabot, mely egy nagyságrenddel több az IDC által lejelentett tavalyi 430 ezernél, ahogyan a számítógépgyártók elárasztják a piacot és egyre nagyobb figyelmet kap ez az új termékkategória.
+
+Magasra tették a lécet
+
+A tajvani Market Intelligence Center (MIC) ennél jóval több, több mint 8 millió netbook leszállítását jelzi elõre 2008-ra, mely jobban összhangban a márkák, különösen az Asus és Acer különösen agresszív célkitûzéseivel -- ez a két vállalat egyenként tervez annyi netbookot értékesíteni, mint amekkorának a Gartner a teljes piacot jelzi.
+
+A pontos fogalommeghatározás hiányában azonban netbooknak lehet tekinteni -- és az ipar minden további nélkül a netbookok közé is sorol -- olyan mini noteszgépeket is, melyek nem Atom processzorra épülnek. Így például netbook a VIA processzoros HP 2133, vagy éppen az eredetileg Celeron processzorral készült Eee PC 701 is. Az Eee PC-kkel tavaly kategóriát teremtõ Asus a nyáron két olyan netbookot is piacra dobott, melybe az energiatakarékos Atomok helyett a régebbi Celeron M-et építik (Eee PC 904HD és 1000HD).

@@ -1,0 +1,16 @@
+Feszített tempóban fejleszti a Flash platformot az Adobe
+
+A Flash Platform egy sor új fejlesztésérõl rántotta le a leplet az Adobe a most zajló MAX 2008 szakmai rendezvényen: az újdonságok közé tartozik az Adobe Flash Catalyst elõzetese és az Adobe Flex Builder Gumbo kódnevû következõ verziója. Az Adobe emellett bejelentette az Adobe AIR 1.5-ös verzióját és a nemrég megjelent Adobe Flash Player 10 beépülõ 64 bites, Linux operációs rendszerekre készült változatának alfaverzióját. 
+
+
+
+Az Adobe Flash Platform egyik most ismertetett, legfontosabb újdonsága az Adobe Flash Catalyst (korábbi kódnevén Thermo), mely a fejlesztõk célkitûzése szerint egy olyan eszköz lesz, amellyel kódolás nélkül, gyorsan építhetõ fel az alkalmazások felülete és az interaktív tartalom. A Flash Catalyst segítségével az Adobe Creative Suite 4 szoftvereiben készített grafika könnyen és gyorsan importálható az webes felületbe, azaz a különbözõ grafikai elemek egyszerûen átalakíthatók gombokká, görgetõsávokká, beviteli mezõkké vagy a felhasználói felület más elemeivé.
+
+A szoftvercég a konferencia alkalmával bejelentette, hogy elkészült az Adobe Flash Platform kulcsfontosságú komponensének, az Adobe AIR-nek a legfrissebb, 1.5-ös verziója, ezzel együtt a hét elejétõl elérhetõ a Flex Builder "Gumbo" kódnevû elõzetes verziója. Az Adobe AIR (Adobe Integrated Runtime) lehetõvé teszi webalkalmazások kapcsolat nélküli futtatását a számítógépen, a Flex pedig egy webfejlesztõ eszköz, amely segítségével weboldalakat, Flash animációkat, valamint AIR alkalmazásokat lehet készíteni.
+
+
+Az Adobe idén márciusban csatlakozott a Linux Foundation alapítványhoz, azóta igyekszik bizonyítani a platform iránti elkötelezettségét. A cég még tavasszal kiadta az AIR for Linuxot és a Flex Builder 3 for Linux alfaverzióit, ezúttal pedig Flash Player 10 beépülõmodul 64 bites Linux operációs rendszerekhez fejlesztett alfáját tette elérhetõvé az Adobe Labs webhelyen. A cég ígérete szerint az Adobe AIR for Linux végleges változata még az idén megjelenik, a Flex linuxos verziójának kiadásáról egyelõre nincs információ.
+
+A szoftverfejlesztõ és a fõ profilját tekintve okostelefonok részére processzorokat szállító ARM megállapodása értelmében a webböngészésre alkalmas mobiltelefonok szegmense felé is nyit a platform: a két cég együttmûködése révén a jövõ év második felében érkezhet az ARM-alapú okostelefonokra optimalizált Flash Player 10, illetve AIR. Az ARM processzorait több ismert mobiltelefon-gyártó használja, így az angol cég lapkái találhatók egyebek mellett az Apple iPhone-jában, a legtöbb Nokia és Samsung okostelefonban, illetve egyes BlackBerry készülékekben.
+
+Az új fejlesztések bejelentésével gyakorlatilag egy idõben az Adobe saját letöltési oldalán elérhetõvé tette az októberben megjelent Creative Suite 4 alkalmazáscsomag, illetve a csomag önálló komponenseinek 30 napos ingyenes próbaváltozatait. A próbaidõszak lejárta után a különbözõ CS4 komponensekért konstrukciótól és platformtól függõen nettó 49 ezer forinttól 339 ezer forintig terjedõ összeget kell fizetni.

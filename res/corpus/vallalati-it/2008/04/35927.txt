@@ -1,0 +1,22 @@
+Nyílt forrású komponensekkel Linux- és UNIX-szervereket is támogat a System Center
+
+A Las Vegasban zajló Systems Management Summit rendezvényen meglepõ bejelentést tett a Microsoft: a System Center Operations Manager 2007-hez elérhetõvé tette a Cross Platform Extensions kiegészítést, amely nyílt forrású komponensek segítségével valósítja meg a Linux- és UNIX-szerverek felügyeletét.
+
+
+
+Nyílt forrású szoftverek a Microsoft termékében
+
+Bob Muglia, a Microsoft Servers and Tools üzletágvezetõje szerint az ügyfelek egyik legfontosabb kérése volt a Microsofthoz, hogy a System Center termékekben tegye lehetõvé a Windowst futtató kiszolgálók mellett más szerverek felügyeletét is. Erre válaszul készült a Cross Platform Extensions, amely a nyílt WS-Management és OpenPegasus technológiákon, szabványokon alapul. A redmondi cég pusztán üzleti megfontolásból döntött ezek használata mellett. "A linuxos és UNIX-os szakértelmünk messze nem olyan mély, mint a windowsos. Ez nem triviális [feladat], és az OpenPegasus közösségben nagyon nagy linuxos és UNIX-os ismeretanyag áll rendelkezésre" -- mondta Muglia.
+
+Amennyiben egy feladatra létezik nyílt forrású megoldás, és a Microsoft egyébként sem rendelkezik házon belül a megfelelõ kompetenciával, akkor valószínûleg a nyílt kódot fogják használni -- magyarázta Muglia. A cég nem csak felhasználója lesz az OpenPegasus kódoknak, hanem az OpenPegasus Steering Committee tagjaként maga is visszajuttat kódot a közösségnek az OSI által GPLv3-kompatibilisnek elfogadott Microsoft Public License alatt. Mivel az OpenPegasus számos Linux-disztribúciónak része, a Microsoft ezáltal lényegében a Linuxot is fejleszti.
+
+
+ Más gyártók eddig is kínáltak olyan szoftvereket, amelyekkel linuxos szervereket lehetett felügyelni a System Centerbõl, azonban ezekért fizetni kellett, a Cross Platform Extensions ezzel szemben ingyenes lesz, valamint -- Microsoft-termék lévén -- sokkal jobban integrálódik a System Centerrel, és nem kell minden egyes verzióváltáskor új adaptereket is bevezetni. A Cross Platform Extensions segítségével HP-UX, Red Hat Enterprise Linux, Novell SUSE Linux Enterprise Server, valamint Sun Solaris is kezelhetõ.
+
+A Microsoft célja, hogy a vállalati rendszerfelügyeleti szoftverek piacán rövid idõn belül komoly kihívója lehessen a HP-nek, IBM-nek, a CA-nek és a BMC-nek. Több gyártó (Novell, Quest, Xandros, Apache, MySQL, IBM, Oracle) máris jelezte, hogy saját kiegészítõket dobnak piacra a Cross Platform Extensionshöz, amelyek segítségével a saját operációs rendszereik, illetve Linuxon vagy UNIX-on futó alkalmazásaik felügyelete még jobban integrálható a System Centerbe. "Erõs pozíciót vívtunk ki magunknak a Windows menedzsmentje terén, de az ügyfelek többet várnak tõlünk" -- mondta Muglia. "Ez mindenképp egy hatalmas lépés a Microsoft számára, amely Windows-fókuszú menedzsment-megoldásait vállalati szintû megoldásokká kívánja fejleszteni." 
+
+A Cross Platform Extensions a System Center Operations Manager 2007 következõ szervzicsomagjában érkezik a felhasználókhoz, teljesen ingyen és bérmentve. A Microsoft távlati terveiben szerepel, hogy a System Center felügyeleti család többi tagját is felkészítse a Windows mellett más platformok kezelésére. Brad Anderson, a Microsoft menedzsment-eszközökért felelõs vezetõje elmondta, a cég számára stratégiai terület a menedzsment-képességek kiterjesztése a windowsos világon kívülre.
+
+Operations Manager Connectors és Virtual Machine Manager béta
+
+Szintén a Systems Management Summit rendezvényen jelentette be a Microsoft a System Center Operations Manager 2007 Connectors bétájának elérhetõségét. A szoftver lehetõvé teszi a System Centerbõl kinyert adatok betáplálását HP OpenView-ba vagy IBM Tivoliba. A Connectors szintén az Operations Manager 2007 következõ szervizcsomagjának részeként érkezik a piaca, és ingyenes lesz. Szintén tegnap mutatkozott be a System Center Virtual Machine Manager 2008 bétája, amelybõl a Microsoft saját hypervisorán futó virtuális gépek mellett VMware ESX Server is felügyelhetõ, a következõ változatnak pedig már a Citrix termékekkel való integráció is része lesz. Az összes említett béta letölthetõ a Microsoft Connect oldalról.

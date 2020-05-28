@@ -1,0 +1,16 @@
+Többfunkciós hálózati eszköz érkezik a D-Linktõl
+
+Egy évek óta zajló paradigmaváltás részének tekinti a D-Link az iparág talán legsokoldalúbb otthoni hálózati eszközének bevezetését -- a DIR-825 Storage Router csakugyan egy meghatározhatatlan, eddig nem látott eszközkategóriát vezet be a piacra. A hálózati eszköz routerként és hálózati tárolóként is mûködik, de akár képeket, sõt videókat is megjelenít saját LCD-kijelzõjén.
+
+
+
+A D-Link koncepciója szerint az otthoni hálózati eszközök, így egyebek mellett a routerek ma már éppúgy a nappali díszévé válhatnak mint a médialejátszásra rendszeresített dizájnos számítógépek -- a külsõre leginkább egy digitális képkeret látszatát keltõ DIR-825 jól illik ebbe a koncepcióba. Bár a gyártónak (akárcsak több konkurensének) eddig is voltak olyan routerei, melyekre kijelzõ került, a CES-en bejelentett újdonság az elsõ, mely akár képek vagy videók megjelenítésére is használhatja a TFT-t. A D-Link egyelõre nem közölte, hogy a 3,2 hüvelykes megjelenítõ pontosan milyen felbontásban dolgozik, illetve azt sem tudni, hogy milyen médiafájlokkal kompatibilis a rendszer.
+
+
+
+A DIR-825 további érdekessége, hogy hálózati adattárolóként is munkára fogható: a routerbe egy 2,5 hüvelykes merevlemez építhetõ, akár 500 gigabájt tárkapacitásig. Ez a kapacitás a készüléken található USB-kapuhoz csatlakoztatott külsõ adattároló révén még tovább növelhetõ -- ez a port (a D-Link SharePortnak nevezi) a tárolóeszközökön kívül nyomtatókat is kiszolgál. A hálózati háttértároló (NAS) UPnP szerverként támogatja a médialejátszást, de programozott BitTorrent letöltések is kezelhetõk vele, emellett adatmentési funkciót is ellát. A router szoftvere FTP szerver-funkciót is támogat, így a készüléken tárolt fájlok, fotók, zenék bárhonnan elérhetõk akár az otthoni hálózaton, akár az Interneten keresztül.
+
+
+A D-Link most bemutatott routere a modern vezeték nélküli eszközöktõl elvárhatóan már a 802.11n szabvány tervezetével is kompatibilis, így ideális esetben akár a 300 megabit/másodpercet is elérheti az átviteli sebesség. A DIR-825 emellett négy Gigabit Ethernet porttal szolgálja ki a vezetéken csatlakozó klienseket. A router a környezettudatos mûködés érdekében számos módon csökkenti energiafelhasználását: az áramfelvételt hozzáigazítja a portokra csatlakozó eszközök állapotához és az összeköttetéshez használt kábel hosszához, kikapcsolja, illetve készenléti módba helyezi az LCD-kijelzõt, valamint idõzített beállítási lehetõséget biztosít a Wi-Fi antennához.
+
+A DIR-825 legkorábban májusban kerülhet a hazai boltok polcaira, fogyasztói ára az éppen aktuális árfolyamtól függõen várhatóan legkevesebb 85 ezer forint lesz.

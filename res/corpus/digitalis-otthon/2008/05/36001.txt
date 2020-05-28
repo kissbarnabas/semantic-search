@@ -1,0 +1,16 @@
+Parányi asztali gépet dobott piacra az MSI
+
+Az MSI a közelmúltban csapott szelet Wind noteszgépével, amelyet a hírek szerint júniusban szándékozik piacra dobni, az ASUS Eee PC vetélytársaként. Az MSI nemrég egy új asztali gépet is bejelentett, mely mini-ITX formátumú a kompakt méretek és a költségek alacsonyan tartása érdekében.
+
+
+
+Az MSI Titan 700 a Windhez hasonlóan VIA alapokra épít, így egyike lehet azon termékeknek, melyeknek hála a korábban naposabb idõket megélt chiptervezõ kissé magához térhet. A VIA 2002-ben a mini-ITX méretszabványú alaplapjainak bevezetésével nagy vihart kavart, a piac kezedeti érdeklõdését követõen azonban nem tudott tömegtermékké válni, amit fõként az ilyen formátumú PC-k teljesítményükhöz képest magas áruk magyaráz.
+
+
+ Az MSI Titan 700 olyan mini-ITX alaplap köré épül, amely bonthatatlan egységben tartalmaz egy két gigahertzen üzemelõ VIA C7 processzort. A rendszermemória alapesetben egy gigabájt, mely 2,5 hüvelykes 120 gigabájtos noteszgép merevlemezrõl tölthetõ meg. A 240x185x70 milliméteres gépházban még optikai meghajtó is van, természetesen a Titan 700-ba ez az asztali gépekbe építhetõ helyett a noteszgépekben alkalmazott, vékonyabbik típusok közül került ki és DVD lemezek írására és olvasására alkalmas. 
+
+A Titan 700-at felszerelték gigabit sebességû vezetékes hálózati csatolóval, rendelkezik négy USB 2.0 kapuval, valamint két, manapság igen ritkán fellelhetõ soros porttal is. A hátoldali hangcsatlakozókra 5.1 hangrendszer köthetõ, ezeket némítja az elõlapi sztereo fülhallgatókimenet, melyet mikrofonbemenet is kiegészít. A kép külsõ megjelenítõre érkezik, ezeket VGA és DVI kábelekkel köthetjük a számítógéphez.
+
+
+
+A billentyûzet és az egér USB mellett PS2 szabvány szerint is csatlakoztatható. A miniszámítógép sok alkatrésze származik a noteszgépes világból, nem kivétel ez alól a külsõ tápegység sem, amely külsõre sem különbözik a noteszek mellé csomagoltaktól és 60 watt kapacitású. A Titan 700 nem tartozik az olcsó megoldások közé, fõleg, ha tudatában vagyunk annak a ténynek, hogy a VIA C7M processzor teljesítmény terén csak kullog egy azonos frekvencián üzemelõ Core 2 Duo processzor mögött. Az MSI Titan 700 közel 60 ezer forintnak megfelelõ összegért vásárolható meg, ráadásul operációs rendszer nélkül.

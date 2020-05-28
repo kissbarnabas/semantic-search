@@ -1,0 +1,16 @@
+Küszöbön az új, csúcskategóriás Radeonok érkezése
+
+Az AMD hivatalosan ugyan még nem lebbentette fel a fátylat új, RV770PRO kódnevû csúcskategóriás Radeon grafikus processzoráról, azonban az ASUS és a GeCube már bemutatták a ráépülõ kártyákat, így a legfontosabb specifikációk nyilvánosságra kerültek.
+
+
+
+Az új, HD 4800-as sorozatú Radeonok családja két tagot számlál, a 4870-es és 4850-es modellbõl áll. Mindkét chipben 480 egységes shader dolgozik, azonban a 4870-es változat órajele magasabb (750 MHz), a 4850-esé alacsonyabb (625 MHz). A chipekhez tartozó memóriavezérlõ ugyan csak 256 bites, azonban a kapcsolódó memória villámgyors. A Radeon HD 4870-es kártyákra 1 gigabájt GDDR5 memória kerül, amelynek effektív órajele 3,6 GHz lesz, a 4850-es változatokon pedig 2 GHz-es GDDR3 chipek teljesítenek majd szolgálatot. 
+
+
+
+
+ A csúcskategóriás teljesítményhez a Radeon HD 4870 esetében csúcskategóriás hûtés is társul majd, de az utóbbi idõben megszokottá vált, hogy a leggyorsabb grafikus kártyákon található borda a szomszédos bõvítõhelyet is elfoglalja. A Radeon HD 4850 esetében errõl már nincs szó, ez megelégszik egyetlen bõvítõhellyel. A komoly táp azért ajánlott, az elõzetes információk szerint 450 wattos egységnél gyengébbel még Radeon HD 4850 sem indul el. Természetesen mindkét változat támogatja két kártya összekapcsolását CrossFire módban, de a hírek szerint a 4870-bõl lesz gyári "kétchipes" verzió is, 4870 X2 néven.
+
+[+]Megjelent az NVIDIA új csúcskategóriás grafikus chipje
+
+Az újdonságok ára egyelõre nem ismert, de az Amazon.com webáruházra véletlenül felkerült a Radeon HD 4850 ajánlott ára, ami 199 dollár. A pletykák alapján az erõsebbik, 4870-es változatért 299 dollár kérnek majd.

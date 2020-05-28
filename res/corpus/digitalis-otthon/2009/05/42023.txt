@@ -1,0 +1,50 @@
+Hamarosan indul a 120 megabites UPC internet
+
+A UPC Magyarország várhatóan hónapokon belül élesben is elindítja 120 Mbps sávszélességû szolgáltatását, míg a brit Virgin Media most jelentette be, hogy Ashford városában teszteli a 200 Mbps-es kábelinternetet száz lelkes felhasználó segítségével. Ugyan a pilot egyfajta éles üzemnek számít majd, az országos lefedettségre a briteknek talán a magyaroknál is többet kell várnia, hisz a szolgáltató szerint legalább hat hónapon keresztül gyûjtik majd a tapasztalatokat.
+ 
+Szûz terület a 200 Mbps
+
+A Virgin Media azt szeretné elérni, hogy nemcsak brit tekintetben, de világszinten is a leggyorsabb DOCSIS 3.0 implementációt állítsa hadrendbe, megelõzve Japánt és az Egyesült Államokat, ahol 160 illetve 101 Mbps most a csúcs. Ezek a számok persze mindig csak az elméleti maximumot jelentik, s ebben a nagyságrendben már nincs is az a gerinchálózat, ami képes lenne kiszolgálni sok elõfizetõt maximális sebességen. Elég csak, ha a felhasználók tizede kezd el Bittorrenten megosztani népszerû anyagokat és máris leeshet az átlagsebesség mindenkinél. Habár a kábeles internetkapcsolatoknál jelenleg az ígért és a valós sebesség többnyire fedi egymást, a DSL-kapcsolatokkal ellentétben, addig a jövõben a szûk keresztmetszet már nem a felhasználóknál lesz, hanem a lokális hálózat vagy a tartalomszolgáltató szervere, esetleg a gerinchálózat áteresztõképessége.
+
+
+ 
+
+Az osztott erõforrásokon alapuló architektúra lényege, hogy valóban képes minden egyes felhasználóhoz eljuttatni az ígért sebességet, de azok együttes rohama bármely pillanatban visszavetheti az sávszélességet hasonlóan ahhoz, ahogy a közutak bedugulnak, ha minden autó egyszerre közlekedik. A kábeles internet esetében minden csomópont, mely a háztartásokhoz vezet, egy közös hálózatba van kötve, s a csomópontonként több száz elérés, illetve a csomópontok összessége osztozik egy közös sávszélességen. 
+
+Az Egyesült Államokban a Verizon FiOS néven futó optikai szálas szolgáltatása esetén például 2,4 Gbps jut 32 otthonra, ami teljes terhelés esetén máris csak 76,8 Mbps végpontonként. Bár a valós használati szokásokat figyelembe véve ez még teljesen elfogadható, szinte kizárt, hogy az ígért sebességet ne tudják adott pillanatban mindenkinek nyújtani. A DOCSIS 3.0 szabványt használó kábelhálózatokon viszont kevesebb, néhány száz megabit sávészélességen osztozik akár több tíz vagy száz háztartás. A tervezés figyelembe veszi, hogy még csúcsidõben sem jellemzõ, hogy a kapacitások több mint 10 százaléka lenne kihasználva, így mindenki elégedett lehet.
+
+120 megabit a magyaroknak is
+
+Szûcs László, a UPC Magyarország kommunikációs igazgatója a HWSW-nek elmondta, hónapokon belül itthon is elindul az EuroDOCSIS 3.0 szabványon mûködõ szolgáltatás, ami maximum 120 Mbps sávszélességet kínál majd egy-egy felhasználónak. Arról még nem született döntés, hogy ezeknél a csomagoknál hogyan arányul majd egymáshoz a maximális és a garantált sávszélesség, de elképzelhetõ, hogy megmarad a jelenlegi célkitûzés, ami a legnagyobb sebesség felében határozza meg a mindenképp tartandó szintet.
+
+A hálózat egyébként Szûcs elmondása szerint már most is készen áll, a UPC az elmúlt idõszakban Budapest teljes területén lecserélte központi egységeit az EuroDOCSIS 3.0-t is támogató eszközökre, a szolgáltatás publikus bevezetése után mindössze a felhasználói oldalon lévõ modemek cseréjére lesz szükség. Mivel az új szabvány lefelé kompatibilis, s ugyanazon hálózaton képes mûködni, ezért sem kábelcserére, sem egyéb átalakításra, útfelbontásra nem lesz szükség a késõbbiekben sem.
+
+Jogos persze a félelem, hogy amennyiben a 120 megabites felhasználók rászabadulnak a hálózatra, akkor a terheltség és a többi felhasználó szolgáltatási minõsége mennyiben változik meg. Szûcs László szerint a UPC-n belül van egy nemzetközi szinten alkalmazott gyakorlat, miszerint ha a hálózat átlagos terheltsége elér egy bizonyos küszöböt, akkor arra területre megrendelik az új eszközöket és a szükséges fejlesztéseket, majd egy következõ küszöbérték elérésekor azonnal be is építik azokat, így hosszú távon nem lehetnek problémák. Ez persze nem zárja ki, hogy alkalmanként egy adott idõsávban egy körzeten belül ne fordulhatna elõ érezhetõ lassulás.
+
+Az EuroDOCSIS 3.0 szabványú kábeles internetes terveirõl a HWSW megkérdezte a Magyar Telekomot is, de a cég egyelõre nem reagált a megkeresésünkre. A nagy sávszélességet a Magyar Telekom hálózatán belül jelenleg az 50/25 Mbps-es optikai kapcsolat jelenti, de a cég az optikai hálózat bõvítésével egy idõben megkezdte
+kábelhálózatának továbbfejlesztését az újabb szabványnak
+megfelelõen. Az T-Home szolgáltatásválasztékában az Optinet
+díjcsomagokkal együtt megjelent az elsõ olyan kábelnet-elõfizetés, mely
+kihasználja az új technológiában rejlõ lehetõségeket. A Kábelnet Extra
+díjcsomag letöltési irányban jelenleg maximum 25, feltöltési irányban pedig
+maximum 4 megabit/másodperces sávszélességet kínál.
+
+De!
+
+Abban az esetben, ha néhány felhasználó aktív fájlcserélõként tevékenykedik, akkor valóban képesek akár folyamatosan lassítani minden egyéb felhasználót. Ez természetesen kezelhetõ, ahogyan a világ legtöbb kábelszolgáltatója, többek közt a magyarországi UPC is megteszi. A folyamatos fejlesztések mellett az extrém esetek elkerülése végett priorizálni kell a forgalmat. A valós idejû szolgáltatások elsõbbséget élveznek, úgy mint a webböngészés, VoIP alkalmazások vagy az online játékok, míg a fájlcsere hátrányba került.
+
+Abban az esetben viszont, ha a web és a felhasználói szokások fejlõdése nem változik meg, akkor nem kellenek illegális letöltõk, hisz a YouTube és a hozzá hasonló videoszolgáltatások, a zenei szolgáltatások önmagukban képesek lesznek eltömíteni az osztott erõforrásokra épülõ hálózatokat.
+
+Szerva itt, csere ott
+
+A teljes sebesség épp annyi lesz, mint a leglassabb kapocs sebessége. Hiába van a szolgáltatóig villámgyors elérés, ha a nemzetközi vonalak túlterheltek vagy épp a célszervert rohanták le a felhasználók. Egyre több webes szolgáltatás küzd azzal, hogy a hirtelen jött népszerûséget képtelenek lekövetni szerver erõforrással, sávszélességgel, de mégsem ez lesz a legszûkebb keresztmetszet.
+
+
+ 
+
+
+
+
+Az ígért 200 Mbps sávszélességet a modemen túl szinte semmilyen otthoni használatra tervezett hálózati eszköz nem lesz képes továbbvinni, sõt a legtöbb esetben ennek közelébe sem érnek majd. A mai otthoni vezeték nélküli eszközök 802.11g szabványúak, ami névlegesen 54 Mbps átvitelre képes, de még a továbbra sem véglegesített 802.11 draft-n is alig több mint 100 Mbps-t tud. A vezetékes routerek, illetve hálózati kártyák között ugyan akadnak 1 Gbps-es eszközök, de többnyire valamelyik eszköz csak 100 Mbps-t tud, így szintén leszûkülnek a lehetõségek és az ígért 200 Mbps soha nem lehet meg elméletben sem.
+
+Így nem kell még kábelzajról, túlterheltségrõl, lassú külföldi vonalakról sem beszélni, hogy rájöjjünk, a megabit-háború lassan véget kell érjen. Már néhány tíz megabit felett is értelmezhetetlen a legtöbb felhasználó számára a sebességkülönbség, de a szolgáltató és a felhasználó lakásában lévõ modem közti több mint 100 Mbps-es sávszélesség csupán arra lesz garancia, hogy nem az ISP-n múlik a lassulás.

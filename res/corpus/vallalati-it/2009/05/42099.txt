@@ -1,0 +1,11 @@
+Üzleti intelligencia villámgyors kulcsszavas keresésekkel - Explorer az SAP-tól
+
+A nevébõl sejthetõen az Explorer célja, hogy nagy mennyiségû adatot gyorsan át lehessen fésülni vele. Az Explorerrel egyszerû kulcsszavas kereséseket is indíthatunk akár, melyekkel az üzleti intelligencia rendszerben található adatok közt kutakodjunk. A szoftverrel az SAP azt ígéri, hogy felhasználók egyfajta önkiszolgáló adatgyûjtést és elemzést végezhetnek elõre nem strukturált lekérdezések nélkül, melyek behatárolják az alkalmazottak és vezetõk mozgásterét, és a meglévõ adatok nagy részét nem dolgozza fel. 
+Az Explorer felhasználói szempontból leginkább a webes kereséshez hasonlít, ahol többnyire számokból és rövid szöveges információkból épülnek fel a válaszok. A találatokat segítik, hogy a keresés a metaadatok segítségével és az adatok többnyire strukturált tárolása segítségével jó eséllyel releváns találatokat ad, sokkal inkább, mint a weben. A megközelítés újszerûnek ha az üzleti intelligencia világában, ahol korábban elõre fel kellett építeni a riportokat, modellezéseket, amihez a speciális szakértelem mellett az adat lelõhelyének ismerete is kellett. Az Explorer lényegében szabadságot kíván adni a Business Objects felhasználóinak, ezt pedig automatizált kimutatásokkal, grafikongenerálással igyekszik segíteni.
+
+
+Az Explorer felülete
+
+
+
+Technikailag az Explorer az SAP NetWeaver Business Warehouse adattárház környezetben kutakodik, melyet késõbb a tervek szerint kiterjeszt a vállalat a cégnél található összes információra, legyen szó adatbázisokról, alkalmazásokról vagy a Business Objects Text Analysis által feldolgozott strukturálatlan dokumentumokról. Az Explorer SAP BusinessObjects XI 3.1 platformot követel meg. A SAP bejelentésével egy idõben a HP elõre konfigurált csomagot jelentett be, melyben blade-rendszerre telepítve érkezik az Explorer és Business Warehouse Accelerator, mely a gyors válaszadás érdekében a memóriában dolgozza fel a lekérdezéseket. Az Explorer várhatóan június 15-én érkezik, részletek a szoftverek vagy a HP hardverek árazásáról akkor várhatóak.

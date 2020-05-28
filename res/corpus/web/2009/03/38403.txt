@@ -1,0 +1,16 @@
+Google: mostan színes találatokról álmodom
+
+A Google képkeresõ szolgáltatása eddig is hasznos eszköz volt, de a fejlesztõk bõvítik a lehetõségeket, amivel pontosabbá válik a keresés. Alex Chitu, vezetõ Google-mérnök blogjában a napokban arról számolt be, hogy elérhetõvé vált egy olyan opció, amivel a találatokat színek szerint is szûrni tudjuk.
+
+
+
+Ha valaki egy piros virágról szeretett volna képet, akkor beírta, hogy "red flower", a találati listában pedig megjelent a piros virágok mellett a red flower büfé képe is, azon virágok viszont, melynek fájlnevében vagy szövegkontextusában nem tértek ki arra, hogy piros, kimaradtak. Azzal, hogy a keresõ a fotók domináns színét elemzi és veszi alapul a találatok rendezésénél, a relevancia sokat javul.
+
+A fejlesztés még nem érhetõ el egyszerû 1-2 kattintásos módszerrel,  egyelõre csak a találati oldal URL-jének barkácsolásával lehet színre szûkíteni. A keresõsorban bármelyik elem mögé a "&imgcolor=black" kifejezést illesztve a találatokat csak a dominánsan fekete képekre tudjuk szûkíteni. A black persze felcserélhetõ még a red, blue, green, teal, purple, yellow, orange, pink, white, gray és brown színekkel. A keresési szó bármilyen nyelvû lehet, az URL-be viszont angolul kell írni a színeket.
+
+Legyen piros 
+
+
+Az algoritmus megdöbbentõen precíz eredményeket ad, persze meg lehet izzasztani, ha szándékosan olyan szín illetve tárgy kombinációját kérjük tõle, ami ritkán fordul elõ. Ezzel lehet viszont tesztelni, ilyenkor ugyanis gyakran olyan képet kapunk, amin a kért tárgy szerepel ugyan, de a háttér olyan színû mint amire kerestünk. Aki nem elégszik meg  egy színnel, az definiálhat többet is, ilyenkor a kért színek mindegyike szerepel majd dominánsan a képen.
+
+A Google képkeresõje korábban is képes volt már a fotókat vizsgálva szûkíteni a lehetõségeket, ki lehetett választani például, hogy a találatok között fotók, arcok vagy rajzok szerepeljenek-e, illetve színes, fekete-fehér vagy szépia legyen-e. A most bevezetett funkció a Picasa 3-ban is szerepelt már, valószínûleg onnan dolgozták át az internetes képkeresõbe, ami akár azt is sugallhatja, hogy a késõbbiekben a Picasa több funkciója is átkerülhet a Google-be.

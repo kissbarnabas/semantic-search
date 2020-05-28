@@ -1,0 +1,12 @@
+Az OpenDNS a közösség segítségét kéri a webtartalom szûréséhez
+
+Az OpenDNS egy közösségi alapokon nyugvó webtartalom-szûrõ szolgáltatást tervez bevezetni, amely a PhisTankhoz hasonló módon a felhasználók segítségét venné igénybe a potenciálisan veszélyes vagy tiltott tartalmat hordozó weboldalak kategorizálásához.
+
+
+
+A 2006-ban elindított PhishTank a felhasználók visszajelzései alapján "dönti el" a weboldalakról, hogy valódiak, vagy csak adathalász támadások kivitelezésére hozták-e õket létre. A PhishTank adatbázisa alapján mûködik több phishing-szûrõ is, például a Yahoo és a Mozilla. Az OpenDNS ugyanezt a modellt használná a webtartalom-szûrõhöz, amelyben a felhasználók kategorizálhatják a valamilyen szempontból problémás oldalakat a tartalmuk szerint (pl. szerencsejáték, pornó, gyûlöletkeltés). Kezdetben 30 különféle kategória áll majd rendelkezésre, de a számukat késõbb bõvíteni lehet. A felhasználók egymást is "osztályozhatják", így aztán kiszûrhetõk azok, akik készakarva próbálják meg torzítani a rendszert.
+
+A webtartalmat nem csak a dolgozók munkaidejét szigorúan a vállalati ügyek felé fókuszáló cégek szeretik szûrni, akár otthoni felhasználók vagy iskolák, oktatási intézmények számára is hasznos lehet, ha például távol akarják tartani a gyerekeket a számukra károsnak gondolt oldalaktól. Az OpenDNS szerint a közösségi visszajelzésen alapuló módszer a leghatékonyabb a tartalom szûrésére, hiszen felhasználók tízezrei ellenõrzik az oldalakat, ráadásul a rendszer teljesen valós idejû, ellentétben más szûrõkkel, amelyek csak ritkábban, például naponta frissülnek. Ráadásul a közösségi szûrõ ingyenes, senkinek sem kell "védelmi pénzt" fizetnie.
+
+
+Az OpenDNS 2006 óta mûködteti gyors és  ingyenes névfeloldási szolgáltatását, a vállalat a költségeit reklámokból fedezi, amelyek akkor jelennek meg  a felhasználóknál, ha rossz, nem létezõ webcímet gépelnek be a böngészõbe. A phishing oldalakat blokkoló szolgáltatáshoz hasonlóan a tartalomszûrõt is azok tudják majd igénybe venni, akik a vállalat által mûködtetett DNS-szervereket használják a címek feloldására. A hálózati adminisztrátornak csupán be kell állítania, milyen jellegû oldalakat kíván szûrni, innentõl a többi már az OpenDNS, és a közösség dolga.

@@ -1,0 +1,12 @@
+Olcsóbb nyomtatás szoftverrel: megjelent a Canon uniFLOW Output Manager 4.0
+
+A Canon bemutatta nyomtatáskezelõ rendszere, a uniFLOW Output Manager legfrissebb, 4.0 verzióját. Az NT-Ware által fejlesztett megoldás biztonsági szempontból is hatékonyabb nyomtatás-felügyeletet biztosít. Univerzális felügyeleti eszközként az uniFLOW Output Manager 4.0 egyszerre kezeli a PCL és Postscript nyomtatókat és tippet is ad az olcsóbb nyomtatáshoz
+ 
+
+
+A nyomtatás felügyelete lehetõvé teszi a vállalkozások számára, hogy hatékonyabbá tegyék nyomtatási folyamataikat és így költségeket takarítsanak meg. Az uniFLOW rendszer újdonsága, hogy a felhasználók PCL- vagy Postscript eszközre is nyomtathatnak egyetlen univerzális nyomtató-illesztõprogrammal, így egy heterogén eszközparkot kezelhetnek egységes keretben. A gyártó a kezelhetõségben is javulást ígér, mivel az uniFLOW OM 4.0 My Print Anywhere funkciója segítségével a nyomtatási feladat elindításakor nem kell foglalkoznunk azzal, hogy az eszköz PCL vagy Postscript rendszerû, az új univerzális illesztõprogram kezeli a kimeneti konverziót.
+
+
+ Biztonságos központi kiszolgálóról nyomtathatják ki dokumentumaikat a felhasználók, a nyomtatás a multifunkciós eszközrõl kezdeményezhetõ. Megtekinthetõ a nyomtatási elõnézetet, módosítható a példányszám, befejezõ mûveletek és alternatív tintabeállítások &#8211; színes vagy fekete-fehér &#8211; is felülbírálhatók anélkül, hogy vissza kellene térni a számítógéphez.
+
+Felugró üzenetet küld a uniFLOW OM 4.0 egy, amely mutatja minden egyes feladat költségét, és kijelöli az alacsonyabb költséggel nyomtató alternatív berendezést. Ezzel az információval a felhasználó adott feladat végrehajtására a leginkább költséghatékony nyomtatóeszközt választhatja ki. A uniFLOW OM 4.0 integrálható az elterjedt eCopy dokumentumkezelõ csomaggal, ami az eCopy Secure Print Client révén lehetõvé teszi a kiszolgálón tárolt nyomtatási feladatok ellenõrzését.

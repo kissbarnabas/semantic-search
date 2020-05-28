@@ -1,0 +1,10 @@
+Jövõ héten jön az ötödik VMware közösségi találkozó
+
+Az immár ötödik alkalommal, Budapesten megrendezett VMware közösségi találkozó következõ állomásán a Cetelem Bank virtuális infrastruktúrájának üzemeltetésérõl hallgathatunk egy elõadást, mely a bevezetés körülményeirõl és két év üzemeltetés tapasztalatáról szól majd. Megjelenik majd a Symantec egy képviselõje is, aki a cég Veritas tárolószoftvereinek képességeit taglalja majd.
+A szervezõ VMware User Group igyekezett a korábbi látogatókat is megfogni azzal, hogy az elõzõ találkozókon tárgyalt Power Shell szkriptelési technikákat most a gyakorlatba ültetve mutatják be az elõadók, néhány példán keresztül, melyek megkönnyítik az adminisztrátorok életét. Az ebédszünetet követõen délután az áprilisban megjelent vSphere 4 kerül terítékre, ahol három prezentációban az új hypervisorra épülõ virtuális infrastruktúra hálózati, tároló és szerveroldali képességeit taglalják az elõadók, élõ demókkal támasztva alá az elméletet.
+
+A következõ találkozón megjelenik a fórumszekció, ahol a résztvevõk dobhatnak be kérdéseket, témákat megvitatásra, akár a mindennapi üzemeltetési problémákról. Hogy a szervezõk és az általuk elhozott többi szakember megfelelõ válasszal tudjon szolgálni, a kérdéseket elõre is beküldhetjük. A VMUG 5. találkozójára is szokás szerint regisztrálni kell, ami természetesen ingyenes. További információ a VMUG honlapján.	     
+                  
+                  
+                  
+                   

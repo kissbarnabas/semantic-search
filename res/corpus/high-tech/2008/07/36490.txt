@@ -1,0 +1,25 @@
+Új technológia csökkentheti az LCD-k fogyasztását
+
+[Ars Technica/HWSW] A jelenleg széles körben elterjedt LCD-technológia alapjaira építõ, a mostani paneleknél jóval hatékonyabb kijelzõket lehetne építeni azzal az új módszerrel, melynek fejlesztését a Microsoft és a Washingotni Egyetem szakemberei közösen végzik. 
+
+
+
+A fejlesztés célja, hogy végül létrejöhessen egy olyan, alapvetõen olcsón elõállítható kijelzõtípus, mely csökkentett energiájú háttérvilágítás mellett is kellõ fényerõvel rendelkezik -- ez fõleg a noteszgépekbe épített megjelenítõk számára jelentheti a potenciális fejlõdési irányt, a gépek akkumulátoros rendelkezésre állásást egy energiatakarékosabb kijelzõvel ugyanis jelentõsen növelhetnék a gyártók.
+
+Legyen világosság!
+
+A hordozható számítógépekben és más területeken manapság alkalmazott LCD-k a technológia sajátosságaiból fakadóan a beépített háttérvilágítás teljes fényének csupán 5-10 százalékát engedik át, vagy megfordítva; a fénycsövek által kibocsátott fény 90-95 százalékát elnyelik. 
+Tekintve, hogy a noteszgépek egyik legtöbbet fogyasztó komponense a kijelzõpanel (mely akár a gép teljes áramfogyasztásának 30 százalékát is adhatja), a fénycsövek leszabályozása kézenfekvõ módszer lehet a fogyasztás csökkentésére, ehhez azonban elõbb egy olyan szûrõréteget kell kifejleszteni, mely képes a jelenleginél több fényt átengedni. A kutatók most tükrös teleszkópok mintájára építették fel azt pixeltechnológiát, mely a háttérfény mennyiségének legalább 36 százalékát átengedi -- késõbb ráadásul, a fejlesztés elõrehaladtával még jobb eredményekkel kecsegtet.
+
+A telescopic pixelnek nevezett technológia esetében mindegyik pixelnél két, egymással szemben elhelyezett, alumíniumból készült tükröt alkalmaznak, melyek közül az egyik az üvegszubsztrátumra ragasztott átlátszó, indium-ón-oxid vezetõrétegbe juttatott elektromos impulzus hatására képes megváltoztatni a formáját. A pixel kikapcsolt állapotában a két tükör párhuzamos egymással, így minden fény visszaverõdik a fényforrásra, bekapcsolt állapotban azonban a külsõ üvegfelülethez közelebb elhelyezkedõ elsõdleges tükrök olyan szögben hajlanak meg, hogy a visszavert fényt éppen a másodlagos tükörre fókuszálják. A második tükör ezután az elsõdleges tükörbe litográfiai eljárással mart 20 mikrométer átmérõjû résen át továbbítja a fényt az üvegszubsztrátumon keresztül a külvilág felé. Az így készült pixelek átmérõje 100 mikrométer.
+
+a) kikapcsolt pixel, b) bekapcsolt pixel
+
+Az új technológiával végzett kezdeti tesztek, mérések ígéretes eredményekkel szolgáltak: a mérések szerint a telescopic pixel révén a kijelzõ háttérfényének jóval nagyobb hányada jut át a pixelrétegen -- egyes becslések szerint a további fejlesztéseknek köszönhetõen a jövõben elérhetõ az 56 százalékos fényáteresztõ képesség is ezzel a módszerrel. Egyes számítások alapján csak ez önmagában akár háromnegyed óra plusz akkumulátoros rendelkezésre állást jelenthet egy mai modern, átlagosan ötórás telepes üzemidõvel bíró noteszgépnél.
+
+Olcsó, gyors, fakó
+
+
+Az LCD technológiára építõ, ennélfogva viszonylag költséghatékonyan elõállítható panelek ráadásul jóval gyorsabbak is, mint a mostani, legjobb esetben 2-10 milliszekundumos válaszidõvel rendelkezõ társaik: a telescopic pixel révén a válaszidõ 1 milliszekundum alá szorítható (a kezdeti tesztek során 0,625 milliszekundumot mértek a mérnökök).
+
+A jelenlegi prototípusok egyetlen -- ám kétségtelenül legnagyobb -- hátránya a csapnivalóan rossz kontraszt: az elsõ kísérleti példányok kontrasztaránya mindössze 20:1-hez volt, ám a technológiában a késõbbi fejlõdés során a kutatók szerint rejlik annyi lehetõség, hogy ezt a hátrányt teljesen ledolgozza, így akár a mai modern LCD-khez ilyen szinten is felérõ, 800:1-hez kontrasztarányú kijelzõk is építhetõk lesznek rá.

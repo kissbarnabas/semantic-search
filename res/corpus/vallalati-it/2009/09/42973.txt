@@ -1,0 +1,11 @@
+Már a HP ProLiantek is kaphatók SSD-vel
+
+A HP tegnap bejelentette, hogy ProLiant G6 és egyes ProLiant G5 szervereit merevlemezek mellett SSD-vel is szállítja. A vállalat EVA tárolóiban már tavasz óta megtalálhatók voltak a szilárdtest-meghajtók, de a világ legnépszerûbb szervercsaládjában most elõször érhetõk el.
+A HP számára a Samsung szállítja az SSD-ket. A két vállalat állítása szerint hosszú hónapokig dolgoztak azon, hogy a meghajtók kontrollerének vezérlõszoftverét (fimrware) a HP igényeihez igazítsák, vagyis a ProLiantekbe nem pont ugyanolyan Samsung SSD-k kerülnek, amiket egyébként a boltokban meg lehet vásárolni. A felhasznált SLC (single level cell), azaz cellánként 1 bitet tároló SSD-k másodpercenként 230 megabájtos szekvenciális olvasási és 180 megabájtos írási sebességre képesek, olvasási mûveletbõl egy másodperc alatt akár 25 ezer is végrehajtható, írási mûveletbõl a maximum 6 ezer ugyanennyi idõ alatt. Összehasonlításképp: egy small form factor, azaz 2,5 hüvelykes, percenként 15 ezret pörgõ merevlemez másodpercenként 200-300 írásra vagy olvasásra képes, szekvenciális írási és olvasási sebessége pedig másodpercenként 100 megabájt körül van.
+
+A ProLiant szerverekbe a Samsung 60 és 120 gigabájtos, 3 Gbps SATA felületû flashmemóriás meghajtóit lehet rendelni, igénytõl és a pénztárca vastagságától függõen akár 24 darabot is, már amennyiben az adott ProLiant tud ennyi egységet fogadni. Az SSD-k keverhetõk is a merevlemezekkel, így egy szerveren a különféle feladatokhoz különbözõ meghajtókat lehet használni. A két cég szerint az SSD-k használatával egyes lemezmûveletek sebessége akár 40-50-szeresére is gyorsulhat, ami hatalmas lökést adhat a szerver teljesítményének I/O-intenzív feladatoknál.
+Az SSD-k használatával egyben az is lehetõvé válik, hogy a korábbinál kisebb fizikai méretû és fogyasztású szervereket használjanak a cégek, mivel egyetlen flashmemóriás meghajtó több tucat merevlemezt tud kiváltani, így adott esetben nem kell egy nagyobb méretû, több meghajtó fogadására alkalmas gépet vásárolni. A ProLiant G6 és G5 rendszerekhez kínált SSD-k árától sem a HP, sem a Samsung nem közölt információkat.	     
+                  
+                  
+                  
+                   

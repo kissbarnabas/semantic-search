@@ -1,0 +1,22 @@
+Kelet-Közép-Európában még tartja magát a szerverpiac
+
+Az EMEA (Európa, Közel-Kelet, Afrika) régióban 3,8 százalékkal csökkent a szerverpiac értéke a harmadik negyedévben és így 4 milliárd dollárt tett ki -- derül ki az IDC elemzõcég által nyilvánosságra hozott adatokból. Ez volt a legnagyobb visszaesés 2005 vége óta, bár a leszállított gépek száma 4,9 százalékkal növekedett, és 650 ezer darabra rúgott. 
+
+
+
+Jól tartotta magát Kelet-közép Európa
+
+Nyugat-Európában esett vissza legjobban a szerverpiac, éves szinten 7,6 százalékos volt a csökkenés és az eladási darabszámok is apadtak, bár mindössze 0,6 százalékkal. Ez egyértlemûen a gazdasági körülmények rosszabbodásának tudható be: Nathaniel Martinez, az IDC európai vállalati szerverekért felelõs vezetõje szerint a válság hatására a cégek csökkentik a beszerzéseket és csak a kritikus fontosságú, leggyorsabb megtérülést hozó területeken költenekk. A nagy szervezetek átfogó elemzéseket készítenek mielõtt döntetének, a projektek többsége pedig nem a kapacitásbõvítést, hanem a költségek csökkenését célozza.
+
+
+ Közép- és Kelet-Európában azonban a szervereladások még 9,7 százalékkal bõvültek, térségünk ezzel a teljes EMEA bevételének 14,6 százalékát adta a harmadik negyedévben. A közép-kelet európai országokban még fejlõdnek a piacok, sok az infrastruktrurális beruházás az olyan országokban mint például Románia -- ennek bizonyítéka hogy a RISC-szerverek eladásai nagyobb ütemben bõvültek az x86-os kiszolgálókénál, elõbbi szegmens 22 százalékos, utóbbi 16 százalékos bõvülést produkált.
+
+Az x86-os szegmensben 6 százalékkal nõtt a leszállított gépek száma, a gyártó bevétel eközben 1,7 százalékkal apadt, ahogy a gépek egyre olcsóbbak lettek. Az összes leszállított kiszolgáló 96 százaléka, több mint 600 ezer gép x86-os volt, ezek adták a piaci forgalom több mint 55 százalékát. A nem x86-os szerverek forgalma 6,3 százalékkal csökkent, a leszállított rendszerek száma pedig 16 százalékkal zuhant, ahogy a vállalatoknál a válság hatására megtorpant a bõvítési kedv. Az Itanium-alapú gépek eladásai ennek ellenére 16,3 százalékkal növekedtek, míg a hagyományos RISC-architektúrákra épülõ szerverek forgalma 15,5 százalékkal zuhant.
+
+A válság a Windows Server malmára hajtotta a vizet, a Microsoft operációs rendszere 2 százalékponttal növelte részesedését, miközben némileg meglepõ módon a Linuxra épülõ szerverek forgalma enyhén csökkent. Az EMEA régióban eladott gépekbõl a linuxos konfigurációk bevételarányosan 15,3 százalékot tudtak kihasítani. Nagyot lépett még elõre az IBM z/OS, leginkább néhány kelet-európai mainframe-vásárlásnak köszönhetõen. A UNIX-alapú gépek forgalma 5,7 százalékkal esett. A blade-ek népszerûsége töretlen, ma már a teljes szerverforgalom 12 százaléka folyik be ilyen gépekbõl.
+
+Jól járt a HP, bukott a Sun és a Fujitsu Siemens
+
+A gyártók rangsorát az EMEA régióban a HP vezeti, a ProLiantek és az Integrityk egyaránt jól szerepeltek a harmadik negyedévben, ennek köszönhetõen a cég 2,4 százalékkal növelni tudta szerverforgalmát, bevételarányos részesedése megközelítette a 40 százalékot. Az IBM a piaccal együtt csökkent, a Nagy Kék ezzel megtartotta 27,4 százalékos részesedését. Világszinten a Dell a harmadik legnagyobb szervergyártó, az EMEA régióban azonban még a Suné a bronzérem, bár a cég szerverforgalma több mint 10 százalékkal csökkent. A Sun Microsystems ezzel 10,4 százalékos részesedést tudott megkaparintani.
+
+A nagy gyártók közül a Dell volt a második, amely növelni tudta bevételeit a harmadik negyedévben, a texasi cég 1,5 százalékkal több forgalmat bonyolított az EMEA régióban mint egy éve, így a piaci részesedése 9,5 százalékra erõsödött. Az idõszak nagy vesztese a Fujitu Siemens volt, a németek által nemrég elhagyott vállalat 19,9 százalékos mélyrepülést produkált és ezzel 6,9 százalékra csökkent a részesedése az EMEA régióban. A Fujitsu Siemens szereplése elsõsorban a német piac megtorpanásának tudható be valószínûleg.

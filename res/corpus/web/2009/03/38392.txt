@@ -1,0 +1,61 @@
+Kipróbáltuk: Prezi.com -- viszlát, PowerPoint!
+
+A Kitchen Budapest, illetve a Magyar Telekom emlõin cseperedõ Prezi igazi iskolapéldája annak, hogyan kell informatikai vállalkozást indítani. A két alapító, Somlai-Fischer Szabolcs  és Halacsy Péter, egy "világklasszis dizájner és egy igen jó számítástechnikus", ahogyan magukat aposztrofálják a szolgáltatás weboldalán, négy évvel ezelõtt úgy érezték, hogy a slide-alapú prezentációkészítés szûk ketrec az igényekhez képest.
+
+
+ 
+
+A Zui Labsot megalapítva neki is álltak egy igazi alternatívát kidolgozni a fenti problémára, s azóta csiszolgatták, alakították, s az idõközben 8 fõsre duzzadt csapat mostanra elõ tudott állni egy nemzetközi érdeklõdést is vonzó, eredeti termékkel, ami nem csak más, mint az eddigi PowerPoint--világ, hanem hogy megfelel a kor igényeinek, s él az internet és a közösségi funkciók lehetõségeivel is.
+
+Diavetítõ, menj a floppy után!
+
+A diavetítõ az 50-es, 60-as években élte fénykorát, de ez után még nagyon sokáig életben maradt, s a Kodak is csak 2004-ben fejezte be végleg az ilyen eszközök gyártását. A technológia fejlõdésével viszont nem járt együtt a módszer evolúciója, s a Microsoft PowerPointja konzerválta a korábbi technikai akadályok határai mentén kialakult módszert, az egymás után következõ slide-okat.
+
+
+ 
+
+A Prezi éppen ezt az alapvetõ korlátot rombolja le elsõként, ugyanis itt nincs dia, lap, oldal vagy bármely más korlátozó dimenzió. A szerkeszthetõ felület egy szinte végtelenségig zoomolható felület, amiben szabadon lehet mozogni. A felület akár lehet akár focipályányi is, amit teleírhatunk de akár egy felirat betûinek réseibe is el lehet rejteni az elõadás egyes részleteit, melyre a kellõ pillanatban fókusz kerül.
+
+A szabadon navigálható felület mellett az innováció része, illetve a diaképsor linearitását helyettesítõ megoldás, az útvonal, azaz path funkció. Miután kész a szerkesztés, összeálltak az objektumok a kívánt rendszerbe, kijelölhetünk egy kiindulópontot, majd innen indítva egy útvonalat, ami mentén végig lehet vezetni a prezentációt. Minden esetben egy objektumhoz lehet kötni az állomásokat, ami lehet egy sor szöveg is akár vagy kép, videó, de a nagyobb átfogás érdekében kereteket is rakhatunk a felületre. Ezek ugyanúgy viselkednek, mint bármelyik objektum, s ehhez kötve az útvonalat, fixálható a nézõpont.
+
+Készségszintû, szinte játék
+
+A szerkesztõ  egyszerû, készségszinten használható, amiért külön dicséret illeti a fejlesztõket. A bonyolult menüket mellõzve a bal felsõ sarokban kapott helyet az a néhány kategória, melyen belül az eszközök elhelyezhetõek, s 2-3 kattintással bármelyik funkció elõvarázsolható, a rutinos felhasználók pedig a megfelelõ billentyûkombinációk segítségével gyorsíthatják fel a munkájukat.
+
+
+ 
+
+Az objektumok kezelése sem nehéz, legyen szó akár szövegrõl, képrõl, videóról, vonalakról vagy keretrõl. Bármelyikre kattintva ugyanazt a három gyûrûbõl álló kezelõt kapjuk, amik közül a belsõ rész áthelyezésre való, a középsõ átméretezésre, a külsõvel pedig forgatni lehet az objektumot. Ugyan egyelõre csak arányos nagyítás került a programba, de ennek ellenére a három lehetõség kombinációjával szinte bármilyen eredmény elérhetõ, s a kombinációk száma végtelen.
+
+Egyelõre kreatív minimalista
+
+Az eszköztár természetesen nem olyan gazdag, mint a PowerPoint esetében, s ugyan elképzelhetõ majd a jövõben jelentõs változás ezen a téren, de a Prezi inkább a felhasználó kreativitására alapoz, s kevésbé hagyatkozik arra, hogy az elõadó számára az lenne a fontos, hogy ezerféle nyilacskát, házikót, pöttyöt vagy keretet, hat féle szaggatott vonalat kínáljon. A HWSW tesztjei még a nem végleges béta változaton folytak, s több esetben keltett a szerkesztõ hiányérzetet, de ezek Farkas Szilveszter, vezetõ fejlesztõ szerint fokozatosan eltûnnek majd.
+
+
+ 
+
+
+ Az egyik hiányosság, hogy a jelenlegi változat mindössze 8 elõregyártott stíluscsomagot kínál fel a próbálkozóknak, s sem betûtípust, sem színeket nem lehet váltani. Farkas Szilveszter a HWSW-nek elmondta, hamarosan frissül a szoftver, s a végleges változatban jóval több alapstílus lesz majd fellelhetõ, illetve a felhasználók pár kattintással összeállíthatnak maguknak saját sablont színekbõl és betûtípusokból, hátterekbõl.
+
+Multimédia, helló!
+
+Képmanipuláló rész is kerül majd a szerkesztõbe, amivel intelligens módon lehet körbevágatni, maszkolni, forgatni a képeket. Jelenleg csak lementett videókat képes beilleszteni a szerkesztõ, de a végleges változatban YouTube- és Flickr-integráció is lesz. A videó- és a hangbeillesztés kezelése viszont még elég kezdetleges, s a Prezi fejlesztõinek most nem is ennek csiszolása a legfontosabb feladata, hanem a webes felület véglegesítése, ami kezelni fogja majd az elõfizetéses rendszert, illetve a közösségeket is.
+
+
+ 
+
+Mivel a Prezi egy internetes szolgáltatás, ezért a számítógépre semmilyen programot nem kell letölteni, nem kell telepíteni, mindössze regisztrálni kell majd és egy böngészõbõl megnyitni a szerkesztõt. A webes felületen bejelentkezve a felhasználók láthatják saját prezentációikat, a megosztottakat, illetve a nem fizetõk által gyártott preziket. A késõbbiekben létrehozhatóak lesznek felhasználói csoportok, így a munkatársak neveit nem kell állandóan egyesével elõkeresni, hanem egyszerûen lehet közösködni. Bármelyik prezentáció bárhonnan módosítható, betölthetõ, lejátszható és természetesen letölthetõ is.
+
+
+ 
+
+Ha az elõadás offline környezetben zajlik, akkor az oldalról egyszerûen letölthetõ egy csomagban maga a prezentáció, illetve hozzá tartozó flashes lejátszó is. Adódik a kérdés, hogy milyen erõs gép kell ahhoz, hogy biztosan jól játsza le a Prezi a tartalmakat, erre a hivatalos válasz az, hogy amennyiben egy géppel le lehet játszani YouTube videókat, akkor ez is akadásmentesen fog futni. A tesztek ezt támasztják alá, ugyanis gyengébb, régebbi noteszgépeken is kitûnõen produkált a program.
+
+
+ 
+
+2009, a remény éve
+
+A Prezi számára 2009 lehet nagy robbanás éve, hiszen hamarosan  nyilvánosan is elérhetõ lesz a szolgáltatás, s a golyóstoll feltalálása után elég idõ telt már el, hogy magyarok ismét egy újszerû eszközt adjanak a dokumentumkészítés világának. Tudomásunk szerint már jelenleg is vannak fizetõs ügyfelei a Prezinek, a kiadás után pedig akár ugrásszerû növekedés is elképzelhetõ, ha egyes országokban elkapják a fonalat a felhasználók. A legtöbb érdeklõdõ az Egyesült Államokból és Németországból keresi fel a weboldalt, s a villantani akaró üzletembereken túl a pedagógusok izgultak fel leginkább az új megoldás láttán.
+
+A végleges kiadást követõen bárki kipróbálhatja a Prezit, ugyanis az alaplicenc ingyenes lesz, s ezért cserébe csak annyi a kompromisszum, hogy az elkészített prezentációk publikussá válnak, illetve egy Prezi.com vízjel is kerül rájuk. A fizetõs változatok közül is van egy kisebb "Enjoy" csomag, ahol nagyobb a tárhely, nincs vízjel, privát lehet tárolni a preziket, míg a nagyobb "Pro" csomaghoz már offline szerkesztõ és különbözõ vállalati igényeket kielégítõ extrák is dukálnak.

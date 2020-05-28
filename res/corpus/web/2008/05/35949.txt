@@ -1,0 +1,12 @@
+Tipikus trükkel próbálják megszerezni a Google AdWords hirdetõk számláit
+
+[Techworld] Tipikus adahalász támadás érte a Google AdWords hirdetõit az elmúlt hetekben, egy kéretlen levéláradattal azokat próbálják személyes adataik, belépési nevük és jelszavuk kiadására buzdítani, akik használják a Google eme szolgáltatását. A módszer jól ismert, az adathalász oldal pedig igen jó hamisítvány.
+
+
+
+Az adathalászok kéretlen levelében egy elsõ pillantásra erdetinek tûnõ, igen jól álcázott link szerepel a szöveg mellett, melyben arról tájékoztatják a felhasználót, hogy valami fizetési probléma miatt be kellene lépnie, frissítenie kellene adatait a Google AdWords felületén. Az eredeti http://adwords.google.com/select/login link alatt azonban egy hasonlóan kezdõdõ, http://www.adwords.google.com.XXXX.cn/select/Login cím szerepel, mely német, román és cseh IP-címekre irányítódik át.
+
+
+Az adathalász oldal igen jó másolata a Google AdWords felületének, az ide bevitt felhasználói név és jelszó párosok is mûködnek -- gyakorlatilag bármi mûködik -- azonban megadásukat követõen azonnal rossz kezekbe kerülnek. A következõ oldalon megadott fizetési adatok -- legyen az bankszámla, bankkártya adat -- is mind az adathalászok birtokába jut.
+
+A támadásra a Trend Micro hívta fel elsõként a figyelmet, de az igen egyszerû módszerrel elkövetett "adathalászat" ma már szinte mindennaposnak mondható, a Google szolgáltatásait használókat is számtalanszor próbálták ilyen trükkökkel rászedni. Az árulkodó jel továbbra is a megnyitott linkekben van, melyek segítségével szerencsére ezek a kísérletek könnyen szûrhetõk is.

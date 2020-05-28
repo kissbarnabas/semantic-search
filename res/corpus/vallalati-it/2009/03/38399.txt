@@ -1,0 +1,28 @@
+Olcsóbb IP-alapú telefonszolgáltatást kínál nagyvállalatoknak a Skype
+
+Elsõsorban nagyobb vállalatok számára fejlesztett, a telefonköltségeket jelentõsen csökkentõ szolgáltatást indít hamarosan az eBay tulajdonában álló Skype, melynek neve összeforr a világ egyik legnépszerûbb, internetes telefonálásra alkalmas azonnali üzenetküldõ alkalmazásával. 
+
+
+
+A headset a múlté
+
+A Skype for SIP (Session Initiation Protocol) szolgáltatás elõnye, hogy a cégeknél üzembe állított, nyílt kommunikációs protokollt ismerõ, IP-alapú telefonközpontokon keresztül az alkalmazottak a már meglévõ telefonos infrastruktúrát használva tudnak hívásokat indítani és fogadni a Skype hálózatán keresztül. Ez azt jelenti, hogy a VoIP telefonhívásoknál a már meglévõ asztali készülékek kiválthatják a headseteket, másrészrõl minden hívás a Skype saját, a vezetékes szolgáltatókhoz hasonlítva többnyire kedvezõbb árú tarifájával történhet (a Skype percdíja vezetékes és mobil hálózatokba 2,1 dollárcent, mai árfolyamon 4,6 forint).
+
+A telefonköltségek lefaragására lehetõséget nyújtó Skype for SIP a cégek ügyfelei számára is könnyebbé, nem utolsósorban ingyenessé teheti a vállalat elérését. A SIP protokollt ismerõ telefonközpontok ugyanis képesek a cégek weboldalán elhelyezett Skype-gyorshívógombbal indított VoIP-beszélgetéseket a megadott irodai telefonkészülékre irányítani, így az az ügyfél, akinek a számítógépére telepítették a Skype-ot, egy gombnyomással felhívhatja a vállalat ügyfélszolgálatát vagy illetékes munkatársát, a kliensen keresztül lebonyolított VoIP-beszélgetésért pedig eközben egy fillért sem kell fizetnie.
+
+Egyre többen használják üzleti céllal
+
+A Skype nem elsõ alkalommal próbálja megvetni a lábát az üzleti kommunikációs alkalmazások piacán, ahol olyan vetélytársakkal próbálja felvenni a küzdelmet, mint a Cisco vagy a Microsoft. Bár a vállalat szolgáltatására eddig regisztrált mintegy 405 millió ügyfél elsõsorban magánfelhasználó, a Skype szerint a regisztrált felhasználók 30 százaléka üzleti célra is használja a VoIP-alkalmazást -- ezek elsõsorban azok a kis- és középvállalatok, melyek a telefonköltségek lefaragására törekednek.
+
+Nem kötelezõ többé a headset
+
+A vállalat 2006-ban indította el Skype for biz szolgáltatását, mely elsõsorban olyan kisebb cégeket, irodákat célzott, melyek számára nem lenne megtérülõ saját IP-alapú telefonközpont kiépítése, illetve túl költségesnek találják más szolgáltatók menedzselt rendszereit. A Skype for biz teljes egészében a Skype VoIP-kliensre épül, a fejlesztõk azonban több, a rendszer könnyebb integrálását elõsegítõ kiegészítõ alkalmazást (például Outlook-beépülõmodul) is kínálnak az üzleti felhasználóknak, valamint olyan csoportházirend-alapú menedzsment-rendszert bocsátanak a rendszergazdák rendelkezésére, melyekkel az egy regisztrációhoz tartozó Skype-kreditek különbözõ kritériumok szerint szétoszthatók a munkatársak közt.
+
+
+A SIP-alapú telefonközpontokkal rendelkezõ nagyobb vállalatoknál a VoIP-telefonhívásokhoz nincs szükség a számítógép vagy bármilyen kliens közbeiktatására, a cégek által megvásárolt online Skype-hívószámok éppúgy az íróasztalon elhelyezett telefonkészüléken csengenek ki, mint a normál vezetékes szolgáltatók, illetve a hagyományos telefonközpont által kiosztott számok.
+
+A Skype szolgáltatását bírálók szerint hiába az olcsó vagy akár ingyenes híváslehetõség, a rendszer valójában több szempontból is gyenge lábakon áll, így például fennáll a veszélye, hogy az interneten keresztül folytatott bizalmas beszélgetéseket valaki lehallgatja, emellett olykor a hangátvitel minõsége is hagy maga után kívánnivalót. A fejlesztõk ugyanakkor állítják, hogy a rendszer teljesen biztonságos a lehallgatásokkal szemben, ezzel együtt fokozott figyelmet fordítanak az esetleges szoftverhibák kijavítására, valamint folyamatosan fejlesztik a hangátviteli protokollt, így a beszélgetések kisebb sávszélességû internetkapcsolat esetén is tisztán érthetõek maradnak.
+
+Jól megy, de mégsem kell az eBay-nek
+
+Az új üzleti szolgáltatás egyelõre próbaüzemben indult el a Skype-nál, kereskedelmi termékként valamikor az idei esztendõ során jelenik meg a vállalat repertoárjában. A Skype for SIP a cégvezetés szerint fellendítheti az amúgy prosperáló üzletág forgalmát és megerõsítheti a Skype pozícióját az üzleti kommunikációs alkalmazások piacán, jóllehet vállalatot 2005-ben felvásárló eBay vezérének néhány korábban elejtett szava arra utalt, hogy most már szabadulna a Skype-tól. A potenciális vevõk tipikusan kommunikációs szolgáltatásokat és eszközöket nyújtó vállalatok lehetnek, így a hagyományos telkók mellett az olyan egységes kommunikációs megoldásokat fejlesztõk, mint a Microsoft, a Cisco, az IBM, vagy akár a Google.

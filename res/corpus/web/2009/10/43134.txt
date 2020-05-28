@@ -1,0 +1,14 @@
+Natív x86 kódot tud futtatni a legújabb Chrome
+
+Elérhetõvé vált a fejlesztõi csatornában a Chrome legújabb változata, a 4.0.220.1 kiadás, melyet ennek megfelelõen nem éles használatra szán a Google, hanem fejlesztõi munkára - a stabil, szeptember 30-i kiadás a 3.0.195.24 verziónál jár, melyre minden Chrome befrissítette már magát, ha újraindítottuk azóta.
+A Chrome 4.0.220.1 kétségtelenül legérdekesebb változása az integrált Native Client megjelenése, melyet eddig csak egy körülményes konfigurációval tudtunk egy böngészõhöz adni egy bõvítmény formájában, amihez a Google ráadásul a Firefoxot javasolta eddig. Ebben a fejlesztõi kiadásban a plugint már beépítették a Chrome-ba, és a renderelõ folyamatban fut. A bõvítmény alapesetben nem fut, azt egy parancssoros kapcsolóval kell engedélyezni.
+
+A Native Client kezdetleges állapotát jelzi, hogy nem fut a Chrome sandboxban, ezt ki is kapcsolja a bõvítmény, valamint egyelõre sem grafikát, sem hangot nem képes kezelni - lényegében arra szolgál, hogy a fejlesztõk meggyõzõdhessenek mûködõképességérõl - a jövõben természetesen a használt NPAPI fejlesztésein keresztül megjelenik a video és a hang is. A szoftvert egyelõre kizárólag Windowson teszteli a Google, a linuxos vagy maces futás bizonytalan. A Chrome Native Client kipróbálásához erre található leírás.
+Már egy év fejlesztés 
+A Native Clientet elsõként tavaly decemberben mutatta be a Google, azzal a célzattal, hogy egy szinttel magasabbra emelje a böngészõbõl futtatható, operációs rendszertõl független alkalmazások futási teljesítményét. Szemben azonban az eddigi szkriptet és saját binárist futásidõben interpretáló megoldásoktól, a Native Client natív x86-os kódot hajt végre böngészõtõl és operációs rendszertõl függetlenül. Ennek demonstrálására a Google böngészõben futtatható Quake-et mutatott be.
+ A Native Client elméletileg jóval nagyobb teljesítmény érhetõ el, ugyanis nem állnak a kód és a gép közé vastag köztesrétegek, mint például a Sun Java, Microsoft Silverlight vagy Adobe AIR esetében, melyekkel lényegében szintén tetszõleges online alkalmazás hozható már létre. A Google késõbb más processzorarchitektúrák, például az ARM és PowerPC támogatását is tervezi.
+A biztonság érdekében a Google szigorú szabályokat állított fel a Native Client modulokkal szemben, melyek elõírják annak struktúráját a könnyû elemzés érdekében, és nem tartalmazhatnak bizonyos kombinációjú utasítássorozatokat. Ez a keretrendszer azt szolgálja, hogy meggátolja a feltételezhetõen rosszindulatú kód futtatását - nem triviális feladat, és a kódok többségét így is portolni kell majd a Native Client futtatáshoz, méghozzá a megkerült köztesrétegek kényelmi szolgáltatási nélkül. További információk, példakódokkal és dokumentációval a Native Client honlapján.	     
+                  
+                  
+                  
+                   

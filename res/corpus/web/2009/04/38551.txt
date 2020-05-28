@@ -1,0 +1,12 @@
+Az alkalmazásvirtualizáció lehet a kulcs a Silverlight sikeréhez
+
+[eWeek/HWSW] Nagy lökést adhat a Silverlight-alapú alkalmazások terjedésének, hogy a Code Systems által fejlesztett Xenocode alkalmazásvirtualizációs megoldás is támogatja a Microsoft multimédiás platformját. A Xenocode segítségével lehetõvé válik Silverlight alkalmazások futtatása közvetlenül a webrõl anélkül, hogy ehhez telepíteni kellene a Silverlight környezetet. 
+
+
+
+Az Adobe Flash-hez hasonló, de annak képességein sok tekintetben túlmutató multimédiás alkalmazásplatformot, a Silverlightot 2007 õszén indította útjára a Microsoft. A redmondi cég számos tartalomszolgáltatóval kötött nagyszabású megállapodást a Silverlight támogatásáról és használatáról, köztük az amerikai Major League Baseball ligával is. Az MLB azonban most visszaáll Adobe Flash használatára, részben azért, mert a Silverlight tartalmak megjelenítéséhez szükséges plugin telepítéséhez adminisztrátori jogosultság szükséges, a munkahelyi PC-k felett a felhasználók azonban nem gyakorolnak ilyen szintû ellenõrzést. 
+
+
+ A Xenocode ezt a problémát hidalja át alkalmazásvirtualizáció segítségével. Használatával a Silverlight alkalmazások vagy tartalmak (pl. Microsoft Worldwide Telescope) megjelenítéséhez nem szükséges a Silverlight futtatókörnyezetet telepíteni, azok közvetlenül a webrõl, böngészõbõl futtathatók egy biztonságos "sandboxban". Bár a Microsoft szerint a webet elérõ PC-k negyedén már megtalálható a Silverlight futtatókörnyezet, a rivális Adobe Flash elterjedtsége gyakorlatilag 100 százalékos. Ez pedig azt jelenti, az alkalmazásfejlesztõk számára a Flash kínálja a nagyobb elérést.
+
+A Silverlight legfontosabb elõnye az Adobe Flash-sel szemben, hogy tartalmazza a .NET keretrendszer platformfüggetlen változatát, emellett természetesen számos további nyelv támogatott, beleértve a Visual Basicet, a C#-t, az IronPythont és az IronRubyt. A Silverlight 2 lehetõvé teszi akár .NET és HTML/JavaSctript kód vegyes használatát is, emellett a LINQ (Language Integrated Query) támogatás révén C# vagy Visual Basic programokból akár natív adatlekérdezést is engedélyez. A Silverlightban található .NET API-k a teljes .NET Framework azzal maradéktalanul kompatibilis részhalmazai.

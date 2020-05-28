@@ -1,0 +1,23 @@
+Bemutatkozott a Nokia elsõ linuxos okostelefonja
+
+A Maemo nem újdonság a Nokia számára, a platformot 2005 óta fejleszti a cég, eredetileg internetcentrikus tablet zsebszámítógépei számára, melyek azonban nem arattak általános piaci sikert. A Maemo egy nyílt forrású projekt, mely leginkább a Debian alkotóelemeire építkezik, és szabadon elérhetõ fejlesztõeszközökkel bárki készíthet rá alkalmazásokat. A Nokia és az Intel június közepén bejelentett stratégiai együttmûködésének többek közt része volt a Maemo platform közös fejlesztési célkitûzése is.
+Nem MID, telefon
+Ennek az operációs rendszernek a legfrissebb, 5-ös változatát használja majd a szétcsúsztatható QWERTY-billentyûzetes Nokia N900, mely a Nokia okostelefon-kínálatában elsõként szakít a Symbian operációs rendszerrel. A 3,5 hüvelykes, 800x480 pixeles felbontású érintõkijelzõvel ellátott telefonnal a gyártó szerint a böngészési élmény a PC-khez lesz mérhetõ, köszönhetõen az Adobe Flash-támogatással is rendelkezõ böngészõnek, melynek alapjait a Mozilla fejleszti.
+
+A Nokia N900 nemcsak új operációs rendszert, de új kezelõfelületet is kap majd, mely átláthatóbb és jobban személyre szabható lesz, mint a korábbi készülékeken. Az erõs hardvernek köszönhetõen az operációs rendszer várhatóan minden eddiginél gyorsabban fut majd: az N900-ba ugyanazt a rendszerprocesszort építik, mint az iPhone 3G S-be, az ARM Cortex A8-as CPU mellé 1 GB alkalmazásmemória és 32 gigabájtnyi flash memória kerül - a tárolókapacitást maximum 48 gigabájtig lehet bõvíteni microSD-kártyával.
+
+
+
+
+
+
+
+
+
+Az új csúcsmodellbe természetesen minden olyan extra megtalálható, mely a kategória többi tagját is megilleti, így szériafelszereltség az A-GPS-modul, a WLAN-rádió, a Bluetooth kommunikáció, emellett a telefon HSPA-modemként is használható, maximum 10/2 megabites másodpercenkénti le- és feltöltési sebesség mellett. A Maemo 5-öt futtató Nokia N900 októberben kerül a boltokba, nettó 500 eurós ajánlott fogyasztói áron.
+Marad a Symbian is
+A Linux-alapú operációs rendszerre épülõ elsõ okostelefon bejelentésével egy idõben a Nokia fontosnak tartotta leszögezni, hogy az N900 bemutatása nem jelenti egyben azt, hogy a gyártó teljesen szakítani kíván a tavaly felvásárolt Symbiannal. A Reuters értesülései szerint a Nokiánál továbbra is a Symbian marad az okostelefonok elsõdleges platformja, de ezzel párhuzamosan más megoldások (így elsõsorban Linux-alapú rendszerek) is feltûnnek a gyártó kínálatában.	     
+                  
+                  
+                  
+                   

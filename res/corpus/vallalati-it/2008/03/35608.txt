@@ -1,0 +1,39 @@
+Biztonság szempontjából mindegy, melyik operációs rendszert választjuk
+
+Alapvetõen nem azon múlik a biztonság, hogy milyen hardvereket vagy szoftvereket használunk, az üzemeltetés mikéntje a döntõ -- véli Dolánszky György, a Kürt információbiztonsági szakértõje. Bár nem jellemzõ, elõfordul, hogy egy biztonsági auditot követõen olyan mulasztásokra derül fény, hogy személycserékre kerül sor az IT-részlegnél.
+
+
+
+A jelszó a legnagyobb baj
+
+A Kürt tapasztalatai szerint a biztonsági kockázatok legnagyobb csoportját a jelszavak kezelése jelenti a cégek többségénél, itt találhatóak meg a legdurvább hibák -- mondta el a HWSW-nek Dolánszky. "A fõnökök egy külön kategória", akik sokszor mentességet kérnek a jelszókezelési politikák alól, így például egyszerû és lejárt jelszavakkal használják gépüket, és azt is megosztják az asszisztensekkel. 
+
+A jelszókezelés másik problémás területe a gépi, szoftveres felhasználók belépési neve és jelszava, melyek nincsenek szem elõtt. Ezek sokszor triviálisak vagy gyári alapértelmezett állapotban felejtik õket, ráadásul gyakran a kódba ágyazottak, így megváltoztatni is nehéz azokat. A rendszergazdák további általános és döntõ hibájának bizonyul, hogy több eszközön, vagy akár a teljes infrastruktúrán ugyanazt a jelszót alkalmazzák, így ha valaki egyetlen ponton képes betörni és megszerezni az adminisztrátori adatokat, megszerezte az irányítást a teljes rendszer felett. 
+
+
+Windows és jelszavak
+A támadhatóságot az LM hash már évtizedes implementációs gyengeségei okozzák. A korszerûbb Windowsok biztonságosabb jelszótárolásra is képesek, a kompatibilitás megõrzése érdekében azonban alapértelmezetten továbbra is használják az LM-et. A megoldás felé vezetõ út elsõ lépése az elavult Windowsok lecserélése a hálózatban, majd az összes rendszernél a sokkal erõsebb titkosítást alkalmazó (a Longhorn-generációnál már alapértelmezett) NTLMv2 hitelesítésre való átállás, és az LM kikapcsolása. Végül a szótár-alapú és valószínûséggel dolgozó rainbow támadások esélyeinek drasztikus lecsökkentésére alkalmazzunk úgynevezett saltingot (besózás), mely felhasználónként adott, de véletlenszerû karakterekkel dúsítja fel a felhasználó jelszavát, és úgy készít belõle hasht.
+
+
+
+Windowsos hálózatokban problémát jelenthet az is, hogy a Windows 2000-nél régebbi operációs rendszert futtató gépekkel való kompatibilitás érdekében sok helyen továbbra is a régóta gyorsan törhetõ Lan Manager hash-sel tárolják a jelszavakat. "A windowsos jelszavak 80-90 százaléka feltörhetõ néhány nap alatt", a sebesség nagyban függ a felhasználók és biztonsági politika hanyagságától.
+
+A hackerek elõször szótáralapú, majd a jelszó hasheket táblázatban elõre legenerált úgynevezett rainbow fájlokkal, végül az igen valószínûtlen sikertelenség esetén a maradék kombinációkra brute force technikákkal lehet rátámadni -- a mai rendkívül olcsó számítási teljesítmény és akár néhány hét folyamatos törés is bõséggel megtérül, ha elég értékes a célpont, napjaink betöréseit pedig már nem az intellektuális kihívás, hanem közvetlenül a pénz vagy üzleti elõny szerzése vezérli.
+
+
+[+] A felhasználói nevem root, a jelszavam 123. Ismerõs? 
+
+A patcheléssel is gondok vannak
+
+Természetesen ha a támadó már hozzájutott egy hashfájlhoz, már megtörtént a baj, csak elszántság és idõ, valamint esetleg némi pénz kérdése, mire feltöri a tárolt jelszavakat. Ezzel eljutottunk a biztonsági kockázatok második legnagyobb csoportjához, a szoftverek sebezhetõségeihez, ahol különösen kritikusak az infrastrukturális szoftverek, mint az operációs rendszerek, middleware-ek, adatbáziskezelõk, de a számítógépek mellett nem szabad megfeledkezni a hálózati eszközökrõl sem.
+
+
+"Nem azon múlik, milyen platformot használsz, egy UNIX-ot is meg lehet fektetni" -- fejtette ki Dolánszky. A lényeg, hogyan üzemeltetjük, ami az elõbb tárgyalt jelszókezelésen és a jogosultságok mellett leginkább a szoftverek karbantartásán, frissítésén múlik. A patchelés ugyanakkor "nem egyszerû, egy külön mûfaj", kommentálta a vezetõ, különösen a szerverek esetében, ahol sokszor nincs tartalékrendszer a változtatások kitesztelésére. Dolánszky úgy véli, a szakmát eluraló averziókkal ellentétben egy hozzáértõen üzemeltetett Windows-hálózat megfelelõen biztonságos.
+
+Figyeljünk másra is
+
+Miközben a figyelem nagy része a szerverekre és kliensekre irányul, addig sok helyen elhanyagolják vagy teljesen megfeledkeznek a hálózati eszközökrõl, mint például a menedzselhetõ switchek, vagy a routerek. Dolánszky elmondta, ha például egy Cisco-berendezésben nem elég friss az IOS, egy dokumentált biztonsági résen keresztül akár a teljes konfigurációs fájl is letölthetõ, és Type7 titkosítás esetén percek alatt kiszedhetõ -- itt most emlékezzünk vissza annak kockázatára, hogy a teljes hálózatban ugyanaz a jelszó minden eszközre.
+
+[+] Figyelnek-e nyomtatóik biztonságára a vállalatok? 
+ 
+A vállalati biztonság egy másik elhanyagolt területe a hálózati nyomtatóké, fõleg a multifunkcionális készülékek hordozhatnak kockázatot. Ezeket sokszor jelszó nélkül vagy gyári alapbeállításokkal használják, így a hálózatra bejutott támadó tetszõlegesen módosíthatja a beállításokat, és a készülék firmware-ének módosításával akár magának is elküldheti a kinyomtatott, beszkennelt vagy faxon érkezett dokumentumokat. Nemcsak a dokumentumok megszerzése lehet valaki célja, figyelmeztetett Dolánszky, nagyobb, kiterjedt irodákkal bíró vállalatoknál a hálózati nyomtatók megtámadásával a cég mûködésében is jelentõs zavarokat, és súlyos károkat lehet okozni.

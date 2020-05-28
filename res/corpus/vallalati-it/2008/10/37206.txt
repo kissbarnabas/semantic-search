@@ -1,0 +1,26 @@
+Steve Ballmer szerint kihagyható a Vista, a Google Apps pedig primitív
+
+Steve Ballmer, a Microsoft vezérigazgatója az egyesült államokbeli Orlandóban megrendezett Gartner Symposium/ITxpo záróelõadásán több meghökkentõ kijelentést is tett, ezzel újfent magára vonva a médiafigyelmet. Szerinte a Google Apps primitív, a cloud computingra még nem áll készen a világ, sõt még arra is rábólintott, hogy jogos, ha egyes cégek megvárják a Windows 7-et és kihagyják a Vistát.
+
+
+
+A Microsoft elsõ embere a Gartner Symposium záróelõadásán nyilatkoztatta ki legújabb meghökkentõ gondolatait, miközben az összegyûlt vállalatok képviselõi azon gyötörték magukat, hogy gazdaságosságii szempontok alapján érdemes-e Vistára váltani vagy sem. A Gartner elemzõi, Neil MacDonald és David Mitchell Smith által moderált kérdezz-felelek tehát errõl a pontról indult.
+
+Ballmer: Át lehet ugrani a Vistát!
+
+"A Vista befogadása gyorsabban zajlik, mint ahogyan az XP teljesített az elsõ két évében" -- védte meg az operációs rendszer becsületét a Microsoft vezére, majd hozzátette, hogy "nagy sikereket értünk el a biztonság területén, ami több és több felhasználó számára teszi elfogadhatóvá [a Vistát]". A Gartner azon adatára, miszerint a piaci szereplõk közül megkérdezettek 61 százaléka gondolkodik azon, hogy teljesen kihagyja a Vista-migrációt és egybõl a Windows 7-re ugrik, egészen meglepõ válasz érkezett. Ballmer szerint a Microsoft is készen áll az ilyen kimenetelû döntésekre. A szoftvercég felkészülten várja azon személyek vagy cégek megjelenését, akik egybõl a Windows 7-re ugranak majd. Ez a kanyar nem okoz majd nagy törést senkinek, sem a szoftverfejlesztõknek, sem hardvergyártóknak, ugyanis a Windows 7 kompatibilis lesz a Vistával. 
+
+
+ Nem véletlenül viseli majd az új operációs rendszer kernele hivatalosan a 6.1-es verziószámot, ami miatt már most azzal vádolják õket, hogy ez csak egy kisebb kiegészítés, a Vista második megkísértése lesz csupán. Sõt, a Gartner gyakran hivatkozik úgy a jövendõbeli utódra, mint Vista R2 (Release 2). "A Vista jó. A Windows 7 lényegében a Windows Vista jobb kezelõfelülettel és teljesítménnyel" -- mondta Ballmer.
+
+[+] Windows 7 néven kerül boltokba a Windows 7 
+
+Az XP-Vista átállással kapcsolatban Ballmer egyszerûen azt mondta, hogy "azok az emberek, akik ki akarják várni a következõ verziót, tényleg megtehetik, de én magam biztosan bevezetném a Vistát". Megjegyezte azt is, hogy a legtöbb vevõ akkor cserél operációs rendszert, amikor új gépeket vesz. Elõfordulhat, hogy egy cég éppen az XP-korszak végén cserélt hardverparkot, így náluk esélyes lehet a Windows 7 kivárása.
+
+Microsoft - Yahoo - Google: közös homokozóban
+
+A beszélgetésen szó esett természetesen a Yahoo-üzletrõl is, de megdöbbentõ újdonságot most sem árult el Ballmer. "33 dollárt ajánlottunk a Yahoo-ért, most tizenegyet ér. Egyértelmû, hogy nem akarták eladni magukat, vagy talán most is azon gondolkodnak, hogy többet érnek részvényenként, mint 33 dollár". Ballmer elmondása szerint jelenleg nem folynak tárgyalások, nincs semmilyen közelgõ esemény, de "soha ne mondd, hogy soha".
+
+Steve Ballmer nem volt rest a rivális Google-t is véleményével sújtani, a Google Apps csomagot egyszerûen primitívnek nevezte a redmondi vezetõ. Szerinte sokan kipróbálják, majd otthagyják az online irodai alkalmazást, a népszerûsége a ComScore adatai alapján 7 hónapja nem nõtt. A Google Documentsnek "nagyon primitív képességei vannak csupán, még egy lábjegyzetet sem lehet beszúrni a szövegszerkesztõjében". Ballmer szerint az OpenOffice és a StarOffice ma nagyobb kihívás, komolyabb ellenfél, mint a Docs vagy a Spreadsheets.
+
+Sõt, a Microsoft-vezetõ szerint az embereket nem kell, hogy érdekelje a cloud computing vagyis a teljesen virtualizált, akár földrajzilag is elosztott számítórendszerek -- mint amilyenek a Google egyes szolgáltatásai. A Microsoft szerint a felhasználók még nem készültek fel erre a világra, úgy látják, hogy jó ideig még minden virtualizált szolgáltatás alapjául egy asztali rendszer kell szolgáljon. A sarkos vélemény nyilván a hamarosan aktuális bejelentésükre hívja fel a figyelmet, amikor a Professional Developers Conference keretében bemutatják a saját cloud platformjukat.

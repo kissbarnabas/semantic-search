@@ -1,0 +1,12 @@
+Irodai rackszekrények az APC-tõl
+
+A NetShelter CX Office termékek legfontosabb jellemzõje, hogy irodai térben való használatra fejlesztette ki õket az APC, ennek érdekében nem csak a külsejük igazodik az irodai bútorokhoz, hanem hangszigeteléssel és integrált hûtéssel is rendelkeznek, a telepítésükhöz nem szükséges légkondicionált szerverterem, akármilyen szobában mûködhetnek -- mondta el a HWSW-nek Szarka Attila, a vállalat vezetõ rendszermérnöke. 
+A kínálatban 18U, 24U és 38U magas szekrények szerepelnek, az integrált
+hûtésük teljesítményfelvétele 19 és 57 watt között alakul. Minden szekrény tartalmaz egy teljesítményelosztó egységet 15 csatlakozóval, valamint kábelvezetõket. A hangszigetelés az APC szerint annyira hatékony, hogy a rackber szerelt szerverek, tárolók és hálózati eszközök akár az irodai térben is használhatók, a zaja nem zavarja majd a munkát. Az APC 18,5 decibeles zajcsillapításról beszél, persze ez csak akkor érvényes, ha a szekrényajtók zárva vannak.
+
+
+
+
+Az irodába szánt rackszekrényekben természetesen nem javasolt nagy teljesítménysûrûségû eszközöket elhelyezni, blade-ek használatát kimondottan tiltja is az APC de arra megfelelnek, hogy egy kis- és középvállalat néhány szerverét befogadják. A legnagyobb, 38U magas szekrény is legfeljebb 3,6 kW hõterhelést visel el, a legkisebb, 18U változat pedig mindössze 1,2 kilowattot. A NetShelter CX család tagjai az EIA szabványnak megfelelõ 800 milliméteres mélységû helyet biztosítják a szerverek és más berendezések számára és igény esetén bõvíthetõk az APC szünetmentes tápegységeivel&nbsp; vagy akár NetBotz felügyeleti eszközeivel is.
+
+Magyarországon 1-2 hónap múlva jelennek meg a kínálatban a NetShelter CX szekrények, egyelõre ismeretlen áron.

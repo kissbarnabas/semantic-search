@@ -1,0 +1,16 @@
+A Sunnak mindegy, hogy LAMP, SAMP vagy WAMP
+
+[InfoWorld/HWSW] A portlandi O'Reilly Open Source Convention (OSCON) rendezvényen a Sun Microsystems bejelentette a Web Stacket, amely egy platformfüggetlen szoftvercsomag webalkalmazások és weboldalak létrehozásához. 
+
+
+
+A csomag lényegében a LAMP (Linux, Apache, MySQL, Perl/Python/PHP) felsõ háromnegyedét tartalmazza, az operációs rendszer pedig Solaris, Linux és Windows egyaránt lehet. "A Sun Web Stack eddig csak egy fejlesztõi eszközkészlet volt, mostantól viszont támogatott vállalati megoldás" -- mondta Ken Drachnik, a Sun nyílt forrású közösségi fejlesztésekért felelõs marketing-vezetõje. A Web Stack az OpenSolaris egyik alprojektjébõl nõtte ki magát teljes értékû termékké. 
+
+A Web Stack tartalmazza a web- és proxyszervert, adatbáziskezelõt és szkriptnyelveket. A csomag része az Apache 2.2.8, a MySQL 5.1 adatbázis, a lightpdd webszerver, a Tomcat Servlet Engine, valamint a Perl, PHP, Ruby, Ruby on Rails nyelveket és fejlesztõi környezeteket, illetve a RubyGems csomagkezelõt. Emellett belekerült a Rubyhoz a Mongrel HTTP-könyvtár és szerver, az fcgi csomag, a RedCloth szövegbeolvasó és a Squid proxy is.
+
+
+ A Sun eleinte csak Solarison támogatja majd a Web Stacket, de õsztõl Linuxon, az év végén pedig már Windowson is. A cél az, hogy a többféle operációs rendszeren egységes platformon kínáljanak webalkalmazások és weboldalak számára, így azok könnyen, lényegében minimális változtatások mellett hordozhatóvá válnak. A Web Stack elõnye még, hogy azt a Sun egyetlen, verziókontrollált, integrált csomagban kínálja, összetesztelt komponensekkel. 
+
+Az OSCON-on a Sun emellett bejelentette, hogy megnyitja a Java System Web Server 7.0, illetve a Sun Java System Web Proxy egyes részeinek forráskódját, amelyet Berkeley Software Distribution (BSD) licenc alatt tesz hozzáférhetõvé. Ezzel a Sun lényegében a teljes köztesszoftver-portfolióját nyílt forrásúvá tette. A lépéstõl a cég azt várja, a technológiái gyorsabban terjednek, a fejlesztõk hamarabb "felkapják" õket, illetve beszállnak a további munkálatokba.
+
+A rendezvényen elhangzott továbbá, hogy a Sun OpenSolaris hamarosan nem csak x86, hanem SPARC rendszerekre is elkészül, vélhetõen a novemberi 2008.11 verzió lesz az elsõ, SPARC-kompatibilis változat. A 2008.11 egyébként egy vadonatúj, integrált telepítõt is kap.

@@ -1,0 +1,24 @@
+Szabadalomháborúba keveredhet a Microsoft
+
+[ArsTechnica/HWSW] A Microsoft szabadalombitorlás miatt pert indított a navigációs készülékeket gyártó TomTom ellen. Az ügy számos TomTom terméket érint, többek közt azokat, melyek Linux-alapú operációs rendszerrel mûködnek.
+
+
+
+FAT32, a régi ismerõs
+
+A Microsoft 8 szabadalmát véli felfedezni a TomTom-termékekben, melyek egy része a navigációval és az autóban használható számítástechnikai megoldásokkal függ össze, de a FAT32 fájlrendszer jogosulatlan használatát is sérelmezi a redmondi cég. Ez utóbbi azért érdekes, mert korábban a FAT32-vel kapcsolatban nem élt szabadalmi igényével, ha viszont szisztematikusan elkezdi üldözni a régi fájlrendszerét használókat, akkor több Linux-platformot használó cég és több mobilgyártó is bajba kerülhet.
+
+A bírósági eljárást Todd Bishop, a Techflash alapító-szerkesztõje saját blogján hozta nyilvánosságra. Eleinte többen azt feltételezték, hogy ez a lépés közvetlenül a Linux-megoldásokat célozza a szabadalombitorlás feszegetésével, Horacio Gutierrez, a Microsoft intellektuális tulajdonokért felelõs megbízott jogi képviselõje viszont azt állítja, hogy ez nem egy átfogó, kampányszerû támadás a Linux ellen, kizárólag a TomTomot vették célba. Gutierrez szerint ez egy utolsó lehetõség, mellyel a Microsoft egészen a végsõkig várt, miután több mint egy év alatt sem sikerült megállapodást kötni a holland céggel.
+
+Fél a Linux-világ
+
+A nyolc kérdéses szabadalom közül kettõ aggasztja a Linux-fejlesztõket, mégpedig a 5,579,517 és a 5,758,352 számúak, hisz ezek tartalmazzák a rövid és hosszú fájlnevek közös kezelésére vonatkozó megoldások leírását. A gyakorlatban ez a két szabadalom biztosítja a visszamenõleges kompatibilitást az olyan fájlnévsémák felé, melyek a régi MS-DOS idõkbõl származó 11 karakteres fájlneveket használnak. Ugyan a rövid fájlnév ma már igen ritka jelenség, de a FAT fájlrendszerek minden modern variánsa használja a fenti szoftveres módszereket.
+
+2006-ban a FAT-szabadalmakat már támadták bíróságon, de végül a Microsoft megtarthatta õket, annak ellenére, hogy ezek megléte komoly fenyegetettséget jelent azóta is a nyílt forráskódú közösségekre, s több vezetõ jogász figyelmeztetett arra is, hogy a Microsoft ezen keresztül komoly károkat okozhat bármikor a Linux-platformnak. A FAT ma is széles körben elterjedt fájlrendszer, például az olyan külsõ adattárolók esetében, mint a memóriakártyák vagy a pendrive-ok.
+
+
+A TomTom által publikált listából kiderül, hogy az eszközeiben milyen, GPL-licenccel rendelkezõ szoftvereket használ, s ezek közül a "dosfstools" az, amely a FAT fájlrendszereken belül képes különbözõ ellenõrzéseket, javításokat végezni. Ugyan nem egyértelmû, hogy ez a program az alapja a jogi huzavonának, de az biztos, hogy a FAT-támogatás általában véve problémás, márpedig ugyanezt a szoftvert, így a FAT támogatást, az Amazon Kindle e-book olvasó, a Google Android és a Nokia Maemo platform is használja.
+
+Készen áll a "nukleáris csomag"
+
+Amennyiben a Microsoft megpróbálná széles körben érvényesíteni a szabadalmi jogait a Linux felhasználók és terjesztõk ellen, akkor az Open Invention Network (OIN) nevû, szabadalmakat gyûjtõ, majd azokat jogdíjmentesen elérhetõvé tevõ szervezet dönthet az úgynevezett "nukleáris opció" mellett, és visszavághat a Microsoftnak azáltal, hogy a saját masszív szabadalomportfóliójában lévõ licenceket érvényesíti. Globális szabadalomháború küszöbén állunk?

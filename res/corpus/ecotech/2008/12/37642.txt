@@ -1,0 +1,14 @@
+Gartner: csak 6 százalékkal nõ jövõre a vállalati szoftverpiac
+
+Jelentõsen csökkentette idei és jövõ évi szoftverpiaci elõrejelzését a Gartner. Az elemzõcég szerint 2008-ban a vállalatok 229 milliárd dollárt költenek idén szoftverekre a korábban várt 231 milliárd dollár helyett, jövõre pedig 244 milliárdot, nem 253 milliárdot, ahogy azt októberben jósolta a Gartner. A 2009-es növekedés 6,6 százalék lesz mindössze, szemben a korábban prognosztizált 9,5 százalékkal.
+
+
+
+Az ok a gazdasági válság, amely világszerte érezteti hatásait és egyes kulcsfontosságú piacokon a recesszió, illetve a dollár árfolyamának változása. A lassulás minden régióban érzékelhetõ lesz a Gartner szerint, ugyanakkor a vállalati szoftverpiac vártnál kisebb növekedése ellenére lesznek olyan területek, amelyek továbbra is lendületesen bõvülnek vagy éppen most kapnak erõre -- persze olyan szektorok is, ahol látványosan megállnak a megrendelések.
+
+
+Utóbbira egyik példaként a SOA (szolgáltatásorientált architektúra) projekteket hozza a Gartner, amelyeknél biztosan behúzzák majd a cégek a kéziféket és elhalasztják vagy éppen törlik azokat. Ez a terület lassan fog csak magára találni, de jelentõs lesz a lassulás a klasszikus nagyvállalati alkalmazások piacán is, mint az ERP, a tartalomkezelés, az ellátásilánc-menedzsment és az ügyfélkapcsolat.
+
+Ugyanakkor felértékelõdnek az olyan szoftverek, amelyek segítenek hatékonyabbá tenni a szervezetek mûködését, például az üzleti folyamatmenedzsment (BPM) vagy a törzsadatkezelés (MDM). A költségek csökkentésére irányuló lépések nyertesi lehetnek a nyílt forrású szoftverek (operációs rendszerek és irodai csomagok), a virtulizációs megoldások, illetve a csökkentett utazási büdzsék miatt az üzenetküldére, hang- és videokonferenciára, valamint az online kollaborációra szolgáló eszközök.
+
+A Gartner szerint a kedvezõtlen piaci körülmények fel fogják gyorsítani az iparág konszolidációját, sok független szoftvervállalat megy majd csõdbe, vagy lesz kénytelen beleolvadni valamely riválisába. Mivel az új beszerzéseket, nagy bevezetéseket és verzióváltásokat sokan el fogják halasztani, ezért a szoftverszállítóknak nem marad más hátra, mint a támogatási szolgáltatásokra koncentrálni.

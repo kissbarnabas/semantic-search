@@ -1,0 +1,12 @@
+Nyílt forrású üzletiintelligencia-szoftver fejlesztõjébe fektet a Red Hat
+
+A nyílt forrású üzletiintelligencia-szoftvert fejlesztõ JasperSoftba fektet a Red Hat. A JasperSoft összesen 12,5 millió dollár kockázati tõkéhez jutott, a vezetõ linuxos cég azonban nem kívánta elárulni, hogy ebbõl pontosan mennyi származik tõle.
+
+
+
+A világ elsõ számú Linux-disztribútora ma már nem csak a szoftverrétegek legalsó szintjén, az operációs rendszer szintjén van jelen, a JBoss felvásárlásával egy ideje a middleware-piacon is megvetette a lábát  nyílt forrású alkalmazásszerverrel és hozzá kapcsolódó eszközökkel. A távlati cél, hogy a Red Hat olyan komplett megoldásokat dolgozzon ki, amelyek konkrét problémákat oldanak meg az ügyfeleknél, ehhez pedig egyre magasabbra kell mászni a szoftverrétegek között, egészen az alkalmazások szintjéig.
+
+
+ A JasperSoft azt állítja, övé a világ legelterjedtebb üzletiintelligencia-szoftvere, ugyanis a különféle termékeit, köztük a JasperServert, a JasperAnalysist és a JasperReportsot, illetve a MySQL-hez, Oracle-hoz és SalesForce-hoz kifejlesztett jelentéskészítõ eszzközöket már több mint 7 milliószor töltötték le és 96 országban 10 ezer szervezet használja õket, a JasperForge közösségi oldalon pedig több mint 80 ezer fejlesztõ regisztrálta magát eddig.
+
+A 12,5 millió dolláros tõkebefektetést a JasperSoft további terjeszkedésre kívánja felhasználni, beleértve a képviseletek nyitását, partnerkapcsolatok építését, illetve termékfejlesztést. Egyesek szerint a Red Hat befektetése az elsõ lépcsõje lehet egy felvásárlásnak, ezt az információt azonban a Red Hat stratégiai szövetségekért felelõs vezetõje nem kívánta kommentálni. 

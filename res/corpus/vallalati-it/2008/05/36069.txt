@@ -1,0 +1,14 @@
+Újdonságok az EMC Worldön: deduplikációt mindenkinek!
+
+Két új tárolótömböt és egy adat-deduplikálásra képes virtuális szalagkönyvtárat, valamint a NetWorker mentési szoftver középvállalatoknak szánt, egyszerûsített licencelésû verzióját mutatta be a Las Vegasban rendezett EMC World konferencián az adattárolási megoldások legnagyobb gyártója.
+
+
+
+Az EMC Disk Library 3D 1500 a kisebb cégek, a 3D 3000 pedig a középvállalatok számára tervezett megoldás, elõbbi  kapacitása 36 terabájt, utóbbié pedig 148 terabájt. Mindkét lemeztömbben 1 terabájtos SATA diszkek felelnek az adatok tárolásáért, a védelemrõl RAID 6 gondoskodik. Az eszközöket leginkább LAN-on keresztüli adatmentésre (NFS, CIFS) ajánlják, de opcionális Fibre Channel portokon keresztül akár SAN hálózathoz is csatlakoztathatók. A kereskedelmi megjelenésük május 28-án esedékes. Az 1 terabájtos SATA diszkek júliustól a korábban csak 750 gigabájtos meghajtókkal rendelhetõ 3D 4000 lemeztömbben is elérhetõk lesznek.
+
+Mindkét új lemeztömböt ellátták szabály-alapú adat-deduplikációval, amely kiszûri a redundáns adatok mentését, ezzel kapacitást takarítva meg. A szabály-alapú deduplikáció lényege, hogy a mentett adatokból csak egy példány létezik, de a tárolótömböt elérõ szoftverek számára a szoftver pointerek segítségével tetszõleges számú "virtuális másolatot" mutathat belõle. Például a cég dolgozóinak küldött körlevélhez csatolt állományból csak egyetlen példány létezik, de azt mindenki úgy érzékeli, mintha az összes levélben benne lenne. A deduplikáció mentéskor történik, de akár le is állítható egy adott idõre, hogy a mentés során a tároló a lehetõ leggyorsabban tudja nyelni az adatokat, és ezekre az állományokra késõbb is "ráereszthetõ".
+
+
+ Az algoritmus most bekerült az EMC igen népszerû, nagyteljesítményû SAN-hálózatokba szánt Disk Library 4000 virtuális szalagkönyvtárába is, amelynek új szoftvere már képes lekapcsolni az éppen nem használt merevlemezeket, amivel a gyártó szerint akár 19 százalékkal csökkenthetõ az eszköz fogyasztása, valamint a hûtésére fordított költség. A DL 4000-es sorozat mostantól akár 5400-as percenkénti fordulatú SATA lemezekkel is kérhetõ, amelyek 32 százalékkal kevesebbet fogyasztanak a 7200-as diszkeknél. Az EMC szerint ezzel, valamint a nem használt lemezek kikapcsolásával összességében akár 47 százalékos fogyasztás-csökkenést is el lehet érni.
+
+Szintén az EMC Worldön mutatkozott be a NetWorker mentési szoftver új változata kimondottan középvállalatok számára. A NetWorker Fast Start lényege, hogy a vevõk a nagyvállalati NetWorker összes funkcióját használhatják egy egyszerûsített licenckonstrukció keretében, amelyet késõbb teljes nagyvállalati licencre bõvíthetnek fel, ha a vállalatuk növekedik. A 18 ezer dolláros induló áron kapható Fast Start összesen 20 windowsos vagy linuxos szervert és öt alkalmazást (pl. Exchange, Oracle, SQL Server) képes menteni.

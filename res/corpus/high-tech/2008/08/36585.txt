@@ -1,0 +1,14 @@
+Cell-hibrid prototípus számítógépet tesztelnek Barcelonában
+
+A Roadrunnerhez hasonló hibrid architektúrájú prototípus szuperszámítógépet kapott a Barcelona Supercomputing Center (BSC), mely egy európai projekt keretében következõ generációs szuperszámítógépek hardveres és szoftveres architektúrájának megtervezését szolgálja majd. 
+
+
+
+A MariCel névre hallgató konfiguráció Cell és Power6 chipeket használ, felépítése pedig hasonló az IBM által épített Roadrunneréhez. A Roadrunner architektúrájában egy blokkban egy kétutas, kétszer kétmagos Opteron-blade vezérel két kétutas Cell-blade gépet, vagyis egy Opteron maghoz rendel egy Cell-chipet a programozási modellje. A blokkokból 180 darab képez egy összeköttetési csomópontot, 288 InfiniBand DDR portos száloptikás switch-csel. A Roadrunner az IBM, a Sony és a Toshiba kollaborációjának eredményeként megszületett eredeti Cell Broadband Engine  egy HPC kódokra tuningolt verzióját alkalmazza, a PowerXCell 8i-t. A MariCelrõl kiadott közleményben nem említik ugyan, de valószínûleg ezt a chipet alkalmazzák õk is a prototípusban.
+
+A PowerXCell 8i felépítése lényegében megegyezik az eredeti Cellével, vagyis a vezérlést szolgáló egy PowerPC mag mellett egy körbuszon 8 vektorprocesszor található, ezek azonban már 64-bites pontosságú lebegõpontos mûveleteket is nagy teljesítménnyel képesek végrehajtani, órajelenként összesen 32-õt, így 3,2 gigahertzen 100 gigaflops elméleti csúccsal bírnak. Két PowerXCell 8i chippel egy BladeCenter QS22 szerver 217 gigaflops csúcsteljesítményre képes kétszer 16 gigabájt DDR2 memória megcímzése mellett, ami BladeCenter keretenként 3 teraflopsot és akár 448 gigabájt memóriát is takarhat -- papíron mindezt 4 kilowatt fogyasztás alatt.
+
+A BSC a MariCellel részt vesz a Partnership for Advanced Computing in Europe projektben, mely egy sztenderdizált európai szuperszámítógépes architektúra megalkotását célozza a kapacitások konszolidálása, koncentrációja mellett. A megcélzott rendszernek legalább 10 petaflopsos kapacitással kell  rendelkeznie, vagyis tízszer nagyobbal, mint a jelenlegi csúcstartó Roadrunner, hogy kiszolgálja az európai tudományos közösséget. A 120 millió dolláros költségvetésû Roadrunner az Egyesült Államok Nemzeti Nukleáris Biztonsági Hivatalához tartozik, és a Los Alamosi Nemzeti Laboratóriumban fog többek közt nukleáris fegyverszimulációkat végezni.
+
+
+Az gigantikus kapacitások lekötését az olyan kutatások garantálják, mint a szeizmológiai vizualizációt és elemzést szolgáló Kaleidoscope projekt, melynek kódját már a prototípuson is futtatnak. Ezzel többek közt a szénhidrogén lelõhelyek pontosabban felderítését szolgálják, ugyanis egyetlen tengeri próbafúrás költsége több milliárd forint is lehet. A Kaleidoscope kódjának egy 10 teraflopsos rendszeren átlagosan 4 hónapig kell futnia -- a megcélzott 10 petaflopsos rendszeren órák kérdése volna. Az újgenerációs gépek elsõ példányait a következõ évtized elejére várják.

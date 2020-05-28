@@ -1,0 +1,14 @@
+Látványos gyorsulást ígér a 2009-es Norton-generáció
+
+A Symantec kiadta népszerû a Norton Internet Security és a Norton Antivirus 2009-es verzióinak nyilvános bétaváltozatait, amelyek ingyen letölthetõk a vállalat weboldaláról.
+
+
+
+A cég mindkét új termék kapcsán a megnövekedett sebességet emelte ki, mint a legfontosabb újdonságot. A Symantec szoftvereit korábban számos kritika érte amiatt, mert lassúak, nehézkesek, ráadásul a rendszerigényük is túlzott. Ennek következtében a cég ügyfeleket vesztett, akiket sikerrel csábítottak el a gyorsabb megoldások, mint amilyen az ESET NOD32. A visszajelzések és a piaci tendeciák alapján a biztonsági termékeknél a felhasználók számára a sebesség a siker kulcsa tehát.
+
+A Symantec álláspontja szerint egy biztonsági csomagnál a legfontosabb szempont a megfelelõ védelem, minden más csak ezután következhet, a cég azonban a felhasználói visszajelzésekre reagálva most a teljesítményt helyezte a fejlesztések fókuszába. A cég ígérete szerint a teljesen új architektúrára épülõ, 2009-es Norton Internet Security és az Antivirus jóval hamarabb feltelepülnek az az elõdöknél, gyorsabban indulnak, sebesebben ellenõrzik a fájlokat, és kevesebb memóriát és processzoridõt is foglalnak. A felhasználókat a szoftverek tájékoztatják arról, az egyes biztonsági funkciók mennyi erõforrást kötnek le, bizonyos feladatokat a termékek képesek úgy ütemezni, hogy a PC üresjárata idején fussanak. 
+
+
+ Jody Gibney termékmenedzser szerint az új termékek valódi áttörést hoznak a teljesítmény és erõforrás-foglalás területén, a Norton Internet Security 2009 például beéri 6 megabájt memóriával, ami nagyjából fele a 2008-as verzió memóriafoglalásának -- a Symantec saját felmérése szerint az ügyfelek 40 százalaléka még mindig 512 megabájt memóriával rendelkezõ PC-n futtatja a programot, ezért minden megsprórolt megabájtnak nagy jelentõsége van. 
+
+A fájlok átvizsgálásának idejét az ún. Norton Insight technológiával rövidítik le a szoftverek. Az eljárás a felhasználók millióinál a heurisztikán alapuló motor már által átvizsgált állományokból kinyert statisztikák alapján egyszerûen átugorja azokat a fájlokat, amelyeket biztonságosnak minõsít. A vállalat nagy hangsúlyt fektetett a gyorsan keletkezõ új kártevõk elleni védekezésre is. Eddig a Symantec termékekhez nyolc óránként jelent meg szignatúra-frissítés, a 2009-es változatok esetében azonban ezeket folyamatosan adja ki a cég, ahogy a víruslabor elkészíti õket. Ezáltal lerövidíthetõ a kártevõ megjelenése és a víruskeresõ frissítése közötti idõ, amíg a gép sebezhetõ. A Symantec 5-15 perces frissítési idõközt ígér.

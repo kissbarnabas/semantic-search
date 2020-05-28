@@ -1,0 +1,32 @@
+A spamszûrõket is rendszeresen tesztelni fogja a Virus Bulletin
+
+A vírusvédelmi programok egyik legnagyobb független tesztelõje, a Virus Bulletin mostantól fogva a spamszûrõket is rendszeresen próbára teszi. Az utóbbi idõben a kártevõket is megelõzve talán a kéretlen reklámok lettek az internetezõk legfõbb ellenségei, a postaládákba ezerszám ömlõ szemét zavarja a legjobban a felhasználókat. Ma már a legtöbben használnak spamszûrõt, azonban távolról sem mindegy, hogy milyet.
+
+
+
+Komplex teszt kell
+
+Noha a Virus Bulletin vírusirtó-tesztelési módszereit az utóbbi idõben egyre több kritika érte, a gyártók továbbra sem engedhetik meg maguknak, hogy kimaradjanak belõle, az itt megszerzett "VB100" minõsítés fontos marketingfegyver a vásárlók kegyeiért folytatott harcban. Ezért alighanem a vezetõ biztonsági cégek mind benevezik spamszûrõjüket a VB független tesztjére, ami jó hírt jelent a vásárlóknak, akik mostantól fogva rendszeres és többé-kevésbé pontos képet kaphatnak a spamfilterek hatékonyságáról.
+
+A Virus Bulletin a víruskeresõket egy, a szabadon terjedõ, ismert kártevõkbõl összeállított mintával teszteli, azt vizsgálva, hogy a programok felismerik-e õket. A spamszûrõk esetében egy megbízható, releváns teszt elvégzése azonban számos nehézségbe ütközik. Alapfeltétel, hogy az összes spamszûrõ ugyanazokat a leveleket kapja meg, ráadásul azonos idõben. Mivel nem létezik adatbázis az interneten keringõ összes spamrõl, a spamszûrõk hatékonyságának vizsgálata érdekében a mintának hatalmasnak kell lennie és valódi spamekbõl, nem szimulált, spamszerû levelekbõl kell állnia. Emellett emberi erõforrás bevonására is szükség van, ugyanis végsõ soron az e-maileket olvasó felhasználónak kell eldöntenie, hogy számára mi a spam.
+
+Martijn Grooten, a Virus Bulletin szakértõje a HWSW megkeresésére elmondta, a szervezet egy meglehetõsen komplex eljárást dolgozott ki a spamszûrõk tesztelésére, amely során több PC-n azonos idõben futnak majd a szoftverek. A módszernek persze megvannak a maga hiányosságai, ezt Grooten is elismeri -- a statisztikai alapokon nyugvó vizsgálat mindenképp feltételez valamekkora hibahatárt. Ráadásul vannak spamszûrõk, amelyek már az SMTP kapcsolat szintjén blokkolnak kapcsolatokat, és téves pozitív riasztásnál ezek a levelek sosem kerülnek be a postafiókba, így a felhasználók nem is tudják, hogy levelük jött.
+
+Ahány szoftver, annyi módszer
+
+"A spameket a különféle termékek különféle módon
+igyekeznek kezelni. Általában vagy a levél tartalmát elemzik például
+statisztikai, heurisztikus vagy ujjlenyomatot vizsgáló módszerekkel,
+vagy pedig az elérhetõ hálózati paraméterek, információk alapján
+próbálják megszabadítani a felhasználókat a spamtõl" -- mondta a HWSW-nek Sütõ János, a kéretlen levelek elleni védekezés lehetõségeit boncolgató, SPAMtelenül címû könyv szerzõje.
+
+A feketelistán, azaz a gyanús IP-címek szûrésén alapuló módszer elõnye az egyszerû használat, és a minimális adminisztrációs igény, hátránya, hogy magas lehet a fals pozitívok száma és ezek kezelése növeli az adminisztrációs igényt. A szürkelisták használata megfelelõ lehetnek az SMTP-szabványt nem követõ spammerek, például a botnetek ellen, adminisztrációs igénye minimális, és az SMTP-szabáványt követõ kliensek esetén nincsenek is fals pozitív találatok, viszont akár több órás késleltetést is okozhat a levelek továbbításában. A nagy tömegben kiküldött spameket hatékonyan lehet detektálni ujjlenyomat-elemzéssel, ez azonban elsõsorban az angolul vagy más világnyelven írt reklámok ellen hatékony, a magyar spameket esetleg nem ismeri fel. 
+
+Népszerûek még a heurisztikus szûrõk, amelyek nem igényelnek tanítást, telepítés után azonnal mûködnek, viszont erõforrásigényesek és a fejlesztõknek vagy admninisztrátoroknak folyamatosan követnie kell a spammerek új trükkjeit. Statisztikai módszerekkel extrém magas pontosságot lehet elérni, bármilyen nyelven írt spamek ellen hatásosan bevethetõ, cserébe tanítani kell õket és általában nagy az I/O-igényük. Többféle megoldás elõnyeit ötvözik a reputáción alapuló spamszûrõk, amelyekkel nagy pontosság érhetõ el, azonban ezek jellemzõen költségesek.
+
+
+Látható, hogy a különféle megoldások jelentõsen eltérnek egymástól pontosság, teljesítmény, erõforrásigény, költség, adminisztrációs igény, illetve a használat módja tekintetében. Vannak gyártók, amelyek termékeikben több technológiát is ötvöznek, így próbálnak tovább javítani a hatékonyságon. Sütõ úgy véli, a Virus Bulletin független tesztje segíthet a gyártóknak, hogy felmérjék, egymáshoz képest hol tartanak, melyik termék mely területeken erõs, de a vásárlók számára is hasznos lehet egy összefoglaló táblázat, amely rangsorolja az elérhetõ termékeket.
+
+Rendszeresen tesztelnek
+
+ A Virus Bulletin kezdetben csak a spamszûrõk pontosságát, vagyis az átengedett kéretlen reklámok arányát, valamint a tévesen spamnek minõsített levelek számát vizsgálja, a késõbbiekben azonban más paramétereket is, például az erõforrásigényt -- tudtuk meg Martijn Grootentõl. Az elsõ összehasonlító tesztet január végére tervezi a Virus Bulletin, a késõbbiekben pedig a víruskeresõkhöz hasonlóan rendszeresen megismétlik majd a vizsgálatot, ahogy fejlõdnek a spamszûrõk és persze a kéretlen levelek küldõi is új trükköket vetnek be.

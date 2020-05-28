@@ -1,0 +1,16 @@
+Feltámadt hamvaiból az AMD multimédiás videokártya-termékvonala
+
+Úgy tûnik, mégis mutatkozik igény a multimédiás funkciókkal felruházott videokátyákra, erre utal legalábbis, hogy az AMD hosszú szünet után a múlt héten új, ezúttal már DirectX 10.1-es alapokra helyezett, és HD-képességekkel ellátott All-in-Wonder vezérlõt jelentett be. A tévétunert és a grafikus processzort egy bõvítõkártyára integráló termékcsalád lehetséges megszûnésérõl, vagy parkolópályára kerülésérõl két évvel ezelõtt kezdtek terjedni az elsõ pletykák -- akkor, amikor az AMD bejelentette az ATI Technologies felvásárlását.
+
+
+
+Az ATI All-in-Wonder HD névre keresztelt új kártya a Unified Video Decoder révén az 1080p felbontású h.264 és VC-1 videók dekódolásával is gond nélkül boldogul, ezzel együtt az integrált ATI Theater 650 Pro tuneregység lehetõséget ad a normál mellett HD-felbontású digitális tévéadások rögzítésére is. A hardveres MPEG-2 enkódert tartalmazó tunerrel analóg rendszerben továbbított adások is rögzíthetõk, az opciós kiegészítõként megvásárolható, további egy kártyahelyet elfoglaló, többfajta kimenetet és bemenetet felsorakoztató HD Accessory Kiten keresztül pedig külsõ videoforrásokról történõ mûsorfelvétel is lehetséges.
+
+Az All-in-Wonder HD-hoz az ATI Catalyst Media Center alkalmazás új, a Windows Vistával immár száz százalékosan együttmûködõ változatát adja az AMD -- ez a szoftver nem csak a tévéadások megtekintésére és DVD-lejátszásra alkalmas, hanem ezen keresztül lehet elérni a felvételi képességeket is, vagy különlegesebb funkciókat, mint például a kép-a-képben megjelenítést is. A kártya használatával nincs szükség digitális hangkimenetet tartalmazó külön eszközre (alaplapi kodek, hangkártya), a vezérlõ HDMI-kimenetén keresztül ugyanis átadja az erõsítõnek az 5.1-es Doby Digital hangsávot. Az All-in-Wonder HD-re a HDMI mellett egy dual-link DVI kimenet is került.
+
+
+
+
+Az AMD új kártyájára a cég januárban debütált alsó-középkategóriás grafikus chipjét, az 55 nanométere gyártástechnológiával készülõ RV635-öt építik. A 120 feldolgozó egységgel rendelkezõ, teljes DirectX 10.1-támogatást nyújtó lapka 725 megahertzen jár, mellé 256 megabájtnyi, 600 MHz-es DDR2 memória társul, a komplett megoldás így korlátozottan bár, de modern játékok futtatására is alkalmas.
+
+Az All-in-Wonder termékcsalád új tagja, az All-in-Wonder HD elsõként a Diamond Multimedia és a VisionTek választékában tûnhet fel, 199 dolláros ajánlott fogyasztói áron. Azt egyelõre nem tudni, hogy a vezérlõnek készül-e az európai piacra szánt, az itten normákkal kompatibilis változata.

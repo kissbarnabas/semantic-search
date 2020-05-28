@@ -1,0 +1,18 @@
+Továbbra sem törõdnek a vezeték nélküli hálózatok biztonságával a cégek
+
+Az AirDefense tesztje szerint továbbra sem veszik komolyan a vezeték nélküli hálózatuk biztonságát az amerikai cégek: a New Yorki National Retail Federation (NRF) Convention & Expo rendezvényen készített körkép katasztrófális állapotokat vetített a szakértõknek. A hálózatoknak csupán 10 százalékát védte az elérhetõ legerõsebb WPA2 titkosítás.
+
+
+
+A kiállítás területén nem kevesebb mint 458 hozzáférési pontot talált az AirDefense, melyeknek 60 százalékát még mindig a Wired Equivalent Privacy (WEP) titkosítási megoldás védte. Ez ma már gyakorlatilag ugyanazt jelenti, mintha teljesen nyitva hagynánk a hálózatunkat: a WEP-kulcsok percek alatt feltörhetõk internetrõl is letölthetõ alkalmazások segítségével.
+
+A terület monitorozása közben a cég 1693 olyan mobil eszközt, noteszgépet, tenyérgépet, mobiltelefont talált -- ez az összes regisztrált készülék 80 százaléka -- mely fogékony volt az "Evil Twin" támadásra. Az Evil Twin egy létezõ hotspot "emulálása", lemásolása, hogy a felhasználó tudta nélkül ahhoz kapcsolódó noteszgépekhez, eszközökhöz is hozzárférhessenek a támadók.
+
+Az AirDefense alig talált 802.11n elõzetes specifikációnak megfelelõ hotspotokat -- kevesebb mint 1 százalék --, noha a kiállításon éppen az új technológiákat mutatják be az érdeklõdõknek, ezek szerint maguk a cégek viszont nehezen implementálják azokat, csak a levegõbe beszélnek. A monitorozás közben bizonyítékokat találtak támadási kísérletekre is, a Karma, Hotspotter és Airsnarf alkalmazások is képviseltették magukat a kiállításon.
+
+Ez elment vadászni...
+
+
+A cég összefoglalója szerint számos olyan noteszgép volt, mely a hotspotokhoz kapcsolódva érzékeny adatokat árult el magáról, nem csak felhasználói neveket, jelszavakat csak domain-címeket közöltek automatikusan, de NetBIOS és IPX forgalmat is bonyolítottak. Nem kevesebb, mint 94 noteszgép próbálta meg módosított MAC-azonosítóval átverni a Javits&#8217; Center saját Wi-Fi hotspotjának ellenõrzését.
+
+A kiállítás területén jóval több hotspot mûködött, mint amennyi optimálisan elfért volna: az AirDefense adatai szerint hatalmas volt az interferencia, az újraküldött csomagok száma átlagosan elérte a 78 százalékot. A vezeték nélküli eszközök szó szerint küszködtek azért a nagy zajban, hogy megértessék magukat a másik oldallal, a hozzáférési ponttal.

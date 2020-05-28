@@ -1,0 +1,19 @@
+Elindult az elsõ tudományos keresõ, a Wolfram Alpha
+
+Míg a Google és a hozzá hasonló keresõk alapvetõen az index-adatbázisra
+és a keresõszavakra építenek, a Wolfram Alpha egy hatalmas tudományos
+adatbázist és a hozzá kapcsolódó matematikai modellt használja a válasz
+kiszámításához. Bár az új keresõ adatbázisában elsõsorban tudományos
+tételek, a fizikai világgal kapcsolatos alaptézisek és információk
+szerepelnek, a rendszerhez a különbözõ technológiákkal, az idõjárással,
+üzlettel, utazással, személyekkel és zenével vagy mással kapcsolatban
+is lehet kérdéseket intézni.
+A keresõmotort kiszolgáló rendszer öt adatközpontból nyeri a válaszokat, a háttérszámításokat nagyjából tízezer processzor végzi. A keresõhöz elsõsorban ismert tényekkel kapcsolatos kérdések intézhetõk, de bonyolultabb matematikai képletekre is választ ad, a rendszer emellett a legtöbb válasznál grafikonokat is rajzol. A Wolfram Alpha a fentiek mellett összehasonlító információkat is képes megjeleníteni a találati oldalon.
+
+Az új csodakeresõrõl elõször márciusban lehetett részletes információkat olvasni. Az akkori vélemények szerint a Wolfram Alpha minden nagyszerûsége és tudományos átütõ ereje ellenére
+sem helyettesíti a Google-t és társait: "Nem valószínû, hogy a Wolfram
+Alphát bárki is segítségül hívja majd egy új autó vásárlásánál,
+blogbejegyzések keresésekor vagy éppen egy megfelelõ nászutas-szállás
+kiválasztásához. (&#8230;) Ez akkor lehet hasznos, ha a felhasználó tényeket
+akar megtudni valamivel kapcsolatban, vagy amikor valamilyen tényszerû
+adatokhoz köthetõ kérdésekre, számításokra keresi a választ" -- mondta el Nova Spivack, a Twine-t fejlesztõ Radar Networks elnök-vezérigazgatója.

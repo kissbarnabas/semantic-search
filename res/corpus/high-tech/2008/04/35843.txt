@@ -1,0 +1,14 @@
+Titkosítja az adatokat a Fujitsu noteszgépekbe szánt 2,5 hüvelykes merevlemeze
+
+A Fujitsu 2,5 hüvelykes merevlemezei beépített, 256 bites AES titkosítás közbeiktatásával tárolják az adatokat, amely az egyik legbiztonságosabb titkosítási módnak számít. A meghajtókat a gyártó noteszgépekbe és külsõ tárolóegységekbe szánja.
+
+
+
+A Fujitsu tegnap jelentette be MHZ2 CJ SATA-csatolójú merevlemez sorozatát, amelyek 256 bites Advanced Encryption Standard (AES) titkosítás alkalmazásával rögzítik a rájuk másolt adatokat. Az AES titkosítás hardveres megoldás, a merevlemez írási- és olvasási mûveletei során egyaránt aktív, és ellentétben a szoftveres megoldásokkal nem igényli a titkosító kulcs memóriába töltését.
+
+
+A meghajtókon tárolt adatok ezzel a megoldással olvashatatlanná tehetõk, megrövidítve ezzel például a biztonsági törlések, formázások idõigényét, melyek az egységek kidobásakor, vagy az ezeket tartalmazó noteszgépek eladásakor szükségesek. Az öt tagból álló sorozat 80 gigabájtos modellel indul, a kapacitás felsõ határa 320 gigabájt. Mindegyik merevlemez 7200-as percenkénti fordulaton pörgeti a tányérokat és maximum három gigabites adatátviteli sebességre képesek másodpercenként.
+
+
+
+A merevlemezek írás és olvasás közben 2,3 wattot fogyasztanak, mely érték az átlagos középmezõnybe illeszti a sorozatot a fogyasztás terén (a 160 gigabájtos Toshiba MK1653GSX 1,9 wattal is beéri). Az AES hardveres titkosítást 2,5 hüvelykes méretben elõször elérhetõvé tevõ MHZ2 CJ sorozat május végétõl lesz elérhetõ. Árakról még nem kerültek nyilvánosságra információk.

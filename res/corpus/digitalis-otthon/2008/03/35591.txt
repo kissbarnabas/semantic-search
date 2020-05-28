@@ -1,0 +1,20 @@
+Újdonságok az õsszel érkezõ OpenOffice.org 3.0-ban
+
+Az OpenOffice.org nyílt forrású irodai csomagnak még a 2.4 verziója sem készült el, de a fejlesztõk már gõzerõvel dolgoznak a 3.0 változaton, amelynek a megjelenése szeptemberben várható. Az OpenOffice.org Ninja blogon egy alfaváltozatból készült képekkel illusztrálva láthatók a 3-as verzió fontosabb újdonságai.
+
+
+
+Az összes OOo-komponenst érintõ változás, hogy a 3-as verzió már natívan, tehát konverter nélkül támogatja az Office Open XML nyílt dokumentumformátumot, amelyet az Office 2007-tel együtt vezetett be a Microsoft. Az OpenOffice.org 3.0 felhasználói ugyanúgy nyithatnak meg OOXML formátumú szöveges dokumentumokat, táblázatok és prezentációkat, t és menthetnek ebbe a formátumba, mint ODF-be, vagyis a szoftver használata szempontjából nem lesz különbség a fájltípusok között. Az OOo 3 támogatni fogja az ODF legújabb, 1.2-es verzióját is.
+
+
+
+A szoftver minden komponensében történtek jelentõs változások, ezek között kisebb fejlesztések és valóban látványos újítások is találhatók. Utóbbiakra példa, hogy a Writer szövegszerkesztõ már képes egy dokumentumnak egyszerre több oldalát is megjeleníteni, ha elegendõ hely áll rendelkezésre a képernyõn -- az Office 2003-ból ismert szolgáltatást a felhasználók régóta kérték az OOo fejlesztõitõl. Szintén a Writer fontos újítása, hogy a 3.0 változat felhasználói a szöveg egyes részeihez saját jegyzeketet fûzhetnek a lap margójára, amelyek akár formázhatók is, és a helyesírásuk is ellenõrizhetõ.
+
+
+ A Calc táblázatkezelõ újdonsága egy lineáris megoldóprogram, amely teljesen integrálódik a táblázatkezelõbe. Az igazán nagy táblázatokkal dolgozó felhasználók annak örülhetnek, hogy már 1024 oszlopa lehet egy táblának, a vizuális finomságokra vevõk pedig az új színsémáktól lesznek minden bizonnyal boldogok. Az új képességek között említhetõ még, hogy egy táblázatot egyszerre többen is szerkeszthetnek. Az Impress prezentációkészítõ fontos újdonsága, hogy már táblázatok is készíthetõk, szerkeszthetõk benne, nem kell ezeket más OOo-komponensben létrehozni és onnan beilleszteni.
+
+
+
+A fejlesztõk nem csak azt ígérik, hogy az OOo 3 gyorsabb és robosztusabb lesz a korábbi változatoknál, hanem azt is, hogy a szoftver végre futni fog Mac OS X operációs rendszeren, és teljesen támogatni fogja az Aqua interfészt, vagyis tökéletesen illeszkedik a Mac-es alkalmazások képi világába. Vannak olyan dolgok is azonban, amelyek hiányozni fognak az OOo 3-ból, a programcsomag továbbra sem tartalmaz majd az Outlookhoz hasonló levelezõt, és a Mozilla Thunderbird és Lightning esetleg integrációjával kapcsolatban sem történtek elõrelépések.
+
+Aki kedvet érez magában az OpenOffice.org 3.0 nagyon korai, fejlesztõi változatának kipróbálásához, az letöltheti az elõzetest többek között a hivatalos hazai tükörszerverrõl, Windowsra, Linuxra, Solarisra, valamint Mac OS X-re egyaránt.

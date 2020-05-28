@@ -1,0 +1,12 @@
+Bakik sorozatába futott bele júniusi frissítéseivel a Microsoft
+
+Számos gondba ütközött a Microsoft a júniusi frissítései kapcsán. Két esetben maga a patchelés folyamata akadt el specifikus körülmények között, míg egy biztonsági frissítést újra ki kellett adni, mivel nem orvosolta az eredetileg befoltozni kívánt biztonsági rést. 
+
+
+
+A júniusi patch kedden a Microsoft többek között a Windows XP és Vista Bluetooth implementációjában található biztonsági résre adott ki frissítést. A kritikus besorolású sebezhetõséget kihasználva a támadó hozzáférést szerezhet a számítógépen tetszõleges kód lefuttatásával -- a Windows 2000 és Server kiadások nem érintettek. Az MS08-030 jelölésû közlönyben június 10-én közzétett foltozást a Microsoft múlt héten újra kiadni kényszerült, ugyanis az elsõ kiadása nem szüntette meg teljesen a problémát. A Microsoft emberi hibáról beszél, mely két független eset együttes bekövetkeztével történt meg.
+
+
+Két ennél is jelentõsebb probléma akadályozta azonban a júniusi frissítési hullám terjedését. A Microsoft két felügyeleti eszközével kapcsolatban is olyan hiba lépett fel, mely megakadályozta, hogy a nagyobb szervezetek maguk terítsék szét számítógép-hálózatukon a patcheket. Elsõként a System Center Configuration Manager, vagyis a ConfigMgr 2007 és a System Management Server 2003 kliensek szinkronizációs hibájára derült fény. A múlt héten kiadott ConfigMgr szerverfrissítés ezt a szinkronizációs problémát orvosolja, a homogén ConfigMgr vagy SMS környezeteket nem érinti.
+
+Valószínûleg közös gyökérbõl táplálkozva, de hasonló probléma jelentkezik a Windows Server Update Services (WSUS) esetében is. Azok a számítógépek, melyek az Office 2003-mal vagy komponenseivel rendelkeznek, nem képesek detektálni a WSUS szolgáltatáson keresztül, hogy frissítések érkeztek a szoftverhez. A problémát az okozza, hogy kliens-szerver kommunikációban a szerver nem képes feldolgozni a letöltési kérelmet, így a kliens nem kap választ. Hasonló eset korábban, idén februárban is megesett. A jelenségre a  WSUS csapat blogján jelent meg egy kézi beavatkozást igénylõ megoldás, mellyel megkerülhetõ a probléma.

@@ -1,0 +1,11 @@
+Három kritikus biztonsági javítás érkezett a Firefoxhoz
+
+A Firefox 3.0.13-as verziójával két biztonsági javítás érkezett, mindkettõ sebezhetõséget múlt héten, a Las Vegas-i Black Hat alkalmával hozták elõször nyilvánosságra. A két biztonsági rést a böngészõ SSL (Secure Socket Layer) implementációjában fedezték fel -- a weboldalak titkosításáért felelõs modul sérülékenysége révén a támadók felhasználói nevekhez és jelszavakhoz juthattak hozzá, illetve kártékony kódot tartalmazó, manipulált szoftverfrissítéseket juttathattak el a távoli számítógépre.
+A Firefox legújabb, 3.5-ös verziója már a kezdetektõl fogva védettséget élvez ettõl a támadástól, a fejlesztõk ugyanis ennél a változatnál a Network Security Services (NSS) egy újabb, biztonságosabb verzióját használták. Ettõl függetlenül a Firefox 3.5-öt is frissíteni kellett, ezúttal azonban csak egy biztonsági rést foltoztak be a programozók.
+
+A Firefox 3.5.2-ben csak a SOCKS5 proxykezelés sebezhetõségét javították, de ez a biztonsági rés is csak "alacsony" veszélyességi fokozatot érdemelt a Mozilla saját osztályozása szerint, mivel nem egyértelmû, hogy a hiba lehetõvé teszi a jogosulatlan adatmódosítást. A hibajavítás kapcsán a Computerworld felhívja a figyelmet, hogy ugyanezt a biztonsági rést a Firefox 3.0-s verziójában már az elõzõ, július 21-én kiadott frissítési csomagban már javították, azaz a hibáról vélhetõen hetek óta tudnak a Mozillánál.
+A Firefox 3.5-ös verziója június 30-án érkezett meg, az elsõ hibajavítás pedig július 18-án készült el. A múlt hónapban megjelent elsõ frissítés a sebezhetõségek mellett kijavította azt az NSS hibás implementálásából eredõ bugot is, mely miatt a böngészõ több felhasználónál hosszú másodpercek elteltével volt csak hajlandó elindulni.	     
+                  
+                  
+                  
+                   

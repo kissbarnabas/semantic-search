@@ -1,0 +1,78 @@
+Kipróbáltuk: HTC Touch Diamond, a csiszolatlan gyémánt
+
+A HTC neve a legtöbb vevõ számára ismeretlenül cseng itthon, pedig a nem éppen apró tajvani cég a windowsos okostelefonok egyik úttörõjének számít, méghozzá sikeres úttörõjének. Termékeit rengeteg szolgáltató forgalmazza saját márkanév alatt, de az ínyencek körében is letette már névjegyét a saját neve alatt forgalomba hozott érintõképernyõs Touch családdal. A família legújabb tagját, a Touch Diamondot próbáltuk ki néhány nap erejéig, és vegyes érzésekkel váltunk meg tõle. 
+
+
+
+Megnyerõ
+
+A Diamond legerõsebb jellemzõje az esztétikum, avagy modern (és többnyire helytelenül leegyszerûsített értelemben használt) kifejezéssel élve a design. Ez a megállapítás nemcsak a szükségszerûen a külsõségekre koncentráló elsõ találkozáskor igaz, hanem a készülék használata közben is. Felesleges kutatni barokkos jelzõk után, vagy metaforákat fûzni, a Diamond egyszerûen szép, méghozzá egyszerre elegánsan és divatosan szép: sikeresen ötvözi a letisztult minimalizmust és az extravaganciát, melyet nem kis részben a gyémánt struktúrájára emlékeztetõ szögletes motívumok érnek el a hátlapon. Az eleganciát erõsítik a Diamond kecses méretei és alacsony tömege is. 
+
+
+
+
+A készülék azonnal eladja magát. Az új TouchFLO 3D felület teljes vizuális összhangban van a fizikai burokkal. A 2,8 hüvelykes, VGA (480x640) felbontású panel kristálytiszta képet ad, színei élénkek, kontrasztosak. A panel alatt négy gomb látható síkba rendezve, és középen egy, melynek szélein valójában négy iránygomb is található, valamint a gomb érintésérzékeny, és érzékeli ujjunk körirányú mozgását is. A telefon bal élén kapott helyet a hangerõszabályzó, melynek nyomkodása szintén külön élményt nyújt elsõre: mindegy egyes fokozata más hangmagasságban szólal meg, mintha egy xilofonon játszanánk. A stylus rögzítése szintén stílusos, ugyanis mágnes vonzza be a helyére, így belövi magát az utolsó centiméteren.
+
+
+
+
+
+
+Specs
+
+Gyártó: 	High Tech Computer Corporation
+Kijelzõ: 2,8", 480x640, 65k szín
+OS: Windows Mobile 6.1 Professional
+CPU: Qualcomm MSM7201A 528 MHz
+RAM: 192 MB
+Háttértár: 256 MB elsõdleges, 4 GB másodlagos
+Hálózatok: GSM/GPRS/EDGE, UMTS/HSDPA
+Kapcsolatok: Wi-Fi, Bluetooth, USB
+Akku: 3,3 Wh
+Kamera: 3,2 MP
+Méretek: 102 x 51 x 11.5 mm
+Tömeg: 110 g 
+
+
+
+ A TouchFLO 3D felület a Windows Mobile 6.1 platformon fut, felette, de nem teljesen eltakarva azt, a gyakorlatilag kéziszámítógépes rendszer nagy részét a megszokott Start menün keresztül érhetjük el. Visszatérve a TouchFLO-ra, kilenc menüponttal bír a kijelzõ alsó részén vízszintes elrendezésben, ahol egy kézben tartva hüvelykujjunkkal kényelmesen és gyorsan, gyakorlást követõen pedig pontosan tudunk navigálni. A menükbõl a telefonálást, SMS/MMS-ezést, e-mailezést, webböngészést, fotókat és videókat, zenéket, idõjárást, a legfontosabb beállításokat, és a programok gyorsindítási menüjét érhetjük el -- praktikusan mindent, amire gyakran szükségünk lehet.
+
+Az egyes menüpontok külön-külön is simogatják a szemet, a rendkívüli minõségû panel miatt a fotókkal ellátott kapcsolataink, a képek, a zenealbumok borítója vagy az aktuális idõjárást szimbolizáló grafika lenyûgözõen látványosak. A menükön belüli függõleges navigáláskor az ujjunk elhúzásával tudunk görgetni, pontosabban tudjuk görgetni a felületet az ujjunk alatt, mintha megfognánk: ha lefelé akarunk lépni, akkor lentrõl felfelé kell gyorsan végighúzni az ujjunkat. A TouchFLO képes érzékelni a húzás sebességét, és a felületnek mintha lenne lendülete: egy hosszabb zenelistát eszeveszett sebességgel lehet pörgetni így, majd a vélt helyen az ujjunk érintésével gyorsan elkapni, vagyis megállítani. 
+
+Látványos
+
+A szépen animált TouchFLO használata megszokást és gyakorlást igényel, és szó szerint igényli: amennyiben "rosszul" kezeljük, és össze-vissza kezdjük el nyomkodni, huzigálni az ujjunkat, úgy gyakorlatilag megbolondul az egész: hosszú másodpercekkel késõbb teljesen mást fog csinálni, mint eredetileg akartunk.
+
+Ez a menük közötti navigációnál például azt jelenti, hogy az aktív menüpontnál megragadva az irányítást érintéssel vízszintes simítással haladunk balra vagy jobbra, és nem próbálunk meg gyors áthúzó mozdulatokkal, sem nyomkodással pozicionálni. A menükön belül függõleges vezérlésnél pedig legtöbbször a görgetés és kattintás összetévesztése jelent majd okot a bosszankodásra. Nem túl intuitív, talán hiba is, hogy a zeneszámok lejátszásakor már nem érvényesek a függõleges navigációnál megszokott mozdulatok, ha elõre akarunk léptetni, akkor lefelé kell húzni az ujjunk, nem felfelé, ha vissza, akkor pedig felfelé.
+
+ Használati szempontból a Diamond egyértelmûen legnagyobb értéke az LCD-panele, mely leginkább böngészéskor és képanyag fogyasztásakor mutatkozik meg. A nagyfelbontású kijelzõ és Opera 9.5 segítségével HSDPA-n vagy Wi-Fin böngészhetjük a webet, a böngészõ a legtöbb esetben nagyon okosan betördeli zoomoláskor az oldalakat, igazítja a látható szöveg szélességét és nagyságát az optimális olvashatósághoz. Az orientáció lehet álló és fekvõ is, ugyanis a Diamond beépített mozgásérzékelõivel képes állítani a képet, az Opera pedig természetesen újratördeli a tartalmat -- ez a funkció nem mindig sebészi pontosságú, de többnyire beválik. 
+
+Készüljünk fel ugyanakkor arra, hogy a renderelés nem éppen villámgyors, hiába a szélessávú csatlakozás, és a zoomolgatással együtt hosszabb idõn keresztül már inkább fárasztó élmény. Ahogyan minden mobil esetében, feltétlenül érdemes a gyakran látogatott oldalainkat lekönyvjelzõzni, melyeket így aztán sokkal kényelmesebben érhetünk el a böngészési fõmenübõl. A Diamond külön YouTube klienssel is rendelkezik, az Operával a normál YouTube.com oldalon nem tudjuk lejátszani a videókat -- ergo más videomegosztókét sem. A YouTube-kliens felülete rendkívül jól kezelhetõ, és egy gyors adatkapcsolattal hamar betöltõdnek a videók. A kijelzõ méretébõl és felbontásából fakadóan képek és videók nézegetésére is a lehetõ legalkalmasabb, amennyire csak méretei lehetõvé teszik. 
+
+
+
+Érdemes szót ejteni az SMS/MMS üzenetek szervezésérõl is, ugyanis a telefon a Gmailhez hasonlóan szálba szervezi azokat, így ha válaszolunk, akkor láthatjuk az elõzõ üzenetváltásokat is. A szövegbevitelhez többféle módot választhatunk, így mindenki megtalálhatja a magának szimpatikusat: ujjal is pötyöghetõ normál telefon, kompakt QWERTY, vagy teljes QWERTY virtuális billentyûzetek T9 prediktív lehetõséggel (csak angol), írott betû- és szófelismerés stylussal, mely meglepõen pontosan mûködik. A navigációt és gombnyomkodást intuitívan segíti, ha bekapcsoljuk az érintést kísérõ kattogást.
+
+Bosszantó
+
+Hogy miért is írtuk akkor az elején, hogy vegyes érzésekkel zártuk a Diamonddal eltöltött néhány napot? A készülék ugyanis nagyjából azt a válaszképességet nyújtja, mint egy PC: mobilos mércével sokszor zavaróan lassú, például egy SMS megválaszolásakor, de fõként több program párhuzamos futtatásakor. Bár a TouchFLO felület jó, csak egy kezdeményezésnek tekinthetõ végeredményben, mivel a felület többi része, a többi alkalmazás már teljesen máshogyan néz ki, használatukhoz pedig elõ kell venni a stylust. Sokan valószínûleg messzire hajítanák a készüléket akkor is, mikor elõször szembesülnek azzal, hogy a virtuális billentyûzet néha kitakarja a szövegbeviteli mezõt. 
+
+A Touch Diamondot nem véletlenül sorolják sokan az okostelefonok helyett a multimédiás kéziszámítógépek közé, mely fejlett kommunikációs képességekkel bír. Aki intenzív kommunikációra akarná használni, kérjük, ne tegye: a készülék körülményes és lassú kezelésétõl kiütések fogják borítani egy idõ után, a kevésbé higgadtakat pedig a mentõ viszi majd el, mikor a reggel teljesen feltöltött akkumulátor valamikor délután végleg megadja magát. Ráadásul a Touch Diamond nem viccel, az akkumlemerülésre figyelmeztetést gyorsan követi a tényleges kimerülés, nem úgy, mint a legtöbb készüléknél, ahol még jó ideig elpötyöghet az ember. Nem csoda egyébként a gyenge akkuidõ: nagyjából ugyanakkora kapacitású, 3,3 wattórás akkuja van a Diamondnak, mint egy W810i-nek.
+
+ Multimédiás készüléknek sem tökéletes sajnos a Diamond. Méreteibõl fakadóan az autófókuszos, optikai zoom nélküli fényképezõgép a mai mezõnyben már kimondottan gyengének számít, leginkább a megfelelõ optika hiányából fakadóan: a közeli tárgyak is sokszor mosottak, a képeknek nincs mélységük, a világos részek kiégnek, a sötétek gyengén látszanak. A hátsó, 3,2 megapixelese érzékelõ mellett elöl is található egy kamera videotelefonáláshoz.
+
+ Ha ez nen is nyomós indok ellene, akkor az már biztosan az, hogy a hozzá adott mini USB-s fülhallgatóval a zenei élmény bõven hagy kívánni valót maga után, és kedvenc fülesünkhöz USB-s adaptert kell vásárolnunk. Zavaró volt az a hiba is, hogy a hangszínszabályzó használatakor sokszor hibásan, tompán szólt a zene, ilyenkor ki kellett kapcsolni az equalizert, majd vissza, hogy visszakapjuk a hangzást.
+
+A gyenge hangzáson egy jobb fülessel még lehet segíteni, azon viszont nem, hogy nincs memóriakártya számára foglalat a készüléken, vagyis a beépített 4 gigabájtos tár a maximum. Hogy ez sok vagy kevés, azt döntse el mindenki maga, de a nagy zene-, video- és filmfogyasztók biztosan hamar kifutnak a helybõl. Hiába van GPS is a Diamondban, az itthon kedvelt iGót jogtisztán nem tudjuk feltelepíteni, hiszen memóriakártyán árulják. Sovány vigasz nyújthat, hogy a kábeles és a bluetooth-os másolás egyaránt gyors, ha indulás elõtt van még 10 percünk, jópár albumot vagy több órányi videót is rátölthetünk a Diamondra. Nem érezzük túlzottan jelentõsnek, de meg kell említenünk, hogy ha böngészéssel, videózással, táblázatkezeléssel terheljük a készüléket, hátul egy idõ után elkezd melegedni.
+
+Konklúzió
+
+De mi a verdikt? A HTC Touch Diamond egyszerre lenyûgözõ és bosszantó, egy multimédiás luxuskészülék a szó pozitív és cinikus értelémben egyaránt. Megjelenése, kijelzõje és TouchFLO 3D felülete és 130 ezer forintos árcédulája egyaránt kiemeli a mezõnybõl, ahogyan ennyi pénzért ilyen rövid akkumulátoridõt, nehézkes kezelhetõséget és gyenge hangminõséget sem kapunk máshol. Az viszont biztos, hogy mindenki észre fogja venni, és meg akarja majd nézni, ha meglátják a kezünkben, vagy az egy asztalon fekve. A HTC munkáját stílusból csillagos ötösre értékeljük, már a dobozán is látszik, hogy itt valami extra dologról van szó.  
+
+
+
+Egy alapvetõen a fogyasztói piacra, nem pedig munkára szánt terméknél mindig is kulcskérdés az, hogy "mennyit ér meg". A HTC Touch Diamond esetében nem vállalkoznánk ennek megválaszolására, ezt mindenki döntse el a saját pénztárcája és preferenciái alapján. A készülék mindenre képes gyakorlatilag, de ne várjuk el tõle, hogy meg is tegye.  A fejlesztési irány jó, csak a kirakó még nem állt össze -- gyenge szóviccel élve, tovább kell csiszolni ezt a gyémántot.
+
+Véleménye van?
+Szóljon hozzá a fórumban
+írjon szerkesztõségünknek!

@@ -1,0 +1,15 @@
+Váratlanul új tesztverzió jelent meg a Firefox 3.5-bõl
+
+A Firefox 3.5 Preview-t a Mozilla fejlesztõi oldalán szereplõ információk alapján nem is lehet majd különállóan letölteni, a frissített kód vagy a korábbi bétaváltozatok automatikus frissítési szolgáltatásán, vagy a böngészõbe épített manuális frissítési alkalmazáson keresztül tölthetõ csak le. A Mozilla szerint a frissítés nagyjából nyolcszázezer tesztelõ számítógépére töltõdhet le automatikusan a következõ 24 órában.
+Az új tesztváltozat kapcsán konkrét változásokról nem ír a Mozilla, mindössze annyi derül ki a rövid leírásból, hogy a Firefox 3.5 Preview stabilabb lett a korábbi tesztváltozatoknál, több hibát kijavítottak az új, TraceMonkey nevû JavaScript-motorban, emellett jobb lett a böngészõ natív OGG-támogatása is. Bár a fejlesztõk hangsúlyozzák, hogy a Firefox 3.5 Preview nem a végleges kódra épül, a böngészõ ettõl függetlenül alkalmas akár mindennapi használatra is.
+Az újabb és újabb tesztverzió megjelenése kapcsán a Firefox projektet vezetõ Mike Beltzner korábban többször kénytelen volt magyarázkodni, amiért a böngészõ új verziója nem tudott idõben megjelenni. A mostani bejegyzésben Beltzner elõrevetíti, hogy a Firefox 3.5 RC -- vélhetõen az utolsó tesztverzió -- egy-két héten belül jelenhet meg, vagyis egyre valószínûtlenebbé válik, hogy a végleges verzió még ebben a félévben megjelenhet (a múlt héten még felmerült annak a lehetõsége is, hogy az RC-t a hét közepén kiadják).
+A Firefox 3.5 fejlesztése elsõsorban az új, korábbinál gyorsabb
+JavaScript-motorral kapcsolatos fejlesztések elhúzódásának köszönhetõen
+tart jóval tovább a vártnál. A Mozilla október közepén adta ki a
+böngészõ elsõ bétáját, december közepén pedig a másodikat. A harmadik
+bétaváltozat megjelenését eredetileg január közepére datálták, de csak
+két hónap csúszással jelenhetett meg. A jelenleg aktuális tesztverzió
+-- a negyedik béta&nbsp; -- április végén vált elérhetõvé. Az új Firefox
+végleges
+változata az eredeti tervek szerint az elsõ negyedévben jelent volna
+meg.

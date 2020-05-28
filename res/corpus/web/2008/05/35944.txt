@@ -1,0 +1,12 @@
+Öt sebezhetõséget javítottak a Thunderbird levelezõben
+
+A Thunderbird levelezõ karbantartását végzõ Mozilla Messaging kiadta a népszerû nyílt forrású e-mail kliens legújabb változatát, amelyben öt kisebb hibát javítottak. A Tunderbird a Firefox motorját használja a HTML formátumú levelek megjelenítéséhez, a 2.0.0.14 verzióban olyan sebezhetõségeket javítottak, amelyeket a böngészõben már márciusban  orvosoltak.
+
+
+
+
+A sérülékenységeket JavaScript segítségével lehet kihasználni, azonban a Thunderbirdben alapértelmezésként le van tiltva a HTML formátumú levelekben található JavaScriptek futtatása, és a Mozilla nem is ajánlja senkinek az opció engedélyezését. A Mozilla Messaging közepes besorolást adott a sebezhetõségeknek.
+
+David Ascher, a Mozilla Messaging vezetõje szerint erõforráshiány miatt nem javították korábban a hibákat. A sebezhetõségeket a jóval nagyobb felhasználói bázissal rendelkezõ Firefoxban foltozzák be elõször, a Thunderbirdben pedig csak késõbb, így a levelezõprogram kijavítása nem hátráltatta a frissített Firefox kiadását. A Firefox módosításai nem kerülnek át automatikusan a Thunderbirdbe, a levelezõt "kézzel" kell kijavítani.
+
+A Thunderbird 2.0.0.14 Windowson, Linuxon és Mac OS-en futó változatban tölthetõ le a Mozilla weboldaláról. A felhasználók a beépített frissítõrutin segítségével  is  naprakésszé és biztonságossá tehetik a Thunderbirdöt. Szintén a Mozilla oldaláról letölthetõ a Thunderbird régóta várt 3.0 verziójának egy korai, fejlesztõi változata.

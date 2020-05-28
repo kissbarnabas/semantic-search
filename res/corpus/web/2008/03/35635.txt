@@ -1,0 +1,10 @@
+Preparált Word-dokumentumokkal támadható a Windows
+
+Felhasználói visszajelzések alapján a Microsoft kivizsgálja azt a sebezhetõséget, amelynek kihasználásával távolról tetszõleges kód futtatható az áldozatok gépén. A hibát a Word 2000, 2003 és 2007 változataival lehet kihasználni, és a Windows 2000, Windows XP, illetve Windows Server 2003 (SP1) operációs rendszerek érintettek. 
+
+
+
+A redmondi cég által kiadott figyelmeztetés szerint már vannak olyan támadások, amelyek erre a sebezhetõségre építenek, azonban csak kis számú, célzott fenyegetésrõl van szó, amely nem tömeges. A sebezhetõség a Microsoft Jet Database Engine-ben található, amely több Microsoft-termékben is megtalálható, ez az alapja az Accessnek is. A Jet 4.0.9505.0 vagy régebbi verziói a sérülékenyek, a redmondi cég jeleneg azt vizsgálja, vajon a Word mellett más alkalmazásokkal is kihasználható-e a sérülékenység, de egyelõre csak preparált Word-dokumentumokon alapuló támadásokról érkeztek jelentések. A US-CERT (United States Computer Emergency Readiness Team) figyelmeztetése szerint már tavaly decemberben észleltek olyan támadásokat, amelyek preparált Microsoft Access állományokra épültek, és szintén a Jet Engine sebezhetõségét használták.
+
+
+ A Microsoft szerint a sikeres támadáshoz számos tényezõnek kell összejátszania, ezért a veszély alacsony. Amennyiben a támadó egy preparált Word-dokumentum segítségével mégis bejut az áldozat gépére, ott vele azonos jogosultságokat tud szerezni, így mindent megtehet, amire az adott felhasználónak joga van -- programokat telepíthet vagy törölhet, adatokat módosíthat vagy lophat el. A Micorosft egyelõre vizsgálja a jelentéseket, és szokás szerint csak annyit tanácsol a felhasználóknak, hogy ne nyissanak idegenektõl érkezett állományokat. A Vistában, illetve a Windows Server 2003 SP3-ban már újabb Jet Engine található, ezért ezeket az operációs rendszereket nem érinti a probléma.

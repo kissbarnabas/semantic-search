@@ -1,0 +1,14 @@
+A Sun vette meg az Intel-verõ négymagos processzort tervezõ Montalvót
+
+Újabb kudarcba fulladt próbálkozás az x86-os chipek piacán: a Sun Microsystems kötelezõ érvényû megállapodást írt alá a pár éve alakult Montalvo Systems processzorfejlesztõ vállalat teljes szellemi tulajdonának felvásárlásáról. A vételár nem nyilvános, a tranzakció pár héten belül lezárulhat.
+
+
+
+A kaliforniai Santa Clarában, az Intel és a Sun tõszomszédságában teljes titokban mûködõ Montalvo Systems a Transmetából kivált chiptervezõ mérnökök alapították, de a vállalatnál más félvezetõgyártóknál (pl. AMD, Motorola, NexGen, Intel) komoly tapasztalatot felhalmozott szakemberek is dolgoznak. A 2006-ban alakult céget a Transmeta volt elnök-vezérigazgatója, Matthew Perry vezeti, vagy legalábbis vezette, de a bérlistán volt többek között Vinod Dham, aki az Intel Pentium processzort tervezte, majd késõbb a NexGennél és az AMD-nél dolgozott, valamint Peter Glaskowsky, aki a Microprocessor Report címû iparági szaklap fõszerkesztõjeként vált ismertté.
+
+A Montalvo Systems célja nem más volt, mint az Intel megszorongatása hazai pályáján, vagyis az x86-os processzorok piacán. Ennek érdekében a cég egy olyan aszimmetrikus négymagos x86 processzor fejlesztésébe fogott, amelyben az elképzelések szerint két nagyobb és két kisebb teljesítményû mag kapott volna helyet. Ez a design lehetõvé teszi, hogy a kisebb teljesíményt igénylõ feladatokat a kisebb, kevesebbezt fogyasztó magok hajtsák végre, ilyenkor a nagyobb teljesítményû magok teljesen le is kapcsolhatók, látványosan csökkentve a fogyasztást és hõtermelést. A nagyobb, erõteljesebb magok csak akkor kapnának szerepet, ha a kisebbek kifogynak a szuszból.
+
+
+ Hogy a Montalvo Systems pontosan milyen chipen dolgozott, azt sosem jelentették be, a fenti információk is csak pletykának tekinthetõk -- a tervekbõl sosem lett termék, de még prototípus sem. A vállalat weboldala is igen szûkszavû, az elérhetõségen kívül mindössze néhány állásinterjú olvasható rajta. Valószínûleg ezek sem frissek, mivel iparági források szerint a cég pár hete megvált a dolgozóinak kétharmadától, amikor kiderült, hogy az addig megszerzett 73 millió dolláros kockázati tõkén felül nem tud újabb forrásokat bevonni, amivel mûködése, sõt, a puszta léte is kétségessé vált.
+
+Egyelõre nem tudni, a Sun mit kezd majd a Montalvótól megvásárolt szellemi tulajdonnal. Az igen valószínûtlennek tûnik, hogy saját x86-chip fejlesztésébe fogna, az a forgatókönyv sokkal inkább elképzelhetõ, hogy a megszerzett tudást saját SPARC chipjeibe építi be a jövõben.

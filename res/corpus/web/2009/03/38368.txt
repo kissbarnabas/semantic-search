@@ -1,0 +1,25 @@
+Vatera: feltöltési díj és ami mögötte van
+
+Komoly pánikot keltett az aukciózó felhasználókban a napokban, hogy TeszVesz után a Vatera is bejelentette, aukciós díjat vezet be, melyet minden feltöltött áru után meg kell fizetni. Habár a díj alacsony, termékenként 5-40 forint, a sok, de olcsó terméket kínáló felhasználók számára mégis kellemetlen, hiszen a sikertelen aukciók után is fizetni kell. 
+
+
+
+Szükség volt rá?
+
+Gerõ Viktor, a Vatera.hu Kft. ügyvezetõ igazgatója szerint a minden aukció indításakor fizetendõ díj bevezetése azért vált szükségszerûvé, mert a feltöltött termékek száma ugrásszerûen nõ, szélesedik a kínálat és egyre több olyan termék kering a rendszerben idõtlen idõk óta, melyek sosem vagy legalábbis hosszú ideig nem találnak gazdára. A rendszernek ez alapjában véve nem probléma, de a felhasználók számára a Vatera szerint ez nehézkessé teszi a böngészést és a valóban értékes aukciók megtalálását. A díj bevezetésével a Vatera arra számít, hogy ez segít rendet tenni a piactéren és eltûnnek a halott aukciók. 
+
+
+ Ugyanakkor felvetõdik a kérdés, hogy a ritkán keresett, kevésbé kapós apróságokat kínáló eladókat nem riasztja-e el ez a módszer, ugyanis az õ esetükben messze nem garantált, hogy meg tudják becsülni, hogy mikor érdemes feltölteni az aukciót. Ha állandóan bent tartják, akkor egy párszáz forintos termék esetén az ár jelentõs része elmehet csak a feltöltési díjra, amit minden aukcióindítás után levonnak.
+
+[+] Külföldi kézbe került a Vatera  
+
+A Vaterát látszik igazolni a nemzetközi tapasztalat, ugyanis szinte mindenhol létezik feltöltési díj, az eBay-en például 50 amerikai cent (~110 forint). A Vatera vezetõje szerint más országokban a feltöltési díjak bevezetése után a piactereken az áruforgalom sebessége és a piacképes termékeket értékesítõ eladók forgalma megnõtt. Gerõ Viktor úgy látja, hogy a meglévõ problémán nem segítene a "jobb keresõ" fejlesztése sem, mert a "gyakorlat azt mutatja, hogy az oldalt sokan raktárként, lerakatként használták, termékek tömegét töltve rá." Másrészt sokan megtévesztõ kulcsszavakat adtak meg a terméklapon, ami miatt gyakran futhattak bele az érdeklõdõk irreleváns találatokba. Ugyan ez utóbbi problémát a feltöltési díj nem orvosolja, a Vatera mégis ezt várja tõle.
+
+A kereskedõ szemével
+
+A HWSW megkeresett egy rutinos eladót, aki a Vatera és a TeszVesz mellett az eBay-en és saját webes csatornákon keresztül is kereskedik. Az õ véleménye szerint irritáló, hogy egyre több dologért és egyre többet kell fizetni. A megkérdezett eladó jóval fontosabb problémának látja, hogy ha valaki leüt a terméket de mégsem viszi el, a szolgáltató akkor is levonja a tranzakciós költséget és a kiemelési díjat, pedig az ügylet létre sem jött -- 
+rendszeres kereskedõk esetén ez komoly kiesést jelenthet a bevételbõl. A HWSW-nek nyilatkozó eladó szerint komoly gondok vannak az értékelési rendszerrel is, hiszen hiába van valakinek nagyon sok negatív minõsítése, bátran indíthat újabb aukciókat, holott hasonló teljesítményért az eBay-rõl már kirakták volna.
+
+Az eBay-jel az összehasonlítás viszont egyébként sem helytálló, a két rendszer között nem a felhasználók száma a legnagyobb különbség. A Vaterán nem használható semmilyen külsõ alkalmazás, például beágyazható galériák, ami segítené a vevõket a megfelelõ termék megtalálásában. Eközben az eBay-nek külön API-ja van a külsõ programokhoz, sõt, kifejezetten támogatják ezek használatát. Másrészt a pénzügyi tranzakciók rendszere is nagyban különbözik, hiszen az eBay-en a PayPal révén azonnali ügyletek vannak, nincs az a kockázat hogy a vevõ nem fizet, vagy az eladó egy leütött tranzakció után mégis többet kér a megadott árnál.
+
+Az elmúlt napok alatt keletkezett fórumhozzászólások alapján a rendszeres itthoni aukciózók komolyan felháborodtak, többen fontolgatják, hogy elhagyják a Vaterát és máshol próbálják üzletüket folytatni. Kérdés hogy hol, ugyanis a másik hazai aukciós oldalon, a TeszVeszen is nemrég vezették be a feltöltési díjat.

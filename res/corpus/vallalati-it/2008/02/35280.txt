@@ -1,0 +1,14 @@
+A HP leváltja belépõszintû lemezes tárolóját
+
+Új belépõszintû tárolókat jelentett be tegnap a HP, a StorageWorks Modular Smart Array (MSA2000) család a már 2001 óta létezõ és igen népszerû MSA1000 helyét veszi át a cég kínálatában. Az MSA2000 egy belépõszintû, könnyen kezelhetõ tárolótömb, amelyet kis- és középvállalatoknak ajánl a HP, de a cég szerint akár nagyvállalatok is sikeresen használhatják például fiókirodákban, telephelyeken. 
+
+
+
+Az MSA2000 tömbök 1 Gbps iSCSI és 4 Gbps Fibre Channel kivitelben egyaránt hozzáférhetõk lesznek, a tárolókban legfeljebb 48 darab 3,5 hüvelykes SAS vagy SATA meghajtó teljesíthet szolgálatot, a maximális kapacitást 36 terabájtban limitálva. Egy tömbön belül akár keverhetõk is a nagy teljesítményt biztosító, percenként 15 ezret pörgõ SAS diszkek, és az alacsony áron nagy kapacitást nyújtó SATA lemezek, így aztán a vásárlók teljesen az igényeikhez és a pénztárcájukhoz igazíthatják a konfigurációkat.
+
+A nagyobb megbízhatóság és rendelkezésre állás érdekében az MSA2000 redundáns tápokkal, két kontrollerrel és redundáns, hibatûrõ hardverrel is rendelhetõ, és olyan, pár éve még csak a nagyvállalati megoldásokban található funkciókkal rendelkezik mint a pillanatfelvétel (snapshot), vagy a klónozás. Az MSA2000 felügyelete egy webes felületrõl történhet, amely a ProLiantet kezelõ adminisztrátorok számára már ismerõs lehet. A menedzsment-szoftver teljesen integrálható a HP BladeSystem konzoljába is, így a rendszergazdák egy felületrõl kezelhetik a szervereket és a tárolókat.
+
+
+ A HP az IDC jelentésére hivatkozva azt állítja, a belépõszintû lemezes tárolók 2,8 milliárd dolláros piacán 21 százalékos részesedéssel az elsõ helyen állt 2006-ban, megelõzve a 15 százalékos Dellt, a 9 százalékos IBM-et, illetve az 5 százalékos Sunt. Ebben a szegmensben az EMC, a Hitachi Data Systems és a NetApp szinte egyáltalán nem rúg labdába, a piaci részesedésük az 1 százalékot sem érte el.
+
+Az iSCSI kivitelû StorageWorks MSA2000i induló ára 5 ezer dollár, azonban ebben még nincsenek benne a diszkek, a Fibre Channel-változatért 8500 dollárt kérnek meghajtók nélkül. A szállítások márciustól kezdõdnek, de az összes változat csak májustól lesz hozzáférhetõ -- tudtuk meg Nagy Barnabástól, a HP tárolóeszközökért felelõs hazai vezetõjétõl, aki azt is elmondta, hogy ekkorra egy blade kivitelû változat is várható, valamint egy 2,5" lemezeket fogadó verzió is érkezik.

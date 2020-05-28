@@ -1,0 +1,12 @@
+Beolvasott a Vistának és a Mac OS X-nek Linus Torvalds
+
+A múlt heti linux.conf.au rendezvényt követõen a Sydney Morning Heraldnak adott interjút Linus Torvalds, aki nem félt csípõs megjegyzéseket tenni a vetélytárs operációs rendszerekre, leginkább a Windows Vistára és az Apple Mac OS X-re.
+
+
+
+Torvalds az interjúban úgy vélekedett, az új operációs rendszerek (Vista, Leopard) megjelenését kísérõ felhajtás eltúlzott, ugyanis nem is igazán az operációs rendszerekrõl, hanem azok körítésérõl szólnak. "Egy operációs rendszerrel az átlagembernek sosem kellene foglalkoznia: teljesen láthatatlannak kéne maradnia és a mûszaki embereket leszámítva senkinek nem kéne törõdnie vele" -- mondta a Linux atyja, aki szerint a Vista vagy a Leopard megjelenése kapcsán a legnagyobb figyelmet olyan dolgok kapták, amik már nem is igazán az operációs rendszer részei, például a grafikus felület. Torvalds szerint a Microsoft nagy hibát követett el, amikor összeintegrálta a kettõt, ami nem csak jogilag, hanem mûszakilag is problémás, megnehezíti ugyanis a windowsos gépek felügyeletét.
+
+
+"A Microsoft és az Apple számára az operációs rendszer csak azért fontos, hogy a kezükben tarthassák az egész környezetet [...] és rákényszerítsék az embereket hogy frissítsék az alkalmazásaikat és a hardvereiket" -- osztotta meg a Sydney Morning Heralddal a nézeteit Torvalds. A Microsoft és az Apple új asztali operációs rendszerei közül a Leopardot jobbnak tartja Torvalds, ugyanakkor szerinte fejleszteni sokkal nehezebb rá mint Windowsra, a fájrendszere pedig "teljesen szar". "Szerintem az OS X sok tekintetben jobb a Windowsnál, de egyiküket sem lehet egy napon említeni a saját Linuxommal. Ez a verseny a második helyét folyik" -- mondta Linus.
+
+Torvalds továbbra is a kernel fejlesztését tartja elsõ számú feladatának, és saját bevallása szerint szájtátva nézi, hogy mások mi mindenre tudják használni a Linuxot, legyen szó akár szerverekrõl, akár PC-krõl, vagy mobilokról. Az utóbbi kategóriában nagy sikert jósol a szabad operációs rendszernek, hiszen a mobil eszközök olyan mértékben fejlõdnek, hogy ma már erõsebbek egy 15 éves asztali gépnél is, amelyekre a Linux elõször elkészült -- vélekedett Torvalds. A kernellel sose volt probléma, hiszen már sok mobiltelefonon fut a Linux magja, a legnagyobb kihívás a Linux létrehozója szerint, hogy lehet az 1280x1024 pixel felbontású kijelzõre meg egérre optimalizált Linux-desktopot és a programokat átültetni egy sokkal kisebb kijelzõjû eszközre.

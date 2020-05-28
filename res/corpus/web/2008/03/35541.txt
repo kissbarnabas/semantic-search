@@ -1,0 +1,18 @@
+Az alternatív böngészõkre igen, az alternatív operációs rendszerekre nem vevõk a magyarok
+
+A kirowski idén is elkészítette Techstat felmérését, amelynek során a hazai internetezõk által használt operációs rendszereket és böngészõket vizsgálták. 2008 elsõ két hónapjában a kirowski online kampányaihoz használt médiafelületek több mint 1 millió PC-rõl gyûjtöttek szigorúan anonim adatokat, az eredmények azt mutatják, a Windows XP hegemóniája továbbra is megtörhetetlen, az Internet Explorerrel azonban sikerrel veszi fel a harcot a Firefox.
+
+
+
+A nemzetközi trendekkel egybecsengõen Magyarországon is nyomul elõre a Firefox, 2007-ben még csak az internetezõk 23 százaléka használta a nyílt forrású böngészõt, idén azonban már 34 százaléknál is nagyobb részesedést szerzett, és ezzel az Internet Explorer 6 mögött a második legnépszerûbb browser. A 2006 õszén megjelent Internet Explorer 7-et még csak az IE-felhasználók 41,6 százaléka telepítette, vagyis az összes netezõ 25,8 százaléka használja. Az Internet Explorer régebbi, ma már nem támogatott változatai teljesen kikoptak a használatból, ma már csak elvétve találkozni velük.
+
+Böngészõk megoszlása
+
+
+ A Firefox mellett a többi alternatív böngészõ nemigen rúg labdába, a Mozilla-motoros browserek (pl. Netscape) 1,9 százalékos, az Opera csak 1 százalékos részesedéssel rendelkeznek a hazai piacon, az összes többi versenyzõnek (beleértve a konzolok böngészõit vagy az Apple Safarit) mindössze 0,03 százalékos szeleten kellett osztoznia.
+
+Ami a gépeken futó operációs rendszereket illeti, toronymagas a Windows-fölény, a PC-k több mint 98 százalékára a Microsoft szoftverét telepítették -- derül ki a kirowski számaiból. A legnépszerûbb Windows az XP, a Vista még megjelenése után egy évvel is csak 4 százalékos elterjedtséget tud felmutatni. Zavarba ejtõ, hogy a Windows régebbi, elavult verzióit (Windows 2000, Windows 98/ME) is többen használják még, mint valamelyik Linuxot (0,6%), az Apple Mac OS piaci részesedése pedig épp ugyanennyi. A kirowski felmérésébõl kiderül, hogy a hazai internetezõk körében PowerPC-alapú Apple-gépbõl (0,4%) még mindig kétszer annyi van, mint Intel-alapúból (0,2%).
+
+Windows-változatok elterjedtsége
+
+Az utóbbi években a TFT-k lényegében teljesen átvették az uralmat a katódsugárcsöves kijelzõktõl, és ezzel párhuzamosan megkezdõdött a monitorok növekedése mind méret, mind pedig felbontás terén. A kirowski alapján az internetezõk több mint harmada már 1024x768-nál nagyobb felbontású monitorral rendelkezik, 1024x768-as felbontást pedig az online közösség 55 százaléka használ. A 800x600 pixeles felbontású kijelzõk részaránya 2007-ben még 10 százalék felett volt, idénre ez 7,4 százalékra süllyedt.

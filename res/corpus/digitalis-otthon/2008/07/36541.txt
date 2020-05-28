@@ -1,0 +1,13 @@
+A Windows 7-tel együtt érkezik a DirectX 11
+
+A Windows 7-tel együtt érkezik a DirectX 11 alkalmazásprogramozási interfész -- hangzott el a múlt héten Seattle-ben rendezett Microsoft GameFest 2008-on. Az új API jobb támogatást nyújt a többmagos processzorokra épülõ rendszerekhez és még jobban kihasználja a grafikus hardverekben rejlõ lehetõségeket.
+
+
+
+A DX11 legfontosabb újdonságainak egyike a Compute Shader technológia, amely lehetõvé teszi a fejlesztõk számára, hogy a grafikus kártyák egységes shadereit ne csak 3D megjelenítésre, hanem lényegében bármilyen számítási feladat végrehajtására használják. A grafikus chipek fejlõdésének köszönhetõen a DirectX 11-en keresztül már lehetõség van hardveres tesszelációra, vagyis a síkidomok háromszögekre darabolását a fejlesztõk rábízhatják a hardverre. Ez a funkció egyébként már a DirectX 9-nek is része volt, azonban miután senki sem használta, a 10-es verzióból kikerült. Jelenleg az ATI R770-es generációja támogat hardveres tesszelációt, azonban külön függvényhívásokkal.
+
+
+Ezzel menni fog: Radeon HD 4850
+
+
+ Akik mostanában vettek új, Radeon-alapú videokártyát, szerencsére nem kell kidobniuk, a DX11 ugyanis nem vár el új hardvert, a DX10-es kártyák kielégítik az igényeit, amennyiben támogatják a legújabb, 10.1-es specifikációt. Ilyeneket jelenleg csak az AMD gyárt, a Radeon HD 3000-es és 4000-es sorozat tagjai maradéktalanul DX10.1 kompatibilisek, az NVIDIA kínálatában ugyanakkor egyelõre nem szerepel ilyen kártya. A Windows XP-hez ragaszkodó felhasználók viszont búslakodhatnak, ugyanis az új API-t csak Windows Vistára és annál újabb operációs rendszerekre készíti el a Microsoft.

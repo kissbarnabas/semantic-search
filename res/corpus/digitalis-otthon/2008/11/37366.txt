@@ -1,0 +1,53 @@
+Kipróbáltuk: Epson EH-DM2, hordozható projektor beépített DVD-vel
+
+A 80-as évek formatervezõi a praktikum jegyében eljutottak odáig, hogy egy pici televíziókészüléket sikerült összegyúrniuk az akkori technika csúcsát jelentõ videolejátszóval. Talán ennek a hangulatnak állít emléket az Epson projektorcsaládja is, mely a kor igényeinek megfelelõen optikai lemezrõl, USB-s eszközökrõl vagy a szokásos bemenetekrõl is képes videojelet beszerezni. Az idei õsz konvergenciadíjas terméke: az Epson EH-DM2.
+
+
+
+Otthoni projektor beépített DVD-vel
+
+A múlt hónapban bemutatott Epson DM2 kivetítõrésze önmagában nem lenne egy nagy durranás, de a beépített mini számítógép, mely a készülék alján lapul, érdekes, szexi otthoni darabbá teszi. A beüzemelése alig igényel több energiát, mint egy televíziókészülék installálása. Egyszerûen le kell tenni egy fallal szemben, be kell kapcsolni, a kézi gyûrûvel beállítani az élességet, behelyezni valamilyen médiumot a készülékbe és megnyomni a Play gombot.
+
+Az alapkoncepció, miszerint készüljön el egy teljesen univerzális médialejátszó, teljesen elfogadható módon sikerült. A DM2 a DVD-k mellett megbirkózik a DivX/XviD formátummal is, meg tud jeleníteni fotókat, sõt, MP3-lejátszóként is funkcionál. Egyfajta görcsös értelmezésben akár iPod és más lejátszók dokkolására is alkalmas, akár a kivetítõ használata nélkül is.
+
+ 
+
+A készülék kezeli továbbá a feliratfájlokat, amik a megjelenítése automatikus, amennyiben azonos a feliratfájl és a videofájl neve, hasonlóan a windowsos VobSub programhoz. A különbség csupán annyi, hogy az Epson projektorának nem minden esetben sikerül jól értelmeznie a feliratfájlokat és elõfordul, hogy fura HTML-kódok jelennek meg a film közepén, de ez elhanyagolható zavaró tényezõ.
+
+Természetesen kívülrõl is hajlandó jeleket fogni az eszköz, és itt is törekedett a gyártó arra, hogy lefedjen minden lehetõséget. A beépített DVD-olvasó és az USB-port mellett megtalálható rajta a minimumnak is tekinthetõ D-Sub (RGB VGA) csatlakozó, S-Video, kompozit- és komponens bemenet is a videókhoz, emellett RCA és mini Jack (3,5 mm) kábeleken juttathatunk a gépbe audiojeleket is.
+
+ 
+
+Nem Hi-Fi
+
+Ezt a bevitt hangot a két darab 8 wattos beépített hangszóró sugározza vissza, ami a projektor összes jellemzõje közül talán a leginkább érdekes részlet. Nyilván nem kell high-end hangzásra gondolni, amikor két pici hangforrás zajong körülöttünk, de egy esti filmnézéshez, egy házibulihoz, egy családi videózáshoz, a gyerekszobai mesefilmezéshez több mint elég.
+
+A teszt során annak ellenére, hogy a projektort könnyedén lehetett volna csatlakoztatni házimozi-rendszerhez is, nem is feltétlenül éreztem szükségét annak, hogy ne a beépített hangszórók szóljanak. Aki viszont vájtfülû és mégis ezt a tömegigényeket kiszolgáló készüléket választotta, az a külsõ jelforrásról vagy a készülékrõl a szokott módon átkábelezheti magának.
+
+A DM2 számtalan bemenõ jelforrással képes megküzdeni, egészen az 1080i-ig bezárólag, igaz, megjeleníteni legfeljebb a DVD-k felbontásában képes a mozikat. A 480p filmezéshez még éppenséggel megfelelõ, még a nagyfelbontású mûsorok is egész szépen mutatnak rajta. Fotókat nézegetni rajta, konzolt rácsatlakoztatni, netán PC-desktopot bámulni rajta viszont komoly csalódás.
+
+A fotók esetében körülbelül azt az érzetet adja, mint az olcsó digitális képkeretek: kevés kontraszt, tompa színek és elveszõ részletek. A PC-desktop, ami pedig a kihívások csúcsát jelenti minden projektor számára, szintén elvérzik az alacsony felbontás miatt. A 854x480 natív felbontás komoly visszalépés bármihez képest, akkor is ha elméletileg kicsiholható az SXGA 1280x1024 is, de hasonlóan az LCD-monitorokhoz, itt sem annyira szerencsés minõség szempontjából eltérni az eredeti felbontástól.
+
+
+ 
+
+Használat közben
+
+A használat során két dolog tûnik fel elõször. Az egyik, hogy a DM2 elég hangos: a specifikáció szerint 35dB a zajszint, praktikusan fogalmazva viszont zavaróan zúg a készülék, ami persze akciójeleneteknél nem hallatszik, akkor fõleg nem, amikor a saját hangszórókból szólnak a hangok. A másik probléma, ami a projektoroknál szinte kivétel nélkül kérdés szokott lenni, az a hõleadás. Ugyan szép nagy hûtõrács van a készülék oldalán, de valószínûleg az eredetileg nagyobb méretekre tervezett, de ebben a termékben kompaktosított technológia nem viseli annyira jól a szûk elrendezést. A DM2 jobb elsõ része a lámpa környékén nagyon felforrósodik hosszabb használat esetén, ami kissé aláássa a "családi" felhasználás lehetõségét. Elméletileg 45 fok az üzemi hõmérséklet csúcsa, de ennél jóval forróbnak tûnt, lehetséges, hogy ez az érték átlagolva értendõ a teljes készülékre: a bal hátulja csupán szobahõmérsékletû.
+
+
+A kezelõfelület viszont kedvez a laikus, illetve a fiatal felhasználóknak. Az adathordozót behelyezve egy egyszerû, de átlátható fájlmenübe érkezünk, ahonnan a távirányítóval vagy a gép tetején elhelyezett gombok segítségével is könnyen indítható a show. A feliratok, hangsávok kezelése is az asztali DVD-lejátszókat idézi, informatikához egyáltalán nem vagy kevéssé értõ felhasználók számára is magától értetõdõ. Apró figyelmesség, hogy a távirányítón található egy "szünet" gomb, ami nem csupán kimerevíti a képet, hanem a lámpát is kikapcsolja, kímélve a készüléket, illetve a nézõk szemeit. 
+
+A leírás ígérete szerint az Epson DM2 minimum 76 centiméter átmérõben (2,4 méter távolság esetén) képes éles képet adni, maximum pedig 7,6 méter átmérõt tud bevilágítani hatékonyan, utóbbit 9 méter távolságból. Az viszont sajnálatos, hogy optikai zoomra nem képes, tehát a kép valós mérete fix, azt csak digitálisan lehet csökkenteni, ami valószínûleg nem tesz jót az egyébként sem magas felbontásnak. Ha tele állásba állítjuk a digitális zoomot, akkor könnyen észrevehetõ, hogy a vetített kép körül egy kissé derengõ szürke téglalap jelenik meg az optika által valójában lefedett területen. 
+
+Ha viszont már ennyire laposan lõttek felbontás ügyében a mérnökök, akkor érdemes lett volna odafigyelni, hogy a "hordozható" jelzõ ne csupán azt jelentse, hogy a DM2-nek van füle. A leírás szerint a készülék a "fogantyúnak és a hordtáskának köszönhetõen egyszerûen hordozható", amit szó szerint értenek, mert a mellékelt hordtáska igazából csak egy takaró. A szerkezet méretei is nehezítõ tényezõnek számítanak, még egy hátizsákba sem fér bele, így a hordozható helyett inkább a szállítható jelzõt lenne érdemes ráaggatni. Ugyan a tömege csak 4 kilogramm, a 32x12,7x23,1 centiméteres kiterjedés már kényelmetlenné teszi a cipelést. 
+
+ 
+
+Elmegy
+
+Az 1200 lumen fényerõ átlagos, de elegendõ. Nappali fényben is látható képet ad a DM2, de ilyenkor legfeljebb prezentációra lehet használni, az élvezetes filmnézéshez kicsit több kell, mint félhomály. A lámpa jósolt élettartama 2-3000 óra, ami otthoni felhasználás esetén gyakorlatilag a készülék teljes élettartamának felel meg. Menet közben pedig mindössze 140W teljesítmény felvételére van szüksége. 
+
+Az Epson DM2 egy jópofa, mondhatni csábító tömegtermék, ami nem emel be forradalmi újdonságokat, nem tartalmaz iparágvezetõ megoldásokat, nem is innovatív, de modern háztartás szerves részévé tud válni. A csatlakoztathatóság és a szinte teljes formátumszabadság miatt PC-rõl, pendrive-ról vagy USB-s merevlemezrõl, illetve beltéri egységbõl származó mûsort képes a falra vetíteni. Az ára 184 ezer forint, ami kicsit húzósnak tûnhet elsõre, hisz ennyiért ma már HD-projektort vágnak az emberhez. Viszont szem elõtt tartva, hogy egy igazán "plug and play" eszközrõl van szó, amiben egy beépített számítógép serénykedik, már teljesen elfogadható.
+
+Ha némileg kisebb méretekkel rendelkezne vagy nagyobb felbontással, esetleg olcsóbb lenne 30 százalékkal, akkor erõsen ajánlott lenne, így viszont az "elmegy" kategória tetejére érdemes. 

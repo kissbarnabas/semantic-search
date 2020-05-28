@@ -1,0 +1,12 @@
+Átszervezi felépítését az AMD, teljesen asszimilálja az ATI-t
+
+A legnagyobb változást kétségtelenül a termékfejlesztések egyesítése jelenti, vagyis egy részleghez, a termékcsoporthoz kerülnek a processzorok, chipsetek és grafikus magok tervezési és fejlesztési munkálatai, és egyetlen vezetés felügyeli és hangolja össze azokat. Korábban a processzorok és a grafikus termékek külön divíziókat alkottak, önálló vertikális felépítéssel, tehát a kutatás-fejlesztési, tervezési, gyártási és marketing feladatokat is maguk végezték. Mindez természetes öröksége volt az ATI Technologies 2006-os beolvasztásának.
+
+
+Ez többé nincs így, az egyesített termékrészleg kizárólag a fejlesztésekre és a termékek legyártására fókuszál. A technológiai alapkutatásokat az Advanced Technology Group veszi át, mely a távolabbi jövõbe mutató kutatásokat végez el a processzor-, grafikus és memóriatechnológiák területein, de vélhetõen az alkalmazott félvezetõtechnológiákkal kapcsolatos irányokat is itt döntik el.
+
+A termékek promóciójáért a marketingcsoport felel majd, hogy integrált marketingkommunikációt folytathasson a cég a partnerek és a vevõk felé, míg az értékesítésért az ügyfélcsoport felel majd, melynek elsõdleges feladata a ügyfélkör globális bõvítése lesz. Az AMD indoklása szerint az átszervezésekkel fókuszáltabbá válik a cég tevékenysége, a processzor- és grafikus részlegek összevonását pedig az magyarázza, hogy az egyre integráltabb, átfogó megoldásoké a számítástechnika jövõje. Az Intel és a többi meghatározó IT-óriás felépítése piac- vagy termékorientált, nem pedig funkcionális szervezésû.
+
+[+] Globalfoundries néven jelennek meg a piacon az AMD gyárai  
+
+Az átszervezések hatására távozott Randy Allen alelnök, aki egy negyed évszázadot húzott le a vállalatnál. A villamosmérnök végzettségû Allen a cég egyik meghatározó figurája volt, olyan projekteket felügyelt, mint az Athlon chip implementációja, vagy az Opteron tervezése, melyekkel az AMD kitört az Intelt utánzó, másodlagos beszállítói szerepbõl. A távozás okát nem tudni, és nincs kizárva, hogy a jövõben visszatér a céghez.

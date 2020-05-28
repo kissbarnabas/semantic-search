@@ -1,0 +1,24 @@
+Magyarul is elérhetõk az ESET újgenerációs védelmi szoftverei
+
+Az ESET szerint a vírus- és kémprogramvédelmet nyújtó NOD32, és a
+személyi tûzfalat és levélszemétszûrõt is tartalmazó Smart
+Security még gyorsabb és még hatékonyabb lett, de továbbra is
+takarékosan bánik az erõforrásokkal. Az ESET biztonsági szoftverek új szolgáltatásaihoz, funkcióihoz sorolható a
+"játékos üzemmód", melynek bekapcsolásakor egy teljes képernyõt elfoglaló alkalmazás
+futása esetén egyáltalán nem jelennek meg figyelmeztetések. Az
+említésre méltó újdonságok közé tartozik a SysRescue
+integrációja révén a helyreállító CD vagy pendrive létrehozása is,
+amelyekrõl akkor is "tisztán" indítható a PC, ha a merevlemezen
+található operációs rendszer fertõzés áldozatává vált.
+A NOD32 és az Smart Security 4.0 a fentiek mellett direkt támogatást nyújt néhány új népszerû levelezõszolgáltatáshoz vagy klienshez (Windows Live Mail, Mozilla Thunderbird), javult a Vista User Account Control-kompatibilitás, illetve a programok immár a 2 gigabájtnál nagyobb állományokat is problémamentesen vizsgálják át. Az új verziókban változott a külsõ adattárolók (tipikusan USB-s merevlemezek vagy pendrive-ok) kezelése: a hozzáférés eszközszinten is blokkolható, de akár az egyes USB-kapuk
+is letilthatók velük. Ezeknél az adattárolóknál a program
+alapbeállításaitól függetlenül egyedi heurisztikus keresési beállítások
+is megadhatók
+A vállalati felhasználók számára jó hír, hogy az új termékekbe bekerült
+az eddig különálló ESET SysInspector rendszerfelügyeleti alkalmazás,
+mely lehetõvé teszi az aktuálisan futó folyamatok és a
+rendszerösszetevõk elemzését. A noteszgép-felhasználók számára hasznos funkció, hogy az ESET új programjai már érzékelik hogy a PC
+akkumulátorról vagy hálózatról kapja-e a táplálást és ennek megfelelõen
+idõzítik az ütemezett feladatok végrehajtását, ami jó hatással lehet a
+notebookok akkus üzemidejére.
+Az ESET új biztonsági szoftvereinek magyar nyelvre lokalizált verziói elérhetõk a cég letöltési oldalán. A 3.x változatra érvényes licenccel rendelkezõ felhasználók -- akárcsak az angol változatnál -- ingyen frissíthetnek a 4.0 verzióra.

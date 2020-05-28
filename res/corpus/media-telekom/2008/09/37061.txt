@@ -1,0 +1,20 @@
+A Magyar Telekom összes partnere kínálhat VDSL-alapú internetet
+
+Napokon belül megjelenhet a Magyar Telekom összes nagykereskedelmi partnerének kínálatában az ADSL-nél akár háromszor gyorsabb letöltési, és akár tízszer gyorsabb feltöltési sebességet kínáló VDSL-alapú internet. A szolgáltatók közül elsõként ma az EnterNet jelentette be az új, a korábbinál lényegesen nagyobb sávszélességet nyújtó díjcsomagokat, melyeket kezdetben a budapestiek és a frekventáltabb településeken élõk használhatnak majd.
+
+
+
+25 megabit 13 ezresért
+
+Az EnterNetnél a mai naptól köthetõ szerzõdés VDSL-alapú internetszolgáltatásra, mely egyelõre kizárólag a Magyar Telekom szolgáltatási területén élõ ügyfelek számára érhetõ el -- a szolgáltató korábbi információi szerint a a gyors internet kezdetben mintegy 100 ezer, zömében Budapesten, és más nagyvárosokban található háztartásokban lesz kiépíthetõ. Az EnterNet a 25 megabit/másodperces letöltési sebességet és 5 megabit/másodperces feltöltési sebességet kínáló VDSL-csomagért havonta 13 ezer forintot kér majd lakossági, 30 ezer forintot pedig üzleti ügyfeleitõl.
+
+A VDSL-alapú internet részben a már meglévõ infrastruktúrára épülõen, az ADSL-hez hasonlóan aszimmetrikus adatátviteli közeget nyújt, a létesítésnek azonban szigorúbb mûszaki feltételei vannak, így a rézkábel nyomvonal-távolsága a központtól, vagy DSLAM-tõl (kvázi kisközpont) az elõfizetõi végpontig nem lehet több egy kilométernél. Az EnterNet egyébként 4 megabit/másodperces letöltést és 1 megabit/másodpeces feltöltést garantál VDSL-vonalon (várhatóan ugyanezeket a garantált értékeket nyújtja majd a többi szolgáltató is), a cég ugyanakkor lehetõséget ad a lefelé migrálásra (olcsóbb díjcsomagba sorolásra) abban az esetben, ha a végponton mért sávszélesség bizonyítottan kevesebb, mint az alacsonyabb díjkategóriájú csomagoknál biztosított maximális sávszélesség -- tudtuk meg Könyves-Tóth Kristóftól, a vállalat illetékesétõl.
+
+Tavaly nyár óta fejlesztik
+
+
+A Magyar Telekom tavaly nyáron indította el a VDSL2+ hálózat tesztüzemét egy budapesti kerületben, ahol az Ericsson közremûködésével építették ki a teszthálózatot. A gyorsabb internet akkor elsõsorban a cég IPTV-platformjába integrált HD-szolgáltatásnak nyújtott alapot, a széles körben elérhetõ az ADSL-hálózatok által rendelkezésre bocsátott sávszélesség ugyanis túl szûkös a HD-adások továbbításához.
+
+A távközlési szolgáltató végül több mint egy évig tesztelte és fejlesztette VDSL-hálózatát, melybe kezdetben nagyjából 100 ezer magyarországi háztartást tudnak bekapcsolni. A cégnél hivatalosan október nyolcadikán startol a T-Home márkanév alatt értékesített lakossági VDSL-szolgáltatás, mely önálló internetelõfizetésként, és IPTV-csomaggal együtt egyaránt elérhetõ lesz.
+
+Mivel a Magyar Telekom ettõl a dátumtól biztosítja a mûszaki hátteret a VDSL-hálózat üzemeltetéséhez, a cég nagykereskedelmi partnerei október nyolcadika elõtt aligha köthetnek be elõfizetõket a gyorsabb hálózatba, így minden bizonnyal az EnterNetnek is várnia kell eddig az idõpontig a szolgáltatás ügyféloldali létesítésével -- tudtuk meg a Magyar Telekom sajtóosztályától.

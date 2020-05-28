@@ -1,0 +1,11 @@
+Újabb, kétutas szerverekbe szánt Xeonokkal bõvül az Intel választéka
+
+Gyorsabb Xeon processzorokat mutatott be az Intel kétutas szerverek számára. Az új chipek elõállításánál egyúttal már nem használt fel halogént, állítja a vállalat, ezzel még kisebb terhelést jelentenek azok a környezet számára. 
+
+
+
+A vállalat négy új Xeont dobott piacra, melyek felfelé bõvítik a cég termékportfólióját. Az X5492 egy csúcsteljesítményû négymagos változat, órajele pedig 3,4 gigahertz. Cserébe nem csak magas, közel 1500 dolláros nettó árral, hanem szélsõséges fogyasztással fizetünk, a termék termikus kerete ugyanis 150 watt. A kétszer 6 megabájt L2 gyorsítótárhoz 1600 megatranszferes busz társul, vagyis az Intel 5400-as Seaburg chipsetjét igényli. 
+
+A kifejezetten HPC-területre szánt X5942 mellett az Intel egy másik csúcsteljesítményû négymagos Xeont is bemutatott a kereskedelmi szerverek számára, melyek az 1333 megatranszferes 5000-es chipsetre épülnek.  Az X5470 ugyanarra ez E0 szilíciumrevízióra épül, mint gyorsabb társa, órajele 3,33 gigahertz, a TDP-je ugyanakkor "mindössze" 120 watt. A csúcsteljesítményû változatok mellett az Intel alacsony feszültségû, energiahatékony vonalát is erõsítette, bevezetve a 2,66 gigahertzen járó L5430-at, melyet kétszer 6 megabájt L2 cache, 1333 megatranszferes busz, és mindössze 50 wattos TDP jellemez. 
+
+A három négymagos Xeonokon túl az Intel bemutatott egy kétmagos csúcsváltozatot is, melynek órajele 3,5 gigahertz, miközben TDP-je mindössze 80 watt továbbra is -- az X5270 adatbusza 1333 megatranszferes. Az új termékek természetesen a chipgyártó termelésének immár többségét adó 45 nanométeres csíkszélességû félvezetõ eljáráson készülnek, mely elsõként az iparágban vastagabb magas k együtthatójú dielektrikumot és fémkaput alkalmaz a tranzisztorok kiképzésénél, lehetõvé téve az aktív fogyasztás csökkentését és a szivárgási áram nagyságrendekkel történõ visszaszorítását, utat nyitva a teljesítmény fokozása elõtt.

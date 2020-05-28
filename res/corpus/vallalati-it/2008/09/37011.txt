@@ -1,0 +1,37 @@
+Az informatikai biztonság a dolgozók közös felelõssége!
+
+Érdekes eredményre jutott az a kutatás, amelyet a Symantec készített az európai és a hazai kis- és középvállalatok biztonságáról és fenyegetettségeirõl. A magyarországi válaszadók 51 százaléka szerint az IT-biztonság nem az ügyvezetõ vagy az informatikai vezetõ, hanem a dolgozók kollektív felelõssége. Ez jelentõsen eltér az európai átlagtól, ahol a válaszadóknak csak 28 százaléka vélte úgy, hogy az IT-biztonság egyformán mindenki felelõssége.
+
+
+
+Magabiztosak a magyarok, ha IT-biztonságról van szó
+
+A Symantec júniusban több mint 800 európai kisvállalatot kérdezett meg összesen 9 országban, köztük Magyarországon, az eredményeket egy mais sajtótájékoztatón ismertették a vállalati hazai képviseletének munkatársai. A hazai adatok sokszor élesen eltérnek az európai átlagtól, ezért mindenképp megéri foglalkozni velük. A hazai kisvállalatok informatikai helyzetét jól mutatja, hogy mindössze 11 százalékuk rendelkezik dedikált informatikai vezetõvel, szemben az európai átlaggal, ami 33 százalék.
+
+A megkérdezett hazai kisvállalatok közel fele (47%) szerint a hálózatuk elég biztonságos. A cégek 33 százalékát -- saját bevallása szerint-- még sosem érte rendszerösszeomlással vagy adatvesztéssel járó támadás, ezért feleslegesnek érzik többet foglalkozni az IT-biztonság kérdésével. A többiek érzik hogy kellene, de a legtöbbször vagy nem rendelkeznek megfelelõ büdzsével (33%), vagy idõvel (27%), illetve sokszor a szervezet számára nem prioritás (13%) az informatikai biztonság.
+
+
+
+Pharming, whaling, minnowing?
+
+A pharming egy weboldal forgalmának átirányítása (pl. a DNS módosításával) egy másik, ártó szándékú oldalra. A whaling és minnowing olyan célzott támadást takar, amelyet kifejezetten cégvezetõk (nagy halak), vagy a cégeknél dolgozó, alacsonyabb beosztásban levõ, de bizalmas információk birtokában levõ alkalmazottak (kis halak) ellen indítanak.
+
+
+
+ 
+A veszélyekkel szerencsére már tisztában vannak a magyar cégek is, a vírusokról, spamekrõl, kémprogramokról, trójaiakról és férgekrõl szinte már mindenki hallott, de a phishing jelenséget is a megkérdezettek 58 százaléka ismerte. A botnetekrõl és rootkitekrõl már csak kevesebben állították magabiztosan, hogy ismerik, az olyan fogalmak mint a pharming, whaling, minnowing pedig a legtöbb válaszadó számára teljesen ismeretlennek bizonyultak. 
+
+A legtöbb cégnél nincs átfogó informatikai házirend
+
+A biztonsági megoldások elterjedtsége Magyarországon közelít az európai átlaghoz, a cégek legtöbbje már rendelkezik vírusölõvel és tûzfallal, de spamszûrõt csak a válaszadók 78 százaléka használ, rendszeres biztonsági mentést már csak 60 százalék készít, behatolásvédelmi eszközt pedig a cégek kevesebb mint harmada vezetett be. Adatait csak a megkérdezettek 24 százaléka titkosítja, sérülékenység-kezelõ eszközt pedig csupán 7 százalék használ, szemben az európai átlaggal, ami 28 százalék.
+
+
+ Az európai kisvállalatoknak már 38 százaléka fordul outsourcing-szolgáltatóhoz, ha információvédelemrõl van szó, Magyarországon azonban ezek aránya csak 24 százalék. A hazai cégek 53 százaléka a kiskereskedelemben beszerzett --általában otthoni használatra szánt -- megoldást használ az információk védelmére, 10 százalék pedig újságmellékletbõl vagy más forrásból származó ingyenes megoldást alkalmaz -- ezek általában csak otthoni használatra ingyenesek.
+
+Elgondolkodtató, hogy a magyar kisvállalatok 58 százaléka semmiféle informatikai házirenddel (policy) nem rendelkezik, míg az európai cégeknek csupán negyede ilyen. A megkérdezett hazai cégeknek csak 16 százaléka vallotta, hogy létezik nála egy átfogó szabályozás az IT használatára vonatkozóan, amelyet a dolgozók be is tartanak (európai átlag 29%). Mégis, a megkérdezettek 62 százaléka szerint az újonnen érkezõ dolgozókat oktatják az IT használatára, bár a legtöbb helyen ez valószínûleg csupán olyan szabályok elmondását jelenti, hogy nem használhatják a hálózatot és a gépeket saját célra.  
+
+Letagadják a támadásokat?
+
+Magyarországon a kisvállalatok 16 százaléka vallotta be, hogy érte már rendszerösszeomlással vagy adatveszéssel járó támadás, míg az európai cégek átlaga 22 százalék -- önámítás lenne azt hinni, hogy a magyar cégeket nem támadják, a látványos különbség valószínûleg abból adódik, hogy itthon semmi és senki nem kötelezi a cégeket arra, hogy nyilvánosságra hozzák az adatvesztéssel járó incidenseket, így aztán a legtöbben igyekeznek eltitkolni õket.
+
+A magyar cégek saját bevallása szerint a sikeres támadások jórészt csak rendszerleállást és/vagy adatvesztést okoztak, de 17 százalék esetében konkrét bevételkiesés, 8 százaléknál pedig pénzügyi veszteség volt az eredmény, 7 százalék esetében pedig mérhetõ volt a bizalomvesztés az ügyfelek részérõl. Érdekes, hogy a rendszerösszeomlással vagy adatvesztéssel járó támadásokért Magyarországon 86 százalékban a dolgozókat teszik felelõssé a cégek, míg Európában az ilyen esetek aránya csupán 34 százalék.

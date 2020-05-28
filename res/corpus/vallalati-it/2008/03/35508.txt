@@ -1,0 +1,58 @@
+Kipróbáltuk: padlóra küldött a Lenovo új ThinkPad X300 noteszgépe
+
+Vonzódom a csúcstechnikához, így egyáltalán nem csoda, hogy szó szerint lázba jöttem szerkesztõségünk legújabbb vendégétõl, a Lenovo Thinkpad X300 noteszgépétõl. Jártunk a laptop párizsi bemutatóján, kicsit meg is tapogathattuk, igazi tapasztalatokat azonban csak most szerezhettünk vele. Az X300-ra a Lenovo titkos fegyverként tekint: a cég szerint minden versenytársát a padlóra küldi, és új etalont állít fel a ThinkPadek között.
+
+
+
+Optimális
+
+A 13,3 hüvelykes kijelzõvel szerelt notebook mûszaki paraméterei nagy vonalakban már eddig is ismertek voltak, említésre méltó, hogy a gép a második a piacon a MacBook Air mögött, mely az Intel kisméretû tokozást alkalmazó alacsony feszültségû Core 2 Duo processzorát alkalmazza, órajele 1,2 gigahertz -- minden leírásnál beszédesebb Everest riportunk. Az 1,2 gigahertz bár soványnak tûnik mai szemmel, két nagyteljesítményû magról beszélünk, melyek bõségesen megfelelnek az állandóan úton lévõk elvárásainak: a gép gond nélkül, nagyjából 50 százalékos terheléssel játszik le 1080p-s Windows Media Videót (WMV9).
+
+A Santa Rosa platformra épülõ masina igazi érdekessége vékonysága, illetve hogy kizárólag flash memóriás háttértárral szállítja a Lenovo, hagyományos merevlemezzel egyáltalán nem is rendelhetõ. A vékony készülékben optikai meghajtó, a Matsushita (Panasonic) ultravékony DVD-RAM-ja is helyet kapott -- ennek helye második akkumulátorral is kitölthetõ --, a kissé megnövekedett helykínálatnak köszönhetõen pedig tapipad is elfért a pöcökegér mellett. A billentyûzet teljes értékû és lokalizált.
+
+Az új ThinkPad házát már nem magnéziumötvözet, hanem szén- és üvegszálas keret erõsíti, a Toshiba csúcskategóriás notijával ellentétben szerencsére a kijelzõ káváját is megfelelõ szilárdságúra készítették. A borítás anyaga kissé eltérõ a korábbi ThinkPadekétõl, picit tapadósabb, gumisabb hatást kelt. A házon körbenézve egyetlen dolog tûnhet fel: sem PCMCIA, sem ExpressCard bõvítõrés nincs az X300-on. A Lenovo valószínûleg úgy gondolta, hogy aki ilyen noteszgépet rendel, az kérje a beépített HSDPA-kártyát. Ez utólag is pótolható, mindegyik elõ van készítve, a SIM-kártya helye is megtalálható mindegyik modellen. Rendelhetõ extra még a GPS-vevõ is.
+
+
+
+Az X300-at kifejezetten kellemes kézben tartani, alig több mint 1500 grammos tömege -- a nálunk járt tesztdarab hatcellás akkumulátorral érkezett -- kitûnõen oszlik el. Az akkumulátor nem a készülék hátulján, hanem elején foglal helyet, kompenzálva a hûtés miatt hátul megnövekedett tömeget. Egy picit meg is emeli a gépet, valószínûleg a kisebb, háromcellás változat simul teljesen az alapvonalhoz, de az X300 a nagyobbik akkumulátorral is pontosan vízszintesen áll.       
+
+A 13,3 hüvelykes, matt kivitelû, LED-es kijelzõ talán az átlagnál picit kisebb láthatósági szögû, fényereje azonban több mint elegendõ, széles határok között állítható. Minimumra véve csak sötétben, de akár nappal, homogén háttérvilágításnál is használható, amellett, hogy további üzemidõt ad a háttérvilágítás szinte teljes hiánya, a tartalom is látható marad. A kijelzõ felbontása 1440 x 900 pixel, rengeteg helyet ad, az X300 nagyon jól helyezkedik a munkaasztal mérete és a noteszgép hordozhatósága között. 
+
+A hatcellás akkumulátor kicsit kiemelkedik,
+de sznobok egéralátétként is használhatják
+
+Hol a merevlemez?
+
+Az X300 külsõre meggyõzõ, de a gépház alatt is tartogat meglepetéseket. A noteszgépet bekapcsolva igen gyorsan töltõdik be a Windows Vista üzleti változata, hiszen a Samsung vadiúj fejlesztésû, 1,8 hüvelykes flashmemóriás meghajtója dolgozik az X300-ban. Korábbi teszteket olvasva sokan csalódtak az SSD-k teljestményében -- nekik erõsen javaslom, próbálják ki ezt a gépet is. Az SSD szárnyaira kapja az új ThinkPadet, az ultrahordozható noteszgépek végre megszabadulhatnak egyik legnagyobb hátrányuktól, az asztali változatokhoz képest alig vánszorgó merevlemezektõl.
+
+Az ilyen noteszgépekben jellemzõen 1,8 hüvelykes, maximum 4200-as percenkénti fordulatszámú merevlemezeket használnak, csak jobb esetben marad hely egy-egy picit gyorsabb 2,5 hüvelykes változatra. A Samsung 64 gigabájtos SSD-je nem csak kevesebbet fogyaszt ezeknél, de nagyságrendekkel gyorsabb is. Míg a merevlemez olvasó- és írófejének pozicionálnia kell a merevlemez egyes szektoraira -- pokolba a töredezettséggel --, egy memóriamodulokból épített meghajtó a milliszekundum törtrésze alatt férhet hozzá bármelyik állományhoz, bárhol is legyen a háttértárolóban. Ebbõl következik, hogy a kisebb állományok betöltése látványosan felgyorsul, és a véletlenszerû olvasás jóformán ugyanolyan gyors, mint a szekvenciális.
+
+    
+
+Az új SSD-meghajtó azonban nem csak a véletlenszerû elérésben aláz -- az átlagos elérési idõ a tipikus 12 ms helyett csupán 0,2-0,4 (!) milliszekundum --, szekvenciális írásban és olvasásban is tönkreveri az egyedül kapacitásban brillírozó hagyományos merevlemezeket. Egy 1,8 hüvelykes noteszgép-merevlemeztõl manapság maximum 20-25 megabájt/s-os írási és olvasási sebesség várható el, a Samsung SSD-je ezeket az értékeket könnyedén átugorja. Szintetikus tesztjeink szerint az olvasási és írási sebesség közelíti a gyári specifikációt, szekvenciális olvasás esetén a 90 megabájt/s-os, az írás a 60-70 megabájt/s-os értéket, de a valós körülményeket szimuláló másolási tesztekben sem mértünk sokkal rosszabbat.
+
+Próbaképpen egy 161 darab MP3-állományt tartalmazó, 993 megabájtos könyvtárt másoltunk egyik könyvtárból a másikba: a 29 másodperces idõ 34 megabájt/s-os átlagsebességet jelent, ez elképesztõen jó érték, egy mobil  merevlemez belerokkan egy ilyen feladatba, fõleg egy töredezettebb állománystruktúra esetén. Az SSD meggyõzõ és kifejezetten jót tesz a Vistának, minden program villámgyorsan indul, az Office 2007  alkalmazásai például körülbelül 1 másodperc alatt töltõdnek be -- mintha csak az ALT+TAB billentyûkkel váltottunk volna a már futó programra. Az X300 ráadásul alig több mint 25 másodperc alatt hibernálja magát, ennyi idõ alatt menti ki a 2 gigabájtnyi memória tartalmát az SSD-re, illetve valamivel több, mint 33 másodperc alatt ébred fel hibernálásból. A két érték közötti különbség a rendszer indulásáig eltelt 8-10 másodperc. Elképesztõ.
+
+Az SSD egyben rendkívül halkká is teszi a gépet, gyakorlatilag csak az állapotjelzõ LED-bõl tudjuk, hogy a háttértár dolgozik. Kezdetben egyenesen szokatlan, hogy nem halljuk a merevlemez "ciripelését", csak a néha felpörgõ, majd rövid idõ után leálló ventilátorból tudhatjuk, hogy mûködik a számítógép. Az SSD kevés hõt is termel, az X300 gyakorlatilag nem melegszik. Még az akkumulátort kínozó, processzort, grafikus kártyát, memóriát csúcsra járató stresszteszt alatt is alig volt melegebb a kezünknél a bal felsõ sarokban, a szellõzés kijáratánál, mindenhol máshol normál hõmérsékelû maradt -- ez a laptop még ölben tartva nem jelenthet veszélyt senki nemzõképességére.
+
+Az X300 a régi etalon X60s mellett
+
+Akkumulátor
+
+A nálunk járt tesztpéldány hatcellás, 44,3 Wh kapacitású akkumulátorral érkezett, mely a gyártó szerint akár 6,5 órán át is mûködteti a gépet -- mi körülbelül 4,5-et tudtunk kicsikarni belõle bekapcsolt Wi-Fi-vel, optikai meghajtóval, 50 százalékos fényerõvel. Az X300 minimum 1 óra 55 percen át mûködhet a vadiúj, teljesen töltött akkumulátorral, Battery Eater Pro 2.7 stressztesztünk csúcsra járatott processzorral, grafikus kártyával, minden komponens bekapcsolásával, fényerõ maximumra állításával ennyi idõ alatt merítette le teljesen, 0 százalékra az áramforrást. A valós minimális üzemidõ 1 óra 45 perc, 5 százalék akkumulátorkapacitás elérésekor ugyanis hibernálja magát a Vista.
+
+Az X300-at ésszerûen használva azonban könnyen elérhetõ segédakkumulátor nélkül a 4 óra, sõt, akár több is, a tipikus fogyasztás 8-12 W között mozgott, ez 4-5 óra közötti üzemidõt jelet. A Battery Stretch opcióval ez még tovább húzható, ezzel az üzemmóddal egyetlen lépésben kikapcsolhatjuk az optikai meghajtót, a vezeték nélküli hálózati vezérlõket, minimalizálhatjuk a fényerõt, sõt, még a képfrissítés 50 Hz-re állításával is spórolhatunk pár percnyi idõt a Lenovo szerint. A legtöbbet természetesen a kijelzõ háttérvilágítása fogyaszt, ennek csökkentésével akár 20 perc plusz akkuidõhöz is juthatunk. A hatcellás áramforrás töltése maximum 3 órát vesz igénybe, de kikapcsolt gépnél kevesebb mint 2 óra is elegendõ.
+
+Az optikai meghajtó helyére becsúsztatott akkumulátor alig növeli a tömeget, az X300 még így is éppen csak 1,6 kg tömegû, az üzemidõ a Lenovo szerint azzal viszont már elérheti akár a 10 órát is. A hatcellás akkumulátorral szerzett tapasztalatok alapján mi nem várnánk 7-8 óránál többet ettõl a kiegészítéstõl sem, de az is igaz, hogy ez már -- ebédszünettel együtt -- már   elég lehet egy munkanap, vagy egy interkontinentális repülõút végigdolgozására.
+
+Elõdök szorításában (X41 Tablet, X300, X60)
+
+Drága, de mihez képest?
+ 
+Az X300 nettó ára 530 ezer forint körül indul majd, egy hazai kereskedõtõl kapott információ szerint azonban az alapcsomagban csak háromcellás, 3-4 órás akkumulátor kap helyet. A csúcstechnikát mindig is meg kellett fizetni, az árból pedig jelentõs részt, körülbelül 1000 dollárt, azaz 170 ezer forint körüli összeget hasíthat ki a Samsung villámgyors SSD-meghajtója, de éppen az SSD az, ami miatt a az új ThinkPad kiemelkedik a mezõnybõl. Az X300 egyszerûen letaglózott, kezdhetek gyûjtögetni.
+
+A 3G-modem és a GPS opció, a SIM-kártya helye elõkészítve
+
+Véleménye van?
+szóljon hozzá a fórumban
+írjon szerkesztõségünknek!

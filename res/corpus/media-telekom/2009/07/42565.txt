@@ -1,0 +1,12 @@
+Fizetõs szolgáltatássá alakul a Pirate Bay
+
+A világ elsõ számú torrent trackerét nemrégiben felvásárló Global Gaming Factory X a Grokster korábbi vezetõjét, Wayne Rossót kérte fel arra, hogy tetõ alá hozza a megállapodásokat a jogtulajdonosokkal, aminek eredményeképp a legnagyobb kalózoldal legális szolgáltatássá válhat.
+A CNET News.comnak adott interjújában Rosso elmondta, a tervek szerint a Pirate Bay új üzleti modellje elõfizetéseken alapul majd, a felhasználók havidíj fejében annyi tartalmat tölthetnek le, amennyit csak szeretnének. Árakat Rosso nem említett, azt azonban hozzátette, hogy továbbra is lehetõség lesz ingyenes használatra, amihez az kell, hogy a felhasználók számítógépük kapacitásának egy részét a Pirate Bay megosztott hálózatának dedikálják. Megfelelõen nagy hozzájárulás esetén akár az egész havidíjat elengedi majd a szolgáltató, így próbálva rávenni a felhasználókat az együttmûködésre. "Minél több erõforrást adsz a hálózathoz, annál kevesebbet kell fizetned" -- mondta Rosso.
+
+A Pirate Bay a felhaszálók által dedikált erõforrások összefogásából és értékesítésébõl kíván további bevételekre szert tenni, lényegében cloud-szolgáltatóvá kíván válni, az infrastruktúrát pedig azok az internetezõk biztosítják majd, akik havidíjuk csökkentése érdekében erõforrást biztosítanak a Pirate Bay számára.
+Rosso arról is beszélt, hogy egy teljesen új P2P technológiát dolgoznak ki, amely "optimalizálja az internetszolgáltatók forgalmát". A Pirate Bay BitTorrent protokollal letölthetõ állományok katalógusa,  ez a protokoll a végletekig kihasználja a rendelkezésére álló sávszélességet, amelynek az internetszolgáltatók egyáltalán nem örülnek. Annak érdekében, hogy hálózatuk mûködését biztosítsák, a szolgáltatók egyre gyakrabban tiltják vagy korlátozzák a P2P forgalmat. "A sávszélesség 80 százalékát megsprórolhatjuk az internetszolgáltatóknak" -- mondta Rosso. "Az internetes forgalom fele fájlcsere, és ennek felét a Pirate Bay adja."
+A Pirate Bay felvásárlásával egyszerre a Global Gaming Factory X a Peerialism nevû svéd szoftvercéget is megvette, alighanem az õ technológiájuk adja majd az új hálózat alapját. A weboldalukon olvasható információk szerint a PeerNet technológia a legnépszerûbb állományok lokális cache-elésével próbálja levenni a terhelést a szolgáltatók hálózatáról.	     
+                  
+                  
+                  
+                   

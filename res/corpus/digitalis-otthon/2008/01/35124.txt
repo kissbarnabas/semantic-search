@@ -1,0 +1,14 @@
+Túlmelegedés miatt visszahívja egyes PowerLine adaptereit a Netgear
+
+Kellemetlen lépésre kényszerült a Netgear: visszahívja azokat a PowerLine, azaz elektromos hálózatból helyi hálózatot varázsoló XE103 adaptereit, melyeket Európába szántak és 220-240 voltos hálózaton használhatók. Az adapterek egyszerûen túlmelegedhetnek. A vállalat annak ellenére döntött a visszahívás mellett, hogy eddig egyetlen visszajelzést sem kapott ebbõl fakadó sérüléssel kapcsolatban.
+
+
+
+Az XE-sorozat egyik tagját, a 4 darab Ethernet-porttal ellátott XE104 változatot mi is teszteltük, az XE103 ennek egyetlen Ethernettel ellátott verziója. Az XE104-re azonban nem vonatkozik a visszahívás, így nem biztos hogy a 220-240 voltos tápegység hibája, inkább valami tervezési probléma lehet a háttérben. Az adaptereket különállóan és csomag részeként is értékesítette a Netgear.
+
+
+"Ez az önkéntes visszahívás megmutatja elkötelezettségünket a NETGEAR márka kimagasló minõségének és hírnevének fenntartása iránt" -- nyilatkozta Patrick Lo, a Netgear elnök-vezérigazgatója. A visszahívásban érintett termék tulajdonosai a Netgear ingyenesen hívható, 80-as telefonszámán kaphatnak bõvebb információt.
+
+XE103 Powerline Ethernet Adapter
+
+Szinte pontosan hét évvel ezelõtt, 2001. januárjában írtunk elsõként oldalainkon a PowerLine adapterekrõl, a termékek kereskedelmi megjelenése azonban több mint öt évet váratott magára. Akkoriban az áramszolgáltatókat is potenciális internetszolgáltatóként emlegették fel, ami nem is tûnt utópikus túlzásnak, azonban a technológia sajnos nem váltotta be a hozzá fûzött reményeket.

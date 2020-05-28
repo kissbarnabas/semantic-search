@@ -1,0 +1,12 @@
+Hét frissítés érkezik a Microsofttól a patch-kedden
+
+[eWeek] Hét frissítést tesz közzé a Microsoft jövõ hét kedden, a menetrendszerinti patch-kedden. A hét javításból három kritikus sérülékenységet javít, melyekbõl egy az Internet Explorer több változatát is érinti. A másik két kritikus hiba a DirectX és Bluetooth-kezelésben található.
+
+
+
+A Microsoft nem árult el különös részleteket a javított biztonsági résekrõl, de mindhárom kritikus besorolású távoli kódfuttatást tett lehetõvé. Az Internet Explorer hibája a 7-es változatot is érinti a Windows 2000 operációs rendszertõl egészen az elsõ szervizcsomaggal piacra dobott Windows Server 2008-ig. A DirectX hiba szintén minden futó Windows operációs rendszer alatt kihasználható, míg a Bluetooth-kezelés problémája Windows XP és Vista alatt okozhat fejtörést.
+
+
+A hét frissítésbõl további három fontos besorolást kapott, melyek a PGM-ben (Pragmatic General Multicast), Active Directory-ben és WINS-ben talált sérülékenységeket javítja. A PGM és az Active Directory hibáját denial-of-service támadással lehet felhasználni, míg a WINS hiányosságával jogosultsági korlátokat lehet átlépni. A hetedik, "közepes" minõsítéssel rendelkezõ hiba szintén távoli kódfuttatást tett lehetõvé.
+
+A Microsoft eddig 2006-ban 36 hibajavítást adott ki a Windows operációs rendszerekhez, vagy azok komponenseihez, májusban csupán négyet töltöttek le a számítógépek a Windows Update, vagy Microsoft update rendszeren keresztül.

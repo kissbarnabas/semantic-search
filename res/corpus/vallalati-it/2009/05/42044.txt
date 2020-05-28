@@ -1,0 +1,13 @@
+Az Oracle kezébe kerül a Virtual Iron
+
+A Sun Microsystems 7,6 milliárdos akvizíciójáról szóló szerzõdésen szinte még meg sem száradt a tinta, az Oracle újabb felvásárlást hajtott végre, ezúttal a szervervirtualizációs megoldásokat fejlesztõ Virtual Iront vette meg. A tranzakció pénzügyi részleteit a felek nem hozták nyilvánosságra, csupán annyit tudni, hogy a szokásos feltételek teljesülése esetén az ügylet a nyáron zárulhat le. 
+A Virtual Iron egy Xen-alapú virtualizációs környezetet fejleszt, elsõsorban a felügyeleti eszközökre koncentrálva. Az Oracle számára is ez jelenti a legfõbb vonzerõt, a cég saját virtualizációs megoldása, az Oracle VM szintén a nyílt forrású Xenen alapul, ezt a Virtual Iron megoldásaival kiegészítve a cég egy nagy teljesítményû, robusztus virtualizációs platformmá kívánja fejleszteni. Az Oracle Enterprise Managerrel történõ integráció pedig azt eredményezi a cég várakozásai szerint, hogy az alkalmazások&nbsp; virtualizált környezetben könnyebben érik el a szükséges szolgáltatási szinteket.
+
+A Virtual Iron Java-alapú VI-Centere segítséget nyújt a virtuális szerverek és a rajtuk futó
+alkalmazások felügyeletéhez, a feladatok átterheléséhez, de akár a
+szerverek fizikai paramétereit is figyelemmel kíséri és automatikusan
+reagál a szolgáltatások minõségét érintõ problémákra, például a
+hibákból adódó leállásokra, kiesésekre. A cég megoldásaival teljes virtualizált infrastruktúra hozható létre, leállások esetén a
+szolgáltatások automatikus átterhelõdésével, szabály-alapú
+erõforrás-elosztással és kapacitás-menedzsmenttel. A Virtual Iron erõszeretettel pozícionálja magát a VMware versenytársaként, legfõbb elõnyként a jóval kedvezõbb árat hangsúlyozva.
+Az Oracle egyelõre nem közölte, a Virtual Iront hogyan olvasztja be szervezetébe, illetve a cég termékeinek jövõjérõl sem adott részletes információkat, azokat egy késõbbi idõpontra ígéri. Azt azonban leszögezte a vállalat, a Virtual Iron akvizíciója nem fogja érinteni az Oracle VM fejlesztését, az továbbra is zavartalanul folyik.

@@ -1,0 +1,17 @@
+VMware-tanfolyamok indultak a SZÁMALK-nál
+
+A független oktatóközpontok közül Magyarországon elsõként a SZÁMALK Továbbképzés szerezte meg a "hivatalos VMware oktatóközpont"
+jogosultságot, ezzel az x86-os virtualizációs piac vezetõjének, a VMware-nek hivatalos nemzetközi tanfolyamai, képzései és vizsgái is elérhetõek a SZÁMALK-nál. A képzések a VMware által minõsített oktatók elõadásában zajlanak.
+
+ 
+
+"A SZÁMALK-hoz külföldrõl érkezett a megkeresés a VMware oktatóközpont jogosultság megszerzésére" -- mondta Nyisztor József, a SZÁMALK Továbbképzés igazgatója. "A többkörös pályáztatás végére egyedül mi maradtunk, és elnyertük a hivatalos és minõsített VMware tréning központ (VATC) címet."
+
+Simon Ferenc, a SZÁMALK Továbbképzés IT oktatási termékmenedzsere a HWSW-nek elmondta, a VMware hazai disztribútorának szervezésében korábban is zajlottak Magyarországon VMware-tanfolyamok, azonban a virtualizációs megoldásairól ismert cég a megnövekedett igény miatt szükségesnek látta egy dedikált oktatóközpont bevonását. A SZÁMALK-ban január elején indult el a VMware-oktatás, a tanfolyamok mellett egyedi, vizsgával kombinált felkészítõ konzultációra is van lehetõség, a legnépszerûbb VMware-tanfolyamokat most ráadásul bevezetõ akciók keretében érhetik el az érdeklõdõk.
+
+Simon Ferenc kiemelte az egynapos "VMware Infrastructure Overview" tanfolyamot, amely elsõsorban a kezdõ rendszergazdákat vagy IT-vezetõket, döntéshozókat célozza, illetve a négynapos "VMware Install and Configure" tanfolyamot, ami rendszergazdáknak, üzemeltetési szakembereknek szól, akik már rendelkeznek Windows Server vagy Linux/UNIX és alapvetõ storage-ismeretekkel. Utóbbi tanfolyam résztvevõi nem csak VMware Certified Professional vizsgát tehetnek, hanem kedvezményt is kapnak majd a nyáron induló áttérési tanfolyamok árából, amelyek már a VMware következõ verziójával kapcsolatos újdonságokat, különbségeket tartalmazzák. A vizsgára külön egynapos felkészítõ konzultációt is kínál a SZÁMALK Továbbképzés.
+
+
+ Simon Ferenc szerint a cég által kínált képzések és vizsgák révén az informatikusok, rendszergazdák és IT vezetõk felkészülhetnek a virtualizáció bevezetésére, de egy már meglévõ IT-környezet további fejlesztése, frissítése illetve ezek mindennapi menedzselése is hatékonnyá válhat. A VMware-képzések iránti növekvõ igényt az is jelzi, hogy meredeken növekszik a különbözõ vizsgákra jelentkezõk száma.
+
+A tanfolyamok a SZÁMALK oktatótermeiben zajlanak, azonban maguk az informatikai eszközök a VMware központjában találhatók, ezeket a hallgatók távoli hozzáféréssel érhetik el. Nyár közepétõl már élõ szerver- és storage eszközpark támogatja majd a VMware oktatást a SZÁMALK-nál, a hallgatók így még inkább "testközelbõl" szerezhetnek ismereteket egy virtualizált környezet telepítésérõl, konfigurálásáról és üzemeltetésérõl.

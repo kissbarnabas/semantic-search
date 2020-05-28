@@ -1,0 +1,16 @@
+A Western Digital bemutatta a világ leggyorsabb 300 gigabájtos merevlemezét
+
+A Western Digital a világ eddigi leggyorsabb SATA II merevlemezével jelentkezett a piacon, mely a szédületes sebesség mellett a külsõ terén is új utakon jár. A tízezres fordulatszámon üzemelõ 2,5 hüvelykes tároló akkora passzív hûtést kapott, hogy csak egy 3,5 hüvelykes meghajtó helyére építhetõ be.
+
+
+
+A villámgyors WD Velociraptor WD3000GLFS 300 gigabájt tárolására képes és a gyártó állítása szerint 35 százalékkal gyorsabb, mint az a Raptor, amelyet levált. A Velociraptor kizárólag asztali számítógépekbe készül, noteszgépekbe nem építhetõ be, mert a hordozható gépekben alkalmazott tárolók 9,5 milliméteres (speciális esetekben 12,5 mm) magasságát jócskán túlszárnyalja 15 milliméterével.
+
+A 2,5 hüvelykes méret elõnyei közül az elsõ, hogy az azonos kapacitású, ám nagyobb fizikai méretekkel rendelkezõ 3,5" meghajtókhoz képest nagyobb az adatsûrûség. A második elõny is a kisebb méretbõl adódik, a nagyteljesítményû meghajtó üzem közben hõt termel, amelyet elvezetni a köréépített hûtõborda úgy képes, hogy közben nem lépi át a 3,5 hüvelykes beépítõhelyek által állított korlátokat. Azt asztali változatoknál kisebb noteszmerevlemezek teljesítménye utóbbi hiányán túl azért is marad el nagyobb társaiétól, mert a mobil környezetben a teljesítmény mellett egyéb paraméterek, köztük a fogyasztás is igen erõsen esik a latba.
+
+
+
+
+ A tízezres fordulatszámon pörgõ SATA II-es Velociraptor 16 megabájnyi gyorsítótárat kapott és május közepétõl válik 300 dollárért elérhetõvé. Az Alienware ennél is korábban kap a meghajtóból, elsõk között jelentette be, hogy nagyteljesítményû ALX számítógépeit már április végétõl az új Velociraptorokkal is építi, melyekbõl igény szerint akár kettõ is rendelhetõ  RAID tömbbe szervezve.
+
+A Western Digital mellett a Seagate kínálatában is található nagy fordulatszámú megoldás, a Savvio 2,5 hüvelykes egységek 15 ezer fordulaton pörgetik a tányérokat. Ezek a kifejezetten vállalati környezetbe, leginkább szerverekbe szánt meghajtók SAS interfészen keresztül csatlakoztathatóak.

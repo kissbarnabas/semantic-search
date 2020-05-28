@@ -1,0 +1,22 @@
+Összevonja System p és System i termékcsaládját az IBM
+
+A COMMON User Group konferencián az IBM bejelentette, hogy Power Systems márkanév alatt vonja össze a System i (i5/OS) és System p (UNIX) szervereinek termékvonalát. A Nagy Kék bemutatta az új, egyesített termékcsalád elsõ tagjait, amelyeket kimondottan kis- és középvállalatoknak szánnak, a többi gépet az elkövetkezõ hetekben jelentik majd be.
+
+
+
+Egységben egyszerûbb
+
+Az elmúlt idõben már látszottak az integrációs törekvések, ahogy a System p és System i (korábban pSeries és iSeries, még korábban RS/6000 és AS/400) termékvonal hardver szempontjából teljesen összeért, a szerverek azonos alkatrészekbõl álltak, egyedül az operációs rendszer volt más. Innen már csak egy lépés volt a két család teljes összevonása. Az új, tavaly bejelentett kétmagos Power6 processzorra épülõ gépek az i5/OS (korábban OS/400, mostantól egyszerûen "i"), valamint az IBM AIX UNIX operációs rendszer futtatására egyaránt képesek, emellett a Linuxot is támogatják -- ezek külön partíciókon akár párhuzamosan is mûködhetnek egy szerveren.
+
+
+ A lépéssel az IBM nem csak jelentõs költséget tud megtakarítani, hanem a felhasználók életét is egyszerûbbé teszi, az egyesített Power System termékvonalnak ugyanis egységes lesz az árazása, az alkatrészek ellátása, a gépek upgrade-je. Az árakat a System p vonalhoz igazítják majd, ami azt jelenti, hogy a System i ügyfelek némileg kevesebbet fizetnek majd a hardverekért. 
+
+Azok szerint, akik már látták az új szervereket, a Power System sorozat valóságos "mérnöki csoda". Az IBM az új trendeknek megfelelõen óriási hangsúlyt fektetett az energiahatékonyságra, a helyhatékonyságra és a környezetbarát mûködésre. Az új gépekben már víz hûti a processzorokat és a leginkább melegedõ alkatrészeket. Ezáltal sikerült elérni, hogy egy négyfoglalatos, nyolcmagos Power 550 rendszer 16 százalékkal nagyobb teljesítményt nyújt egy 64 magos HP Integrity Superdome-nál, miközben 98 százalékkal kevesebb helyet foglal és 91 százalékkal kevesebb energiával is beéri -- állítja az IBM. Ráadásul mivel a hasonló teljesítményt mellett jóval kevesebb processzormag állítja elõ, a szoftverlicenc-költség is alacsonyabb, mivel a nagyvállalati szoftverek zömének árazása az  processzoronként, illetve magonként lehet licencelni. A szoftverköltségen ezáltal akár 87 százalékos megtakarítás is elérhetõ az IBM szerint.
+
+Az új szerverek
+
+A Power System termékcsalád jelenleg három szerverbõl áll. A Power 520 és Power 550 rackbe szerelhetõ kiszolgálók, az elõbbibe legfeljebb kettõ, az utóbbiba négy Power6 processzort lehet építeni. A 4U kivitelû Power 520 legfeljebb 64 gigabájt memóriát támogat és 6 darab SAS merevlemez befogadására képes, a bõvíthetõségrõl két PCI-X és három PCI Express 8x aljzat gondoskodik. Az alapváltozat két darab GbE porttal rendelkezik, de felárért akár négy is rendelhetõ, vagy akár két darab 10 GbE port is választható. A szintén 4U kivitelû Power 550-be már akár 256 gigabájt memória is beépíthetõ a 6 SAS diszk mellett, a bõvítõhelyek és hálózati csatlakozók terén a gép a Power 520 képességeivel megegyezik. 
+
+A Power 520 alapáron már 6 ezer dollár alatt megkapható, bár ez csak afféle vevõcsalogató konfiguráció, egy darab processzorral, egy aktív processzormaggal, 2 gigabájt memóriával és két diszkkel. Egy négy aktív magot és 16 gigabájt memóriát tartalmazó konfiguráció ára 16 ezer dollár körül kezdõdik. A Power 550 esetében már az alapváltozat is 25 ezer dollárba kerül két aktív maggal, egy nyolcmagos kiépítés már 112 ezer dollárt kóstál. További újdonság, hogy az IBM Power6-alapú blade szerverei mostantól akár i operációs rendszerrel is rendelhetõk, emellett a kínálat kiegészült az egyfoglalatos BladeCenter JS12 blade-del.
+
+A gépeket i, AIX és Linux operációs rendszerrel egyaránt meg lehet vásárolni, úgynevezett Editiönök formájában, de az IBM igény szerint akár több operációs rendszerrrel is szállítja õket, mivel a PowerVM technológiának köszönhetõen egy szerveren akár 80 partíció is létrehozható. A Power 520 és Power 550 AIX és Linux Edition már elérhetõ, a Power 520 i Editiönt csak április közepétõl szállítják, a Power 550 i Edition pedig májustól lesz kapható. 

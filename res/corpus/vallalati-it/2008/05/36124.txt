@@ -1,0 +1,21 @@
+2010-ben érkezik a Windows Vistára épülõ Windows 7
+
+Legkorábban 2010 elején érkezhet piacra a Microsoft következõ generációs asztali operációs rendszere, a Windows Vista utóda, amelyet egyelõre csak Windows 7 néven szoktak emlegetni -- árulta el a CNetnek adott interjújában Steven Sinofsky, aki Jim Allchin távozása óta a Windowsok fejlesztését irányítja.
+
+
+
+A Microsoft eddig csak igen kevés részletet árult el a következõ nagy dobásról, Sinofsky szerint ennek oka, hogy nem szeretnének idejekorán olyan információkat nyilvánosságra hozni, amelyek késõbb módosulhatnak. A Windows Vista kapcsán ezzel kapcsolatban sokat tanulhatott a cég, ugyanis a fejlesztés során bejelentettek olyan újdonságokat, amelyek végül nem kerültek be az operációs rendszerbe, és ezzel a vállalat erõteljesen rombolta a saját megítélést a vevõk, felhasználók körében. Sinofsky a CNetnek elmondta, akkor akarnak majd elõállni az újdonságok listájával, ha azokat mûködés közben is be tudják mutatni, és a vásárlók meggyõzõdhetnek arról, hogy számukra valóban fontos fejlesztésekkel gazdagodott a termék.
+
+
+ Az interjúban Sinofsky beismerte, a Windows Vista a Windows XP-hez képest radikális átalakuláson esett át, és némely területen a Microsoft nem végzett olyan jó munkát, mint szeretett volna. Ennek egyik példája a grafikus driverek esete, amelyek a Vistában kikerültek kernel módból annak érdekében, hogy a rendszer még robosztusabb, megbízhatóbb legyen. Azonban a kezdeti idõben a rosszul megírt driverek rengeteg problémát okoztak. A Windows-vezér szerint azonban a Microsoft tanult az esetbõl.
+
+
+
+
+Steven Sinofsky
+
+
+
+Ami a Windows 7-et illeti, Sinofsky ígérete szerint a drivermodell marad a régiben, ami azt jelenti, hogy a Vistához elkészített meghajtók mûködni fognak Windows 7 alatt is. Az új operációs rendszer terjedését tehát aligha gátolja majd a meghajtóprogramok hiánya, mint ahogy azt a Vista esetében tapasztalhattunk. Sinofsky elmondta, hogy a Windows 7 a Windows Server 2008 kerneljének továbbfejlesztett változatára épül majd, vagyis a Vista egyensági leszármazottjának tekinthetõ. A memóriakezelés, a szálkezelés, a hálózatkezelés és a biztonsági alapfunkciók azonban nem módosulnak, így a Vistára, illetve Windows Server 2008-ra írt szoftverek változatlanul futnak majd az új Windowson. Az interjúból az is kiderült, hogy a Windows 7-bõl 32 és 64 bites változat egyaránt napvilágot lát majd.
+
+Az operációs rendszer funkcionális újdoságairól azonban továbbra sem árult el részleteket Sinofsky, csupán annyit ígért, hogy minden vásárlói szegmens számára lesznek vonzó szolgáltatások a Windows 7-ben, legyen szó otthoni felhasználókról vagy vállalatokról. "A csapat nagyon, nagyon keményen dolgozik a Windows új változatán, és el sem tudod képzelni, mennyire várjuk már hogy megmutathassuk az embereknek" -- mondta a Windows-fõnök. "Tartani tudjuk a kitûzött határidõt, nagyon izgatottak vagyunk a megjelenéssel kapcsolatban, és elkötelezettek vagyunk azért, hogy amit ígérünk, azt be is tartsuk."

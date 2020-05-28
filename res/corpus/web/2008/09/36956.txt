@@ -1,0 +1,12 @@
+Magyarul is megtanult az Internet Explorer 8 második bétája
+
+Magyarul is megjelent az Internet Explorer 8 második bétája, így mostantól az is kipróbálhatja a Microsoft új böngészõjének elõzetesét, akit a nyelvi nehézségek eddig távol tartottak tõle. 
+
+
+
+Az Internet Explorer 8 magyar elõzetese kizárólag x86-os (32 bites) Windows XP-re (SP2, SP3), Windows Server 2003-ra, Windows Vistára vagy Windows Server 2008-ra telepíthetõ. Ha valaki Windows XP-n vagy Windows Server 2003-on szeretné kipróbálni az IE8 Beta 2-t, figyeljen arra, hogy a böngészõnek és az operációs rendszernek azonos nyelvûnek kell lennie, vagyis magyar IE8 csak magyar Windows XP-n mûködik, más kombináció esetén a telepítés hibaüzenettel leáll. Windows Vista és Windows Server 2008 esetében nincs ilyen megkötés, bármilyen nyelvû operációs rendszerre bármilyen nyelvû böngészõ telepíthetõ.
+
+
+ A Microsoft augusztus végén adta ki az új böngészõ nyilvános elõzetetesét, akkor csak a legelterjedtebb nyelveken (angol, német, japán, kínai), mára azonban az IE8 Beta 2 összesen 25 különbözõ nyelven érhetõ el, a magyar mellett például olaszul, spanyolul, csehül, lengyelül, oroszul és törökül is.
+
+Az IE8 fõleg a használhatóság és a biztonság terén hoz újdonságokat elõdjéhez képest, de a webes szabványok támogatása is sokat fejlõdött, aminek eredményeképp a böngészõ lényegében az összes standarddal kompatibilis. Emellett a fejlesztõk nagy hangsúlyt fektettek a sebességre is, amely miatt az Internet Explorer 7-et sok kritika érte. Az Internet Explorer 8 legfontosabb újdonságairól szóló cikkünk itt, tesztünk pedig itt olvasható.

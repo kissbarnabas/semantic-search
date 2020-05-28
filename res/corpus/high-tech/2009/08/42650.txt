@@ -1,0 +1,12 @@
+Újabb áttörés az SSD-k számára
+
+Az Intel és a Micron közös vállalkozásában, az IM Flash Technologiesben készült el a 3 bites MLC (multi-level cell) NAND flash chippel, melyet 34 nanométeres csíkszélességû gyártástechnológián állít elõ. Mivel  a 34 nanométeres félvezetõeljáráson már tömegtermelés folyik, és a memóriachipek nem igényelnek a logikai chipekéhez hasonlóan hosszadalmas tesztelést, ezért már a negyedik negyedévben megindulhat a kereskedelmi termelés, így akár már jövõ év elején felbukkanhatnak az elsõ az ilyen chipekkel szerelt SSD-k.
+Demonstrációként egy 32 gigabites, vagy 4 gigabájtos chipet prezentált a két vállalat, melyrõl állítják, a ma elérhetõ legköltséghatékonyabb, mivel mindössze 126 négyzetmilliméter a felülete. Ez valószínûleg nem sokáig  lesz így, hiszen a Toshiba 32 nanométeres eljárással szintén 3 bites 32 gigabites chipet jelentett be még év elején, méghozzá 113 négyzetmilliméteres felülettel, és az idei év második felére ígéri a tömegtermelés beindítását. Sõt, a NAND flash chiptechnológiát eredetileg kifejlesztõ Toshiba tovább is emelte a tétet, és 4 bites MLC NAND chipet is bejelentett, 64 gigabites kapacitással, és 244,5 négyzetmilliméteres területtel.
+
+
+A cégek versenyfutása nem véletlen, a flash memóriák piacán az egységnyi bitkapacitás elõállítási költsége dönt életrõl és halálról, miközben a technológia teljesítményével szembeni elvárások is folyamatosan nõnek, fõként az SSD-kben történõ felhasználás hatására. Az Intel néhány hete csökkentette 50-60 százalékkal elsõsorban notebookokba szánt X25-M SSD-inek árát, miután felfuttatta 34 nanométeres termelését. Az ezekben felhasznált chipek 2 bites MLC szervezésûek, vagyis a 3 bites chipek további mintegy 20-30 százalékos csökkentésre nyitnak lehetõséget rövid idõn belül. Az Intel egyúttal fellebbentette, hogy a 20 nanométeres osztályú félvezetõ eljárást akár már idén bemutathatják, vagyis jövõre felezõdhetnek az SSD-árak.
+Az Intel kommünikéje ugyanakkor egyelõre nem tárgyalja, hogy a 3 bites MLC chipek mennyi teljesítményt veszítenek 2 bites elõdeikhez képest, ha veszítenek, ami fõként az írási sebességre jellemzõ a NAND flash chipek esetében. A chipszintû csökkenést az Intel a meghajtó szintjén orvosolhatja a chipek vezérlésén keresztül, hiszen párhuzamosan 10 csatornán használják azokat a jelenlegi SSD meghajtók is, szétosztva a chipek közt az adatokat.	     
+                  
+                  
+                  
+                   

@@ -1,0 +1,17 @@
+Dobta a Centrino Atom márkanevet az Intel
+
+Alig öt hónappal a bevezetése után eldobja a Centrino Atom márkanevet az Intel, a processzorgyártó így ezután csak az ultramobil megoldásokhoz és olcsó kliensekhez fejlesztett CPU márkanevét, azaz az Atomot használja majd, a Centrino márka pedig továbbra is a teljes funkciójú noteszgépek privilégiuma marad.
+
+
+
+Az Intel március elején, a 45 nanométeres eljárással készülõ Silverthorne és Diamondville kódnevû processzorok bejelentésével vezette be az Atom és a Centrino Atom márkaneveket -- a Silverthorne kifejezetten a mobil internet terminálokat célozza, míg derivatívája, a Diamondville magasabb órajeleken és PC-chipset társaságában az olyan ultrahordozható notebookokat, mint amilyen az Asus Eee PC-je, vagy az MSI Windje.
+
+
+
+
+Az alacsony fogyasztású Silverthorne processzor és az egyetlen magas integráltságú chipbõl felépülõ Poulsbo chipset alkotta Menlow platform kifejezetten a kézi mobil internet terminálok (mobile internet device, MID) területét vette célba, és Centrino Atom néven mutatkozott be tavasszal. A platform azonban a bejelentése óta eltelt öt hónap alatt sem tudott erõre kapni, ráadásul a Centrino márkanév alkalmazása ebben szegmensben több vásárlót és üzleti partnert is összezavart, hiszen a netbookok felépítésük miatt nem felelnek meg a platform követelményeinek (az Atom processzoros Eee PC és konkurensei kivétel nélkül kétchipes lapkakészletet integrálnak).
+
+
+Az Intel már értesítette gyártópartnereit a márkastratégia változásáról, így azok az eszközök, melyeket eddig Centrino Atom márkajelzéssel láttak el, a késõbbiekben csak az Atom logót viselik majd magukon. Az öt hónappal ezelõtt életre hívott márka kivezetésének bejelentését megelõzõen az asztali chipek frontján is márkaváltást kezdeményezett az Intel: a vállalat a Nehalem-generáció elsõ asztali tagjainak, melyeket Bloomfield kódnéven ismerünk, a Core i7 megkülönböztetõ jelzést adja, az eddig használt modellszámozási rendszer további alkalmazása mellett.
+
+Bár a Centrino Atom platformhoz tartozó megoldások gyors hódításáról nem lehet beszélni, az Atom-alapú netbookokat viszik mint a cukrot, a gyártó gyakorlatilag nem tud elég Atom processzort szállítani partnerei megrendelésére. A Gartner legfrissebb számai szerint az olcsó mini notebookok, vagyis a netbookok szállításai idén elérik az 5,2 millió darabot, a szállítások pedig öt év alatt akár meg is tízszerezõdhetnek. Az ismertebb gyártók közül Atom CPU-t épít netbookjai egy részébe az Eee PC-vel kategóriateremtõ Asus, ezen kívül az MSI és az Acer is piacra dobta atomos netbookjait. Késõbb a Dell, a Fujitsu, a Lenovo és a Toshiba is beáll majd a sorba, azaz lényegében az összes meghatározó piaci szereplõnek lesz Atom-alapú megoldása.

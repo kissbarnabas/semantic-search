@@ -1,0 +1,36 @@
+Naviextras: végre elkészült a Nav N Go térképfrissítõ megoldása
+
+[HWSW]A Nav N Go hivatalosan is elindította új térképfrissítési megoldását, a Naviextras weboldalt, illetve a PC-s környezetben futó Naviextras Toolboxot. A cég nem akarta a gyengén sikerült, nehezen használható Content Managert foltozgatni, ezért vágott bele fél évvel ezelõtt egy teljesen új felület megalkotásába. A friss térkép- és szoftverváltozatok mellett a felhasználók extra tartalmakat is beszerezhetnek majd Naviextrasról, például az üzemanyagárakat is tartalmazó POI-csomagokat vagy az alapváltozatokon túli hangkészleteket.
+
+
+
+Megvan a kritikus tömeg
+
+Fazekas András, a Nav N Go operatív igazgatója a bemutató sajtótájékoztatón elmondta, hogy az iGo négy éves történetében mostanra vált aktuálissá, hogy egy teljes portált adjanak ki, ahol tartalmat és szolgáltatást nyújthatnak egyben. Mára már van annyi felhasználó a szoftver mögött, akikért érdemes egy ilyet létrehozni. A PDA-változat mellett a Naviextras támogatja az iGo PNA-verziókat is, melyet jelenleg körülbelül 60 gyártó 200 márkája mögött lehet meglelni. 
+
+A különálló, készülékfüggetlen PDA-verzióval ellentétben a PNA-változatok esetében a gyártó jóváhagyása és közremûködése is szükséges ahhoz, hogy a Naviextras rendszereken keresztül lehessen frissíteni vagy bõvíteni a programot és komponenseit, viszont a legtöbb esetben a másik oldal is érdekelt abban, hogy egy könnyen kezelhetõ és friss felület álljon a vásárlók rendelkezésére. A tegnap élesített portálon egyelõre csak a Navon két PNA-készüléke támogatott, de 20 céggel már sikerült megállapodni, így még idén, illetve 2009 elsõ hónapjaiban a Dreimgo, Nexx, GPSTracker, MyGuide, Aviton, Stromberg, Telesystem, Toshiba és Altina márkájú PNA-k tulajai is csatlakozhatnak. 
+
+ 
+
+Jobb felhasználói élmény kell
+
+A korábbi Content Managerhez képest újdonság, hogy nem csak a meglévõ térképek frissítése lehetséges, hanem a webshopban teljesen új térképeket is lehet vásárolni, például az USA, Mexikó, Kanada, Brazília vagy Ausztrália térképét. A portál valóban egy webshopként mûködik, míg a Toolbox szoftverben regisztrálva van a készülék és az iGo program is, ezért a kezdõ felhasználóknak ezt ajánlják, hisz itt elkerülhetõ, hogy olyan térképet vagy kiegészítõt vásároljanak meg, ami már megvan vagy nem kompatibilis. 
+
+Simon Attila, a cég online értékesítési vezetõje szerint a szoftver és a portál megalkotásakor is az volt a legfontosabb, hogy egyszerû, a két felület pedig átjárható, illetve univerzálisan használható legyen a különbözõ tartalmak terjesztésére. Mivel azt tervezik, hogy sok gyártó készülékeit innen szolgálják ki, ezért a skálázhatóság is fontos szempont volt. Több milliós látogatottság is elképzelhetõ a jövõben, bár a mai napig bezárólag még csak tízezer felhasználó regisztrált. 
+
+12 TopMap ország ingyenes marad
+
+A frissítések rendszere is változik a Naviextras bevezetésével, de a Magyarország és a Kelet-Európa térképek (12 ország) továbbra is ingyenesen frissíthetõek maradnak, csupán a továbbiakért kell plusz pénzt kiadni. A beragadt készülékek esetében volt probléma, hogy mire a vevõhöz kerültek, már elavult rajtuk a térkép, de a jövõben minden készülék frissíthetõ az aktuális verzióra. Sõt, a Nav N Go számolt azzal is, hogy vannak olyanok, akik nem preferálják a kártyás fizetést vagy nem rendelkeznek ehhez megfelelõ fizetõeszközzel, így offline is lehet venni frissítõkártyát, ami úgy mûködik, mint egy mobiltelefonos feltöltõkártya vagy a World of Warcraft gamecard. 
+
+A Naviextras az extra tartalmak tekintetében is jelentõs elõrelépés minden korábbihoz képest (Content Manager, Mynavngo.com), hiszen a termékkel kapcsolatos minden interakció elvégezhetõ online. A frissítés és a fizetés mellett a kiegészítõ tartalmak is innen tölthetõek le, a fórumokon gyakorlott felhasználók segítenek megoldani az egyedi problémákat, de a hivatalos ügyfélszolgálat is online-ná vált. 
+
+ 
+
+A letöltések között fokozatosan jelennek meg az újdonságok, s hamarosan sebességmérõ kamera-, TMC- és POI-adatbázist, 3D épületeket is találhatnak a felhasználók. A közösségnek ezeken kívül lehetõsége lesz saját POI-kat, útvonalakat is feltölteni. Sõt, a holtankoljak.hu oldallal történõ együttmûködés keretében aki gyakran frissíti a készüléket, az aktuális üzemanyagárakat is láthat majd navigációs eszközén, és a kutakat csoportosíthatja a távolság mellett az ár alapján is. 
+
+A PDA- és okostelefon-tulajdonosok számára lesz újdonság, hogy egy adatkapcsolat segítségével az iGo képessé válik hamarosan a valós idejû pozíciókövetésre is, illetve végre megjelennek egyedi navigációs hangkészletek is. Errõl személyesen Mohos Zoltánt, a Nav N Go senior tanácsadóját kérdeztük meg, aki szerint olyan hangkészleteket állítottak össze, amit nem unnak majd meg a felhasználók a negyedik kanyar után, nem lesznek idegesítõek. 
+
+
+Mohos a HWSW kérdéseire elmondta azt is, hogy minden negyedéves frissítésen belül folyamatosan finomítják a sebességkorlátozások jelzését is, ami a korábbi változatokban elég egyszerûen volt megoldva. A domborzati és útminõségi viszonyokat viszont egyelõre nem tudják figyelembe venni a tervezés során, sõt, Mohos kizártnak tartja, hogy egyhamar az útgeometriába magassági adatok is kerüljenek, hiszen ez akár másfélszeresére növelhetné a térképfájlok méretét. 
+
+Az európai térképek így is közel másfél gigabájtot tesznek ki, illetve az Egyesült Államok részletes térképe is önmagában 1,2 gigabájt, ami nyilván egyszerre nem fér rá a gyári 2 gigás kártyára. Ennek ellenére nem várható, hogy a dobozban található microSD kártyából nagyobbat hoznak forgalomba, hiszen az újabb, nagyobb kapacitású darabok már SDHC szabványúak, amit pedig a régebbi készülékek nem kezelnének, és ez túl sok gondot okozna az értékesítési csatornákban -- véli Mohos. 

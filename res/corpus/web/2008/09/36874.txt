@@ -1,0 +1,47 @@
+Kipróbáltuk: Internet Explorer 8 beta 2
+
+Az idei év a böngészõháború jegyében telik: alig hatvan napja jelent meg hivatalosan a Firefox 3, pár napja leplezte le a Google saját böngészõjét, a Chrome-ot, miközben a Microsoft is gõzerõvel dolgozik az Internet Explorer 8-on. Az augusztus 27-én kiadott beta 2 verzió funkcionalitását tekintve már végleges változat, új elemek tehát nem kerülnek már bele, csupán a hibák javítása van már hátra.
+
+
+
+Az Internet Explorer 13 éves pályafutása alatt kapott már hideget-meleget a világhálót használóktól, megküzdött anno a Netscape-pel, aprították az anti-tröszt perekben is. Minden galiba ellenére a vállalati szféra befogadta és bármennyire innovatívabb volt a Mozilla Firefox, globálisan nem lehetett eddig sem komolyan megszorongatni az Explorert. Az új verzió viszont még a kritikus szemek számára is tetszetõs lehet, hiszen a motor jóval gyorsabb elõdjénél, számos kényelmi- és praktikus funkció került bele, emellett bepótolta konkurenseivel szembeni hiányosságait is, sõt egyes esetekben túl is lép rajtuk.
+
+[+] Letölthetõ az Internet Explorer 8 második bétája 
+
+
+A telepítéshez mindenképp szükség van Windows Vista elsõ vagy az XP harmadik javítócsomagjára. A 13 megabájtos telepítõ futtatása után mindenképpen újra kell indítani a rendszert. A település után a program feltesz néhány mûködéssel kapcsolatos kérdést: szeretnénk-e az automata weboldal ajánló rendszert bekapcsolni, illetve szeretnénk-e, hogy minden internetezéssel kapcsolatos szolgáltatás esetén a Microsoft megoldása legyen az alapértelmezett?
+
+Amennyiben az express beállításokat választja valaki, akkor azon túl, hogy az IE8 lesz az alapértelmezett böngészõ, keresõként a Live Search, blogszolgáltatóként a Live Spaces, tudásbázisként (Wikipedia helyett?) az Encarta enciklopédia, térképszolgáltatóként a Live Maps, levelezõként a Live Mail lesz beállítva és fordítószolgáltatásként is a Live funkcionál majd. A telepítõ ilyenkor bekapcsolja a Smart Screen Filter nevû funkciót is, amivel bármely oldalt megvizsgáltathatunk biztonsági szempontból. Amennyiben valaki az IE korábbi változatát használja, akkor az átállás során nem kell veszõdni a beállítások importálásával, más böngészõrõl való áttéréskor viszont csak a kedvenceket és az elõzményeket tudja átemelni, a jelszavakat, sütiket, beállításokat nem.
+
+ 
+
+
+A végleges változatban novemberben megjelenõ IE8-ról a Microsoft azt állította, hogy jóval fogyasztócentrikusabb lesz, mint a korábbi változatok. Ezt az állítást leginkább a kényelmi és biztonsági funkciók dömpingje támasztja alá, melyek a vetélytárs Firefox, Safari vagy épp Opera megoldásait valóban több ponton megelõzi. Persze azért akadnak hiányosságok is. A böngészõ egyelõre csak angolul érhetõ el, több Microsoft megoldás pedig (például a Live Maps) inkább az amerikai közönség és a vállalati rendszerben dolgozók számára hatékony, így Magyarországon legalább a lokalizáció megjelenéséig érdemes várni a váltással. 
+
+Ismerõs felület
+
+A kezelõfelület a korábbi hetes változathoz képest nem változott meg alapjaiban, így nem kell újratanulni a program mûködését. A legnagyobb különbség az új eszköztárak megjelenése, illetve a webes tartalmak felett (egérkurzort ráhúzva) megjelenõ lebegõ opciók beépítése. Az elsõ bétához képest újdonságként a biztonsági legördülõ menü került be: innen érhetõek el a korábbi cikkünkben már bemutatott új funkciók, mint az InPrivate Browsing vagy az InPrivate Blocking. A böngészés biztonságát tovább javítja, hogy a címsorban az oldal domain-je kiemelést kap, így könnyebben felismerhetõek az adathalász kísérletek -- ha például a netbankunkat felkeresve nem a bank neve világít, hanem bármi más. Újdonság, hogy ha a böngészõ a meglátogatott oldalon valamilyen kritikus veszélyforrást észlel, akkor az egész oldalt lefedõ figyelmeztetést jelenít meg. 
+
+[+] Pornó mód az Internet Explorer 8-ban is
+
+Az új verzióval a böngészõfülek rendszerét is átdolgozta a Microsoft, így jóval kezelhetõbbé válik akár 10-20 fül együttes jelenléte egy ablakon belül. Egy fülbõl újat nyitva az IE8 nem a jobb szélsõ mezõbe helyezi azt, hanem az eredeti mellé közvetlenül, illetve az egymásból származókat azonos színnel jelöli a könnyebb átláthatóság kedvéért. Sõt, a csoport bármely tagjára klikkelve elérhetõek közös funkciók: Minden tagját egyszerre be lehet zárni, a csoporton belüli, korábban bezárt füleket újra lehet nyitni késõbb és ki is lehet emelni egy adott fület különállóként. 
+
+
+
+Ha mégis átláthatatlan a kép, akkor a QuickTabs ikonra klikkelve elõnézeti képekkel ellátva, táblázatba rendezve jelennek meg az oldalak, így segítve a gyors tájékozódást. Egy új üres fület nyitva már az Internet Explorer is felkínál lehetõségeket a továbbhaladásra. A korábban bezárt oldalak újranyitása mellett kezdhetünk InPrivate böngészést, de a telepített kiegészítõkbe, keresõkbe kulcsszavakat beírva azonnal tartalmi oldalra kerülhetünk. 
+
+ 
+
+Az IE8 felhasználói élményt fokozó két új funkciója a Web Slices, azaz webszeletek, illetve az Accelerators, azaz gyorsítók. A webszeletek segítségével az RSS-hez, illetve inkább a Firefox Live Bookmarkjához hasonló metodikával lehet követni bizonyos oldalakon belüli tartalmi változásokat. Amennyiben a weboldal támogatja ezt a lehetõséget, akkor a fejléchez hozzáadhatunk weboldalakat, de nem kell ellátogatni a címre ahhoz, hogy lássuk történt-e változás, hanem egy lenyíló kis ablakban csak a fókuszterületet mutatja meg nekünk a böngészõ. Hírkövetésre, aukciós oldalakhoz, közösségi szájtokhoz vagy egyéb dinamikusan változó tartalmakhoz hasznos segítség, már most több híroldal -- egyebek mellett az eBay, a Facebook is -- támogatja.
+
+Az Accelerators ezzel szemben nem akkora újdonság, hiszen a címsor mellett megjelenõ bõvíthetõ keresõ már hétköznapinak nevezhetõ. Ide az alapbeállításokon kívül befûzhetünk további keresõket, térképszolgáltatót, szótárat stb. A pluszt az adja, hogy bármely szót a weboldalakon kijelölve egy kis kék nyíl tûnik fel (a Microsoft Office 2007-ben megismert gyorsformázás menühöz hasonlóan), melybõl azonnal elérhetõek a beállított keresõk, így pedig érthetõ a funkció elnevezése is. A normál szöveges keresõk esetén nem ajánl fel elõzetes találatokat, ahogyan például a Firefox alá készített Ubiquity kiegészítõ teszi, de kiválasztva a megfelelõ forrást, új fülön jeleníti meg az eredményeket.
+
+Gyors, gyorsabb, leggyorsabb?
+
+Egy címet kijelölve viszont azonnal egy overlay ablakban mutatja meg a kért térképet, rákattintva pedig egy külön fülben is megnyitható. Ahogy arra fentebb is utaltunk a Microsoft térképkeresõje az Egyesült Államokban hatékony igazán, szerkesztõségünk impresszumban található címérõl például azt állította, hogy az nem egy érvényes formátum, de a Live Maps egyébként sem boldogul magyarországi helyekkel, annak ellenére, hogy manuálisan böngészve utca szintû részletességgel rendelkezik. Az ilyen apróságok ellenére maga a funkció könnyen megszokható, kényelmes és hasznos, valóban a felhasználói élmény fokozásának irányába mutató plusz.
+
+ 
+
+A kényelem mellett a érdemben javult a teljesítmény is. Ugyan a most debütált Google Chrome-mal nem veheti fel a versenyt, annál jóval lassabban nyílik meg minden egyes böngészõfül, valamivel lassabban töltõdnek be az oldalak, de az IE korábbi verzióihoz képest komoly elõrelépés tapasztalható. Az Internet Explorer 8 a robusztus irányt követi, hiszen minden szép és jó lehetõséggel felvértezte felületét, de ennek ára van. Az extra kényelem és a komplexitás érdekében a megjelenítés sebessége szenved csorbát. A rendelkezésre álló erõforrásokkal is igen egyedien gazdálkodik. Ugyan hatékonynak tûnik a memóriakezelése, de a böngészõ bezárásáig minden korábbi tartalmat igyekszik a RAM-ban tartani és csak a program bezárásával együtt tünteti el õket. Ez segítség lehet a bezárt oldalak újranyitásánál, betöltésénél, de a számítógépen futó többi program kárára teszi ezt. 
+
+Összességében az Internet Explorer 8 elõdjeihez képest már elsõ használatra is sokat változott, javult. Az új böngészõ megfelel a 2008-ban támasztott igényeknek, képes kezelni a veszélyeket, óvja a felhasználót, de közben új lehetõségeket is nyit számára. A testreszabási lehetõségek, a kiegészítõk tömege, a kontrollálható teljesítmény erõs kapocs lehet az alternatívák, így elsõsorban a Firefox és az Opera mellett, viszont a laikus felhasználó számára az IE8 által válnak befogadhatóvá az elmúlt évek webes innovációi.

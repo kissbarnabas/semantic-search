@@ -1,0 +1,14 @@
+Szövetségesekre talált az Intel a 450 milliméteres szeletek bevezetésében
+
+Szövetségeseket szerzett magának az Intel a 450 milliméteres szilíciumszeletekre történõ migrációhoz. A világ legnagyobb chipgyártója a második Samsung Electronicsot és a világ vezetõ szerzõdéses gyártóját, a TSMC-t állította maga mellé, mellyekkel közösen egységes szabványokat és ütemtervet dolgoznak ki.
+
+
+
+Az Intel már évek óta hangoztatja, hogy elõbb-utóbb elkerülhetetlenné válik a 450 milliméteres átmérõjû szilíciumszeletek bevezetése. A nagyobb szeleteken ugyanis gazdaságosabbá tehetõ a chipek termelése, aminek számos oka van. Az egyes megmunkálási fázisokon több chipstruktúra kerül kialakításra, adott volumen eléréséhez így kevesebb berendezés, szelet, mozgatás és kisebb tiszta terület szükséges, valamint a legyártott chipek gyártási varianciája is csökken emiatt. A nagyobb szelet ráadásul arányon felül több felületet kínál: az AMD a 300 milliméteres ostyák esetében 2,4-szeres kapacitásról beszélt a 200 milliméteresekkel szemben, ez a mutató nyilvánvalóan a chipek méretétõl és formájától is függ.
+
+Az Intel szerint a növekvõ volumen és átlagos chipméret miatt válik majd indokolttá a 450 milliméteres szeletek alkalmazása, ehhez azonban szüksége van további, magas volumenben gyártó félvezetõipari vállalatra is a költségek terítése érdekébe. Az új gyártósorok bár jóval gazdaságosabbnak ígérkeznek, az átállás csillagászati összegeket fog felemészteni, és az Intel kézenfekvõ okokból nem kívánja egyedül állni a számlát: a 450 milliméters gyártósorok teljesen új berendezéseket és értelemszerûen 450 milliméteres szilíciumkristály rudak növesztését igényli, vagyis a félvezetõipiar beszállítóknak is tetemes beruházásokat kell eszközölniük.
+
+
+Ahogyan a korábbi migrációk, a 450 milliméteres átállás is három részre fogja osztani a félvezetõgyártókat: nyertesekre, akik az elsõk között képesek megfinanszírozni az új berendezéseket és elõnyre tesznek szert, vesztesekre, akik a nyertesek piaci ellenfelei, és a semlegesekre, akiknek nem kritikus a kérdés. A korábbi generációs váltásokat mindig kísérték áldozatok is, melyek elvesztették versenyképességüket, így vagy felvásárlásra kerültek, vagy tönkrementek.
+
+A három vállalat megjegyzi, hogy a félvezetõipar eddigi történelmében 10 évente történik a váltás, a 200 milliméteres ostyák bevezetés 1991-ben, a 300 millimétereseké 2001-ben indult meg, így ez alapján a triumvirátus 2012-t látja az optimális céldátumnak. A félvezetõipar fejlesztési versenyben folyamatosan menekül elõre a fokozódó gazdasági prés elõl, a versenyképességhez szükséges tõkeberuházások mértéke ugyanis magasabb ütemben növekszik, mint ahogyan a piac bõvül. A Semiconductor Industry Association szerint idén 257,1 milliárd dollárra rúg a félvezetõpiac, míg 2010-ben 321,5 milliárdot ér el, ami évi 7,7 százalék átlagos növekedés, ezzel szemben a tõkeigény kétszámjegyû emelkedést mutat.

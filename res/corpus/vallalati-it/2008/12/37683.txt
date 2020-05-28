@@ -1,0 +1,32 @@
+Elérkezett a desktopvirtualizáció ideje: itt a VMware View
+
+Bár a PC-k adatközpontba költöztetése és virtualizálása egyáltalán nem új koncepció, a technológia és a piac csak az elmúlt idõben érett meg rá -- ez a konklúziója az új VMware desktopvirtualizációs megoldás magyarországi bemutatójának. A VMware View elsõsorban nem a távoli virtuális gépek használhatóságát, hanem a menedzselhetõségét javítja,  drasztikusan csökkentve a tárhelyigényt és a licencköltségeket.
+
+
+
+Évtizedes sikertelenség
+
+A Sun Microsystems már 1999-ben bemutatta a Sun Ray vékonyklienseket és a hozzájuk tartozó szerverszoftvereket, melyekkel függetleníteni lehetett az alkalmazásokat a kliensektõl, sõt egy smart card segítségével a felhasználó a világon bárhol azonnal hozzáférhet saját munkakörnyezetéhez egy elegendõen gyors internetkapcsolaton keresztül -- a vállalat a mai napig használja ezt a megoldást, irodáiban lépten-nyomon láthatóak szabadon hozzáférhetõ kliensek. Ennél is régebbre nyúlik vissza a Citrix WinFrame, mely lehetõvé tette több, akár 15 felhasználó alkalmazásainak egyidejû futtatását egy Windows NT szerveren -- már 1993-ban.
+
+A vékonykliens-architektúrák számos üzemeltetési és gazdaságossági elõnye ellenére az elmúlt másfél évtized a "kövér" személyi számítógép mindent elsöprõ sikerérõl szólt. Az egyre olcsóbb és nagyobb teljesítményû PC-park elburjánzásával azonban a nagyobb szervezeteknél újra napirendre került a felhasználói szoftverek és adatok visszaköltöztetése eredeti helyükre, az adatközpontokba, ahogyan egyre inkább elõtérbe kerül az üzemeltetési költség és a kritikus, ezért értékes folyamatokat kiszolgáló IT rugalmassága. 
+
+Mindez ugyanakkor nem a hagyományos vékonykliensek és terminálok visszatérését jelenti, egy ideig legalábbis biztosan nem. Egy korszerû megoldásnak nemcsak alkalmazásokkal kell kiszolgálnia a PC-khez szokott felhasználókat, hanem teljes desktop környezet kell számukra nyújtania. Ennek a legegyszerûbb megoldása a vékonykliens-blade PC architektúra, ahol a felhasználók valójában egy blade formátumú, az adatközpontban elhelyezett PC-n dolgoznak, melyek egy SAN-ból töltik be a felhasználóhoz tartozó rendszerképet. 
+
+Okos desktopvirtualizáció: VMware View
+
+Bár a teljes fizikai megfeleltetés bizonyos esetekben (például számításintenzív alkalmazásoknál vagy fejlesztõknek) indokolt lehet, a megvalósításhoz szükséges beruházás nagyobb egy hagyományos PC-parkénál, és a megtakarítások csak lassan, az olcsóbb üzemeltetéssel jelentkeznek, hosszú távon -- ráadásul az olyan viszonylag alacsony bérköltségû országokban, mint Magyarország is például, ezek a megtakarítások elenyészõek. Az igazi áttörést, úgy tûnik, a desktop okos virtualizálása hozhatja el, és ezúttal talán tényleg összeállnak a kirakós darabkái: a technológia és a piac is készen áll rá. A VMware szerint az elmúlt fél évben hirtelen megemelkedtek a desktopvirtualizációs projektek.
+
+
+A VMware View éppen ezt az okos virtualizációt ígéri elhozni. A View egybõl a 3-as verziószámot viseli, ezzel jelezve, hogy az eddigi VMware eszközök egyenes folytatásának kell tekinteni, vagyis ahogyan a cég fogalmaz, a VMware VDI (Virtual Desktop Infrastructure)  kiterjesztésének. A View 3 az Infrastructure 3-ra épül, amelyet kiegészít további komponensekkel. 
+
+ Vátlozások
+
+Az egyik újdonság View Composer, mellyel egyszerûen kezelhetõk a virtuális rendszerképek, többé nem szükséges a virtuális gépeket egyesével klónozni, majd személyre szabni, hanem lehetõség nyílik mesterkép létrehozására, melyre dinamikusan visszalinkelnek a másolatok, az egyes felhasználók beállításait és állományait tároló adatokat (például a Documents and Settings könyvtárat) pedig külön tároljuk. Ezzel mindössze a mesterképet kell karbantartani, a következõ újraindításnál már életbe lépnek a változtatások. Ezzel nemcsak a felügyelet egyszerûsödik le, de a tárhelyigény is drasztikusan leesik. A Composer ESX Server 3.5 Update 2-õt követel meg legalább. 
+
+A Composer jelentette (egyébként nem kötelezõ) változások ugyanakkor felvetik azt a kérdést: mi a helyzet a telepített alkalmazásokkal? Nincs feltétlenül minden felhasználónak minden alkalmazásra szüksége, a felesleges telepítések lelassíthatják a rendszert, és megnövelik licencdíjakat, de verzióütközések is felléphetnek. Erre kínál megoldást a ThinApp, mely az alkalmazásokat is függetleníti az a rendszerképtõl, lényegében virtualizálja azokat a rendszerkép felett. A VMware teljes kompatibilitást ígér az alkalmazásokkal, melyek egyébként szintén a külön tárhelyrõl töltõdnek be a hálózaton keresztül, és nincs szükség agentre sem.
+
+ Átteknités
+
+A View számos tovább újdonságot is hoz, így például egypontos azonosítást, vagy a PC-re kötött nyomtató használatát a távoli virtuális géprõl. A VMware megoldásával kétirányú hangforgalomra, a fizikai gépre csatlakoztatott meghajtók virtuális gép alá történõ mountolására, osztott vágólapra és a virtuális desktop többmonitoros kiterjesztésére is lehetõség nyílik -- ezeket természetesen szabályozni lehet. Felhasználói szemmel a legnagyobb probléma, hogy képátvitelre használt RDP, vagyis Remote Desktop Protocol miatt a képfrissítés nem elég folyamatos vizuális alkalmazásokhoz, így például a videolejátszás is szaggatónak tûnik. Az adatközpontban eltárolt videofájlok esetében ezért a VMware egy saját kerülõ megoldást dolgozott ki, nem RDP-t használ, hanem valójában továbbítja a videofolyamot, melyet a kliens dekódol helyben -- a YouTube problémáját azonban ez sem oldja meg.
+
+Marek Swierad, a VMware regionális vezetõje szerint a desktopvirtualizáció kapcsán a legnagyobb hiba, melyet az ügyfelek el szoktak követni, a megfelelõ tervezés és menedzselés hiánya: a virtuális gépek ugyanúgy elburjánozhatnak mint a fizikaiak, így az üzemeltetés egy rémálommá válhat. A cég egyik referenciaügyfele, a Budapest Bank részérõl Vörösházy Tibor elmondta, hogy az elõnyt leginkább a földrajzilag kiterjedt, sok telephellyel rendelkezõ cégeknél látja, ugyanis sokkal rugalmasabbá tehetõ a munkaállomások menedzselése. Megnövekszik ráadásul a szolgáltatási szint, az IT-infrastruktúra "egyenszilárdságúvá tehetõ, a desktop megkapja a szerverek rendelkezésre állását", fogalmazott Vörösházy, aki szerint a licenceken összességében kevéssé lehet spórolni, azonban így is megtérül a migráció nagyjából egy év alatt. A View elsõdleges piaci ellenfele a Citrix XenDesktop, melynél alacsonyabb licencköltségeket igyekszik a VMware meghatározni.

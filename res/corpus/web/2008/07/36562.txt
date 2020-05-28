@@ -1,0 +1,32 @@
+IBM X-Force: egyre fürgébbek a kiberbûnözõk
+
+A számítógépes bûnözõk egyre kifinomultabb módszereket használnak annak érdekében, hogy minél hamarabb kihasználják a szoftverek sebezhetõségeit -- derül ki az IBM X-Force féléves jelentésébõl. Ennek eredményeképp a sebezhetõségekre villámgyorsan képesek támadó kódokat készíteni.
+
+
+
+Az Apple a legkevésbé biztonságos
+
+2008 elsõ felében minden eddiginél több, 3534 sebezhetõséget dokumentáltak, a tavalyi elsõ félévhez képest ez 5 százalékos növekedést jelent. A súlyos besorolású sérülékenységek száma 28 százalékkal növekedett egy év alatt -- a nyilvánosságra hozott biztonsági rések közül minden ötödik súlyos besorolású volt az X-Force szerint. Kritikus kategóriába csak a sebezhetõségek 1 százaléka tartozott, a tavalyi elsõ félévben ezek aránya 2 százalék volt még.
+
+A legtöbb sebezhetõséget az Apple termékeiben találták, az összes dokumentált sérülékenység 3,2 százaléka, több mint száz a cupertinói almás cég valamelyik szoftverében volt. A megtisztelõ második hely a Joomla! webes tartalomkezelõnek jutott, a Microsoft a bronzérmet szerezte meg, a sebezhetõségek 2,5 százaléka köthetõ a redmondiak termékeihez, viszont ezekhez készült a legtöbb támadó kód. A legsebezhetõbb termékek gyártói között volt még az IBM, a Sun, az Oracle és a Cisco is, de a Drupal és a Linux kernek is felkerült a listára.
+
+Villámgyorsan lecsapnak
+
+A jelentés szerint a böngészõkben megtalált sérülékenységek 94 százalékára a nyilvánosságra kerülést követõ 24 órán belül megjelenik az azt kihasználó mintakód, ami azt jelenti, hogy a kártékony programok már azelõtt kikerülnek az internetre, hogy a felhasználók egyáltalán értesülnének a hibáról. A bûnözõk ma már nem az operációs rendszereket és a webböngészõket támadják leginkább, hanem a webböngészõkbe beépülõ plugineket -- az elsõ félévben a böngészõket támadó kódok több mint háromnegyede valamelyik plugin (pl. Adobe Flash, QuickTime) sebezhetõségét használta ki.
+
+
+
+Célkeresztben a játékosok
+
+Az online játékok népszerûvé válásával a játékosok is a bûnözõk célpontjába kerültek, a legelterjedtebb jelszólopó trójai programok mindegyike a online játékok belépési információit próbálja megszerezni. Ezek birtokában a bûnözõk egyszerûen ellopják a játékban megszerzett vagyontárgyakat, amelyeket aztán valódi pénzért értékesítenek.
+
+
+
+
+Ez annak köszönhetõ, hogy a bûnözõk egyre fejlettebb szoftvereket alkalmaznak az exploitok készítésére, másfelõl azonban annak is, hogy nincs egységes, szabványos eljárás a sebezhetõségek közzétételére. Gyakran elõfordul, hogy a sérülékenységek leírásával együtt a felfedezõk a hibát kihasználó mintakódokat is nyilvánosságra hozzák, és azok így még azelõtt elkezdenek terjedni, hogy a javítás megérkezne. Az IBM ezért azt sürgeti, hogy a biztonsági szakértõk egységesítsék a biztonsági hibák közzétételének módját. 
+
+"Egyre rövidebb idõ telik el a sebezhetõségek dokumentálása és a kihasználása között" -- összegez a jelentés. "A sérülékenységek bejelentésével kapcsolatos egységes álláspont hiánya miatt a biztonsági ipar akaratlanul is az online bûnözõk tevékenységét támogatja. Az X-Force jó okkal nem tesz közzé példakódot a megtalált sebezhetõségekre és itt az ideje annak, hogy mások is felülvizsgálják az ezzel kapcsolatos gyakorlatukat."
+
+Újra az egyszerû spamek hódítanak
+
+Az X-Force tanulmányából kiderül továbbá, hogy a spamküldõk a képre, PDF-ekre, egyéb csatolt fájlokra épülõ kéretlen reklámok után most visszatérnek a szögegyszerû megoldásokra, amikor a levelekben csupán néhány véletlenszerûen kiválasztott szó és egy webcím található -- ezeket a leveleket a spamszûrõk nehezen szûrik ki. Az X-Force statisztikái szerint a kéretlen reklámlevelek több mint 90 százaléka egyszerû URL-spam, a webcímek pedig sokszor blogokra vagy más, ártalmatlannak tûnõ oldalra mutatnak.  A legtöbb spam egyébként Oroszországól érkezik, innen ered a kéretlen reklámok több mint 10 százaléka.

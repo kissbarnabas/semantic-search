@@ -1,0 +1,36 @@
+Összeomlottak a NAND flash árak, drasztikus áresés a memóriakártyák és SSD-k terén
+
+Beigazolódni látszanak a korábbi aggályok a NAND flash piac állapotával kapcsolatban. Az Intel a napokban tett közzé profitfigyelmeztetést a NAND árakra hivatkozva, annak ellenére, hogy abból a vállalat forgalmának csak töredéke származik. Ez brutális árösszeomlásra utal, ami természetesen rendkívüli ütemben olcsóbbá váló flash kapacitásokat jelent a vevõk szempontjából. 
+
+
+
+Ipari katasztrófa
+
+Az iSuppli februárban korrigálta korábbi 2008-as NAND-piaci elõrejelzését arra hivatkozva, hogy aggasztó jelek mutatkoznak keresleti oldalról: csökkenõ megrendelések, gyengélkedõ fogyasztói költés. Az ipar számára kedvezõtlen trendek forrásaként a cég természetesen az amerikai jelzálogpiaci válság keltette tovagyûrûzõ pénzügyi és makrogazdasági bizonytalanságot jelölte meg, aminek hatására 300 millió amerikai fogyasztó visszafogottabban költekezik. Figyelmeztetõ jelként az Apple csökkentette NAND megrendeléseit, és értesítette beszállítóit, hogy lassuló növekedéssel számol. Az Apple iPodjai és az iPhone sikere révén a világ harmadik legnagyobb NAND-felvevõje, így mozgása már önmagában is döntõ kihatással van a piacra.
+
+Emiatt a piackutató a globális piac értékének korábbi 27 százalékos bõvülését gyakorlatilag lenullázta. "Hacsak a gazdaság nem tér erõteljesen magához az év hátralevõ részében, a tavalyi év DRAM-piaci katasztrófája megismétlõdhet a NAND-dal idén" -- adott hangot aggodalmának egy közleményben Kim Nam Hyung, az iSuppli vezetõ elemzõje. Tavaly a DDR2 DRAM ára nagyjából 85 százalékkal esett vissza az iparban kiépült, eltúlzott kapacitások miatt, és egyes gyártók gyártási költsége alá estek átmenetileg. A jelenlegi helyzet azért különösen súlyos a vállalatoknak, mert a DRAM és NAND árak egymást követõen kerültek padlóra, így nem tudják a kapacitások átcsoportosításával feloldani a helyzetet -- egyszerûen nincs mozgásterük. A NAND nehézségei miatt az iSuppli az idén is pocsék évet jósol a DRAM-gyártás számára.
+
+
+A NAND flash árak az iSuppli szerint már februárra a gyártók költségszintje alá csökkentek. Az Intel adatai alapján az árak a tavalyi harmadik negyedévrõl a negyedikre 28 százalékkal mérséklõdtek, mondta el Paul Otellini a vállalat éves pénzügyi konferenciáján, majd ezt követõen egy váratlan mértékû összeomláson ment át a piac az idei elsõ negyedévben, mikor 53 százalékkal zuhantak vissza az átlagos eladási árak. Ennek következtében a vállalatok, köztük az Intel is hatalmas értékvesztési leírásokat kénytelen elkönyvelni a készletekre, miközben az árbevétel szinten tartásához legalább dupláznia kell mindenkinek a leszállított kapacitás mennyiségét.
+
+
+Kiket sújt?
+A NAND flash chipek gyártása koncentrált ipar, a legnagyobb három a forgalom 87,1 százalékát birtokolja, míg a legnagyobb öt részesedése már 96,2 százalék. Az iSuppli adatai alapján 2007 13,9 milliárd dolláros NAND piacának képe így nézett ki gyártói részesedések ooldaláról:
+#1Samsung42,1 %
+#2Toshiba27,9 %
+#3Hynix17,1 %
+#4Micron6,1 %
+#5Intel3 %
+#6ST Mirco2,2 %
+#7Reneseas1,5 %
+#8Qimonda0,1 %
+
+
+
+
+
+ Fogyasztói csoda
+
+A NAND flash árak összeomlása masszív pénzügyi veszteségeket okoz a gyártóknak, azonban fogyasztói oldalól egyet jelentenek a hirtelen olcsóbbá váló kapacitással. A fejlemények talán legérdekesebb hatása az SSD-k (solid state drive, szilárdtestes meghajtó) terjedésének felgyorsulása lesz, amit jelenleg a kapacitásarányos árazás tart vissza egyedül, tekintve merevlemezekkel szembeni mechanikai és elektronikai elõnyüket. Az SSD-k esetleges felfutása stabilizálódó piaci mechanizmusként hathat vissza a NAND árazásra, ugyanis többtíz gigabájtos méreteikkel nagy kapacitásokat kötnek le.
+
+Az SSD-k ára rohamos léptékben fog csökkenni a következõ hónapok során, miközben sebességük növekszik -- ígérte néhány hete David McQuarrie, a Lenovo termékmenedzsere a ThinkPad X300 bemutatóján, mely kizárólag 64 gigabájtos SSD-vel rendelhetõ, a jelek szerint nem alaptalanul. McQuarrie elmondta, hogy a Lenovo vezetni, gerjeszteni szeretné az SSD-k piacát a reményeik szerint sikeressé váló X300-zal. Az iSuppli tavaly májusi elõrejelzése alapján 2009 végére az ultrahordozható gépek 28, a mainstream modellek 25 százaléka alkalmaz majd flashmemóriás meghajtót. Szintén a flashgyártók malmára hajtja a vizet az Eee PC sikerével megindult pezsgés a mini notebookok kategóriájában, melyek méret, fogyasztás és költségbeli megfontolásból szintén SSD-t alkalmaznak.

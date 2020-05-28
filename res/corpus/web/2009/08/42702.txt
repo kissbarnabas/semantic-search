@@ -1,0 +1,11 @@
+Kipróbálható a Firefox 3.6 elsõ elõzetese
+
+Bárki letöltheti és kipróbálhatja a Firefox 3.6 elsõ alfaváltozatát, amelyet inkább csak fejlesztõknek, kísérletezõ kedvû felhasználóknak szán a Mozilla Alapítvány. A Firefox 3.5-höz képest apróbb változtatásokat, fejlesztéseket felvonultató böngészõ elsõ bétája a tervek szerint szeptemberre kész lehet, a végleges változat pedig még 2009-ben megjelenik.
+Az újdonságok listája most meglehetõsen rövid. A Gecko 1.9.2 motorra épülõ böngészõ fõleg sebesség terén szeretne fejlõdni, a készítõk azt szeretnék elérni, hogy mind a programindítás, mind az oldalak betöltése, az új fülek megnyitása vagy a médialejátszás érezhetõen gyorsabb legyen mint a Firefox 3.5-ben. Emellett kiemelt szerepet kapott a böngészõ testre szabhatósága, az ígéret szerint az egyedi témák telepítéséhez már nem lesz szükség újraindításra, a fülek között is lehet majd keresni, illetve akár egész fülcsoportokat lehet majd kezelni, elmenteni, betölteni vagy törölni. A letöltéskezelõ is okosodik majd néhány alapvetõ képességgel, például törléssel vagy mozgatással.
+
+A most kibocsátott Firefox 3.6 elõzetes még nem tartalmazza a végleges változatban szánt összes újdonságot, azok majd csak a szeptemberre várható bétákban lesznek benne. A 3.6 alpha 1 azonban a TraceMonkey JavaScript-motor folyamatos fejlesztésének hála már gyorsabban jelenít meg egyes oldalakat a Firefox 3.5-nél, gyorsabban is indul, illetve néhány apró fejlesztést tartalmaz. Mike Beltzner, a Mozilla fejlesztési vezetõje szerint a közösségen belül éles vita folyt arról, vajon a Firefoxot milyen ütemben kellene fejleszteni, s végül az az álláspont gyõzött, hogy rövidebb ideig tartó, kisebb fejlesztésekre van szükség, amelynek köszönhetõen sûrûbben jelenhetnek meg az új verziók.
+A Firefox 3.6 alpha 1 Windows, Mac OS X és Linux operációs rendszereken futó változatban érhetõ el, egyelõre csak angol nyelven. A Namoroka, amely egy madagaszkári nemzeti parkról kapta a nevét, a Mozilla Alapítvány tervei szerint várhatóan novemberre éri el a végleges állapotot.	     
+                  
+                  
+                  
+                   

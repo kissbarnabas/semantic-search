@@ -1,0 +1,28 @@
+A vezetékes internettel fognak versenyezni a közelgõ 4G-s mobilhálózatok?
+
+Bár Magyarországon még csak felfutóban vannak a harmadik generációs mobilhálózatok, a telekommunikációs ipar már a következõ lépcsõfok bevezetésére készül fel. A negyedik generációs mobilszabványok legesélyesebbjének tartott LTE-hálózatok egy piackutató szerint kereskedelmi bevezetését követõen rövid idõn belül több tízmillió elõfizetõre tesznek szert.
+
+
+
+
+A területre szakosodott ABI Research úgy becsli, hogy bár az elsõ kereskedelmi LTE-hálózatok legkorábban 2010-ben indulhatnak meg, 2013-ban már több mint 32 millió elõfizetõje lesz a szolgáltatásnak. Ebbõl a legnagyobb részt Ázsia fogja kiszakítani, amit néhány meghatározó ország hatalmas és fejlett mobilkommunikációs piaca magyaráz, mint például Japán, Korea és Kína. Az ABI szerint kevesebb mint 3 év alatt 12 millió LTE-felhasználó lesz a Távol-Keleten.
+
+Nagyjából ugyanennyi elõfizetõre számít a kutatócég Európában, és további 8 millióra Észak-Amerikában. Az LTE (Long Term Evolution) jó eséllyel pályázik arra, hogy 4G-s mobilhálózati szabvánnyá váljék, ugyanis a világ meghatározó mobilszolgáltatói, jelesen a China Mobile, a Vodafone, a T-Mobile, a Verizon Wireless vagy az NTT Docomo már mind letették voksukat mellette. Mivel az LTE alkalmazása adatcentrikus, ezért az ABI szerint a vezetékes szélessávú szolgáltatások közvetlen ellenfelévé válhat, vagyis az LTE-eszközök otthoni  modemek és routerek formájában is nagy tömegben megjelennek majd a számítógépekre csatlakoztatható kivitel mellett.
+
+A 8. lépcsõfok
+
+Az LTE valójában egy szabványosítási projekt neve a telekom vállalatok együttmûködéseként megszületett Third Generation Partnership Projecten (3GPP) belül, mely a még nem elfogadott Release 8 verziót takarja. A Release 8 célja, mint az LTE projekt neve is mutatja, hogy egy hosszútávú fejlesztési utat képezzen a jelenlegi 3G hálózatok számára a 4G hálózatok felé. Bár az LTE új hardver- és szoftvereszközöket követel meg, célja lényegében az UMTS  továbbfejlesztése egy teljesen IP-alapú, nagysebességû adatorientált hálózat irányában, melyre a hangszolgáltatás már csak ráépül, nem pedig elsõdleges alap. 
+
+
+A Release 8 specifikációja alapján 4x4-es MIMO antennaszervezésben akár 326,4 megabit/s letöltési csúcssebesség is elérhetõ egy 20 megahertzes spektrumon 86,4 megabites feltöltés mellett, míg 1x1 antennával (SISO) 100 megabites letöltést kínálhat egy csatorna elméleti maximumként, miközben a feltöltés 50 megabitre rúghat -- a valóság ettõl természetesen el fog maradni, egy viszonylag terhelt cellában is több megabites átvitelt sejtet. Demonstrációk alkalmával tipikusan IP-alapú HDTV-adásokkal példázzák az LTE-hálózat képességeit.
+
+Az LTE célja nemcsak a magas sávszélesség elérése, hanem az IP-alkalmazásokat szem elõtt tartva a késleltetését is rendkívül alacsonyra tervezték, így például kisméretû csomagok esetében a mobilhálózat kevesebb mint 5 milliszekundumot ad hozzá. Szintén javul a mobilhálózatok esetében leginkább érzékeny pont, a spektrumból kisajtolt kapacitás: ez az LTE esetében például a HSDPA-val szemben 3-4-szeresére emelkedik, vagyis ennyivel több felhasználót képes adott sávszélességgel kiszolgálni rugalmas spektrumszeleteléssel.  
+
+
+Az LTE megalkotásával a telekom cégek egy költséghatékony megoldást akartak meglévõ infrastruktúrájuk hosszútávú továbbfejlesztésére. A Release 8 gyakorlatilag megágyaz a Release 9-nek, melyet LTE-Advanced névvel illetnek. Az LTE-Advanced már ízig vérig 4G-s technológiának tekinthetõ, ugyanis akár több mint 1 gigabit/s elméleti csúcsteljesítményre képes letöltéskor, és többek közt agresszívabb energiatakarékossági technikákat alkalmaz -- mindezt egy szoftverfrissítéssel.
+
+Hol tartunk most?
+
+A hazai mobilszolgáltatók által jelenleg felfuttatott, több százezer elõfizetõt vonzó HSDPA a Release 5 része, a nagy feltöltési sebességet kínáló HSUPA a Release 6, míg a HSPA+ a a Release 7-hez tartozik. A HSPA+ fokozatot vélhetõen mindegyik szolgáltató beiktatja majd, ugyanis ezzel teljesedik ki majd igazán az UMTS hálózatok internetszolgáltatási képessége. Az Evolved HSPA néven is ismert technológia elméletileg 42 megabites le- és 22 megabites másodpercenkénti feltöltési sávszélességet kínál MIMO antennaszervezéssel.
+
+Pontos ütemtervet természetesen kompetitív okokból nem adnak ki a vállalatok, a német T-Mobile korábbi ígérete szerint a mobil internetezés sebesége a jelenlegi idõszakban évente duplázódik majd, és az évtized végére már 20 megabites sebességet is eléri. Bár a technológiai preferenciát firtató kérdésekre a szolgáltatók jellemzõen annyit felelnel diplomatikusan, nyitottak az opciókra, mint például a mobil WiMAX, várhatóan a T-Mobile, a Pannon és a Vodafone is az LTE irányában kötelezik el majd magukat -- kereskedelmi bevetése ugyanakkor nem várható 3 éven belül. 

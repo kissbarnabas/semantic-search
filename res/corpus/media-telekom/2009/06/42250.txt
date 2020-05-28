@@ -1,0 +1,37 @@
+Frissült a Google Android
+
+A teljesség felé
+
+Az InformationWeek amerikai újságírója a megjelenést követõen azonnal telepítette a több fontos új funkciót, illetve számos egyéb csiszolást is tartalmazó frissítést, ami szerinte jóval erõsebbé, versenyképesebbé tette a platformot. A hiánypótló kiegészítésekkel együtt az operációs rendszer sokkal inkább teljesnek tûnik, mint eddig.
+
+A legjobban, szinte vallásosan várt fejlesztés a szoftveres billentyûzet, ami már a HTC G1 készüléken is hasznos lehet, de a késõbbiekben megjelenõ, billentyûzet nélküli eszközökön kritikus fontosságú a megléte. A HTC G1 esetén is, az oldalrafordítás és a mobil szétcsúsztatása helyett a rövid szövegek beviteléhez ezen túl a képernyõ alján egy qwerty-kiosztású gombsor jelenik meg. Kinézetében és mûködésében nagyon is hasonlít az iPhone megoldásához, kiegészülve néhány váltógombbal. Az egyik a betûk helyett a számokat és gyakran használt szimbólumokat varázsolja elõ, a másik pedig egy e-motikon palettát a smiley-k gyors eléréséhez.
+
+Mint az iPhone
+
+Az egyetlen probléma, hogy a betûk itt is kicsik, a gyors és pontos gépeléshez vagy apró ujjak, egy hegyes segédeszköz vagy sok-sok gyakorlás szükséges. A hosszabb szövegekhez persze továbbra is használható a fizikai billentyûzet, de egy kereséshez, egy gyors sms-hez vagy egy mezõkitöltéshez nem szerencsés, ha nyitogatni kell a telefont.
+
+A második fontos fejlesztés a videofelvételi lehetõség, illetve a YouTube-integráció és természetesen a kettõ kombinációjából adódó lehetõségek. A felvevõszoftver egy egygombos felület, ahol a felvétel gombra klikkelve elindul a rögzítés, még egyszer ugyanoda bökve pedig leáll. Annak ellenére, hogy ma már sok belépõszintû készülék is tudja, itt kimaradt a fehéregyensúly mérés, a fókuszállítás, színeffektet illetve egyéb alap videós funkciók beépítése. Az egyetlen dolog, amit be lehet állítani, az a videók felbontása, de annak is csak két értéke van.
+
+YouTube a zsebben
+
+A videó elkészülte után egy gomb megnyomásával lehet az elkészült felvételt megosztani, sõt 3G vagy Wi-Fi hálózaton keresztül akár azonnal YouTube-ra is tölthetõ a mozi. A beépített YouTube kliensben is található egy link a feltöltéshez, így ki sem kell lépni belõle, ha például valaki egy videóra szeretne "válaszolni". 
+
+
+Az integrált YouTube-nézegetõ a teszt szerint kissé lassan indult el, de cserébe teljes funkcionalitást ad, s a programon belül már szinte azonnal indulnak a címlapi videók, s egyszerûvé vált a keresés is. A nagyfelbontású változatoknál természetesen jóval tovább tart a pufferelés, de már a pici kijelzõn is megéri átváltani. Az egyetlen kérdés az InformationWeek újságírója szerint, hogy vajon miért nem volt képes ezt megcsinálni már eddig minden más mobilgyártó is?
+
+
+Szól, hogy megérkezett 
+
+Hangos keresés
+
+Egyértelmûen a legérdekesebb új funkció címet érdemelné a "hang alapú keresés". Ugyan már iPhone és Android platformon is elérhetõ volt eddig is, de élesben a G1-en most mutatkozott be elõször. A megfelelõ gombot négy másodpercig nyomva tartva, a telefon hallgatni kezd, s a keresési paramétereket bediktálva, a Google igyekszik lefordítani a hangot írott szöveggé. A tesztek szerint ez messze nem mûködik tökéletesen, ráadásul a különbözõ akcentusok közti eltérésbõl is adódhatnak vicces félreértések. Teljesen csendes környezetben egészen jól mûködik, viszont a tévé, rádió, utcai zajok drámaian csökkentik a pontosságot.
+
+
+
+Az Android 1.5 továbbá felvértezte magát a sztereó Bluetooth fülhallgatókat is támogató A2DP képességével, így a vezeték nélküli zenehallgatás is lehetõvé vált. Igaz ez továbbra is csupán technológiai csábítás, hisz nem túl sokáig bírja az akkumulátor táplálni az éteren keresztül továbbhaladó dallamokat. 
+
+
+A böngészõ is jobban pörög
+
+
+A kiemelt elemek mellett sok apróbb javítás is helyet kapott a Cupcake-ben, többek közt a levelezõ modul (POP3 bejövõ levél értesítés, IMAP levéltörlés javítása), de apró javításokat eszközöltek a zenelejátszóban és a böngészõben is. Ez utóbbiban például egy frissített Webkit böngészõ mag jelent meg az új, optimalizált JavaScript-motorral együtt. Engedélyezve lett a másolás/beillesztés és a keresés a böngészõn belül. Lehetséges, hogy ezek apróságoknak tûnnek, de a tesztelõ szerint hosszútávú használat során ezek válnak a leglényegesebb pontokká.

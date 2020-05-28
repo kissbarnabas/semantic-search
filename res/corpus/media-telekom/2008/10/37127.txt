@@ -1,0 +1,44 @@
+Mûholdas tévé: múlt, jelen vagy jövõ?
+
+A 90-es években kiemelt szerepe volt a mûholdas mûsorszórásnak hazánkban is, hiszen nem volt még szélessáv, nem volt digitális tévé száz csatornával és több hangsávval, de mobilinternetet, vezeték nélküli hálózatokat sem tudtunk még használni. Ezek elterjedésével egyre kevesebb szó esik a tányéros megoldásokról, ráadásul Magyarország településszerkezete és domborzati viszonyai nem olyan szélsõségesek, hogy ellehetetlenítsék a földfelszíni sugárzást vagy a kábeles átvitelt.
+
+Hasznos lehet-e, jobb lehet-e  mûholdas mûsorszórás mint a többi platform? Van-e helye a XXI. századi lakossági szolgáltatások között? A tele.hu 2008 konferencián szerkesztõségünk a SES-Astra két vezetõjével, Leszek Bujak, fejlesztési vezetõvel és Martin Ornass-Kubacki ügyvezetõvel beszélgetett a különbözõ mûsorszórásra alkalmas platformok lehetõségeirõl, illetve arról, hogy miért nem lehetséges egy közös, átjárható nagy európai uniós médiapiac.
+
+
+
+A mûholdas tévé kiegészíti a többit
+
+A mûholdas technológiát többnyire mindenki a televíziós mûsorszórással, a többszáz csatornával azonosítja, ami többnyire igaz is, hiszen a lakosság számára elérhetõ mûholdas szolgáltatások közül ezt használják még ma is a legtöbben. Az európai Astra 16 mûholdja -- a cég állítása szerint -- 109 millió háztartás számára közvetít a televízióadásokat vagy szolgáltatásokat, ami közel kétszerese az EU 2004-ben regisztrált 58 millió kábeltelevízió-elõfizetõjének. Leszek Bujak szerint most mindenki a digitalizációról beszél, ami többnyire a vezetékes vagy a földfelszíni sugárzást jelenti, de számos olyan régió van, ahol ezek soha nem lesznek elérhetõek. 
+
+Franciaországban például 3,5 millió embernek semmilyen vezetékes vagy mobil szélessávhoz, illetve kábel- vagy IP-televíziós szolgáltatáshoz nincs lehetõsége hozzáférni. A mediterrán régióban pedig senki nem fog egy párszáz lakosú apró szigetre drága, nagy és csúnya adótornyot építeni azért, hogy a nyaralókban legyen tévéadás. Martin Ornass-Kubacki az ilyen helyzetek miatt is látja úgy, hogy a mûholdas technológia nem vetélytársa, hanem kiegészítõje a vezetékesnek, illetve a DTT-nek (digitális földfelszíni televíziózás). Ahol a földrajzi korlátok miatt nem éri meg kiépíteni vezetékes hálózatot vagy a domborzati viszonyok miatt rossz minõségû/lefedettségû lenne a földfelszíni sugárzás, ott nem is marad más, mint a mûholdas mûsorszórás.
+
+Ennek legnagyobb hátránya, hogy a kétirányúsítás nehezen megoldható. Az ezredforduló környékén hazánkban is sokan érdeklõdtek a mûholdas internetkapcsolat iránt, ami egy betárcsázós kapcsolat mellé fészkelte be magát. A letöltések a mûholdon keresztül érkeztek 1-2 Mbit/s sebességgel, a modemes kapcsolatnak pedig csak a kérések küldését kellett megoldani az 56 kbit/s sávszélességen. Ez mostanra sem fejlõdött sokat kivéve, hogy könnyen megoldható a visszirány is. Az Astra2Connect szolgáltatás maximum 2 Mbit/s letöltési és 128 kbit/s feltöltési sebességet kínál 80-90 eurós havidíj ellenében, ami nem lehet versenyképes egy lakossági DSL vagy kábelinternet elõfizetéssel, de egy ritkán lakott szigeten, hegyi falvakban vagy a puszta közepén az elérhetõ legjobb megoldás.
+
+
+
+Cél az interaktivitás
+
+A most zajló Tele.hu konferenciának is visszatérõ kérdése az interaktivitás, amiben a mûholdas televíziózás hátrányból indul. Sokszor interaktívnak nevezik azt, ha egy mûsornál váltani lehet a hangsávok között vagy meg lehet állítani az adást, de ez még nem teszi a nézõt résztvevõvé. Hiába van a legtöbb mûholdas, illetve kábeles set-top boxnak Ethernet-csatlakozója is, ha egyelõre nem lehet mire használni. Technológiai akadálya nincs annak, hogy a tévéadás kiegészüljön IP-alapú tartalommal is, webes kommunikációs vagy kereskedelmi szolgáltatásokkal, de a köztes szolgáltatók egyelõre nem nyitottak ebbe az irányba. A UPC-tõl is csupán csak annyit tudtunk meg, hogy tervezik ezt a lépést, de egyelõre üzleti döntés nem született még róla. A hangsúly természetesen az üzleti szón van, hiszen a szolgáltatók nehezen mennek bele bármilyen fejlesztésbe, amibõl nem látnak potenciális többletbevételt.
+
+Ennek ellenére vannak próbálkozások a párhuzamos szolgáltatások fejlesztésére, mint például a "Blucom" nevû megoldás. Ez a mûholdas televíziószolgáltatás mellé a mobiltelefon képernyõjét vonja be, s az adással párhuzamosan a telefon adatkapcsolatán keresztül nyújt interaktivirást a  nézõknek. A legegyszerûbb példa lehet, hogy ha egy televíziós kvízjátéknál (pl. Legyen Ön is milliomos!) kérdést tesznek fel a közönségnek, akkor a nézõ telefonján megjelennek a lehetséges válaszok, amik közül egy gombnyomással választhat is. Kicsit sci-fi, de kellõ kreativitással ötletes funkciókkal lehetne gazdagítani a médiafogyasztást.
+
+
+ A mûholdas technológiák másik nagy elõnye, hogy nem korlátozhatják az országhatárok, hegyek vagy tengerek, a 36 ezer kilométeres magasságban, Föld körüli pályán keringõ mûhold egy egész kontinens besugárzására is alkalmas. Így nem lenne lehetetlen, hogy egyetlen mûholdas szolgáltató akár egész Európát egy egységes közös piacként kezelve, azonos szolgáltatást nyújtson. Technológiailag mára minden akadály elhárult, hiszen a cégek képesek többszáz csatornát digitálisan továbbítani az elõfizetõkhöz, mindezt több hangsávval, feliratokkal, akár HD minõségben is. 
+
+Egységes uniós piac? Halott ötlet...
+
+Üzletileg azonban már akadnak problémák, melyeket csak nehezen lehetne áthidalni. Az egyik gond, hogy kereskedelmileg nehezen kezelhetõ egy több országon átívelõ ügyfélkör: a cégnek valahol be kell lennie jegyezve, ami fura jogi helyzetet hozna létre a szolgáltató és a többi országban élõ ügyfél között. Nehezen lehetne behajtani például a tartozást a külföldieken, de oda kellene figyelni a különbözõ országok eltérõ kereskedelmi- és média szabályozásaira is.
+
+A másik üzleti problémát Európában a nyelvi különbözõség okozza. Hiába lehet külön hangsávot küldeni egy videojel mellé, egy brit nézõ nem szívlelné, ha a nemzetközi csatornákon még 22 nyelven ki lenne írva, hogy reklám vagy ajánló. A hirdetõk sem szeretnének ekkora óriási területre lõni, hanem inkább ragaszkodnak a kis országok közt felaprózott hirdetési büdzsékhez, hiszen sokkal jobban ki tudják elégíteni az eltérõ kultúrák igényeit ha minden esetben lehetõségük van lokalizálni a reklámokat -- tudtuk meg Martin Ornass-Kubackitól.
+
+A legnagyobb falat a jogi kérdések jelentik. A szerzõi jogok birtokosai, fõként az amerikai filmstúdiók és zenei kiadók hallani sem akarnak arról, hogy bármely televíziós csatorna fogható legyen azon az országon kívül, ahová a jogokat megvásárolták. Európában a szembetûnõen sok német nyelvû adó is csupán azért tudott nemzetközi vizekre evezni, mert a német, osztrák, svájci lakosság mérete már indokolttá tette a magasabb páneurópai jogdíjak kifizetését. Amíg az Európai Unió nem számít egy országnak, addig a médiaszolgáltatások is szegmentáltak lesznek a jogosítások miatt. Jelenleg szinte lehetetlen lenne egy átfogó uniós médiaszolgáltatásba kezdeni: annyi jogszabálynak és elõírásnak kellene megfelelni és annyifelé kellene fizetni, hogy nem érné meg belefogni.
+
+
+
+Külföldre megy a tányér
+
+A rafináltabb elõfizetõk persze képesek átlépni ezeket az akadályokat.  Kelet-Európából Angliába, Írországba tömegével utaztak ki dolgozni a frissen csatlakozó országok fiataljai, és attól függetlenül, hogy az otthonukat elhagyták, a szokásaikat, ízlésüket, igényeiket nem felejtették otthon. Magyarországon a UPC Direct, Lengyelországban a Polsat Digital lett a favorit "hordozható TV-szolgáltatás". A trükkös ügyfelek itthon megkötötték a szerzõdést, megkapták a szükséges eszközöket, de a tányérantennát mondjuk Dublinban szerelték fel, hogy ott is nézhessék esténként a Barátok Köztet. 
+
+Ez természetesen nem legális megoldás, de a szolgáltató valószínûleg szemet huny felette -- de nem is tud vele mit kezdeni. Hagymásy András, a UPC kommunikációs igazgatója szerkesztõségünk kérdésére válaszolva elmondta, hogy "Jelenleg nincs megoldás, és nem is a szolgáltatók tudják azt megtalálni. Mi természetesen a hatályos jogszabályoknak megfelelõen csak belföldre kötünk szerzõdést." Lengyelországban viszont már ipari mennyiségben csinálják ezt az ügyfelek, egyes becslések szerint a Polsat Digital 2,3 millió elõfizetõje közül 400 ezer külföldre vitte a vevõegységet.
+
+Viviane Reding uniós kommunikációs biztos álma, a távközlési piac egyesítése is komoly ellenállásba ütközik, így a mûsorszórás esetében ugyanerrõl fantáziálni is kár. Hiába tartozik az emberek, munkaerõ, áru mellett a szolgáltatás és a média szabad áramlása is az Európai Unió alapelvei közé, ha a külsõ és belsõ jogi akadályok megfojták azt. Arra pedig Martin Ornass-Kubacki, a SES-Astra ügyvezetõje sem lát esélyt, hogy egy ilyen cél érdekében elegendõ lobbierõ gyûljön össze. Jelenleg nagyon kevés az olyan elõfizetõ, aki igényelné ezt a fajta integrációt.

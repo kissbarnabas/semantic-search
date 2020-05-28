@@ -1,0 +1,11 @@
+Kritikus sebezhetõség az Adobe több szoftverében
+
+Biztonsági szakértõk olyan sebezhetõségre bukkantak, amely több Adobe-terméket is érint. A Flash hibája miatt az Acrobat és a Reader is sérülékennyé vált -- ismerte be a szoftvercég, amely a jövõ hét végére ígéri a frissítést.
+A kritikus sérülékenységet a Flash egyik komponense tartalmazza, amelyet az Acrobat, az Adobe Reader, valamint a Flash Player is használ, így ezek a termékek mind sebezhetõvé váltak és mindegyiket javítani kell. A sebezhetõséget kihasználva támadók távolról átvehetik az uralmat az áldozat gépe felett, saját szoftvert telepíthetnek és futtathatnak, adatokat törölhetnek vagy lophatnak, a gépet más támadások indítására használhatják fel.
+
+Biztonsági cégek elõször vadon terjedõ preparált PDF-állományokat észleltek, így elõször úgy tûnt, hogy csak a népszerû Reader sebezhetõségérõl van szó, de késõbb kiderült, hogy valójában ezek a Flasht támadják. A több sérülékeny termék egyben azt is jelenti, hogy a hibát többféleképp ki lehet használni, akár egy PDF-állománnyal, akár egy megfelelõen elõkészített Flasht tartalmazó weboldallal, amelyet a felhasználónak csak meg kell látogatnia, aki észre sem veszi és máris megfertõzõdött.
+Az Adobe azt ígéri, a jövõ hét második felére a Readert, az Acrobatot és a Flash Playert is frissíteni fogja. A maximális biztonság érdekében addig nem lehet mást tenni, el kell kerülni az érintett szoftverek használatát. Az Adobe azt javasolja, a felhasználók töröljék az Acrobat és a Reader által használt authplay.dll állományt, ezzel ugyan elveszik a beágyazott Flasht tartalmazó PDF-ek megnyitásának lehetõségét. A böngészõbe épülõ Flash sérülékenység kockázatának csökkentésére azonban nem ad tanácsot az Adobe, az egyetlen módszernek a scriptek letiltása és a Flash kikapcsolása látszik egyelõre -- a SANS Internet Storm Center szerint szerencsére egyelõre csak kevés olyan ártó szándékú weboldalt találni, amelyek ezt a sebezhetõséget használják ki a látogatók megtámadására. Természetesen a víruskeresõk naprakészen tartása ajánlott.	     
+                  
+                  
+                  
+                   

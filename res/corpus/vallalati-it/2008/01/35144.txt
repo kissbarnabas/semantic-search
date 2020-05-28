@@ -1,0 +1,16 @@
+Generációváltás a Dell blade-szervereinél
+
+Új szerverekkel egészítette ki blade-kínálatát a Dell, az M-sorozatú konfigurációk egyelõre csak kiegészítik a PowerEdge 1955-ös sorozatot, hamarosan azonban végleg felváltják. A cég láthatóan komolyan gondolja a blade-piac meghódítását, az új szerverek és a hozzájuk tartozó keret megtervezésébe 55 ezer emberórát öltek, a fejlesztés során pedig 30 szabadalmat jegyeztettek be.
+
+
+
+A Dell azt állítja, hogy az energiatakarékos tápegységeknek, a speciális kialakítású ventilátoroknak és a fogyasztást finomhangoló szoftvereknek köszönhetõen az új blade-jei 19 százalékkal kevesebbet fogyasztanak és 25 százalékkal energiahatékonyabbak a HP c-osztályú blade-jeinél, az IBM BladeCenter H-sorozatú gépeknél pedig 12 százalékkal kevesebb energiát használnak, illetve felvett wattokra számítva 28 százalékkal több teljesítményt nyújtanak.
+
+
+A PowerEdge M600 egy kétfoglalatos blade, amelybe négymagos Intel Xeonok építhetõk, akár a 3,16 GHz-es órajelû változatok is. A PowerEdge M605-ben Opteronok teljesítenek szolgálatot, egyelõre csak a kétmagosak, mivel a négymagos verziók továbbra sem elérhetõk. Mindkét gépben 8 memóriafoglalat található, amelyekbe jelenleg még csak 32 gigabájt memória építhetõ (M600: FB-DIMM, M605: ECC DDR2), de a 8 gigabájtos modulok elérhetõvé válásával ez megduplázható. A szerverekben két-két 2,5" merevlemez kapott helyet, ami SATA vagy SAS lehet. A blade-ek 1850 dollártól indul és mától rendelhetõk Magyarországon is.
+
+
+
+Az új blade-ekhez mellékelik a Dell OpenManage felügyeleti szoftverét, amelyben olyan képességek is helyet kaptak, mint a fogyasztás valós idejû monitorozása és jelentése, illetve akár blade-enkénk külön meghatározható egy maximális fogyasztási keret, amelynek elérésekor az adott gép nem fogad el további terhelést. Erre azért van szükség, mert a meglevõ adatközpontok gyakran nem képesek elbánni a blade-ek jelentete megnövekedett teljesítménysûrûséggel: egy blade-ekkel telepakolt rack fogyasztása megközelítheti a 15-20 kilowattot is.
+
+Egy új blade keretet is bemutatott a Dell, a 10U magas M1000E-be összesen 16 darab félmagas gép helyezhetõ, érdekessége, hogy a konfiguráláshoz és hibakereséshez egy LCD-kijelzõt tartalmaz, valamint egy KVM-switechet is építettek bele. A FlexIO technológiának köszönhetõen a blade keret Ethernet, InfiniBand vagy 10G Ethernet hálózatokra is kapcsolható, de természetesen Fibre Channel csatlakozásra is képes. A PowerEdge M1000E keret listaára 6 ezer dollár.

@@ -1,0 +1,14 @@
+SMS-ben is megkaphatják hangüzeneteiket a Skype-felhasználók
+
+Mától SMS-ben is megkaphatják a nekik szánt fontos hangüzenetet a gépüktõl éppen távol lévõ Skype-felhasználók, ha regisztrálnak a Skype és a SpinVox által közösen fejlesztett szolgáltatásra. Az egyelõre négy nyelven mûködõ rendszer a kiterjedt repertoárral rendelkezõ kommunikációs alkalmazás sokat utazó üzletemberek számára lehet hasznos.
+
+
+
+A Skype és a SpinVox közös szolgáltatása kezdetben a Windows és Mac platformokon futó kliensekkel mûködik majd együtt. A rendszer egy üzenetet maximum három, egyenként 160 karakteres SMS-be konvertál át, a szöveg további része elvész. Egy hangüzenet konvertálása 20 eurócentbe kerül, emellett ki kell fizetni a  Skype standard SMS-díjait is. A szolgáltató akkor is kiszámlázza ezt a díjat, ha a hangüzenet konvertálása a szolgáltatón kívül álló okokból (például zajos környezetben felvett hang, vagy intonációs problémák stb.) részben vagy teljes egészében olvashatatlan szöveges üzeneteket eredményez, a konverter ilyenkor kérdõjelekkel vagy szóközökkel helyettesíti azokat a szavakat, amelyeket nem ismert fel.
+
+A szolgáltatás regisztrált felhasználói különbözõ konfigurációs beállításokkal szabhatnak határt a költségek elszabadulásának, azaz az aktiválás után nem magától értetõdõ, hogy az ügyfél minden hangüzenetet megkap szöveges üzenet formájában. Így például megadható, hogy kinek a hangüzenetét konvertálja a Skype SMS-be, vagy hogy egy nap maximum hány ilyen üzenetet továbbítson a rendszer.
+
+
+ A konverter alapállapotban tízperces késleltetéssel kapcsol be, így ha a felhasználó csak rövid ideig van távol a számítógépétõl, nem terhelik felesleges költségek, illetve a konvertálás akkor sem történik meg ha a hangüzenetet ez alatt a tíz perc alatt meghallgatják (új hangüzenetrõl továbbra is kérhetõ ingyenes SMS-, vagy e-mail értesítés).
+
+A SpinVox és a Skype közös szolgáltatásáért a hagyományos módon, Skype Credittel kell fizeni: a rendszer mûködésének alapjául szolgáló hangpostaszolgáltatás három hónapra 5,75, egy évre 17,25 euróba kerül, a hangüzenetek SMS-be konvertálásáért a fenti tarifát számlázza a cég. A szolgáltatás jelenleg az angol, francia, német és spanyol nyelven felmondott hangüzeneteket érti meg, hamarosan várhatóan portugál és olasz nyelven is használható lesz.

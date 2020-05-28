@@ -1,0 +1,12 @@
+Nemhivatalos alkalmazás-piacteret kapott a Twitter
+
+Hiába épül több tízezer alkalmazás a Twitterre, ha nincs egy gyûjtõhely, ahol a felhasználók megtalálnák õket. Mostanra már óriásira duzzadt a Twitter-felhasználók tábora, de a legtöbben továbbra is a Twitter weboldalán keresztül üzengetnek, pedig vannak ennél sokkal kényelmesebb megoldások is.
+A fejlesztõi közösség megelégelte ezt az áldatlan állapotot, s úgy döntött, ha a Twitter önmaga nem hajlandó az Apple-höz és a Facebookhoz hasonló katalógusszájtot létrehozni, akkor majd õk létrehoznak egyet. Az eredmény a OneForty, a Twitter nemhivatalos alkalmazás-piactere lett, amit a Twitter elfelejtett létrehozni. A OneForty név a csiripek hosszára utal, 1-40, mint száznegyven. Az alapító, Laura Fitton, a Twitterkirálynõ, aki se nem celeb, se nem spamrobot, mégis 38 ezer követõje van és eddig több mint 27 ezer csiripen van túl.
+
+Habár a szájt még csak béta, élesben nem is indult el, máris legalább 1300 eszköz és szolgáltatás áll a látogatók rendelkezésére, amibõl kiválogathatják a számukra hasznos Twitter-segítõ megoldásokat. A katalógusban minden elem, például alkalmazás vagy webes szolgáltatás értékelhetõ, leírásokat, kommenteket lehet hozzájuk fûzni, illetve minden meg is osztható.
+A felhasználók azonosítása a Twitter felhasználói fiókjukon keresztül történik, bár e nélkül is be lehet jutni az oldalra. Aki viszont a Twitter-loginjét használja, annak nem kell a profiljával, avatarjával sem foglalkoznia, a rendszer automatikusan áthúzza azt is az azonosítással párhuzamosan. Sõt, a OneForty megvizsgálja azt is, hogy az adott felhasználó milyen alkalmazásokon keresztül küld üzeneteket a rendszerbe, s ezeket is hozzárendeli a profiljához.
+Egyelõre egy zárt bétában mûködik az oldal, feltételezhetõen azért, mert a hirtelen érdeklõdés miatt azonnal összeomlana a szerver. Jelentkezni viszont bárki jelentkezhet, mindössze e-mail címét és Twitter-azonosítóját, illetve ha van, akkor az ajánlókódot kell beírnia a kitölthetõ mezõkbe. A végleges indulásról semmilyen ígéret nem hangzott el, viszont az már most is biztos, hogy komoly népszerûségnek örvend majd.	     
+                  
+                  
+                  
+                   

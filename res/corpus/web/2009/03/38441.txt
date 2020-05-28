@@ -1,0 +1,14 @@
+Gyorsabb, és kevesebb sávszélességet használ az Opera Mobile 9.7
+
+Elõdjénél gyorsabban jeleníti meg a weboldalakat, ezzel együtt kevesebb sávszélességet használ majd az Opera webböngészõ mobiltelefonokra fejlesztett új változata.
+
+
+
+Az Opera Mobile 9.7-ben már a norvég szoftvercég gyorsabb, Presto 2.2-es renderelõmotorja dolgozik majd, mely a jelenleg még fejlesztés alatt álló, asztali számítógépeken futó Opera 10 kapcsán került elõször reflektorfénybe. Az új verzió emellett jobb szabványtámogatást is ígér, és adott esetben jóval kevesebb sávszélességet használ a weboldalak letöltésekor.
+
+Az új Opera Mobile a fejlesztõk ígérete szerint már tartalmazni fogja a proxyalapú, tömörített adatokkal dolgozó Opera Turbo technológiát, mely a javás Opera Mini mobilböngészõhöz hasonlóan mûködik. A Turbo bekapcsolásával az Opera webböngészõk különbözõ változatai a weboldal teljes megjelenítéséhez szükséges sávszélességet akár 80 százalékkal is csökkenthetik -- a böngészõk ilyenkor valójában az Opera saját szerverével kommunikálnak, mely elõre letölti és a tartalom megváltoztatása nélkül tömöríti az oldalakat.
+
+
+Mindebbõl a felhasználó a cég ígérete szerint alig vesz majd észre valamit, igaz, a tömörítés mértékébõl adódóan az oldalakon található képes és grafikus elemek minõsége az Opera Minivel szerzett tapasztalatok alapján jelentõsen romolhat. Az Opera Turbo publikus bétaváltozata éppen két héttel ezelõtt jelent meg az Opera 10 egyik, külön erre a célra kiadott elõzetesébe ágyazva.
+
+Az Opera Mobile 9.7 a jövõ héten kezdõdõ CTIA Wireless konferencia alkalmával jelenik meg. A böngészõ kistestvére, az Opera Mini az egyik legnépszerûbb mai mobilos böngészõ: az Opera szerint a szoftvert több mint húszmillióan használják rendszeresen telefonjukon.

@@ -1,0 +1,34 @@
+Felrúgta megállapodását az Intel és OLPC atyja
+
+Nem sokáig tartott az Intel és az OLPC program barátsága. A világ legnagyobb chipgyártója közölte, hogy megszakította együttmûködését a nonprofit projekttel, miután feloldhatatlan ellentét alakult ki a felek között, egészen pontosan az ötletgazda Nicholas Negropontéval. 
+
+
+
+Megalománia
+
+Az Intel állítása szerint az alig fél évre visszatekintõ közös munka azért szakadt meg, mert Negropontét nemcsak zavarta az Intel rivális kezdeményezése, a Classmate program, hanem egyenesen követelte annak befejezését. Sõt az Intel részérõl exkluzivitást várt el az OLPC program felé, vagyis hasonló célú számítógépek számára sem szállíthatott volna a továbbiakban chipeket. A vállalat szóvivõje szerint ezzel patthelyzetbe kerültek a felek, mivel a feltételek elfogadhatatlanok voltak az Intel számára. 
+
+Az Intel és Negroponte a korábbi hosszas civakodást követõen tavaly békét kötött, és a vállalat egy tagot delegált a projekt igazgatótanácsába az együttmûködés koordinálása érdekében. A cél mi más lehetett volna, minthogy Intel-alapú OLPC számítógépet hozzanak létre.
+
+ A gép meg is született, és az Intel napokon belül, a jövõ héten Las Vegasban rendezett Consumer Electronics Show alkalmával tervezte bejelenteni azt. A feloldhatatlannak tûnõ nézeteltérés miatt azonban az Intel képviselõje kilépett a tanácsból, és az Intel-alapú modell bemutatását is törölték. 
+
+Az OLPC, vagyis a One Laptop Per Child projektet mintegy 3 évvel ezelõtt az MIT kutatójaként Negroponte kezdeményezte. Az OLPC célkitûzése, hogy a nehéz anyagi helyzetben lévõ fejlõdõ országokban élõ gyerekeknek rendkívül olcsó notebookokat biztosítson az oktatás támogatása érdekében. A rendkívül ambiciózus terv 100 dolláros költségû, kicsi, ellenálló hordozható számítógépet vizionált, melybõl több tízmillió darab szállítanak le majd világszerte ezekben az években. 
+
+
+Casus belli
+
+Mivel az OLPC keretein belül megszületett számítógép megalkotása az Intel részvétele nélkül zajlott, és AMD Geode-processzorra alapozott, ezért az Intel érthetõ módon hevesen kritizálta a kezdeményezést. Craig Barrett, az Intel igazgatótanácsának elnöke, és korábbi vezére két évvel ezelõtt úgy fogalmazott, hogy helyesebb volna játékszerrõl beszélni, semmint valódi számítógéprõl, utalva a gép korlátozott képességeire.
+
+A nyilatkozatháború közepette az Intel tettekben megtestesült reakciója sem sokáig váratott magára. Az óriásvállalat 2006 májusában jelentette be World Ahead programját, mely integrálta a korábban függetlenül futó projekteket, és új elemekkel egészítette ki, hogy átfogó megoldást kínáljon a fejlõdõ országok felzárkóztatására. A World Ahead részét képezik természetesen az olcsó PC-k, melyekkel növelhetõ az elmaradott államok néhány százalékos penetrációja, megteremtve az alapot a digitális ismertekhez való hozzáféréshez.
+
+ Az egyik ilyen referencia design, a Classmate notebook PC, melynek elsõ szállításait idén kezdte meg a vállalat -- többek között Magyarországra is érkezett néhány tucat a folyamatban lévõ oktatási reform egy kísérleti projektje számára. Az Intel célja a Classmate-tel, hogy lendületet adjon az iparnak és a piacnak egyaránt, hasonló gépek fejlesztését a jövõben partnereitõl reméli.
+
+ Míg a végül 188 dollárossá lett OLPC XO notebook egyedi felületet és hardveres megoldásokat alkalmaz, kifejezetten kisgyerekeknek szánva, addig a drágább és nagyobb teljesítményû Classmate PC gyakorlatilag egy hagyományos notebooknak tekinthetõ, mely a szokásosnál jóval kisebb és gyengébb, és akár Windows XP is telepíthetõ rá. A nagy visszhangot kiváltó ASUS Eee PC (teszt) a Classmate-tel közös gyökereket ápol, hardveres alapjaik megegyeznek.
+
+Favágás
+
+Az Intel és Negroponte összekülönbözésével így ismét egymásnak feszülnek a felek a fejlõdõ országok iskoláiért folytatott versenyben, mely az érintett vállalatok számára hatalmas üzleti lehetõségekkel kecsegtetnek több száz millió potenciális új fogyasztó bevonásával. A fejlemény nem segít az OLPC projektet, melynek a csúszásokat követõen a vártnál magasabb elõállítási költséggel és az elõzetes várakozásokhoz képest sokkal alacsonyabb megrendelési volumennel kell szembesülnie, ami méretgazdaságosság hiányában gátolja a költségek leszorítását.
+
+ A jelenlegi ismeretek szerint eddig kizárólag Peru és Uruguay rendelt XO gépeket, összesen 360 ezer darabot, míg más országok egyelõre kivárni látszanak, és csak szándékukat jelezték. Az alacsony volumen felfuttatása érdekében Negroponte karitatív programot indított az Egyesült Államokban "Give One, Get One", melynek lényege, hogy 400 dollárért lehet vásárolni egy XO-t, mely összegegy másik XO-t is megfinanszíroz egy rászoruló gyermeknek. Becslések szerint így eddig mintegy 200 ezer gépet sikerült értékesíteni.
+
+Az OLPC ráadásul kizárni látszik magát az Intel ultramobil platformjából is. Az Intel külön fejlesztési irányt hozott létre a rendkívül olcsó és ultraalacsony fogyasztású számítógépek számára, új szegmenst építve ezzel. Ennek elsõ gyümölcse a hamarosan megjelenõ Menlow kódnevû platform, melynek rendkívül kompakt méretei mellé néhány wattos rendszerfogyasztás társul, köszönhetõen a rendkívül energiatakarékos Silverthorne processzornak és Poulsbo chipsetnek. Ez a technikai hátrány mellett jelentõs gazdaságossági hátránnyá épülhet fel, hiszen a Menlow-t vagy utódait választó oktatási gépek a fogyasztóknak és cégeknek szánt hasonló modellek gerjesztette volumennel osztoznak a költségeken. 

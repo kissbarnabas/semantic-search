@@ -1,0 +1,18 @@
+Csodálkozik a Microsoft a kevés panaszos Vista-felhasználón
+
+Számos nyomós kritikát fogalmazott meg a Vista megjelenése elõtt a világ vezetõ PC-márkájaként a Dell, amire egy amerikai közérdekû csoportos perbõl fakadóan derült fény. A bizonyítékként felvonultatott dokumentumok szerint a Microsoft Vista Capable marketingprogramja még a vállalat vezetõségében is megtévesztett embereket. 
+
+
+
+A Dell már 2005 augusztusában, a Vista kiskereskedelmi megjelenése elõtt másfél évvel élesen támadta a Microsoft kettõs kompatibilitási jelölését. A Microsoft eredetileg magasabb követelményeket támasztott a hardverrel szemben, hogy Vista Ready logót kaphasson a számítógép, késõbb azonban -- vélhetõen az eladások felpörgetése érdekében, míg mások szerint az Intel nyomására -- 2006 elején engedett az elvárásokból. Így például az Aero 3D-felület futtatásának képessége sem lett feltétele a matricának, ugyanis a Vista új megjelenítési modelljét (Windows Display Driver Mode) támogató meghajtó sem lett az. A Vistának teljesen megfelelõ konfigurációk Vista Premium Ready matricát kapnak.
+
+A módosítások hatására olyan számítógépek, elsõsorban notebookok is megkapták visszamenõleg a Vista Capable minõsítést, és ezzel a logót, melyek csak korlátozott képességekkel futtatják az új Windowst, nem kissé frusztrálva az így magát becsapva érzõ (tájékozatlan) vásárlókat.
+
+ Egy bírósági meghallgatáson felolvasott levélben egy microsoftos alkalmazott úgy fogalmazott: "Még egy darab hulladék is megfelelne". Ironikus módon a Microsoft egyik Windows termékmenedzserét is megtévesztette a Vista Capable program, aki több mint 2000 dollárt fizetett egy Sony VAIO-ért, melyrõl kiderült, hogy nem képes az Aerót, de a Movie Makert sem futtatni. "Most van egy 2100 dolláros e-mail gépem" -- írta levelében.
+
+
+Szintén rengeteg kritika érte a Vistát a korlátozott drivertámogatás miatt. A Dell kritikája szerint a Microsoft utolsó pillanatban tett módosításai az operációs rendszer kernelében megtörték a driverek és számos alkalmazás mûködését, aminek eredményeként rengeteg tömeghardver maradt le a Vista rajtjáról, vagy korlátozott képességekkel futott. A PC-gyártó támadta a Windows Automatic Update mûködését is, és teljes átdolgozást javasolt.
+
+Steven Sinofsky, a Windows fejlesztésekért felelõs vezetõ, akit a Vista rajtját követõen neveztek ki, egy 2007 februárjában Steve Ballmernek írt levelében úgy vélte, a video és audio rétegben eszközölt változtatások mellett a gyártók is felelõssé tehetõek. Mint fogalmaz, "senki nem hitte valójában, hogy valaha is szállítjuk majd a Vistát, így nem kezdték el a munkát 2006 vége elõtt". A Vistával kapcsolatos problémák gyökere arra vezethetõ vissza, hogy az új Windows szakított a korábbi drivermodellekkel, így az XP-hez kifejlesztett sokezer meghajtóprogram egy része mind újraírásra szorult -- amit sok esetben a gyártó üzletpolitikai okokból sem tesz meg. Igazán beszédes Sinofsky következõ mondata: "Eddig meglep a PSS-hez (Product Support Services, terméktámogatási részleg) érkezõ hívások alacsony száma", majd hozzátette, "de tudom, hogy szenvednek".
+
+A Microsoftot két magánszemély perelte be egy éve a seattle-i kerületi bíróságon, azt állítva, a vállalat megtévesztette a fogyasztókat "Vista Capable" elnevezéssel, ugyanis az ilyen PC-ken nem érhetõ el az operációs rendszer számos képessége. A felperesek azt állítják, csak akkor jöttek rá, hogy a Vista Capable matricát tartalmazó gépükön nem fut a Vista számos funkciója (pl. az új Aero felület), miután megvették az operációs rendszert. Az ügyet végül közérdekû csoportos keresetté nyilvánították, vagyis amennyiben a felpereseknek ad igazat a bíróság, úgy más, az eljárásban nem nevesített sértettek is jogosulttá válnak kártérítésre.

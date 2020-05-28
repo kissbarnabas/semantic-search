@@ -1,0 +1,14 @@
+Ingyenes magyar nyelvû tankönyv jelent meg a Microsoft PowerShellrõl
+
+Megjelent és bárki számára ingyenesen hozzáférhetõ a Microsoft PowerShell szkripting technológiát bemutató magyar nyelvû könyve amelynek segítségével a rendszergazdák gyakorlati példákon keresztül, az alapoktól indulva ismerhetik meg a Microsoft parancssori környezetének mûködését és sajátíthatják el a használatát.
+
+
+
+A Windows Server 2008-ban debütált, .NET-alapú PowerShell (korábbi kódnevén Monad) lehetõvé teszi, hogy a rendszergazdák a gyakran ismétlõdõ vagy sok mûveletbõl álló feladatokat (pl. több száz postafiók létrehozása, adatbázismentés stb.) automatizálják. A PowerShell fontos komponense a Microsoft legújabb szerverszoftvereinek is, például az Exchange Server 2007-nek vagy az SQL Server 2008-nak, illetve a System Center felügyeleti alkalmazásoknak, amelyek már mind támogatják a parancssori felügyeletet. A Microsoft ezen termékeinek összes funkciója elérhetõ PowerShell-szkriptekkel, még a grafikus kezelõfelület is erre épül.
+
+"A Windows-alapú rendszerek üzemeltetõi már régóta vágytak egy olyan eszközre, amellyel könnyen lehet automatizálni a gyakran ismétlõdõ feladatokat" -- mondta a könyv szerzõje, Soós Tibor, Microsoft MVP szakember és oktató. "A korábbi lehetõségek vagy túl sok programozást igényeltek, vagy csak egy szûk területet fedtek le. A PowerShell nagyszerûen egyesíti magában a hatékony parancssori környezet és az objektumorientált programnyelvek legfontosabb jellemzõit, amelyekkel a rendszergazdák nagyon tömör, rövid, logikus felépítésû szkriptekkel könnyíthetik meg a munkájukat. Ebben kíván segíteni ez a könyv."
+
+
+ A kliens- és szerveroldalon egyaránt használható PowerShell 1.0 a Windows Vistában és a Windows Server 2008-ban már opcionális komponensként megtalálható, de akár Windows XP-re is telepíthetõ. A technológia 2.0-ás verziója a Windows 7-be és a Windows Server 2008 R2-be is bekerül. Ebben debütál majd a továbbfejlesztett, natív Active Directory kezelés és a távoli gépek szkriptelése is lényegesen egyszerûbbé válik majd.
+
+"A Microsoft Magyarország a TechNet programon keresztül 2008 eleje óta ingyenes, magyar nyelvû tananyagokat tesz közzé az informatikai szakemberek számára. Az elsõ, januárban kiadott tananyagot, ami a Windows Vista és a Windows Server 2003 üzemeltetésérõl szól, eddig már több mint 20 ezren töltöttek le" -- mondta Budai Péter, a Microsoft TechNet hazai programmenedzsere.

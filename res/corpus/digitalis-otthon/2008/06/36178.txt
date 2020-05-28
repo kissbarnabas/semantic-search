@@ -1,0 +1,47 @@
+Elsõ benyomások az Invitel IP-televíziós szolgáltatásáról
+
+Két héttel a csendes indulást követõen nyomogathattuk egy kicsit az  InviTV IP-televíziós szolgáltatáshoz tartozó vevõkészülék távkapcsolóját az Invitel váci Telepontjában megrendezett sajtóeseményen. Benyomásunk vegyes: a képminõség a T-Home TV indulását idézi, a doboz sebességén és kezelhetõségén pedig várhatóan javítanak majd.
+
+
+
+Több mint százezer háztartásban
+
+Az InviTV jelenleg három-az-egyben, tehát telefont, internetet és tévézést nyújtó Invitel Trió csomagokban fizethetõ elõ. Zsembery György, az Invitel kereskedelmi igazgatója kiemelte, hogy nem készülnek országos, nagy kampányra -- ez nem is lenne logikus --, inkább azokat az elõfizetõket keresik meg közvetlenül, ahol valóban elérhetõ a szolgáltatás. Ez több mint százezer háztartást jelent, körülbelül ennyi inviteles telefon-, vagy internetelõfizetõnél alkalmas a rézdrót az elegendõ, minimálisan 6-7 megabit/s-os sávszélesség nyújtására.
+
+A szolgáltatást elsõként Javorniczky Áron, szolgáltatásért felelõs vezetõ mutatta be. A Motorola korszerû, ám kissé lassúcska doboza HDMI-kimenettel is rendelkezik, és akár HD-felbontású adások közvetítésére is képes lesz -- várhatóan az õsz folyamán. A szakember kérdésünkre elárulta, hogy a doboz reakcióideje a következõ hónapokban jelentõsen javulni fog a programozási nyelv megváltoztatásának köszönhetõen, illetve egy-két nem éppen logikus megoldásán is -- ilyen például a "tegnap tévéje" felvételek körülményes lejátszása -- finomítanak majd.
+
+Zsembery György, az Invitel kereskedelmi igazgatója
+
+Merevlemez nélkül
+
+A szolgáltatás a TVnet TVtévé közel két évvel ezelõtt bemutatott internetes tévéjére hasonlít a szolgáltatóoldali videorögzítés, illetve a korábbi tévéadások egy-, vagy többnapos újravetíthetõségével. Ez azt jelenti, hogy a felhasználó dobozában nincs merevlemez, a rögzíteni kívánt mûsorokat a szolgáltató szervere az elõfizetési csomagtól függõen 5-10 óra terjedelemben tárolja el. Ez jelentõs sávszélességet spórol a cégnek -- hiszen így egy dobozhoz csupán egy adást kell eljuttatni --, ugyanakkor a csatornák egy részénél a jogtulajdonos egyszerûen nem engedélyezi a szolgáltató oldali felvételt, így csak otthoni DVD-, vagy merevlemezes rögzítõvel oldhatjuk meg ezt a kérdést.
+
+Javorniczky Áron szerint a csatornák szerencsére egyre engedékenyebbek, jelenleg az összesen elérhetõ 73 csatorna körülbelül harmadánál biztosított a korábbi mûsorok megtekintésének lehetõsége, ha tehát lemaradtunk a tegnap esti filmrõl, vagy híradóról, azt egy, vagy három napon belül -- ez is csatornától függ -- pár gombnyomással bepótolhatjuk. A tv2 például egy három napig engedi mûsorait visszanézni, míg mások esetleg csak egyetlen napra engedélyezik ezt a lehetõséget.
+
+[+] Elsõként próbálhattuk ki a mûholdas Hello HD szolgáltatást
+
+Villanyon is
+
+Az InviTV a lakásban két egységbõl áll, melyet ingyenesen biztosítanak és szerelnek fel: az ADSL-modemet és internetes telefont is biztosító Tilgin Vood 452w media gateway 802.11b-s Wi-Fi-kapcsolódást is nyújt, ehhez kapcsolódik Etherneten keresztül a Motorola set-top-box. Amennyiben nem szeretnénk kábelezni a tévéig, a szolgáltatótól havi 400 forintért egy -- pontosabban kettõ -- powerplug eszköz is bérelhetõ, mely az átjárót és a vevõkészüléket az áramhálózaton keresztül köti össze.
+
+
+
+
+Hasonló készülékeket a HWSW is tesztelt nem túl jó tapasztalattal. Kérdésünkre Javorniczky elárulta, hogy alaposan tesztelték ezt a megoldást, mely során teljesen megbízhatónak és megfelelõ sávszélességûnek bizonyult, ezért merik az elõfizetõknek is ajánlani.
+
+Egy ADSL-vonalon legfeljebb két set-top-box üzemeltethetõ egymás mellett, egymástól függetlenül, a második vevõberendezésért pedig bérleti díjat kell fizetni. Ehhez a második set-top-boxhoz azonban plusz sávszélességre van szükség, a tartalékok miatt legalább 10 megabitet kell tudnia az elõfizetõ vonalának.
+
+[+] Megnéztük a UPC digitális és nagyfelbontású csatornáit is
+
+Javulhat
+
+A távirányítót kézbe kaparintva sajnos csak gyors benyomásokat szerezhettünk. A Motorola set-top-box kicsit lassan reagált a gombnyomásokra, a felület pedig meglehetõsen elnagyoltnak tûnik a konkurens szolgáltatásokhoz, a T-Home TV-hez, vagy a digitális UPC dobozok felületéhez képest, ezen azonban a szolgáltató még javíthat. A képet MPEG4 kódolással továbbítják, minõsége a T-Home TV elsõ próbaidõszakát idézi, ezen az enkóderek finomhangolásával még jelentõsen módosíthat az Invitel is. Javorniczky elmondta, hogy gondolkoznak a tegnap tévéjében elérhetõ mûsorok saját, lényegesen jobb minõséget nyújtó feldolgozásán is.
+
+A mûsorújság adatait a T-Home TV-hez hasonlóan a port.hu szolgáltatja, így részletes leíráshoz juthatunk szinte minden adónál, minden adáshoz. Ezeket az információkat valóban újságszerûen is megjeleníthetjük a kép jobb oldalán. Az elektronikus mûsorkalauz kategóriákra bontva is kérhetõ, a felhasználószintû, átrendezhetõ csatornalista pedig már itt is megjelenik a Hello HD dobozához hasonlóan, kombinálva a gyerekzárral és a korhatárbesorolás korrekt kezelésével.
+
+Az InviTV elvárt és ígéretes kezdeményezés, melyet a cég saját állítása szerint nyolc hónapja tesztel elõfizetõknél. Fõleg azért, mert elég jó áron érhetõ el triple play szolgáltatásként szinte a teljes Invitel-területen, jelenleg 140 településen. A cég dolgozik azon is, hogy T-Com területen is nyújthassa szolgáltatásait, amivel még több elõfizetõt gyûjthet majd. Már csak az a kérdés, hogy maguk az elõfizetõk hogyan fogadják az újszerû technológiát, nem okoz-e csalódást a vállalatnak -- a T-Home TV-hez hasonlóan -- az elõfizetõi szám bõvülésének aránya, ez azonban a jövõ zenéje.
+
+
+Véleménye van?
+Szóljon hozzá a fórumban
+írjon szerkesztõségünknek!

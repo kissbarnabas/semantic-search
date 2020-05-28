@@ -1,0 +1,20 @@
+Történetének legnagyobb visszaesése elõtt áll az Ethernet switchek piaca
+
+A recesszió a hálózati eszközök piacát sem hagyja érintetlenül, a területre koncentráló Dell'Oro Group elõrejelzése szerint az elsõ negyedévben akár 10 százalékkal is csökkenhetnek a Ethernet-kapcsolók eladásai a negyedik negyedévhez képest. 
+
+
+ 
+Egy hete az Infonetics Research tette közzé negyedik negyedéves számait, amelyek szerint 2008 utolsó három hónapjában7 százalékkal csökkent az Ethernet switchek forgalma a harmadik negyedévhez képest. A Dell'Oro is a piac egyszámjegyá százalékos csökkenését állapította meg és azt jósolja, az idei elsõ negyedévben 10 százalékot is meghaladó visszaesés várható, ami a történelem eddigi legnagyobb csökkenése lenne és egyben azt jelentené, hogy két negyedév alatt a teljes piacról 1 milliárd dollár tûnne el.
+
+
+ Az elsõ negyedév a piac szezonalitása miatt általában is gyenge -- magyarázta Alan Weckel, a Dell'Oro vezetõje. "A vásárlók visszamondják vagy késleltetik a projekteket, a disztribútorok pedig csökkentik a készleteiket. A makrogazdasági körülmények romlása egybeesik a piac szokásosan leggyengébb negyedévével, ami a történelem eddigi legnagyobb visszaesését okozza."
+
+A HWSW érdeklõdésére Hirsch Gábor, az RRC biztonsági divíziójának
+vezére elmondta, Magyarországon egyelõre nem látszanak a hálózati piac
+visszaesésének nyomai. "A gazdasági helyzet, az árfolyamváltozás, a
+leépítések miatt nagy a bizonytalanság, sok helyen kivárnak a vevõk,
+ezért jósolni nehéz, de ha csak a múltbeli eredményeket nézzük, azok
+nem igazolják a pesszimista híreket. Korábban tudtuk, hogy a negyedév
+végére meglesznek a várt eredmények, most csak reméljük."
+
+Az Ethernet switchek piacán üde színfoltot jelentenek a 10 gigabites eszközök, amelyek forgalma továbbra is lendületesen növekedik mind a bevételeket, mint pedig a leszállított portszámot tekintve. A 10 gigabites eszközök iránti igényt elsõsorban a konszolidációs projektek fûtik: a virtualizáció, a feladatok kocentrációja, a blade-ek terjedése, a teljesítménysûrûség növekedése mind olyan tényezõk, amelyek elvárják a nagyobb sávszélességû, rugalmasabb hálózati infrastruktúrát. A nagy berendezésgyártók (Cisco, Juniper, Brocade) kínálatában folyamatosan jelennek meg a 10 gigabites kapcsolók.

@@ -1,0 +1,16 @@
+Sok ígérgetés után megérkezett az elsõ holografikus adattároló
+
+[Ars] Régóta ígérgetik a holografikus, azaz adatainkat miniatûr képekben, diákban tároló készülékeket és lemezeket a fejlesztõcégek, az InPhase péládul már 2005-ben egy-két éven belüli kereskedelmi megjelenést prognosztizált. A problémák megoldása azonban a jelek szerint nem volt olyan egyszerû, a tavaly februárban bemutatott adattároló csak most lett elérhetõ.
+
+
+
+Az InPhase a holografikus adattárolás egyik úttörõje, elsõ lemezei nem kevesebb mint 300 gigabájtnyi adatot lesznek képesek elnyelni, a további fejlesztések pedig 1 terabájtos kapacitást céloznak. A most piacra kerülõ, elsõ generációs meghajtó, a Tapestry 300r 20 megabájt/s-os sebességgel képes az áttetszõ lemezre írni az adatokat.
+
+Ezeknél a lemezeknél -- lásd több mint két éve született cikkünk -- az információkat nem bitrõl bitre, egymás után sorban írják fel a lemez felületére, hanem a kétdimenziós vonalkódokhoz hasonló "könyvlapokként", blokkokban tárolják el az adatok egy-egy szeletét. Ezeket a lapokat képérzékelõ szenzorok segítségével olvassák vissza, majd dekódolják az adatokat.
+
+
+A kereskedelmi forgalomba került Tapestry 300r meghajtó nem olcsó mulatság, 18 ezer dolláros ára elsõ pillantásra sokkoló lehet. A lemezek is hasonlóan drágán lesznek hozzá kaphatók, nagy mennyiségben vásárolva is 180 dollár lesz darabja. A fejlesztéseknek köszönhetõen késõbb a kapacitással arányosan nõ majd az adatátviteli sebesség is.
+
+
+
+Az InPhase elsõsorban adatarchiválási feladatokra kínálja a holografikus tárolóeszközét. A lemezen az inPhase szerint 50 évig is sértetlenek maradnak az adatok. A Tapestry 300r többféle adatátvitelt támogat, 68-tûs SCSI (160-320) csatolója mellett Fibre Channel 4GB-tal, FTP, gigabites Ethernettel, FireWire-ön, Serial Attached SCSI (SAS) és iSCSI felületen keresztül is meghajtható.

@@ -1,0 +1,14 @@
+A Fujitsu két új, vállalati felhasználásra szánt merevlemezt mutatott be
+
+A Fujitsu tegnap két új, 2,5 hüvelykes, vállalati felhasználásra szánt merevlemezt mutatott be, melyek igen magas fordulatszámon forognak és merõleges adatrögzítési technológiát alkalmaznak.
+
+
+
+A Fujitsu vállalati környezetbe szánt, 2,5 hüvelykes meghajtói jelentõsen különböznek az azonos fizikai méretekkel megáldott, noteszgépekbe szánt fogyasztói modellektõl: nem csak a csatolójuk típusa más, hanem a fordulatszámuk is jóval magasabb. Az MBD2 RC sorozatú meghajtók lemeztányérjai 10 ezer fordulaton járnak percenként, melyekre az MBE2 RC sorozat tagjai még további 5 ezer fordulatot tesznek.
+
+
+Az alacsonyabb, ám még mindig magas, 10 ezer fordulaton pörgõ MBD sorozat két tagból áll, melyek egymástól a tárolókapacitásban különböznek. Az MBD2300RC 300 gigabájt adatot tárolhat, míg a kisebbik MBD2147RC 147 gigabájtnyit. A meghajtók a vállalati környezetbe szánt modellektõl nem idegen SAS-2 (Serial Attached SCSI) interfésszel kapcsolódnak a vezérlõkhöz, aminek 6 Gbps az elméleti sebességmaximuma.
+
+Balra az MBE2 RC, jobbra az MBD2 RC sorozat
+
+Az MBD2 RC sorozat tagjai 16 megabájtnyi gyorsítótárral rendelkeznek, és a fogyasztás terén is szépen domborítanak, a kisebb változat terheletlen állapotban 3,2 wattot, a nagyobb pedig 3,4 wattot kér. Az MBE2 RC sorozat a gyorsabb modellek gyûjtõje, a két, 15 ezres fordulatú SAS-2 merevlemez közül a kisebbik, az MBE2073RC 73,5 gigabájtnyit, az MBE2147RC pedig 147 gigabájtnyi adat elnyelésére alkalmas. E két modell is 16 megabájtnyi belsõ gyorsítótárral rendelkezik, fogyasztásuk pedig sorrendben 3,9, illetve 4,1 watt, mely adatokat a Fujitsu ennél a sorozatnál is a terheletlen állapotra adott meg. A gyártó mindkét sorozatra öt év garanciát vállal.

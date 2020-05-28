@@ -1,0 +1,14 @@
+Piacon a javított hárommagos Phenomok
+
+Piacra dobta javított hárommagos Phenom processzorait az AMD. A  Phenom X3 az X4-ekkel megegyezõ négymagos szilíciumra épül, egy deaktivált processzormaggal.
+
+
+
+Az AMD három modellel nyitotta meg a hárommagos X3 termékvonalat, mellyel reményei szerint rést talál a kétmagos és négymagos termékek között a piacon magának -- ezeket a modelleket cserélte most az új szilíciumrevízióra (B3 stepping), mely már mentes attól a hibától, mely miatt korábban a négymagos Opteronok szállításait felfüggeszteni kényszerült. Az X3 eredendõ motivációja kétségtelenül az egy hibás maggal elkészült chipek kereskedelmi hasznosítása, ezen keresztül pedig a selejthányad okozta veszteség visszaszorítása. Vélhetõen ugyanezt a célt szolgálja részben az is, hogy a harmadszintû gyorsítótár méretét 1,5 megabájtra csökkentették, még tovább javítva a kihozatalt.
+
+Az AM2+ foglalatba illeszkedõ hárommagos Phenom 8750 2,4, a 8650 2,3, míg a 8450 2,1 gigahertzes órajelen üzemel, és mindegyikük energiakerete 95 watt, vagyis mainstrem energiaosztályúak. A 8450 árazása nagyjából az Athlon 64 X2 6000+ (3 GHz), a 8650 modellé pedig a 6400+ (3,2 GHz) árával esik nagyjából egybe, míg a 8750 a négymagos Phenom 9550-nel (2,2 GHz) megegyezõ zöldhasút kóstál az AMD nettó gyártói listaárán.
+
+
+
+
+Ár-teljesítmény szempontjából papíron legalábbis, de az X3-ak nem tûnnek túlzottan jó vételnek, ugyanis a nem vagy rosszul többszálúsított alkalmazások (például játékok) az Athlon X2-k magasabb órajelét, a hatékonyan párhuzamosított kódok (például tömörítõk, videoszerkesztõk, renderelõ szoftverek) pedig a négymagos Phenom X4-ek gazdagabb számítási erõforrását preferálják majd -- talán azok számára megfelelõ, akik mindkét alkalmazástípusból futtatnak, így egyenletesen közepes teljesítményhez juthatnak.

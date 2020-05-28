@@ -1,0 +1,18 @@
+Egy terabájt átvitel másodpercenként: közeleg a Rambus új memóriája
+
+[Nikkei Electronics/HWSW] Másodpercenként 1 terabájtos áteresztõképességgel bíró memóriaalrendszert igyekszik létrehozni a Rambus. A vállalat ezt a régóta fejlesztés alatt álló XDR2 memóriatechnológiájára alapozva kívánja ezt elérni valamikor a következõ évtizedben.
+
+
+
+A Terabyte Bandwidth Initiative célja, hogy egy rendszerchip és a memóriachipek között egy 1 terabájt másodpercenkénti sávszélességû kapcsolat jöhessen létre, mégpedig ésszerû költségkeretek közt. A mikroelektronikai miniatürizációval egyre növekszik a processzorok integrációja, egy szilíciumlapkára egyre több processzormag és rendszerfunkció kerül. Ezzel együtt pedig drasztikusan emelkedik a sávszélességigény is a memória felé, miközben gazdaságossági és méretbeli okokból a fizikailag huzalozott adatsávok száma nem emelhetõ a végtelenségig.
+
+Az XDR, azaz eXtreme Data Rate memóriák célja éppen az, hogy a huzalonként a lehetõ legmagasabb sávszélességet érje el, így féken tarthatóak a nyomtatott áramkörök és chipek elõállításának költségei. Ez a magyarázata annak, hogy a Sony az XDR DRAM alkalmazása mellett döntött a PlayStation 3 processzora, a Cell memóriájaként -- az más kérdés, hogy utólag ez egy jó döntésnek tûnik-e. Az XDR DRAM mindenesetre órajelenként 8 bitet tud továbbítani egy adatsávon, szemben a DDR2 4 bitjével, miközben két és félszer magasabb effektív órajelet is elérhet. Az XDR-chipek kevesebb mint harmadannyi lábat követelnek meg, az XDIMM-ek (XDR modulok) pedig lényegében ugyanannyi láb mellett négyszeres sávszélességet kínálnak. 
+
+Az XDR2 ezt a koncepciót viszi tovább, azaz adatsávonként még magasabb áteresztõképességet biztosít a hexa data rate technikával, azaz órajelenként 16 bit továbbítására képes. További újítás a az úgynevezett micro-threading, mellyel egymástól függetlenül vezérelhetõek teljes memóriabankok, aminek eredményeként csökken az adathozzáférések késleltetése, valamint emelkedik az átviteli kapacitás kihasználásának hatékonysága, vagyis az effektív sávszélesség -- a kiolvasások nagyobb felbontásban történnek, több hasznos adatot továbbít a chip.
+
+
+ Az XDR 2 újabb szintre növeli a teljesítménysûrûséget, egy XDR2 chip ugyanis elméletileg 51,2 gigabájt sávszélességget képest elérni 800 megahertzes órajel és 32 bites adatbusz segítségével. Ezzel pedig elérhetõ távolságba került az 1 terabájt/s sebesség 16 darab ilyen chip megfelelõ szervezésével, egy 512 bit széles memóriabuszon. Ez ugyan még csak 800 gigabájt/s elméleti csúcsátvitel, az XDR2-t követõ, úgynevezett FDMA-technológia (fully differential memory architecture) már adatsávonként 16 gigabites sebességre is képes lehet, ugyanis órajelenként 32 bit adat továbbítását oldja meg.
+
+ 
+
+Bár az XDR2 specifikációi véglegesek, a tömegtermelés 2010-ben indulhat meg. A Rambus technológiái papíron igen mutatósak, kereskedelmileg kevésbé potensek a DDR vagy GDDR vonalaknál: XDR-bõl idén márciusában szállították le az 50 milliomodik darabot, aminek nagy részét a PlayStation 3 tette ki. Valószínûleg a memóriagyártók viszonylag lanyha érdeklõdése is magyarázza, hogy miért csak öt évvel a technológia bejelentését követõen kerülhet majd termékekbe, 2-3 évvel késõbb az eredetileg tervezettnél.

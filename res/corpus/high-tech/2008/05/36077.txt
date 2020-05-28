@@ -1,0 +1,14 @@
+Szupervékony aktív mátrixos OLED kijelzõvel szerelt notebookot mutatott be a Samsung
+
+A Samsung olyan noteszgép-prototípust mutatott be, amelynek kijelzõje a teljese új AMOLED (aktív mátrix OLED) technológián alapul. A notebook nem csak egyedi kijelzõjével tûnik ki a tömegbõl, hanem billentyûzetével is, amely teljes egészében érintésérzékeny.
+
+
+
+Az OLED elõnye az LCD-kijelzõkkel szemben, hogy nem igényel háttérvilágítást, ezért jóval vékonyabb és kevesebbet fogyaszt, emellett színei is teltebbek, fényereje és kontrasztja is egy nagyságrenddel jobb, emellett még éles szögbõl is kiválóan látszik, az LCD-ktõl eltérõen nem sötétül el. OLED kijelzõkkel ma már számos hordozható készülékben találkozhatunk, legyen szó akár mobiltelefonokról, MP3-játszókról vagy csúcskategóriás fényképezõgépekrõl, de ilyen méretben ez a megjelenítési technológia még nem terjedt el, mivel a prototípusban haznált 12 hüvelykes, 1280x768 pixeles notebook-kijelzõ ára ma még csillagászati lenne.
+
+
+
+Az AMOLED az OLED technológia leszármazottja, amely az aktív mátrixos megvalósításnak köszönhetõen még az OLED-nél is kevesebbet fogyaszt. Az AMOLED lényegében az OLED és TFT technológia egyfajta ötvözete, ahol -- a passzív OLED kijelzõkkel ellentétben -- nem képpont-soronként, hanem az aktív mátrixon keresztül minden pixelhez külön-külön jut el az áram, ami jóval gyorsabb reakcióidõt és alacsonyabb fogyasztást is eredményez. A két technológia ötvözése révén az OLED kijelzõk alkalmasak lehetnek gyorsan változó tartalom, például filmek vagy videojátékok megjelenítésére anélkül, hogy az LCD-knél megszokott elmosódást látnánk.
+
+
+Az AMOLED technológia egyik legfõbb fejlesztõje a Samsung, amely már 2006-ban bemutatott egy 17 hüvelykes AMOLED kijelzõt 1600x1200 pixeles felbontással, 1000:1 kontrasztaránnyal és 0,01 ms-nál is kisebb utánhúzási idõvel. A dél-koreai cég jelenleg évi 1,5 millió OLED-kijelzõ gyártására rendelkezik kapacitással, melyet 2009-re megduplázna, 2010-re pedig megnégyszerezne. Ezzel együtt a gyártási költségeket is csökkenteni lehetne, így nagyobb méretben is elérhetõbbek lennének ezek a megjelenítõk, akár tévék számára is.

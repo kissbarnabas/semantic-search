@@ -1,0 +1,14 @@
+Egyedülálló e-mail szinkronizálás ThinkPad noteszek és BlackBerry okostelefonok közt
+
+Saját fejlesztésû, semelyik más gyártónál nem létezõ PC-mobil szinkronizációs rendszer fejlesztésében talált egymásra a Lenovo és a Research in Motion (RIM). A kínai PC-gyártó és a kanadai mobilgyártó egyaránt az üzleti élet szereplõinek kínált termékeirõl és megoldásairól ismert (ThinkPad noteszgépek és BlackBerry okostelefonok), a két cég közös fejlesztéseként létrejött Lenovo Constant Connect is ebbe a portfólióba illik.
+
+
+
+A Lenovo és a RIM két éve zajló közös fejlesztéseként mutatja be a Lenovo Constant Connect szolgáltatást a ma kezdõdõ Mobile World Congressen. A gyakran úton lévõ üzleti felhasználóknak szánt rendszer lehetõvé teszi, hogy a BlackBerry mobiltelefon és a ThinkPad közt -- feltéve, hogy azok modern, az elmúlt egy-másfél évben megjelent típusok -- folyamatosan szinkronizálódjanak az e-mailek. A Lenovo Constant Connect egyedülálló szolgáltatása, hogy a szinkronizálást akkor is képes elvégezni, ha a noteszgép energiatakarékos (készenléti, hibernált) vagy kikapcsolt állapotba kerül.
+
+A Lenovo Constant Connect a fejlesztõk beszámolója szerint egy ExpressCard bõvítõkártyából és a hozzá tartozó, a szinkronizálást elvégzõ szoftverplatformból áll. A modernebb (az elmúlt másfél évben gyártott) ThinkPad noteszekbe helyezhetõ bõvítõkártya egy Bluetooth kommunikációs modullal csatlakozik a telefonhoz, mely azonnal áttölti a beérkezõ üzeneteket a kártya saját, 500 megabájt kapacitású ideiglenes tárjába. A mûködés további feltétele, hogy a BlackBerry készüléken legalább 4.2-es vagy újabb verziójú BlackBerry OS fusson.
+
+
+A háttértárból a rendszer vagy azonnal áthelyezi az üzeneteket a számítógép levelezõszolgáltatásába (a Lenovo Constant Connect jelenleg Microsoft Exchange /Outlook és Gmail kompatibilitást ígér, az év második felében kiadott frissítéssel pedig már a Lotus Notes felhasználók számára is elérhetõvé válik a szolgáltatás), vagy a számítógép következõ bekapcsolásakor szinkronizál. Az addig letöltött üzenetek -- beleértve a csatolmányokat is -- ilyenkor legkésõbb nyolc másodpercen belül megjelennek a levelezõprogramban.
+
+A RIM és a Lenovo együttmûködésének elsõ gyümölcse várhatóan a második negyedévben jelenik meg az Egyesült Államokban, más régiókban az év második felében kerülhet forgalomba. A Lenovo Constant Connect ára 150 dollár lesz a tengerentúlon. A két cég a rendszer bejelentése kapcsán leszögezte, hogy együttmûködésük révén a késõbbiekben több hasonló, az üzleti szegmens számára kialakított megoldás megjelenése várható.

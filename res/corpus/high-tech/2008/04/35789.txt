@@ -1,0 +1,15 @@
+IBM: áttörés a memóriatechnológiában
+
+A merevlemezek hatalmas kapacitását és a flash memória nemfelejtõ képességét, alacsony fogyasztását és gyorsaságát egyesíti az a memória, amelyet az IBM San Jose-i kutatólaboratóriumában fejlesztenek. A "racetrack", azaz versenypálya névre hallgató memória nanovezetékek milliárdjaiból áll, amelyek egyenként több száz bitnyi adat tárolására képesek.  
+
+
+
+A racetrack az adatokat nem tranzisztorokban tárolja elektromos töltésként mint a flash memória, hanem a nanovezetékek mágneses doménfalaiban. Mivel a nanovezetékek rendkívül kicsik, a racetrack kapacitása jóval nagyobb lehet a flash memóriánál. A technológia további elõnye a flash-sel szemben, hogy nélkülözi annak fáradását, a racetrack végtelen sokszor írható és olvasható.
+
+
+ A technológiai áttörés abban rejlik, hogy az IBM kutatói rájöttek, hogyan lehet a doménfalakat manipulálni, felhasználva a spinpolarizált elektronok és a doménfal mágneses terének kölcsönhatását. Az eljárás lényege, hogy a nanovezetékbe áramot vezetnek, amely a vezetéken végigszáguldva lényegében maga elõtt tolja a doménfalakat, amelyek az adatbiteket jelentik. Írásnál és olvasásnál a doménfalak a vezeték mentén végigfutnak a fix író- és olvasó fejekig, mintha csak autók mennének végig egy versenypályán a célig.
+
+
+
+
+A technológia még a korai kutatás fázisában van, mûködõ prototípussal még az IBM sem rendelkezik. A projektet vezetõ Dr. Stuart Parkin szerint legalább négy évre van szükség ahhoz, hogy az elsõ prototípus elkészülhesse, majd további három esztendõ, mire a technológia készen áll a tömegtermelésre és kereskedelmi bevezetésre. Ha ez eljön, olyan nemfelejtõ memóriák kerülhetnek forgalomba, amelyek kapacitása a merevlemezekével vetekszik, miközben sokkal gyorsabbak azoknál, nem tartalmaznak mozgó alkatrészt és jóval kevesebb energiával beérik.

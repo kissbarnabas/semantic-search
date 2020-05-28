@@ -1,0 +1,14 @@
+A PC Tools szerint nem golyóálló a Vista annyira, mint a Microsoft állítja
+
+[Techworld] A PC Tools statisztikái szerint korántsem annyira a rózsás a helyzet a Windows Vista biztonságosságát tekintve, mint azt a Microsoft állítja. A cég tapasztalatai szerint valamivel jobbak a mutatók a Windows XP-s gépekénél, de nem annyival, amit a Microsoft legutóbbi számai sejtetni engednek.
+
+
+
+Az ausztrál PC Tools saját ThreatFire felhasználói adatbázisának visszajelzéseibõl készítette statisztikáját, mely szerint 58 ezer vistás számítógépen találtak legalább egy kártékony programot az elmúlt hat hónap során. Ez a mennyiség a Vista operációs rendszert futtató számítógépek 27 százalékát tette ki. A cég adatbázisába több mint másfélmillió windowsos számítógép jelent folyamatosan, melyeknek 12,6 százaléka, 190692 számítógép vistás.
+
+A több mint 190 ezer számítógépen összességében 121380 kártékony programot regisztráltak, ami tény, hogy elmarad az 1,3 milliónyi XP-s gépen talált 1319144 kártevõvel szemben, jobb százalékos arányt mutatva, de a számok szerint a helyzet sokkal rosszabb, mint ahogyan azt a Microsoft állítja. A PC Tools újabb statisztikáit a Microsoft korábbi cáfolatára válaszul tette közzé, egy héttel ezelõtt a cég azt állította, hogy a Vista legalább annyira sebezhetõ sérülékenységeken keresztül, mint a Windows 2000.
+
+
+A PC Tools számai sajnos nem tesznek lehetõvé közvetlen összehasonlítást a Microsoft adataival, így például az sem ismert, hogy a felfedezett károkozók, kártékony programok egyáltalán tettek-e valamilyen kárt a számítógépben, okoztak-e valamilyen problémát az ügyfélnek. A cég magyarázata szerint azokat a támadási kísérleteket jelenítették meg statisztikáikban, melyek már túljutottak a felhasználón és a program állította meg ténykedésüket.
+
+A Microsoft folyamatosan hangsúlyozza a Windows Vista fokozott biztonságosságát, mely a felmérések szerint az egyik legfõbb vonzerõ az áttérni szándékozó vállalatok számára. Az tény, hogy a kereskedelmi megjelenése után eltelt 90 napban lényegesen kevesebb sebezhetõséget fedeztek fel benne, mint a Windows XP-ben vagy akármelyik másik modern asztali operációs rendszerben, igaz azóta megérkezett hozzá az elsõ szervizcsomag is.

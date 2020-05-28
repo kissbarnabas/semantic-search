@@ -1,0 +1,25 @@
+Több mint 40 százalékkal nõ idén a virtualizációs szoftverek piaca
+
+2009-ben 43 százalékkal 2,7 milliárd dollárra nõ a virtualizációs szoftverek piaca a Gartner szerint, ahogy egyre több szervezet vezet be valamiféle virtualizációs megoldást a költséghatékonyság és az infrastruktúra rugalmasságának fokozása érdekében.
+
+
+
+Egyre népszerûbbek lesznek a virtualizált asztali környezetek
+
+"A virtualizáció segít a szervezeteknek csökkenteni a költségeket, hatékonyabban kihasználni a meglevõ eszközöket, és lerövidíteni a bevezetéshez és felügyelethez szükséges idõt. A jelenlegi gazdasági környezetben ezek mind kulcsfontosságúak" -- vélekedett Alan Dayley, a Gartner kutatási vezetõje. A piac legnagyobb részét a szervervirtualizációs felügyeleti megoldások teszik ki, ezek piaca 1,3 milliárd dollárra nõ az idén, a legnagyobb növekedést azonban a virtualizált asztali környezetek (hosted virtual desktop, HVD) produkálják majd, itt a bevételek a tavalyi háromszorosára nõnek és megközelítik a 300 millió dollárt. 
+
+
+ A virtualizált asztali környezetek lényege, hogy a felhasználók által futtatott összes szoftver és használt adat az adatközpontban helyezkedik el, ahol központosítva oldható meg a menedzseléssel kapcsolatos összes teendõ. Ilyen esetben a végpontokon nincs szükség erõs PC-kre,  a felhasználók lényegében úgy érik el saját desktop környezetüket, mintha egy terminál elõtt ülnének. A drága és sokat fogyasztó PC-k így kiválthatók olcsó, keveset fogyasztó, mozgó alkatrész nélküli, azaz lényegében "örök életû" vékony kliensekkel. 
+
+Noha a virtualizált asztali környezetek ma még csak a virtualizációs piac tizedét adják, az elkövetkezõ években ez biztosan nõni fog a Gartner szerint. Ugyanakkor -- derül ki az elemzõcég elõrejelzésébõl -- a virtualizált asztali környezetek bevezetése maga után vonja a szerverek virtualizálását is, ugyanis a felhasználói asztali környezeteket csak egy ilyen infrastruktúra tudja hatékonyan kihasználni. Bár a HVD rendszerképek központilag vannak tárolva és szabványosak is, ez nem jelenti azt, hogy megfelelõ felügyeleti eszközök nélkül egyszerûen kezelhetõk lennének -- és ma még hiányoznak az igazán fejlett megoldások.
+
+
+[+] A virtuális gépek könnyen a cégek fejére nõhetnek
+
+Az évtized végére ugyan fel fognak gyorsulni az ilyen bevezetések, ahogy egyre több felhasználói igényt lehet majd virtualizált asztali környezettel lefedni, ehhez azonban elengedhetetlenül szükséges, hogy az ügyfelek az asztali PC-k menedzsmentjéhez hasonló folyamatokat alakítsanak ki, és azokat folyamatosan tökéletesítsék -- áll a Gartner jelentésében. "A végfelhasználói szervezeteknek költség-haszon elemzéseket kell végezniük hogy felmérhessék a HVD környezet bevezetésének pénzügyi hatásait, ezeket lehet összevetni egy hagyományos PC-alapú környezettel" -- mondja Phil Dawson, a Gartner alelnöke.
+
+A Microsoft a VMware komoly versenytársává lép elõ
+
+A Gartner szerint 2013-ra a Microsoft komoly versenytársa lesz a VMware-nek a virtualizációs piacon, elsõsorban a kis- és középvállalatok körében. A rivális IDC tavaly októberi jelentése szerint a VMware piaci részesedése az eladott licencek számát nézve 44 százalék volt a második negyedévben, a Hyper-V megjelenésével a Microsoft azonban máris második helyre ugrott, és a licenceladások alapján 23 százalékos részesedést ért el.A harmadik legnépszerûbb virtualizációs platform a Parallels Virtuozzo az IDC szerint.
+
+Ugyanakkor -- mutat rá a Gartner -- a virtualizációs felügyeleti megoldások piaca ma még teljesen nyitott, a szereplõk száma száz fölé tehetõ, így egyelõre nehéz lenne megjósolni, melyek lesznek a befutók. A konszolidáció elkerülhetetlennek látszik, az élen pedig alighanem a "négy nagy" (BMC, CA, HP, IBM) jár majd ebben.

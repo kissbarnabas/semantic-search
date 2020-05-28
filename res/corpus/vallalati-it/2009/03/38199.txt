@@ -1,0 +1,14 @@
+Jövõ héten rendezik az idei elsõ VMware közösségi találkozót
+
+Jövõ héten rendezik meg az idei elsõ közösségi VMware találkozót, ahol a látogatók ismét gyakorlati betekintést nyerhetnek a virtualizáció elméletébe és gyakorlati alkalmazásába egyaránt. A részvétel regisztrációhoz kötött, de továbbra is ingyenes.
+
+
+
+A sorban negyedik, és az idei elsõ közösségi VMware-rendezvényt jövõ hét csütörtökén, március 26-án tartja meg a magyar VMware User Group (VMUG). A helyszínt a Budapesti Mûszaki Egyetem biztosítja. Az esemény idõzítése nem véletlen, szó lesz ugyanis a február végén lezajlott idei európai VMworldön elhangzottakról.
+
+
+A VMware az elmúlt idõszakban egyre inkább elõtérbe helyezi a desktopvirtualizációt, mióta piacra dobta a View 3 megoldást. Ennek megfelelõen az elõadások egyike a View képességeit és a Wyse vékonyklienseket tárgyalja, melyek kombinációjával részlegesen vagy akár teljesen le lehet cserélni a fizikai PC-ket, vagyis a vastag klienseket, az ígéretek szerint rengeteget spórolva az üzemeltetésen.
+
+A gyakorlati tapasztalatokat ezúttal az Alpine Electronics szállítja, ahol két éve virtualizálják a szerverparkot. Ígérete szerint a cég képviselõje problémákról is beszámol majd, valamint jövõbeni tervekrõl. A gyakorlati oldalt erõsíti az ESXi használatba vételének bemutatása is, valamint az ESXi távoli menedzselhetõségének további tárgyalása, a Powershell legutóbbi ezirányú tárgyalását követõen a Remote CLI konzol lehetõségeinek felvázolása. A rendezvényen minden regisztrált résztvevõ egy ESXi-vel elõtelepített USB-kulcsot kap ajándékba, így maga is kipróbálhatja a hallottakat és látottakat. További információval a VMUG honlapja szolgál.
+
+A VMware User Group egy alulról szervezõdõ felhasználói közösség, melyet az x86-os virtualizáció piacát vezetõ VMware támogat ugyan, de nem irányít. A csoport célja a tudás megosztása és egy felhasználói közösség kialakítása, valamint egymás szakmai segítése. A rendezvényeken igyekeznek bemutatni a VMware termékeinek elõnyei mellett azok negatívumait is, és a marketingtõl megtisztított felhasználói tapasztalatokról beszámolni. Az eddigi elõadások anyagai megtalálhatóak a közösség honlapján . 

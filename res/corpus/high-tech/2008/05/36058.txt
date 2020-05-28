@@ -1,0 +1,11 @@
+A Fujitsu bejelentette hosszútávfutó merevlemezét
+
+A Fujitsu tegnap jelentette be új, 2,5 hüvelykes, 250 gigabájtos merevlemezét, amelyet a gyártó speciálisan az erõsen igénybevett, 0-24 órás folyamatos terhelésnek kitett eszközökbe szán. Az új meghajtó nyár végétõl kapható.
+
+
+
+A Fujitsu új fejlesztésû sorozatába illeszkedõ, 2,5 hüvelykes MHZ2 BK meghajtót kimondottan a feszített tempót igénylõ környezetekhez ajánlja, vagyis szerverekbe, tárolókba. A meghajtó 250 gigabájt nyi adat tárolására elegendõ kapacitást biztosít, lemeztnyérjai pedig 7200-as percenkénti fordulaton forognak. Az újdonság a vállalati, illetve ipari berendezésekben elõforduló terhelést is képes elviselni, akár 0-24 órás üzemben is. További felhasználási területek lehetnek az ATM automaták és az értékesítési terminálok, amelyeknek szintén közös jellemzõje a folyamatos mûködés. 
+
+
+
+A tároló annak ellenére, hogy 7200-as fordulatszámon forog, nem termel sok hõt. A Fujitsu az MHZ2 BK sorozat mellett piacra küldi MHZ2 BS sorozatát is, melynek merevlemezei 5400-as percenkénti fordulatszámon járatják a tányérokat, egy kicsivel még kevesebbet fogyasztva az amúgy sem nagyétkû BK-hoz képest (2,1 W, illetve 2,3 W). Mindkét sorozat belsõ felfüggesztése új fejlesztés, melyek segítségével minimális szinten tartható az üzem közbeni vibráció. A meghajtók SATA II interfésszel kapcsolhatók a vezérlõáramkörökhöz. A 7200-as MHZ2 BK július végén éri el a piacot, az 5400-as fordulatú MHZ2 BS azonban már május 30-tól megvásárolható lesz, eddig nem közzétett áron.

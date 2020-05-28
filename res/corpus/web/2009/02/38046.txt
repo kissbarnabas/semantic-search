@@ -1,0 +1,14 @@
+Új levelezõprogram a láthatáron a Mozilla fejlesztõitõl
+
+Postbox néven új e-mail klienssel jelentkezett az azonos nevû vállalat, amelyet a Mozilla korábbi fejlesztõi alapítottak. A Mozilla Gecko motorján és a Thunderbirdön alapuló levelezõ nyilvános bétája már letölthetõ Windows és Mac OS operációs rendszerekre, a linuxos változat késõbb érkezik.
+
+
+
+A Postbox egy hagyományos asztali e-mail kliens, azonban néhány figyelemre méltó szolgáltatásával kitûnik a tömegbõl. A modern böngészõkhöz hasonlóan támogat füleket, egy fül tartalmazhat üzeneteket, listákat, csatolt állományokat vagy akár keresési találatokat. A Gmailhez hasonlóan a Postbox is képes a leveleket "beszélgetésekbe" rendezni, illetve a Gmail címkéihez hasonlóan itt is használhatók tagek, amelyek alapján az üzenetek késõbb rendezhetõk, kereshetõk.
+
+
+ A Postbox leveleket és a csatolt fájlokat automatikusan indexeli, ezáltal egyszerûvé és kényemessé téve a keresést. Noha az asztali keresõkkel (pl. Windows Desktop Search, Google Desktop Search) hasonló kereséseket lehet végezni, az e-mail kliensbe épített megoldás a Postbox fejlesztõi szerint hasznosabb, mert a találatok a levelezõben jelennek meg, nem egy külön ablakban.
+
+További érdekesség a "Compose sidebar", ahol megtekinthetõ egy üzenet összes csatolmánya, és ezekkel számos mûvelet elvégezhetõ, például egy beérkezõ levélben kapott képet egyetlen kattintással fel lehet tölteni a Facebookra, közvetlenül a levelezõbõl. Ha egy levélhez fájlt szeretnénk csatolni, elég drag-and-drop módszerrel a Compose sidebarra dobni.  Figyelemre méltó még az "Inspector pane", amely összegyûjti és külön megjeleníti egy levélbõl a benne található fontos információkat, például neveket, címeket, linkeket.
+
+Egyelõre nem tudni, mit hoz a Postbox jövõje, a vállalat a béta felhasználóitól származó visszajelzéseket részben arra is fel fogja használni, hogy kidolgozza üzleti modelljét. Bár a szoftver nyílt forrású komponensekre alapoz, egyáltalán nem biztos, hogy maga is nyílt forrású lesz például. A fejlesztõk azt ígérik, a Postbox végleges, 1.0 változata még a tavasszal elkészül.

@@ -1,0 +1,53 @@
+Szerver- konszolidáció: ötletek az elsõ lépésekhez
+
+A virtualizációs technológiák megítélése korántsem egységes az informatikusok körében. Vannak, akik számára már teljesen természetes, hogy a felügyelt rendszereik egy része virtuális gép. Az óvatosabbak számára ez a technológia még inkább csak játék. A cikkel továbbgondolós játékra csábítom az utóbbi tábor tagjait is, bízva abban, hogy a technológián túlmutató érvek közül is találnak megfontolandót.
+
+Csaknem két évvel ezelõtt jelent meg a TechNet Magazinban Lepenye Tamás kollégám Tervezz merészen! címû cikke. Ajánlom mindenkinek újraolvasásra. Akármekkorát változott ugyanis idõközben a virtualizációs technológia, a megközelítés, a konszolidációs feladat megvalósítására alkalmazott módszer a mai napig megállja a helyét. Talán csak annyi változott, hogy megjelentek olyan alkalmazások, amelyekkel kevesebb fáradsággal, rendszerezett és jobban használható adatokat gyûjthetünk a konszolidálásra jelölt rendszerekrõl. Amikor pedig nekivágunk a feladatnak, akkor használhatjuk például a System Center Virtual Machine Manager-t, hogy fizikai gépeinket virtuális gépekké konvertáljuk. No, de ne szaladjunk ennyire elõre! Haladjunk nagyjából abban a sorrendben, ahogy konszolidációs folyamat halad!
+
+
+
+
+
+Ha szerverkonszolidációra adjuk a fejünket, készüljünk fel arra, hogy hosszú ideig nem fogunk tudni látványos technológiai fejlesztéseket felmutatni. Ez a folyamat ugyanis hosszadalmas és gyakran nehézkes tervezõ-szervezõ munkával kezdõdik. Legelsõként saját magunkban, illetve az IT-n belüli kollégák körében kell közös nevezõre, egységes álláspontra jutnunk a virtualizációt illetõen. Tanulságos olvasmány a témában a Kusnetzky Group tanulmánya a virtualizációhoz kapcsolódó 10 legfontosabb mítoszról. Csak a négy legérdekesebb pontot emelném ki ezzel kapcsolatban:
+
+
+Az én cégem máris készen áll a virtualizáció alkalmazására
+Nincs szükség különösebb szakértelemre az implementációhoz
+Nincs szükség részletes tervezésre, minden megoldható néhány kattintással
+A virtualizáció csökkenti a rendszer komplexitását
+
+A négy felvetett kérdést akár egymással összefüggésben is vizsgálhatjuk: a virtualizációs technológiák alkalmazása rövidtávon egészen biztosan nem csökkenti a rendszer komplexitását, hiszen teljesen új, korábban nem használt technológiai rétegek kerülnek a rendszerbe, amelyeket egyrészt meg kell ismernünk, másrészt a felügyeletükhöz szükséges folyamatokat ki kell fejlesztenünk és dokumentálnunk. Hosszabb távon jelentkezhet a komplexitás csökkenése, ha a virtualizáció egyfajta katalizátorként hat és ösztönöz bennünket a felügyeleti folyamatok pontosítására, jobb összehangolására és a lehetõ legtöbb feladat automatizálására. Ha többen dolgozunk az IT szervezetben, akkor szükséges lehet az egyes munkatársak feladatainak újragondolása és összehangolása is, hiszen a folyamatokat nekik kell végrehajtaniuk. Tehát igazából akkor állunk készen, ha az alapvetõ munkafolyamataink már rendben vannak, és van tartalék kapacitásunk a virtualizációs technológia bevezetésének idején jelentkezõ többletfeladatok elvégzésére.
+
+Kiemelten figyeljünk erre, ha egymagunk vagyunk "az IT": mérjük fel, mennyi idõ alatt, milyen kisebb lépéseken keresztül tudjuk elérni a kitûzött célt úgy, hogy közben nem hanyagoljuk el az élõ rendszereket sem. Ezen a ponton máris a tervezésnél tartunk. Tervezni pedig kötelezõ! Mégpedig több irányban egyszerre. Mindenképpen szükség lesz egy pénzügyi tervre. Elég nagy a valószínûsége annak, hogy a konszolidációs folyamatot nem tudjuk véghezvinni pénzügyi befektetés nélkül, tehát feltétlenül meg kell gyõznünk azokat a döntéshozókat, akik finanszírozzák terveinket. Meggyõzésükhöz több helyrõl is gyûjthetünk érveket, néhány példát a következõ fejezetben bemutatok.
+
+A következõ lépés a konszolidációs útiterv: milyen gépeket, szolgáltatásokat mozgatok virtuális platformra, milyen sorrendben, milyen módszerrel és mi tervem, ha valami nem sikerül (ez az a bizonyos gyakran elfelejtett roll-back plan). Ezen lépések tervezéséhez remekül használható a fentebb említett cikk. A tervezés másik vonulata a hosszabb távú tervezés: ha gondot okozott a fizikai szerverek túlzott elszaporodása (egyedi feladatokra, hosszabbtávú koncepció nélküli beszerzések), akkor mit fogunk kezdeni az elszaporodó virtuális gépekkel?
+
+A virtuális gépek olcsók, nem lesz meg az a beépített korlát, amit a pénzügyi lehetõségek jelentettek a fizikai gépek beszerzésekor. Sõt, virtuális gépek esetén még a licencelés is egyszerûbb. Megvannak-e az eszközeink a hibriddé vált számítóközpontunk felügyeletére, van-e eljárásunk a licenckövetésre? Megfelelõen nyilvántartjuk, dokumentáljuk-e virtuális tárolóinkat (storage) és hálózatainkat? Több olyan kérdés, amire megnyugtató megoldást kell találnunk és ez még mind mindig csak a tervezés.
+
+A szakértelem kérdése talán a legegyszerûbb, ezen a területen van ugyanis talán a legnagyobb motiváló erõ: a technológiai érdeklõdés. Aki virtualizációs megoldás bevezetésére adja a fejét, azt már valamilyen mélységben megragadta a technológia és a benne rejlõ lehetõség. Szerencsére az bevezetéshez szükséges eszközök használata nem túl bonyolult. A szakértelem kérdése sokkal inkább a tervezési és az üzemeltetés bevezetési fázisban nyer jelentõséget, ahol rendszer szinten kell gondolkodni a siker érdekében.
+
+
+
+Hogy csak egyetlen üzemeltetési példát említsek: meg kell változtatnunk a javítócsomagok telepítésére vonatkozó eljárásainkat. A szokásos eljárás nagy valószínûséggel használható marad a virtuális gépek többségére és a virtualizációba nem bevont fizikai gépekre, a virtuális gépeket futtató szülõ partíciók frissítése viszont jobban szervezett eljárást igényel, hiszen amikor ezeket frissítjük a rajtuk futó virtuális gépek szolgáltatásai is kiesnek. Ha technológiai szempontból nem is, de szervezési szempontból mindenképpen összetettebb a feladat. (Értjük már miért ajánlott a Windows Server 2008 Core telepítés, mint szülõ partíció? Kevesebb frissítési ciklus, kevesebb fejfájás a szervezés körül.)
+
+Nézzünk bele néhány fontosabb folyamatba, amivel a szerverkonszolidáció során találkozhatunk, és ismerkedjünk meg néhány olyan eszközzel, ami segíthet a kezdeti fázisok nehézségeit legyûrni.
+
+	     
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                    A cikk több oldalból áll:
+                    
+                    
+                        1. oldal: Szerver- konszolidáció: ötletek az elsõ lépésekhez
+                      
+                        2. oldal: Tanuljunk közgazdászul!
+                      
+                        3. oldal: Én túl kicsi vagyok ehhez...
+                        
+                    
+                  

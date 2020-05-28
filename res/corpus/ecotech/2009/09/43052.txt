@@ -1,0 +1,10 @@
+A magyar webfejlesztõk is ingyen használhatják a Microsoft termékeit
+
+Tíznél kevesebb alkalmazottal rendelkezõ, magántulajdonban levõ webfejlesztõ cégek három éven át ingyen használhatják a Microsoft szerverszoftvereit és fejlesztõi eszközeit, ezért mindössze egyetlen dolgot kell tenniük, a programba lépéstõl számított fél éven belül egy ügyfelüknek elindítani egy weboldalt, amely a Microsoft technológiáin alapul. Ehhez nem csak szoftvertámogatást ad a Microsoft, hanem a partnereken keresztül tanácsadással, oktatással és szolgáltatásokkal (pl. hoszting) is támogatja a programban részt vevõ cégeket. Belépési díj nincs, a kilépési díj 100 dollár, amelyet a három év letelte után kell kifizetni, vagy elõbb, ha valamilyen ok miatt a cég úgy határoz, kilép a WebsiteSpark-ból.
+
+A Microsoft ezzel a webfejlesztõket és webdesignereket szeretné elcsábítani, akik sokszor azért nem a cég technológiáit használják, mert van az igényeiknek megfelelõ megoldás ingyen, ami leginkább a LAMP stacket, azaz a Linuxot, az Apache-t, a MySQL-t, illetve a PHP-t vagy PERL-t, néha a Pythont jelenti. Valószínûleg ez az oka annak, hogy a LAMP rendkívül népszerû a webes világban, mivel ingyen is elérhetõ, a mostani lépéssel azonban ezt a különbséget is ledolgozza a Microsoft azáltal, hogy ingyenesen a cégek rendelkezésére bocsátja a Windows Web Server 2008 R2-t, a SQL Server Web Editiont, illetve webes és grafikai fejlesztõi eszközöket (Visual Studio, Expression).
+A redmondiak tavaly novemberben indították útjára a BizSpark programot, amely a Microsoft-technológiára építkezõ startup vállalkozásokat támogatta, a WebsiteSpark keretében azonban nem csak az induló cégeket támogatja a vállalat, akár évek óta piacon levõ, professzionális cégek is részt vehetnek benne. A WebsiteSpark program hamarosan Magyarországon is elindul, tudtuk meg a Microsoft hazai képviseletétõl. A részleteket néhány héten belül hozza nyilvánosságra a cég, a csatlakozás feltételei addig is elolvashatók a Microsoft oldalán.	     
+                  
+                  
+                  
+                   

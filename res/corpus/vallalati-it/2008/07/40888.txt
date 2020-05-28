@@ -1,0 +1,65 @@
+Igáslovak jó áron: Lenovo ThinkPad T61 és Dell Latitude D630
+
+A Montevina kódnéven ismert Centrino 2 megjelenése elõtt egy héttel talán nem tûnik ésszerûnek Santa Rosa alapokra építõ notebookot vásárolni, de éppen ez a váltás nyújt lehetõséget arra, hogy kedvezõ ajánlatokat fogjunk ki a piacon a kifutó termékekre. Ezúttal két hordozható munkaállomásra esett a választásunk, melyek feladata, hogy megbízható, elnyûhetetlen igáslóként szolgálják gazdájukat a munkában és otthon egyaránt. A Lenovo ThinkPad T61 egyfajta etalon az iparban, kihívója a szintén patináns Dell Latitude D630: a prémium minõséget képviselõ 14,1 hüvelykes szélesvásznú modellek árcédulája az elmúlt hónapokban rengeteget szerényedett (a T61-nek léteznek 15,4-es formátumú változatai is).
+
+
+
+Centrinós munkaállomásokról lévén szó, mindkét gép Intel PM965 chipset köré épül Merom mobil Core 2 Duo processzorokkal, melyek 65 nanométeres csíkszélességû eljáráson készültek. A grafikus chipek nem integráltak, hanem az NVIDIA professzionális üzleti felhasználásra szánt Quadro belépõszintû változatai. A T61-ben az NVS 140M, a D630-ban a 135M kapott helyett, a különbség pedig a videomemóriában rejlik: elõbbi 256, utóbbi 128 megabájttal munkálkodik. Mindkét gép rendelhetõ integrált grafikával is, ami Intel Graphics Media Accelerator X3100 grafikus magot jelent, ennek megfelelõen pedig jóval alacsonyabb teljesítményt és fogyasztást.
+
+A tesztgépekben a központi memória mennyisége különbözött a legnagyobb mértékben, a ThinkPad 2 gigabájt memóriával érkezett, míg a Latitude D630 1 gigabájttal gazdálkodott. A mai memóriaárak mellett ez gyakorlatilag lényegtelen különbség, a több memória a T61 akkuidejére lehetett negatív hatással inkább. Mindkét gépben 5400-as fordulatú HDD kapott helyett, ugyanakkor a D630 egy mai szemmel még kuriózumnak számító meghajtót tartogatott: hibrid Samsung merevlemezt kapott, vagyis HHD-t, mely 256 megabájt NAND flash tárral rendelkezik  beépítve -- magasabb teljesítmény vagy alacsonyabb fogyasztás azok az elõnyök, melyekkel kecsegtet. 
+
+Külsõ megjelenés, megépítettség
+
+ Megjelenésében a Dell Latitude D630 egy '70-es évekbeli amerikai autó belsejére emlékeztet minket, messzirõl látszik, hogy merev, kopogós anyagból készült. Esztétikailag a semlegesség jut eszünkbe elsõ jellemzõként, nem olyan megosztó, mint a radikálisabb, "titkosügynökös" ThinkPad design, valószínûleg a felhasználók többségének megfelelõ. 
+
+A felhasznált anyagokat kívül a kemény mûanyag jellemzi, bár a tapintásra a ThinkPad finoman érdessége kellemesebb a D630 sima felületei. Ahogyan az ilyen kategóriájú notebookok esetében elvárható, a megépítettséggel nincsen probléma: a gépek váza rendkívül erõs belsõ fémmerevítéssel rendelkezik (a Lenovo Roll Cage-nek hívja a sajátját), mely megvédi az alaplapot és a merevlemezt is a mechanikai behatásoktól.
+
+ A kijelzõ kávája is ellenáll komolyabb erõbehatásoknak, és szándékosan, erõvel kell a széleinél hajlítgatni ahhoz, hogy képhibát produkáljunk az LCD-panelen -- szubjektív benyomás alapján ebben talán a D630 a T61-et is felülmúlja. A kijelzõket még erõsebb rázkódásnál is mereven tartó masszív zsanérok is azt a benyomást keltik, ezek a notebookok még öt év múlva is gépek lesznek, és nem fog jelentkezni recsegés-ropogás, repedés, nem kell söröskorsóval kitámasztani a hanyatt vágódó fedelet. Az alsó részek merevsége már-már provokáló, ebbõl a szempontból mindkét gép kifogástalan, nagyobb strapabíróságot valószínûleg csak a hazánkban nem forgalmazott Panasonic ToughBook eLite sorozat képvisel az üzleti kategóriájú notebookok körében.
+
+Portok
+
+Mind a ThinkPad T61, mind a Latitude D630 igazi konzervatív darab. Mindkét gépen találunk függõleges orientációjú USB portokat például, ami a régi laptopokat idézi leginkább, azonban nem igazán szerencsés: ahogyan megérkezett a T61, egybõl rádugtunk egy, a szokásosnál szélesebb pendrive-ot, ami megemelte a gép oldalát -- ez egyszerûen béna, persze mondhatjuk, hogy aki ilyen gépet vásárol, annak ne legyenek dundi USB-s eszközei, pendrive-ból pedig található a piacon körömnyi méretû is. A D630 esetében ez nem jelentkezik, mert a gép legvastagabb részén, hátul vannak a csatlakozók,  ráadásul kapunk két vízszintes USB kaput is, a gép jobb oldalának hátsó részén, egymás  felett.
+
+
+
+Szintén a régebbi korokat idézi, hogy a D630 csatlakozóinak többsége a gép hátulján található, köztük egy régi ismerõssel, a soros porttal. A baloldal az audiocsatlakozók,  a vezeték nélküli hálózati vezérlõk hardveres kapcsolója és egy IEEE 1394 (Firewire, i.Link) port kaptak helyet. Ebbõl a szempontból a ThinkPad jóval modernebb, ugyanis hátul csak a töltõ aljzata lakik, a portok többsége a gép bal oldalán van, elõre pedig azok kerültek, melyek a Dellnél baloldalt vannak: a fülhallgató és mikrofon, a wireless switch és a Firewire-port.  A T61 két PCMCIA foglalattal rendelkezett, míg a D630 eggyel, ugyanakkor utóbbin egy speciális foglalatot is találtunk, a Smart Card slotot, mely a chipkártyás azonosítás célját szolgálja -- nagyvállalati környezetben jól jöhet.
+
+
+
+Ma már teljesen szokványos a Wi-Fi vezérlõ és a gigabites Ethernet csatlakozók megléte, ugyanakkor egyik gépen sem található memóriakártya-olvasó, ami bár nem végzetes hiba, de jó szolgálatot tenne a kényelem terén. Ma már retro viszont egy notebook esetében, hogy van bennük analóg modem. Szintén sztenderddé vált ezeknél a gépeknél az ujjlenyomatolvasó, melyet jópár szervezetnél elõnyben részesítenek a magasabb biztonsági szint miatt. Az optikai meghajtó mindkét esetben jobboldalt található, és egy mozdulattal eltávolíthatóak a tömeg csökkentése vagy extra akkumulátor beillesztése céljából. Természetesen mindkét gép dokkolható, aki erre a luxusra vágyakozna.
+
+Használat
+
+A kijelzõk terén nem tartogattak igazán meglepetést a gépek, azt hozzák, amely elvárható ebben a kategóriában: matt, minimális tükrözõdést produkáló, transzflektív tulajdonsággal is bíró panelek, ami egyet jelent alacsony kontrasztú, alacsony fényerejû képpel, gyenge vertikális betekintési szöggel. Mindkét gép kijelzõjére igaz, hogy felfelé elmozdulva azonnal fátyolosodni kezd a kép, ahogyan lefelé a kijelzõ felsõ részének láthatósága romlik le. A Latitude panele azonban a ThinkPadénél kissé rosszabb, fakóbb színeket produkált a mi szemünknek -- ezen kalibrációval rengeteget lehet javítani.
+
+A D630 kijelzõje 1280x800-as (WXGA) fizikai felbontással érkezett, míg a ThinkPadé tûéles képet produkáló 1440x900 (WXGA+, 120 DPI) , de a Latitude is rendelhetõ opcionálisan magasabb felbontásúval. Mi egyértelmûen ezt ajánljuk, hiszen ekkor használhatjuk csak ki igazán a 14-es formátumban rejlõ lehetõségeket -- WXGA felbontást kisebb formátumban is kapunk, magasabb DPI mellett. A Vista és a mai korszerû szoftverek jól alkalmazkodnak a kijelzõ DPI-jéhez, akár optikai nagyítás révén akár, nagyfelbontású kép- és full HD (1080p) videoanyag fogyasztásakor pedig magától értetõdõ a nagyobb felbontás elõnye. A D630 fényszenzorral is rendelkezik, ami kényelmessé teszi az utazás közbeni használatot, és optimalizálja egyben az akkumulátoridõt.
+
+Billentyûzetével egyik gépnek sem kell szégyenkeznie, minimális megszokást igényelnek, és kényelmesen, gyorsan lehet rajtuk írni. A kiosztásban gyakorlatilag nincs lényegi eltérés, mechanikailag a D630 klaviatúrája lágyabb, míg a T61-é kopogósabb, de mindkettõjé rövid úton jár. Mielõtt azt mondanánk, hogy itt a D630 kerekedik felül, ez sajnos nem egyértelmû amiatt, hogy hiába raktak rá pöcökegeret, nincsen hozzá görgetõgomb, ahogyan a ThinkPadeken, így a touchpadhez kell nyúlnunk. Ezzel számunkra gyakorlatilag értelmét vesztette a trackpoint használata, melyet egyébként hitünk szerint kényelmesebb és praktikusabb mindennapi használathoz, mint a csuklófárasztó tapipad. A tapipadok mindkét gépnél megfelelõen funkcionálnak, beleértve a scrollozás képességét. Az éjszakai gépelést nagyban segítheti a T61 megszokott ThinkLight funkciója, mely egy LED-lámpával világítja meg a billentyûzetet.
+
+Ahol a D630 és T61 útjai némileg kettéválnak, az nem más, mint a melegedés. A ThinkPad mérnökei remek munkát végeztek: gyakorlatilag huzamosabb teljes terhelést (OpenGL renderelést futtattunk rajta, mely megterheli mindkét processzormagot és a Quadrót egyaránt) követõen sem igazán melegedett a T61, a felsõ részének felülete, ahol kezünk éri, gyakorlatilag langyos maradt, de az alja sem forrósodott fel. Igaz, a nagyteljesítémyû elektronika ekkor ontotta magából a hõt, így a baloldali szellõzõnyíláson ömlött ki a szinte forró levegõ. Összességében meglepett minket, mennyire hatékony is a T61 hûtése, pláne, hogy a jelen sorok írója által napi szinten használt ThinkPad X60s elég komoly melegedési problémákkal küzd, amit az X61s-nél már orvosoltak, cserébe hallhatóan hangosabb a hûtése.
+
+
+
+A D630-nál azonban némileg csalódnunk kellett a ThinkPadhez képest: a notebookoknál tipikus jelenség lépett fel, vagyis a csukló alatt kellemetlenül melegedni kezdett a gép huzamosabb terhelést követõen, jelen esetben a jobb oldalon. Az, hogy a gép alja szinte forró volt 1 órás renderelést követõen, elfogadható (tisztában vagyunk vele, hogy egy notebook esetében ez extrém terhelés, de ezeknél a gépeknél életszerû), hiszen nem ölben kell a Horton következõ részét animálni, de az ergonómiát nagyban rontja, hogy tartós terhelés alatt jelentõsen felmelegszik a jobb csuklótámasz. Ennek egyik oka, hogy a Latitude akkumulátora elöl kapott helyett, míg a ThinkPadé hátul, így az akkumulátor és a kapcsolódó elektronika, melyek jelentõs hõforrások lehetnek, a kézfej közelében kaptak helyet.
+
+Alacsony vagy csak átmeneti csúcsterhelés, sõt játékok esetén nem tapasztaltunk ilyen problémát, így összességében a D630 hûtésével sincs lényegében probléma -- mindössze a ThinkPadé jóval hatásosabbnak tûnt. A szenzorok a két gép között egyedül a grafikus chipnél mértek jelentõs különbséget, a Lenovóban a Quadro 67, míg a Dellben 79 fokra hevült, ezzel mutatva rá egzaktul is a két gép hûtése közötti különbségre. A processzorok 65-66 fokosak voltak, míg a merevlemezek 45 fok alatt maradtak mindkét esetben, vagyis a gépek a fizika behatás mellett a hõtõl is jól védik az egészségüket. 
+
+A gépek zajával kapcsolatban említésre méltót egyedül a D630 merevlemezes meghajtójának gyakori kattogásában, vagy sokszor inkább klattyogásában, valamint a felpörgést kísérõ magas hangjában találtunk. Ez érzékenyebb idegzetû felhasználókat idegesíthet. A notebookok egyébként megfelelõen halk járásúak, és csúcsterhelésen megfelelõen hangosak, ahogyan azt kell.
+
+	     
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                    A cikk több oldalból áll:
+                    
+                    
+                        1. oldal: Igáslovak jó áron: Lenovo ThinkPad T61 és Dell Latitude D630
+                      
+                        2. oldal: Teljesítmény, hordozhatóság, szoftverek
+                        
+                    
+                  

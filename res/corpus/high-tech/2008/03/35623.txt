@@ -1,0 +1,14 @@
+A fejlõdõ országokat célozza az Intel új kommunikációs megoldása
+
+[Techworld] Az Intel kutatói új kommunikációs megoldást fejlesztenek, a Rural Connectivity Platform (RCP) segítségével két, egymástól akár 100 km-re lévõ kapcsolódási pontot lehet olcsón és energiahatékonyan, akár 6,5 megabit/s-os sávszélességgel összekötni. Az RCP segítségével olyan helyekre is eljuthat a világháló, ahol eddig semmilyen megoldással nem lehetett ezt rentábilisan megoldani.
+
+
+
+A rendszerrel két pontot lehet összekötni, melyek végén a ma már filléressé és egyre elterjedtebbé váló Wi-Fi-vel lehet szétosztani az adott sávszélességet, a kapcsolatot. Az RCP-t Indiában, Panamában, Vietnámban és Dél-Afrikában tesztelték. Egy-egy kapcsolat kiépítése csupán 500-1000 dollárba kerül, jóval olcsóbb, mint bármilyen szélessávú megoldás megvalósítása, elõfizetése ilyen távolságokon, vagy mûholdon. A három adóvevõbõl álló rendszer mindössze 5-6 wattnyi energiát fogyaszt, így akár napelemekrõl, éjszaka pedig nappal feltöltött akkumulátorokról is üzemelhet.
+
+
+A nagy, akár 100 km-es -- optikai rálátás esetén -- hatótávolságot a Wi-Fi "újragondolásával", a TDMA moduláció módosításával érték el az Intel mérnökei. A rendszer ennél többet is nyújthatna, azonban itt már jellemzõen közbeszólnak a tereptárgyak, illetve maga a Föld görbülete. Az Intel videós demonstrációt is készített az RCP-rõl.
+
+
+
+Az RPC nem helyettesíti a WiMAX-et, vagy más, nagy sávszélességet és alacsony késleltetést nyújtó kapcsolódási megoldásokat, inkább kiegészíti azokat. A rendszert kifejezetten fejlõdõ országok számára fejlesztik, olyan helyek ellátására, ahova más megoldással nem lehet eljuttatni a világhálót.

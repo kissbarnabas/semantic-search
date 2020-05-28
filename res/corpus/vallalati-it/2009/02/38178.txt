@@ -1,0 +1,15 @@
+Ballmer: 2010-ben jöhet az új Microsoft Office
+
+Egy pénzügyi elemzõk számára rendezett konferencián Steve Ballmer, a Microsoft elnök-vezérigazgatója kijelentette, 2009-ben biztosan nem kerül piacra az Office 14, a vállalat irodai szoftvercsomagjának legújabb változata, amelynek egyelõre még végleges neve sincs -- a 2010-es debütálás alapján logikus lenne Office 2010-nek hívni.
+
+
+
+A Windows 7 árnyékában viszonylag kevés szó esik az új Office-ról. Korábban úgy tûnt, hogy a Vista és az Office 2007 közös megjelenéséhez hasonlóan az új irodai csomag is együtt érkezik majd az új asztali operációs rendszerrel -- a legtöbb üzleti felhasználó úgyis egyszerre váltja le a kettõt.  Ennek azonban némileg ellentmondani látszik, hogy a Windows 7 már a nyilvános bétaváltozatnál tart, állítólag hamarosan már a megjelenésre szánt verzió is megérkezik, az Office 14 azonban egyelõre csak alfa állapotú, a ZDNet által szerzett információk szerint a nyilvános bétaváltozata legkorábban a nyáron jelenhet meg.
+
+Persze nem lehetetlen, hogy a Windows 7 megjelenésével a Microsoft megvárja az Office 14-et, és mind a kettõt egyszerre dobja piacra 2010 elején. Valószínûbb forgatókönyv ugyanakkor, hogy a Windows 7 érkezését nem késleltetik, az Office 14 debütálását pedig az Exchange 14-hez, az új SharePoint Serveréhez, valamint az SQL Server következõ változatához igazítják, és a négy termék együtt érkezik 2010 elsõ felében. Ez abból a szempontból lenne logikus, hogy együtt komplett platformot alkotnak, ahol az egyes komponensek új képességei együtt aknázhatók ki a legjobban.
+
+
+ Korábban lapunk is megírta már, hogy a Project Gemini nevû kezdeményezés alatt a Microsoft olyan szolgáltatással vértezi fel az SQL Server 2010-et, amely lehetõvé teszi a szoros integrációt a Microsoft Office család tagjaival. Az Office-felhasználók közvetlenül a számukra már ismert felületen érhetik el az SQL Serverben tárolt adatokat, és az Office-ba épített képességek segítségével lényegében saját üzletiintelligencia-alkalmazásokat, egyfajta mash-upokat hozhatnak létre, amelyeket a SharePoint révén akár meg is oszthatnak egymással.
+
+Egyelõre azonban azt nem nagyon tudni, az új Office miféle fejlesztéseket tartalmaz. A Microsoft korábban már demonstrálta a böngészõben futó Web Applicationst, ezt leszámítva azonban gyakorlatilag semmiféle információ nem látott napvilágot a programcsomagról. A "webes Office" keretében a felhasználók a böngészõjükön keresztül érhetik el az Office-dokumentumokat, és online szerkeszthetik õket. A Word, Excel, OneNote és PowerPoint online változata kísértetiesen hasonlít majd a PC-re telepített szoftverhez, hasonló lesz a menürendszere is -- a cél az, hogy a felhasználók ugyanúgy tudják majd kezelni, mintha csak a saját gépükön levõ alkalmazást indították volna el.
+

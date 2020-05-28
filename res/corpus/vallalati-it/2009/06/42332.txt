@@ -1,0 +1,15 @@
+HP mérnöki-tudományos rendszer a gyõri egyetemen
+
+A Széchenyi István Egyetemen végzett kutató-fejlesztõ munkákat mostantól egy HP mérnöki-tudományos rendszer is segíti. Az új fejlesztésû berendezés nemcsak teljesítményével, hanem kis méretével és majdnem a hétköznapi asztali számítógépekkel azonos megjelenésével is figyelemre méltó. A gép ma Magyarország legnagyobb kapacitású mérnöki-tudományos rendszere, több
+mint 1 teraflopos elméleti számítási csúcsteljesítménnyel. 
+
+
+
+A konfiguráció 6 darab HP BL2x220c blade szerverbõl áll, ez összesen 12 csomópontot jelent. A számítógépben összesen 24 darab 3 GHz-es négymagos Intel Xeon 5400-as sorozatú ("Harpertown") processzor és 208 gigabájt memória található. Az elsõdleges háttértárat 6 darab RAID-be kötött, 146 gigabájtos SAS diszk biztosítja, emellett minden szerverben van egy 250 gigabájtos SATA merevlemez is, így az összesített háttértár-kapacitás 4,3 terabájt&nbsp; -- mondta el a HWSW-nek Haraszti Attilla, a HP üzletfejlesztési menedzsere. A szerverek közti kommunikációt a gigabit Etherneten felül InfiniBand csatolók biztosítják 3 ms-os késleltetés mellett 20 gigabit sávszélességen. A teljes rendszer fogyasztása mindössze 4 kW.
+A HP és a Delta Informatika által üzembe állított rendszer elméleti csúcsteljesítménye 1 teraflops feletti, amivel alighanem az ország legerõsebb mérnöki-tudományos számítógépe. Összehasonlításképp: az Országos Meteorológiai Szolgálat által 2006-ban üzembe állított SGI Altix rendszer 144 processzorral rendelkezik, teljesítménye 900 gigaflops. A HWSW tudomása szerint eddig ez volt a legnagyobb teljesítményû számítógép Magyarországon.
+Az anyagi forrást a Széchenyi István Egyetem sikeres K+F pályázati
+tevékenysége biztosította, ami egyúttal valódi esélyt ad a mostani
+nehéz gazdasági helyzetben is a csúcstechnológiai kutatások
+folytatásához és az oktatás színvonalának emeléséhez. egyetemen.A közbeszerzés keretében
+vásárolt számítógép ára 22 millió forint volt, s fõként mérnöki
+számítási feladatokat végez majd az A Széchenyi István Egyetemen eddig a Rába számára végeztek mérnöki számításokat, az Audi számára pedig áramlástani vizsgálatokat. A német eutógyár megrendelésére legutóbb például azt modellezték, hogy mennyi hangot generál a visszapillantó tükör 120 km/h-ás sebességnél.

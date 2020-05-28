@@ -1,0 +1,56 @@
+BlackBerry Bold -- Boldogok az üzletemberek
+
+A kanadai Research in Motion (RIM) okostelefonjai az öreg kontinensen kissé mostoha körülmények közepette kénytelenek létezni, hiszen Európában a Nokia árnyékában egyetlen konkurensnek sem könnyû piachoz jutnia. Pedig a gyártó BlackBerry sorozata itt is népszerû, több cég üzemeltet vállalati szintû BlackBerry-szolgáltatást -- mely ezeknek a telefonoknak mondhatni kötelezõ kiegészítõje --, a telefonokat a legtöbb európai szolgáltató szerepelteti kínálatában. A nyár óta immáron mindhárom hazai mobilcég portfóliójában fellelhetõ BlackBerry telefon és -szolgáltatás, mi most a májusban bejelentett, a T-Mobile kínálatába õsszel került BlackBerry Boldot próbáltuk ki.
+
+
+
+Hûvös elegancia
+
+A kizárólag üzleti okostelefonokban utazó RIM BlackBerry Boldja, azaz a 9000-es modell a cég legtöbb eddigi megoldásához hasonlóan egy teljes QWERTY-billentyûzetes telefon, ennek megfelelõen nem tartozik a kimondottan karcsú készülékek közé (a kategória királya ebbõl a szempontból minden kétséget kizáróan a Nokia E71). Volt is nála kisebb BlackBerry, megállapíthatjuk ugyanakkor, hogy a Bold az eddig készült legelegánsabb, leginkább letisztult külsejû telefonja a RIM-nek. Ez részben az anyaghasználaton is felfedezhetõ; egyes korábbi modellek csúnya festett mûanyag burkolatát itt fényes, modern elõlap, alumínium keret és bõrborítású hátlap helyettesíti.
+
+
+
+A BlackBerry Bold kezelhetõ méretû okostelefon; a készülék 6,6 centiméter széles, 11,4 centiméter magas és nagyjából 1,5 centiméter vastag, kényelmesen elfér a kézben, a gépelés két hüvelykujjal komfortos. A gombok több korábbi modellel ellentétben szorosan egymás mellett sorakoznak, formájuk jól kitapintható, nyomáspontjuk jobb nem is lehetne. A T-Mobile angol kiosztású billentyûzettel forgalmazza a telefont, az ékezetes karakterek kissé szokatlan módon, a középsõ trackpoint segítségével gépelhetõk be.
+
+Ez utóbbi vezérlõelem központi szerepet kap a BlackBerry Bold használata során, a menükben ezzel a miniatûr görgetõgolyóval lehet a különbözõ elemek közt váltani, illetve lenyomásával jóváhagyni a változtatást. A trackpoint mellett balra és jobbra egy hatalmas fõmenügomb és egy az elõzõ menübe visszalépésre szolgáló gombot találni, ezek funkciója nem is programozható át.
+
+A gombok felett található a BlackBerry Bold legimpozánsabb része, a HVGA, azaz 480x320 pixeles felbontású, 2,8 hüvelykes képátlójú TFT. A telefon kijelzõje bár elméletileg csupán 65 ezer szín megjelenítésére képes, mégis az általunk valaha látott egyik legélénkebb színû képet adó megjelenítõ, nem csak jó színekkel, de kiváló kontraszttal és fényerõvel. A fényerõ több hasonló modellel egyezõen egy fényérzékelõ bevonásával dinamikusan változik a környezeti fényviszonyok függvényében.
+
+Okos és erõs
+
+A telefonon a RIM saját fejlesztésû operációs rendszerének, a BlackBerry OS-nek a legújabb, 4.6-os verziója fut. A szoftvert kiszolgáló hardverháttér okostelefon-viszonylatban kifejezetten erõsnek tekinthetõ: a rendszer lelkét egy 624 MHz-es, Marvell Tavor PXA930-as processzor adja, 1 gigabájtnyi készülékmemóriával és 128 megabájtnyi alkalmazásmemóriával megtámogatva. A Boldba microSD kártyákat illeszthetünk, az alapcsomag része egy 1 gigabájtos példány.
+
+A BlackBerry Bold a SIM-kártya és az akkumulátor behelyezése után automatikusan bekapcsol, ezt követõen a gyors hardvert meghazudtoló, csigalassúságú bootolási folyamat veszi kezdetét. A telefon közel három perc elteltével tér magához, szerencsére ezután nem kell minden kikapcsolás után ennyi idõt várni, a szoftver ilyenkor csak mélyalvásba küldi a telefont, amibõl pár másodperc alatt felébreszthetõ. Van készenléti üzemmód is, ilyenkor úgy spórolja a lehetõ legtöbb energiát a készülék, hogy a tulajdonos közben értesül a beérkezõ hívásokról.
+
+
+
+Az elsõ bekapcsolást az alapbeállítás követi, ezután máris használatba vehetõ a BlackBerry Bold. A teljes mértékben az üzleti felhasználók igényei szerint kialakított szoftverháttér mondhatni minden sallangot nélkülöz, az elõretelepített alkalmazások köre csak a lényegre koncentrál: van Microsoft Office-kompatibilis dokumentumolvasó- és szerkesztõ, videofelvevõ, hangjegyzet-készítõ, jegyzettömb, jelszómegõrzõ, a szórakozáshoz médialejátszó, néhány játék, és persze a BlackBerry Messenger azonnali üzenetküldõ legfrissebb verziója. A grafikus fõmenü kifejezetten szép, mélyebben viszont már csak szöveges menüpontokat találni.
+
+Csak üzletembereknek
+
+A telefon vérbeli vállalati megoldás, ilyenformán a legkevésbé sem ideális választás magánszemélyeknek, melyet egyebek mellett az is bizonyít, hogy a kommunikációs lehetõségeket tekintve BlackBerry Bold igazán akkor tudja kivillantani a foga fehérjét, ha BlackBerry Enterprise Server kiszolgálóhoz csatlakozik. Ez a BlackBerry telefonokhoz kifejlesztett vállalati platform az összes ismert és elterjedt céges levelezõrendszert (Microsoft Exchange, IBM Lotus Domino, Novell GroupWise) támogatja, a fizetõs BlackBerry Internet Service (a T-Mobile BlackBerry Instant E-mail néven kínálja) szolgáltatáson keresztül pedig maximum tíz, tetszõleges e-mail postafiók szinkronizálható a telefonra. A push technológiának hála az adatforgalom a minimálisra csökkenthetõ: a hagyományos levelezõkkel szemben itt nincs idõnkénti szinkronizálás, csakis akkor történik adatátvitel, ha valami változás áll be a levelezõszerveren.
+
+
+
+A Bold WLAN-hálózaton és HSDPA-adatkapcsolattal csatlakozhat a szerverhez, illetve az internetre, a gyári böngészõ gyorsan rendereli a weboldalakat, a tördelés is jól sikerül többnyire, a Flash-támogatás azonban -- akárcsak az iPhone esetében -- sajnos itt is hiányzik, így néhány oldal megtekintésérõl le kell mondania a tulajnak. A böngészõ használata ezt az egy fiaskót leszámítva kézenfekvõ és kényelmes: a trackpointtal vezérelhetõ kurzor gombnyomásra ránagyít a tartalomra, a görgetés folyamatos, de az iPhone beépített Safari böngészõjét ezen a téren egyelõre semmi nem tudja megverni.
+
+A RIM a modern üzletember elvárásainak megfelelõen természetesen GPS-vevõvel is ellátta a Boldot, az alapesetben telepített egyszerû térképalkalmazást, az uniós tagországok térképeit tartalmazó BlackBerry Mapset a TeleAtlas szállítja -- aki komolyan ki szeretné használni a navigációt, telepítheti a Garmin Mobile-t, esetleg a TeleNav GPS Navigatorát. A beépített, 2 megapixeles fényképezõgéppel készített felvételek a helyszín koordinátáit is tárolják (geotagging) -- az ötszörös digitális zoomra alkalmas kamera vakut is kapott, valamint videorögzítésre is be lehet fogni, a minõségtõl azonban nem szabad csodát várni.
+
+Azért szórakoztatni is tud
+
+Ha már szóba került a kamera, érdemes kitérni a BlackBerry Bold egyéb multimédiás képességeire, melyekkel kapcsolatban le kell szögeznünk, hogy ahhoz képest, hogy esetünkben egy keményvonalas üzleti telefonról van szó, nem fukarkodott a RIM. A telefon alapból támogatja a DivX/XviD, H.263 valamint H.264 tömörítési formátumokat, az audioformátumokból és kodekekbõl pedig a szokásos MP3/WMA páros mellett a .3gp-t, az AAC/AAC+/eAAC+ formátumokat, illetve a MIDI zenéket is ismeri. Az alap médialejátszónak sem kell szégyenkeznie funkcióit tekintve, a zene a gyári, közepes minõségû fülesen, netán Bluetooth-eszközön keresztül hallgatható, illetve bekapcsolható a BlackBerry Bold elképesztõen hangos, ezzel együtt meglepõen tisztán szóló kihangosítója is.
+
+
+
+
+A BlackBerry Bold képességeinek a felsorolása ezzel még korántsem ért a végére, több cikken keresztül értekezhetnénk például a szintén az üzleti felhasználók számára létfontosságú titkosítási és biztonsági rendszerekrõl, vagy éppen a különlegesen aprólékos profilbeállítási lehetõségekrõl, melyek figyelembe veszik azt is, hogy a telefon a tokjában pihen-e, vagy csak szimplán kiraktuk az asztalra. Kivesézhetnénk a bõséges beállítási lehetõségeket nyújtó menüt, melyben -- lévén egyetlen más készülék sem rendelkezik ilyen rendszerrel -- kezdetben igen hamar el lehet veszni, illetve az alapvetõen nagyon tetszetõs, mégis szolid felhasználói felületet is részletesen tárgyalhatnánk.
+
+A Nokia E71 mellett
+
+A telefont a szokásosnál hosszabb barátkozási idõszak után élvezet volt használni, a BlackBerry rendszere jól belakható és bár nem nyújt olyan testreszabási lehetõségeket, mint például a Nokia Series 60 vagy a Windows Mobile, alapvetõen jól ellátja a feladatát, különösen, ha a munkahelyi szerverek támogatják a telefon üzenetküldõ protokollját. A BlackBerry Bold operációs rendszere a tesztidõszak alatt néha azért megmakacsolta magát, bár ezt a problémát mi korántsem láttuk olyan kritikusnak (nem úgy, mint az angol Orange szolgáltató, mely októberben a szoftverhibákra hivatkozva leállította a telefonok forgalmazását).
+
+A Bold véleményünk szerint elsõsorban azoknak az üzletembereknek lehet jó választás, akik nem szenvednek telefonfétisben, ettõl függetlenül egy mindentudó okostelefont szeretnének használni. A készülék noteszgépes analógiával élve leginkább az okostelefonok ThinkPadje lehetne, azaz a Bold egy a külsõségekre kevesebb hangsúlyt fektetõ, vérbeli igásló, fejlett hardverrel és egyedi fejlesztésû szoftverrel. A telefon Magyarországon egyedül a T-Mobile kínálatában érhetõ el, 111 ezer forintos listaáron.
+
+Véleménye van?
+Szóljon hozzá a fórumban
+írjon szerkesztõségünknek!

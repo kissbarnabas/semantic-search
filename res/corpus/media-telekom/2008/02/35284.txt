@@ -1,0 +1,14 @@
+A Netgear a mobilszolgáltatóknak kínálja saját otthoni adótornyát
+
+[Techworld] A Netgear a jövõ heti barcelonai Mobile World Congress 2008 rendezvényen mutatja be saját femtocelláját, azt a "házi mobiltornyát", mely egyetlen eszközben tartalmaz mindent, amire szükség lehet. A DVG834GH mobilhálózat-internet átjáró a Nokia Siemens Networks standján is megtekinthetõ lesz.  A Netgear reményei szerint többek között a mobilhálózati beszállító is minõsíteni fogja termékét, mely kapcsolódhat a mobilszolgáltatóknál telepítendõ Femto Gateway platformhoz.
+
+
+
+A DVG834GH típusjelzésû Femtocell Voice Gateway átjáróban nem csak egy HSDPA-képes, harmadik generációs hálózatokat támogató femtocella, hanem egy ADSL2+ modem, egy dupla SPI-tûzfallal ellátott router, VoIP-port és egy Wi-Fi hozzáférési pont is helyet kapott -- minden benne van, amire szükségünk lehet, mindent egyetlen eszköz valósíthatja meg. A Netgear a Ubiquisys technológiáját építette az átjáróba.
+
+A femtocellákkal helyi mobilcellákat hozhatunk létre, melyek egy helyi lefedettséget nyújtó mobil adótoronyként üzemelnek. Ehhez a kis hatósugarú mobilcellához kapcsolódhatnak hétköznapi mobileszközeink, mobiltelefonunk, noteszgépbe helyezett adatkártyánk. A helyi cellát létrehozó berendezés kapcsolódik szélessávú internetünkre is, melyen keresztül olcsóbb telefonálást is nyújthatnak a szolgáltatók, hazaérkezve mobiltelefonunkkal az otthoni mobilcellára csatlakozva és VoIP-technológiát igénybe véve olcsóbban, akár ingyen is beszélgethetünk majd.
+
+
+A DVG834GH átjáróval HSDPA kapcsolatot is létrehozhat majd noteszgépünk adatkártyája, mely hazaérkezve nem a mobilszolgáltató hálózatán, hanem a saját szélessávú internetünkön keresztül tölti majd le az adatokat az internetrõl -- bár a Netgear átjárója ezt Wi-Fi-n is lehetõvé teszi.
+
+A Netgear megoldást szeretne nyújtani az egyik sarkallatos pontra, mely a femtocellák alkalmazása ellen állhat: a gyártó a végletekig egyszerûsíteni szeretné a konfigurálást. A Netgear telepítési segédlete, a Smart Wizard Install Assistant automatikusan detektálná és beállítaná az átjárót a különbözõ internetcsatlakozásokhoz. A mobilszolgáltatók már tesztelhetik az amerikai gyártó termékét, mely 2008 elsõ félévében kerülhet egyelõre ismeretlen áron a boltokba, illetve a szolgáltatók kínálatába.

@@ -1,0 +1,12 @@
+Megjelent az Exchange Server 2007 SP2
+
+Tegnap megjelent az Exchange Server 2007 második szervizcsomagja, amely többek között auditálhatóság, adatmentés és felügyelhetõség terén hoz fontos újdonságokat, valamint elengedhetetlen ahhoz, hogy az Exchange Server 2007 egy hálózatban üzemelhessen az Exchange Server 2010-zel.
+Az SP2-be bekerültek az auditálást megkönnyítõ fejlesztések, megjelent egy külön tárház (repository) az audit logok számára, ami a cég szerint megkönnyíti az auditált események kezelését és a naplók kezelését. A rendszergazdák életét teszi kényelmesebbé az SP2-ben debütáló új PowerShell programok, amelyekkel az Exchange Server szervezeti beállításait lehet módosítani, illetve a kvótákat is be lehet állítani. További újdonság, hogy az Exchange Management konzolból már diagnosztikai logokat is el lehet érni.
+
+A Volume Snapshot Backup segítségével a Windows Server 2008-ból indított mentésekkel együtt menthetõk az Exchange Server 2007 SP2-ben tárolt adatok is is, ezt a szolgáltatást eddig csak utólag telepített bõvítményekkel lehetett elérni, az SP2-vel azonban mindenki számára elérhetõvé válik.
+Az egyik legérdekesebb újdonság az Active Directory sémák kezelésével kapcsolatos. Az Exchange Server 2007 SP2-ben megjelenik az automatikus sémabõvítés, vagyis ha az Active Directory olyan objektumtípusra vagy -tulajdonságra hivatkozik, amely nincs benne a sémában, akkor az Exchange Server automatikusan bõvíti a sémát. Errõl a képességrõl részletesen a Microsoft TechNeten lehet olvasni.
+A redmondi cég szerint az Exchange Server 2007 SP2 megkönnyíti majd az átállást Exchange Server 2010-re, ezért mindenképp ajánlott a telepítése azoknak a felhasználóknak, akik késõbb a 2010-es verzióra szeretnének migrálni. Amint arról a HWSW is beszámolt, a Microsoft nemrég adta ki az Exchange Server 2010 kiadásra jelölt változatát. Az RC már a végleges verzióba szánt összes képességet és szolgáltatást tartalmazza. A redmondiak elsõsorban teljesítmény, funkcionalitás (üzenetek archiválása, jogvédelme, felesleges e-mail forgalom csökkentése,  megújult Outlook Web Access), illetve felügyelhetõség terén dolgozták át a kommunikációs szervert, amelynek végleges változata még az idén megjelenik, alighanem a Windows 7-tel és a Windows Server 2008 R2-vel együtt. Bár az RC funkciókész, a felhasználói oldal újdonságaihoz az Outlook 2010-re is szükség van.	     
+                  
+                  
+                  
+                   

@@ -1,0 +1,14 @@
+Új mérföldkõhöz érkezett a nyílt forrású grafikus hardverek fejlesztése
+
+Az Open Graphics Project egyik korai gyümölcseként elõrendelhetõ már az OGD1 kártya. Az OGD1 egy hardverfejlesztési platform, melynek segítségével a nyílt forráskódú közösség reményei szerint a jövõben a végfelhasználók számára is megfelelõ grafikus kártyák készülhetnek.
+
+
+
+Az Open Graphics Project (OGP) célja, hogy nyílt forrású grafikai hardverarchitektúrát hozzon létre, hasonlóan a nyílt forráskódú szoftverekhez -- elsõsorban nyílt forráskódú szoftverek számára. A projekt létrejötte a grafikus chipeket szállító vállalatok gyenge drivertámogatásának eredménye. A Traversal Technology által kifejlesztett OGD1 feladata lesz, hogy teljesen nyíltan dokumentált grafikus hardver kifejlesztését segítse programozható kapumátrix chipje (FPGA) révén, de az Open Hardware Community vélhetõen egyéb hardverek kifejlesztésében is alkalmazza majd.
+
+
+A PCI/PCI-X felületen csatlakozó OGD1 lelkét egy Xilinx Spartan-III XC3S4000 FPGA adja egy Lattice LFXP10 FPGA társaságában. A kártyán 256 megabájt DDR400-as memória foglal helyet 128 bites sínen, 2 DVI és egy S-video kimenet található. Az OGD1 jelenleg B revíziója gyakorlatilag üresen érkezik, vagyis nincs felprogramozva semmilyen alkalmazási területre, a Traversal a közeljövõre ígéri a VGA emulációt végzõ logikai programozást, mellyel már felbootolható akár egy PC is.
+
+
+
+Az OGD1 egyúttal finanszírozási forrásként is szolgál a Traversal és az OGP számára, melybõl finanszírozni lehet majd a grafikus logika, majd a chip elektronikai kifejlesztését -- egy használható, termelésbe küldhetõ design létrehozásának költsége több millió dollárra rúghat. A kártya listaára 1500 dollár. A chip Verilog kódját és a kártyák felépítését GPL, a BIOS-t és a drivereket BSD licenc alatt tervezik közzétenni majd. További részletek a Traversal oldalán találhatóak.

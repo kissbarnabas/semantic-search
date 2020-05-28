@@ -1,0 +1,12 @@
+Ingyenesen elérhetõ a Microsoft rendszergazdáknak szóló tananyaga
+
+Letölthetõvé vált a Microsoft honlapjáról a Windows-rendszergazdáknak szánt Rendszerfelügyelet Rendszergazdáknak címû könyv, mely a vállalat által tartott kurzusok tananyaga is egyben. 
+
+
+
+A tankönyv az alapok áttekintésétõl kezdve Windows Vista kliensek,  Windows Server 2003 R2 kiszolgálók és hálózatok adminisztrációján át a virtuális gépekbe is bevezeti az olvasót. A könyv, mely nyomtatott formában is megvásárolható, azt ígéri többek között, hogy a legtöbb rendszergazda számára ismeretlen biztonsági beállításokat is megmutat, valamint számos, a Windows-hálózatokban elõforduló problémára használható megoldást kínál. Az elsõsorban kezdõknek és kevéssé tapasztalt rendszergazdáknak írt könyvet, melynek szerzõi minõsített rendszermérnökök, a Microsoft szerint haladóknak is érdemes forgatni, ugyanis számukra is tartogathat új, érdemi információkat.
+
+
+A cég nemcsak a könyvet digitalizálta be, hanem az Informatika Tisztán kurzusokon tartott kapcsolódó prezentációkat és demonstráló screencastokat is elérhetõvé tette, sõt a tanulás segítésére Vista és Server 2003 virtuális gépek letölthetõek. "Néhol alap dolgok, néhol keményen benne a sûrûben" -- írja pgyafi néven a HWSW Fórumon egy résztvevõ. Hozzáteszi, "Haladónak,  gyakorlottnak jó, profinak kevés".
+
+A tananyag ingyenesen, regisztráció nélkül elérhetõ a Microsoft Magyarország weboldaláról.

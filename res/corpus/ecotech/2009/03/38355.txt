@@ -1,0 +1,16 @@
+2009 sem lesz a desktop Linux éve
+
+Drámaian visszaszorul a Linux a netbookpiacon -- állítja a tajvani Market Intelligence & Consulting Institute. A kezdetben kizárólag Linuxszal megvásárolható Eee PC sikerének köszönhetõen tavaly rengeteg netbookot adtak el Linuxszal, idén azonban 10 eladott gépbõl csak 1 lesz linuxos.
+
+
+
+Az MIC adatai azt mutatják, tavaly világszerte 11 millió netbook talált gazdára, idén az eladások 23,2 millióra nõhetnek. A piac dinamikus bõvülése ellenére a Linux egyre inkább visszaszorul, ahogy a legnagyobb netbookgyártók új modelljein szinte kizárólag Windows fut, mert a fogyasztók felõl erre van igény és szívesen megfizetik a Microsoft operációs rendszere által jelentett felárat is. "A vásárlók azokat a netbookokat kedvelik, amelyen a meglevõ windowsos asztali gépükrõl vagy notebookjukról megszokott munkakörnyezet fut" -- áll az MIC jelentésében, amely arra is kitér, hogy a Linuxnak még van mit behoznia a hardverkompatibilitás terén is. 
+
+
+ A Microsoft felismerve azt, hogy a netbookok óriási népszerûségre tesznek szert, életben tartotta a Windows XP-t és jelentõs kedvezménnyel kínálja azt a gyártóknak a Vista mellett. A cég a Windows 7 fejlesztésénél már egyértelmû célul tûzték ki, hogy az operációs rendszer jól fusson a netbookokon is. Steven Sinofsky, a Windows 7 fejlesztését irányító Microsoft-vezetõ szerint egy Atom processzoros, 1 gigabájt memóriával felszerelt gép már elég akár az Ultimate verzió futtatásához is.
+
+Az x86-os netbookok piacát tehát látszólag elvesztette a Linux, a szabad operációs rendszernek azonban reményt adhat az ARM-alapú netbookok megjelenése, az ARM utasításkészlet-architektúrán ugyanis nem futnak a népszerû asztali Windowsok. A júniusi Computexen több ARM-alapú netbookplatform megjelenése várható, az elsõ kézzelfogható termékek pedig az év második felére születhetnek meg. Ezek várhatóan kevesebbet fogyasztanak és olcsóbbak is lehetnek az x86-os társaiknál, utóbbi különbséget fokozhatja az ingyenes vagy sokkal olcsóbb operációs rendszer is.
+
+[+] Többféle ARM-platform érkezik a netbookpiacra 
+
+Hogy milyen Linux-változatok lesznek elérhetõk ARM-platformon, azt egyelõre nem tudni, azt viszont tudjuk, melyik marad ki biztosan. A  Microsofttal szoros kapcsolatokat ápoló Novell nem kívánja a SUSE Linux Enterprise Desktopot ARM-ra portolni, pedig ez a disztribúció viszonylag népszerû a netbookokon, az MSI, a HP és a Lenovo gépein is elõre telepítve kapható. Markus Rex, a vállalat nyílt platformmegoldásokért felelõs alelnöke szerint valóban nagy érdeklõdés van jelenleg az ARM-alapú netbookok iránt, de a Novellnek nincsenek tervei az ARM platformmal.

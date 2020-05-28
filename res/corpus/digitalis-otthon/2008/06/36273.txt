@@ -1,0 +1,70 @@
+Kipróbáltuk, melyik a jobb mini notebook: MSI Wind vagy HP 2133?
+
+Az aprócska Asus Eee PC tavalyi megjelenésével létrejött netbook-kategória az Intel Atom platformjának megérkezésével kezd igazán kiteljesedni, a gyártók sorra jelentik be erre épülõ megoldásaikat. A gépek külseje, megvalósítása ugyan eltérhet, de a koncepció mindenütt azonos: egy olcsó, széles tömegek számára elérhetõ apró notebookot létrehozni mindennapos feladatokra, például iskolai vagy egyetemi jegyzeteléshez, szövegszerkesztéshez, no meg persze internetezéshez.
+
+
+
+A Computex 2008 szakkiállításon bemutatkozott Intel Atom chip köré az összes ismert és kevésbé ismert tajvani cég épít gépet, köztük az a Gigabyte, az Acer, az Asus és az MSI is. Utóbbi két cég itthon leginkább az alaplapjairól és grafikus kártyáiról ismert, de már a noteszpiacpon is jelen vannak, az Asus több, az MSI kevesebb sikerrel. Az Atom-alapú MSI Wind megjelenése biztosan sokat lendít majd a cég szekerén.
+
+A HP a többiektõl némileg eltérõ utat választott, és az Atom platform helyett a VIA processzorára szavazott. A cég alighanem arra számított, hogy a HP 2133 megjelenésére már elkészül a cég vadonatúj Nano processzora, azonban a számításba némi hiba csúszott, a fejlesztés késedelmet szenvedett, ezért a cég apró noteszének szíve jelenleg a 2006-ban bemutatott VIA C7-M. A HP 2133 és az MSI Wind ugyanabba a kategóriába tartozik, áruk is hasonló, ezért mertük összehasonlítani õket.
+
+
+
+Külsõ stílusjegyek, kijelzõ, billentyûzet
+
+Ami a külsõt illeti, a HP gépe vitán felül jobban kidolgozott, igényesebb termék benyomását kelti a fémborításával és ezüstös színével, az MSI Wind mattfehér burkolata sokkal olcsóbb hatást kelt, de ne felejtsük el, hogy itt valóban olcsó gépekrõl van szó. Az MSI által választott anyagokkal sincs különösebb probléma, de a HP 2133 kétségtelenül szebb, jobb érzés ránézni, kézbefogni -- egy pont a kaliforniaiaknak.
+
+
+
+
+A HP 2133 fémszínû fedele alatt egy 8,9 hüvelyk átlójú, 1280x768 pixel felbontású fényesen tükrözõdõ kijelzõt találunk, de a vastag káva arra enged következtetni, hogy a tervezõk gondoltak egy esetleges nagyobb megjelenítõ beépítésének lehetõségére is. Szükség is van rá, mert a 8,9 hüvelykes méret túlságosan kicsi, olvasáshoz igen közel kell hajolnunk, ha viszont megnöveljük a betûméretet, egybõl szûkös lesz a hely. Azt viszont a HP 2133 javára kell írni, hogy a kis kijelzõ és nagy felbontás együttesen nagyon finom rajzolatot eredményez, sehol egy pixel. A nálunk járt MSI Wind kijelzõje 10 hüvelykes, 1024x600 pixeles, és szerencsére nem fényes, ezért sokkal jobban látható, olvasható, még nagyítás nélkül is. Elsõre nem tûnik nagy különbségnek az 1,1 hüvelyk, de képernyõ-területben több mint 25 százalékot jelent a Wind javára. 
+
+
+
+
+Egy notebooknál a kijelzõ mellett a másik fontos emberi interfész a billentyûzet. A HP 2133-nál a tervezõk megoldották, hogy a billentyûzet a teljes rendelkezésre álló területet elfoglalja, így aztán a billentyûk elég nagyok, kényelmes rajtuk a gépelés. Az iránybillentyûket a jobb alsó sarokba számûzték és lekicsinyítették, így aztán a betûk, számok elég nagyok maradhattak, könnyû megszokni a HP billentyûzetét. A Winden kicsit kisebbek a gombok, de még így is remekül használhatók, még hosszabb szöveg megírása sem fárasztó az MSI netbookján. Mindkét gép tapipadja aprócska, a HP-nál a gombokat kétoldalra számûzték, a Windnél pedig egy vékony csíkba vonták össze. Egyik megoldást sem mondanánk kimondottan kényelmesnek, de ha választani kell közülük, a Windé talán egy árnyalatnyival jobb, de csak a gombok elhelyezése miatt.
+
+
+
+
+Mindkét gép kialakítása egyforma abban a tekintetben, hogy a kijelzõ felnyitva ráhajlik a noteszek hátsó élére, így itt nem jutott hely egyetlen csatlakozónak sem, azok oldalra kerültek. Ebben a versenyben kicsit nagyobb mérete okán az MSI Wind a nyerõ, mivel eggyel több, összesen három USB portot tud felvonultatni a HP 2133 két csatlakozójával szemben, cserébe a HP masina bal oldalán van egy ExpressCard-foglalat, ami viszont a Windrõl hiányzik. A több portot tekintve mindkét gép ugyanazt tudja, DSUB-, fülhallgató-, mikrofon-, és Ethernet-csatlakozó van rajtuk egy multiformátumú kártyaolvasó mellett. A Wi-Fi és a Bluetooth is mindkettõben alapfelszereltség része.
+
+
+
+
+
+
+
+Teljesítmény
+
+A külsõ után jöjjön a belbecs! Az MSI Wind szíve egy 1,6 GHz-es Intel Atom N270 processzor, illetve a hozzá tartozó Intel 945GME chipset, integrált GMA950 videovezérlõvel. A nálunk járt gépbe 1 gigabájt memória került, de ez kétszeresére bõvíthetõ, a mai memóriaárak mellett érdemes is minél többet rendelni bele. Az adatok tárolásáról egy 80 gigabájtos merevlemez gondoskodik. Ezzel szemben a HP masinában 1,2 GHz-es ultra-alacsony feszültségû VIA C7-M processzor dolgozik 2 gigabájt DDR2-677 memória és integrált Chrome9 grafikus vezérlõt tartalmazó VIA VN896 chipkészlet társaságában.
+
+Ez az a pont, ahol a két gép közötti verseny végleg el is dõl. Egészen megfelelõ a HP 2133 teljesítménye, amíg nem kezdünk lebegõpontos &#8211;intenzív kód futtatásába. A két éve piacra dobott VIA C7-M kezdetleges, futószalag nélküli lebegõpontos egységének még egy Youtube-videó lejátszása is komoly gondot és 100 százalékos terhelést jelent, teljes kijelzõn pedig már akad is a kép, ahogy a notesz elér a képességeinek határára. Elõször azt gondoltuk, csak az elõre telepített Windows Vista miatt ilyen kétségbeejtõ a helyzet, de sajnos Windows XP alatt is ugyanaz maradt a tempó. A 2133-nak úgy hiányzik a VIA új fejlesztésû, az ígéretek szerint a C7-M-nél kétszer gyorsabb Nano processzor, mint egy falat kenyér.
+
+
+
+Ezzel szemben az 1,6 GHz-es Intel Atom nagyvonalúan teszi a dolgát, a Winden még 720p felbontású videót is zökkenõmentesen lehet nézni 25-30 százalékos processzor-terhelés mellett -- lehet, hogy még az 1080p-vel is megbirkózna, de a kijelzõ függõleges felbontása 600 pixel, ezért ezt nem próbáltuk. További boldogságot jelenthet a jövendõbeli Wind-tulajdonosok számára, hogy az Atom chip még terhelve sem fogyaszt sokat, az MSI gépbe épített ventilátor hangját alig-alig lehet hallani, és a gép is csak enyhén melegszik használat közben.
+
+Fogyasztás, akkumulátoros üzemidõ
+
+A két gép teljesítményének összevetése alapján arra következtethetnénk, hogy a VIA C7-M sebességét alacsony fogyasztásával ellensúlyozza, de sajnos nem ez a helyzet. A korszerûtlen, 90 nanométeres csíkszélességgel gyártott chip ráadásul gyorsan fel is forrósodik, a fémháznak átadva a hõ egy részét. Ilyenkor a notebook úgy felmelegszik, hogy kézben tartani már-már lehetetlen, és a hûtõventilátor is felhangosodik. Pontos fogyasztási adataink nincsenek a HP 2133-ról, de a Battery Eater Pro Reader tesztje szerint a hatcellás, 55 Wh kapacitású akkuval szerelt gépet mintegy 4,5 órán át lehet egy feltöltéssel szöveg olvasására használni kikapcsolt vezeték nélküli hálózati vezérlõkkel.
+
+
+
+
+Az Atom platformak köszönhetõen a Wind akkumulátoros üzemidõben is ellép. Kikapcsolt vezeték nélkül hálózati vezérlõkkel, a kijelzõ fényerejét 20 százalékra állítva 8-9 wattra csökkenthetõ a rendszer fogyasztása. A gépben található 1,3 megapixeles webkamerát érdemes kikapcsolni, ezzel további 1,5-2 wattot lehet megtakarítani. Méréseink szerint a Wind így 7 wattot fogyaszt Windows XP alatt, "semmittevés" közben, ilyenkor a hátralevõ akkus üzemidõ több mint 7 óra. Nagyfelbontású videó lejátszásakor a fogyasztás nálunk 15-16 wattra ment fel, az 55Wh kapacitású, hatcellás  akkumulátortól tehát még ilyen extrém terhelés mellett is több mint 3,5 óra üzemidõre számíthatunk.
+
+A Winden az Fn+F10 gombokkal aktivizálhatjuk a "Turbo battery" módot, amivel elvileg válthatunk az energiatakarékos és teljesítményre optimalizált módok között -- mi azonban nem jöttünk rá, mi változik ennek megnyomására azon kívül, hogy a energiatakarékos módban a kijelzõ fényereje minimálisra csökken. A tesztprogramok (Everest, Rightmark CPU Clock) szerint a processzor órajele nem változott, és a gép fogyasztása sem csökkent.
+
+Elfújja a szél a HP 2133-at
+
+Az MSI Wind és a HP 2133 csatájából az elõbbi kerül ki gyõztesen. Nagyon szép, szeretnivaló gép a HP 2133, jobban összerakott, igényesebb megjelenésû a Windnél, de a VIA C7-M processzorának teljesítménye egyszerûen nem elég ahhoz, hogy komolyan számításba vegyük. A helyzeten sokat változtathat a Nano processzorra épülõ változat megjelenése, amit a harmadik negyedévre ígérnek, addig azonban mindenképp az Atom-alapú MSI-gépet ajánlanánk. A Wind ráadásul nem csak gyorsabb és kevesebbet fogyaszt a HP 2133-nál, hanem még könnyebb is: a mûanyagborítású Wind a hatcellás akkumulátorral 1269 grammot nyomott a mérlegünkön, a fémházas HP pedig 1440-et.
+
+
+
+
+Az MSI Wind háromféle színben lesz kapható, fényes fehér, fekete és rózsaszín változat kerül majd a boltokba -- tudtuk meg a cég hazai képviseletétõl, amely a tesztpéldányt is biztosította. A gépért háromcellás akkumulátorral és Windows XP operációs rendszerrel 110 ezer forint körüli bruttó árat kérnek majd a kereskedõk, akik június vége felé kapják meg az elsõ szállítmányokat. A HP 2133-at is csak három hét múlva érdemes a boltokban keresni, a linuxos verzió háromcellás akkumulátorral, 1 gigabájt memóriával bruttó 119 ezer forintba fog kerülni, a Vista Business-t futtató változat 145 ezer forintért lesz kapható. A nálunk járt konfiguráció (2 gigabájt memória, hatcellás akkumulátor, Vista Business) ára 155 ezer forint.
+
+Véleménye van?
+Szóljon hozzá a fórumban
+írjon szerkesztõségünknek!

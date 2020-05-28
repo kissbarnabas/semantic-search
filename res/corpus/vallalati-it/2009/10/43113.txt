@@ -1,0 +1,11 @@
+A Google Appsre támad az IBM
+
+A Nagy Kék még az év elején mutatta be LotusLive csomagját, amely egy hosztolt üzenetkezelõ, csoportmunka- és közösségi hálózati megoldás kimondottan vállalatok számára. Ennek egyik komponense a LotusLive Notes, amely egy e-mail szolgáltatás, amelyhez az asztali gépre telepített Notes klienssel lehet csatlakozni. A megoldás elõnye, hogy a vállalatnak nem kell foglalkoznia a levelezõszerver üzemeltetésével, mentésekkel, archiválással, ezekrõl az IBM gondoskodik. Az iNotes a LotusLive Notes webes kliense, azaz segítségével egy webböngészõn keresztül is elérhetõk a levelek, naptárak és az ismerõsök listája. Az iNotes felhasználónként évi 36 dollárért vehetõ igénybe, ez havi 3,75 dollárt, azaz nem egészen 600 forintot jelent. Ennyiért 1 gigabájt tárhelyet ad az IBM, amely felárért tovább bõvíthetõ.
+
+A fogyasztók körében egyre népszerûbbek a webes levelezõk, amelyek legfõbb kényelmi szolgáltatása, hogy az e-mailek bárhol, bármikor, bármilyen eszközrõl elérhetõk. Ez a megközelítés egyre inkább megveti a lábát a vállalatok világában is, elsõsorban olcsósága miatt, ugyanis a cégnek nem kell saját e-mail infrastruktúrát üzemeltetnie, szervereket vásárolnia és karbantartania, a biztonsági mentésekkel törõdnie. Ez fõleg a kisebb cégeknél jelent könnyebbséget
+A webes vállalati kommunikációs és csoportmunka-szolgáltatások egyik úttörõje a Google az Apps-szal, amely e-mailt, naptárat és alapszintû irodai szoftvereket (szövegszerkesztõ, táblázatkezelõ, prezentációkészítõ) is tartalmaz és 25 gigabájtos tárhely jár hozzá évi 50 dollárért. A Google megoldását ugyan számos cég és intézmény használja világszerte, azonban a vállalati világba alighanem az IBM fogja elvinni ezeket a szolgáltatásokat, mivel a vevõk jobban bíznak az évszázados múlttal bíró, kimondottan vállalati megoldásokra szakosodott Nagy Kékben mint a Google-ben.Az iNotes kapcsán az IBM is igyekszik hangsúlyozni, hogy a szolgáltatást kimondottan vállalati környezetre tervezték, nem egy fogyasztói termék "újracsomagolásával" született.
+A Google online szolgáltatásai az utóbbi idõben többször órákra leálltak, nagy visszhangot kiváltva a felhasználókban és a médiában is.	     
+                  
+                  
+                  
+                   

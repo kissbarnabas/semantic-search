@@ -1,0 +1,12 @@
+Elkészült a DTrace linuxos portja
+
+A DTrace for Linux forráskód formájában tölthetõ le CDDL (Common Developer and Distribution License) alatt, majd fordítás után egy futó, 32 vagy 64 bites kernelbe lehet betölteni. A portot készítõ Paul Fox programozó számos Linux kernelváltozattal tesztelte a DTrace-t, 2.6.9-tól a 2.6.29 kiadásig, ami lényegében négy és fél évet ölel fel. Fox szerint nem szükséges a kernel módosítása, és a DTrace mûködése nincs függõségben a kernellel. 
+Az eredetileg mintegy 90 ezer sornyi kódból álló DTrace, vagyis a Dynamic Tracing a négy évvel ezelõtt megjelent Solaris 10 egyik legfontosabb újdonsága volt. A DTrace képes az operációs rendszer és az alkalmazások futását átfogóan elemezni, feltérképezve azok erõforráshasználatát, így könnyen azonosítható, hogy mely folyamatok hol okoznak jelentõs terhelést. Ellentétben más, hasonló
+technológiákkal, ez a szoftver nem igényli a szoftverek speciális verzióját, akár éles üzemû szerveren is lehet alkalmazni. A DTrace támogatása a Solaris kernel szerves részét képezi,
+és használata nem jár érzékelhetõ teljesítménycsökkenéssel. Több mint
+harmincezer ponton lehet figyelni a rendszer teljesítményét, aminek
+vizsgálatára összetett szkriptek is készíthetõek.
+Ezt a képességet irigyelte meg a Linux-közösség egy része, és próbálta megalkotni saját dinamikus futáskövetési megoldását, Fox azonban elégedetlen volt az olyan eredményekkel, mint a SystemTap, és a DTrace portolására várt. Mindhiába, a levelezõlistákat többnyire a GPL és a CDDL összeférhetõsége töltötte ki a kérdés kapcsán. További motivációt jelentett, hogy Fox munkahelyén olyan problémák adódtak, melyeket a DTrace segítségével órák alatt meg lehetett volna oldani, anélkül azonban hónapokig is tarthatott volna a gondok forrásának feltérképezése. A várakozást megelégelve végül Fox nekilátott a portolásnak, aminek megszületett az eredménye.
+A programozó arra figyelmeztet, hogy élesen futó rendszerre csak akkor alkalmazzuk, ha már egy azonos rendszerképet futtató tesztrendszeren meggyõzõdtünk a mûködõképességrõl, és hogy nem okoz rendszerösszeomlást. Egyes funkciók, mint a felhasználói térben futó alkalmazásfolyamathoz történõ csatlakozás, egyelõre nem mûködnek. A DTrace for Linux forrása letölthetõ innen, míg leírás használatához a Sun wikijén található. A DTrace portolása FreeBSD és MacOS X operációs rendszerekre is
+megtörtént már, így a Solarissal és Linuxszal együtt immár négy
+platformon elérhetõ.

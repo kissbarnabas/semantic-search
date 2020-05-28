@@ -1,0 +1,14 @@
+Mindössze néhány trójai felelõs a spamekért
+
+A spamek 85 százaléka hat bothálózatból érkezett februárban, állapította meg a Marshal biztonsági vállalat legutóbbi jelentése, sõt az egyik rivális átmeneti leállása miatt az egyik hálózat közel 40 százalékos részesedést kaparintott meg.
+
+
+
+A Marshal statisztikája alapján februárban a Srizbi kódnévvel ellátott zombihálózat bizonyult a legaktívabbnak, a cég által elfogott spamek 39 százaléka származott onnan. Ezt a Marshal azzal magyarázza, hogy a Mega-D hálózat irányító szerverei nagyjából 10 napra leálltak, ami alatt az általa generált spamforgalom is lenullázódott. A Srizbi egy kifinomult windowsos trójait alkalmaz, mely rootkitként viselkedik, elrejtve magát a felhasználó és vírusirtó szoftverek elõl is.
+
+A Symantec értékelése szerint a Srizbi jó eséllyel az elsõ olyan trójai, mely teljes egészében a kerneltérben fut, beleértve a spamküldést is, amit az NDIS és TCP/IP drivereken keresztül ér el. A Srizbi ezzel minden aktivitást képes elrejteni, így a tûzfal sem fogja meg. Ma már teljesen megszokott dolog az is, hogy a rivális csapatok egymást támadják, így a Srizbi ennek megfelelõen specifikusan kutat más rootkitek és trójaik után, hogy letörölje azokat. A trójai ezenkívül részletes statisztikákkal látja el gazdáit az irányító szervereken keresztül, hogy milyen hatásfokkal dolgozik.
+
+
+A Marshal megfigyelése szerint az egyes botnetek méretével nem függ össze szorosan a kiküldött spamek mennyisége, ugyanis a különbözõ trójaik más és más ütemben dolgoznak. A Mega-D például 35 ezer zombigéppel több mint ötször annyi szeméttel árasztotta el a netet, mint a 85 ezres Storm hálózat. A Storm visszaesésének egyik oka az is lehet, hogy a Microsoft kártékony szoftvereket eltávolító eszköze már felismeri azt.
+
+ A biztonsági cég szerint figyelemre méltó az is, hogy meghatározó bothálózatok mindegyike foglalkozik bizonyos férfi potenciafokozó készítményekkel, ami azt jelzi, hogy a kampány mögött álló több hálózatot is igénybe vesz. A kontinensek között Európa felel a spamek nagyjából feléért, majd Ázsia következik, az országok versenyét viszont az Egyesült Államok nyerte Oroszország, Törökország és Kína elõtt. A számítógépbiztonsági kultúra fejlettségére utalhat, hogy 80 milliós Németország kevesebb spamet termel, mint Spanyolország, az Egyesült Királyság, Franciaország vagy Lengyelország -- utóbbiak az Unió legnagyobb spammelõi.

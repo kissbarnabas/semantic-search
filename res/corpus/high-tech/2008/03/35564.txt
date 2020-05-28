@@ -1,0 +1,89 @@
+Kíméletlenül erõs processzornak ígérkezik az Intel Nehalem
+
+A HWSW rendszeres olvasói számára nem jelenthet újdonságot, hogy az Intel következõ generációs architektúrája a Nehalem kódnevet viseli. A Nehalemrõl eleddig kevés információ látott napvilágot, megjelenésének közeledtével azonban természetesen elkezdte csöpögtetni a részleteket a vállalat. 
+
+
+
+Tovább csiszolt Core mikroarchitektúra
+
+A Nehalemtõl az Intel nem kevesebbet vár el, minthogy döntõ és megkérdõjelezhetetlen teljesítményfölénybe kerüljön az AMD-vel szemben. Az eddig kiszivárgott (vagy szándékosan kiszivárogtatott) belsõ elõrejelzések alapján a Nehalem látványosan nagyobb teljesítményt ad le, mint a jelenlegi CPU-generáció: a számításintenzív kódokat tartalmazó SPEC CPU2006 tesztek alatt, kétutas rendszerben 44 százalékkal múlja felül a jelenleg legerõsebb négymagos Xeont egész számokkal végzett, és 104 százalékkal intenzív lebegõpontos mûveletek alatt.
+
+De mibõl áll össze ez a fölény? A következõ generációs Intel-mikroarchitektúra elsõ inkarnációjaként a 45 nanométeres eljáráson implementált, 731 millió tranzisztorból felépülõ, 260 négyzetmilliméteres Nehalem négy nagyteljesítményû magot tartalmaz, melyek egyenként mintegy 25 százalékkal nagyobb területet emésztenek fel, ami már önmagában utal arra, hogy jóval erõsebbek a Penrynénél. A processzor átszervezett cache-hierarchiával bír, a Nehalem 8 megabájt harmadszintû osztott tárral rendelkezik. Erõteljes változások azonban nem csak a chipet érintették, a Nehalem szakít ugyanis az Intel évtizedes buszrendszerével, és pont-pont összeköttetéseket, valamint integrált memóriavezérlõt vonultat fel.
+
+A Nehalem a Merommal megismert Core mikroarchitektúra továbbfejlesztése. Hogy maximális teljesítményt préseljenek ki, az Intel tervezõi erõteljesebb soronkívüli motorral vértezték fel a chipet. Az ütemezõ 96 helyett immár 128 mikroutasításból válogathat a végrehajtóegységek kihasználtságának fokozása érdekében -- vagyis emelkedhet az órajelenként elvégzett hasznos munka mennyisége. A Nehalem már SSE 4.2 vektor utaskészletet alkalmaz, mely további 7 alkalmazásspecifikus utasítást hoz magával elsõsorban szövegek és stringek feldolgozásában, mint például az XML.
+
+
+
+Szokás szerint továbbfejlõdött az elágazásbecslés új, másodszintû becslõk bevezetésével. Ezt a mérnökök a nagy kódtömegû alkalmazásokat (pl. adatbázisok) szem elõtt tartva vetették be, melyek futtatása a többszintû becslés révén így hatékonyabbá válik, mondta el Ronak Singhal vezetõ tervezõ. A teljesítményt tovább javítja az egymástól független cache-hozzáférések gyorsabb végrehajtása, valamint a szinkronizációs primitívek gyorsítása, mely leginkább a többszálú végrehajtást támogatja. Egy másodszintû TLB (translation look aside buffer, memóriacím fordítási tár) bevezetésével gyorsulnak a virtuális-fizikai memóriacímek megfeleltetései, ami fõként nagy memóriaigényû, memóriamûveletekben intenzív kódok alatt, így virtualizált környezetben jelenthet leginkább elõnyt.
+
+HyperThreading újratöltve
+
+Változott a processzor cache-hierarchiája is, Singhal elmondása alapján egyértelmûen háromszintû szervezésre tervezték és optimalizálták a Nehalemet. Ez fõként abban mutatkozik meg, hogy a korábban osztott és nagyméretû L2 cache a Nehalem esetében magonként dedikált, és lényegesen kisebb méretû, 256 kilobájtos az alacsonyabb késleltetés elérése érdekében. Ahogyan az AMD Barcelona esetében, úgy az utolsó szintû L3 cache itt is az magok adatmegosztását és a processzorok közötti koherenciaforgalom kezelését hivatott támogatni. A Nehalem 8 megabájtnyi inkluzív, vagyis az L1 és L2 adatait is tartalmazó L3 tárral minimalizálja a koherencia miatti adatforgalmat, és egyelõre nem részletezett módon támogatja ezzel az energiagazdálkodást is.
+
+
+A mikroarchitekturális fejlesztések leglényegesebbje azonban a többszálú végrehajtás ismételt  bevetése. A 4-utasítás széles Core mikroarchitektúra szinte kínálta a többszálúságot, annak implementációja azonban valószínûleg kockázatkezelési okokból nem valósult meg a mielõbbi piacra kerülés érdekében -- a Core nagyjából fél évvel az eredetileg tervezett elõtt került piacra, és többszálúság nélkül is visszavette a teljesítménytrónt.
+
+A Nehalemben kétszálú párhuzamos végrehajtás (SMT, simultaneous multi-threading) kapott helyett, vagyis ebbõl a távolságból szemlélve olyan, mint amilyen a Northwood-magos Pentium 4-ben bukkant fel elsõként. Arra a kérdésre, hogy a Nehalem SMT-implementációja hogyan viszonyul a Pentium 4 Hyper-Threadinghez, Singhal úgy felelt, hogy a Nehalem sokkal több erõforrással, nagyobb gyorsítótárral és sávszélességgel bír, melyek mind-mind támogatják a többszálúságot. Singhal szerint 20-30 százalékos teljesítménynövekedés is elérhetõ megfelelõen párhuzamosított szoftverek alkalmazása esetén, miközben minimális szilíciumba és energiába kerül a képesség megvalósítása -- vagyis ez bizonyult a teljesítménynövelés legenergiahatékonyabb módjának.
+
+Gyökeresen új infrastruktúra
+
+A mikroarchitekturális fejlesztések mellett a Nehalem lényeges változást hoz magával a rendszerinfrastruktúra terén is. Az új processzorcsaláddal, melynek a szerverektõl kezdve egészen a notebookokig minden szegmensben felbukkannak a tagjai, az Intel megkezdi az évtizedek óta alkalmazott buszrendszer kivonását, és helyébe egy sokkal korszerûbb, pont-pont összeköttetésekre, és integrált memóriavezérlõre épülõ architektúra lép.
+
+A legelsõ Nehalem két Quick Path Interconnect linket (koherencia és távoli memória elérése, valamint I/O) és egy háromcsatornás DDR3-memóriavezérlõt alkalmaz, amelynek eredménye sokkal nagyobb sávszélesség egy nagyságrenddel alacsonyabb késleltetés mellett. Egy QPI-link akár 25,6 gigabájtos áteresztõképességre is képes (6,4 gigatranszfer másodpercenként egy 32 bit széles vonalon), miközben saját memóriáját 19,2 gigabájtos sávszélességgel éri el DDR3-800 memóriával.
+
+Ez így akár 70 GB/s sávszélességet is biztosíthat egyetlen processzor számára szélsõséges esetben, míg egy 1600 megahertzes adatbusszal dolgozó Xeon 12,8 gigabájt/másodperccel gazdálkodik legfeljebb -- az Intel mérései szerint a valós memóriasávszélesség terén egy kétutas konfigurációban a Nehalem több mint négyszeres elõnyre tesz szert. Mindezek után kevésbé meglepõ, hogy az Intel legalább akkora elõrelépést vár a Nehalemtõl, mint amilyet a Core képviselt -- az kétségtelennek tûnik, hogy egy idõre teljesen leszakítja magáról az AMD-t. 
+
+A Nehalem becsült elõnye egyes processzorokkal szemben
+
+
+
+
+
+SPECint_rate_base2006
+SPECfp_rate_base2006
+
+
+
+
+Xeon Woodcrest
+178%
+278%
+
+
+
+Xeon Clovertown
+79%
+161%
+
+
+
+Xeon Harpertown
+44%
+104%
+
+
+
+DC Opteron 3 GHz
+232%
+212%
+
+
+
+Barcelona 2,3 GHz
+94%
+111%
+
+
+
+Shanghai 2,8 GHz
+43%
+35%
+
+
+Forrás: Intel, 2008
+
+Lego design
+
+Mint már említettük, a Nehalem mindössze az Intel következõ generációjának elsõ megtestesülése, késõbb tucatnyi változatban lát majd napvilágot. Az egyes szegmenseket nagyban különbözõ designok szolgálják majd ki, ezért az Intel a mérnöki erõforrások optimalizálása érdekében kezdettõ fogva moduláris blokkokként tervezte meg a Nehalemet, így lehetõség nyílik a blokkok (processzormag, cache, QPI link, grafikus mag, memóriavezérlõ) tetszõleges kombinálásával különféle termékeket létrehozni.
+
+Ezáltal lehetséges az, hogy az Intel úgy dobjon piacra nyolcmagos Xeon MP-ktõl (Beckton) kezdve négymagos asztali processzorokon át kétmagos, integrált grafikus chippel bíró notebookprocesszort is a következõ másfél év során, hogy ehhez nem szükséges aránytalanul sok fejlesztési erõforrást lekötnie. A egy- és kétutas szerverekbe, valamint felsõkategóriás asztali gépekbe szánt Nehalem a negyedik negyedévben jelenik meg a tervek szerint, majd az elsõ negyedévben érkezik a mainstream négymagos asztali változat (Lynnfield), melyet a másodikban követ a belépõkategóriát célzó kétmagos Havendale és a mainstream mobil változat, az Auburndale -- utóbbi kettõ érdekessége, hogy egy Direct X 10 grafikus magot, DDR3-vezérlõt és PCI Express vezérlõt integráló chipet tokoznak a kétmagos processzor mellé.

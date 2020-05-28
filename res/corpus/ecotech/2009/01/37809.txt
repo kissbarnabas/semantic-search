@@ -1,0 +1,44 @@
+2009 várható bukásai: OLPC
+
+A közhelyes bölcsesség úgy tartja, leginkább nehéz idõkben mutatkoznak meg a gyengék és az erõsek. Nehézségekbõl pedig mostanában nincs hiány, a finanszírozási válság okozta gazdasági depresszió az egész világon érezteti hatását. Elemzõk szerint bár az év második felére már javulhatnak a körülmények, a következõ hónapok maradandó nyomokat hagynak majd. Nem kivétel ez alól az IT-ipar sem, ahol 2009 több téren is vízválasztónak bizonyulhat, köztük az OLPC sorsát is megpecsételheti.
+
+
+
+Elhibázott politika
+
+Az OLPC, vagyis a fejlõdõ országok felzárkóztatását célzó One Laptop Per Child program hosszas elõkészítést követõen 2005 elején formálódott, kinyilvánított célja pedig, hogy olcsó hordozható számítógéppel lásson el kisgyerekeket az egész világon, lehetõvé téve számukra, hogy maguk fedezzék fel a világot, és kreatívan vegyenek részt a tanulásban. A kezdeményezést természetesen rendkívüli érdeklõdés fogadta minden oldalról, annak lehetséges globális hatásai, karitatív jellege és a bárki számára elérhetõ számítógép koncepciója miatt is.
+
+A program, mely nagy hangsúlyt helyezett a kezelõfelület intuitivitására, 2006-ban már produkált egy prototípust, végül 2007 õszére szülte meg a tömegtermelésre készen álló mini laptopot, az XO-t. Bár az XO késve érkezett, és a megcélzott száz dollár helyett közel kétszázba került. Nem ezek voltak azonban az OLPC legnagyobb hibái, hanem az útközben elkövetett stratégiai ballépések, melyek már induláskor valószínûtlenné tették a valódi sikert. Ezek pedig a válsággal együtt a program halálát is jelenthetik.
+
+OLPC Wi-Fi hálózat
+
+Ezek a stratégiai hibák lényegében egy naggyá is összefoghatóak, ami pedig nem más, mint az IT-iparban uralkodó erõviszonyok semmibe vétele -- hogy tudatosan vagy átgondolatlanságból, valójában mindegy. Márpedig ha egy új számítógép-kategóriáról van szó, nem lehet megkerülni a PC-ipart uraló vállalatokat, fõként nem az Intelt és a Microsoftot, hacsak nem akarunk versenyezni velük. Márpedig a Nicholas Negroponte vezette program éppen ezt érte el, mikor az OLPC alapelvei közé felvette a nyílt forráskódú, ingyenes szoftverek alkalmazását, AMD-chipet alkalmazott, továbbá egy konkrét végtermék produkálásával teljesen kihagyta a PC-gyártókat az egyenletbõl. Nincs HP, nincs Dell, nincs semmi, csak OLPC XO, AMD Geode chippel, Linuxszal.
+
+
+Az eredmény: a lényegében a PC-ipar összes nehézsúlyú szereplõje egycsapásra üzletileg ellenérdekeltté vált az OLPC sikerében, hiszen egy olyan termék került a piacra, melybõl nem látnak pénzt, és veszélyezteti a meglévõ bevételeket. Ezzel Negroponte csapata nemcsak a hatalmas PC-vállalatok segítségét szalasztotta el igénybe venni karitatív tevékenységéhez, ami már önmagában is nehezen érthetõ, de sikerül maga ellen is hangolnia azokat. Negropontétól mindössze annyira telt, hogy azt hajtogatja a mai napig is: az OLPC nem egy laptop-, hanem oktatási projekt.
+
+ Megtorlás
+
+Mind közül az Intel reagált a legagresszívebben az OLPC felbukkanására. A vállalat vezetésével villámgyorsan elkészítült a Classmate PC referenciadesign, mely hasonlóan oktatási célokat tûzött ki, azonban összehasonlíthatatlanul nagyobb erõforrásokkal. Az Intel programja számos ponton felülmúlta az OLPC-t: jóval elõbb került piacra, Linux-disztribúciók mellett Windows XP futtatását is lehetõvé teszi, bármelyik PC-gyártó megkaphatja, testreszabhatja és márkázhatja a referenciadesignt. Azóta az OLPC is kínál Windows-opciót, ez azonban már csak tûzoltás.
+
+
+
+Az Intel azonban nem állt meg itt, a vállalat nagyon jól tudja, termékei iránt keresletet kell gerjeszteni, megágyazni nekik és szívóhatást kelteni a piac felõl. Éppen ezért az Intel 2006-ban bejelentette World Ahead programját, mely öt év alatt 1 milliárd dollárt fordít hardverekre, az internet hozzáférés biztosítására, de leginkább a tanítók és hallgatók továbbképzésére, valamint a tananyagok digitalizálásának elõsegítésére. Eddig mintegy 6 millió tanárt képeztek tovább ennek köszönhetõen. Idõközben már megkezdõdtek a Silverthorne fejlesztései, melynek PC-változata, a Diamondville, Atom néven került piacra.
+
+A Classmate PC a kétszeres ár ellenére sokkal jobban fogy a XO-nál, igaz, annál használhatóbb is, teljesen funkcionális PC, mondhatni. Az Intel már tavaly áprilisban piacra dobta a második generációt, az összesített eladásokban pedig messze maga mögött tudja az OLPC-t, mely a lanyha kereslet miatt kénytelen volt elõször az Egyesült Államokban, majd más országokban is karitatív akciót indítani. Ennek keretén belül a vásárló két XO áráért kapott egyet, a másikat pedig egy fejlõdõ országokbeli gyereknek adta az alapítvány. Eddig mintegy félmillió OLPC-t szállítottak le világszerte, míg a Classmate több milliónál tart már. Jól jelzi az Intel összefogó erejét a venezuelai projekt, ahol 1 millió Classmate-et versengõ cégek tucatjai szállították le végül, gyakorlatilag egy egész ipar érdekeltté vált benne. 
+
+A kifejezetten a gyerekek kezébe szánt Classmate PC-t gyártó Asustek (a gyártási részleg ma már Pegatron) azonban úgy vélte, érdemes ezzel megpróbálkozni a nyílt piacon is. Így született meg az elsõ Eee PC, innen pedig a történetet már mindenki ismeri. Új kategória született, a netbook, melybõl tavaly 13-15 millió fogyott már, a siker minden korábbi várakozást felülmúl, emiatt pedig minden PC-gyártó megjelent saját modelljével -- és sok esetben azok oktatási változataival. A forgalom meredeken fut fel, egyre többféle netbook kerül a piacra, a webre, szórakozásra jól használható olcsó és pici gépeket a népek viszik, mint a cukrot.
+
+Nincs helye
+
+Bár a Classmate PC és a netbookok alapvetõen drágább konstrukciók az OLPC XO-nál, és nincsenek is olyan mértékben a feladatra szabva, annál sokkal sokoldalúbban használhatóak, és a piaci siker miatt látványosan gyorsabban fejlõdnek, és a méretgazdaságosságból fakadóan a legolcsóbbak ára is gyorsan közelíti az OLPC-jét, mely továbbra is az alacsony volumennel és finanszírozási problémákkal küzd. Az ingatag lábakon álló OLPC-t a hitelezési válság különösen súlyosan érinti, mind az értékesítés, mind mûködésének finanszírozása szempontjából, így drasztikus elbocsátásokra és a fizetések csökkentésére kényszerül -- már csak mindössze 32 alkalmazott dolgozik a programon.
+
+Gacsal József, az Intel Magyarország üzletfejlesztési igazgatója szerint Európában gyakorlatilag meg sem jelent az oktatási szektorban az OLPC, miközben a Classmate és a World Ahead láthatóan résztvesz az országok oktatási reformjában, melynek részeként az oktatás egyre növekvõ részében kívánják felhasználó a számítástechnika lehetõségeit. Itthon mintegy 300 Classmate található, ebbõl 100 mindennapi használatban, közölte Gacsal, és 13 mesteroktató áll készen a tanárok kiképzésére -- a tesztek sikerrel zárultak, a többi az államon múlik, tette hozzá.
+
+
+
+Mindeközben a netbookok szegmensének robbanásszerû növekedése hosszabb távon is kitart, az idei eladások elérhetik a 40 millió darabot is, a következõ évtizedre pedig a százmilliót is meghaladhatják. A gazdaságosság mellett a mérnökök és sales-esek tízezreivel rendelkezõ PC-iparnak pedig ütõképes eszközök állnak rendelkezésre az oktatási intézmények elérésében. Méretgazdaságosság, ipari támogatottság nélkül az OLPC sorsa egyre kétségesebb, a rendkívül korlátozott képességekkel rendelkezõ XO létjogosultsága pedig egyre inkább megkérdõjelezhetõ, ahogyan a netbookok gyors fejlõdésével rövid idõn belül életképessége is. Az Intel a napokban mutatta be a Classmate PC 2-t, már Atom processzorral szerelt Classmate PC-t, mely tablet módra is képes, idén év végén pedig érkeznek a kétmagos processzorokkal szerelt modellek.
+
+[+]  ARM-alapú netbookok megjelenése várható 
+
+Könnyen elképzelhetõ, hogy rövid idõn belül nem az XO lesz a legolcsóbb mini laptop, gondoljunk csak a Freescale közelgõ, ARM-alapú platformjára, az azonban ennél is valószínûbb, hogy ahol kiépített elektromos hálózat van, és nincs szerepe az XO kurblizhatóságának, oda nem is a legjobb választás a túlságosan gyenge hardver és kijelzõ miatt, melyek nem teszik lehetõvé a korszerû webes világhoz történõ csatlakozást, ahogyan kiépített szervízhálózattal sem rendelkezik. 

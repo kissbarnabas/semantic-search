@@ -1,0 +1,18 @@
+Az IBM is bejelentette négymagos Opteronokra épülõ szervereit
+
+Három új szerverrel bõvítette a kínálatát az IBM, a most bemutatott újdonságok közös vonása, hogy négymagos AMD Opteron processzorokra épülnek.
+
+
+
+Az új modellek közül a legolcsóbb az elsõsorban tudományos célra szánt fürtök csomópontjaként hasznosítható IBM System x3455, amely egy 1U kivitelû, kétfoglalatos Opteron-alapú szerver, legfeljebb 48 gigabájt memóriával, két SATA vagy SAS diszkkel és 1089 dolláros árcédulával. Az alacsony ár oka, hogy a kimondottan fürtözött rendszerekbe szánt szerver nélkülözi a drága redundás vagy üzem közben cserélhetõ alkatrészeket.
+
+
+ Az x3455-túl elsõsorban bõvíthetõségben különbözik az x3655, amely már 2U kivitelû, hogy a két Opteron processzor mellé beférjen akár 64 gigabájt memória, 8 SAS vagy 6 SATA merevlemez, illetve 3 PCI Express bõvítõkártya. Míg a HPC-piacra szánt x3455 rendelhetõ 2,5 GHz-es processzorokkal is, az x3655-öt legfeljebb 2,3 GHz-es chipekkel kínálja az IBM. A System x3655 induló ára 2499 dollár.
+
+IBM System x3655
+
+Az újdonságok közül a legerõsebb a System x3755, amelybe már négy processzor mellé 128 gigabájt memória építhetõ be. A 4U kivitelû rackszerver legfeljebb 4 üzem közben cserélhetõ diszk számára biztosít helyet, viszont akár 7 bõvítõkártya is belefér, amelyek közül 4 lehet PCI Express felületû, 2 PCI-X, valamint 1 HTx. Az 1500 wattos táp és a hûtõventilátorok természetesen redundánsak. A System x3755 induló ára 3400 dollár.
+
+Amint arról lapunk is beszámolt, az AMD egy rendszerlefagyást eredményezõ hiba miatt átmenetileg kénytelen volt leállítani a négymagos Opteronok szállításait, a javított példányok május elején kezdtek el feltûnni a nagy szerverszállítók gépeiben. Elõször a HP, majd a Dell és a Sun jelentette be a Barcelona kódnevû chipre épülõ szervereit, a sort most az IBM folytatta a System x család megújításával. Érdekes, hogy az IBM az Opteron 2003-as bejelentésekor elsõként állt az AMD új szerverprocesszorai mellé, most a legnagyobb gyártók közül mégis utolsóként állt át a négymagos chipekre. Ennek oka, hogy a "nagy négyesbõl" az IBM értékesíti a legkevesebb Opteron-alapú gépet, így az AMD nekik szálltotta legkésõbb az új chipeket.
+
+Az IBM Magyarországtól megtudtuk, a cég már vesz fel rendeléseket az új gépekre, a szállítások június közepétõl kezdõdnek, a 2,5 GHz-es Opteron 8360 SE-vel szerelt x3455 viszont legkorábban július elejétõl lesz elérhetõ. Magyarországra mintegy két héttel késõbb érkeznek az elsõ gépek. A pontos hazai árakról még nincs információja az IBM hazai képviseletének.

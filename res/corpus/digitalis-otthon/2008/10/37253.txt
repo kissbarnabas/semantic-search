@@ -1,0 +1,14 @@
+Hiánypótló Radeonnal erõsített az AMD a grafikus vezérlõk középmezõnyében
+
+Hiánypótlónak nevezhetõ grafikus gyorsítókártyával egészítette ki múlt héten kínálatát az AMD: az ATI Radeon HD 4830-as sorozat vezérlõi, a korábban bemutatott Radeon HD 4850-es típusok butított változatai a 150 dolláros ársávban kerülnek forgalomba. Itt az AMD mindeddig nem tudott felmutatni ütõképes versenyzõt riválisának megoldásával, a GeForce 9800 GT-vel szemben.
+
+
+
+A múlt héten piacra került Radeon HD 4830 grafikus gyorsítóval immár a teljes ár-teljesítmény szegmenst lefedi 4000-es sorozatú videokártyáival az AMD, ráadásul az új modell az egyik legnagyobb forgalmat generáló, 100-150 dolláros ársávban kerül forgalomba. A újdonságra a Radeon HD 4850 és 4870 kártyákon található, 55 nanométeres gyártástechnológiával készülõ RV770 grafikus processzor butított változata (RV770LE) kerül.
+
+ATI Radeon HD 4830
+
+
+Az RV770LE grafikus processzorok a chipgyártók eddigi gyakorlata szerint lényegében a rosszabbul sikerült RV770-esekbõl készülnek: a gyártó a 800 stream egységbõl 160-at letilt, emellett az órajelet is csökkentik 50 MHz-cel; 625-rõl 575 MHz-re. A chiphez tartozó grafikus puffer a Radeon HD 4850-hez hasonlóan 256 bites szervezésû GDDR3 memóriából áll, az órajel azonban memóriafronton is csökkent, így 2 helyett 1,8 GHz-en ketyegnek az IC-k.
+
+Az AMD új középkategóriás videokártyája gyakorlatilag az NVIDIA hasonló szegmensbe szánt GeForce 9800 GT-jével egy árban -- a 150 dolláros ársávban -- kerül forgalomba, az interneten eddig megjelent tesztek tanúsága szerint a legtöbb háromdimenziós alkalmazásban ráver riválisára, és akár 1680x1050 pixeles felbontásban is megbirkózik a háromdimenziós objektumok akadozásmentes számításával. A tesztek egyben arra is rávilágítanak, hogy a Radeon HD 4830 a kevesebb stream egységnek és a csökkentett órajeleknek köszönhetõen a Radeon HD 4850 teljesítményének mintegy 80-85 százalékát hozza, ezzel együtt fogyasztói ára is hasonló mértékben kevesebb nagyobbik testvérénél.

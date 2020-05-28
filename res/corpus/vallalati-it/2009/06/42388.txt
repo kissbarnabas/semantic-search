@@ -1,0 +1,20 @@
+Új információk a Windows 7-rõl
+
+Hamarosan használhatatlaná válik a béta
+A Microsoft bejelentette, augusztus 15-ig lehet csak letölteni a Windows 7 megjelenésre szánt (RC) változatát. Ezt követõen már csak fájlcserélõ hálózatokon vagy egyéb úton lehet beszerezni az operációs rendszer elõzetesét, de feltelepíteni még lehet és kulcsokat is ad ki a cég, ezek száma nincs korlátozva, úgyhogy aki még nem próbálta ki a Microsoft új asztali operációs rendszerét, annak sem kell kapkodnia. Az egyelõre nem világos, hogy a végleges változat október 22-ére tervezett bejelentése után is ad-e ki kulcsokat az RC-hez a Microsoft, de valószínûleg nem.
+A Windows 7 Release Candidate verzióját május elején adta ki a redmondi cég, a szoftvert világszerte több millióan töltötték le. Az RC változat elméletben 2010. június 1-ig mûködik, azonban 2010. márciusától kezdve már kétóránkénti leállással figyelmezteti a felhasználót arra, hogy ideje áttérni a végleges változatra. A januárban kiadott béta felhasználóinak ennél kevesebb idejük van, a szoftver 2009. augusztus 1. után már nem használható tovább, a kétóránkéti leállások pedig július 1-én elkezdõdnek.
+A Windows 7 bétáról csak kis trükközéssel lehet RC-re upgrade-elni, a frissítõprogram ellenõrzõkódja -- mely megakadályozza, hogy a Windows 7 RC-t a béta Windows 7-re telepítsék -- egy konfigurációs fájl átszerkesztésével kiiktatható. A folyamat részletes leírása megtalálható a Windows 7 fejlesztõi blogban. Közben a Microsoftnál állítólag már megtörtént a végleges, azaz boltokba kerülõ Windows 7 build kiválasztása és július 13-án, azaz nagyjából három hét múlva elkészül a végleges kód. Ezt követõen megkezdõdik az operációs rendszer gyártása és terjesztése.
+Az Internet Explorer eltávolítása lehetetlenné teszi a frissítést?
+A Microsoft-közeli hírekrõl rendszeresen jól értesült maláj TechArp.com szerint a cég azon döntése, hogy az európai forgalomba kerülõ Windows 7-változatokból kihagyja az Internet Explorert, lehetetlen helyzetbe hozza azokat a felhasználókat, akik korábbi Windowsról frissítenének. Hiába vásárol valaki upgrade változatot ugyanis, mindenképp teljes telepítést kell végrehajtania, ami az összes beállítás elvesztésével jár. Ezért az európai vásárlóknak mindenképp ajánlott majd a meglevõ rendszerükrõl egy teljes mentést készíteni, mielõtt meglevõ PC-jükre telepítik az Internet Explorer nélküli Windows 7 E-t.
+
+
+Amint arról a HWSW beszámolt, az Európai Bizottság januárban hivatalosan is azzal vádolta meg a Microsoftot, hogy tisztességtelenül versenyez azáltal, hogy a böngészõt beépíti a Windowsba. Erre reakcióként a Microsoft június elején határozott, hogy Európában Internet Explorer nélkül adja ki a Windows 7-et, amelyet a PC-gyártók és a fogyasztók külön telepíthetnek csak fel.
+A korábbinál egyszerûbb a csomagolás
+A Microsoft eközben nyilvánosságra hozta azt is, milyen csomagolásban kerül az üzletekbe a dobozos operációs rendszer. A hivatalos fotókon a korábban már kiszivárgott dobozokat láthatjuk, amelyek stílusban némiképp visszakanyarodnak a Windows XP egyszerûségéhez. Az otthoni felhasználóknak szánt Home Premium zöld, a vállalatoknak szánt Professional kék, a minden képességet tartalmazó Ultimate pedig fekete csomagolást kapott.
+  
+A Windows 7 a Vistához hasonlóan mûanyag dobozokban érkezik, azonban a csomagolás az elõdénél jóval egyszerûbb kialakítású, csupán egy teljesen újrahasznosítható mûanyagból készült tokból, a telepítõlemezbõl és a kézikönyvbõl áll. A Windows 7 összesen hét különféle változatban lesz elérhetõ, azonban csak a Home Premium, a Professional és az Ultimate kerül bolti forgalomba, a többit csak PC-re telepítve vagy mennyiségi licencben lehet megvásárolni.
+Amint az ismert, a Windows 7 (és a Windows Server 2008 R2) világszerte október 22-én kerül a boltokba, Magyarországon is ekkortól lehet majd megvásárolni, ráadásul egybõl magyar nyelven is.	     
+                  
+                  
+                  
+                   

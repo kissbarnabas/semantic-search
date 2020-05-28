@@ -1,0 +1,20 @@
+Az Oracle-adminisztrátorok kétharmada egyáltalán nem telepíti a biztonsági frissítéseket
+
+[Computerworld/HWSW] Az Oracle adatbázis-adminisztrátorok kétharmada egyáltalán nem telepíti a vállalat által kiadott patcheket, függetlenül attól, hogy milyen javításról van szó, így adatbázisok egész serege marad védtelenül. Az Oracle negyedéves rendszerességgel adja ki hibajavításait, a legfrissebb ciklusban 27 biztonsági frissítés várható a cégtõl -- úgy tûnik, részben teljesen feleslegesen.
+
+
+
+Az adminisztrátorok magasról tesznek a patchekre
+
+A Sentrigo által megkérdezett 305 adatbázis-adminisztrátort (DBA) kérdezett meg 2007 augusztusa és 2008 januárja között a frissítési szokásairól, és az eredmények igen meglepõek, mondhatni félelmetesek. A válaszadók közül 206-an állították, hogy egyetlen Oracle biztonsági frissítést sem telepítettek a rájuk bízott rendszeren, és mindössze 31-en voltak olyanok, akik rendszeresen patchelik az adatbázist. "Egyes adatbázis-adminisztrátorok egyáltalán nem törõdnek az Oracle kritikus patcheivel, még azt sem tudják hogy mikor jelennek meg. Néha még akkor is figyelmen kívül hagyják azokat, ha a vállalat biztonsági részlege utasítja õket a telepítésre" -- mondta Slavik Markovich, a Sentrigo mûszaki vezetõje.
+
+A jelenségre Markovich szerint két magyarázat van. Az egyik, hogy az adminisztrátorok félnek javítást telepíteni a rájuk bízott éles rendszerre, ugyanis a patchelés miatt megváltozhat egyes alkalmazások viselkedése. Ezért a patcheket elõbb tesztelni kell, ami idõigényes feladat, fõleg ha egy olyan nagyvállalatról van szó, amelynek sok adatbázisa és alkalmazása van. "A patchek telepítése hónapokig tartó munkával és gyakran hosszú leállásokkal jár, amit a cégek többsége nem engedhet meg magának" -- magyarázta Markovich.
+
+
+ Az Oracle kritikus frissítéseinek telepítéséhez az elõzõ javításokat is telepíteni kell -- magyarázta Markovich. Így ha egy cég egyszer lemarad a frissítésekkel, örökre leszakad és az adatbázisai sose lesznek biztonságban. A másik problémát az jelenti, hogy a szoftverszállítók gyakran nem minõsítik az alkalmazásaikat az Oracle patchekkel, így a frissítés azért maradhat el, mert az adatbázison futó alkalmazás nem biztos hogy együttmûködik a frissítéssel, és a szoftver szállítója ennek alapján megtagadhatja az esetlegesen felmerülõ problémák kezelését.
+
+Mi lehet a megoldás?
+
+A lapunknak 2006 októberében interjút adó Patrick McLaughlin, az Oracle biztonsági megoldásokért felelõs regionális igazgatója úgy vélekedett, a vállalatoknak érdemes lehet fürtözést használni a patchek telepítéséhez. "Üzleti kritikus környezetben erre az lenne a megoldás, ha a vállalatok Real Applications Clustert használnának, az egyik csomóponton telepítenék és próbálnák ki a patcheket, így akár meg is gondolhatják magukat és visszatérhetnek egy korábbi változathoz, aztán ha mindent rendben találnak, folytathatják a többivel, miközben a rendszer nem áll le" -- mondta McLaughlin.
+
+Az operációs rendszerek üzemeltetéséért felelõs rendszergazdák már megtanulták, hogy az érkezõ biztonsági frissítéseket a lehetõ leghamarabb telepíteniük kell, de az adatbázis-adminisztrátorok úgy tûnik, még nem tették magukévá ezt a gyakorlatot, és erre az sem lehet mentség, hogy az Oracle-patchek telepítése általános vélekedés szerint fájdalmasan bonyolult. Szakértõk szerint a legjobb, amint a DBA-k tehetnek, hogy elõre tervezik a patchek telepítését, változáskezelést vezetnek be a kockázatok és a fennakadás minimalizálása érdekében.

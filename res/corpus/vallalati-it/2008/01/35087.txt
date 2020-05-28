@@ -1,0 +1,24 @@
+A vállalatok közel fele már megkezdte az áttérést Windows Vistára
+
+A vállalatok közel fele már a Vistára való áttérés valamely ciklusában tart -- derül ki az amerikai CDW informatikai kereskedõ által hétfõn nyilvánosságra hozott felmérésbõl, amely 700-nál is több informatikai vezetõ megkérdezésén alapul.
+
+
+
+A válaszadók 35 százaléka már bevezette vagy most vezeti be a Vistát
+
+A novemberi adatok szerint a szervezetek 35 százaléka már bevezette vagy most vezeti be a Vistát, összességében pedig a megkérdezett cégek és szervezetek 48 százaléka kezdte meg az áttérést, vagy az arra való felkészülést. A CDW elõzõleg közel egy éve, tavaly februárban készítettett ilyen felmérést, akkor még csak a válaszadók 29 százaléka foglalkozott komolyan a Vistával és mindössze 12 százalék volt azon szervezetek aránya, amelyek megkezdték vagy be is fejezték az áttérést.
+
+A legjobban a kisvállalatok körében halad a Vistára való átállás a CDW adatai szerint, az ilyen cégek 53 százaléka már teszteli vagy használja. A második leggyorsabban a felsõoktatásban vezetik be, itt 49 százalék azok aránya, amelyek már foglalkoznak a migrációval, majd a közepes és nagyvállalatok (48%) következnek. Érdekesség, hogy a közoktatás a leginkább konzervatív a Vistával kapcsolatban, míg a kormányhivatalok 46 százaléka kezdte meg a felkészülést az áttérésre, a közoktatásban ez az arány csupán 41 százalék.
+
+Szelthafner Zoltán, a Microsoft asztali Windowsokért felelõs hazai vezetõje szerint itthon is a kisvállalatok járnak majd az élen a Vista bevezetésében, mivel "kevesebb speciális alkalmazást használnak, és számítógépeiket is eseti alapon szerzik be, amik túlnyomórészt már Windows Vistaával kerülnek a kereskedõkhöz." Szelthafner lapunknak elmonda, a  nagyvállalatok túlnyomó többsége is tesztelte már a Vistát, sõt, vannak akik bizonyos részlegeiket már át is állították. "Ez a nagyvállalatoknál egy tervezett, körültekintõ szoftveres és hardveres felérést követõ, több lépcsõs migrációs folyamat eredménye, ami mindenképpen megéri a fáradozást."
+
+SP1-re várva
+
+Érdekes, hogy ugyan sok kritika éri a Windows Vistát például a sebessége miatt, a CDW felmérése alapján a megkérdezettek több mint fele szerint az új asztali Windows a várakozások felett teljesít a sebesség, biztonság, keresés és a frissítések terén. A hardverigény is egyre kevéssé gátolja a frissítést, a mostani felmérésben csak a válaszadók 27 százaléka jelölte meg ezt az áttérés gátjaként, míg tavaly februárban 37 százalék, noha a megkérdezettek 44 százaléka új hardvereket és szoftvereket is vásárol a Vista-upgrade kapcsán.
+
+
+ A válaszadók az áttérés kapcsán a leginkább attól tartanak, hogy az elsõ verziója még bugos a Vistának (ezért lesz óriási szerepe a vállalati elterjedésben az SP1-nek), sokan viszont csak azért nem térnek át, mert a Windows XP is teljesen jól kiszolgálja az igényeiket. További visszatartó erõ a képzetlen szakemberek hiánya, és továbbra is sokan vannak, akik számára nem világos, milyen elõnyökkel jár majd az új operációs rendszer bevezetése.
+
+A vállalatok negyedénél már Office 2007 van
+
+A CDW felmérésébõl kiderül továbbá, hogy az Office 2007 igen nagy népszerûségnek örvend, a vállalatok negyede már bevezette, további 23 százalék pedig biztosan be fogja vezetni a közeljövõben. A válaszadóknak mindössze 15 százaléka állította, hogy biztosan nem áll át Office 2007-re, de a véleményük még változhat, hiszen a tavaly februári megkérdezés során még 19 százalék volt azok aránya, akik kizárták az Office 2007 bevezetésének lehetõségét.

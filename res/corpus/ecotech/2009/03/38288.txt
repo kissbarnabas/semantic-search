@@ -1,0 +1,14 @@
+Minden eddiginél nagyobb az érdeklõdés a BME Nemzetközi 24 órás Programozóverseny iránt
+
+Rekordszámú, 320 csapat nevezett a IX. BME Nemzetközi 24 órás Programozóversenyre. Az európai országokon kívül olyan helyekrõl is regisztráltak, mint Dél-afrikai Köztársaság, Venezuela, Kanada, Ausztrália, Japán, Szingapúr, Egyiptom. Összesen 56 országból neveztek csapatok.
+
+
+
+Amint az ismert, a versenyt egy internetes elõválogató elõzi meg, ahonnan a legjobb eredményt elérõ csapatok vívják ki a döntõbejutást. Az elõválogatót február 28-án tartották, a csapatok reggel 10-kor kezdhették el a feladatok megoldását, amelyre pontosan 5 órájuk volt. A feladatsor kilenc, egymástól független problémát tartalmazott. A feladatírók az eddigi hagyományokkal ellentétben idén egy qubit áramkörökkel kapcsolatos fizikai és egy kémiai reakciókat leíró feladatot is beletettek. 
+
+A problémák elsõsorban a versenyzõk algoritmuselméleti ismereteit tették próbára, de emellett fontos szerepet kapott a gyors és precíz kódírási képesség is, hiszen a feladatokra beadott megoldások az idõ elteltével egyre kevesebb pontot értek. A megoldásokat egy külön az elõválogatóra készített, több szerveren futó rendszer pontozta, amely azonnal visszajelzést küldött a csapatoknak. Most sem volt megkötés a versenyzõk által használt fejlesztõeszközökre, könyvekre, operációs rendszerre vonatkozóan. 
+
+
+ Az elõválogatón legjobban teljesítõ német UlmReds csapat feladatok közel felét oldotta meg. Az elõválogatón legjobban teljesítõ 27 csapat vehet részt a május eleji 24 órás versenyen, ahol a tavalyi dobogósokkal egészól ki a mezõny 30 csapatosra. Az idei elõválogatón legjobban szereplõ csapat a Monkey Island volt, amely a nyolcadik helyet szerezte meg, de a májusi döntõbe összesen kilenc magyar csapat jutott.
+
+Akárcsak a selejtezõ fordulóban, a május 1-3. között rendezendõ helyszíni versenyen is a saját számítógépeiken dolgoznak a résztvevõk, a szervezõk a helyszínen csak elektromos áramot és a verseny idejére létrehozott helyi hálózathoz való csatlakozást biztosítják. Nem újdonság az sem, hogy külsõ segítséget tilos igénybevenni, ezért a mobiltelefonok és az internet használata is tiltott.

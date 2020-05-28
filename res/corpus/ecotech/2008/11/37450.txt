@@ -1,0 +1,26 @@
+Szoftverrel és oktatással támogatja a hazai startupokat a Microsoft
+
+Magyarországon is elindult a Microsoft BizSpark programja, amelynek keretében induló vállalkozások három éven át ingyen használhatják a cég alkalmazásplatform-termékeit, illetve az Azure cloud-platformot. A Microsoft nyilvánvaló célja, hogy ezeket elterjessze, akár olyan áron is, hogy kezdetben ingyen adja õket.
+
+
+
+Ingyen szoftver
+
+A BizSpark keretén belül olyan szoftvert vagy szoftveralapú szolgáltatást fejlesztõ cégek juthatnak a Microsoft termékeihez, amelyek legfeljebb 3 éve léteznek, éves árbevételük nem haladja meg az 1 millió dollárt (210 millió forintot), és a tulajdonosuk természetes személy -- utóbbi kitétellel azt akadályozza meg a Microsoft, hogy régóta meglevõ, "befutott" cégek egy leányvállalat alapításával próbáljanak ingyenes szoftverekhez jutni.
+
+A programban többek között a Windows Server, Visual Studio, SQL Server, BizTalk Server, Office SharePoint Portal Server és System Center termékek érhetõk majd el MSDN Professional licenc keretében, amely nem csak ingyenes letöltést és használatot tesz lehetõvé, hanem támogatási szolgáltatások is tartoznak hozzá -- évente két incidens kezelésért még nem kell fizetni. A licencekre vonatkozó megkötés nincs, azaz egy startup akár a Windows Server Datacenter Editionhöz és az SQL Server Enterprise-hoz is hozzájuthat. Ha egy vállalat az összes elérhetõ szoftvert három évre igénybe veszi, a támogatás értéke 120-150 ezer euró.
+
+
+ Drajkó László, a Microsoft hazai leányvállalatának ügyvezetõje elmondta, a cég hisz abban, hogy a szoftverei és szolgáltatásai olyan többletértéket képviselnek a szabadon hozzáférhetõ megoldásokhoz képest, amelyekre érdemes alapozni. Ugyanakkor tisztában van azzal, hogy a Microsoft megoldásai esetében a belépési küszöb magas, ezt szorítja le a BizSpark.
+
+Nem csak szoftvert
+
+"A célunk az, hogy a következõ Yahoo! vagy a következõ eBay a Microsoft platformján induljon el" -- mondta a HWSW-nek Csiszár Dénes, a Microsoft üzletfejlesztési menedzsere, aki sikernek könyvelné el, ha már évente három vállalkozás a BizSparknak köszönhetõen meg tudná valósítani az ötletét és pénzügyi befektetõt tudna találni. A program keretén belül a Microsoft lehetõséget biztosít a cégeknek a bemutatkozásra és az eszmecserére a BizSpark közösségi terében.
+
+A program keretében nem csak szoftverrel segíti a cégek indulását a Microsoft, hanem a partnerei bevonásával üzleti tanácsadást is nyújt annak érdekében, hogy a startupoknak a lehetõ legnagyobb esélye legyen tõkét bevonni. Ez a BizSpark program célja is egyben, és amennyiben egy vállalat ilyesfajta sikert ér el, vagyis a tulajdonosi kör megváltozik, a program számára automatikusan véget is ér, azaz kikerül a támogatásra jogosultak közül. A program végén, azaz a tõkebevonáskor vagy a három év elteltével a cégeknek egy 100 dolláros jelképes összeget kell fizetniük.
+
+A Network Partnerek (Enterprise Europe Network, ITDH, Innostart, Junior Achievement Magyarország, Lilly Media, Kitchen Budapest, Blogter, Magyar Startup és Spinoff Egyesület) többek között üzleti angol nyelvet és kommunikációt, üzleti tervezést, projektmenedzsmentet, jogi illetve a vállalkozás sikeres beindításához és a késõbbi tökebevonáshoz szükséges jogi és gazdasági ismereteket oktatnak -- ingyen.
+
+Jelentés
+
+A jelentkezéshez a startupoknak elég meglátogatni a BizSpark weboldalt, megadniuk az adataikat, majd itt kiválasztani valamelyik Network Partnert. Ezt követõen átesnek egy elõzetes felmérésen, és ha megfelelnek a feltételeknek, akkor megkapják a szoftverek letöltésére és használatára jogosító MSDN licencet.

@@ -1,0 +1,20 @@
+Hagyományos írógéppapírral dolgozik az Mcor Technologies Matrix 3D nyomtatója
+
+Már több gyártó is kínál 3D nyomtatót, az árak is csökkennek némileg, de a tárgyak felépítéséhez használt speciális kellékanyagok ára továbbra is nagyon magas. Az Mcor Technologies készüléke olcsó fénymásolópapírból állítja elõ a tárgyakat.
+
+
+
+A 3D nyomtatók általában speciális fotópolimert használnak a modell létrehozásához. A nyomtatófej bejárja a tálca felületét, elkészítve a tárgy egy vékony szeletét, amit UV fénnyel szilárdít meg a készülék. A tálca precíziós süllyesztésével elkezdõdhet a következõ szelet felépítése. A fotópolimer mellett egy támaszanyag is szükséges, mely az igen összetett és akár több egymásba ágyazott elembõl álló struktúrák elõállításához nélkülözhetetlen. Ezek a speciális anyagok ugyan vékony, akár 3 századmilliméter vékony tárgyak készítését is lehetõvé teszik, de nagyon drágák.
+
+Töredék áron lehetséges a 3D modellgyártásaz Mcor Matrix segítségével
+
+Az Mcor Technologies közleményében az eddigieknél negyveszer olcsóbb megoldást kínál -- a cég asztali modellezõje hagyományos, A/4-es irodai papírból képes elõállítani tetszõleges testeket. Az LOM (Laminated Object Manufacture) prototípusgyártó technológiára alapozva A/4-es lapok speciális összeragasztásával áll elõ a kívánt test, alapanyagnak a legolcsóbb 80 grammos médiát ajánlja a gyártó, ami bármely írószerüzletben beszerezhetõ.
+
+A technológia felbontása vízszintes síkban 0, 05 milliméter, függõlegesen pedig 0,1 milliméter. Dupla vastagságú papír használatával kétszeres sebesség érhetõ el, igaz, függõlegesen így 0,2 milliméteresre nõ a rétegvastagság. A kész darabok tapintása a gyártó leírása szerint hasonló a faragott fához. Jelenleg is folyik a különféle utólagos felületkezelõ lehetõségek tesztelése.
+
+
+Igaz, hogy a fotópolimeres eljárásnál lényegesen durvább megmunkálást tesz csak lehetõvé az új technológia és támaszanyag híján összetett, egymásba ágyazott tárgyak készítésére nem alkalmas, de mindezekért könnyen kárpótolhatja a felhasználókat az alacsony fenntartási költség, ami miatt nem csak tervezõknek, hanem diákoknak és a téma iránt hobbiból érdeklõdõknek is ajánlja a cég az új modellt. Egy 9,4 literes tárgy elõállítása 135 amerikai dollárból megoldható az Mcor Matrixxal, ugyanez 5416 dollárba kerülne a konkurens technológiákkal. 
+
+Az alacsonyabb fenntartási költség új területeken teszi alkalmazhatóvá a 3D nyomtatást
+
+Sajnos a használat közben nem csak a papír fogy, kellékanyag még a papír vágásához szükséges penge és ragasztóanyag, ezek forgalmazói hálózata még kiépítés alatt áll. A speciális penge anyaga ragasztott wolframkarbid. Ahogy más 3D nyomtatók, az Mcor Matrix is CAD forrásállományból (stl) állítja elõ a modellt, melybõl a mellékelt Slice-IT optimalizálja a munkamenetet.

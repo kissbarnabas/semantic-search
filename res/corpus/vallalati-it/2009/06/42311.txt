@@ -1,0 +1,15 @@
+Új levelezésbiztonsági termékek a nevet váltó Message Partnerstõl
+
+Az MPP Compliance and Quarantine egy Linux alatt futó spamszûrõ, karantén és e-mail szabályozó megoldás, míg az MPP Archive egy e-mail archiváló szoftver. A Compliance and Quarantine a spamek szûrése, a levelek archiválása és a jognyilatkozatok hozzáfûzése mellett számos beállítási lehetõséget is biztosít a levelezéssel kapcsolatos szabályokkal kapcsolatban, akár felhasználó, felhasználó csoport, vagy domain, illetve IP-cím alapján is kialakíthatók az e-mail rendszabályok. Ráadásul most mát virtuális készülékként ("appliance") is kínálja a gyártó a terméket, így használatához nem szükséges önálló szerver, csak egy VMware gazdagép.
+
+Minden szervezetnél folyamatosan gyarapodik a céges és a magánlevelek száma, amelyeket nem csupán érdemes, de vállalati levél esetén öt évig kötelezõ is tárolni. A növekvõ levélforgalom önmagában azonban nem szükségszerûen jár együtt a levelezõszerver bõvítésével, cseréjével, archiválás esetén a szükséges tárhelykapacitás lényegesen lecsökken, ráadásul a postafiók méretét sem kell növelni, és megõrizhetõ a levelezõszolgáltatás gyorsasága is -- állítja a cég.
+ 
+
+Az MPP Archive lehetõvé teszi a levelek menedzselését azok teljes életciklusa alatt. A szoftver archiválja, indexeli és tömöríti az e-mail forgalmat a Exchange-bõl, illetve az Exchange-et helyettesítõ megoldásokból, mint például a Zimbra, a Zarafa, a Scalix, vagy az Open-Xchange. A szoftver deduplikálja a leveleket, törli egyazon csatolmány többször is lementett duplikációit, tartalom alapján keresési mintákat állít fel, illetve kitisztítja a régi dátumú e-maileket.  Az MPP Archive nem csupán a szerverek, hanem IMAP-fiókkal rendelkezõ webes levelezõk (például a Gmail) tartalmát is képes eltárolni, így lehetõvé válik, hogy valamennyi levélfiók tartalmában egyszerre kereshessünk, ráadásul ehhez be sem kell lépni a levelezõbe.
+
+"Magyarországon az e-mailekre ugyanazok a jogszabályok vonatkoznak
+mint bármelyik üzleti iratra. A vállalatoknak a levelezésüket 5 évre
+visszamenõleg meg kell õrizniük például egy jövõbeni adóellenõrzéshez,
+legyen szó akár elektronikus, akár írott vagy nyomtatott levelekrõl. A bíróság pedig kellõ megalapozottság esetén az e-mailt is elfogadja
+bizonyítékként." -- mondta a HWSW-nek Bódis Ákos, a MailSpect termékeit itthon forgalmazó Yellow Cube ügyvezetõje. " E-mailek Magyarországon már több ügyben, például kartellezési perekben is
+perdöntõnek bizonyultak."

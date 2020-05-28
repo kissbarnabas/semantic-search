@@ -1,0 +1,14 @@
+Május végén jöhet a Firefox 3.0 kiadásra jelölt változata
+
+A Mozilla befagyasztotta a Firefox 3.0 RC1 kódját, amelyet május végén ki is ad. A nyílt forrású böngészõ mögött álló szervezet szerint mintegy 1,2 millió felhasználóhoz szeretnék eljuttatni a kiadásra jelölt elõzetest, hogy a lehetõ legtöbb visszajelzést, észrevételt gyûjtsék be a végleges verzió júniusra ígért megjelenése elõtt.
+
+
+
+Jelenleg úgy tûnik, a Firefox 3.0 fejlesztési ciklusában mindössze egyetlen RC lesz, amelyet közvetlenül a végleges verzió követ majd. Mike Schröpfer fejlesztési vezetõ azonban a Mozilla.dev.planning fórumban leírta, hogy amennyiben komoly bugra akadnak, akkor több Release Candidate verzióra is szükség lehet. A Firefox 2.0-ból a 2006-os megjelenése elõtt összesen három RC-t adott ki a Mozilla, és idén márciusban Schröpfer még úgy vélekedett, a Firefox 3 esetében sem lesz ez másképp. 
+
+
+A nyílt forrású böngészõ legújabb változatának fejlesztése nem kimondott sikertörténet: a programnak az eredeti tervek szerint már tavaly meg kellett volna jelennie. A számos új szolgáltatás mellett átszabott kezelõfelülettel is felvértezett böngészõból szokatlanul sok, összesen öt bétaváltozatot adtak ki, a legutóbbit hat hete jelentették meg. Ha valaki a Firefox 3 bétáját használja, annak a böngészõje automatikusan frissülni fog az RC változatra. 
+
+Közben elkezdtek szivárogni az elsõ információk a Firefox 4-rõl, vagy legalábbis a tervezett újításokról. Chris Beard, a Mozilla alelnöke egy interjúban fellebbentette a fátylat többek között a Prism technológiáról, amely az offline is mûködõ webalkalmazások fejlesztését hivatott segíteni. A cél az, hogy bármilyen weboldal vagy webalkalmazás elérhetõ legyen akár a böngészõn kívül is, akár egy telepített szoftver.
+
+A Firefox 4 másik fontos újdonságának a Weave ígérkezik, amely nem az asztali rendszerek, hanem az internet felé terjeszti ki a böngészõ képességeit. A cél az, hogy a felhasználói élményt webszolgáltatások integrációjával tegyék még teljesebbé. Ennek alapjai már a Firefox 3-ban is megtalálhatók a Placesben, amely a meglátogatott oldalakat és a kedvenceket fogja össze. A Firefox 4-ben ez tovább "okosodhat", például egy webcím begépelésekor a korábbi keresések alapján javaslatokat tesz. Szintén a Weave teszi majd lehetõvé, hogy a Firefox 4 felhasználói a saját beállításaikat, tárolt adataikat (pl. könyvjelzõk, mentett jelszavak, meglátogatott oldalak) mindig, mindenhonnan elérjék, függetlenül attól, hogy honnan és milyen készülékkel csatlakoznak a netre.

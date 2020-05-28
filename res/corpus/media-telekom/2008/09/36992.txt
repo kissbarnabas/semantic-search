@@ -1,0 +1,14 @@
+A VDSL-nél háromszor gyorsabb mobil adatkommunikációval kísérletezik a német T-Mobile
+
+A múlt hét során a kontinensen elsõként végeztek sikeres teszteket éles körülmények közt a harmadik generációs mobil adatátviteli technológiák egyik lehetséges utódjának tekintett LTE (Long Term Evolution) technológiával. Az eljárás alkalmazásának egyik úttörõje, a T-Mobile a Nortellel karöltve végezte a kísérleteket, melyek során szédületes tempójú le- és feltöltési sebességeket mértek egy folyamatosan mozgásban lévõ végponton.
+
+
+
+A mostani teszt során a mindennapi körülmények szimulálása volt a célja a T-Mobile szakembereinek, akik az LG Electronics LTE-termináljait egy autóban helyezték el, mely egy négykilométeres bonni autópályaszakaszon haladt a Deutsche Telekom és a T-Mobile fõhadiszállása közt. A kísérlet tanúsága szerint az adatátvitel a teljes szakaszon folyamatos és akadozásmentes volt, azaz a cellák közti váltás semmilyen zavart nem okozott a kommunikációban -- ez az újgenerációs mobilhálózat létesítésének és a további teszteknek az egyik alapfeltétele.
+
+
+ A T-Mobile szerint a szárnyait bontogató technológia már az ilyen, korai tesztek alkalmával is kimutatja foga fehérjét: a mostani kísérlet során 170 megabit/másodperces letöltési és 50 megabit/másodperces feltöltési sebességet sikerült elérni, a rendszer ezzel a Németországban jelenleg széles körben elérhetõ leggyorsabb lakossági vezetékes technológiának, a VDSL-nek közel háromszorosát hozza.
+
+A német szolgáltató a hannoveri CeBIT-en demonstrálta elõször az LTE technológiát -- akkor fix, statikus végpontok közt továbbítottak adatot. A kiállításon az érdeklõdök több HD-videó valósidejû streamjét tekinthették meg rövid hatótávolságú LTE-rendszerben továbbítva. A T-Mobile a következõ, valós felhasználási körülmények közt végzett teszteket részben ezen a platformon végezné, azaz az LTE-t legközelebb kifejezetten nagy sávszélességigényû, illetve alacsony késleltetésû, folyamatos adatkapcsolatot igénylõ feladatoknál vetik majd be. A jövõben így további tesztek várhatók HD-videókkal, illetve különbözõ online játékokkal.
+
+Az újgenerációs mobilkommunikációs hálózat szabványát egyelõre nem határozták meg, a gyártók és szolgáltatók egy része ugyanis a Sprint Nextel WiMax-alapú megoldására esküszik, mások pedig a fentebb is említett LTE-technológiát részesítenék elõnyben. A mostani teszt infrastrukturális hátterét szállító Nortel szerint a szolgáltatók 80 százaléka az LTE-t választja majd a mobil adatkommunikációs hálózat továbbfejlesztési irányaként.

@@ -1,0 +1,24 @@
+Beérett tizenöt évnyi fejlesztés: küszöbön a Wine 1.0 megjelenése
+
+A projekt hivatalos indulásától számított tizenötödik évfordulón, június 6-án jelenik meg a Wine 1.0 változata. A széles körben ismert és használt szoftver lehetõvé teszi windowsos alkalmazások futtatását Linuxon. Az 1.0 verzió megjelenése elõtt mindössze pár tucat hibát kell a fejlesztõknek javítaniuk, amelyek közül egy sem tûnik olyan súlyosnak, hogy hátráltatná a kiadást.
+
+
+
+Lassú víz partot mos
+
+A Wine-t Bob Amstard és Eric Youngdale hozta létre 1993-ban, hogy lehetõvé tegyék Windowsra írt alkalmazások futtatását Linuxon -- a kezdõlökést a Sun által készített Wabi adta, amely a windowsos API-k nyílt változatainak létrehozását tûzte ki célul, de 1996-ban a redmondiak nyomására megszüntették. A Wine nem egy emulátor, hanem egy kompatibilitást biztosító szoftverréteg, amely a windowsos alkalmazások által meghívott DLL-ek alternatív implementációját biztosítja, de akár a Windows saját DLL-jeit is képes használni, amennyiben a felhasználó rendelkezik velük.
+
+A Wine fejlesztése azért haladt ennyire lassan, mert egyrészt maguk a Windows-változatok is szerteágazóak, az operációs rendszer API-jai sokszor rosszul, vagy bizonyos esetekben egyáltalán nem dokumentáltak. A Win32 függvényekkel ilyen szempontból nincs nagy probléma, de egyes fájlformátumok és protokollok kiismerése igazi kínszenvedést jelentett a Wine fejlesztõinek, akik ráadásul a mai napig szabadidejükben foglalkoznak a programmal. További hátráltató tényezõ, hogy a nyílt forrású Wine projekt sosem rendelkezett egy átfogó hibakezelõ és tesztelõ rendszerrel, de az sem könnyítette meg a fejlesztõk dolgát, hogy a Windows-változatok mellett a különféle Linux-disztribúciók is igen sokfélék, ami elnyújtja a tesztelési folyamatokat.
+
+Közel 3 ezer tesztelt alkalmazás
+
+A Wine weboldalán jelenleg közel 10 ezer különféle windowsos alkalmazásról érhetõek el kompatibilitási információk, ezek közül majdnem 1300 olyat találni, amely mindenféle probléma nélkül települ és fut Wine-on, további 1500 pedig apróbb trükkökkel mûködésre bírható. A hibátlanul futó, "Platina" minõsítésû, alkalmazások sorában számos játékot is találni (pl. Half-Life 2, Call of Duty 2, Star Wars: Galaxies, Battlefield 1942), egyébként is feltûnõen sok játék van a tízezres listában, amelynek oka az lehet, hogy a népszerû windowsos alkalmazások legtöbbjének megvan a linuxos megfelelõje, a szabad operációs rendszer azonban játéktámogatás terén mindig mostohagyereknek számított. Az ismertebb windowsos alkalmazások közül az Office XP és 2003, valamint az Internet Explorer 7 is mûködik Wine alatt.
+
+
+Érdekes, hogy maga a Microsoft hivatalosan sosem kommentálta a Wine-t, azonban a szoftver fejlesztõi kiderítették, hogy például az automatikus frissítõszolgáltatással nem update-elhetõk Wine-on futtatott Microsoft-alkalmazások (pl. az Office), mivel a rutin ellenõriz bizonyos registry-bejegyzéseket. Ugyanez a helyzet a WGA (Windows Genuine Advantage) ellenõrzéssel is, amely blokkolja a frissítések letöltését a Wine-on futó Microsoft-alkalmazásokhoz.
+
+A Linux, mint asztali operációs rendszer ellen gyakran hozzák fel azt az érvet, hogy nincs meg rá egyik-másik ismert és elterjedt windowsos szoftver, ezek közé tartozik például a Photoshop is. A Wine legújabb verziójának segítségével az Adobe képszerkesztõjének CS (8.0) változata már problémamentesen használható, a tesztelõk semmiféle hibával nem találkoztak. A Google a CodeWeavers-en keresztül támogatja a Wine fejlesztését, hogy az problémamentesen futtassa többek között a PhotoShop CS2-t is, a Picasa fotókezelõ szoftver futását pedig a Wine segítségével teszi lehetõvé Linuxon.
+
+Megspórolható a Windows
+
+A kérdés az, vajon megérte-e 15 évet várni a Wine-ra. A szoftver elsõsorban azoknak jelenthet megoldást, akik Linuxot szeretnének használni az asztali gépükön, azonban egyes, számukra kritikus fontosságú szoftverek nem készültek el a szabad operációs rendszerre, és csak Windowson mûködnek. A virtualizáció megjelenésével és elterjedésével azonban ma már egyáltalán nem jelent problémát a két operációs rendszer párhuzamos futtatása, így ha valakinek szüksége van egy windowsos alkalmazásra, bátran elindíthatja amúgy linuxos gépén valamelyik Windowst, és benne az adott programot -- hivatalosan támogatva, natív környezetben. Persze a Wine-nal megspórolható a Windows ára.

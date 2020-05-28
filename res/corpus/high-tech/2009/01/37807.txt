@@ -1,0 +1,16 @@
+A pureSilicon 1 terabájtos SSD-vel jelentkezett
+
+A pureSilicon a CES-en mutatta be nagysûrûségû szilárdtest-meghajtóját, mely 1 terabájt adat tárolására is alkalmas. Az új egység remek fogyasztási és sebességmutatókkal is rendelkezik.
+
+
+
+A pureSilicon új, 2,5 hüvelykes Nitro SSD-je SATA II csatolófelületen kapcsolódik a vezérlõáramkörökhöz, bemutatásakor a gyártó felhívta a figyelmet arra, hogy 1 terabájtos tárkapacitása legalább háromszorosa a jelenleg kapható legnagyobb egységeknek. A pureSilicon közölte, hogy a nagy adatsûrûség a következetes áramköri tervezésnek is köszönhetõ.
+
+
+A meghajtónak már a burkolata is igen vékony, hogy az elektronikának minél több hely maradjon, de ennek ellenére még mindig túl vastag ahhoz, hogy hordozható gépekben viszontláthassuk. A gyártó fõképp szerverek tárolójának szánja, ahol négy darab is elhelyezhetõ a 3,5 hüvelykes egységek által igényelt helyen. A pureSilicon Nitro 1 terabájtos meghajtó az év harmadik negyedévétõl válik majd elérhetõvé, egyelõre nem ismertetett, de vélhetõen igen magas áron.
+
+
+
+A 2 millió órán át meghibásodás nélkül üzemelni képes (MTBF) Nitro nem csak a tárkapacitás tekintetében remekel, hanem az adatok olvasásának és írásának sebességében is, elõbbi 240 MB-ot utóbbi pedig az ugyancsak kimagasló 215 MB-ot jelent másodpercenként. Az Nitro aktív állapotban 4,8 wattot, üresjáratban pedig 0,1 wattot fogyaszt. A meghajtó rendelkezik egy külön titkosítólapkával is, mely AES 256 kóddal láthatja el a felírt adatokat, így azok akkor is biztonságban vannak, ha valaki eltulajdonítja az egységet.
+
+A pureSilicon a Nitro mellett egy keménykötésû sorozatot is bemutatott. A Renegade teljesíti a MIL-SPEC 810F katonai szabvány követelményeit, így  rendkívül ellenálló az ütõdéssel a vibrációval, a széles hõmérsékletingadozásokkal, valamint a porral szemben. A Renegade az év elsõ negyedévében 1,8 és 2,5 hüvelykes fizikai méretben válik elérhetõvé.

@@ -1,0 +1,18 @@
+Elérhetõ az Opera 10 elsõ bétája
+
+Az Opera 10 a manapság zajló böngészõpiaci trendeknek megfelelõen elsõsorban gyorsaságával próbál kiemelkedni a mezõnybõl: az új változatba a Presto renderelõmotor 2.2-es verziója kerül, mely a fejlesztõk szerint az Opera 9.6-nál akár 40 százalékkal gyorsabban jelenítheti meg az erõforrásigényes oldalakat. Az új Opera egy másik funkciója, az Opera Turbo elsõsorban azok számára hozhat jelentõsen gyorsabb böngészést, akik lassabb kapcsolattal neteznek.
+
+
+
+
+A Turbo bekapcsolásával az Opera webböngészõ a
+weboldal teljes megjelenítéséhez szükséges sávszélességet az ígéretek szerint akár 80
+százalékkal is csökkenthetik -- a böngészõk ilyenkor valójában az Opera
+saját szerverével kommunikálnak, mely elõre letölti és a tartalom
+megváltoztatása nélkül tömöríti az oldalakat. Mindebbõl a felhasználó a
+cég ígérete szerint alig vesz majd észre valamit, igaz, a tömörítés
+mértékébõl adódóan az oldalakon található képes és grafikus elemek
+minõsége az Opera Minivel (az egylsõ olyan böngészõ, ahol korábban alkalmazak hasonló eljárást) szerzett tapasztalatok alapján jelentõsen
+romolhat.
+Az Opera 10 további lényeges újdonságai közé tartozik az áttervezett kezelõfelület, melynek megalkotását ezúttal nem szakmabelire, hanem egy elismert dizájnerre, Jon Hicksre bízták. Az új, még formálódó külsõ egyik fontos eleme az átalakított böngészõfül-kezelés, mely elsõsorban a fülméretek szabályozásában merül ki. Az Opera 10 emellett testreszabhatóbb speed dial funkciót kínál,valamint megjelent az 51 nyelvet támogató, Hunspell-alapú helyesírás-ellenõrzés is a böngészõben.
+Az Opera Software új webböngészõjének ingyenes tesztváltozata letölthetõ a cég weboldaláról. Az Opera 10 elsõ bétája Windows, Mac és Linux platformon egyaránt kipróbálható.

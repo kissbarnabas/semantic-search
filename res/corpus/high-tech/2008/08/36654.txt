@@ -1,0 +1,14 @@
+A Transmeta energiatakarékos technológiáit licenceli az NVIDIA
+
+Az NVIDIA 25 millió dolláros egyszeri összegért licencelte a Transmeta LongRun és LongRun2 energiatakarékos technológiáit, amelyeket saját termékeibe épít be azzal a céllal, hogy megfékezze azok túlzott fogyasztását és hõtermelését. 
+
+
+
+A csúcskategóriás grafikus chipek ma már bonyolultságban túltesznek a processzorokon is, fogyasztásuk és hõtermelésük akár jóval nagyobb is lehet azokénál. Az NVIDIA szóvivõje szerint a Transmeta LongRun energiatakarékos technológiái már bizonyítottak a piacon -- a licencelõk között van az NEC, a Sony és a Fujitsu is. Az NVIDIA-nak szüksége van a Transmeta technológiáira, hogy jobban ki tudja szolgálni a laptopok és mobil eszközök igényeit -- mondta Derek Perez.
+
+
+ A Transmeta a rendkívül energiahatékony Crusoe processzoráról vált ismertté még az évezred elején. Az egykor Linus Torvaldsot is foglalkoztató cég nem tudta beváltani a hozzá fûzött felfokozott várakozásokat, a Crusoe gyártástechnológiai okok miatt sokat késett, utódja, az Efficeon megjelenésekor pedig már piacon volt az Intel Centrino, amely letartolta a notebook-piacot, a perifériára számûzve a Transmetát is. A szép reményekkel induló vállalat végül 2005-ben jelentette be, hogy elhagyja a processzorpiacot, és szellemi tulajdonának licencelésébõl kíván tovább élni.
+
+[+] NVIDIA: túlmelegedõ mobil grafikus chipek és chipkészletek 
+
+Az NVIDIA július elején jelentette be, hogy egyes mobil grafikus chipjei a tokozás miatt a hõstressztõl meghibásodhatnak. A javításokkal és cserékkel kapcsolatban az NVIDIA a július 27-én véget ért negyedévben legalább 150 millió dolláros költséget könyvelt el. A hibát alighanem az okozza, hogy a grafikus chip vagy chipkészlet a hõmérséklet folyamatos változását nem tolerálja, és a tokozás megreped, a forrasztások elengednek. A Dell érintett notebookjait tartalmazó lista alapján az NVIDIA GeForce 8400M, 8600M, és Quadro NVS 135 chipekkell lehet a probléma.

@@ -1,0 +1,21 @@
+Hirtelen született meg a Google Chrome 2.0
+
+Négy hónap telt el a Google Chrome 0.2-es verziójának bejelentése után, mikor pár hete nagy hirtelenséggel megjelent a végleges 1.0 változat. Még fel sem ocsúdtunk szinte abból a hírbõl, máris terítéken a 2.0 is.
+
+
+
+Elsõre úgy tûnhet, hogy a Chrome az Internet Explorert szeretné  verziószámban a leghamarabb utolérni, de természetesen messze nem errõl van szó. A 2.0-ás változat fejlesztése még alfa stádiumban van, de ennek ellenére az önkéntes fejlesztõk és az érdeklõdõ kalandorok számára is elérhetõvé teszik azt.
+
+Háromféle változat
+
+Mostantól kezdve a Google Chrome felhasználói folyamatosan három különféle verzió közül közül választhatnak, attól függõen, mekkora vállalkozó keddvel szeretnék követni az újításokat. A normál, úgynevezett "stabil" csatorna a végleges, hivatalos kiadásokat frissíti majd csupán, az ígéretek szerint negyedévente. A béta és a fejlesztõi csatorna már a bátraké, ennek kiválasztásához elõször érdemes feliratkozni a vonatkozó Chromium csoportba, illetve le kell tölteni egy "csatornaváltó" alkalmazást, de a Chromium  fejleszõi oldalon alapos információk találhatók mindenrõl.
+
+A választható két kíserleti csatorna közül a bétaverzió havi frissítést jelent, ahová a már kipróbált újítások kerülnek be. Ez egy elméletileg jól használható, kiegyensúlyozott állapot lesz, de mint minden bétánál, itt is adódhatnak meglepetések. A fejlesztõi, azaz developer csatorna a teljesen kiforratlan funkciókat is tartalmazó, hetente frissülõ, fejlesztõknek és kísérletezõ kedvû felhasználóknak szóló verzió lesz. Aki idõközben a fagyásoktól megijedve mégis visszatérne a korábbi, de stabil változatra, annak viszont újra kell majd telepítenie a Chrome-ot.
+
+Kevés újdonság a 2.0-ban
+
+Mivel a béta elõtti 2.0 változat folyamatosan fog fejlõdni a fentiek szerint, ezért jelenleg ne is számítson senki funkcióparádéra. Az elsõ verzióból kimaradt hiányosságok egy részét viszont pótolták, sõt akadnak egészen érdekes és hasznosnak tûnõ újítások is. Minden böngészõben alapkövetelmény ma már a szövegbeviteli mezõk automatizált kitöltése, ami végre a Chrome-ba is bekerült. A nagyítás és kicsinyítés optikaiáv vált, vagyis ezentúl már nem csak a szövegre vonatkozik, hanem a képekre, mezõkre, táblázatokra, beágyazott tartalmakra is, ami szintén minimum elvárás 2009-ben.
+
+A feltûnõ változások közé tartozik még a profilok bevezetése, ami a mobiltelefonokon megszokott üzemmódokhoz hasonlóan különbözõ beállításokat és környezetet enged használni egyazon böngészõben. A profilok közt egy kattintással lehet váltani, és ilyenkor külön elõzmények, külön jelszótár, külön könyvjelzõk állnak rendelkezésre. Sõt, egy új ablak megnyitásakor azt is ki lehet választani, hogy az melyik profilban nyíljon meg, így akár lehet gyûjtögetni ebédszünetig a vicces linkeket, de a vendégségbe érkezõknél sem kell figyelni, hogy mikor lépnek be az automata  beállításunkkal a levelezésünkbe.
+
+Ezeken felül a WebKit egy teljesen új verziója kerül a böngészõ alá, fejlettebb CSS kezeléssel, továbbá javítottak a helyesírás-ellenõrzésen, új hálózatkezelési kódot, és új verziójú V8 Java motort építettek be. Ami viszont a barkácsolni vágyók számára jó hír, hogy a Greasemonkey-hoz hasonló felhasználói script felülettel is gazdagodott a Chrome, ami sok Firefox felhasználó számára lehet csábító érv a jövõben.

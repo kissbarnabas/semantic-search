@@ -1,0 +1,15 @@
+A Windows Vista is fogyókúrára fogható az ingyenes vLite segítségével
+
+[Techworld] Megjelent a vLite segédprogram elsõ végleges változata. Az apró program Windows XP-s verziója (nLite) rendkívül népszerû a rendszergazdák, de a hozzáértõbb felhasználók között is, ezzel ugyanis teljesen személyre szabhatjuk a Windows rendszerek telepítõlemezét. Az új változat a Windows Vistát kezeli, végre fogyókúrára foghatjuk, vagy már telepítés elõtt frissíthetjük ezt az operációs rendszert is.
+
+
+
+A vLite nagyon hasznos alkalmazás, nem csak arra képes, hogy megkönnyítse a telepítést azzal, hogy semmilyen felhasználói beavatkozásra nem lesz szükség, hanem a felesleges funkciókat is kipakolhatjuk a gyári telepítõlemez másolatából. Az operációs rendszerek így igen komoly fogyókúrára foghatók, egy munkára használt noteszgépen például nincs szükség a Media Center komponensre, a játékokra, vagy éppen a Tablet PC funkciókra. Ezek feleslegesen foglalják a helyet a merevlemezrõl.
+
+
+A szoftverrel saját, személyre szabott telepítõlemezt készíthetünk, melybõl nem csak elvehetünk funkciókat, de akár a Microsoft által kiadott frissítéseket is elhelyezhetjük benne. Így a hamarosan megjelenõ Windows Vista elsõ szervizcsomagja is könnyen "slipstreamelhetõ" lesz az operációs rendszer telepítõjébe, egy újratelepítésnél már eleve ezzel együtt kerül fel számítógépünkre az operációs rendszer.
+
+
+
+
+A vLite alkalmazást Dino Nuhagic fejleszti, az 1.1-es verzió a múlt hét óta érhetõ el. A Windows XP-s változatot nLite néven találhatjuk meg. A szoftverek használata azonban csak hozzáértõknek javasolt, könnyen olyan komponenst is kiszedhetünk a telepítõbõl, mely a rendszer futásához szükséges.

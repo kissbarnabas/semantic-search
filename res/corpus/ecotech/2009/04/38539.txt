@@ -1,0 +1,26 @@
+A Microsofthoz igazol a Sun chiptervezõ veteránja
+
+A Microsoftnál folytatja pályafutását a Sun Microsystems mikroelektronikai részlegének mûszaki vezetõje, Marc Tremblay, aki alighanem a következõ Xbox processzorán dolgozik majd. Tremblay közel két évtizedet dolgozott a Sunnál és minden más Sun-dolgozónál több szabadalmat jegyez, összesen több mint százat.
+
+
+
+Masszívan párhuzamos rendszerekben gondolkozik a Microsoft is
+
+Tegnap még csak Tremblay távozása volt nyilvános, ma azonban már azt is lehet tudni, a Sunt elhagyó vezetõ a Microsoftnál dolgozik tovább, mégpedig a Strategic Software/Silicon Architectures csapatban, ahol minden valószínûség szerint a cég következõ játékkonzoljában alkalmazott processzor specifikálása lesz az elsõ számú feladata. Az Xbox 360 és a PlayStation 3 is többmagos processzort tartalmaz és alighanem a következõ generációs, elõreláthatólag 2012 körül piacra érkezõ újdonságokban is ilyen lapkák dolgoznak majd. A szakember "distinguished engineer" pozícióban érkezik a Microsofthoz, ami mûszaki vonalon a második legmagasabb fokozat a "fellow" mögött.
+
+A Tremblay fejében a masszívan párhuzamos architektúrák terén felhalmozott tudást alighanem a Microsoft más részlegeinél is tudják majd hasznosítani, akár a Windows vagy más szoftverek fejlesztésénél is. A Microsoft Strategic Software/Silicon Architectures csapatának feladata többek között a jövõbeli szoftverfejlesztések stratégiai irányainak kijelölése szoros együttmûködésben a hardvergyártókkal. Tremblay a Sun kötelékében számos többmagos, többszálú végrehajtásra képes lapka tervezését irányította, dolgozott a korát messze megelõzõ MAJC-en, a Niagara kódnéven ismert nyolcmagos UltraSPARC T1-en, valamint az õ fejébõl pattant ki a Sun nagy ígérete, az év végére ígért Rock kódnevû lapka is.
+
+Tremblay nagy dobása, a Rock
+
+Tremblay legnagyobb dobása egyértelmûen a régóta csúszó, a legutóbbi információk szerint õszre várható 16 magos Rock, amely számos elõremutató megoldást tartalmaz és nem mást várnak tõle a Sunnál, mint hogy ismét versenyképes teljesítményû csúcskategóriás processzora legyen a cégnek a high-end szegmensben, amely masszívan párhuzamos felépítésû, de egyszálú teljesítményben is megállja a helyét a vetélytársakkal szemben. A Rock ennek érdekében számos, mai szemmel szokatlannak tûnõ megoldást tartalmaz.
+
+[+] A Sun UltraSPARC új generációja: Rock
+
+Ezek közé tartozik például az árnyékszálak használata is. Annak érdekében, hogy a Rock magjai egyszerûek maradhassanak és ne legyen szükség dinamikus ütemezést megvalósító komplex logikára, a Sun az  "árnyékszálakat" vetette be, amelyek feladata a fõ programszálak futásának segítése. Az árnyékszálak olyan programszálak, amik képesek akár több ezer utasítással is elõre dolgozni, adatokat betölteni, a gyorsítótárat feltölteni, az elágazásbecslõt "trenírozni", sõt, akár utasításokat is képesek végrehajtani. A Rockon minden magon 2 utasításszál és 2 árnyékszál fut, utóbbi kettõ a szoftverek számára teljesen láthatatlan.
+
+
+ Az interneten fellelhetõ információk szerint a Rock érkezésekor 2,3 GHz-es órajelen mûködik majd. Úgy tudjuk, a Sun terveiben három Rock-alapú szerver szerepel, a legkisebb nagyjából fél rackszekrényt foglal el, a két másikhoz azonban már egy teljes szekrény kell, legfõképp azért, hogy legyen hol elhelyezni azt a rengeteg memóriát, ami ahhoz szükséges, hogy az extrém párhuzamosságra tervezett Rock teljesítményét ne a memóriahozzáférés korlátozza. 
+
+Tremblay utóda
+
+A Sun szûkszavú közleményében megerõsítette Tremblay távozásának hírét és megköszönte a munkáját. Tremblay utóda a Sun chiptervezõ divíziójának élén Rick Hetherington lesz, aki társ-vezetõként Tremblay-jel együtt két éve vezette ezt a csapatot. Rick Hetherington 1996-ban került a Sunhoz, ahol elsõ feladata a Millennium kódnevû processzor tervezésének vezetése volt -- a Millennium sose került piacra. Ezt követõen a szakember az UltraSPARC T1 fejlesztésében vett részt. Mielõtt a Sunhoz került volna, Hetherington a Digital Equipment Corporationnél töltött tizenhat évet, ahol szintén processzor- és rendszerfejlesztéssel foglalkozott.

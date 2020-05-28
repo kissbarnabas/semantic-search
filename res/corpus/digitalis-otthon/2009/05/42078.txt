@@ -1,0 +1,16 @@
+Már mobiltelefonokon is tesztelhetõ a Mozilla mobilos böngészõje
+
+A Fennec az elsõ pre-alfa tesztverziója ugyan már februárban megjelent, a Firefox webböngészõt is jegyzõ cég azonban most elõször ér el nagyobb tömegeket a mobilos böngészõ kipróbálható, fejlesztés alatt álló változatával. A fejlesztõknek és kísérletezõ kedvû felhasználóknak dedikált böngészõ továbbra is a fejlesztés kezdeti fázisában jár, a Mozilla a tesztüzem kiterjesztésével azonban a jelek szerint kész nagyobb fokozatra kapcsolni.
+A mobil böngészõ egyik fejlesztõje, Jason Lassey blogjában kiemeli, hogy a Fennec új alfaváltozata a korábbi verzióknál hatékonyabb memóriakezelést ígér, emellett most már a teljes felhasználói felület CSS-alapú, ezért a programozók könnyebben a különbözõ mobiltelefonok kijelzõihez igazíthatják az interfészt. A Fennec alfaváltozata emellett már kiterjesztéseket is támogat, hasonlóan, mint a Mozilla Firefox.
+A Fennec egy modern mobiltelefonos böngészõ, támogatja az
+érintõkijelzõket, a Firefoxhoz hasonlóan lehetõséget nyújt több fül
+egyidejû megnyitására, amik között a váltogatást kis elõnézeti képek
+segítik. A Firefox Mobile címsora is tudja azokat a trükköket, amiket
+az asztali gépekre szánt változat, azaz kereshetõ. Említést érdemel még
+a jelszómenedzser és a felugró ablakokat blokkoló rutin, valamint a
+tárolt személyes adatokat egyetlen kattintásra törlõ funkció. A késõbbi
+változatokban várható a TraceMonkey nevû villámgyors JavaSctript-motor
+felbukkanása, valamint a Gecko 1.9.1-ben elérhetõ Geolocation
+szolgáltatás megjelenése, ami a kereséseket helyfüggõ szolgáltatássá
+változtatja.
+A mobilos böngészõ alfaváltozatát elvileg minden Windows Mobile 6.x-alapú operációs rendszerre épülõ telefon futtatja, a készítõk azonban elsõsorban a HTC Touch Pro okostelefonra optimalizálták a programot, melyet továbbra sem javasolnak mindennapi használatra.

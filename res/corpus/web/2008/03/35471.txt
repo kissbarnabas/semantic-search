@@ -1,0 +1,14 @@
+A Nokia telefonjaiban is helyet kap a Microsoft Silverlightja
+
+[Techworld] A MIX 08 konferencián hullik ma le a fátyol a Microsoft és a mobiltelefongyártó óriás Nokia között létrejött megállapodásról, miszerint a Flash-rivális Silverlight a Nokia készülékeiben is helyet kap a jövõben. A Silverlight a Microsoft válasza az Adobe Flashre.
+
+
+
+A MIX 08 rendezvényen a Nokia demonstrálni is fogja Series 40 és 60 platformokat futtató telefonjain a keresztplatformos, hamarosan .NET-et is támogató Silverlight plugint, mellyel a fejlesztõk multimédiás és internetes alkalmazásokat készíthetnek. Ezek az alkalmazások a mobil böngészõjén keresztül futhatnak majd, a béta állapotú plugint a Nokia elérhetõvé teszi majd a fejlesztõk számára.
+
+A korábban Windows Presentation Foundation/Everywhere kódnéven ismert Silverlight többféle böngészõvel (IE, Firefox, Safari) kompatibilis, webalkalmazások, grafikák, animációk megjelenítésére alkalmas interaktív eszköz. A Silverlight 1.0 tavaly szeptemberben érkezett, de hamarosan itt a 2.0 verzió, amely valójában az 1.0 elsõ frissítése, de annyi újdonságot zsúfoltak bele, hogy a verziószámot egytized helyett egy teljes egésszel növelte meg a Microsoft.
+
+
+A Flash ellen folytatott -- annak rendkívüli elterjedtsége miatt egyelõre kilátástalannak tûnõ -- harcban a Microsoft titkos fegyverei a fejlesztõi eszközök lehetnek, amelyek széles körben ismertek, elterjedtek, használtak. Mivel a fejlesztõk már jól ismerik a .NET Frameworköt és a Visual Studiót, könnyebben tudnak Silverlighton futó alkalmazásokat készíteni, a webalkalmazások fejlesztéséhez nem kell adott esetben új eszközöket (pl. Adobe Flex) megismerniük.
+
+A Microsoft tervei szerint a Windows Mobile operációs rendszer is kibõvülhet hamarosan egy Silverlight pluginnal, így valószínûleg nem az év végén érkezõ, a megoldást már gyárilag támogató telefonok lesznek az elsõ, a Silverlightot natívan támogató mobilkészülékek a piacon.

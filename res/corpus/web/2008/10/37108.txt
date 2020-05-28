@@ -1,0 +1,23 @@
+Heteken belül elérhetõ a Firefox Mobile?
+
+John Lilly, a Mozilla elnök-vezérigazgatója egy interjú során megerõsítette, hogy hetek kérdése és megjelenik a Firefox Mobile elsõ publikus változata. Egyes jóslatok szerint csak 2010-ben érkezett volna meg a sokak által várt mobilböngészõ, de a San José Mercury News újságírójának adott interjúban a Mozilla-vezér tisztázott minden pletykát, egyenesen válaszolt a feltett kérdésekre.
+
+
+
+Lilly azt mondta, hogy "Azt akarjuk, hogy a mobilos web jobban hasonlítson a teljesértékûre, mint amit az ipar ma ajánlani tud. A mai megoldások zártak, szétszabdalt hálózatokból állnak és az információszerzés élménye nem mondható jónak a felhasználó szemszögébõl. Az elsõ feladatunk a átvinni a Firefoxot mobil eszközökre, amin dolgozunk is, és pár héten belül mûködõ alfaváltozatokat fogunk látni." A Fennec kódnéven (fennec fox = sivatagi róka) futó projektrõl már korábban is rebesgették, hogy még idén megjelenik belõle egy elõzetes, de hivatalos megerõsítés korábban nem volt.
+
+Elkésve? 
+
+Egy pár héttel ezelõtt viszont feltûnt az interneten egy újabb demó a Firefox Mobile-ról, illetve koncepcióvideókat már láthattunk korábban a hivatalos Mozilla-blogon is, melyekbõl kiderül, hogyan mûködik a szoftver egy modern okostelefonon. A nyáron megjelent videón teljes képernyõn futtatva látszik a böngészõ, szokás szerint az ujj húzásával lehet mozogni az oldalon belül, illetve zoomolni, elõre- vagy visszalépni. Viszont úgy tûnt, hiányzik a címsor és az állapotsáv, a Firefox Mobile hasonlít az iPhone böngészõjére. Fontos különbség azonban, hogy utóbbi szinte minden készüléken elérhetõvé válik hamarosan, így a Firefox végre elindulhat a kisebb kijelzõkön is hódító útjára.
+
+
+A Mozilla mobil böngészõjének elõ kell rukkolnia valamilyen valódi elõnnyel, meg kell mérkõznie az elõzõ generációs böngészõk elterjedtségével, valamint a Chrome, illetve a Safari hordozható változatainak kezelõfelületével, funkcionalitásával. Az új terméknél az interakció az ígéretek szerint méginkább érintésalapúvá válik, sokkal több lehetõség lesz, mint a jelenlegi le-fel scroll és zoom.
+
+
+                Firefox Mobile Concept Video from Aza Raskin on Vimeo.
+
+
+
+Az alfaváltozat megjelenése után néhány hónappal már elképzelhetõ, hogy stabil, végleges funkcionalitású béta verzió is napvilágot lát, ami akár egy teljesen új böngészõháborút is indíthat, éppen akkor, amikor az Android készülékekhez megformált mobil Chrome is bemutatkozik a piacon. Az Android/Chrome páros divatosnak tûnhet, de a Firefox elõnyös helyzetbõl indul, hiszen nagyon sok szolgáltatás már kipróbált módon létezik az asztali környezetben, csak a kezelõfelületet és a megjelenést kell újragondolni. Nem lehet véletlen a Mozilla által éppen most bemutatott Firefox-kiegészítõ, a Geode idõzítése sem, ami képes a böngészés során okosan kezelni a földrajzi helyzetet, koordinátákat, ezáltal akár a szimpla keresések is helyfüggõ szolgáltatássá válhatnak.
+
+Ehhez az interneten lévõ tartalmaknak is ki kell egészülniük geocímkével, ahogyan ma már számos feltöltött fotó, videó is magában hordozza a készítés helyének adatait. Ugyanígy az éttermektõl a szórakozóhelyekig bármihez kapcsolódhatnak ilyen adatok. Miután mobilon is elérhetõ lesz ez a szolgáltatás, akkor elegendõ beírni az étterem szót a keresõbe, ami a valós helyzetünk alapján néz utána a potenciális helyeknek. A sokat emlegetett következõ generációs mobilinternet-élmény itt kezdõdhet.

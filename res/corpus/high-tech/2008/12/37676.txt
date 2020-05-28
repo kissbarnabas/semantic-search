@@ -1,0 +1,18 @@
+A világ legkisebb SRAM celláját készítette el az IBM, a Toshiba és az AMD
+
+Az IBM, a Toshiba és az AMD közösen fejlesztették ki a világ legkisebb SRAM memóriacelláját, amelyhez nemplanáris térvezérelt (FinFET) tranzisztorokat használtak. Az eddigi legparányibb mûködõ SRAM cella mindössze 0,128 négyzetmikron méretû. Az áttörésrõl a San Franciscó-i International Electron Devices Meeting (IEDM) rendezvényen számoltak be a vállalatok.
+
+
+
+A FinFET tranzisztorok a formájukról kapták a nevüket: amint az a képen is látható, a tranzisztor a planáris megoldásokhoz képest térben 90 fokkal (azaz az oldalára) el van forgatva, a forrás (source) és az elektródanyelõ (drain) pedig egy terelõszárnyra vagy uszonyra (fin) hasonlító szilíciumlapon kapott helyet, melyet satuszerûen fog közre a vezérlõelektróda (gate). Ez a struktúra egy SOI (silicon on insulator) rétegen ül. A csupán 0,128 négyzetmikron alapterületû SRAM cella megépítéséhez nem csak a tranzisztor struktúráját tervezték újra, hanem magas K együtthatójú dielektrikumot és fém kapuoxidot is felhasználtak.
+
+
+
+
+ A miniatürizálása érdekében a planáris tranzisztorok használatakor a gyártók egyre több szennyezõanyagot adagolnak a szilíciumhoz, ezzel azonban nem kívánt variancia jelenik meg a gyártásban, ami rontja az áramkör stabilitását. A FinFET tranzisztorok esetében nincs szükség a csatorna szennyezésére -- áll az IBM által kiadott anyagban.
+
+A kutatók szimuláltak egy 22 nanométeres eljárással gyártott, 0,063 négyzetmikronos, FinFET-alapú SRAM cella viselkedését, és azt találták, hogy a a FinFET tranzisztorok használatával a chipek még 22 nanométeres vagy annál kisebb csíkszélességû technológiával is kis varianciával gyárthatók a planáris tranzisztorokhoz képest, ami összességében nagyobb kihozatalt és megbízhatóbb áramköröket jelent.
+
+
+
+Az IBM-hez hasonlóan az Intel is a nemplanáris tranzisztorokban látja a jövõt. A Nagy Kék kétkapus elgondolásától eltérõen az Intel három kapuval próbálkozik: a FinFET tranzisztorhoz hasonlóan a forrás és a nyelõ  a szubsztrátból kiemelkedõ vezetéken kap helyet, amelyet azonban három oldalán érintve (tri-gate) satuszerûen fog közre a kapuelektróda. Az Intel várhatóan a 2009 végén érkezõ 32 nanométeres technológiájában használja majd a háromkapus tranzisztort.

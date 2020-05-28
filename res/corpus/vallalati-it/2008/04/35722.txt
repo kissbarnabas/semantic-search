@@ -1,0 +1,24 @@
+Júliustól már csak maradékból vásárolhatunk Windows XP operációs rendszert
+
+[eWeek] A harmadik szervizcsomag megjelenését követõen júliustól véget ér az "XP korszak". A Microsoft megerõsítette, hogy az újabb hosszabításról szóló pletykák ellenére július elsejétõl nem szállít Windows XP operációs rendszereket a boltokba. A Windows XP azonban mégsem tûnik el teljesen, egyes noteszgépeken még elõre telepítve megtalálható lesz.
+
+
+
+UMPC-n még lesz
+
+A redmondi vállalat "felismerte az igényt", hogy kiöregedett, ám a Vistához képest alacsonyabb hardverigényû operációs rendszere igen jó szolgálatot tehet az ASUS Eee PC-jével létrehozott kategória termékei számára. Így a kivonás ellenére ezek az apró noteszgépek még legalább további két évig, 2010. június 30-ig -- vagy a következõ Windows megjelenését követõen még egy évig -- elõre telepítve érkezhetnek Windows XP Home, illetve Starter operációs rendszerrel.
+
+Az apró noteszgépek nem csak gyengébb processzoruk, kevesebb rendszermemóriájuk miatt képtelenek a Vista futtatására, 2-4-8 gigabájtos flashmemóriás háttértárjukon még maga az operációs rendszer sem férne el 10 gigabájtnyi igényével, nemhogy még hely maradjon a felhasználói adatoknak. A Windows XP Home ennél jóval szerényebb étvágyú. Nem mellesleg a redmondi óriás nem teheti meg, hogy egy ilyen gyorsan növekvõ szegmenst átengedjen az alternatív operációs rendszerek, többek között a Linux számára.
+
+SP3
+
+
+Az ebben a hónapban debütáló harmadik szervizcsomag (SP3) az utolsó nagy javítócsomag lesz a Windows XP-hez, mellyel némi haladékot kapnak azok a cégek és magánszemélyek, melyek kitartanak a Windows XP mellett. Az átállás viszont már nem várathat túl sokat magára, hiszen újabb noteszgépeket, asztali számítógépeket már csak Windows Vistával -- vagy a kevés számú, még készleten lévõ XP-kkel -- lehet majd megvásárolni.
+
+A Windows Vista egyelõre nem terjed a vállalatok körében, 2007 végén a vállalati Windows-felhasználók mindössze 6,3 százalékánál volt telepítve a Vista a Forrester szerint. A Windows XP részesedése az év során szinte egyáltalán nem változott, ami azt jelenti, hogy a Vista elsõsorban a régebbi Windows-változatoktól, fõleg a Windows 2000-tõl hódított el felhasználókat.
+
+Gyorsabb
+
+ A Windows XP utolsó szervizcsomagja több mint száz hibajavítást tartalmaz. A javítások közül számosat a Vistából emeltek át, többek között a hálózati hozzáférés védelme is ezzel erõsödött, illetve a titkosító algoritmusok kezelése is ennek köszönhetõen javult. Módosítottak az aktivációs folyamaton is, a javítócsomaggal frissített operációs rendszer elsõ telepítés után már 30 napig mûködik aktiválás nélkül. Eddig a Windows XP telepítése nem történhetett meg valódi termékkulcs nélkül, az installálás egyszerûen nem futott le.
+
+A felhasználói visszajelzések egyelõre vegyesek a legutóbbi Windows XP SP3 kiadásra jelölt változattal kapcsolatban, sokaknak van problémája a javítócsomag telepítése után, de akiknek mûködik, azok rendszerint érezhetõ gyorsulásról számolnak be. A Devil Mountain Software tesztjei szerint a harmadik szervizcsomaggal "felszerelt" XP jelentõsen és mérhetõen, tíz százalékkal gyorsabb volt az OfficeBench alatt, ami rácáfol arra, hogy csak hibajavításokról szól az SP3.

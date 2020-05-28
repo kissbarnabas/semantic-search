@@ -1,0 +1,14 @@
+Küszöbön a Silverlight nyílt forrású változatának, a Moonlightnak a megjelenése
+
+Két éve kötötte sok vitát kiváltó együttmûködési megállapodását a Microsoft és a Novell. Az évforduló apropóján a cégek bejelentették a Silverlight interaktív médiapltatform nyílt forrású változatának, a Moonlightnak az elsõ bétáját, valamint a System Center Operations Manager 2007 R2-höz készített Advanced Management Pack for SUSE Linux Enterprise elérhetõségét.
+
+
+
+A Silverlight nyílt forrású változatának, a Moonlightnak az alapja a Microsoft .Net keretrendszer nyílt forrású alternatívája, a Mono, amelyet a Novell irányítása alatt készít Miguel de Icaza és csapata. A Moonlight a Silverlighttól eltérõen nem csak böngészõben mûködik, hanem önállóan is, így akár multimédiás "widgetek" megjelenítésére, futtatására is alkalmas lehet. A szoftver bétáját egyelõre még nem lehet letölteni, a projekt hivatalos weboldalán csupán annyi olvasható, hogy hamarosan elérhetõ lesz. A Moonlight a Silverlight 1.0 verziójával kompatibilis, a 2.0 verziót támogató Moonlight 2.0 elsõ alfaverzióját 2009 márciusára ígérik.
+
+A korábban Windows Presentation Foundation/Everywhere kódnéven ismert Silverlight 1.0-s verziója tavaly szeptemberben érkezett, a 2.0-s változat pedig a múlt hónapban vált elérhetõvé. Az Adobe Flash riválisaként érkezõ szoftver az internetezésre használt PC-k 25 százalékán már megtalálható -- ezt hatalmas sikerként értékeli a Microsoft. A jövõ év elején megjelenõ újabb, hármas változat egyik, leginkább a tartalomszolgáltatók számára hasznos és érdekes újítása a H.264-es videotömörítési kodek és a hangsávok, zenék tömörítésére alkalmazott AAC kodek támogatása lesz. A Silverlight platform ezzel utat nyithat a tartalomszolgáltatók számára a jelenleginél jobb minõségû video- és audio-jelfolyamok közvetítésére.
+
+
+ A Novell emellett kiadta a System Center Operations Manager 2007 R2-höz szánt felügyeleti csomagját, ami lehetõvé teszi SUSE Linux Enteprise Servert futtató kiszolgálók menedzselését a Microsoft saját felügyeleti szoftverébõl. Ez a képesség olyan vállalatoknak lehet hasznos, amelyek Windows és SUSE Linuxot is használnak -- Susan Heystee, a Novell stratégiai kapcsolatokért felelõs vezetõje szerint a két cégnek már 200 közös ügyfele van.
+
+A Novell felügyeleti csomagjának telepítése után a SUSE Linux Enterprise Servert üzemeltetõ vállalatok közvetlenül a System Center Operations Manager 2007 R2-bõl követhetik nyomon kiszolgálóik állapotát, illetve az azon futó egyes szolgáltatások (BIND, DNS, DHCP, LDAP, NFS, SUSE tûzfal és nyomtatás) státuszát.

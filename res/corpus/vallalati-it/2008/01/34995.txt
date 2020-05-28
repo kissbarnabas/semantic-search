@@ -1,0 +1,12 @@
+Megtagadja egyes régi fájlok megnyitását az Office 2003 SP3
+
+Az Office 2003 õsszel kiadott harmadik javítócsomagjának telepítése után az irodai csomag egyszerûen megtagadja egyes fájlok megnyitását -- ismerte be a Microsoft. A redmondi cég szerint azért volt szükség az elavult Word, Excel, PowerPoint, Lotus 1-2-3, Corel Quattro és Corel Draw dokumentumok blokkolására, mivel azok "nem biztonságosak".
+
+
+
+"Ezek a fájlformátumokat azért blokkoltuk, mert kevésbé biztonságosak, ami kockázatot jelent" -- áll a Microsoft által nyilvánosságra hozott dokumentumban. Az Office 2003 SP3 telepítõje semmilyen formában nem figyelmezteti a felhasználókat arra, hogy a javítócsomag installálása után az irodai csomag nem nyit meg egyes, régebbi típusú fájlokat. A Microsoft elérhetõvé tett egy leírást, miként lehet mégis engedélyezni a letiltott állományok használatát. Megoldás lehet a régi állományok átkonvertálása is.
+
+
+A szóban forgó fájlformátumok (pl. Word 6.0, Excel és PowerPoint 97, stb.) ma már szinte egyáltalán nincsenek napi használatban -- ugyanakkor a kizárásuk az Office 2003-ból azt jelenti, hogy ha mégis elõkerül egy ilyen állomány, annak tartalmát gyakorlatilag lehetetlen lesz "visszaszerezni". A javítócsomaggal frissített Office összesen 24 fájlformátumot tagad meg, köztük a jelenlegi legfrissebb Office for Mac által használatakat is.
+
+Az Office 2003 SP3-ban elsõsorban a biztonsággal kapcsolatos fejlesztések kaptak helyet, de javítottak a Windows Vista-kompatibilitáson is. A biztonsági újítások között számos olyan kapott helyet, amely az Office 2007-ben már megtalálható, de a 2003-as verzióból eddig hiányzott. A Service Pack 3 összesen több mint 450 apró hiba javítását tartalmazza, ezek között számos olyan található, amely megnehezítette vagy egyenesen lehetetlenné tette az Office 2003 együttmûködését egyes újabb Microsoft-szoftverekkel, például a Vistával vagy az Internet Explorer 7-tel.

@@ -1,0 +1,24 @@
+Hatalmas piacot vízionál ultramobil chipjeinek az Intel
+
+Hatalmas növekedési potenciált lát az Intel az internetre csatlakoztatott eszközökben -- így foglalható össze a vállalat elemzõi konferenciájának fõ üzenete. Paul Otellini elnök-vezérigazgató és csapata a hagyományos PC- és szerverpiacon túlmutató termékkategóriák dollármilliárdos  igyekezte elkápráztatni a pénzügyi elemzõket.
+
+
+
+MID-ek és netbookok
+
+Mint arról már korábban beszámoltunk, az Intel Atom márkanévvel dobja piacra az ultramobil számítógépekbe és olcsó asztali konfigurációkba szánt új architektúráját. A korábban Silverthorne kódnéven ismert Atom processzor és Menlow Centrino Atom platform a születõben lévõ úgynevezett mobile internet device (MID) kategóriát szolgálja ki, melyek lényegében x86-alapú kéziszámítógépek, online és multimédiás felhasználásra kihegyezve -- egy kisebb UMPC, mint az OQO, vagy egy Sidekick-szerû számítógép ebbe a kategóriába esik.
+
+Sean Maloney, az értékesítési és marketing részleg vezetõje elmondta, jelenleg közel három tucat MID áll fejlesztés alatt különféle gyártóknál, melyek között megtalálható az Asus, az LG, a Toshiba vagy a Lenovo. Az Intel azt várja, hogy a Menlow olyan áttörést eredményez majd ezen a területen, mint amilyet a Centrino képviselt öt évvel korábban. A második generációt képviselõ Moorestown platform egy lépcsõvel még tovább viszi a koncepciót, és többféle változatban készül majd el a különbözõ szegmensek jobb kiszolgálása érdekében: az alacsony fogyasztásra optimalizált modellek akár már okostelefonokban is megjelenhetnek, míg a kétmagos, magasabb órajelû változatok a multimédiás kéziszámítógépeket szolgálhatják ki.
+
+
+A 2009-ben érkezõ Moorestown egyetlen chipre integrálja a processzort, a grafikus magot és memóriavezérlõt, így rendkívül energiahatékony és kompakt lesz. A Menlow és Moorestown által gerjesztett kereslettõl az Intel azt reméli, hogy 2011-re, vagyis a idei év közepei indulást követõ bõ 3 év múlva már jelentõs szeletet hasít ki az akkorra évi 250 millió darabra becsült piacból, melynek a logikai chipekbõl származó bevétele 10 milliárd dollárra rúghat nagyjából.
+
+Ez azonban csak egy a Silverthorne architektúrájával megcélzott szegmensek közül. Az Asus Eee PC sikerével robbanásszerû gyorsasággal született meg és futhat fel a jövõben várhatóan az olcsó mini notebook kategóriája, amit az Intel az online orientáltság miatt netbookoknak keresztelt el, a hasonló olcsó asztali gépeket pedig nettopoknak. Jelenleg 25 olcsó mini notebook áll fejlesztés alatt Diamondville-alapokon, melyek az év közepe táján kerülnek piacra -- csak az Asus 3-5 millió értékesítését tervezi idénre. A vállalat szerint 2011-re ezek a termékek is mintegy 10 milliárdos piacot teremtenek a processzoroknak és chipseteknek.
+
+Hatalmas volumen
+
+A zászlót kétségtelenül a MID-ek és netbookok viszik majd, az Intel azonban a fogyasztói elektronikában és a beágyazott rendszerekben is jelenlétet akar kiépíteni, melyek egyenként újabb 10-10 milliárd dolláros piaccal kecsegtetnek számára. A beágyazott rendszerekbe idén kezdi meg az x86-os alapú Tolapai rendszerchip szállításait (integrált északi- és déli híd I/O vezérlõkkel), melyet az év második felében követ a beágyazott Menlow. A szórakoztató elektronikai eszközökbe, mint a tévé vagy a videolejátszók, az audio-video dekódert integrálta a processzorral össze a Canmore projektben, melyet a harmadik negyedévben kezd szállítani.
+
+Alul a PC- és szerverpiac valós és becsült alakulása a következõ évek során, felül az új szegmensek mérete
+
+Bár ezek a chipek jelentõsen olcsóbbak a PC- és szerverchipeknél, ahogyan a rajtuk fajlagosan és arányaiban realizálható nyereség is, a megcélzott piacok volumene összesen háromszor akkora, mint amekkorát az Intel jelenleg kiszolgál: 2010- több mint 1 milliárd darabról van szó. Gyártástechnológiai vezetõ szerepe mellett az Intel az x86-os szoftvertömegre is építi térnyerését, fejlesztési és felhasználói oldalról egyaránt: a szoftverfejlesztõk meglévõ eszközeiket használhatják és a jelenlegi kódbázisaikra alapozhatnak, míg a közös szoftver infrastruktúra és alkalmazások miatt a felhasználók egységesebb, könnyebb átjárható termékeket kapnak.

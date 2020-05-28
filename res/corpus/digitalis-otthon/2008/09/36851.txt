@@ -1,0 +1,20 @@
+Vége a találgatásoknak: konkrét árak és végleges specifikációk a Dell új netbookjáról
+
+A Dell weboldalára a hivatalos bejelentés elõtt már felkerült az Inspiron Mini 9 (már nem 910) konfigurátora, melynek segítségével a legolcsóbb és a legdrágább felszereltség között válogathatjuk az opcionális bõvítményeket.
+
+
+
+A Dell hivatalosan bejelentette Inspiron Mini 9 netbookját, azonban a pontos és végleges árakkal és technikai jellemzõkkel ezt meg sem kellett volna várnunk, hiszen a gyártó weboldalán már pár órával korábban is megtalálható volt a gép konfigurátora, melynek segítségével személyre szabható a megrendelni kívánt készülék. Ezt az oldalt a fõoldalról a bejelentés elõtt még nem lehetett elérni, csak az URL pontos ismeretében juthattunk oda.
+
+
+A "közösségi lepke" -- ahogy a Dell az Inspiron Mini 9-et nevezi -- technikai jellemzõi véglegesek, a beltér 1,6 gigahertzes Intel Atom N270 processzorra épül, a 8,9 hüvelykes, 1024x600 képpontos fényes kijelzõt pedig Intel GMA 950 grafikus lapka hajtja meg. Ártól és felszereltségtõl függetlenül minden változat tartalmazza a 802.11 b/g vezeték nélküli hálózati csatolót.
+
+Dell Inspiron Mini 9
+
+A netbook legfapadosabb változata 349 dollárba kerül, ennyiért Ubuntu Linux 8.04 operációs rendszert (saját gépre szabott kezelõfelülettel), fél gigabájt rendszermemóriát, négy gigabájtos SSD-t kapunk fekete burkolatba csomagolva. A memória egy gigabájtra bõvítése 25 dollárral emeli az árat, a nyolc gigás SSD meghajtó felára 35, a 16 gigabájtos változaté pedig 75 dollár. Az Inspiron Mini 9-hez hagyományos, ám nagyobb kapacitású merevlemezt nem lehet rendelni, így a 16 gigabájt a jelenlegi háttértár-maximum.
+
+A vezeték nélküli hálózati csatoló mellé Bluetooth modult 20 dollárért kapunk, az alapfelszereltségbõl hiányzó webkamerát pedig 15, illetve 25 dollárért tudhatjuk a gépben, függõen attól, hogy megelégszünk-e a VGA felbontással, vagy inkább az 1,3 megapixeles változatra szavazunk. A konfigurátor következõ lapjai a géppel nem szerves kapcsolatban álló külsõ kiegészítõket taglalja, a hangszórókra, egerekre, külsõ merevlemezekre és tokokra most nem térünk ki. A netbook tulajdonosát alapesetben egy év garancia biztosítja, mely 128 dollárért tolható ki két évre.
+
+Dell Inspiron Mini 9
+
+A Dell weboldalán jelenleg csak a linuxos változat állítható össze, ahol két év garancia és az összes, a netbookot közvetlenül érintõ bõvítések választásakor 650 dolláros ár is elérhetõ. Jelenleg a windowsos változat még nem konfigurálható, de a Dell sajtóközleményébõl kiderül hogy ennek kezdõára 399 dollár, tehát 50 dollárral több mint a Linux változat. A géphez mellékelt Box.net internetes tárhely két gigabájtnyi, bárhonnan elérhetõ online tárterülettel toldja meg a lokális tároló kapacitását. Az Inspiron Mini 9 elsõ szállítmányát a Dell szeptember 14-én indítja.

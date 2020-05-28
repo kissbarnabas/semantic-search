@@ -1,0 +1,14 @@
+Leválasztható kijelzõjû mobilt demonstrált az NTT DoCoMo
+
+[Nikkei Electronics/HWSW] Moduláris felépítésû mobiltelefon prototípust demonstrált az NTT DoCoMo, melynek készülékteste és kijelzõje különválaszthatóak. A japán mobilszolgáltató azt reméli, hogy a jövõben kereskedelmi forgalomba kerülõ koncepció új felhasználási szokásokat szül majd, tovább bõvítve a mobilkészülékek alkalmazási területét.
+
+
+
+A Separate Keitai névre (kb. különváló mobiltelefon) hallgató prototípus mágneses erõvel rögzíti a kijelzõt a mobil mûködéséért felelõs részhez, és vezeték nélküli Bluetooth átvitellel kommunikálnak. Ez azt eredményezi, hogy a kijelzõ leválasztható a testrõl, és szabadon használható érintõkijelzõként, miközben maga a mobilkészülék például a zsebünkben van. Mivel gombok szintén érintõképernyõn találhatóak, ezért horizontális orientációjú csatlakoztatásnál a mobilkészülék QWERTY billentyûzetet jelenít meg hagyományos mobilos kiosztás helyett, feltételezve, hogy szöveget akarunk bevinni. 
+
+
+
+A modularitás egyúttal azt is jelenti, hogy a mobilhoz többféle kijelzõt csatlakoztathatunk, különféle alkalmazásokhoz más és más kijelzõformátum dukál: ha a webet böngészni vagy képanyagot fogyasztani akarunk, nagyobb érintõképernyõt vihetünk magunkkal, mely ennek ellenére vékony és könnyû marad, hiszen nem sok elektronikára van szüksége a mûködéshez. Az NTT DoCoMo elképzelése szerint sportoláskor egy csuklóra erõsítheti kis kijelzõt használhatnának az emberek. 
+
+
+A Separate Keitai kereskedelmi megjelenésével kapcsolatban még nem született döntés, nyilatkozta a legnagyobb japán mobilszolgáltató, mely több mint 50 millió elõfizetõvel rendelkezik. A DoCoMo mellett a Fujitsu is demózott saját prototípust, mely hagyományos és Sidekick-szerû elrendezés mellett képes játékkonzol módba is kapcsolni, ekkor a kijelzõ a vízszintesen tartott készüléktest közepére csatlakozik, függõlegesen.

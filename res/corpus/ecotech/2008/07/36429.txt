@@ -1,0 +1,14 @@
+Idén elõször magyar egyetemek, fõiskolák is nevezhetnek a Ricoh és a Sun Java-fejlesztõi versenyére
+
+A Ricoh és a Sun Microsystems idén negyedszer rendezi meg közös Java-fejlesztõi versenyét, amelyre most elõször hazai felsõoktatási intézmények is nevezhetnek. A feladat egy Ricoh multifunkciós berendezésen futó Java-megoldást fejleszteni, "mely segítségével egy irodai berendezésbõl, korlátlan lehetõségekkel rendelkezõ integrált rendszer hozható létre".
+
+
+
+November 20-ig a szervezõk olyan magyar felsõoktatási intézmények jelentkezését várják az edu.ricoh-developer.com weboldalon, ahol a pályázat témájához kapcsolódó szak mûködik, vagy ilyen jellegû oktatás folyik. A felsõoktatási intézmények hallgatói illetve hallgatói csoportjai az intézmények jelentkezését követõen szeptember 1-tõl regisztrálhatnak ugyanitt.
+
+A tényleges verseny már októberben elindul, a pályázók megkezdhetik a fejlesztést emulátoros környezetben, ezeket januárig kell leadniuk, és a szakmai zsûri választja ki azokat, akik aztán az elkészített alkalmazást az emulátoros környezetbõl Ricoh MFP környezetbe ültetik át. Az országos döntõbe jutó négy pályázat ennek kivitelezéséhez megkapja a Ricoh Aficio MP2550 multifunkciós berendezéseket. Az országos döntõ nyertese továbbjut a 2009. áprilisi londoni nemzetközi versenyre.
+
+
+ Az európai döntõ gyõztes csapata egyhetes San Francisco-i utazást nyer a JavaOne konferenciára. A díjak között szerepel még egy Ricoh Aficio GX2500 zselés nyomtató induló készlettel, négy darab Ricoh Professional GR Digital II fényképezõgép, valamint Sun SPOT Development Kit és Sun Microsystems ajándékcsomag.
+ 
+A Ricoh szerint a verseny egyedülálló alkalom arra, hogy a pályázók két vezetõ nemzetközi technológiai vállalattal közösen dolgozhassanak, és programozói képességeiket a gyakorlatban is próbára tegyék, de a versenyre azért is érdemes lehet nevezni, mert az országos döntõben a négy legjobb eredményt elérõ csapat Ricoh Aficio MP2550 multifunkciós eszközt nyerhet felsõoktatási intézményének.

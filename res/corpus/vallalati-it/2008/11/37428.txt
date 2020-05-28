@@ -1,0 +1,20 @@
+Megjelent a Novell GroupWise 8
+
+Megjelent a Novell munkacsoport-szoftverének, a GroupWise-nak a legújabb, 8-as változata. A szoftver továbbra is a jól ismert e-mailkliens, naptár és azonnali üzenetküldõ, naptár, címlista és dokumentumkezelési funkciókat kínálja, azonban kiegészült a "webkettes" korszak szolgáltatásaival. A vállalat legfõbb üzenete azonban továbbra sem változott: a GroupWise olcsóbb a Microsoft Exchange-Outlook párosnál.
+
+
+
+A GroupWise 8 legszembetûnõbb változása a testreszabható kezelõfelület, amelyen a szokásos kapcsolattartási funkciók (e-mail, azonnali üzenetküldõ) mellett megjelentek az olyan "webkettes" szolgáltatások is, mint az RSS-olvasó, illetve a kedvenc weboldalak, blogok figyelése, kapcsolódás a közösségi hálózatokhoz, vagy részvétel a wikik szerkesztésében. Ennek jegyében megújult a naptárak kezelése is, immár lehetõség van feliratkozni mások "bejegyzéseire" is, így figyelemmel kísérhetõ a munkatársak vagy akár az ügyfelek tevékenysége is.
+
+"Az email továbbra is az elsõdleges kommunikációs csatorna lesz az üzleti életben az IDC szerint, de egyre elterjedtebb, hogy a web 2.0 technológiákat is a vállalati kommunikáció szolgálatába állítják" -- mondta a HWSW-nek Hargitai Zsolt, a Novell Magyarország kereskedelemtámogatási vezetõje. "A GroupWise új verziójában a Novell 20 évnyi csoportmunka-rendszerek fejlesztése terén szerzett tapasztalata összpontosul és a szoftver számos továbbfejlesztett illetve új funkcionalitást kínál, amelyek a felhasználó egyedi igényei és munkamódszere szerint egy saját vezérlõpulttal teljes egészében testreszabhatóak."
+
+A GroupWise 8 felülete
+
+A levelezés átláthatóbbá tétele érdekében a GroupWise 8-ban is megjelenik az e-mailek "beszélgetésekbe" szervezése, így egyben láthatóak az üzenetváltások -- a Gmailben már láttunk ilyet. Az e-mailek akár Wordben vagy OpenOffice-ban is szerkeszthetõk, és végre a GroupWise-ba bekerült az automatikus mentés funkció is -- a jelenlegi verziók felhasználói alighanem ennek örülnek majd a leginkább. A címlista is "webkettes" funkciókkal bõvült, az egyes partnerekhez tartozó információkat könnyen elérhetõvé teszi a GroupWise, például a postacím egyszerûen a térképre varázsolható, vagy akár fotók is rendelhetõk az egyes személyekhez. 
+
+Továbbfejlesztették az integrációt a nyílt forrású ICEcore-ra épülõ Novell Teaming + Conferencing csoportmunka-támogató szoftverrel, ami a szokásos csoportmunka-funkcionalitást kínálja, beleértve a dokumentumok kezelését, azonnali üzenetküldést, webkonferenciát szöveggel és hanggal, naptárkezelést, és munkafolyamat-menedzsmentet. A Teaming + Conferencing a "webkettes" világban megismert eszközöket is kínálja a vállalatok számára a termelékenységük fokozására: a dolgozók létrehozhatják saját blogjaikat, wikiket szerkeszthetnek, fórumozhatnak, akár képeiket is megoszthatják egymással annak érdekében, hogy a lehetõ leghatékonyabban áramoljon az információ a szervezeten belül, vagy akár azon kívül.
+
+
+ A GroupWise 8 szerveroldalon Windowst, Linuxot vagy Novell NetWare-t igényel, az asztali kliens Windowson, Linuxon vagy Mac OS X-en fut, emellett böngészõbõl (Internet Explorer, Mozilla Firefox, Apple Safari) is elérhetõ. A webes felületen csatlakozók az gyorsabb betöltõdésnek, a korábbinál szebb, drag-and-drop elven mûködõ naptárnak örülhetnek, illetve annak, hogy a leveleiket akár egyetlen scrollozható listában is megtekinthetik, nem szükséges 20 üzenetenként lépkeni köztük.
+
+A cég külön figyelmet fordított a vállalati környezetben egyre terjedõ mobil eszközök támogatására is, a cég szerint több száz különféle készüléket támogat a GroupWise 8, beleértve az iPhone-t, a BlackBerryket, és a Palm termékeit. A GroupWise 8 a vállalat tájékoztatása szerint felhasználónként 143 dolláros listaáron licencelhetõ. Magyarországon a GroupWise új felhasználók számára a több terméket is tartalmazó Novell Open Workgroup Suite csomag részeként szerezhetõ be a legkedvezõbben, az ajánlott listaár 1 év követéssel 103 euro.

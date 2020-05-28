@@ -1,0 +1,22 @@
+Válság ellen Linux? Nem, inkább UNIX vagy Windows!
+
+Az IDC szerint 2009-ben látványosan csökkenni fog az x86-os szerverpiac, a linuxos kiszolgálók eladásai azonban nagyobb arányban esnek majd a windowsos társaiknál.
+
+
+
+Visszaesik a linuxos szerverek forgalma
+
+Az ismert elemzõcég nemrégiben tette közzé legfrissebb elõrejelzését, amely szerint 2009-ben világszerte 1,47 millió linuxos szervert értékesítenek majd a szállítók, 16,1 százalékkal kevesebbet mint tavaly, miközben a windowsos kiszolgálók forgalma csak 12,8 százalékkal csökken, és így 5,01 millió darabot tesz ki. Összességében az x86-os szerverek forgalma 13,5 százalékkal csökken 2009-ben az IDC elõrejelzése szerint a tavalyi 7,7 millió darabról, amit 2007-hez képest 2,8 százalékos növekedés után ért el a piac.
+
+ A tavalyi negyedik negyedévben is a volumenszerverek piaca produkálta a legnagyobb zuhanást, ami több okra vezethetõ vissza. Ezek közül egyik az iparágszerte terjedõ virtualizáció és az erre alapozó konszolidációs projektek, a vállalatok a korábban több gépre bízott feladatokat igyekeznek kevesebb hardverrel is meg tudják oldani. Másrészt az x86-os szervervásárlások, különös tekintettel a ciklikus frissítésekre, a PC-beszerzésekhez hasonlóan -- vállalatmérettõl függetlenül -- a kiadáscsökkentés elsõdleges célpontjai.
+
+
+ Sokan vélik úgy, hogy a forráshiánnyal járó recesszió a nyílt forrású megoldások felé löki a vállalatokat, intézményeket, azonban a piaci adatok egyelõre cáfolják ezt a teóriát. Azokra a szervezetekre lehet ez igaz legfeljebb, ahol már eddig is behatóan foglalkoztak a Linuxszal és kiépítették a megfelelõ kompetenciát, így a váltás rövid távon kézzelfogható megtakarítással jár. Azok a cégek, ahol még nincs linuxos tapasztalat, a jelenlegi körülmények között aligha kísérleteznek az új platformmal, új megoldásokkal, új beszállítókkal, a hosszú távú elõnyökkel szemben ugyanis jelenlegi költségek és kockázatok állnak.
+
+A legtöbben elsõsorban a Windows alternatívájaként tekintenek a Linuxra, valójában a nemzetközi trendek alapján a szabad operációs rendszer elsõsorban a különféle UNIX-okat fenyegeti. A két rendszer üzemeltetése hasonló gondolkodásmódot kíván, a kompetenciát részben tovább lehet vinni, ráadásul az elérhetõ megtakarítás is jóval nagyobb mint a Windowszal összevetve. Egyelõre azonban úgy tûnik, a bizonytalan gazdasági helyzet bebetonozza a UNIX-ok pozícióit a cégeknél -- a negyedik negyedévben a UNIX-szerverek piaca mindössze 6 százalékkal csökkent, és összességében a UNIX-ok részaránya nõtt a teljes piacon belül. "Egy informatikai felsõvezetõnek nincs jobb védelem mint egy 7/24-es support szerzõdés valamelyik UNIX-szállítóval" -- mondta a HWSW-nek egy banki informatikai szakember.
+
+Februárban még fényes jövõt vázolt a Linux elé az IDC
+
+Az IDC által most nyilvánosságra hozott adatok némileg ellentmondanak annak a felmérésnek, amelyet a Novell megbízásából februárban készített ugyanezen elemzõcég. Eszerint az informatikai vezetõk több mint fele tervezi a Linux bevezetésének felgyorsítását a 2009-es évben. A mintegy 300 válaszadó több mint 72 százaléka állította, hogy jelenleg is zajlik náluk a Linux bevezetésének kiértékelése, illetve már döntést is hoztak amellett, hogy 2009-ben növelik a Linux telepítések számát kiszolgálóikra, míg ugyanezt az állítást az asztali rendszerek esetében 68 százalékuk fogalmazta meg.
+
+Ennek oka elsõsorban a metodikában kereshetõ. A Novell által szponzorált felmérésbe az IDC ugyanis elsõsorban olyan IT-döntéshozókat vont be, akik már rendelkeznek a Linux használatával és bevezetésével kapcsolatos tapasztalattal. A felmérésben résztvevõk 55 százaléka használ szerverein Linux operációs rendszert, 39 százalékuk Unixot, 97 százalékuk pedig Windowst. Ez is azt támasztja alá, hogy a Linux azoknál a szervezeteknél törhet elõre elsõsorban, ahol már egyébként is használják.

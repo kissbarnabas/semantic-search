@@ -1,0 +1,32 @@
+Negyed évszázados a HP-UX
+
+Negyed százados fennállását ünnepli a HP-UX, a Hewlett-Packard által fejlesztett UNIX-változat. Az eseményt nagyszabású rendezvénysorozattal ünnepli a cég, a közép-kelet európai ügyfelek számára Bécsben tartott találkozót a HP, ahol a HP-UX múltja, jelene és jövõje volt a téma.
+
+
+
+Sokan szeretik a HP-UX-ot
+
+25 év az informatika történetében elképesztõen hosszú idõ, de még UNIX-os mércével mérve is sok. Ezt mi sem bizonyítja jobban, hogy már lényegében háromra csökkent az üzleti kritikus UNIX-rendszereket szállítók száma (HP, IBM, Sun), miközben olyan legendás nevek tûntek el a piacról mint az Amdahl, az AT&amp;T, a Compaq, a Data General, a Honeywell, az NCR, a Nixdorf, az Olivetti, a Pyramid, a Tandem vagy éppen a Unisys. Ezek a cégek egykoron mind kínáltak UNIX operációs rendszert, ma már nagyrészük nem is létezik.
+
+Eközben a HP-UX folyamatosan az élvonalban tudott maradni, persze ehhez az is kellett, hogy a vállalat 2002-ben felvásárolja egyik nagy riválisát, a Compaqot, amivel megszerezte a legendás Tru64 UNIX-ot, amelyet beolvasztott a HP-UX-ba. Negyed százados története során több mint 1 millió HP-UX licencet értékesített a HP, vagyis a HP-UX nem tartozik a legnagyobb felhasználói bázissal rendelkezó UNIX-ok közé, azonban vannak területek, ahol szinte egyeduralkodónak számít, ilyenek például a távközlési szolgáltatók számlázási rendszerei.
+
+Közép-Európában különösen erõs pozíciókkal rendelkezik a HP az üzleti kritikus rendszerek piacán, amelyben nagy szerepe van a korábbi digitalos majd compaq-os múltnak is. Akárhogy is legyen, a régióban az elmúlt 12 negyedévben a HP volt a legnagyobb szállítója a UNIX-szervereknek. Martin Moser, a HP üzleti kritikus rendszerekért felelõs regionális vezetõje szerint a siker titka a HP Integrity platform neve és a vele szerzett kedvezõ tapasztalatok.
+
+Az Ideas International független elemzõcég értékelése szerint a HP-UX 11i v3 a jelenlegi legjobb UNIX, kevéssel megelõzve az AIX 6.1-et és a Sun Solaris 10-et. A mintegy 40 szempont alapján a HP-UX elõnye pontszámainak kiegyensúlyozottságának köszönhetõ, az egyes kategóriákban egyenletesen erõsen teljesít, és csak ritkán kap kimagasló vagy nagyon elmaradó pontszámokat, míg a másik két platform képességeinek megítélése sokkal jobban fluktuál. A HP-UX biztonság és virtualizáció terén teljesít a legerõsebben az Ideas International szerint.
+
+
+ Moser fontosnak tartotta kiemelni, hogy a HP fejlesztõi az Integrity platform mellé olyan operációs rendszert hoztak létre, amelyet a mainframe-ekével összemérhetõ megbízhatóság mellett is egyszerû telepíteni, konfigurálni és felügyelni, drága konzultációs szolgáltatások nélkül is, ráadásul a cég számos ingyenes és hatékony eszközt is az adminisztrátorok rendelkezésére bocsát, megkönnyítve a munkájukat. Moser szerint a régióban számos sikeres mainframe-migrációs projekt is erõsítette a HP piaci pozícióit az elmúlt idõszakban.
+
+A HP-UX 11i v3 újdonságai -- miért érdemes frissíteni?
+
+A HP-UX jelenleg elérhetõ legfrissebb változata a 2007-ben kiadott 11i v3. Az operációs rendszerbõl nagyjából háromévente készül egy új fõverzió, amelyhez aztán féléves ciklusban jönnek a kisebb javítások. Minden fõverziót legalább 10 évig támogat a HP, a v1 és v2 esetében ez 2013-ig tart. Új fõverzió megjelenése esetén a korábbiakhoz kiadott frissítõcsomagok már csak hibajavításokat tartalmaznak, új fejlesztéseket nem. A rendezvényen elsõsorban a 11i v3 újdonságai kaptak kitüntetett figyelmet. Noha ez a változat is közel 2 éves már, sok ügyfél a mai napig nem állt át v1-rõl vagy v2-rõl, pedig a HP szerint a felhasználók számos elõnyt élvezhetnek a bináris kompatibilitás megtartása mellett
+
+A 11i v3-hoz jelenleg elérhetõ legfrissebb javítás a tavaly szeptemberi Update 3, az Update 4 megjelenése most április elején, közepén esedékes. Ebben a teljesítményt fokozó módosítások mellett olyan fejlesztések kapnak helyet, mint például a szerver automatikus konfigurációja a meglevõ storage-környezethez, a virtuális gépek leállás nélküli mozgatásának lehetõsége, vagy a diszkek helyben történõ mélytörlése. A következõ fõverzió, a 11i v4 érkezése 2011 elején várható, ennek újdoságairól egyelõre keveset árultak el a HP megjelent képviselõi.
+
+A HP-UX 11i v3-ban számos alapvetõ módosítás történt, a jobb memóriakezelésnek és I/O-kezelésnek, az egységes fájlcache-nek és más fejlesztéseknek köszönhetõen azonos hardveren akár 20-30 százalékkal nagyobb teljesítmény érhetõ el vele, mint a 11i v2 változattal. Az operációs rendszer emellett olyan fejlesztéseket is tartalmaz, amelyek használatával egyszerûbbé válik a szerverek konfigurációja, felügyelete és üzemeltetése, a karbantartási feladatok kevesebb leállással végezhetõk. A rendezvényen megjelent ügyfelek részérõl egyhangú igény volt arra, hogy a lehetõ legtöbb változtatást újraindítás nélkül el lehessen végezni.
+
+A HP-UX 11i v3 használatával a swap eszközt akár reboot nélkül is cserélni lehet, a Dynamic Root Disk segítségével pedig a frissítések telepítése során minimalizálható az állásidõ. Korábban az operációs rendszer patchelése elõtt ki kellett parancsolni a felhasználókat a rendszerbõl, feltelepíteni a javítást, majd jöhetett az újraindítás. A Dynamic Root Disk lehetõvé teszi, hogy az operációs rendszerrõl egy snapshop készüljön, amelyet úgy módosíthat a felhasználó, hogy közben az éles rendszert nem kell leállítani, elegendõ akkor újraindítani a szervert, amikor a patchelés befejezõdött. Ha nem elégedett az eredménnyel, az adminisztrátor következmény nélkül visszatérhet a korábbi változathoz.
+
+Év végén jönnek a Tukwila-alapú Integrityk
+
+A HP Integrity szervercsaládjába hosszas késlekedés után az év második felében érkezik meg az Intel új, négymagos Itanium processzora, a Tukwila. A processzor megköveteli a HP-UX 11i v3 Update 3 változat meglétét, de az Update 4-ben további finomhangolás várható Tukwila-alapú szerverekhez. A HP elsõ Tukwila-alapú szervereinek megjelenése 2009 végén várható, de a nagyobb konfigurációk szinte biztosan csak 2010 elején kerülnek majd piacra.

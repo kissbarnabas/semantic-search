@@ -1,0 +1,16 @@
+Kipróbálható a Windows Home Server adatsérüléses hibájára készített javítás
+
+[Technet] Szabadon letölthetõvé tette és visszajelzéseket vár a Microsoft a Windows Home Server Power Pack 1 bétájával, kiadásra jelölt változatával kapcsolatosan. Az újabb frissítés elméletileg már megoldást nyújt minden korábbi, adatvesztést okozó problémára.
+
+
+
+Microsoft Connecten keresztül elérhetõ csomagot természetesen a szoftverfejlesztõk is tesztelik, de publikus béta segítségével további ezrek visszajelzéseit várják. A Power Pack 1 a hibajavítás mellett végre támogatást hoz a Windows Vista x64 változataihoz, lehetõvé teszi a szerveren megosztott állományok mentését is, energiát is spórol és teljesítményt is javít. A végleges változat megjelentetésével megvárják a felhasználók visszajelzéseit.
+
+
+A Microsoft otthoni szerverszoftverében már tavaly felfedeztek két adatvesztést, -sérülést okozó hibát, melybõl csak egyet javítottak a redmondiak idejében, a súlyosabb probléma megoldását fél évvel lésõbbre, júniusra ígérték. A jelenség akkor lép fel, mikor egyes programokkal fájlokat szerkesztünk vagy másolunk egy kettõ vagy több merevlemezzel rendelkezõ Windows Home Serveren.
+
+A fõ problémát az okozza, hogy amikor a megosztott könyvtárba írt adatokat a Home Serverbe átirányító mechanizmus beindul, bizonyos specifikus körülmények között aszinkron állapotba kerülhetnek az állományrendszert, memóriát és a cache-t kezelõ algoritmusok, így téves adatokat ír a szerver az állományba.
+
+[+] A Windows Home Servert mi is kipróbáltuk
+
+Az adatsérülés igen súlyos hibának tekinthetõ, ezért meglepõ, hogy a Microsoft csak ilyen késõn állt elõ megoldással. Eredetileg tavaszra ígérte a Power Pack 1 csomagot a Microsoft, az adatsérülést javító kódot azonban mindenképpen részévé akarják tenni, így bevárták annak elkészültét.

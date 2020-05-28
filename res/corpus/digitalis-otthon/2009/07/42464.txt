@@ -1,0 +1,12 @@
+Újabb linuxos Wi-Fi router a Ciscótól
+
+A Linksys WRT54GL azzal szerzett számos rajongót, hogy lehetõséget adott a rajta futó firmware módosítására, ugyanis ennek kódját GPL licenc alatt kiadta a cég. A WRT54GL köré szervezõdött közösség azóta folyamatosan fejleszti, javítja a kódot, új funkciókkal bõvíti a képességeit. A WRT54GL utóda, a WRT160NL szintén linuxos firmware-t használ, alighanem ezt is befogadja majd a közösség és hamarosan megjelennek az egyre jobb, egyre többet tudó változatok.
+
+Maga a router egyébként négy 10/100 Mbps Ethernet-porttal rendelkezik, emellett egy USB-csatlakozó is található rajta, amelyre FAT16, FAT32 vagy NTFS fájlrendszerre formázott külsõ merevlemezt vagy akár pendrive-ot csatlakoztatva hálózati adattárolóként is mûködik a router, a DLNA 1.5 szabvány támogatásának köszönhetõen pedig az itt tárolt zenéket, filmeket, képeket az arra alkalmas hálózati eszközökön le is lehet játszani.
+
+Ezen felül az eszköz képességei mondhatni szokásosak, 802.11b/g/n szabványú vezeték nélküi hálózati eszközök kapcsolódhatnak a WRT160NL-hez, a biztonság érdekében WEP, WPA vagy WPA2 titkosítással, emellett adott a RADIUS azonosítás lehetõsége is, illetve egy csomagszûrõ tûzfal is került az eszközbe, amelyet 400 MHz-es processzor hajt és 32 megabájt memóriával gazdálkodik. Noha újabban a legtöbb    Linksys by Cisco routeren belsõ antenna található, a WRT160NL-en külsõ antennákat helyeztek el. A két R-SMA antennacsatlakozót    úgy alakították ki, hogy a hozzáértõ felhasználók tetszés szerinti antennát csatlakoztathassanak.
+A Linksys by Cisco WRT160NL már Magyarországon is kapható, ajánlott bolti ára 29 ezer forint -- tudtuk meg a cégtõl.	     
+                  
+                  
+                  
+                   

@@ -1,0 +1,12 @@
+Mobilos helymeghatározás GPS nélkül
+
+Beltérben vagy akár föld alatt is használható pozicionálási megoldást fejlesztett ki a finn GloPos. Az eljárás kizárólag a mobilhálózatból nyert információk alapján mûködik és olyan helyeken is lehetõvé teszi a helymeghatározást, ahol nincs rálátás a GPS mûholdjaira és Wi-Fi hálózatok sem elérhetõk. A cég szerint elsõsorban nagyméretû épületekben, például bevásárlóközpontokban, parkolóházakban, sportcsarnokokban vagy föld alatti létesítményekben, parkolókban vagy a metróban segíthet a GloPos.
+GPS hiányában a cellainformációkat is lehet helymeghatározásra használni, azonban a "háromszögeléses" módszer gyakran több száz métert is "téved". A GloPos technológiája szintén a cellainformáción alapul, azonban a cellainformációkat nem a telefon dolgozza fel, hanem egy központi szerver, amelynek a telefon elküldi az adatokat, a válaszüzenetben pedig megérkezik a pozíció. A GloPos szerint ezzel a módszerrel a mobilhálózatokkal sûrûn lefedett városokban 1-30 méteres pontosság érhetõ el, városon kívül pedig 10-40 méteres, akár épületen belül is. Az "öntanuló eljárás" szabadalmaztatás alatt áll jelenleg, és a GloPos weboldala sem részletezi igazán a pontos mûködést.
+
+
+A GloPos mûködéséhez csak mobiltelefonos lefedettség és adatkapcsolat kell, a helymeghatározáshoz szükséges szoftver pedig akár a legolcsóbb telefonokra is telepíthetõ, így a belépõ szintû készülékek tulajdonosai is hozzáférhetnek a helyfüggõ szolgáltatásokhoz. Évente mintegy 1 milliárd mobiltelefon kerül piacra GPS nélkül, az eladások több mint négyötödét adva.
+A GloPos egy olyan pontos helymeghatározási megoldással vértezheti fel ezeket, amelynek segítségével bekapcsolódhatnak a helyfüggõ szolgáltatásokba, indítható lesz róluk például helyfüggõ keresés, a tulajdonosok kaphatnak földrajzilag célzott reklámot vagy részesei lehetnek helyfüggõ közösségi szolgáltatásoknak.	     
+                  
+                  
+                  
+                   

@@ -1,0 +1,12 @@
+Második VMware szakmai találkozó Budapesten
+
+Két hét múlva tartja második találkozóját a hazai VMware közösség, Budapesten, ahol virtualizációval foglalkozó szakemberek osztják meg ismereteiket, tapasztalataikat egymással. 
+
+
+
+A második magyar VMware User Group (VMUG) találkozón Sárándi Attila, a VMUG vezetõje prezentálja a MOL VMware ESX-re épülõ virtuális infrastruktúráját, és tapasztalatokat és a várható fejlesztési irányokat. Ezenkívül szó esik majd alkalmazásvirtualizációról, valamint egy virtuális adatközpont üzemeltetési kérdéseirõl. Az eseményt augusztus 27-én tartják a Center Pont Irodaházban, további részleteket találni és regisztrálni a VMUG honlapján lehet. 
+
+
+A VMUG májusban alakult meg egy alulról szervezõdõ felhasználói közösségként, melyet az x86-os virtualizáció piacát vezetõ VMware támogat ugyan, de nem irányít. Kozák Tamás, a VMware frissen kinevezett magyar képviselõje a rendezvény megnyitóján akkor elmondta, hogy Magyarországon 19 partnerrel rendelkezik jelenleg a vállalat, és itthon 250-nél több vállalati ügyfél használja a VMware virtualizációs megoldásait, mely elegendõ tömeg már egy szakmai közösség kialakulásához, ugyanakkor jelzi a hazai virtualizáció alacsony elterjedtségét.
+
+Pedig az IDC egy európai kutatásából az világlik ki, hogy azok a szervezetek, melyek már alkalmaznak éles környezetben virtualizációt, rohamos mértékben fokozzák a virtualizáció jelenlétét infrastruktúrájukban, mellyel rugalmasságot nyernek, költségeket takarítanak meg, fokozzák rendszereik rendelkezésre állását. A Polygon becslése szerint virtualizációs technikák bevetésével több százmillió forintot lehetne megtakarítani az alacsonyabb felügyeleti és üzemeltetési költségek révén, különös tekintettel a hatalmas energiapazarlás csökkentésére. Az IDC kutatása alapján  a vállalatok 82 százaléka alkalmaz VMware-t, ezzel toronymagasan vezet a 13 százalékos penetrációjú Microsoft elõtt -- a válaszadók 14 százaléka virtualizál UNIX vagy mainframe környezetben.

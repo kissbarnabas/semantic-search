@@ -1,0 +1,12 @@
+Négy kritikus biztonsági rést foltoz be a Microsoft a júliusi patch-kedden
+
+Négy kritikus biztonsági frissítést tesz közzé a jövõ héten esedékes patch-kedden a Microsoft, ezek mellett több -- nem biztonsági -- frissítés is érkezik a különbözõ Windows operációs rendszerek szolgáltatásaihoz és komponenseihez. A cég irodai szoftvercsomagjához, a Microsoft Office-hoz ebben a hónapban nem jelenik meg frissítés.
+
+
+
+A kritikus javítások a Microsoft SQL Server 2000 Desktop Engine-hez (WMSDE) és a Windows Internal Database (WYukon) SP2-höz köthetõ biztonsági réseket foltozzák be, melyek jogosultsági korlátok átlépését, illetve ezáltal távoli kódfuttatást tesznek lehetõvé. A sérülékenységek a Microsoft Windows 2000, Windows XP (x86 és x64), Windows Server 2003 (x86 és x64), Windows Vista (x86 és x64) és Windows Server 2008 (x86 és x64) operációs rendszereket futtató számítógépekre jelenthetnek veszélyt.
+
+
+Jövõ kedden több fontos, nem biztonsági frissítés is megjelenik a Windows Update szolgáltatáson, a Windows Server Update Services-en (WSUS) és a Microsoft Update-en, ezen kívül frissül a rosszindulatú szoftverek eltávolítására szolgáló eszköz is. A júliusi javítások közt lesz egy a Windows Vista teljesítményét és megbízhatóságát javító tapasz is. A Microsoft még ebben a hónapban elérhetõvé teszi automatikus letöltésként a KB946928 kódjelû windows-frissítést is, mely a Windows Update kliens teljes infrastruktúráját megújítja.
+
+A szoftvercég eddigi szokásához híven a patch-kedd másnapján webcastadáson keresztül ismerteti a frissítéseket, ahol a regisztrált felhasználóknak lehetõségük adódik kérdezni is a javítócsomagokkal kapcsolatban.

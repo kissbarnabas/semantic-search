@@ -1,0 +1,16 @@
+Jövõ héten érkezik a Windows XP harmadik szervizcsomagja, itt a magyar Vista SP1
+
+[IW, CW, Neowin.net] A Neowin.net információi szerint jövõ hét hétfõn, április 21-én elsõ körben az MSDN és TechNet elõfizetõk férhetnek majd hozzá a Windows XP harmadik szervizcsomagjának végleges változatához, mely rákövetkezõ héten kedden, április 29-én mindenki számára elérhetõvé válik majd. 
+
+
+
+Még egy hét -- vagy kettõ
+
+A harmadik és egyben utolsó Windows XP szervizcsomag április 29-tõl a Windows vagy Microsoft Update automatikus frissítõ szolgáltatáson keresztül is beszerezhetõ lesz. Ezeket a dátumokat a Microsoft egyelõre nem erõsítette meg, az információkat azonban olyan blogon tették közzé, mely korábban is igen megbízhatónak bizonyult a Microsoft döntéseivel kapcsolatban. A Microsoft március 19-én tette közzé a megjelenésre jelölt változat (RC2) frissítését, mely több tesztelõk által jelzett problémát volt hivatott javítani. A redmondiak egyelõre továbbra is csak annyit árulnak el a csomagról, hogy 2008 elsõ félévében érkezik meg, noha több forrás már márciusban is tudni vélte, hogy április lesz az SP3 megjelenésének hónapja.
+
+A Windows XP utolsó szervizcsomagja több mint száz hibajavítást tartalmaz, szokás szerint nem csak a második szervizcsomag óta megjelentek találhatók meg benne, hanem minden frissítés, amit a Windows XP-hez kiadott a Microsoft. A javítások közül számosat a Vistából emeltek át, többek között a hálózati hozzáférés védelme is ezzel erõsödött, illetve a titkosító algoritmusok kezelése is ennek köszönhetõen javult. Módosítottak az aktivációs folyamaton is: a javítócsomaggal frissített operációs rendszer elsõ telepítés után már 30 napig mûködik aktiválás nélkül -- ugyanúgy mint a Vista, vagy a Windows Server 2003 SP2. Eddig a Windows XP telepítése nem történhetett meg valódi termékkulcs nélkül, az installálás egyszerûen nem futott le.
+
+Magyar Vista SP1
+
+
+ Az  újabb operációs rendszer, a Vista is kapott tegnap némi frissítést, már összesen 36 nyelven tölthetõ le az elsõ szervizcsomag, többek között a magyar változathoz is. Az önálló telepítõ a Microsoft letöltési szolgáltatásán keresztül szerezhetõ be, de a folyamatosan frissített Vistákhoz a beépített Windows Update javasolt, mely csak az éppen szükséges frissítéseket tölti le.

@@ -1,0 +1,12 @@
+Számítási hibát okoz az Excelben egy múlt keddi biztonsági frissítés
+
+Négy biztonsági frissítést tett közzé Office alkalmazáscsomagjához múlt héten a Microsoft, melyek kritikus biztonsági réseket foltoztak a különbözõ komponensekben, köztük az Excelben is. Az egyik javítás azonban az Excel 2003-as verziójában hibát okozhat a számításokban, hívta fel a figyelmet a Microsoft. 
+
+
+
+A Microsoft csütörtökön jelezte elõször, hogy az MS08-014 biztonsági frissítés, mely távoli kód végrehajtását lehetõvé tévõ réseket foltoz be az Excel 2000 SP3, 2002 SP3, 2003 SP2 és 2007 verzióiban (a 2003 SP3 és 2007 SP1 nem érintettek), számítási hibát okoz a 2003-as Excelben. A hiba akkor lép fel, mikor egy makró valósidejû adatforrást használ egy cellatömbhöz. A hiba visszatérési értéke jellemzõen 0, jegyzi meg a vállalat.
+
+A Microsoft természetesen már dolgozik a javításon, egyelõre azonban semmi további konkrétumot nem ad annak várható megjelenésével kapcsolatban. A problémát tárgyaló cikk utoljára március 14-én, pénteken került frissítésre. Bill Sisk a Microsoft Security Response Center blogon azt úgy fogalmaz, hogy a csapat teszteli a javítást, és kiadja, mikor megfelel a széleskörû terjesztés minõségi követelményeinek. Hogy a MS08-014 frissítés alá tartozó 7 foltozás közül melyik okozza a hibát, azt nem közölte a vállalat. Szintén adódik a kérdés, hogy a résekkel nem rendelkezõ Excel 2003 SP3 esetében jelentkezhet-e a hiba -- érdemes lehet tesztelni. 
+
+
+Addig a vállalat azt javasolja, hogy a probléma megkerülésre érdekében az ilyen funkciót alkalmazó makrókat nem tömbben, hanem a cellákra egyesével futtassák le, és ellenõrizzék le az eredményeket. A Real Time Data segítségével a táblázatokba valós idõben húzhatunk be adatokat külsõ forrásokból, akár weboldalakról is. A számítási hiba ellenére a Microsoft a biztonsági kockázat súlyossága miatt azt javasolja, hogy még az ilyen funkciót alkalmazó Excel 2003 SP2 felhasználók is telepítsék azt. 

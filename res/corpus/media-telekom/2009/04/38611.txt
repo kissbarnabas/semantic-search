@@ -1,0 +1,18 @@
+Balázspusztai seederek, szevasztok!
+
+Egy kiskunsági településen, a Szabadszálláshoz tartozó Balázspusztán épült ki az ország talán legmodernebb, otthoni célú internetes infrastruktúrája. A nagyjából háromszázas lélekszámú kistelepülésen optikai kábelen jut el az internet a lakásokba, a maximális sávszélesség végpontonként 100 megabit másodpercenként -- ilyen gyors internetrõl egyelõre a legtöbb budapesti is legfeljebb csak álmodhat.
+
+
+
+A száz százalékos lefedettséget biztosító optikai (FTTH) hálózatot egy kecskeméti szolgáltató, az Opticon Kft. építette ki Balázspusztán az eBefogadás program jegyében. A szolgáltató, pontosabban annak kiskereskedelmi tevékenységet végzõ érdekeltsége, a Hírös-Net Kft. havonta 3000 forintot számláz a végpontonként maximum 100/100 megabit/másodperces sávszélességet biztosító internetcsomagért. Az ügyfelek nem csak internetre, hanem telefonszolgáltatásra és tévés csomagra is elõfizethetnek, a konstrukciók részletei azonban egyelõre nem pontosan tisztázottak.
+
+A balázspusztai internetes infrastruktúrát javarészt a Cisco hálózati eszközei mûködtetik, tudtuk meg Bánoczki Dezsõtõl, az Opticon hálózati rendszerüzemeltetõjétõl. A szolgáltató elméletileg vékony kliensek használatát is lehetõvé teszi hálózatán, jóllehet Bánoczki egyelõre nem tudta megmondani, hogy a Sun klienseihez milyen feltételek mellett juthatnak hozzá az elõfizetõk. A szakember szerint a hálózat kiépítését rendkívüli érdeklõdés kísérte a helyiek részérõl, akik maguk is részt vettek a kábelek lefektetését kísérõ földmunkálatokban.
+
+[+] A legkorszerûbb optikai hálózatot építették ki Bólyban 
+
+Bánoczki lapunknak elmondta, hogy a balázspusztai végpontokon igény esetén akár 1 Gbps sebesség is kiadható, mivel a hálózat nem tartalmaz passzív osztókat. Az optikai hálózat jelenleg mintegy 60 háztartást ér el tesztüzemben, a végpontok egy szintén igény szerint bõvíthetõ, 1 Gbps sávszélességû vonalon csatlakoznak az internetes gerinchez.  A felhasználókhoz moduláris rendszerû végberendezések kerültek a telepítés során, melyek teljes kiépítésben 4 darab UTP, kettõ ATA és egy RF csatlakozót tartalmaznak.
+
+
+A hálózat kiépítésével Balázspuszta a két évvel ezelõtt felkapott, cybervárosnak becézett Bóly nyomdokaiba léphet. Ebben a mintegy 3800 fõt számláló kisvárosban épült ki az országban elõször a balázspusztaihoz hasonló 100 megabites FTTH-hálózat, mely az internet mellett telefonszolgáltatást és televíziós csomagot is kínált.
+
+A budapestiek, és a nagyobb vidéki városokban lakók többsége egyelõre legfeljebb álmodhat ilyen technológiáról: a Magyar Telekom jelenleg gõzerõvel dolgozik az FTTH-hálózatának kiépítésén, mely kezdetben a fõvárosban, illetve Debrecen, Miskolc, Pécs, Sopron, Székesfehérvár, Szombathely, Zalaegerszeg egyes részein érhetõ majd el. A szolgáltató 2009 végére 200 ezer, 2013 végére pedig több mint 700 ezer háztartást kíván elérni optikai hálózatával.

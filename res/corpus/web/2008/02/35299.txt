@@ -1,0 +1,26 @@
+Cisco: a fenyegetések egyre kifinomultabbak
+
+A Cisco nyilvánosságra hozta a most elsõ alkalommal elkészített éves biztonsági jelentését (Annual Security Riport), amely a biztonság kérdését tágan értelmezve kitér többek között a fizikai, a jogi és a humán tényezõkre is, és bemutatja, milyen fenyegetések várhatóak 2008-ban. 
+
+
+
+Nem babra, zsebre megy
+
+A jelentés alapján a biztonsági veszélyek földrajzilag egyre kiterjedtebbé és kifinomultabbá válnak. Ahogy terjednek az IP-kapcsolattal rendelkezõ készülékek, alkalmazások és kommunikációs lehetõségek, a támadások lehetõsége is kibõvül. Az internethasználat és az elektronikus kereskedelem terjedésével kialakultak az összetett technikát alkalmazó fenyegetések (spamek, adathalászat, botnetek stb.), amelyek célja már az anyagi haszonszerzés és a személyes adatok begyûjtése.
+
+
+ John Stewart, a Cisco biztonsági területért felelõs vezetõje szerint az információbiztonság ma már nemcsak egy-egy csatát jelent egy vírus vagy spamtámadás ellen. Gyakran merülnek fel jogi, azonosítási vagy geopolitikai kérdések is. Példaként a nagy kereskedõláncoknál bekövetkezett azonosító lopást emelte ki, valamint az Észtország ellen a múlt tavasszal, állítólag orosz hackerek által, politikai motivációból elkövetett dDoS-támadásokat. Ez utóbbi számos észt kormányzati weblapot tett mûködésképtelenné.
+
+"A kiberbûnözés a szemünk láttára alakul át. Gyakran olyan, egyébként jól ismert technikák segítségével, amelyekkel korábban csak elektronikus formában találkoztunk" -- mondta Stewart. "Nem szabad az információbiztonságot kockáztató veszélyeket egy-egy izolált adathalászati vagy vírustámadásként felfogni, a mai veszélyek ennél komolyabbak, és többek között a felhasználók bizalmára is építenek a social engineering eszközeivel."
+
+"Ahhoz, hogy napjainkban gondoskodjunk egy vállalkozás, a személyes adatok vagy egy ország biztonságáról, szorosabb összefogásra van szükség olyan felek között is, amelyek korábban nem feltétlenül mûködtek együtt" -- folytatta Stewart. "Informatikai biztonsági csapatok, vállalatok, kormányzatok, rendfenntartó szervek, fogyasztók, állampolgárok: valamennyien célpontok és egyben szövetségesek. Egy ország, vállalkozás vagy egyén biztonsága azon fog múlni, hogy ezek a csoportok képesek-e együttmûködni és kommunikálni."
+
+Egyre bonyolultabb és nagyobb kárt okozó támadások
+
+Tom Gillis, a Cisco által tavaly felvásárolt IronPort alelnöke szerint 2007 fordulópont volt az informatikai biztonságban, olyan új, bonyolult támadási technikák jelentek meg, amelyek egyértelmûen professzionális programozók munkájára vallottak. "Sokáig úgy tûnt, a kártevõk kezelésére kidolgozott biztonsági megoldások jól mûködnek. Azonban éppen a hatékony védekezési formákra adott válaszként kezdtek ismét erõre kapni a fenyegetések. A 2007-es évben az addig ismert fenyegetések jelentõs változásokon mentek keresztül. A rosszindulatú programok lopakodó üzemmódra kapcsoltak, és a korábbinál kifinomultabbá váltak."
+
+A kéretlen levelek, a vírusok és a rosszindulatú programok támadásai jelentõs költségekkel járnak, egy átlagos felhasználónak napi öt-tíz percet kell a spamek kezelésére szánnia. A Cisco jelentése szerint ma már naponta több mint 120 milliárd spam utazik a világhálón, az IronPort becslések alapján a vállalati felhasználók több száz kéretlen levelet kapnak nap mint nap. A spamtámadások korábban leginkább egy-egy termék reklámozására szorítkoztak, ma már viszont egyre gyakrabban tartalmaznak kártevõket terjesztõ oldalakra mutató linkeket. Az IronPort szerint tavaly 253 százalékos emelkedést tapasztalt az ún. "dirty spam" üzenetek számában.
+
+Egy kártevõvel súlyosan fertõzött személyi számítógép rendbetételéval kapcsolatos költségek akár 500 dollárra is rúghatnak a Cisco szerint, de az adatvesztés ennél jóval nagyobb kárt is okozhat, árthat a cég jó hírének, végsõ esetben teljesen tönkre is tehet egy vállalkozást. A Cisco által citált becslések szerint mintegy 60 millió ember személyes adatait hozták nyilvánosságra az elmúlt 13 hónap során; a kármentés, valamint a kiesett munkaórák összértéke körülbelül 20 milliárd amerikai dollárt tett ki. Aggasztó, hogy a vállalati adatok akár 60 százalékát védelem nélküli személyi számítógépeken és hordozható számítógépeken tárolják, a cégek közel fele pedig nem dolgozott ki eljárást arra az esetre, ha az ügyfelek adatai valami miatt kompromittálódnak.
+
+A nagyvállalatokra mind nagyobb nyomás nehezedik, hogy megfelelõen gondoskodjanak érzékeny adataik biztonságáról, legyen szó akár hitelkártyaszámokról, vállalati bevételekrõl vagy éppen terméktervekrõl. A kártevõk programozói kifinomult p2p-hálózatokat alakítanak ki éppen az ilyen adatok begyûjtésére; utolérni és megakadályozni õket pedig egyre nehezebb. Az informatikusoknak gondoskodniuk kell a rosszindulatú forgalom mérésérõl saját hálózatukon, és olyan komplex biztonsági rendszert kell felépíteniük, amely például hálózatalapú kockázatészlelési és hálózati hozzáférést szabályozó elemeket is tartalmaz.

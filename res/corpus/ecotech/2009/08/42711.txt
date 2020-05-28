@@ -1,0 +1,10 @@
+Tönkrement a Transmeta vevõje is
+
+A vállalat mindössze fél évvel azt követõen adta be a kulcsot, hogy lezárta a valaha nagyratörõ processzorpiaci ambíciókkal rendelkezõ Transmeta beolvasztását. Ahogyan arról a HWSW is beszámolt, a Novafora 256 millió dollárt fizetett a Transmetáért, hogy megszerezze annak energiatakarékos chiptechnológiáit, és beoltsa velük saját chipjeit. A felvásárlást közérdekû perrel támadták meg a Transmeta befektetõi, mivel a Transmeta nagyjából ugyanennyi készpénzzel rendelkezett, ami azt jelenti, hogy az szellemi tulajdonát ingyen szerezte meg a Novafora, állítják a felperesek.
+Az izraeli, kockázati tõke által finanszírozott Novafora telepített és mobil eszközök számára fejlesztett videochipeket, melyekrõl nem lehet sokat tudni. A cég a a Transmeta által kidolgozott LongRun2 energiakezelési technológiát dolgozta volna bele chipjeibe, erre azonban a jelek szerint sosem kerül már sor. A Light Reading ismeretei szerint a Novafora elfogyasztotta készpénzét, a befektetõk pedig nem finanszírozzák tovább a mûködését. A spekulációk szerint a tulajdonosok megpróbálják majd továbbértékesíteni a Transmeta felvásárlásával megszerzett, valamint a saját fejlesztésû szellemi tulajdonokat.
+
+A LongRun2 mélyebb technikai részletei nem ismertek, csak a magas szintû hatásai. A LongRun2 technológiát implementáló chipek másodpercenként több százszor képesek változtatni az órajelet és a tápfeszültséget a terhelés és hõfejlõdés függvényében. Ezen túlmenõen valamilyen trükkel képesek a tranzisztorok nyitófeszültségét is szabályozni futásidõben, hogy kordában tartsák a szivárgási áramot, mely haszontalanul növeli a fogyasztást. Tekintve, hogy segítségével a legyártott chipek parametrikus jellemzõi (szivárgás, aktív fogyasztás) is kedvezõbbek, a kihozatal is javítható. A LongRun2-t számos vállalat, köztük a Sony, a Toshiba, az NEC, a Fujitsu és az NVIDIA is licencelte, így a Transmeta öröksége tovább él.	     
+                  
+                  
+                  
+                   

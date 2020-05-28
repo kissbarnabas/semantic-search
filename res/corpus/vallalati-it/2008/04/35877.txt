@@ -1,0 +1,16 @@
+Év végére várhatóak a Lenovo szerverei
+
+A tervek szerint a negyedik negyedévben érkeznek meg a Lenovo x86-os szerverei, a megrendelések teljesítése azonban valószínûleg áthúzódik a következõ év elejére, közölték a cég képviselõi egy mai sajtótájékoztató alkalmával. 
+
+
+
+A kínai gyökerû Lenovo januárban jelentette be, hogy nem a Kínában is forgalmazott gépeivel lép ki a szerverek világpiacára, hanem az IBM egyes System x rendszereinek klónjaival jelenik meg Észak-Amerikában és Európában. Ehhez megszerezte a Kék Óriástól a szükséges licenceket, melyek néhány 1- és 2-utas, torony és rack kivitelû System x rendszerrel mûszakilag tökéletesen megegyezõ modellek gyártását és értékesítését teszik lehetõvé a vállalat számára. A döntést nem a belépõkategóriás gépek mûszaki tartalma, hanem az IBM név jelentette bizalom indokolja -- a Lenovo ezért is kommunikálja hangosan a licencelési megállapodást, nem pedig takargatja.
+
+Jelenleg a szervereket gyártó üzemek felkészítése folyik, ami nem egyszerû feladat, mondta el Gottlieb István, a Lenovo Magyarország vezérigazgatója. A Lenovo ugyanis házon belül akarja végezni a termelést ezért az IBM által korábban kiszervezett üzemeket részben visszaveszik, valamint saját gyárakat is építenek: Európában például Lengyelországban, ahol kezdetben mintegy ezer emberrel évi 1 millió számítógépnyi kapacitást épít ki a vállalat, mely késõbb tovább bõvíthetõ, egészen 5 millióig. Az IBM System x szerverek továbbra is az IBM gyártó- és logisztikai bázisán készülnek majd.
+
+
+Gottlieb elárulta, hogy a szerverek hivatalos bejelentését a negyedik negyedévre várják Magyarországon, a szállítások azonban vélhetõen már jellemzõen jövõ év elején realizálódnak. Megjegyezte, hogy meggyõzõdése szerint a Lenovo hosszú távon el fog mélyedni a szerverpiacon, nem áll meg az 1-2 processzoros szervereknél, hanem a 4-8 utas gépekkel is megjelenik, ahogyan blade szerverekkel is ki fog jönni a piacra -- ráadásul ezek a lépések piaci léptékben nagyon gyorsan fognak történni, véli.
+
+Értékesítési stratégiájának megfelelõen az alsókategóriás x86-szerverek esetében is kizárólag a partnerekre támaszkodik majd a Lenovo. "Azok a partnerek, akik az eddigi termékportfólió értékesítésében is jeleskedtek, azok alkalmasak arra, hogy x86-os szervereket is forgalmazzanak", megfelelõ továbbképzést követõen, mondta el Gottlieb egy korábbi telefonos interjú során. Az ügyfelek részérõl folyamatosan érzékelik az igényt, hogy a kliensek mellé szervereket is biztosítsanak, vagyis a piacon van kereslet Lenovo kiszolgálók iránt.
+
+A Lenovo által erõteljesen megcélzott KKV szektorban az IBM jelenléte nagy versenytársaihoz képest gyenge, így a megállapodáson keresztül itt is erõteljesebben jelenik meg, még ha közvetve is, miközben az érdekellentét minimális. Az IBM x86-os forgalma ráadásul az idei elsõ negyedévben stagnált, így tovább zsugorodott részesedése. Az IBM tavaly mintegy 1,2 millió x86-os szervert értékesített, amivel a harmadik legnagyobb szereplõje a piacnak.

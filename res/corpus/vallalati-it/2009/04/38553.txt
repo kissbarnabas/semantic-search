@@ -1,0 +1,12 @@
+Nyolc frissítést ad ki kedden a Microsoft
+
+Nem kevesebb mint 8 hibajavítást ad ki jövõ kedden a Microsoft, a szoftvercég a Windowst, az Excelt, az Internet Explorert és a Forefront Edge Securityt is frissíti. A 8 patchbõl 5 kritikus, távoli kódfuttatást lehetõvé tevõ sebezhetõséget foltoz.
+
+
+
+A rendszergazdáknak mozgalmas napjai lesznek az ünnepek után, kedden ugyanis több mint fél tucat hibajavítást ad ki termékeihez a Microsoft. A patchek közül öt a Windowst frissíti, egy az Internet Explorerhez, egy az Excelhez, egy pedig az Essential Business Server 2008-ban levõ Forefront Threat Management Gateway Medium Business Editiont érinti. Az elõzetes értesítésben a Microsoft nem hozza nyilvánosságra, pontosan milyen sebezhetõségeket javít, csak olyan információkat tesz közzé, amelyek segíthetik a rendszergazdák munkáját a patchelésre való felkészülésben. Ilyenformán egyelõre csak az tudható, mely szoftverekhez érkezik javítás és hogy a telepítéshez szükséges-e újraindítás.
+
+
+ Az öt Windows-patchbõl mind az öt érinti a Vistánál, illetve Windows Server 2008-nál korábbi változatokat, a jelenlegi generációs desktop és szerver operációs rendszert azonban csak három. Az Excel kritikus sebezhetõségét javító patchet az Office 2000 óta kiadott összes változatra telepíteni kell, ez alighanem azt a sebezhetõséget foltozza majd, amelyet februárban találtak a szoftverben. Néhány napja kiderült, a PowerPoint is sérülékeny, erre a hibára azonban most nem érkezik gyógyír.
+
+Utoljára tavaly októberben fordult elõ, hogy a Microsoft egyszerre ilyen sok hibajavítást adott ki, akkor kilenc patch érkezett, de közülük csak három foltozott be kritikus sérülékenységet.

@@ -1,0 +1,32 @@
+Minden eddiginél több és súlyosabb szoftversebezhetõséget találtak tavaly
+
+Minden korábbinál több új sebezhetõségre derült fény tavaly, ezzel párhuzamosan pedig emelkedett a rések súlyossága is -- állítja az IBM X-Force éves biztonsági jelentése. A számszerû növekedést leginkább a webes alkalmazásokban felfedezett rések magyarázzák. A tanulmány ugyanakkor hangsúlyozza, megfelelõ kockázatértékelést kizárólag a gazdaságossági szempontokkal együtt lehet készíteni, ahogyan a bûnözõk a minél magasabb megtérülésre törekednek.
+
+
+
+A weben van a hangsúly
+
+Az IBM biztonsági kutató-fejlesztõ csapata tavaly több mint 7400 új sebezhetõséget dokumentált, ami 13,5 százalékos emelkedés 2007-hez képest. Ezek 1 százaléka volt kritikus besorolású, 38 százaléka magas, míg 54 százaléka közepes osztályzatot kapott, az alacsony veszélyt rejtõek aránya pedig 7 százalékot tett ki. Leginkább a közepes kockázati osztály növekedett, 2008-ban szám szerint 1600-zal több ilyen rést talált az X-Force, mint 2007 során, arányuk így lényegében másfélszeresére ugrott.
+
+A növekedést elsõsorban a webes alkalmazások okozták, olyannyira, hogy az 2008 során felderített új sebezhetõségek 54 százaléka a webszervereken található, aggregált számuk pedig eléri a 15 ezret. A leginkább terjedõ típusuk az SQL-injekciók, melyek az X-Force elemzése szerint a leginkább vonzóak a bûnözõk számára, ugyanis nem csak könnyû élni velük, hanem magas megtérülést is biztosítanak.
+
+Ez magyarázza, hogy ilyen jellegû támadások száma a tavalyi negyedik negyedévben akár a napi 450 ezret is meghaladta, de csendesebb napokon is több tízezer ilyen támadás zajlott le netszerte. Súlyos gond, hogy a webes rések 74 százalékára nincsen hivatalos javítás, miközben a publikus exploitok az esetek 90 százalékában még aznap elkészülnek. A második leggyakoribb a cross-site scripting technikákkal kiaknázható rés.
+
+A webes alkalmazások felértékelõdéséhez kapcsolódik, hogy a kliensoldalon is a webes alkalmazások vitték a prímet, már ami a kritikus és magas súlyosságú rések számát illeti. A kritikus és magas kockázatú kliensoldali sebezhetõségek 52 százaléka kapcsolódik böngészõkhöz, ebbõl pedig az ActiveX hasít ki 66 százalékot, az Internet Explorer 18, míg a Firefox 14 százalékot. A weboldalakba ágyazott rosszindulatú kódok harmada az ActiveX-et, harmada az Internet Explorert, míg az Adobe Flash és Adobe Acrobat termékeit összesen negyedük támadta, és mindössze egy ezrelékük a Windowst, és három ezrelékük a Firefoxot. A bûnözõk különösen agresszívek a böngészõalapú támadásoknál, 24 órán belül az exploitok 94 százaléka készült el.
+
+2008 szitája: MacOS X
+
+Ami az operációs rendszereket illeti, ezek a kliensoldali kritikus és súlyos sebezhetõségek nagyjából 14 százalékát adják, kevesebbet, mint a dokumentumkezelõ szoftverek. Az X-Force szerint 2008 leglyukasabb operációs rendszerei a MacOS X és MacOS X Server, melyek egyenként a sebezhetõségek 14,3 százalékát gyûjtötték be (ha a duplázódás miatt kiszûrjuk a Servert, akkor 16,7 százalékos arányt kapnánk). 
+
+
+ A második legtöbb rést, 11 százalékukat a Linux kernelben dokumentálták, míg a bronzérmet a Solaris vitte el 7,3 százalékkal, megelõzve a Windows XP-t és Vistát is, melyek 5,5 és 5,1 százalékkal zárták az évet. Ezen a pontos érdemes emlékezni arra, hogy a Windowsok továbbra is magasabb kockázatot jelentenek sokkal nagyobb elterjedtségük miatt, így magasabb megtérülést ígérnek a bûnözõk számára. 
+
+Csökkent a spamek száma
+
+Érdekesség, hogy a spamek száma csökkent az év során, amiben meghatározó szerepet játszott, hogy õsszel egy spammelésre szakosodott kaliforniai webhoszting-céget egyszerûen levágtak az internetrõl. A bûnözõ csoportok természetesen reagáltak, de év végére így is csak az eredeti volumen 70 százalékát érték el.
+
+[+]  Háromnegyedével csökkent a spamek száma
+
+A spamekben található URL-ek 6 százalékát Magyarországon hosztolták, becsli az X-Force, amivel Kína és az Egyesült Államok mögött a harmadik helyért küzdünk Romániával és Oroszországgal. Spamküldésben tavaly Oroszország volt a világbajnok, az Egyesült Államokat és Törökországot megelõzve, de év végére visszaesett az ötödik helyre, és jelenleg Brazíliáé az elsõség. 
+
+Az IBM X-Force fenyegetettségi jelentését szabadon le lehet tölteni a vállalat honlapjáról (PDF).

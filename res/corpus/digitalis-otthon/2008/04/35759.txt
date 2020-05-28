@@ -1,0 +1,14 @@
+Az Office kalózverzióinak felhasználóit is figyelmeztetni fogja a Microsoft
+
+A Windows Genuine Advantage-hez hasonlóan az Office kalózverzióinak felhasználóit is figyelmeztetni fogja a Microsoft, hogy nem eredeti szoftvert használnak. Hamarosan egy több országra kiterjedõ program indul majd, amelynek keretén belül felugró ablakok "zaklatják" majd azokat a chilei, olasz, spanyol és török felhasználókat, akik az irodai csomag kalózmásolatát futtatják. 
+
+
+
+Az Office programcsalád tagjai minden nap az elsõ indításkor figyelmeztetést küldenek a felhasználónak, hogy a termék nem eredeti, majd innentõl fogva két óra múlva újra figyelmeztetnek. Ez így megy 30 napig, azt követõen az összes Office-alkalmazás folyamatosan megjelenít egy "emlékeztetõt", hogy a termék nem eredeti, de a szoftver még ekkor sem akadályozza meg a fájlok betöltését, mentését vagy szerkesztését, vagyis továbbra is teljes funkcionalitással üzemel, de a figyelmeztetés csak akkor tûnik el, ha egy legális verziót telepít a felhasználó, vagy legális termékkulccsal újraaktiválja az Office-t.
+
+
+ Az egyelõre csak négy országban induló programban önkéntesen lehet részt venni, a hamis termékrõl értesítést küldõ komponens egy opcionális frissítésként települ. Ne ringassuk azonban magunkat illúziókba, a Windows eredetiségét vizsgáló, és a frissítéseket a kalózváltozatról letiltó Windows Genuine Advantage is csak pár országban indult el elõször, és önkéntesen lehetett benne részt venni, mára azonban minden országra kiterjesztették és minden felhasználó számára kötelezõvé tették az ellenõrzést. 
+
+Az Office Genuine Advantage eredetileg 2006 áprilisában indult el Brazíliában, Kínában, Csehországban, Görögországban, Oroszországban, Spanyolországban és Koreában, 2007 januárja óta azonban már világszerte az összes Office-felhasználónak meg kell vizsgáltatnia a termékét, ha frissítéseket szeretne letölteni a Microsofttól. Az Office Genuine Advantage programmal ugyanaz a Microsoft célja, mint a WGA-val: egyfelõl visszaszorítani az illegális szoftverhasználatot, másfelõl pedig kiszûrni azokat a kereskedõket, amelyek eredetiként árusítanak hamisított, másolt termékeket.
+
+A nem eredeti Office-ok a frissítésekbõl már régóta ki vannak zárva, csak a kritikus biztonsági javításokat tölthetik le rá a használók. Eddig azonban a program nem figyelmeztette a gép elõtt ülõ felhasználót arra, hogy a nála levõ, lehet hogy eredetiként megvásárolt szoftver valójában kalózverzió.

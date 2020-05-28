@@ -1,0 +1,51 @@
+AMD: remek negyedév és biztató kilátások
+
+Az Intel rekordnegyedévét követõen meglepõen jó mutatókról adott számot az AMD is, elnyerve a pénzügyi elemzõk tetszését. Sokat javult a stratégiai átalakulás alatt álló chipgyártó processzorüzletágának teljesítménye, de különösen a grafikus üzletág remekelt az elmúlt három hónap során. 
+
+A vállalat a 45 nanométeres csíkszélességû eljárás gyors felfuttatásával, új termékeinek térnyerésével és folyamatos költségcsökkentési programjával  agresszívan tör nyereségességének javítása felé. Bár a piaci környezettel kapcsolatos elõrejelzések a pénzügyi világkrízis hatására bizonytalanok, a tõzsdei zárást követõen több mint 5 százalékot erõsödtek a cég papírjai.
+
+
+
+Az ideális negyedév
+
+"Örömmel jelenthetem be, hogy az AMD egy jól végrehajtott harmadik negyedévet tudhat maga mögött egy kihívásokkal teli gazdasági környezetben" -- mondta el Robert J. Rivet pénzügyi vezérigazgató. A negyedéves árbevétel 14 százalékkal növekedett éves szinten, míg szekvenciálisan 32 százalékkal, és meghaladta az 1,77 milliárd dollárt. Az üzemi nyereség 131 millió dollárt tett ki, szemben az egy évvel korábbi 181 milliós veszteséggel, vagy az elõzõ negyedévet sújtó 143 milliós hiánnyal.
+
+
+Összefoglaló
+
+
+- Növekvõ szállítások és bevétel minden szegmensben
+- Négymagos Opteronok szállításai +50 % a második negyedévhez képest
+- 45 nanométeres Opteronok még idén, asztali chipek jövõre
+- Teljes 45 nanométeres konverzió jövõ év közepére
+- Tarolnak az új Radeonok, részesedést vesznek el az NVIDIA-tól
+- Jövõ év elejére 1,5 milliárd dolláros nyereségességi bevételküszöb elérése
+- A Foundry Radeonokat is fog gyártani
+
+
+ Az adózott eredmény ugyanakkor egyszeri leírások miatt 67 milliós veszteséget mutatott, igaz, a negyedévre egy 191 millió dollárnyi gyártástechnológiai licencbevétel is jutott, mely az elõzõ negyedévben értékesített chipgyártó berendezésekhez kötõdik. Az egyszeri és átstrukturáláshoz kötõdõ tételektõl megtisztítva egy negyedév alatt mintegy 300 millió dollárral javult az AMD üzemi nyereségessége, a bruttó profithányad (a termékeladásból közvetlenül származó nyereség a bevétel arányában) 37 százalékról 45 százalékra emelkedett.
+
+Sikeres platformok, küszöbön a 45 nanométer
+
+A processzorokért és chipsetekért felelõs Computing Solutions részleg 26 százalékkal növelte árbevételét az elõzõ negyedévhez képest, miután minden szegmensben növekedett a leszállított processzorok száma, és a bevétel is egyúttal, az átlagos eladási árakat pedig szinten tudta tartani a cég. A húzóerõt a Puma notebookplatform képezte, az Opteron szerverchipekbõl pedig 9 százalékkal több bevétel folyt be az elõzõ negyedévhez képest, miután végre megindult a négymagos Barcelonák tömeges szállítása. "A processzor-, grafikai és videotechnológiai szempontból leginkább kiegyensúlyozott platformokat szállítjuk" -- kommentálta az eredményeket a frissen kinevezett elnök-vezérigazgató, Dirk Meyer. 
+
+
+A vállalat heteken belül hivatalosan is útjára indítja a már kereskedelmi szállítás alatt álló Shanghai chipjét -- árulta el Meyer --, mely lényegében a Barcelona 45 nanométeres zsugorításának tekinthetõ javított magok közötti kommunikációval és 2-rõl 6 megabájtra növelt L3 gyorsítótárral. A vezér ígérete szerint még idén szerverekbe kerülnek az új négymagos Opteronok, míg az asztali változatok, a Phenomok szállításai szintén megindulnak a negyedik negyedévben, de PC-kben csak jövõre lesznek megvásárolhatóak. 
+
+Az AMD rendkívül agresszív a 45 nanométeres csíkszélességû termelés felfuttatásával. Rivet az elsõ negyedév végére ígéri, hogy a 45 nanométeres kibocsátás eléri a 65 nanométeresét, majd jövõ év közepére teljesen átáll a drezdai Fab 36 az új technológiára. Az új gyártástechnológia gyors bevezetése kritikus jelentõséggel bír a nyereségességben, ugyanis a kisebb geometria révén fajlagosan 20-30 százalékkal alacsonyabb elõállítási költséget is realizálni lehet, miközben a csökkenõ hõfejlõdés és gyorsabb tranzisztorok révén lazuló idõzítések lehetõvé teszik az órajelek emelését. 
+
+Tarolnak az új Radeonok
+
+Nem maradt nyom nélkül az új ATI Radeonok piacra kerülése sem. A gyilkos ár-teljesítmény mutatóval rendelkezõ, az NVIDIA chipjeihez képest olcsón elõállítható Radeon 4000-es generáció tarolásának hatására 55 százalékkal növekedett a grafikus részleg árbevétele az elõzõ, és 40 százalékkal a tavalyi negyedévhez képest, és 385 millió dollárt tett ki. A részleg az elmúlt negyedévek veszteségeit követõen 47 millió dolláros profitot mutatott fel. Meyer elmondása alapján részesedést nyertek a notebookok és asztali PC-k terén egyaránt, és ezt a lendületet a a negyedik negyedévben is meg kívánják tartani.
+
+Bizakodó kilátások
+
+Mindezzel együtt ugyanakkor továbbra sem teljesen elégedett Meyer. "Az elmúlt negyedév jól sikerül több szempontból is, ugyanakkor egyáltalán nem kielégítõ. Addig nem leszünk elégedettek, míg következetesen nem válunk nyereségessé." A vállalat év elején kezdte meg belsõ átalakítását, aminek során elbocsátásokon ás átszervezéseken keresztül a korábbi 2 milliárdos szintrõl 1,5 milliárd dollára kívánják csökkenteni a nyereségesség eléréséhez szükséges árbevételi szintet. Rivet szerint mindezt sikerül jövõ év elejére teljesíteniük.
+
+Mindebben a két hete bejelentett történelmi átalakulás is segíti a céget. Mint arról a HWSW is beszámolt, az AMD a félvezetõgyártás jelentette hatalmas és egyre növekvõ teher miatt nehéz pénzügyi helyzetében kiszervezni kénytelen gyártását, hogy versenyképes tudjon maradni. A vállalat így egy úgynevezett fabless chiptervezõvé alakul át, miközben drezdai gyártási bázisa egy vegyevállalatba kerül ki, Foundry néven. Egy korszerû, nagykapacitású félvezetõüzem által igényelt beruházás összege jelenleg meghaladja a 3 milliárd dollárt, üzemeltetése és versenyképesen tartása pedig évente további százmilliókat követel.
+
+[+] Arab tõke segítségével szervezi ki gyártását az AMD 
+
+A szerzõdéses bérgyártás piacára belépõ Foundryt az Abu Dhabi-i Advanced Technology Investment tõkésíti fel a versenyképesség fokozása érdekében, így elsõ körben mintegy 1,4 milliárdot injektál többségében a drezda Fab 38-ba, mely jelenleg az AMD finanszírozási problémái miatt üresen áll, majd a következõ 5 év során további 4,3 milliárd dollárt fektet be a tervek szerint, melynek nagy részét egy új, New York állambeli gyár létesítése fogja felemészteni. Az AMD processzorainak termelését továbbra is a Foundry végzi közel exkluzívan, és a késõbbiekben Radeonok elõállítására is kap megrendelést. 
+
+Mindeközben az AMD jobban koncentrálhat a chiptervezésre, melyben a vállalat az elmúlt években leszakadt a hatalmas mérnöki erõforrásoktól duzzadó Inteltõl. Ez a következõ egy év során továbbra is így marad, a jelenlegi helyzethez képest ugyanakkor várhatóan így is javul az AMD portfóliójának versenyképessége a 45 nanométeres termékekkel, különösen az asztali és notebook szegmensekben, ahol a legnagyobb az Intel mûszaki fölénye. Az Intel november 17-én indítja útjára következõ generációs processzorcsaládját, a Nehalemet, mely fejlesztéseivel elsõsorban a szerverpiacon fog jelentõs elõrelépést felmutatni.

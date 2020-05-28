@@ -1,0 +1,14 @@
+Egyre kellemetlenebbé válik a webes levelezõrendszerek gyakori összeomlása
+
+Rájárt a rúd ezen a héten az ingyenes levelezõrendszerek felhasználóira: hétfõn a Google Mail, tegnap pedig a Microsoft által üzemeltetett Hotmail térdelt le órákra. A kiesés a Hotmail esetében lényegesen több felhasználót érintett, az eset ezzel ismét komolyan megrendítheti a hasonló, ingyenesen mûködõ rendszerek iránti bizalmat.
+
+
+
+Keleti-parti idõ szerint csütörtök délben egyes felhasználóknál akadozni kezdett, illetve teljes leállt a Microsoft Live! Hotmail webes e-mail szolgáltatása. A felhasználók a bejelentkezés során órákig csak egy a szerver túlterheltségét jelzõ hibaüzenetet kaptak, amikor el akarták érni postafiókjukat, derült ki a visszajelzésekbõl. A Microsoft egyelõre nem közölte a leállás okát, és azt sem, hogy pontosan hány felhasználó lehetett érintett, a Twitteren érkezõ szokatlanul nagy mennyiségû visszajelzés hatására azonban a cég kénytelen volt saját WindowsLive Twitter feedjén megnyugtatni mindenkit: tudnak a leállásról és a hiba kijavítása folyamatban van.
+
+A Hotmail szolgáltatás végül helyi idõ szerint délután öt órakor állt helyre, a szoftvercég ekkor egy szûkszavú blogbejegyzésben kért elnézést a felhasználóitól, ígéretet téve arra, hogy hasonló hiba nem fordul elõ többet. Ezen a héten egyébként ez volt a második olyan leállás, mely az elterjedt online levelezõrendszerek felhasználóit érintette: a Gmailbe hétfõn több felhasználó nem tudott bejelentkezni, mások a szolgáltatás lassúságára panaszkodtak. A Gmail a hétfõi megroggyanást követõen végül több mint egy nap után tért csak teljesen magához.
+
+
+A Gmail esetében ez idén már a második komoly rendszerhiba volt, elõször február 24-én omlott össze több órára a szolgáltatás egy rutinfeladatnak ígérkezõ karbantartási folyamat következtében. A levelezõrendszer tavaly többször is akadozott, az egyik legemlékezetesebb leállás augusztus közepén történt. Az eset után a Google külön blogbejegyzésben kért elnézést az érintettektõl -- ez addig egyáltalán nem volt jellemzõ a cégre.
+
+A webalapú alkalmazásaikkal több millió felhasználót magukhoz csábító Google és Microsoft messze legnépszerûbb online szolgáltatása a levelezés, melynek minõségi mutatói a legtöbbször jól szemléltetik, hogy a cégek mennyire felkészültek a hasonló problémák megelõzését és elhárítását illetõen. Az ilyen leállások éppen ezért egyre komolyabb presztízsveszteséget okoznak az érintett vállalatoknak, hiába hangsúlyozza némelyikük, hogy a szolgáltatás bétaállapota miatt van esély a hasonló hibák elõfordulására.

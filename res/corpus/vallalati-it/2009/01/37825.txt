@@ -1,0 +1,22 @@
+Megkezdte az Exchange 14 tesztelését a Microsoft
+
+Megkezdte az Exchange Server következõ verziójának tesztelését a Microsoft. A HWSW értesülései szerint a termék Exchange Server 2010 néven jelenik meg, várhatóan 2009 végén vagy 2010 elején, nagyjából egyidõben a Windows 7-tel, a Windows Server 2008 R2-vel és talán az új Office-szal, amely egyébként szintén a 14-es kódnevet viseli.
+
+
+
+Újdonságok sora
+
+Az E14 egyik legfontosabb újdonsága az elõdökhöz képest, hogy a kezdetektõl fogva úgy tervezték, hogy hosztolt szolgáltatásként is kitûnõen mûködjön és egyszerre akár több "bérlõt" is ki tudjon szolgálni. Az Exchange 2007-re alapozva jelenleg is több cég nyújt hosztolt szolgáltatást, köztük maga a Microsoft is, Exchange Online néven. Az e-mail postafiókok üzemeltetésének kiszervezése egyértelmûen jelzi, hogy az elektronikis levelezés ma már nem versenyelõny, hanem a túléléshez szükséges minimum a vállalatok számára, ilyen szolgáltatást pedig ugyanúgy igénybe lehet venni külsõ cégtõl is, mint ahogy a PC-k mûködtetését, vagy akár az elektromos áram vagy a csapvíz ellátását.
+
+ Az újdonságok között megtalálható lesz meg a frissített Outlook Web Access kliens, amely az Outlook Live nevet kapta. A böngészõbõl elérhetõ felület megszólalásig hasonlít a telepített Outlookra és egyre több olyan szolgáltatás érhetõ már el a segítségével, amelyek eddig csak a telepített változatban voltak jelen. A 14-es változatban ilyen például a terjesztési listák kezelése, szabályok létrehozása, vagy más postafiókok megnyitása.
+
+A HWSW úgy tudja, az Exchange 14 a korábbinál fejlettebb képességeket vonultat fel az üzenetek megõrzése és archiválása terén, a szerver minden postafiókot és mappát elõre beállított szabályrendszerek alapján tud majd kezelni. Érdekes újdonság, hogy bizonyos típusú leveleket az Exchange Server 14 a Microsoft Rights Management Services (RMS) segítségével automatikusan, a küldõ szándékától függetlenül  képes jogvédelemmel ellátni, ezzel csökkentve a bizalmas információk kiszivárgásának kockázatát.
+
+
+ A vállalaton belüli felesleges e-mail forgalom csökkentésére is tartalmaz néhány új trükköt az Exchange 14. A szoftver levélküldés elõtt képes figyelmeztetni a felhasználókat, ha olyasvalakinek akarnak e-mailt küldeni, aki éppen nincs az irodában (be van állítva az out of office autoreply), megtelt a postafiókja vagy például nem tudja a csatolt állományt fogadni. 
+
+A pletykák szerint a Microsoft új üzetnetkezelõ szerverének fejlesztõi minden eddiginél nagyobb hangsúlyt fektettek a megbízhatóságra és rendelkezésreállásra, valamint olyan új fürtözési képességeket is bevezettek, amelyre alapozva a korábbi megoldások (CCR, LCR, SCR, SCC) elõnyeinek ötvözésével egy "bombabiztos" fürt hozható létre már két szerverbõl. A rendszergazdák, adminisztrátorok a korábbiaknál fejlettebb felügyeleti funkcióknak örülhetnek majd. Egy, a Microsoft megbízásából készült tanulmány azt állítja, az Exchange 2007 üzemeltetési költsége mintegy fele az Exchange 2003-énak és az Exchange 14 esetében hasonló mértékû csökkenés várható.
+
+Hamarosan itt a nyilvános béta?
+
+Az Exchange 14 néhány új szolgáltatását bemutató videó megtekinthetõ a Microsoft TechNet weboldalán. Az szoftver egyelõre csak kiemelt ügyfelek számára érhetõ el elõzetes változatként, azonban a zárt tesztelés megkezdése elõrevetíti a nyilvános béta megjelenésének közeledtét is, ennek idõpontjáról egyelõre nem adott információt a Microsoft.

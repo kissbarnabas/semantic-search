@@ -1,0 +1,14 @@
+Belopakodik a Chrome az Internet Explorerbe
+
+A Google Chrome Frame egy korai stádiumban lévõ nyílt-forráskódú plugin, ami elérhetõvé teszi Internet Explorer alatt is a Chrome technológiáját, illetve a nagyon gyors JavaScript futtató motorját is. Így annak ellenére, hogy még az IE8 még nem támogatja, a röghöz kötött vállalati felhasználók is hozzáférnének a legújabb HTML5 fejlesztésekhez, illetve jóval gyorsabban futtathatnak webes alkalmazásaikat, mint ahogyan arra a Microsoft böngészõje önmagában képes lenne.
+A Microsoftnak nem tetszik
+A Microsoft viszont szinte azonnal tiltakozásba kezdett, az egyik szóvivõ a ZDNet-nek arról beszélt, hogy a Chrome Frame komoly biztonsági kockázatot jelent, hiszen a második webes motor révén megduplázódik a rosszindulatú programok által támadható felület. Ráadásul a Microsoft szerint a Chrome jóval kevésbé biztonságos, mint az IE8, s a Chrome Frame mûködése közben megkerüli az eredeti böngészõ biztonsági megoldásait. "Ez nem az a kockázat, amit szívesen ajánlanánk barátainknak vagy a családjainknak" - súlyosbította a helyzetet a Microsoft szóvivõje.
+A Google célja az akcióval, hogy az Internet Explorer felhasználóit is felvértezze azokkal a fejlett eszközökkel és megoldásokkal, amit a Microsoft egyelõre még nem implementált böngészõjébe, dea Frame mûködõképes a korábbi verziókkal is, így akár az Internet Explorer 6 is újjászülethet általa. Erre a nyakatekert megoldásra leginkább azért van szükség, mert a legtöbb szigorú vállalati informatikai rendszerben az Internet Exploreren kívül más böngészõt nem engedélyeznek, de így külön engedély, illetve programtelepítés nélkül elérhetõek a jobb böngészõk elõnyei. A Chrome Frame egyelõre Windows Vista, illetve XP SP2 alatt mûködik.
+
+A redmondi sértõdöttségre szinte azonnal viszontválaszban reagált a Google. Állításuk szerint a Chrome Frame fejlesztései közben a kezdetek óta figyelembe vették a biztonsági szempontokat, sõt, a Chrome "sandboxing", illetve a kártékony programok elleni funkciói is elérhetõek. "Miközben mi folyton arról gyõzködjük a felhasználókat, hogy használjanak modern, szabványos böngészõket, mint a Firefox, Opera, Safari vagy a Chrome, azok számára, akiknek ez a lehetõség nem adatott meg, kifejlesztettünk egy megoldást, a Chrome Frame-et" - mondta a Google szóvivõje.
+Ingyen reklám
+A kiegészítõvel kapcsolatos hangoskodás ugyanakkor jól jött a Google-nek, a cég a nagyobb figyelmet kihasználva arra biztatja az embereket, hogy teszteljék, próbálják ki a Frame-et, s legyenek részei a fejlesztésnek. A fejlesztõk eddigi munkája egyébként letölthetõ a Google Code-ról, de a jelenlegi változat még valóban instabil.	     
+                  
+                  
+                  
+                   

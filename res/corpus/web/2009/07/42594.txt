@@ -1,0 +1,12 @@
+Újabb béta jött a Thunderbird 3-ból
+
+Megérkezett a Thunderbird nyílt forrású e-mail kliens legújabb bétája, sorban a harmadik, azonban a fejlesztést irányító Dan Mosedale blogbejegyzése alapján úgy tûnik, továbbiakra is szükség lesz még a végleges változat kiadása elõtt. A Thunderbird 3 Beta 3 a Firefox legújabb változata által is használt Gecko 1.9.1.1 motorra alapoz és több száz újdonságot vonultat fel az elõzõ bétához képest, ami még 2008 õszén látott napvilágot. Változott a kezelõfelület, az ígéretek szerint nõtt a teljesítmény és sokkal gyorsabb lett a keresés is.
+A felhasználói felület talán leginkább szembetûnõ fejlesztése, hogy a Thunderbird 3 immár támogat füleket is, csakúgy mint a modern böngészõk. Javítottak az üzenetek elõnézetén is, emellett megjelent a Smart Folders mód, amely lehetõvé teszi hogy több postafiók könyvtárait egy nézetben lehessen megnézni. A fejlesztõk javítottak a Gmail-támogatáson is, a Thunderbird 3 már felismeri a Google online levelezõje által használt speciális könyvtárakat (Sent Items, Trash) akkor is, ha valaki nem angolul használja a Gmailt.
+
+Egyszerûbbé vált a postafiókok beállítása is, a felhasználónak csak nevét, e-mail címét és jelszavát kell megadnia, a szoftver pedig a Mozilla Messaging szerverével kommunikálva a domainnév alapján megpróbálja kitalálni a beállításokat. Persze lehetõség van kézi beállításra is, amely elkerülhetetlen egyébként, ha a Mozilla Messaging adatbázisa nem tartalmaz információt a kérdéses levelezõszolgáltatástól.
+A nyílt forrású levelezõ Windows, Mac és Linux operációs rendszereken futó változatban tölthetõ le a fejlesztést koordináló Mozilla Messaging weboldaláról. A Thunderbird 3 Beta 3 használatba vétele elõtt érdemes tudni, hogy a telepítés után a szoftver az összes levelet indexelni, ami elég sokáig tarthat, emellett arról sem érdemes megfeledkezni, hogy a Lightning nevû naptár nem kompatibilis vele.
+A jelenleg elérhetõ Thunderbird 2.0 már két éves és még mindig a Firefox 2 alapjául is szolgáló Gecko motor 1.8-as verziójára épül, nem a Firefox 3-ban is megtalálható Gecko 1.9-re. Az átállás annál is sürgetõbb, mert a Firefox 2-höz  már semmilyen frissítést vagy javítást nem fog kiadni a Mozilla Foundation, ezért az arra épülõ Thunderbird 2-t használók adatai veszélybe kerülnek, ha valaki felfedez egy sebezhetõséget és megjelennek a támadó kódok.	     
+                  
+                  
+                  
+                   

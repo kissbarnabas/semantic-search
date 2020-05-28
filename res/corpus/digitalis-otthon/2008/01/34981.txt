@@ -1,0 +1,14 @@
+Érdekes kivitelû UMPC új egérhelyettesítõ technológiával
+
+A tajvani E-Lead Electronic a Consumer Electronics Shown mutatja majd be Noahpad minigépét, amely Linux és Windows futtatására egyaránt alkalmas, továbbá merész megoldással képes kiváltani az egér használatát.
+
+
+
+A Noahpadon alapesetben Ubuntu Linux 7.10 fut majd, de Windows XP is telepíthetõ lesz rá, mert az ehhez szükséges hardverfeltételek adottak: 1 gigahertzes VIA C7 (CX700) processzor, 512 megabájt DDR2 memória, valamint 30 gigabájt adat elnyelésére alkalmas 1,8 hüvelykes merevlemez dolgozik a 780 grammos készülékházban. A gépbe épített parányi kijelzõ 7 hüvelykes és LED-es háttérvilágítással lett felszerelve. A kapcsolatok vezetékes 10/100 LAN, valamint 802.11 b/g vezeték nélküli hálózatokon egyaránt kiépíthetõk.
+
+
+A kijelzõ felett egy 300 ezer képpont rögzítésére alkalmas alapszintû webkamera is megtalálható, emellé csatlakozik a beépített mikrofon és a szerény teljesítményû sztereo hangkeltõ. A Noahpad áramellátásáról a 3900 mAh teljesítményû beépített akkumulátor gondoskodik, amely kiegészíthetõ egy 10000 mAh kapacitású külsõ egységgel is.
+
+E-Lead Electronic Noahpad
+
+A mini számítógép legérdekesebb jellemzõje az adatbevitelt érinti: A kijelzõ felhajtása után az továbbhajtható a gépház aljára, így használat közben a két részre osztott billentyûzet alulra kerül, mely érintésérzékeny és így "vakon" vezérelhetõ velük az egérmutató, éppúgy, mint két nagyméretû tapipaddal. A piacra kerülés idõpontjáról, valamint az árról még nem derültek ki részletek, a CES rendezvényen azonban nagy valószínûséggel fognak.

@@ -1,0 +1,71 @@
+Nehalem: elsöprõ fölényt jelez elõre az Intel
+
+Az iparban terjedõ hírek alapján az Intel következõ generációs processzorcsaládja, melynek zászlóshajója a Nehalem kódnevû fejlesztés, rendkívül erõteljesnek ígérkezik, és tovább nyitja az AMD-vel szemben nyitott ollót. Ezt támasztja alá egy frissen, a Suntól kiszivárgott prezentáció, mely az év második felében várható Nehalem teljesítményére mutat elõrejelzést. 
+
+
+
+Elsöprõnek ígérkezik
+
+Az Intel saját belsõ elõrejelzése alapján a Nehalem kódnéven ismert monolitikus négymagos chip drasztikus elõrelépést képvisel majd. A processzorok és rendszerek számítási teljesítményének iparágilag szabványosnak vehetõ SPEC CPU2006  tesztcsomag alapján a Nehalem kétutas rendszerekben elsöprõ fölényt mutat a vállalat becslései szerint. A Nehalem az Intel elsõ monolitikus négymagos x86 chipje, de egyúttal jelentõsen továbbfejlesztett mikroarchitektúrát és az évtizedes buszrendszert leváltó új infrastruktúrát is magával hoz, így ezek együttesen magyarázzák az ugrásszerû teljesítményt.
+
+Az Intel nem csak saját két- és négymagos Xeonjaihoz, hanem az AMD jelenlegi és jövõbeni Opteronjaival is összevetette a Nehalemet. Az Intel a Nehalem megjelenésének idõpontjára 2,8 gigahertzes Shanghaijal számol legfeljebb. A Shanghai az AMD 45 nanométeres csíkszélességen implementált négymagos, 6 megabájt L3 cache-t felvonultató Opteronja, mely az év második felére várható -- tekintve, hogy a legelsõ szilícium január elején született meg, ez inkább az év végéhez eshet közelebb, semmint a közepéhez. A Xeonok esetében minden esetben a csúcsmodellt vette alapul az Intel, ami 3 gigahertzes Woodcrestet és Clovertownt, a Harpertown esetében 3,2 gigahertzet és 1600 megahertzes buszt jelent.
+
+A számok a Nehalem becsült fölényét mutatják az egyes processzorokkal szerelt rendszerekkel szemben, melyeket a grafikon pixelpontos mérései alapján kalkuláltunk. A mutatók érdemes fenntartásokkal kezelni, amit a Nehalem és a Shanghai számainak becsült jellege mellett a pártos forrás és a részletes jelentések hiánya (használt compilerek és optimalizációk) indokolnak. Az eredmények kétutas szervereket jellemeznek, a SPEC CPU2006 kódok pedig inkább számításintenzív mûszaki, tudományos, matematikai és vizualizációs feladatokból állnak, kevésbé relevánsak a tipikus szerverfeladatokra. 
+
+
+
+
+
+
+
+SPECint_rate_base2006
+SPECfp_rate_base2006
+
+
+
+Xeon Woodcrest
+178%
+278%
+
+
+
+Xeon Clovertown
+79%
+161%
+
+
+
+Xeon Harpertown
+44%
+104%
+
+
+
+DC Opteron 3 GHz
+232%
+212%
+
+
+
+Barcelona 2,3 GHz
+94%
+111%
+
+
+
+Shanghai 2,8 GHz
+43%
+35%
+
+Forrás: Intel, 2008
+
+Kevés részlet nyilvános egyelõre
+
+A rendkívül potensnek ígérkezõ Nehalem mikroarchitektúráról egyelõre kevés információ látott napvilágot, elképzelhetõ, hogy a Core mikroarchitektúra erõteljesen továbbfejlesztett változata. A felvételek alapján a Nehalem egy magja mintegy 25 százalékkal nagyobb, mint az Intel ugyanazon a 45 nanométeres csíkszélességû gyártástechnológiáján készült Penryné. Az újításokkal kapcsolatban  az Intel eddig hivatalosan csak a többszálú párhuzamos végrehajtás visszatérésérõl beszélt, melyet a Northwood-magos Pentium 4-ekkel ismertünk meg, HyperThreading néven.
+
+
+A Nehalem számos verzióban látja majd meg a napvilágot. A már elkészült fõ fejlesztés négy magot, háromcsatornás DDR3-memóriavezérlõt integrál egyetlen lapkára 8 megabájt L3 cache társaságában. A 731 millió tranzisztorból felépülõ chip nagyjából 260 négyzetmilliméteren terül el, amivel kifejezetten nagynak számít tömegtermelési szempontból: a kétmagos Penryn 107 négyzetmilliméter.
+
+
+
+A Nehalem generáció igazi érdekessége, hogy leváltja az évtizedek óta szolgáló buszrendszert, és a QuickPath Interconnect néven ismert pont-pont összeköttetéseket alkalmaz a processzor chipek közötti és a külvilággal való kommunikációra, melyek drámaian kisebb késleltetéseket és nagyobb sávszélességeket biztosítanak majd a processzormagok számára -- hasonlóan az AMD 2003-an debütált, HyperTransport linkekre épülõ Direct Connect rendszerarchitektúrájához.

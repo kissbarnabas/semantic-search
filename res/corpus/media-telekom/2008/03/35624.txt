@@ -1,0 +1,16 @@
+Már nem akadály a másolóknak a Blu-ray második védvonala sem
+
+[DailyTech] Már a második, erõsebbnek hitt védvonal sem akadály a SlySoft fejlesztette AnyDVD HD alkalmazásnak: a tavaly júniusban bevezetett BD+ védelmet is könnyedén kijátssza a szoftver, lehetõvé téve a lemez tartalmának másolását, lementését. Különösen kellemetlen ez annak fényében, hogy számos stúdió pont az erõsebb másolásvédelem miatt választotta a Blu-ray formátumot a HD DVD-vel szemben.
+
+
+
+A kiadók,tartalomtulajdonosok láthatóan teljesen feleslegesen ölik fejlesztési és anyagi erõforrásaikat a különbözõ másolásvédelmekbe, csak idõ -- ráadásul egyre kevesebb -- kérdése, hogy okos fejlesztõk kerülõutat találjanak a lemezeken található tartalmak elérésére. Sokszor nem is maga a védelem, a kódolás gyenge, az elsõ védvonalat, az AACS-t például a PC-s lejátszóprogramok gyengeségeit kihasználva kerülték mega hackerek.
+
+Az AACS kulcsok igen könnyedén megszerezhetõk voltak, így már lassan egy éve lényegében semmilyen védelmet nem nyújtanak a következõ generációs lemezeken kiadott filmeknek. Az AACS LA (Advanced Access Content System Licensing Administration) tavaly május 22-én hiába adott ki újabb titkosító kulcsot a kiadóknak, az már azon a napon közismertté vált, így teljesen hatástalan volt.
+
+
+A SlySoft AnyDVD HD legújabb, 6.4.0.0 változata pozitívumként sorolja fel a BD+ másolásvédelem eltávolítását, az ugyanis kompatibilitási problémákat okoz számos Twentieth Century Fox kiadványnál, ha azt elsõ generációs Blu-ray-lejátszóban próbáljuk a képernyõre varázsolni. A kiadók ezért a készülékgyártókat okolják: a BD+ védelem a specifikáció része a kezdetek óta, így azt korrekten illett volna implementálni ezekbe a készülékekbe is.
+
+Külsõ olvasó + szoftver = HD-filmek torrenten
+
+A BD+ védelmet támogató lejátszókban található "virtuális gépben" futtathatók olyan lemezen mellékelt alkalmazások, melyek ellenõrizhetik a lejátszási környezetet, annak érintetlenségét, a titkosító kulcsok valódiságát, eredetiségét. Bármilyen probléma esetén ezek az alkalmazások megakadályozhatják a tartalom elérését. Ez a védelem akár a lejátszott videó minõségét, paramétereit is módosíthatja, ha bármilyen kétség merülne fel a rendszerrel kapcsolatosan.

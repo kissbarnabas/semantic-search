@@ -1,0 +1,14 @@
+Biztonsági frissítések tömege érkezik a Microsoft feburári patch keddjén
+
+Egy tucat biztonsági foltozást fog a következõ, jövõ hétre esedékes patch kedden közzétenni a Microsoft. A frissítések gyakorlatilag minden Windows-felhasználót érintenek, és többségük magas kockázatú sebezhetõséget szüntet meg.
+
+
+
+A 12 elemet tartalmazó csomag a Windows desktop és szerver változatai, valamint Microsoft-alkalmazások számára is tartogat biztonsági frissítést, sõt az Office 2004 révén Mac OS X platformot is érinti. A tucatnyi patch közül hetet minõsített a Microsoft kritikusnak, ezek mindegyike távoli kód futtatását teszi lehetõvé az érintett szoftveren. A további öt mindegyike fontos besorolást kapott, melyek közül kettõ távoli kódfuttatást, kettõ szolgáltatásmegtagadásos támadást, egy pedig illetéktelen jogosultságemelést tesz lehetõvé. 
+
+
+Az egyik sebezhetõség a Windows 2000 SP4-et kivéve az összes kurrens Windows verziót kritikusan érinti, köztük a 32- és 64-bites XP-ket és Windows Server 2003-akat, valamint a Vistákat is. Az operációs rendszereket egy másik biztonsági rés is fenyegeti, ez az asztali változatok esetében kritikus, míg a Server 2003-ak esetében közepes besorolást kapott.
+
+Az operációs rendszerek mellett biztonsági foltozások érkeznek az Office és Works csomagokhoz, a Explorer számos verziójához visszamenõleg, az IIS 6-hoz és 7-hez is, vagy az Active Directoryhoz is. A biztonsági frissítésekkel érintett szoftverek táblázatait meg lehet tekinteni a Microsoft februári elõzetes tájékoztatásában.  Annak eldöntésében, hogy szüksége van-e egy telepítésnek valamelyik biztonsági foltozásra, a Baseline Security Analyzer segít, mely az operációs rendszer mellett más Microsoft szoftverek biztonsági állapotát is kiértékeli, így többek között az Internet Explorer, Office, IIS, Exchange és SQL Server alkalmazásokét is.
+
+A biztonsági frissítéseken kívül, melyek technikai részletei várhatóan magyar idõ szerint kedd éjjel, vagy szerda hajnalban kerülnek fel a Microsoft Security Vulnerability Research & Defense blogjában, a vállalat hét további magas prioritású, nem biztonsági frissítést tesz közzé majd a Windows Update és Windows Server Update rendszereken keresztül, további kettõt A Microsoft Update és Microsoft Server Update szolgáltatásokon.   

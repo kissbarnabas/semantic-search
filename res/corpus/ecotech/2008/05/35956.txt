@@ -1,0 +1,30 @@
+Az AMD kiterjeszti az Intel ellen indított antitröszt-pert
+
+[WSJ/HWSW] Az AMD újabb keresetet nyújtott be az Intel ellen indított trösztellenes perben, amelyben azt igyekszik bizonyítani, hogy a világ legnagyobb félvezetõgyártója törvénytelen eszközökkel próbálja meg kiszorítani processzorait a vezetõ PC-gyártók konfigurációiból. 
+
+
+
+Összefogtak az AMD ellen?
+
+A Delaware-i Kerületi Bírósághoz most eljuttatott 108 oldalas dokumentum az IBM, a Dell és a HP mellett az Acert, a Lenovót, a Gatewayt, valamint nagy japán cégeket is említ, azonban a részletek üzleti titok tárgyát képezik, így nem nyilvánosak. Az AMD jogászai szerint az iratok az Intel és a PC-gyártók vezetõi között zajlott levelezéseket is tartalmaznak, amelyek bizonyítékul szolgálhatnak arra, hogy a chipgyártó óriás megállapodásokat között a cégekkel az AMD kigolyózására.
+
+Az AMD által benyújtott iratok szerint a korábban kizárólag Intel-alapú PC-ket kínáló Gateway a 90-es évek végén egy Athlon-alapú termékvonal megjelentetése mellett döntött, majd 1999 júliusában hirtelen minden indok nélkül megszakította a kapcsolatot az AMD-vel. A dokumentum számos hasonló példát említ. "Az Intel azért fizet az embereknek, hogy ne foglalkozzanak az AMD-vel" -- mondta az AMD jogi képviseletét ellátó O'Melveny & Myers ügyvédi iroda jogásza, Charles Diamond.
+
+
+ Az Intel tagadta, hogy törvénytelenül versenyezne, a vállalat szerint a processzorpiac igenis kompetitív. A cég állítása szerint az AMD bírósági védelmet kér az egyébként teljesen törvényes árverseny ellen. "Az AMD nem az Intel kedvezményeivel kapcsolatban tett panaszt, hanem azért, mert az Intel hatékonyabb [piaci versenyzõ]" -- áll az Intel szintén több mint 100 oldalas válaszában. Az Intel szerint az AMD azért van kedvezõtlenebb piaci helyzetben, mert termékei nem találkoznak a vevõk igényeivel.
+
+Vizsgálatok világszerte
+
+A 2005-ben indult üggyel kapcsolatban a bírósághoz már közel 200 millió oldalnyi dokumentumot juttattak el az érintettek. Az AMD azt szeretné elérni, hogy a bíróság további 9-10 hónappal hosszabbítsa meg a vizsgálati szakaszt, hogy újabb tanúkat és bizonyítékokat vonultathasson fel az igazának bizonyítására. Az amerikai joggyakorlat rendszerint szabad utat ad a piaci szereplõk árkedvezményeinek, ezért az AMD-nek a lehetõ legtöbb iratra és tanúvallomásra lenne szüksége ahhoz, hogy érvei megálljanak. Az ügy tárgyalása 2009 áprilisában indulhat meg.
+
+
+
+
+Fölény
+A Mercury Research által összegyûjtött adatok alapján Az Intel tavaly 2,6 százalékponttal 77,1 százalékra növelte részesedését a leszállított x86-os chipek piacán, miközben az AMD-é 1 százalékpontot vesztve 22,1 százalékra olvadt. Érték alapján azonban az AMD a szerverprocesszorok piacának mindössze 10,5 százalékát, az asztali szegmens 18,5, míg a mobilprocesszorokénak 11,2 százalékát szerezte meg -- köszönhetõen az Intel elsöprõ árazási fölényének.
+
+
+
+Az Egyesült Államok mellett Európában is vizsgálat folyik az Intel árkedvezmény-politikájával kapcsolatban. Az EU-ban hét évvel ezelõtt indult, ugyanakkor bizonyítékok hiányában többször megszakadt antitröszt vizsgálat jelenleg arra a kérdésre összpontosít, hogy törvényellenes-e az Intel azon gyakorlata, hogy a kedvezményeket és visszatérítéseket nem egységesen, hanem PC-gyártónként egyedileg határozza meg. Az európai versenyhatóság emberei utoljára idén februárban ütöttek rajta az Intel müncheni irodáján, a versenyellenes magatartást bizonyító dokumentumok után kutatva.
+
+Japánban a versenyhatóság 2005-ben már kimondta, hogy a processzorgyártó árképzési gyakorlata megsérti a szigetország törvényeit. A japán hatóságok felszólították a vállalatot, hogy szüntesse be a jogszerûtlen gyakorlatot, formálisan ugyanakkor nem kezdeményeztek eljárást. Az Intel kifejezte egyet nem értését, ugyanakkor együttmûködésérõl biztosította a versenyhivatalt -- vagyis az ügyet a japán normák szellemében zárták.

@@ -1,0 +1,14 @@
+Idõgép a Microsoft Office 2007 kezelõfelületéhez
+
+Az Office 2007 egyik legellentmondásosabb újdonsága a kezelõfelület, amelyet teljesen átszabott a Microsoft. A cég szerint a "ribbon" sokkal hatékonyabb munkavégzést tesz lehetõvé, de a legtöbb felhasználó inkább szidja mint dícséri az áttervezett menürendszert. Az Addintools olyan szoftvert tett elérhetõvé, amellyel az Office 2007 menüjét visszaküldhetjük 2003-ba, lecserélhetjük a korábbi változatból megszokottra.
+
+
+
+A redmondiak szerint azért volt szükség a felhasználói interfész áttervezésére, mert az Office fejlõdésével párhuzamosan egyre több képességet építettek be a szoftverbe, a menük és eszköztárak száma egyre csak nõtt, míg végül a felhasználók már nem voltak képesek átlátni azokat. A Microsofthoz beérkezõ visszajelzésekbõl kiderült, a szoftvercsomag képességeinek egy része egyszerûen rejtve maradt a felhasználók elõl: jellemzõ volt, hogy sokan olyan képességek beépítését kérték a cégtõl, amik már benne voltak a termékben, csak nem találták meg õket. 
+
+
+A Microsoft világszerte ezreken figyelte meg, hogyan használják az irodai szoftvercsomagot, az így gyûjtött tapasztalatokat is felhasználták az új interfész tervezésekor. Noha az új felület valóban jobban átlátható és könnyebben kezelhetõ, a radikális újítás egyben azt is jelenti, hogy a felhasználóknak lényegében újra meg kell tanulni kezelni a szoftvert. A Microsoft ezt maximálisan támogatja, és a weboldalán jelentõs mennyiségû online tréning érhetõ el az Office 2007-hez, valamint egy olyan szolgáltatás is, amely megmutatja, hogy az Office gyakran használt parancsai az új kezelõfelületen hol érhetõk el.
+
+Nem Photoshop: ez valóban az Office 2007
+
+A cég állítja, az új felületen sokkal hatékonyabban lehet dolgozni, az átlagos Office-felhasználónak kevesebbet kell majd egerésznie és 60 százalékkal kevesebbszer kell kattintania az Office 2007-ben mint a korábbi verziókban. Azok számára, akik mégis foggal-körömmel ragaszkodnak a régi, megszokott menürendszerhez, az Addintools elérhetõvé tette a Classic Menu for Office 2007 szoftverét, amelynek telepítése után az új irodai csomagban a régi menü köszön vissza. 30 dollárért az egész Office 2007-et vissza lehet küldeni az idõben, de az egyes komponensek (Access, Excel, Outlook, PowerPoint, Word) menüjét egyenként is át lehet alakítani, darabonként 16 dollárért. A program 15 napos próbaváltozata ingyen elérhetõ a cég honlapján.

@@ -1,0 +1,60 @@
+Egészpályás letámadás: IBM adattárolási újdonságok
+
+Az IBM összesen több mint 30 adattárolással kapcsolatos új terméket és szolgáltatást jelentett be a hét elején. Az új portfólió létrehozása 2500 mérnök, három évnyi fejlesztés és mintegy 2 milliárd dollárnyi befektetés eredménye -- hangzott el a vállalat franciaországi rendezvényén. 
+
+
+
+Miért pont az IBM?
+
+Az IBM neve és az adattárolás története lényegében összeforr, a Nagy Kék alkotta meg egyebek mellett az elsõ merevlemezt és az elsõ, kereskedelmileg sikeres relációs adatbáziskezelõt is. Az adatok elektronikus tárolása kezdetben csak a vállalatok kiváltsága volt, de ma már a helyzet megfordul, ahogy egyre több fogyasztói tartalom válik digitálissá. Az IBM elõrejelzése szerint 2010-re a személyekhez köthetõ információmennyiség 16 terabájtra rúg majd fejenként, ami az e-maileken, weboldalakon kívül tartalmazza például a digitális képeket, zenefájlokat, felvett videókat, vagy akár az orvosi leleteket is.
+
+Andy Monshaw, az IBM adattárolási termékekért felelõs részlegének vezetõje szerint a Nagy Kék az egyetlen vállalat a világon, ami az adattárolással kapcsolatos kihívásokra mindig a megfelelõ megoldást tudja nyújtani. Monshaw úgy vélekedett, az IBM abban különbözik a versenytársaitól, hogy teljes technológiai és szolgáltatási portfolióval rendelkezik. "Vannak cégek, akik az ügyfél problémáját még meg sem hallgatták, de már tudják a választ" -- mondta a HWSW-nek Monshaw. "Az EMC válasza a diszkes tárolórendszer, a CA viszont azt mondja: vegyél szoftvert. A mi  kínálatunkban szerverek, diszkes és szalagos tárolók, szoftverek és kapcsolódó szolgáltatások egyaránt szerepelnek. Mi minden problémára a legjobb megoldást nyújtjuk."
+
+
+ A mostani nagyszabású bejelentésnek vannak olyan elemei, amelyek egy ideje már piacon vannak, például az 1 terabájtos kapacitású TS1130 szalagos egység, amelynek érkezésérõl júliusban már hírt adtunk. Ehhez egyébként az IBM egy új szalagkönyvtárat is kifejlesztett, a TS3500 legfeljebb 192 meghajtóig és 18,6 petabájtos kapacitásig bõvíthetõ. Az újdonságok java azonban valóban új, felsorolni mindet lehetetlen lenne, lássuk a legfontosabbakat:
+
+Forradalom: XIV
+
+Januárban már beszámoltunk arról, hogy az IBM megvásárolta az izraeli XIV vállalatot, amely egy nagyvállalati adattárolási megoldást fejleszt és értékesít. A céget az a Moshi Yanai alapította, aki korábban az EMC Symmetrixek fejlesztését vezette. Az XIV megszületéséhez az a felismerés vezetett el, hogy a hagyományos felépítésû adattárolókkal az "adatrobbanást" lehetetlen lekövetni, azok viszonylagos drágasága, illetve a fogyasztás és a hõtermelés növekedése miatt. Ezért szükség volt egy olyan új megközelítésre, amely megfelelõen nagy kapacitást és teljesítményt nyújt elérhetõ áron.
+
+Az IBM által egyszerûen csak forradalmiként emlegetett XIV tárolók lényegében fürtözött x86-os szerverek megtömve SATA merevlemezekkel. Ezek azonban nem RAID-tömbökbe vannak szervezve: az adatokat a rendszer 1 megabájtos darabokra szeleteli, és ezeket egyenletesen szétteríti a diszkeken, ezáltal a lehetõ legnagyobb teljesítményt kihozva a lassúcska SATA meghajtókból. A biztonság érdekében minden adat két lemezen található meg egyszerre, amelyek nem lehetnek azonos csomóponton. Ez a snapshotok létrehozása szempontjából is kedvezõ, amelyek egy szabadalmaztatott eljárás segítségével lényegében pillanatok alatt elkészülhetnek a tárolt metaadatok segítségével. 
+
+
+Csak egy maradhat!
+
+Egy diszk kiesésekor az XIV 20-30 perc alatt képes a többi lemezrõl összegyûjteni az adatokat és újra felírni azokat a behelyezett új meghajtóra. Két lemez egyidejû kiesését azonban felépítésébõl adódóan az XIV már egyáltalán nem tolerálja, ha ebben a 20-30 percben egy második lemez is meghibásodik, az adatvesztés elkerülhetetlen, ráadásul ilyenkor az XIV-n tárolt összes adatának búcsút mondhat a felhasználó.
+
+
+
+
+Az XIV talán legnagyobb elõnye a hasonló kategóriás berendezésekkel szemben nevetségesen alacsony ár, hiszen a szoftvert leszámítva a tároló gyakorlatilag a boltban bárki által megvehetõ olcsó alkatrészekbõl épül fel. Az XIV tizenöt darab x86-os szerver négymagos Intel processzorokkal, 8 gigabájt memóriával és egyenként 12 darab 1 terabájtos meghajtóval, ami összesen 180 terabájtot jelent. A csomópontok közötti összeköttetés gigabites Ethernet kapcsolaton zajlik, a csomópontok közül hat egyben interfészként is funkcionál, mindegyikben 4 FC- és 1 iSCSI-port található. A szekrény aljában 3 szünetmentes tápegység található, amely 15 percig képes mûködtetni a gépet akkumulátorról.
+
+Az IBM most már a saját neve alatt kínálja az XIV tárolókat, helyesebben tárolót, ugyanis a palettán mindössze egy modell szerepel egyelõre. Az egyik tervezõmérnöktõl azonban a HWSW megtudta, hogy az architektúra lehetõséget nyújt a bõvítésre, akár 8 XIV is összekapcsolható egyetlen hatalmas, 1,4 petabájtos SATA-alapú tárolóvá. Az XIV egy pofonegyszerû grafikus felületen menedzselhetõ, túlzás nélkül állítható, hogy még egy általános iskolás is elboldogulna vele, annyira magától értetõdõ minden. Egy logikai kötet létrehozása, a méretének változtatása néhány kattintással elvégezhetõ, és természetesen a "thin provisioning" is támogatott.
+
+XIV rendszerek már közel 100 vállalatnál mûködnek világszerte, köztük Izrael második legnagyobb bankjánál, a 12 ezer dolgozót foglalkoztató, több mint 300 fiókkal rendelkezõ Leuminál. Itzik Reuven, az adattárolók vezetõ adminisztrátora a HWSW-nek elmondta, az XIV mellett a teljesítmény mellett a snapshotok gyors elkészítése és a könnyû kezelhetõség szólt, a bank ma már hét ilyen berendezést használ éles üzemben Oracle adatbázisok alatt, és a nyolcadikat is megrendelték már az IBM-tõl. 
+
+Adat-deduplikáció
+
+Az XIV-hez hasonlóan felvásárlás útján került az IBM-hez a Diligent Technologies, amely adat-deduplikációs megoldásokkal foglalkozik. A Diligent ProtecTIER TS7650G deduplikációs gateway és virtuális szalagkönyvtár megjelent a Nagy Kék kínálatában. A termék egy x86-os szerverre épülõ deduplikációs megoldás, másodpercenként 450 megabájtos áteresztõképességgel, amennyiben ez kevésnek bizonyulna, fürtözhetõ is.
+
+Új diszkes tároló: DS5000
+
+Fontos újdonság még az IBM kínálatában a DS5000 középkategóriás lemezes tároló, ami a korábbi DS4800-as sorozatot váltja. A mai elvárásoknak megfelelõen a DS5000 SATA vagy FC diszkekkel egyaránt megtömhetõ, egyelõre legfeljebb 256 merevlemez támogatott, a lehetõ legnagyobb teljestmény elérése érdekében a cache akár 16 gigabájt is lehet kontrollerenként, vagyis összesen 32 gigabájt. A tároló 16 darab 4 gigabites FC-porttal rendelkezik, de a jövõ év eleje felé már a 8 gigabites Fibre Channel szabványt is támogatni fogja a DS5000, ráadásul a host adapterek üzem közben cserélhetõk, így a fejlesztés nem igényel rendszerleállást. Az IBM azt állítja, a fejlesztéseknek köszönhetõen a DS5000 akár kétszer nagyobb teljesítményt nyújt az elõzõ generációs középkategóriás IBM tárolóknál.
+
+Frissült a csúcskategóriás DS8000 sorozat is, az új változatok már támogatják az IPv6-ot, a RAID 6 tömböket, illetve 450 gigabájtos FC diszkekkel is rendelhetõk. A DS5000 és a DS8000 hamarosan olyan változatban is kapható lesz, amely natív titkosítással írják a diszkekre az adatokat, minimalizálva a kockázatokat. Ehhez kapcsolódó hír, hogy az IBM kiadta a Tivoli Key Lifecycle Managert, amely gondoskodik a titkosítási kulcsok kezelésérõl, illetve a titkosításra képes eszközök kezelésérõl is. A TKLM automatikusan felismeri a hálózatba csatlakoztatott, titkosításra képes berendezéseket. 
+
+Még nem jött el a nagyvállalati flash kora
+
+Montpellier-i rendezvényén az IBM szót ejtett a flash meghajtók vállalati felhasználásáról is, megragadva az alkalmat arra, hogy teljesen dilettánsnak minõsítse a legnagyobb vetélytárs EMC megközelítését. Amint az ismert, az EMC a csúcskategóriás és középkategóriás tárolóiban is elérhetõvé tette a flash technológiát, látványos teljesítmény-növekedést ígérve például a tranzakciókezelésben. Az IBM szerint az EMC nem tett mást, mint a diszkeket memóriára cserélte, ami teljesen "hasznavehetetlen". A Nagy Kéknél úgy látják, még nem jött el a flash ideje a vállalati adattárolásban, az elõnyök kihasználásához átfogó megközelítésre van szükség, ami a tároló-architektúrák mellett érinti a szoftvereket is -- mondta Krishna Nathan, adattárolási termékek fejlesztéséért felelõs alelnök.
+
+Nathan szerint a flash technológiában rejlõ lehetõségek kiaknázása nem merülhet ki abban, hogy a merevlemezes meghajtókat memóriára cseréljük, ahogy az EMC tette. A pörgõ tányéroknál sokkalta gyorsabb flash meghajtókhoz új rendszerarchitektúra és új szoftverek is kellenek, amelyek flashre optimalizáltak. Nathan példaként említette, hogy a jelenlegi szoftverek fejlesztõi úgy dolgoznak, hogy az alkalmazás a lehetõ legkevesebbet swappeljen a merevlemezre, mert az lassú, flash memóriák esetében azonban ez a folyamat látványosan felgyorsul, ami más gondolkodást vár el a programozóktól is.
+
+Az IBM szeptember elején egy gigászi teljesítményû flash-alapú tárolót mutatott be, amely másodpercenként egymillió I/O mûveletre képes, bár egyelõre csak laboratóriumi körülmények között, a SAN Volume Controller által hivatalosan nem támogatott konfigurációban. Az IBM egyes blade szervereiben már ma is kínál SSD-ket, de a távlati tervekrõl Nathan nem árult el konkrétumokat, csak annyit, hogy a demózott konfigurációhoz hasonló rendszer még nagyjából egy évre van a kereskedelmi bevezetéstõl.
+
+NAS a Föld körül
+
+Az IBM a NAS eszközök terén is forradalmat ígér, amelynek elõfutára a most megjelent N6000 berendezés. A legfeljebb 840 terabájtig bõvíthetõ hálózati adattároló érdekessége, hogy kétmagos AMD Opteron processzorokra épül. Egy- és kétkontrolleres változatban egyaránt hozzáférhetõ, az elõzõek 4, utóbbiak 8 FC-porttal rendelkeznek. A támogatott kötetek száma 2048, méretük legfeljebb 16 terabájt lehet. Az N6000 az összes lényeges protokollt támogatja (FCP, iSCSI, CIFS, NFS, HTTP, FTP), FC és SATA diszkeket egyaránt kezel.
+
+A NAS-felhasználók komoly problémája, hogy nem tudnak egy névtérben kellõen nagy kapacitású eszközöket használni -- állítja az IBM. Erre a válasz a Scale-out File Services (SoFS), amely a HPC-világból már ismert General Parallel File System (GPFS) leszármazottja. A fürtözött fájlrendszerrel akár 512 milliárd állomány tárolására is képes, de egy névtérben mûködõ NAS-rendszerek hozhatók létre, akár világszerte több telephelyre elosztva, amely igény szerint lehet az IBM saját adatközpontja is akár.
+
+A SoFS lényegében nem más, mint egy adattároló "cloud", ami az IBM számára fontos fejlesztési irány. A "cloud computing", vagyis a teljesen virtualizált, akár földrajzilag is elosztott számítórendszerek felé mozdulás -- mint amilyenek a Google egyes szolgáltatásai -- egyértelmûen meghatározza a Nagy Kék jövõképét. A cloud computing ugyanakkor számos biztonsági kérdést vet fel. Craig Smelser, az adattárolási és biztonsági szoftverek fejlesztéséért felelõs vezetõ azonban magabiztosan azt mondta, nem az a kérdés, megoldják-e ezeket a problémákat, hanem hogy mikorra és hogyan. Ahogy az eddigiekbõl is láttuk, az IBM gõzerõvel dolgozik ezen.

@@ -1,0 +1,16 @@
+Mégsem az enyém a jogvédelemmel ellátott, megvásárolt zene?
+
+[VS] A Microsoft legújabb lépése komoly bizonyíték a jogkezelõ (DRM) rendszerekkel kapcsolatosan felmerült aggályokra, problémákra. A felhasználókhoz eljuttatott e-mail szerint a vállalat úgy döntött, hogy a nyár végén leállítja MSN Music zeneboltjának azonosítást végzõ szervereit, számos korábban ott zenét vásárló ügyfelet elfogadhatatlan helyzetbe hozva ezzel.
+
+
+
+ A zeneszámokat, állományokat a Microsoft jogkezelõ technológiája védi, arra azonban valószínûleg senki sem gondolt, hogy a megvásárolt dalokat rövid idõn belül a licencelést végzõ szerverek leállítása miatt nem fogja tudni meghallgatni. Az állományokat ugyanis idõnként, például másik számítógépre másolva, vagy operációs rendszer frissítés (XP-Vista) után újra kell licenceltetni -- erre ötször lenne lehetõség --, szerverek nélkül azonban ez nem lesz lehetséges.
+
+Az MSN Music zenebolt a Zune Marketplace megjelenésével zárta be virtuálisan kapuit, az azóta, azon keresztül vásárolt dalok már a Zune MarketPlace-hez tartoznak, így ezek ellenõrzésével, engedélyeztetésével nem lesz probléma a szerverek leállítását követõen sem. A korábbi vásárlók azonban pórul járhatnak: bár a kiadott licencek nem évülnek el, amennyiben újra kell engedélyeztetni valamelyik dalt, erre már nem lesz lehetõség, és a dalból digitális szemét lesz.
+
+
+
+
+A Microsoft lépése egyben erõsíti a DRM-technológiák körüli aggályokat. Az egyébként is korlátozott használhatósági kört -- a dalok csak a készülékek egy részén szólaltathatók meg -- nagyban szûkíti, hogy a lejátszhatóság egyben a kibocsátó infrastruktúrájától is függ. Az átlag felhasználó számára evidens lenne, hogy a vásárlással a számok a birtokába kerüljenek, ahogyan egy boltban vásárolt CD-n is tennék.
+
+Számos kiadó már felhagyott a digitális másolásvédelmi eljárások alkalmazásával, a szélmalomharccal, egyre több zeneboltból vásárolhatunk DRM nélküli, sokszor a széleskörûen használhatü MP3 formátumban letölthetõ zeneszámokat. Bár ezek többnyire többletköltséggel vásárolhatók meg, a szolgáltató szervereinek leállása, leállítása garantáltan nem hozza a fentihez hasonló kényelmetlen helyzetbe a vásárlót.

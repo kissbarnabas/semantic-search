@@ -1,0 +1,12 @@
+Java-támogatást kapott a Google App Engine
+
+A Google App Engine, a keresõóriás webalkalmazások fejlesztéséhez létrehozott megoldása már elsõ születésnapját ünnepli, s talán épp ennek alkalmából egy fejlesztõi fórumot tartott a cég a Mountain View-i központjában. Az eseményen több új App Engine funkció mutatkozott be, a legfontosabb mindegyik közül a Java programnyelv már régóta várt támogatása.
+
+
+
+A fejlesztõk szemében a Google App Engine még mindig egy kiforratlan, fiatal megoldás. Az egyik legnagyobb kritika amiatt érte eddig a rendszert, hogy csak a Python programnyelven írt alkalmazásokat támogat. A Java-támogatás bejelentése valójában nem is volt nagy meglepetés, sõt, mivel már jó ideje pletykáltak a fejlesztõk arról, hogy újabb nyelvek elõtt nyitja meg kapuit a Google. A Java-fejlesztõk életének megkönnyítése érdekében a Google egy plugint is elérhetõvé tett az Eclipse-hez.
+
+
+ A Google elsõként 10 ezer jelentkezõ számára teszi lehetõvé Java-alkalmazások futtatását az App Engine-ben. A támogatás beépítése az App Enginbe-be mondhatni szükségszerû volt, hiszen a két legnagyobb konkurens, a Twitter szülõházaként is ismert Amazon Web Services, illetve a még csak készülõ Windows Azure is sokkal több lehetõséget kínál -- utóbbit például   ASP.NET-ben, .NET-nyelveken, PHP-ben, Rubyban, Pythonban, Javában is lehet programozni.
+
+A Java-támogatáson túl egy másik fontos újdonsággal is jelentkezett az App Engine, mégpedig egy adatbázis-importáló eszközzel, ami lehetõvé teszi, hogy nagy mennyiségû adatot is könnyedén lehessen bevinni az App Engine rendszerébe. Az App Engine-be emellett bekerül egy "cron" szolgáltatás, amely lehetõvé teszi feladatok idõzített futtatását, valamint a Secure Data Connection segítségével egy vállalati tûzfal mögött tárolt privát adatok is feldolgozhatóvá válnak.

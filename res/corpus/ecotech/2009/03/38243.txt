@@ -1,0 +1,62 @@
+A notebookok története: a kezdetek
+
+Új sorozatunk a noteszgépek fejlõdésével foglalkozik, végigvezetjük az olvasót a kezdetek behemótjaitól indulva a négykilós szörnyeken keresztülvágva napjainkig. Történetünk elsõ része a legelsõ hordozható számítógépekkel foglalkozik, a késõbbiek pedig a fejlõdésen túl a különváló kategóriákat is ízlelgetik.
+
+
+
+Ma más idõk járnak, mint akkor, amikor az elsõ személyi számítógép, majd az elsõ hordozható számítógép bemutatkozott. A nagyvállalatok hatalmas géptermeibõl hazainduló dolgozók nem is álmodtak arról, hogy harminc év múlva egy tenyérben elférõ készülék nyújt akkora teljesítményt. Igaz akkoriban arra sem gondoltak sokan, hogy a lyukkártyát, vagy késõbb a mágnesszalagot kisebb, akkori léptékkel mérve észvesztõ kapacitású adathordozók váltják majd fel.
+
+A hordozható számítógépek létrehozását a mikroprocesszorok és az ezek által megvalósítható méretcsökkentés tette lehetõvé. Ebben a tekintetben is mérföldkõnek számít az 1971-es év, amikor az Intel bemutatta az elsõ mikroprocesszort, mely a 4004 modellszámot kapta. A 4004 a világon elsõként tartalmazta egy számítógép központi egységét egyetlen integrált áramkörben. A 4004 után négy évvel érkezett a 8080-as processzor, melynek több változatát is építették az elsõ laptopokba.
+
+Papírskicc
+
+Az elsõ hordozható számítógépek megalkotása idején a laptop szó olyan kisméretû számítógépet írt le, mely rendelkezik az összes, mûködéshez szükséges alkatrésszel, beleértve a processzort, a beviteli eszközt és a megjelenítõt is, mely alkotók közös burkolatban vannak. Az elsõ koncepció Alan Kay nevéhez fûzõdik, aki két évvel azelõtt, hogy a Xeroxhoz csatlakozott volna, 1968-ban papírra vetette a Dynabook vázlatát, mely azonban soha nem érte el még a prototípus-állapotot sem.
+
+
+
+A Dynabook kijelzõje a mai noteszgépektõl eltérõen nem volt kihajtható, a gépház aljára tervezett billentyûzet felett, annak síkjában terült el. A gépre Alan Kay ikonos grafikus kezelõfelületet képzelt el, célközönségének pedig kisiskolásokat választotta, úgy érezte, az oktatás terén lehetne a gépet használni. Alan Kay eltökéltségét jól bizonyítja, hogy késõbb aktívan vett részt az OLPC XO fejlesztésében is, ahol a Dynabook számos jellemvonását ültette át a fejlõdõ országok diákjainak szánt noteszgépbe.
+
+A hordozható varrógép
+
+Vehetjük úgy is, hogy a Dynabook megvalósulására több mint harminc évet kellett várni, ennél jóval sokkal hamarabb, 1981-ben érkezett az elsõ laptop, az Osborne 1, benne az Intel i8080 processzorán alapuló Zilog Z80 lapka 4 megahertzen üzemelt. A 11 kilogrammos Osborne 1 többi részegységének paraméterei ma már mosolyogtatók,  64 kilobájtnyi rendszermemória, két floppymeghajtó és 5 hüvelykes monokróm katódsugárcsöves monitor adta a gerincet. A hordozható gép monitorán maximum 52 karakter jelenhetett meg egy sorban, ennek szûkössége miatt egészen 128 karakternyi hosszig lehetett elõre- vagy hátragörgetni a képernyõtartalmat.
+
+
+
+
+Az Osborne 1 1981-ben nem volt olcsó, 1795 dollárért kínálta a tehetõsebb üzletemberek számára az adatok hordozhatóságát és a helytõl (korlátozottan) független hozzáférés lehetõségét. A varrógéptáska-méretû számítógép üzemi körülményeihez a hálózati konnektor feltétlenül hozzátartozott, akkumulátorral ugyanis nem rendelkezett.
+
+A gép operációs rendszere a CP/M volt, de az összeállítás az operációs rendszeren kívül CP/M segédprogramokat, SuperCalc táblázatkezelõt, WordStar szövegszerkesztõt, Microsoft MBASIC, valamint Digital Research CBASIC programozási környezetet tartalmazott. Az Osborne 1 eladásai túlszárnyalták a várakozásokat, a legjobb hónapban tízezer darab is elkelt belõle. A gépnek utóda is volt, az Executive OCC-2 nagyobb kijelzõvel és ventilátorral rendelkezett. Az Osborne 1-hez kiegészítõként egy 300 bit/másodperc sebességû modemet is lehetett vásárolni.
+
+Az Osborne 1 épp egy kicsivel volt nagyobb annál, hogy a repülõgép ülése alatt elférjen, ezért sem volt nehéz dolga a lényegesen nagyobb, 9 hüvelykes megjelenítõvel, valamint duplasûrûségû floppyval szerelt, Kaypro II-nek, hogy átvegye a helyét. Az alumíniumlemez-vázas Kaypro II 2,5 megahertzes Zilog Z80 processzorral számolt, 64 kilobájt memóriája volt, és 1595 dollárért lehetett megvásárolni.
+
+
+
+A Kaypro II talán túl korán is jött, az Osborne 1 és a közvetlen utóda nem tudta tartani a lépést vele, olyannyira nem, hogy az Osborne Computer Corporation 1983 évvégén csõdöt jelentett. A Kaypro II sokak számára volt hasznos társ, nem csak üzletemberek használták, Arthur C. Clarke a 2010. Második ûrodisszeia alkotása közben tartotta kapcsolatot a film rendezõjével, Peter Hyamsszel, mely során a Kaypro modeme Los Angelest kötötte össze az író Srí Lankai otthonával.
+
+LCD-panel és akkumulátor
+
+Az Osborne 1, valamint a Kaypro II hiányosságára az Epson adott választ, a HX-20 már rendelkezett beépített akkumulátorral, igaz ennek áldozatául esett a katódsugárcsöves megjelenítõ, helyét egy kevesebb információt egyidõben megjeleníteni képes, kisebb méretû LCD-kijelzõ vette át, mely 4 sorban összesen 80 karaktert tárt a felhasználó elé. A mai mobiltelefonoknál kisebb felbontású, természetesen monokróm LCD mellett egy aprócska nyomtató is került a gépházba, amely pénztárgépszalagra tudta rögzíteni a számítások eredményeit, de akár egyszerûbb grafikát is lehetett vele nyomtatni.
+
+
+
+A 795 dolláros HX-20 két (!) processzort tartalmazott, ezek közül egyik a számításokért, a másik pedig a perifériák kezeléséért felelt. Háttértárolóként egy extraként megvásárolható mikrokazettás egység állhatott szolgálatba, amely akkoriban villámgyorsnak számított, ráadásul nem kellett a felhasználónak bajlódnia a szalag csévélésével, a számítógép a keresett fájlhoz tudta tekerni a kazettát. A HX-20 saját, egyedi operációs rendszerrel rendelkezett amelyben BASIC interpreter is helyet kapott, ezeket a 32 kilobájtos ROM-ba égetve tárolta a gép.  A HX-20 1981 novemberében, az MS-DOS 1.0 megjelenése után három hónappal érte el a piacot. A konnektormentes üzem akár 50 órán keresztül is tarthatott, a NiCd-akkumulátor feltöltéséhez egy teljes, nyolcórás alvási periódus kellett.
+
+1982 januárjában, talán épp az Osborne 1 és a Kaypro II sikerein buzdulhatott fel Bill Gates és a szintén Microsoft kötelékébe tartozó Kazuhiko Nishi, akik olyan laptop megalkotásáról beszélgettek, mely az akkoriban újdonságnak számító LCD-kijelzõt tartalmazza. A gép iránti igény nyilvánvalóvá vált, ám a kisebb méretek miatt olyan kijelzõt kellett alkalmazni, mely az Osborne 1, illetve a Kaypro II nagy helyigényû monitorát olymódon helyettesítheti, hogy közben a felbontás tekintetében sem marad alul. Kazuhiko késõbb meg is mutatta a Radio Shacknak a prototípust, melyet késõbb gyártottak is.
+
+Az igazi õs
+
+1982-ben látott napvilágot a mai noteszgépek nagyapja, a GRiD Compass 1101, mely elõször jelent meg a mai noteszekre jellemzõ, kagylószerûen felnyitható kijelzõvel. A notesz megjelenítõje 6 hüvelykes volt, körülötte jókora káva szélesítette a felhajtható részt a billentyûzet által elfoglalt méretûre. A gép  320x200 pixel (CGA) felbontású elektrolumineszcens kijelzõje 80x24 karakter megjelenítésére volt képes.
+
+
+
+A GRiD 1101 egyedülálló volt, ilyen kicsi, ráadásul magnéziumból készült, tehát viszonylag könnyû gépház korábban nem adott ennyi extrát és erõt: a 8 megahertzes 8086 processzor és a 256 kilobájtnyi rendszermemória elismerésre méltó paraméter volt akkoriban. A hordozható gép saját operációs rendszerrel rendelkezett (GRiD-OS) és alig nyomott többet 5 kilogrammnál.
+
+
+
+A GRiD Compass 1101 mindezeket nem adta olcsón, több mint 8000 dollárba került, igaz a megrendelõk sem az átlagemberek közül kerültek ki. Nagy vásárlónak számítot az amerikai hadsereg, amely a gépet hadszíntereken is meglevegõztette, emellett a NASA is használta az ûrsiklók fedélzetén a 80-as és a 90-es évek küldetéseiben. Ha választanunk kellene a mai noteszgépek õsének egy hordozható számítógépet, a GRiD Compass 1101-et jelölnénk meg.
+
+Az elsõ "laptop" néven bevezetett számítógép 1983-ban érkezett a piacra. A Gavilan SC már a Microsoft MS-DOS operációs rendszerét futtatta, 5 megahertzes 8080-as processzor ketyegett benne és szokatlan, 400x64 pixel felbontású felhajtható LCD-kijelzõvel rendelkezett, amely alatt egy touchpad-szerû pozícionálóeszköz is helyet kapott. A géphez felárért az  MS-DOS operációs rendszeren futó irodai alkalmazásokat (Sorcim SuperCalc,  SuperWriter, PFS File, Report) kínált a gyártó. A 4 kilogrammos Gavilan SC minden egyes kilójáért ezer dollárt kellett fizetni, így jóval olcsóbb volt a GRiD-nél, mégse tudott igazán nagy sikerré válni, fõleg azért, mert a 80-as évek elején gyakrolatilag nem volt kereslet hordozható számítógépek iránt. A gyártó cég 1986-ban fizetésképtelenné vált, majd csõdbe ment és beszüntette a mûködést.
+
+
+
+Következõ részünkben már a maihoz hasonlatos külsõben érkezõ, már megfizethetõbb árú laptopokat vesszük górcsõ alá, abból az idõszakból, melyet hazánban asztalhoz és tévékhez kötötten a Sinclair ZX Spectrum 48k és a Commodore 64 uralt. Hamarosan folytatjuk...

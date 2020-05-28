@@ -1,0 +1,24 @@
+Wuala: online adattárolás p2p technológiával
+
+[HUP/HWSW] Az elmúlt évek egyik számítástechnikai megatrendje, hogy a felhasználók egyre több alkalmazást webes szolgáltatásként vesznek igénybe telepített szoftverek használata helyett, és a böngészõ válik a számítógép elsõdleges szoftverévé. Ezzel párhuzamosan folyamatosan növekszik az igény, hogy adatainkat bárhol, bármikor el tudjuk érni, számítógéptõl függetlenül is -- de hol is tároljuk azokat online? Erre ad egy választ a Wuala, mely fájlcserélõ technikával kínál megoldást.
+
+
+
+Online peer-to-peer adattárolás 
+
+A Wuala a svájci illetõségû Caleido fejlesztése, és közel négy évi fejlesztést követõen nemrég vált publikussá. A Wuala alapkoncepciója egyszerû, ugyanakkor nagyszerû: a résztvevõk számítógépei egy peer-to-peer fájlcserélõhöz hasonló gridbe, vagyis laza rácsba szervezõdnek, és így kínálnak együttesen hatalmas tárkapacitást. Ezúttal azonban nem a különféle tartalmak és szoftverek terjesztése, hanem magán (vagy akár üzleti célú) adatok tárolása a cél. 
+
+  A nyílt forrású kóddal dolgozó Caleido azonban továbbgondolta az elképzelést, és egy böngészõbõl indítható Java-felületet is készített a szolgáltatáshoz, így adatainkat rendkívül kényelmes módon, esztétikusan kezelhetjük. A Wuala lehetõvé teszi, hogy állományainkról akár URL-t is megadhatunk másoknak, így nemcsak adattárolásra, de megosztásra is alkalmas a rendszer.
+
+A böngészõbõl induló klienssel gyakorlatilag úgy kezelhetjük a fájlokat, mintha helyben lennének, a különbség a sebességben van: mappákat hozhatunk létre, a saját gépünkön megtalálható állományokat és könyvtárakat egyszerûen hozzáadhatjuk az online tároláshoz, akár drag&drop módon. A Windowst, Linuxot és MacOS X-et, Wuala ráadásul szorosan integrálódik a rendszerbe, helyi meghajtóként mountolja magát az online tárhely.
+
+A Wuala magas fokú biztonságot is ígér egyben, ugyanis 128 bites AES algoritmussal lokálisan, a feltöltés megtörténik a titkosítás, melyet késõbb is csak gépünk képes feloldani -- kritikus jelentõséggel bír, hogy a jelszót  megõrizzük, ugyanis ez az alapja a titkosításnak, és nem tudja pótolni a Caleido sem. Minden feltöltött adatunk alapértelmezett módon titkosított és védett, ugyanakkor megoszthatjuk azokat másokkal egy jelszó megkövetelése ellenében, de akár teljesen publikussá is tehetjük. Megosztáskor egy URL-t adunk meg másoknak, akik szintén a böngészõbõl induló Wuala kliens segítségével tekinthetik meg az állományt -- nagyobb méret esetén természetesen az internetkapcsolat sebessége határozza meg a gyorsaságot. A Wuala barátlistát és csoportokat is képes kezelni.
+
+Akár 1 terabájt online tár
+
+Kezdésként jelenleg minden regisztráló nettó 1 gigabájt tárhelyet kap ingyen a Wuala szerverein és az elosztott hálózatban, további kapacitásért két módon juthatunk. Amennyiben pénzzel fizetünk érte, akkor 10 gigabájtért például évente 15 eurót, 50 gigabájtért 60-at, míg 1 terabájtért 640 eurót kell évente leszurkolnunk. A másik mód, hogy saját háttértáraink kapacitásával (és közvetetten gépünk üzemelésével és energiaköltségével) fizetünk, mégpedig annyi tárhelyet kapunk, amennyit a rendszer rendelkezésére bocsátunk -- praktikusan online tárhelyre cserélünk el offline területet. Ez nemcsak a rugalmas elérés, hanem adatvédelmi okokból is elõnyös, ugyanis magasfokú redundanciát kapnak adataink, nem egyetlen merevlemezen függ sorsuk.
+
+Ez a cserebere azonban nem ilyen egyszerû, a Wuala mûködéséhez ugyanis gépünknek megfelelõ hozzáférhetõséggel kell rendelkeznie, így például NAT router mögül elsõre nem is felelt meg a HWSW irodai hozzáférése, ugyanis a router nem engedte be a kapcsolódási próbálkozásokat. A másik kritérium pedig nem technikai, hanem gyakorlati: gépünknek naponta átlagosan 4 órán át kell üzemelnie legalább ahhoz, hogy kvalifikálja magát, de e felett is az online töltött idõ arányában lehet csak az offline kapacitást online tárhelyre konvertálni -- napi átlagosan 12 óra rendelkezésre állásnál 50 százalékos a konverzió, azaz 10 gigabájt megosztásért 5 gigabájt online helyet kapunk.
+
+
+Adataink mindenkori hozzáférhetõségét (bármilyen számítógéprõl) a Wuala azáltal garantálja, hogy az adatok a kliensek gridjében és a Caleido szerverein egyaránt megtalálhatóak redundánsan, apró töredékekre felaprózva. Ezáltal a terhelés a lehetõ legegyenletesebb, így a Wuala szerverpark mérete drasztikusan leszorítható egy megfelelõen nagy grid megléte esetén, ugyanis kizárólag azokat a fájltöredékeket szolgálják ki, melyek éppen nem elérhetõek kliens számítógépeken. A Wuala kipróbálása két kattintással megkezdhetõ a szolgáltatás honlapján. 

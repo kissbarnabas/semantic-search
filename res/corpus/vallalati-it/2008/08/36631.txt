@@ -1,0 +1,20 @@
+Licenckezelési hiba miatt VMware-gépek tömege nem tudott elindulni tegnap
+
+Világszerte rendszergazdák százai, ezrei ébredhettek tegnap reggel arra, hogy a rájuk bízott virtuális gépek nem tudtak újraindulni. A VMware ESX 3.5 második frissítésében (Update 2) levõ licencellenõrzõ kód hibája miatt a szoftver lejártnak érzékelte az érvényes licenceket is, és nem indította el a virtuális gépeket, amelyeket ráadásul Vmotionnel sem lehetett másik szerverekre mozgatni.
+
+
+
+Már megjött a javítás
+
+A VMware felhasználói közösség gyorsan izolálta a hibát, amelyet aztán maga a cég is ellenõrzött. A vállalat szerint az Update 2 fejlesztésekor az elõzetes változatba egy idõkorlát került, amely végül szerencsétlen módon a végleges kódban is bennemaradt, ez okozta a leállást. A hiba az ESX 3.5 Update 2 mellett az ESXi 3.5 Update 2-t is érintette. A probléma súlyosságát tetézte, hogy mindez patch kedden történt, vagyis aznap, amikor a Microsoft kiadja szokásos hibajavításait, ilyenkor világszerte gépek millióit frissítik és indítják újra.
+
+
+ A Vmware azóta eltávolította az ESX 3.5 és ESXi 3.5 második frissítését a weboldaláról és azt tanácsolja a felhasználóknak, hogy akik még nem telepítették az Update 2-t, azok egyelõre ne is tegyék ezt meg. A cég mérnökei éjt nappallá téve dolgoznak a megoldáson -- áll a VMware közleményében. A patchet azóta már ki is adta a VMware, amely sajnálatát fejezte ki a történtek miatt. A javított Update 2-t nagyjából egy hét múlva tölthetik le az ügyfelek.
+
+Nem tudni, hány felhasználót érintett az eset, de az biztos hogy sokakat, a VMware vonatkozó fórumát több tízezren látták, a vállalat telefonos támogatási szolgáltatását elárasztották a hívások és a kapcsolódó tudásbázis-cikket a szerver túlterheltsége miatt sokáig nem lehetett elérni.
+
+"Nagyobb a füstje mint a lángja"
+
+Lapunk megkeresésére Sárándi Attila, a magyar VMware User Group vezetõje elmondta, itthon valószínûleg csak kevés helyen jelentkezhetett ez a probléma, mert az ESX 3.5 és ESXi 3.5 Update 2 nagyon új, mindössze pár hete jelent meg, és valószínûleg még csak kevesen telepítették. Sárándi szerint egyébként a problémának "nagyobb volt a füstje mint a lángja", mert a probléma a futó virtuális gépeket nem érintette, hamar megjött rá a javítás, ráadásul csak egyetlen release volt hibás. Az egyik legnagyobb hazai VMware-felhasználót, a MOL-t sem érintette a hiba.
+
+"Ez is megerõsített abban az általános szakmai igazságban, hogy bármennyire is csábító egy-egy szoftverváltozat új funkcióit felsoroló lista, várjunk vele addig, míg néhány hétig nem használta azt valaki más, addig pedig inkább olvasgassuk a közösségi oldalakat és a levelezõlistákat" -- mondta a HWSW-nek Sárándi.

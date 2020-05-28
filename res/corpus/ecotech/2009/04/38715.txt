@@ -1,0 +1,19 @@
+A recesszió és a jövõje körüli bizonytalanság fékezte a Sunt
+
+Nem megy a szekér
+
+A március 29-én zárult idei harmadik pénzügyi negyedévben a Sun Microsystems forgalma mindössze 2,61 milliárd dollár volt, ez 20 százalékos visszaesés éves összehasonlításban. A nettó veszteség 34 millió dollárról 201 millióra dagadt egy év alatt. Elemzõk szerint az IBM-mel folytatott akvizíciós tárgyalások kipattanása is okolható a vállalat gyászos teljesítményéért, sok vevõt alighanem elriasztott a bizonytalanság a Sun körül, ezért a negyedév végén a megrendelések egy része elmaradt. Az IBM és a Sun közötti egyeztetésrõl március 18-én számolt be elõször a Wall Street Journal.
+
+A vállalat tájékoztatása szerint a felsõ kategóriás SPARC-rendszerek eladásai 28 százalékkal, az x86-os szervereké 22 százalékkal esett vissza, egyedül az UltraSPARC T-családra épülõ kiszolgálók forgalma növekedett, de  csupán 3 százalékkal. A Sun a negyedév során 26 százalékkal kevesebb szervert adott el mint egy évvel korábban, még az elmúlt években dinamikusan növekedõ x86-os kategória is visszaesett 14 százalékkal, ahogy a recesszió megfogta ezek piacán. A HWSW becslései szerint a Sun a negyedév során 60 ezer szervert értékesített, ezek közel fele, 28 ezer darab volt AMD- vagy Intel-alapú.
+
+A tárolórendszerek közül a mindenki tömeghardverre és nyílt szoftverekre épülõ "open storage" vonal érte el a legnagyobb növekedést, 36 százalékost, emellett a szalagos egységek eladásai nõttek 3 százalékkal, minden más termékvonalon csökkenéssel kellett szembenézzen a Sun. Kitûnõen teljesített ugyanakkor a szoftverüzletág, a Java-ból származó forgalom 27 százalékkal nõtt, az infrastruktúra-szoftverekbõl és a MySQL eladásából származó bevétel pedig több mint duplájára emelkedett, de a szoftvereladások így is kevesebb mint az ötödét adták a szervereknek. A Solaris, menedzsment-eszközök és virtualizációs megoldások forgalma több mint harmadával esett egy év alatt.
+
+A jövõ neve Oracle
+
+A Sun jövõjével kapcsolatos találgatásokra április közepén tett pontot az Oracle, amikor bejelentette, 7,4 milliárd dollárért megvásárolja az egykor szárnyaló, azonban a dotkom-lufi kipukkanása óta folyamatosan útját keresõ kaliforniai céget. Az Oracle a Sun felvásárlásával az egyetlen olyan vállalattá válik az informatikai iparban, amely a teljes vertikumot lefedi az üzleti alkalmazásoktól és fejlesztõi eszközöktõl kezdve a köztesszoftveren és operációs rendszeren át a szerverekig, tárolókig.
+
+
+
+ Az Oracle számára egyértelmûen a Sun szoftverei képviselik a legnagyobb értéket, elsõsorban a Java és a Solaris. Az Oracle számos szoftvere, beleértve a Fusion Middleware-t, Javán alapul. A másik kulcsfontosságú Sun-technológia az Oracle számára a Solaris operációs rendszer. A két cég közös közleménye szerint a Solaris az legnépszerûbb platformja az Oracle adatbázisának és a jövõben számos fejlesztés várható, amelyek azt célozzák, hogy az Oracle adatbázisa a lehetõ legjobban fusson Solarison.
+
+Az Oracle hangsúlyozza, hogy kiterjedt szoftverkínálatához passzolnak a Sun szerverei és tárolói és a jövõben, az egybeolvadás után is koncentrálni kíván erre a területre -- erre már csak a Sun óriási felhasználói bázisa miatt is szükség van. Az Oracle feltett szándéka, hogy szoftvereihez optimalizált hardvereket, integrált megoldásokat jelentessen meg.

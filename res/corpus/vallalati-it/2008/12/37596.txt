@@ -1,0 +1,42 @@
+Türelem, a Sun Microsystemsnek van stratégiája
+
+Bár termékei a szakemberek körében hagyományosan általános népszerûségnek és elismerésnek örvendenek, a Sun Microsystems a dotkom-lufi kipukkadását követõ sokkot hosszú évek alatt sem heverte ki. A vállalat pénzügyi teljesítménye legalábbis kiábrándító, a cég képtelen növekedést vagy egészséges nyereségességet felmutatni, legutóbbi negyedévében pedig olvadó árbevételrõl és súlyos értékvesztési leírásról volt kénytelen számot adni. 
+
+A hányatott sorsú hajót kormányzó Jonathan Schwartz így szokás szerint kellemetlen kérdésekre számíthatott a kaliforniai Menlo Parkban, ahol a cég a közép- és kelet-európai média képviselõit látta vendégül hatalmas campusán. Schwartz azonban nem csak hûvös nyugalommal állta a szkeptikus és néha támadó kérdéseket, hanem váratlanul kikezdhetetlen magabiztosságával képes volt meggyõzni a közönséget arról: a Sunnak mûködõképes stratégiája van.
+
+
+
+Az elmúlt években a legnagyobb változást kétségtelenül a nyílt forráskód felé fordulás jelentette a Sunnál, a cég extravagáns módon még a Niagara kódnéven ismert UltraSPARC T1 processzorának RTL-kódját is megnyitotta a közönség elõtt. Schwartz és a cég többi vezetõje által adott prezentációk azonban rövid idõ alatt teljesen világossá tették, hogy ez sem a Linux irányába történõ stratégiai elmozdulást, sem pedig dogmatikus hozzáállást nem takar, ellenkezõleg, a Sun saját fejlesztéseit akarja sikerre vinni, és ennek eszköze a forráskódok szabaddá tétele.
+
+A nyílt forráskód a legjobb a marketing
+
+De hogyan lesz ebbõl pénz? -- merül fel kézenfekvõ módon a legelemibb kérdés, és a válasz nem mindenki számára nyilvánvaló, néha még a Sun saját alkalmazottai elõtt sem. A szabadon hozzáférhetõ szoftver elsõsorban egy marketingeszköz, méghozzá brutálisan hatékony. Schwartz egy olyan Google Maps mash-up térképet mutatott, amelyen a ZFS (Zetabyte File System) kódját letöltõk helyezkedtek el, mégpedig a regisztrációkor megadott adatok alapján, utca és házszám pontossággal -- ezrével. Ehhez a vizualizált adatbázishoz pedig hozzáférnek az értékesítési csapatok, és célzottan tudják felvenni a kapcsolatot a letöltõkkel, hogy kifejezetten tárolómegoldásokat kínáljanak, például az új Open Storage vonalat.
+
+"Van egy csapat ZFS-felhasználó a Falkland-szigeteken, és biztosíthatok mindenkit, hogy nincs értékesítési képviseletünk ott" -- érzékeltette Schwartz a koncepció erejét. "A nyílt forráskódú szoftver jobban tükrözi azt, amerre a világ tart. [&#8230;] A stratégiánk az, hogy gerjesszük az adatközpontba szánt termékek  elterjedését, majd kereskedelmi szolgáltatásokat és termékeket adjunk hozzájuk". És a Sunnak szüksége is van stimulálószerre, a tárolópiacon ugyanis mindössze a hetedik helyen található jelenleg és a szerverpiaci befolyása is csökken. Ez azonban nem akadályozta meg Schwartzot abban, hogy riválisaiért aggódjon. "Az igazi kérdés az, hogy a zárt szállítók hogyan fognak versenyezni".
+
+ A nyílt forráskód erejének egy másik példájaként természetesen a MySQL-t hozta az elnök-vezérigazgató. Az 1 milliárd dollárért megvásárolt adatbázis-kezelõ 11 millió felhasználóval rendelkezik, akik közül mindössze néhány ezerrel áll a Sun üzleti kapcsolatban egyelõre, a potenciál tehát hatalmas. "A MySQL-ügyfelek egy teljesen új hullámát látjuk a Sunhoz jönni" -- fogalmazott Schwartz. Az akvizíciót követõen az általános érdeklõdés is megugrott a szoftver iránt, Zack Urlocker, a fejlesztésekért felelõs vezetõ elmondása alapján 50 ezerrõl napi 70 ezerre emelkedett a letöltések száma, amit valószínûleg leginkább az magyaráz, hogy a Sun neve alatt többen elfogadják a feltörekvõ szoftvert. 
+
+Schwartz szerint a nyílt forráskód relevanciája szempontjából alapvetõen kétfelé felhasználási típus létezik: vannak azok, akik kevés pénzzel, de sok idõvel rendelkeznek, és kevesebben a többiek, akiknek sok pénzük, de kevés idejük van -- utóbbiak nyilvánvalóan jellemzõen a közepes- és óriásszervezetek. A piaci léptékû szakértelmet a kísérletezõ, kézimunkát végzõ iparosok halmozzák fel, de idõvel ez átkerül a piac "inkább fizetõs" oldalára -- a szakemberek ismerik, használják, értik, és akár kedvelik is a terméket. A szabadon hozzáférhetõ nyílt forráskóddal tehát, már amennyiben tartós érdeklõdésre tart számot, kialakul egy talaj, mely a késõbbi üzletkötéseket táplálja. "Magokat vetünk el a nyílt forráskóddal. [&#8230;] Ha csak a piac felsõ részére fókuszálsz, nem tudod [új vevõkkel] felfrissíteni az üzletedet", ami Schwartz szerint például az IBM Power és a HP Itanium szerverüzletének stratégiai gyengesége. 
+
+A nyílt forráskód természetesen nem csak marketingeszköz lehet, hanem  a szoftverfejlesztés egy igen hatékony módja is. A kód megnyitásával a Sun hatalmas tesztelõi bázisra tesz szert, pontosabb képet kap az igényekrõl, egyúttal fejlesztõi erõforrásokhoz is jut kap az önkéntes programozók vagy akár cégek részérõl. Az OpenSolaris például, melynek napokon belül érkezik a legfrissebb, 2008.11-es kiadása, a legújabb funkciók, technológiák tesztterepeként is szolgál, és a Linuxhoz hasonlóan elsõsorban a tömegigényeket igyekszik kiszolgálni, míg a Solaris kiforrott kóddal továbbra is a legmagasabb követelményeket támasztó üzletileg kritikus környezetet célozza -- a tesztelési ciklusok itt természetszerûleg jóval hosszabbak. 
+
+Eredmények kellenek, nem ígéretek
+
+A nyílt forráskód stratégiai alkalmazása közel sem újkeletû a Sunnál, magától adódik a kérdés, hogy akkor hol maradnak az eredmények. Schwartz válasza erre prózai: nem lehet egy ekkora méretû vállalatot az egyik napról a másikra megváltoztatni. A pénzügyi mutatók elfedik a mélyen meghúzódó folyamatokat, a növekedést produkáló termékek hatását kioltja a hagyományos kínálat olvadása. Schwartz szerint a Sun eladásainak harmada mögött már valamilyen formában a nyílt forráskód áll, mint például az X4500 (Thumper) tárolószerver mögött is, mely jelenleg már egy évi 250 millió dollárt generáló termék.
+
+
+
+Az elmúlt negyedévben a nagyvállalati SPARC-rendszerek forgalmának 27 százalékos csökkenése kioltotta a Niagara-alapú gépek lendületes növekedésének hatását, de Schwartz szerint ez nem lehet a termékek vagy az értékesítési csapatok hibája, hiszen most a legversenyképesebb a felhozatal. "[Valójában] sok korábbi ügyfél visszanyerését látom". A Niagara-alapú SPARC Enterprise T-sorozatú szervercsalád eladásainak nagyjából kétharmada nem korábbi SPARC-kiszolgálókat cserél le, hanem új infrastruktúraként telepítik. "Beleeszünk az x86-os piacba" -- jelentette ki meggyõzõdéssel a Sun vezetõje. 
+
+[+]  A Sun válasza a válságra: átszervezés, leépítés 
+
+"Mi vagyunk az elsõk, akik a recesszióba belekerülnek az ügyfélbázisunk miatt" -- mondta Schwartz, arra utalva, hogy a Sun SPARC-vevõinek egy nagy részét azok az amerikai és európai pénzintézetek teszik ki, melyek a válság epicentrumában állnak. Egy évvel korábban még 20 százalékkal növekedtek a nagyvállalati SPARC-eladások, mutatott rá, most pedig minden igyekezetük ellenére meredeken csökkennek. "A probléma az, hogy azok az ügyfelek, amelyek nagyméretû rendszereket vásárolják, csökkentették a beszerzéseket".
+
+
+Valóban, a Gartner adatai alapján a RISC/EPIC UNIX-szerverekbõl 20 százalékkal kevesebb fogyott a harmadik negyedévben mint egy évvel korábban, és a francia Grouppe Bullt kivéve minden vezetõ gyártónak csökkent az ezekbõl származó árbevétele, a kialakult helyzet azonban a Sunt érintette a legsúlyosabban. "A HP-nak ott vannak a printerei és a PC-k, az IBM-nek a szolgáltatások, nekünk nincsenek meg ezek a pufferek".
+
+Nem tudni, mennyit kell még várni
+
+Ez persze részben a felelõsség hárítása is, ugyanakkor nem lehet  személyesen kérdõre vonni egy olyasvalakit, aki két és fél évvel ezelõtt vette át a cég vezetését. "Nagyon keményen dolgoztunk a diverzifikáción", fogadkozott a vezér, aki szerint a McNealy-korszakhoz képest a legnagyobb változást az iparági partnerekkel való kapcsolatok jelentik, történetesen az, hogy a Sun végre együttmûködik az olyan, korábban õsellenségnek kikiáltott vállalatokkal, mint a Microsoft vagy az Intel. Ezek az erõfeszítések eredményre vezettek, véli Schwartz. "Nem hiszem, hogy bárki másnak olyan kiterjedt kínálata volna, mint nekünk".
+
+Egyetlen, különösen kritikus kérdésre azonban nem tudott, vagy nem akart felelni a sudár termetû és copfos vezér: "mikor?". Mikor lesznek pénzügyi eredmények? "Tudjuk, merre halad a piac, ez világos. [&#8230;] Nem ez a kérdés, hanem a mikor [&#8230;] Ez a piactól függ" -- tette szét a kezét Schwartz. Ez a legtöbb, amit ki lehetett csikarni belõle.

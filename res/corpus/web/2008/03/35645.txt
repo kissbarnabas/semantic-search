@@ -1,0 +1,22 @@
+A Symantec szerint fertõzöttek lehetnek egyes D-Link routerek
+
+[Techworld, Computerworld] A Symantec megkongatta a vészharangot: a cég kutatói jelenleg is bizonyítékot gyûjtenek arra, hogy a D-Link egyes routereit módosítják, esetleg férgekkel, botokkal fertõzik meg internetes támadások során. A szakemberek évek óta figyelmeztetnek az egyre népszerûbb otthoni routerekkel kapcsolatos biztonsági kockázatokra, valós támadást viszont eddig még nem igazán regisztráltak.
+
+
+
+Nyitott router
+
+A Symantec saját DeepSight szolgáltatásán keresztül figyelmeztette ügyfeleit, elsõként konkrét, megbízható riportokra hivatkozva, késõbb azonban visszakozott, és várakozó álláspontra helyezkedett. A Symantec szerint minden jel arra mutat, hogy bizonyos D-Link routereket botokkal fertõztek meg.
+
+A vállalat routerei felett valószínûleg a 2005-ben felfedezett SNMP-sérülékenységen keresztül szerzik meg a hatalmat, mellyel alapállapotra hozható a router adminisztrációs jelszava, így hozzáférést nyújt a támadók számára is. A legegyszerûbb támadási módszer, hogy a router beállításait ezt követõen úgy módosítják, hogy a támadók DNS-szerverét használja az útválasztó. Az ehhez kapcsolódó számítógépek ezután nem a valódi weboldalakra, hanem trójaiakkal fertõzött, vagy adatlopásra felkészített oldalakra irányítódnak át.
+
+Módosított DNS
+
+
+A névkiszolgáló szerverek, az úgynevezett DNS szerverek arra szolgálnak, hogy az általunk beírt címeket -- például www.hwsw.hu -- IP-címekre fordítsák le. Amennyiben a szolgáltatónké helyett egy rosszindulatú kézben lévõ DNS szerver oldja fel ezeket a címeket, az adathalászok dolga pofonegyszerûvé válik, hiszen a helyesen beírt címek -- például a bankunk címe -- egy olyan szerverre mutathat, mely az adathalászok kezében van.
+
+A turpisságból ráadásul semmit sem veszünk észre, hiszen ezek az oldalak gyakorlatilag pontos másai a megtámadott oldalnak, a cím is pontosan ugyanaz, amit általában beírunk -- éppen csak a "génkezelt" routerünk juttatott az adathalászok kezeibe minket. A "génkezelt" DNS szerver az egyéb címeket ráadásul ugyanúgy feloldhatja, mint a szolgáltatónké, ezzel is elrejtve valódi célját. Ez a módszer ráadásul alapvetõen kijátssza az elterjedtebb, böngészõkbe épített phishing-szûrõket is, amelyek elsõsorban a karakteresen megadott címekre szûrnek.
+
+Ellenõrizzük
+
+A Symantec szerint a routereket érõ támadások egyre gyakoribbak, a támadók nem csak számítógépeinket, hanem más eszközeinket is megpróbálják uralmuk alá hajtani. A szakemberek ugyanakkor nem lepõdtek meg ezen, hiszen ma már minden információ rendelkezésre áll, hogy ilyen támadásokat automatizált módon hajtsanak végre. A Symantecnek egyelõre nincsenek információi arról, hogy mely routerek védettek a 23-as portra érkezõ támadások ellen, s melyeket javítottak ki, így az elsõ, amit ellenõriznünk kell router-tulajdonosként, hogy a 23-as port nyitva van-e az internet felõl.

@@ -1,0 +1,22 @@
+UNIX-szintû támogatást vezet be a Red Hat
+
+Jelentõs változás történt a Red Hat kereskedelmi Linux-disztribúciójának támogatottságában, a vállalat az eddigi hatról 18 hónapra kiterjesztette ki a Red Hat Enterprise Linux (RHEL) alverziók támogatását, ami a gyakorlatban leginkább az alkalmazások újraminõsítésével kapcsolatos költségeket csökkentheti, egyúttal jelzésértékû a konzervatív UNIX-tábor felé is, mondta el Szentiványi Gábor, a Red Hat hazai disztribúcióját ellátó ULX Kft. ügyvezetõje.
+
+
+
+UNIX kaliberû támogatás
+
+Az eddigi gyakorlatban a RHEL-felhasználóknak kötelezõen telepíteniük kellett a félévente megjelenõ legújabb verziókat, az úgynevezett minor release-eket ahhoz, hogy probléma esetén támogatást kaphassanak a vállalattól vagy megbízhatóan telepíthessék a biztonsági- és hibajavításokat, mivel azok hathónapos támogatási ciklussal rendelkeztek csak. Ennek értelmében hiába volt valaki tökéletesen megelégedve a RHEL 5.0-val, és csak az 5.2 kedvéért frissített volna, nem tudta megkerülni az 5.1-et, ha nyugodtan akart aludni. 
+
+A mostani változás után azonban többé nem él ez a szigorú kényszer, a soronkövetkezõ kiadásokat a közelgõ 5.3-tól kezdõdõen ugyanis megjelenésüktõl kezdve 18 hónapig támogatja a Red Hat. Az úgynevezett Extended Update Support (EUS) elsõsorban a RHEL-t kritikus környezetben futtató nagy ügyfeleknek szól, melyek számára igencsak költséges a kiszolgálókon futó szoftverek újraminõsíttetése a beszállítókkal, valamint a frissítés jelentette leállások és tesztelések kezelése is probléma lehet a szolgáltatási szintek teljesítése mellett -- magyarázta Szentiványi. A támogatási költségek kezelése végett a Red Hat csak legalább 100 RHEL-licenccel rendelkezõ ügyfelek számára kínálja ezt az opciót.
+
+Az EUS megjelenése továbbá üzenet is az RHEL érettségével kapcsolatban, elsõsorban az UNIX-felhasználók felé, melyek a lehetõ legnagyobb stabilitást, kiszámíthatóságot követelik meg, és a mainframe-eseket követõen a legkonzervatívabbak az iparban. A hathavonta történõ kötelezõ verziófrissítéstõl "megijedhetnek azok, akik nem ismerik" éles környezetben az RHEL-rendszereket. Számukra az EUS sokkal inkább elfogadható, egyfajta "gondolati illeszkedésrõl" van szó, a rendszerkép akár másfél éven át teljesen stabilan tartható -- véli Szentiványi. Az informatikusi háttérrel rendelkezõ ügyvezetõ hozzátette, hogy miközben ez egy bizalmi kérdés, Magyarországon "eddig soha nem fordult elõ még, hogy egy minor frissítés alkalmazást borított volna meg", legalábbis ami az ULX által értékesített RHEL rendszereket illeti.
+
+
+A fõverziókat 7 éven át támogatja a Red Hat. Az elsõ 4,5 éven át folyamatos az új hardverek követése és az operációs rendszer funkcionalitásának -- éldául a kernel vagy hálózati réteg skálázódása, vagy a virtualizációs képességek, teljesítmény -- fejlesztése. A fennmaradó 2,5 évben a vállalat természetesen továbbra is folyamatosan biztosítja a hibajavításokat és biztonsági foltozásokat. 
+
+UNIX-rendszerek kiváltására
+
+Az RHEL installációk száma itthon "több ezres", közölte Szentiványi, és fõként a magasabb követelményû területeken üzemelnek, mint például az adatbázisok futtatása, melyek hagyományos a UNIX erõsségének számítottak, és ahol az informatikai üzemeltetésért felelõsök és a cégvezetõk megkövetelik a beszállítói garanciát -- itt már nem elegendõek a közösségi disztribúciók, a magas rendelkezésre állást biztosító klaszterizációs, hibatûrõ és terheléselosztásos technikák bevetése pedig sokszor a beszállító csapatának kompetenciáját is megkövetelik.
+
+Az áttérés UNIX-ról Linuxra viszonylag kevéssé fájdalommentes a rendszerek hasonló felépítése, az alkalmazások multiplatform elérhetõsége és a közös filozófia miatt, miközben hatalmas megtakarításokat lehet elérni, mondta el Szentiványi. A meglévõ Windows-rendszerek kiváltása sokkal nehezebb az ügyvezetõ szerint, hiszen többnyire Microsoft-alkalmazások futnak rajtuk, mint a SharePoint vagy Exchange, és ezek leváltása sokszor nem csak az adatközpontban, hanem a felhasználók desktopján is változást jelent -- a költségcsökkenés pedig kevésbé látványos. A gazdasági prés azonban itt is látványos elõrelépést eredményezett még az olyan területeken is, ahol a Linux viszonylag gyenge pozíciókkal bír, mint például a munkacsoport-szerverek.

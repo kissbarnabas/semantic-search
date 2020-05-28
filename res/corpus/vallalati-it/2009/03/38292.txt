@@ -1,0 +1,12 @@
+Fél terabájtos az A-DATA új, külsõ és belsõ meghajtóként is használható SSD-je
+
+Az A-DATA 512 gigabájtos SSD-t mutatott be, mely a gyártó szerint az eddigi legnagyobb kapacitású szilárdtest-meghajtó -- valójában a januári CES-en a PureSilicon már egy 1 terabájtos modellt is demózott, ez kerül az ASUS úk Lamborghini noteszébe is. A PureSilicon SSD-je azonban csak õsszel kerül a boltokba, addig az A-DATA lehet a kapacitáskirály, legalábbis holtversenyben a Toshibával, amelynek szintén van 512 gigabájtos SSD-je.
+
+
+
+Az A-DATA XPG-sorozatú SSD-k SATA II csatolófelületen közvetíti az adatokat a számítógép vezérlõje felé, 160 MB/s írási és 230 MB/s olvasási sebességgel. A tároló érdekessége, hogy a SATA II csatolófelület mellett USB 2.0 interfészt is kínál, így egy egyszerû mini-USB kábel segítségével külsõ meghajtóként bármikor üzembe állítható -- írja a SlashGear. Az SSD elegáns és strapabíró, szálcsiszolt alumíniumházban kerül az üzletekbe.
+
+
+
+
+ Az XPG-sorozatú meghajtók egyébként minden olyan számítógépbe, illetve noteszgépbe, netbookba beépíthetõk, melyek 2,5 hüvelykes, SATA II merevlemezeket fogadnak. Az A-DATA a CeBIT-en is kiállította az XPG-sorozat 512 gigabájtos legnagyobbikát, várható fogyasztói áráról, illetve a szállítások megkezdésének idõpontjáról azonban mélyen hallgat.

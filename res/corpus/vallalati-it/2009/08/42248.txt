@@ -1,0 +1,9 @@
+Rekordkapacitású szalagot jelentett be az Imation
+
+Az Ultrium LTO-5 formátumú szalagos kazetta natívan 1,6 terabájtot képes tárolni, míg tömörítéssel 3,2 terabájtig fokozható a hasznos kapacitása, miközben visszaolvasási sebessége elérheti a másodpercenkénti 360 megabájtot is, natívan a 180 MB/s átvitelt - ezeken a sebességeken is legalább két és fél órát vesz igénybe az adatok kinyerése. Az Imation állítja, a cég az egyetlen a világon, mely ilyen kapacitású Ultrium LTO-5 mágnesszalagos médiát gyárt - az elõzõ generáció 800 gigabájtos.
+
+A HP és az IBM által is minõsített kazettákat a várakozások szerint 2010 elején dobja piacra az Imation. A duplázott kapacitást a már sztenderddé vált fémrészecskés szalagos technológiával érték el, és fejlesztettek a szervó mûködésén és a tömörítési algoritmuson is, hogy adott hosszúságú szalag több adatot legyen képes eltárolni. Az Imation által kifejlesztett úgynvezett TeraAngstrom technológia pedig a jel-zaj arányon igyekszik javítani, lecsökkentve a hibarátát, és lehetõséget adva a gyorsabb átviteli sebességekre.	     
+                  
+                  
+                  
+                   

@@ -1,0 +1,13 @@
+Csak a negyedik negyedévben jön a Virtual Machine Manager 2008
+
+Csak a negyedik negyedévben érkezik a Microsoft Virtual Machine Manager 2008, amellyel már a Hyper-V virtualizációs köztesrégeten futó gépek is felügyelhetõk. Áprilisban a Microsoft azt ígérte, a VMM 2008 legfeljebb két hónappal a végleges Hyper-V után érkezik, ez alapján augusztus végére meg kellett volna jelennie, miután a Hyper-V a tervezettnél korábban, június végén elérhetõvé vált.
+
+
+
+Újdonság, hogy a VMM 2008 önállóan elérhetõ termékként is megjelenik. A 2007-es változat csak a System Center Server Management Suite Enterprise (SMSE) részeként látott napvilágot, amely a VMM mellett a System Center Operations Managert, a Configuration Managert és a Data Protection Managert is tartalmazta. Ezek a termékek mindannyian elérhetõk voltak önállóan is, a 2008-as kiadásban azonban már a VMM is kapható lesz külön. A szoftver egyébként bétaverzióban már elérhetõ, de a licenc nem engedi meg a használatot termelési környezetben. A VMM-el nem csak Hyper-V, hanem VMware ESX Server és Virtual Server környezetek is felügyelhetõk.
+
+[+] Megjelent a Microsoft hypervisora 
+
+A Microsoft által közzétett elõzetes információk szerint a Virtal Machine Manager 2008 10-15 százalékkal kerül majd kevesebbe az SMSE-nél, utóbbit tehát jobban megéri megvenni, mivel virtuális gépek mellett fizikai szerverek menedzselésére is használható. Ugyanakkor a Microsoft meg fogja emelni az SMSE árát is -- írja a System Center blogban Diane Prescott termékmenedzser. 10-15 százalékos áremelés várható, ami lényegében azt jelenti, hogy a VMM 2008-ért annyit kell majd fizetni, mint tavaly az egész System Center Server Management Suite Enterprise-ért. Az SMSE listaára jelenleg 1290 dollár.
+
+Amint arról lapunk is beszámolt, a Microsoft június végén adta ki a Hyper-V végleges változatát, virtualáziós képességgel ruházva fel a Windows Server 2008-at. A Hyper-V elõnye a VMware hasonló kategóriás termékeivel szemben, hogy a Windows Server 2008-ra ingyen elérhetõ, miközben a VMware ESX egy kétprocesszoros szerverre legalább 1500 dollárba kerül. Bár funkcionalitását tekintve egyelõre hátrányban van a Microsoft hypervisora, és a VMware köré épült szoftverinfrastruktúra is sokoldalúbb még, Redmond gyorsan dolgozza le a hátrányát.

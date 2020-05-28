@@ -1,0 +1,11 @@
+Megjelent a Firefox 3.5.1
+
+Az Firefox 3.5 elsõ frissítése az elõzetes várakozásoknak megfelelõen érkezett meg: a Mozilla az új böngészõ június 30-i megjelenését követõen pár nappal jelentette be, hogy az elsõ hibajavítás még ebben a hónapban napvilágot lát. Ezzel a frissítéssel elsõsorban azokat a hibákat javítják, melyekrõl már a végleges 3.5-ös verzió kiadása elõtt tudtak, de a programozóknak a hajrában már nem maradt idejük a kód átírására.
+A böngészõprogram 3.5.1-es verziójával kijavították azt a hibát is, mely a program lassú indulásához vezetett bizonyos windowsos konfigurációkon. Ennek oka a Firefox által használt, a biztonsági protokollok támogatásáért felelõs Network Security Services (NSS) nem megfelelõ implementálása: a komponens a korábbi verziókban a véletlenszerûség elõállításához a Windows bizonyos rendszerkönyvtárait és az Internet Explorer átmeneti tárhelyét vette alapul, így ha ezekben a könyvtárakban sok ezer állomány volt, a program indulása akár hosszú másodpercekig is eltarthatott.
+
+A javítás számos biztonsági hibát is befoltoz, köztük egy kritikusat, mellyel egy megfelelõen felkészített JavaScript kóddal túlcsordulásos támadást lehet intézni a Firefoxon keresztül, és tetszõleges kódot végrehajtatni a gazdagépen -- erre már mûködõ exploitot is publikáltak a milw0rmön. A Firefox 3.5 ezt követõ frissítése, a  3.5.2 nagyjából két hét múlva esedékes.
+A Firefox 3.5-ös verziója az elsõ félév utolsó napján jelent meg Windows, Mac és Linux platformokra. A programot a Mozilla szervereirõl eddig nagyjából 30 milliószor töltötték le, a mostani frissítés elérhetõ a Mozilla weboldalán, illetve automatikus és manuális frissítésként a böngészõn belül is.	     
+                  
+                  
+                  
+                   

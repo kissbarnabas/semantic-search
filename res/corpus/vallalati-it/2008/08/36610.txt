@@ -1,0 +1,14 @@
+Frissítette Clariion sorozatát az EMC, itt a negyedik generáció
+
+Az EMC frissíti középkategóriás Clariion tárolóit, a negyedik generációs termékek a korábbinál nagyobb kapacitásúak, és már flash meghajtókkal is rendelhetõk. Az EMC elsõként a csúcskategóriás Symmetrix tárolóit szállította az STEC által gyártott SSD-kkel, most a technológia a középkategóriás Clariion sorozatba is megérkezett.
+
+
+
+A Clariion CX4 család új tagjai 120, 240, 480 és 960 merevlemezt kezelnek, amelyek legfeljebb 1 terabájtosak lehetnek. A tárolók iSCSI és Fibre Channel hálózatra egyaránt köthetõek, ráadásul a szabványok következõ generációit is támogatják, vagyis a 8 GBps sebességû Fibre Channelt, a 10 gigabites iSCSI-t, valamint a Fibre Channel over Ethernetet is. Újdonság, hogy a tárolókoz menet közben, leállítás nélkül lehet újabb iSCSI vagy FC modulokat csatlakoztatni, vagy kicserélni õket, ami megkönnyíti az áttérést az újabb, nagyobb sebességû hálózati összeköttetésekre, valamint nagyobb rugalmasságot ad a vevõk kezébe, akiknek nem kell évekre elõre megtervezniük a hálózati infrastruktúrájukat egy storage-vásárlás miatt. 
+
+Balról jobbra: CX4-120, CX4-240, CX4-480, CX4-960
+
+
+ A CX4-es Clariionok a CX3-asoknál nagyobb kapacitásúak, nagyobb cache-t tartalmaznak és több LUN-t (Logical Unit Number) támogatnak. Az új Clariionok tervezésénél az EMC mérnökei a teljesítmény és a kapacitás mellett az energiatakarékosságra is figyeltek, ennek köszönhetõen a gépek hûtése alkalmazkodik a környezethez, a tárolók automatikusan lelassítják a ventilátoraikat, ha nem szükséges teljes fordulaton járniuk, emellett le tudják kapcsolni azokat a merevlemezeket is, amelyekre épp nincs szükség. A még jobb energiahatékonyság érdekében a Clariionok keveset fogyasztó SATA II meghajtókkal is rendelhetõk.
+
+A Clariion CX4 sorozat tagjai már megrendelhetõk, a 120 terabájtos változat belépõára 31 ezer dollár, ezért cserébe azonban csak négy darab 146 gigabájtos diszket ad az EMC. Flash meghajtókkal a Clariion CX4-480 és CX4-960 változatok lesznek rendelhetõk, de csak októbertõl. Az új tárolók megrendelhetõk az EMC viszonteladó partnerétõl, a Delltõl is.

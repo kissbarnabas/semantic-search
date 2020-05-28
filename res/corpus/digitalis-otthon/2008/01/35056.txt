@@ -1,0 +1,14 @@
+Hálózati meghajtó, nyomtatószerver és BitTorrent-kliens egyben a Netgeartõl
+
+A ma véget érõ CES alkalmával a Netgear bejelentette az otthoni felhasználásra szánt ReadyNAS Duo hálózati meghajtóit, amelyek a vállalatok körében sikeresnek mondható ReadyNAS NV+ architektúrájára épülnek. 
+
+
+
+A ReadyNAS Duo végeredményben egy beágyazott Linuxot futtató számítógép, amelynek operációs rendszere egy 64 megabájtos flash memóriáról töltõdik be, operatív tárja pedig egy 256 megabájtos DDR2 memóriamodul. Az eszközben levú meghajtók által biztosított tárterület USB és Ethernet felületen keresztül is elérhetõ, a ReadyNAS Duo önmaga képes megoldani a csatlakoztatott számítógépek biztonsági mentését, emellett egy BitTorrent-klienst is futtat, valamint nyomtatószerverként is funkcionál. A készülék érdekessége, hogy USB hostként is mûködik, így például egy digitális fényképezõgéprõl a fotók akár PC közbeiktatása nélkül is áttölthetõk rá, de akár egy pendrive-ról is képes "leszívni" az adatokat.
+
+
+ A ReadyNAS Duo sorozatban jelenleg háromféle modell található, egy 500 gigabájtos, egy 750 gigabájtos, valamint egy 1 terabájtos változat, amelyekbe gyárilag egy darab SATA meghajtót építettek, de az eszköz összesen kettõt támogat -- innen a Duo név. A készülék webes felületen menedzselhetõ, itt lehet beállítani jogosultságokat, valamint akár a különféle felhasználók rendelkezésére álló lemezkapacitást. 
+
+ 
+
+A ReadyNAS Duóra mentett adatokat CIFS/SMB, AFP 3.1, NFS v2/v3, illetve FTP protokollon keresztül is el lehet érni, így a tároló lényegében bármilyen operációs rendszert futtató PC-vel "szót ért", legyen szó akár Windowsról, Mac OS-rõl vagy Linuxról -- nem szükséges a gépekre külön szoftvert telepíteni a használathoz. Az egy darab 500 gigabájtos merevlemezt tartalmazó ReadyNAS Duo RND2150 induló ára a mellékelt NTI Shadow backup-szoftverrel és 3 év garanciával 499 dollár, Magyarországra várhatóan a tavasszal érkezik.

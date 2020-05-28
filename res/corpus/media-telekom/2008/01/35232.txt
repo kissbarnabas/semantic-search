@@ -1,0 +1,12 @@
+Hurokátengedésen alapuló villámgyors ADSL az Externettõl
+
+Xpress ADSL néven új generációs internetszolgáltatást indított Szolnokon az Externet, amely a hagyományos ADSL-nél akár ötven százalékkal magasabb sávszélességet nyújt. Az elõfizetõk számára a sebesség mind feltöltési, mind letöltési irányban magasabb a hagyományos ADSL kapcsolatnál, korlátlan adatforgalom mellett.
+
+
+
+Az Xpress ADSL jelenleg 1,5 Mbps, 5 Mbps , illetve 10 Mbps letöltési sebességû csomagokban rendelhetõ, amelyekhez rendre 192, 448, illetve 892 kilobites maximális feltöltési sebesség társul. A telefonközpontokhoz közeli területeken hamarosan ennél magasabb sávszélességek is elérhetõek lesznek.  A cég elnök-vezérigazgatója, Pórffy András szerint Szolnok ráadásul csak az elsõ állomása az Externet saját, országos szélessávú infrastruktúrájának az elõfizetõi hurokbérletre épülõ hálózattal. "Szolnokot hamarosan további városok követik, ahol szintén elérhetõvé tesszük az új szélessávú szolgáltatást" -- mondta Pórffy.
+
+
+ Az Xpress ADSL elõfizetõinek a telefonszolgáltatást a jelenlegi távközlési szolgáltató biztosítja, azonban a telefonvonaluk szélessávú adatátviteli tartományát már az Externet telefonközpontban elhelyezett DSLAM berendezései biztosítják, melyek közvetlenül az elõfizetõi réz érpárra csatlakoznak. Az úgynevezett helyi hurok szétválasztással megvalósuló szolgáltatás magasabb sávszélességet, fokozott üzembiztonságot, illetve szükség esetén gyorsabb mûszaki beavatkozást tesz lehetõvé az Externet közleménye szerint.
+
+Az Externet új DSLAM-infrastruktúráját a japán NEC Corporation szállítja. Az Xpress ADSL hozzáférés mellett többek között SDSL (szimmetrikus DSL), 25 megabites VDSL (Very High Speed DSL) illetve telefonszolgáltatások nyújtására is alkalmas.

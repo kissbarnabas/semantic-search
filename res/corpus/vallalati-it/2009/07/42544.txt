@@ -1,0 +1,10 @@
+Kísérleti labort kapott a Google Calendar is
+
+David Marmaros, a Calendar fejlesztéséért felelõs egyik szoftvermérnök is úgy emlékszik vissza az elmúlt három évre, hogy számos javaslat érkezett új funkciókra, plusz lehetõségekre, s nekik kötéltáncos módjára kellett lavírozni a különbözõ szempontok között. Adott megoldások viszont lehet, hogy csak egy kis számú felhasználó számára voltak fontosak, de nekik kritikus módon, például egyes nagyvállalati ügyfelek esetén.   A fejlesztõk ezért is döntöttek úgy, hogy a Gmailhez hasonlóan a Calendarban is elindítják a Labs-ot, hisz így gyorsan teríteni lehet az újdonságokat, a felhasználók visszajelzései alapján pedig tökéletesíteni is lehet azokat. A Calendar Labs használata semmiben nem tér el Gmail-tõl, a jobb felsõ menüben megjelenõ zöld üvegcse ikonjára kattintva azonnal elérhetõek a kísérleti funkciók, bármelyik egyesével engedélyezhetõ. Amelyik további beállítási lehetõségeket kínál, annak részletei megjelennek az általános beállítások között.
+
+
+Indulásként hat funkció érhetõ el, melyek egyike sem hoz átütõ újdonságot. A naptár mögé helyezhetõ háttérkép egyszerûen csak a lélek megnyugtatására került be, de a világóra, a következõ találkozó idejét (az addig hátralévõ idõt) jelzõ óra, illetve a konkrét dátumra ugrás lehetõsége már némi praktikumot is hordoz. A maradék két funkció fõleg a vállalati ügyfelekre koncentrál, hiszen az egyik a bejegyzések idõpontjának kiválasztásakor jelzi, hogy a meghívottak szabadok vagy elfoglaltak éppen (amennyben naptárjuk megosztott), a másik pedig lehetõvé teszi, hogy a naptárbejegyzések mellé Google dokumentumokat lehessen csatolni, illetve megosztani azokat a bejegyzés többi érintettjével.  A belsõ fejlesztések mellett a Google egy kísérleti API-t is nyilvánosságra hozott, amivel bárki szabadon fejleszthet Calendar-funkciókat. Akik már korábban is programoztak gadgeteket, azok számára ráadásul nem is lesz ismeretlen a környezet, a közösségi funkciókhoz való hozzáférésért az OpenSocial, a külsõ szolgáltatásokkal való együttmûködésért pedig az OAuth felel.	     
+                  
+                  
+                  
+                   

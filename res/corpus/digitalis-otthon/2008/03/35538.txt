@@ -1,0 +1,14 @@
+Extra funkciókat kínál a viszonylag olcsó Helios Odyssey hálózati adattár
+
+Egy terabájtnyi adat tárolására és megosztására is alkalmas a Helios új  adattárja, mely vezetékes hálózatokhoz csatlakozhat. E szolgáltatást egészíti ki a torrentfájlok, valamint az eMule zenemegosztó fájljainak kezelésének letöltésének képessége. A Helios Odyssey 170 dollárért kínálja az extra lehetõségeket, ebben az árban nincs benne a merevlemez ára.
+
+
+
+Az otthoni felhasználásra szánt hálózati adattáraknál nem számít újdonságnak a torrentszerverekkel történõ kommunikáció képessége, számos olyan NAS-t találhatunk, amely képes a számítógép segítségével beállított fájlok letöltését automatikusan elvégezni. A Helios Odyssey Media Hub egy olyan hálózati tároló, amely a fentihez az eMule zenemegosztó állományait is hozzácsapja, az állományokat pedig az akár egy terabájtos merevlemezen tárolhatja letöltés után.
+
+
+A tároló burkolata alumíniumból készült, mely lehetõvé teszi, hogy a benne lapuló merevlemez által termelt hõ passzív, ventilátort mellõzõ hûtési megoldással kerülhessen a szabadba -- így a meghajtó szinte teljesen zajtalan. A háztartás szórakoztató elektronikai készülékeivel történõ összeköttetés is lehetséges az UPnP szabvány támogatása miatt, természetesen ehhez az adatfolyamra igényt tartó eszköznek is kell ismernie e szabványt.
+
+P2P szabványok ismerete 170 dollárért
+
+A Helios Odyssey belterében egy komplett számítógépet találhatunk, a letöltésekért és az adatkapcsolatokért egy 220 megahertzen üzemelõ ARM9 processzor felelõs, amely mellé 64 megabájtnyi memóriát és nyolc megabájtnyi flashtárat is illesztettek. A készülék merevlemezét további külsõ egységekkel bõvíthetjük, erre a három USB 2.0 port -- melyek közül egy elöl, kettõ pedig hátul kapott helyet -- tökéletesen alkalmas. Egy tárolóegység csatlakoztatása után  -- legyen az további merevlemez, vagy egy digitális fényképezõgép -- egyetlen gomb megnyomása után átmásolhatók a csatlakoztatás dátumára nevezett könyvtárba az azon tárolt, vagy azzal felvett anyagok.

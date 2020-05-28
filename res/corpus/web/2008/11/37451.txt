@@ -1,0 +1,14 @@
+Ismét frissül a Chrome webböngészõ
+
+[TG Daily/HWSW] A kezdeti tétovázást követõen a jelek szerint felgyorsult a Google böngészõjének, a Chrome-nak a fejlesztése. A webböngészõ verziószáma elérte a 0.4-et -- az új kiadásban több biztonsági hibát is javítanak, ezzel együtt szokás szerint számos új funkció is került bele. A fejlesztõknek szóló kiadás csak a kísérletezõ kedvû felhasználóknak ajánlható, és hosszú idõnek kell még eltelnie ahhoz, hogy a késznek tekinthetõ, 1.0-s kiadás napvilágot lásson. 
+
+
+
+Az új, 0.4-es Chrome-ból egy nap alatt két új bétaváltozatot is kiadott -- egyelõre csak a fejlesztõk számára -- a Google programozói csapata. A tegnapi, 0.4.154.18-ös verziószámot viselõ változat után egy nappal letölthetõvé vált a 0.4.154.22-es build, elõbbi új funkciókat és hibajavításokat egyaránt hoz, valamint több biztonsági rést is befoltoz, utóbbi elsõsorban a hibalistát igyekszik megrövidíteni.
+
+A 0.4-es Chrome így egyebek mellett kijavítja azt a súlyosnak minõsített biztonsági rést, mely lehetõvé teszi, hogy illetéktelenek egy a felhasználó számítógépére letöltött, HTML-be ágyazott kódrészlet segítségével szabadon hozzájussanak a gépen tárolt állományokhoz. Az új verzióba emellett újabb JavaScript-motor is kerül, átalakultak a privát böngészés paraméterezési lehetõségei, fejlõdött a felugró ablakok tiltása és a könyvjelzõk kezelése. A 0.4.154.22-es verzió az ez utóbbi két funkcióval kapcsolatos hibákra jelent gyorstapaszt.
+
+
+A Google legutóbb október utolsó napján adott ki a felhasználók számára is elérhetõ frissítést a Chrome böngészõhöz. A jelenleg is aktuális 0.3.154.9-es verzióval érkezett egyik legfontosabb javítás a böngészõ egy, a felugró ablakok kezelésével kapcsolatos biztonsági rését tapasztotta be, emellett a letöltéskezelõ is biztonságosabbá vált. Javult a plugin- és proxykezelés teljesítménye és megbízhatósága, a program emellett már nem omlik össze, ha a böngészõfüllel együtt zárják be a megnyitott PDF-dokumentumot.
+
+Az ezekhez hasonló frissítések a felmérések szerint idõrõl-idõre javítanak a Chrome piacrészesedésén: a böngészõ szeptember elején, a megjelenést követõen rendkívüli érdeklõdésnek örvendett, a kiforratlan kód és a hibák miatt azonban kevesen használják rendszeresen. A Google böngészõpiaci részesedése a szeptemberi 1 százalékról 0,7 százalékra esett vissza október végére, a 0.3-as verzió megjelenése után azonban ismét emelkedett egy tizeddel. 

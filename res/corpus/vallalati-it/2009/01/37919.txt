@@ -1,0 +1,14 @@
+A tervezettnél tovább marad letölthetõ a Windows 7 bétája
+
+Továbbra is hatalmas az érdeklõdés a Microsoft következõ generációs asztali operációs rendszere, a Windows 7 bétája iránt. A szoftvercég kezdetben úgy kalkulált, hogy csupán 2,5 millió licenckulcsot ad ki a tesztváltozathoz, ezt a korlátozást azonban késõbb ejtették Redmondban -- most pedig a letöltés elérhetõségének határidejét tolták ki több mint két héttel.
+
+
+
+Az eredetileg tervezettnél késõbbi idõpontban, február 10-én veszi le a Microsoft a hivatalos letöltési oldalról a Windows 7 elsõ bétáját -- írják az operációs rendszer fejlesztõi blogján. "Olyan nagy az érdeklõdés a Windows 7 béta iránt, hogy úgy döntöttünk, február 10-ig meghosszabbítjuk a letöltési lehetõséget, hogy senki ne maradjon le róla" -- olvasható a blogon. A rendszer az adott idõponttól kezdve nem fogad be újabb letöltési kérelmet, azok számára, akik korábban elkezdték letölteni gépükre a programot, és átlépik a határidõt, február 12-ig érhetõ el a letöltési szerver.
+
+A Windows 7 egyaránt megjelenik 32 és 64 bites változatban. A Microsoft weboldaláról mindkét lemezkép letölthetõ, a 32 bites verzió mérete 2,4 gigabájt, a 64 bites a binárisok megnövekedett mérete miatt ennél némileg nagyobb, 3,1 gigabájt méretû. A szoftver telepítéséhez legalább 1 GHz-es processzorral, 1 gigabájt memóriával és 16 gigabájt szabad lemezterülettel kell rendelkeznie a PC-nek, emellett nem árt egy legalább 128 megabájt grafikus memóriával felvértezett, DirectX 9-gyorsításra képes videokártya sem. A minimális hardverkövetelmény nagyjából megegyezik a Windows Vistáéval.
+
+
+Az új operációs rendszer bétaváltozatának megjelenésekor -- január 9-én -- jelentkezõ hatalmas érdeklõdés gyakorlatilag azonnal két vállra fektette a Microsoft letöltési szervereit. A vállalat ezt követõen leállította a letöltéseket és kibõvítette az azokat kiszolgáló szerverparkot, majd 24 óra elteltével ismét megnyitotta az oldalt az érdeklõdõk elõtt. A Windows 7 bétaváltozatát az eredeti tervek szerint január 24-ig lehetett volna letölteni a Microsoft szervereirõl, a módosult határidõ révén azonban a rendszer elõször január 27-én figyelmezteti az oldalra látogató felhasználókat arra, hogy hamarosan leveszik az oldalról a letöltési opciót.
+
+A Microsoft ezzel együtt leszögezi, hogy a Windows 7 bétájához használható termékkulcsok február 12. után is elérhetõk lesznek. A program aktiválás nélkül is mûködik 30 napig, de az aktivált szoftver sem használható 2009. augusztus 1. után -- valószínûleg ekkorra már egy újabb elõzetes változat elérhetõ lesz a Windows 7-bõl. Az MSDN és TechNet elõfizetõk a fenti határidõ letelte után is hozzáférhetnek az operációs rendszer próbaváltozatához.

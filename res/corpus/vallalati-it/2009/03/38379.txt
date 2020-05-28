@@ -1,0 +1,26 @@
+Nyáron indul a Sun cloud-szolgáltatása
+
+Tegnapi CommunityOne eseményén a Sun Microsystems végre bejelentette saját cloud-stratégiáját, amely a cég által kijelölt irányvonalnak megfelelõen nyílt szoftvereken és szabványokon alapul. A vállalat nem csak infrastruktúra-szállítóként hanem szolgáltatóként is meg kíván jelenni a cloud-piacon, az éles rendszer indulását nyárra ígéri a cég.
+
+
+
+A nyitott cloud
+
+Kevesen tudják talán, de a Sunnak korábban is volt már cloud-szolgáltatása, a 2006-ban indított Network.com, amelynek kapacitását bárki igénybe vehette saját számításinak elvégzésére. Egy weboldalon keresztül hitelkártyás fizetéssel lehetett lefoglalni a processzorok teljesítményét, óránként egy dollárért, ezután a megrendelõ feltölthette Linuxon vagy Solarison programját, amely lefutott a Sun által felügyelt szervereken. A Network.com azonban nem váltotta be a hozzá fûzött reményeket és leállították.
+
+A most életre hívott Sun Cloud a cég jelenlegi szoftverinfrastruktúrájára alapoz, azaz az OpenSolarisra, a MySQL-re, a tárolókapacitást pedig OpenStorage eszközök és a ZFS fájlrendszer biztosítják. A tárhely WebDAV protokollon keresztül is elérhetõ, de a nyitott API-knak köszönhetõen akár PHP-ban, Pythonban vagy Rubyban írt alkalmazásokból is használható. A cloud teljesen nyílt API-kon keresztül érhetõ el, amelyeket Sun a Common Creatives licenc alatt hoz nyilvánosságra, amely lényegében lehetõvé teszi hogy bárki báhogy felhasználhassa azokat.
+
+Egyszerû futtatás, tárolás
+
+ A Sun Cloud kezdetben két szolgáltatást kínál, adattárolást (Storage Service) és adatfeldolgozást (Compute Service), ezek a nyártól érhetõk el. A fejlesztõk elõre csomagolt virtuálisgép-képek segítségével azonnal a cloudra telepíthetik alkalmazásaikat, amelyek akár Windowson, Linuxon vagy Solarison is futhatnak -- a hardverinfrastruktúrát SPARC- és x86-processzoros blade szerverek biztosítják majd.
+
+
+ A vállalat azt ígéri, hogy az alkalmazások telepítése vagy az erõforrások kezelése minden eddiginél egyszerûbb lesz. A titok nyitja a belga Q-layer januári felvásárlása, amellyel a Sun a Virtual Data Center technológia birtokába jutott. A VDC lehetõvé teszi a cloud felhasználói számára, hogy akár szöveges parancsokkal, akár egy böngészõben, grafikus felületen drag-and-drop segítségével tudják az erõforrásokat kezelni, legyen szó számítási kapacitásról, hálózati topológiáról vagy adattárolásról. 
+
+A Sun Cloud tárolókapacitásához kapcsolódva a StarOffice-ban és az OpenOffice-ban meg fog jelenni a "Save to cloud" és "Open from cloud" menüpont, így az irodai csomag felhasználói egyszerûen és kényelmesen tárolhatják dokumentumaikat a felhõben. A Sun egyik partereként a Zmanda nem mást ígér, mint MySQL adatbázisok biztonsági mentését a cloudba, de a cég állítása szerint ezt akár Oracle-adatbázisokkal vagy Exchange-szerverekkel is meg tudja tenni. A Storage Service kompatibilis az Amazon S3-mal (Simple Storage Service) is.
+
+Diákokra, fejlesztõkre, startupkra várva
+
+A Sun nyáron induló saját cloudja elsõsorban diákokra, fejlesztõkre és induló internetes vállalkozásokra alapoz, vagyis olyanokra, akiknek egy jó ötlet megvalósításához minél hamarabb szüksége van informatikai infrastruktúrára, azonban nem engedhetik meg maguknak hogy súlyos pénzekért beruházzanak. A vállalat reményei szerint világszerte szaporodnak majd a cloudok, amelyek nyitottak és kompatibilisek lesznek, ennek érdekében a saját cloudjának építésénél szerzett tapasztalatokat is megosztja majd a közösséggel.
+
+A cloud tesztelõit már várja a cég, jelentkezni a www.sun.com/cloud weboldalon lehet.

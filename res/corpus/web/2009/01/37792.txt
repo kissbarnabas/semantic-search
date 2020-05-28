@@ -1,0 +1,41 @@
+Új alapokra kell helyezni a Captcha védelmeket
+
+Új megközelítésre van szükség a spamküldõk távoltartására, akik visszaélnek az ingyenes levelezõrendszerek adta lehetõségekkel. -- állítják az IT-biztonsági szakértõk. A webes szolgáltatások által használt Captcha (Completely Automated Public Turing test to tell Computers and Humans Apart) védelmek már korábban sem jelentettek hatékony védelmet, a közeljövõ cyberbûnözõit pedig már szinte le sem lassítják a jelenlegi megoldások.
+
+
+
+A Captcha él és élni fog?
+
+Internetbiztonsági szempontból 2008 leggyászosabb híre a Captcha- rendszerek bukása volt, ami elérte a legnagyobb szereplõket is, mint a Microsoft, Yahoo vagy a Google. A bûnözõk gyõzelme viszont nem elsöprõ, de csupán azért, mert õk is érzik, hogy nem érdemes a lehetõ leggyorsabban leleplezni az új módszereket. Elegendõ éppen csak megugrani a szintet, s amikor a szolgáltatók meghiúsítják a módszert, akkor továbblépni.
+
+
+
+CAPTCHA
+A CAPTCHA szót, mely a Completely Automated Public Turing test to tell Computers and Humans Apart mozaikszava, 2000-ben alkotta négy fejlesztõ, és a Carnegie Mellon Egyetem bejegyzett védjegye. A CAPTCHA olyan tesztre utal, mely sikeresen különböztet meg emberi és gépi intelligenciát egymástól. Az eljárás során egy számítógép valamiféle feladatot ad a látogatónak, mely emberek számára egyszerûen megoldható, a mesterséges intelligenciának azonban megfejthetetlen. A CAPTCHA-t fordított Turing tesztnek is szokták nevezni, ugyanis egy gép embereket akar azonosítani, míg a Turing tesztnél egy ember azonosítja a gépeket.
+
+A legelsõ CAPTCHA-k már a web felfutásakor, a '90-es évek második felében megszülettek a spamrobotok ellen, az Altavista például így védekezett a keresõjét elszemetelõ támadásokkal szemben. Regisztrációs lapok védelmének megtörésére a spammerek ezt követõen emberi erõt alkalmaztak, például nagyforgalmú warez- és pornóoldalak látogatóival fejtették meg a feladványokat. A fórumok, blogok és postafiókok tömeges  spammelése azonban automatikát igényel, amihez a gépeknek kell megtörni a CAPTCHA-kat.
+
+
+
+
+A Captchák átugrásának képességével pedig könnyedén támadhatóak az ingyenes webes e-mail szolgáltatások, hiszen robotok segítségével gátak nélkül lehet tömegesen beregisztrálni címeket. A Google vagy a Yahoo hiába tiltja le néhány nap után a veszélyes, robotok által kezelt fiókokat, ha az idõ alatt már véghezvitték küldetésüket, kiküldték a maximálisan lehetséges számú levelet. 
+
+Ráadásul a Captcha-védelmeket feltörõ spammereknek köszönhetõen ezek a webmail-szolgáltatók bizonyos cégeknél, rendszereknél szép lassan spalistára kerülnek, ami a normál felhasználóknak okoz majd kellemetlenségeket. A Symantec tulajdonában lévõ MessageLabs évvégi kimutatása szerint 2008-ban spamek 12 százaléka érkezett valamelyik webes levelezõrendszerbõl, de szeptemberben már minden negyedik kéretlen reklámlevél így indult útnak.
+
+[+] India megöli a CAPTCHA-t
+
+A Captcha-törésre pedig számos variáció létezik. Az egyik legnépszerûbb manapság a "mechanical turks", azaz valós emberek, akik speciális szoftverekkel felvértezve napi ezres nagyságrendben oldanak meg feladványokat, darabonként pár centért. Más spammerek a gépi intelligenciára esküsznek, és olyan algoritmusokkal vértezik fel magukat, amik képesek az ábrákon szereplõ karakterek felismerésére és bevitelére. Az elõbbi ellen gyakorlatilag nem lehet védekezni, ez önmagában értelmetlenné teszi a bonyolultabb Captchák létrehozását, míg az utóbbi gépi módszer ellen érdemes fejlesztésekbe fogni.
+
+Microsoft: kutya vagy cica?
+
+A Microsoft például komoly összegeket ölt egy vizuális rendszer kidolgozásába. Viccesen hangzik, de kutyákat és macskákat kell megkülönböztetni. Erre az ember könnyedén képes, míg az algoritmusok számára bonyolult feladat kiválasztani, hogy melyik szõrcsomó illetve pixelhalmaz kutya vagy macska. A másik kísérlet a Microsoft részérõl pedig egy szemantikus asszociációval próbálkozik, amikor néhány egymás mellé rakott képrõl eszünkbe kell jutnia egy fogalomnak és azt kell beírni. 
+
+Ha mondjuk egy kiflit egy virslit és egy ketchupos dobozt egymás mellé teszünk, akkor feltételezhetõen mindenkinek az jut eszébe, hogy hotdog. Ezzel az Inkbot Authenticationnek nevezett módszerrel a probléma csupán annyi, hogy erõsen nyelv- és kultúrafüggõ, illetve az eltérõ írásmódok miatt nehéz kezelni a helyes válaszokat. Az asszociáció viszont komplexebb felatat, mint a karakterfelismerés, így az indiai, kínai "captchatörõ gyárak" bérmunkásainak is több idõre van szüksége, ezzel legalább lassulnak a manuálisan csalók.
+
+A jövõbeni CAPTCHA-védelmet a robotok nem tudják majd kijátszani 
+
+Kezdjük elölrõl
+
+A Microsoft számára kritikusan fontos lenne a Captcha megmentése, a két fõ cél, hogy a felhasználók számára olvashatóbbá, a gépek számára pedig zavarosabbá tegyék a feladványokat. Ennek érdekében a mérnökök teljesen új alapokra helyezve fejlesztenek képtorzító algoritmusokat, illetve kísérleteznek olyan megoldásokkal, melyek valós idõben figyelik a támadásokat és a felhasználói aktivitást, és akár automatikusan nehezítik a feladványokat.
+
+A vizuális Captchával kapcsolatban sokszor felmerült már a kritika, hogy az adatbázis végessége miatt az is könnyen kijátszható, de mostanra már a szoftveróriás képállománya 4 millió elemûre bõvült, melynek felét már hadrendbe is állították. Egyelõre még nincs kész teljesen a rendszer és több védelmi protokoll inaktív még, de az állandó hadakozás során folyamatosan adogatják majd hozzá az újdonságokat.

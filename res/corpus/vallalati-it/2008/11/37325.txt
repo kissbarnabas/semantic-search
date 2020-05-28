@@ -1,0 +1,30 @@
+A Windows 7 után kevéssel érkezik a Windows Server 2008 R2
+
+A múlt heti Microsoft Professional Developers Conference-en a Windows Azure és a Windows 7 árnyékában méltatlanul kevés figyelem esett a Windows Server 2008 R2-re. A szerver operációs rendszer frissítése a korábbi tervek szerint a Windows 7 után, de még 2010 elején érkezik. A két szoftvert egyébként párhuzamosan fejlesztik, jelenleg mindkettõ az elsõ béta elõtti utolsó fázisnál (Milestone 3) tart.
+
+
+
+Fejletebb Hyper-V
+
+A frissítés során új képességekkel gazdagodik a Hyper-V virtualizációs köztesréteg is, amelybe végre megérkezik a Live Migration. Ez a funkció lehetõvé teszi a virtuális gépek leállás nélküli mozgatását a fizikai szerverek között. A néhány ezredmásodperc alatt végbemenõ migrációt sem a szerveren futó szoftverek, sem pedig a szerverhez kapcsolódó kliensek nem érzik majd, a szolgáltatások változatlanul futnak a migráció után is. Ezt a képességet a VMware Vmotion már korábban is kínálta, a Hyper-V kritikusai pedig sokszor a Microsoft szemére vetették a hiányát. 
+
+A Live Migration egyébként idõhiány miatt maradt ki a Hyper-V elsõ kereskedelmi változatából, mivel a redmondiak szerint a virtuális gépek leállítás nélküli, "élõ" migrálása csupán rétegigény. A Hyper-V következõ változatába és így a Windows Server 2008 R2-be mindenesetre megérkezett ez a képesség, mint ahogy a menet közbeni erõforrás-hozzáadás is: a virtuális gépek hardverét leállítás nélkül lehet "bõvíteni". Az új Hyper-V már 32 processzort támogat, vagyis a Windows Server 2008 R2-re építkezve a korábbinál nagyobb szerverek is bevethetõk virtualizációs, konszolidációs platformként. Maga a Windows Server 2008 R2 legfeljebb 256 processzormagon képes futni -- ez lesz egyébként a Microsoft elsõ olyan operációs rendszere, ami kizárólag 64 bites változatban készül.
+
+Egyszerûbb felügyelet
+
+Az erõforrásgazdálkodás terén is sokat lép elõre a szerver operációs rendszer a processzorok energiatakarékos technológiáinak még jobb kihasználásával. A Windows Server 2008 R2 automatikusan képes lesz a processzorok éppen nem használt magjait lekapcsolni, ha nincs rájuk szükség, ezzel energiát takarítva meg. Az adminisztrátorok akár csoportházirendbõl is szabályozhatják majd, hogy a kiszolgálók mely idõszakokban kapcsoljanak energiatakarékos módba.
+
+A rendszergazdák biztosan örülnek majd a szerverfelügyeleti újdonságoknak, elsõsorban annak, hogy a Windows Server 2008 R2 Server Managere akár távoli gépek menedzselésére is használható lesz -- ez a képesség egyébként Windows 7-hez is elérhetõ lesz egy különálló letöltésként. A Server Managert egyúttal integrálják a Microsoft Best Practices Analyzerrel, így az adminisztrátorok összehasonlíthatják a saját beállításaikat a Microsoft által optimálisnak tartottakkal, és ez alapján esetleg módosíthatják õket, ha szükségesnek látják.
+
+A Windows Server 2008 frissített változatát a lehetõ legnagyobb mélységekig integrálják a PowerShell 2.0 parancssorral, így az adminisztrátorok az operációs rendszer legutolsó bitjét is képesek lesznek parancssorból elérni. Az adminok életét megkönnyítendõ az R2-be a Microsoft több mint 200 elõre megírt PowerShell-szkriptet is épít a leggyakrabban használt szerepkörök (pl. AD, DHCP, DNS) felügyeleti feladatainak automatizálására, de akár olyan funkciók finomhangolására is, mint az energiatakarékosság. A Windows Server 2008 R2-ben az összes felügyeleti GUI alatt PowerShell-szkriptek dolgoznak majd.
+
+Fontos megemlíteni még, hogy a "csupasz" Windows Server Core-t is továbbfejlesztik, az R2 változatban az így telepített operációs rendszer is támogatja az ASP .NET-et, illetve a PowerShellt (ennek elõfeltétele a .NET-környezet megléte). A Server Core az a telepítési mód, amikor az operációs rendszeren csak a legszükségesebb szolgáltatások futnak, ezzel csökkenthetõ az erõforrásigény, illetve nõ a biztonság, mivel kevesebb a potenciálisan sebezhetõ komponens.
+
+Windows 7-tel együtt az igazi
+
+A szerver persze mit sem ér kliensek nélkül. Ahogy a Vistában és a Windows Server 2008-ban számos olyan képesség volt, amiket csak együtt lehetett kihasználni, nem lesz ez másként a Windows Server 2008 R2 és a Windows 7 esetében sem. A Windows 7 korábbinál fejlettebb biztonsági és energiatakarékossági képességei megjelennek a Windows Server 2008 R2 csoportházirend-objektumai között, így a rendszergazdák még finomabban állíthatják be azokat, például a hordozható eszközökön tárolt adatok titkosítását a BitLockerrel.
+
+
+ Ennél sokkal érdekesebb a Direct Access technológia, ami elsõsorban a virtuális magánhálózaton (VPN) keresztül kapcsolódó alkalmazottak életét könnyítheti meg. Windows 7 és Windows Server 2008 R2 együttes használata esetén nem lesz szükség VPN-re, a felhasználók az interneten keresztül, Secure Socket Tunneling Protocol (SSTP) használatával ugyanúgy elérhetik a belsõ hálózatot, mintha ott ülnének az irodában.
+
+A fiókirodákban dolgozók a Branch Cache funkciónak örülhetnek, ami a helyi szerverre gyorsítótárazza az SMB-n és HTTP-n letöltött tartalmakat, így a telephelyen dolgozók nem terhelik feleslegesen az esetlegesen korlátozott sávszélességet a központ felé.

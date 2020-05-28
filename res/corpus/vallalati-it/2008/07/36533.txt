@@ -1,0 +1,33 @@
+Egyre többen fontolgatják a Windows Vista mellõzését
+
+A Windows Vista vállalati elterjedtsége továbbra is alacsony -- derül ki egy felmérésbõl, amelyet a Forrester Research publikált. Az elemzõcég 2300 vállalat összesen 50 ezer számítógépének adatai alapján azt találta, Vistát még csak a cégek 9 százaléka használ, és azokkal is jellemzõen a Windows XP-nél régebbi operációs rendszereket váltották le, az XP népszerûsége tehát továbbra is töretlen.
+
+
+
+Windows XP-rõl Windows 7-re
+
+Thomas Mendel, a Forrester elemzõje, a jelentés készítõje szerint a Windows 7 2010-re ígért érkezése egyre közelebb kerül és egyre jobban csábítja a vállalatokat arra, hogy kihagyják a Vistát a frissítési ciklusból. Idén áprilisban egyébként a Forresternél még úgy látták, azok a vállalatok, akik Windows XP-rõl egybõl Windows 7-re váltanak, két szék közül a padlóra eshetnek: ha valaki kivárja a következõ asztali Windows érkezését, ugyanolyan migrációs kínjai lesznek, mint a Vista esetében.
+
+
+
+Wow!
+
+A Vista problémája nem kis részben percepciós. Ami igaz az igaz, a rendkívül hosszúra nyúlt fejlesztési ciklus végén a Microsoft nem tudott akkorát robbantani, hogy az egész világ szája tátva maradjon. Vagy mégis? A redmondi cég a napokban elvégzett egy fókuszcsoportos kutatást olyanok körében, akik bevallottan rossz véleménnyel vannak a Vistáról. Ezeknek az embereknek San Franciscóban bemutattak egy Mojave kódnevû asztali operációs rendszert, amelytõl mindenki el volt ragadtatva, a pozitív visszajelzések aránya 90 százalék felett volt. Ezután a csoport tagjainak elárulták: a Mojave valójában nem létezik, amit láttak, a Vista volt.
+
+
+
+
+
+
+A Windows Vista terjedésének egyik legfõbb gátját az alkalmazás-inkompatibilitás jelenti, a legtöbbször azonban a házon belül készített szoftverek buknak el, amelyek fejlesztésénél nem vették figyelembe a Windows-alkalmazások tervezésére vonatkozó irányelveket. A Forresternél úgy vélik, érdemes lehet ezeket az alkalmazásokat minimális ráfordítással Vista-kompatibilissé tenni, általában elegendõ a jogosultság-kezelésre vonatkozó részt átírni, újraírni, hogy megfeleljen a Vista szigorúbb elvárásainak.
+
+
+ Mégis, egyre többen vannak, akik megpróbálják Windows XP-vel kihúzni a Windows 7 érkezéséig. A rendszerfelügyeleti berendezéseket gyártó KACE saját felmérése szerint a vállalatok közel kétharmada nem tervezi bevezetni a Windows Vistát. A válaszadók közel fele tapogatózik más irányokba, például kísérletezik Linuxszal vagy Apple Mac OS-szel.
+
+Mikor kezdõdik a "hûha"?
+
+A Microsoft szerint a Vista ugyanolyan ütemben terjed vállalati környezetben, mint 2001-es megjelenése után a Windows XP. A redmondi cég pénzügyi elemzõk számára rendezett konferenciáján Buill Veghte alelnök elmondta, június végén a Vista az idõarányos elterjedtségét tekintve enyhén meg is elõzte a Windows XP-t -- konkrét részletekkel azonban nem szolgált. A Microsoft a negyedik negyedéves eredményeinek bejelentésekor közölte, a Vistából eddigi története során már 180 millió licencet értékesítet, a negyedév során pedig 40 milliót.
+
+Idõben van a Windows 7
+
+A Vistára épülõ Windows 7 fejlesztése egyébként a Microsoft szerint kiválóan halad és 2009 végére, de legkésõbb 2010 elejére a polcokon lehet az új asztali Windows. Az elemzõi konferencián nem hangzott el semmiféle újdonság az operációs rendszerrel kapcsolatban, Steve Ballmer csak annyit mondott róla, nagy figyelmet szentelnek a kompatibilitásnak. Az már korábban kiderült, a Windows 7 a Windows Server 2008 továbbfejlesztett rendszermagjára épül, ezért a jelenlegi Windows-generációra írt driverek és alkalmazások maradéktalanul futni fognak rajta.

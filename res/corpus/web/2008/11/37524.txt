@@ -1,0 +1,14 @@
+Küszöbön a Firefox 3.1 második bétájának megjelenése
+
+A várakozások szerint a jövõ héten megjelenhet a Firefox webböngészõ soron következõ nagyobb frissítésének új tesztváltozata. A 3.1-es verziónak ez lesz a második bétája, de nem kizárt, hogy ezzel nincs vége a béták sorának és készül egy harmadik, utolsó tesztverzió is a programból. A fejlesztõk szerint mindez nem jelenti azt, hogy a végleges kiadás az eredeti tervekhez képest csúszna.
+
+
+
+Jövõ héten minden jel szerint elérhetõvé teszi a Mozilla a Firefox webböngészõ 3.1-es verziójának második bétáját. A szoftvercég FTP-oldalán tegnap óta elérhetõ a program kiadásra jelölt változata (úgynevezett nightly kiadás), mely immár minden olyan funkciót tartalmaz, melyet a cég 3.1-es verzióval vezetne be, így például elérhetõ benne az egyik legfontosabb fejlesztés, a TraceMonkey Javascript-motor, valamint a csak "pornómódként" aposztrofált privát böngészési funkció.
+
+Elõbbivel az oldalak renderelési sebességét tekintve immár felveszi a versenyt a Firefox a villámgyors oldalbetöltésérõl híres, szeptemberben megjelent Google-böngészõvel, a Chrome-mal &#8211; az elõzõ bétában a TraceMonkey-t még kézzel kellett bekapcsolni a böngészõben, a Firefox 3.1 második bétájában azonban már alapértelmezettként bekapcsolva mûködik az új motor.
+
+
+A másik fontos új funkciót, a privát böngészést bekapcsolva a böngészõ nem tárol semmilyen információt, amibõl a PC-n kideríthetõ lenne, hogy a felhasználó merre járt, milyen weboldalakat látogatott meg, mit töltött le. A böngészõ bezárásakor törlõdnek a sütik, az elõzmények közé sem kerül be semmi, a begépelt jelszavakat sem tárolja el a szoftver, és a mentett állományok is eltûnnek a letöltések listájából. Hasonló funkció került Incognito néven a Google Chrome-ba.
+
+A Firefox 3.1 elsõ bétája október közepén jelent meg, a soron következõ második bétát azonban könnyen lehet, hogy egy harmadik béta is követi majd, mely a béta 2-vel kapcsolatban érkezõ visszajelzésektõl függõen január elejére készülhet el. A harmadik béta új funkciókat már nem tartalmazna, csak a hibajavítások kerülnének a kódba -- derül ki a Mozilla fejlesztõi csatornáján zajló beszélgetésbõl. Az utolsó béta megjelenését várhatóan több kiadásra jelölt (release candidate, RC) változat is követi majd, a kód valamikor a jövõ év elsõ negyedében válhat véglegessé.

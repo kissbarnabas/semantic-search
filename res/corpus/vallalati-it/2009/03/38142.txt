@@ -1,0 +1,24 @@
+A Conficker féreg új variánsa már védi magát
+
+Újabb fázisába lépett a tavaly év végén felépült, és idén kitört Conficker fertõzési hullám, figyelmeztet a Symantec. A biztonsági vállalat szerint a féreg antivírus-elhárító kóddal frissül. A bûnözõk az új variánssal továbbá igyekeznek megakadályozni a Conficker kommunikálásának blokkolhatóságát.
+
+
+
+Anti-antivírus
+
+A Conficker, más néven Downadup új változata nem a fertõzési képességet fokozza, hanem a meglévõ fertõzéseket igyekszik konzerválni, vagyis a bûnözõk figyelme a kiépített hatalmas zombihálózat védelme és hasznosítása felé fordult. A Symantec elemzése alapján az új variáns már ellenségesen lép fel a vírusirtókkal és más biztonsági szoftverekkel szemben,  megpróbálja detektálni és leállítani az utána kutakodó folyamatokat.
+
+Egy másik változtatás a féreg kommunikációs képességét védi. A Conficker egy algoritmussal generálja, hogy adott napon milyen domaineken próbálkozzon kapcsolatot felvenni a vezérlõszerverrel, melyen keresztül akár új kódot is letölthet és frissítheti magát, vagy utasításokat kaphat. A biztonsági cégek már korábban visszafejtették ezt az algoritmust, és be nem regisztrált domaineket tiltólistára tetettek az ICANN és az OpenDNS gyökérszervereinél, valamint a globális támadást lehetõvé tévõ biztonsági résért felelõs Microsoft vezetésével a Conficker Cabal projekt megkezdte a jövõben soora kerülõ domainek elõregisztrálását és zárolását. 
+
+Erre reakcióként a támadók most két nagyságrenddel megnövelték az adott napon lehetséges domainvariációk számát, 250-rõl 50 ezerre. Ez azt jelenti, hogy az iparág eddigi erõfeszítései, melyek a domainek blokkolását és beregisztrálását tûzte ki, lehetetlenné válik, ráadásul a valódi weboldalak egy része komoly elosztott szolgáltatásmegtagadásos támadásban részesülhet az egyszerre beérkezõ kérések hatalmas tömege miatt. A Sophos biztonságtechnikai cég azt javasolja, hogy ha idõben értesül egy cég domainjének érintettségérõl, akkor hozzon létre egy alternatív domaint is, és aznapra függessze fel az eredeti feloldását. Egy másik lehetõség a HTTP-lekérések elõszûrése, melyek a "/search?q=" sztringet tartalmazzák -- ehhez is nagyteljesítményû szûrõre lehet szüskég. 
+
+
+ A Confickerrel fertõzött gépek tömege a Symantec szerint nem növekszik jelentõsen, ez is magyarázhatja, hogy a bûnözõk a hálózat fenntartását helyezték elõtérbe. Egyelõre nem világos azonban, mi célt is szolgál ez a botnet, a kézenfekvõ lehetõségek közt van a spamküldés, az adathalászat, elosztott támadások indítása, és ezek kombinácója. A féreg mindenesetre nem kapott egyelõre ilyen irányú utasítást.
+
+Az eredet
+
+A kitörés, melyhez foghatóra évek óta nem volt példa, a Micorosoft Windows operációs rendszerekben, pontosabban a hálózaton keresztül is megszólítható Windows Services folyamatban található túlcsordulásos sebezhetõséget használta ki. Bár Redmond tavaly október 23-án rendkívüli javítást tett közzé (MS08-67), jóval a féreg elterjedése elõtt, a hanyag felhasználók miatt PC-k milliói maradtak foltozatlanul még hónapokkal késõbb is. A Conficker ráadásul USB-háttértáron is másolódik, így a friss vírusirtó szoftver mellett érdemes kikapcsolni az Autorun funkciót is, melyhez szintén kiadott egy rendkívüli frissítést a Microsoft.
+
+A tavalyi évvége még csendesen telt, a felbukkant támadó kódokat alacsony kockázatúként értékelte a szakma. Januárban azonban robbanásszerûen kezdett el terjedni a Conficker, az F-Secure szerint a hónap második felére 1 millió egyedi IP-címrõl jelentkezett fertõzött gép, a legutolsó, február végi becslés már 2,1-2,5 millió közé tette ezt a számot. Ez IP-címen akár több tucat gép is lóghat, így a fertõzött gépek számát 20 millióra lehet tenni. Magyarországon a fertõzés valószínûleg néhány tízezer gépet érint.
+
+A kitörés nagysága miatt a Microsoft néhány hete úgy döntött, 250 ezer dollárt tûz ki a felelõsök fejére. A vállalat egyik hasonló akciója sikerrel járt ugyan, a Sasser féreg írójának beazonosításáért felajánlott összeget ki is fizették a redmondiak, három másik (Blaster, MyDoom, Sobig) esetben azonban sosem csípték nyakon az elkövetõt. A Sasser íróját 2005-ben ráadásul mindössze egy év kilenc hónap felfüggesztett börtönre ítélték, amit a szakma elfogadhatatlanul erõtlennek tartott. Sven Jaschan börtön helyett végül állást kapott egy biztonsági cégtõl.

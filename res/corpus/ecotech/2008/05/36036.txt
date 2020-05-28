@@ -1,0 +1,21 @@
+Az Intel grafikus chipjeit ekézi az NVIDIA - mert fél
+
+Mint arról múlt héten lapunk is beszámolt, az Intel végre elkészítette DirectX 10 támogatást biztosító driverét integrált grafikus processzoraihoz, melyek közel két éve jelentek meg a piacon. Az NVIDIA nem hagyta ki az alkalmat, hogy az Intel chipjeinek grafikus teljesítményén köszörülje a nyelvét, sõt jövõbeni terveiket firtassa, ami jól jelzi egyúttal a két vállalat között növekvõ feszültséget.
+
+
+
+Az Intel DirectX 10 bejelentését követõen az NVIDIA nagy erõkkel kezdte el támadni a processzorgyártó óriást, azzal vádolva, hogy félrevezeti a vásárlókat, és a DirectX 10 támogatás nem több, mint PowerPoint bemutató. A grafikus chipeket tervezõ cég fogta, és letesztelte a kiadott driverrel az Intel G35 chipsetjét, egy 2,33 gigahertzes Core 2 Duo (Conroe) és 2 gigabájt memória társaságában, és szétküldte a médiának az eredményeket, melyek 1024-es és 800-as felbontásban, élsimítás nélkül is rendre 10 fps-nél kevesebbet értek el (másodpercenkénti képfrissítések száma) a Call of Juarez, Crysis, vagy a Company Of Heroes alatt, vagyis használhatatlanul lassúnak bizonyultak.
+
+Az NVIDIA ugyanakkor nem érte be ennyivel, és az Intel jövõbeni ígéreteit is célba vette. Paul Otellini, az Intel elnök-vezérigazgatója szerint 2010-re a 965-os chipset teljesítményének tízszeresét fogja produkálni az akkori integrált grafika. Az NVIDIA által kommunikált extrapoláció alapján ez azt jelenti, hogy az elõbb említett játékok addigra érik el a játszhatóság határát, miközben az akkori új játékok sokkal magasabb követelményeket fogalmaznak majd meg.
+
+
+Bár az NVIDIA láthatóan igyekezett az elfogadhatóság határain belül a  lehetõ legrosszabb színben feltüntetni az Intel integrál grafikus megoldásait (szándékosan alacsony órajelû processzorok), azok valóban nem alkalmasak modern, intenzív 3D grafikájú alkalmazások futtatására. De miért foglalkozik akkor a történelmi rekordokat döntögetõ NVIDIA az Intellel? -- merül fel a kérdés.
+
+A válasz a nagyon is közeli jövõben keresendõ, ahol az NVIDIA mozgástere egyre szûkül, ahogyan az Intel és az AMD egyre inkább a számítógéprendszerek platformosítása felé halad, vagyis a felé, hogy azokba a processzor mellé saját chipsetet, grafikus chipet szállítsanak. Ahogyan a chipsetpiacon marginalizálódtak az olyan valaha jelentõs súllyal bíró vállalatok, mint a VIA vagy a SiS, úgy ugyanez a veszély fenyegeti hosszú távon az NVIDIA-t. Volumen alapján már ma az Intel a legnagyobb grafikus szállító chipsetjeinek köszönhetõen -- a notebookok több mint felében például már ma is Intel grafika található, a jelenlegi gyenge 3D-teljesítmény ellenére.
+
+Az AMD az ATI Technologies felvásárlásával tett szert nagyteljesítményû grafikus chipek fejlesztésére, melyek ugyan gondokkal küszködtek az utóbbi idõben, de stratégiailag nem lehet arra alapozni, hogy ez örökké így is marad, míg az Intel már nyilvánosan is elismerte, hogy nagyteljesítményû vizualizációs architektúra fejlesztései folynak, Larrabee kódnéven. Ironikus módon a Larrabee megszületését részben az NVIDIA fejlesztési iránya magyarázza, mely a processzorok dominanciáját ásná alá a jövõben -- a grafikus processzorok az évek folyamán egyre rugalmasabbá, könnyebben programozhatóvá váltak, így már bizonyos nem grafikus területeken is bevethetõek a számításokat gyorsító processzorként.
+
+
+[+] Larrabee, az Intel vizualizációs processzora 
+
+Kommunikációja alapján az NVIDIA nagyon is élesen érzékeli a számára fenyegetõ trendeket, melyek jelenleg domináns piaci pozícióját alapjaiban rengetik meg. A március elején felröppent pletyka, mely szerint a VIA felvásárlásáról vagy egy esetleges összeolvadásról tárgyal az NVIDIA, ésszerûnek és megalapozottnak tûnik. Ezzel a vállalat középtávon, a következõ évtized elejére gyakorlatilag az Intel és az AMD egyenrangú versenytársává válhatna, amennyiben biztosítaná a tõkehiányos VIA processzortervezõ csapatai számára a megfelelõ pénzügyi és emberi erõforrásokat -- a PC-piac mobilitás felé tolódása ráadásul kedvez is a VIA kompetenciájának.

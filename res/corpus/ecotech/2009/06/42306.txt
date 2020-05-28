@@ -1,0 +1,17 @@
+Nem tetszik az EU-nak a böngészõ nélküli Windows
+
+Az Európai Bizottság idén januárban hivatalosan is versenyjogsértõ
+magatartással vádolta meg a Microsoftot, a vád szerint a cég
+tisztességtelen elõnyhöz juttatta a böngészõpiacon az Internet
+Explorert azzal, hogy beépítette a Windowsba. A Microsoft erre válaszul a múlt héten váratlanul bejelentette, Európában böngészõ nélkül fogja forgalmazni a Windows 7 operációs rendszert és a PC-gyártókra valamint a fogyasztókra bízza, melyik böngészõt telepítik fel.&nbsp;
+"Amennyiben a bizottság úgy találja, hogy a Microsoft törvényt sértett, azt fogja kérni, a fogyasztóknak legyen választási lehetõsége, nem pedig azt, hogy a Windows böngészõ nélkül kerüljön forgalomba" -- áll az Európai Bizottság által kiadott jegyzetben. "Mivel a vásárlók 95 százaléka elõre telepített változatban jut a Windowshoz, nagyon fontos biztosítani a választás lehetõségét az értékesítési csatornákon."
+A Microsoft az Internet Explorer 8-at egy külön telepíthetõ csomagban teszi majd elérhetõvé a PC-gyártók számára, így azok egyszerûen feltelepíthetik a boltokba kerülõ gépeikre, de más böngészõvel, illetve akár több böngészõvel is szállíthatják PC-iket. Az Internet Explorer azonban a dobozos Windows 7-nek sem lesz része. "A Microsoft úgy határozott, a kiskereskedelmi vásárlóknak böngészõ nélküli Windowst ad. Ezzel nem nagyobb választási szabadságot ad a vevõknek, hanem éppen ellenkezõleg, kevesebbet" -- vélekedik az Európai Bizottság.
+Egyelõre nem világos, a boltban megvásárolható, dobozos operációs
+rendszerre milyen módon lehet majd böngészõt telepíteni, hiszen
+Internet Explorer nélkül a többi böngészõ weboldalának meglátogatása és
+letöltése is lehetetlenné válik. Egy tûzhöz közeli forrás szerint az
+Internet Explorert CD-n és FTP-n is elérhetõvé teszi majd a Microsoft,
+illetve üzletekben is elérhetõ lesz, bár egyelõre ennek részletei nem
+tisztázottak.
+Jon von Tetzchner, a Microsoftot az Internet Explorer beépítése miatt az Európai Bizottságnál bepanaszoló Opera Software vezetõje szerint sem megfelelõ válasz a böngészõ kihagyása. "Ugyanazt próbálják meg megismételni amit a Media Player ügyében tettek, és amirõl ma már tudjuk, nem mûködik" -- mondta Tetchzner arra utalva, hogy 2004-ben az EU elítélte a Microsoftot a Media Player Windowsba építése miatt, amelyre válaszul a cég kiadta a Windows médialejátszó nélküli változatát, amelyet senki sem vett meg. "Most, hogy a Microsoft lényegében beismerte, törvényt sértett azzal, hogy az Internet Explorert beépítette a Windowsba, az Európai Bizottságnak megfelelõ gyógymódot kell találnia." 
+A Windows 7 világszerte október 22-én kerül a boltokba, Magyarországon ekkortól a magyarra lokalizált változatot is meg lehet már vásárolni.

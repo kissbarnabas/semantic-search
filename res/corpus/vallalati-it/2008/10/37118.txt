@@ -1,0 +1,24 @@
+A dolgozók nem csak eszközeiket, titkaikat is megosztják
+
+Nemzetközi kutatást készített a Cisco annak felderítésére, milyen emberi hibák vezetnek ahhoz, hogy bizalmas vállalati vagy személyes adatok kerülnek ki a cégektõl, gyakran illetéktelenek vagy éppen rosszakarók kezébe. A vállalat megbízásából az InsightExpress 10 országban több mint 2 ezer informatikai vezetõt, illetve dolgozót kérdezett meg, az eredmények országonként, illetve kultúránként eltérõk, vagyis a a kockázatok is különböznek.
+
+
+
+A felmérést az Egyesült Államokban, az Egyesült Királyságban, Franciaországban, Németországban, Olaszországban, Japánban, Kínában, Indiában, Ausztráliában és Brazíliában folytatták le. A fenti országok azért kerültek be a felmérésbe, mert igen különbözõ társadalmi és üzleti kultúrát képviselnek, feltörekvõ, illetve stabil gazdasággal rendelkeznek, továbbá az internetes kultúra más-más szintjén állnak. A tanulmány szerint egyre inkább összemosódnak a munka és a magánélet határai, az alkalmazottak egyre több készüléket és szolgáltatást -- például mobiltelefonokat, notebookokat vagy éppen közösségi webes szolgáltatásokat -- használnak munkájukhoz és személyes célokra is: ez pedig egyértelmûen biztonsági kockázatot jelent.
+
+Fittyet hánynak a szabályokra
+
+A felmérés szerint minden ötödik alkalmazott módosítotja munkaeszközein a biztonsági beállításokat, hogy az IT-elõírások megkerülésével nem engedélyezett weboldalakhoz férhessen hozzá. Ez a jelenség olyan fejlõdõ gazdaságokban volt gyakoribb, mint Kína és India. A megkérdezettek több mint a fele válaszolta azt, hogy egyszerûen csak meg akarta nézni az adott webhelyet, a harmaduk szerint pedig csakis rájuk tartozik, hogy milyen oldalakat nézegetnek.
+
+
+ Tízbõl hét IT-szakember állította, hogy a vállalatnál bekövetkezett adatvesztések mintegy fele vezethetõ vissza arra, hogy az alkalmazottak jogosulatlanul használtak valamilyen alkalmazást (pl. fájlcserélõ), vagy nem engedélyezett weboldalhoz fértek hozzá (pl. közösségi site-ok, internetes boltok). Ez a jelenség fõként az Egyesült Államokra, valamint Indiára volt érvényes.
+
+Az elmúlt évben az IT-vezetõk 40 százaléka szembesült olyan esettel, amikor alkalmazottak jogosulatlanul jutottak a hálózat vagy a létesítmény valamely részébe. Az ilyen esetek többnyire Kínában fordultak elõ, ahol a megkérdezettek kétharmada számolt be ilyen incidensrõl. Azon válaszadók kétharmada, akik bármely országban ilyen problémával találkoztak, az esetek gyakoriságának a megtöbbszörözõdését tapasztalta, 14 százalékuk pedig havonta felvetõdõ kérdésként értékelte.
+
+Megosztják eszközeiket és titkaikat is
+             
+Az alkalmazottak majdnem kétharmada vallotta, hogy naponta használja munkahelyi számítógépét személyes célokra, például zeneletöltésre, vásárlásra, banki ügyintézésre, de a blogolás, chatelés is népszerû tevékenységek. Az alkalmazottak fele személyes e-mail címérõl levelezik az ügyfelekkel és munkatársakkal, holott csak 40 százalékuk rendelkezik az IT-részleg jóváhagyásával. A válaszadók mintegy 40 százaléka érzékeny információkat is megoszt a cégükön kívüli személyekkel, például barátaikkal, családtagjaikkal, de néha idegenekkel is: a vállalati titkok nem titkok többé.
+
+A megkérdezettek közel a fele osztja meg munkaeszközeit másokkal, akár cégen kívüli személyekkel -- az adatok így is gyakran kerülnek illetéktelen kezekbe. Legalább az alkalmazottak kétharmada hagyja védelem nélkül a számítógépét akkor is, amikor távol van az íróasztalától. Ezek az alkalmazottak továbbá hajlamosak arra is, hogy laptopjukat éjjelre is az asztalukon hagyják anélkül, hogy kijelentkeznének, ami alkalmat ad az esetleges tolvajlásokhoz és a vállalati vagy személyes adatok eltulajdonításához. Majdnem minden negyedik alkalmazott tárol vállalati adatokat hordozható készülékeken az irodán kívül is. 
+
+Jellemzõ, hogy a dolgozók ötöde a számítógépén tárolja a jelszavát, bejelentkezési adatait, vagy sokan pedig is írják, a papírt pedig az asztalukon, nyitott fiókokban, sõt akár a számítógépükre ragasztva hagyják. Néhány országban, például Kínában az alkalmazottak egy része sokszor a személyes pénzügyi aktáival együtt tárolja a jelszót és a bejelentkezési adatokat a munkahelyi gépén, így nemcsak az azonosító adatait, de a pénzügyeit is kockáztatja. 

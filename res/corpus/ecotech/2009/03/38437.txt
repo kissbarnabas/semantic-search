@@ -1,0 +1,50 @@
+A politika kezében van a hazai Classmate PC projekt sorsa
+
+Kész, honosított szoftverrel, tananyaggal, lokalizált hardverrel, akkreditált tanári tréningprogrammal, felkészített oktatókkal és elismerõ tanulmányok tucatjával felvértezve várakozik a pilot projekt után a magyar Classmate PC projekt, melyet az Intel hazai csapata a napokban mutatott be a sajtó nyilvánossága elõtt is.
+
+
+
+Minden klappol
+
+Az Oktatási Hivatal, a pilot projektben résztvevõ iskolák, tanárok, szülõk és, ami a legfontosabb, a diákok is áldásukat adták a XXI. századi közoktatáshoz elengedhetetlen innovatív, számítógéppel támogatott új módszertanra, de több mint egy hónapja a minisztériumok és a kormányzat asztalain pihennek a jelentések. 
+
+Gacsal József és Golubeff Róbert, az Intel két magyarországi vezetõje lelkesen beszélnek a lezárult pilot tapasztalatairól, tanulságairól, érdeklõdve figyelik a környezõ országokban mostanság induló hasonló projekteket, de némileg csüggedten nyilatkoznak arról, hogy milyen esélyt látnak arra, hogy itthon nálunk tényleg megvalósuljon az új módszerek bevezetése. 
+
+[+] Mit kell tudni a magyar Classmate PC projektrõl? 
+
+A laikus kritikusok többsége azzal hozakodik elõ, amikor valaki arról beszél, hogy vezeték nélküli hálózat, digitális tananyag és célszámítógépek kellenek, hogy sok iskolában omlik a vakolat és WC-papír sincs, nem ez a legfontosabb kérdés. Valójában viszont az igazi probléma az, hogy a mai oktatási rendszer nem képes a munkaerõ-piaci igényeknek megfelelõ szakembereket képezni, a számos egyetemi diplomás sem képes készségszinten használni a webes keresõket, online szolgáltatásokat vagy akár egy egyszerû fájlkezelõt sem. 
+
+Nõjön fel a netgeneráció
+
+A gyakorlatban viszont rutinos mérnökökre, természettudományos érdeklõdésre és a XXI. századi lehetõségeket hatékonyan kihasználó aktív állampolgárokra lenne szüksége az országnak a versenyképesség visszaszerzéséhez. Akik a számoknak hisznek, azoknak érdekes lehet, hogy a pilot egyik helyszíneként szolgáló VIII. kerületi iskolában a tanév végére az érintett osztályokban harmadára esett vissza a hiányzások száma, a résztvevõ diákok otthonaiban pedig egy kivétellel mindenhol kötöttek internet-elõfizetést. 
+
+A pedagógusok pedig örömmel konstatálták, hogy a gyerekek a földrajz vagy éppen irodalomórák közben elsajátították az alapvetõ informatikai ismereteket is. Tudják, hogy miért érdemes menet közben menteni, odafigyelnek a vírusvédelemre megtanultak keresõket használni, egyszóval beleszagoltak a valóságba. 
+
+Hol az apróbetûs rész?
+
+A kicsit hozzáértõbbek fejében felmerül az a kérdés is, hogy az egyébként alacsony összegû (nagy tételben számítógépenként 30 ezer forint) hardverbeszerzés mellett milyen extra költségek merülnek fel, egyéb infrastrukturális szinten vagy akár a tananyagokkal kapcsolatban. 
+
+Gacsal József, az Intel Magyarország fejlesztési igazgatójának elmondása szerint hardver szinten nincsenek rejtett költségek, sõt, az általuk kifejlesztett gyorsítótárazás révén minimalizálni lehet a külsõ internetes forgalmat, így a pilot helyszínein rendelkezésre álló 1 illetve 4 megabites sávszélesség elegendõnek bizonyult az osztályok kiszolgálására folyamatos munka mellett is. Illetve a Microsoft Windows Server domain szolgáltatásának egyszerû megoldásait az oktatók is képesek voltak használni, így külön rendszergazdai segítség nélkül mûködött az iskolákban a jogosultságkezelés és a dokumentumok, fájlok rendszerezése, elérhetõvé tétele. 
+
+Iskolai barter -- ügyes igazgatónõ
+
+A Deák Diák Általános Iskola ráadásul egy barterszerzõdést kötött egy számítástechnikai céggel, akik ingyenesen felszereltek számítógépekkel és hálózati berendezésekkel egy egész labort. Továbbá az iskolai hardverek karbantartását, üzemeltetését is vállalták, cserébe pedig mindössze a termek iskolaidõn kívüli használatának lehetõségét kérték oktatások, tanfolyamok tartásához. 
+
+A reform végrehajtásához legfontosabb tananyagok is rendelkezésre állnak az induláshoz, a késõbbiekben pedig ha csupán a kevesebb tankönyvigénybõl keletkezõ megtakarításnak csak egy részét fordítják az iskolák új, valóban digitális tananyagok vásárlására, akkor is tudják tartani a lépést. 
+
+Magyarország tehát a kapujában van egy fejlett oktatási rendszer bevezetésének, s még jelenleg is a régióban úttörõnek számítunk a befejezett pilot miatt. Viszont a többi ország sem tétlen, sõt, nagyon is elhivatottak. A Balkán egyik legelmaradottabb országában, Macedóniában (2 millió lakos) áprilisban fejezõdött be a pilot, s 1-2 hónappal késõbb már a kormány tendert írt ki, s azóta meg is rendelték a 70 ezer gépet. A tananyag és a gépek lokalizációja ott is 100 százalékos. 
+
+A Balkán is készülõdik
+
+Szerbiában most indul egy pilot, Romániában egy vidéki iskolában kísérleteznek és Bulgáriában is próbálkoznak. Lengyelországban ugyan van érdeklõdés, de mivel nincs központi, csak regionális oktatásszervezés, ezért a teljes ország egyszerre biztosan nem fog lépni. Illetve Csehországban is jelenleg zajlik a kísérleti projekt. 
+
+Magyarország számára jelenleg két út van, az elsõ a központi program, ami egyszerûbb és akár minden iskolára kiterjedõ lehet. A másik pedig az EU-s pályázati rendszerbe integrálás, ahol az iskoláknak az önkormányzatokat kell gyõzködnie, hogy pályázzanak, s akár olyan döntés is születhet, hogy más területen ruháznak be kompetencia alapú eszközökbe. Illetve ebben az esetben a pályázatok száma korlátozott, ezért maximum 100 ezer gép lenne beszerezhetõ. 
+
+Többen azt is furcsállják, hogy egy országban miért épp az Intel az, aki ennyire erõsen küzd egy ilyen projektért, s felvetõdik a gyanú, hogy számukra kizárólag a hardverek eladása a cél. Gacsal József ezt azzal a gondolattal cáfolta, hogy számukra az a néhány Intel ATOM processzor, amit õk gyártanak nem komoly tétel, a gépet pedig Magyarországon valószínûleg a székesfehérvári Albacomp gyárthatná. 
+
+
+Gacsal szerint az Intel számára az üzlet hosszútávon jelentkezik. A világcégnek azért van többek közt a World Ahead programja, mert a csúcstechnikát gyártó vállalat csak egy bizonyos fejlettség feletti országokban tud sikeresen eladni, s ezért nekik megéri támogatni az oktatást is, hisz évekkel késõbb a felcseperedõ gyerekek számítógép-vásárlók lesznek, ráadásul piacképes tudással, jobb fizetéssel könnyebben is költenek majd új termékekre. 
+
+Olvass!
+
+Ehhez viszont hálás dolog lenne, ha az oktatás kimozdulna az évszázados hagyományaiból és a valós kihívásoknak tudna megfelelni. Aki érdeklõdik a Classmate PC projekt iránt, az a HWSW bemutatója mellett az Interaktív Oktatástechnikai Portálon olvashat többet a digitális tananyagokról, vagy élõben május 25-26-án találkozhat a portugál Magellán projektet bemutató eseményen az érintett megoldásokkal és a szakértõkkel is. 

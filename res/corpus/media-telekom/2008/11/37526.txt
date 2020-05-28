@@ -1,0 +1,59 @@
+Kipróbáltuk: iriver SPINN médialejátszó
+
+Kipróbáltuk az iriver SPINN médialejátszót, mely több szempontból sem nevezhetõ hétköznapinak. A SPINN mindent tud, burkolata nemes anyagokból építkezik, akkumulátora is sokáig bírja, de drága is egyben. 
+
+
+
+
+Elegancia és különleges részletek
+
+Az iriver már nyolc éve ontja zenelejátszóit. Ez a nyolc év e termékszegmensben egy örökkévalóság, szolgáltatáskínálat és tárterület oldaláról már-már összehasonlíthatatlanok a kezdeti és a mai modellek. Az iriver 2001 októberéig, -- amikor az Apple bejelentette az elsõ iPodot -- az MP3-lejátszók piacának legnagyobb szállítója volt, igaz a versenytársak is jóval kevesebben voltak. Az elegánsan szögletes SPINN az iriver legfrissebb terméke, amely már ránézésre is a lehetõ legmesszebb repül a gyártó elsõ, CD-lemezes MP3 lejátszójától, a gömbölyded iFP-100-tól. 
+
+A 8 gigabájtos SPINN nem hétköznapi készülék, ámulatba ejtõ formaterve sarkos és szögletes. E formatervhez remekül igazodik a 3,3 hüvelykes kijelzõn megjelenõ, elegáns kinézetû menürendszer is. A kijelzõ körül meglepõen vékony a keret, ennek ellenére rendkívül merev a készülékház. E merevség a burkolat anyagául választott magnéziumötvözetnek is köszönhetõ, mely 70 grammos pehelysúlyon tartja a 95x51x11 milliméteres lejátszót.
+
+ 
+
+A burkolaton kívül a kijelzõ is érdemel pár szót, ugyanis AMOLED (aktív mátrix OLED) rendszerû és 480x272 képpont felbontású. Az OLED elõnye az LCD-kijelzõkkel szemben, hogy nem igényel háttérvilágítást, ezért jóval vékonyabb és kevesebbet fogyaszt, emellett színei is teltebbek, fényereje és kontrasztja is egy nagyságrenddel jobb, emellett még éles szögbõl is kiválóan látszik. Az AMOLED az OLED technológia leszármazottja, amely az aktív mátrixos megvalósításnak köszönhetõen még az OLED-nél is kevesebbet fogyaszt.
+
+Az AMOLED lényegében az OLED és TFT technológia egyfajta ötvözete, ahol -- a passzív OLED kijelzõkkel ellentétben -- nem képpont-soronként, hanem az aktív mátrixon keresztül minden pixelhez külön-külön jut el az áram, ami jóval gyorsabb reakcióidõt és alacsonyabb fogyasztást is eredményez, emellett a színekre és a kontrasztra is kedvezõ hatással van.  Sajnos hátránya is van az AMOLED panelnek, mindössze 262 ezer szín megjelenítésére képes, filmlejátszásnál vagy képnézegetésnél csíkozódhatnak a finom színátmenetek.
+
+A megjelenítõ érintésérzékeny, ezért a burkolaton alig találunk billentyûket. A SPINN különleges, elsõre valamiféle zsanérnak látszó tekerõgombot kapott, mely benyomható is, így lefedi a jobbra-balra nyilakat, illetve az "enter" gombot. Az "exit", vagyis a kilépés funkciót egy parányi gomb adja, ez a burkolat oldalán található, melyet a kijelzõ egy mindig látható felirattal is jelez -- véleményünk szerint stílusosabb lett volna, ha a tekerõgomb nem csak benyomható, hanem kihúzható is. A ház a fentieken kívül a hangerõért felelõs gombpárost, a bekapcsológombot, valamint egy reset gombot tartalmaz, utóbbira fagyások esetén lehet (volt is) szükség, hiszen a bépített lítiumion akkumulátor nem cserélhetõ, így nem áramtalaníthatunk úgy, hogy kiveszük azt.
+
+ 
+
+A menüben böngészés során a SPINN sajnos nem követi azonnal az utasításainkat, kicsi késés tapasztalható, mely érezhetõen ront a használati komforton. A tekerõ tekergetése közben lomhán mozdulnak az ikonok. Még szerencse, hogy a SPINN a használat nagy részében nem igényel felhasználói beavatkozást, hiszen a kívánt funkció kiválasztása után vagy nézzük vagy hallgatjuk a terméket. A menü átnyálazása alapján azt gondolhatnánk, hogy a készülék tud magyarul, de ez a tesztkészülék esetében nem volt igaz: bár kiválasztható a magyar nyelv, mégis maradnak az angol menüpontok. A SPINN-t a gyártó weboldaláról letölthetõ firmware frissítéssekkel szerencsére lehet javítani.
+
+Hang- és képminõség
+
+A SPINN zenelejátszója MP3, WMA, OGG, APE és FLAC állományokat  képes megszólaltatni, videókat akkor játszik le, ha azok MPEG4, WMV, vagy DivX/XviD fájlok. A gyártó nem véletlenül mellékel egy konvertáló szoftvert a lejátszó mellé, mert teljesen szaggatásmentes eredményt az ezzel átdolgozott állományok lejátszása esetén kaphatunk. Volt pár olyan DivX-állomány, mely komoly fejtörést okozott a hardvernek, bár csúszni, lassulni nem hagyta a filmeket, pár képkockát azért eldobott belõlük. A konverterprogram használata viszont komoly idõveszteséget jelent, egy másfél órás mozin egy erõs számítógépen is legalább háromnegyed órát dolgozik, miközben a 700 megabájtos állományt közepes tömörítés kiválasztása esetén a felére nyomja össze. 
+
+ 
+
+Zenét hallgatni a SPINN segítségével nagyszerû lehet, de ehhez két dolognak kell megvalósulnia. Elõszöris a mellékelt fülhallgatót dobjuk ki, vagy adjuk ellenségünknek, mert bár a fülbe finoman beleillik, de hangminõsége borzalmas. Nem értjük a gyártót, hogy a SPINN magas ára mellett miért spórolt ezen a kiegészítõn. Persze a hangminõség a lejátszón is múlik, ezért a közel 15 éves Sony MDR-A44 fülest hívtuk segítségül, mely jópár lejátszót evett már meg, bizonyítva rátermettségét, és azt, hogy nemhiába kellett 1993-ban 7-8 ezer forintot fizetni érte.
+
+A SPINN a Sony fülessel életre kelt, hangját mérsékelt basszus, kiegyenlített közép és visszafogott magastartomány jellemzi. Ha mélybõl többet szeretnénk hallani, vagy az alaphangszín nem lenne kedvünkre, a beépített hangszínszabályzóval belenyúlhatunk a hangképbe, elõre programozott beállítások mellett egyedi hangzást is kialakíthatunk. Az SRS-WOW térhangzás menüpont beállításai tovább színesíthetnek, bár az itt található öt menüpontból a basszust érintõn kívül egyik sem tesz igazán jót a zenének.
+
+
+ Kellemes meglepetés volt a SPINN FM-rádiója, mely kiváló vétellel örvendeztetett meg bennünket. A csatornák eltárolhatók és felvétel is készíthetõ a mûsorról, három különbözõ minõségben. Ezek az MP3 állományok 192, 128, vagy 64 kbit/s tömörítésûek lehetnek, és a leggyengébb, egyben legkevesebb helyet is foglaló változat is igen jó hangminõségû.
+
+Feltétlenül meg kell jegyeznünk, hogy a SPINN nem fogy ki a szuszból. Bár sok lejátszó vigyáz a hallásunkra, a SPINN ezt inkább ránk bízza és ha azt akarjuk, nagyon hangosan is tud szólni. A lejátszó a legmagasabb hangerõ esetén sem torzít, a basszus szálkás izomból jön, bár ehhez tényleg szükség van a jó fülesre is, a mellékelt változat már háromnegyed hangerõnél elvérzett.
+
+ 
+
+Egyéb hasznos lehetõségek
+
+A lejátszó támogatja a Bluetooth adatátvitelt, vezeték nélküli headsetekkel is párosítható, ezen kívül alkalmas szövegmegjelenítésre és Flash-alkalmazások futtatására is, ezeket egyszerûen csak be kell másolni a megfelelõ könyvtárba. Utóbbiakból olyanok is a kijelzõre kerülhetnek, melyek egeres felhasználói beavatkozást igényelnek, hiszen a kijelzõ érintésérzékeny, ezért a lejátszón akár minijátékok is futtathatók. A szövegolvasás során három különbözõ betûméret választható és a gördítés módja is beállítható, hogy az laponként, vagy soronként történjen. A lapozást a lejátszó három sebességen végzi, így azt az olvasási sebességünkhöz állíthatjuk. A SPINN sajnos kettévágja a szavakat és természetesen nem helyesen, jobban örültünk volna, ha új sort kezdenek azok a szavak, amik nem férnek ki.
+
+Felvételt készíteni a beépített mikrofon segítségével is lehet, ám ekkor a SPINN alacsonyabb bitrátákból kínál fel hármat. A szöveges felvételek 128, 64, vagy 32 kbit/s kódolás után jutnak a tárhelyre, legutóbbit kiválasztva is érthetõ a felvétel, ami a 8 gigabájtos memória tetemes mérete miatt akár 562 óra hosszat is tarthat. A mikrofon amúgy termel zajt, nem kell vájtfülûnek lenni ahhoz, hogy akár zavarónak is értékelhessük. A SPINN beszédidõzítést is kínál, ha ez aktív, megáll a felvétel, ha épp csend van. Hasznos lehetõség, és nagyon jól mûködik, nem marad le a felvételindításhoz szükséges szó elsõ magánhangzója sem.
+
+ 
+
+A SPINN fotóink nézegetésére is használható, bár a megtekinteni kívánt fénykép kiválasztása rengeteg idõt rabolhat, mert a elõnézeti képek elõállítása nagyon lassan megy végbe, fõleg, ha azok nagyfelbontásúak. A funkció ettõl még hasznos, csak azokat a képeket, melyeket magunkal akarunk vinni, érdemes elõbb lekicsinyíteni. A 262 ezer szín adta szûkös színmélység fényképnézegetés során is sávozódást adhat a homogén, ám színátmeneteket tartalmazó képterületeken.
+
+A lejátszóra tartalmat tölteni pofonegyszerû, csak csatlakoztatnunk kell az USB-kábelt a számítógépünkhöz, majd a megfelelõ könyvtárakba másolhatjuk az állományokat. Sajnos a kábel SPINN-oldali csatlakozója speciális, ezért erre nagyon kell vigyázni. A csatlakozó megszólalásig hasonlít az újabb Samsung fényképezõkéhez, de a Samsung-kábelekkel csak tölteni tudjuk az SPINN-t, adatokat másolni nem alkalmas. Az akku a gyártó állítása szerint 5 órányi filmnézésre elegendõ energiát tárol, zenehallgatás esetén pedig 25 órát ígért az iriver. Ezek az adatok valósnak tûnnek, a többórás tesztidõszak alatt az akkumulátorjelzõ egyáltalán nem mozdult ki a teljesen feltöltött helyzetbõl.
+
+A SPINN sajnos drága
+
+Az iriver SPINN-t megítélni nem a legegyszerûbb feladat, hiszen az értékelést nagyon sokoldalú termékkel kapcsolatban kell meghoznunk, úgy, hogy közben a magas árat és az ezért nyújtottakat, valamint a kidolgozottság minõségét is figyelembe kell vennünk. Ha a gyári fülest eldobjuk, tisztességes médialejátszót kapunk az 59900 forintos, prémiumkategóriás árért. A hangzás egy jó fülessel elsõrangú, a konvertált filmek gyönyörûek, az AMOLED kijelzõn kívül pedig egyetlen panel sem szállít a SPINN-nél látható sötét feketét.
+
+A SPINN nagyszerû termék, bár ennyiért egy webböngészõt is el tudtunk volna benne képzelni egy Wi-Fi csatolóval karöltve, melyet a kijelzõ ki is szolgált volna. Ha van elég pénz a kasszában, el lehet gondolkodni rajta, de nem az átlagzsebekhez mért áron kapjuk a Bang&Olufsent idézõ formatervet és a kiváló belsõ értékeket.

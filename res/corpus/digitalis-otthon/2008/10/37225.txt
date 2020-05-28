@@ -1,0 +1,27 @@
+Demonstrálta a következõ generációs ultramobil platformját az Intel
+
+Elõször demonstrálta mûködés közben Moorestown platformját az Intel, a héten Tajpejben tartott Intel Developer Forumon (IDF). Az erre épülõ készülékek 2009-ben vagy 2010-ben kerülhetnek a boltokba, és az Intel reményei szerint olyan áttörést hoznak a mobileszközök és internetezés terén, amilyet a mobiltelefonok okoztak a telekommunikációban.
+
+
+
+Web és HD-video a zsebben
+
+A Moorestown az Intel ultramobil fejlesztéseinek második generációját képviseli, mely a kialakulóban lévõ mobil internetterminálok (MID, mobile internet device) és okostelefonok által megkövetelt minél alacsonyabb fogyasztást, valamint a lehetõ legkompaktabb méreteket célozta meg. A chipgyártó szerint a Moorestown terheletlen energiafelvétele kevesebb mint tizede a Menlow platforménak, melyre a jelenlegi internetterminálok épülnek. A területen jelenleg az Asustek, az LG, a Toshiba, a Lenovo és a Gigabyte is képviselteti magát.
+
+A Moorestown egy rendszerchip (system-on-chip, SoC) köré épít, és így próbálja elérni a kitûzött designcélokat. A Lincroft kódnévre hallgató SoC az Intel 45 nanométeres csíkszélességû eljárásán készül, egy- vagy két Atom processzormag köré épít, melyhez grafikus és videofeldolgozó logikát és DDR3-memóriavezérlõt integrál egy szilíciumlapkán. A Lincroft a Langwell I/O chippel kommunikál, mely a perifériák csatlakoztatásáért felel. A Menlow ezzel szemben még egy önálló Atom processzorra, és egy magas fokon integrált külsõ chipsetre épül, melyeket adatbusz köt össze -- bár a fogyasztása alacsonyabb bármilyen más x86-os rendszerarchitektúránál, az ultramobil környezetbe nem elég energiahatékony ez a felépítés.
+
+
+
+Az új platformtól a vállalat azt várja, hogy elmossa a határokat a számítógépek és okostelefonok között, és olyan eszközök jelennek meg a jövõben, mellyel rendkívül kompakt méretekben, a mai mobilkészülékeket sújtó kompromisszumok nélkül böngészhetõ a web, vagy fogyaszthatóak akár a videók is -- a mai okostelefonok többségének még a Flash is problémát jelent.  A Moorestownra épülõ, érintõképernyõs termékekkel az Intel már egésznapos mûködést, 3D gyorsítást és a HD-videolejátszás képességét vizionálja. Ezzel végre sikeressé válhat az elõször a süllyesztõbe került Transmeta, majd az Intel által propagált UMPC-koncepció is.
+
+
+Az Intel az Optionnel és az Ericssonnal is együttmûködik a Moorestownhoz illeszthetõ HSPA-modulok elkészítésében, melyek mérete 2,5x3 centiméter lehet legfeljebb, és magasságuk sem haladhatja meg a 3 millimétert. Kiemelt szempont emellett az energiahatékonyság is, hiszen a megcélzott felhasználási terület intenzív adatforgalmat feltételez. A 3G-s modulok mellett a Moorestown WiMAX, Wi-Fi csatlakozásokkal is rendelkezhet, valamint opcionálisan GPS-vevõvel is.
+
+
+Kitörési pont
+
+Az ultramobil fejlesztésekhez hatalmas reményeket fûz az Intel, ettõl várja ugyanis, hogy kitörési pontot találjon a lényegében leigázott PC- és szerverpiacról. A hagyományos számítástechnikai piacok ugyan belátható idõtávon stabil bõvülést ígérnek, az árak csökkenése miatt az Intel számára mindez csak az árbevétel és nyereség visszafogott növelésére adnak lehetõséget. Az AMD-vel folytatott küzdelemben ráadásul az Intel az elmúlt 3 évben  a piacok növekedése és a dollár gyengesége ellenére sem tudta növelni árbevételét, nyeresége pedig visszaesett.
+
+ Ez nemcsak a részvényárfolyamra van rossz hatással, de stratégiai léptékkel a miniatürizációt lehetõ tévõ félvezetõgyártás költségeinek exponenciális sebességû emelkedésének tudatában nyugtalanító is lehet. Ezt a jelenséget hívják az Intelnél Moore második törvényének, mely kimondja, hogy a complexitás fokozódásával párhuzamosan növekednek az egyre finomabb struktúrák kialakításához szükséges berendezések beszerzési költségei is. Ennek eredményeként egy új, korszerû és nagykapacitású félvezetõgyár létrehozása ma 3,5-4 milliárd dollárt emészt már fel, míg 2002-ben ez az összeg "mindössze" 2 milliárdot tett ki -- a félvezetõipar hajnalán, 1970-ben 6 millió dollárt.
+
+A Moorestowntól az Intel azt várja, hogy megkezdheti behatolását egy olyan piacra, melynek volumene évi több százmillió darabra nõhet, a chipekbõl realizálható bevétel pedig több milliárd dollárra rúghat. Az ultramobil fejlesztési ág mellett közös gyökerekbõl más területeken is terjeszkedni kíván a vállalat, így a netbookoktól a notebookpiac bõvítését várja (második gép), beágyazott designokkal pedig olyan szórakoztatóelektronikai eszközökben is meg akar jelenni, mint digitális televíziók. 

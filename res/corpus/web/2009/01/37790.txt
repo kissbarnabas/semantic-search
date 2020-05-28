@@ -1,0 +1,16 @@
+Megbénították a Microsoft szervereit a Windows 7 iránt érdeklõdõk
+
+A Microsoft szervereit megbénította a felhasználók rohama pénteken, amikorra a vállalat a Windows 7 nyilvános bétaváltozatának megjelenését idõzítette. A redmondi cég korábban már jelezte, mindössze 2,5 millió termékkulcsot ad majd ki a bétához, nem csoda, hogy az érdeklõdõk elárasztották a www.microsoft.com/windows7 weboldalt -- mindenki benne akart lenni az elsõ 2,5 millióban -- késõbb kiderült, felesleges volt az igyekezet.
+
+
+
+A Windows 7 bétája magyar idõ szerint péntek este 9-kor jelent meg a Microsoft weboldalán, azonban rövid idõ alatt elérhetetlenné vált. A vállalat ezt követõen leállította a letöltéseket és kibõvítette az azokat kiszolgáló szerverparkot, majd 24 óra elteltével, szombaton ismét megnyitotta az oldalt az érdeklõdõk elõtt. Sikerült elhárítani a teljesítményproblémákat, és a Windows 7 bétája azóta is zavartalanul elérhetõ.
+
+Két hétig mindenki kap kulcsot
+
+Öröm az ürömben: a hatalmas érdeklõdésre való tekintettel a Microsoft feladta azt az elképzelést, hogy csak 2,5 millió licenckulcsot ad ki az operációs rendszerhez. Január 24-ig minden jelentkezõ kap aktiválókulcsot a szoftverhez, attól függetlenül, hogy a kiadott kulcsok száma meghaladja-e a 2,5 milliót. A Windows 7 bétája aktiválás nélkül is mûködik 30 napig, de az aktivált szoftver sem használható 2009. augusztus 1. után -- valószínûleg ekkorra már egy újabb elõzetes változat elérhetõ lesz a Windows 7-bõl.
+
+A Windows 7 egyaránt megjelenik 32 és 64 bites változatban. A Microsoft weboldaláról mindkét lemezkép letölthetõ, a 32 bites verzió mérete 2,4 gigabájt, a 64 bites ennél némileg nagyobb, 3,1 gigabájt méretû. A szoftver telepítéséhez legalább 1 GHz-es processzorral, 1 gigabájt memóriával és 16 gigabájt szabad lemezterülettel kell rendelkeznie a PC-nek, emellett nem árt egy legalább 128 megabájt grafikus memóriával felvértezett, DirectX 9-gyorsításra képes videokártya sem. A minimális hardverkövetelmény nagyjából megegyezik a Windows Vistáéval.
+
+
+ A Microsoft igyekszik hangsúlyozni, hogy ez egy bétaváltozat, a kiadásának célja hogy a lehetõ legtöbben próbálják ki és minél több visszajelzés érkezzen be a szoftver mûködésével kapcsolatban. Bétaváltozatként még lehetnek a programban hibák, ezért éles környezetben semmiképp sem javasolt a használata.

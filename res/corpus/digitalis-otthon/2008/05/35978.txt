@@ -1,0 +1,14 @@
+Megérkezett az OpenOffice.org 3 bétája
+
+Bejelentették az OpenOffice.org 3-as verziójának bétáját, így megkezdõdhet a méltán népszerû ingyenes irodai programcsomag nyilvános tesztelése. Az új változat divatosabb megjelenéssel, gazdagabb fájlformátum támogatással és szerkesztési extrákkal gazdagodott.
+
+
+
+A platformtól függõen 145-197 megabájtot nyomó platformfüggetlen nyílt irodai szoftvercsomag legújabb generációja leglényegesebb fejlesztése talán az Office 2007 fájltípusok (például (.docx, .xlsx, .pptx) támogatása, így a Microsoft szoftvereit használókkal való dokumentummegosztás is megvalósítható -- ha egy szervezet teljes egészében át is tér OpenOffice-ra, attól még a külvilág nagy részén Microsoft Office fut továbbra is. Az OOo 3 ezenkívül még támogatja az OpenDocument Format (ODF) közelgõ 1.2-es kiadását is.
+
+
+A kor követelményeinek megfelelõen erõsödött az OOo kollaboráció terén, így például a Writerben a dokumentumokhoz fõzött jegyzeteket már egy oldalsávon láthatjuk, ráadásul a különbözõ felhasználóktól származóakat színek különböztetik meg -- egyszerû, de nagyszerû fejlesztés. Az új verzióban immár a Calc táblázatkezelõ támogatja a munkafüzetek akár egyidejû megosztását, és a különbözõ felhasználók által bevitt adatok egyesítését, egyúttal megakadályozza egymás szimultán felülírását.
+
+A produktivitást fokozza, hogy a Writer szövegszerkesztõ már képes egy dokumentumnak egyszerre több oldalát is megjeleníteni, ha elegendõ hely áll rendelkezésre a képernyõn -- az Office 2003-ból ismert szolgáltatást a felhasználók régóta kérték az OOo fejlesztõitõl, akik hallgattak a szóra. A Calc újdonságai közé tartozik egy lineáris megoldóprogram, amely teljesen integrálódik a táblázatkezelõbe. Az igazán nagy táblázatokkal dolgozó felhasználók annak örülhetnek, hogy már 1024 oszlopa lehet egy táblának, a vizuális finomságokra vevõk pedig az új színsémáktól lesznek minden bizonnyal boldogok.
+
+A fejlesztõk nem csak azt ígérik, hogy az OOo 3 gyorsabb és robusztusabb lesz a korábbi változatoknál, hanem azt is, hogy a szoftver végre futni fog Mac OS X operációs rendszeren, és teljesen támogatni fogja az Aqua interfészt, vagyis tökéletesen illeszkedik a Mac-es alkalmazások képi világába. A béta nem ajánlott éles környezetbe, de aki kedvet érez kipróbálásához, az letöltheti az elõzetest Windowsra, Linuxra, Solarisra, valamint Mac OS X-re egyaránt.

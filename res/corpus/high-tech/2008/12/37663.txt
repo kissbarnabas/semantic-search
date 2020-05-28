@@ -1,0 +1,16 @@
+64 bites Windows kódot sikerült futtatni Linuxon
+
+[HUP/HWSW] A windowsos alkalmazásokat Linux és UNIX operációs rendszereken futtató Wine fejlesztései másfél évtizede folynak, és csak idén nyáron érte el a szoftver az 1.0-s kiadást. A munkálatok természetesen azóta sem álltak le, és a minél szélesebb szoftverkompatibilitás mellett egy újabb mérföldkövet ért el a projekt: 64 bites végrehajtás.
+
+
+
+Az áttörésrõl december elején számolt be a Wine fejlesztõi listáján Maarten Lankhorst  programozó, aki sikeresen futtatott le egy Win64-es hello wörldöt -- természetesen 64 bites Linux gazdarendszeren. Ehhez rengeteg hackelésre volt szükség, többek közt a gcc compiler módosítására. Mindezek a módosítások egyelõre egy fejlesztõi ágon futnak, és csak a jövõben kerülnek a mainline kiadásba. Az eredmény jelentõsége nem kíván túl sok kommentárt, amennyiben a Wine a Windowsok kiváltására törekszik, úgy képesnek kell lennie a jövõben 64 bites szoftvereket is futtatnia, még ha ez jelenleg még csak rétegigény is, pont úgy, ahogyan egyelõre a Wine is az.
+
+
+Háttérinfo
+
+A Wine-t Bob Amstard és Eric Youngdale hozta létre 1993-ban, hogy lehetõvé tegyék Windowsra írt alkalmazások futtatását Linuxon -- az elsõ, sikeresen elindított szoftver a Windows 3.1 aknakeresõje volt. A Wine nem egy emulátor, hanem egy kompatibilitást biztosító szoftverréteg, amely a windowsos alkalmazások által meghívott DLL-ek alternatív implementációját biztosítja, de akár a Windows saját DLL-jeit is képes használni, amennyiben a felhasználó rendelkezik velük.
+
+A Wine weboldalán jelenleg közel 10 ezer különféle windowsos alkalmazásról érhetõek el kompatibilitási információk, ezek közül majdnem 1300 olyat találni, amely mindenféle probléma nélkül települ és fut Wine-on, további 1500 pedig apróbb trükkökkel mûködésre bírható. A hibátlanul futó, "Platina" minõsítésû, alkalmazások sorában számos játékot is találni (pl. Half-Life 2, Call of Duty 2, Star Wars: Galaxies, Battlefield 1942), egyébként is feltûnõen sok játék van a tízezres listában, amelynek oka az lehet, hogy a népszerû windowsos alkalmazások legtöbbjének megvan a linuxos megfelelõje, a szabad operációs rendszer azonban játéktámogatás terén mindig mostohagyereknek számított.
+
+A Wine elsõsorban azoknak jelenthet megoldást, akik Linuxot szeretnének használni az asztali gépükön, azonban egyes, számukra kritikus fontosságú szoftverek nem készültek el a szabad operációs rendszerre, és csak Windowson mûködnek. A virtualizáció megjelenésével és elterjedésével azonban ma már egyáltalán nem jelent problémát a két operációs rendszer párhuzamos futtatása, így ha valakinek szüksége van egy windowsos alkalmazásra, bátran elindíthatja amúgy linuxos gépén valamelyik Windowst, és benne az adott programot -- hivatalosan támogatva, natív környezetben.

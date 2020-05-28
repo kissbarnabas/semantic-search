@@ -1,0 +1,16 @@
+Messzebbre láthat és gyorsabb lehet a Marvell új Wi-Fi-lapkája
+
+Új vezeték nélküli vezérlõt mutatott be a Marvell, mely még nagyobb adatátviteli sebességet és hatókört, lefedettséget ígér a jövõ Wi-Fi-s eszközeinek. A Marvell TopDog 11n-450 az iparág elsõ 450 megabit/s-os elméleti maximális sebességet ígérõ lapkája, mely 50 százalékkal magasabb sebességet ígér, mint a korábbi, 300 megabit/s-os megoldások. A cég szerint a  802.11g-nél több mint nyolcszor gyorsabb lapka ötször nagyobb hatótávolságra, lefedettségre is képes.
+
+
+
+A Marvell új lapkája teljes mértékben megfelel az elõzetes 802.11n specifikációnak, melynek végleges változata ez év végén, jövõ év elején kerülhet elfogadásra. A Marvell emellett saját fejlesztésekkel is bõvíti a lehetõségeket, a Special Time Block Coding (STBC) például nagyobb adatátvitelt nyújt nagyobb távolságú kapcsolat esetén is.
+
+
+Marvell
+
+
+A visszamenõleg teljes, 802.11a, b és g szabványokkal is kompatibilis, 802.11n elõzetes specifikációnak teljesen megfelelõ TopDog 11n-450 három különálló adó- és vevõegységgel rendelkezik, ezek együttes használatával éri el a maximálisan 450 megabit/s-os csúcssebességet. A lapkából egyelõre csak mintadarabok érhetõk el, sorozatgyártása a második negyedévben kezdõdik meg, ekkortól vásárolhatják meg a készülékgyártók is.
+
+
+A 450 megabit/s-os csúcssebesség csak egy elméleti maximum, ahogyan a 802.11b és g termékeknél is megszokhattuk, a valós adatátviteli sebesség legjobb esetben is csak ennek körülbelül fele lehet. A 802.11n termékek ezt ráadásul több csatorna egyidejû használatával érik el, így egy olyan helyen, ahol számos más hozzáférési pont is üzemel, könnyen kialakulhat zavarás, interferencia, mely drasztikusan csökkentheti mind az adatátviteli sebességet, mind a lefedettséget.

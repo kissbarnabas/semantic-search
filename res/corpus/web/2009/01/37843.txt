@@ -1,0 +1,22 @@
+Budapestet elkerüli a Google Transit
+
+Újabb hasznos funkcióval gazdagodott a Google térképszolgáltatása, a Maps. Ezúttal a már korábban is mûködõ tömegközlekedési útvonaltervezõhöz kapcsolódóan építettek be egy új, opcionálisan bekapcsolható térképréteget a járatok útvonalainak megjelenítésére.
+
+
+
+Az online szolgáltató 2005 decemberében indította el a Google Transit alkalmazást, mely a Maps térképfelületeit és az adott városok tömegközlekedési járatainak adatbázisát kombinálva képes volt útvonalat tervezni azoknak is, akik nem autóval, kerékpárral vagy gyalog közlekednek. Elsõként természetesen csak az Egyesült Államok néhány városa volt lefedve, mostanra viszont 91 amerikai, 6 kanadai, 7 ázsiai és számos európai, ausztrál és dél-amerikai város közlekedési vállalata is csatlakozott a kezdeményezéshez, lehetõvé téve a kényelmes, gyors útvonaltervezést, akár mobilon is.
+
+
+ 
+
+
+Eddig viszont csak a tervezéskor láthatták a felhasználók, hogy merre vezet majd útjuk, illetve a megállóhelyeket jelölte egy apró kék ikonnal a térkép. Most, az új réteg bevezetésével viszont a térképre lehet illeszteni az összes járat útvonalát, láthatóvá téve azokat. Az eredmény hasonló bármely megszokott tömegközlekedési térképhez, leszámítva azt, hogy a színes vonalak minden esetben valódi arányokat, irányokat mutatnak, nagyítható, kereshetõ, illetve a mûholdképpel akár vizuális képet is kaphat az utazó arról, hogy hol keresse a megállót, hol kezdjen majd leszálláshoz készülõdni. 
+
+
+A bevezetett új térképréteg több olyan városban is elérhetõ, ahol a Transit útvonaltervezõ egyelõre nem elérhetõ, illetve van néhány olyan város is, ahol a tervezés mûködik, de a járatok útvonala nem látszik. Az utóbbira példa a ¯ubrówka nevû ital hazája, a lengyel Bia³ystok, míg az elõbbire a cseh fõváros, Prága vagy épp a spanyol fõváros Madrid. Ott a metrók és a villamosok hálózata látható, ami a manuális tervezéshez már éppen elég. Budapesten viszont se Transit, se új térképréteg nincs. Arról, hogy melyik funkció hol érhetõ el, a Google Maps oldalain belül naprakész tájékoztatás érhetõ el.
+
+ 
+
+A HWSW szerkesztõsége a BKV szóvivõjét kérdezte, de egyelõre nem kapott választ arra, hogy a közlekedési vállalat támogatja-e majd a rendszert, amennyiben pedig nem, akkor milyen szinten akadhat el egy ilyen projekt, mely azon túl, hogy a budapesti lakosok közül is sokaknak hasznos lenne, egy univerzálisabb, mobiltelefonon is könnyen használható útvonaltervezõként a turisták számára is jelentõs segítséget jelentene az eligazodásban.
+
+A kérdés természetesen már korábban, a Google Transit európai megjelenése után is felvetõdött. Akkor, tavaly novemberben, egy olvasónk  Szüts Katalintól, a BKV ügyfélszolgálati vezetõjétõl a következõ választ kapta: "Köszönjük, hogy észrevételével megtisztelte Társaságunkat.  [...] Tájékoztatjuk, hogy jelenleg nem tervezzük a menetrendjeink Google Transit-ba történõ feltöltését, azonban nem zárkózunk el a késõbbiekben egy ilyen lehetõségtõl, ezért a szükséges lépéseket az üggyel kapcsolatban megtesszük. Türelmét és megértését kérve Társaságunk jármûvein kellemes utazást kívánunk Önnek.

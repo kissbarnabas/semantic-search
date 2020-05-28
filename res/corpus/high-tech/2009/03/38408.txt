@@ -1,0 +1,24 @@
+A játékipar is teret enged a cloud-szolgáltatásoknak
+
+Felesleges nagy teljesítményû, drága PC-t vagy újgenerációs játékkonzolt vásárolni, a legújabb, látványos grafikájú videojátékokkal ezek nélkül is lehet játszani, legalábbis ezt ígéri egy amerikai vállalkozás, az OnLive, mely a nagyvállalatok körében manapság egyre népszerûbbé váló cloud-modellt ültetné át a videojátékok piacára. A rendszer mûködéséhez így kliensoldalon elég egy kisebb teljesítményû  -- és értelemszerûen olcsóbb -- hardver, mely a távoli szerverfarmon renderelt játéknak csak a megjelenítésérõl gondoskodik. Mivel a videojátékok -- különösen az online többjátékos játékmódjaik miatt -- rendkívül késleltetéskritikus alkalmazások, az OnLive fejlesztõinek csak mostanra sikerült olyan megoldást találniuk, mely egy pörgõs akciójáték futtatását is lehetõvé teszi a távoli eléréssel (ehhez minimum 1,5 megabit/másodperces sávszélességû internetkapcsolatra van szükség).
+
+
+OnLive MicroConsole: vékonykliens-konzol
+
+A GDC-n tartott bemutatóján az OnLive elsõ embere, Steve Perlman egy MacBookon szemléltette a technológia mûködését. A szakember a Crysis címû akciójátékkal játszott a notebookján, miközben a játék látványelemeit, fizikáját és a mesterséges intelligenciát egy nagy teljesítményû szerver számolta a háttérben. A bemutató, melyet a jelenlévõ szakújságírók többnyire tátott szájjal bámultak, azért számít különösen jelentõsnek, mivel a Crysis 2007-es megjelenésekor többek közt éppen elképesztõ hardverigényével híresült el.
+
+A cég beszámolója szerint a technológia olyannyira piacérett, hogy még idén elindulhat a szolgáltatás, ráadásul a játékkiadóknak (akik közül kilencen már le is szerzõdtek a OnLive-val) is tetszik az ötlet. Nem csoda, hiszen a cloud-alapú videojátékoknál nem kell költeni az adathordozóra (DVD, Blu-ray lemez stb.) és az ahhoz kötõdõ logisztikai költségekre, nem utolsósorban így lehetetlenné válik a játékok lemásolása is, azaz teljesen kiküszöbölhetõ a kalózkodás, az illegális szoftverhasználat.
+
+A konzolokat gyártó nagyvállalatok ugyanakkor aligha fogadják kitörõ lelkesedéssel a OnLive ötletét, mivel a cég terveiben szerepel, hogy a játékokat nem csak PC-vel vagy Mac-kel lehet majd streamelni, hanem egy MicroConsole névre keresztelt, saját gyártású klienssel is. Az apró konzol a tervek szerint HDMI-kimenettel és optikai digitális hangkimenettel is el lesz látva, valamint kontroller is jár majd hozzá. Azt egyelõre nem lehet tudni, mennyibe fog kerülni a MicroConsole, valamint jelenleg arról sincsenek információk, hogy a játékokat pontosan milyen konstrukcióban, mennyiért kölcsönzik majd.
+
+"A második egymilliárd konzolja"
+
+Szintén a GDC-n mutatkozott be elõször a nagyközönségnek a fejlõdõ országok piacára szánt új konzoljáték, a Zeebo, mely teljesen egyedi játékterjesztési rendszert vezet be a piacra. A konzol alapjait a mobiltechnológia adja, a gép lelkét ugyanaz az 528 MHz-es Qualcomm ARM processzor képezi, amely egyebek mellett a Sony Ericsson Xpreria X1-ben is megtalálható. A játékok is a mobilhálózatokon keresztül töltõdnek le a konzolra, ráadásul ehhez elvileg nem is kell a mobilcég elõfizetõjének lenni.
+
+
+Zeebo: szegény ember konzolgépe
+
+
+A külsõre leginkább a világ egyik legsikeresebb játékgépéhez, a Nintendo Wii-hez hasonlító Zeebo képességei alapján valahol az elsõ és a második PlayStation-generáció közé ékelõdik, a cég vezetõje szerint azonban ettõl még nem kell lesajnálni a rendszert, hiszen a célpiacokon a nagyobb tömegeknek esélyük sincs arra, hogy drágább, fejlettebb konzolokhoz jussanak, Brazíliában ezért például még mindig nagy sikernek örvendenek az olyan, több évtizeddel ezelõtt megjelent videojátékok, mint a Sega Megadrive -- mutatott rá a rendszer ismertetése során John F. Rizzo.
+
+A mobiltechnológiát kamatoztató konzol éppen a dél-amerikai ország boltjaiban jelenhet meg elõször, már idén májusban. A játékgép ára 199 dollárnak felel majd meg (a Wii most 250 dollárba kerül), és a fejlesztõk ígérete szerint már a megjelenésekor elérhetõ lesz rá közel 300 játék, köztük olyan átiratokkal, mint a Street Fighter Alpha vagy a Quake. A játékok áráról egyelõre csak annyit tudni, hogy alig kerülnek majd többe, mint a feketepiaci kalózmásolatok (a Zeebo bevezetésével egyben a kalózkodás visszaszorítását is remélik a célországokban). A konzolt -- már amennyiben sikert arat Brazíliában -- még idén piacra dobhatják Mexikóban, jövõre Kelet-Európában is bevezetnék, 2011-re pedig a tervek szerint Kínában is árulni fogják.

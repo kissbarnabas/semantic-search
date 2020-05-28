@@ -1,0 +1,18 @@
+Fejlettebb gyártástechnológiával próbálja visszafogni a chiprészleg veszteségeit a Toshiba
+
+Mobiltelefonoktól kezdve a médialejátszókon át, egészen a szerverekbe szánt flashmemóriás adattárolókig bezárólag szerteágazó felhasználási területekre szánja új, nagykapacitású Single Level Cell (SLC) szervezésû flashmemória chipjeit a Toshiba. 
+
+
+
+A világ második számú NAND flashmemória gyártója jövõre dobja piacra 43 nanométeres gyártástechnológiával készülõ, SLC szervezésû flash chipekbõl álló új termékcsaládját. Az IC-k 512 megabittõl 64 gigabitig terjedõ kapacitással készülnek majd, összesen tizenhat változatban. Az új flashmemóriák közül három (a 16, a 32 és a 64 Gb kapacitású példány) 16 gigabites monolitikus felépítésû chipekbõl áll majd -- a vállalat szerint utóbbiak jelen pillanatban a legnagyobb adatsûrûségû NAND flashmemóriák, igaz, a jövõ év elsõ negyedéve elõtt egyik típust sem dobja piacra a Toshiba.
+
+A Single Level Cell szervezésû NAND flash IC-k egyik jellemzõje a gyors adatelérés, azaz a memóriák nagy sebességgel írhatók és olvashatók, mindemellett a maximális írási és olvasási ciklusok tekintetében is kedvezõbb megoldást jelentenek a Multi Level Cell (MLC) megoldásokhoz viszonyítva. Az SLC chipek ugyanakkor persze drágábbak is, a legtöbb ilyen memóriát ezért zömében a késleltetéskritikus, illetve fokozott adatbiztonságot igénylõ alkalmazási területeken hasznosítják, míg az olcsóbb MLC chipeket többnyire a fogyasztói piacra szánt eszközökbe építik.
+
+Pocsék negyedév a Toshibánál is
+
+
+A Toshiba az újabb, fejlettebb gyártástechnológia bevezetésétõl elsõsorban költséghatékonyabb memóriagyártást vár -- erre, azaz a költségek lefaragására jelenleg úgy tûnik, komoly szüksége van az óriásvállalatnak, mely az idei második pénzügyi negyedévében, elsõsorban a gyengélkedõ chipgyártó részleg miatt újabb veszteségeket volt kénytelen elszenvedni.
+
+A több lábon álló japán mamutvállalat a szeptember 30-án véget ért pénzügyi idõszakra 26,85 milliárd jenes veszteséget termelt, szemben az egy évvel ezelõtti, 25,03 milliárd jenes nettó profittal. A cég teljes árbevétele ezzel együtt éves szinte 7 százalékkal csökkent (1,87 billió jenre), üzemi profitja pedig 707 millió jenre olvadt a tavalyi 61,3 milliárd jenrõl.
+
+A japán ipari óriás szeptember közepén a memóriaárak összeomlására hivatkozva felére csökkentette éves szinten várható profitját, a Toshiba így a márciusban véget érõ pénzügyi évben 70 milliárd japán jen nettó profittal számol az áprilisban prognosztizált 130 milliárd jen helyett. A cég ezzel együtt 8-ról 7,7 billió jenre csökkentette az üzleti évre vonatkozó forgalmi elõrejelzését is, illetve 290-rõl 150 milliárd jenre módosította a várható üzemi eredményt.

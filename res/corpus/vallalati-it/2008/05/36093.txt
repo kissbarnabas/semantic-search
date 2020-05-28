@@ -1,0 +1,29 @@
+Egyszerre frissítette vállalati Linuxát a Red Hat és a Novell
+
+Mintha csak összebeszéltek volna, a Red Hat és a Novell egyszerre jelentették be vállalati Linux-disztribúcióik frissítését. A Novellnél ez a SUSE Linux Enterprise 10 második javítócsomagjának megjelenését jelenti, a Red Hatnél pedig a Red Hat Enterprise Linux aktuális verziószámának 5.2-re növekedése jelzi az újdonságok érkezését. Mindkét cég nagy hangsúlyt helyezett a virtualizációra és a hálózati képességek csiszolására, de nem feledkeztek meg a desktop-felhasználókról sem.
+
+
+
+Újdonságok a SUSE Linux Enterprise SP2-ben
+
+A Xen 3.2-es verziójának beépítésével a SUSE Linux Enterprise Server 10 SP2 olyan képességekkel bõvült, mint a Windows Server 2003 és Windows Server 2008 futtatása virtuális gépként, illetve ezek migrálása mûködés közben egyik fizikai szerverrõl a másikra. A nagy rendelkezésre állású fürtözött rendszerek építését a Heartbeat 2 és az OCFS2 (Oracle Cluster File System for Linux 2) megjelenése segíti. A SLES10 SP2 hálózati menedzsment-eszközei teljes támogatást biztosítanak IPv6 környezetekhez, emellett a szervizcsomag a korábbinál még több hálózati eszköz, tárolók és más hardver számára tartalmaz meghajtóprogramokat, beleértve az IBM kriprográfiai eszközeit is.
+
+A rendszergazdák életét hivatott megkönnyíteni a hamarosan érkezõ Subscription Management Tool, amely a frissítések, javítások központi felügyeletét és terjesztését látja el úgy, hogy közben szem elõtt tartja a vállalati biztonsági szabályokat. Az SMT lehetõvé teszi, hogy az összes SUSE Linux Enterprise 10 SP2-t futtató asztali gép és szerver egyszerre kapja meg a szükséges frissítéseket, azokat nem szükséges minden egyes gépre külön-külön letölteni és telepíteni, amivel jelentõs sávszélesség takarítható meg, illetve a biztonsági rendszabályok is szigoríthatók, hiszen a PC-k nem fognak egyenként "kikérezdkedni" a hálózaton.
+
+A vállalati PC-kre sáznt SUSE Linux Enterprise Desktop 10 az SP2 révén már támogatja az NTFS fájlrendszert használó meghajtókat, a Network Manager frissítése révén a mobil szélessávú eszközöket, valamint további hardvereket. A Novell emellett javított az Active Directory integráción is, valamint továbbfejlesztette az OpenOffice.org irodai csomagot, az SP2-ben ennek már a 2.4-es verziója található meg a Novell kiegészítéseivel együtt, amelyek például biztosítják egyes VBA makrók futását a Calban, videók és hangok beágyazását az Impress prezentációkban, illetve az Office Open XML állományok megnyitását és mentését.
+
+A SUSE Linux Enterprise 10 SP2 bejelentésével párhuzamosan a Novell azt is közölte, hogy következõ generációs operációs rendszere, a SUSE Linux Enterprise 11 várhatóan 2009 elsõ felében válik elérhetõvé. A SUSE 11-rõl a márciusi BrainShare konferencián kezde el az elsõ információkat csepegtetni a cég. A fõ fejlesztési csapásirányok: jobb megbízhatóság és rendelkezésre állás üzletkritikus környezetek számára, egyszerûbb migráció UNIX-ról, virtualizáció, Windows-kompatibilitás, és energiatakarékosság.
+
+[+] Novell: A SUSE 11 lesz a legmegbízhatóbb operációs rendszer  
+
+Red Hat Enterprise Linux 5.2
+
+A Red Hat Enterprise Linux (RHEL) 5.2 legfontosabb újdonságai közé tartozik, hogy még nagyobb rendszereken mûködhet virtualizációs platformként. Ennek érdekében a fejlesztõk lehetõvé tették, hogy a korábbi 8 processzoros helyett akár egy 64 processzoros, 512 gigabájt memóriát tartalmazó NUMA szerveren is mûködjön az RHEL, amelyen a korábbinál még több kiszolgálók konszolidálhatnak azok a vevõk, akik ilyen méretû gépekkel rendelkeznek. További újdonság a virtualizáció területén, hogy a vendég operációs rendszerek számára elérhetõ hálózati csatolók száma már nincs 3-ban maximálva.
+
+A Red Hat mérnökei emellett továbbfejlesztették a fürtözési képességeket és javítottak az alkalmazások átterhelõdésén, ez összességében nagyobb rendelkezésre állást és stabilabb mûködést jelent a Red Hat Enterprise Linuxot használó adatközpontok üzemeltetõi számára. A Red Hat Enterprise Linux 5.2 felhasználói azt is megtapasztalhatják, milyen érzés 32 bites virtuális gépeket futtatni 64 bites környezetben, mivel az RHEL 5.2 már erre is lehetõséget ad, leegyszerûsítve a P2V (physical to virtual) szervermigrációt.
+
+
+ Ami a biztonságot illeti, a SUSE 10 SP2-höz hasonlóan egy új API-n keresztül a RHEL 5.2 is lehetõvé teszi a kernel-alapú kriptográfiai feladatok (pl. diszk-titkosítás vagy IPsec) hardveres gyorsítását, emellett megjelent a 256 és 512 bites SHA jelszótitkosítás, valamint az RFC4303 elõírásnak megfelelõ auditálások támogatása. A Red Hatnél (Fedora) tavaly november óta alapértelmezett syslogd, az rsyslog újabb naplózási lehetõségekkel bõvült. Említésre méltó még a javított IPv6-támogatás, az 5.2-es változatban már DHCPv6-kliens és -szerver is helyet kapott, amivel leegyszerûsödik az IPv6-ra való átállás.
+
+Desktop oldalon a RHEL 5.2 legfontosabb fejlesztésének a népszerû nyílt forrású asztali alkalmazások legújabb verzióinak megjelenése tûnik, így az operációs rendszer frissített változatában már a Firefox 3, az OpenOffice.org 2.3, a Thunderbird 2.0, valamint az Evolution 2.12.3 található meg. Aki noteszgépen futtatja a Red Hat Enterprise Linux 5.2-t, a hibernálás, suspend és resume funkciók még jobb támogatásának örülhet, valamint néhány frissített grafikus meghajtóprogramnak is -- az Intel chipsetbe integrált vezérlõinek drivere is megújult.
+

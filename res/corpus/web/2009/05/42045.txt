@@ -1,0 +1,81 @@
+Csodakerék és idõegyenes a Google keresõben
+
+Varázslat, klikkelésre
+
+
+
+A tegnap debütált szolgáltatások közül az elsõ és talán legfontosabb is, a "Search Options", ami a keresési találatok mellé lenyíló menüt jelent, ahol a találati listát anélkül lehet finomítani, hogy újra kellene definiálni a keresést vagy vissza kellene lépni. A "Slice and dice", azaz szeletel és kockára vág módszer lényege, hogy a felhasználó szokás szerint beírja a keresõbe amire kíváncsi, majd ha elégedetlen a találatokkal, akkor tovább barangol a találatok között, kapcsolók, extra parancsok és újratöltés nélkül.
+
+
+
+
+
+Csak neked!
+
+
+
+
+Az Options menü lenyitásával a találatok szûrhetõvé válnak kategóriák szerint, jelenleg ez azt jelenti, hogy külön listázhatjuk a videókat, a fórumokat, illetve a bemutatókat, leírásokat, teszteket (termékek esetén). A második fokozat az idõ szerinti szûrés, ahol alapesetben az elmúlt nap, hét illetve év lehet a választás alapja, de a videók esetén ez kiegészül még a tartalom hosszával is. Megadható, hogy a négy percnél rövidebb, a 4 és 20 perc közti hosszúságú vagy az annál is tovább tartó mozgóképekbõl szelektáljon a keresõ.
+
+
+
+
+Több szöveg vagy több kép?
+
+
+
+
+A további opciók között a felhasználó választhat, hogy a találatok a megszokott módon jelenjenek-e meg, vagy mutassa az adott oldalakon található képeket. Bekerült egy olyan beállítás is, ami az eddigiekhez képest sokkal több szöveget mutat meg a link mögül, így könnyebb eldönteni, hogy a kulcsszavak egyezésén túl valóban releváns-e a tartalom.
+
+
+
+
+Az opciók állításával párhuzamosan azonnal változik a találati lista, ami leginkább az utolsó két extra lehetõség esetén érdekes. Az egyik a Wonder wheel, a másik pedig a Timeline. A Google News kapcsán már bemutattuk a Timeline funkciót, ami a híreket megjelenési idejük szerint rendezi, s ki lehet keresni adott idõpontokat, vagy megvizsgálni, hogy mikor milyen aktivitás jellemezte az adott témát. Most ugyanez a funkció bekerült a normál keresõbe is. 
+
+
+
+Csodakerék 
+
+Idõegyenes és Csodakerék
+
+
+
+
+Ezt kiválasztva egy hosszú, évekre bontott idõegyenes jelenik meg, aminek egyes részeibe belekattintva egyre aprólékosabb felbontásban jelennek meg az idõszakok, egészen a havi részletességig. Az idõegyenesen grafikusan ábrázolva látszik, hogy mikor milyen intenzitással jelentek meg tartalmak az adott kereséssel kapcsolatban. Ez jó arra is akár, hogy egy esemény dátumát beazonosítsuk, vagy periodikus események korábbi stációira szûkítsük a találatokat. 
+
+
+
+
+
+
+
+
+
+A másik említett találmány, a Wonder wheel pedig egy lépéssel közelebb segít ahhoz, hogy a keresõ megértse, mire is kíváncsi a felhasználó. A keresett kifejezés bekerül egy körbe, melyhez releváns kifejezéseket kapcsol, amivel pontosítani, terelni lehet a keresést. Így lehet könnyedén eljutni Párizstól 5 lépcsõben a provance-i csirke receptjéhez. Nem kell feltétlenül az elején tudni, hogy mit szeretnénk, a felkínált 3-6 kapcsolódó kifejezés segítségével jól lehet navigálni. Ráadásul bármikor vissza lehet lépni akár több szintet is és más irányokba elindulni. A grafikus ábrázolás egyszerû, de nagyban segíti a felhasználót.
+
+
+Idõegyenes 
+
+
+
+
+Fejleszthetõ területek
+
+
+
+
+Az új keresési opciók mellett megjelent a találati mezõnél is néhány újítás, például a "Rich Snippets", ami a nagyobb szájtokra mutató találatok mögötti adatbázisokból kinyert információkat jeleníti meg. Ha például egy termékteszt vagy értékelés rejtõzik a link mögött, akkor a Google megpróbálja kibányászni az értékelést és megjeleníteni azt már a találati oldalon. Ha pedig egy kereskedelmi weboldalra mutat a link, akkor az árat és egyéb alapinformációkat mutat meg. 
+
+
+
+
+
+
+Ez a funkció szintén vitathatatlanul hasznos, igaz ehhez a Google algoritmusának is fejlõdnie kell, illetve a webszájtok készítõinek is fel kell nõnie a feladathoz és egy újabb szempontból kell hozzáigazítani a tartalmat a Google módszereihez. A magyar felhasználók számára viszont egy ideig ez utóbbi funkció teljesen érdektelen, a fentebb bemutatott keresési opciók viszont hasznosak lehetnek, igaz a lokalizáció elkészültéig csak a felületet angol nyelven használók számára.
+
+
+
+Klikk a képre a teljes Searchology konferenciához! 
+
+
+A tegnapi Searchology rendezvénnyel kapcsolatban további részletes leírások Alex Chitu, nem-hivatalos Google blogjában olvashatóak, illetve a teljes elõadássorozat, a hozzá tartozó prezentációs anyaggal együtt utólag is megtekinthetõ az alábbi linken..		

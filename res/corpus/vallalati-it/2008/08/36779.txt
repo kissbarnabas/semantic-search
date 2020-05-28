@@ -1,0 +1,14 @@
+Megérkezett az EMC legújabb hálózati tárolója, a Celerra NX4
+
+Az év elején megújultak az EMC csúcskategóriás Symmetrix tárolói, pár hete a vállalat bejelentette a középkategóriá Clariion vonal frissítését, most pedig megérkezett a Celerra NAS-család legújabb tagja.
+
+
+
+A Celerra NX4-et az EMC kis- és középvállalatoknak, illetve nagyvállalatok helyi irodáinak ajánlja, leginkább fájlszerverek és FC- vagy iSCSI-felületû hálózati tárolók konszolidációjára. A megcélzott vevõkör igényeit szem elõtt tartva a Celerra telepítéséhez nem szükséges informatikai szakértelem, a vállalat ígérete alapján akár 15 perc alatt üzembe helyezhetõ, a felügyelet pedig egy webes felületen történik, amelyet természetesen távolról is el lehet érni. A Celerra Manager a konfigurálás megkönnyítésére számos elõre tárolt "varázslót" és automatikus kötetkezelõt is tartalmaz, így az egyszerû, hétköznapi feladatok néhány kattintással elvégezhetõk.
+
+
+ A nemrég piacra került Clariion AX4 architektúrájára építkezõ Celerra NX4 család is tartalmazza a "thin provisioning" technológiát, amely a rendelkezésre álló tárterület hatékony felhasználását célozza. A módszer lényege, hogy a tárolóeszköz az alkalmazások és a felhasználók számára a tényleges fizikai kapacitásánál nagyobb köteteket is tud láttatni. Hasonlóan a Clariion AX4-hez, az NX4 is rendelkezik helyi (SnapSure) és távoli (EMC Celerra Replicator) replikációs funkcióval az adatok biztonságos védelmére -- mondta a HWSW-nek Godányi Géza, a cég hazai képviseletének munkatársa. 
+
+
+
+A SATA és SAS diszkeket egyaránt kezelni képes Celerra NX4 már 60 merevlemezt fogad, így lehetõvé teszi többrétegû ("tiered") tárolási architektúra kialakítását, ezáltal a vevõk a költségek, teljesítmény és energiafogyasztás szem elõtt tartásával teljesen egyedi konfigurációkat állíthatnak össze. A Celerra NX4 windowos, linuxos, UNIX-os és természetesen vmware-es környezetben vethetõ be. A tároló már rendelhetõ az EMC-tõl, az ára 20 ezer dollártól indul, bár ennyiért csak a 4 terabájtos kapacitású alapmodell kapható.

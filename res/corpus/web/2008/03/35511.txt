@@ -1,0 +1,14 @@
+Webalkalmazások netkapcsolat nélkül már mobilon is: itt a Google Gears Mobile
+
+Mobil változatban is elkészítette a Gearst a Google, ami azt jelenti, hogy a cég -- vagy más fejlesztõk -- mobilos alkalmazásai hamarosan akár élõ adatkapcsolat nélkül is használhatók lesznek.
+
+
+
+A Google Gears gyakorlatilag egy plugin a legismertebb böngészõkhöz, amely JavaScript API-k segítségével biztosítja az adatok cache-elését, valamint az webalkalmazások mûködéséhez szükséges erõforrások lokális tárolását. Természetesen ez azt jelenti, hogy a webalkalmazások fejlesztõinek módosítaniuk kell a programjaikat, ha azt szeretnék, hogy kapcsolat nélkül is mûködjenek. A Google várhatóan rövid idõn belül átalakítja népszerû webalkalmazásait, hogy azokat a Gears segítsévével offline is lehessen használni, így aztán például akkor is levelezhetünk a Gmaillel vagy szerkeszthetünk szöveget vagy táblázatokat a Google Docs-szal, ha éppen nem kapcsolódunk az internetre.
+
+A Google Gears három elembõl áll: egy böngészõben futó lokális webszerverbõl, a nyílt forrású SQLite adatbázisból, valamint olyan böngészõ-kiegészítésekbõl, amelyek lehetõvé teszik több JavaScript párhuzamos futtatását. A Google Gears segítségével a felhasználók akkor is használhatják webalkalmazásaikat, ha az internetkapcsolatuk szakadozik vagy ha -- például utazás közben -- egyáltalán nem csatlakoznak az internethez. A Google Gears mobil verziója egyelõre csak Pocket Internet Explorer  böngészõt támogat Windows Mobile 5 és Windows Mobile 6 platformon, de hamarosan várható további böngészõk támogatása is.
+
+
+A Zoho webes szövegszerkesztõ mobil változata máris támogatja a Google Gears Mobile-t, így a felhasználók akár kapcsolat nélkül is elérhetik a dokumentumaikat. A "Go Offline" menüpontra kattintva az elsõ alkalommal letöltõdik és települ a telefonra a Google Gears Mobile, innentõl fogva az erre felkészített alkalmazások már mûködnek élõ netkapcsolat nélkül is. Offline módban ugyanúgy használhatjuk tovább a webalkalmazást, az esetleges változásokat pedig a következõ csatlakozáskor "élesíti" a rendszer.
+
+A Google Gears Mobile iránt érdeklõdõ fejlesztõk a Google weboldalán kaphatnak információt arról, hogyan készítsék fel webalkalmazásaikat az offline mód támogatására.

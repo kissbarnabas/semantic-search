@@ -1,0 +1,16 @@
+Feladta az NVIDIA és a VIA a saját netbookplatform fejlesztését
+
+[DigiTimes/HWSW] Egyre több jel utal arra, hogy a tajvani VIA Technologies teljesen kiszorul az egyre nagyobb forgalmat produkáló netbook-piacról. A cég nemrég gyakorlatilag elvesztette egyik legfontosabb stratégiai gyártópartnerét, a legfrissebb sajtóértesülések szerint pedig hallgatólagosan elismerte, hogy feladta az NVIDIA-val közös ambiciózus tervét, ami egy saját netbookplatform kifejlesztését tûzte ki zászlajára.
+
+
+
+Mostanra bebizonyosodott, hogy netbookfronton senki nem képes versenyképes ellenfelet állítani a kifejezetten ennek a szegmensnek az igényeit szem elõtt tartó, hatalmas sikernek örvendõ Intel Atomnak. Az AMD gyakorlatilag elaludt a netbook-éra hajnalán, a VIA pedig próbálkozott ugyan, de mivel alaposan elkésett szép reményû megoldásával, a Nanóval, most már szinte biztosan látszik; nem tudja megvetni a lábát a piacon.
+
+A vállalat alacsony fogyasztású, ugyanakkor rendkívül visszafogott teljesítményû C7-M processzorára a nagyobb gyártók közül egyedül a HP épített netbookot, a 90 nanométeres chip teljesítménye azonban a HWSW tesztje szerint elégtelen a mindennapi feladatokhoz, olyannyira, hogy már egy Youtube-videó is nézhetetlen rajta. A HP valószínûsíthetõen eredetileg a processzor utódját, a Nanót szánta a kis gépbe, a lapkát azonban nem tudta idõben szállítani a VIA, és bár most már javában folyik a gyártás, minden jel szerint nagyobb volumenben továbbra sem tudják prezentálni a chipet a tajvaniak.
+
+HP Mini 1000: már Atom processzorral
+
+
+A HP alighanem a fentiek hatására döntött végül úgy, hogy Mini 1000-es sorozatú, év végén, illetve jövõ év elején érkezõ netbookjait már az Intel nagysikerû Atom processzoraival szereli. A VIA helyzetét tovább ronthatja, hogy a cégnél helyi lapértesülések szerint úgy döntöttek, hogy feladják azt a korábbi tervet, melynek célja egy komplett netbook, nettop platform létrehozása volt az NVIDIA-val karöltve. A platformhoz az eredeti, áprilisban megszellõztetett tervek szerint a VIA szállította volna a processzort (C7 vagy Nano), az NVIDIA pedig az olcsó, energiatakarékos lapkakészletet (MCP79).
+
+A DigiTimes belsõs információi szerint a VIA és az NVIDIA ugyan felfüggesztette a közös netbook-platform fejlesztését, a két cég továbbra is együttmûködik különféle, pontosan meg nem határozott PC-s megoldások fejlesztésében. Ennek elsõ gyümölcseit a januári CES kiállításon láthatja majd a nagyközönség.

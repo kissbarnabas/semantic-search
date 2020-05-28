@@ -1,0 +1,28 @@
+Fogyókúráznia kell a Firefoxnak
+
+A Mozilla képviselõi hivatalosan is beismerték, hogy a Firefox továbbra is egy olyan monolitikus szerkezetre épül, ami a fejlesztések ellenére instabilitáshoz és kielégíthetetlen memóriaéhséghez vezet. A böngészõversenyben eközben soha nem látott tülekedés indult meg az asztali és a mobil frontokon is. Az Európában egyértelmû favoritnak számító  Firefox kellemetlen jövõ elé nézhet, hiszen a Microsoft Internet Explorer mellett az Apple és a Google is szép és gyors böngészõkkel támadja.
+
+
+
+Beismerik, hogy elhíztak
+
+Ben Galbraith, a Mozilla fejlesztõi részlegének egyik igazgatója blogjában arról ír, hogy a böngészõk az évek során a weboldalak tartalmát leképezõ, megjelenítõ programból egy alkalmazásfuttatási környezetté váltak. Ahogy haladunk az idõben, egyre inkább olyan funkciókat is képesek ellátni a böngészõk és a bennük futó alkalmazások, mint egy operációs rendszer. Talán ez arra is magyarázat, hogy a Microsoft miért is akarta kivégezni a Netscape-et anno vagy miért igyekszik megtartani az IE fölényét. 
+
+Galbraith ezt a fent említett evolúciót leginkább a Google-féle, közel asztali program minõségû alkalmazásoknak és a Google Chrome alkalmazásfuttatási környezetként való aposztrofálásának tulajdonítja. A Chrome megjelenése a Mozilla számára viszont a technológiai dolgokon túl is számos kérdést felvetett, például a Google és a Mozilla közös jövõjét illetõen.
+
+Mozilla és Google -- barátok és ellenségek egyszerre
+
+A két szervezet közti súrlódásokról sokan beszélnek, de ezeket a hangokat, csakúgy, mint magát a konfliktust, elcsendesíti a tény, hogy a Mozilla Alapítvány bevételeinek szinte egésze a Google-keresõ integrálásából származik. Az egyetlen megoldás a Mozilla számára tehát, ha visszaugrik a technológiai verseny elsõ helyére, megtartja felhasználóit és szép csendben gyûjtögeti a pénzt a Google, Microsoft, Yahoo triótól.
+
+
+ Ez viszont nem lesz egyszerû, annak ellenére, hogy éveken keresztül vitték a böngészõinnováció zászlaját. A már történelminek is nevezhetõ mûszaki, technológiai elõny elolvadt, ahogy bemutatkozott a Chrome 2, a Safari 4 illetve az Internet Explorer 8. A verseny ma pedig már nem egyszerû böngészõfunkciókról szól, hanem a külön kezelt folyamatokról, védett böngészõfülekrõl, memóriatakarékosságról, gyors JavaScript-kezelésrõl.
+
+A kiegészítõk tehetnek mindenrõl
+
+A Firefox viszont épp ezekben nyújt gyenge teljesítményt. A fürge róka  ma már a leglassabbak egyike, a türelmes és kitartó felhasználók pedig leginkább azért nem váltanak, mert nem tudnak lemondani azokról a funkciókról, amelyeket csak Firefox alatt futó kiegészítõként érhetõek el, ilyen például az Ubiquity, NoScript, Adblock vagy a Gmail Manager jelent.
+
+A túlzott memóriaéhség, a nehézkesség és az instabilitás problémáit viszont éppen ezek a kiegészítõk okozzák. Gyakran elõfordul, hogy a rosszul megírt plugin megdöbbentõ mértékben zabálja fel a memóriát vagy lassítja le a megjelenítést, így a szûz telepítés után végzett szintetikus tesztek eredményeihez képest egészen mást látnak a felhasználók. Hiába a Firefox funkciógazdagsága, ha vele szemben a kecses Chrome  tizedmásodpercek alatt szökell egyik AJAX-alkalmazástól a másikig jóval kevesebb rendszermemóriát elfoglalva.
+
+A mobil reményt adhat
+
+ A Mozilla reménye a fogyókúra mellett a fejlesztés a kódnéven futó mobil Firefox lehet. Mivel a mobil Internet Explorer, illetve az Opera sem tette túl magasra a lécet, Chrome Light pedig még csak Androidon van, ezért egy jól eltalált programmal learathatják az egyébként prosperáló okostelefon piacot.

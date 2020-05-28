@@ -1,0 +1,10 @@
+Túlszámlázás helyett lassít a Vodafone
+
+A Vodafone május 2-tól, szombattól három új mobilinternet-csomagot vezetett be, melyeknél a kiszámítható, fix költségeket hangsúlyozza. A havi elõfizetési díj ellenében egy meghatározott adatmennyiség forgalmazható a számlázási idõszakban, ezt túllépve viszont nem horrorisztikus felárakért számolja a kilobájtokat a cég, hanem 64 kbps-re csökkenti a sávszélességet -- ez alig haladja meg a régi betárcsázós kapcsolatok sebességét.
+
+
+ Ez a gyakorlatban azt jelenti, hogy a keret kitöltéséig mûködik az ígért elméleti 7,2 Mbps, utána viszont a sebesség 829-ed részére esik vissza, így egy óra alatt elméletben is csak 32 megabájt adat, tehát egy hosszabb YouTube videó tölthetõ le. A feltöltés pedig még ennél is alacsonyabb, 16 kbit/s sebességre csökken, ami legfeljebb e-mailek elküldéséhez elég.
+
+Az extra díj számlázása helyett bevezetett korlátozás viszont még mindig a laikus felhasználók számára is legkönnyebben átlátható és elfogadható megoldás. A Vodafone ezzel kivédi a Nemzeti Hírközlési Hatóság által nemrégiben megfogalmazott kritikák egy részét: az NHH egyes mobil adatcsomagokkal egy átlagos weboldal megtekintése is akár több tíz forintba kerülhet.
+
+A három új csomag egyébként minimálisan feljebb lépett a letölthetõ adatmennyiségek tekintetében is, a Basic 4000 forintért 2 gigabájt forgalmat, a Medium 6000 forintért 6 gigabájtot, míg az Extra elnevezésû csomag 8000 forintért 12 giabájt adat áttöltését teszi lehetõvé normál sebességen. A korlátozás aktiválása automatikus és az ígért sávszélesség ilyenkor nem hozzávetõleges, hanem fix, maximum 64/16 kbps. A HWSW kérdésére a Vodafone elmondta azt is, hogy a három új csomag bevezetése nem jelenti azt, hogy eltûnne a legkisebb 1 Gbyte-os csomag, az továbbra is a korábbi feltételekkel vehetõ igénybe.

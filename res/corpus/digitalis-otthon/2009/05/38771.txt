@@ -1,0 +1,33 @@
+Kitiltaná a Skype-ot a Microsoft hamarosan induló alkalmazás-piacterérõl
+
+12 pont
+
+Tizenként pontból álló listába gyûjtötte össze a Microsoft a kizáró okokat, melyek miatt megtagadhatja az alkalmazások feltöltését a  Marketplace rendszerébe. A listát fejlesztõk ezrei várták, hiszen a Windows Mobile 6.5 megjelenésével egyszerre induló piactér az egyik legfontosabb és valószínûleg a legnagyobb forgalmú szoftverterjesztési felület lesz a Windows Mobile platformhoz. A Microsoft feltételezhetõen szeretné a lehetõ legjobb szoftvereket elérhetõvé tenni egy helyen, viszont a saját elvárásai mellett látszik, hogy több ponton a mobil operátorok nyomásának is enged.
+
+Az Apple gyakorlatához képest viszont még mindig jóval korrektebb a Microsoft, hiszen jó elõre részletesen megadja a kereteket, ellentétben az Apple "fekete doboz" gyakorlatával, ahol nem mindig lehet tudni, hogy milyen okból kifolyólag utasítanak el egy jelentkezõt, sõt ahol csak kicsit rezeg a léc, azt a programot inkább el sem bírálják, s beszámolók szerint idõtlen-idõkig a várakozó listán marad. A lista tartalma viszont kicsit sem megengedõbb, mint ami az Apple gyakorlatából kikövetkeztethetõ. A fejlesztõk egy része így szomorkodhat és törheti a fejét, hogyan tegye meglévõ alkalmazásait kompatibilissé a Microsoft szabályaival. 
+
+Tilos a mobilszolgáltatók bevételeinek csökkentése
+
+A legnagyobb visszatetszést alighanem a lista negyedik pontja jelenti majd, mely kimondja, hogy nem tölthetõ fel olyan alkalmazás, mely VoIP-szolgáltatás nyújtására képes a mobilszolgáltató hálózatán keresztül. Tehát a Skype és minden egyéb VoIP-kliens kizárólag Wi-Fi kapcsolaton keresztül mûködhet, amennyiben szeretne megjelenni a Microsoft hivatalos és támogatott alkalmazás piacterén.
+
+
+ 
+
+Ennek alapján a Skype ki is esik a kedvezményezettek közül, annak ellenére, hogy jelenleg is elérhetõ a Skype Mobile 2.5 verzió, ami a Wi-Fi mellett 2G/3G kapcsolaton keresztül is kínál VoIP-szolgáltatást. A piactérre valószínûleg a beszélgetést nem, de az üzenetküldést lehetõvé tévõ Skype Lite változat kerülhet be csupán, illetve elõfordulhat, hogy megjelenik az iPhone-változathoz hasonlóan csak Wi-Fi-t támogató változat.
+
+Az Apple esetében a nem támogatott, nem elfogadott programok számkivetetté válnak, s csak azok használhatják õket, akik "jailbreakelik", feltörik a készüléket, hisz egyébként kizárólag az Apple App Store-on keresztül lehet programokat telepíteni az iPhone-okra. A Windows Mobile esetében a telepítés szabadsága szerencsére megmarad, így feltételezhetõen nem tûnnek el az alternatív fejlesztések, sõt a készülékkel sem kell trükközni a Microsoft által nem támogatott alkalmazások használatához.
+
+Maradjanak a windowsos felületek
+
+A VoIP-tiltás mellett a másik érdekes korlát, hogy egyetlen szoftver sem rendelkezhet 10 megabájtnál nagyobb telepítõvel, ami a legtöbb esetben valóban extrém méretnek minõsül, de elõfordulhat olyan multimédiás alkalmazás vagy mobiljáték, ami jogosan haladná meg a limitet, s feltételezhetõen a telepítést követõen offline mûködik.
+
+Olyan program sem kerülhet a piactérre, ami megváltoztathatja az alapértelmezett böngészõt, keresõt vagy médialejátszót. Nem egyértelmû a tiltás, hogy egyáltalán nem lehet ilyen funkciója konkurens termékeknek sem vagy a telepítéskori automatikus átállítást nem engedélyezi a Microsoft. Amennyiben az elõbbi is igaz, akkor a legtöbb böngészõ és zenelejátszó jelenlegi verzióit alapból kizárták. Ugyanígy nem lehet megváltoztatni, lecserélni vagy eltávolítani a Windows Mobile tárcsázót, illetve SMS/MMS interfészt sem, ami a kezelõfelületet lecserélõ shellek fejlesztõinek okozhat fejtörést.
+
+Nem szabad továbbá az alkalmazásoknak a felhasználó beleegyezése nélkül a tartózkodási hely koordinátáit elérhetõvé tenni, illetve általában bármilyen személyes adatot publikálni anélkül, hogy a felhasználó elõzetesen ne engedélyezte volna azt. Ez vonatkozik a kontaktinformációkra, fényképekre, szöveges kommunikációra, böngészõ elõzményekre, legyenek azok a telefonon vagy a cloudban tárolva.
+
+
+A teljes lista letölthetõ a Microsoft oldalairól, s a fejlesztõknek érdemes átértékelni tervezett vagy már létezõ programjaikat, hiszen a redmondi cég már fogadja a jelentkezéseket a Marketplace-en az értékesítendõ alkalmazásokra. A Windows Mobile platformra ugyan jelenleg is sok ezer alkalmazás létezik, de ezek a világhálón szétszórva találhatóak jelenleg.
+
+Kevés szoftvert telepítenek Windows Mobile-ra
+
+A ComScore felmérése szerint az Apple iPhone-felhasználók 59 százaléka telepített utólag valamilyen programot készülékére, ami több mint ötször annyi, mint az átlagos mobil használók, illetve több mint kétszer annyi, mint a Windows Mobile felhasználók esetében. A néhány hónapon belül várható start jó hatással lehet erre az arányra a Microsoft szempontjából, s a cég versenybe szállhat az Apple, Google és a RIM mellett. A Nokia és a Palm alkalmazás- piacterei szintén fejlesztés alatt vannak, így idén év végére akár teljes is lehet a paletta.

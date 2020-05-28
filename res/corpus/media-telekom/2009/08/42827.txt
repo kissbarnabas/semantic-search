@@ -1,0 +1,12 @@
+Bõvítik a hazai mobiltelefon-hívószámokat
+
+Egy mobiltelefon-hívószám az elõírások szerint 06-os belföldi, vagy +36-os nemzetközi elõhívóból, a szolgáltató kétjegyû körzetkijelölõ számából (20/30/70), valamint a hétjegyû elõfizetõi számból áll - jövõ év elejétõl ezek mindegyikét be kell billentyûzni másik mobilszám hívásakor, illetve értelemszerûen át kell írni minden olyan telefonszámot a mobilkészülék névjegyzékében, mely csak hét számjegyet tartalmaz.
+A változással egyetlen telefonszám sem módosul - hívja fel a figyelmet a hatóság -, ezzel azonban elkerülhetõ lesz többek közt az a helyzet, hogy a számhordozás után valaki egy másik mobilelõfizetõt hívjon fel a telefonjegyzékében tárolt hétjegyû számot tárcsázva. Belföldön gyakorlatilag mindegy, hogy a hét számjegy elé a +36 országhívó, vagy a 06-os belföldi elõhívó kerül, külföldön azonban szolgáltatótól függõen csak a Magyarországot jelölõ +36-os országhívó használható, ezért javasolt ebben a formátumban tárolni a késõbbiekben a számokat.
+
+Ezzel együtt január közepétõl életbe lép az a változás is, mely engedélyezi a mobilszolgáltatóknak, hogy az általuk kiadott hétjegyû elõfizetõi számok 0-val, vagy 1-gyel is kezdõdhessenek. A bõvítés azért vált szükségessé, mert jelenleg a három magyarországi mobilszolgáltató közel 12 millió hívásfogadásra alkalmas SIM-kártyával rendelkezik, és hamarosan elfogynak a kiosztható számok.
+Szintén a potenciálisan elérhetõ számok körének bõvítését jelenti, hogy a jövõben a 20/30/70-es szolgáltatói szám mellett a jelenleg nem használt 31-es mezõben is kiadhatóak lesznek mobiltelefonszámok, amennyiben ezt valamelyik mûködõ szolgáltató igényli, vagy ha saját hálózattal nem rendelkezõ, virtuális mobilszolgáltató lépne a magyar piacra.
+Legutoljára 1998. szeptemberében hajtottak végre a mobilszámokat érintõ jelentõs változásokat hazánkban. A T-Mobile és a Pannon GSM akkor a Hírközlési Fõfelügyelettel egyeztetve vezette be a jelenlegi hétszámjegyû rendszert úgy, hogy minden meglévõ hívószám elé eleinte egy 9-es számjegyet illesztettek. A magyarországi mobil hívószámok kezdetben ötjegyûek voltak, a Westel Rádiótelefon Kft. 1992-ben vezette be a hatjegyû számbõvítést.	     
+                  
+                  
+                  
+                   

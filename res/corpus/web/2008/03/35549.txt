@@ -1,0 +1,14 @@
+Egyre gyakoribbak a széleskörû támadások a weboldalak ellen
+
+[Techworld] A McAfee legújabb figyelmeztetése szerint ismét rengeteg weboldalt fertõztek meg feltehetõen kínai hackerek, ismét több mint tízezer weboldalba jutatták be kódjukat. Ez a kód kártékony programokat, jelszólopó alkalmazást, trójaikat próbál meg letölteni a számítógépünkre. 
+
+
+
+A módszer kísértetiesen hasonlít a január végi fertõzésre, amikor szintén hasonlóan nagyszámú, megbízhatónak tartott weboldalba juttatták be Javascript kódrészleteiket a támadók. A jelenlegi támadás is a böngészõk már befoltozott biztonsági réseire épít, így azok a felhasználók, akik folyamatosan frissítik böngészõjüket és egyéb alkalmazásaikat -- és víruskeresõt is használnak -- védettek a támadások ellen.
+
+A McAfee kutatói elsõként tegnap reggel észlelték a széleskörû támadást, melyet a terjedés ütemébõl, a néhány óra alatt több mint 10 ezer megfertõzött weboldalból ítélve valószínûleg automatizált robotok végeznek. Egyre inkább bevett szokás, hogy a támadható -- például adott, sérülékenységgel bíró fórumszoftvert futtató -- weboldalakat a Google segítségével, robotokkal keresik fel, majd támadják meg. A McAfee jelenleg megbecsülni sem tudja a tegnap reggel óta megfertõzött weboldalak összesített számát.
+
+
+A módosított oldalak teljesen ugyanúgy néznek ki, mint korábban, a forráskódban elhelyezett, láthatatlan Javascript kód azonban kínai szerverekrõl próbál meg jelszólopó alkalmazást letölteni és futtatni. Ez a kártékony szoftver számos online játékban használt jelszavunkat próbálja megszerezni és elküldeni a támadóknak, többek között a Lord of the Rings Online-ét. A játékok online elõfizetései igen gyakori célpontok, hiszen könnyen pénzzé tehetõk -- ha nem maga az elõfizetés, akkor a benne tárolt virtuális vagyontárgyak.
+
+A széleskörû webes támadások az utóbbi idõben egyre gyakrabbá válnak és egyre több szervert érintenek. Ez a támadásfajta ráadásul sokkal hatékonyabb is lehet, mint az e-mailcímes próbálkozások, melyet ma már szinte minden levelezõszerver kiszûr -- itt olyan weboldalakon keresztül támadnak minket, amiket naponta látogatunk és alapvetõen megbízunk bennük.

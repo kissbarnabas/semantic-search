@@ -1,0 +1,12 @@
+Nyílt forrású biztonság: megnyitotta kommunikációs protokollját a Sun
+
+Megnyitotta a kulcsmenedzsere és a titkosítást végzõ eszközei közötti kommunikációt biztosító protokoll forráskódját a Sun Microsystems. A vállalat célja, hogy általánosan elterjedtté váljon ez a protokoll, amelyet többek között az EMC és az IBM is használ, és várhatóan szabvánnyá is válik. 
+
+
+
+A megnövekedett biztonsági kihívások és a jogi környezet miatt egyre több vállalatnál titkosítják az adatokat, azonban az információk mellett a kulcsok védelme is fontos -- ha a behatoló hozzáfér a kulcsokhoz, segítségével a titkosított adatokat is vissza tudja fejteni. A Sun szerint a kulcskezelést, illetve a kulcsok biztonságos "célbajuttatását" segíti, hogy a kommunikációs protokoll kódját megnyitják, ezáltal az bárki számára ingyenesen hozzáférhetõvé válik. A cég azt várja, hogy minél többen alkalmazzák ezt a protokollt, illetve hogy minél többen kapcsolódjanak be a további fejlesztésekbe, ezáltal még jobbá válhasson.
+
+Az XML-alapú protokoll lényegében bármilyen jelenlegi titkosítási megoldáshoz tud kapcsolódni, nem jelent problémát ha a környezet több gyártó termékeibõl áll össze. A protokollt a forráskód megnyitása után szabadon, licencdíj-fizetés és más jogi bonyodalmak nélkül bárki használhatja. Ezt a protokollt alkalmazza a Sun StorageTek KMS 2.0 Key Manager, a Sun T9840D, T10000A és T10000B szalagos meghajtók, illetve a HP LTO4 szalagos egységei is, amelyek a Sun szalgkönyvtáraiban találhatók. A Sun partnerei közül az EMC biztonsági részlege, az RSA is támogatja a prokollt és várhatóan be fogja építeni az RSA Key Managerbe.
+
+
+ A forráskód egy teljes titkosítási eszközkészlet részeként BSD licen alatt elérhetõ az OpenSolaris weboldaláról. A Sun Microsystems közben azon is dolgozik, hogy az OASIS szervezet tagjaként szabványként fogadtassa el ezt a protokollt, amelyet az adattárók biztonságával foglalkozó 1619-es IEEE-munkacsoporthoz is eljuttattak, hogy bekerülhessen a P1619.3 sztenderbe, amely a titkosítókulcsok kezelésérõl rendelkezik.

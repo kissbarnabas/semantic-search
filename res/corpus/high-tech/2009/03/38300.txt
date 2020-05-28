@@ -1,0 +1,14 @@
+Májusban debütál a matematikai számításokkal dolgozó csodakeresõ
+
+Teljesen egyedi, matematikai és tudományos alapokon fejlesztett keresõvel rukkol elõ májusban a munkáival komoly szakmai elismeréseket szerzett angol matematikus-zseni, Stephen Wolfram. A szakember nevét viselõ keresõmotor nem szemantikus elven dolgozik majd, hanem komplex matematikai számítások segítségével próbál választ adni a feltett kérdésekre.
+
+
+
+A Wolfram Alpha alapjait a tudós 1988 elkészült Mathematica nevû programja és tizennégy évvel késõbb írt, szakmai körökben több kritikával illetett könyve, a New Kind of Science adja egy hatalmas, tudományos háttéradatbázissal megtámogatva. A fejlesztõ ígérete szerint a teljesen új megközelítést használó internetes keresõnél az egyszerû input-mezõbe begépelt kérdésre nem egy az adatbázisból kihalászott válaszhalmaz érkezik majd: "Örömmel jelentem, hogy számos okos algoritmusnak, heurisztikus módszernek, nyelvészeti felfedezésnek és tudományos áttörésnek köszönhetõen sikerült mûködõ rendszert alkotnunk" -- írja Wolfram egy március elején létrejött blogbejegyzésében.
+
+A www.wolframalpha.com webcímrõl május elejétõl elérhetõ keresõszolgáltatás a Google-hoz és más keresõrendszerekhez hasonlóan egy egyszerû szövegbeviteli mezõben várja majd a kérdéseket, melyekre az ismert keresõktõl eltérõ módon keresi a választ. Nova Spivack, a Twine-t fejlesztõ Radar Networks elnök-vezérigazgatója szerint a Wolfram Aplha legalább olyan fontos szerepet tölthet be az internetes keresõk népes mezõnyében, mint a Google, ugyanakkor a két rendszer mûködési metódusából adódóan alapvetõen eltérõ célokra használható.
+
+
+Míg a Google és a hozzá hasonló keresõk alapvetõen az index-adatbázisra és a keresõszavakra építenek, a a Wolfram Alpha egy hatalmas tudományos adatbázis és a hozzá kapcsolódó matematikai modellt használja a válasz kiszámításához. Bár az új keresõ adatbázisában elsõsorban tudományos tételek, a fizikai világgal kapcsolatos alaptézisek és információk szerepelnek, a rendszerhez a különbözõ technológiákkal, az idõjárással, üzlettel, utazással, személyekkel és zenével vagy mással kapcsolatban is lehet kérdéseket intézni.
+
+Spivack szerint a Wolfram Alpha minden nagyszerûsége és tudományos átütõ ereje ellenére sem helyettesíti a Google-t és társait: "Nem valószínû, hogy a Wolfram Alphát bárki is segítségül hívja majd egy új autó vásárlásánál, blogbejegyzések keresésekor vagy éppen egy megfelelõ nászutas-szállás kiválasztásához. (&#8230;) Ez akkor lehet hasznos, ha a felhasználó tényeket akar megtudni valamivel kapcsolatban, vagy amikor valamilyen tényszerû adatokhoz köthetõ kérdésekre, számításokra keresi a választ."

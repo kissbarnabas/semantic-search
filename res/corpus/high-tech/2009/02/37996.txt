@@ -1,0 +1,12 @@
+Valószínûtlen sebességû szuperszámítógépet épít az IBM
+
+Egy olyan szuperszámítógépes installáció megépítésére kapott megbízást az IBM, amelynek teljesítménye három év múlva eléri a 20 petaflopsot, vagyis másodpercenként 20 millió milliárd lebegõpontos mûvelet elvégzésére lesz képes -- ez több, mint az 500 legerõsebb szuperszámítógép, vagy Magyarország összes PC-jének együttes teljesítménye. Ez a számítási kapacitás az Egyesült Államok nukleáris arzenáljával kapcsolatos szimulációkat végez majd. 
+
+
+
+Az IBM egy olyan szerzõdést nyert el, melynek értelmében kettõ szuperszámítógépet szállít le a Energiaügyi Minisztériumhoz tartozó Lawrence Livermore nemzeti kutatóintézethez. A 2009 közepén telepítendõ elsõ konfiguráció, mely Dawn névre hallgat, 500 teraflops teljesítménnyel rendelkezik majd, és a kutatók felkészülését szolgálja majd, ami az extra számítási teljesítményt kihasználó új algoritmusok, modellek felállítását, valamint a kód optimalizálását és párhuzamosítását jelenti, különös tekintettel a memóriakezelésre. A mai szuperszámítógépes rendszerek elsõdleges problémája a megfelelõ kód létrehozása.
+
+A második konfiguráció, a Sequoia 96 rackbõl 320 négyzetméteren épül fel, összesen 1,6 petabájt (millió gigabájt) memóriával és 1,6 millió processzormaggal rendelkezik majd. A megcélzott 20 petaflops 18 százalékkal magasabb, mint a Top500 szuperszámítógép 16,95 petaflopsos aggregált teljesítménye. A rendszer az IBM BlueGene szuperszámítógépes családhoz tartozik majd, vagyis PowerPC processzormagokat integráló chipekbõl épül fel -- homogén architektúra, azaz nem alkalmaz például Celleket. A rendszer fogyasztása nem publikus egyelõre, de a Lawrence Livermore intézet idõközben 12,5-rõl 30 megawattra növeli elektromos hálózatának kapacitását, hogy helyet adjon a jövõbeni bõvítéseknek. A Sequoia építése 2011-ben kezdõdik, és a tervek szerint az azt követõ évben, 2012-ben zárul le.
+
+
+A világ ismert szuperszámítógépes rendszerei közül a Cray által épített Jaguar a legnagyobb teljesítményû, 1,46 petaflopsot ad le 45 ezer négymagos Opteron chippel. A petaflopsos küszöböt hivatalosan elsõként az IBM Roadrunnere törte át, mely 6120 Opteron processzort és 12240 PowerXCell 8i chipet tartalmaz. Természetsen mindkét rendszer az Egyesült Államok kormányát szolgálja a fizikai, kémiai, biológiai és matematikai alapkutatások, határtudományok vagy a fegyverszimulációk területein.

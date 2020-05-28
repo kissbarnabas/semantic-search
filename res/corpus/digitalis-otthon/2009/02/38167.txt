@@ -1,0 +1,45 @@
+Bebetonozódhat az e-book piac
+
+[Ars Technica/HWSW] Az Amazon jelenleg uralja a letölthetõ e-bookok piacát, ide érkezik meg a Google Book Search egy teljesen különbözõ üzleti modellel, s színrelépésével egy masszív "duopólium" alakulhat ki, mely áthatolhatatlan falként magasodhat a további szereplõk megjelenése elõtt.
+
+
+
+
+Sötét utópia
+
+
+Richard Sarnoff, az Amerikai Kiadók Szövetségének elnöke egy múlt heti beszédében részletezte spekulációit az elektronikus könyvpiac jövõjével kapcsolatban, s úgy látja, hogy a Google Book Search megerõsödésével a piac kétszereplõssé válhat, hosszú idõre kizárva a további versenyzõket. Jelenleg a letölthetõ formátumú e-book piacot az Amazon ellenõrzi, így a Google-nek teljesen más oldalról kell majd megközelítenie a XXI. századi "könyvkiadást", amire online ereje révén képes is, de a piacralépési produkciója nehezen megismételhetõ a többi kihívó számára. 
+
+
+
+Kindle: el fog terjedni? 
+
+
+Sarnoff feltevése borús, ugyanakkor megjegyzi, hogy ez csupán egy teória, de van realitása. Sõt mitöbb, a szerzõi jog önmagában is egy monopólium, a dolgok tehát nem változnak érdemben. Az elmélkedés mindössze annyit feltételez, hogy az általános piacot a két szereplõ teszi magáévá, s nem enged be senki mást, nem lesz érdemes energiát fektetni versenytársak felépítésébe, inkább a tematikus piacon párhuzamos szolgáltatások várhatóak. Ez azt jelenti, hogy az általános könyvpiac illetve könyvkeresõ-piac helyett a többiek számára a szakirodalom egy-egy szelete marad, mondjuk az orvosi vagy mérnöki dokumentumok kiadása, forgalmazása, keresése.
+
+Intézményesítés
+
+Az amerikai bíróságok feltételezhetõen még idén jóváhagyják a Google-t szabályozó, kiadási feltételekkel kapcsolatos megállapodásokat, ami egyfajta tervrajzként írja le az elektronikus könyvkiadás jövõjét, beleértve a hirdetési feltételeket, könyvtári hozzáférést, a kiadó nélküli mûvek kezelését és a jogdíjak kezelésének módját is. Az utóbbi kérdésben konszenzussal születik meg a "Book Rights Registry" nevû szervezet, ami begyûjti a szolgáltatótól a díjakat, majd továbbítja azokat a szerzõknek és kiadóknak.
+
+A kiadóknak tiszta érdeke fûzõdött ennek a szervezetnek a létrehozásához, hiszen ha a Google közvetlenül a szerzõknek fizetett volna, akkor a kiadók létjogosultsága megszûnt volna, a feladatot átvette volna a Google maga. Így viszont létrejött egy könnyen kezelhetõ rendszer, melynek létrehozásában a szolgáltató is aktívan segédkezett, a sikert követni akaró konkurenciának viszont Sarnoff szerint nem lesz megfelelõ ereje ahhoz, hogy egy hasonlót létrehozzon, a kiadóknak nem lesz érdeke duplikálni. 
+
+
+A Google csak milliós nagyságrendben gondolkodik 
+
+Ráadásul a Google belement olyan egyezségekbe is, hogy minden beszkennelt mû után fizet 60 dollárt a jogtulajdonosnak, akik még azt is eldönthetik, hogy szeretnének-e hirdetéseket a könyveik mellett vagy sem. Ráadásul a szerzõknek, az eladáson és a hirdetésen túl, egy egészen új bevételi forrásuk is lehet a Google-ön keresztül, hiszen a könyvtárak köthetnek elõfizetést a fellelhetõ kötetek teljes elérésére, aminek a nagy részét szintén a jogtulajdonos kapja majd meg, így a vásárlás mellett a könyvtári "példányok" illetve a könyvtári olvasások is bevételt generálnak majd. 
+
+
+Csábító feltételek
+
+
+Az Amazon rendszerével ellentétben a Google Book Search még egy cukorkát ad a kiadók szájába, ugyanis a megvásárolt könyvek nem lesznek egyszerûen letölthetõek, hanem a szokott módon a Google internet cloudban maradnak majd, ahol a bejelentkezett felhasználók eszköz- és platformfüggetlenül elérhetik azokat. Gyakorlatilag a könyvet immár nem örökre vásároljuk majd meg, hanem a birtoklás addig szól, "amíg a Google létezik". A lényeg viszont, hogy nem lesznek megfogható fájlok, ami a szerzõi jogok betartását segítheti.
+
+
+Csak online 
+
+A felvázolt rendszer körvonalaiban nagyon is hasonlít egy erõs DRM-rendszerre, ami az elmúlt években nem feltétlenül számított a siker kulcsának, de ez esetben, pozitívan kommunikálva, akár a felhasználók kedvence is lehet. Sarnoff természetesen nem naiv ezzel kapcsolatban és tisztán látja, hogy egyszerû lesz egy Firefox-plugint írni, ami végiglapozza a könyvet, oldalanként elmenti és összefûzi egy PDF-fájlba. Az természetes, hogy kalózkodás mindig is lesz, az viszont elszomorítóbb, hogy azok a felhasználók is erre lesznek rászorulva, akik egyszerûen offline szeretnék olvasni a legálisan megvett könyveiket.
+
+
+Gonosz Google?
+
+A könyvkalózkodás így bizonyára nem fog megszûnni, viszont az Amazon jól mûködõ modellje mellett az amerikai szakértõk a Google Book Search számára is jelentõs szerepet jósolnak, s ez a kettõs határozhatja meg hosszú évekre az elektronikus könyvek sorsát, szerepét. Míg az Amazon a Kindle formájában fizikai eszközt is kínál az olvasóknak, addig a Google még nem mutatta meg, hogy miben gondolkodik, de az Android platform ezen a téren is rejtegethet még meglepetéseket.

@@ -1,0 +1,22 @@
+Belépõ szintû SSD-s tárolóval jelentkezett a Sun
+
+A Sun Microsystems új taggal bõvítette a szabványos alkatrészekre és nyílt forrású szoftverre épülõ Unified Storage termékcsaládját. A Sun Storage 7000-es sorozat legújabb modellje, a 7310 akár 96 terabájtig bõvíthetõ, ebbõl 1,2 gigabájt lehet olvasást gyorsító SSD.
+
+A vállalat által tavaly õsszel piacra dobott Unified Storage termékekben a percenként 7200-at pörgõ SATA merevlemezek mellett az Intel által kifejlesztett, vállalati felhasználásra szánt szilárdtest-meghajtók is helyet kaphatnak. Az SSD-k afféle gyorsítótár szerepét töltik be ezekben a készülékekben, a lehetõ legnagyobb olvasási sebesség elérése érdekében tárolják a legsûrûbben elért adatokat, illetve átmenetileg tárolják a kiírtakat, mielõtt azokat a szoftver a diszkekre rögzítené. Ezzel a hibrid megközelítéssel a Sun szerint úgy érhetõ el nagy teljesítmény, hogy közben a kapacitás zömét olcsó SATA diszkek adják, így az árak nem szabadulnak el.
+
+
+
+
+Az eszközben négy rétegben történik az adatok tárolása. Az
+elsõ réteg a DRAM cache, a második és a harmadik az olvasást és az
+írást gyorsító SSD-kbõl áll, a negyedik pedig magukból a
+merevlemezekbõl. Az adatokat a rétegek között a Solaris operációs
+rendszerbõl és a ZFS fájlrendszerbõl álló szoftver mozgatja
+intelligensen, felismerve az I/O mintákat. Az operációs rendszer biztosítja az adattárolási és -mozgatási funkciókat is, például a klónozást vagy a snapshot-készítést. A ZFS fájlrendszernek hála, ezek számának csak az eszköz kapacitása szab határt.
+
+
+A Sun Storage 7310 kontrollerje négymagos AMD Opteron processzorra épül és legfeljebb 64 giabájt DRAM cache-t és 600 gigabájtnyi, olvasást gyorsító SSD-t támogat -- a gépbe a nagyobb teljesítmény és megbízhatóság érdekében két kontroller is építhetõ. A 4 darab GbE porton keresztül akár iSCSI eszközként is csatlakoztatható a 7310. A berendezést elsõsorban olyan felhasználási környezetbe pozicionálja a
+Sun, ahol fõleg a sebesség és a megbízhatóság a fontos és nem a nagy
+kapacitás, a cég fájlszerverként, médiaszervenként vagy éppen
+adatbázisok futtatásához ajánlja az eszközt.
+A Sun Storage 7310 induló listaára 40 ezer dollár.

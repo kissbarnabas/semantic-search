@@ -1,0 +1,35 @@
+Hihetetlen adatok a hazai internetpenetrációról
+
+Több háztartásban van internethozzáférés, mint vezetékes telefon -- állítja a KutatóCentrum és a MASMI közös felmérése. A jelentés eredményei több helyen illeszkednek az egyéb szervezetek méréseihez, de több lényeges helyen irreális különbségeket mutatnak, túlmenve a statisztikailag és módszertanilag tolerálható határokon. 
+
+
+
+Fele sem igaz
+
+Abban a felmérés valószínûleg nem téved nagyot, hogy a magyar háztartások több mint felében már rendelkezésre áll internetkapcsolat, ezt több korábbi kutatás is alátámasztja, melyek a háztartások 42-44 százalékában feltételeznek valamilyen elõfizetést. A vezetékes fõvonalak ellátottságát tekintve azonban már komoly eltérés van a KutatóCentrum 48 százalékos adata és NHH tavaly novemberi, 61,6 százalékos eredménye között -- ez azt jelentené, hogy hirtelen a telefonvonalak több mint hatodát lemondták. Az NHH által is publikált Tárki-adatokat nézve viszont évek óta lassú visszaesés jellemzõ, meglepõ lenne egy ilyen hirtelen lemorzsolódás. Barcza Enikõ, a KutatóCentrum üzletágvezetõje a HWSW kérdésére telefonon azt mondta, hogy számára is feltûnt a különbség, melyet a módszertani eltéréseknek tulajdonít, ezt házon belül vizsgálják is, késõbbi e-mailjében azonban már ezt közölte: "A saját adatokat ismét ellenõriztem, a közölt értékek helyesek."
+
+
+
+Számmisztika
+
+Az internetpenetrációt, illetve az egyéb telekommunikációs szolgáltatások elterjedtségét mérõ kutatások mindig is számmisztikai magasságokba emelkedtek, hiszen ez a cégek eredményessége mellett néhány éve politikai intézmények létjogosultságát is hivatott volt mutatni -- a volt informatikai miniszter, Kovács Kálmán is gyakran hangoztatott különbözõ statisztikákból megfelelõen összeválogatott számokat. 
+Megszokott módszer, hogy a lakosságra, illetve a háztartásokra vetített arányokkal lehet felfelé vagy lefelé görbíteni az eredményeket, egyes kutatásokban a mintavétel alapjául szolgálók életkorával is lehet játszani (kihagyják a 14 év alattiakat vagy a 49 év felettieket), illetve bármilyen demográfiai tényezõvel szignifikánsan eltolhatóak az értékek.
+
+
+
+
+
+A felmérés adatainak hihetõségét a betárcsázós- és mobilinternet-elõfizetések számának becslései ássák alá. A KutatóCentrum közleménye szerint az internet-elõfizetéssel rendelkezõ otthonok 8,5 százalékában még mindig betárcsázós internetet használnak, ami lényegében lehetetlen. A magyar háztartások száma körülbelül 3,6 millió, a kutatás szerint ennek a fele rendelkezik internet-hozzáféréssel, ami 1,8 millió. Ennek 8,5 százaléka 153 ezer, vagyis a KutatóCentrum szerint ennyi háztartásban hallatszik modemsípolás a mai napig.
+
+Ötszörös különbség az NHH adataihoz képest
+
+Az NHH riportjai szerint 2008 II. félévében viszont mindössze körülbelül 30 ezer betárcsázós elõfizetõ maradt, ami majd ötszörös különbség, Márton György NHH-szóvivõ a HWSW-nek úgy vélekedett, hogy körülbelül "nulla százalék" a dial-up penetráció Magyarországon. Megkérdeztük a legnagyobb internetszolgáltatót, a Magyar Telekomot is, ahonnan megtudtuk, hogy jó ideje már ott is nulla százaléknak tekintik ezt az adatot, maximum egy-két ezer olyan elõfizetõ van, aki nem volt hajlandó lemondani a modemes internetrõl. A betárcsázós percdíjas internetet kínáló Tele2 ügyfeleket 2006-ban átvevõ Invitelnél a 2500-at sem éri el betárcsázós elõfizetõk száma.
+
+
+ Ugyanilyen pontatlannak tûnõ szám szerepel a mobilinternet-elõfizetések számánál is. A KutatóCentrum szerint a háztartások 6,9 százaléka használ mobilinternetet, ez megközelítõleg 115 ezer otthont jelent. Ugyanakkor a piaci szereplõk és az NHH is legalább 400-550 ezerre becsüli a mobilinternet-elõfizetések számát. A két adat nem zárja ki egymást, azonban ha mindkettõ igaz, akkor az azt jelenti, hogy minden olyan háztartásban, ahol van mobilinternet, legalább 4-5 elõfizetéssel rendelkeznek.
+
+Mindent bele lehet magyarázni
+
+Mivel a mobilinternet-elõfizetések mérése még nem tekint nagy múltra vissza, ezért elképzelhetõek különbségek azzal kapcsolatban, hogy ki mit tekint mobilinternetnek, hogy csak a számítógéphez csatlakoztatott modemek számítanak vagy a mobilkészülékre aktivált elõfizetések is. Jellemzõ, hogy a mobilinternet-szolgáltatást többnyire olyanok veszik igénybe, akik más egyéb vezetékes szolgáltatással is rendelkeznek, de Barcza Enikõ azt mondta, hogy a kérdõíven a kapcsolat típusánál több választ is meg lehetett adni, tehát még arra sem lehet fogni a különbséget, hogy az emberek nagy része csak az elsõdleges kapcsolatot jelölte meg.
+
+A definíciós különbségekbõl eredõ eltérések várhatóan akkor fognak megszûnni, ha az NHH is konkrétan körülírja a kategóriát, a többi probléma viszont egyértelmûen a felmérést végzõ cég rovására írható. A nem megfelelõ mintavétel is okozhat jelentõs eltéréseket, a kérdõív pontatlan vagy nem megfelelõen szerkesztett kérdései is félreértéseket szülhetnek, illetve a válaszadás módja is erõsen befolyásolja az eredményeket. Néhány évvel ezelõtt például telefonos kutatással próbálta felmérni az egyik cég, hogy a lakosság hány százaléka rendelkezik vezetékes telefonnal.

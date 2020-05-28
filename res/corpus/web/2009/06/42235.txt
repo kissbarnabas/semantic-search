@@ -1,0 +1,19 @@
+Táblázatokba rendszerezi a találatokat a Google új keresõje
+
+A Google Squared májusi bemutatóján a cég illetékes alelnöke, Marissa Mayer hangsúlyozta, hogy az alkalmazás célja elsõsorban az, hogy a nem rendszerezett információkat rendszerezett formában tárja a felhasználók elé. A Squared a vállalat szerint áttekinthetõ formában közöl tényszerû információkat a keresõszavakkal kapcsolatban,a táblázatban az adatok mellett képek is megjelennek, valamint minden esetben szerepel a hivatkozás a forrásoldalra. A felhasználó ráadásul további oszlopokkal egészítheti ki a táblázatot, melyek többé-kevésbé a kérdéses témakörben releváns információkat jelenítenek meg.
+"A kísérleti stádiumban lévõ Google Squared tényeket gyûjt össze a webrõl, majd azokat rendszerezve, táblázatszerûen tárja a felhasználók elé. (...) Bár a tények összegyûjtése az interneten a felhasználók számára viszonylag könnyû és magától értetõdõ dolog, a számítógépek sokkal nehezebben végzik el ezt a feladatot automatikusan" -- írja blogjában Alex Komoroske, a szolgáltatás termékmanagere. Komoroske szerint a Google Squared egyelõre korántsem tökéletes, ezért is hasznos, hogy a felhasználók saját maguk választhatják ki, hogy milyen oszlopokat szeretnének látni a táblázatban.
+
+
+
+A Google Squaredet többen a május közepén elindult tudományos keresõhöz, a Wolfram Alphához hasonlítják, illetve a keresõcég válaszának tekintik a matematikus által megalkotott rendszerre. A Wolfram Alpha ugyanakkor más elven mûködik: egy hatalmas tudományos
+adatbázist és a hozzá kapcsolódó matematikai modellt használja a válasz
+kiszámításához. Bár az újszerû keresõ adatbázisában elsõsorban tudományos
+tételek, a fizikai világgal kapcsolatos alaptézisek és információk
+szerepelnek, a rendszerhez a különbözõ technológiákkal, az idõjárással,
+üzlettel, utazással, személyekkel és zenével vagy mással kapcsolatban
+is lehet kérdéseket intézni.
+A keresõhöz elsõsorban ismert tényekkel kapcsolatos kérdések
+intézhetõk, de bonyolultabb matematikai képletekre is választ ad, a
+rendszer emellett a legtöbb válasznál grafikonokat is rajzol. A Wolfram
+Alpha a fentiek mellett összehasonlító információkat is képes
+megjeleníteni a találati oldalon.

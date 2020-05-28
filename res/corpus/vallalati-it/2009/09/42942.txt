@@ -1,0 +1,11 @@
+Nincs javítás a Windows XP TCP-sebezhetõségre
+
+A múlt héten nyilvánosságra hozott TCP-sebezhetõséget a Windows Vistában és a Windows Server 2008-ban befoltozta a Microsoft, azonban a Windows XP-hez egyáltalán nem tervez javítást kiadni a cég - olvasható a Microsoft Security Response Centeren. Azt már korábban lehetett tudni, hogy a Windows 2000-et nem foltozza be a cég, de idõközben kiderült, hogy az Windows XP SP2 és SP3 sem kap javítást.
+A Microsoft azzal indokolja a lépést, hogy a Windows XP-ben is megtalálható (a Windows 2000-bõl származó) hálózatkezelési kód több mint 12 éves és egyszerûen lehetetlen lenne megfelelõen kijavítani. A vállalat ugyanakkor azt is állítja, a sebezhetõség egy bekapcsolt tûzfallal rendelkezõ Windows XP rendszerre nem jelent veszélyt, mivel az operációs rendszeren nincs figyelõszolgáltatás (listening service) telepítve. A redmondi cég szerint a Windows XP SP2 vagy újabb verziók mind tartalmaznak tûzfalat, amely megszûri a hálózat felõl érkezõ forgalmat, így az operációs rendszer nem sebezhetõ.
+
+A sebezhetõség a Windows VIsta és Windows Server 2008 esetében közepes besorolást kapott, Windows 2000 és Windows XP esetében azonban csak alacsonyat. A Microsoft azt állítja, a támadás ugyan elérheti a Windows XP-t is, azonban a speciálisan módosított TCP-csomagok nem teszik lehetõvé távoli kód futtatását vagy adatok módosítását, mindössze megbénítják a gépet, de csak arra az idõre, amíg a csomagok áramlanak. Amint a speciálisan preparált TCP-csomagok áradata megszûnik, az operációs rendszer újra magához tér.
+Az MS09-048 biztonsági értesítésben leírt sebezhetõség ellen tehát Windows XP esetén a legjobb védekezés a tûzfal használata, de a Microsoft szerint a támadásokat elsõsorban szerverek ellen fogják indítani, így a kliensgépek nincsenek igazán veszélyben - persze az óvatosság sosem árt. A Microsofttól szokatlan, hogy kihagyjon egy támogatott Windows változatot a patchelésbõl, utoljára hat éve fordult elõ ilyen. A Red Hat közölte, hogy egyetlen RHEL kiadásban sem kívánja frissíteni ezért a TCP stacket, inkább megfelelõ tûzfal beállítoskat javasol a támadások kiszûréséhez.	     
+                  
+                  
+                  
+                   

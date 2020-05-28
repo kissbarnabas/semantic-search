@@ -1,0 +1,16 @@
+Magyarországon is kapható a szolgáltatófüggetlen Google-telefon
+
+Szolgáltatófüggetlenül is kapható a Google Android szoftverplatformra épülõ T-Mobile G1 mobiltelefon, amelyet egyébként kizárólag az amerikai T-Mobile forgalmaz egyelõre. Az elsõsorban fejlesztõknek szánt független verzió Dev Phone 1 néven 399 dollárért kapható a Google-nál, a telefont csak néhány országba szállítja a cég, de szerencsére hazánk is köztük van.
+
+
+
+A regisztrált Android-fejlesztõk 399 dollárért vehetik meg a telefont, a regisztrációkor fizetendõ 25 dolláros díjjal együtt tehát 424 dollár, azaz mai árfolyamon mintegy 86 ezer forint leszurkolása után rendelhetik meg a Google Android Market weboldalon. Az ár több mint duplája az amerikai T-Mobile kínálatában szereplõ G1-nek, azonban a telefon bármilyen hálózaton használható és a hátán gravírozás is emeli a különlegességét. Egy fejlesztõ mindössze egyet vásárolhat egyelõre. 
+
+Az elcsúsztatható QWERTY-billentyûzettel és érintõképernyõvel rendelkezõ T-Mobile G1-ben egy 528 MHz-es Qualcomm 7201 processzor dolgozik, mellette 64 megabájt RAM, illetve 128 megabájt ROM ad helyet a programoknak. MicroSD-kártyával bõvíthetõ a tárhely, a készülékbe szerelt fényképezõgép 3,1 megapixel felbontású, míg a 3,17 hüvelyk átmérõjû kijelzõ 480x320 pixelt képes megjeleníteni -- épp annyit mint az iPhone. A G1 támogatja az UMTS, HSDPA, SUPL szabványokat, találunk benne 802.11b/g vezetéknélküli csatolót, GPS-vevõt és Bluetooth 2.0-t is.
+
+
+
+
+ Az Android Dev Phone 1-en futó szoftver megegyezik a T-Mobile G1 által is használt, nyílt forrású Android 1.0 platformmal, azonban mivel ez egy fejlesztõi eszköz, semmiféle hardveres vagy szoftveres korlátozást nem tartalmaz, ami azt jelenti, hogy egy rosszul megírt program akár végérvényesen használhatatlanná is teheti -- erre a Google külön fel is hívja a vásárlók figyelmét. A Dev Phone 1 bootloadere sem ellenõrzi a rendszerkép aláírását, így ideális terep a kísérletezésre, ha valaki elég bátor.
+
+A Dev Phone 1 érkezésével egyszerre jelent meg az Android 1.0 szoftverfejlesztõi készlet új verziója, amely lehetõvé teszi a T-Mobile G1-re vagy bármilyen más Android-alapú telefonra alkalmazások készítését. Egyelõre a G1 az egyetlen, kereskedelmi forgalomban kapható Android-alapú telefon, de a hírek szerint januárban érkezik az ausztrál piacra a Kogan Agora, amely szintén a Google mobil platformjára épül.

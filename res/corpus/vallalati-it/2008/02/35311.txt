@@ -1,0 +1,10 @@
+Root jogosultságokat szerezhet egy helyi felhasználó a Linux kernel egy sebezhetõsége folytán
+
+[HUP] Helyi felhasználó root jogosultságot szerezhet egy, a Linux kernelben lévõ biztonsági résen keresztül, amihez az ezt kiaknázó támadó kódok is közkézen forognak már. A problémára a Linux kernel levelezõlistán hívták fel a figyelmet, mely a kernel 2.6.17-tól a 2.6.24.1-ig minden verziót érinthet a vmsplice rendszerhíváson keresztül. Azóta elkészült a hivatalos javítás is, így a 2.6.24.2 már immúnis ezzel a támadással szemben.
+
+
+
+Két olyan exploit is közkézen forog, melyek segítségével a 2.6.17-24.1 kernelt futtató Linux-disztribúciók helyi felhasználók felõl támadhatóak. A felhasználói és kerneltér közötti rendkívül kis erõforrásigényû másolást és adatduplikálást biztosító vmsplice rendszerhívás implementációjának hibája következtében helyi felhasználó egy kód lefuttatásával root jogosultságokat szerezhet magának, ami további védelmi beállítások nélkül teljesen kiszolgáltatottá teszi a rendszert.
+
+
+Sebezhetõ kernel használata esetén egy kellõen szigorú biztonsági politikával sem indíthat azonban sikeres támadást a felhasználó, így például kódfuttatási lehetõség tiltása a felhasználó által írható fájlrendszerrõl. A Hungarian Unix Portal látogatói közül a PaX/grsec kernelpatchekkel védett gépeken vegyes eredményt hozott az exploitok tesztelése, megfelelõ konfigurációval kizárólag bizonyos elérési utakról enged be kódot) a támadás sikertelen volt, míg máskor instabillá vált a rendszer.

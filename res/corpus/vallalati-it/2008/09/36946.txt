@@ -1,0 +1,20 @@
+Elkészült a középvállalatoknak szánt Windows Essential Business Server
+
+Elkészült a Microsoft kis- és középvállalati integrált szerverterméke, a Windows Essential Business Server (WEBS) -- olvasható a Windows Server fejlesztõinek blogjában. A korábban közzétett menetrend szerint a hivatalos premier november 12-én lesz, ekkor angol változatban jelenik meg a termék, amelyet rövidesen követnek a további nyelvi verziók (német, francia, spanyol, kínai, japán).
+
+
+
+Keszei Balázs, a Microsoft termékmarketing-menedzsere a HWSW-nek elmondta, a WEBS-bõl nem készül magyar verzió. A szerverszoftverekre általánosságban is jellemzõ, hogy az angol változatot használják belõlük itthon, ez alól egyedüli kivételt talán a legkisebb cégeknek szánt Small Business Server jelent. A sokszor nyelvi nehézségekkel is küzdõ kisvállalatok részére fejlesztett termékbõl létezik magyar változat, amely az értékesítés túlnyomó többségét adja -- tudtuk meg Keszeitõl.
+
+A lényeg az egyszerû felügyelet
+
+A Windows Server 2008-ra épülõ megoldás kiadását finoman szólva sem kapkodta el a Microsoft -- az elsõ béta még 2006-ban jelent meg. Ennek oka, hogy a fejlesztõk a lehetõ legtöbb visszajelzést szerették volna begyûjtani azzel kapcsolatban, ahogy a megcélzott vevõkör használja az informatikát. Ezért a szokásos bétaváltozatokon és az elõzetesekhez hozzáférést biztosító Technology Adoption Programon túl a Microsoft több száz középvállalatot keresett fel világszerte, hogy megfigyelhesse és elemezhesse az üzletmenetüket és szokásaikat, hogy aztán az igényekhez leginkább passzoló termék szülessen -- írja a Windows Server blogban Eric Kidd termékigazgató. A redmondi cég még egy tanácsadói testületet is létrehozott, amelyben ügyfelek mellett partnerek is helyet kaptak.
+
+
+ Az 50-250 PC-vel rendelkezõ középvállalatoknak tervezett Windows Essential Business Server 2008 Standard a Windows Server 2008 mellett tartalmazza az Exchange Server 2007-et, a Forefront Security for Exchange 2007-et, a System Center Essentials 2007-et, valamint a Threat Management Gatewayt (leánykori nevén ISA Server). A WEBS Premium verziójában helyet kap még az SQL Server 2008 is. A Windows Essential Business Server 2008 Standard öt klienslicenccel 5472 dollárba kerül, a további CAL-ok ára 81 dollár, a WEBS Premium 7163 dollárba kerül, minden további CAL 195 dollár. Ezek az árak a "dobozos" verziókra vonatkoznak, az OEM- és mennyiségi licencvásárlók olcsóbban juthatnak a termékekhez.
+
+A WEBS komponensei viszonylag szokványosnak mondhatók, ami figyelemre méltó, az a Unified Administration Console (UAC), vagyis az egységes felügyeleti konzol, amelynek születésében szintén szerepet játszott a "terepen" végzett kutatómunka. A Microsoft szakemberei jegyzetfüzettel és stopperrel a kezükben álltak az adminisztrátorok háta mögött, és megfigyelték, hogyan hajtják végre a feladataikat. Ennek eredménye a Unified Administration Console, amelyben igyekeztek mindent a lehetõ legegyszerûbbre, legkényelmesebbre megcsinálni. Hogy az UAC mennyire integrált, azt jól mutatja, hogy még desktop alkalmazások is telepíthetõk belõle a felhasználók gépeire. A WEBS felügyeleti moduljába külsõ gyártóktól származó modulok is beépíthetõk. Eddig a Symantec, a Citrix, a CA, a Trend Micro, a FullArmor, a McAfee és a Quest jelentette be, hogy integrálni fogja termékeit a WEBS-szel.
+
+Megnézhetõ, kipróbálható
+
+A Windows Essential Business Server 2008 elõzetese már jóideje elérhetõ, de most azok a cégek is kipróbálhatják, akiknek nincsen dedikált tesztkörnyezete és három szervere: a Microsoft oldaláról letölthetõ demó bemutatja a WEBS adminisztrálásával kapcsolatos legfontosabb feladatok végrehajtását. Ennek futtatásához Windows XP vagy Vista, illetve .NET 2.0 szükséges.

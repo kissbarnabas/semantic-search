@@ -1,0 +1,32 @@
+Rengeteg netbookot fognak eladni -- de még nem látni, mennyit
+
+Öt év alatt akár megtízszerezõdhetnek a netbookok szállításai, véli a Gartner, bár a különbözõ piackutatási elõrejelzések azonban egymástól radikálisan eltérõ számokat mutatnak, már rövidtávon is. Abban azonban mindenki láthatóan egyetért, hogy egy magas ütemben bõvülõ szegmensrõl van szó.
+
+
+
+A Gartner legfrissebb számai szerint az olcsó mini notebookok, vagyis a netbookok szállításai idén elérik az 5,2 millió darabot, mely egy nagyságrenddel több az IDC által lejelentett tavalyi 430 ezernél, ahogyan a számítógépgyártók elárasztják a piacot és a egyre nagyobb figyelmet kap ez az új termékkategória. A tajvani Market Intelligence Center (MIC) ennél jóval több, több mint 8 millió netbook leszállítását jelzi elõre 2008-ra, mely jobban összhangban a márkák, különösen az Asus és Acer különösen agresszív célkitûzéseivel -- ez a két vállalat egyenként tervez annyi netbookot értékesíteni, mint amekkorának a Gartner a teljes piacot jelzi.
+
+Az eredet
+
+A netbookok forgalmát jelenleg hozzáférhetõségük fogja vissza, a kereslet látványosan meghaladja a kínálatot, ráadásul a legtöbb márka még nem lépett piacra saját modelljével, az év végére azonban már igazi dömping várható. Az olcsó és kisméretû számítógépek koncepcióját Nicholas Negroponte, az MIT számítógéptudósa aktualizálta One Laptop Per Child oktatási projektjével 2005-ben, mely az Intel védekezési reakciójának kiváltásával az Intel Classmate PC referencia design megszületését eredményezte. Ezzel pedig eljutottunk az új piaci kategória megteremtõjéhez, az Asus Eee PC 701-hez, mely egycsapásra berobbant a médiába, felkeltve az IT szakma érdeklõdését. 
+
+[+] Kipróbáltuk az Asus mini Eee PC-jét
+
+A felfokozott várakozásoknak köszönhetõen az Asus folyamatosan elégtelen szállításokkal küzd immár közel egy éve, az eladásokat az határozza meg, a cég mennyit képes legyártani és a disztribútorokhoz szállítani -- az elsõ negyedévben ez 700 ezer, a másodikban pedig nagyjából 1,2-1,3 millió gépet jelentett. Ezt látva riválisai sorra követik az Asust saját bejelentéseikkel. A vezetõ márkák közül a HP, az Acer, a Dell és a Lenovo is bejelentette vagy már piacra is dobta netbookját, de az óriások árnyékában sikerre számíthat az MSI is. Jól jelzi az Eee PC húzóerejét, az Asus 164,3 százalékos növekedéssel az EMEA szuperrégió PC-piacán az ötödik, a notebook-szegmensben pedig a negyedik helyére ugrott elõre a második negyedévben, részesedése 2,8 százalékról 6 százalékra nõtt egy év alatt, mellyel a Toshiba sarkában liheg. 
+
+[+] Kipróbáltuk: Acer Aspire One netbook 
+
+Az Intel agresszivitását jól jelzi, hogy nemcsak saját oktatási projekttel és mini notebookkal válaszolt Negroponte OLPC projektjére, hanem felismerve a koncepcióban rejlõ piaci potenciált, és valószínûleg értesülve a VIA Nano processzor fejlesztésérõl, külön fejlesztési ágat nyitott a kategóriának. Az Atom néven piacra került, rendkívül olcsón termelhetõ ultramobil chipek segítik a tipikusan 7-10 hüvelykes kijelzõvel szerelt netbookak abban, hogy kicsik és olcsók lehessenek. Jelenleg VIA C7-M, Intel Celeron és Atom alapokon kaphatóak netbookok, hónapokon belül piacra kerülhetnek a VIA nanós és a kétmagos Atom chipeket alkalmazó modellek is.
+
+
+A netbookok egyúttal újabb lehetõséget teremtenek a alacsony költségû és teljesen testreszabható Linux-disztribúciók térnyerése elõtt, amit természetesen Redmond nem néz ölbe tett kezekkel: a Microsoft a netbookok számára egyedi licencelési konstrukcióval meghosszabbította a Windows XP életciklusát, és gyakorlatilag tetszõlegesen alacsony áron adhatja a Linux féken tartása érdekében. A linuxos konfigurációk nemcsak néhány ezer forinttal alacsonyabb árral, vagy a Windows XP licencen megspórolt összegbõl fejlettebb hardverrel, hanem újszerû, esztétikus felhasználói felületekkel is megkülönböztethetik magukat, melyekkel egy akár teljesen kezdõ is magától értetõdõ módon használhatja a gépet tipikus feladatokra, mint például a böngészés, e-mailezés, médialejátszás, chatelés, szövegszerkesztés.
+
+A fejlett piacoknak kell
+
+Olcsó és ultrahordozható számítógépek egyaránt léteztek már korábban a piacon, a netbookok sikerét azonban e két jellemzõ kombinálása magyarázza. A Gartner szerint a mini és olcsó notebookok mintegy 70 százalékát magáncélra vásárolják majd, többnyire online és multimédiás tartalmak fogyasztására és kapcsolattartásra. Bár alacsony áruk, korlátozott képességeik és a mainstream gépek kannibalizációjának elkerülése végett eleinte fõként feltörekvõ országokba célozták a gépeket, a jelek szerint elsõsorban a fejlett internet infrastruktúrával és magas PC-penetrációval rendelkezõ területeken számíthatnak sikerre, mint Észak-Amerika és Európa, sok esetben másodlagos gépként szolgálva.
+
+Ezt a felismerést jelzi, hogy a gépek árszintje folyamatosan kúszik felfelé, elérve a belépõkategóriás mainstream notebookokét, és a vállalatok nem árral hanem extrákkal igyekeznek megkülönböztetni magukat. A HP Compaq 2133 például sokkal drágább gépeket is megszégyenítõ anyagminõséget kínál, cserébe legalább 150 ezer forintot kell már leszurkolni érte, az Asus pedig már kifejezetten prémium kategóriába szánt Eee PC-kkel is készül az igényesebb fogyasztóknak, melyek ára akár a 200 ezer forintot is  súrolhatja majd, továbbá extra online tárhely és szoftverletöltõ szolgáltatásokkal is megjelenik hamarosan.
+
+[+] Kipróbáltuk, melyik a jobb mini notebook: MSI Wind vagy HP 2133?  
+
+A Gartner 8 millió netbook szállítását jelzi elõre 2009-re, szemben a MIC sokkal ambiciózusabb 18,3 milliójával. A netbookok jelenleg kevéssé kannibalizálják a többi notebook forgalmát, véli a Gartner, a következõ évtized hajnalán azonban nagyot fordulhat a kocka. Amennyiben a netbookok teljesítménye meredeken emelkedik, megkezdhetik a belépõkategóriás mainstream notebookok bedarálását, ahogyan az üzleti célú felhasználás is felfuthat. Ezen tényezõk következtében a Gartner nem tartja kizárhatónak az 50 milliós volument sem 2012-re. Az IDC a másik két piackutatónál sokkal konzervatívabb várakozásokat támaszt, és 2012-re is mindössze 9 millió netbook szállítását jelzi elõre -- hogy melyikük áll közelebb az igazsághoz, rövidesen kiderül, ahogyan az eddigi szûkös ellátást követõen a mini PC-k hamarosan elárasztják a boltokat.

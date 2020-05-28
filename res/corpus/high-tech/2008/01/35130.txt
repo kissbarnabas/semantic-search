@@ -1,0 +1,18 @@
+Hamarosan háromdimenziós egérként használhatók a mobiltelefonok
+
+Angol kutatók olyan alkalmazáson dolgoznak, amelynek segítségével a kamerával ellátott mobiltelefonok egérként használhatók. Az új megoldás segítségével a felhasználók akár a köztereken felszerelt nyilvános kijelzõket is vezérelhetik.
+
+
+
+A megoldás segítségével megtörhet a nyilvános kijelzõk eddigi egyirányú adatközlése, az ezeket épp nézõk által vezérelhetõvé is válhatnak, amelyre nagy lehet az igény, hiszen egy hirdetést megtekintve a rajtuk megjelenõ vásárlási információk, illetve elérhetõségek eddig csak a memóriánkra hagyatkozhattak. Kivételek vannak, ilyenek például a mozik, ahol e kijelzõk alatt magát a pénztárat is megtalálhatjuk.
+
+
+"A kommunikáció Bluetooth-kapcsolaton keresztül zajlik, a felhasználó a mobilját mozgatva, -- ha ez érintõképernyõs modell, akkor elég csak a tollat használni a kijelzõn -- a táblákon megjelenített tartalmat is görgetheti" -- mondta el Patrick Olivier, aki társprofesszor a Newcastle egyetemen. Olivier együtt dolgozik a fejlesztéseken Nick Pearsszel a York Egyetemrõl, és Dan Jacksonnal a Newcastle Egyetemrõl.
+
+Az egyik legjelentõsebb eredmény a személyek és nyilvános kijelzõk között megvalósuló interakció, a technológiát használva a megjelenõ, vagy helyesebben az általunk vezérelt, kiválasztott tartalmak alapján például mozijegyet, repülõjegyet, vonatjegyet vásárolhatunk, de akár egy ingatlanportál kínálatát is böngészhetjük, kiválasztva a kategóriát, majd görgetve a találatokat. Erre akkor is van lehetõségünk, ha a kijelzõ és a kézben tartott mobil között üvegfal, vagy ablak található.
+
+
+
+A mobiltelefon kamerája Bluetooth-kapcsolaton keresztül küldi a képet a kijelzõt meghajtó számítógépnek, amely felismeri azt, majd létrehozza a kijelzõhöz tartozó kezdõkoordinátát, amely aztán alapja lesz a görgetésnek,  navigációnak. Mindezek után, a telefon éppúgy használható, mint egy hétköznapi egér, annak mozgásához hasonlóan, de ahhoz képest minimális késéssel a kijelzõ tartalma is módosul.
+
+A fejlesztõk nem rugaszkodtak el a valóságtól, mert a fejlesztett szoftver meglévõ mobiltelefonokon lesz futtatható abban az esetben, ha a készülék Symbian, illetve Windows Mobile operációs rendszerre épül. Pears elmondta, hogy jelenleg a mobiltelefonok képfeldolgozási sebessége nem teszi lehetõvé, hogy a készüléket olyan gyorsan mozgathassuk, amennyire azt a használat közben szeretnénk.

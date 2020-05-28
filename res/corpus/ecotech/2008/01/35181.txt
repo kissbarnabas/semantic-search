@@ -1,0 +1,32 @@
+Megtámadta a Microsoft-közbeszerzést három hazai szabad szoftveres cég
+
+Megtámadja a közoktatásban használt Microsoft szoftverekre kiírt tendert három hazai vállalat. A cégek álláspontja szerint nem indokolható a termékspecifikus kiírás, ugyanis alternatív szoftverek alkalmazása nem veszélyeztet kritikus rendelkezésre állású rendszereket, ahogyan az innovációs indoklás is több mint megkérdõjelezhetõ. A panaszt emelõ cégek egyenlõ feltételeket akarnak kiharcolni. 
+
+
+
+Elfogadhatatlan kivételezés
+
+Közbeszerzési Döntõbizottság elõtt támadta meg három hazai cég azt 25 milliárd forint értékû közbeszerzési kiírást, mely a közintézményi számítógépek Microsoft szoftverekekkel ellátását tûzi ki. Az Open SKM Agency, az ULX és a Multiráció szerint a kiíírás versenyellenes, visszaél a törvényben szereplõ kivételekkel. A közbeszerzési törvény értelmében jogellenes a kiírásban  terméket vagy implementációs megoldást megnevezni, mely alól csak néhány kiemelt esetben lehet eltérni. A kiemelt esetek közé tartoznak az üzemi folytonosságot biztosító kritikus rendszerek frissítései például, vagy a különösen jelentõs, megkülönböztetõ innováció.
+
+
+Az árral szemben
+Két év múlva minden orosz iskolai számítógépre Linux-alapú orosz operációs rendszer kerül, közölte szeptemberben Oroszország hírközlési minisztere. Leonyid Reiman egy sajtókonferencián jelentette be a tervet, melynek keretén belül minden diáknak lehetõséget kívánnak teremteni, hogy orosz fejlesztésû alkalmazást használjon. A miniszter szerint ezzel jelentõsen csökkenthetõ az ország függõsége a külföldi szoftverektõl.
+Magyarországon is vannak már oktatási intézmények, amelyek nyílt forrású szoftvereket használnak, például a balatonfûzfõi Öveges József Szakképzõ Iskola, Gimnázium és Kollégium 2006-ban a SUSE Linux Enterprise Desktop  teljes körû bevezetése mellett döntött. Csak néhány gépen hagyták meg a Windowst, hogy használni tudják azokat a szoftvereket, amelyeknek (még) nincs linuxos változata. "Mivel nem konkrétan Wordöt, hanem szövegszerkesztést tanítunk, az OpenOffice Novell változata is kiválóan alkalmas arra, hogy ezt a készséget diákjaink elsajátítsák" -- mondta  Turi Sándor iskolaigazgató.
+
+
+A pro indoklás szerint a Microsoft termékeire szabott kiírást a meglévõ rendszerek frissítése indokolja, hiszen ezek nélkül az azokon futó Microsoft programok a szerzõdés közelgõ lejártát követõ 1-3 éven belül illegálissá válnának, vagy az intézmények downgradelni kényszerülnének korábbi OEM-verziókra. További Microsoft-érv a Vista és az új Office kiadás jelentette innováció is. A három hazai cég képviselõi szerint azonban ezek az érvek  elfogadhatatlanok, ráadásul ez esetben teljesen bebetonozódna a Microsoft a hazai közintézményekbe, függõségi viszonyt is kialakítva. 
+
+A homogén környezetnek további hátránya a közoktatásban a Microsoft-specifikus tudás születése, miközben a piacon különbözõ szoftverek is elérhetõek. Amint az Open SKM Agency, az ULX és a Multiráció képviselõi fogalmaztak, Magyarországon nem szövegszerkesztésre, vagy operációs rendszerek használatára oktatják a diákságot, hanem Wordre és Windowsra. A Microsofthoz való ragaszkodás a költségeket is fokozza,  kifogást emelõ cégek szerint a Vista megugrott hardverkövetelményeinek rengeteg géppark nem felel már meg, vagyis egyúttal új számítógépek beszerzése is szükségessé válik, tökéletesen pazarlóan és feleslegesen.
+
+Ki lehetne törni
+
+A kliensorientált, Windows- és Office-alapú közintézményi infrastruktúrák migrációja szabad szoftverekre teljesen reális elképzelés -- mondta el véleményét a HWSW kérdésére Vámosi Tamás, az ULX értékesítési igazgatója. Úgy véli, a nyílt forráskódú szoftverekkel foglalkozó hazai disztribútoroknak és rendszerintegrátoroknak elegendõ kapacitás áll rendelkezésére a migrációk megkezdésére és a késõbbi támogatás biztosítására. Ha egy egyenlõ feltételeket biztosító keretszerzõdés születne, akkor az egyes intézmények egyben a választás szabadságát is megkapnák, így a közoktatási géppark akár 30 százaléka is megcélozható lenne néhány éven belül teljesen nyílt forrású szofterekkel.
+
+
+Az értéket nem a forráskód nyíltsága vagy zártsága határozza meg, de Vámosi szerint a nyílt forráskódú szoftverek zéró bekerülési költségük révén olyan pénzügyi erõforrásokat szabadítanának fel az eddig licencekre költött milliárdokból, melyeket maradandó hozzáadott értéket képviselõ képzésre, technikai támogatásra lehetne fordítani. Ezt a modellt ráadásul a Microsoft is megengedhetné magának a közoktatásban, véli Vámosi, és a jövõben talán rá is kényszerül. Ezekre a modellekre számos referencia létezik Európa szerte, így Hollandiában, Horvátországban is, miközben Csehország és Románia már a felkészülési szakaszban tart.
+
+A Microsoft hagyományosan kliensorientált megközelítése ráadásul költséghatékonysági szempontból sem optimális, vélik az Red Hat és JBoss termékek disztribúcióját végzõ ULX-nél. A jövõ ugyanis egyértelmûen a hosztolt alkalmazásoké, melyekkel a felhasználói igények túlnyomó többsége kiszolgálható, ráadásul a technológiai háttér mellett sikeres implementéciók is rendelkezésre állnak már -- az eredmény alacsony mûködési költség, kisebb emberi erõforrásigény lenne. Ez egyet jelent a Microsoft Windows monopóliumának gyengülésével, így érthetõ Redmond ellenállása, a változások lassítása. 
+
+A cégek ugyanakkor nem a Microsoft kiszorítását akarják elérni, "mindössze" egyenlõ feltételeket akarnak, és a piachoz hasonló választási lehetõséget és versenyt a közszférában is. Amennyiben a közbeszerzési kiírás helyben maradhat, az Microsoft újabb indokolatlan, több tízmilliárd forintos állami támogatását jelenten, és a következõ 6 évre ismét bebiztosítaná a redmondiakat a hazai közszférában, ami hatalmas idõ az informatikában -- adtak hangot aggályuknak a cégek képviselõi.
+
+Az üggyel kapcsolatban szerettük volna megismerni a Microsoft álláspontját is, azonban a cég ezidáig nem reagált a megkeresésünkre.

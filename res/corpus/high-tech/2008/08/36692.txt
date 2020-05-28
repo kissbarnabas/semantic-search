@@ -1,0 +1,20 @@
+Boltokban a Fujitsu Siemens nullawattos monitora
+
+Három hónappal ezelõtt jelentette be a Fujitsu Siemens a világ elsõ "zero watt" monitorját, melybõl most érkeznek meg az elsõ databok a kereskedelmi forgalomba. A fogyasztás természetesen nem a mûködés közbeni állapotra, hanem a stand-by üzemmódra vonatkozik.
+
+
+
+Az újonnan bemutatott 20 hüvelykes P20W-5 ECO és a 22 hüvelykes P22W-5 ECO alapjában véve nem különbözik sokban saját kategóriatársaitól,  1680x1050-es felbontásukkal, 5ms válaszidejükkel és HDMI-csatlakozójukkal éppen beleillienek az idei felhozatalba. A különbség csupán annyi, hogy miután a videójelforrás megszûnik és a monitorok átváltanak stand-by üzemmódba, nem fogyasztanak egyetlen milliwattnyi áramot sem.
+
+
+ A környezetvédõk és az energiaválság miatt aggódók gyakran lovagolnak azon, hogy az egyes eszközök standy-by üzemmódban is néhány wattos fogyasztást produkálnak, ami már egy normál háztartásban is kimutatható havi többletet jelent, nem hogy egy nagyvállalatnál. A Fujitsu Siemens ezt a problémát oldotta meg, ráadásul egy megdöbbentõen egyszerû ötlettel.
+
+Nincs többé bekapcsoló gomb 
+
+Ha nincs kép, nincs áram sem
+
+A mérnökök egyszerûen egy "kill switch"-nek nevezett elemet építettek be a videobemenet mögé, ami abban a pillanatban, hogy megszûnik a jel, áramtalanítja a monitort, amikor pedig újra érkeznek adatok, akkor újra áram alá helyezi a rendszert. A kapcsoló beépítése annyira egyszerû, hogy a szakértõk nagy része most valószínûleg azt kérdezi, hogy miért nem használjuk már régóta minden monitorban. Az automata kapcsoló révén gyakorlati lag feleslegessé vált a power gomb, hiszen a ki-be kapcsolás minden esetben megtörténik ha megérkezik vagy megszûnik a bemeneti jel.
+
+Azon túl, hogy még egy fokkal kényelmesebbé vált az informatika, az eszköz beépítésével minden egyes monitor (késõbb akár tévé, hangrendszer, vagy más berendezés is) éves szinten körülbelül 200-600 forint megtakarítást jelent magyarországi villanyárral számolva, napi 16 óra stand-by mellett. Az Egyesült Királyságban persze ez akár 1500-1800 forintnyi megtakarítás lehet, de csupán ezért egyáltalán nem éri meg ezeket az eszközöket beszerezni, hiszen még egy egéralátétet is alig lehet venni az éves megtakarításból, ha viszont általánossá válik a használata, akkor az világszinten egy kis lépést jelent a fenntartható fejlõdés irányába.
+
+Arról egyelõre nincs szó, hogy a Fujitsu Siemens nyit-e a többi gyártó felé, vagy a többi gyártót érdekli-e a megoldás licencelés szintjén, de értelme valóban akkor lenne, ha a világon minden egyes televízió és monitor ezzel a kapcsolóval felszerelve érkezne.

@@ -1,0 +1,15 @@
+El kell távolítani a Windowsból az Internet Explorert?
+
+Az Európai Unió versenyügyi biztottsága a hétvégén hivatalosan is törvényszegéssel vádolta meg a Microsoftot. Az Internet Explorer beépítése a Windowsba jogtalan elõnyhöz juttatja a böngészõt a piacon és torzítja a versenyt -- áll az Európai Bizottság által kiadott közleményben.
+
+
+
+A norvég Opera Software trösztellenes beadványának nyomán éppen egy évvel ezelõtt indult a vizsgálat annak feltárására, hogy az Internet Explorer beépítése a Windowsba korlátozza-e a versenyt. "A vizsgálat során begyûjtött bizonyítékok alapján a Bizottság úgy véli, az Internet Explorer beépítése a Windowsba a PC-k 90 százalékán elérhetõvé teszi az Internet Explorert és ezzel torzítja a piaci versenyt a böngészõk között, mivel olyan mesterséges elõnyhöz juttatja az Internet Explorert, amellyel más böngészõk 
+nem rendelkeznek."
+
+A Bizottság 2004-ben már megállapította, hogy a Windows Media Player integrálásával a Microsoft megsértette a versenyjogi törvényeket, így nem kell nagy jóstehetség annak kijelentéséhez, hogy most is elmarasztaló ítélet fog születni, annak ellenére, hogy az Internet Explorer népszerûsége az utóbbi idõben látványosan csökkent. A francia XiTiMonitor 121 ezer weboldal látogatottsági statisztikáin alapuló adatai szerint 2008 novemberében az Internet Explorer részesedése mindössze 59,5 százalék volt, a Firefoxé 31,1 százalék, az Operáé 5,1 százalék, a Safarié pedig 2,5 százalék.
+
+
+ Beadványában az Opera emellett azt is nehezményezte, hogy a Microsoft tovább súlyosbítja a versenykorlátozást azzal, hogy a webes szabványok módosításával nehéz helyzetbe hozza riválisait. A fejlesztõk a domináns Internet Explorerhez igazították a weblapokat, amik a szabványokat követni igyekvõ böngészõkön viszont nem helyesen jelennek meg. "A Bizottság aggódik, hogy az Internet Explorer elterjedtsége arra ösztönzi a fejlesztõket, hogy kimondottan az Internet Exporerre tervezzék a weblapokat, ami végül aláássa a szolgáltatások fejlõdését" -- áll a Bizottság közleményében.
+
+Egyelõre nem tudni, hogy milyen intézkedéseket foganatosít a szervezet a szoftvercéggel szemben, a Media Player esetét figyelembe véve azonban nem lenne meglepõ, ha egy Internet Explorer nélküli Windows piacra dobására kötelezné a céget. A Microsoftnak nyolc hete van arra, hogy reagáljon az Európai Bizottság vádjaira, ezt követi majd egy zárt ajtók mögötti meghallgatás, majd jöhet az ítélet, amelyet a redmondiak meg is fellebbezhetnek. A Microsoft egyelõre nem reagált a Bizottság vádjaira.

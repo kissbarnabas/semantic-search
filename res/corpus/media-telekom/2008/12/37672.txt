@@ -1,0 +1,42 @@
+Mobil internetet az Enternettõl, a Pannon hálózatán keresztül
+
+Mobilinternet szolgáltatással jelentkezett az Enternet, elsõként a hazai alternatív telekommunikációs szolgáltatók közt -- valójában ez az elsõ bármilyen mobilszolgáltatás, melyet nem a három, mobilfrekvencia licenccel rendelkezõ operátor kínál. Az Enternet a Pannon hálózatát használja a céggel kötött megállapodás értelmében, így a szolgáltatás elérhetõsége megegyezik a Pannon lefedettségével.
+
+A két cég, pontosabban triviális módon a Pannon kínosan kerüli ezt a kifejezést, de valójában megszületett Magyarország elsõ virtuális mobilszolgáltatója (MVNO, mobile virtual network operator), mégha erõsen korlátozott formában is, kizárólag mobil internetelérést nyújtva. Az Enternet ezentúl kombinált ADSL- és mobilinternet csomagot is kínál, konkrétumokról azonban egyelõre nem akar nyilatkozni a feltörekvõ vállalat.
+
+
+
+ADSL+3G
+
+Az Enternet kezdetben a Pannontól is elérhetõ 5 és 10 gigabájtos mobil internet csomagokat kínálja, korlátlant egyelõre nem. Ugyanazért a szolgáltatásért ugyanannyit kér, pontosabban kell kérnie, mint amennyiért a Pannon is adja -- magasabb ár esetén senki nem venné meg, alacsonyabb árat pedig a Pannon nem enged. A Pannonnál havi 6 ezer forintot kóstál 5 gigabájt, és 12 ezret 10 gigabájt, és pontosan így alakulnak az Enternet árai is. A Pannon hálózata 3,6 megabites névleges HSDPA-kapcsolatra képes, amit ugyanakkor sosem érhet el, az esetek többségében 0,5-2,5 megabit/s közé esik az átvitel a vételi körülmények és a cella terheltségének függvényében.
+
+A nemzetközi gyakorlatnak megfelelõen azonban az Enternet vélhetõen bármilyen ettõl eltérõ konstrukciót összeállíthat, és tetszõlegesen árazhatja, így elméletileg lehetõség nyílik a hozzáadott értékre, mint például magasabb adatforgalmi korlát, online tárhely, fix IP-cím, e-mail szerver, VoIP -- ennek költségét azonban természetesen magának kell állnia. Az Enternet kombinált ADSL-mobilinternet csomagokat is bevezetett, vagyis egyetlen elõfizetéssel juthatunk vezetékes internethez a Magyar Telekom területén, és mobilnethez a Pannon lefedettségén belül. A konstrukciókról további információ az Enternet oldalán érhetõ el.
+
+Megbomlott egység
+
+Az Enternet mobilinternetes elképzelései már közel másfél éve lebegnek. A cég vezetõje, Bauer Róbert már tavaly nyáron beszélt arról a HWSW-nek, hogy rövid idõn  belül mobilinternetet is kínál majd cége, mintegy diverzifikálva a tevékenységet, és az ADSL-en realizálható profitmarzs folyamatos olvadásával egy új, viszonylag jövedelmezõ új területre hatolva be. Az akkori tervek ellenben láthatóan dugába dõltek, aminek hátterérõl nem szívesen beszélnek az érintettek, sejthetõ ugyanakkor, hogy a publicitás hatására felhördültek a mobiloperátorok, és az akkor meg nem nevezett partner a status quo érdekében kihátrált az ügylet mögül. 
+
+Bár virtuális partnerekkel egy-egy vállalat átmeneti elõnyhöz juthatna azáltal, hogy saját infrastruktúrájának jelenléte és ezen keresztül ügyféltömege a másik két riválisa kárára növekedne a piacon, azok hasonló válaszlépésével ez az elõny rohamosan elolvadna, majd beállna egy újabb "egyensúlyi állapot" -- több szereplõvel és alacsonyabb árszínvonallal. A hazai mobilszolgáltatók a telítõdött magyar piacon a stagnáló-olvadó árbevétellel ellen költséghatékonysággal és olyan értéknövelt szolgáltatásokkal küzdenek, mint a mobil internet, a letölthetõ tartalmak, vagy a jövõben egyre inkább a mobiltévé.
+
+A mobilszolgáltatók emberei az erre irányuló kérdésekkor arról beszélnek, hogy a virtuális mobilszolgátatás nem jó üzlet, és bár számos cég keresi meg õket idõrõl idõre, életképes üzleti terv hiányában a megvalósítás rendre elmarad. Ezen az állásponton van maga a Vodafone vezérigazgatója, Beck György is, aki Sugár András lelépését követõen a hazai mobilszektor arcává vált. Beck szerint rohamosan szûkül az a marzs, melyen belül egy virtuális operátornak mozgástere lehet, így árban alámenni a fizikai szolgáltatónak egyre kevésbé kifizetõdõ, és szolgáltatásokkal és márkával tudná csak megkülönböztetni magát.
+
+[+] Beck György: a virtuális mobilszolgáltatók üzletileg nem vonzóak  
+
+Valóban, a világon nem sok példa van üzletileg sikeres MVNO-ra, egyedül a brit Virgin Mobile-t ismeri el az ipar, mint sikertörténetet. Arról ugyanakkor kétségtelenül mélyen hallgatnak az operátorok, hogy az üzleti tervek életképtelenségét talán éppen õk biztosítják, errõl több hazai alternatív telkó is szerzett már testközeli élményt. A virtuális mobilszolgáltatók hazai megjelenése évek óta újra és újra elõkerült, eddig azonban az ígéreteket, terveket sosem követték tettek. Az elsõ ilyen hírek már 2004 végén felbukkantak, majd idén májusban szellõztette meg az Index.hu, hogy a Telekom 4 és az Invitel is próbálkozik. Sokat mondó azonban Pórffy András, az Externet vezérigazgatójának egy októberi nyilatkozata: "Az utóbbi hónapok során egyértelmûvé vált, hogy kereskedelemi alapon nem jöhet létre a piacon virtuális mobilszolgáltatói (MVNO) megállapodás a három hazai mobilszolgáltató egyikével sem".
+
+
+
+Kevesek lazuló szorítása
+
+Az Enternet lényegében ugyanazt kínálja most mobil internetben, mint amirõl az ADSL is szól: az alaphálózati szolgáltatótól, jelen esetben a mobilhálózatot üzemeltetõ Pannontól nagykereskedelmi konstrukcióban megvásárolja a kínált csomagokat, majd azokat újracsomagolva továbbértékesíti a piacon. Pont, ahogyan az ADSL esetében is, az ügyfél az Enternettel kerül kapcsolatba, vele köt szerzõdést és utalja a pénzt, ha problémája van, az Enternet ügyfélszolgálattal küzd. A Pannon nagykereskedelmi szolgáltatásként kínál hozzáférést mobilhálózatához, az IP-forgalom azonban már az Enternet infrastruktúráján keresztül zúdul az internetre.
+
+
+Ahogyan azonban a vezetékes ADSL esetében a Magyar Telekom (vagy saját területén más inkumbens), úgy saját hálózatán természetesen a Pannon is erõfölényben van -- addig legalábbis, míg technikailag nem megoldható, hogy egy virtuális mobilszolgáltató teljesen átjárja több fizikai mobiloperátor hálózatát. Márpedig jól felfogott üzleti érdekeibõl fakadóan a Pannon láthatóan él is erejével, és erõsen megköti az Enternet kezét, pont úgy, ahogyan a Magyar Telekom vagy a HTTC is az ADSL-szolgáltatókét.
+
+ Mint korábban említettük, az Enternet nem kapott szabad hozzáférést a Pannon mobilhálózati kapacitásához, hogy teljesen a használat arányában fizessen, hanem a Pannon saját, lényegében már a végfelhasználóknak összeállított konstrukcióit vásárolhatja meg nagykeráron. Szintén a Pannon erõpozíciójáról árulkodik az is, hogy az Enternet megkeresésekor, idézünk, "A Pannon által is jóváhagyott, hivatalos" válaszokat kaptunk. 
+
+A helyzet tehát bár közel sem ideális, kétségtelen, hogy "valami" elindult végre a hazai mobilpiacon is, melyet lanyhuló verseny jellemzett az elmúlt években, miután kimúlt a Vodafone megjelenésének pezsdítõ hatása. Az új status quo õrzése nem biztos, hogy megtérül a triumvirátusnak, a Nemzeti Hírközlési Hatóság ugyanis megelégelte az állóvizet, a virtuális mobilszolgáltatók felbukkanásának elmaradását, és új frekvenciapályázatot írt ki egy teljesértékû, és egy 450 megahertzes mobilinternet-szolgáltatóra, amire négy, illetve kettõ szereplõ jelentkezett. A pályázók közt található több, a korábban szintén MVNO-terveket szövögetõ cég, köztük az Externettel, hazánk legnagyobb alternatívjával, mely a Telekom 4-ral közös vegyesvállalatban, a Dreamcommban indul, valamint az Invitellel is. 
+
+[+] Két új mobilszolgáltatót akar látni az NHH  
+
+Az Enternet-Pannon egyezség megszületését talán éppen az váltotta ki immár legalább másfél év halogatást követõen, hogy a pályázattal már elkerülhetetlenül felborul az egyensúly, így a Pannon, elsõként mozdulva, némi elõnyhöz juthat a többiekkel szemben. A 450 megahertzes frekvenciapályázat eredménye december 22-én születhet meg, míg a teljesértékû GSM/UMTS-szolgáltató kiléte jövõ év elején derül ki. A hazai mobilkommunikációs piac végre talán újra felpezsdül.

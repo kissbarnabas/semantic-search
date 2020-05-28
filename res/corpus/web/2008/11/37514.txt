@@ -1,0 +1,14 @@
+Visszatérnek a spamek
+
+Kezd visszaállni a spamek mennyisége a hírhedt McColo lekapcsolása elõtti szintre -- derül ki a Symantec biztonsági méréseibõl. Jónéhány botnet újra akcióba lendült két héttel azután, hogy a spamküldés koordinációjáért felelõs egyik központi szervert sikerült leállítani, amivel az e-mailfiókokba érkezõ kéretlen levelek száma átmenetileg harmadára csökkent.
+
+
+
+A két héttel ezelõtt, november 11-én, a McColo nevû amerikai internetszolgáltatónál lévõ szerver leállítását követõen globálisan 75 százalékkal csökkent a spamlevelek száma. A hatás Magyarországon is érezhetõ volt, a HWSW saját tapasztalatai is megerõsítették a külföldi sajtó által citált értékeket. Ugyan az internetszolgáltató tett egy kísérletet arra, hogy egy másik úton újraindítsa a szervert november 15-én, de ezt sikerült hamar kezelni, így a spamek száma még napokig viszonylag alacsony maradt.
+
+Matt Sergent, a Symantec által nemrég bekebelezett MessageLabs e-mailbiztonsági cég mûszaki vezetõje szerint azért állt ilyen lassan helyre a spamek aránya, mert a botnet-tulajdonosoknak idõbe telt új szolgáltatót és sávszélességet találni a szerverüknek. "Az Asprox és a Rustock nevû botnetek visszatértek" -- nyilatkozta Sergent. Majd hozzátette, hogy a Cutwail nevû nem is állt le, sõt annak a tulajdonosai növelni is tudták a kimenõ levelek számát. 
+
+
+A legveszélyesebb botnet, a Srizbi nevû, ami állítólag a spamek feléért felelõs, már teljes egészében visszaállt és a szokott módon ontja a szemetet. E nélkül a botnet nélkül soha nem állna vissza az eredeti szint, állítják a biztonsági szakértõk. A Symantec Security Response blog arról is beszámol, hogy a "text/HTML mime" típusú levelek aránya újra 55 százalékra tehetõ. A szerverleállítás elõtt ezt a szintet valamivel meghaladta, míg utána leesett 34 százalékra. Ez egy újabb jel arra, hogy a regenerálódás nagyon is gyorsan halad.
+
+A HWSW saját, mérései alapján is visszatért a korábbi szint, s az elmúlt napokban folyamatosan növekszik a külföldi kéretlen reklámlevelek száma. Ugyan az utolsó 30 napra vetített spam-index sosem volt ennyire alacsony, de napról napra emelkedik és közelíti a korábbi szintet. Az internetbiztonsági szakértõk éppen ezért figyelmeztetnek, hogy az elmúlt két hét alacsony szintje miatt egyik cég se enyhítse a spamszûrõinek a beállításait, hisz napokon belül visszaáll a megszokott "rend".

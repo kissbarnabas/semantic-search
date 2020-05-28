@@ -1,0 +1,28 @@
+Samsung külsõ merevlemezek: kicsit vagy nagyot?
+
+A Samsung a közelmúltban jelentette be divatos külsõ tárolóit, melyek 1,8, illetve 2,5 hüvelykes merevlemezeket foglalkoztatnak. A két meghajtó nem csak a méretét tekintve más, az adatátviteli sebességük és a kapacitásuk is különbözik.
+
+
+
+A Samsung S1 és S2 külsõ merevlemezek igen szemrevaló burkolatban érkeztek szerkesztõségünkbe. Az S1 a két tároló közül a kisebb és ez a fizikai méretei mellett a kapacitására is igaz, 120 gigabájtnyi adatot másolhatunk rá. A nagyobb a noteszgépekben is alkalmazott 2,5 hüvelykes merevlemezzel szerelt S2, mely nem kevesebb mint 500 gigabájtnyi adatot nyelhet el.
+
+Samsung S1 és S2 külsõ merevlemezek
+
+Külsõ, teljesítmény
+
+A burkolatok stíluselemei a mobiltelefonos divatból merítenek, felfedezhetõ rajtuk az iPhone-ról vagy éppen a Samsung Omniáról ismerõs krómkeret. A hátoldalak mûanyaga bõrborítást idéz, rajtuk egyetlen mini-USB csatlakozó található. Az S1 és az S2 nem fogyaszt sokat, ezért külsõ áramellátásról, illetve ennek csatlakozójáról sem kellett a fejlesztõknek gondoskodniuk. Az S2 és az S1 mellé kétféle hosszúságú USB kábelt is kapunk, de védõtok csak a nagyobb S2-höz jár.
+
+Mindkét meghajtóval végeztünk egy gyors sebességtesztet, melyek során a nagyobb S2 volt a gyorsabb, de az 1,8 hüvelykes lemezzel szerelt S1-nek sem volt szégyenkeznivalója. A teszt természetesen fájlmásolásból állt, a mérés során egy 240 megabájtos DivX filmet, valamint egy 116 megabájtnyi, nyolc megapixeles fotókat tartalmazó könyvtár tartalmát mozgattuk.
+
+A Samsung S1 az egybefüggõ DivX állományt 14 másodperc alatt írta fel a lemezére és ugyanennyi idõ alatt is olvasta vissza. A 90 JPEG-tömörített fotó felmásolásához 21 másodperc kellett, ezek olvasása 17 másodperc alatt történt. Az 500 gigabájtos S2 írásakor a film és a fotók idõigénye megyegyezett a kisebb S1-nél mérttel, azonban a filmet az S2-rõl mindössze 8 másodperc alatt másoltuk vissza számítógépünk merevlemezére, de a fényképeknek sem kellett 10 másodpercnél több.
+
+Az alkalmazások a merevlemezeken vannak, nincs külön telepítõlemez a dobozban
+
+Szoftverkörítés
+
+A meghajtókhoz két hasznos segédszoftver is érkezik, ezek egyikével jelszóval védhetõ biztonsági mentések készíthetõk, melyeket akár automatikusan, a beállított idõközökben is képes elvégezni a program. A Samsung Auto Backup által készített tömörített mentéshez jelszót is megadhatunk, emellett kiválaszthatjuk, hogy milyen típusú állományok legyenek egyáltalán benne.
+
+
+A másik alkalmazás a Secret Zone, segítségével egy titkos szelet választható le a merevlemez tárterületérõl, mely AES-128, AES-256, valamint BlowFish 448 titkosítással védhetõ az avatatlan szemek elõl. Ha több felhasználó használja a meghajtót, e személyes területekbõl csak az épp aktív felhasználó által létrehozott jelenik meg a meghajtók között külön betûvel jelölt módon, természetesen csak a jelszó megadása után.
+
+ Az árak, valamint a fizikai méretek és a tárkapacitás miatt a választás egyszerû, ám nyertes és vesztes nélküli is, hiszen mindenkinél más az elsõdleges szempont. Azok számára, akik a kisebb méret miatt hajlandóak lemondani az S2 által biztosított plusz tárterületrõl, nagyszerû választás lehet a 91 grammos, 62x87x15 milliméteres, 24500 forintos S1, mely még így is elegendõ mennyiségû adatot képes tárolni, akik viszont a bõdületes 500 gigabájtot szeretnék ingzsebben hordozni, választhatják a 170 grammos, 82x111x17 milliméteres S2 változatot, mely 33500 forintba kerül. Mindkét változat megtalálható már a hazai boltok kínálatában.

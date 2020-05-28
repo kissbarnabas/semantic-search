@@ -1,0 +1,14 @@
+A ThinPrint mobiltelefonnal azonosítaná a nyomtatásra jogosult felhasználót
+
+[Techworld] A német nyomtatási specialista, a ThinPrint egy új nyomtatási rendszerrel spórolna a tonerrel, a papírral, csökkentené az érzékeny adatok kiszivárgásának esélyét, és védené a környezetet. A vállalat egy az Epson nemrég bemutatott megoldásához hasonló technológiát dolgozott ki.
+
+
+
+A vállalatoknál kinyomtatott oldalak egy része a kukákban landol, nem csak erõforrást pocsékolva, hanem mérhetõ anyagi veszteséget okozva, terhelve a környezetet, és esélyt is adva arra, hogy vállalati titkok szivárogjanak ki a szemétkukákon keresztül. Mindennek egyszerû oka, hogy a hálózati nyomtatókon "elõhívott" dokumentumok egy részét egyszerûen ottfelejtik az alkalmazottak, nem mennek értük.
+
+
+Az Epson ezt a problémát egy smartkártyával oldaná meg, mellyel az adott nyomtatóra küldött anyag késõbb, akkor válna nyomtathatóvá, amikor arra valóban szükség is van. A ThinPrint a CeBIT-en is bemutatja saját, fõleg szoftveres megoldását, mellyel nem csak adott nyomtatón, hanem bármelyik hálózatos nyomtatón ki lehetne printeltetni a dokumentumot az azonosításunkat követõen. Hardveres támogatásra, fejlesztésre csak ez utóbbi miatt lenne szükség.
+
+A ThinPrint különbözõ azonosítási módszereket dolgozott ki, ezek között az epsonos smartkártya is megtalálható, a legkülönlegesebb azonban a mobiltelefon felhasználása erre a célra. A felhasználók a mobiltelefon kijelzõjén láthatnák a nyomtatásra váró dokumentumaikat, melybõl kiválaszthatnák melyiket szeretnék az adott nyomtatón papírba önteni.
+
+A vállalat szerint minderre ráadásul extra hardveres beruházás nélkül is képesek lehetnek a vállalati nyomtatók és környezetek, bár azt nem árulták el, pontosan hogyan lenne erre lehetõség.

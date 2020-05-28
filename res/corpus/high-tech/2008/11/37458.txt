@@ -1,0 +1,14 @@
+Már készülnek a Samsung 256 gigabájtos SSD-i
+
+A Samsung tegnap jelentette be, hogy már üzemelnek a 256 gigabájtos SSD-ket elõállító gyártósorai. Az új meghajtók keményen megszorongathatják a hagyományos merevlemezeket.
+
+
+
+A Samsung már gyártja a korábban beharangozott 256 gigabájtos SSD meghajtóját, mely írási és olvasási sebesség tekintetében egyike a leggyorsabbaknak. Az új SSD a kapacitás tekintetében már a noteszgép-merevlemezek jelenlegi maximális méretének felénél jár, így nehéz idõk jöhetnek a hagyományos, fejjel és lemezzel rendelkezõ tárolókra.
+
+ 
+
+A Samsung SSD meghajtó egyszintû cellaszervezésû (SLC) felépítése 220 megabájt másodpercenkénti olvasási sebességhez segíti hozzá a tárolót, melyre adatot írni 200 megabájt másodpercenkénti sebességgel lehet. A Samsung egy 250 gigabájtos videoállomány másolásával állította szembe az SSD-t egy hagyományos merevlemezzel, a gyártó gyakorlati tesztje során az SSD 21 perc alatt végzett az írással, míg ehhez a 7200 fordulaton pörgõ merevlemezek 70 percre volt szüksége.
+
+
+Az új 256 gigabájtos, 2,5 hüvelykes SSD szabványos, 9,5 milliméter vastag, így gond nélkül bõvíthetõ vele minden SATA merevlemezt tartalmazó noteszgép. "Az új tároló gyakorlatilag azt nyújtja, amit egy 15 ezer fordulatú csúcsmerevlemez tud, azonban mentes annak zajától és hõtermelésétõl" -- jellemezte a terméket Jim Elliott, a Samsung memória-üzletágának alelnöke. Az új tároló áráról a gyártó még nem beszélt, ezek elsõ szállítmányaiból elõször PC-gyártók kapnak, késõbb jutnak el a boltok polcaira különálló kiegészítõkként.

@@ -1,0 +1,12 @@
+Újabb nagyvállalatok a Windows 7 korai felhasználói között
+
+A redmondiak láthatóan mindent megmozgatnak annak érdekében, hogy az október 22-i nemzetközi premier elõtt a lehetõ legnagyobb felhajtást csapják az új operációs rendszernek. A Windows 7 sikere nem csak a Microsoft szempontjából lényeges, hanem az egész informatikai ipar szempontjából, az új operációs rendszer megjelenése ugyanis lökést adhat a PC-eladásoknak, ami úgy hiányzik a recesszió által sújtott piacnak mint egy falat kenyér.
+
+A Windows 7 elõdje, a Vista a legtöbb vállalati felhasználónál kimaradt a frissítési ciklusból, a cégek többsége nem kért a rossz hírû operációs rendszerbõl, maradtak inkább a Windows XP-nél, amely azonban már több mint 8 éve jelent meg és jövõ nyáron megszûnik hozzá a "mainstream" támogatás, 2010 júliusa után már csak a kritikus biztonsági frissítéseket javítja benne a Microsoft.
+A Vistára továbbfejlesztett kernelére épülõ Windows 7 elõdjével szemben már a tesztidõszak alatt, a béta és RC változatokkal is kedvezõ visszajelzéseket gyûjtött be. Ez nyilván annak is köszönhetõ, hogy a Windows 7 úgy tudta levetkõzni a Vista gyerekbetegségeit, hogy közben megmaradt a visszamenõleges kompatibilitás, így a Windows 7-tel mûködik minden olyan szoftver és driver, ami Vistával, ami pedig mégsem, az futhat az XP Mode-on, ami egy virtualizált Windows XP az operációs rendszer vállalati változataiban.
+A visszajelzések és a felmérések szerint a Windows 7-et a cégek hamar be kívánják vezetni, a Goldman Sachs által megkérdezett vállalatok negyede 12-18 hónapon belül át akar állni az új asztali operációs rendszerre, miközben Vistára összesen a cégek ötöde állt át a mai napig. A hazai vállalatok kimondottan várják a Windows 7-et és a Windows Server 2008 R2 érkezését, a Microsoft felmérése alapján 6 százalékuk fél éven belül, további 20 százalék pedig egy éven belül be kívánja vezetni õket - a maga idejében a Vista esetében jóval alacsonyabbak voltak ezek az értékek.
+A Fordnál azért döntöttek a Windows 7 gyors bevezetése mellett, mert a válságos idõket élõ autógyártó ezzel szeretné vonzóvá tenni magát a fiatal dolgozók szemében, akik elvárják munkahelyükön az új technológiákat. A Starwood szállodalánc a Sheraton hotelekben a vendégek számára rendelkezésre álló érintõkijelzõs PC-ken is tesztelte a Windows 7-et, a visszajelzések kedvezõek voltak. Az Intelnél a mai napig Windows XP-t használnak, egyelõre néhány száz dolgozó gépén tesztelik a Windows 7-et.	     
+                  
+                  
+                  
+                   

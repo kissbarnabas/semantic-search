@@ -1,0 +1,30 @@
+Az Itanium ellen fordult a Unisys
+
+[CNET News/HWSW] Felhagyott az Intel Itanium-alapú szerverek forgalmazásával a Unisys. A vállalat döntése mögött a processzorcsalád terméktervének sorozatos csúszásai állnak, melyekkel élét vesztette a platform, a Unisys a jövõben a Xeon, valamint az AMD Opteron architektúrákra koncentrál. A számítástechnikai ipar egyik nagy öregje nyereségességi problémákkal küzd, így az Itanium termékvonal vélhetõen egy racionalizálási lépés áldozatává vált.
+
+
+
+Új mondás van a Unisysnél
+
+A váltásról a Unisys egy múlt heti gyõzelmi közleménye árulkodott, melyben a vállalat egy hatmagos Dunnington processzorokat (Xeon 7400-as sorozat) alkalmazó konfigurációja diadalmaskodott egy HP Integrity Superdome szerver ellen, mely természetesen kétmagos Itanium chipeket használt. A Unisys állítása szerint az ES7000 Model 760R teljesítménye a nagyvállalati döntéstámogatást szimuláló TPC-H tesztben 26 százalékkal múlta felül a Superdome-ét, miközben ár-teljesítmény mutatója 50 százalékkal, a hároméves teljes birtoklási összköltsége (TCO) pedig 40 százalékkal alacsonyabb a riválisénál. Az ES7000 760R 16 darab hatmagos Xeon processzort alkalmazott négy aktív maggal (64 mag), míg a HP Superdome 32 darab Itaniumot (64 mag), és egyaránt Windows Server 2008 operációs rendszert és SQL Server 2008-at futtattak.
+
+A cég honlapjáról el is tûntek az Itaniummal rendelhetõ rendszerek, majd a CNET News riportere számára Colin Lacey, szerverekért és tárolókért felelõs alelnök lényegében megerõsítette, hogy a Unisys kihátrált az Itanium mögül, mivel az a cég számára nem életképes platform. Lacey szerint Xeon MP-alapokon az Itanium szervereknél nagyobb teljesítményû, és azonos szintû megbízhatóságot és rendelkezésre állást kínáló rendszerek építhetõek.
+
+Ezt lényegében az Itanium sorozatos csúszásai és a várakozások alatti produkciója magyarázza, aminek eredményeként a migrálni való hatalmas bázissal és erõteljes kutatás-fejlesztési erõforrásokkal nem rendelkezõ Unisys elégtelen forgalomra volt képes csak szert tenni. Ezt tetézte, hogy a HP fojtogató versenyt támasztott a saját fejlesztésû chipsetekkel felszerelt, és elsõsorban a korábbi PA-RISC és Alpha-felhasználókat kiszolgáló Integrity szerverekkel, elhappolva az itaniumos üzletek nagy részét.
+
+Ennek egyik példájaként a Unisys egyik nagy ügyfelének számító OTP Bank tavaly HP Integrity rendszerek mellett tette le a voksát windowsos SAP alkalmazásainak futtatásához, és a Unisys annak ellenére vesztette el a megbízást, hogy a banknál több nagy Unisys ES7000-es installáció is mûködött. A HWSW nem tudta felvenni a kapcsolatot a Unisys magyarországi képviseletével, a weboldalon megadott telefonszámon elõfizetõ nem kapcsolható, és az e-mailes megkeresésre napok alatt sem érkezett válasz.
+
+[+] HP Integrityn és Windows Server 2003-on fut tovább az OTP Bank SAP rendszere  
+
+A Unisys, melynek a valósidejû rendszerek és ClearPath mainframe-ek mellett egyik specialitásai a nagyméretû Windows-konfigurációk, a jövõben Xeon MP-vel kívánja lefedni az Itanium vonal megszüntetésével keletkezett ûrt, egyúttal visszavágni az Itanium platformon hegemóniát élvezõ HP-nak. Ez a terület a meghatározó szerverszállítók közt az IBM erõssége, mely egyedi chipset és összeköttetések alkalmazásával x3850 M2 és x3950 M2 rendszereivel 16 foglalatig skálázódó x86-os rendszereket kínál. Ugyanez igaz a Unisys ES7000 Model 7600R-re is, legfeljebb négy darab 4U magas cellából építhetõ fel, 16 foglalatig skálázódik, és 1 terabájt osztott memóriát is kezelhet. 
+
+
+Ekkora x86/Windows rendszerre keveseknek van szüksége, az IDC adatai alapján az x86-szerverszállítások 0,5 százalékát teszik ki a 4 foglalatnál nagyobb konfigurációk, a piaci rés azonban elegendõ lehet a Unisys számára, hogy évente eladjon néhány száz vagy ezer ilyen konfigurációt, amibõl támogatási és szolgáltatási szerzõdésekkel már egészséges nyereségre tud szert tenni. A Unisys üzleti modellje nagyban hasonlít az IBM-ére abban, hogy nem a hardvereladásból, hanem szolgáltatásokból tesz szert bevételei nagyobb részére.
+
+Még mindig várni kell egy ütõképes Itaniumra
+
+Kétséges az is, hogy Unisys mennyire hitelesen képviselheti új üzenetét, mellyel az Itaniumot támadja, hiszen korábban éppen arról gyõzködte egyes ügyfeleit, hogy használják azt, és maga is az Itanium Solutions Alliance alapító tagja. Igaz, az Intel tálcán kínálja magát, hogy bûnbakot faragjanak belõle, a Montecito kódnevû lapka tömegtermelésének felfutása több mint fél évet késett, és a chip teljesítménye negyedével elmaradt a várttól. Ezt tetézi, hogy a következõ generációs Itanium, a 65 nanométeres csíkszélességû eljáráson implementált négymagos Tukwila az eredeti tervekhez képest kettõ, míg a Montecito fiaskóját követõ módosított várakozásokhoz képest is legalább fél évet késik, és most 2009 közepére várható.
+
+[+] Frissítve: Képtelen tartani az Itanium terméktervét az Intel - késik a Tukwila  
+
+A folyamatos csúszásoknak köszönhetõen az Xeon termékvonal jelenleg kettõ generációt kitevõ gyártástechnológiai lépéselõnyben van az Itaniumhoz képest, ami lehetõséget kínál a Unisysnek, hogy újrapozicionálja szerverkínálatát, és megtámadja a HP Itanium üzleteit. Ez a generációs szakadék még nagyjából 2 éven át megmarad, míg meg nem érkezik a még meg sem jelent Tukwilát követõ Poulson, mely átugorja a 45 nanométeres gyártástechnológiát, és az Intel ígéretei szerint egy gyökeresen új mikroarchitektúrát implementál 32 nanométeres eljáráson, vagyis 2010 végi, 2011-es megjelenésével nagyjából paritásba kerül a Xeon MP-vel -- a Unisysnek addig számos alkalma nyílik majd, rossz színben tüntesse fel a HP Integrityket.

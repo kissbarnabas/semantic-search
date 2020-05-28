@@ -1,0 +1,37 @@
+Az Intelhez igazolt David Ditzel processzortervezõ veterán, a RISC és VLIW úttörõje
+
+Némileg meglepõ módon az Intelhez igazolt David Ditzel, a számítástechnikai ipar egyik élõ legendája -- írja a brit Register. Ditzel az utóbbi idõkben a Transmeta szellemi atyjaként tevékenykedett, ahol egy kifejezetten egy alacsonyt fogyasztást megcélzó architektúra kifejlesztését vezényelte le, azonban saját végrehajtási problémáik és az Intel rendkívül agresszív válaszlépése következtében végül piaci bukásnak bizonyult a projekt.
+
+
+
+Processzorpápák állnak össze
+
+A Register meg nem nevezett forrásokra hivatkozva azt írja, Ditzel nemrég az Intel kötelékébe lépett, ahol a vállalati termékekért felelõs Digital Enterprise Group részlegnél dolgozik majd. A brit lap úgy tudja, Ditzel Stephen Pawlowskival dolgozik majd együtt, aki az Intel mûszaki vezérigazgatója és vezetõ mérnöke. Ditzel és Pawlowski is a világ egyik legszûkebb elitklubjának tagja, az évtizedes tapasztalattal bíró top chiptervezõké. 
+
+Hogy Ditzel milyen terméken dolgozik majd az Intelnél, egyelõre nem ismert, ugyanakkor pályafutása alapján valószínûsíthetõ, hogy valamilyen kiemelt projektbe kapcsolódik be -- bábáskodott a RISC, a UNIX és a mobilitás megszületésénél is. Pawlowski, aki 25 éve dolgozik az Intelnél, többek között a P6 processzorcsalád (Pentium Pro, Pentium II-III ), a Pentium 4 és az Itanium buszfelületének és szerverchipsetek tervezésében is részt vett, késõbb pedig a vállalati processzorkutatásokat vezette -- vagyis karrierje nagy részét úttörõ fejlesztésekben töltötte el, hasonlóan Ditzelhez.
+
+David Ditzel mintegy harminc éve dolgozik az iparban, és munkái nagy mértékben meghatározzák a mai számítástechnika képét. Ditzel társszerzõje volt például az elsõ RISC publikációnak (The Case for the Reduced Instruction Set Computer), mely 1980-ban jelent meg, és megalapozta az 1990-es évek RISC-hullámát. A RISC (csökkentett utasításkészletû számítástechnika, Reduced Instruction Set Computing) gondolatának lényege, hogy a hardver, jelen esetben a mikroprocesszor felépítését minél egyszerûbben kell tartani, és a komplexitás egy részét szoftveresen kezelni.
+
+
+RISC vs. CISC
+A RISC elõnye abból fakadt a CISC-kel szemben (Complex Instruction Set Computing), hogy az alacsonyabb komplexitású, általános célú funkcionális egységekbõl több fért el a szilíciumlapkán, valamint magasabb órajeleket lehetett elérni az egyszerûbb, letisztultabb designnal. A CISC architektúrákkal való szakítás ráadásul azt is lehetõvé tette, hogy szakítsanak azok elavult korlátaival, és új, modern utasításkészleteket dolgozzanak ki, melyek például gazdag regiszterkészletekkel bírnak.
+
+A '90-es évek elsõ felében a RISC processzorok valóban abszolút és architekturális fölényt mutattak az x86-os processzorokkal szemben, egészen az Intel Pentium Pro megjelenéséig, aminek hatását egyesek Pearl Harborhoz hasonlítják, azzal a különbséggel, hogy a háború menete itt nem fordult meg késõbb. Az Intel gazdasági erejét és riválisaihoz képest hatalmas volumenét kihasználva átvette a processzoripar vezetõ szerepét, aminek köszönhetõen behatolt a szerverpiacra, mára pedig uralja azt.
+
+
+
+
+
+
+ Ditzel szerint amit sokan nem láttak addig, ahogy a RISC elõnye átmeneti volt, a processzorok komplexitásának fokozódásával a RISC és CISC architektúrák közötti különbség csökkent -- itt érdemes megjegyezni, hogy a mai modern x86-os processzorok kívülrõl bár CISC-nek mutatják magukat (front end), valójában belül RISC-jellegûek, a CISC-RISC megfeleltetést pedig dekóderek végzik. Döntõ tényezõnek bizonyult az is, hogy az Intel gyártástechnológiai lépéselõnyre tett szert, amivel természetszerû architekturális hátrányát ellensúlyozni tudja.
+
+A Transmeta saga
+
+A mérnökbõl lett vezetõ, aki a Sun Microsystems SPARC-üzletét vezette 10 évig, és nevéhez fûzõdik 200 orosz számítógép mérnök felvétele, 1995-ben gründolta a Transmetát, mely kifejezetten alacsony fogyasztású architektúra létrehozását célozta meg. Érdeklõdését a terület iránt már közel egy évtizeddel korábban felkeltette egy korábbi projektje, az AT&T CRISP, mely egy C nyelvre optimalizált RISC processzor volt. A Transmeta 5 évig dolgozott titokban a Crusoe-n, mely egy úgynevezett VLIW (Very Long Instruction Word) felépítésû processzor, az x86-os kompatibilitást pedig futásidejû bináris fordítás biztosította szoftveresen (Code Morphing). A VLIW célja a magas utasításszintû párhuzamosság, ezt pedig szintén szoftveres optimalizációval igyekeztek biztosítani a chip komplexitásának visszafogása érdekében.
+
+
+A Crusoe végül 2000-ben, még a dotkom láz tombolásának idején került a nyilvánosság elé, teljesítménye azonban elmaradt a várakozásoktól, többek között a TSMC gyártási nehézségei miatt, mely az IBM-tõl lett volna hivatott átvenni a termelést. A Transmeta bár kezdetben a számítógépgyártók széleskörû támogatását élvezte, melyek éheztek egy valóban alacsony fogyasztású és egyben olcsó processzorra, a Crusoe tömegtermelésének sorozatos csúszásai és a gyenge teljesítmény meggátolta a kereskedelmi a sikert. Az Intel eközben válaszként már gõzerõvel dolgozott a Pentium M-en haifai (Izrael) központjában, és 2003 elején piacra dobta azt a Centrino mobil platform részeként.
+
+A Transmeta második generációs fejlesztése, az Efficéon bár sokkal nagyobb teljesítményt nyújtott alacsonyabb fogyasztás mellett, az Intel úthengere eltaposta, a számítógépgyártók kihátráltak, és sem az AMD, sem más befektetõ nem csapott le a széthullóban lévõ vállalatra. Folyamatos veszteségei miatt végül a Transmeta kiszorult mára a processzorpiacról, és szellemi tulajdonának licencelésébõl igyekszik megélni. Ditzel ezt követõen tavaly távozott a már jogászok uralta cégtõl, mely 250 millió dollárt szedett ki az Inteltõl szabadalomsértés miatt, többet, mint amennyi forgalmat processzorokból a vállalat valaha bonyolított.
+
+David Ditzel 1980-ban végzett a kaliforniai Berkeley Egyetemen villamosmérnökként, ahol végzõs diákként mentorával, a számítógéptudós  David Pattersonnal közösen publikálták az egész iparág figyelmét megragadó RISC akadémiai tanulmányt, mely úttörõ munkának bizonyult. Ditzel ezt követõen az AT&T Bell Laboratorieshoz csatlakozott, ahol a már korában említett CRISP fejlesztéseit vezette, majd 1987-ben lépett be a Sun Microsystems kötelékébe, ahol a SPARC Labs igazgatója és a vállalat mûszaki vezetõje lett, és a SPARC chipeket fejlesztõ csapatokért felelt. Ditzel nevéhez kötõdik a SPARC 64-bites kiterjesztésének kidolgozása is. Ezt követõen 1995-ben alapította meg a Transmetát, ahol egy alacsony fogyasztású VLIW processzorral és futásidejû kódfordítással dolgozó, x86-kompatibilis architektúra kidolgozását vezette le. Pályafutása során több mint 20 processzorfejlesztési projektben vett részt, és 30 akadémiai publikációt jegyez.

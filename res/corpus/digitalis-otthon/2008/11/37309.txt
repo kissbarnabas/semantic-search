@@ -1,0 +1,32 @@
+Teszteltük az egyik elsõ A/3-as multifunkcióst, kínpadon a Brother MFC-6490cw
+
+Technológiailag nem újdonság, hogy léteznek A/3-as tintasugaras és lézernyomtatók, ám mindeddig senki sem bátorkodott tintás alapokra épített A/3-as multifunkciós készülékkel piacra lépni. A Brother MFC-6490CW az elsõ fecske, jó néhány ráadással.
+
+
+
+Az MFC-6490CW különlegessége a nagy (11x17 hüvelyk, azaz 279,4x431,8 milliméteres) dokumentumméret: nem csak nyomtatni, hanem beolvasni és másolni is képes A/3-ban. Helyigénye nagyobb a megszokottnál, viszont a tálcák átállíthatóak úgy, hogy A4/es használat mellett kisebb területet foglaljon el a készülék. Két darab, összesen 400 lapos papírrekszt tartalmaz, így nem kell minduntalan cserélgetnünk az A/4 illetve A/3 médiát. Kimeneti papírkapacitása ehhez képest visszafogott, 50 lapos, így hosszú lélegzetû dokumentumok nyomtatására nem kényelmes.
+
+Brother MFC-6490cw, A/3-as multifunkciós
+
+A tálcák jellegzetessége, hogy alapkiépítésben A/4-és méretre vannak állítva, ha nem kívánunk nagyban nyomtatni, akkor hagyhatjuk õket így is, kisebb területet foglalnak. Egy retesz elmozdításával állhatunk át A/3-ra, ennek ára, hogy ez a méret már kilóg a készülékházból, további területet követelve az íróasztalon. Tapasztalataink  szerint a normál papír adagolása zökkenõmentes, viszont gondjaink adódtak, ha már csak egy-két lap maradt, vagy ha különféle vastagságú anyagokat töltöttünk be egyszerre.
+
+Kihajtható a dokumentumadagoló és a papírtálca is A/3-asra
+
+Gyártójának saját, pigmentalapú Innobella tintáit fix, piezoelektromos nyomtatófej veti papírra, ha kell nagyon apró, 1,5 pikoliteres cseppekben. Ennek eredményeként szemcsézettség csak minimális mértékben jelentkezik a fotókon, gyakorlatilag alig látható. Dokumentumnyomtatásnál is jó kontúrokat és kontrasztot tapasztaltunk, az eredmény normál papíron is jó, lézernyomtatókhoz közelítõ szintû. A nyomtatási minõségrõl összességében egyértelmûen pozitívan nyilatkozhatunk.
+
+A négy alapszínû fotónyomtatás érezhetõen olcsóbb a hat alapszínûnél és négy különálló patron segít a takarékosságban. A végleges kellékanyagárak még nem ismertek, de az európai árakból számított költségek tintasugaras viszonylatban az átlagosnál kicsivel jobbak. Nagy kapacitású -- LC1100HY-BK, C, M és Y jelû -- patronok áraival kalkuláltunk, amik 900 fekete illetve 750 színes oldal nyomtatását teszik lehetõvé (ISO/IEC 24711-nek megfelelõ kapacitás adatokkal számolva). A nagy kapacitás jobb fajlagos árral és gazdaságosabb üzemmel kecsegtet, a monokróm oldalak esetében 8, a színeseknél mintegy 25 forintos tintaköltséggel kell számolnunk. Egyelõre a készülék, így kellékanyagai is bevezetés alatt állnak, az európai árjegyzék alapján számoltunk, 258 forintos euróárfolyammal.
+
+A Brother MFC-6490várható kellékanyag költségei
+
+Nyomtatási teljesítményben visszafogottabb a készülék, elmarad a legtöbb tintasugaras kisirodai vagy személyi nyomtatótól, fõleg a színes dokumentumnyomtatás és fotónyomtatás sebességében. Alap fotó beállításokkal mintegy másfél percig készül egy 10x15-ös kép, maximális részletességet kérve pedig duplázódik az idõtartam. Egy A/3-as fotónyomatra 7-14 percet kell várnunk beállítástól függõen. Ha lényeges a nyomtatási sebesség, akkor kénytelenek leszünk más megoldás után nézni. A másik hátrányos pont a már említett papíradagoló: ha vastag A/3-as médiára (például fotópapírra) nyomtattunk, akkor elakadás jelentkezett, amennyiben csak 1-2 lap volt a tálcában.
+
+
+
+Beolvasáskor és másoláskor egy 1200x2400 dpi felbontású, de nem fotós, inkább irodai célokra tervezett CIS rendszerû síkágyas lapolvasó teljesít szolgálatotm, aminek képminõsége átlagos, dokumentum-beolvasáshoz, alkalmi fotóbeolvasáshoz kiválóan megfelel, kifejezett fotómásolás céljára azonban már nem a legjobb. Teljesítményére nem lehet panasz, a mindennapokban alkalmazott közepes felbontású feladatokkal kiválóan elboldogul, így nem fogja vissza a másolást sem.  Dokumentumadagolója lehetõvé teszi több lap automatikus beolvasását, kihajtva alkalmas akár A/3-as eredetik fogadására is. A szoftverek között dokumentumkezelõt (Presto! PageManager) és OCR alkalmazást (ScanSoft PaperPort SE) is találunk, így kereshetõ PDF-archívumokat is készíthetünk.
+
+
+
+
+Könnyen csatlakoztatható a készülék Ethernet- vagy Wi-Fi hálózatokra is és használható USB-csatlakozással is. Hogy ne kelljen hosszú számsorokat begépelnünk, támogatja a WPS, AOSS és Secure Easy Setup protokollokat is, így egy gombnyomással csatlakozhatunk biztonságos Wi-Fi hálózatokhoz is.  Dupla szélességû színes LCD-panel, honosított menü, 50 lapos dokumentumadagoló és Super G3 (33,6 kbps) fax modul erõsíti a konfigurációt. Hasznos extra funkciók a könyvmásolás, a beolvasás memóriakártyára és persze a fotónyomtatás, erre a célra PictBridge csatlakozás és univerzális, a mai nagy kapacitású formátumokat (SDHC, xD H és M, MS Pro) is ismerõ kártyaolvasó kapott helyet a készülékben.
+
+A Brother készülékének egyértelmû elõnye a funkciógazdagságához képest erõsen visszafogott ár, a mérsékelt költségek és a jó nyomatminõség. A nagyobb méret nagyobb hatást kelt, azaz egy A/3-as dokumentum, vagy egy kihajtható A/3-as oldallal megfejelt marketinganyag kilóg a megszokott A/4-esek sorából. Szintén hasznos lehet a nagyság, mikor terjedelmes, összetett táblázatokat nyomtatunk áttekintésre, így úgy érezzük, hogy megvan a maga helye ennek az új készülék kategóriának, különösen ilyen visszafogott áron. A Brother MFC-6490cw itthon még bevezetés alatt áll, jövõ év elejétõl lesz kapható. Nyugat-európai internetes áruházakban 220-250 font közötti árakon találhatjuk meg, ami mintegy 78 ezer forintnak felel meg pillanatnyilag. Azoknak ajánljuk, akik kis tételben, de rendszeresen dolgoznak A/3-as dokumentumokkal, illetve kihasználnák a nagyobb méret figyelemfelkeltõ erejét, de megelégszenek visszafogott nyomtatási sebességgel is.

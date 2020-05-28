@@ -1,0 +1,14 @@
+Netbookokhoz szánt HSPA-modult dobott piacra az Ericsson
+
+A netbookok az egyik leggyorsabban növekedõ szegmenst képviselik a PC-piacon. Ezekbõl a kicsi, olcsó és kimondottan internetezésre szánt számítógépekbõl az Ericsson számításai szerint 2009 és 2014 között 300 millió ilyen eszköz talál majd gazdára, többségük mobil szélessávú modemmel. A netbookok terjesztésében alighanem nagy szerep jut majd a mobilszolgáltatóknak, akik az akciós ajánlataikkal sok mobilinternet-felhasználót tudnak toborozni. 
+
+A jelenleg piacon levõ netbookok többsége nem rendelkezik beépített HSPA-kapcsolattal, a felhasználóknak ezért külön eszközök, leginkább USB-s modemek segítségével kell errõl gondoskodniuk. A belsõ HSPA-modul használata mindenképpen kényelmesebb, azonban megnyújtja a termékek piaci bevezetéséhez szükséges idõt, ugyanis forgalomba hozatal elõtt minden netbookot tesztelnie kell a mobilszolgáltatóknak, hogy megfelelõen mûködik-e a hálózatukon. Az Ericsson F3307 világszerte 75 ország mobilhálózatain rendelkezik minõsítéssel, így amennyiben a netbook-gyártók ezt építik készülékeikbe, sem nekik, sem a mobilszolgáltatóknak nem szükséges már a teszteléssel foglalkozniuk, így hamarabb piacon lehetnek az eszközök.
+
+Az Ericsson F3307 HSPA-modul megfelelõ hálózaton másodpercenként 7,2 megabites letöltési és 2 megabites feltöltési sebességre képes. Az Ericcson szerint világszerte több mint 100 országban mûködnek már HSPA-hálózatok, több mint 1 milliárd potenciális ügyfelet elérve. A Berg Insight piackutató vállalat frissen nyilvánosságra hozott adatai szerint Európában 2008 végén az internethez csatlakozó PC-k több mint 11 százaléka mobilneten érte el a világhálót. A következõ években éves szinten átlagosan 30
+százalékkal, 70 millióra nõ majd az a felhasználói tábor, akik akár
+otthoni számítógépükkel, akár noteszgépükkel vagy netbookjukkal
+rendszeresen használnak mobilinternetet -- állítja a Berg Insight.
+
+A svéd távközlésiberendezés-gyártó szorosan együttmûködik az Intellel is, hogy az F3307 mobil szélessávú modult az Intel Pine 
+Trail-M kódnevû, következõ generációs netbook platformján is hitelesítsék. "Az Ericssonnal való együttmûködésnek köszönhetõen a következõ generációs Pine Trail-M netbook platformunkkal a gyártók a gyorsabb piacra 
+kerüléssel szélesebb piaci igényeket tudnak kiszolgálni akár a mobilszolgáltatókon keresztül is" -- mondta Eric Reid, az Intel Mobile Platform csoport marketing igazgatója.

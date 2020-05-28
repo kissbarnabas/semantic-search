@@ -1,0 +1,20 @@
+Budapestet is bevette a Street View román verziója
+
+Keleti nézet
+Viszonylag alaposan, a külsõ kerületeket is érintve járta be a romániai Norc-ot üzemeltetõ eXtreme Soft Group fényképezõs autója a magyar fõvárost. A képek minden esetben nappal, jó fényviszonyok közt készültek, körülbelül egy hónappal ezelõtt. A Google Street View-hoz hasonlóan itt is ki vannak takarva a rendszámok, illetve a legtöbb esetekben az arcok is.
+
+
+A lakóövezetek is megvannak 
+
+A Norc üzleti terve valószínûleg abban merült ki, hogy a Google által hanyagolt kelet-európai térségben létrehozza, lemásolja a Street View szolgáltatást, bár azzal bizonyára nem számoltak, hogy válaszlépésül a Google is beküldi a régióba autóit. A Norc jelenleg Románián kívül Oroszországban, Lengyelországban, Csehországban, Szlovákiában, Ausztriában és Magyarországon érhetõ el. A hozzáadott érték a Google-höz képest ebben a régióban, hogy nem csak a fõvárosokra korlátozzák a fotózásokat, hanem az érintett országokban lehetõség szerint minden nagyobb települést szeretnének végigjárni.
+Országonként 20 város a cél idén
+
+A transindex.ro hírportálon megjelent interjú szerint jelenleg húsz romániai város és régió van befotózva, például Bukarest, Kolozsvár, Temesvár, Szatmárnémeti, Nagyvárad, Arad, Nagybánya, Konstanca, Marosvásárhely, a Prahova völgye és a tengerpart. A többi országban idén év végére szintén szeretnék elérni ezt a húszas számot. Magyarországon egyelõre csak Budapest tekintetõ meg, de például Szlovákiában Kassa (Kosice) vagy éppen Besztercebánya (Banská Bystrica) is terítékre került már.
+
+
+Kálvin tér, metróépítés. Egy örök emlék 
+
+A Norc készítõi továbbá nem is olyan misztikusak, mint a Google, így elárulták, hogy négy furgonváltozatú Dacia Logan járja az utakat. Autónként tíz tükörreflexes Canon digitális fényképezõgép, bokorszerû elrendezésben a tetején készíti a képeket, a feldolgozásért pedig egy szinte átlagosnak mondható, Pentium 4-es processzorral szerelt számítógép felel. A csomag többi része pedig mindössze egy megbízható digitális térkép, egy kisméretû LCD és egy GPS-vevõ, illetve az útvonaltervezõ. 
+Google API
+
+Az Google Maps API-ját és térképeit használó Norc apró pöttyökkel jelzi azokat a helyeket, ahol panorámafotó készült, pirossal a még feldolgozás alatt lévõket, kékkel a már megtekinthetõeket. Budapest tervezett lefedettsége szinte teljes, bár a jelenlegi állapot szerint a város kicsit több, mint egyharmada tekinthetõ meg fotókkal is. A belváros szinte teljesen készen van, a külsõ területek pedig fokozatosan kapcsolódnak majd be.

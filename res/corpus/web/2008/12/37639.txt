@@ -1,0 +1,15 @@
+A Firefox volt az év egyik legsebezhetõbb windowsos szoftvere
+
+A Mozilla nyílt forráskódú böngészõjében fedezték fel idén a legtöbb kritikus sérülékenységet -- derül ki a szoftveraudtiálást végzõ Bit9 idei összesítésébõl. A cég a vállalati környezetben széleskörûen használt alkalmazásokat, illetve azok sebezhetõségét vizsgálja évrõl évre.
+
+
+
+
+A Bit9 összeállításából kiderül, hogy a legtöbb kritikus sérülékenységet idén a Mozilla Firefox böngészõprogram 2-es és 3-as verzióiban fedezték fel -- a két programban az év során eddig 40 biztonsági rést találtak, melyek nagy részét azóta be is foltozták. A ettõl alig lemaradva, 31 sérülékenységgel második az Adobe népszerû PDF-olvasója, a Reader, illetve annak 8.1.1 és 8.1.2-es verziói, míg a harmadik a Microsoft Windows Live Messenger 4.7 és 5.1, összesen 19 biztonsági réssel.
+
+A szoftverauditálással foglalkozó cégek egyik legnagyobbika szerint a legnagyobb biztonsági kockázatot nem elsõsorban a sérülékenységek száma okozza, hanem a tény, hogy az alkalmazottak által a gépekre telepített szoftverek ellenõrzése és rendszeres biztonsági frissítése nem, vagy nehezen megoldható, a felhasználó pedig ritkán végzi el magától a frissítést. Erre megoldás lehet az alkalmazások automatikus, vagy minimális beavatkozást igénylõ frissítési szolgáltatása -- a többnyire hiányos informatikai ismeretekkel rendelkezõ alkalmazott azonban gyakran nem tud mit kezdeni a frissítés megjelenésére figyelmeztetõ párbeszédablakkal sem.
+
+
+A Bit9 értékelésében rámutat, hogy a problémára egyfajta megoldást jelenthet a pontos és naprakész szoftverleltár vezetése, illetve az egyes alkalmazások határozott, csoportházirend-szintû engedélyezése és tiltása. A cég top tizenkettes listáján egyébként elõkelõ helyen szerepel még az Apple iTunes 3.2 és 3.1.2, valamint a Skype 3.5.0.28-as verziója is.
+
+A cég szerint a vállalati rendszergazdáknak fokozottan oda kell figyelni a felhasználók által telepített alkalmazások biztonsági réseibõl fakadó veszélyekre: 2008-ban ráadásul minden eddiginél több problémás szoftver jelent meg, a Bit9 ezért a szokásos top tízes listát tizenkettõ alkalmazásra bõvítette. A listára csak windowsos szoftverek kerülhettek fel, azok közül is kizárólag olyanok, melyek nem frissíthetõk központilag vagy automatikusan olyan vállalati szintû szoftverfrissítési szolgáltatásokkal vagy rendszerekkel, mint a Microsoft System Management Server, vagy a Windows Server Update Services (WSUS). Az Internet Explorer alighanem ezért nem szerepel a Bit9 listáján.

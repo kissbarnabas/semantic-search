@@ -1,0 +1,18 @@
+Bétába lépett a Red Hat virtualizációs platformjának fejlesztése
+
+A Red Hat februárban közölte a várhatót: a jövõben a KVM-alapú hypervisorra építi fel virtualizációs platformját, melynek kereskedelmi neve Red Hat Enterprise Virtualization (RHEV) lesz. A KVM-re, vagyis a Linux kernelben futó köztesréteg technológiára, és az azt csokorba fogó eszközökre az izraeli Qumranet felvásárlásával tett szert a vállalat, mely elsõsorban szerveroldali desktopvirtualizációs megoldást fejlesztett. A RHEV kinyilvánított célja, hogy a virtualizáció szélesebb körû alkalmazása elõtti összes akadályt lebontsa, azaz a költségeket, skálázhatóságot, teljesítményt és biztonságot érintõ problémákat egyaránt orvosolja.
+Az RHEV Hypervisor egy Trusted RHEL kernelre épül, mérete mindössze 64 megabájt. A hypervisor olyan fejlett képességekkel rendelkezik, mint az I/O-virtualizációt lehetõvé tévõ nagyteljesítményû VirtIO driverek, a memóriakapacitás kihasználtságának hatékonyságát fokozó memóriamegosztás (memory page sharing), vagy a hypervisortól független felügyeletet lehetõvé tévõ Libvirt/CIM menedzsment interfész. A Red Hat célja, hogy egy jól skálázható hypervisort alkosson, a tervek szerint a gazdagép 96 logikai processzort és 1 terabájt fizikai memóriát képes kezelni (a legnagyobb, 16 foglalatos Xeon-szerverek), míg a virtuális gépek egyenként 16 virtuális processzort és 64 gigabájt memóriát látnak legfeljebb.
+
+
+A portfólió részeként a RHEV Manager for Servers egy centralizált felület, mellyel a Red Hat ígérete szerint akár több tízezer szerver felügyeletére is alkalmas lehet, és olyan fejlett képességeket támogat, mint a vendéggépek élõ mozgatása, politikákban rögzített leállítások energiatakarékossági célzattal, vagy a magas rendelkezésre állású alkalmazások hátterének kialakítása. A PC-k konszolidációját és virtualizációját teszi lehetõvé a RHEV Manager for Desktops, mely lényegében a Quamranet SolidICE VDI megoldását csomagolja újra.
+ 
+
+Citrix XenServer 5.5
+Megjelent egyúttal a Citrix XenServer 5.5 kiadása is, mely immár AD-integrációt, és gazdarendszerek bõvített támogatását hozza elsõsorban magával, valamint fejlõdtek az adatmentési képességek is. További részletek a szabadon letölthetõ virtualizációs szoftverrõl a bejelentésben.
+
+Az RHEV elsõként valószínûleg az RHEL következõ, 5.4-es kiadásával jelenik meg, ami még a nyárra várható. Nem kell aggódniuk a Xen-felhasználóknak sem, az 5-ös generációban teljeskörû támogatottságot élvez, és egyelõre nem ismert döntés arról, hogy a 6-os generációba ezt továbbviszik-e. Amennyiben a vállalat úgy döntene, a 6-os generációban kizárólag az RHEV támogatott, úgy még mindig legalább 2 év támogatás védi a Xen bázist, mivel egy fõkiadás legalább 18 hónapos támogatási ciklussal rendelkezik. A Red Hat ráadásul konverziós eszközöket is biztosít majd, melyekkel elviekben gond nélkül lehet migrálni az RHEV platformra.
+ 	     
+                  
+                  
+                  
+                   

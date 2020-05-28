@@ -1,0 +1,52 @@
+Kipróbáltuk: Acer Aspire One netbook
+
+A június eleji Computexen egy egész sor apró notebook mutatkozott be az Intel vadonatúj Atom processzorára építkezve. Ezek közül az MSI Windet már volt alkalmunk bemutatni, most a világ harmadik legnagyobb PC-gyártójának, az Acernek a terméke kerül terítékre, jelesen az Aspire One. Fontos elõrebocsátani, hogy a nálunk járt változat még tesztpéldány, nem végleges.
+
+
+
+Eddig a legszebb
+
+Külsõre az Aspire One talán a legszexibb az eddig nálunk járt mini notebookok közül. A fényes tejszínû burkolat és a zsanérok melletti metálpiros gyûrû már-már nõiessé varázsolják a gépet. A gép fekete és kék színben is kapható lesz, valószínûleg ezek is legalább ennyire jól fognak kinézni, legalábbis a képek ígéretesek.  Felnyitás után a vastag, lakkfekete keretbe foglalt kijelzõ fogad, valamint az aprócska billentyûzet.  Az Acer Aspire One kijelzõje átlója 8,9 hüvelyk, felbontása 1024x600 pixel. A megjelenítõ szerencsére nem a konzumgépek világában megszokott tükrözõdõ, fényes kivitelû, hanem matt, ezért a színek fakóbbak, kevésbé kontrasztosak, de legalább a képernyõt látjuk, nem saját magunkat.
+
+
+
+A billentyûzetrõl sajnos nem sok jót lehet elmondani, a gombok kicsik, rövid úton járnak, összességében elég kényelmetlen az Aspire One-on gépelni, vagy legalábbis nagy odafigyelést igényel, hogy ne üssünk mellé -- de biztosan megszokható. A tapipad a bilentyûzethez hasonlóan aprócska, de scrollozni vízszintes és függõleges irányban is képes, bár ezt semmi se jelzi rajta. Az egérgombok a két oldalára kerültek, a HP 2133-nál már láttunk ilyet, és már akkor sem volt kényelmes. A kijelzõ felett egy 0,3 megapixeles webkamera látható, aminek videochatelésnél vehetjük hasznát. Sajnos a rögzített képrõl lerí, hogy olcsó megoldással van dolgunk, de ez egy olcsó gépnek nem róható fel hibaként.
+
+
+
+
+A bõvíthetõség terén nincs szégyenkeznivalója a One-nak, 3 USB port mellett két kártyaolvasó (egy SD/HC és egy multiformátumú 5-in-1), Ethernet-port és VGA-csatlakozó található a gépen. Ami a szemnek láthatatlan, az a 802.11b/g szabványú vezeték nélküli hálózati vezérlõ, amely az Atherostól származik. Késõbb várható beépített HSDPA-modemmel szerelt változat is, errõl árulkodik legalábbis a gép hátulján, az akkumulátor alatt kiképzett SIM-kártyahely.
+
+
+
+
+Ami a hardvert illeti, az 1,6 GHz-es Intel Atom processzor és az Intel 945GME chipkészlet mellé a tesztgépben 512 megabájt memória kapott helyet, az adatok tárolásáról a HP 2133-tól és az MSI Windtõl eltérõen nem merevlemez, hanem flash meghajtó gondoskodik. Utóbbi szintén az Inteltõl származik, a Z-P230 típusszámú egység PATA felületen csatlakozik a chipkészlethez, és 8 gigabájt kapacitású. Az alkatrészekbõl is sejthetõ már, hogy a gép halk, és kevéssé melegedik, amit a tapasztalatok is igazolnak.
+
+Linuxszal jön
+
+A gépet gyárilag Linux operációs rendszerrel kaptuk, a Linpus Linux Lite disztribúciót kimonttan az ilyen és ehhez hasonló gépekhez fejlesztették ki. A felület egyszerû, mégis mutatós, egyértelmûen használható és kellõen gyors is. Az elõre telepített alkalmazások között megtaláljuk a Firefoxot, az OpenOffice.org-ot, e-mail klienst naptárral és címtárral, Skype-klienst, Pidgin-alapú azonnali üzenetküldõt, alapszintû fotószerkesztõt, médialejátszót, egyszóval a legszükségesebb szoftvereket, amelyeket egy ilyen gépen valószínûleg amúgy is használnánk. Az általunk próbált verzió még angol nyelvû volt, de a boltokba kerülõ gépek már magyarul "beszélnek" majd.
+
+
+
+Érdekes, hogy a kezdõképernyõn túljutva, az alkalmazásokat megnyitva egy teljesen Windows XP-ízû kezelõfelület tárul elénk, a tervezõk, fejlesztõk láthatóan kínosan ügyeltek arra, hogy a Microsoft nyugdíjba vonuló operációs rendszerét mindenben utánozzák: ugyanaz a kék ablakkeret, ugyanazok a grafikai elemek köszönnek vissza, amelyeket a hét éve kiadott Windowsban megszoktunk, csak a start menü hiányzik, a programokat az asztalon levõ óriási ikonokkal indíthatjuk.
+
+A hasonló nevû tajvani cég által karbantartott Linpus legnagyobb problémája azonban nem ez, hanem az, hogy gyakorlatilag egy "konzervet" kap a vásárló. A Fedorán alapuló disztribúcióban nincs csomagkezelõ, ezért a további szoftverek telepítése vagy a meglevõek frissítése komoly kihívás lehet az átlagfelhasználónak, de valószínûleg még a tapasztalt linuxosoknak is, mivel a kezelõfelületrõl a parancssorhoz sem lehet hozzáférni. A menüben ugyan elérhetõ egy automatikus frissítés menüpont, de nálunk nem mûködött: két elérhetõ, de névtelen frissítést talált, és nem is töltött le semmit. Fekete mágia kell tehát, hogy például a Firefoxot a legújabb, 3.0 verzióra cseréljük, vagy a 2.3-as OpenOffice az újabb, 2.4-esre frissítsük.
+
+
+Linux alatt a gép egyébként kiválóan mûködik, az SSD-nek köszönhetõen bekapcsolás után néhány másodperccel már be is bootol, gyors, reszponzív, viszont az operációs rendszer a telepített programokkal a 8 gigabájtos  háttértár közel felét elfoglalja, csak 4,7 gigabájt marad szabadon a felhasználói adatoknak. Ezért is van két memóriakártya-foglalat a gépen, az Acer elképzelései szerint a baloldali aljzatba helyezett kártya afféle második háttértárként mûködhet, és még mindig marad egy kártyahely, ha például fotókat szeretnénk a One-ra menteni.
+
+Windows-zal is próbáltuk
+
+Kipróbáltuk az Aspire One-t Windows XP-vel, bár ne tettük volna. Az Intel gyári specifikációja szerint a beépített Z-P230 flash meghajtó legfeljebb 7 megabájttal írható másodpercenként, ezért már a telepítés is szörnyen lassú volt, a használat pedig még ennél is nagyobb csalódás. Az 512 megabájt memóriával szerelt gépen az operációs rendszer folyamatosan swappelne, de a lassú SSD miatt ez kínszenvedés, és a rendszer szinte állandóan "foglalt", a kattintások után hosszú másodpercekent kell várni arra, hogy történjen valami. Az eredetileg Windowszal forgalmazott változatokban az 1 ggiabájt memória mellett nem SSD lesz, hanem 1,8 hüvelykes, 80 gigabájtos merevlemez -- kíváncsian várjuk ezt a változatot is. 
+
+A tesztre kapott gépben 2200 mAh-s lítiumion akkumulátor volt, errõl az áramforrásról Linpus Linux alatt a gép legfeljebb két órát tud mûködni saját "bevallása" szerint, Windows XP alatt ennél 20 perccel többet, az más kérdés, hogy a fenti okok miatt teljesen használhatatlan. Aki jót akar tehát, maradjon a Linuxnál, és vegye meg a nagyobb kapacitású, 4800 mAh-s akkumulátort (hazai ára egyelõre ismeretlen), de az MSI Wind 6-7 órás üzemidejét valószínûleg még ezzel sem éri el. Ami nagy kár, mert az Acer Aspire One pici és könnyû --  digitális mérlegünkön 997 grammot nyomott --, ideális utazó notebook.
+
+
+
+
+Összességében kedvezõ benyomást tett ránk az Acer Aspire One prototípusa. A gép külseje és megépítettsége egyértelmûen jó, a hardverrel sincs gond. Ami a vásárlás ellen szól, az a rövid akkus üzemidõ, de a nagyobb kapacitású áramforrás beszerzésével ez gyenge pont is kiküszöbölhetõ,tehát ez sem olyasmi, aami miatt le kellene mondani az Aspire One megvásárlásáról. A linuxos változat ajánlott bruttó ára 80 ezer forint lesz, amikor szeptember környékén a boltokba kerül, a windowsos verzióért 95-100 ezer forintot kérnek majd. Az általunk eddig próbált mini noteszek közül ez a legolcsóbb, de nem a legrosszabb, sõt! Ár-érték arányban talán ez a legjobb. Nekünk kimondottan tetszett. 
+
+
+Véleménye van?
+Szóljon hozzá a fórumban
+írjon szerkesztõségünknek!

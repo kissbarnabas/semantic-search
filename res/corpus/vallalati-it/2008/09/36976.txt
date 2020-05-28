@@ -1,0 +1,20 @@
+VMware-újdonságok a VMworldön
+
+A Las Vegasban zajló VMworld rendezvényen az x86-virtualizáció piacvezetõje számos részletet hozott nyilvánosságra jövõbeli terveirõl. A legnagyobb tapsot talán akkor kapta Stephen Herrod mûszaki igazgató, amikor bejelentette, a VirtualCenter következõ változata már nem csak Windowson, hanem Linuxon is elérhetõ lesz.
+
+
+
+Linuxos VirtualCenter, új ESX Server
+
+A VMware VirtualCenter a vállalati központi felügyeleti eszköze, a mutatóujj a virtualizált infrastruktúra ütõerén. Ennek szerverkomponense, a VirtualCenter Management Server jelenleg csak Windows Serveren mûködõképes, de a következõ verzió -- amelyet már vCenter néven dob piacra a cég -- már Linuxon is mûködhet. A vCenter kliensoldali komponensét pedig Windows, Linux és Mac OS X mellett az Apple iPhone telefonjára is el fogja készíteni a VMware.
+
+Herrod arról is szót ejtett, hogy a VMware célja, hogy a vállalatok bármilyen alkalmazást futtathassanak virtualizált környezetben, akármilyen teljesítményigényes szoftverrõl is legyen szó. Ennek ma még egyik korlátja, hogy a VMware ESX Server 3.5 legfeljebb 4 processzort és 64 gigabájt memóriát képes egy virtuális géphez rendelni, a 4.0 verzióban azonban már 8 processzor és 256 gigabájt memória a felsõ határ. A nagyobb rugalmasság érdekében az ESX Server 4.0-ban már menet közben, újraindítás nélkül lehet memóriát adni a virtuális gépekhez.
+
+Az adatközpont operációs rendszere készül
+
+
+ A mûszaki vezetõ elmondta, a VMware célja egy olyan teljes szoftvercsomag kidolgozása, amely a virtualizált adatközpontnak afféle operációs rendszereként mûködik -- lényegében ugyanazokat a feladatokat hajtja végre mint egy operációs rendszer (erõforrások elosztása, feladatok ütemezése, I/O kezelés, stb.), csak nem a hardver és az alkalmazások között helyezkedik el, hanem az adatközpont szerverei, tárolói, hálózati eszközei, valamint a virtuális gépek között.
+
+Ez az "operációs rendszer" lehetõvé teszi, hogy a szerverekbõl egy összefüggú erõforrás-csoportot hozzunk létre akár 4096 processzorral és 64 terabájt memóriával, a virtuális gépek ezen az erõforráson futnak majd az elõre beállított házirendek szerint. Hiba esetén automatikusan átvándorolnak egyik szerverrõl a másikra, nagyobb teljesítményigény esetén nagyobb kapacitású gépre kerülnek. A vCompute képes akár teljesen leállítani azokat a szervereket, amelyek éppen nincsenek használatban.
+
+Herrod demonstrálta a Vmware Fault Tolerance képességeit is, amelyrõl elõször tavaly beszélt a cég. A vállalat által vLockstepnek hívott technológia lényegében nem tesz mást, mint egy virtuális gépnek a bitazonos másolatát futtatja egy másik fizikai gépen, így az egyik meghibásodása a másik  azonnal át tudja venni a feladatait. Mivel a VMworld Las Vegasban zajlik, Herrod stílusosan egy "félkarú rabló" szoftverrel mutatta be a Fault Tolerance mûködését, amely akkor is zavartalanul mûködött, amikor a futtató szervert kihúzták a hálózatból.

@@ -1,0 +1,18 @@
+Mobiltelefonos Braille-olvasót fejleszt a Nokia
+
+Az ötödik generációs S60-as készülékek közül a Nokia N97-tel, az 5800 XpressMusic-kal, az N97 minivel, az 5530, 5230 és X6 készülékekkel kompatibilis alkalmazás mûködése egyszerû: a program a háttérbe küldve figyeli az üzenetkezelõ modult, majd új szöveges üzenet érkezésekor, az érintõkijelzõt használva segít a tulajdonosnak Braille jelekkel közvetíteni a szöveget.
+A felhasználónak az olvasáshoz folyamatosan a kijelzõre kell helyezni az ujját olvasás közben - a betûk a hagyományos braille-jelekkel ellentétben természetesen nem emelkednek ki a felületbõl, a domború és sima pontokat helyette a vibramotor rezgése jelzi az olvasó számára. A fejlesztõk elképzelései szerint a program azoknak is segítségére lehet, akik csak most ismerkednek a Braille-írással, így különösen fiatalok számára válhat taneszközzé a mobiltelefon.
+
+
+
+
+
+
+
+
+
+A mobiltelefonok szoftverkínálatából eddig teljes egészében hiányzott a hasonló, vakok és gyengénlátók számára készített alkalmazás, noha néhány készülék képes arra, hogy az SMS-ek és más üzenetek szövegét felolvassa - ez a funkció azonban többnyire csak a nagy világnyelveken mûködik jól. A Nokia Beta Labs braille-olvasója ezzel szemben univerzálisan, az anyanyelvtõl függetlenül használható.	     
+                  
+                  
+                  
+                   

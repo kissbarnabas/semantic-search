@@ -1,0 +1,16 @@
+A Hagiwara 2,5 hüvelykes SSD-technológiát alkalmaz 1 hüvelykes meghajtóiban
+
+A Hagiwara Sys-Com bejelentette, hogy átültette a 2,5 hüvelykes SSD-meghajtó-technológiát 1 hüvelykes meghajtóiba, melyek elsõ példánya 8 gigabájt kapacitásban már elérhetõ.
+
+
+
+A Hagiwara név nem ismeretlen a hazai piacon, a gyártó termékei közül itthon leginkább CF-kártyákat lehetett megvásárolni. A gyártó az SSD-piacon is megvetette a lábát, legfrissebb bejelentése 1 hüvelykes meghajtóról szól, melyben a 2,5 hüvelykes, egyszintû cellaszervezésû SLC-technológiát alkalmazza.
+
+A Hagiwara HFD10P az átalános megoldásól eltérõen nem SATA, hanem a CF méretosztályban alkalmazott PATA csatolófelületen keresztül tartja a kapcsolatot a számítógép vezérlõjével, melyen maximálisan 39 megabájt másodpercenkénti olvasási- valamint 25 megabájt másodpercenkéni írási sebesség mérhetõ. A kisméretû meghajtóból jelenleg 2-8 gigabájtos változatok készülnek, de még a nyár folyamán megérkezhet a 16 gigabájtos változat is.
+
+
+
+
+A gyártó természetesen a burkolat alá rejtette a TrueSSD vezérlõelektronikát is, mely a kevésbé használt területeket terheli, így a legvégsõkig kitolható a meghajtó élettartama. A vezérlõ azokat a cellákat írja, melyek a legkevesebbet voltak igénybe véve, ezáltal elkerülhetõ, hogy a meghajtónak bármely memóriacellája hamarabb fáradjon el, mint a kevésbé használt területeké, hiszen azok csak korlátozott számban írhatók.
+
+Az HFD10P gyorsítótára a lehetõ legkevesebb írási mûvelet elérésének érdekében kis adatblokkokat szervez nagyobbakba. A gyártó az 1 hüvelykes tárolót a magas írástûrõ képessége miatt bootmeghajtóként is ajánlja, célterületként a netbookok mellett egyéb hordozható eszközök is szóba jöhetnek. A Hagiwara a bejelentés során árakról, illetve a forgalmazás kezdetének dátumáról még nem beszélt.

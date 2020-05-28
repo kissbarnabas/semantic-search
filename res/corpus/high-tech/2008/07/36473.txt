@@ -1,0 +1,14 @@
+Közel 6 megabites feltöltési sebesség mobiltelefonnal -- tovább gyorsulhat az adatátvitel
+
+Hamarosan kereskedelmi alkalmazásban is megjelenhet a HSPA Evolution, vagy HSPA+ néven is ismert 3G-s mobil szélessávú adatátviteli technológia, mellyel akár 42 Mb/másodperces letöltési és 22 Mb/másodperces feltöltési sebességek is elérhetõk lesznek. Az Ericsson és a 3 Italia most az iparágban elsõként létesített már mûködõ kereskedelmi hálózaton HSPA+ kapcsolatot.
+
+
+
+A 3 Italia meglévõ kereskedelmi hálózatán végzett tesztüzem során 5,8 Mbps feltöltési sebességet értek el a jelenleg rendelkezésre álló eszközparkkal, azaz hozták a HSUPA hálózatok elméleti maximumát. A HSPA+ rendszerek azonban egy új modulációs technikának (64QAM) és a többantennás (2x2 MIMO) megoldásnak köszönhetõen az átviteli sebesség növelése mellett jelentõsen csökkentik a hálózat késleltetési idejét is, a bázisállomások terhelését, ami nemcsak gyorsabb, de stabilabb kapcsolatot is eredményez.
+
+Ericsson RBS 6000 bázisállomás: sokoldalú mobil hálózatokhoz felkészítve
+
+Az Ericsson és a 3 Italia úgy véli, hogy a HSPA+ mobil adatátviteli technológia bevezetése fontos állomása lehet a nagy sávszélességet igénylõ interaktív, multimédiás alkalmazások térnyerésének -- az Ericsson által kiadott sajtóközlemény ezek közül a videokonferenciákat és az online szerencsejátékokat említi, de a nagyobb feltöltési sebesség minden olyan esetben jól jöhet, amikor a felhasználó nagyobb mennyiségû adatot továbbítana, így például nagy csatolmánnyal ellátott e-mailt küld, vagy videofájlokat, fényképeket tölt fel az internetre.
+
+
+A távközlési hálózatokba szánt megoldások svéd szállítója idén áprilisban, a Las Vegas-i CTIA Wireless 2008 rendezvényen demózta elõször saját eszközein keresztül a HSPA+ technológiát. A Ericsson kínálatában több olyan bázisállomást is szerepeltet, mely számos más, nagy sávszélességet nyújtó adatátviteli rendszer mellett a HSPA+ normát is ismeri. A cég kínálatában az év elsõ felében megjelent RBS 6000 család például a GSM/EDGE hálózatokon túl támogatja a WCDMA/HSPA+ és LTE szabványokat, normákat.

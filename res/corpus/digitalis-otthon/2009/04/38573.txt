@@ -1,0 +1,14 @@
+Az ASUS új noteszei az Intel lopásgátló áramkörét alkalmazzák
+
+Az ASUS új, üzleti felhasználásra szánt P-sorozatú noteszgépeiben megtalálható az Intel lopásgátló technológiája, mely lehetetlenné teszi az eltulajdonított gépek illetéktelen használatát.
+
+
+
+Az Intel lopásgátló technológiája ugyan a bûncselekményt fizikailag nem képes megakadályozni, aktívvá ennek megtörténte után válik. A lopásgátló rendszer alapja hardveres mag, mely akkor is mûködõképes marad, ha az operációs rendszert újratelepítik, vagy ha kicserélik az egész merevlemezt. Az Intel Anti-Theft Technology nem csak titkosítja a meghajtó tartalmát, illetéktelenek számára olvashatatlanná téve az adatokat, hanem képes blokkolni a hozzáférést a géphez is --  a notebook nem bootol, ugyanis a chipset nem rendelkezik a mûködéshez szükséges kulccsal.
+
+
+ Szerencsére a lezárt noteszgép és adatai egy kóddal késõbb feloldhatók, tehát a gép -- ha megkerül -- újra használatba vehetõ. Az ASUS P-sorozatú noteszgépei a biztonság terén nem csak az Intel technológiájára támaszkodnak, hanem hétköznapibb megoldásokra is, mint amilyen például az ujjlenyomat-azonosító.
+
+
+
+A gépek az Intel közremûködésébõl sejthetõen Core 2 Duo processzorokat tartalmaznak, ezek 2-tõl egészen 2,83 gigahertzes változatig rendelhetõk, melléjük akár 4 gigabájtnyi memória is építhetõ. Az ASUS P80 14 hüvelykes, szélesvásznú kijelzõje 1366x768 képpontot jelenít meg, a grafikus gyorsításért pedig 512 megabájtos NVIDIA GeForce 9300M videochip felel. A kisebb és takarékosabb, 13,3 hüvelykes panellel szerelt P30 kissé különbözik a P80-tól az Intel új CULV (consumer ultra low voltage) platformjára épül, benne alacsony fogyasztású processzoroké a fõszerep. A gépek napokon belül elérhetõvé válnak, árukat azonban nem közölte az ASUS.

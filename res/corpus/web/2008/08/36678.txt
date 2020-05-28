@@ -1,0 +1,48 @@
+Kipróbáltuk: Cuil, a reménytelen Google-gyilkos
+
+A keresõpiaccal kapcsolatban a Microsoft részérõl is hangzott már el az, hogy lekéstek róla, globális szinten a piacot teljesen uralja a Google. Ennek ellenére néhány ex-Google mérnök megpróbálkozott a lehetetlennel: az újragondolt, tematizált találati lista elsõre csábító lehet, de a látvány sokszor a használhatóság kárára megy.
+
+
+
+A Cuil (ejtsd: [kúl]) keresõt 33 millió dolláros alaptõkével indította útjára néhány ex-Google és ex-IBM alkalmazott. Legelsõ céljuk nem volt más, mint túlszárnyalni a Google némely mutatóit, mint például az indexelt lapok számát, amirõl a Google azt állította, hogy a lehetséges legjobb eredményt képesek felmutatni. A Cuil 120 milliárd oldalt indexelt az interneten, ami szép szám, de nehezen bizonyítható, hogy ez több, mint a Google-é, hiszen õk már jó ideje nem publikálják ezen adatukat. Ráadásul a keresés felhasználók által is jobban preferált szempontja a találatok száma helyett, azok relevanciája, azaz odaillõsége.
+
+Kényelmes keresés
+
+A Cuil fejlesztõi abból indultak ki, hogy a keresés eredményei közül a felhasználók úgyis csak az elsõ néhányat vizsgálják meg, tehát ide kell minél pontosabb találatokat helyezni. Mivel a kereséssel mindenki idõt szeretne megspórolni, ezért a több millió találat nem jelent elõnyt, ugyanis senki nem fogja azokat végignézni. Ez a különbség látszik is a két keresõ között, hiszen a legtöbb kipróbált kulcsszó esetén a Cuil jóval kevesebb találatot számolt összesen. Sõt még önmagára is kevesebb találatot jelez (8512 vs. 3,6M), mint a Google rá.
+
+
+Nemes egyszerûség 
+
+Lévén, hogy a 8512 találat is több, mint elég, így a kérdés valóban az, hogy a két keresõ hogyan tálalja az elsõ 10-20 linket. A Cuil kezelõfelülete még a Google-höz képest is egyszerû. A nyitóoldalon mindössze egy logót és egy fekete háttér elõtti szövegbeviteli mezõt találunk, amibe begépelhetjük kíváncsiságunk tárgyát. A gépelés elkezdése után szinte azonnal megpróbálja a keresõ kitalálni a keresõszót, számos variációt felajánlva. Ez a funkció a Google esetében is elérhetõ a Firefox Search bar esetén, míg a normál keresõnél ajánlatokat csak egy esetleges elgépelés után tesz. A Cuilban megjelenõ találatokat egy háromoszlopos listába rendezi, hasonlóan egy híroldal felépítéséhez. A találatoknál igyekszik egy kis képet is mellékelni, megjeleníti az adott tartalom címét, egy rövid részletet a szövegbõl, illetve legalul a citált oldal linkjét, vagy annak elejét. 
+
+Így a találati lista átláthatóvá válik az egyszerû felhasználó számára, s az ismeretlen témákban való böngészéshez valóban ideális választás lehet. Míg a Google sikeres használatához a paraméterezés, az okos kulcsszavazás lehet a megoldás, addig a Cuil-nál a szûkítés elve hozhat eredményt. Beírva egy átfogóbb témakört vagy egy több tematikában is használt fogalmat, a keresõ felosztja a találatokat, melyeket külön aloldalakon jelenít meg. Átkattintva bármelyikre, a beviteli mezõben is folyamatosan változik a keresõszó. Ezt tovább bõvítve saját kulcsszavakkal végül eljuthatunk addig, hogy csupán 1-5 találat maradjon, melyek elméletileg teljesen megfelelnek számunkra.
+
+Irreleváns találatok
+
+Kizárólag amerikaiaknak 
+
+A referencia-keresések során viszont csúfosan alulmaradt a Cuil találati listája a Google-lel illetve a Yahoo-val szemben. Az elsõ és legfontosabb szempont egy magyar felhasználó számára, hogy a mi anyanyelvünkön mennyire mûködik az új keresõ. A Google-höz képest keresési találatok szempontjából azonnal hátrányba kerül, hiszen a Cuil nem tárol semmilyen adatot a felhasználókról, így azt sem veszi figyelembe, hogy az adott felhasználó milyen nyelvet beszél, illetve melyik országban tartózkodik.
+
+Sõt, az elsõ tapasztalatok alapján az angol nyelven kívül a relevanciája nem feltétlenül mûködik teljesen jól. Így például a Veszprémi Utcazene Fesztivál szavakra keresve ugyan kapunk 1400 találatot, de a rendezvény hivatalos honlapja csak a harmadik oldal alján kerül elõ, addig többnyire blogbejegyzésekre és programajánlókra mutató linkeket sorol a Cuil. Cseh László nevére rákeresve a Cuil elsõ helyen egy elavult amerikai linket hoz, fotót nem sikerül találnia, majd a többi helyen azért felbukkan a wikipedia-oldala, korábbi sajtómejelenések, adatbázisok, de semmi a cikk megírásának pillanatában két napos olimpiai ezüstérmérõl.
+
+
+ Ehhez képest a Google rendezési elve hasznosabbnak tûnik, hiszen az angol és a magyar nyelvû kereséssel is kapunk találatot az élettörténetére, illetve a teljesen aktuális eseményekre is, sõt egy egész fotókiállítást is rendezhetünk belõle, illetve a blogok és hírek között is bõséggel találunk megfelelõ tartalmakat. Ez egy ideiglenes hatás is lehet a Cuil rendszerében, hiszen egy viszonylag fiatal keresõrõl van szó, aminek az algoritmusa is tanulhatja a felhasználók szokásait, választásait, illetve az sem biztos, hogy az indexelés sebessége elérte azt a szintet, amit a fejlesztõk kitûztek. 
+
+Új, de máris elavult 
+
+A találati frisseségre egy még jobb példa az Intel új processzorának bejelentése, amirõl az elsõ cikkek körülbelül 24 órája jelentek meg. A Cuil a "Core i7", "intel core i7", "i7 core intel" keresésekre gyakorlatilag semmilyen,  vagy nem odaillõ találatokat hoz csupán, míg a Google már a reggeli órákban, gyakorlatilag percekkel az adott cikkek megjelenését követõen dobta a megfelelõ találatokat magyar és angol nyelven is.
+
+A Google árnyékában
+
+Egy adott termékre, mondjuk egy mobilkészülékre rákeresve a találati lista általában rendben van, viszont egy újabb hibára lehet figyelmes a felhasználó> a szövegek mellé gyakran nem a megfelelõ képet társítja az algoritmus. Egy adott cikken belül nyilván nehéz felismernie, hogy a szövegben elõforduló utalás miatt az illusztráció is egyezik-e majd. Annak ellenére, hogy ez egy nehezen kiküszöbölhetõ hiba, igen zavaró lehet. Ráadásul kép, videó, blogbejegyzés és hírek keresésére egyelõre nem specializálódott a Cuil, így ezekkel kapcsolatban össze sem lehet hasonlítani a Google-lel.
+
+Kisigényûekre szabva 
+
+További gyengesége a keresõnek a paraméterezhetõség szinte teljes hiánya. Nyilván elsõ körben az amerikai közönséget célozta meg, onnan is az idõsebb, kevésbé IT edukált felhasználókat, de ettõl függetlenül a normál kapcsolók (+,-," ") vagy a Google-ben már jól megszokott funkciók (pl.: site:, link:) bekerülhettek volna anélkül is, hogy tovább bonyolították volna a felületet. A beállítások között is mindössze a Safe Search és az automatikus kitöltés funkció kapcsolható ki, illetve be.
+
+Végeredményben a Cuil, ahogyan több angol-szász blogger is írja, egyáltalán nem "cool". Viszont a digitális világhoz nemrégiben csatlakozott felhasználók tömegeiben még bízhat, hisz számukra a színes-szagos mindig többet ér, mint a jó minõségû. Olyan esetben, amikor a felhasználó nem tudja igazán, hogy mit keres, ott is jelenthet többletet a vizualitásban erõsebb Cuil találati listája, de hosszú távon nem jósolunk nagy, világmegváltó jövõt neki. Nem eszik olyan forrón a kását, a világ legerõsebb márkanevét nem lehetséges csak úgy megzavarni. A Google, Yahoo, Microsoft triumvirátus farvizén viszont sokáig elevezhet anélkül is, hogy bármiben megelõzné õket. 
+
+
+Véleménye van?
+Szóljon hozzá a fórumban
+írjon szerkesztõségünknek!

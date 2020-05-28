@@ -1,0 +1,20 @@
+Felturbózott SSD-kre számít jövõre a SanDisk
+
+A jelenlegi átlagnál akár négyszer gyorsabban írható flashalapú adattárolók (SSD-k) készülhetnek jövõre a SanDisk most ismertetett eljárásával. Az amerikai cég emellett azt szorgalmazza, hogy a piaci szereplõk konszenzusos úton mielõbb állapodjanak meg néhány olyan, egységes mérési módszer alapján létrejött paraméterben, amik segítségével a memóriachipekbõl felépülõ tárolóegységek teljesítménye könnyebben összemérhetõ lenne a merevlemezek teljesítményével.
+
+
+
+Növelnék a tempót
+
+A SanDisk által a most zajló WinHEC 2008 konferencián ismertetett, kifejezetten a flashalapú adattárak részére fejlesztett, ExtremeFFS-nek keresztelt filemenedzsment-rendszer alapjaiban változtatná meg az SSD-k írási protokollját. A cég elképzelései szerint az írási folyamat az új rendszerben elválasztaná egymástól a fizikai és a logikai réteget. Az eddigi megoldások az adatokat teljesen véletlenszerû blokkokban azonnal a tárolóra írták, addig az ExtremeFFS-ben egy átmeneti gyorsítótárba kerülnének, majd onnan szektoronként írná át a rendszer az SSD optimális memóriabankjába, melyet az adattár lehetõ leghosszabb életciklusa érdekében a vezérlõchip egy speciális, fáradáskezelõ algoritmus alapján számítaná ki.
+
+
+A lapozóalgoritmust a SanDisk elképzelései szerint az operációs rendszer igényeihez lehetne majd szabni (a Windows Vista például jellemzõen nagy mennyiségû adatot ír véletlenszerûen az adattárolóra, ami az SSD-k hatékonyságát, teljesítményét nagy mértékben csökkentheti). Az ExtremeFFS ezzel együtt bármelyik operációs rendszerrel együttmûködik majd, további elõnye pedig, hogy engedélyezi a NAND Flash adatcsatornák egymástól független mûködését is, azaz az egységen belül az adatokat egyszerre lehetne írni és olvasni vele.
+
+A gyártó szerint az ExtremeFFS-nek része lesz az az algoritmus is, ami öntanuló módon az alapján lesz képes a különbözõ memóriabankokba elhelyezni az adatokat, hogy azokat milyen idõközönként éri el, vagy módosítja az operációs rendszer. Az ExtremeFFS egyébként az idõközben a SanDisk kezébe került M-Systems által fejlesztett TrueFFS technológia leszármazottjának tekinthetõ -- az eredetileg a mobiltelefonok számára fejlesztett rendszert már a Windows 95 is támogatta.
+
+Új mérõszámok kellenek
+
+A SanDisk másik fontos célkitûzése az új, az SSD-k írását gyorsító algoritmus bevezetése mellett egy olyan, egységesített mérõrendszer felállítása, melynek segítségével a flashalapú tárolók teljesítményét össze lehetne hasonlítani a hagyományos merevlemezek teljesítményével. A SanDisk így azt javasolja a nagyobb piaci szereplõknek, hogy mielõbb vezessék be a virtuális fordulatszám (vRPM) fogalmát az SSD-knél, így legalább hellyel-közzel összemérhetõ lenne a két egymástól gyökeresen különbözõ technológiát képviselõ tárolóegységek teljesítménye.
+
+A vRPM mellett a Long-term Data Endurance (LDE) mérõszámot is bevezetné a SanDisk, ez az SSD várható életciklusával kapcsolatban nyújtana egyszerû formában információkat a vásárló számára. Az LDE gyakorlatilag az SSD kalkulált életciklusában maximálisan megengedett írási mûveletek számát takarná -- a SanDisk példaként a gumiabroncsok futófelületének kopását jelzõ csíkhoz hasonlította a technológiát, bár az nem világos, hogy a limit elérésekor automatikusan letiltaná-e az egységet, vagy engedné a további használatot. A SanDisk már továbbította az LDE-vel kapcsolatos összes technikai információt és háttéranyagot a szabványalkotó JEDEC-nek.

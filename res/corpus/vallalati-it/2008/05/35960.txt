@@ -1,0 +1,24 @@
+Egy modern Linux-disztribúció és egy vállalati UNIX ötvözete az OpenSolaris
+
+Meghozta gyümölcsét a Indiana kódnevû projekt: a Sun a CommunityOne rendezvényen bejelentette, hogy elérhetõ az OpenSolaris operációs rendszer legújabb, 2008.05 verziószámú változata, amely már nem csak forráskódként, hanem binárisként is letölthetõ. 
+
+
+
+A Linux ellen
+
+A vállalat azt várja, hogy a Linux-disztribúciókhoz hasonló telepítõcsomag és a LiveCD még több fejlesztõ figyelmét kelti fel, akik letöltik és kipróbálják a nyílt forrású operációs rendszert. A kimondott cél az, hogy a lehetõ legnagyobb közösséget gyûjtsék az OpenSolaris köré, amelyre késõbb építkezni lehet -- a kimondatlan cél pedig nyilvánvalóan az, hogy felhasználókat csábítsanak el a Linux különféle változataitól, és állítsanak az OpenSolaris, illetve a Solaris mellé.
+
+"A Solaris nagyon erõs felhasználói bázissal rendelkezik" -- mondta Jim McHugh, aki az operációs rendszer körüli marketing-tevékenységet írányítja. "Most fogtuk a Solaris összes elõnyös tulajdonságát, és elérhetõvé tettük olyanok számára, akik már használtak és ismernek más nyílt forrású operációs rendszereket. Ezzel olyan képességek birtokába kerülhetnek, amelyeket korábban csak a UNIX-ok sajátjának tulajdonítottak."
+
+
+ Kérdés, hogy a Sun idõben eszmélt-e, és az OpenSolarisszal le tudja-e lassítani a Linux terjedését a vállalatok körében, amelynek elsõ számú vesztesei a nagy UNIX-szállítók, köztük maga a Sun. A piacelemzések ugyanis azt mutatják, a Linux leginkább a UNIX-októl hódít el vásárlókat, felhasználókat, akiket a másik oldalról pedig a Microsoft támad a Windows Server különféle változataival.
+
+Mi van benne?
+
+Az OpenSolaris tartalmazza a Solaris szinte összes fejlett technológiáját, beleértve például a ZFS (Zettabyte File System) fájlrendszert, amely egyszerûen lehetõvé teszi a fájlrendszerben történt változtatások visszavonását, például a törölt fájlok helyreállítását, vagy a módosítások érvénytelenítését. A szoftvernek része az operációs rendszer valós idejû monitorozását és az alkalmazások finomhangolását lehetõvé tevõ Dtrace, valamint a Solaris Containers virtualizációs megoldás is.
+
+
+
+ Az OpenSolaris 2008.05. emellett rendelkezik azokkal a népszerû asztali szoftverekkel, amelyeket a korszerû Linux-disztribúciókból már ismerhetünk (pl. Firefox, Thunderbird, Evolution, Pidgin, GIMP, Totem). Emellett a telepítõrutint is kellõen egyszerûvé, áttekinthetõvé tették, így az OpenSolaris installálása elvileg nem bonyolultabb, mint egy Linuxé, a LiveCD-s elérhetõségnek köszönhetõen pedig még telepíteni sem kell a kipróbáláshoz. 
+
+Az OpenSolaris 2008.05 tartalmaz egy saját csomagkezelõt (Image Packaging System), amely segítségével a telepített operációs rendszerre további komponenseket tölthetünk le, például a Sun fejlesztõi eszközeit (Sun Studio Express, NetBeans), vagy az OpenOffice irodai csomagot. A vállalat a késõbbiekben szeretné a kiadások ütemét fél éves ciklusokra szorítani, vagyis hathavonta szolgálna új változatokkal. A fejlesztõk így állandóan elérhetnék a legfrissebb Solaris-újdonságokat anélkül, hogy maguknak kellene veszõdnie a fordítással.

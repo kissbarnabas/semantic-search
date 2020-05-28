@@ -1,0 +1,16 @@
+A Sun szervereibe is megérkeztek a négymagos Opteronok
+
+A Sun Microsystems is csatlakozott azon szervergyártók sorához, amelyek négymagos Opteronokra épülõ gépeket dobnak piacra. A vállalat áprilisban mutatta be új opteronos gépeit, azonban akkor még csak kétmagos chipekkel lehetett õket rendelni, de mostantól négymagos lapkákkal is elérhetõk. Az AMD négymagos szerverprocesszorainak termelése felfutóban van, a Sun a HP-t és a Dellt követi a vezetõ szerverszállítók sorában.
+
+
+
+A gépek vadonatúj fejlesztésûek, ennek köszönhetõen még az 1U kivitelû, kétfoglalatos Sun Fire X4140 is 8 SAS merevlemezt képest fogadni, legfeljebb 64 gigabájt memóriát támogat és 3 PCI-E kártyával bõvíthetõ. A kínálatban újdonság a Sun Fire X4240, amely egy 2U magas, kétfoglalatos kiszolgáló. Az X4240 érdekessége, hogy összesen 8 SAS és 8 SATA diszket képes fogadni, memóriából pedig legfeljebb 64 gigabájtot támogat, ami ideális kis- és középvállalati adatbázis-szerverré teszi.
+
+
+
+Az új tervezésû gépek sorát a Sun Fire X4440 teszi teljessé. A Sun Fire X4400-ben legfeljebb 4 Opteron dolgozhat a 128 gigabájt memória mellett  -- a világon egyedüálló paraméterek egy 2U magas szervertõl. A négy processzor és a hatalmas memória miatt a diszkek száma legfeljebb 8 lehet, PCI-E kártyából azonban elfér hat darab. Mindhárom szervernél az alapfelszereltség része a redundáns táp és hûtés, a szervizprocesszor és a távoli telepítéshez szükséges összes funkció.
+
+
+ A Sun masináit lényegében az összes négymagos Opteronnal meg lehet rendelni, beleértve a hétfõn bejelentett energiahatékony (HE) változatokat, vagy akár a kétmagos 3,2 GHz-es Opteron 2224 SE csúcsmodellel is. Operációs rendszerként szinte az összes, x86-os gépeken futó termék támogatott, beleértve a Solaris 10-et, a Windows Server 2003-at, a Red Hat Enterprise Linux 4-et és 5-öt, a SUSE Linux Enterprise Server 10-et, valamint a VMware ESX Servert. Polner Tamás marketing-vezetõtõl megtudtuk, Magyarországon a jövõ héttõl szállítja a konfigurációkat a Sun.
+
+A Sun emellett bejelentette azt is, hogy a korábban piacra dobott Sun Fire X2200 M2, X4100 M2, X4200 M2, X4600 M2 és X4880 blade szerverei is frissíthetõk a négymagos Opteronokkal. A vállalat közleménye szerint ilyen szervereket világszerte mintegy 12 ezer ügyfél használ, akik most egy egyszerû processzorcserével nagyobb sebességre kapcsolhatják rendszereiket.

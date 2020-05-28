@@ -1,0 +1,22 @@
+A rendszergazdák életét is megkönnyíti az Internet Explorer 8
+
+Az Internet Ezplorer 8 számos olyan képességet felvonultat, amelyek egyszerûbbé teszik a böngészõ bevezetését, használatát, felügyeletét vállalati környezetben -- derül ki a fejlesztõk hivatalos blogjából. Az újdonságok az augusztusban érkezõ második bétában mutatkoznak be.
+
+
+
+Még egyszerûbb telepítés, gyorsabb image-készítés
+
+A Microsot már az Internet Explorer 7 kapcsán is számos olyan eszközt tett elérhetõvé, amelyek a központi telepítést, bevezetést és felügyeletet tették egyszerûbbé. Az Internet Explorer Administration Kit segítségével a rendszergazdák például távolról, központilag állíthatják be a böngészõnek nem csak a biztonsági funkcióit, hanem akár a kezdõlapot vagy az alapértelmezett keresõmotort. Ezek az IE8 esetében is megmaradnak, azonban továbbiakkal egészítik ki õket, miután a Microsoft tavaly kétezer rendszergazda körében végzett egy felmérést az asztali gépeken futó alkalmazások felügyeletével kapcsolatban. 
+
+A Microsoft azt ígéri, az Internet Explorer 8 pofonegyszerûen beépíthetõ lesz a Windows Vista telepítõ image-ekbe. Ezt a képességet felhasználói visszajelzésekre válaszul fejlesztette a szoftvercég, ugyanis nagyon sokan panaszkodtak arra, hogy az Internet Explorer 7 és a Windows XP egy telepítõkészletbe építése túlságosan idõrabló feladat -- fel kell telepíteni a Windows XP-t, majd rá az IE7-et, ás utána ezt az image-et kell lementeni és így lehet terjeszteni.  A redmondiak szerint egy Internet Explorer 8-at tartalmazó Vista image 10-15 perc alatt létrehozható, és a késõbbi hibajavítások is egyszerûen beépíthetõk lesznek az image-ekben.
+
+Központi biztonsági felügyelet
+
+Bár furcsa ezt leírni, de az Internet Explorer 8 egyik fontos újdonsága a webes szabványok támogatása lesz. Ezt egyben azt is jelenti, hogy az Internet Explorer korábbi, nem teljesen szabványos változataira optimalizált weboldalak nem feltétlen jelennek meg majd jól az új böngészõben, ezért a fejlesztõk beépítettek az IE8-ba egy IE7-kompatibilitási módot is, amelyet a rendszergazdák csoportházirendbõl is beállíthatnak akár. Emellett az IE8 bevezetését új Application Compaibility Toolkittel is segíti a Microsoft, amely segít az új böngészõvel nem kompatibilis vállalati weboldalak felderítésében.
+
+
+ Az IE8-ban a beépülõ modulok viselkedését is lehet majd csoportházirendbõl irányítani. A felhasználók adminisztrátori jogosultság nélkül is telepíthetnek ActiveX-vezérlõket (amennyiben csoportházirendbõl ezt engedélyezzük), de lehetõség van a vezérlõk települését csak bizonyos oldalakra korlátozni. Amint arról beszámoltunk, az IE8 lehetõséget nyújt majd arra, hogy az ActiveX vezérlõk egy teljesen elszigetelt környezetben fussanak, így ha még kártékonyak is, akkor sem tudnak valódi kárt okozni.
+
+A vállalatoknál is kezd hódítani a Firefox
+
+Az Internet Explorer legfontosabb piaci ellenfele, a Mozilla Firefox ugyan sok tekintetben megelõzi a Microsoft böngészõjét, azonban teljesen híján van a vállalati használatot támogató eszközöknek. Ilyen képességeket jelenleg csak külsõ fejlesztõk által készített komplonensek (pl. FirefoxADM) segítségével érhetnek el a cégek. Mindazonáltal a Firefox részesedése a vállalati világban is növekszik, Mike Schröpfer vezetõ fejlesztõ szerint ennek oka legfõképp a nagyobb biztonság: a kevesebb támadás, fertõzés miatt a dolgozóknak ritkábban kell a céges helpdesket hívniuk, és folyamatosan dolgozhatnak.

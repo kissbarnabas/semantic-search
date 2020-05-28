@@ -1,0 +1,18 @@
+Október végén jönnek az elsõ részletek a Windows 7-rõl -- és az elsõ béta is?
+
+A Microsoft az október végén Los Angelesben zajló Professional Developers Conference-en, illetve a novemberi Windows Hardware Engineering Conference-en ismerteti a Windows 7 elsõ technikai részleteit -- derül ki a most indult Engineering Windows 7 blogból.
+
+
+
+Ne szólj szám, nem fáj fejem
+
+A Windowsok fejlesztését irányító Steven Sinofsky beismerte, hogy a Microsoft túl kevés részletet osztott meg eddig a nagyközönséggel, de ez szándékos, a vállalat addig nem akar beszélni az új operációs rendszerrõl, amíg nem tud konkrétumokat mondani. A blogbejegyzésben Sinofsky leírja, a Vista kapcsán a Microsoft igen kellemetlen tapasztalatokat szerzett azzal, hogy túl korán túl sokat mutatott és ígért, olyan funkciókról is beszélt, amelyek végül be sem kerültek az operációs rendszerbe, vagy jelentõs változáson estek át. A Windows 7 kapcsán ezt nem akarja megismételni a Microsoft, nehogy a vevõket végül csalódás érje.
+
+Az új asztali Windowsról valóban kevés részlet ismert eddig. Annyit azért tudni lehet, hogy nagy hangsúlyt fektetnek az érintéses vezérlésre, a Windows Live szolgáltatások szorosan integrálva lesznek az operációs rendszerbe, valamint hogy a szoftver virtualizációs képességeket is felvonultat majd. A Windows 7 fejlesztése már másfél éve zajlik Sinofsky elmondása szerint, és ha minden a tervek szerint zajlik, akkor nagyjából félúton tarthat. Egy korábbi interjúban Sinofsky azt ígérte, az új asztali operációs rendszer legkésõbb három évvel a Vista megjelenését követõen a piacon lesz, vagyis 2010 elejére várható, ami nagyjából másfél évnyi távolságra van még.
+
+
+ Ha a fejlesztõk annak idején Vistára megfelelõen elkészítették a szoftvereket, nem lehet probléma a Windows 7-tel sem, ugyanis utóbbi gyakorlatilag az elõbbi leszármazottja, teljes driver- és alkalmazáskompatibilitással. Ez röviden annyit tesz, hogy a Windows Vistára írt driverek és szoftverek változtatás nélkül futnak Windows 7-en is. A Windows 7 elsõ bétájának megjelenése után már csak azok a driverek kaphatják meg a Vista-logót, amelyeket a Windows 7-tel is teszteltek.
+
+Elsõ tesztváltozat?
+
+A HWSW információi szerint az októberi PDC-n és a november eleji WinHEC-en a Microsoft nem csak bemutatja a Windows 7 számos újdonságát, hanem egy elõzetessel is elõrukkkol, hogy a szoftverfejlesztõk idejekorán megkezdhessék a munkát az alkalmazásaikon. A Vista elsõ nyilvános bétája 2005 nyarán jelent meg, másfél évvel a végleges verzió elõtt.

@@ -1,0 +1,15 @@
+Villámgyors modemek a hazai Vodafone kínálatában
+
+Január közepétõl két új modemmel gyarapította kínálatát a Vodafone. A VMC E272 USB-modem és a VMC E870 adatkártya egyaránt alkalmas a HSDPA mellett a HSUPA adatátvitelre is, ráadásul utóbbival a hordozható számítógépek mostohagyerekként kezelt Express Card kártyahelyét is megtölthetjük. A két új, szélessávú internet elérésre alkalmas modem a meglévõ kettõ mellé csatlakozik a kínálatban, de ezek a HSDPA adatátvitelen túl a HSUPA csatlakozási módot is támogatják.
+
+
+
+
+A VMC E272 az eddigi, a reklámplakátokról jól ismert, egérhez hasonlatos E220-at váltja, amely maximum 3,6 megabit másodpercenkénti sebességre képes a letöltési oldalon. Ezt az elméleti maximum értéket az E272 7,2 megabitre srófolja fel olymódon, hogy feltölteni a korábbinál jóval gyorsabban, 1,45 megabit másodpercenkénti sebességgel képes, amely a korábbi változat 384 kbit/s-os értékével áll szemben. Az USB 2.0 csatlakozóval ellátott E272 elnyerte a 2008-as iF termék-design díjat, melyet 1954 óta a Nemzetközi Design Fórum ítél meg a legjobb európai formaterveknek. Az idei díjazottakat 35 ország 2700 terméke közül választották ki.
+
+A másik újdonság, a VMC E870 az ExpressCard kártyahellyel megáldott noteszgépek tulajdonosainak okozhat nagy örömet. A Vodafone kínálatában eddig ezzel az újabb réssel ellátott gépek használói csak részben élvezhették a vezetéknélküli internet elõnyeit, hiszen az E272 és az E220 USB-kábelen keresztül kapcsolódik a számítógéphez. Az E870 kártyamodem --éppúgy mint az E272 --  HSUPA szabvány szerinti adatátvitelt tesz lehetõvé, ez 7,2 megabit/s letöltési és 1,45 megabit/s feltöltési sávszélességet jelent elméletben. Sajnos a PCMCIA bõvítõhellyel megáldott notebookokhoz nem érkezett új kártya, így a gyors feltöltést és a megduplázott letöltési sebességet csak USB-s változattal érhetik el a tulajdonosok.
+
+
+
+
+Amint arról beszámoltunk, tavaly novembertõl a Vodafone Magyarország hálózatán is elérhetõvé vált a jelenleg elérhetõ leggyorsabb mobil le- és feltöltés, a harmadik mobilszolgáltató is bekapcsolta Budapest egyes részein a 7,2 megabit/s-os letöltési és 1,45 megabit/s-os feltöltési sebességet. "Szélessávú internet hálózatunkat folyamatosan fejlesztjük, de a lefedettség mellett szükség van a gyorsabb [sic!] sebességet kezelni képes eszközökre is. Így ügyfeleink teljes mértékben élvezhetik fejlesztéseink eredményeit" -- áll a kiadott közleményben dr. Beck György, a Vodafone Magyarország vezérigazgatójának nyilatkozata.

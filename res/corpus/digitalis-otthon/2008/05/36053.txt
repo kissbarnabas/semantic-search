@@ -1,0 +1,14 @@
+Egyszerûen javíthatók az XP SP3-ra érzékeny HP számítógépek
+
+[Techworld] Egy apró script segíthet a Windows XP harmadik szervizcsomagjának telepítését követõen folyamatosan újrainduló HP számítógépek problémáján. A script kikapcsolja azt az Intel meghajtót az AMD-s számítógépeken, mely a problémát okozza.
+
+
+
+A javítást nem a Microsoft, az AMD, vagy éppen a HP készítette, hanem egy volt Microsoft biztonsági mérnök, aki jelenleg az Amazonnál dolgozik, és jelenleg is az MVP (Microsoft Most Valuable Professional) csapat tagja. Míg a cégek még mindig vizsgálgatják a problémát, Jesper Johansson állítása és blogbejegyzése szerint egyszerû megoldást talált arra.
+
+A jelenlegi ismeretek szerint a HP egyik gyári telepítõkészlete okozza a hibát, mely Inteles meghajtóprogramot is telepít az AMD processzorával szerelt gépekre, ez pedig gondot okoz a harmadik szervizcsomag számára. A script ezt a meghajtót detektálja és lehetõvé teszi annak kikapcsolását.
+
+
+A mindössze 16 kilobájtos Visual Basic script futtatását követõen ellenõrzi, hogy a számítógép AMD processzoros-e, és amennyiben igen, megvizsgálja a Windows regisztrációs adatbázisát az inteles meghajtóprogram után. Amennyiben az megtalálható, és a Windows töltõdésekor meg is próbálja azt betölteni, lehetõvé teszi annak eltávoltását.
+
+A script vállalati környezetben is használható, parancssorból futtatva akár több gép automatikus vizsgálatára és "javítására" is használható. A Johansson szerint ez az apró "javítóprogram" megbízhatóan fixálja a HP CD-jével elõretelepített operációs rendszereket a harmadik szervizcsomag installálásához.

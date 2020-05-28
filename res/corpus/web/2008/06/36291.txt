@@ -1,0 +1,12 @@
+Megtalálták az elsõ kritikus sebezhetõséget a Firefox 3-ban
+
+Néhány órával a Firefox 3 végleges verziójának megjelenése után már meg is találták az elsõ kritikus sebezhetõséget a böngészõben. A TippingPoint biztonsági cég azonban egyelõre nem hoz nyilvánosságra részleteket, erre majd csak a javítás megjelenése után kerül sor.
+
+
+
+A Firefoxban megtalált, távoli kódfuttatást lehetõvé tevõ kritikus sebezhetõségrõl egyelõre semmilyen információ nem áll rendelkzésre azon felül, hogy a böngészõ tegnapelõtt este kiadott 3.0 verziója mellett a korábbi 2.0 változatban is jelen van. A sérülékenység kihasználásához az kell, hogy az áldozat egy, a kártékony kódot tartalmazó weboldalra navigáljon, például egy levélben kapott link alapján. Egyelõre azt sem tudni, hogy a sebezhetõség az összes operációs rendszert érinti-e, vagy csupán az egyiket.
+
+
+A CanSecWest biztonsági konferencián rendezett laptop-törõ verseny szervezõjeként is ismert TippingPoint fizet a sebezhetõségek megtalálóinak, majd bejelenti õket a hibákat a gyártóknak, hogy minél elõbb elkészülhessenek a javítások. A biztonsági cég bejelentése szerint a Firefoxhoz gyorsan megérkezhet a javítás, a korábbi tapasztalatok alapján a Mozilla fejlesztõi villámgyorsan befoltozták az ehhez hasonló sebezhetõségeket.
+
+A népszerû nyílt forrású böngészõ 3.0 verziója június 17-én, magyar idõ szerint este 7-kor vált elérhetõvé, és 24 óra alatt több mint 8 millióan töltötték le, ami Guinness-rekord. Magyarországról a megjelenés óta több mint 102 ezer letöltést regisztráltak.

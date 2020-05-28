@@ -1,0 +1,12 @@
+Küszöbön a Centrino 2 megjelenése, szállingóznak az elsõ részletek
+
+Egy ausztrál PC-gyártó weboldalára idõ elõtt kerültek fel információk a Centrino 2 platformról, amelyet a június elején megrendezésre kerülõ Computex 2008 kiállításon leplez majd le az Intel.
+
+
+
+A Montevina kódnevû új mobil platform már 45 nanométeres processzorokat tartalmaz. A Pioneer Computers weboldala alapján a kínálat csúcsát a 6 megabájt L2 cache-sel rendelkezõ 3,06 GHz-es Core 2 Extreme X9100 jelenti majd, az alapváltozat pedig a 3 megabájt L2 cache-sel szerelt 2,26 GHz-es Core 2 Duo P8400 lesz. A modellsort a 2,4 GHz-es P8600, a 2,53 GHz-es P9500 és a 2,8 GHz-es T9600 egészíti ki. A 8-as sorozatba tartozó processzorok mindegyike 3 megabájt másodszintû cache-t tartalmaz, a 9-es sorozat tagjai már 6 megabájttal gazdálkodnak.
+
+
+ A Montevina által hozott legnagyobb változást vélhetõen a Cantiga kódnevû chipkészletbe integrált X4500 grafikus mag driverének DirectX 10 támogatása, valamint az ugrásszerûen nagyobb 3D-grafikus teljesítmény képezi. Az X4500 az X3100-nál kettõvel több, összesen tíz shadert tartalmaz, és az órajele is magasabb az elõdnél, ami összességében látványos gyorsulást ígér. A tavaszi Intel Developer Forumon Dadi Perlmutter, az Intel Mobility Group vezetõje a Centrino 2 platform grafikus teljesítményét a "Universe at War: Earth Assault" játékkal demonstrálta, a szemtanúk szerint a valós idejû stratégiai játék meglepõen jól futott a kiállított notebookon.
+
+Perlmutter szerint a Montevina videovezérlõjét a nagyfelbontású tartalmak hardveres dekódolására is felkészítették, ennek köszönhetõen akár akkumulátoros üzemrõl, csökkentett órajelû processzorral is lehet majd Blu-ray filmeket nézni a notebookokon. A Montevina energiatakarékosság terén is szolgál újdonságokkal, ezek közül az egyik a DDR2-nél alacsonyabb feszültséggel mûködõ DDR3 (800 és 1066 MHz) memóriák támogatása. Az új chipkészletnek nem csak a 802.11n Wi-Fi, hanem a WiMAX-vezérlõ is része lesz már, utóbbiról az Echo Peak kódnéven fejlesztett adapter gondoskodik.

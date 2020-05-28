@@ -1,0 +1,14 @@
+Októberben érkezik az Ubuntu rettenthetetlen kõszáli kecskéje
+
+[Ars Technica] Az Ubuntu alapítója, Mark Shuttleworth az Ubuntu levelezõlistáján jelentette be, hogy Intrepid Ibex lesz a neve a menetrend szerint októberben érkezõ, 8.10-es verziószámú Ubuntu disztribúciónak. Az Ubuntu Linuxból félévente érkezik újabb, frissített változat, a következõ a 8.04-es, áprilisban megjelenõ Hardy Heron lesz.
+
+
+
+Az Intrepid Ibex -- azaz a vakmerõ kõszáli kecske -- fejlesztésekor a mobil funkciók és a skálázhatóság kerülnek majd elõtérbe, miközben rugalmasabbá teszik az internetkapcsolatok kezelését is. Az Ubuntu októberi változata az optimalizálásoknak köszönhetõen maximális teljesítményt nyújt majd a bivalyerõs munkaállomásokon éppúgy, mint egy gyengébb noteszgépeken.
+
+Az Intrepid Ibex-szel kapcsolatos fejlesztésekrõl a május 19 és 23 között megrendezett Ubuntu Developer Summit rendezvényen esik majd több szó, ahol a Canonical fejlesztõi találkozhatnak a nyílt forráson dolgozó közösség tagjaival. A kilencedik 8.10-es változattal az Ubuntu disztribúció negyedik évfordulóját ünnepli majd, az elsõ publikusan megjelentett változat 2004-ben 4.10-es verziószámmal volt elérhetõ.
+
+
+ Az Ubuntu legutóbb megjelent Gutsy Gibbon (7.10) változatának legszembetûnõbb újdonsága a Compiz Fusion technológián alapuló kezelõfelület volt, mely ki tudja használni a 3D-gyorsítókban rejlõ lehetõségeket, látványos hatásokat felvonultatva. Ez a megoldás már korábban is része volt egyes disztribúcióknak, de az Ubuntu fejlesztõi szerint mostanra forrott ki, és vált igazán használhatóvá.
+
+Mélyebbre ásva az Ubuntu 7.10-be olyan újdonságokkal találkozhatunk, mint a legújabb Linux kernel, amely sokkal takarékosabban bánik a hardver-erõforrásokkal, a "tickless idle" opció ugyanis rengeteg energiát spórolhat a mobil gépek felhasználóinak azáltal, hogy hosszabb ideig aludhat a feladataira váró processzor. Ezzel nem csak az akkumulátoros üzemidõ hosszabbodhat, hanem a gép is csendesebben járhat.

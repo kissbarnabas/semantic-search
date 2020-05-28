@@ -1,0 +1,11 @@
+Kék halálba taszítható a Vista összes verziója
+
+Biztonsági szakértõk szerint a sebezhetõséget kihasználó kód segítségével bármilyen, naprakészen tartott Windows Vistát, Windows Server 2008-at és Windows 7-et futtató számítógép mûködése leállítható, jóllehet a Microsoft tegnap kiadott biztonsági figyelmeztetésében tagadja, hogy a különbözõ Windows 7 (a végleges verziók) és Windows Server 2008 R2 változatok érintettek lennének. A Windows XP, Windows Server 2003 és Windows 2000 termékeket szintúgy nem érinti a hiba.
+Noha egyelõre nem bizonyosodott be egyértelmûen, hogy a számítógépek távolról is sebezhetõk ezzel a módszerrel, illetve még nem érkeztek beszámolók a biztonsági rést kihasználó támadásokról, a Microsoft mégis azt javasolja, hogy a felhasználók a javítás érkezéséig kapcsolják ki az SMB v2 szolgáltatást, és/vagy tûzfal segítségével tiltsák le 139 és 445-ös számú portokat.
+
+Utóbbi megoldás velejárója lehet ugyanakkor egyebek mellett, hogy a belsõ hálózaton elérhetetlenné válik a médiafájlok és nyomtatók megosztása - hívja fel a figyelmet a Microsoft. A cégnél egyelõre vizsgálják a hiba súlyosságát, csak a vizsgálat lezárását követõen döntenek arról, hogy az októberi patch-kedden, vagy soron kívül adnak ki javítást.
+A Microsoft a tegnapi patch-kedden öt kritikus biztonsági rést foltozott be operációs rendszerein. A cég továbbra is adós az IIS FTP-szolgáltatásban felfedezett biztonsági rés befoltozásával - vélhetõen ezt is egy soron kívüli frissítéssel fogja javítani a vállalat.	     
+                  
+                  
+                  
+                   

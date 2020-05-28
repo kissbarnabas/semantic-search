@@ -1,0 +1,24 @@
+Honosították a szoftvergazdálkodás ISO-szabványát
+
+A Magyar Szabványügyi Testület magyar nemzeti szabványként is bevezette a szoftvergazdálkodás nemzetközi szabványát, a 2006-ban elfogadott ISO/IEC 19770-1 szabványt, amely egyébként az ITIL (IT Infrastructure Library) már viszonylag régóta kialakult ajánlása alapján született.
+
+
+
+Slágertéma lehet
+
+A szabvány honosításában is résztvevõ, szoftvergazdálkodási tanácsadással foglalkozó IPR-Insights szerint egy átlagos magyar középvállalat mintegy 2000-2500 különbözõ alkalmazást is használhat, amelyek mögött nagyságrendileg 35-40 ezer különféle futtatható állomány található. Az évek során beszerzett szoftverlicencek darabszáma elérheti a több százat, a hozzájuk tartozó számlatételek darabszáma viszont már ezres nagyságrendre rúghat.
+
+Az elmúlt években a szoftvergazdálkodás kiemelt szerepet kapott a vállalatoknál. Ennek talán legfõbb oka a BSA rendszeres kampányai mellett az, hogy a vállalkozások eszközállománya egyre növekvõ mértékben tartalmaz szoftvereket: ma már nem különleges, ha a szoftverállomány értéke akár a háromszorosát is eléri a futtató hardver értékének. A szoftvergazdálkodás célja, hogy a felhasználó (szervezet) tisztában legyen az IT-rendszerein futó szoftverek licencének állapotával, hogy azok milyen mértékben felelnek meg a jogszabályoknak, és ahol szükséges, rámutasson a változtatás irányára.
+
+Felesleges kiadásoktól óv meg
+
+Az MSZ ISO/IEC 19770-1 szabvány olyan nemzetközileg elismert és iparági gyakorlaton alapuló folyamatokat ír le, amellyel az igen bonyolult és sok szakterületet -- vállalatirányítást, informatikát, pénzügyet és jogot -- érintõ szoftvergazdálkodás hatékonyan és biztonságosan végezhetõ. A szabvány jelentõsége abban rejlik, hogy alkalmazásával átláthatóbbá és pontosabbá válik a szoftvertelepítések, licencek nyilvántartása, valamint a kapcsolódó dokumentumok kezelése.
+
+
+ "A szabvány több területen 'mankót' jelent az ezt alkalmazó vállalat számára" -- mondta a HWSW-nek Zsoldos Sándor, az IPR-Insights Kft. ügyvezetõ igazgatója. "Egyrészt olyan nyilvántartásokat, folyamatokat és felelõsségi köröket követel meg, amellyel a gyakorlatban kiküszöbölhetõ a nem megfelelõ szoftverhasználat, másrészt éppen a helyes mûködés miatt a vállalat csak a számára valóban szükséges szoftvereket vásárolja meg, azaz jelentõs megtakarításokat realizálhat."
+
+Hatékony szoftvergazdálkodás segítségével kimutatható, hogy mely szoftverek szükségesek a szervezet mûködéséhez, azokból hány darab kell, illetve hogy az egyes szoftverekbõl melyik licencelési konstrukció a leginkább kedvezõ, ezáltal licencdíj, végsõ soron pedig költség takarítható meg. Egy amerikai nagyvállalatoknál 2007-ben végzett felmérés szerint a szoftverekre költött összegeknek akár 40 százaléka is felesleges kiadás lehet, ha a vállalatok nem jól tartják nyilván szoftvereiket.
+
+A BSA támogatásával
+
+A két évvel ezelõtt megjelent nemzetközi szabvány magyar nemzeti szabványként való bevezetése az MSZT, a BSA Magyarország és az IPR-Insights Kft. együttmûködésének eredményeként jött létre. A szabvány magyar nyelvû fordítását az IPR-Insights készítette elõ, a nemzeti szabvány kiadását pedig a BSA Magyarország támogatta, mint olyan kezdeményezést, amely elõsegíti a felelõs szoftvergazdálkodást, és amely kapcsolódik az illegális szoftverhasználat elleni tevékenységéhez.

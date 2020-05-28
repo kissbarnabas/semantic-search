@@ -1,0 +1,15 @@
+Utólag állítható fókusszal reformálná meg a fényképezést a Refocus Imaging
+
+[CNet blog, HWSW] Egy frissen alakult cég, a Refocus Imaging megoldást nyújtana a fényképezés egyik legrégebbi problémájára, a fókuszálás okozta idõveszteségre és a rossz fókusszal készített, életlen képekre. Alapjaiban változhatna meg a fotózás, ha utólag választhatnánk meg, a kép mely részlete, mélysége legyen éles.
+
+
+
+A cég egy a képérzékelõk elé tett speciális objektívvel ragadná meg az utólag módosítható valóságot, késõbb pedig egy szoftver segítségével mi magunk határozhatnánk meg, hogy a kép elõtérben, vagy háttérben található részei legyenek élesek, fókuszáltak. A Refocus Imaging alapítója és vezetõje, Ren Ng a Stanford Egyetemen végzett kutatásaiból építkezve reformálná meg a digitális képek készítését.
+
+
+Ren Ng szerint a Refocus Imaging technológiája számos elõnyhöz juttathatja a fotóst: egyrészt nem kell várni az automata, vagy manuális fókusz pontos beállására -- ami miatt a mai villámgyors gépeken is elmulaszthatjuk a pillanatot --, illetve utólag is módosítható lenne a kép mélységélessége, amivel drámaibbá, alapvetõen különbözõvé tehetõ egy-egy fotó. Ng szerint úgy kell tekinteni a képekre, mint a szenzor adatait változás nélkül tároló RAW állományokra, csak itt a mélység, fókusz is utólag értékelhetõ, állítható paraméter.
+
+
+Kép: News.com
+
+Ng szerint az általuk kidolgozott módszerrel készített képek leginkább úgy viszonyulnak a hagyományos fotókhoz, mint egy röntgennel készített kép egy háromdimenziós CT-felvételhez. A módszer hátulütõje, hogy jóval több számítási teljesítményt igényel a digitális fényképezõgépektõl, mint amire a jelenlegi képfeldolgozó processzorok képesek, illetve csökken a kép valódi információtartalma, felbontása.

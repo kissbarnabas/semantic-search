@@ -1,0 +1,14 @@
+Folytonos adatvédelemmel és deduplikációval erõsödött a Symantec NetBackup
+
+Az évente rendezett Vision konferenciáján a Symantec bejelentette a NetBackup adatmentési szoftverének új változatát, amely deduplikációval, folytonos adatvédelemmel (continuous data protection), illetve a korábbinál még finomabb visszaállítási képességekkel erõsödött. 
+
+
+
+A NetBackup RealTime Protection 6.5 mostantól folyamatosan biztosítja az adatok védelmét azáltal, hogy az alkalmazásokat érintõ változásokat valós idõben rögzíti. Ezzel megszûnik a mentési ablak, visszaállításkor pedig valóban az utolsó állapothoz térhetünk vissza. A RealTime Protection a NetBackup Storage Lifecycle Policies segítségével maga gondoskodik arról, hogy a diszkeken tárolt valós idejû adatmentésekbõl hosszabb távon, diszken vagy szalagon megõrzött mentés vagy archívum jöjjön létre, ez a folyamat nem igényel kézi beavatkozást, csupán a szabályredszer létrehozását. A RealTime Protection 6.5 az õsszel lesz elérhetõ.
+
+A deduplikáció képességét a PureDisk 6.5 hozza el a NetBackup platformra. A Symantec szerint ez az egyetlen megoldás a világon, amely képes a deduplikációt a közvetlenül a forrásról (source-based), a forrás és a cél közé ékelõdve (inline target mode), valamint a célon utólag (post processing) elvégezni, a mentett alkalmazástól függõen. Deepak Mohan, a Symantec üzletágvezetõje szerint a nyílt szabványokon alapuló szoftver által megvalósított deduplikáció legontosabb elõnye a különálló eszközök (appliance) vagy a tárolórendszerek által megvalósított megoldáshoz képest, hogy a felhasználók a meglevõ szervereiket, tárolóikat változatlanul tovább használhatják.
+
+
+ A NetBackupot kibõvítették a kimondottan windowsos környezetekre szabott Backup Execbõl már ismert Granular Recovery technológiával, így már a nagyvállalati kategóriás adatmentési szoftver is képes akár fájlonként, dokumentumonként, sõt, akár üzenetenként visszaállítani a Windows, Exchange, SharePoint szervereket. A VMware szerverek esetén lehetõség van csupán egyes, neghatározott virtuális gépek visszaállítására.
+
+A jövõben várható tendencia, hogy a NetBackup és a Backup Exec funkcionalitásban egyre közelebb kerülnek egymáshoz, ahogy a két termékvonal fejlesztõcsapatait a vállalat összevonja. Ez egyben azt is jelenti, hogy az újdonságok is hamarabb jelenhetnek meg, illetve egyszerre mindkét vonalba bekerülhetnek.

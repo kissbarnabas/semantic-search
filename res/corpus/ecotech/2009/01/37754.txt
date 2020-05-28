@@ -1,0 +1,16 @@
+UIQ: vége a dalnak
+
+Csõdbe ment és beszünteti a mûködést a UIQ Technology. A svéd vállalat a Symbian OS operációs rendszert futtató okostelefonokra fejlesztett kezelõfelületet, ami azonban sosem lett igazán népszerû és a Nokia Series 60 lényegében teljesen elnyomta. 
+
+
+
+A UIQ tavaly töltötte be tizedik évét, a vállalat elõdjét 1998-ban alapították még az Ericsson berkein belül, akkor még Mobile Applications Lab néven. Az elsõ UIQ-alapú mobiltelefon, a Sony Ericsson P800 négy évvel késõbb, 2002-ben jelent meg. A legnagyobb okostelefon-gyártó, a Nokia a saját fejlesztésû Series 60 felületet sikerre vitte a piacon, a UIQ-t csak a Sony Ericsson és a Motorola támogatta. A platform története során két tucatnál is kevesebb UIQ-alapú készülék jelent meg a piacon, miközben a Nokia ontotta a Series 60-ra épülõ telefonokat.
+
+
+A viszonylag korlátozott gyártói támogatás miatt a szoftverfejlesztõk már régóta hanyagolták a UIQ-t, az elérhetõ alkalmazások száma töredéke annak, mint ami Series 60-on a felhasználók rendelkezésére áll. Emiatt a UIQ a végfelhasználók és a mobilszolgáltatók körében sem volt igazán népszerû, hiszen a rivális platformra jóval több alkalmazás készült. 
+
+2007 februárjában a Sony Ericsson megvásárolta a UIQ Technology-t, késõbb a Motorola 50 százalékos tulajdonossá vált. A Sony Ericsson és a Motorola tavaly még jelentkezett UIQ-alapú mobilokkal, elõbbi a G700-zal és a G900-zal, utóbbi pedig a RIZR Z10-zel. Õsszel azonban mindkét cég bejelentette, hogy nem támogatja tovább a UIQ-t, a Motorola egy saját, Linux-alapú platformra szavazott inkább, a Sony Ericsson régóta várt okostelefonja, az Xperia X1 pedig a Microsoft Windows Mobile operációs rendszerével került piacra.
+
+Miután a Nokia megvásárolta a Symbiant és közölte, hogy megnyitja annak forráskódját, nyilvánvalóvá vált, hogy a UIQ napjai meg vannak számlálva. Johan Sandberg, a UIQ elnök-vezérigazgatója szerint a jelenlegi gazdasági körülmények között a cégnek nincs esélye arra, hogy új üzletágat indítson, mivel nincs befektetõ, aki finanszírozná a válllat tevékenységét, a Sony Ericsson és a Motorola pedig már korábban elzárta a pénzcsapot. A cégnél 2008 végén mintegy 200-an dolgoztak.
+
+A Symbian a legnépszerûbb operációs rendszer az okostelefonokon, a Gartner 2008 harmadik negyedéves adatai szerint a piaci részesedése 49,8 százalék, a második legnépszerûbb operációs rendszer a BlackBerry OS (15,9%), a harmadik pedig az Apple Mac OS X (12,9%), amely megelõzte a visszaesõ Windows Mobile-t (11,1%). Az elemzõcég szerint rövid távon várható, hogy a Google-féle Android és a nyílt forrásúvá tett Symbian további csapásokat mérnek a Windows Mobile-ra.

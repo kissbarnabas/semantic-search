@@ -1,0 +1,38 @@
+Dolgozóinak tizedétõl válik meg az AMD
+
+Dolgozóinak 10 százalékától, mintegy 1500 alkalmazottól válik meg az AMD annak érdekében, hogy csökkentse költségeit, és újra nyereségesen tudjon mûködni. A cég egyúttal azt is közölte, hogy az elsõ negyedévben a vártnál jóval kisebb bevételt ért el, az eladásai minden szegmensben rosszabbul alakultak a terveknél.
+
+
+
+Ballépés
+
+Az ATI felvásárlását követõen az AMD mély pénzügyi szakadékba zuhant, az akvizíciós költségek miatt rendre veszteséges negyedéveket zárt. A tavalyi utolsó trimeszterben a chipgyártó 1,77 milliárd dollár forgalom mellett 1,77 milliárd nettó veszteséget szenvedett el, amit az ATI  felvásárlásával megszerzett eszközök könyv szerinti értékének egyszeri, 1,6 milliárd dolláros csökkentése magyaráz. A cég ezzel beismerte, hogy az ATI-ért kifizetett 5,4 milliárd dolláros vételár túl magas volt. Az AMD-be olvadt ATI ráadádsul a felvásárlást követõen hatalmas teret vesztett az NVIDIA-val szemben.
+
+
+ A vállalat sokat várt a négymagos processzoraitól, azonban a Barcelona kódnevû chipgeneráció megjelenését egy utolsó utáni pillanatban felfedezett hiba mintegy fél évvel késleltette. A termékeket még az õsszel jelentette be az AMD, azonban miután kiderült, hogy az Opteronokban és a Phenomokban bizonyos esetekben rendszerlefagyáshoz vezetõ hardverhiba maradt, a vállalat leállította a chipek szállítását. A hiba kijavítása után csak idén márciusban kerülhettek piacra a négymagos Opteronok, amelyekbõl számottevõ bevétel legkorábban a második negyedév során várható. 
+
+Az, hogy az AMD lényegében két negyedéven át csak "elõzõ generációs" termékeivel volt jelen a piacon, rányomta a bélyegét a pénzügyi eredményekre is. A cég most közölte, hogy az elsõ negyedéves forgalma mindössze 1,5 milliárd dollár körül alakul, ami a szezonálisan megszokottnál kétszer nagyobb, 15 százalékos visszaesés a negyedik negyedévhez képest. A csökkenés oka, hogy minden szegmensben visszaestek az AMD eladásai. Elemzõk szerint a vállalat ellen dolgozik, hogy az asztali PC-k piaca, ahol az AMD a legerõsebb, lényegében alig növekszik, a fejlett országokban pedig inkább csökken, ahogy a notebookok átveszik az uralmat -- az AMD-nek a mai napig sincs mobil designja, öt évvel az Intel Centrino, és nyolc évvel a Transmeta színre lépését követõen.
+
+Tarthatatlan
+
+A piacon már régóta pletykáltak arról, hogy az AMD-nek létszámcsökkentésre van szüksége ahhoz, hogy újra nyereséget tudjon elérni. Elemzõk szerint azonban az elbocsátás és az átszervezés ehhez kevés, a vállalatnak olyan intézkedésekre lenne szüksége, amelyek révén a gyártási költségeibõl is jócskán le tudnak faragni -- a piacon általános nézet, hogy az AMD-nek ki kellene szerveznie termelését. A vállalat jóformán lehetetlen helyzetben van, gyártási költségei magasabbak a sajátját óriási volumenen terítõ Intelénél, miközben az árak alacsonyabbak.
+
+A Mercury Research adatai alapján az AMD az Intelnél 30-50 százalékkal alacsonyabb átlagos eladási árra bír minden szegmensben, miközben volumene töredéke, kevesebb mint harmada  az óriásénak. Gyártási költsége természetszerûleg folyamatosan magasabb az Intelénél, ugyanis az Intel mögött 3-4 negyedévvel váltanak finomabb geometriára -- egy teljes generációváltás akár 30-40 százalékot is faraghat a chipek elõállítási költségébõl --,  és drágább,  úgynevezett SOI-szeleteket munkálnak meg. 
+
+Ráadásul ez a hátrány a 45 nanométeres csíkszélességen tovább növekszik majd azáltal, hogy az IBM-mel közösen kifejlesztett eljárás immerziós litográfiát (folyadék segíti a fény fókuszálását a megmunkált szelet felületére) alkalmaz, mely további, becslések szerint mintegy 30 százalékos költséghátrány jelent a hagyományos, száraz litográfiával szemben. Az alacsonyabb volumen ráadásul önmagában piaci hátrányt jelent a félvezetõgyártásban, ugyanis annak varianciája következtében a lényegesen nagyobb mennyiségben termelõ vállalat több "tökéletes", úgynevezett "arany" chipet tud elõállítani rendkívül kedvezõ órajel-fogyasztás karakterisztikával, és termékként piacra dobni -- végeredményben az Intel több mint háromszoros volumene egyúttal relatív teljesítménybeli elõnyt is jelent.
+
+Az AMD számára a legsúlyosabb terhet a félvezetõgyártás által igényelt hatalmas és szakadatlan finanszírozási igény jelenti, melynek versenyképesen tartása éves szinten több mint 1 milliárd dollárt emészt el, és folyamatosan növekszik. Költségeinek terítése érdekében az AMD már évek óta szorosan együttmûködik félvezetõ kutatás-fejlesztés terén a hasonló motivációkkal bíró IBM-mel, ahol közös technológiai platformot hoznak létre, majd saját igényeiknek megfelelõen testreszabják és kialakítják a gyáraikban alkalmazott gyártási eljárást.
+
+Ez azonban így is jelentõs, dollár százmilliós kiadás marad továbbra is, mely a chiptervezéstõl vonja el az erõforrásokat, ráadásul nem segít a legnagyobb költségtételen, melyet a félvezetõüzemek tesznek ki. Az AMD 2005-ig mintegy 4 milliárd dollár tõkeberuházást eszközölt két drezdai félvezetõgyárába, és további 2,5 milliárdot tervezett 2009-ig -- ez évente több mint 600 millió dollár. A félvezetõgyártás finanszírozási igénye ráadásul megállíthatatlanul növekszik, ahogyan a folyamatosan zsugorodó, mára néhány tucat nanométeres tartományban mozgó struktúrák kialakításához szükséges egyre magasabb precizitású berendezések ára a csillagokba emelkedik.
+
+Hogyan tovább?
+
+Természetesen ezt az AMD-nél is látják. A tavalyi elsõ negyedéves eredmények közzétételekor maga Hector Ruiz elnök-vezérigazgató beszélt a tõkeigényt csökkentõ úgynevezett "asset light" mûködési modellrõl, ami nem meglepõ, tekintve a saját gyárakhoz szükséges folyamatos tõkeberuházások nagyságát, és az AMD botrányosan rossz pénzügyi teljesítõképességét (tavaly 1,9 milliárd dollár készpénzt vesztett a cég) -- eleddig azonban semmiféle konkrétumot nem osztottak meg a felsõvezetõk az elképzelésekkel kapcsolatban.
+
+A kérdés az, hogy valóban ilyen irányba, vagyis a kiszervezés felé fordul-e az AMD, és ha igen, akkor milyen módon és sikerrel: az élvonalbeli félvezetõgyártás egyik alapköve a lehetõ legszorosabb együttmûködés a chipdesignerek és a gyártással foglalkozó mérnökök között. Egy szerzõdéses chipgyártó azonban nem képes olyan fókuszáltan kiszolgálni egy ügyfelet, mint ahogyan egy vállalaton belüli félvezetõcsapat teszi. Annyi bizonyosnak tûnik, hogy a jelenlegi állapot hosszú távon nem fenntartható, alternatív megoldást egy masszív, több dollármilliárdos tõkeinjekció jelentene.
+
+Tavaly novemberben újra lábra keltek olyan pletykák a pénzpiacon, melyek szerint az AMD tárgyalásokat folytat a tajvani TSMC-vel, a világ legnagyobb szerzõdéses félvezetõgyártójával, hogy az vásárolja meg az AMD drezdai bázisának egy részét -- az elsõre vad spekuláció azonban számos elõnnyel szolgálhatna mindkét cég számára. Az AMD ezzel úgy tehetné sokkal gazdaságosabbá mûködését, hogy technológiailag semmiféle kockázatot vagy hátrányt nem szenvedne el chipjeinek alacsonyabb teljesítményû félvezetõ eljárásra portolásával, és friss tõkéhez is juthatna. A TSMC kezébe pedig élenjáró félvezetõtechnológia kerülhetne, amivel a nagyteljesítményû logikákat fejlesztõ ügyfeleit szolgálhatná ki -- gondoljunk csak az NVIDIA-ra, az AMD grafikus részlegére, vagy a Sun Microsystemsre.
+
+[+] Eladná egyik processzorgyárát az AMD? 
+
+Az elbocsátásokkal és átszervezésekkel kapcsolatos költséget a második negyedévben könyveli majd el az AMD, azonban hogy ez pontosan mekkora összeget jelent, azt egyelõre nem tudni, mivel a konkrét lépéseket most véglegesítik a cégnél.

@@ -1,0 +1,12 @@
+Másodpercenként hatmillió fényképet készít a világ leggyorsabb kamerája
+
+A Los Angeles-i Egyetem (UCLA) Henry Samueli (aki mellesleg a Broadcom technológiai igazgatója) nevét viselõ mérnöki és alkalmazott tudományi tanszékének kutatói által létrehozott kamera nem tartalmaz hagyományos képérzékelõt, mûködésének alapját ehelyett a lézersugár, illetve annak visszaverõdése adja. A tárgyról -- mikroszkopikus méretû életformákról, többnyire sejtekrõl -- visszaverõdõ infravörös fényimpulzust speciális technikával erõsítik fel, ezzel együtt le is lassítják, hogy aztán a megfelelõ berendezésekkel digitális jelekké lehessen alakítani azt.
+
+
+
+A kutatók elképzelései szerint az új eljárást leginkább a klinikai vértesztek, az úgynevezett flow citometria, vagy áramlási citometria vizsgálatok során lehetne nagy hatékonysággal alkalmazni. A jelenlegi módszerekkel többnyire csak a sejtszámot, illetve a sejtméretet lehet vizsgálni a mintában, illetve mikroszkóp alatt egyszerre korlátozott mennyiségû mintával lehet dolgozni -- az új eljárás azonban lehetõvé teszi, hogy a vérmintában található akár összes sejtrõl felvétel készüljön, mely a megfelelõ vizsgálati rendszerrel összekötve alkalmasabb lehet az elváltozások kimutatására, így elsõsorban a rákbetegségek idõ elõtti felfedezésére.
+
+
+"Minimális esélye van annak, hogy ezeket a beteg sejteket a korai fázisban mikroszkóp alatt felfedezzék" -- nyilatkozta Bahram Jalali professzor, a kutatócsoport vezetõje. "Ahhoz, hogy megtaláljunk egy ilyen sejtet -- ami lényegében egy tû a szénakazalban -- több milliárdos mintával kell dolgoznunk, tehát az egész szénakazlat át kell vizsgálni. Az áramlásban lévõ sejtekrõl készült ultragyors kamerafelvétel alkalmas lehet erre a feladatra" -- tette hozzá a tudós.
+
+Az amerikai Fejlett Védelmi Kutatási Projektek Ügynöksége (DARPA) és a Védemi Minisztérium által pénzelt kutatás egyelõre még meglehetõsen kezdeti stádiumban jár -- a villámgyors kamera jelenleg mindössze háromezer pixeles képek készítésére képes. A kutatócsoport ugyanakkor a késõbbiekben mind a képek méretét, mind a felvétel sebességét is tovább növelné, a cél egy olyan felvételi rendszer megalkotása, mely másodpercenként 100 millió fényképet készít.

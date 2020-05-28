@@ -1,0 +1,16 @@
+Parányi mobiltelefon-képérzékelõt jelentett be az STMicroelectronics
+
+Az STMicroelectronics új képérzékelõ szenzora mindössze két megapixeles, de parányi méretei miatt a vékonyabb, kedvezõ ára miatt pedig az olcsóbb mobiltelefonokba is bekerülhet az eddigieknél jobb minõségû fényképek készítésének lehetõsége.
+
+
+
+Az STMicroelectronics ma Genfben mutatta be 1/5 hüvelykes képérzékelõjét, mely 1600 x 1200 képpont rögzítésére teszi alkalmassá azt a mobiltelefont, amelybe beépítésre kerül. A piac jelenleg legkisebb, 1,75 mikronos pixeltávolságú lapkája magán az érzékelõterületen kívül a képfeldolgozó áramkört is tartalmazza, mindössze 6 x 6 x 3,8 milliméteres méretben. A VD6725 CMOS szenzor által létrehozott fotó alacsony zajszintjén egy zajszûrõ tovább finomíthat.
+
+
+Az érzékelõ elé nagy valószínûség szerint parányi optika kerül, ezért a gyengébb minõségû lencsék esetén a vignettálást is korrigálni kell majd. A képérzékelõ a fehéregyensúly automatikus beállítása mellett képes beazonosítani és ezután kikapcsolni a hibás képpontokat, amelyek rossz hatással lehetnének a fénymérésre. A képfeldolgozó áramkör külsõ segítség nélkül képes effektezni, tükrözni, forgatni a képet, amelyet fekete-fehérre is konvertálhat, ha például vonalkód leolvasására, vagy dekódolására használjuk a telefont.
+
+STMicroelectronics 2 megapixeles képérzékelõ
+
+A VD6725 gyors lapka, 640 x 480 pixeles felbontás esetén 30 képkockás adatfolyamot is továbbíthat a memóriakártya felé, de 15 képpont sebességgel a teljes 1600 x 1200 képpont is elérhetõ. A próbapéldányok már elérhetõek a fejlesztõk számára, de a tömegtermelés kezdeti idõpontjaként június végét jelölte meg a gyártó.
+
+A szenzor két különbözõ kiszerelésben lesz elérhetõ, a telefongyártók választhatnak a tradicionálisan tokozott, és a telefon alaplapjába közvetlenül illeszthetõ, szilíciumszelet-szintû tokozás között, utóbbi segítségével olcsóbb lehet a gyártás is. A VD6725 képérzékelõ nagyobb tételben rendelve darabonként két dollárba fog kerülni.

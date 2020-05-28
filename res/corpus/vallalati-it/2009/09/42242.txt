@@ -1,0 +1,190 @@
+Padlót fogott az európai szerverpiac
+
+A Gartner úgy kalkulál, hogy 2009 második negyedévében 1,69 millió, 28 százalékkal kevesebb szervert adtak el, mint egy évvel korábban, miközben a leszállított szerverek értéke 29,4 százalékkal 9,7 milliárd dollárra esett vissza a tavalyi 13,73 milliárdot követõen - 4 milliárd dollár tûnt el a piacról a negyedévben. A Gartner elemzõje szerint a piackutató nem mért még ekkora visszaesést a szerverpiacon, a kilátások azonban éppen ezért már kedvezõek, ahogyan a befagyasztott büdzsék a következõ egy év során felszabadulnak, ugyanakkor a növekedés lassú lesz.
+Az x86-os szerverek volumene 27,4 százalékkal csökkent, értékük 25,7 százalékkal, miközben a RISC és EPIC (Itanium) processzorokat használó, tipikusan UNIX-okat futtató szerverekbõl 40 százalékkal kevesebbet adtak el, az innen származó bevétel pedig 31,4 százalékkal esett vissza. Az eddig minden szegmenst magasan felülmúló, gyors növekedést mutató blade formátum sem volt képes ellenállni a nehéz idõknek, és 23,6 százalékkal kevesebb ilyen rendszert szállítottak le a negyedév során, miközben a bevételek 13,6 százalékkal olvadtak.
+
+Az Európát, Közel-Keletet és Afrikát magába foglaló EMEA piacokat érintette a legsúlyosabban a válság, 32 százalékkal kevesebb szervert vásároltak, és összesen 36 százalékkal kevesebbet költöttek a vevõk, mint tavaly - 1,8 milliárd dollár illant el. Az x86-os rendszerek iránti kereslet 31 százalékkal esett vissza, míg a RISC/Itanium gépekre 38 százalékkal kevesebbet költöttek a szervezetek, vagyis szemben a korábbi negyedévek tapasztalataival, a nagygépes rendszerek szegmense immár jobban visszaesett a tömegszervereknél.
+ EMEA szerverszállítások, 2Q09 (darabszám)
+
+
+
+
+Vállalat 
+
+
+ 2Q09 szállítások 
+
+
+2Q09 piacrészesedés (%)
+
+
+ 2Q08 szállítások 
+
+
+ 2Q08 piacrészesedése (%)
+
+
+ 2Q08-2Q09
+Változás (%)
+
+
+
+
+HP
+
+
+200 421
+
+
+40.8
+
+
+293 621
+
+
+40.6
+
+
+-31.7
+
+
+
+
+Dell
+
+
+90 273
+
+
+18.4
+
+
+138 000
+
+
+19.1
+
+
+-34.6
+
+
+
+
+IBM
+
+
+62 359
+
+
+12.7
+
+
+95 861
+
+
+13.3
+
+
+-34.9
+
+
+
+
+Fujitsu
+
+
+31 207
+
+
+6.3
+
+
+40 775
+
+
+5.6
+
+
+-23.5
+
+
+
+
+Sun
+
+
+22 655
+
+
+4.6
+
+
+30 584
+
+
+4.2
+
+
+-25.9
+
+
+
+
+Egyéb
+
+
+84 743
+
+
+17.2
+
+
+123 561
+
+
+17.1
+
+
+-31.4
+
+
+
+
+Összesen
+
+
+ 491 658
+
+
+100.0
+
+
+ 722,402
+
+
+100.0
+
+
+-31.9
+
+
+
+
+Forrás: Gartner (2009 szeptember)
+Gyártói verseny
+Ebben a szegmensben (EMEA RISC/Itanium) az IBM Power Systemei állták a sarat a leginkább, a cég RISC-bevételei mindössze 22 százalékkal estek, miközben a Sun 40, a HP 45 százalékos zuhanást volt kénytelen elkönyvelni, a Fujitsu pedig gyakorlatilag KO-t kapott a német gazdaság, elsõsorban a bankszektor problémái miatt, és RISC/Itanium bevételei 73 százaléka tûnt el, ami példátlan. A vállalati büdzsék látványosan befagytak, ami egyúttal bizakodásra adhat okot a cégek számára, hogy az év második felében, valamint jövõre felszabadulnak és koncentráltan jelentkeznek ezek a nagygépes beruházások, ugyanakkor a Gartner arra figyelmeztet, hogy a szerverpiac, azon belül is a nagygépes piac, lassan és elnyújtottan tér majd magához.
+A vezetõ szerverszállítók kivétel nélkül kénytelenek voltak elszenvedni globális bevételeik drasztikus csökkenését, ilyen szempontból a forgalmának ötödét elvesztõ Dell bizonyult a legsikeresebbnek, miközben a Sun Microsystems forgalma csökkent a leggyorsabban, 36,2 százalékkal. A Dell így az egy évvel korábbihoz képest megelõzte a Sunt (13,3 és 10,8 százalék), így a harmadik legnagyobb árbevételû szervercéggé vált, a Sun pedig a negyedik helyre csúszott. A Sun relatíve jól szerepelt az EMEA x86 piacon, ahol részesedést szerzett.
+A válság közepette némileg az IBM-nek is sikerült 1,8 ponttal eltávolítani magát a HP-tól, és stabilan megõriznie vezetõ helyét a globális szerverpiacon (32,5 százalék és 28,9 százalék). A Fujitsu ötödikként messze leszakadva követi a két egymással viaskodó párost. Az eladott szerverek száma alapján továbbra is a HP vezet, az 522 ezer gép 31 százalékot jelent, messze a 24 százalékos Dell elõtt, míg az IBM ebben a versenyszámban senkitõl nem zavartatva a harmadik, 13,4 százalékkal, a Sun csak 3,8 százalékkal a negyedik. A Gartner jelentése, több táblázattal, erre található.
+Külsõ diszktárolók piaca
+Kevésbé súlyos csapást mért a válság a külsõ diszkes tárolók piacára. A Gartner szerint itt 15,7 százalékos volt a visszaesés a második negyedévben, sõt a NAS-ok szegmense még minimálisan nõni is tudott ezen belül. A gyártók sorrendje nem változott, a legjobb produkciót az IBM mutatta, bevételei mindössze 5,7 százalékkal olvadtak, így több mint másfél ponttal 15,7 százaléka növelte részesedését, õrizve második helyét a fél ponttal 23,7 százalékra visszacsúszó EMC mögött, és megverve a rosszul teljesítõ HP-t. A HP 28,2 százalékos visszaesése 1,8 pontjába került, ami 10,3 százalékot jelent, a negatív rekorder viszont a Sun volt, melynek tárolóeladásai látványosan korrelálnak a nagyvállalati SPARC-rendszerekével. A Sun diszktárolókból származó bevétele a Gartner szerint több mint 42 százalékkal esett vissza, így leszakadt a piac 7. helyén. A részletek erre találhatóak.
+
+
+
+
+
+
+	     
+                  
+                  
+                  
+                   

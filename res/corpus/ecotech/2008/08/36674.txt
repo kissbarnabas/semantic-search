@@ -1,0 +1,14 @@
+Történelmi siker: számítógépes program gyõzött egy profi go-játékos ellen
+
+Történelmi tettet hajtott végre a 800 processzoros szuperszámítógépen futó MoGo szoftver az amerikai Go Kongresszuson, ahol versenykörülmények között legyõzte a nyolcdanos Myungwan Kim nagymestert. Az egyik legbonyolultabb táblás játékban a számítógép diadala csak a Garri Kaszparovot legyõzõ IBM Deep Blue sikeréhez mérhetõ.
+
+
+
+Az oregoni Portlandben az elmúlt héten tartott Go Kongresszuson a világranglista elitjébe tartozó Kim három meccset játszott a számítógépes program ellen, amelybõl az elsõ kettõt biztosan nyerte, a harmadikon azonban kikapott. A nagymester elmondása szerint a MoGo úgy játszott, mint egy két-három danos játékos, vagyis egy haladó amatõr, de voltak egészen meglepõ lépései is, amelyek vérbeli profit sejtettek. Megfigyelõk szerint a szoftver alig kockáztatott, és amikor átvette a vezetést, teljesen passzívvá vált, csak az elõnyét próbálta õrizni.
+
+
+
+Az igazsághoz hozzátartozik, hogy a többezer éves kínai területfoglalós játékban a MoGo program kilenc kõ elõnnyel indult Kim ellen, vagyis a nagymester elsõ lépése elõtt a számítógép kilenc követ már a táblára helyezhetett. A 186:184.5 arányú gyõzetem így is meglepetés, az összecsapás elõtt Kim magabiztosan állította, maga is meglepõdne, ha a szoftver gyõzne. A MoGo Monte Carlo szimuláció segítségével másodpercenként 1,7 millió lehetséges lépés eredményét tudja elemezni. Mivel az algoritmus jól párhuzamosítható, szakemberek szerint a számítógépek fejlõdésével hamarosan el fog érkezni az az idõ, amikor a szoftver elõny nélkül is felülkerekedik majd az emberi játékosokon.
+
+
+ Utoljára 1997-ben mérte össze erejét számítógépes program és profi go-játékos. Tizenegy évvel ezelõtt egy mesterséges intelligenciával foglalkozó konferencián Janice Kim, az egyik legerõsebb nõi játékos huszonöt köves elõnyt adott a Handtalk nevû szoftvernek, és még így is simán gyõzött.

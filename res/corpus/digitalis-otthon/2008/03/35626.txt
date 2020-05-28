@@ -1,0 +1,16 @@
+Navigáció és vezeték nélküli USB a Dell új noteszgépeiben?
+
+Az Engadget közzétett néhány érdekes dokumentumot, melyek egy új, már jóideje pletykált noteszgép-sorozat közeljövõbeni megjelenését erõsíthetik meg. Az E5000 és E6000 sorozatú noteszgépek vadonatúj platformra épülne,k és akár beépített navigációs rendszerrel, illetve vezeték nélküli USB-támogatással (WUSB) is érkezhetnek.
+
+
+
+A Dell új E-sorozatú noteszgépei várhatóan júniustól lesznek kaphatók, és mind a felsõkategóriát, mind az alsóbb szegmenst bõvítik ezekkel a modellekkel. A sorozat csúcsán az E6500 noteszgép foglal majd helyet, mely nem csak LED-es háttérvilágítású kijelzõvel, az Intel Montevina kódnevû, Centrino 2 platformjával, DisplayPort csatlakozóval büszkélkedhet, hanem UWB technológiával is, mely valószínûleg Wireless USB (WUSB) formájában ölt majd testet.
+
+Az E6500 a dokumentum szerint hosszú üzemidõre is képes lesz akár 9-cellás akkumulátorával, a kapcsolatért pedig HSDPA-modul is felelhet majd. Az adatok tárolásáról nem csak hagyományos, hanem flashmemóriás meghajtók, SSD-k is gondoskodhatnak kiépítéstõl függõen. A noteszgépek oldalán eSATA csatlakozó is lesz külsõ merevlemezek egyszerû csatlakoztatásához.
+
+
+A beépített GPS-modul nem csak arra lesz alkalmas, hogy utat mutasson a noteszgép tulajdonosának, de akár a biztonságot is növelheti, az ellopott noteszgép könnyen megtalálható lesz, ha kellõen elõvigyázatlan a tolvaj. A biztonságról ujjlenyomatolvasó és TPM (trusted platform module) 1.2 lapka is gondoskodik.
+
+Talán ilyen lesz a Dell E6500
+
+A hordozhatóbb gépek kedvelõinek az E6400-as, 14,1 hüvelykes kijelzõvel szerelt noteszgéppel kedveskedik majd a Dell. Az új notebookok áráról egyelõre nincs információ, de a sok technológiai újdonságért, fejlett funkciókért cserébe valószínûleg vastagon fog majd a Dell tolla.

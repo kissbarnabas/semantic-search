@@ -1,0 +1,86 @@
+Kipróbáltuk: Lenovo ThinkPad X200s
+
+Minden kétséget kizárva kijelenthetõ, hogy a világ legkonzervatívabb üzleti notebookjai a Lenovo (korábban IBM) ThinkPad szériájához tartoznak: a gépek a dizájnt tekintve idestova tizenhat éves pályafutásuk alatt alig változtak, és változatlanul maradt a koncepció is (strapabíró, megbízható igásló, üzleti felhasználásra rendszeresítve). A belsõ felépítés persze az idõk során sokat módosult, a Lenovo legfrissebb X sorozatú notebookja, az X200(s) azonban történelmet ír, mint az elsõ 12,1 hüvelykes szélesvásznú kijelzõvel szerelt ultrahordozható ThinkPad.
+
+
+
+Az IBM PC-gyártó részlegét 2005-ben megszerzõ Lenovo komoly lépésre szánta el magát, amikor a ThinkPad termékvonalat elõször -- és a noteszgépgyártók közül alighanem utolsók közt -- bõvítette 16:10-es képarányú kijelzõvel felszerelt notebookokkal. A 14,1 és 15,4 hüvelykes TFT-vel ellátott Z-sorozat végül csak két generációt élhetett meg, ezután a cég úgy döntött, hogy a hasonló méretkategóriájú és felszereltségû T-szériánál is bevezeti a szélesvásznú kijelzõt, így nem volt értelme többé a két családot egymás mellett futtatni.
+
+Széleslátás
+
+A gyártó az ultrahordozható szegmensben jóval tovább kitartott a hagyományos, 4:3-as képarányú kijelzõknél, mígnem idén év elején egy megdöbbentõen vékony és könnyû modellel állt elõ. A 13,3 hüvelykes TFT-vel érkezõ X300-ast joggal nevezeték a tökéletes ThinkPadnek: az noteszgép egyesítette a korábbi modellek összes erényét és funkcióját, miközben szinte semmit nem áldozott fel a mobilitással kapcsolatban.
+
+[+] Kipróbáltuk: Padlóra küldött a Lenovo új ThinkPad X300-as noteszgépe
+
+A korábbi X-széria koncepciójából kiindulva hamar kézenfekvõvé vált, hogy a meglehetõsen borsos ára ellenére is bombasikernek számító X300-as szériát követni fogja egy kisebb, 12,1 hüvelykes monitorral érkezõ vonulat. A kisebb testvérre õszig kellett várni, de már amikor bejelentették, egybõl világossá vált, hogy az új ultrahordozható család megjelenését megéri kibekkelni: az X200 ugyan bizonyos szinten kompromisszumokra késztet az X300-hoz képest, viszont több szempontból sokkal jobban sikerült, mint közvetlen elõdje, az X61, ráadásul nem is drágább nála.
+
+
+
+A HWSW-hez egyszerre érkezett meg a ThinkPad X200 és X200s sorozat egy-egy konfigurációja, jelen bemutatónk elsõsorban utóbbira, azaz a teljesítmény helyett a nagyobb mobilitásra fókuszáló példányra koncentrál. A két géptípus külsõre alig különbözik egymástól, elsõ ránézésre nem is lehet megtalálni az eltérést (mindegyik modellbõl van webkamerával és ujjlenyomat-azonosítóval ellátott, vagy ezek nélkül érkezõ típus), egyedül a gép bal oldala és az alja árulkodik arról, hogy a sima X200-ban nagyobb teljesítményû processzor dolgozik -- ezeknél a gépeknél ugyanis kissé vaskosabb a hûtõborda.
+
+Fent az X200s, lent az X61s
+
+A ThinkPad X200s szinte milliméterre ugyanolyan vékony, mint elõdje, az X61s: a gép vastagsága a legvastagabb pontján sem éri el a három centimétert, mélységük is megegyezik (kb. 21 centiméter, a nagyobb akkumulátor erre rátesz még bõ két centit), azonban a 16:10-es kijelzõ miatt értelemszerûen szélesebb lett. Nem változott az anyaghasználat sem, az újabb ThinkPad fedlapja (melyre immár a Lenovo szolid logója is rákerült a ThinkPad jelzés mellett) és alja éppúgy strapabíró, selymes tapintású mattfekete festést kapott magnéziumötvözetbõl készült, mint az elõdnél, a tenyértámasz pedig kemény, minden pontján sziklaszilárdnak mutatkozó mûanyag.
+
+Könnyû, de nem a legkönnyebb
+
+Az X200s-nek a Lenovo adatlapja szerint elméletileg vadonatúj, szénszálas merevítésû RollCage váza van, elképzelhetõ ugyanakkor, hogy ez csak egyes modellekre jellemzõ, a hozzánk került gép ugyanis mindössze 60 grammal könnyebb a sima X200-nál, így tömege a négycellás akkumulátorral 1,35, a kilenccellással 1,65 kilogramm körül alakul. A gép amellett, hogy az átlagosnál jóval könnyebbnek bizonyul, tapasztalataink szerint rendkívül masszív is egyben, a kijelzõ több más ultrahordozható notesszel ellentétben szilárdan áll a helyén, nem csavarodik, nem nyomódik be, a két keskeny zsanér lötyögés nélkül megtartja a panelt.
+
+
+
+A 12,1 hüvelykes, széles kijelzõ hatására kiszélesedõ beviteli felületet példamutató módon használja ki a Lenovo. Az X200s azon kevés ultrahordozható noteszgépek egyike, melynek magyar kiosztású gombsorában minden billentyû teljes méretû: a notesz egy az egyben megörökölte az X300 kiváló gépelési komfortot nyújtó, hibátlan kiosztású, folyadékálló klaviatúráját, pusztán annyi a különbség, hogy a gombok itt faltól-falig kitöltik a rendelkezésre álló szélességet. A beviteli felületre -- akárcsak az X61-es modelleknél -- itt sem fért tapipad, a jó öreg pöcökegér és a hozzá tartozó három gomb (ezek egyébként újra megkapták a vörös és kék festést) használható az egérkurzor vezérlésére.
+
+
+
+A portokat tekintve a ThinkPad X200s hozza a kötelezõt, így összesen három USB kapuval, LAN-csatlakozóval, D-SUB kimenettel és hangcsatlakozókkal rendelkezik, néhány típuson még megtalálható a telefonkábel csatlakozója is, de egyre több konfigurációból hiányzik az õskövületnek számító analóg modem. A Lenovo a korral haladva immár nem PCMCIA, hanem 54 milliméter széles ExpressCard foglalatot épít az X200s-re. A portok elrendezése árnyalatnyival jobb, mint az elõdöknél, a gyakran használt csatlakozók (2 USB, VGA-kimenet, tápcsatlakozó) ugyanis jelen esetben mind egy oldalon sorakoznak.
+
+Spórolós komponensek
+
+Az X200s az Intel Centrino 2 vPro platformjára épülõ notebook: a Montevina kódnevû rendszer komponensei több ponton is energiatakarékosabb mûködést ígérnek a korábbi generációnál. A gépbe a korábbi, "s" jelzéssel ellátott modellekhez hasonlóan alacsony feszültségû vagy ultraalacsony feszültségû Core 2 Duo processzorok kerülnek. A nálunk lévõ gépben egy 1,86 GHz-en ketyegõ, 6 megabájtnyi megosztott másodszintû gyorsítótárral ellátott, 17 wattos TDP-jû, Penryn-magos példány dolgozott.
+
+[+] Kipróbáltuk: Lenovo ThinkPad X61s
+
+A gép lapkakészlete, a GS45 Express tartalmazza a HD-mozik hardveres dekódolását is segítõ GMA 4500MHD grafikus magot is, illetve ez kezeli a maximum 4 gigabájtnyi, 1066 MHz-es DDR3 memóriát (a hozzánk került gépekbe 2 gigabájtot épített a gyártó). Az X200s-be 5400 vagy 7200 fordulat/perces merevlemez, valamint akár 128 gigabájtos SSD is kérhetõ, tesztgépünk egy 250 gigabájtos, 5400 fordulat/perces Fujitsu merevlemezzel érkezett, melyet egy második generációs, 2 gigabájt kapacitású Intel Turbo Memory (Robson) modul egészít ki.
+
+
+
+
+ Utóbbi csekély mértékben gyorsítja az adatelérést, mindemellett elméletileg áramot is spórol a gépnek, mely így gyakrabban kapcsolhatja ki az inaktívvá váló merevlemezt. Optikai megható nem került a gépbe, a feneketlen bendõjû, egyszersmind egyre olcsóbb külsõ adattárolók korában ez vélhetõen egyre kevésbé jelent problémát a notesz célközönségének.
+
+Bár az 1,86 GHz-es kétmagos processzorral felszerelt X200s távolról sem számít erõmûnek, a gép teljesítményével a legtöbb felhasználási területen elégedett lehet a tulajdonosa. A notesszel a komoly grafikus feldolgozóegységet követelõ, modern 3D-s játékokat leszámítva gyakorlatilag minden alkalmazás megfelelõen futtatható, miközben a gép fogyasztását ismét sikerült az elõdökhöz képest valamicskét lejjebb szorítani.
+
+Tíz óra fölött
+
+Az X200s a WLAN-modult bekapcsolva hagyva, az alapból 200 nit fényerejû kijelzõt a használható minimumra szabályozva nagyjából 9 wattot vett fel az akkumulátortól, weboldalak betöltése közben pedig 13-14 wattra szökött fel a fogyasztás. Egy kilenccellás akkumulátorral mindez tapasztalataink szerint legalább 7-8 órás üzemidõt jelent, de minimális terhelés mellett, az adott esetben értékes plusz perceket hozó Battery Stretch funkciót bekapcsolva a 10 óra feletti üzemidõ sem irreális (lásd képünket). A jóval könnyebb és karcsúbb négycellás akkumulátorral is 3-4 órás üzemidõre számíthatunk.
+
+Kilenccellás akkumulátorral nem lehetetlen
+
+Az energiatakarékos üzemmódokat használva érdekes jelenségre lettünk figyelmesek az X200s-nél: a gép hibernált állapotban megmagyarázhatatlan módon folyamatosan terhelte az akkumulátort, hiába kapcsoltunk ki gondosan minden wake on funkciót. Nem lettünk okosabbak azután sem, hogy az interneten utánanéztünk a jelenségnek, mindössze annyi derült ki, hogy az újabb Lenovo noteszgépek közül többet is érint ez a jelenség (szerkesztõségünkben is akad egy hasonlóan viselkedõ X61s).
+
+Az energiatakarékos komponenseknek a hosszabb rendelkezésre állási idõ és a kisebb hûtési igény miatti kisebb össztömeg mellett akad más elõnye is: az X200s ventilátora síri csendben dolgozik, a gép használata közben egyedül a merevlemez halk surrogása hallható -- az opcionálisan rendelhetõ SSD használata esetén ebbõl következõen zéró hangja van a gépnek. A notebook egyedül a szellõzõrendszer oldalánál, illetve alul sugároz ki némi hõt, de a gép ölben tartva is kényelmesen használható.
+
+Szoftverben (is) jeles
+
+A ThinkPad X200s ugyanazt az üzleti felhasználók által nagyra értékelt szoftverválasztékot és biztonsági funkciókat hozza, mint a többi prémiumkategóriás üzleti ThinkPad. A Lenovo üzleti noteszeinek egyik legfontosabb szoftveres alappillére, a ThinkVantage Productivity Center itt is megtalálható, különbözõ komponensei az adatmentéstõl kezdve a diagnosztikán át a vezeték nélküli kapcsolatok kezeléséig bezárólag az egyik legkomplexebb csomagot nyújtják
+
+Bár a ThinkVantage segítségével a legapróbb részletekig paraméterezhetõ a notebook mûködése, a felület használata vélhetõen a kevésbé hozzáértõk számára sem fog problémát okozni. Jó példa erre a megújult Access Connections és Power Manager alkalmazás -- ezek két üzemmódban mûködnek, a Basic felület az egyszerû alapbeállításokat kínálja csak fel, nem hozza zavarba a felhasználót paraméterek egész sorával, míg az Advanced módban minden részletre kiterjedõen kínál beállítási lehetõségeket a két szoftver.
+
+Nincs túlbonyolítva az új Power Manager Basic üzemmódja
+
+A két üzemmód közti talán leglátványosabb különbséget a noteszgép energiahatékonyságát szabályozó Power Manager példázza, mely Basic üzemmódban csak egy csúszkát kínál fel, melynek egyik végén a maximális teljesítmény, a másikon meg a maximális energiamegtakarítás található. A program a csúszka állásától függõen képes dinamikusan szabályozni a kijelzõ fényerejét és a processzor energiatakarékos mûködését. Advanced üzemmódban a szokásos paramétereken (idõzítõk, processzorsebesség, kijelzõ fényerõ stb.) túl megjelenik a Global Power Settings beállítási lehetõség, mellyel egyebek mellett kapcsolható az USB-kapukat kikapcsolt állapotban is áram alatt tartó USB Always on funkció, vagy beállítható, hogy a kijelzõ automatikusan állítsa minimálisra a fényerõt bizonyos helyzetekben (például képernyõkímélõ futása, vagy leállítási, bootolási folyamat során).
+
+A Power Managerrel emellett az akkumulátor élettartamának alakulását is nyomon követhetjük, ráadásul bekapcsolható vele az akkumulátorkímélõ üzemmód is: beállítható, hogy a telepet csak egy bizonyos töltöttségi szint felett kezdje el tölteni a rendszer, megkímélve ezzel a cellákat a gyakori rátöltések következtében fellépõ fáradástól. A töltési küszöbök beállítását a felhasználó rábízhatja az automatikára is, a program ilyenkor a használati körülményekhez igazodva maga módosítja az értékeket.
+
+A ThinkVantage Productivity Centerbõl szabályozható az Integrated Trusted Platform Module (TPM) v1.2-es chip mûködése, mely az ujjlenyomat-azonosítóval kombinálva kényelmes jelszókezelést biztosít, és itt is jelen van a merevlemezt védõ, gyorsulásérzékelõre építõ Active Protection, illetve a távoli menedzsmenthez hatékony segítséget nyújtó Active Management Technology. Elõbbihez szokás szerint jár az a vicces kis alkalmazás, mely a szenzor adatai alapján valós idõben megjeleníti a kijelzõn a gép helyzetét.
+
+Méltó utód, jó testvér
+
+A paraméterek ismeretében és a gépekkel szerzett tapasztalatokat összegezve nyugodt szívvel kijelenthetjük, hogy a ThinkPad X200s képében olyan kisöccse született az X300-nak (illetve most már a montevinás X301-nek), melyre méltón lehet büszke a nagyobbik testvér: a Lenovo elsõ 12,1 hüvelykes, szélesvásznú kijelzõvel szerelt ultrahordozható gépe a ma kapható egyik legjobb igazán mobil üzleti notesz. A kiváló minõségû anyagok és összeszerelés, a kitûnõ klaviatúra, a jó teljesítményû, ugyanakkor energiatakarékos hardver, a biztonsági funkciók mind-mind az átlagos szint fölé emelik a kis gépet.
+
+
+
+Nyilvánvaló az is, hogy az X200s árszintje is az átlag fölött húzódik. A nálunk járt konfiguráció nagyjából négyszázezer forintos bruttó ára sokaknak kétségtelenül jóval a fájdalomküszöb felett van. Számukra lehet jó hír, hogy a nagyobb étvágyú és alig nehezebb ikertestvér, az X200 ennél olcsóbban, konfigurációtól függõen akár bruttó 330-340 ezer forinttól is elvihetõ. A két gép közt elsõsorban az akkumulátoros rendelkezésre állással és a tömeggel kapcsolatos igény alapján érdemes dönteni: aki két feltöltés közt több mint egy munkanapon keresztül használná a gépet, illetve minden gramm számít neki, válassza az X200s-t, egyébként biztosak vagyunk benne, hogy az olcsóbb X200 se fog neki csalódást okozni.
+
+Véleménye van?
+Szóljon hozzá a fórumban
+írjon szerkesztõségünknek!

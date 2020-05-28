@@ -1,0 +1,15 @@
+Letölthetõ a végleges Vista SP2
+
+Hétfõn, az amerikai nemzeti ünnepen jelent meg a Microsoft letöltési oldalán a Vista második javítócsomagjának végleges kiadása, melyet 32 és 64 bites változatban egyaránt közzétett a Microsoft, emellett elkészült a Windows Server 2008 SP2 IA-64-es verziója is. A szoftvercég egy DVD ISO fájlt is közzétett az oldalon, ezen az SP2 összes verziója megtalálható. A javítócsomag egyelõre öt nyelvre lokalizáltan, angolul, németül, franciául, japánul és spanyolul jelent meg, a többi lokalizáció (így egyebek mellett a magyar) érkezése a következõ hetekben várható. A különbözõ internetes fórumokon írt tapasztalatok alapján a végleges javítócsomag megegyezik azzal a változattal, mely hetek óta kering a legtöbb torrenthálózaton.
+A Vista és Windows Server 2008 SP2 az eddig megjelent hibajavítások
+mellett olyan újdonságokat tartalmaz majd mint a Blu-ray és Bluetooth
+2.1 támogatása, illetve a Windows Search 4, bár utóbbi kettõt különálló
+frissítésként már eddig is letölthették a felhasználók. A javítócsomag
+része a Windows Connect Now, ami a vezeték nélküli hálózatok
+konfigurációját egyszerûsíti, illetve lehetõség lesz exFAT fájlrendszer
+esetén UTC idõt használni, így idõzónák között is zökkenõmentesen lehet
+állományokat szinkronizálni. A Windows Server 2008 SP2-be integrálják a
+Hyper-V virtualizációs köztesréteget is, amely a szerverekre szánt
+operációs rendszer végleges kiadását követõen jelent meg.
+Az SP2-vel mind szerver- mind kliensoldalon megjelent egy új energiatakarékossági opció is, mely lehetõvé teszi az energiasémák csoportházirend-szintû szabályozását. A csomag a Windows 2008 Server esetében javította a Terminal Server licenckulcsok visszamenõleges kompatibilitását, ezzel a régebbi Terminal Server verziókat futtató kliensek csatlakozási problémáját is megoldották. 
+A Microsoft az eredeti terveknek megfelelõen, még a második negyedévben elkészült a Vista második javítócsomagjával, az SP2 fejlesztése a kezdeti szkepticizmus ellenére ütemesen zajlott. A Vista SP2-bõl egy béta jelent meg decemberben, ezt február végén követte a kiadásra jelölt (RC) verzió, végül a javítócsomag április végén került gyártásba (RTM). Az SP1 esetében ezt követõen másfél hónap telt el a publikus megjelenésig.

@@ -1,0 +1,16 @@
+Percenként húszezret pörög a Western Digital új merevlemeze
+
+Az SSD-meghajtókat gyártók erõs nyomásának hatására a Western Digital rekorddöntõ merevlemez fejlesztésébe fogott. Az készülõ tároló tányérjai húszezer fordulatot tesznek meg egy perc alatt, ez természetesen az adatmozgatás sebességére van jótékony hatással.
+
+
+
+A WD szerint teljesen nyilvánvaló, hogy az elkövetkezendõ 12-18 hónap során az SSD-meghajtók a széles körben is megfizethetõ árkategóriába csúsznak, ami azt jelenti, hogy ezek a tárolók azokon a területeken, amelyeken a teljesítmény nagyobb súllyal esik a latba, jókora szeletet haraphatnak a merevlemezgyártók tortájából. A WD korábban felismerte ezt, a közelmúltban be is jelentette 300 gigabájtos, tízezer fordulatos Velociraptor WD3000GLFS meghajtóját.
+
+
+ A fejlesztés kezdeti állapotában lévõ, húszezer fordulaton járó tároló a Velociraptor felépítését követi, éppolyan nagy hûtõborda kerül a készülõ 2,5 hüvelykes egység köré, mint ahogy azt a már kapható rekorder esetében láthattuk, emiatt noteszgépbe ez sem kerülhet beépítésre, mert csak az asztali megoldások 3,5 hüvelykes bõvítõhelyében fér el.
+
+
+
+A WD számára a fejlesztések során kihívást jelenthetett a zajszegény üzem, de a kiszivárgott információk alapján azonban a problémán a gyártó már túljutott, a tárolóval kapcsolatban igen csendes mûködésrõl beszélnek. További megoldandó feladat a magas fordulaton fellépõ vibráció alacsony szinten tartása, ehhez teljesen új, a jelenlegi meghajtókétól jelentõs mértékben különbözõ megoldásra van szükség.
+
+A magas fordulaszámon üzemelõ meghajtók nemcsak a WD szalagjairól kerülnek ki, a Seagate kínálatában is található ilyen megoldás, a Savvio 2,5 hüvelykes egységek 15 ezer fordulaton pörgetik a tányérokat. Ezek a kifejezetten vállalati környezetbe, leginkább szerverekbe szánt háttértárak SAS interfészen keresztül csatlakoztathatók. A Western Digital a szupergyors, nagy valószínûséggel SATA II interfésszel készülõ merevlemezt játékosoknak, valamint intenzív lemezmûveleteket igénylõ üzleti alkalmazások kiszolgálására egyaránt szánja. A gyártó -- tekintettel a fejlesztések korai szakaszára -- az új meghajtóval kapcsolatban az árral és a megjelenés dátumával kapcsolatban nem közölt eddig konkrétumot.

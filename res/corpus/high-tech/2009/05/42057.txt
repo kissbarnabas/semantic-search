@@ -1,0 +1,15 @@
+Megjelent a világ elsõ gigahertzes grafikus chipje
+
+Az AMD szerint az 1 gigahertzes Radeon HD 4890 GDDR5 memóriával a fedélzetén 1,6 teraflops nyers számítási teljesítményre képes, ami 50 százalékkal magasabb, mint az NVIDIA legerõsebb chipje. A gyártó ezzel megismétli kilenc évvel ezelõtti diadalát, és az elsõ 1 gigahertzes mikroprocesszort követõen az elsõ olyan grafikus chipet maga szállítja, mely átlépi ezt a lélektani határt egy tömegtermékben, léghûtés mellett.
+A termék egyéb gyári ajánlott specifikáció nem változtak. Az RV790 jelenleg az AMD kínálatában szereplõ leggyorsabb grafikus chip, a TSMC
+gyáraiban készül 55 nanométeres gyártástechnológiával. A lapka 959 millió tranzisztorból épül fel, ami alig több közvetlen elõdjénél, az RV770-nél,
+valamint azzal egyezõen 800 stream processzort és 40 textúrázó egységet
+tartalmaz. A Radeon HD 4890-re 1 gigabájtnyi, a gyári referenciadesignban 975 MHz-en ketyegõ GDDR5 memória
+kerül, mely 256 bit széles adatsínen keresztül csatlakozik a
+processzorhoz, a memória teljes áteresztõképessége így 124,8 gigabájt
+másodpercenként. 
+
+A vállalat közben már a nyár végén piacra kerül új generáció piacra
+dobásán dolgozik gõzerõvel, így aki ki tud várni néhány hónapot, annak
+valószínûleg nem érdemes beruháznia egy hamarosan egycsapásra
+leértékelõdõ, drága megoldásba. Következõ generációs grafikus architektúrájának részleteit hadititokként õrzi&nbsp;az AMD, a HWSW ismeretei szerint a vállalat jelenlegi architekturális elõnyének megõrzését vagy növelését reméli, és a piacra kerülési idõben is meg fogja elõzni az NVIDIA következõ generációját.

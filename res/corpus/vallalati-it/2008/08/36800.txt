@@ -1,0 +1,15 @@
+Nyolcmagos Fujitsu processzorral hidalhatja át a Rock késését a Sun Microsystems
+
+A héten zajló Hot Chips konferencián fellebbent a fátyol a Fujitsu fejlesztés alatt álló nyolcmagos szerverprocesszoráról, amelynek kódneve  Venus. A kaliforniai San Joséban zajló rendezvényen Takumi Maruyama, a Fujitsu mérnöke fõképp a júliusban debütált négymagos SPARC64 VII-rõl beszélt, de prezentációjának végén szót ejtett a nyolcmagos verzió érkezésérõl is.
+
+
+
+A friss, ropogós SPARC64 VII processzort már 65 nanométeres csíkszélességgel gyártja a Fujitsu, a lapka magonként két utasításszál párhuzamos kezelésére képes, így összesen 8 threadet futtat. Utódjáról, a Venusról egyelõre csak annyit tudni, hogy 45 nanométeres technológiával fogják gyártani, nyolc magot és integrált memóriavezérlõt tartalmaz, az architektúra részleteibe nem ment bele Maruyama. Annyit azért elárult, hogy a -- vélhetõen SPARC64 VIII néven érkezõ -- Venusszal 128 gigaflopos teljesítményt céloznak meg, vagyis a processzor elméleti maximális sebessége másodpercenként 128 milliárd lebegõpontos utasítás lesz egy másodperc alatt.
+
+
+ A 2,52 GHz-es SPARC64 VII elméleti maximáis teljesítménye 40 gigaflops, vagyis a nyolcmagos Venus magjai alighanem komoly architekturális fejlesztésen esnek át annak érdekében, hogy a Fujitsu tudja hozni a megcélzott teljesítményt, a magok számának növelése ehhez nem lesz elég. Maruyama szerint a jövõ évi Hot Chipsen további részleteket is megosztanak majd a nagyközönséggel a Venus titkairól. Hogy a lapka mikor várható, egyelõre nem tudni; a SPARC 64 VI és VII megjelenése között nagyjából egy év telt el.
+
+[+] A Fujitsu négymagos processzorára épülnek a Sun új szerverei 
+
+
+A Venusnak leginkább a Sun Microsystems örülhet, amely egyesítette UNIX-szervereinek termékvonalát a Fujitsuval, és a felsõbb kategóriás konfigurációit ma már nem saját tervezésû UltraSPARC, hanem a Fujitsu-féle SPARC64 processzorokra alapozza. A cégnél emellett fejlesztés alatt van egy tizenhatmagos szörny, a Rock, azonban a legújabb hírek szerint az erre épülõ szerverek megjelenése 2009 második felére csúszik, vagyis az eredeti tervekhez képest egy éves késést szenved. Tavaly a Rock-alapú szervereket még 2008 végére várta a Sun, idén tavasszal ezt 2009 elejére módosították, most azonban már 2009 második felérõl beszél a cég.

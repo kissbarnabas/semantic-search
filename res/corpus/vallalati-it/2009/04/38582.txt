@@ -1,0 +1,16 @@
+Kritikus hibára hívja fel a figyelmet a VMware
+
+Biztonsági értesítõt bocsátott ki a VMware, mely arra figyelmeztet, egy vendégrendszer számára lehetõvé válhat kód végrehajtására a gazdán. A rés számos hosztolt virtualizációs terméket és az ESX családot is érinti. 
+
+
+
+A VMware múlt pénteki értesítõje nem részletei a sebezhetõséget, mindössze annyit közöl, hogy a vendégrendszer felõl támadható és tetszõleges kód végrehajtására kényszeríthetõ a gazdagép. A sebezhetõség a virtuális gép megjelenítési funkciójában található, valószínûleg a virtuális és gazda frame bufferei között lép fel szivárgás, amint azt az Immunity támadókódjának prezentációja alapján sejteni lehet. A példatámadásban a virtuális gépen keresztül sikeresen elindították a Windows gazda kalkulátorát.
+
+
+
+
+
+
+
+
+A probléma a VMware számos termékét érinti, így például a Workstationt, a Fusiont, a Playert, az ACE-t, a Servert a lehetõ legújabb verziókra érdemes frissíteni annak érdekében, hogy befoltozzuk ezt a biztonsági rést. Az ESX és ESXi termékek 3 és 3.5 generációinak esetében a VMware patcheket bocsátott ki, míg a még támogatás alatt álló 2.5.5 nem érintett, ahogyan a VirtualCenter sem. A patchek letölhetõek a VMware támogatási oldaláról is.

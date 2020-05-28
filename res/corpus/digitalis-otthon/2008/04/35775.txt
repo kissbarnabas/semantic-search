@@ -1,0 +1,54 @@
+Kipróbáltuk: hálózati meghajtó, nyomtatószerver és BitTorrent-kliens egyben a Netgeartõl
+
+A Netgear inkább otthoni, mint irodai környezetbe szánt hálózati adattárolóját követõen most egy nagyságrenddel drágább, tehetõs otthoni felhasználók, de inkább inkább  kisvállalatok számára megfelelõ háttértároló vendégeskedett szerkesztõségünkben. 
+A ReadyNAS NV+ eredetileg az Infrant Technologies terméke, e cég azonban tavaly óta a NetGear tulajdona. 
+
+
+
+4 x 500
+
+A nálunk járt tárolóba szerencsére nem kellett merevlemezeket kutatni, a tesztelt 4450-es változat gyárilag négy darab 500 gigabájtos diszkkel érkezik, összesen tehát 2 terabájtnyi kapacitást nyújt. A négy merevlemezt az adatátviteli sebesség érdekében akár RAID 0 -- ezt gyorsan felejtsük is el --, a biztonságért pedig RAID1 és RAID 5 tömbökbe szervezhetjük. A ReadyNAS NV+ támogatja a Netgear saját X-RAID megoldását is, az alapbeállítás is ez. Az X-RAID elõnye, hogy anélkül cserélhetjük a merevlemezeket, növelhetjük a rendelkezésre álló tárhelyet, hogy a közben a RAID-tömböt meg kellene bontanunk és újra kellene építenünk.
+
+
+
+Amennyiben kinõnénk a rendelkezésre álló tárkapacitást, bármelyik merevlemezt egyetlen mozdulattal kiemelhetjük -- a helyére behelyezett nagyobb, akár egy terabájtos merevlemezt a rendszer automatikusan beilleszti a RAID-tömbbe, átmásolja rá a redundánsan tárolt adatokat, és kész is, a kapacitás megnõtt. Ugyanígy bõvíthetjük a kisebb, 2x 500 gigabájtos merevlemezzel szerelt 4250-es típus tárterületét is, csak egy újabb merevlemezt kell behelyezni a házba. Az 4450-es elméleti 2 terabájtnyi kapacitásából az X-RAID körülbelül 700 gigabájtot vesz el, 1,3 terabájtnyi biztonságos területtel számolhatunk.
+
+
+
+A ReadyNAS NV+ komolyságát tömege is bizonyítja, merevlemezek nélkül is közel 5 kilogrammot nyom. A tömeg jelentõs részét a fém ház, illetve a ventilátormentes beépített tápegység adja. Az elõlapot kinyitva férhetünk hozzá a menet közben is cserélhetõ SATA-csatolójú -- SATA II is támogatott! -- merevlemezekhez, a hátoldalon pedig a gigabites Ethernet port mellett két USB-kaput találhatunk. Ezekbe nem csak nyomtatót, USB-s merevlemezt, pendrive-ot, hanem Wi-Fi-adaptereket is gyömöszölhetünk, így a vezeték nélküli elérés is biztosított. A készülék alapvetõ beállításait, a kapott vagy beállított IP-címet, a rendelkezésre álló tárhelyet az elõlapi LCD-kijelzõrõl is leolvashatjuk.
+
+
+
+Mindent tud
+
+A ReadyNAS NV+ sorozathoz képest a Storage Central Turbo csak játékszer. Ennek a háttértárolónak nem gond a vegyes környezet, hiszen natív támogatást nyújt Macintosh gépekhez és hálózathoz is, ismeri a Bonjour prokollt sok egyéb mellett, illetve linuxos gépekkel is tökéletesen használható. A Universal Plug'n'Play támogatás windowsos környezetben levesz némi konfigurációs terhet a felhasználó válláról. A ReadyNAS NV+ mûködhet AV-szerverként is, szót ért Windows Media Centerrel és azok Extendereivel, például az Xbox 360-nal is. Állományainkat hálózaton kivülrõl FTP-szerveren keresztül is elérhetjük, a biztonságot pedig HTTP helyett HTTPS elérés is erõsítheti.
+
+A hozzáférési megoldások az egyszerû, otthoni megosztástól (Share) a felhasználói szintû azonosításon át (user) az Active Directory Service támogatásáig terjednek, így a hálózati adattároló szinte bárhol megállhatja a helyét. A felhasználói szintû változatnál egyszerû felhasználói neveket és jelszavakat alkothatunk, meghatározhatjuk mennyi adatot tárolhatnak az egyes felhasználók, akik emellett a megosztott, általános könyvtárakhoz is hozzáférhetnek. Mindezt egyszerûen, webes felületrõl konfigurálhatjuk, platformtól teljesen függetlenül.
+
+
+
+Bittorrent
+
+A ReadyNAS NV+-ban még Bittorrent-kliens is helyet kapott, mely a készülék 8080-as portján saját webes felülettel is rendelkezik. A sávszélességet automatikusan is képes menedzselni, de mi magunk is meghatározhatjuk a maximumokat. A torrentes állományokat egy általunk megadott könyvtárjába tölti le a NAS, de ez természetesen valamelyik általános célú megosztott könyvtár is lehet az.
+
+A háttértárolót 100 megabites hálózatunkra kötöttük, az állományok másolása ezen keresztül 9,5-10 megabájt/s között ingadozott. A gigabites  próbálkozásaink kudarcba fulladtak: bár a számítógép és a NAS között létrejött a gigabites kapcsolat, vagy a Vista, vagy a kábel, vagy valami más miatt az adatok csupán néhány kilobájttal voltak hajlandóal vánszorogni a gép és a készülék között.
+
+
+
+Retrospect
+
+A NAS-hoz adatmentõ szoftvert is kapunk, az 5 licenccel rendelkezõ, azaz 5 különbözõ gépre telepíthetõ EMC Retrospect 7.5 komoly hozzáadott értéket képvisel.  A szoftver maces és linuxos kliensekkel is bír, így szintén tökéletesen alkalmazható vegyes környezetben. A szoftverrel mindenki saját mentést készíthet, az elsõ mentést követõen inkrementálisan is. Két darab, 32 + 10 gigabájtos partíció mentése több mint 4 órát vett igénybe, de ebben nem csak az adatok összeállítása, átmásolása, hanem utólagos tételes ellenõrzése is benne volt, így ez elfogadhatónak tûnt. A másnapra beütemezett, ellenõrzõösszegekre redukált összehasonlítással történõ, körülbelül 6,7 gigabájtnyi adatot mozgató inkrementális mentés közel 1,5 órán át tartott.
+
+        
+
+Szerettük, bár pici drága
+
+A ReadyNAS NV+ megállhatja a helyét akár vállalati környezetben is egy adott munkacsoport nyomtatószervereként és adatmentõ háttértárolójaként, de kisebb cégek, tehetõsen otthoni felhasználók számára is tökéletes megoldás lehet arra, hogy adataink biztonságáról gondoskodjunk, vagy megosszunk állományokat másokkal.
+
+A termék ára kicsit riasztó, üresen is körülbelül 200 ezer forintért vásárolható meg, a 2 terabájtnyi merevlemezzel ellátott verzióért pedig közel 400 ezer forintot kell a pénztárnál hagyni. Mindezért persze all-inclusive ellátást kapunk, beleértve az EMC Retrospect ötfelhasználós licencét is. A 4 x 500 gigabájtnyi Seagate merevlemez közel 170 ezer forintos felára azonban kissé túlzónak tûnik, meg lehet ezt úszni ennek felébõl is, érdemes inkább egy "üres" házat venni, és a meghajtókat utólag beszerezni.
+
+A Netgear ReadyNAS NV+ 4450 hálózati adattárolót az Amden Kft. bocsátotta rendelkezésünkre.
+
+Véleménye van?
+Szóljon hozzá a fórumban
+írjon szerkesztõségünknek!

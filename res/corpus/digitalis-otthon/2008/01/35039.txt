@@ -1,0 +1,18 @@
+A 3M már szállítja mini projektorát, jöhetnek a kivetítõs mobiltelefonok
+
+Miközben a Microvision lézeres projektora még csak prototípusként létezik, a konkurencia jóval elõrrébb jár, a 3M mobiltelefonokba, hordozható készülékekbe szánt projektorát már elérhetik a készülékgyártók. A LED-es LCoS megjelenítõmotorú berendezés alig nagyobb egy bluetooth-os headsetnél.
+
+
+
+Az alig fél hüvelyknyi, körülbelül 11 mm vékony projektor 640 x 480 pixeles, VGA-felbontású képek vetítésére alkalmas akár 40 hüvelykes (~1 méteres) képátlóval. A lézeres vetítõvel szemben ez a megjelenítõ speciális, LED-es LCD-panelbõl és a 3M saját fejlesztésû optikai technológiájából áll össze. A 3M reményei szerint nem az év végén, vagy jövõre, hanem akár már ez év elején bemutatkozhatnak azok a hordozható készülékek, melyek beépített projektorral rendelkeznek.
+
+
+3M projektor
+
+
+A projektor lelke egy mikroméretû kijelzõ, ilyet gyárt például a Displaytech is, mely tavaly novemberben mutatta be FLCoS kijelzõjét -- akár még az is elõfordulhat, hogy ez a mindössze 11,5 mm magas, kevesebb mint 100 mW-ot fogyasztõ, LED-es fényforrású kijelzõ található a 3M mini projektorában is. A kijelzõket VGA (640 x 480), illetve SVGA (800 x 600) felbontásokkal szállítja a Displaytech.
+
+A 3M és a Microvision mellett hasonló megoldásokon dolgozik a Texas Instruments és a Motorola is. Utóbbi a Microvision-nel közösen fejleszt, a TI pedig egy saját, DLP-mikrotükrös rendszert minimalizálna olyan szintûre, hogy az akár mobilkészülékekbe is beépíthetõ legyen. A DLP-s megjelenítõ elõnye a nagyobb felbontás lenne.
+
+
+Ezekre pedig szükség is lesz, hiszen egyre több hordozható eszköz okosodik olyan mértékben, hogy képes akár HD-minõségû videoanyagok lejátszására is, de egyik-másik mobiltelefon (például a Nokia N95) is közel kamkorder minõségû felvételeket képes készíteni. Ezek azonban nem élvezhetõk igazán a készülékek kisméretû, legjobb esetben is körülbelül 3 hüvelykes kijelzõjén.

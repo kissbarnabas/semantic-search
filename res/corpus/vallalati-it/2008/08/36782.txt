@@ -1,0 +1,18 @@
+Kibõvült a Dataplex, a régió legnagyobb adatközpontja
+
+Hivatalosan is átadták a Dataplex új épületszárnyát, mely több ezer négyzetméternyi új kolokációs területtel bõvítette a kapacitást. Ezzel Budapesten található Európa egyik legnagyobb adatközpontja, és a cég már újabb bõvítést készít elõ a folyamatosan növekvõ igények kielégítésére, ezúttal azonban egy új helyszínen már.
+
+
+
+Ünnepélyes keretek között ma adták át a Magyar Telekom tulajdonában lévõ Dataplex legújabb épületét, mely 5600 négyzetméteres alapterületével tovább bõvíti a kolokációs kapacitásokat. A mintegy 4,2 milliárd forintos beruházást a robusztus, évente mintegy 30 százalékos növekedés magyarázza, mondta el az eseményen Simó György, a Magyar Telekom üzletfejlesztésért felelõs vezérigazgató helyettese. Hozzátette, hogy a hagyományos telekommunikációs piacok stagnálnak vagy csökkennek, így a stratégia azoknak a területeknek a feltárására épít, melyek a következõ évek során erõteljes növekedést mutatnak -- a szerverkolokációs és hosting szolgáltatások piaca ilyen.
+
+Az új szárnyat mintegy 8 hónap alatt sikerült gyakorlatilag a nulláról felépíteni és üzemkésszé tenni, közölte Szabó Gábor, a Dataplex ügyvezetõ igazgatója. Az új épület még nagyobb elektromos igénnyel bír, a redundanciákat is beleszámítva összesen bruttó 28 megawattnyi teljesítmény fut össze az adatközpontban. Az összesen 14400 négyzetméteres alapterületével a Dataplex bekerült Európa tíz legnagyobb adatközpontjába, Közép-Európában pedig a legnagyobbnak számít. Az új területtel is azonban immár a kapacitás 80 százalékát kötötték le hosszú távra ügyfelek, így a Dataplex további bõvítést tervez, melynek egy kelet-magyarországi város ad majd helyet, árulta el Simó.
+
+
+
+Az új szárnyban alkalmazott megoldások lényegében megegyeznek az elsõ épületével, vagyis egy minimum N+1 redundanciával rendelkezõ tier 3 adatközpont besorolással bír, ötkilences rendelkezésre állással. Ez évi 5 perc 16 másodpercnyi kiesést enged meg, ezt követõen súlyos pénzügyi következményei vannak a leállásnak -- óránként akár több százmillió forint. A különbség a szélesebb folyosókban és a magasabb, 86 centiméteres álpadlózatban van, amit a nagyobb elektromos kapacitás indokol. Az új épület nagyobb elektromos teljesítményt képes adott területre leszállítani, így képes kiszolgálni a rendkívül magas teljesítménysûrûségû blade installációkat is.
+
+
+A mûködés biztosításához nemcsak a tápellátás szükséges, gondoskodni kell a megfelelõ hûtésrõl is. A hûtési rendszer továbbra is külsõ légcserélõs, és 10 Celsius fokos léghõmérséklet alatt a kompresszorok leállnak, és a hûtést a természet végzi el. A hûtés különösen kritikus egy zsúfolt adatközpontban, nélküle ugyanis a gépek percek alatt megfõnek, közölte Simó. Az áramkiesést a hatalmas teljesítményû szünetmentes tápok, hosszabb zavar esetén V16-os dízel generátorok hidalják át, melyek több tízezer literes gázolajtartályból dolgoznak.
+
+Az új részbe történõ beköltözésekkel a Dataplexnél lévõ szerverek száma hamarosan meghaladja a 20 ezret, árulta el Alan Hawking kereskedelmi igazgató. Simó szerint a Dataplex ügyfelei többnyire a top 200 hazai vállalat köreibõl kerülnek ki, melyek a kritikus feladatokat ellátó szervereket viszik oda, ugyanis hasonló biztonsági szint kiépítése nem érné meg nekik. Szabó referenciaként többek közt a Vodafone-t és a CIB és Erste Bankot is megemlített, de sok ügyfél a neve elhallgatását is megköveteli. A Dataplexben jelenleg mintegy 2000 négyzetméternyi terület áll szabadon további szerverek számára, és az ügyfelek mintegy 20 telekommunikációs szolgáltató csomagjaiból válogatnak, a Magyar Telekom jelenléte a tulajdonosi és befektetõi viszonyokra korlátozódik.

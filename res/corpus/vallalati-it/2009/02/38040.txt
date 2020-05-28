@@ -1,0 +1,14 @@
+Tucatnyi nyomtatójának biztonsági rését foltozta be a HP
+
+Súlyos biztonsági rést foltoz be az a szoftverjavítás, melyet a múlt héten adott ki hálózati üzemmódban is használható nyomtatóihoz és multifunkciós berendezéseihez a HP. A készülékek beágyazott operációs rendszerének frissítésére szakértõk szerint egyelõre kevés figyelmet fordítanak a vállalati felhasználók, pedig a tét nagy: a bizalmas, szkennelt vagy kinyomtatott dokumentumok könnyen illetéktelenek kezébe kerülhetnek, ha nem védik megfelelõen az eszközt.
+
+
+
+Az októberben felfedezett biztonsági rés összesen tíz LaserJet és két Color LaserJet modellt, valamint egy dokumentumszkennert érint, a hibát kijavító firmware-frissítést múlt szerdán tette közzé a gyártó. A sérülékenységet jelentõ Digital Defense szerint a támadók az érintett modellek webalapú interfészének hibáját kihasználva kiolvashatják és megváltoztathatják az eszköz konfigurációs beállításait, illetve hozzájuthatnak a gyorsítótárban tárolt adatokhoz, azaz lényegében teljes hozzáférést kapnak a korábban kinyomtatott vagy beszkennelt dokumentumokhoz.
+
+
+A nem megfelelõen védett nyomtatók nem csak a bizalmas információk kiáramlásának "szelepei" lehetnek, hanem a crackerek hídfõállásai is: a nyomtató rendszerébe bejutva a támadók feltérképezhetik a vállalati hálózatot, majd a megszerzett információk birtokában további támadásokat indíthatnak.
+
+Szakértõk szerint a vállalatok mindmáig nem fordítanak elegendõ figyelmet a hálózatba kötött nyomtatók és más dokumentumkezelõ eszközök védelmére, mely egészen addig, amíg csak a konfigurációs beállításokhoz férnek hozzá a támadók, nem jelent komoly veszélyt, néhány készülék azonban saját memóriájában vagy merevlemezén is tárolja a kinyomtatott dokumentumokat, ami viszont komoly adatbiztonsági aggályokat vethet fel. A cégeknek így a telepítés során ajánlott odafigyelni arra, hogy a készülékek mindegyike hasonló konfigurációban, hasonló portokon kommunikáljon, így az ettõl eltérõ forgalom egyrészt detektálható, másrészt szûrhetõ, hálózati vagy behatolásvédelmi eszközzel.
+
+Természetesen emellett fontos az eszközökön futó szoftverek (firmware-ek) rendszeres frissítése, melynek legalább akkora a jelentõsége, mint a számítógépeken futó operációs rendszerekre kiadott javítások telepítésének. A most megjelent biztonsági javítások mielõbbi telepítésére hívja fel a figyelmet a HP is, mely terméktámogatási weboldalán tette közzé az érintett készülékek listáját, a hozzájuk készült a firmware-frissítések elérhetõségét, valamint a telepítési útmutatót.

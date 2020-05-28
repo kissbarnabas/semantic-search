@@ -1,0 +1,23 @@
+Használhatatlanná teszi a lopott notebookot az új Intel vPro
+
+Tovább okosodnak az Intel beágyazott felügyeleti és biztonsági eszközei, melyeket vPro név alatt gyûjt a vállalat. Az újítások között a legérdekesebb talán az a lopás elleni megoldás, mely nemcsak nagyobb szervezetek, hanem akár kis cégek és egyéni felhasználók számára is hasznos lehet. Korábbi információk alapján csak év végén vagy jövõre bukkantak volna fel az ilyen képességû notebookok, azonban most úgy tûnik, a jövõ hónapban érkezõ Centrino 2 vPro már tartalmazhatja a technológia elsõ iterációját -- bár az információk némileg ellentmondásosak jelenleg.
+
+
+
+Nevével ellentétben természetesen nem képes megakadályozni a gépek fizikai eltulajdonítását az Intel Anti-Theft Technology (ATT), ugyanakkor megvédi adatainkat az illetéktelenektõl, valamint amennyiben szélesebb körben elterjed, úgy értelmetlenné teszi a notebookok nagy részének ellopását, ugyanis hardver logikai szinten használhatatlanná teszi a gépet. De mégis hogyan teszi mindezt? - merül fel a jogos kérdés.
+
+Nincs szó atomfizikáról, mindössze néhány taktikusan elhelyezett mikrokontrollerrõl az alaplapon, melyek beékelõdnek a rendszer mûködõképességéhez szükséges áramkörök közé. Ezek a mikrokontrollerek távolról és helyben is vezérelhetõek az vPro AMT rendszerén keresztül a megfelelõ azonosítást követõen (melynek megbízhatóságáról TPM chip gondoskodik természetesen) így automatizált védelmi politikákat lehet kialakítani.
+
+Az ATT hardveresen titkosítja a merevlemez tartalmát, melyhez a kulccsal a chipset és a merevlemez közötti mikrokontroller rendelkezik. Ennek egyenes következménye, hogy az azonosítási procedúra nélkül a merevlemez tartalma nem olvasható, akkor sem, ha eltávolítják a gépbõl a meghajtót és máshol próbálják kiolvasni. Hasonló minimális védelem notebookokban korábban is megtalálható volt, mely legalábbis mellékhatásként meggátolta, hogy a notebookból kivett merevlemezt külsõ USB-s keretbe vagy más típusú konfigurációba téve olvashassuk a tartalmát -- egy másik, de ugyanolyan laptopban azonban életre kelt.
+
+[+] Megérkezett az Intel Centrino 2 
+
+
+A titkosításon kívül a mikrokontroller(ek) azonban további biztonsági  funkcióra képesek, mégpedig egy elõre meghatározott esemény bekövetkeztével használhatatlanná téve az adatokhoz történõ hozzáférést, sõt akár az egész gép használatát. Ilyen eseményeket a biztonsági politika részeként határozhatunk meg, például a sikertelen rendszerbejelentkezések számában, vagy az utolsó bejelentkezés óta eltelt idõben, de lehetõség van egy központi nyilvántartásban történõ ellenõrzésre is a gép státuszáról.
+
+
+Amennyiben az elõre meghatározott események bekövetkeznek, úgy a gép vagy a központ automatikusan biztonsági incidensnek ítéli a helyzetet, és úgynevezett "méregpirulát" bocsát ki, mely vagy az adathozzáférést, vagy a teljes platformot teszi mûködésképtelenné a mikrokontrollereken keresztül -- ekkor a gép bootolhatatlanná válik, az adatok pedig olvashatatlanná, ugyanis a chipset nem rendelkezik a mûködéshez szükséges kulccsal.
+
+Az Intel által példaként felvázolt három szcenárióból egyben öt sikertelen bejelentkezési próbálkozást (hibás felhasználónév/jelszó páros) követõen vált használhatatlanná a számítógép, egy másik esetben a politika legalább 3 naponta megkövetelte a bejelentkezést, és azt követõen bocsátotta ki a méregpirulát, míg a harmadik esetben egy éles, mûködõ lopott laptop az internetcsatlakozást érzékelve jelentkezik be a szervezeti szerverre, melynek nyilvántartásában lopottként szerepel az, így elküldi az utasítást az önbénításra. 
+
+Bár az ATT igen ígéretes, a mûködésével kapcsolatos technikai részletek olyannyira hiányosak jelenleg, hogy az Intel nem közölte, hogyan fordítható vissza egy mérgezési folyamat, milyen eszközök szükségesek ahhoz, hogy visszakapjuk rendszerünk mûködõképességét -- például elegendõ-e hozzá egy másik PC és egy Ethernet összeköttetés szabadon letölthetõ szoftverrel, mellyel újra azonosíthatjuk magunkat a "halott" gép mikrokontrollerei elõtt. Sõt korábbi, a tavaszi Intel Developer Forum idejére esõ híradások alapján legkorábban jövõre terjedhetnének el az ATT-s laptopok, ugyanis a specifikációk csak a negyedik negyedévre készültek volna el véglegesen, a Centrino 2 mai rajtjával együtt azonban már az új, augusztusban rajtoló vPro részeként emlegetik.

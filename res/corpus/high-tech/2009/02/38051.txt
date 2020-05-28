@@ -1,0 +1,16 @@
+Németországban épül Európa elsõ petaflopsos szuperszámítógépe
+
+Németországban épülhet Európa elsõ petaflopsos szuperszámítógépe, mégpedig a Jülichben található tudományos kutatóintézetben, mely a kontinens egyik szuperszámítógépes központja. A megrendelést elnyerõ IBM egy BlueGene/P architektúrájú rendszert fog telepíteni, mely közel háromszázezer processzormagot használ.
+
+
+
+A részben a német szövetségi oktatásügyi minisztérium által finanszírozott projektben a Forschungszentrum Jülich tudományos intézetben építi meg az IBM az egyelõre név nélküli BlueGene/P rendszert, mely a három német szuperszámítógépes centrum összefogásával megszületett Gauss Centre for Supercomputing infrastruktúra része lesz. A gép várható csúcsteljesítménye 1 petaflops, vagyis másodpercenként milliószor milliárd lebegõpontos, 64 bites pontosságú matematikai mûvelet. A rendszert várhatóan az év közepén adják át, és kapacitását különféle természettudományos és mérnöki alapkutatásokra használják majd, például az éghajlat, biológia, félvezetõk vagy üzemanyagcellák területein.
+
+
+A rendszer 72 szekrénybõl épül fel, melyek egyenkét 1024 darab négymagos PowerPC 450 processzort tartalmaznak négyfoglalatos SMP-konfigurációkban, vagyis rackenként 4096 processzormag található -- a teljes rendszerben pedig 294 912 darab. A memóriakapacitás 144 terabájtot tesz ki, az optikai összeköttetés sávszélessége 5,1 gigabájt/s, késleltetése 160 nanoszekundum. A teljes installáció 2,2 megawattot fogyaszt, ez azonban ekkora teljesítmény mellett kifejezetten jó érték, wattonként 454 megaflops teljesítményt jelent, jóval energiahatékonyabb, mint a legfejlettebb x86-os szupergépek. A legenergiahatékonyabb szuperszámítógépes konfigurációk a PlayStation 3-ban használt Cell Broadband Engine derivatívájára,  PowerXCell 8i chipekre épülnek, akár 500 megaflops/watt feletti hatékonysággal.
+
+A jülichi BlueGene/P rendszer átadásakor bár valószínûleg toronymagasan Európa legerõsebbjének bizonyul, hiszen más hasonló kaliberû projektrõl nem tudni, ez a teljesítmény legfeljebb a harmadik helyre lesz csak elég a Top500 listán: az Egyesült Államokban üzemelõ Cray Jaguar és IBM Roadrunner rendszerek rendre 1,46 és 1,1 petaflopsos potenciállal rendelkeznek. Igaz, van, amiben a Jüliché az elsõség, a két amerikai gép ugyanis zárt, kormányzati projektekben vesz részt, míg a jülichi center kapacitására bármilyen békés célú tudományos kutatással lehet jelentkezni, így ez lesz a legerõsebb, kizárólag tudományos célokat szolgáló installáció. 
+
+A jülichi szuperszámítógépes centrum 
+
+Jülich eddig is a legerõsebb szuperszámítógépekkell rendelkezett Európában, a BlueGene/L architektúrájú, 37 teraflopsos JUBL-t 2006-ban adták át, majd 2007 során érkezett a JUGENE, teljesítménye 180 teraflops -- ezzel a 11. a világon, egy kínai, és kilenc amerikai installáció elõzi meg. A kutatóintézet már akkor jelezte, hogy a petaflopsos teljesítmény kiépítése a cél, ahogyan a tudományos igények folyamatosan emelkednek. A BlueGene/P architektúra 3 petaflopsig skálázható, a közelgõ BlueGene/Q pedig a 10 petaflopsot is elérheti késõbb. Ahogyan a mostani projektet, úgy a JUBL és a JUGENE megépítését is döntõ részben a német szövetségi kormány finanszírozta.

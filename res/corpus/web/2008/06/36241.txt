@@ -1,0 +1,16 @@
+A Kaspersky a közösség erejével állítaná vissza a Gpcode vírussal fertõzött állományokat
+
+[CNet] Az antivírus szoftvereket fejlesztõ Kaspersky egy különleges projektet indított útjára: megoldást szeretnének nyújtani azoknak a felhasználóknak, akiknek gépét a Gpcode vírus fertõzte meg. A Gpcode titkosítja a felhasználó állományait, a megoldást, a dekódoló programot pedig mostantól csak fizetség ellenében kaphatja meg a vírus készítõjétõl a felhasználó.
+
+
+
+A Gpcode újabb változata erõs, egy kilobites RSA titkosítást használ, ezért a Kaspersky a segítõ szándékú közösséget is bevonná a projektbe. A "Stop the Gpcode Virus" kezdeményezés hétfõn indult el egy publikus fórum létrehozásával, ahol kutatók, biztonsági szakemberek véleményére is kívácsiak lennének, hogyan lehetne hatékonyan megkezdeni az erõs titkosítás feltörését.
+
+A Kaspersky laboratóriuma az elmúlt héten figyelmeztetett a Gpcode egy újabb változatára, mely az 1024 bites titkosítással kódolt állományok megnyitásakor egy e-mailcímet ajánl, ahonnan a dekódoló szoftver megvásárolható. A vírus egyelõre még nem terjed széleskörûen, ezért közepes besorolást kapott a veszélyességi listán.
+
+
+A Gpcode elsõ változatát 2006-ban fedezték fel, akkor még nem okozott gondot a kód visszafejtése, jóval gyengébb volt a titkosítási szint. A cég azonban csak 660 bitig képes "törni" a kódolást -- ezt is csak a vírus készítõjének figyelmetlensége miatt --, ezért fordult most a közösséghez. A kódolás feltöréséhez szükséges erõforrások explonenciálisan növekednek a kód minden egyes plusz bitjével.
+
+
+
+A Kaspersky azt ajánlja a Gpcode-dal fertõzött számítógépek tulajdonosainak, hogy ne kapcsolják ki, vagy indítsák újra számítógépüket, hanem küldjenek egy levelet a stopgpcode@kaspersky.com címre a fertõzés részleteivel, körülményeinek leírásával.

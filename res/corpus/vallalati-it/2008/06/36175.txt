@@ -1,0 +1,30 @@
+Cisco: egységes, Ethernet-alapú infrastruktúrát az adatközpontokba!
+
+Magyarországon is bemutatkozott a Cisco Nexus termékvonala, valamint a vállalat hangzatos nevû "Data Center 3.0" koncepciója, amelynek központjában az egyesített hálózati réteg, a Unified Fabric áll. A Cisco szerint a jövõ adatközpontjában a szerverek és tárolók egységes kommunikációs felülete a 10 gigabites Ethernet lesz, ezen keresztül zajlik majd lényegében mindenfajta adatforgalom. 
+
+
+
+Csak egy maradhat!
+
+A régóta létezõ és elterjedt SCSI szabvány már korábban az Ethernet-hálózatokra "költözött", és az iSCSI eszközök az utóbbi idõben óriási népszerûségre tettek szert elsõsorban az alsó árkategóriában, a felsõbb régiók felé szorítva a Fibre Channelt. Az iSCSI-hoz némiképp hasonló elgondolás mentén épül fel a tavaly áprilisban bejelentett Fibre Channel over Ethernet szabványtervezet, azonban ez a technológia a nagyobb teljesítmény és megbízhatóság érdekében nem az IP stackre épül, hanem megtartja saját protokollját egészen a kapcsolati rétegig, de a fizikai hordozója az Ethernet.
+
+
+
+10 GbE
+
+Ahogy az adatközpontokban terjed a szerverkonszolidáció és a virtualizáció, a szervereknek egyre nagyobb sávszélességre van szüksége, hiszen egy fizikai hardveren több virtuális gép fut, amelyek mind-mind csatlakoznak a hálózatra. A Cisco adatközpont-szakértõi szerint ezért a 10 gigabites Ethernet-vezérlõk maholnap a szerverek alaplapjaira költöznek, mint ahogy pár évvel ezelõtt a gigabites kontrollerek tették.
+
+
+
+
+Az adatközpontokban a Fibre Channel és az Ethernet ma párhuzamosan él, két szeparált hálózatot alkotnak, saját berendezésekkel, menedzsment-eszközökkel és rendszerint külön adminisztrátorokkal. Egy egységes fizikai hordozóréteg használata csökkentené a hálózatok kiépítésével és üzemeltetésével járó költségeket -- vélik az Fibre Channel over Ethernet (FCoE) támogatói, amelyek között a Cisco mellett olyan cégek találhatók, mint az IBM, az EMC, a Brocade, az Intel, a QLogic, az Emulex, valamint a Sun Microsystems.
+
+Cisco Nexus
+
+A Cisco LAN-eszközei, tehát a Catalyst család, illetve az FC-hálózatokra szánt MDS vonal közé ékelõdik be az új Nexus, amely a cég által Unified Fabricnak hívott 10Gb Ethernetre épül, kiegészítve FCoE-támogatással. A Cisco Nexus termékcsalád egyelõre két részbõl áll, az év elején bejelentett 7000-es core, valamint a most elrajtolt 5000-es acces switch sorozatra, amelyek az azóta a Cisco 100 százalékos tulajdonába került Nuova Systemsszel közös, másfél milliárd dollárt felemésztõ, 1500 szabadalmat eredményezõ fejlesztés eredményei.
+
+Az 5000-es sorozat elsõ tagja a napokon belül piacra kerülõ Nexus 5020 egy 2U kivitelû, 56 darab 10 GbE porttal rendelkezõ kapcsoló, amely a csomagok méretétõl függetlenül és a szolgáltatásoktól függetlenül garantáltan alacsony (2,5 ms körül) késleltetéssel mûködik. A megbízhatóságról és robosztusságról az üzem közben cserélhetõ tápegységek és hûtõventilátorok gondoskodnak. Érdekesség, hogy a switch két teljesen különálló menedzsment-felülettel rendelkezik, amelyek közül az egyik a storage-adminisztrátoroké, akik felé az eszköz egy FC-switchként láttatja magát, ugyanúgy kezelhetõ, mint egy MDS.
+
+
+
+Hirsch Gábor, a Cisco magyarországi leányvállalatának üzletfejlesztési igazgatója lapunk kérdésére elmondta, konkrét hazai megrendelés még nem érkezett be a Nexus termékekre, de "komoly érdeklõdõk" már vannak. A Nexus család, illetve az általa képviselt elgondolás feltételezi, hogy a vevõ átgondolt stratégiával rendelkezik az adatközpontjait illetõen, ez a fajta gondolkodásmód viszont Magyarországon még csak kevés cégnek sajátja. Mindazonáltal Hirsch szerint a közeljövõben indul egy-két olyan hazai projekt, ahol a Nexusok megmutathatják az oroszlánkörmeiket. Ezzel párhuzamosan a vállalat nagy hangsúlyt fektet majd arra, hogy partnerhálózatában megjelenjenek az adatközpontra specalizálódott cégek.

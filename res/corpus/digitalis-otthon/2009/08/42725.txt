@@ -1,0 +1,9 @@
+Az AMD átvette az órajelverseny vezetését
+
+A Phenom II X4 965 Black természetesen túlhajtható a szorzóáramkörök állításával, 140 wattos TDP besorolása azonban nem sok jót sejtet. Az AMD az új sebességfokozathoz nem használt új steppinget, vagyis szilíciumrevíziót, és úgy tûnik, a gyártástechnológia finomhangolása sem ad magyarázatot, hiszen a cég kényszerûen 1,4 voltra emelte a tápfeszültséget az Phenom II X4 955 1,35 voltjával szemben.
+Mivel a  feszültség emelése négyzetesen hat a fogyasztásra, ezért az órajel és a feszültség együttes emelése átlagosan több mint 14 százalékkal emeli meg a fogyasztást, miközben a teljesítménynövekmény tipikusan 5 százalék alatti. Bár a jelenlegi gyártástechnológiával és szilíciumrevízióval az AMD láthatóan elérte a maximumot, melyet nyújtani tud, leadott teljesítményben még mindig nem érheti el az Intel kínálatának csúcsát. Ezt tükrözi az árazás is, a 965 Black 245 dolláros nettó gyártói listaárral rendelkezik, amivel nagyjából a 2,83 gigahertzes Intel Core 2 Quad Q9550 modellel van egy árban.
+Az új csúcsmodellel nem változtak az alatta lévõ termékek árai, ami végképp megerõsíti, hogy mindössze egy "gyárilag tuningolt" presztízstermékrõl van szó, semmint az egész termékcsaládra kiterjedõ valódi gyorsulásáról - hasonlóan az Intel nemrég bemutatott csúcskategóriás, 3,33 gigahertzes asztali és szerver Nehalem chipjeihez. Az órajelharcot most mindenesetre az AMD nyerte, és 965-ös jelenleg a világ legmagasabb órajelû PC-processzora, mégha ennek értéke minimum kétséges is, és nem vesszük figyelembe az Intel Nehalemek Turbo módját.	     
+                  
+                  
+                  
+                   

@@ -1,0 +1,16 @@
+Intel: távolról is bekapcsolhatók lesznek az otthoni PC-k
+
+Az Intel otthoni felhasználásra szánt alaplapjain hamarosan megjelenhet a Remote Wake funkció, amely lehetõvé teszi a felhasználók számára, hogy alvó (sleep) vagy felfüggesztett (suspend) módban levõ számítógépet távolról felébresszék, bekapcsolják. 
+
+
+
+Ma már egyre gyakoribb, hogy a PC-tulajdonosok távolról is szeretnék elérni a gépükön tárolt adatokat. Számos olyan szoftver létezik, amely ezt lehetõvé teszi, de mindegyikhez szükség van arra, hogy az elérni kívánt gép folyamatosan be legyen kapcsolva, amivel rengeteg energia megy kárba. Sokkal takarékosabb megoldás lenne, ha a PC csak arra az idõre lépne mûködésbe, amíg a felhasználó távoli eléréssel megszerzi a neki szükséges adatokat.
+
+A Remote Wake az Intel vállalati PC-kbe szánt vPro technológiáján alapul. A vPro egyik szolgáltatásaként lehetõvé teszi a vállalati PC-k távoli bekapcsolását, így a szoftverfrissítések telepítésekor az adminisztrátoroknak nem kell egyenként odamennie minden géphez, hogy bekapcsolják. Az Intel szerint a fogyasztók is igényelnék ezt a funkciót, ezért a hamarosan piacra kerülõ, otthoni gépekbe szánt alaplapok is némelyike is tartalmazni fogja.
+
+
+ Az Intel többek között a Jajah VOIP-szolgáltatóval, a Pando Networksszel és az Orb Networksszel együttmûködve mutatta be a technológia elõnyeit. A Jajah-val azt próbálta demonstrálni a chipgyártó, milyen hasznos, ha egy internetes telefonhívás beérkezésekor a PC automatikusan bekapcsol és rögzíti a hívást akkor is, ha a felhasználó épp nincs a közelben. 
+
+Az Orb Networksszel olyan szoftvert fejleszt, amellyel a PC-n tárolt tartalmak (zenék, képek, videók) tetszõleges más eszközön is elérhetõk az interneten keresztül. Ehhez azonban szükség van arra, hogy a médiafájlokat tároló PC folyamatosan mûködjön, ami energiapazarlás az Orb és az Intel szerint. A Remote Wake lehetõvé teszi, hogy a PC tényleg csak akkor kapcsoljon be, ha szükség van rá.
+
+A Pando Networksszel közösen azt mutatta meg az Intel, hogy a PC programozható videorögzítõként is használható, a felhasználó akár a mobiltelefonja segítségével is bekapcsolhatja távolról a gépet és felveheti a tévéadást.

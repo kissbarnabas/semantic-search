@@ -1,0 +1,14 @@
+Késnek, de még 2009-ben megérkezhetnek az új legfelsõbb szintû domainnevek
+
+Az Internet Corporation for Assigned Names and Numbers (ICANN) korábban 2009. szeptember 30-ra ígérte a legfelsõbb szintû domainnevek liberalizációját, a legfrissebb hírek szerint azonban ez a határidõ mégsem tartható. 
+
+
+
+Az ICANN már korábban döntött a legfelsõbb szintû domainek liberalizációjáról, az új szabályozás ertelmében a jelenlegi 21 legfelsõbb szintû domain mellé bárki regisztrálhat majd sajátot, ráadásul ez akár 64 karakterbõl is állhat. Az új legfelsõbb szintû domainek földrajzi nevek vagy akár márkanevek is lehetnek, így például létrejöhet .budapest, .google vagy akár .microsoft domainnév is. A szervezet belátta, hogy a jelenlegi 21 gTLD (generic top-level domain) nem lehet elegendõ akkor, amikor az internetezõk száma meghaladta az 1,5 milliárdot világszerte, a világhálón megjelenõ nemzeti, kulturális és földrajzi sokszínûséget a domainneveknek is követniük kell.
+
+
+ Az új gTLD-k bevezetésérõl egy tavaly nyári konferencián döntött az ICANN, az akkor elõterjesztett javaslatokkal kapcsolatban 2009. februárig várták a visszajelzéseket, észrevételeket, amelyeket a szervezet most megvitat. Az azonban már most látszik, hogy az eredetileg kitûzött szeptemberi  határidõ nem lesz tartható, Karla Valente, az ICANN kommunikációs vezetõje szerint a kérdések rendezése a vártnál több idõt vesz igénybe.
+
+Az egyik probléma az új gTLD-k regisztrációjának díja, illetve annak piaci hatásai -- a korábbi hírek szerint egy új általános legfelsõbb szintû domainnév bejegyzése akár 30-50 ezer dolláros nagyságrendet is elérheti. Emellett a mûszaki háttér sem tisztázott még, például hogy a névfeloldást végzõ szerverek (DNS) el tudnak-e bírni annyi új domainnévvel, amely a liberalizációnak köszönhetõen megszülethet -- magyarázta Valente. Az ICANN külsõ szakértõket bízott meg a hatásvizsgálatok lefolytatásával, áprilistól kezdve pedig számos fórumon tárgyalja majd azok eredményeit.
+
+Az új gTLD-k bevezetését tárgyaló útmutató legfrissebb kiadása most készült el, ez már tartalmazza a tavaly júniusi döntés óta beérkezett kérdésekre adott válaszokat, azonban a dokumentum alighanem még több változtatáson is átesik, mire véglegesíthetik. Valente szerint az ICANN még 2009-re ki akarja dolgozni az új szabályozás összes részletét.

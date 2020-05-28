@@ -1,0 +1,16 @@
+Hamarosan jön az aprócska gépekre szánt Mobil Ubuntu Linux
+
+Hamarosan megérkezik a hazánkban is közkedvelt Ubuntu Linux disztribúció mobil változata, kifejezetten MID (mobil internet céleszköz) hordozható számítógépekre. Az operációs rendszer minden porcikája a mobil használati módnak lett alárendelve.
+
+
+
+Az Ubuntu Mobile operációs rendszer kifejezetten a számítógépek új kategóriájába esõ parányi mobil internetes céleszközöket célozza. A MID hardvereinek teljesítményét és lehetõségeit kihasználó Ubuntu Mobile teljes, kompromisszumoktól mentes internetezési lehetõséggel, médialejátszási képességgel ruházza fel a kisgépeket, amelyeknek így a noteszgépeken, illetve az asztali számítógépeken megszokott módnál nem körülményesebb a használata.
+
+
+Az Ubuntu Mobile az Intellel folytatott együttmûködésnek köszönhetõen az érintésérzékeny képernyõket is támogatja, a grafikai megvalósulás nélkülözhetõvé teszi a speciális, az érintésérzékeny kijelzõk mutatóeszközéül szolgáló tollakat, minden kényelmesen kezelhetõ az ujjunkal is. Természetesen a beépült médiatár kezelésekor, illetve a Web 2.0 alkalmazások futtatásakor ez a kényelem ugyancsak elérhetõ.
+
+Ubuntu Mobile
+
+Az operációs rendszer grafikai felülete a 4-7 hüvelykes kis kijelzõkre lett optimalizálva, és a beviteli lehetõségek között a billentyûzet nélküli gépek használói megtalálják e hiányzó részegység virtuális megfelelõjét. Az Ubuntu Mobile minimum rendszerkövetelményeként 256 megabájt munkamemóriát és két gigabájtnyi flash háttértárat ismertetnek a fejlesztõk és említést tesznek webkamera támogatásról is. A rendszer felkészítve várja a vezeték nélküli hálózati csatolókat, a 3G szélessávú telefonmodulokat, valamint a WiMAX és Bluetooth illesztõket.
+
+A rendszerbe integrált szoftverek között Firefox 3.0 verzióján alapuló böngészõt, zene- és filmlejátszót, fotónézegetõt, email klienst, azonnali üzenetküldõt, eBook olvasót, kamerakezelõt, személyes adatkezelõ alkalmazásokat, GPS vevõegység rendelkezésre állásától függõen annak szoftverét, ugyanígy digitális TV-vevõ alkalmazást, valamint PDF állományok megjelenítõjét is megtalálhatjuk. Az Ubuntu Mobile a PC-gyártók igényei szerint alakítható, így a MID-ek jelentõs hányada is érkezhet vele a szalagról a boltokba, várni rá azonban elõreláthatólag 4-8 hónapot kell még.

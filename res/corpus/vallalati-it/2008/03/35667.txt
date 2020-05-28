@@ -1,0 +1,14 @@
+A Microsoft három éve tudott a legújabb Windows sebezhetõségrõl, mégsem foltozta
+
+Évek óta ismert sebezhetõséget nem foltozott be a Microsoft a Windowsok egyik komponensében, pedig a javítást már kidolgozta, és a Vistát például már a hibával nem rendelkezõ verzióval szállítja. A Windows beépített adatbázis motorjaként több mint másfél évtizede szolgáló Jet Database Engine egyik sebezhetõségét kihasználva a támadók tetszõleges parancsot futtathatnak le a rendszeren egy MDB fájl segítségével.
+
+
+
+A Microsoft Security Response Center csapata múlt hét pénteken ismertette a támadási lehetõséget. Amint arról hétfõn beszámoltunk, az Access és Visual Basic, valamint Visual C++ adatbázis hátterét biztosító Jet dokumentált oszlopkezelése (oszlopszám túlcsordulás) olyan dokumentált sebezhetõséget teremt, mely lehetõvé teszi a támadónak tetszõleges kód futtatását a rendszeren a felhasználó jogosultságán. Az egyik példatámadás például a számológépet indítja el.
+
+Komplexitásukból fakadóan szoftverek sebezhetõsége önmagában még nem nagy újdonság, a Microsoft azonban azzal borzolta fel némileg a kedélyeket, hogy közölte, a hibát 2005 márciusa óta ismerik, ráadásul a Vista, a Server 2003 SP2 és az áprilisban megjelenõ Windows XP SP3 már a Jet egy javított változatával érkezik, mely már nem támadható ezzel a módszerrel. Az indoklás szerint nem tartották szükségesnek a frissítés közzétételét, ugyanis az MDB fájlok alapértelmezetten tiltólistások, így az Exchange és az Outlook, de az Internet Explorer is szûri ezeket.
+
+
+A most felszínre került támadási módszerrel szemben a Microsoft által korábban kidolgozott védelem, mely a támadási lehetõséget igyekezte felszámolni, hatástalan. A támadás ugyanis nemcsak MDB formátumú fájlba, hanem Word dokumentumba ágyazva is érkezhet, pontosabban kettõbe, és a felhasználónak elegendõ egyet megnyitnia. A Microsoft hétfõn közölte, hogy még vizsgálja lehetõségeit, hogyan szüntesse meg a támadhatóságot -- akadályozza meg a Wordöt abban, hogy MDB tartalmú fájlokat nyisson meg, vagy tegye széles körben hozzáférhetõvé a hibamentes Jet DLL-t.
+
+A sérülékenységgel a Jet 4.0.9505.0 vagy régebbi verziói rendelkeznek, a redmondi cég jelenleg azt is vizsgálja, vajon a Word mellett más alkalmazásokkal is kihasználható-e a sérülékenység, de egyelõre csak preparált Word-dokumentumokon alapuló támadásokról érkeztek jelentések. A szoftvergyártó azt javasolja, hogy azokon a rendszereken, ahol nincs szükség Access vagy Visual Basic futtatására, kapcsolják ki a Jetet.

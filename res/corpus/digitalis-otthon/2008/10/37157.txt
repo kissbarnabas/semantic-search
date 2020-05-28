@@ -1,0 +1,14 @@
+A MacBook Prókba is hibás grafikus chipek kerültek
+
+Apple MacBook Pro noteszgépeket is érinthet az a probléma, ami az NVIDIA egyes mobil grafikus chipjeinek meghibásodását okozza. A tokozáshoz használt anyag gyenge minõsége miatt az alkatrészek forrasztása a hõstressztõl megrepedhet, elválhat a nyomtatott áramköri lemeztõl, ezáltal használhatatlanná téve a notebookokat.
+
+
+
+A nagy noteszgyártók közül a HP-t és a Dellt érintette a legérzékenyebben a probléma, elõbbi cégnek 24, utóbbinak 16 olyan noteszgépe van piacon, amelyekben túlmelegedésre hajlamos GeForce 8400M, 8600M vagy Quadro NVS videochipek kaptak helyet. A cégek "sebtapaszként" olyan BIOS-frissítéseket adtak ki azóta, amelyek módosítják a hûtõventilátor fordulatszámával kapcsolatos beállításokat, így véve elejét a túlmelegedésnek. A videochip ilyen hibájára utalhat, ha a kép torz, szemetes, villódzik, csíkozódik, illetve ha egyáltalán nem jelenik meg kép.
+
+
+
+
+ Az Apple esetében a GeForce-ok hibája a 15 és 17 hüvelykes kijelzõvel rendelkezõ MacBook Pro noteszgépeket érintheti, ezekben NVIDIA GeForce 8600M GT grafikus processzor teljesít szolgálatot. Az Apple  belsõ vizsgálata azt tárta fel, hogy a 2007 májusa és 2008 szeptembere között gyártott noteszgépekbe kerültek be a problémás videochipek. A cég a hibás grafikus processzorral szerelt notebookokat ingyen javítja a vásárlástól számított két évig. Ha valakinek már granaciaidõn kívül ilyen hiba miatt javítani kellett a MacBook Próját, annak visszafizetik a javítás árát -- közölte a cég.
+
+Az NVIDIA júliusban ismerte el, hogy hibás grafikus chipek kerülhettek ki tõle, a cég a garanciális javításokkal, cserékkel kapcsolatban 196 millió dolláros költséget könyvelt el, ami veszteségbe is rántotta azt a negyedévet. Pár héttel késõbb a cég közölte, licenceli a Transmeta energiatakarékos technológiáit annak érdekében, hogy féken tartsa chipjeinek fogyasztását, hõtermelését. Ez nem csak a mobil alkatrészek esetén fontos, egy csúcskategóriás asztali grafikus chip akár kétszer annyit is fogyaszthat, mint egy CPU.

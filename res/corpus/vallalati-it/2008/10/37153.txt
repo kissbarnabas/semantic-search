@@ -1,0 +1,14 @@
+Ubuntu Linuxra állítják át a Wikipediát futtató szervereket
+
+[Computerworld/HWSW] Ubuntu Linuxra állítják át a Wikipedia mögött álló mintegy 400 szervert, amelyek eddig Red Hat Linuxot és annak közösségi változatát, a Fedorát futtatták. Ahogy a közösségi enciklopédia növekedett, úgy bõvítették a szerverparkot is, amelynek az eredményeképp a két disztribúció többféle verziója is futott a gépeken, bonyolítva az üzemeltetést. A San Franciscó-i Wikimedia Alapítvány ezért úgy döntött, egységesíti szoftver-infrastruktúráját, és minden szerverén Ubuntu Linuxot (8.04 LTS) vezet be.
+
+
+
+A Wikipedia üzemeltetõi korábban saját maguk által írt szkriptek segítségével próbálták egyszerûsíteni a szoftverek telepítését vagy frissítését a különbözõ verziójú rendszereken, azonban az ötfõs IT-csapat végül arra jutott, hogy ennek az összetett környezetnek a karbantartása már meghaladja a képességeiket, így az egységesítés mellett döntöttek. "Sokkal egyszerûbb lett az életünk. A frissítések könnyebben telepíthetõk és az egész rendszer egységesen kezelhetõ. Ugyanazt a szoftverkombinációt használjuk mindenhol. Minden milliószor könnyebb így" -- mondta az amerikai Computerworldnek adott interjújában Brion Vibber mûszaki vezetõ.
+
+A Wikipedia rendszere azért volt ilyen zilált, mert a közösségi enciklopédia infrastruktúráját is önkénetesek adták össze, mindenki beszállt azzal, amije volt. 2001 és 2003 között a rendszer szinte kontrollhatatlanul nõtt, hogy kiszolgálja az egyre növekedõ igényeket, másfél év alatt a gépek száma 15-rõl 200 fölé emelkedett. Jelenleg mintegy 400 szerver szolgálja ki a Wikimedia oldalait (Wikipedia, Wikimedia, Wikinews, stb.), amelyek java egy floridai adatközpontban található, de néhány gép a világ több pontján elszórva üzemel, többek között Dél-Koreában és Nyugat-Európában.
+
+
+ Elemzõk szerint azért eshetett az Ubuntura a választás, mert ez egy teljes egészében közösségi disztribúció, eltérõen a Red Hat Enterprise Linuxtól vagy a Novell SUSE Enterprise-tól, amelyek mögött vállalatok állnak. Sokan úgy vélik, a jövõben növekedhet a közösségi disztribúciók piaci befolyása, ugyanis egyre több felhasználónál jön létre olyan linuxos szakértelem, amely feleslegessé teszi a drága vállalati támogatási csomagokat, így a Linuxszal tényleg komoly megtakarításokat lehet majd elérni.
+
+A Wikipedia közösségi lexikont világszerte mintegy 75 ezer önkéntes szerkeszti, 250 nyelven 10 millió szócikket tartalmaz, amelyek közül 2,5 millió angolul készült. Az oldalnak évente közel 684 millió látogatója van, a napi oldalletöltések száma meghaladja a 2 milliót. A szoftverinfrastruktúra alapja a LAMP stack (Linux, MySQL, Apache, PHP/Perl).

@@ -1,0 +1,20 @@
+Minden nap újabb 100 ezer mobilos próbálja ki az Opera Mini webböngészõt
+
+Újabb statisztikát tett közzé az Opera Mini mobil webböngészõrõl az Opera a Mobile World Congress rendezvényen Barcelonában: ma már minden nap újabb és újabb 100 ezer felhasználó tölti le a mini böngészõt mobiltelefonjára. Az elmúlt két év alatt összesen 35 millió felhasználóra duzzadt a "minisek" tábora, ami rendkívül jól példázza a mobil internet növekvõ népszerûségét.
+
+
+
+Egyszerû telefonokon is fut
+
+Az Opera Mini webböngészõ gyakorlatilag bármilyen mobiltelefonon elindítható, mely Java alkalmazások futtatására képes, és elérheti a mobilszolgáltató internet- vagy WAP-szolgáltatását. A szoftverhez legegyszerûbben a telefon beépített böngészõjével lehet hozzájutni, melyet elegendõ a www.operamini.com oldalra irányítani -- a legutolsó változat is teljesen ingyenes, magyar nyelvû szoftver.
+
+A hatalmas felhasználói bázis nem kis terhelést jelenthet az Opera szervereinek, hiszen a szerver-kliens alapon mûködõ megoldás optimalizálja a weboldalakat a mobilos letöltésre. A programmal ezért nem csak harmadik generációs hálózaton, de egyszerû GPRS-kapcsolaton keresztül is élvezhetõ sebességû böngészéshez juthatunk, a több száz kilobájtos weboldalakat néhány tíz kilobájtos méretre optimalizálja az Opera. Az Opera Minivel havonta több mint 1 milliárd weboldalt böngésznek a felhasználók.
+
+
+
+Szerver-kliens
+
+
+Az 4-es változat egy weboldal behívásakor rögtön a weboldal olyan részletét mutatja, ahol érdemi tartalom található, az adott részletre nagyítva, az intelligens zoom funkciót használva. Ez azt jelenti, hogy az adott bekezdés, szöveg nem lóg ki a képernyõrõl, például egy hírblokk teljes egésze látszik, így oldalirányba nem kell görgetni a kijelzõt. A kezdõoldalhoz saját keresõmotort rendelhetünk, mely eddig csak az Opera asztali számítógépeken futó változatában volt elérhetõ.
+
+Az Opera Link segítségével központosított helyen tárolhatjuk el kedvenceinket, Speed Dial számainkat és személyes böngészõbárunkat, melyet ezt követõen bármely Opera böngészõ alatt -- vagy akár attól függetlenü is -- elõvarázsolhatunk.

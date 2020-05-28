@@ -1,0 +1,16 @@
+Nyílt forrású szoftverrel segít a sebezhetõségeket megtalálni és értékelni a Microsoft
+
+A múlt heti CanSecWest konferencián olyan nyílt forrású szoftvert adott ki a Microsoft, amely a fejlesztõket segíti a szoftversebezhetõségek felderítésében és priorizálásában.
+
+
+
+Az !exploitable Crash Analyzer nevû debugger-kiegészítés célja, hogy megtalálja egy fejlesztés alatt álló programban az összeomlást okozó hibákat és heurisztikus algoritmusával aszerint rangsorolja õket, hogy azok biztonsági szempontból mennyire lehetnek veszélyesek. A Microsoft szerint a szoftver használatával lerövidíthetõ a szoftverek fejlesztési ideje, hiszen akár több ezer összeomlást okozó hibából is kiszûrhetõk azok, amelyek potenciális sebezhetõséget jelentenek.
+
+Az elsõ reakciók a Microsoft új szoftverével kapcsolatban pozitívak. Az ismert biztonsági szakértõ Dan Kaminsky mérföldkõnek nevezte az !exploitable Crash Analyzert, amely nagyban megkönnyíti a fejlesztõk munkáját. "A Microsoft a biztonsági sebezhetõségek kezelésében szerzett több éves tapasztalatát összesürítve egy olyan eszközt készített, amely az összeomlást megvizsgálva azt mondja, 'ezt érdemes lenne közelrõl megnézni'. Ez végre egy olyan automatizált eszköz, amely beilleszthetõ a fejlesztési folyamatba" -- mondta a Registernek Kaminsky.
+
+
+ Egy termék megjelentetését olyan potenciális sebezhetõség javítása miatt elhalasztani, amit a támadók nem tudnának kihasználni, feleslegesen növeli a fejlesztési költségeket. Ennél még nagyobb probléma azonban, ha a határidõk betartása vagy egyéb okból olyan hibák maradnak a szoftverekben, amiket könnyû kihasználni. Az !exploitable Crash Analyzer  összeomlás során keletkezett adatokat vizsgálva próbálja megállapítani, milyen körülmények vezettek az esethez és hogy támadók milyen valószínûséggel használják ki a sérülékenységet.
+
+A Microsoft jó okkal hozta nyilvánosságra az !exploitable Crash Analyzert. Az utóbbi idõben a cég által piacra dobott operációs rendszerek egyre biztonságosabbnak bizonyultak, a támadók figyelme pedig már nem a Windows, hanem a rajta futó alkalmazások felé fordult. A legtöbb exploit ma már nem a Windowst támadja, hanem az olyan kliensoldali szoftvereket mint az Internet Explorer, a Firefox, az Adobe Flash Player, az Adobe Reader vagy éppen a QuickTime. 
+
+A platform biztonsága szempontjából tehát felértékelõdik az alkalmazások biztonsága, a Microsoft pedig alighanem azt szeretné, hogy minél biztonságosabb kódok szülessenek Windowsra.

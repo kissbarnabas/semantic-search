@@ -1,0 +1,16 @@
+Vége a térelhajlásnak, mechanikus zárral fejleszt mobilokba való fotómodult a Jabil
+
+A Jabil mûködõképes állapotú, 8 megapixeles prototípust mutatott be mobiltelefonokba szánt képalkotó moduljából, melynek érdekessége, hogy elektronikus megoldás helyett mechanikus zárral rendelkezik.
+
+
+
+A Jabil üzem közben is tudta demózni kisméretû, mobiltelefonokba szánt fotómodulját, mely a telefonok CMOS-képérzékelõje elõtt mechanikus zárral nyitja-zárja a fény útját. A modulba épített képérzékelõ felbontása 8 megapixel, fizikai mérete pedig mindössze 10x10x8 milliméter. A modul a kis méretei ellenére az élességet autofókuszos rendszerrel állítja.
+
+
+A Jabil szerint a pengestílusú zárszerkezet megléte számos képminõséget érintõ problémától mentesíti a jelenlegi, elektronikus zárral üzemelõ változatokat és nem kell tartani az olcsón elõállítható CMOS-lapkák lassú kiolvasási folyamata alatt elmozduló témák helytelen rögzítésétõl sem. A cég szóvivõje szerint a technológia elõnyei vitathatatlanok, arra 5-12 megapixeles felbontások között mindenkinek szüksége van.
+
+A mûködõképes demókészülék
+
+Nem a Jabil az egyetlen, aki a mobilokat érintõ képalkotó rendszereknél a mechanikus zár mellett érvel a fejlesztési iránnyal kapcsolatban, a japán NTT DoCoMo mobilszolgáltató is pénzel hasonló fejlesztéseket. A Jabil úgy érzi, az európai helyzet a fejlesztések terén a japánéhoz hasonlóan rózsás, számos, meg nem nevezett mobilgyártóval vették már fel a kapcsolatot a technológia telefonokba integrálásának érdekében. 
+
+A jelen mobiljainak nagyon nagy hányadában az olcsón és veszõdségektõl mentesen elõállítható CMOS-érzékelõk teljesítenek szolgálatot, melyeknek elõállítása a CCD-változatokkal ellentétben nem igényel speciális gyártósorokat. Az alacsony költségen gyártott változatok azonban lassúak, továbbá a felépítésükbõl adódóan sem lehet egyszerû módon kialakítani a gyors elektronikus zárat. A rövid záridõ könnyebben valósítható meg a mechanikus zárral, melynek terjedését eddig a magas költségek, valamint a nagy helyigény tették lehetetlenné.

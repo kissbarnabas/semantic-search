@@ -1,0 +1,18 @@
+Az internetes keresõk hipochonderré teszik a felhasználókat
+
+[NYT/HWSW] A XXI. századi embernek ha fáj a feje, akkor az elsõ, hogy utánanéz egy keresõben a tüneteknek, majd néhány percnyi olvasgatás után arra a következtetésre jut, hogy agydaganata van -- írja körbe a "cyberchondria" új jelenségét a Microsoft kutatóinak tegnap közzétett tanulmánya. A kutatás állítása szerint az internetezõk által felállított "webdiagnózis" az esetek nagyrészében a lehetõ legrosszabb, amire csak következtethetnek.
+
+
+
+A New York Times tegnapi számában leírtak kiemelik, hogy a "cyberchondria" már 2000 óta létezõ fogalom, azt a jelenséget írja le, amikor az internetfelhasználók egészségügyi témákban való kutakodás közben saját magukkal kapcsolatban szörnyû megállapításokra, feltételezésekre jutnak. A Microsoft fejlesztõinek ez a tematika nem egy fõ projekt volt, hanem a keresõszolgáltatások fejlesztése közben lezajlott interjúk közben figyeltek fel erre a jelenségre.
+
+Eric Horovitz, a Microsoft mesterséges intelligenciával foglalkozó mérnöke szerint az emberek hajlamosak a keresési találatokra úgy tekinteni, mintha azok egy szakember válaszai lennének. Ráadásul többnyire elakadnak az elsõ néhány találatnál, ami ebben az esetben azt jelenti, hogy beírnak pár tünetet és ha az elsõ találat az agytumor, akkor meggyõzõdésük lesz, hogy õk is attól szenvednek.
+
+ 
+
+Az orvosi és informatikai diplomával is rendelkezõ Horovitz szerint az internetes keresések közel 2 százaléka egészségüggyel kapcsolatos, illetve az általuk vizsgált minta negyede, mintegy 250 ezer felhasználó legalább egyszer keresett ilyen témában a felmérés ideje alatt. A megdöbbentõ, hogy az alanyok harmada nagyította fel tüneteit a keresési találatok alapján, azt gondolva, hogy valamilyen komoly egészségügyi problémája akadt.
+
+
+Ugyan minden keresõ fejlesztésekor arra törekszenek a fejlesztõk, hogy relevánsabb találatok szülessenek, de egyelõre a találatok nem elég pontosak, hogy kizárják az ilyen eseteket. Sõt, az interneten fellelhetõ számtalan információ miatt a felhasználókon az orvosi egyetemeken ismert úgynevezett "másodéves szindróma" fedezhetõ fel. Mivel könnyend hozzáférnek az adatokhoz, úgy érzik, hogy sokat tudnak,  és hajlamosak túlreagálni mindent.
+
+A keresõmotort fejlesztõ szakemberek szerint az emberek nagyrészt általános megérzések alapján hoznak döntéseket a kapott információk révén. Ezek javarészt hasznosak, de gyakran alapvetõen hibás ítéletekhez vezetnek. Horovitz jövõképe szerint ezen az segítene, ha a keresõk felismernék az egészségügyi kereséseket és irányított találati oldalakra terelnék a felhasználókat, ahol nem a szokásos relevancia szerint, hanem az ésszerûséget is figyelembe véve jelennek meg a találatok.

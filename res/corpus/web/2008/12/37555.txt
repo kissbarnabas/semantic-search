@@ -1,0 +1,16 @@
+Hatalmasat lendíthet a Chrome népszerûségén a bõvítmények megjelenése
+
+Nem kizárt, hogy belátható idõn belül megjelenhetnek az elsõ, külsõ fejlesztõk által készített bõvítmények a Google böngészõjéhez, a Chrome-hoz. A felhasználók és a fejlesztõk egyöntetû véleménye szerint ha a projekt elindul, hatalmasat ugorhat a program népszerûsége.
+
+
+
+A tervek szerint hamarosan különbözõ bõvítményekkel lehet majd ellátni a Chrome-ot, a Google szeptemberben megjelent, jelenleg a 0.4-es bétaváltozatnál tartó webböngészõjét -- derül ki az egyik fejlesztõ, Aaron Boodban blogjából. A kiegészítõ szoftverek megjelenése azt jelentené, hogy a Chrome extra funkcióit a Mozilla Firefoxhoz hasonlóan a saját igényei szerint szabhatná át a felhasználó.
+
+A Mozilla böngészõje részben ezeknek a kiegészítõknek köszönheti egyre növekvõ népszerûségét: a Firefoxhoz a legkülönfélébb kategóriákban, immár nagyjából ötezer -- részben belsõ fejlesztésû, részben külsõ fejlesztõk által készített, zömében nyílt forráskódú -- plugin érhetõ el. Ezeket idén õszig több mint egymilliárd alkalommal töltötték le a felhasználók, ami jól jelzi, hogy a böngészési élményt teljesebbé tevõ kiegészítõkre komoly igény mutatkozik.
+
+
+Bár a Google maga is az internetes hirdetési piacból él, a keresõóriás szerint a reklámokat és Flash animációkat blokkoló pluginekre olyan komoly igény mutatkozik, hogy a Chrome elsõ kiegészítõi között szinte biztosan lesz olyan, mellyel el lehet rejteni, ki lehet iktatni ezeket a weboldal-komponenseket (a Firefox legnépszerûbb kiegészítõi közt nem véletlenül található meg a Flash animációkat letiltó Flashblock vagy Ad Blocker).
+
+A fejlesztõk egyelõre nem tûzték ki az elsõ Chrome-bõvítmények megjelenési idejét, a programozók most azon dolgoznak, hogy a Google böngészõjéhez legalább olyan könnyû legyen plugineket illeszteni, fejleszteni, mint a Firefoxhoz, ezzel együtt a Chrome továbbra is kompakt, szerény erõforrásigényû alkalmazás maradhasson. A Chrome jelenleg a 0.4.154.25-ös bétaverziónál tart, a program legfrissebb kiadása november végén jelent meg.
+
+A böngészõ piacrészesedése az utóbbi hetekben egyre gyakoribbá váló frissítéseknek köszönhetõen ismét 1 százalék fölé emelkedett (a HWSW olvasóinak 2,36 százaléka használt Chrome böngészõt a múlt hónapban). A Chrome végleges verziója korábbi információk szerint már januárban megérkezhet.

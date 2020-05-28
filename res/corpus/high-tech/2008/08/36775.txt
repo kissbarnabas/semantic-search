@@ -1,0 +1,20 @@
+Meghosszabbította kutatás-fejlesztési megállapodását az AMD és az IBM
+
+Meghosszabbította az IBM-mel kötött, félvezetõipari kutatás-fejlesztési megállapodását az AMD, további négy évvel kitolva annak határidejét. A világ másodszámú processzorgyártója hatodik éve dolgozik együtt a Kék Óriással gyártástechnológiai fejlesztésekben, melyek eredményeit aztán drezdai üzemeiben hasznosítja. 
+
+
+
+Egyedül nem megy
+
+Az Egyesült Államok Értékpapír- és Tõzsdefelügyeletéhez benyújtott dokumentum tanúsága szerint az AMD augusztus 15-én kötött újabb megállapodást az IBM-mel, melynek keretein belül az eddigi közös gyártástechnológiai kutatás-fejlesztési projektekhez újabbak csatlakoznak. A megállapodás, melyet legkésõbb szeptember 15-ével jóvá kell hagynia az igazgatótanácsnak, 2015 végéig érvényes. Az egyezség értelmében az AMD negyedévente fizeti az IBM-nek kutatás-fejlesztésért, valamint egyedi licenceket is vásárol bizonyos technológiák alkalmazásához. 
+
+
+Az AMD 2002 végén kötötte elsõ félvezetõipari kooperációját az IBM-mel, az úgynevezett SOI félvezetõ eljárás tömegtermelésben való alkalmazására. A SOI a silicon-on-insulator rövidítése, ahogyan neve is mutatja, a megmunkált szilícium egy szigetelõrétegen helyezkedik el, mely alatt egy újabb szilíciumréteg található. A SOI alkalmazása révén csökken a fogyasztás az alacsonyabb ellenállás és enyhébb szivárgási áram okán, továbbá a szigetelõréteg megbízhatóbbá, ellenállóbbá teszi a chipeket, így például a háttérsugárzás okozta bithibákkal szemben is. Mindezek az elõnyök azonban nincsenek ingyen, a SOI-szeletek jelentõsen drágábbak hagyományos társaiknál, egyes becslések szerint több mint 10 százalékkal drágítják meg a gyártás teljes költségét.
+
+A két vállalat rövid idõn belül kiterjesztette kooperációját a félvezetõgyártási eljárások kifejlesztésében, 2004-ben, majd 2005-ben újabb megállapodásokat kötöttek. Utóbbi keretén belül már a 32 és 22 nanométeres csíkszélességet alkalmazó gyártástechnológiák kidolgozása is szerepelt, és 2011-ig lett volna érvényben. Az AMD ezzel rálépett az IBM félvezetõ kutatás-fejlesztési útjára, a jelenleg és a jövõben alkalmazott eljárásokat alapjaiban az IBM kutatói határozzák meg. A nagyteljesítményû logikák gyártását célzó kutatás-fejlesztési szövetségben a Sony, a Toshiba és a szingapúri Chartered is résztvesz. Az AMD jelenleg 65 nanométeres csíkszélességû, száraz litográfiás eljárással készíti processzorait Drezdában, és küszöbön áll a már immerziós litográfiát használó 45 nanométeres technológia bevezetése.
+
+Nem lesz totális kiszervezés
+
+A folyamatos miniatürizáció elõtt tornyosuló tudományos és mûszaki akadályok ledöntésének fokozódó nehézsége mellett a félvezetõipari vállalatok fõként gazdasági okokból tömörülnek kutatás-fejlesztési szövetségekbe, hogy megosszák az exponenciális pályán közlekedõ költségeket. Mára az Intel, a világ legnagyobb chipgyártója az egyetlen, mely egyedül finanszírozza és végzi gyártástechnológiájának fejlesztéseit, melyben egyúttal alapvetõ stratégiai elõnye is gyökerezik, meghatározó elõnyhöz juttatva az AMD-vel és a többi kisebb processzorgyártóval szembeni küzdelemben.
+
+Az IBM-mel kötött újabb megállapodás egyúttal azt jelzi, hogy az AMD nem tervezi processzorgyártásának teljes kiszervezését egy szerzõdéses vállalathoz, hanem a jövõben is szoros kapcsolatban kíván maradni a gyártással. Az AMD a közeljövõben tervezi bemutatni új stratégiáját, melynek célja a tõkeintenzitás drasztikus csökkentése, ennél több információt azonban nem adott ki eddig Hector Ruiz elnök-vezérigazgató és csapata. Az AMD mûködésének legtõkeigényesebb része azonban egyértelmûen a drezdai félvezetõüzemek mûködtetése és fejlesztése, így megalapozott feltételezni, hogy az új mûködési modell valamilyen formában érinti a gyártást is. A cég éves elemzõi konferenciája november 13-án esedékes. 

@@ -1,0 +1,12 @@
+Még nincs befutó alternatívája a vállalati vastag PC-knek
+
+[Computerworld/HWSW] Az Intel által készített felmérés szerint egyelõre egyik PC-virtualizációs elképzelés sem vált dominánssá. A több száz informatikai döntéshozó megkérdezése alapján a közép- és nagyvállalatok körében is a kliensek igen kis hányadán alkalmaznak valamiféle alternatívát a hagyományos "vastag PC" orientált modellre. Az Intel azért szentel a területre kiemelt figyelmet, mert megváltoztathatja a jövõ vállalati infrastruktúrák architektúráját, ezzel az igényelt termékeket is.
+
+
+
+A világ vezetõ chipgyártója több mint 700 informatikai vezetõt kérdezett meg közepes és nagyméretû vállalatnál, akik döntési körrel bírnak. A kutatásból kiderült, hogy a cégek közel kétharmada használ terminál szolgáltatásokat, mint például a Microsoft Terminal Server vagy a Citrix Presentation Server, mégpedig a kliensek átlagosan 26 százalékán. Ezen túlmenõen azonban a további modellek aránya igen alacsony, a desktop virtualizációját a mindössze a kliensek 8 százalékán alkalmaznak egyelõre.
+
+
+A hálózaton keresztül betöltött alkalmazásokat (application streaming) a kliensek 11 százalékán, blade PC-vékony kliens kombót 6 százalékban, az operációs rendszerek hálózati betöltését pedig 3 százalékukon alkalmaznak a válaszadók. A válaszadók alapján bár ezen technikák alkalmazása a jövõben terjedni fog, továbbra is viszonylag kevés felhasználót terelnek át rá. Az Intel szerint ez azt mutatja, hogy még egyik modell felé sem billen a mérleg nyelve. 
+
+"Ismerni ezt [a területet] nagyon fontos, mert informál arról, hogyan építsük meg a termékeinket. Hogyan optimalizáljuk szervertermékeinket virtuális gépek nagy mennyiségének kiszolgálására vékony kliensek felé?" -- mondta el Mike Ferron-Jones, az Intel fejlõdõ modellekért felelõs vezetõje. A Computerwordlnek nyilatkozó IDC elemzõ, Bob O'Donell egyetért abban, hogy túl korai még eldönteni, melyik architektúra lesz a befutó. Hozzátette, véleménye szerint az Intel kissé idegesek a változás miatt, hogy nem Intel-alapú kliensek felé történik elmozdulás. Többek között erre a területre is fejlesztették ki a Silverthorne által fémjelzett családot, melynek Diamondville névre hallgató derivatívái kerülnek ultraalacsony fogyasztású és olcsó kliensekbe.

@@ -1,0 +1,78 @@
+Az Oracle vásárolja fel a Sunt
+
+Egyesül a Szilícium-völgy két ikonja, az Oracle és a
+Sun Microsystems, a redwoodi szoftvercég részvényenként 9,50 dollárt ad
+a Sunért, ezzel a tranzakció értéke mintegy 7,4 milliárd dollárt tesz
+ki. Az ügyletet a Sun igazgatótanácsa egyhangúan jóváhagyta, a
+tranzakció a tervek szerint a nyáron zárul le, amennyiben a
+versenyhatóságok is jóváhagyják.
+
+Az Oracle a Sun felvásárlásával az egyetlen olyan vállalattá vált az
+informatikai iparban, amely a teljes vertikumot lefedi az üzleti
+alkalmazásoktól és fejlesztõi eszközöktõl kezdve a köztesszoftveren és
+operációs rendszeren át a szerverekig, tárolókig. Larry Ellison, az
+Oracle elnök-vezérigazgatója szerint az ügyfeleknek ennélfogva
+kevesebbet kell törõdniük az integrációval, mert ezt a vállalat maga
+elvégzi, ami összességében nagyobb teljesítményt, megbízhatóbb,
+biztonságosabb mûködést eredményez, olcsóbban.
+A szoftverekre utazik az Oracle
+
+Ugyanakkor az Oracle számára egyértelmûen a Sun szoftverei
+képviselik a legnagyobb értéket, elsõsorban a Java és a Solaris. Az
+Oracle számos szoftvere, beleértve a Fusion Middleware-t, Javán alapul.
+A másik kulcsfontosságú Sun-technológia az Oracle számára a Solaris
+operációs rendszer. A két cég közös közleménye szerint a Solaris az
+legnépszerûbb platformja az Oracle adatbázisának és a jövõben számos
+fejlesztés várható, amelyek azt célozzák, hogy az Oracle adatbázisa a
+lehetõ legjobban fusson Solarison. A közlemény ugyanakkor hangsúlyozza,
+az Oracle továbbra is elkötelezett a Linux mellett.
+
+
+
+
+Egyelõre nem tudni, az Oracle-nek milyen integrációs tervei vannak, az
+mindenesetre érdekes, hogy a kiadott közlemény például egyetlen
+alkalommal sem említi a MySQL-t. A cég oldalán olvasható "gyakran ismételt kérdések" dokumentumban
+lakonikus rövidséggel csak annyit ír az Oracle, hogy a MySQL bekerül a
+cég adatbázis-portfoliójába. Érdekesség, hogy Marten Mickos, a MySQL
+korábbi ügyvezetõjének elmondása szerint az Oracle már korábban is fel
+akarta vásárolni a nyílt forrású adatbázis mögött álló céget, a MySQL
+azonban nem adta magát. Kerülõúton, de végül a MySQL mégis az Oracle
+része lett, ugyanakkor ezt a cég lényegében agyonhallgatja.
+
+Az Oracle hangsúlyozza, hogy kiterjedt szoftverkínálatához
+passzolnak a Sun szerverei és tárolói és a jövõben, az egybeolvadás
+után is koncentrálni kíván erre a területre -- erre már csak a Sun
+óriási felhasználói bázisa miatt is szükség van. Az Oracle feltett
+szándéka, hogy szoftvereihez optimalizált hardvereket, integrált
+megoldásokat jelentessen meg -- az elsõ ilyen a HP-vel együttmûködésben
+fejlesztett Oracle Database Machine, egy kimondottan adattárházakhoz
+tervezett tárolószerver. A jövõben alighanem további ilyenek várhatók,
+immár a Sun mérnökeinek tervezésében.
+Miért?
+
+Az IBM-mel folytatott tárgyalások kútba esése után gyorsan
+vevõre talált a Sun. Az IBM-es ügylet az utolsó pillanatban elbukott --
+a Sun szerencséjére, mivel a vállalat az IBM-en belül alighanem
+teljesen felolvadt volna. Az Oracle neve már korábban is felmerült,
+egyes értesülések szerint a szoftvercég a HP-vel közösen szerette volna
+bekebelezni a Sunt. Az 1977-ben alapított Oracle és az 1982-ben
+született Sun sokban hasonlít, mindkét cég klasszikus "Silicon valley
+start-up", ráadásul közös ügyfelük is sok van. Ez azonban önmagában még
+nem magyaráz meg egy 7,4 milliárd dolláros felvásárlást.
+
+
+Az ifjú párA világ második legnagyobb szoftvercége az elmúlt négy negyedév során nem kevesebb mint 24 milliárd dolláros bevételt ért el, világszerte több mint 86 ezer alkalmazottat foglalkoztat és 320 ezer ügyfelet szolgál ki. A Sun bevétele a legutolsó négy lezárt negyedévben 13 milliárd dollár volt, a vállalat dolgozóinak létszáma 30 ezer fõ, ügyfeleinek száma 47 ezerre tehetõ. Az Oracle által felvázolt integrált megoldások felépítéséhez ugyanis
+nincs szükség a Sun felvásárlására -- a szoftveróriás által stratégiai
+fontosságúnak kikiáltott megoldások, a Java és a Solaris ugyanis nyílt
+forrásúak. Korábban Larry Ellison a Red Hat lehetséges akvizíciójával
+kapcsolatban felreppent pletykákkal kapcsolatban mondta: "Miért
+vásárolnánk fel a Red Hat Linuxot, ha ingyen is megszerezhetjük?" A
+Java és a Solaris ugyanígy "megszerezhetõ" lett volna, bár az
+kétségtelen, hogy a Java és a Solaris fejlõdése sokkal jobban függ a
+Suntól mint a Linuxé a Red Hattõl.
+
+Alighanem az Oracle befektetõi is hasonlóan gondolkodnak: a vállalat
+részvényárfolyama a bejelentést követõen már több mint 5 százalékkal
+csökkent, miközben a Sun-papírok a pénteki 6,69 dolláros záróárról 36
+százalékkal 9,12 dollárra száguldottak.

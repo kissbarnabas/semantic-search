@@ -1,0 +1,47 @@
+Kipróbáltuk: HP Compaq 6820S üzleti notebook, ami otthonra is jó
+
+A HP hazánkban egyelõre csak üzleti felhasználásra szánt noteszgépeivel van jelen, a cégnek a Pavilion sorozat hamarosan várható érkezéséig ezekkel kell helytállnia a fogyasztói piacra szánt gépek között is. A HWSW által kipróbált HP Compaq 6820S mindkét vásárlóközönség elvárásainak megfelel.
+
+
+
+A világ legnagyobb informatikai vállalata tavaly nyáron újította meg noteszgép-családját, ennek a vonalnak a része a 6820S. Az új modellszámozási rendszerben az elsõ számjegy utal a családra (2-es sorozat: ultrahordozható, 6: üzleti, 8: munkaállomás), a második a szérián belül elfoglalt pozícióra, a harmadik a generációra, az utolsó számjegy pedig az Intel processzoros gépeknél 0, az AMD-alapúaknál 5. Ez alapján könnyen visszafejthetõ, hogy a 6820S egy üzleti felhasználásra szánt, nagy teljesítményû, Intel-alapú notebook. A modellszám végén az S azt mutatja, hogy a gép Standard kivitelû, ez tulajdonképpen az alapváltozatnak felel meg, tesztünk alanya nélkülözi az olyan extrákat mint az ujjlenyomat-olvasó vagy a kopásálló billentyûzet.
+
+
+
+
+A 17 hüvelykes kijelzõvel rendelkezõ HP Compaq 6820S nagy behemót,  ennek megfelelõen a billentyûzete is teljes, numerikus gombokkal kiegészített. A gép azonban méretei ellenére sem nehéz, még a hatcellás akkumulátorral együtt is alig nyom többet 3 kilogrammnál. Akár hordozni is lehet, bár ehhez elengedhetetlenül szükséges egy megfelelõ méretû notebooktáska. A mobil használatnak az akkumulátor sem szab gátat, az 50 wattórás áramforrásról 3 órán át is mûködhet a 6820S, persze ha kínozzuk, ennél jóval hamarabb megadja magát. Persze nem valószínû, hogy a 17" kijelzõs 6820S-t bárki is utazás közben akarná használni, hiszen ahhoz túl nagy, egy repülõgépülésbe épített asztalkán például biztosan nem fér el.
+
+A ház a végletekig letisztult, teljesen egyszerû design, a matt szürkés fedõlap felnyitása után a billentyûzeten kívül mindössze két gombot látunk, az egyikkel lehet a gépet be- és kikapcsolni, a másik pedig a vezeték nélküli adaptereket (Intel 802.11a/b/g Wi-Fi és Bluetooth) tiltja le. Nincsenek se gyorsgombok, se visszajelzõ LED-ek, utóbbiak hiánya egészen érthetetlen. Nincs aktivitásjelzõ LED-je a merevlemeznek sem, így aztán nem egyszer fordult elõ, hogy egy pár másodperces különbséggel kétszer is ugyanoda kattintottam, mert nem tudtam eldönteni, hogy a gép már dolgozik, vagy nem vette észre az elsõ klikkelést. A NumLock-visszajelzõ is "szoftveres", egyedül a Caps Lock kapott egy kék LED-et a billentyû mellé. Az akkutöltést és -merülést visszajelzõ LED a tápcsatlakozó fölé került, a gép bal oldalára, ahol a felhasználó számára munka vagy játék közben láthatatlan. 
+
+
+ Szinte az összes csatlakozó a gép bal oldalára került, itt van a 3 USB2.0 port mellett az 56k modem és az Ethernet-port, a tápcsatlakozó, a VGA-kimenet, valamint az ExpressCard-foglalat is. Ezeken kívül csupán egy SD/MMC kártyaolvasó van a notebookban, ami a felhasználó felé esõ oldalon található, a mikrofon és a fejhallgató csatlakozója mellett. Jobb oldalon semmi más nincs, mint az optikai meghajtó, meg az elmaradhatatlan Kensington-zár nyílása. A bal oldalra számûzött USB-portok problémásak lehetnek, ha a gépet egy notebookokhoz szánt, rövid kábellel rendelkezõ egérrel szeretnénk használni, ilyenkor a kábelt el kell vezetni a gép alatt.
+
+
+
+
+A gép viszonylag nagy, mégis könnyû, ebbõl arra következtethetnénk, hogy a minõsége nem túl jó, de a 6820S rácáfol a kétkedõkre. A notebook jól összerakott szerkezet benyomását kelti, a ház és a kijelzõ kávája is megfelelõen robusztus, a (mû)anyagválasztással sincs gond. A fedlapot hátulról megnyomva sem láttam a kijelzõn semmiféle elváltozást, ami azt jelenti, hogy a 6820S sok mindent kibír, nem fog megsérülni az LCD, ha kicsit megnyomódik a fedél. A billentyûzetet sem érheti szó, kicsit ugyan kattogós, de a nyomáspont határozott, jó rajta gépelni. Sajnos a jobb oldali Shift billentyû túl picire sikerült, ez eleinte biztos sokszor lesz elgépelés forrása, nálam legalábbis az volt. A scrollozós touchpad is rendben teszi a dolgát, pöcökegér viszont nincs, pedig még az apró HP Compaq 2510p-n is elfért.
+
+
+
+
+
+
+HP ProtectTools Security Manager
+
+A notebook figyelemre méltó szolgáltatásai közé tartozik a HP ProtectTools Security Manager, amelyet az Fn + 1 billentyûkombinációval hívhatunk elõ. Itt számos apróságot állíthatunk be, például külön-külön kapcsolhatjuk ki és be a Bluetooth-t és a Wi-Fi-t, letilthatjuk vagy korlátozhatjuk az egyes portok használatát (hogy a géprõl semmit se lehessen átmásolni egy USB-s eszközre), de akár a bootolási sorrendet is átállíthatjuk anélkül, hogy be kellene lépnünk a BIOS setupba. 
+
+
+
+
+A nálunk járt 6820S hardverkonfigurációját nem érheti panasz: 2,083 GHz-es Core 2 Duo T8100 processzor, 2 gigabájt DDR2 memória, 250 gigabájtos merevlemez, 128 megabájt saját memóriával gazdálkodó ATI Mobility Radeon X1350 videovezérlõ és kétrétegû DVD-újraíró lapult a házban. Hála a gyors processzornak és a nagy memóriának, a noteszre elõre telepített Windows Vista Business remekül futott, egyáltalán nem éreztük nehézkesnek az operációs rendszert, és a kipróbált alkalmazásokat sem. A konfiguráció teljesítménye szinte mindenre elég, amire egy noteszgépet ma használni lehet, leszámítva talán a csúcskategóriás 3D játékokat, de ha hajlandóak vagyunk kompromisszumot kötni a részletesség terén, natív felbontásban is élvezhetõ sebességet kapunk. A Crysist ne a Compaq 6820S-en akarjuk megmutatni a konzolos haveroknak, de a Half Life 2-vel már biztosan nem lesz gond 1440x900 pixeles felbontásban sem.
+
+Már csak azért sem, mert a HP Compaq 6820S WXGA+ felbontású megjelenítõjén nagyon szép képeket láthatunk, a kijelzõ minõsége elsõ osztályú, ráadásul nem is a ma divatos tükrözõdõs típus, így még erõs környezeti fényben is látható marad. A nagy kijelzõ azonban hajlamos sokat fogyasztani, erre mindenképp figyeljünk oda, a legkisebb és legnagyobb fényerõ között méréseink szerint 5 watt különbség van fogyasztás terén, ami akkus üzemidõben akár tíz perceket is jelenthet, de szerencsére már minimális fényerõ mellett is élvezhetõ képet kapunk. A notebook használat közben nem melegszik fel jelentõsen, a hûtés csendes, mégis jól végzi a dolgát, és még extrém terhelés és 30 watt körüli csúcsfogyasztás mellett sem hangosodik fel zavaróan. 
+
+
+
+
+Összességében a HP Compaq 6820S jól összerakott, jól mûködõ, robusztus notebook benyomását keltette, ami jó szívvel ajánlható mindazoknak a vállalatoknak és otthoni felhasználóknak is, akiknek egy nagyméretû és nagyfelbontású kijelzõs gépre van szüksége. A nálunk járt konfiguráció ára Windows Vista Business operációs rendszerrel bruttó 245 ezer forint, de ugyanezt a masinát gyengébb kétmagos processzorral, 1 gigabájt memóriával és 160 gigabájtos merevlemezzel, de ugyanezzel a grafikus vezérlõvel és Vista Home-mal már bruttó 170 ezer forint körül is meg lehet venni, operációs rendszer nélkül pedig még kevesebbért. Szerintünk jó vétel.
+
+Véleménye van?
+Szóljon hozzá a fórumban
+írjon szerkesztõségünknek!

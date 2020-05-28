@@ -1,0 +1,22 @@
+Októberben kerülhetnek piacra a Nano processzoros netbookok
+
+[Digitimes/HWSW] Már megkezdte a Nano processzorok kereskedelmi szállításait a VIA, a megrendelõ pedig nem más mint a HP, a világ legnagyobb PC-szállítója -- adta hírül iparági forrásokra hivatkozva a Digitimes. A VIA jövõje szempontjából kritikus jelentõségû Nano piaci szereplése. 
+
+
+
+Bár a hírek némileg megnyugtatólag hatnak az elmúlt években meggyengült VIA helyzetével kapcsolatban, egyelõre nem tudni, milyen termékekhez és mennyit rendelt a HP. Meg nem erõsített információk alapján Intel Atom-alapú netbookok piacra dobására készül a PC-piacot vezetõ vállalat, ami nem kedvezõ elõjel a VIA számára. A HP jelenleg egyetlen netbook típust, a Compaq 2133 modellt forgalmazza, melynek VIA C7-M processzora kínosan gyenge teljesítményt ad le -- egy a HWSW tesztje alapján már egy YouTube videó lejátszása problémát jelenthet, ahogyan a JavaScriptben intenzív AJAX-os weboldalak is megizzasztják már. 
+
+
+Nyilvánvaló, hogy a HP eredetileg a visszamenõleg teljesen platformkompatibilis Nanóval szerelve szerette volna piacra küldeni a 2133-at, az azonban nem készült el idõben. Ésszerû feltételezés, hogy a VIA által szállított Nano chipek a 2133-ban váltják fel a C7-M-et, így végre elfogadható teljesítményt kap az egyébként kiemelkedõ minõségû 2133. Iparági pletykák szerint a HP legalább 500 ezer processzort rendelt a VIA-tól év végéig, az azonban nem bizonyos, hogy egy csak C7-M-re, vagy Nanóra is vonatkozó kvóta. A VIA a kisebb PC-szállítókat is igyekszik saját chipsjeire épülõ netbookok piacra dobására ösztönözni szabadon elérhetõ OpenBook referenciadesignjával.
+
+
+[+] Kipróbáltuk, melyik a jobb mini notebook: MSI Wind vagy HP 2133?  
+
+Hivatalosan bár nem kívánta megerõsíteni a Digitimes értesüléseit a megrendelõ kilétével kapcsolatban, a tajvani cég hivatalosan is közölte, hogy egy élvonalbeli notebookszállítótól kapott megrendelést, valamint számos kínai szállító részére is szállítanak. A VIA elárulta, hogy a vezetõ notebookmárka októberben dobja piacra a Nanóra épülõ termékét -- talán ekkor érkezik a 2133 Nanóval frissített változata. Hardvertesztelõ oldalak mérései alapján a Nano a megcélzott alkalmazások (irodai és kommunikációs szoftverek) területén megközelíti a Merom-magos Celeron M 500-as sorozat teljesítményét, és egyértelmûen maga mögé utasítja az Intel Atomot. A VIA számára már a robbanásszerû növekedés elõtt álló netbook piac egy kisebb szelete is elegendõ lenne a feltámadáshoz, különbözõ piackutatók 5 és 8 millió darab közé teszik az idén eladásra kerülõ mini notebookok számát, jövõre pedig már 8-18 milliót is értékesíthetnek világszerte.
+
+Mint arról a HWSW is már számos alkalommal beszámolt, az ezredfordulón még erõteljes chipsetpiaci jelenléttel bíró és nagy reményektõl fûtött VIA az Intel agresszív magatartása, majd az ATI és az NVIDIA erõteljes fejlesztései és a számítógépek platformosodása miatt folyamatosan kiszorult az elmúlt években, az így elapadó fejlesztési erõforrásai révén pedig termékei is egyre többet vesztettek versenyképességükbõl. A VIA emiatt idén már befejezte kereskedelmi Intel és AMD chipsetjeinek szállításait, és kizárólag saját platformjai számára tartja fenn tovább azokat. Ezzel a cég elvesztette forgalma felét, és jövõjét teljes egészében az elmúlt négy év alatt Isaiah kódnéven kifejlesztett ígéretes Nanóra tette fel. A VIA pénzügyi jelentése kapcsán korábban megjegyezte, már legalább három elsõ vonalbeli PC-szállító adott le rá elõrendelést.
+
+
+[+] Elég gyors lehet a Nano az Intel ellen 
+
+Szintén bizakodásra adhat okot az is, hogy meg nem erõsített információk szerint a VIA szorosra fûzte kapcsolatait az NVIDIA-val, mely chipsetet fejleszt a Nano számára, erõteljes integrált grafikával. Az NVIDIA számára stratégiai fontosságú lehet a VIA processzorfejlesztései, ahogyan az Intel és AMD egyre szûkítik piaci lehetõségeit átfogó platformmegoldásaikkal, a jövõben egyre inkább kiszorítva a cég grafikus és chipset termékeit. A Nanó utódjának fejlesztései már zajlanak, a 45 nanométeres gyártástechnológiával implementált chip már két processzormagot integrál majd, és 2009 végére várható az ütemterv alapján. A VIA úgynevezett fabless cég, saját félvezetõgyárral nem rendelkezik, a  Nano a Fujitsu egy japán üzemében készül 65 nanométeres eljáráson.

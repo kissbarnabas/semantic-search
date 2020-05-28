@@ -1,0 +1,30 @@
+Ma van a rendszergazdák megbecsülésének napja
+
+Július utolsó péntekje világszerte a Sysadmin Day, azaz a rendszergazdák megbecsülésének napja. Idén kilencedik alkalommal tartják ezt az "ünnepet" azzal a céllal, hogy a rendszergazdák a felhasználók számára legtöbbször láthatatlanul végzett munkájukért legalább az év egy napján megkapják a nekik kijáró elismerést. A Sysadmin Day ötletét egyébként a HP egyik lézernyomtató-reklámja inspirálta: A szóban forgó hirdetésben az elégedett vállalati alkalmazottak ajándékokkal lepték meg a nyomtatót megvásárló rendszeradminisztrátort.
+
+
+
+Szakember vagy mindenes lótifuti?
+
+Magyarországon nincsenek pontos adatok arról, hogy hány rendszergazda dolgozik, de a hazai vállalatok és a költségvetési intézmények számából és méretébõl, valamint az informatizáltságukból kiindulva több tízezren is lehetnek. És hogy meg vannak-e megbecsülve? A HWSW-nek nyilatkozó rendszergazdák válaszai alapján a kép vegyes, de összességében úgy tûnik, a versenyszférában dolgozók elégedettebbek a saját helyzetükkel, mind az erkölcsi, mind az anyagi megbecsülést tekintve -- a közszférában dolgozók nem érzik, hogy megbecsülnék õket, amiben nagy szerepe van a közalkalmazotti bértábla által behatárolt fizetéseknek is.  
+
+Minél nagyobb és minél inkább informatizált egy szervezet, rendszerint annál több rendszergazdát foglalkoztat, akiknek így jól körülhatárolt feladataik vannak. Ezzel szemben a kisebb szervezeteknél a rendszergazdákkal szemben a számítógépek és a hálózat üzemeltetésén túl gyakran elvárás, hogy bármilyen számítástechnikai kérdésben segítsenek a dolgozóknak. Sok helyen a rendszergazdától várják el, hogy weblapot készítsen vagy tartson karban, betanítsa a szoftverek használatát, de az is gyakori, hogy a dolgozók minden apró-cseprõ számítástechnikai problémájukkal hozzájuk fordulnak. 
+
+A jó rendszergazda láthatatlan
+
+Ha a rendszergazdák igazán jól végzik a dolgukat, akkor a felhasználók számára teljesen láthatatlan a tevékenységük, a dolgozók pedig könnyen hozzászoknak ahhoz, hogy minden úgy mûködik, ahogy kell. "Az a jó rendszergazda, akinek a létezésérõl sem tudnak, hiszen ilyenkor tipikusan nincsen baj a rendszerrel" -- mondta lapunknak Ottó, aki egy outsourcing-szolgáltatónál dolgozik. "Mikor minden flottul megy, akkor senki nem gondol bele, hogy az nem magától megy, viszont mihelyst valami gond van, már rögtön szitkozódnak" -- osztotta meg keserû véleményét a HWSW-vel János, egy szombathelyi általános iskolai rendszergazdája.
+
+"Szerintem sok kollégánknak fogalma sincs arról, hogy mennyi idõbe és energiába telik egy-egy ismeretlen probléma megoldása, mert nem a szemük elõtt történik" -- mondta a HWSW megkeresésére Zoltán, az egyik Pest megyei gimnázium informatikatanára és rendszergazdája. "A legnagyobb kihívás az, hogy a tanítás mellett azonnal reagáljak a felmerülõ problémákra, mert mindenkinek azonnal kell a megoldás. Ide tartozom én is, hiszen ha nem mûködik valami, nem tudok tanítani. Persze a kettõt egyszerre nem tudom csinálni, úgyhogy vagy tanítok és a problémával nem foglalkozom, vagy fordítva, de akkor valaki biztosan nem dolgozik. Nem vagyunk megbecsülve sem erkölcsileg, sem anyagilag, bár a mi iskolánkban még némi pénzt is kapunk a rendszergazdaságért" -- tette hozzá.
+
+
+ A HWSW által megkérdezett adminok általánosságban úgy vélekedtek, az a jó rendszergazda, aki ismeri és fennakadások nélkül tudja üzemeltetni a rábízott rendszereket és meg tudja oldani a felmerülõ problémákat -- vagy ha mégsem, akkor ezt képes felismerni, és mások segítségét kérni. "A jó rendszergazda lusta, ezért mindent szervezetten tesz" -- mondta lapunknak András, egy SAP- és Oracle-üzemeltetéssel foglalkozó szakember, aki emellett egy helyi internetszolgáltatónál is dolgozik.
+
+Élethosszig tanulás
+
+Hogy kibõl lehet rendszergazda? Mivel ez nem egy konkrét szakma, az összkép igen vegyes, sokan dolgoznak fõiskolai vagy egyetemi diplomával, de inkább az érettségi és valamifajta szakirányú felsõfokú képesítés, illetve szaktanfolyam a jellemzõ. Ebben a körben egyébként sem "papírokkal" lehet kivívni a közösség megbecsülését, hanem konkrét szakmai ismeretekkel, amelyek megszerzése talán a legnagyobb kihívást jelenti a rendszergazdák számára. A HWSW által megkérdezettek mindegyike elsõ számú kihívásai között említette a folyamatos tájékozódást és szakmai fejlõdést, amelyre nem ritkán a szabadidejüket áldozzák fel az adminok.
+
+És hogy megéri-e? A NetAcademia FizuFigyelõ szolgáltatása több mint 500 rendszergazda fizetési adatait tartalmazza, ez alapján a rendszergazdák átlagos havi nettó fizetése 199 ezer forint. A statisztika szerint a legjobban azok a rendszergazdák keresnek, akik fõiskolai vagy egyetemi diplomával rendelkeznek, és budapesti nagyvállalatnál dolgoznak -- õk közel 300 ezer forintot vihetnek haza átlagban.
+
+"Amikor a céghez kerültem, kaptam egy egyszerûnek tûnõ hibaelhárítási feladatot. Ahogy a Windows eseménynaplókat nézegetni kezdtem, észrevettem, hogy minden szerver minden naplója kritikus hibákkal van tele. Ennek megfelelõ állapotban volt az infrastruktúra" -- mondta Ottó. "Ezen csodálkoztam legalább fél napig, mert ilyet még nem nagyon láttam. Azóta megtanultam, hogy mindennapos dolog, és talán pont az ilyen hibák elhárításáért alkalmaznak."
+
+Azok a rendszergazdák, akik szeretnék társaikkal együtt ünnepelni saját magukat, ma este több városban is megtehetik. A Hungarian Unix Portal köré szervezõdõ közösség Budapesten kívül Debrecenben, Pécsen és Szegeden várja az adminokat egy sörre vagy üdítõre, és kötetlen beszélgetésre.

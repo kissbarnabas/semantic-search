@@ -1,0 +1,10 @@
+Újra vezeti a toplistát a Conficker
+
+A múlt havi toplistát vezetõ Win32/Conflicker.AA egy olyan hálózati féreg, amely a Microsoft Windows biztonsági hibáját kihasználó exploit kóddal terjed, és a gyenge jelszavak elleni támadással, valamint az automatikus futtatási lehetõségén keresztül szaporodik. Bár az RPC (Remote Procedure Call), vagyis a távoli eljáráshívással kapcsolatos sebezhetõséghez már tavaly októberben kiadták az MS08-67 jelû Microsoft biztonsági javítócsomagot, sok felhasználó nem fordít elég figyelmet az operációs rendszer frissítésére -- áll az ESET közleményében.
+
+A toplista második helyére a telepítés fejében különféle ingyenes tartalmakat ígérõ Virtumonde szorult vissza, mely hónapokig a legelterjedtebb kártékony alkalmazásnak számított a magyarországi számítógépeken. Az autorun.inf automatikus programfuttató állományt fertõzõ kártevõk összességében a harmadik helyet foglalták el a júniusi listán, míg a negyedik helyre egy vadonatúj versenyzõ, a Win32/TrojanDownloader.Bredolab.AA került. Ez egy olyan trójai, amely megkísérel távoli oldalakról további kódokat letölteni és végrehajtani, futása közben pedig a Windows, illetve a Windows/System32 mappákban igyekszik új kártékony állományokat létrehozni. A kártevõ emellett a regisztrációs adatbázis bejegyzéseit is manipulálja.
+Az ESET ezúttal is felhívja a figyelmet, hogy a kártékony kódok futását leginkább az operációs rendszer és a biztonsági szoftverek naprakészen tartásával, valamint körültekintõ számítógép-használattal lehet megelõzni.	     
+                  
+                  
+                  
+                   

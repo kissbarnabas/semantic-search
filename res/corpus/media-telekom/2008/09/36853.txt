@@ -1,0 +1,25 @@
+Mobillal vennék a britek a metrójegyet
+
+Örülhet a Nokia, hiszen az Egyesült Királyságban befejezõdött NFC tesztüzem tapasztalataiból az derült ki, hogy a felhasználók 80 százaléka szeretne olyan mobiltelefont, amivel fizetni is tud. Mi tehát az öröm oka? Mindössze az, hogy jelenleg egyedül a Nokia gyárt NFC technológiával ellátott mobilkészülékeket.
+
+
+
+Az NFC, azaz Near Field Communication, az érintésnélküli mobilfizetés egyik legígéretesebb képviselõje, ami képes egymástól maximum 10 centiméterre lévõ eszközök közötti adatcserét bonyolítani egy magasfrekvenciás vezetéknélküli technológia segítségével. A háttérben pedig a SIM kártyára épített biztonsági eljárások gondoskodnak arról, hogy elég megbízható legyen fizetésieszközként is.
+
+Az Egyesült Királyságban nemrégiben lezajlott -- Európában az eddigi legnagyobb -- éles NFC-tesztben 500 kiválasztottnak biztosítottak NFC-képes mobilokat, illetve az ehhez kapcsolódó alkalmazásokat, mellyel a londoni tömegközlekedési eszközökön fizethettek, illetve a Barcley által mûködtetett payWave elfogadóhelyeken tudtak fizetni kistételû vásárlásokért tavaly novembertõl idén nyárig. Az utazóknak az arra felkészített járatokon így mindössze el kellett húzniuk az érzékelõ elõtt a telefonjukat és máris érvényes jeggyel rendelkeztek, míg azokban a boltokban, ahol a VISA payWave megoldását már használják, ott a 10 angol font alatti számláikat egyenlíthették ki egy mozdulattal.
+
+A Nokia beszámolója szerint a próba nagy sikerrel zárult, a tesztelõk 89 százalékának tetszett, hogy a tömegközlekedéshez használt Oyster kártyát integrálták a mobiljukba, míg legalább kétharmaduknak a payWave funkcionalitás miatt is megkedvelte az NFC-t. Sõt, 22 százalékuk többet is utazott, mint korábban, bár ez bizonyára annak köszönhetõ, hogy a kísérleti alanyok fele 60, a másik fele 200 angol fontot kapott az egyenlegére.
+
+ 
+
+Az alkalmazás nem igényel akkumulátor kapacitást (mint mondjuk bármilyen multimédiás funkció), a kijelzõ, illetve a telefon interfésze pedig tökéletes platform arra, hogy a vásárlással kapcsolatos adatokat közölje vagy akár az opcionális engedélyezéshez kérdést tegyen fel vagy kódot kérjen. Ráadásul a fizetés mûködik kikapcsolt vagy lemerült telefonnal is, így nem kell attól félni, hogy a londoni metró kapui nem engednek át egy hosszúra nyúlt nap után.
+
+
+A telefonválaszték azonban egyelõre szûk keresztmetszet, hiszen kizárólag a finn gyártó szállít NFC-képes telefonokat, illetve az elérhetõ alkalmazások köre is limitált. A tesztet befogadó O2 mobilszolgáltató szerint a tömegközlekedés jegyárainak kiegyenlítése jóval népszerûbb volt, és egyéb megkérdezések alapján is többen érdeklõdnek ez iránt, mint a készpénz nélküli mikrofizetéssel kapcsolatban. A payWave iránti mérsékeltebb érdeklõdés ellenére Claire Maslen, a brit O2 NFC vezetõje azt nyilatkozta, hogy "elég teszt futott le Európában, itt az ideje bevezetni [az NFC-t]" -- majd hozzátette -- "Az elõfizetõk imádták. Annyira népszerû volt, hogy a teszt végeztével könyörögtek, hogy megtarthassák a telefonokat".
+
+Ugyanakkor az NFC szakértõ Maslen azt is elmondta, hogy a mobilpénztárca által nyújtott kényelemnek mindig egyensúlyban kell lennie a biztonsággal is -- minél kényelmesebbé válik ugyanis a fizetés, annál több mindent kell feláldozni a biztonsági elemek közül. Egy PIN-kód bekérés, vagy egy megerõsítõ kérdés-válasz ugyanis idõigényes, ami a hosszú sorokat eredményezne a kapuk elõtt, akkor is, ha csak 5 másodpercre kell mindenkinek megállnia az érzékelõ elõtt.
+
+
+Phil Pavitt, a Londoni Közlekedési Társaság IT vezetõje is úgy nyilatkozott korábban, hogy számos kérdés maradt még megválaszolatlanul, szerinte is fõként a biztonság területén. A jelenlegi állapot még mindig egy próbaváltozat, ami nem jelent végleges stratégiát, hanem csupán koncepciók próbálgatását. 
+
+Eközben hazánkban a fõvárosi BKV vezetõségében jelenleg is az a dilemma, hogy milyen formátumú jegyek kerüljenek bevezetésre, hogyan mûködjön az elektronikus jegy és legyenek-e egyáltalán kapuk. Mivel úgy tûnik, hogy az érintésnélküli mikrofizetési megoldások bevezetésében élen járó Egyesült Királyságban is a tömegközlekedés az elsõdleges hajtóereje az NFC-nek, Magyarországon a tömegközlekedés jelenlegi színvonalát alapul véve a következõ 2-4 évben gyakorlatilag elképzelhetetlen, hogy elterjedjen. Esetleg a parkoló- és étel/italautomaták jelenthetnek némi reményt a technológia híveinek itthon.

@@ -1,0 +1,26 @@
+Újabb részletek a kis- és középvállalati Windows Serverekrõl
+
+A Microsoft szerdán számos új információt hozott nyilvánosságra a kis- és középvállalatoknak szánt új szervereirõl, a Cougar kódnéven fejlesztett Small Business Server 2008-ról, illetve a Centro kódnevû Windows Essential Business Server 2008-ról. Mindkét termék a február végén debütáló Windows Server 2008 kódbázisára épül, azonban a célközönség igényeinek megfelelõ komponensekkel lesznek kiegészítve.
+
+
+
+SBS és WEBS: mi a fõ különbség?
+
+A Small Business Server (SBS) új változatát az eddigiekhez hasonlóan a legkisebb cégeknek szánja a Microsoft, ahol legfeljebb 50 PC-t használnak, a Windows Essential Business Server (WEBS) már inkább középvállalati megoldás, 50-250 PC-vel rendelkezõ cégek számára. Utóbbi szoftvernek két változata is lesz, amikbe minden olyan komponenst belezsúfolnak, amelyre egy kis- és középvállalatnak szüksége lehet. Ennek megfelelõen a WEBS tartalmazni fogja az Exchange Server 2007-et, a Forefront Security for Exchange-et, a System Center Essentials 2007-et, valamint az új ISA Servert. A WEBS drágábbik verziójában helyet kap még az SQL Server 2008 is.
+
+Az SBS 2008 ennél jóval egyszerûbb, lényegében a Windows Server 2008-ról van szó, kiegészítve az Exchange Server 2007-tel, a SharePoint Services 3.0-val, az SQL Server 2005-tel, valamint a System Center Essentials 2007-tel. Fontos újdonság, hogy az SBS 2008 ún. Premium CAL licenccel akár két szerveren is futtatható, így azok a felhasználók, akik például komolyabb adatbázist mûködtetnek, külön szerverre telepíthetik, nem szükséges hozzá két SBS licencet venniük. Az ISA Server viszont nem lesz futtatható az SBS 2008-on, ezért érdemes a szervert tûzfal mögé tenni, ami persze lehet akár az ISA Server is, azonban a használatához külön gép kell majd.
+
+Testreszabott felügyelet
+
+A két termék közötti jelentõs különbség a komponenseken kívül, hogy az SBS 2008 felületét úgy alakították ki, hogy a lehetõ legegyszerûbben telepíthetõ és kezelhetõ legyen, ugyanis a célközönségnek számító kisvállalatoknál az informatikai kompetencia gyakran korlátozott. Az SBS 2008 ezért olyan központi menedzsment-konzolt kapott, amelyrõl minden funkció egyszerûen elérhetõ, akár távolról is. A WEBS már átfogó(bb) felügyeleti lehetõséggel rendelkezik, azonban ebbe a felületbe már külsõ gyártóktól származó modulok is integrálhatók. Eddig a Symantec, a Citrix, a CA, a Trend Micro, a FullArmor, a McAfee és a Quest jelentette be, hogy integrálni fogja termékeit a WEBS-szel.
+
+
+Steven VanRoekel, a Microsoft szervertermékekért és fejlesztõi eszközökért felelõs részlegének termékfejlesztési vezetõje szerint az ügyfelektõl kapott vissszajelzések azt mutatták, a ki- és közepes vállalatok igényei nagyban eltérnek egymásról, ezért döntöttek úgy, hogy az SBS 2008 és a WEBS 2008 eltérõ menedzsment-felületet kap.
+
+Az SBS 2008-ban helyet kap egy egyszerû adatmentési- és visszaállítási megoldás, ami azonban a célközönség igényeihez igazodva nem támogat szalagos mentõegységet, csak lemezest. További korlátozás, hogy az ISA Server nem lesz futtatható az SBS 2008-on, ezért érdemes a szervert tûzfal mögé tenni, ami persze lehet akár az ISA Server is, azonban a használatához külön gép kell majd. A termékhez jár majd egy egy éves kémprogram- és spamvédelem a Microsoft Forefront Security for Exchange Server Small Business Edition személyében, valamint a Windows Live OneCare for Server vírusirtóra szóló egy éves elõfizetés is.
+
+A Microsoft ígérete szerint a szoftver integrálható lesz a Microsoft webes szolgáltatásával, az Office Live Small Business-szel is, így a felhasználók viszonylag egyszerûen hozhatnak létre és mûködtethetnek webalapú csoportmunka-megoldást. A modern idõknek megfelelõen az SBS 2008 támogatni fogja a Windows Mobile eszközöket, így a vállalati alkalmazottak akár mobiltelefonról is hozzáférhetnek a leveleikhez, dokumentumaikhoz.
+
+Az év végén várható
+
+A kis- és középvállalatoknak szánt Windows Server változatok megjelenési ideje egyelõre ismeretlen, a Microsoft ígérete szerint a termékek az év második felében kerülnek piacra, ennél pontosabbat egyelõre nem tudni. Mivel a WEBS tartalmazza az SQL Server 2008-at, aminek a megjelenési ideje egyelõre bizonytalan, az sem zárható ki, hogy ez a termék már csak 2009 elején lesz elérhetõ. Mindkét termékbõl az elsõ félévre ígéri a nyilvános bétát a Microsoft.

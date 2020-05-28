@@ -1,0 +1,20 @@
+Piacra dobta nyílt üzleti PC-platformját az AMD
+
+Piacra dobta elsõ üzleti kliensplatformját az AMD. Az Intel megközelítésével ellentétben a vállalat gyakorlatilag csak elõírásokat fektet le, a processzoron kívül a platform bármely összetevõjét szállíthatja harmadik fél is. Az AMD természetesen igyekszik majd saját chipsetjeivel és grafikus processzoraival teret nyerni a piacon, de legfõbb célja processzorüzletének versenyképesebbé tétele az üzleti szegmensekben, és piacrészesedés szerzése a hagyományosan az Intel terepének számító területen.
+
+
+
+Kiszámíthatóság kicsiknek és nagyoknak
+
+Ma hivatalosan is bejelentette üzleti célú felhasználásra szánt desktop PC platformjának elérhetõségét az AMD. A Business Class nevet elnyerõ platform kizárólag a processzorok körét határozza meg, akár a chipset és a grafikus chip is lehet más gyártótól származó. Ez a nyílt megközelítés kontrasztban áll az Intelével, mely a processzor mellett a komplett chipsetet, integrált grafikus magot, és saját távfelügyeleti (Active Management Technology) megoldást is szállít vPro platformjához, valamint sajátmárkás alaplapjaival is versenyez partnereivel.
+
+Az AMD jelenleg hét Business Class processzormodellt kínál, melyeket a számsort követõ "B" jelölés különböztet meg. Phenom X4 9600 (2,3 GHz), Phenom X3 8600B (2,3 GHz), Athlon X2 4450B-5400B (2,3-2,8 GHz) és Athlon 1640B (2,8 GHz). A Business Class termékekért némi, mintegy 5 százalékos felárat kell fizetni, cserébe az AMD hároméves garanciát vállalt, és garantálja a most piacra dobott modellek hozzáférhetõségét legalább egy, de akár 2 éven keresztül, míg a családba kerülõ új termékek piacra kerülésüket követõen egy évig biztosan elérhetõek lesznek folyamatosan. A gépparkok késõbbi homogén bõvítése így biztosított a vállalatok számára, ami egyszerûsíti a rendszerképek menedzselését. 
+
+
+Üzleti desktop platformjával a vállalat nemcsak az olyan vezetõ márkás PC-szállítókat célozza, mint a HP, a Dell, a Fujitsu Siemens vagy a Lenovo, hanem partnerei segítségével a kereskedelmi csatornákon keresztül a kisebb rendszerintegrátorokat is. Ennek megfelelõen Business Class processzorai akár dobozos formában is hozzáférhetõek, valamint a Business Class validált alaplapok is megjelennek a disztribútoroknál és kereskedõknél különféle gyártóktól. Ilyen, az AMD 780V chipsetjére épülõ lapokat már szállít az MSI, az ECS és az ASUS is, késõbb pedig további gyártók is megjelennek majd.
+
+Asztali AMD chipset mellett várható NVIDIA és mobil változat is
+
+A 780V integrált Direct X 10 grafikus magot tartalmaz, mely a 780G-hez képest viszont alacsonyabb órajelen üzemel és nélkülözi az UVD-t (hardveres videodekóderek), több kijelzõt is támogat akár HDCP védelmen keresztül is -- természetesen dedikált, nagyobb teljesítményû videokártyával is bõvíthetõ igény szerint. A 780V akár 12 USB 2.0-s eszközt, 6 SATA 2.0 meghajtót is kezelhet akár RAID tömbbe fûzve. A Business Class chipset támogatja ezenkívül a TPM chipeket és nyílt szabványokra épülõ távfelügyeleti megoldásokat, mint például a DASH. A jövõben NVIDIA chipsettel szerelt alaplapok is várhatóak AMD Business Class minõsítéssel.
+
+A jelenleg folyó negyedévben, hamarosan várható az AMD elsõ mobil platformja, a Puma, melynek szintén lesznek Business Class változatai is. A energiatakarékosságra optimalizált, K8-alapú, 65 nanométeres Griffin processzor az RS780M chipset társaságában üzemel majd, mely a 780G nevû asztali chipkészlet mobil változata. Az RS780M érdekessége a PowerXPress technológia, amely lehetõvé teszi a chipsetbe integrált grafikus vezérlõvel és diszkrét grafikus processzorral egyaránt szerelt noteszgépek számára, hogy újraindítás nélkül váltsanak a grafikus vezérlõk között. A Puma szintén képes DASH-alapú távfelügyeletet támogatására. 

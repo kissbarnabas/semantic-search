@@ -1,0 +1,16 @@
+Szupergyors SSD-k a Super Talenttõl
+
+A kaliforniai székhelyû Super Talent fellebbentette a fátylat legújabb, harmadik generációs SSD-családjáról. A MasterDrive OX sorozat a teljesen új, többcsatornás SATA-II vezérlõvel és megnövelt írási/olvasási sebességgel hívja fel magára a figyelmet.
+
+
+
+Az új 2,5 hüvelykes MasterDrive OX meghajtók a többszintû memóriacelláknak (MLC) köszönhetõen 150 MB/sec olvasási és 100 MB/sec írási sebességre képesek. Az OX modellek három változatban kerülnek majd forgalomba, a 32, 64 illetve 128 gigabájtos tárkapacitással, 150, 260, illetve 420 dolláros áron. A bejelentésnek része a kéttagú PX család is, melyben egyszintû memóriacellák (SLC) kaptak helyet. 
+
+Több, gyorsabb, olcsóbb 
+
+Ugyan az SLC modulokkal kisebb kapacitást tudnak felmutatni, hisz csak 32 és 64 gigabájtos modellek érkeznek, viszont 170 MB/sec olvasási és 130MB/s írási sebességre képesek. Az extra teljesítmény természetesen az árban is megmutatkozik hiszen 500 illetve 850 dollárt kérnek darabjukért. Érdekes módon az MLC-alapú meghajtókra a gyártó csupán egy év garanciát vállal, míg az SLC megoldásokra három évet.
+
+
+ A közel 20 éve memóriagyártással foglalkozó Super Talent nem csupán a 100 élõ szabadalmával dicsekedhet, hanem azzal is, hogy jelenleg az egész iparon belül az egyik leggyorsabb flash-alapú meghajtó származik tõlük, habár a szintén mostanság bemutatott Intel illetve Micron termékek sebességét éppen nem érik el. A fejlesztési ritmus viszont szembetûnõ, ami a közeljövõre nézve még nagyobb teljesítményû meghajtókat jelent egyre elfogadhatóbb áron.
+
+"Az új harmadik generációs SATA vezérlõs SSD-meghajtóinkkal a teljesítményt egy olyan új magasságba emeltük, ami bármely merevlemezt megszégyenít. Ráadásul a MasterDrive SSD-k saját piacukon belül a legköltséghatékonyabb megoldásnak számítanak" -- mondta Joe James, a Super Talent marketingvezetõje. A gyártóknak, illetve felhasználóknak pedig nem is kell sokáig várni az új termékekre, hiszen a bejelentéssel egyidõben megindult a forgalmazás, így a hét végére már a kereskedõknél is megtalálhatóak lesznek, legalábbis az Egyesült Államokban.

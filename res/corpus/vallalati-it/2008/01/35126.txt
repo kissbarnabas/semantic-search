@@ -1,0 +1,14 @@
+Megnyitja a bináris Office fájlformátumokat a Microsoft
+
+A Microsoft még február közepe elõtt nyilvánosságra hozza az Office bináris fájlformátumainak (doc, xls, ppt) dokumentációját, amelyekhez egyébként eddig is jogdíjmentesen hozzá lehetett férni, csak egy e-mailt kellett írni a Microsoftnak, feltüntetve a cég és a kapcsolattartó adatait.
+
+
+
+ A redmondi cég most azonban úgy határozott, hogy legkésõbb február 15-én Open Specification Promise alatt kiadja a fájlformátumok leírását -- olvasható az Office programmenedzserének, Brian Jones-nak a blogjában. Az Open Specification Promise ugyanaz a konstrukció, amelyet az Office Open XML is használ, vagyis hamarosan bárki szabadon készíthet a bináris formátumú Office állományokat kezelõ szoftvert, akár anélkül is, hogy bárhogy hivatkozna a Microsoftra. Ehhez nem szükséges semmilyen dokumentumot kitölteni vagy aláírni, mindössze hallgatólagosan tudomásul kell venni a feltételeket. A lépés egyúttal azt is jelenti, hogy az Office-rivális szoftvercsomagok (pl. OpenOffice.org, WordPerfect, Google Docs) száz százalékig kompatibilisek lehetnek a régi Office fájlokkal.
+
+
+ A Microsoft emellett egy új, nyílt forrású projektet is elindít, amelynek célja egy fájlkonverter létrehozása. A lényegében mindent megengedõ BSD licenc alatt kiadásra kerülõ szoftverrel a bináris Office állományokat lehet majd Office Open XML fájllá alakítani, a projekt a SourceForge-on indul február 15-én. A fejlesztésben a Microsoft mellett más cégek is részt vesznek majd Brian Jones ígérete szerint, bár konrkrét nevek eddig nem hangzottak el. A Microsoft jelenleg is kínál ilyen fájlkonvertert, azonban ez nem nyílt forrású. 
+
+Lerch Attila, a Microsoft üzletfejlesztési igazgatója szerint a bináris Office formátumok nyílttá válása nem fogja hátráltani az Office Open XML terjedését, hiszen utóbbi formátum "annyival többet ad". "Aki a mai körülmények között nem XML-re fejleszt, nem nevezhetõ bölcsnek és elõrelátónak" -- fogalmazott Lerch. A fájlformátumok megnyílásával megszûnik az Office nagy versenyelõnye, a saját formátumaival való maradéktalan kompatibilitás, de Lerch szerint ez sem lesz probléma, mivel az Office számos olyan funkciót tartalmaz, amit a versenytársak nem, elsõsorban a csoportmunka-támogatás vagy a más szoftverekkel való integráció területén.
+
+Az Office Open XML szabványosítását elõkészítõ bizottság egyébként a hét elején jelentette be, hogy átnézte és megválaszolta azokat a megjegyzéseket, amit a nemzeti szabványügyi testületek még a szeptemberi szavazás során nyújtottak be. Az felvetõdött problémákat 2008. február 25-én vitatják meg Genfben az ISO által megrendezendõ Ballot Resolution Meetingen. A különbözõ szabványügyi testületeknek itt lesz lehetõségük arra, hogy módosítsanak a szavazataikon és itt dõl majd el, hogy az Office Open XML formátum ISO-szabvány lesz-e.

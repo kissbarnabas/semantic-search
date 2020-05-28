@@ -1,0 +1,22 @@
+Megjelent és letölthetõ a Mozilla Firefox 3.0
+
+A várakozásoknak és ígéreteknek megfelelõen megjelent a Firefox 3.0 verziója, ami tegnap este óta tölthetõ le a Mozilla webhelyérõl -- amikor az óriási forgalom miatt éppen elérhetõ.
+
+
+
+A legfontosabb újdonságok
+
+A Mozilla Firefox új verziója a készítõk szerint 15 ezer újdonságot, fejlesztést tartalmaz a 2.0-hoz képest, bár a felhasználó számára ezek zöme láthatatlan. Mégis, van számos olyan újdonság, ami mindenképpen szót érdemel. Az egyik az új címsor: nem csak URL-eket írhatunk ide, hanem meg is jelölhetjük a kedvenc oldalainkat, illetve tageket fûzhetünk hozzájuk, és kereshetünk is a meglátogatott oldalak között, akár URL, akár cím alapján. A Firefox 3-ban a meglátogatott oldalak listáját és a könyvjelzõket ugyanaz a motor kezeli, és a felhasználó is egy helyen láthatja, kezelheti õket.
+
+
+ A böngészõ új verziója képes a weboldalakat nagyítani vagy kicsinyíteni, ez a funkció az Operához hasonlóan már nem csak a szöveget, hanem a képeket is átméretezi. Javítottak a nemzetközi karakterek megjelenítésén is, illetve módosították a fülek (tab) kezelését, hogy egyszerûbb legyen megtalálni, amit keresünk. A füleket át lehet rendezni, a véletlenül bezárt füleket pedig újra meg lehet nyitni.
+
+A megjelenítés terén is sokat fejlõdött a Firefox 3, javítottak a szövegek és grafikák ábrázolásán, a színprofilok támogatásán. A böngészõ a weboldalakba írt szöveget helyességét is tudja ellenõrizni, és magyarul is tud. A Firefox 3 teljesen integrálódik a futtatókörnyezetbe, ami azt jelenti, hogy Windows XP, Vista, Linux vagy Mac OS X alatt egyaránt az operációs rendszer saját grafikai elemeit használja.
+
+A Firefox 3 újdonsága a továbbfejlesztett, egyszerûbbé, érthetõbbé tett biztonsági kezelõfelület, továbbfejlesztették a jelszókezelést, illetve a nagyobb biztonság érdekében a böngészõ automatikusan ellenõrzi a plugineket, kiterjesztéseket és Java appleteket, és letiltja a nem biztonságosnak ítélt változatok települését, használatát -- nehogy egy külsõ kiegészítõ miatt váljon sebezhetõvé a rendszer. További, biztonsággal kapcsolatos újdonság, hogy a címsorban az URL elõtti részre kattintva könnyen megteknthetõk a weboldallal kapcsolatos biztonsági tudnivalók. Ha olyan oldalra tévedünk, ami a Mozilla folyamatosan frissítet adatbázisa szerint kártékony, arról kikerülhetetlen figyelmeztetést küld a böngészõ.
+
+A letöltött fájlokat a Firefox most már automatikusan képes átkutatni a vírusok és egyéb kártevõk után. Szintén a letöltéssel kapcsolatos újdonság, hogy a Download panelen már nyomon követhetõ, melyik letöltést honnan indítottuk, a letöltéseket megállíthatjuk és újrakezdhetjük még akkor is, ha idõközben kiléptünk a Firefoxból. Az új verzió orvosolja a korábbi változatok egyik legnagyobb hibáját, a túlzott memóriaéhséget is: a 3.0 már jóval takarékosabban bánik az operatív tárral. Aki részletesebben érdekelnek a Firefox 3 újdonságai, a Creative Commons licenc alatt letölthetõ Field Guide to Firefox 3 könyvben talál további információkat.
+
+Letöltésrekordra hajtanak
+
+A Mozilla a Firefox 3-mal új Guinness-rekordot szeretne felállítani az "egy nap alatt a legtöbb példányban letöltött szoftver" kategóriában. A fejlesztõk egyelõre jól haladnak, a tegnap esti megjelenés óta eltelt 10 óra alatt már közel 4,7 millióan töltötték le a Firefox új verzióját, Magyarországról pedig közel 30 ezer letöltést regisztráltak. A különféle statisztikák szerint hazánkban az egyik legmagasabb a Firefox piaci részesedése, meghaladja a 30 százalékot, ami világviszonylatban is kiemelkedõnek számít.

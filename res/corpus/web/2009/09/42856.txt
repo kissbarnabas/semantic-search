@@ -1,0 +1,18 @@
+Boldog születésnapot, Chrome!
+
+Egy évvel ezelõtt, szeptember másodikán szabadult ki az információ, véletlenül egy nappal a tervezett elõtt, amikor egy blogger közzétette a Google által készített magyarázó képregényt, az akkor debütáló böngészõrõl. Az 1.0-ás Chrome még bétaként indult, de az azóta eltelt 365 nap alatt 51 fejlesztõi, 21 további béta verzió vagy frissítés, illetve 15 stabil változat jelent meg, ami mindenképp rekordnak számít. A jelenleg 3.0.195.10-es verziónál tartó program a Firefoxot már majdnem utolérte (3.5.2), de a fejlesztõk ígérete szerint az év maradék részében is roham tempót diktálnak majd, így semmi sem lehetetlen.
+Gõzhenger
+A Chrome-blogon leírtak szerint 20 600 hibát regisztráltak, melyek közül 3505 már kijavításra került, illetve 4367 csupán ismétlõdés volt. Igaz még így is van mit behozni. Az újszerû process-kezelés, illetve a fejetetejére állított böngészõfülek elvén kívül viszont egy nagyon érdekes versenyt generált, illetve erõsített a Chrome az elmúlt egy évben. Már régóta tudjuk, hogy a webes tartalmak megjelenítésének szûk keresztmetszete a legtöbb esetben nem a sávszélesség, hiszen mindenki több megabites vonalakkal kapcsolódik már szinte a világhálóra. Ennél jóval komolyabb lassító tényezõ, hogy a weboldalak nagy része kisebb-nagyobb mértékben, de használ JavaScriptet, melyek a felhasználó gépén futnak le, s ez lelassíthatja az oldalak mûködését.
+
+Ebben a versenyben mindenki azt állítja, hogy adott pillanatban és feltételek között a saját böngészõje a leggyorsabb, legyen szó a Microsoft Internet Explorerrõl, Apple Safariról vagy a Firefoxról akár. A Chrome viszont önmagához képest is szép fejlõdést képes felmutatni, s az egy évvel ezelõtt kipróbálható bétához képest a mostani stabil verzió 150 százalékos gyorsulást ígér.
+Egyre kevesebb hiányzik
+Emellett bekerültek szép lassan azok az alapvetõ funkciók, ami nélkül ma már nem létezhet internetes böngészés. Az elsõ Chrome puritán mivolta sokak kedvét vette el a használattól, hisz le kellett mondani a Firefox bõvíthetõségérõl, a testreszabhatóságról és jónéhány alapvetõ funkcióról is. Cserébe viszont egy gyors és többnyire stabil, átlátható felületet kaptak a kitartóak.
+
+A legnagyobb hiányosság viszont még az elsõ szülinapon is a kiegészítések, pluginek hiánya. Errõl a Chrome blogban azt írják, hogy "úton vannak", de egyelõre csak fejlesztõknek szóló leírásokban merül ki ez a téma. Továbbá a Chrome még mindig nem elérhetõ Linuxra és Mac-re, leszámítva egy kezdetleges alfa verziót, a Chromiumot. A fejlesztések állítólag itt is gõzerõvel folynak, de érthetõ okokból a windowsos változat a prioritás.
+Mégsem jött meg a siker
+Hiába viszont a lázas fejlesztés, a felhajtás és a Google versenyetikai szempontból megkérdõjelezhetõ magatartása a Chrome népszerûsítésére (a YouTube-on, Google oldalakon és Gmailen is erõszakosan ajánlgatják a látogatóknak a böngészõ letöltését), a várt népszerûség elmaradt eddig. Indulás után a meglepetés elcsitulása után körülbelül 1 százalékos részesedést ért el globálisan a Chrome, ami idén augusztus végére a Net Applications mérései szerint 2,94 százalékig kúszott fel.
+Bizonyos közegekben ennél természetesen magasabb a részesedés, a webkettes guruk jóval nagyobb arányban, de ott is csak általában 10 százalékban használják a Google programját. A HWSW-n is magasabb az arány, az elmúlt napban a látogatások közel 5 százalékát indították Chrome alól. Ezzel nálunk gyakorlatilag utolérte az Operát, bõven megelõzte a 3,36 százalékos Safarit, de a Firefox 63 vagy az Internet Explorer 21 százaléka messze van még.	     
+                  
+                  
+                  
+                   

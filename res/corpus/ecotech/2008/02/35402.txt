@@ -1,0 +1,14 @@
+Beértek a BalaBit fejlesztései: remek évet zárt a cég, és még jobb elõtt áll
+
+Nagyszerû évet zárt és még jobb elé néz a biztonsági megoldásairól ismert BalaBit IT Security. A pár éve egyetemisták által alapított cég 465 millió forintos bevételt ért el 2007-ben, ami 52 százalékos növekedést jelent. Györkõ Zoltán üzletfejlesztéi igazgató szerint 2008-ban akár ennek kétszeresét is elkönyvelheti a cég.
+
+
+
+A több mint 50 százalékos bevételnövekedés elsõsorban az újonnan megjelent termékek, azaz a Sun hardveren futó Shell Control Box, illetve a syslog-ng népszerûségének köszönhetõ, amelyektõl az idén még nagyobb forgalmat vár a cég. Györkõ Zoltán üzletfejlesztési igazgató rámutatott, a biztonsági szoftverek beszerzése terén egyre fontosabb mozgatóerõ a jogszabályi megfelelõség (compliance), és ebbe a trendbe tökéletesen illik a rendszeradminisztrátorok tevékenységét átláthatóvá és visszakövethetõvé tevõ Shell Control Box, illetve a syslog-ng nyílt forrású naplózó rendszer. Természetesen eközben az érdeklõdés nem csillapodik a Zorp tûzfal iránt sem.
+
+
+ "A BalaBit hatalmas növekedési potenciállal rendelkezik, hiszen több technológiának kizárólagos fejlesztõje, miközben a globális értékesítési hálózatát még csak most kezdi mozgásba hozni" -- mondta Györkõ, kiemelve, hogy a cégnek már az Egyesült Államokon kívül a Távol-Keleten is van disztribútora. "Nem egy olyan potenciális partnerrel tárgyalunk jelenleg is, amely cégek globálisan értékesítenek, így a velük való kapcsolat akár ugrásszerû növekedést is hozhat számunkra."
+
+"A biztonságtechnika fejlõdésével párhuzamosan az általunk már évek óta fejlesztett speciális technológiák iránt a vállalatok egyre szélesebb köre mutat érdeklõdést" -- mondta Scheidler Balázs, a BalaBit ügyvezetõ igazgatója és fejlesztési vezetõje. "Azt is mondhatnám, nincs ebben semmi meglepõ, mindez a BalaBit alapítása óta része az üzleti és fejlesztési stratégiánknak. Tisztában vagyunk azzal is, hogy a piac növekedése együtt jár majd az egyre erõsebb versenytársak megjelenésével. Hét évnyi tapasztalattal és egy világszerte elismert márkanévvel várjuk õket."
+
+A vállalat létszáma tavaly 25 százalékkal 40 fõre bõvült, és az idén további alkalmazottak felvételét tervezi a BalaBit. Lapunk kérdésére Györkõ elmondta, több hazai szoftverfejlesztõhöz hasonlóan a BalaBit növekedésének is komoly gátját képezi a szakemberhiány, ezért a jövõben is komoly szerepet szánnak a Campus programnak, amelynek keretén belül tehetséges hallgatók kapnak támogatást tanulmányaik befejezéséhez, miközben elméletben és gyakorlatban egyaránt megismerkedhetnek a legmodernebb hálózati technológiákkal.

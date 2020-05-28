@@ -1,0 +1,16 @@
+Gyorsabb SATA-ra éheznek az SSD-k
+
+Gyorsabb reakcióidejû adatkezelés, így összességében gördülékenyebb számítógéphasználat várható az elterjedt Serial ATA (SATA) interfész új verziójának bevezetésétõl -- a soros szervezésû interfész új generációja megduplázza elõdje adatátviteli tempóját, így a rá csatlakoztatott eszközök számára egy elméletileg 6 gigabit/másodperces áteresztõképességû adatáttovábbító csatorna áll majd rendelkezésre.
+
+
+
+A szabványt fejlesztõ, több iparági szereplõbõl álló Serial ATA International Organization (SATA-IO) a héten bocsátotta tagjai rendelkezésére az interfész harmadik generációjának fizikai rétegét (azaz a csatlakozókat, a használt kábeleket és a vezérlõchipek felépítését) leíró dokumentációkat, melyek a késõbbiekben a Serial ATA 3.0 szabvány alapjait nyújtják majd. A fejlesztõk és mérnökök így mostantól foghatnak bele az elsõ SATA 3.0-kompatibilis eszközök tervezésébe, miközben a szabvány véglegesítése lassan a finishez ér.
+
+Az SSD-ken már alap a SATA-interfész
+
+A szabvány kidolgozás alatt álló új változata nemcsak az adatátviteli tempót tekintve hoz majd elõrelépés: a SATA-IO különbözõ munkacsoportjai egyebek mellett azon is dolgoznak, hogy az új Serial ATA eszközök az elõdöknél energiatakarékosabb mûködésre legyenek foghatók. A költséghatékony megoldásként az IDE interfész nyomdokaiba lépõ SATA csatoló az új szabvány megjelenésével sem változik majd, a fejlesztõk eltökélt szándéka ugyanis a teljes visszamenõleges kompatibilitás megõrzése, jóllehet a SATA-IO szakemberei elõrevetítik, hogy a 6 gigabit/másodperces adatátviteli tempó eléréséhez ajánlott minõségi átviteli kábelt használni.
+
+
+Az interfész új változatának bevezetése elemzõk szerint tovább erõsítheti a szabvány pozícióját a nagy átviteli sebességet nyújtó, ugyanakkor olcsón implementálható átviteli közegek mezõnyében: a szabvány elsõ verziójának 2001-es bemutatója óta 650 millió SATA-s merevlemezt szállítottak le a gyártók, mostanra pedig a HDD-ken kívül az optikai egységek és a flashalapú háttértárak, azaz SSD-k is általánosan elterjedt csatolóközegévé is vált.
+
+A Serial ATA 3.0 szabvány bevezetésével fõleg ez utóbbi eszközök, azaz az SSD-k profitálhatnak, a késleltetéskritikus háttértárak az idõ elõrehaladtával nemcsak kapacitásukat tekintve, hanem a NAND flash chipek adatkezelési tempóját illetõen is jelentõs fejlõdési utat járnak be -- a megnövekedett belsõ adatkezelési sebességet pedig idõvel nem tudja majd kiszolgálni a csatolóinterfész jelenlegi változata, melynek határait már most is feszegetik a legújabb, még idén piacra kerülõ megoldások, melyek olvasási csúcsteljesítménye elérheti a 250 megabájtos másodpercenként. A 6 gigabites SATA felület a nagy gyorsítótárral szerelt merevlemezeknek is kedvezhet, ugyanis a beépített DRAM tárak lényegesen nagyobb átviteli sebességre képesek annál, mint amelyet a jelenlegi SATA vagy PATA interfészek kínálnak.

@@ -1,0 +1,14 @@
+Az IBM csinál üzleti telefont az Apple iPhone-ból
+
+A tegnap kezdõdött Lotusphere 2008 rendezvényen az a hír járja, hogy hamarosan az Apple iPhone-ra és az iPod touchra is megjelenik az IBM e-mail és csoportmunka-kliense, a Lotus Notes, emellett a Windows és Linux után az Apple Mac OS X operációs rendszert futtató gépeken is elérhetõ lesz, valamint a Symphony ingyenes irodai csomag is megjelenik Apple Mac-re. 
+
+
+
+Az IBM az õsszel jelentette be a Lotus Notes és a hozzá tartozó szerver, a Domino legújabb, 8-as verzióját. A Lotus Notes 8 két évig tartó fejlesztésekor az IBM célja egy olyan asztali kliens létrehozása volt, mely a sûrûn használt alkalmazásokat egyetlen felületbe integrálja. A 8-as verzió már  egy OpenOffice-alapú integrált dokumentumszerkesztõt is tartalmaz, így a felhasználó anélkül nyithat meg, hozhat létre és szerkeszthet szöveget, táblázatot vagy prezentációt, hogy el kellene hagynia a Notes-t, ráadásul a Microsoft Office megvásárlására sincs szüksége.
+
+
+A Radicati Group becslése szerint világszerte 101 millió postafiókot szolgál ki az IBM Lotus Domino és a Notes, és a számuk 2011-re 112 millió darabra fog növekedni (az IBM saját adatai 125 millió postafiókról szólnak). Ennél azonban lényegen nagyobb felhasználói bázisa van a Microsoft Exchange/Outlook párosnak, amelyet 304 millióan használnak. A Microsoft szerint az utóbbi fél évben 300 vállalat 2,8 millió felhasználója kezdte meg az áttérést más rendszerekrõl az Excahnge-Outlook párosra, köztük sok Lotus-környezet is volt. 
+
+A redmondi cég ingyenes eszközökkel segíti az áttérést más rendszerekrõl Exchange-re, a Microsoft Transporter Suite vadonatúj változatát épp a Lotusphere rendezvénnyel egyidõben jelentették be. A Microsoft Transporter Suite segítségével a felhasználókat lehet Lotus Domino 6-ról és 7-rõl migrálni Windows Serverre, Exchage Serverre és SharePoint Servicesre. Természetesen az IBM sem nézi ölbe tett kézzel, hogy a Lotus-felhasználók a konkurenciához pártolnak, így a Nagy Kék is biztosít olyan szoftvereket, amelyek megkönnyítik az átállást Exchange-rõl Lotusra.
+
+Az Excipio Consulting tanácsadó cég elemzése szerint egy 30 ezer fõs vállalat átállítása Lotusról Exchange-re összesen mintegy 6,6 millió dollárt emészt fel, viszont évente 800 ezer és 1,5 millió dollár közötti megtakarítást eredményezhet.

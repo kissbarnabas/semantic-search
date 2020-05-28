@@ -1,0 +1,44 @@
+Nem lesz lassabb az internet, marad a sávszélesség
+
+Az NHH múlt héten hirdette ki jövõ évi irányelveit, melyben komoly hangsúlyt kapott az internetszolgáltatók hirdetéseiben szereplõ sávszélesség-értékek ellenõrzése. Lassulni fog az internet  -- írta vezetõ anyagában múlt héten az IT Café. Természetesen ez még áttételesen sem igaz.
+
+
+
+Dehogy lassul! 
+
+Az NHH korábban már jelezte, hogy 2009-tõl komolyabban veszi az internetszolgáltatók hirdetéseinek ellenõrzését, és a tudatlan felhasználók fejében gyakran kavarodást okozó maximális sávszélesség-érték mellett kötelezõvé teszi az átlagos, a fogyasztó számára a valóságban garantálható sebesség feltüntetését is. Jelenleg a legtöbb vitát és felhasználói panaszt az szüli, hogy miért van a garantált minimum és az ígért maximum között olyan nagy különbség, fõként a mobilinternet és a DSL esetén.
+
+[+] 2009-ben bekeményít az NHH
+
+A magyarázat természetesen nem újdonság: a DSL esetén egy adott végponton elérhetõ sebességet a vezetékek ás a csatlakozók minõsége mellett fõként a telefonközponttól (DSLAM) való távolság befolyásolja. A DSLAM 1-1,5 kilométeres körzetében többnyire még biztosítható a meghirdetett maximális sávszélesség, de a távolság növelésével a sebesség négyzetesen csökken, 4-5 kilométeres távolságon túl pedig a gyorsabb kapcsolatok sokszor már ki sem építhetõk.  
+
+Fontos tényezõ az is, hogy egy adott érpárkötegen belül mennyien vesznek igénybe szélessávú szolgáltatást -- tudtuk meg Hámon Krisztinától, a GTS-Datanet kommunikációs vezetõjétõl. Amennyiben a kötegen belül futó érpároknak több mint 30-50 százalékán él DSL-szolgáltatás, akkor a keletkezõ interferencia miatt a végpontokon elérhetõ sebesség lecsökkenhet. Az esti csúcsidõben emiatt lassul be a DSL-kapcsolatok nagy része. 
+
+Sosem tagadta senki, csak a reklámok túloztak 
+
+Minimális és maximális
+
+A minimális értékeket a törvényi szabályozás szerint úgy kell meghatározni, hogy azt az ügyfelek számára bármikor, bármilyen körülmények között és a szolgáltatási terület bármely pontján nyújtani lehessen, vagyis az adott területen az összes elõfizetõ egyszerre is képes legyen kapcsolódni és ilyen sebességgel használni a hálózatot. Ez valószínûleg sosem fog elõállni, de a garantált minimum értéknek ezt kell kifejeznie -- magyarázta a HWSW-nek Hámon Krisztina. 
+
+Ha egy 8 Mbps maximális sávszélességet kínáló csomagnak a garantált értéke is ennyi lenne, akkor a szolgáltatónak minden területen az ügyfélszám és a 8 Mbps szorzataként kellene elõállítani a gerinchálózat sávszélességét -- irreális elvárás egyelõre, hogy egy 100 lakásos társasházba emiatt 1 gigabites vonalat húzzon ki bárki. Magyarországon néhány közepes városnak nincs jelenleg ekkora sávszélessége, s nem is feltétlenül van rá szükség. Bizonyára kényelmesebb lenne, ha este 6 és 10 óra között is zökkenõmentes lenne az internetelérés, de ennek többletköltségeit senki nem hajlandó kifizetni, ugyanúgy, ahogy sehol sem építenek 16 sávos autópályákat csak a reggeli csúcsforgalom miatt sem.  
+
+
+ Mûszaki szempontból megoldható, hogy a maximális és a garantált sávszélesség sokkal közelebb legyen egymáshoz vagy éppenséggel megegyezzen. Ilyen termék a bérelt vonali kapcsolat, de erre a magas költségek miatt csak a nagy- illetve közepes vállalatok körében van kereslet. 
+
+Elvek háborúja
+
+A szolgáltatók a piacon versenyezve garantálhatnak nagyobb sávszélességet, de eddig ennek a marketingértéke alacsony volt, bár a UPC például korábban is több esetben kommunikálta, hogy a maximális sebesség 50 százalékát garantálja is, és hogy a technológiából adódóan nem terület-, csupán terheltségfüggõ az aktuális elérhetõ sebesség. Azt persze a reklámokban kevésbé emeli ki a cég, hogy ahhoz, hogy mindig garantálni tudják ezeket a magas értékeket, tipizált szûrést kellett alkalmaznia, amely a valós idejû alkalmazásokat elõnyben részesíti, míg a fájlcserélõket hátrébb sorolja. 
+
+Ennek eredményeként azok az elõfizetõk, akik fõleg fájlcserére használják a hálózatot, azt érzékelik, hogy a csõ esténként beszûkül. A rendezõelv ebben az esetben az volt, hogy a hálózati optimalizációban verhetetlen peer-to-peer alkalmazások csak a maradék sávszélességet kapják meg, míg a szinte mindenki által használt levelezés, böngészés és a VoIP élvezzenek elõnyt. A DSL-eléréseket értékesítõ GTS-Datanet esetében azonban nincs semmilyen korlátozás, priorizálás, sem extra szabályzat, viszont a garantált értékek is jóval alacsonyabbak. 
+
+ Forgalmi dugó az interneten? Tölts le éjjel!
+
+Priorizálás, korlátok vagy az elégedetlenség? 
+
+Szûcs László, a UPC kommunikációs vezetõje a HWSW-nek elmondta, hogy a priorizálást kizárólag addig alkalmazzák, amíg a hálózatmenedzsment szempontjából szükség van rá. A jövõben, az átvitelt biztosító technológiák és a kiépített hálózat fejlõdésével ezek visszaszorulhatnak, de valószínûbbnek látszik, hogy a szélessávot igénylõ szolgáltatások (pl. IPTV) terjedésével még inkább elõtérbe kerülnek majd, s feltételezhetõen nem csak a UPC-nél. 
+
+"A minimális, illetve garantált sávszélesség megállapítása minden egyes szolgáltatónak a saját hatáskörébe tartozik. Az NHH a megállapított és közzétett értékek megvalósulását ellenõrzi" -- mondta Szûcs László, a UPC Magyarország kommunikációs igazgatója. Az NHH által elvárt új rendszer többféle hatást is kiválthat. Lehetõség lesz a két érték közül bármelyiket hangsúlyozni, sõt arra is láttunk példát az elmúlt hetekben, hogy az egyik szolgáltató semmilyen értéket nem írt ki. 
+
+A megabit az internetszolgáltatás megapixelje vagy dinamikus kontrasztaránya, mely egyre kevésbé lényeges a kiválasztáskor, s inkább marketingüzenetté válik. Másodpercenként 2 megabites sávszélesség felett  egy felhasználó esetén nincs érezhetõ különbség a legtöbb szolgáltatás esetén: nem lesz jobb minõségû a Skype-hívás, nem a csekély sávszélesség miatt, hanem a sok Flash-tartalom miatt töltõdnek lassan a weboldalak, esténként pedig lehet, hogy hozzá kell szokni, hogy a "közutakon" dugó van. 
+
+A rendelkezésre álló erõforrások ésszerû kihasználása érdeke a profitért dolgozó cégnek is, illetve az olcsó, de megbízható szolgáltatást keresõ ügyfelek számára is -- kivéve talán azt a réteget, amely olcsó, gyors, megbízható és mindenben korlátlan elérést keresnek, mert ilyen nem létezik.

@@ -1,0 +1,38 @@
+Nokia E75: kipróbáltuk a finnek elsõ QWERTY-billentyûzetes csúszkamobilját
+
+Újabb Nokia okostelefon vendégeskedett a HWSW szerkesztõségében, az E75 a finn cég elsõ szétcsúsztatható, QWERTY-billentyûzetes mobilja, amely az E71 és az E90 közé ékelõdik a termékpalettán. 
+
+
+
+A barcelonai Mobile World Congressen bejelentett és a világpremierrel egyszerre a hazai T-Mobile üzleteiben is megvásárolható E75 a Nokia új E-sorozatú okostelefonjairól már ismert fémborítást kapta. Az elõlap fekete mûanyagát krómkeret szegélyezi, a telefon hátlapja szürke mûanyag, az akkufedél azonban itt is fém, hasonlóan az E71-hez vagy az E51-hez. A mobil megépítettsége példás, a készülék az árához méltóan masszív benyomást kelt, nem recseg-ropog, a csúszka mechanikája is tartósnak tûnik, persze egy hét használat után ez el is várható.
+
+
+
+
+Az elõlap felsõ kétharmadát a 2,4 hüvelykes, 240x320 pixel felbontású kijelzõ foglalja el. A megjelenítõ látszólag megegyezik az E71-ével, ott is dicsértük, itt se teszünk másképp. Jó kontraszt, hatalmas fényerõ jellemzi a kijelzõt, nem érheti szó a Nokia háza elejét, bár 2009 elején egy csúcskategóriás okostelefontól már nagyobb felbontás is elvárható lenne. Az E75 képes a kijelzõ fényerejét a környezeti fényviszonyokhoz állítani, a szenzor az elõlap legtetején, a hangszóró mellett található. A fényes fekete burkolat sajnos pillanatok alatt összeszedi az ujjlenyomatokat vagy az arc izzadtságát, nem árt beszerezni egy törlõkendõt és a telefon közelében tartani.
+
+A kijelzõ alatt a Nokiától megszokott D-pad, mellette nyolc funkciógomb (részben szabadon programozható), alatta pedig a szokásos telefonbillentyûk. Sajnos ez nem a legerõsebb oldala az E75-nek, az egymás melletti billentyûk egyetlen darabból készültek, tapintás alapján nem lehet tehát tájékozódni, a középsõ gombot szegélyezõ kis dudorok ellenére sem. A D-pad alatt az E71-hez hasonlóan helyet kapott egy állapotjelzõ LED, amely a telefon bekapcsolt állapotát mutatja (a folyamatos lélegzés kikapcsolható), illetve elmulasztott hívásokra, bejövõ üzenetekre figyelmeztet. Ügyes húzás, hogy a jobb alsó gomb hosszú megnyomásával a csendes profilt aktiválhatjuk, a bal alsó gombbal pedig a Bluetooth-t kapcsolhatjuk be és ki, ezekhez tehát nem kell a menüben kotorászni.
+
+A Nokia új okostelefonjának legnagyobb dobása, hogy szétnyitható, az alja egy teljes QWERTY billentyûzetet rejt. Ez a billentyûsor hatalmas, 39 gombot tartalmaz, sajnos azonban teljesen sík, a gombok kicsit sem dudorodnak ki, ami megint csak nehezíti a vakon gépelést. A nálunk járt telefon már magyar billentyûzetes, az ékezetes karaktereket a Nokiától megszokott módon a bal alsó billentyû megnyomásával, vagy a gomb hosszú megnyomásával tudjuk elõcsalni.
+
+
+
+
+
+A Symbian S60 Version 3 Feature Pack 2 operációs rendszert felkészítették a csúszkás használatra, az összes kipróbált alkalmazás tudta, hogy a telefon kinyitott állapotában a gombok nem alul, hanem a kijelzõtõl jobbra helyezkednek el, így a kezelõfelületet is ennek megfelelõen rendezték át. Az utólag letölthetõ szoftverek azonban ezt már nem mind tudják, az Opera Mini vagy éppen a Gmail ugyan észlelte, hogy a felbontás 240x320-ról 320x240-re változott, a gombjaikat azonban továbbra is a képernyõ alján hordják, pedig a szoftgombok jobbra vannak.
+
+A telefon menüjében aprólékos részletességgel beállítható, hogyan viselkedjen, ha a csúszkát nyitjuk és zárjuk. Nyitásnál kérhetjük a kijelzõ tájolásának elforgatását, egy alkalmazás indítását, az éppen folytatott beszélgetés automatikus kihangosítását, azt is megadhatjuk, a nyitást és csukást kísérje-e hanghatás. Csukáskor visszatérhetünk a kijelzõ &#8222;portré&#8221; tájolásához és a billentyûzetet is lezárathatjuk, ha szeretnénk. Az E75-ben gyorsulásérzékelõ is van, a kijelzõ tájolását akár mozgással is lehet állítani, a bejövõ hívást vagy az ébresztést pedig a telefon fejjel lefelé fordításával vagy oldalba bökésével is némíthatjuk. Ügyes.
+
+Hardverét tekintve az E75 nem sokban különbözik az E71-tõl, ugyanúgy 396 MHz-es processzort kapott, ami villámgyors, bármilyen alkalmazás szemvillanás alatt elindul és a menükben navigálás is akadásmentes. A készülék memóriája is hatalmas, a 128 megabájt jó sok alkalmazás egyidejû megnyitását teszi lehetõvé, aligha fut bele bárki is &#8222;a memória megtelt&#8221; üzenetbe. A készülék microSD kártyával bõvíthetõ, a Nokia gálánsan egy 4 gigabájtosat csomagol a készülékhez. Ötletes, hogy ezen megtalálható a PC Suite is, a szinkronizáláshoz nem kell CD-rõl szoftvert telepíteni vagy az internetrõl letölteni, elég a telefont a tartozék adatkábellel a PC-hez kapcsolni és a memóriakártyáról feltelepíteni a szoftvert.
+
+
+ Apropó adatkábel: a Nokia E75 akkumulátorát végre ezen keresztül is lehet tölteni. Szükség is van rá, a telefon ugyanis normál, hétköznapi használat (beszélgetés, levelezés, webböngészés) mellett két napot sem bír ki egy töltéssel, ugyanilyen terhelés mellett az E71 hármat is kibírt.
+
+
+
+
+Az E75-tel szinte bárhol lehet telefonálni, a készülék négysávos (EGSM 850/900/1800/1900), emellett támogatja a GPRS, EDGE, UMTS és HSDPA (3,6 Mbps) adatátvitelt is a Bluetooth (2,0+EDR)  és a Wi-Fi mellett. A 802.11b/g szabványú vezérlõchip elég érzékeny, a szerkesztõségben a Nokia E75 ugyanúgy 8 hotspotot érzékelt, mint a mellé rakott Lenovo ThinkPad x200 notebook. A telefonban A-GPS vevõ is helyet kapott, a Nokia Mapset pedig elõzékenyen elõre telepítette rá  a Nokia. Persze más, Symbianon futó navigációs szoftver is használható (TomTom, Garmin), az autós töltõt viszont semmiképp se érdemes otthon felejteni, tekintettel a telefon akkumulátorának gyors merülésére.
+
+Szokás szerint van zenelejátszó és RDS-es FM-rádió, a zenerajongóknak örömhír lehet, hogy az E75 szabványos, 3,5 mm-es fülhallgató-csatlakozóval rendelkezik, így bármilyen füles használható vele, nincs szükség átalakítóra. Egy 3,2 megapixeles, autofókuszos kamera egészíti ki a multimédiás arzenált, errõl azonban inkább jobb nem beszélni, még az E71-é is jobb volt, pedig az sem volt egy nagy szám. Üzleti okostelefontól ne is várjunk tûéles, zajmentes, ragyogó színû fotókat. Az elõlapon továbbá van egy VGA-kamera videotelefonáláshoz, kérdés, használja-e valaha majd valaki.
+
+Milyen telefon összességében a Nokia E75? Jó, mert minden benne van, ami egy okostelefontól elvárható, a processzora gyors, a memóriája nagy, a Symbian S60 platformra pedig lényegében minden alkalmazás elérhetõ, ami mobilon valaha is kellhet. Ha valakinek szétnyitható, QWERTY-billentyûzetes okostelefonra van szüksége, annak bátran ajánlható az E75, de érdemes vásárlás elõtt kipróbálni a billentyûzetét, mennyire esik kézre.

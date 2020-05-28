@@ -1,0 +1,17 @@
+Frissült a Google Android fejlesztõkészlet
+
+[eWeek] Tegnap frissített fejlesztõkészlet-változatot adott ki a Google a nyílt forrású Android mobil operációs rendszerhez. Az újabb verzió átdolgozott felülettel, animációkkal és plusz kodekekkel, illetve ezek támogatásával szélesíti a lehetõségeket.
+
+
+
+A Google tavaly novemberben, egy verseny meghirdetésével együtt tette közzé a fejlesztõi segédlet (SDK) elsõ letölthetõ változatát. A frissített változatban egy új, szintén még fejlesztés alatt álló, animálódó felhasználói felület, multimédiás   kodekek -- Ogg Vorbis, MIDI, XMF, iMelody, RTTTL/RTX és OTA audiotámogatás ! --, naprakész Eclipse plugin található meg. A nyílt fejlesztõkészlettel akár ingyen és villámgyorsan fejleszthetõk mobilos alkalmazások a jövõben megjelenõ androidos mobilokra.
+
+
+Az SDK része egy emulátor is, mely különbözõ képességû, felbontású kijelzõvel rendelkezõ mobilokat szimulálhat, így az is tesztelhetõ, hogy egy-egy elkészített program pontosan hogyan jelenik meg, mûködik a különbözõ stílusú telefonokon.
+
+Az Android fejlesztését a Google által létrehozott Open Handset Alliance felügyeli. A szervezet egy nyílt szoftverinfrastruktúrát hozott létre, melyre egyszerûbb és gyorsabb az alkalmazások fejlesztése is. A Google-nél úgy vélik, a közös platform egyformán jó a mobilgyártóknak, a szolgáltatóknak, a fejlesztõknek és a felhasználóknak is.
+
+
+
+
+A vállalat több mint 33 céget állított a projekt mellé, a sorban telefongyártók (HTC, Samsung, Motorola, LG), szolgáltatók (T-Mobile, Sprint Nextel, NTT DoCoMo, Telefónica, Telecom Italia), illetve a mobil ökoszisztémában érdekelt egyéb cégek (eBay, Intel,Broadcom, Qualcomm, NVIDIA, Wind River) egyaránt megtalálhatók.

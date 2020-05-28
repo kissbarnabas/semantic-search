@@ -1,0 +1,16 @@
+Tovább erõsíti a kártékony programok elleni védelmet az Opera
+
+Külsõ segítséggel erõsíti az Opera Software saját fejlesztésû böngészõje biztonságosságát: a Haute Secure-rel kötött megállapodás szerint a kártékony programok és fertõzõ weboldalak ellen maga a webböngészõ is komoly védelmi falat képez majd.
+
+
+
+A 2006-ban alapított Haute Secure beépítendõ védelme nem csak azt akadályozza majd meg, hogy a trójaik, kártékony programok valamilyen biztonsági résen keresztül letöltõdjenek a számítógépre, de már akkor is figyelmeztet majd a veszélyre, ha olyan linkre kattintanánk, mely fertõzött weboldalra vinne. Az új védelmi vonal a hamarosan megjelenõ Opera 9.5 böngészõben debütál majd.
+
+A Haute Secure megoldása ráadásul célzottabb is, ugyanis komplett domainek helyett csak adott oldalakat, meghatározott linkeket blokkol majd, így ha egy weboldal különbözõ oldalainak csak egy részében tapasztalnak rosszindulatú tevékenységet, a webhely egyéb oldalai ettõl még elérhetõek maradhatnak.
+
+Windowson az Operának sikerült elsõként
+
+
+Ez a védelmi vonal megoldást nyújt majd arra a támadássorozatra is, mely az utóbbi idõben többszázezer, egyébként megbízhatónak tartott, de fertõzött webhelyet eredményezett, az Opera 9.5 az ilyen weboldalak látogatásakor már figyelmeztetni fog a veszélyre. A ScanSafe legutóbbi jelentése szerint a májusban elfogott rosszindulatú alkalmazások jelentõs része ilyen weboldalakon keresztül próbál már letöltõdni a számítógépekre.
+
+A Haute Secure nem csak a közösségtõl, vagy a Google-tõl gyûjtött adatokra, beszerzett problémás linkekre támaszkodik, hanem védelme heurisztikus keresõt is alkalmaz, és a tévesen pozitívnak jelzett weboldalakkal is kiemelten foglalkozik, gyorsan eltávolítja adatbázisából. Az Opera felhasználók választhatnak majd, hogy részt vesznek a közösség munkájában, segítik-e visszajelzéseikkel a kártékony programok keresését.

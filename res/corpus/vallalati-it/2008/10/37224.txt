@@ -1,0 +1,29 @@
+A Nokia komolyan számol a Symbiannal
+
+[eWeek/HWSW] A világ vezetõ mobiltelefongyártója, a Nokia tegnap a londoni  Symbian Smartphone Show-n hozta nyilvánosságra a Symbiannal kapcsolatos termékterveit. A finn gyártó egy nem túl alapos, inkább iránymutató beszámolót adott arról, hogy mik a tervei a következõ években a nemrégiben megszerzett Symbian technológiákkal.
+
+
+
+Nyitás
+
+A tervek szerint egy nyílt forráskódú Symbian Alapítványt hoznak létre, amivel táplálni és gyorsítani szeretnék a fejlesztéseket. A cél, hogy a jelenleg is vezetõ okostelefonokhoz szánt operációs rendszer a 46 százalékos részesedését tovább növelje legalább 60 százalékra -- mondták a Nokia képviselõi.
+
+"Reméljük, hogy az akvizíciós folyamatokat teljesen le tudjuk zárni idén év végéig, jövõ év elsõ felében pedig már elindíthatjuk a Symbian Alapítványt" -- nyilatkozta David Rivas, a Nokia S60 platformért felelõs elnökhelyettese. A Symbian operációs rendszer, az S60, az UIQ (User Interface Quartz) és a MOAP (Mobile Oriented Applications Platform) szoftver fél éven belül az alapítvány fennhatósága alá kerül, s a forráskódokat elérhetõvé teszik minden tagnak. 
+
+A Windows drága, az Android meg még gyerek
+
+A tervek szerint az elsõ közös platformmegoldások 2009-ben látnak majd napvilágot, sõt, két éven belül teljesen nyílt forráskódúvá teszik a platform elemeit. A Nokiának többek szerint nincs is más választása, hiszen a Symbian piacvezetõ pozícióját a közeljövõben komolyan veszélyeztethetik a Linux-alapú nyílt rendszerek, mint a Google Android, de a szoftverfejlesztés alapvetõ gazdasági szempontjai egyébként is a nyílt rendszerek felé vezetik a szereplõket.
+
+Díszes társaság 
+
+"Az elnök-vezérigazgatónk azt kérdezi tõlünk, hogy miért költünk egy rakat pénzt a Symbianra, ha utána csak úgy kiadjuk a kezeink közül?" -- kezdi Rivas. "A nyílt forráskódra alapozott alapítványt azért hozzuk létre, hogy ezen keresztül terjesszük és menedzseljük a Symbian OS-t és a telefonjainkban használt S60 szoftvert, de a szervezet eközben valóban nyitott, és bárki, aki csatlakozni akar, az szabadon bejöhet és használhatja a kódjainkat."
+
+Példaként a japán NTT Docomot említik: a Symbian jelenleg a piac 46 százalékát fedi le, de ha a japán gyártóval a Symbian Alapítvány ernyõje alatt kötnek egyezséget, akkor együtt máris 60 százalékot érnek el. Piacvezetõként pedig megvan a lehetõségük, hogy alakítsák a technológiai igényeket és az értékeket. Ha szétnéznek a piacon, akkor pedig azt látják, hogy rajtuk kívül két szereplõ van, a Windows Mobile és az Android akikkel számolni kell. A Windows jogdíjas, zárt rendszer, de elterjedt és univerzális, míg az Android szabad szoftvereken alapul, viszont jelenleg gyerekcipõben jár még és csak egy készüléken elérhetõ. Eközben a Symbian ötvözi az elõnyöket, hiszen kifejlett és szabad is egyben, igaz technológiailag fejlõdnie kell.
+
+Nagy nevek, nagy számok
+
+
+A Symbian Alapítványhoz való csatlakozás díja mindössze 1500 dollár lesz, de nem ebbõl finanszírozzák természetesen, hanem a részt vevõ OEM gyártók hozzájárulásaiból. A 10 alapító tag között ott van a Nokia, Sony Ericsson, Samsung, LG, Vodafone, AT&T NTT Docomo, Texas Instruments és az ST-NXP Wireless is. A közös vállalkozás során 40 milliónál több sornyi programkód válik szabad forrásúvá, s ezt a folyamatot a szereplõk mindegyike gyorsítani szeretné. 
+
+A Nokia természetesen szeretné, ha az alapítvány tagjai mindinkább szabványként kezelnék a Symbian OS-t és az S60-at, ahelyett, hogy szétaprózott, különbözõ megoldásokban gondolkodnának.
+Rivas kiemelte, hogy az alapítvány által befogott cégekkel hét készülékgyártó, 225 millió mobil eszköz, 250 modelltípus, 250 szolgáltató, több tízezer alkalmazás és 4 millió fejlesztõ ereje és támogatása egyesül.

@@ -1,0 +1,16 @@
+Internetelérés nélkül is használható lesz a Google Dokumentumok
+
+A Google Blogoscoped bejegyzése szerint már élesben is teszteli a Google Gearsszel megbolondított online dokumentumkezelõt a keresõóriás. A Google Gears tavaly május óta elérhetõ a fejlesztõk számára, a beépülõ böngészõmodulok egyes szolgáltatásokat internetkapcsolat nélkül is elérhetõvé tesznek.
+
+
+
+A Google Gears gyakorlatilag egy plugin a legismertebb böngészõkhöz, amely JavaScript API-k segítségével biztosítja az adatok cache-elését, valamint a webalkalmazások mûködéséhez szükséges erõforrások lokális tárolását. Természetesen ez azt jelenti, hogy a webalkalmazások fejlesztõinek módosítaniuk kell a programjaikat, ha azt szeretnék, hogy kapcsolat nélkül is mûködjenek.
+
+A Google hírolvasója, a Google Reader már használja ezt a bõvítményt, így egyetlen gombnyomással szinkronizálhatjuk a böngészõnkbe a friss híreket, melyeket ezután internetkapcsolat nélkül is olvasgathatunk. A Google Dokumentumok jelenleg csak élõ internetkapcsolattal használható, ezen változtatna a Google Gears implementációja.
+
+
+A blogbejegyzés szerint egyelõre csak a szöveges dokumentumoknál érhetik el egyes felhasználók ezt a béta funkciót, hasznát pedig azok vehetik, akik szívesen írják anyagaikat az online, bárhonnan elérhetõ, másokkal megosztható dokumentumokba.
+
+Kép: Google Blogoscoped
+
+A kapcsolat nélküli üzemmód olyankor jöhet jól, amikor bizonytalan az internetkapcsolat -- például vonaton utazva --, vagy éppen nagyon drága, ilyen lehet egy mobil adatroaming. Az offline, internetkapcsolat nélkül megírt anyag késõbb pillanatok alatt szinkonizálódik a Google kiszolgálóival. A Google Gears az Internet Explorer 6 vagy újabb, illetve Firefox 1.5 vagy újabb böngészõket támogatja Windows, Linux vagy Mac OS X operációs rendszeren.

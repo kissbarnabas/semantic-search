@@ -1,0 +1,32 @@
+Népnevelõ iWiW-alkalmazások
+
+A múlt heti dizájnváltás után ma hajnaltól éles üzemben elindult az iWiW minialkalmazások elsõ csoportja. A premierre 26 alkalmazás készült el -- ebbõl 5-6 darab az Origo saját fejlesztése.
+
+
+
+Öröm, boldogság
+
+A tegnapi díjkiosztóval zárult alkalmazásfejlesztõi versenyre összesen 50 nevezés érkezett. Tíz munkát technológiai okok miatt ki kellett zárni de ezzel együtt is látszik, hogy már az indulás pillanatában több tucat alkalmazás áll készen vagy majdnem készen arra, hogy harcba szálljon a felhasználók kegyeiért. Az Origo Zrt. munkatársaitól úgy tudjuk, hogy eddig több mint 3000 felhasználó regisztrált a dev.iwiw.hu fejlesztõi oldalon, bár ennek nagyobb részét az érdeklõdõk teszik ki, de közel 300 regisztrációt követett valamilyen programozói munka, ennyien töltöttek fel legalább egy tesztfájlt.
+
+Szabó Márton, az Origo Zrt. külsõ tanácsadója a bemutatkozó rendezvényen kiemelten fontos fejlesztésnek titulálta az alkalmazások megjelenését az iWiW életében. Szerinte "példátlan a magyar internet történetében, hogy el tud kezdõdni egy együttmûködés az Origo, az iWiW, a fejlesztõk és a közösség között." A versennyel motiválni akarták a hazai fejlesztõket, s egyúttal bebizonyítani, hogy itthonra is érdemes fejleszteni és nem feltétlenül csak a nagy nemzetközi platformok vihetnek sikerre egy ötletet.
+
+Kevés-e az 50 induló?
+
+Az 50 nevezett alkalmazás nem túl sok még akkor sem, ha figyelembe vesszük, hogy Magyarországon mennyien interneteznek. Ma mindössze 26 alkalmazás indult el, s ezek között is van néhány, ami nincs teljesen kész, a többi fejlesztõ pedig a határidõ lejártáig még abba a fázisba sem ért el, amikor már bátran mutatnák meg mûvüket a népnek. A jelentkezõk számát az tarthatta alacsonyan, hogy egy itthon teljesen új technológiáról van szó, a megszokottól eltérõ módon kell fejleszteni, új szabványt kellett elsajátítani, az pedig idõbe telhet, mire több programozó felveszi a ritmust. A következõ hetek és hónapok alatt bizonyára számos hibajavítás és új alkalmazás megjelenése várható.
+
+A legtöbb alkalmazás más szolgáltatások integrálását veszi célba, szintén sok program próbál valamilyen eredendõ problémát funkcionálisan megoldani, és természetesen induláskor is látszik, hogy az online játékok és az önkifejezésre alkalmas eszközök a Facebook után az iWiW-en is hódítani fognak. A fejlesztõi versenyen három gyõztest hirdettek, akik a kiírás szerint a "legizgalmasabb" alkalmazásokat készítették. Az elbírálás szempontjai között a legfontosabb az volt, hogy ki mennyire innovatív, mennyire használja ki a rendelkezésre álló lehetõségeket, illetve jól néz-e ki. A gyõztesek közé Pfenninberger Ádám "Egymás szemében" alkalmazása, Körmendi Gergely "iWorld" nevû virtuális világa és Kispál István "Petfarm" nevû tamagochi-programja került.
+
+
+Sajnos egyik díjnyertes szoftver sem illeszkedik az iWiW-dizájnba, elütnek attól. Az iWorld ráadásul egy teljesképernyõs Flash-alkalmazás, ami akár lehetne egy különálló webes szolgáltatás is, az iWiW-integrációjának mindössze a 2,6 millió felhasználó az elõnye. Az Origo Zrt. saját fejlesztéseivel szinte biztosra ment, ezért is készült el egy Focidrukker alkalmazás is, amelynek célja a közösségi aktivitás növelése.
+
+Hajrá, dev.iwiw, hajrá fejlesztõk!
+
+Korábban az iWiW vezetõi határozottan állították, hogy a Facebook nem jelent veszélyt a hazai közösségi oldalra, hiszen nem magyar nyelvû,  teljesen más felépítésû, harmadrészt kevesen használják itthonról. Ez a három érv azóta összedõlt, s látni kell, hogy a fiatal korosztály számára szinte elsõdleges közösségi kommunikációs csatornává lépett elõ. A középkorúak és az idõsebbek, vagy a nem számítógéppel dolgozó, irodai, vállalati munkát végzõk körében persze továbbra is dívik az iWiW-használat, de õk aligha megosztani, közösségi kommunikálni vagy órákon keresztül Flash-játékozni szeretnének, számukra az iWiW alighanem ezek után is csak telefonkönyv és hirdetõoszlop marad.  
+
+A fejlesztõk lelkesedése viszont becsülendõ, nagyon sokan nagyon keményen dolgoztak. Elsõre az iWiW-alkalmazások kicsit sárgának, kicsit savanyúnak tûnnek (de mind a miénk), valójában viszont ezzel létrejött egy igazi webes alkalmazásplatform, amivel el lehet érni a magyar internetezõket, köztük azokat is, akiket más web 2.0-ás felületen keresztül sosem. Elõfordulhat, hogy pont a legegyszerûbb alkalmazás lesz a legnépszerûbb, de a lényeg az, hogy sok felhasználónak ez lesz élete elsõ ilyen élménye, amit kedvezõ tapasztalatok esetén továbbiak követhetnek. 
+
+Ha mindenki látja majd, hogy a barátai nem CD-rõl, hanem a Last.fm-en keresztül hallgatják a zenét, akkor talán többen nézik meg a tematikus közösségi szolgáltatások gyöngyét is. Ha Focidrukkeren lekattingatnak ezt-azt az emberek, híreket küldenek, fórumoznak, csetelnek a meccs alatt, akkor késõbb talán sûrûbben olvasnak online és máskor is a közösség segítségét kérik.
+
+Megjött az új tananyag
+
+Általánosságban mondva az iWiW egy népiskola, melybe megérkezett az új tananyag. Tudjuk, hogy a piac és a kínálat szempontjából elmarad a csúcstól, de mindig azt mondják, hogy aki nem ért hozzá, tanítja. A Facebook hazai sikeréhez is kellett az iWiW-es alapképzés, a mostani iWiW-alkalmazások pedig milliónyi embert indíthatnak el az eddig kizárólag geekek által uralt webkettes világ felé vezetõ úton. Az iWiW-alkalmazások közül a bonyolultak elhullhatnak, az egyszerû, egyértelmû darabok pedig mennybe mehetnek, de a jelenlegi felhozatalt látva erre még várni kell egy keveset -- meg arra is, hogy betöltõdjön végre a túlterhelt oldal. 

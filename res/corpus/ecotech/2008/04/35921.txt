@@ -1,0 +1,19 @@
+Adatbázispiac: továbbra is élen az Oracle
+
+Az IDC nyilvánosságra hozta a relációs adatbázispiacról készült tavalyi jelentését, amely szerint továbbra is az Oracle áll az gyártói rangsor élén. A relációs adatbázispiac tavaly 12,1 százalékkal 18,6 milliárd dollárra bõvült
+
+
+
+Az Oracle tavaly 13 százalékos növekedés után 8,2 milliárd dollár bevételt ért el az adatbázispiacon az IDC szerint, amivel 44,1 százalékos részesedést szerzett. 2006-ban még csak az eladások 43,7 százalékát tartotta kézben az Oracle. A második helyen álló IBM 13,3 százalékkal növelte adatbázis-eladásait, a 3,95 milliárdos bevétel 21,3 százalékos piaci részesedés megszerzéséhez volt elég. Meglepetésre a legnagyobbak közül a Microsoft növekedett a legkisebb ütemben, a 11,2 százalékos forgalmi bõvülés 18,3 százalékos részesedés megszerzéséhez volt elég. A Microsoft 2006-ban 25 százalékos növekedést könyvelhetett el.
+
+
+ A redmondi vállalat 2005 novemberében adta ki az évek óta várt SQL Server 2005-öt, amelyre a vásárlók valósággal rávetették magukat, ennek köszönhetõ a 2006-ban elért 25 százalékos növekedés. A 2007-ben 11,2 százalékra visszaesõ növekedés pedig alighanem már az SQL Server 2008 érkezésének elõszele volt, az ügyfelek egy része alighanem elhalasztotta a vásárlást, hogy megvárja az idén érkezõ 2008-as verziót.
+
+Az adatbázis-piacon egyre kevesebb a "zöldmezõs beruházás", az eladások jelentõs részét az extrák adják -- mondta Mosolygó Ferenc, az Oracle értékesítési konzulense. Az IDC jelentése szerint a gyártók közötti versenyben egyre nagyobb szerepet kapnak az ilyen kiegészítõk, mint amilyen például az Oracle Database Vault, az Audit Vault, vagy a Real Application Cluster. "Ahhoz képest, hogy az Oracle 11g egy teljesen új verzió volt, szokatlanul gyorsan vezették be, valószínûleg az új szolgáltatások miatt" -- olvasható az IDC jelentésében.
+
+[+] 
+Megjelent az Oracle Database 11g 
+
+Mosolygó szerint az Oracle terjedésének nagy lökést adott, hogy a vállalat a tavalyi év során módosította árazási strarégiáját, amely már nem processzormagokat, hanem socketeket vesz alapul a licencelésnél. A legfontosabb fejemény, hogy a felhasználók ezzel már négyprocesszoros gépeken is futtathatják az Oracle Standard Edition változatokat, a Standard Edition One esetében a felsõ határ pedig két processzor, függetlenül a processzormagok számától, vagyis ezekben az esetekben az árazás foglalatok alapján történik. Lapunknak Mosolygó elmondta, a változás révén  az Oracle ár-érték aránya sokat javult a versenytársakkal szemben. 
+
+Az IDC tavalyi adatbázispiaci jelentésében a gyártók rangsorában a negyedik helyet a Teradata szerezte meg 10 százalékos növekedéssel, az ötödik pedig a Sybase lett, amely 9 százalékos növekedésének jelentõs részét köszönheti a Sybase IQ-nak.

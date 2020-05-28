@@ -1,0 +1,16 @@
+Kartell-ügy: peren kívüli egyezséget kötött az NVIDIA
+
+Peren kívüli megegyezéssel zárta le az ellene indult polgári kartellpert az NVIDIA. A vállalat megegyezett a felperesekkel, és egy pénzalapot hozott létre a késõbbi kárigénylõk számára is -- melynek felét reményei szerint az AMD állja majd. Az NVIDIA és az azóta az AMD által felvásárolt ATI ugyanis a jelek szerint hosszú éveken keresztül összejátszott a grafikus chipek piacán, megkárosítva ezzel a vevõket.
+
+
+
+Az amerikai Értékpapír- és Tõzsdefelügyeletének benyújtott dokumentum alapján az NVIDIA 112 500 dollárt fizet a felpereseknek azért, hogy elálljanak minden további kártérítési követeléstõl, valamint 850 ezer dollárt különít el egy 1,7 millió dolláros alapba, melybõl a további igénylõket fizetnék ki -- az alap másik felét várhatóan az AMD tölti majd fel. A megállapodás bírósági jóváhagyásra vár.
+
+A vádat a felperesek, melyek közt magánszemélyek és kisebb számítástechnikai cégek is találhatóak, piaci adatokra alapozták: a feltételezett összejátszás elõtti, az összejátszás alatti, majd utáni piaci árakkal és termékindítási idõpontokkal érvelnek. A vádirat szerint ezen idõszakok határozottan elkülöníthetõek egymástól: az ATI és az NVIDIA éles versenyt folytatott a az újabb és újabb fejlesztések piacra dobásában és az árak meghatározásában, ami látványos különbségekhez vezetett. Ezek a különbségek aztán hirtelen eltûntek, állítják a felperesek, a termékbemutatások és árak is szinkronba kerültek -- majd a DoJ idézéseit követõen ismét visszatért a piac a régi kerékvágásba.
+
+A polgári vád jól megalapozottnak tûnt: a feltételezett idõszakban, 2003-tól 2006 végéig nem kevesebb mint tizenegy olyan alkalom volt, mikor a két vállalat azonos áron, legtöbbször néhány nap különbséggel indította útjára adott szegmensbe szánt termékeit. Az ezt megelõzõ hat évben egyik sem volt jellemzõ, az árkülönbség átlagosan 117 dollárra rúgott az amerikai piacon, és fél-egy éves eltérések voltak a piaci premierekben. A összejátszás kezdete ez alapján a GeForce FX 5600 és Radeon 9600 megjelenésére tehetõ, és a GeForce 8800 GTX piacra kerülésével ért véget -- ennek eredményét tudjuk, az NVIDIA letarolta az asztali és professzionális piacot, és nagyjából a bõvítõkártyás piaci volumen 66 százalékát szerezte meg, de teljesítményéhes területeken ez a mutató 80-90 százalék fölé is szökött.
+
+
+Az NVIDIA ezzel bár megvásárolta a felperesek hallgatását magának, ezzel valószínûleg koránt sincs vége a történetnek -- sõt, muníciót adhat a hatósági nyomozóknak. A polgári peranyag ugyanis nagyban építkezett egy más régóta folyamatban lévõ hivatali vizsgálatra, melyet az Egyesült Államok Igazságügyi Minisztériuma (DoJ,  Department of Justice) kezdeményezett még 2006 végén. A DoJ ugyanis megalapozottnak látta a gyanút, hogy korábban összehangolta árazását és termékfejlesztéseit az NVIDIA és az akkor még önálló ATI Technologies.
+
+A hivatal nyomozása továbbra is folyamatban van, egyelõre vádemelés vagy büntetõítélet nélkül. A bizonyítékgyûjtés és jogi procedúrák lassú volta miatt jellemzõen csak az illegális tevékenységet évekkel követõen születnek meg az ítéletek. A DoJ korábban kartellt állapított meg a DRAM-iparban, amiért 731 millió dollár bírságot szabott ki, és több vezetõt is börtönbüntetésre ítélt. Jelenleg a NAND-flash és a TFT-LCD iparban is vizsgálatokat folytat.

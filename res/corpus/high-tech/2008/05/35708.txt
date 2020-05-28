@@ -1,0 +1,14 @@
+Csináld magad SSD-meghajtó Compact Flash kártyákból a Centurytól
+
+A flashmemóriás SSD-meghajtók lázban tartják a tárolópiacot, sorra érkeznek az olcsóbb, illetve a drágább, de gyorsabb megoldások. A Century olyan megoldással rukkolt elõ, amely hagyományos Compact Flash kártyák segítségével ad fejektõl és lemezektõl mentes tárolóalternatívát.
+
+
+
+A Century "csináld magad" SSD meghajtója egy olyan adapter, amely Compact Flash kártyákat fogad, ezekbõl akár hármat is. Az adapterbe illeszthetõ flashkártyák nem tartozékok, ezeket külön kell beszerezni. A gyártó felhívja a figyelmet, hogy több CF kártya alkalmazásakor a leglassabb modell hatással van a többi sebességére, ezért érdemes azonos típusú, gyors kártyákat használni.
+
+
+Az adapter kapacitása a behelyezett kártyák méretétõl és a pénztárca vastagságától függ, elméleti maximuma két terabájt. Abban az esetben, ha a kapacitás mellett az adatbiztonságra is nagy hangsúlyt fektet a vásárló, akár RAID tömböket is konfigurálhat, melyek közül a RAID 0 megoldás nagyobb kapacitást és sebességet, a RAID 5 pedig nagyobb biztonságot ígér.
+
+
+
+A legnagyobb teljesítmény érdekében célszerû egyazon gyártótól származó gyors, (legalább 20 megabájt/s-os) Compact Flash kártyát használni, melyeknél inkább a sebesség legyen elsõdleges választási szempont, mint a kapacitás. A termék SATA és párhuzamos ATA illesztékkel egyaránt megvásárolható, ára 190 dollár alatt van. A megoldás nem újkeletû, már több éve lehet kapni olyan adaptereket, amelyek egy CF kártyát képesek a merevlemezvezérlõhöz csatlakoztatni. Az SSD õrület csak egy ok, hogy ezekrõl letörölhessük a port.

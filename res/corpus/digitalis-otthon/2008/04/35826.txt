@@ -1,0 +1,12 @@
+Nem lesz otthoni Linux-disztribúciója a Red Hatnek
+
+Végleg lemondott egy fogyasztói destop Linux-disztibúció kiadásáról a Red Hat. A világ legnagyobb Linux-disztribútora azzal indokolta a döntést, hogy egy ilyen termék iránt nincs fizetõképes kereslet, így a belátható jövõben nem is dobnak piacra ilyet.
+
+
+
+A vállalat weboldalán olvasható írás szerint ugyan egyre több felhasználó fedezi fel és használja a Linuxot a Windows alternatívájaként az asztali gépeken, életképes üzleti modellt felépíteni az asztali Linux köré rendkívül nehéz -- az eddigi próbálkozások rendre kudarcot vallottak, vagy "jótékonysági intézményként" mûködnek. A vállalati felhasználóknak szánt Red Hat Enterprise Linux asztali változata, a Fedora közösségi disztibúció, valamint a fejlõdõ országoknak szánt Red Hat Global Desktop továbbra is megmarad a cég fókuszában.
+
+
+ Elemzõk szerint semmi meglepõ nincs a Red Hat döntésében, jelen körülmények között valóban nehezen lenne indokolható egy kimondottan otthoni felhasználásra szánt Linux-disztribúció fejlesztése és karbantartása, egyáltalán nem látszik a piaci igény egy ilyen termékre. Számtalan ingyenes disztribúció létezik otthoni felhasználásra (ilyen a Fedora is, vagy az egyre népszerûbb Ubuntu), a Red Hat jogosan teszi fel a kérdést: ki venne olyat, amiért fizetni kell? 
+
+Noha a linuxos cégek minden évben megfogadják, hogy "az idei az asztali Linux éve lesz", a különféle weboldalak látogatottsági adatai alapján a szabad operációs rendszer részesedése desktop-oldalon az 1 százalékot sem éri el. A kirowski által az év elején elkészített, több mint egymillió PC adataira épülõ Techstat felmérés szerint Magyarországon 0,6 százalék a Linux aránya a PC-ken.

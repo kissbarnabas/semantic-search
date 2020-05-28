@@ -1,0 +1,14 @@
+Az Oracle-adminisztrátorok csak jelentõs késéssel telepítik a frissítéseket
+
+Az Oracle-felhasználók jelentõs része csak jókora késéssel telepíti a kritikus biztonsági frissítéseket -- derül ki az Oracle és az Independent Oracle Users Group által elvégzett felmérésbõl. A cégek negyedénél nincs semmiféle elõírás a patchelésre.
+
+
+
+Meglepõ eredményekre jutott az Oracle és az Independent Oracle Users Group által elvégeztetett felmérés, amely több mint 150 szervezetnél vizsgálta az Oracle-termékek biztonsági frissítésére vonatkozó gyakorlatokat. Amint az ismert, a cég negyedévente adja ki biztonsági javítócsomagjait, azonban csak a megkérdezettek 26 százaléka nyilatkozott úgy, hogy ezeket minden rendszerre telepítik, 6 százalék csak a kritikus rendszerekre installálja õket, 32 százaléknál az adminisztrátornak költség-haszon elemzést kell végeznie a patch telepítése elõtt, a válaszadók 26 százalékánál pedig semmiféle elõírás nincs arra nézve, hogyan kell eljárni.
+
+
+ A felmérésbõl az is kiderül, az Oracle-felhasználóknak csak kevesebb mint harmada telepíti a biztonsági javításokat még azelõtt, hogy a következõ csomag megjelenne. A válaszadók negyede egy ciklussal, további 26 százaléka pedig 2-4 ciklussal le van maradva a frissítések telepítésében, utóbbi azt jelenti, hogy az általuk használt Oracle-alkalmazások a patch megjelenése után fél-egy évig még sérülékenyek maradnak. A megkérdezettek 11 százaléka egyáltalán nem telepíti az Oracle által kiadott javításokat.
+
+ Mosolygó Ferenc, az Oracle vezetõ technológiai tanácsadója a frissítésekkel kapcsolatos késlekedések egyik lehetséges okaként a hamis bizontságérzetet nevezte meg. Az Oracle adatbázisai és alkalmazásai a vállalati infrastruktúra magjában, a tûzfalon belül mûködnek, ezért a legtöbben nem tekintik õket sebezhetõnek, pedig az összes elérhetõ statisztika azt mutatja, hogy a támadások túlnyomó többsége a szervezeten belülre vezethetõ vissza. A válaszadók 16 százaléka állította, azért nem telepíti sûrûbben a patcheket, mert egyáltalán nem érzi veszélyben az adokat.
+
+Mosolygó Ferenc szerint a másik ok a kiterjedt tesztelési igény, amelyre szükség vanminden javítás telepítése elõtt. A változások életbe léptetésére igen szigorú házirendet kell kidolgozni és azt minden körülmények között be is kell tartani. Ez persze nem csak az Oracle szoftvereivel van így, az ügyfélkapu februári üzemzavarát is részben a nem elég körültekintõ tesztelés okozta. A javítások éles üzembe állítása elõtti tesztelés egyes szervezeteknél akár heteket, néha hónapokat is igénybe vehet. A felmérés szerint az Oracle-adminisztrátorok ki vannak éhezve olyan eszközökre, amelyek a kritikus hibajavítások tesztelését és telepítését támogatják.

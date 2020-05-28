@@ -1,0 +1,79 @@
+A válság és az erõs dollár is az IBM ellen dolgozott
+
+A nagyobb nyereségtartalmú tevékenységek, azaz a szolgáltatások és a
+szoftverértékesítés felé való folyamatos eltolódás miatt az IBM nettó
+profitja csupán 1 százalékkal csökkent az elsõ negyedévben, a forgalom
+11 százalékos eróziója mellett. A bevételcsökkenés részben a dollár
+erõsödésének köszönhetõ, az árfolyamhatás kiszûrésével az IBM forgalma
+mindössze 4 százalékkal csökkent. A törzsrészvények folyamatos
+visszavásárlása miatt az egy részvényegységre jutó eredmény 4
+százalékkal 1,70 dollárra javult.
+
+Szoftver és szolgáltatás igen, hardver nem
+
+Mindhárom üzletág forgalma esett. A 21,7 milliárd dolláros forgalom
+több mint felét adó Global Services részleg bevétele 10 százalékkal
+13,2 milliárd dollárra esett, mind a technológia, mind az üzleti
+szolgáltatások oldalán, ez azonban szinte teljes egészében az
+árfolyamhatásnak tudható be. A negyedév során megkötött szolgáltatási
+szerzõdések értéke csupán 1 százalékkal volt kevesebb mint egy évvel
+korábban, változatlan árfolyamon ez 10 százalékos bõvülést jelent. A
+hosszú távú megállapodások értéke 14 százalékkal bõvült az elsõ
+negyedévben. Az IBM összesen 126 milliárd dollár értékû szolgáltatási
+szerzõdésállománnyal zárta a negyedévet, ez 4 milliárd dollárral
+kevesebb mint egy évvel korábban.
+
+A szoftverüzletág forgalma 6 százalékkal 4,5 milliárd dollárra
+csökkent, változatlan árfolyamon számolva azonban 2 százalékos
+bõvülésrõl beszélhetünk. A köztesszoftverek értékesítésébõl származó
+bevétel 5 százalékkal, az operációs rendszerek eladásai pedig 7
+százalékkal estek a tavalyi elsõ negyedévhez képest. Üdítõ kivételt
+jelent a Rational termékcsalád, a fejlesztõi eszközök forgalma 9
+százalékkal erõsödött, jól teljesítettek még a WebSphere termékek is,
+amelyek eladásai 5 százalékkal múlták felül a tavalyi elsõ negyedév
+szintjét. A szoftverüzletág leggyengébb teljesítményét nem nagy
+meglepetésre a Lotus termékcsalád mutatta fel, amelynek forgalma egy év
+alatt 12 százalékkal csökkent.
+
+Kiválóan mutatja be az informatikai piac helyzetét a hardverrészleg.
+A recesszió miatt a szerver- és storage-vásárlók egyaránt behúzták a
+kéziféket, ami az IBM teljesítményén is tetten érhetõ. A hardverdivízió
+forgalma éves szinten 23 százalékkal csökkent, a szervereladások 22
+százalékkal, a tárolóeszközök 20 százalékkal teljesítettek gyengébben
+mint egy éve. A legjobb teljesítményt a System p kiszolgálók mutatták
+fel, ezek forgalma csak 2 százalékkal csökkent, a System z mainframe-ek
+bevétele 19 százalékkal esett -- a leszállított számítási kapacitás
+eközben 18 százalékkal bõvült. Az árprés és a recesszió együttes
+hatására az x86-os kiszolgálók forgalma 27 százalékkal zuhant egy év
+alatt. A félvezetõgyártással foglalkozó Microelectronics részleg 36
+százalékkal kevesebb bevételt ért el mint tavaly.
+
+Merre tovább?
+
+"Az IBM a nagyon kemény gazdasági körülmények között is jól
+teljesített" -- értékelte vállalata teljesítményét Sam Palmisano
+elnök-vezérigazgató. "Ez a hosszú távú stratégiai fókuszváltásnak
+köszönhetõ: a szoftverekre és szolgáltatásokra koncentrálunk,
+megszabadulunk a tömegtermékektõl és olyan megoldásokat kínálunk
+ügyfeleinknek, amelyek segítik õket a költségek csökkentésében és a
+tõkéjük megõrzésében. Ugyanakkor fegyelmezetten kontrolláljuk a
+költségeket és kiadásokat, ennek köszönhetõen pénzügyi helyzetünk erõs."
+
+ Az elemzõk részére rendezett konferenciahíváson természetesen szó
+esett az Oracle és a Sun házasságáról is. Amint arról a HWSW is
+beszámolt, a Sun korábban az IBM-mel tárgyalt, azonban a megegyezés nem
+jött létre. Mark Loughridge, az IBM pénzügyi vezére nem kommentálta az
+Oracle-Sun ügyletet, azonban közölte, hogy vállalatának nem jelent majd
+gondot a Sunt beolvasztó Oracle-lel versenyezni -- a Nagy Kék jelenleg
+is potens szoftverportfólióval rendelkezik, azonban a Cognos
+megoldásait leszámítva teljesen hiányoznak a kínálatából az üzleti
+szoftverek.
+
+Az Oracle és a Sun házassága agresszív terjeszkedést válthat ki az
+IBM-bõl a vállalati alkalmazások területén, ésszerû lépés lehet az
+Infor vagy az Epicor felvásárlása, azonban ha az IBM egybõl a
+legnagyobb vállalatokat is meg kívánja célozni, nem marad más hátra, az
+SAP-t kell lenyelnie. Loughridge elmondása szerint a Nagy Kék 12
+milliárd dolláros készpénzállománnyal rendelkezik és további
+akvizíciókra készül. "Számos lehetõséget megvizsgálunk" -- mondta az
+IBM pénzügyi vezére.

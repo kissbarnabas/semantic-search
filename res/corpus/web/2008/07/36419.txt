@@ -1,0 +1,13 @@
+Word-sebezhetõségre figyelmeztet a Symantec
+
+Egy eddig nem dokumentált Word-sebezhetõséget kihasználó támadások terjedésére figyelmeztet a Symantec. A biztonsági cég egyelõre szinte semmilyen részletet nem hozott nyilvánosságra a sérülékenységrõl, 
+
+
+
+
+A Symantec ismeretei szerint a támadók elõre preparált Word állományok segítségével egy billentyûfigyelõ trójait (Backdoor.Darkmoon) csempésznek az áldozatok gépeire, ahonnan aztán jelszavakat és egyéb érzékeny adatokat lopnak el. Hogy a Word mely része sérülékeny és a támadást pontosan hogyan hajtják végre, egyelõre nem tudni -- a Symantec folyamatosan egyeztet a Microsofttal a hibáról. A Microsoft megerõsítette, hogy vizsgálják a problémát, és azt is, hogy már léteznek ezt kihasználó támadások. A redmondiak szerint csak a Office Word 2002 Service Pack 3 érintett.  
+
+
+ A héten ez a második sebezhetõség, ami a Microsoft termékeivel kapcsolatban nyilvánosságra kerül. Hétfõn maga a Microsoft adott ki biztonsági figyelmeztetést, amely az Internet Explorer egyik ActiveX-vezérlõjét (Snapshot Viewer for Microsoft Access) érinti. A sebezhetõséget kihasználva a támadók tetszõleges kódot futtathatnak az áldozat gépén, például kártevõt telepíthetnek vagy adatokat lophatnak el, és ehhez elég egy kártékony kódot letöltõ weboldalra irányítani a felhasználót.  
+
+Ma már a patch-kedd mintájára elhíresült elnevezés lett a zero-day szerda, miután gyakran megesik, hogy éppen a havonta szokásos frissítések kiadása után derül fény egy-egy sebezhetõségre a Microsoft termékeiben. A redmondiak tegnap összesen négy kritikus biztonsági rést foltozott be a Windows különféle változataiban, de az Office-hoz nem érkezett javítás.

@@ -1,0 +1,22 @@
+Ma jelenik meg a Windows Vista SP1
+
+Sajtóértesülések szerint ma érkezik a Windows Vista elsõ javítócsomagjának végleges változata, amelyet elõször csak a Microsoft által támogatott ött "fõ" nyelven (angol, német, spanyol, francia, japán) lehet letölteni, de pár héten belül a lokalizált változatok is elérhetõk lesznek. A Vista SP1-gyel egyidõben a régóta várt Windows Server 2008 is gyártásba megy.
+
+
+
+Végre!
+
+A Vista SP1-ben fõképp hibajavítások és a teljesítményt fokozni hivatott finomítások kapnak majd helyet. A javítócsomagban érkezik néhány új funkció is, a BitLocker például már képes lesz több meghajtót is titkosítani, illetve változások történtek az asztali keresõben is. A Vista SP1 megnehezítheti -- egy kis idõre -- a kalózok dolgát is, olyan kódok kaptak helyet a csomagban, amelyek kivédik a legnépszerûbb aktivációs trükköket.
+
+A Vista SP1-tõl sokat vár a Microsoft, a vállalati felhasználók jó része ugyanis azért nem váltott még a legújabb asztali Windowsra, mert hibáktól tart -- derül ki a CDW által készített felmérésbõl. Az outsourcing-ügyfeleinél több mint 3 ezer PC üzemeltetését végzõ Navigátor Informatikai Zrt. informatikai igazgatója, Boros Péter lapunknak korábban úgy nyilatkozott, "az SP1-gyel reményeink szerint már eléri a Vista azt a szintet, amivel javasolni tudjuk a kritikus vállalati környezetben való felhasználást".
+
+A Microsoft valószínûleg hamarosan megkezdi az SP1-gyel frissített Vista lemezek kiküldését az OEM partnerekhez, amelyek már az új verziót telepíthetik a gépekre, így az üzletekbe kerülõ új PC-ken már a javított operációs rendszer lesz megtalálható. A jelenlegi Vista-felhasználók a Windows Update-en és a Microsoft Update-en keresztül is hozzáférhetnek a csomaghoz, a vállalati felhasználók pedig WSUS-on (Windows Server Update Services) át is frissíthetik a PC-ket.
+
+
+Jó hír a felhasználóknak, hogy a Microsoft ígérete szerint a végleges SP1 sokkal kisebb lesz mint az elõzetes változatok, így a letöltése is gyorsabb és a telepítéséhez sem kell majd akkora szabad lemezterület. Míg az SP1 eddig kiadott elõzetes változatai akár 800 megabájtosak is lehettek és a telepítéshez 1,5 gigabájnál is több hely kellett, a végleges verzió "mindössze" 450-500 megabájt méretû lesz.
+
+Jön a Windows Server 2008 is!
+
+Lapunk úgy tudja, ma este nem csak a végleges Vista SP1-et, hanem a korábbi ígéretéhez híven a Windows Server 2008-at is bejelenti a Microsoft. A szervertermék hivatalos bemutatója február 27-én esedékes Los Angelesben, ahol a Visual Studio 2008-cal és az SQL Server 2008-cal együtt debütál. A magyar premier április közepén várható ismereteink szerint.
+
+A Windows Server 2008 összesen nyolc különféle változatban kerül majd piacra. A Standard (5 klienses licenccel 999 dollár), Enterpise (25 klienssel 3999 dollár) és Datacenter (processzoronként 2999 dollár) verziók megvásárolhatók lesznek Hyper-V technológiával, vagy anélkül, utóbbi esetben az ár 28 dollárral alacsonyabb. Emellett kapható lesz egy szuperolcsó Web Server változat (469 dollár), illetve az Itanium-alapú rendszerekre szabott szoftver (processzoronként 2999 dollár), amely legfeljebb 64 processzormagot támogat. A Windows Server 2008 for Itanium-based Systems csomagot leszámítva az összes változat elérhetõ lesz 32 és 64 bites kivitelben is.

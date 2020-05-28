@@ -1,0 +1,28 @@
+Megfosztotta szerverpiaci trónjától az IBM-et a HP
+
+Letaszította trónjáról a szerverpiacot emberemlékezet óta vezetõ IBM-et a HP, legalábbis a Gartner elsõ negyedéves adatai ezt állítják. Ezt a HP erõs teljesítménye mellett az IBM szerverértékesítésének stagnálása is magyarázza. 
+
+
+
+Robog a ProLiant és az Integrity
+
+A Compaq felvásárlását követõen a HP évek óta a legtöbb szervert értékesíti, de felsõkategóriás RISC és mainframe rendszerei sikerének köszönhetõen az IBM a legnagyobb árbevételt realizáló szerverszállító maradt. Az idei elsõ negyedévben azonban a HP árbevétel alapján is átvette a vezetést, igaz, hajszállal elõzve csak meg a Kék Óriást, statisztikai hibahatáron belül, valamint nem hagyható figyelmen kívül az sem, hogy a két vállalat különbözõ pénzügyi ciklussal dolgozik, így értékesítésük szezonalitása is eltérõ.
+
+Mindezzel együtt is mérföldkõ a HP számára az év elsõ három hónapja során elért eredmény. A Mark Hurd vezetése alatt magát a világ legnagyobb informatikai vállalatává kinövõ HP rekordnagyságú, több mint 4 milliárd dolláros árbevételt könyvelhetett el szerverértékesítésébõl, becsli a Gartner, mely 10,3 százalékkal haladja meg a tavalyit, miközben a piac egésze mindössze 4,3 százalékkal bõvült. Az elsõ negyedévben világszerte 2,27 millió szerver kelt el, 7,6 százalékkal több a tavalyinál, a piac pedig 13,5 milliárd dollár fölé duzzadt.
+
+A piackutató cég szerint a HP a szerverpiac 29,6 százalékát kaparintotta meg, amit ProLiant és az Integrity szervercsaládok eladásainak növekedése magyaráz. A HP jelenléte a piac felsõbb árszegmenseiben erõsödhetett, ugyanis átlagos eladási ára 2,3 százalékkal 5870 dollárra emelkedett a Gartner szerint. A vállalat 7,8 százalékos növekedéssel több mint 680 ezer szervert szállított le a negyedév során, ezzel pedig a volumen 30,1 százalékát tudhatta magáénak. ProLiantjei sikerének köszönhetõen a HP x86-szerverpiaci részesedése bevétel alapján 35,3 százalék, a szállításokból 30,9 százalék.
+
+IBM: nem megy a System x
+
+Az IBM eközben mind árbevétel, mind volumen tekintetében piacrészesedést vesztett, ahogyan növekedése rendre mindössze 2,1 és 2,3 százalékot tett ki. A Nagy Kék 3,9 milliárd dollárt valamivel meghaladó árbevétele 28,9 százalékos, 302 ezer eladott szervere pedig 13,3 százalékos részesedést jelentett. Power Sytem és System z mainframe rendszerei bár erõsen szerepelnek saját szegmenseikben, az IBM láthatóan továbbra is képtelen megfelelõ ütemben bõvíteni a System x gépek szállításait.
+
+
+A vállalat saját bevallása szerint is gyenge jelenléttel bír a piac alsó részeiben, a KKV-szektorban, ami nagyban magyarázhatja x86-os szerverértékesítésének stagnálását. Egy másik problémát jelenthet termékoldalról, hogy a nagyméretû webes klaszterek építéséhez sok olcsó, belépõkategóriás kiszolgálót rendelnek az ügyfelek, ahol az IBM-nek árban kellene megvernie a HP-t vagy a Dellt. 
+
+Agresszív Dell, lassú Sun, gyors Linux
+
+Árbevétel alapján a távoli harmadik helyen a Dell végzett, 12,1 százalékos részesedéssel, miután 6,6 százalékkal 1,64 milliárd dollárra növelte forgalmát. A cég 15,8 százalékkal több szervert értékesített mint egy éve, 516 ezer darabot, ami agresszív árazásra utal. Ezzel a világszerte leszállított szerverekbõl 22,7 százalék volt Dell márkájú. Az x86-os szervereinek köszönhetõen 84 ezer darab fölé növelte volumenét a Sun Microsystems, UltraSPARC és SPARC64 kiszolgálóinak visszaesése miatt az árbevétele azonban enyhén, 0,7 százalékkal 1,32 milliárd dollárra olvadt, ahogyan az x86-os növekedése egyelõre nem tudja ellensúlyozni a SPARC-ok zsugorodását.
+
+A Gartner megjegyzi, a UNIX-szerverek volumene 8,4 százalékkal olvadt, ugyanakkor az árbevétel összességében 3,7 százalékkal emelkedett, ahogyan a közép- és felsõkategóriás rendszerek iránt növekvõ igény mutatkozik a szerverkonszolidációs és kritikus folyamatokat támogató projektek felõl, miközben az alsó-kategóriás gépek piacát erõsen kannibalizálja az x86. Nagyrészt ez magyarázza, hogy a vezetõ öt UNIX-szerverszállító közül egyedül a sok belépõkategóriás SPARC-dobozt értékesítõ Sun Microsystems nem tudta növelni árbevételét.
+
+A leggyorsabban terjedõ platformnak a Linux bizonyult, 13,9 százalékkal több Linux-kiszolgálót szállítottak le a gyártók az egy évvel korábbinál, miközben a Windows 6,8 százalékkal bõvült. A Gartner ugyanakkor leszögezi, hogy a windowsos szerverek több mint kétszeres volumenük miatt abszolút számban egyelõre nagyobb növekedést mutattak fel.

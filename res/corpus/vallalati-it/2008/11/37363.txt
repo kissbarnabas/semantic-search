@@ -1,0 +1,30 @@
+Nyílt forrású szoftver a lelke a Sun új tárolóinak
+
+Új, iSCSI-alapú adattárolási berendezésekkel jelentkezett a Sun Microsystems. A három tagból álló Sun Storage 7000-es sorozat (fejlesztési kódnevén Amber Road) jellemzõje, hogy olcsó, bárki számára elérhetõ alkatrészekbõl áll, a mögöttes intelligenciát pedig nyílt forrású szoftverek biztosítják. A cég szerint ez a megközelítés a nagy teljesítményt és könnyû kezelhetõséget biztosít a versenytárs berendezések árának töredékéért.
+
+
+
+Olcsó hardver, nyílt szoftver
+
+A Sun Storage 7000-es sorozat három tagból áll, a 7110, 7210 és 7410 modellek maximális kapacitása 2, 44, illetve 576 terabájt. A két nagyobb modell merevlemezek mellett akár SSD-kkel is rendelhetõek. A Sun tárolóiban az SSD-k afféle gyorsítótárakként mûködnek a merevlemezek elõtt, a lehetõ leggyorsabb elérés érdekében megõrzik a gyakran olvasott adatokat, illetve átmenetileg tárolják a kiírtakat, mielõtt azokat a szoftver a diszkekre írná. A gyártó szerint ezzel a megközelítéssel sikerült úgy növelni a teljesítményt, hogy az árak nem szabadultak el. 
+
+Az SSD-kkel kiválthatók a méregdrága NVRAM-ok (Non-Volatile RAM), amelyekkel korábban az írási mûveleteket gyorsították. Míg az NVRAM-ok magas áruk miatt még a csúcskategóriás tárolókban is csak korátozott kapacitásban voltak jelen, az SSD-kbõl a Sun Storage 7410-be akár 16 darab 18 gigabájtos is beépíthetõ, ezzel 288 gigabájtnyi villámgyors tár jöhet létre. A SSD-k kedvezõ tulajdonságai, a nagy sebesség és a szinte elhanyagolható fogyasztás lehetõvé teszi a Sun számára, hogy viszonylag lassú, keveset fogyasztó és olcsó merevlemezeket építsen a berendezésekbe, így összességében azonos teljesítmény mellett kevesebbe kerülhetnek és kevesebbet is fogyaszthatnak.
+
+
+ A gépekben lényegében négy rétegben történik az adatok tárolása. Az elsõ réteg a DRAM cache, a második és a harmadik az olvasást és az írást gyorsító SSD-kbõl áll, a negyedik pedig magukból a merevlemezekbõl. Az adatokat a rétegek között a Solaris operációs rendszerbõl és a ZFS fájlrendszerbõl álló szoftver mozgatja intelligensen, felismerve az I/O mintákat. A saját fejlesztésû, nyílt forrású szoftverek alkalmazása szintén olyan tényezõ, ami segít a költségeket csökkenteni.
+
+Zemlye Tamás, a Sun Microsystems hazai leányvállalatának adattárolási
+megoldásokért felelõs vezetõje a HWSW megkeresésére elmondta, a Sun
+Storage 7000-es sorozat tagiait a vállalat általános célú
+adattárolásra ajánlja, elsõsorban nagyméretû médiaállományok (pl.
+képek, videók, zenék) vagy orvosi felvételek kiszolgálására, a család
+erõsebb tagjai azonban akár adatbázisok, adattárházak otthonául is
+szolgálhatnak. Zsemlye emellett kiemelte még a webes alkalmazásokat,
+mint jellemzõ felhasználási területet. A termékek decembertõl lesznek
+kaphatók Magyarországon.
+
+Gyorsan nõ a Sun a tárolópiacon
+
+Az adattárolási berendezések piacára korábban az volt jellemzõ, hogy a gyártók szinte mindent "házon belül" tartottak, maguk fejlesztették a hardvert és a szoftvert egyaránt. Az utóbbi idõben azonban egyre inkább meghatározó trenddé vált az olcsó tömeghardverek használata, az innováció pedig egyre inkább a szoftverek felé tolódott el. Ez egyfelõl alacsonyabb költségeket, másfelõl gyorsabb fejlesztési ciklust eredményez. A Sun erre még rátesz egy lapáttal, a vállalat teljesen nyílt szoftvereket használ, ezzel próbálja magát megkülönböztetni a versenytársaktól és új vevõket toborozni.
+
+A Sun Microsystems legutóbbi, katasztrofális negyedévében pont az adattárolási megoldások jelentették a pénzügyi eredmények egyik üde színfoltját. Miközben a vállalat forgalma 7,1 százalékkal olvadt éves szinten, a veszteség pedig 1,68 milliárd dollárt tett ki (ebbõl 1,45 milliárd dollár értékcsökkenés leírásával kapcsolatos), a tárolási megoldások értékesítésébõl származó bevétel 29 százalékkal emelkedett. A Sun a tárolópiacon forgalom alapján csak a hetedik legnagyobb szereplõ a Gartner második negyedéves adatai szerint, azonban a cég éves szinten több mint 34 százalékos bõvülést produkált, megelõzve ezzel minden vetélytársát.

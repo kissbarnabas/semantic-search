@@ -1,0 +1,12 @@
+Megjelent a StarOffice 9
+
+Nagyjából egy hónappal az OpenOffice.org 3.0 (OOo) megjelenése után elkészült a StarOffice 9 is -- ez elõzõ verziócsaládnál még fordított volt a sorrend. A Sun Microsystems gondozásában megjelent új StarOffice természetesen továbbra is a teljesen független OOo-val közös kódbázisra épül, ugyanakkor kereskedelmi termékként fizetõs, cserébe néhány, de csak néhányaknak hasznos extrát kapunk.
+
+
+
+A StarOffice lényegében ugyanazokat az újdonságokat hozza magával, mint az OOo 3 ingyenes multiplatform irodai programcsomag egy hónappal ezelõtt. Mind közül a legfontosabb a fájlkompatibilitás további javítása, amivel könnyebbé tehetõ a különbözõ irodai szoftvercsomagokkal dolgozók közötti együttmûködés, ami elsõsorban természetesen a Microsoft Office-szal történõ interoperabilitást jelenti. A StarOffice 9 és OOo 3 már natívan támogatja a Microsoft Office Open XML (OOXML) állományokat, amelyet az Office 2007-tel együtt vezetett be a Microsoft. Szintén a támogatott formátumok közé került ODF legújabb, 1.2-es verziója is. A Sun kegészítõjének segítségével a StarOffice 9 PDF-dokumentumokat is képes szerkeszteni.
+
+Szintén fontos a folyamatosan javuló Excel makrófuttatási képesség, ami a Visual Basic makrók egyre nagyobb részének natív végrehajtását jelenti. A tesztek szerint az OOo 3, így a StarOffice 9 is lényegesen gyorsabb lett az elõdjénél, a telepítés pár perc alatt végbemegy, és a szoftverek indulása is sebesebb, fõleg, ha a gyakran használt komponenseket elõtöltõ Quickstartert is használja valaki. A Sun StarOffice extrái közé tartoznak a blogolási és wiki publikációs modulok, vagy a riportkészítõ, vagy a prezentációk fájlméretének optimalizációja, valamint a Microsoft Office dokumentumok migrációját segítõ konverterek.
+
+
+A StarOffice 9 35 dolláros letöltési áráért cserébe az elsõ 60 napban három technikai problémához kérhetnek támogatást további díjak nélkül, ezen felül pedig további, a rendelkezésre állási igényeinknek megfelelõ támogatási elõfizetés vásárlására van lehetõség, akár non-stop elérhetõséggel -- a Sun ugyanakkor vállalja az OpenOffice.org támogatását is, kizárólag ezért tehát nem érdemes StarOffice-t vásárolni.

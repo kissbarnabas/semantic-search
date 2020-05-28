@@ -1,0 +1,16 @@
+Bevásárolná magát a VIA-ba az NVIDIA
+
+Kisebb összeget fektetne az NVIDIA a tajvani VIA Technologies-be, legalábbis ezt állítják a gyártókhoz közel álló iparági források. Az utóbbi években meglehetõsen gyenge teljesítményt nyújtó VIA-nál elsõsorban processzorokat, alaplapi lapkakészleteket és grafikus chipeket fejlesztenek, a spekulációk szerint az NVIDIA befektetése révén a tajvani cég processzortechnológiai licenceire pályázik.
+
+
+
+A VIA Technologies múlt héten jelentette be, hogy zárt körû részvénykibocsátás útján 300 millió részvényt dob piacra 9 és 12 tajvani dollár közti értékben -- ez aktuális árfolyamon számolva részvényenként 0,27-0,35 amerikai dollárt jelent, azaz a kibocsátás összértéke elérheti a 105 millió dollárt. A tajvani DigiTimes híroldal tûzhöz közel álló forrásai szerint az NVIDIA ezeknek a részvényeknek egy konkrétan meg nem határozott hányadára pályázik.
+
+A részvénykibocsátás átmeneti segélyt jelenthet az utoljára az ezredforduló tájékán virágzó VIA számára, mely a nagy riválisok, az Intel és az AMD platformizációs törekvéseivel nem tudta felvenni a versenyt, így a cég idõvel csak a chipsetpiac belépõszegmensében tudott már csak labdába rúgni, majd forgalma olyan meredeken süllyedni kezdett, hogy 2008-ban kénytelen volt kivonulni a kereskedelmi chipsetpiacról. A vállalat a tavalyi év során már csak mindössze 242 millió dollár bevételt ért el, ami 46 százalékos visszaesés 2007-hez viszonyítva, a mûködés pedig súlyosan veszteséges, az üzemi veszteséghányad 25 százalék körüli.
+
+Az NVIDIA spekulációk szerint azt várja az ügylettõl, hogy a részvényfelvásárlás útján könnyebben hozzájut több, a VIA tulajdonában álló szabvány és technológia használati jogához. Mivel a cégnek 1999 óta érvényes keresztlicenc-szerzõdése van a VIA által felvásárolt S3 Graphics-szel, ezért alighanem inkább egy másik vállalat, a szintén a VIA tulajdonában álló, processzorokat fejlesztõ Centaur Technologies által felhalmozott tudásbázisra pályázik az NVIDIA. Ehhez a céghez köthetõ többek közt a VIA C3, C7 és Nano processzorok megtervezése.
+
+
+Az NVIDIA március elején nyíltan elhintette annak lehetõségét, hogy a késõbbiek során egy grafikus maggal integrált CPU-val jelentkezne, amelyet kisebb teljesítményû, olcsó eszközökbe, például netbookokba okostelefonokba vagy mobil internetterminálokba (MID) szán. Meg nem erõsített iparági pletykák szerint az NVIDIA már korábban is próbálkozott saját x86-os mag kifejlesztésével, az ilyen irányú projektek azonban csúfos kudarcot vallottak. Logikus lépés lenne a tehát cég részérõl a VIA-ba beruházni, amely a Nano révén az Intel Atommal versenyképes, fejlett architektúrájú x86-os processzorral rendelkezik, és komoly kompetenciát halmozott fel energiahatékony chipek tervezésében.
+
+A VIA a június 19-i részvényesi közgyûlése után hozza nyilvánosságra, mely cégek vásárolhatnak a részvénycsomagból.

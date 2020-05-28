@@ -1,0 +1,28 @@
+Csak 2009-ben jön a Sun Rock
+
+A korábbi pletykáknak megfelelõen csak 2009-ben érkezik a Sun új csúcskategóriás processzora, amelyet egyelõre Rock kódnéven fejlesztenek a vállalatnál. Eredetileg 2008 végére ígérte a premiert a cég, azonban az International Solid State Circuits Conference-en Marc Tremblay vezetõ tervezõ elmondta, a premiert 2009-re csúsztatták, hogy össze tudják csiszolni a szoftver- és hardverkörítést. A Rockra épülõ szerverek elsõ példányai egyébként már hónapok óta mûködnek a Sun laborjaiban.
+
+
+
+Árnyékban
+
+A 16 magos, 32 programszál futtatására képes Rockot 65 nanométeres csíkszélességû technológiával gyártja a Texas Instruments. A processzormagok a végletekig leegyszerûsítettek, így elég kicsik lehetnek ahhoz, hogy tizenhat darabot zsúfolhasson belõlük a 396 négyzetmilliméteres lapkára a Sun. A magok négyes csoportokba vannak rendezve, egy-egy négyes csoport egy elsõdleges utasításcache-en (16 KB), két adatcache-en (32 KB) és két lebegõpontos egységen osztozik. A négy magcsoport négy darab 512 KB-os másodszintû gyorsítótárhoz csatlakozik egy crossbar kapcsolón át.
+
+
+
+Annak érdekében, hogy a magok egyszerûek maradhassanak, és nélkülözzék a nagy késleltetésû események elfedéséhez szükséges dinamikus ütemezést megvalósító komplex logikát, a Sun az úgynevezett "árnyékszálakat" vetette be, amelyek feladata a fõ programszálak futásának segítése. Az árnyékszálak olyan programszálak, amik képesek akár több ezer utasítással is elõre dolgozni, adatokat betölteni, a gyorsítótárat feltölteni, az elágazásbecslõt "trenírozni", sõt, akár utasításokat is képes végrehajtani, amelyek eredménye így már rendelkezésre fog állni addigra, amikor a fõ programszál megkezdené a végrehajtásukat.
+
+Amennyiben a fõ programszál az elágazásokon úgy fut tovább, ahogy azt az árnyékszál megjósolta, az eredményeket egy átmeneti tárolóból csak beírják a regiszterekbe. Ha az árnyékszál tévedett, akkor az eredményeket törlik és a futás a másik ágon folytatódik. Így lényegében minden egyes programszálat a chipen már kettõ hajt végre, vagyis összesen 64 szál fut, bár ezek fele az operációs rendszer és a szoftverek számára "láthatatlan", ugyanakkor semmilyen optimalizációt, újraírást vagy újrafordítást nem igényel, hogy a bennük rejlõ lehetõségek a felszínre kerüljenek.
+
+Az ISSCC-n elhangzottak szerint a Rock 2,3 GHz-en mûködik majd és mintegy 250 wattot fogyaszt ezalatt, de a cég biztos benne, hogy ezt még léghûtéssel le lehet kezelni. Úgy tudjuk, a Sun terveiben három Rock-alapú szerver szerepel, a legkisebb nagyjából fél rackszekrényt foglal el, a két másikhoz azonban már egy teljes állvány kell, legfõképp azért, hogy legyen hol elhelyezni azt a rengeteg memóriát, ami ahhoz szükséges, hogy az extrém párhuzamosságra tervezett Rock teljesítményét ne a memóriahozzáférés korlátozza. A Rock FB-DIMM memóriát támogat, foglalatonként akár 64 modult, gépenként pedig akár 256 terabájtot. A Rock processzor egyébként 80 GBps külsõ sávszélességgel rendelkezik a memória felé, a lineáris skálázódás érdekében a cache-koherencát pedig címtár biztosítja.
+
+
+
+A 2395 láb több mint fele a tápellátást szolgálja
+
+Új memória
+
+Ennek érdekében egy új trükköt is bevet a Sun. A Rock fontos újítása az ún. tranzakcionális memória, amelyet teljesen hardveresen valósít meg. A metódus célja, hogy a párhuzamosan futó szálak ne blokkolják a memóriát, mint a hagyományos rendszerekben, ahol az azonos címekre hivatkozás miatt a memória egyes részeit csak egy szál tudja írni vagy olvasni. A Rock ezért csoportokba rendezi a memóriamûveleteket, amelyeket aztán tranzakciókra darabol szét, ezáltal lehetõvé téve, hogy egy memóriaterülethez akár több szál is hozzáférjen kizárások ("mutex") nélkül.
+
+
+ A tranzakcionális memóriával kapcsolatban már évek óta zajlanak kutatások, ugyanis ennek segítségével látványosan fokozható a párhuzamos mûveletvégrehajtás hatékonysága. Szoftveres megoldások már eddig is születtek, de a Sun Rock most mindezt részben hardverben valósítaná meg, amivel jóval nagyobb teljesítmény érhetõ el. A tranzakcionális memória elsõsorban adatbázisok vagy OLTP feladatok végrehajtásánál hozhat nagy sebességnövekedést.

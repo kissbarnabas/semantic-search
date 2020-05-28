@@ -1,0 +1,27 @@
+Harminc színes oldal percenként: kipróbáltuk az OKI C710n színes nyomtatót
+
+Gyártója kompakt színes LED-nyomtatóként aposztrofálja az OKI  C710n-t, mi nem ezt a tulajdonságát hangsúlyoznánk leginkább, hanem erejét és a szokásosnál jóval megengedõbb médiakezelését.
+
+
+
+Közepes és nagyobb munkacsoportok számára ajánlja kompakt, de nagy teljesítményû C710-es nyomtatócsaládját a cég. A kompakt jelzõ a méreteket tekintve nagyjából rendben is van (389x435x536 milliméter), ugyanakkor jól gondoljuk meg, hogy milyen asztalkára telepítjük, a rendkívül masszív, robusztus kialakítású masina tömege 27-28 kilogramm. 
+
+
+OKI C710n alapkiépítésben
+
+Az OKI hagyományosan alkalmazott LED-technológiájára épít az új inline rendszerû nyomtatómû, mely a lézernyomtatókéval megegyezõ nyomatjelleget biztosít. A gyártó ProQ2400 Multi-level néven jegyzi nyomtatási technológiáját, mely legfeljebb 1200x600 dpi fizikai felbontással dolgozik. A lézernyomtatókra jellemzõ igen élénk színeket, kontrasztos képet magáénak mondhatja a C710 is,  elsõsorban dokumentumkészítéshez tudjuk ajánlani. Ugyan tartalmaz a meghajtóprogramja egy fotóoptimalizáló kapcsolót is, de ezen a téren még van mit fejlõdnie a készüléknek, egyelõre nem sorolhatjuk a kiemelten fotóképes "lézerek" közé.
+
+Az inline (tandem) felépítés mechanikailag lehetõvé teszi, hogy színesben (CMYK) is a monokróm nyomtatással azonos sebességet érjen el a készülék. Sok olcsóbb nyomtató esetében a feldolgozóegység visszafogott teljesítménye miatt a színes nyomtatás teljesítménye mégis elmarad a fekete-fehértõl, de az OKI C710n esetében ez nem így van. Fekete-fehérben 32, színesben 30 lap elõállítására képes percenként a specifikációk szerint és ezt méréseink is alátámasztották. Ehhez a teljesítményhez társul a többféle nyomtató-emuláció (PCL 5 és 6, PostScript 3, SIDM (IBM-PPR, EPSON-FX) ismerete és a PDF Direct Print v 1.5, aminek egy változatos munkacsoportos környezetben vehetjük hasznát.
+
+
+
+Az OKI kiemeli a rugalmas médiakezelést, melyrõl már megelõzõ LED-es modelljei kapcsán is pozitív tapasztalatokat szerezhettünk. A masszív papíradagoló-rendszer lehetõvé teszi, hogy névjegykártyáktól a CD-címkéken keresztül az akár 1,2 méteres reklámcsíkig házon belül készíthessük el kiadványainkat, a 100 (normál) lapos egyedi adagolóba 220 grammos (négyzetméterenként) médiát is tölthetünk. Ingyenesen mellékelik a Template Manager kiadványszerkesztõ szoftvert, amivel igen könnyen megtervezhetjük különleges dokumentumainkat. A nyomtató C710dn, C710dtn valamint C710cdtn változatai alapkiépítésben tartalmazzák az automatikus lapfordító egységet, az általunk tesztelt C710n-nek ez nem része. 
+
+Ha fotó is szerepel a dokumentumoldalon,akkor érdemes a legjobb minõséget választani, de a fényképjavításopciót mi inkább nem használnánk
+
+Az eddigieknél kevesebb üzemeltetõi beavatkozást igényel a gép a nagykapacitású festékpatronoknak és az 530 lap tárolására tervezett papírtálcáknak köszönhetõen, utóbbiakkal a teljes kapacitás 1690 lapra növelhetõ. A gyártó "kompakt" jelzõje a csökkentett készülékméretre utalhat, nem pedig a mindent egyben tartalmazó kellékanyag kazettákra.  Mint az OKI weboldalán elhelyezett videós bemutatóban látható, a festékkazetta valóban könnyen kezelhetõ, igaz, hogy nem tartalmazza fotóhengert, mely a C710-es sorozat esetében is külön kellékanyag. Szintén idõszakosan, igaz nagyon ritkán cserélendõ a továbbítószalag és a fixálóegység. Összességében azonban jobban jövünk ki, mint egy kompakt festékkazettás rendszerrel, különösen a színes nyomtatok lapköltsége baráti.
+
+
+
+
+A C710-es különbözõ, a dokumentumok védelmére kifejlesztett biztonsági megoldásokat tartalmaz. A Secure Erase biztonságosan törli az adatokat, a Secure Print pedig megakadályozza az illetéktelen nyomtatást, a mûködést felügyelõ Print Control alkalmazás pedig lehetõvé teszi a nyomtatási költségek nyomonkövetését. A több változatban megvásárolható C710-es nyomtató 2008 októberétõl már kapható. Az alapmodell C710n ajánlott végfelhasználói ára 210 ezer forint, amiért komoly dokumentumnyomtató teljesítményt kapunk színesben is, legfeljebb a lapfordítót hiányoljuk az alapkiépítésbõl.

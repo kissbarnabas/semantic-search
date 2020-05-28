@@ -1,0 +1,24 @@
+Augusztustól Magyarországon is jelzik a navigációs berendezések a dugókat
+
+Augusztus elsejével, kezdetben a fõvárosban, majd augusztus 20-tól az ország egész területén elindul a Traffic Message Channel, azaz TMC szolgáltatás, így az erre alkalmas navigációs berendezések ettõl az idõponttól hellyel-közzel pontos és aktuális képet adhatnak az autósnak a beprogramozott útvonalat érintõ torlódásokról, balesetekrõl és egyéb forgalmi akadályokról, és ezek alapján akár elkerülõutat is ajánlhatnak.
+
+
+
+A TMC (vagy másik gyakori nevén RDS-TMC) kiforrott és nemzetközi szabványokban rögzített technológia, amely ma Európában és az Egyesült Államokban is a közlekedési információk sugárzásának legelterjedtebb szabványa. Ma gyakorlatilag minden nyugat-európai országban mûködik ilyen szolgáltatás, a kelet-európai országok közül pedig Magyarországon másodikként vezetik be a rendszert (az Európai Unióhoz újonnan csatlakozott országok közül elsõként Csehországban indult a szolgáltatás 2006-ban).
+
+Elkerülhetõ torlódások
+
+A rendszert bemutató sajtótájékoztatón Heckenast László, a magyarországi TMC konzorcium egyik legaktívabb tagjának számító, többségi brit tulajdonban lévõ társaság, a TrafficNav Kft. ügyvezetõ igazgatója elmondta, hogy a rendszer elõkészítése két évvel ezelõtt kezdõdött, a tesztelés pedig egy éve zajlott az Inforádió frekvenciáján továbbított jelekkel.
+
+A TMC jelzései a térképen
+
+Heckenast hozzátette ugyanakkor, hogy a végleges szolgáltatáshoz nem az Inforádió, hanem a Magyar Rádió adása nyújtja majd az átviteli közeget -- a TMC jeleket a Petõfi Rádió FM frekvenciáján sugározzák majd. A TMC-kompatibilis navigációs berendezésekre leküldött, óránként 300-szor frissített információcsomagot a Fõvinform és az Útinform szolgáltatja majd, illetve flottaadatokat is felhasználnak a forgalomértékeléshez.
+
+
+Lapunk kérdésére Heckenast László elmondta, hogy a TrafficNav a TMC konzorcium többi tagjával karöltve a szolgáltatás beindítása után is dolgozik a rendszer továbbfejlesztésén, így például a késõbbiekben a tömegközlekedésnél is hasznosíthatják a TMC-t a ma alkalmazott megoldásoknál pontosabb és bõvebb tájékoztatást adó utastájékoztató rendszerekhez.
+
+Van jövõje
+
+Heckenast a HWSW kérdésére elárulta, hogy a TMC rendszer az analóg rádióadások 2014-re tervezett lekapcsolása után sem kerül le a napirendrõl, az FM földi sugárzást váltó DAB+ technológia ráadásul tágabb teret ad a TMC-hez hasonló plusz szolgáltatások integrálására. A Traffic Protocol Experts Group (TPEG) által erre a célra létrehozott szabvány már készen áll, ezt a technológiát azonban egyelõre csak Dél-Koreában használják, ám ott értelemszerûen nem DAB, hanem DMB rendszeren.
+
+A jelenleg forgalomban levõ navigációs készülékek túlnyomó többsége önmagában vagy TMC antennával kiegészítve alkalmas a TMC közlekedési hírek vételére, amelyeket vizuális (a térképen megjelenõ ikonokkal) és szöveges formában is megjelenít. A Magyarországon kisugárzott TMC közlekedési információk a hazai felhasználók számára magyarul, a külföldi autósok készülékein viszont saját nyelvükön jelennek meg.

@@ -1,0 +1,25 @@
+Játékfejlesztõt vásárolt fel az Intel - miért?
+
+Játékfejlesztõ céget vásárolt fel az Intel. A váratlan lépés célja nem egyértelmû, egyes spekulációk szerint az Intel Larrabee néven ismert fejlesztéseit vagy marketingjét támogatja majd.
+
+
+
+Larrabee?
+
+Az Offset Software által fejlesztett fantázia-kalandjáték hivatalos honlapján bukkant fel egy közlemény, mely szerint az Intel felvásárolta a csapatot, aminek eredményeként a projekt erõsödik és izgatottan néznek a fejlemények elé. Ennél több információt ugyanakkor nem árult el a tranzakciót bejelentõ Sam McGrath, alapító és technikai igazgató. Az Intel nem adott ki ezzel kapcsolatban eddig semmiféle kommünikét, és megkeresésünkre sem érkezett válasz a hír publikálásáig.
+
+A Beyond3D egyik szerzõje szerint az Intel a Larrabee kódnéven ismert projektje kapcsán vásárolt egy játékfejlesztõt. A Larrabee egy új termékcsaládot hoz majd létre, mely az eddig nyilvánosságra került információk alapján egy masszívan párhuzamos, grafikai és számításintenzív feladatokra tervezett architektúra. A még elektronikai tervezés alatt álló chip Paul Otellini, az Intel elnök-vezérigazgatója alapján idén év végére várhatóak az elsõ szilíciumban testet öltõ példányok, míg a végsõ termékek megjelenése 2009 végére vagy 2010-ben várható.
+
+Feltételezések szerint az Intelnek szoftverfejlesztõkre van szüksége, hogy a Larrabee-alapú termékek megjelenésének idejére használható, nagy teljesítményt biztosító fejlesztõi eszközöket (rutinokat, függvénytárakat, optimalizációs segédleteket) biztosítsanak hozzá. Az egyelõre még legfeljebb szimulátorokban vagy FPGA-ként (programozható logikai áramköröknek, akadémikusan programozható kapumátrix) létezõ Larrabee-vel kapcsolatos tapasztalatok gyûjtéséhez és finomhangoláshoz ésszerûnek tûnik egy valódi játékfejlesztési projekt valós feladatokkal és problémákkal, miközben a végeredmény akár hatásos marketingeszköznek is bizonyulhat.
+
+
+Larrabee
+
+Az Intel bár volumenre vezeti a grafikus chipek piacát, termékei az alacsony árat és energiafogyasztást tartják szem elõtt, nem pedig a 3D-teljesítményt. A Larrabee projekttel az Intel valószínûleg nemcsak egyszerûen egy erõteljes grafikus processzort igyekszik alkotni, hanem egy általánosabb célú, masszívan párhuzamos chipet, mely a vizualizációs terület mellett nagy számítási tömegû mûszaki-tudományos (HPC) feladatokra is bevethetõvé válik. A Larrabee egy kiszivárgott prezentáció alapján akár 150 wattnál is többet ehet, in-order magjai több utasításszálat kezelnek, és a magokat körbusz köti össze. 
+
+
+A Larrabee létrehozásával az Intel eredményesen veheti fel a harcot az NVIDIA és AMD grafikus gyökerû fejlesztéseivel, melyek egyre rugalmasabbak, egyre könnyebben programozhatóbbak, amivel fokozatosan bõvül potenciális felhasználási területük, fenyegetve például az Intel pozícióit a szuperszámítógépes világban. Szintén fenyegetést jelent az IBM, a Sony és a Toshiba együttmûködésének eredményeként megszületett Cell, mely szintén erõteljesen párhuzamos felépítése és egyszerû, nagyteljesítményû magjai révén számos területen fölényt élvez.
+
+A Larrabee projektet az általános célú x86-os processzorfejlesztések kötöttsége tette szükségessé: a piacon lévõ x86-os szoftverek hatalmas tömege megkerülhetetlen, azokat az újabb és újabb chipeknek változtatás nélkül kell egyre gyorsabban futtatnia, így a szoftverek újraírását igénylõ radikális fejlesztéseket nem lehet termékként a piacra dobni. A modern x86-os processzorok komplexitásának nagyobb részét nem a végrehajtóegységek, hanem a végrehajtást támogató vezérlõ logikák, valamint a többnyire optimalizálatlan (vagy optimalizálhatatlan) kód futásidejû ütemezését végzi a nagyobb teljesítmény érdekében.
+
+Hiába tudna az Intel is kifejleszteni egy, a Cellhez hasonlító architektúrát, mely több, egyszerû felépítésû de hatékony magot implementál, az x86-os szoftverek, fõként a kliensalkalmazások tömege ebbõl képtelen lenne profitálni, sõt akár drasztikusan vissza is eshetne a teljesítmény. Mivel ezt már csak az AMD jelenléte miatt sem engedheti meg magának a chipgyártó, ezért hogy versenyképesebb maradhasson az olyan, szoftverfejlesztési szempontból peremterületeken, mint a HPC vagy a vizualizáció, új fejlesztési ágat kellett nyitnai -- ez a Larrabee. Ezen törekvését kövezi a játékokban alkalmazott fizikai motort fejlesztõ Havok tavaly szeptemberi felvásárlása is.

@@ -1,0 +1,14 @@
+Hatalmas frissítõcsomag a Mac OS X Leopárdhoz
+
+Nagy méretû, 180-300 megabájtosra duzzadt frissítõcsomagott tett elérhetõvé az Apple a Mac OS X legutóbbi, Leopard változatához. A számtalan komponenst frissítõ csomag remélhetõleg javítja azokat a hibákat, melyekkel a Leopard operációs rendszer tulajdonosai az elmúlt idõszakban szembesültek.
+
+
+
+A 10.5.2-es változat többek között javítja a Dashboard, a Dock, a Finder, az iCal, iChat, iSync, Mail, Preview, Safari és Time Machine alkalmazásokat és az Active Directory támogatást is. A frissítés telepítését követõen letöltõdik még egy csomag, ez az 50 megabájtos telepítõ a grafikus alrendszert javítja. A  telepítéseket követõen például végre kikapcsolható a menüsáv átlátszósága.
+
+
+A javításokat követõen a vezeték nélküli kapcsolatok is megbízhatóbbak, stabilabbak lehetnek, javulhat a mini alkalmazások, a widgetek teljesítménye, olvashatóvá válnak bizonyos digitális fényképezõgépek RAW formátumai, és a menüsávról is elérhetõk a Time Machine funkciói.
+
+Time Machine
+
+A Mac OS X 10.5 Leopárd legtöbbet emlegetett újdonsága a Time Machine, amely gyakorlatilag egy adatmentési és visszaállítási megoldás: a gépbe szerelt második merevlemezre mentésre kerül a fájlokon végrehajtott összes változtatás. A felhasználó az "Idõgéppel" egyszerûen vissza tudja keresni az állományok korábbi változatait, vagy visszaállíthatja a törölt fájljait, leveleit, adatait.

@@ -1,0 +1,16 @@
+Jövõ héttõl automatikus frissítésként is itt az Internet Explorer 8
+
+A jövõ hétfõtõl jelentõsen bõvülhet az Internet Explorer 8 webböngészõ felhasználói bázisa, a program ugyanis ettõl a naptól töltõdik le a beállításoktól függõen automatikusan a korábbi verziókat futtató felhasználók számítógépeire. Az új verziót nem muszáj telepíteni, azonban ha egyszer installálták a számítógépre, nem lehet visszavonni a folyamatot.
+
+
+
+Az Internet Explorer 8-as változata március 19-én jelent meg, a program elsõ publikus bétája ezt megelõzõen több mint egy évvel, 2008 március 6-án debütált. A második béta tavaly augusztus 28-án érkezett, a végleges kódot tartalmazó, kiadásra jelölt verzió pedig idén január végén vált elérhetõvé. Azokhoz a felhasználókhoz, akik kipróbálták a korábbi tesztváltozatok valamelyikét, már a múlt héten eljutott automatikus frissítésként a végleges verzió, a többi számítógépre a jövõ héttõl érkezik frissítés.
+
+A Microsoft a nagyobb frissítõcsomagok megjelenésekor megszokott gyakorlathoz igazodva, a szerverek túlterhelését elkerülve nem egyszerre, hanem több hullámban indítja el az automatikus frissítési folyamatot. A böngészõ a letöltést követõen akkor sem települ automatikusan a számítógépre, ha egyébként automatikus telepítés lett beállítva, a felhasználó választhat, hogy azonnal vagy késõbb kéri a telepítést, netán nem él a lehetõséggel. Utóbbi választása esetén a program a késõbbiekben az Internet Explorer 8 weboldaláról, vagy a Windows Update-rõl érhetõ el opciós frissítésként.
+
+
+A szoftvercég ezzel együtt továbbra is a vállalati rendszergazdák rendelkezésére bocsátja azt a blokkolóeszközt, mellyel megakadályozható az Internet Explorer webböngészõ 8-as változatának automatikus telepítése. A programnak nincs hatása azokon a számítógépeken, melyekre valamelyik korábbi tesztváltozatot már telepítették, illetve a többi hasonló célt szolgáló frissítésblokkolóval egyetemben csak a Windows Update frissítõszolgáltatások mûködésére van hatással, azaz az olyan, vállalati szintû frissítõrendszerek mûködését nem befolyásolja, mint a Windows Server Update Services (WSUS), vagy a System Management Server (SMS).
+
+Az Internet Explorer 8 közzététele az automatikus frissítési rendszereken keresztül várhatóan jelentõsen hozzájárul majd a böngészõ piaci térnyeréséhez -- de jobbára csak a korábbi IE-felhasználók körében. A több tízezer, elsõsorban tengerentúli weboldalt auditáló Net Applications felmérése szerint az új változat népszerûsége egyelõre lassan de biztosan nõ: az Internet Explorer piacrészesedése két hete még csak 2,7 százalék volt, múlt héten azonban már 3,7 százalékon állt a mutató.
+
+A statisztikák szerint az új verzió ugyanakkor nem csábítja vissza az alternatív böngészõk felhasználóit, így a Firefox, a Safari és a Chrome népszerûsége kisebb-nagyobb mértékben hónapról-hónapra nõ, míg az Internet Explorer folyamatosan piacot veszít.

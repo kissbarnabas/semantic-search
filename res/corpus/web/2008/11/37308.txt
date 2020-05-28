@@ -1,0 +1,16 @@
+Hamarosan nyugdíjba megy a Firefox 2.0
+
+Decemberben elbúcsúzik a Firefox 2.0, a Mozilla már csak pár frissítést tervez addig. Ha minden a tervek szerint halad, a 2.0.0.19 lesz az utolsó támogatott verzió a nyílt forrású böngészõ elõzõ változatából.
+
+
+
+A Mozilla saját adatai azt mutatják, a Firefox-felhasználók kétharmada már áttért a 3.0 változat használatára -- mondta Mike Beltzner, a Firefox projektvezetõje. Ennek ellentmond a W3Counter statisztikája, ami 16 ezer weboldal 46 millió látogatójának adatai alapján készült: e szerint október végén a Firefox 2.0 részesedése a globális böngészõpiacon 17 százalék, míg a 3.0 változaté 10 százalék körül volt.
+
+A Mozilla akkor fejezi be egy böngészõverzió támogatását, amikor már fél év telt el az újabb változat megjelenése óta. A Firefoxból június közepén érkezett a 3.0-s fõverzió, ami azt jelenti, hogy a Firefox 2.0-hoz decemberig lesz támogatás, addig készülnek biztonsági és egyéb frissítések, ezt követõen a Mozilla "magára hagyja" a böngészõt, és kizárólag a 3.x verziókra koncentrál majd. A 2.0-s felhasználók augusztusban kaptak automatikus értesítést a 3.0 verzió megjelenésérõl, amelyet akkor a felhasználók több mint fele telepített is -- állította Beltzner. Azok, akik továbbra is ragaszkodnak a Firefox 2.0-hoz, számíthatnak rá, hogy a szoftver idõrõl idõre figyelmezteti majd õket arra, itt az ideje áttérni a legújabb változatra.
+
+
+ Eközben a Mozillánál már a Firefox 3.1 készül, amelynek elsõ bétáját október közepe óta lehet letölteni. A programba egyelõre nem került bele minden olyan újítás, ami a végleges verzióban megtalálható lesz, de némi trükközés után legalább már kipróbálható az új JavaScript-interpreter, a TraceMonkey.
+
+Már az elsõ bétaváltozatban is elérhetõ, látható új funkció a böngészõfülek látványosabb váltása is, így a CTRL+Tab billentyûzetkombináció lenyomására a Firefox nemcsak simán átvált a másik fülre, de egy grafikus overlay-en keresztül meg is jeleníti a fülek tartalmát. Továbbfejlõdött a Smart Location Bar, melynél mostantól speciális karakterek is felhasználhatók a keresés során, illetve bekerült az alapértelmezésként telepített beépülõmodulok közé az internetes helymeghatározáson alapuló Geode plugin is.
+
+A Firefox 3.1 második bétája a felhasználói visszajelzések számától és kiértékelésétõl függõen várhatóan november végén, december elején készülhet el. Az eredeti tervek szerint a Firefox 3.1 2008 végén vagy 2009 elején fog megjelenni, de a több hetes csúszás és a korábbi tapasztalatok alapján egyre biztosabbnak látszik, hogy csak 2009-ben készül el.

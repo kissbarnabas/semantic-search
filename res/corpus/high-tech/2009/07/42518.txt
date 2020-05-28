@@ -1,0 +1,11 @@
+Adatmaszkolásra fejlesztett ki új módszert az IBM
+
+Számos felmérés rámutat, hogy a legtöbb adatlopás a vállalaton belülrõl ered, ezért a bizalmas információkat nem csak külsõ támadásoktól (crackerek, kártevõk) kell megvédeni, hanem a szervezeten belüli illetéktelen hozzáférésektõl is. Az éles rendszereiket ma már rendszerint erõsen védik a cégek és szervezetek, erre jogi szabályok is kötelezik õket, azonban sokszor elõfordul hogy a tesztrendszereket az éles adatokról készült másolatokkal ellenõrzik, s ilyenkor gyakran senki sem foglalkozik az adatok védelmével.
+Az adatmaszkolás lényege, hogy az adatbázisban tárolt információk egy részét valódinak tûnõ de nem valós adatokkal helyettesítik annak érdekében, hogy azok ne kerülhessenek illetéktelen kezekbe, de például a tesztekhez használni lehessen õket. Ehhez azonban vagy az adatokat kell módosítani, vagy pedig a szoftvert, hogy automatikusan maszkolja el az érzékeny információkat. Mind a kettõ idõ- és költségigényes folyamat.
+
+A Magen azelõtt lép akcióba, hogy a képernyõn megjelenne a kép és optikai karakterfelismerés segítségével megtalálja az érzékeny adatok helyét és maszkolja õket. A Nagy Kék szerint ez jelentõs könnyebbséget jelent, ugyanis a módszer nem igényli sem az adatok, sem a szoftver módosítását, ugyanis megoldás a folyamatba avatkozik bele. A vállalat szerint a Magen elsõsorban olyan területeken számíthat sikerre, ahol sok bizalmas adatot tárolnak, például az egészégügyben, pénzügyi szolgáltatóknál vagy éppen kormányzati intézményeknél.
+A Magen ráadásul paraméterezhetõ, így segítségével a bizalmas adatok kezelésére vonatkozó szabályozásra is reagálhatnak a szervezetek, illetve akár felhasználók szerinti bontásban is meghatározhatják, ki milyen adatokat láthat. Utóbbinak például akkor lehet jelentõsége, ha egy bizalmas adatokat kezelõ szervezet valamilyen funkciók kiszervez, például egy biztosító más céget bíz meg az ügyfélkapcsolat kezelésével. Az IBM megoldása bárhol, bármilyen környezetben bevethetõ, ahol az adatok számítógép képernyõjén jelennek meg, független az operációs rendszertõl és a szoftverkönyezettõl. A Magennel kapcsolatban két szabadalmi kérelmet is beadott az IBM.	     
+                  
+                  
+                  
+                   

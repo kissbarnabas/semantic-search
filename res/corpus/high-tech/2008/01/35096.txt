@@ -1,0 +1,14 @@
+A Brando külsõ merevlemez-kerete RFID technológiát használ az adatok védelmére
+
+A Brando -- aki hazánkban leginkább tenyérgép, illetve mobiltelefon-tartozékairól ismert, mint például az érintésérzékeny kijelzõk védõfóliája -- olyan külsõ merevlemezes egységet mutatott be, amely az adatok védelmére RFID lapkát alkalmaz
+
+
+
+A Brando új külsõ, 2,5 hüvelykes merevlemezeket fogadó kerete a STYSEN E08 a jelenlegi állapotok szerint akár 320 gigabájt tárolására alkalmas merevlemezt is képes fogadni és a kapcsolatot a számítógéppel USB 2.0 kapun keresztül tartja. Az adatok biztonságára RFID chip ügyel, amelyet a tartozékok között megtalálható két, gitárpengetõhöz hasonlatos kulccsal lehet aktiválni.
+
+A kulcsok valamelyikével a meghajtót zárni és nyitni lehet, a kulcs távolsága ekkor az egységtõl RFID szabvány szerinti. Az épp aktuális állapotról a készüléken LED-ek tájékoztatnak: a zöld helyett a piros világít, ha az adatok zárolt állapotban vannak, valamint kék LED villog az aktív adatforgalom esetén. Az adatok titkosításáért szoftveres megoldások helyett egy külön áramkör gondoskodik, de a titkosítással kapcsolatos további részleteket a gyártó nem ismertette. Ha a STYSEN E08-ban használt merevlemezt egy másik egységbe tesszük, vagy beépítjük egy noteszgépbe, az operációs rendszer üres, formázandó egységként kezeli, függetlenül attól, hogy van e rajta adat, vagy nincs. Ha elhagyjuk az asztalunkat, a mûanyag RFID kulcs használata után adataink 3 másodperc alatt zárolásra kerülnek.
+
+
+
+
+A 132x81,7x14,1 milliméter méretû és 92 grammos STYSEN E08-ba a 2,5 hüvelykes egységek közül a SATA csatlakozós változatok kerülhetnek beépítésre, és windowsos és Mac gépekkel egyaránt együttmûködik. Az egység ára a felhasznált technológia és az alkalmazott merevlemez csatoló ismeretében is igen baráti, 56 dollárért lehet megvásárolni a tartozékokkal együtt, melyek között egy bõrtokot, USB kábelt és a tároló beépítéséhez szükséges csavarokat és csavarhúzót is megtaláljuk.

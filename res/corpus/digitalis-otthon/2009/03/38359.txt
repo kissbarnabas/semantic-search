@@ -1,0 +1,16 @@
+Jönnek a merevlemez méretû nettopok
+
+Az IBASE olyan single board computert mutatott be, melynek egyetlen áramköri lapján Atom processzor dolgozik. Maga a komplett számítógép akkora helyen elférhet, mint amekkora egy 3,5 hüvelykes merevlemez, természetesen a külsõ tápegység helyigénye nélkül.
+
+
+
+Az IBASE IB888 single board computer az Intel Atom processzoraiból 1,33, illetve 1,6 gigahertzes változatokat foglalkoztathat, melyek buszsebessége 533 megahertz. A kisméretû áramköri lap maximum 1 gigabájtnyi DDR2 memóriát fogadhat, melyet IDE csatolófelületû merevlemez, vagy optikai meghajtó tölthet meg, ezeket egyetlen csatlakozó várja. Az IB888-hoz a megjelenítõt háromféle módon is kapcsolhatjuk, erre VGA, DVI és 24 bites LVDS-port is rendelkezésre áll.
+
+
+
+
+A merevlemez méretû számítógép nem kevesebb mint hat darab USB 2.0 kivezetéssel várja a perifériákat, melléjük négy soros port is szegõdhet, ha a felhasználási terület speciális és erre igény van. A gépben Intel  US15W XL chipkészlettel a megjelenítésért felelõs Intel GMA950 lapka mûködik együtt, a Realtek RTL 8111C chip pedig a vezetékes hálózati kapcsolatokat terelgeti.
+
+
+
+A komplett alaplap méreteit nem feltétlen kell egy merevlemezzel megfejelni, az SD/SDIO, illetve MMC-kártyákkal szót értõ kártyaolvasó mellett még egy CF-kártyahely is szolgálhat ar operációs rendszert tartalmazó tároló fogadására. Az IBASE IB888 áráról és a forgalmazás kezdetének idõpontjáról a közlemény nem szólt. A 2000-ben alapított, tajváni székhelyû IBASE nagy tapasztalatokkal rendelkezik a speciális méretû alaplapok terén, termékpalettájában több Mini-ITX, valamint ipari alaplap, ETX-CPU modul, félkész számítógép is található, de a vállalat videomegfigyelõ-rendszereket, és hálózati termékeket is gyárt.

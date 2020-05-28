@@ -1,0 +1,53 @@
+Virtuális malacpersely az IND-tõl
+
+A miskolci IND újabb találmánya
+
+A banki rendszereket fejlesztõ IND legújabb szolgáltatása képes lehet ezt a problémát feloldani, ugyanis az online banki rendszerekbe integrálható "Personal Finance Management" egyszerûen, vizuálisan jeleníti meg a magánszemélyek vagy családok mindennapi pénzügyeit. A rendszer készen áll az élesítésre, sõt, hamarosan több külföldi (Málta, Egyiptom) mellett két magyarországi pénzintézetnél is találkozhatnak vele az ügyfelek.
+
+ A Personal Finance Management gyakorlatilag egy saját költéselemzõ rendszer, abszolút fogyasztói igényekre szabva. A néhol manuális adatbevitelt is igénylõ megoldás többnyire automatikusan, elõre beállított szabályok alapján rendszerezi a felhasználó elektronikus úton történt költéseit. A hazai terjedés elõtti legnagyobb probléma kétségtelenül az online bankolás és az elektronikus fizetés ötvözése jelenti. Az általános vélekedés szerint a hazai pénzügyi kultúra ugyanis még nincs azon a szinten, hogy az elektronikus fizetõeszközök felváltsák a készpénzt, azok aránya pedig, akik többnyire kártyával vagy átutalással fizetnek és még online is intézik bankügyeiket, még kisebb. 
+
+Nem csak a gazdagok játékszere
+
+A vizualizált rendszer nem csak a magas jövedelmûeket segíti a tájékozódásban, hanem azok számára is segítség lehet, akik spórolni szeretnének, jobban oda akarnak figyelni a költéseikre. Ha pedig saját gyártású, bonyolult Excel-táblák helyett grafikonokon, ábrákon lehet követni a havi büdzsét, akkor az mindenki számára átláthatóbb.
+
+
+ 
+
+Minden alkalommal, miután a netbankkal rendelkezõ ügyfél használja kártyáját, a rendszer kategorizálja a költést. A POS-terminál kódjából kiderül, hogy hol történt a vásárlás, ez alapján jó eséllyel tud a program tippelni, hogy hová tartozik az elem. Egy benzinkúton többnyire üzemanyagot vásárol az ember, ami az utazáshoz kerül, csakúgy mint egy szállodai szoba számlája. Egy ruhabolt nyilván az öltözködéshez, az élelmiszerboltok pedig az étel-ital kategóriába esnek. 
+
+Adott költségeket az automatikus besorolás után is felül lehet bírálni, szét lehet osztani a nagybevásárlást, ha az ételek mellé a Tescóban bekerült egy LCD-tévé is, de a felhasználók szinte a végletekig finomhangolhatják a szabályokat. Kézenfekvõ alapkategóriák lesznek beépítve a rendszerbe, de a felhasználók saját maguk is finomíthatják a fõ- (például szórakozás, utazás, étel-ital) és altémákat (például benzin, repülõjegy) kedvük szerint.
+
+Automata személyi pénzügyi asszisztens
+
+A lényeg nem is feltétlenül az automatizáláson van, hanem azon, hogy Magyarországon az emberek nagyon kis része végez bármilyen bevétel-kiadás elemzést, aki pedig igen, az is többnyire kezdetleges módszereket használ erre. Az Excel-mágusok összeállíthatnak maguknak egy komolyabb táblázatot, de ahhoz szorgalom és türelem is kell, ráadásul a lehetõségek végesek.
+
+Az internetbankba integrált elemzõ modul akkor válik érdekessé, mikor a vizuálisan támogatott statisztikák után a felhasználó felfedezi a tervezés menüpontot, ami gyakorlatilag egy virtuális malacpersely. Ha valaki eldönti, hogy szeretne spórolni egy nyaralásra, egy házra vagy akár egy új telefonra, akkor egyszerûen létrehoz egy új egységet, ahol megadja a kívánt dolog árát, a vásárlás tervezett idõpontját, a rendszer pedig kikalkulálja, hogy ehhez mennyit kell havonta félretenni, mennyi marad a fennmaradó költhetõ összeg. Sõt, az adott bank befektetési ajánlatai közül azonnal felajánlja az optimális banki terméket, ahová le lehet kötni a már meglévõ összegeket, illetve idõrõl-idõre automatikusan újabb pénzekkel egészíti ki a lekötést.
+
+
+ 
+
+A program képes arra, hogy a számlatörténetbõl kiindulva megbecsülje, milyen kilátásai vannak az ügyfélnek, milyen reális célok fogalmazódhatnak meg. Kelet-Európában az efféle tervezés az, ami az embereket többnyire nem jellemzi, pedig szükség lenne rá. Nyugat-Európában és az Egyesült Államokban sokan használnak privát költségmenedzsment-szoftvereket mint a Starmoney vagy a Microsoft Money, melyek ezeket a funkciókat szintén ismerik, igaz nem integráltak az adott internetbank szolgáltatásba, hanem kívülrõl kapcsolódnak azokhoz. 
+
+Ember tervez, netbank végez
+
+A tervezés a normál költségeken és a megtakarításokon túl mûködik az ügyfelek teljes vagyoni helyzetét leképezve is. A felhasználó megadhatja, hogy mikor milyen ingó vagy ingatlan vagyontárgyat szerzett, minek mennyi a feltételezett értéke, milyen kintlevõségei vannak, illetve hogy mekkorák a hitelei és a tartozásai. Ha precízen kezeli az adatokat, akkor láthatóvá válik, hogyan sáfárkodott az illetõ a rendelkezésére álló pénzzel. Ez persze nem csak az ügyfélnek, hanem a pénzintézetnek is hasznos dolog, ugyanis a bevitt adatok alapján jobban megismerheti az ügyfelet, testreszabott ajánlatokkal keresheti meg, megismeri a valós igényeit, érdeklõdési körét. Valójában egy beépített, célzott piackutató rendszert kap a bank.
+
+A felhasználó pedig olyan funkciókat, amivel tudatosabban kezelheti a pénzét, de leginkább az átláthatóság és az egyszerûség az érv, ami az ilyen megoldások mellett szól. Vinnai Balázs, az IND ügyvezetõ igazgatója a HWSW-nek elmondta, a mai magyar internetbank felhasználókra jellemzõ, hogy nem tudnak vagy nem szeretnek óriási táblázatokban gondolkodni. Ez viszont növeli a bizalmatlanságot, hisz nem látják át mi történik valójában a pénzükkel, nem követik, hogy mire és mennyit költöttek, illetve mivel és mennyit kerestek. Vinnai szerint emiatt hasznos a vizualizáció, szemben a táblázatokkal.
+
+Nyugaton már túl vannak ezen
+
+A kész alkalmazást egy máltai és egy egyiptomi pénzintézet vezette be eddig, illetve hamarosan két hazai bank ügyfelei is találkozhatnak vele. Természetesen teljesen integrálva, tehát a bemutató képeken szereplõ felület alapjaiban megegyezik azzal, amit a végfelhasználó lát, de a bank testre szabhatja magának, beágyazhatja saját dizájnjába. A nyugat-európai terjeszkedéssel kapcsolatban Vinnai azt mondta, hogy az olyan országokban, mint Németország, nincs valós piaca a terméknek, ugyanis ott az internetbankok szabványos interfésszel rendelkeznek. Ennek elõnye, hogy a fent említett Starmoney vagy Microsoft Money szoftvereken keresztül akár az összes folyószámla, hitelkártya elérhetõ, s egyben láthatják az emberek minden pénzügyi terméküket.
+
+
+ 
+
+A modulárisan felépített Personal Finance Management egyes funkciói viszont a bank választása szerint ki-be kapcsolhatóak, illetve attól függõen, hogy az adott internetbank mire képes, különbözõ képességek csalhatóak elõ. Akár az is megoldható, hogy egy számlán havi korlátozást állítson be az ügyfél például ruházati költésekre, és ha túl szeretne költekezni, akkor a rendszer figyelmezteti, de technikailag arra is lenne lehetõség, hogy a tranzakciót ne engedélyezze. 
+
+
+Az IND megoldásába, engedve a kor szellemiségének, némi közösségi funkció is került. A vásárlási helyek adatbázisát, illetve az üzletek logóit (melyek a bank döntésétõl függõen megjelenhetnek a listákban, grafikonokon) ugyanis a felhasználók is bõvíthetik, és természetesen nem csak saját listákat gyárthatnak, hanem egy nagy közös katalógust hoznak létre.
+
+Szép és látványos
+
+A vizuális megjelenítés a funkcionális elõnyökön túl sokat jelenthet, ugyanis már elsõ használatkor érthetõ, átlátható felületet kap a felhasználó. Az idõegyenesen való ábrázolás mellett különbözõ grafikonok, kördiagrammok is megjeleníthetõek, listázható napi, heti vagy havi bontásban minden tranzakció. Az egész megjelenítés nagyon hasonlatos a Google Analytics küllemére, és az IND nem is tagadja, hogy merítettek ihletet a keresõóriás forgalomanalitikai rendszerébõl. Technológiailag sem tér el attól, illetve a manapság használt modern webes eszközöktõl, ugyanis egy Java- és AJAX-alapú felület a szíve-lelke az egésznek.
+
+Összességében egy hasznos, látványos és bárki számára könnyen értelmezhetõ webes szolgáltatásnak ígérkezik a Personal Finance Management, amivel a legnagyobb probléma az, hogy csak bizonyos pénzintézetek ügyfelei használhatják majd. Ugyan igényel némi rendszerességet, odafigyelést a használata, de ennyit valószínûleg mindenkinek megér, aki tisztában szeretne lenni pénzügyeivel, s valós idõben szeretné követni, hogy a megtakarításai, befektetései és a jövõbeni céljainak elérése éppen hogy alakulnak. 

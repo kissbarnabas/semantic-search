@@ -1,0 +1,16 @@
+Felnõttek a merevlemezekhez az SSD-k: a Toshiba 512 gigabájtos modellt mutatott be
+
+Az adatokat tányérokon, mágneses elven tároló merevlemezek legfontosabb elõnye az SSD-kkel szemben a nagyobb kapacitás és az alacsonyabb ár. A Toshiba új SSD-je az elsõ érvet most kiütötte, tárterület tekintetében már ott van az élbolyban.
+
+
+
+A Toshiba bejelentette 512 gigabájtos SSD-jét, mely az eddigi legnagyobb kapacitású változat a szilárdtest-meghajtók között. Az új egység a gyártó friss, 43 nanométeres gyártástechnológiájával készül és 12 gigabájtnyi minimummal ugyan, de ráver a 2,5 hüvelykes méretosztályban eddig megkapható legnagyobb, hagyományos merevlemezre.
+
+A 66 grammos, MLC (többszintû cellaszervezésû) meghajtón hagyományos SATA II csatolófelület várja a kábeleket, illetve a csatlakozókat, melyen olvasás esetén másodpercenként 240 megabájt közlekedhet. Ettõl csak kis mértékben marad el az íráskor mért érték, ebben az esetben sem kell 200 megabájtnál kevesebbre számítani másodpercenként.
+
+A kép illusztráció
+
+
+ Az új, 43 nanométeres gyártástechnológia segítségével egy komplett SSD-sorozat készül a Toshibánál, melybe a 2,5 hüvelykes méretosztályban 64, 128, 256, valamint a fent ismertetett 512 gigabájtos változat illeszkedik, mellé a kisebb, 1,8 hüvelykes sor csatlakozik, melynek tagjai 64, 128, valamint 256 gigabájtnyi adatot képesek elnyelni.
+
+A Toshiba egymillió órás MTBF értéket (két hiba közt eltelt átlagos idõ) ad meg az új egységekre, ez jó esetben 114 évnyi folyamatos, hibamentes üzemet jelent. Az 512 gigabájtos tároló 2009 elsõ negyedévében már elérheti a piacot, azonban a gyártó még nem ismertette, hogy mennyit kell érte fizetni. A nagyobb PC-gyártók már tesztelhetik az új SSD-t, melynél már csak a sorozatgyártás beindítására kell várni.

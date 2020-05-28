@@ -1,0 +1,16 @@
+Március végére készül el az Internet Explorer 8
+
+A Microsoft termékeinek megjelenési dátumát már többször helyesen megjósoló TechARP.com szerint márciusban érkezik az Internet Explorer 8 végleges változata. 
+
+
+
+Az Internet Explorer 7 esetében a kiadásra jelölt verzió (RC1) és a végleges változat megjelenése között nyolc hét telt el. Az Internet Explorer 8 RC1 január végén érkezett, eszerint az IE8 végleges változatának március végére kellene elkészülnie. A TechARP.com úgy tudja, a redmondi vállalat március 5-én jelenti be a végleges megjelenési dátumot és a különféle nyelvi változatok megjelenésének menetrendjét.
+
+
+ Az "RTM" ("release to manufacturing") dátum ugyanakkor nem jelenti azt, hogy a szoftver azonnal hozzáférhetõ is lesz. A Microsoft korábban már közölte, hogy elsõként a PC-gyártók kapják majd meg az Internet Explorer 8-at, hogy feltelepíthessék a boltokban kapható számítógépekre, a meglevõ Windows-felhasználók csak ezt követõen tölthetik majd le.
+
+[+] Kipróbáltuk: Internet Explorer 8 beta 2
+
+Az IE8 fõleg a használhatóság és a biztonság terén hoz újdonságokat, de a webes szabványok támogatása is sokat fejlõdött, aminek eredményeképp a böngészõ lényegében az összes standarddal kompatibilis. Ugyanakkor a fejlesztõk beillesztettek a kódba egy olyan kompatibilitási módot, mely lehetõvé teszi a böngészõnek, hogy bizonyos weboldalakat az IE7-tel egyezõ módon rendereljen -- sok oldalt nem a HTML szabvány, hanem IE7 kívánalmainak megfelelõen készítenek. A Microsoft nagy hangsúlyt fektetett a sebességre is, amely miatt az Internet Explorer 7-et sok kritika érte.
+
+A vállalat természetesen nem kommentálta a megjelenési idõponttal kapcsolatos új információt, a Microsoft továbbra is ahhoz tartja magát, hogy az Internet Explorer 8 akkor jelenik meg, amikor eléri a megfelelõ minõséget. "Elkötelezettek vagyunk az ügyfeleink iránt és csak akkor adunk ki egy új terméket, ha az biztosan a lehetõ legjobb és legbiztonságosabb."

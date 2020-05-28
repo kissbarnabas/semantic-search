@@ -1,0 +1,12 @@
+A tömörítetlen videotárolásra is saját formátumot kínálna az Adobe
+
+Az Adobe Systems az állóképek mellett a videorögzítés világát is megreformálná, a Las Vegas-i National Association of Broadcasters Show 2008 (NAB) rendezvényen bejelentette, hogy a DNG tömörítetlen, úgynevezett RAW formátum mintájára elkészítené a mozgóképes változatot, a CinemaDNG-t is.
+
+
+
+A más vállalatokkal közösen fejlesztett CinemaDNG a mozgóképek világába hozná el a RAW formátum elõnyeit, nyers, tömörítetlen, de jól kezelhetõ formában tárolva a képérzékelõbõl származó adatokat. Az újonnan fejlesztendõ specifikáció jobb képminõséghez és nagyobb szabadsághoz vezethetne. A specifikáció még idén elkészülhetne, szabványosítása pedig gyorsíthatná a bevezetési ütemet, a formátum szélesebb körû terjedését.
+
+
+Az új formátum elsõ körben a professzionális szegmenst hódíthatná meg, a filmgyárakat célozzák, de késõbb a CinemaDNG szélesebb körben, félprofi és középkategóriás kamerákban is használható lehetne. Az Adobe szerint a formátum a filmek archiválását is lehetõvé tenné, melybõl késõbb olyan filmváltozat készíthetõ, amilyet a rendezõ éppen elképzelt. A formátumot a vállalat szoftverei, az After Effects és a Premiere Pro is támogatják majd.
+
+Az NAB 2008 rendezvényen a CinemaDNG mellett egy másik technológiai elõzetest is bemutat az Adobe, mely a videoanyagok hangsávjáról képes rögtön, az importálás-szerkesztés alatt szöveges átiratot készíteni. A szöveges anyagban ezt követõen rögtön kereshetünk is, a még vágatlan videó egy adott szegmensére ugorhatunk. A szerkesztést követõen a szöveges leirat is exportálható a videóval együtt. Az Adobe a technológiát a Soundbooth és Premiere Pro szoftvereivel demózza a rendezvényen.

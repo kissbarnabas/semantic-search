@@ -1,0 +1,15 @@
+Elõretört az összezuhanó hazai szerverpiacon a Sun
+
+Az IDC elsõ negyedévre vonatkozó adatai szerint a Sun Microsystems a hazai x86 szerverpiac forgalmának több mint ötödét szerezte meg , ezzel a második legnagyobb szállító volt a HP mögött, megelõzve az IBM-et. Darabszám szerint a cég részesedése a 10 százalékot sem érte el, ami azt jelenti, a nagy teljesítményû, drága konfigurációkat keresték a Sun-vásárlók.
+"Másfél 
+éves marketing- és kereskedelmi munka után elmondhatjuk, hogy a Sun 
+x86-os termékeivel feljöttünk a második helyre Magyarországon, 
+a korábbi negyedik-ötödik helyrõl. Nem 
+állunk meg, folytatjuk a munkát, növeljük a hazai 
+árbevételt" -- mondta a legnagyobb hazai Sun-disztribútor, az Avnet Technology Solutions ügyvezetõje, Bartha Péter.
+"Az OpenSolaris, a Java, a MySQL és a Sun egyéb ingyenesen elérhetõ szoftverrendszerei már korábban is népszerûek voltak a magyar vállalatoknál. Amikor az ezen alapuló rendszereket bõvítik, logikus lépés a Sun választása x86-os szerver platformként is" -- mondta Hernádi József, a Sun hazai leányvállalatának vezére. "A SunRay vékonykliens technológia is egyre népszerûbb a költséghatékony és könnyen üzemeltethetõ infrastruktúrát keresõ vállalatok körében, amely mögé szintén Sun szervereket választanak ügyfeleink."
+Az x86 szerverpiac forgalma világszinten 28,8 százalékkal zuhant az elsõ negyedévben, darabszám szerint a visszaesés 26 százalék volt világszinten, Magyarországon is ehhez hasonló tendenciák voltak tapasztalhatók. A visszaesés oka a kíméletlen árverseny mellett, hogy a recesszió
+közepette a vásárlók egyszerûen elhalasztják el ezeknek a ma
+már tömegcikknek számító kiszolgálóknak a vásárlását vagy frissítését, megpróbálják a meglevõ eszközeikkel túlélni a nehéz idõket.
+
+A hazai szerverpiacra viszonylag kis mérete miatt általánosságban jellemzõ, hogy egy-egy nagyobb üzlet már felborítja az erõsorrendet. Abban azonban egyetértenek a szereplõk, hogy a recesszió miatt az ügyfelek szinte teljesen leálltak a vásárlásokkal, illetve sok kis és nagy projektet a bizonytalan kilátásokra hivatkozva elnapolnak, néha már csak aláírásra váró szerzõdéseket jegelnek.

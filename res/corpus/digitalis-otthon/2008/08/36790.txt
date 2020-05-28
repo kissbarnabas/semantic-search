@@ -1,0 +1,69 @@
+Kipróbáltuk: LG KS20 -- okos, de nem telefon
+
+A dél-koreai LG idén a trendeket követve beevezett a hibrid PDA-telefonok veszélyes mocsarába. Az LG KS20 definíciója hivatalosan Windows Mobile 6 Professional platformra épülõ üzleti okostelefon. Kevésbé hivatalosan nevezhetnénk stílusos kísérletnek is, vagy valami jövõbeni áttörés nagyon kiforratlan elõdjének.
+
+
+
+A Windows Mobile operációs rendszer alapjában véve egy kielégítõ eszköz kéziszámítógépekhez, a kezelése hasonló a jól megszokott asztali Windows rendszerekéhez, számos program és kiegészítõ létezik hozzá, szinte teljesen testreszabható megjelenésben és funkcionalitásában is. Megelégszik annyi erõforrással, amit manapság akár a leggyengébb mobileszköz is képes felmutatni. 
+
+Túl univerzális
+
+Ezzel szemben viszont megvan ugyanaz a hátránya, mint mondjuk a PC-s operációs rendszernek a konzolokkal szemben: általános célú környezet, ami mindenre jó, ebbõl kifolyólag nem jó igazán semmire. Míg egy célszoftver, mint bármely normális mobiltelefon operációs rendszere, kifejezetten azért lett létrehozva, hogy segítse a használó azon szándékát, hogy hanghívásokat kezdeményezzen, üzeneteket küldjön és multimédiát használjon, addig a Windows Mobile azért jött létre, hogy egy PC-hez hasonló környezetet produkáljon a zsebben. Hálás dolog a kompatibilitás, konzisztencia, a szinkronizálhatóság, de ennek nem szabad az elsõdleges funkció kárára mennie.
+
+ 
+
+Az LG KS20-at szép és ötletes dobozából kihámozva, egy ízlésesen újragondolt LG Prada készüléket vehetünk kezünkbe. Kicsit jobban megvizsgálva viszont kissé kétségbe vonható az üzleti felhasználók igényeit figyelembe vevõ "prémium" érzet: tapintásra olcsó érzetet kelt mûanyag borításával. Stresztesztnek nem vetettük alá a telefont, de a felületei nem tûnnek túl strapabírónak komolyabb esések vagy karcok ellen. Szerencsére a dobozban mellékelnek egy kihajtható bõrtokot hozzá, amivel hosszú távon is megóvhatjuk a mobilt. A tok ráadásul kényelmesebb fogást biztosít pötyögés közben a KS20-hoz, viszont nagyon zavaró, hogy hosszabb telefonbeszélgetések közben a telefont tartó mûanyag rögzítõkapocs nyomja, vágja a fület. 
+
+
+Lekezelõ felület
+
+
+Az LG KS20 elõlapján a 2,8 hüvelyk átmérõjû, 262 ezer színárnyalat megjelenítésére képes LCD érintõképernyõ mellett már nem sok minden fér el. Mindössze a telefonáláshoz szükséges két legfontosabb gomb, a hívásfogadás és az elutasítás/megszakítás kapott helyet, illetve a kettõ között egy ötirányú joy. Ezekkel a gombokkal elméletileg lehetséges navigálni a WM6 menüiben is, de inkább megéri elõkapni akár 5 másodpercre is a stylust. SMS-t írni vagy hívást kezdeményezni (maximum híváslistából) nem lehetséges az érintõképernyõ használata nélkül. A készülék oldalán kapunk még néhány gombot, melyek közül a legfontosabb a kijelzõ ki-bekapcsoló gombja, ami billentyûzárként is mûködik, a fényképezõ és a böngészõ gyorsindítója is itt található, illetve a bal oldalon hangerõszabályozó. 
+
+A numerikus vagy a QWERTY billentyûzet teljes hiánya ugyan nem katasztrofális dolog, de a felhasználói élményt nagyban csökkenti, hogy kivétel nélkül mindent az érintõkijelzõvel kell csinálni. A Windows Mobile pedig alapjában véve nem ujjakra lett tervezve hanem annál valamivel apróbb mutatóeszközre, a stylusra. Összehasonlítva egy normál PDA készülékkel, a kijelzõje jóval kisebb, tehát aki azt gondolja, hogy a virtuális billentyûzetet vagy a szoftvereket stylus nélkül, körömmel lehet vezérelni, az téved. A stylus-kényszer viszont kétkezessé teszi a telefont, ami nem feltétlenül ideális.
+
+ 
+
+Az érintõképernyõ, illetve annak reakcióideje viszont az LG Secret után egy nagyon kellemes meglepetés volt. A kijelzõ fényereje, kontrasztja korrekt, maximumra állítva az értékeket még verõfényes napsütésben is látható képet adott kontrasztos szövegek és menük esetén, persze fotónézegetésre, filmezésre érdemes árnyékot keresni. Az érintésre, klikkre azonnal és pontosan reagál , ha nem lenne a fent említett probléma a kezelõfelülettel magával, akkor egy nagyon szimpatikus rendszer lehetne.
+
+A kijelzõ alsó részén a normál Windows Mobile 6 felület kiegészül négy extra gombbal, melyeket kézzel is könnyû eltalálni. Ezek közül az elsõ a programok/beállítások menübe visz, a második a tárcsázóhoz, a harmadik az üzenetekhez, míg a negyedik érthetetlen módon a böngészõt indítja el, amihez oldalt egyébként is van hardveres gyorsgomb. 
+
+Digitális polip
+
+Az LG KS20 tényleg okostelefon, hiszen minden ma használt hálózati módszerrel képes kapcsolatot létesíteni. A környezetével Blutooth 2.0 illetve Wi-Fi (802,11 b/g) segítségével érintkezik, míg a szolgáltató hálózatára GSM, GPRS, EDGE, HSDPA, WCDMA szabványokon keresztül csatlakozhat. A Wi-Fi csatolóval kapcsolatban meg kell jegyezni, hogy a tesztek során a szabadban vagy akár épületben is egy referenciaként használt notebookkal azonos hálózatokat látott, hasonló jelerõsségekkel. Jó vétel esetén a ping  szintén a notebookot megszégyenítõ értékeket produkált, illetve a sebesség is kielégítõen gyors volt, 1,5-2 Mbit/s valós letöltési sebességet mértünk a KS20-szal Wi-Fi, illetve akár HSDPA-hálózaton keresztül is.
+
+ 
+
+A teszt kiterjedt a mindennapi használatra is, melynek természetesen része az online információk gyors megszerzése. A böngészõ gyorsan elérhetõ, a címek bepötyögése nem okoz problémát, viszont az Internet Explorer képtelen rendesen megjeleníteni a webszájtokat. Megpróbálja az oldalt a rendelkezésre álló helyre (kb. 200 pixel) betördelni, amivel a legtöbb weboldalt széttöri és használhatatlanná teszi. Egy másik böngészõ (pl. az optikai nagyításra képes Opera Mobile) telepítése és használata megoldhatja a problémák egy részét. 
+
+Internethasználat közben érdekes volt, hogy egy Wi-Fi hálózatra csatlakozva a weboldalak megjelenítése azon a hálózaton történt, viszont egyes letöltésekhez automatikusan a HSDPA-ra tért át a telefon és azon keresztül szerette volna megszerezni a fájlokat. Ez a felhasználói élmény szempontjából lényegtelen, hiszen kit érdekelnek a részletek, viszont az adatforgalom-alapú csomagokra elõfizetõ felhasználóknak nagyon nem mindegy, hogy rá tudják-e venni a telefonjukat, hogy az ingyenes Wi-Fi-n keresztül töltögessen vagy nem.
+
+Ami a külsõ csatlakozókat illeti, egy microSD-foglalatot találunk a jobb oldalon, melybe a gyártó szerint maximum 4 gigabájtos kártyát érdemes belerakni. A csatlakozófedél egy kipattintható mûanyag, ami egyik oldalán rögzítve van, de gyakori használat mellett gyanús, hogy kikophat, letörhet, ami a minõségérzet rovására megy. A memóriakártya-aljzattal épp átellenben találjuk az adatcsatlakozót (ide lehet kötni a fülhallgatót is), ami sajnos nem szabványos miniUSB, hanem az LG saját csatlakozója. 
+
+Az igazi döbbenet, hogy maga a konstrukció valójában USB, csak a csatlakozó alakja és kialakítása különbözik. Az LG úgy gondolta, hogy mindenki hordja magával a töltõt, adatkábelt, hátha szükség van rá, felejtsük el a szabványos felületeket. Fülhallgatót is csak a gyárit csatlakoztassunk hozzá. Igaz, hogy nem egy multimédiás készülék, hanem üzleti, de a hosszú repülõutakhoz jól jönne egy kényelmes párnás füles, a gyári bedugós helyett.
+
+Az alkotó is pihen
+
+Mivel az üzletember is ember és szeret szórakozni, ezért nem maradhattak ki a multimédiás funkciók sem a telefonból. A 2 megapixeles, autofókusz nélküli kamerával meg lehet örökíteni egy-egy emlékezetes pillanatot, de nem veszi fel a versenyt a kompaktgépek egyikével sem. Az elõlapon lévõ VGA-kamerával videotelefonálni tudunk vagy magunkat fotózni, viszont nem sikerült rávenni egyik azonnali üzenetküldõ szoftvert sem, hogy webkameraként kezelje, bár ez valószínûleg orvosolható.
+
+ 
+
+A KS20-ra telepített WM6 képes a teljesen szabványos kép-, videó- és hangfájlokon kívül DivX-lejátszásra is, bármely Mobile Java környezetre írt programot képes futtatni, illetve van benne egy FM-rádió is, amit kizárólag (antennaként) csatlakoztatott fülhallgatóval lehet használni. Mivel a kijelzõ felbontása a szabványos 320x240, ezért nem szükséges a PDA platformokra optimalizált videókat, képeket átkonvertálni, illetve az alkalmazások, játékok is normálisan futnak rajta. Az LG KS20hez opcionális GPS-vevõ is csatlakoztatható, ezért a microSD foglalatba helyezett PDA navigációs szoftverek szintén futnak rajta.
+
+A Windows Mobile legnagyobb elõnye valóban az univerzalitás, hiszen szinte szinte minden mobilkészülékre írt szoftvernek létezik PPC/WM változata, melyet pár kattintásnyi telepítés után azonnal használni lehet. A szûk keresztmetszet ennél a készüléknél nem is ez, hanem valószínûleg a 400 MHz-es processzor, mely számszerûleg jónak tûnik, de mégsem hozza azt a teljesítményt, amit egy 400 MHz-es Intel/Marvel XScale esetében megszoktunk. Ez fõként a navigációs szoftvernél érzõdhet nagyon, illetve a VoIP-hívások sem biztos, hogy mindig problémamentesek lesznek. 
+
+A teszt során kipróbáltuk a Skype for Mobile bétaváltozatát, mely egy ASUS PDA készüléken azonos hálózati környezetben tökéletesen futott, az LG okostelefon viszont ütemesen szaggatott hangfoszlányok továbbítására volt csupán elég. (Tegyük hozzá, hogy a Skype ezen verziója még nem végleges és adott esetben jóval nagyobb erõforrásokat igényelhet a szükségesnél az optimalizálatlansága miatt)
+
+Telefonként használni
+
+Az LG szép és divatos készülékként ajánlja a KS20-at az üzletembereknek, akik a Windows Mobile 6 Professional minden extráját kihasználhatják a munkahelyi mobilitás fokozására. Ez igaz is. A telefon szép, csábító, megjelenése kellemes, a kijelzõ és a kezelés kéziszámítógépként szinte tökéletes. A kisebb méret ideálissá teszi a mindennapi használatra, szemben a közel másfélszer ekkora normál PDA-kkal, de elsõdleges telefonként nem ajánlott.. A hálózati képességei figyelemreméltóak, üzleti felhasználásra különösen kellemes, hogy nem kérdez, csupán megoldja a problémákat. Könnyen, automatikusan felismeri, hogy milyen hálózathoz tud csatlakozni és pörgeti az adatokat. A Windows Mobile 6 Professionalnek köszönhetõen pedig egy vállalati környezetbe is könnyen integrálható. A biztonsági megoldásokon túl összehangolható Exchange szerverrel, távolról menedzselhetõ, illetve képes a megszokott fájlformátumokat kezelni, így egy állandóan mozgásban lévõ vezetõnek maga a platform megkérdõjelezhetetlenül jó választás.
+
+ 
+
+De!
+
+Ugyanakkor az LG kommunikációja szerint ez egy telefon, ami nagyon okos. A valóságban viszont ez egy kicsi kéziszámítógép, ami szép, és lehet vele telefonálni is akár. Amennyiben a pozícionálás így történt volna, akkor lehetne róla ódákat zengeni, de mobiltelefonként a nyers Windows Mobile felület továbbra is megbukik. A nemrégiben tesztelt HTC Diamond kapcsán is hasonló problémák álltak fenn, azzal a különbséggel, hogy ott a Windows-alapok felett egy teljes shellt kap a felhasználó és nem csupán négy csenevész gombot és menüt.
+
+A 100 ezer forintos árcédulája teljesen reálisnak tûnik figyelembe véve a többi piacon lévõ kéziszámítógépet. A csomagban a KS20 mellett töltõt, sztereó headsetet, adatkábelt, bõrtokot, kézikönyvet illetve egy telepítõ CD-t találunk. Ez utóbbival kapcsolatban meg kell említeni az LG gáláns gesztusát, miszerint az eredetileg angol nyelven érkezõ készülékre tetszés szerint telepíthetõ akár a Windows Mobile 6 magyarítása, illetve ha valaki az angol nyelvû szoftverek híve, akkor kiválaszthatja csupán a nyelvi csomagot, mellyel elérhetõvé válnak az ékezetes karakterek. A pakkban található töltõt sem érdemes otthon felejteni, ugyanis a mobil aktív használat mellett egy teljes munkanapot sem bír ki. A túl sok telefonálás mellett a programok használata, netezés is komolyan szívja az apró akkumulátorát. Cserébe mindössze 97 grammot nyom (SIM kártyával és ujjlenyomatokkal együtt), ami kategóriájában kiemelkedõnek számít.
+
+Összességében az LG KS20 jó benyomást kelt, annak ellenére, hogy telefonként ezer sebbõl vérzik. Sikeresebb jövõ elé nézhetne, amennyiben egy teljesebb telefon shellt kapott volna, illetve ha a felhasznált anyagok nem keltenének olcsó érzést. 

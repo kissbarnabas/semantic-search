@@ -1,0 +1,14 @@
+Két kritikus hibát javít a Firefox új verziója
+
+Pénteken új biztonsági gyorsjavítást adott ki a Mozilla a Firefox webböngészõhöz -- a program frissítése két kritikus biztonsági rést foltoz be, ezek egyikét az a német informatikus hallgató fedezte fel, aki a március közepén tartott PWN2OWN hackerversenyen három böngészõt is feltört.
+
+
+
+A Firefox 3.0.8-as verziója a vártnál pár nappal hamarabb jelent meg: a Mozilla múlt csütörtökön  április elsejére datálta a javítást kiadását. A webböngészõ idei harmadik javítása a hackerversenyen felfedezett sebezhetõség mellett egy másik, szintén kritikus besorolást kapott sérülékenységet is javít. Utóbbi lehetõvé teszi a támadó számára, hogy egy a weboldalba ágyazott rosszindulatú XSL-kód segítségével a böngészõ összeomlásával kártékony kódot futtasson a számítógépen.
+
+A Pwn2Own hackerversenyen felfedezett kritikus biztonsági hiba szintén a Firefox összeomlására játszik: egy Nils nevû német hacker az XML felhasználói interfész leírónyelvének sebezhetõségére hívta fel a figyelmet a rendezvény során. A 25 éves informatikus hallgató a biztonsági rés felfedezéséért és demonstrálásáért 5000 dolláros pénzjutalomban részesült a versenyt szponzoráló 3Comtól. Nils a Firefox mellett az Apple és a Microsoft böngészõinek legújabb verzióit is feltörte.
+
+
+Az Apple még nem adott ki javítást a felfedezett biztonsági résre, a végleges Internet Explorer 8-ban azonban már kijavították azt a hibát, melyet a hacker a böngészõ kiadásra jelölt verziójában fedezett fel, igaz, a Windows XP-t futtató számítógépekre továbbra is veszélyt jelent a sebezhetõség.
+
+A Firefox 3.0.8 Windows, Linux és Mac OS X operációs rendszerekhez fejlesztett változata a szokás szerint elérhetõ a Mozilla letöltési oldaláról, illetve a böngészõ frissítési szolgáltatásán keresztül.

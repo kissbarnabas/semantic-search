@@ -1,0 +1,25 @@
+Nagyvállalati képességek középvállalati áron: itt a HP EVA4400 adattároló
+
+A HP bejelentette középvállalatoknak szánt StorageWorks Enterprise Virtual Array 4400 (EVA4400) tárolóját, amely a cég ígérete szerint a nagyvállalati teljesítményt és megbízhatóságot egyesíti a lehetõ legegyszerûbb kezelhetõséggel, ráadásul az ára is kedvezõ -- egy "használható" konfiguráció már 4 millió forint körüli összegért megkapható. A HP Magyarországon márciustól szállítja az EVA4400-at, amelyre már több megrendelés is beérkezett.
+
+
+
+Az EVA-család új tagja
+
+A HP Enterprise Virtual Array termékcsalád már 6 éve van a piacon, Európa-szerte mintegy 40 ezer darabot értékesítettek már belõle, és Magyarországon is több mint 300 üzemel a különféle vevõknél -- tudtuk meg Nagy Barnabástól, a HP adattárolási termékekért felelõs hazai vezetõjétõl. "Az EVA4400 az ügyfelek által régóta kért és várt, hiánypótló termék a HP palettáján" -- mondta el a HWSW-nek egy beszélgetés során Nagy.
+
+Az akár 96 lemezmeghajtót is kezelni képes, legfeljebb 96 terabájtig bõvíthetõ EVA4400-ra 99,999 százalékos rendelkezésre állást vállal a HP. A cég szerint ebben a kategóriában egyedülálló a redundáns tápegység, redundáns hûtõ, a redundáns kontroller, amelyek mind a nagyobb megbízhatóságot szolgálják. Ha mégis megtörténne a legrosszabb, az EVA4400 tápegységei, hûtõi, I/O moduljai, a cache tartalmának megõrzésérõl gondoskodó akkumulátorai mind melegen cserélhetõk, a diszkekrõl nem is beszélve. Külön érdekesség, hogy nem szükséges a kontrollerek cseréje egy a további bövitésekhez sem.
+
+Az EVA4400 nem csak hardverét, hanem szoftverét tekintve is hibatûrõ, és a HP szerint olyen funkciókkal rendelkezik, amik eddig kizárólag a nagyvállalati kategóriás megoldásokban voltak jelen. Ezek közé tartozik többek között a helyi és távoli replikáció lehetõsége, amivel gyakorlatilag kizárható, hogy egyetlen komponens meghibásodása esetén a szolgáltatások leálljanak, így maximalizálható az IT-infrastruktúra rendelkezésre állása.
+
+Az új tároló nem csak rendelkezésre állás tekintetében figyelemre méltó, hanem a teljesítménye is magasabb a kategóriában elvártnál. Ez annak köszönhetõ, hogy akár 96 darab, percenként 15 ezer fordulattal pörgõ lemezmeghajtóval is rendelhetõ, ráadásul a világon az elsõk között támogatja a 8 Gbs-es Fibre Channel szabványt, amely visszafelé kompatibilis az 1, 2 és 4 GBps hálózatokkal is. A közeljövõben érkezik a HP-tõl egy beépíthetõ 8 Gbps FC-switch az EVA4400-hez, de igény esetén a tároló iSCSI felülettel is rendelhetõ.
+
+Az EVA4400 vonzereje azonban nem csak a hardverparaméterekben keresendõ, hanem a telepítésben és üzemeltetésben is, amelyeket a lehetõ legegyszerûbbre szabott a HP. A tárolók beüzemeléséhez nem szükséges speciális szakértelem, gyártói támogatás vagy telepítési szolgáltatás, ugyanis a berendezések igény esetén elõre konfigurálva kerülnek az ügyfelekhez, nekik csupán néhány alapszintû beállítást kell megadniuk egy egyszerû felületen keresztül, ettõl fogva az EVA4400 elvégzi a többi szükséges teendõt és akár egy órán belül üzemkész. Mindemellet lehetséges a hagyományos úton (akár CLI - Command Line Interpreter szinten) is egyedi igényeket kialakitani vele.
+
+Mit hozhat a jövõ?
+
+Nagy Barnabás szerint a tárolópiacon még jó ideig a merevlemez lesz az egyeduralkodó technológia annak ellenére, hogy már léteznek SSD-alapú megoldások is. A merevlemezek mögött azonban olyan felhalmozott tudás és akkora piaci befektetések állnak, amelyek még legalább egy évtizedig  biztosítják a folyamatos fejlõdést. A diszkek sebessége is egyre nõ, az év végére várhatók például a percenként 20 ezret pörgõ meghajtók, miközben a kapacitás is újabb rekordokat döntöget, Nagy elõrejelzése szerint öt év múlva a merevlemezek akár 6-8 terabájtot is tárolhatnak majd.
+
+Noha a lemezek és tárolók kapacitása egyre nõ, valószínûleg így sem fogják tudni követni az adatrobbanást, ezért elsõdleges szerep jut majd azoknak a technológiáknak, amelyek lehetõvé teszik az információ hatékonyabb tárolását. Több gyártó is kiemelt figyelmet fordít az ún. adat-deduplikációra, amely azt biztosítja, hogy ne tároljuk el többször ugyanazt az adatot, így akár töredékére csökkenthetõ a szükséges tárkapacitás, ami nem csak vásárlásnál, hanem üzemeltetésnél is komoly költségmegtakarítást tesz lehetõvé.
+
+A másik fontos irányvonal a tárolók virtualizációja. Már a közeljövõben piacra kerülhetnek olyan megoldások, amelyek a felhasználó számára teljesen elfedik a diszkek, fiókok, kontrollerek vagy akár az adattárolók számát, lényegében egyetlen összefüggõ tárkapacitást mutatva a szerverek felé. Ennek a megközelítésnek nem csak az egyszerûbb felügyelhetõség az elõnye, hanem a rugalmas felépítés, amely lehetõvé teszi, hogy a teljesítményigények változásával összhangban a konfigurációt is dinamikusan módosítani lehessen, például a kontrollerek és a diszkfiókok összekapcsolódási topológiájának megváltoztatásával: "munkaidõben" a tárolókat teljesítményre hangolhatjuk, hétvégén és éjszaka pedig hiba- és katasztrófatûrésre.

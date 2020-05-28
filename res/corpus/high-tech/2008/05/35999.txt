@@ -1,0 +1,12 @@
+Elképesztõ méretû szuperszámítógépeket szállít a NASA-nak az SGI
+
+Hatalmas szuperszámítógépes klaszter szállítására nyert megbízást az SGI. A múlt évtizedben sokkal szebb idõket is megélt vállalat a NASA egy meglévõ installációját egészíti majd ki, mellyel együtt a világ egyik legnagyobb számítási teljesítményét éri majd el. 
+
+
+
+A NASA egy 5120 darab négymagos Xeonból álló, vagyis 20 480 processzormagot, 20 800 gigabájt memóriát és 450 terabájtnyi háttértárat alkalmazó Altix ICE rendszert rendelt az SGI-tõl, mely 245 teraflops leadására képes LINPACK alatt. A Novell SUSE Linux Enterprise Server 10-et futtató fürt 40 vízhûtéses szekrénybõl áll, melyek egyenként 64 Xeonnak és 512 gigabájt memóriának adnak helyet. Az új szuperszámítógép az 52 teraflopsos, Itanium-alapú Columbiához csatlakozik, mely 2004-ben a világ legerõsebb szuperszámítógépének címét is elnyerte. 
+
+
+A rendszer, melynek költsége nem publikus, a NASA szerint a Columbiához hasonlóan további tudományos és mûszaki áttöréseket tesz majd lehetõvé, amilyen az új ûrjármûvek fejlesztése, idõjárási modellek, vagy a gravitációs hullámok modellezése. A NASA ráadásul legalább egy további rendszerek építésével is megbízta az SGI-t, melynek 1 petaflopsos teljesítményt kell leadnia 2009-ben. A Pleiades kódnéven futó projekt 2012-ig 10 petaflopsos számítási teljesítmény céloz meg, mely a jelenlegi legerõsebb rendszer, a 212 992 PowerPC processzormagot alkalmazó IBM BlueGene/L kapacitásának több mint hússzorosa -- az architektúra részletei nem ismertek.
+
+A valaha a számítástechnikai ipar fényes ikonjának számító, az azóta a csõdöt is megjárt SGI ugyanakkor továbbra is olvadó árbevétellel és veszteségekkel küzd, ami ellen költségstruktúrájának racionalizálásával és hatékony termékfejlesztéssel igyekszik felvenni a harcot. A legutóbbi negyedévben forgalma közel 30 százalékkal esett vissza éves szinten, és mindössze 79 millió dollárt tett ki, és kétszeresére növekvõ, 40,6 millió dollár veszteséget könyvelt el. A vállalat jövõje azonban biztatóbb képet fest, hogy a vállalat jelenleg 202 millió dollárnyi, még nem teljesített megrendeléssel bír, ami közel kétszerese az egy évvel korábbinak, a negyedév során beérkezett megrendelések pedig másfélszeresükre ugrottak.

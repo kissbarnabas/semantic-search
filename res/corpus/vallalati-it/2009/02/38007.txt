@@ -1,0 +1,16 @@
+Új középkategóriás merevlemezes tárolók a Sunnál
+
+Két középkategóriás merevlemezes tárolóval bõvítette kínálatát a Sun Microsystems. A Sun Storage 6580 and 6780 diszktömbök egyaránt 256 SATA vagy FC meghajtót tartalmazhatnak, azonban a 6780 késõbb  akár 448 diszkig bõvíthetõ lesz, így a maximális kapacitása a jelenleg elérhetõ és támogatott merevlemezekkel 448 terabájt is lehet.
+
+
+
+A tárolókat vállalati alkalmazások, például adatbázisok, vállalatirányítási vagy tranzakciókezelõ rendszerek, Microsoft Exchange alá szánja a Sun, de hatalmas kapacitásuk miatt konszolidációs platformként is bevethetõk, akár virtualizált környezetben is. A Storage 6580 és 6780 természetesen a legtöbb nagyvállalati operációs rendszerrel és platformmal együttmûködik, legyen szó akár Windowsról, Linuxról, különféle UNIX-okról, vagy VMware ESX-rõl.
+
+
+  A használhatóságot olyan funkciók hivatottak növelni, mint a kötetnövelés, RAID-migráció, kötet- és virtuálisdiszk-rekonfiguráció, valamint a redundáns tápegységek és hûtõk, valamint az üzem közben frissíthetõ firmware. Ugyanakkor nincs nyoma a kategóriatársak némelyikében már megjelent thin provisioningnek (a kötetek nagyobbnak látsznak a tényleges méretüknél, és igény szerint dinamikusan nõnek), valamint SSD-támogatásnak sem -- a cégtõl kapott információk szerint a 6780-ban várható majd SSD-k megjelenése az év második felében. 
+
+A Sun Storage 6780 kontrollere
+
+Az új termékek kapcsán a Sun leginkább a teljesítményrõl, valamint az energiatakarékosságról beszél. A 6580 a vállalat szerint kategóriájának legjobb ár-teljesítmény arányát produkálja, a 6780 pedig a még nagyobb teljesítményre áhítozó vevõk igényeit hivatott kielégíteni akár 16 darab (4 Gbps) FC host portjával, 16 gigabájtos gyorsítótárával -- ezeknek köszönhetõen a másodpercenkénti I/O mûveletek száma duplája a 6500-as sorozaténak. Újdonság a midrange kategóriában a RAID 6 támogatása.
+
+A Sun tárolóinak leginkább az EMC Clariionokkal, a HP EVA sorozatával, illetve a NetApp FAS3000 termékekkel kell megmérkõznie a vevõk kegyeiért -- ilyen kategóriás berendezésekbõl Magyarországon párszáz darab fogy egy év alatt mindössze. A Sun Storage 6580 listaára 60 ezer dollár, a 6780-asé pedig 90 ezer dollár diszkek nélkül, mai árfolyamon ez 14, illetve 21 millió forintnak felel meg. A Sun StorageTek Common Array Manager felügyeleti szoftvert az ár tartalmazza.

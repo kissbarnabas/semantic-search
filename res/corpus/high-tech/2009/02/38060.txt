@@ -1,0 +1,22 @@
+Integrált CPU-GPU termékekkel árasztja el jövõre az Intel a piacot
+
+Az Intel felgyorsítja 32 nanométeres csíkszélességgel készülõ termékeinek bevezetését, közölte a vállalat egy mai konferenciahíváson. Az új terméktervek néhány érdekes részletre világítanak rá, többek között arra, hogy az elsõ integrált CPU-GPU termék akár idén év végén, de legkésõbb jövõ év elején piacra kerülhet. 
+
+
+
+Nem a Nehalem helyett, hanem mellé érkezik a Westmere
+
+A világ legnagyobb chipgyártója egy mai konferenciabeszélgetésen frissítette x86-os termékterveit. Az elhangzottak alapján az Intel a 45 nanométeres processzorgenerációban kihagyja a processzort és grafikus magot egyaránt integráló termékeket, a korábban Auburndale és Havendale kódnéven ismert Nehalem-derivatívák piacra dobását, és igyekszik felgyorsítani a 32 nanométeres generációt bevezetését.
+
+Erre a 32 nanométeres gyártástechnológia állapota alapján szánta el magát a cég, derült ki a sajtótájékoztatón. További érdekességgel szolgál, hogy az Intel a kezdeti 32 nanométeres eljárással készülõ Westmere-generációs PC-processzorokkal nem váltja fel a 45 nanométeres Nehalemeket, hanem kiegészíti azokat. Ahogyan a HWSW korábbi cikkekben már jelezte, a 45 nanométeres Nehalem nagy, 260 négyzetmilliméteres méretével viszonylag drágán termelhetõ, és nem alkalmas arra, hogy olcsó tömegtermék váljék belõle, leginkább a piac felsõ részének igényeit szolgálja ki -- kézenfekvõ, hogy a széleskörû terjedéshez szükség volna a miniatürizációra. 
+
+
+ Az Intel az elsõ 32 nanométeres termékekkel a piac mainstream részébe igyekszik, mégpedig kétmagos processzorokkal, így lényegében nem a Nehalem, hanem a kétmagos Penrynek és Wolfdale-ek piaci pozícióit igyekszik átmigrálni a Westmere-re, ami éles kontrasztban áll az AMD négymagos felépítést erõltetõ megközelítésével. 
+
+Grafikus chip és processzor egyben
+
+Az elsõ Westmere-generációs termékek egy 32 nanométeres, kétmagos processzor mellett egy grafikus magot és DDR3-memóriavezérlõt integráló, 45 nanométeres lapkát is tokoznak -- ezt a CPU-GPU integrációt az Intel platform újrapartícionálásnak nevezi, arra a folyamatra utalva, hogy a videovezérlõ a chipkészletbõl átkerül a processzorba, helyesebben a processzorra. Az asztali változat kódneve Clarkdale, míg a noteszekbe szánt verzió Arrandale néven fut egyelõre. A grafikus mag a jelenlegi GMA 4500-as architektúrájához hasonló, de annál nagyobb teljesítményû, és kikapcsolható, vagyis a Clarkdale- és Arrandale-alapú gépekben tetszõleges videokártyát is lehet használni, a gyártók illetve a vevõk igényétõl függõen.
+
+A 45 nanométeres Nehalem az Intel kínálatának tehát továbbra is a csúcsát fogja képezni az asztali szegmensben, míg jövõre meg nem érkezik a hatmagos Gulftown, de azt követõen is megmarad a teljesítményigényesebb felhasználók számára. A Westmere így lényegében körülöleli a Nehalemet, alá és fölé érkezik a termékpalettán, a Gulftown lesz az új asztali csúcsmodell, a Clarkdale kódnevû kétmagos, integrált grafikás változat pedig az "igavonó". Valójában utóbbi a Wolfdale-t, a 45 nanométeres asztali Core 2 Duót váltja, míg a Clarkdale mobil testvére, az Arrandale a Penrynt.
+
+Az Intel tájékoztatása szerint a Gulftown kompatibilis a Core i7-tel együtt debütált X58 chipkészlettel, a Clarkdale és Arrandale pedig a 2009 második felében érkezõ új, mainstram asztali platform keretében debütáló Intel 5-ös sorozatú lapkaszettel mûködik együtt. 2010-ben érkeznek a majd a szerverekbe szánt Westmere-változatok is, azonban ezek kódneve, pontos konfigurációja, illetve a megjelenésük üteme egyelõre nem nyilvános.

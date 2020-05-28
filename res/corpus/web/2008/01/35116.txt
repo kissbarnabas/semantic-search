@@ -1,0 +1,12 @@
+Újabb kritikus hiba a Skype internettelefon szoftverben
+
+[Techworld] Újabb hibát találtak ay eBay tulajdonában lévõ Skype internettelefon szoftverben, mely kritikus biztonsági rést jelent. A hiba leírását az Aviv Raff tette közzé, eszerint a program rosszul használ egy Internet Explorer komponenst a HTML-oldalak rendereléséhez. Ne kattintsunk videót ígérõ linkre a Skype-ban.
+
+
+
+A problémát elsõsorban az okozza, hogy a Spye alacsonyabb biztonsági beállításoknak megfelelõ "helyi területi" zóna alatt futtatja az Internet Explorer komponenst, mely így sokkal több jogosultsággal bír, mint az Internet Explorer programon belül meghívva. Ennek köszönhetõen a támadók egy sor olyan dolgot megtehetnek, amelyek egyébként tiltottak, így írhatnak a merevlemezre, vagy elindíthatnak programokat.
+
+
+Ezt a problémát és a már jól ismert, weboldalakban található cross-scripting hibákat felhasználva a támadók megfelelõen módosított, egyébként megbízhatónak ítélt oldalakon keresztül scripteket futtathatnak, kártékony programokat tölthetnek le és telepíthetnek a felhasználó számítógépén. A hiba a Skype legutolsó változatában -- 3.6.0.244 -- található meg.
+
+A hiba javításáig az Aviv Raff azt tanácsolja, ne kattintsunk videót nyitó linkre a Skype szoftveren keresztül. A Skype legutóbbi windowsos kliense éppen videó terén nyújtott jelentõs elõrelépést, sokkal jobb minõségû, nagyobb felbontású képet ígér a felhasználóknak, feltéve, hogy azok rendelkeznek az ehhez szükséges hardverrel, szoftverrel és sávszélességgel.

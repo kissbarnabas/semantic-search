@@ -1,0 +1,12 @@
+Egyszerûbb hálózati nyomtatás a Xerox új, ingyenes szoftverével
+
+Laptophasználó olvasóink valószínûleg gyakran találkoznak azzal a kényelmetlen jelenséggel, amikor idegen helyen, például egy partnercégnél, netkávézóban vagy szállodában szeretnének nyomtatni, de a gépükön nem található meg az adott printerhez tartozó driver. Nekik próbál segíteni a Xerox az  ingyenesen letölthetõ Mobile Express Driverrel, amivel bármilyen hálózati nyomtatóra vagy multifunkciós berendezés egyszerûen használható.
+
+
+
+A Mobile Express Driver használatához csak rá kell csatlakozni a hálózatra, és kiválasztani egyet a nyomtatási ablakban automatikusan megjelenõ nyomtatók közül. A driver automatikusan feltérképezi az adott hálózaton található nyomtatókat, és nyomtatásnál azt is megmutatja, éppen melyik eszközök elérhetõk. Ráadásul a Mobile Express Driver kezelõfelülete megmutatja a berendezésekhez tartozó dokumentumkezelési lehetõségeket is, például a kétoldalas nyomtatást vagy a szkennelési opciókat.
+
+
+A már egyszer használt nyomtatókat a szoftver eltárolja a nyomtatólistában, így a következõ használat alkalmával egyszerûen elõhívhatók. A Mobile Express Driver emellett automatikusan betölti a különbözõ alkalmazásokhoz tartozó beállításokat: ha az e-maileket például fekete-fehérben és kétoldalasan szoktuk nyomtatni, akkor mindegyik eszközön ennek megfelelõen készülnek el, ezt többet nem kell kézzel konfigurálni. A Windows XP és Vista operációs rendszerekhez ingyenes letölthetõ program kompatibilis a Xerox összes berendezésével, és a más gyártóktól származó PostScript-nyomtatókkal egyarént, valamint a többfunkciós berendezésekkel is.
+
+A Xerox által piacra dobott másik nyomtatómeghajtó-program a szintén Windows XP-hez és Vistához használható Global Print Driver, amely egyszerûsíti az új nyomtatók és multifunkciós berendezések beüzemelését.  Eddig a rendszeradminisztrátoroknak minden egyes használni kívánt nyomtatóhoz installálniuk kellett egy adott nyomtatódrivert. A Global Print Drivernek telepítése után azonnal használhatjuk a nyomtatókat, és egységes felületrõl kezelhetjük azokat függetlenül attól, hogy melyik berendezésrõl nyomtatunk. A nyomtatódriver a PostScript, PCL 5 és PCL 6 szabványokat használó Xerox- és nem-Xerox termékeket is támogatja.

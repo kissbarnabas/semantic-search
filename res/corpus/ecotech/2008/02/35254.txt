@@ -1,0 +1,15 @@
+Az NVIDIA kezében a PhysX fizikai chipjérõl ismert AGEIA
+
+Kötelezõ érvényû megállapodást írt alá a PhysX fizikai gyorsítóchipjérõl és fizikai modellezõ szoftverérõl ismert AGEIA felvásárlásáról az NVIDIA. A cél az, hogy az AGEIA technológiáit a jövõben az NVIDIA termékekbe integrálják, vagyis a GeForce chipek ne csak grafikus, hanem fizikai gyorsítóként is használhatók legyenek.
+
+
+
+"Az AGEIA csapata világszintû, és ugyanaz a szenvedélyük mint nekünk: a legelképesztõbb és magával ragadóbb játékok létrehozása" -- mondta az akvizíció kapcsán Jen-Hsun Huang, az NVIDIA elnök-vezérigazgatója. "A világ legismertebb GPU-ját és fizikai motorját létrehozó csapatok házasításával játékosok százmilliói számára tesszük elérhetõvé a PhysX gyorsítást a GeForce segítségével." Az NVIDIA közleménye szerint a GeForce 8800GT grafikus chip ideális lehet akár fizikai gyorsítóként is, hiszen 128  stream processzora párhuzamos feldolgozás esetén két nagyságrenddel erõsebb bármilyen két- vagy négymagos x86 processzornál.
+
+ Az AGEIA-t hat éve alapították, a cég PhysX chipjére épülõ gyorsítókártyák 2005 végén kerültek a boltokba. A tesztelõk azonban nem voltak elragadtatva a PhysX által nyújtott élménytõl, ugyanis csak kevés játék tudta kihasználni a benne rejlõ lehetõségeket, ráadásul a valósághûbb fizikai modellezésért alacsonyabb megjelenítési sebességgel is fizetni kellett
+A technológia azonban sosem terjedt el széles körben, csupán pár játék képes kihasználni a hardveres fizikai gyorsítókártyák erejét. A legismertebb, PhysX-et támogató játék talán az Unreal Tournament 3, amely a tavalyi év egyik nagy reménységének ígérkezett, azonban a patinás névhez méltatlanul szerepelt a piacon és a tesztelõk sem igazán voltak elragadtatva tõle.
+
+
+ Piaci szakértõk szerint a hardveresen gyorsított fizikai motorok aligha fognak széles körben elterjedni, ha nem állnak rendelkezésre a megfelelõ fejlesztõi eszközök hozzájuk és nincs meg a felvevõpiac. Az NVIDIA támogatásával a PhysX technológia sokkal szélesebb felhasználói bázisra tehet szert, ami arra serkentheti a szoftverfejlesztõket, hogy elkezdjék kihasználni a hardveres fizikai gyorsításban rejlõ lehetõségeket, így végeredményben részletesebb modelleket tartalmazó, valósághûbb játékok születhetnek. 
+
+Amint arról lapunk is beszámolt, az Intel tavaly szeptemberben jelentette be a Havok megvásárlását, amely a számos játék fizikai motorjának alapjául szolgáló technológiát fejleszti. Ezt követõen a grafikus chipek fizikai gyorsítóként történõ alkalmazását lehetõvé tevõ Havok FX fejlesztése leállt, mivel az Intel inkább a saját CPU-it látta volna szívesen a fizikai gyorsító szerepében.

@@ -1,0 +1,22 @@
+Beindult Európa elsõ kereskedelmi mobil WiMAX hálózata
+
+Európában elsõként indult be kereskedelmi mobil WiMAX hálózat tegnap Amszterdamban. Az egyelõre csak a városközpontot lefedõ hálózaton a Worldmax holland operátor kedvezõ áron kínál mobil szélessávú internethozzáférést. A kontinensen mûködõ többi hálózat a WiMAX fix verzióját alkalmazzák, telepített végponti eszközökkel.
+
+
+
+Így vagy úgy, de beindul
+
+A Worldmax, melyben a WiMAX legnagyobb támogatójának számító Intel is befektetõ, komoly versenyt támaszthat a mobilszolgáltatók számára, melyek a mobil internetben látják a mobilpiac csökkenése elleni szérumot. A cég mintegy 20 euróért, hozzávetõleg havi 4800 forintért kínál forgalmi korlát nélküli internethozzáférést. A hálózat által alkalmazott 802.16e szabvány elméletileg akár 75 megabites másodpercenkénti átvitelt is lehetõvé tesz, ami a gyakorlatban kétségtelenül sosem valósul meg, ugyanakkor vételi viszonyoktól függõen jellemzõen több megabites letöltési sebességet sejtet.
+
+A mobilszolgáltatók meglévõ ügyfelei mellett új csoportokat is meg kíván hódítani magának a Worldmax, nevezetesen a fiatalokat, akik többségében jelenleg nem engedhetik meg maguknak a mobil internetet. A vállalat alacsonyabb árakkal és hûség nélküli csomagokkal igyekszik magához csábítani majd az ügyfeleket. Egész Hollandia lefedéséhez mintegy 3000 bázisállomásra lesz szükség, becsli a vállalat, ami több tízmillió euróba, vagyis forintmilliárdokba fog kerülni.
+
+
+ A friss, 2005-os szabványokra épülõ WiMAX hálózatok több mint 600 ezer elõfizetõvel szerénykednek világszerte, ráadásul ezek többségükben telepített eszközökkel használhatóak, nem alkalmasak mobilitásra. Hollandián kívül még hat európai országban (Nagy Britannia, Írország, Belgium, Dánia, Bulgária, Észtország) található mûködõ mobil WiMAX, vagyis 802.16e hálózat, ezek kereskedelmi indulása rövidesen várható. 
+
+A WiMAX elõnye a mobilhálózatokkal szemben, hogy a technológia nyitott, és a berendezések szabadalmi jogdíjtartalma is jóval alacsonyabb, vagyis természetszerûleg olcsóbbak -- hogy ezt realizálni is tudja azonban, ahhoz méretgazdaságosságra van szüksége a hatalmas GSM-világ árnyékában. A Maravedis piackutató értékelése szerint miközben a WiMAX fokozza majd a versenyt a mobil és fix kommunikációs piacon egyaránt, nem fogja kiszorítani a 3G/4G-s hálózatokat, sõt a többnormás eszközök várható megjelenésével kiegészítõje lehet azoknak. A WiMAX körüli jelenlegi bizonytalanságot jól jellemzi, hogy miközben a Maravedis optimista forgatókönyve 127 millióra, a pesszimista csak 25 millióra várja az elõfizetõk számát 2012 végére, vagyis 5 év múlva.
+
+A HSPA/LTE ellen
+
+A WiMAX adoptációjának képét leginkább az befolyásolja majd, hogy a koncessziós mobilszolgáltatók milyen arányban veszik fel arzenáljukba azt, és nyújtanak szélessávú internetet például notebookok számára, melyekben az év második felétõl, a közelgõ Centrino 2 terjedésével bukkannak fel a WiMAX-chipsetek. Ezeket az ambíciókat leginkább az UMTS technológia fejlesztései húzhatják keresztül, melyek viszonylag költséghatékonyan bõvítik a 3G-s hálózatok kapacitásait. A HSDPA és HSUPA hálózatokat követõ HSPA+, vagy Evolved HSPA (3GPP Release 7) már több tíz megabites letöltési sebességet kínál, míg az Long Term Evolution (LTE) néven ismert Release 8 szabvány már egy teljesen IP-alapú, 100 megabit/s tartományban mozgó, alacsony késleltetésû, hatékony és rugalmas hálózatot definiál, mely gyakorlatilag egy szoftverfrissítéssel már teljesértékû 4G-s hálózattá tehetõ késõbb, gigabites cellakapacitással. 
+
+A WiMAX azonban a mögé felsorakozott hatalmas támogatottság miatt mindenképpen ki fog magának hasítani valamekkora szeletet a piacból, és a meglévõ mobilszolgáltatóknak mindenképpen új piaci ellenfelekkel kell szembenézniük, legyen szó teljesen új belépõkrõl, vagy korábban a vezetékes telekommunikációban szereplõ vállalatokról. Jelenlegi ismeretek alapján Magyarországon egyedül a Vodafone kísérletezik WiMAX-szal. A spektrum hazai tendereztetése jövõre várható, mely iránt vezetékes internetszolgáltatók is kifejezték érdeklõdésüket, köztük a nemrég tõzsdére vonult Externet is. A WiMAX-nál közelebbi a 3G-s mobilhálózatok 900 megahertzes tartományban történõ megjelenése, mely újabb lendületet adhat a mobil internetezésnek a gazdaságosabb lefedettség révén. Beck György, a Vodafone Magyarország vezérigazgatója reményei szerint idén megtörténik a hatósági engedélyezés, és jövõre megindulhat a hálózatépítés.

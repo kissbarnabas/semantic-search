@@ -1,0 +1,14 @@
+Pár éven belül több netbook találhat gazdára, mint notebook
+
+Egyre több iparági szereplõ gondolja úgy, hogy az olcsó, korlátozottan használható netbookokból rövidesen több fogy majd, mint nagyobb tudású, egyben drágább társaikból, a notebookokból. Az érdeklõdés továbbra is töretlen a kis gépek iránt, az újabb, fejlettebb modellek megjelenése pedig további vásárlókat téríthet a kicsi és könnyû, ezzel együtt nagyobb tömegek számára is elérhetõ árú hordozható számítógépek felé.
+
+
+
+Hamarosan több netbookot adhatnak el a gyártók, mint noteszgépet, legalábbis így látja a piacot az egyik ismert komponensgyártó, az elsõsorban mobiltelefonokba építhetõ processzorokban utazó Qualcomm elsõ embere, Paul Jacobs. A gyártó még idén csatlakozik a netbookpiaci márkák beszállítói köréhez saját, Snapdragon nevû platformjával. Az új platformra építve olcsóbb, illetve a jelenlegi modelleknél lényegesen hosszabb, akár egy teljes napon át tartó akkumulátoros üzemidõvel kecsegtetõ netbookokkal egészíthetik ki jelenlegi, zömében Intel Atom-alapú választékukat a gyártók.
+
+A Snapdragon-alapú netbookokon az eltérõ architektúra miatt nem windowsos környezet fut majd, a szoftverháttér teljes egészében linuxos alapokra épül, ezúttal azonban nem a Windows felhasználói felületét idézi majd a rendszer, a kezelõfelület sokkal inkább hasonlít majd az Apple okostelefonok szoftverére. Korábban felmerült, hogy egyes gyártók az ARM-alapú netbookjaikon a Google nevével fémjelzett operációs rendszer, a Linux-alapú Android fut majd. Jacobs szerint eddig tizenöt cég, többek közt az Acer, a Toshiba és a Samsung jelezte, hogy snapdragon-alapú netbookon dolgozik.
+
+
+Hasonlóképpen látja a netbookpiac fellendülését a világ harmadik legnagyobb számítógépgyártója, az Acer, melynek elsõ embere szerint a folyamatos érdeklõdés és az újabb típusok megjelenésével két év múlva több netbook fogy majd világszerte, mint notebook. A netbookpiacot 32 százalékos részesedéssel vezetõ tajvani gyártónál jelenleg az eladott hordozható számítógépek 30 százaléka netbook, ami máris jóval magasabb érték a tavalyi világpiaci aránynál -- a Gartner szerint 2008-ban összesen 143 millió notebook és csupán 12 millió netbook talált gazdára.
+
+Egy másik piackutató, az IDC egy korábbi jelentése szerint a netbookok piaca 2009-ben is erõs, kétszámjegyû növekedésre számíthat, részben az üzleti felhasználók számára is vonzóvá váló, egyre fejlettebbé váló technológiáknak (kétmagos Atom processzor, 10 hüvelykes kijelzõk), részben a fogyasztói szegmens részérõl jelentkezõ folyamatos igénynek köszönhetõen. A piackutató rámutat, hogy a gazdasági recesszió is elõsegíti az olcsó termékeket kínáló netbookpiac idei növekedését.

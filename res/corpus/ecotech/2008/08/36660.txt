@@ -1,0 +1,20 @@
+A mobil munkaerõt támogató megoldáscsomagot mutatott be az IBM
+
+Az IBM a mai napon új szoftver és szolgáltatás együttest jelentett be kifejezetten mobil eszközökhöz fejlesztve, támogatva a mobil kapcsolattartást és munkavégzést. Ennek segítségével, olyan funkciókkal bõvül a mobil környezet, melyek korábban csak számítógép klienseken  voltak elérhetõek. A bemutatott megoldások mind az üzleti mind az egyéni felhasználók számára kínálnak újdonságokat.
+
+
+
+Az IBM legújabb fejlesztése gyorsabb üzleti döntéseket és folyamatos kapcsolatot ígér üzletfelekkel, kollégákkal és barátokkal, olyan módon, mint ahogyan azt a PC korszakban, a gép elõtt ülve megszokhattuk. Figyelembe véve, hogy a technológiát használó személyek a szabadidejükben sem mondanak le a munkaeszközök jelentette kényelemrõl, az IBM nem kizárólag üzleti funkciókkal, hanem számos fogyasztói megoldást is integrált. 
+
+Az IBM Üzleti Értékek Intézetének vizsgálata szerint világszerte hamarosan eléri az egy milliárd fõt a mobil internetet használók száma, ami 191 százaléka növekedés 2006-hoz képest, plusz ez évenként további 24 százalékkal növekszik. A számítógéppel dolgozók 67 százaléka pedig már ma is mobil illetve valamilyen vezetéknélküli kapcsolatot is használ a hálózathoz való csatlakozásra. Az IBM éppen ezt a trendet kívánta meglovagolni azzal, hogy õ is megjelent egy sajátos fejlesztéssel, ami lehetõvé teszi az eddig csak PC környezetben futó alkalmazások mobil készülékeken való futtatását. 
+
+A csomag által felvonultatott termékek lefedik az üzleti intelligencia, a közös munka, közösségi hálózatok és az üzleti teljesítménynövelõ alkalmazások területeit is. A Cognos 8 Go Mobile szoftverrel a felhasználók el tudják érni az üzleti intelligencia adatokat, illetve az IBM kiadott egy béta verziójú szoftvert, a Domino Web Access 8.0.2-t, a webes elérés, e-mail és naptár funkciók eléréséhez az iPhone 3G-n. Mivel az IBM szoftverei nyílt forráskódokra épülnek, ezért szinte minden platformon használhatóak lesznek, mint például a BlackBerry, iPhone, Windows Mobile és Symbian operációs rendszerek alatt. 
+
+A Kék Óriás nemcsak alkalmazásokat ad a mobil munkavégzés támogatására, hanem fejlesztõi eszközöket is a meglévõ kliens-szerver alkalmazások mobilizálásához. A Rational Host Access Transformation Services segítségével webes felületre lehet konvertálni a System z mainframe és i5/OS terminál alkalmazásokat, és külön rendelkezik támogatással mobiltelefonok és kéziszámítógépek számára is.
+
+
+A bejelentésnek a szoftverek mellett fontos részét képezi az IBM által kínált új üzleti tanácsadói szolgáltatás, ami elõsegíti a mobil munkakörnyezet kezelését. A Mobility@Work-nek nevezett tanácsadói és implementációs szolgáltatások az IBM szerint akár 30 százalékkal is növelhetik a dolgozók produktivitását és komolyan csökkenti az ingatlanra fordított kiadásokat.. A rugalmasság, hatékonyság és a dolgozók elégedettsége mind javítható a mobil munkakörnyezet fejlesztésével. 
+
+Továbbá az IBM stratégiájának fontos részét képezi a szolgáltatások automatizálása is. WebSphear Business Monitor néven egy olyan analitikus szoftvert fejlesztettek, melynek segítségével az alkalmazottak és fõként a vezetõk, bármikor menet közben képesek ellenõrizni percre pontosan, hogy hogyan teljesít az üzletük, s akár a vállalat termelési folyamatairól is pontosan tájékozódhatnak egy egyszerû mobil eszköz segítségével. 
+
+Az IBM saját maga is elkötelezett híve a mobil munkaerõnek, hiszen nálunk már a dolgozók 40%-a nem helyhez kötött, így a fejlesztésekhez eleve egy komoly teszt környezet áll rendelkezésre a cégen belül. A belsõ felhasználáson túl számos vezetõ telekommunikációs szolgáltató vezette be az IBM megoldásait, úgy mint az AT&T, Bharti, China Telecom, Sprint és a Virgin Mobile. 

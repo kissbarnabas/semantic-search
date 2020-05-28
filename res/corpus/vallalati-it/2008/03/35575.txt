@@ -1,0 +1,16 @@
+Újra van nyolcfoglalatos ProLiantje a HP-nak
+
+A HP Tech@Work rendezvényen új, nagyteljesítményû x86-szervert mutatott be a HP, a ProLiant DL785 G5 egy nyolc darab négymagos Opteronra épülõ kiszolgáló, amelyet elsõsorban konszolidációs projektekhez, illetve igazán nagy teljesítményt igénylõ alkalmazások futtatásához lehet ideális. 
+
+
+
+A HP kínálatában régóta nem volt ilyen nagy x86-szerver, a cég ugyanis a többmagos processzorok érkezésével párhuzamosan felfüggesztette a négynél több foglalatot tartalmazó x86-kiszolgálók értékesítését, ahogy a kereslet a kisebb, de egyre erõsebb konfigurációk felé tolódott el. A szervervirtualizáció terjedésével azonban úgy tûnik, ismét megélénkül az igény az ilyen óriási teljesítményû gépek iránt, amelyekkel több kisebb szerver is kiváltható, ezzel hatékonyabbá és relatíve olcsóbbá tehetõ az infrastruktúra üzemeltetése, miközben a rendelkezésre állás is javulhat. A ProLiant DL785 G5-ben ennek érdekében a tápegységek és a hûtõk mellett a ROM is redundáns.
+
+A ProLiant DL785 G5 egy rackbe szerelhetõ, 7U magas házban kapott helyet. A gépbe nyolc darab négymagos (Barcelona) Opteron került, ezekhez összesen 256 gigabájt memória csatlakoztatható, a modulok számára összesen 64 foglalatot alakítottak ki a házon belül. Maximális memóriakiépítés használata esetén 533 MHz-es DDR2 memóriák támogatottak, 128 gigabájt vagy ennél kevesebb memória használatakor azonban 667 MHz-es órajellel is mûködhetnek a modulok. A HP bejelentése szerint a gépet felkészítették a 8 gigabájtos memóriák fogadására is, így amint elérhetõvé válnak, a maximális kapacitás 512 gigabájt lehet.
+
+
+A szerveren belül 8 darab 2,5" méretû SAS merevlemezt lehet elhelyezni, egy külsõ keretben pedig további 8-at csatlakoztathat a felhasználó, így összesen 2,3 terabájt belsõ háttértárkapacitás felett diszponálhat. A ProLiant DL785 G5 maximális bõvíthetõségérõl 11 darab PCIe bõvítõhely gondoskodik, de az év második felétõl a  szerver rendelhetõ lesz 7 PCIe és 2 HTx slottal is. A távfelügyeletet iLO2 (Integrated Lights Out 2) biztosítja. A ProLiant DL785 G5 hivatalosan Microsoft Windows, Linux és Sun Solaris operációs rendszereket támogat és májustól szállítják, az árak 17 ezer dollártól indulnak.
+
+
+
+A DL785-tel egyszerre mutatkozott be a HP Insight Dynamics VSE infrastruktúra-felügyeleti szoftver, amely a cég szerint a világon elsõként teljesen egyformán és egyenrangúan kezeli a fizikai és virtuális szervereket és valós idõben optimalizálja az erõforrásokat, segítségül hívva a korábbi adatokat többek között az alkalmazások teljesítményigényérõl, a rendelkezésre állásáról, valamint az adatközpont fogyasztásáról. Az adminisztrátorok egyetlen felületen menedzselhetik az összes szerverüket, függetlenül attól, hogy fizikai vagy virtuális gépekrõl van-e szó, illetve hogy a virtuális gépek milyen hypervisoron futnak. A VSE minden szervert logikai szerveként kezel és szabadon tudja õket mozgatni az infrastruktúrán belül, gondoskodta a P2V, V2V és V2P migrációkról is.

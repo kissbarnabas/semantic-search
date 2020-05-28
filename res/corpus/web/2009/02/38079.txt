@@ -1,0 +1,14 @@
+Az Opera mindegyik webböngészõje megkapja a Mini tömörítési technológiáját
+
+A jövõ héten kezdõdõ Mobile World Congress alkalmával régi-új, az internetkapcsolatok optimálisabb sávszélesség-kihasználását lehetõvé tevõ technológiával rukkol elõ a webböngészõirõl ismert Opera Software. A sávszélességgel spóroló, ezzel a szolgáltatók infrastruktúrájának terheltségét, illetve a letöltött adatmennyiségért fizetõ felhasználók költségeit mérséklõ, továbbá a weboldalak gyorsabb megjelenítését célzó rendszer minden platformon elérhetõ lesz.
+
+
+
+Az Opera Turbo névre keresztelt technológiát a szoftvercég a jövõben a PC-gyártókon és a mobiltelefonokat gyártó cégeken keresztül az összes PC-s és mobiltelefonos webböngészõjébe beépíti, így a Turbo egyaránt része lesz az Opera Desktop és Opera Mobile böngészõknek. Az Opera Turbo ugyanazt az eljárást használja majd, mint az egyre nagyobb népszerûségnek örvendõ mobiltelefonos kliens, az Opera Mini, mely lényegében nem más, mint a weboldalak elõre renderelt képének egyfajta megjelenítõablaka.
+
+A Turbo bekapcsolásával az Opera webböngészõk különbözõ változatai a weboldal teljes megjelenítéséhez szükséges sávszélességet akár 80 százalékkal is csökkenthetik -- a böngészõk ilyenkor valójában az Opera saját szerverével kommunikálnak, mely elõre letölti és a tartalom megváltoztatása nélkül tömöríti az oldalakat. Mindebbõl a felhasználó a cég ígérete szerint alig vesz majd észre valamit, igaz, a tömörítés mértékébõl adódóan az oldalakon található képes és grafikus elemek minõsége az Opera Minivel szerzett tapasztalatok alapján jelentõsen romolhat.
+
+
+Hasonló módszerrel végzett tömörítési technológiát több mobilszolgáltató is alkalmaz mobil szélessávú interneteléréseinél, részben a hálózat terheltségét, részben a felhasználók költségeit csökkentendõ. Ilyen például a Vodafone hazánkban is mûködõ Vodafone Internet Plusz szolgáltatása, melyhez az internet.vodafone.net APN-t kell megadni a modemek megfelelõ beállításánál. Ilyenkor a böngészõben semmilyen további paramétert nem kell átállítani, az oldalak a továbbiakban áttömörítve érkeznek a kliensgépre a Vodafone szervereirõl.
+
+A hasonló elven mûködõ, böngészõkbe épített Opera Turbo a szabadon letölthetõ Opera browserekbe nem kerül bele, csak a PC-gyártók és a mobilkészülék gyártói által elõtelepített változatokban lesz elérhetõ.

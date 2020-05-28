@@ -1,0 +1,17 @@
+Augusztusban jön az Internet Explorer 8 második bétája
+
+A Microsoftnál utolsó hónapját töltõ, és július 1-tõl már csak karitatív tevékenységet folytató Bill Gates a floridai Orlandóban kezdõdõ Tech-Ed konferencián bejelentette, augusztusban érkezik az IE8 második bétája.
+
+
+
+A fejlesztõcsapat korábban csak annyit közölt, a böngészõ új elõzetese a harmadik negyedévben lesz hozzáférhetõ, Gates most ezt pontosította némiképp. Az IE8 Beta 2 elõször angolul lesz elérhetõ, de egy hónapon belül 20 különféle nyelven kiadják, hogy a lehetõ legszélesebb közönség tudja használni, és a beérkezõ visszajelzések alapján a Microsoft elvégezhesse az utolsó simításokat a végleges verzió õszre ígért megjelenéséig.
+
+
+Gates nem sokat beszélt az új böngészõrõl, csupán két képességet mutatott be. Az egyik (Activities) lehetõséget ad arra, hogy a felhasználó az adott weboldalon található információkat közvetlenül egy másik oldal inputjaként használja, például egy bolt címét automatikusan, egyetlen kattintással bedobhatja a Live Mapsbe, egy termék nevét az eBay keresõjébe, egy ismeretlen szót a Wikipediaba vagy szótárba. A másik, Gates által említett szolgáltatás (Web Slices) az Apple Safari Web Cliphez hasonlóan képes a weboldalak egyes részeibõl widgeteket létrehozni, amelyeket a felhasználó úgy is megnézhet, hogy közben magát az oldalt nem látogatja meg.
+
+
+A MIX08 konferencián, az IE8 elsõ bétájának bejelentésekor Chris Wilson, az Internet Explorer platformmérnöke elmondta, a következõ generációs böngészõ fejlesztésekor kiemelt figyelmet fordítanak a még nagyobb biztonságra, a könnyebb használhatóságra és a szabványoknak való megfelelésre. A böngészõ két módban képes megjeleníteni a weboldalakat, "szabványos", és "IE7 emulációs" módon.
+
+Utóbbira azért van szükség, mert az Internet Explorer korábbi változatai nem voltak (teljesen) kompatibilisek egyes webes szabványokkal, ezért a szabványos oldalak néha nem, vagy nem jól jelennek meg bennük. A fejlesztõk egy része az IE piaci dominanciája miatt éppen ezért nem a szabványok követését tartotta fontosnak, hanem azt, hogy az oldaluk Internet Explorerben jól nézzen ki, ezek a lapok azonban a szabványos IE8-ban nem, vagy rosszul lennének láthatóak. Ekkor segít az IE7 emuláció. 
+
+A webfejlesztõknek elég a korábbi weboldalaikba egy taget elhelyezniük, amely az IE8-at IE7-módba kapcsolja, vagyis a felhasználónak semmit sem kell tennie annak érdekében, hogy minden weboldalt úgy lásson, ahogy a tervezõi megálmodták. Persze a felhasználó is válthat a módok között, ha úgy akarja.

@@ -1,0 +1,22 @@
+Novell azonosságkezelési rendszer a Magyar Telekomnál
+
+A Novell személyazonosság- és hozzáféréskezelési megoldását vezette be a Magyar Telekom. A legnagyobb hazai távközlési szolgáltatónál a 2007-ben elindított szervezeti átalakulással, a T-Com, a T-Online, a T-Mobile, a T-Systems és az Emitel összeolvadásával együtt kezdõdött meg a korábbi elszigetelt jogosultságkezelési rendszerek konszolidációja. 
+
+
+
+A határidõk igen szûkösek voltak, a szállítót 2007 szeptemberében választották ki, az éles rendszer pedig 2008. január 1-én már üzembe is állt. A feszített tempó mellett nemigen volt lehetõség tesztelésre, pilot projektre és oktatásra, ráadásul nem volt B-terv sem, az év elsõ napján az új jogosultség- és hozzáféréskezelési rendszernek úgy kellett elindulnia, hogy kiállja a szervezeti átalakulással valamint az évkezdéssel járó rohamot. 
+
+
+
+Bõvülõ piac
+
+A Forrester szerint 2007-ben az azonosságkezelési megoldások és a hozzájuk kapcsolódó konzultációs és egyéb szolgáltatások piaca 2,6 milliárd dollár volt, de 2014-re 12,3 milliárd dollárt tesz ki. A Novell IDM megoldásokból származó bevétele az április 30-án véget ért pénzügyi negyedévben 27 millió dollár volt, ami éves szinten 13 százalékos növekedést jelent.
+
+
+
+Gerencsér László, a szolgáltató IT-biztonsági osztályvezetõje a HWSW kérdésére elmondta, azért döntöttek a Novell megoldása mellett, mert a versenytársak közül technikailag és az árát tekintve is ez bizonyult a legjobbnak. A kétkörös verseny utolsó stádiumában a szállítóknak egy megvalósíthatósági demó keretében lényegében "vizsgafeladatokat" kellett végrehajtaniuk a saját megoldásukkal, ezt az akadályt a Novell vette a legjobban.
+
+
+ Szittya Tamás, a Novell hazai leányvállalatának vezetõje elmondta, cége az IDC 2006-os adatai szerint a hazai személyazonosság-kezelési piacon 33 százalékos részesedéssel az elsõ helyen állt. A Novell IDM megoldásának legnagyobb hazai felhasználói közé tartozik a Magyar Telekom mellett az Országos Rendõrfõkapirányság és az Országos Igazságszolgáltatási Tanács Hivatala is. Magyarországon Novell személyazonosság-kezelési rendszerek összesen mintegy 100 ezer felhasználót szolgálnak ki -- mondta el Szittya.
+
+A Magyar Telekomnál a Novell IDM rendszere több mint 10 ezer felhasználót és 300 informatikai rendszert szolgál ki, 14 ezer féle jogosultságot tartanak benne nyilván, az összes jogosultságok száma pedig meghaladja a 150 ezret. Az éles indulással a projekt még nem fejezõdött be, jelenleg is folynak fejlesztések, illetve az archiktektúra konszolidációja (pl. interfészek portolása), majd ezután következik a jogosultság-adminisztráció automarizálása, amelytõk a helpdesk-hívások csökkenését és a rendszergazdák hatékonyabb munkvégzését, végsõ soron pedig kézzelfogható költségmegtakarítást vár a Magyar Telekom.

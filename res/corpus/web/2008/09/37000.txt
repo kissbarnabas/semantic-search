@@ -1,0 +1,18 @@
+Elvágtak a külvilágtól egy spammer internetszolgáltatót az Egyesült Államokban
+
+Egy notórius visszaesõ internetszolgáltatót elvágtak a világhálótól az Egyesült Államokban, miután egyik adatkicserélõ központ sem volt már hajlandó kapcsolatot biztosítani neki. A Pacific Internet Exchange (PIE) szombat este szüntette meg a sorozatos csalással vádolt Intercage szerzõdését, ezzel lényegében elvágva azt és az ügyfeleit a világhálótól.
+
+
+
+"Kivetette magából" az internet az Intercage amerikai szolgáltatót, mivel folyamatosan megsértette a hálózat minden írott és íratlan szabályát. Feltételezhetõen a Spamhaus kéretlenlevél-ellenes csoport nyomásának engedve függesztették fel a szolgáltatót, miután szeptember 12-én a Spamhaus tiltólistára tette az egész Pacific Internet Exchange-et, miután az Intercage rajtuk keresztül szabadította a kéretlen leveleit a hálóra -- derült ki a Spamhaus beszámolójából. A Spamhaus feketelistáját világszerte mintegy 1,5 milliárd email-fiók védelmére használják, így érzékenyen érint minden szolgáltatót, ha e csoport fókuszába kerül. 
+
+Múlt hónapban cyberbûnözéssel foglalkozó amerikai szakértõk egy csoportja is jelentést adott ki az Intercage-rõl, azt állítva, hogy a San Franciscó-i vállalat "a cyberbûnözés egyik fontos csomópontja". A kutatók úgy találták, hogy a szolgáltató által kezelt domainnevek és levelezõszerverek 78 százaléka ellenséges vagy rosszindulatú. Az Intercage az elmúlt öt év alatt folyamatosan tagadta a vádakat az illegális tevékenységgel kapcsolatban, csak most, a problémák tetõzésekor kezdtek reagálni azokra, amikor már komoly bajban voltak. 
+
+[+] Magyar netre magyar spamet!
+
+Pár héttel ezelõtt más adatkicserélõ központok leállították a problémás ügyfél szolgáltatását, de a Pacific Internet Exchange  még fogadta a renitenst, életben tartva a virtuális "bûnbarlangot". Az Intercage vezetõje azt állítja, hogy õk megpróbálták eltávolítani a rosszindulatú ügyfeleket a hálózatukból és igyekeztek készségesebbek lenni a vádlókkal, de ez nem volt elég a PIE-nek, hogy ne dobja ki õket. Nyilvánvalóan elfogyott a türelem, hisz csak a Spamhaus több mint 350 olyan esetet jegyez az elmúlt három évbõl, amikor az Intercage megsértettt valamilyen írott vagy íratlan szabályt. A hosszú ideig tartó panaszkodás, könyörgés után az internetes közösség felszívta magát és megtette azt, amire a jog és a végrehajtás képtelen volt, elvágták a szolgáltató összeköttetését a külvilággal, megakadályozva ezzel a további problémákat.
+
+
+"Ez csupán egy eset volt, ami túl sokáig húzódott anélkül, hogy helyén kezelték volna a problémát, de úgy tûnik a közösség gondoskodott a szükséges lépésekrõl, megtisztítva az internetet egy sor problémától, akkor amikor minden más eszköz kudarcot vallott" -- nyilatkozta Paul Ferguson, a Trend Micro egyik biztonságtechnikai szakértõje.
+
+A probléma ugyanakkor nem szûnt meg végérvényesen, hiszen a tegnapi nap folyamán Emil Kacperski, az Intercage vezetõje azt nyilatkozta, hogy új szolgáltatót keres, bár egyelõre azt nem tudja, hogy mennyi ideig tart majd mire újra online lesz. "Az egészet újra kell kezdenem" -- mondta. Bár ebbõl a nyilatkozatból nem derül ki egyértelmûen, hogy a kártékony tevékenységeket szeretné újrakezdeni vagy tiszta lappal indulva egy korrekt internetszolgáltatást szeretne nyújtani, de vélhetõen az eddig jól mûködõ üzleti modelljétõl nem fog komolyan eltérni.

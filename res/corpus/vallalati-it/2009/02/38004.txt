@@ -1,0 +1,10 @@
+Új Seagate merevlemezek szerverekbe, tárolókba, akár 2 terabájtos kapacitással
+
+A Seagate is elõrukkolt 2 terabájt kapacitású merevlemezével, a Constellation ES sorozatú meghajtót szerverekbe, tárolóeszközökbe szánja a cég. A 3,5 hüvelykes kivitelû Constellation ES sorozat tagjai 2 terabájtos, 1 terabájtos és 500 gigabájtos kivitelben lesznek kaphatók a harmadik negyedévtõl. A korábbi Barracuda ES termékcsalád tagjait leváltó meghajtók SATA vagy SAS csatlakozófelülettel, kiviteltõl függõen 32 vagy 16 megabájt cache-sel rendelkeznek.
+
+
+
+
+ Nem a Seagate az elsõ cég, amelyik 2 terabájtos kapacitású diszkkel jelentkezik, a Western Digital január végén jelentette be saját megoldását, azonban a WD meghajtója percenként 5400-at pörög, a Seagate Constellation ES fordulatszáma azonban percenként 7200-at is elérheti. A feltételes módot az indokolja, hogy a diszkek képesek automatikusan csökkenteni a fordulatszámukat, vagy akár teljesen ki is kapcsolni, amennyiben nincs rájuk szükség, ezzel energiát takarítva meg.
+
+A világ legnagyobb merevlemezgyártója emellett bemutatta a 2,5 hüvelykes Constellation sorozatot is: a 3 GBps SATA vagy 6 GBps SAS 2.0 interfésszel rendelkezõ meghajtók 160 és 500 gigabájtos változatban érkeznek a piaca. A diszkeket szerverekbe és tárolókba szánja a cég. A 2,5 hüvelykes Constellation diszkek is tartalmazzák a PowerChoice energiatakarékos technológiát, amely ideális esetben akár 50 százalékkal képes csökkenteni a fogyasztást és a hõtermelést. A 2,5 hüvelykes Constellation diszkek heteken belül megjelennek a piacon.

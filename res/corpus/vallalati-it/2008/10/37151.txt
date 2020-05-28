@@ -1,0 +1,14 @@
+Majdnem egy tucat frissítés jön kedden a Microsofttól
+
+Majdnem egy tucat biztonsági frissítés várható a Microsofttól jövõ kedden, a világ legnagyobb szoftvercége a Windows mellett az Internet Explorer, az Office, az Active Drirectory, valamint a Host Integration Server sebezhetõségeit javítja.
+
+
+
+A 11 patchbõl 4 kritikus sérülékenységre jelent gyógyírt, 6 pedig súlyos hibát foltoz be. A kritikus sebezhetõségeket az Office-ban, az Active Directoryban, az Internet Explorerben, valamint a Host Integration Serverben találta a Microsoft, de részletes információkat egyelõre nem hozott nyilvánosságra, nehogy a javítás megjelenése elõtt rosszakarók a sérülékenységeket kihasználó kódokat írhassanak és terjeszthessenek. A 11 frissítésbõl 7 olyan is van, amely távoli kódfuttatást lehetõvé tevõ sebezhetõséget javít.
+
+Az Active Directory hibája csak a Windows 2000 Servert ériti. A ma már kissé túlhaladott szervert az utóbbi idõben többször is frissíteni kellett, legutóbb júniusban adott ki hozzá javítást a Microsoft, amely az LDAP-lekérésekkel kapcsolatos problémára jelentett gyógyírt. A Host Integration Server ugyanakkor új a patchelt termékek között. Ez a viszonylag kevéssé elterjedt szoftver a windowsos rendszerek és IBM mainframe-ek, illetve i OS (korábban AS/400) környezetek közötti átjárhatóságot biztosít. A nem részletezett kritikus hiba a Host Integration Server 2000-es, 2004-es és 2006-os verziójában egyaránt megtalálható.
+
+
+Ami az Office-t illeti, a Windowson és Mac OS-en futó Excel-változatokat egyaránt érinti az a fájlformátumokkal kapcsolatos sebezhetõség, amelyet most javít a redmondi cég. Az Office-patch kapcsán mindenképp említést érdemel, hogy jövõ kedden érkezik az utolsó biztonsági hibajavítás az Office 2003 SP2-höz, ezt követõen már csak az SP3-mal frissített változatot fogja támogatni a Microsoft.
+
+Az Internet Explorert is javítani kell, a most érkezõ javítások az IE5-ben és IE6-ban kritikus sebezhetõségeket orvosolnak, az IE7-ben azonban csak egy "fontosat". A Windowshoz érkezõ hibajavítások közül egy sem kritikus.

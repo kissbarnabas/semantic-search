@@ -1,0 +1,14 @@
+Új képességekkel gazdagodott a Sun operációs rendszere
+
+A Sun Microsystems kiadta szoftverportfóliójának egyik ékköve, a Solaris operációs rendszer legújabb frissítését. A Solaris 10 10/08 verzióban elsõsorban a ZFS fájlrendszerrel kapcsolatos javítások, fejlesztések kaptak helyet, illetve az x86-os rendszerek támogatása terén is történtek jelentõs elõrelépések.
+
+
+
+A ZFS (Zettabyte File System)a Sun 128 bites fájlrendszere, amely lényegesen javítja az adattárolás megbízhatóságát, és sokkal jobban skálázható mint a korábbi megoldások. Az állományrendszer egyik hatalmas elõnye, hogy folyamatosan õrködik adataink épsége felett az ellenõrzõösszegek vizsgálatával. Elõnyt jelent az is, hogy a fizikai tárolóeszközök felett egy virtuális réteg húzódik, így külön támogatás nélkül könnyedén használható akár két merevlemez is egyetlen nagy háttértárként, nem mellesleg növelve ezzel az adatátvitel sebességét is.
+
+A ZFS már korábban is a Solaris része volt, azonban a legutóbbi frissítésben az operációs rendszer legmélyebb rétegeibe is beépítették a támogatását, ami azt jelenti, hogy a korábbi megkötésektõl mentesen használható. Mostantól például a rendszerpartíció is lehet ZFS, a Solaris 10  telepíthetõ rá és indítható is onnan, bár a telepítõben az alapértelmezett beálllítás továbbra is UFS maradt. A root partíció mérete ugyan korlátozott, de az adminisztrációs és adatvédelmi képességekbõl származó elõnyöknek alighanem örülnek majd a rendszergazdák.
+
+
+ Az azonos gépen futó alkalmazásokat egymástól elszigetelõ Solaris Zones virtualizációs környezet olyan új funkciókkal bõvült, amelyek leegyszerûsítik a munkakörnyezetek migrációját a Solaris környezetek között és csökkentik a futtatókörnyezet különbözõ rendszerkonfigurációk (Solaris 8, Solaris 9) közötti áthelyezéséhez kapcsolódó adminisztrációs terheket. 
+
+Az x86-os processzorokra épülõ rendszerek támogatása terén újdonság az SSSE3, SSE 4.1, SSE 4.2 és AMD SSE4A kiterjesztett utasításkészletek használata, valamint a Solaris akár 256 processzoros gépeken is képes futni már. Említésre méltó fejlesztés még új NVIDIA, Adaptec és LSI diszkkontroller-driverek megjelenése az operációs rendszerben, ezek révén újabb hardvereken mûködik a Solaris 10. Az operációs rendszerhez csomagolt szoftverek közül frissült az Adobe Reader (8.1.2), a Flash Player (9.0.124.0), valamint a PostgreSQL (8.3) is.

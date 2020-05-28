@@ -1,0 +1,22 @@
+Beismerte a Nokia a Series 40 sérülékenységét
+
+Megerõsítette a Nokia is azt a hírt, miszerint a nagyságrendileg 100 millió telefonkészüléket számláló Series 40 platform operációs rendszere súlyos biztonsági sérülékenységeket tartalmaz. A biztonsági résen keresztül jogosulatlanul telepíthetõk és indíthatók alkalmazások a telefonon.
+
+
+
+Tíz nappal ezelõtt Adam Gowdiak, lengyel kutató jelentette be, hogy két komoly sérülékenységet talált a Nokia Series 40 készülékekben, melyrõl értesítette a J2ME-t kifejlesztõ Sun-t és még ugyanazon a napon a készüléket gyártó Nokiát is. A korábban is számos Java 2 Micro Edition hiba felfedezésérõl ismertté vált kutató ezúttal nem osztott meg minden részletet gálánsan a gyártóval, hiszen saját bevallása szerint hat hónapnyi munkája fekszik ezen biztonsági hibák felderítésében, ezért csak éppen annyi információt villantott meg a Nokia és a Sun elõtt, amivel bizonyítja, hogy valóban sebezhetõséget talált. A teljes bizonyítás és a megoldás ára a lengyel kutató szerint 20 000 eurót ér, ami teljesen korrekt ár egy fél éves munkáért. 
+
+
+A Nokia ugyan magát a hibát elismerte, de arról mélyen hallgat, hogy a szakember által kért összeget kifizették-e. Viszont a lengyel is úgy nyilatkozott, hogy nem fogja megmondani, hogy megkapta-e a pénzt és ha igen, akkor kitõl, viszont azt kikötötte, hogy csak és kizárólag jó hírû, ellenõrizhetõ cégnek hajlandó átadni a pénz ellenében a 180 oldalas teljes kutatást, illetve a 14 ezer soros bizonyítást (PoC). Gowdiak feltételei és a Nokia vállalati kommunikációjárét felelõs Mark Durrant nyilatkozata alapján -- miszerint már rendelkeznek a teljes dokumentiációval, viszont feltételezhetõ, hogy megtörtént a 4,6 millió forintos tranzakció. 
+
+ Távolról támadható
+
+
+A világ legnagyobb mobilgyártójának a viselkedése most újra lángra lobbanthatja az örök vitát az IT biztonsági szakértõk között, hogy vajon a biztonsági rések felfedezõit kell-e jutalmaznia annak a cégnek, melynek a terméke érintett. A gyártók általában kitérnek a fizetés elõl és igyekeznek valahogy másképpen ösztönözni a kutatókat arra, hogy korrekt módon a nyilvánosság bevonása elõtt értesítsék õket a hibákról. A kifizetéseket fõleg azért nem preferálják, mert nem szeretnék felbátorítani a sérülékenységvadászokat, akik ha keveslik az összeget, akkor azzal fenyegetõznek, hogy a hackerek kezére játsszák a felfedezéseket.
+
+Ugyanakkor Mar Durrant elmondta, hogy "Nagyon könnyûnek tûnik, hogy az ember kitalál valamit, amivel váltságdíjat követelhet a cégektõl, de a valóság az, hogy Gowdiak jelentõs mennyiségû kutatást végzett el, így teljesen érthetõ, hogy szeretné valahogyan ellentételezni ezt."
+
+
+A lengyel kutató még augusztus elején beszélt arról, hogy a mobil eszközök egyik legelterjedtebb alkalmazás-keretrendszerében, a J2ME-ben is számos hibát fedezett fel, hasonlóan a Series 40 operációs rendszeréhez. A problémát az jelenti, hogy a Nokia is azt állítja, hogy jelenleg a piacon lévõ mobil termékeiknél a Series 40 a legelterjedtebb platform. Habár a sérülékenységrõl a nyilvánossággal kevés részletet osztottak meg, de Gowdiak szerint a támadás egyszerûen elindítható úgy, hogy a célzott készülékre egy üzenetet küldenek. 
+
+A Nokia szerint a készülékeiknek csak egy része van veszélyben a titkos telepítési hiba által, illetve azt is beismerték, hogy a J2ME korábbi változatainak hibáival a telefon olyan funkcióihoz lehetett hozzáférni, melyeknek egyébként lezárva kellene lenniük. Ezzel együtt a Nokia nem tart tömeges támadásoktól, szerintük ez a napvilágra került hiba nem képvisel jelentõs kockázatot a felhasználók számára. Ezen állításukat azzal magyarázta Mark Durrant, hogy a sérülékenységek még jelenleg nem publikusak, illetve ha azok is lennének, akkor nem túl egyszerûen futtatható támadásokról van szó: "A megoldás használata komoly szaktudást igényel, ez nem olyan hack, amit bárki otthon a garázsban összeüt péntek délután. Azt viszont a Nokiánál sem tagadja senki, hogy a lengyel Adam Gowdiak egy igazán intelligens srác."

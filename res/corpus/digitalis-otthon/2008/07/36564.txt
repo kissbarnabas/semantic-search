@@ -1,0 +1,26 @@
+Új GeForce kártyákkal próbálkozik az NVIDIA a Radeonokkal szemben
+
+Nyolc új, de régi architektúrájára alapozó grafikus termék elérhetõségét jelentette be egyszerre az NVIDIA. A világ legnagyobb grafikus processzortervezõje három asztali és öt mobil felhasználásra szánt chipet dobott piacra, melyekkel az AMD igen kellemetlen Radeonjaira kíván gyors választ adni.
+
+
+
+Erõtlen
+
+Az NVIDIA a piac legértékesebb részén, a középkategóriában igyekszik felvenni a küzdelmet a rendkívül jó ár-teljesítmény mutatójú AMD ATI Radeon HD 4850 kártyákkal a GeForce 9800 GTX+ révén. A 9800 GTX utódjaként érkezik a 9800 GTX+, mely architekturálisan megegyezik elõdjével, ugyanakkor már kisebb geometriájú, 65 helyett 55 nanométeres csíkszélességû félvezetõ-eljárással készül a tajvani TSMC egy gyárában. A mintegy negyedével kisebb lapka nemcsak olcsóbb elõállítási költséget, ezen keresztül pedig nagyobb árazásbeli mozgásteret jelent az NVIDIA számára, de javítja a fogyasztási jellemzõket is, ami teret enged az órajel gazdaságos megemelésének. 
+
+A 9800 GTX+ ugyanazzal a felépítéssel bír, mint elõdje, vagyis 128 feldolgozóegység (stream processor), 64 textúrázó és 16 raszterizáló végzi a dolgát rajta, melyeket 256 bites adatbusz etet. A 754 millió tranzisztort integráló chip ugyanakkor 738 megahertzen, 9,3 százalékkal magasabban ketyeg, míg a grafikai manipuláció végzõ feldolgozók 1836 megahertzen, ami 8,6 százalékos növekedés -- a memória órajele maradt 1100 megahertzen. Ezen tuningolás eredményeként tipikusan 5-10 százalék közötti sebességnövekedésre számíthatunk. A magasabb órajel, az 55 nanométeres portolásra fordított mérnöki erõforrások valószínûsíthetõen erõs korlátozottsága, és a kereskedelmi kihozatal maximalizálásának együttállása okán a GTX+ fogyasztása jelentõsen megemelkedett elõdjéhez képest.
+
+
+A GTX+ alá a 9800 GT kerül, mely a legkevésbé érdekes termék, ugyanis teljesen megegyezik architekturálisan a 8800 GT-vel, mindössze szintén gyártástechnológiai váltás történt: 112 feldolgozó, 56 textúrázó, és 16 raszterizáló egység 600 megahertzes alap, 1500-as shader, és 900 megahertzes memória órajellel. A belépõkategóriába a 9500 GT érkezik, mely ennek megfelelõen erõsen korlátozott erõforrásokkal bír: 55 feldolgozóegység 1400 megahertzes órajelen, 550 megahertzes alap órajel, 128 bites memóriabusz. Cserébe keveset fogyaszt, és kevesebb mint fele akkora magmérete (mindössze 314 millió tranzisztor, 65 nanométeres eljárás) révén drasztikusan olcsóbb az elõállítása is, így a boltokba akár 20 ezer forint is alatt kerülhet. A negyedik negyedévben ez a modell is megkapja az 55 nanométeres frissítést.
+
+[+] Gyilkosra sikerült az AMD új grafikus chipje 
+
+Az NVIDIA megpróbál javítani versenyhelyzetén, ugyanakkor láthatóan nagy bajban van a piac alsókategóriájától egészen a felsõ-közép kategóriáig. Az elmúlt hetekben meglépett drasztikus árcsökkentések, és az új modellek nagyot dobtak a GeForce család versenyképességén, úgy tûnik ugyanakkor, abszolút értelemben a Radeon HD-k minden árszegmensben jobb vételnek bizonyulnak, beleértve a csúcskategóriát is, melyet a Radeonokkal jelenleg CrossFire révén lehet elérni: a GeForce 9500 GT-nél a Radeon HD 3850, a 9800-as modelleknél a 4850, míg a GTX 260 és GTX 280-aknál a 4870 és CrossFire megoldások kínálnak jobb ár-teljesítmény mutatót. Ez drámai fordulatot jelent a grafikus kártyák piacának korábban kétharmadát uraló NVIDIA számára. A Jon Peddie Research adatai alapján tavaly mintegy 90 millió PC-s bõvítõkártyát értékesítettek világszerte.
+
+Pünkösdi királyság
+
+Az asztali bõvítõkártyák mellett az NVIDIA a notebookokért támadást indított, mégpedig nagyobb teljesítményû, kifejezetten intenzív 3D-gyorsítást igénylõ játékok számára kínál új mobil chipeket. Az öt új termékkel az NVIDIA teljesen lefedi a mobil piacot, ugyanis a korábbi 9600M 9500M sorozatokat a 9700M GT és 9700 GTS egészítették ki a közép- és felsõközép kategóriában, míg a felsõ- és csúcskategóriát a 9800M GT, GTS és GTX fedik le, melyek sorrendben rendre 32, 48, 64, 96 és 112 feldolgozóegységgel bírnak. Az NVIDIA hátrányba került ugyan asztalon, a notebookok terén ugyanakkor továbbra is õrzi fölényét, melyet az új mobil GeForce sorozatokkal megerõsített átmenetileg, míg az AMD nem dobja piacra a 4800-as család mobil változatait.
+
+[+] Korábban valószínûleg kartellezett az ATI és az NVIDIA  
+
+Az AMD nagyjából egy hónapja, június végén mutatta be RV770 kódnévre hallgató új fejlesztését, mely felborította a grafikus processzorok piacán kialakult status quót. A 956 millió tranzisztort integráló chip a TSMC ugyanazon 55 nanométeres eljárásán készül, számítási erõforrásai pedig két és félszerese elõdjének, aminek eredményeként tipikusan másfél-kétszer erõsebb annál alacsonyabb órajele ellenére is. Az NVIDIA számára az igazán kellemetlen az, hogy az RV770 teljesítményéhez képest gazdaságosabban termelhetõ saját chipjeinél, legyen szó a korábbi G90-es, vagy az új GT200-as architektúra implementációiról. Az AMD ezt khiasználva igen agresszív árazásba kezdett, aminek következtében az NVIDIA drasztikus árcsökkentésekre és pénzügyi figyelmezetetés közzétételére kényszerült. A HWSW egyes, magát megnevezni nem kívánó iparági forrásai szerint az NVIDIA veszteséges forgalmazást is hajlandó felvállalni az AMD féken tartása érdekében.

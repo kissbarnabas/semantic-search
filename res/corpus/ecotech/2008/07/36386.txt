@@ -1,0 +1,12 @@
+Kivonult a chipsetpiacról a VIA, a Nanóra koncentrál
+
+Drámaian visszaesett a VIA Technologies árbevétele az elsõ félévben, miután beszüntette chipsetjeinek kereskedelmi szállításait, mely eddig a vállalat forgalmának derekát képezte. A tajvani cég már igyekszik saját platformjaira, és új Nano processzorának sikeres piaci bevezetésére koncentrálni, melyre biztató érdeklõdés mutatkozik.
+
+
+
+A VIA kényszerû stratégiai váltása mögött a meghatározó processzorgyártók platformosítási törekvései állnak, melyek fejlesztési versennyel és marketingeszközökkel igába hajtották a független chipsetszállítók megritkult sorait -- mára az NVIDIA és a SiS a két utolsó mohikán a piacon. A VIA az elmúlt hónapok során fokozatosan beszüntette más gyártók processzorait támogató chipsetjeinek szállításait partnerei felé, így árbevétele 46 százalékkal esett vissza az év elsõ hat hónapja során, és mindössze 147 millió dollárt tett ki.
+
+
+A vállalat azonban bizakodó a kilátásokkal kapcsolatban, és megjegyezte, hogy júliusban megnövekedett a C7-M processzora iránti megrendelések száma, valamint következõ generációs Nano processzorának szállításai augusztusban vagy szeptemberben kezdõdnek meg, és már legalább három elsõ vonalbeli PC-szállító adott le rá elõrendelést. A Nano, melyet korábban Isaiah kódnéven ismertünk, a VIA nagy reménysége az életben maradásra. A chip egy teljesen új, korszerû 64-bites mikroarchitektúrát valósít meg a Fujitsu 65 nanométeres félvezetõ eljárásán, soronkívüli végrehajtással, 1 megabájt L2 gyorsítótárral,  és fejlett energiagazdálkodási képességekkel, ráadásul rendkívül olcsón termelhetõ, területe mindössze 63 négyzetmilliméter.
+
+A chip maximális fogyasztása 1 gigahertzen mindössze 5 watt, míg 1,4 gigahertzig 8 watt, és azonos órajelen a VIA versenyképesnek ígéri teljesítményét egy Merom-magos Celeron M processzorral, célterülete pedig a netbookok és az olcsó notebookok, valamint kompakt asztali PC-k, ahol a Celeronok mellett az Intel Atom termékvonallal is meg kell küzdenie. Azonos órajelen tipikusan nagyjából kétszeres teljesítményre lehet számítani a C7-M Estherhez képest, extrém esetekben négyszeresre, jelzi elõre a VIA. Meg nem erõsített pletykák szerint a VIA az NVIDIA-val kokettál, mely jövõ év elején chipsetet dob piacra a Nano megtámogatására. Korábbi ipari pletykák szerint a  két vállalat összeolvadás lehetõségérõl is tárgyalt.

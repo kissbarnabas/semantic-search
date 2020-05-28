@@ -1,0 +1,10 @@
+Elindult a világ elsõ publikus HPC-cloudja
+
+A Penguin on Demand, vagyis POD a vállalat szerint a világ elsõ olyan felhõje, mely optimális HPC-re, vagyis a számításintenzív kódok fogadására. A célközönség természetesen azon kutatók, tudósok és mérnökök, akiknek idõrõl idõre kiugróan magas teljesítményre lenne szükségek szimulációk, elemzések gyors elvégzéséhez, ehhez azonban nem rendelkeznek megfelelõ infrastruktúrával. A szolgáltatás egyúttal a cégek beruházási és üzemeltetési költségeit is csökkentheti.
+"A legnépszerûbb cloud infrastruktúrák, mint az Amazon EC2, nem optimalizáltak a nagyteljesítményû párhuzamos számításokra, melyeket sokszor megkövetelnek a kutatási és szimulációs tudományok" - fogalmazott közleményében a cég elnök-vezérigazgatója, Charles Wuischpard. Hozzátette, hogy a POD azonnali hozzáférést kínál nagy teljesítménysûrûséghez, ami serkenti az innovációt, hiszen sokkal szélesebb kör hasznosíthatja a szuperszámítógépes teljesítményt. A Penguin teljeskörû támogatást kínál a POD felhasználói számára, beleértve az alkalmazások átvitelét és a megfelelõ erõforrások beállítását is.
+
+A hagyományos cloudszolgáltatásokkal szemben a POD nem a apró virtuális gépekhez ad hozzáférést, hanem szerverek teljes erõforrását bocsátja rendelkezésre, hogy a lehetõ legnagyobb teljesítményt tudja kicsikarni a felhasználó, leginkább számítás- és adatintenzív kódokat is kiszolgálva. A POD nagysûrûségû, Xeon processzorokra épülõ számítási csomópontokat igény szerint Gigabit Ethernet vagy Infiniband hálózattal kapcsolja össze. A hagyományos x86-os processzorok mellett NVIDIA Tesla chipek is megtalálhatóak a rendszerben. A POD igyekszik a saját hálózatán belül igyekszik egymáshoz minél közelebb lévõ gépeket egy felhasználó kezébe adni, így csökkentve a késleltetést és a hálózati forgalom hatékonyságát. Az árazás nem nyilvános, ugyanakkor HPC-feladatokra hasonló pénzért sokkal nagyobb teljesítményt ígér, állítja a cég.	     
+                  
+                  
+                  
+                   

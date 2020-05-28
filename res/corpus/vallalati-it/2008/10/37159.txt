@@ -1,0 +1,18 @@
+Újabb programozási nyelv a Microsofttól
+
+Hamarosan új programozási nyelvre alapuló fejlesztõeszközt ad ki a Visual Studióhoz a Microsoft, mellyel drasztikusan javítható a programozók, de akár a teljes IT-részleg vagy cég produktivitása is. Az Oslo ugyanis a szoftverek mûködését szöveges és vizuális modellekkel is képes leírni, melyek mögött egy új deklaratív programozási nyelv, az M áll.
+
+
+
+A Microsoft a közelgõ Professional Developers Conference alkalmával fogja kiadni az Oslo kódnéven ismert modellezési platformját, melyet egy Community Technology Preview kiegészítõként lehet majd a Visual Studio környezetbe illeszteni. A Redmondiak véleménye szerint az Oslo a szoftverfejlesztés következõ generációjához tartozik, ugyanis magasabb absztrakciós szintre emeli azt, radikálisan fokozva a fejlesztés hatékonyságát.
+
+Az üzleti folyamatok kiszolgálását szem elõtt tartó Oslo deklaratív modellezésének segítségével ugyanis nincs feltétlenül szükség mélyreható programozási ismeretekre ahhoz, hogy módosítsa valaki egy alkalmazás mûködését, mert valami változás történt üzleti oldalról -- mindössze némi absztrakciós gondolkodási készségre és technikai affinitásra. A deklaratív programozási nyelvek az imperatívakkal ellentétben nem a szoftver mûködésének mikéntjét írják le, hanem azt, mit a feladata.
+
+A szoftverfejlesztés ezen módja leginkább a Microsoft Access használatához hasonlít a Microsoft szerint, ahol az adatbázis felépítésének analógiájára a szoftver modellezett architektúrája nem egy egyszerû dokumentáció vagy leírás, hanem az alkalmazás mûködésének szerves része. Ehhez az Oslo a Quadrant kódnevû vizuális modellezõ eszközt alkalmazza, aminek segítségével akár egy nem programozó is megfelelõen módosíthatja a szoftver mûködését, lekövetve az üzleti változásokat. Ezzel az alkalmazások továbbfejlesztése is egyszerûbbé válik.
+
+A deklaratív nyelv segítségével lehetõvé válik a megtervezett modell tökéletes implementálása, kiiktatva ezzel az üzleti felhasználók, szoftvermérnökök és fejlesztõk közötti értelmezésbeli torzulásokat. A deklaratív nyelv segítségével ráadásul a fejlesztõk termelékenysége is megugrik, ugyanis lényegre törõen kódolhatják az alkalmazás mûködését, nem szükséges a végeredmény szempontjából lényegtelen alacsonyabb szintû objektumokkal, memóriamûveletekkel és számításokkal foglalkozniuk -- az eredmény, hogy az írott kód sokkal tömörebb, vagyis kevesebb hibalehetõséggel is bír. Az új nyelvet a hasonló szemléletmód miatt SQL-fejlesztõk viszonylag gyorsan megtanulják, állítja a vállalat. 
+
+
+Az Oslóval egy Microsoft SQL-tároló (repository) is rendelkezésre áll, mely modelleket és adatokat tartalmaz. A Microsoft bár nem kínál hozzá támogatást, technikailag semmi akadálya nincsen, hogy az Oslóval létrehozott alkalmazások multi-platformosok lehessenek, ugyanis a szoftvermodell leírása egy XML-ben található, "mindössze" egy compilerre van szükség, mely a célplatformra létrehozza a gépi kódot ez alapján.
+
+A Microsoft szeptember elején mutatta be az F# funkcionális nyelvet a Visual Studióhoz. Az F# egy funkcionális programozási nyelv, melyet a Microsoft a .NET keretrendszerre fejleszt. A funkcionális programozási nyelvek gyökeresen különböznek az imperatívaktól, ugyanis mûveletekkel elõidézett állapotváltozások sorozata helyett függvényekkel dolgozik, melyek jellemzõen egy bemeneti lista vagy táblázat alapján elõállítanak egy kimenet, valamint a konstansok is változó nélküli függvények -- változók és állapotok természetszerûleg nincsenek, ahogyan hurkok sem. A program kívánt mûködését függvények egymásba ágyazásával lehet elérni.

@@ -1,0 +1,48 @@
+Veszteség és vezérváltás a folyamatos stratégiai átalakuláson átesõ AMD-nél
+
+A vártnál némileg rosszabb második negyedéves eredményekrõl számolt be az AMD, miután új termékbevezetései egyelõre kevéssé fejtették ki hatásukat. A vállalat erõteljesen dolgozik azon, hogy csökkentse  költségeit, leválasztja magáról stratégiai jelentõséggel nem bíró tevékenységeit, és ígéri, rövid idõn belül fellebbenti fátylát elõkészületben lévõ új mûködési modelljérõl. Eközben Hector Ruiz azonnali hatállyal átadja az elnök-vezérigazgatói pozíciót Dirk Meyer korábbi operatív vezérigazgatónak, és az igazgatótanács élén dolgozik tovább a cég stratégiai átalakításán.
+
+
+
+Nehéz körülmények
+
+Az AMD második negyedéves bevétele mindössze 3 százalékkal múlta felül a tavalyi második negyedéveset, és 7 százalékkal maradt el az egyébként is gyenge elsõ negyedévestõl -- eközben a rivális Intel forgalma 9 százalékkal növekedett és a szezonális hatás következtében mindössze 2 százalékkal olvadt az elsõ negyedévhez képest. Az AMD 1,35 milliárd dolláros árbevételéhez 269 millió dolláros mûködési veszteség társult, a nettó veszteség pedig fõként az ATI felvásárlásával megszerzett javak értékvesztési leírásainak következtében 1,19 milliárd dollárt tett ki. Az operatív cash-flow 240 millió dolláros negatívumot mutatott, a tõkeberuházások pedig 104 millió dollárra zuhantak vissza a készpénzállomány védelme érdekében.
+
+
+Összefoglaló
+
+- Csökkent az eladott processzorok volumene és átlagos eladási ára
+- Rengeteg új terméket mutatott be a vállalat a negyedév során
+- A 45 nanométeres processzorok a negyedik negyedévben bukkanhatnak fel legkorábban
+- Üzemi nyereséget várnak a harmadik negyedévtõl 
+- Meyer veszi át a stafétabotot Ruiztól, ez azonban nem hoz stratégiai irányváltást, viszont Meyer a fejlesztések jobb menedzselését ígéri
+- Az AMD leválasztja magáról az ATI felvásárlásakor megszerzett mobiltelefonok és digitális televíziók területeivel foglalkozó részlegeit
+- Assett smart részletezése év vége elõtt
+
+
+ A vállalat 193 millió dolláros nyereséget könyvelt el 200 milliméteres szeleteteket megmunkáló berendezéseinek értékesítésébõl, melyek a drezdai Fab 30 félvezetõ üzem 300 milliméteresre történõ migrációjával szabadultak fel. Ezen hatás nélkül üzemi szintû vesztesége 336 millió dollárra rúgott, bruttó profithányada (a termékértékesítésbõl a termék elõállítási költségeinek levonásával képzõdõ nyereség) mindössze 37 százalékot tett így ki, árulta el a negyedéves konferenciahíváson Robert Rivet pénzügy vezérigazgató. Ez 4 százalékponttal alacsonyabb az elsõ, és mindössze 3 százalékponttal magasabb a tavalyi gyenge második negyedévesnél -- összevetésképpen az Intel 55,4 százalékos bruttó hányadról adott számot. A tõzsde nem reagált jól a jelentésre, az AMD papírjai több mint 7 százalékot gyengültek a tõzsdén kívüli kereskedésben. "Összefoglalva, a második negyedév nehéz volt" -- mondta Rivet.
+
+[+] A gazdasági bizonytalanságra fittyet hányva nõ a PC-piac   
+
+A gyenge nyereségességi szintet Rivet a csökkenõ volumennel és a még nagyobb mértékben visszaesõ átlagos eladási árral magyarázta, a PC-piac egészséges bõvülése ellenére. A pénzügyi vezetõ elmondta, "a nem túl jó" bruttó marzsot a korábbi generációs termékek magas volumene magyarázza, köztük rengeteg egymagos modellel, melyek nyomott áron kerültek piacra. Szintén fontos tényezõként említette Rivet, hogy a számítógépek árai is folyamatosan lefelé tartanak.  Az AMD tizennyolc négymagos terméket rajtoltatott el a negyedév során, továbbá hárommagos Phenomokkal is megjelent, a Puma notebook platform széleskörû adoptációnak örvend a gyártók körében, és debütált a Radeonok új családja is, ezek azonban egyelõre nem tudtak döntõ hatást kifejteni a pénzügyi teljesítményre, ahogyan az értékesítés volumenének felfuttatásához idõre van szükség.
+
+
+
+
+
+A mikroprocesszor és chipset-üzletág gyakorlatilag nullszaldót produkált, ez azonban tartalmazza a 200 milliméteres berendezések értékesítésének pozitív hatását, enélkül 202 millió dolláros üzemi veszteséget könyvelt el 1,1 milliárdos forgalom mellett -- ez gyakorlatilag megegyezik a tavalyival és 7,8 százalékkal alacsonyabb az elsõ három hónapnál. A grafikus chipekbõl és Xbox 360 licencekbõl származó bevétel 248 millió dollárt mutatott, ami 18 százalékos emelkedés, ennek ellenére a 38 milliós veszteség lényegében nem jelent javulást.
+
+Nagy ígéretek
+
+A harmadik negyedévre az AMD a bruttó hányad 40 százalék fölé emelkedését várja a négymagos Opteronok és a három- és négymagos Phenomok szállításainak emelkedésétõl, valamint a Radeon HD 4800 család piaci térnyerésétõl, melyek megemelik az átlagos eladási árakat és a volument egyaránt. Jelenleg rendelkezésre álló adataik alapján Rivet 8-10 százalékos bevételnövekedést vár a mikroprocesszorokból a szezonálisan erõs harmadik negyedévtõl, mely az iskolakezdési szezont, és az ünnepekre történõ felkészülés hatását is tartalmazza, és ennél valamivel erõsebbet a grafikus chipektõl. "Pénzt akarunk termelni a harmadik negyedévtõl és továbblépni onnan" -- fogalmazott Rivet. "Nem akarunk visszanézni".
+
+Rivet elmondta, jelentõs elõrehaladást értek el a strukturális reformokban. Az erõfeszítések eredményeként a nyereségességhez szükséges korábbi 2 milliárd dolláros bevételküszöböt sikerült nagyjából 1,6 milliárd dollárra leszorítani, és üzemi szinten továbbra is nyereségesek kívánnak lenni az év második felében, jövõ év elejére pedig a 1,5 milliárd dolláros küszöböt szeretnék elérni. Az új termékek felfutása és a mûködési költségek lefaragása mellett segíteni fog ebben a 45 nanométeres csíkszélességû gyártástechnológiára történõ átállás megkezdése is, mellyel jelentõsen csökkenthetõ a mikroprocesszorok fajlagos elõállítási költsége, miközben teljesítményük fokozható. Az elsõ 45 nanométeres termékek kereskedelmi szállításai a negyedik negyedév elejére esedékesek, a termelés felfuttatása már megkezdõdött.
+
+Vezetõváltás és racionalizáció
+
+Az AMD stratégiai transzformációjának útján a konferenciahívás alkalmával jelentette be maga Hector Ruiz, hogy a jóbarátjának tekintett Dirk Meyer váltja fel õt az elnök-vezérigazgatói pozícióban, õ pedig az igazgatótanács elnökeként dolgozik tovább a tõkeintenzitás drasztikus lecsökkentését célzó úgynevezett "asset smart/light" stratégián, melyet még idén részleteznek -- várhatóan a cég november 13-i elemzõi konferenciáján. Ruiz elmondása alapján régóta készültek erre a lépésre, és úgy érzik, most érkezett el az alkalmas pillanat. A cserével nem változik meg az AMD stratégiája, ugyanakkor a vállalat jobban fókuszál majd a nagyvolumenû szegmensekre, és a chiptervezõ múlttal rendelkezõ Meyer közvetlenül felügyeli majd, hogy megfelelõ termékek fejlesztései induljanak meg, ahogyan a fejlesztési folyamatokat is kezében tartja majd. Az AMD az elmúlt négy évben eljátszotta fejlesztésbeli lépéselõnyét az Intellel szemben, és súlyos konzekvenciákkal járó hátrányba került.
+
+
+[+] Mélyponton az AMD, milliárdokat pazarolt el az ATI-ra  
+
+Az elõzõ negyedéves jelentés közzétételekor az AMD közölte, hogy felülvizsgálja a számítástechnikai iparhoz szorosan nem tartozó tevékenységeket, és stratégiai illeszkedésük, valamint nyereségességük fényében dönteni további sorsukról. A vállalat döntött: a mobiltelefonokba és digitális televíziókba beágyazott chipeket tervezõ részlegeit leválasztja a cég mûködésérõl, közölte Rivet, ennek pontos módjával kapcsolatban azonban egyelõre nem tudott nyilatkozni a pénzügyi vezetõ. "Alaposan meg kell vizsgálnunk minden tevékenységünket annak érdekében, hogy biztosítsuk, a középpontban lévõ x86-os és grafikus termékeink egészséges úton haladnak a vezetõ szerep és nyereségesség felé" -- fogalmazott Ruiz az elsõ negyedéves konferenciahíváson.

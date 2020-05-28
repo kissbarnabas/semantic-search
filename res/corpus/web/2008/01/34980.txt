@@ -1,0 +1,26 @@
+Milyen architektúra szolgálja ki a Google-t?
+
+A Google mûködésével kapcsolatos fejtegetések egyik legtöbb érdeklõdésre számot tartó területe a keresõmotort kiszolgáló nyilvánvalóan gigantikus géppark. Az alkalmazott szerverek száma továbbra is vad találgatások területe, ugyanakkor a cég egyik mérnökének elõadása a szokásosnál részletesebben taglalja a hardver és szoftverarchitektúra koncepcióit.
+
+
+
+Nagyon nagy problémák
+
+A Google a világ vezetõ keresõjeként nemcsak nagy mennyiségû adatot dolgoz fel, de hatalmas forgalmat kell lekezelnie megfelelõen gyorsan ahhoz, hogy színvonalas szolgáltatást nyújtson. A vállalat keresõmotorja több milliárd weblapot és képet feltérképezõ indexe alapján másodpercenként átlagosan több mint tízezer keresést kell kiszolgálnia világszerte, egyenként néhány tizedmásodperc alatt. A Google gépparkjáról régóta legendák keringenek, egyes becslések százezres nagyságrendû, világszerte elosztott parkról beszélnek.
+
+Jeffrey Dean, a Google kutatómérnöke a Washingtoni Egyetemen tartott hosszas elõadásában ecsetelte a Google elõtt álló kihívásokat, és az azok megoldására kidolgozott módszereket. A problémák forrása kézenfekvõ módon  az adattömeg és terhelés nagysága, melyekhez gyakorlatilag teljes rendelkezésre állás társul. A Google hivatalosan több mint 4 milliárd leindexelt weblapról beszél, melyek átlagosan 10 kilobájt tárterületet igényelnek, így közel 40 terabájt adat elérhetõségét kell biztosítani.
+
+Sok kicsi
+
+A hatalmas méretek egyik következményeként a Google nagy és erõteljes, "márkás" szerverek helyett teljesen közönséges kétutas, belépõkategóriás gépek mellett döntött, melyek sokkal költséghatékonyabbnak bizonyulnak, fõként ami a számítási kapacitást illeti. Pénzszûkében a Google saját maga építette gépeit mûködésének elején, így az alsókategóriás rendszerek alkalmazása hagyományos gyakorlat a cégnél. Dean elmondta, hogy az adatközpontokba költözéssel, mivel azok terület alapon számláznak, az volt a cél, hogy minél nagyobb sûrûséget érjenek el.
+
+
+A gyorsan duzzadó géppark egyik következménye, hogy a nagy számok törvénye miatt ma már naponta több szerver hibásodik meg a Google gépparkjában világszerte, amit a keresõ szoftveresen biztosított redundanciával old meg, vagyis a hibatûrés szoftveresen, rendszerszinten került megoldásra. Ez azért is praktikus, mert a szükséges teljesítmény érdekében párhuzamosságot biztosítva egyébként is többszörös adatredundancia található a rendszerben, így gyakorlatilag az éles gépek egymás replikái is egyben.
+
+Szilánkok
+
+Az elosztott rendszer egyetlen hatalmas, kezelhetetlen indextábla helyett rengeteg úgynevezett szilánkra darabol szét, mondta el a mérnök. A szilánkok legfõbb jellemzõje és rendezõelve a weblaptulajdonosok és keresõoptimalizációból élõk számára jól ismert PageRank, mely igyekszik adott oldal relevanciáját, máshogyan fogalmazva népszerûségét, fontosságát jellemezni egy 0-tól 10-ig terjedõ skálán. A magasabb szinten lévõ oldalakat indexelõ szilánkokból több másolat készül, szintén kapacitásbeli megfontolások miatt, hiszen valószínûleg több keresés érinti majd. Ugyanez a metodika érvényes magukra a weblapokra és más dokumentumokra is.
+
+Dean beszélt arról is, hogy a Google igyekszik felhasználói közelébe telepítenie adatközpontjait, hogy minél rövidebb idõ alatt ki tudja szolgálni a lekéréseket, így világszerte találhatóak farmjai. Ennek egyszerû magyarázata, hogy a gyorsabb szolgáltatást többet veszik igénybe a felhasználók, sokkal interaktívabbnak érezni azt. Egy-egy keresés találatait akár több mint ezer gép igénybevételével rak össze a vállalat. Nem hivatalos információk szerint Magyarországon is található egy ilyen farm, több ezer géppel. 
+
+A Dean közel egyórás elõadásáról készült videót letöltheti a HWSW szerverérõl innen (~120 MB, Windows Media Video).

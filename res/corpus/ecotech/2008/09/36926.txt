@@ -1,0 +1,30 @@
+Újabb felsõvezetõ hagyta el a VMware-t
+
+Újabb felsõvezetõ hagyja el a VMware-t, Mendel Rosenblum társalapító és tudományos vezetõ a jövõ héten kezdõd VMworld kiállítás és konferencia elõtt jelentte be, hogy lemond a vállalatnál betöltött tisztségérõl, és visszamegy tanítani a Stanford egyetemre.
+
+
+
+Exodus
+
+A Vmware-t 1998-ban öten alapították, Rosenblum felesége, Diane Greene július elejéig a vállalat elnök-vezérigazgatójaként dolgozott, de a cég többségi tulajdonosa, az EMC lemondatta. Belsõs források szerint Greene és Joe Tucci EMC-vezér között egyre feszültebb volt a hangulat. Állítólag Greene szerint Tucci sosem értette igazán, merre tart a VMware, Tucci pedig túlságosan konfrontatívnak látta Greene-t. Amikor a második negyedévben a VMware a vártnál kisebb -- de még így is 54 százalékos -- növekedést ért el, Tucci egy igazgatótanácsi ülésen félrevonta Greene-t, és azonnali hatállyal leváltotta.
+
+
+
+
+Mendel Rosenblum
+
+
+
+
+ Greene megüresedett helyét elõször a férjének, Mendel Rosenblumnak ajánlották fel, de õ nem élt a lehetõséggel, ezután került a Vmware élére Paul Maritz, aki 2000-ig 14 éven át a Microsoftnál dolgozott. Innen kilépve megalapította a Pi Corporationt, amelyet a VMware anyavállalata, az EMC vett meg. Most Rosenblum is bejelentette távozását, visszamegy a Stanford egyetemre teljes munkaidõs professzorként tanítani -- áll a cég dolgozóihoz eljuttatott levelében. Greene távozása után több, hozzá lojális munkatárs is otthagyta a VMware-t, például Richard Sarwal fejlesztési vezetõ, aki az Oracle-höz ment át. 
+
+Bizonyítási kényszer
+
+A VMware az x86-virtualizáció megkérdõjelezhetetlen piacvezetõje egyelõre, azonban a trónkövetelõk száma egyre sokasodik, ahogy a technológia egyre érettebbé válik. Az elmúlt pár évben számos olyan megoldás jelent meg a piacon, amely az x86-os szerverek virtualizálását tûzte zászlajára, például a Microsoft Hyper-V, a Citrix által bekebelezett Xen, vagy akár a Qumranet, amelyet nemrég a Red Hat vásárolt fel. A Sun is saját x86-os virtualizációs megoldással rukkolt elõ idõközben, az xVM részben a Xenre, részben a Solarisra épül. Az Oracle tavaly õsszel jelentette be saját virtualizációs megoldását, amely szintén a Xenen alapul.
+
+
+ A virtualizációs technikák bár nem számítanak újdonságnak, tömeges alkalmazásuk csak az elmúlt években indult meg, a pezsgés hatására pedig a meghatározó IT-szereplõk is mozgolódni kezdtek. A konszolidációs folyamat hátterében az a felismerés áll, hogy a virtualizációs csata nem a hypervisorok között dõl el, hanem a felügyeleti eszközök szintjén, amelyek fejlesztése rendkívül összetett, erõforrás- és tõkeigényes feladat. A virtualizációs piac bizalmi alapon mûködik -- derül ki az IDC nemrég publikált felmérésébõl --, így a jövõben valószínûleg csak azok a megoldások maradnak talpon, melyek mögött nagy név áll.
+
+[+]  Rákaptak a virtualizációra az európai cégek 
+
+A VMware-nek a jövõ heti VMworldön be kell bizonyítania, hogy a nagy nevek közé tartozik, és a vezetõváltás ellenére a munka zavartalanul folyik, különben a versenytársak kíméletlenül marginalizálni fogják a piacon.

@@ -1,0 +1,14 @@
+Fekete lyukakat keres az interneten a Hubble
+
+[Ars] Fekete lyukakat keres az interneten a Hubble -- természetesen nem az ûrtávcsõ, hanem a Washington Egyetem hasonló nevû rendszere, kutatási projektje. A negyedóránként frissített weboldalon egy térképen láthatóak azok az internethelyek, tartományok, melyek nem továbbítják a rájuk bízott adatcsomagokat. 
+
+
+
+Az ilyen elérési problémáknak köszönhetõ többek között, hogy néha csak várakozunk a weboldalakra, de nem történik semmi -- a Hubble térképére persze csak a hosszas, komolyabb problémákat okozó, több órás kimaradások kerülnek fel. A monitorozó rendszer körülbelül 100 világszerte szétszórt PlanetLab pontról pingeli -- azaz olyan adatcsomagot küld, melyre csak egy választ vár -- az internet különbözõ címeit, tartományait. Amennyiben problémát tapasztal az eléréssel, célzott vizsgálatot indít az adott tartományra.
+
+
+Az egyetem kutatói szerint a Hubble az internet elérési problémáinak 85 százalékát detektálhatja. Három hetes adatgyûjtést követõen 31 ezer ilyen hibát találtak, melyek 10 százaléka több mint egy napig tartott. A legtöbb hálózati probléma részleges elérési gond, amikor az adott oldalak, szolgáltatások egyes helyekrõl, internetelérésekrõl láthatók, míg másokról nem. A Hubble térképén ez is pontosan nyomon követhetõ. 
+
+
+
+A kutatók szerint a Hubble segíthet az internetszolgáltatóknak, hogy könnyebben és gyorsabban detektálják, illetve javíthassák a hálózatuk elérésével kapcsolatos problémáikat. A gyûjtött adatok késõbb azonban akár arra is felhasználhatók, hogy az aktuális fekete lyukakat kikerülve nagyobb rendelkezésre állású szolgáltatásokat biztosíthassanak ügyfeleiknek.

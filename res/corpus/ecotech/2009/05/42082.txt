@@ -1,0 +1,33 @@
+Az információs robbanás megállíthatatlan
+
+Töretlenül nõ a digitális univerzum
+A globális gazdaság hiába csökkent tavaly, magával rántva az informatikai kiadásokat is, a vállalatok és fogyasztók által létrehozott adat mennyisége továbbra is erõteljesen növekszik. Az IDC úgy becsli, 2012-ben ötször annyi digitális adat jön létre mint 2008-ban. Az eddigi tapasztalatok és becslések alapján 18 havonta megduplázódik a &#8222;digitális univerzum&#8221;. Joe Tucci, az EMC elnök-vezérigazgatója a floridai Orlandóban zajló EMC World rendezvényen elmondta, cégének 2000-ben még csak két ügyfele volt 1 petabájtos adattárolási kapacitással, ma már 2 ezer fölé nõtt az ilyen vásárlók száma. 
+
+Az IDC becslései szerint 2012-ig újabb 600 millióval nõ a világháló felhasználóinak száma, jelentõs részük mobil eszközrõl éri majd el az internetet.  Négy év múlva 850 millióan vásárolnak online és az internetes gazdaság 13 billió (ezermilliárd) dollárra növekedik. Az adatrobbanással párhuzamosan egyre inkább fel fog élénkülni az igény az információk biztonságos tárolása iránt. Persze nem mindent kell eltárolni, gondoljunk csak például a spamekre vagy egy interneten bonyolított telefonhívásra, de egyre több olyan információ keletkezik, amelyet rövidebb vagy hosszabb ideig meg kell õrizni, vagy azért mert a felhasználók ezt akarják (zenék, képek, videók), vagy azért mert kötelezõ lesz.
+A pénzügyi krízist követõen minden bizonnyal szigorodni fognak az adatok tárolására vonatkozó elõírások, négy év múlva a létrejövõ digitális információ 35 százalékára már vonatkozni fog valamiféle törvény. Összességében tehát egyre több digitális információ jön létre és az adatok egyre nagyobb hányadára vonatkozik valamiféle szabály.
+Cloud-alapú vállalati adattárolás 
+
+Az EMC már tavaly elérhetõvé tette Atmos nevû megoldását, amely egy cloud-alapú adattárolási platform. A cég most ezt nem csak termékként, hanem szolgáltatásként is értékesíti Atmos onLine név alatt, elsõsorban nagyvállalatok számára. Az akár több tíz vagy több száz petabájtig skálázható Atmos onLine az EMC szerint abban különbözik a hasonló megoldásoktól, hogy lehetõvé teszi az adatok szabály-alapú tárolását, vagyis minden információ automatikusan a megfelelõ sebességû, megbízhatóságú, biztonságú tárterületre kerül. Az EMC az RSA-tól származó, adatszivárgást megelõzõ technológiákat vet be az adatok osztályozására.
+
+Amikor a cloudról beszélünk, tulajdonképpen az internetrõl beszélünk,
+de Paul Maritz, a VMware vezére szerint a cloud valójában egy
+architektúrát jelöl, amelynek alapja a virtualizáció. "A cloud nem más,
+mint a szoftveres mainframe" -- mondta Maritz, akinek meggyõzõdése, hogy
+a megbízhatóságot, rendelkezésre állást sokkal hatékonyabban lehet
+szoftveres eszközökkel növelni mint hardveres innovációval. Maritz
+sokáig méltatta vállalatának legújabb platformját, az áprilisban
+debütált vSphere 4-et, amelynek számos újdonsága kapcsolódik a minél
+nagyobb megbízhatósághoz, hibatûrõ mûködéshez.
+
+
+
+
+Az informatikai ipar szereplõi rendkívül lelkesek, ha cloud-alapú szolgáltatásokról van szó, de a nagyvállalati ügyfelek egyelõre kivárnak, a szkepticizmust többek között biztonsági vagy rendelkezésre állási aggályok táplálják. Az Atmos onLine-nal együtt az EMC egy federációs megoldást is bemutatott, amely segítségével megteremthetõ az átjárás a saját adatközpontban mûködõ, Atmos platfomban tárolt és a cloudban levõ adatok között. Ez lehetõvé teszi a felhasználók számára, hogy például a valamilyen szempontból bizalmas, vagy kritikus fontosságú adataikat házon belül tarthassák, de minden más információt az Atmos onLine szolgáltatásra bízzanak. Mike Feinberg, az EMC cloud infrastruktúráért felelõs alelnöke szerint a vállalatok adataik mintegy ötödét tárolhatják jelenleg a felhõben, de a késõbbiekben az arányuk nõhet.
+
+Terjeszkedésre készül az EMC
+
+
+
+Joe Tucci, az EMC elnök-vezérigazgatója leszögezte, vállalata lehetõségként tekint a recesszióra, amelyet kihasználva piaci részesedésének növelésére törekszik. A cég a kedvezõtlen körülmények ellenére sem nyirbálja meg kutatás-fejlesztési költségvetését, idén 1,9 milliárd dollárt kíván erre költeni, emellett újabb akvizíciókat is tervez. Az elmúlt 5 év során 3 milliárd dollárt költött felvásárlásokra a tárolóeszközök és adattárolási szoftverek legnagyobb gyártója, és olyan cégeket szerzett meg, mint a VMware, az RSA Security vagy éppen a Documentum.
+
+Jelenleg közel 10 milliárd dolláros készpénzállományon ül az EMC, anyagi lehetõségei tehát adottak akár nagyobb akvizíciókhoz is. Tucci újságírói kérdésre csupán annyit árult el, olyan területeken kívánja erõsíteni pozícióit a cég, ahol már jelen van, példaként említve a virtualizációt és az információ-mendzsmentet.  Az EMC kifejezett célja, hogy stratégiai rendszerszállítóvá váljon.

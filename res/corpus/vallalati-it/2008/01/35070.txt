@@ -1,0 +1,14 @@
+A brit iskolákban egyelõre nem lesz Windows Vista és Office 2007
+
+A brit iskolákban egyelõre nem vezetik be a Windows Vistát és az Office 2007-et, legalábbis a British Educational Communications and Technology Agency (BECTA) azt javasolja az intézményeknek, hogy ne tegyék.
+
+
+
+A BECTA által kiadott, "Microsoft Vista and Office 2007: full report" címû elemzés szerint az iskolák megfontolhatják az áttérést Windows Vistára, ha teljesen új infrastruktúrán vezetik be, azonban nem javasolják a használatát más Windows-verziókkal vegyesen, vagy régebbi hardvereken. A BECTA semmivel  nem tudja alátámasztani, hogy iskolai környezetben a Vista bevezetésének költségei megtérülnének.
+
+
+ A szervezet számításai szerint mintegy 175 millió fontba kerülne a Vista bevezetése a brit iskolákban és oktatási intézményekben, amelynek a harmadát teszi ki a licencköltség, a kétharmada pedig hardverfejlesztésre, tesztelésre és a telepítésre menne el. Ez az összes ráadásul nem tartalmazza az Aero Glass felhasználói felület futásához szükséges grafikus kártyák beszerzésének költségét, bár a BECTA szerint az iskoláknak semmilyen elõnyt nem jelentene az Aero Glass használata.
+
+Az Office 2007-tel kapcsolatban is komoly ellenérzéseket fogalmazott meg a BECTA. A szervezet szerint az Office 2007-ben nincs egyetlen olyan szolgáltatás sem, ami szükségessé tenné vagy megindokolná az átállást az új verzióra. Bár az Office 2007 egyik legfontosabb újdonsága, hogy alapértelmezett Office Open XML fájlformátuma nyílt és jelenleg szabványosítás alatt áll, a BECTA mégsem javasolja ennek a formátumnak a használatát, helyette az ODF-et tartják kívánatosnak. Noha az Office 2007 is képes írni és olvasni az ODF-et. a BECTA szerint ez a funkció csak nagyon nehézkesen, kényelmetlenül használható.
+
+A BECTA azt javasolja az iskoláknak, telepítsenek gépeket szabad szoftverekkel, hogy a diákok ezekkel is meg tudjanak ismerkedni, hívják fel a hallgatók és a szülõk figyelmét arra, hogy milyen szabad alternatívák vannak a Microsoft termékeknek, valamint csak olyan irodai szoftvereket használjanak, amelyek kezelik az ODF állományokat.

@@ -1,0 +1,14 @@
+Négymagos barebone számítógép a Shuttle-tól
+
+A Shuttle öreg motoros már a kisméretû, "félkész" számítógépek gyártói között. Legújabb, elsõsorban játékosoknak készült, négymagos processzorral szerelt kockája közel 1500 euróért kínálja a nagy számítási teljesítményt.
+
+
+
+A Shuttle bejelentette XPC P2 3500G "félkész" számítógépét, mely nevétõl eltérõen teljes konfigurációban érkezik a boltokba borsos, 1450 eurós áron. Ezért az összegért a gyártó Intel Q6600 Core 2 Quad processzorral, négy gigabájtnyi 800 megahertzes DDR2 memóriával, valamint 512 megabájtnyi saját memóriás ATI HD 3870 megjelenítõ-alrendszerrel egészíti ki a gépház-tápegység-alaplap-hûtõventilátor quartettet, amely megegyezik a Shuttle kínálatában megtalálható XPC Barebone SP35P2 Pro vázzal.
+
+
+Az alumínium gépház alatt a háttértár feladatát 750 gigabájtnyi adat tárolására alkalmas, 32 megabájt gyorsítótárral szerelt Seagate Spinpoint F meghajtó, valamint egy DVD-író látja el. Az XPC P2 3500G szûkös belterében hõcsöves hûtõ tartja a processzort hûvösen, ennek ventilátora azonban az egész beltér légáramlataiért is felelõs. A számítógép ujjlenyomat-azonosítóval és multiformátumú kártyaolvasóval elégítheti ki az extrákért rajongó felhasználókat.
+
+Shuttle XPC P2 3500G
+
+A félkész kiszerelésben is megvásárolható SP35P2 Pro váz alaplapján egy gigabites sebességû vezetékes hálózati csatoló és egy 7.1 csatornás hangrendszer is megtalálható. A gépházon két FireWire kapunak és nyolc USB-csatlakozónak találtak helyet a tervezõk. Bár a Shuttle termékeit a stabilitás és az üzembiztonság oldaláról nem érheti kritika, furán hathat a hátlapra kivezetett, a BIOS beállításainak törlésére használható gomb, ha nem tudnánk, hogy a túlzott túlhajtás és tuning fontossá teheti ezt a kényelmi extrát bizonyos felhasználói körökben. A Windows Vistával érkezõ terméket a gyártó a CeBIT-en is kiállítja majd.

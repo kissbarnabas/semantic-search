@@ -1,0 +1,14 @@
+Mától tesztelhetõ a webes Microsoft Office
+
+A Microsoft megkezdte az Office Web Applications nyilvános tesztelését, azonban egyelõre csak néhány tízezer szerencsés kiválasztott csatlakozhatott a technikai elõzeteshez, amely egyelõre nem is funkciókész. A redmondi cég azoknak a felhasználóknak küldött meghívót az Office Web Applications elõzeteséhez, akik rendszeresen használják a Windows Live SkyDrive szolgáltatását, vagyis az ingyenes online webtárhelyet.
+Az Office Web Applications az irodai szoftvercsomag leggyakrabban használt komponenseinek, a Wordnek, az Excelnek, a PowerPointnak és a OneNote-nak a böngészõben futó változata. A webes alkalmazások felülete megszólalásig hasonlít a telepített szoftverekére és azok legtöbb funkcióját is tartalmazzák. A cél az, hogy a felhasználók ugyanúgy tudják kezelni a webes alkalmazásokat mint a telepített szoftvereket és hasonló képességeket kapjanak. Persze nem minden szolgáltatás lesz elérhetõ a böngészõbõl, a PowerPoint online változatában például nem lehet videót szerkeszteni.
+
+
+Egyelõre csak az Excel Web App és a PowerPoint Web App tesztelhetõ teljes mértékben, a Word Web App még csak dokumentumok megjelenítésére használható, szerkeszteni egyelõre nem lehet azokat, a OneNote Web App pedig csak késõbb kerül be a tesztváltozatba.A vállalat a késõbbiekben minden érdeklõdõ számára megnyitja az Office Web Applications tesztet, azonban egyelõre nem tudni, erre mikor kerülhet sor. A Microsoft oldalán jelentkezõket a cég értesíti, amikor a nyilvános béta elindul.
+A technikai elõzetes azonban már számos képességét megvillantja a végleges változatnak. Az Office Web Applications felhasználói a dokumentumokat ugyanúgy látják a weben mint a telepített alkalmazásokban és ugyanúgy szerkeszthetik õket, sõt akár többen is dolgozhatnak párhuzamosan ugyanazon a fájlon.
+
+Az Office Web Applications többféle módon lesz elérhetõ. Az Office-t mennyiségi konstrukcióban megvásárló vállalatok alkalmazottai számára természetesen használható lesz, de külön is elõ lehet rá fizetni, emellett reklámokkal támogatott változatban bárki számára ingyen elérhetõ lesz. A webes Office használatához Internet Explorer 7 vagy 8, Firefox 3.5 vagy Safari 4 szükséges, de a Microsoft ígérete szerint egyes mobil böngészõkre is optimalizálja majd. Az Office Web Applications az Office 2010-zel együtt indul, várhatóan 2010 elsõ felében.	     
+                  
+                  
+                  
+                   

@@ -1,0 +1,14 @@
+Mobil hotspotokká válhatnak az okostelefonok
+
+[Techworld] A TapRoot Systems ezen a héten tette közzé ingyenesen letölthetõ változatban azt a különleges szoftverét, mellyel mobil hotspotokká válhatnak a Symbian Series 60 és Windows Mobile 6.x Professional operációs rendszert futtató okostelefonok. A Walking Hot Spot korábban csak a telefongyártók és a mobilszolgáltatók számára volt elérhetõ.
+
+
+
+A mobilszolgáltatók március óta férhetnek hozzá az alkalmazáshoz, melyet megvásárlás után továbbértékesíthetnek, vagy ajándékozhatnak ügyfeleiknek. Az ingyenes verzió néhány korlátozást tartalmaz majd, például limitálva lesz az egyidõben csatlakoztatható készülékek száma. A Walking Hot Spot fõleg a gyors internetelérésre felkészített, HSDPA-val is ellátott telefonokon lehet igen hasznos, gyakorlatilag bárhol biztosíthatunk Wi-Fi-n keresztül internetelérést egyéb eszközeinknek, például egy PlayStation Portable konzolnak, vagy egy Wi-Fi-s fényképezõgépnek.
+
+A Windows Mobile 6.0-át futtató okostelefonok jelenleg is képesek az internetmegosztásra, azonban csak USB-n, vagy Bluetooth-on keresztül, a telefon beépített Wi-Fi-lapkáját nem tudják használni erre a célra. A cég szerint ez a megoldás sokkal biztonságosabb, mint a Bluetooth-os, a Walking Hot Spot architektúrájának ugyanis része lehet egy azonosító rendszer a mobilszolgáltatónál, vagy a szoftvert alkalmazó cégnél.
+
+
+A WHS Server menedzselhetõvé, kontrollálhatóvá teszi az egyes hozzáféréseket, azonosíthatja az egyes klienseket és eszközöket, és hasznos információkat nyújthat a felhasználókról is. A telefon tulajdonosa természetesen egyedileg is állíthatja a biztonsági beállításokat az elérést biztosító okostelefonján. 
+
+Az alkalmazást közvetlenül lehet majd letölteni a telefonra, egyelõre csak Symbian S60 és Windows Mobile 6.x Professional operációs rendszerek alá, de az év késõbbi részében tovább bõvítik majd a támogatott rendszerek körét -- vélhetõen a WM 6.x Standardot futtató telefonokkal is használható lesz a program.

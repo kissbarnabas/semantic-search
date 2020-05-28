@@ -1,0 +1,14 @@
+3D-játékok futtatására is képes cloudot épít az AMD
+
+Vizuális és interaktív tartalmakat kiszolgáló cloudot épít az AMD egy operátor számára. Az AMD Fusion Render Cloud névre hallgató rendszer  lehetõvé teszi, hogy akár a legújabb játékokkal játszunk mindössze egy átlagos, webböngészésre alkalmas PC és szélessávú internet-hozzáférés birtokában.
+
+
+
+A hangzatos címszavak mögött egy erõteljesen párhuzamos, elosztott számítógépes alkalmazáshoszting rendszer áll, mely a maga nemében egyedülálló, ugyanis több mint ezer grafikus processzort alkalmaz a vizuális tartalmak lerendereléséhez. A rendszeren futtatott kiszolgáló köztesszoftvert a kaliforniai OTOY nevû vállalat fejlesztette ki, mely egyúttal üzemelteti is a HD cloudot, ahogyan nevezik. A rendszert elméletileg úgy alkották meg, hogy tetszõleges PC-alkalmazást futtathasson, és annak képét, a vezérléssel együtt, az interneten keresztül streamelje az OTOY plug-innal felvértezett böngészõ felé. A cloud többek közt a tegnap bejelentett Phenom II processzorokra és ATI Radeon HD 4870 grafikus chipekre épül. 
+
+
+Ezzel lehetõvé válik, hogy a felhasználói kliens erõforrásaitól függetlenül fusson akár játék vagy HD-video visszajátszása, a renderelés szerveroldalon történik. A lerenderelt képet aztán összetömörítik és az interneten keresztül továbbítják a felhasználó felé, akinél a böngészõben jelenik meg. Ezzel a kliensnek nem kell sem tárolnia, sem feldolgoznia a videókat, vagy futtatnia a játékokat, így egy ultrahordozható gépen is játszható lehet akár a Crysis is. A cloud demonstrálásakor a tavaly nyár végén megjelent Mercenaries 2: World In Flames játékot egy frissen bejelentett, még nem is kapható Pavilion dv2 ultrahordozható gépen mutatták be, mely egymagos processzorral és integrált grafikus maggal rendelkezik.
+
+
+
+Az OTOY szerint a HD clouddal terjesztett tartalmak szélesebb rétegeket lehetséges elérni, ugyanis lebomlanak a korábbi akadályok, vagyis hogy milyen hardveren fut. Ebben természetesen a kiadóknak is közre kell mûködniük, elsõsorban nem is technikai oldalról, hanem a licenckérdések tisztázása és az üzleti modell kidolgozása érdekében. Az OTOY víziója szerint a jövõben lehetõvé válik, hogy különbözõ eszközök között váltogassunk,  például hazafelé utazva még egy iPhone-on nézünk egy videót, majd hazaérve folytatjuk az LCD- vagy plazmatévén, már HD-felbontásban. Az OTOY cloudját 200ö második felében telepítik.

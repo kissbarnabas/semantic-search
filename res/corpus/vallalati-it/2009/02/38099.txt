@@ -1,0 +1,12 @@
+Még egyszerûbb távoli felügyelet az ESET biztonsági szoftvereihez
+
+Megújult az ESET biztonsági alkalmazásainak egyszerû távadminisztrációját megvalósító Remote Administrator, az új verzió azonnal elérhetõ az üzleti felhasználók számára. A fejlesztések jelentõs része a felhasználók visszajelsései alapján született.
+
+
+
+Az ESET Remote Administrator 3.0 újdonságai közül a legfontosabb talán a még szorosabb integráció az Active Directoryval, ami lehetõvé teszi a felhasználói csoportok egyszerûbb kezelését. A szoftverrel a klienseken távolról is újratelepíthetõk, frissíthetõk az ESET biztonsági szoftverek, emellett távolról indítható vírusellenõrzés is, illetve lehetõség van a kliesek távoli konfigurálására is, ezekkel akkor is biztosítható a végpontok védelme, ha az ott ülõ felhasználó szándékosan vagy véletlenül kikapcsolná a biztonsági szoftvert vagy módosítaná annak beállításait.
+
+
+ A Remote Administrator 3.0-ba integrálták az ESET SysInspectort, amelynek köszönhetõen távolról is lehet riportot készíteni a felügyelt munkaállomások állapotáról. Az új Remote Administrator lehetõvé teszi az adminisztráció delegálását korlátozott jogokkal, vagyis a megbízott ilyenkor nem tud változtatni a beállításokon. Az ESET továbbfejlesztette a monitorozási és riasztási funkciókat, automatikus értesítések rendelhetõk a különféle biztonsági eseményekhez, az értesítés lehet akár e-mail, egy SNMP esemény vagy tetszõleges parancs futtatása.
+
+"Az ESET Remote Administrator eddig is könnyen kezelhetõ, gyors és hatékony alkalmazás volt, a most elérhetõvé vált verzió azonban még egyszerûbbé teszi a nagy vállalati hálózatok felügyeletét" -- emelte ki Csiszér Béla, az ESET termékeket hazánkban képviselõ Sicontact Kft. ügyvezetõje.

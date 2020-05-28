@@ -1,0 +1,16 @@
+Az OCZ ExpressCard formátumú tárolósorozattal lepi meg a notesztulajdonosokat
+
+Az OCZ egy három tagból álló sorozatot jelentett be a hét elején, melynek tagjai 8, 16, lletve 32 gigabájtnyi tárterülettel egészíthetik ki a noteszgép beépített merevlemezét.
+
+
+
+Az OCZ gondolt azokra a felhasználókra, akiknek újabb noteszgépében már ExpressCard kártyahely található. Az új, flashmemóriás Slate sorozat tagjai ebbe a kártyahelybe illeszkednek és mivel mindössze 34 milliméter szélesek, azokban a gépekben is használhatóak, melyekben kártyát fogadó rés az 54 milliméter széles változatokhoz nem elég széles. A Slate sorozat tagjai háromféle méretben válnak majd elérhetõvé, közülük a legkisebb 8, a középsõ 16, a legnagyobb pedig 32 gigabájtnyi adat elnyelésére képes.
+
+
+ A meghajtók az USB-kulcsoknál már fizikai értelemben is biztonságosabbak, hiszen a gépházba csúsztatva mûködnek, így nem törhetnek le az USB-kapuról egy óvatlan mozdulat során. A fentiek ellenére a meghajtókhoz mini-USB kábelt is mellékel a gyártó, melynek segítségével USB 2.0 sebességgel olyan számítógépekhez, régebbi notebookokhoz is kapcsolhatók, amelyek nem rendelkeznek ExpressCard kártyaréssel.
+
+OCZ Slate ExpressCard tárolósorozat
+
+A Slate sorozat a sebesség tekintetében nem veszi fel a versenyt a gyorsabb SSD-meghajtókkal, ám az USB-kulcsokkal igen, rájuk adatot másolni 12,5 megabájt másodpercenkénti sebességgel lehet, melyeket azonban kissé fürgébben, 18 megabájtos sebességgel lehet visszaolvasni. Az OCZ nem közölte a Slate-ek árait és azt sem, hogy mikortól vásárolhatóak majd meg. Reméljük még azelõtt megpillanthatják a polcokat, mielõtt az ExpressCard szabvány következõ generációja színre lép és megjelennek az erre a szabványra épülõ új, egyben gyorsabb kártyaváltozatok.
+
+A Personal Computer Memory Card International Association (PCMCIA) november közepén bejelentette, hogy az utolsókat simítják az ExpressCard 2.0 szabványon, melyhez a már véglegesített USB 3.0, illetve a PCI Express 2.0 szabványok adják az alapokat. Az ExpressCard 2.0 szabványa épülõ bõvítõkártyák akár tízszeres sebességet is kínálhatnak a jelenlegi változatokhoz képest. A lényegesen magasabb sebesség kedvez majd az ebbe a szabványba illeszkedõ új memóriabõvítéseknek és adattárolóknak, akár a SATA II interfésszel ellátott merevlemezeknek is.

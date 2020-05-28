@@ -1,0 +1,10 @@
+Távoli kódfuttatást lehetõvé tevõ sérülékenység az Excel több verziójában
+
+Távoli kódfuttatást lehetõvé tevõ sebezhetõségre bukkantak a Microsoft Excelben, egy megfelelõen elõkészített dokumentum segítségével a támadók tetszõleges kódot indíthatnak el az áldozatok gépein, amivel adatokat lophatnak vagy akár spamküldésre vagy más támadások indítására használhatják a gépet.
+
+
+
+
+ A biztonsági rés az Excel 2003 SP2, Excel Viewer 2003, Excel 2002, Excel 2000 és Excel 2004 (Mac-verzió) változatokat érinti. Az Office programcsomaghoz az õsszel kiadott harmadik javítócsomag telepítése az Excelt is javítja, így az SP3-mal frissített Excel már nem sérülékeny. Az Excel 2007 és a Mac OS X-re a napokban kiadott Excel 2008 is biztonságos. A redmondi cég egyelõre nem közölte, hogy mikor frissíti a sérülékeny verziókat. A Microsoft múlt kedden adta ki szokásos biztonsági frissítéseit, a következõ "patch kedd" február 12-én lesz. 
+
+A támadások igen sokrétûek lehetnek, a legegyszerûbb a preparált dokumentumot egy levélben, spamben elküldeni az áldozatoknak, de kézenfekvõ egy weboldal létrehozása is, ahová a támadók elcsalhatják a felhasználókat és rávehetik õket hogy töltsék le és nyissák meg a fájlt. A Microsoft elismerte a hiba létezését, azonban állításuk szerint nem terjedtek el széles körben az erre alapozó támadások vagy kártevõk, csak elszigetelt esetekrõl tudnak. A cég azt javasolja, az ismeretlen forrásból származó dokumentumokat a felhasználók futtassák át a Microsoft Office Isolated Conversion Environment (MOICE) konvertálón, amely a fájlokat Office Open XML formátumba alakítja, és eközben megszabadítja azokat az esetleges ártó kódoktól.

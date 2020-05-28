@@ -1,0 +1,16 @@
+Konzolos egyszerûséget akar nyújtani az AMD játékplatformja
+
+Az ATI két évvel ezelõtti felvásárlásának egy újabb gyümölcseként az AMD kifejezetten játékok számára dob piacra platformot, mely AMD processzorra, grafikus chipre, és legtöbb esetben chipsetre épül. A vállalat szándéka szerint ezzel egyszerûsödik a PC-vásárlás a kevéssé hozzáértõk számára, akik rengetegen vannak.
+
+
+
+A Jon Peddie Research szerint a tavaly eladott PC-k kétharmada alapszintû grafikus képességekkel rendelkezett, így nem alkalmasak a korszerû játékok futtatására. Az AMD által citált adatok alapján világszerte mintegy 263 milliós a rendszeres PC-játékosok száma, melybõl mintegy 197 millió alkalmi, 53 millió rendszeres, és 13 millió keményvonalas. Az AMD GAME! játékplatformja elsõsorban  a piac közepét, vagyis a hardverre költeni szándékozó, ám kurrens hardveres hozzáértéssel nem feltétlen rendelkezõ vásárlókat célozza, akik számára leegyszerûsítheti az optimális PC vagy az alkatrészek kiválasztását. 
+
+Az AMD GAME! platform számára a minimális követelmény Athlon X2 5600+ processzor, Radeon HD 3650 videokártya és AMD 770 chipset, míg a csúcsteljesítményû GAME! Ultra rendszerek legalább Phenom X4 9500 processzorral és Radeon HD 3850 grafikus chippel kell rendelkezniük az AMD chipset mellé. A vásárlás támogatására a különbözõ processzor és videokártya kombinációkról matricák tájékoztatják a vevõket. Nigel Dessau, az AMD marketing vezérigazgatója szerint a PC-iparnak a konzolokhoz hasonló egyszerûséget, megfizethetõséget és kiszámíthatóságot kell biztosítania a fogyasztóknak. Az AMD elképzelése szerint a GAME! PC-k 1280x1024-as felbontásban, a GAME! Ultra gépek pedig 1600x1200-as felbontásban átlagosan legalább 30 fps-t érnek el a népszerû játékokban, mint a Quake Wars, Half Life 2 Episode Two, World of Warcraft, Lineage II, Call of Duty 4, C&C 3.
+
+
+Az AMD GAME! minõsítéssel nemcsak a teljes PC konfigurációkat, hanem alaplapokat, videokártyákat, memóriamodulokat, tápegységeket, de házakat, hûtést és beviteli eszközöket is ellát, és az így hitelesített termékeket egy weblapon össze is gyûjti -- sõt azok kitesztelt kombinációira is mutat példákat. A Microsoft szerint az AMD GAME! és a Microsoft Games for Windows programok együttesen nagyban megkönnyítik a PC-s játékosok dolgát, és végeredményben jobb játékélményhez segíti õket. Az AMD GAME! rendszerek és komponensek, valamint további információ a  game.amd.com oldalon érhetõ el.
+
+[+] Mindenkit vár a videojáték-ipar! 
+
+A GAME! platform jelenleg az asztali számítógépeket fedi le, hamarosan azonban érkeznek a notebookba szánt összetevõk, mint például a Turion Ultra processzor. A Turion Ultra valószínûleg a közelgõ új, Griffin kódnéven ismert chipet takarja, mely az AMD elsõ kifejezetten mobil fejlesztése a K8 mikroarchitektúra energiatakarékos elektronikai implementációja révén. A Griffin a Puma notebook platformba illeszkedik majd, melynek fókusza elsõsorban a multimédiás felhasználás, amit a játékra is alkalmas integrált Radeon HD 3200 grafikával bíró 780G chipset támogat.

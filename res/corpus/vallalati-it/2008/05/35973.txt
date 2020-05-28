@@ -1,0 +1,14 @@
+Távolról is 'kikapcsolható' lesz a Fujitsu adatokat titkosító merevlemeze
+
+[TechOn] Nem csak az okosabb telefonokat lehet ezentúl távolról törölni lopás esetén: a számítógépek számára BIOS-t fejlesztõ Phoenix Technologies a Fujitsuval közösen egy olyan megoldáson dolgozik, amellyel a cég új merevlemezét is erre lehet távolról utasítani. A rendszer lelke persze a Fujitsu 2,5 hüvelykes mobil merevlemeze, amely hardveresen titkosítja az adatokat.
+
+
+
+A közösen fejlesztett szoftver, a Phoenix FailSafe gondoskodhat adataink biztonságáról, akár távolról is menedzselhetõvé teszi a merevlemezt, az azon tárolt adatokat, így egyetlen gombnyomással tönkretehetjük, törölhetjük az ellopott noteszgépen tárolt adatokat. A Fujitsu új merevlemeze eleve igen erõs titkosítással tárol minden egyes bitet, így a törlés is nagyon biztonságosnak mondható.
+
+
+A percenkénti 7200-as fordulatszámmal pörgõ MHZ2 CJ SATA-csatolójú merevlemez 256 bites Advanced Encryption Standard (AES) titkosítás alkalmazásával rögzíti a rámásolt adatokat. Az AES titkosítás ebben az esetben hardveres megoldás, a merevlemez írási- és olvasási mûveletei során egyaránt aktív, és ellentétben a szoftveres megoldásokkal nem igényli a titkosító kulcs memóriába töltését, így az semmilyen korábbról ismert trükkel nem szerezhetõ meg.
+
+
+
+A Phoenix FailSafe emellett segíthet majd az ellopott noteszgép megtalálásában is, erre a célra felhasználhatja a számítógépbe épített adatkártyát és GPS-modult is, miközben használhatatlanná teszi a notebookon tárolt adatokat.

@@ -1,0 +1,14 @@
+Natív titkosítást kínáló merevlemezekkel szereli fel üzleti notebookjait a Dell
+
+A Dell olyan noteszgépeket dob piacra, amikben a felhasználó közbenjárása nélkül is titkosítja a merevlemezen tárolt adatokat, megelõzve azt, hogy kényes adatok kerüljenek illetéktelen kezekbe. A megoldás egy natív adattitkosítást végzõ Seagate merevlemezbõl és egy McAfee szoftverbõl áll.
+
+
+
+Az FBI adatai szerint az Egyesült Államokban évente mintegy 600 ezer notebookot lopnak el, 97 százalékuk sosem kerül elõ. A notebooklopások száma évrõ évre nõ, ahogy egyre terjednek a viszonylag értékes mobil PC-k. A gépek nem csak piti tolvajok megélhetését biztosítják, hanem akár ipari kémek célpontjai is lehetnek, hiszen jóval egyszerûbb bizalmas információkat egy laptop merevlemezérõl megszerezni, mint behatolni értük a vállalati hálózatokba. Ezért is egyre fontosabb a noteszeken tárolt adatok védelme, hiszen sokszor nem is magának a hardvernek az elvesztése okozza a legnagyobb fejfájást, ha a rajta tárolt adatok bizalmasak, értékesek, esetleg pótolhatatlanok.
+
+A Dell gépeiben a natív adattitkosítást alkalmazó Seagate Momentus FDE (Full Disk Encryption) merevlemezek teljesítenek szolgálatot, ezekbõl akár 500 gigabájtos kapacitású, percenként 7200-at pörgõ változatok is elérhetõk a legnagyobb teljesítményû notebookok vagy mobil munkaállomások számára. A SATA felületû meghajtók AES titkosítással védik a rajtuk tárolt információkat, a felhasználóknak elég csupán a rendszerindításkor megadnia a BIOS-ban tárolt jelszót, innentõl kezdve a titkosítás teljesen transzparens, vagyis ugyanúgy lehet a meghajtót használni, mintha titkosítatlan lenne.
+
+
+ Ha valaki megkaparintja a noteszt, és nem ismeri a jelszót, próbálkozhat a merevlemez kiszerelésével, azonban az a kulcs ismerete nélkül másik számítógépben sem kelthetõ életre, ott üres diszknek láttatja magát. A Seagate diszkjei a Dell üzleti felhasználásra szánt notebookjaiban, vagyis a Latitude és Precision modellekben kapnak helyet elõször, de akár az OptiPlex asztali konfigurációkat is lehet velük rendelni.
+
+Vállalati környezetben a McAfee szoftvere gondoskodik a noteszeken tárolt adatok titkosításáról, a kulcsok kezelésérõl. Az ePolicy Orchestrator menedzsment-megoldás valamint a végpontvédelmi szoftver segítségével a merevlemezhez való hozzáférés akár hardveres tokenhez is köthetõ, ilyenkor a felhasználó csak akkor éri el az adatokat, ha az USB-portra csatlakoztatja a hardverkulcsot, esetleg Smart Cardot.

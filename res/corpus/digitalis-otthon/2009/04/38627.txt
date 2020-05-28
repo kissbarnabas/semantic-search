@@ -1,0 +1,25 @@
+Tévéken terjeszkedik tovább az Adobe Flash
+
+Az Adobe Flash minden internetezõ számára ismert, a weboldalakba integrált animációk, videók, alkalmazások egyik szabványává vált technológia most egy egészen új területre ugrik, a monitorokról egyenesen a tévéképernyõkre. A cél, hogy a webképes tévék, Blu-Ray lejátszók és set-top boxok eddigi funkcióikon felül színes-szagos kiegészítõk tárházává váljanak.
+
+
+
+Vírusként terjed
+
+A Flash segítségével eddig fõként "konténereket, tárolókat" hoztak létre multimédiás felület gyanánt, ilyen például a YouTube beágyazható videolejátszója is. A következõ lépés, az okostelefonok térhódításával, a Flash mobilos változatának kifejlesztése volt, most pedig a cég elérkezettnek látta az idõt, hogy a gazdag webalkalmazásokat a nappaliban lévõ eszközökre is beengedje. A mai bejelentés lényege, hogy a Flash alapon fejlesztett widgetek szabadon átvihetõek a szórakoztató elektronikai eszközök rendszerébe is.
+
+Az Adobe runtime-mal készített widgetek célja, hogy a fejlesztõk könnyedén integrálhassanak alkalmazásokat a nem szabadon programozható eszközbe épített kezelõfelületekre is. Ebben az esetben tehát egy web-képes HDTV elméletileg végtelen mennyiségû rich-media widgetet érhetne el meglévõ menürendszerén keresztül, anélkül, hogy bármilyen újabb eszközt kellene rácsatlakoztatni.
+
+Hibridek
+
+A felhasználók számára egészen új távlatok nyílhatnak meg a médiafogyasztásban, létrejön egy újszerû hibridje a tévéképernyõnek és a számítógépes desktopnak, úgy, hogy a kettõ között nem kell váltogatni. A Windows Media Center már egy lépés volt ennek a hibridnek az irányába, igaz azzal a megkötéssel, hogy mindenképp egy PC-nek kellett a háttérben dolgoznia.
+
+Ebben az esetben viszont kizárólag olyan megjelenítõkre illetve lejátszókra van szükség, melyek támogatják a Flash-t, illetve olyan tartalomszolgáltatókra, akik gondoskodnak arról, hogy ez ne csupán egy elméleti lehetõség legyen. Az Adobe a bejelentéssel együtt közzé is tett egy  listát azokról a cégekrõl, melyek támogatják kezdeményezésüket: többek között az Intel, Comcast, Disney Interactive, Netflix, Atlantic Records és a New York Times Company áll máris a tévés Flash mögött.
+
+
+Az eszközök oldalán viszont egyelõre nagy a titkolózás, s Anup Murarka, az Adobe technológiai stratégiai igazgatója is csak óvatosan jósolgatott, mikor az amerikai sajtó képviselõi errõl kérdezték. Murarka szerint a hardvergyártók nem hozakodnak elõ a bejelentéseikkel, egészen addig, amíg a Flash-t támogató termékeik el nem készülnek, el nem kezdik õket gyártani. Viszont szerinte ez a bejelentés mégis a televíziós platform számára bír komoly súllyal, s nem feltétlenül az Adobe számára 
+"nagy fless".
+
+Az Adobe-nak is nagyon jó
+
+A webes videók világának 80 százalékát uraló Flash számára a tévé egy újabb hódítási terület, ráadásul a comScore becslései szerint már idén több mint egymilliárd Flash-képes mobil lesz a felhasználók kezében. Ezekkel a területekkel a piac olyan szintû bõvítésére nyílik lehetõség, amire a web organikus növekedésével már nem lesz példa. Mivel az új keretrendszer visszafelé is kompatibilis, ezért az eddig létrehozott Flash-alkamazások milliárdnyi új eszközön jelenhetnek meg, s olyan embereket érhetnek el, akik eddig távol maradtak a számítástechnikától.

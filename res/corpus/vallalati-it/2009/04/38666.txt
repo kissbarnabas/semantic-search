@@ -1,0 +1,26 @@
+Jövõ év elején jön a 12 magos Opteron, 2011-ben a Bulldozer mikroarchitektúra
+
+Az AMD szerverpiaci terveivel kapcsolatban tegnap tartott prezentációjában nem csak a heteken belül piacra kerülõ Istanbult tárgyalta, hanem szót ejtett 2010-es és azt követõ terveirõl. A termékterv legmeghatározóbb eleme a foglalatonkénti magok számának meredek emelése, amire lényegében rákényszeríti az Intel Nehalem mikroarchitektúrája, és a készülõfélben lévõ nyolcmagos Xeon MP chipje, a Nehalem-EX, vagy más néven Beckton. Az új mikroarchitektúra, a Bulldozer 2011-ben érkezik.
+
+
+
+Magháború
+
+Ahogyan elõzõ cikkünkben említettük, az Istanbul a jelenlegi Socket F infrastruktúrába illeszkedik bele, ami egyben legnagyobb erénye, hiszen világszerte több mint 2 millió Socket F-szerver állhat üzemben, melyek számára hatalmas elõrelépéssel kecsegtet. Jövõ évtõl kezdõdõen, három és fél év után azonban alapjaiban újul meg AMD szerverkínálata, és új platform valamint termékcsaládok érkeznek.
+
+A jelenlegi ígéretek szerint 2010 elsõ negyedévében érkezik a Maranello platform, melynek tesztpéldányai már a partnerekhez is eljutottak. A Marenello egy új, úgynevezett G34 foglalatot, foglalatonként 4 csatornás DDR3-memóriaalrendszert vezet be, és elsõsorban a teljesítményigényesebb, 2-4 utas kiszolgálókba érkezik. A platform az Opteron 6000-es családként piacra kerülõ Magny-Cours multi-chip processzoroknak ad majd otthont, melyek két szilíciumot tokoznak össze, és így 8- vagy 12 maggal rendelkezhetnek. A Magny-Cours mikroarchitekturálisan továbbra is a jelenlegi 10h mikroarchitektúrára épít, azonban továbbfejlesztett virtualizációs támogatással bír majd, és hardveresen segíti az I/O-virtualizációt is.
+
+A Magny-Cours teljesítményprojekciója 
+
+A Maranello és Magny-Cours páros már második generációs Direct Connect architektúrát valósít meg, azaz egy egy processzor 4 külsõ HyperTransport linkkel bír, aminek eredményeként egy négyutas rendszerben minden processzorfoglalat közvetlenül, teljes szélességû koherens linken kommunikálhat a másik hárommal, miközben saját I/O-linkkel is bír. Ezt az optimális topológiát a jelenleg Opteron-rendszerekkel nem lehet elérni, ami teljesítményveszteséget okozhat. A DCA 2.0 továbbá lehetõséget ad olyan  8-foglalatos konfigurációk kialakítására is, ahol fele szélességû HT-linkeken ugyan, de az összes processzor közvetlen kommunikál a többivel, ami nagy elõrelépést jelent.
+
+A kisebb terhelésû vagy klaszterizált gépeknek az AMD a San Marino platformot mutatja majd be. A C32 foglalatú, 1-2 utas platform igyekszik kölséghatékony maradni, így 2 csatornás DDR3-memóriát támogat, csatornánként legfeljebb 2 DIMM-mel. A San Marinót a továbbra is 45 nanométeres eljárással készülõ, 4 vagy 6 magos Lisbonok, 4000-es Opteronok töltik majd fel. A Magny-Cours-ral az AMD a jelenlegi Opteron-rendszerekhez képest több mint kétszeres teljesítményt ígér hasonló fogyasztás mellett.
+
+Bulldozer
+
+A Maranello és San Marino platformok a 2011-es Interlagost és Valenciát is fogadják majd, melyek már a a Bulldozer mikroarchtiektúrát implementálják. A stabil platform azt jelenti, hogy a chipfejlesztõk ezúttal teljes egészében a mikroarchitektúrára koncentrálhatnak, melynek megújítása sürgetõ -- az AMD lényegében az 1999-ben debütált K7 inkrementálisan továbbcsiszolt változatát használja a mai napig, egészen 2011-ig. A 32 nanométeres gyártástechnológiára tervezett chipek 8 Bulldozer magot integrálnak majd, és 16 magos multi-chip processzorokat is lehetõvé tesz.
+
+Az Interlagos teljesítményprojekciója 
+
+
+A Bulldozer mikroarchitekturális részleteirõl egyelõre keveset tudni, az AMD prezentációja alapján a fejlesztések fókuszát a lebegõpontos végrehajtás képezhette, ott ugyanis jóval látványosabb elõrelépést ígér, mint integer mûveletekben. Tekintve, hogy ezek a fejlesztések valószínûleg még nem születtek meg szilíciumon, vagy nagyon korai fázisban vannak, így az AMD-nek sem lehet pontos képe arról, valójában hogyan fognak teljesíteni. Az ezt követõ idõszakkal kapcsolatban annyit árult el az AMD, 2012-ben érkezik a következõ generációs szerverplatform.

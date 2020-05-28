@@ -1,0 +1,16 @@
+Már videohívásra is képes a Gmail
+
+A Google fejlesztõi nem tudnak leállni, így erre a hétre is jutott egy újdonság a szolgáltatásaikkal kapcsolatban. A hivatalos Gmail blogon Justin Uberti szoftvermérnök a Gmail telefonos- és videocsevegési szolgáltatását mutatta be.
+
+
+
+"Komoly felhasználója vagyok a Gmail csevegõnek. Nagyon hasznos, hogy az e-mail és a chat ugyanabból az alkalmazásból elérjetõ" -- írja Justin Uberti. -- "de hiába gépelnek az emberek gyorsan, még az új emoticon-készletünk mellett is számos olyan dolog van, amit egyszerûen nem lehet kifejezni egy chat üzenetben." A Gmail legújabb szolgáltatása a hang- és videokommunikáció. A cél természetesen az volt, hogy egy könnyen kezelhetõ, gördülékeny felület jöjjön létre jó minõségû hang- és képátvitellel, továbbra is ingyenesen. A felhasználóknak mindössze annyi dolga van, hogy a http://mail.google.com/videochat oldalról letöltik a beépülõ modult a gépükre, a többirõl a Google gondoskodik.
+
+Ez a lépés már várható volt a Gtalk/Gmail felület esetében, hiszen a népszerû üzenetküldõk közül ez az utolsó, amiben csupán szóban lehetett érintkezni a partnerekkel, a legnagyobb riválisok (pl. MSN, Skype) már régóta kínáltaák a videohívás lehetõségét is A Google azonban a "kommunikáció szabad szellemének" jegyében kizárólag nyílt technológiákra alapozta a videochatelést, többek között XMPP-re, az RTP-re, illetve a YouTube-tól kezdve a HDTV adásokig számos helyen használt H.264 (MPEG4 Part10) szabványra. Ez a gyakorlatban annyit tesz, hogy külsõ fejlesztõk bármikor fejleszthetnek kapcsolódó szolgáltatásokat, illetve a külsõ alkalmazások és hálózatok könnyen együttmûködhetnek, összekapcsolódhatnak a Google hang- és videochattel. 
+
+
+
+
+ A böngészõbe épülõ modul telepítése után megjelenõ új menübõl egy kattintással indítható a videohívás. A fejlesztõk annyira figyelmesek voltak, hogy a hívás kezdete elõtt néhány másodperccel már láthatják magukat a felek, hogy elég jól néznek-e ki, majd a kapcsolat létrejötte után a chat ablakon felül megjelenik a videoablak is. A képet át lehet méretezni vagy éppen ki lehet rakni teljes képernyõre is, ízlés szerint.
+
+A telefonos és videócsevegés használatához Windows XP, Windows Vista vagy Mac OS X v10.4 operációs rendszer mellett egy olyan böngészõre van szükség, ami támogatja a Gmail legújabb verzióját. Ezek közé tartozik a  Google Chrome, a Firefox 2.0 és újabb, az Internet Explorer 7 és újabb, valamint a Safari 3.0 vagy újabb változata.

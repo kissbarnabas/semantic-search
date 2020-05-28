@@ -1,0 +1,14 @@
+Sávszélességet dupláz a UPC, jön a 120 megabites kábelnet
+
+Holnaptól jelentõsen megemeli chello márkanevû kábelnetes díjcsomagjainak letöltési sebességét a UPC Magyarország. A csomagok egy részénél dupláz a szolgáltató, mely a fejlesztések révén hálózatán immár 30 megabit/másodperces adatátviteli sebességet is képes nyújtani, év végére pedig jön az ennél négyszer gyorsabb internet. A gyorsabb díjcsomagokat változatlan áron kínálja a cég.
+
+
+
+A sávszélesség-emelésnek köszönhetõen holnaptól a UPC kínálatában szereplõ, kisebb csomagok (start és bronze) által biztosított sávszélesség a duplájára emelkedik, így elõbbi maximum 1, utóbbi 4 megabites sávszélességet biztosít letöltési irányban. A start csomag esetében a választékból egyedüliként a feltöltési sebességet is duplázza a szolgáltató, így az internetezõk 256 kilobit/másodperces sávszélesség helyett 512 kilobit/másodperccel küldhetnek majd adatokat.
+
+Az eddig 10 megabit/másodperces letöltési sávszélességet nyújtó chello silver csomag esetében a letöltési sebesség a másfélszeresére nõ, míg a chello gold szolgáltatásnál 25 megabit/másodpercre emel a UPC. A szolgáltató holnaptól az új elõfizetõk számára automatikusan a megnövelt sávszélességet nyújtja, a cég korábbi ügyfeleinél pedig május végéig, fokozatosan állítják át a sebességhatárokat. A UPC a garantált sávszélességet továbbra is az eddigi gyakorlat szerint állapítja meg, azaz a díjcsomagok által biztosított minimum letöltési és feltöltési sebesség az elérhetõ maximum fele.
+
+
+A UPC ígérete szerint az EuroDocsis 3.0 technológia alkalmazása révén még idén megjelennek a kínálatban a UPC Fiber Power elnevezésû, akár 120 megabites adatátviteli sebességet nyújtó csomagjai. Az ADSL-lel elérhetõ sávszélességnél lényegesen gyorsabb adatátvitelt biztosító rendszerhez nem szükséges újabb kábelfektetési munkákat végezni, a Fiber Power ezért az év végére a UPC legtöbb szolgáltatási területén, az összes háztartás számára elérhetõ lesz.
+
+A szolgáltató legnagyobb hazai konkurenciája, a Magyar Telekom tavaly szeptemberben közölte, hogy továbbfejleszti kábelhálózatát az EuroDocsis 3.0 szabványnak megfelelõen, így idén év végére mintegy 380 ezer magyar háztartás számára teszi majd elérhetõvé a gyorsabb kábelnetet. A német tulajdonban álló telekommunikációs multinál közben gõzerõvel dolgoznak az elõfizetõig kiépített optikai hálózat (FTTH) létrehozásán, mely 50 megabit/másodperces letöltési sebességet ígér. Az újgenerációs optikai hálózat év végére 200 ezer háztartást érhet el és kezdetben Budapest mellett egyes nagyobb megyeszékhelyeken válik elérhetõvé.

@@ -1,0 +1,16 @@
+Frissítették a Red Hat Enterprise Linux 4-et
+
+A Red Hat kiadta az Enterprise Linux 4 hetedik frissítését, vagyis megérkezett a Red Hat Enterprise Linux 4,7, amely fõképp hibajavításokat tartalmaz, de azért új funkciókkal is kényeztet.
+
+
+
+Bár a Red Hat Enterprise Linux 5-ös verziója már tavaly március óta hozzáférhetõ, a vállalat továbbra is támogatja, frissíti a 4-es változatot, amelyet még 2005-ben adott ki. A napokban megjelent hetedik frissítés talán legfontosabb újdonsága a paravirtualizált eszközmeghajtók beépítése, amelyek segítségével az RHEL 4.7 paravirtualizált környezetben (pl. Xen) nagyobb sebességgel futtatható.
+
+
+ Az RHEL 4.7 továbbra is a 2.6.9-es kernelre épül, azonban a Red Hat fejlesztõi az újabb rendszermagokból számos fejlesztést visszaportoltak annak érdekében, hogy a disztribúció fusson a legújabb hardvereken is. Számos új eszközmeghajtó is bekerült a disztribúcióba, fõleg új chipkészletek, grafikus vezérlõk, hálózati kártyák drivereivel találkozhatnak a felhasználók.
+
+Újdonság, hogy a korábban csak technológiai elõzetesként jelen levõ Aide (Advanced Intrusion Detection Environment) és Systemtap teljes értékû, támogatott komponense lett a Red Hat Enterprise Linux 4.7-nek. A figyelemre méltó fejlesztések között említhetjük még az SHA-256 és SHA-512 jelszótitkosítás megjelenését, amely elsõsorban a kormányzati felhasználásban lehet fontos. A disztribúcióba bekerült a Firefox legújabb, 3-as verziója is.
+
+Az RHEL 4.7-et az elõfizetõk a szokásos szerver, munkaállomás és desktop verziókban tölthetik le a Red Hat oldaláról. A szerverváltozatok esetében 32 és 64 bites x86, Itanium, IBM System p, S/390 és System z rendszerek támogatottak, a munkaállomás-verzió x86-on és Itaniumon fut, a desktop változat pedig csak x86-on.
+
+A Red Hat Enterprise Linux 4 ezzel a frissítéssel az életciklusának végéhez közeledik. Az utolsó frissítés a jövõ év elején érkezõ 4.8 lesz, ez lesz az utolsó olyan update, amelyben még helyet kapnak új képességek, a késõbbiekben azonban már csak kritikus hibajavítások készülnek.

@@ -1,0 +1,37 @@
+A vártnál sokkal mélyebb veszteség az AMD-nél
+
+Rendkívül súlyos veszteségeket könyvelt el az AMD a negyedik negyedévben. A korábbi forgalmi figyelmeztetések és az Intel meglepõen rossz eredményei alapján várható volt ugyan, hogy a nyereségességért küzdõ AMD-t letaszítják korábbi pályájáról a depressziós piaci körülmények, a hiány azonban meglepõen mélynek bizonyult. Az idei év rendkívül borús kilátásokkal tornyosul a cégvezetés fölé, amennyiben nem javul a piaci környezet. A cég fizetõképessége azonban Drezda leválásával, és az arab tõke befolyásával nincs veszélyben.
+
+
+
+Nem kellettek a processzorok
+
+Az AMD lényegében ugyanazokba a hatásokba futott bele, mint amelyekrõl múlt héten az Intel is beszámolt. A hagyományosan legerõsebb negyedik negyedévben emelkedõ értékesítéssel számoltak a gyártók, ezzel szemben a kereslet visszaesett, így a chipszállítások hirtelen nekiütköztek a csatornában és gyártóknál felépült készleteknek, ami a termelés visszafogására és a saját készletek értékvesztési leírására kényszerítette a céget.  Az AMD processzorokból és chipsetekbõl származó forgalma 37,2 százalékkal zuhant vissza a harmadik negyedévhez, és 37,7 százalékkal 2007 utolsó három hónapjához viszonyítva, de az ATI Radeonok értékesítése is 30 százalékos  esést szenvedett el.
+
+
+Összefoglaló
+
+- Csökkent mind a processzorok, mind a grafikus chipek darabszáma
+- A processzorok átlagos eladási ára csökkent, a Radeonoké nõtt
+- A 45 nanométeres wafer startok száma már december során felülmúlta a 65 nanométerest, így a szállításokban az elsõ negyedév során kerülhet többségbe
+- A Shanghai szállításai az Opteronok "néhány tíz százalékát tették ki"
+- Négy eladott Opteronból három négymagos
+- A gyártás kiszervezése vélhetõen februárban lezárul, és az eladott üzletrész fejében mintegy 800 millió dollár érkezik a céghez 
+- Az Intel formális találkozót kért az AMD-tõl annak kapcsán, hogyan érinti a gyártás kiszervezése a két cég közötti keresztlicenc-megállapodást
+
+
+
+Mindez megpecsételte a cég negyedik negyedéves pénzügyi mutatóit. A processzor és chipset üzletág 431 millió dolláros veszteséget könyvelt el 873 millió dolláros árbevétel mellett, míg a grafikus részleg 10 milliót vesztett 270 milliós forgalomból. Ehhez társul az ATI felvásárlása kapcsán nyilvántartott goodwill és immateriális javak kapcsán elkönyvelt újabb, 684 millió dolláros leírás. 
+
+Üzemi szinten az AMD 1,27 milliárd dolláros veszteséget mutatott ki, míg a nettó eredmény 1,42 milliárdos negatívumot mutat, miközben a vállalat teljes árbevétele mindössze 1,16 milliárd dollárra rúgott. Az év egészében 5,8 milliárd dollár forgalmat bonyolított az AMD, ami lényegében megegyezik az egy évvel korábbival, adózott vesztesége pedig 3,1 milliárd dollárt tett ki, szemben 2007 3,38 milliárdos mínuszával.
+
+
+"A globális gazdasági környezet a [...] végfelhasználói kereslet gyengüléséhez vezetett. [...] Ezenkívül szigorú készletkorrekciók kezdetét tapasztaltuk a teljes ellátási láncban, mely különösen heveny a notebookok terén, és mely ebben a negyedévben is folytatódik. A gazdaságot sújtó hatások továbbra is lefojtják a végfelhasználói keresletet, ennek mértéke ugyanakkor bizonytalan. Ezek kombinációi különösen borússá festik a jövõt" -- kommentálta Dirk Meyer elnök-vezérigazgató az eredményeket. Paul Otellini, az Intel vezére hasonló tapasztalatokról számolt be a cég múlt heti konferenciabeszélgetésén.
+
+A körülmények hatására az AMD 112 millió dollárra szorította vissza  tõkeberuházásait, ami lényegében a 45 nanométeres csíkszélességû gyártástechnológia bevezetését fedezi, és a következõ negyedévek során pedig Drezda kiszervezésével 45 millió dollárra zsugorodik. Szintén jelentõsen visszaesik a kutatás-fejlesztésre fordított büdzsé, az eddigi 450 millió dollár körüli szintrõl negyedévente 300 millióra, aminek egy részét a félvezetõtechnológiai fejlesztésektõl való megszabadulás teszi ki. "Ez a csökkentés nem veszélyezteti terméktervünket" -- jelentette ki Robert J. Rivet pénzügyi vezérigazgató.
+
+Nyugalom, már elindult a pénzvonat
+
+A vállalat korábban 1,5 milliárdos nyereségességi küszöböt tûzött ki célul, ezt azonban a kialakult helyzet okán 1,3 milliárdra csökkentette, amit a második negyedév során érhet el, részben a múlt pénteken bejelentett 9 százalékos leépítések és 5-20 százalékos bércsökkentések révén. A vállalat 245 millió dollár készpénzt fogyasztott az elmúlt három hónap során, így készpénzállománya 1,1 milliárd dollárra olvadt. Rivet szerint a kényelmes mûködéshez 800 millió dollár készpénzre van szüksége a cégnek.
+
+Miután a februárra összehívott részvényesi közgyûlésen várhatóan megszavazzák az AMD gyártásának leválasztását, a vállalat 700 millió dollárnyi friss készpénhez jut az Abu Dhabi-i Advanced Technology Investment Companytõl (ATIC), valamint 100 millió dollár értékben ad el részvényeket a  Mubadalának. Rivet szerint a pénz akár a jóváhagyást követõ 24-48 órában is befolyhat. Drezda és az AMD többi gyártói létesítménye a ATIC többségi tulajdonában lévõ közös vegyesvállalathoz, a Foundryhoz kerül. A tõkére szüksége is lesz az AMD ahhoz, hogy a vezetõk álma nyugodt legyen, az Intel várakozásai alapján ugyanis csúf idõk elébe néz az ipar.

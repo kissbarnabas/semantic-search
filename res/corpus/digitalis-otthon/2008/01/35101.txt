@@ -1,0 +1,20 @@
+Átütemezte Phenom processzorainak szállításait az AMD
+
+Az AMD nyilvánosan is elismerte, hogy a második negyedévre tolta ki a gyorsabb Phenom processzorok szállításait. A vállalat hivatalos állásfoglalása szerint partnereik és ügyfeleik igényeire reagálva a magasabb órajelû változatok helyett energiahatékony és hárommagos modellek szállításait helyezték elõtérbe. Ezzel egyidõben az Intel csalódást okozó elõrejelzése miatt az elemzõk nehéz piaci körülményeket jósolnak az AMD-nek.
+
+
+
+Megerõsített pletykák
+
+Már tavaly év végén információk láttak napvilágot azzal kapcsolatban, hogy az AMD a korábban tervezett elsõ negyedév helyett a másodikra tolta át a magasabb órajelû, 2,4 és 2,6 gigahertzes négymagos Phenom processzorok szállításainak megkezdését. A cég állítása szerint a változást a piaci igények magyarázzák, melyek elõnyben részesítik az energiahatékony modellek, valamint a hárommagos változatok piacra kerülésének elõrébb hozását.  
+
+Mint arról már lapunk is több alkalommal beszámolt, az AMD négymagos processzorarchitektúrájának, a Barcelona tavaly szeptemberi bemutatása óta problémákkal a küzd a magasabb órajelû változatok tömegtermelésének felfuttatásával. A vállalat állítása és iparági források alapján egyaránt a design finomhangolásáról, nem pedig gyártástechnológiai gyökerû akadályokról van szó. Az "egyszerû" elektronikai optimalizáció mellett azonban az elmúlt hónapok során olyan hibákra is fény derült, melyek az órajelek emelését, valamint a szerverváltozatok üzleti környezetben való alkalmazhatóságát gátolják.
+
+Az AMD a szerverpiachoz szükséges bizalmi viszony érdekében emiatt felfüggesztette a négymagos Opteronok szállításait, azt kizárólag dedikált, fõként HPC-ügyfeleknek (nagyteljesítményû, tudományos-mûszaki számításokat futtató, sokszor szuperszámítógépes rendszerek) értékesítik, melyek kódjainak viselkedése viszonylag könnyen feltérképezhetõ. Mivel ezek a hibák a PC-piacon irrelevánsak, ezért az AMD szállítja 2,2 és 2,3 gigahertzes négymagos Phenomjait, a magasabb órajelû változatokra azonban a következõ, B3 jelölésû stepping (design verziószám) tömegtermelésbe kerüléséig várni kell. A kritikus hibától mentes négymagos, B3-as Opteronok hozzáférhetõsége tavasz elejére várható.
+
+Negatív hangulat
+
+Az AMD szállítási problémái különösen rossz idõszakra esnek. A tõzsdéket az év eleje óta jellemzõ, a kedvezõtlen makrogazdasági mutatókból fakadó idegeskedés miatt a technológiai papírok rodeóznak a börzéken az elmúlt napokban. A elemzõi elõrejelzések szerint a vártnál gyengébb lesz a PC-piac, amit megerõsített, hogy az Intel is gyenge elõrejelzést tett közzé az elsõ negyedévre, aminek hatására papírjai 14 százalékot zuhantak a rekord negyedik negyedév ellenére is.
+
+
+Az AMD új termékbevezetései a félelmek szerint visszafogott informatikai költekezéssel találják szembe magukat, lassítva az új technológia adoptációját. A lassuló növekedés ráadásul tovább fokozódó árversenyre kényszerítheti a céget az Intellel szemben, mely gyártástechnológiai lépéselõnye és designbeli döntései révén lényegesen alacsonyabb termelési költséget képes elérni. Az AMD holnap teszi közzé negyedik negyedéves pénzügyi jelentését, mely várhatóan jelentõsen csökkenõ, de továbbra is súlyos veszteségekrõl ad majd számot.

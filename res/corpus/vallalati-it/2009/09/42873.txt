@@ -1,0 +1,12 @@
+Windowsra és Linuxra is megérkezett a Parellels Desktop 4
+
+A leginkább a Windows környezet MacOS X feletti virtuális futtatása kapcsán ismert Parallels kiadta legújabb virtualizációs technológiájának Windows és Linux gazdákon futó változatát. A cég szerint a motor ugyanaz a FastLane, mint amely a tavaly novemberben debütált MacOS X változatban is található, így elõnyei is hasonlóak. Fontos tudni, hogy a jelek szerint a Windows és Linux kiadás MacOS X-et nem támogat, sem vendégként, sem gazdaként.
+A legnagyobb elõrelépés a hypervisor teljesítményében és skálázhatóságában keresendõ, a Desktop 4 a Parallels Workstation 2.2-höz képest jelentõsen gyorsult, hogy pontosan milyen mértékben, az a futtatott alkalmazástól függ - a cég szerint egyes kódok esetén a különbség nyolcszoros is lehet, ami valószínûleg az I/O intenzív mûveleteknél jellemzõ. Az új Desktop akár 8 processzor és 8 gigabájt memóriát is tud adni egy vendégnek, 2 terabájt háttértár és 16 hálózati csatolóval, így lényegében egy belépõszintû szerveralkalmazás tesztelésére is alkalmas lehet.
+
+Tekintve, hogy a Parallels  egyik kiemelt célcsoportja a fejlesztõké, a cég számos eszközt mellékel a szoftverhez. A Coherence lehetõvé teszi például, hogy a virtualizált környezetben lévõ alkalmazásokat úgy futtassuk egymás mellett, mintha a gazdagépen lennének, miközben a Compressor a vendégek által használt tárterületet igyekszik minél kisebbre szorítani. A vállalati felhasználást segíti a fizikai gépeket és más virtualizációs szoftvertõl származó vendégeket Parallels Desktopba konvertáló Transporter, vagy a VM Templates sablonkészítõ.
+További újdonság, hogy 32 bites gazdán is fogadhatunk 64 bites vendéget, ami szintén megkönnyítheti a szoftverfejlesztõk életét. Ma már megszokott és elfogadható megkötés azonban a virtualizációs hardvertámogatás jelenléte, vagyis az Intel VT és az AMD-V. A támogatott vendégek köre a Windows 2000 óta megjelent összes Windows, beleértve a Windows 7-et is, valamint számos Linux disztribúció, köztük az RHEL, SLES, Fedora, Mandriva és Ubuntu, de ott van a Debian is. A szoftver ára 70 euró, frissíteni 40 euróért lehet. A szoftver egy regisztrációt követõen szabadon kipróbálható.
+ 	     
+                  
+                  
+                  
+                   

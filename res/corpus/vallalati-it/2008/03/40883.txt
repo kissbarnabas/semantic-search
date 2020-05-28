@@ -1,0 +1,97 @@
+Windows Server 2008 Failover Cluster
+
+Már jó pár éve szemezek Ovidius "Átváltozások" címû könyvével, szívesen elolvasnám, de valahogy mindig tolódik a terv. Most éppen a Windows Server 2008 Failover Cluster funkciójának megismerése köti le az idõmet. Bár, amilyen átváltozáson átesett ez a szoftverkód, akár még fent említett mûben is szerepelhetne...
+
+Mert minek is nevezhetnénk azt a változást, amely révén a telepítési, a hálózati, a lemezkezelési, quorum-kezelési és a GUI alrendszert is teljesen újraírták? Még a szolgáltatás -- bocsánat: tulajdonság (feature) -- neve is megváltozott. Már nem Microsoft Cluster Server (MSCS) vagy Server Cluster, hanem "Failover Cluster". Kattintgatva az MMC ikonjain, azon gondolkodtam, mi nem változott?
+
+
+
+Egy hajdanvolt cikksorozat -- Failover Cluster 2002-es szemmel
+
+No, igen. Az, hogy milyen volt a fürtszolgáltatás, egész jól tudjuk. A TechNet magazinnak meglehetõsen kedves ez a téma: 2001 és 2002-ben mindösszesen tizenhárom cikkben taglaltuk a szoftver képességeit. (A "véletlen" úgy hozta, hogy a jelen írás és a korábbi cikksorozat szerzõje azonos.) Van tehát egyfajta elõkép, és bár szerettük, azért kritikával is illettük mindazt, amit láttunk. Íme, két idézet az egykori tapasztalatokról:
+
+"a Cluster telepítésének inkább NT4-es formája és érzete van, mint Windows 2000-es. Ez a "gyanú" késõbb igazolódni fog: A Windows 2000-ben nagyon sok mindent átírtak, és nagyon sokat fejlesztettek, beleértve a Cluster szolgáltatást is, mégis maradt jócskán tennivaló a következõ kiadásig." (2001. december &#8211; II. rész)
+
+"A fürtszolgáltatás, úgy tûnik, mindig egy lépéssel az újdonságok mögött jár. Az eredeti Windows 2000 fürt, akárcsak a korábbi NT4 verzió, lemezszignatúrákat használ, nem ismeri a dinamikus diszkeket, a lemezcsatolás módszerét, ragaszkodik a lemezek betûjeleihez, NTLM hitelesítést alkalmaz, az FRS szolgáltatással hadilábon áll, még a telepítése is olyan "NT4-szagú". A sok hiányosságból most az egyik, a hitelesítés, kicsit közelít a "normális" Windows 2000 szintjéhez." (2002. december &#8211; XIII. rész)
+
+Ezeken túl 2002 decemberében -- a további idézeteket elhagyva -- hiányoltuk a DFS- FRS-Cluster integrációt, az IPv6 támogatást, a GPT lemezek használatát, a kizárólagos Kerberos hitelesítést, és a cluster.log dokumentálatlanságát. Összegezve: a fürtszolgáltatás bevezetésekor mindeddig egy nagy kompromisszumot kellett kötnünk. A magas rendelkezésre állásért cserébe bizonyos innovatív képességekrõl lemondtunk, ami fõleg a biztonságot növelõ képességek esetén fájt és lépten-nyomon hiányzó puzzle darabkák akadályozták, hogy teljes értékû rendszerünk legyen. Mindennek fényében különösen izgalmas, mit hoz a 2008-as esztendõ Windows verziója.
+
+Visszatérve az MMC kezdõ képernyõjéhez: a sokéves tapasztalat ellenére, az elsõ percekben elvesztem. Ez lenne a Failover Cluster?  Itt már semmi sincs úgy, mint régen... Aztán némi akklimatizáció után rájöttem, a dolog nem olyan ijesztõ. Bár külsõleg minden új, az alapok változatlanok. Az architektúra elve továbbra is a "semmi sem közös" (shared-nothing). Az építõkövek az erõforrások, az erõforrás-csoportok és a függõségek. A mechanizmusok lényege maradt a régi: átköltözés (failover), visszaköltözés (failback), sõt, még olyan funkciókat is viszontláthatunk, mint az IsAlive/LooksAlive.
+
+Az alapokon túl azonban az ugrás óriási, érdemes tehát nem hagyatkozni a régi beidegzõdésekre, a képességek újratanulását nem kerülhetjük el.
+
+Megváltozott környezet -- szerepek kiegészítése
+
+A Failover Cluster megértését kezdjük a környezete megértésével. A Windows Server 2008 elhozta számunkra a szerepek (roles) és képességek (features) világát. Már nem egyedi szolgáltatásokkal (Windows service) bajlódunk, magasabb fogalmi egységgel, a szereppel kell megküzdenünk. Egy "File Server" szerep, vagy egy "Print Server" szerep telepítésekor a rendszer tudja, milyen egyedi szolgáltatásokat kell telepíteni. A Failover Cluster nem szerep, hanem képesség vagy tulajdonság (feature). Önmagában semmire sem való; egy konkrét szerepet egészít ki magas rendelkezésre állási képességgel. Vagyis, bár önmagában telepíthetõ, az erõforrások csak akkor hozhatók létre, ha azok szerepkörét elõzõleg felraktuk. Példa: A DFS NameSpace egy fürtözhetõ erõforrás, ám ha nem telepítjük a File Server szerepkör szerepkör-szolgáltatásaként (role service), nem hozhatunk létre ilyen erõforrást sem -- végül is érthetõ. A lényeg: a Failover Cluster tökéletesen érti a környezetét és annak fogalmait, azokkal szorosan integrált.
+
+A fürtadminisztrátorok két szempontból is profitálhatnak a fentiekbõl. Egyrészt nagyon jól lehet majd tudni, hogy egy fürttagon "mi van fent", a konfiguráció jobban átlátható. Másrészt ha Failover Cluster mindent ért, akkor teljes egészében kompatibilis a "Server Core" telepítési móddal is -- és valóban: ott éppúgy mûködik, mint a teljes telepítéskor. Az elsõ piros pont: a server Core nyújtotta kisebb erõforrásigényrõl, kisebb sérülékenységrõl, kevesebb hotfixrõl nem kell lemondanunk annak érdekében, hogy magas rendelkezésre állásunk legyen. Ugyanakkor ebbõl egy egészen más implementációs kényszermegoldás is következik: a Failover Cluster parancssori felülete nem Powershell alapú. És ezúttal nem a Cluster csapat maradt le. Ha a Server Core támogatás követelmény, a parancssori felület szintén, a Server Core-on viszont a Powershell (legalábbis a Windows Server 2008 verzióban) nem mûködik, abból következik, hogy a fürtszolgáltatás parancssori felülete sem lehet Powershell alapú -- hiába a WMI-barát szerkezet.
+
+Végül még egy példa a környezettel való összenövésre. Ha létrehoztunk egy magas rendelkezésre állású File Server szerepkört egy fürtön, majd ezután megosztunk egy mappát a Windows Explorer segítségével, a megosztás automatikusan fürtözött megosztás lesz! (Vigyázat! A megosztás már nem erõforrás!) A fürt ugyanis tudja, hogy az adott lemez, amelyen a megosztás létrejött, mely erõforráscsoporthoz tartozik, tehát magát a megosztást is oda helyezi. Vagyis nem fordulhat elõ, hogy egy fürtön megosztott mappa nem fürtözött mappa. És fordítva: nem szükséges a cluster administrator mmc elindítása a fürtözött szolgáltatás létrehozásához. Na, ez integráció!
+
+Telepítés
+
+A fürtöket többnyire ott rontották, rontják el, ahol ez elõször lehetséges, a telepítésnél. Vagy azért, mert eleve nem támogatott hardver szolgál alapul, vagy, mert nem értik pontosan a fürt mûködését és rosszul paraméterezik azt. A Windows Server 2003-ban a korábbi kiadásokhoz képest sokkal szofisztikáltabb telepítõ, pontosabban inicializáló modul került, de még itt is érvényes a szabály: csak azonos gyártótól származó, Cluster kompatibilitási listán szereplõ alkatrészekbõl építkezhetünk.
+
+Jelentem, ennek vége. A telepítés során egy nagyon alapos, összetett rendszer esetén akár egy óránál is tovább futó validációs teszt eldönti, hogy az általunk fabrikált gépezeten mûködik-e majd a fürtünk, vagy sem. Ha a teszt eredménye szerint mûködik, akkor szedett-vedett hardver ide, HCL oda, az egy a Microsoft által is támogatott fürt lesz.
+
+Validációs teszt -- mûködni fog a cluster
+
+Sõt! Ha földrajzilag elosztott fürtöt építünk és ezért a storage teszt figyelmezetõ üzenettel fejezõdik be, még ebben az esetben is a támogatott kategóriába esik a konfigurációnk. A Cluster HCL pedig füstté vált. Nincs többé. Nyomtassuk ki és tegyük el a validációs jelentést, mert azt késõbb meglobogtathatjuk a megfelelõ támogatási szerzõdés meglétekor. Mindez egyébként azért vált lehetségessé, mert mind a lemezkezelés, mind pedig a hálózatkezelés alapos revízión esett át, a fejlesztõk pedig gondosan eliminálták a hibalehetõségeket, így már belezsúfolható egyetlen tesztbe minden szükséges ellenõrzés.
+
+A telepítés folyamat 3-4 lépésbõl áll és egyszerre végrehajtódik az összes, általunk kijelölt node-on. A telepítés most elsõ alkalommal teljes egészében scriptelhetõ -- nagymértékben javítva ezzel az implementálás tervezését, a változáskezelést és a katasztrófahelyzetek megoldását -- és hol máshol lenne erre a legnagyobb szükség, mint éppen a fürtöknél?
+
+Elsõ benyomások -- MMC
+
+A fürtszolgáltatás végre valódi MMC konzolt kapott -- eddig egy MMC-t utánzó exe állomány (Apage Satana!) nyújtotta a grafikus felületet. A bal oldali fa struktúrája Exchange 2007-es iskolában nevelkedett fejlesztõkrõl árulkodik: nagyon egyszerû, legfeljebb két lépcsõbõl álló fastruktúra, mindössze öt fõ ággal: szolgáltatások és alkalmazások (az erõforrás csoportok helyett), fürttagok, tároló alrendszer, hálózat végül pedig az fürttel kapcsolatos események. A középsõ panel teteje mindig egy áttekintõ táblázatot tartalmaz, jobb oldalon pedig a környezet-érzékeny menü, amely minden pillanatban eléggé gazdag, úgyhogy a valódi menü használatára alig van szükség. Az egész felület letisztult és feladatközpontú.
+
+A fürt valamely objektumának létrehozását minden esetben varázslóval kell elvégezni. Ez eddig is így volt, legfeljebb a varázslási folyamat áttekintése javult, az ablakok jobban magyarázzák önmagukat. Eleinte kell is, mert számos objektum új nevet kapott. Az erõforrás csoport elsõ hálózati neve például "Client Access Point". Ezzel együtt a varázslókat nem éreztem idegesítõnek. Megvan a maguk helye és szerepe.
+
+A Failover Cluster megújult MMC konzolja
+
+A Quorum átalakulása
+
+A fürtök eddigi nagy kincse a Quorum volt, amely szerencsés esetben saját lemezen ült, és tulajdonképpen eredetileg nem volt más, mint egy tranzakciós rendszerrel kiegészített registry hive. Hajdanán egyetlen quorum típus létezett, aztán a Windows Server 2003 megjelenésekor újabb kettõ mutatkozott be (local Quorum, Majority Node Set.). Még késõbb, az Exchange 2007 megjelentetésével együtt a Microsoft kiadott egy fürt "hotfixet" (921181), amely varázsolt egy vadonatúj Quorum típust. Ez megosztott mappát használ "tanúként" (file-share witness) és a Majority Node Set-re emlékeztet.
+
+A Quroum típusának kiválasztása
+
+Nos, a Windows Server 2008-ban a Quorum fogalma a korábbiakhoz képest felborult. Már nem registry-hive, vagy lemez, vagy megosztott mappa, vagy többség, hanem mindegyik, illetve egyik sem. A legpontosabban úgy fogalmazhatok: a quorum annak a tudása, hogy mi a Cluster, milyen a konfigurációja és milyen az aktuális állapota. Ennek a tudásnak a birtokosa vagy birtokosai a quorum. Ilyen értelemben mindig csak egy  quorum van, de az lehet elosztott több node, megosztás, lemez között. Azt, hogy a fürt tagjai birtokolják-e a megfelelõ tudást (értsd: a quorumot) és így a fürt mûködõképes-e, szavazásos módszerrel döntik el a fürt tagjai. Implementációját tekintve a Quorum négyféleképpen mûködhet -- azt mondhatjuk, hogy négyféle szabály szerint lehet szavazni vagy a szavazatokat kiértékelni. 
+
+Úgy érdemes elképzelni ezt, mint egy skálát, ahol a tengelyen a quorum elosztottsága, hibatûrése változik. A típusok:
+
+
+Node Majority. Ez az változat minden tekintetben megegyezik, a korábbi majority node set üzemmóddal. Szavazati joga csak a fürttagoknak van. Ha a szavazásban a többség részt vehet, akkor a fürt mûködik, ha nem vehet részt, akkor a fürt leáll. A fürttagok száma minimálisan 3, maximálisan 16.
+Node and disk majority. Ilyen korábban nem volt. Az elõzõ verzióhoz képest szavazati jogot kap a tanúlemez (witness disk) &#8211; a korábbi quorum disk megfelelõje. Továbbra is a többség dönt, de a tanúlemez szavazata kicsit többet ér a fürttagokénál. A fürt túléli a tagjai felének elvesztését, ha a tanúlemez mûködik, illetve a fürt túléli a tagjai felének -1 tagnak a kimúlását, ha a tanúlemez az örök vadászmezõkre költözött. Példa: 4 tag + tanúlemez. Ha a tanúlemez mûködik, kieshet két fürttag. Ha a tanúlemez nem mûködik, kieshet (4/2)-1 = 1 tag. Kéttagú fürt esetén ez azt jelenti, hogy a Cluster túléli a tanúlemez kiesését &#8211; feltéve, hogy mindkét node hibátlan! 
+Node and File Share Majority. Pontosan úgy mûködik, mint az elõzõ esetben, csak a tanúlemez helyett tanúmegosztást (file share witness) használunk. Ezt a Quorum típust vezette be a Microsoft a 921181-es hotfixszel. Földrajzilag elosztott fürtök esetén érdemes használni. Jegyezzük meg, DFS link nem lehet tanúmegosztás, annak viszont nincs akadálya, hogy egy másik fürt megosztása legyen tanúmegosztás. A tanúmegosztásnak nem kell azonos telephelyen lennie egyik fürtállomással sem.
+No Majority: Disk Only. Ez a diktatúra &#61514;. A &#8222;szavazás&#8221; úgy módosul, hogy csak a tanúlemeznek van szavazata. Amíg a tanúlemez plusz egy fürttag él, addig van fürt. A módszerben nincs semmi új, ez az eredeti Quorum típus -- hátránya, hogy maga a Quorum egypontos meghibásodást jelent egy olyan rendszerben, amely az egypontos meghibásodásokat hivatott kiküszöbölni.
+
+A modelleket -- ha megfelelõ számú fürttag rendelkezésre áll -- szabadon átalakíthatjuk egyikbõl a másikba. Elsõre furcsa, hogy az MMC felületen a hajdani Cluster group, az elsõ létrehozott erõforráscsoport, amely a quorumot tartalmazta, nem látható. Végeredményben mégis jobb ez így &#8211; nem fordulhat elõ, hogy erõforrásokat pakolunk bele. A fent említett 16 maximális fürttag minden üzemmódban elérhetõ.
+
+A hálózat átalakulása
+
+A Quorum átalakulásával összevethetõ változások történtek a fürt hálózatkezelési technikáiban is. Kezdjük azzal, hogy a fürttagoknak nem kell statikus IP címmel rendelkezniük. Ízlés kérdése: van aki a statikus címekre esküszik a szervereknél -- én inkább a DHCP-szerver lefoglalt IP-címeit preferálom. Az központosított is, meg vezérelhetõ is. A Failover Cluster mostantól kielégíti az általam jónak vélt módszert. Ha a külsõ fürtcímeknél ez nem is mindenkinek vonzó, a fürtön belüli (intra-cluster) hálózattal egész biztosan senki sem akar foglalkozni. Ezután nem is kell. Úgy mûködik az APIPA, hogy azt nem jelzi problémának.
+
+Kell ennél több? Íme: vadvízi evezõsök tisztán IPv6 konfigurációt állíthatnak be -- mit is idéztünk a cikk elején? És még folytathatjuk: teljes a NetBIOS függetlenség; fürtök közötti forgalom teljes titkosítása; mûködik a tisztán Kerberos hitelesítés, NTLMv1 NTLMv2 igény szerint kihajítható. Régi vesszõparipám is teljesült: a fürtözött megosztások egyenrangú részei lehetnek egy DFS névtérnek, különösen, ami a replikációt illeti. Így végre felépíthetõ egy olyan DFS névtér, amelynek minden megosztása magas rendelkezésre állású, azonos tartalommal. Ezt éppen a Windows 2000 Advanced Serverbe álmodtam bele hét ével ezelõtt!
+
+A cluster belsõ hálózata
+
+A hálózatkezelés területén az i-re a pontot a földrajzilag elosztott fürtök létrehozásának lehetõsége teszi fel. Elvileg ennek eddig sem volt akadálya, feltéve, ha a hálózati switcheket és az útválasztókat úgy tudtuk konfigurálni, hogy a fürtök azonos VLAN-ba kerüljenek és azonos IP alhálózatból kapjanak címet. Ezután már csak &#8222;imádkozni kellett&#8221; hogy a hálózat válaszideje ne növekedjék egy szint fölé, amit fürt már nem tolerált volna. Erre a mutatványra nem lesz többé szükség: a fürttagok gond nélkül külön alhálózatban is mûködhetnek &#8211; hála a (parancssorból) konfigurálható heartbeat idõtúllépésnek.
+
+	     
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                    A cikk több oldalból áll:
+                    
+                    
+                        1. oldal: Windows Server 2008 Failover Cluster
+                      
+                        2. oldal: Lemezkezelés
+                      
+                        3. oldal: Eseménynapló és más változások
+                        
+                    
+                  

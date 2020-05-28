@@ -1,0 +1,12 @@
+A jövõ adatközpontját fejleszti a T-Systems és az Intel
+
+Az Intel és a T-Systems adatai szerint a mai adatközpontok energiahatékonysági mutatója 1,7-1,8 körüli, ami azt jelenti, hogy a szerverek mûködtetésére fordított egységnyi energia mellé további 0,7-0,8 egység kell az adatközpont hûtésére. A vállalatok célja, hogy ezt 1,3 körülire szorítsák le.
+Ennek érdekében egy kimondottan kutatás-fejlesztési célokat szolgáló adatközpontot épített az Intel és a T-Systems a München melleti Euroindustrieparkban. A kísérletekhez egy 70 négyzetméteres szerverszoba áll rendelkezésre, amelynek plafonja 2,50 és 3,70 méter között változtatható magasságú, több mint 50 szenzor figyeli folyamatosan a környezeti paramétereket, például a hõmérsékletet és a páratartalmat, a szerverekbe beáramló és onnan kifújt levegõ hõmérséklete közti különbséget, emellett füstgenerátorokat is bevetnek, hogy láthatóvá tegyék a légáramlatokat.
+
+
+"Ez a világon az elsõ  és egyetlen olyan projekt, amelyet teljes mértékben az adatközpontok energiahatékonyságának szentelnek" - nyilatkozta Olaf Heyden, a T-Systems igazgatója és az ICT Üzemeltetés vezetõje. "Egy adatközpontban az energiaellátás és a hûtés éves költsége ugyanolyan magas lehet, mint az informatikai infrastruktúra beruházásoké" - tette hozzá Christian Morales, az Intel EMEA-régiós vezetõje. "A ma nyíló DataCenter 2020 központban a T-Systems és az Intel azokat a kulcstényezõket fogja tanulmányozni és elemezni, amelyek az adatközpont összköltségére gyakorolnak hatást. A közös kutatásunk célja, hogy tervet dolgozzunk ki &#8222;a jövõ adatközpontja&#8221; kifejlesztésére, felépítésére és üzemeltetésére."
+Az Intel és a T-Systems egyaránt 10-10 mérnököt dedikál a Datacenter 2020 nevû projektre, akiknek a feladata a különféle elrendezések és hûtési megoldások vizsgálata lesz. Az Intel 180 szervert szállít a kísérletekhez, a T-Systems pedig a mûködésükhöz szükséges infrastruktúrát biztosítja. A Deutsche Telekom vállalati szolgáltatásokat nyújtó részlege több millió eurós büdzsét szán a Datacenter 2020 projektre.	     
+                  
+                  
+                  
+                   

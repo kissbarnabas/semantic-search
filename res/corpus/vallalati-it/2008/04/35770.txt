@@ -1,0 +1,16 @@
+Továbbcsiszolta UNIX rendszerét a HP, itt a HP-UX 11i v3 Update 2
+
+Bemutatta UNIX platformjának legújabb frissítését a HP. A HP-UX 11i v3 Update 2, kódnéven Versatility, az operációs rendszer féléves ciklusú frissítéseinek következõ, harmadik fázisa. Többek között további kernelszintû optimalizációkat hoz magával a teljesítmény növelése érdekében. Az Update 2-vel egyidõben a HP négy új HP-UX termékverziót vezetett be, melyek véleménye szerint jobban lefedik felhasználóinak igényeit.
+
+
+
+Az 11i v3 Update 2 a kernel finomhangolásának eredményeként többprocesszoros rendszerben nagyjából 10 százalékkal nagyobb teljesítményre képes adatbázisok és üzleti alkalmazások futtatásakor, miközben a hálózati réteg teljesítménye akár kétszeresére növekedhet, és a fejlesztõk javítottak a Logical Volume Manager skálázhatóságán, miközben a tárolóréteg immár a nagyobb teljesítmény mellett a HP EVA és az EMC Symmetrix Remote Data Facilityt támogató tárolókat is támogatja távoli fürtözéshez.
+
+
+Szintén említésre méltó még, hogy immár nem verzióazonos HP-UX 11i-k futtatását is támogatja egy hardverpartíción osztozó logikai partíciókon (vPar) -- ennek kitesztelése rengeteg idõt vett igénybe az elvárt magas megbízhatóság és rendelkezésre állás miatt. A következõ Update szintén fél éven belül esedékes, mígnem 2010 magasságában a HP piacra dobja a 11i v4-et, melynek fókuszában a leállásmentes virtualizáció kerül a vállalat szerint. A Update-ek egyúttal újabb és újabb támogatásokat hoznak a jövõbeni HP Integerity szerverekhez. A következõ hardveres "rendszerváltás" 2009-ben kezdõdik, mikor a HP bemutatja a négymagos, Tukwila kódnévre hallgató Itaniumra épülõ szervereit.
+
+A HP ezentúl négyféle változatban, vagyis Operating Environmentben (OE) teszi hozzáférhetõvé a HP-UX 11i v3-at. A Base OE, ahogyan neve is mutatja, a kevésbé komplex környezetbe szánt telepítésekhez ajánlott, ahol nincs szükség virtualizációra vagy fürtözésre. A Virtual Server OE a Base összetevõin felül lehetõséget nyújt vParok és Integrity VM-ek létrehozására, plusz számos felügyeleti (Workload, Virtualization Manager, Online JFS) eszközzel is bõvül.
+
+
+
+A High Availability OE kifejezetten a magas rendelkezésre állást támogató fürtözési és felügyeleti eszközöket hozza magával a Base OE-n túl, így Serviceguard, NFS és az Enterprise Cluster Master érkezik vele többek között. A HP-UX 11i v3  "ultimate" verzióját a Data Center OE képezi, mely az összes verzió képességeit tartalmazza, és virtualizált hibatûrõ környezetek kialakítására alkalmas. Tovább információk a HP-UX 11i v3-mal kapcsolatban a HP oldalán érhetõek el.

@@ -1,0 +1,14 @@
+Kisvállalati SAN az IBM-tõl
+
+Új képességgel bõvítette a kimondottan kis- és középvállalatoknak szánt BladeCenter S infrastruktúrát az IBM, aminek segítségével egy megosztott SAN építhetõ ki. A Nagy Kék úgy véli, számos kis- és középvállalat eddig azért maradt távol a szerverek között megosztott tárolóhálózattól (SAN), mert létrehozása bonyolult és költséges, üzemeltetése pedig komoly szakértelmet kíván. 
+
+
+
+A mostani újítással a felhasználók méregdrága külsõ Fibre Channel eszközök nélkül valósíthatnak meg egy nagy rendelkezésre állású környezetet szerverekkel és akár 12 terabájtnyi háttértár-kapacitással olyan alkalmazások számára, mint amilyen a Lotus vagy a Microsoft Exchange, adatbázisok vállalatirányítási rendszerek, de akár egy teljes virtualizált infrastruktúra kiépíthetõ így (pl. VMware ESX alapokon, Vmotionnel).
+
+A BladeCenter S kerethez nincsenek kimondottan tároló blade-ek, azonban az IBM kínálatában szereplõ DS3200 lemeztömbbõl akár hat diszket is lehet egyetlen blade szerverhez rendelni. A DS3200-ban található kontrollerek kerültek be most a BladeCenter S keretbe, így az két 3 GBps SAS-vezérlõvel gazdagodott, amelyhez csupán "buta" lemeztömböket kell kapcsolni, és máris van egy költséghatékony "mini-SAN" környezet, nem szükséges külsõ eszközöket vásárolni és a rendszerbe integrálni. 
+
+
+A kimondottan kis- és középvállalatokra szabott  7U magas BladeCenter S keretet úgy alakították ki, hogy akár egy irodában is használható legyen, nem feltétlen szükséges rackbe szerelni, a tápellátásához is elég egy egyszerû fali konnektor. Az IBM blade keretébe hat szervert lehet behelyezni, de a 11U-s bõvíthetõségnek köszönhetõen akkor sem kell lecserélni, ha a felhasználó kinõtte.
+
+A kis- és középvállalatok informatikai igényei egyre kifinomultabbak, a cégek már nem érik be a nagyvállalatok számára kialakított megoldások kisebb, "butább", olcsóbb változataival, kifejezetten a saját igényeikre szabott termékeket keresnek. A Nagy Kék szerint a BladeCenter S is ilyen,  használata és telepítése is egyszerû, utóbbi akár három lépésben is elvégezhetõ. Stuart McRae, az IBM BladeCenterek marketing-menedzsere szerint a blade technológia eddig a nagyvállalati adatközpontok kiváltsága volt, az új fejlesztéseknek köszönhetõen azonban már kisebb cégek is eredményesen alkalmazhatják.

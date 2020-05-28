@@ -1,0 +1,24 @@
+Gyártásba ment a Microsoft SQL Server 2008
+
+Elkészült és gyártásba ment a Microsoft új adatbáziskezelõje, az SQL Server 2008 -- jelentette be egy tegnap esti webcaston Ted Kummert, a Microsoft Data and Storage Platforms részlegének vezetõje. Az MSDN- és TechNet-elõfizetõk már elérhetik a szoftver végleges változatát, amelybõl egy ingyenes próbaverziót is kiadott a redmondi cég. 
+
+
+
+Fontosabb újdonságok
+
+Az SQL Server 2008 legfontosabb újdonságai a megbízhatóságot, a biztonságot, a teljesítményt, valamint a fejlesztések leegyszerûsítését érintik. A szoftver ennek jegyében többek között tartalmaz transzparens failovert, transzparens adattitkosítást külsõ kulcskezeléssel, erõforrások (CPU) menet közbeni hozzáadását, a korábbinál hatékonyabb adattömörítést, az alkalmazásfejlesztés egyszerûsítése terén a legnagyobb elõrelépést pedig talán a LINQ (Language Integrated Query) és az ADO.Net entitások támogatása jelenti. Említésre méltó még a "Resource Governor", amelynek segítségével az adminisztrátorok pontosan beállíthatják, hogy az adatbázis workloadjai mennyi erõforrást köthetnek le. 
+
+A mai trendeknek megfelelõen az SQL Server 2008-cal lényegében bármilyen adatok tárolhatók, legyen szó akár dokumentumokról, XML állományokról, vagy akár egész fájlokról. További fontos fejlesztés, hogy az SQL Server 2008-at felkészítették földrajzi adatok és vektorok tárolására is, amely kimondottan elõnyös olyan szolgáltatások fejlesztésekor, amelyek valamilyen módon földrajzi adatokra vagy helyszínekre támaszkodnak -- gondoljunk csak azokra a mobilszolgáltatásokra, amelyek helyünktõl függõen meg tudják mondani, hol a legközelebbi bankautomata.
+
+Az SQL Server 2008 üzleti intelligencia és jelentéskészítési funkciókkal is bõvült, a Microsoft szerint az adatbázist úgy alakították ki hogy nagyszerû adattárház-platform legyen, a Microsoft által felvásárolt kanadai Dundas Data technológiái segítségével pedig komoly adatvizualizációs képességeket vonultat fel az SQL Server Reporting Servicesben. A migrációt könnyíti, hogy az SQL Server Oracle és Teradata adatbázisból, valamint SAP NetWeaverbõl egyszerûen tud adatokat importálni.
+
+A webcaston elhangzott még, hogy a Microsoft az SQL Server 2005-ün alapulú CloudDB-re épülõ, egyelõre béta állapotú hosztolt adatbázis-szolgáltatását, az SQL Server Data Servicest (SDSS) is át fogja állítani SQL Server 2008-as alapokra. Az SSDS használatához ma még olyan webes protokollok ismeretére van szükség, mint a REST és a SOAP, de Kummert  szerint a cél az, hogy az SQL Serverrre írt alkalmazások minimális változtatással fussanak az SDSS-en is.
+
+Nagy az érdeklõdés
+
+
+ Az SQL Server 2008 elõzeteseit több mint 450 ezerszer töltötték le a Microsoft szerint. Az adatbáziskezelõt máris 75 jelentõs alkalmazás támogatja és több mint 1300-at fejlesztenek független szoftverszállítók -- mondta el Kummert. Az SQL Server 2008 korai tesztelõi között olyan cégek voltak, mint a Hilton Hotels, a Simon & Schuster, a Siemens és a Xerox.
+
+"Az SQL Server 2008 iránt Magyarországon is nagy az érdeklõdés. 2008 tavaszán közel 800 fejlesztõ és rendszergazda elõtt mutattuk be egy kétszekciós konferencia keretében a legfontosabb újdonságokat" -- mondta  Nagy Levente termékmenedzser. "A szoftverfejlesztõ cégeknek meghirdetett tréningeken több szoftvercég is elsajátította az alapokat, hogy alkalmazásaikat felkészítsék az SQL Server 2008-cal való munkára."
+
+Az SQL Server 2008 összesen hét verzióban (Enterprise, Standard, Workgroup, Web, Developer, Express, Compact) verzióban lesz elérhetõ, az egyes változatok árai nem változtatk az SQL Server 2005-ös generációhoz képest, kivéve természetesen a Web Editiont, amely az SQL Server 2005-bõl még nem létezett. Az ingyenes Express és Compact változatok már elérhetõk, a többi verzió várhatóan két hét múlva érkezhet meg a felhasználókhoz.

@@ -1,0 +1,16 @@
+Magyarországon is megjelennek a SonicWALL folyamatos adatvédelmet biztosító eszközei
+
+Hamarosan Magyarországon is elérhetõk lesznek a SonicWALL új adatmentési megoldásai. A Continuous Data Protection termékcsalád tagjai a munkacsoportoktól kezdve egészen a középvállalatokig nyújtanak átfogó mentés-visszaállítási megoldást -- hangzott el a cég mai sajtótájékoztatóján.
+
+
+
+A continuous data protection, azaz folyamatos adatvédelem lényege, hogy az állományokat, illetve azok változásait nem a rendszeres mentéskor, hanem valós idõben tárolja el a rendszer -- megszûnik a mentési ablak, visszaállításkor valóban az utolsó állapothoz térhetünk vissza. A SonicWALL megoldásai akár a PC-ken, akár a szervereken tárolt adatokat képesek így védeni, legyen szó akár Windows, Linux vagy Mac OS X operációs rendszerrõl.
+
+A SonicWall CDP termékcsaládjának új tagjai a felhasználóktól származó visszajelzések alapján fejlõdtek tovább. Ennek köszönhetõen egyszerûbbé vált a telepítés és felügyelet, a vállalat szerint akár olyan cégek is üzembe helyezhetik és használhatják ezeket a termékeket, amelyek nem rendelkeznek informatikai szakértõvel. Az eszközt csak csatlakoztatni kell a hálózathoz, megadni a hálózati paramétereket (IP-cím, stb.), majd a menteni kívánt kliensekre és szerverekre fel kell telepíteni az agenteket.
+
+
+  Az adminisztrációs felületen beállítható szabályrendszerekben megadható, hogy a CDP milyen állományokat mentsen. Ezt akár fájlszinten is beállítható, lehetõség van kiterjesztésre, méretre, a keletkezés dátumára, az utolsó módosítás idejére szûrni. A CDP elõre tárolt profilokat tartalmaz olyan szoftverekhez mint az Exchange Server, a SQL Server, vagy az Outlook (Express), így ezek mentését nem szükséges aprólékosan, fájlszinten konfigurálni.
+
+Nem csak a mentés, a visszaállítás is fontos: a CDP lehetõvé teszi a felhasználók számára, hogy adminisztrátor közremûködése nélkül, maguk állítsák vissza az igényelt fájlokat, akár 15 korábbi verzióig visszalépkedve. Sajnos a CDP szoftvere az Exchange/Outlook postafiókokat csak fájlszinten kezeli, azaz csak egész postafiók állítható vissza, egyes levelek külön nem. A Continuous Data Procection önmagában semmit sem ér, ha a biztonsági mentéseket tároló eszközt éri baj, meghibásodik, katasztrófa miatt tönkremegy, esetleg ellopják. A SonicWALL berendezéseire mentett adatokat külsõ (USB) adathordozóra vagy optikai lemezre lehet írni, de lehet replikációt végezni egy távoli, hasonló berendezésre, illetve akár online webtárhelyre is. 
+
+A SonicWALL Continuous Data Procection termékcsalád négy tagból áll, ebbõl kettõ asztali kivitelû berendezés munkacsoportok számára, legfeljebb 1 terabájt kapacitással, a két nagyobb berendezés azonban már rackbe szerelhetõ kivitelû, akár 8 üzem közben cserélhetõ diszkkel, amelyeket RAID 5 is véd. Mivel a CDP titkosítja és tömöríti is az adatokat, a natív kapacitásnál lényegesen több adat tárolható rajta, a tömörítés mértéke természetesen az állományok típusától függ -- a cég hazai diszitrbútora, az RRC szakembere átlagosan 1:5 arányról beszélt a HWSW-nek, vagyis az 1 terabájtos modellre valójában 5 terabájt körüli adatot lehet menteni.

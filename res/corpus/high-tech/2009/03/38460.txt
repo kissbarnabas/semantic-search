@@ -1,0 +1,152 @@
+Brutális teljesítményû az Intel új szerverchipje
+
+Oldalunkon már számos alkalommal szót ejtettünk a Nehalem mikroarchitektúra legfontosabb újdonságairól és többször is kiemeltük, hogy az új processzorok leginkább szerverkörnyezetben tudják megmutatni oroszlánkörmeiket. Hogy valójában mekkorák is ezek a körmök, azt eddig nem tudhattuk, az Intel és gyártópartnerei jobban õrizték a pontos teljesítményadatokat mint a Fort Knox-i aranyat. Tegnap azonban mindenrõl lehullt a lepel, megérkeztek a számok is, amelyek alapján a Nehalem-alapú Xeonok teljesítménye egyszerûen lenyûgözõ -- az Intel az elmúlt 15 év legnagyobb áttöréseként jellemzi a chipet, és jó okkal.
+
+A Xeon 5500-as sorozat tagjai a kétfoglalatos szerverek között több mint 30 fennálló benchmark-rekordot döntöttek meg, esetenként a korábbi generációs Xeon 5400-as sorozat teljesítményének kétszeresét hozva. A  2,93 GHz-es Xeon 5570 párhuzamos feladatvégrehajtási képességet mutató SPECint_rate_base2006 és SPECfp_rate_base2006 pontszámai rendre 240 és 194, ehhez fogható magas pontszámokat korábban még egyetlen, kétutas gépbe szánt processzor sem tudott elérni.
+
+A HP ProLiant DL370 G6 az online tranzakciókezelést vizsgáló TPC-C benchmarkban 631766 tmpC eredményt ért el Oracle 11g adatbázist futtatva, ez a korábbi generációs, négyfoglalatos ProLiant DL580 G5-éhez hasonló eredmény, és alig 10 százalékkal marad el egy 64 darab 1,5 GHz-es Itanium 2-t (Madison 6M) tartalmazó Integrity Superdome 2005-ben elért 707 ezres pontszámtól, Az új Xeon erejét jól mutatja, DL370 G6 a TPC-C teszt szerint mintegy kétszer gyorsabb a Montecito-alapú négyutas Integrity rx6600-nál. Az IBM System x 6350 M2 az SAP Sales &amp; Distribution benchmarkban állított fel új rekordot, a gép a teszt során példátlan módon 5100 felhasználót tudott párhuzamosan kiszolgálni. Virtualizációs teljesítményben és energiahatékonyságban is kiemelkedõen teljesítenek az új Xeonok, a VMark teszben a korábbi generációs processzorok teljesítményének másfélszeresét hozzák.
+
+Minek köszönheti brutális teljesítményét a Nehalem? Elsõsorban annak, hogy ezt a chipet a kezdetektõl fogva szerverekbe szánták. Az elõzõ generációs Core mikroarchitektúra valójában mobil chipnek született, azonban energiahatékonysága mellett a teljesítménye is annyira meggyõzõ volt, hogy asztali gépekben és szerverekben is megállta a helyét. A Nehalem sokban épít a Core-ra, azonban számos olyan fejlesztést tartalmaz, amely elsõsorban szerverkörnyezetben hasznosulhat.
+
+
+
+
+De mitõl?
+
+Az elsõ és talán legfontosabb, hogy a Nehalem végre szakít az Intel által évtizedek óta használt buszrendszerrel és integrált memóriavezérlõre, valamint alacsony késleltetésû, magas sávszélességet biztosító pont-pont összeköttetésekre épül: az I/O sávszélesség növekedése elsõsorban a többprocesszoros konfigurációk alatt jelent hatalmas elõrelépést, lényegében lineáris skálázódás biztosításával. A Quick Patch Interconnect linkek egyenként akár 25,6 gigabájtos áteresztõképességre is képesek (6,4 gigatranszfer másodpercenként egy 32 bit széles vonalon), miközben a processzor az integrált vezérlõ révén saját memóriáját 19,2 gigabájtos sávszélességgel éri el DDR3-800 memóriával.
+
+
+
+Turbo boost
+
+A Nehalem hatékony mûködését a 45 nanométeres gyártástechnológián kívül egy dedikált energiagazdálkodási vezérlõnek köszönheti. A chipen egy 1 milliót tranzisztorból álló integrált mikrokontroller kapott helyet, amelynek feladata csak a fogyasztás optimalizálása a terhelés és a hõmérséklet függvényében. A Nehalem minden komponense (magok, memóriavezérlõk)  külön-külön órajellel rendelkezik, és egymástól teljesen függetlenül küldhetõ akár a legmélyebb alvás (C6) állapotába.
+ Az intelligens vezérlésnek köszönhetõen a chip egyes részei képesek "turbófokozatba" kapcsolni, amikor arra szükség van. Ha egy négymagos Nehalem két magja tétlenül pihen, a felszabaduló termikus és fogyasztási keretet a logika arra használja fel, hogy a terhelt magok órajelét átmenetileg megnövelje, ezáltal a teljesítmény javul, miközben a chip fogyasztása változatlan marad. Ha a lapka fogyasztása nem éri el az elõre meghatározott TDP-t, a logika akár az összes mag órajelét képes megemelni a nagyobb teljesítmény érdekében.
+
+
+
+
+
+A Quick Path Interconnecttel az Intel kiküszöbölte a korábbi Xeonok skálázódást sújtó legsúlyosabb problémáját, a kritikusan szûkös front side buszt, amelyet a memória- és koherenciaforgalom egyaránt terhelt. Egy 1600 MHz-es front side busszal dolgozó elõzõ generációs Xeon sávszélessége legfeljebb 12,8 gigabájt volt másodpercenként, a Quick Path Interconnectet használó Nehalem esetében ez akár 70 GB/s is lehet.
+
+A megnövekedett sávszélesség tette lehetõvé, hogy a négy processzormagba visszakerülõ Hyper-threading technológia, amely két utasításszál párhuzamos futtatását teszi lehetõvé, igazán nagyot dobjon a teljesítményen. A Hyper-threading az Intel korábbi, NetBurst-alapú Xeonjaiban is jelen volt már, azonban a szûkös memória- és I/O sávszélesség miatt sok esetben többet ártott mint amennyit használt. A Nehalem elõdeinél sokkal több erõforrással, nagyobb gyorsítótárral és sávszélességgel bír, melyek mind-mind támogatják a többszálúságot.
+
+Változott a processzor cache-hierarchiája is, a Nehalemet kezdetektõl fogva háromszintû szervezésre tervezték és optimalizálták. Ez fõként abban mutatkozik meg, hogy a korábban osztott és nagyméretû L2 cache a Nehalem esetében magonként dedikált, és lényegesen kisebb méretû, 256 kilobájtos az alacsonyabb késleltetés elérése érdekében. Az L3 cache a magok adatmegosztását és a processzorok közötti koherenciaforgalom kezelését hivatott támogatni. A Nehalem EP csúcsváltozatai 8 megabájtnyi inkluzív, vagyis az L1 és L2 adatait is tartalmazó L3 tárral rendelkeznek.
+
+
+ A processzorban mélyebbre hatolva is találni fontos újdonságokat. Mint ahogy arról már szó esett, a Nehalem a Core mikroarchitektúra továbbfejlesztése, a nagyobb teljesítmény elérése érdekében azonban a magok szintjén is számos kisebb módosítást tartalmaz. Hogy maximális teljesítményt préseljenek ki, az Intel tervezõi erõteljesebb soronkívüli motorral vértezték fel a chipet. Az ütemezõ minden órajelciklusban 96 helyett immár 128 mikroutasításból válogathatja ki a következõ végrehajtandó parancsot, ezáltal növelhetõ a végrehajtóegységek kihasználtságának, lényegében a Nehalem hatékonyabban dolgozik.
+
+Fejlõdtek az elágazásbecslõk is, az Intel tervezõmérnökei új, másodszintû becslõket vetettek be, elsõsorban a nagy kódtömegû alkalmazások (pl. adatbázisok) igényeinek szem elõtt tartásával. A teljesítményt tovább javítja az egymástól független cache-hozzáférések gyorsabb végrehajtása, valamint a szinkronizációs primitívek gyorsítása, mely leginkább a többszálú végrehajtást támogatja. A másodszintû TLB (translation look aside buffer, memóriacím fordítási tár) bevezetésével gyorsulnak a virtuális-fizikai memóriacímek megfeleltetései, ami fõként nagy memóriaigényû, memóriamûveletekben intenzív kódok alatt jelenthet leginkább elõnyt -- ezáltal virtualizációs, konszolidációs platformnak is jobban beválik a Nehalem.
+
+Több mint 70 szervergyártó támogatásával
+
+A világ összes nagy szervergyártója bemutatta Nehalem-alapú konfigurációit, az Intel közleménye szerint világszerte több mint 70 kisebb és nagyobb rendszerszállító kínálatában tûntek fel az új chipek, köztük természetesen az olyan gigászokkal mint a 11 új ProLiantet bemutató HP, a Dell, az IBM, a Sun Microsystems (amely a Solaris 10-be számos, Nehalemhez kötõdõ újdonságot fejlesztett bele), a kisebb, de Magyarországon is ismert szerverszállítók közül pedig a Fujitsu (Siemens) és a Lenovo is felsorakozott az új Xeon mögé.
+
+
+Új Xeonok
+
+
+
+
+Modell
+Órajel
+L3 cache
+Turbo boost
+TDP
+
+
+
+ X5570 
+ 2,93 GHz 
+ 8 Mbyte 
+ Van 
+ 95 Watt 
+
+
+
+
+ X5560 
+ 2,8 GHz 
+ 8 Mbyte 
+ Van 
+ 95 Watt 
+
+
+
+ X5550 
+ 2,66 GHz 
+ 8 Mbyte 
+ Van 
+ 95 Watt 
+
+
+
+
+ E5540 
+ 2,53 GHz 
+ 8 Mbyte 
+ Van 
+ 80 Watt 
+
+
+
+ E5530 
+ 2,4 GHz 
+ 8 Mbyte 
+ Van 
+ 80 Watt 
+
+
+
+
+ L5520 
+ 2,26 GHz 
+ 8 Mbyte 
+ Van 
+ 60 Watt 
+
+
+
+ E5510 
+ 2,13 GHz 
+ 4 Mbyte 
+ Nincs 
+ 80 Watt 
+
+
+
+
+ E5520 
+ 2,26 GHz 
+ 8 Mbyte 
+ Van 
+ 80 Watt 
+
+
+
+ E5506 
+ 2,13 GHz 
+ 4 Mbyte 
+ Nincs 
+ 80 Watt 
+
+
+
+
+ E5504 
+ 2 GHz 
+ 4 Mbyte 
+ Nincs 
+ 80 Watt 
+
+
+
+ E5502 
+ 1,86 GHz 
+ 4 Mbyte 
+ Nincs 
+ 80 Watt 
+
+
+
+
+A Nehalemmel az Intel nem csak egyszerûen visszavette a teljesítménykoronát az AMD-tõl, hanem látványosan elhúzott a versenytársától, amelynek tavaly õsszel bemutatott Shanghai magos Opteronjai megelõzték az akkori négymagos Xeonokat. Az AMD válasza a Nehalemre a hatmagos Istanbul, amelyet a vállalat már demózott és az év végére ígér. Az Istanbul jelentõs elõnye a Nehalemhez képest, hogy foglalatkompatibilis a Shanghai-jal, vagyis nem igényel teljesen új infrastruktúrát, a meglevõ szerverek is frissíthetõk vele. Az AMD reményei szerint a jelenlegi bizonytalan gazdasági helyzetben a vásárlók a jól bevált megoldásokat részesítik majd elõnyben az "ismeretlen" újak helyett.

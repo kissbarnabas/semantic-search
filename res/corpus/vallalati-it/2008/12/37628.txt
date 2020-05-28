@@ -1,0 +1,26 @@
+Bevetésre érett az OpenSolaris - itt a 2008.11 kiadás
+
+Megjelentette az OpenSolaris új változatát a Sun Microsystems. A nyílt forráskódú UNIX operációs rendszer 2008.11 kiadása sok szempontból hoz jelentõs újdonságokat, és nem csak technikai, de támogatási oldalról is. A Sun ugyan óvatosságból nem szívesen fogalmaz így, de nyilvánvalóan a Linux közvetlen riválisának szánja, amely egyébként a legnagyobb fenyegetést jelenti a Solarisra nézve.
+
+
+
+A Sun 2005 elején kezdte meg a Solaris kódbázisának megnyitását, kezdve a DTrace teljesítményanalitikai eszközzel, közel négy év kellett azonban ahhoz, hogy az OpenSolaris megérjen az éles szerverkörnyezetben történõ alkalmazásra. Az új, 2008.11  kiadás számos technikai újdonságot hoz, valószínûleg azonban nem ezek, hanem a Sun támogatási feltételeinek változása jelentik a legfontosabb elõrelépést az operációs rendszer életében.
+
+Komolyan vehetõ
+
+A májusi, 2008.05-ös verzióval megkezdõdött az OpenSolaris megkomolyodása, a Sun ugyanis ettõl kezdve már többé nem limitálja a támogatást a kiadás megjelenést követõ legfeljebb 18 hónapra, és kényszerít upgrade-re, ami egy stabil rendszerképet megkövetelõ szerverkörnyezetben többnyire elfogadhatatlan. Az új kiadással a vállalat repozitorikat (online szoftvertárak) is bevezet, melyekkel nemcsak új alkalmazásokat lehet letölteni, de támogatási szerzõdés esetén rendszeres frissítésekhez, javításokhoz is hozzá lehet férni.
+
+Szintén az OpenSolaris felnövését jelzi, hogy bár egyelõre kizárólag 32 és 64 bites x86-os processzorarchitektúrákat támogat hivatalosan, közeleg a SPARC-os kiadás is, árulta el a HWSW kérdésére Charlie Boyle, a Sun Solaris marketingjéért felelõs igazgató. Boyle állítása szerint januárban érkezik meg a SPARC-támogatás, majd a következõ kiadástól kezdõdõen, mely áprilisra esik, az x86 és SPARC disztribúciók egyszerre jelennek meg. Az OpenSolarisszal a Sun elsõsorban a tömegpiacot célozza meg, fogalmazott Boyle, aminek elsõdleges platformja az x86 ugyan, a Sun Niagara processzorcsaládja (UltraSPARC T1, T2, T2 Plus) szintén versenyez ezen a terepen, még ha a felsõbb kategóriákban is. 
+
+Olyannyira, hogy a Sun-vezér Jonathan Schwartz szerint piacot is vesznek el az Inteltõl és az AMD-tõl. A masszívan párhuzamos, 8 egyszerû felépítésû processzormagot integráló, és 64 utasításszálat futtató chipek elsõsorban olyan online tranzakcionális környezetben remekelnek, mint például a nagyobb terhelésû webes infrastruktúra vagy adatbázis-alapú, nem számításintenzív üzleti szerveralkalmazások kiszolgálása. Ezeken, a Sun belsõ zsargonjában CMT-szervereken jelenleg Solaris 10 az alapértelmezett platform, ami technikai kvalitásaival segíti, a Windowshoz és Linuxhoz viszonyított egzotikussága azonban gátolja az adoptációt. A mindig legfrissebb kódot és technológiákat implementáló OpenSolaris népszerûsítésével a Sun ez utóbbin igyekszik változtatni.
+
+Nehalem-optimalizáció, storage újdonságok
+
+A 2008.11 olyan technikai újításokat hoz magával, mint a Distribution Constructor, mellyel összeállítható a kívánt rendszerkép, mely bootolható is, így több tucat fizikai vagy virtuális gép is gyorsan telepíthetõ. További segítségként az automata telepítõ akár hálózaton keresztül is képes ezt elvégezni. Boyle állítása szerint az új OpenSolaris már finomhangolással érkezik az Intel közelgõ Nehalem-architektúrájához, ami a mikroarchitektúrán túl (mint például a vektorizált feldolgozást lehetõvé tévõ SSE4.2 utasításkészlet, dinamikus energiagazdálkodás és RAS-funkciók) NUMA-optimalizációt is tartalmaz, vagyis figyelembe veszi, hogy a processzorok lokális hozzáférés mellett QuickPath linkeken érik el a más processzorok által kezelt, vagyis távoli memóriát, ami kihatással van a késleltetésre és sávszélességre -- ez a többutas rendszerek skálázódásánál érdekes.
+
+
+
+Az új OpenSolaris továbbfejleszti a platform tárolóképességeit.  A ComStar Storage Framework lehetõvé teszi, hogy egy OpenSolaris szerver egy hálózati FibreChannel tárolóvá változzon, mely képes számos hagyományos tárolóhálózat emulálására más számítógépek felé, így olcsó tömeghardverrel kiváltható a sokszor rendkívül költséges tárolórendszerek. Szintén a tárolási oldalt erõsíti a ZFS (Zetabyte FileSystem) Time Slider funkciója, mellyel a beállított idõközönkénti pillanatfelvételeknek köszönhetõen fájlszinten állítható vissza egy korábbi állapot -- de ha tévedtünk volna, az újabb állapotok felé is haladhatunk elõre, mindezt egy grafikus felületen egy csúszka segítségével a fájlkezelõbe integrálva.
+
+
+Boyle szerint a Solaris és OpenSolaris "konzisztensebbek és megbízhatóbbak a Linuxnál", és vannak ügyfeleik, melyek Linuxról valamelyik UNIX felé mozognak a skálázódás és a konszolidációt elõsegítõ particionálási képességek miatt. Mindenesetre egy átállást biztosan segít, hogy a linuxos közösség által ismert nyílt forrású szoftverekkel megtömve érkezik a disztribúció: Gnome 2.24, Firefox 3.0, OpenOffice.org 3.0, Songbird, Transmission BitTorrent kliens.

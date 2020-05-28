@@ -1,0 +1,14 @@
+Két héten belül érkezik az Office 2007 SP2
+
+Az eredetileg megszabott idõintervallumba éppen csak beleférve teszi elérhetõvé az Office 2007 második szervizcsomagját a Microsoft. A 2006-ban megjelent irodai programcsomag elõzõ frissítése 2007-ben jelent meg, az SP2 azonban jóval fontosabb újításokat hoz.
+
+
+
+A Microsoft Update Team hivatalos blogjára tegnap felkerült bejegyzés szerint április 28-tól tölthetõ le az Office 2007 második szervizcsomagja, melynek legjelentõsebb újítása kétségtelenül az ISO-szabvány Open Document Format (ODF), PDF és XPS dokumentumok támogatásának beépítése. Ez a lépés egyben az irodai programcsomagok piacát 90 százalék feletti részesedéssel domináló Office fogva tartó erejének részleges feladását is jelenti, ami megkönnyítheti az alternatív szoftverek bevezetését, mint amilyen az OpenOffice.org is -- a Microsoft elsõsorban a kormányzati és nagyvállalati ügyfelek nyomásának hatására kényszerült az interoperabilitás és a szabványos vagy kvázi szabványos fájlformátumok támogatására, valamint saját formátumai specifikációinak megnyitására.
+
+Ezen túlmenõen az SP2 számos további fejlesztést is eszközöl, mint például az Outlook futási sebességének javítása, vagy a naptárkezelés megbízhatóságának fokozása. Erõsödik a titkosítási képesség, az Excel ábrarajzoló funkciója is. Szerveroldalon javul az Enterprise Content Management menedzselhetõsége és teljesítménye, valamint fejlesztették a tartalmi adatbázisok és újraindexelõ feladatok futását a SharePoint Services 3.0-ban -- mindez természetesen csak néhány fõbb változás a számtalan közül.
+
+
+A szoftvercég szinte napra pontosan az Office 2007 SP2 megjelenésével egy idõben (a tegnapi napon) állította le az Office 2003 elsõdleges terméktámogatási ciklusát. A 2003 novemberében megjelent Office 2003 "mainstream" terméktámogatási ciklusa eredetileg 2008-ban, a termék megjelenésének ötödik évfordulóján ért volna véget, Redmondban azonban úgy döntöttek, további fél évre kiterjesztik a periódust. Az irodai programcsomaghoz egyébként meglehetõsen régen, 2007 novemberében jelent meg utoljára javítás, ekkor vált letölthetõvé a szoftver harmadik szervizcsomagja.
+
+Az Office 2003 kiterjesztett terméktámogatási ciklusa 2014 április 8-án ér véget, az addig hátralévõ idõ alatt már csak a kritikus hibákat javítják a programozók. A Microsoft pont a múlt héten tett közzé egy figyelmeztetést weboldalán arról, hogy egy az Office 2003 prezentációkészítõjében felfedezett kritikus hibát több alkalommal is kihasználtak már hackerek -- a hibát javító patch megjelenési idejét egyelõre nem közölték.

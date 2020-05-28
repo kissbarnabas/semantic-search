@@ -1,0 +1,25 @@
+Újabb gigászi büntetést kapott a Microsoft
+
+Hatalmas, 899 millió eurós büntetéssel sújtotta az új Windows Server, SQL Server és Visual Studio ma esti nagyszabású bejelentésére készülõ Microsoftot az Európai Bizottság, az indoklás szerint a vállalat nem tett eleget a négy évvel ezelõtti trösztellenes ítéletben rá kirótt kötelezettségeknek. 
+
+
+
+
+Az összes bírság 1,68 milliárd euró
+
+"Az EU versenyügyi hivatalának 50 éves történetében a Microsoft volt az elsõ cég, amelyet azért kellett megbüntetni, mert nem engedelmeskedett a trösztellenes döntésnek" -- mondta Neelie Kroes, az EU versenyügyi fõbiztosa, aki reményét fejezte ki, hogy ezzel lezárult egy "sötét fejezet" a cég és az EB között évek óta húzódó ügyben. Kroes hozzátette, a büntetés akár 1,5 milliárd euró is lehetett volna.
+
+Amint arról lapunk is beszámolt, az Európai Bizottság három év vizsgálódást követõen 2004-ben 497 millió eurós, akkor rekordnagyságú büntetést szabott ki a Microsoftra, miután azt találta, hogy a vállalat visszaélt a Windows monopóliumával, korlátozva versenytársait, végeredményben pedig megkárosította az európai fogyasztókat. Az ítéletben kötelezték a Microsoftot, hogy nyissa meg és tegye licencelhetõvé a Windows kommunikációs protokolljait, valamint adjon ki egy Media Player nélküli Windows XP operációs rendszert.
+
+A Bizottság 2006 nyarán újabb 280 millió eurós bírságot szabott ki, mivel úgy találta, hogy a vállalat nem teljesítette a határozatban foglaltakat. Ezen felül további, naponta akár 3 millió euróig terjedõ büntetést helyezett kilátásba, amennyiben a Microsoft továbbra sem engedelmeskedik. A Bizottság indoklása szerint a protokollok dokumentációja, melyek révén a független szoftverszállítók gyorsabb, stabilabb és funkciógazdagabb alkalmazásokat lennének képesek elõállítani, aránytalanul drágán licencelhetõ.
+
+Neelie Kroes versenyügyi EU-biztos: ekkora bírságot szabtam ki!
+
+
+Jogászok egybehangzó véleménye szerint az EU által kiszabott, 899 millió eurós (~232 milliárd forintos) büntetéssel példát szeretne mutatni a többi vállalat számára, hogy mi történik akkor, ha nem engedelmeskednek. A Microsoft szerint már megoldott kérdésekért kapott büntetést, és jelenleg is vizsgálják az elmarasztaló döntést. Az Európai Bizottság a trösztellenes ügyben eddig összesen 1,68 milliárd eurónyi büntetést rótt ki a redmondi vállalatra.
+
+Kései nyitás?
+
+Amint azt a HWSW megírta, a Microsoft a múlt héten bejelentette, hogy  elérhetõvé teszi a széles körben használt szoftvereinek kommunikációs protokolljait és alkalmazásprogramozási interfészeit. A redmondi vállalat több mint 30 ezer oldalnyi dokumentációt hoz nyilvánosságra, emellett azt ígérte, a jövõben nagyobb hangsúlyt fektet a nyílt szabványok támogatására, és szorosabban együttmûködik a nyílt forrású közösséggel. Az Európai Bizottság azonban szkeptikusan fogadta a bejelentést, Neelie Kroes elmondása szerint ez volt az ötödik alkalom, hogy a Microsoft az interoperablitás kiterjesztésére vonatkozó bejelentést tett. "Beszélni könnyû" -- mondta Kroes.
+
+Múlt hónapban újabb trösztellenes vizsgálat indult a Microsoft ellen, a keresetet a norvég Opera nyújtotta be tavaly decemberben, azt állítva, hogy a redmondi cég illegálisan kapcsolta a böngészõjét az operációs rendszerhez, ezáltal akadályozza a fogyasztókat a szabad választásban. Az Opera keresetében azt kéri, kötelezzék a Microsoftot az Internet Explorer eltávolítására a Windowsból. A norvégok szerint az eset nagyon hasonló a Media Playeréhez, amelyet az Európai Bizottság eltávolíttatott a Windowsból, mivel úgy ítélte meg, hogy a Microsoft a lejátszó beépítésével monopolizálni próbálta a médiapiacot. Ez alapján a döntés alapján az Internet Explorer beépítése a Windowsba "nyilvánvalóan illegális" -- mondta Jon von Tetzchner, az Opera Software vezére.

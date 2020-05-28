@@ -1,0 +1,14 @@
+Gyakorlatilag kész a Vista második javítócsomagja
+
+Finiséhez érkezett a Windows Vista és a Windows Server 2008 második szervizcsomagjának fejlesztése a Microsoftnál, a javítócsomag kiadásra jelölt változata az MSDN- valamint TechNet-elõfizetõk számára már elérhetõ. A javítás végleges változata egyes korábbi, szkeptikus véleményekkel ellentétben idõben, várhatóan még májusban megjelenhet.
+
+
+
+Egy a hivatalos Windows Blogra felkerült bejegyzés tanúsága szerint a javítócsomagok kiadásra jelölt változatát a "nagyon közeli jövõben" a nagyközönség számára is elérhetõvé teszi a Microsoft, akárcsak a Windows Vista SP2 elsõ és egyetlen bétáját, mely tavaly decemberben jelent meg. A kiadásra jelölt változat elvileg a teljesen végleges kódot tartalmazza, a fejlesztõk új funkciókat vagy javításokat már nem illesztenek be a csomagba, csak a tesztelõk által felfedezett hibákat javítják.
+
+A Vista SP2 az eddig megjelent hibajavítások mellett olyan újdonságokat tartalmaz majd mint a Blu-ray és Bluetooth 2.1 támogatása, illetve a Windows Search 4, bár utóbbi kettõt különálló frissítésként már eddig is letölthették a felhasználók. A javítócsomagba emellett többek közt integrálják a Hyper-V virtualizációs környezetet, része lesz a Windows Connect Now, ami a vezeték nélküli hálózatok konfigurációját egyszerûsíti, illetve lehetõség lesz exFAT fájlrendszer esetén UTC idõt használni, így idõzónák között is zökkenõmentesen lehet állományokat szinkronizálni.
+
+
+A szervizcsomag végleges változata az eddigi szokásoknak megfelelõen minden bizonnyal ezúttal is a számítógépgyártókhoz jut majd el elõször, és csak ezt követõen teszik elérhetõvé a vállalati rendszergazdák, végfelhasználók számára. A két megjelenési idõpont közt eltelt idõre nincs bevett gyakorlata a szoftvercégnek: a Windows XP harmadik javítócsomagja például a gyártásba kerülés után nagyjából két héttel vált letölthetõvé, míg a Vista SP1-nél ugyanez az idõintervallum másfél hónapra tolódott ki. A lokalizációk esetén ehhez további hetek is hozzáadódhatnak.
+
+A szoftvercég végleges változat megjelenésével kapcsolatos álláspontja nem módosult a korábbiakhoz képest: a Microsoft ígérete szerint a Vista és a Windows 2008 Server operációs rendszerek második javítócsomagja az eredetileg tervezett idõben, a második negyedévében készül el.

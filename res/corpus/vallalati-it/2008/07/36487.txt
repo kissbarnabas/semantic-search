@@ -1,0 +1,12 @@
+A Sun után az IBM is egy terabájtos natív kapacitású szalagos egységgel jelentkezett
+
+Egy nappal azután, hogy a Sun Microsystems bejelentette 1 terabájtos natív kapacitású szalagos meghajtóját, az IBM is elõlépett saját megoldásával, ami ráadásul harmadával gyorsabb. A TS1130 másodpercenként 160 megabátos I/O sebességet ígér, szemben a Sun StorageTek T10000B által kínált 120 megabájttal.
+
+
+
+Az IBM elõzõ generációs szalagos meghajtója, a TS1120 I/O sebessége 104 megabájt volt másodpercenként, vagyis az új változat több mint 50 százalékkal gyorsabb, miközben a 3592 formátumú szalagon tárolt adatmennyiség is közel felével nõtt, 700 megabájtról 1 terabájtra. A TS1130 elõdjéhez hasonlóan továbbra is az eszköz szintjén képes az adatokat titkosítani, így a lementett információk akkor is biztonságban vannak, ha a szalagok illetéktelen kezekbe kerülnek.
+
+
+
+
+ A meghajtó a 3592-es szalagformátumot használja, és kompatibilis a korábbi generációs egységekkel felírt szalagokkal is. Azok a cégek, akik a TS-sorozat valamelyik korábbi változatáról upgrade-elnek TS1130-ra, 19500 dolláros áron megtehetik, az eszköz listaára egyébként 39 ezer dollár. A TS1130 szállítása szeptember elején kezdõdik.

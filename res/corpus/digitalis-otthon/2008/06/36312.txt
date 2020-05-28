@@ -1,0 +1,14 @@
+Az év végére csúszik a Google Androidon alapuló telefonok érkezése
+
+A Google tavaly novemberben jelentette be Android mobiltelefonos szoftverplatformját, a ráépülõ készülékek azonban csak az idei negyedik negyedévben, vagy jövõre kerülhetnek piacra. 
+
+
+
+Bennfenntes források szerint a késés oka, hogy a szoftverfejlesztés lassan halad. Ez ugyanúgy igaz az Androidra, amelyet folyamatosan csiszol a Google, mint a platformra tervezett alkalmazásokra. A fejlesztõk arra panaszkodnak, hogy nagyon nehéz úgy alkalmazásokat írni, hogy a futtatásukra kijelölt platform is folyamatosan változik, fejlõdik. Ez megnehezíti a mobilszolgáltatók dolgát is, akik saját szolgáltatásaikra akarják szabni az androidos telefonokat. A Wall Street Journal úgy tudja, az amerikai T-Mobile üzleteiben már a negyedik negyedévben kapható lesz az elsõ Android-alapú telefon, de a Sprint Nextelnél már csak jövõre várható a premier, mint ahogy a világ legtöbb elõfizetõjével rendelkezõ szolgáltatójánál, a China Mobile-nál is csak 2009-ben tûnhetnek fel az Androidra épülõ telefonok. 
+
+
+
+A Google nem kevesebb mint 33 céget állított maga és az Android projekt mellé, a sorban telefongyártók (HTC, Samsung, Motorola, LG), szolgáltatók (T-Mobile, Sprint Nextel, NTT DoCoMo, Telefónica, Telecom Italia), illetve a mobiliparban érdekelt egyéb cégek (eBay, Intel, Broadcom, Qualcomm, NVIDIA, Wind River) egyaránt megtalálhatók. Az Android fejlesztését az Open Handset Alliance felügyeli, a szervezet célja egy olyan nyílt szoftverinfrastruktúra létrehozása, amelynek révén csökkenthetõk a mobilok fejlesztési költségei, illetve a szabványos platform miatt egyszerûbb az alkalmazások fejlesztése és terjesztése is. A Google-nél úgy vélik, a közös platform egyformán jó a mobilgyártóknak, a szolgáltatóknak, a fejlesztõknek és a felhasználóknak is.
+
+
+ Maga az Android egy nyílt platform, amelyre várki fejleszthet saját alkalmazásokat. A szoftver forrása Apache v2 licenc alatt érhetõ el, ami lehetõvé teszi a felhasználók (például a készülékgyártók vagy a szolgáltatók) számára, hogy saját fejlesztésû és saját tulajdonban levõ szoftvereket, alkalmazásokat fejlesszenek rá, és ezeket nem szükséges megosztaniuk másokkal. A platform futtatásához minimum 200 MHz-es ARM9 processzor az elvárás, a szoftver pedig igen rugalmas, többféle méretû kijelzõt, billentyûzetet és beviteli eszközt (pl. érintkõkijelzõ) is támogat.

@@ -1,0 +1,14 @@
+Az Opera 10 is száz százalékra teljesíti az Acid3 tesztet
+
+[News.com/HWSW] Az Opera webböngészõ soron következõ fõverziója a korábbi változatokhoz hasonlóan -- a piacvezetõ Internet Explorerrer és Firefoxszal ellentétben -- továbbra is élen jár majd a webes szabványok pontos kezelésében. A norvég fejlesztõk szerint az Opera 10 is száz százalékra teljesíti majd az Acid3 tesztet, ami csak egy browsernek, a Safari 4 fejlesztõi kiadásának sikerült eddig.
+
+
+
+Az Acid3 teszt a Web Standards Project által gondozott weboldal, ahol a szabványoknak megfelelõ böngészõk kompatibilitását vizsgálják. Számos böngészõ még az elõzõ, Acid2 tesztet sem képes teljesíteni, ahol egy sárga mosolygós arcot jelenítenek meg egy Hello World felirat alatt -- a smiley orra kékre változik, ha föléhúzzuk az egeret. Az Acid2 tesztoldal valójában nem is szabványos, a fejlesztõk célja egy olyan oldal létrehozása volt, amelynek kódja szándékosan hibás -- az Acid2 lényegében azt vizsgálja, mit kezdenek a böngészõk ezzel a hibás kóddal.
+
+
+Az Acid3 tesztben a jelenlegi böngészõk közül eddig egyedül a Safari volt képes a legutóbbi fejlesztõi változattal elérni a 100 százalékot, azonban csak Mac OS X alatt. A legutóbb megjelent, 3.1-es változat csupán 75 százalékos eredményre képes, míg a Firefox 3.0.4 is csupán 71 százalékot teljesít, a Firefox 3.1 elsõ bétája pedig 89 százaléknál tart. A Google új böngészõje, a Chrome 79 százalékot ér el az Acid3-tesztben, az Internet Explorer 7 eredménye teljesen értékelhetetlen, 14 százaléknyi csupán.
+
+Az Opera 10 elsõ publikus tesztváltozata már elérhetõ a szoftvercég erre a célra létrehozott weboldalán. Az új változatba a Presto motor vadonatúj, 2.2-es változata kerül, mely a korábbinál akár 30 százalékkal gyorsabb oldalletöltést tesz lehetõvé. A fejlesztõk elképzelései szerint a Presto 2.2 adja majd az alapját az Opera okostelefonokhoz és kézi eszközökhöz készített webböngészõjének, az Opera Mobile-nak is.
+
+Az Opera 10 elsõ bétaváltozata a jövõ év elejére várható, a végleges kiadás megjelenésérõl egyelõre nincs konkrét információ, azt leszámítva, hogy a szoftver valamikor 2009-ben debütál.

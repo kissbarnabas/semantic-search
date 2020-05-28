@@ -1,0 +1,14 @@
+Meglepõen jó negyedév a grafikus chipek piacán
+
+A második negyedévben mindössze fél százalékkal csökkent a leszállított grafikus processzorok száma az elsõhöz képest -- jelentette a Jon Peddie Research. Az informatikai iparban a második naptári negyedév rendszerint a leggyengébb, ezért is meglepõ, hogy a GPU-eladások csak ennyivel estek vissza -- a sokéves átlagos csökkenés 3,5 százalék.
+
+
+
+A Jon Peddie Research becslései szerint 94,4 millió grafikus chip került a piacra, egy évvel korábban 81,4 millió, vagyis éves szinten az eladások 16 százalékkal erõsödtek -- nagyjából tartva a PC-piac bõvülésének ütemét. A szokatlanul jó második negyedév valószínûleg annak tudható be, hogy az Intel és az ATI egyaránt tavaszra idõzítette az új GeForce és Radeon szériák piacra dobását, az Intel pedig a Centrino 2 platform érkezésére felkészülve megkezdte az új, chipsetbe integrált videovezérlõinek szállításait.
+
+
+ Az asztali gépekbe szánt grafikus chipek forgalma sorozatban három negyedév óta csökkent, de ezt ellensúlyozni tudták a mobil GPU-k, amelyek piaca 8,1 százalékkal 35,3 millió darabra erõsödött. Mind az asztali, mind a mobil szegmensben azonos volt a gyártók rangsora, az Intel állt az élen, a második helyet az NVIDIA szerezte meg, a bronzérem pedig az AMD nyakába került. A Jon Peddie adataiból az látszik,  hogy az utóbbi évben az Intel és az NVIDIA a piaci átlag felett növekedett, elnyomva az AMD-t, illetve a kisebb cégeket (Matrox, SiS, VIA). 
+
+Az asztali szegmensben az Intel 41,5 százalékos piaci részesedéssel rendelkezett a második negyedévben, a második helyen álló NVIDIA 36 százalékot söpört be, az AMD pedig 18,3 százalékot. A mobil grafikus chipek esetében az Intel fölénye még nagyobb, a világ legnagyobb chipgyártója az eladások több mint 57 százalékát tartotta kézben, az NVIDIA és az AMD rendre 23,6 százalékos és 17,9 százalékos piaci részesedést szerzett.
+
+Az elemzõcég szerint egyelõre nehéz lenne megjósolni, a harmadik negyedévben hogy alakulnak az eladások, de úgy tûnik, a gazdasági bizonytalanság ellenére erõs lesz a piac, és ha nem jön közbe valami váratlan, akár új negyedéves rekord is születhet. Ami a gyártók versenyét illeti, sem az NVIDIA-tól, sem az AMD-tõl nem várhatók most újdonságok. A Jon Peddie Researchnél az AMD enyhe térnyerését várják az NVIDIA kárára, köszönhetõen a Radeon HD 4800-as sorozat jó ár-érték arányának.

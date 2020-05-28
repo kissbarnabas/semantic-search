@@ -1,0 +1,19 @@
+Bemutatkozik a Google Android Market
+
+A tervek szerint a Google Android kódnéven ismert linuxos mobilplatformja idén év végén jelenik meg, az operációs rendszer mellé extra alkalmazások is dukálnak majd. 
+
+
+
+A Google tegnap mutatta be a nagyközönségnek az Android mobilplatformja köré épített kereskedelmi teret, az Android Marketet, melynek névválasztása a szabadságot, nyitottságot hirdeti, fõként az Apple Store-ral szemben. Az online óriás állítása szerint a rendszer sokkal inkább hasonlít majd a YouTube-ra, mint egy webáruházra -- a fejlesztõknek egyszerûen be kell regisztrálniuk, feltölteni az eladásra szánt terméket és egy leírást eszközölni róla. Természetesen az elérhetõ alkalmazásokat a felhasználók értékelhetik, pontozhatják, illetve visszajelzéseket is küldhetnek a készítõknek.
+
+Mobil piac 
+
+
+A minõségellenõrzés kérdése egyelõre azonban nem tisztázott, például hogy hogyan fogják megakadályozni a veszélyes vagy ártalmas szoftverek felbukkanását, illetve hogy fognak-e tiltani bizonyos alkalmazásokat. Az Apple és a Google hozzáállása közti alapvetõ különbség, hogy míg az Apple házon belül tartja a telepítést is, tehát az iPhone-ra csak iTuneson keresztül telepíthetõ alkalmazás, addig a Google elengedi a felhasználók kezét
+
+
+
+Az Android Market valóban egy piac lesz, ahonnan igény szerint le lehet tölteni az alkalmazásokat, majd azokat teljesen függetlenül lehet feltelepíteni a készülékekre -- nem kötelezõ jellegû forrásként ugyanakkor, a szoftvereket más forrásból is beszerezhetjük majd. A letölthetõ alkalmazások eleinte kivétel nélkül ingyenesek lesznek, a fizetési rendszert majd valamivel késõbb tervezi bemutatni a Google.
+
+
+Ezzel szinte egyidõben a cég az ûr felé is kacsintgat, ugyanis múlt hét végén hozták nyilvánosságra, hogy szeptember negyedikén, azaz most csütörtökön lövik fel az ûrbe a GeoEye-1 nevû mûholdat. A földet az ûrbõl pásztázó objektív az eddigi legnagyobb felbontású ilyen eszköz, átlagosan képes elérni a 40 centiméter/pixel felbontást is. A fellövés online követhetõ lesz majd csütörtökön, az eredményrõl természetesen a HWSW is beszámol majd.

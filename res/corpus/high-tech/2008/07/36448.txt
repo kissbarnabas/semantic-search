@@ -1,0 +1,34 @@
+Megérkezett az Intel új Centrino mobil platformja
+
+Az Intel ma hivatalosan is útjára indította a Montevina kódnéven fejlesztett mobil platformját, amely végül a Centrino 2 nevet kapta. Bár a névben a "teljes verzióváltás" arra enged következtetni, hogy az elõzõ generációs Centrinóhoz képest óriási változások történtek, valójában inkább kozmetikai jellegû frissítésrõl van szó. A Centrino 2 érkezése már csak azért sem akkora durranás, mert a platform elemeit már ismerhetjük, az egyetlen teljesen új alktrész a Wi-Fi és WiMAX hálózatokkal egyaránt kompatibilis vezeték nélküli hálózati vezérlõ, ami viszont csak késõbb lesz kapható.
+
+
+
+Mibõl áll a Centrino 2?
+
+A Centrino 2 szíve az év elején bejelentett Penryn magos processzor. A 45 nanométeres gyártásátechnológiának köszönhetõen a Core architektúrára épülõ kétmagos, 1066 MHz-es front side busszal járó chipek 3 megabájt L2 cache-t tartalmazó mainstream változatai mindössze 25 wattot fogyasztanak, de még a 6 megabájtos gyorsítótárral szerelt nagyobb teljesítményû változatok is megelégszenek 35 wattal. A chipeket ugyanabban az aprócska tokozásban hozza forgalomba az Intel, amelyet elsõként az Apple MacBook Airbe épített processzoroknál használtak. 
+
+ A kínálat derekát adó Core 2 Duo processzorokból összesen öt változattal indította útjára a Centrino 2-t az Intel. A lapkák közül a P-sorozatúak (P8500, P8600, P9500) 3 megabájt L2 cache-t tartalmazó változatok, a T-sorozat (T9400, T9600) pedig a 6 megabájtos kivitel. Az órajelek 2,26 és 2,8 GHz közé esnek. A Centrino 2 érkezése alkalmából az Intel piacra dobott egy kimondottan játékosoknak szánt változatot is, de a 3,06 GHz-es Core 2 Extreme X9100 TDP-je is csak 44 watt. Ez a chip egyébként az többi Intel Extreme processzorhoz hasonlóan szorzózár nélküli, így akár túlhajtható is, ha valakinek ehhez támad kedve.
+
+Végre lehet az integrált videovezérlõvel játszani?
+
+Ha a Penryn-magos Core 2 Duo processzor a szív, akkor az Intel Mobile Express GM45 és GM47 chipkészlet a lélek. A GM45 a Computexen bemutatott G45 mobil változata, amely a Santa Rosa alapjául szolgáló 965-ös sorozathoz képest olyan újdonságokat hoz, mint a DDR3 memóriák támogatása, valamint a megújult X4500HD grafikus mag. A DDR3 memória legfontosabb elõnye a DDR2-höz képest az alacsonyabb feszültség, ami kedvezõ hatással van a fogyasztásra, és végsõ soron az akkumulátoros üzemidõre.
+
+Az X4500HD chipkészlet tíz egységes shadere révén teljes hardveres DirectX 10 gyorsítást kínál. A grafikus mag órajele a GM45 chipkészletben 533 MHz, az GM47-ben pedig 640 MHz, de a chipbe épített logika az energiatakarékosság érdekében képes csökkenteni az órajelet és a feszültséget, értékes perceket takarítva meg az akkumulátoros üzemidõbõl. Az Intel ígérete szerint az X4500HD akár kétszer gyorsabb lehet az X3100-nál, amivel továbbra sem lesz a benchmarkok bajnoka, de a továbblépés épp elég lehet ahhoz, hogy a Montevina-alapú noteszek integrált vezérlõjén már olyan játékok is élvezhetõek legyenek, amelyek a Santa Rosán akadtak. Az elsõ, még béta állapotú driverrel készített tesztek szerint az X4500HD teljesítménye az NVIDIA GeForce 8400M G és GS közé esik.
+
+
+ A chipkészletbe integrált grafikus vezérlõ fejlesztésekor az Intel már a HD-korszak igényeit tartotta szem elõtt, ennek megfelelõen az X4500HD hardveresen gyorsítja az AVC/VC-1/MPEG2/H.264 anyagok lejátszását. A vállalat szerint a Montevinára épülõ noteszek eléggé erõsek és energiatakarékosak ahhoz, hogy egy HD felbontású mozifilmet akkumulátoros üzemben is gond nélkül le tudjanak játszani. Annak érdekében, hogy a notebookról akár tévén is lehessen filmet nézni, az integrált videovezérlõt DisplayPort-, HDMI- és HDCP-támogatással is ellátta az Intel.
+
+Akinek nem lenne elég az integrált videovezérlõ teljesítménye, választhat olyan gépet is, amelyben két grafikus mag dolgozik felváltva. A Montevina lehetõvé teszi, hogy ezek között a felhasználó a gép újraindítása nélkül váltson, így ha hosszú akkumulátoros üzemidõre van szükség, akkor az integrált videovezérlõ mûködik, ha pedig a nagy teljesítmény a szempont, akkor a notebookba épített másik grafikus chip, például egy Radeon vagy egy GeForce. A két videovezérlõ közötti váltás lehet automatikus is (akkumulátoros üzemnél az integrált, hálózati táplálásnál a diszkrét), de manuálisan is állítható. A technológia mûködésérõl egyelõre szinte semmilyen részlet nem látott napvilágot, kíváncsian várjuk az elsõ ilyen gépeket.
+
+Többféle vezeték nélküli hálózati vezérlõ
+
+A Centrino platform szentháromsága az Intel processzor, a chipkészlet, illetve a vezeték nélküli hálózati vezérlõ. A kínálatban a Intel WiFi Link 5100 és 5300 az újdonság, utóbbi több antenna és több párhuzamos stream támoagása révén stabilabb kapcsolatot, nagyobb hatótávot és gyorsabb átvitelt ígér -- az Intel 450, illetve 300 megabites maximális sávszélességrõl beszél. Mindkét vezérlõ kompatibilis az összes eddigi Wi-Fi szabvánnyal, beleértve a 802.11n tervezetet is. A kínálatba késõbb érkezik az Intel WiMAX/Wi-Fi Link 5050 vezérlõ, amely a Wi-Fi mellett már a WiMAX hálózatokkal is kompatibilis.
+
+Az elsõ fecskék
+
+A Centrino 2 érkezésével egyidõben a világ összes notebook-gyártója megújítja kínálatát. A Lenovónál ez a már korábban pletykák szintjén emlegetett kisvállalati SL-sorozat megérkezését jelenti, emellett a cég további hat gépet is bemutatott. A ThinkPad R400 és R500 afféle olcsó desktop-replacement gépek, az T400 és T500 a korábbi T61 sorozatot váltják, az X200 a cég új ultrahordozható gépe 12 hüvelykes szélesvásznú kijelzõvel, míg a W500 a cég korábbi mobil munkaállomása, a ThinkPad T61p helyére érkezik. Az összes új modell a Montevina platformra épül.
+
+Lenovo ThinkPad T400
+
+Valószínû a mai nap folyamán minden jelentõs notebookgyártó bejelenti Centrino 2-re épülõ gépeit, amelyeket pár héten belül valószínûleg Magyarországon is meg lehet már vásárolni.

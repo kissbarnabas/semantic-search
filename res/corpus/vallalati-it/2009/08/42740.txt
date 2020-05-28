@@ -1,0 +1,11 @@
+Megbéníthatóak egyes Cisco switchek és routerek
+
+A Catalyst 6500 switcheken és Cisco 7600 routereken található Firewall Services Module (FWSM) tûzfalszolgáltatás bizonyos módon megtervezett IPv4-es ICMP (Internet Control Message Protocol) üzenetekkel úgy támadható, hogy a szoftver mûködésképtelenné válik, vagyis nem továbbítja az adatcsomagokat. ICMPv6, vagyis IPv6 hálózaton ez a jelenség nem áll fenn. A sebezhetõségre a Cisco támogatási esetek kapcsán jött rá, a hibát kihasználó rosszindulatú támadások nem ismertek.
+A csomagszûrést és mély csomagvizsgálatot végzõ FWSM a bejövõ ICMP üzenetek egy bizonyos mintázatának feldolgozását követõen túlterheli a szoftvert kiszolgáló hálózati processzort, felhalsználva az összes rendelkezésre álló erõforrást, így az egyéb adatforgalom kezelése is ellehetetlenül. Ennek eredményeként a tûzfal képtelenné válik a switch vagy router interfészei között a csomagok továbbítására, vagyis praktikusan megbénul az eszköz, leáll a szolgáltatás.
+
+Az így megakadt FWSM szolgáltatást újra kell tölteni ahhoz, hogy ismét mûködõképessé váljon. A Cisco biztonsági tanácsadója szerint ezt IOS alatt a hw-module module [a FWSM szlotszáma] reset, míg CatOS esetén a set module power up|down [modulszám] parancs kiadásával lehet megtenni. Ezzel természetesen még nem válik megoldottá a helyzet, a FWSM modult frissíteni kell, vagy pedig a hálózaton egy korábbi ponton szûrni kell az ICMP forgalmat ahhoz, hogy védetté váljanak az ilyen switchek és routerek.
+A Cisco közlése szerint az FWSM 2.x, 3.1, 3.2 és 4.0 fõkiadások mind érintettek. A 2-es sorozathoz nem létezik megfelelõen patchelt változat, a cég azt javasolja, hogy a javított 3-as vagy 4-es generációra migráljanak a felhasználók. Az FWSM 3.1(16), 3.2(13) és 4.0(6) verzióktól követõen már védettek az ICMP DoS-támadással szemben. Amennyiben valamilyen okból nem célszerû vagy megoldható a frissítés, úgy az FWSM elé eszközt kell telepíteni, mely megszûri az ICMP forgalmat, és csak azokat az üzeneteket engedi át, melyek létfontosságúak egy hálózat üzemeléséhez - a javasolt IOS ACL szûrési lista megtalálható a közlöny Workarounds szekciójában.	     
+                  
+                  
+                  
+                   

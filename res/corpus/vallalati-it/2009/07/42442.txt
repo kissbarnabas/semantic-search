@@ -1,0 +1,10 @@
+Magyar nyelven is elérhetõ a Windows Vista SP2
+
+A Windows Vista és a Windows Server 2008 SP2 május 26-án jelent meg a Microsoft letöltési oldalán, késõbb pedig a Windows Update automatikus frissítõszolgáltatáson keresztül is. A javítócsomag akkor szokás szerint csupán egy ötnyelvû lokalizácót tartalmazott, azaz csak angol, német, francia, spanyol és japán nyelvû operációs rendszerekre lehetett telepíteni. A Microsoft letöltés központjában tegnap megjelent, és a Windows Update-re azonnal kitett SP2-változat a redmondi cég operációs rendszerei által támogatott valamennyi lokalizációt tartalmazza, beleértve a magyart is.
+
+A Vista és Windows Server 2008 SP2 az eddig megjelent hibajavítások mellett olyan újdonságokat tartalmaz majd mint a Blu-ray és Bluetooth 2.1 támogatása, illetve a Windows Search 4, bár utóbbi kettõt különálló frissítésként már eddig is letölthették a felhasználók. A javítócsomag része a Windows Connect Now, ami a vezeték nélküli hálózatok konfigurációját egyszerûsíti, illetve lehetõség lesz exFAT fájlrendszer esetén UTC idõt használni, így idõzónák között is zökkenõmentesen lehet állományokat szinkronizálni. A Windows Server 2008 SP2-be integrálják a Hyper-V virtualizációs köztesréteget is, amely a szerverekre szánt operációs rendszer végleges kiadását követõen jelent meg.
+A magyar nyelvre lokalizált Windows Vista és WIndows Server 2008 SP2 x86-os, x64-es és ia64-es verziója elérhetõ a Microsoft letöltési központjából, illetve a Windows Upfate automatikus frissítõszolgáltatáson keresztül. A rendszergazdák számára továbbra is rendelkezésre áll egy ISO-állomány, mely DVD-re kiírva a javítócsomag összes verzióját tartalmazza.	     
+                  
+                  
+                  
+                   

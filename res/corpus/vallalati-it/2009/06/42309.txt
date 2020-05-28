@@ -1,0 +1,14 @@
+Teljesítményt és fogyasztást is mér az új SPECweb benchmark
+
+A webszerverek teljesítményének elfogadott mércéje eddig a SPECweb2005 volt, ezt váltja le a SPECweb2009. Az új tesztprogram SSL-lel titkosított elektronikus banki tranzakciókat, SSL-lel titkosított és anélküli e-kereskedelmi tranzakciókat, valamint nagy állományok letöltésével járó online terméktámogatási feladatokat szimulál annak érdekében, hogy képet adjon egy konfiguráció webkiszolgálási feladatok alatt mutatott teljesítményérõl, amelyre a processzor sebessége mellett a hálózati teljesítmény,a memória-sávszélesség és -késleltetés, valamint a háttértárak sebessége van leginkább hatással.
+A korábbi változattal ellentétben és a legújabb trendeknek megfelelõen a SPECweb2009 már nem csak szerverek teljesítményét a fogyasztás függvényében vizsgálja. Az e-kereskedelmi feladat a teszt során 6 különféle terheléssel is lefut és a program minden eredmény mellett eltárolja a szerver energiafogyasztását is -- minden teszt maximális terheléssel indul és fokozatosan csökken az üresjárat felé. Az új benchmark emellett elkülöníti a PHP és JSP futtatás során mért eredményeket is, így azok energiahatékonysága is külön elemezhetõ. 
+Egyre fontosabb paraméter a fogyasztás
+A szerverek teljesítménye mellett ma már a fogyasztásuk is fontos szempont a kiválasztásánál: egy belépõ kategóriás x86-os szerver élettartama alatt bekerülési költségét meghaladó értékû energiát fogyaszt el. A gyártók minden szinten igyekeznek takarékoskodni az energiával, hatékonyabb hardverek beépítése mellett például jobb hatásfokú tápegységek vagy alacsonyabb fordulaton dolgozó hûtõventilátorok beépítésével.
+Az iparágban elfogadott teljesítménytesztjeirõl ismert SPEC (Standard Performance Evaluation Corporation) 2007-ben adta ki elsõ benchmarkját, amely kimondottan a szerverek energiahatékonyságát igyekszik feltérképezni. A SPEC reményei szerint az energiahatékonyságot összehasonlíthatóbbá
+tévõ benchmarkok a jövõben a vevõket és rajtuk keresztül a szállítókat
+az energiatudatosság felé tereli, amihez korábban nem volt bárki
+számára hozzáférhetõ, független metrika. 
+A SPECpower_ssj2008 szerveroldali üzleti Java-alkalmazást reprezentáló benchmark a rendszer
+különbözõ processzorterheltségi (0-100 százalék 10 százalékpontos
+lépcsõkben) szintjein méri a teljesítményt, miközben naplózásra kerül a
+fogyasztás is. Valószínû, a jövõben megjelenõ összes SPEC benchmakrnak részét képezi majd az energiafogyasztás mérése is.

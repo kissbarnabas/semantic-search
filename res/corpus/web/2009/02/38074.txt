@@ -1,0 +1,61 @@
+Kipróbáltuk: FRITZ!Box Fon WLAN 7270, a fullextrás hálózati hub
+
+Hazánkban alighanem meglehetõsen kevés egyéni vagy vállalati felhasználó számára cseng ismerõsen az AVM név, pedig a három betû mögött álló német cég, az AVM Computersysteme Vertriebs GmbH jelentõs hálózatieszköz-szállítónak számít mind a német, mind az európai piacon. Az 1986-ban alapított, mindössze 460 fõt foglalkoztató berlini vállalat saját fejlesztésû készülékeinek portfóliója elsõsorban az xDSL technológiára épülõ megoldásokból és ISDN kisközpontokból áll. Vagy éppen e kettõ kombinációjából létrejött eszközökbõl.
+
+
+
+Funkciótárház furcsa név alatt
+
+Ilyen, kombinált eszköz az AVM kissé furcsán csengõ FRITZ! márkaneve alatt futó FRITZ!Box Fon WLAN 7270 típusú hálózati hubja, mely elsõ ránézésre leginkább egy közönséges útválasztónak tûnik, a dizájnos burkolat alatt valójában azonban egy meglehetõsen komplex kommunikációs infrastruktúra rejlik. A gyártó augusztusban jelentette be a prémiumkategóriás hálózati eszközt, mely útválasztó mellett ADSL2+ modemet, vezeték nélküli kézibeszélõket kiszolgáló DECT-bázisállomást és egy kisebb telefonközpontot is magába integrál. A funkciók felsorolása ráadásul ezzel még messze nem ért véget.
+
+
+
+
+A FRITZ!Box Fon WLAN 7270 a bejelentése után csaknem fél évvel járt elõször Magyarországon, és csak most jutott el szerkesztõségünkbe, ahol a próbaidõszak alatt jellemzõ módon nem tudtuk kihasználni minden funkcióját, és nem azért, mert a HWSW kommunikációs infrastruktúrája elmaradott vagy rosszul optimalizált lenne. Az eszköz zsenialitása, egyben legnagyobb csapdája éppen abban rejlik, hogy legalább két-három másik berendezést képes kiváltani, egy már meglévõ elemekbõl összeállt rendszert azonban nem feltétlenül ésszerû lecserélni rá.
+
+Az AVM hálózati hubja tiszta lappal indulva azonban ideális, költséghatékony választás lehet akár otthoni felhasználóknak, akár kisebb irodáknak: ha a frissen felhúzott lakásban, irodahelyiségben csak néhány vezeték lóg ki a falból, és a lehetõ legegyszerûbb, leghatékonyabb módon kell kommunikációs infrastruktúrát kiépíteni, a különálló berendezések helyett jó alternatíva a FRITZ!Box Fon WLAN 7270.
+
+
+
+
+A készülék beépítve tartalmazza az ADSL2+ modemet, így a szolgáltatótól nem szükséges a frissen bekötött internetkapcsolat mellé modemet vásárolni, de ha van már modemünk, úgy természetesen sima routerként vagy hubként is használható az eszköz. A kábelek összekötése pofonegyszerû, az AVM egy speicális, Y-kábelt csomagol a FRITZ!Box mellé, melynek egyik végét a DSL-splitterbe, másik végét az analóg vagy ISDN telefonvonal fali aljzatába kell bedugni.
+
+A lapos dobozhoz az Y-kábel mellé két analóg telefonkészüléket és egy ISDN-terminált köthetünk (ISDN és analóg vonalat azonban értelemszerûen nem használhatunk egyszerre), jutott hely egy USB-kapunak is, melyhez tárolóeszközt, USB-hubot vagy nyomtatót csatlakoztathatunk, valamint négy Fast Ethernet csatlakozónak. Ha meglévõ hálózathoz, vagy DSL/kábelmodemhez csatlakoztatjuk a FRITZ!Boxot, a négy LAN-csatlakozóból az elsõt kell használnunk.
+
+Konfigurációs felület
+
+A kábelek csatlakoztatása után következhet az eszköz konfigurációja, melyet egy átlátható, logikusan felépített és esztétikus felületen végezhetünk el, vagy a mellékelt CD-n lévõ szoftvert is segítségül hívhatjuk. Ha kábellel kötöttük össze a számítógépünket a FRITZ!Boxszal, a fritz.box címet beírva a böngészõbe máris elénk tárul a webalapú felület, az eszköz alapállapotban nem kér sem felhasználói nevet, sem jelszót -- ezt a beállítást ajánlott azonnal megváltoztatni, még akkor is, ha a router a vezeték nélküli klienseknek nem tárulkozik ki automatikusan. A berendezés egy a kezdõk számára is egyszerûen használható varázslóval segíti az alapbeállításokat, a komoly szakértelmet igénylõ paraméterezési lehetõségek megjelenítését külön menüpontban kell engedélyezni.
+
+
+
+
+A FRITZ!Box Fon WLAN 7270 egyike azon kevés vezeték nélküli kommunikációt használó hálózati berendezéseknek, melyek gyárilag bekapcsolt WPA-titkosítással érkeznek, az alapértelmezett kulcs a készülék hasán és a mellékelt telepítõlemezen található CD-n lévõ matricán egyaránt megtalálható. A router egyébként a modern vezeték nélküli hálózati eszközöktõl elvárhatóan már draft-802.11n rádióval rendelkezik, azaz az adatátvitel sávszélessége ideális körülmények közt túlszárnyalja a vezetékes összeköttetés sebességét.
+
+
+
+
+Azokhoz a számítógépekhez, melyeket nem lehet elérni vezetékkel, ugyanakkor nem rendelkeznek WLAN-modullal sem, az AVM saját USB-s WLAN-vezérlõjét ajánlja. A FRITZ!WLAN USB Stick N szintén egy draft-802.11n-kompatibilis rádiót tartalmaz, különlegessége pedig abban rejlik, hogy a FRITZ!Box USB portjába dugva saját memóriájába átmásolja a biztonsági beállításokat (biztonsági kulcsok, SSID), így a számítógéphez csatlakoztatva minden további beállítás nélkül képes azonnal kapcsolatot teremteni a routerrel.
+
+
+
+
+A vezeték nélküli kommunikációs modullal kapcsolatban érdemes még szót ejteni a manapság oly divatos energiatakarékos funkcióról, melynek mûködése a már említett adminisztrációs felületen jól nyomon követhetõ. A WLAN-rádió többféleképpen is kiiktatható, így a készülékre került nyomógomb mellett a telefonon bepötyögött kódsor, vagy az adminisztrációs felületen beállított idõintervallum elérése is kikapcsolja a Wi-Fi-t. A térerõ ráadásul az éppen aktuális felhasználási körülmények alapján igény szerint dinamikusan változtatható, az eszköz így még kevesebb árammal beéri mûködés közben (a FRITZ!Box átlagosan 6 wattot fogyaszt a gyártó szerint).
+
+
+
+
+Szintén a WLAN-modulhoz köthetõ az a kétségtelenül látványos funkció, mely csatorna és frekvenciasáv-szerinti leosztásban ábrázolja a teljes spektrumot. A rádió biztonsági beállításait is innen érhetjük el: mint említettük, a FRITZ!Box alapesetben bekapcsolt WPA-titkosítással érkezik, emellett használhatunk MAC-szûrést, a felderítés megnehezítése érdekében pedig az SSID-broadcastot is kikapcsolhatjuk -- hasonlóan, mint a legtöbb vezeték nélküli routernél. Az internet felõl érkezõ támadásokat tûzfal fogja meg, a számunkra fontos csomagok célba érkezésérõl az UPnP-vel vagy kézzel nyitható portok gondoskodhatnak. A dinamikus IP-címosztás mellett MAC-azonosítók alapján fix IP-címeket is adhatunk egy-egy hálózati eszközünknek, noteszgépünknek.
+
+A telefonközpontot is kiváltja
+
+A FRITZ!Box Fon WLAN 7270 a hálózati funkciók mellett ISDN vagy analóg telefonközpontként is munkára fogható, ráadásul ehhez még vezetékes telefonok csatlakoztatására sincs feltétlenül szükség, a berendezés ugyanis egy maximum hat telefont kezelõ DECT-bázisállomást is kapott, mellyel tapasztalataink szerint pár másodperc alatt szinkronizálható a vezeték nélküli kézibeszélõ, feltéve, hogy támogatja a DECT-GAP szabványt. A bázisállomás a CAT-iq modulációs technológiának köszönhetõen elvileg jobb hangminõséget nyújthat a legtöbb hasonló megoldásnál, analóg telefonvonalat használva azonban mi nem vettünk észre semmiféle minõségbeli különbséget.
+
+
+
+
+
+A telefonközpontra kötött készülékekkel akár konferenciabeszélgetés is kezdeményezhetõ, a hívásátirányítás, hívásvárakoztatás és az üzenetrögzítõ szintén alapvetõ funkció. Utóbbi kérésre képes arra, hogy a beérkezett üzeneteket megadott e-mail címre továbbítsa, hangfájl-csatolmányként. A rendszer ezen kívül híváslista-részletezõt is küldhet az adminisztrátornak.
+
+Okos készülék, reális áron
+
+Az AVM multifunkciós hálózati hubja, a FRITZ!Box Fon WLAN 7270 a nálunk töltött rövid ismerkedési idõszak során õszintén lenyûgözött minket sokoldalú tudásával, melyet a jól átlátható, logikus (igaz, olykor kissé németes angolra fordított) kezelõfelülettel és a mindvégig stabil üzemmel csak tovább tetézett. A készülékbe mindössze egy ponton tudunk belekötni: talán szerencsésebb lett volna, ha a gyártó Fast Ethernet helyett gigabites LAN-portokat épít be a dobozba. Mindez aligha növelte volna meg jelentõsen a már amúgy is kissé borsos, ugyanakkor az eszköz tudásához képest reálisnak tûnõ, nagyjából hatvanöt-hetvenezer forintos fogyasztói árat. A berendezéssel együtt használható FRITZ!WLAN USB Stick N adapter ára körülbelül nyolcezer forint.

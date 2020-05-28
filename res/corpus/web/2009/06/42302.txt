@@ -1,0 +1,16 @@
+A keresõk találatainak finomítását célozza a Xurch
+
+A kiegészítõ telepítése után a felhasználók ha beütnek egy kifejezést a keresõmezõbe, akkor a program egy felugró ablakban további ajánlott szavakat dob fel, melyekkel pontosítható a találati lista. A plug-in használható egyes híroldalakon és webáruházakban is.
+
+
+
+
+Miután a felajánlott szavak valamelyikére kattint a felhasználó, a keresés újra lefut, kiegészülve a választott szóval, illetve egy újabb ablakban további kifejezések jelennek meg a következõ lépcsõhöz. Ha például valaki rákeres a Google-ön vagy a Bingen a "cseresznye dzsem" szavakra, akkor a keresõmezõ körül megjelenõ rétegen a dkg, cukor, receptek és egyéb releváns szavak jelennek meg. Bármelyikre kattintva a keresés magától lefut és újra kezdõdik a kör.
+
+
+A Xurch jelenleg Internet Explorer 6,7,8, illetve Firefox 2 és 3 alatt fut. A támogatott oldalak listája viszont még elég rövid: a Google, Yahoo, Bing keresõk mellett az msn.com, live.com, webmd.com, cnn.com, fujitsu.com, archive.org, illetve az amazon.com kerültek be a kalapba. Sajnos a Xurch elég buta, s URL alapján ismeri fel a keresõket is, tehát a Google különbözõ lokális változatain hiába futhatna technikailag, mégsem indul el. A Google például automatikusan átdobja a magyar felhasználókat a google.hu címre, ahol viszont még nem mûködik a Xurch. 
+
+
+
+
+Egyébként a használata egyszerû, gyors és nem zavaró, külön tanulni semmit nem kell. Egészen addig, amíg az egérkurzor nem kerül a keresõmezõ felé, addig láthatatlan, s lehúzva a kurzort, azonnal el is tûnik. Amennyiben valakinek mégsem nyerte meg a tetszését, akkor egyszerûen a kiegészítõk listájában megkeresve egy pillanat alatt el is távolítható nyom nélkül. A kiegészítõ letölthetõ a hivatalos oldalról, a Xurch.com-ról. Régebben a Xurch talán forradalmi ötlet lett volna, de a Google Wonder Wheel után már alig eredeti a dolog, bár kétségkívül hasznos.

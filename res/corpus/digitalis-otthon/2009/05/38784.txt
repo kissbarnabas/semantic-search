@@ -1,0 +1,24 @@
+Megéri a pénzét a Last.fm
+
+A Last.fm a világ egyik legnépszerûbb online zenei szolgáltatása, mely nem egyszerûen egy tematikzus webrádió, hanem egy zenei közösségi szolgáltatás, ahol a "scrobbling" adatgyûjtõ funkció révén minden felhasználó egy saját zenei profillal rendelkezik, amibõl a rendszer a látványos statisztikák mellett személyre szabott "rádióadókat" vagyis egyedi streameket is képes generálni. A Last.fm nem on-demand szolgáltatás, tehát nem lehet egy-egy konkrét zeneszámot elindítani, hanem elõadóra vagy címkékre szûkítve lehet adásokat indítani.
+
+
+ 
+
+Az új lejátszó a korábbihoz képest jóval nagyobb felületû lett, a megnövekedett területet leginkább arra használja fel, hogy az épp játszott zeneszámhoz, illetve elõadóhoz kapcsolódó fotókat jelenítsen meg. Ezen kívül hangsúlyosabb helyre került a "rádió megosztása" gomb, aminek segítségével két kattintással meg lehet osztani ismerõseinkkel az épp hallgatott rádiót, akár Last.fm-en belül, akár Facebookon, Twitteren, vagy delicious-on keresztül.
+
+Gyors és szép új felület
+
+Az újdonságok szerencsére nem érnek véget a vizuális tuninggal. Az új AJAX-os rádió kezelõfelületén megmaradt az egyszerûség. Új elemként a fent említett fotó funkció kikapcsolása került be, illetve a "scrobble" ki-bekapcsolása is bekerült végre. Eddig ha valaki bejelentkezve, weben keresztül hallgatta a rádiót, akkor a listákba automatikusan bekerültek a számok.
+
+
+ 
+
+Az igazi meglepetés viszont az új rádió indításakor éri a felhasználókat, ami egy gombnyomással elérhetõ minden esetben a rádió felületérõl. Végre a Last.fm felhasználók kapnak egy készségszintû, könnyen kezelhetõ, átlátható felületet, ahonnan egy helyrõl lehet indítani bármilyen rádiót, s nem kell végigklikkelgetni több profiloldalt, mire eljutnak a kívánt eredményig.
+
+
+Az új szélesebb rádiófelület a csatornaválasztás módban tovább bõvül, s jut hely egy óriási keresõmezõnek, alatta a legutóbb hallgatott 4 csatornának is. Alul a saját címkéink rádióit, illetve saját lejátszási listáinkat varázsolhatjuk elõ egy kattintással, illetve az alap rádiók is külön helyet kaptak (library, recommendations, loved tracks, neighbourhood.
+
+Multi-tag rádió, a régen várt lehetõség
+
+Az igazi újdonság, ami már nem csak a felületet jellemzi, hogy mostantól lehetséges több címkével vagy több elõadóval leírt csatornák indítása is. A Multi-tag illetve a Multi-Artist rádiók indításának lehetõsége sokat finomít a rendszeren, hiszen eddig csak akkor lehetett pontosan definiálni egy stílust, ha külön címke létezett rá. Ezek után nyugodtan lehet ráhangolódni a a brit lounge zenékre vagy éppen a kifejezetten a 40-es éveket idézõ jazz muzsikákra. Az újdonságokat a nem fizetõ felhasználók is kipróbálhatják, amennyiben nem merítették még ki az ingyenes hallgatás havi 30 számos keretét.

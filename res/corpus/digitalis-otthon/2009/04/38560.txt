@@ -1,0 +1,12 @@
+Húsvét után érkezik a Bluetooth 3.0
+
+A Bluetooth 3.0 újdonsága, hogy az alacsony teljesítményfelvétellel mûködõ Bluetooth 2.1 rádió rendszerét, illetve az EDR-t (Enhanced Data Rate) ötvözi a 802.11 nagy sebességû adatátvitelével. Így a jövõben megjelenõ mobilkészülékek és kiegészítõik képesek lesznek villámgyorsan adatokat cserélni egymás közt anélkül, hogy Wi-Fi hálózatra kellene csatlakozniuk.
+
+A fejlesztés alapötlete abból indult ki, hogy két eszköznek a jövõben képesnek kell lennie arra, hogy akár nagy méretû fájlok is gazdát cseréljenek elfogadható idõ alatt. Egy videó vagy egy fotóalbum átvitele egyik telefonról a másik hosszú percekig tart még az EDR-képes Bluetooth 2.1-et támogató készülékekkel is. A mobilkészülékekben ma már nem ritka a több gigabájtos tárhely, az adatátvitel sebességének növekednie kell, hogy az extra kapacitás ne csak egy jól mutató sor legyen a specifikációk között, hanem valóban használni lehessen.
+
+A gyakorlatban úgy mûködne a megoldás, hogy egy Bluetooth 3.0-t és Wi-Fi-t is támogató készüléken ha elindul a normál esetben Bluetooth-on keresztüli szinkronizáció, akkor a naptárbejegyzéseket, kontakt adatokat átküldi, de amennyiben nagyobb fájlok, filmek, zenék kerülnek sorra, akkor a kommunikáció átvált Wi-Fi-re. A telefon BT-vezérlõje értesíti igényérõl a számítógépet, ami a gyorsabb 802.11 szabványú vezeték nélküli kapcsolatra tereli a fájlátvitelt. A nagy fájlok másolása után pedig visszatér a szokásos Bluetooth-kapcsolat.
+
+
+A kizárólag fájlátvitelre használt mód ad-hoc kapcsolatként mûködik, így az eszközökön nem szükséges emiatt beállítani a Wi-Fi hálózatot, nincs szükség kulcsra, az azonosítást elvégzik a gépek egymást közt Bluetooth-on.  
+
+A Bluetooth 3.0 április 21-én kerül hivatalosan is bemutatásra, s ugyan a technikai részletek már nyilvánosak, de az csak akkor derül majd ki, hogy mely chipgyártóknak áll már rendelkezésre az új változatot támogató terméke. Mivel a SIG lényegében egy gyártói csoportosulás, ezért soha nem jelentik be az elkészültét semmilyen megoldásnak, mielõtt legalább néhány beszállító nem rendelkezik mûködõ, gyártásra alkalmas prototípusokkal.

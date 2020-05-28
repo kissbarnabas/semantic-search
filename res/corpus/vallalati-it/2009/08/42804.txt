@@ -1,0 +1,11 @@
+Privát felhõket kínál az Amazon
+
+Az Amazon Virtual Private Cloud (VPC) nem tesz mást, minthogy VPN hozzáférést biztosít az EC2 felhõben létrehozott gépekhez. A VPN-en keresztül értelemszerûen kiterjeszthetõ a vállalati hálózat, a cloudban lévõ gépekhez a rendszergazdák tetszés szerinti IP-t rendelhetnek, és természetesen a hozzáférést is szabályozhatják. A hagyományos, publikus EC2 installációk ezzel szemben az Amazon által elrendelt belsõ és külsõ IP címeket kapnak. A VPN titkosításáról az IPsec gondoskodik, ami lehetõvé teszi a meglévõ vállalati védelmi eszközökkel történõ együttmûködést.
+
+A VPC-n belül alhálózatokat és átjárókat hozhatunk létre, és IP-tartományokat rendelhetünk tetszõlegesen hozzá. Az Amazon garantálja, hogy a felhõjében így létrehozott gépeink izoláltak maradnak, és a saját hálózatunkban megszokott megoldásokat alkalmazhatjuk azok összekapcsolásához. Hogy a felhasználók észreveszik-e azt, hogy a saját gépeken vagy az Amazonnál fut-e a szolgáltatás, kizárólag teljesítménybeli kérdés.
+Ahogyan az Amazon több felhõszolgáltatása, úgy a VPC sem követel meg hosszútávú szerzõdést, sem belépési díj nincs, kizárólag a használat után kell fizetni. A hagyományos cloudszolgáltatás (Amazon Web Services) díjain felül óránként 5 centet számítanak fel VPN-kapcsolódásonként, ami havonta 36 dollárt jelent - a hálózati forgalomért természetesen fizetni kell. Mindez azt jelenti, hogy rendkívül gyorsan és beruházás nélkül vagyunk képesek IT-erõforrásokat bevonni.
+A Cisco Integrated Services és Juniper J-sorozatú routerek biztosan együttmûködnek az Amazon VPC-vel. Jelenleg a VPC-k nem képesek közvetlenül az internet felé is kommunikálni, ez azonban a jövõbeni fejlesztési terveken már szerepel. A VPC egyelõre bétában van, ami azt jelenti, hogy elméletileg kizárólag az Egyesült Államok keleti partja számára kínálják, és felhasználónként egyetlen virtuális felhõt hozhatunk létre, egyenként 20 alhálózattal, és egyetlen VPN kapcsolódással. További részleteket a szolgáltatás honlapján, valamint az AWS blogján találhatunk.	     
+                  
+                  
+                  
+                   

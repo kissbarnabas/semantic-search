@@ -1,0 +1,14 @@
+Megérkezett a népszerû Norton Ghost legújabb változata
+
+Ha adatmentés, akkor Norton Ghost: a Symantec bejelentette a világ kétségkívül legnépszerûbb adatmentõ alkalmazásának legújabb, 14-es változatát. Az új szoftver már FTP szerverekre is képes menteni és a Vistát is teljeskörûen támogatja.
+
+
+
+A Norton Ghost 14.0 a korábbi verziókhoz hasonlóan fõként teljes rendszermentésre alkalmas, a merevlemez(ek) komplett tartalmát menthetjük el, illetve állíthatjuk vissza a segítségével. Mostantól akár hálózati adattárolókra (NAS), vagy akár FTP-szerverekre is menthetjük adatainkat. A Ghost tömörít és inkrementális mentést is támogat, tehát az újabb és újabb mentések során csak a változásokat rögzíti, jelentõs mennyiségû tárhelyet spórolva ezzel.
+
+
+Az új, 14-es változatban megtalálható a Symantec ThreatCon biztonsági figyelmeztetõ rendszer, mely kiterjedt veszélyes internetes támadások esetén automatikus mentéseket indíthat, megvédve ezzel a felhasználó rendszerét. A Norton Ghost emellett természetesen adott állományok vagy könyvtárak mentését is lehetõvé teszi.
+
+
+
+A Norton Ghost legújabb változata integrálódik a Google Desktop asztali keresõmotorral is, így a mentésekben egyszerûen kereshetünk is. A legújabb változathoz a legegyszerûbben a Symantec online boltján keresztül juthatunk hozzá, ajánlott ára mindössze 69,99 dollár (~12 ezer forint).

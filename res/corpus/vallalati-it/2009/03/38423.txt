@@ -1,0 +1,16 @@
+A kisvállalatokra gondolt hálózati adattárolóival a Seagate
+
+Kimondottan irodáknak, kisvállalatoknak szánt hálózati adattárolóval jelentkezett a Seagate. A vadonatúj BlackArmor terméksorozat elsõ két tagját olyan cégeknek ajánlja a gyártó, amelyek nem akarnak sokat veszõdni a telepítéssel, beállítással.
+
+
+
+A BlackArmor NAS 420 és 440 egyaránt négy meghajtót fogadhat, a 420-ban alapkiépítésben 2x1 terabájt, a 440-ben pedig 4x1 terabájt található, de 2 terabájtos meghajtókkal akár 8 terabájtig is bõvíthetõk. Az üzem közben cserélhetõ SATA diszkek a nagyobb adatbiztonság érdekében RAID 0,1,5 vagy 10 tömbbe is szervezhetõk, de akár JBOD-módban is használhatók. A hálózati csatlakozásról két gigabites Ethernet-port gondoskodik, emellett 4 USB-kapu is helyet kapott a BlackArmorokon, az ide csatlakoztatott tárolók tartalmát is le tudják menteni.
+
+
+ A vállalat szerint az eszközök egyszerûen használhatók, a beépített LCD-kijelzõn leolvashatók a legfontosabb státuszüzenetek és riasztások és a webes kezelõfelületet is úgy alakították ki, hogy intuitív legyen, a beüzemeléshez nincs szükség informatikai szakértelemre.
+
+
+
+A BlackArmor NAS eszközök legfeljebb 50 PC-rõl képesek biztonsági mentést végezni, de természetesen hálózati adattárolóként is használhatók (CIFS, NFS, FTP, Bonjour és Microsoft RALLY protokollon keresztül) állományok, dokumentumok megosztására, amiket egy böngészõ segítségével a helyi hálózaton kívülrõl, az interneten keresztül HTTP vagy HTTPS segítségével a világon bárhol el lehet érni. Az eszköz támogatja a DLNA (Digial Living Network Alliance) szabványt ás iTunes-szerverként is mûködhet.
+
+A BlackArmor NAS 420 ára két darab 1 terabájtos merevlemezzel 799 dollár, a 440-es változat négy darab 1 terabájtos diszkkel már 1199 dollárba kerül, 8 terabájtos kiépítés esetén azonban már 1999 dollárt kérnek érte.

@@ -1,0 +1,14 @@
+Hamarosan élõ adást is közvetítenek a Joost új bétájával
+
+Hosszú idõt követõen újra frissült a Bittorrent peer-to-peer (P2P) technológiáját alkalmazó internettelevíziós szoftver, a Joost. A nagy verzióugrás egy teljesen új funkciót hozott magával, egy Live ponttal bõvült a kategóriák köre, azaz hamarosan élõ adásokat is nézhetünk az alkalmazással.
+
+
+
+Az elsõ élõ közvetítések a sportrajongóknak szólnak, a március 20-án startoló egyetemi bajnokság meccseit ( NCAA March Madness) lehet majd élõben megtekinteni a Jooston keresztül. A mûsorok felbontása, minõsége a jelenlegi csatornák kínálatának megfelelõ lesz. A Joost jelenleg egy tesztcsatornával próbálgatja mire képes rendszere, ez az adás azonban eddig körülbelül egy óráig volt fogható, jelenleg csak egy logó látható rajta.
+
+
+Az élõ adások közvetítésével a Joost az egyre nagyobb számú internetes videodisztribúciós szolgáltatások -- például a legutóbb indult Hulu -- közül szeretne kitûnni. Az nem lehet kérdéses, talál-e majd tartalomszolgáltató partnert az élõ adásokhoz, hiszen jelenleg is számtalan jogtulajdonossal lépett partnerségre a cég, megszámlálhatatlan csatorna kínálatából válogathatunk, illetve válogathatnak az észak-amerikai internetezõk.
+
+
+
+A Joost egy Bittorrent kliens futtatásához hasonlóan mûködik, videók megtekintése közben -- sõt, a tálcába bépülõ szoftvernek köszönhetõen mindaddig, míg konkrétan be nem zárjuk az alkalmazást -- mi magunk is az disztribúciós rendszer részei leszünk, a feltöltési sávszélességünk egy részét is igénybe veszik a videók újabb nézõkhöz történõ eljuttatásához. Mobil internetet használva meg se próbáljuk elindítani, havi adatmennyiségünket pillanatok alatt felzabálja a Joost.

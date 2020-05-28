@@ -1,0 +1,56 @@
+Végre itt az Ubuntu 8.04
+
+Megérkezett végre az új Ubuntu disztribúció, a sokak által régóta várt "Hardy Heron", azaz "Merész Kócsag". Az operációs rendszer 8.04 verziója két változatban lesz elérhetõ, asztali gépek és szerverek számára. A most kiadott változat érdekessége, hogy ún. LTS, azaz Long Term Support disztribúciók, ami azt jelenti, hogy az Ubuntu mozgalom mögött álló Canonical a desktop verzióra három, a szerver változatra öt évig vállal támogatást, vagyis addig garantáltan lesznek javítások, frissítések.
+
+ 
+
+Ubuntu 8.04 LTS Desktop Edition
+
+Az Ubuntu 8.04 desktop változata egy modern Linux-disztribúció, amely tartalmazza a megszokott szabad forrású szoftverek legújabb változatait, valamint a fejlesztõk szerint minden eddiginél több eszközmeghajtót, hogy a lehetõ legkevesebbre csökkentsék a kompatibilitási problémákat. Érdekesség, hogy a csomag karbantartói úgy ítélték meg, a Firefox 3 ötödik bétája megfelelõen stabil ahhoz, hogy az Ubuntu 8.04 elsõdleges böngészõje legyen. 
+
+
+
+
+
+Az újdonságok között említhetõ még az F-Spot fotókezelõ alkalmazás új verziója, amely az eddigieknél jobban szót ért a különféle digitális fényképezõgépekkel, illetve a kamerával felszerelt mobiltelefonokkal. Az Ubuntu az ígéret szerint minden eddiginél több USB-s multimédiás eszközt támogat, köztük számos MP3-lejátszót, illetve a Sony PlayStation Portable-t is. Apró figyelmesség, hogy az Ubuntu 8.04 asztalán nem csak óra, hanem naptár is található, a felhasználók pedig tetszõleges mennyiségû figyelmeztetést állíthatnak be maguknak, így biztosan nem maradnak le semmilyen fontos eseményrõl, találkozóról.
+
+Történtek fejlesztések a multimédia területén is, az alapértelmezett videolejátszó, a Totem már a YouTube-videóktól sem jön zavarba, emellett teljesen integrálták a MythTV-vel, valamint a TVR-rel, így a felhasználók ugyanabból az alkalmazásból játszhatják le a videóket és nézhetik a tévéadásokat, amiket akár merevlemezre is rögzíthetnek. Szintén a multimédia terén újdonság, hogy az Ubuntu 8.04-ben már a PulseAudio gondoskodik a hangzásról, amiben nem csak az összes alkalmazás hangerejét lehet külön állítani, hanem tetszõleges szoftver hangját a hálózaton keresztül más gépekre is elküldhetjük stream formájában.
+
+
+
+
+
+A nagyobb biztonság és könnyebb kezelhetõség érdekében a PolicyKit is az asztali operációs rendszer része. Ez lehetõvé teszi, hogy a magasabb szintû jogosultságokat ne egy egész program, csak annak bizonyos komponensei kapják meg, ezáltal a lehetõ legfinomabban beállíthatók a jogosultságok a szoftverekhez, csökkentve a biztonsági kockázatokat. Az Ubuntu 8.04 natív támogatást biztosít az AppArmor és SELinux biztonsági megoldásokhoz is. A rendszergazdák örömére az xvnc mellett már a Vinagre is használható az asztal távoli elérésére.
+
+Windows mellé is telepíthetõ
+
+Az Ubuntu fejlesztõi azokra is gondoltak, akiket mindig is csábított a linuxos világ, de nem szerették volna feltúrni a windowsos rendszerüket a szabad operációs rendszer kedvéért. Az õ számukra jelenthet megoldást a Wubi, amivel az Ubuntu Windows alá, a már meglévõ partíciókra is telepíthetõ, nem kell hozzányúlni a merevlemez-struktúrához. A Wubi Windows alól is futtatható a telepítõ CD-rõl, az operációs rendszert pedig egy ubuntu alkönyvtárba telepíti arra a merevlemezre, melyre szeretnénk. A számítógép indulásakor választhatunk a Windows, vagy az Ubuntu között.
+
+
+ A telepítés során csupán azt kell megadnunk, hogy melyik merevlemezre, partícióra szeretnénk telepíteni az operációs rendszert, az mennyi helyet foglalhat el maximum, illetve meghatározhatjuk a nyelvet, az alapvetõ felhasználói nevet és jelszót. A Wubi használatával nem kell particionálni a merevlemezt, illetve az egyetlen könyvtárba telepített operációs rendszer rendkívül könnyen, Windows alól eltávolítható.
+
+
+
+
+
+Azok számára, akiknek megtetszett az Ubuntu, de idegenkednek a használatától, vagy egyszerûen csak nem ismerik ki magukat rajta, a Canonical webes tanfolyamot is indított. Az Ubuntu weboldalon elérhetõ tananyag során a felhasználók elsajátíthatják az operációs rendszer telepítésére, beállítására és kezelésére vonatkozó legfontosabb ismereteket, illetve a disztribúció által tartalmazott fontosabb szoftverek használatát. A tanfolyam ára 100 dollár, de az Ubuntu bevezetésével kacérkodó vállalatok mennyiségi kedvezményt kaphatnak.
+
+A szerverváltozat újdonságai
+
+Az Ubuntu friss szerverdisztribúciója számos újdonságot felvonultat, ezek közé tartozik például a FreeRadius azonosítás, a Munin szerverfelügyeleti eszköz, az OpenVPN, vagy a hálózati mentésre szolgáló Bacula. Ehhez kapcsolódó fejlesztés, hogy az Ubuntu 8.04 már támogatja az iSCSI eszközöket, valamint tartalmazza a hibatûrõ fürtözött rendszerek építéséhez használatos DRBD-t, amelyet hálózati RAID 1-nek is szoktak hívni.
+
+A fejlesztõk megerõsítették a kernelt, emellett az operációs rendszerbe integrálták az AppArmort, illetve a hozzá szükséges házirendeket, amelyekkel a lehetõ legnagyobb biztonság elérése érdekében az alkalmazások jogosultságait a szükséges minimumra lehet korlátozni. Az AppArmorhoz elõre elkészített házirendek is vannak az Ubuntu 8.04-ben. További, a biztonsággal kapcsolatos fejlesztés a szerveroldali tûzfal, ami elsõsorban webszerverek, levelezõszerverek esetében lehet fontos. 
+
+
+
+
+
+Az Ubuntu 8.04 KVM segítségével valósítja meg a szervervirtualizációt. A KVM leginkább abban tér el a VMware-tõl vagy a Xentõl, hogy a Linux kernelre épít, nem pedig saját mikrokernelt alkalmaz. A 2006 eleje óta fejlesztett szoftver hardveres virtualizációs támogatást igényel a processzorok oldaláról (Intel VT és AMD-V), szemben az akár teljesen szoftveresen mûködni is képes hypervisorokkal, mint a VMware vagy a Xen. A virtualizáció hardveres támogatása ma már szinte minden szerverprocesszorban megtalálható, így a KVM-et ezen a téren szinte semmi hátrány nem éri.
+
+Windowst is használó vállalatok számára lehet örömhír, hogy a Likewise Opennek köszönhetõen aza Ubuntu 8.04 Active Directory környezetbe is integrálható, az Ubuntu elõzõ szerverváltozatát, a 6.06-ot használó vállalatok annak örülhetnek, hogy zökkenõmentesen frissíthetik rendszereiket 8.04-re. A Sun Microsystems és a Canonical együttmûködésének köszönhetõen az Ubuntu 8.04 szerverváltozata bevizsgáltan fut a Sun x64-es szerverein, beleértve az X2100 M2-t, X2200 M2-t, valamint az X4150-et. Az Ubuntu 8.04 szerverváltozatához öt évig kínál támogatást a Canonical. 
+
+Az Ubuntu Linux 8.04 desktop és szerverváltozata mától ingyenesen letölthetõ a www.ubuntu.com weboldalról, a magyar változatért pedig a www.ubuntu.hu weboldalt érdemes felkeresni.
+
+Véleménye van?
+Szóljon hozzá a fórumban
+írjon szerkesztõségünknek!

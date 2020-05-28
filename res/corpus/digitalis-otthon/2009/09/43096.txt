@@ -1,0 +1,18 @@
+Még szebb és még jobb az SPB Mobile Shell
+
+Az SPB Mobile Shell 3.0 esetében is a legnagyobb hangsúlyt a fejlesztõk az egyszerûségre és testreszabhatóságra helyezték, amin a 3.5-ös változatban még tovább tudtak javítani, illetve még több windowsos felület került takarásba, így egy átlagos felhasználó, leszámítva az üzenetküldést, szinte sosem jut vissza a Windows menükig.
+Gyorsabb felbontásváltás
+A szétcsúsztatható, qwerty-billentyûzetes okostelefonok tulajdonosai is örülhetnek, ugyanis a 3.5-ös verzió már simán veszi a felbontásváltást, s kevesebb mint egy másodperc alatt vált nézetet, ellentétben a korábbi változattal, ahol akár 4-5 másodpercig is eltartott ugyanez. Az elrendezés is javult némileg, de egy sûrûbb, álló nézetû Home képernyõ még így is összecsúszik fekvõ módban. A használhatóság ennek ellenére kitûnõ, s az SPB teljes en versenyképes a HTC Touchflo 3D-vel is. Talán annyi különbség van, hogy az SPB, lévén nem gyári kiszerelésben érkezik, kevésbé ágyazódik be az operációs rendszerbe, inkább csak felé települ.
+A Home képernyõk közül továbbra is a professzionális és a lifestyle módok közül választhatunk, de valójában mindkettõ teljesen testre szabható egyéni felszereltséggel. Le lehet tiltani is egyiket vagy a másikat és mostantól az is beállítható, hogy hány rendelkezésre álló ablak legyen elérhetõ, amik között az Androidhoz vagy iPhone-hoz hasonlóan lehet görgetni. A widgetek hozzáadása is jóval áttekinthetõbb lett, a lista helyett kis ikonok jelzik õket, s a különbözõ méretek és változatok nem külön kapnak helyet a listában, hanem a felrakás után egy külön menübõl változtathatóak a skinek, beállítások.
+
+Közösségi web mánia
+Az újdonságok között több webes widget is található, többek közt bekerült egy Google keresõ, amely a kifejezés begépelése után megnyitja az alapértelmezett böngészõt, ahol azonnal a találati oldal jelenik meg. Emellett Twitter- és Facebook-widgetek is megjelentek, melyek sajnos nem alkalmasak arra, hogy a közösségi hálózat eseményeit kövessük velük, tehát nem is konkurálnak a többi klienssel, csak  üzenetet lehet velük küldeni, anélkül, hogy el kellene indítani egy nagyobb klienst. A beállítás után mindkét esetben jóvá kell hagyni, hogy az SPB Home frissíthesse a profilunkat, s ezután fõoldalról lehet tudatni státuszunkat.
+
+Szintén a Facebookkal kapcsolatos újítás, hogy a kontaktlistán belül a kedvenc adatlapokhoz egy egyszerû megoldással lehet Facebook-profilokat társítani, ahonnan például fényképek töltõdnek le az adott személyhez. Kellemes meglepetés az idõjárás-elõrejelzõ fejlõdése is, ahol a várható hõmérséklet  mellett az éppen aktuális értékek részletes listája is megtalálható a beállított városról.
+Bekerült az SPB Mobile Shellbe egy 3D e-mail megjelenítõ program is, amiben látványos módon pörögnek egymás mögött a beérkezõ levelek, elkerülhetõvé téve a Windows saját e-mail kliensének gyakori használatát. Sajnos az üzenetíráshoz még vissza kell lépni oda, de mobilon szerencsére gyakoribb a levélolvasás, mint a válaszolgatás. A Windows Mobile nemrég kapott Gmail push támogatást, így aki eddig nem használta okostelefonját levelezésre, annak most duplán megéri kísérletezni.
+Sima frissítés
+Az SPB Mobile Shell 3.5 szinte biztosan tökéletesen mûködik majd az új Windows Mobile 6.5-tel is, a telepítése pedig továbbra sem tart néhány percnél tovább. Azok, akik korábban megvásárolták a 3.0 verziót, azoknak egyszerûen le kell tölteni az új kiadást, felmásolni a készülékre, elindítani a .cab fájlt és megvárni a telepítés végét. A régi verziót a telepítõ eltávolítja, a beállítások és az elrendezés viszont megmarad.	     
+                  
+                  
+                  
+                   

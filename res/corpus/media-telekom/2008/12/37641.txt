@@ -1,0 +1,32 @@
+Az Antenna Hungária a DVB-H-ban látja a mobilos tévézés jövõjét
+
+Miközben a közvélemény a földfelszíni sugárzású digitális tévéadás (DVB-T) bevezetésének botrányba hajló körülményeivel volt elfoglalva, az Antenna Hungária (AH) elindította az arra alkalmas mobiltelefonokkal vehetõ DVB-H sugárzást is, egyelõre kísérleti üzemmódban. Az AH már mûködõ DVB-H platformja jelenleg a magyar közszolgálati csatornák nyílt (titkosítás nélküli) sugárzására van felkészítve, a csatornaszám azonban késõbb akár húszra is növelhetõ. Más kérdés, hogy lesz-e a tartalomszolgáltatók, és legfõképpen a fogyasztók oldaláról igény a szolgáltatásra.
+
+
+
+A tesztüzemet követõen 2008. december 1-jén éleseben is elindult Budapest legnagyobb részén a DVB-H szolgáltatás. Az adás még az épületeken belül is jól vehetõ (a sajtótájékoztató helyszínén beltérben is nézhetõ volt a kísérleti adás), a kültéri lefedettség pedig Budapest határain is túlnyúlik. A DVB-H vevõvel rendelkezõ készülékek tulajdonosai jelenleg a Duna TV és a Duna II Autonómia mûsorát láthatják.
+
+A gyerekcipõben járó szolgáltatás jövõje egyelõre több szempontból is kérdéses: az Antenna Hungária által továbbított DVB-H adás jelenleg csak egyetlen széles körben kapható készülékkel, a Nokia N96-tal fogható. A finn gyártó emellett egy külsõ tévévevõ modult is beépített a kínálatába, mellyel a felhasználók már meglévõ, S60-as Nokia okostelefonjaikon is élvezhetik az adást -- így a vétel kisebb beruházással már több tízezer felhasználó számára azonnal elérhetõvé válik.
+
+A kezdeti DVB-H lefedettség Budapestre koncentrál
+
+"Nem lehet gond..."
+
+A jelenlegi technológia arra is lehetõséget ad, hogy a szabadon vehetõ mûsorok mellett fizetõs csatornák is megjelenhessenek, melyhez a meglévõ platformot tartalomvédelmi technológiával kell kiegészíteni. Bár a mûszaki feltételek már adottak, egyelõre kérdéses, hogy a kereskedelmi televíziók látnak-e üzleti lehetõséget a rendszerben. "Az AH a következõ hónapokban a mobilhálózatok üzemeltetõivel együttmûködve igyekszik megtalálni azt az optimális üzleti modellt, amely vonzó az elõfizetõk számára, és a szolgáltatók részérõl is vállalható" -- mondta el Kárpáti Rudolf, az Antenna Hungária mûsorterjesztési és mûszaki szolgáltatási üzletág-igazgatója. "Nem lehet a szolgáltatással gond Magyarországon, az Antenna Hungária tulajdonosa Franciaországban már sikeresen bevezette a szolgáltatást, van már tehát üzemelõ rendszerekkel tapasztalat" -- tette hozzá Kárpáti.
+
+Az adók jelenleg az Antenna Hungária Széchenyi-hegyi állomásáról, valamint a Száva utcából és a Hármashatár-hegyrõl sugároznak. Mindegyik adó ugyanazon a frekvencián, az UHF sávi 38-as tv-csatornán sugároz, az adók szinkronizált, egyfrekvenciás (SFN) hálózatot képeznek, ezáltal a vevõkészülékek a körzetek határán való áthaladáskor is folyamatosan vehetik a kiválasztott mûsort. Kárpáti hangsúlyozta, egyelõre nem kereskedelmi szolgáltatás a DVB-H sugárzás, a rendszer kereskedelmi bevezetésekor ugyanis az összes közszolgálati adónak és négy rádiócsatornának is kötelezõen benne kell lennie a programkínálatban.
+
+Az ingázóknak egyelõre nincs mobiltévé
+
+Kárpáti a szolgáltatás tervezett lefedettségével kapcsolatosan elmondta, hogy a szolgáltató célja hosszútávon a legalább ötven százalékos lakossági lefedettség, elsõsorban a nagyvárosokra koncentrálva. Bár a vasútvonalak mentén egyelõre biztosan nem lesz vételi lehetõség, a szakember a HWSW kérdésére válaszolva elmondta, hogy a cég szerint nem veszélyezteti a platform sikerét az, hogy a mobiltévéhez éppen az egyik legnyilvánvalóbb célközönség, a sokat ingázó diákok, dolgozók nem jutnak majd hozzá.
+
+
+Az Antenna Hungária az elmondottak alapján abban bízik, hogy a mobilszolgáltatók egyöntetûen beállnak a platform mögé, illetve sikerül a csatornaválasztékot mielõbb kibõvíteni: "Úgy saccoljuk, hogy a szolgáltatás simán elérhet 200-300 ezer elõfizetõt, ha a mobilszolgáltatók rámozdulnak. A kevés számú csatorna nem viszi elõre a platformot" -- mutatott rá az Antenna Hungária illetékese.
+
+A mobilszolgáltatók közül jelenleg a T-Mobile és a Vodafone üzemeltet elõfizetéses mobiltévé-szolgáltatást, 3G-s hálózatokra épülõ videostream-alapokon. Ez a rendszer azonban viszonylag csekély számú elõfizetõt képes megbízhatóan kiszolgálni, DVB-H rendszerben hosszú távon több nézõhöz juthat el a tartalom.
+
+Külföldön vegyes a fogadtatás
+
+Európában már üzemelnek elszórtan kereskedelmi DVB-H adások, számos tagállamban azonban a hatóságok tétlenkedése a megfelelõ frekvenciatartományok biztosításában, vagy tartalomlicencelési problémák miatt folyamatosan kitolódik a premier. Az ázsiai tapasztalatok azonban egyelõre kevés bizakodásra adnak okot, igaz, a teljesen eltérõ kultúra és demográfiai felépítés miatt nem feltétlenül lehet párhuzamot vonni a két régió közt. 
+
+Egy nemrég készült felmérés rámutat, hogy a mobiltelevízió egyik õshazájának tekintett Dél-Koreában (ahol DMB-T rendszerben sugároznak ingyenes adókat) hiába alkalmas mintegy hatmillió forgalomban lévõ mobilkészülék a tévéadások vételére, gyakorlatilag alig van érdeklõdés a platform iránt, a hat koreai DMB-szolgáltató pedig masszívan veszteséges, mivel a reklámbevételek nem fedezik az éves sugárzási költséget. Az alacsony nézõszám miatt a hirdetõk is bizonytalanok a mobil tévézés hatásosságával kapcsolatban.

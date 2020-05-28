@@ -1,0 +1,11 @@
+Súlyos biztonsági rés a DD-WRT szoftvert futtató routerekben
+
+A sebezhetõségre ismét a milw0rm.com oldalon hívta fel a figyelmet egy hacker, számolt be az esetrõl a HUP. A hacker a DD-WRT szoftver forrása, pontosabban a vele érkezõ http szerver alapján jött rá arra, hogy az böngészõn keresztül egyszerûen támadható a lokális hálózat felõl, ugyanis a httpd autentikáció nélkül is végrehajtja a kódot, ráadásul root jogosultságokkal fut. Mindez azt eredményezi, hogy a lokális hálózatból mindössze az IP-cím ismeretében támadható egy DD-WRT-t futtató router, és tetszõleges kód hajtható végre vele root privilégiumokkal.
+A DD-WRT oldalán egyelõre nem látható információ a réssel kapcsolatban, de a HUP olvasói megerõsítették a támadási lehetõség valódiságát. A milw0rm-bejegyzés alapján a szoftver v24-sp1 verziója támadható, de a HUP-os felhasználók közül egyeseknek sikerült a v24-sp2 változatot is feltörnie -- igaz, mások sikertelen próbálkozásokról számoltak be.
+
+A lokális, LAN felõli támadhatóságot súlyosbítja, hogy bár a külsõ hálózat, vagyis többnyire az internet felõl érkezõ http-kérésekre alapesetben nem reagál, úgynevezet CSRF (cross-site request forgery) típusú támadással kiaknázható a rés. A CSRF lényege, hogy a támadó egy weboldal vagy megfelelõen preparált e-mail segítségével arra utasítja a böngészõnket, hogy "látogassa" meg a routert, azaz injektáljon bele kódot -- ezt elvileg lehet érni egy szabálytalan img alt="" tag beágyazásával, mely egy szkriptre mutat.
+Védekezésként feltétlenül javasolt a DD-WRT httpd (web interface) leállítása, és a router menedzselésének SSH vagy Telnet kapcsolaton keresztüli folytatása. A leállításhoz a következõ parancsot kell kiadni a DD-WRT-nek: kill `cat /tmp/var/run/httpd.pid` vagy https-szolgáltatás esetén kill `cat /tmp/var/run/httpsd.pid`. A HUP bejegyzés a témában erre található.	     
+                  
+                  
+                  
+                   

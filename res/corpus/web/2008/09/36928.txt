@@ -1,0 +1,14 @@
+A HD-lejátszás és az AAC hangfájlok megszólaltatása sem lesz akadály a Silverlight 3 számára
+
+Bár még a második fõverziója sem jelent meg a Microsoft Flash-rivális böngészõkiegészítõjének, a Silverlightnak, a fejlesztõk már a jövõ év elején -- alig pár hónappal a Silverlight 2-t követõen -- érkezõ 3-as változat új funkcióiba engednek betekintést.
+
+
+
+A Microsfot a héten zajló amszterdami International Broadcasting Conference (IBC) keretén belül tartott elõadásában mutatja be elõször a nyilvánosság számára a Silverlight 3 korai demóváltozatát -- az interaktív médiaplatform elsõ publikus bétája az év végére várható 2-es verziót (melybõl jelenleg szintén csak bétaváltozat érhetõ el) követõen jelenhet meg. 
+
+A jövõre megjelenõ újabb, hármas változat egyik, leginkább a tartalomszolgáltatók számára hasznos és érdekes újítása a H.264-es videotömörítési kodek és a hangsávok, zenék tömörítésére alkalmazott AAC kodek támogatása lesz. A Silverlight platform  ezzel utat nyithat a tartalomszolgáltatók számára a jelenleginél jobb minõségû video- és audio-jelfolyamok közvetítésére. A Microsoft integrált médiaplatformja eddig is támogatta a HD-videók lejátszását, de csak a Windows Media alapokon nyugvó VC-1 kodekkel tömörített tartalmakat tudta lejátszani. Az Adobe ezzel szemben a Flash 9-es változatának egy frissítésével a H.264 kodek támogatását már korábban beépítette a pluginbe, a tartalomszolgáltatóknak így eddig a két platformhoz külön-külön kellett kódolniuk a videofájlokat.
+
+
+Az új Silverlight a jelenlegi MP3 és manapság legnépszerûbbnek számító WMA hangstreaming mellett támogatja majd az AAC-be kódolt hangsávok lejátszását is. A fejlesztõk felhívják ugyanakkor a figyelmet, hogy a plugin az Apple által alkalmazott Fairplay digitális másolásvédelmi eljárás korlátozásai miatt így sem tudja majd lejátszani az iTunes-rõl letöltött, másolásvédett zeneszámokat, ugyanakkor arra jó lesz, hogy az egyre gyarapodó számú AAC-streameket is meghallgathassa vele a felhasználó.
+
+A korábban Windows Presentation Foundation/Everywhere kódnéven ismert Silverlight többféle böngészõvel (IE, Firefox, Safari) kompatibilis, webalkalmazások, grafikák, animációk megjelenítésére alkalmas interaktív eszköz. A Silverlight 1.0 tavaly szeptemberben érkezett, de hamarosan itt a 2.0 verzió, amely valójában az 1.0 elsõ frissítése, de annyi újdonságot zsúfoltak bele, hogy a verziószámot egytized helyett egy teljes egésszel növelte meg a Microsoft.

@@ -1,0 +1,20 @@
+Jobban együttmûködik az SAP szoftvereivel a Lotus Notes
+
+Az SAP vállalatirányítási rendszereivel integrálta a Notes-t az IBM: a Lotusphere rendezvényen bemutatkozott a két cég által közösen fejlesztett Alloy nevû szoftver, ami márciusban jelenik meg. A Blackberryk gyártójával is szorosabban együttmûködik az IBM.
+
+
+
+Notes+SAP
+
+Az Alloy az Atlantic kódnevû közös projekt eredménye. Az IBM és az SAP célja az volt, hogy megteremtsék az átjárhatóságot a Notes, illetve az SAP Business Suite között, hogy a Notes felhasználói közvetenül képesek legyenek az SAP-szoftver adataival dolgozni, például információkat megjeleníteni, grafikonokat, kimutatásokat, ûrlapokat készíteni. Az Alloy elõre tárolt munkafolyamatokkal érkezik a vevõkhöz, azonban a Lotus Domino Designer segítségével az ügyfelek saját munkafolyamatokat is kialakíthatnak benne.
+
+
+ A Lotusphere-en több közös ügyféllel demonstrálta az IBM és az SAP az Alloy mûködését, köztük olyan nagy nevekkel mint a Colgate-Palmolive és a Coca-Cola. A rendezvényen elhangzottak szerint világszerte több ezer vállalat használ Notes-t és SAP Business Suite-ot egyszerre. 
+
+Az Alloy nem teljesen újdonság: korábban az SAP a Microsofttal közösen fejlesztett egy hasonló megoldást Duet néven. A Duet a Microsoft Office szoftvereket integrálja a mySAP vállalatirányítási alkalmazással annak érdekében, hogy a vállalati dolgozók a számukra már ismerõs felhasználói felületet és programokat használhassák arra, hogy az SAP rendszerébe adatokat vigyenek be, kérjenek le, vagy kimutatásokat készítsenek.
+
+Piaci elemzõk szerint hasznos a vállalati infomunkások által leggyakrabban használt asztali környezet integrálása a vállalatirányítási rendszerrel, azonban az Alloy éppen egy recesszió közepén érkezik a piacra és a legfontosabb elõnyei -- például idõmegtakarítás -- nehezen kimutathatóak. Az Alloyt az IBM és az SAP egyaránt értékesíteni fogja, így mindkét cég partnereinek kínálatában megtalálható lesz, illetve valószínûleg sok partner bevezetési, támogatási és testreszabási szolgáltatásokat is kínál majd hozzá.
+
+Blackberryre is
+
+A Lotusphere-en a Research In Motionnel kötött megállapodását is bejelentette az IBM. A szövetségnek köszönhetõen hamarosan a Blackberryk tulajdonosai nem csak a leveleikhez férhetnek majd hozzá, hanem a Symphonyban készült szöveges dokumentumokhoz, táblázatokhoz és prezentációkhoz, a Quickrben tárolt fájljaikhoz, illetve a Lotus Connectionben levõ blogokhoz és közösségi terekhez is. A Sametime üzenetküldõ és webkonferencia-alkalmazás kliense is elkészül BlackBerryre, a Blackberry Java fejlesztõi környezetet pedig integrálják a Lotus Domino Designerrel, egyszerûsítve az alkalmazások fejlesztését az okostelefonokra.

@@ -1,0 +1,20 @@
+Rákaptak a virtualizációra az európai cégek
+
+Az IDC európai felmérése szerint azok a cégek, amelyek megízlelték a virtualizáció édes ízét, megtapasztalták áldásos hatásait, egyre többet és többet akarnak. Az IDC 650 európai vállalatról gyûjtött adatokat IT-vezetõk megkérdezésével, az eredmények alapján a cégek fele már virtualizálja kiszolgálóit. 
+
+
+
+Az idén megvásárolt szerverek felét virtualizálják
+
+Egy, a napokban nyilvánosságra hozott elemzésbõl kiderül, hogy Európában azok a cégek, amelyek bevezették a virtualizációt, a tavaly megvásárolt szervereik több mint harmadát virtualizálták, idén pedig már több mint a felét fogják -- a legfontosabb mozgatóerõ a költségek csökkentése. Chris Ingle, az IDC vezetõ elemzõje szerint meglepõen magas a virtualizáció penetrációja Európában, a piackutatót is megdöbbentették a kapott adatok. A virtualizációt még nem használó vállalatok 54 százaléka másfél éven belül tervezi a technológia bevezetését. 
+
+Bár egyre több szervezet alapozza üzleti alkalmazásait virtuális környezetre, a legtöbben még a tesztelési és fejlesztési fázisnál tartanak, illetve hálózati alkalmazásaikat virtualizálják. A megkérdezettek 45 százaléka az új alkalmazások bevezetésénél már figyelembe veszi a virtualizációban rejlõ lehetõségeket. Az európai cégek 59 százaléka csak négynél kevesebb virtuális szervert mûködtetnek egy fizikai kiszolgálón, de vannak olyan helyek, ahol tíznél is több virtuális gép fut egy szerveren.
+
+A cégek stratégiájába egyre inkább beleivódik a virtualizáció, a felhasználók a rendelkezésre állás javítása mellett elsõsorban a katasztrófa utáni helyreállítás és a biztonsági mentések terén vetik be. Az IDC adataiból kiderül, hogy a megkérdezettek túlnyomó többségénél a virtualizáció az adatközponti stratégia része, nem kapcsolóható egyes projektekhez, ami arra enged következtetni, hogy a felhasználók széles körben, több területen is bevetik.
+
+Toronymagasan vezet a VMware
+
+A virtualizációs platform kiválasztásában a legfontosabb szempont az volt, hogy már bizonyított technológia legyen, így aztán nem meglepõ a VMware toronymagas fölénye -- az IDC felmérése szerint a vállalatok 82 százaléka erre a megoldásra szavaz. A Microsoft-alapú megoldások részesedése egyelõre 13 százalék, azonban a Hyper-V hypervisor megjelenésével ez minden bizonnyal gyorsan növekedni fog a közeljövõben. A különféle Unixok által nyújtott virtualizációs megoldást, illetve más (pl. mainframe) technológiát a szervezetek 14 százaléka alkalmaz. A Linux elterjedtsége ellenére nem népszerû virtualizációs platform, mindössze a felhasználók 3 százaléka épít rá. 
+
+
+ A virtualizáció további terjedésének legfontosabb gátja a technológiához mélyen értõ szakemberek hiánya mellett az alkalmazások nem megfelelõ licencelési konstrukciója. A virtualizációt termelési környezetben használó cégek 23 százaléka szerint az alkalmazásaik licenckonstrukciója nem felel meg az igényeiknek, míg a nagyvállalatok 33 százalékánál ez a tényezõ már korlátozza a virtualizációs megoldások még kiterjedtebb használatát.

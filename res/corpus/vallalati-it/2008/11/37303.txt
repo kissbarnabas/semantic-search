@@ -1,0 +1,20 @@
+Fájlcserélõkrõl már letölthetõ a Windows 7 elõzetese
+
+Alig néhány órával azután, hogy a Microsoft elérhetõvé tette a fejlesztõk számára készülõ új operációs rendszerének, a Windows 7-nek az elõzetes változatát, máris megjelent a letöltõoldalakon és fájlcserélõ rendszerekben, hónapokkal megelõzve a nyilvános bétaváltozat érkezését.
+
+
+
+Az illegális film-, játék-, és programmegjelenéseket követõ információs oldal, az nForce.nl adatbázisa szerint a Microsoft Windows 7 32 bites változata még október 29-én bukkant fel elõször, míg a 64 bites verzió másnap, október 30-án. Így a Microsoft hivatalos bejelentése után mindössze egy, illetve két napra volt szükség ahhoz, hogy a hivatalosan csak a fejlesztõk és tesztelõk számára elérhetõvé tett operációs rendszer gyakorlatilag teljesen nyilvánossá váljon. A nagyobb és nyitott Bittorrent-oldalak mint a PirateBay vagy a Mininova  már sokezer letöltést regisztráltak.
+
+Az  információs fájlból kiderül, hogy a feltöltött anyag nem egy tört változat, hanem pontosan ugyanaz az ISO-fájl, amit a Microsoft a bennfentesek rendelkezésére bocsátott. A lemezkép mindössze 2,7 gigabájt (a 64-bites 3,4 GB) helyet foglal, a telepítéshez pedig semmi másra nincs szükség, mint a kicsomagolt ISO-fájlt kiírni DVD-re, lefuttatni a telepítõt, a termékaktivációs kulcs helyét pedig egyszerûen üresen hagyni.
+
+
+
+
+
+A beszámolók szerint operációs rendszer a telepítés során 12 gigabájt helyet igényel, és elméletileg szerényebb hardverrel is megelégszik, mint a Windows Vista: a Windows 7 vállalhatóan fut az erõsebb netbookokon is, a minimum követelmény 1,5 GHz-es processzor és a 512 megabájt memória. Az internetre felkerült változat a fórumhozzászólások tanúsága szerint egy valóban mûködõ Windows 7 Ultimate pre-beta Build 6801 változatot telepít, de híresztelések szerint a TechNet-elõfizetõk közül sokan már november végén hivatalos Béta 1 változatot kaphatnak.
+
+
+A Windows 7 bemutatója hivatalosan múlt hét kedden volt a Los Angeles-i Microsoft PDC-n, és a szoftver elõzetesét a konferencia összes résztvevõje megkapta, így nem meglepõ, hogy a program hamar elérhetõvé vált lényegében bárki számára. A Microsoft minden valószínûség szerint számított arra, hogy a pre-beta változat felkerül az internetre, hiszen korábban több szoftvere is, mint az IE 8, a Windows Vista SP1 és az XP SP3 is hamarabb volt elérhetõ fájlcserélõkön keresztül, mint a hivatalos forrásokból.
+
+Ennek fényében nem is várható, hogy a Microsoft jogi lépéseket tenne a felelõsök felkutatására, mint ahogy az Apple tette anno az OS X 10.5 esetében. Igaz a publikus bétatesztelés csak 2009 elején kezdõdik majd a Microsoft hivatalos közlése szerint, de liberálisan gondolkodva, a nyilvánosságra került változat nagyobb mennyiségû tesztelõt, alaposabb vizsgálatot, részletesebb visszajelzéseket és kifinomultabb véleményeket jelent majd a vállalatnak, mielõtt a funkcióstop fázisáig elérnének.

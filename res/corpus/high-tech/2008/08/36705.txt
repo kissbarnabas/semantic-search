@@ -1,0 +1,14 @@
+Még kisebb az Intel SSD-je
+
+Az Intel piacra dobta netbookokba szánt flashmeghajtójának még kisebb változatát. A korábbi, 40-tûs PATA csatlakozóval felszerelt verzió továbbra is forgalomban marad, az egyszerûség kedvéért mindkettõt Z-P230 néven forgalmazza az Intel.
+
+
+
+Az eredeti, júniusban bemutatott Z-P230 SSD-k is csak negyedakkorák voltak mint egy szabványos 1,8 hüvelykes merevlemez és mindössze 11 grammot nyomtak, az új változat még kisebb, egy PCIe minikártya (30x50,95x3,8 mm) méretû. Egyéb specifikációit tekintve a két változat megegyezik, mindkettõbõl 38 megabájtot lehet kiolvasni másodpercenként, írási sebességük pedig 10 MBps, fogyasztásuk terhelés alatt 314 milliwatt, üresjáratban pedig 1,65 milliwatt.
+
+
+
+
+ A netbookok jelentõs része -- a kategóriát megteremtõ Asus Eee-sorozat elsõ tagjaihoz hasonlóan -- merevlemez helyett flash memórián alapuló meghajtót tartalmaz. Ennek oka legfõképp, hogy az apró, 7-10 hüvelykes kijelzõvel szerelt készülékekbe már az 1,8 hüvelykes merevlemezek is túlságosan nagyok. Az SSD-k további elõnye az alacsonyabb fogyasztás, ráadásul az ilyen gépekbe épített 4-8 gigabájtos változatok olcsóbbak is mint a tányéros meghajtók, és nem tartalmaznak mozgó alkatrészt, így strapabíróak és zajtalanok is.
+
+A Z-P230 meghajtó 4 és 8 gigabájtos méretben kapható, listaáruk rendre 25 és 45 dollár. Az Intel szeptemberre ígéri a 16 gigabájtos változat érkezését.

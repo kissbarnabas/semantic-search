@@ -1,0 +1,21 @@
+A világ talán legnagyobb alkalmazás-piacterét hozza létre a Sun
+
+A JavaOne konferencián a Sun elnök-vezérigazgatója, Jonathan Schwartz jelentette be a Java Store-t, amely a Java-alkalmazások globális katalógusa kíván lenni. Schwartz szerint a Java Store lehetõvé teszi a 6 milliónál is több fejlesztõ számára több százmillió potenciális felhasználó elérését, a felhasználók pedig különféle alkalmazásokhoz juthatnak hozzá egyszerûen a piactér segítségével, amely egységes felületen, rendszerezve teszi elérhetõvé a különféle programokat, legyen szó üzleti megoldásokról, közösségi alkalmazásokról vagy éppen játékokról. 
+Hatalmas piac
+
+A Java Store egy olyan végfelhasználói alkalmazás, amely lehetõvé teszi Javában és JavaFX-ben készült alkalmazások böngészését és letöltését."Egy Fortune 500-as nagyvállalatnak és egy kis szoftvercégnek ugyanaz az elsõdleges szükséglete, elérni a vevõket. A Java platform több felhasználót ér el világszerte majdnem minden más szoftverplatformnál" -- mondta Eric Klein, a Java marketingért felelõs alelnök. "A Java Store lesz a legérdekesebb, leghasznosabb és legszótakoztatóbb Java szoftvereket és tartalmakat keresõk célpontja."
+
+
+
+
+
+A Sun becslései szerit világszerte több mint 800 millió PC alkalmas
+Java-alkalmazások futtatására, ezzel a Java a harmadik legelterjedtebb
+szoftverplatform a Windows és az Adobe Flash mögött. A jelenleg
+használatban levõ PC-k több mint 90 százalékára telepítve van a Java.
+
+A Java Store zárt bétatesztje már elkezdõdött, de egyelõre csak az Egyesült Államokból lehet rá jelentkezni. Maga a Java Store alkalmazás egyébként JavaFX-ben készült és indulásakor a Java futtatókörnyezet (Java Runtime Environment) frissítéseként automatikusan jut majd el felhasználók százmillióhoz világszerte. A Store-ban megjelenõ alkalmazásokat pofonegyszerûen, mindössze az asztalra húzással lehet majd telepíteni. Egyelõre nem tudni, milyen fizetési megoldások mûködhetnek majd a Java Store-ban, hogy melyik országokban lesz elérhetõ a szolgáltatás, illetve hogy pontosan mikor indul.
+Partnereknek is
+
+A fejlesztõk számára már megnyitotta kapuit a Java Warehouse, ahová az alkalmazásokat várja a Sun. Az ide feltöltött szoftverek kerülnek be a Java Store-ba, de a Java Warehouse lehetõvé teszi más cégek, például mobilszolgáltatók vagy kábeltévé-szolgáltatók számára, hogy saját alkalmazás-piacterük kínálatát bõvítsék. Világszerte 2,6 milliárd, Javát támogató mobil eszköz van használatban a Sun szerint, emellett több mint 40 millióra rúg a Java-programok futtatására képes szórakoztató berendezések (pl. tévékészülékek, settop boxok) száma. 
+A Sun célja a Java Store-ral, hogy aprópénzre váltsa azt a hatalmas felhasználói és fejlesztõi tábort, amely a Java mögött áll. Az üzleti modell a bevételmegosztáson alapul, a Java Store-ból megvásárolt programok árából a Sun részesedést kap, ám egyelõre nem nyilvános hogy mennyit.

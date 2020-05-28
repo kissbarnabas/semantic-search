@@ -1,0 +1,14 @@
+A Western Digital elsõként érte el a 2 terabájtos álomhatárt
+
+A Western Digital (WD) a merevlemezek piacán a világon elsõként érte el a 2 terabájtos álomhatárt. Legújabb, 3,5 hüvelykes formátumú merevlemeze a legnagyobb kapacitású a világon, megelõzve a Seagate legnagyobb, 1,5 terabájtos meghajtóját. Az új rekordhoz egyúttal rekordot döntõ adatsûrûség is társul, ez teszi lehetõvé a minden korábbit meghaladó kapacitást. 
+
+
+
+A WD20EADS modellszámú Caviar Green merevlemez SATA 3 Gb/s csatolófelülettel, 32 MB cache-sel rendelkezik, fordulatszáma pedig 5400 és 7200 között dinamikusan alakul, amit beágyazott szoftver vezérel a teljesítmény és fogyasztás közötti egyensúly megtalálásához. A 2 terabájtos HDD egy új vibrációcsökkentõ technikát is alkalmaz, zaja tartósan legfeljebb 29 decibelt tesz ki, fogyasztása pedig maximum 7,4 watt. A részletes adatlap itt található.
+
+
+Kettõ terabájt kapacitásért a WD 300 dolláros végfelhasználói árat javasol az Egyesült Államokban, ami Európában 250-260 euróra, vagyis a jelenlegi gyenge forint mellett 75-80 forint körüli árra fordulhat le, azaz a csúcstartó HDD kapacitásarányosan egyelõre drága például a Seagate 1,5 terabájtos meghajtójához viszonyítva -- lényegében kétszeres árat kér el harmadával több tárterületért.
+
+A 2 terabájtos meghajtó négy tányérja egyenként 500 gigabájtnyi kapacitással bír, ez négyzethüvelykenként átlagosan 400 gigabit kapacitássûrûséget jelent a tányérok felületére vetítve. Ne gondoljuk azt, hogy ezzel a technológia teljesítõképessége határaihoz érkezett, létezik már 800 gigabit/négyzethüvelyk feletti kapacitássûrûség is, amelyet a TDK-nak sikerül elérnie, igaz, jelenleg még csak laboratóriumi körülmények között. A vállalat tavaly októberi bejelentésekor úgy vélte, ez 1 terabitre is kitolható a technológia további finomhangolásával, mielõtt a továbblépéshez szükségessé válna az alapvetõ váltás az adatrögzítési technológiában. 
+
+A Hitachi szerint a fejlesztés alatt álló új, úgynevezett CPP-GMR (Current-Perpendicular-to-Plane Giant Magneto-Resistance technológiával 2011 után 4 terabájt feletti asztali, és 1 terabájtos mobil (2,5 hüvelykes) merevlemezeket lehet majd elõállítani. A Western Digital mai bejelentésében felhívta rá a figyelmet, hogy igenis van igény az ilyen extrémnek tûnõ kapacitásokra, az 1 terabájtos vagy nagyobb HDD-k aránya 10 százalék körüli a 3,5 hüvelykes értékesítésen belül.

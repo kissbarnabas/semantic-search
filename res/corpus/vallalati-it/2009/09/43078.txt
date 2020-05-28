@@ -1,0 +1,11 @@
+Blade-formátumú Nexus kapcsolót mutatott be a Cisco
+
+A Nexus sorozatot tavaly nyáron jelentette be a Cisco. A vállalat termékkínálatában a Catalyst és az MDS közé ékelõdõ Nexust az a felismerés hozta életre, hogy a jövõ adatközpontjában a szerverek és tárolók egységes kommunikációs felülete a 10 gigabites Ethernet lesz, ezen keresztül zajlik majd lényegében mindenfajta adatforgalom. A Nexus a Cisco által Unified Fabricnak hívott 10Gb Ethernetre épül, kiegészítve FCoE-támogatással.
+A családnak már számos tagja volt, a 7000-es core switch, az 5000-es access switch, a 2000-es "fabric extender", illetve a Nexus 1000V, amely egy szoftveres kapcsoló virtualizált környezetek számára. A Nexus az azóta a Cisco 100 százalékos tulajdonába került Nuova Systemsszel közös, másfél milliárd dollárt felemésztõ, 1500 szabadalmat eredményezõ fejlesztés eredményei. Pletykák szerint egyébként a Cisco saját blade szervereit is a Nuova Systems fejlesztette ki, hogy a vállalat szerverpiaci tervei a lehetõ legtovább titokban tudjanak maradni.
+
+A Cisco Nexus 4000 egy blade keretbe illeszthetõ megoldás, amelynek feladata a blade szerverek felõl érkezõ gigabites Ethernet kapcsolatok aggregálása egy 10 Gb Ethernet kapcsolatba a rackbe épített Cisco Nexus 5000 vagy egy Cisco Nexus 7000 központi switch felé. A switch lelke egy egyedi fejlesztésû alkalmazásspeficikus áramkör, az operációs rendszer pedig a Nexus család többi tagjából ismert NX-OS, amely az IOS kezelõfelületéhez szokott mérnökök számára már ismerõs lesz, azonban képességei jóval túlmutatnak az IOS-en. A Nexus 4000 támogatja a FibreChannelt, a FibreChannel over Ethernetet (FCoE), az iSCSI-t, valamint a 802.1 Data Center Bridging szabványt.
+A switch nem kerül kereskedelmi forgalomba, a Cisco OEM partnerei vásárolhatják meg, illeszthetik saját blade megoldásaikhoz és értékesíthetik, így aztán a Nexus 4000 megjelenésének idõpontja és ára sem a Ciscón múlik.	     
+                  
+                  
+                  
+                   

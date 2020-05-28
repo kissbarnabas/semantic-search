@@ -1,0 +1,12 @@
+Banális sebezhetõséget javítottak a Freemailben, a Citromail talán még mindig sérülékeny
+
+Helyi és távoli kódfuttatást lehetõvé tevõ sebezhetõséget javítottak a Freemailen -- számol be az AndreiGround Online. A több mint egymillió felhasználót kiszolgáló webes levelezõrendszer egyáltalán nem ellenõrizte a levelek tárgyát, ide a küldõ tetszõleges HTML-kódot vagy JavaScriptet írhatott, ami a levél megnyitásakor automatikusan lefutott. Közben hasonló hibát fedeztek fel a Citromailben is.
+
+
+
+A Freemailezõk valószínûleg nem is voltak tisztában vele, milyen veszélyben voltak. A tárgy mezõbe írt kódokkal támadók a beleegyezésük nélkül átirányíthatták volna õket például egy kártékony kódot tartalmazó weboldalra, vagy akár JavaScript segítségével maguk csempészhettek volna ártó programokat a felhasználók gépeire. Ha egy postafiókban az így preparált levél volt az egyetlen, abban a kód már mappanézeben lefuthatott, ugyanis a levelet a Freemail ilyenkor automatikusan megnyitja.
+
+
+ A hiba ellen a scriptfuttatás tiltásával sem lehet védekezni, ugyanis a Freemail mûködéséhez elengedhetetlen a JavaScriptek engedélyezése. A távoli scriptek letiltása sem jelentett megoldást, ugyanis a levelek tárgyába ágyazott scriptek már lokálisnak számítanak, hiszen a helyi kódhoz fûzõdnek és helyben hajtódnak végre -- olvasható az AndreiGroundban. A T-Online-t tegnap hajnalban értesítették a sérülékenységrõl, amelyet délutánra ki is javítottak a fejlesztõk.
+
+Az AndreiGround beszámolója alapján a fent leírthoz rendkívül hasonló sérülékenység van a Citromail webes levelezõben is, ahol a tárgy mezõn kívül a levél törzsében is el lehet helyezni tetszõleges kódot, ami lehet akár ártó szándékú is. A sebezhetõség felfedezõi már tájékoztatták a másfél millió postafiókkal rendelkezõ Citromail üzemeltetõit.

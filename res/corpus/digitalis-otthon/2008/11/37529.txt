@@ -1,0 +1,22 @@
+Hiányolják a frissítést az iGO 8 tulajdonosok
+
+Míg az újonnan vásárolt, Nav N Go IGO 8-cal szállított navigációs készülékeken már frissített szoftver és térképverzió található, addig a már iGO 8-at használó, de korábbi PNA-k, illetve az iGO 8 PDA-n futó változatai (melyet külön SD kártyán lehet megvásárolni) nem kaptak eddig frissítést. A szoftvert megvásárló felhasználók joggal panaszkodnak, hiszen illegális forrásból már beszerezhetõ a frissebb térképszett. Többen hátrányos megkülönböztetésnek érzik, hogy a fizetõ felhasználók számára késve érkezik a várt tartalom.
+
+
+
+Aggodalom
+
+A komoly felhasználók számára azért ennyire fontos a jelenlegi frissítés, mert egyrészt számos olyan fontos útvonal nyílt meg Magyarországon, ami érdemben befolyásolja a tervezést (pl. M0, Megyeri híd), másrészt a magyar térképeken eddig nem elérhetõ sávinformáció is megtalálható a frissítésben, legalábbis ez derül ki a legújabb iGO8-alapú PNA készülékek tesztjeibõl. 
+
+Szerkesztõségünk megkereste a Nav N Go ügyfélkapcsolati felelõsét, aki elmondta, hogy "a Nav N Go Kft. nem adott ki sem a Nav N Go iGO 8 PDA verzióhoz, sem pedig az ezt a platformot használó PNA eszközökhöz térképfrissítést. Azokat egy idõben tesszük majd elérhetõvé". A cég képviselõje emellett beszélt arról, hogy a napokban fogják bejelenteni a www.naviextras.com portált, ami jelenleg még csupán bétaállapotban van, regisztrálni már lehet, de az ígért frissítéseket és bõvítéseket letölteni még nem.
+
+ 
+
+Viszlát, asztali szoftver!
+
+Felvetõdik a kérdés, hogy szintén nem túl régi, a frissítések kezelésére létrehozott Content Manager szoftver sorsa mi lesz. A cég állítása szerint az iGO My Way 2006 kezeléséhez továbbra is erre lesz majd szükség, de az iGO 8 egészen más licencelési eljárást és térképformátumokat kezel, ezért egy teljesen új eszköz fejlesztése jobb megoldásnak bizonyult, mint a Content Manager továbbfejlesztése. A Content Manager bevezetése az iGO 8 esetében csak ideiglenes volt, a cég ügyfélkapcsolati felelõse szerint csupán az új online eszköz elkészültéig kiadott frissítések terítése érdekében volt rá szükség és a Toolbox elkészültével az iGO 8 platform tekintetében szerepe megszûnik.
+
+
+ A Nav N Go képviselõje elismerte, tudnak arról, hogy kalózkópiák formájában gyakorta hamarabb elérhetõvé válnak tartalmak, ami véleménye szerint óhatatlanul megtörténik, bármit is tesznek. Ezek viszont szerintük többnyire hibásak vagy nem teljesen kompatibilisek a navigációs szoftverek különbözõ változataival, és a barkácsolásból származó hibákért nem is tudnak felelõsséget vállalni.
+
+A frissítések és az új felület kiadásának pontos dátuma egyelõre nem ismert, viszont a Nav N Go képviselõje a HWSW szerkesztõségének elmondta, hogy a www.naviextras.com portál éles indulásáról napokon belül sajtóközleményt adnak ki.

@@ -1,0 +1,10 @@
+Újabb összecsapásra készül az AMD és az NVIDIA
+
+[Digitimes/HWSW] Egy hónapon belül piacra kerülhetnek az AMD és az NVIDIA következõ generációs fejlesztései. A tajvani Digitimes videokártya gyártókra alapozva úgy tudja, az R700 chipcsaládra épülõ Radeonok júniusban kerülnek piacra, ahogyan az új GeForce-ok is ez idõ tájt érkeznek.
+
+
+
+A Digitimes értesülései szerint a felsõ-középkategóriás Radeon HD 4850 június közepén, a felsõkategóriás 4870 végén érkezik majd, utóbbi GDDR5 memóriával.  Az új termékek már az AMD R700 kódnéven ismert architektúrájára épülnek, melynek fejlesztései tavaly decemberben zárultak le, és néhány hónapja már termékközeli állapotba kerültek, miután mindössze néhány apróbb szilíciumrevízióra volt szükség a chip validációjához a HWSW ismeretei szerint. Az R700 generációra épülõ videokártyák egyes szegmensekben kétszeres teljesítmény kínálnak majd azonos árért.
+
+
+A negyedik negyedévben érkeznek a tervek szerint a csúcskategóriás kártyák, a 4870 X2-k, melyek két grafikus chippel indulnak majd harcba a 100 ezer forint feletti szegmensben. Nem marad válasz nélkül azonban az NVIDIA sem, mely szintén júniusban jelenteti meg GeForce GTX 200 családját, mely a G80-nal megismert architektúra egy újabb iterációját képviseli a hírek szerint. A TSMC 55 nanométeres csíkszélességû gyártástechnológiájának köszönhetõen a pletykák szerint immár 240 feldolgozóegység kap helyet a chipen, és mintegy 50 százalékkal nyújt magasabb teljesítményt. Várhatóan számos részlet kerül majd napvilágra a június elején megrendezett Computexen.

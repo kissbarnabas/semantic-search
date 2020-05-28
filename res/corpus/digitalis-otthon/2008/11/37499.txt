@@ -1,0 +1,24 @@
+Megjelent a Fedora 10
+
+Megjelent és letölthetõ a Fedora közösségi Linux-disztribúció legfrissebb, 10-es változata, amelyben az asztali gépek felhasználói és a szerverek üzemeltetõi számára is találhatók hasznos újdonságok.
+
+
+
+Fejlesztések a desktopon
+
+Desktop-oldalon a fontosabb újdonságok közé tartozik az OpenOffice.org 3.0 és a Firefox 3 megjelenése a disztribúcióban. Az új Fedorába is bekerült az Ubuntu 8.10-bõl ismerõs felület a hálózati kapcsolatok kiválasztására, ahol a felhasználók egy panelen láthatják az elérhetõ Wi-Fi és 3G hálózatokat és innen csatlakozhatnak is hozzájuk. A NetworkManager segítségével a Fedora 10 képes megosztani a hálózati kapcsolatát másokkal.
+
+
+ Frissült a PulseAudio is, amelynek segítségével nem csak az összes alkalmazás hangereje külön állítható, hanem tetszõleges szoftver hangját a hálózaton keresztül más gépekre is elküldhetjük stream formájában. Ez már a Fedora 8-nak is része volt, a Fedora 10-be került változat azonban a fejlesztõk szerint sokkal stabilabb, megbízhatóbb mint a korábbiak.
+
+
+
+A Fedora 10 lényegesebben gyorsabban indul mint az elõdei, ez a Plymouth boot eszköznek köszönhetõ. A felhasználói felület alapértelmezésként a GNOME 2.24, amely számos apró figyelmességgel bõvült, például a Nautilus fájlkezelõ a modern böngészõkhöz hasonlóan képes füleket (tab) nyitni. A Pidgin azonnali üzenetküldõt az Empathy keretrendszerre épülõ Telepathy váltotta, ez pluginek segítségével kapcsolódhat a Microsoft Live Messenger hálózathoz, Jabber/XMPP protokollt használó üzenetküldõkhöz, IRC-szerverekhez, illetve SIP protokollon keresztül hang- és videohívásokra is képes.
+
+A fejlesztõk a hardvertámogatáson is sokat dolgoztak, a Fedora 10 a korábbinál jóval több eszközt támogat, és fejlesztettek a nyomtatókezelésen is. A disztribúció figyelemre méltó érdekessége a PackageKit továbbfejlesztése. Ez a komponens lehetõvé teszi például egy videofájl megnyitása esetén a szükséges kodekek megkeresését a beállított szoftverkönyvtárakban, majd az automatikus telepítést, így a felhasználónak ezzel egyáltalán nem kell foglalkoznia. A fejlesztõk szándékai szerint a PackageKit a késõbbiekben automatikusan fogja kezelni a hardvereket is, vagyis új eszköz csatlakoztatása esetén megkeresi, letölti és telepíti a szükséges drivert.
+
+Újdonságok a szervereken
+
+Szerveroldalon említésre méltóak a virtualizációval kapcsolatos fejlesztések, amelyek révén egyszerûbben felügyelhetõk a virtuális gépek, illetve az azokat futtató szerverek. Az asztali gépeket is érinti ugyan, de fõleg a szervereknél fontos a biztonság, a Fedora 10 ezen a téren a SecToollal erõsít, ami egy biztonsági auditálásra és behatolásvédelemre egyaránt alkalmas eszköz.
+
+A Fedora 10 32 és 64 bites x86 processzorokon, PowerPC architektúrán, Itaniumon, illetve SPARC-alapú gépeken fut. A kísérletezni vágyó felhasználók Live CD formájában is letölthetik, errõl indítva telepítés nélkül is kipróbálható a rendszer, és ha megtetszik, akkor installálható a merevlemezre. A Live CD akár egy pendrive-ra is másolható, így akár optikai meghajtó nélküli gépen is kipróbálható a Fedora 10. Kedvcsinálónak néhány képernyõkép megtekinthetõ a Fedora projekt oldalán.

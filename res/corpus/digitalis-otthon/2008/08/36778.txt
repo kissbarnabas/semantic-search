@@ -1,0 +1,16 @@
+Letölthetõ a DivX 7 HD-enkóderének elsõ próbaváltozata
+
+Elérhetõvé tette a bétatesztelõk számára a Project Rémoulade néven futó, jelenleg még fejlesztés alatt álló DivX 7 programcsomag második komponensének alfaváltozatát a DivX Inc. A cég elsõként a H.264 dekóder tesztváltozatát adta ki, melynek második bétája május végén vált elérhetõvé, mostantól pedig az enkóder alfaverziójával ismerkedhetnek a kísérletezõ kedvû felhasználók.
+
+
+
+A DivX technológiai leírása szerint az enkóder új, többnyire a HD-videóknál alkalmazott tömörítési eljárással dolgozó alfa 1-es változatával az egyelõre kidolgozás alatt álló DivX 7 H.264 HD profillal kompatibilis video bitstream állítható elõ. A parancssoros vezérlésû szoftver egyszerre több utasításszállal is képes dolgozni, így már most kihasználja a többmagos és többszálú utasításvégrehajtást támogató processzorokat. Az enkóder AVI-fájlokból, illetve az AviSynth frameszerveren lefuttatott scriptek alapján tud dolgozni.
+
+A lejátszáshoz az enkóder kimenetérõl érkezõ kész H.264 bitstreamet ezután a szükséges  programokkal (MKVMerge, MKVToolnix) az MKV konténerformátumnak megfelelõen kell átalakítani -- a teljes folyamathoz mindenre kiterjedõ, részletes leírást nyújt a fejlesztõcsapat a DivX Labs dedikált weboldalán.
+
+
+A DivX 7-hez készülõ H.264 enkódernek egyelõre számos olyan hiányossága van, melyet a készítõk ígéretük szerint a fejlesztés elõrehaladtával igyekeznek majd felszámolni. A parancssoros vezérlést így idõvel grafikus felülettel váltják majd ki, ezzel együtt a végleges verzió használata jelentõsen egyszerûbbé válik majd (a legtöbb külsõ alkalmazást nem kell majd segítségül hívni a kódoláshoz).
+
+Az új DivX egyik fontos fejlesztési célkitûzése, hogy a kimeneti videostream a lehetõ legtöbb szórakoztatóelektronikai berendezéssel kompatibilis legyen, a szoftver ezért egyebek mellett a felbontással kapcsolatban is elõír néhány minimumot és maximumot: a DivX 7 H-264 HD-be kódolt videó mérete így nem lehet majd kisebb 320x240 pixelnél, és nem lehet nagyobb 1280x720 pixelnél. A szoftver elsõ alfája mindenesetre egyelõre nem támogatja a világ legnépszerûbb hordozható multimédiás lejátszóját, az Apple iPodot, és a ráépülõ okostelefont, az iPhone-t.
+
+A DivX fejlesztõi csapata által készített H.264 enkóder letölthetõ a DivX Labs projektoldaláról.

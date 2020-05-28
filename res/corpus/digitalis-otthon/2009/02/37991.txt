@@ -1,0 +1,22 @@
+Xandros és Android is fut a Freescale ARM-alapú netbookplatformján
+
+Úgy tûnik, a Freescale nagyon is komolyan gondolja a netbookok területére tervezett kalandját, nemcsak egy bátortalan próbálkozásra készül. A vállalat a Barcelonában zajló Mobile World Congress alkalmával közölte, hogy ARM-alapú netbook platformján a Xandros Linux-disztribúciója és a Google Android operációs rendszere is futni fog. A jelenleg ismert ütemterv alapján nyár végére, õszre már a kezünkben lehetnek az elsõ ARM-alapú netbookok.
+
+
+
+Ubuntu, Xandros, Android
+
+A Freescale újévi meglepetésként jelentette be, hogy saját netbookplatformot hozott létre, melynek referenciadesignját az Asustekbõl kivált szerzõdéses gyártóval, a Pegatronnal közösen dolgozta ki. A lépést az teszi igazán izgalmassá, hogy egy új szereplõvel bõvül a PC-chipek piaca, ami nem túl gyakori esemény, ráadásul a Freescale nem a szabványosnak nevezhetõ x86-os architektúrával próbálkozik, hanem ARM-mal.
+
+
+A siker vagy bukás szempontjából kulcsfontosságú kérdés a szoftverréteg, hiszen azzal találkozik a felhasználó. A referenciadesign Ubuntut futtat, ezt azonban most kiegészítette a Xandros, valamint az elsõként okostelefonokon debütált Google Android. Ezek az operációs rendszerek gyakorlatilag teljesértékû felhasználói PC-környezeteket ígérnek, a többféle platform pedig fontosnak bizonyulhat a PC-gyártók számára, hogy helyet, mozgásteret találjanak. Hivatalosan meg nem erõsített hírek szerint az Android hamarosan az Intel Atom platformon is tiszteletét teszi majd, így 2009-ben netbookok minden eddiginél nagyobb választéka nyílik elénk.
+
+A Xandros megjelenése bizalomkeltõ, a disztribúció ugyanis már bizonyított netbookon, az Asus egy grafikus héjjal kiegészített változatát telepíti a linuxos Eee PC-kre. A Freescale számára ugyanakkor a legnagyobb probléma továbbra is az lehet, hogy PC-s Windowsnak nem létezik ARM portja, márpedig a netbookpiac jelenleg nagyjából 70 százalékát windowsos gépek teszik ki. A szegmens 30 százaléka azonban még így is elégségesen nagynak tûnik, a tavalyi 13-14 millió után idén 25-40 millió netbook értékesítését várják különféle piackutatók és cégek, vagyis a Freescale által közvetlenül megcélozható piac nagysága 3-6 millió darab lehet idén, hosszabb távon pedig a teljes piac felére ácsingóznak, ami évi több tízmilliós volument jelent.
+
+A hardver
+
+A platform lelkét adó Freescale i.MX515 rendszerchip egy ARM Cortex-A8 processzort, DDR1/DDR2-memóriavezérlõt, videofeldolgozó és grafikus magot, Ethernet-, ATA- és USB-vezérlõt is integrál. A 65 nanométeres csíkszélességû félvezetõeljáráson implementált, 1 gigahertzes chip a vállalat állítása szerint 720p felbontású videót is képes visszajátszani, miközben mindössze negyed wattot fogyaszt. Az i.MX515 igazi csemegéje az integrált 3D-grafikus mag, mely OpenGL-támogatás mellett vektoros grafikát megjelenítõ OpenVG kódok, többek közt a portolt Flash Lite hardveres gyorsítására is képes. A Freescale rendszerchipjét, kiegészítõ IC-ket és az elõre elkészített rendszerképet 20 dollárért kínálja.
+
+ 
+
+A Freescale nem titkoltan a piac alsó felét, kétharmadát célozza meg, és elismeri, hogy az Intel Atom netbookok alkalmazhatósága szélesebb körû -- a Cortex-A8 mag nyers számítási teljesítménye nagyjából egy Atoménak felét teszi ki. A vállalat igyekszik árban alá-, akkumulátoros üzemidõben pedig az atomos gépek fölé kínálni, és úgy véli, lehetõvé válnak a 200 dolláros, 8,9 hüvelykes kijelzõvel szerelt netbookok, miközben üzemidejük a 8 órát is elérheti. Az  i.MX515 rendszerchip tömegtermelése a második negyedévben indul meg, így az elsõ ARM-os netbookok felbukkanása a harmadik negyedévben várható.

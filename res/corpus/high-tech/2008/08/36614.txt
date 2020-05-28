@@ -1,0 +1,16 @@
+Nagyon gyors, ugyanakkor olcsó SSD-ket ígér még idén a Micron
+
+A negyedik negyedévben a Micron is piacra dobja új generációs, 256 gigabájt kapacitású SSD-it, melyek annak ellenére, hogy sokkal gyorsabbak lesznek a jelenleg szállított modelleknél, az alkalmazott memóriaszervezésnek, illetve a flash chipek folyamatos áreróziójának köszönhetõen jelentõsen olcsóbban is kerülhetnek piacra.
+
+
+
+Az amerikai székhelyû Micron RealSSD márkanéven fogja piacra dobni két flashalapú adattárolóját, a professzionális felhasználásra szánt, RealSSD P200-at,  és az otthoni, egyéni felhasználóknak fejlesztett RealSSD C200-at. Elõbbiek a jelenleg elterjedtnek számító, papíron elméletileg strapabíróbb és gyorsabb SLC (Single-level Cell) szervezésû flash chipeket kapják, és maximum 128 gigabájt kapacitással érhetõk majd el, utóbbiak MLC (Multi-level Cell) chipekbõl állnak majd, kapacitásuk 32-tõl 256 gigabájtig terjed majd és 1,8 és 2,5 hüvelykes formátumban egyaránt piacra kerülnek.
+
+
+
+Az MLC-s tárolók ugyan tipikusan lassabbak, mint az eddig szélesebb körben elterjedt SLC (Single-Level Cell) rendszerû NAND flashmemóriákból felépülõ egységek, viszont sokkal olcsóbbak is. A Micron egyelõre nem közölte, hogy az új flash meghajtók mennyibe fognak kerülni, mindössze annyi derül ki a cég sajtóközleményébõl, hogy az MLC-s SSD-kért a hasonló kapacitású SLC-s társaik árának harmadát kérik majd. Az egységek egyébként annak ellenére villámgyorsak lesznek, hogy az MLC felépítés elméletileg lassabb adatátvitelt nyújt: a számítógéphez Serial ATA II interfésszel csatlakozó SSD-k másodpercenként akár 250 megabájt adat kiolvasására és 100 megabájt írására lesznek képesek.
+
+
+A flashalapú háttértárolók tömeges elterjedését nagy mértékben elõsegíti az MLC felépítésû chipek alkalmazása: a világ elsõ számú memóriagyártója, a Samsung egy hónapja jelentette be, hogy szállítja elsõ MLC-s SSD-it, egyelõre 64 és 128 gigabájt kapacitással, az év során a késõbbiekben azonban ezekbõl a meghajtókból is elérhetõ lesz 256 gigabájtos változat.
+
+A Samsung becslése szerint a dinamikusan növekvõ SSD piac 2010-ig 800 százalékot bõvülhet, a piackutatók azonban úgy látják, hogy az SSD-k ezekben a távlatokban még így sem fenyegetik a merevlemezek jövõjét. A HDD-k a következõ évek során is toronymagasan a legnépszerûbb adattároló-eszközök maradnak, így az iSuppli becslése szerint 2012-ben már 845 millió merevlemez kerül leszállításra, ami átlagosan évi 10,4 százalékos bõvülést jelent a következõ 5 év során.

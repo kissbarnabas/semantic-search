@@ -1,0 +1,11 @@
+Szépségtapasz érkezett az SMB-sebezhetõségre
+
+Noha a Microsoftnak nincs tudomása olyan támadásokról, amelyek az SMB sebezhetõségét használnák és a cég ügyfelei sem jelentettek ilyet, a redmondi vállalat soron kívüli átmeneti javítást adott ki a hibára, ami azért jelzi a probléma súlyosságát. A cég egy szeptember 8-i biztonsági közleményben részletezte a sebezhetõséget, amely az SMBv2 implementációjával kapcsolatos. Az SMB v2 az SMB továbbfejlesztett változata, amelyet csak a Windows Vista, a Windows Server 2008 és újabb operációs rendszerek támogatnak. A sérülékenységet az okozza, hogy az operációs rendszerek nem kezelik megfelelõen az SMB v2 kapcsolatfelvételi kéréseket. A Windows 7 és a Windows Server 2008 R2 nem érintett.
+
+A Microsoft azt javasolja, hogy a felhasználók a végleges javítás érkezéséig kapcsolják ki az SMB v2 szolgáltatást, és/vagy tûzfal segítségével tiltsák le 139 és 445-ös számú portokat. Az SMB v2 kikapcsolása a regisztrációs adatbázis szerkesztésével vihetõ véghez, de a vállalat weboldalán most elérhetõvé tett egy segédprogramot, amit lefuttatva kikapcsol az SMB v2. Ugyanitt megtalálható a szolgáltatást visszakapcsoló program is.
+A Microsoft szerint a sebezhetõséget nem az elvárható gondossággal hozták nyilvánosságra a felfedezõk. Késõbb a hibát megtaláló szakember, Laurent Graffie is elismerte, véletlenül rossz e-mail címre küldte az értesítést, de szerinte a Mirosoftnak tudnia kellett a hibáról, mivel a Windows 7 és a Windows Server 2008 R2 végleges változatában már javították õket. Graffie szerint egyébként a sebezhetõséget okozó hiba egy 2007-ben kiadott biztonsági javításban van, amelyet szintén az SMB protokoll sérülékenysége miatt tett közzé a Microsoft.
+Amint az ismert, a cég minden hónap második keddjén adja ki a biztonsági javításokat a szoftvereihez. Az SMB sebezhetõségének foltozása alighanem az októberi patch kedden, október 13-án érkezik majd.	     
+                  
+                  
+                  
+                   

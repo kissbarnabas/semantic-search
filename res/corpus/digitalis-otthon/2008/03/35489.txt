@@ -1,0 +1,18 @@
+A D-Link új hálózati adattárolót mutatott be a CeBIT-en
+
+A D-Link Hannoverben, a CeBIT-en mutatta be legújabb, négy Serial ATA csatolójú merevlemezt fogadni képes DNS-343 hálózati háttértárolóját. Az adatbank FTP-szerverként is üzemeltethetõ, ezért a rajta tárolt adatok az interneten keresztül is elérhetõk.  
+
+
+
+A DNS-343 technikai beállításairól és a merevlemez kapacitásával kapcsolatos információkról a burkolaton található OLED-kijelzõn is tájékozódhatunk. A hálózati tároló igen biztonságos RAID5 technológiát is kínál a megnövelt sebességû adatátvitelhez, mely megelõzi a merevlemezek meghibásodása okozta adatvesztést. A DNS-343 elsõsorban a kis- és középvállalkozások igényeinek felelhet meg.
+
+ A hálózati fájlszerver akár gigabites sebességgel is csatlakozhat a helyi hálózat vérkeringésébe, tartalmaz egy nyomtató- és egy USB2.0 portot, az FTP üzemmód mellett rendelkezik iTunes támogatással és UPnP kompatibilis. Az adattároló Windows, Linux és Mac operációs rendszerek alatt egyaránt üzemeltethetõ. A négy meghajtóhellyel akár 4 terabátjnyi kapacitás is elérhetõ
+
+
+A készülék négy mûködési módot nyújt, a &#8220;Just a Bunch Of Disks&#8221; (JBOD) minden meghajtót összekapcsolva egyetlen nagy lemezzé alakítja át. A RAID0 azonos méretû, egymással kapcsolatban álló blokkokra osztja a merevlemezt, így biztosítva a lehetõ leggyorsabb olvasási és írási sebességet. A RAID1 1:1 arányú képet tükröz minden lemezrõl a mellette levõre. A megnövelt adatátvitelt biztosító RAID5 mód ötvözi a RAID 0 és RAID 1 elõnyeit.
+
+D-Link DNS-343
+
+A D-Link adattárolója Microsoft Active Directory Server-hez is csatlakoztatható. Az irányítói szintû engedély kijelölése megvédi a fontos adatokat a jogosulatlan hozzáféréstõl, ezzel a módszerrel lehetõvé válik, hogy csak a jogosult felhasználók férjenek hozzá a számukra elhelyezett információhoz.
+
+A DNS-343 telepítése egyszerû: a mellékelt D-Link Easy Search Utility szoftver felismeri az eszközt a hálózaton, és csatlakoztatja a meghajtókat, néhány lépés után pedig automatikusan megjelenik a DNS-343 hálózati forrásként. A mellékelt háttérmásoló szoftver lehetõvé teszi az adatok kézi, folyamatos és ütemezett adatmentést.

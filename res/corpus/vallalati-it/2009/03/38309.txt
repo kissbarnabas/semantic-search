@@ -1,0 +1,32 @@
+Sun: elérkezett az ideje, hogy SSD kerüljön minden szerverbe
+
+Bár kissé késve ugyan, de korábbi ígéretéhez híven bejelentette szervereihez szánt SSD-opcióját a Sun Microsystems. A vállalat az Intel vállalati flash-meghajtóit választotta, és kezdetben több mint egy tucat géphez kínálja a lehetõséget. 
+
+
+
+Utolsóból elsõ
+
+A Sun még tavaly nyáron erõsítette meg hivatalosan azokat a pletykákat, hogy rövid idõn belül megjelennek a flash-meghajtók a  szervereiben -- a 7000-es sorozatú Sun Storage-okban már elérhetõ. A rövid idõbe 2008 nem fért bele ugyan, de így is jóval az elemzõk által várt 2010-es idõszak elõtt landolt az SSD a Sun szerverpalettáján. Bár a legnagyobb riválisainál mind jóval elõbb jelent meg az SSD, a HP, az IBM és a Dell csak blade formátumú szerverekhez kínálja hivatalosan a lehetõséget, míg a Sun egybõl átfogó portfólióval jelentkezik.
+
+A Sun ugyanis a Niagara kódnéven ismert, a cég zsargonjában pedig CMT (chip multithreading) jelöléssel illetett T-sorozatú, valamint az x86-os termékcsaládjánál is elérhetõvé tette a 32 gigabájtos kapacitású, 2,5 hüvelykes, SATA II felületû SSD-opciót, beleértve a rackelhetõ és blade formátumokat is, tekintet nélkül az operációs rendszerre --a Sun természetesen a Solarist vagy az OpenSolarist ajánlja ZFS-sel, mely képes explicit módon gyorsítótárként használni a rendszerbe épített SSD-ket. Ez jelenleg összesen 14 szervermodellt jelent, késõbb azonban a teljes szerverkínálatra kiterjeszti a Sun a lehetõséget. Az SSD-k Magyarországon is elérhetõek, árulta el lapunk megkeresésére Polner Tamás, a Sun Magyarország marketingigazgatója.
+
+ 
+
+Mérnöki lelkületébõl fakadóan azonban a Sun nem áll meg itt. A vállalat a flash memória jövõbeni széleskörû adoptációjára készül egy alaplapra közvetlenül csatlakoztatható megoldással. A jövõben minden Sun-szerverben megtalálható lesz egy DIMM-szerû foglalat, melybe egy SSD-modul illeszthetõ -- mondta el a HWSW-nek Fischer Erik, a Sun Magyarország mûszaki igazgatója.
+
+
+Ezt az úgynevezett Open Flash modult, melynek specifikációit szabaddá tette a vállalat, a rendszer hagyományos SATA/SAS-eszközként fogja látni, legnagyobb elõnye pedig az, hogy nem foglal el helyet a normál kivitelû, nagyobb kapacitású SSD-ktõl és a HDD-ktõl -- egyfajta gyorsítótárként fogható fel, tervezett kapacitása 24 gigabájt, erõssége pedig a másodpercenkénti 20 ezer írási mûvelet.
+
+Mûveleti terület
+
+Az SSD-k szerveroldali megjelenésének prózai okai vannak: a kapacitásorientált merevlemezek teljesítménye képtelen lépést tartani a processzorok feldolgozási sebességével, és egyre inkább szûk keresztmetszetté válik. Egy kifejezetten magas terhelésû OLTP-rendszerben ma egyértelmûen az I/O, azon belül is a merevlemezek a leggyengébb láncszemek, és egy közepes méretû konfiguráció kiszolgálásához is már HDD-k százaira, ha nem ezreire van szükség, hatalmas külsõ diszktömbökbe szervezve. 
+
+Egy nyolcfoglalatos Xeon MP rendszer teljes kihajtásához a tranzakcionális adatbázisok alatti teljesítmény sztenderd benchmarkjaként elfogadott TPC-C alatt közel 2 ezer merevlemezt alkalmazó tárolórendszerre van szükség, mely a teljes installáció költségének nagyjából kétharmadát adja. Ez az arány hozzávetõlegesen igaz egy modern kétutas gép esetében is, a többmagos processzorok erõforrásainak szaturálásához több száz HDD lehet szükséges -- ezek a meghajtók többnyire kis kapacitásúak, a cél ugyanis az, hogy a lehetõ legtöbb fej dolgozzon párhuzamosan.
+
+A terület, ahol a HDD-technológia teljesen elvérzik, az a mûveleti sebesség, amit a mechanikus természetbõl fakadó lassú pozícionálás magyaráz. Míg emberi léptékkel szemlélve a néhány ezredmásodperces hozzáférési idõ villámgyorsnak tûnik, addig a nanoszekundumos késleltetésekhez szokott processzorok szempontjából csigalassúságú. Egy merevlemez tipikusan másodpercenként kevesebb mint 200 rövid, 4 kilobájtos olvasási mûveletet (IOPS) képes végrehajtani, miközben egy modern processzormag I/O-feldolgozási teljesítménye 10-20 ezer/s felett van. 
+
+ 
+
+Ezen javít nagyságrendeket az SSD alkalmazása. A teljesen elektronikus felépítésnek köszönhetõen megszûnik a mechanikus késleltetés és kényszerû szekvenciális mûködés. Az Intel által szállított és a Sun által rebrandelt X-25E negyvenszer gyorsabban fér hozzá egy adathoz, mint egy 15 ezres fordulatszámú 2,5 hüvelykes HDD, ráadásul párhuzamosan több mûveletet is képes kezelni, aminek eredményeként 35 ezer I/O mûveletre képes egy másodperc alatt. Ez azt jelenti, hogy szélsõséges esetben akár 200 nagyteljesítményû HDD-t is képes kiváltani. A Sun szerint egy SSD 100 darab HDD-vel ér fel, a lényeg azonban egyértelmû: apró olvasások tömegét generáló alkalmazási területeken a RAID-elt SSD-k teljes diszktömböket válthatnak ki. 
+
+Ezzel pedig drasztikusan megváltozik a tranzakcionális szerverek alá szükséges háttértár képe. A külsõ tárolótömbök iránti igény akár meg is szûnhet, jelentõsen csökken a NAS-okra vagy a SAN-ra nehezedõ terhelés, végeredményben rengeteg költséget takarítva meg, beleértve a berendezések ára mellett az üzemeltetési és energia-, valamint esetleges kolokációs költségeket. A HDD-k természetesen továbbra is megmaradnak az adatok online tárolása érdekében, de a mûveleti területet a jövõben egyértelmûen az SSD-k uralják majd.

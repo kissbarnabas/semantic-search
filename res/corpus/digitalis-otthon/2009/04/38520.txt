@@ -1,0 +1,17 @@
+Piacon az elsõ AMD Neo processzoros noteszgép
+
+A HP megkezdte Pavilion dv2 ultrahordozható noteszgépének szállítását. A notesz az AMD új mobilplatformjára épül, 12,1 hüvelykes kijelzõvel, valamint 320 gigabájtos merevlemezzel rendelkezik.
+
+
+
+A HP Pavilion noteszgép-sorozatát új modell dobja fel, mely kitöltheti az ûrt a netbookok és a noteszgépek között. A gépet a HP januárban jelentette be, azonban szállítani csak a mai napon kezdte meg. A Pavilion dv2 a netbookoknál magasabb számítási teljesítményt az AMD új mobilplatformjának segítségével éri el, alacsony, 750 dolláros ára pedig sokakat szívhat el a netbookok vásárlásában gondolkodók közül.
+
+A HP Pavilion dv2-ben alkalmazott Yukon platform egy egymagos, K8 mikroarchitektúrájú processzorból, AMD RS690E és SB600 chipkészletbõl épül fel, mely egy, az Intel megoldásainál jóval nagyobb teljesítményû ATI Radeon X1250 grafikus magot integrál. A korábban Huron kódnéven ismert  Athlon Neo processzorból az 1,6 gigahertzen ketyegõ MV-40 változat került a Pavilion dv2-be, amelyben az L2 cache mérete 512 kilobájt. A 65 nanométeres eljárással készülõ chip elektronikai kerete mindössze 15 watt.
+
+HP Pavilion dv2 
+
+A Pavilion dv2 12,1 hüvelykes, szélesvásznú, 1280x800 képpont széles kijelzõje tökéletesen illeszthetõ az ultrahordozható méretosztályba, burkolatának váza magnéziumból készül, mely egyszerre teszi a gépet könnyûvé és ellenállóvá. A rendszermemória 4 gigabájtig bõvíthetõ, a háttértároló pedig maximálisan 320 gigabájtos merevlemez lehet. A dv2 292x240x33 milliméteres méretei miatt beépített optikai meghajtóval nem rendelkezik.
+
+A mindössze 1,7 kilogrammos gépet -- annak érdekében, hogy HD-videókat is le tudjon játszani -- kiegészítették egy ATI Radeon HD 3410 videochippel is, mely 512 megabájtnyi memóriával gazdálkodhat. A beépített kijelzõ mellett külsõ megjelenítõk is használhatók, ezeket HDMI-, vagy VGA-csalakozón keresztül lehet a géphez kapcsolni.
+
+A kép mellé a hangot Altec Lansing hangszórópár adja. Külsõ perifériák három USB-kapun osztozhatnak, a bõvítõkártyákat pedig ExpressCard bõvítõrés várja. A dv2 a vezetékes LAN-aljzat mellett természetesen rendelkezik vezeték nélküli hálózati csatolóval, mely ismeri a 802.11n szabványt is. A HP Pavilion dv2 a mai naptól vásárolható meg, a legszolidabb kiszerelés 749 dollárba kerül.

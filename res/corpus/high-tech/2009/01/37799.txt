@@ -1,0 +1,36 @@
+Tényleg elérkezett a 3D-megjelenítés kora?
+
+Az idei Consumer Electronics Show (CES) egyik legnagyobb témájává egyértelmûen a háromdimenziós megjelenítési technikák nõtték ki magukat. A vezetõ elektronikai gyártók többsége demonstrált saját megoldást, és a kereskedelmi bevezetést sem a megfoghatatlan messzeségbe, hanem nagyon is közeljövõbe helyezték. A piaci terjedés legnagyobb gátja jelenleg már nem a technológia fejlettsége, hanem a sztenderdek hiánya. A 3D hosszú évek óta jön, és úgy tûnik, végre tényleg megérkezik.
+
+
+
+Játékok 3D-ben
+
+Az NVIDIA olyannyira nem csak távlati tervekben gondolkodik a háromdimenziós megjelenítésrõl, hogy már be is jelentette 3D-s kiegészítõ csomagját a PC-s játékosok számára. A 3D Vision for GeForce lényegében egy speciális szemüvegbõl és egy adóegységbõl áll, mely a szemüvegnek sugároz szinkronjelet. Frissítés: a cikk korábban tévesen állította, hogy mozgást is követne, vagyis úgynevezett head tracking megoldással bírna. A hibáért elnézést kérünk. A szemüveg nem egy hagyományos, különbözõ színekre beállított polarizáló lenecsepáros, hanem aktív eszköz, mely az LCD-panelekben használthoz hasonló folyadékkristályt alkalmaz. Ennek segítésével a szemüveg felváltva takarja el az egyik szemet, majd a másikat, a kijelzõn pedig ennek az ütemnek megfelelõen jelenik meg az egyik, vagy másik szemnek szánt kép, ezzel háromdimenziós hatást keltve.
+
+A technika elõnye a passzív színszûrõs változatokkal szemben, hogy nagyobb felbontást kapunk, és nem jelentkezik szellemkép, cserébe viszont 40 óránként tölteni kell a szemüveget, és nyilvánvalóan egy idõ után fáradás jelentkezik az akkumulátorban, tehát rövidül az üzemidõ. A másik hátulütõ az ár: a csomag ára 200 dollár az Egyesült Államokban, emellett szükség van egy 120 Hz-es kép megjelenítésére képes kijelzõre -- de legalább létezik, mûködik. A hivatalos "GeForce 3D Vision-Ready" minõsítést eddig mindössze kettõ monitor kapta meg. 
+
+Az NVIDIA szerint megfelelõ hardverek és driver birtokában gyakorlatilag bármelyik játék képét élvezhetjük a 3D-hatást keltõ váltott sztereóban, nem szükséges szoftveres támogatást beépíteni ehhez a kódba. Nem mindegyik játékkal tudja ugyanakkor ugyanazt a hatást produkálni a 3D Vision for GeForce, ezért az NVIDIA egy listát állított össze az elmúlt évek népszerû és látványos neveibõl, melyekkel kifejezetten jól mûködik a technológia -- ezek közé tartozik a Gears of War, a Half Life 2 - Episode 2, Unreal Tournament III, a Call of Duty 4 vagy a World of Warcraft is. Arról azonban nem szól a fáma, hogy ez mennyi teljesítménybe kerül, vagyis mennyivel csökken a képfrissítési sebesség.
+
+ Az NVIDIA egy másik játékipari nagyágyúja is demózott 3D játékokat a CES-en. A Sony a Las Vegasban rendezett kiállításon kinyilvánította, hogy teljes mellszélességgel belép a 3D-képalkotási termékek piacára, standján pedig a PlayStation 3 konzolon többek közt a Gran Turismo 5 Prologue futott 3D-ben. A demó láthatóan színpolarizációs sztereokép-alkotást alkalmazott, a bal és jobb kép ilyenkor egyszerre, színeltolással jelenik meg.
+
+A vállalat azonban még nem döntött arról, pontosan melyik megjelenítési módszer mellett teszi le voksát, állítása szerint többféle technika fejlesztései vannak folyamatban -- a szimultán megjelenítésû polarizációs megoldás elõnye, hogy olcsó hozzá a szemüveg, valamint nem feltétlenül igényel 120 hertzes paneleket. A 3D-s tartalmakhoz a Sony egy új Blu-ray specifikáció kidolgozását is bevezeti, melynek véglegesítése 2009 legvégére, vagy jövõ évre várható, a termékek így legkorábban 2010-ben érkezhetnek meg, vagyis a következõ évtized hajnalára akár 3D-sé is válhatnak a PS3-as játékok. A Sony szerint a váltás nem volna nehéz, számítógépes grafikáról lévén szó.
+
+Prototípus tévék
+
+A 3D-s szekérre szintén már egy jó ideje felszállt a kijelzõtechnológiák egyik éllovasa, a Panasonic is. A japán cég egy 103 hüvelykes, vagyis 2,6 méteres plazmatévén demonstrálta 3D házimoziját, mely az NVIDIA termékéhez hasonló váltott megjelenítést és aktív LCD-szemüvegeket használt. Természetesen a többiek sem akarnak lemaradni, így a Toshiba, a Samsung és az LG Electronics is képviseltette magát a 3D-kínálatban. Ezek közül azonban egyik sem létezik termékként, ugyanis szabványosítás nélkül piaca sem igazán volna, vélik a gyártók. 
+
+
+ A szabványos technológiai alapok mellett ráadásul ütõs tartalom is szükséges, ehhez pedig meg kell nyerni a hollywoodi kiadók támogatását is -- ha nincs 3D-tartalom, eladhatatlanok a 3D-s megjelenítésre alkalmas tévék is. A valódi sztereoképet adó 3D-filmekre tehát még jó pár évet kell várnunk, ugyanis egy szabvány kidolgozását követõen annak megfelelõen kell leforgatni majd kiadni azokat, ami hosszadalmas folyamat -- ez alól csak az animációs filmek képeznek kivételt. 
+
+A 3D-megjelenítés láthatóan rendkívül fontos mind a hardvergyártók, mint a tartalomkészítõk számára, különösen a jelenlegi gazdasági depresszió közepette, mely bevételeik és leginkább a profit erodálódásával sújtja a vizuális iparokat. A DreamWorks Animation vezére, Jeffrey Katzenberg egyenesen úgy fogalmazott, hogy a 3D-re történõ áttérés a fekete-fehér és a színes megjelenítés közötti váltáshoz hasonló hatással bír majd. A szemüveges technikáknak azonban nem jósol túlságosan fényes jövõt a DisplaySearch piackutató, mely azon a véleményen van, hogy a tömegeket csak szemüveg nélküli megoldással lehet elérni. Ilyen technológiát mutatott be a Toshiba és a 3M közösen, ahol egy 3D-hatásért felelõs vékony filmréteg került a tévépanelre.
+
+Valami készülõben
+
+Hogy a 3D-technológia alkalmazása választóvonalhoz érkezett, azt mutatja az az Egyesült Államokban országszerte lefolytatott kísérlet is, melynek keretén belül 80 moziban közvetítették 3D-ben az Oklahoma-Florida egyetemi amerikaifutball-összecsapást. A Cinedigm Digital Cinema nyolc éven át dolgozott ezen, és több százmillió dollár fordított a mozik átalakítására és a mûholdas hálózat kidolgozására, közölte a cég elnök-vezérigazgatója az AFP hírügynökségnek.
+
+A 3D-megjelenítést azonban ugyanúgy sújtja tyúk-tojás probléma, ahogyan minden más médiaformátumot, mely új termékeket követel meg. Amíg nincsen 3D-s tartalom, nincs értelme ilyen készülékeket vásárolni, amíg viszont nincsenek 3D-s készülékek tömegesen a háztartásokban, nincs értelme tartalmat kiadni. Széleskörû összefogással és hatalmas befektetésekkel lehet csak ebbõl a patthelyzetbõl kitörni, pont ahogyan a Sonynak sikerült piacra erõltetnie a Blu-rayt -- ipari befolyását és piaci súlyt felhasználva a cég ismét meghatározó szerepet tölthet be, leginkább a PlayStation 3 és a Blu-ray révén, de LCD-televíziói, kamerái és filmkiadó üzletága révén komplett 3D-platformot képes indítani akár egyedül is.
+
+[+]  Szabványosítaná a háromdimenziós Blu-ray mozikat a Panasonic 
+
+A tárgyalóasztalok mellett ugyanakkor még rengeteg idõ fog eltelni, mire konszenzusra jutnak a vállalatok, a 3D-tartalmak terjedését, és az igények felkeltését éppen ezért valószínûleg a PC- és játékipar fogja vezetni, ahol legalább a 3D-tartalom elõállítása nem jelent problémát, és a hardveres erõforrások is egyre bõségesebbek az extra számítások elvégzéséhez.

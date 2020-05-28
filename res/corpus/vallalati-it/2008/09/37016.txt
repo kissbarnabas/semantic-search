@@ -1,0 +1,28 @@
+Belép a hardverpiacra az Oracle
+
+A San Franciscóban zajló Oracle OpenWorld rendezvényen Larry Ellison, a vállalat elnök-vezérigazgatója bejelentette a cég történelmének elsõ hardvertermékét. A HP-vel közösen fejlesztett, Exadata névre hallgató tárolószervert kimondottan adattárházakhoz ajánlják. A termék az Oracle megfelelõ szoftvereivel elõre telepítve kerül a vevõkhöz, a támogatás az Oracle dolga, a hardverszervizt a HP biztosítja.
+
+
+
+"Azért vagyok itt, hogy bejelentsem az Oracle elsõ hardvertermékét" -- mondta tegnap az OpenWorldön Ellison. "Az Oracle belép a hardverpiacra, de nem egyedül. Köszönjük Mark Hurdnek, Ann Livermore-nak és a csapatnak a HP-nál, akik segítettek kifejleszteni az Exadata programozható tárolószervert." Az Oracle-vezér az OpenWorldön arról beszélt, hogy a nagy adattárházak esetén a lekérdezések lassan futnak le, mivel az adatbázist futtató szerverek és a tárolók közötti kommunikációs csatornák egyszerûen bedugulnak. Minél nagyobb az adatbázis, annál hosszabb ez a várakozási idõ. 
+
+"Ma már Magyarországon is vannak több terabájtos adattárházakkal
+rendelkezõ nagyvállalatok" -- mondta a HWSW-nek Radnai Szabolcs megoldásértékesítési képviselõ. "Ezeket a rendszereket már
+nem csak szakértõk használják, egyre több jelentés is ezekbõl készül
+el, ezért nem ritka, hogy az üzemeltetõk teljesítményproblémákkal
+szembesülnek, amin az erõsebb hardver vagy az adatbáziskezelõ
+optimalizálása -- például particionálással, táblatömörítéssel vagy
+materiális nézetek bevezetésével -- sem mindig segít. Kiterjedt felhasználás mellett -- amikor az adattárház a legnagyobb megtérülést hozza -- elõfordulhatnak olyan szûk keresztmetszetek, melyeket csak egy összecsiszolt konfigurációval lehet kiküszöbölni."
+
+Szerver és tároló egyben
+
+A két darab négymagos Intel Xeon processzorra épülõ, 8 gigabájt memóriával és akár 12 terabájtnyi diszkkapacitással bíró, 2U magas tárolószerveren -- gyakorlatilag egy HP ProLiant DL180 G5 -- az Oracle saját, Red Hat-alapú Unbreakable Linuxa, és a kimondottan erre a területre fejlesztett Oracle Exadata Storage Server Software 11g szoftver fut. Az Oracle szerint a diszkek és az adatbányászati intelligencia egymás mellé költöztetése a versenytárs megoldásokhoz képest akár tízszeres teljesítményt is jelenthet adatbányászati alkalmazások esetén anélkül, hogy a kódot módosítani kellene, vagy a lekérdezéseket át kellene írni.
+
+Az Exadata szerverekbõl többféle kivitelt forgalmaz az Oracle, a teljesítményre optimalizált változatban percenkénti 15 ezer fordulatos, 300 gigabájtos SAS merevlemezek teljesítenek szolgálatot, a kedvezõbb árú konfigurációban 1 terabájtos SATA diszkek pörögnek. Mindkét termék 3,3 terabájt tömörítetlen kapacitást kínál a felhasználói adatoknak, ennyi marad az adattáblák, logok, undo táblaterek tükrözése után. A merevlemezeket az Oracle adatbázis maga kezeli, ennek köszönhetõen képes a lekérdezéseket párhuzamosra ütemezni, ezáltal a lehetõ legnagyobb teljesítményt kicsikarni belõlük.
+
+HP Oracle Database Machine
+
+ Az Exadata szerverek fürtözhetõk is, akár 14 csomópontot tartalmazó rendszerekké, amely összesen 64 processzort és 168 terabájt kapacitást jelent, másodpercenkénti 14 gigabájtos sávszélesség mellett, amelyet kétcsatornás, 20 gigabites Infiniband interfész tesz lehetõvé. A HP Oracle Database Machine névre hallgató fürtözött konfigurációkat elõre telepítve és tesztelve, rackbe szerelve szállítja ki a vevõknek a HP. Egy 14 csomópontból álló cluster ára 650 ezer dollártól indul, amelyhez társul a szoftverlicencek mintegy 840 ezer dolláros költsége is.
+
+
+ Az Oracle versenytársai ezen a területen a Teradata és a Netezza termékei lehetnek, amelyeket szintén kimondottan adattárházak futtatására terveztek, de valószínûleg az EMC, az IBM és a Sun marketingesei sem alhatnak nyugodtan egy darabig.

@@ -1,0 +1,16 @@
+Élõ virtuálisgép-migráció Intel és AMD rendszerek között
+
+Virtuális gépeket kizárólag egy gyártó közel azonos mikroarchitektúrájú processzorai között lehet mûködés közben migrálni -- ez az állítás többé nem igaz. Bár az x86-os virtualizációban toronymagasan piacvezetõ VMware VMotionje továbbra is szigorúan behatárolja a forrás és célplatform párosításának lehetõségeit, a Red Hat az AMD-vel közös demonstrációval mutatta be, lehetséges a virtuális gépek különbözõ architektúrák közötti élõ mozgatása.
+
+
+
+A virtuális gépek élõ migrációja ma még egyelõre rétegigénynek tekinthetõ, hiszen még a virtualizáció tömeges adoptációjának elején tartunk, így a legtöbb informatikai részleg és szakember még az alapszintû szolgáltatásokkal sem találkozott. Ennek ellenére kitüntetett mérföldkõnek tekinthetõ, hogy az AMD és a Red Hat képesek voltak teljesen különbözõ processzorarchitektúrák közötti élõ migrációra, mely mindkettejük számára stratégiai jelentõséggel bír, hiszen piacaik nagyobb részét egy riválisuk uralja.
+
+
+A demonstrációban egy kétutas, négymagos Intel Xeon processzorokra épülõ szerveren futó virtuális gépet mozgattak át négymagos AMD Opteron chipeket alkalmazó gépre, annak leállítása nélkül -- közben folyamatosan videót játszott le. Ezt követõen a virtuális gépet az AMD legújabb Shanghai processzorára migrálták. Ez az elsõ alkalom, hogy a nyilvánosság elõtt bemutattak ehhez fogható képességet. A VMware Enhanced VMotion adott gyártó különbözõ architektúrái között képes már az élõ migrálásra a cég állítása alapján, ugyanakkor továbbra sem képes átlépni a különbözõ gyártók közötti határvonalat. 
+
+A VMware azt állítja, kizárólag szoftveresen képtelenség is megoldani a különbözõ típusú processzorok közti élõ migrációt, ehhez hardveres támogatás szükséges a processzorokban. Az Intelnél az úgynevezett Flex Migration technológiával kell rendelkeznie a processzornak, míg az AMD-nél ezt a képességet AMD&#8208;V Extended Migrationnek nevezik. Az AMD és a Red Hat együttmûködésének eredményeként megszületett demonstráció bebizonyította, lehetséges a virtuális gépek Intel és az AMD rendszerei közötti élõ mozgatása. Hogy milyen virtualizációs szoftvert használt a Red Hat, nem részletezték a cégek, elképzelhetõ, hogy a Qumranet felvásárlásával megszerzett KVM-re, vagy Linux kernel-alapú virtualizációra építettek, mely gépes Windows vendégeket is fogadni.
+
+
+
+Az iparágban uralkodó jövõkép teljesen virtualizált, és ennek köszönhetõen magas fokon automatizált és rugalmas informatikai rendszereket vázolnak fel, ahol a futó alkalmazásokat többé nem láncolja semmi egy adott hardverhez, jelen esetben szerverhez, ez pedig lehetõvé teszi a kapacitások optimális elosztását. Mindez különösen igaz a hosztolt informatikai szolgáltatások felé történõ elmozdulással. Az élõ migráció ennek a víziónak egyik alapeleme, az AMD-nek pedig értelemszerûen alapvetõ érdeke, hogy átjárhatóak legyenek az Intel és az AMD szerverek, ha nem akar kiszorulni a legtöbb adatközpontból. 

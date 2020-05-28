@@ -1,0 +1,10 @@
+A nagyvállalati ügyfelek augusztus végén kapják meg az IE8-at
+
+A március közepén megjelent böngészõ augusztus 25-én kerül fel a fõként nagyvállalatoknál használt Windows Server Update Services (WSUS) automatikus frissítõszolgáltatásra -- derül ki egy az IE blogon szereplõ friss bejegyzésbõl. A frissítési folyamat során azok a Windows XP, Server 2003, Vista és Server 2008 operációs rendszereket futtató számítógépek automatikusan telepítik majd az új böngészõt, ahol a vállalati kiszolgálón futó WSUS úgy van konfigurálva, hogy automatikusan fogadja és a klienseknek kiközvetítse az úgynevezett "update rollup" csomagokat.
+Az Internet Explorer 8-as változata március 19-én jelent meg, a program elsõ publikus bétája ezt megelõzõen több mint egy évvel, 2008 március 6-án debütált. A második béta tavaly augusztus 28-án érkezett, a végleges kódot tartalmazó, kiadásra jelölt verzió pedig idén január végén vált elérhetõvé. Az otthoni felhasználók, valamint a kis- és középvállalatok április második felében juthattak a hozzá a frissített böngészõhöz a Windows Update frissítõszolgáltatáson keresztül.
+
+A legutóbbi, májusi statisztikák szerint az új böngészõ piaci térnyerését nagyban elõsegítheti, hogy a programot már az automatikus frissítési csatornákon is elkezdte terjeszteni a Microsoft: az Internet Explorer 8 a Net Applications felmérése szerint az ötödik hónapban 7,6 százalékos piaci részesedést ért el, a statisztikák azonban azt is mutatják, hogy az új böngészõ elsõsorban korábbi Internet Explorer verziók pozícióját veszélyezteti, és összességében az Internet Explorer, mint platform piaci részesedése lassan de biztosan csökken.	     
+                  
+                  
+                  
+                   

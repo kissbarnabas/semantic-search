@@ -1,0 +1,53 @@
+Bukás a magyar Google News
+
+A Google karácsonyi ajándéka Magyarország számára 2008-ban a News lokalizációja volt. A hónapok óta folyó elõzetes munkálatok eredményeképp több mint 200 hírforrást szemléz és szervez listába a Google sajtófigyelõ szolgáltatása. A HWSW kipróbálta, kifacsarta kissé a szolgáltatást, az eredmény viszont messze alulmúlja a várakozásokat, sõt, az angol verzióval kapcsolatos korábbi pozitív feltételezések is megkérdõjelezhetõvé váltak a tapasztalatok miatt.
+
+
+
+Hírek címlapról, RSS-bõl és keresõkbõl 
+
+A magyar internetes világ fõ mozgatórugói mindig is a tartalmak voltak -- az online szolgáltatások, elektronikus kereskedelem a cseh és a lengyel piacokhoz képest (az amerikaihoz képest meg fõleg) viszonylag fejletlenek maradtak. Így nem csoda, hogy több hírkeresõ szolgáltatás is kinõtte magát itthon, illetve viszonylag nagy számú online médium képes ellubickolni a hazai pocsolyában. A Hírkeresõhöz és Hírstarthoz  hasonló hírgyûjtõ oldalak nagy népszerûségre tettek szert az elmúlt években, s az online lapok forgalmának jelentõs részét hozzák -- egyes esetekben akár a látogatók 80 százaléka is érkezhet hírkeresõkbõl.
+
+Alapkiszerelés 
+
+Emellett komoly látogatóforrás a webkeresõk, a Magyarországon sok szolgáltató által használt Google keresõ találati listája. Különbözõ kulcsszavakra keresve szinte bizonyos, hogy a témában született újságcikkek is szép számmal lesznek a találatok között. A hazai médiapiacon az oldalak a látogatók 25-50 százalékát köszönhetik a Google-nek, ami a korábban megjelent hírek, cikkek látogatottságát növeli.
+
+News -- Hírek 
+
+A Google News valahogy ennek a két kategóriának lehetne a keveréke, hiszen a szolgáltatás a keresõrobotok által felnyalábolt híreket listázza ki, tehát nem egy külön rendszert hozott létre a hírek keresésére a Google, hanem a meglévõ erõforrásokat használta. A Google keresõben korábban is indíthattunk olyan keresést, mely csak az adott domain-tartományra szûkít, illetve megadott idõsávban keresve idõrendben jeleníti meg a találatokat. Akik médiafigyeléssel foglalkoznak, azok számára ez utóbbi nyilván nem újdonság, napi rendszerességgel használták eddig is. Az újdonság -- elméletileg -- csupán a rendezettség és a szervezett megjelenítés.
+
+[+] Megjött a Google News
+
+A szemlézett oldalak listáját szerkesztõségünk ugyan megpróbálta elkérni a Google-tõl, de a szûkszavú válasz csupán annyit tartalmazott, hogy "nem hozzuk nyilvánosságra ezt a listát". Így csupán az a gagyinak tûnõ módszer maradt, hogy az "a" szóra keresve kilistáztattuk mind a 109 ezer találatot, amit magyar nyelven a cikk megírásának pillanatában a Google Hírek felsorakoztatott.
+
+Van itt minden 
+
+A klasszikusnak nevezhetõ online médiumok közül egy sem hiányzott: megvolt az Index, az Origo, a Hírszerzõ, a Zoom, a Ma.hu és a többiek sem hiányoztak. A második nagy csoportba a nyomtatott õssel rendelkezõ lapok tartoznak, mint a Népszabadság, Népszava, Magyar Nemzet, Metropol, Szabad Föld, Nemzeti Sport, 168 Óra, Magyar Kurír, Napi Gazdaság, Világgazdaság, HVG és FigyelõNet. Politikai lapok közül teljes spektrumban megtalálhatóak a regionális és városi napilapok Pécstõl Nyíregyházáig, sõt, helyet kaptak határon túli lapok is, mint az Erdély Ma, illetve a pozsonyi Új Szó is.
+
+Tematikus leosztás
+
+A nyomtatott lapok online mutációihoz hasonlóan az elektronikus médiumok online-jai is megvannak. A kereskedelmi (RTL, Echo, ATV, HírTV) és közszolgálati (Híradó) tévécsatornák oldalai mellett a netes hírportállal rendelkezõ rádiók, mint az MR1, MR2, Inforádió, Gazdasági Rádió vagy a Szent Korona Rádió anyagai is feltûnnek a Google Hírekben. Igaz ez a lista már foghíjasabb, olyan "nagy" nevek hiányoznak belõle, mint a TV2 tenyek.hu oldala. Van több olyan oldal, mely alkalmanként felbukkan, de nem frissül rendszeresen. A bulvár lista is fõképp a Bors, Blikk, Velvet trióra korlátozódik, bár érdekes módon a Szórakozás kategória hírei között nagyon keresni kell õket, mert gyakran a gazdasági lapok melléktermékeként létrejövõ, többnyire elavult kulthírek elnyomják õket.
+
+Aki kimarad, lemarad? 
+
+A tematikus oldalak, mint autós, kulturális vagy orvosi lapok szintén elég rendszertelenül kerültek be a Google Hírekbe, de az informatikai lapok között is vegyes a kép. Az egyik legnagyobb hazai szereplõ, a Prohardver lapcsalád hírei például teljesen esetlegesen szerepelnek a listákban, néha napokig semmi, aztán 1-2 hír becsepeg. Tudomásunk szerint ennek oka egyszerû technikai probléma, melyet az érintett szerkesztõség is jelzett a Google felé. A hiba elhárítása nyilván folyamatban van, de ettõl függetlenül érthetetlen, hogy miért nem jelenik meg több olyan hírforrás, amit egyébként indexel a Google keresõ is, s a találati listában meg is jelenik.
+
+Elõfordulhat, hogy vannak oldalak (mint a TV2.hu, tenyek.hu), amelyek tartalma szintén nem frissül a Google Hírekben, de az adott cégnél ez valószínûleg senkinek nem szúrt szemet, ezért nem is jelezték a Google felé. Ilyenkor jön rosszul, hogy a "felvételi" folyamat szinte teljesen automatikus volt, a lapok semmilyen értesítést sem kaptak arról, hogy bekerültek a szemlézettek közé. Amelyik médium észreveszi, hogy bent van és nem szeretné ezt, vagy ha észreveszi, hogy nincs bent és szeretne bekerülni, az a Google News oldalain található útmutatást és linkeket követve bármikor változtathat helyzetén.
+
+	     
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                    A cikk több oldalból áll:
+                    
+                    
+                        1. oldal: Bukás a magyar Google News
+                      
+                        2. oldal: Kicsit beszélni mádzsár
+                        
+                    
+                  

@@ -1,0 +1,18 @@
+Kidolgozás alatt az ExpressCard gyorsabb változata
+
+A PCMCIA csoport a CeBIT-en jelentette be, hogy a jelenlegi ExpressCard bõvítõrésbe illõ kártyák szabványát átdolgozva újabb változatot készít elõ. Az új megoldás a régivel kompatibilis marad, így a gyorsabb, sokoldalúbb résekbe illõ kártyák mellett a jelenlegiek is használhatók maradnak.
+
+
+
+Az ExpressCard 2.0 jelentõs sebességnövekedést ígér a jelenlegihez képest, amely akár tízszeres gyorsulásban is megvalósulhat. Az új megoldás olyan elõnyökbõl is hasznot szeretne húzni, mint amit az ebben az évben realizálódó USB 3.0 adhat, ezért a csatlakozás típusától függõen a PCI Express esetében kétszeres, az USB-hez viszonyítva viszont akár tízszeres sebességnövekedést is eredményezhet.
+
+Ezt a sávszélességnövekedést a szabványhoz igazodó, késõbb megjelenõ memóriakártyák, vagy a SATA II csatolófelülettel rendelkezõ merevlemezek is élvezhetik majd. A fejlesztõk szerint a kompatibilitás nem lesz kérdés, jelenleg is fõ irányelv a fejlesztések során a meglévõ ExpressCard eszközök további használhatósága. Mindez fordítva is igaz lesz, az új 2.0-ás egységek is képesek lesznek a lassabb réssel ellátott noteszgépek diktálta csökkentett iramra.
+
+Az ExpressCard 2.0 nem szakít majd a fentiekbõl következõen a 34- és az 54 milliméteres hagyományokkal, a kártyák külsõre megegyeznek majd a jelenlegi megoldásokkal, bár esély lehet nagyon magas teljesítményre képes kártyaváltozatok esetében a meglévõ konnektorok mellett egy további, extra csatlakozósorra is. A PCMCIA csoport nem adott meg konkrét idõpontot az új lehetõséggel szerelt termékek piacra kerülésével kapcsolatban, arról azonban említést tett, hogy a Dellel, a HP-vel, a Lenovóval, valamint a Sonyval jelenleg is szoros az együttmûködés.
+
+Express Card változatok
+
+
+Az 54 és 34 milliméteres szélességû változatokban létezõ, a noteszgéppel USB 2.0 és PCI Express interfészen keresztül egyaránt csatlakozni képes ExpressCard a 17 éves, 3,3, 5 és 10,5 milliméteres változatokban létezõ PCMCIA (Personal Computer Memory Card International Association) és ennek toldozott-foltozott továbbfejlesztett változatainak leváltására hivatott új bõvítõhely szabvány.
+
+Mint minden új szabványnál, amelynek életképességére a meglévõ, bevált rendszerekhez illeszthetõség hatással van, a bevezetés idején általában döcögõsen, nehézkesen indult az élet. A noteszgépek esetében sem volt ez másképp, hiszen sokkal jobban örültünk volna egy, a látottakhoz képest fordított felállásnak, amikor a kártyák hamarabb kerülnek a boltok polcaira, mint azok az eszközök, amelyekbe ezeket csúsztatni lehet.

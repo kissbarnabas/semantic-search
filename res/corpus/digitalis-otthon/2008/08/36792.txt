@@ -1,0 +1,18 @@
+Netbookok számára gyártana mini SSD-ket a Samsung
+
+Olcsó és kisméretû számítógépekbe -- nyilvánvalóan elsõsorban netbookokba -- szánt SSD-k tömeggyártásába fog hamarosan a Samsung, a világ elsõ számú memóriagyártója. Jóllehet a dél-koreai cég a flashalapú háttértárolók elterjedésében úttörõszerepet játszik, eddigi megoldásait zömében drága, csúcskategóriás számítógépekbe építették.
+
+
+
+A Samsung új, kompakt SSD-i természetesen nem csak méretüket, hanem kapacitásukat tekintve is elmaradnak majd az 1,8 vagy 2,5 hüvelykes formátumú társaiktól -- a kis gépekbe építhetõ flashmemóriás adattárak maximum 32 gigabájtnyi tárhelyet nyújtanak majd, a csúcsmodell mellett ugyanakkor elérhetõ lesz két kisebb kapacitású -- 8 és 16 gigabájtos -- típus is. A kompakt SSD-kre a Samsung Multi-level Cell (MLC) szervezésû memóriachipjei kerülnek majd. Ezek a chipek ugyan tipikusan lassabbak, mint az eddig szélesebb körben elterjedt SLC (Single-Level Cell) rendszerû NAND flashmemóriák, viszont sokkal olcsóbbak is.
+
+
+
+A koreaiak kisméretû SSD-i a technológiai korlátokból adódóan adatkezelési tempójukat tekintve sem vehetik fel a versenyt a drágább, nagyobb kapacitású társaikkal: a 32 gigabájtos modell szekvenciális olvasási sebessége 90, írási sebessége 70 megabájt/másodperc lesz, míg két kisebb kapacitású társánál változatlan olvasási sebesség mellett tovább csökken az írási tempó (rendre 45 és 25 megabájt/másodpercre). A legnagyobb modell minden bizonnyal az áramkörbe illesztett, 32 megabájt kapacitású puffermemóriának köszönheti gyorsabb reakcióidejét -- ezt a két olcsóbb típusra nem építik rá.
+
+
+A Samsung nem az egyetlen olyan gyártó, mely kisméretû, netbookokba vagy UMPC-kbe építhetõ SSD-kkel jelentkezik: az Intel az elmúlt hetekben mutatta be a PCIe minikártyák (30x50,95x3,8 mm) formátumában készülõ flashalapú háttértárait (a Samsung kompakt SSD-i Serial ATA csatlakozóval lesznek ellátva). Az Intel kompakt SSD-jébõl 38 megabájtot lehet kiolvasni másodpercenként, írási sebessége pedig 10 MBps, miközben fogyasztása terhelés alatt 314 milliwatt, üresjáratban pedig 1,65 milliwatt.
+
+A netbookok jelentõs része -- a kategóriát megteremtõ Asus Eee-sorozat elsõ tagjaihoz hasonlóan -- merevlemez helyett flash memórián alapuló meghajtót tartalmaz. Ennek oka legfõképp, hogy az apró, 7-10 hüvelykes kijelzõvel szerelt készülékekbe már az 1,8 hüvelykes merevlemezek is túlságosan nagyok. Az SSD-k további elõnye az alacsonyabb fogyasztás, ráadásul az ilyen gépekbe épített 4-8 gigabájtos változatok olcsóbbak is mint a tányéros meghajtók, és nem tartalmaznak mozgó alkatrészt, így strapabíróak és zajtalanok is. A Samsung és az Intel most bejelentett kompakt újdonságai a fentiek okán elsõsorban ebbe a szegmensbe passzolnak majd.
+
+A Samsung egyelõre nem közölte, hogy mikor indulhat meg a mini SSD-k tömeggyártása.

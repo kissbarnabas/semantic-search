@@ -1,0 +1,14 @@
+Tucat hibát javítottak a Firefoxban
+
+Megjelent a Firefox 3.0.4-es verziója, amiben a fejlesztõk összesen 11 sebezhetõséget javítottak, köztük 6 kritikusat. A Firefox 2.0 is frissült, ez volt az utolsó elõtti alkalom, hogy a Mozilla patchelte a böngészõt, a decemberi frissítést követõen már nem jelenik meg hozzá több javítás -- a felhasználóknak javasolt áttérni a Firefox 3-ra.
+
+
+
+A Firefox 3 a júniusi megjelenés óta negyedszer frissült, a most kiadott patchben összesen 11 hibát javítottak, közülük hatot kritikus, kettõt súlyos, kettõt közepes, egyet pedig alacsony kockázati kategóriába sorol a Mozilla. A kritikus sebezhetõségek elméletileg lehetõvé teszik támadók számára, hogy saját kódjukat csempésszék az áldozat gépére, és ott adatokat töröljenek vagy módosítsanak -- a böngészõ nevezett sebezhetõségeit kihasználó támadásokról egyelõre nem hallani, de ettõl függetlenül feltétlen javasolt a patch telepítése.
+
+
+A Firefox 2-t tizennyolcadik alkalommal frissítette a Mozilla, a böngészõben lényegében ugyanazokat a sebezhetõségeket javították, amiket a Firefox 3-ban -- a 12 sérülékenységbõl 6 volt kritikus. A 2006 októberének végén kiadott böngészõt már csak egyszer, december elején javítja a Mozilla, ezt követõen beszünteti a támogatását.
+
+A Firefox motorját használó Thunderbird levelezõ most nem frissült, továbbra is a 2.0.017-es verzió a legújabb -- gyakran egy hónap vagy több is eltelik, mire az e-mail kliensbe átvezetik a módosításokat. A thunderbird 2.0.0.18 azonban már készül, tegnap lépett béta státuszba. Mivel a Firefoxban most javított sebezhetõségek közül 6 a JavaScript-motort érinti, a Thunderbird-felhasználóknak átmenetileg javasolt kikapcsolni a JavaScriptet.
+
+A Firefox 3.0.14 és a Firefox 2.0.0.18 letölthetõ a Mozilla oldaláról, a már telepített böngészõk pedig az automatikus frissítõszolgáltatáson keresztül hamarosan megkapják a patcheket.

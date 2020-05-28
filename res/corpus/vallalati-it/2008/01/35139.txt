@@ -1,0 +1,20 @@
+Bárki belenézhet a .Net Framework kódjába
+
+Korábbi ígéretéhez híven a Microsoft a múlt héten megnyitotta a .Net osztálykönyvtárak forráskódját, ezáltal betekintést engedve a fejlesztõknek a keretrendszer mûködésébe. A Visual Studio 2008-cal (csak a teljes változatokkal, az Expresszel nem) a programozók már úgy debuggolhatják a .Net Framework kódját, mintha az a sajátjuk lenne, még a Micrososoft programozóinak megjegyzéseit is láthatják.
+
+
+
+Kukucs!
+
+A cél az, hogy a fejlesztõk még jobban megértsék, hogy mûködik a technológia, ezáltal a lehetõ legtöbbet tudják kihozni belõle.  Az eredeti tervek szerint a .Net Framework forrását még tavaly õsszel ki kellett volna adni, azonban a Microsoft végül csak a múlt héten tette elérhetõvé a kódot "Microsoft Reference License" alatt, amely csak a forrás megtekintését teszi lehetõvé, a módosítást vagy terjesztést nem.
+
+Jelenleg a .Net Base Class könyvtárak (System, System.IO, System.Collections, System.Configuration, System.Threading, System.Net, System.Security, System.Runtime, System.Text, stb.) után az ADO.Net, az ASP.Net, a Windows Forms, majd a Windows Presentation Foundation kódjába lehet betekinteni, de a Microsoft ígérete szerint 2008 során tovább bõvítik ezt a sort. A cég hosszú távú célja az összes függvénykönyvtárának megnyitása, legyen szó akár az ASP.Netrõl, az AJAX-tól vagy a Dynamic Runtime Libraty Frameworkrõl.
+
+A Visual Studio 2008-cal könnyebb
+
+A .Net Framework debuggolását lehetõvé tevõ Visual Studio 2008 már november óta elérhetõ például az MSDN-elõfizetõk számára, de a hivatalos bejelentésére csak február végén kerül sor, a Windows Server 2008-cal és a SQL Server 2008-cal együtt. A nagy bejelentésre február 27-én kerül sor Los Angelesben, a hazai premier pedig március 5-én lesz a Lurdy-házban rendezendõ TechNet-szemináriumon, bár ez elsõsorban a Windows Server 2008-ra fog koncentrálni.
+
+
+ A VS2008 egyik legfontosabb újdonsága a többszálú architektúrák támogatása, egy többmagos processzoron így például akár több forrás is fordítható párhuzamosan, gyorsítva a fejlesztést. A fejlesztõk által régóta várt funkcionalitás a LINQ (Language Integrated Query) támogatása, miáltal az adatbázisok és XML-ek gyorsabban és hatékonyabban kezelhetõk. Emellett említésre méltó, hogy a Visual Studio 2008-ban új eszközök segítik majd az Office 2007-hez tervezett alkalmazások fejlesztését.
+
+A Visual Studio 2008 megjelenésével a licencfeltételek is változnak: ettõl fogva a felhasználók lényegében bármilyen platformra fejleszthetnek a szoftverrel, nem csak a legújabb Windowsokra, vagy a .Net Framework 3.5-re. További jelentõs változás, hogy a legnagyobb Visual Studio ügyfelek (Visual Studio Industry Partner) számára a Microsoft megnyitja a szoftver forráskódját annak érdekében, hogy a vállalatok még jobb minõségû, még inkább integrálódó kiegészítõket készíthessenek.

@@ -1,0 +1,14 @@
+Bankkártyás csalókat leleplezõ technológiát vett az eBay
+
+[Clubic.com] A biztonságot növelõ technológiákra fordított dollárok kamatostól megtérülhetnek egy olyan hatalmas e-kereskedelmi portál, mint az eBay, vagy a PayPal esetén: az eBay egyszerûen 169 millió dollárért felvásárolta a Fraud Sciences Ltd.-t, mely hamis bankkártyás vásárlások kiszûrésére alkalmas technológiát fejlesztett. 
+
+
+
+A Fraud Sciences alapítói, Yossi Barak, Shvat Shaked és Saar Wilf csatlakoznak majd az eBay csapatához, technológiájukat pedig beépítik az eBay aukciós portál, illetve fõként a PayPal online fizetési megoldásba. Utóbbit 57 millióan használják 190 országban világszerte anonim, alapvetõen igen biztonságos fizetésre. A vállalat egy olyan technológiát fejlesztett, mely képes megállapítani egy bankkártyás tranzakcióról, hogy az valós adatokkal, legálisan zajlott-e le. A hibaszázalék rendkívül alacsony, mindössze 0,01 százalék 150 ezer vásárlásra számítva a Fraud Sciences alapítói szerint, így nem csoda, hogy az eBay lecsapott rá.
+
+A technológia integrálása a PayPal fizetési megoldásba nagyban csökkenthetné a hamis vásárlások számát, mellyel még több online kereskedõt lehetne meggyõzni arról, hogy integrálja a fizetési rendszert webshopjába. Az eBay folyamatosan fejleszti a PayPalt, melynek felhasználóit folyamatosan támadják adathalászati támadásokkal is.
+
+A PayPal legutóbb virtuális bankkártyát készített minden ügyfele számára, mellyel ott is vásárolhatunk, ahol csak MasterCard bankkártyát fogadnak el. A kizárólag elektronikus formában létezõ, minden egyes vásárláshoz újragenerált számú, így csak egyetlen alkalommal használt MasterCard kártya a böngészõkbe beépülõ modulon keresztül mûködik, és a vásárlásokat is kényelmesebbé teszi azzal, hogy automatikusan kitölti nevünket, címünket az ûrlapokon.
+
+
+A virtuális bankkártyával végzett tranzakció összege a PayPal elõfizetésünkhöz csatolt bankszámláról, egyenlegbõl, vagy bankkártyáról vonódik le, mely teljesen rejtve marad a bolt elõtt, így az nem élhet vissza adatainkkal.

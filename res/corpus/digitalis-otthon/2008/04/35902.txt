@@ -1,0 +1,14 @@
+Körvonalazódnak az AMD 2008-as desktop tervei
+
+[Digitimes/HWSW] Két 45 nanométeres Phenomot kíván piacra dobni idén az AMD, írja alapgyártói forrásokra hivatkozva a Digitimes. A jelenlegi változatokhoz képest számottevõ változást a magasabb órajel és energiahatékonyság, és a jelentõsen megnövelt L3 cache hoz majd. 
+
+
+
+A Deneb kódnéven ismert chipek, melyek már az IBM-mel közösen kifejlesztett immerziós litográfiai eljárást alkalmazó gyártástechnológiával készülnek, várhatóan 2,5-2,8 gigahertzes órajelet érnek el idén 95 wattos keretbõl. Az AMD január eleje óta rendelkezik 45 nanométeres prototípus processzorokkal, melynek azóta a validációja folyik, a partnerek részére pedig várhatóan augusztus-szeptember magasságában küldi ki a vállalat a tesztpéldányokat -- így év végére lesz megvásárolható legkorábban, a jelenlegi elképzelések alapján novemberben.
+
+A 45 nanométeres chipek a 65 nanométeres implementációval 2 megabájt L3 cache-ével szemben 6 megabájtot integrál, ami jól cache-elhetõ kódok esetén jelentõsen gyorsulást eredményezhet, és kifejezetten kedvezõ többutas szerverfeladatok számára. Ettõl eltekintve valószínûleg minimális változásokat hoznak az új processzorok, ami egyúttal feltétele is annak, hogy egy rövid tesztelési fázist követõen még év vége elõtt megjelenhessenek a piacon -- ideális esetben vélhetõen legkorábban októberben. Mario Rivas, az AMD processzorokért és chipsetekért felelõs alelnöke úgy fogalmazott, a 45 nanométeres chipek egy C-revíziónak tekinthetõek. A 45 nanométeres chipek magjai szinte egyszerû optikai zsugorítás képét mutatják.
+
+Balra a Barcelona (65nm), jobbra a Shanghai (45nm) egy magja
+
+
+A Digitimes a HWSW értesüléseivel egybevágóan júniusra várja a magasabb, 2,6 gigahertzes órajelû 65 nanométeres Phenom X4 9950 érkezését, mely 125 wattos elektronikai kerettel rendelkezik majd. A 95 wattos mainstream osztályban a vállalat az év közepe tájékán kezdi meg a 2,4 gigahertzes 9750-esek szállításait, a kifejezetten energiahatékony, 65 wattos három- (Toliman) és négymagos (Agena) Phenomok megjelenése pedig a harmadik negyedévtõl esedékesek.

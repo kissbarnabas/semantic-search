@@ -1,0 +1,14 @@
+MSI: a linuxos netbookokat nem szeretik a vásárlók
+
+[Latopmag.com/HWSW] A vártnál lényegesen nagyobb piaci sikert aratnak eddig a netbookok, nyilatkozta az MSI egyik felsõvezetõje a Laptopmag.comnak, aki szerint az Intel Atom chipek hozzáférhetõsége korlátozza az eladásokat. Andrew Tung, az MSI amerikai értékesítéséért felelõs igazgatója elmondta azt is, hogy a linuxos verzióval nincsenek kibékülve a vásárlók, és gyakran viszik vissza az üzletbe.
+
+
+
+"A netbookok hatalmas kategóriává váltak, annál is nagyobbá, mint gondoltuk. [...] De hónapól hónapra látjuk erõsödni a keresletet" -- nyilatkozta a Laptop magazinnak Tung. Elárulta, hogy havonta 150-250 ezer MSI Windet értékesítenek -- korábban az egész évre vártak 300 ezres eladást. A szállításokat az Intel Atom processzorok elérhetõsége korlátozza, tette hozzá, a hiány az év vége felé enyhül várhatóan. A kétmagos Atomok netbook változatait nem várja az igazgató 2009 második fele elõtt. 
+
+A mini notebookokat kifejezetten magas visszavételi arány jellemzi az MSI saját felmérései alapján, árulta el Tung, a vevõk nagy része ugyanis csak az alacsony árcédulát látja, és nem tudja, mit kap, míg ki nem bontja a dobozt. Tung nyilatkozata gyakorlatilag szóról szóra egybevág a Lenovo Magyarország termékmenedzserének, Bíró Szilárdnak a tárgyban tett megjegyzésével, ez a jelenség ugyanis a hazai kereskedõket is sújtja. "Az a tapasztalat a magyar piacon, hogy az ár meghülyítette a vevõket, akik nem azt kapták, amit akartak".  
+
+
+Különösen rossz a helyzet a SUSE Linuxszal elõtelepített változatoknál, közölte Tung, melyekre hatványozottan igaz az, hogy a vevõ nem azt kapja, mint amire számít. "Elkezdenek játszadozni a Linuxszal, és felismerik, hogy ez nem olyasmi, melyhez hozzászoktak. Nem akarnak idõt tölteni a megtanulásával, így hát visszaviszik az üzletbe. A visszaküldési arány a linuxos netbookok esetében legalább négyszer magasabb a Windows XP-s netbookokénál" -- mondta az igazgató. A linuxos közösség korábban azt remélte, a netbookok jelentik majd a nyílt forráskódú operációs rendszer számára a kitörési pontot, ez azonban úgy tûnik, megalapozatlan várakozás, a Windows itt is dominanciába került rövid idõ alatt.
+
+Korábban akkumulátorhiány sújtotta a Wind szállításait, ami miatt késlekedett a gép piacra kerülése, és hatcellás teleppel sokáig nem is lehetett kapni a gépet. Tung ígérete szerint október végére teljesen megoldják ezt a problémát, sõt egy független gyártó kilenccellás akkumulátort is árul majd a Windhez, mellyel 7 óránál hosszabb üzemidõ érhetõ el. Érkezik a Windnek (U100) egy komolyabb megjelenésû változat is, mely szögletesebb formavilággal rendelkezik -- a Wind U120 "thinkpades" lesz, fogalmazott. Az U120 SSD-opcióval és HSDPA-modemmel is rendelhetõ lesz. A Laptop Magazin interjúja itt olvasható. 

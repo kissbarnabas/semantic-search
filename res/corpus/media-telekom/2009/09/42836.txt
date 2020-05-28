@@ -1,0 +1,11 @@
+Kábelszakadás miatt akadozott a GTS-Datanet hálózata
+
+A GTS-Datanet tájékoztatása szerint ma délelõtt a szolgáltató budapesti optikai hálózatának egyik szakaszán átvágták a kábeleket. Ezt követõen a "védett hálózatok, köztük a BIX-kapcsolat is, automatikusan átkapcsoltak a tartalék útvonalra, ahogyan ez a grafikonokon is látható". A cég szakemberei azonnal értesültek a hibáról, s azóta is dolgoznak a hiba elhárításán.
+
+A budai kábelszakadás miatt bekövetkezõ szolgáltatásleállás kizárólag a Yo Neked! elõfizetõk egy részét érintette, de a GTS-Datanet szerint 45 percen belül náluk is helyreállt a rend. Ez köszönhetõ annak, hogy a cég a normál üzemben használt BIX-vonalak mellett egy redundáns 2*10 Gbps sebességû tartalék vonallal is rendelkezik. Az átállás automatikusan megtörtént, külsõ beavatkozásra nem volt szükség, így az elõfizetõk nagy része észre sem vehette a problémát.
+
+ Ennél jóval nagyobb kavarodást okozott idén januárban a Magyar Telekom hálózatában egy optikai vezeték elszakadása, amit az M6-os autópálya-építés során vágtak át. Akkor a tartalék-útvonalakra való forgalomátterelés után az egyik hálózati eszköz túlterhelõdött, majd meghibásodott, s ennek következtében az ország nagy részében akadozott a hálózati forgalom, a cégcsoporthoz tartozó teljes IP-forgalom leállt egészen aznap késõ délutánig.  	     
+                  
+                  
+                  
+                   

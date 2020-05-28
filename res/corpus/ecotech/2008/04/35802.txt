@@ -1,0 +1,24 @@
+VirusBuster: új partneri megállapodások, új termékek -- új tulajdonos?
+
+Újabb nagynevû céggel bõvült a VirusBuster partnereinek névsora, a biztonsági megoldásairól ismert Kaspersky a VirusBuster keresõmotorját választotta menedzselt e-mail biztonsági szolgáltatásához Linux és FreeBSD platformon. A vállalat két terméke megszerezte a NAP-, NAC- és TMC-környezetben való mûködéshez elengedhetetlen OESISOK minõsítést is.
+
+
+
+Új partnerek
+
+A Kaspersky Hosted E-mail Security olyan menedzselt biztonsági szolgáltatás, mely az e-mail forgalom védelmérõl gondoskodik, még mielõtt az elérné a szervezeti kiszolgálót. Ezt most a VirusBuster víruskeresõ motorjával  "Számunkra a stabilitás és a feldolgozási sebesség volt a legfontosabb követelmény. Olyan megoldást kerestünk, mely FreeBSD támogatást is nyújt. A VirusBuster keresõmotorja széles körû platformlefedettségével és kiváló károkozófelismerésével tökéletesen megfelelt igényeinknek" -- mondta  Kaspersky Lab menedzselt biztonsági szolgáltatásokat nyújtó részlegének igazgatója, Andrej Nyikisin.
+
+Talán kevesen tudják, hogy a VirusBuster bevételének derekát már nem a saját termékek adják, hanem a keresõmotor licencelésébõl származó forgalom. A vállalat elsõ számú referenciája a Microsoft Forefront termékcsalád, amely szerveroldali védelmet biztosít például az Exchange-hez vagy a SharePointhoz, de emellett az Agnitum Outpost Pro Security Suite-ban, a Balabit Zorp tûzfalban, illetve a Protea AntiVirus Tools for Lotus Dominóban is a VirusBuster által fejlesztett motor dolgozik.
+
+
+ További jelentõs hír a VirusBuster háza tájáról, hogy a VirusBuster VirusBuster Professional 5.x és a VirusBuster for Windows Servers 5.x  megszerezte az OESISOK minõsítést, ami azt igazolja, hogy a termékek együttmûködnek a vezetõ piaci fejlesztõk -- Cisco, Juniper, NORTEL, 3Com, F5 -- hálózati eszközeivel. A tanúsítvány legnagyobb jelentõsége, hogy ezzel a VirusBuster hivatalosan is azok közé a biztonsági termékek közé emelkedett, melyek NAC- (Network Access Control), NAP- (Network Access Protection) és TNC- (Trusted Network Connect) rendszerekben használhatók.
+
+A tanúsítvány megszerzése mellett a VirusBuster termékei bekerültek abba az ugyancsak szûk, de illusztris biztonsági fejlesztõi körbe, melynek megoldásait az OPSWAT Metascan nevû köztes motor is használja. A Metascan filozófiája szerint jobb a több, azaz egy víruskeresõ nem képes minden károkozó lefülelésére, ezért a Metascan köztes felületén keresztül több vírusellenes technológiát lehet elérni, ezért segítségével olyan védelmi megoldásokat lehet kialakítani, melyek több keresõmotor segítségével tudják ellenõrizni az adott hálózatbiztonsági eszközön átmenõ adatforgalmat.
+
+Integrált biztonsági csomag a láthatáron
+
+A VirusBuster hamarosan egy otthoni felhasználóknak és kisvállalatoknak szánt integrált biztonsági csomagot is piacra kíván dobni. A VirusBuster Internet Security Suite a már ismert vírus- és kártevõvédelem mellett spamszûrõt, behatolásérzékelõt reklûmszûrõt és tûzfalat is tartalmaz majd, utóbbi az Agnitumtól származik. A termék idén nyáron jelenik meg, elõször angol nyelven, elsõsorban a nemzetközi piacra szánva.
+
+Új tulajdonos a láthatáron?
+
+A 11 éve alapított VirusBuster ma már mintegy 60 fõt foglalkoztat és tavaly 615 millió forintos árbevétel mellett közel 120 milliós nyereséget ért el. A forgalom ennél jóval nagyobb is lehetett volna, azonban a vállalat által a régióban kizárólagos joggal forgalmazott Sybari-termékek eltûntek a színrõl, miután a Sybarit felvásárolta a Microsoft. A VirusBuster bár teljesen magyar tulajdonú és Magyarországon mûködik, forgalmának nagyobb részét külföldön bonyolítja, és a hazai bevétel aránya folyamatosan csökken. Bozsó Julianna ügyvezetõ igazgató a HWSW kérdésére elmondta, a tavaly lezajlott átszervezés egyértelmû célja az volt, hogy a nemzetköi piacon való terjeszkedést elõsegítsék. Bozsó érdeklõdésünkre nem zárta ki annak lehetõségét, hogy a VirusBuster akár teljesen külföldi kézbe kerüljön, elmondása szerint az elkövetkezõ hónapokban "sokminden eldõl".

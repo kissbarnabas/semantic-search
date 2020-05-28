@@ -1,0 +1,10 @@
+Megjött a Parted Magic új kiadása
+
+A Parted Magic egy nyílt forrású projekt, melyet Patrick Verner fejleszt és tart karban. A PM egy specializált live Linux disztribúció, mely telepítés nélkül azonnal bootolható akár USB kulcsról, és elsõsorban lemezparticionálási és karbantartási feladatokra született, ugyanakkor a mellékelt tucatnyi eszközzel  adatmentési és visszaállítási feladatokra is alkalmas lehet, ráadásul grafikus felületet ad és böngészhetõ vele a web is.
+Az áprilisban megszületett 4.0 fõkiadást követõen gyorsan, szinte havi léptékben újabb és újabb alverziók születtek, és kevesebb mint fél év alatt eljutottuk a 4.5-ös változathoz. Ez a verzió frissített Xorg grafikus szervert és különbözõ Intel chipset meghajtókat hoz magával, melyeket indításkor lehet kiválasztani, így a PM a bootolás során telepíti azokat, ami vélhetõen megoldja sokak problémáit az Intel videós rendszereken. A rendszerkép mérete még mindig csak 80 megabájt.
+
+További újdonság, hogy az alapértelmezett RAM-ba töltõdés memóriaigénye immár 192 megabájt mindössze, szemben a korábbi 256 megabájttal, valamint az alacsony memóriahasználatú boot opcióval mindössze 48 megabájttal is beéri, ami ideálissá teszi elavult gépek háttértárainak feltérképezésére - processzorból legalább Pentium (i586) osztályút követel meg. Ezenkívül számos csomagot frissített Verner, köztük a Linux kernelt, a GTK+ vagy openssl és openssh csomagokat is. Számos eszközzel bõvült az NTFS fájlrendszerek kezelése, megjelent a BlueTooth protokollt támogató BlueZ is. További információ és letöltés a projekt honlapján.	     
+                  
+                  
+                  
+                   

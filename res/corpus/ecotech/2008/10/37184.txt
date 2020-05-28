@@ -1,0 +1,25 @@
+A szabad szoftver önmagában nem jó üzlet
+
+Egy kutatás eredményei szerint a nyílt forráskód önmagában még semmit nem mond a szoftverszállító üzleti modelljérõl, és az "ingyenes szoftver, fizetõs szolgáltatás" csak egyetlen a számos létezõ konstrukcióból. A 451 Group IT-kutatócég több mint száz vállalat elemzésével arra világít rá, hogy a szabad szoftverben érdekelt cégek többsége alkalmaz kereskedelmi licencet is, és felük zárt projekteket is futtat.
+
+
+
+Amíg az üzleti érdeket szolgálja
+
+A kutatásban szereplõ 114 vállalat -- melyek közt az olyan nyílt forráskódú specialisták mellett, mint a Red Hat, megtalálhatóak voltak a vegyes szállítók is, mint az IBM vagy az Oracle -- üzleti modelljeit vizsgálva összesen több mint nyolcvanféle különféle modellt azonosítottak, noha az általános benyomás az, hogy a nyílt forráskódú szoftverekkel történõ üzletelés teljesen szabad és ingyenes szoftvert, valamint fizetõs támogatási és egyéb szolgáltatási szerzõdések együttesét takarja.
+
+Miközben a nyílt forráskód pártfogóinak bigott része a teljesen ingyenes és nyílt forráskódú szoftvert fogadja csak el, és szkeptikusan szemléli a zárt forráskódú vagy nem szabad licencû szoftvereket, addig a valóság az, hogy a még nyílt forráskód köré szervezõdõ közösség által elfogadott cégek több mint fele is használ legalább részlegesen megszorító kereskedelmi licenceket, és több mint 40 százalékuk rendelkezik a közösséggel meg nem osztott fejlesztésekkel is -- derül ki a 451 Group kutatásából. A tanulság az, hogy bár rengeteg cég van ma már, mely felkarolja a szabad szoftvereket, hiszen a Linux kernelt is túlnyomó részt ilyen vállalatok által fizetett programozók fejlesztik és tartják karban, a szabdszoftveres mozgalom értékeit nem tették magukévá.
+
+A nyílt forrású szoftvereket zárt kereskedelmi kóddal keverik a legtöbben, és kevés azoknak a száma, akik úgy képesek bevételt generálni, hogy teljesen nyílt kóddal és licenccel adnak túl a szoftveren. Igaz ez nemcsak az olyan hagyományosan zárt szoftvereket és hardvereket gyártókra, mint az IBM, az Oracle, a Sun Microsystems vagy az SGI, melyek a nyílt kódú szoftvereket beágyazzák megoldásaikba, hanem az eredendõen nyílt forráskódra alapozókra is. Utóbbiek védett kódot adnak a mixhez, ezzel különböztetve meg magukat a riválisoktól -- így téve, vonzóbbá, eladhatóvá magukat. 
+
+Elmosódnak a határok
+
+
+A nyílt vagy zárt forráskód és licenc nem egy fekete-fehér választási kérdés a legtöbb fejlesztõcég számára, hanem egy kényes egyensúlypont keresése a magasabb fejlesztési és marketingköltségek, valamint a bevételgenerálási képesség között -- szögezi le a tanulmány. Nem kivétel ez alól például a Red Hat sem, a világ legnagyobb nyílt forráskódú specialistája, mely olyan licencet alkalmaz, mely kizárólag a vállalat és partnerei számára teszi lehetõvé az Red Hat Enterprise Linux bináris formában történõ disztribúcióját, sõt, az alkalmazások minõsítésének jogát is fenntartja magának.
+
+[+] Nem számít hogy a szoftver nyílt forrású-e, a lényeg hogy jól mûködjön
+
+
+Máshogyan fogalmazva a 451 Group kimondja, hogy a nyílt forrás bár egy hatékony szoftverfejlesztési módszer, önmagában kereskedelmileg kevéssé életképes, nem adható el, és a vállalatok többsége a szabad szoftverekétõl idegen elemekkel keveri, hogy üzletileg életképes modellt hozzon létre. A nyílt forráskód tehát üzleti taktikai eszköz, és önmagában se nem piac, se nem modell. A piackutató is kijelenti: a cégek nagyon kevés pénzt keresnek tisztán nyílt forrású és szabad szoftverekkel.
+
+Az ad-hoc támogatási bevételek a felmérések szerint mindössze a nyílt forrású világ bevételeinek 8 százalékát adják, pedig a cégek 70 százaléka kínál ilyen szolgáltatást. További felismerés, hogy bár a szoftver elméletileg szabadon áramolhat, ennek ellenére a közvetlen értékesítési képezi legtöbbek számára a legnagyobb bevételi forrást. A legtöbb szoftvervállalat esetében a nyílt és zárt forrású szoftver kérdése tehát nem egyszeri, hanem folyamatos üzleti döntések kérdése, ahol a gazdaságossági és marketingszempontok csapnak össze, a határvonalak pedig elmosódnak.

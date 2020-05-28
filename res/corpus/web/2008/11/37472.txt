@@ -1,0 +1,43 @@
+Közösségi keresõvé válik a Google is
+
+A Google történelmi tettre szánta el magát: a siker gyökerének számító keresési szolgáltatását, pontosabban annak találatait a híres algoritmusok mellett a felhasználók kezébe adja. A SearchWiki keretein belül a bejelentkezett felhasználók maguk állíthatják majd át egy keresési találat helyezését a listában, megjelölhetik a fals válaszokat, sõt, kommentálhatják is az egyes eredményeket. Webkettõ a keresésben?
+
+
+
+Átrendezi a keresõpiacot?
+
+A SearchWiki igen merész lépés a világháló életében, hiszen a milliárdnyi weboldal feletti kontroll az eddigi központosított, linkalapú relevanciaszámítás mellett kiegészül a "közösségi tudattal" is. A felhasználók  a keresési találataikat újrarangsorolhatják, törölhetnek, hozzáadhatnak saját találatokat, illetve kommentárt is fûzhetnek az felajánlott linkekhez. Ha bárki úgy érzi, hogy egy alacsonyabb prioritású találat számára valójában sokkal hasznosabb volt, akkor egy kattintással a lista tetejére küldheti, de ugyanígy el is távolíthat linkeket. 
+
+Kommentálható találatok 
+
+Még mielõtt bárki megrémülne attól, hogy pillanatok alatt összeomlasztják a felhasználók a keresési találatokat, tudni kell, hogy a direkt mûveletek mindenkinek a saját profiljára vonatkoznak csupán. Nem éri meg a konkurencia weboldalának linkjeit törölgetni, nem lesz semmilyen hatása a többiek eredményeire. A bejelentkezett felhasználók szokásai már eddig is képesek voltak befolyásolni a lista sorrendjét, sõt a HWSW tapasztalatai alapján egy rövid ideje az ismételt keresések esetében a rendszer megjeleníteti, hogy az adott linkre mikor kattintottunk rá elõször és hányszor tettük meg eddig, három eset után pedig egy az eredetileg ötödik helyen tanyázó találat felugrott automatikusan az elsõ helyre. 
+
+Nem mindenkire hat
+
+A felhasználók által elvégzett változtatások és a hozzáfûzött gondolatok viszont megjelennek egy nyilvános oldalon, ahol a közösség által formált eredménylap jelenik meg. A módosítások így megoszthatóak másokkal is. A kommentárokat a találati listában a "tárolt változat" és a "hasonló oldalak" gombok mellett jelzi a keresõ, odakattintva pedig lenyílnak a hozzászólások, mint egy fórumban. A közösségi keresés viszont valószínûleg a Google Accounttal rendelkezõ ismerõseink módosításaira enged majd valószínûleg rálátást, hiszen ellenkezõ esetben csupán újabb piacot teremtenének a feketesapkás optimalizálóknak. 
+
+
+
+
+
+A Google nem maradt hûtlen alapelveihez sem, így a SearchWiki funkciói is a végletekig egyszerûek. Amennyiben erõsíteni vagy gyengíteni akar valaki egy linket, akkor az adott nyílra kattintva megteheti, késõbb a találat mellett egy zöld ikon jelzi, hogy manuálisan került új helyére. Az eltávolítás esetében természetesen egyszerûen nem jelenik meg a találat újra, csak a lista legvégén, ahonnan akár vissza is lehet állítani ezeket. 
+
+Eredetvédelem
+
+A bejelentés közeledtével egyes véleményformálók azt állították, hogy a Microsoft Research program keretében feltûnõ URank megoldása késztette a Google-t a funkció bevezetésére. Illetve sokan a Wikia Search teljesen közösségi, ugyanakkor alapfunkcióiban megegyezõ szolgáltatásának lemásolását, de legalább a szintén webkettes Digg reinkarnációját látják benne. Ehhez képest Alex Chitu, a Google fejlesztõmérnöke a hivatalos Google-blogok egyikének fórumában felhívja a figyelmet arra, hogy a konkrét fejlesztések már évek óta zajlanak, így a Microsoft pár hete bejelentett megoldása semmilyen hatással nem volt erre a projektre. A keresõóriás már 2005-ben tesztelte az eredmények eltávolítása funkciót, 2006-ban a találati lista rendezésének lehetõségét és a megosztást, tavaly pedig már gondolkodtak az új találatok hozzáadásának megoldásán. 
+
+Bárki megmondhatja 
+
+Nyúlj bele a fekete dobozba!
+
+A bejelentés apropóján a HWSW szerkesztõségének nyilatkozó Peresztegi Zoltán, a Google Magyarországi képviselõje elmondta, hogy "a Google legrégebbi bástyáját megújító szolgáltatás azt a célt szolgálta, hogy az egyéni keresések még relevánsabbak legyenek. Az eddigi input-fekete doboz-output metodika mellé beépült egy személyes tényezõ is." 
+
+Arra a kérdésre, hogy vajon a mások találatainak felhasználása mennyire épül be a gyakorlatba, mennyire lesz közösségi a keresõ, Peresztegi azt válaszolta, "a közösségi keresés kifejezésnél a közösség alatt leginkább a saját ismerõsöket érdemes érteni, hiszen minden felhasználó számára az az igazán releváns tartalom, amit a saját környezete is annak talál." Ezzel a megkötéssel kizárható a legtöbb rosszindulatú manipuláció, de a Google a korábbi gyakorlat szerint "macska-egér" játékot játszik és folyamatosan fejleszti az algoritmusokat a visszaélések megelõzése érdekében. 
+
+Elvesz - hozzáad 
+
+Csak angolul
+
+A SearchWiki egyelõre csak az angol nyelvû kezelõfelületet választók számára érhetõ el, de fokozatosan állnak át majd a lokalizált változatok is. Peresztegi elmondása szerint Magyarországon ugyan még alacsonyabb szinten használják a keresõket, mint mondjuk az Egyesült Államokban, kevésbé szofisztikált keresõkifejezéseket használnak, de a tartalmak gyarapodásával párhuzamosan ez is fejlõdik. 
+
+Az új szolgáltatás pedig a túlzott felhasználói aktivitást igénylõ webkettes szolgáltatásokkal szemben nem a közösségi szándékra épít, hanem a felhasználók saját egyéni érdekeire. Így a kezdeményezés nem csupán egy szûk réteget ér el, hanem a laikus felhasználó számára is emészthetõvé válhat. 

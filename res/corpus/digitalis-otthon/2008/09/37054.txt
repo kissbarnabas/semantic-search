@@ -1,0 +1,17 @@
+AMD: új belépõszintû Radeonok HTPC-kbe
+
+Az AMD ma két új, belépõszintû videokártyával egészítette ki DirectX 10.1-kompatibilis Radeon HD 4000-es grafikusvezérlõ-sorozatát: a Radeon HD 4550 és 4350 ugyanarra a lapkára épül, a két kártya fizikai kialakításában és a képpuffer felépítésében és sebességében tér csak el egymástól -- mindkét megoldás elsõsorban HTPC-k, azaz otthoni házimozi-PC-k jó ár/érték arányú grafikus megjelenítõje lehet.
+
+
+
+Októberben piacra dobja a Radeon HD-sorozat két új, belépõszintû tagját az AMD: a Radeon HD 4550 és Radeon HD 4350 videokártyák elsõsorban multimédiás számítógépek, házimozizásra szánt konfigurációk szerves részét képezhetik: a kártyákra forrasztott RV710-es grafikus mag teljes  H.264/VC-1/MPEG-2-gyorsítást ígér, ráadásul a nagyobbik testvér egyaránt képes a digitális jelet DisplayPort és HDMI-kimeneten keresztül továbbítani a megjelenítõknek (a Radeon HD 4350 egyedüli digitális csatlakozója DVI-kimenet).
+
+Radeon HD 4550
+
+
+A TSMC-nél 55 nanométeres gyártástechnológiával készülõ, 242 millió tranzisztorból felépülõ grafikus processzor mindkét videokártyán 600 MHz-en jár -- a csekély mértékû hõfejlõdés miatt a teljes méretû Radeon HD 4550-en ezért csupán egy passzív hûtõ található, a félmagas Radeon HD 4350-re azonban a borda kisebb felülete miatt egy ventilátor is került. Az AMD 256 vagy 512 megabájtnyi, 800 (effektíve 1600) MHz-en járó GDDR3 memóriát épít a Radeon HD 4550-re, az olcsóbb változatra pedig kizárólag 256 megabájtnyi, 500 (effektíve 1000) MHz-es DDR2-memória kerülhet.
+
+
+A kártyák részben a 64 bites memóriaszervezésnek, részben a grafikus processzorok felépítésének (az RV710 mindössze 80 árnyalóegységet tartalmaz) köszönhetõen csak korlátozottan alkalmas háromdimenziós alkalmazások -- jellemzõen játékprogramok -- futtatására: az eddigi tesztek szerint a kurrens játékok alacsonyabb (XGA) felbontásban, a Radeon HD 4550 valamivel lassabb a DDR2-memóriás GeForce 9500 GT-nél, de még a Radeon HD 3650-nél is, igaz mindkettõnél jelentõsen olcsóbb.
+
+A Radeon HD 4550 512 megabájt memóriával ellátott változata átlagosan 55 dolláros áron jelenik meg októberben a különbözõ márkák választékában, míg a szerényebb teljesítményû Radeon HD 4350-ért cserébe 39 dollárt kell majd fizetni.

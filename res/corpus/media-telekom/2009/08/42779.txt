@@ -1,0 +1,12 @@
+Alkalmazások kevésbé okos telefonokra a Microsofttól
+
+Az okostelefonok után a tömegkészülékekre is elvinné az utólag telepíthetõ webes alkalmazásokat, a Twittert vagy a Facebookot a Microsoft. A redmondi cég által megálmodott OneApp a szûkös memóriával és kis feldolgozási sebességgel rendelkezõ készülékeken is lehetõvé teszi JavaScript, XML és egyéb szabványokra épülõ alkalmazások telepítését és futtatását.
+A OneApp mindössze 150 kilobájt méretû, így gyorsan letölthetõ és könnyen telepíthetõ. A szoftver elindítása után  aztán számos webes közösségi szolgáltatáshoz csatlakozhat majd a felhasználó, akár a Facebookhoz, a Twitterhez, Live Messengerhez, emellett RSS-olvasó, hírolvasó, idõjárásjelentés, részvényfigyelõ, játékok és még számos szoftver szerepel a kínálatban, és a Microsoft az év végére ígéri azt a fejlesztõi készletet, amellyel még továbbiak hozhatók létre.
+A szoftver mûködésérõl egyelõre keveset árult el a Microsoft. Az mindenesetre biztos, hogy a OneApp több a telefonra telepített kliensnél, illetve futtatókörnyezetnél, rendelkezik egy szerveroldali komponenssel is, amely az adatok tárolását és feldogozását végzi, tehermentesítve ezzel a korlátozott képességû telefonokat. A OneApp tartalmaz egy adattörmörítési technológiát is, hogy akár még GPRS kapcsolaton keresztül is jól használható legyen. Szintén a szerveren kapnak helyet az alkalmazások is, amelyeket így nem kell a telefonra telepíteni, csak futás közben foglalnak helyet a memóriából.
+
+A Microsoft weboldalán olvasható lista szerint a OneApp több S60-alapú Nokia készülékkel, Sony Ericsson modellekkel, illetve a Samsung U900 Soullal kompatibilis. A lista egyébként meglehetõsen érdekes, hiszen a felsorolt Nokia modellek között több üzleti okostelefon is található, de a Samsung U900 Soul sem egy kimondottan olcsó telefon, mint ahogy a felsorolásban szereplõ Sony Ericsson készülékek némelyike sem az.
+A Microsoft a fejlõdõ országok mobilszolgáltatóival közösen fogja majd kínálni a OneAppot, elsõként a dél-afrikai Blue Label Telecom kínálatában tûnnek majd fel olyan készülékek, amelyekrõl elérhetõ lesz, ezt késõbb további megállapodások követhetik indiai, kínai, orosz, brazil és indonéz operátorokkal. Ezekben az országokban az a közös, hogy hatalmas a lakosságuk, sok embernek van mobiltelefonja, amely egyben az elsõdleges internetezési lehetõségük is.	     
+                  
+                  
+                  
+                   

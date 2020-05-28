@@ -1,0 +1,17 @@
+Frissítette mobil Linuxát az Intel
+
+Moblin, a szoftver
+Az Intel Developer Forumon elõször volt látható az Intel Linux-alapú operációs rendszerének, a Moblinnak a 2.1-es verziója. A Fedora-alapú Moblint elsõsorban a netbookokra szánja az Intel, de a vállalat szerint a minimalista felület és a kis hardverigény miatt hordozható internetterminálokon (MID) is jól használható, a 2.1-es verzió pedig olyan képességekkel gazdagodott, ami okostelefonokon való futásra is alkalmassá teszi.
+A Fedora-alapú Moblin projektet 2007 nyarán, lényegében a netbookok tömeges térhódításának kezdetén indította útjára az Intel azzal a céllal, hogy egy kimondottan a termékkategória igényeit szem elõtt tartó szoftver szülessen. A netbookokon azonban láthatóan elbukott a Linux, becslések szerint tízbõl kilenc ilyen gépet Windowszal vásárolnak meg. Az Intel azonban x86-os chipjeit egyre kisebb és kisebb készülékekbe is szeretné eljuttatni, például az IDF-en is részletezett Moorestown platform révén.
+
+Moorestown, a hardver
+A Moorestown lelke egy úgynevezett system-on-a-chip (SoC), azaz egy rendszerchip, mely kiterjedt rendszerfunkciókat integrál a processzormaggal közös szilíciumszeletre. A Lincroft kódnévre hallgató SoC az Intel 45 nanométeres csíkszélességû eljárásán készül, egy- vagy két Atom processzormag köré grafikus és videofeldolgozó logikát, valamint DDR3-memóriavezérlõt épít. A Moorestown platform része a Langwell kommunikációs chip, amely képes kapcsolatot teremteni a vezeték nélküli hálózati vezérlõkkel, kamerával vagy a háttértárral.
+
+Az Intel állítása szerint a Moorestown az elsõ generációs Menlow-hoz képest fele akkora helyet igényel csak, üresjárati (idle) fogyasztása pedig ötvenszer kevesebb. A félvezetõgyártó máris számos elektronikai céggel tárgyal Moorestown-alapú készülékek fejlesztésérõl és piacra dobásáról, köztük a legnagyobb szerzõdéses gyártókkal (Quanta, Compal, Inventec), valamint az LG-vel. A dél-koreai cég az év eleji Mobile World Congressen jelentette be, hogy egy Intel-alapú okostelefonnal lép piacra valamikor 2010 táján.
+Videó, Flash, Silverlight, közösségi szolgáltatások
+Az új platformtól az Intel azt várja, hogy elmossa a határokat a számítógépek és okostelefonok között, és olyan eszközök jelennek meg a jövõben, mellyel rendkívül kompakt méretekben, a mai mobilkészülékeket sújtó kompromisszumok nélkül böngészhetõ a web, vagy fogyaszthatóak akár a videók is. A Moblin 2.1-et már ennek szem elõtt tartásával fejlesztették, a bemutató szerint a Firefox-alapú böngészõnek (Fennec) nem jelentenek gondot a Flash animációk és filmek sem és a Microsofttal közös fejlesztések eredményeképp hamarosan a Silverlightot is támogatni fogja a szoftver.
+A 2.1-es verzióban emellett nagy hangsúlyt fektettek a közösségi szolgáltatások integrációjára, a felhasználói felületet pedig widget-alapúvá fejlesztették, így a Moblinra épülõ készülék tulajdonosa folyamatosan figyelemmel kísérheti az ismerõsei aktivitását a különféle közösségi hálózatokban, illetve hírt adhat magáról.	     
+                  
+                  
+                  
+                   

@@ -1,0 +1,30 @@
+Megérkezett az Intel brutális hatmagos Xeonja
+
+Megérkezett az Intel hatmagos Xeon MP processzora, amelyet korábban Dunnington néven ismerhettünk, de a piacon már 7400-as sorozatként debütált. A világ legnagyobb chipgyártója összesen hét Xeont dobott piacra négy- és többfoglalatos kiszolgálók számára, ebbõl három hatmagos, négy pedig négymagos.
+
+
+
+3x2 mag
+
+Ez az Intel (és a világ) elsõ hatmagos szerverchipje, és az elsõ olyan Xeon is egyben, amely kettõnél több magot tartalmaz azonos lapkán. A korábbi négymagos Xeonok még moduláris felépítésûek voltak, két darab kétmagos lapkát tartalmaztak egybetokozva. A Dunnington esetében mind a hat mag egyetlen chipen helyezkedik el, hozzájuk a csúcsváltozatok esetében 9 megabájt másodszintû és 16 vagy 12 megabájt harmadszintû gyorsítótár is csatlakozik. Nem csoda, hogy a processzor 1,9 milliárd tranzisztort tartalmaz -- a HWSW becslése szerint a Dunnington magmérete 500 négyzetmilliméter környékére esik.
+
+A Dunnington tehát lényegében három darab 3 megabájt osztott L2 gyorsítótárral rendelkezõ kétmagos Penryn és 16 vagy 12 megabájt L3 cache, ezeket a blokkokat kapcsolja össze a rendszerinterfész, ami 1066 megahertzes effektív órajelû rendszerbuszra csatlakozik. Ennek áteresztõképessége 8,5 gigabájt másodpercenként, vagyis egy magra mindössze 1,5 gigabájt jut, ezért volt szükség a hatalmas gyorsítótárakra, amelyeket a megcélzott felhasználási területek (virtualizáció, ERP, BI, OLTP, stb.) jellemzõ kódjai rendszerint nagyra értékelnek.
+
+
+
+ Dunnington: fent és jobbra a 3x2 mag, alul az óriási L3 cache
+
+Új teljesítményrekordok
+
+Az Intel által nyilvánosságra hozott eredmények szerint a Dunnington-alapú Xeonokra épülõ szerverek egy sor iparági teljesítményrekordot állítottak fel, illetve döntöttek meg. Még az õszi IDF alatt jelentették be, hogy a hatmagos Xeonokat csatasorba állító nyolcfoglalatos IBM System x 3950 M2 az x86-os szerverek közül a világon elsõként ért el 1 millió TpmC feletti eredményt az online trakzakciókezelési teljesítményt vizsgáló TPC-C tesztben. A négyfoglalatos System x 3850 M2 eredménye 684 ezer TpmC feletti, ami szintén új csúcs.
+
+
+ A Xeon 7400-as sorozatú chipekre épülõ kiszolgálók emellett egy sor további benchmark-rekordot is megdöntöttek, a HP ProLiant DL580 G5-öse az SAP-SD tesztben remekelt (5155 párhuzamos felhasználó), a négyfoglalatos, 24 magos Dell PowerEdge R900 pedig a VMware ESX Server alatt mutatott virtualizációs teljesítményt vizsgáló VMark tesztben ért el kiemelkedõ 18,49 pontos eredményt.
+
+Hét új chip
+
+A Dunningtonhoz nem szükséges új infrastruktúra, a Xeon 7400-asok foglalat- és chipset-kompatibilisek a jelenlegi Xeon MP-platformmal, az Intel 7300 chipset köré épülõ Canelanddel. Egy négyfoglalatos szervert Dunningtonokkal megtömve 24 nagyteljesítményû processzormagot és 256 gigabájt memóriát kaphatunk egyetlen x86-os szerverben, ami ideálissá teszi például adatbázisok, vállalatirányítási rendszerek és szerverkonszolidációs projektek számára is.
+
+A ma bejelentett processzorok közül az X7460 jelenti a csúcsot 6 magjával és 2,66 GHz-es órajelével, cserébe a másik oldalon 130 wattos TDP áll. A 2,4 GHz-es E7450-ben 16 helyett csak 12 megabájt L3 cache található, és ennek a változatnak a fogyasztása is kisebb, csak 90 wattos. Ugyanilyen kerettel gazdálkodik az E7440 is, amelynek négy magja van. A kínálatot négy további chip teszi teljessé, köztük három négymagos, illetve a hatmagos E7455, amely 2,13 GHz-es órajelen mûködik, és beéri 65 wattal, illetve a csupán 50 wattot fogyasztó négymagos E7445.
+
+A Xeon 7400-as sorozat tagjai a világ összes vezetõ szervergyártójának modelljeiben feltûnnek, a HP, Dell, IBM, Sun, Fujitsu Siemens rack és blade kivitelû gépei mellett az IBM és a Unisys egzotikus, 16 foglalatos szörnyetegeiben is -- ez már 96 processzormagot jelent egyetlen gépben.

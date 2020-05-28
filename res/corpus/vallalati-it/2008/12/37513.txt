@@ -1,0 +1,16 @@
+Négyszeresére gyorsította az AEGON webes díjkalkulátorát az Alvicom
+
+Az AEGON biztosító kötelezõ gépjármû-felelõsségbiztosítási (KGFB) díjkalkulációs és ajánlatkészítõ webalkalmazását úgy sikerült felgyorsítani, hogy az a novemberi csúcsban a korábbi éveknél magasabb terhelés mellett is gyorsabban ki tudta szolgálni az ügyfeleket -- adta hírül a tesztelésre szakosodott Alvicom. 
+
+
+
+A tavaly biztosítóváltási rohamban észlelték elõször az AEGON szakemberei, hogy az éves átlagnál nagyságrendekkel több ajánlatkérés mennyire leterheli a webes díjkalkulátort, a válaszidõ idõnként az elvárt érték két-háromszorosát is elérte. Mielõtt ez esetleg üzleti veszteséget okozhatott volna az idei kampányidõszakban, a biztosító megkereste az Alvicomot, hogy derítse ki az idõnként elõforduló zavarok okát.
+
+
+ A három hét alatt végrehajtott feladat elsõ két hetében olyan próbafuttatásokat végzett az Alvicom, amelyekben az esetleges funkcióhibákat lehet felderíteni, ami meg is történt. "A megnövekedett terhelés normál körülmények közt nem jelentkezõ hibákat
+okozott, mely a szoftver finomhangolását és további hardverek 
+bevonását igényelte" -- mondta el a HWSW-nek Vér János,  az AEGON rendszerfejlesztési területén az értékesítés támogatási csoportvezetõje.
+
+A tesztelés második szakaszában kezdõdött meg az igazi terhelési tesztek futtatása, a rendszer monitorozása, majd a mért adatok alapján az Alvicom javaslatot tett a rendszer felgyorsításának módjaira. Az elvégzett módosítások után az AEGON szakemberei tesztelték az új, javított verziót is: az eredmény igazolta a befektetett munkát, minden válaszidõ az elvártnál rövidebb lett, a rendszer látványosan felgyorsult, sokkal több lekérést tudott kiszolgálni. Vér János elmondta, biztos volt benne, hogy némi gyorsulást el lehet majd érni, de arra legmerészebb álmaikban sem számított, hogy négyszeresére nõ majd a sebesség. 
+
+Az Alvicom a tesztelések és fejlesztések alkalmával különbözõ eszközökkel dolgozik, választhatunk a partnereink teszteszközei vagy az általunk kifejlesztett eszközök közül -- mondta el Lakatos Attila, Alvicom Kft. vezetõ fejlesztõje. "Az Alvicom mindig az ügyfeleivel együtt tesztel és így dönti el, hogy melyik módszert és teszteszközt használja a rendszer hiányosságainak és gyenge pontjainak meghatározására, s milyen további lépések szükségesek. Tesztelési munkáink során saját hatékony és megbízható eszközöket fejlesztettünk ki, hiszen az érzékeny adatokkal teli banki környezetben speciális tesztelés szükséges -- mondta el az Alvicom szakembere.

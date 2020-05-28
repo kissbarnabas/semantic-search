@@ -1,0 +1,24 @@
+A Fujitsu négymagos processzorára épülnek a Sun új szerverei
+
+Bejelentette négymagos SPARC64 VII processzorra épülõ, közös fejlesztésû szervereit a Sun Microsystems és a Fujitsu. A gépeket elsõsorban olyan nagyvállalati alkalmazások alá szánják, mint a vállalatirányítási és ügyfélkapcsolati rendszerek, illetve üzleti intelligencia és adattárházak. Emellett akár HPC környezetbe is ajánlja õket a Fujitsu és a Sun.
+
+
+
+Japán segítséggel
+
+Amint arról lapunk is beszámolt, a két cég még 2004-ben jelentette be, hogy egyesítik UNIX-szervereik termékvonalait, amelyek a Fujitsu SPARC64 processzorokra épülnek. Az Advanced Product Line (APL) kódnevû szervereket tavaly tavasszal dobták piacra a cégek, a legkisebb M4000 konfiguráció négyfoglalatos, az M9000 csúcsmodell pedig legfeljebb 64 processzort képes fogadni. A SPARC Enterprise sorozatú szerverek mostantól négymagos chipekkel kaphatók, de a korábbi vásárlók is frissíthetik gépeiket a SPARC64 VII processzorokkal, sõt, akár keverhetik is õket az elõzõ generációs SPARC64 VI lapkákkal.
+
+A kínálatban az M4000 és M5000 modellek képviselik a középkategóriát, elõbbi egy 6U magas, legfeljebb 4 processzort és 256 gigabájt memóriát támogató munkacsoport-szerver, utóbbi egy 10U kivitelû, nyolcfoglalatos gép, amelybe legfeljebb él terabájt memóriát lehet beépíteni. A nagyobb vasak, a 16 foglalatos M8000 és a 32-64 foglalatos M9000 nem csak a UNIX-szervereknek (HP Integrity, IBM Power System), hanem a mainframe-eknek is piaci ellenfelei kívánnak lenni, ezért számos olyan biztonsági és megbízhatósági funkcióval fel vannak szerelve, amelyeket korábban csak mainframe-kategóriás gépekben láthattunk. Ilyen például a regiszterekben tárolt adatok hardveres védelme, vagy a leállítás nélküli teljes szervizelhetõség.
+
+
+ A SPARC64 VII processzort már 65 nanométeres csíkszélességgel gyártja a Fujitsu, a lapka magonként két utasításszál párhuzamos kezelésére képes, így összesen 8 threadet futtat. A fejlettebb gyártástechnológia nem csak az órajel növelését (2,4 és 2,5 GHz-esek az új chipek) és processzormagok számának duplázását tette lehetõvé, az L2 cache mérete is növekedett, immár 6 megabájtra. A vadonatúj SPARC64 VII négymagos felépítése ellenére elõdjéhez hasonló termikus paraméterekkel bír. A 90 nanométeres kétmagos SPARC64 VI maximális fogyasztása 120 watt volt, míg a SPARC64 VII legfeljebb 135 wattot kér -- cserébe a cégek mérései szerint üzleti feladatok alatt akár 80 százalékkal gyorsabb lehet az elõdnél, HPC-terheléseknél pedig akár két-háromszoros is lehet a különbség.
+
+Sun SPARC Enterprise M4000
+
+Tímár Károly, a Sun szerver-üzletágának hazai vezetõje a HWSW kérdésére elmondta, a SPARC64 VII-re épülõ konfigurációk egy szûk ügyfélkör számára már a hivatalos bejelentés elõtt elérhetõvé váltak, de mostantól széles körben rendelhetõk, és a szállításuk is megkezdõdött. A négymagos processzorra épülõ kiszolgálók mintegy 20 százalékkal drágábbak a kétmagos SPARC64 VI-on alapuló modelleknél. "Ez azt jelenti, hogy az új szerverek még jobb ár-teljesítményt arányt biztosítanak, hiszen a 20%-os felárral közel dupla számítási teljesítményt kapunk." A korábbi tendenciáknak megfelelõen azt várjuk, hogy 6-9 hónapon belül már a négymagos változatuk kerülnek túlsúlyba az eladott gépek között -- fogalmazott Tímár.
+
+Áttörésre várva
+
+A korszerû SPARC 64 VII-re épülõ gépek megfordíthatják a Sun szerencséjét a UNIX-szerverek piacán, ahol a cég évek óta csökkenõ eladásokkal kell szembenézzen. Az elsõ negyedévben a UNIX-szerverek volumene ugyan 8,4 százalékkal olvadt,der az árbevétel összességében 3,7 százalékkal emelkedett, ahogyan a szerverkonszolidációs és kritikus folyamatokat támogató projektek meghúzták a felsõbb kategóriás, drágább gépek eladásait -- miközben az olcsó gépek piacát erõsen kannibalizálja az x86. A legnagyobb szállítók közül egyedül a Sun volt az, amely nem tudta növelni bevételét ebben a szegmensben -- a cégnek fõképp az olcsó UNIX-os dobozai keresettek.
+
+A vállalat nagy reményeket fûz a 2009 elején érkezõ Rock kódnevû processzorhoz, amely az UltraSPARC T-sorozathoz hasonlóan masszív párhuzamos felépítésû: 16 processzormagja összesen 32 szálat futtat. Úgy tudjuk, a Sun terveiben három Rock-alapú szerver szerepel, a legkisebb nagyjából fél rackszekrényt foglal el, a két másikhoz azonban már egy teljes állvány kell, legfõképp azért, hogy legyen hol elhelyezni azt a rengeteg memóriát, ami ahhoz szükséges, hogy az extrém párhuzamosságra tervezett Rock teljesítményét ne a memóriahozzáférés korlátozza.

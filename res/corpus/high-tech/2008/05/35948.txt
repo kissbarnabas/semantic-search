@@ -1,0 +1,16 @@
+Tenyérnyire zsugorította komplett üzemanyagcelláját a Sony
+
+[TechOn] Tenyérnyi méretûre csökkentette komplett üzemanyagcellája méretét a Sony. A mûködõ, akár már kereskedelmi forgalomban kapható mobil lejátszókhoz, készülékekhez is megfelelõ prototípust Atlantában, a Small Fuel Cells 2008 rendezvényen mutatták be. 
+
+
+
+Az apró készülékben nem csak maga az üzemanyagcella, hanem egy kiegészítõ, másodlagos lítiumpolimer akkumulátor, a vezérlõelektronika és egyéb szükséges komponensek is helyet kaptak. Ez a méret már megfelelõ ahhoz, hogy az üzemanyagcellát valódi készülékekben is alkalmazzák, akár kereskedelmi forgalomban is megjelenhessen.
+
+A metanol-alapú üzemanyagcellák kémiai reakció során termelnek rendkívül tiszta, környezetbarát energiát. A kicserélhetõ vagy feltölthetõ üzemanyagcella katalizátorának felületén a metanol víz jelenlétében szén-dioxiddá alakul át, az így felszabadult elektronok pedig az áramszedõ lemez felé áramlanak. A kémiai reakció során tehát vízmolekulák, szén-dioxid, hõ és elektromos energia keletkezik a cellában. Az üzemanyagcellákkal kapcsolatos kutatások már évek óta folynak, napjainkig már több tucat vállalat jelentette be üzemanyagcellákkal kapcsolatos fejlesztéseket.
+
+
+A Sony aktív, azaz üzemanyagot a membránhoz juttató pumpát is tartalmazó cellája is metanolt alkalmaz üzemanyagként. A másodlagos, lítiumpolimer akkumulátort folyamatosan tölti az üzemanyagcella, majd a készülékek folyamatos, stabil áramellátásáért ez az akkumulátor felel. A vállalat nem közölt pontos paramétereket, de az azonnali energiaigényt 3 wattig képes tolerálni a tenyérnyi hibrid cella.
+
+
+
+A Sony üzemanyagcellája 10 milliliter metanolból annyi energiát képes elõállítani, amivel egy 1seg szabványú televízióadást lejátszó mobiltelefon 14 órán át üzemelhet. Normál akkumulátorokkal ez csak ennek töredékéig lenne lehetséges, csupán pár óra üzemidõre számíthatnának a készülékek tulajdonosai.

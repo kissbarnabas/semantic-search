@@ -1,0 +1,12 @@
+Ingyenes médiaszerver a Google-tól
+
+A Google most kiadott ingyenes alkalmazásával bármelyik PC-bõl médiaszerver varázsolható. A Google Media Server telepítése után a hálózatba kapcsolt, UPnP (Universal Plug and Play) szabványt támogató eszközrõl elérhetõk a számítógépen tárolt zanék, képek, videók, sõt, még akár a Youtube-klipek is.
+
+
+
+Az egyelõre béta állapotú  Google Media Server egy Google Desktopon futó gadget, ezért a használatához elengedhetetlen az utóbbi szoftver telepítése. A program a Google Desktop Search segítségével térképezi fel a PC-t a médiafájlok után kutatva, de a weben elérhetõ tartalmakat, például a Youtube-videókat vagy a Picasára feltöltött képeket is ezzel találja meg. Ezeket a tartalmakat aztán képes UPnP eszközökre médiastream formájában továbbítani.
+
+
+ Egyre több olyan készülék található ma már a háztartásokban, amelyek támogatják az UPnP szabványt, köztük a konzolok (pl. Sony PlayStation 3), illetve egyes tévékészülékek is, nem beszélve az egyre terjedõ digitális média-adapterekrõl. Jogi okok miatt az Xbox 360-támogatás egyelõre sajnos hiányzik a Google Media Server által támogatott eszközök listájáról.
+
+A Google Media Server csak Windowson fur -- a Windows Media Player 11 azonban már támogat médiamegosztást UPnP kapcsolaton keresztül. A Microsoft szoftvere viszont nem tud Youtube-videókat és webes Picasa albumokat megosztani, vagyis a Google Media Servernek a WMP11 mellett is meglehet a létjogosultsága.

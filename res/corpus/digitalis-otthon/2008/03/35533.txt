@@ -1,0 +1,23 @@
+Júniusig a Microsoft szégyene marad Windows Home Server
+
+[HWSW, eWeek] A Microsoft tudásbázisának módosítása szerint nyár elejére csúszik a Windows Home Server tavaszra ígért javításának megjelenítése, aminek köszönhetõen még legalább négy hónapig használhatatlanná válnak az otthoni és kisvállalati felhasználásra kínált szerverek. Ki bízik meg egy olyan szerverben, ami bármikor elvesztheti az adatainkat?
+
+
+
+Hihetetlen
+
+A Windows Home Server operációs rendszerben található hibát végre sikerült reprodukálni, így megkezdõdhetett a levadászása. Addig a Microsoft többek között azt javasolja, hogy a Windows Media Player lejátszóprogrammal se exportáljunk állományokat a szerveren található megosztott könyvtárunkba. Az egyes programokkal szerkesztett fájlok tárolása a Windows Home Serveren adatvesztéshez, azok sérüléséhez vezethet, de tapasztalatok szerint akár egy újabb merevlemez hozzáadása is adatvesztés-cunamit okozhat.
+
+A Microsoft eredetileg tavaszra, az elsõ szervizcsomag, pontosabban az általa Power Pack 1 csomagnak nevezett frissítéssel egyidõben ígérte a súlyos probléma megoldását, most azonban kiderült, hogy júniusra tolódik ez a dátum. A hamarosan érkezõ csomag legfontosabb új képességei között a 64 bites Windows Vista támogatását említhetjük, illetve azt, hogy most már magát a szervert is le lehet menteni a beépített eszközök segítségével. Emellett finomítanak a jogosultságkezelésen, valamint lehetõvé tették egyszerre több fájl fel- és letöltését is -- de a megbízhatóságot érintõ hibát egyelõre még nem javítják.
+
+[+] A Windows Home Servert mi is kipróbáltuk
+
+
+Vissza a kõkorszakba?
+
+
+A Micosoft módosított tudásbázisa alapján az adatvesztést csak úgy tudjuk elkerülni, ha parancssorból másolunk adatokat, nem használjuk például a Windows Media Player exportáló funkcióját a Home Serveren megosztott könyvtárral, illetve csak olvashatóvá tesszük a megosztott könyvtárakat. A Microsoft szerint nem minden felhasználó szembesülhet ezzel a hibával, ami még bizonytalanabbá teszi a helyzetet.
+
+A Windows Home Server blogján olvashatók szerint a hiba mélyen a szoftver magjában található, ami már csak azért is érdekes, mert a Home Server a Windows Server 2003-ra épül, egy mára kiforrott, érett operációs rendszerre alapozták a redmondiak. A tudásbázis cikke alapján a hibát egy mini-filter meghajtó hibás I/O-kezelése okozza. A WHS ráadásul a teljes merevlemez tartalmát elveszítheti, ha egy újabb merevlemezt adunk a rendszerhez és különbözõ alkalmazásokkal próbálunk hozzáférni, többek között a Microsoft Office Outlook 2007, OneNote 2003 és 2007, vagy a uTorrent is a problémás szoftverek listáján szerepel.
+
+A felhasználóknak a frissítések miatt nem kell aggódniuk, mivel a Windows Home Server képes saját magát automatikusan frissíteni, így amikor a hibajavítás megjelenik, egybõl felkerül majd a gépekre, legalábbis azokra, melyeken az automatikus frissítési szolgáltatás engedélyezve van.

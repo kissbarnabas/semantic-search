@@ -1,0 +1,18 @@
+Grafikus chipekkel kísérletezõ cégekbe fektet az NVIDIA
+
+Jelentõs összegekkel támogatja a grafikus processzorok képességeit kihasználó alkalmazások fejlesztõit az NVIDIA. A vállalat GPU Ventures tõkebefektetési programja keretében azokat a garázscégeket, startupokat karolja fel, amelyek újszerû területen hasznosítanák a grafikus chipeket. 
+
+
+
+Jeff Herbst, az NVIDIA üzletfejleszési vezetõje az eWeeknek adott interjúban elmonda, a cég már korábban is befektetett a grafikus gyorsítók felhasználásával foglalkozó cégekbe, most azonban hivatalosan is elindítják a GPU Ventures programot, amelynek keretében legalább 500 ezer, legfeljebb 5 millió dollárt invesztálnak egy-egy induló vállalkozásba. A startupok jelen gazdasági helyzetben is szomjazzák a tõkét, azonban a recesszió miatt elapadó források miatt sokkal nehezebben juthatnak hozzá. "Ezek a cégeknek sokkal nagyobb szüksége van a segítségünkre mint bármikor" -- mondta Herbst. "A vállalatok annyira karcsún próbálnak mûködni amennyire csak lehet, szerintünk piaci megjelenéssel és támogatással sokat segíthetünk nekik."
+
+Az NVIDIA célja világos: a lehetõ legnagyobb piacot teremteni a grafikus chipjeinek azáltal, hogy a felhasználási területek kiterjesztésével az olyan hagyományos piacokon túlra mint a videojátékok vagy a 3D modellezés. Hosszú távon a vállalat azt akarja elérni, hogy a grafikus chipek ugyanolyan nélkülözhetetlen részei legyenek a számítógépeknek mint a processzorok, ehhez viszont szükség van arra, hogy ne csak játékok vagy 3D-tervezõ alkalmazások futtatására legyenek alkalmasak, hanem többféle feladatra is. "Ez [a GPU Ventures] valójában a GPU körüli piac felépítésérõl szól" -- magyarázza Herbst.
+
+
+[+] 
+Saját x86-processzor felé kacsingat az NVIDIA 
+
+
+ A grafikus chipjeirõl ismertté vált kaliforniai cég évente három-öt startupot karolna fel a GPU Ventures keretében, emellett együttmûködik más kockázati tõkebefektetõkkel annak érdekében, hogy azok is támogassák ezeket a feltörekvõ cégeket. A befektetésnek nem feltétele, hogy a szóban forgó startup megoldását az NVIDIA GeForce/Tesla chipjei köré képzelje el, azon cégek iránt is érdeklõdik az NVIDIA, amelyek az AMD/ATI megoldásával kísérleteznek.
+
+Az NVIDIA korábbi, említésre méltó sikeres befektetései közé tartozik a Keyhole Corporation, amelynek Earth Viewer nevû szoftverébõl végül létrejött a Google Earth. Egy másik, részben NVIDIA-tõkébõl befutott cég a Mental Images, amely a Mental Ray sugárkövetéses rendererrel robbant be a köztudatba. A Mental Imagest végül maga az NVIDIA vásárolta fel.

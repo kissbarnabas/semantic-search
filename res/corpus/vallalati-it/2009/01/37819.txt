@@ -1,0 +1,14 @@
+A virtuális gépek könnyen a cégek fejére nõhetnek
+
+[Vnunet/HWSW] A virtualizáció számos erõforrásproblémára megoldást jelenthet ugyan, azonban a féktelen alkalmazása legalább annyi problémát szül. Egy brit felmérés szerint a virtualizációt alkalmazó cégek kétharmada nem is tudja pontosan, hány virtuális gépet használ.
+
+
+
+A Morse nevû IT-tanácsadó megbízásából készített tanulmány 100 brit vállalatnál vizsgálta a virtualizáció használatát. A felmérés eredményei azt mutatják, a cégek nem használnak megfelelõ menedzsment-eszközöket a virtuális gépek nyomon követésére, amelynek eredményeképp a VM-ek egyszerûen elárasztják a szervereket, megbénítják a tárolóeszközöket és végül a teljes infrastruktúrát -- a szükségtelenné vált virtuális gépek lekapcsolását és törlését már senki sem érzi fontos feladatnak.
+
+Bár a kutatásban szereplõ vállalatok több mint fele állította magáról, hogy rendelkezik a virtualizációs felügyeleti eszközökkel, az IT-vezetõk kétharmada  nem tudta megmondani, hány virtuális gép üzemel a cégénél. "A felsõvezetés azt gondolja, hogy sikerrel bevzették a virtualizációt, azonban a technika nem mindig azt teszi, amit várnak tõle. Sokan élnek abban a tévhitben, hogy teljes ellenõrzésük alatt tartják a virtuális infrastruktúrát, és ez aggasztó" -- vélekedett Tom Brand, a Morse senior tanácsadója.
+
+
+ A felmérésben szereplõ vállalatok több mint harmada decentralizálva felügyeli a virtuális gépeket, ami azt eredményezi, hogy több felhasználónak vagy felhasználói csoportnak is joga van virtuális gépeket létrehozni vagy törölni -- menedzsment-szemmel valóságos rémálom. Az ilyen és ehhez hasonló helyzetek azonban gondos tervezéssel és alapos bevezetéssel, valamint megfelelõ kommunikációval kivédhetõk, na meg persze hatékony felügyeleti alkalmazások használatával.
+
+Ez azonban csak "zöldmezõs" beruházások esetén igaz, ha valaki már bevezetett valamilyen virtualizációs megoldást ami kezd a fejére nõni, nincs más megoldás, a jelenlegi helyzet köré kell valamiféle stratégiát tervezni és végrehajtani. Szintén fontos a megfelelõ jogosultságok kezelése a virtuális gépek életciklusa szempontjából, azonban nem szabad átesni a ló túloldalára és "túlszabályozni" a dolgokat, ugyanis ennek pont a virtualizáció egyik elõnye, a rugalmasság láthatja kárát.

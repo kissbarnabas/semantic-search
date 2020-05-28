@@ -1,0 +1,40 @@
+Exkluzív: kezünkben a Classmate PC 3.0
+
+A One Laptop Per Child program hatására az Intel 2006-ban indította el saját World Ahead oktatási kezdeményezését, melynek közvetlen célja a közoktatás megreformálása világszerte, úgy bõvítve a piacot az Intel termékei iránt, hogy közben korszerû módszerekkel, hatékonyan oktatják a diákokat az iskolákban. Ennek a programnak része egy olcsó, kifejezetten általános iskolásoknak szánt személyi számítógép is, mely támogatja mindezt. 
+Ezzel megszületett a Classmate PC (CMPC) referenciadesign, mely egyben a mai netbookok õse, az Intel pedig nagyjából egy évvel ezelõtt mutatta be a második generációt, melynek legjelentõsebb újdonsága a tablet PC-vé alakíthatóság volt. Most megérkezett a CMPC 3.0, melyet a Computexen jelentett be a vállalat, de a HWSW már a premier elõtt kipróbálhatta.
+
+A CMPC 3.0, száraz tekintettel
+A CMPC 3.0 lényegében a 2.0 továbbcsiszolásának fogható fel, ami elsõsorban a házban megbúvó elektronikában érhetõ tetten. A gép lelke tipikus netbook, 1,6 gigahertzes Intel Atom N270 processzort, 1 gigabájt memóriát és 60 gigabájtos, 1,8 hüvelykes Toshiba merevlemezt tartalmaz, emellett néhány USB-port, Ethernet- és Wi-Fi vezérlõt, illetve analóg monitorcsatlakozót. A 8,9 hüvelykes kijelzõ mindként irányban elforgatható, érintésérzékeny, így ujjunkkal navigálhatunk, ami sokkal természetesebb mintha stylust használnánk. A hardver- és szoftverkonfigurációt részletezõ teljes Everest-riport letölthetõ innen.
+
+
+
+
+
+
+
+A 1024x600
+felbontású kijelzõ képe kissé&nbsp; piszkos hatást kelt, a színhelyesség pocsék, és a kemény védõburkolat miatt leginkább körmünkkel tudjuk válaszra bírni a kijelzõt. Mindez bõségesen elfogadható egy kifejezetten olcsó, kisgyerekeknek szánt géptõl, mivel összességében egy jól használható, a célnak megfelelõ panelrõl van szó, mely ráadásul nem tükrözõdik, szemben az otthoni felhasználóknak kínált gépek többségével. A gép szenzorai érzékelik a gép orientációját, és annak megfelelõen forgatják be a képet. Ölben olvasáshoz kifejezetten kényelmes. 
+Az Intel által tervezett gép kialakítása rendkívül barátságos, az elsõ pillanattól fogva szívesen kézbe veszi az ember. A váz kellõen merev, a felhasznált mûanyagok megfelelõen rugalmasak ahhoz, hogy bírják a nyúzást. Az egyik megkapó ötlet kétségtelenül a gép hátulján található gumifül, mellyel praktikusan aktatáskaként cipelheti a gyerek az alig 1,3 kilogrammos laptopot. Ebbe a tömegbe egy 32,6 wattórás akkumulátor fért bele, mely használattól függõen 2,5-3,5 órára elengedõ energiát biztosít. Ha ez nem elég, akkor a töltõ kábelekkel együtt további 30 dekát ad a tömeghez, így az utazósúly 1,6 kilogramm körül alakul. 
+A gépet bekapcsolva halk surrogás jelzi a ventilátort, majd egy Windows XP-vel találkoztunk, de a gép elérhetõ linuxos kivitelben is. A Windows egy kellemes, Blue Dolphin névre hallgató kezelõfelületet kapott, mely a navigációt hivatott megkönnyíteni, és nyilvánvalóan esztétikusabbá tenni, ami sikerült is, hasonló megoldásokat szívesen látnánk a netbookokon is, a vezetõ gyártók közül azonban eddig leginkább csak az Asus próbálkozott komolyabban saját felület kialakításával.&nbsp; 
+
+
+
+
+A CMPC 3.0 apró billentyûkkel rendelkezik, ami megnehezíti a gépelést,
+a vastagabb ujjakkal rendelkezõk nem fognak tudni egyszerre csak egy
+gombot lenyomni. A gép ismeri a szokásos gyorsbillentyûket, így Fn-kombinációkkal állíthatjuk a fény- és hangerõt, vagy aludni küldhetjük a rendszert. A tapipad megfelelõen nagy, ugyanakkor valószínûleg driverprobléma miatt nem mûködött vele a görgetés. 
+Gyermeki szemmel
+Mielõtt azonban arra ragadtatnánk magunkat, hogy gép további jellemzõinek hosszas taglalását követõen verdiktet próbáljunk mondani, ismét hangsúlyoznunk kell, hogy a gép nem felnõtteknek készült, pláne nem olyan technofil alakoknak, akik a portokat számolják, tömeget és hõmérsékletet mérnek&nbsp; Éppen ezért a célcsoport két oszlopos képviselõjének, egy kislánynak és egy kisfiúnak is megmutattuk, hogy mondjanak véleményt. Zsozsó és Álmos egyaránt ötödik osztályos, budapesti tanulók.&nbsp;
+Hogy ne befolyásoljuk a véleményeket, a gépet minden különösebb útmutatás nélkül adtuk át, nem részletezve az olyan képességeket, mint például a tablet mód. Zsozsó és Álmos, valamint testvéreik és barátaik azonban nem vallottak kudarcot, az amerikai angol lokalizációval rendelkezõ CMPC minden funkcióját megtalálták önállóan, olyannyira, hogy elsõdlegesen tablet PC módban használták, és az internetre csatlakozás beállítása sem okozott gondot, ment az online játék és a webkamerás "emesenezés" is.&nbsp; 
+"A gépen sokat rajzoltam a rajzprogrammal. Ez szerintem szenzációs" -- mondta Zsozsó. Álmos szintén kiemelte a rajzolás lehetõségét, ami az újdonság erejével hatott. De ezen túl is megmaradt a tablet módnál: "én szinte egész végig a tollal kezeltem a gépet, azzal játszottam, neteztem". Szerinte így könnyebb is használni, mint a tapipaddal, melyet "egér helyetti egérnek" titulált. Megoszlanak viszont a vélemények a billentyûzettel kapcsolatban, míg Álmos elégedett volt vele, mint mondja, "sose csúszott félre a kezem, így gyorsan tudtam írni", addig Zsozsó kritizálta azt: "az ujjam nem fér egészen rá". 
+
+
+
+
+A CMPC célja elsõsorban az oktatás segítése, a gyerekek pedig díjazták, hogy mindezt szórakoztatóan, játékosan igyekszik tenni az elõre telepített, többnyire demóprogramokkal -- egy valódi projekt keretében természetesen teljesen egyedi összeállítású elektronikus tananyagcsomag található meg a gépeken. Álmos szerint a gép az általános iskola minden osztályába megfelelõ volna, talált olyan matekfeladatokat, melyek szerinte alsóéveseknek valók, és talált olyan környezetismereti körülírásokat is, melyeket valószínûleg csak felsõbb évesek tudnának megoldani. 
+Szíve szerint Zsozsó az iskolába is magával vinné a gépet, hogy tanuláshoz információszerzésre használja, és hiányolta a Google Earth-öt a telepített programok közül, ahogyan azt is kifogásolta, hogy "csak kártyajátékok meg a bomba volt rajta". Álmos fantáziáját az ragadta meg, hogy sima, kockás (pedánsoknak négyzetrácsos) és vonalas lapokra kinyomtathatná a gépbe feljegyzett vagy lerajzolt dolgokat, valamint angol-magyar és magyar-angol szótárként hasznosítaná. 
+
+[+] 
+Siker lenne, de lehet hogy csak hiú ábránd marad itthon a Classmate PC 
+
+A gyerekek ítélete? Nagyon szeretnének egyet maguknak, de a környezetükben lévõ kortársaikból is hasonló reakciót váltott ki a Classmate PC. "Mindenki kipróbálta, aki ment hozzájuk, le se szálltak a géprõl" -- mesélte Zsozsó édesanyja, aki maga is pedagógus. A CMPC õt is megnyerte: "az iskolai oktatásban nagyon jól lehet használni", mivel a diák információt tud keresni, és kiszûri a lényeget. További elõnye az, hogy azonnali visszajelzést tud biztosítani a tanító számára a diákok munkájáról, például egy feladatsor kitöltésekor a tanár egybõl átlátja, ki hogyan válaszolt, nincs szükség utólagos ellenõrzésre és javításra, de a nyelvoktatásban is hatalmas segítséget jelentene abban, hogy azonnal jelzi a tanuló felé, ha elrontotta egy-egy szó leírását. "Nagy lehetõség az oktatásban, ez a jövõ útja". 

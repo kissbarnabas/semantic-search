@@ -1,0 +1,14 @@
+A Fraunhofer intézet bemutatta az MPEG Surround hangformátumot
+
+A Fraunhofer IIS bejelentette az MPEG Surround formátumot, amely a térhatású zenei állományok hatékony tömörítéséhez használható. A Consumer Electronics Show-n az új formátumot a Fraunhofer intézet által készített iPod-dokkolóval is szemléltették.
+
+
+
+Az MPEG Surround térhangzás elõnyeit nem csak a lakás szobáiban, hanem akár autóban, vagy az iPod lejátszókban, illetve a 3G adatkapcsolatra alkalmas mobiltelefonokban is élvezhetjük. A formátum elkötelezettjei között már megtalálhatjuk az Eagle Rock Entertainment és a Telarc International lemezkiadókat is. Az MPEG Surround szabványosítási folyamata 2007-ben zárult le, a licenctulajdonosok tavaly szeptemberben tették elérhetõvé a gyártók számára a technológiát, illetve váltak ismertté a licencelési feltételek, konstrukciók és árak is.
+
+
+ "Azon dolgozunk, hogy világszerte elfogadottá váljon 2009-ben az MPEG Surround fájlformátum, mint a letölthetõ állományok, valamint a webes mûsorszolgáltatók elsõdleges formátuma" -- mondta Harald Popp a Fraunhofer IIS valósidejû multimédiás rendszerek részlegének feje. "Mi úgy hisszük, hogy az MPEG Surround a letölthetõ zenei-, képi fájlok esetében hamar megszerzi az elsõséget." 
+
+
+
+ Az MPEG-D néven is ismert technológia nem nyújt diszkrét többcsatornás hangsávot, ugyanakkor a hangsávba kódolt, nagyjából 4 kbps-es pozicionálási jelekkel képes arra, hogy a rendszerrel kompatibilis lejátszóberendezésekbõl térhangot csiholjon. A technológia további elõnye, hogy a térhangzású állományok nem feltétlenül igényelnek extra felszerelést, azok lejátszhatók az MPEG Surroundot nem ismerõ sztereo hangkeltõkön is, természetesen térhangzástól mentesen. Maga az MPEG Surround AAC, HE-AAC, illetve MPEG-1 Layer II magkodekek felett lép mûködésbe.

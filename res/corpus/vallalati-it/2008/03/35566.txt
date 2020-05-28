@@ -1,0 +1,26 @@
+Valóságos óriás az Intel hatmagos Xeonja, a Dunnington
+
+Mint arról február végén beszámoltunk, õszre hatmagos Xeon MP processzor érkezése várható négy- vagy többutas szerverek számára. Az Intel ma további részleteket is nyilvánosságra hozott egy demonstrációval egybekötött sajtókonferencián a közelgõ chippel kapcsolatban, mely igazi monstrumnak ígérkezik a processzorok világában. 
+
+
+
+Gigászi méret -- és teljesítmény?
+
+A Dunnington kódnéven ismert fejlesztés 6 processzormagot integrál egyetlen szilíciumdarabra, nem kevesebb mint 9 megabájt L2, és 16 megabájt L3 cache társaságában -- vagyis a chipen több mint 25 megabájt cache igyekszik csillapítani a nagyteljesítményû magok adatéhségét. Az Intel nagyteljesítményû 45 nanométeres eljárásával készülõ chip bõdületes mennyiségû, 1,9 milliárd tranzisztorból épül fel, ennek megfelelõen pedig méreteiben sem szerénykedik: a publikált fotók alapján a HWSW úgy becsli,  a Dunnington mérete 500 négyzetmilliméter környékére esik, vagyis több mint másfélszer nagyobb például a négymagos AMD Barcelonánál.
+
+Egy pillantást vetve a chipre azonnal nyilvánvalóvá válik, hogy a Dunnington nemcsak mikroarchitekturálisan tartozik a Penryn családhoz, hanem elektronikai implementációjakor is újra felhasználták a Penryn designját. A Dunnington lényegében három darab 3 megabájt osztott L2 gyorsítótárral rendelkezõ kétmagos Penryn és 16 megabájt L3 cache, ezeket a blokkokat kapcsolja össze a rendszerinterfész, ami egy effektíve 1066 megahertzes rendszerbuszra csatlakozik, elméleti áteresztõképessége 8,5 gigabájt másodpercenként -- egy magra ez kevesebb mint 1,5 gigabájtot jelent. 
+
+A chipen található hatalmas gyorsítótárakat az egy magra jutó alacsony sávszélesség és a magas késleltetés indokolja, egyúttal a megcélzott szegmensben az árazás lehetõvé teszi, a célkódok pedig  (virtualizáció, ERP, BI, OLTP, stb.) hálásak a masszív gyorsítótárakért. A felsõkategóriás processzorokra általában jellemzõ a nagyméretû cache, az Intel abban különbözik e téren az IBM-tõl vagy a Suntól, hogy fejlett gyártástechnológiája lehetõvé teszi ennek az integrálását a chipre. A szûk keresztmetszetet egyértelmûen a buszrendszer képezi, Stephen Smith, az Intel vállalati termékekért felelõs igazgatója konzervatívan mindössze kétszámjegyû teljesítménynövekedésrõl beszélt. 
+
+Platform-kompatibilis az elõddel
+
+A Dunnington foglalat- és chipset-kompatibilis a jelenlegi Xeon MP-platformmal, az egy éve megjelent, Intel 7300 (Clarksboro) chipsetet alkalmazó Canelanddel, mely dedikált rendszerbuszokkal négy foglalatot és legfeljebb 128 gigabájt FB-DIMM memóriát támogat, célterülete pedig a nagyobb osztottmemóriás kapacitást igénylõ üzleti alkalmazások. A Dunningtonnal felszerelve akár 24 nagyteljesítményû processzormagot is kaphatunk egyetlen szerverben a nagy memóriakapacitás mellé, ami ideálissá teszi például nagyterhelésû adatbázisok és szerverkonszolidációs projektek számára.
+
+
+A Dunnington a Tigertont (Xeon 7300 sorozat) váltja fel a piacon, mely két 65 nanométeres chipet tartalmaz egy tokban. A mikroarchitekturális fejlesztések közé tartozik, hogy a pénzügyi alkalmazások számára értékes osztási és gyökvonási teljesítményt jelentõsen megnövekszik a szoftver újrafordításának igénye nélkül -- a gyorsulás extrém esetben akár az 50 százalékot is elérheti. A Penryn-alapú szerverchipek, köztük a Dunnington az alvó magokat védik az adatkoherenciával kapcsolatos kommunikációtól, így a védett állapot révén jelentõs energiamegtakarítás is elérhetõ átlagos terhelésen.
+
+Szintén említésre méltó fejlesztés a virtualizációs teljesítmény fokozása is a virtuális gépek közötti váltogatások számítási költségének csökkentése révén. A fejlettebb gyártástechnológiának köszönhetõen a Dunnington energiahatékonysága növekszik a Tigertonhoz képest, termikus kerete pedig továbbra is legfeljebb 130 watt. Az Intel csökkentett órajeleken kifejezetten energiahatékony, kisebb fogyasztású és hõfejlõdésû változatok bevezetését is tervezi, vagyis várhatóak alacsony feszültségû, 50 wattos modellek is vékony rack- és blade szerverekbe.
+
+Idõhúzás a Beckton elõtt
+
+Az Intel korábbi gyakorlata alapján a Dunnington nyár végére vagy õszre várható. A chip a Beckton kódnéven fejlesztés alatt álló nyolcmagos Xeon megjelenéséig húzódó idõt hidalja át, kontroll alatt tartva az AMD-t, mely közben piacra dobja a Barcelona utódját, a növelt gyorsítótárral bíró, magasabb órajeleken üzemelõ Shanghait. A Beckton már az idén év végén debütáló Nehalem mikroarchitektúrára épül, és egyúttal új, integrált memóriavezérlõre és pont-pont processzor-összeköttetésekre (Quick Path Interconnect) alapozó infrastruktúrát használ, mely közel lineáris skálázódást tesz lehetõvé a megfelelõen párhuzamosított kódok számára.

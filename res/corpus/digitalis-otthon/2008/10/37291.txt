@@ -1,0 +1,14 @@
+Leginkább a noteszgéphasználóknak kedvez az új Ubuntu Linux
+
+Fél év után elõször jelent meg új verziója napjaink egyik legnépszerûbb Linux-disztribúciójának, az Ubuntunak. Az új, 8.10-es változat leginkább apró, de többek életét megkönnyítõ fejlesztésekkel gazdagodott.
+
+
+
+A disztribúció új változata leginkább azok számára kedvezhet, akik vezeték nélküli eszközökkel kommunikáló számítógépeket -- azaz jellemzõen noteszgépeket -- használnak. A 8.10-es verzióval a fejlesztõk szerint egyszerûbbé vált a mobil internet beüzemelése: nincs szükség külön alkalmazások telepítésére vagy a rendszer beállításának mélyebb ismeretére. Elég a 3G-s modemet a géphez csatlakoztatni, majd a hálózati kapcsolatok kezelését végzõ Hálózatkezelõben megadni a szolgáltatót, és az elõfizetés típusát. Az operációs rendszer adatbázisában szerepel az összes magyar mobilszolgáltató, és automatikusan elvégzi a szükséges a beállításokat.
+
+
+A fejlesztõk számos apróbb, de hasznos fejlesztést végeztek az operációs rendszer felhasználói felületén is. A fájlkezelõben így már fülek is használhatók (hasonlóan Firefox füles böngészéséhez), fejlettebb lett a tömörített állományok kezelését végzõ rendszer, valamint okosabbá vált a képernyõbeállítások kezelõje. Jelentõs fejlesztések történtek az Orca képernyõolvasó szoftverben is, mely a vakok és gyengén látók számára teszi könnyebbé a számítógéppel való munkát.
+
+Szintén a noteszgéphasználók életét könnyíti meg, hogy az új, 2.6.27-es verziójú rendszermag számos olyan újabb, a rendszer számára eddig alapesetben ismeretlen eszközt kezel, melyek leginkább hordozható számítógépekben fordulnak elõ, így többek között jobb Wi-Fi és webkamera támogatást nyújt. Az új Ubuntu Linux látványos újdonságot tartogat a honosítás terén is. Így például teljesen honosították az Alkalmazások hozzáadása/eltávolítása nevû alkalmazás csomaglistáját, amely immár magyar nyelven tartalmazza a csomagok neveit és leírásait, valamint az FSF.hu alapítvány támogatásával megkezdõdött a telepíthetõ alkalmazások hosszú leírásainak lefordítása is.
+
+Az Ubuntu Linux 8.10 ingyenesen letölthetõ a www.ubuntu.com weboldalról, a magyar változatért pedig a www.ubuntu.hu weboldalt érdemes felkeresni.

@@ -1,0 +1,41 @@
+Tirisztor-RAM: ütõképes alternatíva a 6T-SRAM-ra?
+
+A tirisztor-RAM fejlesztésére szakosodott T-RAM kilenc évvel ezelõtt alakult, és gyakorlatilag folyamatosan publikálta fejlesztéseinek állapotát. Úgy tûnik, a cég tirisztor (thyristor), vagyis szilícium vezérelt egyenirányító technikája elérte azt a szintet, hogy kereskedelmi használatra alkalmassá váljon. A tirisztor-SRAM saját, 32 nanométeres és 22 nanométeres csíkszélességû eljárásaira ültetésével a Globalfoundries olyan megoldást tud ügyfeleinek ajánlani, mellyel a riválisok megoldásainál jóval magasabb cache-sûrûséget lehet elérni.
+
+
+"A T-RAM sikeresen lezárta a tirisztor-RAM technológia fejlesztéseit, és termelésre tökéletesen alkalmas, robusztus memóriamegoldást ért el igazolt kihozatallal, megbízhatósággal és a korábbi félvezetõeljárásokkal történõ alacsony költségû integrációval" -- kommentálta a bejelentést a T-RAM elnök-vezérigazgatója, Sam Nakib. Részleteket nem árultak el a felek, így egyelõre azt sem tudni, SOI és hagyományos félvezetõ platformra is portolják-e a tirisztor-SRAM-ot, mely mindkettõn megvalósítható. A tirisztor egy olyan, monolitikus felépítésû kapunak fogható fel, mely egy nyítóáram hatására vezetõvé válik, és egészen addig megtartja ezt az állapotot, míg rajta bizonyos erõsségû áram, vagyis bináris jel halad át egy irányban, majd ennek megszûntét követõen, vagy az áram irányának megfordulásakor azonnal lezár.
+
+
+
+A tirisztor-SRAM cella felépítése. A TCCT jelöli a T-RAM beágyazott tirisztor megoldását.
+
+
+A vállalat szerint a SRAM kiváltására történt eddigi próbálkozások a hosszas kutatás-fejlesztéseket követõen is kudarcot vallottak, így többek közt az eDRAM is, mely bár jóval nagyobb sûrûséget mutat a klasszikus 6T-SRAM-mal szemben, teljesítménye korlátozott, és inkompatibilis a nagyteljesítményû logikákat elõállító félvezetõeljárásokkal. A többi technológia, mint a magnetorezisztív, a ferro-elektromos vagy a kristályos állapotváltozásra építõ, egyelõre nem jutott el az önálló kereskedelmi alkalmazásig sem, nem beszélve a logikával integrált, beágyazott területrõl. Szintén nem hallani az AMD által már több mint 3 éve licencelt Z-RAM-ról sem, mely az iparági értesülések alapján képtelen hozni a sûrûség és teljesítmény megfelelõ kombinációját.
+
+
+
+Csak elõnyei volnának?
+
+
+Márpedig a tirisztor technika SRAM-ként történõ alkalmazása éppen ezt ígéri -- a tirisztor DRAM-ként is implementálható, elõnyei ott azonban kisebbek. A tirisztor-SRAM cellái nagyjából negyedakkorák, mint a modern processzorok gyorsítótárát felépítõ, hat tranzisztorból felépülõ 6T-SRAM cellák, makroszinten pedig kétszeres, két és félszeres a sûrûségbeli elõnye. A tirisztor struktúra kialakítása, szilíciumba ültetése bár extra költséggel jár, a tesztek alapján ez kevesebb mint 12 százalékkal növeli meg a gyártási költséget a hagyományos tranzisztorokéhoz képest. 
+
+Ezt vagy a 2-2,5-szer nagyobb L2/L3 cache jelentette teljesítménnyel, vagy pedig a cache kompaktabb kialakításával megtakarítható szilíciumfelülettel ellensúlyozza. Ha a teljes lapka területének 20 százalékát kitevõ 6T-SRAM-ot váltjuk fel tirisztor-SRAM-mal, úgy a nettó költségmegtakarítás 5-7 százalékos, ha ez a cache terület eredetileg 40 százalék volt, úgy a költségcsökkentés elérheti a 20 százalékot is -- nagyjából ennyivel lehetne olcsóbban termelni a Shanghai és Deneb processzorokat, ami közel egy teljes félvezetõgenerációnyi megtakarítás.
+
+
+A T-RAM ráadásul azt állítja, mindehhez nem társul teljesítménycsökkenés, vagy a fogyasztás emelkedése. A Freescale 130 nanométeres SOI-eljárásán készült, 18 megabites chipekkel 1,7 nanoszekundumnál gyorsabb olvasási késleltetést publikált a vállalat két évvel ezelõtt, tavaly pedig már 0,7 nanoszekundumot jelentett, míg az írási sebesség 2 nanoszekundum, ami a 130 nanométeres 6T-SRAM-ok teljesítményével partiban van. 
+
+Csak a legagresszívebbre tervezett, jóval kisebb L1 6T-SRAM-ok gyorsabbak ennél, ahol a méret és költség háttérbe szorul a lehetõ legmagasabb teljesítmény mögött. A tirisztor tehát alkalmas lehet a nagyteljesítményû mikroprocesszorok L2 és L3 gyorsítótáraiban történõ alkalmazásra. Amennyiben a mérnökök a cache-ek méretének növelése mellett döntenek, úgy a teljesítménybeli növekedés sok kód esetén kétszámjegyû lehet a találati arány jelentõs növekedésének köszönhetõen.
+
+
+
+
+A 130 nanométeres, 18 megabites tirisztor-SRAM tesztchip
+
+
+A tirisztor-SRAM azonban ennél még tovább megy. A T-RAM állítja, nemcsak ugyanolyan megbízható, mint a 6T-SRAM, vagyis nem magasabb a bithibák aránya, és nemcsak magas kihozatallal, a jelenlegi félvezetõtechnológiákkal kompatibilisen termelhetõ, de jobban is miniatürizálható, vagyis méretei jobban skálázódnak a kisebb geometriájú eljárásokkal, ami sûrûségbeli elõnyének fokozódását vetíti elõre.
+
+
+Nincs még ismert termékfejlesztés
+
+
+Valószínûtlen ugyanakkor, hogy az AMD elsõ 32 nanométeres processzorai kihasználhatnák a a tirisztor-SRAM elõnyeit. Tekintve a nagyjából másfél év múlva esedékes megjelenésüket, fejlesztéseik már a végükhöz közelednek, így a Globalfoundries és a T-RAM együttmûködése elkésett. Nem zárható ki azonban, hogy egy késõbbi pontban vezetik be a 32 nanométeres termelésbe az újfajta cache-eket, hogy csökkentsék költségeiket. Mindez természetesen spekuláció egyelõre, nem tudni, hogy az AMD egyáltalán fogja-e alkalmazni a tirisztor-SRAM-ot, ami valószínûleg fõként azon múlik, hogy a technika valóban teljesíti-e azokat az ígéreteket, melyeket a T-RAM magabiztosan állít.

@@ -1,0 +1,20 @@
+Megjöttek a Nehalem-alapú Lenovo munkaállomások
+
+Bejelentette Nehalem-alapú Xeonokra épülõ asztali munkaállomásait a Lenovo. A vállalat terminológiájában csak "személyi szuperszámítógépként" emlegetett ThinkStation S20 és ThinkStation D20 olyan felhasználási területeken alakíthat nagyot mint a 3D-tervezés, grafikai feladatok vagy éppen pénzügyi szimuláció.
+
+
+
+A Xeon 5500-as processzorcsalád hivatalos premierje a jövõ héten esedékes csak, ez az asztali gépekbe szánt Core i7 szerverekbe és munkaállomásokba szánt változata. A négymagos, magonként két utasításszálat futtató Nehalem legfontosabb újítása az új rendszerarchitektúra, mely szakít a korábbi buszrendszerrel, és integrált memóriavezérlõre, valamint alacsony késleltetésû, magas sávszélességet biztosító pont-pont összeköttetésekre épül, az I/O sávszélesség növekedése elsõsorban a többprocesszoros konfigurációk alatt jelent hatalmas elõrelépést, lényegében lineáris skálázódás biztosításával.
+
+[+] Nehalem: minden részlet a helyére került
+
+Persze egyfoglalatos konfigurációk esetén is jelentõs elõrelépés a Nehalem a korábbi Core mikroarchitektúrához képest. Míg a Core egy notebook-processzorból nõtte ki magát, a Nehalem optimalizálásakor láthatóan elsõsorban a szerver- és munkaállomás kódokat tartották szem elõtt a mérnökök. A párhuzamosított kódok a Hyper-threading ismételt megjelenésébõl profitálhatnak, a szimultán többszálú utasításvégrehajtást pedig a magra integrált memóriavezérlõ által biztosított alacsony késleltetés támogatja.
+
+
+ A mikroarchitektúra is frissítésen esett át, a többszálúság segítésére 96 helyett már egyszerre 128 mikroutasításból válogathat a soronkívüli végrehajtásért felelõs logika, a párhuzamosság fokozását célozza az egymástól független cache-hozzáférések valamint a szinkronizációs primitívek gyorsítása is. Megváltozott a cache-hierarchia is, háromszintessé vált: a Xeon 5500-as sorozat tagjai 4 vagy 8 megabájtnyi inkluzív, vagyis az L1 és L2 adatait is tartalmazó L3 tárral minimalizálják a koherencia miatti adatforgalmat.
+
+
+
+A Lenovo most bejelentett új munkaállomásai közül az S20 egyfoglalatos, a D20 pedig kétfoglalatos konfiguráció, bennük a kétmagos Xeon 5300-as, illetve négymagos 5500-as sorozatú processzorok mellett NVIDIA Quadro vagy ATI FirePro grafikus chipek dolgozhatnak, de akár NVIDIA Tesla C1060 gyorsító is rendelhetõ hozzájuk. A Lenovo azt is kiemelte az új munkaállomások kapcsán, hogy 50 százalékban újrahasznosított alapanyagokból készülnek, illetve hogy már most teljesítik az Energy Star 5.0 energiatakatékossági szabványt, amelyet júliusban vezetnek be.
+
+A Lenovo ThinkStation S20 és D20 ára 1070, illetve 1550 dollártól indul, ebben Windows Vista ára is benne van, de a gépek Red Hat Enterprise Linux 5.2-vel is kompatibilisek.

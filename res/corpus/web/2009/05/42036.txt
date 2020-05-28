@@ -1,0 +1,14 @@
+Webes illusztrációra is használható a Prezi
+
+A Prezi indulása óta fenntartja az érdeklõdést maga iránt, s a felhasználók egyre inkább kezdik megérteni a fura jövevényt. Az elsõdleges funkciója természetesen a vállalati, oktatási vagy egyéb prezentációk piacán a Powerpoint helyettesítõ termékeként feltûnni. 
+Ennél azonban a Flash 10 alapokon nyugvó platform jóval messzebb mutat, s még a jelenleg elérhetõ szolgáltatás bármilyen változtatása, fejlesztése nélkül is a Prezi kiválóan alkalmas webes kiegészítõ médiaként.
+
+Magyarázó ábrák, interaktív kommentárok, illusztrációk vagy folyamatleírások könnyedén készíthetõek a szerkesztõvel, a nyilvánossá tett Prezi pedig akár link formájában, akár weboldalba illesztve beágyazható, legyen körülötte folyó szöveg vagy bármilyen más tartalom. A beillesztéshez a Prezi.com oldalán egyelõre nincs külön segítség, nincsenek gombok, a megosztás menüben egyszerûen egy linket kap a felhasználó, s azt tudja beállítani, hogy kik érhessék el a prezentációt. 
+
+
+
+
+A következõ lépés nyilvánvalóan az lenne, hogy megjelenjen a más szolgáltatásoknál megszokott "Share it in Facebook/Myspace/Blog" felirat, amirõl a Prezi.com képviselõi a HWSW-nek azt mondták, hogy õk is jó ötletnek tartják, gondoltak is rá, csak idõ kérdése és elérhetõ lesz. Akik nem tudnak addig várni, s szeretnék blogon vagy bármely más HTML-alapú tartalomoldalon beágyazva látni Prezijüket, azok számára marad a manuális megoldás. 
+Ehhez nincs másra szükség, mint egy "iframe" beszúrása a kódba, a következõ módon:
+&lt;iframe src="http://prezi.com/9095/view" height="400" width="600"&gt;&lt;/iframe&gt;
+A prezi.com-os linkben a számot a kiválasztott Prezi kódjára kell cserélni, a height illetve width értékeket pedig a céloldal dimenziónak megfelelõen beállítani. Az eredmény pedig ugyanaz lesz, mint ami ebben a hírben is látható.

@@ -1,0 +1,16 @@
+Az Ericsson szerint a Wi-Fi hotspotok úgy avulnak el, mint a telefonfülkék
+
+A Wi-Fi hotspotok hamarosan ugyanolyan elavultak lesznek, mint a telefonfülkék -- vélekedett a European Computer Audit, Control and Security Conference-en tartott elõadásában az Ericsson marketing-igazgatója. Johan Bergendahl szerint a mobil szélessáv gyorsabb ütemben terjed, mint a telefónia eddig bármikor.
+
+
+
+Az európai országok közül már jónéhányat találni -- hazánk is ilyen --, ahol a mobil szélessávú csomagok ára már szinte jelképes, mindössze havi 20-30 euró, ami a vezetékes csomagokéval vetekszik, miközben jóval nagyobb szabadságot ad. Ráadásul egyre több olyan noteszgép kerül piacra, amely a Wi-Fi mellett már beépített HSDPA modemmel is rendelkezik, az Ericsson például nemrég állapodott meg a Lenovóval HSDPA-modulok szállításáról. Bergendahl meggyõzõdése, hogy néhány éven belül a HSDPA ugyanolyan magától értetõdõ lesz a noteszgépekben, mint ma a Wi-Fi.
+
+
+ Ahogy egyre többen használnak majd mobil szélessávot, a Wi-Fi hotspotokra nem lesz szükség -- mondta Bergendahl. "Ausztriában a mobil szélessávú elõfizetések száma már az idén megelõzi a vezetékest, a növekedés már sokkal gyorsabb. Svédországban a legnépszerûbb telefon jelenleg egy USB-s [HSDPA] modem" -- mutatta be a HSDPA gyors terjedését az Ericsson marketing-vezetõje.
+
+Az áttörõ sikerhez azonban szükséges néhány dolog, elsõsorban a nagyobb lefedettség, valamint a kedvezõbb ár -- utóbbit a külföldi hálózatok használatára értette Bergendahl. "Az iparnak meg kell oldalnia a nemzetközi roaming problémáját. A szolgáltatóknak együtt kell dolgoznia ezen" -- mondta az Ericsson marketing-vezére, aki szerint elfogadhatatlan, hogy egy külföldi utazás elõtt az üzletembereknek még csak elképzelése sem lehet arról, mekkora lesz a számlájuk.
+
+A lefedettségen szintén javítani kellene Bergendahl szerint, elsõsorban a beltérben -- abban az elõadóteremben sem volt 3G-lefedettség, ahol a European Computer Audit, Control and Security Conference elõadásait tartották. A beltéri lefedettséget azonban könnyedén ki lehet terjeszteni ún. femtocellákkal, vagyis helyi lefedettséget biztosító adótornyokkal, hhhez a kis hatósugarú mobilcellához kapcsolódhatnak hétköznapi mobileszközeink, mobiltelefonunk, noteszgépbe helyezett adatkártyánk.
+
+Az Ericsson marketing-vezetõje egyébként úgy gondolja, számos szállodában szándékosan blokkolják a 3G-jeleket, hogy a vendégek kénytelenek legyenek igénybe venni a szálló saját internetszolgáltatását. "Sosem ismernék be, de szerintm a hotelek árnyékolják a jeleket, mert nekik az adatszolgáltatás is üzlet" -- mondta Bergendahl.

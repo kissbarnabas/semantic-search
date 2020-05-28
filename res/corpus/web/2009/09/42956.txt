@@ -1,0 +1,13 @@
+Készülõben az Opera Mini 5, megjelent a béta
+
+A java-alapú Opera Mini a legnépszerûbb mobiltelefonos böngészõ a piacon, köszönhetõen kis méretének, könnyû kezelhetõségének és a platform széleskörû támogatottságának. A böngészõt egyes felmérések szerint a nyáron több mint 25 millió mobiltulajdonos használta kisebb-nagyobb rendszerességgel weboldalak megtekintésére. Az Opera Mini kurrens, 4.2-es verziója tavaly novemberben jelent meg, így a program megérett a továbblépésre - a fejlesztõk ma adták ki az Opera Mini 5 elsõ kipróbálható verzióját.
+Az új verzió elsõsorban külsõségeit tekintve változott elõdjéhez képest: a kissé avítt külsõt modernebb, az Opera 10 webböngészõre hajazó design váltja fel, emellett megjelenik a füles böngészés lehetõsége, mely éppúgy mûködik majd, mind a PC-s operációs rendszerekhez fejlesztett browsereknél. A program készítõi emellett immár az érintõkijelzõs telefonok gazdáira is gondoltak, így a program elméletileg ugyanolyan könnyen használható nyomógombos és érintõs rendszerben.
+
+Új az Opera Mini 5-ben az úgynevezett "speed dial" funkció, melyhez hasonló szintén a PC-s verziókban jelent meg elõször (ilyen funkció a Google Chrome és az Opera webböngészõkben egyaránt megtalálható). Az új Opera Mini komoly hiányosságot pótol be a jelszómenedzserrel is, mely az új verzió másik, lényeges újdonsága. A korábban pletykált Adobe Flash támogatás azonban nem került bele a szoftverbe, legalábbis egyelõre.
+
+A javás böngészõ kis méretén és könnyû kezelhetõségén túl továbbra is elsõsorban a proxyelérésre épülõ mûködésének köszönheti népszerûségét: az Opera Mini valójában csak egy megjelenítõablak, a weboldalt az Opera szerverfarmja tölti le, dolgozza fel, majd tömörítve továbbítja a kliensnek. Ennek köszönhetõen a letöltési adatmennyiség böngészés közben a töredékére csökkenhet, ami nem csak a lassabb mobilnettel internetezõk számára kedvez, hanem azoknak is, akik havonta csak szûkös forgalmi kerettel gazdálkodhatnak.
+Az Opera Mini 5 tesztverziója mobiltelefonról elérhetõ az m.opera.com/next oldalról.	     
+                  
+                  
+                  
+                   

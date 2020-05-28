@@ -1,0 +1,70 @@
+Kipróbáltuk: érdemes flash meghajtós notebookot venni?
+
+Egyáltalán nem tekinthetõ újdonságnak a flash memóriatechnológia, hiszen közel két és fél évtizedes múltra tekint vissza, ugyanakkor csak az ezredfordulót követõen érte fejlettsége, kapacitás és árazása azt a szintet, hogy megindulhatott szélesebbkörû felhasználása az adattárolás területén. A gyorsiramú fejlõdésnek köszönhetõen a flash memória megkezdte behatolását a korábban merevlemezek uralta területekre: az úgynevezett solid-state drive-ok (SSD), vagyis szilárdtestes meghajtók számos jellemzõben felülmúlják tányérokat pörgetõ társaikat, ugyanakkor mint a legtöbb újdonságot, ezt is sok szkepszis övezi. A HWSW most a teljesítményre és fogyasztásra vetett egy gyors pillantást.
+
+
+
+Bevezetés
+A flash vajon mi?
+A flash memóriát 1984-ben fejlesztette ki Dr. Maszuoka Fudzsio, a Toshiba egyik mérnöke, a nevet pedig kollégája Ariizumi Sodzsi javasolta, ugyanis az eljárás, ahogyan a memória tartalmát törli a chip, egy kamera villanására emlékeztette. Anélkül, hogy jelen írás keretein belül mélyebben tárgyalnánk a technológiát, a flash memória mûködésének lényege, hogy a tranzisztorok elektronokat ejtenek csapdába, melyek megléte vagy hiánya eredményezi végül az 1-eseket vagy 0-kat.
+
+Ezt az teszi lehetõvé, hogy a flash chipek tranzisztorai kettõs kapuszerkezettel rendelkeznek: a hagyományos vezérlõkapu és csatorna között egy úgynevezett lebegõkapu is található, melyet vékony szigetelõanyag vesz körül, így a bejuttatott töltést megtartja. A lebegõkapu tárolt töltése befolyásolja a tranzisztor nyitófeszültségét, így bekapcsolás (feszültség rákapcsolása) esetén mûködésbe lép, vagyis vezet, vagy szigetelõ marad. A logikai 0-kat és 1-eseket az alapján lehet tehát reprodukálni, hogy folyik át-e áram a tranzisztoron. A tranzisztoronként több bitet tároló chipeknél (multi-level cell) az áram erõssége hordozhat további információkat -- kereskedelmi alkalmazásban a technológia jelenleg 4 állapotot képes megkülönböztetni, vagyis 2 bitet, a kapacitásért cserébe alacsonyabb teljesítménnyel fizetünk.
+
+A flashmemóriából a tranzisztorok logikai felépítése alapján kétféle típust különböztetünk meg. A NOR logikai kapukból felépülõ flasht jellemzõen beágyazott programok tárolására és DRAM-ba olvasására használnak, mivel bitszintû olvasást és manipulációt biztosít, ugyanakkor írási teljesítménye alacsony. A NAND flash chipek a NOR-nél kompaktabb celláik révén nagyobb kapacitást, magasabb írási teljesítményt és egy nagyságrenddel több írási ciklus (cellánként 100 ezer és 1 millió között jelenleg) elviselését ígérik, mielõtt csak olvashatóvá válnának -- vagyis adattárolásra alkalmasabbak, így az mp3-lejátszókban, memóriakártyákban, pendrive-okban is NAND típusú chipeket alkalmaznak.
+
+
+
+
+
+
+A NAND chipek kapacitását a félvezetõgyártási technológia és a chipek fejlesztésével az elmúlt évtized során évente megduplázták a gyártók, amiben a Samsung Electronics jár élen a Toshiba mellett. Az ezredfordulón a legnagyobb kapacitású flash-chipek még csak 256 megabitet, azaz 32 megabájtot voltak képesek tárolni, a mai 16-32 gigabites, vagyis 2-4 gigabájtos változatok ennek 64-128-szorosát hordozhatják. Ezekre a chipekre alapozva a Samsung már évek óta megkezdte nagykapacitású SSD-k szállításait PC-kbe, tavaly óta már a 64 gigabájtos kapacitás is elérhetõ. 
+
+Az SSD-k számos elõnnyel kecsegtetnek a merevlemezekkel szemben. Mivel nem alkalmaznak mozgó alkatrészt, ezért a mechanikai behatásokkal szemben sokkal ellenállóbbak, gyakorlatilag minden ésszerû nagyságú vibrációt vagy ütést elviselnek akár mûködés közben. A vonaton, buszon vagy autóban immár "röccenésmentes" a videolejátszás, és a notebook leejtésekor sem kell aggódni adatainkért -- ugyanezen okból az SSD-k sokkal magasabb megbízhatóságot és rendelkezésre állást ígérnek, nincs mechanikai vagy anyagfáradás. További vitathatatlan elõnyük a kisebb méret és tömeg, ami megintcsak a mobil felhasználáskor jön jól.
+
+A HWSW tesztjében a Samsung 64 gigabájtos PATA felületû SSD-je (MCCOE64GQMPQ) és egy 2,5 hüvelykes, 5400-as percenkénti fordulatú 160 gigabájtos mobil Toshiba HDD (MK1637GSX) vett részt -- mindkét háttértárnak egy-egy Toshiba Portégé R500 ultrahordozható számítógép adott otthont. Adatlapjaik alapján az SSD akár 20 g-s vibrációt is képes elviselni folyamatos üzem alatt, miközben a HDD 1 g felett már parkolópályára küldi az olvasófejeket. Egy ultrahordozható notebookban nem teljesen elhanyagolható szempont az sem, hogy az SSD tömege mindössze 19 gramm, miközben az említett merevlemezé 102 -- sok kicsi sokra megy.
+
+Gyorstesztünk során mindkét Toshiba R500 processzorát azonos órajelen, 800 megahertzen hajtottuk, a merevlemezt töredezettségmentesítettük, és Windows Vistákat használtunk. Egy notebookban, fõként egy ultrahordozható modellben véleményünk szerint elsõséget kell kapjon a fogyasztás és hõfejlõdés a teljesítménnyel szemben, így elsõként lássuk ezt az aspektust. Az egyre fejlettebb gyártástechnológiával készülõ flash chipek elõnye talán itt a legnagyobb: a Samsung SSD-je papír szerint mûködés közben kevesebb mint feleannyit eszik, mint a HDD üresjáratban, legfeljebb 0,36 wattot.
+
+
+
+Fogyasztás, melegedés
+
+Méréseink, melyeket az elméletben azonos felépítésû és beállítású gépeken Lavalys Everesttel végeztünk, alátámasztják a papírformát. A minimálisnál eggyel nagyobb fokozatú, még használható háttérvilágítással, 800 megahertzen üzemelõ processzorokkal, kikapcsolt vezeték nélküli vezérlõkkel és az elõtérben futó Everesttel és feladatkezelõvel az SSD-s gép 8,1 wattal merítette akkumulátorát, míg merevlemezes társa 8,9-9 wattot evett -- ez talán nem tûnik soknak, ugyanakkor a nagykapacitású, 6-cellás akkumulátort feltételezve ez akár 30-40 perc extra akkumulátoridõt jelenthet az SSD-s verzió javára.
+
+A HD Tune olvasástesztjének végére az SSD-s gép merülése meghaladta a 10,1 wattot, miközben a merevlemezes testvér megközelítette a 12,9 wattot -- immár 2,7 wattnyi különbséget láthatunk, ami jelen esetben durván 1 órányi különbséget jelentene akkumulátoridõben. Érdemes fejben tartani, hogy nem csak a gép más alkatrészei, mint a chipset, processzor, memória fogyasztása növekszik meg ekkor, hanem a tápellátás hatékonyságán keletkezett veszteségek is növelik az akkumulátor merülését -- a magasabb fogyasztású merevlemez több energiapazarlást jelent.
+
+Már életszerûbb felhasználást mérnek a HD Tune fájlbenchmark tesztek, melyek különbözõ méretû állományok és blokkméretek olvasásának és írásának szimulációját teszik lehetõvé. Itt tendenciózusan némileg alacsonyabb fogyasztásokat láttunk, így például az SSD-s R500 megállapodott 9,9 és 10 watt között, miközben a HDD-s 12,3 és 12,6 watt között mozogtt -- aktív merevlemezhasználattal ez megintcsak 1 óra különbséget jelent nagyjából egy nagykapacitású akkumulátorral.
+
+Ezt követõen, még mielõtt rátérnénk a teljesítményre, érdemes szót ejtenünk az ergonómiára. Az SSD-s gép halkabb üzemû, mivel az SSD egyáltalán nem bocsát ki zajt, és kevésbé melegszik, így a hûtés is visszafogottabban üzemelhet. A HDD-s változat felülete a bal csuklónál, ahol a Toshiba gépeinél a merevlemezek hagyományosan helyet foglalnak, érezhetõen melegebb volt -- nyugodtan mondhatjuk, hogy huzamosabb használat esetén kellemetlenül meleg, az Everest szerint a meghajtó 40 fokos volt. Szintén említésre méltó, hogy a merevlemez tányérjainak forgása érezhetõ vibrációt keltett a gépben, ami az SSD-s modellnél ez nyilvánvalóan hiányzott.
+
+Teljesítmény
+
+A mobilitás részében az SSD eddig kiütéssel gyõzött, de mi a helyzet a teljesítménnyel? Az SSD-kkel kapcsolatban újra és újra felbukkannak olyan  hírek, vélemények, melyek szerint teljesítményük nem haladja meg a merevlemezekét, vagy a papírformával szemben abszurd módon akár még el is maradnak azoktól. Ezek a vélemények sok esetben ipari célú és nem a legkorszerûbb SSD-kkel kapcsolatban alakulnak ki, melyek látványosan, évrõl évre, vagy inkább félévrõl félévre gyorsulnak, másrészt nagyteljesítményû asztali vagy szervermeghajtókkal készül az összevetés, melyek nem az elsõdleges ellenfelek.
+
+A 2,5 hüvelykes, 5400-as mobil Toshiba merevlemez egy sokkal befoghatóbb, és piacilag reálisabb ellenfél, noha az árkülönbség 5-10-szeres is lehet -- egy prémium notebooknál ez 20-30 százalékos árkülönbségre tompulhat. A nagyméretû fájlok másolásában, melyek során mp3 állományokat és egy CD ISO-t replikáltunk a lemezeken, a Samsung SSD és a Toshiba HDD fej- fej mellett teljesített, átlagosan 19 megabájtos másodpercenkénti másolási sebességgel -- nettó 19 megabájtos olvasási, és 19 írási sebesség.
+
+ HD Tach szekvenciális olvasástesztjében már nagyobb különbség mutatkozott: a tányérok belseje felé haladva a kezdeti 45 megabájtról 25 megabájtra lassult a Toshiba meghajtója (ezért is érdemes a rendszerpartíciót egy tányér külsõ felére definiálni), 38 megabájtos átlagot produkálva, míg az SSD egyenletes 47 megabájtos teljesítményt mutatott. A HD Tune hasonló mérése némileg alacsonyabb értékeket mért: itt az SSD 39-46 megabájt, míg a HDD 21-44 megabájt közötti átvitelt produkált, az átlag 43:36 lett az SSD javára. 
+
+ 
+
+Jelentõsen árnyalják a képet a HD Tune fájltesztjei. Nagyméretû, 128 kilobájt feletti blokkoknál az SSD egyszerûen leszakítja a HDD-t a több megabájtos fájlok beolvasásakor, ugyanis 50 megabájt/s felett teljesít, miközben a HDD 35 megabájt/s környékén beáll. Íráskor ugyanakkor megfordult a helyzet, kiütközik az alkalmazott NAND chipek alacsonyabb írás teljesítménye: míg a tesztelt mobil merevlemez akár 30-35 megabájt/s sebességgel képes írni a tányérokra, addig a cache nélküli  SSD legfeljebb 20-25 megabájtra képes még nagyobb blokkméretnél is.
+
+Az SSD viszonylag lassú írási teljesítménye apró fájlméretnél is látványos, sõt növekszik, így megalapozottnak tûnik az a kritika, hogy bizonyos esetekben, mikor egy alkalmazás sok állomány kiírásával operál, az SSD hátrányba kerül -- ilyen mûködésû lehet például az Outlook. Szintén érdemes figyelembe venni, hogy ekkor a HD Tune alapján az olvasási teljesítményben is lépést tart a merevlemez, vagyis a mérleg egyértelmûen az oldalára billen -- ha nem töredezettek az adatok a lemezen, ugyanis kisméretû fájlok beolvasásakor hozzáférési idõ dominál: az SSD nagyjából negyvenszer gyorsabban találja meg az adatokat. Az SSD írási hátránya a fájlméret növekedésével, a több megabájtos tartományban csökken, de stabilan megmarad.
+
+ 
+
+Mielõtt verdiktet próbálnánk mondani, érdemes nem elfelejteni, hogy az SSD technológia nagyon gyorsan mozog. A Samsung által néhány hete szállított új nagyteljesítményû változat, mely SATA II-es felülettel rendelkezik és elsõként a Lenovo ThinkPad X300-ba került beépítésre, jól jelzi az SSD-k kibontakozó uralmát: a MCCOE64G8MPP-0VA jelölésû meghajtó ugyanis  átlagosan több mint kétszeres írási és tovább fokozott olvasási teljesítménnyel rendelkezik, aminek köszönhetõen a kisméretû fájlok esetén is ha nem is kiütéssel, de maga mögé utasít bármilyen mobil merevlemezt -- apró fájlokkal történõ írásintenzív felhasználásnál egyelõre még versenyben maradt a merevlemez, ami elég sovány, kevéssé releváns terület. Az X300 az újgenerációs meghajtóval mindenféle mérés nélkül is feltûnõen és meglepõen gyorsan indítja a programokat és végez a másolásokkal.
+
+[+] Kipróbáltuk az SSD-vel rendelhetõ Lenovo ThinkPad X300-at
+
+
+Zárszó
+
+Az SSD-k terjedése elõtt lényegében egyetlen akadály áll már csak, ez pedig nem más, mint az ár -- a Toshiba R500 esetében  bruttó 100-120 ezer forint felárat kell kicsengetnünk az SSD-ért. Nem érdemes azonban fejünkben valami drága, megfizethetetlen termékként rögzíteni az SSD-t, ugyanis a technológia fejlõdésénél is gyorsabban ütemben csökken a flash kapacitás ára. Az Intel adatai alapján az NAND-árak a tavalyi harmadik negyedévrõl a negyedikre 28 százalékkal estek, majd ezt követõen egy váratlan mértékû összeomláson ment át a piac az idei elsõ negyedévben, mikor 53 százalékkal zuhantak vissza az átlagos eladási árak, és az év hátralévõ részére sem kecsegtetõek a kilátások.
+
+Az SSD-k ára tehát rohamos léptékben fog csökkenni a következõ hónapok során, miközben sebességük és elérhetõ kapacitásuk tovább növekszik. Ahogyan az SSD-k jelenleg valóban borsos árprémiuma egy fájdalomküszöb alá esik hamarosan, nem kérdéses, hogy közép- és felsõkategóriás notebookokba egyértelmûen jobb választásnak bizonyulnak majd a merevlemezeknél, még a kisebb kapacitás ellenében is: villámgyors programindítások, hosszabb akkumulátoridõ, megbízhatóbb adattárolás. Az iSuppli piackutató cég becslése szerint jövõre az ultrahordozható gépek már több mint negyede bír majd SSD-vel, és nem sokkal maradnak majd egy a mainstream modellek sem ezen arány mögött.
+
+
+Véleménye van?
+szóljon hozzá a fórumban
+írjon szerkesztõségünknek!

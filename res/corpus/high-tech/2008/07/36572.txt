@@ -1,0 +1,18 @@
+Még idén többszörösére gyorsul a Firewire interfész
+
+[TG Daily/HWSW] Ha minden az eredeti tervek szerint alakul, még az idei évben felkerülhetnek a boltok polcaira az elsõ olyan termékek, melyek az IEEE 1394, vagy ismertebb nevén Firewire szabvány legújabb, a korábbiaknál lényegesen gyorsabb adatátvitelt ígérõ változatával kompatibilisek. A szabványalkotó testület a napokban elfogadta ugyanis az IEEE 1394-2008 szabványt, mely a már meglévõ rendszer alapjain teljes visszamenõleges kompatibilitást nyújt, miközben a jelenlegi sebességértékek négyszeresét-nyolcszorosát hozza.
+
+
+
+A Firewire vezetékes adatátviteli szabvány fejlesztése az 1980-as években kezdõdött -- az Apple egy olyan interfészt kívánt bevezetni a számítástechnika világába, mely az akkor elterjedt szabványoknál jelentõsen gyorsabb és egyszerûbb összeköttetést nyújtott. Az elsõ Firewire szabvány végül csak 1995-ben lett kész, komolyabb népszerûséget azonban csak az ezredforduló után szerzett magának, miután az Apple és a Sony több számítógépére is épített ilyen interfészt, ezzel együtt több szórakoztatóelektronikai berendezésen (például videokamerák) is megjelent a Firewire-csatoló.
+
+Tüzesebb drótok
+
+A jelenleg széles körben elterjedt IEEE 1394-kompatibilis eszközök a maximum 400 megabit/másodperces sávszélességgel rendelkezõ S400-as szabványnak felelnek meg. Bár 2003-ban egy szabványkiegészítés révén kétszeresére gyorsították az interfész áteresztõképességét, az S800-as eszközök máig nem tudták megvetni a lábukat a piacon, elsõsorban azért, mert a gyorsabb adatátvitel érdekében hatról kilencre kellett növelni a kábelben vezetett rézdrótok számát, ami egy új csatlakozó bevezetését is indokolttá tette.
+
+A most elfogadott IEEE-2008 szabvány megõrzi a kompatibilitást minden korábbi csatlakozófajtával, ezzel együtt a közeg átviteli sebességét is sokszorosára növeli: a Firewire S1600 és S3200 szabványok az eddigi jelölési rendszernek megfelelõen másodpercenként 1,6 vagy 3,2 gigabit adat továbbítását teszik lehetõvé.
+
+
+A szabványalkotók ezzel együtt készen állnak arra, hogy a Firewire interfészt tovább gyorsítsák, így belátható idõn belül 6,4 gigabit/másodpercig emelkedhet a rendszer áteresztõképessége -- ehhez azonban már optikai átvitelt kell használni.
+
+Hasonlóképpen optikai adatátvitelre, pontosabban hibrid megoldásra épít az iparágban manapság legelterjedtebbnek számító USB csatolóinterfész várhatóan idén elkészülõ 3.0-s verziója, mely teljes kompatibilitást nyújt a szabvány 2.0-s verziójának megfelelõ eszközökkel, az átviteli sebességet viszont a tízszeresére, 4,8 gigabit/másodpercre emeli.

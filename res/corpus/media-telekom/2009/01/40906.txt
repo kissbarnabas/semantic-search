@@ -1,0 +1,49 @@
+Mobilinternet: 3 képernyõ vagy 3 számla?
+
+Tavaly a hazai távközlési piac legnagyobb slágere egyértelmûen a mobilnet volt. Az egyre olcsóbb csomagok révén ma már bárki számára megfizethetõvé vált a földrajzi kötöttségektõl szinte teljesen mentes, szélessávú hozzáférés. Terjednek a laptopok, netbookok, okostelefonok, sokan szeretnének akár több mobil eszközrõl is netezni, azonban ehhez továbbra is több elõfizetés szükséges. A HWSW megpróbálta kideríteni, miért is van ez így.
+
+
+
+Nincs kombó
+
+Az alaphelyzet, miszerint a modern, felvilágosult felhasználó rendelkezik egy hordozható számítógéppel, illetve egy okostelefonnal, esetleg kéziszámítógéppel is, nem olyan meredek elképzelés. A korai befogadók, informatikusok, technokraták, hálózatfüggõk és utazó üzletemberek nagy részének teljesen hétköznapi igénye, hogy a nap 24 órájában képesek legyenek elérni az internetet, függetlenül attól, hogy hol vannak, és hogy milyen eszköz van a kezükben. 
+
+Mindhárom mobilszolgáltató kínál mobil szélessávú eléréseket különbözõ kondíciókkal. A listában egyaránt vannak külön elõfizetésként megköthetõ, és csak opcióként használható díjcsomagok, de az az igény, hogy egy elõfizetõ a havi adatforgalmat korlátlan adatforgalmat magában foglaló csomagját az okostelefonján és a noteszgépén is egyránt  használhassa, egyelõre nincs kielégítve. A HWSW ismeretei szerint jelenleg a mobilnet-elõfizetõk legalább 2-3 százaléka üdvözölne olyan kombinált megoldást, ahol kettõ vagy több SIM-kártyával, több eszközön, ugyanazt az internet-elõfizetést használhatná. Szerkesztõségünk megkérdezte mindhárom szereplõt, hogy miért nem tûnt még fel ez a verzió az ajánlatok között.
+
+Kényelmetlen kompromisszum
+
+Mindhárom szolgáltatóból sikerült ugyan kisajtolni valamilyen  választ, azonban ezek egyike sem volt hivatalos állásfoglalás: a cégek elvileg nem nyilatkozhatnak olyan szolgáltatásokról, melyek bevezetése még nem történt meg. A Vodafone-nál még a kérdést sem értették meg, vagy csak nem akarták megérteni: a korlátlan mobilnet úttörõje szerint a fenti probléma könnyen áthidalható, ha a hangcsomag mellé kötött adatopciót nem csak a mobiltelefonon használjuk, hanem a készüléket (kábellel vagy Bluetooth-szal) összekötjük a számítógéppel. 
+
+[+] Újra trükközik a Vodafone - Internet félig-meddig Szabadon
+
+Természetesen ez a másik két szolgáltatónál is lehetséges, de nem oldja meg a problémát. Egyrészt az elérhetõ sávszélességet a Bluetooth-kapcsolat korlátozza (Bluetooth 2.1 specifikáció esetén 2,1 Mbit/s az elméleti maximum, a gyakorlatban ez jóval kevesebb), másrészt nem épp felhasználóbarát megoldás a mobilinternetezés elõfeltételei közé a telefon akkumulátorának töltöttségét is beilleszteni. Egy 1500 mAh kapacitású teleppel szerelt mobilt alig 2-3 óra alatt teljesen lemerít az aktív Bluetooth- és HSDPA-kapcsolat. Bluetooth helyett adatkábelt használva ugyan csökken a fogyasztás, de a beépített HSDPA-modemek korában senki sem szeretne egy tízdekás lógó dobozt a notebook oldalán. Ez a verzió tehát egy kényelmetlen kompromisszum. 
+
+Ahány gép, annyi szokás
+
+A másik kényszermegoldás, hogy az aktív online életet élõ felhasználó külön elõfizetést köt a mobiltelefonjára és vásárol egy külön elõfizetést a noteszgépéhez is: két díjcsomag, két SIM-kártya. Ahogy mi is folyamatosan beszámoltunk róla, mára mindhárom szolgáltató kínál korlátlan adatforgalmat magában foglaló csomagokat, kisebb, fõként mobiltelefonra szánt korlátos csomagokat, a Vodafone és a Pannon kínálatában pedig elõfizetési díj nélküli, 100 százalékban forgalomarányos csomagok is találhatóak.
+
+A szolgáltatók weboldalai és az ügyfélszolgálatok tájékoztatása szerint a Pannon Mobilinternet 100Mb, Vodafone Start, illetve a Vodafone Internet 100 csomagokat leszámítva az összes változat megrendelhetõ már meglévõ hangcsomag mellé opcióként és külön elõfizetésként is. Így legalább mindenki igényeinek megfelelõen válogathatja össze a két csomagot, melyet a telefonján és noteszgépén használ -- ezek tetszés szerint akár külön szolgáltatótól is származhatnak. 
+
+Lenne mit tölteni
+
+Az online aktivitás nagyban változhat annak függvényében, hogy az ügyfélnek milyen készüléke van, illetve milyen igényei. Egy normál telefonon rendszeres e-mailezéshez, illetve böngészéshez elegendõnek tûnnek a kisebb csomagok, bár ezek minden egyes eltelt hónappal egyre szûkösebbnek tûnnek. A Vodafone és a Pannon kínálatában a legkisebb, havi 100 megabájtos forgalmat tartalmazó csomag 1500, illetve 1990 forintot kóstál -- a Vodafone a korlát túllépése esetén megabájtonként 48, míg a Pannon  megabájtonként csak 30 forintot számláz a továbbiakban. Ebben a kategóriában a T-Mobile az abszolút vesztes, hiszen 1990 forintért mindössze havi 80 megabájtot ad, azt túllépve pedig megabájtonként 100 forintot számláz. 
+
+A HWSW tapasztalatai alapján pusztán weboldalak nézegetésével, webrádióval, videomegosztókkal és VoIP-pal már napi 2-3 órás  internetezés mellett is könnyedén átléphetõ a havi 5 gigabájtos korlát. Így a noteszgéphez vásárolt elõfizetésre mindenképp érdemes a korlátlan opciókat megkötni, a kellemetlen meglepetések elkerülése végett. Ez a Vodafone esetében havi 6000 forintba (Internet Szabadon), a Pannonnál 5990 forintba (Éjjel-nappal), T-Mobile-nál havi 5760 forintba (5 GB + korlátlan opció) kerül. 
+
+	     
+                  
+                  
+                  
+                  
+                  
+                  
+                  
+                    A cikk több oldalból áll:
+                    
+                    
+                        1. oldal: Mobilinternet: 3 képernyõ vagy 3 számla?
+                      
+                        2. oldal: Triple pay
+                        
+                    
+                  

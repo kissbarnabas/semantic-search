@@ -1,0 +1,51 @@
+Kipróbáltuk: Microsoft Photosynth - fotóalbum három dimenzióban
+
+A turizmussal kapcsolatos fejlesztések közé sorolják a Microsoft legújabb szolgáltatását, a Photosynth-et, de akár ingatlanosok és pedagógusok is felkaphatják a fejüket a normál fotókból háromdimenziós teret létrehozó webes szolgáltatásra. Nem utolsósorban pedig egyszerûen cool és szórakoztató.
+
+
+
+Hogy mûködik?
+
+A Microsoft Live Labs és a Washingtoni Egyetem közös fejlesztéseként látott napvilágot a képmegosztó szolgáltatás, ami a feltöltendõ (egybefüggõ) fotósorozat elemzése után egy háromdimenziós pontfelhõt rajzol a kinyert információk alapján, majd a referenciapontok segítségével a kétdimenziós képeket elhelyezi a modellen belül. Soha nem látott átfogású panorámaképek mellett belsõ- vagy külsõ terek teljes 360 fokos modelljét elõ lehet állítani, egy körbefényképezett tárgyat körül lehet járni, amennyiben a feldolgozott felületek valamelyikérõl közelebbi, részletesebb felvétel is készült, azt is képes beilleszteni. 
+
+Photosynth fõoldal 
+
+A Photosynth használatához, legyen az csupán a feltöltött kompozíciók nézegetése vagy új "synthek" létrehozása, le kell tölteni a szoftverét, mely egy böngészõbe beépülõ modulból és az asztali alkalmazásból áll. A feltöltéshez a szolgáltatás weboldalán kell bejelentkezni a Microsoft univerzális Live ID-jével. Ezzel Magyarországon biztosan nem lesz probléma, hisz a legtöbb internetezõ itthon rendelkezik Live Messenger azonosítóval, ami szintén Live ID-alapú. Az asztali szoftver a végletekig egyszerû: egy új synth létrehozását kezdeményezve csupán a képfájlokat kell kiválasztani,  beállítani a kívánt szerzõi jogokat, a többit a program önmaga végzi.
+
+A technológia két fontos részbõl áll, az elemzésbõl, illetve a háromdimenziós megjelenítésbõl. Az elõbbi a felhasználó számítógépén zajlik, így ennek sebessége nagyban függ a számítógép teljesítményétõl is. A program minden képet megvizsgál és érdekes, felismerhetõ pontokat keres rajtuk. Sarkokat, markáns tárgyakat, kereteket, az ajtón kilincset, jellemzõ formákat kell lelnie, hogy a következõ lépésben képes legyen összepárosítani a pontokat. Ezen pontok az egyes képeken egymáshoz viszonyított helyzete alapján készül el a háromdimenziós pontfelhõ. Számítanak a szögek, a távolság és a torzulás is. Az eljárás egyébként nem újdonság, a fotogrammetria, mint tudomány jó ideje használ kétdimenziós fotósorozatokat, hogy meghatározhassák tágyak, épületek valós kiterjedését. 
+
+Ez a kalkulációs folyamat masszívan erõforrásigényes, jóllehet minden képsorozat esetén csak egyszer kell türelmesen végigvárni a számításokat. Éppen emiatt ezeket a nem a Microsoft szerverei végzik, hanem minden felhasználó a saját gépével oldatja meg a feladványt, legalább értelmet nyernek a többmagos, nagyteljesítményû processzorok a hétköznapokban is. A következõ lépés a feltöltés: miután felkerül a pontfelhõ és a hozzá tartozó képek és indexek, a Photosynth weboldalán publikusan megtekinthetõek a térbeli galériák. A feltöltés után ezek nem módosíthatóak, tehát nem lehetséges újabb részleteket tartalmazó képeket hozzáadni egy létezõ albumhoz, csak úgy, ha az eredetit töröljük, újraválogatjuk a képeket és ismét létrehozzuk.
+
+ 
+
+
+ A megjelenítéshez a Microsoft által 2006 januárjában megvásárolt Seadragon technológiát használja fel a szolgáltatás, amivel lehetségessé válik nagyfelbontású fényképek zoomolása, forgatása anélkül, hogy elõtte a képeket le kellene tölteni a felhasználó számítógépére. Egy album betöltõdése után egy kiinduló kép elõtt találja magát az érdeklõdõ, ami nem feltétlenül egyetlen kép, hanem akár több átfedéssel készült "nézet".
+
+Hogyan használható?
+
+Innentõl kezdve az egér segítségével szabadon lehet haladni, forogni a virtuális térben, a fotókat meg lehet tekinteni bármilyen szögbõl, rá lehet közelíteni az apró részletekre is, amennyiben megfelelõ felbontású az alapanyag. A navigáció, kezelés kulcsa, hogy a kurzort mozgatva látjuk, hogy a létrehozott térben hol vannak az egyes képek szélei, s átkattintva ezekre újabb perspektívákra lehet váltani. Megtanulni nem, csak ráérezni lehet némi bolyongás után, de egyelõre a mozgatás nem csúcspontja a szolgáltatásnak, fõleg, ha többszörös átfedések vannak, és nagyon különbözõ nézetek találkoznak.
+
+A kezelés ugyan egyszerû szabályokon nyugszik, mégsem ideális még teljesen hétköznapi használatra. Sajnos ugyanez igaz az albumok készítésére is. A nyaralásról készült fotókat hiába töltjük fel, az eredményhez ide dedikált, tudatosan fotózott sorozatok kellenek, ami szinte kizárja a hobbifelhasználókat. Egy jó panorámához nyaralás közben is lõhet valaki 9-12 képet véletlenül, de ha egy görög falu szûk utcácskáinak hangulatát szeretné valaki átadni, akkor ahhoz ott helyben kell gondolkodni, egészen addig, amíg meg nem nyílik ugyanennek a szolgáltatásnak a közösségi változata. 
+
+
+Fotók: Bagó Dániel -- Modell: Nemes Katalin
+
+Tesztünk során kiderült, hogy a Photosynth tanulási görbéje igen meredek és magasan van a vége. A túl kevés kép esetén hiányos lesz az album, megszakad a tér, ha túl sok van, akkor pedig sûrûvé válik és nehezen navigálható. A legegyszerûbb eset, mikor egy helyben állva körbefotózza valaki a belátható teret, mintha tapétázna, ekkor egy körpanorámát tudunk elkészíteni. Ha több pontról fotózunk, végigpásztázva a felületeket, akkor nyerünk körbejárható teret.
+
+Ilyen például a cikkben fentebb mellékelt album, melyet a Jókai téren készítettünk. Jól látszik, hogy a falfelületeket precízen csatolja egymáshoz az algoritmus, a középen álló lányról készült közeli képek viszont sokszor megzavarták a rendszert. A nyújtott, torzított hátterekkel együtt az õ alakja is belekerült az összemosásba, így gyakran többszörözve szerepel egyes nézeteknél. Ez az album 8 pontból a középpont felé pásztázva (fel, le, balra, jobbra, középre) készített képeket, illetve a középpontból kifelé fotózott képeket is tartalmaz. Ez némileg zavarossá teszi az albumot, de a cél a tesztelés volt, ebben pedig minden variáció megtalálható egy kis ügyességgel.
+
+ 
+
+Amennyiben az algoritmus érzékeli egy objektumról, hogy több képen különbözõ oldalról is készült róla felvétel, akkor egy gyûrû jelenik meg felette a keret helyett, amire klikkelve a tárgy körbejárható. A léptékek részletessége pedig természetesen attól függ, hogy hány kép készült. A dinamikus keretek/gyûrûk mellett a kép szélein mindig látható, hogy mely irányokba lehet továbbhaladni, illetve a jobb felsõ sarokban lévõ néhány gomb segítségével elindítható egy automata vetítés, ami szisztematikusan körbevetíti a térbe rendezett képeket. Válthatunk manuálisan is a nézetek között, amivel elõhívhatóak az izolált képek is, illetve síkban is megnézhetõek a képek szépen egymás után, térhatás nélkül. Letölteni viszont nem lehet a képeket, mint a Picasáról, a 2D nézet inkább hasonlít a Képes Krónika Silverlighttal megtámogatott változatához. 
+
+
+
+
+
+Mit hozhat a jövõ?
+
+A szolgáltatás egyelõre fejlõdõ stádiumban van, nem elképzelhetetlen, hogy akár néhány hetente ugrik valamennyit, de ebben a formában még kissé megkérdõjelezhetõ a hasznossága. Be lehet ágyazni az elkészült albumokat, ami egy lakáshirdetésnél vagy egy élménybeszámolónál exkluzív lehet. Amennyiben viszont nem integrálódik egyéb szolgáltatásokba legalább olyan simulékonyan, ahogy a beválogatott képek illeszkednek benne össze, akkor könnyedén válhat játékszerré.
+
+A Microsoft Virtual Earth projektjébe tökéletesen illeszkedik, s az integráció folyamatát megerõsítendõ, Szûcs Julianna, a Microsoft Magyarország PR managere kérdésünkre elmondta, hogy "a lelkes felhasználókat kiszolgálandó a jelenlegi oldal is fennmarad, de szorosan együtt dolgozunk a Virtual Earth-beli kollégáinkkal, részletekkel viszont csak késõbb szolgálhatunk." Az Egyesült Államok egyes városainál a Microsoft Virtual Earth-ön belül mûködik a "madártávlat" nevû funkció, ami részletes, nagyfelbontású fotókkal egészíti ki a térképet, illetve a modellezett épületeket. Jelenleg ezek légifotók, de az elv és a kezelés megegyezik a Photosynth-tel, így csak idõ kérdése, hogy mikor mosódik össze a két szolgáltatás.
+
+Emellett valóban van helye oktatásban, turizmusszervezésben, ingatlannal foglalkozó területeken is, de a Microsoft közlése szerint a közösségi, úgynevezett "synth linking" megvalósulása is várható, ahol egymástól függetlenül készült sorozatok legmegfelelõbb elemeibõl épül majd fel egy tökéletes tér. Szûcs Julianna ezzel kapcsolatban megjegyezte, hogy most kezdett el a Microsoft dolgozni ezen, a megjelenési idõpontot éppen ezért még nem tudják megjósolni. 

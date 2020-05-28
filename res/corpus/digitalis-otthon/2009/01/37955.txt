@@ -1,0 +1,37 @@
+Védtelenül hagyják a bootoló PC-t a 2009-es Norton-termékek
+
+A Norton AntiVirus és az Internet Security 2009-es változata jópofa trükköt alkalmaz a bootolás felgyorsítására, azonban ennek ára van: a számítógép a rendszerindítás ideje alatt teljesen védtelen.
+
+
+
+Sebességláz
+
+Az utóbbi idõben a víruskeresõk gyártói körében valóságos versengés tört ki abban, ki tudja a lehetõ legkevesebb erõforrást fogyasztó szoftvert készíteni. Az ok igen egyszerû: ez az a paraméter, amelyekkel el lehet kápráztatni a vásárlókat, meg lehet nyerni az összehasonlító teszteket, ki lehet érdemelni a szaklapokban a díjakat, csillagokat. A védelmi szoftverek képességei között látszólag kicsik a különbségek, az átlagfelhasználó sokszor az alapján dönt, hogy telepítés után mennyivel lassul a PC-je.
+
+
+
+
+Elindult a magyar terméktámogatás
+
+Jó hír a Symantec-termékek hazai vásárlóinak, hogy a vállalat immár magyar nyelven is nyújt támogatást a szoftverekhez. Probléma esetén Kovács Árpád terméktámogatási munkatárs a +36-1-4751312 telefonszámon, illetve az arpad_kovacs@symantec.com e-mail címen áll az ügyfelek rendelkezésére
+
+
+
+A Symantec termékeit korábban is sok kritika érte amiatt, hogy túl sok erõforrást használ fel, "megfogja a gépet". Nem csoda, hogy a Norton AntiVirus és a Norton Internet Security 2009 legfontosabb újdonságának a kisebb erõforrásigényt, a megnövekedett sebességet kiáltotta ki a gyártó. Persze a cég folyamatosan azt hangoztatja, hogy a megfelelõ védelem az elsõdleges, de ha ennek ára a PC csigalassú mûködése, a vásárlók inkább más alternatíva után néznek -- biztonsági programokból ma már elképzelhetetlenül széles a választék.
+
+Mikor indul a rezidens védelem?
+
+Annak érdekében, hogy a 2009-es Norton-programok telepítése után ne nehézkedjenek ólomsúlyként a PC erõforrásaira, a Symantec programozói érdekes trükköt vetettek be. A szoftverekben helyet kapott az "early load" opció, amely lehetõvé teszi, hogy a rezidens védelem ne rögtön a rendszer indításakor töltõdjön be, amikor amúgy is szoftverek tömkelege próbál elindulni, 100 százalék közelébe növelve a processzor és a merevlemez terhelését, hanem csak késõbb. Ezzel csökken a bootolásnál a tumultus, a gép hamarabb lesz használható.
+
+
+ Próbánk során megnéztük, milyen gyorsan indul a gép az "early load" kikapcsolt és bekapcsolt állapotában. Kikapcsolt állapotban a felhasználói jelszó beírása után 1 perc és 24 másodperc telt el, mire a gép felállt és megjelentek a szokásos ikonok a tálcán. Az early load bekapcsolása esetén ugyanerre közel 1 perccel tovább kellett várni. Mi ennek az oka?
+
+
+
+A Norton Internet Security 2009 memórarezidens védelme (AutoProtect) rögtön a fájlrendszer drivereinek betöltõdése után indul. Ha az "early load" ki van kapcsolva, az AutoProtect akkor indul, ha a processzor terhelése 40 százalék alá esik -- tudtuk meg a cégtõl. Nyilvánvalóan az a legbiztosabb, ha a rezidens védelmet a lehetõ leghamarabb elindítjuk, a Norton Internet Security 2009 súgójában is azt javasolja a Symantec, hogy a maximális védelem érdekében az "early load" opció legyen bekapcsolva. A probléma csak az, hogy ez az opció alapértelmezésként ki van kapcsolva, ami azt jelenti, hogy a gép indításakor nincs aktív kártevõvédelem. Hogy meddig nincs, az látszólag attól függ, hogy a Windows indításakor hány szoftver indul el automatikusan, magasan tartva a processzor terhelését.
+
+Negyvenhat másolat készült a vírusból
+
+"Az early load alapértelmezésként ki van kapcsolva, mivel lelassítja a rendszerindulást" -- tájékoztatta lapunkat Symantec fogyasztói termékekért felelõs európai vezetõje, Con Mallon. "Ez azonban nem megy a biztonság rovására. Az AutoProtect funkció rendszerindításkor mindig elindul, a kérdés az hogy mikor. [...] Úgy gondoljuk, a legtöbb esetben az early load kikapcsolt állapotban is megfelelõ biztonságot nyújt, miközben lerövidíti a rendszerindítási idõt."
+
+Egy próba során kikapcsolt "early load" mellett 46 (negyvenhat) másolatot tudtunk készíteni a vírusirtók tesztelésére is használt eicar.com fájlról, csak ezt követõen indult el és riasztott az AutoProtect, ami megakadályozta a további másolatok készítését. Ezek alapján úgy tûnik, ha valaki a Norton AntiVirus 2009-re vagy a Norton Internet Security 2009-re bízza gépe védelmét, bootolás közben sebezhetõ marad. Valószínûleg csak idõ kérdése, hogy megjelenjenek olyan kártevõk, például dropperek, amelyek ezt kihasználva a rendszer indulására idõzítik tevékenységüket, amikor a memóriarezidens védelem még nem aktív. Akár meg is akadályozhatják a védelem betöltõdését és ezután szabadon garázdálkodhatnak.

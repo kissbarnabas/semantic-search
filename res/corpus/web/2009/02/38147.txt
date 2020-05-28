@@ -1,0 +1,17 @@
+Már az SSL-lel védett weboldalakon sincsenek biztonságban az információk
+
+[The Register/Forbes/HWSW] Az amerikai fõvárosban zajló Black Hat konferencia zárónapján Moxie Marlinspike olyan módszert ismertetett, amellyel az SSL-t használó weboldalakról is megszerezhetõk a felhasználók által megadott bizalmas adatok. A titok nyitja egy "man in the middle" támadás, vagyis beépülés a felhasználó és a weboldal közötti kommunikációba.
+
+
+
+A támadás alapja egy SSLstrip nevû szoftver, amely képes elhitetni a felhasználóval hogy egy SSL-el védett oldallal áll kapcsolatban, illetve a weboldallal azt, hogy a titkosított kapcsolat még él -- az SSLstrip, ahogy a neve is mutatja, megszabadítja az oldalt az SSL-titkosítástól, eközben még akár a favicont is képes lakatra cserélni, így a felhasználó csak akkor veszi észre a turpisságot, ha a címsorra pillant, ott ugyanis https:// helyett http://-vel kezõdik az URL. Az SSL nélküli oldalra irányíthatja, ahol ha megadja adatait (pl. jelszavát, hitelkártya-számát), azok titkosítatlanul a támadók kezébe kerülnek.
+
+
+ A felhasználóktól bizalmas adatokat váró, amúgy SSL-t használó webhelyek (pl. bankok weboldalai) túlnyomó többsége egy sima, "védtelen" nyitóoldallal indul, és csak akkor alkalmaz SSL-t, ha a látogató adatokat küld el, például a bejelentkezési nevét és a jelszavát. Az SSLstrip segítségével be lehet csapni a felhasználót, hogy az azt higgye, biztonságos kapcsolaton keresztül kommunikál az oldallal.
+
+
+
+
+Moxie Marlinspike elõadása során elmondta, hogy a módszerével kísérletezve több tucat Gmail felhasználói nevet és jelszót, Paypal belépési azonosítót, illetve hitelkártya-számot szerzett meg anélkül, hogy a rászedett felhasználók gyanút fogtak volna -- egyiküknek sem tûnt fel, hogy az URL nem https-sel kezdõdik, mindenki megadta az adatokat.
+
+A különféle webböngészõk különféleképp jelzik a felhasználónak, hogy az éppen megtekintett weboldal biztonságos-e, miközben a weboldalak tervezõi is igyekeznek mindent megtenni azért, hogy azt kommunikálják a látogatókkal, hogy biztonságos helyen járnak. Éppen ezért -- vélekedik Marlinspike -- ma már senki sem tulajdonít jelentõséget ezeknek az információknak, ha valaki meglátja a megszokott "lakat ikont", már írja is a jelszót vagy kártyaszámot anélkül, hogy meggyõzõdött volna a kapcsolat biztonságáról.

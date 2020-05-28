@@ -1,0 +1,10 @@
+Az Oracle RAC babérjaira tör a Sybase
+
+Bejelentette az Adaptive Enterprise Server adatbázis fürtözhetõ változatát a Sybase. Az ASE Cluster Editionbõl az Oracle RAC-hoz hasonló magas rendelkezésre állású, terhelésmegosztásos rendszerek építhetõk fel -- az adatbáziskezelõ több szerveren fut, de mindannyian azonos adatbázishoz, egy megosztott diszkterülethez csatlakoznak. A csomópontok egyformán írnak, olvasnak és törölnek adatokat. Éppen ezért az egyik csomópont meghibásodása esetén az adatbáziskezelõ nem áll le, csupán a teljesítmény csökken, azaz a fürt továbbra is ki tudja szolgálni a kéréseket.
+
+
+
+
+Az ASE Cluster Edition alapja a szabadalmazás alatt álló Virtualized Resource Management (VRM) technológia, amely segíti a fürtök létrehozását, illetve azt, hogy az ASE szerverek összehangoltan, optimális erõforrás-kihasználtsággal vegyenek részt a kliensek kiszolgálásában -- a cég szerint ezáltal jelentõs megtakarítások érhetõk el mind a hardverek, mind pedig az üzemeltetés költségén. A VRM révén logikai fürtök alakíthatóak ki a fizikai szerverekbõl, amelyek között dinamikusan, az aktuális terhelésnek megfelelõen kerülnek elosztásra a fizikai szerverek erõforrásai. Így optimális kihasználtság érhetõ el tervezett és nem tervezett leállások, kiugró terheléssel járó idõszakok alatt is.
+
+A Sybase ASE Cluster Edition február óta elérhetõ Red Hat Enterprise Linux 4 és 5 (x86 és x64), 64 bites SPARC Solaris 9 és 10, illetve SuSE Linux 9, 10 (x86 és x64) platformokon.

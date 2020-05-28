@@ -1,0 +1,39 @@
+Alig várja már a vSphere 4 bevezetését a MOL
+
+VMware: több év elõnyünk van
+
+Nagyjából egy hónappal a globális bejelentést követõen Magyarországra
+is elérkezett a VMware virtualizációs platformjának következõ
+generációja. A vSphere 4 a cég szerint az elsõ cloud operációs
+rendszer, ebben azonban kétségtelenül sokkal több a marketing, mint a
+mûszaki tartalom, amit maga Marek Swierad, a kelet-európai régióért
+felelõs menedzser is elismert a HWSW-nek egy mai sajtótájékoztatón.
+Mint mondta, az átnevezés csak tükrözi a vállalaton belüli
+gondolkodást.
+Swierad szerint még mindig csak a virtualizáció terjedésének elején járunk, a VMware adatközpont fókuszú fejlesztései a szerverkezelés automatizálásra összpontosít, amivel kapcsolatban a következõ hónapok során várhatóak új bejelentések. A bejelentések az izraeli B-hive Networks egy évvel ezelõtti felvásárlásával kapcsolatosak, mondta el Swierad. A B-Hive elsõsorban Conductor terméke révén vált érdekessé a VMware
+számára, mellyel a virtuális gépek viselkedését lehet monitorozni és
+elemezni. Az így detektált teljesítményproblémák orvoslására, mint
+például egy szerver esetében a magas válaszidõ, az ESX Server
+automatikusan további erõforrásokat bocsáthat a vendégrendszer
+rendelkezésére, vagy terheléselosztás esetén akár tovább másolatokat
+hozhat létre belõlük. A Conductor egyúttal képes érzékelni, ha a futó
+virtuális gépen belül fennakadt az alkalmazás, ugyanis a hálózati
+adatforgalmat elemzi. A VMware bejelentése minden bizonnyal a monitorozási és automatizált menedzsment funkcionalitás javításáról szólnak.
+Ezen túlmutatóan azonban a desktopvirtualizáció is hatalmas potenciállal bír, vélik a cégnél, a&nbsp; kiszervezett desktopok piaca öt éven belül 50 milliárd dolláros globális lehetõséget kínál majd, mondta el. A menedzser szerint a VMware lépéselõnye 3-4 év, és a szállítók jelenlegi garmadája néhány szereplõre fog hamarosan szûkülni, melyek közül csak a VMware és a Microsoft tûnik biztos befutónak. A konszolidációt követõen lesz értelme interoperabilitásról beszélni, véli, addig azonban a VMware teljes mértékben a saját technológiájának továbbfejlesztése felé fordul.
+Hatékonyság, rendelkezésre állás
+
+A vShpere 4 bár nem forradalmi, sokkal inkább egy következõ evolúciós lépcsõfok, jelentõs elõrelépést képvisel szinte minden területen. A VMware egyik legnagyobb magyarországi felhasználója, a MOL is tervezi a vSphere 4-re történõ áttérést, amitõl a jelenlegi Infrastructure 3 jelentette képességek és elõnyök további fokozását várja. 
+Sárándi Attila, a MOL üzemeltetési csapatában munkálkodó rendszermenedzser a fontos újítások közé sorolta a Distributed Power Management képességet, ami a terhelés és SLA-k figyelembe vételével lehetõvé teszi a szerverek automatizált, szabályokkal vezérelt tehermentesítését és lekapcsolását, majd igény esetén az ismételt bekapcsolást és a ráterhelést, így minimalizálva a felesleges energiafogyasztást. A MOL a virtualizációval csak az energiaköltségeken meg tudott takarítani annyit, mint amennyibe a VMware licencek kerülnek, árulta el Sárándi, összességében pedig 100 milliós nagyságrendû spórolásról lehet beszélni a virtualizált IT-infrastruktúra esetében. A virtuális gépek mozgatása rutinfeladat, egy nap alatt gyakorlatilag egyetlen VM sem marad a helyén a terhelés dinamikus elosztása érdekében, közölte az olajvállalat informatikusa.
+Az ESX 4.0 hypervisorra épülõ vSphere 4 másik újdonsága, melyet Sárándi felsorolt a jövõbeni fejlesztési tervek közt, a hibatûrõ virtuális gépek (VM) megjelenése. Ahogyan azt a vShpere 4 bejelentésének kapcsán már megírtuk, a VMware Fault Tolerance (FT)
+úgynevezett lockstep technikával (vLockstep Technology) operál, vagyis
+minden adatot, és állapotot kétszer tárol el, ahogyan a
+processzormûveleteket szinkronban, párhuzamosan hajtja végre. Ez azonban senkit se vezessen félre, ez a lockstep nem hozza el a hardveres implementációk jelentette megemelt megbízhatóságot, a funkció célja az adott VM rendelkezésre állásának fokozása, mely az operációs rendszer vagy alkalmazás szintjén megvalósított klaszterizációt hivatott felváltani.
+Az FT VM-ek egy virtuális processzorra vannak korlátozva,
+ráadásul legrosszabb esetben 5-20 százalékos teljesítménycsökkenéssel
+is jár a protekció, így teljesítményigényes SMP-alkalmazásokhoz nem
+megfelelõ. Sárándi szerint azonban számos olyan alkalmazás van, melyek egyáltalán nem teljesítményigényesek, ugyanakkor ésszerû keretek közt a lehetõ legmagasabb rendelkezésre állást igénylik. Ilyen például az az intranetes weboldal, mely az SAP alkalmazásokba történõ belépés elõtt azonosítja a felhasználókat -- ennek leállását szinte azonnal érzékelné a vállalat mûködése. Ehhez hasonló, a hardveres&nbsp; hibákat tûrõ rendelkezésre álláshoz fizikai IIS-fürtözésre volna szükség, ami összehasonlíthatatlanul magasabb költségekkel és több bonyodalommal járna. Sárándi hozzátette, a MOL-nál futó mintegy 300 VM nagy része,
+közelítõleg fele egyprocesszoros, és átlagosan tíz VM fut egy fizikai
+gazdán, melyek így tipikusan 80 százalékos kihasználtsággal üzemelnek.
+Az FT VM-ek a virtualizáció egyik legnagyobb elõnyét fokozzák tovább, mégpedig a leállások számának drasztikus csökkentését. A MOL az elmúlt évek során több mint száz VM leállást úszott meg a vMotionnek köszönhetõen a hosztok tervezett szervizeléseinél, melyek többnyire RAM-bõvítéseket, karbantartást és az ESX frissítését jelentik. Ezen túlmenõen 15 nem tervezett leálláskor összesen 54 órányi szolgáltatáskiesést spóroltak meg annak köszönhetõen, hogy a VM-eket sokkal gyorsabb újra lehet indítani, mint a fizikai szervereket, mindössze néhány percet vesz igénybe. Sárándi ehhez kapcsolódóan leginkább annak a lehetõségét hiányolja, hogy egyetlen VM patchelését annak újraindítása, vagyis a szolgáltatás kiesése nélkül meg lehessen oldani.
+Elszaporodnak a VM-ek
+Minden elõnye ellenére ugyanakkor a virtualizációnak vannak hátulütõi, ismerte el a szakértõ."Ha virtualizációt vezet be valaki, jóval több Windows Servere lesz, mint korábban" -- fogalmazott Sárándi. Ez a rendszerképek számának, és az ezzel járó karbantartási feladatok növekedését jelenti, Sárándi szerint ugyanakkor mindez bõségesen megéri az olyan elõnyök fényében, mint az alkalmazások szeparációja az egyszerûbb támogatás érdekében, az új szerverek gyors kiutalása, vagy az alkalmazások bevezetésekor megspórolt felesleges hardvervásárlások visszaszorítása. A MOL saját fejlesztésû rendszert fejlesztett ki a VM-ek igénylésére és jóváhagyására, árulta el, így korádban tarthatóak a VM-ek elburjánzása, de hatásos eszköz a VM életciklus menedzsment is, ahol annak lejártát is be lehet elõre állítani.

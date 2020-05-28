@@ -1,0 +1,22 @@
+Felgyorsul a Wireless Home Digital Interface fejlesztése -- eltûnhetnek a kábelek a nappaliból
+
+Számos nagy iparági szereplõ közremûködésével még idén befejezõdhet a Wireless Home Digital Interface (WHDI) szabványosítási folyamata. Ez a rendszer -- ha idõben elkészül és sikerül megvetnie a lábát a piacon -- teljesen kiválthatja a HDTV-ket, erõsítõket, videolejátszókat (DVD-k, Blu-ray lejátszók) és más szórakoztatóelektronikai berendezéseket összekötõ kábeldzsungelt.
+
+
+
+A Motorola és az AMIMON közremûködésével zajló fejlesztéshez most több szórakoztatóelektronikai multi, így egyebek mellett a Hitachi, a Samsung, a Sony és a Sharp is csatlakozott -- utóbbi lehet az elsõ olyan cég, mely WHDI-kompatibilis tévékészüléket dob piacra. Az újonnan alakul érdekcsoport célja, hogy a WHDI szabványosítási folyamata még idén lezáruljon, az elsõ kompatibilis eszközök így legkorábban 2009-ben kerülhetnek a boltok polcaira.
+
+HD az éterben
+
+A WHDI rendszer kulcsfontosságú komponense az az 5 GHz-es frekvenciasávban kommunikáló videomodem, mely a nagy sávszélességû, tömörítetlen videojelfolyamok rövid hatósugarú továbbítására lett kifejlesztve. A 40 MHz-es csatornákon zajló jeltovábbítás maximum 3 Gb/másodperces sávszélességgel történhet, amely elegendõ az 1080p HD-felbontású mozgókép továbbításához, míg a 20 MHz-es csatornákon feleekkora sávszélességgel maximum 1080i felbontású videojel vihetõ át. A WHDI technológiával jelenleg egymástól maximum 30 méteres távolságra lévõ eszközök közt építhetõ fel kapcsolat lakáson belül. Szabad téren, rálátással ennek a távolságnak nagyjából a duplája hidalható át vezeték nélkül.
+
+WHDI átvitel: lakáson belül 30 méterig
+
+A nagy felbontású videojelfolyamok átvitelére optimalizált vezeték nélküli szabvány audio jelfolyamok átvitelét is támogatja, a WHDI egyebek mellett a DTS, Dolby Digital, AC3 rendszereket említi, arról ugyanakkor nincs szó, hogy a jóval nagyobb sávszélességet igénylõ, tömörítetlen, többcsatornás (DTS Master Audio, Dolby True HD) jelfolyamok átjátszásával boldogul-e a rendszer.
+
+Van másik
+
+
+A HD jelfolyamok vezeték nélküli átvitelére eddig több módszer is született. Ezek közül az egyik legnagyobb súllyal bíró, több prominens piaci szereplõ által támogatott WirelessHD (WiHD) már ipari szabvány. A WiHD elsõ generációs változatával 4 Gb/másodperces átviteli sebesség érhetõ el, késõbb azonban elméletileg akár 25 Gb/másodperces adatátvitelt is támogathat majd a rendszer (ez több mint kétszerese a vezetékes HDMI szabvány maximális sávszélességének).
+
+A WiHD hátránya, hogy a gyors adatátvitelhez rendkívül magas, 60 GHz-es frekvencián üzemelõ rádiókat használ, melyek jelenleg nagyon drágák, hatótávolságuk rendkívül kicsi, ráadásul beltérben is többnyire csak rálátással valósítható meg az eszközök kommunikációja.

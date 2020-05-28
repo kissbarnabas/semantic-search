@@ -1,0 +1,18 @@
+A Microsoft csak szolgáltatóként jelenik meg a cloud-piacon
+
+A Microsoft tavaly õsszel, a Los Angeles-i Professional Developers Conference-en mutatta be cloud-platformját, az Azure-t, amelyrõl azóta sem lehetett tudni, hogy ez kizárólag szolgáltatásként lesz-e elérhetõ, vagy akár megvásárolható termékként is, aminek birtokában a cégek és szervezetek saját, privát cloudot hozhathak létre.
+
+
+
+Steve Martin, a cég fejlesztõi platformokért felelõs egyik vezetõjének blogjából most kiderült, a Microsoft kezdetben megtartja magának az Azure-t, azaz platformszállítóként nem, csak szolgáltatóként jelenik meg a cloud-piacon. "Nem valószínû hogy egy Windows Azure vagy hasonló termék megjelenik az árlistánkon" -- írja Martin. A Windows Azure a Windows Server technológián alapuló platform, azonban az implementációja egyszerûen nem teszi alkalmassá arra, hogy azt az ügyfelek helyben használják, például mert erõsen épít a Microsoft globális elosztott szerverfarmjára és eleve úgy alakították ki, hogy több "bérlõt" is kiszolgáljon.
+
+Ugyanakkor -- teszi hozzá -- a Windows Azure mûködését lehetõvé tevõ megjelenõ innovációk egy része bekerül a Microsoft alkalmazásplatformjába és menedzsment-eszközeibe, vagyis a Windows Serverbe és a System Center termékekbe, amelyeket a vállalatok helyben telepíthetnek és használhatnak. A Windows Server továbbra is fejlõdni fog a virtualizáció területen, alkalmazás- és webszerverként, illetve a felügyelet tekintetében is. A fejlesztések részben azt célozzák, hogy a felhasználók ugyanúgy tudják menedzselni a helyben telepített szoftvereket mint a cloudban levõket.
+
+Egyelõre nem tudni, a jelenleg béta állapotú Azure mikortól érhetõ el kereskedelmi szolgáltatásként -- nem hivatalos információk 2009 õszérõl szólnak, azonban a Microsoft szokásához híven azt mantrázza, hogy a végleges dátum a fejlesztõktõl kapott visszajelzések alapján dõl el. A terület kiemelten fontos a cég számára, Steve Ballmer elnök-vezérigazgató februári ígérete szerint a fejlesztésekre szánt összegeket meg fogják duplázni.
+
+A Microsoft célja a Windows Azure-rel, hogy egy olyan platformot hozzon létre, amelyen a Windowsra írt alkalmazások ugyanúgy futnak mintha csak egy Windows Serverre telepítették volna õket. A Windows Azure tehát lényegében nem más, mint a cloud operációs rendszere, amely kezeli a hardvereket, tárolja az adatokat, gondoskodik az erõforrások kiosztásáról, illetve környezetet biztosít a programok futásához, így ezekkel a szolgáltatások fejlesztõinek már nem kell törõdnie, õk magára az alkalmazásra koncentrálhatnak.
+
+
+ Az Azure Services Platform komponensei éppen azokat a szolgáltatásokat hivatottak megvalósítani, amelyeket a Microsoft meglevõ alkalmazás-platformja Windowson elérhetõvé tesz, vagyis adatbázist (SQL Services), munkafolyamat- és hozzáférés-kezelési szolgáltatásokat (.NET Services) és dokumentum-kezelést (SharePoint Services). Az Azure Services Platform gyakorlatilag tehát a cloud alkalmazásplatformja.
+
+A Windows Azure Serices Platform alkalmazásai ASP.NET-ben, .NET-nyelveken (késõbb PHP-ben, Rubyban, Pythonban, Javában is) készülhetnek, a mûködésükhöz magán a kódon kívül csak egy, a szolgáltatást leíró modellre van szükség, amely megmutatja a futtatókörnyezetnek az alkalmazás legfontosabb paramétereit: milyen feladatot tölt be (pl. weboldal, háttérszolgáltatás) és milyen erõforrásokat vesz igénybe, illetve hogy hány példányban, milyen rendelkezésre állással kell futnia. A fejlesztõk a meglevõ eszközeiket (pl. Visual Studio, késõbb Eclipse) és tudásukat maximálisan újrahasznosíthatják a cloud-szolgáltatások létrehozásakor.

@@ -1,0 +1,12 @@
+Frissítette munkaállomását és szerverét az Apple
+
+Frissítette Mac Pro és Xserve gépeit az Apple, a legújabb változatokban 2,8 GHz-es, 3 GHz-es vagy akár 3,2 GHz-es Intel Xeon "Harpertown" processzor is dolgozhat -- a korábbi leggyorsabbakban még 65 nanométeres csíkszélességgel gyártott hipek mûködtek, a mostani frissítéssel viszont megérkeztek a tegnap bejelentett 45 nanométeres Xeonok az Apple masináiba, ami alkalmazástól függõen 10-20 százalékos gyorsulást jelent.
+
+
+
+Az akár két darab négymagos processzorral is rendelhetõ Mac Pro munkaállomás mostantól alapkiépítésben 2 gigabájt memóriát, ATI Radeon 2600 XT grafikus vezérlõt, 320 gigabájtos merevlemezt és 16x sebességû DVD-újraírót tartalmaz, vagyis a korábban pletykált Blu-ray meghajtónak nyoma sincs. A bõvítésnek csak a pénztárca szab határt: akár négy videokártyát is vehetünk, amelyekkel összesen nyolc monitort lehet meghajtani, a merevlemez-kapacitást 4 terabájtig növelhetjük, memóriából pedig 32 gigabájtot képes legfeljebb fogadni a gép.
+
+
+Az új Mac Próhoz ugyanaz a szupervékony billentyûzet jár már, amelyeket az iMacekhez egy ideje már mellékel az Apple. A gépek elõre telepített Mac OS 10.5 "Leopard" operációs rendszerrel jönnek, illetve az iLife csomaggal (tartalma: iTunes, iPhoto, iMovie, iDVD, iWeb, GarageBand). A legolcsóbb Mac Pro 2799 dollárba kerül. A Mac Pro mellett frissült az Xserve is, az Apple szervereiben ugyanazok a 45 nanométeres csíkszélességû négymagos Xeonok kerültek be újdonságként, amelyekkel a munkaállomásokat is rendelni lehet (kivéve a 3,2 GHz-es verziót). A legolcsóbb Xserve ára 2999 dollár.
+
+Aki nagyobb durranást várt így az év elején az Apple-tõl, és most kicsit csalódott, annak megnyugtatásul el kell mondjuk, hogy január 14-én kezdõdik San Franciscóban a Macworld Expo, a vállalat év eleji nagy bejelentéseinek szokásos színhelye. Tavaly itt debütált az iPhone, 2006-ban a Macworldön jelentek meg az elsõ Intel-alapú Apple gépek, 2005-ben pedig a Mac mini és az iPod shuffle bemutatására került sor, de hogy idén mi várható, azt még senki sem tudja.

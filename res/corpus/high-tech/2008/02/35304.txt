@@ -1,0 +1,20 @@
+A Galileót is támogatja a SiRF grafikát gyorsító GPS-vevõje
+
+Megérkezett a sok-sok éve használt, igen népszerû SiRFstar III GPS-vevõ utódja: a SiRFprima nem csak a mûholdak jeleit fogadhatja, hanem komplett platformként minden más feladatot is elvégezhet a hordozható készülékben. Az új vevõ a várhatóan 2013-ban elkészülõ európai Galileo navigációs rendszer jeleit is érti majd.
+
+
+
+PowerVR 3D-gyorsítás
+
+Az új, szuperérzékeny -- -161 dBm! -- platform egyszerre 64 csatornát foghat, nem csak az amerikai üzemeltetésû GPS-rendszer, hanem az európai Galileo jeleit is képes lesz értelmezni, egymást kiegészítve, párhuzamosan. A két rendszer majdani egyidejû érzékelése sokkal pontosabb helymeghatározást nyújt majd, a kár centiméteres pontosság sem elképzelhetetlen. A gyors mûholdratalálást a SiRFInstantFixII technológia segíti.
+
+A platform azonban nem csak GPS-vevõbõl, hanem egy ARM11 magra épített processzorból áll, melyet az Imagination Technologiestõl licencelt PowerVR MBX 3D-gyorsító és PowerVR MVED1 video en- és dekódoló motor egészít ki. Azt egyelõre nem tudni, hogy a SiRF pontosan milyen paraméterû grafikus gyorsítót licencelt, de az Imagination Technologies már 2004-ben olyan magot nyújtott át a Philipsnek, ami 120 MHz-en csupán 0,7 mW-ot fogyasztott MHz-enként, emellett pedig 1,5 millió háromszög kirajzolására volt képes másodpercenként 250 megapixel/s kitöltési teljesítmény mellett.
+
+Gyorsabban futhat majd
+
+OpenGL ES
+
+
+A PowerVR grafikus gyorsításával a SiRFprima komoly teljesítménnyel futtathatja majd az olyan jövõbeni navigációs alkalmazásokat, mint az iGO 8, mely háromdimenziós formában jeleníti meg a domborzatot, az épületeket. A platform támogatja az elterjedtebb csatlakozási felületeket is az érintõképernyõkhöz, tárolóeszközökhöz és más perifériákhoz.
+
+A SiRFprima Windows CE és Mobile mellett Linux operációs rendszer is támogat, a grafikus gyorsító pedig OpenGL ES és OPENVG alatt is programozható. A platform mintapéldányai a második negyedévben kerülhetnek a gyártókhoz, a vállalat azonban a ma nyíló 3GSM Mobile World kongresszuson is bemutatja komplett megoldását.

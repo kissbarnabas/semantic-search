@@ -1,0 +1,10 @@
+Webszervert épített böngészõjébe az Opera
+
+A nyílt webes szabványokra&nbsp;építõ Opera Unite létrejöttének célja elsõsorban az volt, hogy a fejlesztõk egy olyan eszközt adjanak a felhasználók kezébe, mellyel könnyûszerrel képesek megosztani különféle fájlaikat, médiatartalmaikat barátaikkal, ismerõseikkel, egyben a külsõs fejlesztõk számára is lehetõséget adjanak arra, hogy saját alkalmazásaikkal egészítsék ki a platformot. 
+Az Opera Unite használatához elõször is le kell tölteni az Opera 10 PC-s webböngészõ legújabb bétáját, majd a program futtatása után be kell kapcsolni a szolgáltatást, melynek használatához szükséges egy úgynevezett Opera ID létrehozása (ha még nincs ilyen). Az Opera Unite webes szolgáltatásai ezután egy saját aldomainen keresztül érhetõk el, melynek szerkezete utal a felhasználó nevére, a szolgáltatásra és az azt futtató számítógép elnevezésére. A felhasználó eldöntheti, hogy bárki számára publikussá teszi a megosztásait, weboldalát, vagy csak egyedi jelszóval lehet bejelentkezni a felületre.
+
+
+
+A fejlesztõk kezdetben hat alapszolgáltatást építettek az Opera Unite kínálatába, ez a szám a késõbbiekben azonban várhatóan tovább nõhet majd. A szolgáltatások közt szerepel fájlmegosztás, fotómegosztás, távoli médialejátszó, weboldal hosztolás, chatszoba-szolgáltatás és egy a hûtõre ragasztott üzenetekbõl eredõ "Fridge" nevû szolgáltatás, mely leginkább egy üzenõfalra hasonlít.
+A norvég Opera Software hosszú ideje próbál feljebb kapaszkodni a böngészõk népszerûségi versenyében -- mindeddig kevés sikerrel. A fejlesztõk több olyan szolgáltatással is jelentkeztek az elmúlt hónapokban, mellyel vonzóbbá tehetik a netezõk körében konstans 1 százalék alatti népszerûsággel bíró böngészõt. Ilyen a most bemutatott Opera Unite, vagy az weboldalakat proxyelérésen keresztül megjelenítõ, tömörítési eljárást használó Opera Turbo, mely leginkább a mobilinternetet, vagy a lassú csatlakozást használók számára lehet életképes alternatíva.
+Az Opera Unite windowsos, mac-es és linuxos változata letölthetõ az Opera Labs oldalról, a fejlesztõk számára kínált lehetõségekrõl egy külön weboldalon tájékoztatnak a készítõk.

@@ -1,0 +1,16 @@
+Felvásárlással erõsít a mobilpiacon a Microsoft - támadás a Google Android ellen
+
+[The New York Times/HWSW] A Microsoft megvásárolja az okostelefonokat tervezõ Dangert, mely többek között a T-Mobile Sidekick modellek megalkotásáért felel. 
+
+
+
+Az ügylet pénzügyi részletei nem nyilvánosak, de a New York Times értesülései alapján a Microsoft az eredeti összeg kétszeresét fizette ki a mobilos cégért, hogy mindenképpen megszerezze azt. A tranzakció a mobilok növekvõ szerepét jelzi a számítógépekkel szemben, ahogyan felhasználók növekvõ tömege egyre többet fogyaszt tartalmakat, internetezik mobilján keresztül.
+
+A Microsoft ezen lépése elemzõk szerint egy átfogó fogyasztói stratégia része, melybe a Yahoo! tervezett felvásárlása is beletartozik. Az online alkalmazások és tartalmak térnyerésével, valamint az operációs rendszerek éretté válásával a Microsoft a jövõben egyre kisebb és kisebb befolyással bír Windows és Office szoftvereivel a felhasználókra, ahogyan azok relevanciája egyre csökken. A mobiltelefon a készülékek és adathálózatok fejlõdésével, melyet a média a "harmadik kijelzõ" névvel illett a televízió és a számítógép-monitort követõen, egyre nagyobb szeletet hasít ki az internetezésbõl és tartalomfogyasztásból, ami tovább gyengíti a Windows-alapú PC-hegemóniát.
+
+
+A 2000-ben, kifejezetten mobil webezésre alkalmas készülék megalkotása céljából alapított Danger felvásárlásával a Microsoft a Blackberryt jegyzõ Research in Motion, valamint a fejlesztési stádiumban lévõ Google Androiddal, valamint a Nokiával (Symbian) kívánja felvenni a versenyt a mobilpiacon. A Danger alapvetõen egy szoftverplatform és designkoncepciót hozott létre, mely gyártófüggetlen, így azt bárki licencelheti. A Danger készülékeit használók havonta több mint 445 weblapot néznek meg, több mint 200 e-mailt, 1000 SMS-t és 3000 chatüzenetet váltanak. A Dangernek több mint 1,2 millió felhasználója volt év végével. 
+
+
+
+A Danger platform azonban nem kizárólag kliensoldali szoftverekbõl áll, hanem komplett megoldást kínál az operátoroknak és felhasználóknak egyaránt. A Danger készülékekkel egy alkalmazásszerver kommunikál a szolgáltató oldaláról, mely többek között felügyeli az elõfizetõk alkalmazásait, koordinálja és tömöríti kommunikációt, valamint biztonsági másolatot is készít a felhasználó adatairól, melyekhez PC-n keresztül is hozzáférhet a neten keresztül. A Dangerre független fejlesztõk is alkothatnak alkalmazásokat Java-alapokon, amihez fejlesztõi környezetet is biztosít a vállalat.

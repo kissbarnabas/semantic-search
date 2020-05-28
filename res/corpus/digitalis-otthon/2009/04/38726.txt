@@ -1,0 +1,18 @@
+Megérkezett a 40 nm-es grafikus processzorra épülõ Radeon HD 4770
+
+Újabb katonát állít csatasorba az AMD grafikus vezérlõket fejlesztõ részlege az asztali számítógépekbe szánt videokártyák középmezõnyében. A cég a héten útjára indította a Radeon HD 4770-es modellt, melyre a gyártó videokártya-kínálatában elsõként 40 nanométeres csíkszélességû grafikus processzort építenek. 
+
+
+
+Az AMD most bejelentett megoldása pár héttel a felsõ-középkategóriás mezõnybe illeszkedõ Radeon HD 4890 után jelenhet meg, a Radeon HD 4770 azonban a legnagyobb forgalmat generáló 100 dolláros árszegmensben debütál, ami Európában 90 euró körüli árra fordul le, így Magyarországon 30 ezer forint környékén be lehet szerezni. A kártya az AMD RV740 kódjelû processzorát kapja, melynek legfõbb érdekessége, hogy ez az elsõ 40 nanométeres gyártástechnológiával készülõ, asztali PC-s videokártyákhoz készült grafikus feldolgozóegység az AMD számára bérgyártást végzõ TSMC-nél.
+
+Az RV740 tulajdonképpen a márciusi CeBIT-en bemutatott Mobility Radeon HD 4860-n található processzor asztali gépekbe szánt megfelelõje, magasabb órajelekkel, ami nagyobb teljesítményt, ezzel együtt nagyobb áramfelvételt is feltételez. A 826 millió tranzisztorból felépülõ, 640 stream processzort tartalmazó, mindössze 11x11 milliméteres chip 750 MHz-en jár, a kártyára 512 megabájtnyi, 800 MHz-en ketyegõ GDDR5 memória kerül, mely 128 bit széles adatsínen csatlakozik a GPU-hoz.
+
+
+
+
+A kártya a fejlettebb gyártástechnológiának köszönhetõen kevésbé melegszik, mint a hasonló kategóriába tartozó közvetlen elõdök, emellett TDP-je is csökkent, 80 wattra. A Radeon HD 4770 ettõl függetlenül még igényel egy kiegészítõ, hat érintkezõs tápcsatlakozót, illetve a referenciamodell hûtési rendszere is két kártyahelyet foglal.
+
+A Radeon HD 4770 ellenfeléül jobbára a GeForce 9800 GT-t tudja felmutatni az NVIDIA, az AMD megoldása azonban a tesztek tanúsága szerint a legtöbb háromdimenziós alkalmazás esetében gyorsabbnak mutatkozik riválisánál. A jelek szerint nincs gond az új kártyák kihozatalával sem, legalábbis erre utal, hogy az AMD az eredetileg tervezett május 4-i startról pár nappal elõrébb hozta a kártya premierjét. A Radeon HD 4770 ugyanakkor valamivel drágább lesz a vártnál, a kártya ajánlott fogyasztói ára 99 dollárról 110 dollárra emelkedett, azonban láthatóan ennél olcsóbban is hozzájuthatnak a fogyasztók.
+
+A mostani frissítés utáni jelentõsebb, architekturális szinten is változásokat hozó termékbõvítés a HWSW információi szerint nyárra várható. Egyes spekulációk szerint ekkor jelenhet meg a DirectX 11-kompatibilis Radeon HD 5000-es sorozat elsõ tagja, melynek grafikus processzora szintén 40 nanométeres gyártástechnológiával készül majd.

@@ -1,0 +1,21 @@
+100 ezer GByte-tal kevesebbet töltöttek áprilisban a mobilnetezõk
+
+A több néha kevesebb
+
+Összességében és egy elõfizetõre vetítve is csökkent az adatforgalom a mobilinternet-elõfizetéseknél, annak ellenére, hogy a felhasználói bázis tovább nõtt. Az elõfizetések száma áprilisban 24 ezerrel 566 ezerre nõtt, ami komoly gyorsulást jelent még az idei elsõ három hónaphoz képest is, amely idõszak alatt összesen 48 ezer volt a növekmény. Az aktívnak tekintett SIM-kártyák, tehát azok, amikkel az elmúlt három hónap alatt generáltak adatforgalmat, száma viszont csak 18 ezerrel nõtt. Így most az 566 ezerbõl csupán 476 ezer elõfizetés az, amit használnak is, nemcsak fizetnek érte.
+
+A legérdekesebb változás, hogy a márciusi 840 ezer GByte összesen forgalmazott adatmennyiség után áprilisban közel 100 terabyte-tal kevesebbre, azaz 743 ezer GByte-ra csökkent ez az érték. Mivel az elõfizetések száma nõtt, ezért az egy elõfizetõre jutó átlagos adatmennyiség még jelentõsebb arányban romlott, az elõzõ havi 1830 Mbyte-ról 1560 MByte-ra. 
+
+Meghalt a korlátlan mobilnet
+
+A csökkenést lehetne akár arra is fogni, hogy a jó idõ beköszöntével az emberek internetezés helyett egyéb szabadidõs elfoglaltságokkal töltötték az idejüket, de valójában a több utazásnak, kirándulásnak serkentenie kellene a mobilinternet-használatot és nem visszafognia. Ennek ellenére a HWSW által megkérdezett Pannon és a T-Mobile illetékesei is elsõre ezzel magyarázták a csökkenést. Egy másik valószínûbb forgatókönyv, hogy a korlátlan csomagok kivéreztetése mostanra éreztette hatását. Miután mindhárom szolgáltató valamilyen magyarázattal és valamilyen módszerrel visszakozott a korlátlan adatforgalom fogalmától, az új csomagok már csak maximum idõben korlátlanok. 
+
+Feltételezhetõen nem változtak meg a felhasználói szokások, attitûdök, csak a korábban 40-50 vagy annál is több gigabyte-ot forgalmazó ügyfelek eltûntek a palettáról, hiszen a szolgáltatók egy bizonyos adatforgalom felett használhatatlanul alacsony szintre korlátozzák a sávszélességet, amivel már technikailag sem lehetséges a korábbi nagy számok elérése. A hiányzó 100 ezer gigabyte pedig matematikailag lehetne 2000 eltûnt elõfizetõ, akik eddig 50 gigabyte adatforgalomért voltak felelõsek.
+
+A Vodafone optimalizál
+
+A részletes számok is alátámasztják ezt a feltételezést, hiszen a kevés ügyféllel nagyon sok adatforgalmat elkönyvelõ, s a korlátlan csomagjaival elsõként debütáló Vodafone esetében volt a legnagyobb a visszaesés. A Vodafone-nál a márciusi 2,62 GByte-ról 2,21 GByte-ra, míg a Pannonnál 1,67 GByte-ról 1,46 GByte-ra, a T-Mobile-nál pedig 1,52 GByte-ról 1,25 GByte-ra csökkent a felhasználónkénti átlag.
+
+Szerkesztõségünk több ízben is próbálta a szolgáltatóktól megtudakolni, hogy az NHH jelentésben is ismertetett egy elõfizetõre jutó átlag adatforgalmi adatok mellett milyen szórás áll, de üzleti titokra hivatkozva ezt megtagadták. Érdekes lenne ugyanis tudni, hogy az átlag 1500 megabyte forgalom inkább úgy áll össze, hogy több százezer alig 100 megabyte-ot forgalmazó ügyfél és jóval kevesebb nagyágyú van, vagy ennél sokkal rétegezettebb az összetétel.
+
+Az NHH jelentésbõl egyébként kiderül az is, hogy a forgalmazásban résztvevõ elõfizetések alapján csökkent a T-Mobile és a Pannon piaci részesedése, elõbbié a március végi 50,73 százalékról április végére 49,43 százalékra, utóbbié pedig 23,90 százalékról 23,46 százalékra. Ezzel ellentétben a Vodafone részesedése 25,37 százalékról 27,11 százalékra emelkedett. A havonta publikált NHH mobilinternet jelentés teljes változata elérhetõ a hatóság honlapján. 

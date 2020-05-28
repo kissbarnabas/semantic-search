@@ -1,0 +1,16 @@
+Vezeték nélküli USB-vel lesznek a PC-hez kapcsolhatók a Samsung fényképezõi
+
+A vezeték nélküli USB-s kommunikációs vezérlõlapkákat gyártó Alereon segítségével fejleszti a Samsung kábelmentes "PC-fényképezõgép" kapcsolatra alkalmas adapterét, mely a Wi-Fi vezérlõvel felszerelt kamerákhoz hasonló szabadságot kínálhat akár már decemberben.
+
+
+
+A Samsung bejelentette NaBee névre keresztelt adapter-párosát, melynek egyik tagja a fényképezõgép speciális konnektorába illeszkedik, másik pedig a számítógép USB-aljzatába. A képáttöltés a csatlakoztatás után éppúgy mehet végbe, mint a hagyományos, vezetékes kapcsolat esetén. A két adaptert tartalmazó készlet ára még nem ismert, arra azonban van esély, hogy már decemberben elérje a boltok polcait.
+
+A NaBee mellett a vezetékek elkerülésére már számos alternatíva áll a felhasználók rendelkezésére, ezek között említhetjük a Sony vagy a Nikon Wi-Fi adapterrel ellátott fényképezõgépeit, vagy az Eye-Fi SD-kártyákat, melyekbe miniatûr Wi-Fi adapter számára is szorítotak helyet. Más szabvány szerint kommunikáló vezetékmentes fényképezõgépek is készültek, amelyek HSDPA-adapterrel létesíthetnek kapcsolatot az internetes tárhellyel, ilyen például a Samsung VLUU i70 kompakt is. 
+
+ 
+
+A vezeték nélküli USB (Wireless USB) megszüntetheti a kábeldzsungelt a számítógépünk körül, külsõ perifériáinkat, azaz DVD-írónkat, szkennerünket, nyomtatónkat vezeték nélkül kapcsolhatja össze számítógépünkkel 10 méteren belül. A wireless USB elméletileg ugyanúgy 480 megabit/s-os átvételi sebességet kínál majd, mint a kábeles USB2.0 -- 3 méteren belül --, az elsõ lapkák azonban erre még nem lesznek képesek. Az UWB rádiótechnológia alacsony energiájú jelekkel dolgozik, ezért elméletileg fele annyi energiát fogyaszt, mint a Wi-Fi-vezérlõk, mely az akkumulátoros eszközök esetében rendkívül kedvezõ tulajdonságnak számít.
+
+
+Az Alereon lapkája, az AL5100 magas, 3,1 gigahertz és 10,6 gigahertz közötti frekvencián üzemel, mely a legtöbb országban szabadon használható. A chipek kommunikációja nem zavar más vezeték nélküli megoldásokat, mint a Wi-Fi, a Bluetooth, vagy a mobiltelefon-hálózatok. Az AL5100 elõdje, az AL4000 olyan frekvenciát használ, mellyel csak az Egyesült Államokban hozhatók forgalomba a készülékek.

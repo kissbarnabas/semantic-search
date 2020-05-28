@@ -1,0 +1,37 @@
+A kisvállalatoknál is eljött az IP-telefónia ideje
+
+Recesszióban nem lehet sokat kérni
+
+
+Kis- és középvállalatok számára is eljött az idõ arra, hogy komolyan vegyék az IP-alapú telekommunikációs megoldásokat. Fõleg a recessziós idõkben fontos, hogy a gyártók olyan technológiákat és megoldásokat kínáljanak a néhány fõt foglalkoztató cégeknek, szervezeteknek, ami az alacsony beruházási költség mellett azt is lehetõvé teszik, hogy ne kelljen azonnal kidobni a már meglévõ analóg rendszereket -- derült ki az Aastra Technologies sajtótájékoztatóján, ahol a kisvállalatok igényeire szabott telekommunikációs
+megoldásokat, az OpenCom 100 termékcsaládot mutatták be a magyar közönség számára is.
+
+A kanadai székhelyû Aastra Technologies európai szinten erõs szereplõnek mondható, Németországban például 18 százalékos a részesedése a kis- és középvállalati kommunikációs megoldások piacán. Magyarországon egyelõre ennél jóval alacsonyabb, 6,2 százalékos eredményt tud felmutatni a cég, de valójában a piac is sokkal jobban le van maradva, az itteni kisvállalkozások még el sem kezdték felfedezni az IP-alapú megoldásokat. Dr. Kolláth Gábor, az Aastra hazai képviseletének vezetõje a a HWSW-nek elmondta, hogy komoly növekedési potenciált látnak a hazai kis- és középvállalkozásokban, terveik szerint a következõ években a részesedésüket közel duplájára tudják növelni a testre szabott megoldások révén.
+Magyarországon a kicsik még nem értik a VoIP-t
+
+Az IP-alapú kommunikációval a kisvállalkozások számára is megnyílik a
+lehetõség egy másik telephely vagy az otthoni munka támogatására külön
+költségek vagy beruházás nélkül. Ez eddig a közepes vagy annál nagyobb
+cégek kiváltsága volt, lévén a nagy telekommunikációs szolgáltatók
+ajánlatai túl drágának bizonyultak a kis szereplõk számára.
+A terjedéshez leginkább arra van szükség, hogy a kisvállalatok felfigyeljenek az IP-alapú szolgáltatásokra, megértsék azokat, illetve fontos, hogy a beruházásokat saját igényeikhez tudják igazítani, ne legyenek rákényszerítve kereteiket meghaladó költségekre, teljes technológiacserére. Ma Magyarországon a legtöbb kkv, legyen az autókereskedõ, panzió vagy asztalosüzem, laikus a telekommunikációs kérdésekben, ezért többnyire az informális kapcsolatok révén, illetve a már meglévõ informatikai infrastruktúrát üzemeltetõ szolgáltató partnerek révén szerez információt, s ezek alapján segítségével hoz döntéseket.
+
+Az OpenCom megoldások terjesztését éppen ezért az Aastra a partnerhálózat bõvítése révén képzeli el. Amellett, hogy egyre több partneren keresztül értékesítenék a termékeket, a támogatást, tanácsadást is letolnák lokális szintre ezekhez a szolgáltatókhoz oktatásokkal, képzésekkel, s másodlagos támogatás nyújtásával.
+Extra alkalmazások a dobozban
+
+A most bemutatott két termék, a legkisebbeknek szánt OpenCom 131 s,
+illetve a közepes méretû cégeknek szánt OpenCom 130 S/M, egyaránt
+rendelkezik integrált alkalmazásokkal, melyek külön licencek
+aktiválásával használhatóak. Az operációs rendszertõl független
+alkalmazások elõnye az lehet, hogy ezeket nem kell külön szoftverként
+megvásárolni, s olyan funkciók érhetõek el natív módon, mint a
+hangposta, interaktív automata asszisztens a telefonközponthoz, vagy
+éppen panziók számára egy teljes szobamenedzsment-rendszer, amely a
+ki-és bejelentkezéstõl kezdve a telefonszámla kezelésén át, a szobák
+státuszának nyilvántartásáig minden kezel szinte ugyanúgy, mint a
+nagyoknál, de jóval egyszerûbben és olcsóbban kivitelezve kis méretben.
+
+
+A termékek maguk azért lehetnek vonzóak a kisvállalkozások számára, mert a távközlési feladatokra olyan "all-in-one" megoldást nyújtanak, amelyek akár 6-8 vonalas, de a nagyobb modell eseén 40 vonalas környezetben is kiszolgálják az analóg, digitális, illetve az IP-alapú telekommunikációs infrastruktúrát is. A vállalkozó pedig maga tudja eldönteni, hogy milyen gyorsan akar átállni VoIP, SIP vagy egyéb technológiák használatára, mikor akar megszabadulni az analóg megoldásoktól véglegesen.
+
+Az integrált rendszeren belül minden a szerverben áll rendelkezésre, az alapszolgáltatásoktól a kiegészítõ alkalmazásokig bezárólag, amik mind szoftveresen konfigurálhatóak bármely géprõl egy böngészõn keresztül. Így nincs szükség a cégnél extra szoftverek telepítésére, nincsenek kompatibilitási gondok, s bármely, akár elavult PC is alkalmas a kezelésre. Végberendezésként az OpenCom 100 család szinte bármilyen IP-alapú megoldást támogat, a Soft Phone, a vezetéknélküli DECT,&nbsp; illetve DECToverIP sem probléma. 

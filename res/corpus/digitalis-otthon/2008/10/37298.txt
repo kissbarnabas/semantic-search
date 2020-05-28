@@ -1,0 +1,15 @@
+A Shuttle kétmagos Atom processzoral is szereli barebone gépeit
+
+A barebone, vagyis félkész gépek világában nagy múltra visszatekintõ Shuttle legújabb asztali számítógépét 1,6 gigahertzen üzemelõ, kétmagos Intel Atom processzorral szállítja.
+
+
+
+A Shuttle X27D kisméretû asztali PC-vázban kétmagos Intel Atom 330 processzor található -- az 1,6 gigahertzes órajelen ketyegõ Atom chip kétszer 512 kilobájt másodszintû gyorsítótárral rendelkezik. A processzorral szorosan Intel 945GC+ICH7 Express lapkakészlet és maximum két gigabájtnyi DDR2 rendszermemória mûködik együtt. Az alapvetõen irodai feladatok elvégzésére és internetezésre alkalmas X27D-be SATA csatolófelülettel ellátott 2,5 hüvelykes merevlemezek, vagy SSD meghajtók építhetõk, ezen felül noteszgépbe illõ optikai meghajtó számára is akad hely.
+
+
+A 2,7 kilogrammos, 250x185x70 milliméteres, 60 wattos, külsõ tápegységgel rendelkezõ gépház hat USB 2.0 periféria számára kínál csatlakoztathatóságot, melyekbõl kettõt az elõlap fogad a csatlakozókat takaró, lehajtható ajtaja alatt, mely még egy fülhallgatókimenet és egy mikrofonbemenet számára biztosít helyet. Az Intel GMA950 grafikus vezérlõ a jelet a külsõ megjelenítõkre DVI, vagy VGA kimeneten keresztül küldheti ki.
+
+
+
+
+A hátoldalon a hat csatornán érkezõ hang három kétsávos csatlakozója mellett gigabit sebességû LAN csatlakozó, a billentyûzet, az egér PS2 aljzata és még egy soros port is található. A Shuttle X27D váz, -- mely a burkolat alatt az alaplapot, rajta a passzív hûtõvel szerelt processzort, valamint a külsõ tápegységet tartalmazza -- 263 dollárért vásárolható meg. Természetesen ahhoz, hogy memóriát, háttértárolót és optikai meghajtót is tartalmazó komplett géppé építsük, mélyebben kell a pénztárcánkba nyúlni.

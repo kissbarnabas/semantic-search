@@ -1,0 +1,20 @@
+VIA Nanóhoz is készít netbook-chipkészletet az NVIDIA
+
+Az NVIDIA elnök-vezérigazgatója a tajvani Digitimes ipari lapnak hivatalosan is megerõsítette, hogy a vállalat még az idén piacra dobja a VIA Nano processzorokhoz szánt Ion 2 platformját, amelynek fejlesztési munkálatai már gõzerõvel haladnak.
+
+
+
+Tavaly nyáron reppentek fel az elsõ pletykák az NVIDIA és a VIA együttmûködésérõl -- a tajpeji Computex kiállításon, a Nano processzor hivatalos premierjén meghívott vendégként jelen volt az Drew Henry, az NVIDIA chipset üzletágáért felelõs vezetõje is, aki a protokollnak megfelelõen dicsérõ szavakkal illette a VIA Nanót. A Digitimes már akkor tudni vélte, hogy a két cég szorosabbra húzza az együttmûködést a chipkészletek terén, amelyet csak erõsített, hogy július elején a VIA közölte, teljesen felhagy a chipkészletek fejlesztésével és minden erejével a Nanóra koncentrál.
+
+Nem sokkal késõbb még olyan információk is napvilágot láttak, hogy az NVIDIA a VIA bekebelezését fontolgatja, azonban ezekrõl késõbb kiderült, hogy alaptalanok voltak. Jen-Hsun Huang, az NVIDIA elnök-vezérigazgatója azonban mostani bejelentésével megerõsítette, vállalatának komoly tervei vannak a netbook-szegmensben, amelyet jelenleg kizárólag az Intel ural az Atom processzorral és a hozzá kapcsolódó 945 chipkészlettel.
+
+A mai netbookok egyik legnagyobb problémáját a chipkészletbe integrált Intel GMA950 videovezérlõ jelenti, amely 2005 óta van a piacon, így semmiképp se nevezhetõ naprakész megoldásnak, teljesítménye és szolgáltatásai nem a HD-korszak igényeire szabottak. Ezt felismerve az NVIDIA decemberben mutatta be az Ion platformot, melynek alapja a GeForce 9400M chipkészlet, amely egy teljes DX10-gyorsításra kifejlesztett, HD-videók lejátszására optimalizált grafikus magot tartalmaz.
+
+
+ A grafikus chipjeirõl ismertté vált amerikai cég azt ígéri, hogy egy Ion-alapú netbookon kiválóan fut majd a Windows Vista Areo grafikus felülete vagy akár a Windows 7, a gépeken -- külsõ megjelenítõre kapcsolva -- akár 1080p felbontású videókat is zökkenésmentesen lehet majd nézni, de akár a legújabb játékok, a Call of Duty 4 vagy a Spore is játszhatók anélkül, hogy ezt a netbook akkumulátoros üzemideje jelentõsen megsínylené.
+
+ Az Ion 2 minden bizonnyal az Ion leszármazottja lesz, amely a VIA Nano processzorokkal alkothat majd párost. Ezzel újabb szereplõvel bõvülhet a netbookplatformok piaca, aminek fõképp a vásárlók örülhetnek: a mai netbook-kínálatban a gépek közti különbségek jórészt külsõségekre korlátozódnak, a burkolat alatt szinte minden esetben ugyanazok az alkatrészek lapulnak. 2009-ben az Atomhoz csatlakozik a Nano, az NVIDIA Tegra, valamint a Freescale i.MX515.
+
+[+] Elég gyors lehet a Nano az Intel ellen  
+
+A netbookok villámgyorsan a fogyasztók kedvenceivé váltak, azonban több gyártó visszajelzései szerint sok vásárló pár nap után egyszerûen visszaviszi a boltokba ezeket a gépeket, amikor kiderül, hogy a képességeik korlátozottak. Az NVIDIA-nál úgy látják, az Ionra épülõ netbookok esetében kisebb a kockázat, hiszen a fogyasztók akár játszhatnak is rajtuk vagy HD-videókat is nézhetnek, vagyis a funkcionalitást tekintve semmiben sem maradnak el egy "teljes méretû" notebooktól. Az elsõ, Ion-alapú netbook még a nyáron meg fog jelenni, ára 300 dollár körül lehet, állítja az NVIDIA. Az Ion 2-re épülõ gépek várhatóan õsszel, de legkésõbb karácsonyra a boltokban lehetnek. 

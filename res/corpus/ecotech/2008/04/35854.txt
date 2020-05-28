@@ -1,0 +1,16 @@
+Tessék-lássék árcsökkentés az Intelnél
+
+Az elmúlt években már megszokhattuk, hogy az Intel rendszeresen csökkenti processzorainak árát az AMD-vel vívott versenyben, amelyre válaszul az AMD is módosítja árait. Az Intel legutóbb a hétvégén cselekedett így, azonban a több száz különféle lapkát felvonultató kínálatából mindössze tucatnyi chipnek mérsékelte az árát, vagyis lényegében nem volt árcsökkentés, inkább csak egyfajta kiigazítás.
+
+
+
+
+A világ legnagyobb chipgyártója több termékkategóriában is átfésülte az árakat, ennek köszönhetõen olcsóbb lett a Core 2 Quad Q6700 és Q6600, a Core 2 Duo E6850, a Core 2 Duo E4600, a Xeon X3230 és X3220, valamint néhány Celeron. Az árcsökkentésben érintettek zöme azonban régebbi generációs, 65 nanométeres eljárással készített kifutó termék, az igazítással az Intel célja, hogy a keresletet az olcsóbban gyártható, 45 nanométeres processzorok felé terelje.
+
+Az Intel tehát továbbra sincs rászorítva arra, hogy valódi, látványos árcsökkentést hajtson végre. Az AMD négymagos chipjeinek piacra dobásával nem tudta felkavarni a processzorpiaci állóvizet, mivel a potens Opteronok szállítását egy váratlanul felbukkanó hiba miatt fél évvel eltolták, az asztali gépekbe szánt Phenomok pedig versenyképtelennek bizonyultak az Intel Core 2 Quadjaival szemben annak ellenére, hogy monolitikus négymagos felépítésük az AMD szerint mûszakilag szuperiorrá teszi õket. A Phenomok piaci pozícióját mindennél jobban jelzi, hogy még a csúcsváltozat sem kerül annyiba, mint a legolcsóbb Core 2 Quad.
+
+Az AMD már demonstrálta ugyan saját 45 nanométeres designját, a Shanghait, a piaci bevezetést pedig a második félévre ígéri, a jelenleg rendelkezésre álló információk szerint azonban ez nem lesz más, mint a Barcelona újabb gyártástechnológián implementált változata, lényegi fejlesztések nélkül -- az egyetlen említésre méltó újdonság a megnövelt méretû, 2 helyett 6 megabájtos harmadszintû cache, amely bizonyos szerverfeladatok esetében jól jön, de az asztali alkalmazások többségében nem hoz áttörõ teljesítményugrást. 
+
+[+] Kíméletlenül erõs processzornak ígérkezik az Intel Nehalem 
+
+A gyenge pénzügyi helyzetben lévõ vállalat következõ nagy problémája a negyedik negyedévben adódik, mikor az Intel elindítja az átütõ erõnek ígérkezõ Nehalem-generációját. A Nehalem márpedig él és virul, az április elején Kínában megrendezett Intel Developer Forumon a vállalat egy 3,2 GHz-es példányt demózott hagyományos léghûtés mellett. A HEXUS.net beszámolója alapján ráadásul ez még mindig egy korai szilíciumverzió, vagyis a jelek szerint a Nehalem rendkívül jó formában van ahhoz, hogy a negyedik negyedév során akár magas órajeleken is megjelenjen.

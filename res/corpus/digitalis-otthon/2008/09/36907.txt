@@ -1,0 +1,18 @@
+Ár-teljesítmény bajnokok az AMD új Radeon HD 4600-as kártyái
+
+Középkategóriás termékekkel bõvítette ATI Radeon 4000-es termékcsaládját az AMD. A Radeon HD 4670 és 4650 az RV730 kódnévre hallgató chipre épülnek, mely lényegesen kisebb területû a 4800-as sorozatot adó RV770 lapkánál is, még agresszívabb árazást téve lehetõvé, kíméletlen versenybe kényszerítve bele az NVIDIA-t.
+
+
+
+A Radeon HD 4670 ajánlott végfelhasználói ára mindössze 80, míg a 4650-é 70 dollár. Ezek Európában rendre 75-85, és 65-75 eurónak felelnek meg, így Magyarországon a boltokban 18 és 15 ezer forinttól válnak várhatóan elérhetõvé. Ezért a pénzért olyan modern játékokat tudunk magas részletesség mellett is folyékonyan játszani, mint a Call of Duty 4 vagy a Half-Life 2: Episode Two, egy Radeon HD 3650 vagy GeForce 9500GT kártyákhoz képest másfél-kétszeres sebességgel.
+
+
+Mindezt az RV770-nél már megismert bravúros mérnöki mutatvány teszi lehetõvé, melynek köszönhetõen az elõdökhöz és a rivális fejlesztésekhez képest hihetetlen magas teljesítménysûrûséget sikerült a szilíciumra passzírozniuk a chiptervezõknek. Az RV730 ennek az architektúrának egy kisebb változata, területe 146 négyzetmilliméter, szemben az RV770 260 négyzetmilliméterével, ami 30-50 százalékkal olcsóbb gyártást, és alacsonyabb fogyasztást tesz lehetõvé. A Radeon HD 4670 kártyák fogyasztása 60, míg a 4650 változatoké 50 watt alatt marad teljes terhelésen is.
+
+Miközben az RV730 négyszer több textúrázóval és 2,7-szer több feldolgozó egységgel (stream processor) bír elõdjénél, az RV635-nél, 514 milliós tranzisztorszáma 36 százalékkal múlja felül azt, területe ugyanakkor mindössze 24 százalékkal nagyobb az azonos geometriájú gyártástechnológia ellenére -- mindkét chipet a TSMC fabrikálja 55 nanométeres félvezetõ-eljárásán. A legfeljebb 320 stream processzort és 32 textúrázót egy másodpercenként legfeljebb 32 gigabájtot áteresztõ GDDR3-memóriaalrendszer eteti -- az olcsóbb verziók DDR3 és DDR2 memóriát alkalmaznak, utóbbi esetben fele sávszélességet biztosítva mindössze. A kártyák szilíciumon megegyeznek, a különbség a memória típusában és az órajelekben keresendõ:  a 4670-es kártyákon 750 megahertzen járnak az RV730 chipek, és 900/1000 effektív megahertzen a memóriák, míg a 4650 esetében ezek az órajelek 600 és 500 megahertzen alakulnak.
+
+[+]  Gyilkosra sikerült az AMD új grafikus chipje 
+
+Ahogyan gyakorlatilag minden fogyasztói piacon, úgy a videokártyák terén is kritikus jelentõséggel bír az ár, így a Radeon HD 4600-as sorozat különösen jelentõs az AMD számára az NVIDIA-val szemben küzdelemben, történetesen az elmúlt másfél év alatt elvesztett részesedésének és nyereségességének visszaszerzésében. A Mercury Research szerint a 100 dollár alatti mainstream szegmens az asztali gépekbe eladott grafikus chipek kétharmadát képezik.
+
+A 4600-as sorozat megjelenésével azonban nem zárult le az AMD termékbevezetési hulláma. Szeptember végén érkezik ugyanis az  alsókategóriát megcélzó 4550, mely az 40-55 dolláros RV710-re alapul majd -- még kisebb szilícium, alacsonyabb fogyasztás, szerényebb teljesítmény. Ezt követi a belépõszintû, 50 dollár alatti Radeon HD 4350, október közepén. Az AMD új 4000-es családja igen kellemetlen helyzetbe hozta a NVIDIA-t, melyet tömeges meghibásodásokhoz kapcsolatos visszahívások terhe is sújyt, ezzel hat év óta elõször könyvelt el veszteséges negyedévet 2008 második három hónapjában.

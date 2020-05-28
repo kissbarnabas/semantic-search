@@ -1,0 +1,16 @@
+Adattárház-megoldásainak integrációján dolgozik az SAP és a Teradata
+
+A Törökországban zajló Teradata Universe rendezvényen az SAP és a Teradata bejelentette, szorosabbra fûzik eddigi partneri viszonyukat. Az együttmûködés eredménye egy olyan, Teradata hardverre épülõ SAP adattárház-megoldás, amely az Oracle Database Machine piaci ellenfele lehet.
+
+
+
+Az SAP, az általa birtokolt BusinessObjects és a Teradata számos közös ügyféllel büszkélkedhet, és termékeik is együttmûködnek, a vállalatok azonban úgy látják, a felhasználók igénylik a szoros integrációt, a Teradata hardveren futó natív adattárházat. Az SAP NetWeaver Business Warehouse, az SAP BusinessObjects és a Teradata Active Enterprise integrációja a vállalatok szerint lehetõséget ad arra, hogy a felhasználók egyetlen platformon konszolidálják az adataikat, ezzel csökkentve a költségeket, az elõnyök oldalán szerepel emellett a nagyobb teljesítmény, ami végeredményben gyorsítja a döntéshozatalt azáltal, hogy több faktort lehet figyelembe venni.
+
+A HWSW érdeklõdésére az SAP-nál elmondák, a bejelentés nem csupán együttmûködésrõl szól, hanem az SAP Business Warehouse 7.2 portolásáról a Teradata 12 adatbázisra, illetve az SAP Business Warehouse optimalizálásáról a Teradata hardvereire. Ezzel lényegében egy olyan üzletiintelligencia-híd készül el a köztesszoftverek rétegében, amely biztosítja a kommunikációt az SAP Business Warehouse és a Teradata adatbázis között.
+
+ A BusinessObjects már az SAP-be olvadás elõtt is fontos partnere volt a Teradatának, azonban az SAP legfontosabb szövetségese az IBM, mivel a DB2 potens versenytársa az Oracle-nek, amely az üzleti szoftverek területén az SAP pozícióit fenyegeti. Az SAP ügyfelei általában DB2-t vagy Oracle-t használnak adattárház-platformként leginkább -- az SAP azon kevés cégek közé tartozik, amelyek több adatbázis használatát is lehetõvé teszik adattárház-platformként.
+
+
+ A vállalatok tervei szerint az új, integrált megoldás bétatesztelése a negyedik negyedévben kezdõdhet meg, a kereskedelmi megjelenés pedig 2010 elején esedékes. A megállapodás értelmáben a Teradata hardveren futó SAP Business Warehouse-hoz az elsõvonalas támogatást az SAP biztosítja. Árakról egyelõre nem adtak információt a cégek.
+
+Az Oracle tavaly õsszel jelentette be Database Machine megoldását, amely a HP-vel közösen fejlesztett, szervert és szoftvert egyaránt tartalmazó integrált megoldás adattárházakhoz. Az Oracle azóta felvásárolta a Sun Microsystemset, s ígérete szerint a jövõben újabb integrált megoldások megjelenése várható.

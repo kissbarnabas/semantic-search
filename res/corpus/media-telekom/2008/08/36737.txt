@@ -1,0 +1,34 @@
+A számítógépek után a tévéket is meghódítaná az Intel
+
+[HWSW, helyszíni riport] Az Intel Developer Forum második napján Anand Chandrasekher, az Intel Mobility Group vezetõje bemutott egy egyelõre Moorestown kódnéven ismert lapkákat tartalmazó wafert, azt demonstrálva, hogy a vállalat jól halad a jövõre ígért chip fejlesztési munkálataival. A cég emellett bejelentette, a számítógépek mellett a tévékben is az x86 lesz a jövõ architektúrája.
+
+
+
+A Moorestown az Intel szuperintegrált chipje, amely az x86-os mag mellett memóriavezérlõt és grafikus vezérlõt is tartalmaz. A lapkát kimondottan személyes mobil eszközökbe szánja az Intel, például internetterminálokba, okostelefonokba, vagy olyan készülékekbe, amelyek ma még szinte meg sem születtek.  
+
+IDF: Anand Chandrasekher a Moorestown lehetõségeirõl beszél  
+
+ Chandrasekher elõadásában az Atom volt a fõszereplõ, az Intel alacsony fogyasztású, mégis erõteljes chipje, amelyre mobil és asztali eszközök teljesen új generációja épül -- gondoljunk csak az elképesztõ népszerûségre szert tett netbookokra, amelyek ma már minden, magára valamit is adó PC-gyártó kínálatában megtalálhatók. Az IDF-en szinte az összes netbookot látni lehetett, némelyeket csak kiállítási tárgyként, sokat azonban már éles üzemben, felhasználók kezében.
+
+Az Intel a tévék meghódítására tör
+
+Az Intel láthatóan nem kisebb célt tûzött maga elé, mint hogy az x86 uralmát kiterjessze a hagyományos értelemben vett számítástechnikán túlra is. Az IDF-en látható volt olyan otthoni videotelefon, autós szórakoztató berendezés és tévékészülék is, amelynek szíve és lelke Intel x86-os processzor. A világ legnagyobb chipgyártója külön rendszerchipet (CE3100 Media Processor) jelentett be tévék számára, amelytõl nem mást vár, mint a televíziózás forradalmát, az internet és a tévé összeolvadását -- a mindenki által jól ismert és támogatott x86-alapokon. 
+
+IDF: Eric Kim (Intel) és Patrick Barry (Yahoo!) bemutatják a Widget Channelt
+
+Az amerikai profi futball-bajnokság idei döntõje, a Superbowl alatt a nézõk 43 százaléka az interneten is követte az eseményeket, vagy keresett információkat a mérkõzéssel kapcsolatban -- idézett egy felmérést Eric Kim, az Intel Digital Home Group vezetõje, a Samsung korábbi marketing-igazgatója. Ez annak a bizonyítéka -- vélte Kim --, hogy az emberek szeretnék a tévézést interaktívabb élménnyé tenni, vagy a mûsorhoz kapcsolódó információkat szerezni. A jövõ azoké a tévéké, amelyek a mûsor mellett akár webes alkalmazásokat is meg tudnak jeleníteni -- állította Kim.
+
+Eric Kim rámutatott, hogy már korábban is voltak kísérletek az internet és a tévé házasítására, azonban ezek rendszerint sikertelenek voltak, mivel alapjaiban próbálták meg megváltoztatni a tévézést, mint élményt és mint tevékenységet. Az Intel CE3100 Media Processor egy x86-alapú chip, amely egy audio-video dekódert, grafikus magot és képernyõ-vezérlõt egyaránt tartalmaz. A 10 wattnál is kevesebbet fogyasztó lapka egyidejûleg akár két nagyfelbontású mûsort is képes kezelni, miközben az x86 magon a legváltozatosabb alkalmazásokat futtathatja. Az IDF-en az Intel a Yahooval és a Samsunggal együtt demonstrálta a chip képességeit, egy olyan HD-tévét, amelyen a Yahoo widget motorra épülõ kisalkalmazások futottak a mûsor mellett.
+
+A widgetek -- hasonlóan a számítógépes társaikhoz -- a képernyõ szegletében megbúvó alkalmazások, amelyek hasznos információkat szállítanak, például idõjárást-elõrejelzés, részvényárfolyamok, online videotéka vagy éppen fotóalbum érhetõ el a rajtuk keresztül. Ami rendkívül fontos -- emelte ki Kim, illetve Marco Boerries, a Yahoo alelnöke --, hogy a widgetek nem forgatják fel alapjaiban a tévézõk életét, nem kényszerítik rá õket arra, hogy másképp fogyaszzák a mûsorokat, inkább kiegészítik azokat, olyan információkat szolgáltatva, amelyekre valószínûleg amúgy is kíváncsiak lennének.
+
+Releváns tartalom a TV-adás mellé 
+
+Jön a kétmagos Atom
+
+Bár a hírek szerint az Intel az Atom jelenlegi generációjából sem tud eleget szállítani, szeptemberre már a kétmagos verzió érkezését ígéri -- bár a kereskedelmi elérhetõség kezdete valószínûleg már októberre csúszik.
+Az Atom N330 platformkompatibilis az egymagos N230-cal, így mindössze egy BIOS-frissítés szükséges használatához. A lapka fizikai méretei és a kezdetben elérhetõ órajelek egyelõre nem ismertek, az azonban biztos, hogy a kétmagos változat az egymagosnál kétszer nagyobb, 1 megabájtos másodszintû cache-t tartalmaz.
+
+A két processzormag következtében ugyanakkor növekszik a hõfejlõdés, processzor és chipset együttes TDP-specifikációja 12 wattról 16-ra emelkedik. A kétmagos Atom továbbra is támogatja a szimultán többszálú végrehajtást, így chipenként 4 utasításszálat kapunk -- a fogyasztás leszorítása érdekében ésszerûnek tûnne azonban a kikapcsolás, az asztali szoftverkörnyezet kevéssé profitál az extra párhuzamosságból.
+
+A kétmagos Atom potens ellenféllel találkozik a piacon, a VIA Nanóval, amely az elsõ tesztek szerint látványosan gyorsabb az Atom jelenlegi, egymagos változatánál, bár a fogyasztása is jóval nagyobb annál. Idõközben az AMD is elõrukkolt egy saját megoldással, az Athlon 64 felújított változata 1 GHz-es órajelen kevesebbet fogyaszt és gyorsabb is az Atomnál -- az más kérdés, hogy lényegesen nagyobb is, ami korlátozgatja a felhasználását az igazán kicsi gépekben.

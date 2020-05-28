@@ -1,0 +1,15 @@
+Csendben megérkezett az új, kicsit gyorsabb Intel Atom
+
+Az Intel csendben megkezdte Atom N280 processzorának szállítását, amelyel alighanem számos alkalommal találkozhatunk majd a közeljövõ netbookjaiban. Az Asus már be is mutatta N280-alapú elsõ netbookját, az Eee PC 1000HE-t.
+
+
+
+Az N280 mindössze pár apróságban különbözik elõdjétõl, az N270-tõl. A rendszerbusz órajele 533 MHz-rõl 667 MHz-re növekedett, a processzor mûködési frekvenciája pedig 1,6 GHz-rõl 1,66 GHz-re növekedett, ezt leszámítva azonban nincs a két változat között különbség. Ami ennél sokkal érdekesebb, az az N280-hoz passzoló új chipkészlet, a GN40, amelynek integrált GMA 4000 videovezérlõje akár 720p felbontású filmeket is gond nélkül a képernyõre varázsol -- a megnövekedett teljesítményért azonban magasabb fogyasztással is kell fizetni.
+
+
+Asus Eee PC 1000HE
+
+
+ Az Intel eredetieg a második vagy harmadik negyedévre tervezte az N280 és a GN40 piacra dobását, a sietség alighanem az NVIDIA Ion plaform fenyegetésének köszönhetõ. A grafikus chipjeirõl ismert cég az év végén jelentette be, hogy egy GeForce 9400-alapú integrált chipkészletet készít az Intel Atomhoz, amely megfelelõen nagy grafikus teljesítményt nyújt majd HD-videók lejátszásához vagy akár játékok futtatásához is. Mivel a netbookok népszerûsége töretlenül nõ, az Intel alighanem nem akarta átengedni a kezdeményezést az NVIDIA-nak ezen a területen.
+
+Hogy a netbookok mekkora hatással voltak a PC-eladásokra azt mi sem bizonyítja jobban annál, hogy az elemzõcégek mellett a gyártók is folyamatosan alulbecsülték a termékkategóriában rejlõ lehetõségeket. A DisplayBank becslései szerint 2008-ban az eladott 133 millió notebook 11 százaléka volt netbook, idén az arányuk 17 százalékra nõhet, 2012-re pedig megközelítheti a 20 százalékot is, ami 45 millió gépet jelent. A növekedés mozgatóreje a mobilitás iránti igény mellett a Wi-Fi/3G hálózatok terjedése, illetve a webes alkalmazások népszerûsége.

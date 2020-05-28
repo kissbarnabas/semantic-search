@@ -1,0 +1,12 @@
+A Flash frissítésére is figyelmeztet a Firefox
+
+Az Adobe Flash plugin ma már gyakorlatilag minden internetezõ számítógépén megtalálható, a Trusteer felmérése szerint azonban a felhasználók négyötöde elavult verziót futtat, ami stabilitási és biztonsági problémákat is okozhat. Ezt felismerve a Mozilla a Firefox következõ változataiban (3.5.3 és 3.0.14) automatikusan ellenõrizni fogja a Flash verziószámát és figyelmeztetni fogja a felhasználót a frissítésekre.
+Július végén kritikus sebezhetõséget találtak az Adobe Flashben, amely minden operációs rendszeren (Windows, Linux, Mac OS, UNIX) kihasználható volt és távoli kódfuttatást tesz lehetõvé. A sebezhetõség az Acrobatot és az Acrobat Readert is érintette. A Trusteer augusztus közepén publikált felmérése szerint két héttel egy kritikus Flash-frissítés után a felhasználók 79,5 százaléka még mindig a régi, sebezhetõ verziót használta. A késedelmes frissítés oka a Trusteer szerint az Adobe nem megfelelõ frissítési mechanizmusa: a cég ugyan értesíti a felhasználókat az új verziók megjelenésérõl, de nem tájékoztatja õket arról, mennyire fontos a frissítés.
+
+Mivel a Flash az internetezõk 99 százalékánál telepítve van, ezért a támadások jelentõs része is ezt veszi célba, így különösen fontos, hogy a Flashbõl mindenkor a lehetõ legfrissebb, legbiztonságosabb  verzió legyen telepítve. Ehhez próbál segítséget nyújtani a Firefox, amely automatikusan értesíti a felhasználót, ha a telepítettnél újabb verzió jelenik meg a Flashbõl és az Adobe letöltési oldalára irányítja a böngészõt, ahonnan a felhasználó gyakorlatilag egyetlen kattintással elérheti a legújabb verziót.
+
+Jonathan Nightingale, a Mozilla biztonsági vezetõje egy blogbejegyzésben leírta, a Firefox a Flash mellett a késõbbiekben más pluginek verzióit is ellenõrizni fogja. A tervek szerint a böngélszõ következõ, 3.6-os verziója az Apple QuickTime, az Adobe Shockwave és Reader, a Sun Java, a DivX, valamint a Microsoft Silverlight frissítésére is figyelmeztetni fogja a felhasználót.	     
+                  
+                  
+                  
+                   

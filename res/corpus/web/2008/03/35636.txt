@@ -1,0 +1,16 @@
+Új funkciókkal bõvül a Fujitus Siemens szerverfelügyeleti megoldása
+
+Áprilistõl lesz elérhetõ a Fujitsu Siemens Primergy ServerView Suite új, Server Management Suite-tal kiegészített változata, amely már virtuális és fizikai szervereket, tárolókat és hálózati eszközöket is kezel egyetlen, központosított felületen.
+
+
+
+A szoftverben négy önálló nézet választható ki az adatközpontok legfontosabb felügyeleti teeendõihez (telepítés, elemzés, integráció, üzemeltetés) igazodva. "A továbbfejlesztett Prmiergy ServerView Management Suite segítségével a felhasználók könnyebben és gazdaságosabban tudják kezelni a többrétegû struktúrát, mivel a megoldás központosítja és egységesíti a virtuális és fizikai erõforrások -- szerverek, tárolók és hálózati elemek -- felügyeletét és figyelését" -- mondta ens-Peter Seick, a Fujitsu Siemens Computers EMEA nagyvállalati szerverüzletágának alelnöke.
+
+A ServerView Deployment Manager és a ServerView Installation Manager lehetõvé teszik az operációs rendszerek, a meghajtóprogramok és az egyes rendszerekre illetve az adatbázis-környezetre jellemzõ image-ek telepítését. A ServerView Suite integrált ServerView Storage Manager a tárolók adminisztrációját hivatott egyszerûsíteni, szabványos SMI-S interfésze a Fujitsu Siemens FibreCAT tárolók mellett természetesen más szállítók megoldásaival is együttmûködik.
+
+A Server Management Suite segítségével a vállalatok csökkenthetik az adatközpontjaik fogyasztását, ezáltal költséget takaríthatnak meg -- ígéri a Fujitsu Siemens. A korábbi fogyasztásszabályozási lehetõségeket kiegészítõ fogyasztásfigyeléssel az adminisztrátor több szerver fogyasztását tudja figyelni és rögzíteni egy adott idõszakban. A Primergy szerverek egyes komponenseit a felhasználók önállóan is karbantarthatják, ami csökkenti a szervizköltséget. A koncepciót a központi szerverfelügyeleti megoldás is támogatja: megkönnyíti a felhasználó számára a hibás szerverkomponens azonosítását és online rendeléssel segíti a cserét.
+
+
+ A kibõvített ServerView Suite kompatibilis a HP, a Tivoli, a BMC és a CA elterjedt nagyvállalati megoldásaival, és átfogó funkciókat kínál a Primergy szerverek Microsoft System Center, HP Systems Insight Manager vagy Nagios környezetbe integrálásához. Az együttmûködést segítõ elõkonfigurált integrációs eszközök megkönnyítik a ServerView csomag beillesztését a fenti felügyeleti rendszerekbe.
+
+A megújult ServerView Suite pénzügyi szempontból is vonzó, a Fujitsu Siemens Computers ugyanis ingyenesen biztosítja ügyfeleinek a telepítést, a rendszerfigyelést, az adminisztrációt, a távfelügyeletet és a fogyasztásszabályozást támogató általános felügyeleti funkciókat, valamint a Primergy integrációs csomagok többségét.

@@ -1,0 +1,31 @@
+Lázadás a Twitteren
+
+@reply 
+
+Elsõre bonyolultnak hangzik, pedig valójában a Twitter egyik legérdekesebb hatásáról van szó. Ahogyan az iWiW üzenõfalon is, a Twitteren is mindenki csak a saját ismerõseinek hozzászólását látja, s néha valóban idegesítõ lehet, hogy fél diskurzusokat lát valaki a Timeline bontásban. Viszont az ismerkedés legalapvetõbb eszköze, hogy a felhasználók figyelik azt is, hogy ismerõseik kikkel csevegnek, s ha egy olyan témát vélnek felfedezni, ami õket is érdekli, akkor egy kattintással belenézhetnek az üzenet címzettjének profiljába is, s még egy kattintással be is jelölhetik õt.
+
+
+
+Nem hagyják magukat
+
+A Twitter alapvetõen nem kicsi, belterjes csoportok zárt kommunikációjára való, s emiatt érte is többször kritika. Inkább a hálózatos terjedés, ami kiemeli minden más csatorna közül, hiszen különbözõ emberek ismeretségi és érdeklõdési köre hiába mutat átfedést, mégsem azonos. A Twitter elõnye, hogy segíti a kis klikkeken átívelõ információáramlást, melynek egyik kulcsa, hogy látható az ismerõsök másokkal folytatott csevegése is.
+
+Egyoldalú módosítás: nem tanultak a Facebook esetébõl?
+
+A Twitterben három beállítás volt a válaszüzenetek kezelésére. Az elsõ esetben egy "@reply"-t sem látott a felhasználó, a másodikban mindegyiket, míg a harmadik esetben csak azokat, melyeknél a címzett és a feladó is az ismerõsök között volt. Az ismerkedést a középsõ beállítás segítette leginkább, a Twitter hirtelen ötlettõl vezérelt változtatása viszont egyoldalúan elvette ezt a választást és a harmadik opciót hagyta bent kötelezõ érvényûen.
+
+
+
+A felhasználók felhördülése tegnap, arra késztette a Twittert, hogy visszakozzon kicsit. Ugyan nem állították vissza a beállítási lehetõséget, de annyit lazítottak a szabályon, hogy azok az üzenetek, melyeket nem a "reply" gomb megnyomásával indítanak, hanem egyszerûen begépelik az elejére valakinek a "@nevét", azok mindenkinél megjelennek. Gyakorlatilag az "említés" kategóriát bõvítették ki azokra az üzenetekre is, melyekben a név nem az üzenet belsejében szerepel, hanem akár annak elején is lehet.
+
+Millió visszacsatolás - óvatos visszakozás
+
+Ezzel ugyan visszaadtak valamit a felfedezõ kedvû twitterezõknek, de a lényeg nem változott. Csupán egy ígérettel lett gazdagabb a közösség, mely szerint a hamarosan végbemenõ fejlesztések révén minden felhasználó részletesen beállíthatja majd, hogy mit szeretne látni az üzenetfolyamban és mit nem.
+
+
+Magyar Twitter megoldás 
+
+
+Magyarországon ugyan nincs komoly Twitter-bázis, de a Turulcsirip szolgáltatásnak köszönhetõen a kevéske magyar felhasználó egy közös kalap alá kerülhet be. A Turulcsirip használatához egy normál Twitter-fiók kell csupán, s bejelentkezve elérhetõ egy olyan felület, ahol csak a magyarok üzenetei láthatóak. Az üzenetek közül itt is lehet szelektálni, hogy minden magyarnak vélt üzenet megjelenjen a feedben, csak a követettek üzenetei legyenek láthatóak, de van egy ismerkedõs mód is, ahol az ismerõsökön túl olyan emberek megjegyzései is felbukkannak, akik érdekesek lehetnek. (például ismerõsök ismerõsei).
+
+Aki nincs tisztában azzal, hogyan is mûködik a Twitter pontosan, annak a magyar blogger, Wyctim leírását ajánlatos elolvasni, a "@reply" fiaskóval kapcsolatban részletesebben pedig Bodzásfanta blogjában lehet olvasni egy hosszú magyarázó elmélkedést. A legfrissebb hivatalos fejleményekrõl pedig a Twitter gépház blogjában tájékozódhat bárki.

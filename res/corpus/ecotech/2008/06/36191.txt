@@ -1,0 +1,22 @@
+Kingston: egy memóriagyártó sem fogja feladni a harcot
+
+[Digitimes/HWSW] Nem lát kiutat a memóriagyártók számára a világ legnagyobb modulgyártójának számító Kingston társalapítója. David Sun szerint a jelenlegi szereplõknek nincs kilépési stratégiája, nem lehet, ugyanis a DRAM-piac jelenti számukra az üzleti alaptevékenységet.
+
+
+
+Visszafogottságra lenne szükség
+
+Sun szerint a jelenlegi krízis alapjaiban különbözik a korábbitól, melyen az ezredfordulón ment át az ipar. Akkor olyan vállalatok vonultak ki a memóriabiznisszbõl, mint az IBM, a Fujtisu, a Toshiba vagy az OKI, melyek a súlyos verseny hatására más területekre összpontosítottak inkább. A megmaradt memóriagyártók számára azonban elsõdleges tevékenység a DRAM-gyártás, és Kingston vezéralakja szerint éppen ezért a nehéz körülményeken nem segíthet az, hogy valaki önszántából bedobja a törülközõt.
+
+A Samsung Electronicson kívül, mely a világ legnagyobb és egyben legnyereségesebb (jelenleg inkább legkevésbé veszteséges) DRAM-gyártója, gyakorlatilag egyetlen szereplõ számára sem opció a memóriagyártás feladása, ugyanis nem rendelkeznek megfelelõ méretû alternatív üzlettel. A Hynix, az Elpida, a Micron, a Qimonda és a kisebbek, mint a Nanya, ProMOS a Powerchip és a Winbond számára a DRAM-gyártás a fõ fókusz, és nem tudnak más termékre váltani, véli Sun, így nem is fogják feladni a küzdelmet. Amennyiben a szereplõk konszolidálódnak is, az ipar kapacitása nem csökken, vagyis ez sem segít a helyzeten.
+
+Sun is azon a véleményen van, hogy a piaci környezetet a gyártók csakis kooperatív magatartással tudják javítani, ami annyit tesz, hogy a kapacitásokat a korábbinál lassabb ütemben bõvítik, így a kereslet erõsödésével javul az árszínvonal is. Az iSuppli adatai alapján a DRAM-piac 2008 elsõ negyedévében 39 százalékkal volt kisebb az egy évvel korábbinál, 5,92 milliárd dollárra rúgott, vagyis a rendkívül nyomott árak miatt közel 3,2 milliárd dollárral kevesebb bevételt realizáltak a gyártók. Egy ilyen mértékû összeomlást egyetlen gyártó sem tudott kivédeni, a vállalatok árbevétele drasztikusan visszaesett, és mind veszteséget könyvelt el.
+
+Így is emelkednek az árak
+
+
+A kooperációról azonban egyelõre szó sincs. A Samsung közölte, hogy idén kétszer annyi DRAM-ot kíván leszállítani, mint tavaly, ez az iSuppli szerint pedig egyértelmû jele annak, hogy elszántságával a vállalat meg akarja félemlíteni a konkurenciát. A világ legnagyobb DRAM-gyártójának árbevétele 28 százalékkal esett vissza, ezzel is növelte azonban részesedését a piacon, 5 százalékponttal 30,6 százalékra. Szintén hasonló koncepciótól vezérelve a harmadik helyezett japán Elpida harmadával növelte termelését az elsõ negyedévben, részesedése 2,5 százalékponttal 14,5 százalékra ugrott.
+
+Pedig éppen a japán Elpida vezetõje, Szakamoto Yukio volt az, aki azzal riogatott, hogy ha a jelenlegi árazási környezet megmarad, úgy egy-két vállalat éli csak azt túl az iparban, ami az árak drasztikus, több mint ötszörös emelkedését vonná maga után. A Samsung és az Elpida agresszív expanziója ellenére azonban a többi gyártó termelési problémái és termelés-visszafogása, valamint az erõsödõ kereslet következtében a DDR2-árak tartós emelkedésnek indultak április második fele óta.
+
+ A DRAMeXchange üzletkötési adatai alapján egy hónap alatt 25 százalékot erõsödtek az árak, és a várakozások szerint ez tovább folytatódik. Becslések szerint a DDR2 ára év végére nagyjából akár a március-áprilisi mélypont kétszeresére emelkedhetnének, ami további 50 százalékos drágulást vetíthet elõre az idei évre. A kiskereskedelmi csatornákban is megjelent már az áremelkedések hatása, a modulok sok helyen 10-20 százalékkal drágultak az elmúlt hetek során. A tavalyi év egészében gyakorlatilag összeomlottak, 85 százalékot meghaladó mértékben csökkentek a DDR2-memóriaárak.

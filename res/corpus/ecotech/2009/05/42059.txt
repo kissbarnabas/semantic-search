@@ -1,0 +1,11 @@
+IDC: a virtuális gépek száma már felülmúlja a szerverekét
+
+A virtualizáció terjedése a hardvereladásokra is rányomja a bélyegét, hiszen a felhasználók kevesebb hardvert vásárolnak. A gyártóknak azonban nincs oka az aggodalomra, ugyanis a szervervirtualizáció nagyobb teljesítményû, robusztusabb, megbízhatóbb gépeket követel, így a papírvékony haszonnal eladható olcsó szerverek helyett egyre inkább elõtérbe kerülnek a nagyobb, drágább, több profitot termelõ berendezések.
+
+A hardverre szánt kiadások csökkenése és a virtualizáció elõretörése az IDC szerint azt jelenti, a virtuális szerverek száma idén már 10 százalékkal felülmúlja a szervereladásokat, 2013-ra már az arány 3:2 lesz a virtuális gépek javára. Fel fog értékelõdni a szerepe a felügyeleti megoldásoknak, a vállalatoknak ugyanis a fizikai és virtuális szervereiket egyaránt kezelniük kell majd. A Gartner korábbi felmérése szerint a virtualizációs felügyeleti eszközök piaca az EMEA régióban az idén 55 százalékkal 512 millió euróra nõ, ennek közel felét adják majd a felügyeleti megoldások.
+
+
+A virtualizáció áldása egyben az átka is. Egy januárban nyilvánosságra hozott brit felmérés szerint a virtualizációt alkalmazó cégek kétharmada nem is tudja pontosan, hány virtuális gépet használ. A cégek sokszor nem használnak megfelelõ menedzsment-eszközöket a virtuális gépek nyomon követésére, amelynek eredményeképp a VM-ek egyszerûen elárasztják a szervereket, megbénítják a tárolóeszközöket és végül a teljes infrastruktúrát -- a szükségtelenné vált virtuális gépek lekapcsolását és törlését már senki sem érzi fontos feladatnak.
+
+Magyarországon még csak a szerverek 5 százalékát virtualizálják a Microsoft adatai szerint, azonban ez az arány egyre javul. A virtualizációt, mint költségcsökkentési lehetõséget itthon is felismerték a cégek. Keszei Balázs, a Microsoft termékmarketing-menedzsere szerint általános ökölszabályként elmondható, hogy a hardvervásárlásra két év alatt ugyanekkora értékû energiaköltség és hûtési költség rakódik, virtualizáció segítségével mindkettõn spórolni lehet. Itthon a virtualizáció legnépszerûbb felhasználási területe a konszolidáció, a hardvervásárlás elkerülése. Az infrastruktúra flexibilitásának növelésére, a rendelkezésre állás
+javítására ma még kevesen vetik be a virtualizáció, Keszei szerint leginkább a magas árak miatt.

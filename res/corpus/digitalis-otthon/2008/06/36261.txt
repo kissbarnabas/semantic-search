@@ -1,0 +1,12 @@
+Frissítést adott ki a Windows Media Centerhez a Microsoft
+
+Kombinált frissítõcsomagot adott ki a Media Centert futtató Windows Vistás számítógépekhez a Microsoft, melyek számos korábban jelzett problémát javítanak. A frissítés nem csak 32, hanem 64 bites operációs rendszerekhez is elérhetõ, legegyszerûbben a Windows Update szolgáltatáson keresztül tölthetjük le a megfelelõ verziót. 
+
+
+
+A javítások között megtalálható az az egyes analóg tunerekkel kapcsolatos fix, ami a felvételi problémákra gyógyír, de a teljes és ablakos mód közötti váltás videolejátszási hibáját is megoldották, amikor a kép helyett csak nagy feketeség volt a továbbiakban látható. Frissítették az extenderekkel -- mint például az Xbox 360-nal -- kapcsolatos memóriakezelési gondot is, a Windows Media Center egyszerûen elpocsékolta az erõforrásokat ebben az esetben, akár az egész rendszer kifutott a szabad memóriából emiatt.
+
+
+
+
+A csomagban megoldás található a Vista SP1 telepítését követõen a Windows Media Center galériájából eltûnt eltávolítható eszközök problémájára is, de javítják az Expressz beállítást követõen hibásan rögzített Client ID gondot is.

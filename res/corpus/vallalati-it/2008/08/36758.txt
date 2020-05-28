@@ -1,0 +1,18 @@
+Új Xeon-szerverekkel bõvíti kínálatát a Sun Microsystems
+
+Két új Xeon-szervert mutatott be a Sun Microsystems múlt héten, két különbözõ célterületre. A kisebb változatot kifejezetten számításintenzív kódokat futtató fürtök építõelemének, míg a  másikat inkább webes vagy üzleti feladatok futtatására szánja a vállalat.
+
+
+
+Az AMD egykoron legfõbb stratégiai szövetségesének számító Sun Microsystems tovább bõvítette Xeon processzorokra épülõ kínálatát, tükrözve a piaci igényeket és az x86-os portfólió bõvítése irányában tett törekvéseket. A rackelhetõ Sun Fire X2250 a nagy számítási teljesítmény leadó, magas sûrûségû fürtöket igyekszik kiszolgálni. A mindössze 1U vékony gépbe akár kettõ darab 3,2 gigahertzes Harpertown is kerülhet (Xeon X5482, 120 watt TDP, 2x2 mag, 2x6 megabájt L2 cache) melyeket a Stoakley kódnéven ismert Intel szerverplatform szolgál ki két akár 1600 megahertzes adatbusszal. A gép 8 FB-DIMM foglalattal rendelkezik, így akár 32 gigabájt 800 megahertzes modult is fogadhat. 
+
+
+
+A modell hot-swap SATA meghajtókat fogad, az IPMI 2.0 szervízprocesszor segítségével pedig a távoli KVM mellett webes felületet kínál, a hálózati csatlakozást pedig két gigabites Ethernet vezérlõ biztosítja. A kifejezetten HPC-fürtökbe szánt gépet nem túl meglepõ módon kevés bõvítési opcióval látták el, így például egyetlen fele hosszúságú és magasságú PCIe (Express) foglalattal látták el. A támogatott operációs rendszerek közt a Solaris 10 és Windows 2003 mellett természetesen a HPC-területen leginkább alkalmazott kereskedelmi Linux-disztribúciókat is megtaláljuk, a Red Hat Enterprise Linux 4/5 és a Novell SUSE Linux Enterprise Server 10 SP1 változatait.
+
+
+A másik újonnan bejelentett Xeon-szerver az elõzõvel szemben éppen a skálázhatóságot igyekszik hangsúlyozni. A szintén két processzorfoglalatos Sun Fire X4250 16 FB-DIMM foglalattal bír, így 64 gigabájtot támogat vele a Sun hivatalosan. A hálózati összeköttetõsérõl 4 darab gigabites Ethernet vezérlõ gondoskodik, és további bõvítési lehetõségre 6 PCIe sín kínálkozik. Az X4250 különféle RAID-konfigurációkban akár 16 SAS meghajtót képes fogadni -- a Sun szerint ez rekordsûrûség 2U méretben. A támogatott operációs rendszerek közt extraként felbukkan a virtualizált környezeteket futtató VMware ESX Server is.
+
+
+
+Megkeresésünkre Polner Tamás, a Sun Microsystems hazai leányának marketing igazgatója elárulta, hogy a Sun Fire X2250 és X4250 konfigurációk már közel egy hónapja rendelhetõek, és azokat szállítja is a vállalat. Az X2250 legolcsóbb kiszerelése, melyben egy 2 gigahertzes négymagos Xeon és 4 gigabájt memória található merevlemez nélkül, 276 ezer forintról indul, míg az X4250 kezdõára 578 ezer forint. Kétmillió forintokért nyolc 3 gigahertzes processzormagot és 32 gigabájt memóriát is kaphatunk már, ezt azonban a a merevlemezek és szoftverlicencek tetemes összegekkel duzzaszthatják még.

@@ -1,0 +1,14 @@
+A felszabaduló frenkvenciákra is beszivároghat az új mobilgeneráció, az LTE
+
+[eWeek] A Motorola legújabb tervei szerint univerzális platformot készít 2009-re, mely egyszerre támogatja majd a WiMax vezeték nélküli hálózati adatátvitelt, illetve a harmadik és negyedik mobilgeneráció közötti LTE-t. A támogatott frekvenciák között megtalálható lesz az újabb 700 MHz-es spektrum is, melyet idén tavasszal árverezett a Szövetségi Kommunikációs Bizottság (FCC).
+
+
+
+A Motorola platformja a WiMax és a 700 MHz-es spektrum támogatásával könnyen felkeltheti a mobilszolgáltatók érdeklõdését, hiszen a jövõre felszabaduló frekvenciasáv jóval nagyobb terület lefedését biztosítja egyetlen adótoronnyal, mint a 2 GHz feletti spektrumon üzemelõ megoldások, amelyeknél jóval sûrûbben kell elhelyezni az állomásokat. Az alacsonyabb frekvenciájú adatátvitellel olyan helyeken is elérhetõ lenne a szélessávú mobilinternet, ahol a jelenlegi 3G/HSDPA adótornyokkal ez egyáltalán nem lenne rentábilis, például ritkán lakott területeken.
+
+
+Itthon a 900 Mhz-es tartományt lehetne felhasználni hasonló célra, a mobilszolgáltatók lobbiznak is ezért. Az LTE technológiát is számos mobilszolgáltató teszteli, vagy kezdi meg hamarosan a próbaüzemet, többek között a Verizon és a Vodafone közös vállalata, a Verizon Wireless is. Az amerikai mobilszolgáltatónak többek között az Alcatel-Lucent, a Nortel és az Ericsson is szállít tesztberendezéseket, ezek mellé kerülhet be a Motorola új platformja is.
+
+
+
+Az LTE Super 3G egy közös szabvány lehet a CDMA, TS-SCDMA és WCMDA szolgáltatók körében, és piaca az ABI kutatásai szerint több mint 2 milliárd euróval fog bõvülni az elkövetkezendõ évben. 2015-re már 400 millióra becslik az LTE elõfizetõk számát, nyilatkozta egy elõadásában Jean-Pierre Bienaimé, az UMTS Fórum elnöke. Elsõként 2009-2010-ben Japánban, a DoCoMo-nál várható az LTE hálózat kereskedelmi indulása, majd ezt követõen Észak-Amerikában, majd Nyugat-Európában honosodhat meg az új hálózati szabvány.

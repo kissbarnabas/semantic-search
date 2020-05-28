@@ -1,0 +1,20 @@
+Hamarosan élõben is közvetít a YouTube
+
+[Alley Insider/HWSW] Mégis idén, pontosabban november 22-én elindulhat publikusan is az elsõ élõ kamerakép a világ legnépszerûbb videomegosztó-oldalán, a YouTube-on. A jövõben nem csak a korábban elkészült mozgóképek tölthetõek fel és oszthatóak meg, hanem a felhasználóknak lehetõsége lesz élõképet is közvetíteni a világháló felé.
+
+
+
+Sokba kerül mint egy valóságshow
+
+Ehhez nagyon hasonló megoldások már jó ideje mûködnek a weben, fõképp apró, induló vállalkozások kezdeményezése nyomán. Ilyen például az UStream, Justin.tv, Stickam és a Mogulus. A felsorolt szolgáltatások mindegyike igényes és érdekes megoldás, némelyik támogatja a HD-felbontású streameket is, illetve több lehetõség van az élõ csatornák korábbi eseményeinek követésére, rögzítésére, ismétlésére. Lehetõségekben a Google tulajdonában lévõ YouTube sem lesz kivétel, a különbség a kritikus tömegben lesz.
+
+
+ A YouTube szóvivõje elmondta, hogy dolgoznak a szolgáltatás beindításán, melyet egy külsõ beszállító fejlesztett számukra. Ugyanakkor hangsúlyozta, hogy az élõ közvetítés drága mulatság, hiszen ha csak minden tizedik felhasználó kezdené használni ezt a funkciót, az 25 százalékkal növelné meg a cég szerverigényeit, s egyben kiadásait is.
+
+Az elõ videók továbbítása bonyolultabb eljárást igényel az elõre rögzített és feltöltött klipek lejátszásánál, folyamatos adatforgalommal terheli befelé is a szolgáltatót, de ennél is komolyabb gond, hogy a hirdetõk nem akarnak kontrollálatlan élõ tartalmak mellé hirdetéseket elhelyezni, mert félnek a botrányoktól. A Silicon Alley Insider elmélete szerint az egyetlen lehetõség, amivel a YouTube kivédheti a bizalmatlanságot és az erõforrás-problémákat is, ha az élõ közvetítések elérését csak a fizetõ felhasználókra korlátozná.  Egyes vélemények szerint ez a szolgáltatás a többi sikeres innovációval ellentétben egy drága baki lesz a Google életében. Példaként említik a Yahoo éppen most süllyesztõbe küldött live stream szolgáltatását.
+
+Igazi mozi
+
+Szokás szerint a Google nem csak egy vasat tart a tûzben, így a napokban egy másik komoly projektrõl is beszámol: hosszú hónapokig tartó vívódás után mégis elindítja a reklámszponzorált, egész estés filmek vetítését. Ez a lépés némileg átalakíthatja az egész fõoldal megjelenését, illetve némileg felforgatja a megszokott rendszert. A szükség viszont nagy úr, hiszen válságos idõkben, amikor a hirdetési büdzséket rendre megvágják, akkor senki nem szeret kísérletezni a közösségi médiával, sokkal biztosabb a marketingüzenet helyes célbajutása ha egy hollywoodi kasszasikerrel párosítják össze a hirdetést. 
+
+Ez a változás viszont felveti a kérdést, hogy meg kell-e változtatnia a YouTube-nak a saját Flash-alapú lejátszóját? A jelenleg MPEG4 H.264 kodeket használó lejátszó nem igazi stream adatfolyamot létesít, mint például a RealMedia megoldásak, hanem elkezdi letölteni a videofájlt a merevlemezre és onnan indítja el gyakorlatilag "offline". Ez a megoldás biztosan nem lesz elfogadható a kalózmásolatok terjedésétõl tartó jogtulajdonosoknak. 

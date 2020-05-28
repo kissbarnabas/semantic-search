@@ -1,0 +1,14 @@
+Felvásárlással erõsít a teljesítménymonitorozás terén a VMware
+
+Teljesítménymonitorozó céget vásárol fel a VMware, mely iparági vélemények szerint jelentõs változásokat eredményez majd a piacon. A vezetõ x86-os virtualizációs vállalat a B-hive Networksöt olvasztja magába, az ügylet értéke nem nyilvános. 
+
+
+
+Az izraeli B-Hive Networks elsõsorban Conductor terméke révén értékes a VMware számára, mellyel a virtuális gépek viselkedését lehet monitorozni és elemezni. Az így detektált teljesítményproblémák orvoslására, mint például egy szerver esetében a magas válaszidõ, az ESX Server automatikusan további erõforrásokat bocsáthat a vendégrendszer rendelkezésére, vagy terheléselosztás esetén akár tovább másolatokat hozhat létre belõlük. A Conductor egyúttal képes érzékelni, ha a futó virtuális gépen belül fennakadt az alkalmazás, ugyanis a hálózati adatforgalmat elemzi.
+
+
+Elemzõi vélemények szerint az ügylet hasonló lépésre készteti a jövõben riválisait, elsõsorban a Microsoftot és a Citrixet, ugyanis a virtuális gépek kifinomult monitorozása és az arra alapuló automatizáció jelentõs értéket képvisel az ügyfelek számára. A Conductor feltérképezi az összes fizikai és virtuális gépet, és azok kommunikációját tranzakcionális szemszögbõl, így erre alapozva valósidejû elemzést végez. Az elõre beállított politikának megfelelõen képes automatizáltan menedzselni az infrastruktúrát, amihez eszközei közé tartozik az új szerverek bevonása, újraindítása, a tranzakciók átirányítása.
+
+A Conductor és a hozzá hasonló képességû szoftverek nagyban segíthetik a virtualizáció terjedését, ugyanis a fizikai gépekéhez hasonló felbontású és átfogó képet ad a rendszergazdáknak a virtualizált alkalmazások viselkedésérõl, mégpedig egyszerûen, vendégekre telepített kliensprogramok vagy az egyes alkalmazások egyenkénti monitorozása nélkül. A virtuális gépek teljesítményével kapcsolatban gyûjtött adatok meggyõzhetik a technológiai fejlõdéshez képest hagyományosan konzervatív  IT-részlegeket annak fizikai rendszerekkel szembeni versenyképességérõl -- a virtualizációs szoftverek fejlõdésével a virtualizált teljesítmény folyamatosan közelíti a natív futtatásét.
+
+Tavaly az értékesített szerverek mindössze 8,2 százalékát alkalmazták virtualizációra, becsli az iSuppli, míg idén ez az arány 11 százalék körüli értékre emelkedhet. A virtualizációra használt kiszolgálók természetszerûleg drágábbak átlagosan, ugyanis jellemzõen több vendégszervert konszolidálnak a hardveren, amihez jellemzõen minél több processzormag, de leginkább nagy memóriakapacitás szükséges. A VMware szervervirtualizációs megoldásait itthon több mint 250 vállalat alkalmazza, köztük például bankok is. A B-Hive eddig a Citrix termékeivel is teljes mértékben integrálódott, a jövõbeni támogatással kapcsolatban ugyanakkor a VMware egyelõre nem nyilatkozott, de várható az ezirányú fejlesztések befejezése.

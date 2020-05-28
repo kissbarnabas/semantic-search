@@ -1,0 +1,14 @@
+Májusban érkezhet a Microsoft Office Open XML fejlesztõkészlet
+
+A Microsoft az utolsó simításokat végzi az Office Open XML fejlesztõkészleten, amelynek segítségével leegyszerûsíthetõ az OOXML állományokat kezelõ alkalmazások fejlesztése, illetve a bináris Office-formátumokat támogató szoftverek átalakítása OOXML-alapúvá. Az OOXML SDK elsõ bétája áprilisban érkezhet, a végleges változatot pedig májusra ígéri a szoftvercég.
+
+
+
+A fejlesztõkészlet elsõ közösségi elõzetesét (Community Technical Preview) már júniusban kiadta a Microsoft azoknak a programozóknak, akik tartalomkezeléssel, üzleti intelligenciával, illetve az Office-szal és a SharePointtal kompatibilis alkalmazásokon dolgoznak. A béta és a végleges verzió, valamint az Office Open XML-lel kapcsolatos összes információ az www.openxmldeveloper.org és az www.openxmlcommunity.org" weboldalon lesznek elérhetõk.
+
+
+A redmondiak ígérete szerint idén nyáron már az SDK 2.0 változatának elõzetesét kapják meg ugyanezek, a végleges verzió pedig az Office következõ változatával, az Office 14-gyel egyszerre érkezhet. Az Office 14 megjelenési dátumáról egyelõre semmit sem tudni. Az OOXML SDK-t folyamatosan frissíteni fogja a Microsoft, hogy a formátumban bekövetkezett legújabb változásokkal naprakészen tartsa azt.
+
+Genfben február utolsó hetében ülésezett az a testület, amely az Office Open XML szabványosítási kérelme kapcsán felvetõdött kérdéseket, javaslatokat tárgyalta meg. Amint arról lapunk is beszámolt, a szabványosítási folyamat során az országok jogosult testületei több mint 3500 észrevételt, javaslatot tettek a formátummal kapcsolatban, az átfedések kiszûrésével ez mintegy 1500 különálló felvetést tett ki. A Microsoft ezeket a február végi ülésig megválaszolta, illetve javaslatot tett a megoldásra. Ezek ismeretében a szabványosításban résztvevõ országok újra szavazhatnak, hogy támogatják-e az Office Open XML ISO-szabvánnyá emelését -- végleges döntés március végén várható.
+
+Az ISO-tagországok egyébként példátlanul magas számban vettek részt az Office Open XML szabványosítási folyamatában, azonban egyelõre a támogatók nem tudtak megfelelõ fölényt szerezni ahhoz, hogy az OOXML-t gyorsított eljárással szabvánnyá emeljék. Magyarország azon országok közé tartozik, amelyek végül nem szavaztak, mivel az IBM lényegében ellehetetlenítette az Magyar Szabványügyi Testület illetékes bizottságának munkáját.

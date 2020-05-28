@@ -1,0 +1,18 @@
+Képtelen a növekedésre a Sun Microsystems
+
+Közzétette a 2008 három hónapjára esõ harmadik pénzügyi negyedévének eredményeit a Sun Microsystems. A vállalat bevétele enyhén csökkent, miközben a MySQL felvásárlásával kapcsolatos költség és egy adótartalék miatt a tavalyi enyhe nyereség után most veszteségbe fordult a mérleg. A vállalat 2500 dolgozó leépítésével próbálja még tovább faragni a költségeit -- a tõzsde rosszul fogadta a híreket.
+
+
+
+A harmadik pénzügyi negyedévben a Sun forgalma a tavalyi 3,28 milliárd dollárról 3,27 milliárdra csökkent. A nettó veszteség 34 millió dollárt tett ki, szemben az egy éve elért 67 milliós nettó profittal. Elemzõk részvényenként 18 centes profitot vártak a részvényenkénti 4 centes veszteség helyett. Jonathan Schwartz elnök-vezérigazgató beszámolója szerint a Sun nehéz negyedéven van túl, az amerikai gazdaság gyengélkedése rányomta a bélyegét a cég tevékenységére.
+
+ A Sun forgalmának több mint harmada származik az USA-ból, a cég egyik legnagyobb ügyfélköre épp a válság-sújtotta pénzügyi szektor. Meglepõ módon Schwartz arról számolt be, hogy a pénzügyi szektor a vártnál többet költött, ami arra utal, hogy a pénzinzézetek informatikai megoldások segítségével próbálják racionalizálni mûködésüket, csökkentni költségeiket. A Sun számára kiemelten fontos kormányzati szektorban azonban elmaradoztak a megrendelések. Az gyesült Államokból származó bevétel 10 százalékkal esett vissza a legutóbbi negyedévben.
+
+A forgalom kétharmadát adó termékértékesítés árbevétele 3 százalékkal csökkent éves összehasonlításban, miközben a szolgáltatások forgalma ugyanennyivel nõtt. A Sun által értékesített szerverek száma éves összehasonlításban 6 százalékkal nõtt, a HWSW becslése szerint mintegy 82 ezer darabra, ebbõl 32 ezer darabot tettek ki az x86-os rendszerek, amelyekbõl 26 százalékkal több fogyott mint egy éve. A szerverek értékesítésébõl származó forgalom ugyanakkor az olcsóbb x86-os kiszolgálók térnyerésének köszönhetõen 2 százalékkal csökkent, miközben a tárolóeszköz-eladások több mint 5 százalékkal csökkentek.
+
+
+ A negyedéves mutatókkal együtt a Sun Microsystems azt is bejelentette, hogy mintegy 2500 dolgozójától válik meg a közeljövõben. A létszám több mint 7 százalékát érintõ leépítés 220 millió dolláros egyszeri kiadást jelent, éves szinten azonban legalább 150 milliós megtakarítást várnak tõle.  Bár nagyszabású elbocsátások segítségével Schwartz 2006 tavaszi hatalomátvéte óta a nyereségküszöb fölé tudta szenvedni a Sunt, a cég forgalma évek óta nem növekszik, a szezonalitás miatt erõs naptári és pénzügyi negyedik negyedéveket leszámítva a forgalom már két éve stagnál.
+
+A Sun Microsystems bevételének alakulásaForrás: Sun Microsystems
+
+A némileg csökkenõ bevétel, a váratlan veszteség és a leépítések bejelentése után a cég papírjai mélyrepülésbe kezdtek. A részvények tegnapi záróárukhoz képest jelen pillanatban közel 20 százalékkal olcsóbban cserélnek gazdát és töretlenül haladnak a 13,02 dolláros éves mélypont felé [át is lépték azóta]. Elemzõk már kongatják a vészharangot Schwartz feje felett, akinek az irányítása alatt a Sun már évek óta képtelen növekedési pályára állni. Michael Lehman pénzügyi vezetõ szerint a jelenleg is tartó negyedik negyedévben a tavalyihoz hasonló bevétel várható, ami kimondottan gyengének számít -- elemzõk 3-5 százalékos növekedésre számítottak.

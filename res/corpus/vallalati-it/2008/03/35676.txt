@@ -1,0 +1,25 @@
+Microsoft: az NVIDIA driverei okozták a legtöbb Vista-fagyást
+
+Az NVIDIA meghajtóprogramjai okozták a Windows Vista kezdeti fagyásainak több mint negyedét, derül ki a Microsoft ellen a Vista Capable marketingkampány kapcsán folytatott amerikai közérdekû csoportos kereset egyik nyilvánosságra került periratából. A rendszerhibák okozói között nem sokkal marad el az AMD sem. A vállalatok szerint a korai problémákat mára orvosolták, Linus Torvalds szerint pedig az egész egyáltalán nem meglepõ, de nem is Vista-specifikus.
+
+
+
+A siker átka
+
+A NVIDIA negatív rekordját ironikus módon éppen kiváló piaci szereplése és drivereinek nagy teljesítményre optimalizáltsága okozta. A leginkább grafikus processzorairól ismert társaság, a videokártyák piacának 71 százalékát birtokolta a tavalyi negyedévben, becsli a Jon Peddie Research, és chipsetjei sikeres szereplésével együtt már a teljes asztali szegmens több mint 37 százalékát tudhatta magáénak, hajszálra közelítve meg az Intelt.
+
+Ez önmagában azonban még nem magyarázná teljesen, miért az NVIDIA szerezte meg ezt a legtöbb hibát okozó vállalat dicstelen címét, az összes, valamikor 2007 során regisztrált jelentés 28,8 százalékával, ami közel 480 ezer esetet jelentett -- áll a Microsoft ténykedését szorosan követõ Seattle Post Intelligencer oldaláról letölthetõ (PDF) bírósági dokumentum 47. oldalán. A második legtöbb problémát (18%) a Microsoft által írt eszközmeghajtók okozzák, a harmadik legtöbb lefagyásról  az AMD (ATI) driverei tehetnek.  "A grafikus driverek a legbonyolultabbak az egész (szoftver) stackben. A komplexitás azokban a driverekben a 3D animációs effektekbõl fakad" -- nyilatkozta a  ChannelWebnek az AMD szóvivõje.
+
+Figyelemre méltó, hogy az AMD részesedése a teljes grafikus piacon kevesebb mint másfélszerese az NVIDIA-nak, ugyanakkor a lefagyások csak kevesebb mint 10 százalékát okozza AMD (ATI) videodriver. Az NVIDIA tért át ugyanakkor elsõként DirectX 10-es támogatásra ForceWare névre hallgató drivereiben, ami szintén okozhatott stabilitási problémákat, valamint a felsõkategóriás szegmensben, ahol vélhetõen a legtöbb hiba születik a határon táncolás miatt, a cég részesedése több mint kétszerese az AMD-ének -- egyes vélemények szerint akár a 80-90 százalékot is elérheti, konkrétumként azonban emlékezzünk a Jon Peddie Research által mért 71 százalékos részesedésre a bõvítõkártyák piacán.
+
+Torvalds: a driverekkel van általában a legtöbb gond
+
+Linus Torvalds, a Linux atyja és a kernel karbantartója a Real World Tech fórumán leírt egy kommentárjában úgy véli, az NVIDIA grafikus driverei járnak valószínûleg leginkább a határon, már ami a teljesítményre hangolást illeti, és a dolgukat nagyban megnehezíthette a Vista drivermodelljének gyökeres megváltozása. "[Az NVIDIA driverei] a végletekig kifacsartak, ami valószínûleg nem segít, mikor a dolgok megváltoznak a lábad alatt" -- írja Torvalds, aki szerint a driverek egyébként is a rendszerhibák elsõdleges forrásai, függetlenül attól, hogy Vistáról vagy más operációs rendszerrõl van-e szó.
+
+Torvalds hozzáteszi, hogy a grafikus driverek debuggolása kifejezetten nehéz feladat, ugyanis ha elszáll a grafikus felület, akkor a teszterek és felhasználók többsége egyszerûen meg van lõve. A helyzetet súlyosbítja, hogy a Windows a teljesítmény fokozása érdekében a kerneltérben futtatja a grafikus kódok egy részét, vagyis a driver (vagy akár a szintén rengeteg hibával rendelkezõ grafikus processzorok) a rendszermag stabilitására is kihatással vannak -- más vélemények szerint ez azonban nem okozhat problémát, ahogyan a fejlesztõk kiismerik a rendszereket.
+
+Az NVIDIA mindenesetre biztosította eleinte igencsak felpaprikázódott felhasználóit, hogy a hibák többségét mára javították. "Mikor bármilyen operációs rendszer piacra kerül, egy bizonyos számú hibára fény kerül. Ez elég tipikus. Voltak driver hibáink, és a közösség tudatta velünk" -- kommentálta a híreket az NVIDIA szóvivõje a ChannelWebnek. Védekezésül a cég termékemendzsere, Andrew Fear hozzátette, hogy az NVIDIA nagyobb kihívás elé nézett, ugyanis 250 terméket kell támogatniuk, míg az AMD-nek fele ennyit.
+
+[+] Csodálkozik a Microsoft a kevés panaszos Vista-felhasználón  
+
+A Microsoftot két magánszemély perelte be egy éve a seattle-i kerületi bíróságon, azt állítva, a vállalat megtévesztette a fogyasztókat "Vista Capable" elnevezéssel, ugyanis az ilyen PC-ken nem érhetõ el az operációs rendszer számos képessége. A felperesek azt állítják, csak akkor jöttek rá, hogy a Vista Capable matricát tartalmazó gépükön nem fut a Vista számos funkciója (pl. az új Aero felület), miután megvették az operációs rendszert. Az ügyet végül közérdekû csoportos keresetté nyilvánították, vagyis amennyiben a felpereseknek ad igazat a bíróság, úgy más, az eljárásban nem nevesített sértettek is jogosulttá válnak kártérítésre.

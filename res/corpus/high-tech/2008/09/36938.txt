@@ -1,0 +1,18 @@
+Az MP3 atyja fejleszti a jövõ digitális hangformátumát is
+
+Az elterjedt videtömörítési kodekek -- egyebek mellett a DVD-ken széleskörûen alkalmazott MPEG-2, vagy a Blu-ray esetében, vagy a digitális adástovábbítási láncok által használt MPEG-4 -- mellett a legnépszerûbb hangtömörítési technológia, az MP3 szabványosításáért is felelõs Moving Pictures Expert Group (MPEG) a jelek szerint nem bízza ismeretlen jöttmentekre a jövõ digitális hangformátumának a kifejlesztését.
+
+
+
+Jobb hangminõség alacsony bitsûrûség mellett
+
+A szervezet a múlt hét végén határozott arról, hogy az MP3 utódjának szánt hangtömörítési eljárást a népszerû kodek atyjának számító német Fraunhofer Institute fejlesztheti, mely a kanadai VoiceAge-dzsel közösen nyújtotta be a technológia tervezetét a csoportnak. A német-kanadai projektet több versenyzõ közül választotta ki mintegy 80 vájtfülû hallgató, akik 11 különbözõ hangtechnikai laboratóriumában tesztelték az eljárást. Az MPEG egy éve döntötte el, hogy kvázi pályázati úton meghirdeti az új hangkodek fejlesztést -- a pályázatra nyolc ismert szervezet vagy világcég jelentkezett, a legmeggyõzõbb eredményt végül a Fraunhofer-VoiceAge duó produkálta.
+
+A jelenleg MPEG Unified Speech and Audio Codec, azaz MPEG Egységes beszéd- és audiokodek munkacímen futó, várhatóan 2010-re finisbe érõ projekt a jelenlegi technológiákkal elérhetõ szintnél lényegesen jobb hangminõséget ígér, nagyon alacsony -- 12-64 kbit/másodperces -- bitsûrûség mellett. Az új kodek a zenék jobb minõségû konverzióján túl tisztább beszédhang-rögzítést is lehetõvé tesz, vívmányait emellett a digitális mûsorszórás és a mobiltelevíziózás területén is kamatoztathatják majd.
+
+Tömörített térhatás
+
+
+A Fraunhofer Institute szintén múlt héten közölte, hogy a Dolby Labs-szel, az LSI-vel és a Philips-szel karöltve megkezdi az MPEG Surround térhatású eljárás licencelését. Az MPEG-D néven is ismert technológia nem nyújt diszkrét többcsatornás hangsávot, ugyanakkor a hangsávba kódolt, nagyjából 4 kbps-es pozicionálási jelekkel képes arra, hogy a rendszerrel kompatibilis lejátszóberendezésekbõl térhangot csiholjon.
+
+Az MPEG Surround szabványosítási folyamata tavaly zárult le, a licenctulajdonosok most tették elérhetõvé a gyártók számára a technológiát, illetve most váltak ismertté a licencelési feltételek, konstrukciók és árak is. A kutatóintézet álláspontja szerint az alacsony sávszélességigényû térhatású hang Európában a DAB-technológia, az Egyesült Államokban pedig HD-rádiózás szerves része lehet, ezzel új löketet adva a digitális rádiózás lassú térhódításának.

@@ -1,0 +1,26 @@
+Ne várjunk túl sokat a Windows Vista elsõ szervizcsomagjától
+
+[Techworld, HWSW] Az elsõ tesztelések, visszajelzések alapján nem szabad túl sokat várni a Windows Vista elsõ szervizcsomagjától. Bár a Microsoft online dokumentuma szerint gyorsulni kellene az állományok másolási sebességének, vagy javulnia a kompatibilitásnak, a tesztek ezt nem igazán támasztják alá.
+
+
+
+Vegyes eredmények
+
+A nemrég alapított alkalmazástesztelõ cég, az AppDNA a nem kevesebb mint 500 üzleti szoftvert futtató AppTitude tesztprogramjával mérte az elsõ szervizcsomag hatásait a kompatibilitásra. Az SP1 telepítése semmilyen változást nem hozott ezen a téren, de akármilyen furcsának is tûnhet, a 18 százalékos hibaarányt jónak ítélte a cég -- a Windows XP második szervizcsomagjának példájából kiindulva már félõ, hogy a korábban mûködõ alkalmazások hirtelen nem mûködnek egy szervizcsomag telepítését követõen.
+
+Az AppDNA mellett egyszerû felhasználók is kipróbálták a különféle forrásokból -- a csomag Bittorrent állománycserélõkre is kiszivárgott -- beszerzett frissítést, tapasztalataikról pedig fórumokon számolnak be. A CNET is tesztelte az elsõ szervizcsomagot, mellyel vegyes eredményeket kaptak: míg bizonyos esetekben, nõtt némileg az operációs rendszer teljesítménye, más esetekben romlott. A sokat kritizált USB-s és merevlemezes másolási sebességnek elméletileg növekednie kellene a Microsoft szerint, azonban egyes tesztek pendrive-okkal kísérletezve közel 50 százalékos lassulásról (!) is beszámolnak.
+
+
+Az SP1 néhány frissített eszközmeghajtóval is érkezik, melyek szintén teljesítménynövekedést céloznának. Korábbi hírek szerint a meghajtóprogramok szintjén okozhat kellemetlen meglepetést az elsõ szervizcsomag telepítése, a hardvergyártók ugyanis nem követték teljesen a Microsoft specifikációit, így egyes eszközmeghajtók megtagadhatják a mûködést az e téren szigorúbb SP1 telepítését követõen. Egyesek szerint emiatt tolta el március közepére az elsõ szervizcsomag széleskörû letölthetõségét a redmondi szoftveróriás.
+
+Néhány tíz megabájt
+
+A Microsoft fenti dokumentumából mindenesetre világosan kiderül, hogy nagy letöltendõ adatmennyiségre csak azoknak kell felkészülniük, akik nem frissítették rendszeresen operációs rendszerüket. Ebbõl is következik, hogy az SP1-ben szereplõ frissítések zömét már év közben megkapták a felhasználók -- így nincs is mitõl komoly változást várni.
+
+Egy naprakészen tartott Vistához csupán 65 megabájtnyi adatot tölt majd le a Windows Update frissítõrutin, így a béták alatt tapasztalt hosszadalmas telepítéstõl sem kell majd félni. Egy "internetszûzen" tartott Vistához már 450-550 megabátjnyi frissítésre lesz szükség, hiszen az SP1-ben az eddig kiadott, tavaly óta akkumulálódott frissítések is benne lesznek.
+
+A javítócsomagban érkezik néhány új funkció is, a BitLocker például már képes lesz több meghajtót is titkosítani, illetve változások történtek az asztali keresõben is. A Vista SP1 megnehezíthette volna a kalózok dolgát is, olyan kódok kaptak helyet a csomagban, amelyek kivédik a legnépszerûbb aktivációs trükköket, azonban azt már most tudni lehet, hogy néhány kiskapu megint nyitva maradt.
+
+Még egy hónap
+
+A Vista SP1-tõl sokat vár a Microsoft, a vállalati felhasználók jó része ugyanis azért nem váltott még a legújabb asztali Windowsra, mert hibáktól tart, bár novemberi adatok szerint a szervezetek 35 százaléka már bevezette, vagy most vezeti be a Vistát, összességében pedig a megkérdezett cégek és szervezetek 48 százaléka kezdte meg az áttérést, vagy az arra való felkészülést. A frissítõcsomag elsõként az angol, francia, spanyol, német és japán operációs rendszerekre lesz telepíthetõ március közepén, a többek között magyar operációs rendszerekhez is használható változat március végén, április elején kerülhet fel a Windows Update webhelyre.

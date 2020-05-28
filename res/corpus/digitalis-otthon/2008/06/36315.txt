@@ -1,0 +1,12 @@
+Olcsó és kompakt processzorral rukkol elõ az AMD is a mini notebookok piacára
+
+[Digitimes/ComputerBase/HWSW] A német ComputerBase megszellõztetését követõen a Digitimes is arról számolt be, hogy év végére az AMD is megjelenik az olcsó PC-k piacán. A vállalat lényegében egy kompaktabb tokozású Sempronnal jelenik meg, és árazásban tervezi elsõsorban felvenni a versenyt riválisaival szemben.
+
+
+
+A német nyelvû ComputerBase múlt héten számolt be arról, hogy az AMD az Intel Atom és a VIA Nano ellen kíván csatába küldeni egy új terméket, mely riválisaihoz hasonlóan viszonylag olcsón termelhetõ és energiatakarékos. Az Intel vagy a VIA fejlesztéséhez viszonyítva ugyanakkor nincs szó a célterületre optimalizált mikroarchitektúráról, a vállalat egy 64-bites végrehajtást is támogató K8 magot alkalmaz 256 kilobájt L2 cache társaságában.
+
+
+A ComputerBase által eredetiként prezentált slide alapján 1 gigahertzes órajel mellett 8 wattos elektronikai kerettel rendelkezik a 65 nanométeres gyártástechnológiával készített chip, tokozása pedig 27x27 milliméteres -- viszonyításképpen az AMD asztali chipjeinek tokozása 40x40 milliméteres, míg a notebookokba szántaké 35x35. A Nano 21x21 és az Atom 13x14 milliméteres tokozásához közvetlenül nem hasonlítható, ugyanis integrált északi hídja miatt sokkal több, közel kétszer annyi lábra van szüksége. 
+
+Ugyanígy nem vonhatóak le messzemenõ következtetések a processzorchipek gyártóról gyártóra különbözõ fogyasztási specifikációjából sem, de valószínûsíthetõ, hogy energiahatékonyságban nem veszi fel a versenyt az erre a területre specializálódott konkurenciával, ugyanakkor platformszinten ezek a különbségek minden bizonnyal halványodnak majd a többi alkatrész (például kijelzõ, memória, háttértár) fogyasztása miatt. A Digitimes értesülései szerint az AMD a HP-val az Acerrel, az MSI-vel és kínai gyártókkal folytat tárgyalásokat megnyerésük érdekében. Az elsõ AMD-platformra építõ mini notebookok 2009 elsõ felében érkezhetnek legkorábban.

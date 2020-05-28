@@ -1,0 +1,29 @@
+A világ legvékonyabb notebookját mutatta be az Apple
+
+A világ legvékonyabb notebookját mutatta be a MacWorld Expo nyitónapján az Apple, a vállalat emellett egy vezeték nélküli kapcsolatra képes külsõ merevlemezzel és az Apple TV frissített változatával is elõrukkolt, valamint kisebb frissítéseket jelentett be az iPhone-hoz és az iPod touchhoz.
+
+
+
+Ez elég vékony
+
+Igaznak bizonyultak azok a pletykák, amelyek szerint az Apple egy szupervékony noteszgépet jelent be, még a kiszivárgott terméknév, a MacBook Air is hitelesnek bizonyult. A 13,3 hüvelykes, LED-háttérvilágítással rendelkezõ gép tervezésénél mindent a vékonyságnak rendelt alá az Apple, ezért a noteszben nincs optikai meghajtó, és egyetlen árva USB-porton kívül semmilyen bõvítési lehetõség sem, csak egy micro DVI csatlakozó, amelyen keresztül külsõ monitorhoz vagy tévéhez csatlakoztathatjuk. A gép akkumulátora is fixen beépített, nem cserélhetõ. Cserébe a billentyûzet háttévilágításának fényereje a környezeti fényviszontoktól függõen változik.
+
+
+
+Azt viszont nem lehet elvitatni a MacBook Airtõl, hogy vékony lenne. A gép a legvékonyabb részén csupán 4 milliméter vastag, de még a legvastagabb részén is 19,4 milliméter vékony csupán, és mindössze 1,36 kilogrammot nyom. A notesz méreteit azzal demonstrálta Steve Jobs, hogy egy A4-es borítékból vette elõ a tegnapi prezentációja során a MacBook Airt. A gép 45 nanométeres csíkszélességû Core 2 Duo processzorra épül, alapkiépítésben 2 gigabájt memóriát tartalmaz, a merevlemeze pedig az iPodokból ismert 1,8 hüvelykes, 80 gigabájtos, percenként 4200-at pörgõ modell, de akár 64 gigabájtos SSD-vel is rendelhetõ. A MacBook Airben 802.11n Wi-Fi és Bluetooth 2.1 adóvevõ is helyet kapott.
+
+A bejelentés szerint a MacBook Air azonnal elõrendelhetõ és két hét múlva szállítják. Az 1,6 GHz-es processzorral és 80 gigabájtos merevlemezzel szerelt alapkonfiguráció 1799 dollárba kerül az Egyesült Államokban, az Apple eddigi árképzési gyakorlata alapján Európában 1799 euróért, Magyarországon pedig 440 ezer forint körüli bruttó áron lesz elérhetõ és a cég hazai képviseletének tájékoztatása szerint egy hónap múlva már a magyar üzletekben is kapható lesz. Az 1,8 GHz-es processzorral és 64 gigabájtos SSD-vel szerelt MacBook Air listaára 3098 dollár, ami a fenti számítás alapján Magyarországon 790 ezer forint körüli árat vetít elõre.
+
+Kis fehér dobozok
+
+Steve Jobs elnök-vezérigazgató tegnap bemutatta a Time Capsule fantázianévre hallgató vezeték nélküli külsõ merevlemezt, ami 802.11n Wi-Fi hozzáférési pont is egyben. A termék elsõsorban azoknak jöhet jól, akik az OS X Leopard "Time Machine" szolgáltatását használnák noteszgépükön, amire eddig USB-s vagy FireWire csatlakozós külsõ meghajtóra volt szükségük. A Time Capsule-lal a biztonsági mentések vezeték nélküli kapcsolaton keresztül is elvégezhetõk. Az 500 gigabájt kapacitású Time Capsule ára 299 dollár, az 1 terabájtos kivitel 499 dollárba kerül. Magyarországon néhány héten belül a boltokba kerül a Time Capsule, az ára bruttó 75 ezer forinttól indul.
+
+
+
+Az Apple TV-t is frissítette a cég, mostantól a mûködéséhez nincs szükség PC-re, a készülékrõl közvetlenül elérhetõ az iTunes bolt, ahonnan már filmek kölcsönzésére is lehetõség nyílik -- egyelõre csak az Egyesült Államokban. Az Apple az összes jelentõs stúdióval megállapodott, hogy 30 nappal a DVD megjelenés után a mozikat az iTunes-on keresztül ki lehessen kölcsönözni, és még a legújabb filmek is csak 3,99 dollárba kerülnek. A frissített Apple TV már a HD tartalmakkal is megbirkózik, az iTunesban a HD filmek 4,99 dollárért lesznek elérhetõk. A kölcsönzött filmeket természetesen nem csak az Apple TV-n, hanem Macen, PC-n és iPodon is meg lehet nézni.
+
+Új szoftverek régi készülékekben
+
+A vállalat frissítette az iPhone és az iPod touch szoftverét is. A megjelenése óta 4 millió példányban eladott telefonban olyan "lélegzetelállító" képességek kerültek be, mint a csoportos SMS-küldés, a testreszabható indítóképernyõ, vagy az iPod-módban választható több nyelv. Megújult a térképalkalmazás, és iPod-módban már megjelenhetnek a dalszövegek is. Emellett mostantól lehetõség van a kedvenc weboldalakat ikonként az asztalra helyezni, a minél gyorsabb elérés érdekében.
+
+Az iPhone új szoftvere ingyenesen elérhetõ a vevõk számára, nem úgy, mint az iPod touchhoz kiadott frissítés, amely öt új szoftvert (köztük a sokak által hiányolt e-mail klienst) hoz az érintõképernyõs lejátszóra és 20 dollárba kerül azok számára, akiknek már van iPod touchuk. A most boltokba kerülõ lejátszókon az új szoftverek már alapértelmezésként telepítettek és nem kerülnek egy fillérbe sem.

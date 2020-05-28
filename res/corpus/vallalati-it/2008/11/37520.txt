@@ -1,0 +1,18 @@
+Megjelent az ESET NOD32 és Smart Secuirty 4.0-s verziójának elsõ bétája
+
+A nagyobb nyilvánosság számára is elérhetõvé tette a biztonsági szoftvereket fejlesztõ ESET a NOD32 antivírus és Smart Security alkalmazások új, 4.0-s verziójának elsõ bétaváltozatát. 
+
+
+
+Az ESET bétatesztprogramjában megjelent a NOD32 vírusirtó és a  tûzfallal és spamszûrõvel is ellátott ESET Smart Security 4.0-s verziójának elsõ bétája. Az új verziókba a jelenleg elérhetõ, 3.0-s változathoz képest több kisebb-nagyobb újítás került: ez a változat már direktben támogatja a Windows Live Mail és Mozilla Thunderbird levelezõrendszereket és képes átvizsgálni a titkosított (SSL, HTTPS és POP3S) levélforgalmat is.
+
+Az új verziókban emellett javítottak a Vista User Account Control kompatibilitáson, illetve a végleges változatok a 2 gigabájtnál nagyobb méretû állományok szkennelésére is megfelelõen fel lesznek készítve. A programok részét képezi a SysRescue és SysInspector modul is -- elõbbivel bootolható katasztrófaelhárító-lemezek (vagy USB-s adattárolók) készíthetõk, utóbbi egyebek mellett futó processzeket, a hálózati csatlakozásokat és a regisztrációs adatbázist analizálja, ami elsõsorban akkor jöhet jól, ha fel szeretítenénk deríteni egy fertõzést. 
+
+
+A 4.0-s verziók az eddigiektõl eltérõ módon kezelik a számítógéphez csatlakoztatható külsõ adathordozókat, például pendrive-okat, merevlemezeket: a hozzáférés eszközszinten is blokkolható, de akár az egyes USB-kapuk is letilthatók velük. Ezeknél az adattárolóknál a program alapbeállításaitól függetlenül egyedi heurisztikus keresési beállítások is megadhatók.
+
+Az ESET NOD32 Antivirus és Smart Security 4.0 verziójának elsõ bétaváltozatai elérhetõk a szoftvercég Beta Program weboldaláról, ugyanitt olvasható az újdonságok teljes listája. A program végleges változatait várhatóan a jövõ évi CeBIT alkalmával mutatja majd be a szlovák cég, a magyar változatok megjelenése is ebben az idõszakban várható.
+
+
+
+Az ESET az új PC-s alkalmazásokkal nagyjából egy idõben elérhetõvé tette az okostelefonok és kézi eszközök számára fejlesztett víruskeresõjét, az ESET Mobile Antivirust (EMAV). A kizárólag Windows Mobile operációs rendszerekkel kompatibilis víruskeresõ heuresztikus keresési modullal rendelkezik, képes a tömörített (.cab) fájlokba is belenézni valamint kiszûri az SMS-ben érkezõ spameket is.

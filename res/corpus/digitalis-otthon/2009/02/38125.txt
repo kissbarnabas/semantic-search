@@ -1,0 +1,18 @@
+Android az NVIDIA ultramobil platformján is
+
+Újabb platformot gyûjtött be magának az Android: az NVIDIA is büszkén jelentette be, hogy a beágyazott Windows CE és Mobile mellett immár a Google Linux-alapú operációs rendszere is fut majd a Tegrán. 
+
+
+
+Az NVIDIA a Barcelonában rendezett Mobile World Congressen demózza Androidot futtató Tegra APX 2600 rendszerchipjét. A cég által magas fokon optimalizáltnak tartott port még nem hozzáférhetõ, azt a második negyedévtõl kezdve biztosítja majd a gyártópartnerek számára. Az NVIDIA egyúttal azt is állítja, hogy Tegra 600-as családjára alapozva akár olyan mobil internetterminálok (MID) építhetõek, melyek ára mindössze 99 dollár, miközben szélessávú csatlakozással, HD-lejátszási képességgel és hosszú akkumulátoros üzemidõvel rendelkezik -- más kérdés, hogy a készülékgyártóknak üzletileg érdeke-e egy fejlett, ugyanakkor nagyon olcsó, így kevéssé nyereséges terméket piacra dobni.
+
+
+
+Az NVIDIA magas fokon integrált Tegra családja ARM-processzorra és ultraalacsony fogyasztású GeForce grafikus magra épül, közvetlenül képes csatlakozni DDR-memóriához és NAND Flash háttértárhoz, valamint akár 12 megapixeles kameraszenzort is kezelhet. Az integrált GeForce képes arra, hogy egy külsõ kijelzõre 720p vagy akár 1080p (Tegra 650) képet rakjon ki HDMI-n keresztül. A Tegra 600-as családot elsõsorban MID-ekbe szánja az NVIDIA, ugyanis magasabb processzorórajelet, nagyobb felbontású elsõdleges kijelzõt és ATA-felületû meghajtókat is támogat, míg az APX célja inkább az okostelefonok, navigációs eszközök.
+
+
+Bár a MID-ek egyelõre kevéssé létezõ piacát az Intel vizionálta, az NVIDIA lépéselõnyre tehet szert a területen, a chipgyártó óriás jelenlegi MID-platformja ugyanis egyelõre nem ideális az ilyen célú alkalmazásra, fogyasztása nem eléggé alacsony, ahogyan a platform sem elég kompakt. Az ezeket a hiányosságokat orvosló Moorestown azonban csak év végén, vagy jövõ év elején érkezhet legkorábban, miközben a Tegra-alapú eszközök már 2009 közepén piacra kerülhetnek. A Moorestowntól az Intel azt is reméli, hogy sikerül behatolnia az okostelefonok piacára is, mely a mobilpiac növekedésének motorját adja, és ahol jelenleg az ARM architektúra egyeduralkodó.
+
+
+
+Az ARM-ban utazó szereplõk ugyanakkor nemcsak védekeznek, egyikük ellentámadást is indított az Intel ellen. A Freescale a második negyedévben kezdi meg annak az i.MX515 rendszerchipnek a tömegtermelését, mely a tervek szerint 200 dolláros netbookokba fog kerülni, és képesek lesznek Ubuntu, Xandros vagy Android platformok futtatására. Az i.MX515 nyers számítási teljesítménye egy Atom processzorénak felét éri el, az integrált hardveres video- és vektorgyorsítás, valamint a szoftverek portolásával azonban képes 720p-s videók és grafikailag intenzív Flash tartalmak lejátszására is. A Freescale platformjára építõ netbookok érkezése a harmadaik negyedévben várható.

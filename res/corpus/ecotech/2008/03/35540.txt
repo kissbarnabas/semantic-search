@@ -1,0 +1,16 @@
+Az informatikusok nem veszik be a &quot;zöld maszlagot&quot;
+
+A környezettudatos kezdeményezések egyre több vállalatnál vetik meg a lábukat, azonban az adatközpontok üzemeltetõi egyelõre nem bíznak a gyártók állításaiban -- derül ki egy felmérésbõl, amely több mint 100 informatikai szakember bevonásával készült.
+
+
+
+Az Aperture Research Institute az találta, hogy bár a cégek 70 százalékánál indult már be valamilyen szinten a környezettudatos gondolkodás, ezek körülbelül harmadánál egyáltalán nem érintik a változások az adatközpontot, ötödénél pedig a válaszadó nem tudta megmondani, érintik-e. Mivel az ARI olyan informatikusokat kérdezett, akik az adatközpontok kialakításáért és üzemeltetéséért felelnek, az utóbbi csoportba tartozó válaszadók esetén is bizton kijelenthetõ, hogy a változások nem érintik a datacentert.
+
+A megkérdezett informatikusok számos megoldást javasoltak arra nézve, hogyan lehetne csökkenteni a rájuk bízott adatközpont energiafelhasználását, a legtöbben a hûtés optimalizálását említették, illetve energiatakarékos eszközök csatasorba állítását. A válaszadók 27 százaléka szerint hatékonyan csökkenthetõ az energiafogyasztás a szerverek konszolidációjával és virtualizációjával, de figyelemre méltó módon a megkérdezettek közül mindössze egyvalaki javasolta a nem használt CPU-k leállítását.
+
+
+ Zavarba ejtõ ugyanakkor, hogy csak a válaszadók kisebb része mutatkozott hajlandónak olyan intézkedéseket bevezetni, amelyek a meglevõ eszközök hatékonyabb felhasználását célozzák, a legtöbbek szerint az energiatakarákosság felé vezetõ legjárhatóbb út az, hogy a vállalatuk újabb, modernebb, hatékonyabb berendezésekkel szereli fel az adatközpontot, leváltva a meglevõ, energiapazarló eszközöket.
+
+
+
+Összességében a szakemberek nagyobbik része elutasító a gyártók környezettudatosságot sulykoló marketing-üzeneteivel kapcsolatban. A válaszadók több mint negyede szerint pusztán "hype" az egész, 42 százalék pedig azt állítja, egyszerûen képtelen ellenõrizni a gyártók energiatakarékosságról szóló állításainak valódiságát, illetve összevetni a különféle cégek üzeneteit. Még azok a szervezetek sem bíznak a szállítók ilyen állításaiban, amelyek kimondottan elkötelezettek az energiahatékony mûködés mellett.

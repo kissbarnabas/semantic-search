@@ -1,0 +1,24 @@
+A Hynix elismerte, hogy Rambus-technológiát tartalmaznak az SDR- és DDR-memóriák
+
+A Rambus a héten közölte, megállapodást ért el a Hynixszal az SDR és DDR SDRAM technológia licencelésével kapcsolatban, amivel a koreai gyártó lényegében elismeri a Rambus szabadalmi jogait. A múltban elmulasztott és megtérítendõ jogdíjak és késedelmi kamatok pontos összegében a jogerõs bírósági ítélet mondja ki a végsõ szót, de az vélhetõen több százmillió dollárra rúg majd. A Hynix természetesen vitatja az összeget, és fellebbez. A Rambus eközben a Samsunggal és a Micronnal is hadban áll.
+
+
+
+Jogdíjak
+
+A Hynix beleegyezett, hogy 1 százalékos jogdíjat fizessen az SDR, és 4,25 százalékot a DDR SDRAM memóriatermékbõl befolyó nettó árbevétel után -- utóbbi alá a DDR2, DDR3, GDDR/2/3 is beletartozik. A megállapodás a 2009 január 31-tõl 2010 április 18-áig terjedõ idõszakra vonatkozik, és kizárólag az Egyesült Államokat fedi le. A Rambus ezenkívül összesen 349 millió dolláros kártérítésre és 48 millió dollárnyi elmaradt kamatra tart igényt, amit egy kaliforniai bíróság jóvá is hagyott, mivel megerõsítettnek látja azt, hogy a Hynix megsértette a Rambus számos szabadalmát. A világ második legnagyobb DRAM-gyártója fellebbez a kártérítési összeggel kapcsolatban, mely nagyban veszélyezteti likviditását. 
+
+A Hynixszal történõ megegyezés és a bírósági ítélet azt sejteti, a Rambus a sikerre való eséllyel terjesztheti ki követeléseinek érvényesítését más országokra, és más vállalatokra egyaránt. A Rambus szabadalmi perben áll többek közt a Samsung Electronicsszal és a Micronnal is, ezek a keresetek azonban láthatóan gyengébb lábakon állnak, így a Hynix-ítélet igencsak kapóra jön a cégnek. A további ítéletek kifutása azonban további éveket vehet igénybe az érintett technológiák komplexitásából fakadóan. A Rambus a 2000-ben, tehát kilenc éve fogta perbe a Hynixot, mire eredményt ért el. 
+
+
+A kártérítések és jogdíjak hatalmas bevételi lehetõség a Rambus számára, melynek teljes tavalyi forgalma 143 millió dollárt tett ki. A mélyponton lévõ DRAM-piac nagysága tavaly 25 milliárd dollárt tett ki, míg erõs években 30 milliárd feletti, vagyis a Rambusnak évi százmillió dolláros nagyságrendû jogdíjbevételre van lehetõsége. A legnagyobb volumenû termék, mely Rambus technológiát használ, a Sony PlayStation 3, melyben XDR-memória és Rambus FlexIO összeköttetés dolgozik a magas sávszélességek elérése érdekében.
+
+Õsi ellentétek
+
+A Rambus neve sokak számára egyet jelent egy bukott és drága memóriatechnológiával, valamint egy szabadalmi terroristaszervezettel, mely jogi fenyegetettség alatt tartja a piacot. A cégrõl az ezredfordulón kialakult kép azonban ha nem is teljesen téves, de mindenképpen egyoldalú és csak a történet egy részét festi le. A jelek szerint a Rambus viselkedése a JEDEC-nél bár morálisan talán támadható, jogi értelemben igaza van, és az elmúlt évtizedben hatalmas összegekkel károsították meg a gyártók.
+
+A memória- és interfésztechnológiákat fejlesztõ és licencelõ Rambus és DRAM-ipar harca immár több mint másfél évtizedes történet. Az 1990-ben alakult Rambus 1995-ig részt vett több a memóriatechnológiákat szabványosító JEDEC munkájában, ahol megromlott a viszonya a gyártókkal. Az ügyhöz közel álló iparági vélemények szerint hatalmas csatározások folytak a háttérben, melyben a Rambus igyekezett jogdíjas szabadalmakat beépíteni a szabványokba, miközben a gyártók szorgosan lopták a cég szellemi tulajdonát, és mindenképpen el akarták kerülni a jogdíj fizetését. 
+
+[+] Egy terabájt átvitel másodpercenként: közeleg a Rambus új memóriája  
+
+A Rambus bár 1996-ban megegyezett az Intellel, hogy jövõbeni chipsetjei RDRAM-ot  támogatnak majd legalább 2002-ig, a memóriagyártók azonban összehangolt akcióval mesterségesen magasan tartották annak árát, miközben átmenetileg lenyomták a DDR-memóriáét. Ennek hatására 2000 nyarán, egy évvel az elsõ RDRAM-os gépek megjelenését követõen, a PC-gyártók elkezdték a DDR-es konfigurációk javára billenteni kínálatukat, ezzel pedig megkezdõdött az RDRAM kiszorulása, mígnem 2002-re teljesen eltûnt a PC- és szerverpiacról -- erre az idõszakra esik egyébként az a memóriapiaci árkartell, melyért az amerikai igazságügy mintegy 700 millió dollárnyi büntetést és több évnyi börtönt osztott ki.

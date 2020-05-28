@@ -1,0 +1,16 @@
+Megjelent a Mozilla Prism 1.0 bétája
+
+A Prism projekt még 2007-ben indult a Mozilla égisze alatt. A szoftver célja, hogy a webalkalmazásokat ugyanolyan formában tárja a felhasználók elé, mint a hagyományos értelemben vett, telepíthetõ szoftvereket, lényegében elválasztja a webalkalmazásokat a böngészõtõl, integrálva õket az asztali környezetbe.
+Hasonló funkcióval rendelkezik az Adobe AIR és a Microsoft Silverlight
+is. A Prism azonban nem egy teljesen új platform, hanem egy webes
+platform a böngészõbe integrálva, amely a Firefoxon alapul. A
+fejlesztõknek semmiféle módosítást nem kell végrehajtaniuk az
+alkalmazásukon annak érdekében, hogy az használható legyen Prism alatt,
+bármilyen webalkalmazás mûködik benne, ami mûködik egy modern, a
+legújabb webes szabványokat támogató böngészõben. A Prism Windowson,
+Linuxon és Mac OS X-en mûködik.
+
+
+
+A Prismben mûködõ alkalmazások rendelkezhetnek saját ikonnal, megjelennek a szoftverek indítására szolgáló menüben, Windowson bekerülhetnek a System Traybe, Mac OS-en a Dockba, rendszerindításkor felvehetõk az automatikusan induló szoftverek közé, ugyanakkor megtartják a webalkalmazások elõnyeit, nem kell õket telepíteni vagy frissíteni és persze bárhonnan elérhetõk ahol van netkapcsolat. A Mozilla reményei szerint a jövõben még több korlát dõl le majd a webalkalmazások elõl, lehetõség lesz például hozzáférni a helyi gépen tárolt adatokhoz vagy akár hardveres 3D-gyorsítást alkalmazni.
+Nem kell nagy jóstehetség ahhoz hogy kimondjuk, a Prism a jövõben alighanem része lesz a Firefoxnak is. Az integráció lehetõvé tenné a felhasználók számára, hogy egyetlen kattintással hozzanak létre egy webalkalmazásból asztali alkalmazást -- jelenleg egy utólag telepíthetõ kiegésztõ nyújtja ezt a funkcionalitást.A folyamat egyébként sem bonyolult, mindössze az URL-t és az alkalmazás nevét kell megadni.

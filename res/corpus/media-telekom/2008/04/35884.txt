@@ -1,0 +1,42 @@
+Jön az SMS-ben vásárolható BKV-jegy és az igazi mobilfizetés
+
+A budapesti Európa Congress Centerben április 22-én rendezték meg a harmadik Mobil Konferenciát, melynek témáit ezúttal a mobilos fizetés jelene és jövõje adták. Az eseményen a téma szakértõi, hazai cégek mellett a mobilszolgáltatók is képviseltették magukat, ahol bejelentették az SMS-alapú BKV-jegy vásárlását biztosító projekt elindítását is. 
+
+
+
+NFC vagy SMS?
+
+Az elõadásokon mobil-, pénzügyi- és informatikai szakemberek világítottak rá a mobilos fizetésben rejlõ lehetõségekre és veszélyekre, illetve megvitatták az egyes megoldások elõnyeit és hátrányait. Az EME Zrt. vezérigazgatója, Szalai Erika nyitotta a rendezvényt, bemutatta a cég budapesti parkolási rendszerének mûködését, mely alapvetõen az aprópénz kényelmi kiváltására hivatott. Az úgynevezett "remote", azaz behívásos, SMS-es megoldás elõnye, hogy nincs szükség komoly beruházásra és egyetlen mobiltelefon is elegendõ a felhasználó oldaláról hozzá.
+
+A cég 2008-as terveivel kapcsolatosan elárulta, hogy május 5-tõl regisztrációs kártyával egyszerûsítik a folyamatot, automatizálnák a számla feltöltését bizonyos limit elérése esetén, és egy GPS-es, flottanavigációs céggel közösen automatizálnák a parkolási számlálók indítását és leállítását is. Az EME Zrt. emellett piacbõvítést is tervez, hamarosan Debrecen három  mélygarázsában is lehet majd fizetni ezzel a megoldással, de terveikben szerepelnek más szolgáltatások és termékek bevezetése is, például jövõre fürdõjegyeket is értékesítenek majd ilyen módon.
+
+Szalai Erika szerint az NFC, azaz fizikai kontaktust nem igénylõ (érintés nélküli), rádiófrekvencián kommunikáló intelligens lapkák bevezetése legalább 5 évig eltart majd, hiszen ehhez a mobilok felkészítése mellett a másik oldal, az elfogadóhelyek, a POS-terminálok cseréjére lesz szükség, ami komoly beruházási igényt is támaszt. A következõ elõadó, Josef Langer, az Ausztriai Egyetem hagenbergi laboratóriumának professzora gyakorlati példákkal is bemutatta egy ilyen NFC-s rendszer mûködését, a tavaly indult pilot projektekben, illetve a Mobilkom A1 kereskedelmi projektjében NFC-s Nokia 6131 telefonokat használnak. Ausztriában jelenleg 800 Metróban, 120 pályaudvaron és 400 ital- és ételautomatánál lehet fizetni NFC-s mobillal.
+
+
+
+Egyelõre inkább SMS
+
+A mobilvásárlás során tavaly óta, az autópályamatricás rendszer bevezetése óta szorosan együttmûködõ három mobilszolgáltató egy bejelentéssel is készült a konferenciára. Rövid idõn belül pilot projektként -- azaz a kereskedelmi bevezetést a tapasztalatok birtokában döntik majd el -- SMS-ben is vásárolhatunk majd idõalapú BKV-jegyet. A 499 forintba plusz két SMS árába kerülõ jegy hétfõtõl péntekig 60 percig, éjszaka és hétvégén pedig 90 percig lesz érvényes az átszállások számától függetlenül. A jegyvásárlást a 17650-es számra küldött SMS-sel indíthatjuk, melyet egy újabb üzenettel meg kell erõsíteni. A válasz SMS-ben megkapjuk majd a jegy érvényességének idejét is.
+
+A jegy ellenõrzésekor a *176# USSD-kódot kell majd beütni a telefonba, melyre -- amennyiben rendelkezünk érvényes jeggyel -- megérkezik egy speciális kóddal rendelkezõ válasz, hasonlóan ahhoz, ahogyan egy feltöltéses telefonnál megkapjuk az aktuális egyenlegünket. Ezt az üzenetet kell megmutatnunk az ellenõrnek, ez semmivel sem tart tovább, mint egy jegy, vagy bérlet elõvétele. Az USSD üzenet nem reprodukálható, nem másolható le, a speciális kód pedig folyamatosan változik, ahhoz hasonlóan, amit az automaták rányomtatnak a papíralapú jegyre, így a hamisítás ellen ez tökéletes védelmet nyújt.
+
+Jön az igazi mobilfizetés
+
+Jeszenszky Zsolt, a T-Mobile szakértõje a jövõvel kapcsolatban elárulta, hogy a Pannonnal közösen tárgyalások folynak bankokkal a valódi mobilfizetés megvalósításáról. A mobilvásárlás és a mobilfizetés között könnyen különbséget tehetünk: míg a vásárlásnál elõre feltöltött egyenleg, vagy hóvégi számlánk terhére közvetített szolgáltatást veszünk igénybe -- azaz a szolgáltató elõbb megveszi, majd eladja számunkra a szolgáltatást, ennek minden elõnyével és hátrányával együtt --, a mobilfizetésnél egy bankszámláról, azonnal, 7 x 24 órában teljesíthetünk a mobilunkon keresztül fizetést, közvetlenül az eladónak.
+
+A kialakításra kerülõ rendszerben a SIM-kártyánk veszi majd át a bankkártyánk, vagy az NFC-s mobiltelefon szerepét, a tranzakció menete is hasonló lesz majd, mint egy bankkártyás fizetésnél. A mobilfizetés során csak egy azonosítót kell majd megadnunk a kasszásnak, ezzel indul a tranzakció, majd a vásárlást a telefonunkon egy PIN-kóddal erõsítjük majd meg.
+
+Kaibinger Tamás, a Baker and McKenzie ügyvédje a jogi hátteret feszegette elõadásában, rámutatva arra, hogy a pontos szabályozások hiánya még sok tisztázásra szoruló kérdést vet fel mind hazai, mind európai szinten egyaránt. Amint elmondta, maga a szabályozás is mozgásban van, a következõ másfél évben alakulnak ki azok a keretek, melyek a mobilvásárlás és -fizetés jelenlegi anomáliáit hivatottak rendezni. A mobilszolgáltatók nem véletlenül közvetített szolgáltatást biztosítanak jelenleg elõfizetõiknek, a jelenlegi szabályozás szerint amennyiben közvetlenül vennének részt az értékesítésben, bankká kellene válniuk, annak minden hátrányával együtt.
+
+
+Az alakuló kereteket ráadásul szemmel is kell tartani, hiszen egyeseknek nem érdeke, hogy a mobilfizetés jobban terjedjen: érdekes példa volt, hogy egy tervezet szerint a mikro- és makrofizetés tõlünk nyugatabbra 600 euróban megvont határát -- elõbbire enyhébb, utóbbira erõteljesebb szabályozás vonatkozna -- itthon nulla euróban akarták meghatározni, ellehetetlenítve ezzel számos már jelenleg mûködõ szolgáltatást, például a már jól mûködõ mobilos parkolást, vagy pályamatrica vásárlást.
+
+
+
+Rollpay, a Bluetooth-os kezdeményezés 
+
+Inotay Balázs a Cellum Zrt-tõl a mobilfizetés technikai hátterérõl tartott elõadást, míg Vilmos András, a SEMOPS és StoLPaN -- melynek neve a Store Logistics and Payment with NFC rövidítése --projektek menedzsere az egységes NFC környezet megteremtésének jelentõségét és lehetõségeit ismertette a rendezvényen. A StoLPaN projektrõl tavaly decemberi anyagunkban írtunk részletesebben. Mónus Ádám, a POD CEE Kft. igazgatója a valósidejû elszámolást biztosító Abaqoos rendszert mutatta be elõadásában. Az Abaqoos elõnye, hogy a kis, akár néhány forintos értékû tranzakciókat teszi elszámolhatóvá, rentábilisan kezelhetõvé a bankok számára. Az Abaqoos az OTP Direkt rendszerében debütált nermég és bármely cég, vagy akár egy kis weboldal is elfogadóhely lehet.
+
+A rendezvény utolsó szekciójában Vajda József, a Rollcomm igazgatója mutatta be a RollPay-t, mely egy ma már szinte minden telefonban megtalálható hardveren keresztül tenné elérhetõvé a mobilfizetést, a beépített Bluetooth-t és a telefonok javafuttatási képességét használná fel erre a célra. A rendszer elõnye, hogy kompatibilis a jelenlegi telefonokkal is, csak szoftvertelepítésre van szükség, mely az elfogadóhelyi terminálon keresztül is eljuthat a telefonra. A fizetõ modul akár tenyérgépeken, windowsos telefonokon is futhat és teljesen biztonságos. Ez a fizetési módszer kis beruházási költséggel megvalósítható, egy-egy terminál több telefonhoz is csatlakozhat egyszerre, így akár közel 40 kasszát is kiszolgálhat mindössze két terminál.
+
+A RollPay szoftverét Budapesten, míg a hardvert Észak-Európában, Helsinkiben fejlesztik. A rendszer gyorsan illeszthetõ a jelenlegi kasszarendszerekhez és a kártyás megoldásokhoz képes töredéknyi tranzakciós díj mikrofizetésre is alkalmassá teszi.

@@ -1,0 +1,14 @@
+Május 5-én érkezhet a Windows 7 utolsó tesztverziója
+
+Néhány héten belül elindulhat a Windows 7 végsõ tesztelési fázisa, legalábbis ez valószínûsíthetõ újabb, a Microsofttól kiszivárgott információk alapján. A Windows 7 kiadásra jelölt változata ezek szerint május 5-tõl tölthetõ le, a cég egyes partnerei azonban akár ennél korábban is hozzájuthatnak a szoftverhez. A megjelenési dátummal kapcsolatos konkrét információkat azóta eltávolították a cég Partner Program oldaláról.
+
+
+
+Az oldalon szombat délután még az szerepelt, hogy a Windows 7 utolsó tesztverzióját már letölthetik az MSDN- és TechNet-elõfizetõk, akinek pedig nincs elõfizetése, az május 5-tõl érheti el a véglegessel gyakorlatilag mindenben egyezõ kiadásra jelölt változatot. A TechNet-elõfizetõknek fenntartott oldalon ugyanakkor már szombaton sem szerepelt a letölthetõ állományok közt a Windows 7 RC, mostanra pedig már a Partner Program oldal is csak a január óta elérhetõ bétaváltozatra hivatkozik.
+
+A Microsoftnak régi szokása, hogy az újabb szoftverekbe vagy javítócsomagokba -- legyen az akár tesztre kiadott verzió -- elõször közeli partnerei, ügyfelei számára ad betekintést. Ilyenkor nem ritka, hogy a kiváltságosak néhány nappal, akár héttel a megjelenés elõtt hozzájutnak a szoftverhez. Hasonló forgatókönyv zajlott le a Windows 7 bétájának megjelenésekor, január elején, amikor az MSDN és TechNet-elõfizetõk két nappal a publikus megjelenés elõtt hozzájuthattak a tesztkiadáshoz. Emlékezetes, hogy a Windows 7 bétája iránt akkora volt az érdeklõdés, hogy a január 9-i megjelenés napján a lekérések szinte azonnal két vállra fektették a Microsoft szervereit.
+
+
+Nem ez az elsõ eset egyébként, amikor információk szivárognak ki a Microsofttól a Windows 7 RC megjelenésének idõpontjával kapcsolatban. Március végén például szintén az egyik TechNet-oldalon tûnt fel az a kevésbé konkrét információ, mely szerint a Windows 7 utolsó tesztváltozata májusban jelenik meg. Az oldalon többek között az is szerepelt, hogy a Windows 7 kiadásra jelölt változatát 2010 júniusig lehet majd használni (a januári bétaváltozat próbaideje idén augusztus 1-jén jár le), illetve öt nyelven (angolul, németül, franciául, japánul és spanyolul) lesz elérhetõ 32 és 64 bites változatban egyaránt. A vonatkozó információkat -- akárcsak a most hétvégén kikerült oldalt -- szinte azonnal eltávolították a Microsoftnál.
+
+A Windows Vista ráncfelvarrt, továbbfejlesztett változatának tekinthetõ Windows 7 fejlesztése a korábbi terveknél jobban halad. A Microsoft ugyan továbbra sem közölte hivatalosan, mikor kerül piacra a Windows 7, de a HWSW értesülései szerint már idén õsszel bemutatkozhat, így 3 év helyett 2,5 évvel a Vista után piacon lehet az új operációs rendszer.

@@ -1,0 +1,26 @@
+Négy processzor a Sun új szerverében
+
+Új szerverrel bõvítette kínálatát a Sun Microsystems, a Sparc Enterprise T5440-ben négy darab UltraSPARC T2 Plus processzor teljesít szolgálatot. A nyolcmagos processzorokra épülõ gépeket a vállalat adatbázisok, ERP-rendszerek alá szánja, de akár konszolidációs platformként is bevethetõ.
+
+
+
+Mi van belül?
+
+A komplexitás és hõtermelés kordában tartása végett az UltraSPARC T-chipek egyszerû felépítésû, "keskeny" magokat tartalmaznak. Egy-egy mag önmagában gyengébb, mint bármely más mai modern processzoré, ugyanakkor ez esetben sok lúd disznót gyõz: masszívan párhuzamos, nagy terhelésû tranzakció-kiszolgálás jellegû üzleti, hálózati feladatok során a sokmagos, többszálú felépítés rendkívül hatásosnak bizonyul. Az UltraSPARC T2 Plus 4 megabájt osztott másodszintû gyorsítótára mellett az integrált négycsatornás memóriavezérlõ által biztosított 25 gigabájt másodpercenkéti áteresztõképesség is megteszi jótékony hatását.
+
+Az UltraSPARC T2 Plus az UltraSPARC T2 multiprocesszoros mûködésre felkészített változata, egyebekben nem különbözik a tavaly piacra dobott UltraSPARC T2-tõl (kódnevén Niagara 2). A chip nyolc magot tartalmaz, amelyek egyenként nyolc programszál futtatására képesek, a négyfoglalatos SPARC Enterprise T5440 szerver így 256 programszálat kezel párhuzamosan. Mivel az UltraSPARC T2-ben minden mag saját lebegõpontos egységgel rendelkezik, a gép adatbáziskezelésre vagy ERP-rendszerek futtatására is alkalmas. 
+
+
+
+Nagy teljesítmény takarékosan
+
+A Sun által korábban nyilvánosságra hozott mérési adatok szerint a Victoria Falls kódnevû UltraSPARC T2 Plus processzor teljesítménye lélegzetelállító, az gépek a legfontosabb iparági tesztekben (OLTP, Java, ERP) rendre felülkerekednek a legnagyobb teljesítményû x86-os gépeken, ami a masszív párhuzamos feladatvégrehajtási képességnek és az óriási mennyiségû támogatott memóriának (a T5440 esetében 512 gigabájt) és beépíthetõ diszk-kapacitásnak köszönhetõ. A nagy teljesítmény és kapacitás ideálissá teszi a gépeket akár konszolidációs projektekre is, a Solaris Containers és Logical Domains technológiákkal a Solaris 10 akár 256 példányban is futtatható párhuzamosan a szerveren.
+
+A gyártó a nagy teljesítmény mellett hangsúlyt fektetett a T5440 energiatakarékos jellemzõinek ismertetésére is. A 4U kivitelû gépben számos olyan trükköt vetett be a Sun, amely a hatékonyságot hivatott fokozni, a használaton kívüli processzormagok automatikus lekapcsolásától kezdve a hõmérsékletfüggõ ventilátor-fordulatig. A Sparc Enterprise T5400-et egyébként egy korábbi együttmûködés keretén belül a Fujitsu tervezte és saját termékei között is árulja. A szerver listaára 45 ezer dollártól indul, amivel az eddigi legdrágább tagja ennek a terméksorozatnak -- persze a legerõsebb is.
+
+Évi 60 százalékos növekedés
+
+
+ Amint arra olvasóink bizonyára emlékeznek is, az UltraSPARC T-családra épülõ szervercsalád  kezdetben egyfoglalatos, kimondottan a hálózat peremére (webszerver, levelezõszerver, stb.) szánt gépekbõl állt. Ennek legfõbb oka az volt, hogy az UltraSPARC T1 processzor nyolc magja összesen 1 lebegõpontos egységen osztozott, ami már adatbázis-jellegû terheléseknél is korlátozta a teljesítményt. Az UltraSPARC T2-ben már minden magba került lebegõpontos egység, a Sun szerint ezzel a chip akár HPC-feladatok elvégzésére is alkalmas lehet.
+
+Az IDC és a Gartner piaci adatai szerint a Sun szerverforgalma folyamatosan csökken. Bár az UltraSPARC T-családra épülõ gépek ma már évi 1 milliárd dolláros bevételt hoznak, és a növekedési ütemük meghaladja a 60 százalékot is, egyelõre nem képesek ellensúlyozni a "hagyományos" SPARC-eladások meredek csökkenését. A második negyedévben a gyártói rangsor negyedik helyén álló vállalat szerverértékesítésbõl származó forgalma 7,2 százalékkal csökkent.

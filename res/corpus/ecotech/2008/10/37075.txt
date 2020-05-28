@@ -1,0 +1,16 @@
+Microsoft: az illegális szoftvereket használó vállalatoknál gyakoribb a rendszerleállás, összeomlás
+
+Azok a középvállalatok, amelyek nem eredeti szoftvert is használnak, többször szembesülnek rendszerösszeomlással, adatvesztéssel -- állítja a Harris Interactive felmérése, amelynek elkészültét a Microsoft szponzorálta.
+
+
+
+A kutatás során közel 1600 közepes vállalatot vizsgáltak az Egyesült Államokban, Nagy-Britanniában, Kínában és Brazíliában. Az eredmények szerint a 25-500 PC-vel rendelkezõ, eredeti Windowst használó cégeknél kisebb a rendszerleállást és adatvesztést okozó hibák valószínûsége, ráadásul ezek a cégek jobban is növekednek azoknál, amelyek nem eredeti szoftvert futtatnak. Az ilyen cégek dolgozói többet is aggódnak még a munkájuk miatt, és kevéssé büszkék a kenyéradó cégükre -- áll a tanulmányban.
+
+
+ A kutatás eredményei szerint a licencelt szoftvert használó cégek 77 százalékánál volt az elmúlt egy évben "kisebb rendszerhiba", a nem eredeti szoftvert futtató vállalatoknál ez az arány 84 százalék. Ugyanígy, a komoly összeomlások, kritikus rendszerhibák, érzékeny üzleti adatok és személyes adatok elvesztése is nagyobb arányban érintette azokat a cégeket, amelyek nem jogtiszta szoftvert használnak.
+
+Incidensek elõfordulása a vállalatoknálForrás: Harris Interactive
+
+Ok-okozati összefüggésekre a Harris Interactive tanulmánya ugyanakkor már nem tér ki. Bár a Microsoft azt állítja, hogy a nem eredeti szoftverek sok szempontból kockázatosak, a telepítõlemezekre például kártevõk kerülhetnek, amelyek veszélyeztethetik a rendszerek stabilitását. A nem licencelt szoftverek és a gyakoribb összeomlás és adatvesztés között lehet ez is összefüggés, azonban sokkal valószínûbbnek tûnik, hogy a kalózszoftverek használata szervezeti fejletlenségre vezethetõ vissza -- ez pedig a biztonsági incidensek kezelésén ugyanúgy tettenérhetõ.
+
+Az már sokkal érdekesebb, hogy a felmérés alapján a kalózszoftverek használatával nem csökkennek az IT-költségek, a magyarázat szerint azért, mert a gyakoribb rendszerhibákkal, leállásokkal, adatvesztésekkel kapcsolatos kiadások elviszik az így "megtakarított" pénzt. A Harris Ineractive adatai szerint egy évente 50 millió dolláros forgalmat bonyolító cég átlagosan 400 ezer dolláros informatikai büdzsével rendelkezik, teljesen függetlenül attól, hogy eredeti, jogtiszta szoftvereket használ-e vagy sem. A szoftverekre költött összeg a cégek forgalmának 1,3 százaléka körül alakul.

@@ -1,0 +1,14 @@
+Nyílt forrású mobilalkalmazás-fejlesztõ eszköz a Suntól
+
+A Sun kiadta a Light-weight UI Toolkitet (LWUIT), amely segítségével mobiltelefonos Java-alkalmazások felhasználói felületét lehet megtervezni és könnyedén elkészítei. A
+
+
+
+"Az LWUIT kiadásával a Sun megerõsíti elkötelezettségét a mobilos fejlesztõi közösség mellett" -- mondta Craig Gering, a Sun beágyazott Java-rendszerekért felelõs vezetõje, aki kiemelte, hogy az LWUIT nagy segítségére lehet a fejlesztõknek, mert az ezzel elkészített felhasználói felületek minden Java-képes eszközön futnak. Terrence Barr, a Sun Java Mobile & Embedded "nagykövete" szerint máris számos mobilszoftver-fejlesztõ cégnél használják az LWUIT-t.
+
+
+A májusi JavaOne konferencián bejelentett LWUIT eddig csak elõzetes változatban, binárisként volt elérhetõ a fejlesztõk számára, mostantól azonban bárki elérheti a végleges verziót, ugyanis a szoftver forráskódját is nyilvánosságra hozta GPLv2+Classpath Exception licenc alatt.
+
+
+
+Ettõl a lépéstõl a fejlesztõeszköz gyors terjedése mellett azt is várja a Sun Microsystems, hogy a késõbbiekben a felhasználói visszajelzések alapján fejlõdhessen tovább. A Classpath Exception lehetõvé teszi, hogy az LWUIT-vel létrehozott felületeket zárt forrású, kereskedelmi termékekben is felhasználhassák a fejlesztõk.

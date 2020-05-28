@@ -1,0 +1,12 @@
+A nyílt forráskódú videostream-technológiákban látja a jövõt a Mozilla
+
+Nyílt forráskódú videostream-technológiát támogat a Mozilla Alapítvány, ezzel próbálva teret engedni az interneten közzétett videotartalmak további terjedésének. A Firefox webböngészõt is jegyzõ alapítvány a Theora névre keresztelt platformra vetett szemet, mely a fejlesztõk szerint egyelõre még korántsem tökéletes, de komoly lehetõségek rejlenek benne.
+
+
+
+A Wikimedia Alapítvány bevonásával százezer dollárral támogatja a Mozilla a nyílt forráskódú Theora internetes videostream-technológia fejlesztését, az alapítvány támogatásával megerõsített platform így olyan, technológiák riválisává válhat a jövõben, mint az Adobe Flash, vagy az Apple Quicktime. Ezek használatáért ugyanakkor többnyire licencdíjat kell fizetni, ez pedig egyes vélemények szerint hátráltathatja az online videomegosztás, videoközvetítés terjedését.
+
+
+Az Ogg konténerbe tartozó Theora a Mozilla elképzelései szerint a legjobb lehetséges alternatívát jelentheti a fenti platformokra. "Úgy gondoljuk, hogy a Theora sokat tud fejlõdni a videók minõségét, az implementációt és a teljesítményt illetõen, a Mozilla büszke, hogy a platform fejlesztését támogathatja" -- írja hétfõi blogbejegyzésében Mike Shaver, a Mozilla fejlesztésért felelõs alelnöke. "A százezer dolláros támogatást elsõsorban a Theora kóderek fejlesztésére, ezzel együtt a platformhoz tartozó videokönyvtár bõvítésére szánjuk" -- tette hozzá Shaver.
+
+A Theora térnyeréséhez az anyagi támogatáson felül nagyban hozzájárulhat az is, hogy a kodek szervesen integrált része lesz a Mozilla soron következõ webböngészõjének, a Firefox 3.1-nek a szintén nyílt forráskódú Ogg Vorbis hangkodekkel egyetemben. "A Theora egyelõre közel sem tökéletes, ugyanakkor a webes videózás által ma támasztott követelményeknek bõven megfelel, idõvel pedig egyre jobbak lesznek" -- mondta el Christopher Blizzard, a nyílt forráskódú programok egyik legnagyobb és legismertebb zászlóvivõje.

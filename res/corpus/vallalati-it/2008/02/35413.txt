@@ -1,0 +1,14 @@
+Megduplázza SSD-meghajtóinak kapacitását a Samsung
+
+A Samsung bejelentette, hogy év végére kereskedelmi forgalomba küldi 250 gigabájt kapacitású SSD-meghajtóját, amely a kis késéssel, a második helyett csak a hamadik negyedévtõl elérhetõ 128 gigabájtos változat mellé érkezik majd.
+
+
+
+Michael Yang, a Samsung flashmemória üzletágának marketing-igazgatója elmondta, hogy az év végén már elérhetõvé válik a koreai gyártó 250 gigabájtos megoldása. Az új tároló MLC (Multi Level Cell) felépítésben kínálja majd a negyed terabájtnyi adat tárolására elegendõ helyet. Az MLC meghajtók lassabbak, mint az SLC (Single Level Cell) változatok, cserébe az MLC a lassabb mûködést arányosan alacsonyabb vételárral hálálja meg, mert egyetlen cellában több bit tárolása valósítható meg.
+
+
+A Samsung még nem hozta nyilvánosságra, hogy az új modell esetében a megszokott, a MacBook Air által is használt párhuzamos ATA csatolófelületrõl átáll-e a SATA interfészre, amely teoretikusan magasabb adatátviteli sebességet tesz lehetõvé.
+
+Év végén érkezhet a Samsung 250 gigabájtos SSD-je
+
+A vállalat az SSD meghajtók fixen rögzített fizikai méreteit is átdolgozza a noteszgépgyártók bevonásával, teszi ezt a 2,5 hüvelykes és az 1,8 hüvelykes változatok esetén egyaránt, hogy azok vékonyabb eszközökbe is gond nélkül beépítésre kerülhessenek. A MacBook Air jelenleg 64 gigabájtos SSD meghajtóval is rendelhetõ, ugyanúgy, mint a közelmúltban bejelentett Lenovo ThinkPad X300 modell is.

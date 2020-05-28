@@ -1,0 +1,10 @@
+Frissült a Firefox 3.0 és itt a Firefox 3.5 új bétája
+
+A Firefox új, 3.0.10-es verziószámot viselõ változatát hat nappal az elõzõ, 3.0.9-es verzió megjelenése után volt kénytelen kiadni a Mozilla, miután több felhasználó is jelezte, hogy az összesen 12 sérülékenységet javító új kiadás lefagy a számítógépén. A Mozilla fejlesztõi szerint a lefagyásokat egy az új verzióba került javítás hibás implementálása okozza: "Amikor megvizsgáltuk a lefagyás okát, arra jutottunk, hogy egy olyan típusú memóriatúlcsordulás okolható érte, melyhez hasonlóval a biztonsági sérülékenységek esetén találkozhatunk" -- áll a Mozilla weboldalán tegnap közzétett biztonsági figyelmeztetésben.
+
+A Firefox kijavított, 3.0.10-es verziója a szokás szerint automatikus frissítésként települhet a korábbi változatokat futtató számítógépekre, illetve önállóan is letölthetõ a Mozilla weboldaláról. Nem ez az elsõ eset egyébként, amikor a Mozilla fejlesztõi egy szoftverhibát úgy javítanak ki, hogy ezzel újabb hibát visznek a kódba. A Firefoxot 2007 végén hasonló okokból kétszer is gyors egymásutánban voltak kénytelenek frissíteni a Mozillánál.
+
+
+A Mozilla a Firefox 3.0.10 megjelenésével szinte egy idõben kiadta a Firefox soron következõ, 3.5-ös fõ verziójának újabb bétáját. A Firefox 3.5 beta 4 várhatóan az utolsó bétaváltozata lesz a korábban 3.1-es verziószám alatt futó, Shiretoko munkacímen futó böngészõnek. A szoftver fejlesztése ezzel várhatóan lassan a finishez ér, ezt követõen már csak a gyakorlatilag késznek tekintett kódot tartalmazó kiadásra jelölt változatokat adják csak ki a Mozillánál.
+
+A Firefox 3.5 fejlesztése elsõsorban az új, korábbinál gyorsabb JavaScript-motorral kapcsolatos fejlesztések elhúzódásának köszönhetõen tart jóval tovább a vártnál. A Mozilla október közepén adta ki a böngészõ elsõ bétáját, december közepén pedig a másodikat. A harmadik bétaváltozat megjelenését eredetileg január közepére datálták, mégis két hónap csúszással jelenhetett csak meg. Az új Firefox végleges változata az eredeti tervek szerint az elsõ negyedévben jelent volna meg.

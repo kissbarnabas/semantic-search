@@ -1,0 +1,14 @@
+Helyetted is háromig számol a Gmail
+
+Elõfordulhat mindenkivel, hogy olyan e-mailt küld el, amit késõbb megbán. Fõleg késõ este vagy egy borgõzös hajnalon, esetleg egy esõs vasárnap születnek olyan levelek, melyet hosszasan fogalmazgattunk, de már a "küldés" gomb megnyomásakor kitörölnénk legszívesebben. A Google Gmail kísérleti funkciói között erre a problémára találunk egy vicces, de mûködõképes megoldást.
+
+
+
+A Gmail Labs funkciókat engedélyezõ felhasználóknak megjelenik egy zöld üvegcse formájú ikon a menüsorban, ahol a kísérletezõ kedvûek válogathatnak a hivatalosan még nem beépített, de a fejlesztõk szerint ígéretes funkciók közül. A leghétköznapibb dolgoktól, mint a chatpartnerek kezelése vagy a levelek rendezése, címkézése, illetve a fejlettebb aláíráskezelés meghökkentõ funkciók is kerültek be a vicces kedvû fejlesztõknek köszönhetõen. Az egyik ilyen a "Gmail Break" nevû, amely véletlenszerû idõközönként letiltja a Gmail-elérésünket, amíg lesz idõnk kimenni friss levegõt szívni, pihenni kicsit és nem a munkára figyelni.
+
+Néha problémás lehet 
+
+
+A hivatalos Google Blogon tegnapelõtt mutattak be egy  nem épp hétköznapi kiegészítõt, a Mail Goggles-t. A "nem hétköznapi" jelzõt akár szó szerint is lehet érteni, hiszen ez a funkció késõ esténként, illetve hétvégénként nem engedi, hogy egyszerûen küldjenek a felhasználók levelet --  különbözõ feladatokat, például matematikai példákat kell megoldani ahhoz, hogy levelet küldhessünk. 
+
+A beállítások között mindenki megadhatja, hogy mikor vannak a kritikus idõszakok, ekkor a levelezõ ellenõrzi, hogy beszámítható-e a fiók tulaja, elkerülve ezzel a teljes céges hálózatra kiküldött depressziós leveleket vagy hirtelen kigondolt szerelmeslevelek továbbítását. A Labs funkciók közül ez,  illetve több másik is viccesnek tûnik, viszont érdemes átnézni a jelenleg 24 darabos katalógust, melyek közül folyamatosan kerülnek majd ki a teljes értékû újítások is.

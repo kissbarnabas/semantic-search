@@ -1,0 +1,22 @@
+Windows-mentesítõ virtualizált asztali környezet az IBM-tõl
+
+A Virtual Bridges és a Canonical segítségével olyan virtualizált asztali munkakörnyezetet jelentett be az IBM, amely lényegesen olcsóbb mint egy Microsoft Windowsból és Office-ból álló megoldás. A megoldást elsõsorban nagy szervezeteknek ajánlja az IBM, a közlemény a pénzügyi szolgáltatókat és kormányzati szerveket emeli ki példaként.
+
+
+
+Elõnyök itt és ott
+
+Az IBM megoldásának központjában a cég Lotus Notes levelezõje, a Sametime azonnali üzenetküldõ, valamint az OpenOffice-alapú, OpenDocument Format állományokat is támogató Symphony irodai csomag áll, ezek egészülnek ki az Ubuntu Linuxszal, illetve a Virtual Bridges VERDE (Virtual Enterprise Remote Desktop Environment) szoftverével. Utóbbi lehetõvé teszi, hogy a felhasználók bárhol, bármikor elérhessék az általuk használt szoftvereket és adatokat, azáltal, hogy az asztali környezeteket szerveren konszolidálja -- egy kiszolgálón így több desktop környezet is futhat, amelyhez a felhasználók gyakorlatilag bármilyen kliensrõl csatlakozhatnak, akár windowsos, linuxos PC-rõl vagy mobil eszközrõl. 
+ 
+
+ Felhasználói oldalról egy ilyen környezet elõnye, hogy az Ubuntu-alapú asztali környezet nincs egyetlen géphez kötve, a dolgozók bárhonnan ugyanazt a környezetet, képernyõt láthatják, ugyanazokat az alkalmazásokat használhatják és ugyanazokkal az adatokkal dolgozhatnak, bárhol is vannak. Nem kell bajlódniuk szoftverek telepítésével és frissítésével sem.
+
+Üzemeltetési oldalról a fizikai és virtualizált desktop között jelentõs a különbség, utóbbi esetben ugyanis minden szoftver egy szerveren található, centralizáltan elérhetõ, menedzselhetõ, frissíthetõ, menthetõ. A rendszer szempontjából a kliensgép konfigurációja gyakorlatilag teljesen lényegtelen, lehet egy Windowst, Linuxot vagy Mac OS X-et futtató PC, de akár egy mobil eszköz is. Az IBM, a Canonical és a Virtual Bridges által kidolgozott megoldás támogatja a távoli nyomtatást is, mégpedig külön driverek telepítése és karbantartása nélkül -- áll az IBM által kiadott közleményben.
+
+A válság kapóra jön
+
+"Az emberhiánnyal küzdõ IT-részlegek nem engedhetik meg maguknak hogy a munkatársak folyamatosan a felhasználók gépeinél töltsék az idejüket és help-desk hívásokat fogadjanak" -- mondta Jim Curtin, a Virtual Bridges vezetõje. "Egy virtualizált desktop környezet esetén már egy elvesztett laptop sem jelent krízist a vállalat számára [mivel azon semmilyen vállalati adat nincs]. Az IT-munkatársak az üzlet által megkövetelt szolgáltatások bevezetésére koncentrálhatnak."
+
+A Nagy Kék azt állítja, a megoldás segítségével megtakarítható felhasználónként 500-800 dollár licencköltség, nincs szükség a PC-k lecserélésére és csökken az energiafogyasztás. További megtakarítást jelent, hogy a virtualizált desktopok a szerveren helyezkednek el, egyszerûbb a felügyeletük, szoftverhiba esetén nem kell kimenni a felhasználóhoz hibát keresni és elhárítani, csökken a help-desk hívások száma, azaz összességében a vékony kliensek elõnyeivel lehet számolni.
+
+A csomag kiépítéstõl és szolgáltatási szinttõl függõen felhasználónként 49 és 289 dollár közötti áron vásárolható meg az IBM-tõl. Inna Kuznetsova, az IBM Linux-stratégiai igazgatója szerint pár év múlva úgy fogunk visszatekinteni a gazdasági válságra, mint a virtualizált Linux-desktopok terjedésének fõ katalizátorára. "Elképesztõen nagy a pénzügyi nyomás a szerverzeteken és a PC-k felügyelete nem egyszerû. A virtualizált desktop [...] mindenképp érdemes arra, hogy az ügyfelek megfontolják" -- vélekedett Kuznetsova.

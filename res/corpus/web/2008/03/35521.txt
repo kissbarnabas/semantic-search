@@ -1,0 +1,10 @@
+Itt a Firefox 3 negyedik bétája - egy hétig lehet tesztelni
+
+Tegnap számoltunk be arról, hogy szükség lesz a Firefox 3 ötödik bétájára, amit a megjelenést gátló kritikus bugok száma indokol. A széleskörû tesztelés egy következõ állomásaként ma megjelent a beta 4, mely igen rövid életû lesz: a beta 5 kódjának befagyasztásáig mindössze 1 hete van azoknak, akik visszajelzést akarnak adni.
+
+
+
+Mike Beltzner, a böngészõ felületének designere közölte, a beta 4 fejlesztéseket hoz a zoomolás és letöltéskezelõ, a webes alkalmazások offline adattárolása valamint a teljesítmény terén is, továbbá foltozásra került több kellemetlen memóriaszivárgási probléma is, így a böngészõ még kevesebb memóriaterületet foglal el -- ez az új kiadás fejlesztéseinek egy kiemelt fókusza. Beltzner elárulta, hogy a JavaScript motorban és a kód más részein történt optimalizációknak köszönhetõen jelentõsen gyorsultak a webes alkalmazások, mint például a Gmail.
+
+
+A beta 4 több mint 900 változtatást tartalmaz a februári beta 3-hoz képest, köztük nemcsak a kódban, hanem a felhasználói felületen is történtek látványos módosítások. A Mozilla úgy véli, jobban integrálódik már az adott grafikus környezetbe a különbözõ operációs rendszerekbe. A beta 4-gyel kapcsolatban március 18-áig lehet visszajelzést adni, ekkor ugyanis ismét fagyasztásra kerül a beta 5 kódbázisa. A Mozilla szokás szerint kizárólag fejlesztõknek és tesztelõknek javasolja a beta használatát, a HWSW tapasztalatai szerint ugyanakkor "éles környezetben" is megállja a helyét, megfelelõen gyors és stabil a szoftver. A beta 4 letölthetõ a Mozilla honlapjáról.

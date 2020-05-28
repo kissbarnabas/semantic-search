@@ -1,0 +1,22 @@
+Gartner: nem muszáj, de érdemes megvárni az SP1-et a Windows 7 bevezetésével
+
+Vállalati körökben általánosan elterjedt nézet, hogy új Windows-változatot az SP1 érkezése elõtt semmisnek kell tekinteni és csak az elsõ javítócsomag megjelenése után érdemes bevezetni. A Gartner szerint ideje leszámolni ezzel az elõítélettel.
+
+
+
+Változnak a Windowsok
+
+ Általános gyakorlattá vált a vállalatoknál, hogy egy új Windows-verzió bevezetésével az SP1 érkezése elõtt nem is foglalkoztak, és csak az elsõ javítócsomag megjelenésekor kezdték el egyáltalán tervezni az átállást. Ma már azonban megváltozott a helyzet és az SP1 közel sem hoz akkora javulást teljesítményben vagy stabilitásban, mint az korábban jellemzõ volt, csak ezért tehát nem feltétlen éri meg várni rá -- vélik a Gartnernél.
+
+A javítócsomagok "vízválasztó" mivolta az elterjedésben a Windows XP és korábbi operációs rendszerek esetében több tényezõre vezethetõ vissza.  Egyrészt az SP1 tartalmazta a megjelenés utáni hónapokban észlelt hibák javításait, a cégek szemével ez volt az elsõ stabil változat, amelynek bevezetése kevesebb kockázatot hordoz. Azonban a Windows XP és a korábbi változatok esetében a Microsoft még teljesen más megközelítést alkalmazott mind a fejlesztésben, mint a tesztelésben. A Vista és a Windows 7 már a biztonság maximális szem elõtt tartásával készül, ami nem csak az operációs rendszerbe épített szolgáltatásokra igaz, hanem magára a kódra is. A Windows XP esetében a kódot csak elkészülte után vetették alá biztonsági teszteknek, a Vista és a Windows 7 azonban már folyamatos ellenõrzés mellett készül.
+
+Másrészt mind a Vista, mind a Windows 7 már egész korai stádiumától kezdve bárki számára tesztelhetõ volt, így a cégek jóval korábban elkezdhették tervezni a migrációt, amelyet a Microsoft ma már külön erre a célra létrehozott eszközökkel is támogat. Az SP1-re várni azért is felesleges a Gartner szerint, mert ma már az informatikát használó vállalatok szinte 100 százalékánál van internetkapcsolat is, így az operációs rendszerek frissítése, naprakészen tartása nem jelent problémát. A Windows XP-t megelõzõ Windows-változatok használatakor még nem volt általános az internet, most viszont az automatikus frissítés és a havi rendszerességgel érkezõ javítások révén a felhasználók fokozatosan megkapják azokat a patcheket, amelyekért korábban meg kellett várniuk az SP1-et -- ez volt a helyzet a Vista esetében is.
+
+Az alkalmazáskompatibilitás a fõ kérdés
+
+A Gartner szerint a Windows 7 vállalati terjedésének az alkalmazások kompatibilitása lehet az egyetlen gátja, azonban mivel az operációs rendszer a Vista leszármazottja, az elõdre írt szoftverek változtatás nélkül futnak rajta -- persze nem árt az alapos tesztelés. A Gartner összességében azt tanácsolja a cégeknek, a Windows 7 megjelenésekor kezdjék meg a felkészülést és a tesztelést, ami egyébként is legalább 12 hónapot vesz igénybe. Mire ezzel végez a cég, jó eséllyel a Windows 7 SP1 is megérkezik és ezzel együtt, de nem feltétlen ettõl függve érdemes bevezetni az új operációs rendszert. 
+
+
+ Persze továbbra is vannak elõnyei az SP1 bevárásának. A Microsoft egy szervizcsomaggal frissített operációs rendszert 24 hónappal a következõ javítócsomag megérkezését követõen támogat csak. Egy SP1-gyel együtt bevezetett Windows 7-hez az SP2 érkezésétõl függõen nagyjából 3-3,5 évig lesz támogatás. Ha valaki SP1 nélkül vezeti be a Windows 7-et, annak egy javítócsomagnyival kevesebb ideje, nagyjából 2-2,5 éve lesz, ezt követõen muszáj lesz frissítenie SP1-re.
+
+A Windows 7 lényegében a Windows Vista ráncfelvarrott, továbbfejlesztett változatának tekinthetõ, az új operációs rendszer fejlesztése ráadásul a korábbi terveknél jobban halad. A Microsoft ugyan továbbra sem közölte hivatalosan, mikor kerül piacra a Windows 7, de a HWSW értesülései szerint már idén õsszel bemutatkozhat, 3 év helyett 2,5 évvel a Vista után piacon lehet az új operációs rendszer.

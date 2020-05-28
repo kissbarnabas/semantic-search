@@ -1,0 +1,14 @@
+Frissítve: Váratlanul lemondott a VMware elnök-vezérigazgatója
+
+Váratlanul és azonnali hatállyal lemondott a VMware elnök-vezérigazgatója, Diane Greene, és a vállalat megvágta éves prognózisát is. A befektetõk menekülnek, a bejelentés óta eltelt órákban az árfolyam több mint 25 százalékkal gyengült.
+
+
+
+Persze a vártnál gyengébb elõrejelzés nem jelenti azt, hogy a VMware rosszul teljesítene. A Thomson First Call által megkérdezett elemzõk 51 százalékos növekedést vártak a tavalyi 1,3 milliárd dollárhoz képest, a VMware most közzétett prognózisa szerint ennél némileg kisebb lesz csak a bõvülés üteme, azonban magyarázatot nem fûztek hozzá. Hasonlóképp Diane Greene sem indokolta meg távozását. Utóda az a Paul Moritz lesz, aki 2000-ig 14 éven át a Microsoftnál dolgozott. Innen kilépve megalapította a Pi Corporationt, amelyet a VMware anyavállalata, az EMC vett meg.
+
+
+ A VMware-t éppen tíz éve alapította Diane Greene és férje, Mendel Rosenblum, aki a Stanford Egyetem számítógéptudományi professzora volt. A vállalatot  2004 elején 635 millió dollárért vásárolta fel az EMC, majd tavaly tõzsdére vitte, megtartva többségi részesedését. A VMware mai akciója az EMC-t is magával rántotta, a tárolóeszközök és -szoftverek legnagyobb gyártójának részvényárfolyama 12 százalékkal csökkent. 
+
+A pénzügyi elemzõk körében általánosan elterjedt vélekedés, hogy a Microsoft tervezettnél hat héttel korábban piacra került Hyper-V virtualizációs köztesrétege jelentõs konkurencia a VMware számára és komolyan veszélyezteti a vállalat piaci pozícióit -- ez állhat a módosított elõrejelzés hátterében is. Egyes vélekedések szerint a Hyper-V el fogja hódítani a kis- és középvállalatokat, míg a nagyvállalatok rövid távon kitartanak a VMware mellett. Az IDC becslése szerint a virtualizációs piac 2006-ban 5,5 milliárd dollárt tett ki, ez 2011-re 11,7 milliárd dollárra hízik.
+
+Greene távozásáról idõközben kiderült, nem önként döntött így, hanem a VMware többségi tulajdonosa, az EMC mondatta le. A vezetõk úgy látták, a cégalapító már nem alkalmas arra, hogy egy évi 2 milliárd dolláros vállalatot vezessen, ezért más pozíciót ajánlottak neki a csoporton belül, amit Greene visszautasított.

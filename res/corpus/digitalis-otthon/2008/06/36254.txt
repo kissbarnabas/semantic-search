@@ -1,0 +1,14 @@
+AMD: tényleg nem lesz kétmagos Phenom, de a Kuma meg fog jelenni
+
+Tajvani alaplapgyártóktól származó pletykák alapján tegnap arról adtunk hírt, hogy az AMD törölte a kétmagos, Kuma kódnevû Phenom processzor fejlesztését, a vállalat azonban ezt határozottan cáfolta.
+
+
+
+Jake Whitman szóvivõ a CNetnek nyilatkozva alaptalannak nevezte az értesülést, miszerint a Kuma projektet leállították volna, ugyanakkor elmondta, az AMD kommunikációjában sosem ejtett szót kétmagos Phenom chiprõl, és a Kuma sem Phenom néven fog megjelenni az év második felében. "Kétmagos Phenom? Sosem láttam ilyet egyetlen terméktervünkön sem" -- mondta Whitman. Ez alapján biztosra vehetõ, hogy a Kuma chipek Athlon néven kerülnek a boltokba, mégpedig a 6000-es sorozat tagjaként.
+
+
+ Az AMD eredetileg az idei elsõ negyedévre tervezte a Kuma premierjét, késõbb ezt júliusra tolták ki, a mostani nyilatkozatban szereplõ második félév pedig azt jelenti, a megjelenés még késõbb lehet. A Kuma tehét a jelenlegi Athlonok utódaként érkezik még az idén, azonban az AMD által eddig nyilvánosságra hozott terméktervek alapján kevesebb mint egy múlva már fel is váltja a kétmagos, 45 nanométeres Regor.
+
+A Kuma tehát még ha meg is jelenik, viszonylag rövid életû lesz, mégis kulcsfontosságú szegmenst fed le: az AMD számára a nyereséges mûködéshez fontos egy gazdaságosan termelhetõ, ugyanakkor teljesítményben is versenyképes kétmagos tömegmodell. A kérdés az, hogy a K8-generációval összevetve az asztali alkalmazások szempontjából kevés lényeges fejlesztést tartalmazó új processzorok mennyire tudják felvenni a versenyt az Intel hasonló kategóriás chipjeivel.
+
+A Kumával az AMD célja az lehet, hogy végleg leváltsa a nagyméretû, 90 nanométeres K8 (Windsor) chipeket, melyek az AMD asztali kínálatának csúcsát fedik le a 65 nanométeres implementáció (Brisbane) 2,8 gigahertznél limitált órajelei miatt. A Windsor termelése valószínûleg a Chartered szingapúri üzemében folyik, tekintve, hogy az AMD már korábban bejelentette, teljesen 65 nanométeres eljárásra konvertálta drezdai Fab 36 gyárát, miközben a Fab 30 átépítés miatt leállt. Továbbra is megkérdõjelezhetõ ésszerûséggel bír a Barcelona problémái miatt súlyosan megcsúszott Kuma piacra erõltetése, ha a mérnöki erõforrásokat a híradások szerint tömegtermelésre rövid idõn belül készen álló 45 nanométeres gyártástechnológia felfuttatására is fordítani lehetne.

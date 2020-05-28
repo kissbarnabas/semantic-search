@@ -1,0 +1,12 @@
+Megérkezett a Firefox 3 harmadik bétája
+
+Letölthetõ, kipróbálható a Firefox webböngészõ 3-as változatának legújabb bétája. A frissített változat nem csak okosabb és átdolgozott, informatívabb felületû, de új képességekkel gyarapodott, gyorsabb, és kevesebb memóriát eszik. A harmadik béta a Mozilla weboldaláról tölthetõ le. A fejlesztés jól halad, de még egy béta kiadása várható a végleges változat megjelenése elõtt.
+
+
+
+A fejlesztõk változtattak a könyvjelzõk kezelésén és alaposan megváltozott az alapértelmezett téma, mely fõként a "vissza" gomb stílusán érhetõ tetten. A  harmadik bétában ráadásul ezek a gombok lenyíló menüket rejtenek, melyek a teljes böngészési történetet elénk varázsolják. Az új ikonok igazodnak a Windows, Mac OS X és Linux operációs rendszerek témáihoz. A Mac OS X-es változaton tovább finomítottak.
+
+
+A harmadik bétában megvariálták a böngészõfüleket is, végre egy-egy fület akár két Firefox ablak között is átmozgathatunk, eddig erre csak külön plugin(ek) segítségével nyílt lehetõség. Az aktív letöltéseink számát nyomon követhetjük a státuszbáron lévõ Firefox gombon is. Az automatikus URL-kiegészítés is javult, figyelembe veszi a weboldalak látogatásának gyakoriságát, és a legutóbb megtekintett weboldalakat hozza elõtérbe.
+
+A bõvítménykezelõ is sokat fejlõdõtt, a bõvítményeket már közvetlenül a böngészõ menüjébõl is telepíthetjük, nem kell ehhez meglátogatni a Mozilla weboldalát. A Firefox mindezek ellenére azonban továbbra is béta, "munkára" nem ajánlható jó szívvel, még számos hibát kell a fejlesztõknek kijavítaniuk, amelyek a böngészõ stabilitására, megbízhatóságára is veszélyes lehet.

@@ -1,0 +1,15 @@
+A Sony teljes méretû, 24 megapixeles CMOS képérzékelõt fejleszt
+
+A Sony belép a teljes, 35 milliméteres képkocka méretû képérzékelõk piacára, csatlakozva ezzel a lépéssel a Nikon és a Canon által uralt full-frame területhez. Az új képérzékelõ a hatalmas felbontás mellett alacsony zajszintet, valamint gyorsaságot ígér a bejelentés alapján.
+
+
+
+A Sony fejlesztésének tárgya egy olyan CMOS képérzékelõ lapka, amelynek mérete 24x36 milliméter, a felbontása pedig 24,81 megapixel. A szenzor sebességével kapcsolatban másodpercenként kimagasló 6,3 (teljes, 24,81 megapixel felbontású) kép kiolvasásának képességét említette a fejlesztõrészleg képviselõje, ráadásul a szenzor felépítésének köszönhetõen a jelenlegieknél jóval alacsonyabb zajszinttel. Az összehasonlítás kedvéért a Canon zászlóshajója, a 21,1 megapixeles EOS DS Mark III a teljes méretû képérzékelõjének jeleit 5 képkocka sebességgel képes kiolvasni.
+
+
+A zajszint csekély mértéke a "Column-Parallel A/D Conversion Technique" megoldásnak köszönhetõ, ahol a képérzékelõn elterülõ képpontok oszloponként külön analóg/digitális átalakítót kapnak melyek a képinformációt a jelenleg divatos 14 bit helyett 12 bites felbontásban alakítják digitális jellé. A Sony azon túl, hogy felismerte a digitális tükörreflexes fényképezõgépek iránt nagymértékben fellendült keresletet -- amely jelenleg a széles DSLR kínálatában is megtestesül -- érzékeli az igényt olyan termék iránt is, amely az optikákat az azokon látható gyújtótávolságokon kezeli, szorzószám alkalmazása nélkül.
+
+
+
+
+A teljes méretû érzékelõvel szerelt gépvázak esetében egy 18 milliméteres objektív értékén nem kell alkalmazni a Canonnál 1,6 illetve a Sony és Nikon esetében az 1,5-szörös szorzót, ezért egy 18 milliméteres kezdõlátószöggel rendelkezõ optika nem 27-28 milliméterrõl indítja a zoomtartományt. Az érzékelõ sorozatgyártása még ebben az évben megkezdõdhet, és ha a közzétett adatok a fejlesztések végére nem változnak nagy mértékben, a Nikon és a Canon is kemény ellenfélre találhat a Sonytól eddig idegen piacon is.

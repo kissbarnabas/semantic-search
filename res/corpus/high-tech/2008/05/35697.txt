@@ -1,0 +1,16 @@
+A Samsung ultragyors 256 gigabájtos SSD-vel jelentkezett
+
+A Samsung bejelentette legújabb SSD-meghajtóját, amely 256 gigabájtnyi adat számára biztosít tárterületet. A tároló érdekessége hogy MLC (SLC-nél lassabb, egyben olcsóbb) felépítése ellenére is villámgyors, akár 200 megabájt is kiolvasható belõle másodpercenként.
+
+
+
+A Samsung áttörésként jelentette be késõ vasárnap új SSD-meghajtóját, amely 256 gigabájt adat elnyelésére képes, ami duplája a korábban bejelentett 128 gigabájtos változatnak, amelynél jóval gyorsabb is. Míg a 128 gigabájtos egységre 70 megabájtnyi adat kerülhetett másodpercenként, addig az újdonság 160 megabájtot is fogadhat. Az olvasási sebesség is megduplázódott, a 128-asnál látott 100 megabájt immár 200 megabájtra emelkedett másodpercenként, természetesen szekvenciális olvasás esetén.
+
+
+ A 256 gigabájtos meghajtó a kiemelkedõ eredményt annak ellenére képes elérni, hogy felépítése okán a lassabb egységek közé tartozna, mert az MLC (Multi Level Cell) szervezés olcsóbb, és általában lassabb SSD meghajtók sajátja, míg a drágább SLC (Single Level Cell) felépítés szinte kivétel nélkül sebesebb egységeket eredményez.
+
+
+
+A Samsung a bejelentés során kitért arra, hogy nagy erõkkel fejlesztették az MLC technológiát a 256 gigabájtos modellben látható szintre, mellyel céljuk az volt, hogy a meghajtó gyorsabb, SLC megoldásokban látható teljesítményt nyújtson, azok árának töredékéért. A tároló hosszú élettartamát is célként tartották maguk elõtt a tervezéskor, amelyet az áttervezett vezérlõlapka segítségével emelhették hagyományos merevlemezi magaslatokba.
+
+Az új, 1,8 és 2,5 hüvelykes fizikai méretben készülõ 256 gigabájtos Samsung SSD meghajtók elsõ próbapéldányai a noteszgép gyártókhoz kerülhetnek, igaz szeptemberig nekik is várniuk kell rájuk. A gyártó elõzetes becslései szerint a tömegtermelés az év végén indulhat be. Árral kapcsolatos információk nem hangzottak el a bejelentés alatt.

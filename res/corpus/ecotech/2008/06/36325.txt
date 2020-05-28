@@ -1,0 +1,14 @@
+A Nokia kezébe került a Symbian, amely részben nyílt forrásúvá válik
+
+A Symbianban már korábban is 48 százalékos részesedéssel rendelkezõ Nokia megvásárolta a mobiltelefonos operációs rendszerérõl ismert vállalat fennmaradó részét is, amelyért 264 millió eurót fizetett. A Symbian további tulajdonosai szintén mobiltelefon-gyártásban érdekelt cégek voltak, köztük a Sony Ericsson, az Ericsson, a Panasonic.
+
+
+
+A Nokia egyúttal bejelentette a Symbian Foundation megalapítását, amelynek a tagjai a finn cég mellett a Symbiant használó telefongyártók (Sony Ericcson, Samsung, Motorola, LG), mobilszolgáltatók (NTT DoCoMo, AT&T, Vodafone), illetve mobiltelefonokba szánt chipeket gyártó cégek (STMicroelectronics, Texas Instruments). A Symbian Foundation tagjai jogdíjmentesen használhatják a Symbian operációs rendszert a termékeikben, illetve az operációs rendszerrel kapcsolatos fejlesztéseket is megosztják egymással. Piaci elemzõk úgy vélik, a szorosabb együttmûködés nyomán stabilabb lehet a platform, ami egyformán jó a gyártóknak, szolgáltatóknak és a vevõknek.
+
+
+ A Nokia elképzelései szerint a Symbianra épülõ szoftverplatformokat (S60, UIQ, illetve az NTT DoCoMo által használt MOAP) is egyesíteni fogják a közeljövõben, hogy egy egységes felületet hozzanak létre, amely nagyobb eséllyel veheti fel a harcot a piacon az olyan vetélytársak ellen, mint a Windows Mobile, a Linux, a Google Android, vagy akár az Apple iPhone-jának szoftvere. A Symbian Foundation emellett meg fogja nyitni a Symbian operációs rendszer forráskódjénak egy részét, illetve az elkövetkezõ évek során egyre több részt tesznek majd közzé Eclipse Public License alatt.
+
+Elemzõk szerint a világon használatban levõ mintegy 2,5 milliárd mobiltelefonon futó szoftverplatformok sokszínûsége egyértelmûen gátolja az innovációt, ezért a konszolidáció elkerülhetetlen. Nem csak a szoftverfejlesztõknek okoz gondot a rendszerek elburjánzott száma, a növekedési kényszerben lévõ és az árverseny elõl menekülõ szolgáltatók új értéknövelt szolgáltatások után kutatnak, amelyekhez azonban megfelelõ szoftvertámogatás kell a mobilok oldaláról is. A számos operációs rendszer azonban csak komplikálja a dolgokat, idõt és pénzt emésztenek fel.
+
+A Symbian ma az elsõ számú mobiltelefonos operációs rendszer, több mint 200 különféle készüléken teljesít szolgálatot, és eddig mintegy 200 millió Symbian-alapú mobil került a piacra, amelyekre több mint tízezer különféle alkalmazást írtak eddig. Jelenleg a Symbiané az okostelefon-piac több mint 70 százaléka, azonban az elõrejelzések szerint az elkövetkezõ években a Linux és a Windows Mobile egyaránt komoly trónkövetelõ.

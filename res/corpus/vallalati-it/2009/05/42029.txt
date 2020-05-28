@@ -1,0 +1,15 @@
+Az ünnepekre boltokban lesz a Windows 7
+
+Tesztelni, tesztelni, tesztelni
+Május 5-én jelent meg a Windows 7 megjelenésre szánt változata, Steven Sinofsky szerint a Microsoft feladata most az, hogy a letöltések és a visszajelzések alapján elvégezze az utolsó simiításokat a kódon, ami gyakorlatilag állandó tesztelést jelent. A Microsoft leginkább a telepítéssel, biztonsággal, a hardverkompatibilitással, az akalmazáskompatibilitással kapcsolatos lehetséges problémákat szeretné felgöngyölíteni.
+A redmondiakhoz számos visszajelzés érkezett a Windows 7-tel kapcsolatban már a bétaprogramban is, ezek egy részét figyelembe vették a késõbbi módosítások során (például a User Account Control esetében), egyeseket viszont figyelmen kívül hagytak, legalábbis abban az értelemben, hogy a módosítások a Windows 7-be már nem kerültek be, ami nem jelenti azt, hogy késõbb egy javítócsomag formájában például ne tehetnék õket elérhetõvé.
+Augusztusra kész, októberre a boltokban
+A Sinofsky által felvázolt menetrend szerint a Windows 7 augusztusban érheti el az RTM (release to manufacturing) állapotot, ekkor megkezdõdik a terjesztés, elõször a számítógépgyártók felé ezt követõen a boltokban is megjelenhet a dobozos operációs rendszer, illetve kaphatók lesznek a Windows 7-tel telepített PC-k. A számos Microsoft-termék érkezésének idejét korábban már pontosan megjósoló TechARP.com szerint a Windows 7 érkezését október 23-ára idõzíti a szoftvervállalat, blogbejegyzésében Sinofsky azonban hangsúlyozta, a Microsoftnál még mindig nincs kitûzött dátum.
+A Windows 7 hatféle változatban lesz kapható, azonban a Microsoft marketingje ebbõl csak kettõre
+koncentrál majd, az otthoni felhasználóknak szánt Home Premiumra,
+illetve az üzleti felhasználóknak szóló Professional verzióra. Ezek mellett további négy
+verzió (Home Basic, Starter Edition, Enterprise, Ultimate) lesz még
+elérhetõ, mivel az ügyfelektõl és a PC-gyártóktól származó
+visszajelzések alapján van rájuk igény. Árakról egyelõre nem beszélt a vállalat, de a HWSW értesülése szerint azonos változatokat figyelembe véve a Windows 7 olcsóbb lesz mint a Vista.
+Jön a Windows Server 2008 R2 is
+Az új asztali Windowshoz új szerverváltozat is dukál, a Windows 7-tel egyszerre érkezhet a Windows Server 2008 R2, valamint az új Exchange Server is. Eközben a héten Los Angelesben zajló TechEd konferencia résztvevõi már meghívást kapnak az Office 2010 zárt tesztelésére, az új irodai csomag megjelenése 2010 elsõ felében várható. 

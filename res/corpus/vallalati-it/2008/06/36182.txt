@@ -1,0 +1,15 @@
+Még az idén SSD-k kerülhetnek a Sun szervereibe
+
+A Sun Microsystems hivatalosan is megerõsítette azokat a pletykákat, amelyek szerint hamarosan SSD-vel ellátott szerverekkel jelentkezne. Piaci elemzõk 2010 környékére várták az elsõ SSD-s szervereket, de a Sun már az idén elõrukkolna az elsõ fecskékkkel. A lépést várhatóan a többi szervergyártó is követni fogja.
+
+
+
+A flash memóriákból felépülõ tárolók elsõként a notebookokban jelentek meg, az ott elterjedt aprócska merevlemezeknél lényegesen nagyobb sebességük, kisebb fogyasztásuk és zajtalanságuk kézzelfogható elõny a felhasználó számára. Az SSD technológia a negyvállalati tárolókban is jelen van már, a merevlemezes adattárolási eszközök legnagyobb gyártója, az EMC az év elején jelentette be, hogy csúcskategóriás Symmetrix eszközei SSD-vel is rendelhetõk, igaz, egyelõre rendkívül borsos áron. Az EMC szerint az SSD-kkel azok az ügyfelek (pl. hitelkártya-cégek, bankok) járnak igazán jól, akiknél mindennél fontosabb a nagy teljesítmény.
+
+
+ Nagyvállalati alkalmazások esetében az SSD-k a merevlemezeknél a jóval kisebb kapacitás miatt egyelõre elsõdleges tárként nemigen jöhetnek szóba, azonban bizonyos feladatokat (pl. tranzakciós naplófájlok) rájuk bízva látványos gyorsulást lehet elérni a segítségükkal a szerverekben is. A kisebb fogyasztással eközben csökkenthetõ a kiszolgálók áramfelvétele és hõleadása is, ami egyre növekedõ problémát jelent a zsúfolt adatközpontokban. Egy igazán gyors merevlemez fogyasztása körülbelül tízszerese egy SSD-nek, mégis, az utóbbi teljesítménye a nagyobb.
+
+
+Sun szerverek: merevlemez mellett hamarosan SSD-vel is
+
+A Sun szervereiben a második félév során jelennek meg a 2,5 hüvelykes merevlemezek helyére beépíthetõ SSD-k, jövõre pedig a 3,5 hüvelykes változatok -- jelentette be John Fowler, a vállalat szerverekért felelõs vezetõje. Fowler úgy véli, az SSD-k 2010 körül tömegesen elkezdenek majd terjedni a szerverekben, és teljesen át fogják alakítani az iparágat. A flash memórián alapuló meghajtók nagyobb hatással lesznek a szerverek és adatközpontok hatékonyságára mint a virtualizáció -- vélekedett Fowler.

@@ -1,0 +1,14 @@
+A Microsoft figyelmezteti a kalóz Vistát használókat, hogy az SP1 már blokkolja az ismertebb trükköket
+
+[Techworld] A Windows Vista elsõ szervizcsomagjának megjelenése elõtt egy újabb frissítéssel teszteli az operációs rendszer legalitását a Microsoft. Mint az ismert, két széleskörûen használt kalózmódszer ellen védekezik az SP1, az ezeket alkalmazó felhasználókat elõre figyelmeztetik.
+
+
+
+A Windows Vista SP1 a BIOS-átírásos és a 30 napos próbaidõszakot 2099-ig kiterjesztõ trükkök ellen már fel van készítve, így az ezekkel üzemelõ operációs rendszerek a szervizcsomag március közepi, április elejei települését követõen másképpen viselkedhetnek. A Microsoft fel szeretné hívni ezeknek a felhasználóknak a figyelmét erre, így az SP1 elõtt egy Windows Update rendszeren letöltõdõ alkalmazással vizsgálni és figyelmeztetni -- megoldást javasolni fog.
+
+Alex Kochis, a vállalat Eredeti Windows, Valódi Elõny (Windows Genuine Advantage) programjának menedzsere szerint a vállalat ezzel a még ebben a hónapban letöltõdõ, vizsgáló és figyelmeztetõ szoftverrel nem fogja blokkolni, kikapcsolni ezeket a trükköket, így azok az eslõ szervizcsomag településéig még mûködhetnek, némi haladékot adva ezzel a felhasználónak a rendszere legalizálására.
+
+
+A detektáló szoftverrel együtt egy eltávolító alkalmazást is elérhetõvé tesznek a redmondiak, az arra mutató linket a szoftver is prezentálja majd a felhasználónak. Ez az alkalmazás a jövõben integrálva lesz a kalózkodást detektáló csomagokba is. A Windows Vista elsõ szervicsomagját telepítve ezekre a rendszerekre a felhasználónak aktiválnia kell operációs rendszerét, az OEM BIOS-os trükköt használók 15 nappal késõbb kapnak figyelmeztetést.
+
+A Windows Vista SP1 március közepén öt nyelven (angol, német, francia, spanyol, japán) lesz elérhetõ a Windows Update és a Microsoft Update szolgáltatáson keresztül, de március közepe és április közepe közötti idõben a Microsoft az SP1 lokalizálásán is dolgozni fog, így az év negyedik hónapján a magyar nyelvû szervizcsomag is megérkezhet a felhasználókhoz.

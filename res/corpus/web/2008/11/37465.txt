@@ -1,0 +1,16 @@
+Megszépül a Gmail
+
+A Google politikája a keresõ legelsõ megjelenése óta mindig is az volt, hogy egyszerû, letisztult, átlátható és praktikus felületeket kínáljon. Ugyanakkor a felhasználók egy széles rétege odavan a csicsás, díszes felületekért is. Így a népszerûség oltárán feláldozva az egyszerûséget, hosszú idõ után testreszabhatóvá válik a Google levelezõjének felülete is: a iGoogle mintájára megjelent a Gmail fiókokban is a sémák használatának lehetõsége.
+
+
+
+A kísérletezõ kedvû felhasználók már korábban is fejlesztettek nem hivatalos kiegészítõket postafiókjukhoz, hogy kissé feldobják azt, de egészen idáig a Google nem érzett késztetést arra, hogy ezt a lehetõséget hivatalosan is elérhetõvé tegye. A korábbi egyszerû halványkék-szürke felület helyett mostantól az alapséma is sokkal elegánsabbra és modernebbre cserélõdött, de összesen 30 különbözõ változat közül lehet mazsolázni.
+
+Egyelõre nincs nyilvános fejlesztõeszköz, amivel a kreatív felhasználók saját verziókat, összeállításokat hozhatnak létre, de a meglévõ 30 darab között a normál felület különbözõ színû variációi, illetve tematikus, az eddigi visszafogottságtól elrugaszkodó témák is bekerültek. Kislányos, retro, kocka, romantikus, természetbarát és nem utolsó sorban nindzsás -- van választék.
+
+Mindenkinek megfelelni
+
+
+A bejelentést tartalmazó Google blogbejegyzésbõl kiderül, hogy a Terminal nevû téma, ami ASCII-karakterekbõl formázza meg a felületet, nem más, mint két mérnök fogadásának eredménye. Van olyan séma is, ami a Chrome felületéhez illeszkedik, illetve olyan is, ami a felület hátteréül szolgáló képet idõrõl idõre lecseréli, sõt beállítva egy várost, annak megfelelõ dizájnelemekkel egészíti ki magát.  
+
+A sémák megjelenése napra fókuszba helyezi a Gmail levelezõszolgáltatást, ahol a pletykák szerint hamarosan újabb funkciók élesednek a Labs-ot nem használó tömegek számára is. Az újdonságok bekerülése a rendszerbe fokozatos, a felhasználók nem egyszerre érhetik el, hanem fokozatosan.

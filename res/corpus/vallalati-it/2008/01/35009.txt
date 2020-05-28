@@ -1,0 +1,14 @@
+Európa ötödik legerõsebb szuperszámítógépét állítják üzembe Skóciában
+
+Hatvan teraFLOPS teljesítményû szuperszámítógépet üzemelnek be hamarosan az Edinburgh-i Egyetemen, a HECToR (High-End Computing Terascale Resource) kódnevû gép 113 millió fontba, azaz hozzávetõleg 38,5 milliárd forintba került, az üzemeltetése pedig évente mintegy 5-8 millió fontot (1,7-2,7 milliárd forintot) emészt majd fel.
+
+
+
+A világ legnagyobb teljesítményû szuperszámítógépeit rangsoroló Top500 lista alapján a HECToR a tizenhetedik leggyorsabb lesz a Földön. A Top500 szerint a skót fõvárosban telepítésre kerülõ rendszer Európában az ötödik legerõsebb konfiguráció, de az Egyesült Királyságban az elsõ helyre kerül. Nagy-Britannia korábbi legerõsebb szupergépe a harmincötödik a listán, a teljesítménye nagyjából fele a HECToR-énak.
+
+
+ A hivatalosan január 14-én üzembe álló, Cray XT4 szupergép összesen 11328 darab kétmagos, 2,8 GHz-es AMD Opteron processzort és 33200 gigabájt memóriát tartalmaz, az operációs rendszere természetesen Linux. A nagyjából 60 teraFLOPS-os teljesítmény azonban csak töredéke a tervezettnek, a gépet ugyanis két lépcsõben tovább fogják bõvíteni: 2009 októberében a HECToR teljesítményét 250 teraFLOPS-ra növelik majd, 2011-ben pedig még tovább tornázzák.
+
+
+
+A szuperszámítógépet számos különféle feladatra használják majd a brit tudósok, beleértve olyan feladatokat mint a klímaváltozás modellezése, vagy akár a mûszaki tervezés, például áramlástani modellezés.

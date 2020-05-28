@@ -1,0 +1,26 @@
+Megkezdõdött az Intel meghallgatása az Európai Bizottság elõtt
+
+Brüsszelben megkezdõdtek a meghallgatások az Intel ellen indított trösztellenes eljárásban, amelynek során az Európai Bizottság azt szeretné kideríteni, a világ legnagyobb félvezetõgyártója versenyellenes magatartást tanúsított-e a piacon. A tegnapi, zárt ajtók mögötti meghallgatáson maga Paul Otellini, az Intel elnök-vezérigazgatója is megjelent. Ma a Bizottságnál panaszt tevõ AMD, valamint fogyasztói érdekvédelmi csoportok adják elõ az érveiket.
+
+
+
+Vitatott árkedvezmény
+
+Amint arról lapunk is beszámolt, az Európai Bizottság hosszas vizsgálat után tavaly júniusban vádolta meg formálisan az Intelt versenyellenes magatartással. A vita középpontjában az Intel úgynevezett visszatérítési rendszere áll, a vállalat a PC-gyártóknak ugyanis visszamenõlegesen kínál diszkontot, vagyis egyes küszöbértékek elérésekor a korábban megvásárolt processzorok, chipkészletek után is jár visszatérítés. Ennek természetszerû eredményeként a küszöbök felé közelítve egyre kevésbé éri meg más gyártó, vagyis az AMD termékeit vásárolni -- sõt egyes esetekben még ingyen sem.
+
+
+A Belsõ próbatárgyalások során vitatott volt, hogy az ilyen jellegû visszatérítések károsak-e a vevõk, a piac számára, ami az EU törvényei alapján a versenyjogi vizsgálat alapvetõ szempontja. Egyes vélemények szerint az ilyen konstrukciók kedveznek a vevõknek, ugyanis alacsonyabb árakat eredményeznek, és a PC-szállítók közötti erõviszonyok kiegyenlítése felé hatnak, növelve a közöttük lévõ versenyt. Az EB azonban végül úgy döntött, rövid távon az Intel magatartása alacsonyabb árakat hoz a vevõknek, hosszú távon korlátozza szabadságukat azzal, hogy súlyos versenyhátrányt okoz AMD-nek.
+
+Az Intel többször is tagadta a vádakat, és határozottan kijelentte, hogy mindig törvényesen versenyzett a piacon, az AMD sikertelenségét csak saját magának köszönheti, és annak, hogy a termékei nem versenyképesek. Japánban azonban a versenyhivatal 2005-ben már kimondta, hogy az Intel kedvezménypolitikája, mely egyedileg, PC-gyártónként állapította meg a diszkontot, visszatérítésekhez és marketingtámogatáshoz szükséges volument, csorbította a versenyt, és aláásta az AMD pozícióit. 2006 elején aztán Dél-Koreában ütöttek rajta a hatóságok az Intel helyi irodáján, a törvénytelen verseny bizonyítékai után kutatva. Ezek a fejlemények késztették az EU versenyjogi bizottságát arra, hogy újra elõvegyék az Intel ügyét.
+
+Nem csak a PC-gyártóktól, a boltokból is kiszorították az AMD-t?
+
+Az európai versenyhatóság emberei az elmúlt évek során több razziát is tartottak az Intel irodáiban szerte a kontinensen, valamint PC-gyártóknál és elektronikai áruházláncoknál, hogy az Intel versenyellenes magatartását alátámasztó dokumentumokat foglaljanak le. Legutóbb idén februárban ütöttek rajta a chipgyártó müncheni központján, de a Media Marktnál is megjelentek a hatóságok, egyes információk szerint még a magyar leányvállalatnál is. A nyomozás azért terjedt ki a kereskedõkre is, mert az AMD által benyújtott dokumentumok azt valószínûsítik, az Intel erõfölényével visszaélve olyan megállapodásokat kötött, amelyekkel kiszorította az AMD-alapú rendszereket az üzletekbõl.
+
+A nyomozás azért fordult a kiskereskedelem felé, mert az AMD vádjai alapján megalapozottnak tûnik a gyanú, hogy erõfölényével visszaélve az Intel olyan megállapodásokat kötött a számítógépek értékesítését végzõ láncokkal, melyek kiszorították a más gyártók processzorival szerelt gépeket. A Financial Times Deutschland 2006-os cikke alapján az Intel kizárólagos szerzõdést kötött a közel 500 Media Markt és Saturn elektronikai áruházat mûködtetõ német Media Saturn Holdinggal, így az üzletekbõl számûzésre kerültek az AMD processzort tartalmazó PC-k.
+
+Hogy az Intel és a Media Saturn Holding esetleges megállapodása csak Németországra érvényes-e, vagy több országra is, arról nem írt a Financial Times Deutschland, annyi azonban bizonyos, hogy a szerkesztõségünk tagjai által meglátogatott Saturn és Media Markt üzletek egyikében sem sikerült AMD chipekre vagy AMD-alapú PC-kre bukkannunk. A budai Saturn üzletben érdeklõdésünkre elmondták, az áruházlánc tagjai kizárólag Intel processzoros gépeket kínálnak, és hasonló információval szolgált az egyik Media Markt számítástechnikai részlegének eladója is.
+
+"A legrosszabb esetben kitöltünk egy csekket"
+
+Az Európai Bizottság egyelõre csak az Intel és a PC-gyártók közötti megállapodásokat vizsgálja, a kereskedõkkel kötött szerzõdéseket nem. Hogy az Intel kap-e a Microsofthoz hasonlóan súlyos büntetést, és kell-e változtatni magatartásán, lényegében azon múlik, hogy az utólagos visszatérítésen alapuló kedvezményrendszert az Intel meg tudja-e védeni a Bizottság elõtt. A bírság akár az Intel forgalmának 10 százalékára, vagyis 2 milliárd dollárra is rúghat, amennyiben a cég képviselõi nem tudják alátámasztani igazukat. Paul Otellini, az Intel vezére mindenesetre magabiztos, a BusinessWeeknek tavaly októberben adott interjújában úgy vélekedett, "a legrosszabb esetben kitöltünk egy csekket".

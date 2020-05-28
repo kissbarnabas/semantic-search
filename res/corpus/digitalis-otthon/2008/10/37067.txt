@@ -1,0 +1,14 @@
+Már iGO 8 platform alatt is elérhetõ itthon a dugófigyelõ szolgáltatás
+
+Október második felétõl a Nav N Go iGO 8 navigációs platformot használó felhasználók is  igénybe vehetik az ország immár teljes területére kiterjedõ "dugófigyelõ" szolgáltatást, a TMC-t, azaz a Traffic Message Channelt, miután a Nav N Go Kft. megkötötte az errõl szóló megállapodást a szolgáltatást nyújtó TrafficNav Kft-vel.
+
+
+
+A hónap közepétõl a legtöbb Nav N Go iGO 8 szoftver PDA-verziója és a naviextras.com portál által támogatott navigációs készülékek (PNA-k) számára is elérhetõ lesz a magyar Traffic Message Channel (TMC), azaz a forgalmi üzenõcsatorna. A szolgáltatás használatához szükséges frissítések a kereskedelmi indulást követõen a Nav N Go térképfrissítõ portálján, a naviextras.com-on keresztül lesznek kaphatók, a Top-Map Kft. Magyarország térképével forgalomba hozott, Nav N Go iGO 8 platformot használó, naviextras.com-on támogatott készülékek tulajdonosai azonban ingyen letölthetik TMC-használatot is támogató térképfrissítést.
+
+Magyarországon a TMC-szolgáltatást nyár óta egy többségi brit tulajdonú társaság, a TrafficNav Kft. nyújtja, az MR2 Petõfi rádió hullámhosszán keresztül. A TMC (vagy másik gyakori nevén RDS-TMC) kiforrott és nemzetközi szabványokban rögzített technológia, amely ma Európában és az Egyesült Államokban is a közlekedési információk sugárzásának legelterjedtebb szabványa.
+
+
+Ma gyakorlatilag minden nyugat-európai országban mûködik ilyen szolgáltatás, a kelet-európai országok közül pedig Magyarországon másodikként vezetik be a rendszert (az Európai Unióhoz újonnan csatlakozott országok közül elsõként Csehországban indult a szolgáltatás 2006-ban).
+
+Az FM rádiósávban küldött TMC-jelek az útlezárásokról, dugókról tájékoztathatják a GPS-készülékkel rendelkezõ autósokat. A gépjármûvezetõ ez alapján választhat magának alternatív útvonalat, megkönnyítve és meggyorsítva ezzel célba jutását. A jelenleg forgalomban levõ navigációs készülékek túlnyomó többsége önmagában vagy TMC antennával kiegészítve alkalmas a TMC közlekedési hírek vételére, amelyeket vizuális (a térképen megjelenõ ikonokkal) és szöveges formában is megjelenít.

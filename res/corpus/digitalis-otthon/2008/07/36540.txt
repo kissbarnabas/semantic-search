@@ -1,0 +1,12 @@
+BIOS-frissítéssel orvosolja az NVIDIA grafikus chipek túlmelegedését a Dell
+
+A Dell BIOS-frissítést adott ki számos noteszgépéhez, amelyek NVIDIA grafikus chipet tartalmaznak. Amint arról lapunk is beszámolt, a kaliforniai chipgyártó július elején közölte, hogy egyes mobil videovezérlõi a tokozáshoz használt anyag hibájából a hõstressz miatt felmondhatják a szolgálatot. 
+
+
+
+Az érintett gépek a Dell Inspiron 1420, a Latitude D630 és D630c, a Precision M2300, a Vostro 1310, 1400, 1510, 1710, illetve az XPS M1330 és M1530 -- ezekben GeForce 8400M, 8600M, vagy Quadro NVS 135 grafikus chip található. A most kiadott új BIOS-okben módosították a hûtõventilátorok fordulatát szabályozó kódot annak érdekében, hogy a videochip hõmérséklete stabil maradjon. A boltokba kerülõ gépek már az új BIOS-szal érkeznek -- közölte a Dell.
+
+
+ Az NVIDIA videochipjeinél valószínûleg ugyanaz a probléma forrása, ami a Microsoft Xbox 360 konzoloknál a hírhedt "vörös kör halált" okozza. Jen-Hsun Huang elnök-vezérigazgató szavaiból annyi derül ki, hogy a problémát GPU által termelt hõ okozza, illetve a változó terhelés, amelynek nyomán a grafikus chip vagy a chipkészlet hõmérséklete folyamatosan változik. Ezeket a tokozáshoz használt anyag nem tolerálja, és a forrasztás megreped. Az NVIDIA a július 27-én véget ért negyedévben legalább 150 millió dolláros,  hibás chipek cseréjével és javításával kapcsolatos költséget könyvelt el.
+
+Ha egy szóban forgó Dell notebook kísérteties grafikus hibákat produkál (pl. villódzás, csíkozódás), azt jó eséllyel a fenti hiba okozza. Természetesen a BIOS-frissítés ilyenkor már nem segít, a tulajdonosoknak kapcsolatba kell lépniük a gyártóval.

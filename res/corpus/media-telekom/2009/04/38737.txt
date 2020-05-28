@@ -1,0 +1,18 @@
+Tavaly minden második új internetelõfizetés mobilnet volt hazánkban
+
+A Magyar Telekom T-Mobile és T-Home márkáinak égisze alatt egyaránt képernyõközpontú szolgáltatásokat igyekszik kínálni ügyfeleinek, a távlati cél az, hogy a szélessávú internet jelen legyen minden, a lakosság jelentõs része által használt, kijelzõközpontú eszközön, azaz a televízión (IPTV), a számítógépen (internetelérés) és mobiltelefonokon (mobilinternet). Winkler szerint utóbbi terület, a mobilinternet drámai erõsödése az egész távközlési piacot felbolygathatja.
+
+"Azt érzékeljük, hogy a szélessávú internetértékesítés 49 százaléka mobilnet volt tavaly. Ez egy elképesztõ szám, ez a teljes szélessávú piacot átalakítja" -- mondta el Winkler a beszélgetés során, hozzátéve, hogy a szolgáltatók a lefedettségi területükön ma már "nagyon jó minõségben" képesek legalább 1-2 megabit/másodperces átlagos sávszélességet nyújtani mobilneten, ez pedig a vezetékes szolgáltatókat idõvel arra ösztönzi majd, hogy a mobilinternetnél, illetve a jelenlegi xDSL-nél gyorsabb technológiákat vezessenek be kínálatukba, mindezt versenyképes áron nyújtva.
+
+Ennek egyik lényeges lépcsõfoka a háztartásokig elérõ optikai hálózatok és a meglévõ kábelhálózat továbbfejlesztése -- emelte ki Winkler, utalva a T-Home választékában újonnan megjelent Optinet díjcsomagokra, melyekkel akár 50 megabit/másodperces letöltési sebesség is elérhetõ, emellett az optikai hálózatok éppúgy lehetõséget adnak a dual play és triple play szolgáltatáscsomagok kiépítésére, mint a réz érpárra épülõ xDSL-technológia, vagy a kábeles hozzáférés. Winkler elmondta, hogy az új generációs vezetékes szolgáltatás elõértékesítése április elején kezdõdött, a Magyar Telekom optikai kábelei ma nagyjából 40 ezer háztartást érnek el.
+
+Fejlesztési irányok
+
+Az üzletágvezetõ a mobilnet rohamos terjedése kapcsán elmondta, hogy a szolgáltató a hálózati lefedettség bõvítése mellett új technológiák bevetésével igyekszik növelni egyrészt a hálózat kapacitását, másrészt az elérhetõ maximális sávszélességet. A hazai mobilszolgáltatók jelenleg 14,4 megabit/s HSDPA-val igyekeznek a városi hotspotokat lekezelni -- a T-Mobile ezzel kapcsolatos konkrét fejlesztési ütemterve nem ismert, a szolgáltató legutóbb tavaly nyáron számolt be arról, hogy teljes hálózatát HSUPA-képessé tette, azaz a megfelelõ eszközökkel nem csak a gyors letöltési, hanem a gyors feltöltési sebesség is kiaknázható.
+
+
+A mobilszolgáltatók számára emellett komoly kihívást jelent az egyre népszerûbbé váló mobilnet-szolgáltatás megnövekedett kapacitásigényének kiszolgálása, melyre az újabb, HSPA+, vagy a következõ generációs LTE-hálózatok (Long Term Evolution) kiépítése és elterjedése jelenthet igazán megnyugtató megoldást. Winkler a HWSW-nek elmondta, hogy a T-Mobile a németországi tesztek alapján a Vodafone-nál átmeneti lépcsõfokkén kezelt HSPA+ helyett elsõsorban az LTE technológia mellett tenné le itthon is a voksát, a gazdasági válság telekommunikációs szektort érintõ hatásai miatt azonban egyelõre nem tudni, hogy az új generációs hálózatot pontosan mikor helyezik üzembe hazánkban.
+
+Stabil alapokra építenek
+
+A három magyarországi operátor közül bár nem a T-Mobile településszámra levetített lefedettsége a legnagyobb, a garantált sávszélesség tekintetében messze a magentaszínû szolgáltató vezet. Az NHH legutóbbi gyorsjelentésébõl kiderül, hogy a hálózat stabilitásának, mûszaki fejlettségének egyfajta tükrét jelentõ garantált letöltési és feltöltési sebesség (GLS/GFL) a T-Mobile a HSxPA technológiával lefedett területein "az esetek 80 százalékában" 2000/800 kilobit/másodperc -- ilyen garantált értékeket még csak megközelítõleg sem vállal a két másik magyarországi szolgáltató.

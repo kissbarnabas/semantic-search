@@ -1,0 +1,18 @@
+Jöhetnek az elõfizetéses alkalmazások a Facebookra
+
+A világ legnagyobb közösségi hálózatán, a Facebookon mára már több mint 660 ezer alkalmazás érhetõ el, s mostanra kiderült, hogy a fejlesztõk a csenevész reklámbevételekbõl képtelenek ezeket finanszírozni. A jövõ egyértelmûen az elõfizetéses konstrukcióké, melyre a Zuora nevû cég egy mûködõképes alternatívát mutatott be.
+
+
+
+Pay-to-play
+
+A webes alkalmazások egyre összetettebbé válnak, így a fejlesztések is egyre több erõforrást emésztenek fel, miközben a hirdetési bevételek nem növekszenek arányosan. A hobbifejlesztõknél komolyabb vállalkozások számára az esetleges reklámbevétel, illetve az önkéntes adományozás nem nyújt elegendõ biztosítékot arra, hogy képesek a céget életben tartani. Ugyanakkor az online mikrofizetési rendszerek sokat fejlõdtek az elmúlt években, s mára az internetezõk jelentõs része el is fogadta, hogy az online dolgokért is lehet/kell fizetni. Amennyiben a minialkalmazások világában megjelenik egy jól mûködõ modell, onnantól kezdve csak az lesz a kérdés, hogy a felhasználó miért lesz hajlandó pénzt adni, a felhasználókért folyó verseny immár zsebre megy majd.
+
+
+ A Palm Springben rendezett DEMO 2009 konferencián a Zuora egy olyan, minden Facebook-alkalmazásba integrálható rendszert mutatott be, amely kezeli a fizetést, számlázást és az elõfizetéseket. A "Z-Commerce for Facebook" lehetõséget ad akár 25 dollárcentes tranzakciók lebonyolítására is, illetve képes kezelni a "pay-to-play" egyszeri terhelések mellett a fix idõtartamra szóló, megújuló elõfizetéseket is. 
+
+Új e-erszény születhet
+
+Habár a Zuorának már van gyakorlata az online fizetési rendszerek beindításában, például a Salesforce.com-nak is nyújt hasonló szolgáltatást, a célja, hogy a mikrofizetés egyik zászlóvivõje legyen, hasonlóan ahhoz, ahogy az Amazon segít online kereskedõvé válni, a Google egyszerûvé teszi a netes hirdetést vagy a PayPal az online fizetést. Az új megoldással kapcsolatban elsõként egy fejlesztõi tesztre hívják az érdeklõdõ alkalmazáskészítõket, késõbb pedig általánosan, egységesen elérhetõvé válhat a mikrofizetés a Facebookon.
+
+Amennyiben az új módszer sikeressé válik, a felhasználók elfogadják azt, akkor lépésrõl-lépésre fejlõdhetnek tovább az online alkalmazások. A Facebook sokmilliós közösségét kihasználva, egy jól finanszírozott közegben a fejlesztõk is képesek lesznek még jobb kezelõfelületeket, jobb tartalmakat elõállítani.

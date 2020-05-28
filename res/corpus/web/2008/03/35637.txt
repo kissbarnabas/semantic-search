@@ -1,0 +1,12 @@
+Üzleti felhasználásra lassú az AJAX?
+
+[Computerworl/ HWSW] A Forrester Research elemzõcég szerint az AJAX-os webalkalmazások nem alkalmazak üzleti felhasználásra, mivel a felhasználók túl lassúnak találják õket. A Forrester ezért azt javasolja, a vállalatok inkább Adobe AIR-ben vagy Microsoft Silverlightban gondolkodjanak, ha új generációs "rich" webalkalmazásokat fejlesztenek.
+
+
+
+A Forrester tanulmánya szerint az AJAX használata esetén a komplex üzleti alkalmazásoknál megszokott képernyõk megjelenítése jelentõs mennyiségû CPU-erõforrást igényel kliensoldalon, a lassú megjelenítés pedig akár gátját is képezheti egy migrációs projektnek, amikor egy üzleti alkalmazást webes közegbe próbálnak átültetni. A Forrester példaként egy európai kiskereskedelmi céget hoz, ahol a Visual Basicben írt klienst AJAX-alapú megoldás váltotta fel, a sebességben csalódott felhasználók legnagyobb bánatára.
+
+
+Az AJAX-os webalkalmazásokat tovább lassítja, hogy a felhasználók gépeire telepített víruskeresõk az összes JavaScriptet sorról sorra megvizsgálják kártékony kódok után kutatva. További hátrányt jelent, hogy a legtöbb AJAX keretrendszerben az összes információ a szerveren található, egy komplex üzleti alkalmazás esetén egyetlen apró módosítás esetén az összes beviteli mezõt újra le kell kérni, ami idõigényes. Ezért az AJAX-alkalmazások a nagyobb sebesség érdekében nem ellenõrzik a bevitt adatokat valós idõben, ami viszont üzleti környezetben elvárás lenne.
+
+A Forresternél úgy vélik, az AJAX komponenseket fejlesztõ cégeknek szorosabban együtt kellene mûködniük a böngészõgyártókkal, hogy leküzdhessék ezeket a problémákat, azonban erre kevés esély van, tekintettel arra, hogy a Microsoft saját Silverlight technológiája éppen az AJAX egyik ellenfele. Az elemzõcég szerint a vállalati webalkalmazások fejlesztõinek nincs más választása, mint hogy az AJAX helyett a Silverlightot, esetleg az Adobe AIR-t használják platformként.

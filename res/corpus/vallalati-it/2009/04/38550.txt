@@ -1,0 +1,14 @@
+Itt a VirtualBox 2.2, érdemes frissíteni
+
+Itt a Sun Microsystems desktopvirtualizációs kliensszoftverének legújabb kiadása. Fõ kiadásként a VirtualBox 2.2 számos fontos újítást és rengeteg hibajavítást hoz magával a 2.1.4 verzióhoz képest, melyek együttesen mindenképpen érdemessé teszik a frissítést vagy a kipróbálást.
+
+
+
+A legtöbbeket érdeklõ változás valószínûleg az OpenGL gyorsítás véglegesítése, mely funkció a 2.1-es generációban még kísérleti stádiumban volt. Mindez azt jelenti, hogy a VirtualBox 2.2-vel virtualizált Linux és Solaris vendéggépek immár képesek OpenGL kódutat hardveresen gyorsítva végrehajtani, ami lehetõvé teszi a 3D-s alkalmazások vagy például a Compiz 3D-asztal megfelelõ sebességû futtatását.
+
+A legfontosabb újítások közé tartozik a VMware vezetésével kidolgozott szabványos virtuális képformátum, az Open Virtualization Format támogatása is, ami azt jelenti, hogy az ilyen formában érkezõ virtuális gépeket tudja importálni a VirtualBox 2.2, valamint a saját virtuális gépeit exportálni, így azok más virtualizációs platformra is átrakhatóak.
+
+Szintén említésre méltó a vendégek hálózati izolációjának képessége, a host-only networking mód, mikoris a virtuális gépek kizárólag a gazdával tudnak kommunikálni. Ezeken túlmenõen már akár 16 gigabájt memóriát is megcímezhetnek a 64-bites hoszton futó vendégek, valamint a fejlesztõk jelentõsen leszorították a kontextusváltás költségét, így teljesítménynövekedés is tapasztalható.
+
+
+A VirtualBox 2.2 által hozott változások listája erre található. A szoftver Windows, Linux, MacOS X vagy Solaris platformokon fut, és vendégként a Windows 3.1-tõl a Vistáig terjedõ verzióit a Linux 2.2, 2.4 és 2.6 kerneleit, a Solaris x86-ot, az OS/2-t, a Netware-t és a DOS-t képes befogadni. A VirtualBox legújabb verzióját szabadon le lehet tölteni innen, hozzá akár non-stop támogatás is vásárolható a Suntól.

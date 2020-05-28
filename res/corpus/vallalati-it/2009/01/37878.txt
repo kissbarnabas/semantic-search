@@ -1,0 +1,16 @@
+Frissült a Red Hat vállalati Linux-disztribúciója
+
+A Red Hat bejelentette vállalati disztribúciója, a Red Hat Enterprise Linux (RHEL) legújabb verziójának elérhetõségét -- a Red Hat-elõfizetõk már le is tölthetik a szoftvert a cég weboldaláról. Az 5.3-as verzió legfontosabb újdonságai a vállalat szerint a még jobb virtualizációs képességek, az újabb hardverek támogatása, valamint az OpenJDK megjelenése a disztribúcióban.
+
+
+
+A Red Hat Enterprise Linux 5 harmadik frissítésében a fõszerep a virtualizációé. 64 bites környezetben akár 126 processzort és 1 terabájt memóriát is kezel már a RHEL, egy virtuális gép pedig legfeljebb 32  processzorig és 80 gigabájt memóriáig "nyújtózhat". A virtualizáció alatt nyújtott teljesítményt a Hugepage memória és az Intel Extended Page Tables támogatása hivatott fokozni. Összességében a RHEL 5.3 a korábbinál nagyobb kapacitású virtuális gépek futását teszi lehetõvé még nagyobb teljesítménnyel.
+
+A RHEL 5.3 már támogatja az Intel Core i7 processzorokat, beleértve az olyan képességeket mint a Pentium 4 után újra megjelenõ Hyper-threading, valamint az energiatakarékos technológiák. A Nehalem-alapú Xeonok megjelenése márciusra várható, a Red Hat saját tesztjei szerint egyes üzleti alkalmazások alatt akár 70 százalékos gyorsulás várható az új chipgenerációtól, számításigényes környezetben (HPC) pedig több mint háromszoros gyorsulás is elképzelhetõ.
+
+Említésre méltó még a Systemtap megjelenése a disztribúcióban. A Systemtap egy alkalmazásfejlesztési segédeszköz a programok dinamikus monitorozásához és az esetleges problémák feltárásához. Korábban a Red Hat Enterprise Linux csak kernelmódú elemzést és optimalizálást tett lehetõvé, de az 5.3-as verzióban ez már felhasználói (user) módban is lehetségessé vált. A Systemtap segítségével dinamikusan lehet "ellenõrzõpontokat" adni a futó alkalmazásokhoz, ezzel a problémák valós környezetben tárhatók fel és javíthatók ki.
+
+
+ A Red Hat új vállalati Linuxa a laptopok, asztali gépek és szerverek biztonsága szempontjából is fontos új szolgáltatása a diszkek titkosítása, akár fájl- vagy blokkszinten. Az új telepítõ lehetõvé teszi a titkosítás beállítását már installáláskor és gondoskodik a root és swap eszközök védelmérõl is.
+
+Az új Red Hat Enterprise Linux már tartalmazza az OpenJDK-t, amely a Java SE 6 teljesen nyílt forrású implementációja, amely teljes bináris kompatibilitást biztosít a Java SE 6-ra és korábbi változatokra írt alkalmazásokkal. A felsorolt fejlesztések mellett a Red Hat Enterprise Linux 5.3 természetesen számos további újdoságot tartalmaz -- a megjelenést kísérõ dokumentum összesen több mint 150 frissítést sorol fel. 

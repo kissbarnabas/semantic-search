@@ -1,0 +1,16 @@
+Megfizethetõ NonStop-szerverrel jelentkezett a HP
+
+Új NonStop szervert jelentett be a HP, a mindössze 2U kivitelû NS2000 kis- és középvállalatok számára készült -- természetesen a kis- és középvállalat itt globális mércével értendõ, Magyarországon a célcsoport inkább nagy középvállalatokat és nagyvállalatokat, fõleg pénzintézeteket és telkókat jelent, ahol elvárás a rendszerek rendelkezésre állása.
+
+
+
+Az Integrity NonStop gépek megkülönböztetõ jegye a teljesítmény mellett az extra megbízhatóság, amelyet az alkatrészek redundáns védelme mellett a számítások eredményének ellenõrzése tesz lehetõvé. A NonStoppal lehetõség nyílik kétszeres és háromszoros számítási redundancia biztosítására az extrém megbízhatóságot követelõ rendszereknél. Ekkor kettõ vagy három mag szinkronban, úgynevezett lock-step módban üzemel. Ha bármelyiken hiba jelentkezne, azt a NonStop rendszer azonnal felismeri, elszigeteli, és ha kell, újra elvégezteti a mûveletet -- háromszoros redundancia esetében szavazással döntenek a helyes eredményrõl.
+
+Ha üzleti kritikus szerverrõl van szó, a legtöbben szobányi, de legalábbis gardróbszekrény-méretû berendezésekre gondolnak, az NS2000 azonban mindössze 2U kivitelû rackszerver, de közel ugyanazokat a szolgáltatásokat nyújtja, mint a tavaly piacra dobott NonStop blade, operációs rendszere is azonos (NonStop OS J-sorozat). Az NS2000-et két vagy négy processzorral, processzoronként 8 vagy 16 gigabájt memóriával lehet rendelni. Összehasonlításképp: a nagyobb NonStop-konfigurációk csomópontjai akár 8 vagy 16 processzorig is skálázhatók és fürtözhetõk, egy rendszerben akár 256 csomópont is lehet.
+
+ A HP olyan felhasználóknak javasolja a 150-160 ezer dollár körüli listaáron induló NS2000-et, ahol követelmény a megbízhatóság, a rendelkezésre állás és az adatok sérthetetlensége, azonban nem feltétlen van szükség a blade-alapú NonStoppal elérhetõ gigászi teljesítményre. Régiónkban pénzintézetek vagy távközlési szolgáltatók lehetnek az elsõ vevõk, az NS2000 teljesítménye az itt reálisan jelentkezõ legnagyobb igényeket is képes kiszolgálni -- mondta el a HWSW-nek Verbovszki Lajos, a vállalat üzleti kritikus szerverekért felelõs regionális vezetõje. Egy másik lehetséges felhasználás lehet tesztrendszerként bevetni az NS2000-et például a meglevõ blade-konfiguráció mellett, ugyanis annál jóval kedvezõbb áron kapható, azonos konfiguráció mellett akár 60 százalékkal is olcsóbb lehet, persze a blade által jelentett rugalmasság elvesztéséért cserébe.
+
+
+ A HP az NS2000-rel párhuzamosan olyan marketing-programokat is indított, amelyek pénzügyi szempontból még vonzóbbá teszik ezeket a gépeket. A korábbi NonStop-felhasználók S-sorozatú rendszerét kétszeres áron számolja be a HP NS2000 vásárlásakor, amely akár 0 százalékos lízing keretében is történhet.
+
+A vállalat az új "baby NonStoppal" lényegében lekopírozta az IBM õszi bejelentését. A Nagy Kék akkor a z10 mainframe-bõl mutatott be egy hasonló kategóriás, tehát 100 ezer dollár körüli listaártól induló változatot, amelyet a hagyományos mainframe-használóknál kisebb cégek, szervezetek is meg tudnak fizetni. A z10 Business Class olyan területeken lett elsõsorban népszerû mint India és Kína, sikerrel megnövelve az IBM-nek jól jövedelmezõ mainframe-piacot.

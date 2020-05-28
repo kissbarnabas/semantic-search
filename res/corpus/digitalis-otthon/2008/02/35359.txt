@@ -1,0 +1,16 @@
+Centrino 2 néven érkezik az Intel következõ notebook platformja
+
+[Digitimes/HWSW] Centrino 2 néven érkezik az Intel következõ generációs notebook platformja, állítja ipari forrásokra hivatkozva a Digitimes. A tajvani lap szerint a chipgyártó azért döntött a számozás bevezetése mellett, hogy segítse a fogyasztók tájékozódását.
+
+
+
+Az Intel a június elején Tajvanon megrendezésre kerülõ Computex 2008 számítástechnikai kiállításon tervezi útjára indítani a Centrino 2 platformot hat Penryn-alapú chippel egyetemben, melyek órajelei 2,26 és 3,06 gigahertz közé esnek. Szintén ekkorra esik a jelenlegi ismeretek alapján az ultrahordozható modellek számára kifejlesztett új, kompakt tokozás bevezetése is, melyet elsõként a rendkívül vékony, és mindössze 1,4 kilogrammot nyomó Apple MacBook Air alkalmaz. A Montevina által hozott legnagyobb változást vélhetõen az integrált grafikus chip driverének DirectX 10 támogatása, valamint az ugrásszerûen nagyobb 3D-grafikus teljesítmény képezi, de segíti majd a hosszabb akkumulátoridõt az alacsonyabb tápfeszültséggel üzemelõ DDR3-memória alkalmazása, valamint a 802.11n vezérlõvel nagyobb vezeték nélküli átviteli sebesség érhetõ el.
+
+A Digitimes szerint a notebookgyártók egyetértenek az Intel lépésével, ugyanis a legtöbb fogyasztó nincsen tisztában a specifikációkkal, vagy azok jelentésével. Az új márkázási stratégia frissítési keresletet gerjeszthet a felhasználók körében, vélik. Az öt évvel ezelõtt megjelent Centrino elnevezés a folyamatosan változó belsõ ellenére lényegében változatlan maradt, ami nem kommunikálta a piac felé a fejlõdõ technikai képességeket. Tavaly 109 millió hordozható PC-t szállítottak le összesen a vállalatok az értékesítési csatornákba az IDC szerint, miközben az Intel közel 90 millió mobil processzort adott el a gyártóknak a Mercury Research alapján.
+
+
+Az Intel 2003-ban dobta piacra a Centrinót, mely a márkanéven kívül két további, trendteremtõ újdonsággal bírt: kifejezetten a mobilitást szem elõtt tartó processzorarchitektúrát takart, a Banias kódnéven ismert Pentium M-et, valamint egységes platformot teremtett, alaplapi chipkészlettel és Wi-Fi vezérlõvel. A technikai tartalom az elmúlt négy év mindegyikében változott, ezt azonban a márkaneveken keresztül kevéssé kommunikálta az Intel: a kétmagos processzorok megjelenésekor bevezette ugyan a Centrino Duo és Solo neveket, azóta azonban újabb platform is megjelent a név alatt.
+
+[+] Az Intel 45 nanométeres processzorainak fõbb újdonságai
+
+Tovább nehezíti a vevõk tájékozódását, hogy az Intel 2006 óta szétválasztotta a processzorok és a platformok piacra dobását, ami azt eredményezi, hogy a két legutóbbi Centrino platform négyféle felépítést rejt, melyeket a kódnév utáni Refresh kiegészítéssel jelölnek. A 2006 legelején piacra dobott Centrino Duo, mely az új Napa platformot jelölte Core Duo (Yonah) processzorral, 2006 második felében frissítést kapott Core 2 Duo (Merom) chipekkel, amivel megszületett a Napa Refresh. A Core 2 Duo ezt követõen a Santa Rosával kapott új alapokat, majd a 45 nanométeres csíkszélességgel gyártott Penryn Core 2 Duókkal (8 és 9000-es sorozatok) kapjuk a Santa Rosa Refresht.

@@ -1,0 +1,11 @@
+Megérkeztek a 2010-es Norton termékek
+
+A három évig fejlesztett Quorum a fájlok különbözõ tulajdonságait vizsgálva igyekszik megvédeni a számítógépet a kártékony kódoktól. A program az állományok létrehozásának idejét, méretét, a letöltés forrását és más tényezõket felmérve minõsíti az adatcsomagokat, illetve összehasonlítást végez a Symantec saját tesztlaborjából, valamint más felhasználók számítógépeirõl gyûjtött adatokkal. A Quorum ezek alapján osztályozza az állomány veszélyességi szintjét - a fejlesztõk szerint ez a szkennelési módszer gyorsabb és hatékonyabb is, mint a hagyományos, heurisztikus keresés.
+A Symantec a 2009-es Norton-termékektõl kezdve - a korábbi felhasználói visszajelzéseket figyelembe véve - a biztonsági alkalmazások erõforrásigényének drasztikus csökkentését is célul tûzte ki maga elé. Ennek megfelelõen a 2010-es Norton termékek továbbra is rendkívül gyorsan (a gyártó szerint kevesebb, mint egy perc alatt) telepíthetõk, mûködés közben kevesebb memóriát foglalnak, illetve - részben a Quorum technológiának köszönhetõen - az átlagosnál jóval gyorsabban végeznek a merevlemez szkennelésével. A sebességnek azonban ára is van,  az Internet Security 2009 a gyors rendszerindítás alatt védtelenül hagyja a PC-t.
+
+A Norton Antivirus 2010 és Norton Internet Security 2010 ismét új felhasználói interfésszel érkezik, mely a Symantec szerint átláthatóbb és egyszerûbb kezelést nyújt mint a korábbi verziók. A Norton Internet Security 2010-be új szülõi felügyeleti modul és spamfilter is került, elõbbi az online elérhetõ OnlineFamily.Norton termékre, utóbbi a BrightMail technológiájára épül.
+A két új biztonsági alkalmazás honosított verziói egyelõre nem készültek el, az amerikai piacon mától kapható termékek rendre 40 (Norton Antivirus 2010) és 70 (Norton Internet Security 2010) dollárba kerülnek.	     
+                  
+                  
+                  
+                   

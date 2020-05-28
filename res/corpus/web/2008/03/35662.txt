@@ -1,0 +1,14 @@
+Elsõként az Opera teljesítette az Acid3 tesztet
+
+Egyelõre az Opera tûnik az Acid tesztek királyának, a nyárra várt 9.5-ös változat fejlesztõcsapatának blogbejegyzése szerint éjt nappallá téve dolgoztak azon, hogy kijavítsák a hibákat, és elsõként teljesítsék 100 százalékra a tesztet. A következõ hetekben egy technológiai elõzetes formájában minden internetezõ kipróbálhatja majd, mit jelent ez a gyakorlatban.
+
+
+
+Az Acid3 teszt a Web Standards Project által gondozott weboldal, ahol a szabványoknak megfelelõ böngészõk kompatibilitását vizsgálják. Számos böngészõ még az elõzõ, Acid2 tesztet sem képes teljesíteni, ahol egy sárga mosolygós arcot jelenítenek meg egy Hello World felirat alatt -- a smiley orra kékre változik, ha föléhúzzuk az egeret. Az Acid2 tesztoldal valójában nem is szabványos, a fejlesztõk célja egy olyan oldal létrehozása volt, amelynek kódja szándékosan hibás -- az Acid2 lényegében azt vizsgálja, mit kezdenek a böngészõk ezzel a hibás kóddal.
+
+
+Az Acid3 tesztben a jelenlegi böngészõk közül eddig egyedül a Safari volt képes maximálisan 90 százalékos eredményt elérni, a legutóbbi fejlesztõi változatok az Operával egyidõben érték el a 100 százalékot, azonban csak Mac OS X alatt. A legutóbb megjelent, 3.1-es változat csupán 75 százalékos eredményre képes, míg a Firefox 3.0 negyedi bétája 68 százalékkal, a Firefox 2 (2.0.0.13) pedig 52 százalékkal vérzik el. Az Internet Explorer 7 eredménye teljesen értékelhetetlen, 12 százaléknyi csupán.
+
+Windowson az Operának sikerült elsõként
+
+Az Opera 9.5 végleges változata várhatóan nyáron jelenik majd meg. A böngészõ népszerûsége 2004-ben volt csúcsán, azóta bár ingyenessé is vált, a Firefox teljesen perifériára szorította. Egy nemrég készült felmérés szerint az Opera csak 1 százalékos részesedéssel rendelkezik a hazai böngészõpiacon.

@@ -1,0 +1,22 @@
+Bedobta a törölközõt a Transmeta, és vevõt keres
+
+Hivatalos közleményben jelentette be a Transmeta, hogy vevõt keres. Az alacsony fogyasztású x86-os chipek gyártásából, késõbb energiatakarékos technológiáinak licencelésébõl élõ cég, amely egy ideig még Linus Torvaldsot is az alkalmazottai sorában tudhatta, ezzel befejezi pályafutását. A vállalat közleménye szerint több hónapos útkeresés után a vezetõk úgy döntöttek, a részvényesek érdekeit az szolgálná a legjobban, ha eladnák a céget.
+
+
+
+A cég emellett bejelentette, hogy egy újabb licencmegállapodást kötött az Intellel, amelynek értelmében a világ legnagyobb chipgyártója egy összegben több mint 90 millió dollárt fizet a Transmetának bizonyos technológiák felhasználásáért. Tavaly októberben egy másik megállapodás keretén belül az Intel 150 millió dollárt fizetett a Transmetának.
+
+Csak egyszer lehet hibázni
+
+A Transmetát 1995-ben alapították kimondottan alacsony fogyasztású mobil chipek tervezésére. Az elsõ öt évében titokban mûködõ cég az ezredfordulón még azzal lépett a nyilvánosság elé, majd vonult tõzsdére, hogy megveti lábát a notebookok és más mobileszközök piacán. A koncepció alapját az képezte, hogy az x86-os kompatibilitást alacsony szintû szoftverréteggel biztosítják, míg a processzor felépítését rendkívül egyszerûen tartják, amivel megfelelõen nagy teljesítmény érhetõ el 1-2 wattból is.
+
+A vállalat végül villámgyorsan elbukott már elsõ piacra került fejlesztésével, minden iparági támogatás ellenére. A Crusoe nevû chip a TSMC szerzõdéses gyártó mûszaki nehézségei miatt késõn érkezett, és teljesítménybeli problémákkal küszködött, a piac pedig ezt látva a dotkom lufi kipukkadását követõen, már 2001 elsõ felében lemondott a Transmetáról, mint az Intel életképes kihívójáról. Eközben az Intel piacra dobta a Centrino platformot, amivel egyszerûen minden riválist lesöpört a mobil processzorok piacán, beleértve a Transmetát is.
+
+A Transmeta második próbálkozása, az Efficeon ugyan minden tekintetben versenyképes volt még az Intel Banias-szal is, de üzleti oldalról nem tudta már jóvá tenni azt, amely a Crusoe-val elúszott. A Transmeta partnerei kihátráltak mögüle, a vállalat pedig nem tudta tovább finanszírozni veszteségeit, így végül kivonult a processzorpiacról, és a kutatás-fejlesztések során felhalmozott know-how és technológiák értékesítése felé fordult. A Transmeta technológiáit olyan cégek licencelték, mint a Fujitsu, a Sony, a Toshiba, az NVIDIA és az Intel.
+
+A nagyok maradhatnak
+
+
+ A Transmeta jövõje finoman szólva is bizonytalan. Hogy a vevõk eddig sem tolongtak, az valószínû, hiszen a vezetésnek nem kellett volna "apróhirdetést" közzétennie arról, hogy a cég eladó. Miután a cég kivonult a processzorpiacról, fejlesztõmérnökeinek java részét elbocsátotta, így lényegében a szellemi tulajdon az egyetlen, amely pénzzé tehetõ -- de ezt az érdekeltek amúgy is licencelhetik saját termékeikhez.
+
+A Transmeta példája jól mutatja, hogy az x86-os piacon mennyire nincs már hely új szereplõk számára. Idén tavasszal a nagy reményekkel induló, szintén x86-os processzort fejlesztõ Montalvo Systems tûnt el a süllyesztõben anélkül, hogy valaha is egyetlen terméket piacra dobott volna. A Montalvót egyébként a Transmetától elbocsátott mérnökök alapították 2006-ban, a céget pedig a Sun Microsystems vásárolta fel egy meg nem nevezett összegért.

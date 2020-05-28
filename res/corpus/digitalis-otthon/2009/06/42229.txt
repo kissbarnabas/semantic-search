@@ -1,0 +1,45 @@
+Kipróbáltuk az Acer ION-alapú nettopját
+
+Az NVIDIA ION platformját szívként alkalmazó termékek piaci bemutatkozásának ideje elérkezett, sorra jelentik be a gyártók az ezt alkalmazó netbookokat, nettopokat, de még Mini-ITX szabványú alaplapokra is van már példa. Ha a legalapvetõbb feladatokat bízzuk a gépre, az Intel Atom processzorának teljesítménye épp elegendõ, azonban ha a levelezés, böngészés, szövegszerkesztés, táblázatkezelés&nbsp; körébõl kimerészkedünk, igen komoly korlátokkal találhatjuk szemben magunkat. Természetesen a multimédiás területre gondoltunk, ahol egy szürke netbook már hamar elvérzik. HD-videók folyamatos lejátszásáról a chipsetbe integrált Intel videovezérlõt alkalmazó netbookok tulajdonosai nem is álmodhatnak.
+
+
+
+
+A nettopok esetében a képfrissítés elégtelen sebessége a netbookokhoz képest hamarabb jelentkezik, mivel hozzájuk aligha kapcsol valaki 1024x600 pixeles felbontású monitort. Az ION-alapú gépek számára már gond nélkül használhatunk nagyobb kijelzõt, a DirectX 10 támogatása mellett a teljes 1080p HD-vidók lejátszásának ígéretével. Az ION platform mindemellett a Windows XP-nél távolabb is lát, az AspireRevo például hozzánk Windows Vista operációs rendszerrel érkezett, mely a futás során nem nélkülözte a plusz lehetõségeit, effektjeit a megjelenítés terén.
+
+HDMI, eSATA
+
+Az Acer AspireRevo fura formájú lapos gép. A paralelogramma alakú, mattfehér és lakkfekete színkombinációjú gépház mellé saját, stílusban passzoló billentyûzet és egér is jár. A géphez 65 wattos tápegységet csomagol az Acer, amely alig nagyobb mint a gyártó Aspire One netbookjának 30 wattos tápja. Az ApireRevóban egymagos, 1,6 gigahertzes Intel Atom 230 processzor dolgozik az ION GeForce 9400M videochipjével, a rendszert kétcsatornás vezérlõre kötött, 2 gigabájtnyi 800 megahertzes memória és 160 gigabájtos merevlemez táplálja.
+
+
+
+ 
+Az AspireRevo álló használatra termett. A gép talpa átlátszó mûanyag és leginkább egy tálcára emlékeztet, feladatára azonban tökéletesen alkalmas, az erre kiképzett mélyedésbe pattintva a Revo stabilan áll benne, ráadásul a billentyûzet vezetéke is elfér a pereme alatt. A nettop a géptetõ egyik sarkában jókora bekapcsológombot tart, mely alatt fehér LED világít. Remélhetõleg ez a vakító kék LED-ek korának végét jelenti.
+
+A gépház oldalait körbejárva rengeteg csatlakozót találunk, természetesen leginkább a hátoldalra és az elõlapra csoportosítva. A felénk esõ oldalon hang ki- és bemeneteket, xD-t is fogadni képes multiformátumú kártyaolvasót és egy eSATA-kaput láthatunk, hátul ezeket VGA- és HDMI-kimenet, négy USB-port és LAN-aljzat egészíti ki. A billentyûzet és az egér az USB-csatlakozási pontokból kettõt is elvesz, de a veszteséget a tetõn található és a bekapcsológomb alatti, saját fedéllel rejtett portok pótolják.
+
+Ionizáljunk!
+
+A gép bekapcsoláskor jól megpörgeti a ventilátorát, ehhez hasonlatos hangerõt és fordulatszámot ezután még terhelt üzem során tapasztalhatunk, ha közel hajolunk a szellõzõnyíláshoz, maximum&nbsp; halk fújást hallhatunk, mely még 3D-játékok futtatása során sem emelkedett igazán hallható magasságokba. A gép fogyasztása kellemes jellemzõ, arányban áll a csendes üzemével és a csekély melegedésével, a üresjáratban 21-23 wattot mértünk, de a mutató akkor sem kúszott 30 watt fölé, ha a meghajtottuk a gépet, a Crysis alatt pedig azért kellett rendesen számolnia.
+
+
+
+
+Megnéztük, hogy a nettop miképp viseli a 3D-s játékok futtatását, a próbához a Crysis demóváltozatát választottuk. A játék gondmentesen települt a merevlemezre, ám játszani csak 800x600 képpontos felbontásban lehetett vele, ennél magasabb felbontást nem választhattunk ki, pontosabban a kiválasztás után is maradt az eredeti 800x600-as beállítás. Az alacsony felbontáshoz alacsony részletességet kellett társítani, ám ettõl eltekintve a folyamatos képfrissítés mellett már megfelelõ volt a játékélmény. A gép mindeközben sem melegedett sokkal a kézmeleg hõmérséklet fölé, ráadásul zajossá sem vált. 
+
+A nettop a tapasztaltakra alapozva játékok futatására csak korlátozottan használható, igaz közelítés kérdése, de ebben a kategóriában nem várható el, hogy a processzor és a grafikus mag azt a szintet hozza, mint korunk csúcstermékei. Ezért inkább arról van szó, hogy amíg egy Intel-vezérlõvel ellátott nettop esetében a játszhatóságért 6-7 évvel korábbra kellett a 3D-s tételek között az idõben visszanyúlni, addig ez az ION esetében 3-4 évre csökkent.&nbsp;
+
+HD-videó, csak megfelelõ lejátszóval
+
+Az AspireRevo HD-videókat is képes elénk tárni, igaz ehhez olyan lejátszóra van szüksége, mely használja a videochip által kínált hardveres gyorsítást, erre például a PowerDVD 9 is alkalmas. lyenkor akár 1080p felbontású videókkal is megbirkózik az ION, a processzorterhelés távolról sem 100 százalékos, hirtelen csúcsoktól eltekintve még az 50 százalékot sem érte el, jellemzõen 30 százalékalatt maradt. A gép a folyamatos lejátszást 1680x1050 képpontos felbontás mellett monitoron és a HDMI-kaput használva 1920x1080 pixelben a HD-tévéken is képes nyújtani, ezért az íróasztalon és a tévé mellett is állandó helyre lelhet.
+
+A komoly gondokat nem a filmek lejátszása jelenti, hanem a webes tartalmaké, a nagyfelbontású YouTube-videók például csak diavetítésként nézhetõk meg, megfelelõ képfrissítési sebességre sajnos képtelen az 1,6 GHz-es Atom -- ezen az Adobe Flash késõbbi, a videolejátszás hardveres gyorsítást támogató változata segíthet. A vékony gépházban optikai meghajtót nem kapunk, ezt épp a HD-videók lejátszására alkalmas részegységek miatt hiányoljuk igazán, lehet, hogy jobb döntés lett volna drágábban ugyan, de a Revót vastagabb burkolattal és az az alá már beférõ Blu-ray meghajtóval szállítani.
+
+
+
+
+Nincs benne kijelzõ és nincs akksija
+
+Az Acer AspireRevo szerethetõ masina, nem jelent számára problémát a netezés, az irodai alkalmazások futtatása, illetve a HD-filmek lejátszása sem, bár ehhez feltétlen szükséges, hogy a videókat a hardveres gyorsítást támogató szoftverrel játtszuk le. A 7.1 csatornás hangrendszer fülhallgatón keresztül is elfogadható zajszint mellett közvetíti a hangokat. A géppel játszani is lehet, egy pár évvel visszanyúlva az idõben már 3D-s játékok közül is válogathatunk.
+
+Az ár természetesen egy nettop esetében nagyon fontos kérdés:.az AspireRevo legolcsóbb, 8 gigabájtos SSD-vel szerelt Linux operációs rendszerrel szállított változata 60 ezer forintba fog kerülni, ennél a nálunk járt tesztpéldány a 120 gigabájtos merevlemezzel és a Vistával csak drágább lehet, de pontos számot a cég nem közölt. Az ION-köré épülõ netbookok is érkezõfélben vannak, ezért érdemes meggondolni, hogy mennyit érhet azok kijelzõje, illetve szünetmentes tápként is felfogható akkumulátora, melyeket egy nettop csak külön, plusz pénzért tudhat maga mellett.

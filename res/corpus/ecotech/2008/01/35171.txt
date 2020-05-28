@@ -1,0 +1,14 @@
+Megnõtt az erõsebb processzorok népszerûsége, rekordot döntött a piac
+
+[IDC/HWSW] Rekordméretû forgalmat bonyolított az x86-os processzorpiac a negyedik negyedév során, áll az IDC legfrissebb jelentésében. A piackutató adatai szerint a legmagasabb növekedést a szerverprocesszorok produkálták, valamint a felsõkategóriás termékek aránya is emelkedett az összes szegmensben, így az átlagos eladási ár is felfelé mozdult el.
+
+
+
+A szerverprocesszorok szállításai 17 százalékkal növekedtek, miközben mobilprocesszorokból 10,3 százalékkal adtak el a gyártók többet, ami hozzájárult ahhoz, hogy a teljes piac értéke elérje a 8,7 milliárd dollárt a negyedév során. Az asztali chipek volumene mindössze 6,5 százalékkal bõvült, ugyanakkor a felsõkategóriás processzorok aránya emelkedett, így a mainstreammel együtt a volumen 87,1 százalékát tették ki -- vagyis a belépõkategóriájú termékek mindössze 12,9 százalékot hasítottak ki.
+
+
+A drágább processzorok arányának emelkedését az Intel és az AMD agresszív árazása, valamint a Windows Vista megfelelõ futtatásához szükséges erõteljesebb konfigurációk iránti növekvõ igény magyarázza, véli az IDC. Ez az évvégi erõsödés némileg ellensúlyozta az év elsõ felét jellemzõ árcsökkentéseket, így 2007 során az x86-os processzorok piaca 30,5 milliárd dollárt tett ki, ami 1,7 százalékkal nagyobb az egy évvel korábbinál. A volumen 12,6 százalékkal emelkedett. 
+
+A negyedik negyedévben az Intel a processzorok 76,7 százalékát szállította, 0,4 százalékponttal többet a harmadikhoz képest, míg az AMD ugyanekkora olvadást követõen 23,1 százalékot szerzett meg. Szegmensekre lebontva az Intel fölénye a szerverpiacon a legnagyobb, a szállítások 86,4 százalékát hasította ki, míg az AMD 14,6 százalékot szerzett meg az Opteronokkal. A notebookok terén ezek az arányok rendre 81,9 illetve 17,8 százalékot tesznek ki, míg az asztali chipek terén 72,1 és 27,7 százalék körül alakulnak. 
+
+Az IDC a kilátásokkal kapcsolatos véleménye tükrözi az Intel és pénzpiaci elemzõk figyelmeztetéseit. A piackutató szerint a szezonálisan szokásos 6-7 százalékos visszaesés az Egyesült Államokat sújtó recessziós aggályok következtében nagyobb mértékû lehet az elsõ negyedév során. Ezt azonban ellensúlyozhatja a dollár gyengesége, mely olcsóbbá teszi a processzorokat más piacokon, jegyzi meg a cég.

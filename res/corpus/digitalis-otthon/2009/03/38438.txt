@@ -1,0 +1,50 @@
+Kipróbáltuk: Linksys by Cisco NMH405 Media Hub
+
+A Linksys by Cisco nevét eddig jobbára az átlagosnál bõvebb funkciótárházzal rendelkezõ, felsõkategóriás otthoni vagy kisirodai hálózati eszközökkel kapcsolhattuk össze. A vállalat routereivel, vezeték nélküli hozzáférési pontjaival és hasonló berendezéseivel komoly elismertséget vívott ki magának a szakmában. A cég vadonatúj hálózati adattárolója, a Media Hub kicsit kilóg a sorból, annyiban legalábbis mindenképpen, hogy ez készülék kifejezetten az otthoni felhasználóknak próbál egy sokoldalú, ezzel együtt könnyen kezelhetõ hálózati háttértárat kínálni. A megoldás ennek megfelelõen kissé felemásra is sikeredett.
+
+
+
+A hozzánk eljutott Media Hub az NMH405 típusjelzést viselte, az eszköz a négy tagból álló termékkínálat második legerõsebb tagjának számít. A NAS egy 500 gigabájtos, különösen energiatakarékos üzemmódot ígérõ Western Digital GreenPower merevlemezzel érkezik -- van a sorozatban egy nagyobb kapacitású, 1 terabájtos példány is, melyben ugyanúgy egy merevlemezt építenek gyárilag.
+
+
+
+
+
+A HDD-t könnyen, a csillogó fekete dobozka fedelének lepattintása után lehet elérni: a Media Hub két fiókkal rendelkezik, mindkettõ Serial ATA merevlemezt fogad. Ha két HDD-t építünk a NAS-ba, azok RAID üzemmódban is használhatók (azonban csak a redundáns adattárolást biztosító RAID 1 mód érhetõ el velük a JBOD mellett). Az NMH400-as sorozat további sajátossága a különbözõ mûködési paramétereket kijelzõ, 1,8 hüvelykes képátlójú színes LCD-kijelzõ, valamint a memóriakártya-olvasó, mely Compact Flash, Secure Digital, MultiMedia Card és Memory Stick kártyákat fogad. Az NMH300-as sorozat tagjaiba sem LCD-t, sem kártyaolvasót nem építenek.
+
+
+
+A dizájnos mûanyag doboz elõlapján ezen kívül navigációs gombot, bekapcsológombot és egy USB-kaput is találni, a hátoldalon pedig csak a legszükségesebb csatlakozók, azaz egy tápbemenet, egy Gigabit Ethernet port és egy további USB-kapu sorakozik egymás mellett. A Media Hub NMH405 kizárólag vezetékes összeköttetéssel csatlakoztatható a hálózathoz, a bekötés elõtt azonban ajánlott a készülék dobozában lapuló telepítõlemezt elõbányászni. Nem azért, mert anélkül nem mûködik az eszköz -- a telepítõvarázsló a kezdõ felhasználókat kívánja segíteni a hardver megfelelõ összeállításában, de a telepítéskor megadott jelszó kell a webes eléréshez is.
+
+NAS kezdõknek
+
+Miután a Media Hubot összekötöttük a routerünkkel, a NAS máris használatra fogható, és felderíthetõ, mint hálózati adattár. Ettõl függetlenül jól jöhet a CD-rõl telepíthetõ Media Importer alkalmazás, mely a számítógépen kijelölt vagy automatikusan felderített médiafájlokat másolja át a NAS megfelelõ könyvtárába. A rendszer az elsõ beállítástól kezdõdõen folyamatosan szinkronizálja az adott könyvtárak tartalmát a Media Hubbal, így a változások (új fájl, megváltozott fájl) automatikusan átvezetõdnek az adattárolóra. A gyártó azokra is gondolt, akik idõrõl-idõre biztonsági mentést készítenének adataikról, számukra az NTI Shadow backup-alkalmazást helyezték el a CD-n.
+
+
+
+
+
+A hálózati merevlemez tehát elérhetõ bármelyik hálózatba kötött PC-rõl, a Media Hub ugyanakkor egy webes kezelõfelületet is nyújt, mely nemcsak a szokott módon paraméterek beállítására, hanem a tartalom böngészésére és lejátszására, megjelenítésére is alkalmas. Az Adobe Flash alapokra épülõ kezelõfelület elõhívásához a http://mediahub/ címet kell begépelni a böngészõbe, majd a telepítéskor megadott jelszó megadása után rövid gondolkodási idõ után megjelenik a kissé szokatlan kezelõfelület, melyet mi ugyan kissé csicsásnak láttunk, de bizonyára sokan fogják szeretni modern látszatot keltõ külseje miatt.
+
+
+A Media Hub kezelõfelülete két fõ blokkra különül el, így a fent található ikonsorral a különbözõ jellegû médiafájlok és a beépített fájlkezelõ hívható elõ, az alsó blokkban pedig az állományok, albumok miniatûrjei jelennek meg, valamint itt nyílik meg a fájlkezelõ ablaka is. A fõoldalon tájékoztatást kapunk a háttértár felhasznált és szabad tárterületérõl, továbbá itt jelenik meg a Media Hubhoz kapcsolt USB-s adattároló, valamint a memóriakártya is.
+
+
+
+
+
+A kezelõfelület konfigurációs panelje cseppet sem tekinthetõ bonyolultnak, alig néhány paraméter állítható, emellett lekérdezhetõ az eszköz státusza is (IP-cím, munkacsoport neve, üzemidõ, firmware-verzió stb). A Media Hub médiaszerverként is mûködik, azaz a médiafájlokat tartalmazó mappák tartalmát böngészhetõvé teszi a UPnP/DLNA-kompatibilis kliensek, például számítógépek, hálózati médialejátszók vagy játékkonzolok számára. Hasonlóan mûködik az iTunes szerver funkció is -- mindkét üzemmód kikapcsolható a konfigurációs felületen.
+
+Távoli rálátás
+
+A Media Hubon tárolt adatokhoz távoli eléréssel is hozzá lehet férni, így adott a hagyományos FTP-csatlakozási lehetõség, valamint a Linksys by Cisco saját webes felületérõl indítható böngészõs elérés is, mely az eszköz regisztrálása után a jelszó teljes hozzáférést nyújt a Media Hub flashes felületéhez, bárhonnan, bármilyen számítógéprõl. Ez az üzemmód az internetkapcsolatok sebességétõl függõen értelemszerûen nem feltétlenül a legalkalmasabb például HD-videók távoli streamelésére, de arra jó, hogy az otthoni NAS-on tárolt zenéket vagy képeket bármikor meg tudjuk mutatni távol élõ családtagjainknak, barátainknak, vagy akár mi magunk is hozzájuk férhessünk a munkahelyünkrõl.
+
+A NAS kezelõfelületének használata amúgy a fejlesztõk minden jó szándéka ellenére olykor meglehetõsen körülményesnek tûnik: a flashes menük nem reagálnak elég gyorsan, távoli elérésnél még lassabb a navigáció, emellett a videók/képek lejátszása bizonyos esetekben csak a meglehetõsen korlátozott képességû beágyazott médialejátszóval lehetséges. A fájlkezelõ mûködése sem magától értetõdõ, így a billentyûzetparancsokból például egyáltalán nem ért a felület, a szokásos szerkesztõgombokra semmit nem reagál a rendszer.
+
+
+
+
+
+A Linksys by Cisco Media Hub családja alapvetõen otthoni használatra, multimédiás tartalmak megosztására szánt hálózati adattár, ennek megfelelõen néhány, az otthoni felhasználó számára hasznosnak tûnõ funkcióval, ugyanakkor jócskán leegyszerûsített kezelõfelülettel. Bár néhány funkció (vezeték nélküli hálózati csatlakozás, torrent-kliens, integrált lejátszóhardver) hiányozhat a repertoárból, nem lennénk meglepve, ha a Media Hub család hamarosan ezekkel feldúsított, fejlettebb tagokkal egészülne ki. 
+
+Más kérdés, hogy a Cisco név kötelez alapon így is meglehetõsen drágán méri a készülékeket: a Media Hub termékeket nálunk még nem lehet kapni, az általunk tesztelt NMH405-ös típust azonban tõlünk nyugatabbra 350 euróért lehet megvásárolni.

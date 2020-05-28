@@ -1,0 +1,22 @@
+HP: a legtöbb adatközpont egy kupleráj!
+
+A ma használt adatközpontok túlnyomó része nem következetes tervezés, hanem toldozgatás-foltozgatás eredménye, emiatt átláthatatlan, kezelhetetlen pénznyelõ -- vélik a HP szakértõi. Az üzleti környezet, a feladatok, az alkalmazások ma már annyira megváltoztak, hogy sok évvel ezelõtt kialakított megoldások ma már képtelenek hatékonyan ellátni a feladatukat, ezért elkerülhetetlen az adatközpontok átalakítása.
+
+
+
+Toldozás-foldozás helyett újragondolás
+
+Enrico Albertin, a HP Network Solutions Group regionális üzletfejlesztési vezetõje a HWSW-nek tegnap adott interjújában arról beszélt, még ma is elterjedtek az informatikai "silók", amelyek átláthatatlanul bonyolult rendszert alkotva szinte lehetetlenné teszik a hatékony üzemeltetést. Ez különösen igaz Magyarországon, fûzte hozzá Rejtõ Barnabás, a HP hálózatintegrációs üzletágvezetõje, ahol a nagyvállalatoknál az egyes vezetõk saját játszóterükként kezelik a rájuk bízott rendszereket. Ezeket -- a korábbi befektetések megtartásával -- azonban át lehet alakítani olyan módon, hogy megfeleljenek a mai felfogásnak, egyszerûbben és hatékonyabban lehessen üzemeltetni õket, ezáltal jelentõs költséget takarítva meg. A változtatásra általában olyan problémák kényszerítik rá a cégeket, melyeket már ezek az IT-silók önállóan már képtelenek önerõbõl eredményesen megoldani.
+
+
+ Albertin szerint sok vállalat vagy szervezet informatikai infrastruktúrájának alapjai akár egy évtizedre nyúlnak vissza és az akkor létrehozott rendszert idõközben csak toldozták-foldozták, egyre növelve a káoszt. Az ügyfél nevének említésre nélkül a szakember elmondta, praxisában már elõfordult olyan eset, amikor egy adatközpont felmérésénél kiderült, a szervereken futó alkalmazások közel harmadát már senki sem használja. Miért voltak mégis ott? Mert senki sem tudta mire valók, és senki nem mert hozzájuk nyúlni.
+
+Bár egy adatközpont átalakítása végsõ soron mûszaki megoldásokra, azaz termékekre és technológiákra fordul le, valójában a változást a fejekben kell elindítani, ez a legfontosabb, véli Albertin. Új szemléletmód meghonosítására van szükség, amely mentén egy vállalat vagy szervezet informatikai részlege egyfajta szolgáltatóként képes mûködni, rugalmasan igazodva a folyamatosan változó igényekhez -- ezt persze már az olyan új technológiai megoldások teszik lehetõvé mint a szerver- tároló- és alkalmazáskonszolidáció, az egységes adathordozó közeg (unified fabric), illetve a virtualizáció.
+
+Az adatközpontok átalakítása silók halmazából egy szabványokon alapuló, moduláris erõforrássokból álló rendszerré nem csak egyszerûbbé teszi a felügyeletet és olcsóbbá az üzemeltetést, hanem az üzleti környezet változásainak követését is megkönnyíti -- mutatott rá Albertin. Ez nem csak a napi üzletmenetre igaz, jelen gazdasági helyzetben nem ritkák a felvásárlások, összeolvadások, illetve az sem, hogy egy vállalat leválasztja valamely tevékenységét, ezek a lépések pedig természetesen az informatikai infrastruktúrát is érintik, és kritikus jelentõségû a változások egyszerû, gyors és megbízható lekövetése.
+
+HP és Cisco: együtt és egymás ellen
+
+A HP azon kevés cég közé tartozik, amely átfogó megoldást tud nyújtani az ilyen problémákra, mivel kínálatában fellelhetõk szerverek, tárolók, hálózati berendezések, valamint felügyeleti szoftvermegoldások egyaránt -- vélekedett Albertin. A cég emellett szoros kapcsolatot ápol a Cisco Systemsszel (a két globális Gold Partner egyike), ennek köszönhetõen a portfólió még tovább szélesedik a hálózati megoldások terén. Emellett -- tette hozzá Albertin -- a HP már több ezer ilyen projekt tapasztalatával a háta mögött olyan implementációs tudást halmozott fel az adatközpontok területén, amellyel kevesen tudnak versenyezni.
+
+Magyarországon is több ilyen projekt van már a HP-szakemberek háta mögött, elsõsorban a pénzügyi szektorban, további érdeklõdést, megrendeléseket pedig leginkább az államigazgatási intézményektõl várnak -- mondta el a HWSW-nek Rejtõ Barnabás. A Cisco napokban megerõsített szerverpiacra lépésével kapcsolatban Rejtõ hangsúlyozta, hogy Magyarországon különösen jó és régi kapcsolatot ápol a két cég, és nem hiszi, ezt bármi megzavarhatja. "Semmi nem fog változni. Szükségünk van rájuk a hálózatokban. Õszintén szólva nem látom problémának [a Cisco szerverpiaci megjelenését]" -- tette hozzá Albertin.

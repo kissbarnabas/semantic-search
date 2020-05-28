@@ -1,0 +1,26 @@
+Egy hónapon belül több új Eee PC-vel bõvül a hazai üzletek kínálata -- hiány várható az atomos gépekbõl
+
+Augusztus végéig négy új modellel egészül ki az Asus tavaly bemutatott, ám hozzánk csak idén tavasszal elért Eee PC-inek itthoni kínálata. A kis méretük ellenére viszonylag olcsó, elsõsorban internetezésre alkalmas hordozható számítógépeivel kategóriateremtõ gyártó, az Asustek új, flashmemóriás háttértárral és merevlemezzel ellátott, 8,9 hüvelykes és 10 hüvelykes kijelzõkkel felszerelt típusokkal bõvíti a kínálatot. 
+
+
+
+A már kapható modellek forgalmazása ezzel együtt nem szûnik meg, az Eee PC 701 és 900 modellcsalád továbbra is a boltok polcain marad -- tudta meg lapunk Banga Zsuzsannától, az Asus Magyarország Kft. marketingesétõl. Aki viszont Atom processzoros gépet akar magának, jobb lesz, ha már most lefoglal az elsõ szállítmányokból, ezekbõl a konfigurációkból ugyanis minden valószínûség szerint átmeneti hiány várható -- bár ezt az információt a képviselet nem erõsítette meg lapunknak.
+
+Aki elég gyors, Atomot kap
+
+Azok számára, akik rendszeresen, mindenhová magukkal hordanák Eee PC-jüket, elsõsorban az alacsony áramfelvételû, 1,6 GHz-en ketyegõ Atom processzorral és 20 gigabájtos SSD-vel felszerelt Eee PC 901-es modellt ajánlja a gyártó. A gépcsalád Magyarországon forgalomba kerülõ változatába 1 gigabájtnyi memóriát építenek, a 802.11g kompatibilis Wi-Fi mellett ellátják Bluetooth kommunikációs modullal is, valamint webkamerát is szerelnek a 8,9 hüvelykes TFT-t rejtõ kijelzõkeretbe. A mindössze 1,1 kilogrammos hordozható számítógép a már ismert, honosított kezelõfelülettel ellátott Linuxszal kerül forgalomba.
+
+Az Eee PC 901-gyel egy idõben, két héten belül forgalomba kerül a nagyobb, 10 hüvelykes, WSVGA (1280x600 pixeles) felbontású kijelzõvel ellátott Eee PC 1000H, mely szintén Atom processzort, 1 gigabájt memóriát, ám SSD helyett egy 80 gigabájtos HDD-t kap majd. Erre a gépre már nem Linuxot telepítenek az Asusnál - az Eee PC 1000H Windows XP-vel elõtelepítve érkezik. A legnagyobb Eee PC esetében a nagyobb képfelületért és a kényelmesebb billentyûzetért cserébe megnövekedett súllyal kell számolni: a konfiguráció tömege azonban még így is csak 1,45 kilogramm lesz, hordozása tehát még így sem okozhat problémát hosszabb távon sem.
+
+Eee PC 904
+
+Bõ egy hónap múlva -- augusztus második felében -- további két új Eee PC típus érkezik a magyar boltokba: a 10 hüvelykes kijelzõvel ellátott Eee PC 1000 házát kapja az Eee PC 901-es kijelzõjével ellátott Eee PC 904HD, melyben az elsõ típusokkal érkezett, 900 MHz-es Celeron processzor lapul -- így az akkumulátoros üzemidõ az Atom processzoros verziókhoz képest valamelyest csökkenhet -- a szélesebb háznak köszönhetõen azonban nagyobb, használhatóbb billentyûzete is lesz a készüléknek. Az Eee PC 904HD 80 gigabájtos merevlemezére Windows XP-t telepítenek a gyárban, ebbõl a típusból már hiányzik a Bluetooth-modul és 1,3 helyett 0,3 megapixeles webkamerát építenek csak az 1,36 kilogrammos gépbe.
+
+Átmeneti megoldások
+
+A fenti konfigurációval együtt kerül forgalomba az Eee PC 1000H Celeron processzoros verziója -- az Eee PC 1000HD a processzor típusát leszámítva minden más paraméterét tekintve megegyezik az Atom processzoros variánssal. Az Asus Magyarország illetékese nem kívánt reagálni a HWSW felvetésére, mely szerint a HD-vel jelzett modellek valójában átmeneti megoldásként, a gyártókapacitás lekötése végett kerülnek forgalomba addig, amíg az Intel nagyobb volumenben nem kezdi szállítani az energiatakarékos Atom CPU-kat az Eee PC-k számára. 
+
+
+Ezeket a processzorokat az Asus mellett több más gyártó, így egyebek mellett az MSI, vagy az Acer közt osztja fel az Intel. Utóbbi az egyik legnagyobb piaci szereplõként -- és az Intel szoros partnereként -- idén több mint hatmillió Atom processzoros Aspire One netbook leszállítását tervezi, így a készletek jelentõs részét felszippanthatja riválisai elõl.
+
+Az Asus magyarországi képviseletének illetékese egyelõre nem árulta el, hogy az újonnan piacra kerülõ Eee PC konfigurációk mennyibe fognak kerülni hazánkban.

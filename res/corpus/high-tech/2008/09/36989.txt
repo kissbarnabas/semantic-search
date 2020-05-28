@@ -1,0 +1,14 @@
+Megérkezett az Intel kétmagos Atomja, egyelõre olcsó asztali gépekbe
+
+Az Intel hivatalosan is megkezdte a kétmagos Atomok szállításait, egyelõre kizárólat nettopok, vagyis kimondottan internetezésre tervezett olcsó asztali gépek számára.
+
+
+
+Az Atom 330 ugyanúgy 1,6 GHz-en mûködik mint az Atom 230, két magjához összesen 1 megabájt L2 cache csatlakozik. A két programszál párhuzamos futását lehetõvé tevõ Hyper-threading továbbra is része a magoknak, így az Atom 330-on egyszerre összesen négy szál futhat -- ne feledjük, egy szuperolcsó gépekbe tervezett chiprõl van szó! A magok számának duplázásával a fogyasztás és hõtermelés is kétszeresére nõtt, de az Atom 330 TDP-je még így is csupán 8 watt.
+
+ Az Atom 330 az Intel 945GC Express chipkészlettel együtt, egy csomagban vásárolható meg 43 dollárért. A desktop-szegmensbõl rég kifutott, de a feladatra tökéletesen alkalmas lapkakészlet DDR2 memóriákkal ért szót, GMA950 videovezérlõt tartalmaz, PATA és SATA felületû meghajtókat egyaránt támogat. Egyelõre nem tudni, hogy az Atom 330-at mikor követheti a netbookokba szánt kétmagos, alacsony fogyasztású Atom 370, de a vállalat terveit közelebbrõl ismerõk szerint 2009 elõtt nemigen számíthatunk a felbukkanására.
+
+
+ A netbookokba szánt Atom 270 továbbra is hiánycikk és idén várhatóan az is marad. Sajtóértesülések szerint a problémát továbbra sem a processzor-gyártókapacitás szûkössége adja az Intelnél, a gyárak ugyanis ontják magukból a szilíciumostyákat -- a gyártási folyamat ezt követõ fázisai azonban nem tudják a lépést tartani, a szûk keresztmetszetet elsõsorban a tesztelési és a tokozási kapacitás adja.
+
+jelenlegi egységeinek kapacitása zömében a drágább, jóval nagyobb profitot termelõ asztali vagy mobil processzorok elõállítására van allokálva, elemzõk szerint éppen ezért pénzügyi szempontból nem indokolt, hogy ezt a kapacitást a jóval kisebb haszonréssel kecsegtetõ Atomok elõállítására összpontosítsák. A problémát minden bizonnyal az Intel egymilliárd dolláros beruházással jövõre elkészülõ vietnami tesztelõ- és tokozóüzeme oldhatja fel.

@@ -1,0 +1,16 @@
+Blade kivitelû NonStop rendszerrel támadja a mainframe-eket a HP
+
+Blade kivitelû NonStop rendszert jelentett be a HP, amivel az iparág elsõ magas rendelkezésre állású blade szerverének címére pályázik. A HP állítása szerint a NonStop blade a legalacsonyabb költségû a kategóriájában.
+
+
+
+Az IBM System z mainframe rendszerek ellenfelének szánt Integrity NonStop rendszerek immár BladeSystem c-Class formátumban is hozzáférhetõek, ami a korábbinál drasztikusan magasabb teljesítménysûrûség tesz lehetõvé. A HP állítása szerint a NonStop NB50000c blade kétszeres teljesítményt kínál fele akkora területen, mint a jelenlegi NonStop szerverek -- mindezt változatlan fogyasztási keretbõl. Egy független cég által készített jelentésre hivatkozva a HP azt is állítja, az IBM z9 mainframe-hez képest 35 százalékkal alacsonyabb a NonStop BladeSystem teljes birtoklási költsége, és 50 százalékkal olcsóbb egy tranzakció.
+
+ A kétmagos Itanium 2 processzorokra alapozó rendszer érdekessége, hogy ugyanazt a magas sûrûségû fizikai blade architektúrát alkalmazza, mint a néhány hete piacra került ProLiant BL2x220c G5. Egy blade modul valójában két teljesértékû, kétutas szervert takar, vagyis összesen 4 processzort, 8 magot és 16 utasításszálat is kaphatunk egy NB50000c modullal, egy logikai processzor pedig 48 gigabájt memóriát is kezelhet. Egy blade-re 25 SAS, vagy akár 14 FC merevlemez csatlakozhat. 
+
+
+A HP blade bejelentése ugyanakkor egyáltalán nem csak a hardverrõl szól, megújul ugyanis a NonStop operációs rendszer is. A NonStop Operating System Release J06 a vállalat állítása szerint az új NonStop Multi-core Architecture révén jelentõs teljesítménynövekedést eredményez a többprocesszoros skálázódásban, valamint az új I/O alrendszer alacsonyabb késleltetéseket és nagyobb áteresztõképességet produkál. A NonStop 4080 logikai processzorig képes skálázódni.
+
+ A NonStoppal lehetõség nyílik kétszeres és háromszoros számítási redundancia biztosítására az extrém megbízhatóságot követelõ rendszereknél. Ekkor kettõ vagy három mag szinkronban, úgynevezett lock-step módban üzemel. Ha bármelyiken hiba jelentkezne, azt a NonStop rendszer azonnal felismeri, elszigeteli, és ha kell, újra elvégezteti a mûveletet -- háromszoros redundancia esetében szavazással döntenek a helyes eredményrõl. 
+
+A HP agresszivitására jellemzõ a NonStop FREEdom programja, melynek keretén belül egy NB50000c BladeSystemet egyéves teljeskörû NonStop szoftverelõfizetést ad ellenérték nélkül, ha mainframe rendszerrõl migrál az ügyfél. Bár éppen a költségcsökkentés miatt váltotta Bladesystem c-Class fizikai formátumra a NonStopot a HP, a listaár 300 ezer dollárról indul, és egy tipikus rendszer 750 ezer és 1 millió dollár közé esik. A blade kivitel kétségtelen elõnye, hogy heterogén fizikai környezet is kialakítható egységes felügyelet alatt.

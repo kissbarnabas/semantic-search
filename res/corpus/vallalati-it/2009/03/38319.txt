@@ -1,0 +1,26 @@
+Megóv a felesleges beszerzésektõl és egyszerûsiti az üzemeltetést a Novell ZENworks Asset Management
+
+A Novell ZENworks Asset Management informatikai eszközgazdálkodási megoldását használja a Raiffeisen Bank Magyarországon, amelynek köszönhetõen nem csak felesleges szoftverlicenc-vásárlásoktól kímélte meg magát a cég, hanem az üzemeltetés is egyszerûsödött. A kevesebb mint 10 millió forintos költséggel bevezetett terméknek egy év sem kellett, hogy behozza az árát.
+
+
+
+Az országszerte 160 bankfiókjában és a központi telephelyein összesen mintegy 4000 PC-t és 400 szervert üzemeltetõ Raiffeisen Banknál régóta használják a Novell termékeit. Az eszközgazdálkodási megoldás bevezetésérõl akkor született döntés, amikor a Raiffeisen pár éve megkezdte a Windows NT munkaállomások frissítését Windows XP-re, a migrációhoz pedig szükség volt egy naprakész hardver- és szoftverleltárra. A Novellel ápolt jó kapcsolat és a kedvezõ tapasztalatok miatt egyértelmû választás volt a ZENworks Asset Management, egy meggyõzõ pilotprojekt után pár hónapos lefutással bevezették.
+ 
+
+ 
+
+Budai-Tüske Gábor, a bank informatikai üzemeltetés- és fejlesztéstámogatási vezetõje szerint megfelelõ IT-vagyongazdálkodás nélkül egy nagy szervezet informatikai infrastruktúrája nem tartható kézben. Az ebbõl kinyert adatok az alapjai a konfiguráció-menedzsment adatbázisnak (CMDB), amely pedig az ITIL-alapú üzemeltetés egyik sarokköve. "Nem lehet eléggé hangsúlyozni az IT-vagyongazdálkodás fontosságát" -- mondta a vezetõ hozzátéve, hogy Magyarországon sok informatikai vezetõ beszél errõl, de csak kevesen csinálják.
+
+Az IT-eszközökrõl rendelkezése álló naprakész információk hiányában egyetlen vezetõ sem tud felelõs döntéseket hozni, nagy szervezeteknél a hardver- és szoftverállomány követése pedig lényegében kivitelezhetetlen feladat informatikai támogatás nélkül. Jellemzõ, hogy a Raiffeisen Banknál a 3600 dolgozóra 4400 szerver és PC jut, a használt alkalmazásverziók száma meghaladja a 600-at, a szoftverlicencek száma pedig a 16 ezret, ezeket "papír és ceruza" módszerrel lehetetlen nyilvántartani, képtelenség a licenchasználat jogosságát vizsgálni és audit esetén bizonyítani, valamint a  vezetõség felé a riportolási kötelezettségeket teljesíteni.
+
+
+
+
+
+Budai-Tüske Gábor
+
+
+
+Az IT-eszközgazdálkodási szoftver segítségével feltérképezhetõ a hardverinfrastruktúra, naprakész leltár készül a PC-k, szerverek, hálózati eszközök vagy akár nyomtatók konfigurációjáról, illetve a telepített és használt szoftverekrõl. Utóbbi különösen fontos, a banknál például kiderült, hogy méregdrága szoftverek (pl. SAP GUI) vannak kihasználatlanul, fel vannak telepítve ugyan gépekre, de évek óta nem indította el õket senki. Új licencek megvásárlása helyett a meglevõek átcsoportosításával több tízmillió forintot takarított meg a Raiffeisen. Az is kiderült, hogy a rendszergazdai jogosultságokkal rendelkezõ felhasználók nem támogatott szoftvereket telepítettek a gépeikre.
+
+A ZENworks Asset Management a hibafelderítésnél is hasznos: ha egy felhasználó a helpdeskhez fordul segítségért, az adminisztrátorok egybõl láthatják, hogy a problémás gépben milyen hardverek vannak és milyen szoftverek futnak rajta, ennek köszönhetõen számos bosszantó kompatibilitási hibát tudott felderíteni a Raiffeisen informatikai csapata. Egy ízben kiderült, hogy a banknál mûködõ PC-k egy részében bizonyos processzorok váratlan szoftverhibákat okoznak. Mivel az eszközgazdálkodási szoftver nem csak gyártó és típus, hanem sorozatszám alapján is nyilvántartja a hardvereket, a problémás chipre épülõ gépeket könnyen meg lehetett találni -- papíralapú nyilvántartásból felderíteni õket, vagy a közel 4 ezer gépet egyenként felnyitni és végigvizsgálni közel lehetetlen feladat lett volna.

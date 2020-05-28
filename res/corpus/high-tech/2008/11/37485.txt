@@ -1,0 +1,64 @@
+Világok harca: felbukkant az elsõ GPU-hibrid szuperszámítógép
+
+Múlt héten frissült a világ legerõsebb szuperszámítógépes rendszereit rangsoroló lista, a Top500. A rengeteg új belépõ ellenére trónfosztás nem történt, és a petaflopsos lélektani küszöböt is már korábban áttörték, ugyanakkor egy újabb mérföldkövet ért el az ipar: felkerült a listára az elsõ olyan hibrid konfiguráció, mely grafikus chipeket (GPU, graphical processing unit) is használ a számítások elvégzésére. Ezzel végleg eldõlt, hogy a GPU-k kitörtek a játékiparból, és általános célú alkalmazhatóságuk, ami az Intel számára hatalmas fenyegetést jelent, többé nem csak PowerPoint prezentációkon létezik, hanem nagyon is valóságos.
+
+
+
+TSUBAME
+
+A Tokiói Technológiai Intézet (Tokyo Tech) a GeForce GTX260 és GTX280 kártyákon is megtalálható NVIDIA Tesla, azaz nem grafikus célú GT200 chipekkel bõvítette fel TSUBAME szuperszámítógépes rendszerét. A TSUBAME így a novemberi Top500 listán a 29. helyre kvalifikálta magát, négy helyet vesztve a júniusi összesítéshez képest. A 170 darab rackelhetõ Tesla S1070 rendszer egyenként 4, így összesen 680 darab GT200 (Tesla 10P) chipet alkalmaz. Az 1U magas S1070 rendszerek öt szekrényben elférnének, Tokióban viszont úgy döntöttek, hogy a meglévõ Sun Fire X4600 rendszerek közé illesztik azokat.
+
+A már egyébként is hibrid architektúrájú, ClearSpeed gyorsítókat is alkalmazó TSUBAME továbbfejlesztési irányában döntõ szempont volt, hogy a meglévõ rendszer már több mint 12 ezer processzormagot használt, és fogyasztása meghaladta az 1 megawattot. A 170 darab Tesla-rendszer összesített csúcsfogyasztása ezzel szemben kevesebb mint 136 kilowatt, miközben segítségükkel másfélszeresére, 161,8 teraflopsra nõtt a rendszer csúcsteljesítménye.  
+
+Az intézet elemzése szerint az általuk futtatott molekuláris biológiai szimulációk számára a következõ évek során a grafikus processzorok bizonyulnak a legjobb választásnak a számításintenzív és sávszélesség-intenzív áramlástani modellezések területén. 
+
+A 170 darab Tesla-rendszer számítási csúcsteljesítménye 52 teraflops kétszeres pontosságú 64 bites mûveletekkel, melyhez másodpercenkénti 69 360 gigabájtos aggregált memória-sávszélesség társul -- ez több mint 2700 darab kétutas HPC (high-performance computing, nagyteljesítményû számítástechnika) Xeon-rendszer (Stoakley platform) sávszélességének felel meg, vagyis nagy mennyiségû adat mozgatásakor hatalmas elõnyt élvez az agresszív, széles és magas frekvenciájú memória-alrendszerrel rendelkezõ Tesla S1070, melynek egyébként létezik deskside munkaállomás változata is, a Tesla Personal Supercomputer.
+
+Valósággá válhat a GPGPU
+
+A grafikus chipek sem jelentik ugyanakkor a Szent Grált, architektúrájuk ugyanis "törékeny", azaz hatékonyságuk rendkívül érzékeny a kód természetére. A végrehajtóegységek minél magasabb kihasználása érdekében az algoritmusokat újra kell gondolni és implementálni az NVIDIA C nyelvet használó CUDA fejlesztõi környezetében, ahogyan azt a Tokyo Tech kutatói is tették. Linpack alatt, mely a szuperszámítógépes rendszerek rangsorolásának alapját képezi, a 680 darab GT200 chip nagyjából 9,8 teraflops effektív teljesítménnyel növelte a teljes rendszer potenciálját, ami 19 százalékos hatékonyság -- egy általános célú mikroprocesszornál ez az arány 75 százalék feletti, de elérheti a 95 százalékot is. 
+
+
+A kódra érzékeny, masszívan párhuzamos mikroarchitektúra mellett nem kedvez a 64 bites pontosságnak sem a továbbra is elsõsorban a grafikai felhasználást szem elõtt tartó GT200 felépítése. A 32 bites pontossághoz képest ugyanis egy nagyságrenddel esik a mûveletvégzési sebesség a keskeny adatutak és regiszterek miatt. A lineáris egyenleteket és legkisebb négyzetek problémáját mátrixokon megoldó Linpack alatt a GT200 chipek emiatt nem is eléggé energiahatékonyak, wattonként kevesebb mint 100 megaflops 64 bites teljesítményt adnak le rendszerszinten, így jócskán elmaradnak az x86-os processzoroktól -- egyelõre. A GT200 mirkoarchitektúráját részletesen tárgyalja a Prohardver! magazin cikke.
+
+A TSUBAME mérnökei ugyanakkor a jövõbe tekintenek, ahol az algoritmusok, fejlesztõi eszközök és a hardver együttes fejlõdésével egyre rugalmasabban és hatékonyabban programozhatóvá válnak a grafikus célú processzorok. Errõl szól a kommersz 3D-gyorsítók immár több mint egy évtizedes története -- 1996-ban, a 3dfx Voodoo megjelenésekor valószínûleg senki nem gondolta még, hogy a "játékszerek" ilyen gyorsan ilyen messze jutnak. Az AMD a héten jelentette be megállapodását a Portland Grouppal Fortran és C compiler technológia kidolgozásában a cég saját grafikus gyökerû HPC-chipjei számára, melyeket FireStreamnek nevez.
+
+A Tokyo Tech a grafikus chipek programozhatóságának gyors fejlõdésére és alkalmazásuk terjedésére számít a TSUBAME 2.0 építésénél, mely Japán elsõ petaflopsos konfigurációja kíván lenni. Ebben már meghatározó szerepet töltenek majd be a grafikus chipek, azaz valósággá válhat a szakmában csak GPGPU (general purpose grapchical processing unit, általános célú grafikus feldolgozó egység) néven ismert koncepció. A következõ évtizedre megindulhat az eredetileg grafikus célú feladatokra termett processzorok szélesebb körû alkalmazása a számításintenzív, jól párhuzamosítható feladatokban, melyek többnyire a mûszaki-tudományos és pénzügyi modellezések, vizualizáció és videofeldolgozás területeirõl kerülnek valószínûleg ki.
+
+The Power of Cell
+
+Ahogyan a TSUBAME is bizonyítja, az Intel számára nagyon is valós kockázatot jelent, hogy az egyre programozhatóbbá váló grafikus chipek behatolnak a felségterületére, és egyre több számításintenzív feladatot vesznek át a hagyományos értelemben vett processzoroktól. De nem csak a grafikus chipek jelentenek veszélyt. Az elõbb említett PowerXCell 8i például a júniusi lista óta, azaz fél év alatt például négy új helyet szerzett, ami bár önmagában nem jelentõs, a tendencia viszont figyelmeztetõ az Intel számára.
+
+A Cell-architektúra elõretörése nem véletlen, az egy PowerPC magot és nyolc vektorprocesszort integráló lapkákra épülõ konfigurációk magasan a legenergiahatékonyabbak a mezõnyben, a legjobb Xeonnál is kétszer nagyobb teljesítményt adnak le wattonként, akár több mint 500 megaflopsot -- gyártástechnológiai hátrányuk ellenére is. A Cellek ugyanis 65 nanométeres eljáráson készülnek, míg a legújabb Xeonoknál már 45 nanométeres félvezetõtechnológiát alkalmaz az Intel. A PowerXCell 8i ráadásul nemcsak a nagyok játékszere, a globális viszonylatban kisebb, 100 blade-bõl felépülõ konfigurációtól kezdve a monstrumokig egyaránt bizonyít a kétutas IBM BladeCenter QS22 szerverekben -- a belépési küszöb alacsony, a hardver széles tartományban skálázható.
+
+[+]  Ötször nagyobb teljesítményre képes a Cell processzor új változata 
+
+A HPC-piac önmagában sem lebecsülendõ, az IDC becslése alapján az évi 50 milliárd dollár feletti szerverforgalom mintegy ötödét teszi ki értékben, nem beszélve a munkaállomások 7-8 milliárdos piacáról, az igazi fenyegetést az Intel számára ugyanakkor a mainstream PC-kbe kerülõ rivális chipek jelentik, melyek az egyre vizuálisabbá váló számítástechnikából hasíthatnak ki növekvõ szeletet. A Toshiba egyik Qosmio notebookmodelljét egy másik Cell-derivatívával szállítja, aminek célja elsõsorban a videotömörítés gyorsítása. Bár a feladatok x86-os chipekrõl történõ migrációja még sokkal inkább a jövõ, mint a jelen zenéje, a kommunikációs háború már megindult.
+
+Világok harca
+
+Az elmúlt hónapok során már különösen agresszív, támadó kommunikációval operáló NVIDIA szerint a vizuális számításoknak a grafikus chipen a helyük, és a cég megoldásai összehasonlíthatatlanul jobbak az Intelénél. Úgy tûnik, az NVIDIA nemcsak vaktában lövöldözik, hanem gólokat is sikerül lõnie: az Adobe Creative Suite 4 generáció például már használ hardveres grafikus gyorsítást, amivel látványosan felgyorsul a képek manipulációja, folyékonyabbá téve a munkavégzést. Az NIVIDA gyakorlatilag havonta hírt ad arról is, hogy a Folding@Home proteinkutatásban milyen kevés NVIDIA chip milyen sok teraflops teljesítménnyel bír.  
+
+
+
+Való igaz, a többnyire pocsék kóddal megírt PC-szoftverek által gúzsba kötött, általános célú x86-chipek számításintenzív területen azonban nem képesek felvenni a versenyt a speciálisan a párhuzamos végrehajtásra tervezett architektúrákkal, ugyanis nagy teljesítménnyel kell futtatniuk az összes, többségében rosszul vagy egyáltalán nem párhuzamosított, optimalizálatlan kódot, így az x86-os mérnököknek a gyenge kódokat kiszolgáló, futásidõben optimalizáló logikára és magas órajelre kell fordítaniuk a rendelkezésre álló tranzisztor- és energiabüdzsét. Az Intelnek így szüksége volt egy új fejlesztésre, hacsak nem akarta megkockáztatni, hogy a vevõk pénztárcája riválisai felé nyíljon, nyilvánvalóan a cég kárára.
+
+Az Intelnél gõzerõvel folynak egy olyan chip fejlesztései, mely elsõsorban NVIDIA és AMD nagyteljesítményû grafikus processzoraival rivalizálna grafikus és HPC-területeken egyaránt. A Larrabee kódnévû projekt célja egy olyan masszívan párhuzamos architektúrájú lapka létrehozása, mely megtartva az x86-os kompatibilitást rugalmasan vezérelhetõ és programozható marad, miközben megfelelõen többszálúsított és vektorizált kód alatt az általános célú processzorok számára elérhetetlen teljesítményt nyújt.
+
+A Larrabee 256 bites vektoregységekkel és a grafikus felhasználás miatt textúrázóval kiegészített x86-os magokból integrál több tucatot, melyeket körbusz köt össze. A magok egyenként négy szálat kezelnek, melybõl egy a másik hármat szolgálja ki. A DirectX és OpenGL kód futtatására is képes chip, mely egyúttal az Intel elsõ dedikált grafikus processzora is lesz, valamikor 2009-2010 magasságában jelenik meg. 
+
+[+]  Larrabee: az Intel frontális támadása a Radeon és GeForce ellen 
+
+Az Intel stratégiai érdeke, hogy a 3D-grafikai megjelenítést a raszterizációra épülõ jelenlegi rendertechnikák felõl a globális bevilágítás (global illumination) felé tolja el az ipart, kimozdítva ezzel az NVIDA-t és az AMD-t a hazai pályáról. Az Intel a játékfejlesztõket igyekszik elsõsorban megnyerni, akik egyre jobban küzdenek a valóság közelítésére mára trükkhegyeket alkalmazó raszterizáció korlátaival. A Budapesten megrendezett tavaszi Game Developers Forumon maga Cevat Yerli, a Crysist produkáló Crytek alapítója vélekedett úgy, hogy a raszterizáció elérte lehetõsége határait.
+
+A játékiparban konszenzus látszik kialakulni a tekintetben, hogy a hardverek szélsebes fejlõdésével a következõ évtized elejére elérhetõvé válhat a valósidejû ray-tracing is, ami egy újabb áttörést hozna el az alkalmazások, de elsõsorban a játékok grafikai minõségében. Az Intel ennek demonstrálására egy négyutas Xeon szerverben, 16 processzormaggal játszható sebességgel renderelte 720p felbontásban az Enemy Territory: Quake Wars ray-tracingre átírt változatát. Valószínûleg erre a Larrabee egy bõvítõkártya formájában lesz képes.
+
+
+
+A végsõ összecsapás?
+
+Ezzel az Intel bár kiegyenlítetté tenné a küzdelmet az NVIDA-val, és az AMD ex-ATI osztagával szemben, nyilvánvalónak tûnik, hogy középtávon minden kommunikációs aknamunkájuk ellenére nem tér vissza a teljesen szoftveres renderelés, legalábbis nem olyan értelemben, hogy az általános célú processzorok veszik vissza a grafikailag intenzív feladatokat. Az NVIDIA és az AMD is világosan látja ugyanis a grafikai fejlõdés irányát, nem véletlen, hogy mindkettõ tartott már látványos ray-tracing demonstrációt jelenlegi grafikus architektúráján, amivel jelezték, azok már most alkalmasak a feladatra, és a jövõben egyre inkább azokká válnak az új fejlesztések révén.
+
+[+] Valósidejû ray-tracing renderelés az NVIDIA vizualizációs rendszerén  
+
+Miután a számítástechnikai ipar elmúlt két évtizedét a gazdaságossági prés alatti konszolidáció határozta, aminek hatására olyan vállalatok chipfejlesztései hullottak ki vagy kerültek a partvonalra, mint a Motorola, IBM, DEC/Compaq, 3dfx, Matrox és VIA, a talpon maradt maradék három, az IBM ismételt belépésével talán négy birodalom egy újabb összecsapásra készül annak eldöntése érdekében, hogyan nézzen ki a számítástechnika a következõ évtizedben, és kik kontrollálják majd a piacot.

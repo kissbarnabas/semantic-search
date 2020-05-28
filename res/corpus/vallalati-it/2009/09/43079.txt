@@ -1,0 +1,11 @@
+Veszélyes exploit jelent meg a Windows SMB-hibájára
+
+Az SMB v2 protokoll implementációjában felfedezett sebezhetõség éppen a Microsoft szeptemberi patch keddjével egy idõben kapott nyilvánosságot, így a vállalatnak esélye sem volt arra, hogy azt orvosolja. A rést kiaknázó kód mûködik, amit a HUP-on is megerõsítettek, vagyis a 139-es és 445-ös porton fájl és nyomtatómegosztási szolgáltatással figyelõ Vista, Server 2008 R1 és Windows 7 RC-k mind összeomlottak. Nem érintettek az XP, Server 2000, Server 2008 R2 és Windows 7 RTM platformok.
+Most egy továbbfejlesztett kód látott napvilágot, mely nem csak kék halált vagy újraindulást képes elérni, hanem tetszõleges szoftver futtatását, vagyis távoli végrehajtás veszélyét hordozó sebezhetõséggé fajult. Az exploit hétfõn került ki a webre a nyílt forrású Metasploit penetrációs teszteszköz részeként. A kód mûködése nem tûnik megbízhatónak, a támadások egy része rendszerösszeomláshoz vezet, nem pedig saját kód futtatásához. Végeredményben azonban ez nem változtat azon, hogy a bûnözõk most rendelkeznek egy olyan alappal, melyre építve automatizáltan terjedõ férgeket alkothatnak, melyek villámgyorsan terjedhetnek LAN-okon belül, miután más módszerrel vagy megbízhatónak tartott felhasználóként bejutottak egy belsõ gépre.
+
+A hiba a Windows operációs rendszerek a hálózati nyomtató- és fájlmegosztásokat kezelõ Server Message Block v2 (SMB) protokoll implementációjában található, mely a Vista és az azt követõ Windows kiadások számára továbbfejlesztett változat. Ebbõl fakad, hogy a korábbi Windowsok biztosan nem érintettek, ahogyan például a Samba sem. A sérülékenységet az okozza, hogy az érintett operációs rendszerek nem kezelik megfelelõen az SMB v2 kapcsolatfelvételi kéréseket.
+A Microsoft azt javasolja, hogy a felhasználók a végleges javítás érkezéséig kapcsolják ki az SMB v2 szolgáltatást, és/vagy tûzfal segítségével tiltsák le 139 és 445-ös számú portokat. Az SMB v2 kikapcsolása a regisztrációs adatbázis szerkesztésével vihetõ véghez, de a vállalat weboldalán most elérhetõvé tett egy segédprogramot, amit lefuttatva kikapcsol az SMB v2. Ugyanitt megtalálható a szolgáltatást visszakapcsoló program is. Egyelõre nem tudni, hogy a következõ patch keddig elkészül-e a javítás.	     
+                  
+                  
+                  
+                   

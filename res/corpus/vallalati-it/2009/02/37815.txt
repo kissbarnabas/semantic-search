@@ -1,0 +1,12 @@
+Négy javítás érkezik holnap a Microsofttól
+
+Négy biztonsági frissítést ad ki holnap a Microsoft, ezek közül kettõ foltoz be kritikus sebezhetõséget, a másik kettõ csak "fontos" besorolást kapott.
+
+
+
+A vállalat az Internet Explorert, a SQL Servert, az Exchange Servert, illetve az Office diagramkészítõjét, a Visiót javítja, mindannyiban távoli kódfuttatásra lehetõséget adó sebezhetõséget találtak ugyanis. Az Internet Explorerben és az Exchange Serverben kritikus, a SQL Serverben és a Visióban pedig fontos besorolású ezek minõsítése.
+
+
+ A Microsoft csak a patchek megjelenésekor ad részletes tájékoztatást arról, hogy konkrétan milyen szoftverkomponenseket frissít, így egyelõre errõl nem áll rendelkezésre információ. Azt tudni azért, hogy az Internet Explorer sérülékenysége csak a kliens operációs rendszereken kritikus, Windows Server 2003 és 2008 esetében nem, ez alighanem annak tudható be, hogy a szerver operációs rendszerek alapértelmezésként biztonságosabb beállításokkal ("Enhanced Security") üzemelnek.
+
+A SQL Serverben még tavaly találtak távoli kódfuttatásra lehetõséget adó sérülékenységet, azonban a Microsoft sokáig adós volt a frissítéssel -- állítólag azért nem adták ki a kész javítást, mert a minõségbiztosítás sok idõt vett igénybe. A sérülékenységet felfedezõ osztrák SEC Consult ezért december végén úgy döntött, publikálja a hibát és egy mintakódot is, így próbált nyomást gyakorolni a Microsoftra. Úgy tûnik, sikerült. A holnap érkezõ javítás a SQL Server 2000, 2003 és 2005 verziókat érinti.

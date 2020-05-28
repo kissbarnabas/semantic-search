@@ -1,0 +1,14 @@
+A VIA bejelentette autós PC-platformját
+
+A VIA elkészült IVP-7500 alaplapjával, mely a gyártó autókba szánt PC-sorozatának elsõ tagja. A ventilátorok nélkül üzemelõ alaplap a középkonzolok DIN-szabványú beépítõhelyeibe szerelhetõ.
+
+
+
+A VIA az IVP-7500 speciális alaplapjára 1 gigahertzes, passzív bordával is hûthetõ EDEN processzort épít, mely 1 gigabájtnyi memóriával gazdálkodhat. Az alaplap és az azt komplett géppé tevõ egyéb alkatrészek a mûszerfalba építhetõk, pontosabban a hétköznapi esetekben rádióknak helyet biztosító DIN-foglalatokba. Az VIA az új rendszert zene- és filmlejátszásra, GPS-helyzetmeghatározásra, valamint videokamerák mûködtetésének összehangolására tartja alkalmasnak, de helytállhat rendszámtábla azonosítóként és gépjármûflotta menedzselése során is.
+
+
+
+A 114x185,5 milliméteres alaplap 1,8 hüvelykes merevlemezekhez kapcsolódhat, összeköthetõ LCD-panelekkel (TTL), de ezen kívül rendelkezik VGA-, illetve TV-kimenettel is. A rendszerhez kamerák (például parkolósegéd-alkalmazás kiegészítõiként) szabványos mini-USB-portokon keresztül kapcsolhatók. Természetesen a hangkimenetek, illetve a mikrofonbemenet sem hiányzik a lapra forrasztott csatlakozók közül. A bõvíthetõséget egy SD/SDHC-kártyahely teremti meg, így például a navigációs szoftver is dolgozhat a legfrissebb térképekbõl.
+
+
+Kapcsolatot Bluetooth 2.0 rádió segítségével, vagy infraporton keresztül is teremthetünk, a vezetékes kiegészítõk használhatják a két USB-kaput, az alaplap ezekkel is rendelkezik. Az autós rendszer a gyári rádió helyére ül, ezért kihagyhatatlan belõle az FM-vevõ is. A gyártó sorozatérett példányokkal még nem rendelkezik, bár mûködõképes próbaváltozatokkal már igen, ám ez még nem elegendõ ahhoz, hogy dátumokat és árakat is ismertessen a bejelentés során.

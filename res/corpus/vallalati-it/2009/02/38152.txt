@@ -1,0 +1,53 @@
+A kereskedõ szemével: mennyiségi szoftverlicencelés
+
+A mindennapi munkám során, amikor új PC-kre és szerverekre adok ajánlatot, az egyeztetési fázisban szinte mindig adja magát a kérdés, hogy milyen szoftverek fognak futni az adott rendszeren, és hogy ezekre is tehetünk-e javaslatot. A válasz pedig a legtöbb esetben: "köszönjük, de szoftver az már van". Ez pedig csak két esetben lehetséges: ha az adott szoftverlicenc dobozos (FPP) vagy mennyiségi licenc keretében áll rendelkezésre. Jelen cikkünkben ez utóbbit állítjuk fókuszba, jóhiszemûen feltételezve, hogy a jogszerû szoftverfelhasználás nem vita tárgya.
+
+
+ 
+Több licenc az nem feltétlenül mennyiség
+
+A mennyiségi licencelést kifejezetten a vállalatok és intézmények részére találták ki, és nem feltétlenül jelent egyet a több felhasználós licencekkel. Otthoni környezetben is egyre gyakrabban található több számítógép, emiatt a gyártók olyan dobozos termékekkel is piacon vannak, amik 3-5 számítógépig is megengedik a szoftver használatát. Erre a legjobb példa talán az utóbbi pár hónapban meglehetõsen intenzív kampányt kapott Microsoft Office 2007 Otthoni és Iskolai verzió, vagy a (Symantec) Norton Antivirus 3 felhasználós változata. A több felhasználóra érvényes kiszerelések ugyan kedvezõbb áron kaphatóak, mint ugyanaz a termék több példányban, de komoly hátrányuk, hogy a licencek száma a késõbbiekben nem bõvíthetõ.
+
+A mennyiségi szoftverlicencek legfõbb közös jellemzõje, hogy kifejezetten a vásárló nevére szólnak és a felhasználók számától függõ sávos árkedvezményeket tartalmaznak. A licenc megtestesülése legtöbbször csak egy e-mail vagy egy A4-es papírlap, amihez csak nagyon ritkán tartozik telepítõ média. A licenc a végfelhasználó adatain kívül a szoftver pontos megnevezését, a felhasználható licencek számát, a licenckulcsot és a licenc idõtartamát rögzíti. A licenc ebbõl a szempontból kötött idõtartamra szóló, vagy akár örökös is lehet, utóbbi esetben gyakran kapcsolnak mellé frissítési vagy verziókövetési kedvezményeket.
+
+A szoftvergyártók sok esetben a csomag összeállításával és a névvel is megkülönböztetik a mennyiségi licenceket. Például csak ilyen keretek között érhetõ el a Microsoft Office Professional Plus vagy az Enterprise, a népszerû ESET Smart Security biztonsági szoftvert 5 felhasználó felett pedig egyszerûen Business Editionnek hívják, se ez nem is vásárolható meg másképp.
+
+Licenctípusok
+
+
+A kötött idõtartamra szóló licencek általában elõfizetése konstrukcióban mûködnek, ilyen a Microsoft OVS (Open Value Subscription) is. Ez gyakorlatilag szoftverbérlésnek minõsül, ami egy vállalkozás esetében az azonnali költségként való leírás elõnyét is magában hordozza. Az OVS három éves konstrukció, évenkénti ciklussal, ahol a jogosulttá válunk legfrissebb verziók használatára és a licencek számát is meglehetõsen rugalmasan kezelhetjük: növekedés, például új munkatárs érkezése és új PC csatasorba állítása esetén elég csak a következõ évben emelni az elõfizetett licencek számát, a PC-k számának csökkenésnél pedig nem kell kihasználatlanul álló licencekét fizetni.
+
+A bérelt szoftverek körének szélesítésével (operációs rendszer, irodai programcsomag és szervertermékek) jelentõs platformkedvezményeket lehet elérni, ami a teljes szerzõdés idõtartamára vetítve jelentõs megtakarítást jelenthet más konstrukciókkal összehasonlítva. Természetesen a szerzõdés lejáratakor meghosszabbítható további évekre, vagy akár örökös jogot is szerezhetünk az eddigi licencekre.
+
+Örökös licenc vásárlása esetén a szoftver adott verziójának használati joga végérvényesen a tulajdonunkba kerül, nem veszítjük el a hardver lecserélésekor mint az OEM esetében. Az örökös mennyiségi licenceknél a verziókövetést általában adott idõtartamra szóló, feláras opcióként tudjuk megrendelni. A Microsoft Software Assurance (SA) 2 évig teszi lehetõvé, hogy további díj megfizetése nélkül térjünk át a legfrissebb verzióra, a 2 év lejárata után pedig elég csak a verziókövetési jogot meghosszabbítani, ami kb. 40%-kal kedvezõbb áron tehetõ meg, mint egy új licenc vásárlása. Örökös licencet biztosítanak a már említett ESET, vagy például a Symantec biztonsági termékek is, a hozzájuk kapcsolt, jellemzõen 1 éves idõtartam a legfrissebb adatbázisokhoz való hozzáférésre vonatkozik, ami a lejáratot követõen kedvezõ áron meghosszabbítható.
+
+
+ Örökös licencet szerzünk a legtöbb ügyviteli alkalmazásra is, ahol általában az elsõ évben a szoftverkövetés is a csomag tartalma. A szoftverkövetést a második évtõl külön kérhetjük, ezzel biztosítva, hogy az ügyvitel során keletkezõ bizonylatok és kimutatások mindenben megfeleljenek a gyakran változó számviteli szabályoknak.
+
+Külön érdemes megjegyezni, hogy a közhiedelemmel ellentétben a Microsoft Windows mennyiségi licenc keretében kizárólag upgrade-ként érhetõ el, aminek feltétele egy megfelelõ kiadású dobozos vagy OEM alaptermék.
+
+Elõnyök
+
+A mennyiségi licencek legfõbb elõnye a könnyû adminisztrációban rejlik: egyszerûen azt kell figyelemmel kísérni, hogy az adott szoftverbõl hány licenccel rendelkezünk és ezt hol használtuk fel. Ezen felül bármikor kicserélhetjük bármelyik szervert vagy PC-t, mivel a licenc nem kötõdik  a hardverhez (mint az OEM termékek esetében). A legtöbb konstrukció tartalmaz áttérési lehetõséget a nyelvi verziók és a 32/64 bites platformok között, de gyakori jellemzõ az elõzõ verziók használatának (downgrade) joga is, aminek nagy hasznát vehetjük, ha a hardveres háttérrel nehezen tudjuk követni az új verziók megnövekedett erõforrás-igényét. Mivel a szoftverhasználat joga névre szól, ezért lopás vagy megsemmisülés esetén könnyedén pótolható, ami a dobozos és OEM termékekrõl nem mondható el.
+
+A mennyiségi licencelés azoknak ajánlható, akik elkötelezettek a hosszú távú, jogszerû szoftverfelhasználás mellett, vagy utólag szeretnék legalizálni a jelenleg használt szoftvereket. A megfelelõ formával látványosan egyszerûsíthetõ a szoftverek nyilvántartása, a használt verziók követése és nem utolsósorban a jelentõs összegeket is meg lehet takarítani. A szoftvergyártók, a verziók és a licencekben meghatározott feltételek és a felhasználási körülmények sokszínûsége miatt sajnos nincs egyértelmû recept arra, hogy melyik a leginkább megfelelõ konstrukció, ennek eldöntéséhez mindenképpen érdemes szakember segítségét kérni.
+
+Lássunk egy konkrét példát!
+
+Nézzünk meg egy konkrét kisvállalati példát a Microsoft szoftverek szemszögébõl, ahol a licenctípusok széles választéka áll rendelkezésre. Képzeletbeli vállalatunknál 10 felhasználót kell ellátni az Office Small Business 2007 irodai programcsomaggal és a csoportmunkát támogató Windows Small Business Server 2008 Standard verziójával. A költségeket 3 év idõtartamban vizsgáljuk, és feltételezzük, hogy a vállalkozás OEM Windows-zal elõre installált PC-ket vásárolt minden esetben. Ezt van is okunk feltételezni, hiszen amellett, hogy az OEM a legolcsóbb licenckonstrukció, a vizsgált mennyiségi licenceknél a Windows csak upgrade formájában érhetõ el.
+
+
+
+OEM (nincs hardvercsere): A vállalkozás 3 éves, vagy hosszabb ciklusokban cseréli a klienseket, ebben az esetben kétségtelenül ez a legkedvezõbb licencelési forma. A legnagyobb elõny egyértelmûen az ár. OEM (3 éven belüli hardvercsere): Amennyiben a vállalkozás a vizsgált idõszakban lecseréli a teljes gépállományt, a licenceket is le kell selejteznie és újakat kell vásárolnia. Ebben az esetben gyakorlatilag kétszer fizettünk ugyanazért.
+
+Dobozos: a dobozos szoftverek leginkább szoftverlegalizálás esetében javasolhatóak, nincs olyan megkötés, ami hardverrel történõ vásárlást írna elõ. Az FPP licencek oldaláról teljesen lényegtelen, hogy lecseréljük-e az azt futtató hardvert, és ha igen, hányszor tesszük. A dobozos termék legfontosabb elõnye, hogy a rendelkezésre álló licencszámban korlátlanul újratelepíthetõ. Cikkünk születésekor az Office 2007 Small Business jelentõs árengedménnyel kapható, de a korrekt összehasonlíthatóság érdekében a táblázatban listaáron szerepel.
+
+OLP: OLP esetében egy összegben kell annyit fizetnünk, mintha az OEM-et a vizsgált idõszakban kétszer vettük volna meg. Cserébe könnyen nyilvántarthatjuk a licenceket, rugalmasan, bármikor cserélhetjük a gépállományt, a licenc elvesztése esetén pótolható az arra feljogosító dokumentum, használhatunk korábbi (kisebb erõforrás-igényû, vagy megszokott) verziókat, de késõbb szabadon áttérhetünk 64 bites platformra vagy akár másik nyelvre is. OLP vásárlás esetén most ajándék Groove-ot ad a Microsoft, amivel 450000 forintot takaríthatunk meg, ha egyébként is szerettük volna megvenni.
+
+OLP + SA: Az OLP+SA egyértelmûen a legdrágább konstrukció, amiért cserébe a szerzõdés megkötését követõ 2 évig jogosulttá válunk a legfrissebb verziók használatára. A downgrade jognak ebben az esetben nincs túl sok értelme, de az OLP összes további elõnyét magában hordozza.
+
+OVS: Mivel az OVS elõfizetéses konstrukció, ezért egy vállalkozásnak fontos szempont lehet, hogy végig költségként kezelhetõ, továbbá kisebb egyszeri kiadásokat jelent. Az elõfizetés keretében a díjfizetés idõtartamára az OLP+NL-nél is többet nyújtó konstrukcióhoz juthatunk, hiszen az évfordulókon dinamikusan tudjuk változtatni a licencek számát. A 3 évet követõen a szerzõdést meghosszabbíthatjuk, vagy le is mondhatjuk, utóbbi esetben minden OVS licenc alatt futó szoftvert törölnünk kell. Lehetõség van még a licencek kivásárlására, ekkor örökös licencként (kvázi OLP-ként) végleg a tulajdonunkban maradnak, ennek egyszeri díja az éves licencdíj + 75%.
+
+Természetesen a példa szintetikus, a való életben ritkán történik teljes vállalati géppark-csere egy idõben, és az alkalmazottak bõvülésével, vagy új igényekkel a gépek száma és a szoftverek verzióigénye is változik. A különbözõ licenc-típusok ezen felül kombinálhatóak is, az ideális mix eléréséhez mindenképpen kérjük szakértõ segítségét.
+
+A szerzõ a Takforsys Üzleti Informatika Kft. ügyvezetõje

@@ -1,0 +1,19 @@
+Ismét gyengélkednek a DDR2 memóriaárak, kitolódik a fellendülés
+
+A korábbi elõrejelzések ellenére, vagy inkább azok miatt továbbra is bizonytalankodik a DRAM-piac, és a folyamatos áremelkedés elmaradni látszik a harmadik negyedévben is. Számos elemzõ és ipari szereplõ is jelezte, még mindig gyengélkedik a piac, és újabb átmeneti árcsökkenés várható. 
+
+
+
+Bár a gyártók visszafogták a leszállított memóriakapacitás növelésének ütemét, a vártnál gyengébb keresletet érzékelnek a piacon, így az árazási nyomás újra megnövekedett. Ennek egyik oka, hogy a nagy vevõk éppen a korábban beharangozott áremelkedés kivédése érdekében a második negyedévre hozták elõre megrendeléseiket, és az így felépített készletekbõl elégítik részben a jelenlegi keresletet, így aktuális memóriaigényük gyengébb a DRAM-gyártók által reméltnél. Az iSuppli becslése szerint a második negyedévben 15 százalékkal több DRAM-chipet szállítottak le az elsõhöz képest, ami másfélszer nagyobb növekedés, mint a várt 10 százalékos -- egyes PC-gyártók akár kéthavi raktárkészlettel is rendelkeznek.
+
+A másik az Olimpia kapcsán átmenetileg megszigorodott kínai importkorlátozás, mely érzékenyen érintette a DDR2 DRAM-árakat az elmúlt hetekben. Mindezek hatására már júliusban érzékelte az ipar az áraknak feszülõ újabb nyomást, a DRAMeXchange két hét alatt átlagosan 6 százalékos áreróziót regisztrált az üzletkötésekben. Az iSuppli szerint a jelenlegi átlagos árak a negyedév, vagyis szeptember végére további 10 százalékkal csökkennek. "A túlzott készletek átkerültek a DRAM-szállítóktól a vevõkhöz" -- kommentálta Kim Nam Hyung, az iSuppli memóriapiaci vezetõ elemzõje. Az iSuppli ugyanakkor úgy látja, elkerülhetetlen az árak emelkedése végeredményben, ugyanis a súlyos, dollármilliárdos veszteségeket elszenvedõ gyártók pénzügyi helyzetük stabilizálása érdekében visszafogták kapacitásbõvítõ tõkeberuházásaikat, visszafogva szállításaik bõvülésének ütemét.
+
+
+ A piackutató hozzáteszi azonban azt is, az ipar lassan tér majd magához, és amennyiben tõkeerõs meghatározó gyártók, mint amilyen a Samsung, a Hynix vagy az Elpida agresszívan növelik termelésüket, hogy a gyengélkedõ riválisok kárára terjeszkedjenek, úgy a stabilizáció 2009 második felére is áthúzódhat. A kisebb ipari szereplõk, mint például a tajvani PowerChip azonban továbbra is a DDR2 árak meredek emelkedésében reménykedik a negyedik negyedévvel kapcsolatban, és az 1 gigabites DDR2 chipek ára az újabban ismételten 2 dollár alatti szintrõl a 2,5-3 dolláros tartományba kerül.
+
+
+[+] Kingston: egy memóriagyártó sem fogja feladni a harcot 
+
+
+
+A gyártókat és a DDR2 árak emelkedését segítheti a a PC-piac szezonálisan erõs második féléve mellett, hogy megkezdõdik a DDR3 memória iránti kereslet felfutása a Centrino 2 megjelenésével, mely már DDR3 modulokat is képes kezelni, alacsonyabb üzemfeszültségével hosszabb akkumulátoros idõt ígérve. A gyártók kapacitásaik egyre nagyobb hányadát igyekeznek majd átterelni DDR2-rõl annak jóval magasabb, jellemzõen három-négyszeres ára miatt, ami egyúttal a DDR2 árak további emelkedése irányában hat. Kérdéses természetesen, hogy ha a nagy felvásárlók többsége szintén áremelkedést vár az év vége felé, akkor ismételten nem hozzák-e elõre tömegesen beszerzéseiket, ezzel újfent érvénytelenítve a piaci elõrejelzéseket...

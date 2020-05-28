@@ -1,0 +1,12 @@
+Elhagyja a Sunt a MySQL egyik társalapítója és fõmérnöke
+
+Nem bírta a Sun Microsystemsbe olvadással járó kötelezettségeket David Axmark, a nyílt forrású adatbázist fejlesztõ MySQL társalapítója és fõmérnöke, ezért úgy döntött, elhagyja a vállalatot. 
+
+
+
+"Átgondoltam a szerepemet a Sunnál és úgy döntöttem, egy kisebb szervezetben jobban érezném magam" -- írta felmondólevelében Axmark, akinek rendkívül fontos szerepe volt a MySQL fejlõdésében, ugyanis fõmérnökként nem csak a fejleszéseket irányította, hanem a MySQL vállalat informatikai vezetõi tisztségét is betöltötte, emellett a közösséggel való kapcsolatokért is õ felelt. Axmarknak köszönhetõ az is, hogy a MySQL nyílt forrásúvá vált.
+
+
+  "Gyûlölöm azokat a szabályokat, amelyeket be kell tartanom, és gyûlölöm õket megszegni is. Sokkal jobb lenne, ha kevésbé formálisan kellene a Sunnal és a MySQL-lel dolgoznom" -- írta Axmark, akinek végeredményben a Sun szervezetébe olvadás utáni megváltozott környezettel, a nagyvállalati léttel gyûlt meg a baja. A pletykák szerint egyébként a MySQL másik alapítója, Michael Widenius sem felhõtlenül boldog a Sunnál a helyzetével, és könnyen lehet, hogy hamarosan õ is el fogja hagyni a cég kötelékét.
+
+A Sun Microsystems az év elején 1 milliárd dollárért vásárolta fel a MySQL-t, a világ vezetõ nyílt forráskódú adatbáziskezelõ szoftvere mögött álló vállalatot. A svéd MySQL AB a világ második legnagyobb független, nyílt forrású termékekkel foglalkozó cége volt a Red Hat mögött. Világszerte weboldalak milliói futnak MySQL-en, olyan ismert site-ok egyes szolgáltatásai alapulnak a nyílt forrású adatbázison, mint a Facebook, a Google, a Yahoo, vagy a Youtube. A MySQL valódi ikonja a webes világnak, az ún. LAMP szoftverrendszer (Linux, Apache, MySQL, PHP/Perl) egyik alapköve.

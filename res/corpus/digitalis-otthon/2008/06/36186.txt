@@ -1,0 +1,16 @@
+Kimondottan netbookokra szánt Linux-disztribúciót mutatott be az Ubuntu
+
+Kimondottan a kis méretû, olcsó, merevlemez helyett flash memóriával szerelt netbookok népszerûségét kívánja meglovagolni az Ubuntu a Netbook Remix nevû disztribúciójával, amelyet ezekre a gépekre szán. 
+
+
+
+A Canonicaltól szokatlan módon a Remix nem lesz az internetrõl letölthetõ, a disztribúciót csak a hardvergyártók kapják meg, akik elõre telepíthetik a gépeikre. Az Ubuntu Linux Desktop és a Netbook Remix közötti legfontosabb különbség, hogy az utóbbit az Intel Atom processzoraira és flash memóriáról történõ mûködésére optimalizálták. A Canonical több szoftverfejlesztõ céggel is szorosan együttmûködik annak érdekében, hogy biztosítsák az alkalmazások hibátlan futását a Netbook Remixen.
+
+Az aprócska PC-kre szánt Remixben a desktopot az ún. "Launcher" váltotta fel, amely lényegében a programokat és a kedvenc weboldalat egyaránt tartalmazó menü -- felépítésében hasonló az ASUS Eee PC kezelõfelületéhez. A nagy méretû gomboknak és ikonoknak köszönhetõen a Launcher még a kisebb méretû kijelzõkön is jól látható, egyszerûen használható -- az elsõ tesztek szerint a feliratok még kicsik, de ezen könnyû változtatni. A Remix felületének másik fontos eleme, hogy az összes ablak folyamatosan meg van nyitva, köztük fülekkel lehet váltogatni.
+
+
+ Az Ubuntu Netbook Remix a Canonical és az Intel együttmûködésének eredményeképp jöhet létre. A két cég közremûködésével még tavaly indult el a Mobil kezdeményezés, amelynek célja a Linux kernel, illetve a kezelõfelületet, a médialejátszó keretrendszer, a böngészõ, valamint a beágyazott Linux-imagekezelõ eszközök portolása az Intel Atom processzoros környezetbe.
+ 
+"A célunk nagyszerû felhasználói élmény biztosítása úgy, hogy közben a készülékgyártók egyszerûen és költséghatékonyan tudják termékeiket a fogyasztói piacra juttatni" -- mondta Mark Shuttlewoth, az Ubuntu Linux mögött álló Canonical vezetõje. "Az Ubuntu rövid idõ alatt átformálta az asztali Linuxról alkotott képet. Nagyon sokan lesznek, akik az ilyen eszközökön találkoznak elõször a Linuxszal, ezért a Canonicallal való együttmûködés, a mi kezelõfelületünk használata és a Moblin projekt eredményeinek beépítése a legjobb annak biztosítására, hogy a netbookok sikeresek legyenek."
+
+A tajvani Computexen számos Atom-alapú netbookot állítottak ki a gyártók. A tervek szerint az Ubuntu Netbook Remixet futtató eszközök már az idén a boltok polcaira kerülhetnek, 300-500 dollár közötti áron.

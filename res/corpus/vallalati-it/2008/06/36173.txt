@@ -1,0 +1,33 @@
+Megjelent a Microsoft Dynamics AX 2009
+
+Két év után a Microsoft frissítette Dynamics AX vállalatirányítási rendszerét, június 2-án megjelent a 2009-es verzió, amelynek talán legfontosabb újdonsága, hogy levetkõzte elõdje "sokszínûségét", és egy valódi, integrált megoldáscsomag elõnyeit nyújtja.
+
+
+
+
+Egységes, átlátható, Office-szerû felület
+
+A Dynamics AX most bejelentett 2009-es verziója több mint 500 újdonságot tartalmaz. A legfontosabb változások között említhetõ, hogy teljesen egységes lett a szoftver felülete, nõtt a teljesítménye, illetve látványos elõrelépések történtek a Microsoft többi termékével és technológiájával történõ integráció területén. Az eredetileg Oracle-re optimalizált Dynamics AX sokkal jobban együttmûködik az SQL Serverrel, egyes lekérdezések válaszideje felére-harmadára csökkent például.
+
+A Dynamics AX 2009-es verziójában a Microsoft nagy hangsúlyt
+fektetett az Office termékekkel való integrációra és a felhasználói
+élmény közelítésére, amelynek köszönhetõen a szoftver kezelõfelülete gyorsan átlátható mindazok számára, akik korábban már használtak Office 2007-et. A Microsoft szerint ennek köszönhetõen a szoftver kezelése hamar elsajátítható és kényelmes. Bevezették a funkciók üzleti szerepkörök alapján történõ csoportosítását, több tucat különféle "nézetet" hozva létre, hogy a vállalat különféle részlegein dolgozó munkatársak mindegyike a számára legfontosabb funkciókat érhesse el a legkönnyebben.
+
+Az új Dynamics AX-ben a fejlesztõk létrehoztak egy Sharepoint-alapú szerepköri információs központot, ahova a felhasználók akár saját maguk is tudnak a munkájukat segítõ diagramokat, mutatókat (KPI) megjeleníteni, amely a legjobban segíti a napi döntéshozatalt. Az SQL Server 2008-cal történõ hatékonyabb együttmûködésnek köszönhetõen javultak a jelentéskészítési funkciók tranzakciós és OLAP típusú adatokból egyaránt, a riportszerkesztést pedig a Visual Studio 2008-cal integrálták. Fontos újítás még a Microsoft Workflow Foundation alapú munkafolyamat funkció, amellyel különbözõ jóváhagyási és döntési folyamatokat lehet papír kiküszöbölésével, de mégis a történet megõrzése, a vonatkozó szabályok, hatósági elõírások betartása mellett végrehajtani.
+
+Felhasználói visszajelzések alapján
+
+Magyarországon a legjelentõsebb Dynamics AX-partner az Xapt Kft., ami már jelenleg is több cégnél végez a Dynamics AX 2009-es verziójával kapcsolatos konzultációs, bevezetési és fejlesztõi munkát -- tudtuk meg Dr. Schvarcz Zoltán ügyvezetõtõl. "Lehetõség szerint minden bevezetésünket és fejlesztésünket a jövõben már csak ezen a verzión szeretnénk elvégezni. Úgy gondoljuk, hogy a termék nagyon sikeres, sokoldalú és megbízható lesz, megéri a váltást."
+
+Az Xapt nem csak hazai léptékben, hanem nemzetközi mércével mérve is kiemelkedõ AX-partnernek számít, amit az is jelez, hogy a Dynamics AX 2009-es verziójában számos olyan újdonság és fejlesztés kapott helyet, amelyet a magyar cég javasolt az ügyfelek visszajelzései alapján. "A Microsoft az elmúlt években nagy hangsúlyt fektetett arra, hogy komolyan vegye a külsõ visszajelzéseket, így nagyon sok olyan jobbító, hiánypótló funkciót építettek a termékbe, ami alapvetõen a piaci igények alapján született többek között az Xapt hathatós közremûködésével" -- mondta Schvarcz.
+
+A Dynamics AX-et a Microsoft a nagyobb középvállalatoknak szánja, elsõsorban a termelési, kereskedelemi és szolgáltatói szektorban. A vállalatirányítási szoftver új verziójának hivatalos megjelenési dátuma június 2., ezen a napon a szoftver forgalmazása összesen 21 országban indult meg, Magyarországon azonban csak az év késõbbi részében lesz hozzáférhetõ a termék.
+
+Egy a jelszó
+
+A Dynamics AX, leánykori nevén Axapta 1998-ban került piacra, fejlesztõje a dán Damgaard volt, ami 2000-ben összeolvadt a Navisionnel, hogy aztán 2002-ben az egyesült vállalat a Microsoft kezébe kerüljön. Az Axapta organikusan, valamint a Microsoft ERP-piaci akvizícióinak köszönhetõen folyamatosan fejlõdött, azonban ennek a nyoma még a legutóbbi, 4.0 verzión is érezhetõ volt, a szoftver egyes elemeirõl lerítt, hogy más-más helyrõl származnak.
+
+
+ A Microsoft 2003-ban útjára indította a Green kódnevû projektet, amelynek célja a Microsoft fennhatósága alatt álló vállalati alkalmazások (Axapta, Navision, Great Plains, Solomon) egyesítése lett volna egyetlen termékké, azonban ez a kezdeményezés különbözõ okok, de leginkább az ügyfelek nyomása miatt végül hamvába holt. Tavaly õsszel, a Convergence 2007 konferencián Kirill Tatarinov, a Microsoft üzleti alkalmazásokért felelõs részlegének vezetõje bejelentette, pár éven belül a Microsoft közös kódbázisra helyezi az összes Dynamics termékét.
+
+Ez lehetõvé teszi a Microsoft számára, hogy felgyorsítsa a fejlesztéseket, jobban kiszámíthatók lesznek a megjelenési idõpontok, az ügyfelek pedig könnyebben válthatnak egyik termékrõl a másikra, ha kinõtték -- érvelt Tatarinov. A közös kódbázis révén egységes lesz az alkalmazások felhasználói felülete, az alkalmazásprogramozási interfészek, a kommunikációs technológiák, az üzleti intelligencia funkcionalitás, valamint az adatbázis-motor.

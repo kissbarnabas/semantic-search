@@ -1,0 +1,12 @@
+Böngészõbõl is elérhetõek a Sysinternals segédprogramok
+
+A Microsoft online is elérhetõvé tette a népszerû Sysinternals diagnosztikai szoftvereit, így a felhasználók már akár telepítés nélkül, böngészõbõl is igénybe vehetik a segédprogramokat, amelyek némelyike nélkülözhetetlen ahhoz, hogy hibakeresésnél igazán mélyen belássunk egy Windowst futtató gép "lelkébe".
+
+
+
+A Sysinternals csomagban több mint 70 különféle diagnosztikai szoftver található, amelyek 2006 közepén, a programokat fejlesztõ Winternals Software felvásárlásával kerültek a redmondiak birtokába. Bár az ügylettel a Winternals ingyenes és fizetõs szoftverei, valamint a Sysinternals weboldalon található kiterjedt fórum is a Microsoft tulajdonába kerül, a vállalat mégsem ezek miatt hajtotta végre a felvásárlást, hanem hogy megszerezze a Winternals társalapítóját, a széles körben ismert és elismert szakembert, Mark Russinovichot, aki a lehetõ legmagasabb mûszaki pozícióban, "technical fellow"-ként csatlakozott a céghez.
+
+
+ A Sysinternals segédprogramjai közül a legnépszerûbb talán a Process Explorer, ami a Windowsba épített feladatkezelõnél sokkal részletesebb áttekintést ad a gépen futó programokról, feladatokról és szolgáltatásokról illetve a Process Monitor, ami azt mutatja meg, hogy az egyes programok pontosan mit is csinálnak -- ez fõleg kártevõk felderítésénél lehet hasznos. Mark Russinovichnak annak idején nagy segítségére volt, hogy leleplezze a Sony másolásvédelmet biztosító rootkitjét.
+
+A felhasználók mostantól a live.sysinternals.comtoolsnév parancs beírásával egybõl elindíthatják a kívánt segédprogramot, nem szükséges letölteni és telepíteni õket. Ha valaki nem pontosan emlékszik a programok nevére, a live.sysinternals.com oldalon megtalálja õket, és le is töltheti a legfrissebb verziókat.

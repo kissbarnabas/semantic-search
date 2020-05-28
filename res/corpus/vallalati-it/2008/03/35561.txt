@@ -1,0 +1,16 @@
+HP Integrityn és Windows Server 2003-on fut tovább az OTP Bank SAP rendszere
+
+Két nagyteljesítményû HP Integrity szervert vásárolt az OTP Bank, amelyek az SAP-modulok mûködését biztosítják. Az éles rendszer eddig két szerveren futott, de a megnövekedett teljesítményigénnyel már nem tudtak lépést tartani, ezért a bank a lecserélésük mellett döntött, és egy Itanium-alapú szerverre konszolidálta az SAP-t. A most beindított rendszer szolgálja ki az OTP néhány hazai leányvállalatának az igényeit is, és a tervek szerint számos külföldi leányvállalat SAP-támogatását az ezzel kívánják megoldani.
+
+  
+
+A csere oka az volt, hogy az addig használt 32 bites szerverek további bõvítése memóriakezelési korlátokba ütközött, ezért elkerülhetetlenné vált az átállás 64 bites környezetre. Az OTP összesen három szállítótól kért ajánlatot az SAP-t futtató hardverplatformra, és végül egy 12 processzoros (24 processzormag) Itanium 2-alapú HP Integrity rx8640 szervert vásárolt 96 gigabájt memóriával az éles rendszer alá, míg tesztkörnyezetként egy 8 processzoros, 64 gigabájt memóriával megtömött Integrity szolgál.
+
+Az Integrityken Windows Server 2003 Datacenter Edition operációs rendszer gondoskodik az alkalmazások futtatásáról. Birnbauer Péter, a HP üzletkritikus szerverekért felelõs termékigazgatója szerint jelenleg az Integrityk biztosítják a legnagyobb teljesítményt és rendelkezésre állást windowsos környezetben, ráadásul a leszállított gépek továbbfejleszthetõk az õsszel bejelentett Montvale kódnevû, Itanium 9100 sorozatú processzorokkal is, így aztán maximális beruházásvédelmet is garantálnak.
+
+
+ Közvetlenül a szerzõdéskötés után a HP térítésmentesen kölcsönzött egy Integrity rx6600 és egy Integrity rx3600 szervert a teszelési és felkészülési folyamatokhoz az OTP számára. A cég által kiadott közlemény szerint a migráció a szerzõdéskötéstõl számított 2 hónap alatt megvalósult, és az átadás óta szerzett tapasztalatok szerint a korábbinál jóval gyorsabb és nagyobb rendelkezésre állású az új konfiguráció. A migrációs tesztekhez használt rx6600-as szervert az SAP-migráció lezárulta után az OTP Bank szintén megvásárolta.
+
+"Informatikai infrastruktúránkban régóta alkalmazzuk a HP különbözõ eszközeit, amelyekkel korábban is kedvezõ tapasztalatokra tettünk szert" -- mondta Andráskó Tibor, az OTP IT üzemeltetési igazgatója. "A HP új Integrity szerverei megfelelõ teljesítménytartalékot, magas szintû rendelkezésre állást és elsõrangú beruházásvédelmet biztosítanak a számunkra. A jövõben számos leányvállalatunk SAP-igényét kiszolgálják majd, és támogatják bankunk régióbeli expanziós terveit." 
+
+A HP ajánlata a kínált konfiguráció már említett skálázhatóságán túl több, a beruházás védelmét szolgáló elemet tartalmazott. Amennyiben az OTP egy éven belül úgy dönt, hogy magasabb kategóriájú HP szerverekre cseréli a most vásárolt rendszereket, akkor azokat a HP visszavásárolja.

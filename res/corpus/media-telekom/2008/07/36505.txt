@@ -1,0 +1,14 @@
+Elindult az elsõ európai P2P-alapú mûsortovábbító rendszer tesztüzeme
+
+[BBC/HWSW] Az elsõsorban a tengerentúlon sikeresen mûködõ Joost mintájára akarják létrehozni Európai tartalomszolgáltatók és mûszaki szakemberek a kontinens saját peer-to-peer (P2P) alapú, szolgáltatófüggetlen IP-televízióját a P2P-Nextet. A napokban indult kísérleti adás az eddig több mint 19 millió eurós EU-támogatást kapott projekt legfõbb zászlóvivõjének számító BBC ötperces idõjárásjelentését adja video on demand (VOD) alapokon felvételrõl, valamint egy amsterdami webkamera élõképét közvetíti.
+
+
+
+A P2P-Next konzorcium kísérletében mostantól bárki részt vehet, az ehhez szükséges, BitTorrent-alapú, nyílt forráskódú SwarmPlayer videostreamer szoftver ingyenesen letölthetõ Windows és Linux platformokra a projekt weboldaláról. A szolgáltatás az elterjedt videomegosztó rendszerektõl eltérõen nem központi szervereken alapul, hanem -- akárcsak a Joost esetében -- itt is peer-to-peer alapokra helyezték a rendszert, azaz állománymegosztó szolgáltatásokhoz hasonlóan a SwarmPlayer futtatásakor, a videók megtekintésekor a felhasználó számítógépe is az elosztó rendszer részévé válik.
+
+
+
+A SwarmPlayer a videók megosztásán kívül az adások letöltését és késõbbi megtekintését is támogatja, feltéve, hogy a jogtulajdonos ebbe beleegyezett. A szolgáltatás célja, hogy a P2P alapokra helyezett, akár élõ, akár felvételrõl adott mûsorfolyam kiválthassa a hagyományos, kábeles vagy mûholdas, netán IP-alapú (IPTV) megoldásokat: a felhasználóknak ebben a rendszerben ráadásul nem csak elõre összeállított tartalmak megtekintésére lehetne módjuk, hanem arra is, hogy kvázi saját tévéadást szerkesszenek.
+
+
+A P2P-Next a kísérleti adás beindítása után most a kísérletezni vágyó tesztelõk jelentkezését várja, hogy az infrastruktúra fejlesztõi minél pontosabb képet kapjanak arról, hogy a rendszer nagyobb terhelés esetén hogyan teljesít, elbírja-e több ezer kliens kiszolgálását minõségveszteség nélkül. A projekt tesztelésében bárki részt vehet, aki ellátogat a SwarmPlayer Streaming Test oldalra, ahol a lejátszó-megosztó szoftver letöltési linkjén kívül a teszttel kapcsolatos egyéb tudnivalók és információk szerepelnek. A teszten való részvétel egyetlen feltétele a legalább 600 kb/másodperces internetkapcsolat megléte.

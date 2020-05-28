@@ -1,0 +1,17 @@
+Kis- és közepes adatközpontok számára mutatott be új szünetmentest az APC
+
+Az APC by Schneider Electric bejelentette a kis- és közepes adatközpontok számára készült, redundáns áramellátás-védelemmel rendelkezõ szünetmentes tápegységrendszer második generációját, a Symmetra PX48-at, ami a nyáron megjelent PX160 "kistestvére".
+
+
+
+Az új szünetmentes már az APC új tervezésû NetShelter szekrényébe költözött, de nem ez a legfontosabb újdonsága. A berendezésben található teljesítménymodulok a korábbi 10 helyett már 16 kilowattosak, így egy 3 modult tartalmazó rackszekrényben 48 kilowattos teljesítmény érhetõ el, (vagy 32 kilowatt n+1 redundanciával) így alapterületre vetített kapacitás tekintetében az új Symmetra PX a kategória egyik éllovasa -- tudtuk meg Szarka Attilától, a vállalat vezetõ rendszermérnökétõl.
+
+Az üzemeltetési költségek féken tartása érdekében az APC mérnökei megövelték a Symmetra PX hatékonyságát is, ami 30 és 100 százalékos terhelés közötti tartományban folyamatosan 95 százalék feletti -- ez a vállalat saját fejlesztésû, szabadalmaztatott kettõs konverziós technológiájának köszönhetõ. A berendezés teljesítménytényezõje 1, azaz kilowattban és kilovoltamperben megadott kapacitása azonos.
+
+
+ A moduláris felépítésnek köszönhetõen a Symmetra PX lehetõvé teszi az áramellátás-elosztás felhasználói konfigurálását, valamint a leállások nélküli bõvítést és karbantartást -- a berendezés szinte minden alkatrésze üzem közben cserélhetõ, a korábbiaknál egyszerûbben. Az APC mérnökei átdolgozták a menedzsment-felületet is, amely a korábbinál részletesebb beállítási lehetõségeket ígér. 
+
+"Az adatközpontok egyre növekvõ helyhiányát kívánja megoldani a
+Symmetra PX" -- mondta Szarka Attila. "A kisebb helyigényû, nagyobb kapacitást biztosító kialakítás révén a vállalatok meghatározhatják pontos áramellátási szükségleteiket, így elkerülhetik az igényeiket meghaladó képességû eszköz vásárlását, ezáltal csökkenthetik mind a kezdeti tõkeigényüket, mind a mûködtetési költségüket."
+
+A Symmetra PX 48kW All-In-One (AIO) a Magyarországon is igen népszerû Symmetra PX 20kW AIO és a Symmetra PX 40kW modelleket váltja le.

@@ -1,0 +1,14 @@
+Új verziója jelent meg a Trillian azonnali üzenetküldõ alkalmazásnak
+
+Újabb verziója jelent meg a Cerulean Studios fejlesztõcsapat  multiplatformos azonnali üzenetküldõ alkalmazásának, a Trilliannek. A cég chatkliense évekkel ezelõtt az egyik legnépszerûbb windowsos azonnali üzenetküldõ alkalmazásnak számított, közkedveltsége annak ellenére is alig látszik csökkenni, hogy a fejlesztõk évek óta adósak az új, teljesen webkettesre gyúrt kiadás, a Trillian Astra megjelenésével.
+
+
+
+Megjelent az egykoron volt egyik legnépszerûbb többplatformos azonnali üzenetküldõ alkalmazás, a Trillian legfrissebb, 3.1.11-es verziója, ezzel is biztosítva, hogy a nyolcéves múltra visszatekintõ szoftver fejlesztése minden ellenkezõ híresztelés ellenére nem állt le. Az új verzió újdonságairól egyelõre semmilyen részlet nem került napvilágra, a fejlesztõi fórumokon olvasható információk alapján két, hónapokkal ezelõtt felfedezett biztonsági rést javítottak, ezen túlmenõen azonban nem tudni, mi került bele az új kódba.
+
+A Trillian Astra átdolgozott felülete
+
+
+A Trillian multiplatformos azonnali üzenetküldõ alkalmazás fejlesztése több mint nyolc éve kezdõdött, a szoftver 2002-tõl máig két változatban használható: a korlátozott Trillian Basic és a fizetõs Trillian Pro közt leginkább a támogatott IM-rendszerek terén fedezhetõ fel különbség. Az ingyenes változat Windows Live Messenger, ICQ-, AIM-, Yahoo! Messenger- és IRC-klienseket integrál magába, a Trillian Pro ezeken túl egyebek mellett a Skype, Gtalk (Jabber), Novell GroupWise Messenger, Microsoft Exchange és Lotus Sametime rendszerekkel is kompatibilis.
+
+A fejlesztõ Cerulean Studios immár két éve dolgozik a Trillian soron következõ, Astra néven ismert négyes verzióján, mely teljesen átdolgozott kezelõfelületet, gyorsabb mûködést és számos új webkettes funkciót (például teljes FaceBook widget-integráció) kínál majd az elõzõ változatokhoz képest. Az új Trilliant Windows és Mac OS X rendszereken kívül iPhone-ra is elkészítik majd, arról azonban egyelõre továbbra sincs információ, hogy a jelenleg is csak publikus alfaváltozatban elérhetõ kliens végleges változata mikor jelenik meg.

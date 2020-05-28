@@ -1,0 +1,28 @@
+Megjelentek a Microsoft kis- és középvállalati szerverei
+
+Tegnap megjelentek a Microsoft kisvállalatoknak és középvállalatoknak szánt szervertermékei, a Windows Small Business Server 2008 és az Essential Business Server 2008. A szoftverek a Windows Server 2008 technológiájára épülve integráltan tartalmazzák a megcélzott ügyfelek számára fontosnak tartott infrastruktúra-komponenseket, amelyekre építve létrehozhatják és egyszerûen üzemeltethetik saját informatikai rendszerüket.  
+
+
+
+Fókuszban a kis- és középvállalatok
+
+A Small Business Servert az 5-75 PC-vel rendelkezõ vállalatoknak szánja a Microsoft, az Essential Business Servert pedig a 25-300 személyi számítógépet üzemeltetõ cégeknek. A Microsoft számításai szerint a Small Business Server megcélzott felhasználói köre világszerte mintegy 32 millió kisvállalat, az Essential Business Servernek pedig 1,2 millió potenciális vásárlója lehet.
+
+A Small Business Server 2008 része a Windows Server 2008 mellett az Exchange Server 2007 Standard, a SharePoint Services 3.0, illetve a Forefront Security for Exchange Server biztonsági csomag 120 napos elõfizetéssel. Az SBS 2008 prémium változata emellett tartalmaz egy második Windows Server 2008 licencet, illetve az SQL Server 2008 Standard változatát, amelyet akár második szerverre is telepíthetnek a felhasználók.
+
+A Windows Small Business Server 2008 Standard ára öt klienslicenccel (CAL) 1089 dollár, a további klienslicencek 77 dollárért vásárolhatók meg. Az SQL Server 2008-at is tartalmazó Small Business Server 2008 Premium öt klienslicenccel 1899 dollárba kerül, minde további CAL ára 189 dollár. Ezek az árak a "dobozos" verziókra vonatkoznak, az OEM- és mennyiségi licencvásárlók olcsóbban juthatnak a termékekhez. A Small Business Servert a Microsoft a megcélzott vevõkör igényeihez igazodva lokalizálta is a vállalat, a magyar nyelvû verzió a nemzetközi bejelentéssel egyszerre érkezett.
+
+Egyszerû kezelés
+
+
+ A kizárólag 64 bites változatban megjelenõ Windows Essential Business Server 2008 Standard a Windows Server 2008 mellett tartalmazza az Exchange Server 2007-et, a Forefront Security for Exchange 2007-et egy év elõfizetéssel, a System Center Essentials 2007-et, valamint a Threat Management Gatewayt (leánykori nevén ISA Server). A Premium verzióban helyet kap még az SQL Server 2008 is.
+
+Az Essential Business Server vonzereje -- azon felül, hogy csomagban megvásárolva jóval olcsóbb mint a komponensei együtt -- a Unified Administration Console (UAC), vagyis az egységes felügyeleti konzol, amit a Microsoft az ügyfeleknél végzett kutatómunka alapján alakított ki. A felügyeleti konzolt úgy tervezték, hogy az adminisztrátorok minden feladatot a lehetõ legegyszerûbben, legkényelmesebben végezhessék el. Hogy az UAC mennyire integrált, azt jól mutatja, hogy még desktop alkalmazások is telepíthetõk belõle a felhasználók gépeire.
+
+A Windows Essential Business Server 2008 Standard öt klienslicenccel 5472 dollárba kerül, a további CAL-ok ára 81 dollár, a WEBS Premium 7163 dollárba kerül, minden további CAL 195 dollár. A Microsofttól kapott információk szerint az Essential Business Serverbõl nem készül lokalizált verzió, Magyarországon is az angol (német, francia) változatot lehet majd megvásárolni.
+
+Kedvezõ fogadtatás
+
+Keszei Balázs, a Microsoft termékmarketing-menedzsere a HWSW megkeresésére elmondta, a cég itthon nagyszabású rendezvénysorozattal népszerûsíti az új termékeket a partnerek körében. "Egy országos roadshow-t szervezünk a partnereink részére, a budapesti megálló december 2-án lesz. Az eddigi tapasztalatok alapján nagyon kedvezõ a fogadtatása a termékeknek, sok olyan partner is belevág az SBS-be és WEBS-be, aki eddig csak Windows Servert adott el" -- mondta Keszei, aki hozzátette, januártól magyar nyelvû online tananyagok segítik majd az üzemeltetés elsajátítását.
+
+A Small Business Server 2008 és az Essential Business Server 2008 legfeljebb 240 napig mûködõ ingyenes próbaváltozata letölthetõ a Microsoft weboldaláról.

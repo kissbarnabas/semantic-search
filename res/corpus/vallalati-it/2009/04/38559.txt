@@ -1,0 +1,22 @@
+Symantec: senki ne vegyen több tárolót, használja ki jobban a meglevõeket!
+
+Alig pár napja vette át hivatalosan a Symantec kormányrúdját Enrique Salem, az orlandói Storage Networking World konferencián máris  sokkolta a megjelenteket.
+
+
+
+Nem a kapacitásbõvítés, hanem a meglevõek kihasználása a cél
+
+Salem szerint a vállalatoknak le kellene állnia az adattárolási kapacitásuk mértéktelen bõvítésével és inkább a már rendelkezésre álló helyet kellene okosan hasznosítaniuk. Nem a ROI-ra, vagyis a return on investmentre, a megtérülésre kellene koncentrálniuk, hanem a ROY-ra, a return on yesterdayre, vagyis hogy a meglevõ eszközikbõl mit tudnak kihozni. Salem érvelése némileg érthetõ annak fényében, hogy a Symantec a Veritas felvásárlásával az adattárolási szoftverpiac egyik vezetõjévé vált.
+
+"Az üzenetem a következõ: ne vegyenek több tárolót. Jól hallották. Ne vegyenek tárolót" -- mondta a konferencián Salem. "Hogyan? Elõszöris csökkentsék a tárolt adatok mennyiségét és tegyék a tárolóikat rugalmasabbá, hatékonyabbá." A tárolókapacitás hatékony menedzselésével, a thin provisioning alkalmazásával, az adat-deduplikáció bevezetésével, valamint intellignes archiválással nincs szükség annyi tárolóra.
+
+
+ A cég szerint a legtöbb felhasználó a rendelkezésére álló tárkapacitásnak mindössze 15-35 százalékát hasznosítja, a többi kihasználatlanul áll, például mert csúcsidõszakra tartogatják, de az is lehet hogy valamiért elérhetetlen, vagy egyszerûen mindenki megfeledkezett róla. A kihasználatlan kapacitást birtokolni viszont költséges, a tárolók mûködtetéséhez és hûtéséhez szükséges energia egyre többe kerül.
+
+Sokat lehet spórolni
+
+"Volt egy ügyfelünk aki arra panaszkodott, hatalmas információs robbanást kell kezelnie. Úgy becsülte, tárolókapacitásának 50 százalékát használja ki, de mi kiderítettük, csupán 20 százalékot" -- mondta Salem. "Olyan adattárolás-felügyeleti megoldásokra van szükség, amelyek több platformon mûködnek és átfogó képet adnak arról, milyen tárolókapacitá áll rendelkezésre, és ebbõl mennyi van kihasználva." 
+
+Salem persze pozitív példát is hozott a hallgatóságnak. Elmondása szerint egy pénzügyi szolgáltatónál mindössze 12 százalékát használták a rendelkezésre álló tárkapacitásnak, ezt két év alatt 41 százalékra tudták feltornázni a Symantec segítségével -- eközben nem vásároltak új tárolóberendezéseket, amivel 70 millió dollárt takarítottak meg. "Ha a mostani idõkben boldog pénzügyi vezetõket akarnak látni, mondják meg nekik, több millió dolláros spórolási lehetõséget találtak."
+
+Persze nem a Symantec az egyedüli vállalat, amelynek rátermett tárolófelügyeleti megoldásai vannak. Az IDC felmérése szerint a vállalat csak a második helyezett (18,3%) a storage szoftverek picán az EMC (26%) mögött.

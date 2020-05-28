@@ -1,0 +1,26 @@
+Jogi buktatót rejthet a H.264 videoformátum használata
+
+Univerzalitásával tarol a H.264 videoszabvány, mely skálázhatóságának köszönhetõen ugyanolyan jól helyt áll a mobiltelefonok kijelzõjén, a videomegosztókon és a Blu-ray korongokon. Az örömmámorban viszont sokan nem gondolnak a licencfeltételekben szereplõ jogdíjfizetésre, késõbb pedig jöhet a fekete leves, ha a jogkezelõ benyújtja a számlát.
+
+
+
+Mindent visz
+
+A H.264 egy jól mûködõ videoszabvány, megfelelõ bitrátával tömörítve az adott kategóriához képest jó minõségû eredményt ad, csak éppen arról nem szokott szó esni, hogy ez sem ingyenes. Igaz, hogy az amatõr és a kis volumenû felhasználás keretein belül a szabadalom nem állapít meg díjat, de egy televíziószolgáltató, egy online portál vagy egy mobilszolgáltató könnyen túllépheti a legálisan ingyenes szintet, ami után illene fizetni.
+
+
+ Azokban az országokban, ahol a szoftverszabadalmi szabályozások élnek, minden olyan termék után, mely képes lejátszani vagy elõállítani (legyen az PC-, mobilszoftver vagy célhardver) H.264/AVC formátumot, ott számítani lehet arra, hogy a jogtulajdonos tartani fogja a markát a jussáért. Ez a jogkezelõ jelenleg az MPEG LA, ami nem társszervezete az MPEG szabványosításért felelõs szervezetnek, így a velük való megállapodás (MPEG-2 Part 1/Part 2, MPEG-4 Part 2) még nem garancia semmire.
+
+Az MPEG LA 2003 novemberében tette közzé a jogdíjfizetés részleteit is tartalmazó szabadalom licencét, amibõl kiderül, hogy a gyártóknak minden eszköz után, legyen az enkóder vagy dekóder, 100 ezer egységig ingyenes a használat, afelett darabonként 20 amerikai dollárcent, 5 millió egység felett pedig 10 cent, de a jogdíj évente legfeljebb 4,25 millió dollár lehet -- jövõre ez már 5 millió dollár, aminek eléréséhez már több tíz millió egységet kellene értékesítenie az adott cégnek.
+
+Beetetési idõszak
+
+2005 elõtt egyáltalán nem kellett fizetni a szabvány használatáért, ez tehát egyfajta beetetési idõszak volt, ezzel segítették a formátum minél gyorsabb terjedését -- sikeresen. Ma viszont már a lejátszásért és a kódolásért fizetett díjakon felül a szervezet elvárja, hogy minden 12 percnél hosszabb filmért is fizessenek a tartalomszolgáltatók, akkor is, ha azok fizikai hordozón kerülnek eladásra, de akkor is, ha video-on-demand szolgáltatás keretében vagy digitális adásként DSL-en, kábelen, mûholdon vagy földfelszíni sugárzással jutnak el a fogyasztóhoz.
+
+Ahogy korábban is írtuk, a világ legnagyobb videómegosztója, a YouTube is a H.264 formátumot használja már, s annak a döntésnek, hogy a korábbival ellentétben már senki nem tölthet fel 10 percnél hosszabb anyagot a rendszerbe, talán éppen ez a licencfeltétel az oka. Az MPEG LA weboldalának tanúsága szerint jelenleg 549 jogi személy használja legálisan ipari méretekben a szabványt, ami között a Google Inc ugyanúgy megtalálható, mint az Antenna Hungária, a Joost, a Skype, a Panasonic vagy a Samsung is.
+
+Kérdõjelek
+
+Mostanra így már szinte minden platformon vírusként terjed az új formátum, s van aki fizet érte, van aki nem. A legtöbb IPTV, digitális TV, videomegosztó, videotelefon megoldás, és szinte minden multimédia szolgáltató szép lassan áttér erre a tényleg jól sikerült megoldásra, viszont sokan teszik ezt úgy, hogy nem kalkulálnak a jogdíjfizetéssel. Számos eszmecsere folyt a H.264 ingyenes szoftverekbe való implementációjáról is, a GNU LGPL és GPL licencek használatával, de egyelõre megoszlanak a vélemények arról, hogy a szabad felhasználás sért-e jogot vagy sem. Mindenesetre egyelõre viszonylagos csend van a szabvány körül.
+
+Egyes vélemények szerint elképzelhetõ, hogy a jogtulajdonos szándékosan nem lép fel a jogosulatlan használat ellen, s majd csak akkor él az igényével, mikor egy adott cég szolgáltatásaiba, termékeibe mélyen beépült a formátum. Egy komolyan felépített jogi procedúra keretében visszamenõleg is számonkérheti a cégeken a fizetés elmulasztását. Egyelõre az MPEG LA nem indított ilyen pereket, illetve a a GPL implementációval kapcsolatban sem született precedensértékû bírósági döntés az angolszász területeken, de minden szolgáltatónak és szoftvergyártónak, aki eddig nem tette, érdemes áttekintenie, hogy megfelelõen használja-e a szabványt, illetve tisztába tennie a jogi hátteret.

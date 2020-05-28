@@ -1,0 +1,18 @@
+A vállalatok kitartanak a Windows XP és az Internet Explorer 6 mellett
+
+A Windows Vista és az Internet Explorer 7 továbbra sem népszerû a vállalatok körében -- derül ki egy felmérésbõl, amelyet a Forrester Research végzett. A több mint 50 ezer felhasználó megkérdezésével felvett adatokból kiderül, a tavalyi év végén az IE-használóknak csak kevesebb mint harmada telepítette a 7-es változatot, a Vista pedig alig több mint 6 százalékát adta az összes Windows desktopnak.
+
+
+
+Marad a Windows XP és a IE6
+
+2007 januárjában az Internet Explorer 7 részaránya 10 százalékos volt, azonban a tavalyi év végére is csak 30 százalékra emelkedett. Reedwan Iqbal, a Forrester elemzõje úgy véli, számos cég egészen addig megmarad az IE6-nál, amíg a -- jelenleg Beta 1 állapotban levõ -- IE8 meg nem érkezik. Iqbal szerint a Microsoft elsiette az IE7-et, a böngészõ szolgáltatásaiban megpróbált felzárkózni a Mozilla Firefoxhoz, ezért van benne pár kisebb újdonság, de nem hoz jelentõs áttörést, és ezt a felhasználók is érzik. Számos vállalati webes alkalmazás ráadásul továbbra sem kompatibilis az Internet Explorer 7-tel -- próbálta megvilágítani az okokat Iqbal.
+
+A Windows Vista hasonló okok miatt nem terjed a vállalatok körében, pedig a Microsoft mindent megtett annak érdekében, hogy a cégeknek tetszõ szolgáltatásokkal ruházza fel az operációs rendszert -- leginkább a biztonság és hálózatkezelés terén. 2007 végén a vállalati Windows-felhasználók mindössze 6,3 százalékánál volt telepítve a Vista a Forrester szerint. A Windows XP részesedése az év során szinte egyáltalán nem változott, ami azt jelenti, hogy a Vista elsõsorban a régebbi Windows-változatoktól, fõleg a Windows 2000-tõl hódított el felhasználókat.
+
+Érdemes lehet megvárni a Windows 7-et?
+
+
+Iqbal szerint az asztali Windowsok esetében is biztosan lesznek olyan cégek, amelyek egyszerûen kihagyják a frissítési ciklusból a Vistát, és megvárják a következõ verziót, a Windows 7-et. Ennek a megjelenésérõl egyelõre semmit nem tudni, mindössze azt, hogy a Microsoft három éves fejlesztési ciklussal számol, vagyis 2009 végén, esetleg 2010 elején számíthatunk a szoftver érkezésére. A legtöbb felmérés szerint a nagyvállalatok 2008 végén, 2009 elején kezdené meg a Vista tömeges bevezetését, vagyis csak fél-egy évet kell kihúzniuk a Windows 7-ig, legalábbis elvileg.
+
+Ennek az elméletnek azonban számos tényezõ ellentmond: a Windows 7 megjelenése is ugyanolyan könnyen elcsúszhat mint a Vistáé, és valószínû annak a bevezetése se lesz kevéssé fájdalommentes. Ráadásul azoknak a cégeknek, akik nem állnak át Vistára, a kívánatosnál sokkal hosszabb ideig (akár 7-8 évig) kell Windows XP-t használniuk, aztán pedig lehet, hogy idõ elõtt kell bevezetniük a Windows 7-et, mivel az XP-hez 2009-ben megszûnik a "mainstream" terméktámogatás.

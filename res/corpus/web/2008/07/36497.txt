@@ -1,0 +1,12 @@
+Ideje másképp tesztelni a víruskeresõket!
+
+A VirusBuster víruslaborjának vezetõje, Szappanos Gábor is tagja lett az Anti-Malware Testing Standards Organizationnek (AMTSO), amely a kártevõk ellen védõ szoftverek tesztelésére dolgoz ki irányelveket, szabványokat. 
+
+
+
+Az AMTSO egy, a iparág több mint negyven szereplõjét tömörítõ szervezet, amelynek szinte minden ismert cég a tagja, többek között az AVG Technologies, a BitDefender, az ESET, az F-Secure, az IBM, a Kaspersky Lab, a McAfee, a Microsoft, a Panda, a Sophos, a Symantec, a Trend Micro és a VirusBuster. A szervezet célja, hogy a mai igényekhez illeszkedõ, szabványos tesztelési módszereket dolgozzon ki annak érdekében, hogy a különféle kártevõk ellen védelmet nyújtó programok teljesítményét és képességeit össze lehessen hasonlítani.
+
+
+ "A mostani tesztmódszerek tíz évvel ezelõtti állapotot tükröznek, amikor a keresõmodul volt szinte az egyedüli védelem, amelyet naponta vagy hetente lefuttattak. A tesztek ezt a mûködést szimulálták" -- mondta a HWSW-nek Szappanos Gábor. "Ma viszont mar senki sem védi így a gépét. Egyrészt mert nincs idõ vegigvárni a keresést, ezért az on-demand keresés háttérbe szorult az on-access kereséssel szemben. Másrészt a keresõmodul csak egyik része a védelemnek, fontos szerepe van még a spamszûrésnek, rootkit-védelemnek, tûzfalnak, vagy a viselkedésalapú védelemnek."
+
+"A felhasznaló szempontjából teljesen mindegy, melyik komponens védi meg az adott támadastól a gépet,  a hagyományos víruskeresõ-tesztek viszont nem vették figyelembe ezt a többrétegû védelmet" -- magyarázta Szappanos. "Fõ feladatunk az, hogy a károkozó-ellenes teszteket összehangoljuk a mai igényekkel és a mindennapi gyakorlattal." A szakember szerint örvendetes, hogy az AMTSO égisze alatt az egész iparágat sikerült összefogni, és a legfontosabb tesztelõk (pl. Virus Bulletin, AV-Comparatives, AV-Test) is résztvesznek a munkában. A tesztekre vonatkozó ajánlások hamarosan elérhetõk lesznek az AMTSO weboldalán.

@@ -1,0 +1,70 @@
+Toshiba Tecra R10 -- ne ítélj elsõre!
+
+A Toshiba az utóbbi években kétségtelenül a noteszgéppiac egyik szürke eminenciásává vált -- míg a cég legtöbb konkurense a technológiai megújulás mellett a dizájn tekintetében is meg tudott felelni a kor követelményeinek, addig a japánok mellett mintha elhaladt volna kissé az idõ. A cég meglehetõsen késõn eszmélt rá, hogy a noteszgépet ma sokkal inkább el lehet adni a külsejével, mint a technológiai paramétereivel és a tradíciók állandó felemlegetésével.
+
+
+
+Egyszerû
+
+A Toshiba üzleti szériás Tecra R10-es sorozatának megtervezése során sem a minél szemkápráztatóbb külsõt helyezték elõtérbe a mérnökök, a gép Tecra és a Portégé család legtöbb tagjához hasonlóan elsõ ránézésre egyszerû, mint a bot. Viszonylag ritkán jár szerkesztõségünkben 14,1 hüvelykes képátlójú, vagy annál nagyobb TFT-vel szerelt noteszgép, mivel a nagy és nehéz gépek létjogosultsága szerintünk manapság egyre kevéssé indokolható. Csakhogy a Tecra R10 egyáltalán nem nehéz gép, tömege akkumulátorral együtt mindössze 1,9 kilogramm, ami jó tervezésrõl, rosszabb esetben tejfölöspohár-vastagságú mûanyag burkolatról árulkodik.
+
+
+
+
+
+A Portégé R500-zal szerzett korábbi tapasztalataink kapcsán kissé tartottunk tõle, hogy a Tecra R10 az ultrahordozható testvéréhez hasonlóan úgy nyeklik-nyaklik majd, mintha papírból hajtogatták volna, errõl a notebookról azonban szerencsére hamar kiderült, hogy nem szenved a kisebbik testvér betegségétõl. A Tecra R10 ellenben külsõre meglehetõsen hasonlít a Portégé R500/600 és A600 család tagjaihoz, azaz a gép a kijelzõkávát és a tapipad krómozott gombjait leszámítva mindenhol egyenszürkében pompázik.
+
+
+
+
+A Tecra R10 dizájnját tehát nem cifrázta túl a Toshiba, a fentebb említett króm tapipad-nyomógomb tûnik a legvadabb próbálkozásnak, a beviteli felületet és a kijelzõt nem díszíti semmilyen felesleges, oda nem illõ elem. Leszámítva a temérdek matricát -- ezekbõl szám szerint hatot ragasztottak fel a tenyértámaszra. Egyikükrõl, a "magyar megoldások" feliratot viselõrõl nem igazán tudjuk eldönteni, pontosan mit takarhat, mindenesetre legalább olyan csúf, mint egy ARTISJUS-matrica, lekaparásakor viszont remélhetõleg nem hagy ott maga után annyi ragacsot.
+
+Szürke, de nem fém
+
+Mint említettük, a Tecra R10 nem tûnik törékenyebb gépnek az átlagnál, a szürke festék azonban már a demógépen is megkopott itt-ott, ami nem feltétlenül jó elõjel. Fém borítás vagy merevítés sehol nincs, a mûanyag azonban enélkül is állja a sarat. A kijelzõt tartó zsanérok masszívnak tûnnek és a divatnak megfelelõen síkjában belesüllyednek a noteszgép alapzatába.
+
+
+
+
+A notebook beviteli felülete az enyhén ívelt végû tenyértámasszal kecsességet kölcsönöz a Tecra R10-nek, úgy látjuk ugyanakkor, hogy az arányokat jobban is belõhették volna a mérnökök. A tapipad alatt található krómozott betét például kissé nagy az érintõfelület méretéhez képest, ami részben a gombok alatt található LED-sornak, részben az ujjlenyomat-azonosítónak köszönhetõ. Furcsa megoldással helyezték el a billentyûzetet is, melynek bal oldalán két funkciógomb és a bekapcsológomb díszeleg. Ennek köszönhetõen a klaviatúra nem középre került, ez azonban tapasztalataink szerint használat közben semmiféle hátránnyal nem jár.
+
+A gép színére festett billentyûzettel tapasztalatunk szerint könnyû a gépelés, a gombok járása kényelmes, a magyar kiosztással sincs gond, bár az &#8222;ú&#8221; és &#8222;û&#8221; gombok, valamint az Enter kissé összementek, ami egy ekkora gépnél szokatlan, ilyen kényszermegoldásokat többnyire a kisebb, ultrahordozható noteszgépeken látni. A Tecra R10 klaviatúrájának egyik zseniális húzása a lapozógombok (Page Up, Page Down) elhelyezése: a két funkciógomb közvetlenül a kurzornyilak mellé, az Enter alá került -- ez a kombináció a nagyobb dokumentumok, weboldalak áttekintését, átlapozását tapasztalatunk szerint összességében nagymértékben megkönnyíti.
+
+
+
+
+A Tecra R10 a hátulját leszámítva mindegyik oldalán rejt valami apró érdekességet. Ezek közül az egyetlen gyenge pont a gép elején található kártyaolvasó, mely kizárólag SD-kártyákkal boldogul. A notesz bal oldalán egy e-SATA/USB kombó csatlakozó, illetve egy analóg hangerõszabályzó potméter jelenti a látványosságot, jobbra pedig az ügyesen elrejtett ExpressCard-foglalat ragadja meg, pontosabban nem ragadja meg a figyelmet.
+
+Grafikusoknak készült
+
+A Toshiba noteszgépe egy Centrino 2-re épülõ, elsõsorban grafikus tervezõi feladatokra rendszeresített munkaállomás. A gyártó ennek megfelelõen egy komoly teljesítményû Core 2 Duo processzort pakolt a gépbe: az SP9300 típusú lapka 2,26 GHz-en ketyeg 1066 MHz-es rendszerórajel mellett. A chip 6 megabájtnyi másodszintû gyorsítótárt tartalmaz, és a 45 nanométeres gyártástechnológiának köszönhetõen a relatíve magas órajel és a nagy cache memória ellenére nem terheli túl az akkumulátort -- TDP-je mindössze 25 watt.
+
+A Tecra R10-ben az NVIDIA egyik új Quadro videovezérlõje, a G96 kódjelû processzorra épülõ Quadro NVS 150M dolgozik. A Quadrók leginkább OpenGL gyorsított grafikai és mûszaki munkákra, például CAD-re alkalmasak, de az NVS 150M csak alapszinten tudja mindezt, vagyis komplex és részletes modellek gyors mozgatásával már nem birkózik meg a rendszer. Ennek egyik oka a ma már fájóan kevésnek tûnõ, 128 megabájtnyi, 64 bit széles adatbuszon csatlakozó videomemóriában, másik oka pedig a mindössze 16 egységesített árnyalóban keresendõ. Játékra ez a megoldás alig nyújt többet a modernebb, lapkakészletekbe integrált videovezérlõknél, ezeknél a grafikus gyorsítóknál azonban elsõsorban a renderelés pontossága és megbízhatósága kerül elõtérbe.
+
+A GPU-hoz tartozó kijelzõ egy 14 hüvelykes, WXGA, azaz 1280x800 pixeles felbontású panel, amirõl sok jót vagy rosszat nem tudunk elmondani: a betekintési szögek átlagosak, a fényerõ sem kirívó. A kijelzõ felülete az üzleti gépek szellemiségéhez hûen matt, ami egyben azt is jelenti, hogy az R10 természetes fénynél vagy erõsebb háttérvilágításnál is használható marad, feltéve, hogy maximumra szabályozzuk a háttérvilágítás erõsségét. A notesz -- különös tekintettel a felhasználási területre -- talán egy nagyobb felbontású panelt is kaphatott volna, információink szerint a harmadik negyedévben lesz is olyan Tecra R10 modell a magyar piacon, melybe WXGA+ felbontású kijelzõt építenek a gyárban.
+
+
+Alapfelszereltség a HSUPA-modem és az SSD
+
+Érdemes még említést tenni a Tecra R10 memóriakiépítésérõl is, mely az adatlapokon és árlistákon nagyon jól mutat, a gyártó azonban érthetetlen módon itt is elkövette azt a bakit, hogy a 4 gigabájt rendszermemóriával ellátott számítógépet 32 bites operációs rendszerrel kínálja. A merevlemezre telepített Windows Vista Business ennek megfelelõen csak 3 gigabájtnyi memóriaterületet kínál fel a programok számára, ami ugyan nem kevés, de még mindig 1 gigabájttal kevesebb annál, amennyit valójában a gépbe pakoltak. A Tecra R10-be egyébként 800 MHz-es DDR2 memóriákat épít a gyártó, annak ellenére, hogy az Intel GS45 Express lapkakészlet memóriavezérlõje kezelné az ennél gyorsabb és energiatakarékosabb DDR3-as típusokat is.
+
+A Tecra R10-be a gyorsabb adatelérés és a szerényebb energiafogyasztás érdekében egy 128 gigabájtos SSD-t épített a gyártó, ami ismételten bizonyította számunkra, hogy a mobil számítástechnika egyik legnagyobb vívmányának igenis ott a helye a prémiumkategóriás gépekben. A Toshiba saját SSD-jével a géppel végzett fájlmûveletek nemcsak rendkívül gyorssá válnak, de a flashalapú háttértárnak, a hatékony hûtésnek és az alig melegedõ komponenseknek hála a gép kisebb terhelés mellett gyakorlatilag teljesen hangtalan, a hûtés ugyanakkor teljes terhelésnél sem zúg elviselhetetlenül.
+
+
+Vajon mit jelenthet?
+
+A hûtési rendszert dicséri továbbá, hogy a Tecra R10 idõvel egyik pontján sem melegszik fel annyira, hogy használata kényelmetlenné váljon -- ez a relatíve vékony kialakítást és a dedikált grafikus processzort figyelembe véve szép teljesítmény a gyártótól. A komponensek összfogyasztása akkumulátoros üzemben a nadrágszíj teljes összehúzása (kijelzõ leszabályozása, vezeték nélküli kommunikáció letiltása stb.) esetén reálisan 13-15 W környékére szorítható le, az akkumulátor így 4-4,5 óráig húzza, teljes terhelés esetén ennek az idõnek a negyedére lehet számítani. A Tecra R10-hez hamarosan forgalomba kerül egy hatcellás külsõ akkumulátor is, melyet a notebook aljára lehet felszerelni, ennek pontos kapacitása és tömege azonban egyelõre nem ismert.
+
+
+A Toshiba üzleti noteszgépének képességeit jól kiegészíti a meglehetõsen bõséges szoftverválaszték, mellyel a gép különbözõ komponensei paraméterezhetõk fel, vagy amelyek éppen a hibák elhárításában, megelõzésében, vagy a biztonsági beállításokban segítenek. Külön érdekességként érdemes kiemelni a biztonságos bejelentkezést a legkevésbé sem szolgáló, ellenben jópofa extrát, az arcfelismerésen alapuló logint. Hiányzik ugyanakkor a különbözõ alkalmazásokat egységbe foglaló, áttekinthetõ felület, mely a Lenovónál évek óta olyan jól mûködik ThinkVantage néven.
+
+
+
+
+
+A Toshiba Tecra R10 alapvetõen erõs mezõnybe csöppent, a 14,1 hüvelykes kijelzõjû noteszek táborában az egyik fõ konkurense éppen a Lenovo T400, mely nagyobb felbontású kijelzõvel büszkélkedhet, ugyanakkor SSD helyett merevlemez került bele, csak 2 GB memóriával rendelkezik és nincs benne alapkiépítésben a Tecra R10-ben megtalálható HSUPA-modem, illetve jó 30-40 dekával nehezebb is a Toshibánál. A másik potenciális ellenfél a Dell Latitude E6400, mely a Lenovo T400-hoz hasonlóan szintén nagyobb felbontású kijelzõvel, kevesebb memóriával és kizárólag HDD-vel kapható, tömege azonban már egyezik a Tecra R10-zel, ráadásul 4 év helyszíni garancia jár hozzá (a Toshibát 3 év világgaranciával árulják alapban). Mindkét konkurens modell olcsóbb a Tecra R10-nél.
+
+A Toshiba noteszgépe jelenleg nagyjából nettó 408 ezer forint környékétõl vihetõ el, amiért cserébe egy olyan, jól felszerelt üzleti munkaállomást ad a gyártó, mely csak néhány, többnyire jelentéktelen ponton készteti kompromisszumra a felhasználót -- ilyen lehet a kissé átgondolatlan kezelõfelület, vagy a kis felbontású kijelzõ. A Tecra R10-en igazán nehéz fogást találni: az elsõre rettenetesen jellegtelen notebookról idõvel kiderül, hogy szürke eminenciás létére egy jól használható, fejlett technológiákkal telezsúfolt, alapvetõen igényesen megalkotott géppel állunk szemben, mely különösebb fenntartás nélkül ajánlható a grafikus tervezõprogramokkal dolgozó, sokat utazó üzletembereknek.
+
+A Toshiba Tecra R10 notebookot a Takforsys Kft.-tõl kaptuk kölcsön.
+		

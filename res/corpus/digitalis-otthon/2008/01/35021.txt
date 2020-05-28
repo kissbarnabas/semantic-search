@@ -1,0 +1,22 @@
+Intel: tizenhat új processzor és egy nagy ígéret a CES-en
+
+A Consumer Electronics Show alkalmából az Intel bemutatta az elsõ 45 nanométeres mobil processzorait, illetve számos új modellel bõvítette az asztali Core 2 termékcsaládot is. A világ legnagyobb chipgyártója emellett hivatalosan is bejelentette, hogy még az elsõ félév során megérkezik az ultrahordozható eszközökbe szánt Menlow platformja.
+
+
+
+Penryn a házban!
+
+A 45 nanométeres Penryn-generáció rögtön öt termék formájában debütált az Intel mobil palettáján, a Santa Rosa platform frissítéseként. A kétmagos chipek legerõsebbike a Core 2 Extreme X9000, amely 2,8 GHz-en száguld és 851 dollárt kérnek érte, a mainstream vonalba a Core 2 Duo T9500 és T9300 tartozik, elõbbi 2,6 GHz-en, utóbbi pedig 2,5 GHz-en ketyeg és a listaáruk 530, illetve 316 dollár. Az alsóbb kategóriás noteszekbe a Core 2 Duo T8300-at és T8100-at szánja az Intel, ezek nem 6, hanem csak 3 megabájt másodszintû gyorsítótárral rendelkeznek, órajelük 2,4 GHz, illetve 2,1 GHz, listaáruk pedig 541, illetve 209 dollár.
+
+A vállalat új asztali processzorokat is bemutatott a CES alkalmával, amelyek szintén Penryn-alapúak. Korábban már esett szó lapunk hasábjain a Core 2 Quad Q9550, Q9450 és Q9300 premierjének elhalasztásáról, ezeket a lapkákat most mégis bejelentette az Intel, ugyanakkor még nem szállítja õket, a piaci megjelenésük ideje az elsõ negyedévben lesz. Ami mostantól kapható, az a Core 2 Duo E8500, E8400, E8200 és az E8190, ezek mindannyian kétmagos chipek 6 megabájt L2 cache-sel, 1333 MHz-es front side busszal, az órajelük kiviteltõl függõen 3,16 GHz és 2,66 GHz között változik, az árak pedig 266 és 163 dollár között szórnak.
+
+A fentiek mellett négy új Xeon is érkezett, ám ezekrõl az Intel közleménye szót sem ejtett, ám mi tudjuk, hogy egy kétmagos és három négymagos chiprõl van szó. A kétmagos Xeon E3110 6 megabájt L2 cache-sel rendelkezik és 3 GHz-en mûködik, a listaára ezer darabos rendelés esetén 188 dollár. Az új négymagos lapkák közül az X3360 és az X3350 12 megabájt másodiszintû gyorsítótárral rendelkeznek, az elõbbi órajele 2,83 GHz, utóbbié 2,66 GHz. A Xeon X3320 2,5 GHz-en üzemel és csak 6 megabájt másodszintû cache-t kapott.
+
+Az idén jön a Menlow
+
+
+Az Intel hivatalosan is bejelentette, hogy az elsõ félév során megkezdi az ultrahordozható eszközökbe szánt Menlow platform szállítását, amelyre máris számos készülék épül, ezeket a CES-en be is mutatják a vállalat partnerei, köztük az Asus, a BenQ, a Clarion, a Gigabyte, a Lenovo, az LG, a LiteOn, a Quanta, és a Toshiba. Háromfajta készülékre számíthatunk majd Menlow-alapokon, az Asus Eee PC-hez hasonló ultraolcsó noteszekre, UMPC-kre, illetve mobil internetterminálokra (MID).
+
+Ilyen eszközök épülhetnek majd a Menlow-ra
+
+Amint arról lapunk is beszámolt, a Menlow egy 45 nanométeres csíkszélességû processzorra, a Silverthorne-ra épül, amely rendkívül apró és mindössze 2 wattot fogyaszt, az elsõszintû gyorsítótár 56 kilobájtos, a másodszintû pedig 512 kilobájtos. A Silverthorne chipsetje, a Poulsbo egyetlen magas integráltságú chipbõl épül fel, és DDR2 memóriát hajt meg.

@@ -1,0 +1,16 @@
+Mindenki szeletet hasítana a mini noteszgépek tortájából
+
+Újabb és újabb gyártók lépnek be az ASUS Eee PC noteszgépével létrehozott "olcsó noteszgép" piacra, már nem csak neves gyártók, kisebb cégek is meglovagolnák az újhullámot. Az 1996-ban alapított ausztráliai Pioneer Computers a VIA referencia-ajánlásától eltérõ formatervû olcsó noteszgéppel törne be erre a piacra. Bár a belsõ ennél a gépnél is a VIA munkája, a megjelenés kerekdedebb és modernebb hatású a referenciánál. Az 1 GHz-es processzorral szerelt noteszgép 1,1 kilogrammot nyom.
+
+
+
+A Pioneer Computers a DreamBook Light IL1 modelljében próbálta egyesíteni a VIA platformját -- amelyet többek között a Packard Bell, az Everex is alkalmaz -- az Eee PC-hez hasonlatos modern, egyben robusztus külsõvel. A VIA C7-M alacsonyfogyasztású processzora egy gigahertzen üzemel, mellé 512 megabájtnyi, vagy egy gigabájtnyi DDR2 rendszermemória választható. A kijelzõ a szokásos 800 x 480 képpont megjelenítésére alkalmas, amelyet a VIA VX800U lapkakészletbe integrált videoalrendszer lát el tartalommal.
+
+
+A készülék parányi mérete nem tette lehetõvé az optikai meghajtó beépítését, háttértárolónak azonban Eee PC-t idézõ kettõ-, négy-, vagy nyolc gigabájtnyi SSD, vagy jóval nagyobb kapacitású 1,8 hüvelykes merevlemez is választható, utóbbiak 40, vagy 80 gigabájtnyi tárterülettel.
+
+A 928 grammos Eee PC-nél kismértékben nehezebb, 1,1 kilogrammos, 244 x 172 x 28,5 milliméteres DreamBook Light széles akkumulátorválasztékkal rendelhetõ, az áramforrások 3600 mAh-tól 7200 mAh-ig négy különbözõ lépcsõben állnak rendelkezésre. A mini noteszgép csatlakoztathatósága két USB2.0 kapuban, SD, MMC és MemoryStick változatok fogadására alkalmas kártyarésben, modem- és vezetékes hálózati csatlakozóban és monitorkimenetben merül ki, melléjük a külsõ mikrofoncsatlakozó társul a sztereo hangszórók mellett.
+
+DreamBook Light IL1
+
+A 446 dolláros alapár (499 ausztrál dollár) nem tartalmazza a 802.11 b/g Wi-Fi adaptert, ezt felárért kaphatjuk, éppúgy mint a webkamerát, vagy az ujjlenyomat-azonosítót. Az IL1-hez a feláras Windows Vista és XP változatai, vagy az alapárban szereplõ Ubuntu Linux egyaránt választható, de lehetõség van ezeket kombinálva több operációs rendszer telepítésére is. A két operációs rendszerrel és az összes, gépbe építhetõ extrával rendelt gép ára akár ezer dollárig is felkúszhat.

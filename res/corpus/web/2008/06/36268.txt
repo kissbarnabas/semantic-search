@@ -1,0 +1,14 @@
+Leleplezné a forgalmat manipuláló internetszolgáltatókat a Google
+
+[CNet] Diagnosztikai programokkal nyújtana segítõ kezet a Google a szélessávon internetezõknek, melyekkel megállapíthatnák, vajon internetszolgáltatójuk valóban manipulálja-e kapcsolatukat, akadályozza-e egyes protokollok, esetleg portok forgalmát.
+
+
+
+A The Register riportja szerint Richard Whitt, a Google politikai igazgatója a kaliforniai Innovation '08 rendezvényen beszélt errõl: "ha a szélessávú szolgáltatók nem árulják el, hogy pontosan mi történik a hálózatukban, mi [a Google] meg akarjuk adni az esélyt, hogy ezt a felhasználók saját maguk deríthessék ki". Whitt elkötelezett híve a hálózat semlegességének, mely a felhasználók mellett a fejlesztõk érdeke is. Véleménye szerint nem tehetnek különbséget a szolgáltatók szolgáltatások és alkalmazások között.
+
+
+Whitt egyelõre nem árulta el, hogy a segédprogramok mikor lesznek elérhetõk, vagy hogyan alkalmazhatók, de jelezte, hogy a Google mérnökei már egy ideje dolgoznak ezeken az alkalmazásokon. Az Egyesült Államokban a szolgáltatók semlegességét elsõként akkor kérdõjelezték meg nagy sajtóvisszhangot keltve, amikor a TorrentFreak arról tájékoztatta felhasználóit, hogy a Comcast nem csak korlátozza elõfizetõit az állománycserélésben, de esetenként még a vonalat is bontotta.
+
+A Comcast tagadta ezeket a vádakat, de a tesztek a feltételezést igazolták. Az ügy pedig végül odáig fajult, hogy a Szövetségi Kommunikációs Bizottság vizsgálatot kezdeményezett, a Kongresszus elé pedig olyan törvénymódosítást adtak be, mely úgy módosítaná az Egyesült Államok antitröszt törvényét, mely megtiltaná a kommunikációs szolgáltatóknak a diszkriminálást, a forgalom blokkolását, korlátozását, vagy priorizálását.  
+
+Itthon a kábelszolgáltatók kapcsán is felmerül idõnként a forgalom korlátozásának, manipulálásának vádja, legutóbb a UPC chello sávszélességbõvítés kapcsán ezek valósak is voltak. A UPC egyes területeken korlátozta az állománycserélõ szolgáltatások forgalmát addig, amíg a háttérben a megfelelõ kapacitásbõvítést végre nem hajtotta.

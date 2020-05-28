@@ -1,0 +1,13 @@
+Forró vízzel hûtené a számítógépeket az IBM
+
+A Zürichi Szövetségi Technológiai Intézet (ETHZ) és az IBM által közösen kidolgozott  vízhûtéses rendszer lényege, hogy a korábbiakkal ellentétben nem próbálják a hûtéshez használt folyadékot a környezeti hõmérséklet közelébe hozni, és feleslegessé vált hõt a rendszer méretéhez képest nagy radiátorokon keresztül visszahûteni -- vagyis hulladékként elpazarolni azt. Ezzel szemben az egyetemen építendõ Aquasar rendszer forró, legfeljebb 60 Celsius fokos vizet fog keringetni a processzorokon, és a kimeneti 65 fokos vízzel az egyetemi fûtõkört melegíti egy hõcserélõn keresztül, és hûl ezzel vissza 60 fokra, hogy az ismét megkezdhesse a hûtést.
+A trükk az, hogy nem a víz relatíve alacsony hõmérsékleten tartásával igyekeznek jelentõs hõmennyiséget elvonni, hanem a gyors keringetéssel. Igaz, az Aquasar a jelek szerint kisméretû, mindössze két BladeCenter keretbõl épül majd fel, így egyetlen szekrényben kezelhetõ. A rendszer hûtéséhez, vagyis hogy a processzorokat 85 fok alatt tartsák, 10 liternyi vizet percenként háromszor forgatnak át zárt rendszerben. A vizet kis csatornákon közvetlenül a juttatják el a chipekhez, ahol több száz, a processzor felületére merõleges hajszálcsövön keresztül közvetlenül a processzor felszínére kerül a hideg kör felõl, majd onnan visszakerül a melegkörhöz tartozó hajszálcsöveken keresztül a rendszerbe.
+
+
+
+Hogy meddig skálázható ez a forróvizes rendszer, kérdéses, az IBM azonban minden bizonnyal adatközpont-méretekben gondolkodott, mikor belevágott az ETHZ-vel közös projektbe, hiszen üzleti szempontból a céget leginkább a hatalmas szuperszámítógépes installációk érdeklik. Az IBM jegyzi a világ 10 legerõsebb szuperszámítógépének felét, az 500 legerõsebbnek több mint harmadát, és a telepített összteljesítmény közel 40 százalékát -- az IBM által szállított rendszerek átlagosan közel 50 teraflopsosak.
+Az IBM és az ETHZ állítják, a forróvizes megoldással akár 80 százalékkal csökkenthetõk a hûtési energiára fordított költségek, melyek a teljes felhasználás felét teheti ki -- vagyis az egész rendszerre vetítve 40 százalékkal volna mérsékelhetõ egy forróvizes hûtésû számítógép energiafelvétele, miközben a korábban hulladékként végzõ hõ is hasznosulhat, így további megtakarítások jelentkezhetnek az épületüzemeltetés oldaláról.	     
+                  
+                  
+                  
+                   

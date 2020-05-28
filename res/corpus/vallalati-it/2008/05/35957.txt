@@ -1,0 +1,14 @@
+Mac-en és Solarison is fut már az ingyenes VirtualBox új változata
+
+Megjelent a fõként ingyenessége okán népszerû, nemrég Sun Microsystems által felvásárolt VirtualBox virtualizációs szoftver új változata, az elsõ jelentõs frissítés a tranzakciót követõen. A frissített, 1.6-os verziószámot viselõ változat két fontos újdonságot hozott, immáron hivatalosan is futtatható Mac OS X és Solaris operációs rendszerek alatt.
+
+
+
+A VirtualBox a német innotek megszerzésével jutott a Sun kezébe. A szoftvert több mint 4 millió alkalommal töltötték le tavaly év eleje óta, kifejezetten népszerû fejlesztõk és tesztelõk körében, és támogatja az Intel és az AMD hardveres virtualizációs technológiáit is. Az új változat természetesen nem csak a két új host támogatásával büszkélkedhet, számos hibajavítással és gyorsabb beépített virtuális eszközökkel is gazdagodott.
+
+
+A VirtualBox nyílt forráskódú szoftver, szabadon letölthetõ a virtualbox.org vagy openxvm.org címû oldalakról, nem kell sem fizetéssel, sem regisztrációs kulcsokkal bajlódni hozzá. A VirtualBox a Windows 3.1-tõl a Vistáig terjedõ Windows verziókat, a Linux 2.2, 2.4 és 2.6 kerneleit, a Solaris x86-ot, az OS/2-t, a Netware-t és a DOS-t is képes operációs rendszerként befogadni.
+
+
+
+Az új változatban már teljesen folytonossá vált az ablakváltás a linuxos és Solaris vendég operációs rendszerekre, utóbbi operációs rendszer is megkapta végre "Guest Additions" csomagját. Az 1.6-os verzióban már van PAE (Physical Address Extension) támogatás is, így az Ubuntu tavaly megjelent két változata is hibátlanul futtatható. Javítottak a virtuális merevlemezek kezelésén és az USB2.0-ás problémákon, a 2.6.25-ös Linux kernellel tapasztalt hibákon is.

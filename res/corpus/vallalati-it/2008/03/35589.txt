@@ -1,0 +1,14 @@
+VMware virtuális környezet menedzselése Windows PowerShellbõl
+
+A VMware kiadta Virtual Infrastructure Toolkitjének windowsos változatát, amely lehetõvé teszi a VMware virtuális infrastruktúra (Virtual Infrastructure, VI) egyes menedzsment-feladatainak automatizálását a PowerShellben  megírt programocskák segítségével.
+
+
+
+A PowerShell a UNIX-éhoz és Linuxéhoz hasonló parancssort és egyben scriptnyelvet ad a windowsos rendszergazdák kezébe. A VI Toolkit lehetõvé teszi, hogy a rendszergazdák PowerShellben megírt programok segítségével hajtsanak végre olyan menedzsment-feladatokat, amelyeket eddig a grafikus felületen csak hosszadalmas kattintgatással tudtak elvégezni. A Toolkitben több mint 100 program található, amelyek segítségével villámgyorsan lehet például az összes virtuális géprõl snapshotot készíteni, több virtuális gépet egyik ESX Serverrõl a másikra mozgatni, template-eket klónozni, vagy éppen a csatolt floppy- és CD-meghajtókat leválasztani.
+
+
+ A VI Toolkit for Windows nagyon hasonló a VMware népszerû Perl Toolkitjéhez, amely Linuxon valósítja meg ugyanezt, vagyis virtuális gépek automatizált menedzsmentjét. Mindazonáltal még a VMware is kiemelti, hogy a PowerShellen alapuló változatot sokkal hamarabb el lehet sajátítani, így egy adminisztrátor akár már néhány óra, de legfeljebb pár nap elteltével hatékonyan tudja használni. PowerShellben vagy VBScriptekben szerzett tapasztalatok nagyban megkönnyítik a VI Toolkit használatát.
+
+A VI Toolkit for Windows egyelõre béta állapotban érhetõ el és tölthetõ le a VMware honlapjáról, használatához természetesen szükség van a Microsoft Windows PowerShellre is. A szoftver az ESX Server 3.0.2 és ESX Server 3.5, illetve a Virtual Center 2.5 platformokkal kompatibilis, és mivel a Windows PowerShellre épül, csak windowsos környezetben használható -- jelenleg a béta Windows Server 2003 (R2, SP1, SP2) mellett Windows XP-n és Windows Vistán mûködik. A 64 bites operációs rendszerek hivatalosan nem támogatottak, de Windows on Windows 64 segítségével a VI Toolkit ezeken is elfut.
+
+Természetesen a csomagban levõ 102 programocska mellé, akár azok felhasználásával mindenki készíthet saját commandleteket, a VMware létrehozott egy közösségi oldalt is, amely a VI Toolkit for Windows felhasználóit hivatott összegyûjteni, hogy kicserélhessék tapasztalataikat, illetve megoszthassák egymással a saját programjaikat.

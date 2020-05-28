@@ -1,0 +1,14 @@
+Villámgyors grafika és nagyfelbontású videó az NVIDIA mobilos lapkájával
+
+[DailyTech] Az NVIDIA saját standján demózza legújabb okostelefonokba szánt grafikus lapkáját, az APX 2500-at a Mobile World Congress rendezvényen, Barcelonában. A windowsos telefonokba készített grafikus gyorsító HD-képessé teszi a telefonokat, akár HDMI-kimenet is helyet kaphat rajtuk a jövõben.
+
+
+
+Az NVIDIA lapkája nem csak lejátszani képes akár 720-soros, progresszív videókat, de rögzíteni is, így rögtön HD-kamkordert is varázsolhat a jövõ okostelefonjaiból. A támogatott formátumok között megtalálható a népszerû MPEG4 és Windows Media 9 (VC-1), melyeket hardveresen dekódol a lapka, de ugyanígy képes H.264 kodekkel betömöríteni az anyagokat valós idõben.
+
+
+Az APX 2500 közvetlen támogatást nyújt HDMI 1.2 kimenethez is, így a lapkával szerelt mobiltelefon, multimédiás lejátszó akár közvetlenül HD-tévére is köthetõ, de hagyományos monitorokat is ki tud szolgálni akár 1280 x 1024 pixeles felbontásig. Az audioformátumok között az AAC, és a WMA is megtalálható a népszerû MP3 mellett, beépített digitális kamerát pedig 12 megapixelig kezel a logika.
+
+
+
+A lapka a multimédiás képességeket alacsony fogyasztással és 3D-gyorsítással fejeli meg, az OpenGL ES 2.0 és Direct3D Mobile támogatás új és villágyors, teljesen három dimenziós kezelõfelületek fejlesztését teszi lehetõvé, ahogyan azt a mûködõ NVIDIA referenciadizájn is sejteti. Az NVIDIA a Microsofttal közösen dolgozik az APX 2500-on, mely valószínûleg csak Windows Mobile-os készülékekben lesz megtalálható.

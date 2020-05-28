@@ -1,0 +1,24 @@
+Csak öt nagy közösségi hálózat állt rendelkezésre 99,9 százalékban tavaly
+
+Minden harmadik közösségi hálózat több mint egy napot állt a legnagyobbak közül 2008-ban a svéd Pingdom monitoring cég jelentése szerint. Az eltérések egészen nagyok a különbözõ szolgáltatások adatai között, a legkevesebb kiesést a nagyon gyorsan növekvõ, óriási hálózatok szenvedték el.
+
+
+
+99,9%
+
+A weboldalak elérhetõségét monitorozó Pingdom, a világ 15 legnagyobb és legnépszerûbb közösségi hálózatának 2008-as üzemkieséseirõl adott ki jelentést. Az adatok alapján mindössze a Facebook, a MySpace, a Classmates.com, a Xanga és az Imeem voltak elérhetõek a tavalyi év 99,9 százalékában. A legrosszabb eredményt a 15-ös mezõnyben a Twitter produkálta, ami tavaly az év elsõ felében gyakran küzdött problémákkal, igaz az év második felében már komoly javulás volt tapasztalható -- mégis, összesen 84 órán keresztül nem üzengethettek egymásnak a webkettes felhasználók.
+
+A legkomolyabb összefüggõ leállást produkáló szolgáltatás a Friendster  volt, amelynek novemberben az üzenemtetõ adatközpontja károsodott,  minek következtében a szolgáltatás összesen 23 órát állt. Ha az egy leállás nem történt volna, akkor a Friendster is az élvonalban végzett volna.
+
+ 
+
+Könnyû elbukni
+
+Érdekes megfigyelni a tendenciákat is az év során: míg a Twitter az év eleji rendetlenkedés után a második félévben szinte tökéletesen mûködött, addig a LinkedIn esetében egyre csak romlottak a számok. A Windows Live Spaces esetében pedig négy hónap kiesései felelnek szinte az egész eredményért, a maradék 8 hónapban mindössze percekre állt csak le a szolgáltatás. A Google tulajdonában lévõ Orkut pedig az év felében 100 százalékot teljesített, s egy júliusi nagyobb és néhány év eleji kisebb kiesés rontja csak a képet.
+
+
+A elérhetetlenség és a kiesések oka a hirtelen népszerûség is lehet sok esetben a közösségi oldalaknál. Amennyiben a fejlesztõk nem kalkulálnak a gyors növekedéssel, akkor könnyen erõforrás-problémákba futhatnak. A Pingdom szerint viszont a másik gyakori ok, hogy az internetszolgáltató-váltás során történnek nem várt dolgok, ami miatt egy ideig nem elérhetõ egy oldal.
+
+Az üzemzavar káros a népszerûségre
+
+A gyakori kiesések, illetve a hosszabb leállások a Pingdom szerint erõsen rontják az adott oldal hírnevét, a felhasználók elégedettségét és nem utolsó sorban bevételkiesést is jelentenek a legtöbb esetben. A Pingdom a kutatási jelentésben az eredményekhez hozzáteszi azt, hogy a mérések nem felhasználói oldali méréseken alapulnak, hanem a svéd cég saját rendszerébõl való elérhetõségre, így elõfordulhat, hogy egyes globális szolgáltatások jóval többször nem voltak elérhetõek lokálisan vagy bizonyos felhasználók számára.

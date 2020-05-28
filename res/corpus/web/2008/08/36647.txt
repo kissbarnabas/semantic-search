@@ -1,0 +1,36 @@
+Aurora: Bárki fejlesztheti a jövõ webböngészõjét
+
+Alig hûlt ki a Firefox 3 indulása után, a Mozilla Alapítvány máris a következõ nagy durranáson töri a fejét. A szervezet szerdán fedte fel legújabb projektjét, az Aurorát, ami egyelõre csupán egy koncepció a jövõ webböngészésének bemutatására.
+
+
+
+"Az Aurora egy nyilvános eszmecsere ugródeszkája kíván lenni, azzal kapcsolatban, hogy hogyan kellene fejlõdnie a webböngészõk által nyújtott felhasználói élménynek" -- áll az Adaptive Path közleményében. A San Franciscó-i dizájncég a Mozilla Labs felkérésére látott hozzá a projekthez, melynek elsõ prezentációja egy négy részes videosorozat elsõ két epizódja. 
+
+
+				Aurora (Part 1) from Adaptive Path on Vimeo.
+
+
+
+"Az Aurora magában foglal számos innovatív dizájn ötletet, melyek komplex módon, teljesen egymásra épülnek. A bemutatott videókat arra használtuk, hogy megmutassuk, hogyan mûködnek ezek az elképzelések együtt egy adott szituációban" -- mondták el az Adaptive Path képviselõi. 
+
+Az Aurora elsõdlegesen fontos részei a természetes interakció, a folytonosság, a több-felhasználós alkalmazások és az összefüggések tudatos kezelése. A Mozilla célja, hogy a koncepciót megvizsgáló felhasználóknak leessen az álla, illetve hogy az IT-iparban, felsõoktatásban tevékenykedõ emberek világszerte bekapcsolódhassanak az ötletelésbe, útkeresésbe. A létrejövõ virtuális közösségen belüli ötletek és tapasztalatok megosztásával, kollektív felfedezéssel képesek meghatározni a jövõ webjéhez vezetõ utat. 
+
+
+				Bookmarking and History Concept Video from Aza Raskin on Vimeo.
+
+
+A Mozilla alapítvány az Aurora mellett egyébként már most bemutatott néhány mûködõképes koncepciót, például a könyvjelzõk rendezésének egy egészen új módszerét, illetve számos javaslatot a Firefox Mobile-hoz. Ez utóbbi gondolatmenet igyekszik a realitásokból kiindulni, a böngészõt eleve érintõképernyõre tervezik, illetve figyelembe veszik a felhasználói korlátokat is.
+
+Eddig is tisztában volt a világ azzal, hogy egy pici érintõkijelzõn kényelmetlen ujjal navigálni, ezt eddig többnyire a stylus ceruza alkalmazásával oldották fel, de a hétköznapi életben nem kapjuk majd elõ minden másodpercben a célszerszámot, a webböngészés viszont némi precizitást igényel a mai formájában. Egy átlagos kijelzõt, egy átlagos ujjal megérintve akár a kijelzõ egy tizedén is otthagyhatjuk az ujjlenyomatunkat, ami körülbelül olyan, mintha a könyökkel próbálnánk meg gépelni egy normál billentyûzeten. A megoldás nyilvánvalóan ennek a problémának a feloldásán keresztül vezet, amit a Mozilla ha sikeresen vesz, akkor a mobil böngészésben is méltán válik népszerûvé majd. 
+
+
+				Firefox Mobile Concept Video from Aza Raskin on Vimeo.
+
+
+Az Aurora projekt és a hozzá kapcsolódó kisebb fejlesztések legfõképp abban különböznek az eddig megszokottól, hogy a felhasználók valós igényeire támaszkodva a fejlesztõk és a tervezõk, dizájnerek egy nagyon széles rétegét mozgatják meg. A közösségi gondolkodás és a folyamatos visszacsatolások eredménye pedig bizonyára meghökkentõ változásokat hoz majd. A Mozilla Alapítvány szerint elegendõ egy egyszerû ötlet is akár, ami lehet egy mondatnyi vagy egy oldal is. Ezek lényege, hogy egyszerûek és nem technikai jellegûek. Mindenkinek vannak igényei vagy elképzelései, ehhez elegendõ egyszerûen internet-felhasználónak lenni. 
+
+A látványtervek és a prototípusok esetében az alapítvány a nyilvánvaló technikai definíciókon kívül csak annyit kér, hogy az elkészült anyagok legyenek szabadon terjeszthetõek és változtathatóak, például a Creative Commons licence alatt. Ezen a szabadság nélkül a közösségi fejlesztés jogi akadályokba ütközne, az pedig soha nem visz elõre. A Mozillások azt mondják: "Legyél bátor, arcátlan és radikális! Minél õrültebb, annál jobb. Fedezzük fel együtt a jövõt!" 
+
+
+
+				Aurora (Part 2) from Adaptive Path on Vimeo.

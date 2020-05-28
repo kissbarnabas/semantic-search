@@ -1,0 +1,19 @@
+Megjelent az AMD ultrahordozható platformja - olcsó mobilitást a népeknek!
+
+Az AMD ma jelentette be Yukon kódnéven ismert, ultrahordozható, valamint a vékony és könnyû PC-kbe szánt platformját, ami Athlon Neo processzorra és AMD chipsetre épül. A vállalat állítja, nem kíván a netbookok szegmensében megjelenni, mivel az a kategória erõsen korlátozza a felhasználókat, hanem egy olyan teljes értékû ultrahordozható platformot akar nyújtani, amely megfizethetõ a vevõk többsége számára. A Yukon-alapú notebookok megjelenése a következõ hónapok során várható.
+
+
+
+A Yukon lényegében a rendkívül olcsó netbookok és a drága ultrahordozható notebookok közötti területre kíván behatolni -- mindkét határoló szegmens az Intel egyeduralma alatt van, mûszakilag felsõbbrendû termékekkel. Bár néhány nagyobb márka, mint például az Acer, a Toshiba és a Fujitsu Siemens is bemutatott viszonylag olcsó, otthoni felhasználásra szánt ultrahordozható modelleket, ezek eddig nem igazán arattak nagy sikert a piacon, arányuk elhanyagolható a fogyasztói értékesítésbõl. Az IDC adatai alapján Európában ezek a kedvezõ árú, 300 ezer forint alatti modellek részesedése 0,5 százalék körüli az összes notebook értékesítésén belül, még  drágább, többségében üzleti és lifestyle modellekbõl is több mint nyolcszor annyi fogy. 
+
+[+]  Kipróbáltuk: Lenovo ThinkPad X200s 
+
+Az AMD úgy gondolja, hogy ennek ellenére a magánfelhasználók igénylik az olcsó hordozható gépeket, melyekkel ugyanakkor nem kell a netbookos kompromisszumokat kötni, mint amilyen például az Intel Atom processzor a mai mércével rendkívül alacsony számítási teljesítménye, a kicsi kijelzõ és felbontás, vagy a gyenge grafikus teljesítmény. A Yukon platform, vagyis a processzor és az azt kiszolgáló chipkészlet fogyasztása tipikusan 25 watt alatt marad az AMD ígérete szerint, így alkalmas kifejezetten vékony notebookokba is -- az AMD így kommunikálja és erre próbálja meg rávenni a számítógépgyártó partnereket is, hogy 12-14 hüvelykes, "ultravékony" modellekkel lépjenek piacra.
+
+
+HP Pavilion dv2 
+
+Ahogyan a HWSW hasábjain is megjelent korábban, a Yukon egy egymagos, K8 mikroarchitektúrájú processzorból, AMD RS690E és SB600 chipkészletbõl épül fel, mely egy, az Intel megoldásainál jóval nagyobb teljesítményû ATI Radeon X1250 grafikus magot integrál. A korábban Huron kódnéven ismert processzor Athlon Neo néven kerül a piacra, az 1,6 gigahertzen ketyegõ változat jelölése MV-40, az L2 cache mérete 512 kilobájt, a 65 nanométeres eljárással készülõ chip elektronikai kerete 15 watt. Az év hátralévõ részében érkezik a kétmagos platform, mely Congo névre hallgat. A Conesus kódnéven ismert chipet RS780M és SB710 north- és southbridge chipek egészítik ki, azaz erõsebb, ATI Radeon 3200 grafikus magot takar már.
+
+
+Az elsõ, Yukonra építõ notebookot a HP jelentette be. A Pavilion dv2 egy 12,1 hüvelykes notebook, mely 25 milliméternél vékonyabb, és tömege 1,7 kilogrammról indul, beépített optikai meghajtóval ugyanakkor nem rendelkezik. A magnéziumötvözetû burkolat a HP ígérete szerint strapabíróvá teszi a gépet, melynek árazása 700 dollárról indul. Ez Magyarországon 190 ezer forint körüli induló árra fordulhatna le, a HWSW megkeresésére azonban a HP Magyarország úgy felelt, jelenleg nem tervezi a hivatalos hazai forgalmazást, mivel nem látnak rá igényt, ami azt jelenti, legfeljebb európai importból juthat be az országba.

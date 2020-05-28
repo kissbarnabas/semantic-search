@@ -1,0 +1,18 @@
+Jövõ év végén érkezik a VIA kétmagos processzora
+
+[Digitimes/HWSW] Jövõ év második felében érkezhet a VIA kétmagos processzora, írja a tajvani Digitimes belsõs forrásokra hivatkozva. 
+
+
+
+Az új chip valószínûleg a piaci premierjéhez közeledõ Isaiah egyenesági leszármazottja lesz, és 45 nanométeres csíkszélességû eljáráson készül majd, célterülete pedig az olcsó és kompakt számítógépek lesznek, mint például Asus Eee PC-hez hasonló mini notebookok. Bár ez a termékterv papíron nem veszi fel a versenyt az Intel Atom vonalának fejlesztéseivel, elegendõ lehet ahhoz, hogy a VIA processzorfejlesztéseit felszínen tartsa.
+
+
+Mint arról a HWSW is beszámolt, a VIA gyökeresen új mikroarchitektúrát implementáló processzor fejlesztésén dolgozott az elmúlt években. A már 64-bites kiterjesztést is támogató Isaiah a VIA szerint szakított a C7 örökségével, hogy a legmodernebb processzortechnikai vívmányokat valósítsa meg. A tajvani vállalat célja egy olyan, a jelenlegi platformmal kompatibilis chip megalkotása volt, mely a felhasználók többsége számára elfogadható teljesítmény mellett a lehetõ legmagasabb energiahatékonyságot mutatja fel. Ez a koncepció a processzor felépítésének minden részletét áthatni látszik.
+
+
+
+Az egymagos Isaiah meg nem erõsített információk szerint 2 gigahertzes órajellel indít, az adatbusz effektív órajele 800-1333 megahertz közé esik, és a japán Fujitsu 65 nanométeres gyártástechnológiáján készül. A VIA a C7-nél azonos órajel és fogyasztás mellett 2-4-szer nagyobb teljesítményt ígér. A vállalat márciusban kezdte meg a chip prototípusainak szétküldését, így megkezdõdhet annak remélhetõleg gyors rendszerszintû validációja -- elméletileg egy BIOS-frissítést követõen beilleszthetõek lesznek a jelenlegi alaplapokba.
+
+[+] A HWSW összefoglalója az Isaiah architektúrájáról 
+
+Jelenleg a HP Compaq 2133 mini notebookról tudni, hogy VIA C7M processzorra épít, melyet minden bizonnyal Isaiah chipre frissítenek, amennyiben tömegesen hozzáférhetõvé válik, a többi gyártó vagy az Intel mellett tette le voksát, vagy egyelõre nem hozta nyilvánosságra, milyen alapokra helyezi mini notebookját. A VIA számára néhány sikeresebb mini notebook modell elegendõ lehetne arra, hogy akár megsokszorozza bevételeit. Jelenleg a processzorszállítások 20-30 százalékos bõvülésével kalkulálnak mindössze 2008-ra.

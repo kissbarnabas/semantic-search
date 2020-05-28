@@ -1,0 +1,59 @@
+Nokia E71: tökéletes üzleti okostelefon
+
+Lassan három éves lesz a Nokia üzleti okostelefon-családja, az E-sorozat, amelynek elsõ tagjait 2005 októberében dobta piacra a finn cég. Ezek között volt a teljes QWERTY billentyûzetet felvonultató E61 is, amelyet végül csak 2006 közepén kezdtek forgalmazni. Egy évvel késõbb megérkezett a ráncfelvarrott E61i, most pedig a teljesen új E71, ami jó irányba viszi tovább ezt a vérvonalat.
+
+
+
+Kisebb, mégis jobb
+
+Ami elsõként feltûnik az E71-gyel kapcsolatban, hogy pici és szép. A telefon a piacon levõ legvékonyabb a HSDPA-t, GPS-t és Wi-Fi-t is felvonultató okostelefonok mezõnyében, de területét nézve is összement az E61-hez képest. Ezzel együtt természetesen a kijelzõ is zsugorodott, de ez egyáltalán nem zavaró, igazából az azonos (320x240) felbontás miatt a grafika ki is simult egy kicsit. A telefon elõ- és hátlapja egyaránt fémbõl van, ami nem csak igényes külsõt kölcsönöz neki, hanem a tulajdonosnak is minõséget, robosztusságot sugall. Kézbe véve az E71-et úgy érezzük: ez bírni fogja a strapát, bõven van benne anyag. Pedig a készülék csak 127 gramm.
+
+
+
+
+A billentyûzet is jelentõs változásokon esett át. Az E61 és E61i gombjai még 1-2 milliméterre voltak egymástól, az E71 billentyûi viszont szorosan egymáshoz simulnak, a könnyû gépelés érdekében kissé domborúra tervezte õket a Nokia. Az E71 billentyûzete jobb lett az E61-énél, a gombok határozott nyomásponttal bírnak, nem túl hosszú az útjuk, és az sem zavaró, hogy az E61-hez képest "összementek". A kisebb méret tehát itt sem ment a használhatóság rovására, sõt!
+
+A QWERTY billentyûzet felett vannak a gyorsgombok, amiknek az elrendezése az E61i-rõl vagy az E51-rõl már ismerõs lehet. A hívásindítás és -bontás mellett két softgombot, valamint a naptárt, a telefonkönyvet, az üzeneteket és a kezdõképernyõt elérõ gyorsbillentyût találjuk. A gyorsgombok mûködését teljesen testreszabhatjuk, így akármelyik, általunk utólag telepített alkalmazást vagy tetszõleges funkciót hozzájuk rendelhetünk, a rövid billentyûnyomáshoz és a gomb nyomva tartásához más-más parancs tartozhat.
+
+A telefonon Symbian OS 9.2 operációs rendszer fut a Series 60 kezelõfelület alatt. A rendszer lelke egy 369 MHz ARM 11 CPU, amelyhez 128 megabájt SDRAM csatlakozik, utóbbiból valószínûleg sosem fogunk kifogyni, kis túlzással azt mondhatnánk, hogy akárhány alkalmazást futtathatunk párhuzamosan. A felhasználói programok számára 110 megabájt memória áll rendelkezésre, ezt microSD kártyákkal tovább lehet bõvíteni. Az E71-hez nagylelkûen egy 2 gigabájtos kártyát mellékel a Nokia. A Series 60 platform szoftverellátottsága továbbra is csak szuperlatívuszokkal jellemezhetõ, gyakorlatilag nincs olyan mobil alkalmazás, amelyet ne készítenének el rá, legyen szó üzleti szoftverekrõl vagy játékokról, a kínálat tehát bõséges. A szoftverek telepítéséhez vagy az adatok szinkronizálásához microUSB-kábellel kapcsolhatjuk a PC-hez a telefont.
+
+
+
+
+Szoftverellátás
+
+Az E71-re a Nokia több alkalmazást is elõre telepít, például az Office-állományok megjelenítésére és szerkesztésére alkalmas QuickOffice-t, PDF-olvasót, Zip-tömörítõt, vagy vezeték nélküli prezentáció-megjelenítõt, amellyel a telefonról közvetlenül tudunk prezentációkat lejátszani egy arra alkalmas projektoron. Van mértékegység-váltó, egy elég jó ébresztõóra és diktafon is. A bizalmas adatok védelmérõl a Remote Wipe gondoskodik: egy SMS-sel akár a távolból is tudjuk zárolni a telefont, amirõl három sikertelen nyitási kísérlet után az összes adat törlõdik. A telefonra a Nokia elõre telepített egy szótárat is, ami alapesetben angol értelmezõ szótár, de a Nokiától további nyelveket is letölthetünk.
+
+Szintén az üzleti jelleget erõsíti a beépített e-mail kliens, ami a Microsoft Exchange mellett alapból együttmûködik számtalan webes e-mail szolgáltatással is (pl. Yahoo, Gmail, Hotmail), a titkosítás sem jelent számára problémát, amivel viszont nem ért szót, az a Blackberry Connect, aminek nyilvánvalóan az az oka, hogy a Nokiának már van hasonló push e-mail szolgáltatása, ezért az E71 és az E66 már nem kompatibilis a Blackberry-ével. Minden mással viszont pofonegyszerû a használata, a kézikönyv szerint az E71 több mint ezer különféle e-mail szolgáltatáshoz tartalmaz elõre tárolt profilt, így elég a felhasználói nevünket és jelszavunkat megadni, minden mást a telefon intéz.
+
+
+
+
+A telefonra a Nokia saját webböngészõje kerül alapállapotban, ami a nagy memória miatt szerencsére gyorsan is mûködik még akkor is, ha Javával vagy Adobe Flash-sel találkozik -- még a YouTube-videók sem jelentenek problémát, de az adatforgalomra azért jó lesz figyelni, mert könnyen bele lehet feledkezni a webes videózásba. Sportos üzletembereknek lehet hasznos a SportsTracker, ami a beépített GPS segítségével nyomon tudja követni, hogy mennyit kerékpároztunk, gyalogoltunk vagy futottunk. Ötletes, hasznos. A GPS természetesen helymeghatározásra, navigációra is alkalmas, a Nokia elõre telepített Maps 2.0 alkalmazásával, vagy akár egy utólag megvett szoftverrel, mint amilyen például a Tomtom Mobile.
+
+Testreszabható kezdõképernyõ
+
+A gyors processzornak és a sok memóriának köszönhetõen az E71 sosem lassul le, folyamatosan jól használható és válaszképes marad -- ebben jelentõsen eltér például a Sony Ericsson G900-tól. A kezdõképernyõ (homescreen) a Series 60 telefonoktól megszokott, itt nyomon követhetjük a találkozókat és egyéb naptárbejegyzéseket, beérkezett üzeneteket, egyebeket -- azt is kiválaszthatjuk, hogy a telefon milyen eseményekre figyelmeztessen az iránybillentyû villogtatásával, így nem maradunk le az SMS-ekrõl vagy hívásokról akkor sem, ha csak néha pillantunk rá a készülékre (az E61-rõl fájón hiányzik ez a képesség, ott csak utólag feltelepített szoftverrel érhetõ el). 
+
+
+
+Az E71-re általánosságban jellemzõ a testreszabhatóság. A kezdõképernyõ is a végletekig finomhangolható, ráadásul rögtön kettõt is használhatunk, amelyek között egy gombonyomással válthatunk: napközben, üzleti készülékként nyilván egész más információkra vagyunk kíváncsiak, mint például hétvégén vagy nyaralás közben. A két kezdõképernyõnek más lehet a témája, eltérõek lehetnek a gyorsindító ikonok is. Érdekes egyébként, hogy bár a kijelzõ felbontása nem változott, az E61-en még hét gyorsindító ikon fért el egymás mellett, az E71-en már csak hatnak van hely. A névjegyzékbõl való tárcsázáshoz az E61-en még be kell menni az alkalmazásba, az E71-en viszont akár a kezdõképernyõrõl is tárcsázhatunk, elég a névben levõ betûket ugyanúgy begépelni, és a telefon már elénk is dobja a találatokat, amelyeket a zöld gombbal azonnal fel is hívhatunk. Zseniális.
+
+
+Sokoldalúsága, nagy memóriája és gyors processzora ellenére az E71 alig kér enni. A gyárilag mellékelt, 1500 mAh kapacitású akkumulátorról akár egy hétig is mûködik, de intenzív használat mellett sem kell minden este tölteni, mint a nemrég piacra került érintõképernyõs windowsos okostelefonokat, például az LG KS20-at vagy a HTC Touch Diamondot. Egyébként az E71 hálózati adapterének hurcolása aligha okoz problémát bárkinek, annyira pici, amennyire csak lehet. Az akkus üzemidõ a GPS miatt is fontos, az E71-gyet hosszabb túrákhoz is használhatjuk, 8-10 órát még akkor is kibír, ha a navigációs szoftver folyamatosan dolgoztatja a hardvert.
+
+Munka után...
+
+Bár az E71 kimondottan üzleti okostelefon, a szórakoztatásra is gondoltak a tervezõk, ezért kapunk egy elõre telepített zenelejátszót (MP3, WMA, AAC, AAC+, eAAC, RealMedia és eAAC+ streaming) és FM-rádiót is. Ezeket a mellékelt sztereó headseten át hallgathatjuk, de bármilyen 2,5 mm-es csatlakozóval felszerelt fülhallgatót csatlakoztathatunk. Ha játszani támad kedvünk, egy elõre telepített passziánsz-gyûjtemény (Can't stop solitaire) és egy 3D grafikát felvonultató autóverseny (Global Race) közül választhatunk -- az elõbbi jobb, ha e kettõ közül kell választani, de szerencsére a 320x240 kijelzõs symbianos telefonokra más játékok is vannak.
+
+
+
+A telefon hátlapján van egy 3,2 megapixeles, autofókuszos kamera LED-vakuval, amivel videókat is rögzíthetünk, bár a legfeljebb 15 fps sebességû, QVGA felbontású filmek aligha nyújtanak élményt bárkinek is, aki visszanézi õket a beépített, RealMedia-kompatibilis videolejátszón. A kamera talán az E71 leggyengébb pontja, de mivel ez nem fotómobil, talán nem is jelent igazi problémát, a megcélzott vevõkör aligha reklamál majd a Nokia ügyfélszolgálatán ezért. 
+
+Nagyon tetszett
+
+A kártyafüggetlenül 100 ezer forintos ajánlott bruttó áron kapható Nokia E71 minden téren továbblépés az elõdhöz képest. Vékonyabb, kisebb, így már könnyen elfér bármilyen zsebben, jobban néz ki, igényesebb anyagokból van (bár az E61 sem tûnik olcsónak), a billentyûzete és a kijelzõje is jobb. A telefon processzora erõs, memóriája nagy, emellett lényegében mindenféle kapcsolódási módot megtalálni benne, ami 2008-ban elérhetõ (3G, HSDPA, Wi-Fi, Bluetooth 2.0) -- a GPS már csak hab a tortán. Az akkumulátoros üzemidõ is meggyõzõ. Egyedüli gyenge pontként talán a kamerát említhetnénk, de egy üzleti telefonnál ez még belefér. Ezt leszámítva tökéletes az E71.
+
+Véleménye van?
+Szóljon hozzá a fórumban
+írjon szerkesztõségünknek!

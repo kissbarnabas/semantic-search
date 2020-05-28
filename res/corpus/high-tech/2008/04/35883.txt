@@ -1,0 +1,14 @@
+Energiatakarékos Wi-Fi-lapkákat szállít a Broadcom
+
+[eWeek] Energiatakarékos, a következõ generációt, a 802.11n szabványtervezetet is támogató Wi-Fi-lapkákat szállít a Broadcom, melyek a cég szerint akár 50 százalékkal kevesebb energiát fogyasztanak, mint a jelenleg alkalmazott megoldások. Az új portfóliót az azt menedzselõ szoftverrel együtt ipari környezetbe is kínálja a lapkagyártó.
+
+ 
+
+A Broadcom szerint az integrált, komplett platformmal nem csak energiát, de fejlesztési idõt és költséget is meg lehet takarítani. A rendszer használatával nincs szükség külsõ fejlesztõk munkájára és a rendszerépítõk is hónapokat spórolhatnak meg a saját szoftverfejlesztésen. Michael Hurlston, a Broadcom üzleti WLAN-rendszereit fejlesztõ részlegének igazgatója szerint a platfrommal sikerrel pályázhatnak a piac 2,3 milliárd dolláros forgalmának egy részére.
+
+A rendszer a vállalat egyetlen lapkából álló, BCM4342 kódjelzésû 802.11n chipjébõl és egy egységesített hozzáférési pont szoftverbõl áll. A platformot központosított rádiómenedzserrel és behatolás elleni védelemmel is ellátták, mely a komplett hálózaton képes detektálni a biztonsági problémákat.
+
+
+A Broadcom szerint a BCM4342-alapú megoldás az elsõ, mely eredményesen lép fel a fogyasztási problémákkal szemben, mely az új technológia ipari terjedésének egyik fõ gátja. Bár a többcsatornás forgalmazásra képes 802.11n nagyobb lefedettséget és átviteli sebességet ígér, egyben a lapkák fogyasztása is nagyobb, mely számos esetben túllépi az ipari WLAN-eszközöknél megcélzott határértékeket. A 802.11n tervezettel kompatibilis eszközökhöz ezért sokszor két POE (Power Over Ethernet) port használatára van szükség, vagy frissíteni kell a hálózatot az új, több energia közvetítésére képes POE+ támogatására.
+
+A BCM4342 a Broadcom szerint feleannyi energiát fogyaszt, mint a konkurens megoldások, ezért olyan eszközök is építhetõk vele, melyek a jelenlegi POE-csatlakozásokkal is használhatók, nem igénylik az újabb változatú hálózat, vagy második POE-port kiépítését.

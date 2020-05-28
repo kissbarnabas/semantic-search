@@ -1,0 +1,27 @@
+Átfogó biztonsági eseménykezelõ és logelemzõ a Novelltõl: itthon is elérhetõ a Sentinel
+
+Magyarországon is elérhetõ a Novell átfogó biztonsági információ- és eseménykezelõ (Security Information and Event Management, SIEM) szoftvere, a Sentinel, amely a különféle IT-eszközökbõl származó naplófájlok valós idejû elemzésével igyekszik megkönnyíteni a zökkenõmentes és biztonságos üzemeltetésért aggódó vezetõk dolgát.
+
+
+
+Mindenhol ott van, mindenrõl tud
+
+A Sentinel folyamatosan figyeli a szervezet teljes hálózati infrastruktúrájából, többek között a személyazonosság- és hozzáférés-kezelési termékekbõl, tûzfalakból, routerekbõl, vírusvédelmi termékekbõl,  behatolásvédelmi eszközökbõl és eszközmenedzsment-megoldásokból származó információkat. Ezáltal a felhasználók egy helyen követhetik nyomon a biztonsági eseményeket. A Sentinel a logok valós idejû elemzésével figyelmeztet a biztonsági incidensekre, elõre definiált, de testreszabható 
+"akcióterveket" tartalmaz azok elhárítására, illetve a megtörténtük után támogatja azok felderítését, kivizsgálását.
+
+Az integrált logelemzés nem csak a biztonság, hanem az üzemeltetés területén is hasznos, a Sentinel ugyanis az olyan események bekövetkezését is elõre tudja jelezni, mint például egy lemezterület megtelésébõl adódó szolgáltatásleállás, ráadásul ezek kivédésében is segít azzal, hogy a logokat integráltan kezeli és figyeli. Amikor több száz vagy több ezer eszköz és rendszer állít elõ a biztonság szempontjából fontos adatokat éjjel-nappal az év minden napján, a korreláció felismerése a legfontosabb, a Sentinel azonban képes felismerni összefüggéseket, így a versnenytársaknál pontosabb információkat nyújt, és kevesebbszer riaszt tévesen.
+
+"Ha egy felhasználó elgépeli a jelszavát, majd a meghiúsult belépés után néhány másodperccel késõbb ezt korrigálja és sikeresen belép, az még nem biztonsági esemény. Ugyanakkor ha valaki egy gépen gyors egymásutánban több felhasználói névvel és jelszóval próbál meg belépni, az már gyanús. A Sentinel képes felismerni és megkülönböztetni az ilyen eseményeket és megtenni a szükséges lépéseket" -- mondta el Hargitai Zsolt, a Novell kereskedelemtámogatási vezetõje.
+
+A Sentinel központi képernyõje
+ 
+
+ A termék átfogó jelentéskészítési képességekkel is rendelkezik, amelynek elsõsorban a törvényi megfelelés (compliance) biztosításában van szerepe: a Sentinel segítségével igazolható, hogy a szervezet milyen módon védi az általa tárolt információkat az illetéktelen hozzáférésektõl, módosításoktól, vagy éppen eltulajdonítástól, így egy audit során igazolhatja, hogy megfelel a rá vonatkozó szabályozásoknak, elõírásoknak (pl. SoX, BASEL II, PSZÁF, COBIT).
+
+Magyarországon is kapható
+
+A Sentinel 2006-ban került a Novell tulajdonába, amikor a vállalat felvásárolta a fejlesztõ e-Securityt. Azóta a szoftver a Novell biztonsági portfóliójának zászlóshajójává vált, amit az is bizonyít, hogy ez a legdrágább termék a cég kínálatában, az alapcsomag listaára 60 ezer euró, amelyhez a bevezetéskor további költségek járulnak, például a szükséges hardverek és a biztonsági konzultáció, így a projektek értéke megközelítheti vagy meghaladhatja a 100 millió forintot is.
+
+Magyarországon a legnagyobb biztonsági tanácsadókkal (Noreg, Kancellár.hu, Kürt) dolgozik együtt a Novell a Sentinel-bevezetéseken. Hargitai Zsolt elmondta, már több hazai vállalat is döntött a Sentinel megvásárlása mellett, neveket azonban -- nyilvánvaló okok miatt -- nem árult el, mindössze annyit tudni, hogy a vevõk a pénzügyi, a távközlési és a közmûszolgáltatói szektorból kerülnek ki és mindössze maroknyian vannak. Jövõre további néhány hazai eladásra számítanak a Novellnél.
+
+A Sentinel jelenleg a 6.1-es verziónál tart, ez a változat a nyár végén jelent meg. A terméket nem csak önmagában, hogy a Novell személyazonosság- és hozzáféréskezelési megoldásaival együtt, egy Compliance Management Platform nevû integrált csomagban is meg lehet vásárolni. Hargitai Zsolt szerint a versenytársakkal (pl. NetIQ, ArcSight, Check Point, Cisco) szemben a Sentinel egyik nagy elõnye, hogy szorosan integrálható a hazánkban is elterjedt Novell Identity és Access Managerrel.

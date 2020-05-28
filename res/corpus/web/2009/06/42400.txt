@@ -1,0 +1,11 @@
+Újabb nap, újabb RC a Firefox 3.5-bõl
+
+A Mozilla újabb megjelenésre szánt (Release Candidate) verziót adott ki a Firefox böngészõ 3.5-ös változatából. Hogy az RC3 miben tér el a hét elején kiadott RC2-tõl azt nem tudni, mivel a Mozilla oldalán egyelõre nem érhetõ el a változtatások listája.
+A Firefox 3.5 fejlesztése elsõsorban az új, korábbinál gyorsabb JavaScript-motorral kapcsolatos fejlesztések elhúzódásának köszönhetõen tart jóval tovább a vártnál. A Mozilla október közepén adta ki a böngészõ elsõ bétáját, december közepén pedig a másodikat. A harmadik bétaváltozat megjelenését eredetileg január közepére datálták, de csak két hónap csúszással jelenhetett meg, A negyedik béta április végén készült el. A Firefox 3.5 elsõ megjelenésre szánt változatát június 17-én adta ki a Mozilla, ezt június 22-én követte az RC2, most pedig itt az RC3. Egyelõre nem tudni, lesznek-e további RC-k, vagy hogy a végleges változat mikor érkezik meg, de valószínûleg most már csak néhány hetet kell várni rá.
+
+
+A Firefox 3.5 RC3 több mint 70 nyelven érhetõ el beleértve a magyart is, és Windows, Linux, valamint Mac OS X operációs rendszeren fut. A szoftver letölthetõ a Mozilla weboldaláról, a korábbi RC-k felhasználói pedig a programba épített frissítõrutinnal tölthetik le az új változatot. Nekik fontos tudniuk, hogy egy új RC telepítése után nem tudnak visszatérni a régebbi elõzetesekhez, csak ha új profilt hoznak létre. A fejlesztõk hangsúlyozzák, hogy a Firefox 3.5 RC3 továbbra is tesztváltozat, de a böngészõ ettõl függetlenül alkalmas akár mindennapi használatra is. Aki úgy dönt, hogy frissít a legújabb tesztverzióra, jó ha felkészül rá, hogy több kiegészítõ nem kompatibilis még vele.	     
+                  
+                  
+                  
+                   

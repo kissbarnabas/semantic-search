@@ -1,0 +1,12 @@
+Magyar lány a Cisco NetRiders verseny gyõztesei között
+
+Bessenyei Csilla, a Budapesti Mûszaki és Gazdaságtudományi Egyetem mérnök-informatikus hallgatója lett a Cisco NetRiders nemzetközi hálózati verseny öt gyõztesének egyike, akik San Jose-i központjában meglátogathatják a nagynevû céget.
+
+
+
+A július 9-én rendezett erõpróbán a versenyzõknek három feladatot kellett teljesíteniük. Az elsõ egy egyórás, feleletválasztásos teszt volt, majd  szimulált hálózatban kellett hibákat keresni és kijavítani, végül pedig egy technikai támogatást kérõ telefonhívást kellett lekezelni. A feladat itt is hálózati eszköz konfigurációja volt, azonban ezt nem a versenyzõ hajtotta végre, hanem a telefon másik végén egy "rendszergazda", aki elfelejtette a jelszavát, és ezért nem tudta megfelelõen beállítani a Cisco routert. "Ez a verseny nem az elsõ hálózati erõpróbám volt, de eddig ez volt az egyik legjobb és egyben legéletszerûbb" &#8211; mondta a gyõztes.
+
+
+ A HWSW megkeresésére Bessenyei Csilla elmondta, a debreceni Mechwart András Szakközépiskolában kezdett el hálózatokkal foglalkozni a Cisco Hálózati Akadémia keretein belül, de szerinte ehhez a tananyaghoz más forrásból további információkat is érdemes beszerezni, ha valaki kompetens szakemberré szeretne válni. Emellett nagyon fontosnak vélte, hogy az elméleti tudás mellé megfelelõ gyakorlat is társuljon, amelyet szimulált környezetben vagy laborban lehet megszerezni. Csilla a Cisco Hálózati Akadémiána CCNA minõsítés megszerzése mellett a vezeték nélküli hálózatokkal kapcsolatos tanfolyamot is elvégezte. 
+
+"A szaktudásbeli hiányosságokat vizsgáló elemzéseinkbõl, valamint az ügyfeleinktõl érkezõ visszajelzések alapján jól tudjuk, hogy Európa-szerte komoly hiány mutatkozik szakképzett hálózati technikusokból" -- mondta Rékasi Tibor, a Cisco Magyarország ügyvezetõ igazgatója. "Ha el akarjuk kerülni a helyzet súlyosbodását, lépnünk kell. A megoldás pedig a megfelelõ szakemberek képzése és alkalmazása. A NetRidershez hasonló rendezvények kiváló lehetõséget biztosítanak a Cisco Hálózati Akadémia hallgatói számára. Ezek nemcsak azt mutatják meg, hogy mire képesek, de potenciális munkaadóikkal is kapcsolatba kerülhetnek."

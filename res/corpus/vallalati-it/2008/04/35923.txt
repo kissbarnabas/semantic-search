@@ -1,0 +1,16 @@
+Nyártól érkezik az adat-deduplikálás a HP virtuális szalagkönyvtáraiba
+
+Júniusban érkeznek a HP elsõ virtuális szalagkönyvtárai, amelyek már képesek adat-deduplikálásra. A technológia segítségével csökkenthetõ a tárolt adatok mennyisége, vagyis kevesebb kapacitás is elég, ráadásul gyorsítható a mentés és a visszaállítás is.
+
+
+
+Az adat-deduplikáció megszületéséhez az a felismerés vezetett, hogy adatmentésnél tetemes mennyiségû redundáns információt tárolnak el a cégek, még akkor is, ha inkrementális mentésrõl van szó. Gondoljunk bele, hogy egy, a munkatársaknak szétküldött Word-dokumentum vagy Excel-táblázat hány példányban van jelen a vállalati hálózaton, a dolgozók gépein, de akár egyetlen dokumentumból is több példányt, több verziót õrizhetünk, amelyek adott esetben csak alig térnek el egymástól.
+
+Inkrementális mentésnél csak az elõzõ mentés óta megváltozott állományokat tároljuk, de a mentõszoftverek a fájlokat akkor is teljes egészében elmentik ilyenkor, ha csak minimális változtatások történtek bennük.  Az adat-deduplikáció lényege, hogy a granularitást egy szinttel csökkentve már nem a fájlok, hanem blokkok szintjén történik a változások ellenõrzése. A tárolni kívánt adatokat a mentés során apró (2-12 KB) blokkokra szeletelik, és hash-elik (pl. MD5 vagy SHA-1), amiket egy index tárol. Ténylegesen csak azok az adatok kerülnek mentésre, amelyek hash-e még nem szerepel a táblázatban, azaz újak.
+
+ A deduplikáció segítségével tehát látványosan csökkenthetõ a ténylegesen mentett adatok mennyisége: a vállalat összes dolgozójának postafiókjában megtalálható vezetõi levelet fizikailag csak egyszer tárolja a rendszer, mint ahogy az a sok változatban megõrzött prezentációt is, amelynek mindig csak ugyanazt az oldalát módosítottuk. A deduplikáció azonban nem csak dokumentumok mentésénél lehet hasznos, hanem például hatalmas, de lassan változó adatbázisok (pl. ügyféladatok) hatékony tárolásánál is.
+
+
+ A kevesebb tárolt adatmennyiség számos kézzelfogható elõnnyel jár a vállalatok számára. A tömörítés révén kisebb diszk- vagy szalagkapacitás is elegendõ az adatok tárolására, ezáltal kisebb beruházás is elegendõ lehet, illetve fix kapacitás esetén több mentés õrizhetõ meg. Nem csoda, hogy az adat-deduplikáció az adattárolási iparág egyik legfelkapottabb témája.
+
+A HP elsõ, deduplikációra képes termékei belépõ szintû virtuális szalagkönyvtárak lesznek (StorageWorks 2500, 4500) , de a technológia õszre a csúcskategóriás modellekbe (VLS EVA Gateway család) is megérkezik. Az algoritmus teljesen transzparens, vagyis a mentõszoftvertõl független, így nem szükséges annak frissítése vagy cseréje -- mindazonáltal várható, hogy a jövõben megjelenõ mentõszoftvereket is felkészítik majd erre a gyártók.

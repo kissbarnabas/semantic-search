@@ -1,0 +1,22 @@
+Csak a harmadik negyedévben érkezik az SQL Server 2008
+
+A Microsoft a harmadik negyedévre halasztotta az SQL Server 2008 végleges változatának kiadását, a február 27-én esedékes Los Angeles-i premieren csak egy "feature complete", vagyis a végleges verzió összes szolgáltatásával rendelkezõ elõzetessel (CTP) szolgál majd, amelyet a második negyedévben követ a megjelenésre szánt verzió változat (RC), az õsszel pedig a végleges termék. Az eddig kiadott elõzeteseket több mint 100 ezerszer töltötték le.
+
+
+
+Francois Ajenstat, az SQL Server 2008 marketingjéért felelõs vezetõ blogbejegyzésében a szokásos magyarázattal szolgál: a lehetõ legjobb minõségû terméket szeretnék kiadni, azonban a tesztelés idõt vesz igénybe. "Ez azonban semmilyen nódon nem érinti a február 27-i bejelentéssel kapcsolatos terveket, mindenkit örömmel látunk Los Angelesben, vagy a világ más részein tartandó eseményeken" -- írja Ajenstat.
+
+Mi újdonság?
+
+Az SQL Server 2008 legfontosabb újdonságai a megbízhatóságot, a biztonságot, a teljesítményt, valamint a fejlesztések leegyszerûsítését érintik. A szoftver ennek jegyében többek között tartalmaz transzparens failovert, transzparens adattitkosítást külsõ kulcskezeléssel, erõforrások (CPU) menet közbeni hozzáadását, adattömörítést, az alkalmazásfejlesztés egyszerûsítése terén a legnagyobb elõrelépést pedig talán a LINQ (Language Integrated Query) és az ADO.Net entitások támogatása jelenti.
+
+
+
+A mai trendeknek megfelelõen az SQL Server 2008-cal lényegében bármilyen adatok tárolhatók, legyen szó akár dokumentumokról, XML állományokról, vagy akár egész fájlokról. További fontos fejlesztés, hogy az SQL Server 2008-at felkészítették földrajzi adatok és vektorok tárolására is, amely kimondottan elõnyös olyan szolgáltatások fejlesztésekor, amelyek valamilyen módon földrajzi adatokra vagy helyszínekre támaszkodnak -- gondoljunk csak azokra a mobilszolgáltatásokra, amelyek helyünktõl függõen meg tudják mondani, hol a legközelebbi bankautomata.
+
+
+ Az SQL Server 2008 üzleti intelligencia és jelentéskészítési funkciókkal is bõvült, a Microsoft szerint az adatbázist úgy alakították ki hogy nagyszerû adattárház-platform legyen, a Microsoft által felvásárolt kanadai Dundas Data technológiái segítségével pedig komoly adatvizualizációs képességeket vonultat fel az SQL Server Reporting Servicesben.
+
+Semmiség...
+
+A Microsoft február 27-én Los Angelesben indítja útjára új alkalmazás-platformját, amely a Windows Server 2008-ból, az SQL Server 2008-ból, valamint a Visual Studio 2008-ból áll. A Visual Studio 2008 végleges változata már novemberben elkészült és azóta elérhetõ a vállalati partnerek számára, a Windows Server 2008 végleges változatát a bejelentés idejére ígéri a Microsoft. Az SQL Server 2008 pár hónapos késése egyébként szinte semmi az SQL Server 2005 kálváriájához képest, amely közel két évvel az eredetileg tervezett dátum után készült el.

@@ -1,0 +1,10 @@
+Hamarosan érkezik az Oracle 11g Release 2
+
+Az IDG News meg nem erõsített forrásait látszik igazolni, hogy a vállalat szeptember 29-ére tervez egy eseményt, melynek témája az R2 és az arra történõ migrálás elõnyeinek bemutatása. A vállalat már legalább fél éve készülõdik a 11g második, egyúttal végsõ kiadásának megjelentetésére, idén tavasz óta válogatott ügyfeleknél bétatesztelést végez. Az R2 feladata nem más, minthogy tömegesen a 11g-re migrálja az ügyfeleket, több mint két évvel annak elsõ kiadása óta.
+A 11g R2 képességeivel kapcsolatosan az Oracle eleddig nem volt túlságosan bõbeszédû a nyilvánosság elõtt, a hívószavak a javuló teljesítmény és skálázhatóság, csökkenõ üzemeltetési költségek, melyeket jobb adattömörítési algoritmusok, a menedzsment magasabb fokú automatizálása, az adatbázis alapú alkalmazások online frissíthetõsége, és a fejlettebb gridelhetõség révén kíván elsõsorban megvalósítani. A visszafogott kommunikáció mellett ezekrõl a tervezett képességekrõl már számos áttekintõ prezentáció tekinthetõ meg az Oracle oldalain egy-egy narrált flash diavetítés formájában.
+
+Ezek a 11g R2 tovább fokozott rendelkezésre állási, adatvédelmi, felügyeleti, tároló- és információkezelési technikáit veszik sorra, melyek mind a korábbi implementációkhoz viszonyítva mind a költségek csökkentésének ígéretével járnak együtt, mivel az Oracle szerint az elõzõ kiadásokhoz képest hatékonyabban végzik el feladataikat. Az új tömörítési algoritmussal például felére vagy akár harmadára csökkenthetjük a tárhelyigényt, miközben javul az OLTP-teljesítmény. A 11g R2-re 9.2.08, 10.1.05, 10.2.0.2 vagy újabb, vagy 11.1.0.6 vagy újabb verziókról lehet áttérni.	     
+                  
+                  
+                  
+                   

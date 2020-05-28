@@ -1,0 +1,34 @@
+Mobilfizetés bankszámlával - kis lépés a XXI. század felé
+
+A T-Mobile, a Pannon, az MPP és az FHB Bank közös gyermekeként bemutatkozott egy mobilkészülékhez kötött banki szolgáltatás, mely hazánkban az elsõ kereskedelmi forgalomban is használatos valódi mPayment megoldás. Ugyan az érintés nélküli NFC (Near-Field Communication) még várat magára, de mostantól a készülékek mögött valódi bankszámla lapulhat.
+
+
+
+Lesz-e kritikus tömeg?
+
+A régivágású bankkártyával ellentétben a "Mobilfizetés" alkalmazás nem csak kereskedõktõl való vásárlásra lesz használható, hanem a felhasználók egymásnak is küldhetnek pénzt, közüzemi számlákat is kiegyenlíthetnek vele. A rendszer a T-Mobile állítása szerint készen áll, jöhetnek a felhasználók és a kereskedõk is. A cél természetesen a kritikus tömeg elérése mindkét oldalon, hisz egészen addig, amíg egy rétegtechnológiáról van szó, addig nem éri meg csatlakozni hozzá.
+
+A szolgáltatás zászlóvivõje hazánk két nagyobb mobilszolgáltatója lesz, akik értékesítik majd a csomagot, illetve az ehhez kapcsolódó marketingtevékenységet, edukációt, illetve az elfogadóhelyek számának bõvítését is magukra vállalták. A vállalkozás szereplõi nem zárták ki a Vodafone-t, de a harmadik szolgáltató az SMS-fizetési rendszer esetéhez  hasonlóan kivárásra játszik. Elõfordulhat az is, hogy a nemzetközi stratégiával hangolja össze ezt a lépést is, a Magyar Telekom szerint ugyanakkor bármikor nyitva áll elõttük az ajtó.
+
+Egyszerû folyamat 
+
+Mivel a törvényi szabályozások nem engedik, hogy egy telekommunikációs cég pénzintézeti tevékenységeket lásson el, ezért a szolgáltatók kénytelenek bankot is bevonni. Bodon Ildikó, a Magyar Telekom Non-Access termékmenedzsment igazgató-helyettese a HWSW kérdésére elmondta, hogy több hazai pénzintézettel tárgyaltak az együttmûködésrõl, de végülis az FHB bizonyult elég rugalmasnak és gyorsnak a szükséges fejlesztések elvégzéséhez. Ez nem zárja ki, hogy késõbb más bankok is csatlakozzanak a kezdeményezéshez, de addig bárki, aki igénybe szeretné venni ezt a szolgáltatást, az kénytelen lesz egy FHB számlát is nyitni a szerzõdés hozományaként. A szolgáltatás elterjedésének legnagyobb kerékkötõje ugyanakkor biztosan ez lesz, hisz sokak számára visszatartó erõ lehet, és egyben visszatetszést is kelthet, hogy egy újabb pénzintézettel kellene szerzõdni egy egyébként is idegennek tûnõ szolgáltatáshoz.
+
+Egyablakos szerzõdés
+
+Ugyanakkor egyszerû, egyablakos ügyintézés keretében történhet majd a felhasználók belépése, tehát nem kell külön a szolgáltatóhoz és a bankhoz is elmenni szerzõdni. A megrendelést és a szerzõdésaláírást követõen az ügyfél kap egy új SIM-kártyát, mely képes kezelni a szükséges 128 bites titkosítást, majd az egyedi alkalmazás telepítése után a rendszer mûködõképes. A felhasználó kap egy "mAzonosítót", PIN kódot (mKód), illetve a kezelõfelületen keresztül követhetõ minden tranzakció.
+
+Legyen szó akár távoli, akár helyi vásárlásról, a termék kiválasztása után meg kell adni az mAzonosítót, majd a tranzakció elindultával a felhasználónak meg kell erõsítenie a fizetési szándékot. Ehhez a telefon kijelzõjén megjelenik, hogy kinek, mennyit, miért cserébe és mikor kellene fizetnünk. Ki lehet választani, hogy melyik szolgáltatásba bevont számláról vonják le az összeget, illetve az elfogadás vagy elutasítás helyett el is halaszthatjuk a döntést. Ez utóbbi egy kóla automatánál nem jó taktika, de a közüzemi számlák esetén hasznos lehet.
+
+Az elektronikus fizetési rendszerek lassan terjednek hazánkban, így kétséges, hogy ez a megoldás lehet-e majd népszerû. A Magyar Telekom szerkesztõségünknek elmondta, hogy a T-Mobile elõfizetõk közül az elõzõ évben körülbelül 55 ezer ügyfél kezdeményezett mobiltelefonos díjfizetési tranzakciót, nagyrészt az autópálya- és a parkolási díjak kiegyenlítésére. Ez a szám a több mint 5 milliós elõfizetõi táborhoz képest elenyészõ, de Bodon Ildikó szerint maga az 55 ezer ügyfél, illetve az a 400 ezer, aki már valaha próbált ilyen szolgáltatást, az komoly tényezõ lehet egy kisebb méretû banknak.
+
+Integrált kereskedõ a rendszerben 
+
+Mitõl jó az ügyfélnek?
+
+Mindig kéznél van a mobilkészülék, a penetráció 100 százalék feletti, egyszerû, kényelmes, biztonságos és kontrollált is egyben -- mondja Berkes Tibor, a Pannon GSM Távközlési Zrt. osztályvezetõje. A legnagyobb elõny, hogy a banki szolgáltatások igénybevételéhez így nem kell fiók, sem PC, sõt amíg egyetlen bank számlái tartoznak csupán a rendszerhez, addig éjjel-nappal, 24/7 valós idõben zajlanak a tranzakciók.
+
+
+Éppen ezért a kereskedõk is nagyobb bizalmat szavazhatnak neki, hiszen a pénzüket akár azonnal megkaphatják. A szakértõk szerint egy ilyen fizetési lehetõség átalakíthatja az értékesítési csatornákat egyes termékek és szolgáltatások esetében, növeli a fizetési hajlandóságot (például közmû számlák esetén), illetve a többi mobil fizetési rendszerrel ellentétben a legkisebbtõl a nagyösszegû fizetésekig bezárólag bármekkora volument képes kezelni. A tranzakciós díjakról Bodon Ildikó a HWSW kérdésére azt mondta, hogy az FHB esetében hasonlóan alakul a mobilfizetés díja is, mint a kártyásé, de ezzel kapcsolatban mindig az aktuális banki hirdetmény az irányadó.
+
+Az egyetlen gyenge láncszem a fogyasztók és a kereskedõk hozzáállása, hiszen a kritikus tömeg elérése nélkül hiába egyszerû, hiába gyors, ha nem lehet vele sehol fizetni, vagy éppenséggel nincs aki fizessen vele. A rendszer üzemeltetõi a projekthez optimistán állnak, a céljuk, hogy hozzászoktassák a magyar lakosságot az ilyen megoldásokhoz. Egyelõre nem félnek attól, hogy a nagy szereplõk hasonló megoldásaikkal idejönnének, abban viszont már most gondolkodnak, hogy az NFC, azaz a Near Field Communication technológiákat és a smart card rendszerû bankkártyákat mikor és hogyan lenne érdemes hozzácsatolni a mobil elektronikus fizetési rendszerekhez.

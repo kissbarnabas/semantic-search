@@ -1,0 +1,20 @@
+Az egész világot bedarálhatja a Microsoft Photosynth
+
+A digitális technológia hívõi örömtáncot járnak, míg a személyiségi jogokat féltõk inkább aggodalmaskodnak, miután a Microsoft a tegnapi napon végre útjára indította az évek óta várt Photosynth szolgáltatását. A hirtelen érdeklõdés miatt ugyan a szerverek szinte azonnal elérhetetlenné váltak, jelezvén, hogy a fotók rendezését megreformáló ötlet több lesz, mint egy hóbortos múló felhajtás.
+
+
+
+A Seadragon által megálmodott, majd késõbb a Microsoft által bekebelezett Photosynth alapötlete nem más, mint azonos helyen, de más szemszögbõl készült fotók összerendezése egy háromdimenziós mátrixba. A sok különálló fotó így egy teljes egészet alkot, mely minél több elemet tartalmaz, annál észrevétlenebb lesz az átmenet a fotók között, annál részletesebbé válik. Ha ugyanazt a tárgyat vagy környezetet körben minden oldalról lefotózzák, akkor a Photosynth teljesen körüljárhatóvá teszi, olyan képzetet adva, mintha valódi háromdimenziós környezetet látna a felhasználó.
+
+TED: Blaise Aguera másfél évvel ezelõtti bemutatója
+
+A Microsoft szerint a Photosynth-tel egy teljesen új vizuális médium jön létre, ahol a fénykép, mint egyedi vagy sorba állítható egység átalakul egy végtelen rendszerré. A szolgáltatás egyelõre arra képes, hogy a felhasználók által összegyûjtött fotókat megvizsgálja, megtalálja a közös pontokat és térben elhelyezze õket. Természetesen ezeket késõbb online bárki megnézheti, körbevizsgálhatja a fotózott környezetet, beleközelítve, körbefordítva vagy éppen nézõpontot váltva.
+
+
+A szolgáltatás egy webes felületbõl és egy asztali szoftverbõl áll, melyek egyelõre csak PC Windows környezetben mûködnek. A webes nézegetéshez egy böngészõbe ágyazott plug-inre van szükség (Internet Explorer és Firefox alá is elérhetõ), míg a feltöltéshez a windowsos programra lesz szükség. 
+
+ 
+
+A Photosynth jövõje az egyéni felhasználók játszadozásán túl úgy válik egy igazán erõs termékké, hogy a közösségi felületekkel és a térképszolgáltatásokkal kötik össze. Egy-egy turistalátványosságról fõszezonban óránként több száz fotó készül, melyeket hazatérve sokan azonnal feltöltenek fotómegosztó szájtokra. A megfelelõen felcímkézett fotókat a rendszer képes megvizsgálni, és a kialakított mátrixon belül a referencia pontok figyelembevételével helyre tenni, így bõvítve a virtuális tér részletességét. Az egyes felhasználók legjobb képeibõl így összeállhat a valóság egy teljesen részletes másolata.
+
+A funkciók között nem csak a terek panoráma másolata meghökkentõ, hanem a folyamatok, események idõben eltolt ábrázolása is megvalósítható. A szoftver képes felfedezni bizonyos mozgásokat, melyeket idõben egymás mögé helyezve akár egy egész történet elmesélhetõ, legyen szó sportversenyrõl, esküvõrõl vagy éppen egy kisgyermek elsõ lépéseirõl. Míg ez utóbbiaknak semmi akadálya nincs, addig a fent említett virtuális utcakép szolgáltatás sokak szerint személyiségi jogi akadályokba ütközik, ezért a világ virtuális másolatával óvatosabban bánik a redmondi szoftveróriás is. A fotók merõben újszerû, térbeli elrendezésének hatását egyelõre nehéz felmérni, ugyanakkor többen azt várják tõle, számos területre forradalmi hatást fejt majd ki, például a turizmusban vagy az ingatlanközvetítésben. 

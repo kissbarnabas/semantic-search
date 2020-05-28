@@ -1,0 +1,16 @@
+Júniustól Windows XP is fut az OLPC laptopján
+
+A fejlõdõ országok szegény gyerekeinek informatikai oktatását megcélzó One Laptop Per Child nonprofit szervezet hivatalosan is megállapodott a Microsofttal, hogy az olcsó XO noteszeken Linux mellett futhasson a Windows XP is. Az elsõ windowsos noteszeket júniusban szállítják le, a távlati cél olyan notebookok gyártása, amelyeken a Windows és a Linux "dual boot" konfigurációban egyaránt megtalálható.
+
+
+
+A Microsoft szerint az OLPC XO felhasználói világszerte kérték a Windows-támogatást, amelynek segítségével a tanárok és a diákok egyaránt hozzáférhetnek az operációs rendszeren már meglevõ oktatási és egyéb szoftverek tömkelegéhez. Emellett a laptop már nem csupán egy oktatási eszköz lesz a diákok számára, amellyel írni, olvasni, számolni tanulhatnak, hanem piacképes számítástechnikai felhasználói ismereteket szerezhetnek.
+
+
+A Microsoft több mint egy évet töltött azzal, hogy a hardvergyártókkal együttmûködésben elkészítse az OLPC XO-hoz a Windows futtatását lehetõvé tevõ új BIOS-t, és a szükséges drivereket. A folyamat eredményeképp a laptop összes funkciója mûködik Windows alatt is, beleérte az e-könyv módot, a Wi-Fi vezérlõt, a webkamerát, a kézírásfelismerõ területet, valamint az egyedi billentyûket és az energiatakarékos módokat. Nicholas Negroponte, az OLPC megálmodója és szellemi atyja szerint a Windows "igazán gyorsan" fut az XO notebookon.
+
+
+
+Az OLPC XO noteszeken kezdettõl fogva egy Fedora-alapú Linux-disztribúció mûködött egyedi felhasználói felülettel. Ezt a Sugar nevû felületet Windowsra is portolni fogják. Nemrégiben még úgy tûnt, az OLPC XO-hoz vagy az ASUS Eee PC-hez hasonló szuperolcsó notebookok nagy segítségére lehetnek a Linuxnak a Windowszal folytatott versenyben, azonban a Microsoft sorra kihúzza ezeket a "méregfogakat": az eredetileg linuxos Eee PC-bõl is piacra került már windowsos változat, az OLPC XO-ból pedig heteken belül érkezik.
+
+A Microsoft igyekezete érthetõ: a szoftvercég stratégiájának kulcsfontoságú része, hogy a potenciális felhasználókat és vásárlókat a lehetõ legkorábban a Windowshoz szoktassa.

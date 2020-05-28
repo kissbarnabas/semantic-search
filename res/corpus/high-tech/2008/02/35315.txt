@@ -1,0 +1,14 @@
+A Wi-Fi segítségével gyorsulhatna a Bluetooth kapcsolat
+
+[Ars Technica] A Bluetooth-t fejlesztõ Bluetooth Special Interest Group (SIG) egy olyan specifikáción dolgozik, melynek köszönhetõen Wi-Fi-re válthatna át a Bluetooth kapcsolat, ha nagyobb adatátviteli sebességre, vagy hatótávolságra lenne szükség. A specifikáció végleges változata 2009 közepére készülhet el.
+
+
+
+A jelenlegi mobilokban, noteszgépekben két különálló kommunikációs megoldásként használják a Bluetooth és Wi-Fi kapcsolatokat, a két protokoll teljesen önállóan mûködik. A Bluetooth SIG felhasználná a Wi-Fi képességeit is a határok kitolásához, a Bluetooth kapcsolat szükség esetén "ráülne" a Wi-Fi-re, majd ha már nincs igény nagyobb sebességre, vagy hatótávolságra, újra visszaváltana a Bluetooth-ra.
+
+
+A Bluetooth SIG új architektúrája Alternate MAC/PHY néven lesz elérhetõ. A Wi-Fi-re ültetett Bluetooth ugyanazokat a profilokat, protokollokat, biztonsági és architektúrális elemeket használná, így a kompatibilitás is megmaradhatna. A Bluetooth csak addig használná a Wi-Fi rádiót, amíg az valóban szükséges, spórolva az energiával.
+
+A Bluetooth továbbfejlesztése több irányban zajlik, az NFC és UWB technológiák implementálása, alkalmazása tovább bõvítené a Bluetooth felhasználási területeit. A Near Field Communication, azaz NFC egyszerûbb állománycserét tesz majd lehetõvé azzal, hogy az elõzetesen párosított eszközök közötti adatcserét a szokásos rákeresek-elküldöm-fogadom, igen hosszadalmas metódus helyett egyszerû "ráközelítéssel" meg lehet majd kezdeni.
+
+Egy Bluetooth-os nyomtatóba tehát egy kiválasztott kép ennél egyszerûbben nem is lesz átküldhetõ, csupán ki kell választanunk a képet, majd a telefont a nyomtatóhoz kell közelíteni néhány centiméterre.

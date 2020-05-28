@@ -1,0 +1,14 @@
+USB-kábelen kapja az áramot is az ultravékony Xerox 7600 lapolvasó
+
+A nem csupán nyomtatóiról, hanem dokumentumkezelõ rendszereirõl is ismert a Xerox nem csak a vállalati ügyfelekre koncentrál: nemrégiben általános belépõ szintû, otthoni-kisirodai használatra szánt ultravékony lapolvasót jelentett be.
+
+
+
+A gyári adatok szerint nem éri el a 4 centimétert sem az új Xerox 7600 készülék vastagsága, tömege pedig csupán másfél kilogramm, így könnyen félretehetõ, ha épp nincs rá szükség. Az alkalmi használatot megkönnyíti, hogy a tápfeszültséget az USB-csatlakozóról veszi fel, nincs külön tápegysége, így tényleg egyetlen mozdulattal üzembe helyezhetõ. Öt nyomógombot helyeztek el rajta a tipikus feladatok és az automatikus gyors-beolvasás azonnali indításához.
+
+
+
+A gyártó specifikációi szerint 1200 dpi optikai felbontású CIS egységre épül a képérzékelés. Ez a technológia teszi lehetõvé a kis méretû és áramfogyasztású konstrukciót, általában hátránya azonban, hogy térbeli objektumok (például nyitott könyvek) esetén nem látja az üveggel közvetlenül nem érintkezõ felületeket. USB 1.1 csatlakozással rendelkezik a készülék, természetesen USB 2.0 portra illesztve is üzemel, csupán nem használja ki annak teljes adatátviteli kapacitását.
+
+
+A szokásos Windows alá telepíthetõ meghajtóprogramok (TWAIN) mellett a Nuance PaperPort dokumentum- és képkezelõ szoftver is jár a készülékhez. Stílusos személyes üdvözlõlapok készíthetõk az ArcSoft Scrapbook Suite segítségével, amit szintén mellékel a gyártó. OCR alkalmazást nem tartalmaz a csomag. 99 dollár a Xerox 7600 lapolvasó ára az Egyesült Államokban, ami mintegy 25 ezer forintnak felel meg.

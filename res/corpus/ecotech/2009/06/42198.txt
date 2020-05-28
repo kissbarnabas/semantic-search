@@ -1,0 +1,10 @@
+Az EMC is versenybe száll a Data Domainért
+
+Az EMC részvényenként 30 dollár készpénzt, összesen mintegy 1,8 milliárd dollárt adna az adatdeduplikációs megoldásokra szakosodott Data Domainért, amelyre alig egy hete tett 1,5 milliárd dolláros, részben készpénzes, részben részvénycserés ajánlatot a NetApp. 
+A tárolóeszközök és adattárolási szoftverek legnagyobb gyártója közel 10 milliárd dolláros készpénzállománnyal rendelkezik. Joe Tucci, a vállalat elnök-vezérigazgatója két héttel ezelõtt, a floridai Orlandóban tartott EMC World rendezvényen határozottan leszögezte, cége a növekedési stratégiája továbbra is alapoz az akvizíciókra. Elemzõk ugyanakkor túlzottnak tartják a Data Domainért ajánlott 1,8 milliárd dolláros árat, ami a cég éves nyereségének mintegy hatvanszorosa.
+Joe Tucci szerint azonban a Data Domainért ajánlott ár reális, mivel egy rendkívül gyorsan növekedõ piacról van szó. Az EMC vezetõje azt is elárulta, a cég már régóta foglalkozott a Data Domain esetleges bekebelezésével, de a NetApp ajánlatával megelõzte õket. A Data Domainnel megerõsödött EMC 1 milliárd dolláros forgalmat is bonyolíthat a deduplikációs megoldások 10 milliárd dollárosra becsült piacán -- vélekedett Tucci. "Ez a cég még önállóan is 480 milló dollárosra nõhet jövõre. Mi még gyorsabban tudnánk hizlalni."
+A deduplikáció az utóbbi idõk egyik legfontosabb technológiája
+adattárolási területen, az eljárás a redundáns adatok
+kiszûrésével lehetõvé teszi a mentéshez szükséges sávélesség és a
+tárterület csökkentését. Az EMC kínálatában jelenleg is szerepelnek deduplikációs megoldások, amelyek az Avamar 2006-os felvásárlásával kerültek a vállalat birtokába, a DL4000 virtuális szalagkönyvtáron pedig a FalconStortól származó szoftver fut. Ezeket egészítenék ki a Data Domain megoldásai. 
+Tucci szerint az EMC már korábban is bizonyította, hogy jól tudja végrehajtani a felvásárlásokat, megtartva az akvirált vállalatok tehetséges dolgozóit és termékeit. A NetApp nem kommentálta a hírt.

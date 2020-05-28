@@ -1,0 +1,14 @@
+Minden alaplapjára integrálja linuxos asztalát az ASUS
+
+Újabb ASUS alaplap kapja meg a Splashtop nevû, azonnal rendelkezésre álló Linux asztalt, a jövõben pedig minden alaplapját, késõbb pedig egyes notebookjait is ezzel szállítja majd a tajvani gyártó. A DeviceVM által készített Splashtop egy mini Linux operációs rendszer, mely böngészést, Skype-ot és egyéb funkciókat nyújt operációs rendszer telepítése nélkül is.
+
+
+
+A Linux asztal legközelebb az Asus P5Q sorozatú alaplapjainál bukkan majd fel, késõbb pedig a gyártó összes, havonta több mint egymilliós volumenben gyártott alaplapjainál használható lesz majd. A SplashTop flashmemóriát használ az ideiglenes fájlok tárolására, amelyhez közvetlenül kapcsolódik, nem pedig az alaplap SATA, vagy IDE csatornáját használva, így a rendszer a háttértárolótól teljesen függetlenül mûködik és a bekapcsolást követõen alig pár másodperc után már rendelkezésre áll.
+
+
+Az ASUS szerint a Splashtop egyik legnagyobb elõnye az energiatakarékosság, így ideális lehet noteszgépes használatra is. A szinte rögtön mûködõ Linux asztalon gyorsabban lehet ellenõrizni a leveleket, vagy elintézni azonnali kommunikációs dolgainkat, így kevesebb energiát használunk el a szûkös akkumulátorból.
+
+
+
+A kínálatból jelenleg az Asus P5E3 Deluxe/WiFi AP alaplapon találhatjuk meg ezt a kiegészítõt. A 360 dolláros Asus P5E3 Deluxe/WiFi AP Intel X38/ICH9R lapkakészlet köré épül és DDR3 memóriamodulokat fogad. A processzorok közül az LGA775 kivitelû Intel Core 2 Extreme, Core 2 Quad, Core 2 Duo, Pentium Extreme, Pentium D, Pentium 4 változatokkal ért szót, beleértve a hamarosan érkezõ 45 nanométeres változatokat is.

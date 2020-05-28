@@ -1,0 +1,18 @@
+Torvalds: a Microsoft csak blöfföl a szabadalmakkal
+
+[IDG News] Linus Torvalds, a Linux atyja és a kernel jelenlegi karbantartója szerint a szoftverszabadalmak károsak, ugyanis egyáltalán nem szolgálják a szabadalmak eredeti célját, sõt kontraproduktív módon bizonytalanságot keltenek, és gátolhatják az innovációt. A fejlesztõ úgy gondolja, a Microsoft csak blöfföl, mikor szabadalomsértésrõl beszél a Linux kapcsán, és nem venné a bátorságot, hogy valóban jogi útra terelje vélt megkárosítását.
+
+
+
+A szabadalmak eredeti célja, hogy létükkel az emberi tudás gazdagítására ösztönözzék az embereket, nem mûködik a szoftverek esetében, hangoztatta Torvalds a Linux Foundationnek adott interjújában. Úgy véli, a szoftverszabadalmak nem ösztönöznek semmiféle fejlesztést, és a szabadalmak nyomon követése a szoftverek összetettsége folytán lehetetlen, és lassan a nagyvállalatok is kezdenek ráébredni, hogy a szoftverszabadalom káros, ugyanis jogi támadások állandó célpontjaivá válnak.
+
+[+] Megtámadta a Microsoft-közbeszerzést három hazai szabad szoftveres cég 
+
+A Microsoft tavaly májusban vetette fel a nyilvánosság elõtt elõször, hogy a szabad szoftverek -- köztük a Linux kernellel és az OpenOffice.org irodai programcsomaggal -- szabadalomsértõek. Brad Smith, az óriásvállalat jogásza a Fortune magazinnak adott interjújában elmondta, hogy a Linux kernel szám szerint 42, a különbözõ grafikus felületek (például GNOME, KDE) 65, míg az OpenOffice.org 45 Microsoft szabadalmat sért. Steve Ballmer elnök-vezérigazgató októberben pedig egyenesen a Red Hatet, a vezetõ Linux-szállítót vádolta meg azzal, hogy termékei sértik cége szabadalmait. 
+
+
+A Microsoft azóta sem prezentált egyetlen konkrétumot sem a nyilvánosság elõtt.  Torvalds szerint valószínûleg nem is kerül erre sor, ugyanis a Microsoft többszörösen elítélt monopóliumként nem meri megkockáztatni, hogy riválisaira jogi nyomást gyakoroljon, mindössze bizonytalanságot akar kelteni a piacon. "Azt gondolom, a Microsoft valójában marketing eszközként látja a szabadalmakat" -- mondta el. A Microsoft 
+
+Torvalds szerint a Linux azért nem tudott egyelõre szélesebb körben elterjedni a PC-k terén, annak ellenére, hogy fejlesztéseinek ez a fõ fókusza, mert ez szükségszerûen egy igen lassú folyamat, a felhasználók ugyanis nem szívlelik a megszokott eszközök változását, mindezt nehezíti, hogy a PC hardver és a felhasználási területek igen sokszínûek. "Több idõt vesz igénybe, mint az emberek, köztük részben én is gondoltam. Egyszerûen egy hatalmas tehetetlenség van ezen a piacon". Úgy látja, a felhasználói környezetek és szokások érésével a Microsoft egyre kevésbé tudja majd kontrollálni a fejlõdési irányt, ami kedvez a nyílt forráskódú fejlesztõknek. 
+
+A Torvaldsszal készített interjú elolvasható vagy meghallgatható a Linux Foundation oldalán.

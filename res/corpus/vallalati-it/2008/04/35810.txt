@@ -1,0 +1,12 @@
+Újfajta sebezhetõséget találtak az Oracle adatbázisban
+
+David Litchfiled, az ismert adatbázisbiztonsági szakértõ részletes dokumentumban tárgyalja azt a sebezhetõséget, amelyet még februárban fedezett fel az Oracle adatbáziskezezelõjében. A sérülékenységet kihasználva támadók adminisztrátori jogosultságot szerezhetnek, adatokat módosíthatnak vagy törölhetnek, vagy akár saját szoftvereket is telepíthetnek az adatbázist futtató szerverre.
+
+
+
+Az Oracle adatbázisok bizonyos típusú mezõk esetében (pl. date, number) nem fogadnak el akármilyen felhasználói inputot, így a közhiedelem szerint itt nem hackelhetõk. Litchfield azonban bebizonyította, hogy az Oracle lelkivilágának mély ismeretével és egy kis kódolási trükkel a támadók manipulálhatják a bevitt adatokat, és SQL-beszúrással átvehetik az irányítást. Azt Litchfield is elismeri, hogy az eljárás viszonylag bonyolult, de mindenképpen fontosnak tartja felhívni a figyelmet arra, hogy a ma már a biztonságosnak tekintett mezõtípusok sem biztonságosak.
+
+
+ A támadás kivitelezése a sysdate függvény segítségével történik, a támadó az alter session jogosultságát felhasználva elérheti, hogy az SQL-fordító a date típusú mezõ inputjaként SQL utasításokat is elfogadjon. A date_proc eljárás általában a v_date segítségével állítja be a dátumot, miután meghívta a sysdate függvényt. A session módosításáal és egy SQL parancs beszúrásával a támadó tetszõleges parancsot futtathat az adatbázison, és átveheti át az irányítást.
+
+Litchfield szerint a legfontosabb, hogy az Oracle alkalmazásokat fejlesztõ programozók, akik a PL/SQL nyelvet használják, felfigyeljenek a problémára, és az eddig biztonságosnak hitt mezõtípusokat is ugyanúgy kezeljék, mint a "nem biztonságosakat", és építsenek be ellenõrzést, az SQL-beszúrásos támadások elhárítására.

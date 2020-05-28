@@ -1,0 +1,16 @@
+Kipróbálható a Norton 360 legújabb verziója
+
+Az év végén a Symantec kiadta az otthoni felhasználóknak szánt Norton 360 legújabb, 3.0 verziójának nyilvános bétaváltozatát. Az integrált biztonsági csomag a Norton Antivirus és Norton Internet Security 2009-es változatára épül, ennek megfelelõen a korábbiaknál gyorsabb, hamarabb települ és kevesebb erõforrással és beéri -- ezt ígéri legalábbis a gyártó.
+
+
+
+Korábban a Norton 360 és a Norton Internet Security eltérõ kódbázisra épültek, a Norton 3.0 azonban ugyanarra a kódra épül mint a Norton Internet Security 2009, ennek köszönhetõen a 360-ban számos olyan újdonság megjelent, ami a Norton Internet Security legújabb változatában mutatkozott be. Az egyik ilyen a Norton Insight, amely -- vitatható módon -- vírusellenõrzésnél átugorja azokat az állományokat, amelyeket biztonságosnak vél. A másik a "pulse update", amely azt jelenti, hogy a frissítések szinte percenként érkeznek.
+
+
+ Az új Norton 360-ban már benne van a Safe Web is, amely egy közösségi szolgáltatásként próbálja minõsíteni a meglátogatott weboldalakat és a keresõkben felbukkanó találatokat annak érdekében, hogy a felhasználó elkerülhesse a potenciálisan veszélyes webhelyeket. A Safe Web az internetes áruházakat, sõt, az aukciós oldalak vevõit, eladóit is minõsítheti.
+
+A biztonsági mentéseket készítõ komponens is jelentõs fejlesztésen esett át, már támogatja a pendrive-okat és más hordozható adattárolókat is. Fontos újdonság, hogy a Norton 360-nal elkészített mentéseket már olyan számítógépre is vissza lehet állítani, amelyen nem fut a Norton 360. Az online mentések visszaállítása is egyszerûbbé vált, a Norton 360 3.0-ban minden backupot egy-egy meghajtóként lát a felhasználó. A mentésekkel kapcsolatos beállítások is egy áttekinthetõbb panelre kerültek.
+
+A Norton 360 korábbi változatait sok kritika érte a felhasználók és a média részérõl, hogy a tevékenysége teljesen észrevétlen, egyben láthatatlan is. Az új verzióban már nyomon követhetõ, pontosan mit is csinál a program, akár idõszakos jelentések formájában is. A szoftverrel finomhangolhatók a PC beállításai is, az új verzió például már lehetõvé teszi a felhasználók számára hogy áttekintsék és módosítsák az automatikusan elinduló szoftverek listáját, sõt, akár késleltetni is lehet a nem kulcsfontosságúakat, így elkerülhetõ a gépindításnál szokásos "tumultus".
+
+A Norton 360-at kimondottan az olyan otthoni felhasználóknak fejleszti a Symantec, akik viszonylag keveset értenek a hálózatbiztosághoz, nem tudnak, nem akarnak a beállításokkal veszõdni. A program persze nem nélkülözi a beállíthatóságot, ráadásul biztonsági mentést is képes készíteni, ezért népszerû a "haladó" felhasználók körében is. A Norton 360 3.0 bétaverziója elérhetõ a Symantec weboldalán, a végleges változatot az elsõ negyedévre ígéri a cég.

@@ -1,0 +1,18 @@
+Linuxot futtató mobiltelefonnyi UMPC kerülhet idén a boltokba
+
+A kínai Tsinghua Tongfang LimePC M1 névre keresztelt parányi UMPC-je (vagy nevezhetjük MID-nek is) még idén a boltokba kerülhet. A LimePC M1 alkalmas WEB 2.0-ás alkalmazások futtatására is, így segítségével bárhol, könnyedén élhetjük majd életünk digitális részét.
+
+
+
+A LimePC lelkét a gyártó ''Motherboard-on-Chip'' szavakkal írja le, tehát olyan lapkára kell gondolnunk, amely a grafikus- és hang alrendszereket, a processzort, valamint a további részegységek kapcsolatáért felelõs egyéb képességeket egyetlen közös tokozásba zárja, így gyakorlatilag egyetlen chipben valósul meg a komplett alaplap. Ilyen a gépben alkalmazott Freescale MPC5121e mobileGT processzor.
+
+Az e300 processzormag köré épített, 90 nanométeres gyártástechnológiával elõállított komplex lapka, az MPC5121e 400 megahertzes frekvenciáig skálázható, így abban biztosak lehetünk -- bár az adat a LimePC esetében még nem kimondott -- hogy ennél magasabb órajelen az itt sem fog üzemelni. A processzorgyártó az UMPC kategória mellett telematikus rendszerek pilléreként éppúgy ajánlja termékét, mint autók hátsó üléséhez tervezett szórakoztató berendezések, vagy távfelügyeleti-, illetve biztonsági rendszerek motorjaként.
+
+
+A LimePC M1 további ismertetõjegyei a 10/100-as LAN csatlakozó, a maximum 16 gigabájtnyi flashmemóriás háttértár, a 802.11 b/g vezeték nélküli hálózati csatoló, a Bluetooth 2.0 rádió, valamint a 110 x 58 x 15,9 milliméteres befoglaló méretek és a 130 grammos tömeg. A tápellátásért legalább négy órányi idõtartamig lítium-polimer akkumulátor felel majd.
+
+
+
+A LimePC fejlesztése során a WEB 2.0 alkalmazások megfelelõ sebességû és kényelmet nyújtó kiszolgálását tartják a fejlesztõk az elsõdlegesen elérendõ célnak, amelynek a Debian Linux egy speciális változata az alapja, egy teljes képernyõs HTML-megjelenítési környezetként. Ebbe a keretbe már bekerült a LimeSUITE, amely hasznos alkalmazások (mint például webböngészõ, szövegszerkesztõ) gyûjteménye és szinte elválaszthatatlan az operációs rendszertõl.
+
+A Tsinghua Tongfang a CES-en mûködõ példányt is kiállított a gépbõl, illetve több különbözõ változatot is készít majd belõle. A LimePC az év közepétõl lesz Kínában kapható, de év végéig az Egyesült államokba is eljuthat belõle az elsõ szállítmány, ahol várhatóan 300 dollár alatti összeg kerül a polcokon a kisgéphez tartozó adatlapra.

@@ -1,0 +1,18 @@
+Kész a Serial ATA 3.0 szabvány
+
+A soros szervezésû Serial ATA 6Gbps (vagy Serial ATA 3.0) interfész
+nevéhez híven megduplázza közvetlen elõdje, illetve megnégyszerezi az
+elsõ generációs eszközök átviteli sebességét, így a rá csatlakoztatott
+tárolóegységek számára egy elméletileg 6 gigabit/másodperces
+áteresztõképességû adatáttovábbító csatorna áll majd rendelkezésre. A szabvány egy új NCQ (Native Command Queueing) parancsot is támogat, mely az audio- és videotartalmak gördülékenyebb streamelését segíti, emellett energiatakarékosabb üzemmódot is ígér az új technológia.
+Az új szabvány teljes visszamenõleges kompatibilitást ígér a SATA I és SATA II rendszerekkel, így az interfész csatlakozója sem változik, a kisebb eszközök (jellemzõen 1,8 hüvelykes merevlemezek) számára azonban létrehoztak a fejlesztõk egy kompakt csatolót, emellett a vékony noteszgépeknél használt 7 milliméter magas optikai egységekhez is készült egy újfajta konnektor.
+A Serial ATA 3.0 szabvány bevezetésébõl elsõsorban nem a merevlemezek,
+hanem az SSD-k profitálhatnak majd. A&nbsp; flash memóriás
+háttértárak az idõ elõrehaladtával ugyanis már nemcsak kapacitásukat
+tekintve, hanem a NAND flash chipek adatkezelési tempóját illetõen is
+jelentõs fejlõdési utat járnak be -- a megnövekedett belsõ adatkezelési
+sebességet pedig idõvel nem tudja majd kiszolgálni a csatolóinterfész
+jelenlegi változata, melynek határait már most is feszegetik a
+legújabb, még idén piacra kerülõ megoldások, melyek olvasási
+csúcsteljesítménye elérheti a 250 megabájtos másodpercenként. 
+A SATA interfész napjaink legelterjedtebb tárolóeszköz-csatolóinterfésze: az IDC kalkulációi szerint 2001-tõl 2008-ig nagyjából 1,1 milliárd SATA-csatolós eszközt értékesítettek a gyártók -- ma a számítógépekbe építhetõ merevlemezek 98 százaléka ezt a csatolószabványt használja.

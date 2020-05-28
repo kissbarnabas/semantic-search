@@ -1,0 +1,14 @@
+Csúcsteljesítményû blade szerverrel bõvítette kínálatát a Sun
+
+Új blade szervert mutatott be a Sun, amely a 2006 nyarán piacra dobott Blade 8000 platformba illeszkedik. A Sun Blade X8450 négy darab négymagos Xeon 7300 processzort képes fogadni, és a Sun szerint megfelelõ teljesítménnyel rendelkezik lényegében bármilyen nagyvállalati szintû alkalmazás futtatásához, de technikai-tudományos (HPC) környezetben is jól használható, hatalmas memóriakapacitása pedig ideálissá teszi akár virtualizációs platformként történõ bevetésre is. A különféle Windows- és Linux-változatok mellett a VMware ESX Server is a támogatott operációs rendszerek között található.
+
+
+
+A Blade X8450 érdekessége, hogy összesen 16 processzormagja mellé akár 32 darab FB-DIMM memóriamodult is építhetünk, így akár egy blade képes 128 gigabájt memóriát kezelni, de amint megjelennek a 8 gigabájtos FB-DIMM modulok  a piacon, ez egycsapásra 256 gigabájtra növekszik majd. A blade-en emellett két 2,5 hüvelykes merevlemeznak is van hely, amelyek kiviteltõl függen SAS vagy SATA felületûek lehetnek. A Blade X8450 figyelemre méltó jellemzõje még a négy darab PCI Express x8, és a két darab PCI Express x4 bõvítõsín.
+
+
+ A kimondottan nagy teljesítményigényû alkalmazások futtatására tervezett Sun Blade 8000 platform egy gigászi, 19 rack unit magas blade keretben összesen 10 darab szervert tartalmaz, ami négymagos chipek használatával legfeljebb 160 processzormagot jelenthet. Egy szabványos rackszekrénybe két ilyen blade frame, vagyis összesen 320 processzormag építhetõ be. A rendszer érdekessége, hogy a blade frame-en minden egyes szerverhez két dedikált PCI Express bõvítõhely tartozik, blade-enként 192 Gbps sávszélességgel. A blade keretet úgy alakították ki, hogy teljes mértékben gondoskodjon a szerverek hûtésérõl és tápellátásáról, így magukon a blade-eken már nincs is ventilátor például.
+
+
+
+A Sun ígérete szerint a Blade X8450 szerverek a jövõ hónaptól lesznek elérhetõk, az árak 8905 dollártól indulnak, ezért a pénzért a belépõszintû konfigurációt lehet megvásárolni, ami négy darab 1,8 GHz-es Xeon L7345 processzort és 8 darab 2 gigabájtos FB-DIMM memóriamodult tartalmaz, merevlemezt azonban nem.

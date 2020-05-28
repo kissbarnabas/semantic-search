@@ -1,0 +1,20 @@
+Tizenhárom biztonsági rést foltozott be szoftvereiben az Adobe
+
+A szoftvercéget korábban számos kritika érte, amiért lassan reagált, lassan javította ki az alkalmazásokban felfedezett kritikus biztonsági hibákat, különös tekintettel a legtöbbet támadott ingyenes Adobe Reader PDF-olvasó sebezhetõségeire. A cég május közepén tett ígéretet arra, hogy a nyártól ezért gyorsítja és ütemezi a javítások megjelenését, és a Microsfothoz hasonlóan bevezeti az úgynevezett "patch keddet" azzal a különbséggel, hogy a redmondi szoftvercéggel ellentétben nem havonta, hanem háromhavonta adja ki a javításokat alkalmazásaihoz.
+"Ez az elsõ negyedéves javítás az Acrobat és Adobe Reader alkalmazásokhoz az egyik elsõ jeleként annak a törekvésnek, melynek célja a kód még stabilabbá és biztonságosabbá tétele" -- írja Wendy Poland, az Adobe biztonsági javításokért felelõs csapatának egyik tagja a cég hivatalos blogjában. A most javított 13 biztonsági rés közül legalább 8 a JBIG2 képtömörítési formátumhoz köthetõ, a javítások az Acrobat és az Adobe Reader 9-es 8-as és 7-es verzióinak különbözõ platformokra fejlesztett változataihoz érhetõk el. A program 9.1.2-es verziója egy hét múlva jelenik meg Linux/Unix platformra.
+Az Adobe idén kétszer tett közzé javítást az Acrobat és a Reader
+programok több verziójához. Az elsõ patch március 10-én (ami egyébként
+szintén keddi nap volt) jelent meg -- csaknem három hónappal a
+felfedezése után. Akkor a PDF-fájlok beolvasásáért felelõs rutinban
+olyan hiba maradt, amelyet
+egy speciálisan elõkészített állománnyal kihasználva támadók akár
+teljes kontrollt szerezhetnek a számítógép felett, azaz saját kártékony
+kódjaikat futtathatják, adatokat módosíthatnak vagy tulajdoníthatnak
+el, illetve további támadásokat indíthatnak más rendszerek ellen.
+A következõ frissítés május 12-én (szintén kedden) érkezett a Reader
+7-es, 8-as és 9-es verzióihoz, ez a szoftver JavaScript-végrehajtási
+motorjában felfedezett kritikus sérülékenységet javította. Az Acrobat
+és Reader programok mellett a Flash platformhoz megjelenõ javítások is
+negyedéves rendszerességgel érkeznek ezután. Az Adobe a Flash playerben
+legutóbb február végén foltozott be egy kritikus biztonsági rést, a
+Flash Media Serverhez pedig április végén érkezett tapasz.

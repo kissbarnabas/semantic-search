@@ -1,0 +1,32 @@
+Megkésve bár, de itt a T-Home mûholdas televízió
+
+"Késtünk!" -- összegezte Winkler János vezérigazgató-helyettes, hogy miért csak most lép be a digitális mûholdas televíziós piacra a Magyar Telekom. December elsejétõl a T-Home kínálatban is megjelenik a UPC Directet és a DigiTV-t követve a mûholdas televízió, amivel az eddigi (T-Kábel, IPTV) 1,5 millió háztartás elérése helyett gyakorlatilag teljes lefedettséget érnek el.
+
+
+
+Paradigmaváltás
+
+Idén januárban kezdõdött a Magyar Telekom stratégiaváltása, illetve vezetõváltása. Az új célok középpontjában az állt, hogy egy éven belül a T-csoportra ne úgy gondoljanak, mint az "ex-Matáv", volt vezetékestelefon-szolgáltató, hanem úgy, mint a "három képernyõn jelen levõ" szolgáltató, amelynek a televízió képernyõje, PC monitora és mobiltelefon kijelzõje egyformán fontos -- mondta Winkler János. Ennek a paradigmaváltásnak a része volt a márkaváltás, az optikai hálózat fejlesztésének megkezdése, a HSDPA-fejlesztés és ehhez csatlakozik most az eddig hiányzó elem, a mûholdas tévé.
+
+Winkler elismerte, hogy elkéstek ezzel a projekttel, de hozzátette, hogy csak a januári váltást követõen került a cég olyan pozícióba, ami lehetõvé tette ezt. A kezdéstõl számítva alig 9 hónap alatt építettek fel teljesen a semmibõl egy teljes terméket, azaz nem vesztegették az idõt. A cég nem kizárólag saját belsõ megérzéseire hagyatkozik, hanem egyfajta csendes, de globális paradigmaváltást is észlel a telekommunikációs piacon. Régebben mindenki egyértelmûen a rézalapú technológiákra esküdött, míg mostanra a fókusz teljesen átkerült a vezetéknélküli megoldásokra, illetve úgy tûnik, hogy a heterogén termékpalettáké a jövõ.
+
+Heterogén szolgáltatások
+
+A szolgáltatók új logikája, stratégiája nem egyetlen megoldást erõltet, hanem kisebb területi egységeket alapul véve mindenhol célzott, a helyi körülményeknek és a felhasználói igényeknek megfelelõ szolgáltatásokkal jelennek meg. A DSL a technológiai korlátokat feszegeti, ezért is lehetett szükséges a HSDPA mellett párhuzamosan az optikai hálózat fejlesztése is. Nem lehetetlen, hogy pár éven belül a letöltés már mobil technológiával is eléri a 100 megabites nagyságrendet, az üvegszálas kábelekkel már jövõre 200 ezer otthont érnek el. 
+
+Nagy Richárd, a Magyar Telekom DVB-S megoldásának, a T-Home Sat TV-nek a projektvezetõje elmondta, sikerült tartani a bevezetés ütemezését és december elsején valóban megindulhat az értékesítés. Az elmúlt 9 hónapban feladatok között több, eddig ismeretlen terület tûnt fel, mivel a Magyar Telekomnak soha semmilyen mûholdas szolgáltatása nem volt. A projektvezetõ kiemelte a fejállomás és a fellövõállomás telepítését, a mûholdas sugárzás szerzõdésének elõkészítését, illetve a mûsorszolgáltatókkal való újbóli tárgyalásokat, mint komoly feladatokat.
+
+Nem meglepetés
+
+Technikai oldalról annyit lehet tudni az új szolgáltatásról, hogy a sugárzáshoz a 2005-ben elfogadott DVB-S szabvány második generációját használja, amivel lehetõség nyílik HD-adások közvetítésére is. A mûsorokat MPEG-4 (H.264) tömörítéssel továbbítják, ami a korábbi MPEG-2-es tömörítéshez képest a minõség mellett a helytakarékossága miatt jelent elõrelépést.
+
+A szolgáltatás árazása a már piacon lévõ konkurens ajánlatokhoz igazodik, illetve a struktúra hasonlóan moduláris, mint az IPTV esetében. Természetesen a szolgáltató azt díjazza kedvezményes elõfizetési díjakkal, ha az ügyfelek mindhárom (tévé, telefon, internet) szolgáltatást nála veszik igénybe, illetve hûségszerzõdéssel biztosítják szándékukat. A T-Home Sat TV esetében az alapcsomag 14, a családi csomag 49 csatornát tartalmaz, melyeket további tematikus adókkal lehet kiegészíteni plusz díjakért cserébe. 
+
+
+Az árazás többnyire reálisnak tûnik, kivéve a HD-csatornák esetében, ahol három (History, NatGeo, Eurosport) csatornáért 1990 forintot kell havonta fizetni. Az nem derült ki, hogy a három HD-adás csak bemelegítés-e, és az árat már a szélesebb palettára lõtték be, vagy valóban ekkora hozzáadott értéket képzelnek a nagyfelbontás mellé. Ugyancsak nem derült ki az sem, hogy milyen set-top-box készülékekkel érkezik majd a szolgáltatás. 
+
+Jövõképek
+
+Egyelõre annyit árultak el a Magyar Telekom illetékesei, hogy két darab készülék közül lehet majd választani, s a jövõ évben esetleg bõvül majd a felhozatal. Az ajánlat egyelõre nem különböztet meg mûsorrögzítésre is alkalmas csomagot, így vélhetõen a SatTV egyelõre nem kínál többet, mint jobb képminõséget, helyfüggetlen kiépíthetõséget és elektronikus mûsorújságot (EPG). 
+
+Éppen ezért nem is számít valójában konkurensnek az IPTV szolgáltatás számára, hanem a jelentõsége inkább abban van, hogy a Magyar Telekom számára eddig fehér foltokat is eléri majd. A sajtótájékoztató során továbbá két érdekes információra is fény derült: egyrészt a vezetõk elõrevetítették, hogy a márkaváltással párhuzamosan zajló belsõ integráció, átszervezés lezártával megjelenhetnek a teljes átjárhatóságot biztosító csomagok (mobil, vezetékes, internet, telefon, tv tetszés szerinti kombinációi). Másrészt Winkler János állítása szerint jövõ év elsõ felében Magyarországra is megérkezhet a Google Android platformra épített T-Mobile G1 készülék.

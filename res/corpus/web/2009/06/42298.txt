@@ -1,0 +1,15 @@
+Új stabil verzió jelent meg a Firefoxból
+
+A programozók egyebek mellett kijavították az a JavaScript-motorban felfedezett, hibás jogosultságkezelésen alapuló sérülékenységet,&nbsp;mely lehetõvé tette a támadók számára, hogy böngészõ bizonyos komponensein keresztül rosszindulatú kódot futtassanak a felhasználó számítógépén. Az új kóddal stabilabb lett a böngészõmotor is, valamint kijavítottak több olyan memóriakezelési hibát is, melyek korábban a böngészõ lefagyásához vezethettek. A Firefox 3.0.11-ben kijavították a könyvjelzõkezelõ hibáját is, mely korábban bizonyos esetekben a könyvjelzõk listájának sérülését okozta.
+A Mozilla programozói a stabil verzió fejlesztése mellett gõzerõvel dolgoznak az új, 3.5-ös verziószámot viselõ Firefoxon is, melynek megjelenése az eredeti tervekhez képest hónapokat csúszik. A böngészõ tesztelése jelenleg többszázezer felhasználó bevonásával zajlik, a kód várhatóan heteken belül eléri a végleges formáját. A Firefox 3.5 negyedik bétájához éppen a héten jelent meg egy köztes frissítés, mely az eddig megszokott gyakorlattal ellentétben a "Preview" jelzõt viseli, azaz nem is ötödik bétaként és nem is kiadásra jelölt változatként kezeli a Mozilla.
+Firefox 3.5 fejlesztése elsõsorban az új, korábbinál gyorsabb
+JavaScript-motorral kapcsolatos fejlesztések elhúzódásának köszönhetõen
+tart jóval tovább a vártnál. A Mozilla október közepén adta ki a
+böngészõ elsõ bétáját, december közepén pedig a másodikat. A harmadik
+bétaváltozat megjelenését eredetileg január közepére datálták, de csak
+két hónap csúszással jelenhetett meg. A jelenleg aktuális tesztverzió
+-- a negyedik béta&nbsp; -- április végén vált elérhetõvé. Az új Firefox
+végleges
+változata az eredeti tervek szerint az elsõ negyedévben jelent volna
+meg.
+A Firefox jelenlegi legfrisebb stabil, 3.0.11-es verziója letölthetõ a Mozilla weboldaláról, illetve a korábbi verziókat használók számára automatikus vagy manuális frissítésként.

@@ -1,0 +1,22 @@
+Felhasználói szokások alapján is célozná hirdetéseit a Google
+
+Susan Wojcicki, a Google termékmenedzsmentért felelõs alelnöke a a hivatalos Google blogon jelentette be egy új hirdetéstargetálási technológia tesztelésének megkezdését, amely a Google szöveges hirdetéseket megjelenítõ partnereinek weboldalaiból álló hálózaton és a YouTube-on érhetõ majd el. Az új célzási lehetõség a tesztelés után várhatóan a magyarországi AdWords-hirdetõk eszköztárába is bekerülhet majd.
+
+
+
+Eddig csak a környezet számított a Google-hirdetéseknek
+
+Az eddigi technológia alapján a tartalmi hálózaton fõképp olyan Google-hirdetések jelenhetnek meg, amelyeket a weboldalak szövege, témája alapján társított a Google rendszere a megfelelõ oldalhoz -- például egy horvátországi utazással kapcsolatos weboldalon olyan hirdetések jelenhetnek meg, amelyek horvátországi szállásokat népszerûsítenek. Ez viszont nem feltétlenül olyan hirdetéseket társít a tartalom mellé, ami a látogató számára releváns, így csökkentve az átkattintási arányt, illetve növelve a meddõszórást.
+
+
+ A kizárólag szövegkörnyezet alapján társított hirdetések gyakran, fõleg informális környezetben téves, nem releváns kapcsolatokat is eredményezhetnek. Egy valós példával szemléltetve, a Gmailben a  "Gyermekkorom szép emlékeit idézi" illetve "Te is csináltál gyerekkorodban olyat" kifejezéseket tartalmazó levelek mellett terhes nõknek, kismamáknak szóló hirdetések, szoptatós melltartókat kínáló webshopok reklámjai jelentek meg, teljesen irrelevánsan.
+
+Relevancia, mindenek felett!
+
+"Ezért dolgozik a Google keményen azon, hogy egy olyan technológiát hozzunk létre, ami a saját és partnereink weboldalain a lehetõ legrelevánsabbak tudnak lenni" -- mondta Susan Wojcicki. Ez nem csak az internetezõk érdeke, hanem a hirdetõké és a megjelenítõ partnereké is, hiszen az odaillõbb, ezáltal nagyobb mértékben megtérülõ és hatékonyabb hirdetések nagyobb bevételt hoznak nekik is.
+
+A bétatesztelés alatt álló célzási technológia alapján a Google AdWords hirdetési program felhasználói azokat az internetezõket is megcélozhatják a YouTube-on és a tartalmi hálózat egyéb oldalain, akik elõzõleg meglátogatták a hirdetõ honlapját. Például, ha valaki egy utazási iroda weboldalán járt, az adott utazási iroda késõbb is elérheti õt más honlapokon, például last minute ajánlatokkal. Az internetezõk általános érdeklõdési körük alapján is elérhetõek lesznek. Hogy kit mi érdekel, arra a korábban meglátogatott tartalmi hálózati oldalak és a megtekintett YouTube-videók alapján következtet a rendszer, de az internetezõk ezt maguk is beállíthatják, sõt azt is megadhatják, hogy milyen témájú hirdetésekre nem kíváncsiak.
+
+Nem kell aggódnia a személyiségi jogi harcosoknak sem
+
+Ez a célzási megoldás természetesen szigorú követelményeket támaszt az internetezõk önrendelkezése és adatainak védelme szempontjából. A tartalmi hálózaton a Google által kiszolgált hirdetések túlnyomó többsége mellett már most látható, hogy Google-hirdetésrõl van szó, de a késõbbiekben a címkére kattintva az is megtekinthetõ, hogy mi alapján célozták a hirdetéseket. Az Ad Preferences Managerrel megnézhetõ, módosítható és törölhetõ az adott böngészõhöz társított érdeklõdési kör, illetve általánosan is letiltható a Google részérõl a sütik kiküldése, melyekkel a célzáshoz szükséges adatokat gyûjti a szolgáltató.

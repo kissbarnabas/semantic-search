@@ -1,0 +1,36 @@
+Hullámokat gerjeszt a Google
+
+Hibrid hullám
+
+A Google Wave úgy tûnik, mintha a Gmail és a Google Docs közös gyermeke lenne, melynek eredményeképp egy érdekes és szabad munkafelület jön létre. A dokumentumok közös létrehozása, szerkesztése mellett ugyanolyan egyszerû események szervezési feladatait végigvinni, mint az aktuális híreket megtárgyalni vagy közös játékokat játszani.
+
+Még a keresõóriás "játékgyárában" is elõremutatónak számító felület létrehozásáért fõként a "Where 2 Tech" nevû startup alapítói feleltek. A Where 2 Tech-et a Google évekkel ezelõtt vásárolta fel, s többek közt ennek a cégnek a kezdeményezésébõl nõtt ki a Google Maps is. 
+
+
+
+ 
+
+
+Az egyik alapító szerint miután a térképekkel sikerre vitték, elkezdtek azon gondolkodni, hogy mi lehet a következõ lépés. A válasz természetesen a kommunikáció volt. A digitális kommunikációban a két legnagyobb siker az e-mail és az azonnali üzenetküldés volt, mindkettõ egy-egy korábbi analóg technológia helyettesítõ termékeként. A levelezés és a telefonhívások leváltására létrehozott technológiák elterjedése óta viszont számos egyéb média jött létre, mint a blogok, wikik, közösen szerkesztett dokumentumok, illetve a számítógépek és a hálózatok is sokat fejlõdtek, teljesen átalakultak. A Wave fejlesztésével ezek után a változások után eredtek a fejlesztõk.
+
+
+A kulcs a kommunikáció
+
+
+"A Google Wave-ben létrehozol egy 'hullámot', hozzáadsz embereket, s mindenki aki benne van, használhatja az oda tartozó fájlokat, szövegeket, fotókat, kütyüket, és akár más webes forrásokat is hozzá lehet illeszteni. A többiek is hozzászólhatnak, betehetnek, elvehetnek vagy szerkeszthetnek bármit közvetlenül. A lényeg pedig, hogy a partnerek által végrehajtott változtatások valós idõben láthatóak, de bármikor "vissza lehet tekerni" az eseményeket és megnézni, hogy mi történt. Ez azt jelenti, hogy a Wave egyaránt alkalmas lenne a gyors kommunikációhoz és a folyamatos közös munkához." -- definiálta a szolgáltatást Lars Rasmussen, a Google szoftverfejlesztõ mérnöke.
+A jelenleg rendelkezésre álló információk szerint az emailt, chatet és a szövegszerkesztõt egybe gyúró szolgáltatásban a felhasználó létrehoz egy "hullámnak" nevezett elemet, ami mûködhet üzenetként is vagy dokumentumként is. A címzettek valójában inkább kollaboráns partnerek, akik a hullámot elõször egy olvasatlan dokumentumként látják, csakúgy, mint a levelezõben, a válasz viszont inkább ahhoz hasonlít, mintha hozzáírnánk egy dokumentumhoz. A valós idõben követhetõ változtatások mellett buborékokba tett kommentárok is megjeleníthetõek, így a közös szerkesztés közben végre, a Google Docs nagy hiányosságát pótolva, beszélgethetnek egymással a felhasználók.
+A hullámok ugyanúgy beágyazhatóak lesznek bármilyen webes környezetbe, mint most egy YouTube videó, ami a blogolást és a közösségi kommunikációt is megreformálhatja, de legalábbis egyszerûbbé teheti. A szerkesztõ elérhetõ lesz desktop és mobil környezetben is, illetve a nyílt forráskódú alapoknak köszönhetõen a hivatalos változat mellé akár meglepõ kiegészítõk is születhetnek majd, amennyiben beváltja a szolgáltatás a hozzá fûzött reményeket.
+
+
+
+
+
+
+
+
+
+
+Még idén
+
+
+A Wave egyelõre csak fejlesztõk számára elérhetõ béta állapotban, de a hivatalos oldalon bárki jelentkezhet, hogy értesítést kapjon a publikussá válás idõpontjáról. Néhány kép és bemutató videó már elérhetõ, illetve az API-val kapcsolatban is van néhány nyilvános részlet. Az API segítségével a vállalkozó kedvûek továbbfejleszthetik a szolgáltatást és a Wave protokollt, sõt bárki futtathat saját Wave szervert is. Várni már nem sokáig kell rá, a Google ígéretei szerint még idén biztosan elérhetõvé válik, annak ellenére, hogy a tegnapi napig szinte senki nem tudott a létezésérõl sem.

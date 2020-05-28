@@ -1,0 +1,28 @@
+Megérkezett a Toshiba várva várt ultrahordozható notesze, a Portégé R500
+
+Több hónapos csúszást követõen a Toshiba végre Magyarországon is bemutatta a várva várt Portégé R500 ultrahordozható gépét, mely a világ egyik legkönnyebb notebookja. Az R500 egyszerre mérnöki bravúr, és csalódás: a gép rendkívüli technikai paramétereihez nem illõ ház és megjelenés társul. 
+
+
+
+Mûszaki bravúr
+
+A 12,1 hüvelykes formátumú R500 a Portégé 2000 által létrehozott etalon termékvonal méltó folytatása kíván lenni. A gép méretéhez képest arcátlanul könnyû, amit tetéz, hogy beépített optikai meghajtóval is bír, és egy jellemzõen 5 óra üzemidõt biztosító 56 wattórás akkumulátorral sem haladja meg az 1 kilogrammot -- õrület. Az optikai meghajtó miatt bár a gép nem lehet olyan vékony, mint elõdei, így is kecses marad. Hogy ekkora méretekbe az optikai meghajtó és akkumulátor mellé beleférjen a teljes rendszer, a Toshiba egy mindkét oldalán chipeket tartalmazó ultraintegrált alaplapot hozott létre, mely tenyérnyi méretû. 
+
+A technikai különlegességek sorába tartozik a kijelzõ. A LED-háttérvilágítású,  1280x800 felbontésú panel transzflektív, vagyis napfénynél is olvasható marad, mikor a háttérvilágításra nincs is szükség, spórolva az akkumulátorral -- bár ez egyedi megoldásnak számít, a ThinkPad x60s "hagyományos" tükrözõdésmentes kijelzõje és bír korlátozott transzflektív tulajdonságokkal, és napsütésben is olvasható maradhat, ha jó szögben kapja a fényt.
+
+A Napa Refresh Intel Centrino Duo platformra épülõ R500 ultra-alacsony feszültségû, 1,2 gigahertzes Core 2 Duo processzort és 945GMS chipsetet alkalmaz, és természetesen rendelkezik a szokásosan elvárható kommunikációs lehetõségekkel és portokkal, a gigabites Ethernet, Wi-Fi, Bluetooth, PCMCIA bõvítõhely alapvetõnek mondhatóak egy ilyen kategóriájú gép esetében. Tapasztalataink szerint a gép megfelelõ teljesítményt nyújt a célterületén, vagyis az irodai célú felhasználáskor, érdemes viszont minél több memóriával,  minimum 2 gigabájttal rendelni. Rendelhetõ 64 gigabájtos SSD-vel is, optikai meghajtó nélkül ekkor 800 gramm alatt marad a tömege.
+
+
+
+Az R500 továbbvitte az elõdök örökségét, a billentyûzetet, azokhoz hasonlóan kisjárású gombokat alkalmaz, vagyis szinte alig kell hozzájuk érni az érzékelés érdekében. Az R500 billentyûzetével nagyon gyorsan is lehet gépelni, ha valaki hozzászokott, érzetre is igen jó minõséget kelt. Ezzel azonban sajnos végeszakadt a gyorsan összegyûjthetõ pozitívumok listájának. Az R500 amekkora mérnöki csúcsteljesítmény, majdnem akkora csalódás néhány, egyébként könnyen orvosolható hiba miatt.
+
+Kár a hibákért
+
+Ahogyan a HWSW egyik munkatársa megjegyezte, elsõ benyomásra az R500 inkább tûnik egy makettnek, semmint valódi gépenk. Ennek oka, hogy a gép háza olcsó mûanyag benyomását kelti, és talán az is. A ház egyszerûen puha, és egyes éleken az illesztések sem tökéletesek, nincs a gépben a bizalomhoz elegendõ merevség, masszivitás. Ironikus módon a rendkívül alacsony tömeg ekkorra kontraproduktívvá válik, és erõsíti a játékszer benyomást.
+
+
+Fémmel csak a fedélen, a kijelzõ kávájánál találkozunk, viszont a vékonyság és tömeg érdekében kötött kompromisszumok miatt a kizárólag középen szabad megfognunk nyitáshoz vagy csukáshoz, különben maradandó deformációt okozhatunk. A Portégé R500-hoz képest az x60s egy páncélozott rohamkocsi, igaz, úgy is néz ki, és több mint másfélszer nehezebb -- de legalább nem aggódunk, hogy valami vagy valaki hozzáér.
+
+Szintén nem értékelhetõ elõrelépésként az R500 megjelenése sem, ha kinyitjuk a gépet. Tömören összefoglalva: a Portégé 2000 és R100, de még az R200 is sokkal elegánsabb megjelenést biztosított, egyszerûen szépek voltak. Az R500 esetében valahogy elveszett ez a légies elegancia, nem nyerte el tetszésünket az ezüst belsõ sem, fekete csak a kijelzõ elülsõ kávája maradt -- ne tévesszen meg minket a fotó. Végül egyértelmû visszalépés a fedetlen portok felbukkanása, ráadásul a kéken virító D-Sub monitor csatlakozó kifejezetten megtöri a látványt. Ez talán szõrszálhasogatásnak tûnik, de ennyi pénzért a Toshibától ezt már elvárjuk.
+
+Mindezekkel együtt a Toshiba R500 egy igazi prémium gép, méretéhez és képességeihez mérten rendkívül könnyû, és összességében divatos megjelenést biztosít -- láthatóan más, mint a többi hasonló notebook. A gép félmillió forintot közelítõ ára pedig garantálja, hogy a technikai különlegesség ritka marad, így nem kell attól tartani, hogy lépten-nyomon belebotlunk.

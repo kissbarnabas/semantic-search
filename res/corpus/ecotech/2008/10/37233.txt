@@ -1,0 +1,20 @@
+Könnyen ugrotta át az elemzõi várakozásokat a VMware
+
+Az elemzõi várakozásokat jócskán meghaladó negyedéves eredményekrõl számolt be a VMware, az x86-os virtualizációs szoftverek vezetõ gyártója. A cég elõrejelzése igen óvatos. A 
+
+
+
+A szeptember 30-án véget ért negyedévben a VMware bevétele 32 százalékkal 472 millió dollárra emelkedett, a nettó eredmény 64,7 millió dollárról 83,3 millióra nõtt. Az egy részvényegységre jutó eredmény egyszeri tételek nélkül 24 centet tett ki. Piaci elemzõk 463 millió dolláros bevétel mellett részvényenként 20 cent profitot prognosztizáltak, a VMware könnyedén ugrotta át ezeket a várakozásokat.
+
+Nem tartanak a Microsofttól...
+
+
+Paul Maritz, a VMware nemrég kinevezett ügyvezetõje a negyedéves eredmények kapcsán rendezett elemzõi konferenciahíváson elmondta, a cég eredményein egyelõre nem látszik a Microsoft virtualizációs portfóliójának, a júniusban megjelent Hyper-V hypervisornak és a kapcsolódó felügyeleti termékeknek az elszívó hatása. A VMware vezére magabiztosan állította, hogy a termékfejlesztés terén 12-14 hónappal a Microsofté elõtt járnak.
+
+"Nyilvánvalóan nagyon komolyan számolunk a Microsofttal és rajta tartjuk a szemünket. Egyes ügyfelek valóban belementek közvetlen összehasonlításokba, de ezek túlnyomó többsége számunkra kedvezõen alakult" -- mondta Maritz, aki 2000-ig pont a Microsoftnál dolgozott. "Emellett az elõzõ negyedéves bejelentések ellenére a Microsoft még mindig lemaradásban van a termékterveivel, és szerintünk nem is érnek utol a következõ 12-24 hónap során, ennyi idõ alatt pedig mi is továbblépünk."
+
+...pedig kellene?
+
+Az IDC második negyedéves adatai szerint a virtualizációs szoftverek piacán a VMware továbbra is toronymagasan vezetõ, a cég részesedése az eladott licencek számát nézve 44 százalék. A Hyper-V megjelenésével a Microsoft azonban máris az elõkelõ második helyre ugrott, és a licenceladások alapján 23 százalékos részesedést ért el. Brett Waldman, az IDC elemzõje szerint hosszú távon egyértelmûen várható a Hyper-V térnyerése a VMware-megoldások kárára.
+
+A Vmware negyedéves tájékoztatóján elhangzottak szerint egyre nagyobb az esély arra, hogy a 2008-ra várt 42-45 százalékos növekedének az alsó határán teljesít majd a VMware. "A gazdasági körülmények jelenlegi bizonytalansága különösen nehézzé teszi a kereslet [...] elõrejelzését és egyre valószínûbbé teszi, hogy a VMware eredményei eltérnek a várakozásoktól" -- mondta Maritz.

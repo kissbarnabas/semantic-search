@@ -1,0 +1,18 @@
+Kipróbálható a Microsoft vadonatúj személyazonosság- és hozzáféréskezelési megoldása
+
+A Microsoft a floridai Orlandóban a héten zajló Tech Ed 2008 konferencián bejelentette új személyazonosság-kezelési megoldása, az Identity Lifecycle Manager 2 elsõ nyilvános bétaváltozatát, amely bárki számára ingyen letölthetõ. A végleges verzió 2009 elsõ negyedévében várható.
+
+
+
+Az ILM2 legfontosabb újdonsága, és egyben elõnye, hogy az azonosságkezelési feladatok egy részét kivonja az üzleti folyamatokkal és jogkörökkel néha kevésbé tisztában levõ informatikai részleg hatáskörébõl, és közvetlenül a vállalati dolgozók kezébe helyezi, akik az Office-ból megszokott felületen végezhetnek el módosításokat, például megváltoztathatják az elfelejtett jelszavaikat.
+
+ A Tech Ed 2008-on megjelent mintegy 10 ezer IT-szakember elõtt Doug Leland, a Microsoft azonosság- és hozzáféréskezelési termékeinek felelõse elmondta, az ügyfelektõl beérkezett visszajelzések alapján az IT-részlegeknek egyre nagyobb terhet jelent a személyazonosság-kezeléssel kapcsolatos feladatok ellátása, ami egyben az IT-költségek növekedését is magával hozza. Felmérések szerint az IT-részlegekhez beérkezõ hívások negyede azonosság-kezeléssel, jelszavakka kapcsolatos -- ezen feladatok jó részét maguk a felhasználók is elvégezhetnék.
+
+Másfelõl -- érvelt Leland -- gyakran teljesen felesleges az IT-részleget bevonni egy ilyen feladatba, hiszen a vállalatnál dolgozó vezetõk azok, akik a leginkább tisztában vannak azzal, hogy a szervezetben kinek mihez lehet jogosultsága, az IT feladata eddig is csak ezen szabályok implementálása volt. Az ILM2-ben közvetlenül a felhasználók menedzselhetik a jogosultságokat, akár egész csoportokra kiterjedõen. Az IT-szakemberek a felszabaduló idejüket ezután más, "hasznosabb", értkteremtõ tevékenységre fordíthatják.
+
+
+
+
+ A rendezvényen Bob Muglia, a Microsoft szervertermékekért és fejlesztõi eszközökért felelõs divíziójának vezetõje demonstrálta, az ILM2-ben hogyan hozható létre egyszerûen, akár egy üzleti vezetõ számára is áttekinthetõen és érthetõen egy új felhasználó, és rendelhetõk hozzá jogosultságok például alkalmazások, hálózatok, fájlok elérésére. Az ILM2 további fontos újdonsága, hogy nyitott platform, amelyre a fejlesztõk .NET- és WS*-alapú kiegészítésekkel csatlakozhatnak, és így olyan alkalmazásokat készíthetnek, amelyek képesek azonosságkezelésre.
+
+Arra a felvetésre, hogy a felhasználók kezébe adva a "gyeplõt" nem növekednek-e a biztonsági kockázatok, Leland egy interjúban elmondta, továbbra is az adminisztrátorok maradnak a rendszer urai, és az általuk implementált vállalati szabályrendszert a felhasználók semmilyen körülmények között nem kerülhetik meg vagy hághatják át.

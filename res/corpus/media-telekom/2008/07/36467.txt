@@ -1,0 +1,24 @@
+Tetõantennával is foghatók a Magyar Televízió nagyfelbontású olimpiai közvetítései
+
+Augusztus nyolcadikától, a játékok kezdetétõl nem csak mûholdvevõvel, hanem tetõantennával is fogható lesz az m1 és az m2 HD-minõségû olimpiai közvetítése -- a digitális földfelszíni és mûholdas adástovábbítás indulásával egy idõben az ORTT korábbi határozatának értelmében le is áll az m2 csatorna analóg mûholdas sugárzása. 
+
+
+
+Aki lapostévéjén HD-minõségben szeretné nézni az olimpiát, és eddig nem rendelt meg valamilyen alternatív, HD-s mûsorszóró szolgáltatást (pl. UPC Digital vagy Antenna Digital), és nincs parabolaantennája sem, több tízezer forintot kell szánjon a rendszer bõvítésére, a földfelszíni sugárzású HD-adások vételéhez ugyanis nem alkalmas a legtöbb HDTV-be épített tuneregység -- még akkor sem, ha történetesen digitális jelek fogadására is felkészítették.
+
+Lefedik (szinte) egész Budapestet
+
+A Magyar Televízió az Antenna Hungáriával karöltve augusztus elsején indítja el a HD minõségû kísérleti adást a budapesti kísérleti DVB-T multiplexen, három telephelyrõl (OMK, Száva utca, Hármashatár-hegy), SFN üzemmódban az UHF 38-as csatornán. Az adók a 3 kW-os Száva utcai kivételével 1 kilowatt teljesítménnyel sugároznak majd, a kísérleti adás így Budapesten és környékén lesz fogható, többnyire tetõantennával, az adókhoz közel, jó rálátással azonban akár beltéri antennával is.
+
+DVB-T HD lefedettség
+
+Az m1 és az m2 HD-adásait MPEG4 formátumba kódolva továbbítják majd 12 Mb/másodperces bitsûrûséggel, 1080i HD felbontásban. A kísérleti adás augusztus 31-ig tart (az esetleges meghosszabbítást szabályozói döntések befolyásolják), a Magyar Televízió ugyanakkor az olimpia után is fenntartja a HD adásokat és jelirányokat, csökkentett HD mûsoraránnyal. A köztelevízió ebben az idõszakban a tervek szerint egyebek mellett külföldi filmeket, sorozatokat, saját gyártású egykamerás mûsorokat és külföldi élõ közvetítéseket (BL-meccsek, sportesemények, kulturális események) továbbít majd majd HD-ban, a többi mûsorszám felkonvertálva kerül adásba.
+
+
+ Az MTV saját gyártású HD-mûsorainak aránya októbertõl emelkedik majd, a köztévé ekkor állítja be éles üzembe az addig beszerzett HD-kamkordereket. A következõ fázisban az élõ vagy felvett, nagy színterû stúdiómûsorok gyártására alkalmas 1-es és 2-es stúdió indítja be a HD-s mûsorszolgáltatást, közvetlenül a januárban befejezõdõ felújítás után. A tervek szerint 2009 nyarától az MTV csak HD minõségû mûsorokat állítana elõ összesen öt stúdióban, jövõre ilyenkor HD-ban adnák már a Híradót is.
+
+Beruházás nélkül nincs HD
+
+Ahhoz azonban, hogy a tévénézõ a HD minõségû adásokat mûholdas, vagy más, például kábeles szolgáltatás elõfizetése nélkül élvezze, nem elég pusztán HDTV-vel és egy tetõantennával rendelkeznie. A HD-s DVB-T jeltovábbítási lánc egyik fontos láncszeme ügyféloldalon az a dekódert tartalmazó beltéri egység, vagy set top box, melyhez a gyártótól és a berendezés tudásától függõen legolcsóbban 50-60 ezer forintért lehet hozzájutni. Ez ráadásul legtöbbször nem is váltható ki alternatív megoldással: az Európában forgalmazott HDTV-k jelentõs részébe például hiába építenek a gyártók úgynevezett hibrid, az analóg és a digitális adások vételére egyaránt alkalmas tévétunert, ezek költségtakarékossági okokból többnyire csak az MPEG2-be kódolt adásokkal boldogulnak.
+
+A digitális adások a már SD-ben is jobb minõséget nyújtó kép mellett olyan kényelmi szolgáltatásokat is nyújthatnak, mint az elektronikus programkalauz (EPG) vagy a többcsatornás térhang. A Magyar Televízió a HD-minõségû kísérleti adás ideje alatt nem biztosít ilyen kiegészítõ szolgáltatásokat.

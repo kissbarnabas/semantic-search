@@ -1,0 +1,16 @@
+Teljesen csendes médiaszerver 2-4 terabájt kapacitással a Niveustól
+
+A Niveus új adattárolója szinte még a fanatikus filmgyûjtõk otthoni médiagyûjteményét is elnyelheti, hiszen kettõ- illetve négy terabájtos változatban is elérhetõ, bár mindezért igen borsos árat kell fizetni.
+
+
+
+A Niveus Storage Server és Storage Server Pro teljesen zajtalanul mûködik, hiszen egyetlen hûtõventilátort sem tartalmaz. A zaj komoly probléma lehet ezeknél a termékeknél, némely gyártó hihetetlenül hangos hûtésû adattárolót volt képes piacra dobni. A kliensek UPnP-vel (Universal Plug and Play) is kapcsolódhatnak hozzájuk, már található a piacon olyan készülék -- köztük televíziók, hifi rendszerek is --, melyek ismerik az adatcsere e módját.
+
+
+A lapos készülékház teljes szélességû hifi rendszerekhez illeszthetõ, tehát olyan széles, mint a normál méretû DVD-lejátszók, illetve felvevõk. A Niveus Storage Serverbõl több is megfér egymás mellett a hálózaton, tehát ha anyagi lehetõségeink engedik, korlátlanul skálázható tárhelyet is nyújthatnak. A két termék önmagában kettõ, illetve négy terabájtnyi anyag tárolására elegendõ kapacitású.
+
+A készülékek távolról is menedzselhetõk, mindössze egy, a hálózatba illesztett, interneteléréssel rendelkezõ számítógép kell hozzá, online állapottal. A szerveren tárolt tartalmakhoz természetesen a hálózat összes arra alkalmas jogosult eszköze hozzáférhet. Az állományok biztonsági mentését a készülék több szerver telepítése esetén automatikusan is elvégezheti.
+
+Niveus Storage Server
+
+Az állományok keresését gyorsítja az adatbázis indexelésének képessége, a biztonságot pedig a Raid 0, illetve Raid 5 tömbökbe szervezhetõség lehetõsége adja. A két terabájtos változat a tévéállványba 3000 dollárért kerülhet, a négy terabájtos változat azonban nem csak a kapacitás tekintetében, hanem az ár oldaláról is dupláz, ezért már 6000 dollárral kell a bankszámlánkat könnyíteni, ha nem készpénzben egyenlítünk vételárat.

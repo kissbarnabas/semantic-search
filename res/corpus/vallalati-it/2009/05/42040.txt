@@ -1,0 +1,12 @@
+iPhone-támogatás kerül a Lotusba
+
+Egyre több üzleti szoftver jelenik meg az Apple okostelefonjára, amelyet nyilvánvalóan a fogyasztói igényekhez igazítottak, azonban mindent elsöprõ népszerûsége miatt az üzleti életben is megkerülhetetlen tényezõvé vált. 
+A Lotus iNotes segítségével az iPhone-felhasználók eddig elérhették az IBM csoportmunka-megoldásában tárolt adataikat, azonban csak akkor, ha internetre kapcsolódtak, az iNotes lényegében egy webes Notes-kliens, semmi más.Az Exchange ActiveSync megjelenése a Lotus Notes Travelerben azonban már lehetõvé teszi, hogy a levelek, naptárbejegyzések és más információk automatikusan megérkezzenek a telefonra és ott akkor is elérhetõek legyenek, ha nincs élõ internetkapcsolat. Természetesen a Lotus Notes Traveler nem csak iPhone-nal használható, hanem bármilyen, Exchange ActiveSync-et támogató telefonnal.
+A Nagy Kék azt állítja, a Lotus Notes 8.5.1 fejlesztéséhez felhasználták a modern webes eszközöket, számos felhasználói visszajelzést gyûjtöttek be például blogokon, fórumokon vagy akár a Twitteren keresztül. Több száz Lotus-felhasználó tapasztalatait felhasználva finomítottak a keresésen, az e-mailek szerkesztéségn vagy éppen a widgetek kezelésén.Az új Lotusnak része a Symphony 1.3-as verziója is. Az OpenOffice.org kódjára épülõ irodai csomag szövegszerkesztõt, táblázatkezelõt, prezentációkészítõt is tartalmaz, az 1.3-as verzió egyik legfontosabb újdonsága, hogy kompatibilis a Microsoft Office Open XML állományokkal -- az alapértelmezett forumátum persze továbbra is az ODF maradt.
+
+Az üzleti felhasználásra tervezett Blackberryket már régóta támogatja az IBM,
+a januári Lotusphere rendezvényen hozta nyilvánosságra a Research In
+Motionnel kötött megállapodását a cég, amelynek értelmébena Blackberryk tulajdonosai nem csak a leveleikhez férhetnek hozzá,
+hanem a Symphonyban készült szöveges dokumentumokhoz, táblázatokhoz és
+prezentációkhoz, a Quickrben tárolt fájljaikhoz, illetve a Lotus
+Connectionben levõ blogokhoz és közösségi terekhez is.

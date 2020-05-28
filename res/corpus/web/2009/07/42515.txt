@@ -1,0 +1,11 @@
+A nagy PC-gyártók is a Chrome OS mellé álltak
+
+A Dell kivételével a világ szinte összes nagy PC-gyártóját a Chrome OS mellé tudta állítani a Google. A tegnap délután nyilvánosságra hozott lista szerint a Google partnerei közé olyan cégek tartoznak majd mint a HP, az ASUS, az Acer, a Lenovo és a Toshiba, vagyis a világ öt legnagyobb PC-gyártójából négyen már felsorakoztak a Chome OS mögé, a nagyok közül egyedül a Dell hiányzik
+A 2010 második felére ígért Chrome OS semmilyen sikerre nem számíthat a hardvergyártók támogatás nélkül, hiszen lényegében rajtuk múlik, hogy a felhasználók milyen operációs rendszer elé ülhetnek majd le, amikor a boltból hazaviszik a PC-t. A hardvergyártók támogatása azonban önmagában még nem elégséges feltétele a sikernek, gondoljunk csak például a Linuxra, amely annak ellenére sem tudott betörni a fõsodorba asztali operációs rendszerként, hogy számos PC-gyártónál lehet linuxos otthoni és vállalati konfgurációkat vásárolni.
+
+Sokan a netbookoktól várták, hogy a Linux megkapaszkodjon az asztali operációs rendszerek piacán és jelenlegi 1-2 százalékos részesedését lendületesen növelje. A vásárlók azonban láthatóan ragaszkodnak a Windowshoz a netbookon is, pedig ezeket az eszközöket kimondottan internetezésre szánták, így gyakorlatilag nincs szükség rajtuk egy teljes funkcionalitású operációs rendszerre, elég lenne egy böngészõ is. Hiába jöttek azonban elõ a gyártók egyre-másra Linuxot futtató netbookokkal, a vásárlók a windowsos változatokat keresték, s végül a Linux ebben a teljesen új kategóriában is a peremre szorult.
+A Chrome OS mögé nem csak PC-gyártók sorakoztak fel, hanem két chipgyártó is, a Qualcomm és a Texas Instruments, amelyek mobiltelefonos chipeket fejlesztenek. Amint arról tegnapi hírünkben beszámoltunk, a Chrome OS-nek nem csak x86-os, hanem ARM processzorokon futó portja is lesz.	     
+                  
+                  
+                  
+                   

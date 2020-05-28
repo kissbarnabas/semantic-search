@@ -1,0 +1,24 @@
+Fotónyomtatás lézerrel: kipróbáltuk a HP Color LaserJet CP2025-öt
+
+Fotónyomtatás egy alsóbb kategóriás lézernyomtatóval? A HP új CP2025 készüléke túllép a korlátokon és árkategóriájában eddig nem látott minõséget biztosít.
+
+
+
+Közepes helyigényû, ívelt gépházba szerelték a HP Color LaserJet CP2025 színes lézernyomtatót, melynek lapfordítóval és az USB mellett hálózati csatlakozással felszerelt változatát tesztelhettük (CP2025dn). A kiépítésben, bõvíthetõségben és maximális terhelhetõségben kis és közepes munkacsoportok számára kifejlesztett készüléket néhány technikai újítás teszi az eddigieknél szélesebb körben alkalmazhatóvá és könnyebben kezelhetõvé.
+
+HP LaserJet CP2025
+
+Inline nyomtatórendszere ellenére mindössze 405x454x322 milliméteres teret foglal a nyomtató, a kompakt kellékanyagkazetták pedig kényelmesen, egy fiók kihúzásával hozzáférhetõek a homlokzati oldalról. A lézeres technológia természetesen kiváló kontrasztot és kontúrokat biztosít normál papíron is, nagy, színes és mono módban egyaránt 20 oldal/perces teljesítménnyel, 600x600 DPI címezhetõ felbontás mellett. Mérésünk szerint 43 másodperc alatt készült el a tízoldalas mono és 70 alatt a tízoldalas színes tesztdokumentum. Egy A/4-es fotó elsõ példányának kinyomtatásához csak 21 másodpercre volt szükség, a második lap pedig csak újabb 3-4 másodpercet igényelt. A duplex használata csak minimális sebességveszteséggel jár, így a papírtakarékos nyomtatásra nem kell idõt áldoznunk. Az eredmények megfeleltek az elvárásainknak, de igazán nem a gyorsaság terén nyújt kiemelkedõt a készülék.
+
+
+
+A lézernyomtatók eleve hátrányban indulnak a színkeverést illetõen a nyomdával és a tintasugarasokkal szemben, hiszen a szilárd, finom, porjellegû festékanyagok (toner) nagy fedõképességük miatt nem rétegezhetõk egymásra színkeverés céljából. Rég elkönyveltük, hogy ez így van és kész, nincs mit tenni, de a tesztnyomatok tanúsága szerint az új ColorSphere toner és a HP ImageREt 3600 színkeverõ rendszer révén azért javítható a minõség.
+
+A CP2025-ben is alkalmazott új toner a régebbieknél egyenletesebb szemcseméretet és -formát ad, ennek folytán képpontonként mintegy 100 ezer színárnyalat lehetséges, ami a gyakorlatban valóban fotóhoz közelebb álló hatású lézeres nyomatokat eredményez. Bátran közkézre bocsáthatjuk CP2025 nyomtatta marketinganyagainkat, különösen, ha fényesebb felületû, minõségi lézernyomtató papírt használunk. A meghajtóprogramban még a fényképjavítás és az automatikus vörösszem-eltávolítás is helyet kapott -- igaz, utóbbi hatását nem sikerült tetten érnünk, pedig több tesztfelvétellel is próbálkoztunk.
+
+Igen könnyen cserélhetõk a tonerkazettáka HP LaserJet CP2025 kompakt fiókos rendszerében
+
+
+Jelenleg elég mélyen (kb. 33-36 ezer forint) kell a zsebünkbe nyúlnunk, ha egyik szín kifogy, de ezek még a kellékanyagok kereskedelmi forgalmazásának megkezdését megelõzõ, kissé túllõtt árak. A költségek fajlagosan nem túl magasak, de azért érezhetõen átlag felett vannak, 9,25 forintos fekete, illetve 44 forintos CMYK lapköltséget számoltunk (ISO/IEC 19798  kapacitásértékekkel).
+
+A kellékanyagárak várhatóan érezhetõen mérséklõdnek a közeljövõben, mivel a termék éppen bevezetés alatt áll. A készülék lapfordítós és hálózati változatban mintegy 155 ezer forintért beszerezhetõ, a duplex nélküli hálózatos változathoz 118 ezer forintért juthatunk hozzá. Árkategóriájában a legjobb minõséget úgy tûnik, jelenleg ezzel nyomtatóval érhetjük el és teljesítményével is elégedettek lehetünk, kiemelten minõségigényes anyagok házi elõállításához ajánljuk.

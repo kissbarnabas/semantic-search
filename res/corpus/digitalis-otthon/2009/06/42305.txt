@@ -1,0 +1,16 @@
+Eltûnnek az analóg kimenetek az asztali lejátszókról
+
+Az AACS, azaz Advanced Access Content System egy szabvány a tartalomtovábbításra és digitális jogkezelésre, illetve az új generációs optikai lemezekhez való hozzáférésének és másolhatóságának korlátozására. Az eredeti specifikációt még 2005 áprilisában adták ki a DVD-re vonatkozóan, de ezt használja a HD DVD és a Blu-Ray is. Manapság már szinte minden új asztali lejátszóban benne van az AACS, de annak köszönhetõen, hogy a gyengén védett szoftveres lejátszókból szinte azonnal kipréselték a titkosítókulcsokat, a technológia mára csak a legális felhasználók életét keseríti meg, eredeti célját nem tudja elérni.
+
+Viszlát, analóg!
+
+Az új szöveg 188 oldalon keresztül írja le titkosítással kapcsolatos részleteket, köztük az "analóg naplementének" is becézett tervet, amely szerint az optikai lejátszók esetében be kell tömni a lyukat, amit az analóg kimenetek hagynak a rendszeren. Gyakori ugyanis a szervezet szerint, hogy a nagyfelbontású videókat a titkosítás megkerülésével úgy másolják le, hogy a védtelen a HDCP-vel védett digitális csatorna helyett az analóg kimeneten kivezetik, majd újra digitalizálják azt.
+
+Ennek feloldására az AACS Licensing Administrator koncorzium szerint korlátozni kellene az analóg kimenetet a váltottsoros SD felbontásra (480i, 576i) minden olyan lejátszóban, melyet 2010 decembere után gyártanak. Sõt, 2013 után a gyártók egyáltalán nem tehetnének analóg kimenetet semmilyen olyan lejátszóra, ami képes dekódolni az AACS-sel védett tartalmakat.
+
+
+A többi csatlakozó ugrik? 
+
+A kalózkodást azonban ez sem fogja tudni megállítani, hiszen a digitális másolás egyszerû szoftverek segítségével, továbbra is lehetõség, illetve analóg vonalon ma már egy jó HD-kijelzõ és egy profi HD-kamera is képes hozni az analóg átvitel korlátaival terhelt minõséget. Ráadásul hiába az erõlködés, hiszen ezzel csak az esetleges, otthoni másolgatást tudják hatékonyan megelõzni, ami nem is lenne alapjában véve komoly probléma. 
+
+Ellentétben az ipari kalózkodással, aminek a titkosítás fejlesztése sem szabhat gátat. Az eredmény tehát, hogy a fizetõ, tisztességes fogyasztók kerülnek kényelmetlen helyzetbe, míg a warez-forrásokból táplálkozóknak nem kell aggódniuk a betevõ HD-tartalom miatt továbbra sem. Arról nem is beszélve, hogy 2014-re az optikai lemezen való tartalomdisztribúció az online terjesztés mellett valószínûleg olyan elavult modell lesz, mint most a magnókazetta vagy a floppy lemez.

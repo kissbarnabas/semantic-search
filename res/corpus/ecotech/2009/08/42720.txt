@@ -1,0 +1,10 @@
+Szabadalombitorló a Word
+
+A kanadai i4i még 2007-ben perelte be a Microsoftot szabadalombitorlásért, a cég szerint a szoftveróriás szövegszerkesztõje megsérteti az XML-kezelésre vonatkozó, 1998-ban odaítélt 5,787,449 számú szabadalmat ("Egy dokumentum felépítésének és tartalmának egymástól független módosítására szolgáló módszer és rendszer"). A texasi bíróság az i4i-nak adott igazat és megtiltotta az egyedi XML-t tartalmazó XML, DOCX és DOCM formátumú állományokkal kompatibilis Word 2003 és Word 2007 árusítását. A tiltó határozat 60 nap múlva lép életbe -- írja a Seattle Post Intelligencer.
+
+Az Office  2007 egyik legfontosabb újdonságának számít, hogy alapértelmezett fájlformátumai XML-alapúak, így a Word, az Excel és a PowerPoint is képes XML-ekkel dolgozni. Az i4i állítása szerint azonban a Word a cég szabadalma alatt álló technológiát használ az XML-ek kezelésére. A bíróság 200 millió dollár kártérítés megfizetése mellett arra kötelezte a Microsoftot, hagyjon fel a szabadalomsértõ termékének árusításával, hirdetésével, tesztelésével, illetve támogatásával.
+A Microsoft jogásza, Kevin Kutz az ítélet kapcsán elmondta, érzése szerint a vállalata megalapozottan tudta bizonyítani a bíróság elõtt, hogy a Word nem sért szabadalmat és az i4i szabadalma egyébként is érvénytelen. A vállalat megfellebbezi az ítéletet.	     
+                  
+                  
+                  
+                   

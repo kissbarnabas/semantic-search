@@ -1,0 +1,14 @@
+Nem kizárt, hogy a Windows 7-rõl is vissza lehet majd váltani XP-re
+
+[ComputerWorld/HWSW] Bár az operációs rendszer elsõdleges terméktámogatási periódusa a jövõ héten lejár, valamint lassan a telepítõlemezek gyártása is megszûnik, a licencfeltételek szerint a Microsoft továbbra is lehetõséget ad a nagy számítógépgyártók ügyfeleinek arra, hogy a PC-vel licencelt Windows Vistát Windows XP-re cseréljék. Az XP downgrade jogot ráadásul minden jel szerint az év végén megjelenõ Windows 7-be is beépíti a szoftvercég.
+
+
+
+A Microsoft tavaly június 30-án vonta ki a Windows XP-t a kereskedelmi forgalomból, az idén nyolcadik évét taposó operációs rendszer azonban akár még évekig tarthatja magát az új számítógépeken. Az XP-t egy a Windows Vista üzleti felhasználású Business, illetve legdrágább, Ultimate változatának licenckonstrukciójába beépített kiskapu, az úgynevezett downgrade opció tartja életben.
+
+A nagyvállalatokat a Windows XP kiskereskedelmi forgalmazásának megszûnése továbbra sem érinti, õk mennyiségi licenc keretén belül bármilyen Windows-verziót bármilyenre downgrade-elhetnek. A kisebb cégek azonban gyakran a kiskereskedelemben vásárolják meg PC-iket, az õ számukra kritikus fontosságú lehet, hogy továbbra is tudjanak Windows XP-t, vagy azzal telepített számítógépeket vásárolni, ha valamilyen ok (pl. alkalmazás-inkompatibilitás) miatt még nem állnak készen az újabb operációs rendszer bevezetésére.
+
+
+Egy a HP-tól kiszivárgott belsõ feljegyzés szerint a Microsoft a Windows 7 egyes változatainál is beépíti a licenckonstrukcióba ezt az opciót, így az új Windows õszi megjelenése után is lehet majd kiskereskedelmi forgalomban olyan új, eredetileg Windows 7 licenccel árult asztali számítógépet vagy noteszgépet kapni, melyre Windows XP-t telepítettek a gyárban, vagy legalábbis Windows XP telepítõkészletet is mellékeltek hozzá. A kiszivárgott információk szerint a Windows 7 esetében a Microsoft erre jövõ áprilisig ad lehetõséget a HP-nak.
+
+A Microsoftnál nem cáfolták, hogy a nagy PC-gyártók ügyfelei a Windows 7 megjelenése után is kérhetnek a számítógépre Windows XP-t, azt ugyanakkor tagadta a cég, hogy jövõ áprilisig él csak a downgrade jog. A vállalat szóvivõje ezzel együtt felhívta a figyelmet, hogy bár a Microsoft idén május 30-tól és július 31-tõl nem szállít Windows XP telepítõlemezeket a kisebb rendszerépítõknek és a nagy számítógépgyártóknak, mindez nem jelenti azt, hogy a downgrade jog a Vista esetében ettõl az idõponttól megszûnne, hiszen ezt a jogot a végfelhasználói licencszerzõdés szabályozza.

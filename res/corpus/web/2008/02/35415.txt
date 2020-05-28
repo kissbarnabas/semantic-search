@@ -1,0 +1,18 @@
+Heteken belül megjelenhet a Flash-rivális Microsoft Silverlight 2.0 bétája
+
+A Microsoft fejlesztõi részlegének vezetõje, Scott Guthrie blogjában számos új információt tett elérhetõvé blogjában a Silverlight interaktív médiaplatform következõ változatával kapcsolatban. A Silverlight a Microsoft válasza az Adobe Flashre, talán nem véletlen, hogy a blogbejegyzés pár nappal az Adobe AIR és a Flex 3 megjelenése elõtt született.
+
+
+
+A korábban Windows Presentation Foundation/Everywhere kódnéven ismert Silverlight többféle böngészõvel (IE, Firefox, Safari) kompatibilis, webalkalmazások, grafikák, animációk megjelenítésére alkalmas interaktív eszköz. A Silverlight 1.0 tavaly szeptemberben érkezett, de hamarosan itt a 2.0 verzió, amely valójában az 1.0 elsõ frissítése, de annyi újdonságot zsúfoltak bele, hogy a verziószámot egytized helyett egy teljes egésszel növelte meg a Microsoft.
+
+
+Az új Silverlight-verzió egyik legfontosabb tulajdonsága, hogy tartalmazza a .NET keretrendszer platformfüggetlen változatát, ami azt jelenti, hogy a fejlesztõk a Visual Studióval, illetve egyéb Microsoft fejlesztõeszközökkel olyan alkalmazásokat hozhatnak létre, amelyeket aztán bármilyen böngészõben meg lehet jeleníteni. Emellett természetesen számos további nyelv támogatott, beleértve a Visual Basicet, a C#-t, Az IronPythont és az IronRubyt.
+
+A Flash ellen folytatott -- annak rendkívüli elterjedtsége miatt egyelõre kilátástalannak tûnõ -- harcban a Microsoft titkos fegyverei a fejlesztõi eszközök lehrtnek, amelyek széles körben ismertek, elterjedtek, használtak. Mivel a fejlesztõk már jól ismerik a .NET Frameworköt és a Visual Studiót, könnyebben tudnak Silverlighton futó alkalmazásokat készíteni, a webalkalmazások fejlesztéséhez nem kell adott esetben új eszközöket (pl. Adobe Flex) megismerniük.
+
+Hogy még könnyebbé a fejlesztõk dolgát, a Microsoft a Visual Studio 2008-hoz olyan kiegészítéseket készít majd, amelyek lehetõvé teszik Silverlight-alkalmazások fejlesztését bármelyik .NET-nyelven. A kiegészítések nem csak a Visual Studio 2008 Standard és Professional változatokhoz lesznek elérhetõek, hanem az ingyenes Express kivitelhez is. A fejlesztések további megkönnyítése érdekében a Silverlight 2 tartalmazni fog egy Windows Presentatation Foundation UI keretrendszert, így aztán egyszerû lesz majd felhasználói felületeket létrehozni a webalkalmazásokhoz, számos funkcióhoz (pl. szavazás, textbox, dátumválasztás) beépített sablonok állnak majd rendelkezésre.
+
+Ami a hálózatkezelést illeti, a Silverlight 2 támogatni fogja a REST (Representational State Transfer), WS-* és SOAP protokollokat, valamint az RSS, POX és HTTP szolgáltatásokat. A Silverlight 2 lehetõvé teszi akár .NET és HTML/JavaSctript kód vegyes használatát is, emellett a LINQ (Language Integrated Query) támogatás révén C# vagy Visual Basic programokból akár natív adatlekérdezést is lehetõvé tesz. A Silverlightban található .NET API-k a teljes .NET Framework  azzal maradéktalanul kompatibilis részhalmazai. Fontos, hogy a Silverlight használatához nem szükséges a teljes .NET Framework telepítése.
+
+A Silverlight 2.0 bétája alighanem a két hét múlva esedékes Las Vegas-i Mix08 konferencián érkezik majd. Ugyanitt mutatkozott be tavaly a Silverlight is. Guthrie blogjából kiderül, a bétaváltozat mindössze 4,3 megabájt méretû és pár másodperc alatt települ.

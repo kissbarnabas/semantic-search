@@ -1,0 +1,24 @@
+Globalfoundries néven jelennek meg a piacon az AMD gyárai
+
+Globalfoundries néven jött létre az AMD-bõl kivált szerzõdéses félveztõgyár, mely azzal legyezgeti hiúságát, hogy az elsõ valóban globális szereplõ a piacon. A vállalat az Abu Dhab-i tulajdonos részérõl masszív tõkeinjekcióban részesül a következõ évek során, új indulóként ugyanakkor kemény idõszak elé néz az ügyfelek szerzésében, melyekért ádáz küzdelmet folytatnak a távoli-keleti, és kisebb mértékben amerikai szereplõk. A válság ugyanakkor akár kapóra is jöhet cégnek, a félvezetõgyártók a nehéz gazdasági körülmények hatására ugyanis egyre nagyobb arányban fordulhatnak a kiszervezés felé.
+
+
+
+6 milliárd dollár beruházás
+
+Ahogyan tegnapelõtt a HWSW is beszámolt róla, az AMD átadja az akkor még csak Foundry néven ismert Globalfoundriesnek a processzorok termelését végzõ drezdai Fab 36 és Fab 38 félvezetõgyárakat, valamint a kínai és maláj tesztelõ- és tokozóüzemeket, az ezekhez kapcsolódó technológiákat és szellemi tulajdont, továbbá 3 ezer embert, összesen 1,8 milliárd dollár értékben, valamint 1,1 milliárd dollárnyi hiteltartozást. Az így létrejövõ vegyesvállalatba az Abu Dhabi-i Advanced Technology Investment Company (ATIC) 1,4 milliárd dollárt injektál azonnal, és 66 százalékos tulajdonrészre tesz szert. A tranzakció végösszegeként az AMD 700 millió dollárhoz és 34 százalékos részesedéshez jut.
+
+A friss tõkével folytatódhat a gyártósorok telepítése a jelenleg üresen álló drezdai Fab 38-ba, mely korábban Fab 30 néven szolgálta az AMD-t. A drezdai komplexumot Fab 1 névre kereszteli át a cég, beelértve a Fab 36 és 38 üzemeket is, melyek a Module 1 és 2 jelölést kapják. A Module 1 természetesen továbbra is az AMD-t szolgálja ki 45 nanométeres csíkszélességû SOI-eljáráson (szigetelõbe ágyazott szilícium), míg a Module 2 már a 32 nanométeres, hagyományos szilíciumot megmunkáló technológia bevezetésére fókuszál 2009 végére. Teljes kiépítettségében a Module 2 havi 25 ezer szilíciumszeletet lesz képes feldolgozni.
+
+Drezda
+
+Ez év közepén megindulhat a New York-i, Fab 4X kódnevû új üzem építése is. Egy mai modern, tömegtermelésre alkalmas félvezetõüzem bekerülési költsége 3 milliárd dollár fölé rúg, a Saratoga megyei Luther Forest Technology Campuson felépülõ létesítmény 4,2 milliárdos befektetést igényel, üzemeltetése és modernizációja pedig késõbb is évente további százmilliókat emészt fel. A tervek szerint 2012-ben indulhat meg a termelés. Az ATIC a következõ öt év során több mint 6 milliárd dollár értékben eszközöl beruházásokat, hogy növelje a foundry gyártási kapacitásait, valamint új technológiákat vezessen be. Az AMD félvezetõtechnológiai partnere az IBM.
+
+A gyárak továbbra is fontosak
+
+A foundry-piac nagysága mintegy 25 milliárd dollárra becsülhetõ, a teljes félvezetõpiac tizedére. A bõvülési potenciál tehát jelentõs, a piacnak újabb lökést ad majd az AMD kiszervezése, így stratégiai léptékben a kilátások bizakodásra adhatnak okot a befektetõk számára. Az ügyfelekért azonban éles verseny folyik a drágán kiépített gyártási kapacitások kihasználása érdekében. A tajvani TSMC a terület óriásává nõtte ki magát, 10 milliárd dollár körüli éves forgalmával a teljes piac 40 százalékát tartja markában, a legnagyobb négy pedig a piac kétharmadát uralja, miközben a maradékért cégek tucatjai viaskodnak, köztük az IBM-mel és a Texas Instruments-cel.
+
+
+A TSMC és társai nemcsak olcsóbban termelhetnek mint a Globalfoundries, de technológiailag is egyre versenyképesebbek, a napokban piacra került új mobil Radeonokat például a TSMC már 40 nanométeres csíkszélességgel állítja elõ. A Globalfoundries helyzetét nehezíti az is, hogy olyan óriások is beléptek a területre, mint a Samsung Electronics, mely memóriagyárai révén a világ második legnagyobb félvezetõgyára, hatalmas pénzügyi erõvel.
+
+Az AMD bár február 18-án fellélegezhetett, mikor a részvényesek jóváhagyták a gyártás leválasztását, megmentve ezzel a céget a likviditási problémáktól, sikeressége szempontjából továbbra is kritikus jelentõséggel bír a Globalfoundries szereplése. Szavazati kontrolljával biztosítani igyekszik a megfelelõ gyártástechnológia meglétét, és hozzáférhet a még kezdetleges kutatás-fejlesztési fázisban tartó eljárásokhoz, amivel támogatni tudja a lehetõségek határait feszegetni kénytelen processzorfejlesztéseit, és garantálni tudja a chiptervezõ és félvezetõcsapatok szoros együttmûködését. Ez azonban csak akkor lehetséges, ha a Globalfoundries megfelelõ méretgazdaságosságra képes szert tenni, és a következõ évek során üzletileg életképessé válik.

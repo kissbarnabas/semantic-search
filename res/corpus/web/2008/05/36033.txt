@@ -1,0 +1,12 @@
+Zombihálózat telepíti a weboldalakba a trójaikat letöltõ kódokat
+
+[Techworld] A SecureWorks szerint már zombihálózatot, botnetet is felhasználnak arra, hogy a támadható weboldalakba trójaikat, kártékony programokat letöltõ kódokat illesszenek. Az elsõ ilyen célra (is) létrehozott, ismert hálózat az Asprox botnet.
+
+
+
+Az Asprox hálózatába tartozó számítógépek -- azt követõen, hogy kéretlen levelek ezreivel újabb számítógépeket próbálnak saját hálózatukhoz csatolni -- az msscntr32.exe állományt regisztrálják szolgáltatásként a Windowsban "Microsoft Security Center Extension" néven. A program gyakorlatilag egy SQL-injekciós segédprogram, mely ezt követõen a Google segítségével keres támadható weboldalakat.
+
+
+Amennyiben megfelelõ, sebezhetõ, még nem fertõzött weboldalra bukkan, ismert biztonsági rések segítségével iFrame kódot illeszt a weboldalba, mely a látogatókat a direct84.comról próbálja kártékony programmal megfertõzni. Az Asprox emellett olyan oldalakra irányítja át a számítógép böngészõjét, ahonan további kártevõk, a Danmec trójai is települ az operációs rendszerbe.
+
+"Ez az elsõ eset, hogy ilyen SQL-injekciós segédprogramra találtunk, de valószínûleg más botnetek is hasonlóval próbálkoznak" -- nyilatkozta Joe Stewart, a SecureWorks kutatólaborjának igazgatója, aki az eWeeknek adott nyilatkozatában a hálózat méretét 15 ezer gépre becsülte. A SecureWorks egyelõre ezer weboldalt talált, melyet ezzel a módszerrel támadtak meg, de a legutóbbi, pár napja történt SQL-es támadással ismét félmillió weboldalba illesztettek kártékony programot letöltõ JavaScript kódokat.

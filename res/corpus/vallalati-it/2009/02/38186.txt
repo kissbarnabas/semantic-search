@@ -1,0 +1,12 @@
+Rendkívüli javítás ékezett  a kikapcsolhatatlan Autorunhoz
+
+Soronkívüli hibajavítást adott ki a Microsoft, mellyel a Windows 2000, XP és Server 2003 operációs rendszerekben az automatikus indítás funkció mûködését korrigálja, pontosabban lehetõvé teszi annak teljes kikapcsolását.
+
+
+
+Az Egyesült Államok számítógépbiztonsági készenléti hivatala, a Computer Emergency Readiness Team nagyjából egy hónapja figyelmeztetett, hogy a közös kódbázisra épülõ Microsoft Windows 2000, Windows XP és Server 2003 rendszerekben nem tökéletes az úgynevezett automatikus indítás funkció kikapcsolása. A funkció regisztrációs szinten kikapcsolt állapota ellenére is a nem kívánt indítás bekövetkezhet, ha a felhasználó Windows Explorrel, vagyis az Intézõvel egy olyan meghajtó ikonjára, melynek a gyökerében van az indítást vezérlõ AutoRun.inf fájl.
+
+
+Ez a probléma különösen súlyos most, mikor a Conficker nevezetû féreg tömeges fertõzési hullámot ért el, és nemcsak hálózaton keresztül, hanem USB-s adattárolókon is terjedhet, és kihasználhatja az AutoRun funkciót önmaga a sokszorosításához. A Microsoft nem tartja biztonsági frissítésnek a mostani kiadást, ugyanakkor kétségtelenül biztonsági okokból kényszerült kiadni az egyébként már tavaly május óta meglévõ patchet, melyet a Vista és Server 2008 rendszerek meg is kaptak még tavaly nyáron.
+
+A Windows 2000, XP Service Pack 2, XP Service Pack 3, Server 2003 Service Pack 1, és Server 2003 Service Pack 2  rendszereket érintõ frissítést a Windows Update szolgáltatásokon terjeszti a Microsoft, de letölthetõ közvetlenül a cég weboldaláról is. További információ, letöltési link és tippek a Microsoft támogatási oldalán. A Microsoft ezzel egyidõben elismerte azt az Excel sebezhetõséget, mellyel egy megfelelõen preparált Excel fájllal tetszõleges kód hajtható végre a gépen, a felhasználó jogosultsági szintjén. A vállalat jelenleg vizsgálja az esetet, információval a biztonsági tanácsadó szolgál. A következõ patch kedd március 10-ére esik.

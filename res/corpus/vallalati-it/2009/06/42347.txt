@@ -1,0 +1,17 @@
+Szoftverlicencelési rémálom a Windows 7 downgrade korlátozása?
+
+Jövõ április után nincs downgrade
+Dobozos Windows XP operációs rendszert vagy Windows XP-vel telepített PC-t (a netbookokon kívül) már nem kapni a boltokban, azonban a PC-gyártóknak van downgrade joga, ami azt jelenti, hogy a Vista Business vagy Ultimate változattal telepített gépek tulajdonosai a számítógépgyártón keresztül kérhetik az operációs rendszer cseréjét Windows XP-re.
+A Windows 7 megjelenésével ez a gyakorlat nem változik, a Professional és Ultimate változatról a felhasználók visszatérhetnek még Windows XP-re ha akarnak, azonban ez a lehetõség csak az új operációs rendszer megjelenésétõl számított 6 hónapig áll majd rendelkezésre, ezt követõen csak Vistára lehet downgrade-elni. A Windows 7 világszerte október 22-én kerül forgalomba, ezek szerint a vásárlók 2010 áprilisának végéig válthatnak vissza Windows XP-re.
+Forrás: InfoWorld
+Licencelési csapda
+Amennyiben a hír igaz, csapdába kerülhetnek azok a kis- és középvállalatok, amelyek ki szeretnék hagyni a Windows Vistát a frissítési ciklusukból. Ha nem akarnak kétféle operációs rendszert üzemeltetni, a Windows 7 megjelenését követõ 6 hónapban kell megvásárolniuk az összes PC-t, amit a Windows 7 bevezetése elõtt használni szeretnének, vagy olyan mennyiségi licencszerzõdést kell kötniük a Microsofttal, amely megengedi a downgrade-et. További megoldást jelenthet a számítógépeket Windows Vista Business-szel vagy Ultimate-tel vásárolni, majd downgrade-elni Windows XP-re, ezt késõbb upgrade licenccel lehet Windows 7-re cserélni. Windows XP-rõl azonban közvetlenül nem lehet Windows 7-re frissíteni, csak Vistáról. Szoftverlicencelési rémálom?
+Az is megoldás, ha az adott cég még 2010 áprilisa elõtt bevezeti a Windows 7-et, de ezt aligha fogják sokan megtenni. Általános gyakorlattá vált a vállalatoknál, hogy egy új Windows-verzió bevezetésével az SP1 érkezése elõtt nem is foglalkoztak, és csak az elsõ javítócsomag megjelenésekor kezdték el egyáltalán tervezni az átállást. A Gartner szerint azonban ideje leszámolni ezzel a gyakorlattal: a Vista és a Windows 7 is már egész korai stádiumától kezdve bárki számára tesztelhetõ volt, így a cégek jóval korábban elkezdhették tervezni a migrációt, amelyet a Microsoft ma már külön erre a célra létrehozott eszközökkel is támogat. Az elemzõcég azt javasolja a cégeknek, a Windows 7 megjelenésekor kezdjék meg az migrációhoz szükséges felkészülést és a tesztelést.
+
+
+A hazai cégek láthatóan várják már a Windows 7-et: a szoftver újdonságait bemutató TechNet rendezvényen megkérdezett több mint 600 informatkai szakember 6 százaléka fél éven belül, további 20 százaléka pedig egy éven belül be akarja vezetni az új operációs rendszert. A nem reprezentatív felmérés szerint a hazai vállalatoknál a legnépszerûbb vállalati asztali operációs rendszer továbbra is a Windows XP, a válaszadók több mint háromnegyede ezt jelölte meg mint elsõdlegesen használt szoftvet.
+Az InfoWorld eközben arról ír, a Microsoft 2011 áprilisáig vagy a Windows 7 SP1 megjelenéséig tolta ki a Windows XP downgrade lehetõségét, azonban ezt az információt a HWSW forrásai nem erõsítették meg.	     
+                  
+                  
+                  
+                   

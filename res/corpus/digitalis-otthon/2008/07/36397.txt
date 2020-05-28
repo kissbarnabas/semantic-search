@@ -1,0 +1,14 @@
+Nyílt forrású a szoftver a NetGear új Wi-Fi routerében
+
+Nyílt forrású firmware-t tartalmazó vezeték nélküli routert dobott piacra a NetGear. A vállalat egy közösségi weboldal segítségével szeretné ösztönözni a fejlesztõket, hogy a WGR614L szoftverét továbbfejlesszék, illetve új alkalmazásokat készítsenek rá. Az oldalnak máris közel 400 regisztrált felhasználója van.
+
+
+
+A 802.11b/g szabványokat támogató, négy 10/100 Mbps Ethernet-porttal és egy ugyanilyen sebességû uplink-porttal rendelkezõ NetGear WGR614L a vállalat várakozásai szerint nem csak a számítógép-megszállott otthoni felhasználók körében lesz népszerû, hanem az értéknövelt szolgáltatásokat nyújtó viszonteladók körében is, amelyek a nyílt forráskódú szoftvernek köszönhetõen testre szabhatják a terméket. "Mi hardverben utazunk, nem szoftverben. Örülnénk, ha más írná meg az alkalmazásokat" -- mondta Som Pal Choudhury termékmenedzser.
+
+
+A nyílt forrású vezeték nélküli router nem új a nap alatt, a népszerû Linksys WRT54G-hez már évek óta létezik ilyen szoftver. A NetGear szerint a saját megoldásuk elõnye, hogy újabb, nagyobb teljesítményû processzorral és több memóriával rendelkezik, így jóval komplexebb alkalmazásokat képes futtatni. A WGR614L lelke egy 240 MHz-es MIPS32 processzor 16+16 kilobájt L1 gyorsítótárral, amelyet 4 megabájt flash memória és 16 megabájt DRAM egészít ki.
+
+
+
+A NetGear közösségi weboldalán fórum, blogok és számtalan leírás van, amelyek részletesen megmutatják, hogyan kell a routert konfigurálni, vagy hogyan kell az eredeti firmware-t beírni, ha valami mégis rosszul sül el. Az oldalon a NetGear szakemberei is jelen vannak, és segítenek többi felhasználónak. Choudhury szerint a piacvezetõ Linksys nem kínál ilyen támogatást, így a NetGear itt is elõnybe kerül.

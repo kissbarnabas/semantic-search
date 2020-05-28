@@ -1,0 +1,14 @@
+Legyen a kódfejlesztés is webkettes, jön a Mozilla Bespin
+
+Ahogyan egyre több alkalmazás webkettesedik, azaz aknázza ki az online jelenlétbõl adódó kollaborációs és adatgyûjtési lehetõségeket, a Mozillánál felmerült a kérdés: miért pont a szoftverfejlesztés maradjon ki ebbõl? A Mozilla Labs Bespin nevû projektje egy olyan modellt kíván megvalósítani, mely leginkább talán a forráskódok Wikipédiájának tekinthetõ, azaz egy webes felületû, valósidejû kollaborációs fejlesztési eszköz.
+
+
+
+A Bespin célja egy olyan nyílt, webes szabványokra épülõ fejlesztési keretrendszer megalkotása, ahol lényegében bárki azonnal bekapcsolódhat egy projektbe, valós idõben nézheti a kód állapotát, és hozzá is járulhat ahhoz. A Mozilla ígérete szerint a jelenleg igen kezdetleges és valós fejlesztésekhez egyelõre nem használható 0.1.1 Naughty Nimbus verziónál járó Bespin villámgyors lesz, szemben a korábbi webes próbálkozásokkal. A Mozilla szerint ilyen sebességû webes kódszerkesztõrõl nem tudnak -- a mozillás fejlesztõk a JavaScriptet és a még csak tervezetként létezõ HTML 5 szabványt, azon belül is a canvas taget használják a gyors megjelenítés érdekében, mely szkriptelhetõ, dinamikus, bitmap-manipulációt tesz lehetõvé. 
+
+
+A Mozilla Labs lényegében egy olyan wikit kíván megalkotni, mely felépítésében a rezidens kódszerkesztõket idézi, és lehetõvé teszi a projektek, valamint a projektfájlok közötti gyors navigációt, valamint az IDE-kben elérhetõ kényelmi szolgáltatásokat, mint a kód színezése, az integrált parancssor vagy menürendszer. A Bespin nem kívánja behatárolni a képességek körét, ezért a parancsok köre is bõvíthetõ, ahogyan egy API-n keresztül is adhatóak hozzá bõvítések, vagy maga a Bespin is integrálható más rendszerekkel, elvileg például webszerverekkel vagy compilerrel.
+
+
+
+A Bespin forráskódja természetesen szabadon hozzáférhetõ a Mozilla Public licenc alatt, így használható lesz belsõ, zárt kódwikik létrehozásához is, kétségtelen ugyanakkor, hogy elsõsorban a nyílt forráskódú projekteket és a nyílt szabványokat segíti. Kollaboratív fejlesztési környezetek eddig is léteztek, többnyire azonban CVS/fájlalapúak, ezek azonban webkettes mércével kezdetleges kollaborációs lehetõségeket kínálnak, például nem képesek több egyidejû szerkesztést lekezelni, ami nagyobb projekteknél a produktivitás gátja lehet.

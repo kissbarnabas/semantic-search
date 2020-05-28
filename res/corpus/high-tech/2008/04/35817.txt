@@ -1,0 +1,13 @@
+Kormányzati biztonsági igényeket is kielégít a Kingston új pendrive-ja
+
+Lassan felnõnek a komolyabb feladatokhoz is az egyszerû memóriakulcsok, pendrive-ok: a Kingston "feketedoboza", a DataTraveler Blackbox kormányzati, katonai specifikációknak is megfelel, komoly hardveres titkosítással és vízállóssággal, ütésállósággal büszkélkedhet.
+
+
+
+A Blackbox hardveres, 256 bites AES titkosítással tárolja a rámásolt adatokat, így a tengerentúli FIPS (Federal Information Processing Standard) 140-2 Level 2 szabványnak, követelménynek is megfelel. A titkosítás az azonosítást követõen teljesen transzparens. Jelszó nélkül a pendrive tartalmához semmiképpen sem lehet hozzáférni, a kötelezõen komplex, jó jelszó megadására pedig csupán tíz alkalmunk van: ezt követõen új jelszót kell megadni és formázni kell a meghajtót, annak tartalmához már senki sem férhet hozzá.
+
+A FIPS Level 2 egyben azt is megköveteli, hogy a pendrive minden egyes számítógépbe helyezésekor öntesztet hajtson végre, ellenõrizve, hogy a védelem megfelelõen mûködik-e. A titániumötvözettel bevont, acélból készült ház jól tûri a fizikai behatásokat, a jó szigetelés pedig körülbelül 1 méteres vízmagasságig megakadályozza, hogy a pendrive belsejébe víz kerüljön.
+
+
+
+A 2-4 és 8 gigabájtos kapacitással piacra kerülõ pendrive 24 megabájt/s-os sebességgel olvasható és 20 megabájt/s-mal írható, ami a folyamatos titkosítást, kódolást is figyelembe véve becsületre méltó teljesítmény. Egy nemrég készült felmérés szerint sok vállalat tett már lépéseket a pendrive-használat szabályozására, azonban az esetek kétharmadában már viszonylag késõn, vagyis valamiféle incidens, adatvesztés, adatok illetéktelen kezekbe kerülése után.

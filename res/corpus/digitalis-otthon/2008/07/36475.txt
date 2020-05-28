@@ -1,0 +1,14 @@
+Itt az Opera Mobile 9.5 elsõ bétája
+
+A februári bejelentés után öt hónappal megjelent az Opera webböngészõ okostelefonokhoz fejlesztett változatának új változata. Az Opera Mobile 9.5 egyelõre az elsõ bétaverziónál tart, a végleges változathoz képest hiányzik még néhány funkció, a felhasználók azonban így is képet kaphatnak az új változat nyújtotta, elsõsorban az interfészt érintõ fejlesztésekrõl, ha letöltik az ingyenes próbaváltozatot.
+
+
+
+Az egyelõre csak Windows Mobile-alapú telefonokkal együttmûködõ Opera Mobile 9.5 elsõ bétája a fejlesztõcég szerint lényegesen gyorsabb lett, valamint az Opera legfrissebb renderelõmotorja, a Presto 2.1 által több webes szabványt is támogat elõdjénél, az Opera Mobile 8.65-nél. Az új böngészõ ezzel együtt egyszerûbb változatához, az Opera Minihez hasonlóan alaphelyzetben a teljes weboldalt megjeleníti a kijelzõn, a felhasználó a stylus segítségével zoomolhat és mozgatja a tartalmat. Az interfészt mindemellett jelentõsen átdolgozták a fejlesztõk az egyszerûbb áttekinthetõség és a könnyebb navigáció érdekében.
+
+Opera Mobile 9.5: mindent tudni fog, amit az asztali változat
+
+
+Az Opera Mobile 9.5-ös bétaverziójával lehetõség nyílik teljes weboldalak, vagy az oldalakba ágyazott képek lementésére is, a webfejlesztõk pedig mostantól ezzel a változattal is használhatják az Opera Dragonfly fejlesztõi alkalmazást az oldalak ellenõrzésére. Az új változat mindemellett egy a böngészõfülekhez hasonló szolgáltatást is kínál, támogatja a prediktív URL-bevitelt és tartalmazza a Google keresõsávját is.
+
+Az új verzió a számos újítás mellett szép számmal tartalmaz hiányosságokat és egyelõre hibásan mûködõ funkciókat is -- a fejlesztõk ígérete szerint a programozók a végleges változat megjelenéséig minden ilyen csorbát kiköszörülnek majd. Az Opera Mobile 9.5 elsõ bétája így például jelenleg nem támogatja az ActiveX vezérlõket, nem mûködik a Flash lejátszás sem, némely esetben hibás az oldalak sortörése teljes nézetben, valamint a böngészõ egyelõre elhasalt az ACID2 teszten is.

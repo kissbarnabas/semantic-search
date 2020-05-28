@@ -1,0 +1,14 @@
+Mindent tudó irodai NAS-t dobott piacra az Iomega
+
+Új irodai hálózati tárolót dobott nemrég piacra az Iomega, mely az EMC egyik leányvállalata. A merevlemezes NAS a célpiacából fakadóan egyszerû telepíthetõséget és üzemeltethetõséget ígér, és nagyobb méretû heterogén PC-környezetek számára is ideális választás lehet.
+
+
+
+A négy hot-swap SATA II merevlemez fogadására képes StorCenter Pro ix4-100 az Iomega legnagyobb asztali NAS modellje, és lényegében teljeskörû adattárolási, adatmentési, biztonsági és médiaszerver megoldást igyekszik kínálni irodák számára. A Gigabit Ethernet hálózati csatolóval rendelkezõ Pro ix4-100 bruttó kapacitása hivatalosan legfeljebb 4 terabájt lehet, és természetesen támogatja a RAID 5, RAID 10, de a JOBD mûködést is. A négy USB-porton keresztül további tárolókat is lehet hozzá csatlakoztatni, Fat32, NTFS és ext2/ext3 fájlrendszereket is képes írni-olvasni.
+
+
+
+ A mûködésrõl az EMC LifeLine szoftver gondoskodik, mely Windows, Linux és MacOS X operációs rendszerekkel is együttmûködik, azaz képes velük adatmegosztásra, biztonsági másolat készítésére, és hálózati nyomtatás nyújtására, és beilleszthetõ Active Directory környezetbe is. Az EMC LifeLine velejárójra a korlátlan számú EMC Retrospect Express HD licenc, így a védett gépek számát a hálózati és tárkapacitás határolja be, vagyis megfelelõ ütemezéssel több tucat PC mentését is meg lehet vele oldani. Ebben a kategóriában magától értetõdik a szünetmentes tápegységek támogatása, valamint az e-mailes értesítõk, riasztások, és az SNMP-alapú riportolás.
+
+
+A StorCenter Pro ix4-100 egyik extrája az Axis biztonsági kamerák támogatása, így egy külön számítógép nélkül is rögzíthetjük annak képét, hogy igény esetén késõbb visszajátsszuk. Az irodai környezet támogatása érdekében Bluetooth kapcsolódással is fel lehet tölteni rá adatokat egy Bluetooth USB-s adapter segítségével, ahogyan UPnP médiaszerverként is üzemelhet. Ezekért a képességekért cserébe méltányosnak tûnnek a javasolt kiskereskedelmi árak: 2 terabájtos kapacitással 778, 3 terabájttal 958, míg a maximális 4 terabájtos kiépítettséggel 1138 euróba kerül.

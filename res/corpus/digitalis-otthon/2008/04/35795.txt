@@ -1,0 +1,16 @@
+Az újabb Radeon videokártyák grafikus processzorán is fut már a Folding@Home
+
+Hosszú fejlesztést követõen újabb grafikus kártyák processzorára hajtó Folding@Home klienst tölthetnek le a projekt résztvevõi. A második béta minden olyan AMD/ATI grafikus gyorsítót támogat, mely ismeri az AMD Compute Abstraction Layert (CAL). Ennek megfelelõen minden R600-sorozatba tartozó grafikus gyorsítón futhat -- Radeon 2400-on, és ennél újabbakon.
+
+
+
+A publikus béta Windows XP mellett Windows Vistán is képes kiaknázni a grafikus processzor (GPU) erejét. A FAH GPU2 kliens egy alfa és egy zárt bétatesztelésen már átesett, a fejlesztõk pedig azt remélik, hogy a nagyközönség sem fog komolyabb hibákat találni. A több grafikus maggal szerelt újabb, 3-as sorozatú kártyák tulajdonosai egyelõre csak az egyik grafikus magot tudják munkára fogni.
+
+A Folding@Home néven ismert projekt a proteinek molekuláris szintû kialakulását, felépítését szimulálja elosztott rendszerben, hogy az eredmények révén tudósok jobban megérthessék viselkedésüket, hatásukat, és egyes kórok kialakulásának mikéntjét. A tudomány szerint bizonyos betegségek, például az az Alzheimer- vagy a Parkinson-kór, valószínûleg proteinek hibás kialakulásának és felhalmozódásának a következményei.
+
+
+Ezekre a megoldhatatlanul nagy feladatokra vetik be az elosztott projekteket, mikor a számításokat megfelelõen apró csomagokra szeletelik, amelyeket aztán a résztvevõ számítógépek ezrei, tízezrei tölthetnek le az internet segítségével, majd feldolgozás után visszaküldik az eredményeket. Ilyen projekt keretében folyik a proteinek vizsgálata is, amely Folding@Home néven fut, de hasonló tervezetbõl ma már több tucat mûködik, köztük a földönkívüli intelligencia meglétét kutató SETI@home.
+
+PS3-on is fut
+
+A grafikus processzorok legalább egy nagyságrenddel gyorsabban képesek futtatni bizonyos számításokat, egy X1900 videokártya GPU-ja akár 20-40x gyorsabban végezhet egy-egy adott feladattal, mint egy 2,4 GHz-es Pentium 4 processzor. Az újabb bétához legalább januári Catalyst meghajtóprogram-csomag kell a .Net Framework 2.0 mellett. 

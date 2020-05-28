@@ -1,0 +1,20 @@
+Globális felügyeleti központot nyitott Budapesten a Lufthansa Systems
+
+Tovább bõvítette magyarországi jelenlétét az informatikai szolgáltatásokat nyújtó Lufthansa Systems. A vállalat hivatalosan tegnap átadott új budapesti központjában mintegy 110 ember dolgozik már, amivel  450 fölé emelkedett a hazánkban foglalkoztatottak száma. Az Infoparkba települt Remote Operation Center (ROC) informatikai rendszerek távfelügyeletét végzi az egész világra kiterjedõen. A Lufthansa Systems  vezetõje szerint valószínûleg további bõvítésekre is sor kerül Magyarországon a jövõben, újabb kihívásokkal teli munkahelyet teremtve a hazai informatikusok számára.
+
+
+
+A központ a nap 24 órájában, az év minden napján monitorozza a rábízott informatikai rendszereket, melyek nagyrészt a Lufthansa Systems németországi, Kelsterbachban lévõ adatközpontjában találhatóak, de természetesen a világ egyéb pontjain is. A vállalat kompetenciájából fakadóan elsõsorban légitársaságoknak, a Lufthansa mellett például a British Airwaysnek vagy a Quantasnak kínál olyan informatikai szolgáltatásokat, mint az alkalmazásfejlesztés, a rendszertervezés és bevezetés, vagy éppen a rendszerek üzemeltetése és támogatása. A cég 350 embert foglalkoztat Budapesten a MOM Parkban, akik ilyen feladatokat látnak el.
+
+
+
+A Lufthansa Systems az ITIL (Information Technology Infrastructure Library) alapján rétegzett support szolgáltatásokat kínál, melyek közül a budapesti center a második és harmadik szintû tevékenységet folytatja, mondta el Lovas Zoltán, aki a hazai tevékenységet vezeti. A második szint a szigorúan vett felügyelet, a rendszerek mûködésének, teljesítményének és biztonságának monitorozása, és incidens esetén a beavatkozás. A harmadik szinten egy tapasztaltabb szakemberekbõl álló csapat komplexebb problémákat megoldására és változások kezelésére dolgoz ki terveket, mondta el Lovas.
+
+
+A most átadott központban szakterület alapján számos csapatot lehet megkülönböztetni, egymás mellett dolgoznak az adatbázis-, UNIX-, hálózati, Windows- és NetWare-rendszergazdák. A megnyitón elhangzottak alapján jelenleg 1100 szerver és mintegy 10 ezer menedzselhetõ hálózati eszköz felügyelete folyik Budapestrõl, és ezek a számok a jövõben várhatóan bõvülnek, ahogyan további rendszereket vesz át a center -- a belátható jövõben 2500 szerver kerülhet a magyar rendszergazdák kezei közé.
+
+Wolfgang Gohde, a Lufthansa Systems elnök-vezérigazgatója elmondta, hogy az alkalmazottak nemcsak a budapesti céghez kerültek be, hanem egy globális nagyvállalathoz, mely 1 milliárd dolláros árbevétellel és világszerte mintegy 200 ügyféllel rendelkezik, akiket 16 országból 3200 alkalmazottal szolgálnak ki. Nemcsak a budapesti ROC kínál szakmai és személyes fejlõdési lehetõséget pályakezdõ informatikusok számára, hangoztatták a megnyitón a cég képviselõi, hanem a tapasztaltabbaknak globális projektekben is lehetõség adódik részt venni. "Erõs meggyõzõdésem, hogy a Lufthansa Systems egy vonzó munkáltató a régióban" -- mondta el Gohde, aki szerint cégénél dolgozni változatos és kihívásokkal teli.
+
+
+
+Németországon kívül a legnagyobb jelenléttel Budapesten bír a Lufthansa Systems. A vállalat 1995-ben telepedett le a magyar fõvárosban, ahova az egyetemek és fõiskolák által kibocsátott informatikusok, a német nyelvtudás, valamint a kulturális és földrajzi közelség vonzotta. Gohde elmondta, hogy miközben a sláger India és az offshoring, addig a Lufthansa Systems tudatosan fejleszti a Németországtól néhány óra repülésre lévõ budapesti tevékenységét. Az ROC valószínûleg nem az utolsó mérföldkõ lesz a hazai tevékenység életében. "A mi befektetésünk az agyakban fekszik. A cél az, hogy olyan embereket képezzünk akik ki tudják szolgálni az igényeinket. Nem engedhetjük meg magunknak a hibát, túlságosan sokba kerül nekünk" -- utalt a vezetõ ügyfeleik kritikus üzleti folyamatainak értékére.

@@ -1,0 +1,14 @@
+Tesztelhetõ a Microsoft virtuális planetáriuma, a Worldwide Telescope
+
+Csupán egyetlen kattintásra minden amatõr csillagász álma, egy komoly tudású, gigantikus méretû képadatbázisokból építkezõ planetárium szoftver. A Microsoft Worldwide Telescope publikus bétája feladja a leckét a Google Earth-be épített hasonló funkciónak.
+
+
+
+Az ingyenesen letölthetõ szoftver földi és ûrbeli teleszkópok legjobb képeit illeszti a képernyõnk virtuális egére. Nem csak a Hubble és a Spitzer képeit, de a Chandra X-Ray Observatory és a Nasa saját anyagait is böngészhetjük egyetlen egérrel. A planetárium teljesen élõ, naprendszerünk égitestei, holdjai valós idõben mozognak, útjuk követhetõ az éjszakai égbolton.
+
+
+A több terabájtnyi adatbázishoz hozzáférést nyújtó alkalmazás csak Windows operációs rendszerek alatt futtatható. Nem csak a csillagok, de a naprendszer égitestei is megfigyelhetõk vele, illetve a két marsjáró panorámaképeit is meg lehet tekinteni eddig nem látott felbontással. Egyes fotók különbözõ szûrõkkel készített változatai is külön-külön megtekinthetõk.
+
+
+
+Az adatbázisok között megtalálható az éppen épített Sloan Digital Sky Survey, más néven Cosmic Genome Project is, mely az éjszakai égbolt negyedének részletes képeit tartalmazza már. A programmal és az asztronómiával ismerkedõket neves csillagászok elõadásai szórakoztathatják, akik elkalauzolnak bennünket egy-egy érdekes galaxishoz, csillagrendszerhez, de akár mi magunk is összeállíthatunk ilyen anyagot, amit megoszthatunk másokkal.

@@ -1,0 +1,20 @@
+A blade és virtualizáció ötvözése a jövõ
+
+VMware virtualizációs infrastruktúrával konszolidálta alkalmazásszervereit az OTP Bank, mégpedig blade kiszolgálókra. A motivációt nem a költségek megtakarítása jelentette, hanem a magasabb rendelkezésre állás, illetve a géppark sokkal rugalmasabb menedzselhetõsége és bõvíthetõsége, mondta el Dombai Norbert, az OTP üzemeltetési szakembere a VMware Virtualization Forum 2008-on. Bár a blade nagyobb sûrûséget biztosít, így nagy segítség lehet egy helyszûkével küszködõ gépteremben, önmagában nem oldotta volna meg a bank problémáit.
+
+
+
+A blade önmagában nem elég
+
+A virtualizációs technológiák egyáltalán nem újkeletûek, mainframe rendszereken már évtizedek óta hozzáférhetõek az erõforrások feladatok közti elosztásában. Tömeges alkalmazásuk ugyanakkor csak az új évezredben indult meg, kezdetben természetesen sok szkepticizmus és elutasítás lassította a terjedésüket. Az OTP-nél öt évvel ezelõtt már indult  egy kezdeményezés a virtualizáció bevezetésére, de akkor elvetették még a gondolatát is egy újabb réteg bevezetésének, ami tovább növelte volna a komplexitást és a hibalehetõségek számát.  
+
+A szerverpark szakadatlan bõvülése egyre nagy terhet rótt azonban az üzemeltetésre, és már a gépek elhelyezése is problémássá kezdett válni, árulta el Dombai elõadásában. Egy szerver beszerzése és felkészítése az éles üzemre ráadásul legalább egy, de inkább másfél-két hónapot igényelt, ami túlságosan hosszú reakcióidõ. Az OTP így megtendereztette a problémát, amin több beszállító indult, egy kivételével azonban lényegében semmi mást nem kínáltak, mint egyszerû fizikai konszolidációt eleinte rack, majd blade szerverekkel. Dombai elmondta, ez csak fokozta volna a problémákat, ugyanis a megnövekedett sûrûség miatt új klimatizálási megoldásra lett volna szükség.
+
+
+Az egyik beszállító azonban a blade gépek mellett komplett VMware ESX-alapú virtualizált környezettel készült, amivel élõben demonstrálták a bank szakemberei elõtt annak képességeit: egy fizikai gép meghibásodása esetén percek alatt újraindulnak egy másikon a virtuális gépek, és velük együtt a rajuk futó alkalmazások. Egy új fizikai gép telepítése kapacitásbõvítés céljából néhány percet vesz igénybe a blade integrált menedzsmentfelülete és a központi háttértár miatt, míg egy új virtuális gép létrehozása néhány órát mindössze -- szemben a korábbi hónapos átfutással.
+
+A produkció, melynek során valódi szervereket migráltak virtuális környezetbe, majd demonstrálták az automatizált, néhány percet igénybe vevõ failovert, annyira meggyõzõ volt Dombai szerint, hogy azonnal tudták, megrendelik a megoldást. "Beláttuk, hogy a blade és a virtualizáció kombinációja a jövõ" -- fogalmazott. A konszolidációban 29 különálló alkalmazásszervert migráltak virtualizált blade-ekre, melyek önmagukban magasabb rendelkezésre állást és kevesebb lehetséges meghibásodási pontja miatt egyúttal megbízhatóbb mûködést is biztosítanak, például a drasztikusan kevesebb vezetékezés révén. A klimatizálás továbbra is kihívás lehet nagy teljesítménysûrûség miatt, ugyanakkor ennél a pontnál már megéri az átalakítás.
+
+Hátrányok, hiányok
+
+Elõnyei mellett ugyanakkor a virtualizáció azonban két fõ problémát is teremt. Ha bármi probléma adódik a virtualizált környezetben futtatott szoftverekkel, akkor a szoftverszállító technikai támogatásán csak akkor hajlandóak sokszor segíteni, ha mindezt reprodukálni tudja az ügyfél önálló, fizikai gépen is, ami sokszorosára nyújthatja a hiba elhárításához szükséges idõt. A másik az üzemeltetési felelõsség meghatározása, amit az OTP-nél úgy oldottak meg, hogy egy virtuális környezetben nem keverednek különbözõ csapatokhoz tartozó gépek, azokat izolálják. Természetesen technikailag sem tökéletes a VMware ESX, mondta Dombai, akinek a kívánságlistáján az elsõ a több fizikai szerver egyetlen virtuális hoszttá szervezése, hogy esetleg egy nagyobb alkalmazásszerver kapacitásigényét is ki lehessen szolgálni rugalmasan -- erre nem képes a szoftver, egyelõre legalábbis.

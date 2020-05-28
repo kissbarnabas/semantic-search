@@ -1,0 +1,26 @@
+Tévhitek a SaaS modellel kapcsolatban
+
+Az utóbbi idõben világszerte egyre nagyobb hangot kapnak a SaaS (Software as a Service, szoftver mint szolgáltatás) megoldások, melyekkel kapcsolatban sokszor elhangzik hogy költségtakarékos, gyorsan bevezethetõ és rugalmas, ám a Gartner elemzése szerint ezekre egyelõre nincs bizonyíték.
+
+
+
+A SaaS koncepció lényege, hogy az ügyfélnek nem kell foglalkoznia egy komplex IT-rendszer kidolgozásával és implementációjával, sem beruházásokat nem kell eszközölnie, helyette szolgáltatásként fizet elõ az igényelt funkciókra. Azonnal alkalmazni tudja a szoftvert és a cég igényeinek megfelelõen tudja skálázni az igénybe vett szolgáltatások körét és mennyiségét, így a költségeket is egyszerûen kontroll alatt lehet tartani -- rendkívül jól hangzó ígéretek, fõleg jelen helyzetben, amikor a cégeknek minden lehetséges módot meg kell ragadniuk a spórolásra.
+
+
+ "Az elmúlt években komoly hype vette közül a SaaS-t" -- mondja Robert DeSisto, a Gartner alelnöke és kiemelt elemzõje. "Ennek eredményeképp számos hipotézis született, negatív is, pozitív is, pontos és kevéssé pontos. A probléma az, hogy néhány vállalat ilyen tévhitek alapján kezdett bele SaaS-bevezetésekbe" -- vázolta a helyzetet DeSisto.
+
+A Gartner szerint a szoftver mint szolgáltatás modellel kapcsolatos leggyakoribb tévhit az, hogy ez a konstrukció olcsóbb a telepített modellnél. Ez azonban csak részben igaz, az elsõ pár évben valóban olcsóbb lehet, azonban például öt évre vetítve a hagyományos megközelítés már kedvezõbb birtoklási összköltséget adhat ki, ahogy az infrastruktúra amortizálódik. A SaaS egyik legfontosabb vonzereje hogy nem igényel kezdeti befektetést, szigorúan könyvelési szempontokból vizsgálva azonban hosszú távon már olcsóbb lehet egy telepített megoldás -- állítja a Gartner.
+
+
+
+Jövedelmezõ SaaS
+
+Rekordévet zárt a legismertebb SaaS-szolgáltató, a Salesforce.com, amely ügyfélkapcsolati megoldást kínál, elsõsorban amerikai vállalatok számára. A január 31-én véget ért üzleti évben 1 milliárd dollár feletti forgalmat ért el a cég -- ebbõl 290 millió dollár esett az utolsó negyedévre. A Salesforce.com ügyfeleinek száma az év során 14 ezerrel 55 ezer fölé emelkedett, a kiszolgált felhasználók száma pedig meghaladja az 1,5 milliót. Idén a bevétel 30 százalékos növekedésével számolnak a vezetõk.
+
+
+
+A második közszájon forgó féligazság, hogy a SaaS-modellben bevezetett szolgáltatás gyorsabban telepíthetõ mint a hagyományos alkalmazások. Ezt leginkább a "szoftverszolgáltatók" igyekeznek elhitetni a potenciális felhasználókkal akik gyakran nem átallanak 30 napos bevezetési idõvel számolni még akkor sem, ha valójában a bevezetés akár hónapokat is igénybe vehet. Minél bonyolultabb a támogatni kívánt üzleti folyamat, a SaaS megoldás és a hagyományos telepített szoftver bevezetése közötti idõkülönbség annál inkább csökken -- figyelmeztet a Gartner. A munka dandárját ilyenkor a testreszabás adja, amelyet mind a két esetben el kell végezni és mindkét esetben egyformán idõigényes.
+
+A Gartner tapasztalatai azt mutatják, az a tézis sem állja meg a helyét, mely szerint a SaaS modellben a vállalatok úgy fizetnek a szolgáltatásként igénybevett szoftver után mint a közmûvek után, vagyis a használattal egyenes arányban. Az elemzõcég azt állítja, a legtöbb esetben a felhasználókés szolgáltatók között olyan szerzõdés jön létre, amely nem veszi figyelembe a tényleges használatot még akkor sem, ha maga az alkalmazás lehetõvé teszi annak mérését -- a közmûmodell az árazásban nemigen mûködik.
+
+Látszik tehát, hogy "nem mind arany ami SaaS" és bár a megközelítés elõnyei mindenképp vonzók, a döntés elõtt mindenképp érdemes mélyreható vizsgálatot folytatni és kemény keresztkérdéseket feltenni a jövendõbeli szolgáltatónak, nehogy elmenjen a réven, amit megnyerünk a vámon.

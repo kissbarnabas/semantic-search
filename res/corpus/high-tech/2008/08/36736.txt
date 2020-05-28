@@ -1,0 +1,25 @@
+Villámgyors SSD-k notebookokba, asztali gépekbe és szerverekbe az Inteltõl
+
+A kimondottan netbookokba szánt olcsó SSD-k után az Intel a csúcskategóriás gépeket is célba vette flash meghajtóival. A vállalat az Intel Developer Forumon 80 és 160 gigabájtos villámgyors flash meghajtókat mutatott be, amelyeket notebookokba, asztali gépekbe, munkaállomásokba és szerverekbe egyaránt ajánl.
+
+
+
+
+A világ legnagyobb félvezetõgyártója 1,8 és 2,5 hüvelykes méretben szállítja SSD-it asztali gépek és noteszek számára. Az X18-M és X25-M egyaránt többszintû cellaszervezésû (multi-level cell) flash memóriachipekre épülnek, mégis óriási teljesítményre képesek, a vállalat másodpercenként 250 megabájtos olvasási, és 70 megabájtos írási sebességet ígér, aktív állapotban mindössze 0,15 wattos, készenlétben pedig 0,06 wattos fogyasztás mellett.
+
+[+] Kipróbáltuk: érdemes flash meghajtós notebookot venni?   
+
+A nagy kapacitású, mégis villámgyors SSD-k piacra dobását a Micron Technologyval közös fejlesztés tette lehetõvé. Amint arról lapunk is beszámolt, az Intel 2005-ben a Micronnal közös vegyesvállalatba, az IM Flashbe szervezte ki a NAND flashmemóriák gyártását. Az Intel és a Micron szerint az elképesztõ sebességet az ONFI 2.0 (Open NAND Flash Interface) iparági szabványnak megfelelõ felület, a korábbiaknál magasabb órajel és az új architektúra teszi lehetõvé.
+
+
+
+Az 1,8 és 2,5 hüvelykes merevlemezek szabványos méretében megjelenõ meghajtók SATA II felületen csatlakozhatnak a számítógépekhez, és támogatják az NCQ-t is, így akár 32 mûveletet végezhetnek egyszerre. A 80 gigabájtos változatokból tesztdarabok már elérhetõk, a kereskedelmi szállítások szeptemberben indulnak, a 160  gigabájtos kivitelû meghajtók pedig  2009 elsõ negyedévében kerülnek piacra. 
+
+
+
+
+
+
+Emellett az Intel egy kimondottan vállalati felhasználásra, szerverekbe és munkaállomásokba szánt SSD-t is bejelentett, az X25-E Extreme 2,5 hüvelykes méretben, 32 és 64 gigabájtos kapacitással lesz elérhetõ, elõbbi már az idén megjelenik a cég kínálatában, utóbbira azonban 2009 elejéig kell várni. Az X25-E Extreme meghajtók esetében az Intel extrém magas, másodpercenként 170 megabájtos írási sebességrõl beszél, az olvasás üteme legfeljebb 250 megabájt másodpercenként, ennek oka, hogy a vállalati felhasználásra szánt SSD-k SLC (single-level cell) NAND chipekbõl állnak. 
+
+Jövõre az Intel tovább növeli az SSD-k kapacitását, az MLC-alapú X18-M és X25-M sorozatban várható akár 320 gigabájtos változatok megjelenése is, a vállalati felhasználásra szánt Exteme család pedig 128 gigabájtos modellel gazdagodhat.

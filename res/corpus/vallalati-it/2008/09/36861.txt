@@ -1,0 +1,15 @@
+F#: funkcionális nyelv integrálódik a .NET-be
+
+A Microsoft korábbi ígéretének megfelelõen egyre integrálódik az F# funkcionális nyelv a Visual Studióba, amivel az egyszerû szkripteléstõl kezdve a nagyméretû szoftverfejlesztési projektekre is alkalmassá teszi a .NET keretrendszer számára fejlesztett nyelvet. 
+
+
+
+Az F# egy funkcionális programozási nyelv, melyet a Microsoft a .NET keretrendszerre fejleszt. A funkcionális programozási nyelvek gyökeresen különböznek az imperatívaktól, ugyanis mûveletekkel elõidézett állapotváltozások sorozata helyett függvényekkel dolgozik, melyek jellemzõen egy bemeneti lista vagy táblázat alapján elõállítanak egy kimenet, valamint a konstansok is változó nélküli függvények -- változók és állapotok természetszerûleg nincsenek, ahogyan hurkok sem. A program kívánt mûködését függvények egymásba ágyazásával lehet elérni.
+
+
+A funkcionális nyelvek paradigmájukból fakadóan leginkább az akadémiai tudományos és a mûszaki feladatok megoldása terén népszerûek, ahol a problémák matematikai kifejezése kézenfekvõ. A funkcionális nyelvek elõnye a produktivitás mellett az, hogy megkönnyíti a hibakeresést, a magas megbízhatóság mellett nagyteljesítményû kódot is eredményez, ugyanis a fordítók eredményesebben találnak utasítás vagy szálszintû párhuzamosságot. 
+
+
+Az F# egyúttal támogatja az objektumorientált programozást is, valamint a .NET könyvtárakat és adatbázis eszközöket, sõt képes SQL-lekérdezéseket metanyelven leírni, majd azt SQL-re fordítani egy interpreter segítségével. Az F# nyelven írt kódokat fel lehet használni más .NET, például C# nyelvben írt programokhoz, ugyanis azok hozzáférnek az F# típusokhoz és értékekhez. A Microsoft reményei szerint az F# sokkal vonzóbbá teszi majd a .NET környezetet az akadémiai, mûszaki és pénzügyi szektor számára egyaránt. A legismertebb funkcionális nyelvek közé a Lisp, az APL, a Haskell és az Erlang tartoznak. 
+
+Az F# legújabb változata szabadon elérhetõ a Microsofttól. A szoftvervállalat szerint az 1.9.6.0 verziószámot viselõ kiadás a szoftverfejlesztéshez szükséges összes eszközzel rendelkezik. A szeptemberi Community Technology Preview javítja a Visual Studióval való integrációt a nagyobb szoftverprojektek támogatására.

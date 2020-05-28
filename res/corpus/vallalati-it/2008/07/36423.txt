@@ -1,0 +1,24 @@
+Magyarul is megtanult a Novell csoportmunka-támogató megoldása, a Teaming + Conferencing
+
+Magyarországon is bemutatkozott a Novell csoportmunka-támogató megoldása, a Teaming + Conferencing. A szoftver legújabb verziója egy hete már magyar nyelven is elérhetõ.
+
+
+
+"Webkettes" csoportmunka
+
+A Novell idén februárban vásárolta fel az 1995-ben alapított SiteScape vállalatot, amely a nyílt forrású ICEcore alapjaira épülõ csoportmunka-megoldást fejlesztett, ebbõl lett a Novell Teaming + Conferencing. A termék a szokásos csoportmunka-funkcionalitást kínálja, beleértve a dokumentumok kezelését, azonnali üzenetküldést, webkonferenciát szöveggel és hanggal, naptárkezelést, és munkafolyamat-menedzsmentet. Az ICEcore-alapú megoldáshoz a Novell némi saját fejlesztés mellett vállalati szintû oktatást és támogatást tud hozzátenni.
+
+A Teaming + Conferencing egyik fontos jellemzõje, hogy a "webkettes" világban megismert eszközöket is kínálja a vállalatok számára a termelékenységük fokozására. A dolgozók létrehozhatják saját blogjaikat, wikiket szerkeszthetnek, fórumozhatnak, akár képeiket is megoszthatják egymással annak érdekében, hogy a lehetõ leghatékonyabban áramoljon az információ a szervezeten belül, vagy akár azon kívül. Kérdés, hogy a hazai vállalatok felkészültek-e már erre, amikor a legtöbb helyen e-mailen és mobiltelefonon kívül semmilyne más eszközt nem használnak kapcsolattartásra.
+
+[+] IBM: robbanásszerûen növekszik a webkettes üzleti szoftverek piaca
+
+Árelõny 
+
+A Teaming + Conferencing két részbõl áll, a Teaming egy webes felületen keresztül biztosítja a felhasználók munkaterét, a közös naptárakat, fájlok, dokumentumok megosztását, kezelését, a folyamatkezelést, illetve olyan "webkettes" szolgáltatásokat, mint a wikik, blogok, fotóalbumok, szavazások és fórumok. A második komponens, a Conferencing egy asztali kliensprogram az azonnali üzenetküldéshez, chateléshez, webkonferenciához és VoIP-beszélgetésekhez. Elõbbi lényegében az ICEcore Team, utóbbi pedig az ICEcore Conference Novell-féle változata.
+
+A vállalat szerint a Teaming + Conferencing legfontosabb elõnye a vetélytársakkal szemben a kedvezõbb ár: a termék használatához nincs szükség szerverlicencre, az árazás CAL-alapon történik, egy CAL (Client Access Licence) ára 55-60 euró körül indul. Úgy tudjuk, az Open Enterprise Serverbõl és GroupWise-ból álló Open WorkGroup Suite kisvállalati verziójába, a Small Business Editionbe hamarosan árnövekedés nélkül bekerül a Teaming + Conferencing, vagyis a felhasználók lényegében ingyen hozzájutnak.
+
+
+ Hargitai Zsolt kereskedelemtámogatási vezetõ szerint a Teaming + Conferencing versenyelõnye a Lotusszal, illetve a Microsoft Exchange/ SharePoint párossal szemben az ár mellett a funkcionalitás (pl. fejlett munkafolyamat-kezelés), valamint a nyílt forrású modellnek köszönhetõ gyors fejlesztési ciklus. 
+
+A Windowson és Linuxon egyaránt használható Teaming + Conferencing együttmûködik Microsoft Exchange-dzsel, IBM Lotus Notes-szal és természetesen a Novel saját GroupWise munkacsoport-termékével. Utóbbival a jövõben szorosabban is integrálni fogják, a HWSW ismeretei szerint az õszre ígért GroupWise 8-nak (kódnevén Bonsai) már része lesz a Teaming + Conferencing is. A szoftver , a nemrég megjelent Support Pack 3 verzió már magyarul is elérhetõ. A termék alapjául szolgáló ICEcore is elérhetõ magyarul.

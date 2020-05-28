@@ -1,0 +1,22 @@
+Csökkenõ bevétel, zuhanó nyereség, mégis elégedett a Microsoft
+
+Elõször csökkent a Microsoft negyedéves bevétele éves összehasonlításban, mióta 23 éve tõzsdére vitték a céget. A PC-piac mélyrepülését a világ legnagyobb szoftvergyártója nem tudta kikerülni, nyeresége közel harmadával esett, amely az átszervezésekkel és elbocsátásokkal kapcsolatos kiadásoknak is köszönhetõ.
+
+
+
+A PC-piac gyengesége húzta le a mutatókat
+
+A vállalat öt üzleti egyésébõl négynek csökkent a forgalma, bár az esés mértéke nagy szórást mutat. Az asztali Windowsokért felelõs divízió kapta a legnagyobb pofont, itt a bevétel 16 százalékkal esett, az üzemi eredmény 20 százalékkal apadt. Ennek oka a PC-piac gyengesége, az elsõ negyedévben az IDC és a Gartner 6-7 százalék körüli visszaesést mért. A Microsoft vezetõi szerint a netbookok elõretörése inkább segített mint ártott az üzletnek, Chris Liddell pénzügyi vezér úgy vélekedett, netbookok nélkül még rosszabb lenne a Microsoft helyzete. Az olcsó PC-ket olcsó operációs rendszerrel értékesítik az üzletekben, Vista helyett általában Windows XP-vel. A Microsoft szerint azonban a netbookokat nem a notebookok helyett, hanem mellé vásárolják az emberek, így jelenlétük összességében pezsdíti a Windows-eladásokat, nem fékezi. Az elsõ negyedévben eladott PC-k tizede volt netbook -- állítja a Microsoft.
+
+Kitûnõen teljesített a szerverszoftvereket és fejlesztõi eszközöket gyártó üzletág, ez volt az egyetlen, ahol az eladások nõni tudtak a tavalyi év azonos idõszakához képest. A 7 százalékos bevételnövekedés mellett az üzemi eredmény 24 százalékkal erõsödött, elsõsorban a nagyvállalati licencben értékesített Windows Server 2008, a SQL Server 2008 és a System Center felügyeleti eszközök népszerûségének köszönhetõen. A OEM-eladások azonban jelentõsen lassultak, ahogy az x86-os szerverek piaca lezuhant.
+
+
+ Enyhén csökkenti az üzleti szoftverekért felelõs részleg forgalma, a bevétel 5 százalékkal, az üzemi eredmény 8 százalékkal olvadt. A vállalat tájékoztatása szerint ez elsõsorban a PC-piac gyengeségének köszönhetõ, a kevesebb eladott PC kevesebb eladott Office-t jelent. Ezt némileg ellensúlyozni tudták a nagyvállalati licenckonstrukcióban értékesített termékek, a Microsoft szerint erõs volt a kereslet a SharePoint, az Office Communications Server és a CRM iránt, ezek mind legalább 20 százalékkal több bevételt hoztak mint egy évvel korábban.
+
+Jó hírrel szolgált az Entertainment and Devices üzletág is, amennyiben a mindössze 2 százalékos bevételcsökkenés jó hírnek tekinthetõ. A Microsoft tájékoztatása szerint az év elsõ háron hónapja során 1,7 millió Xbox 360 talált gazdára, közel harmadával több mint tavaly ugyanekkor. A 2008 közepén kezdõdött pénzügyi éve során mintegy 10 millió konzolt adott el a Microsoft, 15 százalékkal többet mint a megelõzõ pénzügyi évben összesen. Az Xbox 360 vásárlói átlagosan 8,3 szoftvert vesznek meg a konzoljukhoz, ami messze a legmagasabb az iparban. Szokás szerint gyatra teljesítményt nyújtott az online részleg, a forgalom a recesszió hirdetési piacra gyakorolt negatív hatása miatt 15 százalékkal csökkent, az üzemi veszteség több mint duplájára nõtt.
+
+Még nincs itt a mélypont?
+
+A március 31-én véget ért harmadik pénzügyi negyedévben a redmondi vállalat 13,6 milliárd dolláros forgalmat ért el, ami 5,6 százalékos visszaesést jelent éves szinten. A nettó veszteség 32 százalékkal 2,98 milliárd dollárra apadt, részben a január elején bejelentett 5000 fõs leépítésekkel kapcsolatos kiadások miatt, másfelõl befektetések értékcsökkenésének leírása miatt. Jól mutatja a Microsoft masszív nyereségtermelõ képességét, hogy az üzemi eredmény csupán 3 százalékkal múlta alul az egy évvel korábbi szintet. Az egy részvényegységre jutó eredmény 39 cent volt, ami megfelelt az elemzõi várakozásoknak.
+
+Chris Liddell pénzügyi vezér szerint a vállalat az év hátralevõ részében továbbra is nehéz körülményekre számít, szerinte egyelõre semmi nem utal arra, hogy az informatikai piac elérte volna a mélypontot. Liddell összességében elégedett volt a vállalat teljesítményével, különös tekintettel a költségek kordában tartására, emellett kiemelte azt is, hogy a kíméletlen körülmények és a elbocsátások ellenére a vállalat termékfejlesztési jól haladnak. Most már biztos, hogy õsszel jön a Windows 7, a Windows Server 2008 R2 és az Exchange Server 2010, amelyet jövõ tavasszal követ az Office 2010 és az új SQL Server.

@@ -1,0 +1,16 @@
+Eddigi legnagyobb hálózati kapcsolóját jelentette be a Cisco
+
+A Cisco Systems bemutatta történetének legnagyobb kapcsolóját, a Nexus 7000 sorozatot, amelyet üzleti kritikus adatközpontokba szán. A Nexus nem csak egy teljesen új architektúrán alapuló termék, hanem várhatóan a jövõbeli fejlesztéseknek is ez lesz az alapja a Ciscónál, ráadásul a cég szerint egyedülállóan energiatakarékos is.
+
+
+
+A moduláris, hálózati architektúráját tekintve csomagvesztés-mentes felépítésû, 15 TBps belsõ sávszélességû Nexus 7000 egyetlen eszközben képes kezelni az Ethernet- és Fibre Channel over Ethernet (FCoE) forgalmat. A Nexus 7000 akár 512 darab 10 GBps sebességû Ethernet-portot is támogat, de a Cisco ígérete szerint a jelenleg fejlesztés alatt álló 40 és 100 GBps sebességû Ethernet szabványt is kezelni fogja majd.
+
+
+ A Nexus platform fejlesztése több mint 1 milliárd dollárba került és 1500 szabadalmat jegyeztettek be közben. Noha a Nexus 7000 egy monolitikus eszköz, akár virtualizálható is, így külön erõforrások rendelhetõk egy-egy feladathoz (pl. tárolóhálózat, tesztkörnyezet) amelyeknek akár az adminisztrációs személyzete is eltérõ lehet -- miközben mindegyik ugyanazt a kapcsolóhálózatot használja. Ez a virtualizálható architektúra a késõbbiekben a Cisco összes termékvonalában meg fog jelenni.
+
+
+
+Mindezt a vadonatúj NX-OS (Nexus Operating Systems) operációs rendszer segítségével valósítja meg a Cisco, amely az IOS kezelõfelületéhez szokott mérnökök számára már ismerõs lesz, azonban képességei jóval túlmutatnak az IOS-en, a Nexus például szolgáltatáskiesés nélkül újraindítható. A felügyeletet és használatot tovább egyszerûsíti, hogy a Nexus folyamatosan monitorozza magát és képes "öngyógyításra" is, egyes menedzsment-funkciókat pedig az ügyfelektõl származó visszajelzések alapján automatizált a Cisco.
+
+A Nexus 7000 ára 75 ezer dollártól indul, de a cég szerint a "tipikus" konfigurációk inkább a 200 ezer dollárt közelítik. A szállítások a második negyedévben kezdõdnek.

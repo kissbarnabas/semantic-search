@@ -1,0 +1,19 @@
+A Windows 7 kompatibilis videochip nélkül is futtatja a DirectX 10-et igénylõ szoftvereket
+
+[CustomPC/HWSW] A Windows 7 új grafikus motorja akkor is képes lesz kiaknázni a Direct3D-ben rejlõ lehetõségeket, ha nincs megfelelõ grafikus chip a gépben. Az ezt lehetõvé tevõ megoldást (lényegében egy software wrapper) a Microsoft WARP 10 névre keresztelte.
+
+
+
+A Microsoft weboldalán elérhetõ dokumentum szerint a WARP 10 megfelel majd a Direct3D 10 és 10.1 minden követelményének és támogatni fogja  minden elérhetõ funkcióját, akár nyolcszoros mintavételû élsimítást, anizotrópikus szûrést és minden opcionális textúraformátumot is. A minimum hardverigény egy egyszerû 800 MHz-es CPU, melyhez még MMX, SSE sem szükséges. Igaz, valamirevaló teljesítményt a többmagos, SSE 4.1-et is ismerõ processzoroktól lehet majd várni.
+
+Direct3D 10 szoftveresen is 
+
+Természetesen egy egyszerû asztali CPU nem lesz képes felvenni a versenyt még a középkategóriás grafikus gyorsítókkal sem, de a Microsoft szerint a WARP számos esetben kapóra jöhet, például ha a gépben egyáltalán nincs grafikus gyorsító (pl. szerver), vagy ha hibás a driver. Az alkalmazásfejlesztõk életét is megkönnyíti a WARP, ugyanis nem lesz szükség külön szoftveres renderelõrutinra, így elég egyetlen kódutat írni a megjelenítéshez, ami képes kihasználni a 3D gyorsítót, de nélküle is boldogul. 
+
+
+ A kiadott dokumentumban szerepelnek teljesítményteszek is: a Crysis játékot futtatják 800x600-as felbontásban a legalacsonyabb részletességi beállítások mellett másodpercenként mindössze 7 képkockás frissítési sebességgel futott egy 3 GHz-es Core i7 processzoron -- viszont ennél némileg lassabban (5,7 fps) megy az Intel chipkészletbe integrált, DirectX 10 kompatibilis videovezérlõjén.
+
+Az eredményekbõl látszik, hogy sem az ATI, sem az NVIDIA nem kell féljen a játékpiaci hegemóniájának megtörésétõl, és a Microsoft sem úgy tekint a WARP-ra, mint a dedikált grafikus chipeket leváltó megoldásra, hiszen me már néhány ezer forintért vásárolhatunk belépõkategóriás videokártyákat, amelyek négyszer-ötször nagyobb teljesítményre képesek egy csúcskategóriás CPU-nál. A megoldás segítségével egyszerûen csak mindenki számára elérhetõvé válik a Windows 3D gyorsítást igénylõ grafikus felülete, de hasznos lehet olyan üzleti célok esetében is, ahol a 3D nem kulcsfontosságú, de valamely alkalmazáson belül szükség lenne virtuális környezeteket vagy emulációkat megjelenítõ fejlettebb 3D grafikára.
+
+
+A processzorok és a grafikus chipek funkcionalitása egyre közelít egymáshoz, elõbbiek egyre inkább alkalmasak masszívan párhuzamosított kód hatékony futtatására, utóbbiakba pedig egyre rugalmasabban programozhatók. A WARP segítségével lehetõvé válik a DirectX 10 alkalmazásprogramozási interfészt használó szoftverek futtatása a processzoron. Persze ma még nevetséges sebességgel, de CPU-k teljesítménye évrõl évre javul -- sokan vélik úgy, hogy a PC-s grafika jövõje  a szoftveres renderelés lesz.

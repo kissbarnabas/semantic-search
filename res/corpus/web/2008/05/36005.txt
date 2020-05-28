@@ -1,0 +1,14 @@
+Biztonsági funkciókkal bõvült a Google Alkalmazások
+
+[Techworld] Távoli biztonsági funkciókkal bõvítette a Google szolgáltatáscsomagját, a Google Apps, azaz magyarul Google Alkalmazások kínálatát. A Google Web Security for Enterprise a levelek archiválásához és szûréséhez hasonlóan a Postini felvásárlásával került a cég kezébe, ezt kínálja most átdolgozva ügyfelei részére.
+
+
+
+A Google tavaly októberben vásárolta fel a Postinit, melynek szolgáltatásait, termékeit, megoldásait folyamatosan integrálja Google Alkalmazások csomagjába és teszi ingyenes, vagy fizetõs szolgáltatásként elérhetõvé. A Google Web Security nem csak a kártékony programok, internetes kártevõ ellen véd, de a távolról csatlakozó Google Apps felhasználókat is hasonlóan védi, mintha azok egy vállalati hálózaton lennének.
+
+
+A Google Alkalmazások elõfizetõje munkacsoportos, vagy vállalati internethasználati szabályokat alkothat, melyeket szintén a munkavégzés helyétõl függetlenül betartathat. A biztonsági szolgáltatás a többi Google Apps alkalmazáshoz hasonlóan webes felületû, így a vállalati hálózatra csatlakozás nélkül is igénybe vehetõ. Az arra jogosultak komplett riportokat kaphatnak a "dolgozók" internethasználatáról is.
+
+
+
+A Google Apps már nem csak akár garantált rendelkezésre állású postafiókot, online tárolt, megosztható dokumentumokat, naptárt, a Google Sitesszal létrehozott, kívülrõl is látható, vagy éppen intranetes oldalakat, vagy akár saját webes alkalmazások futtatásának lehetõségét biztosítja, de teljes vállalati levelezésünket is archiváltathatjuk a céggel. Mindehhez nem szükséges saját infrastruktúra, mindent a Google tárol, futtat.

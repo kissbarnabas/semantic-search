@@ -1,0 +1,38 @@
+Energiatakarékosság az adatközpontban: néhány egyszerû trükk
+
+A Gartner weboldaláról letölthetõ tanulmány szerint a vállalatok néhány egyszerû trükkel is sokat javíthatnak az adatközpontjaik hûtésének hatékonyságán, és ehhez nem feltétlen van szükség komoly áttervezésre vagy új berendezések vásárlására. Az elemzõcég azt állítja, már néhány egyszerûbb változtatással is kétszámjegyû százalékos csökkenés érhetõ el a hûtés energiaszükségletében.
+
+
+
+Légáramlás keretek között
+
+A Gartner elsõ tippje az álpadlón található rések és lyukak betömése, ezáltal megakadályozható a meleg és a hideg levegõ keveredése -- már ezzel 10 százalékkal csökkenthetõ a hûtésre fordított energia a Gartner szerint. Az álpadló alatt is érdemes rendet tenni, gyakran az itt futó csövek, kábelek kuszasága olyan mértékben rontja a légáramlást, ami már komoly többletköltséget jelent. Ugyanezért fontos, hogy a rackszekrényekben se torlaszolja el a levegõ útját a "kábeldzsugel".
+
+"Nem véletlen, hogy az adatközpontokkal foglalkozó ajánlások, mint pl. a TIA/ANSI 942 szabvány, álpadlós környezetben is felsõ kábelezés alkalmazását javasolja" -- mondta a HWSW-nek Szarka Attila, a hûtési megoldásairól ismert APC by Scheider Electric rendszermérnöke. " Ahol álpadló alatt vezetik a kábeleket, érdemes foglalkozni azokkal a rackszekrények alatti kivágásokkal, amelyek a kábelek átvezetésére szolgálnak. Ezek a nyílások komoly veszteségeket okoznak az álpadló alatti statikus nyomásban és így a hûtésben is."
+
+A kábelek ne akadályozzák a szabad légmozgást!
+
+Szintén a légáramlás hatékonyságát hivatott fokozni a rackszekrényekben a be nem töltött helyek lezárása. A szerverek közti réseken a gépek által felmelegített meleg levegõ kiáramlik, és könnyen összekeveredhet a hideg levegõvel. A Gartner szerint a vaklapok (blanking panel) anélkül csökkenthetõ a hûtõlevegõ hõmérséklete, hogy magukhoz a hûtõberendezésekhez hozzá kellene nyúlni. Az APC mérései szerint a vaklapok hiánya akár 10 Celsius fokkal magasabb hõmérsékletet is okozhat a szerverek légbeömlõ nyílásain.
+
+A vakpanel akár 10 fokos hõmérsékletcsökkenést is eredményezhet
+
+A melegebb néha jobb
+
+Meglepõ, de a Gartner szerint érdemes lehet néhány fokkal megemelni az adatközpont hõmérsékletét. A géptermeket gyakran túlhûtik ugyanis a cégek, és könnyen lehet, hogy pár fokkal magasabb hõméréskleten a berendezések ugyanúgy tudnának mûködni, és a CRAC (Computer Room Air Conditioning) egységek a nagyobb hõmérsékletet kisebb teljesítményfelvétel mellett is tartani tudnák. "A géptermek túlhûtését azért szokták alkalmazni, hogy emeljék a hûtési kapacitást, ez azonban csak látszólag következik be, többnyire drasztikusan romlik a hûtés hatásfoka és megnõ a párásítási igény, ez pedig növeli a költségeket" -- mondta Szarka.
+
+
+ Sok CRAC egység fix fordulatszámú ventilátorral rendelkezik, ezeket érdemes lehet változó fordulatúra csererélni. Tíz százalékkal alacsonyabb fordulat már 27 százalékkal kisebb energiafelvételt jelent, 20 százalékos fordulatszámcsökkenés pedig 49 százalékos megtakarítást jelent.
+
+A Gartner azt javasolja a cégeknek, gondolják át a hideg és meleg sorok alkalmazását. Sok adatközpontban a rackszekrények egymás mögött  helyezkednek el, így az egyik szekrényben az eszközök pont a mögöttük levõ szekrénybe fújják be a felmelegített levegõt -- így az keveredik a hideg levegõvel, felmelegítve azt. A hideg és meleg sorok esetén a rackszekrények egymással szemben foglalnak helyet. Ennek a módszernek a második lépése a hideg és meleg sorok teljes különválasztása, így a meleg és a hideg levegõ még kevésbé tud keveredni.
+
+Hideg és meleg sorok, a CRAC egységek a sorokban
+
+ A hõmérséklet szempontjából problémás helyekre érdemes lehet érzékelõket telepíteni. Habár maguk a szerverek és tárolók is rendelkeznek hõmérõkkel, ezek csak a gép belsejének állapotáról szolgáltatnak adatokat. A Gartner szerint sokat segíthet néhány egyszerû hõmérõ elhelyezése is, amik adatait akár egyszerûen egy táblázatben vezetve is sok információ nyerhetõ a hûtés mûködésérõl és hatékonyságáról, illetve az adatközpontban zajló termikus folyamatokról.
+
+"Sok adatközpontban a falakra, rackszekrények mellé telepítenek érzékelõket. Noha ezek az érzékelõk tájékoztathatnak a teremben uralkodó hõmérsékleti viszonyokról, nem nyújtanak pontos információt arról, hogy az informatikai eszközök milyen levegõt szívnak be" -- mondta Szarka Attila. "Éppen ezért érzékelõket a rackszekrények ajtajára, a szerverek légbeszívó nyílásai elé érdemes telepíteni, ráadásul a teljesítménysûrûségtõl függõen  egy rackbe akár többet is. Az ASHRAE Technical Commitee 9.9 ajánlása rackenként három szenzor, egy alul, egy felül, egy középen."
+
+Moduláris hûtés
+
+A legnagyobb haszonnal járó, ugyanakkor valószínûleg a legköltségesebb tanács a Gartnertõl a moduláris hûtésre való átállás. A monolitikus légkondícionálókat érdemes lehet a racksorokba, esetleg magukba a rackszekrényekre beilleszthetõ hûtõkre cserélni, ami látványosan javítja a hûtés hatékonyságát.
+
+"Kétségtelen, hogy a nagy teljesítménysûrûségû alkalmazásokat is hatékonyan kiszolgálni képes hûtési megoldások beruházási költsége magasabb, mint a hagyományos teremhûtõké, de érdemes megvizsgálni egy ilyen rendszer teljes bekerülési költségét is" -- vélekedett Szarka. "Olyan kiemelkedõ hatékonyságú rendszerekkel, mint például az APC InRow hûtési megoldás, akár 30-40 százalékos  megtakarítást is el lehet érni, ami a mai energiaárak mellett a magasabb vásárlási ár többszörös megtérülését is jelentheti egy adatközpont 10-12 éves élettartama alatt."

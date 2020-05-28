@@ -1,0 +1,18 @@
+Még zöldebb szünetmentes tápegység az APC-tõl
+
+Vigyáz a pénztárcánkra az APC új szünetmentes tápegysége, a Back-UPS ES 750 ugyanis nem csak adataink sérülésétõl óv meg minket hirtelen áramszünet esetén, hanem azt is érzékeli, ha alvó üzemmódba került számítógépünk. Ebben az esetben kikapcsolja a hozzá csatlakoztatott perifériákat, nyomtatókat, szkennereket, monitorokat, vagy éppen hangszórókészleteket, további energiát spórolva.
+
+
+
+Az új szünetmentes tápegységen a "mester" csatlakozóhoz kell kapcsolnunk számítógépünket, ennek áramfelvételét figyeli a készülék elektronikája, ez alapján dönti el, hogy számítógépünk éppen mûködik, vagy alvó üzemmódba került. Amennyiben az utóbbi állapotot érzékeli, a vezérelt csatlakozókról lekapcsolja az áramot, így a számítógép mellett mûködtetett perifériák is kikapcsolódhatnak.
+
+Ezeknek az üres fázisoknak a megszüntetésével az APC szerint komoly mennyiségû energiát lehet spórolni. A cég számításai szerint éves szinten körülbelül 40 dollárnyi energia takarítható meg egy átlagos háztartásban, így a 99 dolláros ajánlott árú készülék bekerülési költsége 2,5 év alatt megtérülhet.
+
+Bár a perifériák egy része, például a monitorok automatikusan is képesek minimális energiafelvételt biztosító alvó üzemmódba kerülni, számos más készüléket erre nem készítettek fel. Egy bekapcsolva hagyott fejletlenebb hangszórókészlet, egy tintasugaras vagy lézernyomtató több tíz wattnyi energiát is elfûthet teljesen feleslegesen, éves szinten jelentõs összeget kiemelve a pénztárcánkból. Hosszabb távon a kisebb fogyasztók, például az USB-porton keresztül táplált webkamera is viszonylag sok energiát fogyaszthat.
+
+
+
+
+A Back-UPS ES 750 tíz csatlakozójának mindegyike védett a túláram ellen, azonban csak ötöt bíztosít a beépített akkumulátor áramkimaradás esetén. A 450 wattos teljesítmény a számítógép áramfelvételétõl függõen néhány perces, vagy akár több mint egy órás áthidalást is jelenthet. A készülék megvédhet az Ethernet, vagy koax (kábelmodem) kábelen érkezõ áramlökésektõl is.
+
+Az APC szerint a szünetmentes tápegység hatékonyabban használja fel az energiát, mint más UPS termékek, és megfelel a zöldek kívánságainak is azzal, hogy teljesíti a RoHS szabályozás követelményeit, azaz kevesebb rezet és káros anyagokat tartalmaz, vagy használnak fel a gyártás során. Utóbbi nélkül Európában már piacra sem kerülhetne. A csomagolás is újrahasznosított anyagokból készül.

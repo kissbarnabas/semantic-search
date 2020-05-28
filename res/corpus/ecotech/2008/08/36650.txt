@@ -1,0 +1,12 @@
+Milliárdokat pazarol el az állam felesleges szerverekre
+
+Szervervirtualizáció segítségével hatalmas megtakarításokat érhetnének a költségvetési szervek, véli a Polygon. A magyar informatikai rendszerszállító cég szerint ezt a kiszolgálók rendkívül alacsony átlagos kihasználtsága magyarázza, mellyel nemcsak felesleges beszerzési és felügyeleti költségek képzõdnek, de az energiapazarlás is drámai méreteket ölt.
+
+
+
+A Bell Research adataira alapozva a Polygon úgy becsli, hogy a közintézményeknél üzemelõ nagyjából 23 ezer szerver energiafogyasztása  alsó hangon 1,3 milliárd forintot tesz ki. A cég szerint ez pazarlás, ugyanis a a legtöbb szervezetnél még ma is úgy gondolkodnak, hogy minden egyes szerverfeladatra (e-mail, fájl, web, adatbázis, alkalmazások stb.) külön hardvert üzemelnek be, és ez rendkívül alacsony kihasználtsághoz vezet. A Polygon szerint ilyen környezetben a szerverek kapacitásainak kihasználtsága 10 százalék alatti, vagyis idejük 90 százalékát üresjáratban töltik. Ez a jelenség az olcsó x86-os tömegszerverek megjelenésével burjánzott el, szemben a sokkal tervezettebb RISC és mainframe korszakokkal.
+
+A szerverek konszolidációjával, melyhez többek közt virtualizációs technikák kínálnak eszközöket, nagyjából akár 8-15 szervert is kiszolgálhat egyetlen megfelelõ teljesítményû, ami a már jól ismert megtakarításokhoz vezet: kevesebb szervergépen kívül kisebb munkaerõ-ráfordítás, lényegesen kedvezõbb energiafogyasztási és hûtésdíjak, valamint kisebb helyigény. A Költségvetési intézményeknél 7,5 ezer szerver üzemel a 23 ezerbõl, és 3 év alatt a megtakarítás elérhetné akár az egymilliárd forintot is. A korrektség jegyében ugyanakkor megjegyzi a cég, hogy a kormányzati intézményeknél számos igénynek és elõírásnak kell megfelelni, melyek gátját állhatják a az optimális mûszaki kialakításnak.
+
+
+Az IDC egy európai felmérése arra a következtetésre jutott, hogy azok a vállalatok, melyek meg megtapasztalták a virtualizációban rejlõ elõnyöket, azoknál rohamosan terjed annak alkalmazása. Azok a cégek, melyek alkalmaznak már éles környezetben virtualizációt, a tavaly megvásárolt szervereik több mint harmadát virtualizálták, idén pedig már több mint a felét fogják -- a legfontosabb mozgatóerõ a költségek csökkentése. A magas számok az IDC-t is meglepték. A kutatás alapján bizalmi alapon a vállalatok 82 százaléka alkalmaz VMware-t, ezzel toronymagasan vezet a 13 százalékos penetrációjú Microsoft elõtt -- a válaszadók 14 százaléka virtualizál UNIX vagy mainframe környezetben.

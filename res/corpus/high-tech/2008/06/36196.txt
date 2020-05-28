@@ -1,0 +1,25 @@
+A chipek között áramoltatja a vizet az IBM új hûtési megoldása
+
+Az IBM zürichi kutatólaboratóriuma a berlini Fraunhofer Intézet segítségével olyan megoldást dolgozott ki, amely segítségével hatékonyan hûthetõk a stackelt chipek, megnyitva az utat azok tömeges alkalmazása elõtt.
+
+
+
+A chipek közvetlen egymásra építése, vagyis stackelése révén jelentõs teljesítménynövekedés érhetõ el, ugyanis a lapkákat összekötõ vezetékek hossza ezzel legalább egy nagyságrenddel csökken. Ugyanakkor a nagy teljesítményû lapkák hûtése eddig szinte leküzdhetetlen feladat elé állította azt az ipart, amelynek ma már egy-egy forrófejû processzor hûtése is komoly próbatétel, több, egymásra épített ilyen chip hõtermelésének kezelése pedig leküzdhetetlen feladatnak tûnt.
+
+A chipek között áramlik a víz
+
+Minél több chipet építünk egymásra, annál nagyobb teljesítményt érhetünk el, de annál nehezebb feladat a hûtés is, mivel az egymásra "rétegezett" lapkák gátolják a hõ leadását. Az IBM mérnökei most olyan hûtési megoldást alkottak, amely közvetlenül a chiprétegek között, hajszálvékony vezetékekben áramoltatja a vizet, így vezetve el a disszipált hõt. A kísérletek szerint ezzel a módszerrel négyzetcentiméterenként akár 180 wattos energiakibocsátással is megbirkózik, miközben mindössze 100 mikron, azaz 0,1 milliméter vékony.
+
+
+ "Ez igazi áttörés. A klasszikus hûtési megoldásokkal már kettõ nagy teljesítménysûrûségû logikai IC stackelése is lehetetlen lenne" -- mondta Bruno Michel, az IBM laboratóriumának hûtésekkel foglalkozó kutatómérnöke. 
+"Annak érdekében, hogy ki tudjuk aknázni a 3-D chip stackelés elõnyeit, olyan hûtésre van szükségünk, ami a rétegek között helyezkedik el" -- tette hozzá Thomas Brunschwiler, az IBM zürichi kutatólaborjának projektvezetõje. "Egészen mostanáig senki sem mutatott be mûködõképes megoldást erre a problémára."
+
+
+
+A kutatócsapat olyan kísérleti megoldást hozott létre, amely egyfelõl a lehetõ legtöbb folyadékot képes áramoltatni a 10 ezer elektromos vezetõ körül, de mégis tökéletesen szigetelt, nem okoz zárlatot. Ennek kulcsa a szilíciumból készült vezetékek köré szilíciumdioxidból "épített" fal, amely kizárja a vizet. Az ilyen vízhatlan vezetékekkel összekötött chipeket végül egy kis tartályba merítik, amelyben a víz az egyik sarokból a másikba áramlik, és áthalad a chipek közötti rétegeken is, hûtve azokat. A csapat a jövõben azon kezd dolgozni, hogy sokkal több vízhatlan vezetéket tudjanak létrehozni az egyes chiprétegek között.
+
+Korábbi IBM fejlesztések a hûtés területén
+
+Az IBM zürichi kutatólaboratóriuma már több innovatív hûtési megoldással is elõrukkolt az elmúlt években -- 2006 õszén két emlékezeteset is bemutattak. A "nagy hõvezetõképességû interfész technológia" (high thermal conductivity interface technology) projekt keretében az IBM mérnökei egy olyan "sapkát" fejlesztettek ki, amelynek felületében mikroszkopikus méretû csatornákat képeztek ki, amelyek a lehetõ legegyenletesebben terítik el a hõvezetõ pasztát a chip és a hûtõborda között, ezáltal akár tízszeresére javítva a hõátadás hatákonyságát.
+
+A másik megoldás már folyadékkal mûködik: a melegedõ chipek hátára hõtõfolyadékot -- jelen esetben vizet -- permeteznek, amely aztán elpárolog, ezáltal hõt vonva el. A rendszer teljesen zárt, az elpárolgott hûtõfolyadék egy fa-szerû struktúrában csapódik le ismét, amelynek köszönhetõen a rendszer "keringetése" nem igényel sok energiát. Az IBM laboratóriumában már mûködõ megoldás 50 ezer apró csõbõl állt és a kutatók szerint négyzetcentiméterenként akár 370 wattos hõleadásig is használható.

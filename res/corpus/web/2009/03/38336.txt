@@ -1,0 +1,14 @@
+Befutott a Firefox 3.1(5) harmadik bétája
+
+A Mozilla tegnap többszöri halasztás után végül elérhetõvé tette a Firefox webböngészõ új, 3.1-es változatának harmadik bétáját. A program megjelenését leginkább a TraceMonkey nevû JavaScript-motor elhúzódó fejlesztése késlelteti -- korábban az is felmerült, hogy ezt a komponenst kihagyják a böngészõbõl, a fejlesztõk azonban ezt a lehetõséget elvetették, helyette 3.1-rõl 3.5-re változtatták a verziószámot, ezzel érzékeltetve, hogy az új Firefox jelentõs újdonságokat hoz a korábbi változatokhoz képest.
+
+
+
+A mostani, harmadik bétakiadás verziószáma még maradt a régi, a következõ -- eredetileg nem tervezett -- negyedik béta azonban már a 3.5b4 számozással jelenik meg, egy egyelõre konkrétan meg nem határozott idõpontban. A negyedik béta beillesztése az ütemtervbe jól jelzi, hogy a Shiretoko munkacímen futó böngészõ fejlesztése a vártnál jóval tovább húzódik: a Mozilla október közepén adta ki a böngészõ elsõ bétáját, december közepén pedig a másodikat. A harmadik bétaváltozat megjelenését eredetileg január közepére datálták, a TraceMonkey nevû új, villámgyors JavaScript-motorban felfedezett, tucatnyinál is több súlyos hiba kijavítása azonban jóval tovább tartott a vártnál.
+
+A harmadik bétánál elsõsorban ennek a komponensnek a kipofozására koncentráltak a programozók, emellett fejlesztették a többek által pornómódként aposztrofált privát böngészési funkciót, gyorsabb lett a weboldalak megjelenítéséért felelõs Gecko motor, illetve bekerült néhány új webes technológia és szabvány (pl. W3C Geolocation API, CSS 2.1 és 3.0) támogatása a repertoárba. A böngészõ harmadik bétaváltozata a korábbi információknak megfelelõen nem tartalmaz új, lényeges komponenseket, funkciókat a korábbi tesztváltozatokhoz képest.
+
+
+Nem lesz ez másképp várhatóan a 3.5-ös verzió negyedik bétájánál, illetve az azt követõ kiadásra jelölt változatoknál sem. Bár az eredeti tervek szerint az új Firefoxnak még az elsõ negyedévben meg kellett volna jelennie, mostanra teljesen kizártnak tûnik, hogy a böngészõ idõben elkészül. 
+
+A Microsoftnál közben január végén elkészült az Internet Explorer 8.0 kiadásra jelölt változata, melynek egyelõre nem közölték hivatalosan a megjelenési idejét. A véglegesített kód kiadása azonban azt vetíti elõre, hogy a kész program hamarosan megérkezik -- egyes, jól értesül források szerint a böngészõ végleges változatát már a jövõ héten kiadja a Microsoft.

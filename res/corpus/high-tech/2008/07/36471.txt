@@ -1,0 +1,16 @@
+Egyszer írható memóriakártya segítheti a törvényszékek és a hatóságok munkáját
+
+A hatóságok, törvényszékek és más, kritikus feladatokat ellátó szerveknél használt, analóg kép- és hangrögzítõrendszereket leváltó digitális megoldások egyik legaggályosabb velejárója az adatok manipulálásának lehetõsége -- ez a probléma már az analóg korszakban is problémássá, vagy éppen lehetetlenné tette például egy (mozgó)kép vagy hangfelvétel perdöntõ bizonyítékként történõ felhasználását. A SanDisk most, a könnyen manipulálható digitális adathordozók korszakában mégis megtalálta a megoldást erre a problémára, az egyszer írható memóriakártya, az SD WORM képében.
+
+
+
+A SanDisk SD-formátumú WORM (Write Once Read Many) memóriakártyájának elsõsorban olyan hatósági, törvényszéki, esetleg egészségügyi területeken lehet majd hasznát venni, ahol kritikus fontosságú, hogy az adatok rögzítése után ne lehessen azokat módosítani. Az új típusú kártya így a rendõrségi nyomozások vagy bírósági tanúvallomások során rögzített kép és hangfelvételek biztonságos tárolását szavatolja, ugyanakkor más területeken, például az elektronikus szavazásnál is hasznát vehetik a kormányzati szervek. A WORM-kártya a rögzítéstõl számított 100 évig szavatolja az információk biztonságos tárolását.
+
+Kitörölhetetlen, megváltoztathatatlan
+
+Az egyszer írható SanDisk memóriakártya -- ahogy arra neve is utal -- az adatok rögzítése után semmilyen lehetõséget nem ad a törlésre vagy a módosításra, a technológia így alapjaiban különbözik a hagyományos, flashalapú kártyáktól, jellegét tekintve leginkább az MROM-hoz (mask read-only memory) hasonlít, ezeket a memóriákat azonban csak a gyárban lehet megtölteni adattal. A WORM-kártya egyik legnagyobb elõnye, hogy a formátumát tekintve kompatibilis a jelenleg elterjedt kártyatípusok egyik legnépszerûbb változatával, a Secure Digital kártyával. Az SD kártyanyílással rendelkezõ eszközök így egytõl-egyig képesek olvasni az egyszer írható kártyára mentett adatokat, írni viszont csak a mikrokód módosítása után tudják a kártyát.
+
+
+A SanDisk a technológia gyors térhódítása érdekében szoros együttmûködést remél a digitális fényképezõgépek, diktafonok, orvosi eszközök és más digitális megoldások gyártóival, így azok a lehetõ leghamarabb felkészíthetik már meglévõ vagy új eszközeiket a WORM-kártya írására. Az amerikai gyártó ezzel együtt szeretné kilobbizni az illetékes szabványalkotó testületnél, az SD Card Associationnál, hogy az egyszer írható SD memóriakártya mielõbb ipari szabvánnyá váljon.
+
+Az egyszer írható memóriakártya egyelõre kizárólag 128 megabájt kapacitással érhetõ el, de még idén érkeznek belõle több adat tárolására is képes változatok. A gyártó az egyedi megrendelések alapján határoz meg árat a WORM-kártyára, mely jó eséllyel soha nem kerül kiskereskedelmi forgalomba.

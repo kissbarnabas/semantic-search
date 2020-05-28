@@ -1,0 +1,16 @@
+Lassan indulnak a WiMAX-alapú mobilhálózatok a tengerentúlon
+
+Az Acert követõen a Lenovo is útnak indította elsõ olyan noteszgépeit, melybe WiMAX-modult építettek. A cég ThinkPadjei a így akár 4 megabit/másodperces letöltési adatsebességet is elérhetnek a rádióadó hatókörében -- a dolog egyetlen szépséghibája, hogy WiMAX-alapú szolgáltatás egyelõre csak a tengerentúlon mûködik, és ott is csak egyetlen városban.
+
+
+
+Az elõzetes terveknek megfelelõen a kínai Lenovo is felszereli kombinált Wi-Fi/WiMAX modullal az Egyesült Államokban kapható noteszgépeit, mégpedig a nyáron bejelentett, Centrino 2-alapú ThinkPad X301, T400, SL500 és SL300 családok néhány tagját. Az új -- a széles lefedettség miatt egyes szolgáltatók által negyedik generációs mobilhálózatnak is tekintett -- kommunikációs szabványra épülõ szolgáltatás egyelõre csak az USA keleti partján, Baltimore-ban érhetõ el. WiMAX-adókat a tervek szerint a következõ körben Washington D.C.-be és Chicago-ba telepít a Sprint.
+
+A Sprint által üzemeltetett, Xohm-nak keresztelt WiMAX-szolgáltatás szeptember végén indult, mint az ország elsõ, WiMAX-alapú kereskedelmi mobilinternet-hálózata. A szolgáltató 80 dollárért modemet, 60 dollárért pedig noteszgépekbe passzoló bõvítõkártyát kínál ügyfeleinek, akik 10 dolláros napidíjért, illetve 25 vagy 30 dolláros havidíjért (attól függõen, hogy asztali számítógéppel vagy noteszgéppel használják a szolgáltatást) netezhetnek WiMAX-technológiával.
+
+Lenovo X301
+
+
+A Lenovo WiMAX-modullal ellátott számítógépeinek vásárlói megspórolhatják a fentebb említett kártyamodem árát -- a legolcsóbb, WiMAX-kommunikációval szerelt noteszgép 720 dollárért vihetõ haza a helyi kereskedõktõl. A Lenovo a jelek szerint továbbra is töretlenül bízik az új technológia térnyerésében: a vállalat tartja azt a tervét, hogy kínálatát újabb WiMAX-kompatibilis modellekkel egészíti ki az év végéig. A kibõvített kínálatban így szerepelni fognak az X200, W700, W500 és LS420-as sorozatú ThinkPadek bizonyos konfigurációi, továbbá az IdeaPad Y530 is.
+
+Az Acer a Lenovo elõtt pár nappal jelentette be, hogy az Aspire sorozatban útjára indítja az elsõ WiMAX-kompatibilis noteszgépeit, melyek egyelõre szintén csak a Baltimore-ban élõk számára bizonyulnak majd hasznosnak. A speciális Aspire 4930, 6862, 6930 és 6771 konfigurációk a Lenovo üzleti megoldásaival szemben elsõsorban otthoni, egyéni felhasználóknak készülnek, áruk 900 dollárról indul.

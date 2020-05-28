@@ -1,0 +1,14 @@
+A Hitachi szállítja legújabb noteszgép-merevlemezét
+
+A Hitachi tegnaptól szállítja legújabb 2,5 hüvelykes merevlemezét, mely 320 gigabájtnyi adat tárolására elegendõ kapacitású. Az új tároló tányérjai 7200  fordulatot tesznek meg percenként és 22 százalékkal kevesebb energiát fogyasztanak a korábbi modellhez képest.
+
+
+
+A Hitachi normál méretû, azaz kilenc milliméter magas, 7K320 modellszámmal ellátott 320 gigabájtos noteszgép-merevlemeze a gyártó ötödik generációs megoldása, a korábbi modellekhez képest 22 százalékkal kevesebb energiát igényel a mûködéshez. A tároló percenként 7200 fordulaton pörgeti a lemeztányérokat és igény szerint titkosító áramkörrel szerelt változatban is elérhetõ.
+
+
+A Hitachi 7K320 a noteszgépeken kívül a gyártó állítása szerint egyéb hardverkörnyezetben is képes maradéktalanul helytállni, ezek között nem csak az apró asztali megoldások szerepelnek, hanem akár videomegfigyelõrendszerek és blade szerverek is. A merevlemez a rázkódásnak igen sikeresen áll ellen, nagy valószínûség szerint a beépített aktív védelemnek köszönhetõen akár 400G üzem közbeni ütõdés sem árt meg neki.
+
+
+
+A Hitachi nem az elsõ és egyetlen gyors 2,5 hüvelykes merevlemezt elõállító vállalat, a Fujitsu a múlt hónap végén jelentette be MHZ2 CJ SATA-csatolójú merevlemez sorozatát, amelyek 256 bites Advanced Encryption Standard (AES) titkosítás alkalmazásával rögzítik a rájuk másolt adatokat. Az öt tagból álló Fujitsu sorozat 80 gigabájtos modellel indul, a kapacitás felsõ határa 320 gigabájt. Mindegyik merevlemez 7200-as percenkénti fordulaton pörgeti a tányérokat és maximum három gigabites adatátviteli sebességre képesek másodpercenként, utóbbi igaz a tegnaptól 220 dolláros áron piacra került Hitachi tárolóra is.

@@ -1,0 +1,16 @@
+Rendkívüli biztonsági foltozást ad ki a Microsoft az Internet Explorerhez
+
+Soronkívüli biztonsági frissítés kiadására kényszerül ma a Microsoft az Internet Explorer egy különösen súlyos sebezhetõsége miatt. A rést kiaknázó exploitok a decemberi patch kedd óta jelentek meg egyre nagyobb tömegben, miután a bûnözõk azt látták, a Microsoft nem vette észre azt -- egyértelmû lett, hogy a vállalatot váratlanul fogják érni a támadások, és idõbe kerül, mire reagálnak.
+
+
+
+Múlt héten az elmúlt évek legnagyobb biztonsági frissítéshullámát indította el a Microsoft a decemberi patch kedden, összesen 28, többségében kritikus besorolású sebezhetõséget foltozva be a cég szoftvereiben. Nem volt ez alól kivétel az Internet Explorer sem, melyben négy kritikus rést tömtek be a frissítések. A patchek kiadását követõen azonban azonnal felbukkantak 0-day exploitok, fõleg Ázsiában, bár a kezdeti támadó kódok mindössze az esetek harmadában mûködtek. A biztonsági rés a böngészõ HTML-megjelenítõ motorjában található, és a span HTML-tag segítségével használható ki.
+
+Kezdetben a Microsoft úgy hitte, a sebezhetõség kizárólag az 7-es IE-t érinti, rövidesen kiderült azonban, hogy minden eddigi változatát is, beleértve az Internet Explorer 5.01-et és az Internet Explorer 8 Beta 2-t is. Az eddig látott támadókódok ugyanakkor az Internet Explorer 7-re koncentrálnak, mivel ez a legelterjedtebb változat az összes közül. Redmond ma elismerte azt is, hogy az Outlook Expressen keresztül is indítható sikeres támadás, hiszen az IE motorját használja a HTML-üzenetek megjelenítésére.
+
+Az elsõ támadásokat még fõleg warez- és pornóoldalakról indították, azonban a Microsoft blogja szerint egyre több legitim weboldalt -- köztük egy tajvani keresõt -- is uralmuk alá hajtottak a bûnözõk -- általában SQL-beszúrással -- és csapdát állítottak az IE7-tel érkezõ felhasználóknak. A Trend Micro becslései szerint a hétvégére világszerte már több mint 6 ezerre nõtt a fertõzött oldalak száma és egyre emelkedik. A támadásokról szóló jelentések kétharmada már az Egyesült Államokból érkezik.
+
+
+Az elõzetes értesítés alapján frissítés érkezik ma a Windows 2000, XP, Vista, Server 2003 és Server 2008 operációs rendszereken futó IE5.01, IE6 és  IE7 böngészõkhöz. Az IE8 beta 2 egyelõre nem támogatott, azonban ehhez is érkezik frissítés a cég ígérete szerint. Biztonsági szakértõk az Update szolgáltatásokon keresztül érkezõ frissítés telepítéséig alternatív böngészõk használatát javasolják.
+
+Ez rövid idõn belül a második eset, hogy a Microsoft rendkívüli biztonsági kiadásra kényszerül. Legutóbbi októberben fedezett fel egy hibát a cég, már megindult támadások alapján, mely hiba a hálózati erõforrások kezeléséért felelõs Windows Server szolgáltatásban húzódott meg. Megfelelõen megtervezett kommunikációval túlcsordulásos technikával támadható, a veszély abban rejlik, hogy egy megfertõzött gép a tûzfalakkal többnyire belül nem védett helyi hálózatokon terjedhet szét. A sebezhetõséget a Windows 2000, Windows XP és Windows Server 2003 esetében kritikusnak, a Vista és a Server 2008 szempontjából viszont közepesnek minõsítette a Microsoft.

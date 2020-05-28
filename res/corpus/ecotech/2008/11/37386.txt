@@ -1,0 +1,32 @@
+Az egészségügy lehet a következõ informatikai csatatér
+
+Óriási üzlet az egészségügy az Egyesült Államokban -- állítják a szakértõk, s nem is tévedhetnek olyan nagyot, hiszen az ország GDP-jének 15 százalékát költik gyógyulásra és egészségmegõrzésre minden évben. Probléma ugyanakkor, hogy a pénz markáns részét nem hatékonyan költik el. A legtöbb fejlett országban kevesebbet fordítanak erre a célra, mégis jobban teljesítenek a felmérések szerint.
+
+
+
+Az USA-ban is pazarló az egészségügy
+
+Ezt a pazarlást szemelték ki az elmúlt években a technológia cégek, s a saját iparágukban kidolgozott termelékenység- és hatékonyságnövelõ módszereket most átdolgozzák az egészségügy igényeit szem elõtt tartva. Ennek a folyamatnak egy jelentõs állomása lehet, hogy a világ legnagyobb chipgyártója, az Intel is bemutatott egy orvosi megoldást, a "Health Guide" nevû platformot, amivel a távoli betegápolás válik egyszerûbbé.
+
+A platform egyik eleme a Health Guide PHS6000 "teleorvosi" egység, melyet a hitelesített kiegészítõkkel együtt számtalan funkcióra alkalmassá lehet tenni. A vérnyomás- és a vércukorszint-mérés mellett a tüdõfunkciót és egyéb élettani változókat lehetséges folyamatosan monitorozni anélkül, hogy külön emberi segítségre lenne szüksége a páciensnek. Az eszköz a mérések adatait eltárolja, majd rendszeres idõközönként megosztja õket a rendelõben lévõ rendszerrel, megspórolva a felesleges orvos-beteg találkozásokat.
+
+Hétköznapi informatika 
+
+Barátságos robotnõvér
+
+A készülék a barátságos megjelenésen túl webkamerával és érintõképernyõvel is kedveskedik a fõként idõs felhasználóknak, akiknek nem elemük a billentyûzettel gépelés. A Microsoft hasonló megoldásával a "HealthVaulttal" viszont egyáltalán nem kompatibilis, hiszen mindkettõ teljesen zárt, egymástól távoli rendszer, bármilyen átjárhatóságot vagy szabványosságot nélkülözve.
+
+A redmondiak ezúttal is igyekeztek összekapcsolni a már meglévõ szolgáltatásaikkal az újat, így a Live keresõ egy speciális változata a "Live Search Health" segíti a felhasználókat a tematikus keresésben, különbözõ egészségügyi problémákkal kapcsolatos információk megtalálásában. Ez ugyan messze nem forradalmi lépés, mégis megkönnyíti és hatékonyabbá teszi az orvos-beteg kommunikációt, illetve egyfajta lehetõséget biztosít a betegek és az orvosok egymás közti kommunikációjára a blogok, fórumok, szaklapok összegyûjtésével. 
+
+Mellette természetesen az Intel betegfigyelõ megoldásához hasonló rendszert is magában foglal a 2007 októberében bemutatott Microsoft HealthVault. Az egyes páciensek információit itt viszont nem kizárólag önmaguk vagy az orvos érheti el, hanem a hitelesített LiveID vagy OpenID beléptetés révén a szülõk a gyermekeik minden orvosi adatát láthatják, vagy a felnõttek idõs szüleik életét kísérhetik figyelemmel.
+
+Informatika: élet, erõ, egészség?
+
+Az efféle eszközök terjedése minden jóslat szerint komoly lökést kap majd, amikor is egyre kevesebb pénzbõl kell megoldani egyre több ember ellátását, lehetõség szerint egyre magasabb színvonalon. Ez a kihívás lehet az informatikai cégek egyik kiugrási pontja a következõ évtizedben, ami abból is látszik, hogy a klasszikus egészségügyi szereplõk felé olyan globális óriások hajoltak, mint az Intel és a Microsoft. 
+
+
+Eközben hazánkban is zajlik egy evolúció, de jelenleg nem tartunk ott, hogy az egyetlen problémánk az online betegfigyelés lenne. A Pannon és a Datamed épp a mai napon mutatta be egészségügyi adatkommunikációs megoldását, mely egy hazánkban régóta létezõ problémát próbál meg teljesen feloldani.
+
+"Magyarországon az orvosoknak évek óta kötelezõ elektronikus formában rögzíteni a beteg kezelésének bizonyos adatait. A betegek orvosszakmai adatai tehát elektronikus formában rendelkezésre állnak, földrajzilag elkülönítetten, eltérõ egészségügyi informatikai rendszerekben. Ezen rendszerek jelenleg nem kompatibilisek egymással, a bennük lévõ adatokat csak az adott rendszert helyben használó személyzet tudja kinyerni, többnyire kizárólag nyomtatott formában" -- olvasható a Datamed honlapján. A most debütált rendszer segítségével a háziorvosok, kórházak és a páciensek egységes rendszerbe kapcsolhatóak. Így a leletek, egyéb orvosi dokumentumok immár elektronikus úton küldhetõek tovább. 
+
+A tengerentúliak ezen a körön ugyan már túlvannak, de az ottani szaksajtó szerint az õ szintjükön is csak annyi biztos, hogy a gálánsan belépõ nagycégeknek sikerül pótolni a túlzsúfolt IT-piacon elszenvedett bevételkieséseiket, azzal kapcsolatban viszont megoszlanak a vélemények, hogy a ennek révén mindenki egészségesebb lesz-e vagy csupán kevesebb pénzbõl is fenntartható lesz a mostani állapot.

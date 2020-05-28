@@ -1,0 +1,12 @@
+Az AMD után az NVIDIA is kétprocesszoros grafikus megoldással erõlködik
+
+Új felsõ - és csúcskategóriás grafikus megoldásokat mutatott be az NVIDIA, válaszul a februárban piacra dobott AMD Radeon 3870 X2-re. Lényegében nincs szó új fejlesztésekrõl, az NVIDIA meglépte ugyanazt, mint riválisa: két grafikus processzort passzírozott egyetlen kártyára. Mindkét vállalat lépése egy átmeneti megoldásnak tekinthetõ a következõ generációs fejlesztések beérésééig, ami még idén várható.
+
+
+
+A GeForce 9800 GTX és 9800 GX2 ugyanarra a szilíciumra épülnek, mint a már fél éve piacon lévõ megújult 8800-as sorozat. A G92 ugyanazt az NV50 architektúrát valósítja meg, mint a 2006-ban debütált G80, a különbség a kisebb geometriájú gyártástechnológiában keresendõ: a G92 már a TSMC 65 nanométeres nagyteljesítményû eljárásán készül, szemben az eredeti G80 80 nanométeres csíkszélességével. Az NV50 úgynevezett egységes shader architektúra, vagyis a a pixeleket és vertexeket ugyanazok az egységek dolgozzák fel. Az architektúra érdekessége, hogy ezek az úgynevezett stream processzorok a chip alapórajelének többszörösén, jellemzõen nagyjából két és félszeresén üzemelnek.
+
+
+A GeForce 9800 GTX gyakorlatilag megegyezik a 8800 GTS-sel, a különbség mindössze a G92 és a memória órajelében keresendõ: a 675 megahertzes processzor 25 megahertzcel jár gyorsabban, míg a GDDR3 memória 970-rõl 1100 megahertzes (2200 effektív megatranszfer) órajelre gyorsult, így növekedett a grafikus területen olyannyira kritikus sávszélesség. A minimális változások alapján nem csoda, hogy a 9800 GTX hajszállal gyorsabb csak a 8800 GTS-nél, a Prohardver tesztje alapján a különbség legfeljebb 5-10 százalék közé esik, miközben többet is fogyaszt.
+
+Kevésbé tiszta a kép a két G92 chipet alkalmazó 9800 GX2-nél, melyet egyértelmûen a Radeon 3870 X2 kényszerített ki. Az összevetés elõtt mindenképpen érdemes leszögezni, hogy a legerõsebb GeForce jóval drágább, nagyjából másfélszer, vagyis mintegy 50 ezer forinttal. Ez az árkülönbség a Prohardver mérései szerint egyes DirectX 10 kóddal futó játékok alatt megmutatkozik teljesítményben is, ugyanakkor DirectX 9-es grafikában a kép teljesen zavarossá válik: egyszer egyik, másszor másik kerül elõrébb, sokszor jelentõs különbséggel -- a kép ráadásul az újabb és újabb driverekkel folyamatosan változik is, a népszerûbb játékokra a gyártók specifikusan optimalizálják vezérlõprogramjaikat.

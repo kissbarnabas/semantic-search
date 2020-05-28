@@ -1,0 +1,14 @@
+Történelmi csúcson a kozmikus sugárzás
+
+Nem egészséges a számítógépeknek
+A NASA ûrben végzett mérései szerint kozmikus sugárzás intenzitása közel 20 százalékkal magasabb az elmúlt 50 év során mért csúcsnál, és tovább emelkedhet. Ez arra kényszerítheti a ûrhajózási hivatalt, hogy újragondolja az ûrbéli jármûveinek és az asztronauták védelmét. A kozmikus sugarak (nem összekeverendõ a mikrohullámú kozmikus háttérsugárzással), melyekrõl a NASA beszél, a Naprendszeren kívülrõl származó nagyenergiájú részecskék, melyek tipikusan szupernóva robbanásokból származó protonok és atommagok, a fénysebesség közelében száguldva keresztül a világûrön.
+A megnövekedett kozmikus sugárzás növeli annak kockázatát, hogy egy mûhold vagy földi számítógépes vagy kommunikációs rendszer meghibásodjon - a mûhold esetében ennek valószínûsége természetesen sokkal nagyobb. A mai modern chipekben található rendkívül miniatûr áramkörök, melyek néhány tucat nanométer széles struktúrákból épülnek fel, érzékenyek az atomi és szubatomi besugárzásra, melyek megzavarhatják az áramkör mûködését - a legrosszabb esetben észrevétlenül, a hibaellenõrzõ mechanizmusok vagy a felhasználó tudta nélkül.
+
+Nem véletlen, hogy a kritikus környezetbe szánt processzorokat például neutron besugárzással tesztelik, hogy mennyire ellenállóak a bithibákkal szemben, vagyis mikor véletlenszerûen megváltozik egy bináris érték, ami hibás számítást, az adat sérülését vagy a rendszer lefagyását is eredményezheti. Mindez egy PC-ben tipikusan nem okoz jelentõs veszélyt, az olyan szerverekben, tárolókban viszont, melyek például pénzügyi folyamatokat vagy közlekedésirányítási feladatokat szolgálnak ki, elfogadhatatlan a hiba, az adatok és számítások maximális megbízhatósága alapvetõ követelmény.
+Gyengült a Nap védelme
+A magyarázat szerint mindezt az okozza, hogy a Nap ciklikus tevékenysége a minimumot közelíti, ami azt jelenti, hogy csökken a Nap mágneses ereje, valamint a napszél is gyengébb, ahogyan a nap elektromos védõburka is vékonyabbá válik. Ezek együttes hatása az, hogy a hélioszféra kevésbé eredményesen tud ellenállni a csillagközi térbõl érkezõ részecskékkel szemben, és több jut el sikeresen a Földig.
+A NASA úgy véli, hogy a naptevékenység minimumához közeledve akár további 10 százalékponttal növekedhet a kozmikus részecskék elõfordulásának gyakorisága, ugyanakkor mindez elméletileg nem okozhat problémát a Föld magnetoszférájának. A hivatal szerint a Föld történetében voltak ennél sokkal rosszabb idõszakok, mikor a jelenlegi szint háromszorosát tették ki a kozmikus sugarak, amit a jégpáncélokban talált berillium izotópok bizonyítanak. Igaz, évezredekkel ezelõtt nem számítógépek pontos mûködésén múlt az emberiség mindennapi élete.	     
+                  
+                  
+                  
+                   

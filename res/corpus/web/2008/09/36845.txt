@@ -1,0 +1,42 @@
+Kipróbáltuk: Google Chrome - Szép, gyors, okos
+
+Tegnap este történelminek is nevezhetõ pillanatot élhetett át az internet, a keresõóriás Google, számos szolgáltatás és alkalmazás után egy teljes értékû böngészõt mutatott be. Szerkesztõségünk azon nyomban alapos tesztnek vetette alá a még béta állapotú programot. Az eredmény vegyes, de egy 0.2-es verziószámot viselõ szoftverhez képest lenyûgözõ.
+
+
+
+Google gõzhenger
+
+Böngészõbõl meglehetõsen sok, talán túl sok is van a manapság piacon. A Chrome bejelentése így nem a szoftver jellegébõl adódóan kelt óriási hírértéket, hanem amiatt, hogy azt az online szegmens legmeghatározóbb szolgáltatója indította útjára. Egyesek szerint a böngészõ egy operációs rendszer csírája is egyben, bár a Google gyakorlata azt mutatja, hogy operációs rendszert nem, platformfüggetlen, gyors, de mégis komplex böngészõt érdemes kiadni, hiszen az átlagos számítógéphasználó számára szükséges funkciók majdnem teljes egészét képesek böngészõablakon keresztül is prezentálni. 
+
+[+] Chrome: A képregényhõs megérkezett
+
+A Google a fejlesztéseket finanszírozandó már korábban is komoly összegekkel támogatta a Mozilla Alapítványt, így nem meglepõ, hogy a most bemutatott böngészõben is találunk tõlük származó modulokat. Bár a motor alapjait az Apple WebKitbõl/Safariból fejlesztették tovább, átvettek JavaScript modulokat a Sun mûhelyébõl, illetve más komponenseket kisebb cégek vagy fejlesztõk boszorkánykonyhájából. A teljes listát a Google ezen a weboldalon tette közzé. A Chrome egyik kiemelendõ komponense a teljesen újragondolt JavaScript motor, melyet talán nem véletlenül V8-nak kereszteltek el, ezzel is arra utalva, hogy a böngészõ teljesítménye jelentõsen javul a konkurens megoldásokhoz képest. A hamarosan érkezõ IE8-hoz hasonlóan itt is lehetõség van elrejtõzni a látogató adatait begyûjtõ szkriptek elõl, csak itt a titkolózó módot Inkognítónak hívják, funkciója viszont megegyezik az IE8 InPrivate módjával.
+
+Könnyen megszerethetõ
+
+A telepítés egy gyors letöltés után pillanatok alatt zajlik le, majd azonnal felajánlja s korábbi böngészõnkbõl az összes beállítás, elõzmény, könyvjelzõ és jelszó átmentését. Egyelõre ezt Firefox és Internet Explorer böngészõkbõl mûködik az importálás, az Opera nem támogatott, Mac-es, Linuxos böngészõk pedig egyelõre nem jöhetnek szóba, hiszen a béta kizárólag Windows platformra jelent meg. 
+
+Szép, gyors és teszi a dolgát
+
+Indítás után azonnal feltûnik a böngészõ megdöbbentõ reakcióideje. Ezt nem lehet túlragozni, a legtöbb weboldal (megfelelõ internetkapcsolat esetén) egy szempillantás alatt töltõdik be. Amennyiben késlekedés van, akkor is egy ideig az elõzõ képet látjuk és egyben jelenik meg a teljes lap, hasonlóan a Firefoxhoz, de ellentétben a 7-es Internet Explorerrel. A Chrome-ot csak úgy lehet lelassítani, ha ész nélkül nyitunk meg különbözõ oldalakat, illetve egyelõre gyenge pontja a böngészõnek a Shockwave Flash, ami a Firefoxban lévõ Adobe beépülõ modulnál jóval több memóriát használ fel. 
+
+Aki szeretné alaposabban tanulmányozni, hogy a folyamatok mennyi erõforrást igényelnek, annak örömteli hír, hogy a böngészõ kapott egy saját feladatkezelõt, ahol a szálakat külön követhetjük figyelemmel tekintettel a memóriafelhasználásra, processzoridõre, illetve az aktuális adatforgalom sebességére. Ez utóbbi fõleg az adatforgalmi korlátos internetcsomagok használatakor jön jól, hiszen pillanatok alatt lebuknak a feleslegesen kommunikáló oldalak. 
+
+Memóriaéhség
+
+Egy szûz indítást követõen a béta Chrome szinte azonos mennyiségû memóriát -- 24 megabájtot -- foglal le, mint a Firefox 3.0.1 anélkül, hogy bármilyen oldalt betöltenénk. A HWSW fõoldalát betöltve ez a szám a FF esetén 36, míg a Chrome-nál 43 megabájtra ugrik, de szinte minden mérésben igaz, hogy a Chrome többet kér a közösbõl, mint a már jól optimalizált Firefox. Más, erõforrásigényes oldalaknál, mint a Last.fm (FF:43;Ch:49) vagy az iWiW (FF:54;Ch:56) is hasonló eredményhez jutottunk, míg 7-8 hasonló oldal egyidejû betöltésekor már 230/135 megabájt volt ugyanez az arány. A Chrome elõnye viszont a külön szálon kezelt tabokban rejlik, hiszen míg a Firefox a fent említett oldalak bezárása után is több mint 100 megabájtot tartott a RAM-ban, addig a Chrome gond nélkül visszatért az eredeti 24-es értékre. (A tesztrendszer: C2D, 3 GB RAM, Windows XP SP3, teljesen csupasz Firefox 3.0.1 és a Chrome 0.2) 
+
+Sokat fogyaszt, de okosan 
+
+A kezelõfelületet egy 0.2-es verzióban még kissé korai értékelni, de az egérrel húzgálható böngészõfülek, a letisztult dizájn, a nem csicsás, de animált megoldások, mind nagyon modernnek és funkcionálisnak hatnak.  Kiegészítõk, skinek, egyelõre értelemszerûen nem érhetõk el a Chrome-hoz, de ez a késõbbiekben bizonyára változni fog. A Chrome egyelõre sajnos nem kezeli az RSS feedeket sem, illetve számos JavaScriptet használó oldal még hibásan jelenik meg, a nem teljesen szabványos kódok rosszul futnak le. Ezt a böngészõn belüli egyik menüponton keresztül lehet jelenteni a fejlesztõknek. 
+
+Kényelmes újítások
+
+
+Érdekes megoldás még a nyitólap/üres lap, ami semmi komoly újdonságot nem hoz, csupán vizuálissá teszi a böngészõkben eddig is meglévõ információkat. Egy új fület nyitva ugyanis egy 9 elemû táblázat tárul elénk a leggyakrabban látogatott oldalainkkal: Link, kiskép és lehetõség a teljes elõzmények megjelenítésére. Mellette a nemrégiben bezárt oldalak linkje és természetesen egy Google keresõ. Kissé abszurd helyzetet teremtve a böngészõ az elsõ induláskor nagyon udvariasan megkérdezte, hogy lehet-e a Google az alapértelmezett keresõ vagy sem. Erre rábólintva a címsor a továbbiakban Google keresõsávként is funkcionál. 
+
+A Chrome bétaként is megállja a helyét, akkor is ha vannak még hibák és hiányosságok, a Google álma, miszerint a web egy minden igényt kiszolgáló platformmá válik, ezzel ismét egy lépéssel közelebb került. A programot egyszerûsége és nagyszerûsége miatt elsõsorban az átlagos internetezõknek ajánljuk. Azoknak, akiknek nincsenek speciális igényeik, nem szükséges kiegészítõket használniuk, ugyanakkor egyszerûen és kényelmesen szeretnének bolyongani a világhálón. Nemes gesztus a fejlesztõk részérõl, hogy a Chrom már a kezdetek kezdetén is elérhetõ különbözõ nyelveken, így többek közt magyarul is.
+
+Véleményed van?
+Szólj hozzá a fórumban
+írj szerkesztõségünknek!

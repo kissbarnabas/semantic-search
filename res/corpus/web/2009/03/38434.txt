@@ -1,0 +1,35 @@
+Még el sem indult, máris világsiker a Prezi.com
+
+A mai napon hivatalosan is bemutatkozott a Prezi.com, melyrõl a HWSW-olvasók már múlt héten alapos tesztet olvashattak. A fejlesztéshez szükséges tõkehátteret biztosító Magyar Telekom részérõl a nemrégiben szélnek eresztett vezérigazgató-helyettes, Simó György helyett Pukler Gábor tett hitvallást a startupok fontosságáról, míg magát a szolgáltatást Árvai Péter, a Prezit fejlesztõ Zui Labs ügyvezetõ igazgató mutatta meg élõben.
+
+
+
+Van piaca
+
+Pukler Gábor rövid felvezetõjében arról beszélt, hogy a Magyar Telekom az elmúlt évben 700 startup-ötletet nézett meg, kevesebb, mint 200-at alaposabban, de alig öt olyan projekt van, amivel most is foglalkoznak, s ezek közül az egyik a Prezi. Az innovatív prezentációkészítõ egyik elsõ nagy ügyfele így természetesen a magyar telekommunikációs cég, de emellett a Prezi képviselõi az Egyesült Államokban is sikeres tárgyalásokat folytattak több céggel is.
+
+[+] Viszlát, PowerPoint! Helló, Prezi! 
+
+Árvai Péter, a Prezi Svédországban született, de magyar állampolgárságú ügyvezetõ igazgatója a lehetséges piacot elemezve elmondta, hogy a világon 250 millió ember használ prezentációkészítõt, s ebbõl 30 millió az igényesebb, akik az Apple Keynote-ját használják, mert szeretnének szebb, látványosabb elõadást. Ezek szerint legalább 30 millióan vannak, akik hajlandóak fizetni, többet fizetni az innovációért. 
+
+Szól róla a külföldi média
+
+Egyelõre viszont nem a 30 milliós tömeg az elsõdleges cél, eddig a személyes bemutatókon és üzleti tárgyalásokon kívül nem költöttek marketingre. Ennek ellenére a média és a bloggerek világszerte felkapták a szolgáltatást, s a Google Blog Search találati listája szerint közel 25 ezer blogbejegyzésben vagy online újságcikkben szerpel a "Prezi" kifejezés, ami ugyan számos redundáns találatot takar, de valójában szép nemzetközi média elérést sikerült a semmibõl varázsolni. Ehhez képest a cég hazájában, tehát Magyarországon, mindössze egy-két blogon, az [Origo]-n és a HWSW-n kapott említést a termék.
+
+A bemutató sajtótájékoztatón sem tolongtak a szakújságírók, inkább közepes érdeklõdés övezte az eseményt, s a gazdasági vonalról leginkább a Magyar Telekom szerepére és az általa adott tõke mennyiségére irányultak a kérdések, addig a sajtótájékoztató technológiai beállítottságú  résztvevõin az értetlenkedés, szkepticizmus jelei mutatkoztak, örömnek, büszkeségnek nyoma sem volt.
+
+Szeretik az emberek
+
+Szerencsére a Prezi.com üzleti modellje nem is a hazai piacra épít, hanem az angol-szász területek mellett a hamarosan megjelenõ kínai és japán lokalizáció jelölheti ki a terjeszkedés irányát. Mindenesetre az eddigi tapasztalatok kedvezõek, hiszen a Prezi.com weboldalát a Föld 195 országa közül több mint 160-ból keresték már fel, Közép-Afrikát leszámítva szinte mindenhonnan. A legtöbb érdeklõdõ, ahogyan a HWSW korábbi cikke is említi, az Egyesült Államokból és Németországból érkezett, s feltehetõen a vevõket is innen várják majd leginkább.
+
+
+
+A Prezi.com csapatának jelenlegi legnagyobb feladata, hogy az elõfizetési rendszer véglegesítését befejezzék, illetve a még meglévõ hibákat kijavítsák. A vállalati szférában még gyakrabban elõforduló Internet Explorer 6-re például nincs optimalizálva még a program, illetve a beépített médialejátszót is hamarosan lecserélik a fejlesztõk.
+
+
+Hetek múlva mindenki láthatja
+
+
+Farkas Szilveszter, vezetõ fejlesztõ a HWSW kérdésére azt is elárulta, hogy egyelõre nem tervezik, hogy a felhasználók kezébe adják a saját stílusok szerkesztésének lehetõségét, tehát nem használható majd szabadon bármilyen betûtípus illetve színpaletta. Ennek legfõképp üzleti okai lehetnek, hiszen az egyedi layout készítésének lehetõsége is a legmagasabb Pro csomagnak a része. Igaz, a mostanihoz képest jóval több elõregyártott stílus kerül majd be a választhatóak közé, és lehetséges lesz majd kombinálni a meglévõ betûket és palettákat.
+
+A Prezi.com publikus, éles indulása jövõ hónapban lesz majd, így jelenleg továbbra is csak a weblapon keresztül jelentkezõ bétatesztelõk számára érhetõ el a szerkesztõ, illetve elméletileg hamarosan megjelenik a letölthetõ offline szerkesztõ próbaváltozata is, ami lehetõvé teszi az internetkapcsolat nélküli szerkesztést illetve az online felülettel való szinkronizálást is.

@@ -1,0 +1,22 @@
+Szállítja olcsó SSD-it a Samsung
+
+Két hónappal a 256 gigabájt kapacitású, MLC (Multi-Level Cell) szervezésû flashalapú háttértár bejelentése után megkezdte a termékcsalád új, egyelõre kisebb tagjainak tömegtermelését a Samsung. Az MLC-s tárolók ugyan tipikusan lassabbak, mint az eddig szélesebb körben elterjedt SLC (Single-Level Cell) rendszerû NAND flashmemóriákból felépülõ egységek, viszont sokkal olcsóbbak is. A Samsung elsõként 64 és 128 gigabájtos tárkapacitással dobja piacra ezeket az adattárakat, melyek a technológiából fakadó várhatóan kedvezõbb áruk miatt jelentõs mértékben hozzájárulhatnak az SSD-k térhódításához.
+
+
+
+A koreai vállalat új SSD-i ezúttal nem elsõsorban adatkezelési sebességükkel próbálnak kitûnni a mezõnybõl, noha az új adattárolók 70 megabájt/másodperces írási és 90 megabájt/másodperces olvasási tempójukkal a Samsung szerint a jelenleg kapható, elméletben gyorsabb SLC szervezésû megoldások közül is maguk mögé utasítanak néhányat. Bár az MLC rendszerû flash chipek mind adattartási idejüket, mind pedig élettartamukat tekintve elmaradnak az SLC-s memóriáktól, ezeknek az adattárolóknak valójában így is hosszabb életciklust jósolnak, mint egy átlagos merevlemeznek.
+
+Jól szervezett flash chipek
+
+A Samsung elsõ MLC SSD-i -- akárcsak az eddigi típusok -- 1,8 vagy 2,5 hüvelykes formátumban kerülnek forgalomba, a burkolat alatt 64 darab 16 gigabites MLC NAND flash IC található a 128, 32 darab pedig a 64 gigabájtos változat esetében. A flash chipek rendszerét egységes adattárolóvá változtató vezérlõáramkör Serial ATA II kommunikációs interfészt támogat.
+
+
+
+
+Az újdonságok árát egyelõre nem hozta nyilvánosságra a gyártó, általánosan elmondható ugyanakkor, hogy az SLC és MLC alapú megoldások közt jelenleg több mint kétszeres az árkülönbség az MLC javára. A Samsung 64 gigabájtos, SLC-s flashalapú adattárolója Európában nagyjából 750 euróért szerezhetõ be, a fenti formula alapján az MLC-s típus ára akár 350-400 euró alá is benézhet.
+
+Törnek fel
+
+A koreai vállalat meghatározó szerepet tölt be a merevlemezek helyettesítésére szánt flashalapú adattárolók propagálásában, terjesztésében. A világ elsõ számú memóriagyártójának számító Samsung a tavalyi év második felében mutatta be az SLC NAND flash alapokra helyezett 64 gigabájtos SSD-jét, a most forgalomba kerülõ típusokat pedig idén év elején jelentette be. A cég ígérete szerint még az idén piacra küldi azt a 256 gigabájtos SSD-t, melyrõl még májusban lebbentette fel a fátylat.
+
+A Samsung becslése szerint a dinamikusan növekvõ SSD piac 2010-ig 800 százalékot bõvülhet, a piackutatók azonban úgy látják, hogy az SSD-k ezekben a távlatokban még így sem fenyegetik a merevlemezek jövõjét. A HDD-k a következõ évek során is toronymagasan a legnépszerûbb adattároló-eszközök maradnak, így az iSuppli becslése szerint 2012-ben már 845 millió merevlemez kerül leszállításra, ami átlagosan évi 10,4 százalékos bõvülést jelent a következõ 5 év során. Az SSD-k három területen fenyegetik leginkább a HDD-ket kedvezõbb mechanikai, fogyasztás és teljesítménybeli jellemzõiknek köszönhetõen: notebookok, nagyteljesítményû tranzakcionális szerveralkalmazások, és ipari vagy beágyazott felhasználás.

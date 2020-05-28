@@ -1,0 +1,10 @@
+Négy béta után jöhet a végleges Firefox 3
+
+Hétfõn várható a Firefox harmadik bétája, azonban a böngészõ legújabb változatára ácsingózó felhasználókat további türelemre inti a Mozilla, ugyanis a kiadásra jelölt (RC) verziót egy negyedik béta is meg fogja elõzni -- írta a mozilla.dev.planning hírcsoportba Mike Beltzner, a felhasználói felület tervezõje.
+
+
+
+Egyelõre nem tudni, a fejlesztési ütemterv hirtelen megváltozása  mennyiben érinti a végleges verzió megjelenését, ugyanis még azt sem tudni, hogy a Beta 3 kódjának lezárása után hány olyan hibát találnak, amelyet mindenképp javítani kell a Beta 4-re való továbblépés elõtt. A Mozilla sosem hozta nyilvánosságra a Firefox 3 tervezett megjelenési dátumát, vagyis késésrõl nincs is értelme beszélni. A kiegészítéseket használóknak nincs oka az aggodalmakra, a Mozilla statisztikái szerint a legnépszerûbbek közel felét már módosították a fejlesztõik, hogy kompatibilisek legyenek a Firefox 3-mal.
+
+
+ Tegnap a Mozilla elérhetõvé tett néhány elõzetes képernyõfotót a fejlesztés alatt álló mobil változatról, amely Windows Mobile és Linux operációs rendszerre készül el és ugyanazt a Gecko 1.9 motort használja, mint a Firefox 3. A Mozillánál két különféle felhasználói felületet fejlesztenek a mobil Firefoxhoz, egyet az érintõképernyõs készülékekhez, egy másikat pedig az érintõkijelzõ nélküliekhez. A mobil Firefox az asztali változat számos képességét örökli, például a könyvjelzõket és a korábban meglátogatott oldalakat összefogó Places-t.

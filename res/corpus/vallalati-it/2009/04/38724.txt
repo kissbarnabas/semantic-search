@@ -1,0 +1,22 @@
+A hosztolt virtuális desktopok és az outsourcing elõnyeit egyesíti a BUDGET-IT
+
+A recesszió nem hozta meg a közönséges PC-üzemeltetési szolgáltatások iránti igény látványos növekedését, az elérhetõ megtakarítás nem akkora, ami miatt a vállalatok tömegével szerveznék ki ezt a tevékenységet -- mondta el mai sajtótájékoztatóján Juhász Lajos, a NAVIGATOR Informatika Zrt. vezérigazgatója.
+
+
+
+Beruházás nélkül
+
+Ezt felismerve a vállalat olyan konstrukciót dolgozott ki, amely a hosztolt virtuális desktopok (HVD) és az outsourcing elõnyeit egyesíti, a cég reményei szerint ennek segítségével már olyan mértékû megtakarítás érhetõ el, amelyre ráharapnak az ügyfelek. A NAVIGATOR kínálatában megjelent BUDGET-IT lényegében egy hosztolt virtuális desktop szolgáltatás, amelyet az ügyfelek havidíjas konstrukcióban vehetnek igénybe.
+
+A hosztolt virtuális desktopok használata ehetõvé teszi, hogy a felhasználók bárhol, bármikor elérhessék az általuk használt szoftvereket és adatokat azáltal, hogy az asztali környezeteket szerveren konszolidálja -- egy kiszolgálón így több desktop környezet is futhat, amelyhez a felhasználók vékony kliensrõl csatlakoznak. A NAVIGATOR megoldása VMware View vagy Citrix XenDesktop szoftverkörnyezeten és vékony klienseken alapul. Utóbbiak elõnye a PC-khez képest, hogy kevesebbet fogyasztanak, zajtalanok, nem tartalmaznak mozgó alkatrészt, így lényegében nem tudnak elromlani sem.
+
+Az ügyfél meglevõ PC-it egy boot EPROM-mal rendelkezõ hálózati kártya beszerelésével és a merevlemez eltávolításával alakítja "vékony klienssé" a NAVIGATOR, így nincs szükség a meglevõ eszközpark cseréjére sem -- a dolgozók ugyanazt a környezetet, képernyõt láthatják, ugyanazokat az alkalmazásokat használhatják és ugyanazokkal az adatokkal dolgozhatnak, mint korábban. Persze a vékonykliens-architektúrának is vannak korlátai, a megoldás elsõsorban üzleti környezetben mûködik, a multimédiás felhasználást korlátozhatja a rendelkezésre álló hálózati sávszélesség.
+
+Mindenki jól jár
+
+ A jelenlegi gazdasági helyzetre sokan úgy tekintenek, mint a költséghatékony HVD-k terjedésének katalizátorára, a bevezetéshez szükséges komoly kezdeti beruházások miatt egyelõre kevesen váltanak. Ezt a gátat töri át a BUDGET-IT, amely teljes egészében megszünteti az architektúraváltással járó kezdeti beruházást, a szükséges szerverek, szoftverek és esetleg vékonykliensek ára mind bele van építve a szolgáltatás havidíjába.
+
+
+ A hosztolt virtuális desktopok jóval egyszerûbben, ennélfogva olcsóbban üzemeltethetõk a hagyományos PC-knél, így az outsourcing-szolgáltató nyeresége nõ, ennek egy részét átadja az ügyfélnek, így mind a ketten jól járnak. A NAVIGATOR számításai szerint már egy pár tucat gépbõl álló környezet esetén is elérhetõ akár 40 százalékos költségmegtakarítás a házon belüli PC-üzemeltetéshez képest, nagyvállalatok, intézmények esetén hosszú távon akár 80 százalék is lehet.
+
+A tavalyi évet 2 milliárd forint körüli forgalommal záró NAVIGATOR idén legalább 50 millió forintos forgalmat vár a BUDGET-IT szolgáltatástól, amelyet most vezet be egy meg nem nevezett költségvetési intézménynél, mintegy ezer felhasználó számára.

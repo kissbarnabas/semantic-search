@@ -1,0 +1,15 @@
+Csak Vistáról frissíthetõ a Windows 7 kiadásra jelölt változata
+
+Arra kéri a Windows 7 béta felhasználóit a Microsoft, hogy az újabb tesztverzió, a kiadásra jelölt (RC) változat telepítése elõtt térjenek vissza a Vistához, azaz a rendszert ne a meglévõ Windows 7 tesztkörnyezetükbõl frissítsék. A Windows 7 RC-t alapesetben nem is lehet majd a bétáról frissíteni, de a szoftvercég azért ad kibúvót azoknak, akik nem szívesen telepítenék újra a régebbi operációs rendszert csak azért, hogy kipróbálhassák az újat.
+
+
+
+A Microsoft hivatalos blogján közzétett, meglehetõsen hosszúra nyúló magyarázat szerint a majdan Windows 7-re váltók jelentõs része nem az új operációs rendszer valamelyik tesztverziójáról frissíti majd rendszerét: "Ez a forgatókönyv kevéssé érdekes számunkra, a legtöbb felhasználónk nem így frissíti majd a rendszerét" -- áll a blogban. "Éppen ezért arra szeretnénk kérni a tesztelõinket, hogy térjenek vissza a Vistára és azt frissítsék az RC-vel, vagy teljesen üres rendszerre telepítsenek." 
+
+
+
+ A vállalat ettõl függetlenül ad egy kiskaput azoknak, akik ragaszkodnak a Windows 7 bétaváltozatára épített rendszerkörnyezetükhöz, a frissítõprogram ellenõrzõkódja -- mely megakadályozza, hogy a Windows 7 RC-t a béta Windows 7-re telepítsék -- egy konfigurációs fájl átszerkesztésével kiiktatható. A folyamat részletes leírása megtalálható a fejlesztõi blogban.
+
+A szoftvercég szerint a bevallottan körülményes mûvelet azért szükséges, mert a bétaváltozat frissítése után olyan hibák is a rendszerben maradhatnak, melyek valamilyen módon még az elõzõ tesztverzióhoz köthetõk, így könnyen félrevezetheti a fejlesztõket, vagy a felderítésük több idõbe telhet. A cég ezzel együtt leszögezi, hogy Windows XP-rõl továbbra sem lehet majd Windows 7-re frissíteni, hiába ad az új operációs rendszer frissítési licence erre lehetõséget. A Windows XP-rõl frissítõknek teljesen szûz telepítést kell végezniük, a Microsoft ugyanakkor egy olyan migrációs alkalmazást bocsát majd a felhasználók rendelkezésére, mellyel a programkörnyezet és a beállítások átmenthetõk az új rendszerbe.
+
+A Windows 7 kiadásra jelölt változatának pontos megjelenési idõpontjáról továbbra sem nyilatkozik a Microsoft, a kereskedelmi forgalomba bocsátott végleges kiadás elõtt megjelenõ utolsó tesztverzió azonban minden várakozás szerint a jövõ hónapban letölthetõ lesz. Kiszivárgott, meg nem erõsített információk szerint a Windows 7 RC 32 és 64 bites változatban egyaránt megjelenik, és 2010 júniusáig lehet majd használni (a januári bétaváltozat próbaideje idén augusztus 1-én jár le).

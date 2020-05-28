@@ -1,0 +1,23 @@
+Decho néven szervezi ki cloud-szolgáltatásait az EMC
+
+Decho néven cloud tárolási platformot fejlesztõ és üzemeltetõ céget alapított az EMC. A lépéssel gyakorlatilag kiszervezte a Mozy és a Pi felvásárlásával megszerzett tevékenységeket, és lényegében különválaszotta a vállalatoknak szóló tárolási hardverek és szoftverek értékesítését a saját tárolási szolgáltatástól. 
+
+
+
+
+Digitális visszhangunk a neten
+
+A Decho, mely a digital echo tömörítése, fogyasztóknak és üzleti felhasználóknak kíván webalapú adattárolási és adatmentési szolgáltatást kínálni. Hasonlóan más, elosztott architektúrára épülõ számítógéprendszereken futó szolgáltatásokhoz, a Decho is egy hatalmas szerverhálózattal megtámogatva kínálja ezeket a termékeket egy kliensenként megállapított havidíjért cserébe. 
+
+A Decho a Mozy és a Pi tevékenységét kombinálja. A Mozy egy online backup megoldás egyéni és céges felhasználók számára. Két gigabájtig ingyenes, havi 5 dollárért cserébe viszont korlátlan tárterületet kap minden kliens. Tavaly szeptemberi felvásárlásakor a Mozy mintegy 300 ezer felhasználóval rendelkezett, köztük 8 ezer vállalati ügyféllel. A Pi a magánadatok tárolására szakosodott -- dokumentumok, képek, videók, levelek rendszerezése. 
+
+
+A Mozy, a Pi és az EMC tárolótechnológiai kompetenciáinak kombinálásával a Decho cloud tárolási megoldásokat fejleszt ki majd, a csapásirány nagyvonalú felvázolásán kívül azonban egyelõre azonban nem részletezte a termékterveket. A Decho Bangalore-ban (India), Montrealban (Kanada), továbbá Seattle-ben és Utah-ban (Egyesült Államok) rendelkezik fejlesztési központokkal. 
+
+Cloud
+
+A hangzatos cloud tárolás inkább egy kiszolgáló rendszer képességeire utal, semmint a felhasználók számára bír közvetlen jelentõséggel. Egy (fejlett) cloud lényegében egy magas fokon automatizált és virtualizált szerverhálózat, ahol az adatok többszörös földrajzi redundanciával bírnak, míg egy felhasználót lényegében bármelyik gép kiszolgálhat, és akár több tucat szerver egyidejû meghibásodása esetén sem érzékelnek a felhasználók többet egy pillanatnyi megbotlásnál. A Decho esetében a cél, hogy adataink biztonságban legyenek, és bárhonnan bármikor kényelmesen elérjük egy nethozzáférés segítségével.
+
+Napjaink egyik egyértelmû megatrendje, hogy a számítástechnika egyre inkább egy internetre építõ szolgáltatások felé súlyozódik át, azaz hangzatos szavakkal az alkalmazások és adatok a cloud felé tartanak. Az elmúlt egy évben számos vállalat jelent meg online háttértár szolgáltatással, különféle koncepciókkal. Legutóbb a Dropbox indult el, mely lényegében egy internetes SAN-ként fogható fel. A Wuala specialitása, hogy szerverparkját peer-to-peer technológiával támogatja meg, ahol a felhasználók rendelkezésre bocsáthatnak tetszõleges mennyiségû tárkapacitást merevlemezükbõl.
+
+A Microsoft Windows Live SkyDrive ingyenesen kínál 5 gigabájtot, ugyanakkor legfeljebb 50 megabájtos állományokat tölthetünk fel, és csak Windows Explorerrel képes drag&drop integrációra ActiveX vezérlõvel. Hasonló ingyenes szolgáltatást kínál a Yahoo! is Briefcase néven. Professzionális felhasználásra a Symantec SwapDrive és az IBM szolgáltatásai érhetõek el, de PC-hez a HP, a Dell, legújabban pedig a Lenovo és netbookjaihoz az Asus is kínál már online tárhelyet -- a lista már rég nem lehet teljes, gyakorlatilag mindenki belépett a területre.

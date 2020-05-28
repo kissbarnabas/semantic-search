@@ -1,0 +1,14 @@
+Fekete képernyõvel figyelmeztet a Windows, ha nem eredeti
+
+A Microsoft a héten megkezdi a Windows Genuine Advantage (WGA) Notifications  terjesztését -- ez az a szoftver, amely ellenõrzi az operációs rendszer eredetiségét, és figyelmezteti a felhasználót, ha illegális másolatot talál.
+
+
+
+Az új verzió még "ravaszabb", a korábbinál több aktiváció trükköt ismer fel, illetve az érvénytelen termékkulcsokat tartalmazó adatbázisát is frissítették, de ennél sokkal szembetûnõbb változások is történtek. A legfontosabb talán, hogy a szoftver által megjelenített, illegális másolatra figyelmeztetõ ablak megváltozott, és nem eredeti Windowson a hátteret is tiszta feketére állítja át a program, ha az operációs rendszer nem eredeti. Ezt a felhasználók módosíthatják ugyan, de a WGA Notifications egy óra elteltével ismét feketére állítja vissza -- egészen addig, amíg a Windowst egy eredeti kulccsal nem aktiválják.
+
+
+ További változás, hogy az eddigi, idõrõl idõre felbukkanó értesítést egy állandó ablak váltja fel a képernyõ jobb alsó sarkában, amely figyelmezteti a felhasználót az illegális másolatra. Ez az ablak áttetszõ, így az asztalon található elemeket (például ikonokat) a felhasználó továbbra is el tudja érni, valamint az ablakokba sem takar bele. A Microsoft ígérete szerint az új WGA Notifications alapértelmezésként csak Windows XP Professional Editionre töltõdik le, mivel ez az az operációs rendszer, amelyet a legtöbben illegálisan használnak.
+
+
+
+A Windows XP SP3-ban a Microsoft egyébként némileg enyhítette az aktivációs szigort. A javítócsomaggal frissített operációs rendszer elsõ telepítés után már 30 napig mûködik aktiválás nélkül, ugyanúgy mint a Vista, vagy a Windows Server 2003 SP2. Korábban a Windows XP telepítése nem történhetett meg valódi termékkulcs nélkül, az installálás egyszerûen nem futott le. Az SP3-mal frissített meglevõ telepítésekre nem vonatkozik a lazítás, bár a szervizcsomag installálása után nem kéri a termékkulcsot.

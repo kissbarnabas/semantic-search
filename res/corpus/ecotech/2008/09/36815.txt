@@ -1,0 +1,29 @@
+A Cisco újabb felvásárlással támadja a Microsoftot
+
+E-mailes és naptáralkalmazásokat fejlesztõ céget vásárolt a Cisco. Az amerikai és bolgár fejlesztõkkel dolgozó PostPath felvásárlásával a vállalat a WebEx Connect webes platformját kívánja továbbfejleszteni, mely elsõsorban a Microsoft Office megoldásaival rivalizál. A megállapodás keretében a Cisco megközelítõleg 215 millió dollárt fizet a PostPath részvényeiért.
+
+
+
+Exchange-elhárító a Cisco arzenáljában
+
+A PostPath szerveroldali Linux-alapú e-mail, naptári és kollaborációs megoldásokat fejleszt és értékesít, melyekkel elsõsorban a Microsoft Exchange rendszerekre kíván alternatívát kínálni. A webes AJAX-felületén keresztül teljesen platformfüggetlen módon is hozzáférhetõ a levelezés, de a cég mobilklienseket is biztosít. "A PostPath felvásárlása beleillik a vállalat azon stratégiájába, amely egy integrált együttmûködési platform kifejlesztését tûzte ki célul" -- nyilatkozta Doug Dennerline, a Cisco együttmûködéses alkalmazások részlegének elnökhelyettese.
+
+A PostPath igen agresszívan támadja az Exchange szervereket, ugyanis a MAPI/RPC protokoll visszafejtésével képesek gyári telepítésû Outlook klienseket is kiszolgálni alternatív levelezõ szerverszoftverekkel is -- ebben gyakorlatilag egyedülállóak a piacon, más alternatívák módosításokat igényelnek a kliens oldalán is. A PostPath ráadásul szerveroldalon is minimális változást igényel, integrálódik az Active Directory környezetbe is. A szárnyait bontogató vállalkozás megszerzésével a Cisco tovább erõsíti a WebEx 3,2 milliárd dollárért felvásárolt üzleti kollaborációs megoldásait, mellyel az egységes kommunikációs piacon igyekszik terjeszkedni hálózati berendezéseire alapozva, egyúttal tovább erõsítve az azok iránti keresletet. 
+
+
+
+Az egységes kommunikáció alapelgondolása, hogy a felhasználó egyetlen alkalmazáson és azonosítón keresztül kommunikál, legyen szó e-mailekrõl, üzenetekrõl, telefonról, videokonferenciáról vagy hangpostáról, így aztán elérni is egyszerûbb, hiszen a "hívónak" nem kell több e-mail címet, telefonszámot, üzenetküldõ-azonosítót és egyéb elérhetõséget megjegyeznie, illetve azt sem kell tudnia, akit keres, éppen hol tartózkodik.
+
+A WebEx portfólióval a Cisco a vállalatok hálózati szállítójaként magasabb hozzáadott értéket próbál kínálni a berendezések egyszerû értékesítésén felül. A kollaboratív megoldások a Cisco hálózati kompetenciájának logikus kiterjesztése a hagyományos értelemben vett alkalmazási protokollok rétegén túlra, ahol kommunikációs alkalmazásokat kínál szolgáltatásként. A software-as-a-service, vagyis a hosztolt alkalmazások elõnye, hogy az ügyfeleknek nem kell sem további hardver vagy szoftver eszközbe befektetniük, sem pedig addicionális rendszergazdai erõforrásokat dedikálniuk, mindössze egy kiszámítható havidíjat fizetniük a Cisco részére, mely cserébe az alkalmazás nyújtásán felül támogatást, fejlesztéseket és továbbképzést is kínál. 
+
+A tét dollármilliárdok
+
+Az integrált vállalati kollaborációs eszközök, melyek a levelezést, az azonnali üzenetküldést, hagyományos, VoIP- és videohívásokat, naptár és dokumentumkezelést egyetlen felületen fogják össze, az üzleti szoftverek leggyorsabban növekvõ szegmensei közé tartoznak. A harc a dollármilliárdos profitot termelõ szerver- és kliensszoftvereinek piacát õrzõ Microsoft és hálózati hardverek eladásából kitörni kívánó Cisco között dúl a leginkább, vélik iparági megfigyelõk. A Microsoft felvásárlásokkal és hatalmas szoftvermérnöki erõforrásaival gõzerõvel fejleszti saját platformját, mely az Office Communications Serverre (egységes kommunikáció) és SharePoint Serverre (kollaboráció) épül.
+
+[+] Az Office Communications Server 2007
+
+Míg a levelezés és azonnali üzenetküldés 3-4 milliárd dolláros piaca telítõdött, addig az üzleti kollaborációs eszközök jelenleg kicsi, néhány százmillió dolláros piaca három számjegyû növekedést mutat évente, párhuzamosan az integrált, egységes kommunikációs megoldásokkal, és az elõrejelzések szerint forgalmuk néhány év múlva több tízmilliárd dollárra is rúghat, mondta el a HWSW-nek korábban David Farrell, az IBM kollaborációs szoftverekért felelõs alelnöke. A helyezkedés harmadik nehézsúlyú szereplõje az IBM, mely Lotus Notes és Sametime és Domino szoftvereire alapozva igyekszik minél nagyobb szeletett kihasítani magának, aminek érdekében három év alatt 1 milliárd dollárt fektet a területbe.
+
+[+] IBM: robbanásszerûen növekszik a webkettes üzleti szoftverek piaca 
+
+ A piackutató látványosan definíciós problémákkal küzdenek, így az általuk jelzett piaci méretek nem összevethetõek, két dologban azonban feltétlenül megegyeznek a számaik: az egységes kommunikációs és kollaboratív eszközök piaca dinamikus bõvül és hatalmassá, dollár tízmilliárdos nagyságúvá duzzad a következõ évek során. Az IDC számai alapján 2011-re 17 milliárdot tesz ki a piac. Az In-Stat és a Wainhouse Research becslése szerint az egységes kommunikációs termékek és szolgáltatások piaca együttesen a tavalyi 22,6 milliárd dollárról 2012-re 48,7 milliárdra duzzad, vagyis öt év alatt 26,1 milliárddal nõ.

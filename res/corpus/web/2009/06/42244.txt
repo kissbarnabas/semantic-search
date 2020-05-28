@@ -1,0 +1,12 @@
+Megjelent az Opera Mobile 9.7 elsõ bétája
+
+Az Opera Turbo technológia, a javás Opera Mini mobilböngészõ alapjai szerint mûködik. A Turbo bekapcsolásával az Opera webböngészõk
+különbözõ változatai a weboldal teljes megjelenítéséhez szükséges
+sávszélességet akár 80 százalékkal is csökkenthetik -- a böngészõk
+ilyenkor valójában az Opera saját szerverével kommunikálnak, mely elõre
+letölti és a tartalom megváltoztatása nélkül tömöríti az oldalakat. A tömörítési technológia mind az elõfizetõk, mind az operátorok számára hasznossá válhat, a forgalomkorlátos mobilinternet-csomagok miatt ugyanis a felhasználó számára fontos, hogy letöltési limiten belül maradjon, a szolgáltatók hálózatát pedig kevéssé terheli le a tömörített adatfolyam.
+Az új Opera Mobile bétába az Opera Turbo mellett bekerült az asztali böngészõnél is bevezetett Presto 2.2 renderelõmotor, mely a fejlesztõk ígérete szerint nagyjából 25 százalékkal gyorsabban jeleníti meg a weboldalakat, mint a korábbi változat. Újdonság a 9.7-es bétaváltozatban a widgetek megjelenése, melyet egy új kiegészítõ tesz lehetõvé. Az Opera emellett egy szoftverfejlesztõi készletet (SDK) is közzétett a böngészõhöz, mellyel a külsõ fejlesztõk munkáját igyekszik ösztönözni.
+A szoftvercég a mobilos változatot pár nappal megelõzve, nem egészen egy hete adta ki az Opera PC-s böngészõ 10-es verziójának bétáját. Az Opera 10 a manapság zajló böngészõpiaci trendeknek megfelelõen
+elsõsorban gyorsaságával próbál kiemelkedni a mezõnybõl: az új
+változatba ugyanaz a Presto renderelõmotor 2.2-es verziója került, mint az Opera Mobile 9-7 bétába, emellett ebbe a böngészõbe is beépítették az Opera Turbo technológiát.
+Az Opera Mobile 9.7 beta Windows Mobile platformra letölthetõ a cég weboldaláról. A widgetek készítéséhez használható SDK a fejlesztõi oldalról érhetõ el.

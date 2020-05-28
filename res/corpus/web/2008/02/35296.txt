@@ -1,0 +1,37 @@
+A spammerek már megtörték a hagyományos CAPTCHA védelmet
+
+Megtörni látszik a regisztrációs lapokat és különbözõ fórumokat a spamrobotoktól védõ CAPTCHA hatásossága. Az elmúlt hónapban két olyan esetre is fény derült, amikor nagy arányban sikerült automatizált módon megtörni az oldalak védelmét. Egyes spammelõk a pletykák szerint hónapok óta alkalmaznak magas hatékonyságú CAPTCHA-felismerõt. 
+
+
+
+Csak néhány évig tartott
+
+Az e-mailes spam három évtizeddel ezelõtti megjelenését követõen, az internet és a web robbanásszerû elterjedésével a kéretlen reklámozók és bûnözõk más lehetõségek után kutattak. Amellett, hogy az azonnali üzenetküldõ rendszereken keresztül igyekeztek teríteni spamjüket, az elmúlt évek során egyre inkább a különféle fórumok, blogok, kommentelõ és közösségi oldalak felé fordultak. Ma a helyzet odáig romlott, hogy egy védelem nélküli új oldalt hetek alatt ellepnek a spamrobotok, és minden lehetséges helyre beszúrják kéretlen tartalmukat.
+
+
+CAPTCHA
+A CAPTCHA szót, mely a Completely Automated Public Turing test to tell Computers and Humans Apart mozaikszava, 2000-ben alkotta négy fejlesztõ, és a Carnegie Mellon Egyetem bejegyzett védjegye. A CAPTCHA olyan tesztre utal, mely sikeresen különböztet meg emberi és gépi intelligenciát egymástól. Az eljárás során egy számítógép valamiféle feladatot ad a látogatónak, mely emberek számára egyszerûen megoldható, a mesterséges intelligenciának azonban megfejthetetlen. A CAPTCHA-t fordított Turing tesztnek is szokták nevezni, ugyanis egy gép embereket akar azonosítani, míg a Turing tesztnél egy ember azonosítja a gépeket.
+A CAPTCHA egy olyan automatizált teszt, mely a számítógépek számára megfejthetetlen tanítással is, miközben az emberek túlnyomó többsége képes rá. A legelsõ CAPTCHA-k már a web felfutásakor, a '90-es évek második felében megszülettek a spamrobotok ellen. Az Altavista így védekezett például keresõjének elszemetelõdése ellen. Regisztrációs lapok védelmének megtörésére a spammerek ezt követõen emberi erõt alkalmaztak, például nagyforgalmú warez- és pornóoldalak látogatóival fejtették meg. A fórumok, blogok nagymennyiségû spammelése azonban automatikát igényel, amihez a gépeknek kell megtörni a CAPTCHA-kat.
+
+
+
+A jellemzõen véletlenszerû betûket eltorzított képként mutató CAPTCHA célja nem más, minthogy az emberek számára gyors és egyszerû módon szûrje ki a gépeket az emberek közül. Ahogyan neve, a Completely Automated Public Turing Test to Tell Computers and Humans Apart mutatja, egy egyszerû Turing tesztrõl, az intelligencia meglétének vizsgálatáról van szó. Egy trükkös, erõs CAPTCHA megfelelõ megoldásnak mutatkozott egészen eddig a spamrobotok távol tartásához, így a legtöbb weboldal ilyen védelmet használt.
+
+Nem elég nehéz már a számítógépeknek
+
+Az elmúlt hónapok során azonban olyan pletykák kerültek felszínre, mely szerint egyes spammerek a betûk és számok egyszerû sorozatát alkalmazó CAPTCHA-kat egyre nagyobb hatékonysággal képesek megfejteni. Egy hónappal ezelõtt egy orosz számítógépbiztonsági kutató, aki magát John Wane álnévvel illeti, azt írta egy blogbejegyzésében, hogy a Yahoo! által használt CAPTCHA-t nagyjából 30 százalékos arányban eredményesen felismerõ rendszer került a spammelõk kezébe, ami bõségesen túlhaladja már a hatékony spammeléshez szükséges minimum küszöböt.
+
+A hacker ezt követõen saját CAPTCHA-felismerõ implementációba kezdett, és körülbelül 35 százalékos eredményességet ért el -- vagyis úgy tûnik, a Yahoo! CAPTCHA törhetõ, ez alapján pedig ésszerû feltételezés az, hogy a többi hagyományos CAPTCHA védelem sem hatásos többé. A Yahoo! védelme koronaékszernek számít a spammelõk körében, ugyanis sokak szerint a legnehezebbnek számít. Az orosz hacker állítása szerint értesítette a Yahoot, az azonban nem válaszolt.
+
+
+Az implementáció egy kliens-szerver architektúra, ahol a kliens az oldalakat böngészõ spamrobot, mely ha CAPTCHA-ba ütközik, akkor azt elküldi a szervernek, mely a felismerõ szerepét tölti be. A szerver a felismerést követõen kapott szöveges kimenetet visszaküldi a kliensnek, mely beilleszti azt a válaszmezõbe -- helyes megfejtés esetén a kliens továbbjut.
+
+Hasonló törésrõl adott hírt a Websense biztonságtechnikai cég is. A Websense olyan robotba botlott a weben, mely a Microsoft CAPTCHA-ját 30-35 százalékos eredményességgel töri meg. A cég úgy véli, a bûnözõk elsõsorban ingyenes e-mail fiókokat akarnak megszerezni spam és phishing támadások céljából. Az IronPort biztonsági cég egyik vezetõje szerint ironikus, hogy a képi spamek elhárítására kifejlesztett technológiát a spammelõk saját céljaikra használják fel.
+
+"Tudatában vagyunk a CAPTCHA képek automatizált megoldására tett próbálkozásoknak, és folyamatosan dolgozunk a fejlesztéseken, ahogyan más védelmeken is. A probléma hosszabb távon az, hogy a számítógépek teljesítményének exponenciális növekedésével egyre vékonyodik a terület az emberi és gép intelligencia között, és egyre komplexebb feladatra lesz szükség a Turing-teszt elvégzéséhez. "Valami olyasmit kell csinálni, mely elég egyszerû és könnyû az embereknek, hogy elfogadják, de túl nehéz egy számítógépnek, hogy önállóan megoldja" -- véli Dan Hubbard, a Websense alelnöke. Hamarosan valószínûleg tehát számítástechnikailag sokkal nagyobb kihívást jelentõ CAPTCHA-kkal és értelmezni szükséges kérdésekkel találkozhatunk.
+
+Itthon az emberekkel van gond
+
+Itthon sokkal inkább jelent problémát az emberi spammelés, mondta el a HWSW megkeresésére Barczi Imre, a Blog.hu részérõl. "Nem igazán jutnak át spamrobotok, sokkal jellemzõbb a kézi spam", majd hozzátette, hogy a regisztrációs védelmen (JavaScript + CAPTCHA) még nem jutottak át. A védelem szigorításával kapcsolatban megjegyezte, hogy sokkal aggasztóbb itthon ez a manuális szemetelés. "Hazai viszonyok között sokkal inkább a kézi spamtõl félek, az jellemzõbb, és nem is lehet technikai vonalon védekezni ellene". A jövõre nézve a Blog.hu, hasonlóan másokhoz, fokozatosan áttér a "csak bejelentkezett felhasználók kommentezhetnek" módszerre, vagyis csak a regisztrációkor kell egyszer, áthatolhatatlan védelmet alkotni.
+
+A HWSW saját tapasztalatai alapján a robotok a magyar oldalakat bár próbálják spammelni, ezt elég primitív módon teszik, és a védelmet valóban nem törik egyelõre meg. Ezt vélhetõen az magyarázza, hogy minden védelem igényel specifikus erõfeszítést, így globális léptékben kis méretükbõl fakadóan a hazai oldalak egyelõre nem érik el azt a küszöbszintet, mely célzott támadásokat váltana ki. Barczi tapasztalataihoz hasonlóan sokkal nagyobb fejfájást okoznak azonban az emberi spammerek. A HWSW érdekeltségébe tartozó Buzz.hu informatikai blogportálon egy elszánt spammer például több mint kétszáz blogot indított saját üzletének reklámozása érdekében.

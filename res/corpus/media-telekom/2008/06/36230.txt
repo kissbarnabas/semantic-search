@@ -1,0 +1,14 @@
+Olcsóbb lehet a WiMax egy új szövetségnek köszönhetõen
+
+[eWeek] Egy új szövetség próbál rendet tenni a WiMax vezeték nélküli adatátviteli szabvány körüli káoszban, a tegnap megalapított Open Patent Alliance az egyes szabadalmak licencelését teszi könnyebbé, átláthatóbbá. A jogdíjakkal kapcsolatos költségek így kiszámíthatóbbak, tervezhetõbbekké válnak.
+
+
+
+Az Open Patent Alliance (OPA) szövetséghez nem kisebb cégek csatlakoztak, mint az Alcatel-Lucent, a Cisco Systems, a Clearwire, az Intel, a  Samsung, és az amerikai hálózatának kereskedelmi indítását már többször csúsztató Sprint Nextel. Az OPA jelenlegi tagjainak reményei szerint további 6-9 jelentõs szabadalmakkal rendelkezõ befektetõi csoport csatlakozik hamarosan a szövetséghez.
+
+A szabadalmak körüli káoszba rendet vágó OPA egyedül is rendelkezni fog azokkal a jogokkal, melyek szükségesek ahhoz, hogy egy WiMax Forum ajánlásoknak és IEEE 802.16e szabványnak megfelelõ WiMax-implementáció elkészülhessen. Európában többek között Angliában Finnországban, Észtországban, Németországban és Franciaországban üzemelnek kereskedelmi WiMAX hálózatok, melyet telepített eszközökkel lehet igénybe venni, vagyis nem mobilak, és különbözõ frekvenciatartományokat használnak.
+
+
+A WiMax IP-alapú, negyedik generációs kommunikációs megoldásnak tekinthetõ, ahol a harmadik és negyedik generációs mobiltechnológiákkal ellentétben idõoszAtásos (Time Division Duplexing, TDD) technológiával oldják meg a kétirányú kommunikációt, mely azonos frekvencián továbbítja oda-vissza az adatokat különbözõ idõszeletekben, ezzel keskeny spektrumú, gyors kommunikációt biztosítva.
+
+Az OPA alapítói szerint a szabadalmak szövetségen keresztüli közzététele nem csak a berendezések együttmûködését, interoperabilitását biztosítja, de a jogdíj-struktúra átláthatóvá tételével olcsóbbá is teheti a WiMax implementációk elkészítését, hiszen csak azokkal a szabadalmakkal kapcsolatos jogokat kell a rendszerépítõknek megvásárolni, ami az adott készülékhez, megoldáshoz valóban szükséges.

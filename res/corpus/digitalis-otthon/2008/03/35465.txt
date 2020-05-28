@@ -1,0 +1,30 @@
+Kapható a hatalmas képérzékelõvel szerelt Sigma DP1 kompakt fényképezõgép
+
+Megkezdõdött a hányatott fejlesztési múlttal rendelkezõ Sigma DP1 fényképezõgép sorozatgyártása, a készülék mától elméletileg meg is vásárolható. A 800 dolláros kompakt gép az SD14 tükörreflexes nagytestvér hatalmas, ilyen méretû fényképezõgépben még nem látott Foveon képérzékelõjét kapta, amely elé fix gyújtótávolságú optika került.
+
+
+
+Miveon?
+
+A Sigma név kevesek számára ismeretlen, szinte minden jelenleg kapható tükörrefles fényképezõgéphez választható egy-egy objektív a megoldásai közül, legyen az nagylátószögû-, makró, vagy teleoptika, továbbá a fényépezõgép-kitekben található alapobjektív kiváltója. A gyártó emellett saját digitális gépvázával a 2002 óta több elõddel is rendelkezõ, jelenleg is kapható SD14-gyel is próbál szeletet hasítani a digitális képalkotás piacából. Az ebben alkalmazott Foveon képérzékelõ jelentõsen eltér az egyéb gyártók termékeiben látott megoldásoktól.
+
+A Foveon technológia lényege, hogy a képérzékelõ felületen a vörös-kék-zöld fényérzékelõ képpontok nem egymás mellett, hanem egymás felett-alatt helyezkednek el, tehát a hagyományos CCD és CMOS érzékelõkkel szemben a szenzor minden egyes pixelben, képpontban képes a teljes RGB színadatok regisztrálására. Az így kapott kép teljesen zavarmentes lehet és lényegében háromszor annyi színinformációt tartalmazhat, mint a hagyományos szenzorokkal elõállított kép.
+
+A technológia a szilícium azon tulajdonságán alapul, hogy a különbözõ színeknek megfelelõ spektrumú fényt a szilícium különbözõ mélységekben nyeli el. A kék fény például a felszínhez közel nyelõdik el, míg a vörös fény jut a legmélyebbre. Minden Foveon pixel három fénydetektorból áll, melyek a szenzor különbözõ mélységeiben találhatók, és a különbözõ alapszínek elnyelõdésére reagálnak. A három fénydetektor az elnyelt fényt elektronikus jelekké alakítja, melyet a Foveon képalkotó szoftvere dolgoz fel. A Foveon az elsõ és egyetlen olyan cég, mely a szílicium ezen képességét használja fel képérzékelõ szenzorok tervezésére és készítésére.
+
+A jobb oldali ábrán jól látható a Foveon képérzékelõs Sigma DP1 hatalmas képérzékelõje
+
+DP1
+
+A másfél évvel ezelõtt beharangozott, végre piacéretté vált DP1 kompaktban a kategóriában általános, körömnyi méretû érzékelõ helyett a 14,06 "megapixeles" SD14 tükörreflexes gép érzékelõje dolgozik, amelyre azonban vadonatúj színszûrõ került. Az érzékelõ nagyon gyors képfeldolgozó processzort feltételez, amely megvalósul a "True" áramkörben. A 20,7 x 13,8 milliméteres fizikai méretekkel rendelkezõ CMOS szenzor színenként elkülönülõ három rétege egyenként 2652 x 1768 (4,69 millió) képpont adatainak rögzítését teszi lehetõvé.
+
+
+A Foveon technológiából adódik, hogy a zöld képpontok száma nem duplája a vörösnek és a kéknek, hiszen mintába felesleges, egyben értelmetlen is rendezni az egyszínû rétegek képpontjait. Egy hétköznapi 12 megapixeles fényképezõgép esetében ez a szám a kék, a vörös és a két zöld képpontokat külön értelmezi, tehát a példában szereplõ felbontás esetén a képpontot alkotó négy alpixelbõl összeadódó valós képpontok száma mindössze három megapixel.
+
+A mellényzsebben is elrejthetõ kisméretû alumínium gépváz és a nagyméretû képérzékelõ együttes alkalmazása nem adott túlságosan szabad kezet az optika tervezésekor, ezért a DP1 F:4 fényerejû objektívje fix 28 milliméteres gyújtótávolságú. Az optika által rajzolt kép teljes mértékben mentes a színhibától, ez talán a fix gyújtótávolság "számlájára írható", mert nem kell kompromisszumot kötni annak érdekében, hogy a zoomtartomány egészén értékelhetõ legyen a minõség. E kompromisszum majdnem minden zoomoptikás készüléknél a jelentõs színhibán érhetõ tetten. Jó példa lehet a sok hívet szerzett Ricoh GR Digital kezdeményezés is, azonban ebben a fix gyújtótávolságú gépben körömnyi szenzor észleli a külvilág képét. A Sigma DP1 próbafotók ide kattintva tekinthetõk meg.
+
+Gyors kártya kell
+
+A DP1 teljes-automata üzemmódja mellett megtalálható a zár-, illetve a blende elõválasztás, valamint a teljes kézi kontroll üzemmódja is, amelyben e két értéket egyaránt állíhatjuk. A HDR (High Dynamic Range) képek iránt rajongók is örömüket lelhetik a készülék gyors RAW képkezelésében, valamint expozíció-sorozati képességeiben (egy másodperc alatt elkészül egy háromfotós RAW-sorozat), bár nincs olyan HDR képfeldolgozó szoftver, amely natív módban támogatná a Foveon X3F RAW formátumát.
+
+A DP1 érzékenysége ISO 100-tól ISO 800-ig állítható, utóbbi esetben is igen mérsékelt a zajmennyiség. Az elkészült 3:2 képarányú felvételek SD-, illeve SDHC kártyákra egyaránt kerülhetnek, de akár kisebb, másodpercenkénti 30 képkockás klipek is rögzíthetõk ezekre, amelyek maximális felbontása 320 x 240 képpont lehet. Ez a minõség gyengének is tûnhet, azonban ne feledkezzünk meg arról, hogy a képkockák egy fizikailag nagyméretû, ráadásul 14 megapixeles érzékelõbõl kerülnek kiolvasásra. A gépházban lítiumion akkumulátor dolgozik, a gyártó állítása alapján 250 fotó elkészültéhez akkor is elegendõ, ha e képek felét a beépített vakuval exponáljuk. A 800 dolláros készülékhez külön kell megvásárolni a 140 dolláros optikai keresõt, e kiegészítõ hiányában a 230 ezer képpontos, 2,5 hüvelykes kijelzõre is örömmel hagyatkozhatunk.

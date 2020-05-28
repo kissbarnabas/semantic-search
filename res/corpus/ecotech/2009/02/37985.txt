@@ -1,0 +1,18 @@
+Meredeken emelkednek a memóriaárak
+
+Meredek emelkedésnek indultak a DDR2-memóriaárak az elmúlt napokban, miután a Qimonda csõdöt jelentett, a többi gyártó pedig tartja a drasztikusan csökkentett kibocsátási szintet. A DRAMeXchange üzletkötési adatai alapján az 1 gigabites DDR2-chipek ára mindössze két hét alatt közel másfélszeresére ugrott az azonnali kereskedésben, és a modulok jelenlegi elõállítási költségei már a jelenlegi kiskereskedelmi árszint fölé mentek.
+
+
+
+A német Qimonda, Európa egyetlen DRAM-gyártója január 23-án közölte, hogy fizetésképtelenné vált, miután nem tudta meggyõzni a bankokat, hogy hitelt nyújtsanak a likviditási problémáinak orvoslására. Amennyiben a vállalatnak nem sikerül március végéig vevõt találnia, úgy a cégnek teljesen elfogy a mûködéshez szükséges pénze, és összeomlását követõen minden bizonnyal felszámolják. Az esélyeket rendkívüli mértékben lerontja, hogy a DRAM-ipari szereplõk súlyos állapota, valamint a hitelezési krízis közepette sem szakmai, sem pénzügyi befektetõ nem valószínû. A német Sächsische Zeitungnak nyilatkozó felszámolóbiztos ugyanakkor elmondta, egy érdeklõdõ már van a cég iránt. 
+
+A tavaly õsszel megkezdõdött termeléscsökkentések, valamint a Qimonda csõdjének együttes hatására kisebb-nagyobb megülésekkel ugyan, de a DRAM lényegében folyamatosan drágul, és mára a mélypont több mint kétszeresébe kerül. A DRAMeXchange adatai alapján egy kitesztelt, 1 gigabites DDR2-chipre 59 dollárcentért is kötöttek üzletet, ami kevesebb mint az anyagköltség fele, míg ma napközben az 1,25 dollárt (290 forint) is elérte az ár. Jelenleg akár 2 ezer forint alatt is találni 1 gigabájtos DDR2-modulokat egyes hazai boltokban, de a brand modulok ára is 3 ezer forint alatt marad -- ezek a most gyártott modulok bekerülési költsége alatt vannak.
+
+
+ Az iSuppli adatai alapján a Qimonda a világtermelés nagyjából 5 százalékát adja, részesedése pedig bérgyártói révén 9,7 százalékot tett ki 2008 harmadik negyedévében. A DRAMeXchange úgy becsli, jelenleg mintegy 30 százalékkal alacsonyabb az ipar DRAM-kibocsátása mint tavaly szeptemberben. Az árak normalizálódását immár a korábban ellenfelei tönkretételére játszó Samsung Electronics is elõsegíti, a dél-koreai vállalat nagyjából a piac harmadát uralja. Elemzõk úgy látják, hogy a vállalat így akarja megszüntetni a kényszert, hogy a tajvani gyártóknak a túlélés érdekében egyesülni kelljen, egy sokkal erõsebb ellenfelet képezve.
+
+DDR3: csak jövõre kerül többségbe
+
+A DRAMeXchange szerint a gyenge piaci körülmények és a DDR2-túltermelés hatására a DDR3 csak jövõre veszi át a vezetõ szerepet, ami több faktorra vezethetõ vissza. A kínálati oldalon a súlyos, az elmúlt két évben összesen 10 milliárd dollárt kitevõ veszteségek hatására a memóriagyártók felére vágták vissza idei tervezett tõkeberuházásaik nagyságát, ami a kisebb geometriájú gyártástechnológiákra történõ DDR2-migrációkat fedezik lényegében, és viszonylag kevés pénz jut a DDR3-kapacitásokra.
+
+Eközben a DDR3 DIMM-eket támogató alaplapok jelentõs, több tízezer forintos felárat viselnek, ahogyan a DDR3-modulok is sokezer forinttal többe kerülhetnek. A DRAMeXchange úgy becsli, év végére 28 százalékot tehet ki a DDR3 aránya, míg a DDR2 50 százalékon fog állni, míg az év egészére rendre 17 és 60 százalékon alakulnak a részesedések. Jelenleg a modulszállítások kevesebb mint 1 százalékát teszi ki a DDR3.

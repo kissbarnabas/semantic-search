@@ -1,0 +1,53 @@
+Kipróbáltuk a TallyGenicom 8108N színes lézernyomtatót
+
+Visszafogott ára és masszív felépítése mellett beépített hálózati képességekkel és kiemelkedõ monokróm nyomtatási sebességgel tûnik ki a TallyGenicom 8108N.
+
+
+
+Hagyományos megjelenésû lézernyomtató az N8108, melyet kisebb irodákba, iskolákba vagy otthoni használatra szántak, átlagosan havi 1000 oldalas terhelésre. Homlokzati ajtaját felnyitva látható a négy különálló festékezõ, felül a hosszú élettartamú fényhengert, hátul pedig a fixáló egységet cserélhetjük hasonló könnyedséggel. Szintén a hátsó ajtót kinyitva szüntethetõ meg egy esetleges papírelakadás is (a teszt során nem fordult elõ), ezért nem árt helyet hagyni a készülék mögött telepítéskor.
+
+Fekete-fehérben meggyõzõen jó teljesítményt nyújt a készülék, maximálisan 31 monokróm oldal árkategóriájában szép eredmény, a nyolc színes oldal is több az átlagosnál. Méréseink szerint hideg állapotból 45, üzemi állapotból 19 másodperc alatt készíti el az elsõ tesztoldalt, azaz ugyan gyors a 8108N, de hosszabb felfûtési szakaszt igényel, mint a legmodernebb asztali lézernyomtatók. A nyomtatminõség lézer viszonylatban átlag felett van, nem tapasztaltunk csíkosodást és az árnyalatképzés egy kicsit igényesebb, fényesebb lézernyomtató papíron alkalmi fotók készítését is lehetõvé teszi. ICM korrekció segíti a jobb színvisszaadást. A zajkibocsátás sajnos átlag feletti készenléti állapotban. Praktikus tulajdonsága a 8108N-nek, hogy ha kifogynak a színes kellékanyagok, akkor is lehetséges monokróm (fekete) oldalak nyomtatása. 
+
+
+
+Csak 1000 oldalra elegendõek a csomagolással mellékelt kellékanyagok, de kereskedelmi forgalomban már nagyobb kapacitású (2500 monokróm illetve 1500 színes oldal) kazettákat árulnak. Mi a gazdaságosabb, nagy kapacitású (5000 monokróm illetve 3000 színes) kellékanyagokkal számoltunk, mint legkedvezõbb eshetõséggel. Monokróm üzemben nagyon kedvezõ, 6,14 forintos oldalköltségeket számítottunk a nyomtató élettartamán belül. A CMYK színes nyomtatás már nem ilyen kedvezõ, 40 fprint feletti árban lehetséges, ami nem mondható kiemelkedõnek. Lényeges, hogy a gyártó a készülék élettartamát 5 évben vagy 48 ezer oldalban határozza meg, ami a fényhenger és a fixáló egység hivatalos élettartamából ered, éppen ezért a költségek számításakor nem vettük figyelembe ezek, és a hulladék-toner gyûjtõ árát. Utóbbi nincs 2000 forint 12 ezer oldalra vetítve, de a fotóhenger megközelíti az új nyomtató árát, a fixáló pedig majdnem kétszer annyiba kerül.
+
+
+ Aki tehát nagyobb terheléssel dolgozna, illetve 48 ezer oldalon túl is számol, annak érdemes feljebb méretezett nyomtatót keresnie. Megjegyezzük, hogy a célcsoport tagjai nem nyomtatnak el 48 000 oldalt 5 év alatt, aki ennél többre vágyik, annak egy kategóriával feljebb kell kutakodnia. Nem éppen környezettudatos megoldás, de egy vadonatúj 8108N vásárlása a legolcsóbb megoldás az "élettartam" kiterjesztésére, hiszen ezt levetítve az oldalköltségben 1 forintot jelent a készülék amortizációja.
+
+Minden kellékanyag állapota nyomon követhetõ a webes adminisztrációs felületen.
+
+Hálózaton képes szolgáltatásait megosztani a készülék, sõt menedzselhetõ is. Egy szimpla web böngészõvel érhetjük el az adminisztrációs oldalakat, ahol nyomon követhetõ a kellékanyag készlet alakulása is. Üzemzavar esetén kérhetünk e-mail értesítést is, akár külön a kellékanyag beszállítónak és a rendszergazdának, összesen 5 címre. Apple számítógépeken is megosztható a nyomtató. A windowsos meghajtóprogram beállítópaneljein részletes beállítási lehetõségeket kapunk, irodai használatnál nagyon jól jönnek az átméretezés, több oldalt egy lapra, fordított sorrend, leválogatás, színes vízjel, elválasztó lap funkciók. Még a nyomtató kijelzõjére is írathatunk feliratot, hogy látható legyen, kitõl vagy kinek érkeznek az oldalak.
+
+
+A TallyGenicom 8108N sebessége
+
+
+Tesztoldal (Windows) hideg állapotból
+45
+
+
+
+Fekete-fehér szöveg elsõ oldala
+14 
+
+
+
+Fekete-fehér szöveg 10 oldal
+31
+
+
+
+Kétoldalas weblap
+31
+
+
+
+Tízoldalas színes irodai PDF
+99
+
+ Tipikus nyomtatási feladatok sebességadatai másodpercben
+
+Olyan (munka)helyekre a legalkalmasabb a 8108N, ahol közepes hosszúságú, nagyrészt fekete fehér dokumentumokat nyomtatnak, sebességben és költségekben is ekkor teljesít igazán jól. Olcsón juthatunk vele belépõ szinten terhelhetõ hálózati nyomtatóhoz, árához képest pedig kimagaslóan jó teljesítményt nyújt monokróm nyomtatáskor.
+
+A teszkészüléket a Kvint-R biztosította. Köszönjük.

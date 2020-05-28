@@ -1,0 +1,14 @@
+Akár 16 megabites letöltési sebesség a Vodafone kísérleti HSPA+ hálózatán
+
+Tovább növelné a 3G-s mobilhálózatokon elérhetõ adatátviteli sebességet több országban is jelenlévõ kereskedelmi hálózatán a Vodafone. A brit székhelyû mobilszolgáltató a napokban sikerrel zárta spanyolországi tesztjét, melynek során a jelenleg széles körben elterjedt HSDPA/HSUPA technológiákkal biztosítható letöltési sávszélesség legalább kétszeresét mérték. A gyorsabb mobil távközlési rendszert akár már idén bevezetheti a Vodafone több országban.
+
+
+
+A Vodafone elvégezte elsõ, HSPA+ rendszert használó mobil adatátviteli tesztjét, mely során a szolgáltató spanyol hálózatán felépített közegben 16 megabit/másodperces maximális letöltési sebességet mértek. A szolgáltató szakemberei szerint a most tesztelt, fejlettebb modulációt (64QAM) használó HSPA+ hálózattal ideális körülmények közt nagyjából 13 megabit/másodperces sávszélesség érhetõ el reálisan, míg a kritikusnak számító, sûrûbben lakott területeken elhelyezett celláknál is átlagosan 4 megabit/másodperces letöltési sebesség realizálható. Ez a HSDPA-technológiával elérhetõ tartós letöltési sávszélesség legalább kétszeresét, adott esetben akár négyszeresét jelentheti.
+
+A szolgáltatónál az Ericsson és a Qualcomm közremûködésével zajló tesztekre a sikeresen záródott, laboratóriumi körülmények közt végzett kísérletek után került sor, a cég ugyanakkor már most elõrevetítette, hogy az új modulációs eljárással végzett próbákat követõen tovább próbálkoznak a sávszélesség növelésével, több antennával rendelkezõ (MIMO) berendezéseket használva. A HSPA+ rendszerbõl MIMO technológiával elméletileg akár 42 megabit/másodperces letöltési sebesség is kifacsarható, a Vodafone szerint azonban a reális cél 2009 elején legfeljebb 21 Mbps-os letöltési sávszélesség.
+
+
+A gyorsabb adatátvitelt ígérõ mobil szélessávú rendszer használatához ugyanakkor új bázisállomásokra és elõfizetõi végberendezésekre van szükség. A 64QAM és MIMO-kompatibilis eszközök tesztelése már folyik a Vodafone-nál, a berendezések a bevizsgálás és jóváhagyás után kerülnek majd kereskedelmi forgalomba. A HSPA+ rendszerre több iparági szereplõ is egyfajta közbülsõ lépésnek tekint, mely az LTE (Long Term Evolution) technológia bevezetéséig igyekszik kiszolgálni a mobil szélessávon internetezõk részérõl jelentkezõ növekvõ sávszélességiényt.
+
+A Vodafone mellett korábban többek közt az ausztrál Telstra, a hongkongi PCCW és a szingapúri Starhub is végzett HSPA+ átvitellel kísérleteket.

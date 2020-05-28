@@ -1,0 +1,18 @@
+Gigabites vezeték nélküli adatátvitelt nyújtana olcsón a GiFi
+
+[Ars Technica] Egymást folyamatosan felüllicitálva próbálnak gyorsabb, energiatakarékosabb, széleskörûen használható villámgyors vezeték nélküli kommunikációs lapkát készíteni a vállalatok, melyekkel megoldhatnák különbözõ berendezéseink, szórakoztatóelektronikai eszközeink közötti jelek, adatok átvitelét. Erre a célra pályázik a WirelessHD konzorcium, de a Sony is.
+
+
+
+Az ausztrál NICTA (National ICT Australia) is elõrukkolt saját fejlesztésével, mely elõremutatóbb minden konkurens megoldásnál. A kutatók a WirelessHD átdolgozás alatt álló specifikációjánál is 25 százalékkal nagyobb, akár 5 gigabit/s-os adatátviteli sebességet ígérnek, melyet 10 méteres távolságon is nyújtani tudna a lapka -- legalábbis Stan Skafidas professzor, a kutatócsapat vezetõje szerint.
+
+
+Stan Skafidis professzor
+Fotó: Neil Newitt
+
+A GiFi névre keresztelt kommunikációs lapka a világszerte szabadon elérhetõ 60 GHz-es tartományban mûködik, mindössze 5x5 mm-es méretû lenne és CMOS technológiával készülhetne, így kevesebb mint 10 dollárba kerülne darabonként. A mindössze 1 mm-es antennája mellett 2 W teljesítménnyel érné el ezt a hatalmas adatátviteli sebességet és 10 m-es hatótávolságot, ezért mobil eszközökben valószínûleg még jóideig nem láthatjuk majd ezt a megoldást.
+
+A NICTA várhatóan még ebben az évben egy céget hoz majd létre a kommunikációs megoldás kereskedelmi bevezetésére, de a projekt befejezéséhez és a gyártás megkezdéséhez még körülbelül 10 millió dollárra lenne a csapatnak szüksége. A szervezet az IEEE testületével is együttmûködik, hogy az év végén megjelenõ prototípusok megfeleljenek az IEEE 802.15.3c szabvány specifikációinak is.
+
+
+A GiFi-hez és WirelessHD-hez hasonló megoldások nem csak szórakoztatóelektronikai készülékekben, televíziókban, HD-lejátszókban, vevõberendezésekben (set-top-boxok), de játékkonzolokban, adapterekben és más kép- és hanganyagot továbbító készülékekben is használhatók  lennének adatátvitelre, teljesen eltüntetve a kábeleket otthoni készülékeink mellõl.

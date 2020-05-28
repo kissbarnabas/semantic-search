@@ -1,0 +1,20 @@
+Több millió forintos kártérítést fizetett szoftverkalózkodásért két magyar cég
+
+Peren kívüli egyezséget kötött két magyar vállalattal is a BSA, az üzleti szoftvergyártók egy csoportját képviselõ Business Software Alliance. A szervezet közleménye szerint egy keleti-magyarországi iparvállalat és egy országos élelmiszer kereskedelmi lánc jelentõs értékben használtak illegálisan szoftvereket. 
+
+
+
+A cégeknél a rendõrség és a VPOP tartott razziákat a BSA bejelentése nyomán, és lefoglalta a helyszíneken talált illegális szoftvereket futtató számítógépeket. A két vállalat, elismerve a jogsértést, összesen 8,6 millió forint kártérítést fizetett a BSA részére, valamint pótlólagosan megvásárolta a szoftvereket, ismét több milliós tételben. A megállapodás részeként a BSA nem nevezi meg a vállalatokat. 
+
+A BSA közleményében természetesen üdvözli a fejleményt, "hiszen mindenki számára nyilvánvalóvá válik, hogy mekkora kockázatot vállal az, aki illegális szoftvereket használ vagy megtûr a vállalatánál" -- fogalmazott Sarlós Gábor, a BSA szóvivõje. A magyar jogszolgáltatás nehézkessége és az esetek jogi komplexitásából fakadóan azonban azok a szervezetek, melyek nem ismerik el a jogsértést, hosszadalmas pereskedéssel halaszthatják el a kártérítések kifizetését. "Van olyan ügy, amelyben a büntetõeljárás már több mint 7 éve megindult, azonban ennek ellenére az ügyben elsõfokú ítélet a mai napig nem született" -- mondta Sarlós.
+
+A BSA közleménye szerint ráadásul a jelenlegi esetben érintett két magyar céget ráadásul nem rosszhiszemûsége, hanem szoftverkezelés szabályozásának és gyakorlatának hiányosságai okozták, melyekkel elkerülhetõ lett volna a probléma. "Minden vállalatvezetõnek tisztában kell lennie azzal, hogy ha illegális szoftvert használ, illetve ha a szoftverek nyilvántartásánál nem tartja be a Számviteli törvény elõírásait, akkor a cége mûködési biztonságát kockáztatja, és elõbb-utóbb szembe kell néznie a jogi következményekkel. A nagyobb értékû büntetõügyek esetében a kártérítés megegyezett mértéke akár nagyságrendileg is nagyobb lehet a fentieknél, ez pedig már a cég mûködõképessége szempontjából is jelentõs tényezõ" -- figyelmeztet Sarlós.
+
+
+Az IDC és a Business Software Alliance (BSA) közös kutatása szerint 2006-ban Magyarországon 42 százalék volt a PC-ken használt illegális szoftverek aránya, ami változatlan 2005-höz képest. A régiós átlag azonban 68 százalék, ami világszinten a legmagasabb, még Latin-Amerikát, a Közel-Keletet és Afrikát, valamint a Távol-Keletet is lekörözi. A felmérés szerint az illegális szoftverhasználat miatt a magyar informatikai piac szereplõi tavaly 111 millió dollár, azaz mintegy 21 milliárd forint bevételtõl estek el.
+
+Tavaly márciusban egy következõ stratégiai húzásként a BSA megállapodást kötött az APEH-hel. Az együttmûködés lényege, hogy a BSA szakképzésben részesíti az APEH alkalmazottait, hogy azok eredményesebben végezhessék munkájukat, az illegális szoftverhasználatnak ugyanis adózási vonatkozásai is lehetnek. Az illegális szoftver többek között sértheti az informatikai eszközöknek a számviteli törvényben taglalt elszámolási módját, azáltal, hogy a hardver beszerzési költségeit csak akkor jogszerû leírni például, ha azokon jogtiszta szoftver is fut -- szoftver nélkül ugyanis a hardver mit sem ér. Egy kiképzett revizor képes lehet megállapítani, hogy a cég rendelkezik-e az adott számú számítógépen megfelelõ mennyiségû licenccel a tevékenységének elvégzéséhez, és ha problémát érzékel, akkor azt számon kérheti a vállalattól.
+
+[+] APEH-BSA szövetség alakult
+
+Az itthon szoftverrendõrségnek is titulált BSA magyarországi tagjai a következõ cégek: Adobe, Altium, Apple, Autodesk, Avid, Bentley Systems, CNC Software/Mastercam, Corel, Graphisoft, Microsoft, Mindjet Corporation, Monotype, Quark, Siemens PLM Software, SolidWorks, Symantec, Tekla és The MathWorks. 

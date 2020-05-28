@@ -1,0 +1,18 @@
+Grafikus chipekre alapozó mérnöki-tudományos rendszer az NVIDIA-tól
+
+Tesla chipekre épülõ, elõre konfigurált rendszert jelentett az NVIDIA, amelyet kimondottan mérnöki-tudományos célra szán. A lépéssel megindulhat a GPU-k terjedése a személyi szuperszámítógépek területén.
+
+ 
+
+A Tesla GPU Preconfigured Cluster négy darab, rackbe szerelhetõ, egyenként négy darab Tesla processzort és 16 gigabájt memóriát tartalmazó Tesla S1070 szerverbõl áll, amelyeket InfiniBand interfész kapcsol össze. Az integrált megoldás tartalmazza a Tesla-alapú szervereket, x86-os szervereket, az InfiniBand kapcsolókat és a kábelezést is, a vevõnek lényegében csak be kell kapcsolnia a rendszert és használni.
+
+
+ Az NVIDIA azt állítja, világszerte több millió olyan mérnök, biológus vagy éppen pénzügyi elemzõ dolgozik, amelynek munkáját szuperszámítógépek segítségével hatékonyabbá lehetne tenni, csakhogy a szupergépekhez nem mindenki férhet hozzá. A vállalat szerint a megoldás egy olyan, Tesla-alapú "személyi szuperszámítógép" beüzemelése lenne, amely segítéségével a nagy tömegû számításokat igénylõ mûveleteket energiahatékonyan fel lehetne gyorsítani.
+
+Tesla S1070: nagy erõ egy kis dobozban
+
+A Tesla S1070 szerverekben található Tesla 10P chipekben egyenként 240 processzormag dolgozik, a 4 darab S1070-ben tehát összesen 3840 mag számol. A chipekre a CUDA (Compute Unified Device Architecture) segítségével szabványos C nyelvû programokat lehet írni. A vállalat szerint már a minimális konfiguráció is 16 teraflops, azaz másodpercenként 16 ezer milliárd lebegõpontos mûvelet teoretikus végrehajtására képes, ezzel toronymagasan lelépi a hasonló méretû x86-os konfigurációkat. Arról az NVIDIA közleménye már hallgat, hogy ez a teljesímény egyszeres precizitás mellett értendõ, kétszeres pontosság esetén kevesebb mint tizedére esik vissza, továbbá a valóban leadott teljesítmény a végrehajtóegységek kihasználtságának függvénye -- az alkalmazhatóság tehát erõsen feladatfüggõ.
+
+A nem grafikus célokra használt GPU-k felhasználhatóságát azonban ma már nehéz kétségbe vonni. Ennek egyik példája a japán Tsubame, a világ elsõ CPU-GPU hibrid szuperszámítógépe, amelynek  Tesla processzorokkal frissített verziója tavaly novemberben jelent meg a Top500 listán, ahol az elõkelõ 29. helyet érte el. A Tokiói Technológiai Intézet (Tokyo Tech) elemzése szerint az általuk futtatott molekuláris biológiai szimulációk számára a következõ évek során a grafikus processzorok bizonyulnak a legjobb választásnak a számításintenzív és sávszélesség-intenzív áramlástani modellezések területén.
+
+Az NVIDIA által most bemutatott rendszert nem maga a cég forgalmaza, hanem partnerei, köztük olyan, a mérnöki-tudományos számítástechnikai piacra koncentráló vállalatok mint az Appro, a CADNetwork, a Cray, a FluiDyna, a Megware, a Penguin, a Viglen és a Xenon.

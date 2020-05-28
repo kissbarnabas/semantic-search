@@ -1,0 +1,11 @@
+Csaknem egy évet késik az új PCI Express 
+
+A PCI-SIG eredeti tervei szerint a 3.0-s PCI Express szabvány eredetileg idén év végén készült volna el, az elsõ vele kompatibilis komponensek pedig már jövõre a boltokba kerülhettek volna. Yanes a Networkworldnek elmondta, a szabvány alapjait már lefektették és a munka nagy részét elvégezték, de biztosak akarnak lenni benne, hogy az új rendszer bevezetése nem okoz kompatibilitási problémákat, valamint részben ennek érdekében huzamosabb ideig tesztelni kell, hogy az elektronikai jellemzõk megfelelõen lettek-e meghatározva.
+A PCI Express harmadik generációja közvetlen elõdjénél kétszer gyorsabb adatátvitelt és teljes visszamenõleges kompatibilitást ígér. A 2007-ben bejelentett technológia 8 gigatranszfer/másodperces tempóval dolgozik, az elõzõ rendszerek jelátalakításból adódó 20 százalékos vesztesége nélkül, a PCI Express 3.0-s eszközök így egy adatvezetéket használva elérhetik a maximum 1 GB/másodperces adatátviteli tempót.
+
+A 2004-ben megjelent, a Dell, az IBM, a HP és az Intel nevével fémjelzett PCI Express technológia egyszerre váltotta fel a megelõzõ évek grafikus csatolóinak szabványát, az AGP-t, illetve a szintén elavulttá vált PCI buszt. A jelenleg 2.0-s verziójánál tartó csatolószabványt ma PC-s bõvítõkártyák széles köre használja, köztük elsõsorban a legnagyobb adatátviteli sávszélességet igénylõ grafikus gyorsítókártyákkal.
+A PCI Express szabványnak megfelelõ komponensek ma már az asztali számítógépek mellett egyaránt megtalálható a noteszgépekben, szerverekben, sõt néhány szórakoztatóelektronikai berendezésben is. Ez a csatolószabvány az alapja többek közt az ExpressCard noteszgép-bõvítõkártya szabványnak, valamint a szintén a notebookoknál használt, grafikus gyorsítóknak fenntartott Mobile PCI Express Module, azaz MXM-bõvítõkártyáknak, és a PCI Express Minicard formátumú kártyáknak.	     
+                  
+                  
+                  
+                   

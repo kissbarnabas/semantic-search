@@ -1,0 +1,34 @@
+A vállalatok ismerkednek a web 2.0-val
+
+Annak ellenére, hogy a web 2.0 diadalmától, forradalmától hangos az internet, egymást érik az újabbnál újabb zseniális eszközök és szolgáltatások, a vállalatok többsége még csak most lép rá a közösségi megoldások felé vezetõ útra -- állítja Jonathan Yarmis, az AMR Research elemzõje. Szerinte a közösségi média és hálózatok kezdeti idején könnyû dolgokat implementálni, de amennyiben egy vállalat nem határoz meg kristálytiszta üzleti célokat, akkor könnyen elveszítheti a fonalat és az úgynevezett "Kumbaya zónában" találhatja magát, ahol a közösségi média egy teljességgel haszontalan, idõpazarló tényezõvé válik, kevés üzleti értékkel.
+
+
+ 
+Jonathan Yarmisszal a CIO.com újságírója készített interjút, azzal kapcsolatban, hogy egyes vállalatok elõtt miképp úszik el a web 2.0-s hajó és hol kellene eszükbe jutnia, mit is terveztek eredetileg, ami késõbb nem valósult meg. A vállalatok a web 2.0 fogalmával, illetve a közösségi szolgáltatások virágzásával újra egy olyan eszközt kaptak a kezükbe, amivel komoly eredményeket lehet elérni. Itt viszont nem elég megnyomni a gombot, hanem alkalmazkodni kell ennek a világnak a sajátosságaihoz.
+
+Évekkel elõzi a fogyasztói piac a vállalatit
+
+A közösségi hálózatok és az ehhez kapcsolódó technológiák a fogyasztói világban már évek óta szinte töretlen népszerûséggel rendelkeznek, ezzel szemben az üzleti szféra egyelõre nehezen talál bármilyen értéket bennük. A hagyományos vállalati gondolkodás a közösségi médiával kapcsolatban azt az utat keresi, hogyan lehetne a Facebook és Twitter általi párbeszédet, társalgást beépíteni a használt eszközök közé. Yarmis ezzel szemben azt kérdezi, hogy miért kellene ezeket erõltetni, miért kellene ennek megvalósulnia? Önmagában a párbeszéd még nem ad semmilyen pluszt, nem eredményez hasznot, sõt, bizonyos esetekben visszafelé sülhet el és csökkentheti a termelékenységet. Kizárólag az a kommunikáció lehet kívánatos a vállalati szférában, ami valamilyen plusz jelentést hordoz és pozitív hatással van az üzletre.
+
+ 
+
+Az amerikai Comcast például kiválóan építette be a Twittert ügyfélszolgálatába. A kábelszolgáltatók többnyire nem állnak a helyzet magaslatán, amikor ügyfélszolgálatról beszélünk, de a Twitter-üzenetek küldésével javíthatták a felhasználók egy részének elégedettségét és a hirtelen felmerülõ kérdésekre azonnali válaszokkal szolgálhatnak, az aktualitásokról azonnal értesíthetik az érintetteket. Tették mindezt úgy, hogy magán az ügyfélszolgálati rendszeren semmit nem változtattak, csupán a Twitter-felhasználók által érzékelt szolgáltatásminõséget emelték meg.
+
+Útelágazás
+
+A közösségi média kihasználása a vállalatok számára két úton kezdõdhet: csatlakozni egy meglévõ rendszerhez, vagy beépíteni valamilyen technológiát a belsõ rendszerekbe, vállalati weboldalba. Yarmis tapasztalatai szerint viszont a kettõ közül az utóbbi valósul meg többnyire. A külsõ együttmûködés túlkomplikált, míg falakon belül kontrollálható a "kultúra", illetve falon belül a dolgok vírus módjára terjedhetnek el igen gyorsan, és sokkal természetesebbnek hatnak a külsõ megoldásoknál. 
+
+A felhasználók a saját maguk módján fogják használni a közös munkára fejlesztett eszközöket, vagy akár a web 2.0-ás alkalmazásokat, elég csak megnézni, hogy a vállalatoknál hogyan fogadták be a Microsoft SharePoint megoldásokat. A CIO.com által említett példában a szinte tisztán Microsoft technológiákat használó Universal McCann 60 különálló irodáját kötötte össze különbözõ közösségi szolgáltatások segítségével, a SharePoint Portal Server szolgáltatásaira építve anélkül, hogy bármilyen külsõ forrást igénybevettek volna. 
+
+Csõdöt mondott a Facebook
+
+Mivel a telefonos és e-mailes kommunikáció nem volt elegendõ ahhoz, hogy a 60 iroda dolgozói egy közösséggé formálódjanak, ezért a vállalat felméréseket végzett azzal kapcsolatban, hogyan lehetne ezt fejleszteni. A Facebook tûnt logikus megoldásnak és igyekeztek is elterjeszteni, de hiába hoztak létre csoportokat és közös felületeket, egy idõ után a dolgozók nem frissítették profiljukat, nem látogatták a közös tereket, így elhalt a kezdeményezés. Nem akarták újrateremteni belül a Facebookot, hanem kizárólag azokat a funkciókat tartották meg belõle, ami vállalható a dolgozók számára is, nem ró rájuk plusz terheket, de profitálhatnak belõle. 
+
+Onnantól kezdve viszont, hogy egy vállalat kilép a közösségi szolgáltatásokkal a saját területérõl, elveszti az irányítást felette, sokkal bonyolultabbá válik a kezelése és néhány jogi kérdés is felvetõdhet. Míg a fiatalabb korosztály bármit megosztana mindenkivel, addig a ranglétrán feljebb állók szerint a szervezeten kívüli információkat jobban kellene védeni, mint azokat, melyek belül vannak. Így jelenleg vannak olyan cégek, melyek szerint a "kollaboratív webben" van a jövõ, míg mások erõsen korlátozzák a kiengedett információkat. Õk azok, akik saját maguk szeretnék kezelni az intellektuális javaikat, ráadásul nagyon óvatosan.
+
+Ha feldobom webkettõ, ha leesik profit -- Mi az?
+
+
+Arra a kérdésre, hogy ezeket a közösségi szoftvereket hogyan érdemes implementálni, Yaris a következõket mondta: "Ez valahogy a Google által lett beállítva: dobj fel valamit és nézd meg mi esik le. A többéves, millió dolláros szerzõdések és szoftverbevezetések ideje ha nem is járt le teljesen, de alapjában véve nem számítanak már. Ha egy cég kijelöl egy üzleti célt, mint amilyen az ügyfél-elégedettség növelése, akkor egyszerûen meg kell tenni az elsõ lépést, mondjuk egy közösségi médiummal, és megnézni, hogy mi történik."
+
+Az is elõfordul, hogy egy vállalatnak több száz ötlete van arra, hogy mit kezdjen a web 2.0-val, ilyenkor az a legszerencsésebb, ha egyetlen eggyel indul el. Nem feltétlenül szerencsés megtervezni egy egész projektet elõre akkor, ha már az elsõ lépés után kiszámíthatatlan, hogy mi történik vele. Ez különbözteti meg alapjában véve a klasszikus szoftvermodellektõl. Számolni kell a felhasználói faktorral, illetve azzal, hogy a közösségi gondolkodás képes felülírni bármilyen prekoncepciót.

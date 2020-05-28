@@ -1,0 +1,30 @@
+Elkészült az Intel 32 nanométeres chipgyártási technológiája
+
+Elkészült 32 nanométeres csíkszélességû félvezetõgyártási technológiájával az Intel, amelyet a tervek szerint 2009 végén vet majd be tömegtermelésben. A következõ években is folytatódni fog tehát az a fejlesztési ciklus, amelynek keretében az Intel a páros években új architektúrával, a páratlan években pedig új gyártástechnológiával áll elõ.
+
+
+
+Tovább a megkezdett úton
+
+A vállalat belsõ terminológiájában csak P1268-két emlegedett, 32 nanométeres csíkszélességû eljárás technikai részleteit a jövõ héten San Franciscóban zajló International Electron Devices Meeting (IEDM) rendezvényen hozza nyilvánosságra a cég. A most kiadott, mûszaki részleteket kevéssé tárgyaló közlemény szerint a 32 nanométeres gyártástechnológia a 45 nanométeres eljárással megkezdett út egyenes folytatásának tekinthetõ. A P1268-nak nevezett eljárás az elõzõ generációnál bevezetett újdonságokat viszi tovább finomított formában.
+
+A 45 nanométeres technológia (P1266) legfontosabb áttöréseként a tranzisztorok szilícium-dioxid szigetelõrétegét egy magas K együtthatójú dielektrikummal helyettesítették az Intel mérnökei, míg a kapuelektródát polikristályos szilícium (poliszilícium) helyett fémbõl állították elõ, más anyagból az n-csatornás (NMOS) és más anyagból a p-csatornás (PMOS) tranzisztorok esetében. A poliszilícium kapuelektróda lecserélésére a magas K állandójú anyagokkal való összeférhetetlenség miatt vált szükségessé, az új elektróda alapja a hafnium.
+
+Az Intel által tömegtermelésben használt 65 nanométeres technológia esetében a tranzisztorok szilícium-dioxid szigetelõrétege rendkívül vékony, csupán öt atomi réteg vastagságú volt. A 45 nanométeres gyártástechnológiába kutatásakor vastagabb szigetelõréteget sikerült kifejleszteni egy hafnium-alapú anyagból, amelynek a szilícium-dioxidénál magasabb a K együtthatója. A K együttható egy anyag relatív permittivitását, vagy másképp dielektromos állandóját mutatja meg, amely az elektromos térben bekövetkez&#245; polarizáció (töltésszétválás) mértéke.
+
+
+
+Azokat az anyagokat nevezik nagy K együtthatójúnak, amelyek a szilícium-dioxidnál magasabb, azaz 3,9-nél több a k-együtthatója. A dielektrikumok esetében kezdetben a minél alacsonyabb k-együttható elérése volt a cél, vagyis hogy minél jobb szigetelõket találjanak, ahogyan a kisebb geometriájú gyártástechnológiák bevezetésével vékonyodott a kapuszigetelõ réteg. A struktúrák vékonyodásával fellépõ szivárgási áram azonban egy miniatürizációs szint után elviselhetetlenné vált, ezért az Intel áttért a kevésbé jó szigetelõanyagokra, amelyeket nagyobb vastagságban alkalmaz, amivel megõrizhetõ a tranzisztor teljesítménye, miközben a kapuszivárgási áram nagy részét el lehet fojtani.
+
+
+ A 32 nanométeres csíkszélességû eljárásban a magas K együtthatójú dielektrikum és a fém kapuelektróda második generációját vezeti be az Intel, bár a pontos mûszaki részleteket egyelõre homály fedi. Azt azonban nyilvánosságra hozta a cég, hogy továbbra is 193 nanométeres levilágítókat használ majd, azonban a "kritikus rétegek" esetében immerziós technológiát vet be -- ilyenkor a szilíciumlemezen egy folyadékréteg -- jelenleg nagy tisztaságú víz -- segít a fénysugár fókuszálásában és a minták rajzolásában. 
+
+Új tranzisztor?
+
+A vállalat már 2006-ban bejelentette, hogy a 32 nanométeres technológiával párhuzamosan egy teljesen újszerû, háromkapus (tri-gate) tranzisztort is bevezet. A háromkapus tranzisztor alkotóelemei nem rétegszerûen helyezkednek el, hanem háromdimenziós struktúrát alkotnak: a forrás (source) és a nyelõ (drain) a szubsztrátból kiemelkedõ vezetéken kap helyet, amelyet azonban három oldalán érintve (tri-gate) satuszerûen fog közre a kapuelektróda (gate). A vállalat mérnökei úgy vélik, ez a struktúra a jelenlegi gyártástechnológiával is elõállítható, ugynakkor a hasonló  kapuhosszúságú planáris tranzisztorokénál sokkal nagyobb teljesítményt nyújt.
+
+Az Intel most kiadott közleménye nem tér ki a háromkapus tranzisztorra, azt azonban kiemeli, hogy a most bejelentett 32 nanométeres eljárás eredményezi a legnagyobb teljesítményû és legkisebb tranzisztorokat az eddig dokumentált hasonló megoldások közül. Az Intel állítása szerint a 32 nanométers technológiával 15 nanométerre szorítható le a tranzisztorok kapuhossza. Mark Bohr, az Intel gyártástechnológiai fejlesztésekért felelõs vezetõje elmondta, a 32 nanométeres eljárással létrehozott áramkörök csupán az optikai zsugorításnak köszönhetõen 50 százalékkal kisebb területet igényelnek majd mint a 45 nanométeres chipek.
+
+Már a 22 nanométeres eljáráson dolgoznak
+
+A vállalat eközben már gõzerõvel dolgozik a 22 nanométeres eljáráson, amelyet 2011 körül láthatunk elõször tömegtermelésben. Egyelõre úgy tûnik, az extrém ultraibolya litográfia akkor sem lesz eléggé érett ahhoz, hogy tömegtermelésben bevessék, ezért az Intel alighanem immerziós litográfiát alkalmaz majd "double pattering" technikával, ami azt jelenti, hogy ami azt jelenti, hogy lényegében kétszer világítják le ugyanazt a mintát, egymást kiegészítõ maszkokkal (az Intel jelenleg használt 45 nanométeres eljárásán is beveti ezt a trükköt). Az eljárás hátránya, hogy a gyártásban ez a lépés a korábbinál több idõt igényel, vagyis a gyártósor kapacitása csökken, cserébe viszont a korábban milliárd dolláros nagyságrendû befektetéssel megvásárolt levilágítók továbbra is használatban maradhatnak.

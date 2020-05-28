@@ -1,0 +1,18 @@
+Az egészségügybe is beszivárogna a Google
+
+[DailyTech] Az egészségügy egyes dokumentációs problémáira is megoldást nyújtana a Google: a floridai Healthcare Information and Management Systems Society (HIMSS) konferencián Eric Schmidt, a vállalat elnök-vezérigazgatója vázolta fel a hallgatóságnak a készülõ Google Health elõnyeit. A Google Health-en keresztül az orvosok egyetemleges felületen férhetnének hozzá a betegek egyes adataihoz.
+
+
+
+A Google Health-ben mindenki online felületre tölthetné fel, egységesen gyûjthetné egészségével kapcsolatos adatait, dokumentumait, melyhez az orvosok az interneten keresztül szintén hozzáférhetnének megfelelõ eszközök, például Tablet PC-k segítségével. A Google szerint megoldásuk biztonságosságával és támogatással különbözhet fõként a hasonló szolgáltatásoktól.
+
+Eric Schmidt elmondta, hogy vállalata harmadik felekkel dolgozik együtt az orvosi dokumentumok, kórelõzmények, korábban felírt receptek és különbözõ tesztek eredményeinek digitalizálásán, integrálásán az online rendszerbe. A vállalat szerint amennyiben megfelelõ támogatást kapnak a gyógyszertáraktól, laboratóriumoktól, az orvosoknak nem kell a kinyomtatott eredményekre várni a jövõben.
+
+
+Bár a Google Health nem tartozik a HIPAA (Health Insurance Portability and Accountability Act) alá, mely a betegek adatait hivatott védeni, a Google szerint saját megoldásuk már most sokkal nagyobb biztonságot nyújt a tárolt adatoknak, mint amelyet a HIPAA elõír.
+
+
+
+Az online tárolt egészségügyi adatok több szempontból is elõnyösek lehetnek. Nem csak az elfelejtett gyógyszerallergiákra, elhagyott zárójelentésekre lehetne gyógyír, hanem számos receptekkel kapcsolatos visszaélésre alkalmat adó kiskaput bezárhatna, hiszen minden orvoslátogatás, receptfelírás és -kiváltás szerepelne az adott beteg adatbázisában.
+
+A Google várhatóan a következõ hónapokban teszi majd elérhetõvé a Google Health-et, egyelõre nem határozott meg konkrét idõpontot a szolgáltatás bevezetésére.

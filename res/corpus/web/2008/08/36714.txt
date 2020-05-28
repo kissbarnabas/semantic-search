@@ -1,0 +1,23 @@
+Csendben fejlõdik a YouTube
+
+Észrevétlenül, apróbb lépésekkel fejleszti a Google a világ legnagyobb videómegosztóját, a YouTube-ot, úgy, hogy a fejlesztések mögött stratégiai gondolkodás is rejtõzik. Csak akkor vezetnek be egy szolgáltatást, ha arra valós felhasználói igény vagy fizetõképes hirdetõi érdeklõdés mutatkozik. Élõ YouTube videóadás, felugró kommentárok és precízebb jogi szabályozás színesíti a szolgáltatást.
+
+
+
+Eredetileg idén, 2008 végén indult volna a YouTube Live video stream szolgáltatása, amit azonban most mégis elhalasztottak 2010-re. Az egyik alapító Steve Chen azt nyilatkozta idén februárban, hogy mindig is szerette volna megvalósítani ezt az ötletet, de eddig nem voltak meg az erõforrások ahhoz, hogy rendesen megcsinálják. Azután viszont, hogy a Google megvásárolta õket, esély nyílt ennek a kivitelezésére.
+
+Az Silicon Alley Insider úgy tudja, hogy a Google vezetése nem is tudott errõl az ötletrõl, éppen ezért a bejelentés után a fiókba került hosszú hónapokra, hiszen a megvalósításhoz elképesztõ mennyiségû szerverkapacitás és sávszélesség igény jelentkezne, amit pedig egyelõre nem fedeznének a szolgáltatásból eredõ bevételek. Becslések szerint ha minden tizedik látogató használná a Live Streaminget, akkor a cégnek 20-25 százalékkal kellene bõvítenie a kiszolgáló infrastruktúrát, tehát a szerverek számát és a sávszélességet. Ennek technikai akadálya nincs, a Google viszont megvárja, amíg a hirdetõi oldal is felnõ ehhez.
+
+
+Egy másik funkció, a videó kommentár lehetõsége is használható akár hirdetési célokra is. A YouTube (Google) egyik képviselõje kérdésünkre szûkszavúan annyit reflektált, hogy egy éppen most bevezetett funkciót fedeztünk fel, melyrõl "Video Annotations" néven olvashatunk többet. A funkció lényege, hogy a felhasználók a saját maguk által feltöltött klippre a webes felületen keresztül rászerkeszthetnek jegyzeteket, beszédbuborékot vagy akár egy figyelemfelkeltõ keretet. Az elemek helye, a megjelenés ideje és a szövegek teljesen szabadon változtathatóak, könnyen kezelhetõek, bárki képes készség szinten használni. Lejátszás közben pedig természetesen ezek bármikor kikapcsolhatóak.
+
+Elsõ ízben egy hazai elõadó, Erik Sumo (Tövisházi Ambrus), saját maga által feltöltött klippjében találkoztunk ezzel a megoldással a közelmúltban, ahol is a klip elsõ másodperceiben a buboréküzenet arra hívja fel a figyelmet, hogy a koncertjük idõpontja megváltozott. Tövisházi szerkesztõségünk kérdésére elmondta, hogy maga is úgy vette észre az új lehetõséget, hogy belépett saját videói közé és ott fedezte fel az eszközt. A mûvész örül annak, hogy ezentúl a koncertdátumokat vagy fontos üzeneteket ilyen egyszerûen, ráadásul ingyen tudja eljuttatni a rajongóihoz, hisz a YouTube-ot egyébként is a zenekarok számára egyik leghatékonyabb reklámfelületnek gondolta.
+
+
+
+
+
+
+A YouTube a felhasználók mellett a szerzõi jogokért aggódó szervezeteknek is kénytelen kedvére tenni, aminek okán egyre gyakrabban találkozhatnak a felhasználók azzal az üzenettel, hogy az adott videó az õ országában nem elérhetõ. Miután a Google a legtöbb nagy zenei kiadóval már korábban megállapodásokat kötött, számos videóklip bekerülhetett rendszerbe, de nagyon sok csak az amerikai internetezõk számára érhetõ el. Ugyanez a helyzet az olimpiai közvetítésekkel is, amiket csak olyan országokból lehet megtekinteni, ahol nem lett eladva a közvetítési jog, így nem sérti a TV társaságok érdekeit. 
+
+Az amerikai NBC például azonnal elérhetetlenné tetette a megnyitóünnepség feltöltött videóit, mivel az idõeltolódás miatt azokat már akkor meg lehetett nézni, amikor a hivatalos közvetítés még el sem kezdõdött. Ezzel kapcsolatban a YouTube illetékese szerkesztõségünknek azt nyilatkozta, hogy ugyan a videók nagyobb része a világ minden pontján elérhetõ mindenki számára, de egyes esetekben a helyi törvények vagy egyéb érzékeny témák miatt bizonyos felvételeket nem engedélyeznek csak adott országokban. A YouTube-os válaszadó azt is kiemelte, hogy a feltöltött videók szerzõi jogaival nem õk rendelkeznek és a partnereknek joguk van azt kérni, hogy csak bizonyos területeken legyenek elérhetõek a felvételek, mostanra pedig már a technikai feltételek is adottak ehhez. 

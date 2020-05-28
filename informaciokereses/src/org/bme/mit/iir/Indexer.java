@@ -92,6 +92,12 @@ public class Indexer {
     }
 
     public void findDocumentsWithAllWords(List<String> searchKeywords, int minSearchWords){
+
+        if(searchKeywords.size()>minSearchWords){
+            System.out.println("minSearchWords cannot be larger than the number of searchKeywords!");
+            return;
+        }
+
         //A map containing the indices. Key: word, value: a map with key: filename, value: frequency of occurrence
         HashMap<String,Map<String, Double>> indices = gson.fromJson(readFile(outputFilePath), HashMap.class);
 

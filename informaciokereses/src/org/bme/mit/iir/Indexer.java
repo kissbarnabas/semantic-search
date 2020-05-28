@@ -152,6 +152,7 @@ public class Indexer {
             var found = wordsFound.get(res.getKey());
             System.out.println("Words found in "+res.getKey()+": "+String.join(", ", found));
         }
+        System.out.println("Number of relevant documents: "+resultList.size());
     }
 
     //A class responsible to store the statistics of a document

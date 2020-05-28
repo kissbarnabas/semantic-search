@@ -93,7 +93,7 @@ public class Indexer {
 
     public void findDocumentsWithAllWords(List<String> searchKeywords, int minSearchWords){
 
-        if(searchKeywords.size()>minSearchWords){
+        if(searchKeywords.size()<minSearchWords){
             System.out.println("minSearchWords cannot be larger than the number of searchKeywords!");
             return;
         }

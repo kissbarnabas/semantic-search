@@ -18,8 +18,6 @@ public class Indexer {
     private String searchDirectoryPath;
     private String outputFilePath;
     private String stopWordsFilePath;
-    private Map<String, Map<String, Integer>> indexMap = new HashMap<>();
-    private Util util = new Util();
     private TermRecognizer termRecognizer;
     private Gson gson = new Gson();
 

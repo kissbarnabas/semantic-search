@@ -15,15 +15,19 @@ import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
 public class Indexer {
-    private String searchDirectoryPath="../res/a";
-    private String outputFilePath="indices.json";
-    private String stopWordsFilePath="../res/stopwords.txt";
+    private String searchDirectoryPath;
+    private String outputFilePath;
+    private String stopWordsFilePath;
     private Map<String, Map<String, Integer>> indexMap = new HashMap<>();
     private Util util = new Util();
     private TermRecognizer termRecognizer;
     private Gson gson = new Gson();
 
-    {
+    public Indexer(String searchDirectoryPath, String outputFilePath, String stopWordsFilePath) {
+        this.searchDirectoryPath = searchDirectoryPath;
+        this.outputFilePath = outputFilePath;
+        this.stopWordsFilePath = stopWordsFilePath;
+
         try {
             termRecognizer = new TermRecognizer(getStopWordsSet());
         } catch (IOException e) {
@@ -31,25 +35,13 @@ public class Indexer {
         }
     }
 
-    public Indexer() {
-
-    }
-    public Indexer(String searchDirectoryPath, String outputFilePath, String stopWordsFilePath) {
-        this.searchDirectoryPath = searchDirectoryPath;
-        this.outputFilePath = outputFilePath;
-        this.stopWordsFilePath = stopWordsFilePath;
-    }
-
-    public Indexer(String searchDirectoryPath, String outputFilePath) {
-        this.searchDirectoryPath = searchDirectoryPath;
-        this.outputFilePath = outputFilePath;
-    }
-
-    public HashSet<String> getStopWordsSet() throws IOException {
+    // Returns a list constructed from the file containing the stop words
+    private HashSet<String> getStopWordsSet() throws IOException {
         return new HashSet<String>(
                 Util.readLinesIntoList(stopWordsFilePath));
     }
 
+    // Returns all filenames of regular files in search directory and all subdirectories
     public List<Path> getFileNames(String sDir) {
         try {
             int i= 0;
@@ -61,9 +53,10 @@ public class Indexer {
         return null;
     }
 
-    public void readLinesOfFile() {
+    // Creates index file
+    public void createIndexFile() {
         try {
-            //Map with key: word, value: a map with key: document, value: frequency
+            //Map with key: word, value: a map with key: filename, value: frequency of occurrence
             var frequency = new HashMap<String,Map<String, Integer>>() ;
 
             var filesOfDir = getFileNames(searchDirectoryPath);
@@ -71,14 +64,16 @@ public class Indexer {
             for(Path file : filesOfDir){
                 String filename = file.getFileName().toString();
 
-                //Get frequencies in current file
+                //Get all words with frequencies in current file
                 var frequenciesOfFile = getFrequenciesOfFile(file.toString());
 
+                //Iterating through all words in file and creating indices
                 for (var frequencyOfWord : frequenciesOfFile.entrySet()){
                     String word = frequencyOfWord.getKey();
 
                     var currentValue = frequency.get(word);
 
+                    //If entry does not exist, create new entry
                     if(currentValue == null){
                         var newWordMap = new HashMap<String, Integer>();
                         newWordMap.put(filename, frequencyOfWord.getValue());
@@ -90,52 +85,80 @@ public class Indexer {
                 }
             }
 
-            frequency.keySet().forEach(System.out::println);
-
-
             String json = gson.toJson(frequency);
             printToFile(outputFilePath, json);
-
+            System.out.println("Success! Results can be found in file "+outputFilePath);
         } catch (IOException e) {
             e.printStackTrace();
         }
     }
 
-    public void findDocumentsWithAllWords(List<String> words, int minSearchWords){
-        HashMap<String,Map<String, Double>> dx = gson.fromJson(readFile(outputFilePath), HashMap.class);
+    public void findDocumentsWithAllWords(List<String> searchKeywords, int minSearchWords){
+        //A map containing the indices. Key: word, value: a map with key: filename, value: frequency of occurrence
+        HashMap<String,Map<String, Double>> indices = gson.fromJson(readFile(outputFilePath), HashMap.class);
+
+        //A map containing the results of the search.
+        // The DocumentStats stores the number of search words, that can be found in the documents, and the cumulated frequencies.
         HashMap<String, DocumentStats> result = new HashMap<>();
 
-        for(String word : words){
-            var docs = dx.get(word);
-            for(var entry: docs.entrySet()){
-                String doc = entry.getKey();
+        //A map containing the search keywords, that can actually be found in a document.
+        HashMap<String, List<String>> wordsFound = new HashMap<>();
 
-                var statEntry = result.get(doc);
-                if(statEntry == null){
-                    var newDocumentStat = new DocumentStats();
-                    newDocumentStat.incrementSearchWords();
-                    newDocumentStat.increaseTotalFrequency(entry.getValue());
+        for(String word : searchKeywords){
+            //Documents containing the current keyword (with frequencies)
+            Map<String, Double> docs = indices.get(word);
+            if(docs != null ){
+                for(var entry: docs.entrySet()){
 
-                    result.put(doc, newDocumentStat);
-                } else{
-                    statEntry.incrementSearchWords();
-                    statEntry.increaseTotalFrequency(entry.getValue());
+                    String documentName = entry.getKey();
+
+                    //Update list of keywords found in document
+                    var foundInDoc = wordsFound.get(documentName);
+                    if(foundInDoc == null){
+                        foundInDoc = new ArrayList<String>();
+                        wordsFound.put(documentName, foundInDoc);
+                    }
+                    foundInDoc.add(word);
+
+                    //Update statistics of document
+                    var statEntry = result.get(documentName);
+                    if(statEntry == null){
+                        var newDocumentStat = new DocumentStats();
+                        newDocumentStat.incrementSearchWords();
+                        newDocumentStat.increaseTotalFrequency(entry.getValue());
+
+                        result.put(documentName, newDocumentStat);
+                    } else{
+                        statEntry.incrementSearchWords();
+                        statEntry.increaseTotalFrequency(entry.getValue());
+                    }
                 }
+            } else {
+                System.out.println("Not found!");
             }
         }
+
+        //This map stores only the entries of those documents, that contain at least so many search keywords, as specified by minSearchWords
         HashMap<String, Integer> finalResultMap = new HashMap<>();
         for(var entry: result.entrySet()){
             if(entry.getValue().getSearchWords()>=minSearchWords){
-                //Value considered by search: product of search words and total frequency
+                //Value considered by the ranking of results: product of search searchWords and total frequency
                 finalResultMap.put(entry.getKey(), (int) (entry.getValue().searchWords*entry.getValue().totalFrequency));
             }
         }
-        var megaResults = sortMapByValue(finalResultMap);
-        megaResults.forEach(System.out::println);
+        var resultList = sortMapByValue(finalResultMap);
+        resultList.forEach(System.out::println);
+        for(var res : resultList){
+            var found = wordsFound.get(res.getKey());
+            System.out.println("Words found in "+res.getKey()+": "+String.join(", ", found));
+        }
     }
 
+    //A class responsible to store the statistics of a document
     class DocumentStats{
+        //Number of search keywords contained in the document
         private Double searchWords = 0.0;
+        //Cumulated frequencies of keywords in document
         private Double totalFrequency = 0.0;
 
         public void incrementSearchWords(){
@@ -154,20 +177,22 @@ public class Indexer {
         }
     }
 
-    public Stream<Map.Entry<String, Integer>> sortMapByValue(Map<String, Integer> map ){
+    private List<Map.Entry<String, Integer>> sortMapByValue(Map<String, Integer> map ){
         Stream<Map.Entry<String, Integer>> sorted =
                 map.entrySet().stream()
                         .sorted(Map.Entry.comparingByValue());
-        return sorted;
+        List<Map.Entry<String, Integer>> list = sorted.collect(Collectors.toList());
+        Collections.reverse(list);
+        return list;
     }
 
     //Returns all files in the directory and subdirectories
-    public Map<String, Integer> getFrequenciesOfFile(String filePath) throws IOException {
+    private Map<String, Integer> getFrequenciesOfFile(String filePath) throws IOException {
         var lines = Util.readLinesIntoList(filePath);
         return termRecognizer.termFrequency(String.join(" ",lines ));
     }
 
-    public void printToFile(String filePath, String text){
+    private void printToFile(String filePath, String text){
         try (PrintWriter out = new PrintWriter(filePath)) {
             out.println(text);
         } catch (FileNotFoundException e) {
@@ -175,7 +200,8 @@ public class Indexer {
         }
     }
 
-    public String readFile(String filePath){
+    //Reads file and returns its content as a string
+    private String readFile(String filePath){
         String json = "";
         try {
             try (BufferedReader br = Files.newBufferedReader(Paths.get(filePath), StandardCharsets.UTF_8)) {
